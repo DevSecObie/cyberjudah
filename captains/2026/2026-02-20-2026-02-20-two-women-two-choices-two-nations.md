@@ -1,0 +1,220 @@
+---
+title: "Two Women, Two Choices, Two Nations"
+slug: "2026/2026-02-20-two-women-two-choices-two-nations"
+date: "2026-02-20"
+teacher: "Captain Michael"
+description: "15 Minutes w/ The Captains · 2026-02-20"
+tags: ["15 Minutes w/ The Captains", "christ", "faith", "the-word", "women"]
+---
+
+<p class="taught">15 Minutes w/ The Captains · 2026-02-20</p>
+
+<span class="opens"><b>Opens</b> [2 Tim 2](/bible/2-timothy/2) · [Matt 15](/bible/matthew/15) · [Deut 7](/bible/deuteronomy/7) · [Isa 40](/bible/isaiah/40) · [John 4](/bible/john/4) · [Isa 7](/bible/isaiah/7) · [Rom 12](/bible/romans/12)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="rCY2LnPnb4g"></div>
+
+## Introduction
+
+*[[0:14](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=14s)]* Shalom. Captain Michael here. Another 15 minute with the captains. We're going to go over a quick topic today that many people have no understanding on. They get wrong. Mainly our brothers in Christianity totally getting this thing wrong on who Christ came for and who is salvation for. So the class title is called two women, two choices, two nations. Two women, two choices that they had, and two nations. And many of you know this story that we're about to go over. But do you know it correctly?
+
+## Scriptures Opened
+
+**[2 Timothy 2:15](/bible/2-timothy/2#v15)**  *[[1:11](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=71s)]*
+
+> <sup>[15](/bible/2-timothy/2#v15)</sup> Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
+
+- Let's rightly divide the word of truth. You have to know how to rightly divide the word of truth.
+
+- Study to shew thyself approved unto God: we must study. Unto God, not unto men. Studying unto men gets you nowhere. You got to study unto God so you can understand these scriptures.
+
+- Rightly dividing the word of truth: rightly dividing the scriptures, knowing what goes with what, what Christ and the most high is talking about and the prophets are talking about, in the context that is written in.
+
+
+**[Matthew 15:22-27](/bible/matthew/15#v22)**  *[[2:02](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=122s)]*
+
+> <sup>[22](/bible/matthew/15#v22)</sup> And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.
+>
+> <sup>[23](/bible/matthew/15#v23)</sup> But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
+>
+> <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
+>
+> <sup>[25](/bible/matthew/15#v25)</sup> Then came she and worshipped him, saying, Lord, help me.
+>
+> <sup>[26](/bible/matthew/15#v26)</sup> But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs.
+>
+> <sup>[27](/bible/matthew/15#v27)</sup> And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.
+
+- And, behold, a woman of Canaan: a woman of Canaan. Right there, you see it. This is not an Israelite woman. This is a woman of Canaan, another nation.
+
+- Have mercy on me, O Lord, thou Son of David: so she's saying, have mercy. Everybody knew at this time that Christ was born of a man. What does she call him? The son of David. She didn't say you came from nobody, you just came out of Mary, you came straight from God. She said son of David. Everybody knew that Christ came from the loins of another man.
+
+- My daughter is grievously vexed with a devil: a Canaanite woman coming to Christ saying her daughter is vexed from the devil.
+
+- But he answered her not a word: he didn't say not one word to the woman. I thought Christ was here to save everybody. Why would he not answer her?
+
+- And his disciples came and besought him, saying, Send her away; for she crieth after us: you even see this right here. Look, the disciples are telling him to send this woman away. She's bothering us. She's nagging us. She's annoying us. If Christ was for all nations, why are his own disciples saying to send her away? Why would Christ ignore her? Why would he not even answer her? You got to ask yourself that question. If Christ was for everybody, why in this initial situation he's not even acknowledged this Canaanite woman who's crying after him? Remember, he's going all around the town right now healing people, talking to people. But who is he healing? Who is he talking to? He's only talking to the Israelites.
+
+- I am not sent but unto the lost sheep of the house of Israel: now look what he said. The first time he does answer, he says he was only sent for the lost sheep of the house of Israel. Now who sent him? His heavenly father, the most high, sent him down. He got impregnated from Joseph to Mary and he had Christ. Who sent Christ? As we know, the most high.
+
+- Then came she and worshipped him, saying, Lord, help me: now she's crying after him. He already said to her, I'm only sent for the lost sheep of the house of Israel.
+
+- It is not meet to take the children's bread, and to cast it to dogs: so look what he says to her. He said that I'm not going to give the children's bread and cast it to a dog. He's calling a female a dog right now. This is what he's saying to this woman who's crying after him, who's saying she need this help. You Christians say he's all loving. He's all for everybody. Clearly right here, he's showing you that he's not for everybody. He just called her a dog.
+
+- And she said, Truth, Lord: now look, she acknowledged that. Yeah, true. She is a dog. You never see the Israelites in the scriptures calling themselves dogs. You never see them doing anything like that.
+
+
+**[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[6:28](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=388s)]*
+
+> <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
+
+- Because the Israelites knew this. Israelites knew what the Most High said to them in Deuteronomy way back then. They knew how great they was. They understand what the Most High was saying to them. Now, did they follow everything? No.
+
+- The LORD thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth: chosen to be special. Above all people. The Israelites knew they were above all people. Israelites had a lot of pride. That was a lot of sins that they had to deal with. Pride, idolatry, thinking that the Most High wouldn't judge them. That was the sins the Israelites were committing. But they never call themselves dogs and never thought of themselves as being lower than anybody. They knew they were a chosen people.
+
+- But what'd they do? They went into idolatry. They went into sin and fornication. And that's why Christ is on the scene, to do what? Like he said, he is not sent but unto the lost sheep of the house of Israel. Christ came on the scene to bring back the 12 tribes, and only the 12 tribes.
+
+
+**[Matthew 15:27-28](/bible/matthew/15#v27)**  *[[7:47](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=467s)]*
+
+> <sup>[27](/bible/matthew/15#v27)</sup> And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.
+>
+> <sup>[28](/bible/matthew/15#v28)</sup> Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
+
+- Yet the dogs eat of the crumbs which fall from their masters' table: so the woman is saying that she's a dog, and the dogs eat from the crumbs from the master's table. Are they getting the full meal? No. They're getting crumbs. A dog, you throw crumbs from the table. They're not getting the full meal. They're not getting everything that's good in your house. They getting the crumbs, the scraps.
+
+- O woman, great is thy faith: great is thy faith in what? Great is thy faith that the Israelites are the masters. Christ is a master, and she is a dog.
+
+- The nations are nothing. In the Old Testament, the nations are nothing. They're like a dust on a scale. We understood this. When I say we, us Israelites at that time understood that the nations were supposed to be lower than us. The only reason why the Roman was ruling at that time is because we went into captivity for breaking the Lord's commandments.
+
+
+**[Isaiah 40:15-17](/bible/isaiah/40#v15)**  *[[9:14](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=554s)]*
+
+> <sup>[15](/bible/isaiah/40#v15)</sup> Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.
+>
+> <sup>[16](/bible/isaiah/40#v16)</sup> And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
+>
+> <sup>[17](/bible/isaiah/40#v17)</sup> All nations before him are as nothing; and they are counted to him less than nothing, and vanity.
+
+- Behold, the nations are as a drop of a bucket: a drop in the bucket, a crumb. The nations, like to a whole meal, the nations are like a crumb. They a drop in a bucket.
+
+- And are counted as the small dust of the balance: a small dust. That's what the woman is asking. She's asking for a small dust. She's asking for a small crumb. That's all she deserved. She's counted as nothing.
+
+- All nations before him are as nothing: all the nations before him are as nothing. Canaanite woman before Christ was as nothing.
+
+
+**[Matthew 15:28](/bible/matthew/15#v28)**  *[[10:15](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=615s)]*
+
+> <sup>[28](/bible/matthew/15#v28)</sup> Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
+
+- She had faith in, go back to Matthew, that's what he's saying, great is your faith, meaning that, okay, you have faith that we are the masters and you are the dogs.
+
+- And her daughter was made whole from that very hour: did he say, go and sin no more? Did he say, oh, the kingdom of heaven is for you and your daughter? No. He said, you have faith that you're a dog and we're the masters. So I'll throw you a crumb and I'll heal your daughter from the demon. That's it. You don't see no more of him dealing with her at all. It's going to be different from the other woman we're going to talk about.
+
+- Y'all know this story. The woman at the well, the Samaritan woman. Look at the difference between the woman of Canaan. The choice she had was what? Her only choice was to say, hey, okay, you're the master. I'm the dog. Please heal my daughter. That was it. That was the choice she had. Now we're going to see what choice this woman had.
+
+
+**[John 4:6-7](/bible/john/4#v6)**  *[[11:21](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=681s)]*
+
+> <sup>[6](/bible/john/4#v6)</sup> Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
+>
+> <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
+
+- Jesus therefore, being wearied with his journey, sat thus on the well: he was tired. So Christ is like a man just like all of us. He got tired too. So he sat down at the well.
+
+- There cometh a woman of Samaria: the woman of Samaria. Let's just get who Samaria is real quick. Because right now in your mind, Christians, you thinking that the Samaritan woman is from another nation.
+
+
+**[Isaiah 7:8-9](/bible/isaiah/7#v8)**  *[[12:02](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=722s)]*
+
+> <sup>[8](/bible/isaiah/7#v8)</sup> For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.
+>
+> <sup>[9](/bible/isaiah/7#v9)</sup> And the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If ye will not believe, surely ye shall not be established.
+
+- And within threescore and five years shall Ephraim be broken, that it be not a people: and you read it also, that Ephraim be broken, or be not a people. They were considered to God not a people at that time cuz what? They went into idolatry. They were breaking the commandments.
+
+- And the head of Ephraim is Samaria: the head of Ephraim is Samaria. You people, you Christians, Christianity people, go back and read the split back in Kings with Solomon, Jeroboam, and Rehoboam. The northern kingdom will be not a people. You see right there, Ephraim is the head of Samaria. A lot of the Ephraimite northern kingdom, they lived in Samaria. So this Samaritan woman right now was from the northern kingdom.
+
+- We got to read things in context. Rightly divide the word of truth. You're not dividing nothing. Y'all just breaking the law and think you'll get understanding. The way to understand is to keep the commandments.
+
+
+**[John 4:7-11](/bible/john/4#v7)**  *[[13:19](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=799s)]*
+
+> <sup>[7](/bible/john/4#v7)</sup> There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
+>
+> <sup>[8](/bible/john/4#v8)</sup> (For his disciples were gone away unto the city to buy meat.)
+>
+> <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
+>
+> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
+>
+> <sup>[11](/bible/john/4#v11)</sup> The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
+
+- Jesus saith unto her, Give me to drink: he said, give me a drink. For his disciples were gone away unto the city to buy meat: they went to get some food, went to buy some meat.
+
+- How is it that thou, being a Jew: so she know he's a Jew. She see his fringes. She see how he's dressed.
+
+- Askest drink of me, which am a woman of Samaria: a woman of Samaria, meaning the northern kingdom. A lot of the northern kingdom was living in Samaria. Ephraim, we just read it, Ephraim is the head of Samaria. So she's saying, why are you, a Jew, asking me for a drink from the northern kingdom? They are both Israelites. But the verse is going to explain itself.
+
+- For the Jews have no dealings with the Samaritans: so the Jews at that time had no dealings with the northern kingdom. Hence when we read about Christ, he said, like we just read before, I am not sent but unto the lost sheep of the house of Israel. Not just the Jews, all 12 tribes.
+
+- If thou knewest the gift of God: he's not talking to her the same at all like the other woman. Christ knows she's an Israelite. Why is he talking about God to her already? He didn't say that to the other woman, to the Canaanite woman. He said, you a dog. He said it is not meet for me to give anything from the Israelites to the dogs, the children's bread, children of Israel, to the dog, the Canaanite woman, another nation, the heathens. You can see already there's a difference. Totally different. Two different women, two different nations, and two different choices that Christ has given them.
+
+- And he would have given thee living water: living water. The other woman, he ain't said nothing about living nothing to that woman. He said, you a dog. I'll throw you a crumb. Take your daughter's heel. All right, just go. Get out of here. He ain't said, go and sin no more. He ain't said nothing about eternal life, because she was not from the Israelite nation. He said to her, I didn't come for you. Came for the Israelites. He came for the woman in Samaria.
+
+- Art thou greater than our father Jacob: our father Jacob. What is she saying? They come from the same lineage. Abraham, Isaac, Jacob. That was Jacob's well for all the 12 tribes to drink from. The other woman didn't say nothing like that. Other woman didn't say, our father Jacob got promised a Messiah, can you please heal me? None of that. The Canaanite woman knew she was a dog. Knew she was a heathen. But she knew Christ was the master too.
+
+- And that day is coming back again. Well, all the heathens are going to understand who we are. When we start keeping the commandments and Christ comes back, that day is coming. Well, they will have to bow their knee to us and beg for that same thing. Maybe throw him a crumb. Maybe, maybe not. But we'll see in that day.
+
+
+**[Romans 12:18](/bible/romans/12#v18)**  *[[18:55](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=1135s)]*
+
+> <sup>[18](/bible/romans/12#v18)</sup> If it be possible, as much as lieth in you, live peaceably with all men.
+
+- You see, Christ didn't show hate to that woman. He threw her a crumb. We don't hate people today. If I see a heathen on the street bleeding, yeah, I'll throw him a crumb. I'll call the ambulance. I'll call the police and say, hey, this person needs help. They're bleeding on the street. But am I going to offer them eternal life? Am I going to say, hey, you're an Israelite, you need to keep the commandments, the kingdom of heaven is for you? No, I'm not going to say that to a Japanese man, Chinese man, Arab man. But if they're in distress, they need something, we don't hate anybody. I will do what I can to help them.
+
+- We had a time we had to do that at Passover. There was a drunken man, I think it was drunken Edomite, passed out somewhere in my hotel, and he could have died. He could have had alcohol poison. So we told the staff, hey, come get this guy right here. He may need some help. We didn't let him just sit there and just die, cuz we don't have hatred for anybody. We're not a hate group. It's not a hate thing. It's a love thing for the 12 tribes of the children of Israel.
+
+- When Paul says make peace with all men, we're the peacemakers. Blessed be the peacemakers. And when Christ comes back, he's the one that's going to do all the tearing up. That's it.
+
+- This is what we live by, for everybody that try to call us a hate group. We ain't hating nobody. We ain't putting hands on nobody. We ain't killing nobody. We just keeping God's laws and try to get our people off drugs, off the abortion, off the single parent households, showing love to one another, talking about marriages, talking about the men standing up for the households. We show love for our people.
+
+- If it be possible, as much as lieth in you, live peaceably with all men: so we trying to live peaceably with all men. That's what God told us to do. Not to hate anybody, if it's possible.
+
+
+**[John 4:12-14](/bible/john/4#v12)**  *[[20:14](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=1214s)]*
+
+> <sup>[12](/bible/john/4#v12)</sup> Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
+>
+> <sup>[13](/bible/john/4#v13)</sup> Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+>
+> <sup>[14](/bible/john/4#v14)</sup> But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
+
+- Which gave us the well: gave us the well. 12 tribes.
+
+- Whosoever drinketh of this water shall thirst again: talking about that regular water. He's saying whoever drink that water from the well, yeah, you going to thirst again. Let's see what he offers her. Let's see what choice he gives her.
+
+- But whosoever drinketh of the water that I shall give him: he's going to give. He didn't offer the other woman nothing like this. Shall never thirst.
+
+- Springing up into everlasting life: everlasting life. That's what he offered her. Did he offer the Canaanite woman this? No, not at all. Matter of fact, this woman didn't even ask anything. Christ just offered it to her. Christ was the one asking for a drink of water. You see that? And he just freely offered her everlasting life, because he is not sent but unto the lost sheep of the house of Israel. Just like we read in Matthew.
+
+- Clearly different. Two different women, two different choices, two different nations. One is a heathen nation, one is the Israelite nation.
+
+
+**[Matthew 15:24](/bible/matthew/15#v24)**  *[[21:59](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=1319s)]*
+
+> <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
+
+- Everlasting life. That's what he offered the Samaritan woman, the Ephraimite woman from the northern kingdom. This is why he came.
+
+- I am not sent but unto the lost sheep of the house of Israel: you see that? He's only sent for the lost sheep of the house of Israel. So should be no confusion on what the difference between the two women. One is an Israelite, one is a heathen. One was offered a crumb. One was offered eternal life in the kingdom.
+
+
+## In Closing
+
+*[[22:46](https://www.youtube.com/watch?v=rCY2LnPnb4g&t=1366s)]* And with that we say shalom.
+
+---
+
+[15 Minutes Index](/captains) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=rCY2LnPnb4g)
