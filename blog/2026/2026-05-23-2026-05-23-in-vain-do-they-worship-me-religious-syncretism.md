@@ -58,7 +58,51 @@ The early morning captain's class, taught from Phoenix, Arizona. Happy Sabbath: 
 
 - And when the day of Pentecost was fully come, they were all with one accord in one place. That feast of Pentecost was the feast of weeks.
 
-Definitions read in class: syncretism in religion is the blending of diverse religious beliefs, traditions, or practices into a new or combined system. It often happens organically when different cultures interact, exchange ideas, or are assimilated through historical events like trade, migration, or conquest. Notice how it jumps from exchanging ideas to being assimilated: another word for conquest is slavery. The Wikipedia entry adds that syncretism is the combining of distinct beliefs or schools of thought, particularly religious ones, where features of one religion are incorporated and absorbed into another, asserting an underlying unity and allowing an inclusive approach to multiple faiths. Inclusivism asserts there is beauty in the variety of different schools of thought and that they can coexist; it stands in contrast to exclusivism, which asserts that only one way is true and all others are erroneous. The entry also mentioned anthropology, the scientific study of humanity, of cultures, societies, norms, and values.
+<div class="reading">
+
+Reading from the AI overview definition of syncretism  *[[21:04](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1264s)]*
+
+> Syncretism in religion is the blending of diverse religious beliefs, traditions or practices into a new or combined system.
+
+> It often happens organically when different cultures interact, exchange ideas or are assimilated through historical events like trade, migration or conquest.
+
+- So it can happen when cultures interact. You would think that's willingly, right?
+
+- Or are assimilated. Now wait a minute. Now it jumps to something else. This is "or are assimilated." That's not really, you know, you just exchanging ideas any longer, right?
+
+- Migration, going from one place to another.
+
+- Or conquest, or another word for that is slavery.
+
+</div>
+
+<div class="reading">
+
+Reading from the Wikipedia entry on syncretism  *[[22:38](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1358s)]*
+
+> Syncretism is the combining or merging of various distinct beliefs or schools of thought, particularly religious ones. For instance, features and components of one religion are incorporated and absorbed into another. It can include assimilation of several originally discrete traditions, especially in theology and mythology, thus asserting an underlying unity and allowing for an inclusive approach to multiple faiths.
+
+</div>
+
+<div class="reading">
+
+Reading from the linked entry on inclusivism  *[[23:27](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1407s)]*
+
+> Inclusivism is one of several approaches in religious studies, anthropology or civics to understand the relationship between different religions, societies, cultures, political factions, etc.
+
+- So, hold on a second. So, it says anthropology.
+
+</div>
+
+<div class="reading">
+
+Reading from the linked entry on anthropology  *[[24:35](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1475s)]*
+
+> Anthropology is the scientific study of humanity that crosses biology and sociology, concerned with human behavior, human biology, culture, societies, and linguistics in both the present and past, including archaic humans. Social anthropology studies patterns of behavior while cultural anthropology studies cultural meaning, including norms and values.
+
+- So, it's the study of societies and people.
+
+</div>
 
 **[Psalms 64:4-6](/bible/psalms/64#v4)**  *[[25:20](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1520s)]*
 
@@ -70,6 +114,18 @@ Definitions read in class: syncretism in religion is the blending of diverse rel
 
 - That they may shoot in secret at the perfect: we are the perfect. They encourage themselves in an evil matter; they say, who shall see them?
 - They search out iniquities; they accomplish a diligent search. This is when they go and do their studies and research. The other nations, especially Esau, get to go out and dig up the historical artifacts, and when they find out about our history, they know. Cultural anthropology means they study us so they can figure out what drives us and what motivates us, and ultimately how to keep us in the midst of sin.
+
+<div class="reading">
+
+Reading from the entry on inclusivism, continued  *[[27:10](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1630s)]*
+
+> It asserts that there is beauty in the variety of different schools of thought and that they can co-exist.
+
+> It stands in contrast to exclusivism, which asserts that only one way is true and all others are erroneous.
+
+- It says one way is true and all other ways are false. Okay, that's different from inclusion, right? Or even coexisting, right?
+
+</div>
 
 **[Deuteronomy 32:8-9](/bible/deuteronomy/32#v8)**  *[[28:32](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1712s)]*
 
@@ -86,12 +142,54 @@ Definitions read in class: syncretism in religion is the blending of diverse rel
 
 - Reading it in the New Testament: I am not sent but unto the lost sheep of the house of Israel. That is exclusive; no one else is included in that. They do not like to hear that; they run to "neither Jew nor Greek." But it is what it is.
 
+<div class="reading">
+
+Reading from a page on the coexist image  *[[30:36](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1836s)]*
+
+> The coexist image is an image created by Polish Warsaw-based graphic designer … in 2000 as an entry in an international art competition sponsored by the Museum on the Seam for dialogue, understanding and coexistence.
+
+- You got the crescent star of Islam. You got the peace sign, the male female sign. Hey, look. It says Judaism. That's not Judaism. We gonna read about Judaism later.
+
+</div>
+
 **[Acts 7:43](/bible/acts/7#v43)**  *[[31:53](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1913s)]*
 
 > <sup>[43](/bible/acts/7#v43)</sup> Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.
 
-- The coexist image was shown: an image created by a Warsaw based Polish graphic designer in 2000 as an entry in an international art competition sponsored by the Museum on the Seam for dialogue, understanding, and coexistence. In the lettering you have the crescent and star of Islam, the peace sign, the male and female sign, a star they label Judaism, the wicca pentagram, the yin and yang of Taoism, and the cross of Christianity, and they are saying all of these are supposed to coexist.
+- So then we've got the wicca, Taoism, Confucianism, confusion, right? And Christianity. And they're saying all these are supposed to coexist.
 - That star is not the star of David. Ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.
+
+<div class="reading">
+
+Reading from the Wikipedia entry on syncretism, continued  *[[33:17](https://www.youtube.com/watch?v=ZztygjY4U2w&t=1997s)]*
+
+> While syncretism in art and culture is sometimes likened to eclectism, in the realm of religion it specifically denotes a more integrated merging of beliefs into a unified system, distinct from eclectism, which implies a selective adoption of elements from different traditions without necessarily blending them into a new cohesive belief system.
+
+> Religious syncretism is the blending of two or more religious belief systems into a new system, or the incorporation into a religious tradition of beliefs from unrelated traditions. This can occur for many reasons, and the latter scenario happens quite commonly in areas where multiple religious traditions exist in proximity and function actively in a culture, or when a culture is conquered and the conquerors bring their religious beliefs with them but do not succeed in entirely eradicating the old beliefs or especially practices.
+>
+> Religions may have syncretic elements to their beliefs or history, but adherence of so-labeled systems often frown on applying the label, especially adherence who belong to revealed religious systems such as the Abrahamic religions,
+
+- And Bishop has gone over that and the deacons have gone over that before, about the Abrahamic religions.
+
+> or any system that exhibits an exclusivist approach.
+
+- Or any system with an exclusivist approach. That's keeping the laws in the faith of Christ.
+
+> Such adherence sometimes see syncretism as a betrayal of their pure truth. By this reasoning, adding an incompatible belief corrupts the original religion, rendering it no longer true. Indeed, critics of a syncretistic trend may use the word or its variance as a disparaging epithet.
+
+> Syncretism was a feature of Hellenistic ancient Greek religion, though only outside Greece. Overall, Hellenistic culture in the age that followed Alexander the Greek itself showed syncretist features, essentially blending Mesopotamian, Persian, Anatolian, Egyptian, and eventually Etruscan-Roman elements within a Hellenic formula.
+>
+> The Egyptian god Amun was developed into the Hellenized Zeus
+
+- You see that? Because of the blending, right, of those cultures.
+
+> Ammon after Alexander the Greek went into the desert to seek out his oracle at the Siwa Oasis. The Romans, identifying themselves as joint heirs to a very similar civilization, identified Greek gods with similar figures in the Etruscan-Roman tradition, though usually without copying cult practices. For details, see …
+>
+> Syncretic gods of the Hellenistic period also found wide favor in Rome. For example, Serapis, Isis, and Mithras. Cybele as worshiped in Rome essentially represented a syncretic east Mediterranean goddess. The Romans imported the Greek god Dionysus into Rome, where he emerged with the Latin god Liber, and converted the Anatolian Sabazios into Roman Sabazius.
+
+- This is what I wanted right there. The modern history of Christianity, because I want to get into modern Christianity.
+
+</div>
 
 **[Matthew 15:1-9](/bible/matthew/15#v1)**  *[[41:24](https://www.youtube.com/watch?v=ZztygjY4U2w&t=2484s)]*
 
@@ -118,7 +216,6 @@ Definitions read in class: syncretism in religion is the blending of diverse rel
 - Thus have ye made the commandment of God of none effect by your tradition. That is modern day Christianity: they make the commandments of God null and void by their traditions, like the Sabbath day.
 - This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me. They are very good at quoting scriptures and talking about the love of Jesus, but their minds are far from the Lord.
 - But in vain they do worship me, teaching for doctrines the commandments of men. That is where the class title comes from.
-- Chart shown in class of man made religions and their founders: John Smyth and the Baptists, Joseph Smith and the Mormons, William Miller and the Seventh Day Adventists, Charles Taze Russell and the Jehovah's Witnesses, Charles Parham and the Pentecostals, and Friedrich Schleiermacher, the father of modern hermeneutics. These are the doctrines of men that our Christian brothers and sisters are following.
 
 **[Proverbs 4:2](/bible/proverbs/4#v2)**  *[[44:56](https://www.youtube.com/watch?v=ZztygjY4U2w&t=2696s)]*
 
@@ -126,7 +223,59 @@ Definitions read in class: syncretism in religion is the blending of diverse rel
 
 - What are they supposed to be teaching? For I give you good doctrine, forsake ye not my law. You are supposed to be keeping the laws of God; that is the doctrine.
 
-Further reading from the article: contextualization, or enculturation, is the practice of making Christianity relevant to a culture; it does not address the doctrine but affects a change in the styles or expression of worship. Is that not where our people fall off the horse? Christianity is all about the praise and worship team. Christians took their European music and building styles into churches in other parts of the world, and in a contextualization approach they would build churches, sing songs, and pray in a local ethnic style to appeal to the ones they are trying to win over. That is why they are always in our neighborhoods: you do not have sinners in your own neighborhood? Some Jesuit missionaries adapted local systems and images to teach Christianity, as the Portuguese did in China, leading to the Chinese Rites controversy. Exclusivist systems see syncretism as a betrayal of their pure truth: adding an incompatible belief corrupts the original religion. That exclusivist approach is keeping the laws in the faith of Christ. Our forefathers fought to keep it separate.
+<div class="reading">
+
+Reading from the chart of man-made religions, on the screen  *[[45:23](https://www.youtube.com/watch?v=ZztygjY4U2w&t=2723s)]*
+
+> John Smyth, the Baptist religion. Joseph Smith, the Mormon religion. William Miller, Seventh Day Adventist. Charles Taze Russell, Jehovah's Witnesses. And Pentecostal religion, Charles Parham. And Friedrich Schleiermacher.
+
+- This is the doctrines. This is the doctrines of men that our Christian brothers and sisters are following.
+
+</div>
+
+<div class="reading">
+
+Reading from screenshots of the Wikipedia entry on syncretism, on Christianity  *[[46:20](https://www.youtube.com/watch?v=ZztygjY4U2w&t=2780s)]*
+
+> Christianity. One can contrast Christian syncretism with contextualization, or enculturation, the practice of making Christianity relevant to a culture.
+
+- I know that's a lot of big words today, man. I apologize. A lot of six, seven, eight syllable words.
+
+> Contextualization does not address the doctrine but affects a change in the styles or expression of worship.
+
+- Now you see what it says. Contextualization does not address the doctrine. But wait a minute, isn't that where our people is falling off the horse?
+
+- But affects a change in the styles or expression of worship. And Christianity is all about the praise and worship team.
+
+> Although Christians often took their European music
+
+- Their what? Their European music.
+
+> and building styles into churches in other parts of the world. And a contextualization approach, they would build churches, sing songs, and pray in a local ethnic style.
+
+- And pray in a local ethnic style to appease or appeal to the ones they trying to win over. That's why they always in our neighborhoods. Like you ain't got no sinners in your neighborhood? You got to be over here with us.
+
+> Some Jesuit missionaries adapted local systems and images to teach Christianity, as did the Portuguese in China, the practice of which was opposed by the Dominicans, leading to the Chinese Rites controversy.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of interculturation  *[[48:43](https://www.youtube.com/watch?v=ZztygjY4U2w&t=2923s)]*
+
+> Interculturation is a reciprocal process of cultural exchange and mutual transformation where two or more cultures interact and influence one another. Unlike basic assimilation or multiculturalism, it avoids a one-way transfer, resulting in shared social integration and the creation of entirely new blended cultural elements.
+
+</div>
+
+<div class="reading">
+
+Reading from screenshots of the Wikipedia entry on syncretism, on the Protestant Reformation  *[[49:32](https://www.youtube.com/watch?v=ZztygjY4U2w&t=2972s)]*
+
+> Protestant Reformation. Syncretism did not play a role when Christianity split into Eastern and Western rights during the Great Schism, and became involved, however, with the riffs of the Protestant Reformation, with Desiderius Erasmus readings of Plutarch.
+
+- I want to go back to where it talked about exclusivism, because it talked about where they see syncretism as corrupting the original religion. We're going to get into that exclusivism now, and what our religion is, and how our forefathers fought to keep it separate.
+
+</div>
 
 **[1 Maccabees 2:19-22](/bible/1-maccabees/2#v19)**  *[[50:38](https://www.youtube.com/watch?v=ZztygjY4U2w&t=3038s)]*
 
@@ -293,7 +442,29 @@ Further reading from the article: contextualization, or enculturation, is the pr
 - Count it all joy when ye fall into divers temptations, knowing that the trying of your faith worketh patience. If any of you lack wisdom, let him ask of God, but let him ask in faith, nothing wavering.
 - Let not that man that has a wavering spirit think that he shall receive any thing of the Lord. A double minded man is unstable in all his ways.
 
-Video segment on Our Lady of Guadalupe: Catholicism in Central and South America has been integrated with elements from the cultures of the indigenous peoples of the Americas and enslaved Africans. The Catholic Church allows some symbols and traditions to be carried over from older belief systems so long as they are remade to conform to a Christian worldview, while syncretism with systems like Vodun and Santeria is expressly condemned. The image of Our Lady of Guadalupe and the devotion to her are seen as assimilating elements of native Mexican culture into Christianity, and Santa Muerte, a female deity of death, emerged as a combination of the indigenous goddess Mictecacihuatl and the Lady of Guadalupe, worshiped as of 2012 by about five percent of the Mexican population. A prayer video was played: they open in the name of the Father, the Son, and the Holy Spirit, so they believe in the Trinity, and they pray to Our Lady of Guadalupe to make intercession for the holy church, calling her the ever virgin. That is woman worship, no different from Diana in Acts 19; the same spirits keep coming back up. A brother raised Catholic explained it evolved from Juan Diego, who claimed her image appeared on his cloak, and the same thing continues today with claimed appearances on tortillas and trees that people build altars around. This is what happened to our brothers of the northern kingdom: they got conquered, and this is the modern form of Christianity they are under.
+<div class="reading">
+
+Reading from the Wikipedia entry on syncretism, on the New World  *[[1:12:50](https://www.youtube.com/watch?v=ZztygjY4U2w&t=4370s)]*
+
+> Pope Paul VI included a warning against syncretism in his encyclical letter of 1964.
+
+> New World. Catholicism in Central and South America has been integrated with a number of elements derived from the cultures of the indigenous peoples of the Americas
+
+- The indigenous peoples of the Americas. Oh, those that came over that we read about in 2 Esdras.
+
+> and enslaved Africans in those areas. The Catholic Church allows some symbols and traditions to be carried over from older belief systems so long as they are remade to conform rather than conflict with a Christian worldview. Syncretism of other religions with the Catholic faith, such as Vodun and Santeria, is expressly condemned. The image of Our Lady of Guadalupe
+
+- Who knows about Our Lady of Guadalupe?
+
+> and the subsequent devotion to her are seen as assimilating some elements of native Mexican culture into Christianity.
+
+- I got something on the Our Lady of Guadalupe.
+
+- You see that? That's the blending again. You got Christianity and then you have aspects of the modern culture, or the native culture.
+
+</div>
+
+A prayer video to Our Lady of Guadalupe was played: they open in the name of the Father, the Son, and the Holy Spirit, so they believe in the Trinity, and they pray to Our Lady of Guadalupe to make intercession for the holy church, calling her the ever virgin. This is what happened to our brothers of the northern kingdom: they got conquered, and this is the modern form of Christianity they are under.
 
 **[Hebrews 7:24-25](/bible/hebrews/7#v24)**  *[[1:17:20](https://www.youtube.com/watch?v=ZztygjY4U2w&t=4640s)]*
 
@@ -309,9 +480,75 @@ Video segment on Our Lady of Guadalupe: Catholicism in Central and South America
 >
 > <sup>[56](/bible/matthew/13#v56)</sup> And his sisters, are they not all with us? Whence then hath this man all these things?
 
-- Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas, and his sisters, are they not all with us? Mary did not just have Jesus; she had other children. The Zondervan compact Bible dictionary entry on Mary lists the distinctive Roman Catholic doctrines about her, the immaculate conception and the assumption of Mary, and we just showed in the scriptures that the perpetual virginity claim is a lie.
+- Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas, and his sisters, are they not all with us? Mary did not just have Jesus; she had other children.
 
-Video played of a man leaving Christianity: "One reason I'm done with Christianity is because I can no longer support the idea that if you don't accept Jesus Christ as Lord and Savior, you're going to burn forever in eternal hellfire." That is apostasy: the formal disaffiliation from, abandonment, or total rejection of a religion or previously held set of beliefs. A lot of times it is because you are not being taught, and because of the things you see going on in the church. The Latter Day Saint movement holds that truth in other sources can be identified via personal revelation. That is the "this is my truth" spirit: I am not religious, I am spiritual; that is your interpretation; the Bible says this to me. That personal revelation is what you get in a Christian church: the Lord told me, only me; twenty people are going to give two thousand dollars in the next twenty minutes.
+That is woman worship, no different from Diana in Acts 19.
+
+<div class="reading">
+
+Reading from the Wikipedia entry on syncretism, on the New World, continued  *[[1:21:02](https://www.youtube.com/watch?v=ZztygjY4U2w&t=4862s)]*
+
+> Santa Muerte, a female deity of death, has also emerged as the combination of the indigenous goddess Mictecacihuatl and the Lady of Guadalupe. As of 2012, Santa Muerte is worshiped by approximately 5% of the Mexican population and also has a following in the United States and parts of Central America.
+
+> Some Andean areas, such as in Peru, have a strong influence of Inca-originated Quechua culture into Catholicism.
+
+- Again you have Christianity fusing, infused with the local culture.
+
+> This often results in Catholic holy days and festivities featuring Quechua dances or figures, such as the assumption of Mary celebration and …, or the fertility celebrations for Pachamama and the mostly Catholic …
+
+- And that fertility, that goes into Diana and Ishtar, right? It's the same thing.
+
+</div>
+
+<div class="reading">
+
+Reading from the *Zondervan Compact Bible Dictionary*, page 348, on Mary  *[[1:24:57](https://www.youtube.com/watch?v=ZztygjY4U2w&t=5097s)]*
+
+> In the upper room, Acts 1:14. Distinctive Roman Catholic doctrines about Mary: immaculate conception and assumption of Mary.
+
+- So we just showed that's a lie in the scriptures when we went to Matthew the 13th chapter, the 55th verse. We showed that is a lie. There was no immaculate conception. She had sex, and a lot of sex, and a lot of kids.
+
+</div>
+
+<div class="reading">
+
+Reading from the Wikipedia entry on syncretism, on the Lutheran Church and the LDS church  *[[1:26:11](https://www.youtube.com/watch?v=ZztygjY4U2w&t=5171s)]*
+
+> The Lutheran Church Missouri Synod experienced controversy for disciplining pastors for unionism and syncretism when they participated in multifaith services in response to the 9/11 attacks and to the shootings at Newtown, Connecticut, on the grounds that joint worship with other Christian denominations or other religious faiths implied that differences between religions are not important.
+
+- They didn't like that thing. I guess none of them own that coexist bumper sticker, huh?
+
+> And the Latter-day Saint movement: doctrine from previous dispensations as recorded in the LDS canon are considered official, though it is accepted that ancient teachings can be warped, misunderstood, or lost as a result of apostasy.
+
+- Look up that word. I don't think you can click on that. That's not a hyperlink. Look up that word, because a lot of people don't know what that word means.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of apostasy  *[[1:27:36](https://www.youtube.com/watch?v=ZztygjY4U2w&t=5256s)]*
+
+> Apostasy is the formal disaffiliation from, abandonment, or total rejection of a religion or previously held set of beliefs.
+
+- Hold on a second. I got a video of that. The brother said, "I'm out. I don't want to have nothing to do with this."
+
+</div>
+
+Video played of a man leaving Christianity: "One reason I'm done with Christianity is because I can no longer support the idea that if you don't accept Jesus Christ as Lord and Savior, you're going to burn forever in eternal hellfire." A lot of times it is because you are not being taught, and because of the things you see going on in the church.
+
+<div class="reading">
+
+Reading from the Wikipedia entry on syncretism, on the LDS church, continued  *[[1:29:35](https://www.youtube.com/watch?v=ZztygjY4U2w&t=5375s)]*
+
+> While it does not officially recognize doctrine from other religions, it is believed that truth in other sources can be identified via personal revelation.
+
+- So wait a minute, that's like, well, this is my truth, right? Personally, this is what I feel.
+
+- That's, I'm not religious, I'm spiritual. That's your interpretation. Well, the Bible says this to me. It might say that to you. That's what that's going into.
+
+</div>
+
+That personal revelation is what you get in a Christian church: the Lord told me, only me; twenty people are going to give two thousand dollars in the next twenty minutes.
 
 **[Psalms 119:142](/bible/psalms/119#v142)**  *[[1:30:31](https://www.youtube.com/watch?v=ZztygjY4U2w&t=5431s)]*
 
@@ -567,7 +804,65 @@ Video played of a man leaving Christianity: "One reason I'm done with Christiani
 
     This is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
 
-Book read in class: From Assyria to America, by the Bishop, page 38, on why the Assyrian and Babylonian kings deported conquered peoples from their lands: control and subjugation, separating them from their homeland to prevent uprisings; assimilation and integration, mixing different cultures and languages to create a homogenized imperial identity; labor and resources, exploiting their skills and labor for the ruling elite; demographic engineering, redistributing populations to dilute dissident factions; and punishment and deterrence, warning others of the consequences of resisting the empire. How did they do that to us here? Slavery: they would split the families up and send them to different plantations. Page 60 covers Hellenization: the spread of Greek culture, language, customs, and values beyond the borders of Greece, particularly following the conquests of Alexander the Great, a forced assimilation resulting in a syncretic culture that combined Greek and indigenous traditions, just like America's influence reaches far outside its boundaries. In Alexandria, Egypt, the Jews helped found the city and formed an important part of the community, but citizenship depended mostly upon religion: each city had a patron god, city festivities involved sacrificing to various deities, and Jews could not lead in festivals or hold public office unless they converted to paganism or Hellenism. When you see our people running for political offices, they do the same thing today.
+<div class="reading">
+
+Reading from *From Assyria to America*, the Bishop's book, page 38  *[[2:03:16](https://www.youtube.com/watch?v=ZztygjY4U2w&t=7396s)]*
+
+> Number one, control and subjugation. By relocating conquered peoples to distant regions with the empire, the Assyrian and Babylonian rulers aimed to assert control over these populations. Separating them from their homeland and dispersing them across different territories helped prevent uprisings or rebellions that could threaten the ruler's authority.
+>
+> Number two, assimilation and integration. The forced relocation of conquered populations facilitated the assimilation and integration of diverse ethnic groups into the empire. By mixing different cultures and languages, the rulers sought to create a more homogenized and unified imperial identity that would strengthen their grip on power.
+>
+> Number three, labor and resources. Conquered peoples were often utilized as a source of labor and resources in various parts of the empire. Their skills, knowledge, and labor were exploited for the benefit of the ruling elite, contributing to the economic and infrastructural development of the empire.
+>
+> Number four, demographic engineering. The deportation of the conquered people served as a form of demographic engineering, redistributing populations to ensure a strategic balance of ethnic groups and communities across the empire. This approach aims to dilute the influence of dissident factions and promote social stability.
+>
+> Punishment of deterrence. Deporting conquered peoples to distant lands also served as a form of punishment and deterrence. It sent a powerful message to potential adversaries, warning them of the consequences of resisting the empire's authority and instilling fear in those who might contemplate rebellion.
+
+- How did they do that to us here, brothers? How did they do that to us here? Right? Slavery. But what would they do? They would split the families up, send them to different plantations.
+
+</div>
+
+<div class="reading">
+
+Reading from *From Assyria to America*, the Bishop's book, page 60  *[[2:06:25](https://www.youtube.com/watch?v=ZztygjY4U2w&t=7585s)]*
+
+> Hellenization refers to the spread and influence of Greek culture, language, customs, and values beyond the borders of Greece,
+
+- Beyond the borders of Greece. Just like America's influence is far outside the boundaries of America.
+
+> particularly following the conquest of Alexander the Great. This process of Hellenization involved the adoption and assimilation of Greek cultural practices by non-Greek populations in the regions that came under Greek influence.
+
+- Now that's what we were talking about before. Now you're seeing the assimilation, right? But this was forced assimilation.
+
+> It often led to the blending of Greek traditions with local customs, resulting in a syncretic culture
+
+- Resulting in what? A syncretic culture. That was religious syncretism, right? Because we're going to read it when we read in First Maccabees 1.
+
+> that combined elements of Greek and indigenous traditions.
+
+- Elements blending of Greek and indigenous traditions.
+
+> Hellenization played a significant role in shaping the cultural landscape of the ancient Mediterranean world and beyond, influencing art.
+>
+> Hellas was the Greek name for Greece.
+>
+> The Jews in the founding of Alexandria, Egypt. The community of Alexandria is probably the best example of what happened to the Jews under the influence of Greek or Hellenistic culture. The port of Alexandria became one of the most active commercial centers of the world, with many Jews. There they formed an important part of the community. Citizenship depended mostly upon your religion. Each city had a patron god or goddess. City festivities involved sacrificing to various deities, especially if one held an office.
+
+- That's still today. Like I know in the city that I grew up, they had a fascination with pigs. Like it would be freaking statues of pigs all over the damn place. I know another place I live, they had a fascination with horses. Statues of horses all over the place.
+
+- Like when you go downtown to the municipal buildings, you see the different artwork that's on the municipal buildings, not just the murals. When you go down there, you'll see various of the people that they admire, or things of that nature, right? That takes them back to their history, their culture, right?
+
+> Jews could not participate, so they were not full citizens, yet they could not be called foreigners because they helped found Alexandria and made it prosperous and important.
+
+- Right? Somebody said the bull for the New York Stock Exchange. Exactly.
+
+> The Ptolemies allowed for separate communities for Jews: courts, religion, diet, synagogue, etc. They could not lead in festivals or hold a public office unless they converted to paganism or Hellenism.
+
+- So when you see our people running for political offices, they do the same thing. They do the same thing.
+
+- And a lot of times you'll see, and this ain't just in America, because I know there's one, I can't think her name, Kimi something. She's over in the UK. But they marry Esau, right?
+
+</div>
 
 **[1 Maccabees 1:1-6](/bible/1-maccabees/1#v1)**  *[[2:11:08](https://www.youtube.com/watch?v=ZztygjY4U2w&t=7868s)]*
 
@@ -657,7 +952,26 @@ Book read in class: From Assyria to America, by the Bishop, page 38, on why the 
 - Video played of a pastor answering a young woman's question about why God chose the Israelites: he said chosen does not mean favored, that God chose Israel only as the channel to save the entire world, and that ancient Israel and the modern state alike were apostates. Notice he speaks as though the people over there are Israel. So then who are we?
 - This is the perfect scripture for it. Unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth? seeing thou hatest instruction, and castest my words behind thee.
 - Thou sittest and speakest against thy brother; thou slanderest thine own mother's son. These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes. The Most High is setting us in order before their eyes.
-- Article and videos on Three Kings Day: the celebration of Dia de los Reyes Magos is rooted in both biblical tradition and cultural syncretism, particularly in Latin America. The story of the magi is in Matthew 2, but the Bible does not specify the number of wise men; the belief in three kings developed later because of the three gifts. In the video: Spain brought the tradition to Puerto Rico in the 1500s during colonization, children place a shoebox with grass for the camels under the bed on the night of January 5th, and one of the oldest Three Kings festivals brings parades and thousands together. You see that? They take ownership of it as if they are doing the right thing, as if they are serving God. Our enemies give us something, and we put a little salt on it and go harder with it than the heathen did, like the scripture we read earlier. And where did they get camels for a parade in downtown New York?
+
+<div class="reading">
+
+Reading from an article on Three Kings Day  *[[2:25:47](https://www.youtube.com/watch?v=ZztygjY4U2w&t=8747s)]*
+
+> The celebration of Three Kings Day, Día de los Reyes Magos, is rooted in both biblical tradition and cultural syncretism, particularly in Latin America. Biblical origins of the Three Kings: the story of the magi, or wise men, is found in Matthew 2, verse 1-2. These men followed a star to Bethlehem bringing gifts of gold, frankincense and myrrh. The Bible does not specify the number of magi. The belief in three kings developed later because of the three gifts.
+
+</div>
+
+Video played on Three Kings Day in Puerto Rico: Spain brought the tradition to Puerto Rico in the 1500s during colonization, children place a shoebox with grass for the camels under the bed on the night of January 5th, and one of the oldest Three Kings festivals brings parades and thousands together. You see that? They take ownership of it as if they are doing the right thing, as if they are serving God. Our enemies give us something, and we put a little salt on it and go harder with it than the heathen did, like the scripture we read earlier. And where did they get camels for a parade in downtown New York?
+
+<div class="reading">
+
+Reading from the caption under an image on the screen  *[[2:30:38](https://www.youtube.com/watch?v=ZztygjY4U2w&t=9038s)]*
+
+> In the Pillory, the Tale of the Borgia Pope, in nine crowded chapters, 39 splendid illustrations. John Bond, published 1927, page 12, writes.
+
+- So that's your picture of Cesare Borgia.
+
+</div>
 
 **[Colossians 2:8](/bible/colossians/2#v8)**  *[[2:32:19](https://www.youtube.com/watch?v=ZztygjY4U2w&t=9139s)]*
 

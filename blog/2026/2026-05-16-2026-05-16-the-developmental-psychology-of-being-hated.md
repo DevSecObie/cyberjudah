@@ -82,11 +82,95 @@ Some subjects get much attention, and there are other subjects that do not get q
   - Record recounted in class: the mother made to wash the master's clothes stained with her lynched son's blood, and even she could not give up. So what excuse do we have today?
 - In the morning thou shalt say, would God it were even, and at even, would God it were morning. What helped our brothers and sisters make it from night to morning each day with the uncertainty of their lives? Faith. They sang swing low, sweet chariot in the fields and believed those spirituals, not knowing when deliverance would come. And they did not even have the truth like we know it today; whatever little bit they learned, they gleaned from the back of the white man's lying churches, until we got brothers like Nat Turner that started teaching.
 
-The title: the developmental psychology of being hated. Definition read in class: the developmental psychology of being hated examines how consistent rejection and hostility warp a child's psychological and biological development. Not periods of hatred, but consistent rejection. Experiencing chronic ill will forces individuals to internalize feelings of worthlessness, alters their brain stress responses, and heavily shapes their approach to future relationships. This is the reason a lot of marriages fall apart and the families are jacked up: these things transmute into every stage of your life; they graduate with you. Constant exposure to hostility triggers a chronic stress response, flooding the developing brain with cortisol. Our kids are hypervigilant in the schools. The amygdala, the brain's fear center, becomes enlarged and overactive, and the prefrontal cortex, responsible for emotional regulation, shows reduced activity. They call it ADHD and put all kinds of stigmas on us, but it is because we are going through things like this. These things affect how we move, how we govern, how we love each other, how we organize. We have to deal with them while at the same time organizing the nation, and we are men; that should never scare men. We should be honored the Lord put us in position to help our people.
+<div class="reading">
+
+Reading from an AI-generated text on the effects of the developmental psychology of being hated  *[[47:35](https://www.youtube.com/watch?v=jsT6wS00jmw&t=2855s)]*
+
+> The developmental psychology of being hated examines how consistent rejection and hostility warp a child's psychological and biological development.
+
+- So the title, I wrote that title and then I put it in the AI and it came up with this, so you can understand where it came from.
+
+- You got to ponder on that. The very things that we go through. Developmental psychology is the mindset that gets changed at every stage of your development. So everything that happens in a brother or sister's life is going to become a part of their psychology. It's going to become a part of their mentality and how they carry out their actions. Everything is going to be predicated on the level of trauma that they went from, from a baby to a toddler to adolescent to an adult.
+
+- So it talks about how consistent rejection, not periods of hatred, but consistent rejection and hostility. So he changes because of the hostile environment that he and she has been brought up in.
+
+> Experiencing chronic ill will forces individuals to internalize feelings of worthlessness,
+
+- It brings us to feeling worthless, then we go to try to find coping mechanisms like alcohol and drugs and other things.
+
+> alters their brain stress responses,
+
+- Now all of a sudden, you can't manage any kind of stress because every incident brings on more trauma and it makes you even more undisciplined and it just sends you into a tailspin of being totally irrational, uncooth, and everything else. This is some real stuff here.
+
+> and heavily shapes their approach to future relationships.
+
+- The reason why a lot of marriages fall apart. This is the reason why the families are all jacked up, the kids, and everybody, because these things transmute into every stage of your life, it graduates with you. With every step you make. That's how heavy this thing is. It almost would make you think, how we going to get out of this? I want y'all to understand that there is a way out. So, I'm showing you all of this ugliness, and it's going to be quite sad and arresting as we go through these things, but there is a way out.
+
+> Biological and neurological effects. Constant exposure to hostility triggers a chronic stress response, flooding the developing brain with cortisol.
+
+- This is stress hormones.
+
+> Hypervigilance.
+
+- Our kids are hypervigilant in the schools because they're witnessing these things in their parents.
+
+> The amygdala, the brain's fear center, becomes enlarged and overactive, making individuals highly sensitive to perceived threats and rejection.
+
+- Sensitive to twitching and going on. They're hyperreactive. They call it ADHD, they got all kind of stigmas that they put on us, but it's because we're going through things like this here.
+
+- I guess the point that I'm making is that we as men, knowing that these kinds of problems are in existence, we cannot leave our post and go drink and get high. We had to stay on the mark. We cannot just leave it and say, "Let me walk away from it." We can't leave leading the people because things get hard and all that. We have to keep moving. Have to. Our forefathers did it. They did not know if they were going to die 3 hours later. But they kept pushing to the point where you and I are sitting here today. Think about that.
+
+> Impaired regulation. The prefrontal cortex, which is responsible for emotional regulation, shows reduced activity, making it harder to calm down after a social slight.
+
+- Just going to read through many of these things. If I break down every word, we'll never get through this. But I'm posting them so brothers and sisters can actually see them, read them, get into it and we can have dialogue about these things. Brothers and sisters in class, come to your leadership. We could talk about these situations here because they are real. They are real and they affect how we move. They affect how we govern. They affect how we think. They affect how we love each other. It affects how we cohabit. How we organize. All of these things weigh heavily on our effort to do the right thing.
+
+- When we say, "Gather together, oh nation not desired," being not desired brings all of these things into our reality. All of these things that we're reading. We have to deal with these things while at the same time still organize the nation for the collective good of all of us. That's a lot of work. But we are men. That should never scare men. Having that job, being tasked to do that, should never frighten us. We should be honored that the Lord put us in a position to actually help our people.
+
+</div>
 
 Books read in class: The Developmental Psychology of the Black Child by Amos Wilson, on how each stage of development builds into the next. Trauma Letters: Healing the Child Within, on going into the levels of the traumas we went through and how we carry them into how we live today. Jawanza Kunjufu's Countering the Conspiracy to Destroy Black Boys, on the fourth grade failure syndrome. Haki Madhubuti's account of two mothers in Dearborn, Michigan: the white family bought model kits that taught their son labor, patience, organizing his time, envisioning how to make it work, and the black son was bought a finished toy plane to pull across the floor. One child was learning to be a manager, an organizer, a thinker, a creator, a builder, and the other was learning to be a consumer in the white man's world.
 
-Reading from Erik Erikson's stages of development: human development occurs across eight sequential stages, each presenting a critical psychological challenge. When a child successfully navigates each stage, they build the emotional and psychological foundation for the next. However, when stages are disrupted by absence, neglect, trauma, or instability, the unresolved tension carries forward into every subsequent phase of life. This could be the absence of a father or a mother, or the instability of not knowing if he is coming home at all. The body gets older but the mind does not grow with the body, and people take advantage of that ignorance; that is how our sons and daughters get messed up. So we are really the psychologists with the Bible, the medicine cabinet. Regardless of how messed up it is, we cannot punk out; we still have to get in the game and fix the people. Our forefathers had to get ready regardless of the ugliness before them day and night. Who are we to give up?
+<div class="reading">
+
+Reading from *Trauma Letters: Healing the Child Within*, on Erik Erikson's stages of development  *[[1:00:29](https://www.youtube.com/watch?v=jsT6wS00jmw&t=3629s)]*
+
+> Erik Erikson's stages of development and the impact of missteps.
+
+- And the impact of missteps. We are victims, we are byproducts of having steps missing in our development.
+
+> Developmental psychologist Erik Erikson proposed that human development occurs across eight sequential stages,
+
+- I was just showing you four with the other book. Because I guess it would go on to adulthood and so forth.
+
+> each presenting a critical psychological challenge.
+
+- Each one of these stages present a critical psychological challenge.
+
+> When a child successfully navigates each stage, they build the emotional and psychological foundation for the next stage.
+
+- When a child successfully navigates each stage, going back to the other book that I was talking about with the son that learned how to build planes and learned the value of labor, the value of perseverance, the value of organizing his time. I can't play with my friends and such and such. I need to dedicate x amount of hours to building. So, that means he has to cut the fun time out. He can't run with Joey and Bob all up in the street. He said, I got to dedicate some of this time to this project. That's teaching us how to think like men.
+
+- When he or she successfully navigates each stage of their development. Developmental psychology, that's what I'm getting into. When they successfully develop from stage to stage, they carry with them those positive traits of development.
+
+- Understand what this is saying. So, on the right sense, you're building for the next stage. If we're not getting those essentials from the previous level, every step after that is going to be in the wrong direction. And the worst part about it is that the body itself gets older, but your mind does not grow with your body. That's hell on itself. Your body is going to require certain things for you to know as you're growing physically. But you don't have the mental education, the spiritual education to know how to properly deal with the body that's constantly growing. And that's how our daughters get messed up. That's how our sons get messed up, because people take advantage of that ignorance.
+
+> However, when stages are disrupted by absence, neglect,
+
+- However, this is the other side. When on our side, the stages of proper development is disrupted.
+
+- This could be absence of a father. This could be absence of a mother. The terrible things that go on in our communities where our children grow up and don't have any kind of guidance. They don't have any kind of real community to help nurture them the way they should go. They still have to grow physically, but they're growing absent of the things that they actually need.
+
+> trauma, or instability,
+
+- That's that stuff that we were talking about earlier with the uncertainty. Unstableness. I don't know when dad is going to walk out. I don't know if my father going to come home drunk. I don't know if he's going to come home at all. Stuff like that. These things are traumatizing to a child that needs that emotional support, whether it's male or female. This is some serious stuff here.
+
+> the unresolved tension carries forward into every subsequent phase of life.
+
+- The unresolved tension, because there's tension that's going to build at every stage. I'm taking my time because I want to make sure you get this. Every stage of unresolved tension carries a consequence. We have to know that when we deal with our people. We have to get in there and fix that problem. So, we are really the psychologists with the Bible, the medicine cabinet. We got to really go in and help our people. And that's why you have different tiers of leadership. You're going to get it from somewhere. With all of the different programs, we got Hope and Healing, we got all kinds of things, but that had to be built. That had to be envisioned and created; by the power and the might of God, we were able to do that and continue to build it because our people need help.
+
+- Those traumas and those unresolved tensions carries forward into every subsequent phase of life. So, every move that they make, the traumas of each stage goes into the next. So, our people messed up? Yes. But here's the question. We're men. Irregardless of how messed up it is, we cannot punk out. If we ourselves, as sick as we are and as messed up as we are, we ourselves cannot subscribe to just giving up and go get high somewhere. We still have to get in the game; regardless of how little we know, we still have to find a way to stay here and fix the people. We can't say that we're not ready. We have to get ready. That's what our forefathers had to do. They had to get ready regardless of the ugliness that was before them day and night. They could not give up. So, who are we to give up? Who are we to give up?
+
+</div>
 
 Video played in class: Malcolm X speaking in 1962 after the Los Angeles police attack on the temple that left Ronald Stokes dead, recounting officers and attendants callously dismissing wounded black men; the teaching point is the climate of virulent hatred our people had to endure, and that was just in the sixties. Imagine living in a climate with that kind of hatred, knowing you are not desired, like the Bible says. And there is no way we could punk out and drown ourselves in alcohol and not pay attention to what is going on with us. If I sound spirited, it is because I hate that disease; I have seen what it did to my family and my people.
 
@@ -104,7 +188,21 @@ News story shown in class: the case of Rashawn Carter, a young brother found dea
 - When our people begin to feel that hope is out of their reach, they shortchange their own aspirations. You begin to retract into nothingness, comfortably numb with mediocrity, unproductiveness, laziness, drugs, and alcohol.
 - But when the desire cometh, it is a tree of life. We are not looking for a nation to save us; we are looking towards the Most High, and that is where our faith is supposed to be, even in the face of virulent hatred. Why would you even fight if you do not have a victory in your mind? Because our people do not believe, they do not even fight anymore; they say just give me the bottle because I am nothing. That is a destroyed state of mind, and we cannot allow it among ourselves or our brothers and sisters. If you see our brothers and sisters carrying that kind of spirit, it is your job to find a way to pull them out of it. We are going to be our brother's and our sister's keeper; we are going to look out for each other.
 
-Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, gave sworn deposition testimony alleging that King survived the shooting and was deliberately killed at the hospital; the teaching point is the depth of the hatred our leaders faced. A deposition is formal out of court sworn testimony, part of the discovery process, so what he said is on record. King gave the mountaintop speech the night before he was assassinated, saying I may not get there with you, but we as a people will get to the promised land, and I am not fearing any man. He knew death was imminent, yet he still went forward with the weight of all the people on his shoulders. Same with Malcolm, and with sisters that were just as rough when it came to liberation, and they were not even in the truth like we are. So I do not want to hear anybody say anything negative about these brothers, especially not with a bottle in your hand talking about you cannot take it anymore.
+Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, gave sworn deposition testimony alleging that King survived the shooting and was deliberately killed at the hospital; the teaching point is the depth of the hatred our leaders faced.
+
+<div class="reading">
+
+Reading from an on-screen definition of a deposition  *[[1:43:00](https://www.youtube.com/watch?v=jsT6wS00jmw&t=6180s)]*
+
+> A deposition is a formal out-of-court sworn testimony given by a witness or party in a lawsuit, usually conducted in a lawyer's office rather than a courtroom. It is part of the discovery process where attorneys ask questions to gather information, lock in testimony, and assess witnesses before trial.
+
+- Lock in testimony.
+
+- So, all of this information was placed inside a sworn testimony. So, there's no lies there. So, what that man said is on deposition. It's on record. That's something to think about.
+
+</div>
+
+King gave the mountaintop speech the night before he was assassinated, saying I may not get there with you, but we as a people will get to the promised land, and I am not fearing any man. He knew death was imminent, yet he still went forward with the weight of all the people on his shoulders. Same with Malcolm, and with sisters that were just as rough when it came to liberation, and they were not even in the truth like we are. So I do not want to hear anybody say anything negative about these brothers, especially not with a bottle in your hand talking about you cannot take it anymore.
 
 **[Psalms 83:2-8](/bible/psalms/83#v2)**  *[[1:46:43](https://www.youtube.com/watch?v=jsT6wS00jmw&t=6403s)]*
 
@@ -171,7 +269,37 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - The Most High is telling us how to operate right now, today. Let your light so shine before men: you cannot let your light shine drunk, and you cannot let your light shine showing the world you do not even know how to control your eating. They call it overweight for a reason: over the weight. If you are comfortable being called overweight, or comfortable depending on a chemical to have a good time, something is wrong. It is a disease, all of it, and we have to cure ourselves from it, and you have the ability to do it.
 - Examine yourself: there is a part of you, your conscience, that has to step outside of yourself and look at you and say, you have a problem here; when are we going to work together to fix it? That is psychology right there. You do not need to wait for somebody else to tell you; you can evaluate yourself, take the initiative, start right there, and watch the results. Many brothers and sisters have lost the weight and can say, I did it.
 - We are the ones that are supposed to set the standard on how the world is supposed to move. We are the stars of God, the trendsetters; we only do it in evil now, but we are supposed to set the whole planet up in righteousness. Our job as the nation of Israel and as IUIC is to be the city on a hill, the organized nation, so that our brothers on the corners and the sisters out there see our good works and come and ask about the reason of our hope. And we will tell them: we used to be in your spot, but we repented, and if we can do it, you can do it. They are not going to learn it out here; society wants to take our people into destruction, with junk food and liquor stores on tap on every corner, because a people living with no hope will gravitate toward the crutch.
-- The same escapism shows up in grown men living in a fantasy virtual world of video games all day long, some so addicted they wear gamer diapers to eliminate bathroom breaks; definition read in class: they are used so players can stay continuously focused on extended gaming sessions without stepping away. Is that not a drug? It is the same thing as alcohol: we use it to escape reality, and reality is going right past you.
+- The same escapism shows up in grown men living in a fantasy virtual world of video games all day long, some so addicted they wear gamer diapers.
+
+<div class="reading">
+
+Reading from an online description of diapers for gamers  *[[2:33:04](https://www.youtube.com/watch?v=jsT6wS00jmw&t=9184s)]*
+
+> Diapers for gamers are used to eliminate bathroom breaks,
+
+- Diapers for gamers. I had it right. That's what I called it, right?
+
+- You got men wearing this. Black men. To eliminate bathroom breaks. That is a serious sickness. You can't get up because you're so into the fantasy world of gaming. Understand why I'm mentioning this. Same thing as alcohol, we use it to escape reality. We don't want to deal with what's really sound on the ground while we supposed to be handling things right here today. We look for escapism. Video games is the same damn thing. You up there living in a virtual fantasy world, meanwhile the reality is going past you and you don't have no connection to it. You can't even go to the bathroom. This is crazy.
+
+> allowing players to stay continuously focused on extended gaming sessions
+
+- What kind of grown man need to be gaming doing any damn thing? Gaming sessions.
+
+> without pausing or stepping away from their consoles or PC.
+
+- Is that not a drug? That is a drug.
+
+> Why are they used?
+>
+> Uninterrupted play. Competitive gamers, marathon streamers, and those participating in long rating sessions, such as in MMORPGs, can use adult protective wear to avoid taking breaks.
+
+- Damn, this is crazy. They got even medical needs.
+
+> Medical needs. Some gamers use them as a practical solution to manage real-life medical issues like urinary incontinence or chronic conditions so they can play comfortably.
+
+- Get off this. Lord Jesus, you can go into the abyss with some of this craziness. Somebody have to rescue me. Don't let me go too far. You go into the dark side very quick. When we choose these kinds of things, when we choose these avenues of escapism, it is because we don't want to face the reality of dealing with the problem square up. That's not a man. Man deals with reality.
+
+</div>
 - Everything you see in IUIC, the departments, the missions overseas, the outreach, none of it existed at the beginning. There had to be vision where it was not seen. That means we had to think like men and think ahead, preparing for the bad times and the famines. All of us have the capacity to think; why is it a surprise when we do it? We used the medicine that is in the Bible, applied it, and got things done.
 - Video played in class of a man arguing with an artificial girlfriend about cooking: envy thou not the oppressor, and choose none of his ways. That thing is designed to take the place of dealing with a real woman. Getting yourself together so you can properly acquire a wife and cultivate her takes work, time, and dedication, and some men would rather cheat and go around the bend. We have been warned.
 
@@ -179,16 +307,235 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 
 > <sup>[12](/bible/wisdom-of-solomon/17#v12)</sup> For fear is nothing else but a betraying of the succours which reason offereth.
 
-- For fear is nothing else but a betraying of the succours which reason offereth. Succour means comfort, to run to the rescue, to provide relief in a time of extreme distress. We would choose the easier way out rather than challenge something that causes us to employ discipline, and it is a betraying comfort to do nothing.
-- Definition read in class: this passage addresses the danger of abandoning logical, structured thought in moments of panic. In times of crisis, fear tempts us to abandon sound judgment for an easier, often false sense of emotional safety. Fear causes us to betray our own capacity for logic, because it feels safer in the moment to panic than to face reality with reason. Sound judgment means making a real effort to correct alcoholic behavior, or doing the disciplined thing to curb the fat, instead of finding an excuse, or a scripture to abuse so you can say the Bible told me I could do this.
-- Document read in class: the 1883 letter of King Leopold II of Belgium to the colonial missionaries being sent into the Congo. Your principal objective is never to teach the Africans to know God, for this they know already; your essential role is to facilitate the task of administrators and industrials, and interpret the gospel the way that will best protect your interests. Keep watch on disinteresting the people from the richness that is plenty in their underground, lest they dream one day to overthrow you. Find texts encouraging your followers to love poverty, like happier are the poor, for they will inherit heaven. Make them disrespect everything which gives courage to affront us. Direct your action essentially to the younger ones, so the children learn to obey the missionary rather than their parents. Insist on total submission and obedience. And: teach students to read and not to reason.
-- Teach them to read but not to reason: up to this point many of us did not think there was a difference between the two. Definition read in class: reasoning is the cognitive process of using existing knowledge, facts, and logic to draw conclusions, make decisions, or solve problems; it bridges the gap between raw information and rational action, allowing you to move from one idea to a related idea. Our colonizers do not want us to have this ability, because reasoning is work: the mental work of sitting down, organizing, assessing, the work of a manager, an organizer, a builder.
-- This is what the stewardship program was: we canvassed the congregation to find out who knew what, who was skilled where, and organized the doctors, nurses, lawyers, paralegals, engineers, electricians, and building specialists into the pie chart. The reasonable solutions were available, right around us; we did not have to go out into the world to get them. That is not selling out; that is organizing exactly what the definition said, and now when people come in with problems, we meet problems with solutions, like Hope and Healing and the doula program. Real people are getting real help because an organizational effort was made.
-- Because of our inability to reason, we become frustrated and flustered in our thoughts. We know we should do things, but because we are not educated as a collective to reason and organize the elements around us, we act like we cannot, we begin to believe we cannot, and we are frustrated. There is a danger in not reasoning; that is why Leopold said do not teach them to reason, because if they ever learn, we are in trouble.
-- Example of the fear that runs from reasoning: the fear of acknowledging boldly the black Christ of the Holy Bible. Family members in the church will tell you to get that Bible away from them rather than read what is written. Because of this fear we seek a false and betraying comfort, a cognitive dissonance that normalizes sedative behavior and leaves us comfortably numb in our non-productivity. We say the color of Christ does not matter. Reasoning, if actually applied, would cause us to lay out the elements of our immediate existence and envision a solution to our problems; instead we look for excuses to be docile, for alcohol and getting drunk.
-- News video played in class: South African leader Julius Malema, long targeted by the AfriForum lobby over the liberation chant a court had ruled protected political speech, was sentenced to prison, and the video connected AfriForum's lobbying of the American administration to aid cuts projected to cost hundreds of thousands of lives. The nations protect the economic inequality apartheid built, and a white minority that lost political control used foreign power to punish a nation into submission. What is happening to our people in South Africa is connected to us from Soweto to Harlem: a collective exploitation of us all. Like Malcolm said, four fifths of the world is not white; they hold it by making us think we are all different while they pillage everybody.
+- For fear is nothing else but a betraying of the succours which reason offereth. Succour means comfort. We would choose the easier way out rather than challenge something that causes us to employ discipline, and it is a betraying comfort to do nothing.
+<div class="reading">
+
+Reading from an AI-generated explanation of Wisdom of Solomon 17:12  *[[2:47:56](https://www.youtube.com/watch?v=jsT6wS00jmw&t=10076s)]*
+
+> This sentiment, derived from the Wisdom of Solomon chapter 17 and verse 12 in the Apocrypha, "For fear is nothing else but a betraying of the succours which reason offereth," addresses the danger of abandoning logical, structured thought in moments of panic.
+
+- So you see I typed that in at the top. For fear is nothing more than a betraying comfort that reason offers.
+
+- So the scripture is talking about the danger of abandoning logic. Logic means to handle the situation in real time. The things that we don't really want to tackle. We don't want to tackle the problems that's really before us. So we look for a betraying comfort, a betraying lie that says we can get the same results, but the answer is no. You have to go through the straight gate, so to speak, to get to the real results.
+
+- You abandon what's logical to take something that's a fantasy. In moments of panic, instead of you doing the things that you're supposed to do, you will look for a betraying comfort to address the same situation when you really were supposed to face it straight on.
+
+> The core idea is that in times of crisis, fear tempts us to abandon sound judgment
+
+- Sound judgment, in the cases of what I'm talking about, means to make a real effort to correct alcoholic behavior. A sound judgment mean do the discipline thing to curb the fat that you're building on your body. There's real work that you have to do. We look for excuses, which is a betraying comfort, to say I don't have to use the logic of really attacking the problem where it's really at.
+
+- In times of crisis, when you should apply logical steps to address a real situation, you abandon that and use a lying answer. And it's betraying you to make you think that you are right, but in reality you know you're not.
+
+> for an easier, often false sense of emotional safety or panic.
+
+- So, that's what the scripture is talking about. You're looking for an easy way to address a serious problem because you are afraid to face it, because the challenge requires discipline, it requires dedication, it requires work ethic, it requires labor. You don't want to do those things, so you look for a betraying comfort to try to achieve the same results, and you never get it. A false sense of emotional safety or panic.
+
+> Key interpretations. Betrayal of reason. Fear causes us to betray our own capacity for logic. It is a betraying because it feels safer in the moment to panic than to face reality with reason.
+
+- That's what I just said. That's what a betraying comfort is. It's when you're not ready to deal with the real reality, and you look for excuses, you look for damn alcohol, you look for dope, you look for fornication, you look for damn video game woman instead of really getting yourself together so you can acquire a real wife, for an example. Brothers need get their stuff together, get their finance, get all of the things that they need so they can properly acquire a wife. But some brothers don't want to go through the effort so they'll go around the bend and do something totally against that and you're going to end up in hell. You're going to end up in destruction. There's a work ethic that's involved in achieving to answer real problems and you can't use a betraying comfort to do it.
+
+- Rather than to face reality with reason. That's a word I definitely want to get into.
+
+> The deception of comfort. The comfort of reason is that it provides a structured, often difficult solution to problems.
+
+- That word reason sticks out to my mind. You want to know why? Because that was in that document.
+
+</div>
+
+<div class="reading">
+
+Reading from a letter from King Leopold II of Belgium to colonial missionaries, 1883  *[[2:55:19](https://www.youtube.com/watch?v=jsT6wS00jmw&t=10519s)]*
+
+> Universidade Federal de Minas Gerais. Faculdade de Filosofia e Ciências Humanas.
+>
+> Letter from King Leopold II of Belgium to colonial missionaries, 1883.
+
+- Leopold the Second of Belgium robbed the Congo, robbed sub-Saharan Africa to strip it of its resources. They got all kind of history on that. But it was what he said to the mercenaries that they call missionaries, when he sent his so-called Christians to go inside these African countries to so-called Christianize them, but in reality he was teaching them to be subservient to white supremacy so that their resources could be basically given away to these people while they suffering in squalor. So that's the mission of Christianity in these areas. Y'all can find the letter. I think it's online.
+
+- To colonial colonizers. That's what these missionaries, these so-called Christians, that's what they were. Colonizers. Talk about some missionaries. They're mercenaries mainly. Murderers.
+
+> Reverend fathers and dear compatriots, the task that is given to fulfill is very delicate and requires much tact. You will go certainly to evangelize,
+
+- So he's telling these mercenaries what to do. You will certainly go to evangelize, which really mean Christianize them and kill them if they don't convert to Christianity. To basically boil their minds down to giving their resources up to these colonizers. Like they still doing; like when we went over to Africa just a couple of weeks ago, this is still the deal.
+
+> but your evangelization must inspire above all Belgium interests. Your principal objective in our mission in the Congo is never to teach the … to know God. This they know already. They speak and submit to a mongol, one enzambi, one enzacomba, and what else I don't know. They know that to kill, to sleep with someone else's wife, to lie and to insult is bad.
+
+- This damn thing is evil as hell.
+
+- Meaning we know that. Our people, they know that these are wrong. They know that breaking these laws are wrong. They said they already know that already. So you don't need to go into that realm. You need to flip their mind to get them to worship us.
+
+> Have courage to admit it. You are not going to teach them what they know already. Your essential role is to facilitate the task of administrators and industrials, which means you will go to interpret the gospel in the way that it will be the best to protect your interest in that part of the world.
+
+- Your essential role as murderers, mercenaries, but we going to say they're missionaries.
+
+- You will go and interpret the gospel, meaning lies, meaning tell lies.
+
+> For these things you have to keep watch on disinteresting our savages from the richness that is plenty in their underground to avoid that they get interested in it and make you murderous competition and dream one day to overthrow you.
+
+- That's what they call them, the savages. That's what they call us all around the world, savages. They that hate thee have lifted up their head. They all think this way. Don't think it's just Esau. Every last one of them, Moab, everybody. They all hate our guts.
+
+- The people there are supposed to have this stuff to themselves. It say you want to make sure that they don't have that kind of thought in their mind.
+
+> Your knowledge of the gospel will allow you to find texts ordering and encouraging your followers to love poverty. Like happier are the poor because they will inherit the heaven, and it's very difficult for the rich to enter the kingdom of God.
+
+- Don't they teach that in Christianity? Make you satisfied with nothing.
+
+> You have to detach from them and make them disrespect everything which gives courage to affront us.
+
+- Do you hear that? Everything that's about uplifting ourselves, they want us to look at that as bad. Which gives courage to us. To affront us: to challenge us.
+
+> I make reference to their mystic system and their war fetish, warfare protection, which they pretend not to want to abandon and you must do everything in your power to make it disappear.
+
+- So if our people wanted to understand the need for protection, they say your job is to make them want to abandon the will for them to want to protect themselves. That's some demonic stuff there, ain't it?
+
+> Your action will be directed essentially to the younger ones for they won't revolt when the recommendation of the priest is contradictory to their parents' teachings. The children have to learn to obey what the missionary recommends, who is the father of their soul.
+
+- In other words, we're gods now. Make sure they separate them from their parents who are traditionally holding values. Got to separate the kids. That's what they do with us now.
+
+- Listen, a white man is the father of their soul. You got to teach him that.
+
+> You must singularly insist on their total submission and obedience. Avoid developing the spirit in the schools. Teach students to read and not to reason.
+
+- That's the part that I want to get to. A lot of people never really understood. Bishop … this out first. He brought this letter and he zeroed in on that part. I've been on it ever since. I couldn't let it go. Teach the students how to read but not to reason. This is some heavy stuff, because up to this point many of us didn't think that there was a difference between the two. You say, "Can you read, brother?" They say, "Yeah, I can read." But then you say, "Well, can you reason?" You lose them. Reasoning is big stuff. We going to find that out right now.
+
+- Teach them how to read, basically call words out, but not to understand how the words frame thought. Teach them how to read, but don't teach them how to reason. We going to find out what that mean. Y'all can actually look the letter up. This got a few pages to it.
+
+</div>
+
+<div class="reading">
+
+Reading from the same AI-generated explanation of Wisdom of Solomon 17:12  *[[3:01:53](https://www.youtube.com/watch?v=jsT6wS00jmw&t=10913s)]*
+
+> Abandoning it for emotional comfort, ignoring the problem, giving in to despair is a betrayal of our inner strength.
+
+- So, that goes back to what the scripture say about betraying comfort. We abandon reasoning, we abandon really working out the problem to come up with a proper solution.
+
+> The phrase betraying comfort that reasoning offereth is a direct quote from the Wisdom of Solomon chapter 17 and verse 12 in the Apocrypha, which states, "For fear is nothing else but a betraying of the succours which reason offereth."
+
+- That's what we just read.
+
+> This passage suggests that irrational fear or excessive fear causes people to abandon the logical, calm, and reasonable solutions that are available to them.
+
+- It causes us to abandon what works. Causes us to abandon what's logical.
+
+- The solutions that are already around us. Let me explain that. In IUIC, like I said, we got problems all throughout the nation. Like I was talking about, alcoholism, these are problems. Adultery, these are problems. Fornication, these are problems. Some people got mental sicknesses, got little things going on. We need psychologists. We need people to know how to deal with people with these problems. I want you to note what it said at the bottom of that part. Reasonable solutions that are available. So, you don't have to go out into the sky and get it. It's available.
+
+- So, when I was making a point that we have so many different situation problems, people got all kinds of stuff, we decided to canvas the congregation. That's what the stewardship program was all about. We canvassed to find out who knew what, who was skilled in this area, who was skilled in that area. Captain Kemuel, he know we've been working on this thing for years. So, we find all of these elements because they're what? Right around us. We didn't have to go out into the world to get it. We got professionals right here. We got people that understand these things right here now. The thing is for us to organize all of these things. That took work. Every school did it. I'm sure there was a representative here that went through and asked who knew what skill, what talent.
+
+- Once we found all of that, we put them into what we call the pie chart. We found that we had X amount of doctors, we had X amount of lawyers, paralegals, doctors, nurses, engineers, electricians, building specialists. We found all of that out. That's not selling out. That's organizing the very things that it just said: reasonable solutions that are available right around you. That's thinking like men. And people see how we move: oh, they sold out. No, we are using the intelligence that God gave us. A mind is a terrible thing to waste. All of y'all have that ability to think. You just got to get out of this rut of doubting yourselves.
+
+> In the Bible, succor means to run to the rescue, provide relief, or offer assistance during a time of extreme distress.
+
+- So, we run to the comfort of a deceiving comfort to get away from the real work of what I just explained when we put these departments together, for an example. We could have just said we can't do it. Let me just go get a bottle. But no, we recognize that the talents are all around us. Which one of us are going to really stand up and really put pen to paper, get involved, make the phone calls, set up the meetings, call up the different schools, assess the talents here and all of that, and put it all together. And then as the people come in with various problems, we can meet problems with solutions. Like Hope and Healing, that is a perfect example. Like the doula program, that is a perfect example. Real people are getting real help because there was an organizational effort that was made, and we were not afraid to challenge what was right there, that we was able to make things happen.
+
+- Now, remember the letter. Teach students to read and not to reason. So, the colonizers, and you got colonizers right there in our neighborhood. Your store owners. The people that don't give a damn about you, sell you bad bread, sour milk, all that kind of stuff. These same people have a disdain for our very existence. So, there's a big difference between reading and reasoning. We getting ready to find out what reasoning actually means.
+
+> Reasoning is the cognitive process of using existing knowledge, facts, and logic to draw conclusions, make decisions, or solve problems.
+
+- Do y'all get this? Our colonizers don't want us to have this ability. Don't want us to be able to organize, to be able to gather, and categorize departments, categorize groups and different things to help people in various situations.
+
+- So, the man, the Liar Pole, said, "Teach them how to read, but don't teach them how to reason." Why? Because reasoning is the cognitive process. The process, which is a process, involves work. Cognitive: mind, mental. Mental work in sitting down and organizing, bringing things together and assessing where I need to put this, where I need to put that. That's the work that you would do as a manager, as an organizer, as you looking to build and set things up.
+
+- Existing talent. Not going outside existing talent. Call up the schools, find out who knows what. Find out this, find out that, and organize them into groups. And let that group be available for when our brothers and sisters need certain things, we got it. It's here. Using existing knowledge, existing facts, and logic to draw conclusions. What is the conclusions that we're drawing? Sister so-and-so need help with this, brother so-and-so need help with that. Drawing the conclusion, meaning that if I can line the people that need with the services provided, the conclusion is that the problem is solved. That takes thinking.
+
+> It bridges the gap between raw information and rational action, allowing you to move from one idea to a related idea.
+
+- Reasoning bridges the gap between raw information. Raw information is the talent that's just scattered all over the place. But it's not organized yet. Reasoning teaches us how to organize all of that raw information and turn it into rational action. Meaning organize it into teams. Organize it into departments. Organize it into areas where different people that need certain things, it's been organized into rational action, and it also allows us to move from one idea into a related idea or related solution. So, in other words, it's no longer talk. That's what reasoning does. You want to get out of captivity, there's a way to get out of captivity. You have to reason. Look at the things right around us that help us get out of these things. We got the Bible, for crying out loud. There's elements in this medicine cabinet to help us get to where we need to get.
+
+</div>
+
+<div class="reading">
+
+Reading from the Bishop's own written notes, on the inability to reason  *[[3:14:29](https://www.youtube.com/watch?v=jsT6wS00jmw&t=11669s)]*
+
+> Because of this inability to reason, we become frustrated and flustered in our thoughts,
+
+- I wrote this.
+
+- We explain what reason is. So because of our refusal and our inability to reason, we become frustrated and flustered in our thoughts. Because we know that we need to do things. We know that we should do things, but because we are not educated as a collective to actually reason, to organize elements around us, to actually make things work. We act like we can't do it, cuz we actually can. We act like we don't have that ability. And because we act like we don't have it, we begin to believe we don't have it, and therefore we're frustrated.
+
+> which will, if not fully understood of its danger,
+
+- There's a danger when we don't reason. That's the reason why Leopold said don't teach them how to reason, because if they learn how to reason we're in trouble. You can teach them how to read all day long. But if they ever get to understanding what reasoning actually means, we got trouble. So, it's a danger in not understanding reasoning.
+
+> make us afraid of pointing the finger square at the problem.
+
+- When we are afraid to reason, it makes us avoid dealing with reality.
+
+> For example, the fear of acknowledging boldly of the black Christ, the savior of the Holy Bible, and proclaiming clearly that there is no white Christ.
+
+- For an example, this is a person who's afraid of reasoning. And they use fear to come away from reasoning.
+
+- That is a fact. Clap it up. This is an example. You will go to your church. Some of us got family members still in the church and you tell them, listen, open up the Bible and read that Christ is black. They themselves will be like, even though they are sick, get that Bible away from me. Don't show me that book. You're into that black radical stuff. They start saying any kind of craziness. But I said, look, stupid, it's written. You might get mad, but it's written. Why is it that you are afraid to say it? And then they are lying to say color don't matter.
+
+> Because of this fear, we seek a false and betraying comfort or a cognitive dissonance that normalizes a sedative type of behavior that leaves us comfortably numb in our non-productivity and ineffective real problem-solving. In other words, we psychologically distance ourselves from such reasoning. We say the color of Christ doesn't matter. Reasoning that would, if actually applied, would cause us to lay out the elements of our immediate existence and envision a solution to our problems. But instead, we look for excuses to be docile. We look for alcohol and getting drunk.
+
+- Y'all get that? Now, here comes some reality.
+
+</div>
+- News video played in class: South African leader Julius Malema was sentenced to prison, and the video connected AfriForum's lobbying of the American administration to aid cuts projected to cost hundreds of thousands of lives. The nations protect the economic inequality apartheid built, and a white minority that lost political control used foreign power to punish a nation into submission. What is happening to our people in South Africa is connected to us from Soweto to Harlem: a collective exploitation of us all. Like Malcolm said, four fifths of the world is not white; they hold it by making us think we are all different while they pillage everybody.
+
+<div class="reading">
+
+Reading from an online text on Julius Malema and the kill the boer chant  *[[3:24:01](https://www.youtube.com/watch?v=jsT6wS00jmw&t=12241s)]*
+
+> South African politician Julius Malema, leader of the Economic Freedom Fighters, and his party have repeatedly faced legal charges, complaints and disciplinary hearings for chanting the apartheid era liberation song kill the boer,
+
+- Liberation song kill the boer, meaning kill the white man that's trying to overthrow and take their resources.
+
+> often misheard as kill the boer. Major legal actions regarding the chant include: 2022 equality court case.
+
+- So, they had a court case over it. Can you imagine this? You're in the man's land talking about some damn court.
+
+> Civil rights group AfriForum took Malema to court
+
+- That's the group that the sister was talking about. That same group is all for Esau, with black people in it. They ain't for the people over there. Esau will get and influence the government there and put black faces up there, but they'll be really for the interest of colonizers. AfriForum. They ain't got nothing to do with the welfare of the real people over there.
+
+> to have the chant declared hate speech. The court ruled that the song did not constitute hate speech or literal incitement to violence, classifying it as protected political speech.
+
+- So, that's what AfriForum did. They wanted to charge him with hate speech.
+
+- In 2022. But, you heard the sister that came on was a recent video. So, they locked him up for 5 years. So, that was after this. I only posted this so y'all could hear a little bit about who this person was. They didn't like that at all. But, they first had to leave it alone. But, then they said, "We got to get him out of there because we need Africa's resources." That's the point.
+
+</div>
+
+<div class="reading">
+
+Reading from the Bishop's own written notes, on Elon Musk and Julius Malema  *[[3:27:09](https://www.youtube.com/watch?v=jsT6wS00jmw&t=12429s)]*
+
+> So, actually later, as the video with the sister just pointed out, South African Elon Musk pushed for Trump to get elected in order for him to use US power to remove Julius Malema of South Africa from his seat in his own country.
+
+- This is what I wrote. Listen up. Listen up.
+
+- That's what we just saw, the woman with the woolly hair.
+
+- That's crazy. That's what they did.
+
+</div>
 - Video played in class: an economist stating plainly that sub-Saharan Africa has been fundamental to global prosperity as a raw material producer, that the economic structures and institutions are designed to keep Africa impoverished, and that whether it is Europe, the US, or China, they need those materials dirt cheap. That is reality, and it can look insurmountable. You cannot get weak and say the order is fixed. Get that thinking out of your mind: we have God behind us, and with God behind us there is no doubt.
-- So because we feel trapped in so many psychological problems, and feel we could never solve them, we resort to the bottle, to drugs, to promiscuity, to domestic violence and misplaced aggression that affects our youth. Rather than reasoning with your brothers, we turn to violence against those closest to us. And alcohol itself is a huge influence toward violence and self destruction; that is why it is readily available to our people. We use the excuse that we are ready to perish as a reason to feed the disease. If our ancestors had used that excuse to get drunk, none of us would be here today.
+<div class="reading">
+
+Reading from the Bishop's own written notes, on why we resort to the bottle  *[[3:30:45](https://www.youtube.com/watch?v=jsT6wS00jmw&t=12645s)]*
+
+> So, because we feel trapped in so many psychological problems, and we feel we could never solve them, we resort to the bottle,
+
+- I'm getting back on that alcohol thing. We resort to the bottle.
+
+> alcohol, drugs, promiscuity, prostitution, domestic violence and misplaced aggression violence that affects our youth in our community.
+
+- We go through all of these things because we feel like we are trapped and there's no way out.
+
+> So, rather than reasoning with your brothers, we turn to violence against those who's closest to us. And in some cases, the violence goes towards the spouse, mainly male on female violence in the home.
+
+- There's that word again. I'm writing this.
+
+- Because of the frustration.
+
+> And alcohol itself is a huge influence towards violence and self-destruction. That's why it's readily available to our people. And we use the excuse that we're ready to perish as a reason to feed this disease. If our ancestors use that excuse to get drunk, none of us would be here today.
+
+- Wow, did y'all get that? I'll let that sink in a little bit.
+
+</div>
 
 **[Habakkuk 2:15-18](/bible/habakkuk/2#v15)**  *[[3:37:37](https://www.youtube.com/watch?v=jsT6wS00jmw&t=13057s)]*
 
@@ -203,11 +550,17 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 - Video played in class: the old Bill Cosby stand up routine on drinking, the man who announces he deserves to go out and get drunk, ignores his own body telling him not to take another drink, and ends the night sick over the toilet vowing never to drink again. The comic relief carries the point: this is what we do to ourselves, and some go through it often.
 - Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also. The alcohol lawyers will say this chapter is about idolatry, and in context it is illuminating other things; but the fact that it uses those words is true. Why would it compare the other evils in the chapter to the effects of alcohol if alcohol itself were not in view? It is speaking of those who press the bottle on their neighbors, the chug chug chug peer pressure you see in college, and the Lord pronounces woe on it.
 - Personal testimony: getting sick from cheap wine at seventeen, my mother quoting this very scripture over me, and vowing that day never to do it again. The hell with your friends; let them continue that thing.
-- We have the teaching videos on alcoholism, cup of confusion, overcoming drunkenness, drunken bondage, and more, but videos like that sit at a thousand views while alcohol destroys thousands and millions of homes. Reading shown in class: excessive alcohol use costs the US economy nearly 250 billion dollars annually, driven by lost workplace productivity, health care expenses, and criminal justice and property damage costs. That quarter trillion dollar problem absolutely affects the Israelite community, and the commandments fix all of it.
-- Reading shown in class: people abuse alcohol to cope with stress, trauma, or mental health issues, using it as a temporary escape to blunt negative emotions; over time the behavior transitions from conscious choice to habit. Alcohol causes the brain to release dopamine and endorphins, rewiring the brain's reward system and leading to cravings; what begins as voluntary use becomes compulsive drinking because of brain changes, making it difficult to stop. Individuals get caught in a cycle where they drink to deal with stress, but the alcohol increases the negative emotional states between drinks, prompting more drinking. We could not mask emotional pain in slavery, so do not use that as an excuse; this will kill you.
-- Reading shown in class: an alcogenic culture is a societal environment where alcohol consumption is normalized, encouraged, and ingrained in social rituals, where alcohol is highly accessible, heavily advertised, and perceived as essential for socializing, making it difficult for those seeking to drink less or remain sober. There is a line between social and drunkenness, and that line gets blurred; then the incident reports come up, intoxication, and we have to protect the body. We have to be careful, because some of us cannot deal with this thing at all.
+- We have the teaching videos on alcoholism, cup of confusion, overcoming drunkenness, drunken bondage, and more, but videos like that sit at a thousand views while alcohol destroys thousands and millions of homes.
 
-**[Romans 12:21](/bible/romans/12#v21)**  *[[3:51:46](https://www.youtube.com/watch?v=jsT6wS00jmw&t=13906s)]*
+<div class="reading">
+
+Reading from an on-screen figure on what excessive alcohol use costs the US economy  *[[3:46:32](https://www.youtube.com/watch?v=jsT6wS00jmw&t=13592s)]*
+
+> Excessive alcohol use costs the US economy nearly 250 billion dollars annually. This massive financial drain is primarily driven by three main factors: lost workplace productivity, health care expenses, and criminal justice / property damage costs.
+
+- All praise to the Most High. So, y'all see we cannot be light with these things even though they're somewhat taboo.
+
+</div>
 
 > <sup>[21](/bible/romans/12#v21)</sup> Be not overcome of evil, but overcome evil with good.
 
@@ -227,14 +580,88 @@ Video discussed in class: Dr. Martin Luther King's lawyer, Dr. William Pepper, g
 
     Wine measurably drunk and in season bringeth gladness of the heart and cheerfulness of the mind; but wine drunken with excess maketh bitterness of the mind. The Lord cannot use you if you do not have that balance. Every element the Lord created has its function and purpose, but if you abuse it you cannot be useful to the nation. It goes for food as well; that is why they put the fast food across the street from more fast food in our neighborhoods. They are depending on you to fall into that destruction.
 
+<div class="reading">
+
+Reading from an on-screen text on why people abuse alcohol  *[[4:02:34](https://www.youtube.com/watch?v=jsT6wS00jmw&t=14554s)]*
+
+> Why do people abuse alcohol?
+>
+> People abuse alcohol to cope with stress, trauma, or mental health issues, using it as a temporary escape to blunt negative emotions and create feelings of pleasure. Over time, this behavior can transition from conscious choice to habit fueled by genetic predisposition, peer pressure, and the brain's altered chemistry.
+
+- I'm glad it used the word abuse alcohol, cuz that's what we were talking about earlier. It's abuse.
+
+- See, now it's getting serious. This ain't no damn game. The chemical addiction in alcohol literally changes your body chemistry to the point where you are addicted to it and you can't stop it. That's when the doctor will have to tell you if you take another drink your ass will be dead. That was literally told to one of my uncles.
+
+- Change from conscious choice to habit, where it's an addiction. Fueled by genetic predisposition, meaning your body is craving for it now. You can't go without a drink. You got to have it. Some people are dealing with that. I said, "You're going to stop?" Yeah, I'm going to stop. And come to find out the battle is much harder than he thought it was, because the body is fighting it now. They have cases like when people get damn near alcohol poisoning, they got to use more alcohol to bring you down, so to speak. They can't wean you off. That's because the body itself is adapted to it. So, your brain is wired into it. That's how dangerous it is.
+
+> Key reasons for alcohol abuse include: Coping mechanism. Many drink to manage high stress, anxiety, depression, or to mask traumatic memories and emotional pain.
+
+- We couldn't do that in slavery. We could not mask emotional pain in slavery. So, don't use that as an excuse. Cuz this will kill you. That's the point.
+
+> Physiological changes. Alcohol causes the brain to release dopamine and endorphins, producing pleasurable feelings that, with continued use, rewire the brain's reward system, leading to cravings.
+
+- These are the parts I wanted to get to. Meaning your physical makeup changes.
+
+- That's what's going on with alcoholic brothers and sisters. This is no joke.
+
+> Environmental and social factors. Peer pressure, easy accessibility, and cultural normalization of binge drinking, especially in young adults, increase risk.
+
+- This is what I was doing when I was 17. I was into this foolishness only for a brief moment, cuz once I got sick once, I said, I got better sense than this. I'm out.
+
+- This is why they got the liquor stores in your neighborhood. Easy accessibility and cultural normalization. Everybody on the block drinking the Old Gold. The O E.
+
+> Genetic predisposition. Family history plays a significant role in making some individuals more vulnerable to developing dependence.
+
+- It can actually run in your children's lives. This poison that they put all over our communities. Ain't nobody doing nothing sociable. Nobody's doing nothing with measurably drank, none of that. They're using it to drown out reality.
+
+> Habit and addiction. What may begin as voluntary use can transition into compulsive drinking because of brain changes in the basal ganglia, making it difficult to stop.
+
+- Making it difficult to stop. Why would you even go into these areas by messing with this thing? Cuz this is a temptation that can happen to any of us. I'm just being real. I don't care if it's cultural or not. This can happen to any of us.
+
+> Often, individuals become caught in a cycle where they drink to deal with stress, but the alcohol increases negative emotional states between consumption, prompting more drinking.
+
+> An alcogenic culture is a societal environment where alcohol consumption is normalized, encouraged, and deeply ingrained in social rituals, celebrations, and daily life. It creates an alcogenic environment where alcohol is highly accessible, heavily advertised, and perceived as essential for socializing,
+
+- Alcogenic culture. This what I was talking about earlier, where we make it sociable.
+
+- As essential for socializing. You ain't got a cup in your hand, you can't socialize with us. So, the peer pressure makes you: okay, give me a drink. You got to recognize what these things are saying.
+
+> making it difficult for those seeking to drink less or remain sober.
+
+- Y'all see that? That's what alcogenic culture is, and we have to be careful. We have to be careful, because some of us just can't deal with this thing at all. And they will binge out in a minute. Then the next thing you know, the reports come up. Intoxication and drunkenness, and we got to put you out of here. We have to. We got to save the body. We cannot have that kind of thing going on here encouraging brothers to deal like that.
+
+</div>
+
+<div class="reading">
+
+Reading from a message a brother sent in, shown in class  *[[4:10:58](https://www.youtube.com/watch?v=jsT6wS00jmw&t=15058s)]*
+
+> Shalom. Most High Christ blessed.
+>
+> My wife of 30 plus years only supports me when I bring it up. She never takes the initiative to do anything. No meal prep, doesn't even cook for herself. Rather eat out so-called healthy fast foods. And amongst other things, constantly have to remind her I work 12 hours a day.
+
+- So, we don't know who this brother is. We don't know who this sister is, and that's good. But the information is good for us all to hear. So, I appreciate the brother that brought this on. But, I will say he's asking for help because of what we about to read. And he's not an alcoholic, so I'm past that system. I'm dealing with something totally different now.
+
+- He works 12 hours a day, this brother.
+
+> It's hard at times to cook and pack my own lunch at times.
+
+- Can't even get a sandwich. He working 12 hours a day.
+
+> It's been over 10 years now in the truth. I'm drained, but she's still my rib.
+>
+> Please help.
+
+- But, I still love her. I still have to take care of her, but she's not doing anything for me. Then he says, "Please help," in capital letters. Like I said, I don't know who he is, but I went somewhat into the spirit of what this is saying.
+
+</div>
+
 **[Ecclesiasticus 36:22-23](/bible/sirach/36#v22)**  *[[4:18:24](https://www.youtube.com/watch?v=jsT6wS00jmw&t=15504s)]*
 
 > <sup>[22](/bible/sirach/36#v22)</sup> The beauty of a woman cheereth the countenance, and a man loveth nothing better.
 >
 > <sup>[23](/bible/sirach/36#v23)</sup> If there be kindness, meekness, and comfort, in her tongue, then is not her husband like other men.
 
-- Letter read in class from a brother: my wife of thirty plus years only supports me when I bring it up; no meal prep, she would rather eat out; I work twelve hours a day and it is hard at times to even cook and pack my own lunch; over ten years in the truth, I am drained, but she is still my rib. Please help.
-- Video played in class: a bus driver pushed past his limit by an abusive passenger; the teaching point is that a man carrying stress on all ends with no relief at home can be ticked into ruin by one more provocation. Brothers, do not get to that point; control yourself, because our elders taught us, we need you brothers out here, not in jail.
 - The beauty of a woman cheereth the countenance, and a man loveth nothing better. He can do twelve hours if you deal with him right. If a man would go down into a pit and fight lions and bring the spoils to his wife, like Zerubbabel brought out in Esdras, what could some kind words do for a brother? He would say, I could do twelve more hours if I get treated like this.
 - If there be kindness, meekness, and comfort in her tongue, then is not her husband like other men. We kept answering that part with learned response, so hear the other side of it: the wife that does these things turns her husband into a man not like other men. He would have the confidence and the fortitude to do anything, because you are his comfort, his aid, his cheerleader, the help meet that is right for him. Look at what men will risk in wickedness for women that mean them no good; imagine what a man would do for a woman dealing with him right, in righteousness. When you have that support, that woman in your corner, there is no stopping us.
 
