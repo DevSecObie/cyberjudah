@@ -3,6 +3,21 @@ on: pull_request
 permissions:
   contents: read
 jobs:
+  data-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: |
+            engine/package-lock.json
+            site/package-lock.json
+      - run: npm ci --prefix engine --no-audit --no-fund
+      - run: npm ci --prefix site --no-audit --no-fund
+      - name: Verify GitHub downloads and Cloudflare packaging without deployment
+        run: node --test engine/data-assets.test.mjs
   validate:
     runs-on: ubuntu-latest
     steps:

@@ -25,14 +25,13 @@ const ROWS: [string, string][] = [
   ["/api/index.json", "every endpoint above, as a map"],
   ["/search/classes.json, /search/captains.json", "browse feeds: title, url, date, teacher, thumb, books, topics"],
   ["/pagefind/", "a sharded full-text index; load pagefind/pagefind.js and search every verse, note, law, precept and case"],
-  ["/library.sqlite.gz", "the whole library as SQLite with FTS5 tables"],
   ["/classes/rss.xml, /captains/rss.xml, /study/rss.xml", "feeds, each also as feed.json"],
   ["/llms.txt", "a summary of the library for language models"],
   ["/pointer.json, /manifest.json", "which build is being served, and what is in it"],
 ];
 
 export const Route = createFileRoute("/api")({
-  head: ({ match }) => pageHead([{ title: "API · CyberJudah" }, { name: "description", content: "The whole library as static JSON, a full-text index and SQLite, served from data.cyberjudah.io with CORS open." }], match),
+  head: ({ match }) => pageHead([{ title: "API · CyberJudah" }, { name: "description", content: "The library as static JSON and a full-text index at data.cyberjudah.io, plus an offline SQLite download from GitHub." }], match),
   component: Api,
 });
 
@@ -42,7 +41,7 @@ function Api() {
       <Kicker>~/api</Kicker>
       <h1 className="cj-h1">The library as data.</h1>
       <div className="note prose-page">
-        <p>Everything this site renders is read from one static data set at <a href={DATA}><code>{DATA}</code></a>: plain JSON files, a full-text index and a SQLite database, rebuilt from the notes on every push and served with CORS open. Any page, script or app can read the same files. Paths below are relative to that host.</p>
+        <p>Everything this site renders is read from one static data set at <a href={DATA}><code>{DATA}</code></a>: plain JSON files and a full-text index, rebuilt from the notes on every push and served with CORS open. Any page, script or app can read the same files. Paths below are relative to that host. The offline SQLite database is hosted on GitHub; get it from <Link to="/downloads">Downloads</Link>.</p>
         <table className="api-table">
           <tbody>
             {ROWS.map(([p, d]) => <tr key={p}><td><code>{p}</code></td><td>{d}</td></tr>)}

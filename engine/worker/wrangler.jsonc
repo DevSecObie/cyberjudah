@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/wrangler/config-schema.json",
-  // The data set as a static-assets Worker: every file the engine wrote under dist/,
+  // The data set as a static-assets Worker: dist/ minus its generated .assetsignore exclusions,
   // served at data.cyberjudah.io with the cache headers from dist/_headers. No code runs.
   "name": "cyberjudah-data",
   "compatibility_date": "2025-05-01",

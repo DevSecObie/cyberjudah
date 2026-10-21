@@ -36,6 +36,7 @@ const args = process.argv.slice(2);
 const opt = (name, dflt) => { const i = args.indexOf(`--${name}`); return i >= 0 ? args[i + 1] : dflt; };
 const OUT = path.resolve(ROOT, opt("out", "dist"));
 const SITE = opt("site", "https://devsecobie.github.io/cyberjudah").replace(/\/$/, "");
+const SQLITE_DOWNLOAD = "https://raw.githubusercontent.com/DevSecObie/cyberjudah/data/library.sqlite.gz";
 const THUMBS = !args.includes("--no-thumbs");
 const t0 = Date.now();
 
@@ -746,7 +747,7 @@ writeJson(path.join(API, "index.json"), {
   concordanceIndex: "/api/concordance/index.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
   history: "/api/history/index.json", shows: "/api/shows/index.json", strongs: "/api/strongs/<number>.json", strongsIndex: "/api/strongs/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
-  search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
+  search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: SQLITE_DOWNLOAD },
   downloads: { vault: "/downloads/vault.zip" },
   feeds: { classes: "/classes/rss.xml", captains: "/captains/rss.xml", study: "/study/rss.xml" },
 });
@@ -773,7 +774,7 @@ write(path.join(OUT, "llms.txt"), [
   `- [Books](${SITE}/api/kjv/books.json), chapters at ${SITE}/api/kjv/<book-slug>/<chapter>.json`,
   `- [Notes index](${SITE}/api/notes/index.json): study, class, captains and encyclopedia notes`,
   `- Citations for a chapter: ${SITE}/api/concordance/<book-slug>/<chapter>.json`,
-  `- [SQLite library with full-text search](${SITE}/library.sqlite.gz)`, "",
+  `- [SQLite library with full-text search](${SQLITE_DOWNLOAD})`, "",
   "## Feeds", "",
   `- [Sabbath class notes](${SITE}/classes/rss.xml)`, `- [15 Minutes w/ The Captains](${SITE}/captains/rss.xml)`, `- [4 Chapters a Day](${SITE}/study/rss.xml)`, "",
 ].join("\n"));
@@ -919,7 +920,12 @@ write(path.join(OUT, "llms.txt"), [
   for (const st of out) { if (chunkSize + st.length > target && chunk.length) flushPart(); chunk.push(st); chunkSize += st.length; }
   flushPart();
   writeJson(path.join(OUT, "search-index", "parts.json"), { built: new Date().toISOString(), rows: rows.length, sql_bytes: sql.length, parts });
-  write(path.join(OUT, ".assetsignore"), "# Over the 25 MiB Workers asset limit; served in parts from search-index/ instead.\nsearch.sql.gz\n");
+  write(path.join(OUT, ".assetsignore"), [
+    "# The offline SQLite download stays on GitHub's data branch, regardless of size.",
+    "library.sqlite", "library.sqlite.gz",
+    "# Over the 25 MiB Workers asset limit; served in parts from search-index/ instead.",
+    "search.sql.gz", "",
+  ].join("\n"));
   console.error(`search.sql: ${rows.length} rows, ${(sql.length / 1048576).toFixed(1)} MB, ${(gz.length / 1048576).toFixed(1)} MB gzipped, in ${parts.length} parts`);
 }
 
@@ -963,7 +969,6 @@ write(path.join(OUT, "_headers"), [
   "/manifest.json", "  Cache-Control: public, max-age=60", "",
   "/pagefind/*", "  Cache-Control: public, max-age=86400", "",
   "/img/*", "  Cache-Control: public, max-age=604800", "",
-  "/library.sqlite.gz", "  Cache-Control: public, max-age=3600", "",
 ].join("\n"));
 
 /* ---------------- manifest ---------------- */
