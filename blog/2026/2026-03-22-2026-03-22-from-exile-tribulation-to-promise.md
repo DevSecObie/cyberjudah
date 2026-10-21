@@ -21,20 +21,96 @@ tags: ["IUIC in the ClassRoom", "adversity", "captivity", "false-religion", "war
 
 ## In The News
 
-- *[[16:02](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=962s)]* **The Southern Literary Messenger, 1860, on the social position of the Negro in Egypt three and a half thousand years ago** — An alien reduced to slavery in Egypt, in Thebes, Babylon, Nineveh, Rome, Carthage, Havana and Richmond; slavery has been the history of this race, and without saying it the book puts the black man in Egypt as Israel.
-- *[[19:50](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1190s)]* **The Cambridge History of Judaism on Jewish communities in sub-Saharan Africa: the land of the Hebrews between Abyssinia and the Congo, Jews on both sides of the Niger who fled Vespasian, Arabic-speaking Jews in Timbuktu, the Khoisan counted among the children of Abraham, and the Lemba** — When we say the Israelites are in Africa we have biblical proof and secondary sources, so we do not argue with idiots. The Muslim slaves in Roots were Jews forced into Islam, and Julius Malema says we are the original Jews.
 - *[[29:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1762s)]* **The I Am a Man signs of the civil rights era** — Sixty years of a liberty we did not have before, and we have used it to shoot and hate each other; two boys were shot in the face by our own brother in the Georgia camp's neighbourhood today.
 - *[[31:15](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1875s)]* **An Edomite on Instagram: you sided with the resistance in The Hunger Games, Star Wars and The Matrix, but when it is happening to you in real life you are afraid to resist** — Our people cheer Malcolm and Martin in the theatre and would never have joined them, and many fear joining us.
 - *[[32:47](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1967s)]* **Two self-styled black revolutionaries calling us a cult, separatists and black American nationalists, and Captain Goliath's answer** — Deuteronomy 7:6 says Israel is a holy people above all people; we teach every congregation to come out of her, not to come to America; those men uplift transgenderism and the woman over the man and have never left the couch.
-- *[[1:13:29](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4409s)]* **The Times of Israel: Iran targeting the Dimona nuclear facility, and the missile strike on Dimona** — Dimona is where the black Americans who went to Israel were put, eight miles from the plant; when we visited in 2018 they said Ben Ammi, not Christ, was their saviour, so all we can do is pray for them.
+- *[[1:15:23](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4523s)]* **The missile strike on Dimona** — When we visited in 2018 they said Ben Ammi, not Christ, was their saviour, so all we can do is pray for them.
 - *[[1:18:11](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4691s)]* **A Christian on Revelation 7:9: heaven is beautifully diverse, so let us celebrate our differences** — Where was that in 1964 and on the slave ships? Now that we are bringing this out it is all come together, and you fall for it.
-- *[[1:53:26](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6806s)]* **The Roman Catholic family tree of every Protestant denomination down to Christian nationalism, and the World Council of Churches founded in 1937 with Rockefeller money and Freemasons, speed-running the one-world religion** — The mother church dictates what verses mean, which is why they all say John 3:16, and every one of them worships the Borgia image.
+- *[[1:54:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6862s)]* **The World Council of Churches founded in 1937 with Rockefeller money and Freemasons, speed-running the one-world religion** — The mother church dictates what verses mean, which is why they all say John 3:16, and every one of them worships the Borgia image.
 - *[[1:59:39](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7179s)]* **Pastor William Wolfe: we are going to impose it upon you, and Doug Wilson leading a Christian nationalist service at the Pentagon under Hegseth** — They are telling you Christianity will be imposed on the country; that is what Ezra prophesied about being fed with things offered to idols.
 - *[[2:13:34](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=8014s)]* **A prepper: if the government tells you to get on a bus or truck for your safety, do not get on** — We have told brothers and sisters for years to prepare; now the white man said it, they will listen.
 - *[[2:29:32](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=8972s)]* **The hallway of doors: straight porn, threesomes, then every perversion down to bestiality and pedophilia** — Nobody stays at the first door; two brothers in the body ended arrested, one at a nursing home and one for child pornography, and the brother holding his computer nearly went with him.
 - *[[3:17:32](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=11852s)]* **A young black man mocking a God who almost annihilated his own people for a piece of gold** — That is what Christianity has done to our people; Oprah said the same.
 
 ## Scriptures Opened
+
+<div class="reading">
+
+Reading from *The Southern Literary Messenger*, published 1860  *[[17:02](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1022s)]*
+
+> The Southern Literary Messenger, devoted to every department of literature and the fine arts.
+>
+> The results, as established by the best authority, to which the monumental evidence inevitably tend, is that the social position of the negro race in Egypt 3,500 years ago were substantially the same that it is now in the United States. We are told that the negro was a stranger
+
+- So he said the same thing that happened to the negro from 3500 years ago is the same as it is today.
+
+> in Egypt, an alien in a foreign land, and that in the ancient world the alien was uniformly regarded as an enemy, and was most commonly reduced to slavery, and that the relations in which he appears on the monuments of the Nile resulted from this position as an alien.
+
+- So what they're saying without saying it is that the black man in the Egypt are the Israelites.
+
+> In respect to the monumental period, the proofs are all strong in the same direction. When the negro races first made their appearance on the monuments of Egypt, it is in the relations of slavery.
+
+- See that, in the relation of slavery.
+
+> Sometimes indeed of captivity, but more commonly of established slavery. This, until we came down to our own times, was therefore the universal status. Slaves then when Karnak and Luxor were built, slaves in Europe, Asia, Africa and America. Slaves in Thebes and Memphis, at Babylon and Nineveh, at Rome, and
+
+- So notice it says that Negroes were slaves in Thebes, Memphis, Babylon, Nineveh, Rome, Athens.
+
+> at Carthage and Constantinople, at Havana and Richmond, slaves at all times and in all places, under all forms of government, under every modification of society, under every considerable combination of circumstances. Slavery seems to have been emphatically the history of this race. And who, thrusting himself into the divine councils, will undertake to say that slavery is not their doom?
+
+</div>
+
+<div class="reading">
+
+Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–1815  *[[19:59](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1199s)]*
+
+> In Renaissance Europe, new information about Jewish communities are imagining Jewish communities in sub-Saharan Africa came chiefly from Arab historians and geographers.
+>
+> As the major modern source on Africa, Description carried great authority. In a postscript to the English edition entitled A Summary Discourse of the Manifold Religions Professed in Africa, John Pory noted: At this day also the Abyssinians affirmed that upon the Nilus towards the west there inhabiteth a most populous nation of the Jewish stock under a mighty king, and some of our modern cosmographers set down a province in those quarters which they called the Land of the Hebrews,
+
+- So in Africa they had an area called the land of the Hebrews. That's negro, man.
+
+> placed as it were under the equinoctial, in certain unknown mountains between the confines of Abyssinia and Congo.
+
+- So these were Jews between Abyssinia, Ethiopia and the Congo, that whole section.
+
+> John Ogilby (1600–76),
+
+- So he's quoting John Ogilby, who's an author who wrote this in the 1600s, between the 1600s and 1676.
+
+> a translator and publisher, gave further information about Jews in the continent in his Africa (London, 1670). He noted of the coast of Guinea: Many Jews also are scattered over this region, some natives boasting themselves of Abraham's seed, inhabiting both sides of the river Niger; others are Asian strangers who fled hither either from the desolation of Jerusalem by Vespasian or from Judea wasted
+
+- So he knows the history, that the blacks fled down from Jerusalem by Vespasian, from the time of Vespasian.
+
+> and depopulated by the Romans, Persians, Saracens and Christians. And Ogilby also included the suggestion by Leo Africanus that Jews were to be found in the inland areas.
+
+> By the 18th century, there were many descriptions in travel and missionary accounts of the lost tribes of Israel, Jews or descendants of Jews, living along the western coast of Africa.
+
+- So when we say that the Jews, the Israelites, are in Africa, we know what we're talking about. We have proof, not only biblical proof, but we have secondary sources, an old books, that say the same thing. So we don't argue with idiots, right?
+
+> There are also accounts of residual traces of Judaism practiced in these areas. Perhaps the most famous of these is the one contained in Olaudah Equiano's celebrated biography, The Interesting Narrative of the Life of Olaudah Equiano, of Gustavus Vassa, the African (1789). A Scottish explorer, … Park (1771–1806), described having encountered what he called Arabic-speaking Jews in West Africa
+
+- That's very important, because like in the movie Roots, you'll see a lot of the slaves speaking Arabic. They were Muslims, but they were not Arabs. These were Jews that were forced to take on Islam. That's what they're discovering here.
+
+> on the left bank of the river Niger, and remarked that there were said to be many Jews in nearby Timbuktu. The community in Timbuktu is well attested, and its probable descendants, now Muslims,
+
+- Now Muslims.
+
+> still proudly invoke the Jewish origins of their group.
+
+> Indeed, throughout the period of the colonization of Africa, countless African languages would be understood as deriving from Hebrew or some other Semitic language. Kolb published a very successful book, The Present State of the Cape of Good Hope, which also claimed that many, if not most, of the general customs and traditions of the Khoisan
+
+- Khoisan. So those that went on the quest with us, we went down to South Africa, met a lot of them.
+
+> were connected with those of the Jews. The Khoisan, he argued, could be counted among the children of Abraham,
+
+- That's why there's a video clip I think I uploaded on my Instagram with, what's the brother's name over the EFF? Julius Malema. He said in the clip, he said, "We're the Jews. We're the original Jews. We know who we are." And it's real short, but I upload it on my Instagram page. So, if you get a chance, y'all can search through and you'll find it.
+
+> as they were indeed of Jewish blood. His conclusions were widely accepted by European intellectuals. Genetic evidence established towards the end of the 20th century suggested that the Judaizing tribe of Lemba or southern Africa, known as VaRemba in Shona-speaking areas, are of possible Jewish origin.
+
+- That's right. Very good.
+
+</div>
 
 **[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[[25:28](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1528s)]*
 
@@ -227,6 +303,19 @@ tags: ["IUIC in the ClassRoom", "adversity", "captivity", "false-religion", "war
     The Lord comes with fire and chariots like a whirlwind to plead with all flesh, and the slain of the Lord shall be many: not just Esau, the wicked Israelites too.
 
 
+<div class="reading">
+
+Reading from *The Times of Israel*  *[[1:14:16](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4456s)]*
+
+> Iran says it's targeting Dimona nuclear facility as response to strike on Natanz.
+
+- So that was today. So Dimona, Israel is where all the blacks from America went over there to live. They're in Dimona. That's where they live.
+
+- When we visited them in 2018, we were in Dimona. It's 8 miles from a nuclear power plant. That's where they put all the black Americans, right there. And few miles down, you got Ethiopians in one section. Yeah, that's us right there.
+
+</div>
+
+
 **[Galatians 1:6-7](/bible/galatians/1#v6)**  *[[1:16:44](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4604s)]*
 
 > <sup>[6](/bible/galatians/1#v6)</sup> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
@@ -395,9 +484,75 @@ tags: ["IUIC in the ClassRoom", "adversity", "captivity", "false-religion", "war
 >
 > <sup>[70](/bible/2-esdras/16#v70)</sup> For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord.
 
-- The burning wrath of a great multitude is kindled over you, the all nations that hate you, and they shall take away certain of you and feed you being idle with things offered unto idols. Idle means avoiding work, lazy, without purpose; in this truth it is avoiding God's work, and some have been here years with no office, doing nothing, looking at the women's side and taking no notes. Send him to labour, that he be not idle, for idleness teacheth much evil, which is why the idle end up on porn, weed and DMs.
+- The burning wrath of a great multitude is kindled over you, the all nations that hate you, and they shall take away certain of you and feed you being idle with things offered unto idols.
 
-- Things offered unto idols is the most idolatrous religion in America, Christianity: in the latter times some depart from the faith giving heed to seducing spirits and doctrines of devils, forbidding to marry and commanding to abstain from meats, which is Catholic priests and Lent, and the Catholic church is the mother of every denomination on the tree.
+<div class="reading">
+
+Reading from a definition of *idle*  *[[1:47:54](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6474s)]*
+
+> Idle. Number one: of a person, avoiding work; lazy. Lazy, indolence, slothful, work-shy, shiftless, loafing.
+
+> Number two: without purpose or effect; pointless.
+
+- So in this truth, if you are idle, you are avoiding work. It ain't talking about work in the world. It's about God's work. You're avoiding God's work. You are lazy. Not lazy at home. I'm talking about you're lazy in this truth. You have no purpose. Number two, without purpose or effect. You are pointless. You're just here. Some of you have been here for years and you have no office. You're doing nothing. You brother or sister or idle.
+
+</div>
+
+- Send him to labour, that he be not idle, for idleness teacheth much evil, which is why the idle end up on porn, weed and DMs, looking at the women's side and taking no notes.
+
+<div class="reading">
+
+Reading from a search on idols in the Bible  *[[1:50:46](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6646s)]*
+
+> Idols in the Bible are physical objects (statues, figurines, golden calves) or metaphorical concepts (money, career, power) that compete with God for ultimate trust, blessing, or worship. Forbidden by the Ten Commandments, idolatry is treated as infidelity, as God demands exclusive devotion.
+
+- So here's my question. What is the most idolatrous religion here in America? Christianity.
+
+</div>
+
+- Things offered unto idols: in the latter times some depart from the faith giving heed to seducing spirits and doctrines of devils, forbidding to marry and commanding to abstain from meats, which is Catholic priests and Lent.
+
+<div class="reading">
+
+Reading from an on-screen tree of the Roman Catholic church  *[[1:53:34](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6814s)]*
+
+> Roman Catholic white supremacy.
+
+- Roman Catholicism is the mother church of all the other Protestant Christian religions. That's the mother. That was the first one.
+
+> Eastern, Western Orthodox, Jehovah's Witness, Presbyterian, Lutheran, Charismatic, Born Again, World Council of Churches, Methodist, Episcopalian, Mormon, Evangelical, Pentecostal, Baptist, Adventist, Protestant, Anglican, Calvinist, Religions, Nationalist, Nationalism,
+
+- Christian nationalism. Oh, Christian nationalism.
+
+</div>
+
+<div class="reading">
+
+Reading from *The Pillory: The Tale of the Borgia Pope in Nine Crowded Chapters* by John Bond, published in 1920  *[[1:58:29](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7109s)]*
+
+> It is an open secret that Caesar Borgia, the son of Pope Alexander, had posed for it.
+
+- Posed for this image of Jesus. So you see the crown of thorns under him. It says Salvatore, which is Spanish for savior. That's Caesar Borgia. All the world shall worship him. Guess what? Even Muslims. You said Muslims don't worship. Yeah, they do. You ask them who that is. Guess who they'll say that is? Jesus. They'll say that. Ask a Buddhist who is that. Guess what the Buddhist going to say? Jesus.
+
+- Everybody acknowledge this as Jesus the Christ.
+
+> Bust of the Savior posed for by Caesar Borgia.
+
+- That's it. Everybody's Jesus. That's him, the Savior.
+
+</div>
+
+<div class="reading">
+
+Reading from an on-screen note on Pastor William Wolfe  *[[1:59:47](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7187s)]*
+
+> Pastor Wolfe previously served as the deputy assistant secretary of the defense at the Pentagon and as the director of legislative affairs at the Department of State during the first Trump administration.
+
+- He was there during Trump's first administration.
+
+> He now leads the Center for Baptist Leadership.
+
+</div>
 
 - They that consent unto them shall be had in derision and trodden under foot: nobody likes a traitor, and like the donkeys in Planet of the Apes, Esau uses you and gets rid of you. In every place and in the next cities a great insurrection upon those that fear the Lord, which is why Christ said flee to the next city.
 
@@ -729,7 +884,17 @@ tags: ["IUIC in the ClassRoom", "adversity", "captivity", "false-religion", "war
 
 - Job's life symbolises the nation: boils from the sole of his foot to his crown, friends who would not plead his cause, everything lost, and a wife who turned on him in his darkest moment, as the black woman does. God had to intervene, and at the end Job was blessed, as we will be if we endure.
 
-- All thy lovers have forgotten thee: the Chinese friends and the Arab friends, as Egypt and Ethiopia and Moab before, are gone. I have wounded thee for the multitude of thine iniquity because thy sins were increased, the Houston rodeo and the rape festival in Delta State, and God walked contrary to us and brought us into the land of our enemies; if our uncircumcised hearts be humbled and we accept the punishment of our iniquity, we admit God was right, as the three holy children sang in the furnace, thou art righteous in all the things thou hast done to us.
+- All thy lovers have forgotten thee: the Chinese friends and the Arab friends, as Egypt and Ethiopia and Moab before, are gone. I have wounded thee for the multitude of thine iniquity because thy sins were increased, the Houston rodeo, and God walked contrary to us and brought us into the land of our enemies; if our uncircumcised hearts be humbled and we accept the punishment of our iniquity, we admit God was right, as the three holy children sang in the furnace, thou art righteous in all the things thou hast done to us.
+
+<div class="reading">
+
+Reading from an on-screen headline  *[[3:13:24](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=11604s)]*
+
+> Alleged rape festival: Are women safe in Nigeria?
+
+- That's in the, what's it called? Delta what? Delta State. Don't go there, sister, talking about I'm independent, I don't need nobody, I'mma go by myself. All right. Take your black behind down there.
+
+</div>
 
 - Therefore all they that devour thee shall be devoured and all thine adversaries, every one of them, shall go into captivity, Miss Laura included, and all that prey upon thee shall be a prey. For I will restore health unto thee: only the Lord heals, by Christ's stripes, for they that are whole need no physician and he came to call sinners to repentance. Because they call thee an outcast, African-American, Haitian, Jamaican, this is Zion whom no man seeketh after.
 

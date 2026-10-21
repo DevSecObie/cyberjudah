@@ -474,7 +474,7 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
 - Their bodies are buried in peace, but their name liveth for evermore. The people will tell of their wisdom because they instructed the people without hypocrisy and deceit.
 
 
-**[Sirach 44:16-22](/bible/sirach/44#v16)**  *[[1:53:21](https://www.youtube.com/watch?v=1qC2mwBgisM&t=6801s)]*
+**[Sirach 44:16-23](/bible/sirach/44#v16)**  *[[1:53:21](https://www.youtube.com/watch?v=1qC2mwBgisM&t=6801s)]*
 
 > <sup>[16](/bible/sirach/44#v16)</sup> Enoch pleased the Lord, and was translated, being an example of repentance to all generations.
 >
@@ -488,7 +488,9 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
 >
 > <sup>[21](/bible/sirach/44#v21)</sup> Therefore he assured him by an oath, that he would bless the nations in his seed, and that he would multiply him as the dust of the earth, and exalt his seed as the stars, and cause them to inherit from sea to sea, and from the river unto the utmost part of the land.
 >
-> <sup>[22](/bible/sirach/44#v22)</sup> With Isaac did he establish likewise for Abraham his father’s sake the blessing of all men, and the covenant, And made it rest upon the head of Jacob. He acknowledged him in his blessing, and gave him an heritage, and divided his portions; among the twelve tribes did he part them.
+> <sup>[22](/bible/sirach/44#v22)</sup> With Isaac did he establish likewise for Abraham his father’s sake the blessing of all men, and the covenant,
+>
+> <sup>[23](/bible/sirach/44#v23)</sup> And made it rest upon the head of Jacob. He acknowledged him in his blessing, and gave him an heritage, and divided his portions; among the twelve tribes did he part them.
 
 - Enoch pleased the Lord and was an example of repentance to all generations. Noah was found perfect and righteous. Abraham was a great father of many people. The covenant was established with Isaac and made to rest on the head of Jacob.
 

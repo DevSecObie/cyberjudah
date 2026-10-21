@@ -22,17 +22,46 @@ tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "wisdom"]
 ## In The News
 
 - *[[6:45](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=405s)]* **The thumbnail animation: this is the vision, the beast with ten horns and seven heads; keep walking, redemption is nigh.** — Shout out to the thumbnail team.
-- *[[8:09](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=489s)]* **Iran's new supreme leader, son of the assassinated Ayatollah, vows revenge for every death, especially the 175 mostly children killed at the school in Minab, keeps the Strait of Hormuz closed with mines laid and oil back over a hundred dollars, and urges the Gulf states to shut the American bases. A preliminary US military investigation blames outdated targeting data; Trump says he does not know about it.** — First they called it a mistake, then blamed Iran, now Trump knows nothing. Ezekiel 28:3 says they are wiser than Daniel with no secret hid from them, so how did they mistake a school for a base? Psalms 58:3, they lie from the womb. The Strait carries a fifth of the world's oil.
 - *[[25:42](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1542s)]* **A short history of NATO and the Warsaw Pact: twelve nations signed the North Atlantic Treaty in Washington in 1949 with Article 5 making an attack on one an attack on all, Greece, Turkey, and West Germany joined, the Soviets answered with the Warsaw Pact in 1955, and the pact dissolved in 1991.** — Revelation 17:12-13: ten kings receiving power one hour with the beast, of one mind, giving their strength to it. The Bible is prophetic and comes to life over time.
-- *[[30:21](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1821s)]* **France and Italy open talks with Iran for their vessels to pass the Strait of Hormuz after a week-long standstill, as Iran threatens to burn any ship passing without permission.** — Europe negotiating with Iran while America still blocks is a conflict of interest: we agreed to give you power, but this is your war, Trump.
-- *[[32:21](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1941s)]* **Canada's prime minister tells parliament Canada will never join American offensive operations against Iran; German chancellor Merz says Germany shares some goals but sees no plan to end the war, condemns Iran's strikes on Germany's partners in the region, and warns against an endless war or Iran's collapse.** — Europe is not staying quiet. They see the oil prices, the destabilization, and their Gulf allies being bombed.
-- *[[37:32](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2252s)]* **Spain permanently withdraws its ambassador to Israel over Spain's opposition to the US-Israeli attacks on Iran, after banning weapons flights and ships to Israel over Gaza; Israel's foreign minister calls it anti-Semitic. A Greek clip in the same vein.** — Greece, Spain, Germany, Italy, France: the ten horns beginning to hate the whore, Revelation 17:16.
+- *[[36:56](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2216s)]* **A Greek clip.**
 - *[[46:24](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2784s)]* **Netanyahu announcing the offensive on Iran two days before Purim, invoking Persia rising against the Jews 2,500 years ago, and the next day calling Tehran Amalek.** — Purim is Esther and Mordecai against Haman the Amalekite, Esau Edom, who wanted to eradicate all of us; Esther, married to the Persian king, moved his heart to kill Haman. Now the man pretending to be us calls the Persians Amalek. If the Persians are Amalek, who are the Persians? Netanyahu and his crew are the Amalekites.
 - *[[49:11](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2951s)]* **A European parliamentarian: Trump, Putin, Xi, and the tech autocrats all fear a united Europe and want twenty-seven weak nations; this is Europe's moment of independence; we need a United States of Europe now.** — The Lord is doing his job; it is time for us to do ours.
-- *[[1:53:55](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=6835s)]* **A sitcom scene of a man starting a fight over chicken for dinner so he can storm out to get some duck.** — Sirach 32:17, the sinful man finds an excuse according to his will. Bishop's coworker started fights with one woman to go see the other. You blame everybody else when really you want to go to your pleasure and your lust. As the Bishop's graphic says, a sin-filled soul finds and makes excuses only to fulfil its lust.
+- *[[1:53:55](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=6835s)]* **A sitcom scene of a man starting a fight over chicken for dinner so he can storm out to get some duck.** — Sirach 32:17, the sinful man finds an excuse according to his will. Bishop's coworker started fights with one woman to go see the other. You blame everybody else when really you want to go to your pleasure and your lust.
 - *[[1:58:19](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=7099s)]* **A psychiatrist explains why a child with ADHD can play video games for hours but not do homework: the game gives continuous immediate consequences and the homework's consequences are delayed; put such a person where there are no consequences and failure is guaranteed because he cannot self-motivate.** — Keeping the commandments has delayed gratification, the kingdom, while sin gives instant dopamine, so a deceived man stops seeing any reason to keep the law. In this truth you must self-motivate; nobody is coming to give you a pep talk. Wisdom raineth down skill.
 
 ## Scriptures Opened
+
+<div class="reading">
+
+Reading from a news report on Iran's new supreme leader, on the screen  *[[8:21](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=501s)]*
+
+> Iran's Khamenei vows revenge for school bombing. Wants Strait of Hormuz to stay closed.
+>
+> Ayatollah Khamenei promised revenge for every death in the war against Iran with particular emphasis on the deaths of the children killed in the bombing on an Iranian elementary school in his first statement since replacing his father.
+>
+> Khamenei said Iran would continue using the closure of the Strait of Hormuz as a lever in the war.
+
+- And remember when it comes to the Strait of Hormuz, that holds 20% of the world's oil supply. So that's not to be taken lightly.
+
+> The key oil passage has remained shut off and Iran has reportedly laid mines there, driving up global oil prices. It crossed $100 a barrel again Thursday and creating a particularly difficult political situation for the Trump administration.
+>
+> Khamenei also promised to retaliate for the bombing of the elementary school in southern Iran on February 28th. As a growing body of evidence suggests the attack was mistakenly carried out by the US military while targeting a nearby Iranian Revolutionary Guard Corps compound.
+>
+> The newly appointed leader who has not appeared in public since taking over after his father was killed by an Israeli strike in the initial wave of attacks, also urged Gulf Arab states that house US bases to shut them down as soon as possible and threatened to open other fronts in the war.
+>
+> A preliminary investigation by the US military found the US is responsible for firing the Tomahawk missile that killed 175 people, mostly children in the town of Minab, The New York Times reported Wednesday citing unnamed people familiar with the report.
+>
+> The error was reportedly attributed to outdated targeting data from the Defense Intelligence Agency that showed the school was still part of the adjacent IRGC compound.
+>
+> Trump, who initially blamed Iran for the strike, told reporters Wednesday, "I don't know about it. I don't know about it," when asked about the military's findings.
+>
+> The Strait of Hormuz, which serves as a passageway for about 1/5 of the world's oil traveling from the Persian Gulf to the Arabian Sea, has been virtually frozen since
+
+- That's that 20% we spoke of. So, you see President Trump, he says he knows nothing about it. Earlier in this week, they tried to say it was a mistake, one of our old records. Then they tried to blame it on Iran. They said it was their fault of why they hit the school.
+
+- Don't listen for 1 second to these liars. It's like it says in Psalms 58 and 3, they come out of the womb lying. That's all they do. We all understand what type of tech that America has. So does the Bible. The Bible prophesied of this thing.
+
+</div>
 
 **[Revelation 13:1-6](/bible/revelation/13#v1)**  *[[15:46](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=946s)]*
 
@@ -131,6 +160,74 @@ tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "wisdom"]
 
     The Lord is not slack concerning his promise but longsuffering, not willing that any should perish but that all come to repentance; still the day of the Lord will come as a thief, the heavens pass away with a great noise, and the elements melt with fervent heat, nuclear fire. Seeing all these things shall be dissolved, what manner of persons ought ye to be? Popcorn is not a sin, but if watching is all you do without applying, now is the time to work like never before.
 
+
+<div class="reading">
+
+Reading from a news video on Europe negotiating with Iran over the Strait of Hormuz, on the screen  *[[30:00](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1800s)]*
+
+> Europe negotiating with Iran for oil access through strait as US still block, report says.
+
+- So, you have Europe negotiating with Iran about getting oil from the Strait of Hormuz. How does that sound? That sounds like a conflicting interest. That sounds like, you know what? Yeah, I know we agreed to give you power, America, but in this situation we got to look out for Europe.
+
+> France and Italy have reportedly opened talks with Iranian officials in the hopes of negotiating a deal to allow their vessels through the Strait of Hormuz after a week-long standstill in the shipping lane has wrecked havoc on global energy markets.
+>
+> The two nations, both of which have seen spikes in the price of gas, are looking to open talks with Iran, unnamed officials told the Financial Times.
+>
+> Iran has threatened to set fire to any ships going through Hormuz without its permission, and as a result, the channel through which more than 20% of the world's daily oil demand flows has been at a virtual standstill.
+>
+> Mostafa Khamenei, who was named as Iran's new supreme leader after his father was killed in a US airstrike, said in a message on Thursday that he will keep blocking the strait.
+
+- So now you see European countries, they're trying to negotiate cuz they're like, "Nah, we ain't trying to suffer. We ain't trying to go through this. This is your war, Trump." They don't want nothing to do with that.
+
+</div>
+
+<div class="reading">
+
+Reading from a news video on the Iran war dividing NATO, on the screen  *[[32:30](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=1950s)]*
+
+> Canada ruled out joining Iran war.
+>
+> Parliament clash over Canada Iran policy.
+>
+> Germany warns against endless Iran war.
+>
+> Europe questions strategy behind Iran war.
+>
+> Canada's parliament erupted into a heated debate as Prime Minister Mark Carney declared that Ottawa would never take part in military operations against Iran even as tensions from the US Israel strikes on Tehran continue to ripple across global politics.
+>
+> Carney said Canada supports efforts to stop Iran from obtaining nuclear weapons but stressed that the country will not participate in United States offensive operations.
+>
+> "Mr. Speaker, thank you for this opportunity. Canada's policy is clear. Canada supports the need to stop Iran's nuclear program and the export of terrorism. Canada is not participating in the United States offensive operations and never will."
+>
+> The statement came after Bloc Québécois leader Yves-François Blanchet challenged Carney to explain Canada's Middle East strategy and whether Ottawa had coordinated its position with European allies.
+>
+> Carney said he had spoken with several G7 leaders including French President Emmanuel Macron, Japan's Prime Minister and US officials and planned further talks with UK Prime Minister Keir Starmer and Italy's Giorgia Meloni.
+>
+> Meanwhile, in Europe, German Chancellor Friedrich Merz raised concerns about the widening conflict during a joint appearance with Czech Prime Minister Andrej Babiš.
+>
+> Merz said Germany shares some of the goals of the US and Israel, but warned that more questions are emerging as the war continues, particularly over whether there is a clear plan to end the conflict.
+>
+> "The United States and Israel have been at war with Iran for over a week. We share many of these goals, but with the day of war, more questions arise. We are particularly concerned that there is apparently no common plan on how this war can be swiftly brought to a convincing end. Meanwhile, we are witnessing a dangerous escalation. Iran is indiscriminately attacking states in the region, including close partners and allies of our country. We condemn this in the strongest possible terms. These attacks must stop immediately."
+>
+> Merz warned that Germany and Europe have no interest in an endless war or the collapse of Iran's territorial integrity, saying such a scenario could destabilize the region and affect global security, energy supplies, and migration.
+
+- So, you see Europe, hey, they say that they, you know, support the motive behind it, to destroy Iran's nuclear capabilities, but at the end of the day, they also see the negative effect in regards to the oil as well. They don't want to drag it on. They're talking about some of their other allies that are in the Persian Gulf region are now getting bombed. They don't like that. So, you can see they're not being quiet about it either. So, you had Germany speak up.
+
+</div>
+
+<div class="reading">
+
+Reading from a Reuters article on Spain and Israel, on the screen  *[[37:37](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=2257s)]*
+
+> Spain permanently withdraws ambassador as rift with Israel deepens.
+>
+> Madrid, March 11, Reuters. Spain permanently withdrew its ambassador to Israel on Tuesday as a diplomatic standoff worsened between the two countries over Spain's opposition to the US-Israeli attacks on Iran.
+>
+> The ambassador was summoned back to Spain last September amid a diplomatic row over Spanish measures banning aircraft and ships carrying weapons to Israel from its ports or airspace due to Israel's military offensive in Gaza, which Israeli Foreign Minister Gideon Sa'ar denounced as anti-Semitic.
+
+- So you see Spain is also, so you got with Greece, Spain, Germany, like all of Europe, yeah, Italy, France, in negotiations with Iran in regards to the oil.
+
+</div>
 
 **[2 Corinthians 4:18](/bible/2-corinthians/4#v18)**  *[[50:47](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=3047s)]*
 
@@ -260,7 +357,7 @@ tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "wisdom"]
 
 > <sup>[6](/bible/proverbs/16#v6)</sup> By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil.
 
-- By mercy and truth iniquity is purged, and by the fear of the Lord men depart from evil. Christ strengthens you to resist sin; that is why we remove the leaven, which represents sin. Purge means to free from moral defilement and to cause evacuation: get the leaven out of the house, put the blood on the doorpost, and be delivered from your captors.
+- By mercy and truth iniquity is purged, and by the fear of the Lord men depart from evil. Christ strengthens you to resist sin; that is why we remove the leaven, which represents sin.
 
 - The fear is not the fear of the servant who hid his talent or the brother making excuses because he is nervous; Psalms 119:120, my flesh trembleth for fear of thee and I am afraid of thy judgments. He is the King of terrors.
 
@@ -300,6 +397,20 @@ tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "wisdom"]
 
     Partakers of the divine nature, having escaped the corruption in the world through lust; add to your faith virtue, knowledge, temperance, patience, godliness, brotherly kindness, charity. Knowing that Christ is black is not enough; add to your repertoire. If these abound you shall not be barren nor unfruitful, and you will not be purged out. He that lacketh them is blind, cannot see afar off that America is destroyed and salvation is coming, and has forgotten he was purged from his old sins. Keep trimming or you end up back in the old folly.
 
+
+<div class="reading">
+
+Reading from a definition of purge, on the screen  *[[1:25:02](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=5102s)]*
+
+> Definition of purge. 1b. To free from moral or ceremonial defilement.
+
+- To purge ourselves from moral defilement. Remember, our morals come from what? God's commandments.
+
+> 2a. To cause evacuation from.
+
+- We need to evacuate from sin. Get the leaven out the house. Why? Because we got a deliverance that we want to achieve. The Lord said, remove the leaven and put the blood over the doorpost and I'll pass over. And guess what? We were delivered from the hands of our captors.
+
+</div>
 
 **[Luke 13:20-21](/bible/luke/13#v20)**  *[[1:34:57](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=5697s)]*
 
@@ -382,6 +493,16 @@ tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "wisdom"]
 
     So shall righteousness hate iniquity when she decketh herself, and shall accuse her to her face; the Lord defends him that diligently searcheth out every sin. Discipline your mind to hate iniquity. Wisdom of Solomon 5:13-15: the hope of the ungodly is dust blown away and the remembrance of a guest that tarrieth but a day, but the righteous live for evermore and their reward is with the Lord. Do the homework and you live forever while the instant feelings pass.
 
+
+<div class="reading">
+
+Reading from the Bishop's graphic, on the screen  *[[1:55:34](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=6934s)]*
+
+> A sin-filled soul will find and make excuses only to fulfill their lust.
+
+- You see that thing right there? That's very very dangerous.
+
+</div>
 
 **[2 Esdras 15:7-12](/bible/2-esdras/15#v7)**  *[[2:02:08](https://www.youtube.com/watch?v=gTc6TQLSDrI&t=7328s)]*
 
