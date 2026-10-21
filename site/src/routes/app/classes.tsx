@@ -8,6 +8,8 @@ import { api, thumbUrl } from "@/lib/api";
 type Feed = "classes" | "captains" | "history" | "truth";
 const FEEDS: [Feed, string][] = [["classes", "Sabbath"], ["captains", "Captains"], ["history", "History"], ["truth", "Truth"]];
 const TRUTH = "The Truth Shall Make You Free";
+// The show's radio episodes carry its name followed by the station ("… · Kente FM Radio").
+const isTruth = (c?: string) => !!c?.startsWith(TRUTH);
 const PAGE = 40;
 
 export const Route = createFileRoute("/app/classes")({
@@ -28,7 +30,7 @@ function useFeed(feed: Feed) {
       }
       const rows = feed === "captains" ? await api.captains() : await api.classes();
       return rows
-        .filter((r) => (feed === "truth" ? r.collection === TRUTH : feed === "classes" ? r.collection !== TRUTH : true))
+        .filter((r) => (feed === "truth" ? isTruth(r.collection) : feed === "classes" ? !isTruth(r.collection) : true))
         .map((r) => ({ url: r.url, title: r.title, date: r.date, teacher: r.teacher, thumb: r.thumb, topics: r.topics ?? [], books: r.books }));
     },
   });

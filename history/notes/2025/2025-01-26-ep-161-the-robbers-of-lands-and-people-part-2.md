@@ -1,0 +1,990 @@
+---
+title: "The Robbers of Lands and People Part 2"
+slug: "2025/2025-01-26-ep-161-the-robbers-of-lands-and-people-part-2"
+date: "2025-01-26"
+episode: 161
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2025-01-26 · with the officers of IUIC Philadelphia"
+tags: ["Our Hidden History", "faith"]
+---
+
+<p class="taught">Our Hidden History · 2025-01-26 · Deacon Eythan, with the officers of IUIC Philadelphia</p>
+
+<span class="opens"><b>Opens</b> [Ps 64](/bible/psalms/64) · [Job 8](/bible/job/8) · [Jer 17](/bible/jeremiah/17) · [Sir 41](/bible/sirach/41) · [Isa 11](/bible/isaiah/11) · [Deut 33](/bible/deuteronomy/33) · [Isa 13](/bible/isaiah/13) · [1 Macc 1](/bible/1-maccabees/1) · [Dan 7](/bible/daniel/7) · [Ps 148](/bible/psalms/148) · [Isa 2](/bible/isaiah/2) · [Mic 4](/bible/micah/4) · [Matt 24](/bible/matthew/24) · [Ezek 18](/bible/ezekiel/18) · [2 Esdras 4](/bible/2-esdras/4) · [2 Esdras 5](/bible/2-esdras/5) · <i>and 7 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="uUQsMXbKo7Y"></div>
+
+## Introduction
+
+*[[10:56](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=656s)]* Hey, hey, welcome back, welcome back. We are back, we are back, we are back. All praise to the Most High, another episode of Our Hidden History. So you are now tuned into Our Hidden History radio show. So we're back. A lot of y'all requested that book, so I pulled some more pages. I'm not sure I was going to go into the class, but we're going to do Story Time with Satan today. Story Time with the Devil. It's going to be Story Time with the Devil today. So give me Psalms. Get excited. You can hear me? Psalms, the tongue fall upon themselves. Psalms 64:8.
+
+## Readings and Scriptures
+
+**[Psalms 64:8](/bible/psalms/64#v8)**  *[[11:42](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=702s)]*
+
+> <sup>[8](/bible/psalms/64#v8)</sup> So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
+
+- So what we're going over is them, the nations. Is that Esau? Well, the nations themselves, they tend to always have among them the liberal ones that will tell on themselves. You watch them, you see it on TikTok, over time you see it on Instagram, where Edom will come along and they're just telling on themselves. And so I want you guys to just pay attention to this book. We're going to bring out whistleblowers. Whistleblowers, yes.
+
+- But real quick, before I go into it, I want to post something that one of the brothers pulled at the getaway. He pulled this video of this guy talking about the Portuguese. I'm going to pull that video up. I want that in the archives; if Esau takes it down, we have it saved. You know Esau, they see something like that, they're going to take it right down. Like your boy, the president of Syria. They chased that dude out the country. That dude's in Russia somewhere hiding under a blanket. He's with his boy who revealed that Christ is black. Whatever they come along with that stuff, man, they get chased out the damn planet.
+
+- **Officer:** I was going to say, we're in that time period, that scripture right here, where everybody, it's not only Edom, but everybody's coming out and saying what America actually did, or the true history behind things. Even things like TikTok; that's why they was trying to ban TikTok last week, because too many whistleblowers coming out and saying things that shouldn't be said. What they call it right now is the end of legacy news, which is like NBC, ABC, corporate media, where everybody understands that the government controls that type of media and those news articles, which is Amalek. So now everybody's coming out with their own private news channels, their own information, their own research. So this is the time of that scripture being fulfilled. We're seeing it.
+
+*[[13:58](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=838s)]* **Officer:** Shalom, y'all. Give me Job 8:8, because Our Hidden History, this is all praise to the Most High, the Deacon is able to bring the history out like this that we never heard of before. A lot of our people never heard of it. You're not going to get this in school. So, you know, when we say look, even the donation for the books and so forth, that's so the Deacon can bring these books, so the leadership can bring the books out.
+
+**[Job 8:8-9](/bible/job/8#v8)**  *[[14:35](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=875s)]*
+
+> <sup>[8](/bible/job/8#v8)</sup> For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
+
+- **Officer:** You see that? The Bible says inquire of the former age, the age that's before us. Prepare thyself to the search of their fathers. So the search of our fathers is in this Bible. The search of our fathers is in this Bible, and also all that hidden history that we never knew about before.
+
+> <sup>[9](/bible/job/8#v9)</sup> (For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)
+
+- **Officer:** For we are but of yesterday. Life is short. And know nothing: we don't know anything. And you know why we didn't know anything? Because we lost our heritage and so forth. Give me Jeremiah 17:4. I said it to y'all on the Telegram; just make sure you download it. When you play it, download it and play it. Because the things that we did know, now we lost all of that.
+
+**[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[[15:31](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=931s)]*
+
+> <sup>[4](/bible/jeremiah/17#v4)</sup> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.
+
+- **Officer:** So we discontinued from our heritage, our culture. We discontinued from our culture, our language, the way we used to dress. And I will cause thee to serve thine enemies in the land which thou knowest not. So we are in our enemies' land right now, serving our enemies. Now go back, Job 8:9.
+
+**[Job 8:10](/bible/job/8#v10)**  *[[16:02](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=962s)]*
+
+> <sup>[10](/bible/job/8#v10)</sup> Shall not they teach thee, and tell thee, and utter words out of their heart?
+
+- **Officer:** For we are but of yesterday and know nothing. Why? We lost everything. It's now that we getting it back through the Most High God and the Son, Jesus Christ. Because our days upon earth are a shadow: life is short. Shall not they teach thee and tell thee: our forefathers. When we search the scripture in this Bible, we going to learn our history like never before. So like I said, all praise to the Most High for putting the spirit on Deacon for bringing out our hidden history, bringing this history back to the forefront, because we lost everything. And you ain't going to learn this in school. It's not happening. They not bringing this out.
+
+- **Deacon Eythan:** A lot of these things are very much well known. This book, I got the book. Let me get it back. So give me the video, the guy that goes to the Vatican. You know what I'm talking about: the guy said they sent him to the Vatican to read all the books. There's books in the Bible that's not in the Bible. He's sent to read the books. He had the Maccabees, the Wisdom of Solomon. He's working with like the CIA and all that. I want that video, and I want to play this one also, just to show you guys that these nations know very much who we are.
+
+*[[17:36](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=1056s)]* Oh, let me just preface it with this. So last week, just to recap: last week we touched on the slave trade going on in East Africa. We touched on the Dutch East India Company. We touched on the Dutch West India Company, and how they were heavily involved in the economic prosperity of the European nations, especially America. We touched on how the Israelis were pretty much heavily involved, if not the owners or runners and directors of these India companies. They were behind it, and they were behind the people who are being sold from East Africa as well. Remember these Portuguese, the so-called Portuguese, a lot of them were Israelis, the Portuguese slave traders.
+
+*[[18:34](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=1114s)]* So this, regarding their tongue fall upon themselves, this is an example of it. I'm going to give you two examples of their tongue falling upon themselves, and how and why it's so important for us to learn the knowledge of who we are according to the Bible. I saw a video of an Israelite going back and forth with a podcaster, and the Israelite said to him, "Yo, is it racist if you take an image of Christ and you make him a white man when he was black? If you make him from black to white, is that racist?" The Negro said, "No, it's not racist." He said that they did the same thing with Superman: that Superman was white and then somebody came along and made him black, so it was the same thing. And I'm like, yo, that's a fictional character. Jesus Christ was a man that walked the earth, that lived, that walked this earth. That's the inspiration of billions of people on the earth. That means life and death. We started time with him. And you compare the Messiah of the nation of Israel, that walked the planet, to a fictional comic book character? These are the same ones that throw out words like race hustlers and all that, which pretty much translates to racial idolaters or whatever.
+
+*[[20:05](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=1205s)]* But see, the elites, the elitists of this world, they understand the importance of who we are. They understand the importance of who they have and who they brought over here as slaves and who they enslaved over here. They understand that. That's revealing of the brother, of what he thinks Christ really is. He thinks Christ is a fictional character. He don't really believe in him. He don't believe that he existed, that he came and he did everything the Bible said he did. And he a Christian. Christ is just another fictional comic book superhero to most Christians. Think about that.
+
+**Officer:** The comparison would be equal to someone changing your photo album of your parents, changing your father to a white man. That's the comparison, because Christ is our father.
+
+**Deacon Eythan:** They changed the image of our fathers. Yeah.
+
+*[[21:24](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=1284s)]* **Officer:** Can we get Sirach 41:7, just going with Psalms 64 about how they're going to make their tongues fall upon themselves, like the things we about to bring out now about that white man, the one that came out and said, "Hey, there's more books." You know, we've been talking about it for years, but the Lord is going to make it so that your enemies are going to tell you. Because to be honest, black people, they don't really want to hear from another black person, because of self-hatred. Like, "Oh yeah, I understand what you're saying, but you a nigga like me, so how would you know any better?" So the Lord is going to make it to a point where your enemies are going to tell you themselves.
+
+**[Sirach 41:7](/bible/sirach/41#v7)**  *[[22:27](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=1347s)]*
+
+> <sup>[7](/bible/sirach/41#v7)</sup> The children will complain of an ungodly father, because they shall be reproached for his sake.
+
+- **Officer:** The children here is the ungodly children, the children of Edom, all those different nations. They're going to be reproached for his sake. When all these things come out, they say, "Oh dang, our fathers did that to them. Our fathers lied about the history of the Jews. Our fathers was the ones that came and conquered the Native Americans." That was the Jewish people. So now the children are going to be reproached for the things that their fathers did. You got videos on YouTube of so-called Jewish people coming out and saying, "I just found out I'm not really Jewish."
+
+- **Deacon Eythan:** So again, this is Babylon the Great losing control over information being put out. Over the other nations it's being weakened, and the nations are noticing it. Their own people are noticing it, so now they're becoming more bold.
+
+- **Officer:** That's that whole ban of TikTok, everything coming out.
+
+- **Deacon Eythan:** The ban of TikTok is because they can't control it. They can't control the information that's coming through that avenue, through that media. Because what they're saying is, sell it to an American company. If you sell it to an American company, they're going to filter it, and now they have control of the information that's coming out. Let's go play it now.
+
+<div class="reading">
+
+Reading from a video played on air, *Artifacts in the Vatican*, a man who says he was sent by intelligence into the basement of the Vatican  *[[24:32](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=1472s)]*
+
+> If the Bible isn't a real history book, then why are they hiding ancient artifacts in the Vatican? Watch this video.
+>
+> God taught us a lot of things, and I studied the Bible very, very well for a lot of years, and I went to every religion on earth that I could go to. I've been to China. I've sat with the Buddhists. I've been all over this world. When I was in intel with the government, when they had something that dealt with religion, they sent me. They sent me into the basement of the Vatican with a group of people to look at the lost scrolls.
+
+- Pause. When he says group of people, he's referring to the scholars. It wasn't just him alone. I want you to understand, it wasn't just him alone. Intelligence sent him. Esoteric. When the Bishop had that conversation with that dude, the dude said, "I work for a group of scholars," and more than likely that's the same group of scholars that he was sent from to talk to the Bishop. The same ones that was with this guy here.
+
+- We tried to go to the Vatican. We went to Italy. They told us we need a sponsor. We can read only one page, damn, and it's in Latin, and you have to know exactly what you want to read on that page. You can't browse, none of that. The people that lived there was like, "Good luck, we can't even get in there." The locals told the Bishop, "Hey, if you can get in the Vatican, that'd be great. We've been living here for years, we can't even get in there." So this guy is not no regular dude.
+
+> ...a group of people to look at the lost scrolls. And we brought out, the United States government brought out of the basement, the Maccabees, Esther, the Wisdom of Solomon, many books of the Bible that weren't in the Bible.
+
+- Pause. That be your Esdras, that be your Tobit, that be your First Esdras, that be your Susanna, your Baruch. When he says not in the Bible, he means not in the Protestant Bibles. The Protestant Bibles have only 66 books. The real Bible, the real King James Bible, had 80 books; you include the other 14 that the Protestants removed. Because people say the Catholic Church removed it. No, the Catholic Church has them in their Bibles. The Protestants, who protested the Catholic Church, they protested against those books and had them removed, because they felt they weren't canonical.
+
+- But the disciples had those books in their Bibles. I'll say it again: the Messiah himself and the disciples, they had the Septuagint, the Greek Bible. They had those books in it. Now scholars say that Second Esdras was not, and it came later on. I don't believe it, but nonetheless most of, if not all of, the books of the Apocrypha are found in the Bibles of the disciples. The Messiah was reading Tobit. The Messiah read Ecclesiasticus. He was reading the Wisdom of Solomon. He read these things. They quoted them. Paul was quoting from them. Matthew quoted from them. Christ quoted from them. So when he says not in the Bible, he's referring to not in the Protestant version, or the regular Christian ones, which is 66.
+
+> ...the Wisdom of Solomon, many books of the Bible that weren't in the Bible. And there's many more down there. Many more. The Catholic Church suppressed us like you wouldn't believe. They kept so many things hidden from us. There are books of the Bible that reveal exactly what is happening in this world today.
+
+- Second Esdras recorded it. We know what it is. Because they sat down and they studied it, and they watched our classes, and they put their data together with ours to go, "Okay, we're on point." Or Satan revealed it to them first, and they go, "They know, they're dangerous." It's either one or the other. But they know we know too. More than likely they know what we know, because Satan's their god and Christ is our God.
+
+- That's why the dude asked the Bishop, "How you know where to go?" And he said, "Oh, this book, the lost tribes book. We use the map in it." He asked the Bishop, he said, "This book is a very rare book. How'd you come across it?" How do you know it's a rare book? Because he worked with a group of scholars. They know. He didn't even open the book. He just saw the cover and already knew. "How you get this book?" Damn. Press play. It's happening. Go to the next one. They got information passed down to them from their fathers, but by the spirit it is revealed to us.
+
+</div>
+
+<div class="reading">
+
+Reading from a second video played on air, on Negro Land and the Kingdom of Judah on the ancient maps and the Ashkenazi slavers  *[[29:57](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=1797s)]*
+
+> ...an area that was alongside the Niger River. And if you actually look at ancient maps...
+
+- Now remember, we've gone over this numerous times. If you think I'm crazy and I'm making this stuff up, what he's citing from are from books that we already gone over over the course of the years this show's been airing. The ancient maps, we have them. We use them all the time. Those of you who tune in, we shown you the maps. We showing you the books with the maps in them. But some people need validation from the white man. I call them the cosigning caucus. Caucasian cosigning. You need that.
+
+> ...in 1736, and ancient maps in 1747 of Africa, you'll find a country called Negro Land and the Kingdom of Judah. This is of utmost importance for us to understand how Yahawah is gathering the twelve tribes that are scattered abroad. Because what actually happened is in this Gulf of Guinea in Western Africa, European slave ship holders, they were Ashkenazi slavers.
+
+- European slave traders who were Ashkenazi slavers. These are the so-called Israelis today.
+
+> They were of European origin. They were Western Mongols that had infiltrated Britain and mainly Portugal.
+
+- Pause. They infiltrated Britain and mainly Portugal. And when they got to Portugal, when they migrated from Khazaria into Spain and Portugal, they learned from our schools. They learned from the schools that were in Spain. Come on, y'all. Go back. You're throwing me off with this. Stay focused.
+
+> ...and ancient maps in 1747 of Africa, you'll find a country called Negro Land and the Kingdom of Judah. This is of utmost importance for us to understand how Yahawah is gathering the twelve tribes that are scattered abroad. Because what actually happened is in this Gulf of Guinea in Western Africa, European slave ship holders, they were Ashkenazi slavers. They were of European origin. They were Western Mongols that had infiltrated Britain and mainly Portugal. They were the Ashkenazi slavers. They were wealthy merchant slavers.
+
+- Wealthy merchant slavers is how you got the India companies. These are the guys behind the Dutch West and East India companies. That's them. They infiltrated Britain and gave themselves English names. They infiltrated Portugal and gave themselves Spanish names, or Portuguese names, and became the conquistadors.
+
+- Now, I left something out very important. We mentioned it in brief, but I'll mention it again. When we fled during the Inquisition, some of us Israelites were allowed to come over here, to flee here. And when we fled over here, the converts came over here along with us, and then the conquistadors came after that. And then as they conquered us, then we came over here as slaves, pretty much. Then they enslaved us on this side. I want to make that point clear also. But play on.
+
+> ...down to the coast of Guinea. They employed Mohammedan trappers...
+
+- Islam. They employed the Arabs to enslave us. So remember, the Portuguese and the Arabs were rivals. So in areas where the Portuguese could not get to, the Arabs had access to. So they would pay them to catch slaves and bring them back to them, and ship us off.
+
+> ...to go into the Kingdom of Judah and Negro Land and take the royal house of Judah captive in slave ships, as it's recorded in the book of Deuteronomy, and bring them over to America, and they became known today as what? African Americans.
+
+- Pause. The royal line of Judah, they became African Americans. So the ones that say that it's false, y'all never ever present the right one. Okay, where's the right one then? Because Esau know who the tribes are. This is the second video I've seen where the guy says the royal line of David was brought over here to America in slave ships. Second one.
+
+- Now get me what I want. Oh yeah, Story Time with Satan. Go to *New World Jewry*. I recommended that book last week. You know I'm a man of my word, so I brought it back. Get the cover of the book, and I want you to read the inside of the book.
+
+</div>
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), the cover, the inside jacket and the author's credentials · read by an officer  *[[36:10](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=2170s)]*
+
+> New World Jewry, 1493-1825: Requiem for the Forgotten. Seymour B. Liebman.
+
+- Now as you know, this book is very, very hard to come by in terms of physical. You can get the PDF, but as far as having it in your hand, nah, unless you got that kind of money on you. You got them pockets. Let's get some info on Liebman. Published 1982. It was published 42 years ago. Go to the front, where I took a picture of it, the inside. His credentials. Read that.
+
+> Seymour B. Liebman's twenty years of research in the original Inquisition documents...
+
+- This man had twenty years of research in the Inquisition documents. This guy Liebman here.
+
+> ...in the Vatican archives...
+
+- What is he acknowledging? In the Vatican archives. Where was he allowed to go? Into the Vatican archives. You think we making this stuff up, man? Now, I told the brother take a picture of this today. I didn't even read this, but the spirit just brings it out. In the Vatican archives. He can read more than one page. This guy was no regular dude.
+
+> ...and the National Archives of Spain, Portugal and Latin American nations, resulted in this first full-length book on the Marranos, or secret Jews, of Latin America and the Caribbean islands up to 1825.
+
+- Because you had the Jacob step over here when we were allowed to during the Inquisition, and then you had the converts that came after and enslaved them. And then those same converts came over here with us, with those same Jacob, as slaves after that. It was waves. Because you read in the book by J. Rogers, he mentions the Jamaican Jews, and those Jamaican Jews that were seen back then are the same Benjamites you see today. Those aren't converts.
+
+- So the Jews that came over here to flee the Inquisition was both Jacob and converts. Because remember, the converted to our religion. So it was outlawed over there, but the benefited from following our religion, so they maintained it. To maintain it, they had to flee over here, or denounce it and become inquisitors. And many of them did become inquisitors and conquistadors. And a lot of sellout Negroes did the same thing and became Ladinos. You had a bunch of Negro conquistadors too. Not many, but they were around too.
+
+> This fascinating account explores the social history and religious aspects of the lives of the Jews who lived in Mexico, Peru, Colombia, Brazil and Argentina under the threatening shadow of the Spanish and Portuguese Inquisition.
+
+- Many of the real Israelites fled here, and then you had the converts fled here all along behind them. They eventually became their slave owners over time.
+
+> ...flamboyant leaders, daring exploits, communal relationships, superstitions, sex customs and food habits pursuant to rabbinical injunctions.
+
+- Go down. Go to the other side. There's a picture of him on the other side. I said take a picture of both. Y'all off your game today, man. There's a picture of him on the other side of the book; you open it, it's in the back. Come take the picture and let's go. Y'all, what's going on with y'all today, man? Give me Isaiah 11.
+
+- **Officer:** I find it interesting it said this is the first book he wrote, and I see there's other ones.
+
+- **Deacon Eythan:** He was able to go through the archives, so it's way more than he could fit in his first book. I've seen some of them, but they're all pretty expensive.
+
+- **Officer:** No, I'm saying we can get them and look through it ourselves. Just post that on the group.
+
+> About the author. Seymour B. Liebman, permanent adjunct research scholar at the University of Miami's Institute on Inter-American Affairs...
+
+- That's him right there, Liebman.
+
+> ...is considered one of the leading authorities...
+
+- He's considered one of the leading authorities. An adjunct research scholar. He's a leading authority of research scholarship.
+
+> ...on the history of the Jews in colonial Latin America. He has lectured and taught at American universities as well as those in Mexico, São Paulo, Jews' College London and the Hebrew University in Jerusalem.
+
+- So I want to keep that in mind. This is no regular man here. It's not a regular guy that's writing a book for fun. Now give me Isaiah 11. Because these traders that became wealthy merchants, that the guy mentioned in the video, they were looking for our people in these areas.
+
+</div>
+
+**[Isaiah 11:11-12](/bible/isaiah/11#v11)**  *[[42:03](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=2523s)]*
+
+> <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
+
+- Our people are found in these areas. Assyria will be the area of the Afro-Iraqis, Afro-Iranians, Afro-Syrians, and Afro-Turks in Turkey. That's our people over there in Assyria. And from Egypt: our people are over there. And from Pathros: Pathros will be part of Egypt as well, upper Egypt. Pathros of Sudan. Our people in Sudan who are catching hell, and the slave trade over there is very, very fresh still to this day, still being bombed by the United States. And from Shinar: Afro-Iraqis. And from Hamath: Afro-Syrians. And from the islands of the sea: the Pacific Islands and the Atlantic Ocean islands, the islands all over the world, everywhere.
+
+> <sup>[12](/bible/isaiah/11#v12)</sup> And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
+
+- **Officer:** Real quick, can we get Deuteronomy 33 and the last verse, because it's ironic. This verse is going to show how they thought that because we wouldn't be able to read, they can basically put all of this stuff in their books and their records, and the only people that they going to pass it to is their lineage. It's just very ironic.
+
+**[Deuteronomy 33:29](/bible/deuteronomy/33#v29)**  *[[43:57](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=2637s)]*
+
+> <sup>[29](/bible/deuteronomy/33#v29)</sup> Happy art thou, O Israel: who is like unto thee, O people saved by the Lord, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
+
+- **Officer:** You see that right there? The Bible says that thine enemies shall be found liars unto thee. Our enemies have been lying to us from day one. You got so many doctrines, and black people especially, they always want to follow up on what these people are saying. Oh, Africans sold Africans in slavery. Oh, there was no such thing as slave ships. All of this foolishness we buy into. But the Bible says that our enemies are going to be found liars unto thee. And the Deacon brought it out earlier: their tongues are going to fall on themselves. That's why I said it's ironic, that the white man himself is revealing himself to be the devil that the Bible speaks of. Straight up.
+
+- **Deacon Eythan:** Get page 13 in the book now. I want you guys to see. That guy sent a video; the scholar agrees.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 13, on endogamy, separateness and assimilation · read by an officer  *[[44:45](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=2685s)]*
+
+> Endogamy, marrying within one's group, was practiced by all Jews.
+
+- We stuck to our own race. Even to this day, in our ignorance, a lot of our people, we marry within our own. Primarily, 80% of the time we marry within our own, unless we get a lot of money. We get wealthy, and then you have that Negro that go out and step outside. You know, he want to try something new. But for the most part, the majority, we marry our own.
+
+> In the days of the Inquisition, endogamy was a sine qua non for the secret Jews in Spain, Portugal and their colonies.
+
+- Now, you know what sine qua non means? Let's not just pass it. Let's see what that means.
+
+- **Officer:** An essential condition; a thing that is absolutely necessary. Latin: without which not.
+
+- **Deacon Eythan:** So go back. I'm going to show what this goes to. The reason why I said it is because during the time when you go through persecution, all you have is each other. That's what it means. It was by law, yes, but this is going into the context of them needing each other. Because remember, during the time of civil rights, all we had was each other. That's all we had. So during this time, it says endogamy, sticking to your own race, was a necessity during the Inquisition, during persecution. Even in the future to come, endogamy will be a sine qua non. It'll be of necessity to stick to your own people.
+
+- So we stayed loyal to each other in Spain, loyal to each other in Portugal and their colonies, and wherever else we were, Italy, Britain. We stayed loyal to each other in those areas, because the Inquisition followed us everywhere.
+
+> Marriage to a non-Jew would have disclosed to the spouse the practice of Judaism and thereby risked the report of such practices to a priest during confession.
+
+- Because our people would marry the white woman, the white Christian woman, and she say, "My husband, he's tripping, Judaism," and he get killed, tortured to death. But she good. That's what's going on. That's what it's talking about. That's why it says endogamy was important. Don't marry that Arab woman. Don't marry that white woman. Don't marry that white man. Don't marry that Arab man, because they'll rat you out. Endogamy was of necessity during the Inquisition.
+
+- **Officer:** Just like you said, in the time to come. That's why in Isaiah 13 it talks about how everyone's going to go to their own people.
+
+- **Deacon Eythan:** Get that. Things turn up out here, more so than now.
+
+</div>
+
+**[Isaiah 13:14-15](/bible/isaiah/13#v14)**  *[[48:30](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=2910s)]*
+
+> <sup>[14](/bible/isaiah/13#v14)</sup> And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
+
+- Everybody going to run to themselves. After a while, things get real bad out here, everybody going to know where they are. All that American stuff going to be gone. Done.
+
+> <sup>[15](/bible/isaiah/13#v15)</sup> Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
+
+- That's Edom. That's all I want. Go back to the book now.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 13 continued · read by an officer  *[[48:58](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=2938s)]*
+
+> Jews have maintained their ethnicity by adherence to the tenets of their faith...
+
+- That goes back to what the brother said earlier: the law. So they maintained them staying together, or marrying each other, by law, by adherence to their faith. Marrying within your own. Don't marry nobody else.
+
+> ...separateness, or the maintenance of distinctive mores, is necessary for the survival of any minority group.
+
+- Because when Israel was scattered abroad, we were a small number among the nations. So we stayed to ourselves.
+
+> Emancipation and the assimilation of the culture of the dominant group is the coup de grâce for any minority. We distinguish between assimilation, the abandonment of one's own mores, and acculturation, the adaptation to new cultural patterns.
+
+- So he's saying we distinguish between assimilation, the abandonment... So assimilation is the abandonment of one's own mores, or morals, your own ways. Acculturation, because you know, you learn something new from somebody else, the adaptation to new cultural patterns. You lose your identity. Assimilation is literally the destruction of your culture. That's what it means. We got that in First Maccabees. That's what this is. This is Hellenization, or Romanization with Rome, when you adapt to other nations and learn their ways. Or Islamization too. Get that, First Maccabees 1:41.
+
+</div>
+
+**[1 Maccabees 1:41-43](/bible/1-maccabees/1#v41)**  *[[50:59](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=3059s)]*
+
+> <sup>[41](/bible/1-maccabees/1#v41)</sup> Moreover king Antiochus wrote to his whole kingdom, that all should be one people,
+>
+> <sup>[42](/bible/1-maccabees/1#v42)</sup> And every one should leave his laws: so all the heathen agreed according to the commandment of the king.
+
+- Assimilation.
+
+> <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
+
+- They gave up their faith. So that's what happened in the time of the Greeks. We consented to the religion of the other nations, of the Greeks especially. Go back to the book now.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 13 continued, on consanguinity and messianism · read by an officer  *[[51:41](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=3101s)]*
+
+> Assimilation by a group includes the loss of distinctiveness.
+
+- Read it again. Because when you assimilate, you begin to marry outside your race. He's saying assimilation by a group includes the loss of distinctiveness. When you integrate, you maintain your individuality. Like you have math: you have division, subtraction, multiplication. Integrated mathematics is like different groups of math on one page: addition there, subtraction there. But when you assimilate, it all becomes one. There is no individuality anymore. Now you lose all distinctiveness. You're no longer a Jew anymore. Now we're all Spanish. We're all Portuguese. We're all American. We're all children of Allah. We're all children of God. You lose your distinctiveness. Our faith was based upon separateness. Our laws are based upon separateness. That's why I said during the Inquisition, endogamy was a sine qua non. It was necessary, because you would lose yourself.
+
+> There exists a very real Jewish consanguinity, and yet this consanguinity is not purely physical, not a mere blood relationship...
+
+- Consanguinity is a long word for you being related. Like there's a book that says that the Jews and Moors were consanguineous to each other, with different beliefs. It comes from Latin words meaning shared blood. Because the Jews and Moors are the same people. Looked exactly the same, with different clothes and different customs: one Judaistic and one Islamic.
+
+> ...not a mere blood relationship, which flows from the fact that Jews are an ethnic group, but one that differs from national groups around it by having a religion of its own and being deeply rooted in its religion.
+
+- And the key word is that this says the Jews are an ethnic group, not a religious group. They are a race of people. The Jews are a race of people. It's not a belief. Can I convert to a bloodline? No, you cannot. You can follow the ways of the people, but you can never ever become the people. This is the scholar writing this, by the way.
+
+> Judaism has no dogma except the belief in the unity of God. The belief that the Messiah has not arrived and is yet to come is one of the reasons for its survival. This messianic conviction includes denial of the messiahship of Jesus. Messianism sustained the Jews in their determination to remain within the faith.
+
+- To believe that one day we will be saved. We knew during this time we were not saved. Negroes, they say, "I'm saved by Jesus, I'm delivered." Our people knew during this time, in these lands we were scattered in, we were not saved. We were still waiting on the Messiah. That belief kept us in our right mind. We knew this was not our rest. We had some level of common sense. We were not home. We were in Spain, Portugal; we wasn't home. We knew it. We needed a Messiah.
+
+> Lacking such conviction, they would have apostatized.
+
+- They would go and become followers of Christianity. They would join the cult of Christianity if they lost that faith. Jump down.
+
+> The Spanish Jew was loyal to the language and culture of his native land even after his expulsion. He also remained true to his faith. ... wrote, "The Jews expelled from their fatherland, that is Spain, in 1492, felt themselves as Spanish as the Christians."
+
+- Because they spoke the language, Spanish.
+
+> This love of the fatherland was part of the heritage that they bequeathed to their children and grandchildren.
+
+- We spent centuries in Spain, and we passed it on, and we called it our fatherland.
+
+> Spanish or Portuguese was more the mother tongue than Hebrew.
+
+- We began to lose Hebrew. After a while we start speaking Spanish and Portuguese.
+
+> Their vernacular, Ladino, was almost 90% pure Castilian.
+
+- Ladino, keep that in mind, because Ladino goes back to the word Latino. The same thing. Pure Spanish. Now jump to page 40 regarding Ladino. The Jews spoke Ladino, which is like a mixture of Spanish and Portuguese blended with Hebrew. Let's see what Ladino means here.
+
+</div>
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 40, on the Ladino slaves · read by an officer  *[[57:12](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=3432s)]*
+
+> Although the Jews maintained their religious observances secretly, it is clear that many of their Christian neighbors were aware of the religious identity of the secret Jews.
+
+- Because during the Inquisition, following Judaism became illegal. It was outlawed. Both heathen and Jacob alike, sellouts and heathens alike, knew about the Jews keeping Judaism secretly.
+
+> Yet few Christians appear in the list of witnesses in the trials of the Jews.
+
+- Because some of the Christians of our people, they believed what the other Jews believed, in the Messiah and keeping the commandments. They believed it, so they kept quiet too.
+
+> Those who do appear are an occasional slave or commercial competitor. Many slaves are referred to as Ladino. In this context, Ladino: a Negro slave who could speak Spanish understandably.
+
+- Wait a minute, wait a minute, wait a minute. So we read earlier that the Jews of Spain and Portugal spoke Ladino, and their vernacular was pure Castilian. Now we reading here that many slaves are referred to as Ladino. In this context, Ladino means a Negro slave who could speak Spanish understandably. Why? Because this Negro slave here was the Jews that was shipped over here from Spain and Portugal, whom the Portuguese called Negroes. You understand? So the Spanish-speaking Jews spoke Ladino, because that's what they were called, and the Negro slaves were called Ladino because it's the same people. That's what he's saying in this book here. I read this book cover to cover, and that's exactly what he's saying. There's no "oh, maybe something written somewhere else." Nope. That's what he's saying. The Negro slave could speak Spanish understandably because he was a Jew that spoke Spanish.
+
+- Now, what page is that? 40. Go back to page 16. You can't make this up, bro. You cannot make it up. Remember, this guy did studies in the Inquisition of Spain and Portugal, Mexico, Brazil. He knows. He had the records. The Jews are described by their features and all that in the books. We've read them.
+
+</div>
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 16, on messianism · read by an officer  *[[1:00:12](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=3612s)]*
+
+> Messianism is primarily the religious belief in the coming of a redeemer who will end the present order of things, either universally or for a single group, and who will institute a new order of justice and happiness.
+
+- Read it again. Messianism is primarily the religious belief in what? In the coming of a redeemer, who will end the present order of things. He was going to come and destroy the kingdoms on the earth. Either universally, or for a single group. So he's going to establish order either universally, which he will, and for a single group. Who's that? That's us. That's right, the Israelites. The scholars know what Christ is coming to do, and who he's going to come and do it for. Some of y'all like, I don't care what Christ says, what does the Talmud say? Give me Daniel 7.
+
+</div>
+
+**[Daniel 7:14](/bible/daniel/7#v14)**  *[[1:01:56](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=3716s)]*
+
+> <sup>[14](/bible/daniel/7#v14)</sup> And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
+
+- Given him what? Dominion. To have dominion means you have to have someone to dominate. To have dominion means you have to have power or dominance over something or someone. That's what dominion means. And a kingdom: to be a king, you must have subjects. Jump to verse 18. The saints. Go get Psalms 148; see what the saints are. Some of y'all might be Catholic on here, thinking the saints is other nations. I assure you it's not them.
+
+**[Psalms 148:14](/bible/psalms/148#v14)**  *[[1:02:57](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=3777s)]*
+
+> <sup>[14](/bible/psalms/148#v14)</sup> He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.
+
+- So the saints are the children of Israel. When you read Paul's letters, and Paul is saying to the saints at Rome, to the saints at Colosse, to the saints at Philippi, he's writing to his own people in all the letters. The Galatians, those are the saints of Galatia. Those are Israelites. All the saints in the Old Testament and New Testament are Israelites. If we're wrong, show us anywhere in the Bible where God refers to heathens by name as his saints too. Just give us one. Name one where he calls Moab a saint, or Ammon a saint, or Ishmael a saint, or Edom a saint, or Canaan a saint, or Elam a saint. Just give us one scriptural reference where he names a nation by name as his saints. One, by name. I bet $1,000 you can't find one. Jump to Daniel 7:18 again.
+
+**[Daniel 7:18,21-22,26-27](/bible/daniel/7#v18)**  *[[1:04:13](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=3853s)]*
+
+> <sup>[18](/bible/daniel/7#v18)</sup> But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
+
+- We will take the kingdom. Gods don't ask, they take. Verse 21.
+
+> <sup>[21](/bible/daniel/7#v21)</sup> I beheld, and the same horn made war with the saints, and prevailed against them;
+>
+> <sup>[22](/bible/daniel/7#v22)</sup> Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
+
+- The same horn is referring to the white man, the so-called white man. The horn made war with the saints and prevailed against them. And they conquered us and destroyed us. Until what? The Ancient of Days came. Judgment. To have judgment means to gain power, power to judge. Judgment was what was given to the saints of the Most High. And the time came. We're not at that time yet. The time is coming soon. This is called messianism, what we're reading about.
+
+> <sup>[26](/bible/daniel/7#v26)</sup> But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end.
+
+- His dominion goes back to when it says he will end the present order of things, in this book over here. He will end the present order of things. It says here he will take away his dominion, that horn that overthrew us. That's the so-called white man and all the other nations, but the horn here in context is the white man. To consume and to destroy it unto the end: what Christ come to do. Christ is going to do that. It goes back to him ending the present order of things.
+
+> <sup>[27](/bible/daniel/7#v27)</sup> And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
+
+- Under the whole heaven: all around the earth, all over the earth. He's going to give the kingdom to us. But he gets first dibs, we get the reserves. The nations to conquer. And all dominions: all dominions, all nations' rulers, my Bible has here. Shall serve and obey him. And that him transfers to them. Look, he's the King of kings, Lord of lords. They will serve and obey him, and then us, because by serving us they are serving him. Go back to the book now. You don't understand what's happening.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 16 continued · read by an officer  *[[1:06:50](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=4010s)]*
+
+> If it were not for the belief in the coming of the Messiah who will release Jews from oppression throughout the world...
+
+- Damn. Read it again. No, he will release all nations from oppression throughout the world.
+
+> ...who will release Jews from oppression throughout the world, and inaugurate a reign of peace for all mankind...
+
+- Under the Israelites he will inaugurate. That's our inauguration. Christ is our president. When Christ returns, that's our inauguration day. I'll say it again: when the Lord returns, that will be our inauguration day. Everyone can vote then. Not vote now, when America's in flames; now go in the ballot box and vote. And inaugurate a reign of peace for all mankind, because under Israel, under us, ruling the planet. Get Isaiah 2 real quick. We going to take a break after I finish reading this page. Isaiah 2, peace for mankind. There'll be peace.
+
+</div>
+
+**[Isaiah 2:3-5](/bible/isaiah/2#v3)**  *[[1:08:15](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=4095s)]*
+
+> <sup>[3](/bible/isaiah/2#v3)</sup> And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
+
+- The many people here is referring to Israel, referring to the Israelites. Many people refers to both the Southern Kingdom and the Northern Kingdom. He will teach us, the many people, his ways. Watch, I'm going to prove it. For out of Zion shall go forth the law, and the word of the Lord from Jerusalem. The laws of God will go out. That goes back to where it says a reign of peace.
+
+> <sup>[4](/bible/isaiah/2#v4)</sup> And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
+
+- The he is that same he in Daniel 7. And he shall judge among the nations. From weapons to work tools. Nation shall not lift up sword against nation: no more war. That means peace on earth. Neither shall they learn war anymore. That goes back to what? Peace on earth for all mankind.
+
+> <sup>[5](/bible/isaiah/2#v5)</sup> O house of Jacob, come ye, and let us walk in the light of the Lord.
+
+- O house of Jacob: all twelve tribes. Come ye goes back to verse 3, where it says many people shall come and say, Let us come to the mountain of the Lord. Let us, the many people of Israel, walk in the light of the Lord. And when we do that, all nations will be subject to us under our King. There'll be peace on earth, for us and everybody else under us. Because remember I said earlier in Daniel 7, dominion was given unto them. Micah 4 says it again. Micah repeats what Isaiah says.
+
+**[Micah 4:3-5](/bible/micah/4#v3)**  *[[1:10:25](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=4225s)]*
+
+> <sup>[3](/bible/micah/4#v3)</sup> And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.
+
+- The same he again, the Lord.
+
+> <sup>[4](/bible/micah/4#v4)</sup> But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the Lord of hosts hath spoken it.
+
+- He's going to be at peace.
+
+> <sup>[5](/bible/micah/4#v5)</sup> For all people will walk every one in the name of his god, and we will walk in the name of the Lord our God for ever and ever.
+
+- His god is us, and they're going to walk in the name of us. That be the god they walk in the name of. Won't that be our names at that time? Lord's will. But they're going to walk in the name of that god that's teaching them. So we're going to follow our King that's going to teach us, and the nations going to follow us, and we're going to teach them. Hierarchy. Democracy is BS. Hierarchy. Now go back to the book.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 16 continued · read by an officer  *[[1:11:45](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=4305s)]*
+
+> If it were not for the belief in the coming of the Messiah who will release Jews from oppression throughout the world and inaugurate a reign of peace for all mankind, Jews long ago would have abandoned Judaism.
+
+- So a lot of our people who reject the Messiah, they believe they're here forever. That's what this book is saying. If you denounce or reject messianism, or the Messiah of the Bible, you believe you're here forever. A lot of Israelites, a lot of them believe we're here forever. They don't believe in the Messiah. Old Testament Israelites believe that this is our home. We're here forever. We're not going nowhere. America's going to be here forever.
+
+> As a concomitant of this hope for surcease from persecution...
+
+- Go back. As a concomitant of this hope for surcease from persecution, Jews denied the messiahship of Jesus. Because during persecution we start to reject the Lord. Matthew 24 says he delayeth his coming. We start catching such hell in Spain and Portugal, we start to denounce him. It's going to happen again. That trial. Read Matthew 24:21, then jump.
+
+</div>
+
+**[Matthew 24:21,44-48](/bible/matthew/24#v21)**  *[[1:13:59](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=4439s)]*
+
+> <sup>[21](/bible/matthew/24#v21)</sup> For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
+
+- That's going to be in this time. Now jump to verse 44.
+
+> <sup>[44](/bible/matthew/24#v44)</sup> Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
+
+- Be ready means believe. You're going to eventually believe that the Messiah is not coming. You're going to deny messianism. You're going to deny it. It's going to get real bad.
+
+> <sup>[45](/bible/matthew/24#v45)</sup> Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?
+
+- So we asked the question, who then is a faithful and wise servant? Ruler over his household: go back to Daniel 7. He gave power to his saints. To give the meat in due season: to give them the kingdom in due season.
+
+> <sup>[46](/bible/matthew/24#v46)</sup> Blessed is that servant, whom his lord when he cometh shall find so doing.
+>
+> <sup>[47](/bible/matthew/24#v47)</sup> Verily I say unto you, That he shall make him ruler over all his goods.
+
+- Ruler over all his goods. His goods are the nations and the planet. That's his goods.
+
+> <sup>[48](/bible/matthew/24#v48)</sup> But and if that evil servant shall say in his heart, My lord delayeth his coming;
+
+- Right there. My lord delayeth his coming. So during persecution, if he don't find you loyal to his works, you're going to say, "Oh, the Lord ain't coming. We're going to be here forever." That's what happened. So read what you got there again.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 16 continued · read by an officer  *[[1:15:46](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=4546s)]*
+
+> As a concomitant of this hope for surcease from persecution, Jews denied the messiahship of Jesus.
+
+- So to try to find some kind of calm in persecution, they said, "You know one thing? He ain't coming."
+
+> They saw throughout the civilized world, some seventeen centuries after his demise...
+
+- He died.
+
+> ...that peace had not come...
+
+- Remember, they thought that when Christ came he would bring an immediate kingdom. No, not yet.
+
+> ...that his disciples were warring against each other, and that man's inhumanity to man was still prevalent.
+
+- When it says disciples, it means Christianity. Christianity came along; they start fighting, having holy wars, crusades, all that nonsense. His real disciples, they were dead and gone, but the pagan version of his disciples were warring with each other.
+
+> Catholicism did not seem to be aware that Jews viewed this situation as an anomaly in the Catholic position. Although Catholicism preached that the Mosaic laws had been fulfilled and completed by the crucifixion and the resurrection...
+
+- Stop. So the Catholic Church was responsible for pushing the doctrine that when Christ died, the Mosaic laws are done away with. No more laws. When Christ died and resurrected, there was no more Mosaic law. That's a Catholic doctrine. That's what he's saying here.
+
+> Although Catholicism preached that the Mosaic laws had been fulfilled and completed by the crucifixion and the resurrection, Jewry continued the practice of the old laws, because they were convinced that the Messiah as foretold in the prophetic writings had not come.
+
+- Read it again; I'm misreading it. The Catholic Church believed that the laws of Moses have been fulfilled and completed when he showed up. Jewry continued the practice of the old laws. They maintained that. Why? Because they were convinced that the Messiah as foretold in the prophetic writings had not come. So what's happening here is the Jews right here pretty much did not believe in the Messiah, so they maintained the Old Law. The Catholics taught the laws are done away with. The Jews, our people, some of them who are only Judaic, Mosaic, they maintained it. They didn't believe in that doctrine, in the Messiah at all. So they were Old Testament. They were Old Testament Israelites.
+
+> Both faiths believed in the prophetic writings, but Catholic theologians chose to show by exegesis and mistranslation of selected passages from the prophets that Jesus was the one foretold, and could not be separated from the condition that would prevail if and when he came.
+
+- Selected passages. Get like John 3:16, Galatians 2:16. So the Jews believed the Catholics were twisting scripture, to say that Jesus Christ was the Messiah the Bible refers to. These Israelites didn't believe it. These Jews didn't believe it. That's what it's saying there. More so they rejected Christ being in the book of Daniel. They didn't believe that Jesus Christ himself was in fact the Messiah of the Old Testament. That's what they're saying here. So they caught hell for that.
+
+- So we're going to land right there. We'll be right back. We got some more for y'all. We'll be back in about five minutes, so stay tuned. You can also text us, or Zoom call in, regarding questions for the topic. See y'all then.
+
+</div>
+
+*[[1:26:01](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=5161s)]* We're back, we're back from the break. Just reading the comments over here. Got a few scoffers and scorners on there, but it's okay. We see y'all. You're stupid, and we're trying to help you. So we got a text. Zoom in.
+
+**Text:** Deacon, Most High, Christ bless you. My mind is blown yet again, all the way in Cali. So I'm safe to say the book you're reading further agrees with the article: Ladinos are the people of Nigeria, therefore the history of us being of Gad is big facts. All praise the Most High. Keep bringing these facts out, Deacon and officers. Thank you.
+
+**Deacon Eythan:** Gad is in there. Yeah, they're in there. I'll give you that one. I never heard of Ladinos being called that in Africa before, but okay. I don't know about the Gad thing. They're in there, but anyways, they Hebrews. That's fine.
+
+*[[1:26:53](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=5213s)]* Give me Acts 1. Give me "your ways unequal" real quick, Ezekiel. You oftentimes hear Jacob say things like, well, why would Christ come and just take care of it all at once? One of the things about people, a lot of us come out of Christianity, and Christianity gives us a false idea of what God is like. So I'm going to give you the raw understanding of what God is like. God pretty much does what he wants to do. He don't really got to answer to anybody. Let's say he's an author. He writes a play, he writes a story, and he has a protagonist, he has the antagonist, he has the big bad, the big boss, the minions, the sub-boss, and you have the heroes. Like when you watch these movies, usually the movie ends with the good guy beating the bad guy. But in between all of that there's a rise, a fall, a redemption story, where the good guy falls, then he builds himself up and gets strong to beat the bad guy. The bad guy is powerful, mighty, seems unstoppable, seems unbeatable. Then the good guy manages, on himself or with teamwork, and he wins the battle. That's how God is. God wrote a certain story out to play out the way he wants it to play out, and we're all actors in this story. We're all pawns in this game. There's no questioning that. You just do. There is no "oh, but why." No. It's like when your parents tell you do something and you say "but why," you get popped in your mouth. There's no but why. What's the parents' answer to everything? "Because I said so." That's God. Y'all want God to explain something to you? Your parents ain't explain to you why.
+
+**[Ezekiel 18:25](/bible/ezekiel/18#v25)**  *[[1:29:01](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=5341s)]*
+
+> <sup>[25](/bible/ezekiel/18#v25)</sup> Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?
+
+- "I need answers, I need to know why." No, you don't. Just do what he says, or die. Do or die. That's it. Once you live and keep the commandments of God, you figure out in the end why. There you go.
+
+- The way of the Lord is not equal: that isn't fair, that's not right. Why don't you just take care of it all at once? Now, I'll give some leeway to that, because Ezra said the same thing. Ezra asked the same question: why not just do it all at once? No, that's not how I operate.
+
+- Ye say God is not fair in how he operates. Hear now, O house of Israel: my ways are fair. Are not your ways unequal? Your ways are unequal. Y'all complain about the community being all messed up. "Yeah, man, the community is bad out here. Women out here sleeping around." Meanwhile you sleeping around with the same hoes you complain about. "Oh man, we lost." But you celebrating Christmas and birthdays and New Year's. You celebrating things you don't understand. "I don't understand why God won't do this." But celebrate customs that you don't understand where it came from? You celebrating birthdays, don't know where it came from. You celebrating New Year, don't know where it came from. You celebrating Christmas, don't know where it came from. But God needs to explain something to you. The white man ain't got to explain nothing to you. You celebrate Thanksgiving, you don't ask him why. You don't ask about New Year, you don't ask him why. But God need to explain something to you. Man, be quiet. Just be quiet and take notes.
+
+- Get Ezra now. Second Esdras 4:34. So Ezra asked a similar question, because Ezra had a care for his people, and he understood that our condition was by divine design. So he had a sincere, earnest wanting to know as to why these things are happening, and how long it would take, and why can't God just knock it out one time. But God has things laid out a certain way, where he wants it to play out the way he wants it to play out, and all you can do is play it out. You either going to be the protagonist or the antagonist. It's up to you. Or you going to be an extra. What do they call them? NPC. That be you.
+
+**[2 Esdras 4:34-35,45-48](/bible/2-esdras/4#v34)**  *[[1:31:30](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=5490s)]*
+
+> <sup>[34](/bible/2-esdras/4#v34)</sup> And he answered me, saying, Do not thou hasten above the most Highest: for thy haste is in vain to be above him, for thou hast much exceeded.
+
+- Your haste: you want God to do things fast. That thought is in vain. It make no sense. Thou hast much exceeded: you going too far.
+
+> <sup>[35](/bible/2-esdras/4#v35)</sup> Did not the souls also of the righteous ask question of these things in their chambers, saying, How long shall I hope on this fashion? when cometh the fruit of the floor of our reward?
+
+- So our people, the righteous who died, in the heavens ask God the same thing. "Yo, Lord, how long? How long, Lord?" They up there asking the Lord himself how long. When cometh the fruit of the floor of our reward: when do we get the kingdom you promised us? Now jump over to verse 45.
+
+> <sup>[45](/bible/2-esdras/4#v45)</sup> Shew me then whether there be more to come than is past, or more past than is to come.
+>
+> <sup>[46](/bible/2-esdras/4#v46)</sup> What is past I know, but what is for to come I know not.
+
+- What is past, I know. I understand. But the future I don't understand. What is to come in the future, I don't know. I know the past already, but what about the future? Ezra say.
+
+> <sup>[47](/bible/2-esdras/4#v47)</sup> And he said unto me, Stand up upon the right side, and I shall expound the similitude unto thee.
+>
+> <sup>[48](/bible/2-esdras/4#v48)</sup> So I stood, and saw, and, behold, an hot burning oven passed by before me: and it happened that when the flame was gone by I looked, and, behold, the smoke remained still.
+
+- I'm going to explain to you in the similitude. No, not that. The ring: he mentions the ring. That's good too, but this I want more. Second Esdras 5:40.
+
+**[2 Esdras 5:40-49](/bible/2-esdras/5#v40)**  *[[1:33:28](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=5608s)]*
+
+> <sup>[40](/bible/2-esdras/5#v40)</sup> Then said he unto me, Like as thou canst do none of these things that I have spoken of, even so canst thou not find out my judgment, or in the end the love that I have promised unto my people.
+
+- You can't understand in full my judgment.
+
+> <sup>[41](/bible/2-esdras/5#v41)</sup> And I said, Behold, O Lord, yet art thou nigh unto them that be reserved till the end: and what shall they do that have been before me, or we that be now, or they that shall come after us?
+
+- You know what's going to be reserved in the future.
+
+> <sup>[42](/bible/2-esdras/5#v42)</sup> And he said unto me, I will liken my judgment unto a ring: like as there is no slackness of the last, even so there is no swiftness of the first.
+
+- I will compare my judgment to a ring, because a ring is the same way, a circle. It's a cycle. It happens over and over again. We read earlier today about the persecution that happened to our people during this time in the Dark Ages. It's going to happen to us in this time. Like as there is no slackness of the last, even so there is no swiftness of the first: meaning it's the exact same way in different time frames. Nothing new under the sun.
+
+> <sup>[43](/bible/2-esdras/5#v43)</sup> So I answered and said, Couldest thou not make those that have been made, and be now, and that are for to come, at once; that thou mightest shew thy judgment the sooner?
+
+- So Ezra answered and said what regarding this cycle? You can't make it faster? You can't do this quicker? Get us out of here sooner. Just come do it now.
+
+> <sup>[44](/bible/2-esdras/5#v44)</sup> Then answered he me, and said, The creature may not haste above the maker; neither may the world hold them at once that shall be created therein.
+
+- The creature: you are the creation. You can't tell me what to do. I made you; you didn't make me. You can't haste me. "Hey God, hurry up, do it now." He's saying don't do that. That's what y'all Negroes be doing on here. You don't tell the white man hurry up. You don't tell the white man, "Hurry up, white man." You don't do him like that.
+
+- Neither may the world hold them at once that shall be created therein. There's prophets, there's certain people the Most High is going to set on this earth to set things in motion to bring forth his end. Everything has to play out the way he wants it to, the way it's been pre-written. Understand what we read earlier in Daniel 7: it happened already. This is going to be over your head; I'm going to help you a little bit more. What we read in Daniel happened already. We're just playing catch-up. That's what y'all don't understand. You say, "Oh man, he taking forever." No, it already happened. We're just catching up to it. This place already got destroyed. We're just playing catch-up.
+
+- When you read in Ezra, as a matter of fact Moses, Ezra already saw the end. He saw Christ show up here. The prophets saw Christ. The nuclear bombs are made. They saw America on fire. They saw Israel, the land, parts of it got destroyed. The prophets already saw the end. They saw those who were saved. They saw America destroyed. All that was already seen. It was foreseen. Prophecy means to speak before: you speak on things that have yet to take place, but will take place regardless. So we're living out what the prophets have already saw before. Let me say it again: we're catching up to what the prophets already saw. We didn't see America on fire yet. The prophets saw America on fire. We're catching up to what they already saw. So we're living out what Moses saw. We're living out what Isaiah saw. We're living out what Jeremiah saw. We're living out what Christ said. We're catching up to that. So you people talk, "Oh man, he sure is taking long." Nah, your brain is taking long.
+
+- For example, Moses seen us going on slave ships, and we caught up to it. Moses is crazy, right? Then we on ships in the bottom of the ship, crammed together like this for a year and change. Damn, he was right. Scattered among all nations. Now we in Spain, crying, "Let me get over here in Spain." We playing catch-up. Read on.
+
+> <sup>[45](/bible/2-esdras/5#v45)</sup> And I said, As thou hast said unto thy servant, that thou, which givest life to all, hast given life at once to the creature that thou hast created, and the creature bare it: even so it might now also bear them that now be present at once.
+
+- He say, why don't you make them all at one time? Why it got to be a cycle, like the ring? Just make them all at once. You could do it. The earth can bear it. Just make them all at once so we can get out of this. Because he was tired of being in captivity. He was mad. So he's saying what y'all be saying. So I'm kind of being generous here by explaining it. He's saying, "Listen, make it all happen at one time. The earth can bear it." Watch what he says here.
+
+> <sup>[46](/bible/2-esdras/5#v46)</sup> And he said unto me, Ask the womb of a woman, and say unto her, If thou bringest forth children, why dost thou it not together, but one after another? pray her therefore to bring forth ten children at once.
+
+- He says ask the womb of a woman. When a woman has more than one child in her womb, why can't she shoot two at the same time? Why one at a time? Because that's how God works. God says it's a cycle. It takes time. If she has triplets in her womb, she can't shoot all three at one time. All three heads come out at the same time, that thing would tear in half. It got to be one at a time. One at a time, a cycle. Pray her to push out ten children at one time, at the same time.
+
+> <sup>[47](/bible/2-esdras/5#v47)</sup> And I said, She cannot: but must do it by distance of time.
+
+- She can't. Because she has contractions. She push, that baby come out, and she got to push again, baby come out, push again. It's a cycle. Contractions.
+
+> <sup>[48](/bible/2-esdras/5#v48)</sup> Then said he unto me, Even so have I given the womb of the earth to those that be sown in it in their times.
+
+- Same thing. Things come in their own time, how I have it. One by one.
+
+> <sup>[49](/bible/2-esdras/5#v49)</sup> For like as a young child may not bring forth the things that belong to the aged, even so have I disposed the world which I created.
+
+- Because what he's saying is that the world is not ready for certain men to arrive at certain times. That's what he's saying. Things have to play out the way I have it designed to play out, not according to what you want it to be. Now give me Acts 1:6. We did think that he was going to come and do things right away, but no, he was not.
+
+**[Acts 1:6-7](/bible/acts/1#v6)**  *[[1:40:15](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6015s)]*
+
+> <sup>[6](/bible/acts/1#v6)</sup> When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?
+
+- Will you at this time restore again the kingdom to Israel? Give us the kingdom now.
+
+> <sup>[7](/bible/acts/1#v7)</sup> And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
+
+- He said, I don't even know. My Father knows. I don't know when I'll be allowed to return here. After a certain number are sealed, I'll be able to return, but the day itself I don't know. So again, what we're establishing is that we're just simply playing this out. So take it how you want it.
+
+- Ecclesiastes 8:3. I'm going to go back to the book. My favorite scripture. Why come the Lord God make things take so long? But don't ask the white man. Don't ask why you celebrate birthdays. Don't ask why you celebrate Halloween. Don't ask why you celebrate Thanksgiving. Don't ask why you celebrate Christmas. But you got questions for God, though.
+
+**[Ecclesiastes 8:3](/bible/ecclesiastes/8#v3)**  *[[1:41:47](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6107s)]*
+
+> <sup>[3](/bible/ecclesiastes/8#v3)</sup> Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.
+
+- Stand not in an evil thing: don't do evil things. He doeth whatsoever pleaseth him. God does whatever he wants to do. That's what a God does.
+
+- For example, let's put it in a carnal example. Let's say you in the presence of a man that was a gang member, a mob boss, and this mob boss got ties to everything: government officials, police. He got bodies. He done put people to death, had people disappear. And you know him personally; you're really good friends. You know he has ties to the government, ties to the banks, connections everywhere. He can have someone disappear and nobody would know it. He wouldn't face a single day in jail. Would you challenge that man? Would you question him and tell him what he can and can't do? No one. He has that much power. That's how God is. You know if you question this dude and you piss him off enough, he'll take you out. Well, that's how God is. Psalm 115.
+
+**[Psalms 115:2-3](/bible/psalms/115#v2)**  *[[1:43:02](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6182s)]*
+
+> <sup>[2](/bible/psalms/115#v2)</sup> Wherefore should the heathen say, Where is now their God?
+
+- The nations say what? Where their God at? We got them in slavery, got them in ghettos and slums. Where that God at?
+
+> <sup>[3](/bible/psalms/115#v3)</sup> But our God is in the heavens: he hath done whatsoever he hath pleased.
+
+- Our God exists. He does whatever he wants to do, man. That was terrible; read it again. He's been messing up the whole day. Come on, man. He does whatever the hell he wants to do. God does whatever he want. You got to respect the G. You got to respect him. It is what it is. He wants to wait for something to show up, he going to wait.
+
+- Oh, that sounds good to you, Christmas, but you can't explain it, though. Your birthday sounds good too. Can you explain why you do it? Can you explain why you blow candles out of a cake and make a wish? Why you wear them stupid, stupid hats? Can you explain that? Why you wear wedding rings? Can you explain that? Where the ring finger come from? Can you explain that? White man tell you do something, you don't ask no questions, you just do it. But God tell you do something, you got questions.
+
+- **Officer:** Can we get another one, Deacon? One more. Romans 9.
+
+- **Deacon Eythan:** Oh yeah, I was thinking about that. That was my first thought, and I forgot about it. Romans 9. And make sure you're not late to work tomorrow. The white man tell you get there on time; ask him why. "Why I got to be on time, boss?"
+
+- **Officer:** And ask him why he giving you a check on Monday instead of Friday. "Why can't I get it sooner? I need it now."
+
+**[Romans 9:18-21](/bible/romans/9#v18)**  *[[1:44:59](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6299s)]*
+
+> <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
+>
+> <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
+
+- Who can resist his will? Because everyone's following this program. You can't resist his will.
+
+> <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
+
+- Who you to question God on what he does, how long it takes him to do it, or why he ain't do it sooner? Shall the thing formed say to him that formed it, Why hast thou made me thus? That's what the trannies be sounding like: "I'm a man, call me ma'am." That's how y'all sound on the comment board here. "Why are you gay?"
+
+> <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
+
+- Make one righteous, and another unto dishonour: make one the villain. So you don't question God; he question you. I'm not God, but I'm going to say I question you too. That's why Isaiah said, let man strive with man, and not with his maker. Let the homos be homo; that's his business. But God do his business, and you asking him questions? Ask that over there why he wear a dress. Ask that girl why she taking hormone pills, sounding like a dude. Ask her that, then ask our questions. Some of y'all be way out of your damn league. Some of y'all be way out of pocket sometimes with the Lord. Isaiah 45:9.
+
+**[Isaiah 45:9-10](/bible/isaiah/45#v9)**  *[[1:47:13](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6433s)]*
+
+> <sup>[9](/bible/isaiah/45#v9)</sup> Woe unto him that striveth with his Maker! Let the potsherd strive with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?
+
+- Woe unto him that strives with his maker. Let the potsherd strive with the potsherds: let you go argue with a man. Go argue with people. That's where Paul is quoting from.
+
+> <sup>[10](/bible/isaiah/45#v10)</sup> Woe unto him that saith unto his father, What begettest thou? or to the woman, What hast thou brought forth?
+
+- "I think I'm a woman." That's what you say. Or to the woman, What hast thou brought forth? "I'm a man." It's the same thing. Don't question the Lord, man. Just follow the program, or die. Now let's go back to the book. You can't make this stuff up. Anyway, let's go back, man. I'm sorry. Take me into that realm of anger. Where we have pages at? 17.
+
+- So what we just read so far was the Israelites that fled to Spain and Portugal that did not believe in the Messiah. They caught hell. And the Catholics believed in the Messiah. So they both believed in the Bible, but of course the Jews felt that the Catholics were twisting scripture, saying that Jesus was the Messiah the Bible referred to, when the Jews at this time, not all of them, but these Jews particularly, did not believe that Christ was the Messiah at this time, and caught hell by the Spaniards, by the church. So now get page 19.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 19 and the pages after, on the Portuguese Jews, the decrees and the Dominicans · read by an officer  *[[1:48:58](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6538s)]*
+
+> Portuguese Jews often served as sailors on the ships that smuggled Jews into the New World.
+>
+> As early as 1493 and as late as 1802, Spain issued decrees barring Jews and Moors from the Spanish colonies.
+
+- See that? So it says they start to ban Jews and Moors from fleeing to Spanish colonies. Read it again. Checking us out. The highlighted part.
+
+> Jews were present in the West Indies and undoubtedly aided the English and the Dutch in the capture of these islands from Spain.
+
+- These Jews is in reference to both the black ones as well as the convert ones. That's in J. Rogers' book. He mentions the Jews being black in Jamaica and so forth, but also converts that eventually enslaved us over there when they gained power.
+
+- Go to the next page. Go back, you skipped one. Go forward, go forward twice. Right there, stop. Read that. This is for all you Latinos out there. Dominicans. Not him, he's Simeon. But you Dominicans out there that love your Spaniard culture.
+
+> When the Dominican order came into being, its monks became the militia of the church.
+
+- The Dominican order is the order of St. Dominic. Watch this. They became the militia of the church. They were the ones that were killing. And they had Americans over there in Santo Domingo, and converted them into Dominicans. That's what they did. Jump down here.
+
+> Ferdinand and Isabella regarded Jews as a discordant element in their kingdom.
+
+- They said that we caused discord based upon our culture. We sowed discord in their kingdoms. Discordant.
+
+> They sought a homogeneous population, and homogeneity included religion and culture.
+
+- They sought a homogeneous population, meaning all be one. All become the same. Not you be Jew and I'm Christian, but all one. Go back to First Maccabees 1 again. Including religion and culture.
+
+> To achieve their aims they sought the establishment of the Holy Office of the Inquisition.
+
+- Or the church militia.
+
+> Kenneth Moore writes that the Inquisition was an institution of cultural purity which acted to eliminate all and any foreign element, anything which was deemed non-Spanish and non-Christian. Emphasis in the original.
+
+- That's going to happen in this time too. Non-American.
+
+> The Holy Office in Spain was independent of the Spanish Church. It had its own officials...
+
+- They were a separate entity, like their own military. A separate entity.
+
+> It had its own officials, the chief of whom was the Inquisitor General.
+
+- This guy was the worst. Jump down to the original purpose.
+
+> The original purpose was to spy on converted Jews and Moors who pretended to accept Christianity but secretly were maintaining their customs...
+
+- On the low. To spy on Jews and Moors, who are the same people, by the way.
+
+> ...who might have relapsed to their original faith. It ultimately evolved into a thought police court...
+
+- Wow. It evolved into a thought police. So if you thinking something outside of Christianity, they were on your behind, to kill and torture you and burn you at the stake.
+
+> ...from which no Spaniard was secure. Through its self-made rules...
+
+- They made up their own rules that they went along with.
+
+> ...the Suprema declared its right to consider as a heretic anyone who expressed doubt about the virginity of the Holy Mother...
+
+- Stop, stop, stop, stop right there. They passed rules for anyone who expressed doubt about the virginity of the holy mother.
+
+> ...the Immaculate Conception, the resurrection of Jesus, and the Trinity.
+
+- So what does that tell you? That means that there were Jews that did not believe that Mary had a child without sex. There were some that believed that she did have sex. So again, the Inquisition was basically policing, making us accept Christianity, Christianity's doctrines. Go down. Read that here.
+
+> Two Jews were burned at the stake and two others were reconciled.
+
+- Reconciled means they gave in, accepted Christianity, to avoid being burned. Go to the next page. What page is this? 23. Go to the highlighted part.
+
+</div>
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 23, on the Dominican inquisitors · read by an officer  *[[1:54:47](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6887s)]*
+
+> With rare exceptions, the inquisitors, who were Dominicans...
+
+- Read it again. With rare exceptions, the inquisitors, who were what? Who were Dominicans. So the inquisitors were Dominicans. They were a church militia out to kill and convert anyone who did not accept Christianity. They would kill you and torture you. Damn. So when they came to the Americas, they were a church militia that came against the natives of the Americas, in the DR, and renamed y'all Dominicans. If you converted. If you didn't, they would either kill you or enslave you, one or the other. If you accepted it, they would baptize you and give you a Spanish name and taught you Spanish. Then you became Dominicanos. Dominican.
+
+> With rare exceptions, the inquisitors, who were Dominicans, as well as prelates of the church, rarely traveled through the vast areas over which they reigned in spiritual matters.
+
+- But they still did. When they did, they did damage. Go to page 33 now. Go down, right there.
+
+</div>
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 33, on Protestantism and the Holy Office · read by an officer  *[[1:56:06](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=6966s)]*
+
+> Protestantism...
+
+- Stop. Protestantism. People say, "Oh, Protestants are better than the Catholics." Nope. They were terrible too.
+
+> Protestantism became a greater threat to Catholicism than Jews and Judaism.
+
+- They were worse to us than the Catholics. The Protestants were just as bad to us as the Catholics were, if not worse. Like Calvin, Calvinism, Protestant. He was worse to us too.
+
+> Protestants developed missionaries...
+
+- Developed what? Missionaries. Missionaries are the same as Dominicans. The same thing.
+
+> ...who aimed to convert pagans as well as Catholics. Jews sought only to be left alone.
+
+- Pagans: us. Wanted to be left alone. Esau would not leave us alone. Like these apologists today. They will not leave us alone, and they're running from us. They're avoiding us. Yes, we want you to leave us alone. Christianity is nonsense. It's a myth. It's a fairy tale. Read on.
+
+> The Holy Office served more as a political arm of the Spanish throne than as a defender of the faith.
+
+- It became more a political arm of the Spanish throne than a defender of the faith. It was more of a military than an actual church system. Go to page 49.
+
+</div>
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 49, on the auto-da-fé of December 8th, 1596 · read by an officer  *[[1:57:43](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=7063s)]*
+
+> There were 45 Jews in the auto of December 8th, 1596.
+
+- Auto-da-fé means act of faith. They were burning us at the stake. The auto, or burning at the stake.
+
+> Nine Jews were burned...
+
+- They killed nine of us who refused Christianity. We were killed.
+
+> ...five of whom were females.
+
+- Now this put you on some game; do your research. The inquisitors wore something called a capirote. Look up capirote real quick. The inquisitors, these Dominicans, missionaries, whatever, inquisitors of Spain, they wore something called a capirote, and then they brought it over here and it became something else. Look familiar? When they burned us they wore this. When they burnt crosses in our lawns, they wore this too. Give me them guys that hang people.
+
+- Look at that. Wow. These are inquisitors here; they wore this during those burnings. Now give me the other group. You know the other group I want. Put them side by side. There they go, right there. Look at him, he doing the Elon Musk right there. That might be him under there. So look at that: burning stuff, burning houses, burning crosses, because it's the same people doing it. Look at the cross on this flag. They doing the same thing. You know that's KKK. That salute used to be the salute that Babylon used to do to salute the flag. Then they changed it during World War I. Before that was Rome. You watch Gladiator, they do that same thing with Rome. So you see, the inquisitors and the KKK wore the same garb, because it's the same people doing the exact same thing in a different landmass, persecuting the same people.
+
+- **Officer:** Deacon, you know what's crazy? Like we was talking about before, how a lot of the history is hidden. We've always learned that they wore the hoods as a scare or fear tactic against us, or they don't want you to know who's doing it, they don't want to get caught up. But they have a whole religion based off killing.
+
+- **Deacon Eythan:** Yep. This is based on Christianity. KKK members are Christians. They're inquisitors. Get Ecclesiastes 1:9. Nothing new under the sun. Put them side by side.
+
+- **Officer:** You know what's interesting, Deacon, too? You see how it has the cone shape? That's the same cone shape that they trim their Christmas trees. The same cone for birthdays; they wear the cap on their birthdays and all that. And then I think in the Vatican they have a whole pine cone as an idol too. So all that goes back to idolatry, to the devil, to Satan.
+
+- **Deacon Eythan:** Wow. Come on now. There was two of them, with the golden things in their hand and then the burning cross in the back. Keep the one with the burning cross on the left, but change out the colorful one on the right.
+
+- **Officer:** That's Catholic, that's the big open cap. That's a bit different; it's like an open-mouthed fish.
+
+</div>
+
+**[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[[2:02:08](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=7328s)]*
+
+> <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
+
+- There's no new thing under the sun. We call it persecution, by these capirotes here. Still the wrong picture, but I'm just going to tolerate it for now. It's upsetting me.
+
+- **Officer:** This will do, Deacon. Take what we give you. Continue your class, Deacon.
+
+- **Deacon Eythan:** So this is the capirote right here to the right, and KKK to the left. It's just longer, but it's the same thing. Nothing new under the sun. Go back to the book now.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 49 continued · read by an officer  *[[2:02:52](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=7372s)]*
+
+> Nine Jews were burned, five of whom were females.
+
+- Out of nine, five were female, four were male.
+
+> Children were compelled to watch their parents being sacrificed through the bigotry of men dedicated to serve God.
+
+- Being what? Being sacrificed. Now you know why they hung us and burned us: sacrifice. When we get power from the Lord, we sacrifice animals. We sacrifice to the Lord, and we gain power through our faith, sacrificing animals. And of course Christ dying was the ultimate sacrifice. Esau acquires power by burning and killing us and shedding our blood. That's how he acquires his power. The more of us he kills, the more powerful he becomes. The more he kills in general, the more powerful he becomes. Especially us, especially us and our babies. So we were sacrificed through the bigotry of men dedicated to serve God. KKK serve God. Capirote inquisitors serve God. The militia of the church. Same thing they do in the music industry: blood sacrifices.
+
+- What page is this? 49. Go to page 75.
+
+</div>
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), page 75, on Thomas Mendes and the children made wards of the Holy Office · read by an officer  *[[2:04:15](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=7455s)]*
+
+> In addition to those who owned ships...
+
+- Remember those inquisitors that wore those cone heads? That's the Israelis. Don't lose that thought. The inquisitors were the Khazars, or the Israelis, that fled to Spain from Khazaria, fled to Spain or Portugal, and they became the inquisitors and put those things on and began to hunt us and conquer us and enslave us and kill us in the Americas. So don't be confused. The Israelis became inquisitors. The Khazars became inquisitors and wore capirotes. Okay, that's the image I wanted earlier; now you put it up. Save that, so when I ask for it you'll have it. Thank you. Now go back.
+
+> In addition to those who owned ships and sailed them as captains or as members of crews, some Jews traveled widely for a variety of reasons. An example of such travelers is Thomas Mendes, who was born in Portugal about 1604 and taken by his parents to Brazil. His parents had been penitents in Lisbon. Subsequently he went to a Portuguese colony in Africa.
+
+- So this guy right here, it's not a white man. This is us.
+
+> He stated at his trial that during his travels he observed all Jewish days of fasting, and learned the location of all the Jewish communities in Europe, Africa and the New World.
+
+- He visited his people. So again, I said before that some of our people were able to escape the Inquisition by sailing the seas. And he traveled and saw our people in these areas.
+
+> He finally settled in Veracruz. He and his wife were convicted in 1647 of being a Jew, an observer of the law of Moses.
+
+- Him and his wife are keeping the laws of Moses.
+
+> She received 100 lashes and he 200.
+
+- They got whipped. Sound familiar? Damn. She got 100 lashes, he got 200 lashes. That's a lot of scar tissue, man. It's an evil world we living in.
+
+> Both were sentenced to perpetual prison. Prisoners usually served only two or three years when sentenced to perpetual prison.
+
+- Go down.
+
+> The events leading to the autos-da-fé of 1646, 1647, 1648 and 1649 are discussed in the following chapter. One result of these autos was the collapse of the commercial empires created by the three most prominent Jews. The lives of hundreds of innocent women and children were devastated...
+
+- That's our people.
+
+> ...and the pattern of their existence as Jews and as members of closely knit families, where love and affection were showered upon the children, was terminated.
+
+- They destroyed our families. The Catholic Church destroyed our families, like that brother earlier, Mendes and his wife.
+
+> The children became wards of the Holy Office, which assigned them to members of the staff.
+
+- Our children were made to be wards of the church, of the Holy Office, when they were snatched from their parents. Slaves.
+
+> The foster parents...
+
+- They gave our children to white people to be slaves. We have images of that in J. Rogers' book. She called him her favorite black child, her favorite black boy. We got images of that.
+
+- **Officer:** And the Bishop be bringing it out too. The Bishop shows it all the time.
+
+- **Deacon Eythan:** "My favorite black." Get Deuteronomy 28. You know what I want: 28:32 and 41.
+
+- **Officer:** Hey, Deacon, I got a page too. I know you about to close out.
+
+> The foster parents were obligated to feed and clothe the children, indoctrinate them with Catholic dogmas, and teach them to abhor anything Jewish and despise all Jews.
+
+- Watch this. Indoctrinate them, indoctrinate them, indoctrinate them, indoctrinate them with what? With Catholic dogmas. With Christianity. Watch this. The Christian church teaches us to despise ourselves. Read it again.
+
+- Oh man. To abhor anything Jewish and to despise themselves. To despise their culture, to despise their people. Read on.
+
+> They were taught that the Jews killed our Lord...
+
+- That's what the Negro say today in Christianity: "Yo, the Jews killed Christ." That's what they say.
+
+> ...as a result of which the Jews were cursed and had been sentenced to perpetual wandering.
+
+- Damn. Boom. Okay, wow. That's all I want. Deuteronomy 28:32 and 41.
+
+</div>
+
+**[Deuteronomy 28:32,41](/bible/deuteronomy/28#v32)**  *[[2:10:14](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=7814s)]*
+
+> <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
+
+- The sons and daughters shall be given unto another people.
+
+> <sup>[41](/bible/deuteronomy/28#v41)</sup> Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity.
+
+- Why? For they shall go into captivity. We read earlier that the Most High's judgment is as a ring. This happened to us with Egypt. This happened to us in Babylon. This happened to us with the Greeks, the Romans, and in Spain, and in Portugal, and in Africa among the Arabs, and it happened to us on this side of the world also. It happened to us in Britain. It happened to us in France. It happened to us everywhere, because the curses follow us wherever we went. It says that the Jews were cursed and have been sentenced to perpetual wandering. What's that mean? Diaspora. Perpetually scattered.
+
+- **Officer:** I want y'all to keep in mind what it said in this book, the last page we just read: that they were taught that the Jews killed our Lord, as a result of which the Jews were cursed. Real quick, I got a book that says that when they took our kids from us, they called us. I'm going to be reading that book next week.
+
+- **Deacon Eythan:** Go ahead. Just go to the book. Go to the exact words, by the way.
+
+- **Officer:** Start at the bottom here. This is an argument that happened. Watch this disrespect.
+
+<div class="reading">
+
+Reading from a page brought by an officer, from another book, on the Jewish accusation of Christian idolatry in the Inquisition charges  *[[2:11:46](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=7906s)]*
+
+> The Jewish accusation of Christian idolatry is frequently recorded in Inquisition charges, both in Portugal and in the Portuguese overseas empires, in cases brought against New Christians who were suspected of being covert Jews. In Portugal, Christians were frequently called gentios, Gentiles, by New Christians. The Old Testament category of Gentile influenced the discourse of Jews and judaizing New Christians.
+>
+> So for example, in April of 1616, a New Christian came to the attention of the Lisbon Inquisition. He was married to a cristã velha. He had previously been imprisoned by the Inquisition...
+
+- **Officer:** He previously just got locked up by the Inquisition, like the last dude.
+
+> ...following an auto-da-fé he was released, with the stipulation that he wear the penitential robe. He and his wife evidently no longer lived together, but at a time when they still cohabited...
+
+- **Officer:** So they were still having sex.
+
+> ...they had engaged in a mean-spirited fight over who would pay the rent. In the course of this marital spat, he allowed himself an outburst that landed him once again before the Inquisition. He told his wife to go ask her relatives for the money, since he wasn't going to give her anything, and besides, all the Old Christians are descended from a dog, and they worshipped sticks and stones, and it was they who arrested Christ: all the Romans, and blamed the Jews for killing him. And I am a descendant of Jacob, who was more honorable than all your relatives.
+
+- **Deacon Eythan:** Damn. He called the white woman out: you descended from dogs, and y'all killed Christ, as Romans. Christ called Herod a fox. Christ called the woman a dog. So he snapped. He got locked up again. That's fire right there. That's fire. That's funny.
+
+- We going to close out. What's the question we got? Go to the question.
+
+</div>
+
+**Text:** Shalom, Deacon. Most High, Christ bless. Were those Jews called crypto-Jews that we're reading about?
+
+**Deacon Eythan:** Yes. Crypto-Jews. They're also referred to as anusim. That means the forced ones. Anusim, or crypto-Jews, yes. That was it. All right, go read this right here.
+
+<div class="reading">
+
+Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982), on what the colonial Jews believed · read by an officer  *[[2:14:43](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=8083s)]*
+
+> Their detestation of the inquisitors was shown by the use of obscenities and vile names in reference to them.
+
+- We called them curse words. We cursed them out. We called the inquisitors whatever the F-word meant at that time. We called them obscenities and we called them vile names.
+
+> There were two parts to the theological concepts of the majority of colonial Jews. The positive and nourishing aspect was the belief in the coming of the Messiah, at which time they and all Jews would be saved and would live in peace, practicing their faith freely. They did not resent that all non-Jews would enjoy the same peace and freedom.
+
+- They would, obviously.
+
+> The Messiah, they said, would come for all people. It was upon this ground that they rejected Jesus as the Messiah. His coming had not resulted in peace for the world, even for the Christians, since they were fighting and killing each other. The negative aspect, which had a unifying effect, was the conviction that Jesus was not the Son of God and that there had not been an immaculate conception. They knew the biblical declaration of the Shema, Hear, O Israel, the Lord thy God, the Lord is one...
+
+- These are the non-messianic Jews.
+
+> ...Deuteronomy 6:4, which is a contradiction of the concept of the Trinity as the godhead. These views were expounded in few processos of Jews. A further negative concept was enunciated by a friar. He was burned at the stake in Lisbon on August 3rd, 1603, for maintaining that Jesus was not an anointed king...
+
+- He's saying Jesus is not the Messiah. Christ means anointed.
+
+> ...and that he was criticized for assuming the name Christ, and that Mary was not a virgin.
+
+- So you had Israelites that believed in the Messiah, and some that did not believe in the Messiah. And the ones that did not believe in the Messiah said, "Listen, he did exist, but he wasn't a Messiah, and his mom was not a virgin." So that was the contrast at this time. So you have Christians that believed in the Messiah that were Jews, Israelites. Then you had Jews that didn't believe in Christ at all. But we all caught hell. Just being a Jew itself was a problem anyway. It didn't matter. That's why earlier we read it said endogamy mattered at this time, because regardless of your faith, if you were a Jew or a Moor, you were a problem to the Spanish Crown. Regardless of your faith.
+
+- **Officer:** Deacon, so the ones that didn't believe Christ as the Messiah, it's because they didn't see him coming like in Acts 1 and bringing the kingdom back. Because they were looking in the old covenant and seeing the prophecies of Christ coming and what he was going to do, and Christ came and he ain't do that. And the same reason they knew Mary was not a virgin: because in the old covenant it doesn't say that a woman's going to just have a virgin birth. There's nowhere in the scriptures that states that. So they're going based off of what's in the old covenant. But they had a misunderstanding on Christ, that he was going to come one time, die, and then come a second time and do what he do. But they knew his mom wasn't no virgin, because there's nowhere in the scriptures that says it, even the scriptures they try to use today.
+
+- **Deacon Eythan:** So let me see something real quick, and then we wrap it up. Go to 189 real quick. Let me see how long it is. Yeah, I'll stop here. I'll stop here. I want to cut my time, because we got to do announcements.
+
+</div>
+
+## In Closing
+
+*[[2:18:25](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=8305s)]* So I hope you guys enjoyed it. This is Story Time with the Devil. This is his book, telling on himself. This ain't in my class, man, but the book is so good I can do a class on it. I didn't even go into my topic yet, but it is what it is, man. The spirit took us in that direction. Had to go that way. So, Lord's will, hope you guys enjoyed the information. I hope you guys enjoyed the lesson. I pray it was informative for you all watching. I pray for you scoffers and scorners in the audience, that you learn something as well. And tune in with us more, and learn more, and ask questions regarding the topic of the class. All praise to the Most High, man. We got more books, we got more stuff for y'all coming next week.
+
+*[[2:19:21](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=8361s)]* And by the way, for those of you who may think that we just use books written by white folk: we use books written by our own brothers, from the past as well as the present, that record these things that a lot of the white folks borrowed from. So don't think we just using the white man's books. We using our brothers' books also. We're going to be heavily diving into our brother's book next week. We going to use a lot of his material. I started last week, but continuing into the rest of the lesson, to the end of it, we'll be using a lot of his material. Very, very good brother. Very scholarly brother. So hope you guys enjoyed that lesson, and with that we're going to say shalom and go with announcements.
+
+**Officer:** All praise. Let's give it up for the leadership. Fire class. All praise.
+
+## Announcements & References
+
+*[[2:20:11](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=8411s)]* All right, Israel, make sure you subscribe to our YouTube page, Our Hidden History Radio. Hit the notification button so you know when we go live. Subscribe also to our Philly channels: you got IUIC Philadelphia and IUIC Philadelphia In the Classroom. Subscribe, subscribe, subscribe. Also, you can make your donations to Our Hidden History, for us to purchase more books to bring out. You can send in donations on PayPal to iuic.philadelphia@israelunite.org; in the comment section put OHH. Donate to the Booster Club on PayPal. Subscribe to IUIC TV and get exclusive content from the leadership of IUIC.
+
+*[[2:20:52](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=8452s)]* Missing persons: she's 18 years old, female, African-American, hair color black, eye color brown, 5'3, 120 lbs. She was last seen on January 17th, 2025. Clothing description unknown. She could be in the area of 1500 North 19th Street. So if you do see her, let the local authorities know.
+
+*[[2:21:22](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=8482s)]* Land fund: you can still make your donations now. We're going to get the land, but it depends if you're going to be a part of that major move. So if you believe, send your funds now on PayPal to israel@israelunite.org; in the comment section put land. And my favorite announcement: Shalom, we're seeking your assistance to enhance our national broadcast. Kindly spare a minute to provide feedback by answering five brief questions. I know we're going to have a lot of feedback from this class, and I will be the first to scan that QR code, as always. So Israel, please, please, please help. Officer Manny. Shalom.
+
+*[[2:22:08](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=8528s)]* So, Lord's will, we send our prayers. Thank the Most High for the breakfast team, and send our prayers for the IT team today. So see y'all next week. Shalom.
+
+You can text the show, or Zoom call in, with questions on the topic.
+
+Sources read from in this episode:
+
+- *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour B. Liebman (published 1982): the cover, the inside jacket and the author's credentials, page 13 (endogamy, separateness, assimilation, consanguinity), page 40 (Ladino, a Negro slave who could speak Spanish), page 16 (messianism), page 19 and the pages after (the decrees barring Jews and Moors, the Dominican order, the Holy Office), page 23 (the Dominican inquisitors), page 33 (Protestantism), page 49 (the auto-da-fé of December 8th, 1596), page 75 (Thomas Mendes; the children made wards of the Holy Office), and the passage on the colonial Jews' detestation of the inquisitors and their belief in the Messiah (read by an officer).
+- A page brought by an officer, from another book, on the Jewish accusation of Christian idolatry in Inquisition charges and the New Christian's outburst in 1616 (read by the officer).
+- Videos: *Artifacts in the Vatican*, the man sent by intelligence into the basement of the Vatican to see the lost scrolls; and the video on Negro Land and the Kingdom of Judah on the ancient maps and the Ashkenazi slavers in the Gulf of Guinea.
+- The meaning of sine qua non, looked up on air.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=uUQsMXbKo7Y)

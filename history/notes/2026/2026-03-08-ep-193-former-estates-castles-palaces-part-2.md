@@ -1032,7 +1032,7 @@ Reading from *Black Knights*, part three, page 121, Sir Eldir Du · read by an o
 
 *[[2:12:04](https://www.youtube.com/watch?v=GO8LkmqB-Zw&t=7924s)]* **Officer:** All praises to the Lord. So yeah, Our Hidden History. Y'all already know. All praises to the Lord for letting Deacon give us this good wisdom concerning our history, man. Make sure you subscribe to IUIC Philadelphia and IUIC Philadelphia in the Classroom. Donate to OHH on PayPal, iuic.philadelphia@israelunite.org. Donate to the Booster Club on PayPal, iuicfundraising@israelunite.org. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
 
-*[[2:12:37](https://www.youtube.com/watch?v=GO8LkmqB-Zw&t=7957s)]* **Officer:** Our missing persons section: we have the sister by the name of Nicole Rowland, missing from Cumberland, New Jersey. Age 37, female, Caucasian, red hair, brown eyes, 5'6", 180 pounds. If y'all see someone that looks like her, make sure y'all use that phone number. She was last seen on February 16th, 2026. She has a tattoo on her arm. No clothing description given.
+*[[2:12:37](https://www.youtube.com/watch?v=GO8LkmqB-Zw&t=7957s)]* **Officer:** Our missing persons section: we have the sister by the name of Nicole Rowland, missing from Cumberland, New Jersey. Age 37, female, Caucasian, red hair, brown eyes, 5'6", 180 pounds. If y'all see someone that looks like her, make sure y'all use that phone number. was last seen on February 16th, 2026. She has a tattoo on her arm. No clothing description given.
 
 *[[2:13:13](https://www.youtube.com/watch?v=GO8LkmqB-Zw&t=7993s)]* **Officer:** They said turn on the super chats next week.
 

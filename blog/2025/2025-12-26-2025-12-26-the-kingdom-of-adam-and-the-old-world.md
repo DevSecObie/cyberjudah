@@ -19,13 +19,6 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
 
 *[[1:04:41](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=3881s)]* A marathon class on the kingdom of Adam and the old world before the fall. It opens by setting aside Christmas as a Jewish fable, showing that Christ was born and died at Passover. The teacher then argues that Moses hid the secrets of wisdom in similitudes, so Genesis 1 describes more than the making of the sky and the sea. The first light is Christ, the dividing of light from darkness is the choosing of the children of light, and paradise was made on the second day before the earth. Adam ruled the heavens and the earth with the twelve tribes as his branches, until his fall cast them down to the nether parts of the earth. Ezekiel 31's great cedar, 2 Esdras and the Psalms are read as the record of that fall, and of the kingdom Israel must now work to regain.
 
-## In The News
-
-- *[[1:37:09](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=5829s)]* **An article on Antiochus setting up an idol in the temple, the Maccabean revolt, and the rededication later kept as Hanukkah.** — God has his feast days and Satan has his; Christmas sits where the idol once stood.
-- *[[2:27:35](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=8855s)]* **A dictionary definition of 'similitude' as a model, parable or comparison.** — God spoke to the prophets in similitudes, so the garden, the trees and the rivers stand for something more.
-- *[[4:16:59](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=15419s)]* **A report of a wealthy man offering a fortune to anyone who can prove the earth is flat.** — The Bible says God hangs the earth upon nothing, and the offer mocks those who believe otherwise.
-- *[[7:47:14](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=28034s)]* **A Bible dictionary entry giving 'descent' as the meaning of the name Jared.** — In Jared's days the sons of God began to descend to the earth, which ties back to Ezekiel 31.
-
 ## Scriptures Opened
 
 **[Titus 1:14](/bible/titus/1#v14)**  *[[1:14:38](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=4478s)]*
@@ -73,6 +66,26 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
 
     His parents went to Jerusalem every year at the feast of the passover.
 
+
+<div class="reading">
+
+Reading from an on-screen text on Antiochus IV Epiphanes and the 25th of Kislev  *[[1:35:51](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=5751s)]*
+
+> Antiochus IV Epiphanes, a Syrian king, forced Jews to worship Greek gods, culminating in the desecration of the Jerusalem temple on the 25th of Kislev
+
+- The 25th of Kislev, that's the month, the 25th, around the same time, December 25th, he used to set up idol. You understand what I'm saying? It's not the same month, it's a little different.
+
+> around December in 167 BCE, which led to the Maccabean revolt.
+
+- So what I want you all to see: on the 25th, Antiochus set up idols and so forth in the temple. Zeus and all of that, and forced our people to worship idolatry on, not December the 25th, on the 25th of K… I don't know how to pronounce that.
+
+> Three years later, on the same day the victorious Maccabees rededicated the temple, a triumph commemorated by the Jewish holiday of Hanukkah, the festival of lights, which begins on the 25th of Kislev.
+
+- Yeah, that's dedication. That's why I want you all to see on the 25th. They did on the 25th in the past, under the Greeks, they set up Zeus, they set up swine flesh, Bacchus, and they had us worship Greek gods. That's what they did. You understand? And they desecrated the temple. So the same thing is the same thing with Christmas, man. I'm just letting you all know. The same thing with Christmas. God has festival days. Satan does, too. So, we have our dedication and Satan got Christmas.
+
+- So, there's always a counter. Good set against evil all the time.
+
+</div>
 
 **[Daniel 7:25](/bible/daniel/7#v25)**  *[[1:38:57](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=5937s)]*
 
@@ -163,6 +176,16 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
     That he would show thee the secrets of wisdom.
 
 
+<div class="reading">
+
+Reading from a definition of *similitude*, put up on the screen  *[[2:27:25](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=8845s)]*
+
+> Similitudes means likeness, resemblance, or similarity between things often used in formal or archaic text context or in engineering literature to describe models, parables, or comparisons.
+
+- So it's comparing something to something. You understand? So like when you read in Genesis and it talk about the trees in the garden, he's comparing trees to human beings. That's a similar to. But to understand these things, guess what? The Lord spirit got to come into you and show you these things. That's why the Lord told Moses to hide them because it's not meant for everybody to understand. But today some of y'all will understand these things.
+
+</div>
+
 **[Colossians 1:15](/bible/colossians/1#v15)**  *[[2:29:17](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=8957s)]*
 
 > <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
@@ -235,6 +258,28 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
 
     All things are double one against another, and he hath made nothing imperfect.
 
+
+<div class="reading">
+
+Reading from an on-screen definition of *adamant*  *[[2:58:40](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=10720s)]*
+
+> Adamant. Refusing to be persuaded or to change one's mind.
+
+- So he hardened Pharaoh heart. What that mean? He make it where Pharaoh was not persuaded to let us go. That's that adamant. That's how we separate light from darkness. He will harden your heart for you not to believe, for you not to follow. You understand? God will harden your heart. That's how he separate his light from the darkness. He will harden your heart for you not to believe these scriptures. You understand? The same way he hardened Pharaoh heart, that's how he separate light from darkness.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of *predestined*  *[[3:02:01](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=10921s)]*
+
+> Of an outcome or course of events: determined in advance by divine will or fate.
+
+> Synonyms: preordained, ordained, foreordained, destined, predetermined, faded, predestined, predestinated.
+
+- So when were we predestined?
+
+</div>
 
 **[2 Esdras 9:18](/bible/2-esdras/9#v18)**  *[[3:11:58](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=11518s)]*
 
@@ -317,13 +362,23 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
     He hangeth the earth upon nothing.
 
 
+<div class="reading">
+
+Reading from a Yahoo report on a Colombian CEO's offer to flat-earthers  *[[4:18:06](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=15486s)]*
+
+> Colombia trolls flat-earthers. Take a photo and win the whole company.
+>
+> Colombia billionaire CEO promises to give away his $3 billion company to anyone who can prove the earth is flat.
+
+</div>
+
 **[Genesis 1:26](/bible/genesis/1#v26)**  *[[4:31:41](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=16301s)]*
 
 > <sup>[26](/bible/genesis/1#v26)</sup> And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
 - Man was made in God's image, not only in looks but like his father in nature.
 
-- 'Replenish' means to fill again, and Adam was told to subdue the earth.
+- Adam was told to subdue the earth.
 
   Precepts:
   - **[Genesis 2:7](/bible/genesis/2#v7)**
@@ -335,6 +390,16 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
 
     God created man to be immortal and made him an image of his own eternity.
 
+
+<div class="reading">
+
+Reading from a definition of *replenish*  *[[4:39:52](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=16792s)]*
+
+> The definition of replenish: fill something up again.
+
+- To fill something up again.
+
+</div>
 
 **[Hebrews 4:1](/bible/hebrews/4#v1)**  *[[4:45:48](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=17148s)]*
 
@@ -502,6 +567,16 @@ tags: ["IUIC in the ClassRoom", "passover-feasts", "wisdom"]
 
     Jerusalem which is above is free, the mother of us all.
 
+
+<div class="reading">
+
+Reading from an on-screen meaning of the name *Jared*  *[[7:47:18](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=28038s)]*
+
+> In the Bible, Jared means descend or descent.
+
+- So where did he descend or descent from? It goes back to Ezekiel 31. They were cast down to the nether part of the earth because he came down here and now guess what? He died just like how Adam died. But did Adam die when he sinned? No. But eventually he died of old age. You feel what I'm saying? Now death is pronounced to all the sons that was in the heaven. They all got to come on the earth. Did they die up there in their spiritual body? No. They have to come be born on the earth and go through their trials and so forth.
+
+</div>
 
 **[Genesis 5:1](/bible/genesis/5#v1)**  *[[8:02:47](https://www.youtube.com/watch?v=SE81_Rxu5sM&t=28967s)]*
 

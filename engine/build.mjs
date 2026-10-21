@@ -1,4 +1,5 @@
 import { validatePeople, personPicture } from "./people-validation.mjs";
+import { validatePlaces } from "./places-validation.mjs";
 
 import { correctedClass, classCatalog, loadClassBroadcasts } from "./class-metadata.mjs";
 // The CyberJudah content engine.
@@ -72,6 +73,18 @@ for (const p of peopleDoc.people) for (const ref of p.verses) {
 }
 const bySlugName = Object.fromEntries(Object.entries(bookSlug).map(([b, sl]) => [sl, b]));
 
+/* ---------------- places (STEPBible TIPNR, CC BY 4.0) ---------------- */
+// Where each verse is set, and a page per place: its names, region, map point and every verse.
+const placesFile = path.join(ROOT, "data", "places", "places.json");
+const placesDoc = fs.existsSync(placesFile) ? JSON.parse(fs.readFileSync(placesFile, "utf8")) : { places: [] };
+const placesProblems = validatePlaces(placesDoc);
+if (placesProblems.length) throw new Error(placesProblems.join("\n"));
+const placedIn = new Map(); // "slug|ch" -> { verse: [id] }
+for (const p of placesDoc.places) for (const ref of p.verses) {
+  const [sl, ch, v] = ref.split("/"); const k = `${sl}|${ch}`;
+  if (!placedIn.has(k)) placedIn.set(k, {}); (placedIn.get(k)[v] ??= []).push(p.id);
+}
+
 /* ---------------- Strong's: every King James word keyed to its Hebrew or Greek ---------------- */
 // data/strongs (scripts/strongs/build.py): each verse of the 66 books as spans with Strong's
 // numbers, and Strong's own dictionaries. Chapters carry the spans; each number gets a page
@@ -123,7 +136,7 @@ for (const b of BOOKS) {
     const tags = strongsTags(bookSlug[b]);
     writeJson(path.join(API, "kjv", bookSlug[b], `${c}.json`), { book: b, chapter: c, translation: "KJV", url: chapterUrl(b, c), ...(c === chs[0] && L.prologues[b] ? { prologue: L.prologues[b] } : {}), verses: verses.map((t, i) => ({ verse: i + 1, text: t, ...(tags?.[String(c)]?.[String(i + 1)] ? { words: tags[String(c)][String(i + 1)] } : {}) })).filter((v) => v.text) });
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
-    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {}, read: readings[String(c)] ?? {} });
+    writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {}, places: placedIn.get(`${bookSlug[b]}|${c}`) ?? {}, read: readings[String(c)] ?? {} });
     readingsTotal += Object.values(readings[String(c)] ?? {}).reduce((a, r) => a + r.length, 0);
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0), chapterIds: chs });
@@ -351,6 +364,12 @@ for (const p of peopleDoc.people) {
   peopleIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, verses: p.verses.length, first: p.verses[0] });
 }
 writeJson(path.join(API, "people", "index.json"), peopleIndex);
+const placesIndex = [];
+for (const p of placesDoc.places) {
+  writeJson(path.join(API, "places", `${p.id}.json`), { id: p.id, name: p.name, names: p.names, region: p.region, coords: p.coords, strongs: p.strongs, verses: p.verses, source: { name: placesDoc.source, license: placesDoc.license, url: placesDoc.url } });
+  placesIndex.push({ id: p.id, name: p.name, names: p.names, region: p.region, verses: p.verses.length, first: p.verses[0] });
+}
+writeJson(path.join(API, "places", "index.json"), placesIndex);
 
 /* ---------------- api: encyclopedia, topics ---------------- */
 writeJson(path.join(API, "encyclopedia", "index.json"), L.encNotes.map((n) => ({ slug: n.slug, title: n.title, url: n.url, summary: n.summary ?? "" })));
@@ -520,7 +539,7 @@ console.error(`library: ${libraryIndex.length} book(s), ${libraryIndex.reduce((a
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, year: n.year, series: n.series, teacher: n.teacher, topics: n.topics ?? [], summary: n.summary ?? n.description ?? "", videoId: n.videoId ?? null })));
 for (const n of notes) {
   const rel = n.url.replace(/^\//, "") + ".json";
-  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, file: n.file ?? null, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, books: booksReadIn.get(n.videoId ?? "") ?? booksByNote.get(n.url) ?? [], body: n.body });
+  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, file: n.file ?? null, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", collection: n.collection || "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, books: booksReadIn.get(n.videoId ?? "") ?? booksByNote.get(n.url) ?? [], body: n.body });
 }
 
 /* ---------------- api: Our Hidden History ---------------- */

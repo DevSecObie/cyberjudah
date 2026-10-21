@@ -148,13 +148,13 @@ Reading from *The New Order of Barbarians*, the editorial note, continued  *[[32
 
 > Tapes one and two are the reminiscence by Dr. Lawrence Dunegan of a speech given March 20th, 1969, by an insider of the Order, Dr. Richard Day
 
-- Especially you. You ignorant ones with that FBA stuff. Especially you. Marcus Garvey was the spark of the civil rights movement. Most of the people that were in the civil rights movement were Garveyites. They were the children of Garveyites. Malcolm X's father. Stokely Carmichael. Bobby Seale from the Black Panthers, Caribbean. Y'all do not know what y'all are talking about, man. Disrespectful, shiftless negroes, bro.
+- Especially you. You ignorant with that FBA stuff. Especially you. Marcus Garvey was the spark of the civil rights movement. Most of the people that were in the civil rights movement were Garveyites. They were the children of Garveyites. Malcolm X's father. Stokely Carmichael. Bobby Seale from the Black Panthers, Caribbean. Y'all do not know what y'all are talking about, man. Disrespectful, shiftless negroes, bro.
 
 - One of the officers had posted a comment on Facebook. I saw he said, yo, if you were to erase all of the so-called white men off the earth, earth will still be jacked up. And that's a fact. That's a fact. If you gave the power to a negro today that the white man has, the earth wouldn't last five minutes.
 
 - **Officer:** He'll bomb his ex and himself at the same time. Right across the street.
 
-- **Deacon Eythan:** Right across the street, drop a bomb on him, and kill himself and everybody around him. They were around before the white man. Just so y'all know, they have been around since the garden. That's Cain. Cain became the ultimate.
+- **Deacon Eythan:** Right across the street, drop a bomb on him, and kill himself and everybody around him. were around before the white man. Just so y'all know, have been around since the garden. That's Cain. Cain became the ultimate.
 
 - **Officer:** This is war.
 
