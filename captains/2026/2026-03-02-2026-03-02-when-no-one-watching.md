@@ -1,0 +1,167 @@
+---
+title: "When No One Watching"
+slug: "2026/2026-03-02-when-no-one-watching"
+date: "2026-03-02"
+teacher: "Captain Yahoshua"
+description: "15 Minutes w/ The Captains · 2026-03-02"
+tags: ["15 Minutes w/ The Captains", "persecution", "the-law", "wisdom"]
+---
+
+<p class="taught">15 Minutes w/ The Captains · 2026-03-02</p>
+
+<span class="opens"><b>Opens</b> [Ps 26](/bible/psalms/26) · [2 Macc 6](/bible/2-maccabees/6) · [Sir 23](/bible/sirach/23) · [Matt 18](/bible/matthew/18) · [Acts 5](/bible/acts/5) · [Gen 4](/bible/genesis/4) · [Ps 90](/bible/psalms/90)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="ABhs0iJ-XrU"></div>
+
+## Introduction
+
+*[[0:35](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=35s)]* Shalom Israel. Most High Christ bless. It's another episode of 15 minutes with the captains. I'm your captain for the day, Captain Yahoshua. All praise to the Most High. We got a quick lesson for you today called when no one is watching. This class today is all about those secret sins. Those things that we deal with that nobody knows about. We're going to address those things today. So what you got to remember, somebody's always watching. The Lord gave us ethics. He gave us a moral code called his laws, statutes, commandments. And what we have to give God in return, we've got to give him integrity. Which is the discipline to keep his laws, statutes, and commandments when nobody's watching. Whether it's nobody's looking or whether it's under persecution, we must still uphold our moral code, which is God's laws.
+
+## Scriptures Opened
+
+**[Psalms 26:1](/bible/psalms/26#v1)**  *[[1:34](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=94s)]*
+
+> <sup>[1](/bible/psalms/26#v1)</sup> Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide.
+
+- We need to understand the importance of integrity. When nobody's looking, who are you?
+
+- Judge me, O LORD; for I have walked in mine integrity: you see what King David said? Now, King David, he went through some things. He went through some trials. He had to see what it looked like for him not to have integrity. Because remember, he committed adultery when nobody was looking. He sent off the men to war. Instead of him going out to war, he stayed, went on the rooftop, and saw a woman. He fell into his lust. So he learned that the hard way. And he had to apply that to his life and teach that to his sons also.
+
+- Therefore I shall not slide: I'm not going to slide when nobody's looking. I'm not going to slide when I'm under persecution. I'm going to uphold my integrity even under dire circumstances.
+
+
+**[2 Maccabees 6:18-26](/bible/2-maccabees/6#v18)**  *[[2:51](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=171s)]*
+
+> <sup>[18](/bible/2-maccabees/6#v18)</sup> Eleazar, one of the principal scribes, an aged man, and of a well favoured countenance, was constrained to open his mouth, and to eat swine’s flesh.
+>
+> <sup>[19](/bible/2-maccabees/6#v19)</sup> But he, choosing rather to die gloriously, than to live stained with such an abomination, spit it forth, and came of his own accord to the torment,
+>
+> <sup>[20](/bible/2-maccabees/6#v20)</sup> As it behoved them to come, that are resolute to stand out against such things, as are not lawful for love of life to be tasted.
+>
+> <sup>[21](/bible/2-maccabees/6#v21)</sup> But they that had the charge of that wicked feast, for the old acquaintance they had with the man, taking him aside, besought him to bring flesh of his own provision, such as was lawful for him to use, and make as if he did eat of the flesh taken from the sacrifice commanded by the king;
+>
+> <sup>[22](/bible/2-maccabees/6#v22)</sup> That in so doing he might be delivered from death, and for the old friendship with them find favour.
+>
+> <sup>[23](/bible/2-maccabees/6#v23)</sup> But he began to consider discreetly, and as became his age, and the excellency of his ancient years, and the honour of his gray head, whereon was come, and his most honest education from a child, or rather the holy law made and given by God: therefore he answered accordingly, and willed them straightways to send him to the grave.
+>
+> <sup>[24](/bible/2-maccabees/6#v24)</sup> For it becometh not our age, said he, in any wise to dissemble, whereby many young persons might think that Eleazar, being fourscore years old and ten, were now gone to a strange religion;
+>
+> <sup>[25](/bible/2-maccabees/6#v25)</sup> And so they through mine hypocrisy, and desire to live a little time and a moment longer, should be deceived by me, and I get a stain to mine old age, and make it abominable.
+>
+> <sup>[26](/bible/2-maccabees/6#v26)</sup> For though for the present time I should be delivered from the punishment of men: yet should I not escape the hand of the Almighty, neither alive, nor dead.
+
+- So there's another brother who was in a similar situation. Nobody was looking. He didn't have anybody that was looking up to him in the midst of his trial, his temptation. But you know what? He said, I'm going to maintain my integrity. I'm not going to go against God's laws.
+
+- Eleazar, one of the principal scribes, an aged man: so Eleazar was an aged man. He was a elderly man. He'd been in the truth for a long time. He was born in the truth, raised in the truth. And he said, you know what? I'm going to die in the truth too.
+
+- Was constrained to open his mouth, and to eat swine's flesh: so he was under persecution. But there was nobody around. He didn't have a audience full of Israelite men and women. It was just him and the heathen that were persecuting him, trying to get him to eat strange flesh.
+
+- But he, choosing rather to die gloriously, than to live stained: how do we live gloriously? We must live according to God's law, statutes, and commandments.
+
+- But they that had the charge of that wicked feast: so these heathens that were over this wicked feast that was being established. For the old acquaintance they had with the man, taking him aside: so they had an old acquaintance with the man, so he had a good reputation even with the other nations. And since they knew him and he had a good reputation, they tried to take him to the side. They called themselves looking out for him.
+
+- Besought him to bring flesh of his own provision, such as was lawful for him to use: so they was going to bring him some food that was lawful according to Leviticus chapter 11. And make as if he did eat of the flesh taken from the sacrifice commanded by the king: so they wanted him to pretend as if he ate this unlawful food, but really they were going to give him lawful food. So in the sight of the entire nation, when they heard about the situation, they would have thought that he ate the unlawful food.
+
+- That in so doing he might be delivered from death: so that he could be delivered from death for a little season. But when you truly understand the reward that we get for keeping God's law, statutes, and commandments, living for an extra year, 2 years, 10 years is nothing. It's not worth it. It is not worth everlasting life to live a few years longer.
+
+- And the excellency of his ancient years: so this brother had excellency in his ancient years. A lot of us, we weren't raised in the truth. So our ancient years haven't been excellent. We live for 40, 50, 60 years in the world and now just now coming to an understanding of who we are. But this brother lived different. He lived righteous his entire life.
+
+- Eleazar, being fourscore years old and ten: so Eleazar was 90 years old. So if he did this thing in private when nobody was looking, the scripture said that the young people who looked up to Eleazar would have thought that he broke God's laws in his old age.
+
+- Were now gone to a strange religion: that strange religion is following after other gods which require the sacrifices at their feast and eating unclean foods. In your modern days that'll be your Christmas, Thanksgiving, New Year's in the dead of winter, July 4th, Mother's Day, Father's Day. Eleazar was not willing to sacrifice everlasting life, although no one was looking, for a little season of more life left for him.
+
+- And so they through mine hypocrisy: the Bible calls that hypocrisy. You know the standard that you're supposed to uphold. But instead of upholding it, you break that standard for your own personal selfish gain. That makes you a hypocrite. You're no different from the Pharisees. You know the rules, the standards that we're supposed to uphold. You know thou shall not kill. You know thou shall not steal. But you're part of the treasury and you still might be taking some of the money. You know thou shall not commit adultery. But you're still in those DMs with that brother or that sister on Instagram, TikTok, Facebook Messenger. The Bible says that we must maintain our integrity. We cannot slide to the left or to the right.
+
+- Yet should I not escape the hand of the Almighty, neither alive, nor dead: so brothers and sisters, what we got to understand, it's impossible to escape the hand of the most high God. There's nothing that's going to be hid from God. You think no one's looking when you're on your phone at home with the door closed and the lights out, watching pornography, messaging someone other than your spouse. But God says that his eyes are 10,000 times brighter than the sun.
+
+
+**[Sirach 23:19](/bible/sirach/23#v19)**  *[[9:24](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=564s)]*
+
+> <sup>[19](/bible/sirach/23#v19)</sup> Such a man only feareth the eyes of men, and knoweth not that the eyes of the Lord are ten thousand times brighter than the sun, beholding all the ways of men, and considering the most secret parts.
+
+- There's no way you can get away with anything when it comes to God. So we have to learn how to move different. We got to move as if somebody's always watching. We can't get comfortable in our evil and our sin because we think no one's looking. No, we got to realize there's an angel standing right here taking notes on everything that I'm doing, everything that I'm scrolling on, everything that I'm watching, everything that I'm talking about and everything I'm thinking about.
+
+- Such a man only feareth the eyes of men: Eleazar did not fear the eyes of men. He was the opposite of this. Eleazar feared the eyes of God. And that's how we must conduct ourselves as Israelite men and women.
+
+- And knoweth not that the eyes of the Lord are ten thousand times brighter than the sun: the eyes of the Lord, which are the angels. When the sun is out, there's nothing that can hide. You can't look up at the sun. You can't stare at it. But the Bible says that the eyes of the Lord are 10,000 times brighter than that.
+
+- Beholding all the ways of men: it don't matter if you in your room with the door closed. It don't matter if you go on your web browser and put it in incognito mode. The Lord still sees it.
+
+- And considering the most secret parts: God is considering those secret sins that nobody knows about except for you. So as men and women of the Lord, we must constantly examine that man or woman in the mirror. And I like that phrase because when you do your grooming, you typically do that alone. You're not brushing your teeth out in public unless you traveling or something like that. You not combing your hair, oiling your scalp, greasing your scalp. You're not flossing your teeth out in the middle of the street for everybody to see. You doing that stuff in private. You doing that stuff alone, at home, in the bathroom with the door closed, in your room with the door closed. That's the time that you must examine yourself. Spiritually, we must examine that same man in the mirror.
+
+
+**[Matthew 18:10](/bible/matthew/18#v10)**  *[[12:26](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=746s)]*
+
+> <sup>[10](/bible/matthew/18#v10)</sup> Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.
+
+- We got to get rid of the secret sins. We got brothers watching porn, sisters messaging men, you're married, brothers messaging women, you're married, single people talking to each other. The Lord sees all of that. He's taking notes on that. The angels not missing none of that.
+
+- You're being evil toward your spouse, you're being evil toward your children. Just because a house covers shame to the rest of the nation, there's no shame that's going to be hid from the Lord.
+
+- Take heed that ye despise not one of these little ones: the Bible says despise not one of the little ones. The little ones are the Israelites. That's the people just coming into the truth. That could be you. That could be your wife. That could be your children. Do not despise. Do not show hatred toward. Do not be evil toward any of God's children. Cuz we all little ones to the Lord. We all little ones to our father cuz we are his children.
+
+- That in heaven their angels do always behold the face of my Father: the Bible says that our angels, everybody is assigned an angel. And our angel is responsible for taking notes on what we're doing, what we're not doing. Are we upholding the code of God, which is his laws, or are we being a breaker, are we being hypocrites? So our angels will be with us, taking notes, and then they're going to our Father in heaven to let them know how we're doing down here.
+
+- The Father don't need to be down here. The reason his eyes are 10,000 times brighter than the sun is because he got 10,000 upon 10,000 upon 10,000s of angels. Legions of angels that are watching, maneuvering, moving spirits exactly how they were ordained to move. And taking notes on whether you're being good or whether you're being evil when nobody's looking.
+
+
+**[Acts 5:1-4](/bible/acts/5#v1)**  *[[14:35](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=875s)]*
+
+> <sup>[1](/bible/acts/5#v1)</sup> But a certain man named Ananias, with Sapphira his wife, sold a possession,
+>
+> <sup>[2](/bible/acts/5#v2)</sup> And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles’ feet.
+>
+> <sup>[3](/bible/acts/5#v3)</sup> But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?
+>
+> <sup>[4](/bible/acts/5#v4)</sup> Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.
+
+- This is another example of brothers and sisters, a married couple that was in the midst of sin. They thought nobody was looking. They thought they could get away with it. But the Lord tells us that he sees everything that you believe is a secret.
+
+- But a certain man named Ananias, with Sapphira his wife, sold a possession, and kept back part of the price: so nobody was there when they did the transaction. It was just them and whoever they did the transaction with. That was their business. They could sell it for whatever price that they want. They could have gave all of it or they could have gave a portion of it. That would have been their business.
+
+- His wife also being privy to it: now, it was no issue with keeping back a part of the price. There was no law that said that you have to sell it and you have to give it all away. But what's happening here is they kept back a price of it, but they're making it seem like they're giving the entire dollar amount. So if they sold a piece of land for 100,000, they know they sold it for 100,000, but they bring it to the apostles and said, yeah, we sold this piece of land for 25,000 and we're going to give it all to you. The Lord saw how much that transaction was for. The Lord knew it. But they didn't present that as truth. They presented that as a lie. They could have said, yeah, we sold it for 100,000 and we got some other stuff we need to handle, but we're donating 25,000 to the congregation. That would have been perfectly fine. But since they wanted to lie about it, they had to be judged for it. So his wife was in cahoots. She knew about it.
+
+- Ananias, why hath Satan filled thine heart to lie to the Holy Ghost: why you going to lie about it? If all you wanted to give was a quarter of the proceeds, 50% of the proceeds, that would have been fine, but you're trying to hide it. You're trying to lie about it. That wasn't necessary. The angels was there during the transaction making note of exactly how the transaction went down. But when it came time for them to give account of the transaction, the Bible says that they lied.
+
+- And after it was sold, was it not in thine own power: was it not in your own power to do what you wanted to do with the money?
+
+- Thou hast not lied unto men, but unto God: so you did not lie to men, who did you lie to? You lied to God. So when you lie to the men and women of God, you lie to God. You lie to the apostles, you lie to God. It's time for you to give account of a situation because you were a witness, you're false witness, you're lying to God.
+
+- We must hold ourselves accountable to God's laws, whether the circumstances are good, whether they're bad. If we're under persecution, we still got to uphold God's laws. If nobody's around, and there's nobody to see what we're doing, we still have to uphold God's standard. We still have to keep God's laws.
+
+
+**[Genesis 4:8-10](/bible/genesis/4#v8)**  *[[18:21](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=1101s)]*
+
+> <sup>[8](/bible/genesis/4#v8)</sup> And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
+>
+> <sup>[9](/bible/genesis/4#v9)</sup> And the Lord said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper?
+>
+> <sup>[10](/bible/genesis/4#v10)</sup> And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.
+
+- A lot of brothers and sisters tried to get away with evil in the Bible. And these stories are written for our learning, so that we can realize, you know what? Let me not follow these certain examples. Let me follow the good examples. Let's see what happened with Cain and Abel.
+
+- Cain rose up against Abel his brother, and slew him: so Cain got so filled with anger and hatred that he killed his own brother. Now, maybe you don't get to the point where you kill your brother, but the Bible says that if you hate your brother without cause, you're a murderer. And where's that happening? That's happening in secret. That's happening in your mind. Nobody knows about it but you. But the Lord said you're not going to get away with that. He will hold you accountable for your actions even when nobody's looking.
+
+- Where is Abel thy brother? And he said, I know not: he lied to the Lord's face. Lied to his face. He killed him. His body is still right there. The blood is still leaking out of his brother's body. He told the father, I don't know where he's at. Damn.
+
+- The voice of thy brother's blood crieth unto me from the ground: so the scripture says the voice of his blood crieth unto him. Further proving that when you think nobody else is around, the Lord is always going to get a report of what's going down. Every single time.
+
+
+**[Psalms 90:8](/bible/psalms/90#v8)**  *[[20:11](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=1211s)]*
+
+> <sup>[8](/bible/psalms/90#v8)</sup> Thou hast set our iniquities before thee, our secret sins in the light of thy countenance.
+
+- We got to focus on this man in the mirror. Got to focus on this woman in the mirror. We got to be the same whether people are around or whether they're not. We got to keep that same energy whether people can see what we're doing or whether they can't. Why? Because the eyes of the Lord are 10,000 times brighter than the sun. There's no such thing as something done in secret. So the same way you would conduct yourself when people are around is how you need to conduct yourself when no one is around.
+
+- Our secret sins in the light of thy countenance: our secret sins have been set in the light of God's countenance. So brothers, sisters, let's make sure we're getting rid of our secret sins. Let's hold ourselves accountable to God's laws whether people are around or whether we are alone and no one's looking.
+
+
+## In Closing
+
+*[[21:10](https://www.youtube.com/watch?v=ABhs0iJ-XrU&t=1270s)]* I'm Captain Yahoshua. This is 15 minutes with the Captains. Shalom.
+
+---
+
+[15 Minutes Index](/captains) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=ABhs0iJ-XrU)
