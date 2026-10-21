@@ -14,3 +14,9 @@ test('a broken place fails the content gate',()=>{
   const problems=validatePlaces(changed).join(' ');
   assert.match(problems,/verses must be/);assert.match(problems,/coords must be/);assert.match(problems,/names must include/);
 });
+test('coordinates must be numbers',()=>{
+  for(const coords of [[null,null],['1','2']]){
+    const changed=structuredClone(doc);changed.places[1].coords=coords;
+    assert.match(validatePlaces(changed).join(' '),/coords must be/);
+  }
+});
