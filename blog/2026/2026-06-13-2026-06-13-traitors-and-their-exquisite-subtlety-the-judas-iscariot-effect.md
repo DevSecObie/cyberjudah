@@ -27,9 +27,59 @@ We are in a very fascinating time. I call it the transition. America went from b
 
 > <sup>[25](/bible/sirach/19#v25)</sup> There is an exquisite subtilty, and the same is unjust; and there is one that turneth aside to make judgment appear; and there is a wise man that justifieth in judgment.
 
-- This scripture inspired the class. There is an exquisite subtlety, and the same is unjust. Definitions read in class: exquisite describes something of flawless craftsmanship, delicate beauty, or rare and appealing excellence, of special beauty or charm; subtle describes something delicate, precise, or difficult to perceive, details and changes that are not immediately obvious and require careful thought and close attention to notice. I will add something to the dictionary's list of a face, a flower, coloring, music, or poetry: a doctrine. The way certain doctrine is being taught is deceptive; it appears charming and appealing, and you cannot catch on.
-- When you teach things like nation salvation, that the nations are going to be saved, to our people who have a slave mentality that is an appealing, charming doctrine. Many have low self-esteem and low self-worth, and they seek salvation for their enemies while their enemies have them captive. You want heaven for your enemies while you are in their hell? That is a slave mind.
-- As an Israelite you cannot outright say, I am teaching Christianity. So you have to be very cunning, very slick, very wordy. They will say, we do not teach Christianity; but the nations are going to be saved, though. Then you are teaching Christianity.
+- This scripture inspired the class. There is an exquisite subtlety, and the same is unjust.
+
+<div class="reading">
+
+Reading from a definition of exquisite, looked up in class  *[[12:49](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=769s)]*
+
+> Exquisite. Exquisite describes something of flawless craftsmanship, delicate beauty or rare, consummate excellence. It usually refers to things carefully crafted or highly refined like jewelry, a painting or a mill. But, it can also describe intense, acute feelings like exquisite pain.
+
+- So, go back up again. Something of flawless craftsmanship, delicate beauty or rare, consummate excellence. So, what I want to focus on is the exquisite craftsmanship. The beauty of it, how it allures.
+
+> Key definitions and meanings. Delicate and beautiful.
+>
+> Extremely pleasing to the senses, often due to intricate or delicate design.
+
+- Right. Very very very detailed, very intricate.
+
+> Flawless craftsmanship. Perfect. Masterfully executed. The carvings on the wooden doors featured …
+
+</div>
+
+<div class="reading">
+
+Reading from dictionary.com, on exquisite  *[[14:02](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=842s)]*
+
+> Of special beauty or charm, or rare and appealing excellence, as a face, a flower, coloring, music, or poetry.
+
+- Or I'll add something, a doctrine. A doctrine. Because the way the doctrine's being taught is in a way where you can't catch on. It's very deceptive. It's beautiful the way it's being presented. It appears beautiful. It's appealing. It's charming. I won't say beautiful. That's the opposite of the doctrine I'm talking about. I'll say it's more charming. It's appealing.
+
+- So, when you teach things like nation salvation, right? You go into that. Nation's going to be saved. There's some good ones. To the coons out there and our people who have Stockholm syndrome and have a slave mentality, to them that is an appealing or charming excellent doctrine. Wow, brother. You're coming around. Finally. Yeah, the nation's going to be saved. I always knew that. It's charming. It's exquisite. It's appealing. Alluring. Seductive.
+
+- Cuz many of you have low self-esteem, low self-worth, and you seek salvation for your enemies while they have you captive. That's a slave mind. And when you want heaven for your enemies while you're in their hell? That's a slave mentality.
+
+- So, what you'll do is, as an Israelite you can't outright say, "Hey, I'm teaching Christianity." So, you have to be very very cunning and very slick and very very wordy and so on and so forth.
+
+</div>
+
+<div class="reading">
+
+Reading from a definition of subtle, looked up in class  *[[16:14](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=974s)]*
+
+> Subtle. Describes something delicate, precise, or difficult to perceive.
+
+- Right there. Remember, the word exquisite also had the same word, delicate. Appealing.
+
+- Difficult to perceive.
+
+> It refers to details, distinctions, or changes that are not immediately obvious and require careful thought, keen perception, or close attention to notice.
+
+- Because the person is teaching it, I'm teaching it in an exquisite fashion. So, they'll say things like, "Yeah, we don't teach Christianity." But the nation is going to be saved, though. Well, then you are teaching Christianity. No, no, we're not. No, no, no, no, no. They are teaching that.
+
+- So, you have a number of different groups. You have groups like that that are Israelites that are slowly converting somewhat into Christianity. You have modern Christians that are somewhat converting to the truth. And then you have individualites who hate camps. They all tie together.
+
+</div>
 
 **[Matthew 13:21](/bible/matthew/13#v21)**  *[[17:29](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=1049s)]*
 
@@ -247,6 +297,54 @@ We are in a very fascinating time. I call it the transition. America went from b
 - Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee. But these speak evil of those things which they know not: what they know naturally, as brute beasts, in those things they corrupt themselves.
 - Woe unto them! for they have gone in the way of Cain: they hate their brothers and sisters. And ran greedily after the error of Balaam for reward: money. And perished in the gainsaying of Core: they want position, they want rank, they want preeminence.
 
+<div class="reading">
+
+Reading from an SPLC article  *[[1:42:12](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=6132s)]*
+
+> In this article, in their own words, background, core beliefs.
+
+- This was, I believe, a SPLC article, which SPLC now was a hate group now officially. They got destroyed for their hate and prejudice among themselves. But, there's other organizations like them that are doing the same thing. Gathering intel about us and so on and so forth. I want you guys to pay close attention to this article. In their own words, background, core beliefs.
+
+> Since the late 1960s, the radical Hebrew Israelites ideology splintered to form increasingly anti-Semitic, anti-white, anti-LGBTQ, xenophobic, and misogynistic sect of groups who preach they and only they are the true Israelites of the Bible
+
+- Now, there's one word there. It's radical. The radical. Because there's other Israelites, Hebrew Israelites that are black, but they're friendly. The radical ones.
+
+> and perpetuate the anti-Semitic belief that so-called Jews have stolen their identity and birthright.
+
+> Disclaimer. SPLC uses the term radical Hebrew Israelite to differentiate from the greater Hebrew Israelite faith.
+
+- See that? So to make a difference, a distinction.
+
+> Hebrew Israelites should not be confused with black Jews or Jewish individuals of color.
+
+- Have black people that wear the yarmulkes, that converts to Israeli Judaism. Khazarian Judaism. And so, these are the outliers, saying these are outliers. These are the good ones over here. The ones that converted and accept us as real Jews and they're kind and they're converts, they're not radical like them. They accept us as Jews and love everybody.
+
+- Mind you, you got Israelis over there spitting on Christians, sterilizing black women over there in Israel, sterilizing us for the last 20 years, sterilizing us, dropping bombs on men, women and children in Gaza and Iran. Isn't that anti-Semitic, too? You dropping bombs on Ishmaelites, dropping bombs on Persians. Those are Semites. Is that anti-Semitic, too?
+
+> SPLC no longer refers to these groups as solely black Hebrew Israelites,
+
+- So they stopped saying that now.
+
+> as there are Latin and indigenous members of these groups.
+
+- See? So they can't say black no more cuz they got Hispanics and Native Americans among them now. So they're trying to do what? Adapt.
+
+> And there are non-radical sects of the Hebrew Israelite faith who identify as black Hebrew Israelites.
+
+- The good ones, the friendly Negroes. Play it safe Israelites.
+
+> The continued struggle of black indigenous people of color, BIPOC, in America can find clear similarities in the narrative of Judaism, particularly the book of Exodus, persecution, displacement, and enslavement.
+
+- That's all I want. So, the point I want to add to that was there's a differentiation between the black Israelites that are converts and the radical ones. Who do you think the radical ones are? This room, us. We fall under radical. And if we're radical, then we're anti-American.
+
+- If we're anti-LGBTQ, the Bible is anti-LGBTQ. The Bible's anti-LGBTQ. The Bible's not anti-Semitic at all cuz it is Semitic. It's written by Semites. But the Bible is not seen as phobic at all.
+
+- But they're going to use these words, these trigger words. These are all trigger words. Anti-white, the Bible's anti-white supremacy. Anti-LGBTQ, xenophobic means you hate races. That's not true. We hate men. We are men. Misogynistic means you hate men. So, this is madness. But these are all trigger words, trigger words.
+
+- So, because of this here, they're passing laws to make it where we can't... Oh, also we consider it anti-MAGA. This truth for teaching is going to become anti-MAGA. Anti-Trump, pretty much.
+
+</div>
+
 **[2 Corinthians 4:1-2](/bible/2-corinthians/4#v1)**  *[[1:46:57](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=6417s)]*
 
 > <sup>[1](/bible/2-corinthians/4#v1)</sup> Therefore seeing we have this ministry, as we have received mercy, we faint not;
@@ -259,7 +357,6 @@ We are in a very fascinating time. I call it the transition. America went from b
 - The same panel called the doctrine hate and reverse racism. Black people cannot reverse racism, ever, and here is why: racism requires power. Redlining requires power; segregation, Jim Crow, and anti-mixing laws require power; unequal sentencing requires power; the string of our people found hanged while the cases are closed without trial requires power. Reverse it only when the system is under black government and black institutions, which is not the case. We are for our people; nothing is wrong with that.
 - The panel also demanded, how do you know what tribe you are from? Do they ask the Israelis that question? Ask the leaders over there what tribe they are from. All the questions are for us, none for them. That is cowardice.
 - So Paul's words apply: we have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully. Teaching we are the chosen people of God while cutting away God's laws is handling the word of God deceitfully; exquisite subtlety.
-- News article read in class: an advocacy organization's write-up on "radical" Hebrew Israelites, with a disclaimer distinguishing them from the "greater Hebrew Israelite faith" and from black converts to Judaism. Notice the game: there are approved, friendly Israelites, and then there are the radicals, meaning rooms like this one. The labels are trigger words: the Bible is against white supremacy, the Bible is against LGBTQ conduct, and the Bible cannot be antisemitic because it was written by Semites. And note who levels the charge while bombing Ishmaelites and Persians, who are themselves Semites. Because of articles like this, laws are being drafted to make this teaching effectively anti-American.
 
 **[Acts 20:28-31](/bible/acts/20#v28)**  *[[1:47:59](https://www.youtube.com/watch?v=j2FoUSpuWIs&t=6479s)]*
 

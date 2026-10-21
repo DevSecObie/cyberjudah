@@ -155,7 +155,17 @@ We understand the principles of nourishment: you eat every day, because if you d
 
 - Meditation is not something you do once in a while, and not only when you are dealing with something. Meditate means to think upon it, muse upon it, keep it with you. Do not just read it and check it off.
 - In verse 1 he walketh not in the counsel of the ungodly, he standeth not in the way of sinners, he sitteth not in the seat of the scornful. But verse 2 is how he accomplishes that: his delight is in the law of the Lord, and in his law doth he meditate day and night. Because of the way he is nourished in his spirit, he does not even want to sit among the ungodly.
-- Consider why murmurers feel comfortable coming to you. Quote read in class: "Don't tell me what they say about me. Tell me why they feel comfortable telling you." You have to question that and examine it. Why is somebody so comfortable coming to you with something you know in your spirit is not right to be spoken? If your delight is in the law of God, you will be instant in season with that correction the minute you hear evil.
+- Consider why murmurers feel comfortable coming to you. If your delight is in the law of God, you will be instant in season with that correction the minute you hear evil.
+
+<div class="reading">
+
+Reading from a quote Bishop brought out last week  *[[52:38](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=3158s)]*
+
+> Don't tell me what they say about me. Tell me why they feel comfortable telling you.
+
+- Right. You got to question that. You got to examine it. Why is somebody so comfortable coming to you with something that you know in your spirit is not right to be spoken. There's a right way to deal with things and a right way to hear stuff and handle it. That's how you don't find yourself in the situation that you're sitting there. That's a meditation for you right there.
+
+</div>
 
 **[Joshua 1:8](/bible/joshua/1#v8)**  *[[53:23](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=3203s)]*
 
@@ -208,7 +218,21 @@ We understand the principles of nourishment: you eat every day, because if you d
 > <sup>[41](/bible/matthew/26#v41)</sup> Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.
 
 - Watch and pray, that ye enter not into temptation. He is giving you other words for Galatians 5:17: the spirit indeed is willing, but the flesh is weak. And we must embrace that. You know when you are hungry physically; some of you are just so accustomed to having food in your mouth. How come those same instincts do not move over to the scriptures? You will go from level one to level five in the best ways possible if you just apply what the Lord intended from the beginning.
-- The wilderness was an opportunity not just to hear the word, but to apply it and consume it. There is a didactic portion of learning, and then there is application. Definition read in class: didactic refers to the theoretical instruction of concepts through lectures, readings, or structured lessons; application is the hands on execution of those theories, testing knowledge through practical experience. Like an electrician or a plumber: you go through the books, but on the job you are an apprentice, then a journeyman. The same principles apply in this walk. Every time you go through the repetition, it reinforces, and the Most High establishes your mind, so that when the problem comes up, you are instant in season and out of season.
+- The wilderness was an opportunity not just to hear the word, but to apply it and consume it. There is a didactic portion of learning, and then there is application. Like an electrician or a plumber: you go through the books, but on the job you are an apprentice, then a journeyman. The same principles apply in this walk. Every time you go through the repetition, it reinforces, and the Most High establishes your mind, so that when the problem comes up, you are instant in season and out of season.
+
+<div class="reading">
+
+Reading from on-screen text on didactic learning  *[[1:09:56](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=4196s)]*
+
+> Didactic refers to the theoretical instruction of concepts, usually through lectures, readings, or structured lessons. Application is the hands-on execution of those theories, testing knowledge through practical experience,
+
+- Testing, proving.
+
+> case studies or simulations.
+
+- Right. So, it's two part. I'm not simply saying read. But if you don't have that in your mind when the time comes for you to do the proper application, you're going to fall short. And we understand those concepts for job training, for everything else, but then we seem to lose them when it comes to our walk. We got to be mindful of those things.
+
+</div>
 
 **[Romans 8:5-6](/bible/romans/8#v5)**  *[[1:10:45](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=4245s)]*
 
@@ -361,8 +385,65 @@ We understand the principles of nourishment: you eat every day, because if you d
 - But whoso looketh into the perfect law of liberty, and continueth therein: that is the part we glaze over. Continueth therein is the daily. Class was fire, and then there is nothing else all week; you do not continue therein. He being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed. Remember Joshua 1:8: meditate, do not let it depart, and then thy ways will prosper.
 - The harmony of all the scriptures: different forefathers separated by years and spaces of time, and yet they all spoke on one accord. These scriptures are powerful.
 - On fasting: we often speak about fasting as denying your body basic sustenance, showing you the power to abstain from sin. Think about it in reverse: the hunger and thirst you feel when you fast is what is happening to your soul when you do not give it this word every day. When the headache comes, when you cannot think right, when it is blurry and hazy, that is how your soul feels when you deny it God's word. It is hungry, it is tired.
-- Definition read in class: neuroplasticity is the brain's lifelong capacity to adapt, reorganize, and rewire its physical structure and functional connections in response to learning and new experiences; connections between neurons strengthen or weaken depending on how often they are used. Science observed what God already had in place. The stuff you feed gets stronger, and the stuff you do not nourish gets weaker. Feed the flesh, the flesh stays strong; feed the spirit, the spirit gets strong and overcomes the flesh. There is a physical change in your brain when you start repenting, and you maintain it by nourishing it daily.
-- Significant rewiring requires constant, repetitive, and often difficult stimulation, which can become exhausting and difficult to maintain. When Paul said the flesh fights against the spirit, there is a literal process going on every day that makes it exhausting. That is why the scripture says lift up the hands which hang down, and the feeble knees, and be not weary in well doing. There will be days when you are tired, and everything is hard, and it is hard to pick up this book. That is when even more you have to press.
+- There's a term called neuroplasticity. These are observations that science makes. They didn't create these things. This is stuff that God already had in place, knowing our bodies and how they work. And now, science puts names to them. If you doubt the spiritual power of every day in these verses, to really change the person you are, to be that inner man, that Christ spirit.
+
+<div class="reading">
+
+Reading from on-screen text on neuroplasticity  *[[1:45:00](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=6300s)]*
+
+> Neuroplasticity, or brain plasticity, is the brain's lifelong capacity to adapt, reorganize, and rewire its physical structure and functional connections in response to learning, new experiences, or injury. This continuous process allows neurons to form new pathways and shed old ones throughout your entire life.
+
+- Right. So, you have the ability to really change who you are at any point in life. It becomes more challenging the older you get, the more programmed you are into things, but there's never a point where you can't turn back from it.
+
+> How it works. Synaptic plasticity: the ability of the connections, synapses,
+
+- That's the connections in your brain.
+
+> between neurons to strengthen or weaken over time, depending on how often they are used.
+
+- So, when our forefathers were talking about how they strengthen their spiritual and they killed the old, because I'm going to jump into the dying man and how we die daily here in a minute. When you start thinking about that, science tells you this is a real phenomenon in your body that's happening. The stuff you feed gets stronger and the stuff that you don't nourish gets weaker over time.
+
+- Depends on how they're used. Feed the flesh, the flesh stays strong. Feed the spirit, the spirit gets strong and overcomes the flesh.
+
+> Structural plasticity: the brain's actual physical structure changes.
+
+- There's a physical change in your brain when you start repenting. Your brain starts changing its structure and function. And you maintain that by continuing to nourish it daily.
+
+> For example, learning a new instrument or language can physically alter and expand the gray matter in relevant brain areas.
+>
+> Neurogenesis: the generation of entirely new neurons.
+
+- New things happen in your brain. Now, I think I got the verse later when it says every day is new. That the spirit day by day has a newness to it.
+
+> While historically thought impossible in adults, research has shown this occurs in specific regions like the hippocampus, associated with memory and emotion.
+
+- Right. So, what you feed. That's why we tell you, ah, you're still dealing with your trauma. You keep bringing all that stuff. You feed that thing. You live in the past, and then you wonder why these things can't be put past you.
+
+> Why it matters. Learning and memory: every time you acquire a new skill or memorize information, your brain rewires itself to store and access that knowledge. Rehabilitation: following injuries such as a stroke or traumatic brain injury, neuroplasticity allows healthy areas of the brain to take over functions that were lost.
+
+- So, here's one thing you have to realize. And this goes back to why it has to be daily. Letting you know there's a physically observable thing that they've seen in the brain that God already provided for and told us. That's why I say they observed it. And then they gave it its own names. God already classified it and told you that it's happening.
+
+> Energy and time constraints. Significant rewiring
+
+- Significant, and it's significant to really put that old man to bed.
+
+> requires constant,
+
+- Constant, daily.
+
+> repetitive
+
+- Daily.
+
+> and often difficult stimulation,
+
+- Right, because you're looking into something and you're seeing things about yourself that you have to be able to accept in the scriptures and say, this is wrong, and I need to change this, and more importantly, that I want to change it.
+
+> which can become exhausting and difficult to maintain.
+
+- And it can become exhausting. And it's difficult to maintain. That's that fight. So, when Paul said the flesh fights against the spirit, we kind of glaze over that. There's a literal process that's going on in your brain every day that makes it exhausting and difficult to maintain. That's why the scripture says, the feeble knees, the faint hands, don't be weary in well doing. You'll get to a point in this walk and there's going to be days where you feel tired, and I don't mean sleepy. Everything's going to suck, and it's going to be hard to pick up this book and open that and fill yourself with that. Because you're tired. But that's when even more you got to press. That's when even more you got to press.
+
+</div>
 
 **[Psalms 1:2](/bible/psalms/1#v2) and [Ecclesiasticus 14:20](/bible/sirach/14#v20)**  *[[1:52:53](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=6773s)]*
 
