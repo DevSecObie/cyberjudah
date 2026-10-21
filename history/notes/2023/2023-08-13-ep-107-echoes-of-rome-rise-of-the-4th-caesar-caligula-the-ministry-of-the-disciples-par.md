@@ -1,0 +1,1037 @@
+---
+title: "Echoes of Rome: Rise of the 4th Caesar Caligula: The Ministry of the Disciples Part III"
+slug: "2023/2023-08-13-ep-107-echoes-of-rome-rise-of-the-4th-caesar-caligula-the-ministry-of-the-disciples-par"
+date: "2023-08-13"
+episode: 107
+teacher: "Officer Jazz"
+description: "Our Hidden History · 2023-08-13 · Officer Jazz, with Officer Abdon, Officer Manny and Officer Hezekiah"
+tags: ["Our Hidden History", "leadership", "nations"]
+---
+
+<p class="taught">Our Hidden History · 2023-08-13 · Officer Jazz, with Officer Abdon, Officer Manny and Officer Hezekiah</p>
+
+<span class="opens"><b>Opens</b> [1 Kgs 4](/bible/1-kings/4) · [1 Chr 25](/bible/1-chronicles/25) · [1 Chr 15](/bible/1-chronicles/15) · [1 Sam 10](/bible/1-samuel/10) · [Sir 6](/bible/sirach/6) · [Jer 10](/bible/jeremiah/10) · [Isa 46](/bible/isaiah/46) · [Ps 105](/bible/psalms/105) · [Baruch 3](/bible/baruch/3) · [Deut 4](/bible/deuteronomy/4) · [Acts 6](/bible/acts/6) · [Acts 9](/bible/acts/9) · [Titus 1](/bible/titus/1) · [Eccl 1](/bible/ecclesiastes/1) · [Acts 2](/bible/acts/2) · [Jer 5](/bible/jeremiah/5) · <i>and 8 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="JYg5vxhY1MA"></div>
+
+## Introduction
+
+*[[3:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=230s)]* Israel, can you hear us? Type yes. All right, sorry Israel, we dealing with some technical difficulties that should have been handled before. All right, so they can hear us. Let's just go.
+
+*[[4:24](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=264s)]* All right, so welcome back, welcome back to Our Hidden History. All right, I'm Officer Jazz, and I have here another officer, Officer Abdon, Officer Manny, Officer Hezekiah. Right. I want to give a shout out to Officer Manny. My man is a married man now. That's right. All praise the Most High. He looked different. Feels good? It feels good, man. Married life, huh? Feels good so far. All right, just the beginning, you know what I mean. But all praises, man. All praises. All praise the Most High, bro.
+
+*[[5:00](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=300s)]* So we're gonna recap what we went over two weeks ago. We dealt with Caligula. All right, so we dealing with the fourth emperor, the fourth Caesar, the fourth Caesar of the twelve Caesars. Okay, so Caligula was the fourth Caesar, and we dealt with him two weeks ago, the last time we was on. And also we was dealing with the disciples, and we also showed that Christ wasn't the only one that gathered disciples around him. All right, so what I did, I went back in history to prove that. We went back in history to prove that the other major prophets, they also gathered disciples around them also. So let's go back to the page with Samuel. So he's gonna do a little recap and then we're gonna move on. All right, bring that page up for me. Read that top part. No, go down, for the schools.
+
+## Readings and Scriptures
+
+
+<div class="reading">
+
+Reading from *History of the Jews* by Heinrich Graetz, volume one, on Samuel's schools  *[[5:40](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=340s)]*
+
+> Long before Plato had gathered his disciples around him,
+
+- Go straight to the point. Go over to the next column.
+
+> In Samuel's schools by Ramah, we may assume, were trained under their renowned master David, Gad, Nathan, Heman, and others, whose names as writers, prophets and teachers subsequently became famous after the days of Samuel.
+
+- You see that? So you had David, Gad, Nathan, Heman and others whose names as writers, prophets and teachers, they became famous. They became famous. But what we want to focus on is that they were under Samuel. They was in his school. All right, they was in his school. They were the sons of the prophets. All right, that's what they were: Samuel's disciples. The men that we read about in Kings, Second Kings and so forth, they were under Samuel. The men that we read about in First Samuel, Second Samuel. King Saul was under Samuel; he went to his school. They were all brought up in the law, in the history and so forth, under Samuel.
+
+- All right, read it again. In Samuel's schools by Ramah, we may assume, were trained under the renowned master David. King David. King David was under Samuel. Gad, his prophet that he had next to him. Gad. Nathan. Nathan, remember, Nathan was the one that brought the parable to King David after he committed adultery and killed Uriah. That was Nathan the prophet. Heman. Heman was a musician; we went over that. Officer Abdon gonna go further into that.
+
+- And others whose names as writers, prophets and teachers subsequently became famous after the days of Samuel. So these men, these students, these scholars, became famous after the days of Samuel. Why? Because they all came up, that generation right there came up under Samuel. That was King David's generation, under Samuel. Okay.
+
+> During the reigns of David and Solomon, and of the earlier kings of Israel and Judah after the separation, prophets are frequently mentioned, sometimes by name, as in the case of Gad and Nathan; sometimes we hear of a nameless prophet. We have to wait, however, until the days of Elijah and Elisha before we meet with a further allusion to these prophetic schools.
+
+- Right. All right, all praises. So let's go back to Heman. Officer Abdon, give me First Kings chapter four. Let's go back to Heman. First Kings chapter four, verse 31.
+
+</div>
+
+**[1 Kings 4:29-31](/bible/1-kings/4#v29)**  *[[9:09](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=549s)]*
+
+> <sup>[29](/bible/1-kings/4#v29)</sup> And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore.
+>
+> <sup>[30](/bible/1-kings/4#v30)</sup> And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
+
+- Read up, verse 29, so we know who we talking about. So King Solomon's wisdom excelled all the wisdom of all the children of the east country. Read on.
+
+> <sup>[31](/bible/1-kings/4#v31)</sup> For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.
+
+- So these men that was named here, Ethan the Ezrahite and Darda, the sons of Mahol, they all most likely went to the school under Samuel. That was most likely King David's generation. As you see, Heman is there. Heman was in the school. All right, so Heman. You want to bring that up?
+
+- **Officer Abdon:** Yes. So like we was talking about last week, Heman was the grandson of the prophet Samuel. So he was raised in the school, and raised up right under Samuel. So he was a wise man. And we talked about it last week, about three specific men that went to those schools, that were right under David as advisors. So read First Chronicles 25 and 1 real quick.
+
+**[1 Chronicles 25:1](/bible/1-chronicles/25#v1)**  *[[11:05](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=665s)]*
+
+> <sup>[1](/bible/1-chronicles/25#v1)</sup> Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
+
+- **Officer Abdon:** The sons of Asaph. So Asaph was one. And of Heman. Heman was the second; that's what we just read in First Kings. And of Jeduthun. So these three were singers, prophets and wise men, even those two being compared to Solomon. And what we talked about last week was Ethan. Ethan is actually Jeduthun. So let's pull up that book. Can we get that book really quick?
+
+<div class="reading">
+
+Reading from *Who's Who in the Bible*, the entry on Jeduthun  *[[11:57](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=717s)]*
+
+> Jeduthun. Praiseworthy. 10th century BC. Temple choir leader. He was a Levite and came from the town of Netophah. In the time of David he was put in charge of the sacred music of the temple service.
+
+- **Officer Abdon:** That's the book *Who's Who in the Bible*. This is a good book to get, especially when you're reading the Kings and Chronicles, you're trying to find out who's who, the names. So remember those three names we talked about: Asaph, Heman and Jeduthun. So he was in charge of all the music. You're gonna read about that later. Jeduthun, the one of those three men, three advisors of David, was in charge of all the music that was played before the Lord in the tabernacle. Go ahead to the next page.
+
+> He is mentioned as being the leader of one of the three music guilds.
+
+- **Officer Abdon:** What's the three music guilds? Asaph, Heman and Jeduthun. They were the three music guilds, the three leaders of the music that was played before the Lord. Can we pull up that other picture I posted of Psalms 39? Because remember, it says he's the leader. When y'all read in the Psalms, if you look at the titles, they give a lot of information. So read that really quick.
+
+- **Officer Abdon:** Psalm 39: To the chief Musician, even to Jeduthun. So you see, he says the chief. Why? Because he was the chief of those three, Asaph, Heman and Jeduthun. So all the music that was written was given to Jeduthun. So David would write a song, he would give it to Jeduthun, and Jeduthun would have the choir perform it for the Lord. All right, let's go back to the book. So remember when we talk about First Kings 4, it said Heman and Ethan. Go ahead, read the rest of it.
+
+> Ethan is mentioned in some accounts in connection with temple music, and scholars have suggested that this might be a variant of the name of Jeduthun.
+
+- **Officer Abdon:** So Ethan, like we read in First Kings 4:31, is Jeduthun. That is Jeduthun. Let's pull up the other page I sent, of First Chronicles 25 and 6. So remember, those three men were very, very important in David's times. They weren't only just musicians; they were prophets.
+
+</div>
+
+**[1 Chronicles 25:6](/bible/1-chronicles/25#v6)**  *[[14:27](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=867s)]*
+
+> <sup>[6](/bible/1-chronicles/25#v6)</sup> All these were under the hands of their father for song in the house of the Lord, with cymbals, psalteries, and harps, for the service of the house of God, according to the king’s order to Asaph, Jeduthun, and Heman.
+
+- **Officer Abdon:** So this is First Chronicles 25 and 6. If you have the Cambridge Bible, you'll be able to see the number that we're about to read. According to the king's order. So if you look at the number six, it says according to the king's order. Read what it says in six: by the hands of the king. That's the hands of the king. Like y'all watch in the movie *Game of Thrones*, and they have a hand. These three were the hands of King David, advisors of King David, and they were over the music. Okay, so let's go to First Chronicles 15, verse 17, just to show that that name is switched with Ethan throughout the scripture, and then we're gonna go to verse 19.
+
+**[1 Chronicles 15:17](/bible/1-chronicles/15#v17)**  *[[15:10](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=910s)]*
+
+> <sup>[17](/bible/1-chronicles/15#v17)</sup> So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;
+
+- **Officer Abdon:** So the Levites appointed Heman the son of Joel. So that's the first one, Heman. And his brethren, Asaph. And Asaph the second. And of the sons of Merari their brethren, what did he name him? Ethan. So that is Jeduthun. You see, it switched them. It was the three, Asaph, Heman and Jeduthun, but now it says Ethan. Now read verse 19.
+
+**[1 Chronicles 15:19](/bible/1-chronicles/15#v19)**  *[[16:05](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=965s)]*
+
+> <sup>[19](/bible/1-chronicles/15#v19)</sup> So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass;
+
+- **Officer Abdon:** So those are the three: Heman, Asaph and Ethan. Now, like it says, they were singers. So in the Psalms you can actually see on the titles who made which songs, for the most part. When you read in the Psalms of a hundred and up, a lot of them might not have titles. But let's go to that screenshot I sent, chapter 77. So these titles are very important; they give more information. So you see, whenever a song was written it would be given to Jeduthun. Read the top.
+
+- **Officer Abdon:** Psalm 77: To the chief Musician, to Jeduthun, A Psalm of Asaph. Asaph. So Asaph actually wrote the most out of those other two men, Heman and Ethan. Asaph wrote Psalm 50 and Psalm 73 all the way to 83. So a lot of Psalms that we read a lot in scripture, we pull in the streets, right? Guess what, some of them was Asaph. All right, go to Psalms 88.
+
+- **Officer Abdon:** Psalm 88: A Song or Psalm for the sons of Korah. The sons of Korah is the sons of Asaph, so this would be given to the sons of Asaph to sing. To the chief Musician upon Mahalath. Chief musician is Jeduthun, so it was given to Jeduthun. Mahalath is a harp or a guitar. Okay, upon Mahalath.
+
+- **Officer Jazz:** What, you took a picture of your whole Bible?
+
+- **Officer Abdon:** Nah, some parts, bro.
+
+- **Officer Jazz:** We could have just read it.
+
+- **Officer Abdon:** But I just wanted to see the titles on the screen.
+
+- **Officer Jazz:** My man screenshotted his Bible. Go ahead.
+
+- **Officer Abdon:** So it means it was just composed upon the harp. Go ahead. Maschil of Heman the Ezrahite. Heman is what we just read about, the grandson of Samuel. And remember how it said in First Kings 4 that these were wise men. Maschil means instructional lesson, and wisdom. So it's telling you this was wise words from Heman. All right, and read the last one, Psalms 89. The title: Maschil of Ethan the Ezrahite. That's Jeduthun again. Wisdom, the lesson in wisdom of Ethan. So that's why in First Kings 4 it was saying that Solomon was even wiser than him, than Ethan.
+
+- Right, right. All praises, all praises. That's some good stuff right there. It's only right that you bring it out, the musician. All praises. Hey, I got that page, bring that up real quick. Let's get some more King David and then we're gonna move on. We're gonna go back to the disciples and their ministry during the Roman captivity. All right, bring that page up. Go down to the bottom. All right, start there. Do me a favor, scan the next page as you read this, because it goes on.
+
+<div class="reading">
+
+Reading from a history book on David in Samuel's school (the book isn't named for this reading)  *[[19:30](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1170s)]*
+
+> Samuel returned to Ramah as secretly as he had left, but he kept an eye on the youth whom he had anointed, and drew him into the circle of his disciples.
+
+- So it is, when King David became drawn into the circle of disciples of Samuel. After he got anointed to become king, then Samuel kept the eye on him, kept the watchful eye on him, and brought him into the school.
+
+> Here David's poetic talents were developed.
+
+- So in the schools his poetic talent, his writing skills, were developed.
+
+> Here he was able to perfect himself in the use of musical instruments,
+
+- And also just like we have today, we have brothers and sisters that's able to perfect their musical talents. Okay. Which is the original royalty. You got brothers and sisters that's able to perfect their musical talents under God and righteousness.
+
+> but he learned something more in Samuel's surroundings.
+
+- Read.
+
+> He learned to know God.
+
+- So in the midst of him perfecting his musical talents, being around the other brothers and so forth, he also learned to know who God was at the same time.
+
+> His spirit was pervaded with the divine presence,
+
+- So that Spirit came upon him. Remember, give me First Samuel 10 and 6.
+
+</div>
+
+**[1 Samuel 10:6](/bible/1-samuel/10#v6)**  *[[20:28](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1228s)]*
+
+> <sup>[6](/bible/1-samuel/10#v6)</sup> And the Spirit of the Lord will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
+
+- So this is what's happened to King David. Once he came under Samuel and perfected his talents in his arts of music, he also learned to know God. That Spirit came upon him, that Holy Spirit came upon King David, and guess what, he started to become changed into another man now. Okay, he started to become another man. Read.
+
+<div class="reading">
+
+Reading from the same book, on David in Samuel's school  *[[21:22](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1282s)]*
+
+> His spirit was pervaded with the divine presence, and became instinct with that piety which refers all things to God, and submits in all things to divine guidance. This reliance on God had been awakened and strengthened in him by the influence of Samuel.
+
+- You see that? Because Samuel was teaching them then. Just like today, we got the leadership, how they teach us. That's right. They strengthen us and influence us to go out and teach our people. The same thing was happening during this time, under Samuel.
+
+> David frequently journeyed from Bethlehem to Ramah, and from Samuel's house to the
+
+- So he was traveling back and forth to the schools, checking up on the different schools. Same thing today with the leadership, how they go back and forth. Even with the disciples, with Paul, he was confirming the schools, making sure everything was in order. This was happening at that time. Read.
+
+> flocks of his father. The noble courage with which his anointment and the influence of Samuel inspired him did not desert him when he tended his flocks in the meadows of Bethlehem.
+
+- Read that part again. So the inspiration that God gave him through Samuel, King David, it did not desert him. All right, it did not desert him. He kept God's laws. He kept God's laws. All right, go ahead.
+
+> When war with the Philistines broke out
+
+- He was always in the spirit. He stayed in the spirit, King David. He studied, prayed and applied. Read.
+
+> in the neighborhood of Bethlehem, David can no longer remain the shepherd of his flocks, and he gladly undertook to deliver a message to his brothers who were serving in the army.
+
+- All right, that's it.
+
+- **Officer:** That shows how, because David was around basically the leadership all the time. He was around the leadership, and that's how he became even more acquainted with Samuel's grandson. Had to have even closer relations.
+
+- **Officer Jazz:** Right, right. He was always around the leadership. Okay, he's always around the leadership, just like the Bishop was bringing out last night: gotta stay in the multitude of the elders. That was King David. Sirach chapter 6 and verse 34.
+
+</div>
+
+**[Sirach 6:34](/bible/sirach/6#v34)**  *[[23:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1430s)]*
+
+> <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
+
+- So that's what King David was doing at that time. He stood in the multitude of the elders, which was Samuel at that time. All right, read it again. So the same thing for us today. We got to stand in the multitude of the elders. We got to cleave to the leadership, man. That's what we got to do. All right, okay, because why? The leadership has over a hundred years together of knowledge in this Bible, man. Okay, so we gotta learn to cleave to them. Read it again. And we must cleave to them that are wise. All right, them that are wise.
+
+- *[[24:42](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1482s)]* From there, so we're gonna switch it up, we're gonna get back to the disciples. Matter of fact, no, we're not switching up right now. Hold on. Give me the book, Richard Watson, real quick. Matter of fact, no. Give me Solomon Grayzel, page 141. Solomon Grayzel, page 141 real quick. That's it, yeah, bring that up. So this is the book *A History of the Jews* by Solomon Grayzel. All right, leadership has brought this book out numerous of times. Go ahead.
+
+<div class="reading">
+
+Reading from *A History of the Jews* by Solomon Grayzel, 1940, page 141, on the results of religious success  *[[25:48](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1548s)]*
+
+> The results of religious success. The Jews began to write books and pamphlets in which they tried to prove the superiority of Judaism and the truth of God's promise to prefer the Jewish people above any others.
+
+- Read that again. The Jews began to write books and pamphlets. What that sound like today? So they was handing out pamphlets. We began to write books, and we had like the welcome home package. Right, yeah. Right, okay, the welcome home package. And we also have flyers, pamphlets. We was handing those out to prove our superiority: that look, we are the Israelites, that Christ is a black man. Go ahead, read it again.
+
+> So anxious were they for the world to believe that no good could come from paganism and that everything worthwhile must have a Jewish origin,
+
+- So everything, everything worthwhile must have a Jewish origin, meaning what? It began with us. Everything began with us. Hey, give me the scripture that says that we the former of all things. Jacob is the former. Yeah, Isaiah 45. Everything began with us. 43 or 45? Come on, brothers. One second, one second. Jeremiah 10 and 16. Oh, don't act like you found it. I just found it. Hey, give me that, Jeremiah 10:16.
+
+</div>
+
+**[Jeremiah 10:16](/bible/jeremiah/10#v16)**  *[[28:00](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1680s)]*
+
+> <sup>[16](/bible/jeremiah/10#v16)</sup> The portion of Jacob is not like them: for he is the former of all things; and Israel is the rod of his inheritance: The Lord of hosts is his name.
+
+- So our portion is not like the other nations. We are different. We're not regular people on the earth. Read. But we know what? He is the former of all things, but we are the former of all things. Everything. Right, so we are the former of all things. Read that part again. Go back to the book. Now read that bottom part into the next page.
+
+<div class="reading">
+
+Reading from Grayzel, continued on the next page  *[[29:08](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1748s)]*
+
+> So anxious were they for the world to believe that no good could come from paganism and that everything worthwhile must have a Jewish origin,
+
+- So guess what? They was pushing this truth on another level during this time, to prove that there was nothing good about paganism, about idol worship. So guess what we had to do? Pass out pamphlets and so forth. We had to go pass out flyers to prove that we were the superiority on the earth, just like we doing today. Read on.
+
+> that they made an effort to prove that the great Greek philosophers and the wisdom of the biblical books were in perfect agreement.
+
+- How? It ain't perfect agreement. Read.
+
+> Some of them went even further and asserted that Socrates, Plato and Aristotle had been influenced by the writings of Moses.
+
+- They got everything from the Bible. Everything from the Bible. So all the Greek philosophers and so forth, they was only quoting Moses and the other prophets. That's what they're saying. So Socrates, Plato and Aristotle, they were quoting Moses the whole time. Remember, our Patterns of the Past classes, we are pointing out that these were black men. Right.
+
+- **Officer:** Hey, Officer Jazz, there was actually a philosopher named Zeno, and there was another philosopher named Diogenes. He's actually quoted saying that Zeno was a dark-skinned man. And that was from that time.
+
+- **Officer Jazz:** Yes sir. Yeah, bro, that was us teaching Alexander the Greek. That was us teaching them.
+
+- **Officer:** But yeah, like he's saying, we are the former of all things. And they mentioning those men because he's saying, look, even though they went to a whole nother religion or so, because they're following the Greek customs, they still using the scripture, like we just read: Jacob is the former of all things. So everything is pulled from the scripture. All the movies, like the leadership goes into, is pulled from the scripture. The whole concept of a hero and the villain, the hero falling and then rising back up: it's talking about the children of Israel. So everything is just coming from the scripture. Nobody has no original thoughts. It's funny, when you know, people on the streets, they say, oh, why are you reading that Bible? That's man's book. You don't got your own thoughts? Nobody has their own thoughts. Right, especially now. Exactly. Nobody has their own thoughts. Everything comes from the scripture, because that was the first thing formed, the word of God. First thing.
+
+- **Officer Jazz:** All right. Isaiah 46, verse 9.
+
+</div>
+
+**[Isaiah 46:9](/bible/isaiah/46#v9)**  *[[32:31](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=1951s)]*
+
+> <sup>[9](/bible/isaiah/46#v9)</sup> Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,
+
+- He's saying, because I'm God and there's none else. Because why? If you remember the former things of old, it all starts with the God of Israel. Everything begins with the God of Israel. So he says remember those things. We read in Job, he says search the past of your fathers. Deuteronomy, same thing.
+
+- **Officer:** Hey, remember, I think Captain Joel brought it out with Josephus, in one of his classes, where it showed that Abraham taught the Egyptians.
+
+- **Officer Jazz:** Yeah, yeah. Abraham. We were the one that taught the Egyptians math. Mathematics, arithmetic. Okay, so that stuff, all the wisdom that came from us, from God, we was teaching other nations. That was our job anyway. Right, right. We just fell from doing our job because we broke God's laws.
+
+- **Officer:** I just had a scripture, it went out my head. It was about Joseph teaching the Egyptians or something. Psalms 105 and 17.
+
+**[Psalms 105:17-22](/bible/psalms/105#v17)**  *[[34:39](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2079s)]*
+
+> <sup>[17](/bible/psalms/105#v17)</sup> He sent a man before them, even Joseph, who was sold for a servant:
+>
+> <sup>[18](/bible/psalms/105#v18)</sup> Whose feet they hurt with fetters: he was laid in iron:
+
+- So this is when Joseph, when his brothers sold him into slavery. All right, go ahead.
+
+> <sup>[19](/bible/psalms/105#v19)</sup> Until the time that his word came: the word of the Lord tried him.
+>
+> <sup>[20](/bible/psalms/105#v20)</sup> The king sent and loosed him; even the ruler of the people, and let him go free.
+>
+> <sup>[21](/bible/psalms/105#v21)</sup> He made him lord of his house, and ruler of all his substance:
+>
+> <sup>[22](/bible/psalms/105#v22)</sup> To bind his princes at his pleasure; and teach his senators wisdom.
+
+- And to do what? And to teach his senators wisdom. To teach his senators wisdom. All right, so everything, like the book said, everything started with us, man. Everything. All right, just like with King Solomon, all the other nations was coming to hear him. Right, yeah.
+
+- *[[35:34](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2134s)]* All right, now let's get that page real quick. Bring it up. With Socrates. No, read the top, bro, so we know we talking about Socrates. All right, so at the top, Socrates. Now go down to the blue highlight.
+
+<div class="reading">
+
+Reading from a page on Socrates (the book isn't named)  *[[35:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2150s)]*
+
+> As to his person, he was very homely, was bald,
+
+- So as to Socrates' person, how he looked. So he was bald. Read.
+
+> had a dark complexion,
+
+- Had a what? Dark complexion. So Socrates was black. He had a dark complexion.
+
+> eyes sticking out, and a severe downcast look.
+
+- Right. Now get that picture of Socrates. All right, so this is a statue of Socrates. All right, a black man. A black man. All right, now go back to the book. Somebody just sent a text.
+
+</div>
+
+**Text:** Shalom brothers. As y'all pointed out before, the kings of the earth was coming to hear the wisdom of Solomon, before Edom got loose.
+
+
+- **Officer Jazz:** Yes, right. Oh, look, that's what I wanted. Give me Baruch. That's what I wanted. Yes, brother or sister, they was coming to hear the wisdom of King Solomon. So they was always coming to hear the wisdom of us. All right, give me Baruch again. You know what I want: chapter 3, verse 36.
+
+
+**[Baruch 3:36](/bible/baruch/3#v36)**  *[[37:40](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2260s)]*
+
+> <sup>[36](/bible/baruch/3#v36)</sup> He hath found out all the way of knowledge, and hath given it unto Jacob his servant, and to Israel his beloved.
+
+- So the Lord has found out all the ways of knowledge. And given it to who? Jacob his servant. The Most High only gave us his knowledge and his wisdom. He only gave it to us. All right, now from there, give me Deuteronomy 4. Deuteronomy chapter 4 and verse 5.
+
+**[Deuteronomy 4:5-6](/bible/deuteronomy/4#v5)**  *[[38:00](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2280s)]*
+
+> <sup>[5](/bible/deuteronomy/4#v5)</sup> Behold, I have taught you statutes and judgments, even as the Lord my God commanded me, that ye should do so in the land whither ye go to possess it.
+
+- So this is a prophecy. This is a prophecy.
+
+> <sup>[6](/bible/deuteronomy/4#v6)</sup> Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people.
+
+- You see that? So once we kept God's commandments, that is going to be our wisdom and understanding once again. We've seen it happen with King Solomon. It's going to happen again once we get back in the kingdom. Read it again. Because you don't see no wisdom and understanding in our people today. You see astonishment. That's all you're seeing in our people today, man. Okay, a bunch of astonishment, a bunch of sin in our people. All right, go ahead.
+
+- In the sight of who? In the sight of the nations. We're going to have that wisdom and understanding once again, once we start keeping God's commandments, in the sight of the nations. Read. You see that? So those nations are going to seek to us to get wisdom. All right. From there, go back to the page. Yeah, finish it up.
+
+<div class="reading">
+
+Reading from Grayzel, continued  *[[39:29](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2369s)]*
+
+> The life led by individual Jews was even more helpful. Many pagans saw the greatness of the Jewish idea of God, especially that he was merciful and just. They could not help admire the strict morality which prevailed among the Jews, and the fact that Jews felt obliged to give of their wealth to support the poor. Perhaps what attracted most attention was the refusal of the Jews to work one day in seven, devoting that day to physical rest and to prayer and study.
+
+- All right. Give me page 150. Page 150, about the disciples.
+
+</div>
+
+<div class="reading">
+
+Reading from Grayzel, page 150, Christianity begins in the diaspora  *[[40:18](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2418s)]*
+
+> Christianity begins in the diaspora. The Palestinian Nazarenes. The little group of Jesus's disciples was still in Jerusalem, waiting for his reappearance to right the evils of the world. They were poor people, mostly Galileans. At their head stood Jesus's favorite disciple, Peter, Simon, and one of Jesus's brothers by the name of James, Jacob. Since they believed that the end of the world was near, they did not work very much, but pooled their resources and led a communistic life, meeting, praying and eating together. Whenever they had a chance,
+
+- So whenever the disciples had a chance. Read.
+
+> they addressed crowds of simple people like themselves,
+
+- Where were they addressing crowds at? On the streets. They were teaching on the streets. Read that part again. Whenever they had a chance, they addressed crowds of simple people like themselves. Just like we address crowds today at camp. The disciples had camp, addressing crowds. Read.
+
+> or of Jews who came from the diaspora lands.
+
+- So they were traveling to the diaspora lands to have camp. Read.
+
+> With the latter especially they had a fair measure of success, so that in the course of a few years the Greek Jews among the believers in Jesus far outnumbered the native Palestinians.
+
+- The who? The Greek Jews. The Greek Jews, the Hellenistic Jews. Right, so you had Hellenistic... Give me Acts chapter 6. You had Greek Jews, Jews that spoke what? Greek. Why? Because we were scattered throughout Greece. I think it's Acts 6 and 1.
+
+</div>
+
+**[Acts 6:1](/bible/acts/6#v1)**  *[[42:12](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2532s)]*
+
+> <sup>[1](/bible/acts/6#v1)</sup> And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
+
+- So who are those Grecians? Greek Jews, Hellenistic Jews that were following Greek customs, from all the way back from the Maccabees, the Greek captivity. Read it again. Because their widows were neglected in the daily ministration. So those Grecians were Jews. Say it again: those Grecians were Jews. All right, let's go back.
+
+<div class="reading">
+
+Reading from Grayzel, page 150, continued  *[[43:12](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2592s)]*
+
+> With the latter especially they had a fair measure of success, so that in the course of a few years the Greek Jews among the believers in Jesus far outnumbered the native Palestinians.
+
+- So it was more of us scattered in the diaspora than it was in Palestine, than it was in Judea. That's what it's saying. It was more of us, more Jews, scattered into the diaspora. All right, go ahead.
+
+> The Jews in general did not bother about the small group of their own people who added to their Judaism the belief in a messiah who had been crucified by Rome and had come to life again. The members of the new sect, for their part, did nothing to make themselves objectionable, since they observed all the regulations of Jewish life. On two occasions some of their number expressed themselves in terms insulting to the temple, and then a group of fanatical Jews attacked them. One of these occasions caused the expulsion from Jerusalem of all the non-Palestinian believers in Jesus, since they apparently were the chief troublemakers, and others were not disturbed. Yet this brief persecution resulted in very important gains for the new sect.
+
+- Right. All right, that's it. That's all I want on that. Give me now the Richard Watson dictionary. Pull that up. Hellenists.
+
+</div>
+
+<div class="reading">
+
+Reading from the Richard Watson dictionary, 1837, the entry on Hellenists  *[[44:56](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2696s)]*
+
+> Hellenists. Jews who make Greek their tongue,
+
+- You see that? So Hellenist just means Jews who make Greek their tongue. That was their language. We're going to get into that anyway, in Acts chapter 2, verse 5. All right, so Hellenist is Jews who make Greek their tongue. Read on.
+
+> and with it often adopted Greek ideas and practices.
+
+- That was Timothy's dad. He was a Greek. He was a Jew, but he followed... he was a Hellenist, a Jew who make Greek their tongue, and with it often adopted Greek ideals and practices. Okay. And then they got Acts chapter 6, verse 1.
+
+- **Officer:** Let me see what Acts 9:29 says. I got it right here, if you wanted, officer.
+
+- **Officer Jazz:** Yeah, read that.
+
+</div>
+
+**[Acts 9:29](/bible/acts/9#v29)**  *[[45:52](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2752s)]*
+
+> <sup>[29](/bible/acts/9#v29)</sup> And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.
+
+- You see that? And disputed against the Grecians. They were just Jews. All right, Jews who spoke Greek. All right, Hellenists. Now get me to Richard Watson. Give me page 766. Leadership brought this out a couple years back. All right, we're starting... that's the only page, right? There's no page before that. All right, we're gonna jump around to the underline. Come on, right there.
+
+<div class="reading">
+
+Reading from the Richard Watson dictionary, page 766, the underlined passages on the schools of the prophets and preaching  *[[46:10](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=2770s)]*
+
+> When the Jews, or some of them only, opened schools or houses of instruction, and there to their disciples they taught the pure religion of Moses, the laws,
+
+- Read.
+
+> in the suburbs of Ramah there was one where Samuel dwelt, and there was one at Jericho,
+
+- So these are the schools: one where Samuel dwelt, which was Ramah, and then you had Jericho. Read.
+
+> and a third at Bethel,
+
+- And then you got another school in Bethel. Read.
+
+> to which Elijah and Elisha often resorted. The people went on sabbath days
+
+- **Officer:** I'm reading so fast.
+
+- **Officer Jazz:** Read it slow. Read it slow. The people went on sabbath day. Isn't this what we doing today? We come to class on Sabbath. Right. Read on.
+
+> and at new moons,
+
+- And then every new moon. Read on.
+
+> and receive public lessons of piety and morality.
+
+- You see that? And we receive public lessons about the laws. All right, jump down.
+
+> Many of the discourses were preached in camps,
+
+- Wait, wait, wait. Many of the discourses were preached where? In camps. Camps. We just read that with the disciples: they addressed crowds. Okay. You about to say something? No. Oh. So it says many of the discourses were preached in camps. Read.
+
+> in courts,
+
+- And courts. Read on.
+
+> in streets,
+
+- In the streets. Read.
+
+> schools, cities,
+
+- Schools. So that's why we try to, you know, get into the schools and so forth. Go ahead.
+
+> villages; sometimes with great composure and coolness,
+
+- So now it's giving you the characteristic of some of the prophets and how they taught. Some taught how? With great composure and coolness. So some prophets was laid back when they talked, just, you know, chill and calm. Go ahead.
+
+> at other times with vehement action
+
+- And then you had those that were enthusiastic when they taught. They had that energy with them. Read.
+
+> and rapturous energy; sometimes in a plain blunt style,
+
+- Just tell you straight up: you're gonna die. You know, plain blunt style. Read.
+
+> at other times with all the magnificent pomp of eastern allegory. On some occasions the preachers appeared in public with visible signs,
+
+- With what? Visible signs. With camp signs. Appeared in public with camp signs. There's no coincidence that we're doing this today. It's like our forefathers. There's no coincidence. We follow in the footsteps of our forefathers. Read on.
+
+> with implements of war, with yokes of slavery,
+
+- And then how we show you on the sign: implements of war, slavery, us going into chains. Read.
+
+> or something of a destiny,
+
+- Us coming over here on slave ships. Read on.
+
+> or something adapted to their subject.
+
+- Or anything that was adapted to our subject. Just like how we teach today. When we go on the streets, when we bring out a scripture, we have signs to show you, to adapt to what we teach you out of the Bible. If we going over Deuteronomy 28, now we can show you the actual sign of us going in that ship; that's going to adapt to what we're bringing out. If we going over Jacob and Esau, now we have a sign with Jacob and Esau to show you how they look, the depiction. If we're going over the image of Christ, we have a depiction to show you now. Same thing back then. Read.
+
+> They gave lectures on these, held them up to view,
+
+- Just like, yo bro, hold that sign up for me. Yo, hold that up for me real quick. Yo, where the sign at? Get that sign for me. Read that again. This is what we do. Read that again. The brother holding it up, we point to it as we read. Right. Go ahead.
+
+> girded them on, broke them in pieces,
+
+- Right. So at this time they might have had actual instruments of slavery and put them on, like, yo, this is how we gonna be going into slavery. You understand? So this is what we were doing at this time. Go ahead.
+
+> rent their garments, rolled in the dust, and endeavoured by all the methods they could devise, agreeably to the customs of their country, to impress the minds of their auditors with the nature and importance of their doctrine.
+
+- See, we try to do whatever we can to impress the minds of our people of this Bible. So whatever we got to do. Like, we ain't rolling in dust or nothing like that, but to impress the minds of our people, to show that we were the ones, to prove that this Bible is a true book: that we the ones went on slave ships, that Christ is a black man, God is black, that the kingdom is for us. We do anything with the signs and so forth to prove that that's us. Even during class, the Bishop got different visuals to show. That's right. The books and so forth, to impress the minds of the auditors about the Bible. Right, right.
+
+- That's why you even see when some teachers get, you know, very angry when they teach, they start slapping the signs and everything, everything to pull the people in, to prove it. Yeah, right. You start hitting the signs and so forth. Now do you understand what I'm saying? Did this happen? Did this happen to us? You gotta disprove it, that it didn't happen. Cause it happened. Right. Read on.
+
+> These men were highly esteemed by the pious part of the nation, and princes thought proper to keep seers and others who were scribes, who read and expounded the law.
+
+- All right, jump down. Let me see if I want that. Jump down. Read on.
+
+> When the Jews were carried captive into Babylon, the prophets who were with them inculcated the principles of religion, and endeavoured to possess them
+
+- So even when we was in captivity, even in Babylon, the prophets was always there. Okay. Why? To tell our people to repent, come out of sin. This is why we're in Babylon. This is why we in this captivity right now. Just like today: this is why we went into slavery here in America, breaking God's laws. We gotta repent. Go ahead.
+
+> and endeavoured to possess their minds with the aversion to idolatry; and to the success of preaching we may attribute the reconversion of the Jews to the belief and worship of one God.
+
+- Right. All right, go down. Let me see if I want anything else. Next page. Oh, what's that on the bottom? Houses were now open, not for ceremonial worship. Now let me say this. After Elisha and Elijah, the schools started to get corrupted. After that time period the schools started to get corrupted. All right. But from Samuel all the way up to Elisha and them, you had the sons of the prophets. Okay, you had the sons of the prophets. But after that, the schools slowly started becoming corrupted. All right, read on.
+
+> Formerly preachers had only explained subjects; now they were obliged to explain words, words which in the sacred code will become obsolete, equivocal, or dead. Houses were now open, not for ceremonial worship, as sacrificing, for this was confined to the temple, but for moral and religious instruction, as praying,
+
+- Hey, we explain words today. We pull up the dictionary, like, yo, that's not an ordinary Negro word, gotta bring that out: what do that mean? So we got to explain. We got to break the scriptures down. Okay, read on.
+
+> preaching, reading the law, divine worship, and social duties. These houses were called synagogues.
+
+- Those social duties are your offices and so forth, your duties. Right. Go ahead.
+
+> The people repaired thither for morning and evening prayer, and on sabbaths and festivals the law was read and expounded to them.
+
+- You see that? We got morning classes, we got noon classes, we got evening classes. Same thing. Read on.
+
+> We have a short but beautiful description of the manner of Ezra's first preaching, Nehemiah chapter 8. Upward of fifty thousand people assembled in a street or large square near the water gate. It was early in the morning,
+
+- Jump to the apostles now. Go down, go down some. Let me see if there's anything underlined. Yeah, read that.
+
+> From this period to that of the appearance of Jesus Christ, public preaching was universal; synagogues were multiplied; vast numbers attended; and elders and rulers were appointed for the purpose of order and instruction.
+
+- Read that again, one more time, slow. Synagogues were multiplied, vast numbers attended. So that's the sanctuaries in the countries, right? The little sanctuaries in the country. That's going on today. And elders and rulers were appointed for the purpose of order and instruction. You see that? That's why we have a ranking system. That's why you have the rankings, for order and instruction. Give me Titus 1 and 5.
+
+</div>
+
+**[Titus 1:5](/bible/titus/1#v5)**  *[[57:03](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3423s)]*
+
+> <sup>[5](/bible/titus/1#v5)</sup> For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:
+
+- See that? So that's what the leadership doing today. They are ordaining elders in every city. Okay. So that's what the leadership is doing today, ordaining elders in every city. All right. Let's go back. Go to the apostles now. All right, that's good.
+
+<div class="reading">
+
+Reading from the Richard Watson dictionary, page 766, continued, on the apostles  *[[57:40](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3460s)]*
+
+> The apostles copied their divine Master. They formed multitudes of religious societies, and were abundantly successful in their labours. They confined their attention to religion, and left the schools to dispute, and politicians to intrigue.
+
+- So they left the schools to go and dispute in the streets. Okay, read on. And politicians to intrigue.
+
+> The doctrines they preached they supported entirely by evidence,
+
+- By what? Evidence. So we had the Bible. Entirely by evidence. Read.
+
+> and neither had nor acquired such assistance as human laws or worldly policy, the eloquence of schools, or the terror of arms could afford them.
+
+- You see that? Read on.
+
+> The apostles being dead, everything came to pass as they had foretold.
+
+- So when the apostles died, everything came to pass. What? The destruction of Jerusalem, 70 AD. That's what they was preaching. They was bringing all that out, and everything came to pass as they had foretold.
+
+- *[[58:54](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3534s)]* All right, now from there you can drop that. So hey, let's get Acts chapter 2. Matter of fact, give me *History of the Christian Church*, page 50. History of the Christian Church, William Jones. So now we're going to segue into the ministry of the disciples, which began with Acts chapter 2.
+
+- **Officer:** Hey, go to Ecclesiastes 1. Because everything we're reading right here is exactly what I believe we started off the series with, all the way back when Cap was starting the classes and Officer Jazz continued it. What they're showing is that there's nothing new under the sun. Everything that is done is that... Ecclesiastes, start at verse 8.
+
+</div>
+
+**[Ecclesiastes 1:8-10](/bible/ecclesiastes/1#v8)**  *[[1:00:24](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3624s)]*
+
+> <sup>[8](/bible/ecclesiastes/1#v8)</sup> All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
+>
+> <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
+
+- **Officer:** The thing that hath been, it is that which shall be. The thing is man, like we've always shown in Ecclesiastes 6 and 10. Man is always going to be here. Everything that was done by those men is going to be the same thing that those men are gonna do again. That's why we're reading about those books with the prophets going out, showing signs, some with enthusiasm, some calm. It's the same thing we doing over and over again. Nothing is new.
+
+- **Officer Jazz:** Right, right.
+
+> <sup>[10](/bible/ecclesiastes/1#v10)</sup> Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.
+
+- **Officer:** That's what they say on the streets. Oh, this is a new religion. Y'all doing something new. Right, y'all just started in the 60s. No, no. We've been doing this from generation to generation, captivity to captivity. Right. Y'all just lost remembrance. That was it.
+
+- **Officer Jazz:** All praises, all praises. Give me Acts chapter 2, verse 5 real quick. So we're getting into the ministry of the disciples. You could start at verse 1.
+
+**[Acts 2:1-4](/bible/acts/2#v1)**  *[[1:02:03](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3723s)]*
+
+> <sup>[1](/bible/acts/2#v1)</sup> And when the day of Pentecost was fully come, they were all with one accord in one place.
+>
+> <sup>[2](/bible/acts/2#v2)</sup> And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.
+>
+> <sup>[3](/bible/acts/2#v3)</sup> And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.
+>
+> <sup>[4](/bible/acts/2#v4)</sup> And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.
+
+- As of fire. Give me Jeremiah 5:14. Cloven tongues as of fire.
+
+**[Jeremiah 5:14](/bible/jeremiah/5#v14)**  *[[1:03:08](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3788s)]*
+
+> <sup>[14](/bible/jeremiah/5#v14)</sup> Wherefore thus saith the Lord God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.
+
+- Like what? Fire. Like fire. So God's word supposed to be in our mouth like fire. All right, go back, verse 3.
+
+- *[[1:03:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3830s)]* Now this tongue, this other tongue that they're speaking, is languages. Right, different. We're gonna prove it as we read on. Go ahead.
+
+**[Acts 2:5](/bible/acts/2#v5)**  *[[1:04:09](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3849s)]*
+
+> <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
+
+- So there were dwelling in Jerusalem Jews, devout men, out of every nation. Every nation. Read. Now, when this was noised abroad... Why were they in every nation? Give me Deuteronomy 4:27.
+
+**[Deuteronomy 4:27](/bible/deuteronomy/4#v27)**  *[[1:04:30](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3870s)]*
+
+> <sup>[27](/bible/deuteronomy/4#v27)</sup> And the Lord shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the Lord shall lead you.
+
+- So the Most High scattered us among the nations. All right, give me James 1 and 1.
+
+**[James 1:1](/bible/james/1#v1)**  *[[1:04:55](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3895s)]*
+
+> <sup>[1](/bible/james/1#v1)</sup> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
+
+- Hey, you can put that up. Put that map up real quick. I like that. Can they see it? All right, read it again. Right, because we were scattered abroad. We were scattered abroad. The Most High scattered us in slavery, in captivity. All right, that's how we got into all these nations. That's why there's Jews coming from every nation under heaven. That's why you had Jews called Greeks, Hellenists. Okay, now go back to Acts 2 and 5. You can take that down.
+
+**[Acts 2:6-8](/bible/acts/2#v6)**  *[[1:05:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=3950s)]*
+
+> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
+
+- In his own what? Own language. So that's the tongues. The tongues is the language that the Jews from out of every nation was speaking in. Right.
+
+> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
+>
+> <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
+
+- In our own language. Wherein they were born. So the apostles was able to speak to them in the language that they were born in. Okay, go ahead. Parthians and Medes. So let's focus on Parthians. So we're going into pretty much the diaspora at this time that the apostles were dealing with in their ministry. I don't even know if I sent it to y'all. Go to Wikipedia. Go to Parthia.
+
+<div class="reading">
+
+Reading from Wikipedia, on Parthia  *[[1:06:58](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=4018s)]*
+
+> Parthia, Old Persian,
+
+- Old what? Persian. So Parthia is Old Persian. Read.
+
+> is a historical region located in northeastern Greater Iran. It was conquered and subjugated by the empire of the Medes during the 7th century BC, was incorporated into the subsequent Achaemenid Empire under Cyrus the Great in the 6th century BC, and formed part of the Hellenistic Seleucid Empire after the 4th-century BC conquests of Alexander the Great. The region later served as the political and cultural base of the Eastern Iranian Parni people and Arsacid dynasty, rulers of the Parthian Empire, 247 BC
+
+- Where you at?
+
+> The Sasanian Empire, the last state of pre-Islamic Iran, also held the region and maintained the seven Parthian clans as part of their feudal aristocracy.
+
+- So go down, go down. So Parthia today is Iran. Iran. That's Parthia today, Iran. All right, go to Wikipedia, Iran. I think it's Greater Iran. All right, cool.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on Greater Iran  *[[1:08:00](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=4080s)]*
+
+> Greater Iran, also known as the Persosphere, refers to a sociocultural region in which Iranian traditions and Iranian languages have had a significant impact. It spans parts of West Asia, the Caucasus, Central Asia, South Asia and Xinjiang. The region is defined by having been long ruled by the dynasties of various Iranian empires, under whom the local populaces gradually incorporated some degree of Iranian influence into their cultural and/or linguistic traditions.
+
+- Go down. Let me see. Go back up a little bit. Start at the name Iran.
+
+> The name Iran, meaning land of the Aryans, is the New Persian continuation of the old genitive plural aryānām, Proto-Iranian, meaning of the Aryans.
+
+- Now go down to that next paragraph.
+
+> Up until the end of the Parthian period in the 3rd century CE, the idea of Iran had an ethnic, linguistic and religious value. It did not yet have a political import. The idea of an Iranian empire or kingdom in a political sense is a purely Sasanian one. It was the result of a convergence of interest between the new dynasty and the Zoroastrian clergy, as we can deduce from the available evidence.
+
+- Right. All right, so you could drop that.
+
+</div>
+
+*[[1:10:17](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=4217s)]* Hey, look, so we're gonna take a quick break real quick, and we'll be back with more information about the ministry of the disciples and the diaspora. All right. Oh, you can call us at 267-702-6121. All right, you can call us at 267-702-6121, or you can send a text. All right, we'll be back.
+
+
+<div class="reading">
+
+Reading from IUIC videos played during the break: the school openings, Bishop Daniel on the foundations still to be laid, and the leadership in South Africa, India and Suriname  *[[1:10:40](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=4240s)]*
+
+> Christ. I call that the walking Bible. Don't say things you think is in the Bible.
+>
+> Unity. That's what the term Israel United in Christ, because Christ is our King, and he's our black Messiah.
+>
+> We went to a TV show. How can we join this truth? Israel United in Christ is in for the truth, and it needs to be, as everyone has to hear about this. Today was the grand opening, that our people may come know who they are according to the Bible. God calls us the Israelites, the twelve tribes of Israel. Now we are lost sheep; we have to go back. You encourage yourself that we are Israelites. Some of you know, some you may not know: IUIC is doing big things in Ghana, building schools from the ground up.
+>
+> So when we talked about it, people didn't believe it. Why? Because they still had a Negro mind: can't do it. The white man building stuff all over the place, we have no problem with that, but when it comes to us, we can't even organize to come together and do something. How the hell are you gonna call yourself a leader, and we are afraid to move? I can't stand it.
+>
+> You make sure our little place looks nice, but back then, the Most High's house, the temple, it had to be what? We built. And they were being sluggish and slothful about rebuilding it.
+>
+> We're building a school, IUIC school, from the ground up. This is exponential growth. We're going to build a school in each country on the continent of Africa, be the Lord's will.
+>
+> The forefathers doing the civil rights, there are many liberties you got to run your mouth on the street today. A lot of our people was put to death for that, beat upside the head, all that kind of stuff. Anytime you try to make a change, it's going to be pain.
+
+> Christ bless Israel. Bishop Daniel. Some of you call me the General, and I appreciate that term. But today we're going to find out here: in Matthew 28 Christ commanded the disciples, he said, go into all nations, baptizing them in the name of the Father, the Son and the Holy Ghost, teaching them to observe what I have commanded. So as we know, the twelve tribes of Israel, like James 1 and 1 said, was scattered throughout all nations, from the sub-Saharan slave trade to the transatlantic slave trade. Okay, so we're gonna deal with that. The gospel has been preached everywhere as yet; there's much work to be done. Okay. In Second Corinthians chapter 10, around verse 16, I believe Paul said, to preach the gospel in regions beyond you, and not to boast in other men's work. We don't want to boast in no other camp's work. The Most High called us on a mission; we must fulfill that mission. So I need you courageous, brave and bold deacons, captains, officers, soldiers to stand up and show yourselves worthy of this truth. Okay.
+>
+> So what I'm gonna do, I'm going to show you something, so you know it needs to be done. Listen good. I want you to see this, man. We have several schools in Canada. We are throughout the United States of America; I give all praises to the Most High for that. All right, we are entering into Mexico. We have no foundations as yet here, understand? We have no foundation. We have teaching, but no foundation. The Most High just allowed us to open a school here in Ecuador. But listen, look: we have no foundations in these areas. Okay, we have some teachings but no foundation. No foundation. We need to get throughout Argentina and Chile.
+>
+> We have several schools on the continent of Africa; give all praises to the Most High for that. Several schools we have here, but that's not enough. We need more schools, more schools of the truth of the gospel being taught. Okay, we need to hit these areas: Madagascar, even Zambia, Angola. Okay, we just started a foundation here, the Democratic Republic of Congo. Okay, there's nothing... We also, we have Europe: no foundation in Spain as yet, one small school. France, Germany, we need more. There's more work to be done. In Israel, more work to be done.
+>
+> Listen, and there's no foundational teaching throughout these areas here. When I say foundation, I don't mean one guy went throughout one area over here and taught something and left. I'm talking about there's no foundation of the gospel in this region here at all. So we need the truth to be taught there. Okay, Australia. Even you've got some of our people in Australia. Okay, Indonesia, Sumatra, Vietnam. Okay, these regions have no Israelite foundations, the truth, the gospel being taught, that our people are scattered throughout these regions, okay, from the time of the sub-Saharan slave trade. Understand that. Understand that, Israel. Understand there's too much work to be done. Too much work to be done. So Israel, I need some volunteers. I need some of you mighty men to stand up. You deacons, captains, officers, soldiers, stand up. I need volunteers to go on this position. Thank you.
+
+> We down here at Johannesburg, South Africa. We're on our way, today's our first day down here. It's very early morning right now, it's seven o'clock. We're on our way to do a podcast. All right, stay tuned to the day; we're going to tell you what's going on today. All right, keep us in your prayers. All right, we're here in South Africa, Johannesburg, to go and do a lot of good things.
+>
+> Who came to South Africa preaching another Jesus? No church on earth teaches the truth of the Bible. They all teach you lies: Jesus is white, God is white. Who sent him against us? Most High God. Why? Because we broke God's commandments.
+>
+> This interview, I feel very much restored and rejuvenated and revived. Wow, what a wonderful opportunity to meet up with my Hebrew Israelite friends from all the way from the United States of America.
+>
+> The Bible is coming out. The Roman got offended because their … is coming out.
+>
+> Yes. But where's the land of black... Yes. Literally, I was thinking about this last night. I was thinking to myself, why are my people so brainwashed? Then here I am meeting you guys.
+
+> Christ bless. Deacon Isaac here. We are in India, live in India. Sole purpose for coming out here is to gather the elect of our brothers and sisters scattered into the diaspora, also known as the Siddi people. Ever since 2003 the Most High in Christ moved the spirit of Bishop Nathanyel, the founder of IUIC, with one sole purpose, and that is to gather the elect of our people, which are scattered throughout the four corners of the earth. One model that we follow in Israel United in Christ is vision, action and reality.
+>
+> So there's no more time to be fighting over a corner. What you see going on in the States, we have brothers fighting over corners. The Most High said in Ezekiel chapter 11, verse 16, that he shall be a sanctuary to us where he has scattered us. So what's the purpose of us being here? Not only to gather our people, but to leave them a refuge, leave them a place here, a sanctuary, that they could come together, gather themselves together in these last days, to learn their nationality and to learn who they are. So you brothers and sisters who follow IUIC, continue to donate, continue to support the mission, and help us establish a sanctuary here amongst our people. Shalom.
+
+> Shalom, Israel. Most High in Christ bless. Right now we are in the capital of Suriname, and right now we just got done having a campaign.
+
+</div>
+
+*[[1:21:52](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=4912s)]* Hey, shalom. Welcome back. We back from the break. We're back from the break. Hey, bring up the text real quick. We got a text. Read the text. My man, he all the way over here. Hey, you doing too many jobs, bro.
+
+
+**Text:** Shalom brothers, Most High in Christ bless you. What book are you reading from?
+
+
+- **Officer Jazz:** So if you're referring to the book that I read about the prophets, the first book is *History of the Jews* by Heinrich Graetz. There's six volumes to this book, *History of the Jews* by Heinrich Graetz. All right, this is volume one right here. This is volume one. All right, the year's 1896. Now the other book that I was reading from is *A History of the Jews*. A lot of books are called *The History of the Jews*, maybe different authors, but this book right here is *A History of the Jews* by Solomon Grayzel. This is from 1940. 1940. All right, and the other book, I don't have it with me, but that is the Richard Watson dictionary, with the underlining. That's the Richard Watson dictionary. Yeah, bring that up. Blow it up. Okay, so that's the Richard Watson dictionary right there. Go down. So that's from 1837. White eyes only, 1837, Richard Watson dictionary. All right, so those are the books. So you could purchase those books, if they still available. Yeah, good luck. Yeah, they're still available.
+
+
+*[[1:24:45](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5085s)]* All right, now let's get back. I missed a couple of points that I wanted. Let's go back to the scripture, Acts 2. Start at verse 8. I missed a couple of points in the Wikipedia article. Everything as far as Parthia, everything is going to link up. All right, so we're just going through the different countries that we were scattered in at this time, that the disciples were ministering to, teaching our people. Go ahead. And how hear we every man in our own tongue, wherein we were born. Read. Parthians and Medes. Right, so we're dealing with the Parthians and Medes. Parthians and Medes. All right, now go back to Parthia.
+
+
+<div class="reading">
+
+Reading from Wikipedia, on Parthia, again  *[[1:25:30](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5130s)]*
+
+> Parthia, Old Persian, is a historical region located in northeastern Greater Iran.
+
+- So Parthia is Persia. It's Old Persia. That's the old name for... Parthia is actually the old name for Persia. Okay. And where is it located today? In northeastern Greater Iran. So Parthia is Iran. That's what I wanted. Parthia is Iran. Okay, read on.
+
+> It was conquered and subjugated by the empire of the Medes during the 7th century BC, was incorporated into the subsequent Achaemenid Empire under Cyrus the Great in the 6th century BC, and formed part of the Hellenistic Seleucid Empire after the 4th-century BC conquests
+
+- All right, from there. So Parthia is in Persia. That's Persia today, called Iran. All right, just follow me. Today Parthia is called Iran. Persia. Watch this.
+
+> Greater Iran, also known as the Persosphere, refers to a sociocultural region in which Iranian traditions and Iranian languages have had a significant impact. It spans parts of West Asia, the Caucasus, Central Asia, South Asia and Xinjiang. The region is defined by having been long ruled by the dynasties of various Iranian empires,
+
+- Persian empires. Read.
+
+> under whom the local populaces gradually incorporated some degree of Iranian influence into their cultural and/or linguistic traditions; or alternatively as where a considerable number of Iranian people settled, to still maintain communities who patronize their respective cultures.
+
+- Go down, go down. Let me see if I want anything else out of here. Nope. Give me now History of the Jews in Iran. Remember, Parthia is Iran. It was called Persia, Old Persia, but today it's called Iran. Today, Iran. All right, read that.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on the history of the Jews in Iran  *[[1:27:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5270s)]*
+
+> The history of the Jews in Iran dates back to late biblical times, mid first millennium BC. The biblical books of Chronicles, Isaiah, Daniel, Ezra and Nehemiah contain references to the life and experiences of Jews in Persia.
+
+- In Persia, which is today Iran, which was called Parthia in the Bible. All right, read on.
+
+> In the book of Ezra, the Persian kings are credited with permitting and enabling the Jews to return to Jerusalem and rebuild their temple. Its reconstruction was carried out according to the decree of Cyrus and Darius and Artaxerxes king of Persia, Ezra 6:14. This great event in Jewish history took place in the late 6th century BC.
+
+- Go down.
+
+> Persian Jews. Persian Jews have lived in the territories of today's Iran for over 2,700 years, since the first Jewish diaspora, when the Assyrian king Shalmaneser V conquered the northern Kingdom of Israel, 722 BC, and took some of the Israelites into captivity in Kazakhstan.
+
+- Now read, read from Persian Jews again. I want y'all to listen good to this. Read from Persian Jews one more time. So we were in Iran, or Parthia, or Persia, for 2,700 years, since the first Jewish diaspora when the Assyrian king Shalmaneser V conquered the northern kingdom of Israel. So the northern kingdom was in Iran from the Assyrian captivity. Read. And took some of the Israelites into captivity in Kazakhstan. In where? Kazakhstan. So we're going to key in on Kazakhstan, but not right now. But we're going to go back there. Read on.
+
+> In 586 BC, the Neo-Babylonian Empire expelled large populations of Jews from Judea to the Babylonian captivity.
+
+- All right, jump down. Go down, go down. Watch this. Go all the way down. Yes, Assyrian exile, northern kingdom. Read that.
+
+> According to the Bible, the Kingdom of Israel, or northern kingdom, was one of the successor states to the older United Monarchy, also called the Kingdom of Israel, which came into existence in about the 930s BC after the northern tribes of Israel rejected Solomon's son Rehoboam as their king.
+
+- Right. Read a little faster.
+
+> In 732 BC, the Assyrian king Tiglath-Pileser III sacked Damascus and Israel, annexing Aram and Transjordan territory of the tribes of Reuben, Gad and Manasseh in Gilead, including the desert outposts of Jetur, Naphish and Nodab. Israel continued to exist within the reduced territory as an independent kingdom subject to Assyria until 725 to 720 BC, when it was again invaded by Assyria and the rest of the population deported.
+
+- Right. Now listen good to this, this bottom part. Read that.
+
+> From this time no trace exists of the Kingdom of Israel, and its population are commonly referred to as the ten lost tribes.
+
+- Read on.
+
+> The Bible, Second Kings 18:11, reports that part of these ten lost tribes were expelled to the land of the Medes, in modern-day Iran.
+
+- The land of the Medes, in modern-day Iran. Today called Iran. Read.
+
+> The Book of Tobit,
+
+- The book of what? Tobit. Read.
+
+> which is part of the biblical Apocrypha, suggests that there were people from the tribe of Naphtali living in Rages, Ray, Iran, and Ecbatana, Hamadan, in the time of the Assyrians. Book of Tobit 6:12.
+
+- Click on Ray, Iran. Click on Rages, Iran. We was always in Iran. Always.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on Rey, Iran  *[[1:31:43](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5503s)]*
+
+> Rey, Persian, or simply Rey, is the capital of Rey County in Tehran Province, Iran. Formerly a distinct city, it has now been absorbed into the metropolitan area of Greater Tehran and the 20th district of municipal Tehran, the capital city of the country. Historically known as Rhages, Rages and Arsacia, Rey is the oldest existing city in Tehran Province. In the classical era it was a prominent city belonging to Media, the political and cultural base of the Medes. Ancient Persian inscriptions and the Avestan Zoroastrian scriptures, among other sources, attest to the importance of ancient Rey.
+
+- Right. All right, you stop it. Read on.
+
+> Rey is mentioned several times in the Apocrypha.
+
+- So Rey is mentioned several times in the Apocrypha, which is Iran today. Mentioned in the Apocrypha. All right, watch this. Give me Second Kings 18:11 first. I think they brought out Second Kings 18:11.
+
+</div>
+
+**[2 Kings 18:11](/bible/2-kings/18#v11)**  *[[1:32:46](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5566s)]*
+
+> <sup>[11](/bible/2-kings/18#v11)</sup> And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor by the river of Gozan, and in the cities of the Medes:
+
+- See that? And they put us in cities of the Medes. Cities of the Medes. Right. Now go to Tobit chapter 6. Start up at verse 5.
+
+**[Tobit 6:5-10](/bible/tobit/6#v5)**  *[[1:33:57](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5637s)]*
+
+> <sup>[5](/bible/tobit/6#v5)</sup> So the young man did as the angel commanded him; and when they had roasted the fish, they did eat it: then they both went on their way, till they drew near to Ecbatane.
+
+- Remember Ecbatane. Ecbatane is a city of the Medes. Okay, read on.
+
+> <sup>[6](/bible/tobit/6#v6)</sup> Then the young man said to the angel, Brother Azarias, to what use is the heart and the liver and the gall of the fish?
+>
+> <sup>[7](/bible/tobit/6#v7)</sup> And he said unto him, Touching the heart and the liver, if a devil or an evil spirit trouble any, we must make a smoke thereof before the man or the woman, and the party shall be no more vexed.
+>
+> <sup>[8](/bible/tobit/6#v8)</sup> As for the gall, it is good to anoint a man that hath whiteness in his eyes, and he shall be healed.
+>
+> <sup>[9](/bible/tobit/6#v9)</sup> And when they were come near to Rages,
+
+- To where? To Rages. So Rages is Rey today. Rey, Iran today. Read.
+
+> <sup>[10](/bible/tobit/6#v10)</sup> The angel said to the young man, Brother, to day we shall lodge with Raguel, who is thy cousin; he also hath one only daughter, named Sara; I will speak for her, that she may be given thee for a wife.
+
+- All right, so understand, remember the Persian... Remember, it was a dual empire. It was a Persian and Mede empire. The Medes ruled first, and then Persia took over. Okay, Persia took over. But during the Assyrian captivity they scattered us in cities of the Medes also. So that's what we're reading right now, which is called Rey today, and it was in Iran. All right, give me Tobit chapter 14. Start at verse 12.
+
+**[Tobit 14:12-15](/bible/tobit/14#v12)**  *[[1:35:52](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5752s)]*
+
+> <sup>[12](/bible/tobit/14#v12)</sup> And when Anna his mother was dead, he buried her with his father. But Tobias departed with his wife and children to Ecbatane to Raguel his father in law,
+
+- Ecbatane, remember, was a city of the Medes. Read.
+
+> <sup>[13](/bible/tobit/14#v13)</sup> Where he became old with honour, and he buried his father and mother in law honourably, and he inherited their substance, and his father Tobit’s.
+>
+> <sup>[14](/bible/tobit/14#v14)</sup> And he died at Ecbatane in Media, being an hundred and seven and twenty years old.
+
+- Where? In Media. Ecbatane in Media. So Ecbatane, Rey, Rages, they were all cities of the Medes, which is Iran today. Persia, Parthia. All right, go ahead. A hundred and seven and twenty years old. Dang. Read on.
+
+> <sup>[15](/bible/tobit/14#v15)</sup> But before he died he heard of the destruction of Nineve, which was taken by Nabuchodonosor and Assuerus: and before his death he rejoiced over Nineve.
+
+- Right. Now, okay, go back to Kazakhstan. Go back to Kazakhstan. Watch this.
+
+<div class="reading">
+
+Reading from Wikipedia, on Khuzestan province  *[[1:37:00](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5820s)]*
+
+> Kazakhstan Province, Persian, is one of the 31 provinces of Iran. It is in the southwest of the country, bordering Iraq and the Persian Gulf. Its capital is Ahvaz, and it covers an area of 63,238 square kilometres. Since 2014 it has been part of Iran's Region 4.
+
+- So Persian. Khuzestan is Persian. Right, go ahead. Go down.
+
+> One of the most important regions of the ancient Near East, Khuzestan comprises much of what historians refer to as ancient Elam, whose capital was in Susa. The Achaemenid Old Persian term for Elam was Hujia, when they conquered it from the Elamites, which is present in the modern name. Khuzestan, meaning land of the Khuz, refers to the original inhabitants of this province, the Susian people, Old Persian Husa or Huja, as in the inscription on the tomb of Darius the Great.
+
+- All right, drop on that. Go down. Let's see who's still in Khuzestan. Go down, keep going, keep going. Hey, are you able to make the column smaller so I can see everything? Matter of fact, click on Afro-Iranians. Yeah, that's what I want. Click on Afro-Iranians. Wikipedia, Afro-Iranians.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on Afro-Iranians  *[[1:39:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=5990s)]*
+
+> Afro-Iranians are Iranian people of African, Zanj, heritage. Most Afro-Iranians are concentrated in the coastal provinces of the Persian Gulf, such as Sistan and Baluchestan, and Khuzestan.
+
+- And where? Khuzestan. So we are still there in Kazakhstan. We're still in Kazakhstan. Okay, so we are still there in Kazakhstan. Go ahead. Get the history.
+
+> The Indian Ocean slave trade was multi-directional and changed over time. To meet the demand for menial labor, enslaved black people who were captured by Arab slave traders were sold in cumulatively large numbers over centuries to the Persian Gulf, Egypt, Arabia, India, the Far East, the Indian Ocean islands and Ethiopia.
+
+- So this is known as the Indian Ocean slave trade. Indian Ocean slave trade. But what I want you to see is that we are still over in Kazakhstan. Okay, our people are still there. We are concentrated in... I can't even say the names, but we're still in these areas. All right, in Iran, Persia and Parthia. Okay, we're still there.
+
+- *[[1:41:30](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=6090s)]* All right, go down. Hey, let's get some pictures of some Afro-Iranians. Hey, some twins. There's some twins, they sisters. They from... maybe they be hanging out with the Kardashians, you know what I'm talking about, the twins. I think they from Iran. Hey, go back to notable Afro-Iranians. Let me see. No, they're not even on that. Let me see, hold on. Yeah, right there. Yep, they from Iran, right? Bring them up. Our people are still over in Iran today. All right, yep. These sisters right here. Names right there. Yep, these sisters right here. Beautiful sisters, man. They are considered Afro-Iranians. Names Malika and Khadijah Haqq. Right, Malika. Yeah, they best friends with the Kardashians or whatever. All right, but they're from Iran. All right, from Iran. All right, you can drop that.
+
+- *[[1:43:11](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=6191s)]* From there, let's go back to the scriptures, Acts chapter 2. I'm just going to touch on a couple of the countries that we were scattered in, that the disciples were ministering to. Acts chapter 2 and verse 9.
+
+</div>
+
+**[Acts 2:9](/bible/acts/2#v9)**  *[[1:43:11](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=6191s)]*
+
+> <sup>[9](/bible/acts/2#v9)</sup> Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judea, and Cappadocia, in Pontus, and Asia,
+
+- And Elamites. So-called East Indians today. Cap been touching on that for the longest. Okay, with the Dalits and with the Siddis. Okay, the Dalits and the Siddis. So if you've been following Cap's classes and so forth, he's been touching on our people in Elam. Our people still in Elam. All right, so you got the northern kingdom there, and then you got the southern kingdom there as the Siddis. You got the northern kingdom, the Dalits, and the southern kingdom as the Siddis, over in Elam, which is today East India. All right, so a lot of our people is concentrated... Actually just been there, right? We just been over there teaching our people over there. All right, so all praises for that.
+
+- And the dwellers in Mesopotamia, and in Judea, in Cappadocia. Cappadocia. I want to focus on Cappadocia. Give me First Maccabees 15:22. So I'm showing you when we got to these different countries and so forth. So this is the Greek captivity. Hey, did I send you the map? Matter of fact, where's that map you had before? Pull that up real quick. Let's show you where these spots is at, Cappadocia. Blow it up so the people could see. All right, so highlight Cappadocia. All right, so look, you see we just did Parthia. See, Parthia and Media. Move it to your left or to your right. All right, so in the corner over here you see Parthia and Media. That's what we just dealing with. Right, go down. Okay, right in that area right there. All right, now come over, Mesopotamia. So we have our people over here in Mesopotamia. Right, now we're dealing with Cappadocia. Okay, Cappadocia. All right, read that, First Maccabees chapter 15 and verse 22.
+
+**[1 Maccabees 15:22-23](/bible/1-maccabees/15#v22)**  *[[1:45:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=6350s)]*
+
+> <sup>[22](/bible/1-maccabees/15#v22)</sup> The same things wrote he likewise unto Demetrius the king, and Attalus, to Ariarathes, and Arsaces,
+>
+> <sup>[23](/bible/1-maccabees/15#v23)</sup> And to all the countries and to Sampsames, and the Lacedemonians, and to Delus, and Myndus, and Sicyon, and Caria, and Samos, and Pamphylia, and Lycia, and Halicarnassus, and Rhodus, and Aradus, and Cos, and Side, and Aradus, and Gortyna, and Cnidus, and Cyprus, and Cyrene.
+
+- **Officer:** Can you read that over for me?
+
+- I think you passed what I wanted. Go back to verse 22. Ariarathes and Arsaces. So look up Ariarathes and Arsaces. I think it might be... look up Arsaces. Arsaces, yeah. Spell that for them: A-R-S-A-C-E-S. There you go, got it. Okay, so Arsaces is Parthia. That's in Persia, today Iran. Now look up Ariarathes. Please spell that. It's A-R-I-A-R-A-T-H-E-S, I think that's it. Let me see. There you go. Wikipedia: Cappadocia. Right, so he was the king of Cappadocia. All right, Arsaces was the king of Parthia at that time. This is the Greek captivity. So Ariarathes was the king; it's Ariarathes the First. They were all called Ariarathes, but they were the kings of Cappadocia. So the Greeks were sending letters. Because why? We were there already. We were there in Cappadocia.
+
+- *[[1:48:20](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=6500s)]* All right, now give me another map of Cappadocia, the other map that I sent you. Yeah, that one right there. Blow that up. All right, so that's Cappadocia right there. All right, Cappadocia right there. Now give me the Jews of Turkey.
+
+<div class="reading">
+
+Reading from Wikipedia, on the history of the Jews in Turkey  *[[1:48:48](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=6528s)]*
+
+> The history of the Jews in Turkey covers the 2,400 years that Jews have lived in what is now Turkey. There have been Jewish communities in Anatolia since at least the 5th century BCE, and many Spanish and Portuguese Jews expelled from Spain by the Alhambra Decree were welcomed into the Ottoman Empire in the late 15th century, including regions now part of Turkey, centuries later forming the bulk of the Ottoman Jews.
+
+- All right, go down. Go down, all the way down. All right, go back up to Anatolia. Anatolia is Turkey. Anatolia is an old name for Turkey. Go all the way back up, because there was a link where you could click on it. All the way to the top. Yeah, right there. Click on Anatolia. Click it again. All right, pull up a map of Anatolia. I just want to show y'all that that's Cappadocia. That's Turkey. Cappadocia is Turkey. You see, Anatolia, Asia Minor, modern Turkey. You see Cappadocia is there. All right, now go over to Cappadocia. All right, right there. All right, Turkey. Okay, so we were over in Turkey. All right, now go to the article, Afro-Turks.
+
+</div>
+
+<div class="reading">
+
+Reading from an article, *The Afro-Turks: Turkey's little-known black minority reclaims its past*  *[[1:50:50](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=6650s)]*
+
+> The Afro-Turks: Turkey's little-known black minority reclaims its past. Descendants of African slaves sold to the Ottoman Empire, Afro-Turks seek to revive their ancestors' traditions, but there are barely any left.
+
+- So we were scattered over in Turkey. We still in Turkey. We still there. We still there. We in Istanbul, we all over, man. Most High wasn't playing when he scattered us. We still in these areas today. Whether we migrated over there in times past, time immemorial, or we was taken over there on slave ships, we are still in those areas. It's not a coincidence that we still together in those areas. Right. Go down.
+
+> Izmir, Turkey. Dotted along Turkey's Asian coastline are a smattering of villages that the country's Afro-Turks call home. The first generation suffers, the second generation denies, and the third generation questions, reads the opening line of Mustafa Opak's book, *The First and the Last*, an autobiography and introspective study of Turkey's dwindling black minority. Opak coined the term Afro-Turk and founded the movement to help resurrect their identity. But the history of the estimated 1.3 million people who were forced into slavery and shipped from Africa to the territories controlled by the Ottoman Empire remains little more than a footnote of Turkish history.
+
+- Damn. 1.3 million. That's the Ottoman Empire that they were shipping us.
+
+- **Officer:** You compare that, you add that into the number they shipped around... I mean, once again the number is always increasing, and they don't know the actual numbers. There's too many of us.
+
+- **Officer Jazz:** They were shipping us all over, man. All right, read it again.
+
+> While the Library of Congress of the United States of America has over 600 personal accounts of African-American slaves,
+
+- Yo, they have 600 personal accounts of us. The Library of Congress, 600 personal accounts. Probably more. They just threw out a number, but it's a lot more personal accounts that they have of us. Go ahead.
+
+> none could be found in Ottoman archives, notes Turkish historian Hakan Erdem in his commentary to Opak's book. Before his death last year, Opak had dreamed of delivering a copy of his book to former U.S. president Barack Obama, and even traveled to Istanbul's airport in a hopeless attempt to meet him as he landed for a state visit. Today the number of Afro-Turks is estimated at only a few tens of thousands. Many still live in the villages, and in Antalya and Adana, as well as in Istanbul. Most were first brought to Turkey to work as domestic servants
+
+- So we were brought to Turkey to work as slaves, to work as domestic servants. Or what?
+
+> or in the tobacco and cotton fields along the Aegean Sea.
+
+- Yo, we picked tobacco and cotton in Turkey. That's the curse, bro. We picked this stuff everywhere. It wasn't just over here. Most High scattered us. He wasn't playing. He shipped us on slave ships to Turkey and all these other countries, and we still was picking tobacco and cotton in those countries. I know we all refer to America, because, you know, that's the most known, but you have it here: Turkey. Now go ahead.
+
+> They settled near Izmir once they were freed. Although the slave trade was officially made illegal in 1857, following pressure from Britain and other European powers,
+
+- So over here the slave trade was made illegal in 1808. So when they mean the slave trade, they mean shipping us, bringing us over here on slave ships. They made that illegal in 1808 here in America. But it stopped over there in Turkey 1857. Go ahead.
+
+> it took until the beginning of the 20th century to eliminate the practice altogether and to liberate those who were owned by Ottoman families since before the slave trade was outlawed.
+
+- By the beginning of the 20th century. The beginning of the 20th century, to eliminate the whole practice of slavery altogether over in Turkey. Go ahead.
+
+> In Izmir, the state provided safe houses for former slaves, as well as assistance to integrate them into the labor market. Whole villages and neighborhoods inhabited by the Afro-Turks were dubbed Arab areas, the Turkish word for Arab, which is still used as slang to refer to black people.
+
+- So they call us Arab. Arab.
+
+- **Officer:** Same as ….
+
+- **Officer Jazz:** Yeah. I mean, so that's what they was calling us. Go ahead. So look, look at our people right here. Read the bottom.
+
+> Left, the leader of the Africans Culture and Solidarity Society, with a member of the group, in high school.
+
+- Go down. Let me see if there's any more I want on here. Go down, keep going. Read that part.
+
+> Shame and pain. While shame and pain played a role in many Afro-Turks' choice to bury their past, these were not the only factors. Upon arrival, slaves were immediately converted to Islam.
+
+- So you see that? Islam was forced on us by the Arabs. That's not our religion. Our people: oh, why are you in Islam? What's the way of life? No, you know that was forced. You know what they did to us in Mecca in order to force that religion on us. They shot, they castrated us, chopped our hands off, they did the worst to our sisters. And yet this religion was forced on us, man. We didn't really want to be Muslim. That thing was forced on us by the Arabs, because they had us in slavery. Get Jeremiah 3 and 2.
+
+</div>
+
+**[Jeremiah 3:2](/bible/jeremiah/3#v2)**  *[[1:59:09](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7149s)]*
+
+> <sup>[2](/bible/jeremiah/3#v2)</sup> Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
+
+- When you sitting for somebody, you're learning from them. They're teaching you their ways. As we sat for the Arabian in the wilderness: slavery. Read on. Right: following these different idols and religions, paying homage, walking around at the Hajj or whatever, with the cobblestone. All right, so read on.
+
+<div class="reading">
+
+Reading from the Afro-Turks article, continued  *[[1:59:55](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7195s)]*
+
+> Upon arrival, slaves were immediately converted to Islam,
+
+- We were immediately converted to Islam anyways. No time converting us. Just like over here, they immediately converted us to Christianity.
+
+> their names were changed,
+
+- And they were what? Their names were changed. They changed our names. That's Deuteronomy 28:37. Matter of fact, get Isaiah 65 and 15. No, I'm sorry, read Deuteronomy 28:37 first.
+
+</div>
+
+**[Deuteronomy 28:37](/bible/deuteronomy/28#v37)**  *[[2:00:06](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7206s)]*
+
+> <sup>[37](/bible/deuteronomy/28#v37)</sup> And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the Lord shall lead thee.
+
+- Among all nations. Even here's Turkey. We became a proverb and a byword. Changed our names. Now get Isaiah 65.
+
+**[Isaiah 65:15](/bible/isaiah/65#v15)**  *[[2:01:06](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7266s)]*
+
+> <sup>[15](/bible/isaiah/65#v15)</sup> And ye shall leave your name for a curse unto my chosen: for the Lord God shall slay thee, and call his servants by another name:
+
+- You see that? And we left our name for a curse. Okay. Same thing that happened to Daniel and his brothers: changed their names. That's what they do. That's what these other nations do. Same thing they did over here. Whatever name we had before we came off those slave ships, they changed that thing immediately. Yeah, they beat that other name out of us. All right, go back. Go ahead.
+
+- **Officer:** And also this proves, when, you know, when Christians say, oh, all y'all guys do is Deuteronomy 28. All we need is one... Right. Every single country, every single place we go, we do the same thing. Pick the same thing, names would change the same way, nationality taken the same way. There's no coincidence happening in every single country in the whole world.
+
+- **Officer Jazz:** Coincidence, bro. Most High said it. Yeah, you're right. All we need is Deuteronomy 28. Just disprove that. Yeah, you gotta disprove that, that it didn't happen to us. All right, read on.
+
+<div class="reading">
+
+Reading from the Afro-Turks article, continued  *[[2:01:40](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7300s)]*
+
+> Upon arrival, slaves were immediately converted to Islam, their names were changed, and they were forced to put all aspects of their free life in Africa behind them.
+
+- See that? Same thing. Read.
+
+> With a version of Islamic law ruling over the Ottoman Empire, treatment of slaves was different from America. Children of slaves were born free citizens, and marriage was legal, and after a period of seven to ten years Islamic law encouraged owners to release their slaves.
+
+- Right. All right, let me see if any more I want on that. All right, you could drop that. I think we got a text.
+
+</div>
+
+**Text:** I thought Tiglath-Pileser was king of Assyria. I thought Tiglath-Pileser was a king of Egypt. Are there two?
+
+
+- **Officer Jazz:** No, he was just king of Assyria. Yeah, yeah. Tiglath-Pileser was just the king of Assyria. He wasn't the king of Egypt. All right, he was an Assyrian king. Tiglath-Pileser was an Assyrian king. Okay, he was an Assyrian king.
+
+
+## In Closing
+
+*[[2:03:20](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7400s)]* All right, so we're gonna end it on that note. Yeah, we're gonna end it there. We continue with the ministry of the apostles next week. Matter of fact, it might be the week after. All right, the week after. Hey, Israel, let's give a hand for that class. That class was great. All praise the Most High.
+
+*[[2:05:00](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7500s)]* Hey, I want to give a shout out to the IT. All right, y'all did a great job. IT, all praise the Most High. Also I want to give a shout to the sisters that made that wonderful breakfast. Okay, all praises for that breakfast. Right. And with that we're going to say shalom, shalom, shalom. Thank you.
+
+## Announcements & References
+
+*[[2:03:55](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7435s)]* Israel, don't forget to subscribe to Our Hidden History Radio on YouTube. Okay, subscribe, hit the notifications button so you can know when we go live. Subscribe to IUIC Philadelphia and IUIC Philadelphia in the ClassRoom to get exclusive content, the camp videos from the captain and the officers of IUIC Philadelphia. Donate to Our Hidden History: you can donate on PayPal to iuic.philadelphia@israelunite.org; in the comments section put OHH. Donate to the Booster Club: you can donate to the Booster Club on PayPal to iuic.fundraising@israelunite.org. And last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC. And coming up next we got *Raven and Wolves*.
+
+*[[2:04:40](https://www.youtube.com/watch?v=JYg5vxhY1MA&t=7480s)]* Hey, hit the subscribe button, man. Look, we at 8,000 subscribers. We're trying to get at least 10,000 subscribers. So help us reach 10,000 subscribers for Our Hidden History Radio's YouTube page.
+
+Call or text the show at 267-702-6121.
+
+Sources read from in this episode:
+
+- *History of the Jews* by Heinrich Graetz, volume one (1896), on Samuel's schools at Ramah and the men trained there.
+- A history book on David drawn into the circle of Samuel's disciples (the book isn't named for this reading).
+- *Who's Who in the Bible*, the entry on Jeduthun, presented by Officer Abdon.
+- *A History of the Jews* by Solomon Grayzel (1940), page 141 and the next page, on the Jews writing books and pamphlets, and page 150, Christianity begins in the diaspora.
+- A page on Socrates, his dark complexion (the book isn't named), and a picture of a statue of Socrates.
+- The Richard Watson dictionary (1837): the entry on Hellenists, and page 766 on the schools of the prophets, preaching with visible signs, the synagogues and the apostles.
+- Wikipedia: Parthia; Greater Iran; the history of the Jews in Iran; Rey, Iran; Khuzestan province; Afro-Iranians; the history of the Jews in Turkey; Anatolia.
+- An article, *The Afro-Turks: Turkey's little-known black minority reclaims its past*, citing Mustafa Opak's book *The First and the Last*.
+- Videos played during the break: the IUIC school openings, Bishop Daniel on the foundations still to be laid, and the leadership in South Africa, India (Deacon Isaac) and Suriname.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=JYg5vxhY1MA)
