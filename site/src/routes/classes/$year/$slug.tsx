@@ -25,7 +25,7 @@ function NotePage() {
   return (
     <Page>
       <div className="note-head">
-        <p className="cj-kicker">Sabbath class{note.date ? ` · ${fmtDate(note.date)}` : ""}{note.teacher ? ` · ${note.teacher}` : ""}</p>
+        <p className="cj-kicker">{note.collection || "Sabbath class"}{note.date ? ` · ${fmtDate(note.date)}` : ""}{note.teacher ? ` · ${note.teacher}` : ""}</p>
         <h1 className="cj-h1">{note.title}</h1>
         <div className="note-head__actions">
           <ReadLink to="/classes">All classes</ReadLink>

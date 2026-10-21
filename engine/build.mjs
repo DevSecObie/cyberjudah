@@ -539,7 +539,7 @@ console.error(`library: ${libraryIndex.length} book(s), ${libraryIndex.reduce((a
 writeJson(path.join(API, "notes", "index.json"), notes.map((n) => ({ kind: n.kind, title: n.title, url: n.url, book: n.book, chapters: n.chapters, range: n.range, date: n.date, year: n.year, series: n.series, teacher: n.teacher, topics: n.topics ?? [], summary: n.summary ?? n.description ?? "", videoId: n.videoId ?? null })));
 for (const n of notes) {
   const rel = n.url.replace(/^\//, "") + ".json";
-  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, file: n.file ?? null, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, books: booksReadIn.get(n.videoId ?? "") ?? booksByNote.get(n.url) ?? [], body: n.body });
+  writeJson(path.join(API, "notes", rel), { kind: n.kind, title: n.title, url: n.url, file: n.file ?? null, book: n.book ?? null, chapters: n.chapters ?? null, date: n.date ?? null, teacher: n.teacher ?? "", collection: n.collection || "", summary: n.summary ?? n.description ?? "", topics: n.topics ?? [], videoId: n.videoId ?? null, books: booksReadIn.get(n.videoId ?? "") ?? booksByNote.get(n.url) ?? [], body: n.body });
 }
 
 /* ---------------- api: Our Hidden History ---------------- */

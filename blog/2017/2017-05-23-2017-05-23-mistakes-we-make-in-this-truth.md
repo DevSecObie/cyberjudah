@@ -1,0 +1,526 @@
+---
+title: "MISTAKES WE MAKE IN THIS TRUTH"
+slug: "2017/2017-05-23-mistakes-we-make-in-this-truth"
+date: "2017-05-23"
+teacher: "Bishop Nathanyel"
+collection: "The Truth Shall Make You Free · Kente FM Radio"
+description: "The Truth Shall Make You Free · Kente FM Radio · 2017-05-23"
+tags: ["IUIC in the ClassRoom", "mercy", "repentance", "sexual-purity", "substance-abuse", "the-law"]
+---
+
+<p class="taught">The Truth Shall Make You Free · Kente FM Radio · 2017-05-23 · Bishop Nathanyel</p>
+
+<span class="opens"><b>Opens</b> [Matt 3](/bible/matthew/3) · [Gal 5](/bible/galatians/5) · [1 Kgs 8](/bible/1-kings/8) · [1 John 3](/bible/1-john/3) · [2 Chr 7](/bible/2-chronicles/7) · [Isa 63](/bible/isaiah/63) · [Heb 11](/bible/hebrews/11) · [Eccl 8](/bible/ecclesiastes/8) · [Prov 24](/bible/proverbs/24) · [Prov 28](/bible/proverbs/28) · [Ps 51](/bible/psalms/51) · [Rom 7](/bible/romans/7) · [Lev 4](/bible/leviticus/4) · [Luke 12](/bible/luke/12) · [Num 15](/bible/numbers/15) · [Luke 13](/bible/luke/13) · <i>and 9 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="7UmR0A--9WM"></div>
+
+## Introduction
+
+*[[2:05](https://www.youtube.com/watch?v=7UmR0A--9WM&t=125s)]* The mistakes we make in this truth: in this truth we do make mistakes, we do make errors, we at times find ourselves in sin, because as we become born again, say at 30 years old, you have 30 years of sin, indoctrination, lies and philosophies in your head that you have to push from your spirit. It is not enough to know that we are Israelites; we must bring forth good fruit, know what sin is by the law, get back up when we fall, separate from the wicked and strive, because once saved always saved is a lie.
+
+## Scriptures Opened
+
+**[Matthew 3:8-10](/bible/matthew/3#v8)**  *[[3:06](https://www.youtube.com/watch?v=7UmR0A--9WM&t=186s)]*
+
+> <sup>[8](/bible/matthew/3#v8)</sup> Bring forth therefore fruits meet for repentance:
+>
+> <sup>[9](/bible/matthew/3#v9)</sup> And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham.
+>
+> <sup>[10](/bible/matthew/3#v10)</sup> And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
+
+- Sometimes we come in this truth and we believe that all we need to know is that we're Israelites and we are good with God, and that is not true. Watch what John the Baptist says to the scribes and Pharisees.
+
+- The word meet there is an Old English word that means good: bring forth therefore fruit good for repentance. Repentance means to show that yourself is approved of God, meaning you have returned to God by keeping the commandments.
+
+- John says don't think to say you got Abraham for your father. Likewise today many of us say, oh, we're descendants of Abraham, we're good, we don't have to do anything. John says that's not good enough, because God can raise up children of Abraham from rocks.
+
+- Every tree which bringeth not forth good fruit: the tree is you. Every Israelite that does not bring forth good fruit is cut down and cast into fire. What is that fire? The Lake of Fire, which is thermonuclear destruction.
+
+- Many of your listeners may have come to the realization that they're Israelites, but now they must bring forth good fruits.
+
+
+**[Galatians 5:22-23](/bible/galatians/5#v22)**  *[[5:08](https://www.youtube.com/watch?v=7UmR0A--9WM&t=308s)]*
+
+> <sup>[22](/bible/galatians/5#v22)</sup> But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
+>
+> <sup>[23](/bible/galatians/5#v23)</sup> Meekness, temperance: against such there is no law.
+
+- The first question: what is love? That's the first fruit you got to bring forth.
+
+- **Host:** The love according to the Bible is, God says, if you love me, keep my commandments.
+
+- This is what many people or Christians ignore: they ignore John 14:15 and they also ignore 2 John verse 6. Love is talking about keeping God's commandments.
+
+- Many times people interpret that as an emotional high, an emotional feeling. It's not talking about the love you may have for a friend; it's talking about God's love, which is obedience to his commandments. That is the first fruit we all must bring forth.
+
+- Against such there is no law, meaning no law of condemnation. There's no law that you can pull to condemn a brother or a sister walking like that, keeping the commandments, filled with joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance.
+
+- Love is keeping God's commandments. It's not an emotional high, it's not a tingling in your toes, 'I just feel so good.'
+
+- **Host:** Sometimes when we go to church and the music is being played and the singing, the kind of presence that we feel, we think that we are worshiping God. **Bishop Nathanyel:** Exactly, and that's not what the Bible is talking about.
+
+  Precepts:
+  - **[John 14:15](/bible/john/14#v15)**
+    > <sup>[15](/bible/john/14#v15)</sup> If ye love me, keep my commandments.
+
+    What the host quoted: if you love me, keep my commandments. Very good, that's it.
+  - **[2 John 1:6](/bible/2-john/1#v6)**
+    > <sup>[6](/bible/2-john/1#v6)</sup> And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.
+
+    This is what many people or Christians ignore. You see what love is: love is talking about keeping God's commandments.
+  - **[1 John 5:3](/bible/1-john/5#v3)**
+    > <sup>[3](/bible/1-john/5#v3)</sup> For this is the love of God, that we keep his commandments: and his commandments are not grievous.
+
+    His commandments are not grievous: they're not hard at all, but the world teaches you the commandments are hard and grievous. The commandments he's making reference to is the moral laws and the civil laws, and the ceremonial, which goes with God's holidays; those are very easy to do.
+
+
+**[1 Kings 8:46](/bible/1-kings/8#v46)**  *[[10:17](https://www.youtube.com/watch?v=7UmR0A--9WM&t=617s)]*
+
+> <sup>[46](/bible/1-kings/8#v46)</sup> If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
+
+- King Solomon, a black man of the tribe of Judah, when he prayed for the nation of Israel, made a profound statement: there is no man that sinneth not.
+
+- All of us have sinned and will continue to fall into sin until Messiah returns and changes our stony hearts to flesh.
+
+- But that is not an excuse. Many times we come into this truth and we like to make excuses for our sins.
+
+
+**[1 John 3:4](/bible/1-john/3#v4)**  *[[11:20](https://www.youtube.com/watch?v=7UmR0A--9WM&t=680s)]*
+
+> <sup>[4](/bible/1-john/3#v4)</sup> Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.
+
+- Let's find out what sin is. You would be amazed: we ask many Christians to explain sin and very few of them can explain it with scripture.
+
+- Sin is when you break God's law. All of us together are sinners; we've all sinned. The difference now is that we're coming back to the realization we're Israelites and must keep the law.
+
+- Sin is what caused us to go into slavery and to be colonialized; that's the result of sin.
+
+- We want mercy from the Almighty, so the stipulation is: return as Israel, accept his son and keep the commandments. That is the stipulation that he requires of us.
+
+
+**[2 Chronicles 7:14](/bible/2-chronicles/7#v14)**  *[[13:15](https://www.youtube.com/watch?v=7UmR0A--9WM&t=795s)]*
+
+> <sup>[14](/bible/2-chronicles/7#v14)</sup> If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
+
+- **Host:** There is this quotation I love so much: if my people who are called by my name shall humble themselves, pray, and seek my face, and turn from their wicked ways, then will I hear from heaven, I will forgive their sins and I'm going to heal their land.
+
+- Many Christians quote this verse but they don't understand the first line: if my people which are called by my name.
+
+- 2 Chronicles 7:14 that many Christians quote, they've never understood that we must go back to our name Israel. What they do is interpret that as Baptist, Pentecostal, Jehovah's Witness, and that's wrong. Israel is the name that God put on us, because Jacob's name was changed to Israel.
+
+- Shall humble themselves: humble ourselves to God's laws, that's what we got to do. And pray and seek my face and turn from their wicked ways: that is the part that many of our people don't want to do, turn from our ways.
+
+- Then will the Lord hear your prayers, and will forgive their sin and will heal their land. That's the prophecy, but we have to do it in that order.
+
+
+**[Isaiah 63:16-19](/bible/isaiah/63#v16)**  *[[14:11](https://www.youtube.com/watch?v=7UmR0A--9WM&t=851s)]*
+
+> <sup>[16](/bible/isaiah/63#v16)</sup> Doubtless thou art our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O Lord, art our father, our redeemer; thy name is from everlasting.
+>
+> <sup>[17](/bible/isaiah/63#v17)</sup> O Lord, why hast thou made us to err from thy ways, and hardened our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance.
+>
+> <sup>[18](/bible/isaiah/63#v18)</sup> The people of thy holiness have possessed it but a little while: our adversaries have trodden down thy sanctuary.
+>
+> <sup>[19](/bible/isaiah/63#v19)</sup> We are thine: thou never barest rule over them; they were not called by thy name.
+
+- Hold Chronicles; let's go to Isaiah 63 and 16.
+
+- We are thine: thou never barest rule over them; they were not called by thy name. You see that: the nations were never called by God's name. The name he gave us is Israel. God's name is on us.
+
+  Precepts:
+  - **[Baruch 2:15](/bible/baruch/2#v15)**
+    > <sup>[15](/bible/baruch/2#v15)</sup> That all the earth may know that thou art the Lord our God, because Israel and his posterity is called by thy name.
+
+    You see that: Israel is called by thy name.
+  - **[Isaiah 44:5](/bible/isaiah/44#v5)**
+    > <sup>[5](/bible/isaiah/44#v5)</sup> One shall say, I am the Lord’s; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel.
+
+    **Host:** Israel is our surname. **Bishop Nathanyel:** Isaiah 44:5, exactly.
+
+
+**[Hebrews 11:25](/bible/hebrews/11#v25)**  *[[17:59](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1079s)]*
+
+> <sup>[25](/bible/hebrews/11#v25)</sup> Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
+
+- This is why we don't like to turn from our wicked ways, our sin: rather than to enjoy the pleasures of sin. Sin is pleasurable; that's why we don't like to give it up.
+
+- Moses had a carefree life, being a high rank in Egypt, but he gave it up. He realized it was temporary, so he said, no, I got to stop all of this pleasure of sin. That's why he chose rather to suffer affliction with the people of God; that's what we all must do.
+
+- Some of us like the pleasure of sin when it comes to marijuana or ganja; some of us when it comes to adultery, orgies, homosexuality; some of us when it comes to drunkenness, or excess of eating, gluttony; some of us like the pleasure of sin in gossip and hatred. These types of things we must give up, because they're temporary.
+
+
+**[Ecclesiastes 8:11-12](/bible/ecclesiastes/8#v11)**  *[[20:02](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1202s)]*
+
+> <sup>[11](/bible/ecclesiastes/8#v11)</sup> Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
+>
+> <sup>[12](/bible/ecclesiastes/8#v12)</sup> Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:
+
+- Because God doesn't punish us immediately, the hearts of our mind is set to do evil. For example, we'll commit adultery, we didn't get judged, and we go, hey, God didn't kill me, he didn't judge me, nothing bad happened, I'm gonna do it again.
+
+- Or we celebrate Easter and Christmas and go, God didn't punish me, I'm going to do it again next year. Or smoke weed, marijuana: God didn't punish me, I'm going to smoke it some more. That's what it means when it says because judgment is not executed speedily, therefore our heart is set to do evil.
+
+- This is why many of our people continue to sin, and the Most High has it set like that for a reason. He lets us get away; we think we're getting away, but we're not getting away.
+
+- This is why Romans 6:23 says the wages of sin is death. You're building up a spiritual bank account of sin; now comes judgment against us.
+
+- Though a sinner do evil a hundred times and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him.
+
+  Precepts:
+  - **[Romans 6:23](/bible/romans/6#v23)**
+    > <sup>[23](/bible/romans/6#v23)</sup> For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
+
+    The wages of sin is death: you're building up a spiritual bank account of sin.
+
+
+**[Proverbs 24:16](/bible/proverbs/24#v16)**  *[[21:53](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1313s)]*
+
+> <sup>[16](/bible/proverbs/24#v16)</sup> For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.
+
+- The question often comes up: what happens when we sin, if we fall back into eating monkey meat or shrimp or crab, or adultery, fornication?
+
+- A just man, when you sin, it's generally by accident. You really didn't plan it, you didn't want to do it, so you get back up and say, Father, forgive me, let me get myself right.
+
+- The wicked man purposely continues to sin, and he remains in that condition, in that state. The wicked has no remorse, he has no sense of repentance, so he or she will stay in their sin and die.
+
+- The just man, the just woman, are those that stumble in this walk and sincerely go to the Father for mercy, for forgiveness, like Samson, like David, like Solomon.
+
+- I don't want anyone to make excuse for their sins.
+
+
+**[Proverbs 28:13](/bible/proverbs/28#v13)**  *[[23:50](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1430s)]*
+
+> <sup>[13](/bible/proverbs/28#v13)</sup> He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
+
+- I don't want the listeners to get the misunderstanding that it's okay to sin and just go back and ask the Lord for mercy.
+
+- Whoso confesseth and forsaketh them shall have mercy: that's when the mercy comes in. Don't cover your sins means don't make excuse for your sin.
+
+- Adultery, fornication, those sexual sins, those are planned. Sexual sins are always planned out. It's not like you're eating a piece of meat and then someone says, hey, there's pork in that. Sexual sins is something you think about, you meditate on, and you execute it.
+
+- Like what King David did, the adultery he committed with Bathsheba: he thought about it, he saw her, then once he got more involved in it he said, I got to kill her husband. He took many steps to try to cover up that sin, and that's why the Lord killed his firstborn.
+
+- But in his repentance God knew that David's heart was sincere; that is Psalm 51, the repentance.
+
+  Precepts:
+  - **[Proverbs 28:4](/bible/proverbs/28#v4)**
+    > <sup>[4](/bible/proverbs/28#v4)</sup> They that forsake the law praise the wicked: but such as keep the law contend with them.
+
+    Before we get to Psalm 51, look at Proverbs 28 verse 4. You see that.
+
+
+**[Proverbs 28:9](/bible/proverbs/28#v9)**  *[[25:43](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1543s)]*
+
+> <sup>[9](/bible/proverbs/28#v9)</sup> He that turneth away his ear from hearing the law, even his prayer shall be abomination.
+
+- There's another one that's very heavy. That is a great stipulation: when you sin, you hear the law, you repent and ask the Lord for mercy, and then you keep the commandments, the laws, in your life.
+
+- He that turneth away his ear from hearing the law, even his prayer shall be abomination: God don't want to hear your prayers, because in your heart you hate his law, you hate his commandments, so he's not hearing your prayers.
+
+- This is why we suffer so as a people. We suffer poverty, colonialization and slavery; this is why we suffer.
+
+
+**[Psalms 51:1-3](/bible/psalms/51#v1)**  *[[26:38](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1598s)]*
+
+> <sup>[1](/bible/psalms/51#v1)</sup> Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+>
+> <sup>[2](/bible/psalms/51#v2)</sup> Wash me throughly from mine iniquity, and cleanse me from my sin.
+>
+> <sup>[3](/bible/psalms/51#v3)</sup> For I acknowledge my transgressions: and my sin is ever before me.
+
+- This is very heavy and needful for our people. This is after David sinned and Nathan the prophet rebuked him for committing adultery with Bathsheba and killing Uriah the Hittite.
+
+- For I acknowledge my transgressions: this is the part we all have to get to. I acknowledge what laws I have broken. This is what many of us refuse to do.
+
+- This is why it's important for us to study God's word, study his laws. How are you able to acknowledge your transgressions if you don't know what transgressions are?
+
+- Many times people in the church say, oh, I'm a sinner saved by grace. I'll say, what is sin? They say, I don't know. So how are you a sinner saved by grace? They give fantasy definitions.
+
+- In order to acknowledge our transgressions we must know what sins are that we have broken.
+
+
+**[Romans 7:7](/bible/romans/7#v7)**  *[[28:32](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1712s)]*
+
+> <sup>[7](/bible/romans/7#v7)</sup> What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
+
+- Paul says, I had not known lust, meaning he would not have known what lust is except the Lord had said, Thou shalt not covet. That's how he got the understanding that he was in sin.
+
+- The Lord teaches you what sin is: the commandment, Thou shalt not covet anything that is thy neighbour's, his house, his ox, his ass, his wife, his servant. That's lust, that is coveting.
+
+- Paul said you will only understand sin by the law. That's why we must study God's laws, to understand what we are guilty of.
+
+- How can you say a sinner's prayer and you don't know what sins you have committed? You see the foolishness of Christianity; that's how we know it is a false religion. People say, oh, I prayed to the Lord for forgiveness of my sins. What sins have you committed? I don't know. It's ridiculous; it makes no sense whatsoever.
+
+- **Host:** When I was hosting a program and talking about not eating pork, he said, oh no, we are under the grace, what enters into us doesn't defile us. I just referred him to Isaiah chapter 66, where those people who eat swine and rat, it's an abomination to God and God is going to send them into the Lake of Fire. **Bishop Nathanyel:** Exactly, 100% correct.
+
+- **Host:** If you don't study the law you might feel okay, but because we don't study the law we commit those sins without even knowing it.
+
+
+**[Leviticus 4:27-28](/bible/leviticus/4#v27)**  *[[31:19](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1879s)]*
+
+> <sup>[27](/bible/leviticus/4#v27)</sup> And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the Lord concerning things which ought not to be done, and be guilty;
+>
+> <sup>[28](/bible/leviticus/4#v28)</sup> Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.
+
+- There's a law in the Bible about sinning in ignorance.
+
+- Even when you sinned through ignorance under Moses, you had to offer a sacrifice. But we know that now the sacrifice is Christ.
+
+- We still have to acknowledge when we sin through ignorance, because sometimes we do sin through ignorance, because you don't know. This is what our people must understand: there's still a judgment for that.
+
+
+**[Luke 12:47-48](/bible/luke/12#v47)**  *[[32:34](https://www.youtube.com/watch?v=7UmR0A--9WM&t=1954s)]*
+
+> <sup>[47](/bible/luke/12#v47)</sup> And that servant, which knew his lord’s will, and prepared not himself, neither did according to his will, shall be beaten with many stripes.
+>
+> <sup>[48](/bible/luke/12#v48)</sup> But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.
+
+- What we just read in Leviticus 4 is the same thing Christ said in the book of Luke, about being beaten with few stripes.
+
+- The servant which knew his lord's will and prepared not himself, neither did according to his will, shall be beaten with many stripes: you're going to get a worse punishment.
+
+- He talked about the servant that knew God's will and did it not, then a servant that sinned through ignorance: you're still going to get a punishment. This is what Christ is saying; this is the same thing Moses taught us, about sinning through ignorance and sinning presumptuously.
+
+
+**[Numbers 15:29-31](/bible/numbers/15#v29)**  *[[34:22](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2062s)]*
+
+> <sup>[29](/bible/numbers/15#v29)</sup> Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them.
+>
+> <sup>[30](/bible/numbers/15#v30)</sup> But the soul that doeth ought presumptuously, whether he be born in the land, or a stranger, the same reproacheth the Lord; and that soul shall be cut off from among his people.
+>
+> <sup>[31](/bible/numbers/15#v31)</sup> Because he hath despised the word of the Lord, and hath broken his commandment, that soul shall utterly be cut off; his iniquity shall be upon him.
+
+- Presumptuously means you know the law and you do against it despite.
+
+- He talked about sinning through ignorance and the presumptuous sinner. The presumptuous sinner is the man or woman that despises God's law: they hear it and refuse to obey it.
+
+- That's the same thing Christ said: the servant that knew God's will and did it not shall be beaten with many stripes, but the servant that did not know shall be beaten with few stripes. Christ said the same thing Moses said here.
+
+- This is what our people must understand regarding the Old Testament and the New Testament: they're saying the same thing. One was under the Levitical covenant of animal sacrifice; this new covenant is under the sacrifice of Christ the Son of God. But they're still saying very similar things.
+
+
+**[Luke 13:24](/bible/luke/13#v24)**  *[[36:16](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2176s)]*
+
+> <sup>[24](/bible/luke/13#v24)</sup> Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.
+
+- The word strive, s-t-r-i-v-e: strive means to fight, to struggle. That's what we must do in this truth.
+
+- We learn the commandments, then temptations come to turn us back to the sins we used to doing in the world. So now we must strive, we must fight, we must struggle against the sin within.
+
+- Sometimes the sin within is triggered by people we know in the world: an ex-girlfriend, an ex-boyfriend, friends we know in the world who we used to run with. We have to strive against that stuff.
+
+- **Host:** Sometimes when they know that you have become a repented soul, they come with a whole lot of tricks just to get you back. **Bishop Nathanyel:** Yes, that's what they do.
+
+
+**[Luke 14:26](/bible/luke/14#v26)**  *[[37:13](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2233s)]*
+
+> <sup>[26](/bible/luke/14#v26)</sup> If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
+
+- When we come into this truth we must prepare ourselves and consider what is to come.
+
+- **Host:** It means you have to deny all the people, even those close or friends, who will drag you back into the world.
+
+- He's saying be willing to cut them off, like Matthew 18:8 says the same thing: if thy hand offend thee, cut it off and cast it from thee. Your right hand might be your mother or your father or your wife or your sister, your brother, someone close to you that you love, but those persons are telling you, let's go back to the sins we used to do.
+
+- Yea, and his own life also: meaning your own lust within. He cannot be my disciple.
+
+- You have to be willing to cut things off at the drop of a dime. This is what the listeners must understand.
+
+  Precepts:
+  - **[Matthew 18:8](/bible/matthew/18#v8)**
+    > <sup>[8](/bible/matthew/18#v8)</sup> Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.
+
+    A precept with this, because people say, what does it mean, hate your mother, hate your father? He's using the example of your hand or your foot as someone very close to you, dear to you in your life: you have to be willing to cut them off.
+
+
+**[Deuteronomy 13:6-9](/bible/deuteronomy/13#v6)**  *[[40:09](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2409s)]*
+
+> <sup>[6](/bible/deuteronomy/13#v6)</sup> If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;
+>
+> <sup>[7](/bible/deuteronomy/13#v7)</sup> Namely, of the gods of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth;
+>
+> <sup>[8](/bible/deuteronomy/13#v8)</sup> Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him:
+>
+> <sup>[9](/bible/deuteronomy/13#v9)</sup> But thou shalt surely kill him; thine hand shall be first upon him to put him to death, and afterwards the hand of all the people.
+
+- A plainer example in the Bible, saying the same thing as what we've just been reading about hating your father, your mother, your brother, your sister, your son, and cutting off your hand, your foot.
+
+- Even under Moses it was death. When Christ explained it, he just gave an analogy, a metaphor, a similitude or a parable: just cut them off from you, meaning separate. That's what Christ was saying, because we know we cannot kill people today.
+
+- Moses was saying, if your wife, your friend who's like your own soul, even your son: don't consent unto them, and don't have pity on them. That is the same thing Christ was saying. Luke 14:26 and Matthew 18:8 are saying the same thing: cut them off from your life.
+
+- **Host:** The meat of all the New Testament writing is based on the Old Testament writing, which we call the Torah, but unfortunately people just want to make a distinction, Old Testament and New Testament. It is not old; it is the instruction. Anybody who wants to understand the New Testament, please learn the old, learn the law. **Bishop Nathanyel:** Exactly.
+
+
+**[1 Peter 4:3-4](/bible/1-peter/4#v3)**  *[[43:09](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2589s)]*
+
+> <sup>[3](/bible/1-peter/4#v3)</sup> For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
+>
+> <sup>[4](/bible/1-peter/4#v4)</sup> Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:
+
+- The apostle Peter said something very heavy for us.
+
+- For the time past of our life may suffice us to have wrought the will of the Gentiles: meaning there came a time when we lived like the nations, because the word Gentiles means nations. We lived like them, we wanted to be like them; particularly in this day and age we wanted to be like the so-called white man, just like during Peter's time we wanted to live like the Romans.
+
+- Lust can cover a whole lot of things: you can lust for marijuana, you can lust for money, you can lust for food, I mean overeating.
+
+- Excess of wine: that is drunkenness. There's no sin to drink, but drunkenness is the sin.
+
+- Abominable idolatries goes into idol worship and those type of things.
+
+- Wherein they think it strange that ye run not with them to the same excess of riot, meaning riotous living, speaking evil of you: the friends you used to run with in the world, or it might be your wife or your mother or father, now they speak evil against you because you decide not to live like that no more. These are the strivings we must go through in this truth; this is what new brothers and sisters who are trying to get their lives right must understand.
+
+
+<div class="reading">
+
+Reading from a dictionary, on the words of 1 Peter 4:3  *[[44:12](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2652s)]*
+
+> Lasciviousness: offensive sexual desires.
+
+- **Host:** Lasciviousness is a kind of sexual pleasure to entice.
+
+- That is the life we came from, where we would have sex with one woman today, the next woman tomorrow, and someone else next week. Those are those sexual sins that Peter is warning us about, how we used to live.
+
+> Reveling: parties, drunkenness, drinking, dancing at parties, celebrating at parties.
+
+- You know how you have friends that say, oh, let's go to the club, there's a party at the club, and we all go. The music at these clubs, these parties, are songs of adultery.
+
+- We look for the single woman in a club because we want to get with her, and we give her a lot of drink: drink, woman, drink, drink, drink. And then you dance.
+
+> Banquet: a large meal or feast.
+
+- **Host:** A banquet is also a party, but a wild one.
+
+- Like Thanksgiving is a banquet, where you have people come to eat food, then you dance, you drink. It's the same thing.
+
+</div>
+
+
+**[Proverbs 12:26](/bible/proverbs/12#v26)**  *[[47:45](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2865s)]*
+
+> <sup>[26](/bible/proverbs/12#v26)</sup> The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.
+
+- People say, what's wrong with hanging out with my old friends? When we come into this truth we want to hold on to our wicked friends. We have shared the truth with our friends, but your friend is not listening to the Bible, and we still want to hold on to our friend, our son, our wife.
+
+- You come into this truth, you're more excellent than your neighbor. Why? Because you've repented, you've changed your life.
+
+- But the way of the wicked seduceth them, meaning they will get you to follow them; they will seduce you. Remember when we had fun, when we did this, that and the other? You start to listen to them, and after time you find yourself back in the filth you tried to escape from.
+
+
+**[Ephesians 5:11](/bible/ephesians/5#v11)**  *[[48:50](https://www.youtube.com/watch?v=7UmR0A--9WM&t=2930s)]*
+
+> <sup>[11](/bible/ephesians/5#v11)</sup> And have no fellowship with the unfruitful works of darkness, but rather reprove them.
+
+- It's not enough just to know that we're Israel; we have to change our lives, and one of the steps in changing our lives is separating from the wicked.
+
+- You may have used to do drugs; now you're trying to stop that. You cannot hang out with a drug addict or a drug dealer.
+
+- Have no fellowship with them, meaning friendship. It's not saying you can't talk to them, because it says reprove them; in order to reprove them you're talking to them. Fellowship means that bond, that friendship, you're still close with each other. The Bible says don't do that.
+
+- Why? Because, like we just read in Proverbs 12:26, the way of the wicked will seduce you to go back to the way you used to live.
+
+
+**[1 Corinthians 10:13](/bible/1-corinthians/10#v13)**  *[[50:40](https://www.youtube.com/watch?v=7UmR0A--9WM&t=3040s)]*
+
+> <sup>[13](/bible/1-corinthians/10#v13)</sup> There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
+
+- This whole walk is a struggle, a fight, like Christ said, strive to enter the strait gate. The strait gate is the kingdom; you got to fight to get there.
+
+- Many times we come into this truth and we think, my temptation, nobody understands what I'm going through. That's not true. Lasciviousness, excess of wine, lust, revelings, banqueting: those are all common to man.
+
+- Your lust is adultery: that's common. Somebody else might say, well, you don't know what I'm going through, I lust after men, I'm homosexual. That's still a lust, a sexual perverted sin; it's still very common. Or some lust after children: those sexual things are still common to man. So don't think God doesn't know what I'm going through.
+
+- God is faithful, who will not suffer you to be tempted above that ye are able: whatever comes on you, God knows; he will only allow you to be tempted to the point that you can bear it. He wants you to fight against this, fight against that.
+
+- He will make a way to escape, and the way to escape is several ways: meditating on his scripture, counseling or talking with a brother or sister who's in the scriptures. These are the ways God wants us to escape these temptations.
+
+
+**[Romans 7:15](/bible/romans/7#v15)**  *[[54:24](https://www.youtube.com/watch?v=7UmR0A--9WM&t=3264s)]*
+
+> <sup>[15](/bible/romans/7#v15)</sup> For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.
+
+- **Host:** My nephew said that the apostle Paul wrote that if you may lust after other women, or burn with passion, then you have to marry; then it means the apostle Paul also went through such things and he knows how it feels, and that's the reason why he wrote those things. **Bishop Nathanyel:** Yes, exactly.
+
+- In this chapter he's explaining his own strivings and struggles, that he also erred in this truth. He said the things I want to do, I do not.
+
+- He was vexed with himself, falling, like we read earlier: a righteous man falleth seven times, but gets back up.
+
+
+**[Sirach 2:1-5](/bible/sirach/2#v1)**  *[[55:28](https://www.youtube.com/watch?v=7UmR0A--9WM&t=3328s)]*
+
+> <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
+>
+> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
+>
+> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
+>
+> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
+>
+> <sup>[5](/bible/sirach/2#v5)</sup> For gold is tried in the fire, and acceptable men in the furnace of adversity.
+
+- This is what all believers must understand: when it comes to the Lord, it's not going to be an easy walk; it's not going to be a bed of roses.
+
+- When you come to this truth, prepare your soul for temptation. A good example is the prophet Job: the Most High said to Satan, have you considered my servant Job? Satan said, you have a hedge around him; if you let me touch him, he will curse you. The Lord allowed him to test Job; he took away his finances, his jobs, his economics and his children, then his health. When you come to this truth the Most High will allow Satan to try you, to see if you love him.
+
+- Constantly endure with what you go through; that's the same thing Paul was struggling with in Romans 7. Make not haste in time of trouble means don't give up, don't go back into the world again, don't go back to the old man you used to be.
+
+- Cleave unto him and depart not away, that thou mayest be increased at thy last end, like the prophet Job: remember at the end, in Job 40, it said he was blessed sevenfold more than what he had.
+
+- Be patient when thou art changed to a low estate, like Job was changed to a low estate: he was the rich man, then he became poor. Many times brothers and sisters come into this truth and they may lose what they have; that is a trial, that is temptation, that is a struggle you must battle through. We have had brothers and sisters who come into this truth very wealthy and then they lose their monies overnight. You may have been a brother who had many women; you come into this truth, now you can't find one.
+
+- Gold is tried in the fire: when you get gold from the earth, in the gold there may be elements of zinc, tin, iron and silver, and you have to melt it to get the impure elements out of it. Likewise with us: God says, I got to melt you, I'm going to put you in fire, meaning trials, tribulation, struggles, for you to come out of it. **Host:** A purification process. **Bishop Nathanyel:** That's what it is.
+
+
+**[2 Peter 2:20-22](/bible/2-peter/2#v20)**  *[[1:00:07](https://www.youtube.com/watch?v=7UmR0A--9WM&t=3607s)]*
+
+> <sup>[20](/bible/2-peter/2#v20)</sup> For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.
+>
+> <sup>[21](/bible/2-peter/2#v21)</sup> For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them.
+>
+> <sup>[22](/bible/2-peter/2#v22)</sup> But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
+
+- **Host:** In the past times there's a saying, once saved, saved forever: you know you belong to the church, you may be tempted to do all kinds of things, but in your mind, once you have professed with your mouth, that is all. **Bishop Nathanyel:** That's so wrong. This destroys the stupid teaching once saved always saved; that's false.
+
+- The pollutions of the world are the world's religions, political groups, and sins in terms of sexuality, in terms of excess of wine, in terms of revelings, in terms of hatred.
+
+- They are again entangled therein and overcome: there may come a time where we struggle; a righteous man falleth seven times but gets back up. But overcome means you're not getting back up again; you're overcome with the sins of the world. The latter end is worse with them than the beginning, meaning you are worse now than when you first came into the truth.
+
+- So what do you mean, once saved always saved? That's a lie. Peter said it had been better for you never to have known the way of righteousness than, after you have known it, to turn from the holy commandment delivered unto you.
+
+- The sow is a pig: you wash the pig off clean, then the pig goes right back to the mud again. Peter is getting on Israelites who come into the truth then return to their vomit, their filth, their sin, comparing the Israelite who is entangled and overcome in their sin to the dog and to the pig.
+
+
+**[Hebrews 6:4-6](/bible/hebrews/6#v4)**  *[[1:02:59](https://www.youtube.com/watch?v=7UmR0A--9WM&t=3779s)]*
+
+> <sup>[4](/bible/hebrews/6#v4)</sup> For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,
+>
+> <sup>[5](/bible/hebrews/6#v5)</sup> And have tasted the good word of God, and the powers of the world to come,
+>
+> <sup>[6](/bible/hebrews/6#v6)</sup> If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.
+
+- Once saved always saved, that's not true. This is not talking about if you struggle and fall and get back up; Hebrews 6:4 is you fell and you stay falling and you're not getting back up again.
+
+- This is the brother or sister who gets entangled in their sin and is overcome in their sin, not the brother or sister who stumbles and falls and tries to get up again. This is the brother or sister who cannot repent; they don't want to repent. It is impossible to renew them to repentance.
+
+- The slogan or saying of once saved always saved, that's wrong; that's not scriptural at all.
+
+- **Host:** The beast we are dealing with now is the same beast which took over the interpretations of the book which is supposed to be our heritage, but we lost it because we sinned. The book got into the hands of the enemies and they manipulated everything in it, because they know when they teach us the right precepts God's presence will flow in us, so they change the interpretation.
+
+- **Host:** Pork is detestable, whether New Testament or Old Testament, but check a Christian group like the Jehovah's Witness: when they go to their assembly the chief meat they eat over there is swine. **Bishop Nathanyel:** Wicked as hell, that's it.
+
+- **Host:** It's not an easy journey; we strive, it's a struggle. We ask God for his power, that he may give us the power to understand the laws, so that we put those laws into practice. **Bishop Nathanyel:** Exactly, that is the most important thing.
+
+
+## In Closing
+
+*[[1:08:26](https://www.youtube.com/watch?v=7UmR0A--9WM&t=4106s)]* Brothers, sisters, all praises to the saints abroad and near. Lord's willing, we'll be out to Belgium, I pray, coming soon; I don't know when, but Lord's willing. Shalom.
+
+## Announcements & References
+
+- Visit the website at www.israelunite.org.
+- Subscribe to the Join IUIC YouTube channel to stay linked to all the videos, since YouTube likes to shut the channels down.
+
+---
+
+[Class Notes Index](/classes) · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v=7UmR0A--9WM)
