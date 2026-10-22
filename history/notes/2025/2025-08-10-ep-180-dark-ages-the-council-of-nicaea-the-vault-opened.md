@@ -543,7 +543,7 @@ Reading from a search result on the First Council of Nicaea and Arianism · read
 
 - **Deacon Eythan:** Don't ever leave. If you pull that verse, don't leave. Stay right there. Don't go nowhere else. Stay right there. So there is what? One Lord. And that Lord is our God's God.
 
-- Come on. One more before we land. They might say, oh, well, see, he became his God when he was on earth and his Father was in heaven, so he split in two. Got you. So let's go to before he came down here as a human being. Cuz I'm telling you, negroes are...
+- Come on. One more before we land. They might say, oh, well, see, he became his God when he was on earth and his Father was in heaven, so he split in two. Got you. So let's go to before he came down here as a human being. Cuz I'm telling you, negroes are …
 
 - **Officer:** You got to cover all angles.
 

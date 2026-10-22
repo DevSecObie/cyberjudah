@@ -788,7 +788,7 @@ Reading from *The Chosen People from the Caucasus*, page iii · read by an offic
 
 - That's why I said earlier the Harana family. It said Marrano. Marrano is Jakes, but Edom, when they converted to our customs and our ways, they were deemed Marrano too, and took on our family names. There's one family, for example, a Jacob family that ruled in Europe. Now it's white folks. You got Queen Elizabeth, Prince Henry. That's not the family that's sitting on that throne. That's us. That's our line. But they married into our family and took over. Herod married into our family and took over. That's what they do. This picture here, this is that family. That's the abbreviation of the name, it's Jacob, meaning the family of Jacob. So if you look up that family now, they will not look like this picture here at all. But we intermarried with them. And you got another family called the Medici family. Them dudes is demons. The Medici family was the worst. You'll find that name in all kind of evil.
 
-- **Officer:** Hey, Deacon, that's just like what you also bring out with Arnold Schwarzen.
+- **Officer:** Hey, Deacon, that's just like what you also bring out with Arnold Schwarzen …
 
 - **Deacon Eythan:** Yeah. Arnold Schwarzen-nigga. That name. You got Johnson, you got McDonald, McDougall, Morrison, Morristown. We ruled, yo. We gave ourselves Blackson, Blackman, Blackmon. That was us. White folks: my name is Blackman. No, it's not. But their family married with us and took the names. It's what they do. I'm sorry, those are our self-given names, not our biblical names. Those are names we gave ourselves in exile, not our God-given names. Those are self-given bywords. That's what I call them. Read on.
 
