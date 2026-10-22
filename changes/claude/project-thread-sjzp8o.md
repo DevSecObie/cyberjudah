@@ -7,3 +7,11 @@ Every IUIC show and series besides the Sabbath classes gets its own section.
 - `engine/shows.mjs`, `engine/build.mjs`: a class or captains note of one of the shows carries the show's name as its `collection` (read from its title unless the frontmatter names one), and `api/shows/index.json` lists every show with its notes and its count of transcribed recordings.
 - Site: `/shows` lists every show and series; `/shows/<slug>` is a show's own section (its notes, browsable like the Truth series), and says plainly when no notes are written yet. "Shows & Series" is in the Teaching menu and the footer, and in the sitemap.
 - `/classes` lists only Sabbath classes and `/captains` only 15 Minutes episodes; the shows' notes are in their own sections.
+
+## Show notes, batch 1
+
+Notes for the shows with the fewest recordings left to write up, each filed under its show by `collection` and dated by its YouTube upload day:
+
+- The Nehemiah Squad Radio: Narcissism Amongst Blacks and Hispanics (2024-06-24), Reparations: Dream or Reality? (2024-07-01). Both now have notes.
+- The Writings on the Wall Radio: the two halves of the 2021-07-16 broadcast, as Part 1 and Part 2. Both now have notes.
+- NDEFCAM Radio: The Chosen People (2018-06-22). The other NDEFCAM recording (YTVkXVsVBf0) has captions only for the Cameroon studio, not for IUIC's side, so it has no note.
