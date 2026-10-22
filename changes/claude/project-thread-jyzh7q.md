@@ -19,3 +19,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 4
 
 - 2 Corinthians 1:12 (2026-03-09, Captain Matt), 2 (2026-03-10, Captain Gedaliah), 3 (2026-03-11, host not named), 4 (2026-03-12, Captain Matthew), 4-5 (2026-03-17, Captain Josiah) and 6 (2026-03-26, Captain Matthew). A second stream of 2 Corinthians 3 the same day (IG_9tm09NHM) is skipped as a duplicate.
+
+## Batch 5
+
+- 1 Corinthians 15:19 (2026-02-16, Captain Emmanuel), 15:24 (2026-02-17, Captain Matthew), 15:35 (2026-02-19, host name unclear), 15:45 (2026-02-23, Captain Yaya), 16 (2026-02-24, host name unclear) and 2 Corinthians 1 (2026-02-26, Captain Matthew).
