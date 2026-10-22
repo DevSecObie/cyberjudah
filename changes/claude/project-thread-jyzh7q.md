@@ -11,3 +11,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 2
 
 - 2 Corinthians 10 (2026-05-04, Captain Yuri), 10 Continued (2026-05-05, Captain Gedaliah), 11:1 (2026-05-07, Captain Horeb), 11 Continued (2026-05-12, Captain Yuri), 11:16 (2026-05-13, host not named) and 11:28 (2026-05-14, Captain Matthew).
+
+## Batch 3
+
+- 2 Corinthians 7 (2026-03-30, Captain Emmanuel), 7:8 (2026-03-31, Captain Gedaliah), 8:1 (2026-04-02, host name unclear), 8:10 (2026-04-06, host not named), 8:15 (2026-04-08, host not named) and 9 (2026-04-09, Captain Matthew).
