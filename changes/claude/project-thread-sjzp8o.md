@@ -33,4 +33,4 @@ Notes for the shows with the fewest recordings left to write up, each filed unde
 ## Show notes, batch 5
 
 - The Natives Hour, IUIC Denver: State of Emergency at the Pine Ridge Reservation (2023-12-06), Native Americans Were Slaves Too, Pt. 2, Continued (2023-12-13) and Ecuador: From Slavery to Hostages (2024-03-10). The host's name isn't clear in the captions, so the teacher is left empty. Two recordings have no note (see the PR), and the Ecuador note leaves out its first segment.
-- Secrets of History, The Two Promised Lands, chapters 5 to 9 (2020-09-27 to 2020-10-25), on the Our Hidden History radio show, hosted by the deacon (Deacon Eythan) with Captain Joel and officers. Every transcribed chapter now has a note.
+- Secrets of History, The Two Promised Lands, chapters 5 to 9 (2020-09-27 to 2020-10-25), on the Our Hidden History radio show, hosted by the deacon (named only as "the deacon" in the captions) with Captain Joel and officers. Every transcribed chapter now has a note.

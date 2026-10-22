@@ -2,13 +2,13 @@
 title: "Secrets of History: The Two Promised Lands, Chapter 5"
 slug: "2020/2020-09-27-secrets-of-history-the-two-promised-lands-chapter-5"
 date: "2020-09-27"
-teacher: "Deacon Eythan"
+teacher: "Deacon"
 description: "Secrets of History · 2020-09-27"
 collection: "Secrets of History"
 tags: ["IUIC in the ClassRoom", "passover-feasts"]
 ---
 
-<p class="taught">Secrets of History · 2020-09-27 · Deacon Eythan</p>
+<p class="taught">Secrets of History · 2020-09-27 · Deacon</p>
 
 <span class="opens"><b>Opens</b> [Deut 33](/bible/deuteronomy/33) · [Deut 12](/bible/deuteronomy/12) · [Exod 39](/bible/exodus/39) · [Exod 28](/bible/exodus/28) · [2 Esdras 13](/bible/2-esdras/13) · [Luke 8](/bible/luke/8) · [Luke 21](/bible/luke/21) · [Hos 1](/bible/hosea/1) · [Ezek 37](/bible/ezekiel/37) · [John 10](/bible/john/10) · [John 11](/bible/john/11) · [Isa 7](/bible/isaiah/7) · [Isa 56](/bible/isaiah/56) · [Isa 11](/bible/isaiah/11)</span>
 

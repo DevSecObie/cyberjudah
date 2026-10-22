@@ -2,13 +2,13 @@
 title: "Secrets of History: The Two Promised Lands, Chapter 9"
 slug: "2020/2020-10-25-secrets-of-history-the-two-promised-lands-chapter-9"
 date: "2020-10-25"
-teacher: "Deacon Eythan"
+teacher: "Deacon"
 description: "Secrets of History · 2020-10-25"
 collection: "Secrets of History"
 tags: ["IUIC in the ClassRoom", "edom-esau"]
 ---
 
-<p class="taught">Secrets of History · 2020-10-25 · Deacon Eythan</p>
+<p class="taught">Secrets of History · 2020-10-25 · Deacon</p>
 
 <span class="opens"><b>Opens</b> [Ps 2](/bible/psalms/2) · [Dan 7](/bible/daniel/7) · [2 Esdras 12](/bible/2-esdras/12) · [2 Esdras 11](/bible/2-esdras/11) · [Obad 1](/bible/obadiah/1) · [Gen 36](/bible/genesis/36) · [Rev 13](/bible/revelation/13) · [Rev 6](/bible/revelation/6) · [Zech 8](/bible/zechariah/8) · [Ezek 20](/bible/ezekiel/20) · [Ezek 25](/bible/ezekiel/25) · [Gal 2](/bible/galatians/2) · [Gal 3](/bible/galatians/3) · [Gen 17](/bible/genesis/17) · [Gen 18](/bible/genesis/18) · [Gen 28](/bible/genesis/28) · <i>and 7 more below</i></span>
 

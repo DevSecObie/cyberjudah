@@ -2,13 +2,13 @@
 title: "Secrets of History: The Two Promised Lands, Chapter 8"
 slug: "2020/2020-10-18-secrets-of-history-the-two-promised-lands-chapter-8"
 date: "2020-10-18"
-teacher: "Deacon Eythan"
+teacher: "Deacon"
 description: "Secrets of History · 2020-10-18"
 collection: "Secrets of History"
 tags: ["IUIC in the ClassRoom", "america-babylon", "prophecy"]
 ---
 
-<p class="taught">Secrets of History · 2020-10-18 · Deacon Eythan</p>
+<p class="taught">Secrets of History · 2020-10-18 · Deacon</p>
 
 <span class="opens"><b>Opens</b> [1 Macc 3](/bible/1-maccabees/3) · [2 Macc 8](/bible/2-maccabees/8) · [Sir 42](/bible/sirach/42) · [1 Macc 13](/bible/1-maccabees/13) · [Deut 4](/bible/deuteronomy/4) · [Deut 22](/bible/deuteronomy/22) · [Isa 56](/bible/isaiah/56) · [Isa 11](/bible/isaiah/11) · [Isa 59](/bible/isaiah/59) · [Jer 30](/bible/jeremiah/30) · [Jer 31](/bible/jeremiah/31) · [Zech 2](/bible/zechariah/2) · [Rev 13](/bible/revelation/13)</span>
 

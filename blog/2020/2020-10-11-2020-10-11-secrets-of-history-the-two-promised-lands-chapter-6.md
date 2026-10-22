@@ -2,13 +2,13 @@
 title: "Secrets of History: The Two Promised Lands, Chapter 6"
 slug: "2020/2020-10-11-secrets-of-history-the-two-promised-lands-chapter-6"
 date: "2020-10-11"
-teacher: "Deacon Eythan"
+teacher: "Deacon"
 description: "Secrets of History · 2020-10-11"
 collection: "Secrets of History"
 tags: ["IUIC in the ClassRoom", "captivity", "nations"]
 ---
 
-<p class="taught">Secrets of History · 2020-10-11 · Deacon Eythan</p>
+<p class="taught">Secrets of History · 2020-10-11 · Deacon</p>
 
 <span class="opens"><b>Opens</b> [Lev 25](/bible/leviticus/25) · [Deut 28](/bible/deuteronomy/28) · [Neh 5](/bible/nehemiah/5) · [2 Chr 28](/bible/2-chronicles/28) · [Isa 63](/bible/isaiah/63) · [Jer 50](/bible/jeremiah/50) · [Rev 7](/bible/revelation/7) · [Jer 12](/bible/jeremiah/12) · [John 4](/bible/john/4) · [Rev 22](/bible/revelation/22) · [Rev 1](/bible/revelation/1) · [Isa 53](/bible/isaiah/53) · [Gen 10](/bible/genesis/10)</span>
 

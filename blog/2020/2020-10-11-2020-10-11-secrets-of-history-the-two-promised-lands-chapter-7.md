@@ -2,13 +2,13 @@
 title: "Secrets of History: The Two Promised Lands, Chapter 7"
 slug: "2020/2020-10-11-secrets-of-history-the-two-promised-lands-chapter-7"
 date: "2020-10-11"
-teacher: "Deacon Eythan"
+teacher: "Deacon"
 description: "Secrets of History · 2020-10-11"
 collection: "Secrets of History"
 tags: ["IUIC in the ClassRoom", "america-babylon"]
 ---
 
-<p class="taught">Secrets of History · 2020-10-11 · Deacon Eythan</p>
+<p class="taught">Secrets of History · 2020-10-11 · Deacon</p>
 
 <span class="opens"><b>Opens</b> [Amos 3](/bible/amos/3) · [Deut 33](/bible/deuteronomy/33) · [Judith 5](/bible/judith/5) · [2 Esdras 13](/bible/2-esdras/13)</span>
 
