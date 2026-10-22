@@ -15,3 +15,8 @@ Notes for the shows with the fewest recordings left to write up, each filed unde
 - The Nehemiah Squad Radio: Narcissism Amongst Blacks and Hispanics (2024-06-24), Reparations: Dream or Reality? (2024-07-01). Both now have notes.
 - The Writings on the Wall Radio: the two halves of the 2021-07-16 broadcast, as Part 1 and Part 2. Both now have notes.
 - NDEFCAM Radio: The Chosen People (2018-06-22). The other NDEFCAM recording (YTVkXVsVBf0) has captions only for the Cameroon studio, not for IUIC's side, so it has no note.
+
+## Show notes, batch 2
+
+- Man Up Mondays: Hypocrisy (2022-07-18, IUIC Birmingham), Masculinity Under Attack, the Andrew Tate interview review (2023-07-31, Captain Emmanuel of IUIC Arkansas filling in), and Social Media Influencers vs. God's Influence (2023-08-07, Captain Emmanuel). All three recordings now have notes.
+- Daily Bread: Sunday, October 4, 2020 (Officer Michael). The other Daily Bread recording (ZZyc1Xo26S8) has only the intro music in its captions, so it has no note.
