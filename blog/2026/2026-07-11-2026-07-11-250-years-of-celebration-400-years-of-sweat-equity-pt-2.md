@@ -19,7 +19,7 @@ tags: ["IUIC in the ClassRoom", "justice", "reparations"]
 
 We are continuing with what we were dealing with last week. The title was changed just a little so it does not conflict in the search engines, but the subject is the same: 250 years of celebration, 400 years of sweat equity. We know we have been over here longer than 400 years, but this lesson focuses on the sweat equity part. Look at the thumbnail: slaves for sale, the chains on the brothers, Gad the Native American having his land taken and set on fire, the ships in the background that brought us here, the colored waiting rooms and segregated drinking fountains, and the fireworks of them celebrating over the robbery of what happened to us.
 
-Shout out to the previous classes that went down today: Deacon Ithan's class on Christianity, indoctrination without explanation, which is exactly what happens in the churches; and Captain Yadiah this morning on Perilous Times: Judges and Soldiers, about understanding the times that we are in, judging situations properly, and not being dragged by our emotions into these wicked holidays and the people that deal with them.
+Shout out to the previous classes that went down today: Deacon Eythan's class on Christianity, indoctrination without explanation, which is exactly what happens in the churches; and Captain Yadiah this morning on Perilous Times: Judges and Soldiers, about understanding the times that we are in, judging situations properly, and not being dragged by our emotions into these wicked holidays and the people that deal with them.
 
 Last week we opened Revelation 17 on the eighth head, which is of the seven. The seven heads carried this beast: Greece, Rome, Spain, France, Germany, Russia, and Great Britain. The eighth head is a materialization and compilation of the seven, a different color on the rendering the brothers and sisters made, and it was going to be a real problem on this earth. We are in the midst of that. The mindset and psychology of this eighth head, Babylon the Great, is to enslave our children for sweat equity. You were not brought over here to enjoy the prosperity of this place; it was stolen from your brothers Gad and Reuben. They need us to be the sweat equity so that they can have a great time. This is not teaching hatred and it is not teaching racism; it is teaching what the Bible says.
 
@@ -665,7 +665,7 @@ Books referenced in class:
 - Puerto Rico: The Flame of Resistance (the tale of the tyrant who buried the truth)
 - The Jewish Encyclopedia, entry Arzareth, by Morris Jastrow Jr. and Kaufmann Kohler
 
-Classes referenced: Deacon Ithan on Christianity, indoctrination without explanation; Captain Yadiah, Perilous Times: Judges and Soldiers, from the same morning; the early IUIC video on the so-called Star of David; and the class Recovering the Remnant: Worldwide Blitz.
+Classes referenced: Deacon Eythan on Christianity, indoctrination without explanation; Captain Yadiah, Perilous Times: Judges and Soldiers, from the same morning; the early IUIC video on the so-called Star of David; and the class Recovering the Remnant: Worldwide Blitz.
 
 ---
 

@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "substance-abuse"]
 
 ## Introduction
 
-We are in this building. All praises. We have got a special guest here, Bishop Yasab. We have got another special guest, Captain Matthew from DC, and Captain Eli from North Carolina. As you all know, I cannot stay away from Atlanta too long. It is an honour to be here once again, and it is a privilege and an honour to be among you great men and women. This is truly a great day. I am here to be with my bishop, my brother.
+We are in this building. All praises. We have got a special guest here, Bishop Yawasap. We have got another special guest, Captain Matthew from DC, and Captain Eli from North Carolina. As you all know, I cannot stay away from Atlanta too long. It is an honour to be here once again, and it is a privilege and an honour to be among you great men and women. This is truly a great day. I am here to be with my bishop, my brother.
 
 We are going to try and finish off what we started last week, so I need you all to take good notes — especially those of you with children. The title of the class, second half: *When Children Walk in a Land of Shadows*.
 
@@ -423,7 +423,7 @@ And a sister's account of what the class had been describing all along:
 
 - Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him.
 
-- For I know him, that he will command his children and his household after him. Pause right there. This is what Bishop Yasab was saying to the men: it is up to you men to get your house in order. Do not wait for your wife to set it in order — if you wait for her, chances are it is not going to happen. You men must set your house in order.
+- For I know him, that he will command his children and his household after him. Pause right there. This is what Bishop Yawasap was saying to the men: it is up to you men to get your house in order. Do not wait for your wife to set it in order — if you wait for her, chances are it is not going to happen. You men must set your house in order.
 
 - And they shall keep the way of the Lord, to do justice and judgment; that the Lord may bring upon Abraham that which he hath spoken of him.
 

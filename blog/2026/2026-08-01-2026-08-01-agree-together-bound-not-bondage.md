@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "idolatry", "marriage-family", "med
 
 ## Introduction
 
-Sabbath class from California, on the West Coast. Bishop opens the class with a preface on prophecy and idolatry that hit him in the spirit that morning, then turns it over to Deacon Abiel for the main lesson: agree together, bound not bondage. Tomorrow is the Marriage Is Honorable event, the third one, so this whole class is preparation for the marriages of the nation.
+Sabbath class from California, on the West Coast. Bishop opens the class with a preface on prophecy and idolatry that hit him in the spirit that morning, then turns it over to Deacon Abbayael for the main lesson: agree together, bound not bondage. Tomorrow is the Marriage Is Honorable event, the third one, so this whole class is preparation for the marriages of the nation.
 
 ## Scriptures Opened
 
@@ -337,7 +337,7 @@ Reading from Urban Dictionary, on scum  *[[1:22:46](https://www.youtube.com/watc
 
 > <sup>[3](/bible/proverbs/22#v3)</sup> A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.
 
-- Deacon Abiel takes the class. We are always going through prophecy; we have the blueprint of what is going to go down. But what good does it do us if we are not preparing for what is coming? You just saw Daniel 3 coming to life before your eyes. History is repeating itself.
+- Deacon Abbayael takes the class. We are always going through prophecy; we have the blueprint of what is going to go down. But what good does it do us if we are not preparing for what is coming? You just saw Daniel 3 coming to life before your eyes. History is repeating itself.
 - A prudent man foreseeth the evil, and hideth himself: he sees what is about to happen and he prepares for that. But the simple pass on, and are punished. Somebody watching this class is taking notes, saying that is some good stuff, and then will immediately close their Bible, go home, and proceed to be a demon. You saw the evil, but you are not hiding.
 
   Precepts:

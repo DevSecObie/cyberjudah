@@ -2,7 +2,7 @@
 title: "Book of Our Fathers: Who’s Who Part 3"
 slug: "2025/2025-11-22-book-of-our-fathers-who-s-who-part-3"
 date: "2025-11-22"
-teacher: "Deacon Abbayeal"
+teacher: "Deacon Abbayael"
 description: "IUIC in the ClassRoom · 2025-11-22"
 tags: ["IUIC in the ClassRoom", "faith"]
 ---

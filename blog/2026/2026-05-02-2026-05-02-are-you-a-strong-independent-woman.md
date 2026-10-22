@@ -35,7 +35,7 @@ The Southern Poverty Law Center has been charged in a massive, sweeping indictme
 
 <div class="reading">
 
-Reading from a statement by Professor William Jacobson on the SPLC, shown in the defense video from 10, 11 years ago · read by Deacon Ithon  *[[30:45](https://www.youtube.com/watch?v=tsdO9OrUI54&t=1845s)]*
+Reading from a statement by Professor William Jacobson on the SPLC, shown in the defense video from 10, 11 years ago · read by Deacon Eythan  *[[30:45](https://www.youtube.com/watch?v=tsdO9OrUI54&t=1845s)]*
 
 > Professor William Jacobson: Time and again I see the SPLC using the reputation I gained decades ago fighting the Klan as a tool to bludgeon mainstream politically conservative opponents. For groups that do not threaten violence, the use of SPLC hate group or extremist designations frequently are exploited as an excuse to silence speech and speakers.
 
@@ -45,7 +45,7 @@ Reading from a statement by Professor William Jacobson on the SPLC, shown in the
 
 > It taints not only the group or person, but others who associate with them.
 
-- **Deacon Ithon:** It makes all those look bad. So when the Israelites are attacked, it's not just us being attacked, it's all of us falling to that same banner.
+- **Deacon Eythan:** It makes all those look bad. So when the Israelites are attacked, it's not just us being attacked, it's all of us falling to that same banner.
 
 </div>
 
@@ -659,11 +659,11 @@ Field reports played from the worldwide missions, where the men remembered the P
 - Mission 199, Netherlands, led by Captain Enoch, with brothers from IUIC Spain, Belgium, Germany, and the Netherlands; they remembered Passover, deliverance from captivity.
 - Mission 200, Barbados, led by Captain Kemuel: you Bajans, this is your identity; you are the twelve tribes of Israel.
 - Mission 206, Lagos, Nigeria, led by Captain Sevaris and Captain Beniah.
-- Mission 207, breaking ground in Zambia, led by Deacon Ithon, Captain Gadalia, and Captain Yehoshua.
+- Mission 207, breaking ground in Zambia, led by Deacon Eythan, Captain Gadalia, and Captain Yehoshua.
 - Mission 208, Papua New Guinea, led by Captain Hezekiah and Captain Joel: a brother came on the Sabbath, came back closing the Passover, and joined the work.
 - Mission 211, St. George, Grenada, led by Captain Gad.
 - Mission 214, Nairobi, Kenya, led by Captain Amaziah.
-- Mission 215, South Africa, led by Deacon Abiel, Captain Sham, and Captain Mattathias: keeping the Lord's feast according to the law, with the lamb without blemish from Exodus 12:5.
+- Mission 215, South Africa, led by Deacon Abbayael, Captain Sham, and Captain Mattathias: keeping the Lord's feast according to the law, with the lamb without blemish from Exodus 12:5.
 - Mission 217, Cameroon, led by Captain Gideon.
 - Mission 224, Zanzibar, led by Bishop Kani, Captain Shamaya, and Captain Yuri.
 - Mission 226, Monrovia, Liberia, led by the general Bishop Nathanyel, Bishop Ya'ohshai, Deacon Isaac, Deacon Malachi, Captain Azanell, Captain Yo'el, and Captain Uriel.

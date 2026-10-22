@@ -489,7 +489,7 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 - IUIC Arkansas joined IUIC Iowa with a booth at the I'll Make Me a World African-American festival in Des Moines, Iowa; the people were receptive.
 - IUIC Philly hosted a barbershop event addressing economics and the state of the community with the curses of Deuteronomy and Isaiah 8:20.
 - Feast of Purim begins tonight at sundown, February 14. Next fast date is February 26, 2026.
-- Hammer Time with Deacon Laba: freedom fighters versus puppet leaders.
+- Hammer Time with Deacon Labachaa: freedom fighters versus puppet leaders.
 - IUIC Orlando's Hellenism Denounced shares stories of repentant Israelites; email IUIC Orlando to tell your story.
 - Subscribe to IUIC Peru on YouTube, and to the new IUIC Diaspora 2.0 channel from the Isaiah 11:11 ministries.
 - IUIC Guyana traveled to region two, taught in camp, and held class with the brethren there.
