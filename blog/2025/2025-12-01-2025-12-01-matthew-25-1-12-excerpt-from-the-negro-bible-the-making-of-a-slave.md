@@ -2,7 +2,7 @@
 title: "Matthew 25:1-12 | Excerpt from 'The Negro Bible: The Making Of A Slave'"
 slug: "2025/2025-12-01-matthew-25-1-12-excerpt-from-the-negro-bible-the-making-of-a-slave"
 date: "2025-12-01"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2025-12-01"
 tags: ["IUIC in the ClassRoom", "the-law"]
 ---
