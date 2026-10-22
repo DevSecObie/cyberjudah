@@ -82,7 +82,7 @@ tags: ["IUIC in the ClassRoom", "leadership", "sexual-purity", "the-body"]
 
     Give him no rest, till he establish, and till he make Jerusalem a praise in the earth. That is what we do. But if we really wanted it, there is no way we would entertain sin under our noses while telling the Lord to hurry up. You might get slain.
   - **[Sirach 36:8](/bible/sirach/36#v8)**
-    > <sup>[8](/bible/sirach/36#v8)</sup> Sake the time short, remember the covenant, and let them declare thy wonderful works.
+    > <sup>[8](/bible/sirach/36#v8)</sup> Make the time short, remember the covenant, and let them declare thy wonderful works.
 
     Make the time short, remember the covenant, and let them declare thy wonderful works. We say it, but we are not on the Lord's level; he will not be a millisecond late. In the meantime be in the right spiritual space so the day does not catch you as a thief. Examine yourselves, and examine your brothers and sisters; the ones who say they can fellowship at home do not want anyone to see their evil, and the wounds of a friend are better than the kisses of an enemy.
   - **[2 Esdras 13:1-5](/bible/2-esdras/13#v1)**

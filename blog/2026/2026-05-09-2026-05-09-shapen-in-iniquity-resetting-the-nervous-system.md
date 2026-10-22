@@ -968,7 +968,7 @@ Reading from the same book excerpt, its psychological note  *[[2:21:55](https://
 >
 > <sup>[19](/bible/sirach/38#v19)</sup> In affliction also sorrow remaineth: and the life of the poor is the curse of the heart.
 >
-> <sup>[20](/bible/sirach/38#v20)</sup> Take no heaviness to heart: drive it away, and member the last end.
+> <sup>[20](/bible/sirach/38#v20)</sup> Take no heaviness to heart: drive it away, and remember the last end.
 >
 > <sup>[21](/bible/sirach/38#v21)</sup> Forget it not, for there is no turning again: thou shalt not do him good, but hurt thyself.
 

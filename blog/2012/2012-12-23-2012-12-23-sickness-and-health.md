@@ -361,7 +361,7 @@ tags: ["IUIC in the ClassRoom", "health"]
 >
 > <sup>[19](/bible/sirach/38#v19)</sup> In affliction also sorrow remaineth: and the life of the poor is the curse of the heart.
 >
-> <sup>[20](/bible/sirach/38#v20)</sup> Take no heaviness to heart: drive it away, and member the last end.
+> <sup>[20](/bible/sirach/38#v20)</sup> Take no heaviness to heart: drive it away, and remember the last end.
 >
 > <sup>[21](/bible/sirach/38#v21)</sup> Forget it not, for there is no turning again: thou shalt not do him good, but hurt thyself.
 
@@ -405,7 +405,7 @@ tags: ["IUIC in the ClassRoom", "health"]
 
 **[Sirach 31:16-21](/bible/sirach/31#v16)**  *[[50:14](https://www.youtube.com/watch?v=47FuyanZ7e8&t=3014s)]*
 
-> <sup>[16](/bible/sirach/31#v16)</sup> Eat as it becometh a man, those things which are set before thee; and devour note, lest thou be hated.
+> <sup>[16](/bible/sirach/31#v16)</sup> Eat as it becometh a man, those things which are set before thee; and devour not, lest thou be hated.
 >
 > <sup>[17](/bible/sirach/31#v17)</sup> Leave off first for manners’ sake; and be not unsatiable, lest thou offend.
 >

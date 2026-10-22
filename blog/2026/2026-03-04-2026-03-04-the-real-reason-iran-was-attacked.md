@@ -264,7 +264,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "nations", "war"]
 
   Precepts:
   - **[2 Esdras 5:1-5](/bible/2-esdras/5#v1)**
-    > <sup>[1](/bible/2-esdras/5#v1)</sup> Nevertheless as coming the tokens, behold, the days shall come, that they which dwell upon earth shall be taken in a great number, and the way of truth shall be hidden, and the land shall be barren of faith.
+    > <sup>[1](/bible/2-esdras/5#v1)</sup> Nevertheless as concerning the tokens, behold, the days shall come, that they which dwell upon earth shall be taken in a great number, and the way of truth shall be hidden, and the land shall be barren of faith.
     >
     > <sup>[2](/bible/2-esdras/5#v2)</sup> But iniquity shall be increased above that which now thou seest, or that thou hast heard long ago.
     >

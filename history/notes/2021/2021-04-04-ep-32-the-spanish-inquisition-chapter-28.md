@@ -294,7 +294,7 @@ Reading from volume three, page 172, on the exiles leaving Spain · read by an o
 
 > <sup>[62](/bible/1-maccabees/1#v62)</sup> Howbeit many in Israel were fully resolved and confirmed in themselves not to eat any unclean thing.
 >
-> <sup>[63](/bible/1-maccabees/1#v63)</sup> Wherefore the rather to die, that they might not be defiled with meats, and that they might not profane the holy covenant: so then they died.
+> <sup>[63](/bible/1-maccabees/1#v63)</sup> Wherefore they chose rather to die, that they might not be defiled with meats, and that they might not profane the holy covenant: so then they died.
 
 - Create God's laws. So then they die.
 
@@ -768,7 +768,7 @@ Reading from volume three, page 174, on the expulsion from Portugal · read by a
 
 **[2 Maccabees 6:10](/bible/2-maccabees/6#v10)**  *[[1:19:42](https://www.youtube.com/watch?v=NMs5y2jGRaM&t=4782s)]*
 
-> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes handing at their breasts, they cast them down headlong from the wall.
+> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes hanging at their breasts, they cast them down headlong from the wall.
 
 - You want a four, verse ten, one four and verse one nine. Second Mechanics chapter four verse nine. This is Jason. This is Jason. He's that seller I mentioned to you earlier. Read verse seven first. Verse seven.
 

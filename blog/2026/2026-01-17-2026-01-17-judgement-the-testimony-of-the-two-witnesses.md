@@ -169,7 +169,7 @@ tags: ["IUIC in the ClassRoom", "adversity", "justice", "the-law"]
 
     These are the two anointed ones, that stand by the Lord of the whole earth.
   - **[2 Esdras 2:18](/bible/2-esdras/2#v18)**
-    > <sup>[18](/bible/2-esdras/2#v18)</sup> For thy help will I send my servants Esau and Jeremy, after whose counsel I have sanctified and prepared for thee twelve trees laden with divers fruits,
+    > <sup>[18](/bible/2-esdras/2#v18)</sup> For thy help will I send my servants Esay and Jeremy, after whose counsel I have sanctified and prepared for thee twelve trees laden with divers fruits,
 
     For thy help will I send my servants Esaias and Jeremy.
 

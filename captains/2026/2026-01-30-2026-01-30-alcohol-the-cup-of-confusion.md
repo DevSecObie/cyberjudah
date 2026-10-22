@@ -115,7 +115,7 @@ tags: ["15 Minutes w/ The Captains", "health", "substance-abuse", "the-law"]
 
 **[Sirach 19:1-2](/bible/sirach/19#v1)**  *[[18:30](https://www.youtube.com/watch?v=wAbD6jwnU38&t=1110s)]*
 
-> <sup>[1](/bible/sirach/19#v1)</sup> A labouring man that A is given to drunkenness shall not be rich: and he that contemneth small things shall fall by little and little.
+> <sup>[1](/bible/sirach/19#v1)</sup> A labouring man that is given to drunkenness shall not be rich: and he that contemneth small things shall fall by little and little.
 >
 > <sup>[2](/bible/sirach/19#v2)</sup> Wine and women will make men of understanding to fall away: and he that cleaveth to harlots will become impudent.
 

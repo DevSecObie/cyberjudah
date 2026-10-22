@@ -641,7 +641,7 @@ The five dollar Indian.
 
 > <sup>[17](/bible/sirach/11#v17)</sup> The gift of the Lord remaineth with the ungodly, and his favour bringeth prosperity for ever.
 >
-> <sup>[18](/bible/sirach/11#v18)</sup> There is that waxeth rich by his wariness and pinching, and this his the portion of his reward:
+> <sup>[18](/bible/sirach/11#v18)</sup> There is that waxeth rich by his wariness and pinching, and this is the portion of his reward:
 >
 > <sup>[19](/bible/sirach/11#v19)</sup> Whereas he saith, I have found rest, and now will eat continually of my goods; and yet he knoweth not what time shall come upon him, and that he must leave those things to others, and die.
 

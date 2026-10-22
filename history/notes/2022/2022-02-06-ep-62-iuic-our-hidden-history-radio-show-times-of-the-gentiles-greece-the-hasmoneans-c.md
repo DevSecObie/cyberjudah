@@ -394,7 +394,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - Wow.
 
-> <sup>[60](/bible/1-maccabees/5#v60)</sup> And so it was, that Joseph and Azaras were put to flight, and pursued unto the borders of Judea: and there were slain that day of the people of Israel about two thousand men.
+> <sup>[60](/bible/1-maccabees/5#v60)</sup> And so it was, that Joseph and Azarias were put to flight, and pursued unto the borders of Judea: and there were slain that day of the people of Israel about two thousand men.
 
 - Two rabbits and men don't follow instructions. So these two men got two thousand killed, because they refused to follow their leaders' instructions. This is Israel. This negro stuff, so negroes do. That's where they're.
 
@@ -422,7 +422,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 > <sup>[63](/bible/1-maccabees/5#v63)</sup> Howbeit the man Judas and his brethren were greatly renowned in the sight of all Israel, and of all the heathen, wheresoever their name was heard of;
 >
-> <sup>[64](/bible/1-maccabees/5#v64)</sup> Insomuch as the the people assembled unto them with joyful acclamations.
+> <sup>[64](/bible/1-maccabees/5#v64)</sup> Insomuch as the people assembled unto them with joyful acclamations.
 
 - So Jerusalem became famous not only in Israel, but famous throughout the known world of other nations for their battles. Right.
 
@@ -630,7 +630,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - The burying place of the, he's going to turn Jerusalem into a graveyard for Jews. That was his plan. Talking mess.
 
-> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Isreal, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
+> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
 
 - The reason why God stopped thinking is, is because he could have entitled, as powerful as he was, Antiochus, he could have done that. So God said, okay, I gotta step in now. These guys walling out.
 
@@ -1004,7 +1004,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 **[2 Maccabees 11:1-38](/bible/2-maccabees/11#v1)**  *[[1:57:56](https://www.youtube.com/watch?v=hCHWqUFtfw8&t=7076s)]*
 
-> <sup>[1](/bible/2-maccabees/11#v1)</sup> Not long after the, Lysias the king’s protector and cousin, who also managed the affairs, took sore displeasure for the things that were done.
+> <sup>[1](/bible/2-maccabees/11#v1)</sup> Not long after this, Lysias the king’s protector and cousin, who also managed the affairs, took sore displeasure for the things that were done.
 >
 > <sup>[2](/bible/2-maccabees/11#v2)</sup> And when he had gathered about fourscore thousand with all the horsemen, he came against the Jews, thinking to make the city an habitation of the Gentiles,
 

@@ -1578,7 +1578,7 @@ Reading from Candace Owens's posts on Twitter, quoting the *Jewish Encyclopedia*
 
     Princes are hanged up by their hand.
   - **[2 Maccabees 6:10](/bible/2-maccabees/6#v10)**
-    > <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes handing at their breasts, they cast them down headlong from the wall.
+    > <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes hanging at their breasts, they cast them down headlong from the wall.
 
     Two women who circumcised their children were led about with the babes hanging at their breasts.
 

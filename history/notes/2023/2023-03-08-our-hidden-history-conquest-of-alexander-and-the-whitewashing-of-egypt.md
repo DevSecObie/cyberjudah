@@ -1123,7 +1123,7 @@ Reading from the reference entry on the Amalekites, read again · read by an off
 
 > <sup>[6](/bible/1-maccabees/1#v6)</sup> Wherefore he called his servants, such as were honourable, and had been brought up with him from his youth, and parted his kingdom among them, while he was yet alive.
 >
-> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelves years, and then died.
+> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelve years, and then died.
 >
 > <sup>[8](/bible/1-maccabees/1#v8)</sup> And his servants bare rule every one in his place.
 >

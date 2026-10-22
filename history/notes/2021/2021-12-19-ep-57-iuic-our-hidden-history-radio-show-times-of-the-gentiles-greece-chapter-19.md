@@ -192,7 +192,7 @@ Reading from Wikipedia, *Minoan civilization*, the caption under a tomb painting
 
 - And parted his kingdom among them while he was yet alive: right, those five.
 
-> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelves years, and then died.
+> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelve years, and then died.
 
 - He reigned 12 years. So he conquered at 20, died at 32. And then it's four or five, until they conquered the fifth one, so he didn't really count him. They took over his possessions, his lands, and began to fight over them.
 
@@ -868,7 +868,7 @@ Reading from the prologue of Sirach · read by a brother  *[[1:40:12](https://ww
 
 **[1 Maccabees 8:1-7](/bible/1-maccabees/8#v1)**  *[[1:55:40](https://www.youtube.com/watch?v=w0yOayrFMkY&t=6940s)]*
 
-> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
+> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 >
 > <sup>[2](/bible/1-maccabees/8#v2)</sup> And that they were men of great valour. It was told him also of their wars and noble acts which they had done among the Galatians, and how they had conquered them, and brought them under tribute;
 >

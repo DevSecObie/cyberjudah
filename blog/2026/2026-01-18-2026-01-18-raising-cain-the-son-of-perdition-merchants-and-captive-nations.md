@@ -455,7 +455,7 @@ Reading from a report on Trump's bond purchases  *[[2:47:15](https://www.youtube
 
 **[1 Maccabees 8:1](/bible/1-maccabees/8#v1)**  *[[2:52:38](https://www.youtube.com/watch?v=36emQd9wjts&t=10358s)]*
 
-> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
+> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
 - Rome conquered far and near, and those who relied on it kept amity. Whom they would help to a kingdom, those reigned; whom they would, they displaced.
 

@@ -293,7 +293,7 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 >
 > <sup>[59](/bible/1-maccabees/5#v59)</sup> Then came Gorgias and his men out of the city to fight against them.
 >
-> <sup>[60](/bible/1-maccabees/5#v60)</sup> And so it was, that Joseph and Azaras were put to flight, and pursued unto the borders of Judea: and there were slain that day of the people of Israel about two thousand men.
+> <sup>[60](/bible/1-maccabees/5#v60)</sup> And so it was, that Joseph and Azarias were put to flight, and pursued unto the borders of Judea: and there were slain that day of the people of Israel about two thousand men.
 >
 > <sup>[61](/bible/1-maccabees/5#v61)</sup> Thus was there a great overthrow among the children of Israel, because they were not obedient unto Judas and his brethren, but thought to do some valiant act.
 

@@ -626,7 +626,7 @@ Reading from a video on discoveries that came through dreams (the video isn't na
 
 **[1 Maccabees 8:1-2](/bible/1-maccabees/8#v1)**  *[[1:28:00](https://www.youtube.com/watch?v=L8TpR703rhA&t=5280s)]*
 
-> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
+> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
 - Come on. Verse 2.
 

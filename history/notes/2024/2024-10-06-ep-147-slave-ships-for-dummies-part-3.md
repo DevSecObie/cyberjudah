@@ -711,7 +711,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 **[2 Maccabees 6:10-17](/bible/2-maccabees/6#v10)**  *[[1:30:14](https://www.youtube.com/watch?v=YJZoKk_MZD8&t=5414s)]*
 
-> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes handing at their breasts, they cast them down headlong from the wall.
+> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes hanging at their breasts, they cast them down headlong from the wall.
 
 - These are two black women, Jews, who had circumcised their children. They circumcised their children. They went against the king's orders, Antiochus. They said no, we still going to circumcise our children. Read.
 
@@ -749,7 +749,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 - We're reading right here, we're reading about our adversities. We're reading about it. He will never forsake his people. Read the next verse.
 
-> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we at spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
+> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
 
 - Be a what? Be for a warning unto us. Meaning what? Don't play with God. Don't play with him. Let this be a warning for us. Why? Because all this right here we're reading is going to happen again. That's what he's saying. Read on.
 

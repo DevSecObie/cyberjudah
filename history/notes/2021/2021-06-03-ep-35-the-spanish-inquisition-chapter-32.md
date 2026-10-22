@@ -98,7 +98,7 @@ Reading from a book on the expulsion of the Jews from Spain, pages 82 to 83  *[[
 
 - Now, let's see. So let's find out why. Matter of fact, no, matter of fact, let's read down to verse 14. Let's get some more on this. Watch this. Read down to 14.
 
-> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes handing at their breasts, they cast them down headlong from the wall.
+> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes hanging at their breasts, they cast them down headlong from the wall.
 
 - So during this time our women had integrity. They had more balls than a lot of the men today, to know that regardless of what the white man told them to do, they were going to stand strong and firm for the laws of God. So these women, remember, under the Greeks, the Greeks were against circumcision. These women said no. Black man said no. We're going to circumcise our children anyway. We're going to do what God says. What happened to them? Read on.
 
@@ -186,7 +186,7 @@ Reading from a book on the expulsion of the Jews from Spain, pages 82 to 83  *[[
 
 **[2 Maccabees 6:17](/bible/2-maccabees/6#v17)**  *[[44:17](https://www.youtube.com/watch?v=nOELpFmOqmk&t=2657s)]*
 
-> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we at spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
+> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
 
 - 17, one more time.
 

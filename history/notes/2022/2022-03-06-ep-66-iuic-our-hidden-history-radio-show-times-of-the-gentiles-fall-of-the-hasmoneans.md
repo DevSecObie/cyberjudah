@@ -895,7 +895,7 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 
 > <sup>[62](/bible/1-maccabees/10#v62)</sup> Yea more than that, the king commanded to take off his garments, and clothe him in purple: and they did so.
 >
-> <sup>[63](/bible/1-maccabees/10#v63)</sup> And he made him sit by himself, and said into his princes, Go with him into the midst of the city, and make proclamation, that no man complain against him of any matter, and that no man trouble him for any manner of cause.
+> <sup>[63](/bible/1-maccabees/10#v63)</sup> And he made him sit by himself, and said unto his princes, Go with him into the midst of the city, and make proclamation, that no man complain against him of any matter, and that no man trouble him for any manner of cause.
 >
 > <sup>[64](/bible/1-maccabees/10#v64)</sup> Now when his accusers saw that he was honored according to the proclamation, and clothed in purple, they fled all away.
 
@@ -945,7 +945,7 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 >
 > <sup>[71](/bible/1-maccabees/10#v71)</sup> Now therefore, if thou trustest in thine own strength, come down to us into the plain field, and there let us try the matter together: for with me is the power of the cities.
 >
-> <sup>[72](/bible/1-maccabees/10#v72)</sup> Ask and learn who I am, and the rest that take our part, and they shall tell thee that thy foot is not able to to flight in their own land.
+> <sup>[72](/bible/1-maccabees/10#v72)</sup> Ask and learn who I am, and the rest that take our part, and they shall tell thee that thy foot is not able to stand before our face; for thy fathers have been twice put to flight in their own land.
 
 - Ask about me. He talking mess. Ask about me.
 
@@ -983,7 +983,7 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 >
 > <sup>[86](/bible/1-maccabees/10#v86)</sup> And from thence Jonathan removed his host, and camped against Ascalon, where the men of the city came forth, and met him with great pomp.
 >
-> <sup>[87](/bible/1-maccabees/10#v87)</sup> After this returned Jonathan and his host unto Jerusalem, having any spoils.
+> <sup>[87](/bible/1-maccabees/10#v87)</sup> After this returned Jonathan and his host unto Jerusalem, having many spoils.
 >
 > <sup>[88](/bible/1-maccabees/10#v88)</sup> Now when king Alexander heard these things, he honoured Jonathan yet more.
 
