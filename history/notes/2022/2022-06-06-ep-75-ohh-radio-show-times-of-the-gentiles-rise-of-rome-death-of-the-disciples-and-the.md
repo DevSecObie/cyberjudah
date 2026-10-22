@@ -1,0 +1,834 @@
+---
+title: "Times of the Gentiles: Rise of Rome, Death of the Disciples and the Birth of Christianity"
+slug: "2022/2022-06-06-ep-75-ohh-radio-show-times-of-the-gentiles-rise-of-rome-death-of-the-disciples-and-the"
+date: "2022-06-06"
+episode: 75
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2022-06-06 · with a captain"
+tags: ["Our Hidden History", "christ", "faith", "false-religion", "nations"]
+---
+
+<p class="taught">Our Hidden History · 2022-06-06 · Deacon Eythan, with a captain</p>
+
+<span class="opens"><b>Opens</b> [2 Tim 4](/bible/2-timothy/4) · [1 Pet 1](/bible/1-peter/1) · [Isa 45](/bible/isaiah/45) · [James 1](/bible/james/1) · [2 Pet 1](/bible/2-peter/1) · [John 13](/bible/john/13) · [John 21](/bible/john/21) · [Ps 19](/bible/psalms/19) · [Rev 1](/bible/revelation/1) · [Exod 19](/bible/exodus/19) · [Acts 8](/bible/acts/8) · [Acts 14](/bible/acts/14)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="bBNgCxi9ZPY"></div>
+
+## Introduction
+
+*[[6:45](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=405s)]* You say Brad? That's what I said. Wait, wait, wait. Oh, no, no. What'd I do with that? Did you just say... Did I tell you I found my calling? Oh man, Cat, that was you. You know that was that. But that was this Cat, how much that was, or what Cat was attempting to do. It was very, very terrible. So today, that was trouble. Anyway, he kept us trying to find himself. Welcome back, Captain. Welcome back. Welcome. Today let's get right to being here and bringing confusion.
+
+*[[7:25](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=445s)]* Anyway, we left off last week, we're still done with the death of the twelve. The death of the disciples. I'm gonna call this topic, this class, The Death of the Disciples and the Birth of Christianity. That's the rat right now: the death of the disciples and the birth of Christianity. We're leading into that now.
+
+*[[7:43](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=463s)]* All right, so we left off last... The last person I mentioned of note, of importance, would be Clement. I mentioned Clement in Philippians 4 and 3. He was a fellow laborer of Paul. I'm telling you guys to remember him for a reason. All right, Clement. So let's get 2 Timothy 4 verse 10. Let's just get right into it regarding the death, because so far, no, James, and John... James, brother of John, was killed, you know that. Are you ready?
+
+## Readings and Scriptures
+
+**[2 Timothy 4:10-22](/bible/2-timothy/4#v10)**  *[[8:18](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=498s)]*
+
+> <sup>[10](/bible/2-timothy/4#v10)</sup> For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.
+
+- Demas. Paul, follower of Christ, earlier in the scriptures, that Demas is a fellow laborer. He went back into the world. Demas is departed unto Thessalonica. Crescens to Galatia. Crescens went to Galatia; he left, departed from Paul, left back into the world. Titus unto Dalmatia. Titus, the letter that Paul wrote to Titus, to establish things in order. Even Titus went the hell off. Titus went back into the world too.
+
+> <sup>[11](/bible/2-timothy/4#v11)</sup> Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry.
+
+- Only Luke is with me. Luke, the writer of the book of Acts and the writer of the book of Luke itself. Luke remained with Paul.
+
+- Mark. John Mark, who's the writer of the book of Mark. He said take Mark with you, guys.
+
+- And that shows you why Luke was able to write throughout the book of Acts, because he was actually a part of it. He was there. When you read about we, us, we went there, we, I, we: that's Luke saying these things. Luke was shipwrecked too with Paul.
+
+- Only Luke is with him. Luke is here. Take Mark and bring him with thee, for he is profitable to me for the ministry. So eventually he trusted, cause at first he didn't trust him, Mark, to be ready for the ministry. But then at the... okay, Mark is ready. John Mark is ready for the ministry. This is the Mark that wrote the book of Mark? Yes it is.
+
+> <sup>[12](/bible/2-timothy/4#v12)</sup> And Tychicus have I sent to Ephesus.
+>
+> <sup>[13](/bible/2-timothy/4#v13)</sup> The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments.
+
+- Bring the cloak that you left over there, bring with you, and the books, but especially the parchments. The parchment and the books, and especially the parchment, meaning bring the books and bring... Timothy, bring the books, bring my cloak, bring the books and bring my paper so I can write these things down. Bring the books and bring my parchments, my paper, so I can write, so I can write these letters. Because he's talking to Timothy.
+
+- **Captain:** Deke, you see Luke, Luke was a high status. A lot of our fathers were, that started... the disciples. But a lot of them hazarded lives. They left their current status to follow Christ.
+
+- **Deacon Eythan:** It's alleged that Luke was a seventy. He's one of the seventies, alleged. I've read that he's one of the seventy disciples that was set up; not that it's historically stated that he was one of the seventy. I wouldn't be surprised. But Luke was of importance. Luke was of massive importance regarding the Acts of the Apostles.
+
+> <sup>[14](/bible/2-timothy/4#v14)</sup> Alexander the coppersmith did me much evil: the Lord reward him according to his works:
+>
+> <sup>[15](/bible/2-timothy/4#v15)</sup> Of whom be thou ware also; for he hath greatly withstood our words.
+>
+> <sup>[16](/bible/2-timothy/4#v16)</sup> At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.
+
+- Alexander the coppersmith. Alexander went the hell off. Did me much evil.
+
+- For Demas, Titus, Crescens.
+
+> <sup>[17](/bible/2-timothy/4#v17)</sup> Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
+
+- All the Gentiles, being referring to our people right here. And I was delivered out of the mouth of the lion.
+
+> <sup>[18](/bible/2-timothy/4#v18)</sup> And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen.
+>
+> <sup>[19](/bible/2-timothy/4#v19)</sup> Salute Prisca and Aquila, and the household of Onesiphorus.
+
+- So he's giving a salute. He's giving shout-outs to these brothers and sisters in the faith. Prisca and Aquila. I believe Priscilla; I believe Prisca and Aquila, and the household of Onesiphorus.
+
+> <sup>[20](/bible/2-timothy/4#v20)</sup> Erastus abode at Corinth: but Trophimus have I left at Miletum sick.
+>
+> <sup>[21](/bible/2-timothy/4#v21)</sup> Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.
+
+- Trophimus have I left at Miletum sick. Trophimus was sick at Miletum.
+
+- Eubulus says hello. And Pudens. And Linus. Linus, Linus. And Claudia, and all the brethren.
+
+- So these three particular figures are of importance. We read earlier on the show about the Silurians, and the King Arthurian line or lineage. It's traditionally, historically stated that this family here, Pudens, Linus and Claudia, all derived from... all are in fact, I believe, the forefathers of... How's it go, Jess? I believe that they descend from Caradoc. They descend from Caradoc. Is correct, yes sir. Caratacus was a Silurian, right? And then this is where King Arthur comes from. King Arthur derive, descends from these people here, this family here. They were the first to bring the truth back to Britain. Britain, right. The gospel reached Britain, and this family is from there. That's why it says Pudens and Linus. I believe Pudens and Claudia were man and wife, I believe. But you have Linus. Linus is very, very much of importance here. Remember I mentioned Clement. I mentioned Clement, and now I'm mentioning to you the importance of Linus.
+
+- But I believe Claudia, Linus and Pudens, all being family members, were of that lineage of Caradog or Caratacus, from which King Arthur, the King Arthur who we know of renowned, descends from this family here, the Silurians.
+
+- **Captain:** Right, because as you... to land back off of Deacon, if you remember when Deacon was bringing that out, Caratacus was brought captive. Rome had a Caesar, right?
+
+- **Deacon Eythan:** Right, yes sir. So Julius Caesar went over there, started war with the Silurians, brought Caratacus. Evil black woman, gave him up. Brought him back captive to Rome. And then Julius and them, they gave them liberty to work in the household, in the household, seven years or something. And the gospel was brought to them by one of the disciples. We don't know who, but the disciples reached that family, and they learned as Christians and brought it back to Britain.
+
+- We didn't bring out that account. There's an account that said that Paul... it may have been Paul. There's a legend. That's what I say: it's alleged, right? Because you know historians will argue. So it's alleged that Paul was the one that they encountered that brought the gospel to them, and they brought it back with them to Britain. All right. Because our people were in Britain. We founded Britain. I brought that out before, about we traveled to the British Isles and we mined tin there. We had a huge tin monopoly, right, during the Mediterranean sails, in the sea, Atlantic Ocean sails, with Hamilcar and... what's the guy? Hanno. Hanno and Hamilcar. Those are like the... of our people that traveled, traversed the Atlantic and Pacific oceans, and Mediterranean seas pretty much. We had a monopoly on that as the Venetians, which were our people by the way, that took over the Sidonian trading routes, pretty much.
+
+- If you're interested in that, you got to go all the way back to my old episodes on the Silurians. I go into all that information about the Venetians being our people, and the Greeks and the... based upon us residing in Phoenicia. Because the Sidonians were Canaanites. So the Greeks referred to us, who took the monopoly of the Sidonians when Alexander conquered them, and they labeled us Phoenicians. We were called the Phoenicians. That's from which Hannibal, Barca and them derive from.
+
+- And the Silurians also, the Carthaginians, traveled to Britain, in Ireland. They named it Hibernia, Hibernium, Hibernica, whatever, it's all the same. Ireland, it's the same place. So we went from North Africa to Spain, which became the Iberian Peninsula. Iberian Peninsula, then Ireland became Hibernia. Eber. Everything is evil. We just think that when we became Ebolas in Africa, then Ebolas over here in America. So it's just... and we also maintain contact with each other on this side of the world too, from West Africa. And this stock is... the selling winds flow westward. If there's ever like a storm or whatever, if you're on a ship in Africa heading, the wind will automatically, by default, take you over to Central America, because the wind currents blow westward, always westward.
+
+- And like Bishop showed last night in the book *Black Holocaust*, he mentioned it: West Africa, our people in West Africa, the southern kingdom, was trading back... but he was always traversing the Atlantic. Because King Solomon, us, he maintained the wisdom of this side of the world. This side, the fourth part of the earth. We had knowledge of it. No one else had knowledge of that but us.
+
+- Now you had historical references of like the Vikings, like Leif Erikson. That was us too. All of a sudden now to this place we would come over here. He got put to death when he came over here. We killed him. We killed each other. But nonetheless, Israel had knowledge of this land, okay? And we're the only ones, to God, that got allowed to inhabit this land. That's my prophecy.
+
+- So I mentioned Clement last week, and I'm mentioning Linus today. Linus is a very, very important figure.
+
+> <sup>[22](/bible/2-timothy/4#v22)</sup> The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.
+
+- The Lord Jesus Christ be with thy spirit. He's talking to Timothy here. Grace be with you. Amen.
+
+- Read the bottom paragraph, what it says here at the end of the paragraph. The second epistle, the second letter to Timothy, or Timotheus, ordained the first bishop of the church of the Ephesians. So Timothy, the young boy that... remember, Paul watched his boy grow up. He knew his grandmother, he knew his mother. It was Eunice and Lois, I believe. And his father was a Greek, meaning his father was, you know, of the Greco customs. And Paul watched him grow up, and he became the first ordained bishop over the Ephesians. Timothy became the first bishop over the Ephesians.
+
+- It was written from Rome, where Paul was.
+
+- When Paul was brought before Nero the second time. By the time Timothy received this letter, Paul was brought before Nero the second time. And historically it's stated that during this second time Nero had Paul beheaded. That's why Paul said in the same chapter, I believe, I finished my course. I'm done. Because he knew that this time, once you go before Nero, he was going to be killed. So Paul was beheaded at the hands of Nero after this letter was written. This is his last letter, pretty much. It's his will and testament, you could say. 2 Timothy 4 verse 6. Read that real quick. This is proof of it.
+
+**[2 Timothy 4:6-9](/bible/2-timothy/4#v6)**  *[[19:32](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1172s)]*
+
+> <sup>[6](/bible/2-timothy/4#v6)</sup> For I am now ready to be offered, and the time of my departure is at hand.
+
+- Ready to go. It's time for me to die. So Paul knew when he went before Nero, when he went before Nero, that was his last day on this earth.
+
+> <sup>[7](/bible/2-timothy/4#v7)</sup> I have fought a good fight, I have finished my course, I have kept the faith:
+>
+> <sup>[8](/bible/2-timothy/4#v8)</sup> Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.
+
+- **Captain:** So verse 10, and Deacon, in verse 8 also, when he says, Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day. So that actually contradicts a lot of Christians when they say they die and they go to heaven and they receive their crown of glory. That's not talking about that. He says at that day, right, meaning a future prophecy. So when Paul's spirit dies, he's gonna be in the chambers of spirits with Christ and other righteous Israelites. So that proves to you that when you die you just don't go to heaven, that's it. Right? No, you're up there living too.
+
+> <sup>[9](/bible/2-timothy/4#v9)</sup> Do thy diligence to come shortly unto me:
+
+- That's why he told Timothy to hurry up and come to him: because I'm gonna be killed soon. Hurry up and come and see me. He's telling Timothy, listen, I'm going to die, all right, so hurry up and come see me real fast. I got something to tell you, I got things to tell you. And then Timothy was ordained the bishop of Ephesus, of the Ephesians.
+
+- So keep in mind he mentions Linus. He mentioned Clement in Philippians; he mentions Clement, and in Timothy he mentions Linus. Now get me 1 Peter 1:1. So now James, brother of John, is gone. Paul is gone. Now we're gonna go to Peter. First Peter 1 verse 1 to 2. First Peter, take over for me.
+
+**[1 Peter 1:1-2](/bible/1-peter/1#v1)**  *[[21:40](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1300s)]*
+
+> <sup>[1](/bible/1-peter/1#v1)</sup> Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+
+- The strangers here is elaborated on in the next verse, verse 2.
+
+> <sup>[2](/bible/1-peter/1#v2)</sup> Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
+
+- These strangers are the elect according to the foreknowledge of God. They are the elect according to the foreknowledge of God. Who's the elect according to the foreknowledge of God? Isaiah 45 and 4.
+
+**[Isaiah 45:4](/bible/isaiah/45#v4)**  *[[22:32](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1352s)]*
+
+> <sup>[4](/bible/isaiah/45#v4)</sup> For Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me.
+
+- Israel, what? Mine elect, right? According to the foreknowledge of God, Israel is God's elect. These strangers that are scattered abroad are Israel, or the elect, the children of Israel scattered throughout these lands here. So that's what the election is referring to, and the strangers, the elect, in verse 1: Israelites scattered abroad. Give me James 1:1 real fast.
+
+**[James 1:1](/bible/james/1#v1)**  *[[23:02](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1382s)]*
+
+> <sup>[1](/bible/james/1#v1)</sup> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
+
+- The twelve tribes scattered abroad is the same strangers scattered abroad in 1 Peter 1 and 1 and 2, who are the elect according to the foreknowledge of God, based upon Isaiah 45 and 4. Now give me 2 Peter chapter 1 and verse 13.
+
+**[2 Peter 1:13-14](/bible/2-peter/1#v13)**  *[[23:26](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1406s)]*
+
+> <sup>[13](/bible/2-peter/1#v13)</sup> Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;
+
+- Tabernacle means his body, this living body.
+
+> <sup>[14](/bible/2-peter/1#v14)</sup> Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me.
+
+- So he's saying, I have to die too. It's time for me to leave this world as well, by the hands of the same man, who certainly is Nero. Nero had Peter and his wife crucified, and Peter chose to be crucified upside down, because he believed that he was unworthy to be crucified the same way Christ was. He said, crucify me upside down; I don't want to be crucified right side up like Christ was.
+
+- That's why these stupid, stupid-ass Catholic movies, Exorcist, they have a demon turn the cross upside down. Like some blasphemy. Oh, the demon turned the cross upside down, whoo. It's nonsense. It's all freaking nonsense.
+
+- Give us 13 again. Verse 13.
+
+- Even as the Lord Jesus Christ had showed me. What he showed Peter: get John, hold that, John 13:36.
+
+**[John 13:36](/bible/john/13#v36)**  *[[24:52](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1492s)]*
+
+> <sup>[36](/bible/john/13#v36)</sup> Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.
+
+- So where I'm going, you can't go right now, but you will follow me afterwards. I'm gonna die soon, and you fall right behind me. Peter, you're going to die too. That's what he's saying to him. Now he elaborates on that. Give me John 21:15. Stay there, go to 21:15. He elaborates on what he's saying regarding following him afterwards.
+
+**[John 21:15-19](/bible/john/21#v15)**  *[[25:41](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1541s)]*
+
+> <sup>[15](/bible/john/21#v15)</sup> So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
+
+- Feed my lambs, Peter.
+
+> <sup>[16](/bible/john/21#v16)</sup> He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
+
+- Do you love me, Peter? Feed my lamb, feed my sheep, Peter.
+
+> <sup>[17](/bible/john/21#v17)</sup> He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
+
+- You know all these things already.
+
+- Feed my sheep, Peter. Very good. Why did he ask him three times? Because Peter denied him three times. That's why he said that. Love me, Peter? Yes, I love you. Love me, Peter? Yes. You love me, Peter? Yes. Then feed my sheep. Because he denied him three times, so he's making sure he loves him three times.
+
+> <sup>[18](/bible/john/21#v18)</sup> Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
+
+- When you were young, you girded yourself. When you were younger, you went when you wanted to go. But when you get old, stretch forth your hands. They're gonna cuff you, arrest you, and take you to prison.
+
+> <sup>[19](/bible/john/21#v19)</sup> This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
+
+- Rome would take Peter and kill him, and do it the same way they did Paul. Nero was behind it, historically.
+
+- And they say, listen, now you know you're gonna die, you follow me. That's why he said, where I'm going you can't go now, but you will follow me. So he's telling Peter, you're going to die. So Peter is saying, and he wrote... so when Peter wrote, he was old. He said, okay, but Christ told me I'm gonna be killed, I'm gonna die soon. So go back to Peter again, 2 Peter chapter 1 and verse 13.
+
+*[[27:58](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1678s)]* Back to 2 Peter 1:13 and 14. Alive. Remind you, I'm alive. I must be killed. I must die soon. He showed me that in John 13:36, he showed me that in John 21:15 and down.
+
+**[2 Peter 1:15-19](/bible/2-peter/1#v15)**  *[[28:29](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=1709s)]*
+
+> <sup>[15](/bible/2-peter/1#v15)</sup> Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.
+
+- After my decease. After my what? My decease. I know it's his death. After my deceasing, after I leave this world, to have these things always in remembrance. Remember what I've been saying to you.
+
+> <sup>[16](/bible/2-peter/1#v16)</sup> For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
+
+- Cunningly devised fables. Today it's the immaculate birth. Cunningly devised fables: this Easter. Easter, catching... Cunning devices is Easter. Cunning devices is Thanksgiving. Cunning devices is Christmas. Cunning devices is Sunday worship. These are cunningly devised fables. New Year's Eve: cunningly devised fables.
+
+- We saw what Christ did. When we watched him walk the earth, we watched him die and come back. We watched him leave, float in the air, and leave us, and he's going to return.
+
+> <sup>[17](/bible/2-peter/1#v17)</sup> For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
+
+- He received from whom? From God the Father, honor and glory. He's the Father. They're one and the same. Let's get that from... What scripture is that? Now he's the God. Yes, he's the Son. He says he's the Son of God. He said he's God. Catholics: the Son. No, he's the Father and the Son at the same time. I'm like, what? Y'all and … are … man. Stepping down. What are you going to get, in your Christian's ass today? I'll tell you, stripping down. You know you'll get me out today. You know, y'all the worst. Y'all the worst thing ever. Y'all worse than crack. Let's say, you stripping down.
+
+- **Captain:** Hey D, hey D. And then I'm like, I said we had a conversation before. I'm truly convinced that two of the main doctrines that Christians are not going to ever get, unless they start keeping the commandments, is the Trinity and immaculate conception.
+
+- **Deacon Eythan:** Yes, some are major strongholds. That's the like... no matter how well you break it down. No matter... how many countless videos have we gone over immaculate conception or the Trinity?
+
+- **Captain:** Yeah. The girl said... we said, so you believe in the Trinity? She was like yes, and then she was like no. It was crazy. She had no clue what she believed in. It was crazy.
+
+- **Deacon Eythan:** Those two cunningly devised fables, that's something... they're strongholds. A lot of our people are not going to be able to come out of there. They're not going to do... they're going to stop keeping the commandments. They get mad: you guys are saying Christ was born like anybody else? You're blaspheming. That's blaspheming him. He was a god. Yeah, we all gods, and he, like all of us, died like a man. Is that clear?
+
+- **Captain:** And then a question was posed to one of the oldest elder sisters, who was like, hey, so women were able to give birth immaculately in the past? She said yeah, in the past a woman was able to give birth. But what about now? No, not anymore. Only for that time period a woman is able to give birth without a man. Crazy.
+
+- **Deacon Eythan:** No, wait, that's feminism. That's feminism on the highest level. Damn. That women will sit there and say, we don't need black women so much that we're gonna convince ourselves that we can have babies without your sperm. That's the high level of Satan, of satanism, right there.
+
+- **Captain:** And if you look at it too, they conditioned our women even to today. You see the Madonna with a child. Where's the father? Right now they try to push that same concept in the Bible, with Joseph not being a part: Mary just had immaculate conception. So the black man is never really involved in a black house. So even today, what do you see? The black woman with the child. It's the same doctrine, from ancient times to today. The black woman always by herself. You don't need your black man. Just like Eve: you don't need your black man, Adam. The same doctrine that's been reverberated throughout history.
+
+- **Deacon Eythan:** Yup. That's why I said, I emphasize all the time: Christ never called his mother mother. Not one time. Never. Was a woman. Woman. Woman. Why? Because he knew if he said, if I call her mother, they're gonna say she's the mother of God. Nope. I'm gonna call her woman. Can you put up the picture of the black Madonna? Put that up. Pull it up real quick.
+
+- **Captain:** And it's the same images that we see today. Where are the fathers? So all black women immaculate, all the children immaculate born. I guess this is the figures that a lot of Europeans worship behind secretly. No father. Same figure being portrayed today. A fabulous child and a single mother.
+
+- **Deacon Eythan:** That's him right there, supposed to be Christ and Mary there. But that all is an emergence of the queen. It's a fusion of Asherah and Tammuz, or Isis and Set, merged into Christ and Mary. That's how Christ knew that the Roman Catholic Church would be the most vicious enemy of the faith itself. That's why Christ always emphasized, even the disciples emphasized on the Catholic faith. I'm gonna go into that. I'm gonna go into how the Catholic faith is one of those main frogs that came out of the mouth of the dragon in Revelation. That's the question after Christianity. It's all derived from the Catholic Church. I'm gonna get into that. I'm gonna give y'all clear, concise detail as to how this thing came about, how all these Christian denominations came about. All right, so hope you guys taking some good notes and you're paying attention. Watch this video again, because I'm telling you, I'm gonna go into the details, and the birth of it, its foundation. I'm gonna lead into it.
+
+- So now, where you at? Verse 16 again.
+
+> <sup>[16](/bible/2-peter/1#v16)</sup> For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
+>
+> <sup>[17](/bible/2-peter/1#v17)</sup> For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
+
+- This is my beloved Son, in whom I am well pleased. How do you know? His father spoke. His father spoke on behalf of his son. Two separate entities.
+
+> <sup>[18](/bible/2-peter/1#v18)</sup> And this voice which came from heaven we heard, when we were with him in the holy mount.
+
+- I was there, Peter said. I was one of three guys that was there when he said it. And James and John was there, okay. James not being dead now.
+
+> <sup>[19](/bible/2-peter/1#v19)</sup> We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:
+
+- And the day star arise in your hearts.
+
+- Jesus, like Manny all over again. It's like a remix. This is a star. Oh man. Damn. All right.
+
+- So once again the topic is called The Death of the Disciples, the Birth of Christianity. So we're going to dive into the apostolic fathers. The apostolic fathers. So I named two of them. One of the apostolic fathers is Clement, who will be Clement the First. Number two is Linus. Now before I get back... but that's those two, I mention those two first. But the original would be Peter. Give me Peter Wikipedia. Peter Wikipedia real quick. Simon, Simon Peter, Wikipedia. All right, let's get into the history now. Let's jump into it.
+
+- **Captain:** And this is called, Deacon, the apostolic age.
+
+- **Deacon Eythan:** Yes, right. The apostolic age, of the Acts of the Apostles, the disciples. And that was the apostolic age: the time of the disciples doing their ministry, traveling and spreading the word. That was the apostolic age, leading from there, from the start of the ministry all the way to their deaths. Of course this is a white-wise version of Peter. We have plenty of freaking books that show him as black as night with an afro, him and Paul, but you got this BS here. So read that real quick.
+
+- **Captain:** The devil always present.
+
+<div class="reading">
+
+Reading from Wikipedia, the article on Saint Peter  *[[37:30](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=2250s)]*
+
+> Saint Peter, died between 64 AD and 68, on the Vatican Hill.
+
+- Before what? 70 AD, the destruction of Jerusalem. Yes sir.
+
+> Also known as Peter the Apostle, Peter the Rock, Simon Peter, Simeon, Simon, or Cephas, was one of the twelve apostles of Jesus Christ and one of the first leaders of the early church. Based on contemporary historical data, his papacy is estimated to have spanned from 30 AD to his death, which would make him the longest reigning pope, at anywhere from 34 to 38 years.
+
+- Reigning pope. The Catholic Church took Peter and they deified him later on. Later on in history the early Christians became deified by the Catholic Church, or the Holy Roman Empire, and deified this man and said he was a pope, or called him the father. And of course the elders are referred to as fathers, yes. But the Catholic Church called them pope, which is Latin for father. A church father.
+
+> However, the length of his reign was never verified. According to Christian tradition, Peter was crucified in Rome under Emperor Nero. He is traditionally counted as the first bishop of Rome, or pope,
+
+- The first what? Bishop of Rome. So it says that Peter became the first bishop of Rome, as well as Antioch.
+
+> and also as the first bishop of Antioch. The ancient Christian churches all venerated Peter as a major saint
+
+- They deified him as a saint.
+
+> and as the founder of the church of Antioch and the church of Rome, but differing in their attitudes regarding the authority of his successors. According to Catholic teaching, Jesus promised Peter a special position in the church.
+
+- That is true. Peter did become the elder. Yes, he did become the elder. That is very true. When the Catholic Church starts to add and embellish, over-embellish things and make things up. So regarding his succession, there's somewhat of a discrepancy regarding who came after him. So I'm gonna go into that next.
+
+- **Captain:** So now you have, indeed, the crazy thing is, the same people that they've deified and made gods, or fathers of the churches, which they claim is pretty much their origins, it's the same people that they hate today. And they know that the apostles are black. They killed them. In the same hand, they killed them, but they worshipped them. They referenced these men, but they hate these men, because we are these men. It's like a ball of confusion. Yeah, I hate you, but I love you at the same time. I hate you, but I agree with your writings.
+
+- **Deacon Eythan:** It's like a love-hate relationship. Love-hate. Is that what it is? It's a devil. It's envy too. Blow it up and move it over to the right-hand side, right here, where it mentions the papacy. Blow it up over there. Move it over. What the hell? Bring it up.
+
+> Early Christian.
+
+- So he was considered to be an early Christian. Keep that in mind: early Christian. First bishop of Rome.
+
+> Church: Early Christian. First bishop of Rome, pope, according to Catholic and Eastern Christian tradition. First bishop of Antioch, according to Eastern Christian and Catholic tradition. Papacy began 30 AD. Papacy ended between 64 AD, 68 AD. Successor: bishop of Rome, according to tradition, Linus.
+
+- Linus. So it's believed that Linus, who Paul wrote about in Philippians 4 and 3, became the successor of Peter, okay. Grab the next one.
+
+> Bishop of Antioch, according to tradition, Evodius.
+
+- Evodius. Evodius. So these two pretty much... as Peter was over Jerusalem and he did what he did, evangelical work, he would travel to Rome, he traveled to Antioch, to Syria. And then when he was away, these guys were set in place. Oh, so when Peter died, these guys retained that office. Linus is over Rome, and Evodius was over Antioch, or Syria.
+
+- So you have Peter, who'd be considered to be the first of the apostolic fathers, the first according to Christian tradition. Linus. Then after Linus you had a man named Anacletus. Anacletus, or Anencletus. Then you had Anacletus, who came... Click Linus. Please click Linus.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, the article on Pope Linus  *[[42:14](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=2534s)]*
+
+> Papacy began 67 AD.
+
+- Like a year before. So maybe he was cold... he was also like a cold bishop as well. So they say. And it says he died after 70 AD. And it says his predecessor was Peter, and his successor Anacletus, Anencletus. Go down. Ordination: Paul. Paul the apostle. Remember, Paul wrote about him in Philippians 4 and 3. So Paul set him up. Paul set him up.
+
+> Roman Empire. Died in Rome, 76 AD. Buried Vatican Hill.
+
+- That's what they say. And then they deify him. Go down.
+
+> Sainthood. Catholic Church. Church Father. Pope Linus, died 76 AD, was the bishop of Rome from 67 AD to his death. As with all the early popes, he has been canonized,
+
+- Meaning that his existence is what? Authentic, which we know because it's in the Bible. That's why.
+
+> Among those who have been pope, Peter, Linus and Clement the First are specifically named in the New Testament.
+
+- Yes they are, those three. I thought that's how I read them.
+
+> Linus is mentioned in the valediction of the Second Epistle to Timothy as being with Paul the Apostle in Rome near the end of Paul's life.
+
+- Right, in 2 Timothy. So that's all I want. So you have Anacletus, Clement the First. Go to Clement. Clement the First, click that. All right, let's see.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, the article on Pope Clement I  *[[43:46](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=2626s)]*
+
+> Pope Clement the First, Clemens Romanus, died 99 AD, also known as Saint Clement of Rome.
+
+- He died in 99 AD, so a little later, when he was killed.
+
+> Is listed by Irenaeus and Tertullian as the bishop of Rome.
+
+- Listen, he's listed by Irenaeus. Keep Irenaeus, get that name in mind. Irenaeus. He plays a very important part later on in history. Irenaeus.
+
+- Blow up some more. Make the world a little bit bigger. Blow up only that left side. Let's just dive into this a little bit more. Bring it down. Go down. No, no, I just want to read it bigger.
+
+> Is listed by Irenaeus and Tertullian as the bishop of Rome,
+
+- So he's listed by Irenaeus and Tertullian. That's your stupid apologetic Jews: Tertullian was the first to bring the Christian faith to Africa. No, he wasn't. He brought the pagan Christian faith to Africa, the Western Christian. That's Rome. He brought the Roman Catholic faith, doctrine, to Africa. But it was already there, because Rome had already dominated North Africa. So that's the last straight-up law, I'll say. Okay, Rome at the time wasn't Christian, but he did not present the original early Christian faith that the disciples were teaching when he brought it to Africa. Put it that way.
+
+> Is listed by Irenaeus and Tertullian as the bishop of Rome, holding office from 88 AD to his death in 99 AD.
+
+- Ten years.
+
+> He is considered to be the first Apostolic Father of the Church,
+
+- So they count him to be the first. But not really, because Peter, according to tradition, was first. But they count him as one of the first. Clement, as one of the first of the apostolic... what? Apostolic Father of the Church. Of the Christian church; later on became the Catholic Church. Earlier on, the Catholic Church.
+
+> one of the three chief ones together with Polycarp and Ignatius of Antioch.
+
+- They count these three as the most... according to Christian church tradition, Clement, Polycarp and Ignatius are the three top, or main, apostolic fathers. Which is kind of false, but these three are mentioned the most, or held in high esteem. I think because they were successors right after the actual, real apostles. All right, so I'm gonna show you who Polycarp is, and I'm gonna show you who Ignatius is. Irenaeus will come later on.
+
+</div>
+
+*[[46:41](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=2801s)]* Now get me the death, the ministry of the apostles. Got that stuff, Jazz? I want the books. Starting the ministry, I want that now. The death and ministry of the disciples, and where the early Christian doctrine went, since y'all say Tertullian brought it to Africa, and that's why the faith of Christianity today is a black origin. You guys are such liars, man. They just lie. You want the martyrdom of them? Their travels? It mentions their travels. You know what, page 99. Page 99. Should have that.
+
+*[[47:36](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=2856s)]* So these are considered... they're considered the disciples after the disciples, right? The disciples' disciples. These men actually were brought up under Peter, John, and all of them, and carried further the gospel and spread it further. All right, page 99. That's not page 99. 98. I sent something to y'all as well, a video to y'all as well. Pull up what Deacon sent. Until y'all get this, you'll get the right page. Let's pull that up real quick. Now, I don't want to watch this just yet, but I'll just speak on some things in the meantime.
+
+*[[48:20](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=2900s)]* So far we have Peter. Peter was counted as, I guess, the first, whatever. The Catholic Church deified him after they killed him, the Romans. Peter, bishop of Rome, of Jerusalem and Antioch, three churches he was over. Linus took over the church of Rome, and Anacletus took over after that. Clement took over as well. Clement. Okay, so you have Clement, Polycarp and Ignatius. These three in particular, according to Christian or church tradition, are the apostolic fathers, who are the direct disciples of the disciples. Even though Clement and Linus are more so the real, you know, direct disciples, because they're in the Bible by name. They're mentioned by name biblically, right, aside from Polycarp and Ignatius, who are not scripturally listed or mentioned. All right, we got it now? So let's just look at this. I want this first, before the video is played. Blow it up. Go down to the bottom. You can read the top... you know what, go to the title. Go to the title. All right, and then we jump down.
+
+<div class="reading">
+
+Reading from a book on the ministry and death of the disciples, at the page given on air as 99 and then 98 (the title isn't named)  *[[49:49](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=2989s)]*
+
+> From the period of the death of Paul, 66 AD, to the close of the first century.
+
+- So Paul and Peter died like right behind each other. Right behind each other.
+
+- **Captain:** I think Peter died two years later.
+
+- **Deacon Eythan:** Yes sir. All right, now jump, go all the way down to the bottom.
+
+> It appears from credible records that the gospel was preached in Idumea, Syria, Mesopotamia, by Jude;
+
+- Iraq. By Jude. Jude taught in Idumea, where Israel was. Syria, where Israel was. Mesopotamia, Iraq, where Israel was. Jude taught there.
+
+> in Egypt, Mauritania, and other parts of Africa, by Mark,
+
+- Ah, that's North, that's Northwest Africa. And Mauritania, that's Africa. And other parts of Africa. By Mark. Mark went to other parts of Africa. An early Christian. Not tattooing, not Tertullian, and taught the gospel. You lying-ass apologetics, man. Mark was taking the true Christian doctrine into Africa already. The same author of the book of Mark. He was in Africa teaching already, before tattooing was born.
+
+> Simeon and Jude, in Ethiopia, by the eunuch and Matthias;
+
+- Oh really? I'm sorry: Simeon and Jude. So Mark, Simeon and Jude were teaching in Africa, together. So they spread it out.
+
+- But the eunuch that Philip taught in Acts, Acts 8, right? He was a Jew. He came to the gate, from the beast. He was a Jew. And Matthias, the new one, who would replace Judas Iscariot. They taught in Ethiopia. So all them Christians over there in Ethiopia is our people. They learned the doctrine of Christ from them. Damn.
+
+- **Captain:** The eunuch. Isaiah 11:11.
+
+- **Deacon Eythan:** Yeah, Isaiah 11:11 as well. And they say the oldest, the oldest Bible, they say, is found in Ethiopia, because they were taught over there, with the black images in it. Because the disciples, these three, Mark, Simeon and Jude, taught in Ethiopia, and the eunuch taught before them, and Matthias taught there. Four disciples of the twelve. A fourth of the twelve disciples taught in Ethiopia and other parts of Africa. It was not just Tertullian. And Jerusalem is in Africa. The gospel's always been there. You guys don't know nothing, man.
+
+- **Captain:** Where are the white images in the old ancient Ethiopian Bibles? Not one. Not one. The oldest Bible in existence is the Ethiopian Bible, and every image in that book is black people.
+
+- **Deacon Eythan:** Indeed.
+
+- **Captain:** You gotta wonder. Today, when we go visit these different regions, whether it be Africa, Europe, North America, Central, South America, what do the people do? They take pictures of us. They say, hey, the deacons are here, the bishops are out here, the captains are here. They have records, documentation of the apostles. Well, likewise, back then they didn't have cameras. So what did they do? They painted the apostles. And they were black men. Modern-day pictures today, or ancient pictures, right? So they drew them at the time.
+
+> in Pontus, Galatia, and the neighboring parts of Asia, by Peter;
+
+- Peter went where? In Pontus, Galatia and the neighboring parts of Asia, by Peter. He went to Antioch, he went to Rome. He's all over the place.
+
+> in the territories of the seven Asiatic churches, by John;
+
+- The territories of the seven Asiatic churches. That's the seven churches: John the Revelator.
+
+> in Parthia, by Matthew;
+
+- Matthew went to Persia, or he went to India. That's clear facts. Thomas is dead. Look, he was buried there. He was killed there and buried there. Stabbed. I didn't get into that, but I'm showing you the ministry of the disciples, where they were at. Matthew in Parthia: India, Iran. All the places you call Indian people, Matthew taught them. Which is our people over there.
+
+> in Scythia, by Philip;
+
+- Philip went to Scythia, which would be Russia today, or Tartary, which is where our people were. That's where the Anglo-Saxons is from. Scythians and Saxons, which migrated to areas of France and Britain and so forth. He taught us over there. Galatia. All right. And you got more, next page. You should have it.
+
+> in Scythia, by Philip, and Andrew;
+
+- And Andrew, as in Peter's brother, Andrew.
+
+> in the northern and western parts of Asia, by Bartholomew; in Persia, by Simeon and Jude; in Media, Carmania, et cetera, by Thomas;
+
+- Carmania is Iran. Thomas in Carmania.
+
+> from Jerusalem and round about unto Illyricum, by Paul, who also published it in Italy, and probably in Spain, Gaul, and Britain.
+
+- That goes back to Caratacus and them, Pudens and Claudia. So Paul went to Britain as well, historically. Historically, I say. He went to travel to Italy, which is biblical. Gaul, which is going back to the word Galatians. And Britain, where our people were traveling. Okay.
+
+- Where's it, Spain, in the scriptures? And to Spain. And Spain as well. Our people are also in Spain. All right, so this is where Paul went. So I'm showing you the ministry of the twelve. These guys were all over. All over.
+
+- And it's historically mentioned that Thomas... I'll leave it alone. He came over here. But ah, about that... yeah, I'm not gonna do it. I'm not gonna do it. I might have people bug out. But they say Thomas came over here as well, over here with, you know, a certain Messiah. But yeah, whatever.
+
+- **Captain:** Actual historical documents. Let's talk about documents. Because even Clement mentioned Paul doing the same thing, going to the extremities.
+
+- **Deacon Eythan:** Yeah, we knew. We knew where Israel was. Give me Revelation 1. That's what I said. That's why I said give me Psalms 19.
+
+- **Captain:** Yeah, you know, I want to just point it out. The Bible doesn't mention it, in a way, that they hit every part of the earth, of the known and unknown world, I should say. Old and new.
+
+</div>
+
+**[Psalms 19:3-4](/bible/psalms/19#v3)**  *[[56:54](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=3414s)]*
+
+> <sup>[3](/bible/psalms/19#v3)</sup> There is no speech nor language, where their voice is not heard.
+
+- This is a psalm of David speaking about the sun and the moon. But he's using the lights of the heavens in relation to the word of God: the light, or wisdom, the commandments, the law, which is light.
+
+- There's no speech, no language, where no one can say there's the sun and the moon. Everyone understands the sun and the moon exist, and that they're great lights to everyone, regardless of what language they speak. They know what the sun is, they know what the moon is. Likewise, there's no speech where the word of God cannot be spoken in, that people can understand. In regards to where they're scattered at, the word of God can be spoken to them in different languages, and they'll still understand who they are.
+
+> <sup>[4](/bible/psalms/19#v4)</sup> Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
+
+- Their line, or the line of the disciples, is gone out through all the earth. Okay. All of it. All of it.
+
+- So you know it's the words of God, and their words to where? To the end of the world. That's twofold. Their words are gonna reach the end of the world, literally, the end, and it's gonna last until the end of the world, as in the end of the time of the Gentiles. The end of the world.
+
+- In them hath he set a tabernacle for the sun, meaning their light. And their word is their words' light. It's wisdom. All right, so again it says here that their line is gone out through all the earth. So that's why I keep emphasizing on these things. They're documented historically. Can I say biblically that the twelve went to these places? To an extent, yes. But historically, the history gives a bit more detail to what the Bible gives. But in terms of them traveling over here, it's not written scripturally. But Psalms says that the line reached throughout all the earth. So we know that the line of the word of God reached over here as well. That we know.
+
+- **Captain:** I think it was heavy, because Deacon Malachi, he dove deep into the... when it says their line. I think, I forget, we used Bible Study Tools or something. But line meaning voice. So their voice went throughout all the earth.
+
+- **Deacon Eythan:** Wow. I mean, the voice of the words of God has reached everywhere where Israel is. And the same thing is likewise today.
+
+- **Captain:** Same thing today. And like I said, if you have difficulty in terms of determining who the men are that God is using in order to spread the gospel throughout the four corners of the earth, examine by the words Paul said to Timothy: make full proof of thy ministry and do the work of an evangelist. Who are the ones that are evangelizing the earth? Where can you find us? You can find them in China, you can find them in Japan, you can find them in England, France, Germany, Russia, Japan, all over the earth. So if you want to find who them boys are, look at our works. Measure our work that we're doing, and you'll see that the apostles are back on this earth again.
+
+- **Deacon Eythan:** That's right. Revelation 1. Look at Revelation 1 verse 1 through 9.
+
+- **Captain:** The book... Rape is not going across the earth. Child molestation is not going across the earth. They'll kill you in these countries. You'll get your head chopped off. They're going to stay right there on your block. Some of these … can't even afford a plane ticket to go to Florida, talking about their lines go across the earth. They have no passports. They go internet. The internet. The internet has our line. Okay. And if it does go across the earth, Israelites, down... we'll see where your line goes then.
+
+- **Captain:** And Deacon, they do go, because, uh, you see one negro in the corner of a damn tablecloth, that's a garment, in a parking lot, talking to a shopping cart with a camera in front of it. A Walmart shopping cart with a camera in front of it. You guys have … 101.
+
+- The book of Revelation chapter 1. With your ass over there, boy.
+
+- **Captain:** Can you imagine Apostle Peter... I'm sorry. Music, bro. We're doing Passover, it's acapella right now. Can you imagine Apostle Peter doing Passover at a strip club? Oh, unless you wonder why. Can you imagine Apostle Peter looking for scriptures to justify having sex with women outside of Deuteronomy chapter 7 verse 3? Women of the nations. Can you imagine Apostle Peter looking for women to have sex with, concubines? Can you imagine that? You can't imagine that. No, you can't. These are not the boys.
+
+- **Deacon Eythan:** 1 and 1. I'm sorry. Damn. I knew, I knew what's gonna happen. It was the music, man. 1 and 1. Read that.
+
+**[Revelation 1:1-6](/bible/revelation/1#v1)**  *[[1:02:18](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=3738s)]*
+
+> <sup>[1](/bible/revelation/1#v1)</sup> The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
+
+- John, one of the twelve. This is John who wrote the book of John, the Gospel of John. This is John the Revelator.
+
+> <sup>[2](/bible/revelation/1#v2)</sup> Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
+
+- I don't know who Shaw is. I don't know the things that he saw. Maybe I don't know. Deke, it means... Can you read verse 3 again? It's like a southern accent. The things that he showed, the things that he shows. All these terms. Oh man. You must do again, please. Yes. Thank you, sir.
+
+> <sup>[3](/bible/revelation/1#v3)</sup> Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+
+- Read it again. Read me again, please. Blessed is he that readeth. One more time. You add carefully at the end. Wow. Level 10 demons over there. Yo, that's an excellent song though. But damn, that was a classic. Verse 3, please. Hypocrites, your own song. Verse 3, please. Oh man. Why? Why only was Abaddon insulted? He also supported his album at the same time. Oh, praise the Lord, man. Promote the album, snippet the album, and insult at the same time. That's right. All cursing the blessing. Curse and blessing, blessing the curse.
+
+> <sup>[4](/bible/revelation/1#v4)</sup> John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
+
+- John to the seven churches. Seven churches of Asia Minor.
+
+- Seven Spirits that are seven angels that accompany Christ, and so forth. There's seven of them. The Bible names four, but the three other names you don't know. It's Gabriel, Michael, Raphael and who else? … three. Gabriel, Michael, Raphael and Uriel. Four names. Four. I was right. Four, and the others we don't know.
+
+> <sup>[5](/bible/revelation/1#v5)</sup> And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
+>
+> <sup>[6](/bible/revelation/1#v6)</sup> And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.
+
+- Made us kings and priests. Us. John's talking about Israelites. Made us kings and priests unto God.
+
+- Unto God and his Father. No, no, Deacon: Christ was able to separate himself as a separate entity, right? He's God and the Father. He took the fusion earrings off. Took the fusion earrings off, and he couldn't go Super Saiyan anymore. You guys are … man. So read again verse 6.
+
+- Unto God and his Father. You mean Exodus 19. He's talking regarding being a kingdom of kings and priests. It was in Exodus 19 and 6. You see who he was talking to, who that applies to, and will always apply to.
+
+**[Exodus 19:6](/bible/exodus/19#v6)**  *[[1:07:06](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=4026s)]*
+
+> <sup>[6](/bible/exodus/19#v6)</sup> And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
+
+- A kingdom of priests. Kings, a kingdom of priests. Kings and priests. And a holy nation. These are the words which thou shalt speak unto the children of Israel. Boom. So you can't say it's other nations. Go back to Revelation now. Revelation chapter 1 and verse 7.
+
+**[Revelation 1:7-9](/bible/revelation/1#v7)**  *[[1:07:31](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=4051s)]*
+
+> <sup>[7](/bible/revelation/1#v7)</sup> Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
+
+- Because he's gonna be flying. He'll be flying in the air. That's why. And they also which pierced him: the man that stabbed him when he was on the cross. He's back too. He's going to see him too.
+
+> <sup>[8](/bible/revelation/1#v8)</sup> I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
+
+- I John, who also am your brother. Damn. Oh man. I John, who also am your brother: he's the brother of the Alpha and Omega. He's the brother of an eternal God. How was John the brother of that? Ah, yeah. Verse 9, read it again.
+
+> <sup>[9](/bible/revelation/1#v9)</sup> I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
+
+- Remember we read earlier, last week, when Paul said that I'm the angel of the... I'm his angel and I serve him. I think it's heavy. That's another thing. But anyway, John's talking to the churches. But the angels that spoke earlier in verse 8, they are... that is his brother. Those angels are our brothers. I'll put it that way.
+
+- He's writing to the churches: I'm your brother.
+
+- I was in the isle that is called Patmos, for the word of God and for the testimony of Jesus Christ. So some scholars say that John the Revelator died on the isle of Patmos, and others say that he did not die out there. He actually was released and he actually lived out his life in Ephesus and died of old age there. So he was never killed. All scholars agree that he died of old age. None say he was killed. But some say he didn't remain on the isle of Patmos; he actually left it, or was released, and then taught, whatever. And then some say he actually died on the island, or whatever. So I don't really care. The point is that John the Revelator was the last of the disciples. He was the last of the twelve. All eleven were killed except him. He was not killed. He lived, because Christ said he would live, Deke. Remember, they tried to kill him. They tried to boil him. We're going to get to that.
+
+- It says I was in... whether he was there, past tense... so it doesn't make a difference. The point is that he wrote this letter. John wrote Revelation. That's my point. And he wrote to the seven churches in Asia. That's in that book we read earlier, that book we just read: John, he taught in the seven churches of Asia.
+
+- So that's John. This is John the Revelator. John had disciples. From what they say, John's disciple was a man named Polycarp. Polycarp was a direct, historically authentic disciple of John the Revelator. Polycarp, as well as Ignatius, who was Polycarp's friend, who succeeded Evodius. Evodius replaced Peter when Peter was killed. Evodius, that was the priest, or the elder, of Antioch. So when Evodius died, Ignatius took his place as the bishop of Antioch. So you had Polycarp and Ignatius, who were direct disciples of John the Revelator. So these were disciples of the disciples. So Polycarp and Ignatius were pretty much the beginning of the last burning embers of the true early Christian faith that the Bible supports, that slowly went the hell off. Deep. Went off the damn rails.
+
+*[[1:11:45](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=4305s)]* All right, so we're going to take a quick break. When we come back, we're going to show you some videos regarding the fate of the twelve. We showed you their ministry; now we're gonna show you their fate. If you have any comments or questions regarding the class, the number is 267-702-6121. 267-702-6121. Call us regarding your questions or comments regarding the class thus far. If you're confused or need a bit more clarity on what we went over thus far, you're free to text us or call us. All right, so we'll be back. Stay with us. Shalom.
+
+*[[1:12:23](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=4343s)]* The break carries a message from Bishop Nathanyel: "This is Bishop Nathanyel of Israel United in Christ. I have an important message about your leaders in the Christian church. Your bishops, pastors, reverends and ministers are all lying to you and leading you straight to damnation. The truth is, you so-called blacks, Latinos and Native Americans are the biblical Israelites, according to Deuteronomy chapter 28. Jesus Christ is a black man with white wolf hair, according to Revelation chapter 1, verses 14 and 15. We as the Israelites must keep the commandments in the faith of Christ to receive salvation, as it is written in Revelation chapter 14 verse 12. I've challenged and debated Christian authorities all over the world on these issues. Not one of them has been able to negate this truth. Your pastors have led you astray, worshiping pagan holidays and false gods, just as in the days of old. So join us on our mission to restore the true nation of Israel before the decree goes forth. The work is plentiful, but the labor is a few. Visit our website at israelunite.org to learn more, and visit our schools. Shalom." Then music plays until the show comes back.
+
+*[[1:25:57](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=5157s)]* Your Cat was trouble, man. Anyway. So anyway, we're back. We're back from the break. You got a text? Read that real fast.
+
+**Text:** Shalom. Great class. When you say the word went everywhere, are the Mormons correct, saying Jesus visited the Americas?
+
+**Deacon Eythan:** I would say the Mormons are correct, historically, because the natives told the explorers that arrived here that they encountered a Messiah, and a disciple, and so forth. So that's all we go by. I can't say biblically that those two... that he came here. But it's a possibility. The Mormons got all the information from the natives, pretty much. The Native Americans spoke to them, spoke to Joseph Smith. Rather, he spoke to them, and other people before the Mormon religion had come to this understanding, that they were visited and taught the commandments and so forth. They named him Quetzalcoatl. That's the name they gave him. Quetzalcoatl. And that's the Messiah. They called him the winged serpent, things like that they called him. And they said he was their brother and they were his descendants. Quetzalcoatl, they called him.
+
+*[[1:26:54](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=5214s)]* I went over this. I went over this also a while back, like way back. Got to go back and watch the old videos. I went over this. So check out the first, second, third and fourth Promised Lands. I kind of go into that. But what I have predates the Mormon doctrine. So the Mormons just borrowed what they heard from other explorers and added it into their BS doctrine. And it is rumored also... that's the word, it's rumored, right, rumored... not only Christ they called Quetzalcoatl, but they also called Thomas Quetzalcoatl.
+
+**Captain:** Yeah, in reference to the lesser god. Yes. So they called Christ the greater god, and Thomas the lesser god. And they say they have actual documentation that he went through Brazil. He landed on the shores of Brazil, as well as Peru. It was Peru as well. And when the Spanish explorers came over here, there was, you know, a given description. It was like, yo, how do they know of Apostle Thomas, with them being on this side of the world? They have no recollection of them, and they were keeping Christian tenets. These guys were bringing Christianity to them, and they already were maintaining Christian tenets over there already, as if they got it from someone else, because they say it was Thomas.
+
+**Deacon Eythan:** And they also have visual depictions of Christ. I'm not sure, I believe it's in the museum. The black... the black-bearded god. Quetzalcoatl. The white-bearded god, they call him. The white-bearded god, they call it. So I mean, we went over that way back. I gotta just go back and watch the videos. We go into that. You know, other sheep I have, which are not of this fold, right? And remember, John says that Christ did so many things you couldn't fit it all in the book. So he did a lot of things that's not written. So we put that history into that category: things not written.
+
+**Captain:** So … so our forefathers, they can take a trip over to Africa... I mean, from Africa to the Americas to trade, but the apostles can't go over there, right, to teach? It doesn't make any sense.
+
+**Deacon Eythan:** It doesn't make sense. Right. It doesn't make any sense. So we're at... go to the Polycarp Wikipedia. Polycarp. Oh no, give me the video. I want the video. Yeah, you want the video, Deke, cause that's what we're dealing with, the disciples, now. I want Polycarp... Oh yeah, the video. I want the video first. Thank you. I want the video first. We're going to watch... let's see, just let's play. Hopefully we don't get knocked off of this. I got the disclaimer, right?
+
+<div class="reading">
+
+Reading from a video on how the gospel spread from Jerusalem to the whole world and the fates of the apostles  *[[1:29:43](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=5383s)]*
+
+> 33 AD, 40 days after his resurrection, Jesus Christ ascends into heaven. He leaves behind eleven apostles, commissioning them to make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit.
+
+- I can't take the voice, please.
+
+> There were 500 disciples in the world, all of them located in the remote Roman province of Judea. This is the story of how the gospel spread from 500 disciples in Jerusalem to the whole world.
+
+> Nine days after the ascension, the day of Pentecost, the twelve apostles are praying together with Mary, the mother of Jesus.
+
+- Fast forward a little bit. Geez, it's gonna make me fall asleep. Go two minutes ahead. Let me see. You're right there. Right there. Don't go to the side where they all... how they got killed. Go back some. Deke, can we go back to the map, the map when they spread it? Yeah, they're saying that he's referring to the Christian missionaries. Press play right there.
+
+> on his second missionary journey, from Antioch, preaching the gospel in his native Cilicia before moving on to Macedonia and Greece. On his return home he visits Ephesus, the largest city in the Roman province of Asia, in modern-day Turkey, and the fourth largest city in the Roman Empire. In Acts 18 to 21, Paul sets out from Antioch to visit the churches he had established across Galatia, Asia, Macedonia and Greece before returning to Jerusalem. Acts 27: Paul is taken under guard by Roman soldiers from Judea to Rome. After leaving Crete, the ship is lost to a storm, but miraculously lands at Malta in Acts 28, from where Paul makes his final journey to Rome.
+
+- You heard this last week. Last week we mentioned it.
+
+> The Bible ends in Acts 28 with Paul teaching the faith in Rome. Tradition tells us of the journeys of the other apostles.
+
+- Here we go.
+
+> Tradition tells us Saint James the older, brother of John the Evangelist, preaches the gospel in Spain. He returns to Jerusalem, where in Acts 12 he is run through with the sword by Herod Agrippa.
+
+- He killed James, brother of John.
+
+> Philip spreads the gospel in Asia, where he is crucified upside down. Bartholomew travels to India. After sharing the gospel there, he travels to the kingdom of Armenia, the location of Mount Ararat, where he is skinned alive and beheaded.
+
+- Skinned alive and beheaded.
+
+> Thomas, who doubted the resurrection of Jesus, preaches in the kingdoms of Osroene and Armenia before traveling to India, where he preaches in Punjab and Mylapore. He is stabbed to death by Hindu priests near Madras.
+
+> stays in Palestine, where he writes his gospel in Hebrew. He eventually moves to Ethiopia, where he is martyred.
+
+- He moved to Ethiopia. He's murdered.
+
+> Simon and Jude preach in Ctesiphon, capital of the Parthian Empire, where they are said to convert sixty thousand believers before returning to... modern-day Beirut, in Syria, where they are martyred.
+
+- They were killed too.
+
+> Matthias, who was chosen to replace the apostle Judas, evangelizes Armenia and the north shore of the Black Sea. He returns to Jerusalem and is stoned to death. Saint James the Just
+
+- That's Christ's brother. James the Just, that's Christ's brother right there. James the Just. Well, they should picture him black, with the afro.
+
+> stays in Jerusalem and prays in the temple every day. Finally an angry mob throws him off the top of the temple and stones and clubs him to death.
+
+- They threw him off the temple. He fell a hundred feet. He survived the fall. And then he survived the fall; they ran, they clubbed him to death. James the Just. So they threw him off the top of the temple, and he hit the floor. He survived the fall. They beat him with clubs. James the Just.
+
+- **Captain:** … ain't … are the worst.
+
+> Thereafter, Jerusalem revolts against the Roman Empire. 70 AD, the armies of Vespasian march on Jerusalem and completely destroy it, including the temple, in 70 AD. Andrew, the brother of Simon Peter, spreads the gospel as far north as Crimea and present-day Ukraine, before preaching in Byzantium, present-day Constantinople, and finally arriving at the city of Patras in the province of Achaia, present-day Greece, where he is crucified on an X-shaped cross, as he deemed himself unworthy to be crucified on the same type of cross as Jesus.
+
+- Peter, the same thing.
+
+> Simon Peter leaves Jerusalem following the council in Acts 15 and becomes the first bishop of Antioch, where he stays for eight years. He then preaches in Asia before arriving in Rome. Simon Magus, who in Acts 8 had attempted to buy
+
+- Simon Magus. Simon Magus, I'm going to hold on to that. Pause. Stay right there. Let's go to Acts 8 and 1. That's the same guy, Simon Magus. You have Simon Peter, and you had Simon Magus. When Peter was out there evangelizing, this guy came up against us. He was one of the worst, worst of heretics. Acts 8 and 1, we're going to be... to verse 9.
+
+</div>
+
+**[Acts 8:1-25](/bible/acts/8#v1)**  *[[1:35:15](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=5715s)]*
+
+> <sup>[1](/bible/acts/8#v1)</sup> And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles.
+>
+> <sup>[2](/bible/acts/8#v2)</sup> And devout men carried Stephen to his burial, and made great lamentation over him.
+>
+> <sup>[3](/bible/acts/8#v3)</sup> As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.
+
+- This is Saul, right.
+
+> <sup>[4](/bible/acts/8#v4)</sup> Therefore they that were scattered abroad went every where preaching the word.
+>
+> <sup>[5](/bible/acts/8#v5)</sup> Then Philip went down to the city of Samaria, and preached Christ unto them.
+>
+> <sup>[6](/bible/acts/8#v6)</sup> And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did.
+>
+> <sup>[7](/bible/acts/8#v7)</sup> For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed.
+>
+> <sup>[8](/bible/acts/8#v8)</sup> And there was great joy in that city.
+
+> <sup>[9](/bible/acts/8#v9)</sup> But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:
+
+- A certain man called Simon.
+
+- He's a sorcerer, or magus. He was a magus, or sorcerer.
+
+- He was some great one.
+
+> <sup>[10](/bible/acts/8#v10)</sup> To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God.
+>
+> <sup>[11](/bible/acts/8#v11)</sup> And to him they had regard, because that of long time he had bewitched them with sorceries.
+
+- This is a witch. Simon the sorcerer.
+
+> <sup>[12](/bible/acts/8#v12)</sup> But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.
+>
+> <sup>[13](/bible/acts/8#v13)</sup> Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done.
+>
+> <sup>[14](/bible/acts/8#v14)</sup> Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:
+
+- Peter and John came down there.
+
+> <sup>[15](/bible/acts/8#v15)</sup> Who, when they were come down, prayed for them, that they might receive the Holy Ghost:
+>
+> <sup>[16](/bible/acts/8#v16)</sup> (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)
+>
+> <sup>[17](/bible/acts/8#v17)</sup> Then laid they their hands on them, and they received the Holy Ghost.
+>
+> <sup>[18](/bible/acts/8#v18)</sup> And when Simon saw that through laying on of the apostles’ hands the Holy Ghost was given, he offered them money,
+
+- Okay, I'll pay you guys, man. Give me that same power. I want that same power you guys have. I'll pay you for it.
+
+> <sup>[19](/bible/acts/8#v19)</sup> Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.
+>
+> <sup>[20](/bible/acts/8#v20)</sup> But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.
+
+- Your money is going... your money gonna die with you.
+
+> <sup>[21](/bible/acts/8#v21)</sup> Thou hast neither part nor lot in this matter: for thy heart is not right in the sight of God.
+>
+> <sup>[22](/bible/acts/8#v22)</sup> Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee.
+
+- Damn.
+
+> <sup>[23](/bible/acts/8#v23)</sup> For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.
+
+- You're jealous. I can tell. You got a jealous spirit on you. You bitter. When he started losing his followers, so he says, if I can't beat him, I'll join him and get something out of him. That was his thought.
+
+> <sup>[24](/bible/acts/8#v24)</sup> Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.
+>
+> <sup>[25](/bible/acts/8#v25)</sup> And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans.
+
+- So that introduced, right there, Simon Magus. Simon the sorcerer. Now press play. Watch this. So pause. It says, is it Simon Magus? Jazz, read that part where it says.
+
+<div class="reading">
+
+Reading from the same video, on Simon Magus  *[[1:39:22](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=5962s)]*
+
+> Simon Magus, a.k.a. Simon the Sorcerer, the father of all heresies.
+
+- He was the father of heretics, okay. This guy was one of our biggest opponents.
+
+> Seeks to lead people away from the teachings of Simon Peter.
+
+- What happened? He got jealous, and Peter left. He said, I'm gonna go against this guy, because he didn't take my offer.
+
+> Claims to be God. Says that he had manifested himself as the Father in Samaria, the Son in Judea, and the Holy Spirit to the Gentiles.
+
+- See what he did? Damn. He made himself a trinity. He made himself the Trinity. He said, I am the Father. So he said, I'm the Father in Samaria, I'm the Son in Judea, and I'm the Holy Ghost to the Gentiles. Okay. He wasn't a sorcerer, he was a drug user.
+
+- The Christian... some of the nations that we see in the Bronx. Yeah. Well, watch this. Press play. Watch this.
+
+> the laying on of hands. Follows Peter in his travels across the world, performing magic tricks to convince people
+
+- Pause. Pause. He followed Peter across the world. So Peter's out there teaching, he's chasing Peter to compete with him at magic tricks, to say you should follow me. That's what … do to us now. Follow us all around and say, oh, don't follow him, follow us. We're the true disciples. Certain men with dirty black garments following us. Doing the same thing. Follow us. The original. We're the original ones. Press play.
+
+- Hey, go back. Go back just a tad bit. Go back. Right there.
+
+- **Captain:** They met in dirty black garments.
+
+- **Deacon Eythan:** He's going to say it. He's going to say it. He's listing it. Press play.
+
+> attempted to buy the gift of laying on hands. Follows Peter in his travels across the world, performing magic tricks to convince people that he, not Jesus, is the true savior. Simon Magus teaches his followers that he is the true God, who had revealed himself as the Father in Samaria, the Son in Judea, and now the Holy Spirit to the Gentiles. Simon Magus becomes known as the father of all heretics, those who try to lead the faithful astray from the sound teaching of Simon Peter.
+
+> teaches salvation by grace without works.
+
+- Pause. Sounds familiar? He's the Christian pastor. That's what he was. Faith only. Faith only Israel. He's the faith-only Israel. Teaches salvation by grace without works. So that's sorcery. That's sorcery. It's witchcraft. That's what that is. He taught salvation by grace without the needs of works, of the law. And he goes and says that the five books of Moses are body parts. Numbers is the head, Leviticus is the arm. He's bugged out. Right about him. He's crazy. So we're teaching the law, he's following us saying you ain't got to keep that. That's what he's doing.
+
+- **Captain:** That's what it says. What is rebelliousness? Is that the sin of witchcraft? Right. Because when you tell people not to keep God's laws, you're summoning demons in them. Cause you tell me it's okay to be a prostitute, it's okay for you to be a transgender. These are demons. And a witch's job is to summon up demons. And the way you summon up demons: don't keep God's laws. That's a perfect way.
+
+- **Deacon Eythan:** Yep. You don't need these magic spells and magicians. Press play.
+
+> Simon Magus also taught that his followers would be saved by grace alone, without the need for good works, because in his teaching the designation of works as good or bad was an arbitrary construct invented by fallen angels.
+
+- Pause. Oh, because the understanding of the law... keeping God's laws is from the devil. That's it. So he says the understanding of keeping good works, or laws, is of Satan. Isn't that the same teaching that flows today, that the laws of God is sin? If you keep the Ten, you're in sin, my brother. That's bad. It's probably him back there.
+
+- **Captain:** That's Simon Creflo. Simon the sorcerer, Creflo. Hey, he tried to use his money to buy the gift. And they use money to buy... it makes sense.
+
+- **Deacon Eythan:** Hey, they all back. Your old spirits is back, in one of them. They haven't been activated the way they're supposed to be. Right about to, with these church blitzes. Yep. Press play.
+
+> At Rome, Simon Peter and Simon Magus are brought before Emperor Nero.
+
+- Pause. So Simon Peter and Magus, there was a competition, before Nero, in Rome. Watch this.
+
+> The apostle Paul prays for Simon Peter. Simon Magus performs a magic trick where he is lifted into the air by demons.
+
+- Pause. So Paul... I think Paul... we wanted someone... why don't you say Paul? Paul's still alive. What's up? Let's play.
+
+> arbitrary construct invented by fallen angels. At Rome, Simon Peter and Simon Magus are brought before Emperor Nero, while the apostle Paul prays for Simon Peter.
+
+- Oh, Paul. So Paul was praying for Peter when they were both brought before Nero. Paul was praying for Peter at the time. Let's play this.
+
+> performs a magic trick where he is lifted into the air by demons.
+
+- So Simon the sorcerer conjures up demons, make him float. So he levitates.
+
+> However, Simon Peter commands the demons to release him, and he falls to his death. While the apostle Paul prays for Simon Peter, Simon Magus performs a magic trick where he is lifted into the air by demons. However, Simon Peter commands the demons to release him, and Simon Magus falls to his death. Simon Peter sends his disciple Mark the Evangelist to Alexandria, Egypt, the second largest city in the world. Mark becomes Alexandria's first bishop. Emperor Nero blames Christians for the great fire of Rome in the year 64. Christians in Rome... the apostles Peter and Paul are martyred. Peter is crucified upside down on Vatican Hill, because he deems himself unworthy to be crucified in the same manner as Jesus. Saint John the Evangelist is thrown into a cauldron of boiling oil in Rome, but is unharmed.
+
+- Pause. They threw John the Revelator into a cauldron of hot oil, but it wouldn't burn him. He couldn't... it wouldn't... he wouldn't burn.
+
+> He's then banished to the island of Patmos, where he receives the vision of Revelation. After he is released from exile, Saint John resides in Ephesus. His last words are said to be: little children, love one another. The apostles established churches throughout the Mediterranean world, led by the three Petrine sees of Rome, Alexandria and Antioch. From these sees, missionaries spread the gospel to the whole world.
+
+- Of course. Pause. So the twelve pretty much all died, except John. John died of old age. Where's the mystery? But no, see, he died of old age, while the others were killed. Skinned alive, thrown off of freaking temples, clubbed. Terrible, man. Stabbed. Set on fire. Crazy. Skinned alive. Give me Polycarp. Horrible death, it is. You mean Polycarp, P-O-L-Y-C-A-R-P? Wikipedia. Yep. Okay. Polycarp. Read that.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, the article on Polycarp  *[[1:46:59](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=6419s)]*
+
+> Polycarp, 69 AD to 155 AD,
+
+- So he's a little later. 155. 155, so he's mid... first century.
+
+> was a Christian bishop of Smyrna. According to the modern Polycarp, he died a martyr, bound and burned at the stake, then stabbed when the fire failed to consume his body.
+
+- The fire would not burn him. So they had to stab him instead. Okay, let's fire and burn this guy; had to stab him, because he was a special spirit.
+
+> Polycarp is regarded as a saint and Church Father in the Catholic, Eastern Orthodox, Oriental Orthodox, Anglican and Lutheran churches. Both Irenaeus and Tertullian say that Polycarp had been a disciple of John the Apostle, one of Jesus's disciples. And On Illustrious Men, Jerome writes that Polycarp was a disciple of John the Apostle and that John had ordained him as bishop of Smyrna. Polycarp is regarded as one of three chief Apostolic Fathers, along with Clement of Rome and Ignatius of Antioch.
+
+- Right. So Polycarp was one of the apostolic fathers: Ignatius, Clement and Polycarp. So Polycarp was a direct disciple of John. Go down. So Ignatius was his friend. Go down. That's all I want. So Polycarp was important, and Ignatius was Polycarp's friend, who succeeded Evodius. Give me Ignatius. Go to Ignatius. Next. Look for Ignatius in there. Blow it up. Go back up again. Go up. You should see Ignatius somewhere, right there. Click that. The Apostolic Fathers. Read that.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, the article on Ignatius of Antioch  *[[1:49:02](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=6542s)]*
+
+> Ignatius of Antioch, died 108 to 140 AD, also known as Ignatius Theophorus, the God-bearing, was an early Christian writer and Patriarch of Antioch. While en route to Rome, where he met his martyrdom, Ignatius wrote a series of letters. This correspondence now forms a central part of a later collection of works known to be authored by the Apostolic Fathers. He is considered to be one of the three most important of these, together with Clement of Rome and Polycarp. His letters also serve as an example of early Christian theology. Important topics they address include ecclesiology, the sacraments, and the role of bishops.
+
+- Right. So he wrote the principles on how to be a leader, pretty much. So now get me... go to early Christians. Now Wikipedia: early Christians. Almost done. Early Christians, we're going to just end with these two. Early Christians, Wikipedia.
+
+- **Captain:** I think it's under something different now, Deacon. It's not called early Christians. It's early Christian... I brought it out, and like, Wikipedia changed it. History of Christianity. They changed it up. Changing things around now.
+
+</div>
+
+**Captain:** *[[1:51:08](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=6668s)]* And that's why you notice, you've been listening to the classes with the Bishop, as well as the deacons and captains following pursuit, and they're mentally preparing us, building our faith up for what's to come. You see, listen: if you preach this gospel, you think that, oh, everything's going to be cool. Because I remember... let's get, actually, while we're looking for that, Acts chapter 20 verse 28. No, Acts chapter 14 verse 22. Because years ago, when we was in 1088, we used to read this scripture and we're thinking, oh, you know, much tribulation, you know, persecution. That, oh, people don't fight for a job, you don't get locked up a little bit. We thought that was it. But as the waters began to rise, the Most High is bringing us to the understanding of the events that's going to happen shortly. Meaning we're approaching it. As we see the spirit operate through the Bishop and the deacons, you see that we're approaching the ages of the days of persecution. So that's why we got to mentally and spiritually prepare ourselves, building our faith up, studying this Bible daily, so that, like I said, when our time comes, we're able to stand, stand stiffly. Read that.
+
+**[Acts 14:22](/bible/acts/14#v22)**  *[[1:52:13](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=6733s)]*
+
+> <sup>[22](/bible/acts/14#v22)</sup> Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.
+
+- **Captain:** Confirming the souls of the disciples. And that's why we're constantly evangelizing, going from state to state. And it's imperative that you brothers build yourselves up, studying daily, so that, like I said, the deacons, the bishops and captains, that we could be able to maneuver around the different states as well as countries, to confirm the souls of the disciples. As you guys build yourselves up, we're able to go to other schools and build those schools up, so they can build the men up under them, so we could keep on going further and building up different sanctuaries. And that's how we're able to build strong sanctuaries and be able to spread this gospel far out, so that we're not in one school for three or four years, five years, because the brothers under us are not studying, and we're not able to leave you there.
+
+- **Captain:** Exhorting them to continue in the faith. And that's what we do: we exhort you brothers to continue in the faith. That's why we go over scriptures with you day in and day out. We spend countless time, because we're investing in you. We're investing in you brothers to carry on the torch.
+
+- **Captain:** The Bible says much tribulation to enter into the kingdom of God. That's why the Bishop says, when you read the Bible, put yourself in Peter's situation. Put yourself in John's shoes. Put yourself in Matthew's shoes, and think about the things they went through, the things that they were faced with when death approached them. And you got to put yourself in their shoes, so when these things come that you don't like, you're able to take your death, or whatever the Most High has aligned for you. You're able to take that joyfully.
+
+- **Deacon Eythan:** That's right. Let's go to Matthew chapter 10. Let me know when you're ready, Deacon. I found it. It's Jewish Christian. He got it. That's the right thing. Okay, early Christianity, you got it? You can get what you want. You want first capitals? I'm trying to find something that says that they were all of the same descent. Oh, that's Jewish Christians. It is? Okay, okay, cool. Jewish Christians. So, okay, apostolic age. Let me see real fast. It's Jewish Christians, like third paragraph. You gotta go down. I had just read it. Look at that too. So hold on, let me show you. I'm looking for something. You read Jewish Christians first. Jewish Christians, I want that first. All right, go down. Go down. Jewish Christians first, that's what I want. Type in Jewish Christians, it'll pop right up. That's it, right? Jewish Christian. This is not Jewish Christian. This is Christianity. Right? Is it? Okay. Deep in the top.
+
+## In Closing
+
+*[[1:55:07](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=6907s)]* We're gonna stop at... Jewish... We're gonna stop at Jewish astrological expectations, or... we ain't got much time anyway. We can almost wrap it up. Damn, time flew. You know what, we're going to stop here. We're going to stop. We'll visit this next week. We're going to go into Jewish Christians next week. I think I'm at general time. So hope you guys enjoyed the show. It ended pretty well, actually. It ended pretty well. The titles are gone. You have John gone, and Polycarp remains, and so forth. So hope you guys enjoyed the show. Shout-outs to the IT team. Shout-out to the breakfast team. And that's it. Next week we'll pick up again.
+
+**Captain:** *[[1:55:52](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=6952s)]* Hey, Israel, let's give Deacon another hand for that class. All praise the Most High. All praises. We got capped back as well. All praises.
+
+*[[1:57:12](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=7032s)]* All right, Deacon. All right. So with that, Lord's will, we'll start off next week with the Jewish Christians. So with that we say shalom, and until then, see you next time. Most High, Christ bless. History... tell me down for the road.
+
+## Announcements & References
+
+*[[1:56:00](https://www.youtube.com/watch?v=bBNgCxi9ZPY&t=6960s)]* Israel, as you know, you can always go back to our YouTube channel to catch every show that Deacon has done for the past year now. It's called Our Hidden History Radio. Subscribe to the YouTube channel and hit the notifications button, so you know when we go live. Also... I know you heard your own voice... you can also subscribe to IUIC Philadelphia and IUIC Philadelphia in the Classroom, to catch all the camp videos from the deacon, captain and officers of IUIC Philly. Donate to Our Hidden History on PayPal to iuic.philadelphia@israelunite.org. Once again, that's iuic.philadelphia@israelunite.org. In the comments section put... Oh, don't forget to donate to the Booster Club also, so that the Acts of the Apostles can continue. You can donate through PayPal to iuic.fundraising@israelunite.org. Last but not least, don't forget to subscribe to IUIC TV to get exclusive content from the leadership of IUIC. And also don't forget to tune in to Raven and Wolves, coming up next.
+
+Text or call the show at 267-702-6121.
+
+Sources read from in this episode:
+
+- Wikipedia articles read on screen: Saint Peter (his papacy, his successors Linus at Rome and Evodius at Antioch), Pope Linus, Pope Clement I, Polycarp, and Ignatius of Antioch.
+- A book on the ministry and death of the disciples, the chapter from the death of Paul, 66 AD, to the close of the first century, at the page given on air as 99 and then 98, on where each apostle preached; the title isn't named.
+- A video on how the gospel spread from 500 disciples in Jerusalem to the whole world, the journeys and deaths of the apostles, and Simon Magus.
+- Mentioned: the book *Black Holocaust*, read by the Bishop the night before, on West Africa and the Atlantic.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=bBNgCxi9ZPY)
