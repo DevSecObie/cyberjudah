@@ -396,7 +396,7 @@ The Lindsay Clancy article and clips, played here, are under In The News above.
 
 - And the innocent blood is the blood of them little babies. Okay, read on. Even the blood of their sons, and of their daughters, whom they sacrificed unto the idols of Canaan. That's what we used to do in the past. We will have orgies, have kids, and we will kill our kids, offer it up to Molech and so forth back then. Okay.
 
-- So I said black women hate their kids. Black women hate their kids and hate their husband. Some of y'all might be like, "Yo, Dee, what you talking about?" Start at thirteen. Video thirteen, and go all the way down. Video thirteen. I remember I got to deal with postpartum. I'm about to get on you sisters concerning that postpartum. I'm going to show you some stuff.
+- So I said black women hate their kids. Black women hate their kids and hate their husband. Some of y'all might be like, "Yo, Deac, what you talking about?" Start at thirteen. Video thirteen, and go all the way down. Video thirteen. I remember I got to deal with postpartum. I'm about to get on you sisters concerning that postpartum. I'm going to show you some stuff.
 
 > This is for all the women out there who do not have children. I am a single mother of a ten-year-old. Please listen to the words that are about to come out of my mouth. If you do not have children currently, keep it that way. If you are thinking about having children, don't. Please make sure you know who you are having a child with. My child's father gives me the complete ick, and now every time I have to see him or I have to deal with him...
 

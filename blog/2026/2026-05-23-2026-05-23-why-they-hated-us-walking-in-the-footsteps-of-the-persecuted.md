@@ -569,7 +569,7 @@ Reading from Josephus, page 30  *[[2:31:54](https://www.youtube.com/watch?v=0N1t
 
 > There were some also who passed over the sea and ships and inhabited the islands. And some of those nations do still retain the denominations which were given them by their first founders. But some have lost them also and some have only admitted certain changes in them and that they might be more intelligible to the inhabitants. And they were the Greeks who became the authors of such mutations.
 
-- **Cap:** Just like Deek just said. It says, "These were the Greeks who became the authors of such mutations." Meaning they say that they're the first founders of everything. They're the beginning. They're the first man. They're the last samurai. Last Mohican. They're the Egyptians. They're everybody.
+- **Cap:** Just like Deac just said. It says, "These were the Greeks who became the authors of such mutations." Meaning they say that they're the first founders of everything. They're the beginning. They're the first man. They're the last samurai. Last Mohican. They're the Egyptians. They're everybody.
 
 > For when in after ages they grew potent, they claimed to themselves the glory of antiquity, giving names to the nations that sounded well in Greek, that they might be better understood among themselves, and setting agreeable forms of government over them, as if they were a people derived from themselves.
 
