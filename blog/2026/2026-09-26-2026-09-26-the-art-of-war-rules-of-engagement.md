@@ -22,7 +22,7 @@ tags: ["IUIC in the ClassRoom", "discipline", "marriage-family", "mental-health"
 ## In The News
 
 - *[[6:44](https://www.youtube.com/watch?v=eNMvid6j-qk&t=404s)]* **The thumbnail film on The Art of War** — Every war is fought twice, once in the mind before the battle; know the enemy, sin, and know yourself, where you are weak and what opens the gate.
-- *[[12:15](https://www.youtube.com/watch?v=eNMvid6j-qk&t=735s)]* **Pictures from the trip to Papua New Guinea with Deacon Isaac, Captain Yuri, Officer Ibuka and Officer Luke** — The people there are the most receptive and studious he has met; the NBC radio host took the truth on air knowing the cost; being shut out of the stage sent the brothers to the university, where the Lord had one sheep waiting who had been studying IUIC for years.
+- *[[12:15](https://www.youtube.com/watch?v=eNMvid6j-qk&t=735s)]* **Pictures from the trip to Papua New Guinea with Deacon Isaac, Captain Uri, Officer Ibuka and Officer Luke** — The people there are the most receptive and studious he has met; the NBC radio host took the truth on air knowing the cost; being shut out of the stage sent the brothers to the university, where the Lord had one sheep waiting who had been studying IUIC for years.
 
 ## Scriptures Opened
 

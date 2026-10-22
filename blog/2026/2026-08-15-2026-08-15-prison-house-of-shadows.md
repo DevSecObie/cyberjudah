@@ -25,7 +25,7 @@ Today's lesson is called Prison House of Shadows. Today is going to be an eye-re
 
 <div class="reading">
 
-Reading from a snapshot on the word prison in the Bible · read by Captain Yuri  *[[15:10](https://www.youtube.com/watch?v=maQroMAMqbw&t=910s)]*
+Reading from a snapshot on the word prison in the Bible · read by Captain Uri  *[[15:10](https://www.youtube.com/watch?v=maQroMAMqbw&t=910s)]*
 
 > In the Bible, the word prison is used both literally and figuratively. Literally, it refers to a place where people were held captive, such as Joseph, Jeremiah, John the Baptist, and Paul. Figuratively, it describes spiritual bondage, oppression or slavery, being under the dominion and control of another people or nation, being trapped by sin, fear, suffering, or disobedience.
 
@@ -91,7 +91,7 @@ Planet of the Apes.
 
 <div class="reading">
 
-Reading from a page on systemic racism, the results of slavery · read by Captain Yuri  *[[19:04](https://www.youtube.com/watch?v=maQroMAMqbw&t=1144s)]*
+Reading from a page on systemic racism, the results of slavery · read by Captain Uri  *[[19:04](https://www.youtube.com/watch?v=maQroMAMqbw&t=1144s)]*
 
 > Systemic racism.
 
@@ -285,7 +285,7 @@ Reading from a page on systemic racism, the results of slavery · read by Captai
 
 <div class="reading">
 
-Reading from *Time* magazine, *The many lives of H. Rap Brown* · read by Captain Yuri  *[[46:33](https://www.youtube.com/watch?v=maQroMAMqbw&t=2793s)]*
+Reading from *Time* magazine, *The many lives of H. Rap Brown* · read by Captain Uri  *[[46:33](https://www.youtube.com/watch?v=maQroMAMqbw&t=2793s)]*
 
 > The many lives of H. Rap Brown.
 >
@@ -297,7 +297,7 @@ Reading from *Time* magazine, *The many lives of H. Rap Brown* · read by Captai
 
 <div class="reading">
 
-Reading from the on-screen text of a report on H. Rap Brown's case · read by Captain Yuri  *[[49:57](https://www.youtube.com/watch?v=maQroMAMqbw&t=2997s)]*
+Reading from the on-screen text of a report on H. Rap Brown's case · read by Captain Uri  *[[49:57](https://www.youtube.com/watch?v=maQroMAMqbw&t=2997s)]*
 
 > This imprisoned Black Panther leader is seeking a retrial
 
@@ -587,7 +587,7 @@ Reading from a definition of offscouring  *[[1:01:10](https://www.youtube.com/wa
 
 <div class="reading">
 
-Reading from a post on the arrest of Heidi Beirich · read by Captain Yuri  *[[1:27:27](https://www.youtube.com/watch?v=maQroMAMqbw&t=5247s)]*
+Reading from a post on the arrest of Heidi Beirich · read by Captain Uri  *[[1:27:27](https://www.youtube.com/watch?v=maQroMAMqbw&t=5247s)]*
 
 > Holy crap. Heidi Beirich, the former CFO of the Southern Poverty Law Center, was arrested on fraud charges after sending secret payments to individuals inside quote unquote white supremacist groups.
 
@@ -599,7 +599,7 @@ Reading from a post on the arrest of Heidi Beirich · read by Captain Yuri  *[[1
 
 <div class="reading">
 
-Reading from an article, *Exclusive: Former employee at Southern Poverty Law Center arrested on fraud charges* · read by Captain Yuri  *[[1:28:55](https://www.youtube.com/watch?v=maQroMAMqbw&t=5335s)]*
+Reading from an article, *Exclusive: Former employee at Southern Poverty Law Center arrested on fraud charges* · read by Captain Uri  *[[1:28:55](https://www.youtube.com/watch?v=maQroMAMqbw&t=5335s)]*
 
 > Exclusive. Former employee at Southern Poverty Law Center arrested on fraud charges.
 
@@ -621,7 +621,7 @@ Reading from an article, *Exclusive: Former employee at Southern Poverty Law Cen
 
 <div class="reading">
 
-Reading from another article on her arrest · read by Captain Yuri  *[[1:31:39](https://www.youtube.com/watch?v=maQroMAMqbw&t=5499s)]*
+Reading from another article on her arrest · read by Captain Uri  *[[1:31:39](https://www.youtube.com/watch?v=maQroMAMqbw&t=5499s)]*
 
 > Despite her role in overseeing the payments, some of which were directed to an imperial wizard in the KKK,
 
@@ -637,7 +637,7 @@ Reading from another article on her arrest · read by Captain Yuri  *[[1:31:39](
 
 <div class="reading">
 
-Reading from an article on the informants the SPLC paid · read by Captain Yuri  *[[1:33:10](https://www.youtube.com/watch?v=maQroMAMqbw&t=5590s)]*
+Reading from an article on the informants the SPLC paid · read by Captain Uri  *[[1:33:10](https://www.youtube.com/watch?v=maQroMAMqbw&t=5590s)]*
 
 > Hooded, one-legged imperial wizard, true believer and cleaning lady who show no signs of reform.
 
@@ -681,7 +681,7 @@ Reading from a *New York Times* article  *[[1:37:07](https://www.youtube.com/wat
 
 <div class="reading">
 
-Reading from search results on what America sends to Jamaica and Trinidad · read by Captain Yuri  *[[1:42:44](https://www.youtube.com/watch?v=maQroMAMqbw&t=6164s)]*
+Reading from search results on what America sends to Jamaica and Trinidad · read by Captain Uri  *[[1:42:44](https://www.youtube.com/watch?v=maQroMAMqbw&t=6164s)]*
 
 > Jamaica receives roughly 85 million to $103 million annually in standard baseline official development assistance, ODA. But this total has temporarily surged due to a massive $6.7 billion international recovery package allocated over three years following the catastrophic impact of Hurricane Melissa.
 
@@ -729,7 +729,7 @@ Reading from search results on what America sends to Jamaica and Trinidad · rea
 
 <div class="reading">
 
-Reading from search results on the bombs the United States dropped · read by Captain Yuri  *[[1:49:29](https://www.youtube.com/watch?v=maQroMAMqbw&t=6569s)]*
+Reading from search results on the bombs the United States dropped · read by Captain Uri  *[[1:49:29](https://www.youtube.com/watch?v=maQroMAMqbw&t=6569s)]*
 
 > In 2016, during the final year of Barack Obama's presidency, the United States military dropped an estimated 26,171 bombs across seven different countries.
 
@@ -783,7 +783,7 @@ Reading from search results on the bombs the United States dropped · read by Ca
 
 <div class="reading">
 
-Reading from the on-screen text of a news video, *Starved of fuel, Cubans scramble to make ends meet* · read by Captain Yuri  *[[1:58:21](https://www.youtube.com/watch?v=maQroMAMqbw&t=7101s)]*
+Reading from the on-screen text of a news video, *Starved of fuel, Cubans scramble to make ends meet* · read by Captain Uri  *[[1:58:21](https://www.youtube.com/watch?v=maQroMAMqbw&t=7101s)]*
 
 > Starved of fuel, Cubans scrambled to make ends meet.
 
@@ -803,7 +803,7 @@ Reading from the on-screen text of a news video, *Starved of fuel, Cubans scramb
 
 <div class="reading">
 
-Reading from *The Guardian*, *The 19 black radicals who are still in prison after four decades* · read by Captain Yuri  *[[2:06:36](https://www.youtube.com/watch?v=maQroMAMqbw&t=7596s)]*
+Reading from *The Guardian*, *The 19 black radicals who are still in prison after four decades* · read by Captain Uri  *[[2:06:36](https://www.youtube.com/watch?v=maQroMAMqbw&t=7596s)]*
 
 > The 19 black radicals who are still in prison after four decades.
 

@@ -87,7 +87,7 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
 
 <div class="reading">
 
-Reading from an on-screen answer to "Who first called Christians Catholic?" · read by Captain Yuri  *[[24:52](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1492s)]*
+Reading from an on-screen answer to "Who first called Christians Catholic?" · read by Captain Uri  *[[24:52](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1492s)]*
 
 > Who first called Christians Catholic? Ignatius of Antioch. After the death of Christ, Christians were the ones who evangelized and spread the gospel. Ignatius of Antioch was the first to refer to them as Catholics.
 
@@ -99,7 +99,7 @@ Reading from an on-screen answer to "Who first called Christians Catholic?" · r
 
 <div class="reading">
 
-Reading from a Google result on the word Catholic and the Nicene Creed · read by Captain Yuri  *[[27:54](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1674s)]*
+Reading from a Google result on the word Catholic and the Nicene Creed · read by Captain Uri  *[[27:54](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1674s)]*
 
 > The word Catholic was added to the Nicene Creed at the First Council of Constantinople in 381 AD when the Creed was revised from its original form created at the First Council of Nicaea in 325 AD.
 
@@ -121,7 +121,7 @@ Reading from a Google result on the word Catholic and the Nicene Creed · read b
 
 <div class="reading">
 
-Reading from an on-screen answer on the Protestant Reformation · read by Captain Yuri  *[[30:59](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1859s)]*
+Reading from an on-screen answer on the Protestant Reformation · read by Captain Uri  *[[30:59](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1859s)]*
 
 > The Protestant Reformation began in 1517, when Martin Luther posted his 95 Theses. This act is widely considered the start of the movement, which challenged the authority and teachings of the Roman Catholic Church and led to the creation of new Protestant churches.
 
@@ -145,7 +145,7 @@ Reading from an on-screen answer on the Protestant Reformation · read by Captai
 
 <div class="reading">
 
-Reading from an on-screen list, "Man-made religions" · read by Captain Yuri  *[[33:03](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1983s)]*
+Reading from an on-screen list, "Man-made religions" · read by Captain Uri  *[[33:03](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1983s)]*
 
 > Man-made religions. Pope Nicholas V, father of the transatlantic slave trade. John Smith created the Baptist religion in 1608. Joseph Smith created the Mormon religion in 1830. Ellen G. White created the Seventh-day Adventist religion in 1863. Charles T. Russell created the Jehovah's Witness religion in 1872. Charles Parham created the Pentecostal religion in 1901.
 
@@ -157,7 +157,7 @@ Reading from an on-screen list, "Man-made religions" · read by Captain Yuri  *[
 
 <div class="reading">
 
-Reading from an on-screen answer to "Why is Pope called Vicar of Christ?" · read by Captain Yuri  *[[34:30](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2070s)]*
+Reading from an on-screen answer to "Why is Pope called Vicar of Christ?" · read by Captain Uri  *[[34:30](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2070s)]*
 
 > Why is Pope called Vicar of Christ? The term comes from the Latin word vicarious, meaning one who stands in place of another, like a steward, deputy or chief of staff. The idea isn't that the Pope replaces Jesus, but rather that he represents him. So, the Pope is the representative of Jesus Christ on Earth. The Pope is the one entrusted with the shepherding the Church on Earth in the name of Christ.
 
@@ -181,7 +181,7 @@ Reading from *The Critical Review or Annals of Literature*, by a Society of Gent
 
 <div class="reading">
 
-Reading from an on-screen chart, "Roman Catholic white supremacy" · read by Captain Yuri  *[[36:30](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2190s)]*
+Reading from an on-screen chart, "Roman Catholic white supremacy" · read by Captain Uri  *[[36:30](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2190s)]*
 
 > Roman Catholic white supremacy.
 
@@ -223,7 +223,7 @@ Reading from *The Rise of Christendom*, published 1890  *[[37:19](https://www.yo
 
 <div class="reading">
 
-Reading from *Human Zoos* · read by Captain Yuri  *[[39:54](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2394s)]*
+Reading from *Human Zoos* · read by Captain Uri  *[[39:54](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=2394s)]*
 
 > Jessie Tarbox Beals, Ota Benga, Louisiana Purchase Exposition, St. Louis photograph, 1904.
 >
@@ -435,7 +435,7 @@ Reading from *A History of the Jews from the Babylonian Exile to the Present* by
 
 <div class="reading">
 
-Reading from *Africa, Being an Accurate Description of the Regions of Egypt, Barbary, Libya, and Biledulgerid*, published 1670 · read by Captain Yuri  *[[1:02:01](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3721s)]*
+Reading from *Africa, Being an Accurate Description of the Regions of Egypt, Barbary, Libya, and Biledulgerid*, published 1670 · read by Captain Uri  *[[1:02:01](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3721s)]*
 
 > Africa. Many Jews also are scattered over this region.
 
@@ -481,7 +481,7 @@ Reading from *Africa, Being an Accurate Description of the Regions of Egypt, Bar
 
 <div class="reading">
 
-Reading from a Crusades timeline on fiveable.me · read by Captain Yuri  *[[1:04:48](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3888s)]*
+Reading from a Crusades timeline on fiveable.me · read by Captain Uri  *[[1:04:48](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=3888s)]*
 
 > Crusades timeline to know for religions of the West.
 
@@ -509,7 +509,7 @@ Reading from a Crusades timeline on fiveable.me · read by Captain Yuri  *[[1:04
 
 <div class="reading">
 
-Reading from *The Image of the Black in Western Art* · read by Captain Yuri  *[[1:07:37](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=4057s)]*
+Reading from *The Image of the Black in Western Art* · read by Captain Uri  *[[1:07:37](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=4057s)]*
 
 > The Image of the Black in Western Art.
 
@@ -854,7 +854,7 @@ Reading from a statement of the Cancillería de Cuba  *[[2:22:30](https://www.yo
 
 <div class="reading">
 
-Reading from *Encyclopedia of the Jewish Diaspora: Origins, Experiences, and Culture*, M. Avrum Ehrlich, editor, volume one · read by Captain Yuri  *[[2:38:45](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9525s)]*
+Reading from *Encyclopedia of the Jewish Diaspora: Origins, Experiences, and Culture*, M. Avrum Ehrlich, editor, volume one · read by Captain Uri  *[[2:38:45](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9525s)]*
 
 > To escape censorship and arrest by the non-Jewish authorities, rabbinic sages often referred to Rome euphemistically
 
@@ -1141,7 +1141,7 @@ Reading from a Google result on glossolalia  *[[3:10:15](https://www.youtube.com
 
 <div class="reading">
 
-Reading from *A Treatise on Physical Geography*, published 1850, page 318 · read by Captain Yuri  *[[3:16:15](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11775s)]*
+Reading from *A Treatise on Physical Geography*, published 1850, page 318 · read by Captain Uri  *[[3:16:15](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11775s)]*
 
 > The Hebrew was spoken by the people of that name to the Babylonius captivity, soon after which it became a dead language.
 

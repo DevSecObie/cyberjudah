@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 10"
 slug: "2026/2026-05-04-giving-the-sense-from-a-to-z-2-corinthians-10"
 date: "2026-05-04"
-teacher: "Captain Yuri"
+teacher: "Captain Uri"
 description: "Giving The Sense From A to Z · 2026-05-04"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "leadership"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-05-04 · Captain Yuri</p>
+<p class="taught">Giving The Sense From A to Z · 2026-05-04 · Captain Uri</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Cor 10](/bible/2-corinthians/10) · [Matt 11](/bible/matthew/11) · [1 Pet 2](/bible/1-peter/2) · [John 18](/bible/john/18) · [1 Cor 2](/bible/1-corinthians/2) · [Gal 4](/bible/galatians/4) · [2 Cor 12](/bible/2-corinthians/12) · [Ps 141](/bible/psalms/141) · [Gal 2](/bible/galatians/2) · [1 Tim 5](/bible/1-timothy/5) · [1 Cor 6](/bible/1-corinthians/6) · [1 Cor 3](/bible/1-corinthians/3) · [Heb 4](/bible/hebrews/4) · [Eph 6](/bible/ephesians/6) · [Jer 23](/bible/jeremiah/23) · <i>and 5 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership"]
 
 ## Introduction
 
-*[[3:20](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=200s)]* Shalom shalom Israel. Most high in Christ bless. I'm Captain Yuri. This is giving the sense from A to Z. All praise to the most high God. I'm still turned up. We blitzed the world. All praises to the most high. All right, so we're going to start with the scripture that we always start with, Nehemiah chapter 8 and verse 8.
+*[[3:20](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=200s)]* Shalom shalom Israel. Most high in Christ bless. I'm Captain Uri. This is giving the sense from A to Z. All praise to the most high God. I'm still turned up. We blitzed the world. All praises to the most high. All right, so we're going to start with the scripture that we always start with, Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 

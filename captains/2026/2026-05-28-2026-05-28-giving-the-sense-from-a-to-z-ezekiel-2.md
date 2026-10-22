@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Ezekiel 2"
 slug: "2026/2026-05-28-giving-the-sense-from-a-to-z-ezekiel-2"
 date: "2026-05-28"
-teacher: "Captain Yuri"
+teacher: "Captain Uri"
 description: "Giving The Sense From A to Z · 2026-05-28"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-05-28 · Captain Yuri</p>
+<p class="taught">Giving The Sense From A to Z · 2026-05-28 · Captain Uri</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Ezek 2](/bible/ezekiel/2) · [Ps 4](/bible/psalms/4) · [Wis 9](/bible/wisdom-of-solomon/9) · [Job 25](/bible/job/25) · [Ps 146](/bible/psalms/146) · [Isa 51](/bible/isaiah/51) · [Matt 8](/bible/matthew/8) · [1 Pet 1](/bible/1-peter/1) · [John 6](/bible/john/6) · [Ezek 36](/bible/ezekiel/36) · [Rev 11](/bible/revelation/11) · [Ezek 37](/bible/ezekiel/37) · [2 Kgs 21](/bible/2-kings/21) · [2 Kgs 23](/bible/2-kings/23) · [2 Chr 36](/bible/2-chronicles/36) · <i>and 13 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "faith"]
 
 ## Introduction
 
-*[[7:16](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=436s)]* Shalom, shalom. Most High and Christ bless. Most High and Christ bless. Welcome to another edition of 15 minutes with the captains. I'm Captain Yuri and today we are going to be going over Ezekiel chapter 2. We're going to start off with the scripture that we always start off with, Nehemiah chapter 8 and verse 8. Let's get ready to give the sense.
+*[[7:16](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=436s)]* Shalom, shalom. Most High and Christ bless. Most High and Christ bless. Welcome to another edition of 15 minutes with the captains. I'm Captain Uri and today we are going to be going over Ezekiel chapter 2. We're going to start off with the scripture that we always start off with, Nehemiah chapter 8 and verse 8. Let's get ready to give the sense.
 
 ## In The News
 

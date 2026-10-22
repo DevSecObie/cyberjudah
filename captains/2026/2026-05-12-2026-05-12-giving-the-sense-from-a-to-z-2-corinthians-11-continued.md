@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 11 Continued"
 slug: "2026/2026-05-12-giving-the-sense-from-a-to-z-2-corinthians-11-continued"
 date: "2026-05-12"
-teacher: "Captain Yuri"
+teacher: "Captain Uri"
 description: "Giving The Sense From A to Z · 2026-05-12"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-05-12 · Captain Yuri</p>
+<p class="taught">Giving The Sense From A to Z · 2026-05-12 · Captain Uri</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Cor 11](/bible/2-corinthians/11) · [Acts 18](/bible/acts/18) · [Acts 20](/bible/acts/20) · [1 Tim 3](/bible/1-timothy/3) · [2 Thess 3](/bible/2-thessalonians/3) · [Neh 5](/bible/nehemiah/5) · [2 Cor 12](/bible/2-corinthians/12) · [1 Thess 2](/bible/1-thessalonians/2) · [2 Cor 10](/bible/2-corinthians/10) · [1 Cor 9](/bible/1-corinthians/9) · [2 Pet 2](/bible/2-peter/2) · [Gal 1](/bible/galatians/1)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
 
 ## Introduction
 
-*[[3:56](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=236s)]* Most High in Christ bless everyone. Welcome back to another episode of Giving the Sense from A to Z. I am Captain Yuri and as we always do, we are going to start off with our title scripture. Nehemiah chapter 8 and verse 8. Lord willing, everyone is doing well. Yeah, let's get into it. So, we're going to pick up in 2 Corinthians chapter 11. We're going to rehash a little bit of what was brought out. Just a verse up. I believe it ended at verse 10. So, we're going to start at verse 9 just to continue the thought and then we're going to go into what Paul was talking about.
+*[[3:56](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=236s)]* Most High in Christ bless everyone. Welcome back to another episode of Giving the Sense from A to Z. I am Captain Uri and as we always do, we are going to start off with our title scripture. Nehemiah chapter 8 and verse 8. Lord willing, everyone is doing well. Yeah, let's get into it. So, we're going to pick up in 2 Corinthians chapter 11. We're going to rehash a little bit of what was brought out. Just a verse up. I believe it ended at verse 10. So, we're going to start at verse 9 just to continue the thought and then we're going to go into what Paul was talking about.
 
 ## Scriptures Opened
 
@@ -409,7 +409,7 @@ Reading from Definition of “chargeable” (source not named on air)  *[[16:52]
 
 ## In Closing
 
-*[[58:47](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=3527s)]* And we will touch on that, Lord's will, on the next giving of the sense. But all praise to the Most High. Lord's will, we glean something from today's class. And you know, it was great to have the opportunity to be able to teach God's people God's word. All right? So, we going to end it here. Most High in Christ bless. This has been giving the sense. I'm Captain Yuri. Shalom.
+*[[58:47](https://www.youtube.com/watch?v=xzLIo4tk3Zk&t=3527s)]* And we will touch on that, Lord's will, on the next giving of the sense. But all praise to the Most High. Lord's will, we glean something from today's class. And you know, it was great to have the opportunity to be able to teach God's people God's word. All right? So, we going to end it here. Most High in Christ bless. This has been giving the sense. I'm Captain Uri. Shalom.
 
 ---
 

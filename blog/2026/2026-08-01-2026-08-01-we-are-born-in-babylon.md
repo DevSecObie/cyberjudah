@@ -147,7 +147,7 @@ We are born in Babylon: that is today's lesson title. You know how this thing is
 
 <div class="reading">
 
-Reading from a text on Edom and the destruction of the first temple · read by Captain Yuri  *[[38:46](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2326s)]*
+Reading from a text on Edom and the destruction of the first temple · read by Captain Uri  *[[38:46](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2326s)]*
 
 > According to biblical text, Edom aided the Babylonian Empire during the destruction of the first temple in 586
 
@@ -189,7 +189,7 @@ Reading from a text on Edom and the destruction of the first temple · read by C
 
 <div class="reading">
 
-Reading from *Light and Truth, Collected from the Bible and Ancient and Modern History, Containing the Universal History of the Colored and the Indian Race, from the Creation of the World to the Present Time* by R. B. Lewis, a colored man, written in 1844 · read by Captain Yuri  *[[43:02](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2582s)]*
+Reading from *Light and Truth, Collected from the Bible and Ancient and Modern History, Containing the Universal History of the Colored and the Indian Race, from the Creation of the World to the Present Time* by R. B. Lewis, a colored man, written in 1844 · read by Captain Uri  *[[43:02](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2582s)]*
 
 > The word negro.
 >
@@ -237,7 +237,7 @@ Reading from *Light and Truth, Collected from the Bible and Ancient and Modern H
 
 <div class="reading">
 
-Reading from *The Story of Civilization: Caesar and Christ* by Will Durant · read by Captain Yuri  *[[48:20](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2900s)]*
+Reading from *The Story of Civilization: Caesar and Christ* by Will Durant · read by Captain Uri  *[[48:20](https://www.youtube.com/watch?v=FpEHxWGgai8&t=2900s)]*
 
 > The Latins gave the name Africa to the region around Carthage and Utica.
 
@@ -269,7 +269,7 @@ Reading from *The Story of Civilization: Caesar and Christ* by Will Durant · re
 
 <div class="reading">
 
-Reading from *Light and Truth* by R. B. Lewis · read by Captain Yuri  *[[50:36](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3036s)]*
+Reading from *Light and Truth* by R. B. Lewis · read by Captain Uri  *[[50:36](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3036s)]*
 
 > Moseroth was built by the Moors in the desert of Paran in the land of Amalek. It was the ancient encampment of Israel in the days of Moses.
 >
@@ -326,7 +326,7 @@ Reading from *Light and Truth* by R. B. Lewis · read by Captain Yuri  *[[50:36]
 
 <div class="reading">
 
-Reading from *Hearings before the Subcommittee on Constitutional Rights of the Committee on the Judiciary, United States Senate*, 1959, "American Negro Problems" · read by Captain Yuri  *[[1:00:16](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3616s)]*
+Reading from *Hearings before the Subcommittee on Constitutional Rights of the Committee on the Judiciary, United States Senate*, 1959, "American Negro Problems" · read by Captain Uri  *[[1:00:16](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3616s)]*
 
 > At the same time, the Negro question in the United States of America
 
@@ -359,7 +359,7 @@ Reading from *Hearings before the Subcommittee on Constitutional Rights of the C
 - The king spake unto Ashpenaz, the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes; children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science. That is what Deacon was talking about: Babylon did not take any old body. Esau did the same thing; they said, no, we need the best ones, and they put them in North America.
 <div class="reading">
 
-Reading from *Hearings before the Subcommittee on Constitutional Rights of the Committee on the Judiciary, United States Senate*, 1959, "American Negro Problems" · read by Captain Yuri  *[[1:04:38](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3878s)]*
+Reading from *Hearings before the Subcommittee on Constitutional Rights of the Committee on the Judiciary, United States Senate*, 1959, "American Negro Problems" · read by Captain Uri  *[[1:04:38](https://www.youtube.com/watch?v=FpEHxWGgai8&t=3878s)]*
 
 > Within the Negro population of the United States, the Negro working class is destined to be the vanguard of all liberation movements and may become the vanguard of the liberation movement of the Negro peasant masses on an international scale.
 
@@ -806,7 +806,7 @@ Reading from a text on the Persian king's bodyguards  *[[1:52:28](https://www.yo
 
 <div class="reading">
 
-Reading from a text on Herod's renovation of the second temple · read by Captain Yuri  *[[2:17:27](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8247s)]*
+Reading from a text on Herod's renovation of the second temple · read by Captain Uri  *[[2:17:27](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8247s)]*
 
 > King Herod the Great began a massive grand expansion and renovation of the second temple
 
@@ -840,7 +840,7 @@ Reading from a text on Herod's renovation of the second temple · read by Captai
 
 <div class="reading">
 
-Reading from *Who Is Esau-Edom?* by Charles A. Weisman · read by Captain Yuri  *[[2:20:40](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8440s)]*
+Reading from *Who Is Esau-Edom?* by Charles A. Weisman · read by Captain Uri  *[[2:20:40](https://www.youtube.com/watch?v=FpEHxWGgai8&t=8440s)]*
 
 > Herod was a shrewd and unscrupulous tyrant and was despised by the Judites
 
@@ -1028,7 +1028,7 @@ Reading from *The Temples That Jerusalem Forgot* by Ernest L. Martin  *[[2:29:02
 - Remember, Zerubbabel got to that position not just for his fighting skills; it said he was of noble character, understanding truth and moral discipline. We all should walk in the footsteps of Zerubbabel: not deceitful with one another, not envious, not hateful, not filled with guile.
 <div class="reading">
 
-Reading from a quote of Frederick Douglass · read by Captain Yuri  *[[2:41:31](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9691s)]*
+Reading from a quote of Frederick Douglass · read by Captain Uri  *[[2:41:31](https://www.youtube.com/watch?v=FpEHxWGgai8&t=9691s)]*
 
 > The famous quote by Frederick Douglass actually says, "It is easier to build strong children than to repair broken men."
 
@@ -1209,7 +1209,7 @@ Reading from a quote of Frederick Douglass · read by Captain Yuri  *[[2:41:31](
 
 <div class="reading">
 
-Reading from an article, "Connecting with Swingers of Color" · read by Captain Yuri  *[[3:10:13](https://www.youtube.com/watch?v=FpEHxWGgai8&t=11413s)]*
+Reading from an article, "Connecting with Swingers of Color" · read by Captain Uri  *[[3:10:13](https://www.youtube.com/watch?v=FpEHxWGgai8&t=11413s)]*
 
 > Connecting with swingers of color. More than a few black swingers have told us that they sometimes feel alone in a crowd of people
 

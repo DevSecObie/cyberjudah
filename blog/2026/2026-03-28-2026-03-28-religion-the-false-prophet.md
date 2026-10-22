@@ -245,7 +245,7 @@ Reading from a Bible dictionary, on Ham  *[[47:40](https://www.youtube.com/watch
 
 <div class="reading">
 
-Reading from a search on Kush in the Bible · read by Captain Yuri  *[[50:57](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3057s)]*
+Reading from a search on Kush in the Bible · read by Captain Uri  *[[50:57](https://www.youtube.com/watch?v=JLhHPemmiSk&t=3057s)]*
 
 > In the Bible, Kush (Hebrew, …) refers to a person, a specific geographic region and the people inhabiting that region. It is most commonly identified as the ancient land of Nubia, located south of Egypt, corresponding to modern-day Sudan and parts of Ethiopia.
 
@@ -372,7 +372,7 @@ Reading from a search on Kush in the Bible · read by Captain Yuri  *[[50:57](ht
 
 <div class="reading">
 
-Reading from a search on plans to colonize the moon · read by Captain Yuri  *[[1:15:46](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4546s)]*
+Reading from a search on plans to colonize the moon · read by Captain Uri  *[[1:15:46](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4546s)]*
 
 > Plans to colonize the moon. NASA and private companies like SpaceX are advancing plans for a permanent human presence on the moon, aiming for sustained exploration by the late 2020s through the Artemis program.
 
@@ -382,7 +382,7 @@ Reading from a search on plans to colonize the moon · read by Captain Yuri  *[[
 
 <div class="reading">
 
-Reading from an on-screen note on Mars · read by Captain Yuri  *[[1:18:00](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4680s)]*
+Reading from an on-screen note on Mars · read by Captain Uri  *[[1:18:00](https://www.youtube.com/watch?v=JLhHPemmiSk&t=4680s)]*
 
 > Mars, the red planet, is the fourth planet from the sun. Known for its reddish, rusty surface and cold desert-like conditions, though evidence suggests it once had liquid water in a thicker atmosphere.
 
@@ -644,7 +644,7 @@ Reading from a search on the Kaaba  *[[2:06:20](https://www.youtube.com/watch?v=
 
 <div class="reading">
 
-Reading from an Islamic ruling, "Basic Tenets of Faith" · read by Captain Yuri  *[[2:11:46](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7906s)]*
+Reading from an Islamic ruling, "Basic Tenets of Faith" · read by Captain Uri  *[[2:11:46](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7906s)]*
 
 > Basic tenets of faith. Summary of answer: Kissing the black stone is an act of worship,
 
@@ -656,7 +656,7 @@ Reading from an Islamic ruling, "Basic Tenets of Faith" · read by Captain Yuri 
 
 <div class="reading">
 
-Reading from a picture caption on Naima Jamal · read by Captain Yuri  *[[2:12:27](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7947s)]*
+Reading from a picture caption on Naima Jamal · read by Captain Uri  *[[2:12:27](https://www.youtube.com/watch?v=JLhHPemmiSk&t=7947s)]*
 
 > Picture of Naima Jamal.
 
@@ -682,7 +682,7 @@ Reading from an article on the EU and slavery in Libya  *[[2:15:08](https://www.
 
 <div class="reading">
 
-Reading from a page on what Arab countries are still selling slaves · read by Captain Yuri  *[[2:16:08](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8168s)]*
+Reading from a page on what Arab countries are still selling slaves · read by Captain Uri  *[[2:16:08](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8168s)]*
 
 > What Arab countries are still selling slaves? While traditional cattle slavery is officially illegal in every Arab country, modern slavery, which includes human trafficking, forced labor, and the selling of workers' contracts, remains a widespread issue. In some conflict-affected or unstable regions, reports of open slave auctions and the literal selling of human beings have emerged in recent years.
 >
@@ -753,7 +753,7 @@ Reading from *The Times of Israel*  *[[2:21:26](https://www.youtube.com/watch?v=
 
 <div class="reading">
 
-Reading from *The Jewish Onslaught: Dispatches from the Wellesley Battlefront* by Tony Martin, the cover and back cover · read by Captain Yuri  *[[2:24:36](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8676s)]*
+Reading from *The Jewish Onslaught: Dispatches from the Wellesley Battlefront* by Tony Martin, the cover and back cover · read by Captain Uri  *[[2:24:36](https://www.youtube.com/watch?v=JLhHPemmiSk&t=8676s)]*
 
 > Tony Martin. The Jewish Onslaught.
 
@@ -1007,7 +1007,7 @@ Reading from *The Rise of Christendom*, written in 1890 by Edwin Johnson  *[[2:4
 
 <div class="reading">
 
-Reading from an on-screen list of men worshiped as gods after their deaths · read by Captain Yuri  *[[2:57:00](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10620s)]*
+Reading from an on-screen list of men worshiped as gods after their deaths · read by Captain Uri  *[[2:57:00](https://www.youtube.com/watch?v=JLhHPemmiSk&t=10620s)]*
 
 > Nimrod: according to some interpretations, he is considered a figure who was worshiped after his death as a god, particularly in certain ancient Near Eastern cultures.
 >
@@ -1116,7 +1116,7 @@ Reading from a search on Abib  *[[3:06:33](https://www.youtube.com/watch?v=JLhHP
 
 <div class="reading">
 
-Reading from an on-screen chart of the days of the week · read by Captain Yuri  *[[3:10:34](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11434s)]*
+Reading from an on-screen chart of the days of the week · read by Captain Uri  *[[3:10:34](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11434s)]*
 
 > Sunday, sun. Monday, moon. Tuesday, Tiw, Mars. Wednesday, Woden, Mercury. Thursday, Thor, Jupiter. Friday, Freya, Venus. Saturday, Saturn, Saturn.
 
@@ -1124,7 +1124,7 @@ Reading from an on-screen chart of the days of the week · read by Captain Yuri 
 
 <div class="reading">
 
-Reading from an on-screen page, "Origin of Month Names" · read by Captain Yuri  *[[3:10:57](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11457s)]*
+Reading from an on-screen page, "Origin of Month Names" · read by Captain Uri  *[[3:10:57](https://www.youtube.com/watch?v=JLhHPemmiSk&t=11457s)]*
 
 > Origin of month names. Our lives run on Roman time. The names of our months are therefore derived from the Roman gods, leaders, festivals, and numbers.
 >
@@ -1229,7 +1229,7 @@ We are not to listen to the false prophet. What was done in the past is what is 
 
 ## Announcements & References
 
-- IUIC Atlanta: Captain Yuri was invited to a podcast interview with DJ Sturgis of V103, one of the major radio stations in Atlanta. The word went forth answering line upon line, precept upon precept: can two walk together, except they be agreed?
+- IUIC Atlanta: Captain Uri was invited to a podcast interview with DJ Sturgis of V103, one of the major radio stations in Atlanta. The word went forth answering line upon line, precept upon precept: can two walk together, except they be agreed?
 - IUIC Rochester blazed the airwaves with WUFO Power Radio 96.5 in Buffalo, New York, teaching on youth violence with Amos 3:1: a people robbed and spoiled, hid in prison houses. The host has extended an invitation to return.
 - IUIC Montgomery went out to the Jubilee Fest, commemorating Bloody Sunday in Selma, Alabama, over 60 years later, teaching our people who they are using that same history and connecting it back to the Bible.
 - IUIC Leach, Texas hosted a family fun day: the sisters went over recipes preparing for Passover, and the whole body came out to display unity to the community.

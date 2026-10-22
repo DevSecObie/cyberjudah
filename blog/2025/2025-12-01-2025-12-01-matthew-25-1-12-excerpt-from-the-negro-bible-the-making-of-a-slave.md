@@ -336,7 +336,7 @@ tags: ["IUIC in the ClassRoom", "the-law"]
 
 <div class="reading">
 
-Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930, p. 243 · read by Captain Yuri  *[[22:20](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1340s)]*
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930, p. 243 · read by Captain Uri  *[[22:20](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1340s)]*
 
 > The religion of Senegambia
 
@@ -360,7 +360,7 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 
 <div class="reading">
 
-Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[24:47](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1487s)]*
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Uri  *[[24:47](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1487s)]*
 
 > These Yoruba Jews claim that their ancestors were driven from oasis to oasis
 
@@ -382,7 +382,7 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 
 <div class="reading">
 
-Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[26:15](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1575s)]*
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Uri  *[[26:15](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1575s)]*
 
 > These facts have a peculiar significance when the presence of Judaism among American negroes is to be considered.
 
@@ -408,7 +408,7 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 
 <div class="reading">
 
-Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[28:20](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1700s)]*
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Uri  *[[28:20](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1700s)]*
 
 > Remnants of a far-travelled African Judaism are found in northern Nigeria, among the Hausa and Nupe on the east side of the lower … from 300 to 700 miles from the sea. The survivals are of the peculiar interest because they did not reach that region from Berber North Africa, nor through the contact of European Judaism with the west coast. They are due to the great expansion of the Nuba or Nubian Empire in Byzantine times.
 
@@ -432,7 +432,7 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 
 <div class="reading">
 
-Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[30:04](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1804s)]*
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Uri  *[[30:04](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1804s)]*
 
 > But the most striking survival of Judaism among the Hausa and Nupe is a powerful Levitical institution.
 
@@ -462,7 +462,7 @@ Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew Histo
 
 <div class="reading">
 
-Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Yuri  *[[32:51](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1971s)]*
+Reading from *The Lost Tribes a Myth: Suggestions Towards Rewriting Hebrew History* by Allen H. Godbey, written in 1930 · read by Captain Uri  *[[32:51](https://www.youtube.com/watch?v=8F_OivZ9pYg&t=1971s)]*
 
 > Thus Bishop Matthew claims an immemorial Jewish ancestry,
 

@@ -95,7 +95,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
 <div class="reading">
 
-Reading from *In the Pillory: Tale of the Borgia Pope* · read by Captain Yuri  *[[40:15](https://www.youtube.com/watch?v=e51lFpTuIds&t=2415s)]*
+Reading from *In the Pillory: Tale of the Borgia Pope* · read by Captain Uri  *[[40:15](https://www.youtube.com/watch?v=e51lFpTuIds&t=2415s)]*
 
 > Bust of the Savior posed for by Caesar Borgia.
 
@@ -109,7 +109,7 @@ Reading from *In the Pillory: Tale of the Borgia Pope* · read by Captain Yuri  
 
 <div class="reading">
 
-Reading from the Wikipedia article *Head of Christ* · read by Captain Yuri  *[[41:58](https://www.youtube.com/watch?v=e51lFpTuIds&t=2518s)]*
+Reading from the Wikipedia article *Head of Christ* · read by Captain Uri  *[[41:58](https://www.youtube.com/watch?v=e51lFpTuIds&t=2518s)]*
 
 > Head of Christ. This article is about Sallman's portrait.
 
@@ -150,7 +150,7 @@ Reading from the Wikipedia article *Head of Christ* · read by Captain Yuri  *[[
 
 <div class="reading">
 
-Reading from an article, "US sanctions on special reporter Francesca Albanese threatened human rights system: UN experts" · read by Captain Yuri  *[[54:00](https://www.youtube.com/watch?v=e51lFpTuIds&t=3240s)]*
+Reading from an article, "US sanctions on special reporter Francesca Albanese threatened human rights system: UN experts" · read by Captain Uri  *[[54:00](https://www.youtube.com/watch?v=e51lFpTuIds&t=3240s)]*
 
 > UN human rights experts today expressed their continued support for human rights principles and fundamental standards that underpin international human rights and humanitarian law and condemn the United States decision to impose sanctions on the UN special reporter on human rights in the occupied Palestinian territories, Francesca Albanese. They issued the following statement.
 
@@ -190,7 +190,7 @@ Reading from an article, "US sanctions on special reporter Francesca Albanese th
 
 <div class="reading">
 
-Reading from a Google search on Christian Zionism · read by Captain Yuri  *[[1:06:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=3982s)]*
+Reading from a Google search on Christian Zionism · read by Captain Uri  *[[1:06:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=3982s)]*
 
 > What is Christian Zionism? Christian Zionism is a belief that the modern state of Israel's establishment fulfills biblical prophecy, supporting the Jewish people's return to their ancient homeland
 
@@ -225,7 +225,7 @@ Reading from a Google search on Christian Zionism · read by Captain Yuri  *[[1:
 
 <div class="reading">
 
-Reading from *A History of the Jews* by Solomon Grayzel, published 1968 · read by Captain Yuri  *[[1:12:39](https://www.youtube.com/watch?v=e51lFpTuIds&t=4359s)]*
+Reading from *A History of the Jews* by Solomon Grayzel, published 1968 · read by Captain Uri  *[[1:12:39](https://www.youtube.com/watch?v=e51lFpTuIds&t=4359s)]*
 
 > The results of Paul's teachings. It is not what happened to Paul personally that is important, but rather what happened to Paul's teachings. Even while he lived, ample evidence proves that the people to whom he preached had misunderstood him. He had spoken in terms of high and noble idealism, of charity, of personal righteousness. He urged men to believe in Jesus firmly and, believing in so perfect an example of godly living, begin to lead a godly life themselves. Such righteous people could have no difficulty in meeting the awful day of God's judgment. They would surely survive it. And when the day of resurrection came, such people would surely be permitted to live again and forever. But most of the people who listened to Paul remembered only the connection between believing in Jesus and meriting God's mercy and ultimate resurrection.
 
@@ -251,7 +251,7 @@ Reading from *A History of the Jews* by Solomon Grayzel, published 1968 · read 
 
 <div class="reading">
 
-Reading from an on-screen caption on a video · read by Captain Yuri  *[[1:15:39](https://www.youtube.com/watch?v=e51lFpTuIds&t=4539s)]*
+Reading from an on-screen caption on a video · read by Captain Uri  *[[1:15:39](https://www.youtube.com/watch?v=e51lFpTuIds&t=4539s)]*
 
 > 100,000 Christians are being trained to be representatives in their own country for the state of Israel.
 
@@ -289,7 +289,7 @@ Reading from an on-screen caption on a video · read by Captain Yuri  *[[1:15:39
 
 <div class="reading">
 
-Reading from an on-screen definition of Idumea · read by Captain Yuri  *[[1:37:28](https://www.youtube.com/watch?v=e51lFpTuIds&t=5848s)]*
+Reading from an on-screen definition of Idumea · read by Captain Uri  *[[1:37:28](https://www.youtube.com/watch?v=e51lFpTuIds&t=5848s)]*
 
 > Idumea, pertaining to Edom.
 
@@ -334,7 +334,7 @@ Reading from *The Rise of Christendom*, written in 1890  *[[1:40:50](https://www
 
 <div class="reading">
 
-Reading from *A History of the Jewish People* by Max L. Margolis and Alexander Marx, written in 1956 · read by Captain Yuri  *[[1:44:46](https://www.youtube.com/watch?v=e51lFpTuIds&t=6286s)]*
+Reading from *A History of the Jewish People* by Max L. Margolis and Alexander Marx, written in 1956 · read by Captain Uri  *[[1:44:46](https://www.youtube.com/watch?v=e51lFpTuIds&t=6286s)]*
 
 > The voice of Torah and wisdom was hushed,
 
@@ -433,7 +433,7 @@ Reading from *The Destiny of America*, with an appendix, *Who Are the Japanese?*
 
 <div class="reading">
 
-Reading from a dictionary definition of *idle*, looked up in class · read by Captain Yuri  *[[1:56:00](https://www.youtube.com/watch?v=e51lFpTuIds&t=6960s)]*
+Reading from a dictionary definition of *idle*, looked up in class · read by Captain Uri  *[[1:56:00](https://www.youtube.com/watch?v=e51lFpTuIds&t=6960s)]*
 
 > Idle: of a person, avoiding work. Lazy, indolent, slothful.
 >
@@ -507,7 +507,7 @@ Reading from a Google search on the Euphrates River drying up  *[[2:06:48](https
 
 <div class="reading">
 
-Reading from an on-screen explainer on the BRICS Bridge · read by Captain Yuri  *[[2:11:01](https://www.youtube.com/watch?v=e51lFpTuIds&t=7861s)]*
+Reading from an on-screen explainer on the BRICS Bridge · read by Captain Uri  *[[2:11:01](https://www.youtube.com/watch?v=e51lFpTuIds&t=7861s)]*
 
 > The BRICS Bridge is a proposed digital payment platform and financial messaging system being developed by BRICS nations, Brazil, Russia, India, China, South Africa and expanded members, as an alternative to Western-dominated systems like SWIFT,
 
@@ -527,7 +527,7 @@ Reading from an on-screen explainer on the BRICS Bridge · read by Captain Yuri 
 
 <div class="reading">
 
-Reading from the title of a video on the BRICS Bridge · read by Captain Yuri  *[[2:13:06](https://www.youtube.com/watch?v=e51lFpTuIds&t=7986s)]*
+Reading from the title of a video on the BRICS Bridge · read by Captain Uri  *[[2:13:06](https://www.youtube.com/watch?v=e51lFpTuIds&t=7986s)]*
 
 > The financial war is over. What they're not telling you about BRICS Bridge.
 
@@ -564,7 +564,7 @@ Reading from the title of a video on the BRICS Bridge · read by Captain Yuri  *
 
 <div class="reading">
 
-Reading from an article from Al Jazeera, then a headline on Maduro · read by Captain Yuri  *[[2:31:46](https://www.youtube.com/watch?v=e51lFpTuIds&t=9106s)]*
+Reading from an article from Al Jazeera, then a headline on Maduro · read by Captain Uri  *[[2:31:46](https://www.youtube.com/watch?v=e51lFpTuIds&t=9106s)]*
 
 > US air strikes won't fix Nigeria's security crisis, but could make it worse.
 
@@ -597,7 +597,7 @@ Reading from an article from Al Jazeera, then a headline on Maduro · read by Ca
 
 <div class="reading">
 
-Reading from an on-screen list of man-made religions · read by Captain Yuri  *[[2:40:36](https://www.youtube.com/watch?v=e51lFpTuIds&t=9636s)]*
+Reading from an on-screen list of man-made religions · read by Captain Uri  *[[2:40:36](https://www.youtube.com/watch?v=e51lFpTuIds&t=9636s)]*
 
 > Man-made religions.
 >
@@ -628,7 +628,7 @@ Reading from an on-screen list of man-made religions · read by Captain Yuri  *[
 
 <div class="reading">
 
-Reading from an on-screen search result on Havana syndrome · read by Captain Yuri  *[[2:45:18](https://www.youtube.com/watch?v=e51lFpTuIds&t=9918s)]*
+Reading from an on-screen search result on Havana syndrome · read by Captain Uri  *[[2:45:18](https://www.youtube.com/watch?v=e51lFpTuIds&t=9918s)]*
 
 > The reports of embassy members experiencing bloody noses are connected to Havana syndrome, formerly known as anomalous health incidents, a mysterious illness first reported by US diplomats in Havana, Cuba, in late 2016.
 

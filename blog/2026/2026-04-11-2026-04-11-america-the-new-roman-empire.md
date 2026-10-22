@@ -35,7 +35,7 @@ Thumbnail video: a mock news bulletin. The US, Israel and Iran have come to an a
 
 <div class="reading">
 
-Reading from *The Story of Civilization: Caesar and Christ* by Will Durant, page 566 · read by Captain Yuri  *[[23:08](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1388s)]*
+Reading from *The Story of Civilization: Caesar and Christ* by Will Durant, page 566 · read by Captain Uri  *[[23:08](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1388s)]*
 
 > The revolution he sought was a far deeper one, without which reforms could only be superficial and transitory. If he could cleanse the human heart of selfish desire, cruelty and lust, utopia would come of itself. And all those institutions that rise out of human greed and violent and the consequent need for law would disappear.
 
@@ -139,7 +139,7 @@ Reading from an on-screen title  *[[31:37](https://www.youtube.com/watch?v=ZnReL
 
 <div class="reading">
 
-Reading from an on-screen note on Julius Caesar · read by Captain Yuri  *[[32:55](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1975s)]*
+Reading from an on-screen note on Julius Caesar · read by Captain Uri  *[[32:55](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=1975s)]*
 
 > Julius Caesar, circa 100 BC to 44 BC. Reigned 49 BC to 44 BC. Dictator of the Roman Republic among history's greatest military commanders.
 
@@ -177,7 +177,7 @@ Reading from *Dr. William Smith's Dictionary of the Bible*, written in 1896, on 
 
 <div class="reading">
 
-Reading from an on-screen note on Augustus · read by Captain Yuri  *[[36:42](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2202s)]*
+Reading from an on-screen note on Augustus · read by Captain Uri  *[[36:42](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2202s)]*
 
 > Augustus, born 63 BC, died 14 AD, reigned 27 BC to 14 AD.
 
@@ -193,7 +193,7 @@ Reading from an on-screen note on Augustus · read by Captain Yuri  *[[36:42](ht
 
 <div class="reading">
 
-Reading from an on-screen note on Tiberius · read by Captain Yuri  *[[38:08](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2288s)]*
+Reading from an on-screen note on Tiberius · read by Captain Uri  *[[38:08](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2288s)]*
 
 > Tiberius, born 42 BC, died 37 AD, reigned 14 AD to 37 AD. Stepson of Augustus. Reclusive yet effective military general.
 
@@ -236,7 +236,7 @@ Reading from on-screen notes on Tiberius in the book of Acts  *[[40:11](https://
 
 <div class="reading">
 
-Reading from on-screen notes on Tiberius in the book of Acts · read by Captain Yuri  *[[41:22](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2482s)]*
+Reading from on-screen notes on Tiberius in the book of Acts · read by Captain Uri  *[[41:22](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2482s)]*
 
 > Acts timeline. While not named explicitly in Acts, only in Luke chapter 3:1, Tiberius was the reigning Caesar from Acts 1 until his death in AD 37, which likely occurs around the time of the events in Acts chapter 9 or 10.
 
@@ -246,7 +246,7 @@ Reading from on-screen notes on Tiberius in the book of Acts · read by Captain 
 
 <div class="reading">
 
-Reading from on-screen notes on Caligula · read by Captain Yuri  *[[42:13](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2533s)]*
+Reading from on-screen notes on Caligula · read by Captain Uri  *[[42:13](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2533s)]*
 
 > Caligula, born 12 AD, died 41 AD.
 
@@ -300,7 +300,7 @@ Reading from on-screen notes on Claudius  *[[44:16](https://www.youtube.com/watc
 
 <div class="reading">
 
-Reading from on-screen notes on Claudius · read by Captain Yuri  *[[46:15](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2775s)]*
+Reading from on-screen notes on Claudius · read by Captain Uri  *[[46:15](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2775s)]*
 
 > Acts 18:2 records that Paul met Aquila and Priscilla, who had recently left Italy because Claudius had commanded all the Jews to depart from Rome. Historically dated around AD 49 to 50.
 
@@ -310,7 +310,7 @@ Reading from on-screen notes on Claudius · read by Captain Yuri  *[[46:15](http
 
 <div class="reading">
 
-Reading from on-screen notes on Nero · read by Captain Yuri  *[[46:40](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2800s)]*
+Reading from on-screen notes on Nero · read by Captain Uri  *[[46:40](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2800s)]*
 
 > Nero, born 37 AD, death 68 AD.
 
@@ -346,7 +346,7 @@ Reading from on-screen notes on Nero · read by Captain Yuri  *[[46:40](https://
 
 <div class="reading">
 
-Reading from on-screen notes on Nero · read by Captain Yuri  *[[49:38](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2978s)]*
+Reading from on-screen notes on Nero · read by Captain Uri  *[[49:38](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=2978s)]*
 
 > Context. Nero was emperor when Paul was in prison in Rome, Acts chapter 28 verse 30, and is believed to have been reigning.
 
@@ -360,7 +360,7 @@ Reading from on-screen notes on Nero · read by Captain Yuri  *[[49:38](https://
 
 <div class="reading">
 
-Reading from on-screen notes on the Caesars from Galba to Titus, and on the Colosseum · read by Captain Yuri  *[[50:24](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3024s)]*
+Reading from on-screen notes on the Caesars from Galba to Titus, and on the Colosseum · read by Captain Uri  *[[50:24](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3024s)]*
 
 > Galba, born 3 BC.
 
@@ -414,7 +414,7 @@ Reading from on-screen notes on the Caesars from Galba to Titus, and on the Colo
 
 <div class="reading">
 
-Reading from *The New Testament World in Pictures* by William H. Stephens, including pages 56 and 29 · read by Captain Yuri  *[[54:21](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3261s)]*
+Reading from *The New Testament World in Pictures* by William H. Stephens, including pages 56 and 29 · read by Captain Uri  *[[54:21](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3261s)]*
 
 > When Vespasian went to Rome to claim the emperorship, he left Titus in charge of the war in Judaea. Titus began his siege of Jerusalem in May AD 70. The city fell 4 months later. Jerusalem was leveled and the temple destroyed in the process.
 
@@ -478,7 +478,7 @@ Reading from *The New Testament World in Pictures* by William H. Stephens  *[[58
 
 <div class="reading">
 
-Reading from an on-screen note on Domitian · read by Captain Yuri  *[[60:20](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3620s)]*
+Reading from an on-screen note on Domitian · read by Captain Uri  *[[60:20](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3620s)]*
 
 > Domitian. Born 51 AD. Death 96 AD. Reign 81 AD to 96 AD. Rebuilt the economy and restored Rome. Known as totalitarian who ruled for 15 years.
 
@@ -509,7 +509,7 @@ Reading from on-screen notes on the emperors after Domitian  *[[61:04](https://w
 
 <div class="reading">
 
-Reading from a book, on Septimius Severus · read by Captain Yuri  *[[63:43](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3823s)]*
+Reading from a book, on Septimius Severus · read by Captain Uri  *[[63:43](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=3823s)]*
 
 > Septimius Severus
 
@@ -632,7 +632,7 @@ Reading from on-screen notes on Pertinax and Didius Julianus  *[[71:26](https://
 
 <div class="reading">
 
-Reading from an on-screen list of the seven heads and ten horns · read by Captain Yuri  *[[76:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4590s)]*
+Reading from an on-screen list of the seven heads and ten horns · read by Captain Uri  *[[76:30](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=4590s)]*
 
 > Seven heads: Greece, Rome, Spain, France, Germany, Russia, Great Britain.
 
@@ -693,7 +693,7 @@ Reading from the words on the dollar bill  *[[81:19](https://www.youtube.com/wat
 
 <div class="reading">
 
-Reading from on-screen notes on the Roman Republic · read by Captain Yuri  *[[89:53](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5393s)]*
+Reading from on-screen notes on the Roman Republic · read by Captain Uri  *[[89:53](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5393s)]*
 
 > The Roman Republic began in 509 BC
 
@@ -737,7 +737,7 @@ Reading from on-screen notes on the Roman Republic · read by Captain Yuri  *[[8
 
 <div class="reading">
 
-Reading from on-screen notes on US regime change in Iran · read by Captain Yuri  *[[92:58](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5578s)]*
+Reading from on-screen notes on US regime change in Iran · read by Captain Uri  *[[92:58](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5578s)]*
 
 > United States involvement in regime change.
 
@@ -767,7 +767,7 @@ Reading from on-screen notes on US regime change in Iran · read by Captain Yuri
 
 <div class="reading">
 
-Reading from *The Guardian* · read by Captain Yuri  *[[94:33](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5673s)]*
+Reading from *The Guardian* · read by Captain Uri  *[[94:33](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=5673s)]*
 
 > CIA admits 1953 Iranian coup it backed was undemocratic.
 
@@ -902,7 +902,7 @@ Reading from on-screen notes on Haiti  *[[114:38](https://www.youtube.com/watch?
 
 <div class="reading">
 
-Reading from an on-screen list of heads of state captured by the US · read by Captain Yuri  *[[116:06](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=6966s)]*
+Reading from an on-screen list of heads of state captured by the US · read by Captain Uri  *[[116:06](https://www.youtube.com/watch?v=ZnReLwFHcS8&t=6966s)]*
 
 > Heads of state captured by the US. 2026, Nicolas Maduro, Venezuela. 2003, Saddam Hussein, Iraq.
 

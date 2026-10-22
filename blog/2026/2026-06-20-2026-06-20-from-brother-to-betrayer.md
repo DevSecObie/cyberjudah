@@ -19,7 +19,7 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
 
 Opening reading at the trumpets: Job 16:1-17. Miserable comforters are ye all; God hath delivered me to the ungodly, and turned me over into the hands of the wicked.
 
-Bishop teaching, with Captain Yuri reading. Sisters, brothers, how y'all doing this Sabbath day? Well, I'm mad. Emotionally mad. Ecclesiastes 7:7: surely oppression maketh a wise man mad. I don't like what they did with that brother Cyrus, and I don't like what they did with brother Carmelo. That is some evil stuff going on. I've been mad all week. If you aren't mad, something is wrong with you.
+Bishop teaching, with Captain Uri reading. Sisters, brothers, how y'all doing this Sabbath day? Well, I'm mad. Emotionally mad. Ecclesiastes 7:7: surely oppression maketh a wise man mad. I don't like what they did with that brother Cyrus, and I don't like what they did with brother Carmelo. That is some evil stuff going on. I've been mad all week. If you aren't mad, something is wrong with you.
 
 Jamal Bryant is doing the protest for brother Cyrus, and that's fine. But what good is the protest when you are going to celebrate July 4th, Christmas, Easter, and Thanksgiving? The protest is null and void; nobody is going to take you seriously. We truly got to come out from among them and be separate like the scriptures say. And that is what our people don't want to do.
 
@@ -117,7 +117,7 @@ Reading from the cover of *Who's Who in the Bible*  *[[16:29](https://www.youtub
 
 <div class="reading">
 
-Reading from an on-screen search on the role of the governor of the temple in Jerusalem · read by Captain Yuri  *[[24:52](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1492s)]*
+Reading from an on-screen search on the role of the governor of the temple in Jerusalem · read by Captain Uri  *[[24:52](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1492s)]*
 
 > Number one, management of temple resources. The governor would oversee the financial resources of the temple, ensuring that offerings and donations were properly accounted for and used for their intended purposes.
 >
@@ -137,7 +137,7 @@ Reading from an on-screen search on the role of the governor of the temple in Je
 
 <div class="reading">
 
-Reading from an on-screen note on what the temple collections were for · read by Captain Yuri  *[[29:39](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1779s)]*
+Reading from an on-screen note on what the temple collections were for · read by Captain Uri  *[[29:39](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1779s)]*
 
 > Specific purposes for these collections included sustenance for the Levites,
 
@@ -588,7 +588,7 @@ Reading from an on-screen saying  *[[1:07:55](https://www.youtube.com/watch?v=Qw
 
 <div class="reading">
 
-Reading from an on-screen web page shown with the map of Daphne · read by Captain Yuri  *[[1:55:14](https://www.youtube.com/watch?v=Qw2v07pohR4&t=6914s)]*
+Reading from an on-screen web page shown with the map of Daphne · read by Captain Uri  *[[1:55:14](https://www.youtube.com/watch?v=Qw2v07pohR4&t=6914s)]*
 
 > This page deals with monuments and sites which are located in the north northeastern corner of the Mediterranean Sea. It belong to the historical regions of Cilicia, today …, and Syria, as shown in the maps here below. Part two is dedicated to Roman floor mosaic.
 
@@ -707,7 +707,7 @@ Reading from an on-screen definition of Lacedonia  *[[2:11:16](https://www.youtu
 
 <div class="reading">
 
-Reading from an on-screen list of the ten commandments · read by Captain Yuri  *[[2:23:20](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8600s)]*
+Reading from an on-screen list of the ten commandments · read by Captain Uri  *[[2:23:20](https://www.youtube.com/watch?v=Qw2v07pohR4&t=8600s)]*
 
 > Number one, thou shalt have no other gods before me. Number two, thou shalt not make unto thee any graven image. Number three, thou shalt not take the name of the Lord thy God in vain. Number four, remember the Sabbath day to keep it holy.
 

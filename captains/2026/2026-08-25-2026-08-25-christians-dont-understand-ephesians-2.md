@@ -2,7 +2,7 @@
 title: "Christians Don't Understand Ephesians 2"
 slug: "2026/2026-08-25-christians-dont-understand-ephesians-2"
 date: "2026-08-25"
-teacher: "Captain Yuri"
+teacher: "Captain Uri"
 description: "15 Minutes w/ The Captains · 2026-08-25"
 tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "purpose", "the-law"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "purpose", "the
 
 ## Introduction
 
-Shalom, shalom Israel. Most High in Christ bless. Welcome to another edition of 15 Minutes with the Captains. I am Captain Yuri.
+Shalom, shalom Israel. Most High in Christ bless. Welcome to another edition of 15 Minutes with the Captains. I am Captain Uri.
 
 **Today we are going to touch on understanding Ephesians 2 verse 11 on down.**
 

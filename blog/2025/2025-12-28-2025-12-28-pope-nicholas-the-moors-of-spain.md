@@ -72,7 +72,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts"]
 
 <div class="reading">
 
-Reading from *The Ten Caesars: Roman Emperors from Augustus to Constantine* by Barry Strauss, page 237 · read by Captain Yuri  *[[37:28](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2248s)]*
+Reading from *The Ten Caesars: Roman Emperors from Augustus to Constantine* by Barry Strauss, page 237 · read by Captain Uri  *[[37:28](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2248s)]*
 
 > Ultimately, Rome had a new ruler, Septimius Severus. His rule was a paradox. The man was egotistical, rude and crude, but also shrewd and fluent.
 
@@ -93,7 +93,7 @@ Reading from *The Ten Caesars: Roman Emperors from Augustus to Constantine* by B
 
 <div class="reading">
 
-Reading from *Light and Truth*, collected from the Bible and ancient and modern history, containing the universal history of the colored and the Indian race, from the creation of the world to the present time, by Robert Benjamin Lewis, page 339 · read by Captain Yuri  *[[40:31](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2431s)]*
+Reading from *Light and Truth*, collected from the Bible and ancient and modern history, containing the universal history of the colored and the Indian race, from the creation of the world to the present time, by Robert Benjamin Lewis, page 339 · read by Captain Uri  *[[40:31](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2431s)]*
 
 > The word negro. Negro is derived from the Latin term … meaning black.
 
@@ -131,7 +131,7 @@ Reading from *Light and Truth*, collected from the Bible and ancient and modern 
 
 <div class="reading">
 
-Reading from *Light and Truth*, collected from the Bible and ancient and modern history, containing the universal history of the colored and the Indian race, from the creation of the world to the present time, by Robert Benjamin Lewis, the next page · read by Captain Yuri  *[[44:23](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2663s)]*
+Reading from *Light and Truth*, collected from the Bible and ancient and modern history, containing the universal history of the colored and the Indian race, from the creation of the world to the present time, by Robert Benjamin Lewis, the next page · read by Captain Uri  *[[44:23](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2663s)]*
 
 > Mazaroth was built by the Moors in the desert of Paran in the land of Amalek, and was the ancient encampment of Israel in the days of Moses. In the Moorish war of Adal in Africa, some of the books of Moses were burnt.
 
@@ -172,7 +172,7 @@ Reading from *Light and Truth*, collected from the Bible and ancient and modern 
 
 <div class="reading">
 
-Reading from the Wikipedia article *Battle of Guadalete*, and its link to *Berbers* · read by Captain Yuri  *[[47:41](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2861s)]*
+Reading from the Wikipedia article *Battle of Guadalete*, and its link to *Berbers* · read by Captain Uri  *[[47:41](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=2861s)]*
 
 > Battle of Guadalete. Guadalete was the first major battle of the Muslim conquest of the Iberian Peninsula,
 
@@ -266,7 +266,7 @@ Reading from *The Modern Part of an Universal History, from the Earliest Account
 
 <div class="reading">
 
-Reading from a Google search, "When did the Dark Ages end?" · read by Captain Yuri  *[[1:02:49](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3769s)]*
+Reading from a Google search, "When did the Dark Ages end?" · read by Captain Uri  *[[1:02:49](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3769s)]*
 
 > The Dark Ages, Early Middle Ages, ended gradually, but key markers for the close of the broader medieval period include the fall of Constantinople to the Ottomans in 1453,
 
@@ -289,7 +289,7 @@ Reading from a Google search, "When did the Dark Ages end?" · read by Captain Y
 
 <div class="reading">
 
-Reading from *The Critical Review, or Annals of Literature*, written in 1783 · read by Captain Yuri  *[[1:08:22](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4102s)]*
+Reading from *The Critical Review, or Annals of Literature*, written in 1783 · read by Captain Uri  *[[1:08:22](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4102s)]*
 
 > Pope Nicholas V, in that famous bull by which he granted the unknown world to the Portuguese and Spaniards,
 
@@ -344,7 +344,7 @@ Reading from *The Critical Review, or Annals of Literature*, written in 1783 · 
 
 <div class="reading">
 
-Reading from *The Jews and Moors in Spain* by Rabbi Joseph Krauskopf, page 100 · read by Captain Yuri  *[[1:12:10](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4330s)]*
+Reading from *The Jews and Moors in Spain* by Rabbi Joseph Krauskopf, page 100 · read by Captain Uri  *[[1:12:10](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4330s)]*
 
 > Nearly 150,000 souls made their way by land to Portugal,
 
@@ -459,7 +459,7 @@ Reading from *The Jews and Moors in Spain* by Rabbi Joseph Krauskopf, page 100 �
 
 <div class="reading">
 
-Reading from *The Image of the Black in Western Art* · read by Captain Yuri  *[[1:21:58](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4918s)]*
+Reading from *The Image of the Black in Western Art* · read by Captain Uri  *[[1:21:58](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4918s)]*
 
 > Adrian Sanchez Gauca, Francisco de Arobe with his sons Pedro and Domingo, Ecuador, 1599.
 
