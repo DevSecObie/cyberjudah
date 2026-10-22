@@ -34,3 +34,8 @@ Notes for the shows with the fewest recordings left to write up, each filed unde
 
 - The Natives Hour, IUIC Denver: State of Emergency at the Pine Ridge Reservation (2023-12-06), Native Americans Were Slaves Too, Pt. 2, Continued (2023-12-13) and Ecuador: From Slavery to Hostages (2024-03-10). The host's name isn't clear in the captions, so the teacher is left empty. Two recordings have no note (see the PR), and the Ecuador note leaves out its first segment.
 - Secrets of History, The Two Promised Lands, chapters 5 to 9 (2020-09-27 to 2020-10-25), on the Our Hidden History radio show, hosted by the deacon (named only as "the deacon" in the captions) with Captain Joel and officers. Every transcribed chapter now has a note.
+
+## Show notes, batch 6
+
+- Oak 93.5 Radio: Unity (2025-05-05), hosted by Officer Nahum with Officer Abraham. It is the show's only full episode; the other seven recordings are shorts, so they have no notes.
+- Contradict This, the captains' 2020 series answering so-called Bible contradictions: Did Abraham Have Incest With His Sister? (2020-07-08), Does God Tempt Us to Sin (2020-07-11), Has Anybody Seen God and Lived (2020-07-17), Circumcision: Confusion or Contradiction? (2020-07-22), The Fighting Men of Israel (2020-07-31), Centurion Contradiction (2020-08-06), The Permanence of Earth (2020-10-19) and The Resurrection of the Dead (2020-11-11). Captain Hoshayah teaches four and Captain Isaac one; the other three don't name the teacher, so it is left empty. All eight recordings now have notes.
