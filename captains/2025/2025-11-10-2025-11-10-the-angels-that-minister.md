@@ -2,7 +2,7 @@
 title: "The Angels That Minister"
 slug: "2025/2025-11-10-the-angels-that-minister"
 date: "2025-11-10"
-teacher: ""
+teacher: "Captain Banqanayah"
 description: "15 Minutes w/ The Captains · 2025-11-10"
 tags: ["15 Minutes w/ The Captains", "justice"]
 ---

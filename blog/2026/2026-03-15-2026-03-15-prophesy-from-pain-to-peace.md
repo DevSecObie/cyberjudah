@@ -805,7 +805,7 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
 ## Announcements & References
 
-- The Naples, Italy diaspora mission led by Captain Yadin, Captain Gadaliah, and Officer Jezreel; support the booster club to send the prophets abroad.
+- The Naples, Italy diaspora mission led by Captain Yadon, Captain Gadaliah, and Officer Jezreel; support the booster club to send the prophets abroad.
 - IUIC headquarters brought the word to the New York State Black and Hispanic Caucus in Albany.
 - IUIC Toronto held another Friends and Family Day; Toronto, Brampton, and Mississauga, reach out.
 - Next new moon April 2, 2026. Passover April 16 at sundown; cleanse out the old leaven. Fast day March 27, 2026.
