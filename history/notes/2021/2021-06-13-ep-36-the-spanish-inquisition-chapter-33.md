@@ -202,7 +202,7 @@ Reading from *Clean Aztecs, Dirty Spaniards*, continued · read by an officer  *
 
 - So they didn't have like a traditional bar of soap. They used like, like roots, a plant, and it was soaked, like a soap.
 
-- **Officer:** You know the funny thing, Dick, and, and, and... yeah, Captain's not here, or prisoners. Hey Cat, we love you, man. I miss you, Cat. Yeah, like in Haiti, you know, toothpaste, like my grandmother, there's a, a plate that, the plate produce beans, we use the beets and the leaves, you could use the leaves to use to brush our teeth.
+- **Officer:** You know the funny thing, Deac, and, and, and... yeah, Captain's not here, or prisoners. Hey Cat, we love you, man. I miss you, Cat. Yeah, like in Haiti, you know, toothpaste, like my grandmother, there's a, a plate that, the plate produce beans, we use the beets and the leaves, you could use the leaves to use to brush our teeth.
 
 - **Deacon Eythan:** Right. I heard about that. Yeah. Oh wow. Okay.
 
@@ -220,7 +220,7 @@ Reading from *Clean Aztecs, Dirty Spaniards*, continued · read by an officer  *
 
 > <sup>[22](/bible/jeremiah/2#v22)</sup> For though thou wash thee with nitre, and take thee much soap, yet thine iniquity is marked before me, saith the Lord God.
 
-- So we had neaten. Oh, let's go, one second, hold on one second. Yeah, it's good. Neither. You say Nietzsche; it's neater. That's right, it's neater. Nader. Neither is potassium nitrate. Let me go down. Meter is potassium nitrate, the main ingredient of that. That's something different. The hell is this? Hold on a second. One second. Yeah, one second. Yeah, yeah, D, that's right, that's right. Right. Neater is, they changed it. It means soda. It could margin soda, nectron.
+- So we had neaten. Oh, let's go, one second, hold on one second. Yeah, it's good. Neither. You say Nietzsche; it's neater. That's right, it's neater. Nader. Neither is potassium nitrate. Let me go down. Meter is potassium nitrate, the main ingredient of that. That's something different. The hell is this? Hold on a second. One second. Yeah, one second. Yeah, yeah, Deac, that's right, that's right. Right. Neater is, they changed it. It means soda. It could margin soda, nectron.
 
 - So yeah, potassium, potassium nitrate or sodium nitrate. Yeah, that was usually used at the wash. A variant of meter, potassium nitrate, using gunpowders, fertilizers, preservatives, of saltpeter, meter. But it's also used, we also use it also for soap, a way to, for soap as well. The crystalline compound. So we, yeah, we have forms of soap. This is an element used for soap. Read again. I'm sorry, I don't, I'm trying to complicate, complicate things, but it's basically a form of sweet again.
 
@@ -424,7 +424,7 @@ Reading from *Clean Aztecs, Dirty Spaniards*, continued · read by an officer  *
 
 - **Deacon Eythan:** Yeah.
 
-- **Officer:** So it's heavy, man. They couldn't drink the water right here, put that tree in there. And also, Dick, if you could get, let's get General... Jeremiah 17 and 4. Because remember, all these knowledge, the Most I gave it to us. We knew how to take care of ourselves without dis, disturbing creation. I mean, without destroying the earth. So Esau came in and destroyed everything.
+- **Officer:** So it's heavy, man. They couldn't drink the water right here, put that tree in there. And also, Deac, if you could get, let's get General... Jeremiah 17 and 4. Because remember, all these knowledge, the Most I gave it to us. We knew how to take care of ourselves without dis, disturbing creation. I mean, without destroying the earth. So Esau came in and destroyed everything.
 
 - **Deacon Eythan:** And we had laws. I thought that we had laws that told us to keep that, to give the earth time to rest, right? I think it was every seven years, it was time the earth had to rest. Every seven years, don't, don't pull nothing, don't grow nothing, let it relax. Esau just destroys everything. Everything.
 
@@ -840,7 +840,7 @@ Reading from *Clean Aztecs, Dirty Spaniards*, continued · read by an officer  *
 
 - So, so this is what it meant to be a real Christian, right here. Yeah. Stinks. It's stank. Damn. Only ran from Spain, y'all stank. That's how you aim from out of there. You shoot. They attracted, they the ones attracted the rats and the roaches, yeah, and so forth. After that, Black Plague came from these filthy bastards, man.
 
-- **Officer:** Hey Dee, can I read the script?
+- **Officer:** Hey Deac, can I read the script?
 
 - **Deacon Eythan:** Yes. Get that. You got it.
 
@@ -1180,7 +1180,7 @@ Reading from the Wikipedia article on the Sahaja, the Berber confederation · re
 
 - **Deacon Eythan:** Yeah, that's us there. They've been this nice century. That's definitely us. Ninth century is ten hundreds.
 
-- **Officer:** And there's a part two, Dick, that says dark, right?
+- **Officer:** And there's a part two, Deac, that says dark, right?
 
 - **Deacon Eythan:** Right. When the Africans are dark-skinned, you gotta be careful, cause you, you have Berbers, you have Hemetic and something, so you gotta be careful. Bobby. It says Sonata tribe, and go back to, go back again. Go back, duh.
 
@@ -1318,7 +1318,7 @@ Reading from the Wikipedia article on the Haratin, continued · read by an offic
 
 > Amnesty International reported that in 1992...
 
-- That was, that labor, are you into that labor? Oh, you now go, go up. I mean, I mean Arabic, it ends in Arabic. No, you gotta go for the download primarily. Okay, under there. And then let's see, Black Moors. Go to, keep going down. So you see a word called Guana people. Now people, now are people, and Amnesty. Look at that, Dick. Picture. Click the picture of them. Hey, look at that. That's J. You can't now... come on, man. Look, that's, that's us. You can't look, you can't deny that's Jake. Read the caption on the bottom of it, what it says.
+- That was, that labor, are you into that labor? Oh, you now go, go up. I mean, I mean Arabic, it ends in Arabic. No, you gotta go for the download primarily. Okay, under there. And then let's see, Black Moors. Go to, keep going down. So you see a word called Guana people. Now people, now are people, and Amnesty. Look at that, Deac. Picture. Click the picture of them. Hey, look at that. That's J. You can't now... come on, man. Look, that's, that's us. You can't look, you can't deny that's Jake. Read the caption on the bottom of it, what it says.
 
 > Servant, slave girls. The use of hurting girls that servants has attracted activists.
 
@@ -1424,7 +1424,7 @@ Continue. I hope you guys enjoyed the lesson. We, we could, we, thank, shout out
 
 **Deacon Eythan:** Yeah. Pentecost is definitely coming up, this, this with the fifth, the sixth, Sunday, Sunday. So we will be here?
 
-**Officer:** Yeah. We still have a show, D?
+**Officer:** Yeah. We still have a show, Deac?
 
 **Deacon Eythan:** Nah, not gonna show the Pentecost. We'll be... Feast day is the, the Pentecost is what, what days are, Sunday. Yeah, we're not gonna... they're not gonna do it. Yeah. So, so it gives me time. That's good. That gives me time to... so I'll be home, so I have time to work on it during that week. So Lord's, hope you guys enjoyed the, the series. I enjoyed teaching it. I learned from it.
 

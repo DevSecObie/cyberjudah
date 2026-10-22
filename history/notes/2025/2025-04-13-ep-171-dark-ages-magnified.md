@@ -220,7 +220,7 @@ Reading from *Israel's Wanderings*, page 70, on the Getae in Thrace and Bulgaria
 
 - **Deacon Eythan:** Danube. Danube. My fault, sir. So the northern kingdom took this territory. Remember Ephraim, our people are formidable. Whether together or exiled or apart, we are a problem, man. A problem. The Spartans, problem. Carthaginians, problem. David, problem. We are a formidable, fierce, powerful people, even at our lowest. Even now, as athletes, we are a problem.
 
-- **Officer:** Hey D, I want to land back after you finish, though.
+- **Officer:** Hey Deac, I want to land back after you finish, though.
 
 - **Deacon Eythan:** So here it says that we pretty much occupied the whole district between the Danube and the Balkans.
 
@@ -250,7 +250,7 @@ Reading from *Israel's Wanderings*, page 70, on the Getae in Thrace and Bulgaria
 
 - Is there more? Go down to right here. "Darius, having with difficulty." Right here.
 
-- **Officer:** Hey D, that's why the scripture says God has not given us the spirit of fear, right? We as a people have nothing to fear.
+- **Officer:** Hey Deac, that's why the scripture says God has not given us the spirit of fear, right? We as a people have nothing to fear.
 
 - **Deacon Eythan:** Yep. We knew that was just the beginning of something else.
 
@@ -328,7 +328,7 @@ Reading from a search result on Josephus and the Greeks changing the names of na
 
 - This is their folly. Their wickedness. But their descendants, they do it too. They prove their sayings, that they do these things: change lands and names and people to something else. It's what they do.
 
-- **Officer:** D, this is even happening right now. Remember, as soon as Trump swore an oath in the office, he said, "Look, we're going to name the Gulf of Mexico the Gulf of America now."
+- **Officer:** Deac, this is even happening right now. Remember, as soon as Trump swore an oath in the office, he said, "Look, we're going to name the Gulf of Mexico the Gulf of America now."
 
 - **Deacon Eythan:** Yep. Same thing. Yep. Same thing.
 *[[49:50](https://www.youtube.com/watch?v=Yi63AbFI48Y&t=2990s)]* So now what we got here? Oh, damn. You're right. There you go. The etymology of Aschanaxians is Ashkenazians. Comes from the name Ashkenaz. Oh, man. These dudes, man. You can't make it up. Listen, I didn't even know this. We just shot in the dark and we figured it out. Esau changed. He erased Japheth from existence. "Oh, there's no Japheth there. Oh no, that's myth. They're Minoans, after a god, Minos." No, no, no, no, no. That's Japheth. Damn. That's crazy, bro. All right. Where we at? Let's go, man. This is crazy. I want to get through this. Oh, go ahead. What you got?
@@ -495,7 +495,7 @@ Reading from the brown pages, continued, on the Scythians' wagons and their warr
 
 - He was murder. We was ripping nations apart like a lion, man. Listen, bro.
 
-- **Officer:** Hey D, that mean Levi got to give a shout out to Judah on this feast as well, cause he said he was like a lion.
+- **Officer:** Hey Deac, that mean Levi got to give a shout out to Judah on this feast as well, cause he said he was like a lion.
 
 - **Deacon Eythan:** That's right, man. It's all Judah. They ain't going to do it, though, man. No, they ain't going to do it. Levi gonna be mad. It's all right.
 *[[1:02:42](https://www.youtube.com/watch?v=Yi63AbFI48Y&t=3762s)]* We're going to take a quick break, man. We're going to chill out. We take a break. We're going to come back with the book, because I came with the book. I don't want to rush it for the break, so I'mma chill. Y'all stay tuned with us. Zoom, call in, or you can text us at 267-262-6121. If you got questions regarding the topic. But we going in. This is the Dark Ages Magnified. We going in. We did this before, but we're going into it even more. We got more understanding, more books, more information, more scriptures now. So just stay tuned. You don't want to miss this. All right. So we'll be right back.
@@ -940,7 +940,7 @@ Reading from *African Presence in Early Europe*, edited by Ivan Van Sertima, pag
 
 - **Deacon Eythan:** Oh God. Oh, you understood Deacon Manny. Translate. Manny is one of them dark dwarves. You got one next to you, officer.
 
-- **Officer:** Hey D, you want me to keep reading?
+- **Officer:** Hey Deac, you want me to keep reading?
 
 - **Deacon Eythan:** Yo, y'all are terrible people, man. But anyway, we spoke like that over there. Read on.
 

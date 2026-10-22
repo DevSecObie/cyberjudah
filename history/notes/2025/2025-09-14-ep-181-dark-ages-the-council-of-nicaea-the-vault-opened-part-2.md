@@ -56,7 +56,7 @@ tags: ["Our Hidden History", "false-religion"]
 
 - **Brother:** I got to find the book, D.
 
-- **Deacon Eythan:** Yeah, you got to get that book, man. Left us spiritually defenseless. And there's numerous accounts. The Romans heard it and the Jews heard it. Give me Psalm 60 and 10. David says it again. Right now this brother is the happiest brother on this panel. We are in the book of Psalms. He loves Psalms. He probably knew where I was going to go. So he was like, That's right, D. That's right. You're doing good so far.
+- **Deacon Eythan:** Yeah, you got to get that book, man. Left us spiritually defenseless. And there's numerous accounts. The Romans heard it and the Jews heard it. Give me Psalm 60 and 10. David says it again. Right now this brother is the happiest brother on this panel. We are in the book of Psalms. He loves Psalms. He probably knew where I was going to go. So he was like, That's right, Deac. That's right. You're doing good so far.
 
 **[Psalms 60:10](/bible/psalms/60#v10)**  *[[10:15](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=615s)]*
 
@@ -238,7 +238,7 @@ Reading from *History of the Jews* by Hannah Adams, page 60, on the year 65 AD a
 
 *[[33:54](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=2034s)]* **Deacon Eythan:** Yep. All right, next one. See who this guy is. That's a black man there; see by his hands. Go down. His feet black as hell. That's the tree of Jesse: Father Jacob. Look at that. Go back up. That is Jacob right there. Black Jacob. Look at his hands. Look at his hair, beard, black ass hand. That's Jacob right there. Father Jacob depicted as a black man. Russia knows what color Jacob was. This ain't a mystery to Russia. They know who we are. They know; you black Americans that's all confused. … Next one. Another black man right there. That's Jonah. Black.
 
-**Brother:** D, this is heavy. It's called the tree of Jesse, but it's showing all the prophets coming from that tree.
+**Brother:** Deac, this is heavy. It's called the tree of Jesse, but it's showing all the prophets coming from that tree.
 
 *[[35:03](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=2103s)]* **Deacon Eythan:** Yeah. Some good stuff. All right, see who this is. This is a black man as well. Black woman, I believe, right there to the top left. That's called the wimple, what she's wearing wrapped around her face. You read Isaiah 3: the wimples. They're around their face and head. It's called the wimple. Now Muslims call it a hijab. Muslim women wear it. We call it a wimple in English. Go down. Jesse. So I guess this might be people who are of the line of David that came to Russia, because that's older, of Jesse's line apparently. So these might be the children of David that came over to Russia, possibly.
 
@@ -300,7 +300,7 @@ Reading from *History of the Jews* by Hannah Adams, page 60, on the year 65 AD a
 
 **Deacon Eythan:** Wow. The Almighty. Damn. Who is this guy here? Black man. Go down. See who this brother is. John. John the Baptist, Christ's cousin, black man. John the Baptist. Let's go on to the next one. That's him again. Yep.
 
-**Brother:** We got a text, D, when you ready.
+**Brother:** We got a text, Deac, when you ready.
 
 **Deacon Eythan:** All right. Let's do this image. Who's this angel here? Michael. Black Michael. I could do this all day. What the text say?
 
@@ -416,7 +416,7 @@ Reading from a search result on John Mark, read on air  *[[58:24](https://www.yo
 
 - Okay. So, like I said before, it's historically believed that Mark wrote for Peter.
 
-- **Brother:** Now, D, I got something on that too, but I'll pull it up.
+- **Brother:** Now, Deac, I got something on that too, but I'll pull it up.
 
 - **Deacon Eythan:** All right, let me know. So I don't want to forget: Galatians 2:9. So out of the 12, there were top elders of the 12. There's a hierarchy. Among the 12, there were top three, Peter being the main one. But Paul gives the order.
 

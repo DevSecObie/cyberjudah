@@ -126,7 +126,7 @@ Reading from the same book, page 193, on Queen Kahina · read by a co-host  *[[2
 
 > terrorized her artist mountain settlement and demanded Kahina as a wife. When she rejected him, he slaughtered people of her village. She then gave herself to him, but like the biblical heroine slew him with a nail to the skull on the wedding night.
 
-- Damn. Wow. See what she did? So she... this dude, just look at it, it was Jake also, wanted her as a wife, and because they refused, he killed told *[[21:48](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=1308s)]* their village. He said, Okay, I'll marry you then. She waited until he was sleeping; she nailed him in his head on that what a night. Hey Dick.
+- Damn. Wow. See what she did? So she... this dude, just look at it, it was Jake also, wanted her as a wife, and because they refused, he killed told *[[21:48](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=1308s)]* their village. He said, Okay, I'll marry you then. She waited until he was sleeping; she nailed him in his head on that what a night. Hey Deac.
 
 - **A co-host:** And she had to know the history.
 
@@ -458,7 +458,7 @@ Reading from Wikipedia, "Jews of Arabia before Islam" · read by a co-host  *[[3
 
 - **Deacon Eythan:** If you examine their history, that'll fit them. They don't fit the description of being white. Biblically, being white, that would involve them being pure, holy, innocent. Let's examine: Black Wall Street, was *[[51:14](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=3074s)]* there purity in that? Was there purity in Rosewood? Was there purity in Black Bottom, Detroit? Was there purity in Atlanta? Said he's... there was there a purity when the Romans overthrew Jerusalem? Was the purity in that? Was there purity in the Americas? They conquered the Mayans, Anchors and Aztecs, and North American Indians, and churches. Was that pure and holy? Was that white? No, it was not. So they're not white at all.
 
-- **A co-host:** Hey Deek, the perfect representation of the colors red. Why? They're uncooked. Their food is uncooked.
+- **A co-host:** Hey Deac, the perfect representation of the colors red. Why? They're uncooked. Their food is uncooked.
 
 - **Deacon Eythan:** And for all the blood that they spilled. Right. Red represents sin, represents evil. Red, reddish, crimson. Says there's cinders red as crimson; that's in Isaiah 118. There's cinders crimson. The great, the *[[51:59](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=3119s)]* great red dragon. Woman Justin Scarlet. Red. Everything evil in a Bible, the color is red. Blood shedders. White. So they say, Don't call us... don't call us that for the truth. We're gonna call you Indians; we'll call you red skin. We're … we're gonna call you red, Redskins, and wear white. No, no, you're redskins. They're black, or mahogany, brownish red. But you're red. Red represents evil all throughout the Bible, all throughout... most of the time, I say most of the time. Primarily, most of you represent sin. Whenever the Bible represents, talks about sin, it gets... it brings rappers to the color red. Primarily. Primarily, I'll say. Don't y'all affect me. No, Deacon C does not say. I'll say primarily; I'll keep it open-ended for you simple *[[52:48](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=3168s)]* to do, to criticize everything I say.
 
@@ -602,7 +602,7 @@ Reading from the same book, page 195, on the peculiar Jewish weakness of compass
 
 - **Deacon Eythan:** Yeah. Gentlemen, do not unkind, not just so-called meekness, with meekness. No, no, listen: we're not talking softly. When you come with that type of … mentality, or his compassion, and want to save your enemy, try to find, incorporate scriptures that has nothing to do with the Bible, we're going to... we're going to *[[1:08:27](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=4107s)]* speak to you roughly, severely, and we're going to compel you to come in. We might bully you a little bit, and we ain't going to stop. Right. Give me what's in the Psalm 14. That's what the Bible says, right? The Bible says Crisis to compel. So listen, I'm listening to Christ in compelling. Oh, you made me... peace does not mean to talk to you and negotiate. Means to force, to coerce, force. Or you may be pamby's, all weak and feminine, mama boy. You don't make me sad. Listen, don't... don't expect the sorry for me. I want to blast you even more. Right. I go through your brothers in here too. Yeah.
 
-- **A co-host:** Sorry, Dick.
+- **A co-host:** Sorry, Deac.
 
 - **Deacon Eythan:** Yeah. I have to just lay that out on the table. I'm at it.
 
@@ -610,7 +610,7 @@ Reading from the same book, page 195, on the peculiar Jewish weakness of compass
 
 - **Deacon Eythan:** Give me some assignments. That's a feminized Christian *[[1:09:07](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=4147s)]* mindset that... that was inserted into the minds of our people. That's why people saw Dawson, right? It wasn't Osama 14.
 
-- **A co-host:** Oh, oh, you talking to me? Yes. Oh, okay. You went to that place too. Yeah. Wait, what are you looking for, Dick?
+- **A co-host:** Oh, oh, you talking to me? Yes. Oh, okay. You went to that place too. Yeah. Wait, what are you looking for, Deac?
 
 - **Deacon Eythan:** Yeah, I missed what you have. The acceptance of the enemy's destruction. Yes, yes. 18. 18. 18 and 7.
 
@@ -662,7 +662,7 @@ Reading from the same book, page 195, continued: Queen Kahina and Khalid · read
 
 - **Deacon Eythan:** Right. That's what they did. They conspired... I forget it. And it took the compassion spirit we have for each other *[[1:14:29](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=4469s)]* and said, No, don't have it for each other. Had it for us. The hell was your own kind. Right now black folks have no problem killing and slandering their own brothers, in the truth and in the world, but love their enemy at the same time, and join with them at the same time.
 
-- **A co-host:** And Dick, and now the other nation... now our people find an excuse. They have now... they have an excuse to be compassionate. You see, we have to be compassionate now because God says we have to be.
+- **A co-host:** And Deac, and now the other nation... now our people find an excuse. They have now... they have an excuse to be compassionate. You see, we have to be compassionate now because God says we have to be.
 
 - **Deacon Eythan:** Right. Read on. King Saul.
 
@@ -1332,7 +1332,7 @@ Reading from Wikipedia, "Evil Land" (as said on air) · read by a co-host  *[[2:
 
 </div>
 
-*[[2:22:21](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=8541s)]* All right, now let's go to what I want: 310. Let's go to Wikipedia, Umayyad conquest of Espana. The Umayyad conquest of Espana. This is the rise of the Moors. We touched on how Queen Kahana's sons enlisted in the Islamic army of 12 000 warriors to overthrow Spain in 711 A.D. We're going into that now. This is the rise of the Moors. The fall of Edom, the fall of Esau. So it's called... it's called Umayyad conquest of Hispania. It's called... *[[2:23:15](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=8595s)]* not the caliphate. Yes, there's multiple tribes of Judah throughout those areas. Yes, y'all are right. Here it is. That's what I want. Yep, that's it. So we're gonna start at Tariq ibn Zayad. We're gonna go to him. Dick, you want to start? You're gonna start at the beginning, to be honest. I don't know if I had this. Is that the book also? Hold on. Yeah, start with Tariq Zayat first. Is it there? You see you have him there?
+*[[2:22:21](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=8541s)]* All right, now let's go to what I want: 310. Let's go to Wikipedia, Umayyad conquest of Espana. The Umayyad conquest of Espana. This is the rise of the Moors. We touched on how Queen Kahana's sons enlisted in the Islamic army of 12 000 warriors to overthrow Spain in 711 A.D. We're going into that now. This is the rise of the Moors. The fall of Edom, the fall of Esau. So it's called... it's called Umayyad conquest of Hispania. It's called... *[[2:23:15](https://www.youtube.com/watch?v=4yH6IKUwAtc&t=8595s)]* not the caliphate. Yes, there's multiple tribes of Judah throughout those areas. Yes, y'all are right. Here it is. That's what I want. Yep, that's it. So we're gonna start at Tariq ibn Zayad. We're gonna go to him. Deac, you want to start? You're gonna start at the beginning, to be honest. I don't know if I had this. Is that the book also? Hold on. Yeah, start with Tariq Zayat first. Is it there? You see you have him there?
 
 **A co-host:** Yes sir, he's right here. Tariq ibn... yeah, according to... I guess that's it. That says invasion, right?
 

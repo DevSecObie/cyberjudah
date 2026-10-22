@@ -129,7 +129,7 @@ Reading from a film clip on black men in Europe  *[[11:59](https://www.youtube.c
 
 - And the dragon gave him his power. The dragon here is the devil. The dragon, Satan, gave him his power. And his seat, his seat to rule, and great authority, his great authority and power, was all of Satan. Now, all nations serve the devil. All of them. There's not a single nation on earth outside of Israel whose god is not Satan. All nations have a universal god, and that god is Satan. In different ways and names, but it's the same god. Every nation outside of the nation of Israel has no god. I'm going to say it again. Every nation outside of the Israelites have no god. None. Their god is the figment of their imagination, and their imagination comes from Satan.
 
-- **Officer:** D, can we prove that? Psalms 96.
+- **Officer:** Deac, can we prove that? Psalms 96.
 
 - **Deacon Eythan:** Let's get it. Let's get it.
 

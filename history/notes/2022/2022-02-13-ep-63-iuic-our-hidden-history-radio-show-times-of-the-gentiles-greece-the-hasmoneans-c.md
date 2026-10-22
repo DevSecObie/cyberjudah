@@ -756,7 +756,7 @@ Reading from a definition looked up on air  *[[1:25:16](https://www.youtube.com/
 
 - War against Philip. All right.
 
-- **Officer:** Now go back, dick, if I may?
+- **Officer:** Now go back, Deac, if I may?
 
 - **Deacon Eythan:** Yeah.
 
@@ -1312,7 +1312,7 @@ Reading from a definition looked up on air  *[[1:25:16](https://www.youtube.com/
 
 - *[[2:15:26](https://www.youtube.com/watch?v=mXJ2mKF2hqg&t=8126s)]* Genesis chapter 2 is a detailed understanding of how Adam was formed and how Eve was made, and so on and so forth. That gives, explain Genesis chapter one. So Genesis 1, Genesis chapter 2 is more detail. Like for example Luke: you read Luke 1, Luke 1 is actually in more detail than Matthew 1, and Luke 2 is more detailed than Matthew 2, Luke 3 is more detailed than Matthew 3, and so on and so forth. It's like, it's, it's, the Bible's a puzzle you got put together.
 
-- **Officer:** Dick, you did the same thing also with Daniel and building the dragon, right? You going back and forth, going back and forth, together, putting together. Likewise the Esther and the rest of us in the apocalypse. The exact same thing.
+- **Officer:** Deac, you did the same thing also with Daniel and building the dragon, right? You going back and forth, going back and forth, together, putting together. Likewise the Esther and the rest of us in the apocalypse. The exact same thing.
 
 - **Deacon Eythan:** Okay, so what was that, 36? Did I stop there?
 

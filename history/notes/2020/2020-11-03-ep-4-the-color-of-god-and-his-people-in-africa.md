@@ -240,7 +240,7 @@ Reading from a book named on air as *Africa the Origin of Life and the Black, th
 
 - But it was. She told him, if you put that in your book, they're going to burn your book. They're not going to let it be released. So this, like I said before, there's a conspiracy. These nations understand what they're doing, creating fake boundaries. So this man said, he came to... it was his professor. He introduced his book, obviously a book on world studies and history in lance, and he obviously knew, based upon research, that the Middle East and Africa were one landmass. He said no, no, no, no, you can't put that in your book. They'll burn it. They'll get rid of it. They're not going to publish it. You understand? We cannot allow you to put that in, the Middle East in Africa as one. That Israel... because that would mean that the land of Israel is part of Africa, and the people of Israel are Negro, or black, like the applicants. We can't have that.
 
-- **A co-host:** Now, lester and dick, that's all part of a divide and conquer.
+- **A co-host:** Now, lester and Deac, that's all part of a divide and conquer.
 
 - **Deacon Eythan:** Yup. All part of the... white supremacy.
 
@@ -984,7 +984,7 @@ Reading from J. Rogers, named on air as *Nature Knows Our Color Line*, page 56 Â
 
 - **A co-host:** Yeah, the most ineligible bachelor in Israel.
 
-- **Another co-host:** Yeah. Hey dick, a real quick image of what we're saying right here: smiling, only see the teeth. And it also referred to that olive. That's the olive.
+- **Another co-host:** Yeah. Hey Deac, a real quick image of what we're saying right here: smiling, only see the teeth. And it also referred to that olive. That's the olive.
 
 - **Deacon Eythan:** Exactly. There you go. There's nobody walking around looking like a green olive. So obviously he's talking about the black olive. Look at this brother's skin. Yeah. And that's a Hebrew, right? He could be. That's a perfect place, though. Yeah, hot as hell.
 

@@ -788,7 +788,7 @@ Reading from Wikipedia, "Arianism" · read by a brother  *[[1:09:48](https://www
 
 - **Deacon Eythan:** Yeah, that sounds good. 26.
 
-- **A brother:** Because they don't understand. What is it that we don't get? The scriptures is clear. I don't know. Because remember there's something that you said, Deke, in a street teaching: the three R's that the negro is afraid of.
+- **A brother:** Because they don't understand. What is it that we don't get? The scriptures is clear. I don't know. Because remember there's something that you said, Deac, in a street teaching: the three R's that the negro is afraid of.
 
 - **Deacon Eythan:** Oh yeah, yeah.
 

@@ -190,7 +190,7 @@ Reading from *Atkinson's Casket*, volume 10, on the voyages of Solomon's fleets;
 
 - It says once in 3 years. So now remember, to sail from around Africa, it's a year and a half it took to sail around Africa to come over here. So that's once, the year and a half. So a year and a half travel to come here, and then a year and a half to get back, is 3 years.
 
-- **Officer:** Damn. What a bomb, man. Yo, D, can you repeat that, please?
+- **Officer:** Damn. What a bomb, man. Yo, Deac, can you repeat that, please?
 
 - **Deacon Eythan:** So it says once in 3 years. So they would travel, it was a 3-year trip. So to sail around Africa from Ezion-geber, I showed y'all, it's the same distance pretty much as from the Persian Gulf to go around Africa. It says it takes about 3 years. So it's a year and a half, and then coming back again, that's another year and a half. That's 3 years. So that's a good point he brought out. So it would take that time to go around Africa. Cuz the same thing with the northern kingdom: the northern kingdom jumped into the Persian Gulf and sailed around Africa. It's the opposite side of the Red Sea. You have the Persian Gulf on one side and of course you have the Red Sea on the other side. But both of them had to go around Africa. Both of them got to go around. All right?
 
@@ -302,7 +302,7 @@ Reading from *Atkinson's Casket*, volume 10, continued · read by an officer  *[
 
 - There you go. So even the author of this book is telling you that the Native Americans came from Phoenicia, Palestine, or Judea. It's the same people, going back to them being Phoenicians and Jews.
 
-- **Officer:** D, if I may make a point. Asher and Zebulun, they lived near Tyre and Sidon, right?
+- **Officer:** Deac, if I may make a point. Asher and Zebulun, they lived near Tyre and Sidon, right?
 
 - **Deacon Eythan:** Yes. They both were in Tyre and Sidon. They sail from there. They left from Tyre and Sidon, yes.
 

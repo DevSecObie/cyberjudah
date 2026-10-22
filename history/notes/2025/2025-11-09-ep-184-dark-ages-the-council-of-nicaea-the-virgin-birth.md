@@ -304,7 +304,7 @@ Reading from a clip of an atheist on Christianity, played on air  *[[32:20](http
 
 - **Deacon Eythan:** There's no way around this. This is not war, by the way. This is registry, returning from Babylon. There's nothing to do with war or men of war. This is return from exile here. There's no war taking place here. You are the house. And you ask them over there that's telling people they're in Gaza... you ask them where in the Bible, where in ancient text, can they show where your lineage goes to your mother. Ask Amalek over there, Israelis over there that's dropping bombs on Gaza. You ask them where in any ancient text, before the Talmud, the Torah anywhere, or the prophets, the Tanakh, where your lineage goes to your mama? There's a whole tribe of Israelites where their lineage is based upon mommy? Give me one instance in the Bible. You're not going to do it. There's nowhere. It's tradition. They made it up. If the Israelis say the same thing, that it's from your mother, it's madness.
 
-- **Officer:** Hey, D. Maybe they got to hear it from the white man.
+- **Officer:** Hey, Deac. Maybe they got to hear it from the white man.
 
 - **Deacon Eythan:** Oh yeah. Give me that pedigree real quick too. Real fast. And give me this book also after that.
 

@@ -156,7 +156,7 @@ Reading from the same article on Aelia Capitolina, read again  *[[19:20](https:/
 
 - Baal is the universal god of the heathens. He's the god of all the heathens under different names. I'll say it again. Baal, Jupiter, Zeus is the universal god of all nations. Now he is Caesar Borgia today. White Jesus, the white Messiah, the white Jesus Christ. That's who he is, as opposed to the black Jesus in the Bible. So he's pretty much the same god among all nations. All right. So let's go back to Daniel again.
 
-- **A brother:** Hey, D. Can we go back even further? Because you said that history repeats itself.
+- **A brother:** Hey, Deac. Can we go back even further? Because you said that history repeats itself.
 
 - **Deacon Eythan:** Yeah. It's not linear. It loops.
 

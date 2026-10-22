@@ -340,7 +340,7 @@ Reading from *From Babylon to Timbuktu*, pages 115 to 117, on the expulsion of t
 
 - Fight Jia, Fro Jio. You had Jews in Fergia, and Pamphilia, Jews in Pamphilia. And Egypt: she was in Egypt earlier, how Jews were already invited, flee to Egypt from Spain, Portugal, because you had Jews already still residing there. And in parts of Libya, and in parts of Libya, like Baka. About Cyrene, about Serene, Serene, or Sereneka, Serenica, same place. About Serene, Serene. And strangers of Rome: she was in Rome. Jews and process, Jews and Prophet: Jews who converted back to Judaism, from paganism back to Judaism. That's Jews, also proselytize, or converted Jews. Now let's go back to where are we at.
 
-**Officer:** Hey, Dick, I wanted to show that. It's a small clip. Okay. Who's this, talking about the hybrid.
+**Officer:** Hey, Deac, I wanted to show that. It's a small clip. Okay. Who's this, talking about the hybrid.
 
 <div class="reading">
 
@@ -462,7 +462,7 @@ Reading from *From Babylon to Timbuktu*, pages 126 to 129, on the black Jews in 
 
 - See that? This system was primarily targeting us. So the white, the deuce, the white man who converted to Judaism, he's good, and Ed's in the land today. We read earlier in *The Jewish Diaspora* book how there's Sephardic people there. That's them. That's their descendants, living there at peace, claimed to be the original Jews of Spain. They were not.
 
-- **Officer:** And, and Dick, that rather remind me of Matthew 24:24.
+- **Officer:** And, and Deac, that rather remind me of Matthew 24:24.
 
 - **Deacon Eythan:** Let's get that. And give me First Maccabees 1 also, where it says, direct, this is mainly directed against the new Christians, the secret black Jews. The expulsion was the target: Judaizing Israelites. That's what it was for. Like we are targeted today as black identity extremists, as terrorists. It's the same thing happening again. So it was happening there. Now it grew stronger and stronger.
 
@@ -508,7 +508,7 @@ Reading from *From Babylon to Timbuktu*, pages 126 to 129, on the black Jews in 
 
 - Target was the Jews. The target was the Jews. They were the target. They were the ones who had laws that they abided by, that kept them separate from everybody else, when the Greeks had a religion that forced everyone to be all one. Sound familiar? Christianity is the same doctrine. All are one, we're all the same, all-inclusive.
 
-- **Officer:** And that also proved, Dick, why we are number one, SPLC, right? Number one on SPLC's target list.
+- **Officer:** And that also proved, Deac, why we are number one, SPLC, right? Number one on SPLC's target list.
 
 - **Deacon Eythan:** Yep. Right. Let's go back to where we were at.
 
@@ -1154,7 +1154,7 @@ The Native Americans were shipped off to different areas. They also walked the T
 
 **Deacon Eythan:** Both. Both features and customs. Yes. But again, more so I would say customs and features, because Moses passed one Egyptian, right, and so did Joseph, and so did Paul, and the Messiah and his parents also were able to hide in Africa and blend in as well. So you do have Israelites that do very much, very well, look like Ham. All right.
 
-**Officer:** And also, Dick, how did the Hamites, how did Edom identify the natives, the northern kingdom? Because of their burial rites, their marital ceremonies, their flags, their banners. Right. So the custom and features had identified us as well.
+**Officer:** And also, Deac, how did the Hamites, how did Edom identify the natives, the northern kingdom? Because of their burial rites, their marital ceremonies, their flags, their banners. Right. So the custom and features had identified us as well.
 
 **Deacon Eythan:** It's right. They knew. And the Hamites pointed us out. They said, those are not people, you know. So that's the same thing.
 
@@ -1332,7 +1332,7 @@ Reading from *Black Holocaust for Beginners*, page 36 onward, on how Africans be
 
 - Israelites, who were peacefully minding their own business. Wow. Whoever's God, do something with yourselves over there, man. Go to page 37.
 
-- **Officer:** Hey D, that's where my mom's from too. Burundi.
+- **Officer:** Hey Deac, that's where my mom's from too. Burundi.
 
 - **Deacon Eythan:** Burundi. Wow. Okay. There you go. You saw this in there too. Go to page 37. We're going to read about Daniel real quick. Just a little short snippet, real fast. I won't get to the point about the, I ain't forget the ships and the curses. Read that there. The centrality of eunuch.
 
@@ -1418,7 +1418,7 @@ Reading from *Black Holocaust for Beginners*, page 36 onward, on how Africans be
 
 - **Deacon Eythan:** No, no, no, no, no, no, no, no. And that's why in Revelation says the sea will give up the dead. Yeah. I was tossed in them by you captains.
 
-- **Officer:** And, Dick, it looks like that's probably where Willie Lynch probably read about that, where you get his letters from, selling each other, us against each other.
+- **Officer:** And, Deac, it looks like that's probably where Willie Lynch probably read about that, where you get his letters from, selling each other, us against each other.
 
 - **Deacon Eythan:** Yeah, that's the same thing the British did to the two season Hutus. They said to get against each other. Yeah. And also they did the same thing in South Africa. The Dutch gave them different tribal names. He fed those names to them, and they all divided also, those different tribes in South Africa. The Africaners did that. Go to page 39. Go to the top part. The top part.
 

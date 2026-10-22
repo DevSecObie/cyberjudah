@@ -1445,7 +1445,7 @@ Reading from *The Pictorial History of Israel* by Jacob Rubin and Meyer Barkai, 
 
 - Exodus 1:13, under the mural.
 
-- **A captain:** I messed up. Hey D, you know what's crazy? I got that book. When you flip through the pages of that book, you see the pictures. There's no other brother, no picture like this. The Lord had him put it in the very first page.
+- **A captain:** I messed up. Hey Deac, you know what's crazy? I got that book. When you flip through the pages of that book, you see the pictures. There's no other brother, no picture like this. The Lord had him put it in the very first page.
 
 - That's right. Okay. Black. You can't get a white boy. The clothes are white.
 
@@ -1455,7 +1455,7 @@ Reading from *The Pictorial History of Israel* by Jacob Rubin and Meyer Barkai, 
 
 ## In Closing
 
-*[[2:16:30](https://www.youtube.com/watch?v=Da3acU7XSXw&t=8190s)]* **A captain:** So, D, do you want to give the announcements? They usually do announcements here. Oh, it's up right now. So you see on the screen: shout-outs to Our Hidden History, shout-out to y'all, brothers and sisters. Officer Abaddon, his album coming out, man. Album's fire. You better get it. That's right.
+*[[2:16:30](https://www.youtube.com/watch?v=Da3acU7XSXw&t=8190s)]* **A captain:** So, Deac, do you want to give the announcements? They usually do announcements here. Oh, it's up right now. So you see on the screen: shout-outs to Our Hidden History, shout-out to y'all, brothers and sisters. Officer Abaddon, his album coming out, man. Album's fire. You better get it. That's right.
 
 *[[2:18:00](https://www.youtube.com/watch?v=Da3acU7XSXw&t=8280s)]* So now, hopefully, if you're watching, I gave you the books. I gave you the ammunition. I gave you a description. That's right. So now you can't sound stupid. Now you know what we're talking about. Now you know what you're talking about. All right. If you can't do it, have us do it for you. That's right. Hey, share this. Share this. Share it with Kyrie. Put it on; DM them. Do something. All right. And with that, thanks to the patient saints. Next week we'll see you next week. Shalom, shalom.
 

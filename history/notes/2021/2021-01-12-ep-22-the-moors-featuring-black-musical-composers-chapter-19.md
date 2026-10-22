@@ -422,7 +422,7 @@ Reading from *Sex and Race*, Volume Three, page 306, on Beethoven's color  *[[44
 
 - **Deacon Eythan:** Guess what? They can't escape us. All the music that they listen to, jazz, classical, whether it be rap, hip-hop, pop, it's all Black people. That's why I said Jacob is the creator of all things. They can't escape it. That's why the Bible says Israel is the sword of the earth.
 
-- **A captain:** And Dick, I mean, even though when, can we read that? What, Psalms 137 confirm it, our classical music.
+- **A captain:** And Deac, I mean, even though when, can we read that? What, Psalms 137 confirm it, our classical music.
 
 - **Deacon Eythan:** Psalms 137. Mm-hmm.
 
@@ -468,7 +468,7 @@ Reading from *Sex and Race*, Volume Three, page 306, on Beethoven's color  *[[44
 
 - **Deacon Eythan:** Wow, you beat me to it. Book of Second Samuel.
 
-- **A captain:** Welcome to the show. We've been around for a long time. I know he doesn't have this. You got this? Yeah, I got that. Thank you. Damn, yeah, I throw, Dick, you know, and he said, I got it, and oh, praise. You know what this brings our, Dick, I mean, for our people who understands us? Well, maybe if you're a first time watcher, you don't really watch these series like this. It is sport to us to get this information, you know what I mean? And not only is helpful for you, but it's helping the nation, right? Second Channel 6 and 5.
+- **A captain:** Welcome to the show. We've been around for a long time. I know he doesn't have this. You got this? Yeah, I got that. Thank you. Damn, yeah, I throw, Deac, you know, and he said, I got it, and oh, praise. You know what this brings our, Deac, I mean, for our people who understands us? Well, maybe if you're a first time watcher, you don't really watch these series like this. It is sport to us to get this information, you know what I mean? And not only is helpful for you, but it's helping the nation, right? Second Channel 6 and 5.
 
 **Deacon Eythan:** Hey, Jess, I'm sorry. I'm gonna fall back, I'm gonna fall back. Oh gosh. Wow, he's back, baby. Yeah, this tea already is good. Yeah, I'm awake. This is Paul Street bully right here. Come on, come on, come on. Second Semester. Yeah.
 
@@ -628,7 +628,7 @@ Reading from *Sex and Race*, Volume Three, continued, on Haydn and Beethoven  *[
 
 - **Deacon Eythan:** Go out, go out of that. Go down to the bottom right. There's more? No, no, that's it, that's it. Now, one more book. One more, damn, one more book. There's one more right now. Let's go to Mozart, or Mozart, now. Yeah, that's Beethoven right there, right? Yep. Yeah, it's Beethoven. What do you gotta put you up? Hiding too. Isn't that picture of Haydn somewhere? I saw it in Black. Yes, yes, yes, yes, yes. Dang. I do have a Joseph, the picture of Made in Black. Yes, yes, yes, you're right, you're right. Let me get the Black, let me get it. Did I send it last week? You know, I saw that picture. Yeah, I showed you last week. Yeah, yeah. Let me see, let me, let me pull it up real quick. Somebody pulled up Justified in Black. It's in Belgium, I believe. Radio station, they, somebody had it up. They have a depiction of, of, of Haydn Black. So a lot of y'all, you know, those of you who, hopefully don't, no one's on the comment board scoring and scoffing, because if you are, you're an imbecile, man. You're stupid as hell.
 
-- **A captain:** Dick, yeah. Why, why you go over this? I don't think I could AirDrop it real quick. I just want you to read this, straight in line with what you just bought out with the Portuguese. Pass it over to the cat. So I won't drop it. Yeah, with the Portuguese. Oh, this is the same, Spag, oh, Spagnuolo.
+- **A captain:** Deac, yeah. Why, why you go over this? I don't think I could AirDrop it real quick. I just want you to read this, straight in line with what you just bought out with the Portuguese. Pass it over to the cat. So I won't drop it. Yeah, with the Portuguese. Oh, this is the same, Spag, oh, Spagnuolo.
 
 - **Deacon Eythan:** Yes. Sphagnum. Right, right, right. Spagnuolo, Spagnuolo.
 
@@ -650,7 +650,7 @@ Reading from Merriam-Webster, the definition of Spagnuolo  *[[1:13:02](https://w
 
 - Wow. In comparison to Latinos, which are Black, Spanish-speaking Jews, or Sephardim. So if he was a sphagnum, that means he was definitely a Black Jew, right? And that's what Beethoven was referring to as the Moor. When he spoke of dark, he was referring to those Jews that was expelled. Right now. Okay, can see it. Yeah, so everybody, that's like a little nickname, probably. Yes. S-P-A-G and oil, N-U-O-L-O. Yeah. Merriam Bag Duolo, me a Million Webster. Here you go, that's it. Spreading my hands. This is the iPhone's right on my hand, in my hand. Wow. You can't touch it. I phoned the Clubhouse Prophet. Is it Mario? I don't believe in iPhone. It's the cell.
 
-- **A captain:** Deacon, listen, man, you know, Pure is coming. You know you're missing, and you as, everything is missing. That's right. Yeah, you know, and you know Cleveland is missing, Dickens. So yeah, you know, brothers, listen, Andreas is out. Embrace it. No. Hey, Deke, after, after this, I posted a book about, piggy back off when you went into the intellect...
+- **A captain:** Deacon, listen, man, you know, Pure is coming. You know you're missing, and you as, everything is missing. That's right. Yeah, you know, and you know Cleveland is missing, Dickens. So yeah, you know, brothers, listen, Andreas is out. Embrace it. No. Hey, Deac, after, after this, I posted a book about, piggy back off when you went into the intellect...
 
 - **Deacon Eythan:** We don't, excuse me, sir, we don't do piggyback anymore. Yeah, yeah, you're off the spirit. Yeah. Damn.
 
@@ -886,7 +886,7 @@ Reading from the same book, continued  *[[1:48:54](https://www.youtube.com/watch
 
 **Deacon Eythan:** Why they still, like, like to show you, this used to be our castles. You're not going to walk in any temple, go to the assistant chapel right now. What do you see? White image places, that where Black images on the wall. And actually think white folks did that? In the movie Jacqueline told, and they did, they played in that movie. That's the actual set, it's actual castle. There's Black images on the back of our castle, all on the back of us, in the back. Because in Russia, and you're in Europe, it's known the Jews are Black. That's not a con, that's not uncommon to them. They know that already. America is where the majority of Israel is. That's the bubble we're in. They say, listen, we don't mind the … knowing that Jews here in Russia, but the majority of them are in America. Don't tell them that.
 
-**A captain:** And Dick, back, back in the old, old days, with the old school one, one...
+**A captain:** And Deac, back, back in the old, old days, with the old school one, one...
 
 **Deacon Eythan:** Yeah, sorry.
 

@@ -322,7 +322,7 @@ Reading from *Sex and Race* by J.A. Rogers, page 65, "Negro ancestry in the whit
 
 *[[31:32](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=1892s)]* Now, going back to the clans, the Campbells, the McClouds. You got something, Jess? Yeah, we can just have first. Give me page, before I forget. You got the book over there. I need the book. Page 21.
 
-*[[32:06](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=1926s)]* **Officer:** Hey, real quick, while they get that, Deek, we got a comment.
+*[[32:06](https://www.youtube.com/watch?v=3Qv06x4ijn8&t=1926s)]* **Officer:** Hey, real quick, while they get that, Deac, we got a comment.
 
 **Deacon Eythan:** All right. Let's get it.
 
@@ -500,7 +500,7 @@ Reading from *Ancient and Modern Britons*, Volume One, page 235 · read by an of
 
 - Wow.
 
-- **Another officer:** Last night I brought that up to you, correct? The Gypsies. And I know we're going to get in that, but especially in Rome. We were talking about Italy, right, Deek? But in Rome you have a lot of Gypsies. The Gypsies are the lower class. They're the … of Rome. And their ancestry might be connected to us. That's why they seen as lower class people.
+- **Another officer:** Last night I brought that up to you, correct? The Gypsies. And I know we're going to get in that, but especially in Rome. We were talking about Italy, right, Deac? But in Rome you have a lot of Gypsies. The Gypsies are the lower class. They're the … of Rome. And their ancestry might be connected to us. That's why they seen as lower class people.
 
 - **Deacon Eythan:** Yeah. We got something on that. We can get into that another time. We got something on two branches of Gypsies. The white ones and black ones. We're going through that. That's later on. If we find a way to segue into it.
 
@@ -530,7 +530,7 @@ Reading from *Ancient and Modern Britons*, Volume One, page 235 · read by an of
 
 **Deacon Eythan:** All praise the Lord. Thank you. Thank you. Whoopsie. Damn. Is that it? Is there more? I hope that was it. All praise. His brain's going to hurt. He was like, exemplary. Oh Lord. What words is this? Trying to set me up. Hey, pull that book up with the map. You remember the one we just had with the map.
 
-**Officer:** Damn. They keep sending more, Deek. More things to read? I think cuz they know I'm reading.
+**Officer:** Damn. They keep sending more, Deac. More things to read? I think cuz they know I'm reading.
 
 **Deacon Eythan:** All praise the Lord. Exercise, brother. Exercise your mind. Page 56 or 59, one of them, with McDuff, just to get more on McDuff. What is this? Is that the same brother again with the Zohar thing? Yeah, go ahead.
 

@@ -440,7 +440,7 @@ Reading from The *Time of the Gentiles* pamphlet, on the Babylonian captivity ·
 
 - **Deacon Eythan:** Right. That's not, no, that wasn't raised by French. The Creole is, is way different, you know, than the city. Right.
 
-- **A co-host:** I mean, a point, real quick, Deke, when the term, I know we, oh, I cut you off.
+- **A co-host:** I mean, a point, real quick, Deac, when the term, I know we, oh, I cut you off.
 
 - **Deacon Eythan:** And again, we're not against the Hebrew names you brothers use. If you want to say How a Higher, your household, much respect to you. If we come across you and you prefer of us to use those titles, I'll use it. It's not a problem. It's just, don't make that a basis of doctrine. I'm going to curse you out bad. You even know it's me. It'll be, I'll be turning somebody else. What are you saying?
 
@@ -592,7 +592,7 @@ Reading from The *Time of the Gentiles* pamphlet, on the Babylonian captivity ·
 
 *[[1:30:48](https://www.youtube.com/watch?v=bcSVLGKRBe8&t=5448s)]* All right, we're back, we're back. All right, back from the break, back from the break. Okay, so we left off at Ahaz, Hezekiah, Manasseh, Amman and Josiah. All right, so good. Second Kings 19. Well, we got scarves on the comment board. You're welcome to call up, call in. And, and by the way, just to put a disclaimer: at no point in time did I ever say everything, everything that's being brought out here is me telling you what it is. You're gonna do your research. Those y'all, those of y'all who are watching, you do your research. Read along with us. Get the books. I present the books. Read it for yourself. And I'm not telling you, hey, listen, read, read it for yourself. Got these simple ass Negroes in the comment box tomorrow here. Read for yourself. You can take your simple ass south, south west, west.
 
-**A co-host:** Hey D, it's crazy. That's crazy, because in church you don't, you don't, you don't do no research in churches, do you? Right. You just sit down. Yeah, sit down and listen to the nonsense. But now you research what you're learning, because we don't, you don't know if what they bringing out is true or not. BS, man.
+**A co-host:** Hey Deac, it's crazy. That's crazy, because in church you don't, you don't, you don't do no research in churches, do you? Right. You just sit down. Yeah, sit down and listen to the nonsense. But now you research what you're learning, because we don't, you don't know if what they bringing out is true or not. BS, man.
 
 **Deacon Eythan:** Hey, listen, you could research all you want. If Most I don't put the spirit on you to understand this, so you ain't gonna understand it either. And we go sit in your own little corner. Research all you want, and we encourage you to research. We encourage you, whatever we say, go back and check for yourself. Scripture says blessed is he that read, right? Well, you know, you can go ahead and read, but understanding is another level. Yeah, you know what I mean? You don't get yourself around wisdom, men of understanding, you, you all, you're going to keep doing scorpion online. Yeah … We are our own saviors. Yeah, we all say this. So how about you take your people out of the conditions they're in all over the world, since we're our own saviors, buddy? Because we're, you being, you said we're our own cities. I mean, you're saving yourself, you're not saving your people. Means you're, you're, you're still in that individual mindset. You're not a savior at all. Save your thought. Fathers went to try to save their people, not themselves. The dumbass between you and them. 267-702-6121. Please call up, get your last hand for you. 267-702-6121. Central ministry. Yeah. Second Kings 19:37. Guys, just, just be quiet. Why are you here? I don't understand. It's like you come on in the room to tell people don't listen to him, but you're listening to me while you're in the room. Right. No sense. Just go. Second Kings 19:37.
 
@@ -644,7 +644,7 @@ Reading from The *Time of the Gentiles* pamphlet, on the Babylonian captivity ·
 
 - Let time reverse. Go backwards 10 degrees.
 
-- **A co-host:** Oh, I'm sorry, Deke. It says here, for sundow: as the sun appears to move across the sky, the shadow aligns with the different hour lines on the cloud, on the clock, which, which are marked on the dial to indicate the time of the day.
+- **A co-host:** Oh, I'm sorry, Deac. It says here, for sundow: as the sun appears to move across the sky, the shadow aligns with the different hour lines on the cloud, on the clock, which, which are marked on the dial to indicate the time of the day.
 
 - **Deacon Eythan:** Time. So backwards, forwards in time. So, so says Kai is saying, listen, it's easy but for a time to move forward, because time always goes forward. So it's a sign, have it go backward. Watch this. Verse 11.
 

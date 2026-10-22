@@ -578,7 +578,7 @@ Reading from an article at yrm.org on the kippah  *[[1:08:00](https://www.youtub
 
 - **Deacon Eythan:** Matter of fact, Mercury, I think, on the, on the car, it's that same winged symbol. Bring that symbol up. Let's assemble up. I mean, you know, hold it. I guess get the Mercury logo, car, the Mercury.
 
-- **A co-host:** Mercury, homies are the same guy. And Deke also, the, the potasso's, the Hermes hat, Sherlock Holmes, isn't that the hat he got? Is there a hat he had on?
+- **A co-host:** Mercury, homies are the same guy. And Deac also, the, the potasso's, the Hermes hat, Sherlock Holmes, isn't that the hat he got? Is there a hat he had on?
 
 - **Deacon Eythan:** No, no. Yeah, yeah, yeah. Yes it is, yes it is. Yeah, he has the hat. But I'm gonna get there. Don't, don't, don't, don't spoil it. I'm gonna get there. Just thought about it.
 

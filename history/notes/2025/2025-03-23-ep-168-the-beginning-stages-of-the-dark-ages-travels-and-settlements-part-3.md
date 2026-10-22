@@ -150,7 +150,7 @@ Reading from *History of the Jews*, volume three, two pages on the Jews in Spain
 
 > When Judaism had come to a standstill in the East,
 
-- **A brother:** Hey, D, I got two pages from volume three of *History of the Jews*. Going back to when we was in Spain. So D related us being in Spain during the Babylonian captivity. We was taken to Spain, but also during 70 AD. After 70 AD, we was also taken to Spain as well. Second wave of us. Read that.
+- **A brother:** Hey, Deac, I got two pages from volume three of *History of the Jews*. Going back to when we was in Spain. So D related us being in Spain during the Babylonian captivity. We was taken to Spain, but also during 70 AD. After 70 AD, we was also taken to Spain as well. Second wave of us. Read that.
 
 > The victims of the unhappy insurrections under Vespasian, Titus and Hadrian were also dispersed to the extreme West, and an exaggerated account relates that 80,000 of them were carried off to Spain as prisoners.
 

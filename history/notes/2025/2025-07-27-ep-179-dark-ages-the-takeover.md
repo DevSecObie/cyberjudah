@@ -880,7 +880,7 @@ Reading from *Spain: A History in Art*, continued, on the Celtiberians and Lusit
 
 - His mouth as the mouth of a lion, meaning going back to what? Babylon. He incorporated Babylon: his holidays, his customs, his arrogance, his pride, the New Year's, the customs. Babylonian.
 
-- **Officer:** Hey, Dee. He also took, just like Babylon did, he took the seed of David to rule over them in their kingdom.
+- **Officer:** Hey, Deac. He also took, just like Babylon did, he took the seed of David to rule over them in their kingdom.
 
 - **Deacon Eythan:** Oh yeah. Yep. That too. Exactly. That as well. Let's see where we at. What verse is that?
 
@@ -1440,7 +1440,7 @@ Reading from *Ten Caesars* by Barry Strauss, page 262, on the religions of the e
 
 - *[[2:10:56](https://www.youtube.com/watch?v=bv_DjoNomBQ&t=7856s)]* All right. What? Okay, that's good too. I don't want that. But 141 is what I want. I got to open the vault, Lord's will, in two weeks, because we're going to be gone next week. So I can't open... I was trying to rush you through to the vault, man, but I couldn't do it. Ain't got no time. All right. Just real quick, I wanted to share Diocletian real fast. Share that real quick.
 
-- **Officer:** Hey, Dee, like you was touching on, how even though the rulers wasn't righteous, it's still good to go over the history. That's basically Kings and Chronicles, when the Lord goes on into the northern kingdom kings.
+- **Officer:** Hey, Deac, like you was touching on, how even though the rulers wasn't righteous, it's still good to go over the history. That's basically Kings and Chronicles, when the Lord goes on into the northern kingdom kings.
 
 - **Deacon Eythan:** Yep. Yep. And some of the southern kingdom too.
 
@@ -1540,7 +1540,7 @@ Reading from *Imperial Rome*, pages 140 and 141, the stone sculpture of the Tetr
 
 - **Deacon Eythan:** Yeah. Almost done.
 
-- **Officer:** Hey, Dee, this is the prophecy, what Job was seeing. When the earth was given into the hands of the wicked, they covered the faces of the judges.
+- **Officer:** Hey, Deac, this is the prophecy, what Job was seeing. When the earth was given into the hands of the wicked, they covered the faces of the judges.
 
 - **Deacon Eythan:** Yep.
 

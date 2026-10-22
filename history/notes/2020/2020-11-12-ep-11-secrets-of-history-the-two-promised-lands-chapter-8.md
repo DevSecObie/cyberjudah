@@ -802,7 +802,7 @@ Reading from *Origins*, pages 69 to 70, on the Hebrew theory  *[[52:13](https://
 
 - Most of them came over here.
 
-- **Captain Joel:** And Dick, earlier you was say something about the Catholic church, right?
+- **Captain Joel:** And Deac, earlier you was say something about the Catholic church, right?
 
 - **Deacon Eythan:** Yeah. Most Catholic Church bible has the apoc...
 
@@ -828,7 +828,7 @@ Reading from *Origins*, pages 69 to 70, on the Hebrew theory  *[[52:13](https://
 
 > That proved easy. Both peoples were timid, prone to ceremony and idolatry, and Liars. When the scriptures spoke of Jewish heroism, it referred to the tribe of Judah,
 
-- Oh, all praises. The Lord, all praise, all Praises. With a bomb. Don't be hated over, drop another bomb, man. And guess what, Jud too. Thank you, Judah baby. D, that's Judah over there. Yeah, we out here, we out here. J bab, where's the bomb, baby? Hey, get another late Lo ammo over there. Damn, I'm say, I'm back. Wow, came out of nowhere. Back, read it again, read it again, read again. For Cat Came From the Ashes. When, when the scripture spoke of what?
+- Oh, all praises. The Lord, all praise, all Praises. With a bomb. Don't be hated over, drop another bomb, man. And guess what, Jud too. Thank you, Judah baby. Deac, that's Judah over there. Yeah, we out here, we out here. J bab, where's the bomb, baby? Hey, get another late Lo ammo over there. Damn, I'm say, I'm back. Wow, came out of nowhere. Back, read it again, read it again, read again. For Cat Came From the Ashes. When, when the scripture spoke of what?
 
 > When the scripture spoke of Jewish heroism, it is referred to the tribe of Judah,
 

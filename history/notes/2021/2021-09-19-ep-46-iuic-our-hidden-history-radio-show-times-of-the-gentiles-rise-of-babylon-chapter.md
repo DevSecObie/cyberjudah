@@ -132,7 +132,7 @@ Reading from Britannica, on the Babylonian captivity · read by a brother  *[[24
 
 *[[30:14](https://www.youtube.com/watch?v=MC9_KXo8Sm0&t=1814s)]* So now, get me Jeremiah 25.
 
-**A brother:** Hey, dick, before, like you were saying, that was practicing those circumcisions. Yeah. And there's a scripture, if you, if I may, Judges 5:11.
+**A brother:** Hey, Deac, before, like you were saying, that was practicing those circumcisions. Yeah. And there's a scripture, if you, if I may, Judges 5:11.
 
 **Deacon Eythan:** Yes. Just get it. Yup. And get that, because that was the law, that wherever we at in captivity, was supposed to be the commandments, right? The commandment is the same thing. We here in Babylon today, in this captivity, we're supposed to rehearse the righteous acts.
 
@@ -180,7 +180,7 @@ Reading from Britannica, on the Babylonian captivity · read by a brother  *[[24
 
 - **Deacon Eythan:** So the point is that the curses are clearly evident, man. Wherever our people are found, you'll find these parties, impoverished conditions, terrible conditions.
 
-- **A brother:** Hey, dick, I got a few. In Manhattan, Brooklyn, New York, you see it. Yeah, this is Lamentations chapter 3, verse 45.
+- **A brother:** Hey, Deac, I got a few. In Manhattan, Brooklyn, New York, you see it. Yeah, this is Lamentations chapter 3, verse 45.
 
 **[Lamentations 3:45-46](/bible/lamentations/3#v45)**  *[[36:24](https://www.youtube.com/watch?v=MC9_KXo8Sm0&t=2184s)]*
 
@@ -426,7 +426,7 @@ Reading from a YouTube video, *What Happened to the 10 Lost Tribes*, played to 6
 
 - We were on the way to Yemen. They went this way. They fled from Babylon. They went eastward. That's going toward the Near, further east.
 
-- **A brother:** And, dick, further, to go deeper. Now remember, the Yemen people are being sold as slaves, right, in Yemen, right? So the hours of selling them asleep.
+- **A brother:** And, Deac, further, to go deeper. Now remember, the Yemen people are being sold as slaves, right, in Yemen, right? So the hours of selling them asleep.
 
 - **Deacon Eythan:** Yes. Those are, yeah, some women. I showed y'all, some fled westward, some fled eastward. They went eastward, and they went, then they, when they fled eastward, they went downward. They went southeast, heading into Yemen. Okay? Watch this.
 
@@ -436,7 +436,7 @@ Reading from a YouTube video, *What Happened to the 10 Lost Tribes*, played to 6
 
 </div>
 
-**A brother:** *[[1:06:44](https://www.youtube.com/watch?v=MC9_KXo8Sm0&t=4004s)]* Dick, man, can we read Jeff and I three after that?
+**A brother:** *[[1:06:44](https://www.youtube.com/watch?v=MC9_KXo8Sm0&t=4004s)]* Deac, man, can we read Jeff and I three after that?
 
 **A brother:** So I heard some brothers say something about a brother in our congregation looks like this Hustle. He's a Cushite. But a lot of our brothers, and a lot of our brothers are from Ethiopia. Temporary Hat is, his father is Ethiopian, from Ethiopia. Nipsey Hustle is from Ethiopia. The Weeknd is from Ethiopia. He looked like a Cushion to you? You, that's why you, that's what I'm telling you, brothers, man. Y'all, I'm telling you, don't call the show. I'm telling you, don't be stupid. This, just research first. Discretion. That's what they are just saying. Look could be deceiving, right?
 

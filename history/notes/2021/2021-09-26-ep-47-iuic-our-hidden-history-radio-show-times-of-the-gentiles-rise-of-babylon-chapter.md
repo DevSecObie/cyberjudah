@@ -372,7 +372,7 @@ Reading from the heading of the History of Susanna in the Apocrypha · read by a
 
 - So the king wanted his magicians to, to remind him about a dream he had and forgot, and forgot it. So he had a dream. He said, I don't remember the dream, just talk back to me, cause you guys are magicians, right? So you should be able to tell me. Well, my, you know, you have a dream, you forget about the dream, right? You remember certain points. He wants to remember everything. You guys are going to tell me what my dream was, verbatim. Verbatim. I forgot it, and it bothers me. I want to know. I don't know what the dream is about, so bring it back to my, to my memory.
 
-- **A co-host:** And dick, if that's to show you that the astrologers, like our sister, they always like to put their faith in the house scope, which is garbage, because they couldn't tell exactly what the dream was. So when you put your feet, like some people could be going and get their, their, their palms, when the zodiac and stuff.
+- **A co-host:** And Deac, if that's to show you that the astrologers, like our sister, they always like to put their faith in the house scope, which is garbage, because they couldn't tell exactly what the dream was. So when you put your feet, like some people could be going and get their, their, their palms, when the zodiac and stuff.
 
 - **Deacon Eythan:** Yeah, mom readings, right. It's garbage. That's what's the Most... I was showing you right there.
 
@@ -612,7 +612,7 @@ Reading from pages on the United Nations, its headquarters and its history, read
 
 - I saw Japan joint. See, after World War II Japan joined because they got their guy, they got sun, but I bombed, and then Esau had that fire fall from that sky.
 
-- **A co-host:** And dick, when they had that Paris convention thing earlier, that's a night scene that was around when they had a bar for decoration, right? Yeah, because it was right on, it was at 1919, if you go back into it. So that was a couple of years, I think, before the League of Nations was created. So we had that draw out, that bar for decoration.
+- **A co-host:** And Deac, when they had that Paris convention thing earlier, that's a night scene that was around when they had a bar for decoration, right? Yeah, because it was right on, it was at 1919, if you go back into it. So that was a couple of years, I think, before the League of Nations was created. So we had that draw out, that bar for decoration.
 
 - **Deacon Eythan:** But the founding members of the League of Nations is Europeans. It's like the EU is obviously, the European Union is obviously Europeans as well. But these are all, these leagues are the same thing. But I know there's a, there's a link regarding the United Nations and the European Union. I know it was a link. Your EU is the same pretty much. I'll go through that over time. But, and all in all, they, Esau started it and became the majority of, even though others were added, right, later on, like the United Nations, I mean the European Union, over this is king later on. But same thing. So we'll be at, back to another time. Chapter two, I'll probably go into that when I touch Rome. I'll go on to that again. We're gonna come back here again anyway. We're at chapter 2 verse 41.
 
@@ -904,7 +904,7 @@ Reading from the heading of the Song of the Three Holy Children in the Apocrypha
 
 - So when they were in the furnace they heat it up more. As they're in the furnace, to heat it up more.
 
-- *[[1:21:56](https://www.youtube.com/watch?v=j3XB7cHljb0&t=4916s)]* Sorry, can you read with more bass, please? And dick, that sounds like a lot. I think cat got to read. He's reading like little high-pitched voice, like he's a soprano or something. Hey, put some bass in your voice. Go up a couple of octaves.
+- *[[1:21:56](https://www.youtube.com/watch?v=j3XB7cHljb0&t=4916s)]* Sorry, can you read with more bass, please? And Deac, that sounds like a lot. I think cat got to read. He's reading like little high-pitched voice, like he's a soprano or something. Hey, put some bass in your voice. Go up a couple of octaves.
 
 - **A co-host:** Yeah, they can actually... doesn't sound like it. Sings like a capital punishment.
 
@@ -1080,7 +1080,7 @@ Reading from the heading of the Song of the Three Holy Children in the Apocrypha
 
 - **A co-host:** I didn't hear that one.
 
-- **Deacon Eythan:** Oh yeah, yeah. You got the video? Yes. Well, doc, go with Lemon. I'll show it to you. Yeah, about the aliens, they walk among us. And dick, remember that show, are you always talking about the... I said to y'all a long time ago, man, y'all going on YouTube. Let's go to GroupMe and look for the YouTuber. A break, a break for what? What do you do today? I, I know what judge wants to pick, for eat some twigs like you used to do. I could do this. Then they showed you on the camera. That makes it even worse. You got something? Did you see it? Wow, these cats are no good. Yeah, it's the edge.
+- **Deacon Eythan:** Oh yeah, yeah. You got the video? Yes. Well, doc, go with Lemon. I'll show it to you. Yeah, about the aliens, they walk among us. And Deac, remember that show, are you always talking about the... I said to y'all a long time ago, man, y'all going on YouTube. Let's go to GroupMe and look for the YouTuber. A break, a break for what? What do you do today? I, I know what judge wants to pick, for eat some twigs like you used to do. I could do this. Then they showed you on the camera. That makes it even worse. You got something? Did you see it? Wow, these cats are no good. Yeah, it's the edge.
 
 - *[[1:34:31](https://www.youtube.com/watch?v=j3XB7cHljb0&t=5671s)]* **A co-host:** While you're waiting for the clip: it just shows you that the faith that our forefathers had, like Paul says, in our weakness are we, are we strengthened, are we made strong. So anytime our fathers, like I said, there was in a predicament where they couldn't control, they always relied on the Lord and the Most High. Like Deacon in Malachi's class yesterday: the Most High was going to put us in certain positions or conditions that we're going to have no choice but to rely on the Lord, so that the Lord may reveal his power to us. Right. It's through our faith, and through, and through our predicaments, and through the things that we go through, is that when the Most High reveals his glory, his strength and his power. Says everything's about faith, dale. That to me, that's the most faith anybody can show. He said, yo, listen, whether you, whether I get burned or not, get buried, if I die or I don't die, it's of the Lord. Not Daniel, the three brothers.
 
@@ -1338,7 +1338,7 @@ Reading from the Babylon pamphlet, pages 9 and 12 · read by a co-host  *[[1:55:
 
 > King Nebuchadnezzar set up a puppet king, Zedekiah, of Jacqueline's brother, of David's line, to sit on the throne of Judah, and made him swear an oath of allegiance. Second, Second Chronicles chapter 36 verses 10 to 12.
 
-- When against it got his eyes taken out, blah blah blah blah blah blah. Go to number two, page 12. You want that bottom part, D? All right, no, no matter. Okay, page 12. That's not the main narration. Page 12, blow it up, bring it up some, bomb, please. Balance the page out, make it even. Bring it up. Go up more, up, up, up, up. Move it over. Bring it in, bring it in. There we go. Bring this up. Well, zoom in some more if you can. He's about to go out, D. Oh, that's, that's fine, that's fine.
+- When against it got his eyes taken out, blah blah blah blah blah blah. Go to number two, page 12. You want that bottom part, Deac? All right, no, no matter. Okay, page 12. That's not the main narration. Page 12, blow it up, bring it up some, bomb, please. Balance the page out, make it even. Bring it up. Go up more, up, up, up, up. Move it over. Bring it in, bring it in. There we go. Bring this up. Well, zoom in some more if you can. He's about to go out, D. Oh, that's, that's fine, that's fine.
 
 > Ancient Babylonia: list of kings, and Neo-Babylonian rulers.
 

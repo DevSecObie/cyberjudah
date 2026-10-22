@@ -20,7 +20,7 @@ tags: ["Our Hidden History", "betrayal", "nations"]
 
 *[[24:14](https://www.youtube.com/watch?v=MVfDfqdn_vE&t=1454s)]* Hey, hey, welcome back, welcome back. How you doing? You are now tuned in to radio, radio show. Yes, dude, we are back. Welcome back. All praises, man. Welcome, we're back with spend the week, and we miss you. Really has it, for real. Oh gosh, Sundays can't come fast enough, dude. Hey, capo, where you at? Cap cat, man. Captain Joe, where you at? Absolutely host. He about to snap the mic now, he about to pop up on us real quick. But yeah, we're back. Continuing on into the Greek captivity. We left off from alchemists. That dude was the worst on the line of the high priest. Worst guy ever, alchemist, seeking power.
 
-*[[25:01](https://www.youtube.com/watch?v=MVfDfqdn_vE&t=1501s)]* **Co-host:** All right, yeah, I think if you want to get dick upset, man, just use that name, alchemist.
+*[[25:01](https://www.youtube.com/watch?v=MVfDfqdn_vE&t=1501s)]* **Co-host:** All right, yeah, I think if you want to get Deac upset, man, just use that name, alchemist.
 
 **Deacon Eythan:** Hey, I don't want to get my audience upset. I.T., please cue the music, cause we might get one of those moments today. No, I'll be all right, man. I'm gonna be a better man today. I'm being, I'm being better. I just, I'm being better, man. I'm doing it. I'm thinking you dying daily, man. I'm not an hourly man.
 
@@ -1012,7 +1012,7 @@ Reading from the Bible book used on the show for Nehemiah, its introduction to N
 
 **Deacon Eythan:** Come on, sisters. The reason why is that the Hasmoneans are the Maccabees, because remember, Marathi is his father. His name was Simon. His father's father's father's name was Simon. So the word ha is the Hebrew for the. So it's the samoan or Simeon family, because he's a house of Simeon. So there's a Levite family of the house of a man named Simon or Simeon. So that has the ha smonian, or ha Simeon family. Hasmonean. It's the same family, right.
 
-*[[2:06:01](https://www.youtube.com/watch?v=MVfDfqdn_vE&t=7561s)]* **Co-host:** So I could get her question, because, well, while this great history is going on, this little mention about the Levites. You know, I mentioned Levi. I know, I know you did, dick. You're my peoples. But that's just not enough, you know. Maybe a little bit more, because obviously the audience didn't know. So we could do it a little bit more. Make a beast too over there again.
+*[[2:06:01](https://www.youtube.com/watch?v=MVfDfqdn_vE&t=7561s)]* **Co-host:** So I could get her question, because, well, while this great history is going on, this little mention about the Levites. You know, I mentioned Levi. I know, I know you did, Deac. You're my peoples. But that's just not enough, you know. Maybe a little bit more, because obviously the audience didn't know. So we could do it a little bit more. Make a beast too over there again.
 
 **Deacon Eythan:** All right, we're good. Let's go First Macabre's 2:1. I aim hurting heart.
 

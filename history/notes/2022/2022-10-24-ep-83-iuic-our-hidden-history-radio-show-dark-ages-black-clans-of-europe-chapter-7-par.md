@@ -316,7 +316,7 @@ Reading from *Ancient and Modern Britons*, volume one, by David MacRitchie (1884
 
 - How they going to cut you off from being a nation? That the name of Israel may be no more in remembrance.
 
-- **Co-host:** What Deek is bringing out right now. If they take away our names, we're divided, we're not as strong. But if you got a big old family... I never forget this. We went to Jamaica, and we coming out the airport, and the customs lady was like, "Hold up. All y'all Israel?" They saw another captain, the Bishop. It was me and a couple... Everybody's name was Israel. It was like, "Yeah, we all brothers. We all family." And that was amazing, you know what I'm saying? So if you don't have the same name, it breaks down the ability to be a nation, right? And that's what we seen in that verse.
+- **Co-host:** What Deac is bringing out right now. If they take away our names, we're divided, we're not as strong. But if you got a big old family... I never forget this. We went to Jamaica, and we coming out the airport, and the customs lady was like, "Hold up. All y'all Israel?" They saw another captain, the Bishop. It was me and a couple... Everybody's name was Israel. It was like, "Yeah, we all brothers. We all family." And that was amazing, you know what I'm saying? So if you don't have the same name, it breaks down the ability to be a nation, right? And that's what we seen in that verse.
 
 - **Deacon Eythan:** All praises. Right.
 

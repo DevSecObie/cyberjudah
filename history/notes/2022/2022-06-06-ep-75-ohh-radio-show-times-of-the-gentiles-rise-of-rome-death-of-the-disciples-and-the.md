@@ -48,7 +48,7 @@ tags: ["Our Hidden History", "christ", "faith", "false-religion", "nations"]
 
 - Bring the cloak that you left over there, bring with you, and the books, but especially the parchments. The parchment and the books, and especially the parchment, meaning bring the books and bring... Timothy, bring the books, bring my cloak, bring the books and bring my paper so I can write these things down. Bring the books and bring my parchments, my paper, so I can write, so I can write these letters. Because he's talking to Timothy.
 
-- **Captain:** Deke, you see Luke, Luke was a high status. A lot of our fathers were, that started... the disciples. But a lot of them hazarded lives. They left their current status to follow Christ.
+- **Captain:** Deac, you see Luke, Luke was a high status. A lot of our fathers were, that started... the disciples. But a lot of them hazarded lives. They left their current status to follow Christ.
 
 - **Deacon Eythan:** It's alleged that Luke was a seventy. He's one of the seventies, alleged. I've read that he's one of the seventy disciples that was set up; not that it's historically stated that he was one of the seventy. I wouldn't be surprised. But Luke was of importance. Luke was of massive importance regarding the Acts of the Apostles.
 
@@ -216,7 +216,7 @@ tags: ["Our Hidden History", "christ", "faith", "false-religion", "nations"]
 
 - He received from whom? From God the Father, honor and glory. He's the Father. They're one and the same. Let's get that from... What scripture is that? Now he's the God. Yes, he's the Son. He says he's the Son of God. He said he's God. Catholics: the Son. No, he's the Father and the Son at the same time. I'm like, what? Y'all and … are … man. Stepping down. What are you going to get, in your Christian's ass today? I'll tell you, stripping down. You know you'll get me out today. You know, y'all the worst. Y'all the worst thing ever. Y'all worse than crack. Let's say, you stripping down.
 
-- **Captain:** Hey D, hey D. And then I'm like, I said we had a conversation before. I'm truly convinced that two of the main doctrines that Christians are not going to ever get, unless they start keeping the commandments, is the Trinity and immaculate conception.
+- **Captain:** Hey Deac, hey D. And then I'm like, I said we had a conversation before. I'm truly convinced that two of the main doctrines that Christians are not going to ever get, unless they start keeping the commandments, is the Trinity and immaculate conception.
 
 - **Deacon Eythan:** Yes, some are major strongholds. That's the like... no matter how well you break it down. No matter... how many countless videos have we gone over immaculate conception or the Trinity?
 
@@ -488,7 +488,7 @@ Reading from a book on the ministry and death of the disciples, at the page give
 
 > <sup>[2](/bible/revelation/1#v2)</sup> Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 
-- I don't know who Shaw is. I don't know the things that he saw. Maybe I don't know. Deke, it means... Can you read verse 3 again? It's like a southern accent. The things that he showed, the things that he shows. All these terms. Oh man. You must do again, please. Yes. Thank you, sir.
+- I don't know who Shaw is. I don't know the things that he saw. Maybe I don't know. Deac, it means... Can you read verse 3 again? It's like a southern accent. The things that he showed, the things that he shows. All these terms. Oh man. You must do again, please. Yes. Thank you, sir.
 
 > <sup>[3](/bible/revelation/1#v3)</sup> Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
 
@@ -532,7 +532,7 @@ Reading from a book on the ministry and death of the disciples, at the page give
 
 - He's writing to the churches: I'm your brother.
 
-- I was in the isle that is called Patmos, for the word of God and for the testimony of Jesus Christ. So some scholars say that John the Revelator died on the isle of Patmos, and others say that he did not die out there. He actually was released and he actually lived out his life in Ephesus and died of old age there. So he was never killed. All scholars agree that he died of old age. None say he was killed. But some say he didn't remain on the isle of Patmos; he actually left it, or was released, and then taught, whatever. And then some say he actually died on the island, or whatever. So I don't really care. The point is that John the Revelator was the last of the disciples. He was the last of the twelve. All eleven were killed except him. He was not killed. He lived, because Christ said he would live, Deke. Remember, they tried to kill him. They tried to boil him. We're going to get to that.
+- I was in the isle that is called Patmos, for the word of God and for the testimony of Jesus Christ. So some scholars say that John the Revelator died on the isle of Patmos, and others say that he did not die out there. He actually was released and he actually lived out his life in Ephesus and died of old age there. So he was never killed. All scholars agree that he died of old age. None say he was killed. But some say he didn't remain on the isle of Patmos; he actually left it, or was released, and then taught, whatever. And then some say he actually died on the island, or whatever. So I don't really care. The point is that John the Revelator was the last of the disciples. He was the last of the twelve. All eleven were killed except him. He was not killed. He lived, because Christ said he would live, Deac. Remember, they tried to kill him. They tried to boil him. We're going to get to that.
 
 - It says I was in... whether he was there, past tense... so it doesn't make a difference. The point is that he wrote this letter. John wrote Revelation. That's my point. And he wrote to the seven churches in Asia. That's in that book we read earlier, that book we just read: John, he taught in the seven churches of Asia.
 
@@ -556,7 +556,7 @@ Reading from a book on the ministry and death of the disciples, at the page give
 
 **Captain:** So … so our forefathers, they can take a trip over to Africa... I mean, from Africa to the Americas to trade, but the apostles can't go over there, right, to teach? It doesn't make any sense.
 
-**Deacon Eythan:** It doesn't make sense. Right. It doesn't make any sense. So we're at... go to the Polycarp Wikipedia. Polycarp. Oh no, give me the video. I want the video. Yeah, you want the video, Deke, cause that's what we're dealing with, the disciples, now. I want Polycarp... Oh yeah, the video. I want the video first. Thank you. I want the video first. We're going to watch... let's see, just let's play. Hopefully we don't get knocked off of this. I got the disclaimer, right?
+**Deacon Eythan:** It doesn't make sense. Right. It doesn't make any sense. So we're at... go to the Polycarp Wikipedia. Polycarp. Oh no, give me the video. I want the video. Yeah, you want the video, Deac, cause that's what we're dealing with, the disciples, now. I want Polycarp... Oh yeah, the video. I want the video first. Thank you. I want the video first. We're going to watch... let's see, just let's play. Hopefully we don't get knocked off of this. I got the disclaimer, right?
 
 <div class="reading">
 
@@ -570,7 +570,7 @@ Reading from a video on how the gospel spread from Jerusalem to the whole world 
 
 > Nine days after the ascension, the day of Pentecost, the twelve apostles are praying together with Mary, the mother of Jesus.
 
-- Fast forward a little bit. Geez, it's gonna make me fall asleep. Go two minutes ahead. Let me see. You're right there. Right there. Don't go to the side where they all... how they got killed. Go back some. Deke, can we go back to the map, the map when they spread it? Yeah, they're saying that he's referring to the Christian missionaries. Press play right there.
+- Fast forward a little bit. Geez, it's gonna make me fall asleep. Go two minutes ahead. Let me see. You're right there. Right there. Don't go to the side where they all... how they got killed. Go back some. Deac, can we go back to the map, the map when they spread it? Yeah, they're saying that he's referring to the Christian missionaries. Press play right there.
 
 > on his second missionary journey, from Antioch, preaching the gospel in his native Cilicia before moving on to Macedonia and Greece. On his return home he visits Ephesus, the largest city in the Roman province of Asia, in modern-day Turkey, and the fourth largest city in the Roman Empire. In Acts 18 to 21, Paul sets out from Antioch to visit the churches he had established across Galatia, Asia, Macedonia and Greece before returning to Jerusalem. Acts 27: Paul is taken under guard by Roman soldiers from Judea to Rome. After leaving Crete, the ship is lost to a storm, but miraculously lands at Malta in Acts 28, from where Paul makes his final journey to Rome.
 

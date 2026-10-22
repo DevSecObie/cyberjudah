@@ -112,7 +112,7 @@ Reading from volume three, page 172, on the exiles leaving Spain · read by an o
 
 - **Deacon Eythan:** So there you go. See, that's my point.
 
-- **A brother:** And Dick, I just look at the sneakers that he have. He has Luke 10 18 scripture written on the, yeah, on the screen, on the sneakers.
+- **A brother:** And Deac, I just look at the sneakers that he have. He has Luke 10 18 scripture written on the, yeah, on the screen, on the sneakers.
 
 - **Deacon Eythan:** Yeah, yeah. Right. Yeah. Luke what? Luke what, 10 18? Talking about the Satan cat as a lightning. Sitting, why do you have that? That's, that's Satan's defeat. Okay. Well, ignorance at its finest. So yeah, I don't know the Bible. They don't know the Bible. They don't know the Bible. So read that now. Read that, Ecclesiastes 10 tonight. Sirach chapter 10 verse 9.
 
@@ -228,7 +228,7 @@ Reading from volume three, page 172, on the exiles leaving Spain · read by an o
 
 - **Deacon Eythan:** Well, they call it, they got the, of the, not, it's called, that where they shake hands. We made a lot of celebrities, a lot of male subsidies, celebrities don't mess around and have sex with a man.
 
-- **A brother:** But what she told me, Dick, was that, though, it was all white men wanted her to do it on him, right?
+- **A brother:** But what she told me, Deac, was that, though, it was all white men wanted her to do it on him, right?
 
 - **Deacon Eythan:** I heard that before. They're freaked. So old rich white guys always want some next, just stepping in balls with high heels. Hey, crazy, man.
 
@@ -808,7 +808,7 @@ Reading from volume three, page 174, on the expulsion from Portugal · read by a
 
 - **Deacon Eythan:** Basketball. Yeah, yeah. See, yeah, that's the last time I watched basketball. So the youth were raised up in the fashion of the heathens. Go back to all males again. Damn.
 
-- **A brother:** Hey Dick, if I made you notice, Esau always took the young, the, the males, the youth, because those are fresh minds that they can, they can raise up and mold. So they will always use the, because they're not gonna use the grown. They always killed off the, the older, the, the older men, and so forth and so on, that had the understanding of knowledge. So they would take the children, separate, and use their children and raise them up.
+- **A brother:** Hey Deac, if I made you notice, Esau always took the young, the, the males, the youth, because those are fresh minds that they can, they can raise up and mold. So they will always use the, because they're not gonna use the grown. They always killed off the, the older, the, the older men, and so forth and so on, that had the understanding of knowledge. So they would take the children, separate, and use their children and raise them up.
 
 - **Deacon Eythan:** Yup. They're doing it today, right? Yeah. A little nice, right? That's how you know what I said in the music. Little Yachty, Young Yachty. What was it? Everybody is little.
 
@@ -1230,7 +1230,7 @@ Reading from a clip from the movie *True Romance*  *[[2:05:50](https://www.youtu
 
 - Pause. That's it. So y'all, I think we don't know what we're talking about? We know exactly what we're talking about. The problem is, you don't know what we're talking about. But he didn't know exactly what we're talking about. And again, these are things that are found in books that we're not supposed to have access to, or even think to read. So again, this history is very much known. It's esoteric.
 
-- All right, so now let's go to the next book. Social. I see that. Dick, can you pass out of me? Thank you. Social, and page 170, regarding how they, how they try to clean up the bloodline, and how these Sephardic Jews, because we read earlier that they were converting. They were soliciting nations, those they were converting …. They were marrying the women, they were marrying the men, and they were teaching them their ways. And what happened was, they were converting …. So the … that convert to Judaism, they didn't face the same persecution, or the, the amount of extreme, extreme punishment of observing it. They were allowed, they got a pass. Basically, they got a pass. And they became the converts that we married, and, and taught, became what you know today as Sephardic Jews. Sephardic Jews. Now watch this. Page 170, Social Value 15. And we're going to start at first, at first, and end at Coimbra. Coimbra, whatever. Do you have page 170? I didn't give you that one. All right, so here, take this. I'm sorry.
+- All right, so now let's go to the next book. Social. I see that. Deac, can you pass out of me? Thank you. Social, and page 170, regarding how they, how they try to clean up the bloodline, and how these Sephardic Jews, because we read earlier that they were converting. They were soliciting nations, those they were converting …. They were marrying the women, they were marrying the men, and they were teaching them their ways. And what happened was, they were converting …. So the … that convert to Judaism, they didn't face the same persecution, or the, the amount of extreme, extreme punishment of observing it. They were allowed, they got a pass. Basically, they got a pass. And they became the converts that we married, and, and taught, became what you know today as Sephardic Jews. Sephardic Jews. Now watch this. Page 170, Social Value 15. And we're going to start at first, at first, and end at Coimbra. Coimbra, whatever. Do you have page 170? I didn't give you that one. All right, so here, take this. I'm sorry.
 
 - **Captain:** So again, this, this history is, I find history very fascinating also. I find history very fast. I love history. I've always loved it. Some of y'all asked how do I know all these books. Because me and Jazz and Cat, all of us up here, we love history. We love it, we live it, love it. So we read. We find things and we dig, and we find more things, and we dig, and we find more and more and more and more things. We just keep digging, and it's getting lost in there. You just get lost, and then you gotta mess around and dig yourself out of it, then bring it, and then take everything and put it all together. And I have to leave Deacon and Jezz alone. So you guys, you know, it's bad. It's fun, but it's different. It's painstakingly time-consuming. Months. Painstakingly time-consuming, when you're dealing with that history, man. It's a lot. It's a lot.
 
@@ -1386,7 +1386,7 @@ Reading from the book he calls Scotland, pages 25, 235, 240 and 241, on the Mura
 
 - **Officer:** Yes sir.
 
-- **Deacon Eythan:** Okay. You see garrison there, like Samit the First and Second? It says garrisons. It's in the same area. You see it? Oh, it's in the same area. It says 606 BC. Bring it up. Go to the Elephant Team first, up, and seen Jews. Circle around that cursor, and go to, we see garrisons, and Samik. What's it at? Right on either. Right. Thank you. Very good. Hold up, keep that there. Okay, let the, go back to the page. Go back to the page at 241. Wait. Okay, D, go. Okay, you have it, you have it. All right, you got it, you got it. Near Barker, sorry, Ibaka. Right near Broncos, Libya, the Barca. That's, that's where Hannibal's from. Barca, ain't after him. Go to this threat, page 241. Watch this. Where Mirando actually comes from. They say the word Murano comes from Spanish wild pig. That's not what it means. Right there, where Moreno comes from. Watch this. The word was introduced, go to the, they were Ramsey's third. I need you to blow this up some, just to that column. That column right there. All right.
+- **Deacon Eythan:** Okay. You see garrison there, like Samit the First and Second? It says garrisons. It's in the same area. You see it? Oh, it's in the same area. It says 606 BC. Bring it up. Go to the Elephant Team first, up, and seen Jews. Circle around that cursor, and go to, we see garrisons, and Samik. What's it at? Right on either. Right. Thank you. Very good. Hold up, keep that there. Okay, let the, go back to the page. Go back to the page at 241. Wait. Okay, Deac, go. Okay, you have it, you have it. All right, you got it, you got it. Near Barker, sorry, Ibaka. Right near Broncos, Libya, the Barca. That's, that's where Hannibal's from. Barca, ain't after him. Go to this threat, page 241. Watch this. Where Mirando actually comes from. They say the word Murano comes from Spanish wild pig. That's not what it means. Right there, where Moreno comes from. Watch this. The word was introduced, go to the, they were Ramsey's third. I need you to blow this up some, just to that column. That column right there. All right.
 
 > Though the word,
 
@@ -1526,7 +1526,7 @@ Reading from the book he calls Scotland, pages 25, 235, 240 and 241, on the Mura
 
 **A brother:** So with that, announcements. Hey Israel, let's give Deacon a hand for that class. That thing was crazy. The Most High.
 
-*[[2:40:51](https://www.youtube.com/watch?v=NMs5y2jGRaM&t=9651s)]* Oh, so sorry, Dick. Remember, tonight is a new moon. Our first, first month, first day of the year, Israel. Right. All right. Shalom.
+*[[2:40:51](https://www.youtube.com/watch?v=NMs5y2jGRaM&t=9651s)]* Oh, so sorry, Deac. Remember, tonight is a new moon. Our first, first month, first day of the year, Israel. Right. All right. Shalom.
 
 ## Announcements & References
 

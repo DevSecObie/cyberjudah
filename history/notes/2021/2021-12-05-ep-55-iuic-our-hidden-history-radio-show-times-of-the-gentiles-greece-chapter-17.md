@@ -182,7 +182,7 @@ Then you had Vietnam War, where they, they were, they were, the people were, the
 
 **A brother:** No, but off of a … silos. Yeah, they didn't have any silos. I thought I saw something different. Yeah, I thought someone could come up to the ground. Yeah, he's actually in the military. Yeah, silos it is. Thank you, thank you, sir. So yeah, so solid. They, they say there's no silos on, on, on the UFOs, right? So that's the crazy thing about that, right?
 
-**A brother:** D, also, remember during the destruction in Jerusalem we seen the same thing, right? It's operationally four. They saw a sword, they saw a sword in the sky.
+**A brother:** Deac, also, remember during the destruction in Jerusalem we seen the same thing, right? It's operationally four. They saw a sword, they saw a sword in the sky.
 
 **Deacon Eythan:** Sore apparitions. That's right. You Maccabees again. Read again, verse four.
 
@@ -550,7 +550,7 @@ So how to eat them come out of kitten? Because they took that land over. Take ev
 
 **Deacon Eythan:** Another example: Australians. The original Australians were black people. That's Japan. Now, Jake's over there also, but predominantly that is Japheth. Then the British came over there, dropped their prisoners off there, and those prisoners took over the land, and then mutilated and a damn, damn genocide, and killed out the original Aboriginal Australians, and they became Australians. They became South Africans, they became Jews, they became Americans. The Native Americans is here first. Speaking, Israel was here first.
 
-**A brother:** Speak your truth. Speak, speak your truth, Dick, and let it, yes. Then let all that out. Deacon, put the music on. Oh gosh. Put the speaking truth segment on.
+**A brother:** Speak your truth. Speak, speak your truth, Deac, and let it, yes. Then let all that out. Deacon, put the music on. Oh gosh. Put the speaking truth segment on.
 
 **Deacon Eythan:** Please don't.
 
@@ -622,7 +622,7 @@ Reading from the Persian captivity pamphlet, page 17, the Persian kings · read 
 
 - Because I believe Felt the Macedonian was, was assassinated by his lover, by his lover, his male lover. That's why he, he wasn't successful in beating Darius III. He was warring against Darius the Third, but he got killed, I heard, by his lover. Because the Greeks did not like women. They used, they used women for procreational purposes, but they did not like women. They would use them to make more, to make more of them. That's what the term misogynist comes from. Misogyny. They hate women. It's a Greek word.
 
-- **A brother:** Can I bring out a scripture, Dick?
+- **A brother:** Can I bring out a scripture, Deac?
 
 - **Deacon Eythan:** Yeah. The Greeks did not like women.
 
@@ -1056,7 +1056,7 @@ Reading from another page brought out next ("I have another page too"), on Esau 
 
 - **Deacon Eythan:** Where are we at? Throw me 27 now, dude. That's it. Yeah, that's it, man. I was, I felt that thing in my veins. Oh my God. I was ready to go to war regarding Isaac's blessing to Esau, his son.
 
-- **A brother:** Hey, what do you want, D? You want me to draw me 27?
+- **A brother:** Hey, what do you want, Deac? You want me to draw me 27?
 
 - **Deacon Eythan:** Deuteronomy 27, verse 38.
 
@@ -1198,7 +1198,7 @@ Reading from another page brought out next ("I have another page too"), on Esau 
 
 *[[1:49:27](https://www.youtube.com/watch?v=R7NBS5IR-ps&t=6567s)]* So rather than go on break, we'll just answer any calls or comments regarding the class, because we're almost done anyway. Text 267-702-6121. Any comments in the class or questions, call us at 267-702-6121, or text us at 267-702-6121. All right. Yeah, so that's pretty much it for now.
 
-**A brother:** Hey D, like we're saying, they got that perpetual hatred for us, but they did the same thing to many other nations too.
+**A brother:** Hey Deac, like we're saying, they got that perpetual hatred for us, but they did the same thing to many other nations too.
 
 **Deacon Eythan:** Oh yeah.
 

@@ -226,7 +226,7 @@ Reading from a video clip of a man who says he studied every religion and was se
 
 - Pause. Many books is Esdras, Second Esdras, Baruch, Second Maccabees, wasn't a Solomon, Ecclesiasticus, the rest of... three only children, Judith, Judith, Tobit. That's what he's talking about, the rest of the books that weren't in the Bible. That's the 14. In the Catholic Bibles, I have one, the Catholic Bibles, they have all those in their Bibles, but they won't let other denomination Christian virgins have it, because they know the danger of it. They said, nah, only we know the validity of these books. But the rest of they are the Christians, you get the... you get 66. We'll get the 80. You get 66.
 
-- **A co-host:** And one of the reasons too, or Dick, if I may, because majority of our people are in this denomination: because when you read about between the Greek and the Jews, that would explain, they would be a little more clarified about who the Jews and the Gentiles were, right, in the New Testament.
+- **A co-host:** And one of the reasons too, or Deac, if I may, because majority of our people are in this denomination: because when you read about between the Greek and the Jews, that would explain, they would be a little more clarified about who the Jews and the Gentiles were, right, in the New Testament.
 
 - **Deacon Eythan:** Yes. Continue.
 

@@ -268,7 +268,7 @@ Reading from the book named on air as *The Black Man, His Antecedents, His Geniu
 
 - And thence into Mauritania. That's North Africa. Once again, that's Berbers.
 
-- **An officer:** So Dee, what they saying, we came from like two different directions and met up.
+- **An officer:** So Deac, what they saying, we came from like two different directions and met up.
 
 - **Deacon Eythan:** Yeah, and it's gathered there. Hey, you here? You get here? I came that way. Oh, I came from that way. All right, let me stay here. That's what happened. All right, read on.
 
@@ -310,7 +310,7 @@ Reading from the book named on air as *The Black Man, His Antecedents, His Geniu
 
 - *[[50:27](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=3027s)]* Especially about your history. Give me Deuteronomy 4 and 6. Yes sir. This is my language. So I got excited. Actually, my language. We're not gonna let you … read nothing.
 
-- **An officer:** Dee, can we give Judith 5 and 20? Show how the enemy...
+- **An officer:** Deac, can we give Judith 5 and 20? Show how the enemy...
 
 - **Deacon Eythan:** Oh, you'll get that also. Deuteronomy 4 and 6. This book was 1863. Oh yeah. But I'm baffled, man, because this book was published in 1863, and they're reading books... The Scoti. The Scoti is the Scots. Yes. And the word Scot means black. We have books that say this. The word Scot means black. So if you have Scotland, what's it mean? It means black land. Land of the blacks. Like what? Like Africa. You had Mauritania, that's the land of the blacks. Wherever Israel went, we said this place is the... this is niggerland. Black land. It's our land.
 
@@ -360,7 +360,7 @@ Reading from the book named on air as *The Black Man, His Antecedents, His Geniu
 
 - **An officer:** Damn. So no wonder they was able, doing the slave trade, to put millions of us on a boat and bring us over here. Yeah. And gave us all kind of unclean animals to eat, all that, kept us uncircumcised.
 
-- **Deacon Eythan:** Maccabees 8 and 30. Second Maccabees chapter 8 verse 30. Wait, wait, wait. No, no. I'm sorry. Let me look at it. What you looking for, Dee? Hold on. All right, it's 36. 8:36. Thank you. Yeah.
+- **Deacon Eythan:** Maccabees 8 and 30. Second Maccabees chapter 8 verse 30. Wait, wait, wait. No, no. I'm sorry. Let me look at it. What you looking for, Deac? Hold on. All right, it's 36. 8:36. Thank you. Yeah.
 
 **[2 Maccabees 8:36](/bible/2-maccabees/8#v36)**  *[[57:06](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=3426s)]*
 
@@ -390,7 +390,7 @@ Reading from the movie *Hancock*, a scene played on air  *[[59:43](https://www.y
 
 - **Deacon Eythan:** *[[1:02:07](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=3727s)]* She knew who he was. He didn't know. She knew who he was; she didn't tell him. That's the same thing today. She knew his identity. He didn't know. And his name was changed. He said, my name... a lady asked him, John Hancock? So I assumed my name was John Hancock. It wasn't his name. She never even gave him his name in the movie. You watch it, she never gave him his name. She goes, we were together, and our kind died, because we will always be in pairs. So our whole kind died except us. We're the last of our race. Because whenever they mate... That's all about the Genesis, the sons of God. Right. Same thing. Mating with the wrong people and dying. That's what the movie is. You're the son of God, she's a daughter of man. That's what that is. So when they escape each other, he's good and she's good. You understand?
 
-- Dee, you got Revelation 18 and 4. Revelation chapter 18 verse 4. The movie... don't get me... I'm not trying to exaggerate the movie. It's not that... it's okay. But if you look at it with spiritual eyes, you understand. It makes it good based upon that point.
+- Deac, you got Revelation 18 and 4. Revelation chapter 18 verse 4. The movie... don't get me... I'm not trying to exaggerate the movie. It's not that... it's okay. But if you look at it with spiritual eyes, you understand. It makes it good based upon that point.
 
 </div>
 
@@ -420,7 +420,7 @@ Reading from the book named on air as *The Black Man*, on Tertullian, St. August
 
 - **An officer:** This book is The Black Man and His Genius. The other book is called something else.
 
-- **Deacon Eythan:** Yeah, the other book is something totally different. What's it called? This book right here is called The Black Man, His Achievements. The other book is the same year. Yeah. Sorry. So we had the books mixed up. Damn, Jess. But the other book is called something else. The blue highlight got me, Dee. Yeah, the blue highlight threw us off. Hold on a second.
+- **Deacon Eythan:** Yeah, the other book is something totally different. What's it called? This book right here is called The Black Man, His Achievements. The other book is the same year. Yeah. Sorry. So we had the books mixed up. Damn, Jess. But the other book is called something else. The blue highlight got me, Deac. Yeah, the blue highlight threw us off. Hold on a second.
 
 - **Officer Manny:** That particular section was called the ethnology of Europe.
 
@@ -950,7 +950,7 @@ Reading from page 41 of a book that isn't named for this reading, on the Iberian
 
 *[[2:09:09](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=7749s)]* It's called War of the Jews, by Monroe Rosenthal and Isaac Moses. Yeah, Monroe Rosenthal. This book is very hard to get. You might be able to get it now, but I know when I first went to get it, it was very hard to get. It was expensive, difficult. I think I found one that was less than... like a hundred and something dollars, then the rest is like 400 and change. But I found one for me. Help you guys find one for y'all.
 
-**An officer:** Hey, Dee's giving the books, man.
+**An officer:** Hey, Deac's giving the books, man.
 
 **Deacon Eythan:** Yeah, I'm giving the books, regrettably, man. I don't like giving books, not because I'm selfish or mean, but because I know when I give the books away, people are going to run and buy them, and they're going to increase the price or take them off the shelves. That's what they do.
 
@@ -1034,7 +1034,7 @@ Reading from *War of the Jews* by Monroe Rosenthal and Isaac Moses, page 191 as 
 
 - Now, the Berbers were our people living there as well, but they were pagan.
 
-- **An officer:** So this is... sorry, Dee. This is mainly southern kingdom meeting up now with northern kingdom, right? In a sense.
+- **An officer:** So this is... sorry, Deac. This is mainly southern kingdom meeting up now with northern kingdom, right? In a sense.
 
 - **Deacon Eythan:** In a sense.
 
@@ -1304,7 +1304,7 @@ Reading from *Atkinson's Casket*, an 1830s magazine of historical articles, on t
 
 ## In Closing
 
-*[[2:38:34](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=9514s)]* All right. So we're going to wrap it up there. I'm way past my time. My apologies. Hope you guys enjoyed the show. All praise to the Lord. We're going to come back with the information regarding the Berbers being Israelites of North Africa. We're going to go into that next week. So stay tuned. Hope you guys enjoyed the show, the class. Shout out to the IT team. Shout out to the breakfast team. Did an excellent job today. Excellent, excellent job. Manny, Manny, you did all right. All right, nice, Dee. All praise the Lord for that.
+*[[2:38:34](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=9514s)]* All right. So we're going to wrap it up there. I'm way past my time. My apologies. Hope you guys enjoyed the show. All praise to the Lord. We're going to come back with the information regarding the Berbers being Israelites of North Africa. We're going to go into that next week. So stay tuned. Hope you guys enjoyed the show, the class. Shout out to the IT team. Shout out to the breakfast team. Did an excellent job today. Excellent, excellent job. Manny, Manny, you did all right. All right, nice, Deac. All praise the Lord for that.
 
 **An officer:** Come on, let's give all praises to the Most High. Let's give a round of applause for Deacon for that beautiful class.
 

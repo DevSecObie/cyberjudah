@@ -212,7 +212,7 @@ Reading from the same book, page 158, on the divine book of the toas · read by 
 
 - Wow. So they buried, they knew that the Spaniards came over here because God was mad at them, because they were going off. So they knew, when Esau showed up here, hide our books. They knew what they were going to do with them. They knew what was coming. They knew who was coming, because qu KATU, the Messiah, told them so. All right. He warned them.
 
-- **Officer:** And dick, like you say, they read in the book of Moses. Deuteronomy 28. They had it, and plus they had the prophets, the Old Testament too. First Maccabees, you know, tell them about how they paint their image in the books.
+- **Officer:** And Deac, like you say, they read in the book of Moses. Deuteronomy 28. They had it, and plus they had the prophets, the Old Testament too. First Maccabees, you know, tell them about how they paint their image in the books.
 
 - **Deacon Eythan:** Right, as well. They had the prophets as well. They had Moses, all that. Right. So it's showing you that they had knowledge of that. When Esau came over here, they said, damn, these guys are here now, let's hide this stuff, they're going to destroy it. All right. But obviously they didn't destroy enough of it, because we're reading it. All right. So now let's go to page 161.
 
@@ -336,7 +336,7 @@ Reading from the same book, page 163, on the Hebrew of the Jews after Babylon an
 
 *[[39:13](https://www.youtube.com/watch?v=-8dzLGSTkL8&t=2353s)]* So now, enough of that. Let's go back to Origin of the Indians. I spoke the book again. I said it again. It's all right, it's all right.
 
-**Officer:** Wow. D, Bishop used it in the book anyway.
+**Officer:** Wow. Deac, Bishop used it in the book anyway.
 
 **Deacon Eythan:** B, you have that now, or thean page?
 
@@ -514,7 +514,7 @@ Reading from the book on the *Origin of the Indians*, page 61, on Garcia's argum
 
 - **Deacon Eythan:** All right, perfect. Blow it up, so you can hear it. This is Kal, or Superman, being shown a vision by Zod, and there has been plans to take over the earth since Krypton was destroyed. They're going to turn earth into a new Krypton, which goes into the Bible again, but that's another topic.
 
-- **Officer:** So, dick, so now imagine that this is Daniel, right?
+- **Officer:** So, Deac, so now imagine that this is Daniel, right?
 
 - **Deacon Eythan:** Right. R is Daniel, and Zod is the Lord, pretty much. Right? Because Zod represents righteousness. Superman is the devil, pretty much. Press play. Watch them.
 
@@ -600,7 +600,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 **Deacon Eythan:** I'm going to throw the earth up. Look, I was going... they were in it.
 
-**Officer:** And also, D, feeling it, seeing it. What other book shows any other nation, their God has put them in a situation to know the beginning, the midst and the end of time? There's no other book. There's no other nation. There's no other God that's done that.
+**Officer:** And also, Deac, feeling it, seeing it. What other book shows any other nation, their God has put them in a situation to know the beginning, the midst and the end of time? There's no other book. There's no other nation. There's no other God that's done that.
 
 **Deacon Eythan:** Go through these things. But our people, the prophets. Right. And I let you know that when our forefathers on this side of the world, the Aztecs, when they had the book of Moses, when Esau showed up, they knew it was a rra. They, oh God, that's it, we saw this, it's over. I saw Muma went into the temple, because he knew. He said, start praying to the Lord. But it didn't work. It didn't help. They killed him inside the temple. Right. Read verse three again, 2 edes 12:3. Right, it says in Daniel 7. He was in the trance. He was in it. That's all I want. Now jump to verse 11.
 
@@ -630,9 +630,9 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 >
 > <sup>[39](/bible/2-esdras/11#v39)</sup> Art not thou it that remainest of the four beasts, whom I made to reign in my world, that the end of their times might come through them?
 
-- So, "art not thou it that remainest of the four beasts" in Daniel? You're the last one to go. You're the last. After you there's no more. You're the last. We are living in the time of the Gentiles. We are living in the times of the Gentiles. We are in the fourth beast. The fourth beast is Rome. Where the hell you get Arabs from? Where you get Arabs? Show me how you get an Arab out of Rome. Show it to me. D, the white man is the Arabs? The white man is Italians. That's Rome. How you get Italians as Arabs? How you get that? That's the last ruling. Show me where it says Israel will be the last kingdom on the earth to rule. That's what Obadiah says. So show me something different. Once Edom falls, Israel rise. Savior are come up. That's the last ruling kingdom. How is that Arabs? What are you... what the hell you talking about?
+- So, "art not thou it that remainest of the four beasts" in Daniel? You're the last one to go. You're the last. After you there's no more. You're the last. We are living in the time of the Gentiles. We are living in the times of the Gentiles. We are in the fourth beast. The fourth beast is Rome. Where the hell you get Arabs from? Where you get Arabs? Show me how you get an Arab out of Rome. Show it to me. Deac, the white man is the Arabs? The white man is Italians. That's Rome. How you get Italians as Arabs? How you get that? That's the last ruling. Show me where it says Israel will be the last kingdom on the earth to rule. That's what Obadiah says. So show me something different. Once Edom falls, Israel rise. Savior are come up. That's the last ruling kingdom. How is that Arabs? What are you... what the hell you talking about?
 
-- **Officer:** And also, D, in this period of time, it's relevant due to the language we speak. The language we speak is English, deriving from Romans, right, and Anglo-Saxon and all those. Even the language proves what error that we in. Right? We speak English.
+- **Officer:** And also, Deac, in this period of time, it's relevant due to the language we speak. The language we speak is English, deriving from Romans, right, and Anglo-Saxon and all those. Even the language proves what error that we in. Right? We speak English.
 
 - **Deacon Eythan:** Exactly, exactly. Right.
 
@@ -734,7 +734,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - **Deacon Eythan:** Yep, we just read that earlier. Though thou what? Read again. Though thou exalt thyself as the eagle. And if I'm not mistaken, what was Rome's symbol? Was it the eagle? Of course. When you watch these movies of gladiator, you watch *Gladiator* itself, when you watch kedus, his throne, it's the eagle. His soldiers had eagles on poles, on their flags. That was their symbol. Any movie you watch considering showing roome, Sparticus, you're going to see an eagle on their emblems of Rome.
 
-- **Officer:** And dick, and then whatever movie you watch the Arabs, you see their creson and star, right? They got their own symbols.
+- **Officer:** And Deac, and then whatever movie you watch the Arabs, you see their creson and star, right? They got their own symbols.
 
 - **Deacon Eythan:** Mm.
 
@@ -746,7 +746,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - **Deacon Eythan:** Watch, watch. Verse four. Watch this. And though thou set thy nest among the stars. Did the Arabs build space stations in space? Did they go to the moon? Did they go up there first? Because if you say Russia went up there first, that's the white people. If America went up there first, that's the white people. If you deny the moon landing, you can't deny your GPS, because they have satellites up there. They have satellites up there that they got to go up there and fix. So they're still going in space, and they still have space stations up there. They have power to go in space. If they can split atoms that they cannot see, they can go in space.
 
-- **Officer:** Right. It's witchcraft. Right. D, speaking of that, the satellite: now they have on YouTube, you can live stream the whole earth now.
+- **Officer:** Right. It's witchcraft. Right. Deac, speaking of that, the satellite: now they have on YouTube, you can live stream the whole earth now.
 
 - **Deacon Eythan:** Yeah, Google Earth.
 
@@ -754,7 +754,7 @@ Reading from a scene from the movie *Man of Steel*, Zod showing Kal his plans fo
 
 - **Deacon Eythan:** Watch it spin all night long. Watch it spin like rim, just spinning, spinning with lights. You see, it's because Esau up there already. Esau is up there. So you can deny the moonland if you want to. The Bible doesn't.
 
-- **Officer:** Right. One more thing, D, with that point that you made. We can't pull nothing up in the dictionary? Dude say what kind of … are they?
+- **Officer:** Right. One more thing, Deac, with that point that you made. We can't pull nothing up in the dictionary? Dude say what kind of … are they?
 
 - **Deacon Eythan:** They're all the same … all the same.
 
@@ -884,7 +884,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - Should be what? Killed. What happened on this side of the world? They killed them. If you did not worship Caesar, you were put to death. If you didn't worship Caesar over there in Spain and Portugal, you were put to death and solden slavery. Same thing. Doing the exact same thing. Did the Arabs do that? Did the Arabs do that? You can't... listen, some of you make stupidity in art. I'm telling you, damn stupid. It's another level of stupidity right there. Damn high. It's like super saiyan idiots. I don't know, they go be like Super Saiyan God … I don't know how to put it.
 
-- **Officer:** But you know what's crazy about it too, D? Even in this day and age, where our people are lost in Christianity, are lost in the false image of their God, they're still killing you.
+- **Officer:** But you know what's crazy about it too, Deac? Even in this day and age, where our people are lost in Christianity, are lost in the false image of their God, they're still killing you.
 
 - **Deacon Eythan:** Yep. They still killing you.
 
@@ -938,7 +938,7 @@ Reading from a Mariam dictionary on the word Duke, read off the phone  *[[1:19:3
 
 - To kill with the sword, and with hunger, and with death, and with the beast of the earth.
 
-- **Officer:** Bishop of the sou before, about regarding them straighten diseases. They used animals to do it. Hey, D, fetal and animal tissue. They use this to create diseases. That's over here. Remember the COVID-19? All the weapons, all that stuff, is here, and they ship it over to China. And you know, this is just a lower sense of Revelation.
+- **Officer:** Bishop of the sou before, about regarding them straighten diseases. They used animals to do it. Hey, Deac, fetal and animal tissue. They use this to create diseases. That's over here. Remember the COVID-19? All the weapons, all that stuff, is here, and they ship it over to China. And you know, this is just a lower sense of Revelation.
 
 - **Officer:** What's coming to me as I'm reading this: it's ironic how you had William Cooper that wrote a book, and the name of the book was *Behold a Pale Horse*. Right? And inside that book he was giving you a lot of government intelligence secrets about UFO, all these tests they doing on humans. That's also the death. That's the same death the Bible's talking about. And it's ironic how Esau named that book *Behold a Pale Horse*: the death that America is creating.
 
@@ -1084,7 +1084,7 @@ Reading from *The View*, page 234, on Zechariah 8 and the west country · read b
 
 - **Deacon Eythan:** They knew that, 1825, this book. You can't make this up, man. You cannot make get up.
 
-- **Officer:** They know. D, just to get that straight, go back down, scroll back down, the part where it says this country, going down to the sun. What part was that? Going down the sun from Palestine is over America. Is that saying that Jerusalem is over America? I just want to clarify that phrase right there.
+- **Officer:** They know. Deac, just to get that straight, go back down, scroll back down, the part where it says this country, going down to the sun. What part was that? Going down the sun from Palestine is over America. Is that saying that Jerusalem is over America? I just want to clarify that phrase right there.
 
 - **Deacon Eythan:** It says the going down of the sun from Palestine is over America. I believe the east... he's saying the east. The east side is over this nation. Right.
 
@@ -1324,7 +1324,7 @@ Reading from *The View*, page 235, on Zechariah 10:6-9 and the hissing for Ephra
 
 - **Deacon Eythan:** Correct. Esau knows who Paul was talking to. Esau understands who the heathen are throughout the New Testament. It's you Christians and Christianity cults that are confused. We're not confused up here. We know what we're talking about. Okay.
 
-- **Officer:** Hey, D, my man probably killed himself after he wrote all this.
+- **Officer:** Hey, Deac, my man probably killed himself after he wrote all this.
 
 - **Deacon Eythan:** He probably did, man. Yeah. He could... he still stayed alive, man. You know, Lord will come back, or give him in playment. Give him a job. Hav build the walls.
 

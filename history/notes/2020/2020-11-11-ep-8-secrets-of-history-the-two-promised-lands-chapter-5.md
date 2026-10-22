@@ -313,7 +313,7 @@ Reading from *View of the Hebrews*, pages 108 to 109, on William Penn's account 
 
 - **Deacon Eythan:** I don't see it.
 
-- **Another co-host:** Did we just popped up in the text, dick? That's not our fault, you know what I mean?
+- **Another co-host:** Did we just popped up in the text, Deac? That's not our fault, you know what I mean?
 
 - **Deacon Eythan:** But there's no way around this history, man. The ten tribes, the Native Americans, the so-called Mexicans, they are in fact the Israelites that the Bible speaks about.
 
@@ -383,7 +383,7 @@ Reading from *View of the Hebrews*, pages 108 to 109, on William Penn's account 
 
 - **Deacon Eythan:** It did. I can't... I cannot knock it. I won't give Levi the credit when it is due, okay.
 
-- **A co-host:** Hey dick, you know we like to stick to the law. Could I just get one scripture real quick? I want to not leave...
+- **A co-host:** Hey Deac, you know we like to stick to the law. Could I just get one scripture real quick? I want to not leave...
 
 - **Deacon Eythan:** I want to speak all of a sudden now. Last three hours longer than what it already is.
 
@@ -403,7 +403,7 @@ Reading from *View of the Hebrews*, pages 108 to 109, on William Penn's account 
 
 - **A co-host:** All praises to the Most High.
 
-- **Deacon Eythan:** Continue, sir, with the superiority of the tribe of Levi. That's where you left, dick, right?
+- **Deacon Eythan:** Continue, sir, with the superiority of the tribe of Levi. That's where you left, Deac, right?
 
 - **A co-host:** I don't want you... oh, you're going to do this right now? It's not about... remember on the page earlier, when I read about the 12 stones?
 
@@ -705,7 +705,7 @@ Reading from the Fire Keepers website, on the 800 ancient stones with Hebrew wri
 
 > <sup>[10](/bible/luke/8#v10)</sup> And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.
 
-- **A co-host:** You see, then that's the only unfortunate thing about all this. All this evidence, all this fact is coming out, some of you will still not understand. But those that God chose to understand will understand, that here you got leaders, you got men of understanding that God is working with to bring it up, bring out this truth. And if you don't get it, you don't get it. All right, Dee, that's it.
+- **A co-host:** You see, then that's the only unfortunate thing about all this. All this evidence, all this fact is coming out, some of you will still not understand. But those that God chose to understand will understand, that here you got leaders, you got men of understanding that God is working with to bring it up, bring out this truth. And if you don't get it, you don't get it. All right, Deac, that's it.
 
 - **Deacon Eythan:** All right, so give me Luke 21:15. Luke 21 and 15.
 
@@ -879,7 +879,7 @@ Reading from the label of a photograph of a Cherokee man of the Carolinas · rea
 
 So now go to your left. That says going to war. Now go to your left, seeing what he's wearing. Look at this. Look at his pants. He sees the same thing we saw earlier, what they were in depiction, what they're wearing: fringed up pants. Now go over. Watch this. Go over. Look at the horse.
 
-**A co-host:** Dee, look at the horse.
+**A co-host:** Deac, look at the horse.
 
 **Deacon Eythan:** The... and fringes on the horse, and him too, matching his horse. You're all matching each other, going to war full of the spirit of the Lord, right, on the wall. Fringed out.
 
@@ -891,7 +891,7 @@ So now go to your left. That says going to war. Now go to your left, seeing what
 
 **Deacon Eythan:** Right, yeah, outside the chief right there. So you're going to war, so you know that's gotta go in the war.
 
-**A co-host:** So dick, so these... especially like we mentioned before, these sisters running a mouth, they don't have the spirit of understanding. So this picture right here actually shows that our horses look better than you big mouth sisters.
+**A co-host:** So Deac, so these... especially like we mentioned before, these sisters running a mouth, they don't have the spirit of understanding. So this picture right here actually shows that our horses look better than you big mouth sisters.
 
 **Deacon Eythan:** Yeah, pretty much.
 
@@ -1210,7 +1210,7 @@ Reading from Chief Joseph Riverwind's biography, on the same website · read by 
 
 - Not for that fold, of his own foe, Judah. He should gather together in one: gather together one stick, Jose and Julia, put together again, one folds. That were what? That was scattered abroad. But the ten tribes, or nine, were scattered abroad. The majority of Judah, the majority of Judah remained in the land, but not the northern kingdom. Primarily was scattered abroad. Why? Because what... what happened? They received no mercy, and they were what? Not his people anymore. So they were... they were scattered and dispersed, first during Assyria, then Judah took over after. But Judah came... but, you know, came back. Ephraim did not come back. Not all of them, not entirely. All right, so told you this is the children of God that are scattered abroad. Give me Isaiah 7 verse 1.
 
-- **A co-host:** Dick, would you also say this shed light on Matthew 15:24?
+- **A co-host:** Deac, would you also say this shed light on Matthew 15:24?
 
 - **Deacon Eythan:** Yes. What does this came to do?
 
@@ -1322,7 +1322,7 @@ Blessings to y'all, and much thanks and appreciation to you also, to them, and a
 
 **A co-host:** So, iuic.philadelphia at israelinight.org: if you want to donate, just put in the notes section Our Hidden History show, if you want to help assist us to upgrade us, and also the books that we cannot purchase. In addition, support the troops... to support the truth and get in this truth throughout the four corners of the earth: donate to the Booster Club, iuic.fundraiser at israel united org. Once again, iyc.fundraising at israel united.org. All praise the Most High.
 
-**Another co-host:** Yes, yes, yes. And last but not least, let's give the Lord a round of applause for putting the spirit on Deacon, weekly, consistently bringing out this truth. So all praises to the Most High for blessing us with our Deek.
+**Another co-host:** Yes, yes, yes. And last but not least, let's give the Lord a round of applause for putting the spirit on Deacon, weekly, consistently bringing out this truth. So all praises to the Most High for blessing us with our Deac.
 
 **Deacon Eythan:** Yes sir, yes sir. All right, and Lord's will, see you next week. Shalom.
 

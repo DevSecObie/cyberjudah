@@ -21,7 +21,7 @@ tags: ["Our Hidden History", "nations", "purpose"]
 
 *[[8:05](https://www.youtube.com/watch?v=9rlSaPyeYrA&t=485s)]* I was told by a mysterious source to watch a movie. It's called Captive State. Called Captive State, about aliens taking over the earth, and everything is going well and the humans are mad because they're under these rules, you know. So I kind of had the concept of, said, I said let's say that, see that, because I kind of had like the kind of had... it was, it was, I was introduced to the movie in a way where it, I thought it was going to be good. And I watched it and I kept falling asleep on it because it was so bad. Then brother was like, yeah man, you know the aliens are black. You know, aliens are black, all right, cool, black people aliens aren't. Not watching it, and the aliens were not black people, they were just black. Literally their color was black, and the movie was terrible. You know, it was black, black, black. There was a black dick, yeah, like spikes. Some of it was terrible, man. Was Captive State. And you thought it was a good movie? Something wrong with your spirit, man.
 
-**A co-host:** Hey D, movie's terrible. Nick, I'm hearing this: brother office Abaddon is two for five with movies, man, and he still recommended movies. Yeah, he said, yo man, yo, don't go to the movies, man. What you gonna go see? Here, we gonna see Monster Hunter. And I'm like, Monster Hunter? You're gonna go see that in the theaters? You're gonna pay to see that? You're gonna actually go into your wallet and pay the teller to see that? And like, wow. Right. You had T.I. and that chick purple … Mala … Oh my God. That's strictly on Fire Stick right there. You don't know that's a Fire Stick original, bro.
+**A co-host:** Hey Deac, movie's terrible. Nick, I'm hearing this: brother office Abaddon is two for five with movies, man, and he still recommended movies. Yeah, he said, yo man, yo, don't go to the movies, man. What you gonna go see? Here, we gonna see Monster Hunter. And I'm like, Monster Hunter? You're gonna go see that in the theaters? You're gonna pay to see that? You're gonna actually go into your wallet and pay the teller to see that? And like, wow. Right. You had T.I. and that chick purple … Mala … Oh my God. That's strictly on Fire Stick right there. You don't know that's a Fire Stick original, bro.
 
 **Deacon Eythan:** I guess it's generational. So we've learned what generation I'm from: from the chosen generation. Yeah. World War Z. So, you know, so let's give a shout out to Abaddon for his portation movies and his encouragement in watching them and convincing us to watch it. It's all, it's all witchcraft. I'll take three chances to believe. All right, yeah, we gotta also blame Zakai as well, for act like he didn't know what he was talking about. Thank you guys as well, your part. You're also involved in that, in this misery that I watched for two hours. All right, so let's continue. Let's go Second Maccabees 1:18.
 
@@ -157,7 +157,7 @@ tags: ["Our Hidden History", "nations", "purpose"]
 
 - Right, so Jeremiah hid the ark of the covenant. No one knows where it is. You people say, oh, it's over here. No one knows where it is.
 
-- **A co-host:** Oh dick, so he's not in Ethiopia?
+- **A co-host:** Oh Deac, so he's not in Ethiopia?
 
 - **Deacon Eythan:** No, it's not Ethiopia. Sorry brothers in Ethiopia, it's not. You don't have the ark of the covenant. Jeremiah hit it. Verse eight.
 
@@ -219,7 +219,7 @@ tags: ["Our Hidden History", "nations", "purpose"]
 
 - So I was going to say, what we seen right here in with the stars right in front of us is confusion. The same confusion that we had the law not to marry the other nations, today we see that confusion. So now we read in Nehemiah 9, the second verse: we understood that we went wrong, we went off by God. Right. So now this is, now they're telling you we're identity extremists, because we know who we are now and we're changing and disconnecting ourselves from their customs. Right, right, exactly.
 
-- *[[34:58](https://www.youtube.com/watch?v=9rlSaPyeYrA&t=2098s)]* **A co-host:** Hey dick, I wanted to bring out the point, going back, when you look at the brown babies, and the brown babies in Germany. All right, so remember, like, though, after, also referred to as Afro-Germans. Right. After brown babies, World War II. Look that up: brown babies, Afro-Germans. Heavy history. Yeah, this is World War Two. So the men, our men, Jake men, were going over in Germany sleeping around with east, these eating women. They call them arrogant women, area women, Aryan women, white women. They sleep with them, leave, come back home like nothing happened. Then next you know they started having brown babies. Now why would they call them brown babies? Esau, no, they were still Jake. Right, they were Jake babies. But they were, and they was going through, in this, I watched it, in the school system they still had afros and so forth, and they were still treated like … So let you know Esau know what's up. They, you know, you still Jake.
+- *[[34:58](https://www.youtube.com/watch?v=9rlSaPyeYrA&t=2098s)]* **A co-host:** Hey Deac, I wanted to bring out the point, going back, when you look at the brown babies, and the brown babies in Germany. All right, so remember, like, though, after, also referred to as Afro-Germans. Right. After brown babies, World War II. Look that up: brown babies, Afro-Germans. Heavy history. Yeah, this is World War Two. So the men, our men, Jake men, were going over in Germany sleeping around with east, these eating women. They call them arrogant women, area women, Aryan women, white women. They sleep with them, leave, come back home like nothing happened. Then next you know they started having brown babies. Now why would they call them brown babies? Esau, no, they were still Jake. Right, they were Jake babies. But they were, and they was going through, in this, I watched it, in the school system they still had afros and so forth, and they were still treated like … So let you know Esau know what's up. They, you know, you still Jake.
 
 - **Deacon Eythan:** Right, I still, you know. Right. And the ones that passed, that pass for white, because, you know, sometimes black men will marry white women and kids come out real light as hell. They ended up being adopted into white families and raised as white. So you got a bunch of German people walking around right now, I … …, this … that, but you're a … too, cause your great-great-grandfather's a brown baby. Likewise Vietnam, the same thing in Vietnam. He was going to Vietnam, random Vietnamese women out making babies all over the damn place. And remember Vietnamese, they're already brown. Right. So there you go: you got brown babies with eight little, little, you know, the Asian features, and they black people. So let me show you what they were called: Afro-Germans.
 
@@ -443,7 +443,7 @@ tags: ["Our Hidden History", "nations", "purpose"]
 
 - And that... I'm sorry. So keeping God's law is to love your own people, pretty much, and marry your own people. Right. When I say own people, I don't mean just blacks only, you stupid ass … negros. I'm talking about Hispanics and Native Americans and those of us, the other diaspora. Right. Because Native Americans and Hispanics are our people. I don't care how light and pale they are. Because some of you … as dark as night, and you Caucasians too. How about that? Huh? How about that? Some of you walk around black is his shirt, and your daddy's daddy's daddy's daddy is the devil the Bible speaks of. All right. You have no clue. You have no clue, because you have no registry, no record of linear. None.
 
-- **Officer:** So wait, D, you see a slave master fall out the trio. Right. Take your damn family tree, a cracker fall out.
+- **Officer:** So wait, Deac, you see a slave master fall out the trio. Right. Take your damn family tree, a cracker fall out.
 
 - **Deacon Eythan:** Either might fall out. That's racist. Be politically correct: and Edomite will... biblically correct, and Edomite will fall out. Damn, you don't know. Damn. Your DNA test is Deuteronomy 28, Lamentations, Joel three. That's right. That's your DNA, DNA test. Verse 30. Now verse 30.
 
@@ -911,7 +911,7 @@ tags: ["Our Hidden History", "nations", "purpose"]
 
 - Right. So we are the elector. The angels will gather his elect from the four corners of the earth. Remember, the earth is four corners: north, south, east and west. Israel scattered within those areas, within those lands, among those people, within those regions, north, south, east and west. If you go to Africa, that goes... that's going into the east hemisphere, west hemisphere. But we're scattered all over the place, you know.
 
-- **A co-host:** Look, dick, the second paragraph for that too: I even, I have even called thee by died him. You know, the Most I know, he knows who sue, right? He's going to know.
+- **A co-host:** Look, Deac, the second paragraph for that too: I even, I have even called thee by died him. You know, the Most I know, he knows who sue, right? He's going to know.
 
 - **Deacon Eythan:** So my name, my name is... Okay, you're Israel. You're not. You're Israel. You're not. You're staying, you're coming. You're staying, you're coming.
 
@@ -951,7 +951,7 @@ tags: ["Our Hidden History", "nations", "purpose"]
 
 **Deacon Eythan:** We out there doing the work. You ain't got mine to work, you just get out the way, man. Got the way, man. You're busy.
 
-**Caller:** Exactly, exactly. If you ain't about this work, you ain't, you ain't doing nothing. Right, right, right. For that, man. All right. Excellent topic, man. Y'all keep doing what y'all doing. I just want to call them to shout y'all out loud. All praises. Shalom. What's up, guys? All praises to the Most High God for the safe return of our prophets, man. Yep. Right. Very beautiful mission, successful mission, and it's motivating all of us to keep pushing. Deke, and the work is, is, is remarkable. All praise of the Most High.
+**Caller:** Exactly, exactly. If you ain't about this work, you ain't, you ain't doing nothing. Right, right, right. For that, man. All right. Excellent topic, man. Y'all keep doing what y'all doing. I just want to call them to shout y'all out loud. All praises. Shalom. What's up, guys? All praises to the Most High God for the safe return of our prophets, man. Yep. Right. Very beautiful mission, successful mission, and it's motivating all of us to keep pushing. Deac, and the work is, is, is remarkable. All praise of the Most High.
 
 **Deacon Eythan:** Yeah, definitely, definitely.
 

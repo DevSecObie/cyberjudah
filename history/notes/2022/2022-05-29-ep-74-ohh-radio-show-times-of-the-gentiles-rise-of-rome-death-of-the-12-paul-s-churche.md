@@ -928,7 +928,7 @@ Reading from a history book of Paul's cities; the book is not named · read by t
 
 - **Deacon Eythan:** Yeah, I'm trying to avoid it. I'm not going to read that. Let's take the topic somewhere else. And no, you cannot be a spiritual Israelite. No, that's not a thing. No such thing.
 
-- **Co-host:** Hey, D, long ago you did a class, I had land back off the class too. You brought up this Wikipedia. It was called Jewish Christians. And you showing how the apostles and all the Jews that they were going to were the direct lineage.
+- **Co-host:** Hey, Deac, long ago you did a class, I had land back off the class too. You brought up this Wikipedia. It was called Jewish Christians. And you showing how the apostles and all the Jews that they were going to were the direct lineage.
 
 - **Deacon Eythan:** Oh yeah, Jewish Christians, I think. Origins of Christianity; I forgot what the class was.
 

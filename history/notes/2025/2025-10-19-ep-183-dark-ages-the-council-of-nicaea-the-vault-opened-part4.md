@@ -1434,7 +1434,7 @@ Reading from Richard Watson's dictionary, page 766  *[[1:29:10](https://www.yout
 
 - **Deacon Eythan:** Yep.
 
-- **Text:** Shalom. Most High Christ bless. Can leadership please have Cap or Dee reach out to me after class? I'm in need of serious counsel concerning life and death matters.
+- **Text:** Shalom. Most High Christ bless. Can leadership please have Cap or Deac reach out to me after class? I'm in need of serious counsel concerning life and death matters.
 
 - **Deacon Eythan:** Y'all can't send texts like that, man. That don't make no type of sense to send text like that at all. I don't know who you are. Sending a text saying life and death. That doesn't make any sense.
 

@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 ## Introduction
 
-*[[6:40](https://www.youtube.com/watch?v=sKm1mejWL0U&t=400s)]* Okay, we're back. We are back. Welcome y'all. Welcome, welcome, welcome to another episode. You are now tuned into Our Hidden History. It's been a while. Yo, D, you started off. I'm sorry. Yeah, I started confused. All right, you are now tuned into Our Hidden History radio show. Right. Back. This came from ATL. That's what it was. ATL messed me up.
+*[[6:40](https://www.youtube.com/watch?v=sKm1mejWL0U&t=400s)]* Okay, we're back. We are back. Welcome y'all. Welcome, welcome, welcome to another episode. You are now tuned into Our Hidden History. It's been a while. Yo, Deac, you started off. I'm sorry. Yeah, I started confused. All right, you are now tuned into Our Hidden History radio show. Right. Back. This came from ATL. That's what it was. ATL messed me up.
 
 *[[7:44](https://www.youtube.com/watch?v=sKm1mejWL0U&t=464s)]* All praise to the Most High, man. We're back. We are back. It's been a while. … Still turned up, right? Still turned up, man. All praise to the Most High. The booster club. Shout out to the booster club. Shout outs to y'all, man. We got the clap for the booster club. Come on, Judah. Come on, Prince of Judah. Your contributions, we appreciate y'all. We appreciate y'all for all that you do. Could not be done without you. The endeavors that we seek to fulfill are done thanks to y'all and your willful, cheerful contributions and donations. We thank you for that.
 
@@ -148,7 +148,7 @@ Reading from Wikipedia, on the Yoruba word *oyinbo*, pulled up on air at the gue
 
 > Oyinbo is a Yoruba word used to refer to white people.
 
-- **Guest:** Hey D, can we get this Wikipedia real quick? The Yoruba word for Esau. So in Africa, in the Yoruba language, they call them oyinbo, right? So our people always knew in Africa that Esau was different, that they had no pigment, right? Watch this.
+- **Guest:** Hey Deac, can we get this Wikipedia real quick? The Yoruba word for Esau. So in Africa, in the Yoruba language, they call them oyinbo, right? So our people always knew in Africa that Esau was different, that they had no pigment, right? Watch this.
 
 - **Deacon Eythan:** I'm reading. I can read that. Damn.
 
@@ -432,7 +432,7 @@ Reading from *Essays in History* by R. H. Patterson, page 121, continued  *[[50:
 
 > Prichard thinks the Libyans and Iberians were distinct races, but owns that they were found intermingling in the islands and along the western shores of the Mediterranean.
 
-- **Guest:** Hey D, I wanted to say, on this page, this page is heavy, man. Now the word, the country Mauritania, is the country in North Africa that we ran to. Right. The Greeks and Romans named that country Mauritania because of the root word mauri, which goes back to black. They found black people in that country. Moor. That's where they named it. Mauritania, or Morocco. Same place.
+- **Guest:** Hey Deac, I wanted to say, on this page, this page is heavy, man. Now the word, the country Mauritania, is the country in North Africa that we ran to. Right. The Greeks and Romans named that country Mauritania because of the root word mauri, which goes back to black. They found black people in that country. Moor. That's where they named it. Mauritania, or Morocco. Same place.
 
 - **Deacon Eythan:** Prichard thinks that the Libyans and Iberians were distinct races. They were. It's Hamite and Semite.
 
@@ -482,11 +482,11 @@ Reading from a clip from the show *1923*, played from the OHH Telegram  *[[54:04
 
 - **Deacon Eythan:** He didn't say southern Spain. He said Spain, Italy. Period. He just went in. He said southern France was ruled by black men, as well as Spain and Italy. Y'all think we just … up here with that hate white folk? No. What I'm showing y'all is the history. Our hidden history is in movies too, and shows. What I'm saying to y'all, they have conversations among themselves about it. Everyone knows what we were doing. They know these things. We know these things.
 
-- **Guest:** D, how you come across this movie, though, man?
+- **Guest:** Deac, how you come across this movie, though, man?
 
 - **Deacon Eythan:** My brother posted it in the captains' gram. Okay. And I was like, Yo, yoink, snatch that joint. I said, Download it ASAP.
 
-- **Guest:** Hey D, you know why they're so confident that they can put that information out there? Because black people have no common sense to connect dots. It becomes just like that Boondocks episode when Huey was telling his grandfather about the history of Christmas. And all he heard was... That's all black people hear when they see that stuff. They like, Oh, okay. And then they look at the special effects of the show.
+- **Guest:** Hey Deac, you know why they're so confident that they can put that information out there? Because black people have no common sense to connect dots. It becomes just like that Boondocks episode when Huey was telling his grandfather about the history of Christmas. And all he heard was... That's all black people hear when they see that stuff. They like, Oh, okay. And then they look at the special effects of the show.
 
 - **Deacon Eythan:** This is threat assessment. They seeing where we at. Are we going to pick that up? They know how people are. They know. I'm telling you. Go back to the beginning of the video. Press play.
 
@@ -526,7 +526,7 @@ Reading from a clip from the show *1923*, played from the OHH Telegram  *[[54:04
 
 - Not only was it built, it was built with no nails. The stones are cut so perfect they just put them together like Legos. It was called dovetailing. There was no hammers and nails heard in the land when the temple was being constructed, because everything was pieced together like a puzzle. The temple had no nails and hammers holding it together. It was all stone cut perfectly, in perfect symmetry, to match each other. Let's get it. I'll show you.
 
-- **Guest:** Nah, that's not possible. D, you're making that up. Hey, Tertullian doesn't believe you. D, Tertullian doesn't believe what you're saying. D, Augustine says you're blaspheming.
+- **Guest:** Nah, that's not possible. Deac, you're making that up. Hey, Tertullian doesn't believe you. Deac, Tertullian doesn't believe what you're saying. Deac, Augustine says you're blaspheming.
 
 - **Deacon Eythan:** Look up dovetailing. Hold on to that and get dovetailing. It says no nails. Let me see. It's been a while. Bear with us, man. Speak, man. Say something, man.
 
@@ -1268,7 +1268,7 @@ Reading from a dictionary entry for *Renaissance*, looked up on air  *[[2:13:00]
 
 - The deadly wound was what? It was healed. Regeneration. Heal. Rejuvenated. Rebirth. Reborn. New birth. New beginning. There you go. So renaissance means the rebirth of the white man gaining dominion over Europe, that he once had, a possession back from Jacob. That's what it is.
 
-- **Guest:** I was going to say, D, that's why the prophecy, when the lion was speaking to the eagle in Esdras: appear no more.
+- **Guest:** I was going to say, Deac, that's why the prophecy, when the lion was speaking to the eagle in Esdras: appear no more.
 
 - **Deacon Eythan:** I have that, but I have no time. I have that there. Okay. I'm not going to read it.
 

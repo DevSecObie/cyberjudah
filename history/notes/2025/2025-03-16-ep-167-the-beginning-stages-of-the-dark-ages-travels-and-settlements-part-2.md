@@ -1071,7 +1071,7 @@ Reading from *Caesar and Christ*, page 47 onward, on Hannibal · read by an offi
 
 - **Officer:** Soldier's training. Look at that.
 
-- **Officer:** D, going back to that soldier's training: remember, the Spartans had what they called the agoge. That's all part of the gentleman's schooling. Remember how the knights in Europe, they were all gentlemen: a code of conduct for the warriors. So it wasn't just to learn languages or literature and history; they also learned how to fight.
+- **Officer:** Deac, going back to that soldier's training: remember, the Spartans had what they called the agoge. That's all part of the gentleman's schooling. Remember how the knights in Europe, they were all gentlemen: a code of conduct for the warriors. So it wasn't just to learn languages or literature and history; they also learned how to fight.
 
 - **Deacon Eythan:** That's where they get that movie from.
 

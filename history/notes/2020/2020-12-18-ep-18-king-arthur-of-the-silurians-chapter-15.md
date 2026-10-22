@@ -490,7 +490,7 @@ Reading from tweets read on air, said to be the vaccine cure lady's, from 10 yea
 
 - Who's going to read it? I'm sorry. What's the name? HLB4. Oh, RT, Beautiful Black.
 
-- **A co-host:** I will probably end up your house to be HLN. House lady …, the house … lady. HNL. I like that, Dick.
+- **A co-host:** I will probably end up your house to be HLN. House lady …, the house … lady. HNL. I like that, Deac.
 
 - **Deacon Eythan:** Yeah, thank you, thank you. Read that.
 
@@ -526,7 +526,7 @@ Reading from tweets read on air, said to be the vaccine cure lady's, from 10 yea
 
 - **A co-host:** Right. They probably just, yeah, they probably raised her.
 
-- **Deacon Eythan:** Yes, they probably raised her up or something, who knows. The bottom line is that if that's her comments, we know we're dealing with, you know, she knows she's the black La Malinke. This is the same thing, same, same thing, La Melissa. Same, same thing, if, if, if she's even involved slightly in that vaccination nonsense. Let's go back to my class, man. Ezekiel 28, let's go back. Oh dang, Dick, I didn't even realize he's throwing it. Okay, 14. Ezekiel 28 verse 14.
+- **Deacon Eythan:** Yes, they probably raised her up or something, who knows. The bottom line is that if that's her comments, we know we're dealing with, you know, she knows she's the black La Malinke. This is the same thing, same, same thing, La Melissa. Same, same thing, if, if, if she's even involved slightly in that vaccination nonsense. Let's go back to my class, man. Ezekiel 28, let's go back. Oh dang, Deac, I didn't even realize he's throwing it. Okay, 14. Ezekiel 28 verse 14.
 
 </div>
 
@@ -802,7 +802,7 @@ Reading from the book he calls *Venetian Origin*, page 147, on the name Kimray  
 
 - See that? So the lost ten tribes came over, they named that area Omri, or Kimri, after that king, northern kingdom. So they were definitely there. But I'll leave it open-endings, can be made. Also it goes back to the word, I think, Cambridge or Cambrian, I believe.
 
-- **A co-host:** And Dick, if you look at the bottom: who is mentioned in the tribute list of the Assyrian king of Charles Manessa the Second. That's the same thing when you read in the Second Estrus about them, right?
+- **A co-host:** And Deac, if you look at the bottom: who is mentioned in the tribute list of the Assyrian king of Charles Manessa the Second. That's the same thing when you read in the Second Estrus about them, right?
 
 - **Deacon Eythan:** Right, exactly. Definitely something to do with the ten tribes. Right. Some would do the ten tribes. So it says Kimberly, definition: the Brethonic branch of Celtic people, comprising present-day Welsh. Right. Kimroo, Kimri, right? Going back to, hold on a second, let me just get some more information on that. Hold on. Defuse to describe the land at the people. It goes back to Cambria, or Cambrian. Cumberland, Cambria. Romans referred to lands in Britain southwest as Cambria, and then north as Cumbria, while the lands in the middle were Kimri. Yup. So that's the same thing. That's where the name comes from. Romans bought it, named the Cambria, Cumbria, Cambrian. That's where it comes from. All right, Cambria, Cambrian. I got a book called Cambrian also. This goes into the Silurians as well. So what you're going to use today, that is, that's all I want.
 
@@ -826,7 +826,7 @@ Reading from the 1881 book on the Welsh, page 48, continued · read by a co-host
 
 - There you go. This is supposed? It's not supposed; it's what it is. They are Israelites. Not support. Then why is it supposed? Because they see, okay, these guys have fringes, they keep these customs that these Israelites. Well, these are going to say no, supposed. No, it is. They all, these guys, Saxons, Celts, Two Tutans, which later on became white folks, later, all over time, conquering us, were originally Israelites who intermingled with two, the Etruscans, Jacket, and so forth, and took over parts of the lands, until Eso took over, conquered both of us, and pushed Japan out. Okay.
 
-- **A co-host:** Hey, Dick, and that's crazy, because we pretty much took over the whole world, yet we have to search deep to actually find a lot of stuff about us. Like you said, we read on Joe 9, that they covered the faces of the saints thereof.
+- **A co-host:** Hey, Deac, and that's crazy, because we pretty much took over the whole world, yet we have to search deep to actually find a lot of stuff about us. Like you said, we read on Joe 9, that they covered the faces of the saints thereof.
 
 - **Deacon Eythan:** Right, exactly.
 

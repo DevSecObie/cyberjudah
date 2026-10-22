@@ -26,7 +26,7 @@ tags: ["Our Hidden History", "false-religion"]
 
 **Deacon Eythan:** But we gotta point these things out. We don't put these things out, you won't get, you won't catch on. And those of you who are, again, sisters who've repented, who are trying your best to get your lives right, get your lives together, I was not directing that towards you. If you're offended, that means you still got the devil on you. You still got this up together yet. That's what I'm talking to you. Throw a shoe, wherever it hits, that's who I'm talking to. All right. Like the captain just said, bless this he was not offended to me am I.
 
-**A co-host:** And also, Deke, I remember we were talking about Most eyes pro-family. Well, could we have a family and have children and build a nation without you sisters, right? See, that part went over everybody's head. Yeah, yeah. You play a intricate and important role, but it has to do with you submitting and erasing that false teaching, right, about family, about how to conduct yourself, that was instilled in you by the oppressor, right.
+**A co-host:** And also, Deac, I remember we were talking about Most eyes pro-family. Well, could we have a family and have children and build a nation without you sisters, right? See, that part went over everybody's head. Yeah, yeah. You play a intricate and important role, but it has to do with you submitting and erasing that false teaching, right, about family, about how to conduct yourself, that was instilled in you by the oppressor, right.
 
 *[[9:29](https://www.youtube.com/watch?v=Hz_Gv_CtklY&t=569s)]* **Deacon Eythan:** Well, no. And if y'all notice, I'm very observant. The video that on the flat Sabbath class went out, history class, got thousands of views. I'm like, wow, I'll praise the Lord, I don't know we have so many people watching. The Army's Above and Below video, thousands of views. I'm like, wow. I do a video about Eve and rebellion, few thousand, four thousand, five hates the laws. They're like, nah, you only hear that, you want history. So I'm like, well, I'm gonna give you an issue, but occasionally I'm gonna sidebar. I'm gonna blast y'all, men and women, okay. So don't think this is gonna be, I'm just gonna give you history. You're gonna sit there and buy all these books and be your intellectual and be a … at the same time. No, no. Intellectual, intellectual negro. No, no, no. I will casey throw some shots out there. If you're offended, that's on you. All right.
 
@@ -168,7 +168,7 @@ Reading from a Malcolm X video, mainstream media, from the beginning to 3:50  *[
 
 - I'm sorry. Paul's false force. And also, the flip side, to be mindful also of these music videos that we mentioned, I mentioned yesterday at camp, regarding these women half naked. That is the flip side. Whatever they deem, whatever they put out there that's evil, they'll make it look good. Whatever that's good, they can have the power to make it look evil. That's what he is saying. The media has the power to make anything that looks good bad, and whatever's bad make it look good. All of that is by, all that is of this, it's all of design. It's all pop, popular persuasion. It is all popular persuasion. You must be mindful of these things. That's what he's saying. That's what I was saying to y'all last week, and the week before last. Continue. That's why I got to learn the first, sorry, I gotta learn to pay attention. Some of y'all are so emotional: oh, he's insulting us, oh God, I'm gonna kill myself. I gotta relax.
 
-- **A co-host:** But dick and the real person that's insulting them, they're supporting, right?
+- **A co-host:** But Deac and the real person that's insulting them, they're supporting, right?
 
 - **Deacon Eythan:** Exactly. Continue.
 
@@ -524,7 +524,7 @@ Reading from an MTV article on abortion among religious groups in America, with 
 
 - **Deacon Eythan:** Correct. You cannot be a Christian without that mindset. You cannot. Get the next Malcolm X video. I want, it's called Prison.
 
-- **A co-host:** What up, dick? If you look at the bottom right, yeah, you can read the battle, read about what's that.
+- **A co-host:** What up, Deac? If you look at the bottom right, yeah, you can read the battle, read about what's that.
 
 > But the Christian Protestant was defined as including Seven Adventists, Baptist, Church of Christ, Church of God,
 
@@ -710,7 +710,7 @@ Reading from the same article, on the response in Forbes magazine  *[[1:41:33](h
 
 - They don't hide it. That's, that's that LGBTQ stuff. The, the center start them. They declare it not. Jump the verse, 12.
 
-- So we see it as they show their countenance doth witness against them, and they declare their sin. They declare it: pride, gay pride. They declare their sin as Sodom, they hide it not. They're out the closet now. Watch this. Same, now this is the same chapter. Jump down to verse 12. Watch this, dick.
+- So we see it as they show their countenance doth witness against them, and they declare their sin. They declare it: pride, gay pride. They declare their sin as Sodom, they hide it not. They're out the closet now. Watch this. Same, now this is the same chapter. Jump down to verse 12. Watch this, Deac.
 
 - **A co-host:** That's perfectly good to show that picture with the parents.
 

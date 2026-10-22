@@ -20,7 +20,7 @@ tags: ["Our Hidden History", "nations", "women"]
 
 *[[15:02](https://www.youtube.com/watch?v=KT8iGZ87yrs&t=902s)]* But I want to show y'all, so you know America is in the Bible. Because every, except I said before in classes before, that America is a compilation of every captivity Israel has been in: from Egypt, from Assyria, Babylon, which is the same thing really, and up until the time of the Greeks, the Persians, especially Persia. Yeah, I think it's page 156 of Nelson's. Lava is the one that gave me this book a long time ago. Lotto gave me this book, the Nelson's. I forgot, he mentioned to me he's the one that gave it to me. I forgot he gave me this book years ago. I've been using Nelson's Bible, Bible Maps and Charts for like years now, but Lobbo's the one behind, give it to me. Shout outs a lot for giving me the book. And shots a lot. Before my eyes being on fire. Yeah, just a second, I'm just trying to find this thing really quick.
 
-**A co-host:** Hey D, that's the Nelson's book, that same book he used for a class a while ago to show that from the time period of the Persian in me to until Christ was 400 years.
+**A co-host:** Hey Deac, that's the Nelson's book, that same book he used for a class a while ago to show that from the time period of the Persian in me to until Christ was 400 years.
 
 **Deacon Eythan:** Yep, that's the one. That's the one, that's the one. Yes, that's the one I use.
 
@@ -124,7 +124,7 @@ Reading from *Nelson's Bible Maps and Charts*, page 156, on Ezra and the restora
 
 **Deacon Eythan:** The hell is this? H is probably the heavenly father or something.
 
-**A co-host:** Noah something. Homonym something. Is Latin, there's something homonym. Jesus homonym. Yesus homonym. Jesus the savior of people. Think it's homonym. Damn. Yes. IHS and Catholic, come on. But yeah, let's, okay, it says like you said, Jesus. Orthodox Church. Yeah, they changed that over here. No, no, I'm finding it. But like Deek said, it all goes back to merging the different religions, the paganism. They all merged, because this goes back to Egypt. All this stuff goes back to Egypt. The Sun Ra. Okay. Isis, Horoscope. And then they change what they do. They change the names up to merge it into their paganism, to their gods, and that's why they worship on Sunday.
+**A co-host:** Noah something. Homonym something. Is Latin, there's something homonym. Jesus homonym. Yesus homonym. Jesus the savior of people. Think it's homonym. Damn. Yes. IHS and Catholic, come on. But yeah, let's, okay, it says like you said, Jesus. Orthodox Church. Yeah, they changed that over here. No, no, I'm finding it. But like Deac said, it all goes back to merging the different religions, the paganism. They all merged, because this goes back to Egypt. All this stuff goes back to Egypt. The Sun Ra. Okay. Isis, Horoscope. And then they change what they do. They change the names up to merge it into their paganism, to their gods, and that's why they worship on Sunday.
 
 **Deacon Eythan:** Say again? Jesus?
 
@@ -688,7 +688,7 @@ Reading from *Nelson's Bible Maps and Charts*, pages 162 to 163, on Nehemiah and
 
 - **Deacon Eythan:** All right. So when he, when he went back, when he went back to work, within that time frame is to start going to hell off again. So Malachi stepped in his place, and that's the narcotic takes sixth place. Right. The Nehemiah was gone, narcotics started checking them again, because Nehemiah was, Nehemiah's absence, Malachi steps in. Okay. Because after certain days, it says. All right, so now, oh, that's what I want that for. Go to what page is that? Okay. Go, go over.
 
-- **A co-host:** Hey D, man, we, I just ordered this book, man. Wait for it to come.
+- **A co-host:** Hey Deac, man, we, I just ordered this book, man. Wait for it to come.
 
 - **Deacon Eythan:** This one here. Yes sir. Look, it's bad, man. I got some stuff in there, boy. Me that.
 
@@ -902,7 +902,7 @@ Reading from *Nelson's Bible Maps and Charts*, pages 159 to 161, on Nehemiah · 
 
 - **Deacon Eythan:** Caught one and one.
 
-- **A co-host:** Don't worry, Dee, we get you after this show.
+- **A co-host:** Don't worry, Deac, we get you after this show.
 
 - **Deacon Eythan:** 1-1. I like how one, verse one to eight.
 

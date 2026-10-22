@@ -594,7 +594,7 @@ Reading from a book on the Jews, on their colour among the nations · read by a 
 
 *[[1:43:08](https://www.youtube.com/watch?v=ZgK2SeFqwPw&t=6188s)]* So now let's go back. Give me the App for Kindness now, page 140. And also, I got to do it.
 
-**Co-host:** Yeah, just do it. Go ahead. Bring it out, man. Bring it up. It's therapy. Bring it out, Deke. Yo, get the music, man.
+**Co-host:** Yeah, just do it. Go ahead. Bring it out, man. Bring it up. It's therapy. Bring it out, Deac. Yo, get the music, man.
 
 **Deacon Eythan:** No, no, no, no, no violin. No violence. No, no, no, no violence. Of Israel, right? Twelve childs of Israel. Our women are the best looking women on the earth. That's right. Nothing tops them. No one talks down to that place. They are freaking gorgeous.
 
@@ -610,7 +610,7 @@ Reading from a book on the Jews, on their colour among the nations · read by a 
 
 **Deacon Eythan:** You … up, but that, you make me, make me sick, man.
 
-**Co-host:** Let it out, Deke.
+**Co-host:** Let it out, Deac.
 
 **Deacon Eythan:** That make me sick, man.
 
@@ -618,7 +618,7 @@ Reading from a book on the Jews, on their colour among the nations · read by a 
 
 **Deacon Eythan:** I don't like pancakes.
 
-**Co-host:** Therapy, man. Let you know, let you know. Let him speak his truth. Really is, right, man. We like cake. And truth, dude. Pancakes. We want cake. Speak your truth, Deke. Yeah, I know you're not done. Maybe you.
+**Co-host:** Therapy, man. Let you know, let you know. Let him speak his truth. Really is, right, man. We like cake. And truth, dude. Pancakes. We want cake. Speak your truth, Deac. Yeah, I know you're not done. Maybe you.
 
 **Deacon Eythan:** Oh, yo, we just, like, I ain't, no class is about anymore. I don't know. I don't know what it is. I don't know what it is. Don't say Deacon just went to the dark, round the realm of darkness. I don't know what it is. I don't get it. I don't understand it.
 
@@ -658,7 +658,7 @@ Reading from a book on the Jews, on their colour among the nations · read by a 
 
 - **Deacon Eythan:** That's right. Especially in the kingdom of God, it says, it built like a palace. I don't understand what that means. We still see things now, right? They're like, wow, look at that. Really? It's like, nope, I got something better. Wow. But you gonna go for the, listen, the kingdom ain't happening. The kingdom looking at somewhere, ostrich lips. Don't make no sense. Chimpanzee lips. I don't know. Pay 58. We want after the invasion.
 
-- **Co-host:** Wait, Dick, you want to go back to the Africanus? We didn't.
+- **Co-host:** Wait, Deac, you want to go back to the Africanus? We didn't.
 
 - **Deacon Eythan:** We didn't? Oh, yes, yes, yes. Africanus. Thank you, thank you, thank you.
 

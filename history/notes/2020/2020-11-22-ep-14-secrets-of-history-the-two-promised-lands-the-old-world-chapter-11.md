@@ -338,7 +338,7 @@ Reading from an old book (probably early 1900s or late 1800s), shown on screen a
 
 - Because they're all the same. Same. Mhm. They're all the same people, whether they're circumcised, uncircumcised, whether they're Greek or Jew, whether they're barbarian or Scythian. Cause the Scythians didn't speak the Greco-Roman language, so the Romans and Greeks referred to them as barbarians. They spoke a language outside of Greco-Latin, so you will consider barbarian. We will consider barbarians. Jew, the Hebrew language is barbaric to the Greeks and Romans.
 
-- **A co-host:** And D, it's like, if you not assimilated with them...
+- **A co-host:** And Deac, it's like, if you not assimilated with them...
 
 - **Deacon Eythan:** That's right. You're not... if you're not integrated into that society, you're a barbarian. You're barbaric. Going back to later, later on the series, the Barbary States of North Africa, northwest Africa, morania, they were referred to as Barbary States, or barbarians. Our people over there in Africa were referred to as barbarians also. I'll get to that later on. Give you more spoilers. That's later on in the series also.
 
@@ -570,7 +570,7 @@ Reading from the same old book shown as page images, continued  *[[1:14:56](http
 
 *[[1:21:43](https://www.youtube.com/watch?v=PQxJ8IaBVbw&t=4903s)]* So we had the... so I have, you have Zebulon, Naphtali and Ephraimites, who refer to as the house of Isaac, residing in these areas, Eurasian areas. That would be from Armenia, the caucus mountains. They were up in there, all up in, to India, to ttery. And white man went over there: these guys, these guys remind us of Native Americans. They remind us of the Scythians we encountered over there. They must be the same common origin. Cause Zab was a traveler. So these guys supposed to have a common... they do use the bow, look the same, they keep the same culture. They got to be a common ancestry. Read that earlier on page 136, with Ogle be. So I'm showing you they were called the sons of Isaac. Attach the 10 tribes: Ephraim, Zebulon, Naphtali. Then you have Northern Kingdom on this side of the world, who were good with bowmen also. Same thing. Gad, Reuben, Manasseh. Same thing. We're just putting it together for y'all. Esau been had it together. We just playing catch up. Right.
 
-**A co-host:** Hey D, can I say something?
+**A co-host:** Hey Deac, can I say something?
 
 **Deacon Eythan:** Yeah. Oh, finally. Hold on, hold on.
 
@@ -588,13 +588,13 @@ Reading from the same old book shown as page images, continued  *[[1:14:56](http
 
 *[[1:23:31](https://www.youtube.com/watch?v=PQxJ8IaBVbw&t=5011s)]* Ezekiel 26 verse 1 to 7. We going to read a whole lot of this one. So we got through that. We got through that. All right. Okay, we got through that. So that shows, right, the Anglo-Saxon, you them Edomite, or not Anglo-Saxon. We read earlier that the Anglo-Saxons descend from the Sakai, all those Scythians, the sons of Isaac. They descend from them there. The same people. You're the son of the devil. That will be your King Arthur. That would be... we'll get to that later also.
 
-**A co-host:** Oh man. D, that'll be your King Arthur? All your Knights of the Round Table?
+**A co-host:** Oh man. Deac, that'll be your King Arthur? All your Knights of the Round Table?
 
 **Deacon Eythan:** All that. We going to get into all that. Doing this, D. We going to do... not today, but we going to get there. Hey, so y'all look out, man. Look out. We going to get there. We're going to get there. We're going to get there. Collecting bottles, man.
 
 **A co-host:** There one, there one movie I watched. It's called The Legend of the Sword. The King Arthur movie, Legend of the Sword. Yes sir.
 
-**Deacon Eythan:** Oh, the newest one? The newest one? Oh God, you watch that? You watch that thing? You watch that thing? He grabs a sword and he gets the power from that sword. You watch... the reason why we watch those things, we like, is because that's Esau depicting himself as us. That's why we watch these things. Go: why is this movie so good? Why is it so great? Because it's us. Every historical, like, powerful figure, whether legendary, mythical, who was real, primarily Israel. Hannibal was Jake. Sparticus was Jake. King Arthur was Jake. All these people be like, though... damn, who wasn't Jake, D? Everybody was damn near Jake. Everybody was Israel.
+**Deacon Eythan:** Oh, the newest one? The newest one? Oh God, you watch that? You watch that thing? You watch that thing? He grabs a sword and he gets the power from that sword. You watch... the reason why we watch those things, we like, is because that's Esau depicting himself as us. That's why we watch these things. Go: why is this movie so good? Why is it so great? Because it's us. Every historical, like, powerful figure, whether legendary, mythical, who was real, primarily Israel. Hannibal was Jake. Sparticus was Jake. King Arthur was Jake. All these people be like, though... damn, who wasn't Jake, Deac? Everybody was damn near Jake. Everybody was Israel.
 
 **A co-host:** And Deacon, they always try to say... you got Mark Esau idumi and Riser try to say that, oh, they try to claim heritage to everybody.
 
@@ -890,7 +890,7 @@ Reading from the same old book, the highlighted part, to conclude the Scythians 
 
 - This is all parallels to America's... Revelation 18: Alas, alas, the great city Babylon is fallen. It's fallen. It's the same thing. So it's paralleling. It's paralleling. It's parallel to America. It's going back and forth. The same fate that befell Tyrus for her arrogance and pride was same, false, the same fate for America and her arrogance and pride, regarding her business and her trade and her endeavors and her evils. Remember we read earlier that Tyrus is involved in what? It says my merchants, they traded the persons of men and vessels of brass in thy market. What did America do? The same exact thing.
 
-- **A co-host:** D, can I bring something out real quick?
+- **A co-host:** Deac, can I bring something out real quick?
 
 - **Deacon Eythan:** Yeah, sure.
 
@@ -974,7 +974,7 @@ Reading from a placard from the American Museum of Natural History on 81st Stree
 
 - That's it. That's all I want. Go back to Ezekiel again. Completely parallel. Completely parallel. America is a complete parallel of every major Old World kingdom of ancient time, from Egypt to Tyrus to Babylon to Assyria to Persia to Greece to Rome. America is all of that in one. That's why she's the last and the worst of all of them, cause she literally adopted... you understand? When it comes to empires, Esau was smart, because Esau had gained, has power, and has gained access to all the records of all the dark nations that were overthrown and conquered, and he learned from their mistakes and said, we're not going to do that, we're going to do that, we're not going to do that, we're going to do that. And they became mighty fast. You know, America's new. America ain't old. 1776 is what, 240-something years? Long time? Ain't a long time at all. America is the most powerful superpower on the freaking earth. Makes no sense. That's not, that's not normal. That's of as AB. That's supernatural.
 
-- **A co-host:** Mhm. And also, D, if you look at it, like you said, he compared all the other nations and bring it to his kingdom. And also, when you read the scripture, like all the other nations, we knew who we was as the Israelite. That's what the scripture says. Whenever we in captivity, going to hell, we cry unto the Lord and he saved us. This time around we don't know who we are, so we cannot cry unto the Lord. Right? So then, therefore, the Lord is not really coming to save us...
+- **A co-host:** Mhm. And also, Deac, if you look at it, like you said, he compared all the other nations and bring it to his kingdom. And also, when you read the scripture, like all the other nations, we knew who we was as the Israelite. That's what the scripture says. Whenever we in captivity, going to hell, we cry unto the Lord and he saved us. This time around we don't know who we are, so we cannot cry unto the Lord. Right? So then, therefore, the Lord is not really coming to save us...
 
 - **Deacon Eythan:** Which come, God, but going to take a time. Yeah.
 
@@ -988,11 +988,11 @@ Reading from a placard from the American Museum of Natural History on 81st Stree
 
 - **A co-host:** That's by Dr. Henrik Clark.
 
-- **Deacon Eythan:** Damn. Wait, D, one more time, please. One more time.
+- **Deacon Eythan:** Damn. Wait, Deac, one more time, please. One more time.
 
 - **A co-host:** Dr. Henrik Clark says a people will never be free when they worship a god assigned to them, and they can never respect the black father in the home when they have a white father hanging on the wall.
 
-- **Deacon Eythan:** Damn, damn. All right. That's your Caesar B. Caesar B. That's your daddy. Yo, D, I need a second to breathe, man. Joe Biden. That's Joe Biden. Biden, Biden, your white father. That's your white... Crazy by... oh, oh, I didn't know what that was. You, that's them blowing. That was crazy. I thought that was Creole. We got a new master. We got a new master. Let's dance. Crazy.
+- **Deacon Eythan:** Damn, damn. All right. That's your Caesar B. Caesar B. That's your daddy. Yo, Deac, I need a second to breathe, man. Joe Biden. That's Joe Biden. Biden, Biden, your white father. That's your white... Crazy by... oh, oh, I didn't know what that was. You, that's them blowing. That was crazy. I thought that was Creole. We got a new master. We got a new master. Let's dance. Crazy.
 
 - **A co-host:** And so pretty much the black father, he not even in the home. He pretty much, he's there, but he really not there, cause they worshiping his... right, the real, the real white father.
 
@@ -1086,7 +1086,7 @@ Reading from a placard from the American Museum of Natural History on 81st Stree
 
 - Ah. Read that part again. She is what? She is a mart of nations. She is a mart. Damn. Like, like a supermarket, or Mart, Quickie Mart, like Simpsons, or Mart, Walmart. Walmart, Walmart, Kmart. Wow. She is the mart of nations. She is the mart of the nations. All nations go to her. She's the supermarket. She's the Amazon. She's the Kmart. She's the Walmart, of every BJ's. She is all of that. That's what Tyre was before Alexander came and closed shop. And when he, when Alexander came and closed shop, she got new owners, and those owners was us. We became the new owners. Damn. Okay. And that's how you get Hannibal in them. But well, we're getting there. Nehemiah 13.
 
-- **A co-host:** Wow. Look what... where you want to go, dick?
+- **A co-host:** Wow. Look what... where you want to go, Deac?
 
 - **Deacon Eythan:** Nehemiah 13:15.
 
@@ -1234,7 +1234,7 @@ Reading from ancient.eu, the article on Tyre, the section "Alexander the Great a
 
 - **Deacon Eythan:** He took the ruins from old Tyre. Remember, Nebuchadnezzar attacked it and he overthrew it, took... knock the walls down, like he said in Ezekiel, and then they fled from there to the island. He took the ruins of that and put the rocks and the stones and put all that in the water from the mainland to the island, so he can get there and attack them. Made a bridge. He made a bridge, y'all.
 
-- **A co-host:** Wait, wait. And the land bridge is still there now? Wait, dick, this, this bridge, I mean, he filled it up.
+- **A co-host:** Wait, wait. And the land bridge is still there now? Wait, Deac, this, this bridge, I mean, he filled it up.
 
 - **Deacon Eythan:** He filled the water up. He filled the ocean up. That's rage. That's rage. Filled the water up with rocks until... some of his men died for that. I'm going get... I'm going get you.
 
@@ -1274,7 +1274,7 @@ Reading from ancient.eu, the article on Tyre, the section "Alexander the Great a
 
 - That, it right there in the bottom. That, yeah, that, that, it there. Click that. That gotta be it. That... oh look, go, go... matter of fact, go, go to the map. Go back. Go click, click, click. Back. Right there. Click that right there. No, that's... that can't be it. I said Saudi Arabia. No, ain't it. Ain't it. What's that map there? What that say? That map right there. That map to the left. What's that say? Bridge of the Horns? What's that? Come on, y'all. Let me finding myself.
 
-- **A co-host:** Yeah, D, I'm about to do the same thing.
+- **A co-host:** Yeah, Deac, I'm about to do the same thing.
 
 - **Deacon Eythan:** Please do. Go up, go up. Type in Zidon Island. Try that. I know it's Ziri Island, but try and type in Zidon Island. Maybe it's... maybe I'm way, it's being worded is wrong. Click that. Zidon Island. Is that it right there? The, the second row, third... no, next one over. What's that? What's that say? What does it say over, under it? Come on, we ain't got much time. Come on, y'all. Okay, I got it. You got it? Yeah. All right, put the... send to them. I think that's it right there, cause it is Lebanon. It is. I think this should be it. Don't worry, I got you guys. It's all right. You send it? Yeah. All right, send it. Click that. The island. Blow it up some. Damn. The island's right there. And then you have... move the other arrow. Go down. Go up. That's the island right there. And go down, and go down. What it says? The one connect the bridge during the siege of Alexander the Great. Right there. He built it right there. It's a big bridge. That's not a normal bridge. I thought it's like a small bridge.
 

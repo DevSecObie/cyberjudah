@@ -28,7 +28,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 **Deacon Eythan:** Damn. All right, so I'm gonna go to Daniel 8. Oh no, no, no, no, no, no. We left off Greek activity with the pamphlet regarding Alexander destroying the entire empire, Tire, or empire of the Sidonians. And if you like, I'm not going over that again. That was one of those 33 chapters, so you can reference, I can go back and rewatch the Travels and Decline of Carthage, which is chapter of 14, number 14. After that you have King Arthur and the Sillier East, that's chapters 15 and 16. So lots 14, 15 and 16, excuse me. Which goes into the details of how we ended up migrating from Barbarian Peninsula, from
 
-*[[15:37](https://www.youtube.com/watch?v=-YOJPCpRbXw&t=937s)]* North, North Africa into the Iberian Peninsula, and then from the Iberian Peninsula we ended up migrating further up into Britain, British Isles, the Ireland. I went over all of that, and that's how you got the civilians, who were described as black. They wore fringes, things of that nature, right. And they named, they named Ireland, I believe it was Hibernicum, Ebernicum, I think, Bernicum, right. Yeah, the Hebrides, Hebrews, they're called Hebrides, right, which goes back to Evos, goes back to Hebrews, goes back to what they were. Remember, we, we, we also, because we was a great C power at that time, so we were going to Ireland to get 10 and all of that. Britain, yeah, all the elements that was over there, and you know, so we held that for ourselves. So we kept it on lock, and like Dick said, we just stayed there. We took over the naval, the, how'd I put it, the ocean, or the trade. We took over the trade routes of, of Tyre. When we, because remember Solomon had an alliance with, with Hiram of Tyre. And once Tire fell from Alexander the Great, and they fled into North, Northeast Africa, we were already there in abundance based upon the Assyrian captivity and based upon the Babylonian captivity. So both kingdoms are already residing together in North, at Northeast Africa, which would be known as Carthage. Okay. And if we spread out into Mauritania, that's, you ended up getting the, the Semitic Berbers. We became the Semitic Berbers. Okay.
+*[[15:37](https://www.youtube.com/watch?v=-YOJPCpRbXw&t=937s)]* North, North Africa into the Iberian Peninsula, and then from the Iberian Peninsula we ended up migrating further up into Britain, British Isles, the Ireland. I went over all of that, and that's how you got the civilians, who were described as black. They wore fringes, things of that nature, right. And they named, they named Ireland, I believe it was Hibernicum, Ebernicum, I think, Bernicum, right. Yeah, the Hebrides, Hebrews, they're called Hebrides, right, which goes back to Evos, goes back to Hebrews, goes back to what they were. Remember, we, we, we also, because we was a great C power at that time, so we were going to Ireland to get 10 and all of that. Britain, yeah, all the elements that was over there, and you know, so we held that for ourselves. So we kept it on lock, and like Deac said, we just stayed there. We took over the naval, the, how'd I put it, the ocean, or the trade. We took over the trade routes of, of Tyre. When we, because remember Solomon had an alliance with, with Hiram of Tyre. And once Tire fell from Alexander the Great, and they fled into North, Northeast Africa, we were already there in abundance based upon the Assyrian captivity and based upon the Babylonian captivity. So both kingdoms are already residing together in North, at Northeast Africa, which would be known as Carthage. Okay. And if we spread out into Mauritania, that's, you ended up getting the, the Semitic Berbers. We became the Semitic Berbers. Okay.
 
 *[[17:19](https://www.youtube.com/watch?v=-YOJPCpRbXw&t=1039s)]* And then we migrated into, of course, later on, that's what Islam gained, you know, started to rise later on the years, and we ended up conquering Spain and Portugal and so forth, and we resided there. And you know, we were already there from Babylonian captivity. Historically speaking, not biblically speaking, but historically speaking, we were there. So I'm just giving y'all a quick review of what I already went over, because I'm not trying to go over that again, because that's this way, that's just to me, that's just redundant, you know. It's ridiculous, repetitive. So what else? King Arthur, you're king. Well, he wasn't the king really, he was the chief of the civilian east. His father was still, his father was the king. He was the prince, and he died in battle. He was a very, very tall, a very huge man. He found his bones buried Noah Dumb Shire, something shire, right?
 
@@ -36,7 +36,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 **Deacon Eythan:** Yeah, in Glasgow. All right. Him and his wife are buried with one, you know, she was under him, bury them to him, whatever. It was a pyramid, actually. It was a pyramid, under a pyramid, right, that a monk, a monk had no knowledge of who was buried there. He told the river discoverer, hey, King, King Arthur's here. His name was, and his father's name was Two Ig Ab Murig, App Mirrex. Let's keep those names in mind. The App is being son of. It's all, you know.
 
-**A co-host:** So D, what are we gonna do to keep the people, you know, to refresh their memory, or of what you were just bringing out?
+**A co-host:** So Deac, what are we gonna do to keep the people, you know, to refresh their memory, or of what you were just bringing out?
 
 **Deacon Eythan:** We're going to start chopping up some of the segments, the segments of the history, just to refresh the memory, you know, so everybody gets, still keep that in mind as we, as you proceed in classes. Right. So the reason why I'm mentioning Carthage is because remember, Hannibal came out of there. Hannibal, the whole family of our forefathers, Hannibal, and they came out of Libya and so forth and migrated, you know, westward, and took over the whole top half of Africa, pretty much, from that point on. So give me Daniel, let's see, Daniel 8 and verse 8. Let me see, with that long introduction, let's get into it. Daniel 8 and 8.
 
@@ -260,7 +260,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 - And because we made an agreement, or covenant, with captivity, with our, with the slave master, the oppressor, we're going to be good. Remember it says, when leaving the heathen, we've had much sorrow. We read that earlier. Let's not farm behind the heathen, we've had much sorrow.
 
-- **A co-host:** Hey D, you see that? We see that right now with this, with the jab.
+- **A co-host:** Hey Deac, you see that? We see that right now with this, with the jab.
 
 - **Deacon Eythan:** Yeah, we see that right now, how our people is moving. You got those that's, that's really, that didn't take no thought into it, that just ran and got it.
 
@@ -322,7 +322,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 - Hate that believes in him shall not make haste means shall not be confounded, should not haste to run away. They're going to stand strong. They're going to stand on the foundation of that stone, which is the Messiah, which is Christ. All right. So with that being said, you can call us at, you can call in for any comments or questions regarding the topic at 267-702-6121. That's 267-702-6121. All right.
 
-- **A co-host:** And Dick, you know what makes it worse too? You know the experiment with the syphilis, was it?
+- **A co-host:** And Deac, you know what makes it worse too? You know the experiment with the syphilis, was it?
 
 - **Deacon Eythan:** Yeah.
 
@@ -370,7 +370,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 - **Deacon Eythan:** This is playing with it. That was, there was no value in diamonds. There's none. It's a freaking rock. And women, oh, I want a diamond, I want someone so carriage. It's like, no, it's, it's a rock.
 
-- **A co-host:** So D, it's not up there with the rest of the elements.
+- **A co-host:** So Deac, it's not up there with the rest of the elements.
 
 - **Deacon Eythan:** It's not, it's not gold. And silver is of value, that's the necessity. But a diamond is a freaking rock. Now, I'm not going to say it's not, it is a precious stone, because God calls it a pressure stone, but it's not worth these billions of dollars that have on your neck. It's a rock. And they say women, and women have a man getting their one knee, and that's how it was sold. They kept, they kept showing diamonds, were made popular based upon television. You asked them, if you asked the sisters today, why do you want a ring? What do you want a ring for? What is the ring for? Oh, cause I just wanted. Yeah, but why do you want the ring? Do you want a diamond, or does someone tell you to want the diamond? That's, you got to ask them. Do you always want to dominate? What makes you want a diamond ring? Why? Is it because you personally wanted one, or does someone tell you to desire one?
 
@@ -382,7 +382,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 - **Deacon Eythan:** It was regular.
 
-- **A co-host:** If you look at it too, Dick, like you said, gold is more precious than diamond, because they use gold in more thing that we used today than diamond, right. You understand, like most of the majority of the cell phone has some type of gold, right, and, and them.
+- **A co-host:** If you look at it too, Deac, like you said, gold is more precious than diamond, because they use gold in more thing that we used today than diamond, right. You understand, like most of the majority of the cell phone has some type of gold, right, and, and them.
 
 - **Deacon Eythan:** Yeah, the gold's value never went down.
 
@@ -494,7 +494,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 - **Deacon Eythan:** No, no, no, no, not him. No, absolutely nothing.
 
-- **A co-host:** We did have changed. You know what that shows too, also, Dick, like how white black people, we love
+- **A co-host:** We did have changed. You know what that shows too, also, Deac, like how white black people, we love
 
 - **Deacon Eythan:** Yes, we're in jewelry. You love them. Yes it is, yes.
 

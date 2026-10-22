@@ -222,7 +222,7 @@ Reading from an article on Athrwys of Gwent and the search for the real King Art
 
 - They search out iniquities. That's how they bring out Christmas, New Year's. Where they learn that? Where that custom come from? It's of antiquity. Where's New Year's from? It's of antiquity. The months of the year, antiquity. The days of the week, antiquity. The names of the planets, antiquity. They search these things out. You're going to worship Rome one way or the other, because they search out iniquities. New Year's, Mother's Day, Father's Day, Valentine's Day, birthdays: antiquity. They search it out and they incorporate it into their system. And you stupid ass … will go by and you celebrate it.
 
-- They accomplish a diligent search, both the inward thought of every one of them, and the heart is deep. Because they think 10 steps ahead. Contingency plan A. Contingency plan B. C, D, E, F. So if A fails, they got B in place. If C fails, they got D in place. Damn. So I don't expect you stupid black apologists to think that far ahead. You're not on that level. We are, though. We know what they're doing. We know what they've done. Now let's go back to the article.
+- They accomplish a diligent search, both the inward thought of every one of them, and the heart is deep. Because they think 10 steps ahead. Contingency plan A. Contingency plan B. C, Deac, E, F. So if A fails, they got B in place. If C fails, they got D in place. Damn. So I don't expect you stupid black apologists to think that far ahead. You're not on that level. We are, though. We know what they're doing. We know what they've done. Now let's go back to the article.
 
 <div class="reading">
 
@@ -1056,7 +1056,7 @@ Reading from *Conquest of Spain by the Arab-Moors*, volume one, continued · rea
 
 - They survived off the honey in the crevices of the rock. Job 30. I've been waiting to get that.
 
-- **Officer:** Hey D, you know what's funny, man? … They won't argue whether Pelayo existed or not. You know why? Because he's white. They won't argue that. They're not going to argue Pelayo.
+- **Officer:** Hey Deac, you know what's funny, man? … They won't argue whether Pelayo existed or not. You know why? Because he's white. They won't argue that. They're not going to argue Pelayo.
 
 - **Deacon Eythan:** He's not going to break up a passage. He's white. He existed. Job 30. Start at one.
 

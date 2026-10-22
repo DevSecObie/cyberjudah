@@ -442,7 +442,7 @@ Reading from a post, "The US bombs the mausoleum of Hugo Chavez"  *[[55:27](http
 
 - Dip his foot in oil. Asher was blessed to have the oil, and Esau knows that. Wherever you find God's people, you will find the blessings of God. The oil, the iron. That's why these white folks, their empires cannot thrive without the Americas. Central and South America. Without Africa. Wherever Israel is found in abundance, you're going to find abundance of resources. Cuz God loves his people. Even in our lowest estate, in our most poorest condition, God will have his people surrounded by wealth and resources. As a curse, we can't enjoy them for the most part, but God surrounds his people with wealth and resources, because wherever we are, that place is blessed. This land.
 
-- **Officer:** Hey, D, they just found in Uganda, I think they just found another mine of gold. It was a lot of gold too. I forgot how much; some tons of gold that they just found, a couple trillion dollars. So just to prove that the Lord put us in those areas where we have those abundance of wealth and resources.
+- **Officer:** Hey, Deac, they just found in Uganda, I think they just found another mine of gold. It was a lot of gold too. I forgot how much; some tons of gold that they just found, a couple trillion dollars. So just to prove that the Lord put us in those areas where we have those abundance of wealth and resources.
 
 - **Deacon Eythan:** Even in Haiti. In Haiti you got iridium. A meteor hit Haiti and left a big ass mountain of iridium. Iridium is used to cover spaceships. It's fire resistant. Iridium is almost more expensive than platinum and gold, almost. I can't explain; not even trillions. It's a mountain of it. The militaries over there carry it out in trucks, by the truckloads. Black dust. Iridium. What it say here?
 
@@ -558,7 +558,7 @@ Reading from a page on the persecuted Jews and Moors expelled from Spain  *[[1:1
 
 - So now, one more. Give me Deuteronomy 28:33 and 34.
 
-- **Officer:** And, D, I don't know if you want it now, but I know you're looking for Genesis 49:20.
+- **Officer:** And, Deac, I don't know if you want it now, but I know you're looking for Genesis 49:20.
 
 </div>
 
@@ -1252,7 +1252,7 @@ Reading from *Ancient and Modern Britons*, page 235, on the overthrow of the bla
 
 *[[2:21:43](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=8503s)]* **Officer:** Shoutout for all of you that did tune in, man. We appreciate you. The support is beautiful. Shoutout to Captain Aurelio, who actually participated in our lesson today. Hey, shoutout to PSR, man. I got to say that. They got their 500th episode last week. That's a big accomplishment. All praise to the Most High. And all the shows that bring some history to teach our people, you know, our history.
 
-*[[2:23:58](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=8638s)]* **Officer:** Distractions everywhere. We going to get it together, Deek. So there you go, brothers and sisters. That's what I got here. I got no more.
+*[[2:23:58](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=8638s)]* **Officer:** Distractions everywhere. We going to get it together, Deac. So there you go, brothers and sisters. That's what I got here. I got no more.
 
 **Deacon Eythan:** All right, listen. Lord's will, for two weeks we'll be on a short hiatus for the show, cuz I'll be traveling for a while. So when we get back, we going to jump right into King James. Lord's will, we going to jump into his family. Jump into his father's side, his mother's side. So just stay tuned for that. It's going to be exciting to go into that history.
 
