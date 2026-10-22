@@ -24,3 +24,8 @@ Notes for the shows with the fewest recordings left to write up, each filed unde
 ## Show notes, batch 3
 
 - The Battle Beyond Radio Show, hosted by Captain Joel of IUIC Columbus, Ohio: China's Influences in Zambia (2023-11-28, the first live episode), Malawi Secretly Sending Its Youth to Work Israeli Farms (2023-12-05, one stream split into two recordings, filed as Part 1 and Part 2), Demands for Slavery Reparations Grow Louder (2023-12-12), and Kenyan Church Welcomes LGBTQI+ (2023-12-19). Every transcribed recording now has a note.
+
+## Show notes, batch 4
+
+- Truth Be Told, IUIC DC's Tuesday broadcast: The Wiles of the Devil (2021-07-13) and The Body Snatchers (2021-08-17), hosted by Officer Matthew; Mind Your Business, Let Them Fight (2023-11-07) and Missing Children in Cleveland (2023-12-05), hosted by Captain Matthew. All four recordings now have notes.
+- The Revolutionaries of Gad, IUIC Raleigh's short episodes: Crazy Horse (2025-01-13), Chief Red Cloud (2025-02-04), Black Elk (2025-03-25) and the Navajo Code Talkers (2025-04-29). The officer's name is unclear in the captions, so the teacher is left empty. All four recordings now have notes.
