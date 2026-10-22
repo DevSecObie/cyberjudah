@@ -154,7 +154,7 @@ Reading from a book of the icons and images of the Annunciation Cathedral, the i
 
 - I'm not sure what that is. The Savior of Smolensk. Everyone in this image is black. So whoever that is, is black. There's black people here. Everyone in these images is black. Every single individual here. America is the only place primarily that keeps this stuff hidden, because they know the bulk of the prophets are in this area here. They had to keep this stuff a secret from the prophets here. But everywhere else outside of America, they know the prophets and the black forefathers. We the ones confused.
 
-- **Officer:** Hey, Dee, they're saying that the Savior of Smolensk is a holy martyr called Mercurius of Smolensk.
+- **Officer:** Hey, Deac, they're saying that the Savior of Smolensk is a holy martyr called Mercurius of Smolensk.
 
 - **Deacon Eythan:** Okay. Got you. These are all black. You can't even deny this. This is black people here. It's all black folks.
 
@@ -418,7 +418,7 @@ Reading from the Wikipedia article on Arius · read by an officer  *[[41:00](htt
 
 - The head of Christ is God. So there's a subordination down the line. We're subject to Christ. The woman's subject to us. Christ subject to his father. That's not radical. That's Bible.
 
-- **Officer:** It's Bible. Hey, Dee, you mind if I get one more scripture? 1 Corinthians 15, verse 28.
+- **Officer:** It's Bible. Hey, Deac, you mind if I get one more scripture? 1 Corinthians 15, verse 28.
 
 - **Deacon Eythan:** Yeah.
 
@@ -1009,7 +1009,7 @@ Reading from the Wikipedia article on the Arian controversy · read by an office
 
 - **Officer:** We got a new scoffer, man. My man Joshua. Yeah, he from Clubhouse.
 
-- **Comment:** Dee, if you have a Bible with no Holy Spirit, people will consider you a devil. Just stop it, brother. The only enemy is the unrepentant version of yourself and the man of perdition, and people operating in the evil fleshly works. Y'all just want a damn breakdown. Just stay in the spirit. The spirit will teach you all things.
+- **Comment:** Deac, if you have a Bible with no Holy Spirit, people will consider you a devil. Just stop it, brother. The only enemy is the unrepentant version of yourself and the man of perdition, and people operating in the evil fleshly works. Y'all just want a damn breakdown. Just stay in the spirit. The spirit will teach you all things.
 
 - **Deacon Eythan:** All right. That's what I wanted. So we're going to end at Arius's doctrine.
 
@@ -1308,7 +1308,7 @@ Reading from a search result on the Protestant Reformation and the Apocrypha · 
 
 - His name shall be called Wonderful, Counsellor, or Wonderful Counsellor. The mighty God. Everlasting Father. I don't know what part of that you don't understand. That's a title he has: Everlasting Father. Why does he have that title? Based upon Colossians. Because the father made him and he made everything else. And by him all things consist. Give me John 1 now. I'm going to wrap it up soon. Get John 11 first. John 11, verse 41.
 
-- **Officer:** Hey, Dee. It can be easily understood with job titles. If you have an employee, and the employee has a manager, the manager is the manager of the employee. But the manager has a regional manager, and he's both their managers. So it's the same thing with a father and son.
+- **Officer:** Hey, Deac. It can be easily understood with job titles. If you have an employee, and the employee has a manager, the manager is the manager of the employee. But the manager has a regional manager, and he's both their managers. So it's the same thing with a father and son.
 
 - **Deacon Eythan:** Yeah. I don't understand why that's confusing. Well, I know why: they don't keep commandments.
 
@@ -1352,7 +1352,7 @@ Reading from a search result on the Protestant Reformation and the Apocrypha · 
 
 - The him is the Word. All things were made. That's what Paul said in Colossians 1. All things were made by him. And without Christ was not anything made that was made. Which makes him what? Our father. That makes him our father.
 
-- **Officer:** Dee, can we get one more? Revelation 3:14.
+- **Officer:** Deac, can we get one more? Revelation 3:14.
 
 - **Deacon Eythan:** Oh, yeah. That's good. Let's go.
 

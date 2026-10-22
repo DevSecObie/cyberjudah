@@ -356,7 +356,7 @@ Reading from a description of Jack Parsons, looked up on air  *[[50:59](https://
 
 - **Deacon Eythan:** Not as in it burns, like a bomb, like a bomb drops and you see people, is this burnt land. No. Nuclear bombs today don't burn. They erase. They, it erases things. That's why they try their best to avoid nuclear war, because Easter knows if we use our bombs they'll be lost on both ends. There is no winning for either side. There's no winning. That's like bomb, nuclear war is like a last resort. Everyone... You've reached your pinnacle, you have the precipice. It's a rat. It's just, it's a rat.
 
-- **A co-host:** Hey Dick, you got the, your, your Oppenheimer and Einstein. Einstein today, Elon Musk.
+- **A co-host:** Hey Deac, you got the, your, your Oppenheimer and Einstein. Einstein today, Elon Musk.
 
 - **Deacon Eythan:** Yes. Iron Man today. Iron Man.
 
@@ -364,11 +364,11 @@ Reading from a description of Jack Parsons, looked up on air  *[[50:59](https://
 
 - **Deacon Eythan:** Yeah. You know who's doing space travel? A dance channel negro's doing it. He goes camping. Landing people, saying lend a job. There's a little lane on moss.
 
-- **A co-host:** Right. Hey Dick, you got Isaiah 54:16. You can get that.
+- **A co-host:** Right. Hey Deac, you got Isaiah 54:16. You can get that.
 
 - **Deacon Eythan:** We can get it.
 
-- **A co-host:** Dick was saying they got the erase lens. The Bible called it a waste, the waster.
+- **A co-host:** Deac was saying they got the erase lens. The Bible called it a waste, the waster.
 
 **[Isaiah 54:16-17](/bible/isaiah/54#v16)**  *[[1:02:28](https://www.youtube.com/watch?v=jUI6XCvZoYk&t=3748s)]*
 
@@ -492,7 +492,7 @@ Reading from a dictionary entry on the word science, read on air  *[[1:22:30](ht
 
 - So the word of God, is the word of God was sealed, but now it's being opened to us. It's being open to our people as we wake up. As being open to us, and within that time the knowledge increases. The knowledge of who we are, and the Bible's understanding has increased. Science increases also, because the word of God has to be able to spread all over the world. He has a little spread over. That's why you have internet now. We can go on YouTube. This is an example of the word spreading. The internet, YouTube, social media, radio shows, YouTube, all that goes into the knowledge being used. Science being used to spread this knowledge across the world. Not only do evangelism, us spread, us doing evangelism, traveling, but the word is traveling itself, to do science, the technology. So when he so uses science for wickedness, the Most High takes it and uses it for good. All right. Knowledge, technology will be increased as this truth grows. Y'all got it?
 
-- **A co-host:** It wasn't here, Deke, but I found, I found something else though.
+- **A co-host:** It wasn't here, Deac, but I found, I found something else though.
 
 - **Deacon Eythan:** You did? All right. That was suffice. Okay, let's, let's get that. You sent it to him? Yes sir. Are you getting it now? There's another word, almanac, is in that book, isn't it? In this, but it's not in this one. It's in there. I was looking for it, but I have something though. So you invite him too? I have both vitamins. He got it right here. We got it. I know what's in there. Take a picture. Officer Jess, did you still want to rock 12?
 
@@ -674,7 +674,7 @@ Reading from the same book on the learning of the Moors, continued  *[[1:37:00](
 
 - The African Hermites. Do they have it? The Africa, these, this Africans here didn't have it. Caine didn't have the knowledge we have. Got it. Neither have it been seen in Timon. Why is Edomite? So to be your Germans don't have the knowledge we have. That's your Einstein, that's your Oppenheimer. Dos Timas. Timon, Germans is demand. Better know that the scientists, smiths, that's Teman. That's their wise men.
 
-- **A co-host:** Hey D, that's how you know they got it from Satan.
+- **A co-host:** Hey Deac, that's how you know they got it from Satan.
 
 - **Deacon Eythan:** Yeah.
 
@@ -878,7 +878,7 @@ Reading from the Wikipedia article on the taifas  *[[1:58:47](https://www.youtub
 
 - See that? They started taking over. It says Grenada, one stronghold remained unconquered by the script, by the …, being the rest being incorporated into the Christian states of the north. So that eventually Esau took over all those typhus, typists. Okay.
 
-- **A co-host:** Hey Dick, we got another question for you.
+- **A co-host:** Hey Deac, we got another question for you.
 
 </div>
 
@@ -962,7 +962,7 @@ Reading from the Wikipedia article on the Reconquista, continued  *[[2:05:05](ht
 
 > ...who were later expelled from the Iberian peninsula by the decrees of King Philip the Third in 1609.
 
-- 1609. Hold on. I said end that peninsula. Where's peninsula at? Oh, after... Fortunately, to the entire peninsula, the Iberian peninsula. Yeah, ends that peninsula. Go up some. Go down faster. Go down, go down. I think it ends that peninsula. Don't move too far. Let me see that. In the question two, D, confused.
+- 1609. Hold on. I said end that peninsula. Where's peninsula at? Oh, after... Fortunately, to the entire peninsula, the Iberian peninsula. Yeah, ends that peninsula. Go up some. Go down faster. Go down, go down. I think it ends that peninsula. Don't move too far. Let me see that. In the question two, Deac, confused.
 
 - **A co-host:** Yeah, guys, a question. Okay.
 
@@ -1178,7 +1178,7 @@ Reading from a book on the conquest of Spain ("conquest... page four four" as ca
 
 - He gathered out of the caves his new army. Rock crevices. The rock crevices, right. That was deep in those rocks. I showed y'all the pictures of them caves. Go ahead. And he's very, he's buried there. They took his body and put him in there, and his, and his son Alfonso there.
 
-- **A co-host:** Dick, you want the rest of this?
+- **A co-host:** Deac, you want the rest of this?
 
 - **Deacon Eythan:** Yes, keep going.
 

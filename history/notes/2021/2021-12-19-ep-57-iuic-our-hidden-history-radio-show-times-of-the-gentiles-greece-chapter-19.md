@@ -628,7 +628,7 @@ Reading from Wikipedia, *Intertestamental period*, continued  *[[1:03:05](https:
 
 - **A brother:** Yeah, yeah, you remind me. It's 2:46.
 
-- **Deacon Eythan:** Oh, now y'all romano. Thank you, thank you. After I figured out, y'all remind me. Thank you. I'm ready. I'm gonna finish this first and then I'll take a break. This is, this is not the process even for me. So it says join forces. So solomida first, it says, so the king of the southwest, told me the first soda. All right, I'm gonna write this down. And the king of the north, his princes, there is Seleucus the First Nicator, king of the north. Okay. What happened? Would you laugh with that? I'm sorry, Dick. I'm sorry.
+- **Deacon Eythan:** Oh, now y'all romano. Thank you, thank you. After I figured out, y'all remind me. Thank you. I'm ready. I'm gonna finish this first and then I'll take a break. This is, this is not the process even for me. So it says join forces. So solomida first, it says, so the king of the southwest, told me the first soda. All right, I'm gonna write this down. And the king of the north, his princes, there is Seleucus the First Nicator, king of the north. Okay. What happened? Would you laugh with that? I'm sorry, Deac. I'm sorry.
 
 - **A brother:** We'll let you.
 

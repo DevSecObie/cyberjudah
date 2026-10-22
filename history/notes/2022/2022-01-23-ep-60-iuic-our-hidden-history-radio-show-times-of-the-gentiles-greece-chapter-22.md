@@ -686,7 +686,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 - **Deacon Eythan:** Yeah. Yo, that's your laws. Pay over it. It's good.
 
-- **A brother:** And look at the young men in the church, Deek. They following them, ignorant pastors.
+- **A brother:** And look at the young men in the church, Deac. They following them, ignorant pastors.
 
 - **Deacon Eythan:** Yeah. That's telling you, God loves the ways, God laws are done away with. Hey, this is pork. And the further that you got the old menace, the old men these days act like their young men, and young men are leaving the church all together, right. Then, I haven't gone to church no more. The young man, they think it's stupid. It's a fairy tale. What am I doing in here? Damn old-ass organ playing. It's just church pews. This is corny. It's hot in here. Ain't no damn AC. It's BS. I'm just sitting up here for four hours listening to this BS, this nonsense.
 

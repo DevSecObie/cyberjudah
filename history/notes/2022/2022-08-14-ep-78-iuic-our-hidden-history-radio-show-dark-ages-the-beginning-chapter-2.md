@@ -114,7 +114,7 @@ tags: ["Our Hidden History", "captivity"]
 
 - The barbarians saw the venomous beast hang on his hand. The islanders were referred to as barbarians. This is an island that the Carthaginians inhabited and took over before the Romans overthrew them, but they were still living here. These barbarians are Carthaginians. These are Israelites too. Carthaginians goes back to Hannibal. These are Israelites as well.
 
-- **An officer:** Hey, D. So the barbarians pretty much would be considered what Esau would consider them: uncivilized.
+- **An officer:** Hey, Deac. So the barbarians pretty much would be considered what Esau would consider them: uncivilized.
 
 - **Deacon Eythan:** Uncivilized, right, and so forth like that. They will say they are Burberry, or barbarians.
 

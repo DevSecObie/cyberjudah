@@ -230,7 +230,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, page 122, continued · r
 
 - Right.
 
-- **Officer:** So also, Dick, then that means, like, the Eat of My Stones, every, yeah, everything from everybody, right? Pretty much. Himself, the area raised the pew blood. Right.
+- **Officer:** So also, Deac, then that means, like, the Eat of My Stones, every, yeah, everything from everybody, right? Pretty much. Himself, the area raised the pew blood. Right.
 
 - **Deacon Eythan:** They're not any of that. They're not aliens at all. Aryans were the elite Persians. Aryans were elite Persians, like the Chaldeans were the elite Babylonians, and the Aryans were the elite Persians. The white man says that they're aliens because the Aryans, the Elamites, had power. They had dominated Iran and parts of Russia. The white man goes, yeah, we're running Russia, we're aliens. No, no, you're not. Your … that took over Russia. You're not aliens. You're not the original Aryans. Now let's get Exodus.
 
@@ -284,7 +284,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, page 122, continued · r
 
 - **Deacon Eythan:** But again, they were human. The point is that they were human. Right. They were human. They made mistakes, and they, and they realized later on, just to listen, I realized the reason why the Most, the Most I had to do two days, because the Most I had other plans to save y'all. Because I had not been sold off into slavery and getting the status, we'd all be dead.
 
-- **Officer:** And although, Dick, although he leave, he was living in Egypt, he was still spiritual. He kept, he kept God's law, and he understood the reason why the Most, he said the Most I set me ahead of, right, to preserve your life.
+- **Officer:** And although, Deac, although he leave, he was living in Egypt, he was still spiritual. He kept, he kept God's law, and he understood the reason why the Most, he said the Most I set me ahead of, right, to preserve your life.
 
 - **Deacon Eythan:** Right. Give me Chances 50. He's gonna say it.
 
@@ -342,7 +342,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, page 122, continued · r
 
 - **Deacon Eythan:** But of course all Israel as a whole, Israel as a whole, integrated into Egyptian, Egyptian culture. But some of us maintain tradition, and Moses, Moses reintroduced that to us.
 
-- **Officer:** And, Dick, that's right. The reason why, when the Mossad talked to Moses, when he went back into Egypt, he called the elders of the, of the, of the people, because the elders was keeping, I was teaching the same tradition. So he went to the elders and explained to them, well, this is, I'm back here, the Most accept me for this reason. Right. He said, guided the people. Now he's going to start, start telling them the plan that the Most I had to deliver the Israelite out of Egypt.
+- **Officer:** And, Deac, that's right. The reason why, when the Mossad talked to Moses, when he went back into Egypt, he called the elders of the, of the, of the people, because the elders was keeping, I was teaching the same tradition. So he went to the elders and explained to them, well, this is, I'm back here, the Most accept me for this reason. Right. He said, guided the people. Now he's going to start, start telling them the plan that the Most I had to deliver the Israelite out of Egypt.
 
 - **Deacon Eythan:** Right. Go to Exodus chapter two. Stay there. Go to verse 15. He killed it. He saw an Egyptian beating his brother. He kills him, hides his body in the sand. He realizes that it's been discovered that he killed someone, an Egyptian, and he runs. He's denies a fugitive, now on the run. 15. Verse 15, verse 15.
 
@@ -510,7 +510,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, page 122, continued · r
 
 - **Officer:** Yeah. There's like man, yeah. I know where you're coming, where you going.
 
-- **Deacon Eythan:** He passed the black. Right. Bring it out, Dick. Right. It's through, it's three, and you got Simeon called …. That's four. Not the fact. Go back to 13. You're all right. Go right there. Go ahead.
+- **Deacon Eythan:** He passed the black. Right. Bring it out, Deac. Right. It's through, it's three, and you got Simeon called …. That's four. Not the fact. Go back to 13. You're all right. Go right there. Go ahead.
 
 - **Officer:** Oh, come on. You don't get it. You gonna give it to him. You know he going deep.
 
@@ -528,7 +528,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, page 122, continued · r
 
 - That was called …. Go ahead. And Lucious of Cyrene. And my name is the what? Cyrene. Lucius of Libya. Lucius Olivia. This is right from Libya. The same author that wrote Mattleb's, name is Jason of Cyrene, of Libya also. Right. Hannibal number from Libya too. Timmy is from Libya too. That was in Africa. He's all Africa. All Africa. Go ahead.
 
-- Right. So these are all Israelites passing for black people. All right. And some even from Africa. Now, hey, Dick, Captain Joyce is watching, and he said he's changed. Oh, he's saying every, every second, every Sunday, he changes. He's changed, right? Okay. So you die daily. Dies hourly. So, so if these, again, go back again: Joseph, Moses, Paul, all Israelites, pass for African men. Right. They're all Israelites. So what, what race was Christ from? Bring it out. Wasn't Christ in this right too? Wasn't Christ in this right too? What would he pass for?
+- Right. So these are all Israelites passing for black people. All right. And some even from Africa. Now, hey, Deac, Captain Joyce is watching, and he said he's changed. Oh, he's saying every, every second, every Sunday, he changes. He's changed, right? Okay. So you die daily. Dies hourly. So, so if these, again, go back again: Joseph, Moses, Paul, all Israelites, pass for African men. Right. They're all Israelites. So what, what race was Christ from? Bring it out. Wasn't Christ in this right too? Wasn't Christ in this right too? What would he pass for?
 
 - **Officer:** Lock and low with the gun at locking lows fast forward.
 
@@ -656,7 +656,7 @@ Reading from a book from 1844 by George Morton and George Glidden, number eight 
 
 > <sup>[2](/bible/jeremiah/14#v2)</sup> Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up.
 
-- Wow. Right. So letting you know the Jews are black onto the ground. You know what, you … that, I got a bit, I don't want to do it. But bring it out, D. Different shades of brown. All right. We range in different colors of brown, man. That's all it's saying. All right. D, you got something you want me, go ahead and give me that?
+- Wow. Right. So letting you know the Jews are black onto the ground. You know what, you … that, I got a bit, I don't want to do it. But bring it out, D. Different shades of brown. All right. We range in different colors of brown, man. That's all it's saying. All right. Deac, you got something you want me, go ahead and give me that?
 
 - **Officer:** I gotta find it, man. All right. So we brought this, we brought this page out a while back on, on the show, but this one has a different wording that I, that I like in it. So let me see. Go down. Put the, put the highlight, the part. It's in the, the, the group me Philly. It says *Bible Corruption 1969*.
 
@@ -950,7 +950,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, page 123, on Tacitus, Ge
 
 **Deacon Eythan:** Yes. They ended up in the same situation.
 
-**Officer:** Trying to kill they own, trying to, you know, gain some type of power, just like the Coquista Doors and so forth. All right. So they were the enemy. These are all people that became enemies of, of us. All right. Traitors. Traitors of their own people. But hey, let's get that real quick, why Dick's looking for that. Were they, thinking of Maccabees, those that hate it they own, you know what I'm talking about? 10 61s. 10 61. I'm about to read about sellouts right now.
+**Officer:** Trying to kill they own, trying to, you know, gain some type of power, just like the Coquista Doors and so forth. All right. So they were the enemy. These are all people that became enemies of, of us. All right. Traitors. Traitors of their own people. But hey, let's get that real quick, why Deac's looking for that. Were they, thinking of Maccabees, those that hate it they own, you know what I'm talking about? 10 61s. 10 61. I'm about to read about sellouts right now.
 
 **Deacon Eythan:** You got it. First Back At Least 10 16. Okay.
 
@@ -1090,7 +1090,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, pages 123 and 127 to 130
 
 - See that? So there's no getting around it. Jews that resided, they were placed there in Jamaica. All right. Were Negroid, who were banished from Spain and Portugal. And of course, later on, when Spain and Portugal lost power over Jamaica and the British took over, they gave them British names. From Spanish names are British names now. Let's go to page 172 of *Nature No*, no, no, no, no. *Morris Empire*, 172. What time is it? 11. Damn. It's all right. There's always another day in those world. Another day. Page 172.
 
-- **Officer:** Sorry, D, man. We don't want to rush through this history anyway.
+- **Officer:** Sorry, Deac, man. We don't want to rush through this history anyway.
 
 - **Deacon Eythan:** Yeah, you know. Yeah. Go to the start with the air page, on 72, the air. Where we at before they end up, before their eyes? Is this the empire? Oh, here it is. Okay, okay. The air. Yeah, man, let's confuse me, make me nervous. The air.
 
@@ -1208,7 +1208,7 @@ Reading from the book he calls the *Morris Empire*, page 172, on the expulsion o
 
 - **Deacon Eythan:** Go ahead.
 
-- **Officer:** Isaiah 42 24. Okay. Yeah, yeah. To go back into what Dick was reading, that was written in Deuteronomy, and like we always said, those curses are gender, generational. Right. So the proper word.
+- **Officer:** Isaiah 42 24. Okay. Yeah, yeah. To go back into what Deac was reading, that was written in Deuteronomy, and like we always said, those curses are gender, generational. Right. So the proper word.
 
 - **Deacon Eythan:** Yup. That's all right. You got it.
 
@@ -1252,7 +1252,7 @@ Reading from the book he calls the *Morris Empire*, page 172, on the expulsion o
 
 > <sup>[25](/bible/isaiah/42#v25)</sup> Therefore he hath poured upon him the fury of his anger, and the strength of battle: and it hath set him on fire round about, yet he knew not; and it burned him, yet he laid it not to heart.
 
-- **Officer:** So that's the Messiah's fury and anger that he had put upon all the torture of Israel. God. And the strength of battle. See, we lost. That's what Dick was just saying. We lose, we lost the battle. I mean, we did fight, you know, but the Most I was not with us. So we lost the battle. Once you lost the battle, you get sporty, get robbed. You become slaves, prisoners of war, pretty much. P.O.W. And they have set, and they have set him on fire round about, yet he knew not, and it burned him, yet he laid it not too hard.
+- **Officer:** So that's the Messiah's fury and anger that he had put upon all the torture of Israel. God. And the strength of battle. See, we lost. That's what Deac was just saying. We lose, we lost the battle. I mean, we did fight, you know, but the Most I was not with us. So we lost the battle. Once you lost the battle, you get sporty, get robbed. You become slaves, prisoners of war, pretty much. P.O.W. And they have set, and they have set him on fire round about, yet he knew not, and it burned him, yet he laid it not too hard.
 
 - **Deacon Eythan:** So it must have been, like, I heard him: hey, listen, man, I told you, I warn you, you follow my, my laws, that's what's going to happen to you. You know, like he says in Proverbs: you say, I'm gonna laugh at your calamities. Yeah. When you call for help, I'm not gonna help you. Go to, go back to the page again. 172 again. Almost done.
 

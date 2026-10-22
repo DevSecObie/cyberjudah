@@ -406,7 +406,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - It's a heavy verse. That's a heavy verse. It means the Lord only dealt with a certain particular seed of Israel that will be used during this time to be the saviors of the people, and these brothers are not. Damn, they were not of that seed.
 
-- **Officer:** Hey dick, that's interesting, because that's what we're seeing right now: for brothers who has a lot to say against IUIC, left IUIC, going to build different churches, put people business out there, but yet nothing, no fruits has come out of that.
+- **Officer:** Hey Deac, that's interesting, because that's what we're seeing right now: for brothers who has a lot to say against IUIC, left IUIC, going to build different churches, put people business out there, but yet nothing, no fruits has come out of that.
 
 - **Deacon Eythan:** Right. That's very heavy. Read the verse again, verse 62.
 
@@ -500,7 +500,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - And that's it, and we're seeing that today. If our people learn how to keep God's law, statues and commandments, you know, all these nations will be reproachful of our success. And that God that said that, and Judith was an Ammonite. That was an Ammonite man. So he knew. Nick and Noah, he said, he … knew also these guys got God defending them. They, they all, they are. You don't think it was known, that when the Leo does guys behind beat by the angels, they didn't spread abroad? They knew. They heard them: these big black … came down out of nowhere, and, and their horses and them, with my ass. That's what happened. That thing spread abroad. That wasn't something that was just, that wasn't the isolated incident. That was known. You, you could understand: you had a man fighting with three thousand men, beating armies of sixty thousand, eighty thousand, ninety thousand, and the men were inexperienced in war, and experienced, and he's beating him, not losing a single man, or occasionally losing a single man.
 
-- **Officer:** Hey, I'm sorry, D, if I may, like to land back off, off same: like, why you think today, when you bring up today, how to even know that we stay in sin, that we will get destroyed? Well, you look at today: what, what, when do we get paid? When do most, when do most of us get paid? Friday. On Fridays. Why? Because after you get that check, what you plan on doing? Going shopping Sabbath. You going to the club on Saturdays, and so forth. And also, like when you look at the food and all that, what's the cheapest? Pork. So our people tend to flock to. There's a video, there's a special report back in like the 70s, where they was, they was talking about how pork is the cheapest, and that, that's, that's what we, that's what our people tend to go to. We go to the cheapest, which is the pork. And most of the sales are on weekends. You get Saturday sales, you get all those, most of the biggest sales.
+- **Officer:** Hey, I'm sorry, Deac, if I may, like to land back off, off same: like, why you think today, when you bring up today, how to even know that we stay in sin, that we will get destroyed? Well, you look at today: what, what, when do we get paid? When do most, when do most of us get paid? Friday. On Fridays. Why? Because after you get that check, what you plan on doing? Going shopping Sabbath. You going to the club on Saturdays, and so forth. And also, like when you look at the food and all that, what's the cheapest? Pork. So our people tend to flock to. There's a video, there's a special report back in like the 70s, where they was, they was talking about how pork is the cheapest, and that, that's, that's what we, that's what our people tend to go to. We go to the cheapest, which is the pork. And most of the sales are on weekends. You get Saturday sales, you get all those, most of the biggest sales.
 
 - **Deacon Eythan:** Right. Clearance, yeah. Clearance sales be on the weekends.
 
@@ -1368,7 +1368,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - See that? So our fathers understood, up, up, all those, when it came to war and fighting these nations, they were merciless. Revelation 11 and 10. This is the reason why they want us to stay down the way they do, when they want to stay where they're at now: because they know what we're capable of and what we did before.
 
-- **Officer:** I'm sorry, Deke. After that one, Psalm 137 and nine.
+- **Officer:** I'm sorry, Deac. After that one, Psalm 137 and nine.
 
 - **Deacon Eythan:** Okay, get that one. One day seven and nine, get that one first. All right, you get that first. You said 137? Yeah, nine, verse nine. Start at verse eight. Let's see. Matter of fact, verse seven.
 
@@ -1426,7 +1426,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 Or praise it to the Lord for the i.t team, and for the breakfast team. Shout outs to the viewers. We appreciate you, your viewership and your donations. We thank you. And with that, announcements.
 
-**Officer:** Hey Israel, let's give Deacon a hand for that class. Praising the Most High. Fire on the Sabbath, and comes back on the Sunday. Hey Dick, not for nothing, I feel like this class is a real continuation, or just like, I would say, salt on a wound for Sabbath class.
+**Officer:** Hey Israel, let's give Deacon a hand for that class. Praising the Most High. Fire on the Sabbath, and comes back on the Sunday. Hey Deac, not for nothing, I feel like this class is a real continuation, or just like, I would say, salt on a wound for Sabbath class.
 
 **Deacon Eythan:** Oh yeah, yeah, yeah. All praises. Yeah.
 

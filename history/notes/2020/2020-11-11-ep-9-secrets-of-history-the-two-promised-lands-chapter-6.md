@@ -367,7 +367,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 - They feared what? A coalition of enslaved Africans and enslaved Indians. They feared blacks and Native Americans coming together. Unity. They feared the unity. When you watch the movie 12 Years of Slave, it shows them talking to each other. It shows a small clip of them having interaction with each other. It's a little clip. They play music for them. But that Esau, that, you know, these guys had a common relationship.
 
-- **A co-host:** Hey Dick, what does that sound like? To the je edar Hoover?
+- **A co-host:** Hey Deac, what does that sound like? To the je edar Hoover?
 
 - **Deacon Eythan:** Yeah. Yep. Right.
 
@@ -491,7 +491,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 > because of their willingness to embrace the ways of life and labor identified with Anglo-American Coons.
 
-- Civilized means they were coed. D, you brainwashed. Okay.
+- Civilized means they were coed. Deac, you brainwashed. Okay.
 
 > The process of absorbing white culture
 
@@ -675,7 +675,7 @@ Reading from *Slavery and Native Americans in British North America and the Unit
 
 - **Deacon Eythan:** A lot of them run all that. Mexicans, they have their own government, government. Not Israel, y …
 
-- **A co-host:** D, especially right now in South Africa, if you look at the presence that they got right now, most of them, once you look at their background, they actually grew up in those countries, but European settlers, right? So you can actually find that history right now. So most of the countries down South America, they got precedents from different nationalities.
+- **A co-host:** Deac, especially right now in South Africa, if you look at the presence that they got right now, most of them, once you look at their background, they actually grew up in those countries, but European settlers, right? So you can actually find that history right now. So most of the countries down South America, they got precedents from different nationalities.
 
 - **Deacon Eythan:** Right. Like Lebanon, like you, a lot of Arabic lulas over these areas in South America, in Central America. A lot of Arab, or Middle, so-called Middle Eastern, Near Eastern heathens running these lands. Like what's his name, what the second richest guy in the r... Carlos Slim. Carlos Slim, that's a Lebanese man. That's not a jake. He ain't Mexican. Carlos Slim is the second richest man in the freaking world. Second wealthiest man in the world. He's Lebanese.
 
@@ -1219,7 +1219,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[1:56:47](ht
 
 - Basically it's a, it's a, a translation of their codc. So their writings, their hieroglyphs, and their walls, it was, they were translated into Latin or Spanish. So they called it the codex of Tano rensis. Rensis.
 
-- **A co-host:** Wait, D, what's that part you just read? That they knew about the coming Messiah, that was above, above y, right? Wa... you can't, you read that one more time?
+- **A co-host:** Wait, Deac, what's that part you just read? That they knew about the coming Messiah, that was above, above y, right? Wa... you can't, you read that one more time?
 
 - **Deacon Eythan:** Yeah.
 
@@ -1455,7 +1455,7 @@ Reading from Kingsboro, Volume 8, continued · read by a co-host  *[[2:07:48](ht
 
 - Watch this, watch this. Give it to me. What, what next? I got... I'm sorry. Edit that out. It's too much.
 
-- **A co-host:** It's live now. Too late. Edit it out. Lost TR also, D, by the way.
+- **A co-host:** It's live now. Too late. Edit it out. Lost TR also, Deac, by the way.
 
 - **Deacon Eythan:** Oh. Go ahead, go ahead.
 

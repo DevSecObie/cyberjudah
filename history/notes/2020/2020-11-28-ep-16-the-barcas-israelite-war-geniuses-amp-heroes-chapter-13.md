@@ -74,7 +74,7 @@ Reading from another book, the one marked in blue highlighter (the year given on
 
 - So we had an iron maiden. We put him in iron maiden. We did it first. That's our weapon of choice.
 
-- **A brother:** Hey Deke, now we can see why, during the Spanish Inquisition, they tortured us. That's why.
+- **A brother:** Hey Deac, now we can see why, during the Spanish Inquisition, they tortured us. That's why.
 
 - **Deacon Eythan:** Yeah. Why? Oh God, yes sir. Come back.
 
@@ -932,7 +932,7 @@ Reading from *Caesar and Christ*, pages 52 to 54, on Scipio Africanus, Zama, and
 
 > providing the funds for the Roman conquest of Greece.
 
-- Stop. So when Rome conquered Hannibal, it gave Rome the power to conquer the Greeks. That's, that's what happened. I'm giving you the title of Daniel 7. Once they conquered Hannibal, they were able to have enough funds to raise up, to build their army to overthrow the Greeks. That's how they were a republic. But the wealth they gained from fighting Hannibal, they became an empire. So Hannibal's defeat was what made Rome an empire. The wealth they obtained to become an empire came from them conquering Israel, conquering Hannibal. That is the dismissing link in scripture now, by them getting Spain. So all the gold, I was just, oh, let me get it right. This *Section Race* now. D, do you have this? Yeah. Which one, for the negative eight? Yeah, I'm getting there. I thought that, yeah, yeah, I'm doing, I'm heading there. I knew it. Go to this one, *Section Race* by J. Rogers. I don't mind you having this one. You can get all three vibes if you want. You can get all three vitamins if you want. *Sex and Race* by J.R. Rodgers.
+- Stop. So when Rome conquered Hannibal, it gave Rome the power to conquer the Greeks. That's, that's what happened. I'm giving you the title of Daniel 7. Once they conquered Hannibal, they were able to have enough funds to raise up, to build their army to overthrow the Greeks. That's how they were a republic. But the wealth they gained from fighting Hannibal, they became an empire. So Hannibal's defeat was what made Rome an empire. The wealth they obtained to become an empire came from them conquering Israel, conquering Hannibal. That is the dismissing link in scripture now, by them getting Spain. So all the gold, I was just, oh, let me get it right. This *Section Race* now. Deac, do you have this? Yeah. Which one, for the negative eight? Yeah, I'm getting there. I thought that, yeah, yeah, I'm doing, I'm heading there. I knew it. Go to this one, *Section Race* by J. Rogers. I don't mind you having this one. You can get all three vibes if you want. You can get all three vitamins if you want. *Sex and Race* by J.R. Rodgers.
 
 - **A brother:** Deakin, also we have a call. Caller.
 
@@ -1078,7 +1078,7 @@ Reading from *Sex and Race*, volume one, pages 88 and 89, by J. Rogers, on Hanni
 
 - For the what? The winning of the mines. For the winning of the mind. Who they win them from? Hannibal.
 
-- **A brother:** So, so Dick, basically what I'm getting here, if I'm, you know, mistakenly so: while Haribo was fighting the Romans, we was fighting the Greeks, right? That's basically right.
+- **A brother:** So, so Deac, basically what I'm getting here, if I'm, you know, mistakenly so: while Haribo was fighting the Romans, we was fighting the Greeks, right? That's basically right.
 
 - **Deacon Eythan:** Damn, right. And the Romans, Greeks are fighting each other, right? Damn. So you had Mata Beasts fighting the Greeks, Rome fighting the Greeks, and Hannibal fighting the Romans. He saw and Jacob, he saw himself fighting each other, pretty much. And then Rome gained momentum and power over through the Greeks because they did what? Reversed it again. And what they had done in the country of Spain, when they conquered, Scipio conquered hashibal.
 

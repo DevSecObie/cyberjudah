@@ -84,7 +84,7 @@ Reading from Wikipedia, on Melanesia and the etymology of the name · read by a 
 
 - All right, so that's what I want. Islands. So the Greeks called them black people. Island blacks, or black islanders. Okay.
 
-- **A co-host:** Hey Deke, quick question. This is what Genesis 10 and 5 said about the isles of the Gentiles.
+- **A co-host:** Hey Deac, quick question. This is what Genesis 10 and 5 said about the isles of the Gentiles.
 
 - **Deacon Eythan:** Yeah, we did. Let's get it. Read that.
 
@@ -260,11 +260,11 @@ Reading from etymology.com, on the words Semitic and Semite · read by a co-host
 
 - **Deacon Eythan:** That's it. So I'm taking this, this, this captivity stuff really slow. History slow. Now let's go to, it says from Latin Sem. Because in the Greeks spoke, the Greeks from the, the Romans oftentimes spoke Greek, or vice versa. So it says in the Latin Sem. Get Luke real quick. Luke and...
 
-- **A co-host:** Dick, you know, most... look, three. Most of the time all these things they're saying is just they just don't want to keep God's law.
+- **A co-host:** Deac, you know, most... look, three. Most of the time all these things they're saying is just they just don't want to keep God's law.
 
 - **Deacon Eythan:** That's right. Just say that. Just say, just say, just say, listen, I like being a … I want to die, and I don't believe in that Bible because I want to die. Cool. Much respect. What, Kevin Sanders, salute to you, man. Suits you. Two-thirds, man. Just wait for the bum to come. That's it. For the, wait for the bombs. It's kooks, you know.
 
-- **A co-host:** Deke, would you want Luke 3:36?
+- **A co-host:** Deac, would you want Luke 3:36?
 
 - **Deacon Eythan:** Yeah, because Luke is written in Greek.
 
@@ -290,7 +290,7 @@ Reading from etymology.com, on the words Semitic and Semite · read by a co-host
 
 - **Deacon Eythan:** Right. Jew, right? Without the S. Right, without the S. Again, back to my point about the S being interchangeable, could be added or taken away and retain the same meaning. There's a God in French, right? Like deal, deal, or yeah, right, by deal. Right, right, same thing. Bueno dia, people say buenos dias. Diaz, that's the second S. Those, these men don't talk about. But you speak a damn... that's Latin. That's a K, that's a cave, caveman language. Romans ran the caves and their language died.
 
-- **A co-host:** But Dick, anyway, the, the whole conclusion of the whole matter is keep God's law.
+- **A co-host:** But Deac, anyway, the, the whole conclusion of the whole matter is keep God's law.
 
 - **Deacon Eythan:** Mm-hmm.
 
@@ -418,7 +418,7 @@ Reading from Wikipedia, the list of Assyrian kings (continued) · read by a co-h
 
 - **Deacon Eythan:** Because remember, just changed, right? We're talking about, we're talking about Assyria. They worship dagger, they named themselves Dagon. Then you're reading earlier the Ash diets, they came after, Ashdodites worshipping Dagon. Dagon.
 
-- **A co-host:** Deke, yeah, from me, over in West Africa we were still, we worship, worship a god named Die. So this might be, go back to him also, because we round the Hamites over there, and they had that same god named Doc. His name was D.A., but I'm pretty sure that's the same god.
+- **A co-host:** Deac, yeah, from me, over in West Africa we were still, we worship, worship a god named Die. So this might be, go back to him also, because we round the Hamites over there, and they had that same god named Doc. His name was D.A., but I'm pretty sure that's the same god.
 
 - **Deacon Eythan:** Yeah, that's here in the scriptures, they gone, right? Go back. Just say Die, for sure. Maybe. Go back. Give me First Chronicles 10.
 
@@ -752,7 +752,7 @@ Reading from biblehistory.com, on Assyria · read by a co-host  *[[1:20:41](http
 
 - **Deacon Eythan:** When did they acquire the state? 1960, 1948, sorry. That's a lot of years. That's years later, I'm thinking. Planning, plotting, how can we do that, how can we do this. They already had in their mind, we gonna get that land, we're gonna get it. Nobody showed him.
 
-- **A co-host:** It's another example too, Dick. Star Trek. Star Trek as well, right? Remember, Scotty always put out a little cell phone, a flip phone. We was watching that, like, wow. And then years later, boom.
+- **A co-host:** It's another example too, Deac. Star Trek. Star Trek as well, right? Remember, Scotty always put out a little cell phone, a flip phone. We was watching that, like, wow. And then years later, boom.
 
 - **Deacon Eythan:** The space federation. What's the Space Force symbol? Star Trek symbol. The same symbol they use, the Star Trek, State Sports uses it now. People who owls was so amazing how they're using the Star Wars symbol on Space Force. No, it's not. They already had their mind to go up there, right? They already knew that. Go back to Jack Parsons again. Go back to that. He was in, he was under that religion, dilemma, going back to worshipping Egypt and the sorcery and the spells. So go back to that.
 
@@ -958,7 +958,7 @@ Reading from biblehistory.com, on Assyria (continued) · read by a co-host  *[[1
 
 - **Deacon Eythan:** Stop. What does that mean? That means the Assyrians don't know what they're doing. They don't know why they're so cruel. It says, God says they don't know why they're doing what they do. They just do what I say. They're cool like that because I made them that way, and they can't help it. God is saying right here they can't help it. So when the soaker white man comes around and kills us and murders us, guess what? Guess who put it in to do it? Damn. God did it. God makes them that way. He mean it not so. You know, Esau can't help it. Well, the Eso make all kinds of excuses. Well, I thought at the end of my life they, they can't help it. He mean it not so.
 
-- **A co-host:** Dick, remember one time there was this broth, this young man, he was mentally …
+- **A co-host:** Deac, remember one time there was this broth, this young man, he was mentally …
 
 - **Deacon Eythan:** Yeah.
 

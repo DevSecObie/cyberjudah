@@ -74,7 +74,7 @@ Reading from a video on the tall people of South Sudan, played on air  *[[13:22]
 
 - **A brother:** Well, I'm so damn tall, but he passed something like, pass them jeans on. Judah. Yeah. I was wondering what was going on.
 
-- **Deacon Eythan:** It's family. Family's intermingle anyway. So I'm chewed all day. So, so the family's into mingo, and that's how I'm Julia. So they're all, they're all too late. Put yourself out there, man. Some … anyway. Yeah, welcome home. I lost my thought. All right. Oh man. It's okay, D. Now I'm dude all day. Anyway, so, so that's pretty much what happened. So Israel pretty much is tall as well. David saw when he said Saul was tall as well. Saul, Benjamin. So you know, something in them. That's it.
+- **Deacon Eythan:** It's family. Family's intermingle anyway. So I'm chewed all day. So, so the family's into mingo, and that's how I'm Julia. So they're all, they're all too late. Put yourself out there, man. Some … anyway. Yeah, welcome home. I lost my thought. All right. Oh man. It's okay, Deac. Now I'm dude all day. Anyway, so, so that's pretty much what happened. So Israel pretty much is tall as well. David saw when he said Saul was tall as well. Saul, Benjamin. So you know, something in them. That's it.
 
 - *[[19:03](https://www.youtube.com/watch?v=hbMkLdQrKAE&t=1143s)]* So let me add, oh, I'm going back. 09. I'm gonna fix it later on. Ezekiel 9.
 
@@ -704,7 +704,7 @@ Reading from the entry on Zerubbabel at biblestudytools.com, read off the screen
 
 - **Deacon Eythan:** Yeah. Wow, that's deep. Burn South Africa.
 
-- **A brother:** *[[1:27:52](https://www.youtube.com/watch?v=hbMkLdQrKAE&t=5272s)]* Hey, but D, I wanted to bring out, going back to the heathens that was placed in our land. Remember when you read, when you read, was it First Maccabees chapter 10 verse 38? Remember the Maccabees, we, they gave, we took back over the land, right? So we got Samaria back. What do you think we did with those heathens?
+- **A brother:** *[[1:27:52](https://www.youtube.com/watch?v=hbMkLdQrKAE&t=5272s)]* Hey, but Deac, I wanted to bring out, going back to the heathens that was placed in our land. Remember when you read, when you read, was it First Maccabees chapter 10 verse 38? Remember the Maccabees, we, they gave, we took back over the land, right? So we got Samaria back. What do you think we did with those heathens?
 
 - **Deacon Eythan:** Yeah, we got rid of them.
 
@@ -1166,7 +1166,7 @@ Reading from a video on the Persian Immortals, played on air  *[[1:50:47](https:
 
 - **Deacon Eythan:** Yeah, but you were... Yeah, okay, okay, okay. And the brother, this big dude came. He did a bit like 10. Yes. Big dude came. He was like, yeah, yeah, I believed, you guys are saying, yeah, you know. Yeah, yeah. He walk up. His woman walks up with him. She looks, she's like, this woman, you know, she's not exactly, you know, what I would deem gazing upon. Like, ah, she wasn't that. She walks off. So, you know, she's like, she's not interested. He said, you know, you know, I'm sorry, I gotta go. You know, I'm like, yo, this dude is like, his arms are the size of this table. His, he looked like Optimus Prime. His neck was up here. Traps. He had the traps. And the dude had to leave because his woman didn't stay down. And the dude did like, so he probably had a body on him, but he did, yes, on him. I'm like, yo, this dude's woman made him leave.
 
-- **A brother:** Wait, D, so she ain't saying nothing like that? Nothing? Babe, we gotta go?
+- **A brother:** Wait, Deac, so she ain't saying nothing like that? Nothing? Babe, we gotta go?
 
 - **Deacon Eythan:** No, she just, she just walked off, like, … let's go. Damn. So that's just an example of women being strong. This is prime examples. You'll see a woman, a brother walking around, he dies as hell. Women walking around. Someone will walk around with a, with a body out, tight outfit on, right? And you like, for example, you'll walk, I've seen this numerous times, where I'm walking and a brother is walking with his woman, and she's dressed pretty completely inappropriate. You know what he'll do? He'll do this. Why? Why he doing that? To let me know that's his. But if she wasn't just that way, you wouldn't need to do that, right? Or though, or there'll be an escalator, we'll ride up, she's got something on, he'll stand behind her. But why are you, let's leave at the house like that? Because women are strong, and she can wear whatever she wants in Europe, and you are weak to tell her she can't wear the Houston Street. That proves Zoo Rebels point. Women are strong and men are weak, and go out of their woods for them. These are prime examples I've seen in my own eye. I've seen it: brothers getting the fight. What you thinking about? Woman. They got a fight over her because … tried to holla at her. Somebody was hot that girl right in front of him. Now you gotta fight and prove your love. I'll put my love and go fight and get myself stabbed and killed. It's craziness. But we know what we have. Verse 32.
 

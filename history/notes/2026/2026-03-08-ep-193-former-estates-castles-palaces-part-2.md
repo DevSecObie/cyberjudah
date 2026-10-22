@@ -254,7 +254,7 @@ tags: ["Our Hidden History", "edom-esau"]
 
 - So we will get the kingdom back. We will return to the state that we were pulled from. That's what the Bible is saying here. I pulled you from your state, I'll put you back in your same state. In the same clothes you had before, the same castles you had before, palaces you had before, I'm putting you back in them. Courtyards you had, I'm putting you back in those. Now get me House of Stuart. Let's go back.
 
-- **Officer:** Hey D, remember that? Someone put FBAs: fools believe anything.
+- **Officer:** Hey Deac, remember that? Someone put FBAs: fools believe anything.
 
 - **Deacon Eythan:** Y'all all right, man. That's bars. I like that, too.
 

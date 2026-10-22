@@ -138,7 +138,7 @@ tags: ["Our Hidden History", "nations", "women"]
 
 - Ezekiel 8 and 4, right? That's what I'm looking for. I think it's, look for it. I know it's Ezekiel.
 
-- **A brother:** *[[18:50](https://www.youtube.com/watch?v=32MSTvmKewk&t=1130s)]* Deke, real quick, examining First Kings 11, right? Yeah, the first verse starts out, that was king, 14. That's it. For, yeah, it starts out, that was King Solomon, right? Yeah, when you jump, and I'm bringing this out to the weather, to the spirit that's going around amongst Israelite, and y'all got to understand it. Solomon is going off. Verse 3 said, and he had 700 wives, princesses. He didn't have 700 queens. He still kept them at that level that he's in charge. There wasn't ruling with him at the same time.
+- **A brother:** *[[18:50](https://www.youtube.com/watch?v=32MSTvmKewk&t=1130s)]* Deac, real quick, examining First Kings 11, right? Yeah, the first verse starts out, that was king, 14. That's it. For, yeah, it starts out, that was King Solomon, right? Yeah, when you jump, and I'm bringing this out to the weather, to the spirit that's going around amongst Israelite, and y'all got to understand it. Solomon is going off. Verse 3 said, and he had 700 wives, princesses. He didn't have 700 queens. He still kept them at that level that he's in charge. There wasn't ruling with him at the same time.
 
 - **Deacon Eythan:** But, well, the term princess does allude to a queen. Okay. Okay, it does allude to that. But the reason why we don't emphasize that term is because, you know, today change today, right? Okay. You read about what, aces mom, she was called the queen. Okay. King Ace's mother was called the queen. And King Acer, his mom, his mom got into idolatry. He took the damn I don't, stamped it, right? Right. So we did have queens. We just don't use that term because sisters get their mind get …. So these are not princesses because the princess is a queen. It's just a queen that's married to a king. The princess is married to a king, right? She is technically a queen. Okay. Queen just mean wife, right? Queen means white. The word queen just means wife. Yes. Does not mean anything more than what, you know what that means.
 
@@ -154,7 +154,7 @@ tags: ["Our Hidden History", "nations", "women"]
 
 - *[[21:41](https://www.youtube.com/watch?v=32MSTvmKewk&t=1301s)]* So now let's go back through that. What did I say before this? We was going back to prove the queen, the different, yeah, the definition of queen. Please, definition of queen, Q-U-E... Now give me queen first. It's just, I don't want that, this feminist thing, we're going to destroy it. I don't want... Absolutely. Absolutely. So I'll make it clear. I will clarify: we did have queens. Some and his wives were queens. The term is used as princess in the Bible, but you do have the word queen in the Bible. King Ace's mother was called the queen. Bathsheba, Psalmist mama, was a queen. Yes. Abigail was a queen. They weren't called that, but they were. Reason we don't use that term, if you said this, because y'all get … now. I want queen first. Hold that. All right, that's my favorite word, though. Hold that for now. Go back to the other one, Q-U-E-E-N, and go to etymology of the word clean, just to clarify what it means.
 
-- **A brother:** *[[22:25](https://www.youtube.com/watch?v=32MSTvmKewk&t=1345s)]* Hey, Deke, real quick, not to just sidebar, but it's saying exactly what you're saying at the end of verse 16, to tell you that, that they worship the sun toward the east. So it goes right back to what you're saying about Tammuz.
+- **A brother:** *[[22:25](https://www.youtube.com/watch?v=32MSTvmKewk&t=1345s)]* Hey, Deac, real quick, not to just sidebar, but it's saying exactly what you're saying at the end of verse 16, to tell you that, that they worship the sun toward the east. So it goes right back to what you're saying about Tammuz.
 
 - **Deacon Eythan:** Mm-hmm. Why? To get that. The book of Ezekiel chapter 8 verse 16. So the evil is that Israel will face a temple. Israel at the temple was to worship the Lord, and they worship other gods at the temple secretly. That's what they were doing. So Ezekiel, the Lord was showing Ezekiel what they were doing in their mind, in the spirit. He was showing them: look what they're doing. They're at the temple worship, and you think they're worshiping me. They worshipping a freaking baby, a pagan baby. Read it.
 
@@ -238,7 +238,7 @@ Reading from an etymology of the word queen, read on screen · read by a brother
 
 - *[[31:24](https://www.youtube.com/watch?v=32MSTvmKewk&t=1884s)]* So now let's get History of the Jews. Let's see, the Jews, volume one. This is by Greats. All right, Simon Greats, right? Henry, Henry Greats. Yeah, Henry Greats. Heinrich, I'm sorry. Heinrich Greats, volume one, History of the Jews by Heinrich Greats. This is volume one here. I'll show you this book as well. It's not a big deal. I'm sure this one. All right, here, fine one. Just get the Jews by Heinrich Greats. Okay. We're going to be pages 161, and we're going to end at 163, building site. So page 161.
 
-- **A brother:** We started here, dick? Salmon director's attention?
+- **A brother:** We started here, Deac? Salmon director's attention?
 
 - **Deacon Eythan:** Simon the detention. Yeah, you start from there. Go, go, go, go. Go up to the top. Yeah, Solomon's in the right. That's fine.
 
@@ -814,7 +814,7 @@ Reading from *History of the Jews* by Heinrich Greats, pages 174 and 175, on the
 
 - *[[1:24:40](https://www.youtube.com/watch?v=32MSTvmKewk&t=5080s)]* Judas words are more fierce. That's why most of the time, when Ephraim spends their time around you to their teaching, is a bit more fierce, is more powerful, more impactful, because the Lord raised us. There you go. The Lord raised up Judah first. That's that fierceness. Oh, that just, all the tribes divide two. Yep. Up and yelling there. See, I'm … about my way around Levi too, Benjamin too. When they're around Judah it's a different spirit. It's the spirit. It's more, it's more provokings. They provoke more, more, more, I don't know where, I'm good for more. They're more influenced. Like the influence is stronger, I would say.
 
-- **A brother:** Tapping into the source, Deke. You can't go, you can't break the scriptures. We have to follow Judah, right? There's no way around it.
+- **A brother:** Tapping into the source, Deac. You can't go, you can't break the scriptures. We have to follow Judah, right? There's no way around it.
 
 - **Deacon Eythan:** Right. Yeah, I'm saying.
 
@@ -924,7 +924,7 @@ Reading from *History of the Jews* by Heinrich Greats, pages 174 and 175, on the
 
 - So not all that even went off. Some Ephraim left their suburbs to go and sacrifice to the temple. Not all Israel went off. Not all of them. And Levi came with Judah also. So now you have three tribes rather than two. You had Judah and Benjamin, then Levi got kicked out and said we're gonna go over there, but drew the measurement then. So now I became three: Judah, Benjamin, Levi. All right. So that, that, that right there is the addition. This right here is the third edition, this right here is the third edition of a tribe joining southern kingdom. So you have Judah, Benjamin, and Levi comes after it. All right.
 
-- I got, yeah, you know, I got fire. Let you guys in. You know, it's all good, Dick. We posting up. You're posting up. Never leave. We never leave. Damn.
+- I got, yeah, you know, I got fire. Let you guys in. You know, it's all good, Deac. We posting up. You're posting up. Never leave. We never leave. Damn.
 
 - *[[1:35:02](https://www.youtube.com/watch?v=32MSTvmKewk&t=5702s)]* Go to Second Kings 15. Tobin, my forefather Tobit, was the example of northern kingdom that stayed true to the laws. Second Kings chapter 15.
 

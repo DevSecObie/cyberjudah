@@ -226,7 +226,7 @@ Reading from the same book, pages 169 and 170  *[[10:44](https://www.youtube.com
 
 - **A co-host:** Yeah, that goes into when the Most High held still the floods. He says he had the staff, he open up, the Most High, like Moses with the Red Sea.
 
-- **Deacon Eythan:** Yes sir. Going back to Moses. Balam touched it with the staff and at once the path opened, which then closed up again, for this the great God wished it to be done with the sons of Abraham and Jacob. D, yep. Go down to, let me see, see. Going back to Moses. Right, so let's go down to number five, the bundle.
+- **Deacon Eythan:** Yes sir. Going back to Moses. Balam touched it with the staff and at once the path opened, which then closed up again, for this the great God wished it to be done with the sons of Abraham and Jacob. Deac, yep. Go down to, let me see, see. Going back to Moses. Right, so let's go down to number five, the bundle.
 
 > The bundle, symbol of power...
 
@@ -1342,7 +1342,7 @@ Reading from an image of a book page, page 69, on Qu Katu  *[[2:19:46](https://w
 
 - Whoa. Wow. Whoa, whoa, whoa. The Indians descend from the race of Kuet Katu. That same black God in the other book we read earlier. Damn.
 
-- **A co-host:** I can't read anymore. D, this is, yo, yo, my heart. I can't take this anymore. It's like the amount of information, it's like brain overload. Deacon, give me a chance to digest this information.
+- **A co-host:** I can't read anymore. Deac, this is, yo, yo, my heart. I can't take this anymore. It's like the amount of information, it's like brain overload. Deacon, give me a chance to digest this information.
 
 - **Deacon Eythan:** I'll give you.
 
@@ -1428,7 +1428,7 @@ Reading from a website on Qu Katu, part three, "What about the prophecy of Qu Ka
 
 - **A co-host:** He said inevitable. He made up a whole word of his own.
 
-- **A co-host:** Got it. As an indelible, is an indelible aspect. D, let me start from the beginning. Jesus. Oh man.
+- **A co-host:** Got it. As an indelible, is an indelible aspect. Deac, let me start from the beginning. Jesus. Oh man.
 
 - **Deacon Eythan:** Indelible means can't be forgotten, or removed. You can't take it away. It's what it is. Indelible aspect.
 

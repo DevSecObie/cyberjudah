@@ -208,7 +208,7 @@ Reading from the Wikipedia page on Sundiata Keita, read on screen  *[[12:43](htt
 
 - So this lets me know that in the kingdom we're going to have all these books here. All 204. Right now all we have is 80, right? 204 as opposed to 80. That's a lot of books we don't have. So we're going to have complete understanding, and beyond understanding, of those 204 books. That's that manna Christ spoke about.
 
-- **Officer:** Hey D, just like in the book of Judges, we got the book of wars, the Lord.
+- **Officer:** Hey Deac, just like in the book of Judges, we got the book of wars, the Lord.
 
 - **Deacon Eythan:** Yeah, the Wars of the Lord. That too. Jasher. Book of Gad. Gad the seer. You got a lot of books that's missing, because after this the Greeks burned a lot of them. So what the Israelites retained is what we have now, and what we have now is enough to get us in the kingdom. You know, to fight. So now you got everything? All right, so let's go back to page 96 again here.
 
@@ -404,7 +404,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - *[[48:02](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=2882s)]* I mean, you know, son, like, like, yo, like, I mean, you be reading and … like, you know what I mean, like, yo, like, reading is good, like, you know what I mean, like, yo, I'm saying, like, yo, congratulations. Congratulations, nigga. Congratulations. Read. I be reading this.
 
-- **Officer:** Hey D, can we get 1 Maccabees 11:21?
+- **Officer:** Hey Deac, can we get 1 Maccabees 11:21?
 
 - **Deacon Eythan:** Finish it up first and we'll go there. Yes sir. Read on, verse 18.
 
@@ -430,7 +430,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - That's all I want. So Paul got a police escort to safety, to the governor, right? So y'all say, oh, don't deal with the authorities. That's not Bible, right? That's … politics. That ain't Bible.
 
-- **Officer:** D, this is a foretelling for us too. Because as the scripture says, it will come a time when they that slay thee will think they do the Lord's will. That's exactly what they was doing.
+- **Officer:** Deac, this is a foretelling for us too. Because as the scripture says, it will come a time when they that slay thee will think they do the Lord's will. That's exactly what they was doing.
 
 - **Deacon Eythan:** *[[51:17](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3077s)]* So my main point was to show that our people was always the enemy. Not the heathens; they were secondary. Our people were the primary enemies of the truth. All right. Now let's get, oh, you want to get, JZ, Maccabees, right?
 
@@ -496,7 +496,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 - They mean they seek money. And turn aside the way of the meek. Watch this. No, no, read again properly. A man and his father will do what? Will go in unto the same maid. They go and sleep with the same woman. They share a woman. Oh gosh. Man, his father and son sharing a woman. Come on, man. Come on. This is before white man was over us. So we had laws in place: don't take your son's wife, and don't take your father's wife. We were doing these things before there was white folks. All white folks did was take our behavior that they saw in us when they explored the world, and they reinforced bad behavior and exploited it. Goddamn. We've always been this way. Oh, white man made me? No, no, no, no, no. He simply enhanced it, and reinforced it as a good behavior. Glorified.
 
-- **Officer:** *[[1:00:01](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3601s)]* Hey D, Second Peter chapter 2 gives you a timeline.
+- **Officer:** *[[1:00:01](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3601s)]* Hey Deac, Second Peter chapter 2 gives you a timeline.
 
 - **Deacon Eythan:** Yeah, read it. Get it. From verse one. I'm trying my hardest to leave … alone, but I just can't, man. Like, once you start talking about them, you can't stop till the class is over. I don't know what's going on. I have to continue, just going about Negroes all day.
 
@@ -774,7 +774,7 @@ Reading from pages posted to the show's Telegram on African countries and their 
 
 - **Deacon Eythan:** *[[1:30:14](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=5414s)]* Oh, we had this. Yes sir.
 
-- **Officer:** I don't know if you had it in your notes, D, but this is 1868.
+- **Officer:** I don't know if you had it in your notes, Deac, but this is 1868.
 
 - **Deacon Eythan:** Good stuff. 75. I don't got this in my arsenal. No, it's good. Use that.
 
@@ -1170,7 +1170,7 @@ Reading from *History of the Moorish Empire*, volume three, pages 116 and 117, r
 
 - They accused us of torturing children, crimes against nature and cannibalism. Slander. Page what? Read on. Is there more? 117.
 
-- **Officer:** Hey D, that sound like the same thing that Aman did with us.
+- **Officer:** Hey Deac, that sound like the same thing that Aman did with us.
 
 - **Deacon Eythan:** Oh yeah. Get that too. Get that, Esther 13 and 5. Same people doing the exact same thing to the exact same people. Oh man. Give me real quick Ecclesiastes 1, nothing new under the sun. The nine. Yep. Get that first, and read this.
 

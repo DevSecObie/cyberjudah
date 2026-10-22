@@ -368,7 +368,7 @@ tags: ["Our Hidden History", "nations"]
 
 > <sup>[7](/bible/ecclesiastes/10#v7)</sup> I have seen servants upon horses, and princes walking as servants upon the earth.
 
-- So did you pull up now? Pull that... there you go, the picture, put it up. Dick, you want to? Yeah. God, God, God. Is it up? Right. Read it again.
+- So did you pull up now? Pull that... there you go, the picture, put it up. Deac, you want to? Yeah. God, God, God. Is it up? Right. Read it again.
 
 - The Bible says, I have... this is Solomon. He's seen in a vision. He said, I have seen servants, slaves, upon horses, meaning what? The white man is supposed to be, he's our servant upon this earth, but guess what, now he's in great dignity, sitting upon a horse. Right. Read.
 
@@ -394,7 +394,7 @@ Reading from an article on the Florida bill (the publication is not named)  *[[4
 
 - Approved. Already signed, in effect. Low on the bill to what? Go back. To shield people. What people? From discomfort over historic actions by their race. Who else could that be about? Can't be about black people. What do we do as a race to somebody else? Ain't for us. That's not for our discomfort; that's for this. You see how the, the slight gender in there? Yeah, to make it about sex, about homosexuality. Nope. It's about the initial historic actions of someone's race. So they're going to remove the statues. Ah, that's all I want. I didn't want no more of that article. I'm good.
 
-- Oh, yoga poster pitch up that, and Philly. Go to the online request, online request, real quick, real quick. Yeah, put them up. Right. We visited there way back. Right. I said, is it just coming from... Yes sir. We had visited there when we were teaching over there in the area. So we stopped over there, we saw these statues. We were like, wow, they had this here? This is in Philadelphia. And D, you, you're not going to realize it; you just got to go in there. I just happened to look up. He was like, yo, what the hell is this? That's how the movie says, Don't Look Up. Don't look, don't look at... yeah, it, looking up. Check this out. This is in Philly. Check this out. Y'all go back out over there. So we gotta, we gotta visit this area and do and film real fast, before they remove it like they did the one in New York. What's going, what's going on, y'all? Blow it up. All right, okay. It's not letting you blow it up. There you go. All right, cool, that's fine. And side by side, side by side.
+- Oh, yoga poster pitch up that, and Philly. Go to the online request, online request, real quick, real quick. Yeah, put them up. Right. We visited there way back. Right. I said, is it just coming from... Yes sir. We had visited there when we were teaching over there in the area. So we stopped over there, we saw these statues. We were like, wow, they had this here? This is in Philadelphia. And Deac, you, you're not going to realize it; you just got to go in there. I just happened to look up. He was like, yo, what the hell is this? That's how the movie says, Don't Look Up. Don't look, don't look at... yeah, it, looking up. Check this out. This is in Philly. Check this out. Y'all go back out over there. So we gotta, we gotta visit this area and do and film real fast, before they remove it like they did the one in New York. What's going, what's going on, y'all? Blow it up. All right, okay. It's not letting you blow it up. There you go. All right, cool, that's fine. And side by side, side by side.
 
 - So you look at this. You see a pillar, because, you know, black folks are the ones who built this country on their blood, sweat and tears, on their back. So that's, that represents what this country was built upon, basically, hauling this country, holding this country up, pretty much, from back then, slave labor, to stupid buying habits of negroes today. Your consumer, consumerism, your stupidity today, being the hugest consumers. 1.5 billion, y'all. 1.5, was it a trillion dollars, I believe? Right. 1.5 trillion dollars. I think it's more spending with black and Hispanics. If you combine the two, is about 1.7. Hispanics, that's about 2.7 trillion dollars spending value. Three point something trillion.
 
@@ -420,7 +420,7 @@ Reading from an article on the Florida bill (the publication is not named)  *[[4
 
 - So both kingdoms were pressed together, and they have statues to back it up. I have an old article on, on Wall Street, where it says blacks and Native Americans were sold on the auction blocks on Wall Street. That, that article is gone. Guess what I did? You know what I did? I printed it out. I still have it. I don't have it on me now, but I'll bring it out next week.
 
-- **A co-host:** Damn. Hey, D, we also built the Wall Street.
+- **A co-host:** Damn. Hey, Deac, we also built the Wall Street.
 
 - **Deacon Eythan:** And they built Wall Street. Yeah. That's right. In fact, I taught there years ago. Yeah, yeah, right in front of the Washington, George Washington statue. I was teaching up there, and I felt, it felt weird just being there. It feels weird, because the docs are right there where they dot this off at, they dropped us off. So I'm showing you that they had both kingdoms oppressed together here in America. That's why I told you before, I say over time, that the majority of the 12 are here. Both kingdoms, primarily, primarily are here, and the remnants of that primary who are here are everywhere else.
 
@@ -490,7 +490,7 @@ Reading from an article from a Turkish public broadcaster, international news (t
 
 - See, cft was four. That's what the bill is passed for. Y'all keep having these statues of move, and you, you're giving these white folks away to escape their history, man. That's what you're doing.
 
-- **A co-host:** Hey, dick, and this is not from our people. It's not from Jake. This is a Turkish public broadcaster, international news. This is international news. So America makes it all, all race, gender, nationality, but outside of America, it's time you flat out: the broader bans... bill bans white Americans are feeling bad about racism.
+- **A co-host:** Hey, Deac, and this is not from our people. It's not from Jake. This is a Turkish public broadcaster, international news. This is international news. So America makes it all, all race, gender, nationality, but outside of America, it's time you flat out: the broader bans... bill bans white Americans are feeling bad about racism.
 
 - **Deacon Eythan:** So that their history. That's the rawness. That's the real article. That's the real law. That's what it's passed. That's the real definition, the real reason behind the bill being passed: to make white folks feel good about themselves, being former children of slave owners.
 
@@ -748,7 +748,7 @@ Reading from *History of the Jews* by Solomon Grayzell, on the Jews of the diasp
 
 - Is that what happened now? Ain't that happening right now? Read it first again.
 
-- Take us out the land, remove any history of us being in the land, and put heathens there. That's what Rome did. That's what Britain did, under the, under the British Mandate in the League of Nations. The Syrians, what, what they call it? The, not Belford, what's it called? The Berlin Conference? Berlin Conference Declaration? Don't confuse me, man. That's the one where they took Africa, right? They took all the differences. I'm fine. Right now you're gonna mess me up, man. I'm gonna say the wrong thing, look stupid on Hillary, dick. I got you, man. It was back in 18, 1917. 1917. Decorations. Yeah. Let me make sure. Hold on. I'm sorry, deep. Oh God. Brothers, can y'all pull that up? Pull it, pull up the... let me make sure.
+- Take us out the land, remove any history of us being in the land, and put heathens there. That's what Rome did. That's what Britain did, under the, under the British Mandate in the League of Nations. The Syrians, what, what they call it? The, not Belford, what's it called? The Berlin Conference? Berlin Conference Declaration? Don't confuse me, man. That's the one where they took Africa, right? They took all the differences. I'm fine. Right now you're gonna mess me up, man. I'm gonna say the wrong thing, look stupid on Hillary, Deac. I got you, man. It was back in 18, 1917. 1917. Decorations. Yeah. Let me make sure. Hold on. I'm sorry, deep. Oh God. Brothers, can y'all pull that up? Pull it, pull up the... let me make sure.
 
 <div class="reading">
 

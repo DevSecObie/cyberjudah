@@ -410,7 +410,7 @@ Reading from the same book, the following passages: Hubert ho banro, and sigval 
 
 - I'm sorry. And the reason why, Benjamin gonna be happy, the reason why he left Benjamin with Judah is because Benjamin was very formidable. Whoa.
 
-- **A co-host:** D, D, I got, I got to walk the out like that. I got to do it.
+- **A co-host:** Deac, Deac, I got, I got to walk the out like that. I got to do it.
 
 - **Deacon Eythan:** You want to put things out like that, I got to do it, man. I got to give things. Brother said I've been giving, I've been giving Kingdom a lot of props these past you, so I got to go to Judah now, man. Go to Levi after that.
 
@@ -434,7 +434,7 @@ Reading from the same book, the following passages: Hubert ho banro, and sigval 
 
 - **Deacon Eythan:** About us. I'm sorry, I had a moment. Make sure don't lick in that, in that teacup. All right, go on. Like I was saying, man, throw me off. Listen, man: the Lord gave Judah Benjamin because Benjamin was formidable, man. They were formidable. He said: I'mma give you Benjamin. And then later on, Levi. Levi got kicked out, that we cusing problems. When Levi got kicked out of the northern kingdom, suburbs, we took them in. We said: okay, we going to take, just don't talk too much. Don't say nothing stupid, like L be doing, like L be saying something stupid. Just be quiet, take your suburbs, and give us the laws. You know.
 
-- **A co-host:** Do you know what it was, dick? We was not accepting those, you know, idols that was from kin.
+- **A co-host:** Do you know what it was, Deac? We was not accepting those, you know, idols that was from kin.
 
 - **Deacon Eythan:** Y'all got fired.
 
@@ -590,7 +590,7 @@ Reading from the history book named on air as "the history, volume one", pages 1
 
 > The establishment of a large harem demanded an immense body of servants.
 
-- So the establishment of a bunch of women involves a bunch of servants to serve your women. D, you find me? Right. Now you got the Black Hebrew Israelites say: see, see, he had a thousand wives. But they missing that part, where he built things for them, right? Built things for them. He had servants for these women. And these marriages were based upon business deals, business dealings, not, not Rod dealings. Business dealings and alliances, that led to trade and so forth, and getting chariots and horses. And Salon was the richest man alive, and well, and wisest man he was. You some broke …. He ain't talk about you. Read on. Excuse my language, I'm sorry. Broke Negroes, I'm sorry. You know, nigga sounds way better. Read it again.
+- So the establishment of a bunch of women involves a bunch of servants to serve your women. Deac, you find me? Right. Now you got the Black Hebrew Israelites say: see, see, he had a thousand wives. But they missing that part, where he built things for them, right? Built things for them. He had servants for these women. And these marriages were based upon business deals, business dealings, not, not Rod dealings. Business dealings and alliances, that led to trade and so forth, and getting chariots and horses. And Salon was the richest man alive, and well, and wisest man he was. You some broke …. He ain't talk about you. Read on. Excuse my language, I'm sorry. Broke Negroes, I'm sorry. You know, nigga sounds way better. Read it again.
 
 - The establishment of a large body of wives, or women, demanded an immense body of servants to take care of these women. He couldn't do it by himself. Make sure they have their clothes, make sure they, make sure they're taken care of. They go shopping, you take them here, you take them there. Right? He: okay, honey, wife number one, what do you want? Okay, write that down. Wife number two, what do you want? Oh, write that down. He didn't do all that. He had servants for that. They had their own servants. He probably saw some of them once, maybe every year or two years or something like that. It is what it is. They was happy, they was good, they were taken care of.
 
@@ -612,7 +612,7 @@ Reading from the history book named on air as "the history, volume one", pages 1
 
 - **Deacon Eythan:** You know, I myself have to suppress those temptations to dress fly. You know, I have to think economical. But my judite will come out when the money come in. You will see me. Yo, you see me, the longest fringes blowing in the wind. You a big old chain, diamonds in, diamond errands like this, diamonds in that. Say S had gold, gold in his hair. See, sprinkles. He had gold. Book, S Solomon, Josephus. That's in Joseph says. Salon had gold, not, not the, not no glitter of Solomon. It's the Song of Solomon also. But he had gold sprinkled in his hair. Yeah, real gold. This gold dust, man, all in the hair.
 
-- **A co-host:** Hey, dick, remember I had that? Remember I had that for my hair? It wasn't gold, but it was a sub. Glitter. Had gold glitter.
+- **A co-host:** Hey, Deac, remember I had that? Remember I had that for my hair? It wasn't gold, but it was a sub. Glitter. Had gold glitter.
 
 - **Deacon Eythan:** I don't know why you, a substitute? What do that mean? Bring that up.
 
@@ -632,7 +632,7 @@ Reading from the history book named on air as "the history, volume one", pages 1
 
 - Oh man. Yep, that's it. Right. So he had gold all on his hair. All on his hair.
 
-- Where we at now, D? So it says had to be received with great pump. Read that again, the ambassadors.
+- Where we at now, Deac? So it says had to be received with great pump. Read that again, the ambassadors.
 
 <div class="reading">
 
@@ -754,7 +754,7 @@ Reading from the same history, page 174, on the division between the tribes · r
 
 - **Deacon Eythan:** Like the Black Panthers. You had like Bobby seal, and you had, from what I heard, yeah, and you had H P Newton. Some say he's Edom. I'm not sure, but if he was. But Newton believe that, I don't believe it either. No, but H Newton, they say that, you know him, I believe he was Judah. That's what I believe he was, regardless what they say. Judah, the prophecy say so. Right. But those two are very close to it as well. So you oftentimes see that camaraderie with Judah and Benjamin. You see a lot, you see a lot of it. All right.
 
-- **A co-host:** Right. Hey, dick, and on that: remember it also says that when Solomon raised up Israel, even they can't accept it. Even now you see it, based on when you talk about the Black Panthers, or Malcolm X. Everything that they did also helped us out, but yet northern kingdom, they don't give them any props. They don't give Judah any props. So you still see that today.
+- **A co-host:** Right. Hey, Deac, and on that: remember it also says that when Solomon raised up Israel, even they can't accept it. Even now you see it, based on when you talk about the Black Panthers, or Malcolm X. Everything that they did also helped us out, but yet northern kingdom, they don't give them any props. They don't give Judah any props. So you still see that today.
 
 - **Deacon Eythan:** Mhm. I hope you express that in your teachings when you speaking Spanish. You know, nobody be understand what you're saying. I hope you express that. You better lift Judah.
 
@@ -958,7 +958,7 @@ Reading from the same history, page 174, on Jeroboam · read by a co-host  *[[1:
 
 - **A co-host:** So yeah, like we were saying, that's why we read earlier how R, Jeroboam had no paternal guidance, so he acted on impulse. You know, he's compulsive. Likewise these young black boys today, running around in Philly, pretending that they care about Walter Wallace, who was killed. Destroying things, destroying stores, taking Instagram pictures of Henny bottles. What is, why? For Wallace? He's gone. That goes back to a fabulous house.
 
-- **A co-host:** And dick, if you read the thing, there's 11 people that got killed behind that thing.
+- **A co-host:** And Deac, if you read the thing, there's 11 people that got killed behind that thing.
 
 - **Deacon Eythan:** Wow. So it's like they was fighting each other for whichever one that took something that they wanted, and they're killing each other off. Killing each other, all for w to Wallace. Yeah, okay, whatever. So we're going to take a break on that. Stay tuned. Shalom, shalom, shalom, shalom.
 
@@ -1260,7 +1260,7 @@ Reading from the same history, pages 184 to 187, on Omri, Ethbaal, Ahab and Jeze
 
 - Right. So he thought there was a problem: if we maintained ourselves as Israelites while being allied with Canaanites, we should just become Canaanites too. Let's be Americans. The hell being an Israelite. The hell that, be Americanized. Right. Same thing. He's pushing the same thing. He's pushing democracy. That's what he was pushing. That's why I said he did worse than all the kings before him. This guy was the worst. Omri was the worst.
 
-- **A co-host:** And also, D, that also proved that the Samaritans were Israel.
+- **A co-host:** And also, Deac, that also proved that the Samaritans were Israel.
 
 - **Deacon Eythan:** Yeah. Remember, it says in the capital of, go back down a little bit, where was it, right there, right there, says Baal and AAR as the official mode of worship, and he built a temple for Baal in his capital of Samaria. Right. And that's what the scripture says, right? Isaiah. Isaiah 7:8.
 
@@ -1340,7 +1340,7 @@ Reading from the same history, pages 184 to 187, on Omri, Ethbaal, Ahab and Jeze
 
 > Ahab was not even warlike.
 
-- D, he was even a fighter.
+- Deac, he was even a fighter.
 
 > He permitted the neighboring kings to treat him in a manner which would have excited the indignation, and roused the most determined opposition, of any king not altogether destitute of the filling of honor.
 
@@ -1396,7 +1396,7 @@ Reading from the same history, pages 184 to 187, on Omri, Ethbaal, Ahab and Jeze
 
 - **Deacon Eythan:** Yeah, American minded negro. Right. All right.
 
-- **A co-host:** D, you want me to start at Armory?
+- **A co-host:** Deac, you want me to start at Armory?
 
 - **Deacon Eythan:** Correct. Yeah, you got, I'm sorry, let me go there with you. I'm sorry. Yes sir. What I want you to start at. That's why the Most High can't use a weak brother. You cannot, you cannot. And we can, listen, we don't want weak brothers next to us.
 

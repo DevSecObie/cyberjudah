@@ -196,7 +196,7 @@ Reading from *Conquest*, pages 391 to 394, on Christian Spain after the conquest
 
 - Oh, see, see, now things are getting turned around. They were doing this to us; we came back and returned the favor.
 
-- **A co-host:** Hey Deke, that's why J. Edgar Hoover said, remember in the movie, he said, what would you do if you ordered a Negro? Eight months, is he eight months? Saw this, he was eight months old. What would you do if you thought of bro homer Negro? What do you mean, sir? Dude, that's my question: what would you do if you brought, if your daughter brought home a Negro? What would you do? You know, because that's, because this guy Fred Hampton is, is going to be the one that caused it to happen. As we were saying, he was trying to prevent this again, right. He's trying to prevent this again.
+- **A co-host:** Hey Deac, that's why J. Edgar Hoover said, remember in the movie, he said, what would you do if you ordered a Negro? Eight months, is he eight months? Saw this, he was eight months old. What would you do if you thought of bro homer Negro? What do you mean, sir? Dude, that's my question: what would you do if you brought, if your daughter brought home a Negro? What would you do? You know, because that's, because this guy Fred Hampton is, is going to be the one that caused it to happen. As we were saying, he was trying to prevent this again, right. He's trying to prevent this again.
 
 - **Deacon Eythan:** Weird. Again.
 
@@ -272,7 +272,7 @@ Reading from *Conquest*, pages 391 to 394, continued · read by a co-host  *[[35
 
 > <sup>[47](/bible/1-kings/22#v47)</sup> There was then no king in Edom: a deputy was king.
 
-- What's up? One second. One second, Dick, you got the First Maccabees, or do you that... No, that's some chance it's on, where the Romans had no, they didn't point no king or anything like that. No, I'm trying to find something. That's one part. I'm trying to find something else. I don't know, I was there. Hold on, hold on. One second, one second.
+- What's up? One second. One second, Deac, you got the First Maccabees, or do you that... No, that's some chance it's on, where the Romans had no, they didn't point no king or anything like that. No, I'm trying to find something. That's one part. I'm trying to find something else. I don't know, I was there. Hold on, hold on. One second, one second.
 
 - **A co-host:** You looking for somewhere Esau?
 
@@ -484,7 +484,7 @@ Reading from another book, page 64, on the cave of Kawadanga · read by a co-hos
 
 - **Deacon Eythan:** It was, this is the same names, like Castile and Aragon.
 
-- **A co-host:** So, Dick, you saying amongst the 30 men and 10 women they were able to come together and repopulate, and bring out, and reconquer, re-conquered Spain?
+- **A co-host:** So, Deac, you saying amongst the 30 men and 10 women they were able to come together and repopulate, and bring out, and reconquer, re-conquered Spain?
 
 - **Deacon Eythan:** From the 30 minutes and women that they said. Right. And that could, in that recon, and that Reconquista, they called it, Riconquista, led into what? The, the Spanish... Yeah, the Inquisition. The Inquisition. And then that led to the slave trade. Just from the 30, 30 minutes and we're not. Right, right here. See, God love them. See that a little bit, you know. Allow them to, to... Hey, they have to live out the rest of the blessings. Yeah, they had to, at the end of the day, and fulfill the rest of the prophecies.
 
@@ -748,7 +748,7 @@ Reading from *Conquest*, page 410, on the cave of Kawadanga and the Spanish lang
 
 **A co-host:** Maybe they northern kingdom and mad about the Spanish language.
 
-**Deacon Eythan:** Yeah, I think that, I think that might be it. Would you want us to tell you? You bring it out of the history. Yeah, it's garbage. Yeah, yeah. I've been wanting to say that for a long time now, that the cat's garbage. The sorry to brush your ignorant bubbles. Mm-hmm. Thank you, Dick, you said it. So now there's God's pain as the bad guy. Yes. Let me see that. You know, hold on to that too. Northern kingdom, yeah, they've really cherished that language. Let's get those likes up. We have 511 likes, 854 watchers. Everybody hit the like button. Go to the other one. There's another one, isn't it? I said it's a better one. Okay, it starts off with historical dates. Go, no, go, go back. If not here, I'll just send it again. All right, let's back up right there. Get those likes up, Israel. Let's get those likes up. Come on, come on. Yeah, so we, so we just finished going over how the Spanish language is nothing but garbage, mingled together remnants of a Latin language that was eventually deteriorated as they, as they suffered in the caves. So that's ours, that's our question, came from Spanish, the language of the cave dwellers, right. Language of K, of defeated, of defeated Christians, pretty much Spaniards. All right. Ready? Yeah, you stopped for me. We'll start it.
+**Deacon Eythan:** Yeah, I think that, I think that might be it. Would you want us to tell you? You bring it out of the history. Yeah, it's garbage. Yeah, yeah. I've been wanting to say that for a long time now, that the cat's garbage. The sorry to brush your ignorant bubbles. Mm-hmm. Thank you, Deac, you said it. So now there's God's pain as the bad guy. Yes. Let me see that. You know, hold on to that too. Northern kingdom, yeah, they've really cherished that language. Let's get those likes up. We have 511 likes, 854 watchers. Everybody hit the like button. Go to the other one. There's another one, isn't it? I said it's a better one. Okay, it starts off with historical dates. Go, no, go, go back. If not here, I'll just send it again. All right, let's back up right there. Get those likes up, Israel. Let's get those likes up. Come on, come on. Yeah, so we, so we just finished going over how the Spanish language is nothing but garbage, mingled together remnants of a Latin language that was eventually deteriorated as they, as they suffered in the caves. So that's ours, that's our question, came from Spanish, the language of the cave dwellers, right. Language of K, of defeated, of defeated Christians, pretty much Spaniards. All right. Ready? Yeah, you stopped for me. We'll start it.
 
 <div class="reading">
 
@@ -1066,7 +1066,7 @@ Reading from *Conquest*, volume 2, pages 199 to 202, on Yusuf and the Amarovids 
 
 - **Deacon Eythan:** Just watches, looking. Yep. Your pace 228 again. So we read earlier about the Mavericks under Yousef. Mavericks. Okay.
 
-- **A co-host:** Deke, if I may, I'll get some more.
+- **A co-host:** Deac, if I may, I'll get some more.
 
 - **Deacon Eythan:** No, if you want to get some more on Yousef, of his, get some more. Yeah, get some more. All right, on You Seth. Yes sir. All right, let's get some. Bring it up. History on Yousef. You just read about Yousef ibn Tashfin, of who he was, of who he was, right. Let's see who he was. I said he was Jake earlier, so y'all are saying, how you know, how you know, how you know? That's what you're going to beat him now. Yeah. All right, here we go. Have any doubts about him being people? Let's see. Highlighting. Crazy.
 
@@ -1140,7 +1140,7 @@ Reading from *Conquest*, volume 2, page 228, "The Almohades: their origin, succe
 
 *[[2:34:55](https://www.youtube.com/watch?v=9H4jzOpAr-Y&t=9295s)]* So I hope y'all enjoyed this information. Hope you got some of it. I'm gonna mock this, mark right here. Sorry, I don't know where to start next week, but yeah, hope y'all enjoyed the information we brought out today. Shout outs to the IT team. Our praise of the Lord, if anybody did an excellent job today. Shout out to the breakfast team, we did an excellent job. Breakfast as good as usual. And shout outs to you, to the viewers, and those who, who've been watching, and, and also giving donations. You, thank you. Okay.
 
-**A co-host:** Hey, shalom, Israel. All praises the Most High for Deke's class. Let's give him a hand.
+**A co-host:** Hey, shalom, Israel. All praises the Most High for Deac's class. Let's give him a hand.
 
 **Deacon Eythan:** All praises, all praises. All right, so hope y'all enjoyed the show. Lords, we'll see y'all next week for chapter 23. Right. Shout out to... Yes sir, 23. All right, that we say shalom.
 

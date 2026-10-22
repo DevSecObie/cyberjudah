@@ -113,7 +113,7 @@ tags: ["Our Hidden History", "nations"]
 
 - These are the taxes. I release it from this day forth: I'm like, nah, I don't want that from you anymore. Because the Greeks would collect taxes and collect these things from us, these parts of the trees, the seed, the fruit of the trees, all that stuff. He said, listen, you guys can keep that stuff, I don't want it.
 
-- **Officer:** Hey, D, they do that today. They got rain taxes, all type of taxes that they putting upon us now.
+- **Officer:** Hey, Deac, they do that today. They got rain taxes, all type of taxes that they putting upon us now.
 
 - **Deacon Eythan:** Yup. Same thing.
 
@@ -721,7 +721,7 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 
 - **Deacon Eythan:** Exactly right. Just like you Negroes is in the American military. But America is the extension of Rome, so you're in the party, you're part of the Italian band now too. You're the military.
 
-- **Officer:** Deacon went deep on him. Hey, D, can I throw just one more in there, for the sake of the context?
+- **Officer:** Deacon went deep on him. Hey, Deac, can I throw just one more in there, for the sake of the context?
 
 - **Deacon Eythan:** Yeah.
 

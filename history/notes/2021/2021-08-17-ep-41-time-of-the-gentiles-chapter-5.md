@@ -790,7 +790,7 @@ Reading from a short clip of Shaq giving money advice  *[[57:09](https://www.you
 
 - **Deacon Eythan:** Mm-hmm. But press play. I think this is it.
 
-- **A co-host:** And a lot of times too, Dick, those companies that make those things will give it to the atlas for them to wear too much, right, to endorse them.
+- **A co-host:** And a lot of times too, Deac, those companies that make those things will give it to the atlas for them to wear too much, right, to endorse them.
 
 - **Deacon Eythan:** Right, right, right. It's rental like that.
 
@@ -1016,7 +1016,7 @@ Reading from the book called on air *Lost Tribe Is a Myth* ("lost tribes"), page
 
 - With their weapons. Watch this.
 
-- They shot what? Arrows and lightning. They were shooting arrows and lightning. Dick, is that, is that... that, remember that movie, when, what's his name, there, models tomorrow, we brought the boat?
+- They shot what? Arrows and lightning. They were shooting arrows and lightning. Deac, is that, is that... that, remember that movie, when, what's his name, there, models tomorrow, we brought the boat?
 
 - **A co-host:** Yeah. That, that was it, right.
 
@@ -1658,11 +1658,11 @@ Reading from Dictionary.com, the entry for Falasha  *[[2:15:29](https://www.yout
 
 - So now we'll quit. Don't we go much time? Real quick, go to Google. For lasher. Real quick, just Google it. Type in philosophy and Google it.
 
-- **A co-host:** So, D, can we use the zephyr intent?
+- **A co-host:** So, Deac, can we use the zephyr intent?
 
 - **Deacon Eythan:** Yeah, exactly. That's something. I zip and I. That's exactly where they are.
 
-- **A co-host:** Hey, D, so that lets you know the curse is followers. Because Deuteronomy 28:37, that's a byword. That's, that's the Bible.
+- **A co-host:** Hey, Deac, so that lets you know the curse is followers. Because Deuteronomy 28:37, that's a byword. That's, that's the Bible.
 
 - **Deacon Eythan:** Yeah.
 
@@ -1742,7 +1742,7 @@ Reading from a Google definition of Falasha  *[[2:25:28](https://www.youtube.com
 
 **A co-host:** Yeah, that started going good until I actually spelled words, and then it was all downhill from there.
 
-**A co-host:** Hey, let's give Deke a round of applause. Beautiful class. Beautiful history. Hey, I don't know about y'all, Deacon, but Deacon been on fire, man. Last two Sabbats, one Sunday. I mean, it's coming good. So all praises to the Most High for the understanding that our leadership is bringing out.
+**A co-host:** Hey, let's give Deac a round of applause. Beautiful class. Beautiful history. Hey, I don't know about y'all, Deacon, but Deacon been on fire, man. Last two Sabbats, one Sunday. I mean, it's coming good. So all praises to the Most High for the understanding that our leadership is bringing out.
 
 *[[2:31:41](https://www.youtube.com/watch?v=I5ZRSenhTn4&t=9101s)]* All right. With that we say shalom.
 

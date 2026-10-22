@@ -520,7 +520,7 @@ Reading from the entry for the word "context", pulled up online  *[[50:23](https
 
 - Isaiah 8 and, what, 8 and 4? That's Isaiah 28. No, Isaiah, excuse me, Isaiah 8 and 4, 14, he's quoting from. So he's jumping all over the place. He jumped Isaiah 1:9, he went to Isaiah 10:22, he went to Isaiah 28, he went to Isaiah 10:22. He went all over the place. He didn't read the entire chapter, okay, apologetics.
 
-- **A co-host:** D, yeah. One camp, we're just going to teach out of Romans 9 for the whole camp.
+- **A co-host:** Deac, yeah. One camp, we're just going to teach out of Romans 9 for the whole camp.
 
 - **Deacon Eythan:** Yeah, that's, so we, that's all you have to do. Like even that, this, oh yeah, this is the perfect example of precept upon precept, line upon line. There's nowhere in the New Testament we could read it as a novel, just read straight down, because the New Testament is specifically based upon the Old Testament.
 

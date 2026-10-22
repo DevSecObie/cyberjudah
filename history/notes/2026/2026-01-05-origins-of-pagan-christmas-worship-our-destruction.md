@@ -56,7 +56,7 @@ Reading from a search answer read off the screen, on Pope Nicholas the First and
 
 - And as Bishop said yesterday, they're starting to revise and change around Google searching, because the so-called Israelis, they paid a significant amount of money to take control of AI to push things in their narrative. You got people like Candace Owens going at them now, and many people like her, coming at them hard. And they've been doing evil for so long on this earth and have so much power that they're getting reckless. So now they're being exposed. So now they're on the defensive. So now they're running around buying up Google, buying up AI to twist things in their net. So when you do a Google search of anything that ties to them or some kind of evil, it's changed. Or AI search, Google, ChatGPT, Gemini, Perplexity. Now they're starting to answer questions in a more politically correct manner. But when you ask about Israeli topics, trust me, I will tell you. Trust me, I know. I've done it. I've tried it.
 
-- **Officer:** Hey, D, real quick. The Dagon stuff. Wasn't it Dagon that the Philistines were thanking when they captured Samson?
+- **Officer:** Hey, Deac, real quick. The Dagon stuff. Wasn't it Dagon that the Philistines were thanking when they captured Samson?
 
 - **Deacon Eythan:** Yep. That's the exact same. When they took our ark, too. The ark of God. They have the Dagon hat. They had us captured.
 
@@ -92,7 +92,7 @@ Reading from a search answer read off the screen, on Pope Nicholas the First and
 
 *[[8:54](https://www.youtube.com/watch?v=_J2RFi93fIo&t=534s)]* All right. So this is a black man right here, on page 40. You see the chains on him go down to the chains on his waist, so he can't run, down to the shackles. They should have it where the shackles are tied to the other leg as well. I'm so upset. The shackles are still tied to both legs, but it represents the captivity. What they used to do is take the shackles and put them to the waist so that he can work. So it'll go from the leg to the waist.
 
-- **Officer:** Hey, D, just to go back, a sister asked a question. It pertains to the topic.
+- **Officer:** Hey, Deac, just to go back, a sister asked a question. It pertains to the topic.
 
 - **Text:** So, from what I understand, the black elves, or servants, was us. So Esau made that whole narrative, and the real St. Nicholas didn't have slaves.
 

@@ -70,7 +70,7 @@ Reading from a Google AI answer on Pope Nicholas I and Nicholas V · read by an 
 
 </div>
 
-*[[15:42](https://www.youtube.com/watch?v=akUxnlGAWyY&t=942s)]* **Officer:** Hey Dee, real quick, the Dagon stuff. Wasn't it Dagon that the Philistines were thanking when they captured Samson?
+*[[15:42](https://www.youtube.com/watch?v=akUxnlGAWyY&t=942s)]* **Officer:** Hey Deac, real quick, the Dagon stuff. Wasn't it Dagon that the Philistines were thanking when they captured Samson?
 
 **Deacon Eythan:** Yep. That's the exact same.
 
@@ -114,11 +114,11 @@ Reading from a Google AI answer on Pope Nicholas I and Nicholas V · read by an 
 
 **Deacon Eythan:** Yeah. I want to go there. I want to. No. No. No. Bring it on. No.
 
-**Officer:** Speak your truth, Dee.
+**Officer:** Speak your truth, Deac.
 
 **Deacon Eythan:** No. I will not let you take me to that place.
 
-**Officer:** Dee, what covenant, man? What covenant? Ask him, do they celebrate Christmas?
+**Officer:** Deac, what covenant, man? What covenant? Ask him, do they celebrate Christmas?
 
 **Officer:** Bring the music back. New Covenant, … the New Covenant. Christmas.
 
@@ -130,7 +130,7 @@ Reading from a Google AI answer on Pope Nicholas I and Nicholas V · read by an 
 
 **Deacon Eythan:** Oh yeah. Right. So he got to work. So it will go from the leg to the waist.
 
-*[[21:02](https://www.youtube.com/watch?v=akUxnlGAWyY&t=1262s)]* **Officer:** Hey, Dee, just to go back. A sister, she asked a question. It pertains to the topic.
+*[[21:02](https://www.youtube.com/watch?v=akUxnlGAWyY&t=1262s)]* **Officer:** Hey, Deac, just to go back. A sister, she asked a question. It pertains to the topic.
 
 **Text:** So from what I understand, the black elves/servants was us. So Esau made that whole narrative, and the real St. Nicholas didn't have slaves.
 
@@ -198,7 +198,7 @@ Reading from a Google AI answer on black American soldiers in World War II · re
 
 - **Deacon Eythan:** The Germans hit us though. The Germans started the whole eugenics thing. That started in Germany first. The brown babies. They start to sterilize the women, because the black men would go over there and smash the white girls over there. The German women had a strong lust for black men out there. So we was having a lot of sex with the women, and they start to sterilize the women out there. And then that's where, what's her name? That Edomite woman. I'm sorry. Margaret Sanger. That old. … Her, she's. My language. I'm sorry. That Margaret Sanger, I'm getting upset today, she pretty much took what they brought over there and brought it over here. Planned Parenthood, pretty much. The Germans are always racist, but not to the extent that they were on this side. America influenced it, pushed it further on them.
 
-- **Officer:** And Dee, that's heavy, because going into Christmas, you think about it, they use us to fight each other for freedom. Now here we are still doing the same.
+- **Officer:** And Deac, that's heavy, because going into Christmas, you think about it, they use us to fight each other for freedom. Now here we are still doing the same.
 
 - **Deacon Eythan:** Yep. And remember, we came back from the war and they still treat us like garbage after that.
 
@@ -391,7 +391,7 @@ Reading from *The Image of the Black in Western Art*, volume three, part two, by
 
 *[[57:14](https://www.youtube.com/watch?v=akUxnlGAWyY&t=3434s)]* **Officer:** Yes, Rodney's deflecting. He's saying, I want to answer his questions. Rodney never answers questions. Rodney always wants to ask questions. Never wants to answer the questions.
 
-**Officer:** His questions have been answered. Dee, he mentioned about Edom and Obadiah. He answered that question last week. That was answered, and he ran off. Now he's back with a new genealogy question.
+**Officer:** His questions have been answered. Deac, he mentioned about Edom and Obadiah. He answered that question last week. That was answered, and he ran off. Now he's back with a new genealogy question.
 
 **Deacon Eythan:** Oh, but here's the funny thing about genealogy, Rodney. There's not a single shred of DNA from David or Aaron or Moses that links them back to those people over there. They use modern inhabitants of the land of the Middle East for DNA testing. That's not sufficient. They also have it in Israel where it's outlawed to get a DNA test in the first place. It's illegal over there. They have legal boundaries where you cannot get DNA tested over there. They forbid it. You have to go through a number of obstacles, leaps and bounds, based upon government restrictions in Israel, to get DNA testing. Why, Rodney? Why does Israel make it so hard to get DNA tests over there? Questions. So you're not in a position right now to ask about genealogy, because the people over there in Israel, they don't like genealogy either. So you're not making much sense. Let's continue.
 

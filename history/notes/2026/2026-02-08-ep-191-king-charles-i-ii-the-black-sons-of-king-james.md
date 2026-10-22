@@ -1214,7 +1214,7 @@ Now click Duncan the First. Now Duncan the First is the son of Malcolm II. Click
 
 **Deacon Eythan:** No. Dub. … I'm trying to find him. *[[2:24:07](https://www.youtube.com/watch?v=i0o32RulIgQ&t=8647s)]* Go to Kenneth the First. Type in Kenneth the First. I missed something.
 
-**Officer:** If you don't got it, D, I got a couple pages.
+**Officer:** If you don't got it, Deac, I got a couple pages.
 
 **Deacon Eythan:** Okay, that's fine. Let me see. I'm not there with you. Put it on my screen. Go down. Okay. Kenneth the First. Go up. Type in Kenneth Dub, Wikipedia. There was two lines. I went with the wrong one, because I found it before. Click Dub. *[[2:25:13](https://www.youtube.com/watch?v=i0o32RulIgQ&t=8713s)]* Yeah, there you go. Right here. That is him. That threw me off, man. I was trying to get to him. So it is Dub. This is King Dub right here. That's his full name. Read it.
 

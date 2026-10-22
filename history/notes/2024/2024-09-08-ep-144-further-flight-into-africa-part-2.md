@@ -74,7 +74,7 @@ Reading from *Chambers's Encyclopaedia*, pages 84 and 85, on the races of Africa
 
 > But this broad grouping is inadequate to explain the present conditions, for there are probably more than two indigenous stock races
 
-- D, he says there's more than two indigenous stock races, letting you know that these are two different races. It's saying it again. Two indigenous stock races. But it's saying it's more than just these two, but they're focusing on these two at this point. Continue.
+- Deac, he says there's more than two indigenous stock races, letting you know that these are two different races. It's saying it again. Two indigenous stock races. But it's saying it's more than just these two, but they're focusing on these two at this point. Continue.
 
 > and certainly more than two stock languages in Africa,
 
@@ -400,7 +400,7 @@ Reading from *Journal of Residence in Ashanti*, the bottom of page 106 onward, o
 
 - **Deacon Eythan:** Wow. And for all those that want to be Muslim over here, go over there and be a true Muslim. They'll make you a eunuch.
 
-- **Officer:** Yeah. Hey D, this also goes with what you was bringing out last week, about how the Arabs, they have that doctrine where you can rape others' wives. That's why they took Jehoram's wives right here. They was raping them.
+- **Officer:** Yeah. Hey Deac, this also goes with what you was bringing out last week, about how the Arabs, they have that doctrine where you can rape others' wives. That's why they took Jehoram's wives right here. They was raping them.
 
 - **Deacon Eythan:** Yep. Because Allah allows you to take a man's wife. Allah says that a woman who's married, that annuls the marriage, whether the husband's alive or dead, and they can take her. You know she ain't going to sit there and accept it. She going to fight. Right.
 
@@ -410,7 +410,7 @@ Reading from *Journal of Residence in Ashanti*, the bottom of page 106 onward, o
 
 - **Deacon Eythan:** Yeah, I have that. You definitely have it. We used that years ago. Oh boy. So anyway, go back to the point. So we came across this particular statement on Google. We said, yo, Arabs and Hamites raided Negro communities. This is probably, somebody made this up. This ain't real. And we went through a whole bunch of encyclopedias that were wrong. Wrong volume, wrong publishing. They went by the same name, but it was a bunch of confusion. We finally came across it. We said, yo, this is it. We found it. We couldn't believe we found it. We were bugging out over this.
 
-- **Officer:** We was determined, D, to get that.
+- **Officer:** We was determined, Deac, to get that.
 
 - **Deacon Eythan:** Yeah, we were determined to find this book. We determined to find it for ourselves and for y'all. We cannot believe Esau wrote this in the book. Like, yo, this guy knows. Even what I read earlier with the map: it says Hamites and Negroes. They're the two distinguished races. They know. Not Hamites. They know. Hey, y'all can't find it? It's 200 something, 223 something like that. Until y'all find it, y'all can go to Bible Hub.
 
@@ -494,7 +494,7 @@ Reading from *The American Encyclopedia*, under Negro culture, on social conflic
 
 - **Deacon Eythan:** Right. Yes, yes, yes. So it varies when you travel to those. Especially, I know Uganda. We say, in our opinion, Uganda is at least 30 percent Ham and 30 percent us. Because it was almost like they know. Their facial features oftentimes give it away, and they'll tell you, you know, we're not the same. They'll tell you to your face when you talk to them. We're not Negro. We're not the same.
 
-- **Officer:** Hey D, what you mentioned too, about how they said that slavery was in the Negro community, but it's talking about indentured slavery. We even had the Year of Jubilee as well. So all those debts would be wiped out at a certain year. So it wasn't like you would be in indentured slavery forever if you could never pay it off.
+- **Officer:** Hey Deac, what you mentioned too, about how they said that slavery was in the Negro community, but it's talking about indentured slavery. We even had the Year of Jubilee as well. So all those debts would be wiped out at a certain year. So it wasn't like you would be in indentured slavery forever if you could never pay it off.
 
 - **Deacon Eythan:** Yeah, it was, like I said, a servitude. It was an indentured servitude. It was not a perpetual servitude. Right. But the Arabs and Hamites here, that's perpetual. Right. You got something? Get me real quick 2 Chronicles 26. I'm going to take a break after this. 2 Chronicles 26, verse 1 through 4. We can start pulling out some more things during the break.
 
@@ -912,7 +912,7 @@ Reading from *Travels in North Africa*, page 337, on the Canaanites who fled bef
 
 - **Deacon Eythan:** Syro is Assyrians. That's Syro. Phoenicians … that took over the land, like Antiochus. They're Syro. A Libyo-Phoenician, she'd be black. Libyo-Phoenicians were the black, with our people that resided in that area. The Syrophenicians, that reside in that area. So you got Libyo-Phoenicians, which is Jake and Ham, and then you got Syro, with the Syrians, … that resided in the area. She was definitely Edom.
 
-- **Caller:** All praises, all praises. Thank you. Also, D, I had a question. You know, being from Nottingham, do you have any books that have our history? Because I know we had a strong history over here, but there is so much to go through, I don't know which book to go to.
+- **Caller:** All praises, all praises. Thank you. Also, Deac, I had a question. You know, being from Nottingham, do you have any books that have our history? Because I know we had a strong history over here, but there is so much to go through, I don't know which book to go to.
 
 - **Deacon Eythan:** Okay. We getting there. We getting there, Nottingham. We getting there. We getting there. We got to be patient. We getting to Nottingham soon. We going to be in King James soon. It's going to be a long road, though. We going to run there real fast to come back, but we going to touch you a little bit, then eventually go full circle. So just be patient. We'll go into it. Yes.
 
@@ -1054,7 +1054,7 @@ Reading from *Travels in North Africa*, page 337, continued  *[[1:57:12](https:/
 
 - **Deacon Eythan:** Okay. All praises.
 
-- **Caller:** Yes sir, yes sir. Shout out to D, man. Shout out to Deacon.
+- **Caller:** Yes sir, yes sir. Shout out to Deac, man. Shout out to Deacon.
 
 - **Deacon Eythan:** Yes sir, yes sir.
 

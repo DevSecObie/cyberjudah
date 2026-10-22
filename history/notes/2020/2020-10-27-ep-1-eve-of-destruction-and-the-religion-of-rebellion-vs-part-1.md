@@ -189,7 +189,7 @@ tags: ["Our Hidden History", "false-religion", "marriage-family", "women"]
 
 - **Deacon Eythan:** Right. Because he gives the woman, the white man gives the woman, America gives the woman a false sense of authority. It's not real authority. Because realistically speaking, y'all don't really have power over men. There's nowhere in the world you can think of where women have complete and total domination over men. Nowhere. It's a false sense of authority. It's not real authority. Whether she's a CEO or a supervisor, she don't really own the business. She supervises the business. She has a high position in a business owned by or run by a man. You understand? So it's not real authority.
 
-- *[[22:51](https://www.youtube.com/watch?v=DdkQvJ-TwNo&t=1371s)]* Just like the 30 Eve sought for wasn't real authority either, because Satan introduced that to her. That was a trick, to what? To get her to what? Go against, rebel against Adam. So this is the first, what Satan did was, Satan attacked a marriage. Satan basically disrupted the nuclear family. Adam and Eve were a family, a couple, and Satan disrupted that, and that caused a ripple effect that brought death into the world. And, dick, also this is why we get the LGBT movement.
+- *[[22:51](https://www.youtube.com/watch?v=DdkQvJ-TwNo&t=1371s)]* Just like the 30 Eve sought for wasn't real authority either, because Satan introduced that to her. That was a trick, to what? To get her to what? Go against, rebel against Adam. So this is the first, what Satan did was, Satan attacked a marriage. Satan basically disrupted the nuclear family. Adam and Eve were a family, a couple, and Satan disrupted that, and that caused a ripple effect that brought death into the world. And, Deac, also this is why we get the LGBT movement.
 
 - **Co-host:** Yeah. Yeah, and that's the same thing they're doing. Yeah, and that's why the woman think that she's, there's a 50-50 equality with the men. And that's not true. Because it doesn't matter what the female things they could do, or, you see, they'll do weight lifting, or because they may do it, I could do it too. But you can't, you can't pregnant another woman. And that's what is trying to do by doing with the transgender, having the female that turns to a male get pregnant, and all of a sudden now, oh, my husband is pregnant. No, that's a female.
 
@@ -344,7 +344,7 @@ tags: ["Our Hidden History", "false-religion", "marriage-family", "women"]
 
 - **Deacon Eythan:** Right. Exactly. That's exactly, that's exactly what happened. Give me...
 
-- **Co-host:** And things, sorry, dick, and things begin to fall apart once you play out of that order.
+- **Co-host:** And things, sorry, Deac, and things begin to fall apart once you play out of that order.
 
 - **Deacon Eythan:** Things fall apart. It fell apart in the garden, and we're seeing the same thing today. Our women fall out that order God set for us; nothing goes right. Nothing goes right at all. Then y'all complain about many no good man, ain't this, many sh. Meanwhile you keep making the same mistake over and over again. Baby father number one, eighty-five number two, number two, baby father number three, and say many no good. No, your decisions ain't no good. Your decisions aren't no good, not the men. The men ain't no good, and you keep paying them. So you can't blame the men for your bad decisions.
 
@@ -488,11 +488,11 @@ tags: ["Our Hidden History", "false-religion", "marriage-family", "women"]
 
 *[[57:33](https://www.youtube.com/watch?v=DdkQvJ-TwNo&t=3453s)]* We're back. We are back. We're gonna open up with First Timothy two and thirteen years left from Wisdom of Solomon, read this stuff from what was in the Psalm 14 verse 27, where we went into Adam and Eve: the sin that entered into the garden through Satan, Eve's envy, was idolatry. All right, so Paul's going to elaborate on that. Let's get First Timothy 2, we're going to be verse 13 to 14.
 
-**Co-host:** Dick, you always are going to show in that... Oh yeah. Oh yeah, we mentioned earlier about the shameless and cleanest idolatry introduces into the world, especially these Christian couples and celebrities. Give them a quick example of shameless and cleanness.
+**Co-host:** Deac, you always are going to show in that... Oh yeah. Oh yeah, we mentioned earlier about the shameless and cleanest idolatry introduces into the world, especially these Christian couples and celebrities. Give them a quick example of shameless and cleanness.
 
 **Deacon Eythan:** *[[58:13](https://www.youtube.com/watch?v=DdkQvJ-TwNo&t=3493s)]* Show me a picture real quick. Also children of kind, they're changing of kind. This is an example of shameless uncleanness, changing of kind, okay? This is their son. This is not a little girl, this is their son. All right, and you see the father in the skirt, the mothers in the skirt, and the sons and of god with heels on. Hi, it's Mrs. Madness, man. Right. Female pain. This is the example. This is the example right here I'm talking about, when it comes to confusion. These people, this couple particular, being spearheaded, or being used as the spearhead, to push the homosexual agenda in the black community.
 
-**Co-host:** And, dick, you know that that's our role model.
+**Co-host:** And, Deac, you know that that's our role model.
 
 **Deacon Eythan:** Right. He's a role model. Right. Both of them.
 
@@ -560,7 +560,7 @@ tags: ["Our Hidden History", "false-religion", "marriage-family", "women"]
 
 - **Deacon Eythan:** Then that man said, yo, y'all getting mad, but a lot of them girls just seen them videos popping their ass up. Now those are man, those are my friends. Those are my friends. You like those videos? Yeah, there you go.
 
-- *[[1:05:28](https://www.youtube.com/watch?v=DdkQvJ-TwNo&t=3928s)]* I say this to brothers all the time, especially single brothers: man, you don't know how lucky you are to be in this truth, and being guided the right way. If not, you be in a club right now, you'll be a victim of rape. You find, you think you get a dime piece, and the voice change. Well, sometimes, sometimes don't change. Sometimes they got them pills, they get real, like, you don't know who. You know. Good morning. There you go. Adam's out. That right there. Click that one. Oh, I can't even watch it. Stay in the spirit, Indiana. Yeah, let's keep playing around these clubs, man. Blow it up some. You never know. Dom made no sense. Go to the other one, with what she said, king woodbine, that other one, that queen is some image, or her on his lap. Hey, D, you can still see the jawline. You see a jawline. But right there, go right there. That right there. Yeah.
+- *[[1:05:28](https://www.youtube.com/watch?v=DdkQvJ-TwNo&t=3928s)]* I say this to brothers all the time, especially single brothers: man, you don't know how lucky you are to be in this truth, and being guided the right way. If not, you be in a club right now, you'll be a victim of rape. You find, you think you get a dime piece, and the voice change. Well, sometimes, sometimes don't change. Sometimes they got them pills, they get real, like, you don't know who. You know. Good morning. There you go. Adam's out. That right there. Click that one. Oh, I can't even watch it. Stay in the spirit, Indiana. Yeah, let's keep playing around these clubs, man. Blow it up some. You never know. Dom made no sense. Go to the other one, with what she said, king woodbine, that other one, that queen is some image, or her on his lap. Hey, Deac, you can still see the jawline. You see a jawline. But right there, go right there. That right there. Yeah.
 
 - *[[1:06:30](https://www.youtube.com/watch?v=DdkQvJ-TwNo&t=3990s)]* Now, that somebody's gonna say, I know, I said man only because I'm telling you. They're gonna front, say, oh yeah, some you can't. There's some worse than this, but that's an example. That's an example of one. I've seen worse. I have seen far worse than this. And your woman sit there, and y'all advocate this nonsense, man. Y'all play around with this changing of kind. That's all I want to hit that up the screen, man. That's all I want.
 
@@ -585,7 +585,7 @@ tags: ["Our Hidden History", "false-religion", "marriage-family", "women"]
 
 - *[[1:09:11](https://www.youtube.com/watch?v=DdkQvJ-TwNo&t=4151s)]* Now let's get, man, World Star Hip-Hop. Now I want that video.
 
-- **Co-host:** And also, dick, there's a thing called swingers.
+- **Co-host:** And also, Deac, there's a thing called swingers.
 
 - **Deacon Eythan:** Right. Singers.
 
@@ -630,11 +630,11 @@ Reading from a news clip on an Egyptian court jailing five women over TikTok vid
 
 - She got trump politics. She got charged for inciting debaca means promiscuity, okay? Indecency, immorality. She's, she got from three years in jail for inciting it. So yeah, see, over here that's cute, in America, among the white folk, y'all safe with that. Over there they're not playing with you, because these are Arabs. They follow Islamic law over there, which comes from the Bible, and the Bible calls that immoral also. Indecent also. Unlike over here, they enforce them laws over there. And when the kingdom is established, we're going to enforce those laws again.
 
-- **Co-host:** That's right, the dick. Those are women. Now you're playing. Are you gonna hit the thing?
+- **Co-host:** That's right, the Deac. Those are women. Now you're playing. Are you gonna hit the thing?
 
 - **Deacon Eythan:** That's right.
 
-- **Co-host:** Now you put that. That's right. And if this won't come over here, dick, that'd be superstars.
+- **Co-host:** Now you put that. That's right. And if this won't come over here, Deac, that'd be superstars.
 
 - **Deacon Eythan:** You know. All right. Right, yeah. There'll be mega stars. Bit of rest, guys, it's almost over. Let's post a daunting video on TikTok.
 

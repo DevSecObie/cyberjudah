@@ -102,7 +102,7 @@ Reading from Wikipedia, "Battle of Carchemish" · read by Abaddon  *[[24:04](htt
 
 - See, the Babylonians allied with the Medes. You're going to find them, these a very, very versatile nation, because they were very weak. They were always joined forces or assist with stronger nations with themselves. In this instance they allied themselves with the Babylonians to overthrow the Assyrians, and the allied Egyptians with the Assyrians. Go ahead.
 
-- **A brother:** So Deek, would that be the same thing that they allied himself with Russia and, to meet, Persia, right?
+- **A brother:** So Deac, would that be the same thing that they allied himself with Russia and, to meet, Persia, right?
 
 - **Deacon Eythan:** Yes.
 
@@ -482,7 +482,7 @@ Reading from Wikipedia, "Battle of Carchemish", continued · read by Abaddon  *[
 
 *[[58:13](https://www.youtube.com/watch?v=-N16kZhDD5Y&t=3493s)]* Now remember, the Battle of Carchemish was between Egypt, now the Assyro, matter of fact, let me get deeper. Go back to that. Go to that, hold this too. Get that map. Get that out, get that map, the red map. You know I want the, but, the God B map, lost tribes. I want that map just to refresh our memory from last week. I know some of y'all, you know.
 
-**A brother:** Jake, I remember he's a very short. Hey, what, what's today? I'm the same way. I messed around, think it's Thursday and it's picking Monday. Especially all the names that we went through since we've been dealing with the Assyrian Empire, …. You know, so, yeah, this is a very good history with the Syrian Empire. So Deek is diving into depth of what really went down.
+**A brother:** Jake, I remember he's a very short. Hey, what, what's today? I'm the same way. I messed around, think it's Thursday and it's picking Monday. Especially all the names that we went through since we've been dealing with the Assyrian Empire, …. You know, so, yeah, this is a very good history with the Syrian Empire. So Deac is diving into depth of what really went down.
 
 *[[59:02](https://www.youtube.com/watch?v=-N16kZhDD5Y&t=3542s)]* So I need y'all to blow this up, because everything else on the left-hand side is irrelevant to me. Just blow it up. Go toward the Libyan desert. Go up, up, up, up, up, up, up, up, up, up, up. Right there. You're gonna blow that up some more if you can. You should see Sam Teak. There you go, you guys. I want to see Sam Teak right there, BC. See that there? Now go over, you're going to see it says garrison. Move it to your left. Nope. Yeah, go, yeah, right there. See, it says Jewish garrisons. You see that? Sam Seek the First, it's been a 640 BC.
 
@@ -736,7 +736,7 @@ Reading from the PDF article by Dirk Lang on the Yoruba and the ancient Near Eas
 
 - What? African king lists. Remember, since we adopted the Assyrian kings as our own, that's what northern kingdom did. Now let's go to number three. We're gonna go to, visit, go to Amazon. Type in the York Lang.
 
-- **A brother:** They caused the lost tribes of Israel because we lost, like Deek bringing out, we lost our identity.
+- **A brother:** They caused the lost tribes of Israel because we lost, like Deac bringing out, we lost our identity.
 
 - **Deacon Eythan:** Yeah. So just like we became lost, just like today, and became amalgamated with the other population, started taking on their customs, that of those that we associated with.
 
@@ -756,7 +756,7 @@ Reading from the PDF article by Dirk Lang on the Yoruba and the ancient Near Eas
 
 *[[1:18:37](https://www.youtube.com/watch?v=-N16kZhDD5Y&t=4717s)]* We got Amazon? Just go to, just type in Amazon. Go to Amazon and then type in York Lang book, the York Lane book, something like that. This brother, I mean, I said this brother, what's that book called? I can't see that from here. No, it should say something like, this is the old classic one over. So I'm trying to think of this, called, I said French right there, bro. Yeah, it's another, like, it's on a book that's in German. Yeah, it's a boy. No, Expedition, try that one. Click that one. That's all I want. But that's fine, but no, Expedition is good. I'll take that door in the bottom right there. Yeah, click that. Tap on the top one. Yeah, that's fine. Go down to its history. That's French. That's not what I want. Is this app or something about Kingdom Came Tonight, something like that? It's called something King Tonight. I got a demo on top you don't talk about. Yes sir. I need something, and this show, it's like a brown book. Ancient Kingdoms or West Africa, that's the one I think I want. And they do have a brown book called the Sudanic Chronicles, but nah, I said the one. Yeah, that's the one. That's the one, yeah, that's the one, that's the one that's on Amazon.
 
-*[[1:20:21](https://www.youtube.com/watch?v=-N16kZhDD5Y&t=4821s)]* Brothers, look up, just type in Dr. Lane and go to books. Nah, go, I'm sorry, go to Google. Jack Langan books. Go to Google, the York Lane, then go to books. You should see, it's the first one. Ancient Kingdoms or West Coast. There you go, click that one. D, you have the page now? With the page, I want the info, the information regarding the book. Just go to information on the book. Okay, it shows you his credentials. Go out, that's okay, we will read that. Let's show that again. It's a book called, let's go, Ancient Kingdoms of West Africa, African Centered, the Eric Lang, 586 pages. All right, go down to the history. Go on to its history of the book. I should have a history of the book right there. Not that, no, not that. You went into the book. Just go back out and go down to About the Work. Yeah, about, yeah, I want that, regarding his, that book's in a different language. About the book, that's what I want to go to. Get that, that's fine. Move it over. Yep, that should be it. Move it over. It's not really much there. That's about, that's it though. What's that say? Says, just tell you the subject: Africa, West Africa, history, West Africa. About him. Yeah, click on New York Lane, click on him right here, the author. Click on that, the page. Click on the, I mean the picture, I'm sorry. Go to biography. Okay, click the, that's fine. Try that. That's fine. We didn't read that. That should be enough, I think.
+*[[1:20:21](https://www.youtube.com/watch?v=-N16kZhDD5Y&t=4821s)]* Brothers, look up, just type in Dr. Lane and go to books. Nah, go, I'm sorry, go to Google. Jack Langan books. Go to Google, the York Lane, then go to books. You should see, it's the first one. Ancient Kingdoms or West Coast. There you go, click that one. Deac, you have the page now? With the page, I want the info, the information regarding the book. Just go to information on the book. Okay, it shows you his credentials. Go out, that's okay, we will read that. Let's show that again. It's a book called, let's go, Ancient Kingdoms of West Africa, African Centered, the Eric Lang, 586 pages. All right, go down to the history. Go on to its history of the book. I should have a history of the book right there. Not that, no, not that. You went into the book. Just go back out and go down to About the Work. Yeah, about, yeah, I want that, regarding his, that book's in a different language. About the book, that's what I want to go to. Get that, that's fine. Move it over. Yep, that should be it. Move it over. It's not really much there. That's about, that's it though. What's that say? Says, just tell you the subject: Africa, West Africa, history, West Africa. About him. Yeah, click on New York Lane, click on him right here, the author. Click on that, the page. Click on the, I mean the picture, I'm sorry. Go to biography. Okay, click the, that's fine. Try that. That's fine. We didn't read that. That should be enough, I think.
 
 **A brother:** I remember you bringing this. I'm dipping this out.
 
@@ -878,7 +878,7 @@ Reading from the article by Dirk Lang, page 582, section 1.2, "Yoruba traditions
 
 - In the north. Is that, that in the north? Where's the north? Did we stop there already? Go around in the north.
 
-- **A brother:** Sorry, Deek, but there's more stuff in there that's mine as we can pull it.
+- **A brother:** Sorry, Deac, but there's more stuff in there that's mine as we can pull it.
 
 - **Deacon Eythan:** So hold on. In the north. Hold on. Go to page 591, 1.4. I'm just sitting key points. So the Uber, that, that name for all of them came later on. They were all divided into different states, but it was eventually became basically based upon the Oil Empire, the Aruba. Those who are from this area know. This is talking about those from here may be unfamiliar. The Aruba, 1.4, right there. The Yoruba as the Lost Tribes of Israel. Contrary, gonna start at contrary and the descendants.
 
@@ -932,7 +932,7 @@ Reading from the article by Dirk Lang, page 591, section 1.4, "The Yoruba as the
 
 - Uh-huh.
 
-- **Abaddon:** Deek, I know you wanted me to stop at descendants. I'll keep going.
+- **Abaddon:** Deac, I know you wanted me to stop at descendants. I'll keep going.
 
 - **Deacon Eythan:** Oh, okay. However, here, have it here.
 
@@ -1014,7 +1014,7 @@ Reading from the article by Dirk Lang, page 591, section 1.4, "The Yoruba as the
 
 **Deacon Eythan:** We got more information on you, but I'm gonna go into it. I'll bring the books tomorrow about their traditions and customs as well, that Jerk Lang got his information from. We got a lot more stuff on you, but there's a lot more we just have. Shout out to the officer, Officer Gabe, and headquarters. He's also your boy. Yeah, you're your wife too, my wife also. Yeah, yeah, yeah, yeah. Silly as hell, man. Vast majority of northern kingdom over there, and Judah's over there. But that's what. Next question. I'm sorry, it just went on an angry rant. I'm sorry.
 
-**A brother:** We got the pages up too, Deek. All right, they just said the god that y'all were talking about, says the god is Allah, the Umar. Oh, let me see this on here.
+**A brother:** We got the pages up too, Deac. All right, they just said the god that y'all were talking about, says the god is Allah, the Umar. Oh, let me see this on here.
 
 **Deacon Eythan:** You go to that page one you sent them already? Yes, I think it's 162 or three, 164. Yeah, yeah, let's see what it says. It's gonna say it. Y'all might be familiar. I know what he's talking about.
 

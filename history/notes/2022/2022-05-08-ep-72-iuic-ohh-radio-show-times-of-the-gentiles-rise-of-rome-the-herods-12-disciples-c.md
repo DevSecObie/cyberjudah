@@ -518,7 +518,7 @@ Reading from *Black Rednecks and White Liberals*, named on air by its title (no 
 
 - If he did not walk the earth, why is it the year 2022? Why? Where's that 2000 based from? Based upon thousands of years when he was around walking the earth. You understand that time restarted when Christ died on that cross, when he was born. When Christ was born, time restarted again. Why do we start time for a man that never existed? Why? What other man on earth is time based upon? There is no other man on earth that was born and time starts again. It's craziness. Verse 12. We're going to stop at 13.
 
-- **Co-host:** Deek, we're trying to bring common sense into a people that tried to kill Lazarus after he raised him back up.
+- **Co-host:** Deac, we're trying to bring common sense into a people that tried to kill Lazarus after he raised him back up.
 
 - **Deacon Eythan:** Right, right, exactly. These are the same people. We're trying to convince the same people that saw Moses part the Red Sea but still wanted to go back to Egypt.
 

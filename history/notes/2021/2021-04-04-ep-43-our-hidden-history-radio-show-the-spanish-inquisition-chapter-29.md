@@ -220,7 +220,7 @@ Reading from a history book, page 351 onward, on West Africa, Angola and the Jew
 
 - That you might remove them far from their borders. Right. When they conquered us out of Africa, those parts of Africa, they removed us far from our land. They took our land over and parted it. The Palestinians took over Israel. The hamitz took over... well, they gained dominion over Africa, and our people who were left behind in Africa were eventually, of course, they ended up staying there and got Christianized by the Portuguese and the Spanish. You colonize the land, and *[[32:06](https://www.youtube.com/watch?v=drrbVQ_6ZAs&t=1926s)]* you have what it's called the... what do they call it? What they call it? What they call... they call it a minute. They call it...
 
-- **A co-host:** What you're looking for, D? Not bad for declaration...
+- **A co-host:** What you're looking for, Deac? Not bad for declaration...
 
 - **Deacon Eythan:** Rather than... because the other thing called, they scattered Africa. They separated them, divided among themselves.
 
@@ -398,11 +398,11 @@ Reading from a history book, page 351 onward, on West Africa, Angola and the Jew
 
 - But after that, when the Ottoman Turks under Mamat, Mamuta, Malamat the first, they conquered the Byzantine Empire. They conquered Constantinople. Okay. They conquered the Byzantine Empire in 1453, of May 14th. Okay. Mahmot the first conquered the Roman, the Roman Empire. *[[49:30](https://www.youtube.com/watch?v=drrbVQ_6ZAs&t=2970s)]* He conquered it, us. And they were under Islam. These are … and Arabs mixed together. White, according what I call them, red Arabs. Red Arabs, or white girl Euro Arabs, hero Arabs, whatever. That's what they are. Euro Arabs. Eat them Arabs. Eat them, eat them Ishmaelites, whatever. They became Turks because they ruled over Istanbul, Turkey, which is Constantinople, which is Byzantine Empire. That's the capital. All right. They took over from that area, Europe, and they began to push forward, east westward, and sort of conquering parts of Africa under the Islamic regime as Arab Turks. Arabs, still Arabs. And then once... so you have Ishmael, and you have Israel, Islamic Israelites, Turks pushing this way after the conquest in Rome, *[[50:21](https://www.youtube.com/watch?v=drrbVQ_6ZAs&t=3021s)]* conquered the Roman Empire here. Right. Our Roman Empire. They pushed over. As they're coming this way, we're fleeing from Portugal. We're fleeing from Edom here, right, from Spain apart, to go to Africa. So we ran from one oppressor into another, and they begin to sell us among themselves. That's what took place. So you had Arab competition and Portuguese going back and forth regarding slave enslaving and trading and shipping. That's what's happening. You had the trans-Saharan slave trade. That's what it's going into. And the Portuguese, which became what? The transatlantic slave trade. Competition, competing for business, which we were the business. So go ahead.
 
-- **A co-host:** And Dick, that's exactly enjoyable right there. You got that? *[[51:04](https://www.youtube.com/watch?v=drrbVQ_6ZAs&t=3064s)]* Yep. The Africans, the Arabs and the Grecians.
+- **A co-host:** And Deac, that's exactly enjoyable right there. You got that? *[[51:04](https://www.youtube.com/watch?v=drrbVQ_6ZAs&t=3064s)]* Yep. The Africans, the Arabs and the Grecians.
 
 - **Deacon Eythan:** All right. There you go. Right there. There you go. Welcome, welcome back, Captain.
 
-- **A captain:** Jesus Christ. Hey D, gom. Going back to the Angolan king that sold prisoners and so forth: I read over a book where a king from the Congo did the same thing. He was selling prisoners. He trusted the Esau. Esau trusted him to go and learn Christianity. They put him on the ship, and he ended up in South Carolina.
+- **A captain:** Jesus Christ. Hey Deac, gom. Going back to the Angolan king that sold prisoners and so forth: I read over a book where a king from the Congo did the same thing. He was selling prisoners. He trusted the Esau. Esau trusted him to go and learn Christianity. They put him on the ship, and he ended up in South Carolina.
 
 - **Deacon Eythan:** Wow. A king. A king. A king. Let's get there real quick. 28.
 
@@ -694,7 +694,7 @@ Reading from a history book, page 351 onward, on West Africa, Angola and the Jew
 
 - **Deacon Eythan:** Right there. Yep. Blow it up. That's the one. That's El Idrisi right here. Ella DC and Leo Africanus's work. And I believe Eamonn Bowen was the *[[1:17:37](https://www.youtube.com/watch?v=drrbVQ_6ZAs&t=4657s)]* one who basically... it was translated. It was in Spanish at first. He found a Spanish one, and we found the one that the man even Bowen translated it into English, I believe. Right? In 1700s. But let's blow it up some more. You see where it says Negrisha? Go up to the top. Negrisha. Go over to the right. Negrisha. That's Negro land. Another... if you type in Negrisha, you will get Negro land on Google. Negrisha is Negro land. Now go down. You're going to see Lam Lam. See there? What does it say? What's under there? Under Lam Lam? You just pixelated. Did you barely see it?
 
-- **A co-host:** D, if we go to this one, this one is better.
+- **A co-host:** Deac, if we go to this one, this one is better.
 
 - **Deacon Eythan:** Okay. The red one. The... go back. That one has them too.
 

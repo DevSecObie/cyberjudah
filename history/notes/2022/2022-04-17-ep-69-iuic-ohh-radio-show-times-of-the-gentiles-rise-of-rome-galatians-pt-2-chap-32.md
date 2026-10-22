@@ -64,7 +64,7 @@ Reading from a write-up on British Israelism read by the co-host (the source isn
 
 - **Deacon Eythan:** Now the books we have predate that, 200 years, 100 years. So it's not that date; it's way earlier. The books we have are dated earlier than that. They'll point this information out, and I bought these books.
 
-- **Co-host:** Hey D, that's why in a lot of the books, the British writers that's writing the books, you'll see the possessive "our." They'll say "our" like it's them.
+- **Co-host:** Hey Deac, that's why in a lot of the books, the British writers that's writing the books, you'll see the possessive "our." They'll say "our" like it's them.
 
 - **Deacon Eythan:** But it's not them. Those are the white folks that eventually, when we came in and intermingled and conquered and pushed out Japheth, and then Esau came in later on and intermingled with us or conquered us out of there and pushed us out as well. It's like a shift. It's like they were taking shifts. Japheth's, that's Japanese inherited land, then Jake came, and he came and, you know, we come into our land, we take over. You know what Jake do: move up in there.
 
@@ -592,7 +592,7 @@ Reading from the Bible Atlas, pages 272 and 273, Pompey's siege of Jerusalem · 
 
 - So … are fighting each other, and the white man comes in to take over stuff.
 
-- **Co-host:** Hey D, there's no difference what happened to northern kingdom on this side of the world. Remember, you had an internal struggle. You had the Aztecs and Mayans fighting against each other, and east so just came in, and saw, right? And then you had the Moors, they fighting with each other, and this man just came in. You had the time with Hannibal, the Jakes, they didn't want to help him. Same thing. Even bringing it up all the way to the 1400s, the Renaissance. The same exact thing. 13-year war, same thing.
+- **Co-host:** Hey Deac, there's no difference what happened to northern kingdom on this side of the world. Remember, you had an internal struggle. You had the Aztecs and Mayans fighting against each other, and east so just came in, and saw, right? And then you had the Moors, they fighting with each other, and this man just came in. You had the time with Hannibal, the Jakes, they didn't want to help him. Same thing. Even bringing it up all the way to the 1400s, the Renaissance. The same exact thing. 13-year war, same thing.
 
 - **Deacon Eythan:** Now we know why in the New Testament Christ kept on talking about the two greatest commandments: love God with all thy heart, and love thy neighbor as thyself. Because there's never love within a nation. There's always division amongst the tribes.
 
@@ -772,7 +772,7 @@ Reading from the *Roman Captivity* pamphlet, continued: Antipater, Caesar and He
 
 - Simon called Zelotes. Right, these guys. This goes into zealots. The Zealots were a political movement. Hold on a second.
 
-- **Co-host:** All right, D, we back whenever you're ready.
+- **Co-host:** All right, Deac, we back whenever you're ready.
 
 - **Deacon Eythan:** All right, please, go back to it. Oh gosh.
 

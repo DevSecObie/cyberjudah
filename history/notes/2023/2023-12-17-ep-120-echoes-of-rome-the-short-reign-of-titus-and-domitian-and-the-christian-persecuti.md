@@ -549,7 +549,7 @@ Reading from *The Early Christians in Rome*, continued, onto the next pages: Dom
 
 > And it is recorded that Caligula, Domitian and Diocletian were the three emperors who delighted to be styled Dominus et Deus.
 
-- Zeus, right? D, pretty much. So that's what they want to be called. They want to be called Jupiter. They identified themselves with Zeus, which was their god, and they wanted to be idolized as a divine providence in human form.
+- Zeus, right? Deac, pretty much. So that's what they want to be called. They want to be called Jupiter. They identified themselves with Zeus, which was their god, and they wanted to be idolized as a divine providence in human form.
 
 - Okay, what was that? What the hell was that? What was that, man? We'll figure that out when we go to break. We about to have a mean search going on.
 

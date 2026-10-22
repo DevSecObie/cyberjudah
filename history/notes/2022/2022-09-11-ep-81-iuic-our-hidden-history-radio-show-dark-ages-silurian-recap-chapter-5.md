@@ -213,7 +213,7 @@ Reading from *Conquest of Brazil*, continued from page 37 · read by a brother  
 
 - *[[1:12:59](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=4379s)]* Why is he using that analogy there? Why is he saying that? Who will pity a charmer bitten with a serpent? What's a charmer's job? What's a charmer do? A charmer plays a little flute, piccolo, whatever you want to call it, plays a flute, and the snake dances. And if the snake bites him, you can't feel sorry for the charmer, because he shouldn't mess with the snake in the first place. It's the same analogy with us. We play around with Esau, put him as our right hand, making him our second in command over our military. Like, yeah, he's a good guy, he's great. Then he kills us.
 
-- That started with Samuel. Give me that, Samuel, real quick. I love that history, man. I love Samuel. *[[1:13:39](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=4419s)]* Also the same thing, Deek brought out last week with El Kahina, right? With her, same thing. She goes to war with the Arabs, kills everybody, because the Lord showed her visions on what to do and where to go. They couldn't understand how does she know these things. So they call her Kahina, meaning the priestess or the prophetess, because she would get visions while fighting the Arabs, during the time of Islam on the rise, and she whipped their ass. *[[1:14:00](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=4440s)]* They couldn't understand how she knew where to go, how she knew where to hide, where to attack from, because God would show her visions of what to do. Then she overthrows the Arabs, and there's a child, Arab child, there, and she takes him and raises him as her own. He's giving intel on what she's doing and gets her overthrown, because of that peculiar weakness.
+- That started with Samuel. Give me that, Samuel, real quick. I love that history, man. I love Samuel. *[[1:13:39](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=4419s)]* Also the same thing, Deac brought out last week with El Kahina, right? With her, same thing. She goes to war with the Arabs, kills everybody, because the Lord showed her visions on what to do and where to go. They couldn't understand how does she know these things. So they call her Kahina, meaning the priestess or the prophetess, because she would get visions while fighting the Arabs, during the time of Islam on the rise, and she whipped their ass. *[[1:14:00](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=4440s)]* They couldn't understand how she knew where to go, how she knew where to hide, where to attack from, because God would show her visions of what to do. Then she overthrows the Arabs, and there's a child, Arab child, there, and she takes him and raises him as her own. He's giving intel on what she's doing and gets her overthrown, because of that peculiar weakness.
 
 - First Samuel 15 and verse 7 and 8.
 
@@ -416,7 +416,7 @@ Reading from *Who Are the Welsh?* by James Bonwick, page 46 · read by a brother
 
 > or relics of the Firbolg. Beyond the coast and Wales, he discovered a prevalence of dark eyes surpassing, says he, would I have met with in any other part of Britain. In one part of South Wales near the coast he observed 54 light eyes, nine neutral and 34
 
-- *[[1:37:20](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=5840s)]* All right, that's it on that, Deek. That's it. So we're gonna take a quick break. Oh, before we bounce for the break: this book is called *Who Are the Welsh?* by James Bonwick. It was published in 1881. The price is one shilling. This is British price, one shilling. The book right here is very small, it's brown. All right, the price is one shilling. *Who Are the Welsh?* *Who Are the Scotch?* He has in the back of the book, so these are, *Who Are the Irish?*, *Our Nationalities* number three. So there's a bunch of volumes; this is volume number three. *[[1:37:59](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=5879s)]* *Who Are the Welsh?* by James Bonwick.
+- *[[1:37:20](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=5840s)]* All right, that's it on that, Deac. That's it. So we're gonna take a quick break. Oh, before we bounce for the break: this book is called *Who Are the Welsh?* by James Bonwick. It was published in 1881. The price is one shilling. This is British price, one shilling. The book right here is very small, it's brown. All right, the price is one shilling. *Who Are the Welsh?* *Who Are the Scotch?* He has in the back of the book, so these are, *Who Are the Irish?*, *Our Nationalities* number three. So there's a bunch of volumes; this is volume number three. *[[1:37:59](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=5879s)]* *Who Are the Welsh?* by James Bonwick.
 
 - All right, going into these: these are the old world Anglo-Saxons. Okay? We are the old world Anglo-Saxons, and then the white man is the new world ones. Their world, this, their Renaissance. So we're going to take a break on that. We'll be right back in about five minutes.
 
@@ -426,7 +426,7 @@ Reading from *Who Are the Welsh?* by James Bonwick, page 46 · read by a brother
 *[[1:38:20](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=5900s)]* The break runs the network's promos: the Israel United in Christ message to the twelve tribes worldwide, soldiers in the streets of Tokyo, Captain Abiel in the streets of Washington Heights telling the brothers out there selling drugs and weed to stop, a rap, and Bishop Nathanyel's message on the Christian church and the true nation of Israel (israelunite.org, 855-484-4842).
 
 
-*[[1:48:07](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=6487s)]* We're back from the break. So as I was saying before, you mentioned that the Welsh, or the Silures, were in Cornwall and Devonshire. And we also went across the term brown and brunette. Remember I mentioned that earlier, about the brun being brown. Somebody's saying we made that up. D, how you know brown means brown? Well, you can just type in brown etymology and they'll show you brun. You can fact check me. I fact check myself before I say things. Very careful what I say. But the word brun does mean brown.
+*[[1:48:07](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=6487s)]* We're back from the break. So as I was saying before, you mentioned that the Welsh, or the Silures, were in Cornwall and Devonshire. And we also went across the term brown and brunette. Remember I mentioned that earlier, about the brun being brown. Somebody's saying we made that up. Deac, how you know brown means brown? Well, you can just type in brown etymology and they'll show you brun. You can fact check me. I fact check myself before I say things. Very careful what I say. But the word brun does mean brown.
 
 *[[1:49:50](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=6590s)]* We got some stuff here real quick, though, all of a sudden brought to my attention, *[[1:50:28](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=6628s)]* thought you guys might like. And I've said to you earlier that we are the old world Anglo-Saxons. The word Anglo-Saxon literally means angelic sons of Isaac. We are the angelic sons of Isaac, and Esau is the anti-angelic sons of Isaac. He's a Saxon, because he's the son of Isaac also, all right? But he's not angelic. Evil. He's the evil son, right? He's the new Anglo-Saxon now, so-called Anglo-Saxon. I say so-called. Anglo means angelic. He ain't nothing angelic about him at all.
 
@@ -552,11 +552,11 @@ Reading from *When Scotland Was Jewish* by Elizabeth Caldwell Hirschman and Dona
 
 - I gotta do it. I don't want to, but I gotta do it.
 
-- **A brother:** Deek, how far are you trying to go?
+- **A brother:** Deac, how far are you trying to go?
 
 - **Deacon Eythan:** No, no, no, no, no. I got it, I got it. A border, board. Shots fired, shots fired, bang bang. Go back to *Phoenician Ireland*, please. So dub goes back to black, or dark skinned, and the Campbells. I'm gonna get *[[2:06:38](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=7598s)]* back to that. I'll go back to them later on, the Campbells' portraits. It says olive. Type in the word swarthy. The word swarthy, definition, synonyms, goes back to olive skinned, or black. Olive means black, or brown. It comes in green, black and brown. So you gotta leave green out. I know green people walking around? Unless you watch Dragon Ball, the Namekians. They're real? No. So you got brown and black left.
 
-- **A brother:** D, you're not even going to finish that same paragraph? You said stop at the eyes. That paragraph you just read, there's something else in there.
+- **A brother:** Deac, you're not even going to finish that same paragraph? You said stop at the eyes. That paragraph you just read, there's something else in there.
 
 - **Deacon Eythan:** Yeah, go back. Let's go back to the place. We got excited, man. I'm *[[2:07:23](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=7643s)]* trying to leave it alone, man. We must accept it for what it is. Just finish the paragraph, man. Let's finish that, bro. There's more. I left it alone, but yeah, read the rest of it.
 
@@ -806,7 +806,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, pages 75 and 76 · read 
 
 - **Deacon Eythan:** Hold on. It tells you who she is to the right. The sister, right? I don't wanna spoil it. Hold on. It tells you who she is to the right.
 
-- **A brother:** You want to leave it right there, Deek?
+- **A brother:** You want to leave it right there, Deac?
 
 - **Deacon Eythan:** I'm going to leave it there. Pick it back up. Hold on, I'm trying. You have to leave it right there. How about this, I want to *[[2:32:53](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=9173s)]* drop the bomb, because that's — Hold on, hold on.
 
@@ -829,7 +829,7 @@ Reading from *Nature Knows No Color Line* by J. Rogers, pages 75 and 76 · read 
 
 Other than that, shout outs to the IT team. Shout out to the breakfast team. I'm aggravated now, because I know as soon as I close out, it's gonna find her name. But it's all right. We're just going to start off next week with that.
 
-**A brother:** Real quick, go back to the other image, the first one Deek brought up. Just a little attention to detail: she's right in between a crown. And I guarantee you that crown she had probably had the most precious jewels. And the key thing is, it wasn't stolen, right? That was ours. You know what I mean? *[[2:37:30](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=9450s)]* The Black Queen Elizabeth was not a thief. *[[2:37:44](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=9464s)]* That family was wealthy. They didn't have to steal from other nations, as the imposter did.
+**A brother:** Real quick, go back to the other image, the first one Deac brought up. Just a little attention to detail: she's right in between a crown. And I guarantee you that crown she had probably had the most precious jewels. And the key thing is, it wasn't stolen, right? That was ours. You know what I mean? *[[2:37:30](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=9450s)]* The Black Queen Elizabeth was not a thief. *[[2:37:44](https://www.youtube.com/watch?v=T3iUXRvn6fc&t=9464s)]* That family was wealthy. They didn't have to steal from other nations, as the imposter did.
 
 **Deacon Eythan:** That's heavy, right? She sitting right in that crown, man. So we're gonna end it on that. I really wish I could find that page where it says it. I'm gonna find it. I know already that's her. So with this, stay tuned for next week. All praise the Lord.
 

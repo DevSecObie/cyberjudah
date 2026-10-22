@@ -74,7 +74,7 @@ Reading from a passage on the persecution of 1391, the conversos and forced bapt
 
 - See that? That's madness. So they, if you feel, if they fall, they baptize you by force, then you can return to Judaism. But they baptize you based upon threatening your life with death or injury, which is torture, and you converted based upon that torture, it was legal. It was legal.
 
-- **A co-host:** So meaning, Dick, nowadays all those people in Christianity, they could come back, right? They're gonna turn, right? Under their law you can returned, you could return by the Judaism, right? Because you was forced when you was a child.
+- **A co-host:** So meaning, Deac, nowadays all those people in Christianity, they could come back, right? They're gonna turn, right? Under their law you can returned, you could return by the Judaism, right? Because you was forced when you was a child.
 
 - **Deacon Eythan:** What sin did you confess, you know? Right. But that's, so that's reverse psychology. Yeah, none of that is real. That's from the top again. Watch.
 
@@ -216,7 +216,7 @@ Reading from the same passage, after the public violence of 1391: the New Christ
 
 - **Deacon Eythan:** Never. You knew where we were going. He bought Jews, he bought Jews in this …, because we were instrumental in what? And communicating with the Native Americans. What's it? Talk with them. That's why he said bring the Jews and the …, because they, when we, where we're going there's Jews over there too, right?
 
-- **A co-host:** And Dick, remember the one book I have going to the History of the Negros, the Negro Timeline, and it showed that Columbus brought Spanish Jews. But in the other book, and The Two Promised Lands, shows that he brought Jews.
+- **A co-host:** And Deac, remember the one book I have going to the History of the Negros, the Negro Timeline, and it showed that Columbus brought Spanish Jews. But in the other book, and The Two Promised Lands, shows that he brought Jews.
 
 - **Deacon Eythan:** The Negro Almanac says that.
 
@@ -488,7 +488,7 @@ Reading from the Ranker list, *10 Horrifyingly Cool Torture Methods Used During 
 
 - **Deacon Eythan:** They shall deal with you hatefully. Cut you in half from your balls down, when your vagina down. Put you in a pit, on a pyramid, and build you a new butthole, a new vagina hole.
 
-- **A co-host:** Oh God. Deke, can we take his, this segment real quick to meditate on terror? Can we have like a, like five minute period after this to just meditate on, just him meditating after?
+- **A co-host:** Oh God. Deac, can we take his, this segment real quick to meditate on terror? Can we have like a, like five minute period after this to just meditate on, just him meditating after?
 
 - **Deacon Eythan:** Yeah, we need that third block. Yeah, we need black Jesus therapy, right? 29 again.
 
@@ -496,7 +496,7 @@ Reading from the Ranker list, *10 Horrifyingly Cool Torture Methods Used During 
 
 - You'll be exposed for being full of sin and wicked. That's what happened to you. I'm going to expose your evil to the world. You, you who are known as the only nation on the earth that had a God, now you're a bunch of naked … on an auction block with no kids. Your kids are being taken from you, your, your clothes stripped from you, because you refuse to, you refuse to follow me, serve me. Now you can serve them. Now go back to Hebrews 11 again. Go back to Hebrews 11.
 
-- **A co-host:** And Dick, when you read Ezekiel's to you how we used to dress, right?
+- **A co-host:** And Deac, when you read Ezekiel's to you how we used to dress, right?
 
 - **Deacon Eythan:** Right. Right. That's why they stole our clothes from us.
 
@@ -522,7 +522,7 @@ Reading from the Ranker list, *10 Horrifyingly Cool Torture Methods Used During 
 
 - Oh yeah, George 2868. You guys can't use that. It says you should go into Egypt again. They went to Egypt. And understand, when Moses said that, he was referring to Israel as a whole, you idiots. All 12 tribes didn't go into Egypt again with ships, idiots. That was a sect of Jews that were taken from Judea and brought to Egypt, literally. Moses is talking to all of Israel. Not some. All the nation. All of them, idiots. All of them. You shall all go into Egypt again with ships. All of you. Not three tribes, two, four, two, one, six. Y'all as stupid as hell. Why are you keep trying to challenge us? Why? Stupid. Yo, don't. Yo, don't. And don't step up to us to the streets. Don't look, don't go. Yo, we're going to make you a spectacle to the world, and we're going to put your face on a thumbnail. Yep. Get on Botanical, now Britannica.
 
-- **A co-host:** Hey D, yeah, I got something. Matthew 23 verse 29.
+- **A co-host:** Hey Deac, yeah, I got something. Matthew 23 verse 29.
 
 - **Deacon Eythan:** Okay.
 
@@ -732,7 +732,7 @@ Reading from *Britannica*, Murano · read by a co-host  *[[1:10:11](https://www.
 
 > <sup>[13](/bible/zechariah/8#v13)</sup> And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong.
 
-- **A co-host:** So God said, amongst the heathens, no matter where we went, we would be cursed. Now how are we identified under this curse? Pull that up. That Wikipedia. Look at this term, Deke. And you could call like, you know, and like you said, Niger, you know, it still means …. It's …. You pronounce it Niger, it is still constant. It has to do with this dark race of people, which were the Hebrews. Go back up. Go, go, go back up. Go back up. All right, so go slowly. Go up, go up. It says Portuguese. Go up, go up, go up. In Brazil, right? Adjective. Nigeria. Right now go to the Latin meaning of … and you're gonna see all derivatives of the words. So don't matter what country you were in, you were still a …, but pronounce a different way, do it towards that language. That's the Latin dictionary. The word … mean black or dark, right?
+- **A co-host:** So God said, amongst the heathens, no matter where we went, we would be cursed. Now how are we identified under this curse? Pull that up. That Wikipedia. Look at this term, Deac. And you could call like, you know, and like you said, Niger, you know, it still means …. It's …. You pronounce it Niger, it is still constant. It has to do with this dark race of people, which were the Hebrews. Go back up. Go, go, go back up. Go back up. All right, so go slowly. Go up, go up. It says Portuguese. Go up, go up, go up. In Brazil, right? Adjective. Nigeria. Right now go to the Latin meaning of … and you're gonna see all derivatives of the words. So don't matter what country you were in, you were still a …, but pronounce a different way, do it towards that language. That's the Latin dictionary. The word … mean black or dark, right?
 
 - **Deacon Eythan:** Goes back to Acts 26. Yep.
 
@@ -968,7 +968,7 @@ Reading from an etymology of necromancy, negromancy  *[[1:31:04](https://www.you
 
 - Now give me a second. No, give me, so the, oh damn, give me Social Religious, volume 13. I hope you have... I think I forgot it. Left that thing home. Hey, so I'm 13 over there. Social Religious. Tell me you have it. Page 76. All praises. Thank you. Wait.
 
-- **A co-host:** Saying, Jess. So Deke, at that time the Judy Art, Judy Isers were considered black extremists?
+- **A co-host:** Saying, Jess. So Deac, at that time the Judy Art, Judy Isers were considered black extremists?
 
 - **Deacon Eythan:** Yes. Just like black extremists.
 
@@ -1172,7 +1172,7 @@ Reading from *Open Season* by Ben Crump · read by a co-host  *[[2:13:10](https:
 
 - **Deacon Eythan:** Now go to, go to, hold on.
 
-- **A co-host:** And Dick, that's crazy. You got the day walkers and the night walkers, right? The day walkers, the working class under Christianity. The night walkers, the drug dealers, the killers, you know, I mean, all our people in the wickedness.
+- **A co-host:** And Deac, that's crazy. You got the day walkers and the night walkers, right? The day walkers, the working class under Christianity. The night walkers, the drug dealers, the killers, you know, I mean, all our people in the wickedness.
 
 - **Deacon Eythan:** Go above that. Go above that. Now go about that. Ben Carson. Yeah. We go to the top, above that. That page, right, the orange highlight, and that, this is called what? Those two right there. Those two. Download those two images there too. Yep. Click that. The Anatomy of Physiology Workbook for Dummies. The Anatomy and Physiology Workbook for Dummies. The anatomy, Anatomy and Physiology Workbook for Dummies. Watch this.
 
@@ -1286,7 +1286,7 @@ Reading from *Wikipedia*, Black Latinos · read by a co-host  *[[2:17:42](https:
 
 - **Deacon Eythan:** Yeah, remember, yeah, yeah, right. We were being expelled from Spain. We were falling. Yes.
 
-- **A co-host:** Say something to Dick: like the, the capital city of Haiti called the Port of Princes. Yeah, right. Four points. The Port of Princes. So that's that they took the apprentice.
+- **A co-host:** Say something to Deac: like the, the capital city of Haiti called the Port of Princes. Yeah, right. Four points. The Port of Princes. So that's that they took the apprentice.
 
 - **Deacon Eythan:** Yeah, pretty much. Try it, Josh. I can't, I can't take it, man. Can we zoom in on his face? I'm trying to focus now. We finally find out.
 
@@ -1414,7 +1414,7 @@ Reading from a page on Juan Garrido, African conquistador · read by a co-host  
 
 - And Christian namesake. See that? He was Christianized with that name. Baptized. That name is his owner's name, like all of our, our former last names.
 
-- **A co-host:** Yeah, Dick. That's why it says that he went to that Christian education.
+- **A co-host:** Yeah, Deac. That's why it says that he went to that Christian education.
 
 - **Deacon Eythan:** Yeah, exactly. Father, mayor. His father may have sold him often to that. At 15 years old, man. This dude was doing a lot. He's a kid, right? 15.
 

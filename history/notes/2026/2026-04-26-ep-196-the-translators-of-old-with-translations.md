@@ -184,7 +184,7 @@ Reading from the *Zondervan Bible Dictionary*, the entry King James Version · r
 
 > In 1611 the new version was published. It did not win immediate universal acceptance, taking almost 50 years to displace the Geneva Bible in popular favor. In the course of time, slight alterations were made, especially in spelling, to conform to changing usage, but these were all done piecemeal by private enterprise. Its excellence is shown by the fact that after 350 years it is still used in preference to any other version in the English-speaking Protestant world for both public and private use.
 
-- **Officer:** So, Dee, they had a willing spirit to do this. They didn't want no money or anything. They just did it. The Lord put the spirit on them.
+- **Officer:** So, Deac, they had a willing spirit to do this. They didn't want no money or anything. They just did it. The Lord put the spirit on them.
 
 - **Deacon Eythan:** Two years of their time, and their lives on the line too. Remember, the Catholic Church is threatening them. Put their lives on the line. What we got here? Oh, we got the names. Okay. You got this. Got a summary of the translators here, the different groups. That's cool.
 
@@ -700,7 +700,7 @@ Reading from a page on the decree of Claudius and Paul at Corinth · read by an 
 
 - **Deacon Eythan:** So no one's argued about it. If you want to say Yeshua, you say it. You want to say Yahoshua, Yahusha, whatever. We don't care, man. We really don't care. Just keep God's laws and commandments and you going to be all right. When Christ return, he going to say that name is dumb. Don't say that to me again. That ain't my name. That's stupid. He going to correct us all. But y'all argue back and forth about this name stuff. To me, it's the same thing the Christians do. The Trinity is the same thing. It's to argue, to avoid accountability. What you shouldn't be doing, you're doing. And so to hide that: oh, the name, you got the name. No, we're not stupid up here. We know what you're doing. Distraction.
 
-- **Officer:** Hey, Dee, that's why Paul said in Second Timothy, let all those that name the name of Christ depart from iniquity. So for all of that, it don't matter if you know the name or not. If you still an adulterer, a fornicator, multiple wives and all that, it don't change anything.
+- **Officer:** Hey, Deac, that's why Paul said in Second Timothy, let all those that name the name of Christ depart from iniquity. So for all of that, it don't matter if you know the name or not. If you still an adulterer, a fornicator, multiple wives and all that, it don't change anything.
 
 - **Deacon Eythan:** Yep. 2 Maccabees chapter 2, 23.
 
@@ -740,7 +740,7 @@ Reading from a page on the decree of Claudius and Paul at Corinth · read by an 
 
 - As a wise master builder. Paul was also a wise master builder. He wrote most of the New Testament. And his source material was Acts 26:22, Acts 28:23: the law and the prophets. He wrote to the Corinthians. He wrote to the Romans, to the Philippians, to the Colossians, to the Ephesians. He wrote to the saints of these areas. And these are abbreviations.
 
-- **Officer:** Just to land back, Dee, if I may, to get some more history on Jason of Cyrene and who he was. Post that page up real quick. This is a book we always been using, *History of the Jews* by Solomon Grayzel. Just read that first paragraph.
+- **Officer:** Just to land back, Deac, if I may, to get some more history on Jason of Cyrene and who he was. Post that page up real quick. This is a book we always been using, *History of the Jews* by Solomon Grayzel. Just read that first paragraph.
 
 <div class="reading">
 

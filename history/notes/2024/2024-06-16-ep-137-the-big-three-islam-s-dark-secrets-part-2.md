@@ -1238,7 +1238,7 @@ Reading from a news article on the gold smuggled out of Africa, updated 2024 · 
 
 **Deacon Eythan:** Oh man. What page do you have? We're running out of *[[2:10:34](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=7834s)]* time. 154, 155. Let's try to get that one more time. Just get that; that would be the last part. It's page 154, 155 is what I want. We can wrap it up from there.
 
-**Officer:** Hey D, while we're waiting for that too: just another example of Moab and Esau coming together against us. In Judith, when Holofernes wanted to go through the small passages to get to Jerusalem, it was Moab and Edom that said, no, don't do that. Surround and besiege the city; that will work better to defeat them. So they always come together.
+**Officer:** Hey Deac, while we're waiting for that too: just another example of Moab and Esau coming together against us. In Judith, when Holofernes wanted to go through the small passages to get to Jerusalem, it was Moab and Edom that said, no, don't do that. Surround and besiege the city; that will work better to defeat them. So they always come together.
 
 **Deacon Eythan:** You got that? Yeah. Judith 7 and 8. Read that.
 

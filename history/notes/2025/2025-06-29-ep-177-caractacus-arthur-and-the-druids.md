@@ -575,7 +575,7 @@ Reading from a book on who the Welsh are, pages 42 to 45, continued · read by a
 
 - You still see the black features in them, regardless of them mixing with everybody else. Like us today. Right? So it's not a color thing. It's a father thing. It's a genetic thing. You don't care how your face looks, you might still be a Negro regardless.
 
-- All right. So I'm going to take a break real quick. One more thing before I go, regarding how we change our faces. Type in actor that plays Deathstroke. I'm going to show you somebody you'll never think he was a Negro. He is. Y'all be like, Nah, D, you wild. No, he's Jacob. I'mma show you. Then I'mma take a break from there. Y'all can also text us at 267-262-6121, or you can also Zoom call us as well if you have any questions regarding the topic.
+- All right. So I'm going to take a break real quick. One more thing before I go, regarding how we change our faces. Type in actor that plays Deathstroke. I'm going to show you somebody you'll never think he was a Negro. He is. Y'all be like, Nah, Deac, you wild. No, he's Jacob. I'mma show you. Then I'mma take a break from there. Y'all can also text us at 267-262-6121, or you can also Zoom call us as well if you have any questions regarding the topic.
 
 - This guy right here: Joseph Michael Manganiello. That's a white dude? No, it's not. Not at all. This guy plays Deathstroke in Batman versus Superman. At the end of the movie you have Lex Luthor talking to him. He's also in Flash. He's also going to play Crocodile on the show called One Piece on Netflix, the live action One Piece. That's him too, with the hook on his hand. Go down to early life. Read February 7. Watch this.
 
@@ -623,13 +623,13 @@ Reading from Wikipedia, on Joe Manganiello's early life · read by an officer  *
 
 </div>
 
-*[[1:13:11](https://www.youtube.com/watch?v=3qaRY_YZudI&t=4391s)]* **Officer:** Hey, D, I posted something. Pull that up.
+*[[1:13:11](https://www.youtube.com/watch?v=3qaRY_YZudI&t=4391s)]* **Officer:** Hey, Deac, I posted something. Pull that up.
 
 **Deacon Eythan:** This is Drake. This is Drake here. And this is his so-called French baby mama right here. I think she's Jacob too, because she built like a Negro. She look weird to me. But this is a French woman. This is Drake. This is his son, their child right here. Zoom in, please, to their child's amazing features here. This is insanity here. Now go to Drake's father, please. Put them side by side. This is Drake and his father. Put the images side by side: him and his father and the whole family line. Generation one, generation two. That's why I read earlier that their features change with their mix with the nations. So when Israel mingled around with Japheth, it does the same thing. He came out short, all that stuff.
 
 *[[1:14:12](https://www.youtube.com/watch?v=3qaRY_YZudI&t=4452s)]* Oh, that's even better. Damn. That's grandfather, father, and son. If this son marry a white woman, it's a wrap. You'll never know that that was his grandfather, ever.
 
-**Officer:** D, I want to prove that. Let's get some more.
+**Officer:** Deac, I want to prove that. Let's get some more.
 
 **Deacon Eythan:** You'll never know. Oh, damn. This is a TikTok. It's called the dangers of mixing.
 
@@ -979,7 +979,7 @@ Reading from a book on who the Welsh are, pages 45 to 46 · read by an officer  
 
 **Officer:** Don't bring no Sicilians up in the school. Don't be slick.
 
-*[[1:46:24](https://www.youtube.com/watch?v=3qaRY_YZudI&t=6384s)]* **Text:** Shalom, D, leadership. So is it safe to say that Esau, Edom, has no culture?
+*[[1:46:24](https://www.youtube.com/watch?v=3qaRY_YZudI&t=6384s)]* **Text:** Shalom, Deac, leadership. So is it safe to say that Esau, Edom, has no culture?
 
 **Deacon Eythan:** None. Not a single piece. Correct. But they have a culture: a culture of condemnation. Cave. Condemnation of caves.
 

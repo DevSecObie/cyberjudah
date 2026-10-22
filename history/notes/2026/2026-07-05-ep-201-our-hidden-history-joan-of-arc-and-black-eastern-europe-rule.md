@@ -137,7 +137,7 @@ Reading from *Whence Came the Black Irish*, pages 53 to 55, the Irish in Jamaica
 
 - Watch this. They cared about regulating the servants' rights that were white, in detail. The black, they didn't care about them. So somebody say, oh, you had white servants and black. You did. But the white ones, they had law. Because remember, Cromwell's men didn't care. They mistreated everybody. They was like, no, you can't mistreat the white ones that way. Don't do that to them. The black ones, you don't care about. But the white ones, you don't do that to them. They had to regulate laws to make sure that the white servants were being regulated properly. They served their sentence and they go back home. Criminals, offenders, they can go back home. Them black ones, they stay there. Verse 29.
 
-- **Officer:** Hey D, also a lot of those white indentured servants that stayed, they were able to obtain what is called headrights. Headrights is when you had a slave. So those of us that became slaves, when you had a slave, you was able to get fifty acres of land for each slave that you owned. So they was able to obtain headrights. Even, you had some that had sixty; I read there was a guy, the Edomite, who had got 3,000 acres of land for having sixty slaves. They became free citizens through indentured service, and for every slave they got fifty acres of land.
+- **Officer:** Hey Deac, also a lot of those white indentured servants that stayed, they were able to obtain what is called headrights. Headrights is when you had a slave. So those of us that became slaves, when you had a slave, you was able to get fifty acres of land for each slave that you owned. So they was able to obtain headrights. Even, you had some that had sixty; I read there was a guy, the Edomite, who had got 3,000 acres of land for having sixty slaves. They became free citizens through indentured service, and for every slave they got fifty acres of land.
 
 - **Deacon Eythan:** Wow. Like verse 29 it says, they can't be saved. Those were able to get saved, not us.
 
@@ -159,7 +159,7 @@ Reading from *Whence Came the Black Irish*, page 57, the act for regulating serv
 
 > All contracts made with servants or slaves to be utterly void. All suits between servants and their masters or mistresses relating to their freedom shall be heard and determined by any two justices of the peace without any appeal.
 
-- **Officer:** Hey D, can I ask a question on that? So just going back up, you said this was for the indentured servants. This was for Esau. Because if we got caught trying to even sleep with them outside of our race, we was put to death.
+- **Officer:** Hey Deac, can I ask a question on that? So just going back up, you said this was for the indentured servants. This was for Esau. Because if we got caught trying to even sleep with them outside of our race, we was put to death.
 
 - **Deacon Eythan:** Put to death. Yeah.
 

@@ -99,7 +99,7 @@ tags: ["Our Hidden History", "christ", "false-religion"]
 
 - But they changed their names. That's what they would do: change their names and assimilate into other European nations and take on their names. But they were Israelis also. They were heavily involved in the Dutch East India Company slave trade, the Dutch West India slave trade. They were involved in that too. The colonization of Africa, they were behind that also. A lot of them were the Portuguese and Spanish merchants that bought the slaves. A lot of that is them.
 
-- **Officer:** Hey D, that's why the scripture calls them the border of wickedness.
+- **Officer:** Hey Deac, that's why the scripture calls them the border of wickedness.
 
 - **Deacon Eythan:** Yep. Because they're the beginning and the end of wickedness. They're the dukes. They are who Paul referred to in Ephesians 6 and 12. This is them here. I'm sidebar. Found it. All praises. Let's read that anyway.
 
@@ -213,7 +213,7 @@ Reading from *Biblical and Theological Dictionary* by Richard Watson, published 
 
 - See what came in later on. So it says the pulpit became a stage with ludicrous, crazy pastors, like today, that don't use the Bible, that just run around and talk and do a bunch of hand gestures and talk really fast, and then walk around and say Jesus this and Jesus that, and the Bible ain't being used. Just talking. Ludicrous priests. That's the result of Christian degeneracy.
 
-- **Officer:** Hey D, everything we just read about the church fathers, remember it said how they became models of imitation? You see all that when we went to the Vatican. All this that we just read is incorporated at the Vatican, how they changed... they all white, all the idols and so forth. They got all the twelve apostles.
+- **Officer:** Hey Deac, everything we just read about the church fathers, remember it said how they became models of imitation? You see all that when we went to the Vatican. All this that we just read is incorporated at the Vatican, how they changed... they all white, all the idols and so forth. They got all the twelve apostles.
 
 - **Deacon Eythan:** They're deified. They're deified. Yep.
 
@@ -347,7 +347,7 @@ Reading from a search result on the First Council of Nicaea and Arianism · read
 
 - Why is Christ before all things? Cuz he was made first. So he's before all those things. By him all things are in existence.
 
-- **Officer:** Hey D, if I may.
+- **Officer:** Hey Deac, if I may.
 
 - **Deacon Eythan:** Yeah, you can.
 
@@ -397,7 +397,7 @@ Reading from a search result on the First Council of Nicaea and Arianism · read
 
 - As Paul said in Colossians, all things were created by him and for him. By him all things consist. It's saying the exact same thing.
 
-- **Officer:** D, can we get two more?
+- **Officer:** Deac, can we get two more?
 
 - **Deacon Eythan:** Oh yeah. You probably got it. What you got?
 
@@ -935,7 +935,7 @@ Reading from *The Icon*, page 11, on the icons of Constantinople · read by an o
 
 *[[2:09:20](https://www.youtube.com/watch?v=P4lsDPsHtFs&t=7760s)]* **Deacon Eythan:** It's the same one. This is more closer. Zoom in. Archangel. Next. Zoom into him. It's a black man. They gave him that long ass hair for some reason. Adam. Father Adam. Go up. Zoom in. That's Adam there. Black man there. Brown as hell. Next one. Who is this here? Zoom in to her. Black woman as well. Go down. Who's this? Eve. Black woman. Next. Who's this guy right here? Look at this, Adam again. That's old. Yeah, that's old. Next. Zoom in to the left. That's clearly a black man. The afro was clear and crisp and perfect. Perfect afro there. Go to the right. Guy with a crown on his head. Looks blotted out somewhat, but we'll see what's going on. Zoom in. Enoch to the left and Melchizedek to the right.
 
-**Officer:** Hey D, I posted a screenshot from the movie *Paid in Full*. They have an icon of an angel in the movie.
+**Officer:** Hey Deac, I posted a screenshot from the movie *Paid in Full*. They have an icon of an angel in the movie.
 
 **Deacon Eythan:** Bad. Let's go to it.
 
@@ -991,7 +991,7 @@ Reading from *The Icon*, page 11, on the icons of Constantinople · read by an o
 
 **Deacon Eythan:** But that'll be next week. All praise. I hope you guys enjoyed that artwork of us ruling over there. That's the vault. We got more. I'm going to give you some more next week. Hope you guys enjoyed the lesson. Hope you enjoyed the images I showed you. I said before, man, we just getting started. We got so many more books with those images. But hope you guys enjoy what you got. So, Lord's will, next week, see y'all again.
 
-*[[2:24:06](https://www.youtube.com/watch?v=P4lsDPsHtFs&t=8646s)]* **Officer:** All right, D. That's it.
+*[[2:24:06](https://www.youtube.com/watch?v=P4lsDPsHtFs&t=8646s)]* **Officer:** All right, Deac. That's it.
 
 **Deacon Eythan:** All praise to the Most High. I'm reading the comments. A lot of these images are very, very old. So some of them were nicked deliberately, and some of them did fall apart due to age and wear and tear, from, you know, being so ancient. But for the most part they were well preserved. Russia preserved them very well. Not so much in Turkey, but Russia definitely spared a lot of the images. Most of the images I have are in Russia. We also have them from somewhere else, some Slavic country. I can't think of it at the moment. We have books from there as well.
 

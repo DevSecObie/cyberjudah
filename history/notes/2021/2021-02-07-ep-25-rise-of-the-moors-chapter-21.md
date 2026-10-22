@@ -150,7 +150,7 @@ Reading from Wikipedia, "History of the Jews", on the Jews in Spain, continued Â
 
 > Again, many converted while others chose exile.
 
-- **A co-host:** Dick, you want to?
+- **A co-host:** Deac, you want to?
 
 - **Deacon Eythan:** Oh, keep reading, and then the New Christians. Yes sir.
 

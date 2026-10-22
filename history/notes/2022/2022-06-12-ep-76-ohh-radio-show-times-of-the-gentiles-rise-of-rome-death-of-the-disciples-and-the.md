@@ -402,7 +402,7 @@ Reading from Wikipedia, Jewish Christians, continued · read by a co-host  *[[44
 
 - Stop. The split of the two. Why? Because remember earlier how Jewish Christians observed what? Mosaic law in the faith of Christ. They maintained both. But over time the pagan faith eventually did what? Caused the two to split down the middle. So now you have Christianity on one side and then you have the Mosaic law on the other side, when originally both linked together as one. But pagan Christianity separated the two over time. All right. So now, there we go, clear cut. Let's go to early Jewish Christianity. Let me try to find what that is.
 
-- **Co-host:** Hey, just to back up, Deke, with the Nicene period of Judaism, pull that book up. Let's pull it up. Blow it up. No, that's not that book. You got History of the Jews? History of the Jews folder. Just to back up Deacon on the Nicene period, because that was started by an evil negro by the name of Constantine, when he came together and merged paganism with Judaism, like Deacon was just bringing out. That was referred to as the Nicene period, which was the Council of Nicaea.
+- **Co-host:** Hey, just to back up, Deac, with the Nicene period of Judaism, pull that book up. Let's pull it up. Blow it up. No, that's not that book. You got History of the Jews? History of the Jews folder. Just to back up Deacon on the Nicene period, because that was started by an evil negro by the name of Constantine, when he came together and merged paganism with Judaism, like Deacon was just bringing out. That was referred to as the Nicene period, which was the Council of Nicaea.
 
 - **Deacon Eythan:** I'm trying to find where it says Hellenistic Christianity.
 
@@ -454,7 +454,7 @@ Reading from *History of the Jews* by Graetz, on the Council of Nicaea · read b
 
 - **Deacon Eythan:** So wait a minute. This proves that Saturday has always been the Sabbath day. Always. During this time, Saturday was the Sabbath day. That's why today in America, what's the seventh day called? Saturday. Rome's calendar had seven days, the Jew calendar had seven days. The Romans gave each day a name, and America is an extension of Rome and uses the exact same names. Because America is an extension of Rome. Sunday is Roman origin. Saturn day is Roman origin. Moon day is Monday. Tuesday is Tuesday. Woden's day, Odin's day, is Wednesday. Thor's day is Thursday. Freya's day, or Frigg's day, is Friday. Saturn day. Listen, it's Rome. America is Rome extended. That's all.
 
-- **Co-host:** I don't want to throw you off, but that's exactly what that book pointed out. The confusion is, people don't know where it starts. They got all this information; they know Rome has something to do with it, they know the Greeks, but they don't know the origin point. I just sent something to you, Deke, on Wikipedia. It's right where you're going, if it's in keeping with what you're saying. We'll save it for later. It's gonna be Hellenistic Judaism on Wikipedia. You could just type it in.
+- **Co-host:** I don't want to throw you off, but that's exactly what that book pointed out. The confusion is, people don't know where it starts. They got all this information; they know Rome has something to do with it, they know the Greeks, but they don't know the origin point. I just sent something to you, Deac, on Wikipedia. It's right where you're going, if it's in keeping with what you're saying. We'll save it for later. It's gonna be Hellenistic Judaism on Wikipedia. You could just type it in.
 
 - **Deacon Eythan:** Get First Maccabees 1:41. This is just to show that Hellenistic Judaism is in the Bible.
 
@@ -554,7 +554,7 @@ Reading from Wikipedia, the article on Hellenistic Judaism · read by a co-host 
 
 - **Deacon Eythan:** Yes. And him and his counselors, the bishops. Our people at the time.
 
-- **Co-host:** Go back to that real quick. Just a short paragraph, and the last statement, Deke, you can correct me if I'm wrong, is what we're going through right now. Adaptation. The last bottom is where we want to get to, but read that, adaptation.
+- **Co-host:** Go back to that real quick. Just a short paragraph, and the last statement, Deac, you can correct me if I'm wrong, is what we're going through right now. Adaptation. The last bottom is where we want to get to, but read that, adaptation.
 
 > Adaptation to Hellenic culture did not require compromise of Jewish precepts or conscience.
 
@@ -760,7 +760,7 @@ Reading from Wikipedia, Christianity and Hellenistic philosophies, the section o
 
 - **Co-host:** So the priests had no more courage at all to serve at the altar. All they could think about is playing sports. Just like today. When you ask a young man today what would he want to be when he grow up, all they could think about is being a rapper and an athlete. That's it. Same thing was going on back then. We had no courage to do what our forefathers, what we was supposed to be doing, according to the Bible.
 
-- **Co-host:** But despising the temple... Deke, when you're ready, just let me know.
+- **Co-host:** But despising the temple... Deac, when you're ready, just let me know.
 
 - **Deacon Eythan:** I got it. All right, find it. Go to the first followers of Jesus. It's under early Jewish Christianity, the second paragraph. Do not leave the page; it's inside in here. The first followers. Right there.
 
@@ -844,11 +844,11 @@ Reading from Wikipedia, Jewish Christians, early Jewish Christianity, continued 
 
 - Can't make it up. They were all related. Bloodline. All the disciples were related, family members, brothers, sisters, related with the Christians. They were all Israelites. All of them keeping the commandments of God, including Christ. Before and after his death, during his life, after his death, resurrection and his departure, they maintained these things. So how do you guys call yourselves Christians? You're not.
 
-- **Co-host:** Hey, Deke, can I pull a scripture real quick, sir?
+- **Co-host:** Hey, Deac, can I pull a scripture real quick, sir?
 
 - **Deacon Eythan:** Yeah.
 
-- **Co-host:** Thank you. Because I know Deke brought out Acts 11:26, showing you that the disciples were called Christians first, and they were no other nation. They weren't in front of … Caucasians, Japanese, Chinese, and a worldwide Christianity that has taken root in society today. That's not biblical. But if you go back up to Acts chapter 11 verse 19, check this out. Because even they try to go according to the Pauline epistles, saying that Paul was able to evangelize Turkey, you have Rome, you have Greece, and that's where they get modern day Christianity, based upon the Pauline epistles. But check this out. Acts chapter 11 verse 19.
+- **Co-host:** Thank you. Because I know Deac brought out Acts 11:26, showing you that the disciples were called Christians first, and they were no other nation. They weren't in front of … Caucasians, Japanese, Chinese, and a worldwide Christianity that has taken root in society today. That's not biblical. But if you go back up to Acts chapter 11 verse 19, check this out. Because even they try to go according to the Pauline epistles, saying that Paul was able to evangelize Turkey, you have Rome, you have Greece, and that's where they get modern day Christianity, based upon the Pauline epistles. But check this out. Acts chapter 11 verse 19.
 
 </div>
 
@@ -920,7 +920,7 @@ Reading from Wikipedia, the article on the Jerusalem ecclesia · read by a co-ho
 
 - How you get around this, man? How do you get around this? To restore the Israelite kingdom of God.
 
-- **Co-host:** Oh, it gets better, Deke. Go ahead.
+- **Co-host:** Oh, it gets better, Deac. Go ahead.
 
 > in place of the foreign rulers of the time.
 
@@ -1153,7 +1153,7 @@ Reading from Wikipedia, early Christianity, the section on diversity · read by 
 
 - I'm sure all these guys came from somewhere. They all claimed a direct link to the disciples or Christ himself, or they learned from him, or they learned from other people who learned from Christ or the disciples. But they all learned their own thing.
 
-- **Co-host:** So, Deke, could all these be considered as a reprobate spirit?
+- **Co-host:** So, Deac, could all these be considered as a reprobate spirit?
 
 - **Deacon Eythan:** Yes. Every last one. Reprobate spirits.
 

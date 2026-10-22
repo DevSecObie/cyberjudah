@@ -186,7 +186,7 @@ Reading from Wikipedia, the cast of the film *Gladiator*  *[[24:55](https://www.
 </div>
 
 
-*[[25:49](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1549s)]* Now, if you pause it here, his family, Commodus orders his family, orders his family to be killed, and he ends up suffering from a wound, and he ends up being found unconscious, and they take him in a slave trade. But they don't know his status. He's a Roman soldier, but they don't know he's a Roman soldier, so they take him as a slave. They call him the Sp, they call him the Spaniard. Okay, they call him the Spaniard. And D, had he been white, would they know that he was a slave? Right, they wouldn't.
+*[[25:49](https://www.youtube.com/watch?v=SRNATgtNwQI&t=1549s)]* Now, if you pause it here, his family, Commodus orders his family, orders his family to be killed, and he ends up suffering from a wound, and he ends up being found unconscious, and they take him in a slave trade. But they don't know his status. He's a Roman soldier, but they don't know he's a Roman soldier, so they take him as a slave. They call him the Sp, they call him the Spaniard. Okay, they call him the Spaniard. And Deac, had he been white, would they know that he was a slave? Right, they wouldn't.
 
 **Officer:** Right, exactly. He was a real war man. They would have known. They would have known they taking my slave. Right.
 
@@ -242,7 +242,7 @@ Reading from the Webster dictionary, the definition of whitewash  *[[31:33](http
 
 > To portray the past in a way that increase the prominence, relevance or impact of white people, and minimize the misrepresent or misrepresent that of non-white people.
 
-- **Officer:** D, so when they whitewash, they understand who they want to decrease.
+- **Officer:** Deac, so when they whitewash, they understand who they want to decrease.
 
 - **Deacon Eythan:** Wow.
 
@@ -319,7 +319,7 @@ Reading from the Webster dictionary, the definition of whitewash  *[[31:33](http
 
 - **Officer:** And you know, against you, you know, for getting the books.
 
-- **Deacon Eythan:** Bring it out, De. We do, we get them. CIS, that's the most. We have them now. It's a new day and age. We get them. Right. We get him, and dick, that's why I was telling him, I bought a book and it *[[40:57](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2457s)]* was endorsed as a gift from so-and-so to somebody else. Yes, as a gift. Enjoy this, from your auntie or uncle. It's a good read. And you'll see them highlighting it, underlining things, circling the pages, pencil it in. I listen, I had the books, it's circled in. I'm like, oh, that's a good one, thanks. I circle it, save it, write that down. And dick, in that same book, it was a Jewish encyclopedia.
+- **Deacon Eythan:** Bring it out, De. We do, we get them. CIS, that's the most. We have them now. It's a new day and age. We get them. Right. We get him, and Deac, that's why I was telling him, I bought a book and it *[[40:57](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2457s)]* was endorsed as a gift from so-and-so to somebody else. Yes, as a gift. Enjoy this, from your auntie or uncle. It's a good read. And you'll see them highlighting it, underlining things, circling the pages, pencil it in. I listen, I had the books, it's circled in. I'm like, oh, that's a good one, thanks. I circle it, save it, write that down. And Deac, in that same book, it was a Jewish encyclopedia.
 
 - **Officer:** Wow.
 
@@ -364,7 +364,7 @@ Reading from a clip of Elon Musk on another Dark Ages after a third world war  *
 
 > to bring civilization back, and perhaps shorten the length of the Dark Ages.
 
-- Pause. What does that mean? That means that when we escape and we roll and we bring ourselves back, we're going to come back and fight against the Dark Ages. That's what he's saying. We're going to come back, replenish ourselves, leave Mars, come back to Earth and fight for the *[[46:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2764s)]* Earth back again out of the hands of the dark people. That's what he's saying. And Dick, I got bad news for him. This time Christ is going to be on the scene, right. He going to roll. So you definitely coming back down to get your punishment. We're going to come for you. No space suits. We going to come for you. Red people for the red planet. We're going to come for y'all. That's going to be our planet.
+- Pause. What does that mean? That means that when we escape and we roll and we bring ourselves back, we're going to come back and fight against the Dark Ages. That's what he's saying. We're going to come back, replenish ourselves, leave Mars, come back to Earth and fight for the *[[46:04](https://www.youtube.com/watch?v=SRNATgtNwQI&t=2764s)]* Earth back again out of the hands of the dark people. That's what he's saying. And Deac, I got bad news for him. This time Christ is going to be on the scene, right. He going to roll. So you definitely coming back down to get your punishment. We're going to come for you. No space suits. We going to come for you. Red people for the red planet. We're going to come for y'all. That's going to be our planet.
 
 - **Officer:** And Di, he said the human civilization. Remember, you negro is not considered human here.
 
@@ -576,7 +576,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 - **Deacon Eythan:** That's referring to Ezra. We can get that. Was it, I think it was in that class. I got to find it. Yeah, right. So, cuz it was, going back to second ezras, I think chapter 9. I'm going get it, let me find it.
 
-- **Officer:** While you find it, D, can we read that last paragraph of the themes?
+- **Officer:** While you find it, Deac, can we read that last paragraph of the themes?
 
 - **Deacon Eythan:** Yes sir.
 
@@ -588,7 +588,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, pages 236 and 23
 
 - **Officer:** And this is what God want to do with us. He want to display his power within our behalf right now. Us waking up and standing up for the truth and bringing back our heritage and displaying it, God will speak on our behalf.
 
-- **Deacon Eythan:** Right. Y'all, this page, y'all didn't copy this one. You need to take, J, you ain't right, man. They got to take a screenshot of it. Oh, you talking about of this page? *[[1:04:55](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3895s)]* Yeah. Once 61 here, so we could let them do that. Let's go to, real quick, let's go to, sorry, D, second, it's second, just get it in the meantime. Let's see if we go inside with this.
+- **Deacon Eythan:** Right. Y'all, this page, y'all didn't copy this one. You need to take, J, you ain't right, man. They got to take a screenshot of it. Oh, you talking about of this page? *[[1:04:55](https://www.youtube.com/watch?v=SRNATgtNwQI&t=3895s)]* Yeah. Once 61 here, so we could let them do that. Let's go to, real quick, let's go to, sorry, Deac, second, it's second, just get it in the meantime. Let's see if we go inside with this.
 
 - **Officer:** It's in second Eis. It's chapter 7, I think, right? I'm looking at 8 or 9. It may be 7. Yes sir, 7:28.
 
@@ -648,7 +648,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, on Nehemiah · r
 
 - **Officer:** That's why you filter everything through the Bible, right? That's, I said before. *[[1:08:14](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4094s)]* Mhm.
 
-- **Deacon Eythan:** Hold on. Contrary feathers, chapter 12, D? Yeah, 11. 11, 11 verse 3 and 11:11. That's some weird sounds going on here.
+- **Deacon Eythan:** Hold on. Contrary feathers, chapter 12, Deac? Yeah, 11. 11, 11 verse 3 and 11:11. That's some weird sounds going on here.
 
 - **Officer:** The book of second ezas 11 verse 3.
 
@@ -779,7 +779,7 @@ Reading from *Universal History*, pages 458 and 459, on the name Iberia and the 
 
 - **Deacon Eythan:** All right. So now 459. Let's go to, from the, I want start that, you know.
 
-- **Officer:** The reason why I ask, D, because that same, when we hear the word childes, we know that goes back to *[[1:20:58](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4858s)]* Genesis 11, when Abraham to his family, to that area. So it's still referring to the Hebrews.
+- **Officer:** The reason why I ask, Deac, because that same, when we hear the word childes, we know that goes back to *[[1:20:58](https://www.youtube.com/watch?v=SRNATgtNwQI&t=4858s)]* Genesis 11, when Abraham to his family, to that area. So it's still referring to the Hebrews.
 
 - **Deacon Eythan:** Front. Yeah, it's front of Babylon language. Go to from, the page 458, the bottom, from the Phoenician. 489, 458, no, 458. Go back to 458 again. 59, the bottom, it says from the Phoenicians, right here. It starts from there and goes into 459. I'm sorry, from the Phoenicians. Now 459, blow it up.
 
@@ -947,7 +947,7 @@ Reading from a book on West Africa written in 1868 by a brother, pages 169 to 17
 
 > be compared with that of the Hebrews, and if the particular disposition, peculiar, peul, sorry, peculiar disposition of the Hebrew tribes, as *[[1:33:50](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5630s)]* detailed in scripture, and that of the EOS be prop investigated, there will be a priori, priori reasons for a serious inquiry, inquiry, whether the ebo tribe, which is but a branch of the gala tribe in the interior, is the offspring of the lost tribes of Israel,
 
-- D, bring it out.
+- Deac, bring it out.
 
 > driven down from central Africa,
 
@@ -1000,7 +1000,7 @@ Reading from a book on West Africa written in 1868 by a brother, pages 169 to 17
 
 - Right. So Israel is beyond the rivers of Ethiopia. That goes back to the White Nile, Blue Nile, *[[1:38:00](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5880s)]* the Buu, which flows into the Nile, Lake Chad, all of that. It's all the same. Israel was all in that area, all in that region. Israelites were all in that region, fleeing from multiple persecutions. If not African Arab, if not Arab, white or European.
 
-- **Officer:** Hey, real quick, D, I just want to bring this out. The book I was just talking about, which were the Israelites, the Hebrews, they were caught in that crossfire. The book is called *Seven Pillars of Wisdom*. It is a autobiography by TE Lawrence. He served as a liazon during the Arab revolt against Ottoman and Turks. So that's why it was speaking about the Iberian Jews that was in that area during that conflict.
+- **Officer:** Hey, real quick, Deac, I just want to bring this out. The book I was just talking about, which were the Israelites, the Hebrews, they were caught in that crossfire. The book is called *Seven Pillars of Wisdom*. It is a autobiography by TE Lawrence. He served as a liazon during the Arab revolt against Ottoman and Turks. So that's why it was speaking about the Iberian Jews that was in that area during that conflict.
 
 - **Deacon Eythan:** Spanish juw, right, right. je in Spain. Right, right, right. *[[1:38:53](https://www.youtube.com/watch?v=SRNATgtNwQI&t=5933s)]* So they were in that crossfire during the establish of those empires. Right. Wow. Go to *Universal*, go to *Universal History* again. Pages seven, and we're going to be pages seven and nine, to get some insight on our forefathers, our brothers.
 
@@ -1154,7 +1154,7 @@ Reading from Wikipedia, Celtiberians, continued · read by an officer  *[[2:02:1
 
 - A damn demon. They destroyed their homes. Afterwards they turned against us, then the Romans came and destroy them afterwards.
 
-- **Officer:** And D, that's the same thing, like when the Bishop be say, with the other Israelite that's attacking us right now. Esau is attacking us. So when he's done with us, what do you think he's going to do with y'all?
+- **Officer:** And Deac, that's the same thing, like when the Bishop be say, with the other Israelite that's attacking us right now. Esau is attacking us. So when he's done with us, what do you think he's going to do with y'all?
 
 - **Deacon Eythan:** Go after them.
 
@@ -1296,7 +1296,7 @@ Reading from the book on Indians in the Americas, pages 23, 42 and 49, on the Ca
 
 > who colonized Ireland may have come
 
-- To the Kelts colonized Ireland. The Kel colonized Ireland. All right. Now, let me see, let me see, let me see. And where did the Cs come from? The same place the lost child of Israel came from. D, D, continue reading. There's more.
+- To the Kelts colonized Ireland. The Kel colonized Ireland. All right. Now, let me see, let me see, let me see. And where did the Cs come from? The same place the lost child of Israel came from. Deac, Deac, continue reading. There's more.
 
 - **Officer:** Go ahead, read more.
 
@@ -1486,7 +1486,7 @@ Reading from the book on Great Britain, first published in 1883, page 41, on the
 
 - **Deacon Eythan:** And we stayed there.
 
-- **Officer:** And D, that go back to that scripture you brought out earlier, about every place we shall tread, right. Tread. So D, oh, you got more than that? Let me let you finish.
+- **Officer:** And Deac, that go back to that scripture you brought out earlier, about every place we shall tread, right. Tread. So Deac, oh, you got more than that? Let me let you finish.
 
 - **Deacon Eythan:** Center of commerce is all. Stop at, that's perfect, right where I want to stop. All right.
 
@@ -1554,7 +1554,7 @@ Reading from the next book, the childis, pages 39 and 40, on Heber and Ireland �
 
 - Page 40, and we're going to stop at hi Barum. In Scotland what? In Scotland the, you have page 40? 40. I didn't give you, I gave you, I said page 40. They don't have it? Is that it? Oh, come on, y'all, don't blowing the flow. Don't the flow off. I gave you all the pages. Yeah, come on, man. Throw me off the floor here. Page 40.
 
-- **Officer:** Hey D, can we read the scripture?
+- **Officer:** Hey Deac, can we read the scripture?
 
 - **Deacon Eythan:** Yeah, okay.
 
@@ -1590,7 +1590,7 @@ Reading from the childis book, pages 39 and 40, continued · read by an officer 
 
 - What? eum, or heum. ium, ium, or ium. ium. Still Hebrew again. Going back to the Iberian Peninsula. They both, people, our people settled both areas and named it Hebrew. ium, or *[[2:37:15](https://www.youtube.com/watch?v=SRNATgtNwQI&t=9435s)]* eeram. Same place. That's going into what? England, of Y, York. Okay. I'm showing y'all we rulle these places.
 
-- **Officer:** Now D, you want to see something? The next paragraph. Read the next paragraph.
+- **Officer:** Now Deac, you want to see something? The next paragraph. Read the next paragraph.
 
 > It may appear, as the argument unfolds itself, that the balance of proof will rest on the side of the Irish Heber having been a vable Hebrew. A stronghold of the Hebrew, of the Hebrew, was Iberia, a name under which Spain was once known.
 

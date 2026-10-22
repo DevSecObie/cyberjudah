@@ -155,7 +155,7 @@ Reading from the video of a sister asking whether wealthy white men marry black 
 
 - **Deacon Eythan:** Now get that image up. The other one. That's her. Get the one where she look like a french fry. Get the french fry picture of her. She look like burnt french fries. Give me that picture. Like a potato wedge. She look like Five Guys fries, but a human being.
 
-- **A brother:** Hey, did y'all get the other picture? Are y'all in the Our Hidden History group? Did you see the other pictures on there? That's what Deek was talking about.
+- **A brother:** Hey, did y'all get the other picture? Are y'all in the Our Hidden History group? Did you see the other pictures on there? That's what Deac was talking about.
 
 - **Deacon Eythan:** I forgot about the group. Yeah. I posted a page on there too. Yeah, that's what I was looking for. Can I zoom in? This is crazy. I remember this. Zoom in.
 
@@ -227,7 +227,7 @@ Reading from *The Oxford Illustrated History of the British Monarchy*, page 207,
 
 - But you see his nose is knocked off. His wife's nose knocked off. Listen, man. This bad. That's what they do. This is what they do. All right, give me page 269.
 
-- **A brother:** Hey Deek, if I may, sir. That's why it says, without a vision the people perish. Because when you have this stuff taken away from you, the only thing you can represent and see yourself as is what your oppressors painted you as. That's why in the comments a lot of the times you'll see, when we're showing the castles, when you're showing the history of how rich our people were, how wealthy we were, how great we were, we had status, we had fame, we had all of these things, you got brothers and sisters in the comments that can't believe it, and they're saying, no, that's not us. There's no way that could be us. Because without that vision, without seeing that and knowing that that's us, that history's been stripped from us, we perished. The only thing we can see ourselves as is what they painted us out to be now. You know Hosea 3?
+- **A brother:** Hey Deac, if I may, sir. That's why it says, without a vision the people perish. Because when you have this stuff taken away from you, the only thing you can represent and see yourself as is what your oppressors painted you as. That's why in the comments a lot of the times you'll see, when we're showing the castles, when you're showing the history of how rich our people were, how wealthy we were, how great we were, we had status, we had fame, we had all of these things, you got brothers and sisters in the comments that can't believe it, and they're saying, no, that's not us. There's no way that could be us. Because without that vision, without seeing that and knowing that that's us, that history's been stripped from us, we perished. The only thing we can see ourselves as is what they painted us out to be now. You know Hosea 3?
 
 - **Deacon Eythan:** Yes, sir. Yep, Hosea 3. Let me give y'all a piece of this, too, regarding this situation, with this verse.
 
@@ -651,7 +651,7 @@ Reading from *Britannica*, the entry on James I, King of England and Scotland ·
 
 > There did not exist in Scotland the great gulf between rulers and ruled that separated the Tudors and their subjects in England. For nine generations the Stewarts had in fact been merely the ruling family among many equals, and James all his life retained a feeling for those of the great Scottish lords who gained his confidence. The young King was kept fairly isolated but was given a good education. Until the age of 14 he studied Greek, French and Latin and made good use of a library of classical and religious writings that his tutors, George Buchanan and Peter Young, assembled for him. James's education awakened in him literary ambitions rarely found in princes, but which also tended to make him a pedant.
 
-- **A brother:** Yo Deek, so wait a minute. She blew the house up? You said allegedly she blew the house up.
+- **A brother:** Yo Deac, so wait a minute. She blew the house up? You said allegedly she blew the house up.
 
 - **Deacon Eythan:** She was behind the explosion. She liked him being her husband, but he was a threat. Because remember, she inherited the throne as a queen. He was a descendant of knights, Lord Darnley, but he was a relative. Remember, their families intermarry. They're cousins. So she felt threatened, because he can take over the throne. He's a male. A male should be on the throne, not a woman. So because of that she said, this guy got to go. That's what they say. It's alleged. But Queen Elizabeth had her killed, cuz she was on some plotting stuff, so I think it may have been true.
 
@@ -793,7 +793,7 @@ Reading from an online article on the Gunpowder Plot · read by a brother  *[[1:
 
 **A brother:** All praises. Yes, sir. There we have it, man. Some fire, fire, fire history coming from the brothers. We're going to close out.
 
-*[[1:56:17](https://www.youtube.com/watch?v=71yu9SCHSrg&t=6977s)]* **A brother:** All right, y'all. That's the end of the show. Deek, any last words?
+*[[1:56:17](https://www.youtube.com/watch?v=71yu9SCHSrg&t=6977s)]* **A brother:** All right, y'all. That's the end of the show. Deac, any last words?
 
 **Deacon Eythan:** Yes. Hope you enjoyed the show. I'm very tired. Hope you guys enjoyed the show. And Lord's will, we got more for y'all. So, this lesson will be entitled again: the black King Henrys and the James, and the King James. All right. We touched on the King Henrys. We touched on King James the Third. We got way more. We got so much more. So, hope you guys enjoyed the show. Hope you guys enjoyed the imagery we showed as well. All right. Irrefutable, undeniable evidence of these black rulers and kings and royalty. So, Lord's will, we got more for y'all next week. Shalom. Most High and Christ bless.
 

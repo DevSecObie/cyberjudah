@@ -724,7 +724,7 @@ Reading from the Jewish Virtual Library, on Assyria · read by a captain  *[[1:2
 
 - Token that they'd be not a people. Wow. Broken that they basically not, nameless and faceless into the sands of northern Iraq.
 
-- **A captain:** Dee, why didn't they say faceless?
+- **A captain:** Deac, why didn't they say faceless?
 
 - **Deacon Eythan:** Because they were gonna mingle around with everybody. So that's them not retaining original speech and their original features. That goes back to Hosea chapter seven, E for her makes herself with the people. Remember, said that they did, they mixed themselves into a Syrian nations. And early in the, early in this, in this paragraph here, go up, go up some, go up, somebody says it. The Syrian captivity was when first Ephraim started to mix themselves amongst the people. Even, even before that they were doing that, but this is on the natural scale. It says here, it says, I said, I mentioned assimilation, which is conquered by my great cultures, languages, conquered and superchained Syrians, entire nature. That's cultural mixing. It was the Syrian experiment. It was the monarch conquest.
 
@@ -962,7 +962,7 @@ Reading from the same article, page 591, section 1.4, the Yoruba as the lost tri
 
 - **Deacon Eythan:** Yeah. And then, and, and put your mouth, and then put yourself in a plane and travel.
 
-- **A captain:** That's right, that's right. Dee, let them know.
+- **A captain:** That's right, that's right. Deac, let them know.
 
 - **Deacon Eythan:** Oh gosh. Go ahead.
 

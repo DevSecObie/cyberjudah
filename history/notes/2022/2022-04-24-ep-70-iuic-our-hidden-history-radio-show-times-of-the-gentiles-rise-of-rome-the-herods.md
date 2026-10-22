@@ -442,7 +442,7 @@ Reading from the Roman Captivity pamphlet (the author isn't named), pages 35 to 
 
 - To devour her child as soon as it was born. Who was going to do this? Herod. So Herod is part of those what? Those seven heads. Because to devour the child he needs a mouth, which is part of a head. So Herod is part of those seven heads. Herod was naidu mean. If Herod was part of the seven heads, and he was I do mean, then all seven heads are I do means. And the tail is part of those heads, that body, the little body of those heads. That's Rome. That's I do means too. Not Arabs, you stupid-ass Christians. Not Arabs. This is a nation of I do means. Herod is part of this red dragon that sought to devour the child who was born. If his head is part of these seven heads, and he's not dominion, all seven are I do means. All ten horns are I do means. All ten crowns are set upon the heads of I do means. Stop playing with him, man. Stop playing with us, man. Get out. That's it. That's it. That's right.
 
-- **Officer:** And Dick, remember too, there is the woman that put error as king.
+- **Officer:** And Deac, remember too, there is the woman that put error as king.
 
 - **Deacon Eythan:** Yes, yes. He became a Roman citizen. We read there earlier in history, he became a Roman citizen, but he was already not dominant, right? So that definitely makes him part of that fourth beast. That makes all the seven heads I do means. Once you put Herodotus and dominion trying to devour the child, that's a clue. That's why John wrote this, so you'll know who the great red dragon is, so you know what it is. And those horns that come out of those heads, that's the EU, that's the European Union. That's all I do means. So it's all about one race. And you so-called Jews, that's your daddy. How about your papa? How about your pop-pop? Your evil papa. Yeah, yeah, papa, I said so. Yeah, that's your daddy right there. That's why they say, oh, my lineage, this is my mom. Nah, ….
 
@@ -572,9 +572,9 @@ Reading from the Roman Captivity pamphlet (the author isn't named), page 40 cont
 
 - Because the disciples like, yo man, it's nice, man, look at the temple. Christ, he was like, yeah, it's gonna be destroyed. He didn't care about this. They just don't care about that stuff. Don't give a damn about Herod's buildings. It's gonna be destroyed. When Rome come through here, it's gonna be destroyed. It's gonna be rubble. Give a damn about no damn temple. He didn't care about that stuff. That goes back to what Herod did.
 
-- **Officer:** This is historical. The Bible's going through historical evidence that Herod didn't in fact do renovations. In other words, somewhere else too, something was written better somewhere else about what he did. In three days it shall be building. Not that. Let me see. I know there's a little measurement that happened. Not that one. It mentions how nice it was. They mentioned that they showed him something, that's marble, something like that. Let me see, I could be bugging. But yeah, that wall, like Deek was saying, the history that's here, that's recorded, that wall is still standing today. Like he said, that's what they be humping, and whatever they be doing out there, pumping and thrusting, pumping, popping and thrusting on that wall. All right, that's that same wall. But yeah, Herod, as you see, Herod was definitely.
+- **Officer:** This is historical. The Bible's going through historical evidence that Herod didn't in fact do renovations. In other words, somewhere else too, something was written better somewhere else about what he did. In three days it shall be building. Not that. Let me see. I know there's a little measurement that happened. Not that one. It mentions how nice it was. They mentioned that they showed him something, that's marble, something like that. Let me see, I could be bugging. But yeah, that wall, like Deac was saying, the history that's here, that's recorded, that wall is still standing today. Like he said, that's what they be humping, and whatever they be doing out there, pumping and thrusting, pumping, popping and thrusting on that wall. All right, that's that same wall. But yeah, Herod, as you see, Herod was definitely.
 
-- **Officer:** Hey, there's a book that Deek had, he brought out. You know the book I'm talking about? Red. It mentions the Caucasians, red. I think it's 13 and 1. You know what I'm talking about?
+- **Officer:** Hey, there's a book that Deac had, he brought out. You know the book I'm talking about? Red. It mentions the Caucasians, red. I think it's 13 and 1. You know what I'm talking about?
 
 - **Deacon Eythan:** Which one? Mark 13:1?
 
@@ -824,7 +824,7 @@ Reading from the Roman Captivity pamphlet (the author isn't named), pages 40 to 
 
 *[[2:15:16](https://www.youtube.com/watch?v=cYdh2pm5IVs&t=8116s)]* After Luke chapter 3 verse 1 again: All right, so hold on, hold that. Give me the Bible atlas real quick. Go to page 271.
 
-**Officer:** Dick, we also had a question. It's a little off topic, though.
+**Officer:** Deac, we also had a question. It's a little off topic, though.
 
 **Deacon Eythan:** Oh God. I said, I said on topic. They don't listen. They'll wait, 'cause it's off topic. Page 271. Read that, the first three.
 

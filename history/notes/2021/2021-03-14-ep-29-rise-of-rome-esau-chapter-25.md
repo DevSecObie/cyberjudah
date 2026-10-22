@@ -104,11 +104,11 @@ Reading from Wikipedia, *Spanish Inquisition*, the multi-religious hypothesis, a
 
 *[[21:42](https://www.youtube.com/watch?v=igTgjAKDs4E&t=1302s)]* So go back, go back now. Go back out of Jude area.
 
-**A co-host:** Got a quick question for you, Dee. Yeah. During that same era of the Inquisition, do you have anything in your notes, I think they had a torture, a tournament to get into that? Okay, I just wanted to know that. Operations.
+**A co-host:** Got a quick question for you, Deac. Yeah. During that same era of the Inquisition, do you have anything in your notes, I think they had a torture, a tournament to get into that? Okay, I just wanted to know that. Operations.
 
 **Deacon Eythan:** Yes, yes, yes. I forgot to send that too. I gotta send that over.
 
-*[[22:13](https://www.youtube.com/watch?v=igTgjAKDs4E&t=1333s)]* **A co-host:** My man Pepper, come back, jump in the gun. I was asking, brother, I asked. All right, we know we dig. Fully loaded. To bring y'all up to speed, to bring you up to speed, to do a little recap of last week. We went over how Esau definitely was coming back systematically taking us over, like Deek was bringing out. We had the petty kingdoms, man. You know, negroes ruling. You can't give negroes no power, right? You know how that goes. So what happened? We started fighting against each other, much like we did the same thing in 70 A.D. So he saw a gang, bunch of gangs, right? We went to gangs, different, they called different factions that we had: typers, typhus. All right, there's different terminologies, but the same thing, man. Looks like pretty much Blood's in this area, Crypts this area, Latin Kingdom. But they're all Muslims, right? And listen, this is what I always noticed with this history, Dick. Like, if you really think about the society you live in, it's very consistent with that history. But it's just a different era, different players, different zoning, but it's the same thing. That's what always happened to our people. Those things always follow our people.
+*[[22:13](https://www.youtube.com/watch?v=igTgjAKDs4E&t=1333s)]* **A co-host:** My man Pepper, come back, jump in the gun. I was asking, brother, I asked. All right, we know we dig. Fully loaded. To bring y'all up to speed, to bring you up to speed, to do a little recap of last week. We went over how Esau definitely was coming back systematically taking us over, like Deac was bringing out. We had the petty kingdoms, man. You know, negroes ruling. You can't give negroes no power, right? You know how that goes. So what happened? We started fighting against each other, much like we did the same thing in 70 A.D. So he saw a gang, bunch of gangs, right? We went to gangs, different, they called different factions that we had: typers, typhus. All right, there's different terminologies, but the same thing, man. Looks like pretty much Blood's in this area, Crypts this area, Latin Kingdom. But they're all Muslims, right? And listen, this is what I always noticed with this history, Deac. Like, if you really think about the society you live in, it's very consistent with that history. But it's just a different era, different players, different zoning, but it's the same thing. That's what always happened to our people. Those things always follow our people.
 
 **Deacon Eythan:** Yeah. Get Dummy 28 versus, Kirsten City, verse 16. Let's just get it.
 
@@ -628,7 +628,7 @@ Reading from a dictionary definition of *esoteric*, read off the screen  *[[1:16
 
 - **An officer:** Be not curious and unnecessary matter. Don't try to be too deep. Some of y'all want to know about the moon, the stars, and other planets and universes. You live here. You live in this universe. Focus on this universe you're in now. Oh, the stars in Mar, are they alien? Don't worry about that. Worry about what's happening here. That's the necessary matters. Read on.
 
-- **An officer:** More things are shown to you in this show than men understand. So what's that mean? It means the Bible makes you what? Esoteric. The Bible makes you esoteric. Dick, let me back that statement up. Luke, Luke 8, verse 10. You're esoteric because that's the spirit Most High put in you, and you have the prophets now reviving that spirit. And this revival has to do with a lot of mysteries. Not everybody's gonna get it. Right. Not everybody's meant to understand it, like you said. But this is what Christ said. Read that.
+- **An officer:** More things are shown to you in this show than men understand. So what's that mean? It means the Bible makes you what? Esoteric. The Bible makes you esoteric. Deac, let me back that statement up. Luke, Luke 8, verse 10. You're esoteric because that's the spirit Most High put in you, and you have the prophets now reviving that spirit. And this revival has to do with a lot of mysteries. Not everybody's gonna get it. Right. Not everybody's meant to understand it, like you said. But this is what Christ said. Read that.
 
 **[Luke 8:10](/bible/luke/8#v10)**  *[[1:22:55](https://www.youtube.com/watch?v=igTgjAKDs4E&t=4975s)]*
 
@@ -882,7 +882,7 @@ Reading from a book named on air as *Social and Religious*, volume 15, pages 354
 
 - **Deacon Eythan:** I'm about to put it in now. That's 4:32. Yeah, some few places. Yeah. First Round of 4:32. And Joshua 19. Not Bashan. Ushan. This is, Sean.
 
-- **A co-host:** Yeah. Joshua 15:42. You want that one, Deke?
+- **A co-host:** Yeah. Joshua 15:42. You want that one, Deac?
 
 - **Deacon Eythan:** Sean. Yes, yes. A lot of them. Charge for 15:42. Hold on, let me get, see what's 4:1. I think, yeah, the one, then get twenty-first. First Chronicles good too. Joshua 15, verse 2, verse 20.
 
@@ -1008,7 +1008,7 @@ Reading from the map drawn from El Adrisi and Leo Africanus, read off the screen
 
 - Go, go, go in Wikipedia. That's an El Adrici map. L3C map. Judetia. Wikipedia. Judea. Yeah, click that. I don't know, that should be it. No, that's not it. Now go back to where we were before. Yeah, and then click Judaism. Yeah, go before Viva. And Spans Inquisition, I believe. Multi-religious.
 
-- **A co-host:** Dick, I know you talking on the map too. There was another spot, it says it, that said we were enslaved, exile, or something.
+- **A co-host:** Deac, I know you talking on the map too. There was another spot, it says it, that said we were enslaved, exile, or something.
 
 - **Deacon Eythan:** Yeah. Well, you had, was it, my bad. I don't see it on my thing. No, this is the email that was sent to me. If any, yeah, right. If anything, it would be a thread. Let me send it to you.
 
@@ -1246,7 +1246,7 @@ Reading from a book named on air as *Middle Ages Jewish*, from page 66, on the J
 
 - **Deacon Eythan:** And, and those closed quarters, you don't have nowhere to go. That's why our brothers be on the corner. That's why they're in front of the building. Right. That's why they smoking weed in a lobby. There's nowhere to go, you understand? You so on top of each other. And they know that's a system they create. Now, whenever they want to go harass you and kill you, the police pass by: I tell you, you can't stand in front of the building, you're loitering. Where the hell they gonna go? They live here. Right.
 
-- **A co-host:** Hey, Deke, I just put a page up. Remember, it said that they came to the Jewish quarters trying to attack us, right, and mass, in mass. You put that pager real quick, if you don't mind, Deep.
+- **A co-host:** Hey, Deac, I just put a page up. Remember, it said that they came to the Jewish quarters trying to attack us, right, and mass, in mass. You put that pager real quick, if you don't mind, Deep.
 
 - **Deacon Eythan:** Yeah.
 
@@ -1288,7 +1288,7 @@ Reading from a book named on air as *Middle Ages Jewish*, from page 66, on the J
 
 - They were not slums at first, but they became slums.
 
-- **A co-host:** Hey, D, that's heavy, cause they're gonna be living, they build those new, they'd be building new town houses, but they, they be looking nice at first. But after the come, and then after a while, they gradually become garbage. And that's why the gospel says, Roman 12, it says that renew your mind. Right. If you come from that filthy ghetto mentality, you move to a new place, your mind is supposed to be renewed. But since it's not, the way you live, you turn that. You know, like in Philly, we was in camp one time, we watch an empty garbage can. Everybody that passed through, the trash right on the floor. Yeah. Meanwhile, the garbage can is empty. The bag is clear. That's that ghetto mentality. Yeah. You'll say you're gonna take that everywhere with you if you don't renew your mind. Right.
+- **A co-host:** Hey, Deac, that's heavy, cause they're gonna be living, they build those new, they'd be building new town houses, but they, they be looking nice at first. But after the come, and then after a while, they gradually become garbage. And that's why the gospel says, Roman 12, it says that renew your mind. Right. If you come from that filthy ghetto mentality, you move to a new place, your mind is supposed to be renewed. But since it's not, the way you live, you turn that. You know, like in Philly, we was in camp one time, we watch an empty garbage can. Everybody that passed through, the trash right on the floor. Yeah. Meanwhile, the garbage can is empty. The bag is clear. That's that ghetto mentality. Yeah. You'll say you're gonna take that everywhere with you if you don't renew your mind. Right.
 
 > Hence, even when the localities in which the ghettos were constructed were not slums, they rapidly became so. Sometimes the Jewish quarter, as in Cologne in the 13th century, was the narrowest part of the town, and was even called the Narrow Street. In Frankfurt the ghetto was situ, situated near the moat, and on the other side of it live gardeners and people employed in the woods by the day. But when four thousand persons lived in 190 houses
 
