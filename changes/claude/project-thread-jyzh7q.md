@@ -15,3 +15,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 3
 
 - 2 Corinthians 7 (2026-03-30, Captain Emmanuel), 7:8 (2026-03-31, Captain Gedaliah), 8:1 (2026-04-02, host name unclear), 8:10 (2026-04-06, host not named), 8:15 (2026-04-08, host not named) and 9 (2026-04-09, Captain Matthew).
+
+## Batch 4
+
+- 2 Corinthians 1:12 (2026-03-09, Captain Matt), 2 (2026-03-10, Captain Gedaliah), 3 (2026-03-11, host not named), 4 (2026-03-12, Captain Matthew), 4-5 (2026-03-17, Captain Josiah) and 6 (2026-03-26, Captain Matthew). A second stream of 2 Corinthians 3 the same day (IG_9tm09NHM) is skipped as a duplicate.
