@@ -29,3 +29,8 @@ Notes for the shows with the fewest recordings left to write up, each filed unde
 
 - Truth Be Told, IUIC DC's Tuesday broadcast: The Wiles of the Devil (2021-07-13) and The Body Snatchers (2021-08-17), hosted by Officer Matthew; Mind Your Business, Let Them Fight (2023-11-07) and Missing Children in Cleveland (2023-12-05), hosted by Captain Matthew. All four recordings now have notes.
 - The Revolutionaries of Gad, IUIC Raleigh's short episodes: Crazy Horse (2025-01-13), Chief Red Cloud (2025-02-04), Black Elk (2025-03-25) and the Navajo Code Talkers (2025-04-29). The officer's name is unclear in the captions, so the teacher is left empty. All four recordings now have notes.
+
+## Show notes, batch 5
+
+- The Natives Hour, IUIC Denver: State of Emergency at the Pine Ridge Reservation (2023-12-06), Native Americans Were Slaves Too, Pt. 2, Continued (2023-12-13) and Ecuador: From Slavery to Hostages (2024-03-10). The host's name isn't clear in the captions, so the teacher is left empty. Two recordings have no note (see the PR), and the Ecuador note leaves out its first segment.
+- Secrets of History, The Two Promised Lands, chapters 5 to 9 (2020-09-27 to 2020-10-25), on the Our Hidden History radio show, hosted by the deacon (named only as "the deacon" in the captions) with Captain Joel and officers. Every transcribed chapter now has a note.
