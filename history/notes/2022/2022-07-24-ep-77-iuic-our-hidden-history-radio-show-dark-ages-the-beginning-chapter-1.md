@@ -1,0 +1,1204 @@
+---
+title: "Dark Ages: The Beginning, Chapter 1"
+slug: "2022/2022-07-24-ep-77-iuic-our-hidden-history-radio-show-dark-ages-the-beginning-chapter-1"
+date: "2022-07-24"
+episode: 77
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2022-07-24 · with a co-host reading"
+tags: ["Our Hidden History", "false-religion", "edom-esau", "the-word"]
+---
+
+<p class="taught">Our Hidden History · 2022-07-24 · Deacon Eythan, with a co-host reading</p>
+
+<span class="opens"><b>Opens</b> [2 Esdras 11](/bible/2-esdras/11) · [2 Esdras 12](/bible/2-esdras/12) · [Isa 28](/bible/isaiah/28) · [1 Cor 14](/bible/1-corinthians/14) · [Gen 1](/bible/genesis/1) · [Wis 10](/bible/wisdom-of-solomon/10) · [Wis 7](/bible/wisdom-of-solomon/7) · [Ps 111](/bible/psalms/111) · [Prov 8](/bible/proverbs/8) · [Heb 10](/bible/hebrews/10) · [2 Esdras 14](/bible/2-esdras/14) · [Rev 1](/bible/revelation/1) · [1 Tim 4](/bible/1-timothy/4) · [Ps 119](/bible/psalms/119) · [1 Tim 6](/bible/1-timothy/6) · [2 Tim 2](/bible/2-timothy/2) · <i>and 5 more below</i></span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="cP_WoHCsuu4"></div>
+
+## Introduction
+
+*[[8:09](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=489s)]* We're back, we're back, we're back. It's been a long time. It's been a long time. Glad we're here, glad we could be here. Hey, listen, you are now tuned into Our Hidden History radio show. That's right. All praise the Lord for that.
+
+*[[8:48](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=528s)]* We left off what, weeks ago? Like two weeks ago or so. It's been a while. It seemed like it's been a month.
+
+**Co-host:** You'll be down the road, man.
+
+**Deacon Eythan:** Yeah, yeah. Moving here, making moves, you know. You know what we got to do. A lot of postponing going on, but I'll be back. So we left off, I believe, with Septimius Severus. Give me 2 Esdras, just real quick, 11:22, just to recap really quickly on the beginning of the Dark Ages and how the Bible records it. The Bible records the beginning of the Dark Ages. Now if I don't send … that video. Shout out, I think he sent me this video. Let me see, one second, so I can find it. But yeah, welcome back.
+
+*[[9:48](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=588s)]* Welcome back, Deep. Give another hand, man. A long time, you know, dealing with the blitzes and all of that so forth. So glad to have you back, Deep.
+
+**Co-host:** Always here.
+
+**Deacon Eythan:** I'll send this reel to y'all, man. I can't send it to the GroupMe, I'm going to send it to the Philly Telegram, because this file's kind of big. So anyway, 2 Esdras 11:22, real quick.
+
+## Readings and Scriptures
+
+**[2 Esdras 11:22](/bible/2-esdras/11#v22)**  *[[10:36](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=636s)]*
+
+> <sup>[22](/bible/2-esdras/11#v22)</sup> After this I looked, and, behold, the twelve feathers appeared no more, nor the two little feathers:
+
+- Right there. So the twelve feathers appeared no more. The twelve feathers is going into the twelve Caesars, the Roman Caesars, starting from Julius, Octavius, Augustus, same thing, Caligula, Claudius, Nero, Domitian. Who else? I'm going to get to that soon, but those are the twelve feathers. Galba, Otho, Vitellius and Vespasian. So these are all the twelve. They're all families, they're all the same lineage, same race. All the same kind, these twelve particular.
+
+- Read again, verse 22. After this I looked, and behold the twelve feathers. These are all … This is an Edomite lineage. I've gone over this numerous times. Appeared no more. All reigned and they all died, and that was it.
+
+- Nor the two little feathers. Now the question: when you read it, it talks about the twelve feathers and eight contrary feathers, but for some odd reason the author, Ezra, decided to put the two feathers right after the twelve feathers, that also appeared no more. It says the twelve feathers appeared no more, nor the two little feathers. Why? Because these two little feathers represent the ending of the Edomite reign of Rome, of the Romans, and Jake took over. So these two little feathers here is going into Pertinax and Didius Julianus. They were both removed out of power. They ruled for a short time. Go to Esdras 12, verse 20. We had 20 and 21.
+
+**[2 Esdras 12:20-21](/bible/2-esdras/12#v20)**  *[[12:48](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=768s)]*
+
+> <sup>[20](/bible/2-esdras/12#v20)</sup> That in him there shall arise eight kings, whose times shall be but small, and their years swift.
+
+- Right, so these eight, those are the eight contrary feathers. So 11:22 pulls two out of those eight, leaving you six.
+
+> <sup>[21](/bible/2-esdras/12#v21)</sup> And two of them shall perish, the middle time approaching: four shall be kept until their end begin to approach: but two shall be kept unto the end.
+
+- Two of them shall perish. Right along with the twelve feathers. The middle time approaching: once these two were killed, the middle time began to approach. The middle time is the medieval time. That's the word, middle time. The word medieval literally means middle times. Middle Ages. Medieval, M-E-D-I-E-V-A-L, medieval. That means Middle Ages.
+
+- But two shall be kept unto the end, shall be overthrown finally, and Israel shall rule.
+
+<div class="reading">
+
+Reading from a video of a book collector opening a first edition King James Bible; the collector isn't named  *[[13:39](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=819s)]*
+
+> This is a massive Bible, and yes, it's as heavy as it looks. It's a first edition King James Bible.
+
+- So real quick, get this right here. This is a video I want to show y'all. This guy, he has a vast book collection. I'm pretty sure his is more vast than ours. But look what he got in his hand. That's a huge Bible in his hand. It's as heavy as it looks. Press play.
+
+- Pause. This is a first edition King James Bible.
+
+> It was printed in 1611. So this is over four centuries old.
+
+- Pause. It was published in 1611. Okay, this is an original King James Bible. So those of y'all who are watching this show, who've tuned in for the first time, and you have a King James Version Bible, I want you to pay close attention to what he does when he opens it.
+
+> I'm going to open it up to the New Testament title page. Bibles typically have at least a general title page at the beginning and a New Testament title page. That's a little trick for you: if you find a Bible that doesn't have a title page, look for the New Testament and you may be able to find out the date. So there's the New Testament title page. It's dated 1611. And on the other side we have the Apocrypha.
+
+- Do you see that? That is a 1611 published King James Version Bible with the Apocrypha. That is an 80 book Bible. The Bible originally had 80 books. He's going to say it in a few seconds. Let's play.
+
+> The Apocrypha was included in the first edition King James Bible and was taken out in the 1880s.
+
+- It was included in the original King James Bible and was removed in the 1880s. Because they knew that that Apocrypha, being part of that Bible, would bridge the gap, and it would also explain the beginnings of all the evils in the earth, who the Greeks were in the New Testament, all that. They removed all of this stuff. There's too much information in these books. Remove these books.
+
+> The printing of this Bible is, you know, magnificent. The work that was done centuries ago.
+
+- Pause. Now that work of magnificence of printing was us. We were printing these things. King James authorized it to be printed and published. It was a council of men that got together. I'm going to get to that later on in the series regarding King James. I'm kind of jumping ahead, but I just wanted to show y'all the original King James Version that this man has in his possession. That's the first edition, 1611 version, and it's massive, and it was printed out very, very well. And his book is over 400 years old.
+
+> Now some of you are wondering why I'm not using white gloves. That's because that's no longer the practice in the international community, in museums or antiquarian bookshops. It's just greatly outdated information that's being passed around, where people think you need white gloves. Actually more damage ends up being done. If I were trying to pick this book up with white gloves, it would slip. Little flecks from the pages would flake off with the cotton fibers from the white gloves. So that's why I'm not using white gloves. But as you can see, this Bible is in really nice condition, and even though it's 400 years old, it should last another four centuries.
+
+- Wow. It'll last another 400 years. That's how good it was printed. It'll last 400 more years after. That's how well the book was published and printed.
+
+- **Co-host:** Yes. And that was our workmanship, by the way.
+
+- **Deacon Eythan:** But we will get to that later on.
+
+</div>
+
+*[[17:40](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1060s)]* This series today is entitled Dark Ages: The Beginning. That's where we are right now. We are in Dark Ages: The Beginning. That's this topic. So I showed y'all earlier in Esdras how the Dark Ages is the time when the word of God was no longer taught anymore. It was lost. Heresies began to arise and confusion started once Polycarp died. It was a wrap.
+
+Polycarp was the disciple of John the Revelator. He had various debates of numerous Gnostic philosophies or heresies, like Montanism, which is Pentecostal today; Docetism, which is: God is a spirit, no, he has no bodily form. That's Docetism. *[[18:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1112s)]* Montanism is talking in tongues. You have adoptionism, where Christ became God's son when he died and ascended. It's madness.
+
+So the last line of defense against these philosophies were the disciples, and they all were imprisoned. John died of old age, of course. Whether he died of old age on the isle of Patmos, or was released from Patmos and died of old age, the Bible doesn't say. History tells you that he was allowed to return and he died in Ephesus, 100 AD. Some say he died on the island. *[[19:13](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1153s)]* Doesn't make a difference either way: whether on or off the island, he died of old age.
+
+And he had disciples such as Polycarp and Ignatius. And you had a man by the name of Irenaeus. He was Polycarp's disciple, or was it vice versa. But anyway, the point is that Polycarp pretty much was the last line of defense, in terms of he was the last true remaining disciple, or remaining connection to the actual early church, the actual Judeo-Christians that maintained the true gospel, the true doctrine of the Bible. So once Polycarp passed on, I state that once Polycarp passed on, it was a wrap.
+
+*[[20:04](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1204s)]* You had other people that came close, but they were still off ideologically. Like Tertullian; he was more Catholic. You had Ignatius. He went on and said the Sabbath day, it could be Sunday. He started going hell off. He started straying off. You had a man by the name of Arius, who was against the Trinity. He caused a huge stir with that, because he actually read the Bible and said, hey, Christ is not the Father, Christ is the Son of God. He caused a big problem. So the Council of Nicaea was held pretty much because of him, and they decided: one thing that he held with the Bible, making sense, we're going to not believe it. *[[20:43](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1243s)]* We want to believe and just say Christ and God and the Holy Spirit are all one entity. Which many of you so-called Christian apologists hold today. You hold that pagan Trinity doctrine that dates back to Babylon, where the father, the mother, the son, whatever, same thing. It's all pagan. Egypt had a pagan trinity, Babylon had one, Persia had one, China has one, Elam had one. All the ancient eastern cults. Christianity adopted that and merged it to itself and gave it a Christian topping, or biblical topping. So like Easter is Babylonian: oh, it's about Christ. Christmas is Babylonian: oh, it's about Christ. It's the same thing. It's all pretty much pagan.
+
+*[[21:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1292s)]* I showed you last night: pagan Christianity, or Nicene Christianity, is where Catholicism comes from. The Catholic Church is in fact the mother, the madam, of all Christian denomination … She's the top b. She's the madam. She's the madam … pretty much. You know, these Christian churches are all the little … under her. Like, what was the movie called? Harlem Nights. Right. But the sister, I forgot her name. Eddie Murphy fought her. She was the madam. She was over all the hoes, and you had Sunshine, one of her little disciples. That's what the Catholic Church is. She is the madam. *[[22:17](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1337s)]* Look at her name, man. Damn, it's on my mind, my head forgot her name. Someone was throwing it in the chat. Eddie Murphy fought her. Anyway. This is the mother of harlots, right? Mother of harlots. That is pretty much the Catholic Church, and the harlots is the churches, among other things.
+
+Della Reese. Della Reese is her real name, right. But I forgot her actual character's name. Vera Walker. Vera was the name. So the Catholic Church is Vera, and Sunshine is a Pentecostal, Seventh-day Adventist. *[[23:00](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1380s)]* That's Sunshine. That's what that is. Make you feel good. That's the Christian church.
+
+So let's get a history on Septimius Severus. Wikipedia, real quick.
+
+<div class="reading">
+
+Reading from Wikipedia, on Septimius Severus, read by the co-host  *[[23:14](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1394s)]*
+
+> Lucius Septimius Severus was Roman emperor from 193 to 211.
+
+- They had the pictures of him as a white man. You see right here, you have him depicted as a white man, because a white man cannot stand … images. He has to make everyone white. Everything white. Rice white, sugar white, flour white. He can't help it. He can't help himself. And a black image is white also. So here you see Septimius Severus. Read that real quick. Let's see where he's from, so we can make sense of this.
+
+- Right, so he was Roman emperor 193, which was the year that Didius Julianus and Pertinax were removed. Those are the two little feathers. They were removed that same year, and he became emperor at that same time. Their time is short and swift, those two little feathers.
+
+- Before the Dark Ages, the Middle Ages, began, this man right here is the one that pretty much is the beginning of the Dark Ages, when blacks ruled over Rome as the Romans. And we were no better. We were no better. It's evil. *[[24:24](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1464s)]* I'm telling you before: we don't care about skin color. You could be the most evil Negro in the world, the evil person in the world, have a darkness and have the darkest skin. So Septimius Severus: these guys were completely and utterly assimilated into Roman society, Roman culture. So when our people took over Rome, we pretty much became: when in Rome, do as the Romans do. That's the slogan. We became just that. We became damn near chocolate covered white folks. Romans, pretty much. His sons are worse than him.
+
+> He was born in Leptis Magna, in present-day Libya, in the Roman province of Africa.
+
+- Leptis Magna. There's Libya. Right in the Roman province of Africa. This is where the Carthaginian families came from. They came from Libya also. He's from that family.
+
+> As a young man he advanced through the customary secession of offices under the reigns of Marcus Aurelius and Commodus.
+
+- There's a movie called Gladiator with Russell Crowe. His name was Maximus. The character in that movie is basically modeled after Septimius Severus. And he was loyal to Marcus Aurelius. And Commodus, like the movie, he was a psychopath, so much so he was assassinated. And then Pertinax took over when Commodus died, and then Pertinax got assassinated. This is crazy. And then Didius Julianus, I believe, one of the two, *[[25:45](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1545s)]* he did an auction, and he won. And then Septimius came and said, hey, how are you doing? You're not heir to the throne. He killed him, and he put his boys in their place.
+
+> Severus seized power after the death of the emperor Pertinax in 193, during the Year of the Five Emperors.
+
+- Yup.
+
+> After deposing and killing the incumbent emperor Didius Julianus,
+
+- He killed him. He killed Didius Julianus. Got it.
+
+> Severus fought his rival climates, the Roman generals Pescennius …
+
+- Right, so he had a rival, Pescennius … Well, I mean, it's pretty obvious why his last name is …
+
+- **Co-host:** Yeah.
+
+- **Deacon Eythan:** Right. Pescennius … was his rival. I believe he's from the same place he's from too. *[[26:26](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1586s)]* He's a rival. Now his image is a bit more Negro, because they can't really deny him. But read that right there.
+
+> Gaius Pescennius … (135-194) was Roman emperor from 193 to 194 during the Year of the Five Emperors. He claimed the imperial throne in response to the murder of Pertinax and the elevation of Didius Julianus, but was defeated by a rival climate, Septimius Severus, and killed while attempting to flee from Antioch.
+
+- Right, so he was, I guess, in league with Didius Julianus. He got killed in the process. So that was Septimius Severus's rival. Go back. So Septimius Severus took these guys out and took over, just like that. The two feathers.
+
+> Pescennius … and Claudius Albinus … … was defeated in 194 at the Battle of Issus in Cilicia. Later that year Severus waged a short punitive campaign beyond the eastern frontier, annexing the kingdom as a new province. Severus defeated Albinus three years later at the battle in Gaul.
+
+- Taking it over, boy. Take everybody out. You're a problem, taking you out.
+
+> Following the consolidation of his rule over the western provinces, Severus waged another brief, more successful war in the East against the Parthian Empire, secondary capital Ctesiphon, in 197, and expanding the eastern frontier to the Tigris.
+
+- The Parthian Empire. That's the Persians. Damn.
+
+> He then enlarged and fortified the Limes Arabicus in Arabia Petraea. In 202 he campaigned in Africa and Mauretania against the Garamantes, capturing their capital Garama and expanding the limes along the southern desert frontier of the empire.
+
+- So he expanded Rome even more and more into the interiors of his own land, of his own homeland pretty much. Well, Africa, I'd say; not his homeland, but Africa. He expanded the territories of Rome in his land and these provinces.
+
+> He proclaimed as augusti, co-emperors, his eldest son Caracalla in 198 and his younger son Geta in 209, both born of his second wife Julia Domna.
+
+- Got it. Julia Domna. I believe she was an Arab, supposedly. She might be a Jake too.
+
+> Severus travelled to Britain in 208, strengthening Hadrian's Wall and reoccupying the Antonine Wall.
+
+- He went to Britain. Hadrian was another little Caesar that reigned as well, eventually leading up to the last two, which would be Pertinax and then Julianus. Hadrian was one of the emperors also, after the twelve, I believe. But nonetheless the Bible doesn't really record them, because his death didn't lead to the Dark Ages. The last two, Didius Julianus and Pertinax, their deaths is what pretty much became the catalyst, and Septimius's taking over became the catalyst, for the Dark Ages beginning, or Middle Ages.
+
+- *[[29:39](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1779s)]* So these historians, these scholars, understand history. We're playing catch-up. They have these things already. That guy has a first edition King James Bible. If I found it, I'd buy it. I'll tell you right now, if we can find that online, we'll buy it. I kid you not. Right now I have a Bible. It's a pulpit version. It's big like this. It's King James, and it cost a lot. I bought it with my own money. I had to save for that. That was like years ago I bought this massive one. We're going to look for it, Deep.
+
+- **Co-host:** Yeah, we're going to try to find that first edition.
+
+- **Deacon Eythan:** *[[30:18](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1818s)]* Because y'all's donations are not going in vain. You're going to find that out soon enough, because we have been getting a lot of books. All praise the Lord. What I will tell y'all though: the books that we use the funds to buy, because of this whole thing of the ships being stuck out there at sea, all our books are on them ships. We can't get them. So a lot of them are overseas, because he saw us not allowing those books to be sold here. So we got to go to India, we got to go to England, UK, and we got to order books from overseas. But since this whole shipping *[[30:55](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1855s)]* issue is causing the ships to be stuck out there, we can't get the books. So we got to sit there and wait. We ordered all the books like three months ago, we're still waiting for them. Five months ago, still waiting for them. It's craziness. So we use what we got thus far. What we have should be enough. We have to just reference them. But we're going to show that your donations are not going in vain. We're going to show you the books that you helped the students to acquire, in the midst of the lessons.
+
+- **Co-host:** I'm about to go to the ships ourselves out there with a canoe, go to the bottom of the ship, see what's going on.
+
+- **Deacon Eythan:** Anyway.
+
+</div>
+
+<div class="reading">
+
+Reading from *Caesar and Christ*, the chapter on the collapse of the empire, 193 to 305 A.D., read by the co-host; the author isn't named  *[[31:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1892s)]*
+
+> The Collapse of the Empire, A.D. 193-305.
+
+- So give me that book. Now let's go to Caesar and Christ. Caesar and Christ, to get some more information on Septimius Severus's background. Because remember, he is from Leptis Magna, which is Libya. I made that claim that he is of the Carthaginian family, a branch off. He is from that.
+
+- The collapse of the empire. Look at the year. It starts off with 193 to 305 AD. That year is the beginning of the Dark Ages, that right there. 193, those two feathers were killed. Middle Ages approached. Septimius stepped in on the scene, started murking everybody, put his boys on, and that was it. *[[32:21](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1941s)]* His family's sons took over, and their sons had sons, and so on and so on. And then other black folks came along, that was within the provinces, and took over, and their families, their sons. We'll get to that.
+
+> A Semitic dynasty.
+
+- He was of a Semitic dynasty. Listen, man, the rabbit hole. When we get to King James, I'm going to get a headache. I'm about to stop mid show and just take a break and rest my mind. There's a lot. It's a lot of digging, a lot of lineage, families, and intermingling. Not I mean like interracial. I mean in terms of the tribes, northern and southern kingdom, *[[33:06](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=1986s)]* intertwining. It's crazy. But we'll get there. We're going to take our time with that King James, because this is a lot.
+
+- **Co-host:** And you are rising, right? We're going to put our foot up in your ass too, for talking mess about, oh, King James is white, there's no way he was a … We're going to take care of y'all too. You better shut your mouth.
+
+- **Deacon Eythan:** Yeah. No way, he's from England. Okay, okay. But Septimius Severus is a Roman Caesar. He's a Negro. How you explain that? Go back to the next page. Let's start there at the bottom.
+
+- I mean, we don't brought out Aristotle, we didn't brought out Socrates, *[[33:53](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2033s)]* we didn't brought out Beethoven, we didn't bought out Mozart. It's just too much. At this point it's just best to just be quiet and just learn. Don't be in the comment board running your mouth. If you have anything contrary to say to what's being brought out right now, call the show. The number is 267-702-6121. If you're mad about that, you can call the show. If you have any contrary claims or counterclaims against what's being brought out today, you're more than welcome to call or text that number, 267-702-6121. That's what you're seeing down there.
+
+- **Co-host:** That's where they left the church, man. Let the church call us, man. Let the church give us a call.
+
+- **Deacon Eythan:** *[[34:47](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2087s)]* Call in. You're going to learn something today.
+
+> Aroused by this crowning dignity, the people of Rome appealed to the legions in Britain, Syria and Pannonia to come and depose Julianus.
+
+- Right. Didius Julianus.
+
+> The legions, angered by exclusion from the donative, hailed their respective generals with the imperial title, and marched toward Rome. The Pannonian commander, Lucius Septimius Severus, gained the principate by boldness, expedition, and bribery. He pledged himself to give each soldier 12,000 drachmas upon his obsession. He led them to within seventy miles of Rome in a month. *[[35:42](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2142s)]* He won over to himself the troops sent to halt him, and subdued the Praetorians by offering them pardon in return for the surrender of their leaders. He violated precedent by entering the capital with all his troops in full armor.
+
+- He walked in there with the crew, man. He paid them off. Let me take over, I'll hit you up with some money, I'll pay you. Because remember, I believe Didius Julianus did some kind of pay cut at the time. They said, what is the man, he ain't paying you? I'll pay you. I'll take care of you. I got some money for you. You come in here, you join me, let me be emperor, and I got this.
+
+> But he himself appeased tradition by wearing civilian dress. A tribune found Julianus in terror in the palace, led him into a bathroom, and beheaded him.
+
+- So he came in there in disguise. He's wearing regular clothes. Got him in the bathroom, cut his head off. That happened June 2nd, 193. Boom. June 2nd, 193, that right there. Once the head came off, that's when Jake started taking over Rome. Dark Ages, baby. Middle Ages.
+
+> Africa, which was at this time providing Christianity with its ablest defenders, gave birth, 146, to Septimius, brought up in a family of Punic-speaking Phoenicians.
+
+- Ah. Africa was what? Africa, which was at this time providing Christianity with its ablest defenders. So the Christianity that he was learning at the time was the pagan version, because it spread over there. Pagan Christianity spread over there, into Libya. So he was born and raised in that stuff.
+
+- He was brought up in a family of Punic-speaking Phoenicians. That's Hannibal's family. Yes, Hannibal. He was brought up in a family of Punic-speaking Phoenicians.
+
+- We got a phone call. All right, let's answer it.
+
+</div>
+
+*[[37:49](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2269s)]* Hello. Hey, hello, brother. Damn, I sound so loud. I'm sorry, brother. How you doing? What's going on? What's your name, where you calling from?
+
+**Caller:** *[[38:06](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2286s)]* I'm J Smith, I'm from Baltimore.
+
+**Deacon Eythan:** Okay, okay. … What's going on, brother?
+
+**Caller:** All right. First I got a comment, and then the question. My comment is, I absolutely believe that King James was a black man. As far as history goes, he absolutely was a black man. Anybody that does not believe that is an idiot, or they don't want to believe that. Number two: Esau, which I'll call Esau, is basically our enemy, correct?
+
+**Deacon Eythan:** Yes, sir.
+
+**Caller:** All right. So my question is this. If Esau is our enemy, and the brother over there just now said that Esau won't allow the books to come over here that y'all ordered, if Esau is the enemy, why would you accept anything from Esau *[[38:49](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2329s)]* to be truth? If someone is your enemy, and they stop some things from you having, but the things that they do allow you to have, you accept, is that not, that should be a problem on our part. You understand what I'm saying? Basically your enemy would lie to you. Listen: if we are God's people, God's people originated on the other side of the planet. Am I correct so far?
+
+**Deacon Eythan:** This side, the other side, yes.
+
+**Caller:** Okay. So God's people, the Israelite people, is from the other side of the planet, right? But we're going through the King James Version, which *[[39:43](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2383s)]* originated on this side of the planet. In other words, we do not accept the Bible from where we come from. We only accept the Bible from where Esau allow us to read it from. He translated it in his Bible so we can read from it. So you don't think there's something wrong with that?
+
+**Deacon Eythan:** Let me help you. Listen, let me help you out now. When it comes to the books we use, the books that we use were written amongst themselves when we were in slavery. *[[40:58](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2458s)]* They were not for our eyes. They were for their eyes only. That's number one. When it comes to King James, he didn't write the Bible. Our people at the time were ruling. Our people were the ones that requested the permission to have it revised and translated and published, because the Catholic Church at the time, which again was us, they were against it. They were the ones that wanted to teach the Bible out of Latin and teach it to us, so we sit there and learn. King James opposed this. I'm going over this later on in time; I don't want to jump ahead. But in terms of the books we use and so forth, the books that we use only validate what the Bible says.
+
+*[[41:34](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2494s)]* I only deal with books that validate what the Bible says. The Bible makes it clear we were going to rule for the Dark Ages. Their books that were written and published while we were still in chains substantiate what we're saying, what the Bible says. So whenever we bring out history, it coincides biblically. I call it co-signing. We don't put our hopes and dreams into the books that we bring out. I call it co-sign, because a lot of our people don't really believe what the Bible says. So we bring out history books that co-sign what the Bible says, like, oh, okay, now I get it. So that's why we present these things.
+
+King James did not write any Bible. The reason why it's called the King *[[42:13](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2533s)]* James Version Bible is because he authorized it. It's true. He authorized the men who wanted it to be translated. It's called the Authorized Version. Later on it was renamed the King James Version, because he was behind its publishing and the permission of those who were scholars to translate it into English and have it published. That's where that comes from. So he was not the author. He was the authorizer of it.
+
+**Caller:** Okay. Respectfully, brother, let me ask what you just now said. Basically you're saying that in the beginning they was talking in Latin, and we were like, you know what, we don't understand *[[42:52](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2572s)]* that, we need to understand it. Is that what you're saying?
+
+**Deacon Eythan:** Yes. In English. Correct.
+
+**Caller:** Okay, wait a minute. So if that's what you're saying, somebody authorized him, a black man said, you know what, we're going to authorize you to put it where your people, these people, can understand it. So they gave him the green light. Am I following you so far?
+
+**Deacon Eythan:** No, you're not. Britain was ruled by the Catholics. It was Catholic rule. The church pretty much had precedence over the king. When King James stepped up on the scene, he was against this. He hated it. He said this Catholic Church is nonsense, it's garbage, I'm against it. So King James, he *[[43:33](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2613s)]* believed in the Bible as it is written. There were people at the time who were under captive rule. When King James stepped foot on the scene, he ended that. They said, King James, since you believe in the Bible and so forth, can you give us the permission to take the Bible and translate it into English, so that we can all speak it and we can all read it for ourselves? King James was for this. He said, fine, no problem. And he authorized them to do so. It was a whole council, excuse me, a council, and they had a council in Cambridge University, which we founded. And the Catholic Church, which was no longer *[[44:10](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2650s)]* ruling at the time, they tried to have that building destroyed, where it was being translated. It's called the Gunpowder Plot, by Guy Fawkes. These are Jesuits. They tried to have it destroyed. So King James pretty much allowed the authorization of the Bible to be printed in English, legally this time. It was done before by Tyndale, illegally. Legally published throughout the country, legally published, and then printed and published for everyone to have their own copy. So that's what happened at the time. That answered your question?
+
+**Caller:** Okay. Now I believe that I understand. So in the beginning it wasn't in English, it was in Latin. Okay, I get that, right? *[[44:50](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2690s)]* Let me ask you this. Around that time when it was translated to English, they didn't have the internet or anything like that back then. So their translation practices would be a little lacking compared to what we have today. You at least agree with me on that?
+
+**Deacon Eythan:** No, no, no. Because these men were well versed in different languages. Remember, that time back then is closer to ancient times than we are now. These men were experts in Latin and Aramaic, Syriac, Arabic and Hebrew. They were experts. Let's get it real quick. I'm going to show it to you right now. *[[45:36](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2736s)]* Look at your screen. Don't turn your TV. Look at your screen.
+
+**Caller:** I'm looking at it.
+
+<div class="reading">
+
+Reading from a page on the King James Version, read off the screen; the source isn't named  *[[45:45](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2745s)]*
+
+> King James Version. When Elizabeth died in 1603, the crown passed to James I, who had been king of Scotland for 37 years as James VI. Several months after he ascended the throne of England, he authorized a new translation of the Bible to replace the Bishops' Bible. Forty-seven of the best Hebrew and Greek scholars of the day were divided into six groups: three for the Old Testament, two for the New Testament, and one for the Apocrypha. Two of the groups met at Oxford, two at Cambridge, and two at Westminster.
+
+> *[[46:28](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2788s)]* When a group had completed its task, its work was submitted to twelve men, two from each panel. Final differences of opinion were settled at a general meeting of each company. In cases of special difficulty, learned men outside the board of revisers were consulted.
+
+- So many wiser than them, and more expert in those languages, were advised.
+
+> Marginal notes were used only to explain Hebrew and Greek words, to draw attention to parallel passages. Italics were used for words not found in the original but necessary to complete the sentence.
+
+- To put it in English. So this is who was behind it. These are our people, by the way. This is not white folks doing this. We were ruling at the time. This is our people *[[47:15](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2835s)]* doing these things. There's records of this, but I'm going over that later on, in months.
+
+</div>
+
+**Caller:** Respectfully. So what would you have to say about nowadays, on the internet, they have talked to people that live over there, that speak Arabic. They speak it, right? And basically they have showed multiple, I'm not going to say lies, I'm going to say mistruths. In other words, the translation was just a little bit off. Like right now, anybody can go on the internet right now, and the translation from Arabic to English, there are things that's wrong in our English language that *[[48:10](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2890s)]* translated from Arabic. When I say wrong, I mean like just a little off. You understand what I'm saying?
+
+**Deacon Eythan:** Well, in response to that: it was prophesied biblically that our people are going to hear the word of God in different languages. You have the Creole Bible, you have the English Bible. Primarily our people were going to end up here, which is a primarily English-speaking land. And so it was prophesied that the Bible will be spoken in different languages, or written in different languages, for the purpose of what you're talking about. You got that one? Read that, please.
+
+**[Isaiah 28:11](/bible/isaiah/28#v11)**  *[[48:42](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2922s)]*
+
+> <sup>[11](/bible/isaiah/28#v11)</sup> For with stammering lips and another tongue will he speak to this people.
+
+- Stammering means different, a living language. This is hard language. Another tongue. Will he speak to his people: because he knew his people are going to be scattered all over the world, the diaspora, and the Bible will be written in those languages in which they're derived from. We have brothers that read the Bible in Dutch, they read it in German, they read it in Spanish, they read it in English. So the Bible was prophesied by the Lord himself, or the prophets themselves, that God was going to speak to us and give us his words in the languages that we understand.
+
+- Going back to Acts 2 and 5: the Lord put the spirit in the disciples at the time *[[49:22](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=2962s)]* to be able to speak to the people in the languages they understand at that time. So it was already prophesied biblically that we were going to have the words of God given to us in the languages that we speak today. And that's why the King James thing came about. In terms of King James, which would be the best known translation of all time; well, William Tyndale's version is the best translation of all time. Closest to the original language. The best they can do.
+
+**Caller:** So what you're saying is, no matter what, if there was a new translation, like today, that's basically translating the Bible from Arabic today, right? *[[50:05](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3005s)]* If they translated today from Arabic to American, you wouldn't accept it?
+
+**Deacon Eythan:** Well, was the Bible written in Arabic, or was it in Hebrew? It could be translated from the Hebrew to the Arabic. We have brothers in our congregation that speak Arabic. If they speak the language fluently and they do the comparison: okay, this makes sense, let's go with that then. It's fine, you know. It depends. When they read it, if a brother speaks Dutch, you understand. Most Bible revisions or translations are King James Version *[[50:44](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3044s)]* Bibles translated into Arabic, or translated into Spanish, or translated into French.
+
+**Caller:** Sorry. Corrections, apologies. If there was a Bible that was translated from Hebrew to American today, English, would you accept it?
+
+**Deacon Eythan:** We do the King James. Oh, you mean the revised version Bibles?
+
+**Caller:** No, no. I just now seen on television that you showed me a dude with a really big Bible from a few centuries ago, first edition, in English. Right. So that's kind of the original Bible that speak English, right? That's one of the first English, right? That's what I'm saying. I'm saying that if somebody was to translate it today from Hebrew to American, *[[51:30](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3090s)]* we have Google, we have the internet, to get the proper translations and everything now, because we have the internet. So what I'm saying is, would it be wrong to accept a Holy Bible that's translated from Hebrew to American today?
+
+**Deacon Eythan:** You're saying American. What do you mean by American? It's a very vague term.
+
+**Caller:** Well, anyway. Respectfully, respectfully, what I'm saying is, would it be wrong to accept a translated Bible from Hebrew to English today?
+
+**Deacon Eythan:** *[[52:16](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3136s)]* You mean the revised versions?
+
+**Caller:** In other words, what I'm saying is, why do we have to have a version? Like, why is it King James Version, or this version? I don't want nobody's version. I want the truth. The real Bible.
+
+**Deacon Eythan:** Do you speak Hebrew?
+
+**Caller:** Say that again?
+
+**Deacon Eythan:** Do you speak Hebrew?
+
+**Caller:** Absolutely not.
+
+**Deacon Eythan:** Wait, wait, wait. Listen. Do you speak the ancient Paleo-Hebrew spoken back then, or Imperial Hebrew that Daniel spoke? I'm asking you, because this is a, I'm asking you, to just keep you going.
+
+**Caller:** Respectfully, no.
+
+**Deacon Eythan:** The Hebrew's gone. *[[53:07](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3187s)]* It's gone now. That's why I'm telling you. The Hebrew back then, those translators back then were able to speak it. They knew it back then, as opposed to now. They were closer to that time back then than we are now. The Hebrew back then is gone. So the Hebrew that we have now is watered down.
+
+**Caller:** Yes. Yes, it is. Okay. So you know what, that's a whole new way for me to look at it. I didn't know that.
+
+**Deacon Eythan:** It's ancient, it's old, and you have modern Hebrew now. It's different from the old. It's very different. *[[53:47](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3227s)]* Different dialects.
+
+**Caller:** That answered my question. You answered my question. I'm going to continue to watch.
+
+**Deacon Eythan:** So understand, I want you to make sure. I'll end it with this one. You understand that the Most High prophesied in Isaiah 28 he was going to give us the word of God in the languages that we will be scattered in. You understand that, right? Let's read it one more time.
+
+**[Isaiah 28:11](/bible/isaiah/28#v11)**  *[[54:19](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3259s)]*
+
+> <sup>[11](/bible/isaiah/28#v11)</sup> For with stammering lips and another tongue will he speak to this people.
+
+- Give me 1 Corinthians 14, New Testament. It also said the same thing. You know what I want, right? 21.
+
+**[1 Corinthians 14:21](/bible/1-corinthians/14#v21)**  *[[54:42](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3282s)]*
+
+> <sup>[21](/bible/1-corinthians/14#v21)</sup> In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
+
+- Other lips, other languages, will I speak unto this people. So the word of God be spoken in a language that we understand. Now whether it be Spanish, whether it be French or English.
+
+- And yet for all that will they not hear me. Even with the Bible written in the language you understand, our people are still going to be rebellious to it, because of them laws in it, them commandments in it. Saith the Lord. So that's the prophecy. You understand so far what I'm saying the Bible says?
+
+**Caller:** *[[55:17](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3317s)]* All right, cool. Cool. So let's keep listening. One more question.
+
+**Deacon Eythan:** What's your name again?
+
+**Caller:** My name is Jay Smith, from Baltimore.
+
+**Deacon Eythan:** Jay. Cool, Jay.
+
+**Caller:** I have one more question. All right, let me ask you this. According to the King James or any Bible, we're all taught that Adam and Eve is the first humans, correct?
+
+**Deacon Eythan:** They are, yes.
+
+**Caller:** So you're telling me that Adam and Eve is the first humans on this planet?
+
+**Deacon Eythan:** Yep.
+
+**Caller:** All right. So in Genesis, I think it's chapter 9, verse 1 through 3, God told Noah, basically we all know the story, to have his family get on the ark, and the animals was to come in twos and all that, right? And then he *[[56:17](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3377s)]* told Noah to go replenish the earth because of the flood, correct?
+
+**Deacon Eythan:** Yeah.
+
+**Caller:** All right. So that means all the prior humans and the Nephilims and everybody was gone after that, correct? So he told them to replenish the earth, right?
+
+**Deacon Eythan:** Yep.
+
+**Caller:** All right, so go back. Do me a favor, because I'm watching on television. Go to Genesis 1, verse 28. That's the King James Version, right?
+
+**Deacon Eythan:** Yep.
+
+**Caller:** All right. Go to Genesis 1, verse 28. What does that say? Can you read it out?
+
+**[Genesis 1:28](/bible/genesis/1#v28)**  *[[56:54](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3414s)]*
+
+> <sup>[28](/bible/genesis/1#v28)</sup> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
+
+- **Caller:** Well, well, well. That's enough. That's enough. *[[57:13](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3433s)]* God told Adam and Eve to go be fruitful, multiply and replenish the earth. Wait a minute now. He told Noah to replenish because of all the humans he took care of in the flood. But in Genesis 1:28 he told Adam and Eve, the first humans, to replenish the earth. Multiply means have sex. Be fruitful and replenish the earth. Can you explain it?
+
+- **Deacon Eythan:** Yeah. Replenish means to fill. It means to fill, by definition.
+
+- **Caller:** Right. Replenish, like, in other words, like that cup of coffee or whatever it is you're drinking: after it gets empty, you know, that's called a refill.
+
+- **Deacon Eythan:** No. Let's go to refill.
+
+- **Caller:** You're going to have to refill it, because it was *[[58:01](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3481s)]* something there at first, but now after you drink it all, you have to replenish it.
+
+- **Deacon Eythan:** No, it means to fill. It means to fill. Wisdom of Solomon 10.
+
+**[Wisdom of Solomon 10:1](/bible/wisdom-of-solomon/10#v1)**  *[[58:11](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3491s)]*
+
+> <sup>[1](/bible/wisdom-of-solomon/10#v1)</sup> She preserved the first formed father of the world, that was created alone, and brought him out of his fall,
+
+- You know what? The first formed father of the world: Adam. The first formed father of the world was Adam. Nobody else before. And there's no such thing as pre-Adamites. That's foolishness. It's not biblical.
+
+- **Caller:** All right, look. So I'm missing something, bro. And let me just say respectfully, I swear to God I'm not trying to be a hater. I'm really, like, I'm 47 years old. I grew up in the so-called churches all *[[58:46](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3526s)]* my life. I was born into it, right. And then as I became an adult, I really seek the truth, and found out that no man-made religion, none are truthful. None of them. Christ, and I'm sorry for whoever listening, but Christians, not Baptist, Trinitarian, none of them … like none of them, none of them is right. I'm really a true seeker. I'm not a hater. I'm really a true seeker, and some things just don't make sense to me. I just now asked you: when God told Noah to replenish the earth, I said, does that mean that he wanted them to multiply and replenish the earth, meaning, I don't have to go into it, you know what I meant. *[[59:34](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3574s)]* And you agreed to it. So then when I go to Genesis 1:28, you're telling me that replenish don't mean replenish?
+
+- **Deacon Eythan:** I didn't say that. I said replenish means to fill. That's it. It means to fill up. It means to fill.
+
+- **Caller:** Wait a minute. Because I looked this up in the dictionary. Are you going through another dictionary that I didn't read through or something?
+
+- **Deacon Eythan:** It says fill. It says fill up. Did you look at the Merriam dictionary? Look it up in a Merriam dictionary. Let's look it up together. Let's find a phone. Let's read it.
+
+- **Caller:** I'm telling you right now, I'm not going to lie to you, I'm never going to lie to you. What I did was, I googled *[[1:00:15](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3615s)]* the word replenish and looked at the definition of it.
+
+- **Deacon Eythan:** We did too. That's what we do.
+
+- **Caller:** That's crazy to me, how Noah can replenish the earth, meaning, you understand, we already know what that means. And then when it gets to Genesis 1:28, that word replenish don't mean the replenishing?
+
+- **Deacon Eythan:** It doesn't change. It means two things: to fill, or to fill again. It's two different things. Or to build up. Read the definition. Definition number one.
+
+<div class="reading">
+
+Reading from the dictionary definition of replenish, read off the phone  *[[1:00:50](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3650s)]*
+
+> Or build up again.
+
+- That's what he told Noah to do right there. Now go to definition number two.
+
+> To fill with persons or animals.
+
+- It doesn't say again. It's immediate. Let me read this section, the second one: be fruitful and multiply and replenish the earth. Right. So replenish means to fill, or to fill again. It means both. To fill, Genesis 1:28. So when he told Adam to replenish, it means to fill. He told Noah to fill, he meant refill. Replenish truthfully means to fill or fill again. It means both.
+
+- So that's what I showed you earlier. It says that Adam was first formed. That was the fill. Then when he told Noah to replenish, it meant fill again, because everybody was killed off. So replenish has a twofold meaning. *[[1:01:57](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3717s)]* It means to fill, or fill again, not just fill again, that you're referring to. Wisdom of Solomon 7:1. I'm sorry about that.
+
+</div>
+
+**[Wisdom of Solomon 7:1](/bible/wisdom-of-solomon/7#v1)**  *[[1:02:29](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3749s)]*
+
+> <sup>[1](/bible/wisdom-of-solomon/7#v1)</sup> I myself also am a mortal man, like to all, and the offspring of him that was first made of the earth,
+
+- That was first made of the earth. See, first made. So Adam was told to fill the earth. Noah was told to replenish, meaning to refill. You understand?
+
+- **Caller:** Okay, okay.
+
+- **Deacon Eythan:** Can you at least see?
+
+- **Caller:** No, I can see what you mean.
+
+- **Deacon Eythan:** I've heard it before. This is nothing new. Pre-Adamites, I heard it before. Nothing new. The Bible says different. You understand? The Bible says different.
+
+- **Caller:** *[[1:03:02](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3782s)]* No, what I'm saying is, can you see how somebody could be confused by seeing the word replenish?
+
+- **Deacon Eythan:** You know where the confusion comes from? Yes, sir, you know where the confusion comes from? Give me Psalms 111, verse 10. Let me show you where it comes from.
+
+**[Psalms 111:10](/bible/psalms/111#v10)**  *[[1:03:24](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3804s)]*
+
+> <sup>[10](/bible/psalms/111#v10)</sup> The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
+
+- The fear of God is the beginning of wisdom. A good understanding. Have all they that do his commandments. You got to keep his commandments. You have a good *[[1:03:42](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3822s)]* understanding: you have to do his commandments, you get a good understanding. Give me Proverbs 8, I think it's 8 and 9. Watch this, Proverbs 8, regarding his word, because it may come off confusing to some, because they're not keeping the commandments.
+
+**[Proverbs 8:8-9](/bible/proverbs/8#v8)**  *[[1:04:00](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3840s)]*
+
+> <sup>[8](/bible/proverbs/8#v8)</sup> All the words of my mouth are in righteousness; there is nothing froward or perverse in them.
+
+- Verse 9 is a key verse.
+
+> <sup>[9](/bible/proverbs/8#v9)</sup> They are all plain to him that understandeth, and right to them that find knowledge.
+
+- So when you have knowledge of the commandments and apply them, then the Bible becomes more plain and less confusing. If you're not keeping the *[[1:04:28](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3868s)]* commandments, brother Jay, that's where the confusion comes in. You got to be taught. That's what you got to be taught at that point.
+
+- **Caller:** Basically what you're saying is, no matter what, we got to keep God's commandments, correct?
+
+- **Deacon Eythan:** Again, for understanding, yes, of the Bible. You can't just read it like a novel.
+
+- **Caller:** One of God's commandments, when, I know you know, when he was in Sodom and Gomorrah, right? One of the commandments back then was an eye for an eye. What I'm saying is, homosexuality was real rampant in Sodom and Gomorrah, correct?
+
+- **Deacon Eythan:** I agree.
+
+- **Caller:** And one of the commandments in *[[1:05:22](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3922s)]* the Bible is, the homosexual was to be killed.
+
+- **Deacon Eythan:** Yes, sir.
+
+- **Caller:** And if we're supposed to keep the commandments now, right, because nothing changed except for the animal sacrifices. There's no changes in the commandments, right? That's what Jesus says, right?
+
+- **Deacon Eythan:** Wait, I'm going to stop you there. That is a sacrifice. Remember, under sacrifice, under certain sins, you sacrifice an animal. For homosexuality, your blood had to be shed for your own sin, because there was no animal to atone for that sin. So your blood was shed in response, because there was no animal to atone for that. Only you had to go. But when Christ died, *[[1:06:01](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=3961s)]* which is in the law, when Christ died on the cross, he removed that and granted a chance of repentance to all. Otherwise we'd all be doomed, based upon animal sacrifice, because there's no temple and there's no priests. We're scattered abroad in the diaspora. So that no longer applies. When Christ died on the cross, his death granted all of us a chance to repent from sins we cannot repent from under animal sacrifice. This goes back to eye for an eye, because that requires bloodshed, which is no longer, no more, once Christ died. So the commandments are still applied, but no sacrifices. So you don't kill anyone at this time. Christ died for them to repent. *[[1:06:41](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4001s)]* If they don't repent, then the Lord steps in and takes them out. We don't do that. He does that. You understand? That's what grace is for. So we, on the commandments in Christ, we don't kill. He does the killing now. He does the stoning now. Give me Hebrews 10. 10:25, I think it is. So the commandments, you still got to keep those commandments, but the eye for an eye goes right back to animal sacrifice, which is no more when Christ died.
+
+**[Hebrews 10:28-30](/bible/hebrews/10#v28)**  *[[1:07:10](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4030s)]*
+
+> <sup>[28](/bible/hebrews/10#v28)</sup> He that despised Moses’ law died without mercy under two or three witnesses:
+
+- Without mercy, because there was no animal sacrifice for certain sins. So there was no repentance for that. You got *[[1:07:23](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4043s)]* put to death. If you was homosexual under Moses, you got put to death. There was no animal that you can use to atone for that sin. You broke the Sabbath, there was no animal to atone for you; you got put to death for breaking the Sabbath. If you were in witchcraft, idolatry, put to death, because there was no animal to atone for those things. If you committed murder, if you were in witchcraft, you were put to death, because there was no animal that could atone for you for those things, that can replace you.
+
+> <sup>[29](/bible/hebrews/10#v29)</sup> Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
+
+- How much more of a sorer punishment. How much more unto Christ, a more severe punishment. You'll get a more severe punishment now. Watch this, this is going to tell you why it's worse now than it was then. Because back then you get stoned to death, but this is worse. Why?
+
+- And have done despite unto the Spirit of grace: you've done wrong despite being under grace, Christ's sacrifice.
+
+> <sup>[30](/bible/hebrews/10#v30)</sup> For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
+
+- Right. God said, I'll do the stoning now. Now unto Christ, I'll do the stoning. I give the diseases. I get you put to death. I do it now. So God does the stoning. That's worse. *[[1:08:41](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4121s)]* So he steps in now. You understand? So we're still bound by the commandments, but in terms of the death that was delivered back then, God says, I do that now. You just keep the commandments.
+
+- **Caller:** I absolutely understand. When I tell you, you have no idea how many times I've stopped people walking, like so-called Christians, Muslims. It's fun to me to go up to certain people, like I see them with the Bible in their hand or whatever, and so-called Israelites too. All types of religion. And these same questions I ask, and you'd be surprised how many times I stumped them. They *[[1:09:23](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4163s)]* have no idea what to say after this. And I'm like, show me in your Bible. And it's always like, if they come in pairs, like, see, for instance, a Baptist, any of them, most of the time they're in pairs or a little group. There's always one of them that's like the elder, like he the man, because he won't let the other ones answer. So I talk directly to him. And when they don't have an answer for you, they categorize you as being, like, you want to fight. Not fight, but confrontational. You're confrontational. *[[1:10:07](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4207s)]* And I'm not. I'm just asking you questions. And I got to tell you, brother, out of all that I spoke to, you have answered my questions. And most of them, I really did not know the answer, as far as what you were saying with the Hebrew language, and most of it is not the original word and all that. I didn't know that. So I'm going to have to do some more research.
+
+- **Deacon Eythan:** Well, I'm glad that you acknowledged that. I'm glad you acknowledged that, at least. You didn't buck up and say, oh, you know. Because usually people push back from me regarding that. *[[1:10:42](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4242s)]* Do your research, bro. Do your research and see. We have books that substantiate it, but you can always look it up and see for yourself. But you understand so far? We can't kill nobody, right?
+
+- **Caller:** Somebody that I said that before, he's like, you know what, I never thought of it like that. And I just sat there, like, in my mind, like, this stupid … you don't even understand. But anyway, man, I understand.
+
+- **Deacon Eythan:** Jay, thank you for your call, man.
+
+- **Caller:** I'm going to keep watching.
+
+- **Deacon Eythan:** All right. All praise the Lord, man. Hey, stay tuned. We're going to get into the King James stuff. You might call again. We're getting some more *[[1:11:22](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4282s)]* details regarding that. One second. Finish that up real quick.
+
+**[Hebrews 10:30-31](/bible/hebrews/10#v30)**  *[[1:11:29](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4289s)]*
+
+> <sup>[30](/bible/hebrews/10#v30)</sup> For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
+
+- Right. The Lord will judge his people. That goes back to what you're saying before, regarding us not stoning, but God doing the stoning. You follow, Jay?
+
+- **Caller:** Yeah, brother, I appreciate it, man. All praises, man.
+
+- **Deacon Eythan:** Well, I appreciate your call, man. Thank you so much for the engagement. I appreciate that, man. Thank you for the call.
+
+- **Caller:** Okay.
+
+> <sup>[31](/bible/hebrews/10#v31)</sup> It is a fearful thing to fall into the hands of the living God.
+
+- **Co-host:** So that's what *[[1:12:11](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4331s)]* you was talking about. It's much worse now, to fall into the hands of the Lord.
+
+- **Deacon Eythan:** Yeah, it's much worse now. That's why I said sorer punishment. I said it earlier.
+
+- **Co-host:** Listening to the brother, he said a lot. You could say the brother's really soul-searching and trying to understand. But what's interesting is, and if you're still listening, Jay, can I get 2 Esdras real quick? This is what's profound about the Bible that we have now. The Bible that we have now, although it was translated many times, or rewritten, what we need is still in there. And Deacon said, you know, with this book you learn how to fear the Lord, and this is how you get the understanding. So read *[[1:12:59](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4379s)]* that real quick.
+
+**[2 Esdras 14:21](/bible/2-esdras/14#v21)**  *[[1:12:59](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4379s)]*
+
+> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the work that shall begin.
+
+- **Co-host:** So you said, if somebody was to get the translation now. Who has those books, brother? Our enemies burnt those books up. Those that are not burnt up is locked away in the Vatican. So who's going to go and actually translate, give you a new translation? But rather, in this book right here, God spoke of the prophecy and what would happen to our books. So the same version we got right now, my brother, is enough to bring you back to the Most High, to keep his laws, and not be confused about what you read.
+
+- **Deacon Eythan:** That first edition Bible is a quarter of a million dollars. So we're going to be a *[[1:13:51](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4431s)]* minute before we get that book. That's 250 grand.
+
+- **Co-host:** Hey, one more. Revelation 1:3.
+
+- **Deacon Eythan:** Hurry up, man. All right. That's a brother that called and really had questions. People be doing dumb stuff when they call here. He's in the world, so he's learning. He's seeking. So that's good.
+
+**[Revelation 1:3](/bible/revelation/1#v3)**  *[[1:14:38](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4478s)]*
+
+> <sup>[3](/bible/revelation/1#v3)</sup> Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+
+- **Co-host:** Check us out. Listen, this is *[[1:14:36](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4476s)]* backing up what the Deacon said earlier to you. Blessed is he that readeth: so now you're reading, Jay, and Moses is going to bless you, who's going to open your eyes to see a lot of things. And they that hear the words of this prophecy: because you're interested in the Bible, you want to know which one is the best one, right? And keep those things. That's the key right there, Jay. When you read this book, it's not just a novel. You have to start applying those things that you're reading, and understand this is for you. Regardless of what people tell you, how many translations there is, the laws of God is still in that book. And that's what we're absent from, *[[1:15:16](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4516s)]* and that's what makes us fall short of that glory. Plain understanding. Fear the Lord so you can understand. That's it.
+
+<div class="reading">
+
+Reading from *Caesar and Christ*, the Semitic dynasty, continued, read by the co-host  *[[1:15:16](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4516s)]*
+
+> Africa, which was at this time providing Christianity with its ablest defenders, gave birth, 146, to Septimius, brought up in a family of Punic-speaking Phoenicians. He studied literature and philosophy in Athens, and practiced law in Rome. Despite the Semitic accent of his Latin, he was among the best educated Romans of his time, and liked to surround himself with poets and philosophers. But he did not allow philosophy to impede his wars, or poetry to soften his character.
+
+- Where we at? Keep reading that. We ain't finished up on it.
+
+> *[[1:16:08](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4568s)]* He was a man of handsome features, strong physique, and simple dress; hearty and hardship, clever in strategy, fearless in battle, ruthless in victory. He conversed with wit, judged with penetration, lie without scruple, loved money more than honor, and governed with cruelty and competence.
+
+- Yeah. He was this guy who wasn't righteous. So he was smart, but he was cruel.
+
+> The Senate had made the mistake of declaring for his rival Albinus. Septimius surrounded it with 600 guards, persuaded it to confirm his own recession, then put scores of senators to death and confiscated so many aristocratic states that he became *[[1:16:55](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4615s)]* landlord to half the peninsula.
+
+- Oh, God.
+
+> The decimated Senate was replenished by imperial nomination with new members, chiefly from the East. The great lawyers of the age, Papinian, Paulus, Ulpian, accumulated arguments in defense of absolute power. Septimius ignored the Senate except when he sent it commands. He assured full control of the various treasuries, based his rule frankly upon the army, and made the principate a hereditary military monarchy. The army was increased in size, the pay of the soldiers was raised and became an exhausting drain upon the public purse. Military service was made compulsory, but was forbidden to the inhabitants of Italy.
+
+- It's no different than today. When they *[[1:17:50](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4670s)]* go to war, the taxes are raised up for us too. We're paying for the war.
+
+- **Co-host:** Yeah, pretty much. Same thing. Same system.
+
+- **Deacon Eythan:** Same system. Yep.
+
+> Henceforth provincial legions would choose emperors for a Rome that had lost the fortitude to rule. This realistic warrior believed in astrology, and excelled in the interpretation of importance and dreams. When, six years before his accession, his first wife died, he offered his hand to a rich Syrian whose horoscope had pledged her a throne. Julia Domna was the daughter of a rich priest of the god Elagabal.
+
+- Elagabal. That's the devil. El Gabal. And I believe her nephew was a tran, a … Dang.
+
+> *[[1:18:35](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4715s)]* Long since, a meteorite had fallen, had been enshrined in a gaudy temple, and was worshiped as the symbol, if not the embodiment, of the deity. Julia bore Septimius two sons, and rose to her promised throne. She was too beautiful to be monogamous, but Septimius was too busy to be jealous. She gathered around her a salon of literary men, patronized the arts.
+
+- Damn, that's crazy. She was out there getting it. She's a freaking freak, man. She was too beautiful to be monogamous, and he was seriously busy, too busy to be jealous. See, our people, man. And I'll tell you, boy, that's that drama. That dude, he was into idolatry himself, so he didn't give *[[1:19:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4772s)]* a damn. He said, whatever, man. She out there doing her thing, I'm doing my thing. She's just my baby mama.
+
+- **Co-host:** That's William Jada.
+
+- **Deacon Eythan:** Who's that? Entanglement. Entanglement. Septimius. Damn, that's sick, man.
+
+- But we wanted to go back to Punic-speaking. He grew up in a Punic-speaking family, and his wife had entanglements. Damn. I'm surprised he didn't slap Chris Rock back in the day. Get the Wikipedia.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on the Punic people, read by the co-host  *[[1:20:10](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4810s)]*
+
+> The Punic people are western Phoenicians, a Semitic people in the western Mediterranean who migrated from Canaan to North Africa during the early Iron Age.
+
+- That's us. That's Jake. That's us. That's where he *[[1:20:25](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4825s)]* comes from. Phoenicians is Jake.
+
+> In modern scholarship the term Punic, the Latin equivalent of the Greek-derived term Phoenician, is exclusively used to refer to Phoenicians in the western Mediterranean, following the line of the Greek East and Latin West. The largest Punic settlement was ancient Carthage.
+
+- Wow, there you go. Ancient Carthage. That's Jake. That's Hannibal and them. That's all of them.
+
+> Essentially modern Tunis. But there were 300 other settlements along the North African coast, from Leptis Magna in modern Libya to Mogador in southern Morocco, as well as western Sicily, southern Sardinia, the southern and western coast of the Iberian Peninsula, Malta.
+
+- Mauritania as well. We was up in there too. Damn.
+
+> Their language, Punic, was a dialect of Phoenician, one of the Northwest Semitic languages originating in the Levant.
+
+- Oh, that's Israel. That's all Israelites there.
+
+- **Co-host:** And Deacon touched on this a while back, but we have other books that says Punic was Hebrew.
+
+- **Deacon Eythan:** Yup. It is Hebrew. Correct. So Septimius Severus undeniably was an Israelite man. Hannibal Barca, Hamilcar his father, and what's his name, Mago, are Israelites. All of them. All Israelites. See, listen, man, we know what we're talking about. Y'all going to be all right.
+
+</div>
+
+*[[1:21:58](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4918s)]* So now give me the list of Roman Caesars in Britannica. Type in list of Roman Caesars in Britannica, just to further confirm the prophecy of Ezra speaking about the twelve feathers. I want some information on the twelve.
+
+**Co-host:** Somebody just asked what's the number to call in: 267-702-6121.
+
+**Deacon Eythan:** But before that, we got to go to the break, because you got to do something really quick. So if you can just be patient, we'll be back in about five minutes. You have the list right there. So when we come back, we're going to take the call, and then we're going to do the twelve with the Roman Caesars. So just be patient. We'll get your call. Just be patient. Stay tuned, and call in.
+
+*[[1:22:50](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4970s)]* The break: a message from Bishop Nathanyel of Israel United in Christ. "Shalom, this is Bishop Nathanyel of Israel United in Christ. I have an important message about your leaders in the Christian church. Your bishops, pastors, reverends and ministers are all lying to you and leading you straight to damnation. The truth is, you so-called blacks, Latinos and Native Americans are the biblical Israelites, according to Deuteronomy chapter 28. Jesus Christ is a black man with white wool hair, according to Revelation chapter 1, verses 14 and 15. We as the Israelites must keep the commandments in the faith of Christ to receive salvation, as it is written in Revelation chapter 14, verse 12. I've challenged and debated Christian authorities all over the world on these issues. Not one of them has been able to negate this truth. Your pastors have led you astray, worshiping pagan holidays and false gods, just as in the days of old. So join us on our mission to restore the true nation of Israel before the decree goes forward. The work is plentiful, but the labor is a few. Visit our website at israelunite.org." Then music plays.
+
+*[[1:30:50](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5450s)]* All right, we're back from the break. And we're going to get into the twelve Caesars real quick, the list. We got a text.
+
+**Text:** *[[1:31:08](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5468s)]* Shalom, Deacon. I am so in love with your spiritual, powerful teaching. I've learned so much about history. I'm so glad you created this platform, 2020. I remember you did a Sabbath evening explaining our diaspora. You blew my mind. All praises for you and all of leadership. I want to send you a donation. Where can I send you mail? Certified check. Love, your baby sister.
+
+**Deacon Eythan:** You can send your donations to iuic.philadelphia@israelunite.org, and in the comments section put OHH. All right. All praises.
+
+*[[1:31:56](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5516s)]* What's that right there, another message? That's an old text. Got to be careful with them, brothers. You're putting up text from two years ago. All right. So what we got here?
+
+<div class="reading">
+
+Reading from *Britannica*, the list of Roman emperors, read by the co-host  *[[1:32:18](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5538s)]*
+
+> First century AD. Augustus, 1. Tiberius, 2. Caligula, 3. Claudius, 4. Nero, 5. Galba, 6. Otho, 7. Vitellius, 8. Vespasian, *[[1:32:44](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5564s)]* 9. Titus, 10. Domitian, 11. Nerva, 12.
+
+- Common error. Now it leaves out Julius. Julius is number one. Before he was, that's the Roman Republic. So now as the Roman emperor, Augustus is the first one.
+
+- Well, Nerva, you can't count Nerva. He's like at the beginning, before the last two. So once you get to Domitian, you got Julius, that's the twelve. That's the twelve. They're trying to add Nerva with it, but no. Julius is the first, because these are the Republic. So you leave out Nerva. It ends with Domitian. Domitian was the one that banished John the Revelator to the isle of Patmos. That was Titus's brother. Domitian, that's the time of John on Patmos writing down when Christ came to visit him. *[[1:33:23](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5603s)]* So Julius all the way down to Domitian, there's twelve feathers. Then Nerva down to Didius and Pertinax: those two are the last two.
+
+- So now give me the Tetrarchy, the four emperors. T-E-T-R-A-R-C-H-Y. The Tetrarchy. And you're going to go to images. Right there, the top left. Blow that up for everybody to see. These are the four emperors. There we go. This is like a camaraderie statue. It's called the Tetrarchy. These four men is Diocletian, *[[1:34:29](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5669s)]* Maximian, Galerius, and Constantius. Constantius the First is Constantine's father. So one of these four men here is Constantine's father. Now zoom in real fast. Zoom in more. Bring it in, center it. Zoom it in more. Right there. Look at their noses. They're gone. The noses are smashed off. Why? These are black rulers. That's Constantine's father. One of them is Constantine's father. His nose is gone too. Even the guy on the far right, that's clearly a black man's face. That was a black man. These are black men, called the Tetrarchy. It's like the Sphinx. The Sphinx's nose is blasted off for the same reason. Their noses are knocked off. It's called defacing. Iconoclasm. Image *[[1:35:23](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5723s)]* breaking. Those noses are very prominent. The noses of us were very wide and prominent back then, so they would knock those noses right off. Those are the Negro noses. Knock it off. So these are four Roman emperors called the Tetrarchy: Diocletian, Maximian, Galerius and Constantius. Constantius the First is Constantine the Great's father.
+
+- So now go back to the list of Roman emperors again. Let me look at it. Go down, second century. Blow it up some, so the words are bigger. There you go. Hit the arrow. All right, I can see it. *[[1:36:14](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5774s)]* I can't see nothing. That's Trajan right there. Trajan. Yes, sir. You read that. So Nerva, then Trajan.
+
+> Second century. Trajan. Hadrian.
+
+- That's the one with the walls that Septimius fortified. Hadrian's.
+
+> Antoninus Pius. Marcus Aurelius.
+
+- Marcus Aurelius is one of the emperors I call the minor emperors.
+
+> Lucius Verus. Commodus. Publius Helvius Pertinax. Marcus Didius Severus Julianus.
+
+- That's who Septimius Severus took out.
+
+> Septimius Severus.
+
+- And then, last but not least, Septimius Severus. That's the beginning of the Dark Ages. *[[1:37:00](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5820s)]* Those last two right there marked the end. All those guys are family, and all of them are all tied back to the family of the twelve. Septimius Severus is not. He's the Dark Ages.
+
+- Go down to the next one here. Third century. The 200s AD. It's backwards. So if it's 500 BC, it's 500. If it's AD, in the third century it's 200. Right.
+
+> Third century. Caracalla. Publius Septimius Geta.
+
+- That's Septimius Severus's son. That's his second son. These two were evil as hell. One killed the other. Terrible.
+
+> Macrinus. Elagabalus.
+
+- That god, what's the name, the wife's worship. El Gabal. So his name *[[1:38:02](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5882s)]* is right here. Julia Domna.
+
+> Severus Alexander. Gordian I. Gordian II. Pupienus Maximus. Balbinus. Gordian III. Philip. Decius. Hostilian. Gallus. Claudius II Gothicus. Quintillus. Aurelian. Tacitus. Florian. Probus. Carus. Numerian. Carinus. Diocletian.
+
+- There you go. Diocletian. That's the first one of the Tetrarchy. Diocletian.
+
+> Maximian.
+
+- That's the other guy. Maximian's the next one.
+
+> Fourth century AD. Constantius I.
+
+- Constantius the First. That's the other one.
+
+> Galerius.
+
+- That's the *[[1:39:13](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=5953s)]* fourth. That's the four.
+
+> Severus. Maxentius. Constantine I. Galerius Valerius Maximus. Licinius. Constantine II.
+
+- Severus again. Another family. That's all families.
+
+- Constantine the Second. That's his son. No good.
+
+> Constantius II. Constans. Gallus Caesar. Julian. Jovian. Valerian I. Valens. Valentinian II. Theodosius I. Arcadius.
+
+- Grandson. These are all Jake families. Now understand that these, our people, they intermingled with white folks at this time. We were Romans. But they were still Jakes. These were Jake men and women.
+
+> *[[1:40:05](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6005s)]* Magnus Maximus. Honorius.
+
+> Fifth century. Theodosius II. Constantius III. Valentinian III. Marcian. Petronius Maximus. Avitus. Majorian. Libius Severus. Anthemius. Olybrius. Glycerius. Julius Nepos.
+
+- Okay, whatever, man.
+
+> Romulus Augustus. Leo I.
+
+- Leo the First. Right there. I want that. Leo the First. So we're down to Leo the First. We got through all of that. Give me Wikipedia, Leo the First. Leo the Great. That's some of your brothers' names. *[[1:41:14](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6074s)]* They ain't changing names. Oh, snap. Damn.
+
+- So I showed you four black men right there. All these families. And these guys were emperors, and they had families and sons that ruled after them. It's all us. We weren't righteous. Saying right now, oh, you're righteous? No. Evil as hell.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on Leo I, read by the co-host  *[[1:41:42](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6102s)]*
+
+> Leo I, also known as the Thracian.
+
+- Known as the what? The Thracian. Now we all know, we brought this out before about the Thracians. Spartacus was a Thracian. He was a black man. Thracians was Jake. Thracians are Jake. Now the *[[1:42:00](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6120s)]* original Thracians, prior to us, was Japheth. That was Tiras of Japheth. Tiras. That's where Thrace comes from. But when Israel moved up in there, we were referred to as Thracians. Thracian. Spartacus. This guy right here. They were black people. That's why it's called the Thracian.
+
+- Go back to the list again. Now you have Leo the Second, and Zeno. You got Zeno. And then you had a guy named Anastasius the First. And then you had Emperor Justin, or Justinian the First, that persecuted the Jews, the Judaizers, who fled to Khazaria. Justinian comes out of the Leo line. *[[1:42:53](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6173s)]* All right, we got a text.
+
+</div>
+
+**Text:** *[[1:42:58](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6178s)]* Shalom, Christ bless. I just tuned in right at the moment when you were talking about Adam and reading the definition of replenish, meaning to fill, where Adam is concerned. That being said, Adam being the first man, how were there any people there? I was thinking before that we lived long before. So maybe some of those daughters of Adam, after 20 years old or so, wandered over to Cain's territory, got kidnapped, or willingly submitted to Cain to help build his people. Please straighten me out on this.
+
+**Deacon Eythan:** One day. One day we'll go over that. One day. That day ain't today. Anything else?
+
+**Text:** *[[1:43:42](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6222s)]* Shalom, Deacon. Just wanted to say, evening Sabbath class *[[1:43:46](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6226s)]* yesterday was on fire, and I love watching your Hidden History. I've learned so much from this show that I thought had nothing to do with me. All praises and blessings to you and your family. I call you walking knowledge, almost like Christ.
+
+**Deacon Eythan:** Thank you, thank you. All praises. All right. So we have Emperor Justinian, who comes out of the line of the Leos. He persecuted the Jews, the Judaizers, who fled from Roman persecution, or pagan Christian persecution, into Khazaria. The class I did is called Edom: Rise and Fall of an Imposter, and I'll go over that history. And then out of Justinian, Justinian II, who was the nephew of the first. *[[1:44:37](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6277s)]* He was the nephew of the first.
+
+So now let's go real quick to Nicene Creed, Wikipedia. There's a little bit more reading, then we're going to go to some scriptures. I forgot the time. Nicene Creed, Christianity, Wikipedia. We're going to end with that Catholic Church.
+
+<div class="reading">
+
+Reading from Wikipedia, on the Nicene Creed, read by the co-host  *[[1:45:11](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6311s)]*
+
+> The original Nicene Creed was first adopted at the First Council of Nicaea in 325.
+
+- Now I want you to click the image right there. That's the council. That's Constantine right there, and that's the leaders of the ecumenical council. Now I have an image of this, and they're darker than this. *[[1:45:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6332s)]* But that's all of them in the background. We see them all in the back right there. They're all black. They whitewashed them here, but we got images of that. We have the same image, but they're way, way darker. This is a whitewash. That's Constantine right there, with the cross in his hand, and there's all his elders, counselors, that were giving him counsel on religious matters. That's all us, all in the background there. All them big old black heads back there in the back. That's us. Big old foreheads. That's all us. We got the actual picture. You know where it is? Y'all have it there, right? You got a question? Let's read the question while I look for it.
+
+</div>
+
+**Text:** *[[1:46:24](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6384s)]* Shalom, leadership. Brother Shiloh from Arkansas. In 135 AD Emperor Hadrian made anti-Torah laws. In 313 AD Constantine gave the Edict of Milan, and it said that this ended the anti-Torah laws. But in 321 AD Constantine reverted back to sun worship, changing the Sabbath, also joining state and church. Correct? Did Constantine revert back because of the lack of participation from the Israelites in Rome, or was this like a forced conversion, like in the time of the Inquisition?
+
+**Deacon Eythan:** *[[1:47:02](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6422s)]* He was trying to appeal to both. He was trying to play both sides of the fence. It didn't work that way, because he was a sun worshiper, and he found interest in the Bible. But again, those big-headed counters behind him were all in his ear. So it was more so an adaptation. Like they passed the law, pretty much. It's kind of like today: they passed the LGBT laws, you just got to deal with it. It's just like that. Same thing, just merged together. So I would say like a version of Inquisition. It's not as forceful, but the same.
+
+All right. Go back to Nicene again. We'll find it one day and we'll bring it to y'all.
+
+*[[1:47:48](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6468s)]* Oh, I think somebody posted it. Officer Ari posted the image in the group. Oh, thank God, there's still hope. Thank you. That is the one. Yes, that is the one I am looking for. Blow it up, please. Let's see that thing. That is the one. See, they did. That is the one. That jet black. Big ass black heads are in the back. That's Constantine, darkest knight, and all his black counselors there. That's us. *[[1:48:46](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6526s)]* So if Constantine looked like that, how does that look? That's the one that's on the shoulders of the Tetrarchy. That's them. And that's the counselors there with the beards and all that. That's them. That's our people. So that's the Nicene Council right there. Now you got a colorful description of them; that's the whitewashed version of it. Okay. We don't need to be here. That's good.
+
+<div class="reading">
+
+Reading from Wikipedia, on the Nicene Creed, continued, read by the co-host  *[[1:49:23](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6563s)]*
+
+> The original Nicene Creed was first adopted at the First Council of Nicaea in 325. In 381 it was *[[1:49:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6572s)]* amended at the First Council of Constantinople. The amended form is also referred to as the Nicene Creed, or the Niceno-Constantinopolitan Creed for disambiguation.
+
+> The Nicene Creed is the defining statement of belief of Nicene or mainstream Christianity
+
+- Boom. That right there established the statement of belief of the Nicene, mainstream Christianity. That's the Catholic Church. Mainstream Christianity derives from the Catholic Church, hands down.
+
+> and in those Christian denominations that adhere to it.
+
+- And the Christian denominations, or even non-denominational, being deceptive, all adhere to it.
+
+> *[[1:50:25](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6625s)]* The Nicene Creed is part of the profession of faith required of those undertaking important functions within the Catholic Church.
+
+- Within what? The Catholic Church. Within the Catholic Church, from which modern mainstream Christianity comes from. All you Christians are Catholics. All of you are Catholics. I call you PCs. You pagan Christians. Y'all are all Catholics.
+
+- Give me that real quick. I forgot about it. The church deterioration.
+
+- **Co-host:** Yes, sir. We didn't really never read it.
+
+- **Deacon Eythan:** Just read it right now. Pull it up. It's the old book, right? Keep the article there. Zoom into that right there. I can't see.
+
+- **Co-host:** Blow it up some more for Deacon.
+
+- **Deacon Eythan:** Go up. Right there. I want the apostles. The underlined part in blue.
+
+</div>
+
+<div class="reading">
+
+Reading from an old book on the church's deterioration, the passage underlined in blue, read by the co-host; the book isn't named  *[[1:51:19](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6679s)]*
+
+> The apostles copied the divine Master.
+
+- The apostles, the original church, the original great church, the elders, the Jewish Christians, the disciples, apostles copied the divine master, Christ, God.
+
+> They formed multitudes of religious societies, and were abundantly successful in their labours. They confined their attention to religion, and left the schools to dispute and politicians to intrigue.
+
+- They would leave the schools to have debates, and politicians to intrigue. *[[1:51:56](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6716s)]* That's the disciples: to go out there and do the work. They go out there and debate, they go out there and talk and counsel and network, like the Bishop does.
+
+> The doctrines they preached they supported entirely by evidence
+
+- Boom. That's what we do here. The doctrines that they preach, they support it entirely by evidence. Mostly of the Bible, but also we use other sources, outside biblical sources.
+
+> and neither had nor required such assistance as human laws, or worldly policy, the eloquence of schools, or the terror arms could afford them.
+
+- They didn't need no weapons, no type of outside influence to help them push the truth. They pushed it regardless. They needed no help.
+
+> *[[1:52:44](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6764s)]* The apostles being dead,
+
+- The apostles, now they're dead. John died eventually, Polycarp died, Irenaeus died.
+
+> everything came to pass as they had foretold.
+
+- The false prophets, them saying that they are Christ, false Christs, false doctrines, another gospel. What they said came to pass. Watch this.
+
+> The whole Christian system, in time, underwent a miserable change,
+
+- The whole Christian system. The Bible. Underwent a miserable change.
+
+> preach and share the fate of other institutions, and the glory of the primitive church gradually degenerated.
+
+- The glory of the primitive, the original great church of the disciples, gradually degenerated.
+
+> *[[1:53:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6812s)]* Those writers whom we call the Fathers, however held up to view by some as models for imitation,
+
+- Those writers viewed as fathers, because going into the church fathers that followed them, after Polycarp. All church fathers were garbage. They were demons.
+
+> do not deserve that indiscriminate praise ascribed to them. Christianity, it is true, is found in their writing,
+
+- So they have the Bible in their writings. Watch this.
+
+> but how sadly incorporated with pagan philosophy and Jewish allegories!
+
+- They incorporated it with pagan philosophy and Jewish allegory. That's the Christmas. Jewish fables, allegories, fables: Easter, Christmas, Lent. That's fables, Jewish fables. And pagan philosophy translates to pagan *[[1:54:23](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6863s)]* Christians, or pagan Christianity. That's on Constantine's council. That's what they were doing.
+
+> It must indeed be allowed, that in general the simplicity of Christianity was maintained, though under gradual decay,
+
+- So originally it says, allowed in general that the simplicity of Christ, 2 Corinthians, was maintained, though under gradual decay. I mean, they began to stray away. You know, one thing: the hell with the Sabbath day, it's Sunday, like Ignatius did. They started to slowly stray away into pagan philosophy and Jewish allegory. Read on.
+
+> during the first three centuries.
+
+- The first three. That's what, 100 to about 300 AD.
+
+> *[[1:55:08](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6908s)]* The next five centuries produced many pious and excellent preachers, both in the Latin and Greek church, though doctrine continued to degenerate.
+
+- It continued to degenerate. You had great speakers, but they were still in madness.
+
+> The Greek pulpit was adorned with some eloquent orators. Basil, bishop of Caesarea, John Chrysostom, Antioch, and afterward patriarch, as he was called, of Constantinople, and Gregory Nazianzen, who all flourished in the fourth century, seem to have led the fashion of preaching in the Greek church. Jerome and Augustine did the same in the Latin church.
+
+> *[[1:55:56](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=6956s)]* The first preachers deferred much in pulpit action. The greater part used very moderate and sober gestures. They delivered their sermons, while there were notaries who took down what they said. Sermons in those days were all in the vulgar tongue: the Greeks preached in Greek, the Latins in Latin. They did not preach by the clock, so to speak, but were short or long as they saw occasion, though an hour was about the usual time. Sermons were generally both preached and heard standing, but sometimes both speaker and auditors sat, especially the age and the infirm. The Fathers would find the allegory, for Origen, the everlasting allegorizer, had set them the example. Before preaching, the preacher usually went into a vestry to pray, and afterwards to speak to such as came to salute him.
+
+- That's all I want. So the point I wanted was that the church went into a gradual decay, into pagan philosophy and Jewish allegory.
+
+- **Co-host:** *[[1:57:05](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7025s)]* Wait, wait, wait. Go back, go back. We see the same thing the Catholic priests be saying.
+
+- **Deacon Eythan:** What are you saying?
+
+- **Co-host:** No, I was saying, I was raised, unfortunately, in a Catholic.
+
+- **Deacon Eythan:** Yeah, no, I know. And that's how they get you, with that peace be with you.
+
+- **Co-host:** Yup. Peace be with you stuff. From that date till now, they still do the same damn thing.
+
+- **Deacon Eythan:** Wow. Same thing.
+
+- You got the Great Church there somewhere. Wikipedia. I typed in Great Church. Try The Great Church and theological activity. It came up. The Great Church. *[[1:59:15](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7155s)]* Click the image. Blow it up. They're pretty brown. They can't really cover them too much. Everybody obviously black folks trying to look Arabic, but it ain't working. All right, go back. You're going to read up to the theological activity.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on the Great Church, read by the co-host  *[[1:59:50](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7190s)]*
+
+> The term Great Church is used in the historiography of early Christianity to mean the period of about 180 to 313, between that of primitive Christianity and that of the legalization of the Christian religion *[[2:00:11](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7211s)]* in the Roman Empire, corresponding closely to what is called the Ante-Nicene Period.
+
+- Right. That's the disciples. They're called the Great Church, your great assembly.
+
+- Primitive Christianity: old school Christianity.
+
+> It has rightly been called the period of the Great Church, in view of its numerical growth, its constitutional development and its intense theological activity.
+
+- Uh-huh. Because they call them the Great Church after the disciples. Go to Christianity in the Ante-Nicene Period. Try Googling that. A-N-T-E, Nicene. That's it. *[[2:01:22](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7282s)]* I'm going to end at Judaizers.
+
+</div>
+
+<div class="reading">
+
+Reading from Wikipedia, on Christianity in the Ante-Nicene Period, read by the co-host  *[[2:01:27](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7287s)]*
+
+> Christianity in the Ante-Nicene Period was the time in Christian history up to the First Council of Nicaea in 325.
+
+- So the Ante-Nicene period is Christian history up to the first Council of Nicaea, 325. It covers the period between the apostolic age, which is John dying, up until the council. That's the period in between.
+
+> *[[2:01:49](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7309s)]* This article covers the period following the Apostolic Age of the first century, 100 AD, to Nicaea in 325.
+
+- After Polycarp, it was a wrap. Decay.
+
+> The second and third centuries saw a sharp divorce of Christianity from its early roots.
+
+- See, the second and third century saw a sharp divorce of Christianity from its early roots, *[[2:02:13](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7333s)]* which is rooted in what? Judaism. The laws of God. Straight from that into paganism, sun worship.
+
+> There was an explicit rejection of then-modern Judaism
+
+- See, there was an explicit rejection of then modern Judaism. That was the laws of Moses and Jewish culture, being a Jew. Sabbath days, the Mosaic law.
+
+> by the end of the second century, with a growing body of adversus Judaeos literature. Fourth and fifth century Christianity experienced pressure from the government of the Roman Empire and developed strong episcopal and unifying structures. The Ante-Nicene period was without such authority and was more diverse. *[[2:03:02](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7382s)]* Many variations in this era defy neat categorizations, as various forms of Christianity interacted in a complex fashion.
+
+- By the end of the second century, which is the end of the 100s.
+
+- That's all I wanted. So I'm going to show you that the Christian doctrine over time eventually turned against the laws of Moses. Like the Christian churches today are highly against the laws of Moses, because they are Nicene Christians, or pagan Christians. It's the same thing. You guys believe in legalism. It's the same thing. Now give me 1 Timothy 4, verse 1.
+
+- **Co-host:** Before we go, put up the number. Somebody want to know how to text.
+
+- **Deacon Eythan:** The number is 267-702-6121. So we've established thus far that all Christian denominations, or mainstream Christian doctrines, derived *[[2:03:55](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7435s)]* from the Nicene Council, or the Catholic Church. And unfortunately our people were the ones that founded it. We founded the Catholic Church, and then once white folks took over, they took over where we left off. We took the Roman ideology and Judaism and merged it together into sun worship, into this Christian church today.
+
+</div>
+
+**[1 Timothy 4:1-4](/bible/1-timothy/4#v1)**  *[[2:04:20](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7460s)]*
+
+> <sup>[1](/bible/1-timothy/4#v1)</sup> Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
+>
+> <sup>[2](/bible/1-timothy/4#v2)</sup> Speaking lies in hypocrisy; having their conscience seared with a hot iron;
+>
+> <sup>[3](/bible/1-timothy/4#v3)</sup> Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.
+
+- Forbidding to marry, and commanding to abstain from meat. It's like Lent. That's the Catholic Church. Paul is giving you the prophecy of the Catholic Church's formation, which all Christian denominations of mainstream Christianity will derive from. Abstain from meats, forbid to marry: your nuns, your Catholic priests. It's the same thing.
+
+- Which God hath created to be received with thanksgiving: God made these meats, by law, to be received with thanksgiving. Chicken, lamb, turkey, ox, turkey. With thanksgiving of them which believe and know the truth. With his commandments.
+
+> <sup>[4](/bible/1-timothy/4#v4)</sup> For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:
+
+- If it be received with thanksgiving of them that know the truth. Get the truth real quick, regarding what the truth is.
+
+**[Psalms 119:142](/bible/psalms/119#v142)**  *[[2:05:42](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7542s)]*
+
+> <sup>[142](/bible/psalms/119#v142)</sup> Thy righteousness is an everlasting righteousness, and thy law is the truth.
+
+- Right. So you receive meats with thanksgiving of them that know the truth. Those that know the truth know the law. The law tells you what's clean and what's unclean. Go back to verse 4. 1 Timothy 4:4.
+
+**[1 Timothy 4:4-6](/bible/1-timothy/4#v4)**  *[[2:06:02](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7562s)]*
+
+> <sup>[4](/bible/1-timothy/4#v4)</sup> For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:
+>
+> <sup>[5](/bible/1-timothy/4#v5)</sup> For it is sanctified by the word of God and prayer.
+
+- Sanctified, made holy, by the word of God and prayer. Boom. That's how you know that them meats in verse 5, *[[2:06:20](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7580s)]* or 4, that's good: it's good based upon the word of God, the law, and prayer.
+
+> <sup>[6](/bible/1-timothy/4#v6)</sup> If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.
+
+- Verse 6, key verse. Jump down to verse 16.
+
+**[1 Timothy 4:16](/bible/1-timothy/4#v16)**  *[[2:06:41](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7601s)]*
+
+> <sup>[16](/bible/1-timothy/4#v16)</sup> Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.
+
+- So the apostles are saying, stay in the doctrine that we taught you. Stand in the doctrine we told you. They knew later on seducing spirits and doctrines of devils would arise, which goes back to the Catholic, or Christian, church. The *[[2:07:10](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7630s)]* Nicene Christianity is Christianity. It's the Catholic Church. All right, give me chapter 6, verse 3.
+
+**[1 Timothy 6:3-5](/bible/1-timothy/6#v3)**  *[[2:07:19](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7639s)]*
+
+> <sup>[3](/bible/1-timothy/6#v3)</sup> If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
+
+- That's the doctrine I read earlier. According to godliness.
+
+> <sup>[4](/bible/1-timothy/6#v4)</sup> He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
+
+- He is proud, knowing nothing, but doting about questions. The Christians do: you'll cut them one way, they'll ask another question. You cut them that way, they ask another question. Doting about questions, excessively. And strifes of words: arguing about words. What about the Greek? What about the *[[2:07:53](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7673s)]* Hebrew? The word Greek is doting about words.
+
+- Whereof cometh envy, strife, railings, evil surmisings. You're full of hate. You're racist. Evil surmising, suspicions. You guys burn down churches. You guys are the purple gang. You guys are the black KKK. What the hell is this? Evil surmisings.
+
+> <sup>[5](/bible/1-timothy/6#v5)</sup> Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
+
+- Supposing that gain is godliness. All these multi-million mega churches. Gain is godliness. From such withdraw thyself: get away from them. Leave the church. Get out of there while you can. It's garbage. It's lies. Give me 2 Timothy chapter 2, *[[2:08:45](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7725s)]* verse 1.
+
+**[2 Timothy 2:1-3](/bible/2-timothy/2#v1)**  *[[2:08:46](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7726s)]*
+
+> <sup>[1](/bible/2-timothy/2#v1)</sup> Thou therefore, my son, be strong in the grace that is in Christ Jesus.
+>
+> <sup>[2](/bible/2-timothy/2#v2)</sup> And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.
+
+- Timothy, what I've taught you: Paul's telling Timothy, what I taught you, you teach others.
+
+> <sup>[3](/bible/2-timothy/2#v3)</sup> Thou therefore endure hardness, as a good soldier of Jesus Christ.
+
+- He told somebody to endure hardness as a good soldier of Jesus Christ. Endure hardness. Why? Because in this, you bring this truth out, it's going to be war. It's going to be opposition. It's going to be hate. They're going to hurt you. They're going to lock *[[2:09:31](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7771s)]* you up. They're going to kill you. They're going to beat you. You got to be a soldier for this. You got to be true to this. Jump down to verse 16 to 18.
+
+**[2 Timothy 2:16-18](/bible/2-timothy/2#v16)**  *[[2:09:41](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7781s)]*
+
+> <sup>[16](/bible/2-timothy/2#v16)</sup> But shun profane and vain babblings: for they will increase unto more ungodliness.
+
+- That's why they had disputes. They would go out there and debate, because they were trying to shun profane and vain babblings, for they will increase unto more ungodliness. And once the disciples died, it increased, and the Christian doctrine decayed and gradually just was destroyed.
+
+> <sup>[17](/bible/2-timothy/2#v17)</sup> And their word will eat as doth a canker: of whom is Hymeneus and Philetus;
+
+- These guys are the worst.
+
+> <sup>[18](/bible/2-timothy/2#v18)</sup> Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
+
+- *[[2:10:14](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7814s)]* Saying that the resurrection is past already: Christ came and went. We're good here. That's what the Christians teach. America's going to last forever. We're here forever. We just keep on, we just have faith in Christ. He died already, he died for our sins, now we're good. We're going to stay here forever. This is heaven. This is the kingdom. The Christians push this doctrine. And overthrow the faith of some. So that's an example. Jump to chapter 3, verse 1.
+
+**[2 Timothy 3:1-5](/bible/2-timothy/3#v1)**  *[[2:10:48](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7848s)]*
+
+> <sup>[1](/bible/2-timothy/3#v1)</sup> This know also, that in the last days perilous times shall come.
+
+- In the last *[[2:10:56](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7856s)]* days perilous times shall come. Dangerous times are coming now. Famines, pestilence, diseases, rumors of wars. A senile president that talks to himself and shakes hands with invisible people. Oh, don't read the teleprompter. So perilous times shall come.
+
+> <sup>[2](/bible/2-timothy/3#v2)</sup> For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+>
+> <sup>[3](/bible/2-timothy/3#v3)</sup> Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
+>
+> <sup>[4](/bible/2-timothy/3#v4)</sup> Traitors, heady, highminded, lovers of pleasures more than lovers of God;
+
+- Without natural affection.
+
+> <sup>[5](/bible/2-timothy/3#v5)</sup> Having a form of godliness, but denying the power thereof: from such turn away.
+
+- *[[2:11:55](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7915s)]* Having a form of godliness, but denying the Bible. Maybe even a higher power, they say, but don't believe in the Bible. I'm spiritual, I don't believe in the Bible. Okay. From such turn away. Get away from them. Saying it again: get away from them. Turn away. Verse 6.
+
+**[2 Timothy 3:6](/bible/2-timothy/3#v6)**  *[[2:12:12](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7932s)]*
+
+> <sup>[6](/bible/2-timothy/3#v6)</sup> For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
+
+- These types of men creep into houses. And lead captive silly women laden with sins, led away with divers lusts. So you hear women say things like, there's no good men, many no good. The Bible tells you that these women attract evil men. Matter of fact, real quick, get me captive silly women, Bible Hub. I'm going to sidebar real quick. This is for you sisters that complain *[[2:12:46](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7966s)]* about men ain't no good and you can't find none. This is why you can't find them. It said earlier, in the last days perilous times, for men shall be lovers of their own selves, covetous, boasters, haters of God. And it says that these kind of men will attract silly women. Make the screen bigger, please. Blow it up.
+
+<div class="reading">
+
+Reading from Bible Hub, the other translations of 2 Timothy 3:6, read by the co-host  *[[2:13:10](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=7990s)]*
+
+> New International Version: They are the kind who warn their way into homes and gain control over gullible women.
+
+- Over gullible women. The next one.
+
+> New Living Translation: They are the kind who work their way into people's homes and win the confidence of vulnerable women who are burdened with the guilt of sin.
+
+- Vulnerable women. They win.
+
+> *[[2:13:40](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8020s)]* English Standard Version: For among them are those who creep into households and capture weak women, burdened with sins.
+
+- Wow. Weak women. Gullible, weak.
+
+> Berean Study Bible: They are the kind who warn their way into households and captivate vulnerable women who are weighed down with sins.
+
+- Vulnerable. Jump down. Next one.
+
+> Berean Literal Bible: For out of these are those entering into households and taking captive weak women, burdened with sins.
+
+- Next one. King James Bible, we just read from. It's all the same thing.
+
+> New King James Version: For of this sort are those who creep into households and make captives of gullible women loaded down with sins.
+
+> *[[2:14:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8072s)]* New American Standard Bible: For among them are those who slip into households and captivate weak women.
+
+- Go down. Read the Amplified.
+
+> Amplified Bible: For among them are those who worn their way into homes and captivate morally weak and spiritually dwarfed women.
+
+- Morally weak, meaning you got your ass out, breasts out, you're dressed all shameless. You're morally weak and spiritually dwarfed. Don't believe in the Bible at all. That's the kind of men you get. Your spiritual level is about a foot high. Next one.
+
+> Christian Standard Bible: For among them are those who worn their way into households and deceive gullible women overwhelmed by sin.
+
+- Go down. The next one, it gets better.
+
+> *[[2:15:25](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8125s)]* Holman Christian Standard Bible: For among them are those who worn their way into households and capture idle women.
+
+- See, idle. All over the place. No job, no aims, no goals. Just walking around stupid as hell. Idle women. Next one.
+
+> Aramaic Bible in Plain English: For some of them are these who crawl house to house and capture women buried in sin.
+
+- Damn. Buried in sins. Next one.
+
+> Contemporary English Version: Some men fool whole families, just to get power over those women who are slaves of *[[2:16:17](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8177s)]* sin.
+
+- Damn. Next one.
+
+> Douay-Rheims Bible: For of these sort are they who creep into houses, and lead captive silly women.
+
+- Go to ISV right there.
+
+> International Standard Version: For some of these men go into homes and deceive foolish women who are burdened with sins.
+
+- Hold on. That's enough. I've beaten the horse enough. Let's give you an example of what happens when you women complain about men ain't no good. That's because you fall in these categories here. Captive silly: the silly goes in the gullible, vulnerable, spiritually dwarfed, foolish, weak. You fall into that category. That's the reason why you can't find none. They ain't looking for you. *[[2:17:02](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8222s)]* Where are we at? That was verse 6. Go back to verse 7.
+
+</div>
+
+**[2 Timothy 3:7-8](/bible/2-timothy/3#v7)**  *[[2:17:11](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8231s)]*
+
+> <sup>[7](/bible/2-timothy/3#v7)</sup> Ever learning, and never able to come to the knowledge of the truth.
+
+- Ever learning: always learning, always learning something. And never able to come to the knowledge of the truth. Knowledge of the Bible.
+
+> <sup>[8](/bible/2-timothy/3#v8)</sup> Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
+
+- That Council of Nicaea, that's who that is. That's Jannes and Jambres. That's the council of witches that oppose the word of God. The same way you have Moses and Aaron with their snakes, and then you had Jannes and Jambres, and they had their staffs and their snakes. *[[2:17:44](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8264s)]* Even though Aaron's and Moses' snake ate theirs, you still had good versus evil. And once the good was removed, the evil increased more and more. So these guys are Jannes and Jambres. That's why I said that there was a sharp divorce of the Christian doctrine from modern Judaism. They cut the laws out of the equation entirely, and that's how the Christian church was born. The Catholic Church was born: sun worship mingled with lawlessness and Jewish allegory. Christmas, Easter. That's what it is. Go to Exodus 7, verse 8, regarding Jannes and Jambres withstanding Moses. So when you read earlier about how the disciples had disputes, that's the kind *[[2:18:29](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8309s)]* of people you're talking about.
+
+**[Exodus 7:8-12](/bible/exodus/7#v8)**  *[[2:18:33](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8313s)]*
+
+> <sup>[8](/bible/exodus/7#v8)</sup> And the Lord spake unto Moses and unto Aaron, saying,
+>
+> <sup>[9](/bible/exodus/7#v9)</sup> When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent.
+>
+> <sup>[10](/bible/exodus/7#v10)</sup> And Moses and Aaron went in unto Pharaoh, and they did so as the Lord had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent.
+
+- Right.
+
+> <sup>[11](/bible/exodus/7#v11)</sup> Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments.
+
+- Now the magicians of Egypt: these are Jannes and Jambres. They also did in like manner with their enchantments. The same exact thing.
+
+> <sup>[12](/bible/exodus/7#v12)</sup> For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods.
+
+- Right. Proving that God's power superseded theirs. All right, so now go to chapter 8, verse 1.
+
+**[Exodus 8:1-7](/bible/exodus/8#v1)**  *[[2:19:49](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8389s)]*
+
+> <sup>[1](/bible/exodus/8#v1)</sup> And the Lord spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the Lord, Let my people go, that they may serve me.
+>
+> <sup>[2](/bible/exodus/8#v2)</sup> And if thou refuse to let them go, behold, I will smite all thy borders with frogs:
+>
+> <sup>[3](/bible/exodus/8#v3)</sup> And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:
+>
+> <sup>[4](/bible/exodus/8#v4)</sup> And the frogs shall come up both on thee, and upon thy people, and upon all thy servants.
+>
+> <sup>[5](/bible/exodus/8#v5)</sup> And the Lord spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.
+>
+> <sup>[6](/bible/exodus/8#v6)</sup> And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.
+
+> <sup>[7](/bible/exodus/8#v7)</sup> And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.
+
+- The magicians did the same thing Aaron did. Made a bunch of frogs. Exactly. They matched them. They did the exact same thing. Pharaoh was like, oh, big deal. They could do the same thing *[[2:21:04](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8464s)]* you just did. What's the big deal? Jump to verse 16 to 19.
+
+**[Exodus 8:16-20](/bible/exodus/8#v16)**  *[[2:21:06](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8466s)]*
+
+> <sup>[16](/bible/exodus/8#v16)</sup> And the Lord said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt.
+>
+> <sup>[17](/bible/exodus/8#v17)</sup> And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.
+
+- Damn.
+
+> <sup>[18](/bible/exodus/8#v18)</sup> And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast.
+
+- They couldn't do it. See, the Most High was like, I'm going to turn that off. Nope, can't do that. Ain't producing no lice.
+
+> <sup>[19](/bible/exodus/8#v19)</sup> Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh’s heart was hardened, and he hearkened not unto them; as the Lord had said.
+
+- *[[2:21:50](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8510s)]* God's done with these guys. The Lord is done with these guys. We can't surpass them now. We can't match that.
+
+> <sup>[20](/bible/exodus/8#v20)</sup> And the Lord said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the Lord, Let my people go, that they may serve me.
+
+- So what I'm showing you is that the Most High will raise up the prophets to overpower the priests of Pharaoh, the enchanters, the sorcerers of Pharaoh. Today it's these Christian pastors. That's the sorcerers today. And what's happening now is these sorcerers, they tried to match us. Now they're starting to lose. They're *[[2:22:37](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8557s)]* digging now on the tithing. They talk about getting your house in order, men should take their house, and not raise women to be men. A variety of things. They're starting to kind of go back on what they're teaching, because they're starting to realize that the movement of Israelites is starting to grow more. At first they were able to oppose it with their numbers and their influence, but now people are asking questions. People are leaving the church. So the sorcery of the magicians of Pharaoh is the same thing with America today. These Christian pastors are the sorcerers also, spiritually speaking, symbolically. And those *[[2:23:20](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8600s)]* spells that they're casting are slowly being cast down by the prophets, like Aaron and Moses. That's what's happening. It's being cast down. Wisdom of Solomon chapter 17, verse 7.
+
+**[Wisdom of Solomon 17:7-8](/bible/wisdom-of-solomon/17#v7)**  *[[2:23:32](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8612s)]*
+
+> <sup>[7](/bible/wisdom-of-solomon/17#v7)</sup> As for the illusions of art magick, they were put down, and their vaunting in wisdom was reproved with disgrace.
+
+- As for the illusions of art magic. What's the illusion? The illusion is the fancy suits, the illusion is the fancy house, the car, the expensive clothes, the jewelry, the influence, the show they put on. All the actors and all that stuff they put on. That's the illusion. That's magic. It's seduction. Remember Paul said, beware of seducing spirits and doctrines of devils. Why is it seducing? Because it's alluring to the eyes. *[[2:24:08](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8648s)]* The big mess, the churches, the huge buses, the multi-million dollar jets. That's enchantment. That's the illusion. But these guys are not prophets. They're not preachers, what they say they are. So it's an illusion.
+
+- They were put down. They were what? They were put down. Christ had cast down imaginations. They were put down. How? And their vaunting in wisdom, their boasting, their arrogance: I could do that too. I got numbers too. I could use the Bible too. I've gone to theology school. All these apologetics are being shut down too. Same thing with them right now. They're trying to take the doctors of Israelites *[[2:24:54](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8694s)]* and try to adapt it. Oh, yeah, well, Christ is black. That's the Jude Project. Oh, yeah, well, you know, the doctrine of Christ is not the white man's religion per se, because the doctrine of Christ was in Africa. Oh, now you want to adapt now? Now the Bible has blackness now, huh? Casting it down.
+
+- And their vaunting in wisdom was reproved with disgrace. Like this past week, we brought down one of them with disgrace.
+
+> <sup>[8](/bible/wisdom-of-solomon/17#v8)</sup> For they, that promised to drive away terrors and troubles from a sick soul, were sick themselves of fear, worthy to be laughed at.
+
+- *[[2:25:40](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8740s)]* They got lice in them too. Worthy to be laughed at. Go to Wisdom of Solomon 18:13.
+
+**[Wisdom of Solomon 18:13](/bible/wisdom-of-solomon/18#v13)**  *[[2:25:50](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8750s)]*
+
+> <sup>[13](/bible/wisdom-of-solomon/18#v13)</sup> For whereas they would not believe any thing by reason of the enchantments; upon the destruction of the firstborn, they acknowledged this people to be the sons of God.
+
+- Pharaoh didn't listen to Aaron and Moses because of his sorcerers, his counselors. Upon the destruction of the firstborn: once those children got put to death, that plague was the plague of all the plagues. They acknowledged this people to be the sons of God: they began to realize we're the Israelites. That's right. They began to realize we're the sons of God. You can't mess with them or their God. They know *[[2:26:19](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8779s)]* that Bible too well. You can't deal with them. They're going to have to start hurting these guys, get them locked up, getting them killed. They're causing problems. Try to come and kill us. We allowed to leave. Read it again.
+
+- They acknowledged this people to be the sons of God. So I'm going to end it on that. We'll continue next week, Lord's will. All praises to the Lord. Shout out to the IT team. Oh, we have a question. All right, I'll answer one more question. One more question, and we're going to wrap it up.
+
+**Text:** *[[2:26:58](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8818s)]* Shalom, my name is Greg. I took a DNA test that revealed I have ancestry in the Iberian Peninsula, as well as the west and southern east Africa Limba territory. I was told I also have a significant amount of Native American DNA. They found two of my ancestors on the Indian census rolls named Sunum. When I looked at the William Tyndale Bible, I saw that Simon of Cyrene was translated Sunum of Cyrene. Is it possible that my Native American ancestors knew they were Israelites, carrying Israelite names?
+
+**Deacon Eythan:** Yes, it's possible. It's possible. The DNA stuff, you don't do it, because there's confusion. Because at one point your DNA shows that you're of Spain, of Limba territory, and other parts of you Native American. That's why we don't deal with that stuff. 1 Timothy 6:20.
+
+**[1 Timothy 6:20](/bible/1-timothy/6#v20)**  *[[2:28:08](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8888s)]*
+
+> <sup>[20](/bible/1-timothy/6#v20)</sup> O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called:
+
+- *[[2:27:48](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8868s)]* As long as you know that your ancestry dates back to either Native American or Negro, of Negro or Indian, Native American, descent, as long as you know that for a fact, you're good to go, man. The details is of no consequence to me, or should be to you.
+
+- The DNA test is very, very tricky. It's a very, very low percentage in terms of accuracy, because you have many, many, many grandparents. Factually, it's basically like *[[2:28:34](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8914s)]* just to do for fun, and it's a very, very low percentile in accuracy. So a DNA test is like scientific guesswork. As long as you know for a fact, as far as you know, I should say, that you are a descendant of Negroid or Native American Indian ancestry, good to go, bro. All praise to the Lord.
+
+- But there is definitely a chance, it's definitely factually proven, that people knew that they were Israelites while in slavery, or while being colonized, during the time they were conquered, or while being enslaved or shipped over. We knew already. So yes. Like Swing Low, Sweet Chariot. We sing songs about Moses, the Jordan, *[[2:29:19](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8959s)]* come for to carry me home. We called Harriet Tubman Moses. We didn't call Harriet Tubman Pharaoh. We called Harriet Tubman Moses, because we knew who we were. All right. So all praise the Lord for that.
+
+## In Closing
+
+*[[2:29:19](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8959s)]* Once again, shout outs to the IT team. Shout out to the breakfast team. All praise the Lord. Any announcements before we wrap it up?
+
+**Co-host:** Yes, sir. Okay. Hey, Israel, let's give Deacon another hand for that class. See, like everybody was waiting for this series to start. All the questions came in, calls. All praise the Most High.
+
+**Deacon Eythan:** *[[2:30:52](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=9052s)]* All right. All praise the Lord. So, Lord's will, we will see y'all in two weeks. Lord's will, we could see you in two weeks. We got things to do next week, Lord's will. So I'll see y'all in two weeks. So I apologize for the postponing, but just be patient. We're going to come with some fire, Lord's will, in two weeks. We got some stuff. So just be patient, stay tuned, and we'll see y'all again.
+
+## Announcements & References
+
+*[[2:29:41](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=8981s)]* Always remember, if you missed any of the classes, you can go back to Our Hidden History radio on YouTube. Hit the notifications button so you know when we go live. You can check out all the *[[2:30:02](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=9002s)]* episodes on there. While you're here right now, pull out your phone and go on YouTube. Subscribe to IUIC Philadelphia. Do it right now, before you forget. Also subscribe to IUIC Philadelphia in the Classroom. All praise the Most High. If you want to donate to IUIC Philly, you can always donate on PayPal to iuic.philadelphia@israelunite.org; in the comment section put OHH. Booster Club: you can donate to the Booster Club at iuic.fundraising@israelunite.org. Once again, iuic.fundraising@israelunite.org. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC. And tune in to Raven and Wolves radio show after this.
+
+Text or call the show at 267-702-6121.
+
+Sources read from in this episode:
+
+- A video of a book collector showing a first edition, 1611 King James Bible with the Apocrypha; the collector isn't named.
+- Wikipedia: Septimius Severus; the Punic people; Leo I; the Nicene Creed; the Great Church; Christianity in the Ante-Nicene Period (read by the co-host).
+- *Caesar and Christ*, the chapter on the collapse of the empire, 193 to 305 A.D., and its section on the Semitic dynasty of Septimius Severus (read by the co-host; the author isn't named and no page is given).
+- A page on the King James Version and its 47 translators, read off the screen during the call; the source isn't named.
+- A dictionary definition of replenish, read off the phone during the call.
+- *Britannica*, the list of Roman emperors from Augustus to Leo I (read by the co-host), with the image of the Tetrarchy statue.
+- An old book on the church's deterioration after the apostles, the passage underlined in blue (read by the co-host; the book isn't named).
+- Bible Hub, the other translations of 2 Timothy 3:6 (read by the co-host).
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=cP_WoHCsuu4)
