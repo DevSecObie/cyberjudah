@@ -1066,7 +1066,7 @@ Reading from *Sex and Race*, volume one, pages 88 and 89, by J. Rogers, on Hanni
 
 **[1 Maccabees 8:1-5](/bible/1-maccabees/8#v1)**  *[[2:29:49](https://www.youtube.com/watch?v=djkoDWIK8IE&t=8989s)]*
 
-> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
+> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 >
 > <sup>[2](/bible/1-maccabees/8#v2)</sup> And that they were men of great valour. It was told him also of their wars and noble acts which they had done among the Galatians, and how they had conquered them, and brought them under tribute;
 

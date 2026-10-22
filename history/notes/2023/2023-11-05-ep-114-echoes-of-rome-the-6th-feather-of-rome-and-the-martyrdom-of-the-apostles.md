@@ -486,7 +486,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, c
 
 - **Officer:** So this is the counsel she give to her son.
 
-> <sup>[27](/bible/2-maccabees/7#v27)</sup> But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee such three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
+> <sup>[27](/bible/2-maccabees/7#v27)</sup> But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee suck three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
 
 - **Officer:** See that? Laughing him to scorn. Spake in her country language: Hebrew. So the kids was being educated in the Most High God's commandments, to not fear. Be of good courage. Don't fear death. Stand stiffly for the word of God.
 

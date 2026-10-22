@@ -413,7 +413,7 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 >
 > <sup>[15](/bible/1-maccabees/12#v15)</sup> For we have help from heaven that succoureth us, so as we are delivered from our enemies, and our enemies are brought under foot.
 >
-> <sup>[16](/bible/1-maccabees/12#v16)</sup> For this cause we chose Numenius the son of Antiochus, and Antipater he son of Jason, and sent them unto the Romans, to renew the amity that we had with them, and the former league.
+> <sup>[16](/bible/1-maccabees/12#v16)</sup> For this cause we chose Numenius the son of Antiochus, and Antipater the son of Jason, and sent them unto the Romans, to renew the amity that we had with them, and the former league.
 >
 > <sup>[17](/bible/1-maccabees/12#v17)</sup> We commanded them also to go unto you, and to salute and to deliver you our letters concerning the renewing of our brotherhood.
 >

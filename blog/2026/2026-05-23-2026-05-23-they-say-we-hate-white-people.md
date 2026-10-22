@@ -356,7 +356,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 
 **[Wisdom of Solomon 5:14-15](/bible/wisdom-of-solomon/5#v14)**  *[[3:35:55](https://www.youtube.com/watch?v=xa6eyWlShws&t=12955s)]*
 
-> <sup>[14](/bible/wisdom-of-solomon/5#v14)</sup> For the hope of the Godly is like dust that is blown away with the wind; like a thin froth that is driven away with the storm; like as the smoke which is dispersed here and there with a tempest, and passeth away as the remembrance of a guest that tarrieth but a day.
+> <sup>[14](/bible/wisdom-of-solomon/5#v14)</sup> For the hope of the ungodly is like dust that is blown away with the wind; like a thin froth that is driven away with the storm; like as the smoke which is dispersed here and there with a tempest, and passeth away as the remembrance of a guest that tarrieth but a day.
 >
 > <sup>[15](/bible/wisdom-of-solomon/5#v15)</sup> But the righteous live for evermore; their reward also is with the Lord, and the care of them is with the most High.
 

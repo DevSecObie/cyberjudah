@@ -236,7 +236,7 @@ Reading from amazingbible timeline.com, on the Jews under Ptolemy's rule  *[[25:
 
 - Right, because Jonathan are fighting for independence.
 
-> <sup>[16](/bible/1-maccabees/12#v16)</sup> For this cause we chose Numenius the son of Antiochus, and Antipater he son of Jason, and sent them unto the Romans, to renew the amity that we had with them, and the former league.
+> <sup>[16](/bible/1-maccabees/12#v16)</sup> For this cause we chose Numenius the son of Antiochus, and Antipater the son of Jason, and sent them unto the Romans, to renew the amity that we had with them, and the former league.
 
 - These are Jews. He's a guy, he's the guys like ambassadors of Jonathan, to go to the Romans to seek aid against the Greeks.
 
@@ -712,7 +712,7 @@ Reading from Wikipedia, the etymology of kippah  *[[1:24:00](https://www.youtube
 
 > <sup>[17](/bible/2-maccabees/4#v17)</sup> For it is not a light thing to do wickedly against the laws of God: but the time following shall declare these things.
 >
-> <sup>[18](/bible/2-maccabees/4#v18)</sup> Now when the game that was used every faith year was kept at Tyrus, the king being present,
+> <sup>[18](/bible/2-maccabees/4#v18)</sup> Now when the game that was used every fifth year was kept at Tyrus, the king being present,
 >
 > <sup>[19](/bible/2-maccabees/4#v19)</sup> This ungracious Jason sent special messengers from Jerusalem, who were Antiochians, to carry three hundred drachms of silver to the sacrifice of Hercules, which even the bearers thereof thought fit not to bestow upon the sacrifice, because it was not convenient, but to be reserved for other charges.
 >

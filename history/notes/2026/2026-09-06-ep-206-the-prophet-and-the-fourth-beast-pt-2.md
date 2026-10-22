@@ -458,7 +458,7 @@ Reading from a Bible commentary on Psalm 18:34, He teacheth my hands to war, the
 >
 > <sup>[6](/bible/1-maccabees/1#v6)</sup> Wherefore he called his servants, such as were honourable, and had been brought up with him from his youth, and parted his kingdom among them, while he was yet alive.
 >
-> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelves years, and then died.
+> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelve years, and then died.
 
 - He fell sick: the horn fell off. He called his servants, the four notable ones; honourable or notable, same thing. They had been brought up with him from his youth, they grew up with him, and he parted his kingdom among them while he was yet alive. So Alexander reigned 12 years. At 20 years old he conquered. I came, I saw, I conquered. Veni, vidi, vici. Within 12 years, 32 years old, he was dead.
 

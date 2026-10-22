@@ -74,7 +74,7 @@ Reading from a definition of the word *fugitive* put up on the screen (the sourc
 
 **[1 Maccabees 1:7-9](/bible/1-maccabees/1#v7)**  *[[21:21](https://www.youtube.com/watch?v=HfGjjhM7xZE&t=1281s)]*
 
-> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelves years, and then died.
+> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelve years, and then died.
 >
 > <sup>[8](/bible/1-maccabees/1#v8)</sup> And his servants bare rule every one in his place.
 >

@@ -336,7 +336,7 @@ Reading from *History of the Jews* by Hannah Adams, the prodigies before the reb
 
 **[2 Maccabees 3:37-39](/bible/2-maccabees/3#v37)**  *[[44:53](https://www.youtube.com/watch?v=jW84l36Cnmc&t=2693s)]*
 
-> <sup>[37](/bible/2-maccabees/3#v37)</sup> And when the king Heliodorus, who might be a fit man to be sent yet once again to Jerusalem, he said,
+> <sup>[37](/bible/2-maccabees/3#v37)</sup> And when the king asked Heliodorus, who might be a fit man to be sent yet once again to Jerusalem, he said,
 
 - So after the situation that happened with Heliodorus, Heliodorus goes back. He run, he leaves, he jetted back to the king. So the king was like, all right, dang, you got jacked up, man. Well, who can we send now?
 

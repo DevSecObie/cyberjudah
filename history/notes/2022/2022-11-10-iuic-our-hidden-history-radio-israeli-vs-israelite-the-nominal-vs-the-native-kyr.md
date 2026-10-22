@@ -279,7 +279,7 @@ Reading from *The New Westminster Dictionary of the Bible*, page 241, continued 
 
 **[1 Maccabees 5:64-65](/bible/1-maccabees/5#v64)**  *[[28:58](https://www.youtube.com/watch?v=Da3acU7XSXw&t=1738s)]*
 
-> <sup>[64](/bible/1-maccabees/5#v64)</sup> Insomuch as the the people assembled unto them with joyful acclamations.
+> <sup>[64](/bible/1-maccabees/5#v64)</sup> Insomuch as the people assembled unto them with joyful acclamations.
 
 > <sup>[65](/bible/1-maccabees/5#v65)</sup> Afterward went Judas forth with his brethren, and fought against the children of Esau in the land toward the south, where he smote Hebron, and the towns thereof, and pulled down the fortress of it, and burned the towers thereof round about.
 

@@ -120,7 +120,7 @@ tags: ["Our Hidden History", "betrayal", "nations"]
 
 **[1 Maccabees 8:1-13](/bible/1-maccabees/8#v1)**  *[[32:02](https://www.youtube.com/watch?v=MVfDfqdn_vE&t=1922s)]*
 
-> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
+> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
 - Ah. So now we have, during entire kisses reign, you had a group of people called … known as the Romans. The Romans are now rising in the power, now gaining their status, establishing the dominion on the earth. Now this is the fourth beast.
 
@@ -576,7 +576,7 @@ Reading from a page the co-host brought on Antiochus the Great and Hannibal (the
 >
 > <sup>[5](/bible/1-maccabees/9#v5)</sup> Now Judas had pitched his tents at Eleasa, and three thousand chosen men with him:
 >
-> <sup>[6](/bible/1-maccabees/9#v6)</sup> Who seeing the multitude of the other army to he so great were sore afraid; whereupon many conveyed themselves out of the host, insomuch as abode of them no more but eight hundred men.
+> <sup>[6](/bible/1-maccabees/9#v6)</sup> Who seeing the multitude of the other army to be so great were sore afraid; whereupon many conveyed themselves out of the host, insomuch as abode of them no more but eight hundred men.
 
 - Damn.
 

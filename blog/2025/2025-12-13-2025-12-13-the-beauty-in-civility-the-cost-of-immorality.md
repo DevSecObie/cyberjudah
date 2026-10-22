@@ -237,7 +237,7 @@ tags: ["IUIC in the ClassRoom", "health", "leadership", "sabbath", "the-law"]
 
 **[2 Maccabees 7:27](/bible/2-maccabees/7#v27)**  *[[1:57:57](https://www.youtube.com/watch?v=QczbDHIehUU&t=7077s)]*
 
-> <sup>[27](/bible/2-maccabees/7#v27)</sup> But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee such three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
+> <sup>[27](/bible/2-maccabees/7#v27)</sup> But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee suck three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
 
 - She bowed herself toward him and laughed the cruel tyrant to scorn, right in his face, while the Greeks destroyed her sons.
 

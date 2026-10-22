@@ -486,7 +486,7 @@ tags: ["Our Hidden History", "nations"]
 
 - Okay. Yup, no one came in here. Doors aren't open.
 
-> <sup>[18](/bible/bel-and-the-dragon/1#v18)</sup> And as soon as he had opened the dour, the king looked upon the table, and cried with a loud voice, Great art thou, O Bel, and with thee is no deceit at all.
+> <sup>[18](/bible/bel-and-the-dragon/1#v18)</sup> And as soon as he had opened the door, the king looked upon the table, and cried with a loud voice, Great art thou, O Bel, and with thee is no deceit at all.
 
 - Great is the god of Belle. You ate the food. I knew you were real.
 
@@ -720,7 +720,7 @@ tags: ["Our Hidden History", "nations"]
 
 **[Bel and the Dragon 1:41-42](/bible/bel-and-the-dragon/1#v41)**  *[[1:50:05](https://www.youtube.com/watch?v=nsQDKljG94k&t=6605s)]*
 
-> <sup>[41](/bible/bel-and-the-dragon/1#v41)</sup> Then cried the king with a loud voice, saying, Great art Lord God of Daniel, and there is none other beside thee.
+> <sup>[41](/bible/bel-and-the-dragon/1#v41)</sup> Then cried the king with a loud voice, saying, Great art thou, O Lord God of Daniel, and there is none other beside thee.
 >
 > <sup>[42](/bible/bel-and-the-dragon/1#v42)</sup> And he drew him out, and cast those that were the cause of his destruction into the den: and they were devoured in a moment before his face.
 

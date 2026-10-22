@@ -788,7 +788,7 @@ Where were we at? Get me First Maccabees 8. Remember, Israel's everywhere. That'
 
 **[1 Maccabees 8:1-3](/bible/1-maccabees/8#v1)**  *[[1:53:14](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=6794s)]*
 
-> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
+> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
 - Stop there. Fame of the Romans. I'll jump down to verse 3.
 

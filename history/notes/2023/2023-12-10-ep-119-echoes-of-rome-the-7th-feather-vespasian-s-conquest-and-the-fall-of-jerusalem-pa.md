@@ -496,7 +496,7 @@ Wait, wait, wait. Where you at? Second Maccabees chapter 9 and verse 1. All righ
 
 - Read on. Watch this.
 
-> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Isreal, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
+> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
 
 - Damn. Read. For as soon as he had spoken these words. Once again: for as soon as he spoken these words. Read.
 

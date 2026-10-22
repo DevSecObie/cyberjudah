@@ -87,7 +87,7 @@ tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "wisdom", "wome
 
 **[2 Maccabees 7:27](/bible/2-maccabees/7#v27)**  *[[6:37](https://www.youtube.com/watch?v=2GY-VPid9J0&t=397s)]*
 
-> <sup>[27](/bible/2-maccabees/7#v27)</sup> But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee such three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
+> <sup>[27](/bible/2-maccabees/7#v27)</sup> But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee suck three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
 
 - But she bowing herself toward him: Remember, you got to guide the house. After you bear children, you got to guide the house. You got to get yourself ready for these things. It is a great endeavor. You understand? Toward her sons.
 

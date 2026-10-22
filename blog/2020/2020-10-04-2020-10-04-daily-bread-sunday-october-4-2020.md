@@ -273,7 +273,7 @@ tags: ["IUIC in the ClassRoom", "discipline", "sabbath", "the-law", "the-word"]
 
 **[2 Esdras 2:1](/bible/2-esdras/2#v1)**  *[[1:01:50](https://www.youtube.com/watch?v=elg6Vk2VV3M&t=3710s)]*
 
-> <sup>[1](/bible/2-esdras/2#v1)</sup> Thus saith the Lord, I brought this people out of bondage, and I gave them my commandments by menservants the prophets; whom they would not hear, but despised my counsels.
+> <sup>[1](/bible/2-esdras/2#v1)</sup> Thus saith the Lord, I brought this people out of bondage, and I gave them my commandments by my servants the prophets; whom they would not hear, but despised my counsels.
 
 - These laws, statutes and commandments are the lifeline, the segue to eternal life.
 

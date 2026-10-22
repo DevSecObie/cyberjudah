@@ -271,7 +271,7 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 
 **[2 Maccabees 7:7-9](/bible/2-maccabees/7#v7)**  *[[23:19](https://www.youtube.com/watch?v=k38Y5tJwIwM&t=1399s)]*
 
-> <sup>[7](/bible/2-maccabees/7#v7)</sup> So when the first was dead after this number, they brought the second to make him a mocking stock: and when they had pulled off the skin of his head with the hair, they asked him, Wilt thou eat, before thou be punished throughout every member of thy body?
+> <sup>[7](/bible/2-maccabees/7#v7)</sup> So when the first was dead after this manner, they brought the second to make him a mocking stock: and when they had pulled off the skin of his head with the hair, they asked him, Wilt thou eat, before thou be punished throughout every member of thy body?
 >
 > <sup>[8](/bible/2-maccabees/7#v8)</sup> But he answered in his own language, and said, No. Wherefore he also received the next torment in order, as the former did.
 >
