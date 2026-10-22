@@ -1008,7 +1008,7 @@ Reading from the heading of the Song of the Three Holy Children in the Apocrypha
 
 **[Song of the Three Children 1:66-68](/bible/song-of-the-three-children/1#v66)**  *[[1:27:40](https://www.youtube.com/watch?v=j3XB7cHljb0&t=5260s)]*
 
-> <sup>[66](/bible/song-of-the-three-children/1#v66)</sup> O Ananias, Azarias, and Misael, bless ye the Lord: praise and exalt him above all for ever: far he hath delivered us from hell, and saved us from the hand of death, and delivered us out of the midst of the furnace and burning flame: even out of the midst of the fire hath he delivered us.
+> <sup>[66](/bible/song-of-the-three-children/1#v66)</sup> O Ananias, Azarias, and Misael, bless ye the Lord: praise and exalt him above all for ever: for he hath delivered us from hell, and saved us from the hand of death, and delivered us out of the midst of the furnace and burning flame: even out of the midst of the fire hath he delivered us.
 
 - From what? From hell. From helming the grave, from being killed.
 

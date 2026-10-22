@@ -618,7 +618,7 @@ Reading from an on-screen web page shown with the map of Daphne · read by Capta
 >
 > <sup>[10](/bible/2-maccabees/5#v10)</sup> And he that had cast out many unburied had none to mourn for him, nor any solemn funerals at all, nor sepulchre with his fathers.
 >
-> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s car, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
+> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s ear, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
 >
 > <sup>[12](/bible/2-maccabees/5#v12)</sup> And commanded his men of war not to spare such as they met, and to slay such as went up upon the houses.
 >

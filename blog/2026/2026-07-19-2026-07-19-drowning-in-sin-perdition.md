@@ -548,7 +548,7 @@ Reading from a definition of renown  *[[1:52:25](https://www.youtube.com/watch?v
   - **[2 Esdras 13:37-38](/bible/2-esdras/13#v37)**
     > <sup>[37](/bible/2-esdras/13#v37)</sup> And this my Son shall rebuke the wicked inventions of those nations, which for their wicked life are fallen into the tempest;
     >
-    > <sup>[38](/bible/2-esdras/13#v38)</sup> And shall lay before them their evil thoughts, and the torments wherewith they shall begin to be tormented, which are like unto a flame: and he shall destroy them without labour by the law which is like unto me.
+    > <sup>[38](/bible/2-esdras/13#v38)</sup> And shall lay before them their evil thoughts, and the torments wherewith they shall begin to be tormented, which are like unto a flame: and he shall destroy them without labour by the law which is like unto fire.
 
     This my son shall rebuke the wicked inventions of those nations: the ICBM missiles, all that technology, their satellites across the globe. And shall destroy them without labour by the law, which is like unto fire. God is saying his law is fire.
   - **[Jeremiah 23:29](/bible/jeremiah/23#v29)**

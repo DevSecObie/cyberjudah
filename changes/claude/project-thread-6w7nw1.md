@@ -68,3 +68,6 @@ Left unchanged on purpose: places where the app already matches 1611 and the 176
 | 2 Esdras 6:42 | six pats hast | six parts hast |
 | 2 Esdras 12:34 | from the the beginning | from the beginning |
 | 2 Esdras 13:38 | which is like unto me. | which is like unto fire. |
+
+## Follow-up: the same corrections in notes and precept passes
+The corrections above also apply where notes and precept passes quote those verses. This follow-up fixes 25 quotes in 17 files. They are the seven notes that open PRs held at the time, plus the scripture quotes inside `data/precepts/classes/*.json` and `data/precepts/why.json`. Every change is inside a quotation of the verse, or is the KJV name "Azarias". `data/precepts/classes/elNEB8tpb-c.json` is not touched, because there the teacher himself says the computer wrongly reads "Esau" for Isaiah. Caption transcripts are not touched.
