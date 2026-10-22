@@ -912,7 +912,7 @@ Reading from *The Negro Family* (1965), the chapter on the root of the problem  
 
 - **Officer:** Like, I ask you questions: you going to do that job? I mean, I've been doing it for years, of course I'm going to do it. Oh, you sassy, ain't you, boy?
 
-- **Officer Jazz:** Watch this. We got a smart one here. Got a smart … here. You got a … on the, he's a smarty one, huh? Watch this. You know what we call a smart …? A dead one. All right, read that, man. Sassy.
+- **Officer Jazz:** Watch this. We got a smart … here. Got a smart … here. You got a … on the, he's a smarty one, huh? Watch this. You know what we call a smart …? A dead one. All right, read that, man. Sassy.
 
 </div>
 

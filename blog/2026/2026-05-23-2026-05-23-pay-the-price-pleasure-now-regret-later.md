@@ -504,7 +504,7 @@ Reading from a definition of wiles  *[[1:54:22](https://www.youtube.com/watch?v=
 
 Reading from the caption on a video put up on the screen  *[[2:24:54](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8694s)]*
 
-> Lizzo drops new song featuring Sexyy Red with the lyrics saying the world would be boring as hell without hoes.
+> Lizzo drops new song featuring Sexyy Red with the lyrics saying the world would be boring as … without hoes.
 
 - Please, I'm older. I don't know what that means.
 

@@ -55,7 +55,7 @@ Reading from *The Story of Civilization: Caesar and Christ* by Will Durant, page
 
 - They gave the name Africa to the region around Carthage and Utica. The Latins became known as the Roman Empire. They're the ones that put the name Africa on the continent. Everybody understands that. Don't say, "Well, I was confused. I never saw any proof." Well, that's where it is.
 
-- The Latins were Edom and they took over Japheth and the Roman Republic. I said something right there. Some of you got it, some of you is don't know what the hell I'm talking about.
+- The Latins were … and they took over Japheth and the Roman Republic. I said something right there. Some of you got it, some of you is don't know what the hell I'm talking about.
 
 </div>
 

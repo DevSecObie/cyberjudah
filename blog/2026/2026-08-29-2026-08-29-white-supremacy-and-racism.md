@@ -86,7 +86,7 @@ The vote will be theirs.
 
 You would be the first to go.
 
-- The clip: hardline solution for immigration. What would you want a party to put forward? Yes, so if you got off a boat a few weeks ago, you would be the first to go. People who have been here for generations and generations would be the last to go. It was at this moment that he knew he had messed up.
+- The clip: hardline solution for immigration. What would you want a party to put forward? Yes, so if you got off a boat a few weeks ago, you would be the first to go. People who have been here for generations and generations would be the last to go. It was at this moment that he knew he … up.
 - You have got black people talking about, yeah, we need to get rid of the immigrants. So he goes to a real Edomite and asks him. The Edomite says, listen man, you are going to be the first to go. And afterwards the people that have been living here a couple of generations, they will go after, but you are going to be the first to go.
 - So what is going on in America is not just in America. It is in Europe. All these European countries, you have white people fighting to retain their power. They do not want to share power with Arabs, with East Indians, or with us.
 
@@ -474,7 +474,7 @@ France still takes it.
 
 - And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another. They are going to mingle themselves with the seed of men. Who is going to mingle themselves? Iron. White people. But white people are not going to cleave. Everybody is not going to get along.
 
-- Even as iron is not mixed with clay. The iron is who? White people. White people hate everybody. They are racist and they hate everybody. They do not want to mix with us. They do not want to mix with East Indians. They do not want to mix with anyone. So that is why this kingdom is going to be partly strong, partly broken.
+- Even as iron is not mixed with clay. The iron is who? White people. White people hate everybody. They are racist and they hate everybody. They do not want to mix with …. They do not want to mix with East Indians. They do not want to mix with anyone. So that is why this kingdom is going to be partly strong, partly broken.
 
 - And in the days of these kings shall the God of heaven set up a kingdom. So that is the time we are living in right now. So what God said we have got to do, brothers, is we have got to separate. And when we separate, what have we got to do? We have got to set up a kingdom within a kingdom. You cannot be a revolutionary and support white supremacy and stay in that system of white supremacy and talk about fighting against the system. God says for us to create our own system. When he says to separate, he is really saying, create your own system. Can we do that? Those of you all that have got the skills, can you all do that? Let us work together and do that.
 

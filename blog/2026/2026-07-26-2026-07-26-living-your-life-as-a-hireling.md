@@ -152,7 +152,7 @@ Reading from *The Cambridge History of Judaism: The Early Modern World, 1500-181
 
 > By the 18th century, there were many descriptions in travel and missionary accounts of the lost tribes of Israel, Jews or descendants of Jews living along the western coast of Africa. There were also accounts of residual traces of Judaism practiced in these areas. Perhaps the most famous of these is the one contained in Olaudah Equiano's celebrated biography, The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (1789).
 
-> A Scottish explorer, Mungo Park (1771-1806), described what he called Arabic-speaking Jews in West Africa
+> A Scottish explorer, … Park (1771-1806), described what he called Arabic-speaking Jews in West Africa
 
 - That's what Deacon was talking about.
 

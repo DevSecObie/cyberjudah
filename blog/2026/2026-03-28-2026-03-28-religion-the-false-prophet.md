@@ -909,7 +909,7 @@ Reading from *The Rise of Christendom*, written in 1890 by Edwin Johnson  *[[2:4
 
 > There is the curious notice of R. Benjamin of Tudela, which describes rabbins as forming part of the suite of the Pope.
 
-- Give me some pictures of the pope. And this one is an American pope. They call him Leo. That's the damn devil. That's him right there. The head of the Edomite religion is the Pope.
+- Give me some pictures of the pope. And this one is an American pope. They call him Leo. That's the damn devil. That's him right there. The head of the … is the Pope.
 
 </div>
 

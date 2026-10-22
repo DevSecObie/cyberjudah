@@ -251,7 +251,7 @@ The hangings.
 
 ### What integration cost us
 
-- I am going to show you how Esau used the system to cripple us. Some of us are handicapped in a wheelchair. We are walking, but we are handicapped mentally. He used the system to … us mentally.
+- I am going to show you how Esau used the system to … us. Some of us are handicapped in a wheelchair. We are walking, but we are handicapped mentally. He used the system to … us mentally.
 
 - Some of you think when Esau come with that, let us integrate, because they love you. You are an idiot. That ain't going to work. This is why I asked you earlier, I said to you, was Jim Crow before or after? You see, this is the thing you are going to know about the white man today. The white man thinks a hundred years ahead. The negro that sits next to you, he thinks about tomorrow. Let me repeat that again. The white man does not do nothing that is not calculated.
 

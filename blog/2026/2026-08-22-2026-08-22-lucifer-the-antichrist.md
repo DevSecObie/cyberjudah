@@ -185,7 +185,7 @@ The scholars on Revelation.
   - **[Acts 13:1](/bible/acts/13#v1)**
     > <sup>[1](/bible/acts/13#v1)</sup> Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
 
-    Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene. They were called what? Niger means black. The white man uses that term as a derogatory word, but the prophets were called black right through history. So if the prophets were black, that means Christ was too. And the same way we are called that today, nothing has changed.
+    Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene. They were called what? Niger means black. The white man uses that term as a derogatory word, but the prophets were called black right through history. So if the prophets were black, that means Christ was too. And the same way we are called … today, nothing has changed.
 
 **[1 John 4:1-3](/bible/1-john/4#v1)**  *[[1:08:14](https://www.youtube.com/watch?v=JXJvcEn3q2g&t=4094s)]*
 

@@ -476,7 +476,7 @@ Reading from *LoBagola*, his own story, page 17, on the black Jews driven from P
 
 - So to the jungle south of the … River. Right. Now get the map. Said Timbuktu and the jungle south of the … River. Yes, that's how you pronounce it: …. All right. Circle Timbuktu. You see Timbuktu right here? Right there. Yep. All right. So that's Timbuktu. So some of us, remember, we were the principal inhabitants of the oases and Sahara, and we drifted to Timbuktu. Okay.
 
-- Go down. And south of the … River. So show the … River real quick. So that stretches all... so south of that you got Sierra Leone, Liberia, the Ashanti, the Dahomey. You got the Jewish traces. You got the Dahomey Jews. Okay. Then remember, we all went to Nigeria. All right. A lot of us went to Nigeria. So you got the Levite cities. Yes, we have the Levite cities. All right. All praises. And we got Ephraim. All right. And then you got the Ibo on the other side of the river. Okay.
+- Go down. And south of the … River. So show the … River real quick. So that stretches all... so south of that you got Sierra Leone, Liberia, the Ashanti, the Dahomey. You got the …. You got the Dahomey Jews. Okay. Then remember, we all went to Nigeria. All right. A lot of us went to Nigeria. So you got the Levite cities. Yes, we have the Levite cities. All right. All praises. And we got Ephraim. All right. And then you got the Ibo on the other side of the river. Okay.
 
 - So go back to the page now. Read from the part, driven from Palestine. Start it from the top again.
 

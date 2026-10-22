@@ -170,7 +170,7 @@ Reading from *The New Order of Barbarians*, the editorial note, continued  *[[32
 
 - Now, and again, when I speak of a negro … today, I'm not speaking in a way of me being better than them, because I was one myself in the world. But the level … I was back then is not the same level … now. It's like you have the negro with black hair, like Saiyans, then you got like Super Saiyan God … level, white hair, where they're just far beyond. They've transcended … at this point.
 
-- **Officer:** So there's a hierarchy to it.
+- **Officer:** So there's a hierarchy to ….
 
 - **Deacon Eythan:** There's like a hierarchy. There's like a level, a transcendence of it. And then once they get past the white hair, then their skin starts to turn pale, and their eyes get blue, and their lips get thinner, and they're just white people. That's the top form. It's levels, a hierarchy. I didn't reach that form. I was almost; I didn't reach that form.
 

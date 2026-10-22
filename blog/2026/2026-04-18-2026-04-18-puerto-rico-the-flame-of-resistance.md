@@ -268,7 +268,7 @@ Reading from *The Rise of Christendom*, published in 1890  *[[51:23](https://www
 
 - Rome is the Edomite capital.
 
-> and the Pope the head of the Edomitish religion.
+> and the Pope the head of the ….
 
 - The head of the Roman Catholic Church. They bastardized the scriptures. They created their own man-made religion, in order to enslave our people and to put themselves as God, as Christ, and as the prophets.
 
