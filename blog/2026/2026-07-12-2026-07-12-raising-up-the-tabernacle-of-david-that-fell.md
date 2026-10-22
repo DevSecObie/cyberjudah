@@ -1040,7 +1040,7 @@ Field reports played:
 - IUIC returned to the Cassandra Show for a second national TV appearance, this time with a Christian pastor; shout out to Captain OC. "The scriptures were undefeated as always. We had a live studio audience; the congregation came out." When the videos drop, go comment, share, like.
 - IUIC Indiana Family and Friends Day 2026: barbecue, games, going over scriptures, showing them that we can unify.
 - IUIC Seattle conducted its first YMOV carpentry workshop: young men learned basic carpentry skills, power tool use, and safety, with men in the body with over 40 years of carpentry experience. Bishop: there's a new generation of children coming up and we got to mold them for what we want: nurses, doctors, our own people in the legal system, cooks to prepare our own food, an Israelite mechanic shop, taxes, accounting. Think what is it that we have that we don't want to go to the other nations for, and keep it in house.
-- Deacon ASAP gave edification at another church sit down in Toronto; full video premiering Monday on IUIC Toronto 2.0. The brother there had his fringes on; his church is divided on the Israelite teachings, so we just got to take our time with them in Canada.
+- Deacon Asaph gave edification at another church sit down in Toronto; full video premiering Monday on IUIC Toronto 2.0. The brother there had his fringes on; his church is divided on the Israelite teachings, so we just got to take our time with them in Canada.
 - Brooklyn 2.0: they shut down Brooklyn's YouTube page, but the light will still shine; Brooklyn 2.0 will be better and stronger than before.
 
 Music and events:

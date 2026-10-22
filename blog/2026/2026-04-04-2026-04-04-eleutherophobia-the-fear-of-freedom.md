@@ -357,7 +357,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "leadership", "sexual-
 
 - Babylon is fallen, that great city, because she made all nations drink the wine of the wrath of her fornication: the bodies, the souls and the slaves of our ancestors. Babylon is America.
 
-- We love keeping God's commandments and teaching them to our people, and we despise evil; Deacon Ithan said we must have racial anger, and the enemy's destruction is our salvation.
+- We love keeping God's commandments and teaching them to our people, and we despise evil; Deacon Eythan said we must have racial anger, and the enemy's destruction is our salvation.
 
   Precepts:
   - **[Revelation 13:10](/bible/revelation/13#v10)**

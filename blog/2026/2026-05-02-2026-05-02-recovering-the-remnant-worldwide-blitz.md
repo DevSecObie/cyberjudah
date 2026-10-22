@@ -529,7 +529,7 @@ Reading from *The Flaming Torch in Darkest Africa*, written in 1898 · read by C
 >
 > It is, however, easy in some of the better known languages spoken by Sudan Negroes to discover traces of distinctly … influence. In the north, the Tibus hold a large tract of the Sahara Desert north of Lake Chad, while from Senegambia to Lake Chad we have Negroes that are ruled by Fula conquerors, who have crushed up many native Negro kingdoms and their names. The Hausas of Sokoto are Negroes slightly mixed with Hamites.
 
-- So what I wanted y'all to see is, they said many of the customs of the Zulus is that of the Israelites when they made their exodus and celebrated the feast of tabernacles. So give me the next one with Deacon Abiel and Captain Shem, the next video, cuz they went to South Africa, which is where the Zulus are.
+- So what I wanted y'all to see is, they said many of the customs of the Zulus is that of the Israelites when they made their exodus and celebrated the feast of tabernacles. So give me the next one with Deacon Abbayael and Captain Shem, the next video, cuz they went to South Africa, which is where the Zulus are.
 
 </div>
 

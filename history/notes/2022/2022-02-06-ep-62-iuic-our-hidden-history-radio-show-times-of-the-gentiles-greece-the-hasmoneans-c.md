@@ -810,7 +810,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - **Officer:** Thank you. I figure I'll bring out we have fire stones, that's all. No pride, not, not anything, just hidden in history.
 
-- **Deacon Eythan:** That's not a lot of you, man. When lava opens his mouth, animosity for Levi grows in my heart. I'm trying to find a way to insult, insult you, but because I see a lot of space on your face when you say these things. And that's not you, officer. It's, it's Deacon Lava. Everything I say about Haiti in insult as well is directed towards him and his brother.
+- **Deacon Eythan:** That's not a lot of you, man. When lava opens his mouth, animosity for Levi grows in my heart. I'm trying to find a way to insult, insult you, but because I see a lot of space on your face when you say these things. And that's not you, officer. It's, it's Deacon Labachaa. Everything I say about Haiti in insult as well is directed towards him and his brother.
 
 - **Officer:** And guess what: we understand what he said yesterday about Philly bread. We knew it wasn't against us. We knew our sisters make wonderful bread.
 
