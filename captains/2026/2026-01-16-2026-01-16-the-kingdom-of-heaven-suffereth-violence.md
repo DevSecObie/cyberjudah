@@ -2,7 +2,7 @@
 title: "The Kingdom Of Heaven Suffereth Violence"
 slug: "2026/2026-01-16-the-kingdom-of-heaven-suffereth-violence"
 date: "2026-01-16"
-teacher: "Captain Galayah"
+teacher: "Captain Gedaliah"
 description: "15 Minutes w/ The Captains · 2026-01-16"
 tags: ["15 Minutes w/ The Captains", "adversity", "captivity"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "adversity", "captivity"]
 
 ## Introduction
 
-*[[0:15](https://www.youtube.com/watch?v=rT6ekRLGdGY&t=15s)]* Shalom, most high Christ bless. Captain Galayah. Welcome to another edition of 15 minutes with the captains. Today we going to be touching on the kingdom of heaven suffereth violence. That's Matthew chapter 11 and verse 12. So what does it mean? What is it talking about? Is the kingdom of heaven suffering violence? Did somebody just, you know, pull out some type of spiritual weapon and climb up to the heavens? And I guess they climbed Jacob's ladder and went to war with the Most High. I don't know. Maybe that's what the white man said when he saw Lucifer fall from heaven. Maybe he climbed up to heaven and caused violence and the Lord cast him out. No, it's not what it's talking about.
+*[[0:15](https://www.youtube.com/watch?v=rT6ekRLGdGY&t=15s)]* Shalom, most high Christ bless. Captain Gedaliah. Welcome to another edition of 15 minutes with the captains. Today we going to be touching on the kingdom of heaven suffereth violence. That's Matthew chapter 11 and verse 12. So what does it mean? What is it talking about? Is the kingdom of heaven suffering violence? Did somebody just, you know, pull out some type of spiritual weapon and climb up to the heavens? And I guess they climbed Jacob's ladder and went to war with the Most High. I don't know. Maybe that's what the white man said when he saw Lucifer fall from heaven. Maybe he climbed up to heaven and caused violence and the Lord cast him out. No, it's not what it's talking about.
 
 ## Scriptures Opened
 
@@ -243,7 +243,7 @@ tags: ["15 Minutes w/ The Captains", "adversity", "captivity"]
 
 ## In Closing
 
-*[[22:13](https://www.youtube.com/watch?v=rT6ekRLGdGY&t=1333s)]* So, hey, that's another edition of 15 minutes with the captains. I'm Captain Galayah. I hope y'all was able to get something from it. The kingdom of heaven suffering violence. Matthew chapter 11 and verse 12. Shalom.
+*[[22:13](https://www.youtube.com/watch?v=rT6ekRLGdGY&t=1333s)]* So, hey, that's another edition of 15 minutes with the captains. I'm Captain Gedaliah. I hope y'all was able to get something from it. The kingdom of heaven suffering violence. Matthew chapter 11 and verse 12. Shalom.
 
 ---
 

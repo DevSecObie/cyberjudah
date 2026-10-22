@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "mental-health", "prayer", "t
 
 ## Introduction
 
-Sabbath class from Gastonia, in the Carolinas, taught by Captain Galayah, with Bishop Yawasap in the building. Opening prayer: pour out your spirit, Father, and let thy words be in his mouth, to heal the nation quickly and speedily; gather the elect and the twelve tribes.
+Sabbath class from Gastonia, in the Carolinas, taught by Captain Gedaliah, with Bishop Yawasap in the building. Opening prayer: pour out your spirit, Father, and let thy words be in his mouth, to heal the nation quickly and speedily; gather the elect and the twelve tribes.
 
 Today's lesson is Shapen In Iniquity: Resetting The Nervous System. For the last year, almost two years now, Bishop Yawasap and the captains here in the Carolinas have been having a lot of discussions about psychology and the mind, and how we have to heal our people, not only from a physical standpoint but from a mental standpoint. The number one health crisis in the United States of America and throughout the world right now is mental health, and every generation our people are declining. The Most High has found it fit to give us the truth of the scriptures; now it is our job to go into the Bible, and also into psychology, and help heal our people.
 
@@ -1096,7 +1096,7 @@ The keys laid out today for resetting the nervous system are the keys of the scr
 
 Books and studies referenced in class:
 
-- Trauma Letters: Healing the Child Within, by Captain Galayah (read at length: Erik Erikson's stages of development, the divine design of parental guidance, and born into a curse, on generational bondage).
+- Trauma Letters: Healing the Child Within, by Captain Gedaliah (read at length: Erik Erikson's stages of development, the divine design of parental guidance, and born into a curse, on generational bondage).
 - An excerpt was also read from a book not yet released, on the immune system and grief (psychoneuroimmunology).
 - The Adverse Childhood Experiences (ACE) study by the CDC and Kaiser Permanente, with the Prevent Child Abuse America summary PDF, and a TED talk by a pediatrician on how childhood trauma affects lifelong health.
 - Waking the Tiger, by Peter Levine (1997), on the nervous system storing unresolved trauma; The Brain That Changes Itself, by Norman Doidge (2007), on neuroplasticity.

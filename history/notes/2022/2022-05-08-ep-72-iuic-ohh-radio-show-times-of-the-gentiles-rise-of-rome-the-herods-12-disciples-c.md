@@ -888,7 +888,7 @@ Reading from a book on the arrest of Jesus in the garden (the book isn't named a
 
 > <sup>[32](/bible/acts/5#v32)</sup> And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.
 
-- 32 again. Verse 32. Also the Holy Ghost. God gives to them that what? That obey him. Shout out to Captain Galayah for that precept. He says the Holy Ghost only comes to those who obey him. I had the Holy Spirit, the Holy Spirit on me. We don't keep no commandments. You don't believe in God, but the Holy Spirit's in you? No, no, no, no, no. The Holy Spirit comes upon those that obey him. That's a bad precept right there.
+- 32 again. Verse 32. Also the Holy Ghost. God gives to them that what? That obey him. Shout out to Captain Gedaliah for that precept. He says the Holy Ghost only comes to those who obey him. I had the Holy Spirit, the Holy Spirit on me. We don't keep no commandments. You don't believe in God, but the Holy Spirit's in you? No, no, no, no, no. The Holy Spirit comes upon those that obey him. That's a bad precept right there.
 
 - **Co-host:** And Deacon, you read up in verse 30, 31, it says they're witnesses of these things, and so is also the Holy Ghost. So the things they witness is verse 31. You got to be in agreement that Christ died for Israel, Israel only. That he'd be a Prince and a Saviour.
 
