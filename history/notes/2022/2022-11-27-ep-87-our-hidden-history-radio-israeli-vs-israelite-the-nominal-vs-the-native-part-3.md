@@ -420,7 +420,7 @@ Reading from *The History of the Inquisition* by Philip a Limborch, pages 128 to
 
 > Pragmatic, at Granada, 1492.
 
-- Right here, 1492. That's the year that Columbus came over here and conquered the Native Americans. The same thing happening at the same time. This is simultaneously happening: one nation being conquered on this side of the world, one nation being … on the other side of the world. Same people.
+- Right here, 1492. That's the year that Columbus came over here and conquered the Native Americans. The same thing happening at the same time. This is simultaneously happening: one nation being … on this side of the world, one nation being … on the other side of the world. Same people.
 
 - And the wealth acquired during this expulsion is what funded Columbus's voyage to this side of the world. When they were confiscating our goods in Spain and Portugal, and our wealth, the Crown took that wealth and funded Columbus's voyage, and eventually funded the army he brought along with him.
 

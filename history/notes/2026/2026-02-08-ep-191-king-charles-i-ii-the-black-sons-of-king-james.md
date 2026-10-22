@@ -912,7 +912,7 @@ Reading from Wikipedia, "House of Stuart", read off the screen · read by an off
 
 > The Stuarts were monarchs of Britain and Ireland and its growing empire until the death of Queen Anne in 1714,
 
-- *[[1:53:38](https://www.youtube.com/watch?v=i0o32RulIgQ&t=6818s)]* The last of the Stuart line before white folks took over, because these women married … Europeans. They married into white German families. And that's where Princess Diana comes from. Prince Henry, William, that's that family there. Germans, that took on the throne. The last reign of the black kings in Europe, of England, was that year there, 1714. From there it was all white folks. Go ahead.
+- *[[1:53:38](https://www.youtube.com/watch?v=i0o32RulIgQ&t=6818s)]* The last of the Stuart line before white folks took over, because these women married … …. They married into white German families. And that's where Princess Diana comes from. Prince Henry, William, that's that family there. Germans, that took on the throne. The last reign of the black kings in Europe, of England, was that year there, 1714. From there it was all white folks. Go ahead.
 
 > except for the period of the Commonwealth between 1649 and 1660.
 

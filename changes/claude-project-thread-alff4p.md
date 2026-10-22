@@ -1,0 +1,1 @@
+- Class notes: 81 words that had been filled into YouTube caption bleeps ([ __ ]) in 36 notes are now "…". The bleeped word is never guessed. Scripture read in class keeps the KJV's own word.

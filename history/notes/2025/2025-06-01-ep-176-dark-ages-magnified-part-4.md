@@ -1019,7 +1019,7 @@ Reading from an old map of Spain, Iberia of the Phoenicians · read by a guest i
 
 - **Guest:** Yeah, the Romans came and just added their own damn twist of it.
 
-- **Deacon Eythan:** We named it. They're going to name it something else. Go up to the top. What book is this? Oh, well, Scotland was Jewish. Let me see if I want that right now. Yeah, read. That's fine. You got time. Read it.
+- **Deacon Eythan:** … named it. They're going to name it something else. Go up to the top. What book is this? Oh, well, Scotland was Jewish. Let me see if I want that right now. Yeah, read. That's fine. You got time. Read it.
 
 </div>
 

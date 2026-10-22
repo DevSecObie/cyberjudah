@@ -825,7 +825,7 @@ Reading from *America, Being the Latest and Most Accurate Description of the New
 >
 > <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 
-- We are the teachers. You didn't know you were going to be a teacher of the Bible; you thought you were going to be a blood and run schemes. The Lord said, I'mma use you to set this world on fire.
+- We are the teachers. You didn't know you were going to be a …; you thought you were going to be a blood and run schemes. The Lord said, I'mma use you to set this world on fire.
 
 - The word behind thee saying this is the way is the teachers.
 

@@ -368,7 +368,7 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 > <sup>[14](/bible/exodus/2#v14)</sup> And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
 
 - Moses went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren; and he slew the Egyptian. Some of you might say Moses was a murderer; he did not kill out of hatred. What Moses did is the spirit the brothers had in the time of the Black Panthers, when racist police were killing our people; there are men locked up right now as prisoners of war from that era. We do not do that today, but that is the spirit Moses was moving in.
-- The second day two men of the Hebrews strove together, and the one doing wrong said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? So Moses was out; he had to flee. You try to help our people and they will turn on you just that quick.
+- The second day two men of the Hebrews strove together, and the one doing wrong said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? So Moses was out; he had to flee. You try to help … and they will turn on you just that quick.
 
 **[Deuteronomy 28:65-67](/bible/deuteronomy/28#v65)**  *[[1:42:26](https://www.youtube.com/watch?v=VyDEbsxgcas&t=6146s)]*
 

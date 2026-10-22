@@ -285,7 +285,7 @@ Reading from *The Willie Lynch Letter and the Making of a Slave*, page 15 · rea
 
 - This is the natural state: she would raise the female black to be dependent upon the black male, just like her.
 
-> We reversed nature by burning and pulling one civilized apart and … the other to the point of death, all in the presence of the female. By her being left alone, unprotected, with the male image destroyed, the ordeal caused her to move from her psychological dependent state to a frozen independent state.
+> We reversed nature by burning and pulling one … apart and … the other to the point of death, all in the presence of the female. By her being left alone, unprotected, with the male image destroyed, the ordeal caused her to move from her psychological dependent state to a frozen independent state.
 
 - See what the white man says: we have reversed nature.
 

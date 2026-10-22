@@ -87,7 +87,7 @@ Reading from *Sex and Race: Negro-Caucasian Mixing in All Ages and All Lands* by
 
 Reading from *Lost Civilizations: Ramses the Second, Magnificence on the Nile*  *[[30:24](https://www.youtube.com/watch?v=075qOUs8Sbc&t=1824s)]*
 
-- I just want to show y'all what they found inside the tombs. Those are the slaves in Egypt working for the Egyptians. What color are they? Black. You can't get a white boy out of those.
+- I just want to show y'all what they found inside the tombs. Those are the slaves in Egypt working for the Egyptians. What color are they? Black. You can't get … out of those.
 
 - All right, the loincloth is white. Exactly. As you can see there. You got the Egyptians and you have the Israelites in these tombs. The slaves and the oppressed and the oppressors.
 

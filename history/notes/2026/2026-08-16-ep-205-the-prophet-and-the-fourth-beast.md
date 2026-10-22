@@ -290,7 +290,7 @@ So let's begin with Daniel chapter 2. We're going to read all the way through it
 
 How were they able to make a space suit to go out of space, to know how much oxygen they were going to need to get out there, what kind of metal they were going to use to put on the ship to travel through there? Even rocket science itself: Jack Parsons is the reason behind rockets in the first place, to propel into space. That was all satanic. All of it. Aleister Crowley, Jack Parsons — all these guys are heavily rooted in Satanism.
 
-*[[52:11](https://www.youtube.com/watch?v=ZZ107oNaliw&t=3131s)]* And even now, as we speak, you have people right now walking around who are celebrities, actors, talk show hosts, first ladies, ex-presidents' wives, up here cutting off children's faces and wearing them like masks to harness the power of children, primarily black children. I'm pretty sure in the Epstein files they call them pizza. That's what they're doing. These guys have a god that they honour. The same way we sacrifice to our God, they sacrifice to their god too.
+*[[52:11](https://www.youtube.com/watch?v=ZZ107oNaliw&t=3131s)]* And even now, as we speak, you have … right now walking around who are celebrities, actors, talk show hosts, first ladies, ex-presidents' wives, up here cutting off children's faces and wearing them like masks to harness the power of children, primarily black children. I'm pretty sure in the Epstein files they call them pizza. That's what they're doing. These guys have a god that they honour. The same way we sacrifice to our God, they sacrifice to their god too.
 
 - **A brother:** And the Manhattan Project, they did all of that at the Bohemian Grove. That's where they came together for the whole Manhattan Project, where they worship their god at.
 
@@ -545,7 +545,7 @@ Reading from a book on the Apollo missions, by an engineer who worked in the aer
 
 - What I'm referring to is Deacon Isaac's video, The Chariots of God Are Black. You should watch it. The class is amazing. He did a part one and part two, but part one, he shows the video clip of that Edomite saying that they're black, and other aerial people saying the same, describing them as being tall, African-American looking. He said he saw one with a sandy brown afro. And they're tall, look like African-Americans. That's what he said verbatim in that video. One dude said, if you ever seen a race, they looked arrogant, and it was like a warrior class. They looked unconquered. They had a disposition of unconquered people.
 
-- That's why a lot of them come back bugged out. And there was a video of them where you see all of them sitting like this at a press conference. You know why they have that look on their face? Because remember, during 69 they whipping our behinds, civil rights time, beating us, holding us down. Then you flying to the moon, you see us up there with no helmets on, watching you, with technology way beyond your understanding. You down here calling us out of our name on earth, but you got us in space with no helmets on looking at you sideways. I'd be scared too.
+- That's why a lot of them come back bugged out. And there was a video of them where you see all of them sitting like this at a press conference. You know why they have that look on their face? Because remember, during 69 they whipping our behinds, civil rights time, beating us, holding us down. Then you flying to the moon, you see … up there with no helmets on, watching you, with technology way beyond your understanding. You down here calling us out of our name on earth, but you got … in space with no helmets on looking at you sideways. I'd be scared too.
 
 - **A brother:** And they had to hold it in. They couldn't say nothing. Like, yo, what are we doing to these people? They realise we messing with God's people. So if these guys come down there, we're finished.
 
@@ -567,7 +567,7 @@ Reading from a book on the Apollo missions, by an engineer who worked in the aer
 
 - **A brother:** That's why people think that they never been to the moon, but it's because they can't show what actually happened up there. So they fake the footage. That's the fake footage we see, because they can't really show what actually happened up there. And they never went back because of that same reason.
 
-- You're not going to tell the black people on the earth, who you call out of their name, that you ran into us in space, that told you you can't come here no more, that got technology that makes the technology on earth look like Legos. It's just not happening, man. You will empower us here. It ain't happening. It's not going to happen.
+- You're not going to tell the black people on the earth, who you call …, that you ran into … in space, that told you you can't come here no more, that got technology that makes the technology on earth look like Legos. It's just not happening, man. You will empower us here. It ain't happening. It's not going to happen.
 
 - But when they show up here, best believe Esau knows. Esau knows when the Messiah arrives here, it's over for them. We're not — you Christians is all lost. Esau and all the elites and the wise men of this world, they understand what they're doing, who they're doing it to, and who's coming to save us from them. They understand that.
 

@@ -161,7 +161,7 @@ Reading from the page on Europeans in tropical Africa, from the book on African 
 
 > who also, within an incredibly short period, share the same fate;
 
-- So those new immigrants, which is Edomites as well, once they die out, they coming in, they share the same fate. They die out too.
+- So those new immigrants, which is … as well, once they die out, they coming in, they share the same fate. They die out too.
 
 > whilst the aboriginal inhabitants increase and multiply,
 
@@ -173,7 +173,7 @@ Reading from the page on Europeans in tropical Africa, from the book on African 
 
 > Their offspring often suffer seriously from birth to manhood from internal diseases,
 
-- So they have internal diseases that they suffer from. Even at my job now, a lot of these Edomites, they be having rare diseases, man. They be having real rare diseases. I'm like, what the hell is that? They taking different medicines. I got one Edomite, Mike, that I work with. He barely can breathe in hot weather, man. How they struggle, and he's young. He's like 20. And I be looking at him like, damn, he's like wimpy. And I be like, yo, you all right? Breathing hard. But this is because of their recessive genes.
+- So they have internal diseases that they suffer from. Even at my job now, a lot of these …, they be having rare diseases, man. They be having real rare diseases. I'm like, what the hell is that? They taking different medicines. I got one Edomite, Mike, that I work with. He barely can breathe in hot weather, man. How they struggle, and he's young. He's like 20. And I be looking at him like, damn, he's like wimpy. And I be like, yo, you all right? Breathing hard. But this is because of their recessive genes.
 
 - **Officer:** They even have a name for that. The wimpy white boy syndrome in the hospitals. When white children are born, the nurses have that name for them.
 
@@ -193,7 +193,7 @@ Reading from the clip of Peter Nygard with the sisters, on their eggs and their 
 
 > Stem cell technology that Peter and I are investing in, that's called SCT, which takes the egg of a young, perfect woman specimen. Takes the egg and nucleus and puts our DNA in the nucleus.
 
-- But look how they smiling right now. They chilling, you know, we with some Edomites who got money, until the Edomite explain what they were there for. He said a young perfect woman specimen. You see that? He said it puts our DNA inside of the nucleus.
+- But look how they smiling right now. They chilling, you know, we with some … who got money, until the … explain what they were there for. He said a young perfect woman specimen. You see that? He said it puts our DNA inside of the nucleus.
 
 > And this is part of this genetic greatness that we don't see in any other race on the planet. These curvy, sexy black women from Africa. You girls have a kind of a monopoly on this genetic perfection.
 
@@ -359,7 +359,7 @@ Reading from the clip of the sister on the true power of melanin  *[[53:04](http
 
 > <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
 
-- So the Lord said he made Esau small among the heathen. And we are proving that right now, that they are small among the heathen. They would like to think that they the majority. That's why when Deacon read that article, that letter from Benjamin Franklin, he was like, why you bringing all these Negroes over here, man? We already a small nation. Now y'all bringing all these Negroes over here, they're going to overpopulate us, they're going to take over. So he was saying, look, bring more of us over here to live and to have the land. But through slavery and so forth, they kept importing us and importing us over there.
+- So the Lord said he made Esau small among the heathen. And we are proving that right now, that they are small among the heathen. They would like to think that they the majority. That's why when Deacon read that article, that letter from Benjamin Franklin, he was like, why you bringing all these … over here, man? We already a small nation. Now y'all bringing all these Negroes over here, they're going to overpopulate us, they're going to take over. So he was saying, look, bring more of us over here to live and to have the land. But through slavery and so forth, they kept importing us and importing us over there.
 
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
 
