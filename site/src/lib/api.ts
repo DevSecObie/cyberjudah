@@ -167,6 +167,8 @@ export type ByBookRow = { book: string; slug: string; testament: string; notes: 
 
 /** A show or series besides the Sabbath classes (data/shows.json): what it is, its notes, and its transcribed recordings (null where not counted). */
 export type ShowRow = { slug: string; name: string; kind: string; url: string; page?: string; feed?: "captains"; match: string[]; notes: number; recordings: number | null };
+/** Series that have their own section at the top of the site, by slug: their page, in place of /shows/<slug>. */
+export const OWN_SECTION: Record<string, string> = { "giving-the-sense-from-a-to-z": "/giving-the-sense" };
 
 export type HistoryRow = { slug: string; title: string; url: string; episode: number | null; date: string | null; year: string; duration: number | null; videoId: string; thumb: string; teacher: string; topics: string[]; summary: string };
 
@@ -193,7 +195,7 @@ export const api = {
   topics: () => getJson<TopicRow[]>("/api/topics/index.json"),
   topic: (slug: string) => getJson<Topic>(`/api/topics/${slug}.json`),
   history: () => getJson<HistoryRow[]>("/api/history/index.json"),
-  shows: () => getJson<{ shows: ShowRow[] }>("/api/shows/index.json").then((d) => d.shows),
+  shows: () => getJson<{ shows: ShowRow[] }>("/api/shows/index.json").then((d) => d.shows.map((s) => (OWN_SECTION[s.slug] ? { ...s, url: OWN_SECTION[s.slug] } : s))),
   topicLabels: () => getJson<{ slug: string; label: string }[]>("/search/topics.json"),
 };
 

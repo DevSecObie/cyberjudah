@@ -15,6 +15,7 @@ const SECTIONS = [
   { label: "Sabbath Classes", to: "/classes", hint: "class notes" },
   { label: "15 Min w/Captains", to: "/captains", hint: "episodes" },
   { label: "Our Hidden History", to: "/history", hint: "radio episodes, written up" },
+  { label: "Giving The Sense From A to Z", to: "/giving-the-sense", hint: "verse by verse with the captains" },
   { label: "Case Studies", to: "/cases", hint: "judgments and blessings" },
   { label: "The Law", to: "/law", hint: "the handbook" },
   { label: "Precepts", to: "/precepts", hint: "subject index" },
