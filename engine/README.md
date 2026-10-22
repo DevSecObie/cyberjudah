@@ -71,7 +71,7 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `pagefind/` | a sharded full-text index; load `pagefind/pagefind.js` and search every verse, note, law, precept and case |
 | `search.sql.gz` | the search index as SQL: one FTS5 table `search_docs(kind, title, url, sub, text, book, chapter)`, every verse a row, notes split at headings into pieces of a few KB, laws, precepts and cases one row each; the site loads it into Cloudflare D1 on every publish |
 | `search-index/parts.json`, `search-index/NN.sql.gz` | the same index in parts, each under 20 MiB gzipped and valid SQL on its own, to run in order; `search.sql.gz` itself is over the 25 MiB a Workers asset may be and is kept out of data.cyberjudah.io by `.assetsignore` (it stays in the `data` branch) |
-| `library.sqlite.gz` | the whole library as SQLite with FTS5 tables (`verses_fts`, `notes_fts`, `laws_fts`, `cases_fts`); import into Cloudflare D1, Turso, or open locally |
+| `library.sqlite.gz` | the whole library as SQLite with FTS5 tables (`verses_fts`, `notes_fts`, `laws_fts`, `cases_fts`); downloaded from GitHub's `data` branch only, excluded from Cloudflare assets by `.assetsignore` |
 | `img/classes/<videoId>.jpg`, `img/captains/<videoId>.jpg` | thumbnails |
 | `classes/rss.xml`, `captains/rss.xml`, `study/rss.xml` and `*/feed.json` | feeds |
 | `llms.txt` | a summary for language models |
@@ -112,6 +112,17 @@ history discarded. Anything that can serve a git branch can serve the data set:
 - a Cloudflare R2 bucket, or any object store, by copying the branch
 
 ## SQLite quick start
+
+Download [library.sqlite.gz from GitHub](https://raw.githubusercontent.com/DevSecObie/cyberjudah/data/library.sqlite.gz).
+The engine keeps it in `dist/` for publication to the `data` branch, but excludes both
+`library.sqlite` and `library.sqlite.gz` from Cloudflare Workers static assets regardless
+of size. `api/index.json`'s `search.sqlite` is now this absolute GitHub URL; `llms.txt`
+and the site's Downloads page use the same destination. Other data paths retain their
+existing hosting. The separate D1 search import still uses `search.sql.gz`.
+
+Run `node --test engine/data-assets.test.mjs` after installing the engine and site
+dependencies to build into a temporary directory and check Git publication, the
+Cloudflare asset manifest, and Wrangler's dry run without uploading anything.
 
 ```
 gunzip library.sqlite.gz
