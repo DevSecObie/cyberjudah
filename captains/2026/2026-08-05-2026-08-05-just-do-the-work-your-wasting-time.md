@@ -2,7 +2,7 @@
 title: "Just Do The Work Your Wasting Time"
 slug: "2026/2026-08-05-just-do-the-work-your-wasting-time"
 date: "2026-08-05"
-teacher: "Captain Karaz"
+teacher: "Captain Karataza"
 description: "15 Minutes w/ The Captains · 2026-08-05"
 tags: ["15 Minutes w/ The Captains", "mercy", "prophecy", "war"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "mercy", "prophecy", "war"]
 
 ## Introduction
 
-*[[0:12](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=12s)]* Hey, shalom family. Most High and Christ bless. Captain Karaz of Houston, Texas, and this is 15 Minutes with the Captains. All right? Don't have a whole lot of time, fifteen minutes, so we going to get right into it.
+*[[0:12](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=12s)]* Hey, shalom family. Most High and Christ bless. Captain Karataza of Houston, Texas, and this is 15 Minutes with the Captains. All right? Don't have a whole lot of time, fifteen minutes, so we going to get right into it.
 
 **Title of the class is: do the work, stop wasting time.**
 
@@ -172,7 +172,7 @@ A clip from a Sunday church service is played.  *[[13:53](https://www.youtube.co
 
 ## In Closing
 
-*[[17:10](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=1030s)]* So, again, that's been fifteen minutes, family. I pray y'all got something out of the class. Again, Captain Karaz out of Houston, Texas. Shalom, Most High and Christ bless you all.
+*[[17:10](https://www.youtube.com/watch?v=0k9VXVDRP5I&t=1030s)]* So, again, that's been fifteen minutes, family. I pray y'all got something out of the class. Again, Captain Karataza out of Houston, Texas. Shalom, Most High and Christ bless you all.
 
 ---
 

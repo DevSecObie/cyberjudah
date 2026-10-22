@@ -2,7 +2,7 @@
 title: "Only God Can Judge Me"
 slug: "2026/2026-06-19-only-god-can-judge-me"
 date: "2026-06-19"
-teacher: ""
+teacher: "Captain Karataza"
 description: "15 Minutes w/ The Captains · 2026-06-19"
 tags: ["15 Minutes w/ The Captains", "justice", "the-law"]
 ---
