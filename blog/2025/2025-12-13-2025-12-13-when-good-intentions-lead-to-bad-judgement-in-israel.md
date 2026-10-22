@@ -646,7 +646,7 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 
 **[Tobit 1:3-8](/bible/tobit/1#v3)**  *[[1:49:34](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=6574s)]*
 
-> <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the ways of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
+> <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the way of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
 >
 > <sup>[4](/bible/tobit/1#v4)</sup> And when I was in mine own country, in the land of Israel being but young, all the tribe of Nephthali my father fell from the house of Jerusalem, which was chosen out of all the tribes of Israel, that all the tribes should sacrifice there, where the temple of the habitation of the most High was consecrated and built for all ages.
 >

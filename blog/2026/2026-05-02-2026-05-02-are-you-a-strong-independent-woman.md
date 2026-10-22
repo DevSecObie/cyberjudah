@@ -543,7 +543,7 @@ Reading from a news item on IHOP in the Bronx, shown on the screen  *[[1:05:15](
 >
 > <sup>[3](/bible/wisdom-of-solomon/4#v3)</sup> But the multiplying brood of the ungodly shall not thrive, nor take deep rooting from bastard slips, nor lay any fast foundation.
 >
-> <sup>[4](/bible/wisdom-of-solomon/4#v4)</sup> For though they flourish in branches for a time; yet standing not last, they shall be shaken with the wind, and through the force of winds they shall be rooted out.
+> <sup>[4](/bible/wisdom-of-solomon/4#v4)</sup> For though they flourish in branches for a time; yet standing not fast, they shall be shaken with the wind, and through the force of winds they shall be rooted out.
 >
 > <sup>[5](/bible/wisdom-of-solomon/4#v5)</sup> The imperfect branches shall be broken off, their fruit unprofitable, not ripe to eat, yea, meet for nothing.
 >

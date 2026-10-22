@@ -214,7 +214,7 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", 
 
 **[2 Esdras 14:21](/bible/2-esdras/14#v21)**  *[[22:02](https://www.youtube.com/watch?v=I-4asQfinAY&t=1322s)]*
 
-> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the work that shall begin.
+> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the works that shall begin.
 
 - For thy law is burnt, therefore no man knoweth the things that are done of thee: so when there's no laws, there's no unity. People are not going to know what to do when there's no law. That's why we got to unify on God's laws. It require truth and require correction.
 

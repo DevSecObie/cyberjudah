@@ -169,7 +169,7 @@ The trip: Deacon Abio spoke and said he was coming out here, and I told him I am
 
 **[Sirach 10:20-21](/bible/sirach/10#v20)**  *[[35:43](https://www.youtube.com/watch?v=RyRdIO615fU&t=2143s)]*
 
-> <sup>[20](/bible/sirach/10#v20)</sup> Among brethren he that is chief is honorable; so are they that fear the Lord in his eyes.
+> <sup>[20](/bible/sirach/10#v20)</sup> Among brethren he that is chief is honourable; so are they that fear the Lord in his eyes.
 >
 > <sup>[21](/bible/sirach/10#v21)</sup> The fear of the Lord goeth before the obtaining of authority: but roughness and pride is the losing thereof.
 

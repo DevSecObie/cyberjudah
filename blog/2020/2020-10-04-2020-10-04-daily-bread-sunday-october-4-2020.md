@@ -194,7 +194,7 @@ tags: ["IUIC in the ClassRoom", "discipline", "sabbath", "the-law", "the-word"]
 >
 > <sup>[3](/bible/sirach/45#v3)</sup> By his words he caused the wonders to cease, and he made him glorious in the sight of kings, and gave him a commandment for his people, and shewed him part of his glory.
 >
-> <sup>[4](/bible/sirach/45#v4)</sup> He sanctified him in his faithfuless and meekness, and chose him out of all men.
+> <sup>[4](/bible/sirach/45#v4)</sup> He sanctified him in his faithfulness and meekness, and chose him out of all men.
 >
 > <sup>[5](/bible/sirach/45#v5)</sup> He made him to hear his voice, and brought him into the dark cloud, and gave him commandments before his face, even the law of life and knowledge, that he might teach Jacob his covenants, and Israel his judgments.
 
@@ -495,7 +495,7 @@ tags: ["IUIC in the ClassRoom", "discipline", "sabbath", "the-law", "the-word"]
 
 > <sup>[27](/bible/baruch/2#v27)</sup> O Lord our God, thou hast dealt with us after all thy goodness, and according to all that great mercy of thine,
 >
-> <sup>[28](/bible/baruch/2#v28)</sup> As thou spakest by thy servant Moses in the day when thou didst command him to write the law before the children of Israel, saying,
+> <sup>[28](/bible/baruch/2#v28)</sup> As thou spakest by thy servant Moses in the day when thou didst command him to write thy law before the children of Israel, saying,
 >
 > <sup>[29](/bible/baruch/2#v29)</sup> If ye will not hear my voice, surely this very great multitude shall be turned into a small number among the nations, where I will scatter them.
 

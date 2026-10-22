@@ -392,13 +392,13 @@ Reading from Justin the Martyr, on Plato and Moses · read by a brother  *[[1:11
 >
 > <sup>[5](/bible/2-maccabees/6#v5)</sup> The altar also was filled with profane things, which the law forbiddeth.
 >
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
 
 - So it was illegal for a Jew to profess himself to be a Jew. So what do we become in the process of that? We became Greeks. We became Greeks. This again is the history of what is known as the intertestamental period.
 
 - I think I got something else too. I'm going to send this to them as well. I sent you something as well on our GroupMe. Download that and post it up. Keep going.
 
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 
 - We were forced to worship Bacchus, the god of wine.
 

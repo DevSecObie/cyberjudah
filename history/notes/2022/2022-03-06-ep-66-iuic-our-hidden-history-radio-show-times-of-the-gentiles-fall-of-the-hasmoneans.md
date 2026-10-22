@@ -57,7 +57,7 @@ tags: ["Our Hidden History", "nations"]
 
 > <sup>[10](/bible/1-maccabees/10#v10)</sup> This done, Jonathan settled himself in Jerusalem, and began to build and repair the city.
 >
-> <sup>[11](/bible/1-maccabees/10#v11)</sup> And he commanded the workmen to build the walls and the mount Sion and about with square stones for fortification; and they did so.
+> <sup>[11](/bible/1-maccabees/10#v11)</sup> And he commanded the workmen to build the walls and the mount Sion round about with square stones for fortification; and they did so.
 >
 > <sup>[12](/bible/1-maccabees/10#v12)</sup> Then the strangers, that were in the fortresses which Bacchides had built, fled away;
 
@@ -109,7 +109,7 @@ tags: ["Our Hidden History", "nations"]
 
 - So at this point this is Demetrius offering us tax exemption. Okay, this is Demetrius offering us tax exemption, because remember, it's a battle of, pretty much, an alliance here. You got Demetrius on one hand trying to win us over with offerings and gifts and so forth, and Alexander also. So Demetrius saying, listen, man, I offer you guys to live in your land without paying the king's taxes.
 
-> <sup>[30](/bible/1-maccabees/10#v30)</sup> And from that which appertaineth unto me to receive for the third part or the seed, and the half of the fruit of the trees, I release it from this day forth, so that they shall not be taken of the land of Judea, nor of the three governments which are added thereunto out of the country of Samaria and Galilee, from this day forth for evermore.
+> <sup>[30](/bible/1-maccabees/10#v30)</sup> And from that which appertaineth unto me to receive for the third part of the seed, and the half of the fruit of the trees, I release it from this day forth, so that they shall not be taken of the land of Judea, nor of the three governments which are added thereunto out of the country of Samaria and Galilee, from this day forth for evermore.
 
 - These are the taxes. I release it from this day forth: I'm like, nah, I don't want that from you anymore. Because the Greeks would collect taxes and collect these things from us, these parts of the trees, the seed, the fruit of the trees, all that stuff. He said, listen, you guys can keep that stuff, I don't want it.
 
@@ -749,13 +749,13 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 
 > <sup>[29](/bible/1-maccabees/10#v29)</sup> And now do I free you, and for your sake I release all the Jews, from tributes, and from the customs of salt, and from crown taxes,
 >
-> <sup>[30](/bible/1-maccabees/10#v30)</sup> And from that which appertaineth unto me to receive for the third part or the seed, and the half of the fruit of the trees, I release it from this day forth, so that they shall not be taken of the land of Judea, nor of the three governments which are added thereunto out of the country of Samaria and Galilee, from this day forth for evermore.
+> <sup>[30](/bible/1-maccabees/10#v30)</sup> And from that which appertaineth unto me to receive for the third part of the seed, and the half of the fruit of the trees, I release it from this day forth, so that they shall not be taken of the land of Judea, nor of the three governments which are added thereunto out of the country of Samaria and Galilee, from this day forth for evermore.
 
 - So I'm gonna give you these lands, the land of Judea, nor the three governments which are added thereunto out of the country of Samaria. So you guys have rulership over Judea, and you take these three governments, the mountains of Samaria, over as well. You get to reign over those too.
 
 > <sup>[31](/bible/1-maccabees/10#v31)</sup> Let Jerusalem also be holy and free, with the borders thereof, both from tenths and tributes.
 >
-> <sup>[32](/bible/1-maccabees/10#v32)</sup> And as for the tower which is at Jerusalem, I yield up authority over it, and give the high priest, that he may set in it such men as he shall choose to keep it.
+> <sup>[32](/bible/1-maccabees/10#v32)</sup> And as for the tower which is at Jerusalem, I yield up my authority over it, and give it to the high priest, that he may set in it such men as he shall choose to keep it.
 
 - That's to rule over it. To govern it.
 
@@ -763,13 +763,13 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 >
 > <sup>[34](/bible/1-maccabees/10#v34)</sup> Furthermore I will that all the feasts, and sabbaths, and new moons, and solemn days, and the three days before the feast, and the three days after the feast shall be all of immunity and freedom for all the Jews in my realm.
 >
-> <sup>[35](/bible/1-maccabees/10#v35)</sup> Also no man shall have authority to meddle with or to molest any of them in any matter.
+> <sup>[35](/bible/1-maccabees/10#v35)</sup> Also no man shall have authority to meddle with them or to molest any of them in any matter.
 
 - Damn. So these guys, he studied us. He was studying us. You guys get your new moons, your solemn days, your sabbaths, your feasts. When Edom conquered us, they had to study our history, study how we keep our feast days, all of that. Because, you guys have all the freedom you want and immunity all you want during your feast day celebrations. I will not bother you for anything.
 
 - See, no man shall have authority to stop us from keeping them. Or to molest any of them in any matter: so harm you in any manner.
 
-> <sup>[36](/bible/1-maccabees/10#v36)</sup> I will further, that there be enrolled among the king’s forces about thirty thousand men of the Jews, unto whom pay shall be given, as belongeth to all king’s forces.
+> <sup>[36](/bible/1-maccabees/10#v36)</sup> I will further, that there be enrolled among the king’s forces about thirty thousand men of the Jews, unto whom pay shall be given, as belongeth to all the king’s forces.
 
 - See, there you go. And your people can join my army. Your people can be enlisted in my army. Read again. Now go back to Cornelius. This ties together.
 
@@ -793,7 +793,7 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 >
 > <sup>[42](/bible/1-maccabees/10#v42)</sup> And beside this, the five thousand shekels of silver, which they took from the uses of the temple out of the accounts year by year, even those things shall be released, because they appertain to the priests that minister.
 >
-> <sup>[43](/bible/1-maccabees/10#v43)</sup> And whosoever they be that flee unto the temple at Jerusalem, or be within the liberties hereof, being indebted unto the king, or for any other matter, let them be at liberty, and all that they have in my realm.
+> <sup>[43](/bible/1-maccabees/10#v43)</sup> And whosoever they be that flee unto the temple at Jerusalem, or be within the liberties thereof, being indebted unto the king, or for any other matter, let them be at liberty, and all that they have in my realm.
 
 - Those who are wanted for owing me money, they're free. They're good. They're exonerated.
 
@@ -821,7 +821,7 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 >
 > <sup>[53](/bible/1-maccabees/10#v53)</sup> For after I had joined battle with him, both he and his host was discomfited by us, so that we sit in the throne of his kingdom:
 >
-> <sup>[54](/bible/1-maccabees/10#v54)</sup> Now therefore let us make a league of amity together, and give me now thy daughter to wife: and I will be thy son in law, and will give both thee and her as according to thy dignity.
+> <sup>[54](/bible/1-maccabees/10#v54)</sup> Now therefore let us make a league of amity together, and give me now thy daughter to wife: and I will be thy son in law, and will give both thee and her gifts according to thy dignity.
 
 - So, listen, man, I want your daughter. So Alexander Balas asked Ptolemy for his daughter's hand in marriage. Okay.
 
@@ -841,7 +841,7 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 
 **[2 Maccabees 4:21](/bible/2-maccabees/4#v21)**  *[[1:42:39](https://www.youtube.com/watch?v=Js_GJz1xw08&t=6159s)]*
 
-> <sup>[21](/bible/2-maccabees/4#v21)</sup> Now when Apollonius the son of Menestheus was sent into Egypt for the coronation of king Ptolemeus Philometor, Antiochus, understanding him not to be well affected to his affairs, provided for his own safety: whereupon he came to Joppa, and from thence to Jerusalem:
+> <sup>[21](/bible/2-maccabees/4#v21)</sup> Now when Apollonius the son of Menestheus was sent into Egypt for the coronation of king Ptolemeus Philometor, Antiochus, understanding him not to be well affected to his affairs, provided for his own safety: whereupon he came to Joppe, and from thence to Jerusalem:
 
 - Same guy. This is the same guy that Alexander Balas wrote to earlier. Okay.
 
@@ -957,7 +957,7 @@ Reading from a search result on Shechem read on air (the source isn't named)  *[
 
 - This is Apollonius, his general. The king's general. Demetrius the Second's general.
 
-> <sup>[75](/bible/1-maccabees/10#v75)</sup> And he pitched his tents against Joppa: but; they of Joppa shut him out of the city, because Apollonius had a garrison there.
+> <sup>[75](/bible/1-maccabees/10#v75)</sup> And he pitched his tents against Joppa: but; they of Joppe shut him out of the city, because Apollonius had a garrison there.
 >
 > <sup>[76](/bible/1-maccabees/10#v76)</sup> Then Jonathan laid siege unto it: whereupon they of the city let him in for fear: and so Jonathan won Joppa.
 >

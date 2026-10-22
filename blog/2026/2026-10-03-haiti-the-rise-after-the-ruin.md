@@ -990,7 +990,7 @@ Reading from a headline on white South African refugees  *[[2:59:28](https://www
 
 **[2 Esdras 1:38-40](/bible/2-esdras/1#v38)**  *[[3:08:11](https://www.youtube.com/watch?v=pZs5reAzxi4&t=11291s)]*
 
-> <sup>[38](/bible/2-esdras/1#v38)</sup> And now, brother, behold what glory; and see the people that come from the east:
+> <sup>[38](/bible/2-esdras/1#v38)</sup> And now, brother, behold what glory; and see the people that cometh from the east:
 >
 > <sup>[39](/bible/2-esdras/1#v39)</sup> Unto whom I will give for leaders, Abraham, Isaac, and Jacob, Oseas, Amos, and Micheas, Joel, Abdias, and Jonas,
 >

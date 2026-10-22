@@ -70,7 +70,7 @@ Reading from an article, *Kevin Hart Criticized for Allegedly Saying Egyptians W
 
 **[2 Esdras 14:18](/bible/2-esdras/14#v18)**  *[[12:15](https://www.youtube.com/watch?v=zeCthlblAcg&t=735s)]*
 
-> <sup>[18](/bible/2-esdras/14#v18)</sup> For the time is fled far away, and leasing is hard at hand: for now hasteth the vision to come, which thou hast seen.
+> <sup>[18](/bible/2-esdras/14#v18)</sup> For the truth is fled far away, and leasing is hard at hand: for now hasteth the vision to come, which thou hast seen.
 
 - For the truth is fled far away, and leasing is hard at hand. So the truth of the Bible, the truth of world history, because we are talking about world history. You can find these things documented in books, many different scholarly books. They come after us based upon records that we found that their scholars wrote. We didn't write any of these books. A lot of these books, or more so the minor books that we're coming up with, like your *Babylon to Timbuktu*, *Nature Knows No Color Line*, or *Sex and Race*: those are black scholars that did the research based upon these white archaeologists going into ancient Egypt, or these civilizations, going to Russia, going to Romania, going to the castles of Europe. And you also have, what's his name that did the books? Henry Louis Gates. So Henry Louis Gates, he's a modern day scholar that's fighting a lot of these records. But not even him could go deep in depth into the records to find out: wait a minute, these people on a wall, on mosaics, these are Israelites. These people are the same people that's relegated to a position of servitude and slavery in America.
 

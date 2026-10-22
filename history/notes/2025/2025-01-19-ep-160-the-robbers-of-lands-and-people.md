@@ -720,7 +720,7 @@ Reading from an article on Orlando Jones being fired from *American Gods*  *[[1:
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[1:55:21](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=6921s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - Who hated their own race.
 

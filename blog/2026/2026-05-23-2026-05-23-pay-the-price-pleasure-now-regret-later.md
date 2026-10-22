@@ -474,7 +474,7 @@ Reading from a definition of wiles  *[[1:54:22](https://www.youtube.com/watch?v=
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[2:20:16](https://www.youtube.com/watch?v=LmS2WNcC-Rk&t=8416s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 >
 > <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
 

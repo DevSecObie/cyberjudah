@@ -1114,7 +1114,7 @@ Reading from the Hadith, *Sahih al-Bukhari* 25  *[[1:31:09](https://www.youtube.
 
 > <sup>[2](/bible/1-maccabees/5#v2)</sup> Wherefore they thought to destroy the generation of Jacob that was among them, and thereupon they began to slay and destroy the people.
 >
-> <sup>[3](/bible/1-maccabees/5#v3)</sup> Then Judas fought against the children of Esau in Idumea at Arabattine, because they besieged Gael: and he gave them a great overthrow, and abated their courage, and took their spoils.
+> <sup>[3](/bible/1-maccabees/5#v3)</sup> Then Judas fought against the children of Esau in Idumea at Arabattine, because they besieged Israel: and he gave them a great overthrow, and abated their courage, and took their spoils.
 >
 > <sup>[4](/bible/1-maccabees/5#v4)</sup> Also he remembered the injury of the children of Bean, who had been a snare and an offence unto the people, in that they lay in wait for them in the ways.
 

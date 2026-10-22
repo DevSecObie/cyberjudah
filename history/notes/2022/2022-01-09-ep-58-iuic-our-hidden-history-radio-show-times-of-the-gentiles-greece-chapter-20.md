@@ -606,7 +606,7 @@ Reading from the page on Nanea from Bible.net, sent on air · read by Manny  *[[
 
 > <sup>[2](/bible/2-maccabees/3#v2)</sup> It came to pass that even the kings themselves did honour the place, and magnify the temple with their best gifts;
 >
-> <sup>[3](/bible/2-maccabees/3#v3)</sup> Insomuch that Seleucus of Asia of his own revenues bare all the costs belonging to the service of the sacrifices.
+> <sup>[3](/bible/2-maccabees/3#v3)</sup> Insomuch that Seleucus king of Asia of his own revenues bare all the costs belonging to the service of the sacrifices.
 
 - Stella kisses. Celicas Philippe. Seleucus Philopator. All right, still the same guy. Go ahead.
 
@@ -1188,7 +1188,7 @@ So the Apocrypha contains a whole lot of history, to sum it all up, that bridges
 
 > <sup>[20](/bible/2-maccabees/4#v20)</sup> This money then, in regard of the sender, was appointed to Hercules’ sacrifice; but because of the bearers thereof, it was employed to the making of gallies.
 >
-> <sup>[21](/bible/2-maccabees/4#v21)</sup> Now when Apollonius the son of Menestheus was sent into Egypt for the coronation of king Ptolemeus Philometor, Antiochus, understanding him not to be well affected to his affairs, provided for his own safety: whereupon he came to Joppa, and from thence to Jerusalem:
+> <sup>[21](/bible/2-maccabees/4#v21)</sup> Now when Apollonius the son of Menestheus was sent into Egypt for the coronation of king Ptolemeus Philometor, Antiochus, understanding him not to be well affected to his affairs, provided for his own safety: whereupon he came to Joppe, and from thence to Jerusalem:
 
 - **Manny:** Ptolemaius, the elevator. Ptolemaius, tolerator, film leader...
 

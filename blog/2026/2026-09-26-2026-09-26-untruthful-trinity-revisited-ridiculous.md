@@ -93,7 +93,7 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "the-law", "wisdom"]
 
 > <sup>[22](/bible/wisdom-of-solomon/7#v22)</sup> For wisdom, which is the worker of all things, taught me: for in her is an understanding spirit holy, one only, manifold, subtil, lively, clear, undefiled, plain, not subject to hurt, loving the thing that is good quick, which cannot be letted, ready to do good,
 >
-> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, steadfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
+> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, stedfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
 
 - In wisdom is an understanding spirit: holy, one only, clear, plain, sure; when you keep God's commandments the word becomes plain and clear.
 
@@ -1030,7 +1030,7 @@ Reading from on-screen text on the word Jesuit  *[[1:56:51](https://www.youtube.
 
 **[Sirach 27:13](/bible/sirach/27#v13)**  *[[2:03:28](https://www.youtube.com/watch?v=VewU_qivhdc&t=7408s)]*
 
-> <sup>[13](/bible/sirach/27#v13)</sup> The discourse of fools is irksome, and their sport is the wantonness of sin.
+> <sup>[13](/bible/sirach/27#v13)</sup> The discourse of fools is irksome, and their sport is in the wantonness of sin.
 
 - The discourse of fools is irksome: listen to one plus one plus one is one for three hours and you will lose your mind.
 

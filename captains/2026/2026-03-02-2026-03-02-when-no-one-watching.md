@@ -44,7 +44,7 @@ tags: ["15 Minutes w/ The Captains", "persecution", "the-law", "wisdom"]
 >
 > <sup>[22](/bible/2-maccabees/6#v22)</sup> That in so doing he might be delivered from death, and for the old friendship with them find favour.
 >
-> <sup>[23](/bible/2-maccabees/6#v23)</sup> But he began to consider discreetly, and as became his age, and the excellency of his ancient years, and the honour of his gray head, whereon was come, and his most honest education from a child, or rather the holy law made and given by God: therefore he answered accordingly, and willed them straightways to send him to the grave.
+> <sup>[23](/bible/2-maccabees/6#v23)</sup> But he began to consider discreetly, and as became his age, and the excellency of his ancient years, and the honour of his gray head, whereunto he was come, and his most honest education from a child, or rather the holy law made and given by God: therefore he answered accordingly, and willed them straightways to send him to the grave.
 >
 > <sup>[24](/bible/2-maccabees/6#v24)</sup> For it becometh not our age, said he, in any wise to dissemble, whereby many young persons might think that Eleazar, being fourscore years old and ten, were now gone to a strange religion;
 >

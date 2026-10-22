@@ -717,7 +717,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 - They cast them down headlong from the wall.
 
-> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered by Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
+> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered to Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
 
 - And other black Jews that had ran together into caves nearby. Why? To keep the Sabbath day secretly. What did the book say earlier? These were Jews practicing it in secret. We did the same thing during the time of the Greeks. Antiochus put an order out: no Jews are to observe their religion. He set up governors. Philip was one of the governors over this area. This was a white man. What did he do? Read.
 
@@ -749,7 +749,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph R. Windsor, page 127, on the 
 
 - We're reading right here, we're reading about our adversities. We're reading about it. He will never forsake his people. Read the next verse.
 
-> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
+> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in few words.
 
 - Be a what? Be for a warning unto us. Meaning what? Don't play with God. Don't play with him. Let this be a warning for us. Why? Because all this right here we're reading is going to happen again. That's what he's saying. Read on.
 

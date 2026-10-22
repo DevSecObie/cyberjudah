@@ -222,9 +222,9 @@ Reading from a definition of carnival  *[[57:46](https://www.youtube.com/watch?v
 
 **[2 Maccabees 6:6-9](/bible/2-maccabees/6#v6)**  *[[1:02:28](https://www.youtube.com/watch?v=oEsR_0bKJww&t=3748s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
 >
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 >
 > <sup>[8](/bible/2-maccabees/6#v8)</sup> Moreover there went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews, that they should observe the same fashions, and be partakers of their sacrifices:
 >
@@ -615,7 +615,7 @@ Reading from Toussaint Louverture's proclamation of 1801  *[[1:53:13](https://ww
 
 **[1 Maccabees 3:43](/bible/1-maccabees/3#v43)**  *[[1:58:40](https://www.youtube.com/watch?v=oEsR_0bKJww&t=7120s)]*
 
-> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed fortune of our people, and let us fight for our people and the sanctuary.
+> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed estate of our people, and let us fight for our people and the sanctuary.
 
 - Toussaint Louverture descends from the Maccabees: restore the decayed estate of our people ourselves, without waiting on Esau, welfare or handouts.
 

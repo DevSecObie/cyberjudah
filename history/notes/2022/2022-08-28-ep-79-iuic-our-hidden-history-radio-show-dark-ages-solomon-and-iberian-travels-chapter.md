@@ -340,7 +340,7 @@ Reading from the book named on air as *The Black Man, His Antecedents, His Geniu
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[53:46](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=3226s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - This is an Ammonite named Achior talking to a general of an army that planned on overthrowing us, to regain power for Babylon against the Persians and the Medes. And he told this general Holofernes, listen, these guys stand in your way of conquest. So if you're gonna go against them, know these things first. Verse 20 again.
 
@@ -354,7 +354,7 @@ Reading from the book named on air as *The Black Man, His Antecedents, His Geniu
 
 **[Judith 11:10](/bible/judith/11#v10)**  *[[55:03](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=3303s)]*
 
-> <sup>[10](/bible/judith/11#v10)</sup> Therefore, O lord and governor, respect not his word; but lay it up in thine heart, for it is true: for our nation shall not be punished, neither can sword prevail against them, except they sin against their God.
+> <sup>[10](/bible/judith/11#v10)</sup> Therefore, O lord and governor, reject not his word; but lay it up in thine heart, for it is true: for our nation shall not be punished, neither can the sword prevail against them, except they sin against their God.
 
 - See, so the nations know the only way you can defeat these people is if you had them go against their God. That's the only way you can beat them. Get Second Maccabees 8:36.
 
@@ -364,7 +364,7 @@ Reading from the book named on air as *The Black Man, His Antecedents, His Geniu
 
 **[2 Maccabees 8:36](/bible/2-maccabees/8#v36)**  *[[57:06](https://www.youtube.com/watch?v=CT9rS3Mbg7Q&t=3426s)]*
 
-> <sup>[36](/bible/2-maccabees/8#v36)</sup> Thus he, that took upon him to make good to the Romans their tribute by means of captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
+> <sup>[36](/bible/2-maccabees/8#v36)</sup> Thus he, that took upon him to make good to the Romans their tribute by means of the captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
 
 - So this is a time when a guy got beat up. He got beat up by the angels. What was his name again? His name was Heliodorus. Heliodorus got a royal angelic ass weapon for trying to set foot in the temple and take money that ain't belong to him. So God came down and checked him.
 
@@ -1284,7 +1284,7 @@ Reading from *Atkinson's Casket*, an 1830s magazine of historical articles, on t
 
 - Remember, it says here, the key part is here: they would leave the multitude of the heathen. How are you going to leave, here all around you? So where would they go? Where there's no heathen at all. Where no man lives. Here. Because no one was here when they got here. That's how you know it's here, because no heathens were here when they got over here. None. Read on.
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
 
 - Because they were placed in cities of the Medes that bordered the Euphrates River. And they sailed into that river, and they ended up where? It sails southward. The Euphrates flows southward. Okay. Read on. In the same water that borders Ezion-geber. The exact same water. It's right across from each other. Go ahead.
 

@@ -839,7 +839,7 @@ Reading from a list on Hay'at Tahrir al-Sham's terror network in Syria  *[[2:29:
 
 > <sup>[14](/bible/2-esdras/15#v14)</sup> Woe to the world and them that dwell therein!
 >
-> <sup>[15](/bible/2-esdras/15#v15)</sup> For the sword and their destruction draweth nigh, and one people shall stand up and fight against another, and swords in their hands.
+> <sup>[15](/bible/2-esdras/15#v15)</sup> For the sword and their destruction draweth nigh, and one people shall stand up to fight against another, and swords in their hands.
 >
 > <sup>[16](/bible/2-esdras/15#v16)</sup> For there shall be sedition among men, and invading one another; they shall not regard their kings nor princes, and the course of their actions shall stand in their power.
 >
@@ -1181,7 +1181,7 @@ Reading from a map, on the screen  *[[3:12:02](https://www.youtube.com/watch?v=1
 >
 > <sup>[31](/bible/2-esdras/15#v31)</sup> And then shall the dragons have the upper hand, remembering their nature; and if they shall turn themselves, conspiring together in great power to persecute them,
 >
-> <sup>[32](/bible/2-esdras/15#v32)</sup> Then these shall be troubled bled, and keep silence through their power, and shall flee.
+> <sup>[32](/bible/2-esdras/15#v32)</sup> Then these shall be troubled, and keep silence through their power, and shall flee.
 >
 > <sup>[33](/bible/2-esdras/15#v33)</sup> And from the land of the Assyrians shall the enemy besiege them, and consume some of them, and in their host shall be fear and dread, and strife among their kings.
 >
@@ -1197,7 +1197,7 @@ Reading from a map, on the screen  *[[3:12:02](https://www.youtube.com/watch?v=1
 >
 > <sup>[39](/bible/2-esdras/15#v39)</sup> And strong winds shall arise from the east, and shall open it; and the cloud which he raised up in wrath, and the star stirred to cause fear toward the east and west wind, shall be destroyed.
 >
-> <sup>[40](/bible/2-esdras/15#v40)</sup> The great and mighty clouds shall be puffed up full of wrath, and the star, that they may make all the earth afraid, and them that dwell therein; and they shall pour out over every high and eminent place an horrible star,
+> <sup>[40](/bible/2-esdras/15#v40)</sup> The great and mighty clouds shall be lifted up full of wrath, and the star, that they may make all the earth afraid, and them that dwell therein; and they shall pour out over every high and eminent place an horrible star,
 >
 > <sup>[41](/bible/2-esdras/15#v41)</sup> Fire, and hail, and flying swords, and many waters, that all fields may be full, and all rivers, with the abundance of great waters.
 >

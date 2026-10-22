@@ -98,7 +98,7 @@ All right, type in the slaves sing Yahweh song in Amistad. It's going to show us
 
 **[Sirach 27:13](/bible/sirach/27#v13)**  *[[24:23](https://www.youtube.com/watch?v=yPfk3nm3mHo&t=1463s)]*
 
-> <sup>[13](/bible/sirach/27#v13)</sup> The discourse of fools is irksome, and their sport is the wantonness of sin.
+> <sup>[13](/bible/sirach/27#v13)</sup> The discourse of fools is irksome, and their sport is in the wantonness of sin.
 
 - The discourse of a fool is irksome. When someone irks you, they piss you off. It's irksome, like, why you sound so stupid? Discourse is conversation. The discourse of a fool is irksome.
 

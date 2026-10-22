@@ -190,13 +190,13 @@ Reading from *The Early Christians in Rome*, page 39, continued · read by an of
 
 **[2 Maccabees 6:6-9](/bible/2-maccabees/6#v6)**  *[[30:20](https://www.youtube.com/watch?v=XKayeO48HUk&t=1820s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
 
 - Right. That's going back into us being outlaws. Calling yourself a Christian is going to be a crime. So now they going to set out different mandates. This was an inquisition at this time. This was an inquisition in Greece, to see who's calling themselves Christians, to see who's calling themselves the Israelite. Go ahead, read again.
 
 - Uh-huh. And you want to keep reading? Yep, keep reading.
 
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 >
 > <sup>[8](/bible/2-maccabees/6#v8)</sup> Moreover there went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews, that they should observe the same fashions, and be partakers of their sacrifices:
 

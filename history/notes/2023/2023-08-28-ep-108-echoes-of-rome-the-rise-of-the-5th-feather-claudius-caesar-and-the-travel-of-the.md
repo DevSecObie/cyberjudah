@@ -928,7 +928,7 @@ Reading from Josephus, found on Google Books by searching "Josephus hidden wisdo
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[1:43:43](https://www.youtube.com/watch?v=nBXGWQ8L7CY&t=6223s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - You see that? How they know that? They read our books. If we sin against our God, let us consider that that is their ruin. That is the Israelite ruin. Read.
 

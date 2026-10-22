@@ -438,7 +438,7 @@ Reading from a book on the same history of Esther (title not named on air)  *[[5
 
 - **Deacon Eythan:** Right. Or Tourette. She's Victor and Terres. Same thing.
 
-> <sup>[2](/bible/esther-greek/12#v2)</sup> And he heard their devices, and searched out their purposes, and learned that they were about to lay hands upon Artexerxes the king; and so he certified the king of them.
+> <sup>[2](/bible/esther-greek/12#v2)</sup> And he heard their devices, and searched out their purposes, and learned that they were about to lay hands upon Artaxerxes the king; and so he certified the king of them.
 
 - He went to Esther, and Esther told the king, in the inquisition, and they got judged in the hound on the tree. Remember that? Watch this, watch this.
 
@@ -460,9 +460,9 @@ Reading from a book on the same history of Esther (title not named on air)  *[[5
 
 **[Esther (Greek) 13:1-6](/bible/esther-greek/13#v1)**  *[[1:09:40](https://www.youtube.com/watch?v=KT8iGZ87yrs&t=4180s)]*
 
-> <sup>[1](/bible/esther-greek/13#v1)</sup> The copy of the letters was this: The great king Artexerxes writeth these things to the princes and governours that are under him from India unto Ethiopia in an hundred and seven and twenty provinces.
+> <sup>[1](/bible/esther-greek/13#v1)</sup> The copy of the letters was this: The great king Artaxerxes writeth these things to the princes and governors that are under him from India unto Ethiopia in an hundred and seven and twenty provinces.
 >
-> <sup>[2](/bible/esther-greek/13#v2)</sup> After that I became lord over many nations and had dominion over the whole world, not lifted up with presumption of my authority, but carrying myself always with equity and mildness, I purposed to settle my subjects continually in a quiet life, and making my kingdom peaceable, and open for passage to the utmost coasts, to renew peace, which is desired of all men.
+> <sup>[2](/bible/esther-greek/13#v2)</sup> After that I became lord over many nations and had dominion over the whole world, not lifted up with presumption of my authority, but carrying myself alway with equity and mildness, I purposed to settle my subjects continually in a quiet life, and making my kingdom peaceable, and open for passage to the utmost coasts, to renew peace, which is desired of all men.
 
 - 127 provinces. Go ahead.
 
@@ -470,7 +470,7 @@ Reading from a book on the same history of Esther (title not named on air)  *[[5
 
 - Watch this.
 
-> <sup>[3](/bible/esther-greek/13#v3)</sup> Now when I asked my counsellors how this might be brought to pass, Aman, that excelled in wisdom among us, and was approved for his constant good will and steadfast fidelity, and had the honour of the second place in the kingdom,
+> <sup>[3](/bible/esther-greek/13#v3)</sup> Now when I asked my counsellors how this might be brought to pass, Aman, that excelled in wisdom among us, and was approved for his constant good will and stedfast fidelity, and had the honour of the second place in the kingdom,
 
 - Amen had second place in the kingdom. He was right under the king. Watch this. Verse 4.
 

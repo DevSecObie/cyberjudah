@@ -444,7 +444,7 @@ Reading from the *Zonda Fan Bible Compact Dictionary* (as named on air), page 54
 
 > <sup>[15](/bible/1-esdras/2#v15)</sup> These were brought back by Sanabassar, together with them of the captivity, from Babylon to Jerusalem.
 >
-> <sup>[16](/bible/1-esdras/2#v16)</sup> But in the time of Artexerxes king of the Persians Belemus, and Mithridates, and Tabellius, and Rathumus, and Beeltethmus, and Semellius the secretary, with others that were in commission with them, dwelling in Samaria and other places, wrote unto him against them that dwelt in Judea and Jerusalem these letters following;
+> <sup>[16](/bible/1-esdras/2#v16)</sup> But in the time of Artaxerxes king of the Persians Belemus, and Mithridates, and Tabellius, and Rathumus, and Beeltethmus, and Semellius the secretary, with others that were in commission with them, dwelling in Samaria and other places, wrote unto him against them that dwelt in Judea and Jerusalem these letters following;
 
 - Wow. Good job.
 
@@ -810,7 +810,7 @@ Reading from the entry on Zerubbabel at biblestudytools.com, read off the screen
 
 **[2 Esdras 13:43-46](/bible/2-esdras/13#v43)**  *[[1:42:39](https://www.youtube.com/watch?v=hbMkLdQrKAE&t=6159s)]*
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 
@@ -840,7 +840,7 @@ Reading from the entry on Zerubbabel at biblestudytools.com, read off the screen
 
 **[1 Esdras 2:18-21,30](/bible/1-esdras/2#v18)**  *[[1:44:30](https://www.youtube.com/watch?v=hbMkLdQrKAE&t=6270s)]*
 
-> <sup>[18](/bible/1-esdras/2#v18)</sup> Be it now known to the lord king, that the Jews that are up from you to us, being come into Jerusalem, that rebellious and wicked city, do build the marketplaces, and repair the walls of it and do lay the foundation of the temple.
+> <sup>[18](/bible/1-esdras/2#v18)</sup> Be it now known to the lord the king, that the Jews that are come up from you to us, being come into Jerusalem, that rebellious and wicked city, do build the marketplaces, and repair the walls of it and do lay the foundation of the temple.
 >
 > <sup>[19](/bible/1-esdras/2#v19)</sup> Now if this city and the walls thereof be made up again, they will not only refuse to give tribute, but also rebel against kings.
 
@@ -854,7 +854,7 @@ Reading from the entry on Zerubbabel at biblestudytools.com, read off the screen
 
 - **A brother:** Verse 30.
 
-> <sup>[30](/bible/1-esdras/2#v30)</sup> Then king Artexerxes his letters being read, Rathumus, and Semellius the scribe, and the rest that were in commission with them, removing in haste toward Jerusalem with a troop of horsemen and a multitude of people in battle array, began to hinder the builders; and the building of the temple in Jerusalem ceased until the second year of the reign of Darius king of the Persians.
+> <sup>[30](/bible/1-esdras/2#v30)</sup> Then king Artaxerxes his letters being read, Rathumus, and Semellius the scribe, and the rest that were in commission with them, removing in haste toward Jerusalem with a troop of horsemen and a multitude of people in battle array, began to hinder the builders; and the building of the temple in Jerusalem ceased until the second year of the reign of Darius king of the Persians.
 
 - Written again. Now get chapter 3 verse 3 and down.
 

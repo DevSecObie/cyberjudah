@@ -210,7 +210,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
 > <sup>[30](/bible/2-maccabees/15#v30)</sup> And Judas, who was ever the chief defender of the citizens both in body and mind, and who continued his love toward his countrymen all his life, commanded to strike off Nicanor’s head, and his hand with his shoulder, and bring them to Jerusalem.
 >
-> <sup>[31](/bible/2-maccabees/15#v31)</sup> So when he was there, and called them of his nation together, and set the priests before the altar, he sent for them that were of the tower,
+> <sup>[31](/bible/2-maccabees/15#v31)</sup> So when he was there, and had called them of his nation together, and set the priests before the altar, he sent for them that were of the tower,
 >
 > <sup>[32](/bible/2-maccabees/15#v32)</sup> And shewed them vile Nicanor’s head, and the hand of that blasphemer, which with proud brags he had stretched out against the holy temple of the Almighty.
 >
@@ -669,7 +669,7 @@ Definition read in class: blasphemy is the act of expressing contempt, scorn, or
 
 > <sup>[22](/bible/wisdom-of-solomon/7#v22)</sup> For wisdom, which is the worker of all things, taught me: for in her is an understanding spirit holy, one only, manifold, subtil, lively, clear, undefiled, plain, not subject to hurt, loving the thing that is good quick, which cannot be letted, ready to do good,
 >
-> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, steadfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
+> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, stedfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
 >
 > <sup>[24](/bible/wisdom-of-solomon/7#v24)</sup> For wisdom is more moving than any motion: she passeth and goeth through all things by reason of her pureness.
 

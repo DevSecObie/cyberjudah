@@ -174,7 +174,7 @@ tags: ["Our Hidden History", "nations"]
 
 - No stop, no stop the places. They didn't click, they didn't hide themselves or cover it up, cover the tracks.
 
-> <sup>[37](/bible/1-maccabees/2#v37)</sup> But said, Let us die all in our innocency: heaven and earth will testify for us, that ye put us to death wrongfully.
+> <sup>[37](/bible/1-maccabees/2#v37)</sup> But said, Let us die all in our innocency: heaven and earth shall testify for us, that ye put us to death wrongfully.
 
 - You're going to kill us, we're going to die innocent, because we're not going to fight back. You're going to kill us, we're going to kill us in cold blood now at this point, because they're not fighting you back. Remember, these are men, women and children, are families they're killing.
 
@@ -258,7 +258,7 @@ tags: ["Our Hidden History", "nations"]
 
 **[2 Maccabees 6:11](/bible/2-maccabees/6#v11)**  *[[33:47](https://www.youtube.com/watch?v=fjIPkr8w3cA&t=2027s)]*
 
-> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered by Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
+> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered to Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
 
 - Remember that, earlier, registered, First Maccabees chapter two: they ran, they fled into caves and they were caught. They were told to come out the cave. He was like, no, it's okay, we're gonna come in and kill you. Then they killed a thousand of us.
 
@@ -854,7 +854,7 @@ Reading from a search result on the Balfour Declaration, read off the screen  *[
 
 - That the brute of his manliness was spread everywhere, meaning this man was brutal. He was... Maccabees was a brutal fighter, cutting arms, legs, heads off. He didn't give a sh... damn. The man was a beast. His brute manliness was spread everywhere.
 
-> <sup>[7](/bible/2-maccabees/8#v7)</sup> But specially took he advantage of the night for such privy attempts, insomuch that the fruit of his holiness was spread every where.
+> <sup>[7](/bible/2-maccabees/8#v7)</sup> But specially took he advantage of the night for such privy attempts, insomuch that the bruit of his manliness was spread every where.
 >
 > <sup>[8](/bible/2-maccabees/8#v8)</sup> So when Philip saw that this man increased by little and little, and that things prospered with him still more and more, he wrote unto Ptolemeus, the governor of Celosyria and Phenice, to yield more aid to the king’s affairs.
 
@@ -930,7 +930,7 @@ Reading from a search result on the Balfour Declaration, read off the screen  *[
 
 - These are Jews that tried to run away and escape, and they saw everybody's army coming, and they tried to sell their belongings, make some money, and run. They got caught and became captives.
 
-> <sup>[16](/bible/2-maccabees/8#v16)</sup> So Maccabeus called his men together unto the number of six thousand, and exhorted them not to be stricken with terror of the enemy, nor to fear the great multitude of the heathen, who came wrongly against them; but to fight manfully,
+> <sup>[16](/bible/2-maccabees/8#v16)</sup> So Maccabeus called his men together unto the number of six thousand, and exhorted them not to be stricken with terror of the enemy, nor to fear the great multitude of the heathen, who came wrongfully against them; but to fight manfully,
 
 - Because Nicodemus had 20,000, Judas Maccabees had 6,000. So you're talking about 14,000 difference in manpower. 14,000 more.
 
@@ -940,7 +940,7 @@ Reading from a search result on the Balfour Declaration, read off the screen  *[
 
 - The government is our laws, our leaders.
 
-> <sup>[18](/bible/2-maccabees/8#v18)</sup> For they, said he, trust in their weapons and boldness; but our confidence is in the Almighty who at a beck can cast down both them that come against us, and also all the world.
+> <sup>[18](/bible/2-maccabees/8#v18)</sup> For they, said he, trust in their weapons and boldness; but our confidence is in the Almighty God who at a beck can cast down both them that come against us, and also all the world.
 
 - He said, Jerusalem, these guys trust in their weapons and their boldness.
 
@@ -956,7 +956,7 @@ Reading from a search result on the Balfour Declaration, read off the screen  *[
 
 - Right. Great wealth.
 
-> <sup>[21](/bible/2-maccabees/8#v21)</sup> Thus when he had made them bold with these words, and ready to die for the law and the country, he divided his army into four parts;
+> <sup>[21](/bible/2-maccabees/8#v21)</sup> Thus when he had made them bold with these words, and ready to die for the laws and the country, he divided his army into four parts;
 >
 > <sup>[22](/bible/2-maccabees/8#v22)</sup> And joined with himself his own brethren, leaders of each band, to wit Simon, and Joseph, and Jonathan, giving each one fifteen hundred men.
 
@@ -1032,7 +1032,7 @@ Reading from a search result on the Balfour Declaration, read off the screen  *[
 
 > <sup>[42](/bible/1-maccabees/3#v42)</sup> Now when Judas and his brethren saw that miseries were multiplied, and that the forces did encamp themselves in their borders: for they knew how the king had given commandment to destroy the people, and utterly abolish them;
 >
-> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed fortune of our people, and let us fight for our people and the sanctuary.
+> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed estate of our people, and let us fight for our people and the sanctuary.
 >
 > <sup>[44](/bible/1-maccabees/3#v44)</sup> Then was the congregation gathered together, that they might be ready for battle, and that they might pray, and ask mercy and compassion.
 >

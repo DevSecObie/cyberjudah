@@ -344,7 +344,7 @@ Clip played: the president saying he was not going to start wars, then saying, "
 >
 > <sup>[31](/bible/2-esdras/15#v31)</sup> And then shall the dragons have the upper hand, remembering their nature; and if they shall turn themselves, conspiring together in great power to persecute them,
 >
-> <sup>[32](/bible/2-esdras/15#v32)</sup> Then these shall be troubled bled, and keep silence through their power, and shall flee.
+> <sup>[32](/bible/2-esdras/15#v32)</sup> Then these shall be troubled, and keep silence through their power, and shall flee.
 >
 > <sup>[33](/bible/2-esdras/15#v33)</sup> And from the land of the Assyrians shall the enemy besiege them, and consume some of them, and in their host shall be fear and dread, and strife among their kings.
 

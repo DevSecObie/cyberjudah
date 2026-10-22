@@ -27,7 +27,7 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 >
 > <sup>[30](/bible/sirach/7#v30)</sup> Love him that made thee with all thy strength, and forsake not his ministers.
 >
-> <sup>[31](/bible/sirach/7#v31)</sup> Fear the Lord, and honor the priest; and give him his portion, as it is commanded thee; the firstfruits, and the trespass offering, and the gift of the shoulders, and the sacrifice of sanctification, and the firstfruits of the holy things.
+> <sup>[31](/bible/sirach/7#v31)</sup> Fear the Lord, and honour the priest; and give him his portion, as it is commanded thee; the firstfruits, and the trespass offering, and the gift of the shoulders, and the sacrifice of sanctification, and the firstfruits of the holy things.
 
 - And reverence his priests: because at that time, when the temple was still standing, we gave sacrifices to the priests. So the Lord said, honor those men.
 

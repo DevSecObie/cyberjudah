@@ -109,7 +109,7 @@ Reading from on-screen text on the primary countries and territories of East Asi
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[26:41](https://www.youtube.com/watch?v=6XyhSewrzz0&t=1601s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - Then certain ungodly persons, who hated their own people, went unto the king. The Chinese lady made a point to say black jurors found the man who shot the boy not guilty. There has always been a certain remnant of our people who love other races better than their own. What was true during the time of the Maccabees is true today: you have got Christians who hate their own people.
 - And on the handout talking point: everybody knows the Asian community had a hand out. When the government was giving them loans to open businesses in the black community, the government was denying black people loans; that is documented history. And during World War II, when America put the Japanese in internment camps, they paid them reparations when they let them out. So it is very amusing that they use this talking point on us.
@@ -655,13 +655,13 @@ Reading from *The Ancient Jewish Diaspora in Japan, the Tribe of Hada: Their Rel
 
 > <sup>[46](/bible/2-esdras/15#v46)</sup> And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
 >
-> <sup>[47](/bible/2-esdras/15#v47)</sup> Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have always desired to commit whoredom with thee.
+> <sup>[47](/bible/2-esdras/15#v47)</sup> Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have alway desired to commit whoredom with thee.
 >
 > <sup>[48](/bible/2-esdras/15#v48)</sup> Thou hast followed her that is hated in all her works and inventions: therefore saith God,
 >
 > <sup>[49](/bible/2-esdras/15#v49)</sup> I will send plagues upon thee; widowhood, poverty, famine, sword, and pestilence, to waste thy houses with destruction and death.
 >
-> <sup>[50](/bible/2-esdras/15#v50)</sup> And the glory of thy Power shall be dried up as a flower, the heat shall arise that is sent over thee.
+> <sup>[50](/bible/2-esdras/15#v50)</sup> And the glory of thy Power shall be dried up as a flower, when the heat shall arise that is sent over thee.
 >
 > <sup>[51](/bible/2-esdras/15#v51)</sup> Thou shalt be weakened as a poor woman with stripes, and as one chastised with wounds, so that the mighty and lovers shall not be able to receive thee.
 >

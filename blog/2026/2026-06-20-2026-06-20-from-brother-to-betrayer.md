@@ -55,7 +55,7 @@ Today's topic: From Brother To Betrayer. This is based on what Christ said in Ma
 >
 > <sup>[17](/bible/2-maccabees/15#v17)</sup> Thus being well comforted by the words of Judas, which were very good, and able to stir them up to valour, and to encourage the hearts of the young men, they determined not to pitch camp, but courageously to set upon them, and manfully to try the matter by conflict, because the city and the sanctuary and the temple were in danger.
 >
-> <sup>[18](/bible/2-maccabees/15#v18)</sup> For the care that they took for their wives, and their children, their brethren, and folks, was in least account with them: but the greatest and principal fear was for the holy temple.
+> <sup>[18](/bible/2-maccabees/15#v18)</sup> For the care that they took for their wives, and their children, their brethren, and kinsfolks, was in least account with them: but the greatest and principal fear was for the holy temple.
 
 - We open here to show the character of Onias, a priest during the time of the Maccabees: Onias III. Judas Maccabeus armed every one of them not so much with shields and spears as with comfortable and good words, and told them a dream worthy to be believed.
 - In the vision Onias, who had been high priest, a virtuous and a good man, reverend in conversation, gentle in condition, well spoken, exercised from a child in all points of virtue, held up his hands and prayed for the whole body of the Jews. This is a lover of the brethren, who prayeth much for the people and for the holy city. Then Jeremiah the prophet gave Judas a holy sword, a gift from God, with which thou shalt wound the adversaries.
@@ -79,7 +79,7 @@ Reading from the cover of *Who's Who in the Bible*  *[[16:29](https://www.youtub
 >
 > <sup>[2](/bible/2-maccabees/3#v2)</sup> It came to pass that even the kings themselves did honour the place, and magnify the temple with their best gifts;
 >
-> <sup>[3](/bible/2-maccabees/3#v3)</sup> Insomuch that Seleucus of Asia of his own revenues bare all the costs belonging to the service of the sacrifices.
+> <sup>[3](/bible/2-maccabees/3#v3)</sup> Insomuch that Seleucus king of Asia of his own revenues bare all the costs belonging to the service of the sacrifices.
 >
 > <sup>[4](/bible/2-maccabees/3#v4)</sup> But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city.
 >
@@ -167,7 +167,7 @@ Reading from an on-screen note on what the temple collections were for · read b
 
 **[Tobit 1:3-8](/bible/tobit/1#v3)**  *[[31:48](https://www.youtube.com/watch?v=Qw2v07pohR4&t=1908s)]*
 
-> <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the ways of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
+> <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the way of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
 >
 > <sup>[4](/bible/tobit/1#v4)</sup> And when I was in mine own country, in the land of Israel being but young, all the tribe of Nephthali my father fell from the house of Jerusalem, which was chosen out of all the tribes of Israel, that all the tribes should sacrifice there, where the temple of the habitation of the most High was consecrated and built for all ages.
 >

@@ -249,7 +249,7 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
 
 > <sup>[22](/bible/wisdom-of-solomon/7#v22)</sup> For wisdom, which is the worker of all things, taught me: for in her is an understanding spirit holy, one only, manifold, subtil, lively, clear, undefiled, plain, not subject to hurt, loving the thing that is good quick, which cannot be letted, ready to do good,
 >
-> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, steadfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
+> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, stedfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
 >
 > <sup>[24](/bible/wisdom-of-solomon/7#v24)</sup> For wisdom is more moving than any motion: she passeth and goeth through all things by reason of her pureness.
 >
@@ -437,7 +437,7 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
 >
 > <sup>[3](/bible/sirach/44#v3)</sup> Such as did bear rule in their kingdoms, men renowned for their power, giving counsel by their understanding, and declaring prophecies:
 >
-> <sup>[4](/bible/sirach/44#v4)</sup> Leaders of the people by their counsels, and by their knowledge of learning meet for the people, wise and eloquent are their instructions:
+> <sup>[4](/bible/sirach/44#v4)</sup> Leaders of the people by their counsels, and by their knowledge of learning meet for the people, wise and eloquent in their instructions:
 >
 > <sup>[5](/bible/sirach/44#v5)</sup> Such as found out musical tunes, and recited verses in writing:
 >
@@ -503,7 +503,7 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
 >
 > <sup>[3](/bible/sirach/45#v3)</sup> By his words he caused the wonders to cease, and he made him glorious in the sight of kings, and gave him a commandment for his people, and shewed him part of his glory.
 >
-> <sup>[4](/bible/sirach/45#v4)</sup> He sanctified him in his faithfuless and meekness, and chose him out of all men.
+> <sup>[4](/bible/sirach/45#v4)</sup> He sanctified him in his faithfulness and meekness, and chose him out of all men.
 >
 > <sup>[5](/bible/sirach/45#v5)</sup> He made him to hear his voice, and brought him into the dark cloud, and gave him commandments before his face, even the law of life and knowledge, that he might teach Jacob his covenants, and Israel his judgments.
 >
@@ -560,7 +560,7 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
 
 **[Sirach 46:1-10](/bible/sirach/46#v1)**  *[[1:58:14](https://www.youtube.com/watch?v=1qC2mwBgisM&t=7094s)]*
 
-> <sup>[1](/bible/sirach/46#v1)</sup> Jesus the son a Nave was valiant in the wars, and was the successor of Moses in prophecies, who according to his name was made great for the saving of the elect of God, and taking vengeance of the enemies that rose up against them, that he might set Israel in their inheritance.
+> <sup>[1](/bible/sirach/46#v1)</sup> Jesus the son of Nave was valiant in the wars, and was the successor of Moses in prophecies, who according to his name was made great for the saving of the elect of God, and taking vengeance of the enemies that rose up against them, that he might set Israel in their inheritance.
 >
 > <sup>[2](/bible/sirach/46#v2)</sup> How great glory gat he, when he did lift up his hands, and stretched out his sword against the cities!
 >
@@ -680,13 +680,13 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
 >
 > <sup>[5](/bible/sirach/48#v5)</sup> Who didst raise up a dead man from death, and his soul from the place of the dead, by the word of the most High:
 >
-> <sup>[6](/bible/sirach/48#v6)</sup> Who broughtest kings to destruction, and honorable men from their bed:
+> <sup>[6](/bible/sirach/48#v6)</sup> Who broughtest kings to destruction, and honourable men from their bed:
 >
 > <sup>[7](/bible/sirach/48#v7)</sup> Who heardest the rebuke of the Lord in Sinai, and in Horeb the judgment of vengeance:
 >
-> <sup>[8](/bible/sirach/48#v8)</sup> Who annointedst kings to take revenge, and prophets to succeed after him:
+> <sup>[8](/bible/sirach/48#v8)</sup> Who anointedst kings to take revenge, and prophets to succeed after him:
 >
-> <sup>[9](/bible/sirach/48#v9)</sup> Who was taken up in a whirlwind of fire, and in a chariot of fiery horses:
+> <sup>[9](/bible/sirach/48#v9)</sup> Who wast taken up in a whirlwind of fire, and in a chariot of fiery horses:
 >
 > <sup>[10](/bible/sirach/48#v10)</sup> Who wast ordained for reproofs in their times, to pacify the wrath of the Lord’s judgment, before it brake forth into fury, and to turn the heart of the father unto the son, and to restore the tribes of Jacob.
 >
@@ -749,7 +749,7 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
 >
 > <sup>[14](/bible/sirach/49#v14)</sup> But upon the earth was no man created like Enoch; for he was taken from the earth.
 >
-> <sup>[15](/bible/sirach/49#v15)</sup> Neither was there a young man born like Joseph, a governor of his brethren, a stay of the people, whose bones were regarded of the Lord.
+> <sup>[15](/bible/sirach/49#v15)</sup> Neither was there a man born like unto Joseph, a governor of his brethren, a stay of the people, whose bones were regarded of the Lord.
 
 - The remembrance of Josias is like perfume made by the art of the apothecary. The apothecary's oil was consecrated and unlike anything else. If you are not like anything else, you are special.
 

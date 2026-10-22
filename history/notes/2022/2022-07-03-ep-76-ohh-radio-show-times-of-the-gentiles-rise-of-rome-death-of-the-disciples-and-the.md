@@ -1174,7 +1174,7 @@ Reading from an article on drug use in the Roman world (the title is not named o
 >
 > <sup>[17](/bible/2-esdras/12#v17)</sup> As for the voice which thou heardest speak, and that thou sawest not to go out from the heads but from the midst of the body thereof, this is the interpretation:
 >
-> <sup>[18](/bible/2-esdras/12#v18)</sup> That after the time of that kingdom there shall arise great strivings, and it shall stand in peril of failing: nevertheless it shall not then fall, but shall be restored again to his beginning.
+> <sup>[18](/bible/2-esdras/12#v18)</sup> That after the time of that kingdom there shall arise great strivings, and it shall stand in peril of falling: nevertheless it shall not then fall, but shall be restored again to his beginning.
 
 - It shall stand in the peril of falling.
 
@@ -1222,7 +1222,7 @@ Reading from an article on drug use in the Roman world (the title is not named o
 >
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
 >
-> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
+> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of Sinai where I held him by me a long season,
 
 - Where I held him by me a long season: 40 days, 40 nights.
 

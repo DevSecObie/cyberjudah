@@ -173,7 +173,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 >
 > <sup>[11](/bible/sirach/33#v11)</sup> In much knowledge the Lord hath divided them, and made their ways diverse.
 >
-> <sup>[12](/bible/sirach/33#v12)</sup> Some of them hath he blessed and exalted and some of them he sanctified, and set near himself: but some of them hath he cursed and brought low, and turned out of their places.
+> <sup>[12](/bible/sirach/33#v12)</sup> Some of them hath he blessed and exalted and some of them hath he sanctified, and set near himself: but some of them hath he cursed and brought low, and turned out of their places.
 >
 > <sup>[13](/bible/sirach/33#v13)</sup> As the clay is in the potter’s hand, to fashion it at his pleasure: so man is in the hand of him that made him, to render to them as liketh him best.
 >
@@ -239,7 +239,7 @@ Videos shown before the topic, on South Africa and Nigeria:
 
 **[1 Maccabees 2:37](/bible/1-maccabees/2#v37)**  *[[2:39:09](https://www.youtube.com/watch?v=xa6eyWlShws&t=9549s)]*
 
-> <sup>[37](/bible/1-maccabees/2#v37)</sup> But said, Let us die all in our innocency: heaven and earth will testify for us, that ye put us to death wrongfully.
+> <sup>[37](/bible/1-maccabees/2#v37)</sup> But said, Let us die all in our innocency: heaven and earth shall testify for us, that ye put us to death wrongfully.
 
 - Let us die all in our innocency: heaven and earth shall testify for us, that ye put us to death wrongfully. Our fathers said it under the Greeks, and the record repeats under every power since: heaven and earth testify for the innocent blood.
 

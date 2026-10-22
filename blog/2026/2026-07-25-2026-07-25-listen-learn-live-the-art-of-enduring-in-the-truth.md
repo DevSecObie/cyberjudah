@@ -58,7 +58,7 @@ Many people ask leadership, how do you do it? Thirty years in this truth, what i
 >
 > <sup>[17](/bible/wisdom-of-solomon/7#v17)</sup> For he hath given me certain knowledge of the things that are, namely, to know how the world was made, and the operation of the elements:
 >
-> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, steadfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
+> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, stedfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
 >
 > <sup>[24](/bible/wisdom-of-solomon/7#v24)</sup> For wisdom is more moving than any motion: she passeth and goeth through all things by reason of her pureness.
 >

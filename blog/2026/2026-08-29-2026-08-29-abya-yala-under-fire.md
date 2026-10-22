@@ -152,7 +152,7 @@ Renée Kaplan.
 >
 > <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
 >
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >
@@ -364,7 +364,7 @@ Reading from the article *Abya Yala under fire: the return of US military interv
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[48:36](https://www.youtube.com/watch?v=FSUFtJ08joo&t=2916s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - Then certain ungodly persons who hated their own people. Certain ungodly persons, like this president. This man hates his own people. He would rather have power. He would rather have wealth. He would rather be on the side of evil. He would rather see his people destroyed for his own personal gain.
 
@@ -788,7 +788,7 @@ Reading from a headline on Renée Kaplan  *[[2:31:15](https://www.youtube.com/wa
 >
 > <sup>[5](/bible/2-esdras/9#v5)</sup> For like as all that is made in the world hath a beginning and an end, and the end is manifest:
 >
-> <sup>[6](/bible/2-esdras/9#v6)</sup> Even so the times also of the Highest have plain beginnings in wonder and powerful works, and endings in effects and signs.
+> <sup>[6](/bible/2-esdras/9#v6)</sup> Even so the times also of the Highest have plain beginnings in wonders and powerful works, and endings in effects and signs.
 >
 > <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
 

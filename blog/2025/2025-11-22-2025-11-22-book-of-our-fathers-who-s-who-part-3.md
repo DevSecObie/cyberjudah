@@ -149,11 +149,11 @@ Reading from a book, *New World Jewry 1493 to 1825*, the highlighted part shown 
 
 > <sup>[17](/bible/judith/5#v17)</sup> And whilst they sinned not before their God, they prospered, because the God that hateth iniquity was with them.
 >
-> <sup>[18](/bible/judith/5#v18)</sup> But when they departed from the way which he appointed them, they were destroyed in many battles very sore, and were led captives into a land that was not their’s, and the temple of their God was cast to the ground, and their cities were taken by the enemies.
+> <sup>[18](/bible/judith/5#v18)</sup> But when they departed from the way which he appointed them, they were destroyed in many battles very sore, and were led captives into a land that was not theirs, and the temple of their God was cast to the ground, and their cities were taken by the enemies.
 >
 > <sup>[19](/bible/judith/5#v19)</sup> But now are they returned to their God, and are come up from the places where they were scattered, and have possessed Jerusalem, where their sanctuary is, and are seated in the hill country; for it was desolate.
 >
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - Whilst they sinned not before their God, they prospered, because the God that hateth iniquity was with them; when they departed from the way he appointed, they were destroyed in many battles and led captive into a land that was not theirs.
 
@@ -166,7 +166,7 @@ Reading from a book, *New World Jewry 1493 to 1825*, the highlighted part shown 
 
 **[Sirach 46:1-6](/bible/sirach/46#v1)**  *[[49:36](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2976s)]*
 
-> <sup>[1](/bible/sirach/46#v1)</sup> Jesus the son a Nave was valiant in the wars, and was the successor of Moses in prophecies, who according to his name was made great for the saving of the elect of God, and taking vengeance of the enemies that rose up against them, that he might set Israel in their inheritance.
+> <sup>[1](/bible/sirach/46#v1)</sup> Jesus the son of Nave was valiant in the wars, and was the successor of Moses in prophecies, who according to his name was made great for the saving of the elect of God, and taking vengeance of the enemies that rose up against them, that he might set Israel in their inheritance.
 >
 > <sup>[2](/bible/sirach/46#v2)</sup> How great glory gat he, when he did lift up his hands, and stretched out his sword against the cities!
 >

@@ -729,7 +729,7 @@ Reading from the Wikipedia article on Arius, continued · read by an officer  *[
 
 - The humble.
 
-> <sup>[21](/bible/sirach/3#v21)</sup> Seek not out things that are too hard for thee, neither search the things that are above thy strength.
+> <sup>[21](/bible/sirach/3#v21)</sup> Seek not out the things that are too hard for thee, neither search the things that are above thy strength.
 
 - So don't try to be too deep. That whole essence, homoousian thing, is deep dummy doctrine. You deep and you're dumb.
 

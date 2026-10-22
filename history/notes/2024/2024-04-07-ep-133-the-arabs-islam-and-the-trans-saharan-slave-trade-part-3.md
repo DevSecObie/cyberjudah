@@ -64,7 +64,7 @@ Reading from Wikipedia, Herod the Great · read by an officer  *[[14:00](https:/
 
 **[1 Maccabees 10:36-40](/bible/1-maccabees/10#v36)**  *[[16:33](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=993s)]*
 
-> <sup>[36](/bible/1-maccabees/10#v36)</sup> I will further, that there be enrolled among the king’s forces about thirty thousand men of the Jews, unto whom pay shall be given, as belongeth to all king’s forces.
+> <sup>[36](/bible/1-maccabees/10#v36)</sup> I will further, that there be enrolled among the king’s forces about thirty thousand men of the Jews, unto whom pay shall be given, as belongeth to all the king’s forces.
 
 - So this is when Simon took over.
 
@@ -826,7 +826,7 @@ Reading from Bible Hub, the parallel commentaries on 2 Chronicles 21:16 · read 
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[1:49:47](https://www.youtube.com/watch?v=KgxnpzSMDf8&t=6587s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 >
 > <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
 

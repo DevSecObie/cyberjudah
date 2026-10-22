@@ -566,7 +566,7 @@ Reading from Wikipedia, *Intertestamental period*, continued  *[[1:03:05](https:
 
 - Right. So he was kept so righteous that even the heathens came to offer their best, their best gifts.
 
-> <sup>[3](/bible/2-maccabees/3#v3)</sup> Insomuch that Seleucus of Asia of his own revenues bare all the costs belonging to the service of the sacrifices.
+> <sup>[3](/bible/2-maccabees/3#v3)</sup> Insomuch that Seleucus king of Asia of his own revenues bare all the costs belonging to the service of the sacrifices.
 
 - Ah. Insomuch that Seleucus, Seleucus, Seleucus. Remember I told you before, the four notable ones: you had Ptolemy, Cassandra, lysimicus and Seleucus. This is, this is, this guy comes from the line of Seleucus, or the Seleucid line. Seleucid, Seleucus line, selected line.
 

@@ -30,7 +30,7 @@ tags: ["Our Hidden History", "nations"]
 
 **[2 Maccabees 4:39-50](/bible/2-maccabees/4#v39)**  *[[9:13](https://www.youtube.com/watch?v=zj-bJpKZCOI&t=553s)]*
 
-> <sup>[39](/bible/2-maccabees/4#v39)</sup> Now when many sacrileges had been committed in the city by Lysimachus with the consent of Menelaus, and the fruit thereof was spread abroad, the multitude gathered themselves together against Lysimachus, many vessels of gold being already carried away.
+> <sup>[39](/bible/2-maccabees/4#v39)</sup> Now when many sacrileges had been committed in the city by Lysimachus with the consent of Menelaus, and the bruit thereof was spread abroad, the multitude gathered themselves together against Lysimachus, many vessels of gold being already carried away.
 
 - Right. So Lysimachus, I believe, is Menelaus's brother. All right, this is the guy, he said, in his place when he was gone. I'm glad we read this over this last week.
 
@@ -288,7 +288,7 @@ tags: ["Our Hidden History", "nations"]
 
 > <sup>[5](/bible/2-maccabees/6#v5)</sup> The altar also was filled with profane things, which the law forbiddeth.
 >
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
 
 - So Antiochus passed that law, that it was not lawful for a man to keep Sabbath days or ancient feasts, or to perfect, or to profess himself at all to be a Jew. And this, brothers and sisters, is how Israelites became Greeks, or Grecians, or Gentiles. This, brothers and sisters, is what is known historically as the inter-testamental period. So when you read the New Testament, and you read about the Greeks that Paul was dealing with, and you read about the Gentiles that Paul was talking about, or the heathen, or the uncircumcision that Paul was talking about, he was talking about Israelites that were raised under these conditions, and eventually through generations maintained those forced conditions. That's what happened. You were forced to become your first, but you were forced to no longer profess to be Jews. And over generations of time we became Jasons, we became Menelauses by nature. We believed ourselves to be Greeks entirely by the time of Paul. Not all of us, but most of us. Employed to go and teach them that, no, you must return back to the laws of your fathers, in the faith of Christ, when he was converted himself in that faith. But that's who the Gentiles, or Greeks, or Grecians were in the New Testament. You have to read the book of Maccabees. You have to know it. It bridges the gap between the old and new. That's why it's referred to as the inter-testamental period, meaning it's in between the testaments, old and new. It puts it in context, that, oh, no, no, oh, it puts it in context. Verse seven. We got something to say? You wanna say?
 
@@ -296,7 +296,7 @@ tags: ["Our Hidden History", "nations"]
 
 - **Deacon Eythan:** Oh. Verse seven.
 
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 
 - So the Greeks, they celebrated their birthday every month. So if his birthday was the 8th, the 8th of every month it was his birthday, and they made us celebrate along with him by offering up sacrifices, because we did not celebrate birthdays. That was a pagan practice. We didn't celebrate that. Do you understand how stupid a birthday is? I'm gonna say how stupid a birthday is. Let me give you an example on the topic. When you examine a birthday, right, you're celebrating what? That you were born. Right. That's your basically suffering. You're celebrating you, which makes you your own god in a way. But let's just move that over for a moment. You know how many people you have walking in this world that are worth nothing? They're just here. They should have ended up in a sock somewhere, on somebody's back.
 
@@ -330,7 +330,7 @@ tags: ["Our Hidden History", "nations"]
 
 **[2 Maccabees 6:7-9](/bible/2-maccabees/6#v7)**  *[[41:32](https://www.youtube.com/watch?v=zj-bJpKZCOI&t=2492s)]*
 
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 
 - **A captain:** Yeah.
 
@@ -516,7 +516,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 - **Deacon Eythan:** Yeah. Verse 11.
 
-> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered by Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
+> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered to Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
 
 - That's Philip, going back to Zippy, and the guy, from the guy, the guy back in verse 20, back in chapter five verse 22. Philip. Good.
 
@@ -582,7 +582,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 - Yep. He never forsake his people. Despite what he does to us, he's never going to forsake us.
 
-> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
+> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in few words.
 >
 > <sup>[18](/bible/2-maccabees/6#v18)</sup> Eleazar, one of the principal scribes, an aged man, and of a well favoured countenance, was constrained to open his mouth, and to eat swine’s flesh.
 
@@ -666,7 +666,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 - See, that's what you're saying. Listen, if you do this, if you pretend you ate it, you get to live, and you'll find favor with us, who are your friends. We are friends. We know you.
 
-> <sup>[23](/bible/2-maccabees/6#v23)</sup> But he began to consider discreetly, and as became his age, and the excellency of his ancient years, and the honour of his gray head, whereon was come, and his most honest education from a child, or rather the holy law made and given by God: therefore he answered accordingly, and willed them straightways to send him to the grave.
+> <sup>[23](/bible/2-maccabees/6#v23)</sup> But he began to consider discreetly, and as became his age, and the excellency of his ancient years, and the honour of his gray head, whereunto he was come, and his most honest education from a child, or rather the holy law made and given by God: therefore he answered accordingly, and willed them straightways to send him to the grave.
 
 - He's an old man.
 
@@ -1076,7 +1076,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 >
 > <sup>[37](/bible/2-maccabees/7#v37)</sup> But I, as my brethren, offer up my body and life for the laws of our fathers, beseeching God that he would speedily be merciful unto our nation; and that thou by torments and plagues mayest confess, that he alone is God;
 >
-> <sup>[38](/bible/2-maccabees/7#v38)</sup> And that in me and my brethren the wrath of the Almighty, which is justly brought upon our nation, may cease.
+> <sup>[38](/bible/2-maccabees/7#v38)</sup> And that in me and my brethren the wrath of the Almighty, which is justly brought upon all our nation, may cease.
 
 - Wow. Which is justly brought upon all our nation may cease. God.
 
@@ -1170,13 +1170,13 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 - **Deacon Eythan:** Keep going.
 
-> <sup>[22](/bible/1-maccabees/1#v22)</sup> And the table of the shewbread, and the pouring vessels, and the vials. and the censers of gold, and the veil, and the crown, and the golden ornaments that were before the temple, all which he pulled off.
+> <sup>[22](/bible/1-maccabees/1#v22)</sup> And the table of the shewbread, and the pouring vessels, and the vials. and the censers of gold, and the veil, and the crowns, and the golden ornaments that were before the temple, all which he pulled off.
 >
 > <sup>[23](/bible/1-maccabees/1#v23)</sup> He took also the silver and the gold, and the precious vessels: also he took the hidden treasures which he found.
 >
 > <sup>[24](/bible/1-maccabees/1#v24)</sup> And when he had taken all away, he went into his own land, having made a great massacre, and spoken very proudly.
 >
-> <sup>[25](/bible/1-maccabees/1#v25)</sup> Therefore there was a great mourning in Israel, in every place where they were;
+> <sup>[25](/bible/1-maccabees/1#v25)</sup> Therefore there was great mourning in Israel, in every place where they were;
 
 - So that, the great massacre was the Second Macabre East 5, would he massacred on people, thousands of us. He, that's just referring to. And back the Second Maccabees.
 

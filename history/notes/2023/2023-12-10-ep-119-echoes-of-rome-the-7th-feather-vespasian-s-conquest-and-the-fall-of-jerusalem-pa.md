@@ -94,7 +94,7 @@ Reading from Wikipedia, on Tiberius Julius Alexander · read by Officer Ari  *[[
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[20:53](https://www.youtube.com/watch?v=UOCSvYBlaN8&t=1253s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - So you had certain ungodly persons who hated their own people. They don't give a damn about their people. Likewise today, you got pastors and so forth. You got those that's in power. I mean like, you know, political figures, and political figures don't care about their people. Don't give a damn. Okay, it's all about their own gain. It's all about their own benefits. Read.
 
@@ -496,7 +496,7 @@ Wait, wait, wait. Where you at? Second Maccabees chapter 9 and verse 1. All righ
 
 - Read on. Watch this.
 
-> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
+> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: for as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
 
 - Damn. Read. For as soon as he had spoken these words. Once again: for as soon as he spoken these words. Read.
 

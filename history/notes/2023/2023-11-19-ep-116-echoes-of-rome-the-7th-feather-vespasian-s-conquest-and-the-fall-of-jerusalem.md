@@ -1124,7 +1124,7 @@ Reading from *History of the Jews* by Solomon Grayzel, page 163 onward: Defeat o
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[2:11:21](https://www.youtube.com/watch?v=jW84l36Cnmc&t=7881s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - So these are betrayers. These are traitors, man. That's what Josephus was at this time: a traitor. Okay. And likewise, the same thing going to happen again today. It's going to happen. Those of our people that stay in this truth. All right. Like Christ said, because of offense you're going to betray your brother. Because of offense. All right. Same thing Josephus did. Go back to the page.
 

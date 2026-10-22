@@ -420,7 +420,7 @@ tags: ["Our Hidden History", "nations"]
 
 - The verse of Darius the Mede.
 
-> <sup>[3](/bible/bel-and-the-dragon/1#v3)</sup> Now the Babylons had an idol, called Bel, and there were spent upon him every day twelve great measures of fine flour, and forty sheep, and six vessels of wine.
+> <sup>[3](/bible/bel-and-the-dragon/1#v3)</sup> Now the Babylonians had an idol, called Bel, and there were spent upon him every day twelve great measures of fine flour, and forty sheep, and six vessels of wine.
 >
 > <sup>[4](/bible/bel-and-the-dragon/1#v4)</sup> And the king worshipped it and went daily to adore it: but Daniel worshipped his own God. And the king said unto him, Why dost not thou worship Bel?
 

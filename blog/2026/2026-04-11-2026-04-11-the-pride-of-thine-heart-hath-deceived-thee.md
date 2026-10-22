@@ -262,7 +262,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 >
 > <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
 >
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 >
 > <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 
@@ -499,7 +499,7 @@ The back of the dollar bill is all ancient Babylonian symbolism: the pyramid, th
 >
 > <sup>[4](/bible/2-maccabees/9#v4)</sup> Then swelling with anger. he thought to avenge upon the Jews the disgrace done unto him by those that made him flee. Therefore commanded he his chariotman to drive without ceasing, and to dispatch the journey, the judgment of God now following him. For he had spoken proudly in this sort, That he would come to Jerusalem and make it a common burying place of the Jews.
 >
-> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
+> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: for as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
 >
 > <sup>[6](/bible/2-maccabees/9#v6)</sup> And that most justly: for he had tormented other men’s bowels with many and strange torments.
 >

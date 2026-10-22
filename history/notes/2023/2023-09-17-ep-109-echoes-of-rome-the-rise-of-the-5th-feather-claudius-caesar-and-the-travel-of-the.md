@@ -938,7 +938,7 @@ Reading from *History of the Jews* by Heinrich Graetz, pages 190 and 191, on Cla
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[2:03:49](https://www.youtube.com/watch?v=Dg3SVw23XEI&t=7429s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - That did what? Who hated their own people. Wait.
 

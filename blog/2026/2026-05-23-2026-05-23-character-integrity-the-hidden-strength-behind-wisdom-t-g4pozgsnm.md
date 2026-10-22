@@ -153,7 +153,7 @@ Interactive question 2, put on the screen *[[41:57](https://www.youtube.com/watc
 
 > <sup>[18](/bible/sirach/1#v18)</sup> The fear of the Lord is a crown of wisdom, making peace and perfect health to flourish; both which are the gifts of God: and it enlargeth their rejoicing that love him.
 >
-> <sup>[19](/bible/sirach/1#v19)</sup> Wisdom raineth down skill and knowledge of understanding standing, and exalteth them to honour that hold her fast.
+> <sup>[19](/bible/sirach/1#v19)</sup> Wisdom raineth down skill and knowledge of understanding, and exalteth them to honour that hold her fast.
 >
 > <sup>[20](/bible/sirach/1#v20)</sup> The root of wisdom is to fear the Lord, and the branches thereof are long life.
 >

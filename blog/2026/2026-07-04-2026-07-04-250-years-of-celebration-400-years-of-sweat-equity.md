@@ -255,11 +255,11 @@ Reading from a book of Flavius Josephus, on Demetrius Phalereus and the king's l
 >
 > <sup>[17](/bible/judith/5#v17)</sup> And whilst they sinned not before their God, they prospered, because the God that hateth iniquity was with them.
 >
-> <sup>[18](/bible/judith/5#v18)</sup> But when they departed from the way which he appointed them, they were destroyed in many battles very sore, and were led captives into a land that was not their’s, and the temple of their God was cast to the ground, and their cities were taken by the enemies.
+> <sup>[18](/bible/judith/5#v18)</sup> But when they departed from the way which he appointed them, they were destroyed in many battles very sore, and were led captives into a land that was not theirs, and the temple of their God was cast to the ground, and their cities were taken by the enemies.
 >
 > <sup>[19](/bible/judith/5#v19)</sup> But now are they returned to their God, and are come up from the places where they were scattered, and have possessed Jerusalem, where their sanctuary is, and are seated in the hill country; for it was desolate.
 >
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 >
 > <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
 
@@ -277,7 +277,7 @@ Reading from a book of Flavius Josephus, on Demetrius Phalereus and the king's l
 >
 > <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
 >
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >

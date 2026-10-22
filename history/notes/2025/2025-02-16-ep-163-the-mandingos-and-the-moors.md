@@ -196,7 +196,7 @@ Reading from the Wikipedia page on Sundiata Keita, read on screen  *[[12:43](htt
 
 - They wrote 204 books. So when the Greeks burned some of them, we didn't get all of them back. But the ones that the Lord allowed to, even though they destroyed some of them, we retained enough. Okay. We basically retained, the Most High allowed us to retain, an abridgment. Okay.
 
-> <sup>[45](/bible/2-esdras/14#v45)</sup> And it came to pass, when the forty days were filled, that the Highest spake, saying, The first that thou hast written publish openly, that the worthy and unworthy may read it:
+> <sup>[45](/bible/2-esdras/14#v45)</sup> And it came to pass, when the forty days were fulfilled, that the Highest spake, saying, The first that thou hast written publish openly, that the worthy and unworthy may read it:
 
 - The first you have written, you share before all, publish openly. The worthy and unworthy may read it.
 
@@ -448,7 +448,7 @@ Reading from an article on Farrakhan and Gaddafi, sent in the chat  *[[39:55](ht
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[52:50](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=3170s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - There you go. Same culprits again.
 
@@ -1012,7 +1012,7 @@ Reading from *From Babylon to Timbuktu* by Rudolph Windsor, pages 122 to 124, on
 
 **[2 Maccabees 6:6](/bible/2-maccabees/6#v6)**  *[[1:47:50](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=6470s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
 
 - Or to profess himself at all to be a Jew. So at this point you can't say Jew anymore. We became what? Greeks, or Grecians. All right. Or the uncircumcision. Now let's fast forward to Portugal now. Dark Ages. Same people, different name, doing the exact same thing to the same people. Now read this here.
 
@@ -1184,7 +1184,7 @@ Reading from *History of the Moorish Empire*, volume three, pages 116 and 117, r
 
 **[Esther (Greek) 13:3-5](/bible/esther-greek/13#v3)**  *[[2:02:04](https://www.youtube.com/watch?v=8vv8lyh-KvA&t=7324s)]*
 
-> <sup>[3](/bible/esther-greek/13#v3)</sup> Now when I asked my counsellors how this might be brought to pass, Aman, that excelled in wisdom among us, and was approved for his constant good will and steadfast fidelity, and had the honour of the second place in the kingdom,
+> <sup>[3](/bible/esther-greek/13#v3)</sup> Now when I asked my counsellors how this might be brought to pass, Aman, that excelled in wisdom among us, and was approved for his constant good will and stedfast fidelity, and had the honour of the second place in the kingdom,
 
 - Aman. Amen, amen. That's all I want. So Aman brought this slander. Now jump to verse four.
 

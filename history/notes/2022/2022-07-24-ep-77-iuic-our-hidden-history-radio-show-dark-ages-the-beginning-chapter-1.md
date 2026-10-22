@@ -528,7 +528,7 @@ Reading from the dictionary definition of replenish, read off the phone  *[[1:00
 
 **[2 Esdras 14:21](/bible/2-esdras/14#v21)**  *[[1:12:59](https://www.youtube.com/watch?v=cP_WoHCsuu4&t=4379s)]*
 
-> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the work that shall begin.
+> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the works that shall begin.
 
 - **Co-host:** So you said, if somebody was to get the translation now. Who has those books, brother? Our enemies burnt those books up. Those that are not burnt up is locked away in the Vatican. So who's going to go and actually translate, give you a new translation? But rather, in this book right here, God spoke of the prophecy and what would happen to our books. So the same version we got right now, my brother, is enough to bring you back to the Most High, to keep his laws, and not be confused about what you read.
 

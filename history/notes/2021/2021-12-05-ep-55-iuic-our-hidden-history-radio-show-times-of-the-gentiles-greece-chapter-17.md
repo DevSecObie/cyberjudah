@@ -494,7 +494,7 @@ And remember, he was talking about the other day too, the picture that you just 
 
 - And far distant, because he was the one behind those two men that Mordecai told on, that we're going to assassinate the king. He, he figured it out. Read on.
 
-> <sup>[11](/bible/esther-greek/16#v11)</sup> Had so far forth obtained the favour that we shew toward every nation, as that he was called our father, and was continually honoured of all the next person unto the king.
+> <sup>[11](/bible/esther-greek/16#v11)</sup> Had so far forth obtained the favour that we shew toward every nation, as that he was called our father, and was continually honoured of all men as the next person unto the king.
 
 - That's next to the king.
 

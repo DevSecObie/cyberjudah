@@ -1052,7 +1052,7 @@ Reading from Wikipedia, on Marduk-alpa-iddina II, the section In the Bible · re
 >
 > <sup>[39](/bible/1-esdras/1#v39)</sup> Five and twenty years old was Joacim when he was made king in the land of Judea and Jerusalem; and he did evil before the Lord.
 >
-> <sup>[40](/bible/1-esdras/1#v40)</sup> Wherefore against him Nabuchodonosor the king of Babylon came up, and bound him with a chain of brass, and carried him into Babylon.
+> <sup>[40](/bible/1-esdras/1#v40)</sup> Wherefore against him Nabuchodonosor the king of Babylon came up, and bound him with a chain of brass, and carried him unto Babylon.
 
 - Second. Took him to the captain, to the Babylon, where he got a, gotta ask his death. He got thrown out in the damn street. All right. So now let's get Daniel 1 and 6. Bring it out. Thank you, Caleb. I appreciate you, sir. Nick, thank you. Thank you. Daniel one, verse one. Just joking. Daniel 1:01. So Jack Kim got taken captive, brought to Babylon, died there. Law wasn't done yet.
 

@@ -639,7 +639,7 @@ The five dollar Indian.
 
 **[Sirach 11:17-19](/bible/sirach/11#v17)**  *[[2:15:25](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=8125s)]*
 
-> <sup>[17](/bible/sirach/11#v17)</sup> The gift of the Lord remaineth with the ungodly, and his favour bringeth prosperity for ever.
+> <sup>[17](/bible/sirach/11#v17)</sup> The gift of the Lord remaineth with the godly, and his favour bringeth prosperity for ever.
 >
 > <sup>[18](/bible/sirach/11#v18)</sup> There is that waxeth rich by his wariness and pinching, and this is the portion of his reward:
 >

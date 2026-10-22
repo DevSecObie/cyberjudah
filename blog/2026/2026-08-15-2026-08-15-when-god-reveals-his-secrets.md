@@ -403,7 +403,7 @@ Now, most of your churches, they do not know the secrets. Or else you would not 
 >
 > <sup>[20](/bible/sirach/3#v20)</sup> For the power of the Lord is great, and he is honoured of the lowly.
 >
-> <sup>[21](/bible/sirach/3#v21)</sup> Seek not out things that are too hard for thee, neither search the things that are above thy strength.
+> <sup>[21](/bible/sirach/3#v21)</sup> Seek not out the things that are too hard for thee, neither search the things that are above thy strength.
 >
 > <sup>[22](/bible/sirach/3#v22)</sup> But what is commanded thee, think thereupon with reverence, for it is not needful for thee to see with thine eyes the things that are in secret.
 >

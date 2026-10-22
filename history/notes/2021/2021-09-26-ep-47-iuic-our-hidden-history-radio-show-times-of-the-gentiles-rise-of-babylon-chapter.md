@@ -258,7 +258,7 @@ Reading from the heading of the History of Susanna in the Apocrypha · read by a
 
 - This sister, she said no, I'm not doing that.
 
-> <sup>[58](/bible/susanna/1#v58)</sup> Now therefore tell me, Under what tree didst thou take them companying together? Who answered, Under an holm tree.
+> <sup>[58](/bible/susanna/1#v58)</sup> Now therefore tell me, Under what tree didst thou take them companying together? Who answered, Under a holm tree.
 
 - That's right.
 
@@ -870,7 +870,7 @@ Reading from the heading of the Song of the Three Holy Children in the Apocrypha
 >
 > <sup>[11](/bible/song-of-the-three-children/1#v11)</sup> Yet deliver us not up wholly, for thy name’s sake, neither disannul thou thy covenant:
 >
-> <sup>[12](/bible/song-of-the-three-children/1#v12)</sup> And cause not thy mercy to depart from us, for thy beloved Abraham’s sake, for thy servant Issac’s sake, and for thy holy Israel’s sake;
+> <sup>[12](/bible/song-of-the-three-children/1#v12)</sup> And cause not thy mercy to depart from us, for thy beloved Abraham’s sake, for thy servant Isaac’s sake, and for thy holy Israel’s sake;
 >
 > <sup>[13](/bible/song-of-the-three-children/1#v13)</sup> To whom thou hast spoken and promised, that thou wouldest multiply their seed as the stars of heaven, and as the sand that lieth upon the seashore.
 >
@@ -898,7 +898,7 @@ Reading from the heading of the Song of the Three Holy Children in the Apocrypha
 >
 > <sup>[21](/bible/song-of-the-three-children/1#v21)</sup> And let them be confounded in all their power and might, and let their strength be broken;
 >
-> <sup>[22](/bible/song-of-the-three-children/1#v22)</sup> And let them know that thou art God, the only God, and glorious over the whole world.
+> <sup>[22](/bible/song-of-the-three-children/1#v22)</sup> And let them know that thou art Lord, the only God, and glorious over the whole world.
 >
 > <sup>[23](/bible/song-of-the-three-children/1#v23)</sup> And the king’s servants, that put them in, ceased not to make the oven hot with rosin, pitch, tow, and small wood;
 
@@ -1002,7 +1002,7 @@ Reading from the heading of the Song of the Three Holy Children in the Apocrypha
 >
 > <sup>[46](/bible/song-of-the-three-children/1#v46)</sup> O ye dews and storms of snow, bless ye the Lord: praise and exalt him above all for ever.
 >
-> <sup>[47](/bible/song-of-the-three-children/1#v47)</sup> O ye nights and days, bless ye the Lord: bless and exalt him above all for ever.
+> <sup>[47](/bible/song-of-the-three-children/1#v47)</sup> O ye nights and days, bless ye the Lord: praise and exalt him above all for ever.
 
 - Jump down to verse 66. And that shows you that's not Mother Nature, right? That's...
 

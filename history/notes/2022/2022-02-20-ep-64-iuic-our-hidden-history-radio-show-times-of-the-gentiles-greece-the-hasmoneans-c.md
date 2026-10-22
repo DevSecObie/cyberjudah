@@ -96,7 +96,7 @@ tags: ["Our Hidden History", "betrayal", "nations"]
 
 - Killed them all. Okay. Kill those, kills on me.
 
-> <sup>[47](/bible/1-maccabees/7#v47)</sup> Afterwards they took the spoils, and the prey, and smote off Nicanors head, and his right hand, which he stretched out so proudly, and brought them away, and hanged them up toward Jerusalem.
+> <sup>[47](/bible/1-maccabees/7#v47)</sup> Afterwards they took the spoils, and the prey, and smote off Nicanor's head, and his right hand, which he stretched out so proudly, and brought them away, and hanged them up toward Jerusalem.
 
 - We petty. Israel, be petty, man. You bring your mouth, you're gonna do some bad things to your body, man. You're gonna just disrespect your body, man. Cut your head off, cut your right hand. Don't cut your head off, cut your right hand over one of your mouth.
 
@@ -288,9 +288,9 @@ Reading from a page the co-host brought on Antiochus the Great and Hannibal (the
 
 - Come on. Boom. So our covenant was established between the Jews and the Romans at this point. This is the beginning of the covenant establishment, established between the Jews and the Romans, which would eventually be broken once you had Titus and Vespasian in palm Geneva, Pompeii, set foot in the scene. Let's read on.
 
-> <sup>[30](/bible/1-maccabees/8#v30)</sup> Howbeit if hereafter the one party or the other shall think to meet to add or diminish any thing, they may do it at their pleasures, and whatsoever they shall add or take away shall be ratified.
+> <sup>[30](/bible/1-maccabees/8#v30)</sup> Howbeit if hereafter the one party or the other shall think meet to add or diminish any thing, they may do it at their pleasures, and whatsoever they shall add or take away shall be ratified.
 >
-> <sup>[31](/bible/1-maccabees/8#v31)</sup> And as touching the evils that Demetrius doeth to the Jews, we have written unto him, saying, Wherefore thou made thy yoke heavy upon our friends and confederates the Jews?
+> <sup>[31](/bible/1-maccabees/8#v31)</sup> And as touching the evils that Demetrius doeth to the Jews, we have written unto him, saying, Wherefore hast thou made thy yoke heavy upon our friends and confederates the Jews?
 
 - Demetrius is King Demetrius of the Greeks. King Demetrius.
 
@@ -576,7 +576,7 @@ Reading from a page the co-host brought on Antiochus the Great and Hannibal (the
 >
 > <sup>[5](/bible/1-maccabees/9#v5)</sup> Now Judas had pitched his tents at Eleasa, and three thousand chosen men with him:
 >
-> <sup>[6](/bible/1-maccabees/9#v6)</sup> Who seeing the multitude of the other army to be so great were sore afraid; whereupon many conveyed themselves out of the host, insomuch as abode of them no more but eight hundred men.
+> <sup>[6](/bible/1-maccabees/9#v6)</sup> Who seeing the multitude of the other army to be so great were sore afraid; whereupon many conveyed themselves out of the host, insomuch as there abode of them no more but eight hundred men.
 
 - Damn.
 
@@ -906,17 +906,17 @@ Reading from the Bible book used on the show for Nehemiah, its introduction to N
 >
 > <sup>[47](/bible/1-maccabees/9#v47)</sup> With that they joined battle, and Jonathan stretched forth his hand to smite Bacchides, but he turned back from him.
 >
-> <sup>[48](/bible/1-maccabees/9#v48)</sup> Then Jonathan and they that were with him leapt into Jordan, and swam over unto the other bank: howbeit the other passed not over Jordan unto them.
+> <sup>[48](/bible/1-maccabees/9#v48)</sup> Then Jonathan and they that were with him leapt into Jordan, and swam over unto the farther bank: howbeit the other passed not over Jordan unto them.
 
 - Damn. You started swimming.
 
 > <sup>[49](/bible/1-maccabees/9#v49)</sup> So there were slain of Bacchides’ side that day about a thousand men.
 >
-> <sup>[50](/bible/1-maccabees/9#v50)</sup> Afterward returned Bacchides to Jerusalem and repaired the strong cites in Judea; the fort in Jericho, and Emmaus, and Bethhoron, and Bethel, and Thamnatha, Pharathoni, and Taphon, these did he strengthen with high walls, with gates and with bars.
+> <sup>[50](/bible/1-maccabees/9#v50)</sup> Afterward returned Bacchides to Jerusalem and repaired the strong cities in Judea; the fort in Jericho, and Emmaus, and Bethhoron, and Bethel, and Thamnatha, Pharathoni, and Taphon, these did he strengthen with high walls, with gates and with bars.
 >
 > <sup>[51](/bible/1-maccabees/9#v51)</sup> And in them he set a garrison, that they might work malice upon Israel.
 >
-> <sup>[52](/bible/1-maccabees/9#v52)</sup> He fortified also the city Bethsura, and Gazera, and the tower, and put forces in them, and provision of victuals.
+> <sup>[52](/bible/1-maccabees/9#v52)</sup> He fortified also the city Bethsura, and Gazara, and the tower, and put forces in them, and provision of victuals.
 >
 > <sup>[53](/bible/1-maccabees/9#v53)</sup> Besides, he took the chief men’s sons in the country for hostages, and put them into the tower at Jerusalem to be kept.
 >
@@ -988,7 +988,7 @@ Reading from the Bible book used on the show for Nehemiah, its introduction to N
 
 - Was in vanga.
 
-> <sup>[69](/bible/1-maccabees/9#v69)</sup> Wherefore he was very wroth at the wicked men that gave him counsel to come into the country, inasmuch as he slew many of them, and purposed to return into his own country.
+> <sup>[69](/bible/1-maccabees/9#v69)</sup> Wherefore he was very wroth at the wicked men that gave him counsel to come into the country, insomuch as he slew many of them, and purposed to return into his own country.
 
 - They told him to come to the country, but we knew he was coming, so he lost a lot of men. So he killed those men, the man I told him to come into the country. He killed them.
 

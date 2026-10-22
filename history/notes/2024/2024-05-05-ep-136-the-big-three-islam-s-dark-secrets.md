@@ -277,7 +277,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 **[Wisdom of Solomon 13:10](/bible/wisdom-of-solomon/13#v10)**  *[[34:39](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=2079s)]*
 
-> <sup>[10](/bible/wisdom-of-solomon/13#v10)</sup> But miserable are they, and in dead things is their hope, who call them gods, which are the works of men’s hands, gold and silver, to shew art in, and resemblances of beasts, or a stone good for nothing, the work of an ancient hand.
+> <sup>[10](/bible/wisdom-of-solomon/13#v10)</sup> But miserable are they, and in dead things is their hope, who called them gods, which are the works of men’s hands, gold and silver, to shew art in, and resemblances of beasts, or a stone good for nothing, the work of an ancient hand.
 
 - You understand, all good tenets that Muslims use to change their lives and become better in society when they come out of jail, the ones who are sincere... Because a lot of you Muslims in Philadelphia and Jersey, y'all are full of straight garbage. Y'all sell drugs, y'all kill each other. Y'all just phony. Y'all a bunch of fims, fake ass Muslims. You're not real Muslims, you're fims. Women got big mouths. They wear the hijab with pants on, hoing. Y'all just full of BS, man. Y'all full of BS. And the real ones don't respect you. Real Muslims, the Ishmaelites and the Joktanites, Midianites, they do not respect you … at all as Muslims. At all. That's why they have you over there as slaves, and your people over there are slaves till this very day.
 
@@ -319,7 +319,7 @@ Reading from the Quran, Surah Al-Ma'idah 5:68, looked up on air  *[[39:28](https
 
 **[Wisdom of Solomon 13:10-19](/bible/wisdom-of-solomon/13#v10)**  *[[40:58](https://www.youtube.com/watch?v=1PjTWJ0FRuM&t=2458s)]*
 
-> <sup>[10](/bible/wisdom-of-solomon/13#v10)</sup> But miserable are they, and in dead things is their hope, who call them gods, which are the works of men’s hands, gold and silver, to shew art in, and resemblances of beasts, or a stone good for nothing, the work of an ancient hand.
+> <sup>[10](/bible/wisdom-of-solomon/13#v10)</sup> But miserable are they, and in dead things is their hope, who called them gods, which are the works of men’s hands, gold and silver, to shew art in, and resemblances of beasts, or a stone good for nothing, the work of an ancient hand.
 
 - The work of an ancient hand. Yeah: Joktan and Ishmael.
 

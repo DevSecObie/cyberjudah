@@ -193,7 +193,7 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
 >
 > <sup>[3](/bible/sirach/44#v3)</sup> Such as did bear rule in their kingdoms, men renowned for their power, giving counsel by their understanding, and declaring prophecies:
 >
-> <sup>[4](/bible/sirach/44#v4)</sup> Leaders of the people by their counsels, and by their knowledge of learning meet for the people, wise and eloquent are their instructions:
+> <sup>[4](/bible/sirach/44#v4)</sup> Leaders of the people by their counsels, and by their knowledge of learning meet for the people, wise and eloquent in their instructions:
 >
 > <sup>[5](/bible/sirach/44#v5)</sup> Such as found out musical tunes, and recited verses in writing:
 >

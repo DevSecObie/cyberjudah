@@ -380,7 +380,7 @@ Reading from a book posted on the Telegram, on the Phoenician trade routes  *[[5
 
 - And they started, like we was just reading earlier, they start worshiping the constellations. Damn.
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 

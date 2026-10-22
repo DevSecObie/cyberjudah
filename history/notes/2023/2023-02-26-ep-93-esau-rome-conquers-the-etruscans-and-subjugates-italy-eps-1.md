@@ -170,7 +170,7 @@ Reading from *The American Eclectic*, 1842, on the sons of Japheth · read by a 
 >
 > <sup>[5](/bible/1-maccabees/12#v5)</sup> And this is the copy of the letters which Jonathan wrote to the Lacedemonians:
 >
-> <sup>[6](/bible/1-maccabees/12#v6)</sup> Jonathan the high priest, and the elders of the nation, and the priests, and the other of the Jews, unto the Lacedemonians their brethren send greeting:
+> <sup>[6](/bible/1-maccabees/12#v6)</sup> Jonathan the high priest, and the elders of the nation, and the priests, and the other people of the Jews, unto the Lacedemonians their brethren send greeting:
 
 - Unto the Lacedemonians their brethren send greeting. So who are the Lacedemonians? If you look at the movie 300, they had an L on the shield. The Lacedemonians are no other people than the Spartans. Because you have the territory of Lacedemonia, which is another Japhetic territory, another Japhetic father. Then you have Sparta. So Sparta was a city within Macedon; I'm sorry, not Macedon. Sparta was a city within Lacedemonia. Today we call it Laconia. You see that L right there? So the L represents Lacedemonians. The Lacedemonians were the Spartans. The Lacedemonians were our brethren.
 

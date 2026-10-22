@@ -498,7 +498,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "satan", "women
 
 **[2 Maccabees 6:6](/bible/2-maccabees/6#v6)**  *[[1:40:55](https://www.youtube.com/watch?v=cdpgk1FUrUQ&t=6055s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
 
 - An officer: it was not lawful to keep sabbath days or ancient feasts or to profess himself a Jew. That's what they did to the so-called African-Americans, Native Indians and Hispanics: no language, no customs, the name they gave you, like Kunta Kinte made to say Toby. Compelled to go in procession to Bacchus is Mardi Gras. Whoso would not conform should be put to death.
 

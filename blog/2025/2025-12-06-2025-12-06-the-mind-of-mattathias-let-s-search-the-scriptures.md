@@ -198,7 +198,7 @@ tags: ["IUIC in the ClassRoom", "endurance", "mental-health", "sabbath", "the-la
 >
 > <sup>[16](/bible/judith/5#v16)</sup> And they cast forth before them the Chanaanite, the Pherezite, the Jebusite, and the Sychemite, and all the Gergesites, and they dwelt in that country many days.
 >
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - Israel had prepared for war and fortified the tops of the high hills, because in warfare the high ground is the advantage and the protection. What they did not prepare for was a war of attrition — the enemy cut off the water to the city.
 
@@ -251,7 +251,7 @@ tags: ["IUIC in the ClassRoom", "endurance", "mental-health", "sabbath", "the-la
 >
 > <sup>[33](/bible/judith/8#v33)</sup> Ye shall stand this night in the gate, and I will go forth with my waitingwoman: and within the days that ye have promised to deliver the city to our enemies the Lord will visit Israel by mine hand.
 >
-> <sup>[34](/bible/judith/8#v34)</sup> But enquire not ye of mine act: for I will not declare it unto you, till the things be finished that I do.
+> <sup>[34](/bible/judith/8#v34)</sup> But inquire not ye of mine act: for I will not declare it unto you, till the things be finished that I do.
 >
 > <sup>[35](/bible/judith/8#v35)</sup> Then said Ozias and the princes unto her, Go in peace, and the Lord God be before thee, to take vengeance on our enemies.
 
@@ -268,7 +268,7 @@ tags: ["IUIC in the ClassRoom", "endurance", "mental-health", "sabbath", "the-la
 
 > <sup>[21](/bible/1-maccabees/1#v21)</sup> And entered proudly into the sanctuary, and took away the golden altar, and the candlestick of light, and all the vessels thereof,
 >
-> <sup>[22](/bible/1-maccabees/1#v22)</sup> And the table of the shewbread, and the pouring vessels, and the vials. and the censers of gold, and the veil, and the crown, and the golden ornaments that were before the temple, all which he pulled off.
+> <sup>[22](/bible/1-maccabees/1#v22)</sup> And the table of the shewbread, and the pouring vessels, and the vials. and the censers of gold, and the veil, and the crowns, and the golden ornaments that were before the temple, all which he pulled off.
 >
 > <sup>[23](/bible/1-maccabees/1#v23)</sup> He took also the silver and the gold, and the precious vessels: also he took the hidden treasures which he found.
 >

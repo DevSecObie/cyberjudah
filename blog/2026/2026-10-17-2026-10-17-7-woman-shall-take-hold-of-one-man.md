@@ -465,11 +465,11 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 >
 > <sup>[37](/bible/2-esdras/16#v37)</sup> Behold, the plagues draw nigh, and are not slack.
 >
-> <sup>[38](/bible/2-esdras/16#v38)</sup> As when a woman with child in the ninth month bringeth forth her son, with two or three hours of her birth great pains compass her womb, which pains, when the child cometh forth, they slack not a moment:
+> <sup>[38](/bible/2-esdras/16#v38)</sup> As when a woman with child in the ninth month bringeth forth her son, within two or three hours of her birth great pains compass her womb, which pains, when the child cometh forth, they slack not a moment:
 >
 > <sup>[39](/bible/2-esdras/16#v39)</sup> Even so shall not the plagues be slack to come upon the earth, and the world shall mourn, and sorrows shall come upon it on every side.
 >
-> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to thy battle, and in those evils be even as pilgrims upon the earth.
+> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to the battle, and in those evils be even as pilgrims upon the earth.
 >
 > <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
 >

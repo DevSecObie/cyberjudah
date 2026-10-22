@@ -96,7 +96,7 @@ Reading from a book, page one, on the Semitic Negroid Berbers and the Barbary Co
 
 - So he spoke to him; he spoke to Moses. Let Israel out of Egypt with Moses.
 
-> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
+> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of Sinai where I held him by me a long season,
 
 - back ahead And told him many wondrous things. and it showed him the secrets of the time and showed him He showed Moses the secrets of the times. Keep that in mind: he showed Moses the secrets of the times. The secrets of the times. go ahead
 
@@ -378,7 +378,7 @@ Reading from a book on King Solomon's navy and the Los Lunas stone, pages 58 to 
 
 **[Sirach 3:21-23](/bible/sirach/3#v21)**  *[[57:32](https://www.youtube.com/watch?v=b5Zwv1ukm8o&t=3452s)]*
 
-> <sup>[21](/bible/sirach/3#v21)</sup> Seek not out things that are too hard for thee, neither search the things that are above thy strength.
+> <sup>[21](/bible/sirach/3#v21)</sup> Seek not out the things that are too hard for thee, neither search the things that are above thy strength.
 
 - Right. So the things I'm bringing out, I tend to... some things you touch on with a, what's the term, grain of salt. Some things you gotta be mindful of. Some just some bones. So you'll be very careful. If you don't go with the scriptures, don't touch it. Don't deal with it. go ahead
 
@@ -1302,7 +1302,7 @@ Reading from Lord Kingsborough's volumes, volume six, page 128  *[[2:32:40](http
 
 - That they might their keep their statement. What? That they might there keep their stats. They might there there keep their statues. The same there in Dhunami 33, where they were off-road sacrifice of righteousness, is the same place there, okay.
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
 
 - I saw one supposed way too. That's all I want for you too. Let me show us what I want. Yep. Now give me coincidence definition. coincidence Google the coincidence definition. So I keep telling y'all: focus on Zebulon, Issachar, Asha, all together. Definition of coincidence coincidence where everyone pronounce it coincidence. You always say in class there's no such thing as coincidences, and it's true. There's no such thing as coincidence. read that uh Click the um some um the arrow there in the bottom. i want that yeah No, that's that's conscience. no Coincidence, not conscience. Hell. Jesus Christ. God. Oh, coincidence, not conscience. Oh Lord. Affiliate education. Oh man. Philly conscience. Coenzymes. Coincidence: C-O-I-N-C-I-D-E-N. Just spell it for you right there. go go go Thank you. Thank you, Google. Thank you, Google. Oh man. All right, there we go. Click the arrow. yes okay click be that Definition number one. all right
 

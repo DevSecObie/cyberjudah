@@ -84,7 +84,7 @@ Reading from *The View*, page 115, continued  *[[6:00](https://www.youtube.com/w
 
 **[2 Maccabees 8:36](/bible/2-maccabees/8#v36)**  *[[7:25](https://www.youtube.com/watch?v=oeFQVxvlh_Y&t=445s)]*
 
-> <sup>[36](/bible/2-maccabees/8#v36)</sup> Thus he, that took upon him to make good to the Romans their tribute by means of captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
+> <sup>[36](/bible/2-maccabees/8#v36)</sup> Thus he, that took upon him to make good to the Romans their tribute by means of the captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
 
 - That's it. M, see that? So we follow the laws of God that He gave us, we don't, we don't get hurt. But we go against that book, we get problems. That's why he said they suffered exceedingly from the neighboring Nations. So go back to it again.
 

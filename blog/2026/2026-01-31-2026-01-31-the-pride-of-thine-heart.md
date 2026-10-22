@@ -412,7 +412,7 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 
 > <sup>[4](/bible/2-maccabees/9#v4)</sup> Then swelling with anger. he thought to avenge upon the Jews the disgrace done unto him by those that made him flee. Therefore commanded he his chariotman to drive without ceasing, and to dispatch the journey, the judgment of God now following him. For he had spoken proudly in this sort, That he would come to Jerusalem and make it a common burying place of the Jews.
 >
-> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
+> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: for as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
 >
 > <sup>[6](/bible/2-maccabees/9#v6)</sup> And that most justly: for he had tormented other men’s bowels with many and strange torments.
 >

@@ -556,7 +556,7 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 
 > <sup>[22](/bible/wisdom-of-solomon/7#v22)</sup> For wisdom, which is the worker of all things, taught me: for in her is an understanding spirit holy, one only, manifold, subtil, lively, clear, undefiled, plain, not subject to hurt, loving the thing that is good quick, which cannot be letted, ready to do good,
 >
-> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, steadfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
+> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, stedfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
 >
 > <sup>[24](/bible/wisdom-of-solomon/7#v24)</sup> For wisdom is more moving than any motion: she passeth and goeth through all things by reason of her pureness.
 >

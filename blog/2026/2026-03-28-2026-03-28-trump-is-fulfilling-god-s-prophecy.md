@@ -234,7 +234,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "nations", "pro
 
 > <sup>[19](/bible/2-esdras/16#v19)</sup> Behold, famine and plague, tribulation and anguish, are sent as scourges for amendment.
 >
-> <sup>[20](/bible/2-esdras/16#v20)</sup> But for all these things they shall not turn from their wickedness, nor be always mindful of the scourges.
+> <sup>[20](/bible/2-esdras/16#v20)</sup> But for all these things they shall not turn from their wickedness, nor be alway mindful of the scourges.
 >
 > <sup>[21](/bible/2-esdras/16#v21)</sup> Behold, victuals shall be so good cheap upon earth, that they shall think themselves to be in good case, and even then shall evils grow upon earth, sword, famine, and great confusion.
 >
@@ -358,7 +358,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "nations", "pro
 
 > <sup>[39](/bible/2-esdras/16#v39)</sup> Even so shall not the plagues be slack to come upon the earth, and the world shall mourn, and sorrows shall come upon it on every side.
 >
-> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to thy battle, and in those evils be even as pilgrims upon the earth.
+> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to the battle, and in those evils be even as pilgrims upon the earth.
 >
 > <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
 

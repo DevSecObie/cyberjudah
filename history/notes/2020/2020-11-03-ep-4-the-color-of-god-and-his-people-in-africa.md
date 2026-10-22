@@ -1480,7 +1480,7 @@ Reading from a book on the hair of the Hebrews (title not given on air) · read 
 
 **[Esther (Greek) 15:1-5](/bible/esther-greek/15#v1)**  *[[2:47:30](https://www.youtube.com/watch?v=gEtHdmQ6pW8&t=10050s)]*
 
-> <sup>[1](/bible/esther-greek/15#v1)</sup> And upon the third day, when she had ended her prayers, she laid away her mourning garments, and put on her glorious apparel.
+> <sup>[1](/bible/esther-greek/15#v1)</sup> And upon the third day, when she had ended her prayer, she laid away her mourning garments, and put on her glorious apparel.
 >
 > <sup>[2](/bible/esther-greek/15#v2)</sup> And being gloriously adorned, after she had called upon God, who is the beholder and saviour of all things, she took two maids with her:
 
