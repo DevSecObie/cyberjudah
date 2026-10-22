@@ -25,7 +25,7 @@ Israel, sons of God, patient saints, sons of God, hand salute. Christ bless. Sal
 
 All praise to the Most High. We are in the building, man. We up here in the building, chilling with Deacon Asaph. CT in the building.
 
-- Dee, I saw you were doing Friday Night Raw last night. I am like, yo, come on, man. After Friday Night Raw he is here today again too. I told them, we do not take no days off. There is no ministry like us on the earth. Where else can you get the Bible being taught 365 days of the year, seven days a week? We are always ready to speak. There is no other ministry like us. We do not just pop up on Sunday and tell you all lies and collect tithes and then go home and you do not see us for the whole week. You have got us for every day. 365 days of the year we are here.
+- Deac, I saw you were doing Friday Night Raw last night. I am like, yo, come on, man. After Friday Night Raw he is here today again too. I told them, we do not take no days off. There is no ministry like us on the earth. Where else can you get the Bible being taught 365 days of the year, seven days a week? We are always ready to speak. There is no other ministry like us. We do not just pop up on Sunday and tell you all lies and collect tithes and then go home and you do not see us for the whole week. You have got us for every day. 365 days of the year we are here.
 - So all praise to the Most High for putting the spirit on the Bishop and the leaders and the teachers. A spirit has been poured upon us to deliver our people from the four corners of the earth and to show our people their worth.
 
 The thumbnail:
