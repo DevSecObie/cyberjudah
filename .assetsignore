@@ -1,0 +1,5 @@
+# The offline SQLite download stays on GitHub's data branch, regardless of size.
+library.sqlite
+library.sqlite.gz
+# Over the 25 MiB Workers asset limit; served in parts from search-index/ instead.
+search.sql.gz
