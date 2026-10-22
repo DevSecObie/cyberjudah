@@ -32,7 +32,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
 
 <div class="reading">
 
-Reading from a quote by Lyndon B. Johnson · read by Captain Yuri  *[[25:18](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1518s)]*
+Reading from a quote by Lyndon B. Johnson · read by Captain Uri  *[[25:18](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1518s)]*
 
 > If you can convince the lowest white man he's better than the best colored man, he won't notice you're picking his pocket. Hell, give him somebody to look down on and he'll empty his pockets for you.
 
@@ -48,7 +48,7 @@ Reading from a quote by Lyndon B. Johnson · read by Captain Yuri  *[[25:18](htt
 
 <div class="reading">
 
-Reading from a page on the word gospel · read by Captain Yuri  *[[26:43](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1603s)]*
+Reading from a page on the word gospel · read by Captain Uri  *[[26:43](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1603s)]*
 
 > Godspell is an Old English word, godspell meaning good story or good news, derived from God and spell, meaning message, story,
 
@@ -103,7 +103,7 @@ Reading from a page on the word gospel · read by Captain Yuri  *[[26:43](https:
 
 <div class="reading">
 
-Reading from a page on the word meek · read by Captain Yuri  *[[30:19](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1819s)]*
+Reading from a page on the word meek · read by Captain Uri  *[[30:19](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1819s)]*
 
 > Meek: definition and characteristics. The term meek in the biblical context refers to an attitude of humility, gentleness, and submission to God's will.
 
@@ -153,7 +153,7 @@ Reading from a page on the word brokenhearted  *[[33:28](https://www.youtube.com
 
 <div class="reading">
 
-Reading from a page on the meaning of captive · read by Captain Yuri  *[[37:02](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2222s)]*
+Reading from a page on the meaning of captive · read by Captain Uri  *[[37:02](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2222s)]*
 
 > Captive: one taken in war. Captives were often treated with great cruelty and indignity (1 Kings 20:32; Joshua 10:4; Judges 1:7; 2 Samuel 4:12; Judges 8:7; 2 Samuel 12:31; 1 Chronicles 20:3). When a city was taken by assault, all the men were slain and the women and children carried away captive and sold as slaves
 
@@ -225,7 +225,7 @@ Reading from a page on the meaning of captive · read by Captain Yuri  *[[37:02]
 
 <div class="reading">
 
-Reading from a page on prison in the Bible · read by Captain Yuri  *[[46:46](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2806s)]*
+Reading from a page on prison in the Bible · read by Captain Uri  *[[46:46](https://www.youtube.com/watch?v=JDW1q70sbhI&t=2806s)]*
 
 > Prison. In biblical times, the concept of prison and imprisonment appears in various contexts reflecting both physical and spiritual dimension.
 
@@ -529,7 +529,7 @@ Reading from a page on mourning in the Bible  *[[1:21:19](https://www.youtube.co
 
 <div class="reading">
 
-Reading from a page on black political prisoners · read by Captain Yuri  *[[1:28:42](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5322s)]*
+Reading from a page on black political prisoners · read by Captain Uri  *[[1:28:42](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5322s)]*
 
 > Black political prisoners are individuals, often black activists from movements like the Black Panther Party or Black Liberation Army, who advocates argue are unjustly incarcerated for their political beliefs, activities, or race rather than purely criminal acts, with prominent historical and contemporary examples including Mumia Abu-Jamal, Assata Shakur, Sundiata Acoli and Jalil Muntaqim. Many serving decades for actions tied to black liberation struggles.
 
@@ -818,7 +818,7 @@ Reading from a definition of austere  *[[1:56:06](https://www.youtube.com/watch?
 
 <div class="reading">
 
-Reading from a list of black faith leaders · read by Captain Yuri  *[[2:11:06](https://www.youtube.com/watch?v=JDW1q70sbhI&t=7866s)]*
+Reading from a list of black faith leaders · read by Captain Uri  *[[2:11:06](https://www.youtube.com/watch?v=JDW1q70sbhI&t=7866s)]*
 
 > 25 black faith leaders leading the charge that you should be following.
 
@@ -851,7 +851,7 @@ Reading from a list of black faith leaders · read by Captain Yuri  *[[2:11:06](
 
 <div class="reading">
 
-Reading from the 2023 reprint of *Marks of a Lost Race*, and what was found when it was looked up · read by Captain Yuri  *[[2:16:24](https://www.youtube.com/watch?v=JDW1q70sbhI&t=8184s)]*
+Reading from the 2023 reprint of *Marks of a Lost Race*, and what was found when it was looked up · read by Captain Uri  *[[2:16:24](https://www.youtube.com/watch?v=JDW1q70sbhI&t=8184s)]*
 
 > Marks of a Lost Race. … By Abba Bibbons, edited and prefaced by Chief Prince Zebulon bin Louie Hakia.
 
@@ -1042,7 +1042,7 @@ Reading from *Pillory: The Tale of the Borgia Pope, in Nine Crowded Chapters* by
 
 <div class="reading">
 
-Reading from a page on the key details of the mission · read by Captain Yuri  *[[2:54:52](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10492s)]*
+Reading from a page on the key details of the mission · read by Captain Uri  *[[2:54:52](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10492s)]*
 
 > Key details of the mission. Purpose: to counter antisemitism, provide truth about Israel's security situation, and strengthen the pro-Israel stance among American Christians, notes this YouTube video and The Media Line. Organizers: Friends of Zion (FOZ) Ambassador Institute, with support from the Israeli Foreign Ministry. Participants: over 1,000 US pastors, youth leaders, and social media influencers representing millions of followers, according to Fox News in this Facebook post. Activities: security briefings, visiting the Gaza border, meeting with officials, praying at significant sites like the Western Wall, and receiving training to fight Jewish derangement syndrome.
 

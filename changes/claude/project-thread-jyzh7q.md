@@ -23,3 +23,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 5
 
 - 1 Corinthians 15:19 (2026-02-16, Captain Emmanuel), 15:24 (2026-02-17, Captain Matthew), 15:35 (2026-02-19, host name unclear), 15:45 (2026-02-23, Captain Yaya), 16 (2026-02-24, host name unclear) and 2 Corinthians 1 (2026-02-26, Captain Matthew).
+
+## Captain Uri and Captain Zakai
+
+- Obie: "Captain Uri not Yuri". New `data/names.tsv` row Captain Uri (variants Captain Yuri, Captain Yurie); 140 spots respelled.
+- Obie (decision card): the IUIC Sacramento captain is Captain Zakai. New row Captain Zakai (variants Captain Zacchaeus, Captain Zakar, Captain Zachariah, Captain Zechariah); 44 spots respelled.

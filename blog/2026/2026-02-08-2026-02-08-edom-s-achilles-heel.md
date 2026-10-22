@@ -235,7 +235,7 @@ Reading from the 50 Cent *Get Rich or Die Trying* cover  *[[42:08](https://www.y
 
 <div class="reading">
 
-Reading from an on-screen list of the ten richest men in the world · read by Captain Yuri  *[[42:46](https://www.youtube.com/watch?v=QNTH14obhzs&t=2566s)]*
+Reading from an on-screen list of the ten richest men in the world · read by Captain Uri  *[[42:46](https://www.youtube.com/watch?v=QNTH14obhzs&t=2566s)]*
 
 > SpaceX, Elon Musk, $25.4 billion. Amazon, Jeff Bezos, $23.2 billion. LVMH, Bernard Arnault and family, $200 billion. Meta, Mark Zuckerberg, 176.5 billion. Oracle, Larry Ellison, 153.7 billion. Google, Larry Page, 145.1 billion. Google, Sergey Brin, 139 billion. Berkshire Hathaway Incorporated, Warren Buffett, 134 billion. Microsoft, Bill Gates, 131 billion. Microsoft, Steve Ballmer, 126.5 billion.
 
@@ -255,7 +255,7 @@ Reading from an on-screen headline on Maduro  *[[48:10](https://www.youtube.com/
 
 <div class="reading">
 
-Reading from an on-screen report, "The US bombed seven countries in 2025" · read by Captain Yuri  *[[48:58](https://www.youtube.com/watch?v=QNTH14obhzs&t=2938s)]*
+Reading from an on-screen report, "The US bombed seven countries in 2025" · read by Captain Uri  *[[48:58](https://www.youtube.com/watch?v=QNTH14obhzs&t=2938s)]*
 
 > United States: the US bombed seven countries in 2025. At the start of his second term in January 2025, Trump pledged to restore peace by ending global conflict.
 
@@ -485,7 +485,7 @@ Reading from a book entry on Idumea  *[[1:20:11](https://www.youtube.com/watch?v
 
 <div class="reading">
 
-Reading from *The Chronology of Ancient Nations*, written in 1879 · read by Captain Yuri  *[[1:34:49](https://www.youtube.com/watch?v=QNTH14obhzs&t=5689s)]*
+Reading from *The Chronology of Ancient Nations*, written in 1879 · read by Captain Uri  *[[1:34:49](https://www.youtube.com/watch?v=QNTH14obhzs&t=5689s)]*
 
 > That Alexander was the son of Philip is a fact too evident to be concealed. His pedigree is stated by the most celebrated genealogist in this way:
 
@@ -509,7 +509,7 @@ Reading from *The Rise of Christendom*, written in 1890  *[[1:35:49](https://www
 
 <div class="reading">
 
-Reading from *Modern Judaism, or a Brief Account of the Opinions, Traditions, Rites, and Ceremonies of the Jews in Modern Times* by John Allen, written in 1830, page 231 · read by Captain Yuri  *[[1:45:51](https://www.youtube.com/watch?v=QNTH14obhzs&t=6351s)]*
+Reading from *Modern Judaism, or a Brief Account of the Opinions, Traditions, Rites, and Ceremonies of the Jews in Modern Times* by John Allen, written in 1830, page 231 · read by Captain Uri  *[[1:45:51](https://www.youtube.com/watch?v=QNTH14obhzs&t=6351s)]*
 
 > Esau's descendants are the subjects of extensive traditions, in which the rabbis, with an effrontery at which we should wonder in any other men, have set at defiance all authentic history and accurate chronology.
 
@@ -575,7 +575,7 @@ Reading from Dr. William Smith's *Dictionary of the Bible*, published 1890  *[[1
 
 <div class="reading">
 
-Reading from *Modern Judaism* by John Allen, continued · read by Captain Yuri  *[[1:51:12](https://www.youtube.com/watch?v=QNTH14obhzs&t=6672s)]*
+Reading from *Modern Judaism* by John Allen, continued · read by Captain Uri  *[[1:51:12](https://www.youtube.com/watch?v=QNTH14obhzs&t=6672s)]*
 
 > especially those of Isaiah, Jeremiah, and Obadiah, have not yet received their full accomplishment;
 
@@ -672,7 +672,7 @@ Reading from *Modern Judaism* by John Allen, continued · read by Captain Yuri  
 
 <div class="reading">
 
-Reading from definitions of *deep state* and *shadow government*, pulled up in class · read by Captain Yuri  *[[2:08:05](https://www.youtube.com/watch?v=QNTH14obhzs&t=7685s)]*
+Reading from definitions of *deep state* and *shadow government*, pulled up in class · read by Captain Uri  *[[2:08:05](https://www.youtube.com/watch?v=QNTH14obhzs&t=7685s)]*
 
 > While the terms deep state and shadow government are often used interchangeably in political discourse to describe unauthorized, unelected networks operating within a government, they possess slightly different connotations and origins.
 
@@ -751,7 +751,7 @@ Reading from definitions of *deep state* and *shadow government*, pulled up in c
 
 <div class="reading">
 
-Reading from an article, "US plans inaugural meeting of Trump's Board of Peace as questions remain over group's mandate" · read by Captain Yuri  *[[2:23:02](https://www.youtube.com/watch?v=QNTH14obhzs&t=8582s)]*
+Reading from an article, "US plans inaugural meeting of Trump's Board of Peace as questions remain over group's mandate" · read by Captain Uri  *[[2:23:02](https://www.youtube.com/watch?v=QNTH14obhzs&t=8582s)]*
 
 > US plans inaugural meeting of Trump's Board of Peace as questions remain over group's mandate.
 >

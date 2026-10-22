@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 
 ## Introduction
 
-*[[1:50](https://www.youtube.com/watch?v=hVRcXshrCUo&t=110s)]* All praise to the Most High. Hey, look family. Welcome back to another episode of Giving the Sense. I'm your host Captain Matthew. And we going through the letters of Paul. So, we picking up where Captain Zacchaeus left off in 2 Corinthians. We actually in chapter 4. We do apologize for the delay. You know, before we get into it, give me Nehemiah chapter 8 verse 8.
+*[[1:50](https://www.youtube.com/watch?v=hVRcXshrCUo&t=110s)]* All praise to the Most High. Hey, look family. Welcome back to another episode of Giving the Sense. I'm your host Captain Matthew. And we going through the letters of Paul. So, we picking up where Captain Zakai left off in 2 Corinthians. We actually in chapter 4. We do apologize for the delay. You know, before we get into it, give me Nehemiah chapter 8 verse 8.
 
 ## Scriptures Opened
 

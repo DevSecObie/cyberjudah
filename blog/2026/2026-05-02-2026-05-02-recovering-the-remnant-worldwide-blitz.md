@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "nations", "passover-feasts"]
 
 ## Introduction
 
-What a warm reception coming back to Babylon the great. The name of today's lesson is Recovering the Remnant: Worldwide Blitz, taught on the Sabbath of the new moon as the brothers return from celebrating the Passover across the world. A video from the art department opened the class: this is not just travel; this is sacrifice. Every step forward is a step into the unknown, because when truth moves, opposition follows. The men on these missions go not for fame or recognition, but because the mission is bigger than them and the word must go out through every nation. We may never go back to the old national Passover, because they need us out there in these other countries. Captain Yuri reads for the class.
+What a warm reception coming back to Babylon the great. The name of today's lesson is Recovering the Remnant: Worldwide Blitz, taught on the Sabbath of the new moon as the brothers return from celebrating the Passover across the world. A video from the art department opened the class: this is not just travel; this is sacrifice. Every step forward is a step into the unknown, because when truth moves, opposition follows. The men on these missions go not for fame or recognition, but because the mission is bigger than them and the word must go out through every nation. We may never go back to the old national Passover, because they need us out there in these other countries. Captain Uri reads for the class.
 
 ## Scriptures Opened
 
@@ -199,7 +199,7 @@ What a warm reception coming back to Babylon the great. The name of today's less
 
 <div class="reading">
 
-Reading from *The Jewish Mystique* by Ernest van den Haag · read by Captain Yuri  *[[42:16](https://www.youtube.com/watch?v=93fP6cddXrs&t=2536s)]*
+Reading from *The Jewish Mystique* by Ernest van den Haag · read by Captain Uri  *[[42:16](https://www.youtube.com/watch?v=93fP6cddXrs&t=2536s)]*
 
 > Negroes lacked all of these intangible but immensely important advantages. They did not share a common language, religion, history, or culture.
 
@@ -523,7 +523,7 @@ Reading from *The Land of the Heart of Livingstone, or The Genius of the Bantu*,
 
 <div class="reading">
 
-Reading from *The Flaming Torch in Darkest Africa*, written in 1898 · read by Captain Yuri  *[[1:36:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=5799s)]*
+Reading from *The Flaming Torch in Darkest Africa*, written in 1898 · read by Captain Uri  *[[1:36:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=5799s)]*
 
 > The custom to this day of some of the tribes of living in booths constructed from the branches of trees at a certain season of the year, observing ceremonies identical with those of the children of Israel; the liberation of a … in the wilderness to carry away the transgressions of the people; the practice of circumcision so general among the Zulus, seemed to link them with the period following the Exodus. The traditional history of Abyssinia connects it with that of the Jews a thousand years before Christ, when it records the visit of the Queen of Sheba to King Solomon.
 >
@@ -553,7 +553,7 @@ Reading from *A Tribute for the Negro: Being a Vindication of the Moral, Intelle
 
 <div class="reading">
 
-Reading from *General History of Africa*, Africa from the 16th to the 18th century · read by Captain Yuri  *[[1:48:54](https://www.youtube.com/watch?v=93fP6cddXrs&t=6534s)]*
+Reading from *General History of Africa*, Africa from the 16th to the 18th century · read by Captain Uri  *[[1:48:54](https://www.youtube.com/watch?v=93fP6cddXrs&t=6534s)]*
 
 > The Sidis of Janjira descended from Africans who arrived from Gujarat in 1489.
 
@@ -614,7 +614,7 @@ Reading from the *Compact Zondervan Bible Dictionary*, on King James, read in th
 
 <div class="reading">
 
-Reading from *Jews in Africa* · read by Captain Yuri  *[[2:01:35](https://www.youtube.com/watch?v=93fP6cddXrs&t=7295s)]*
+Reading from *Jews in Africa* · read by Captain Uri  *[[2:01:35](https://www.youtube.com/watch?v=93fP6cddXrs&t=7295s)]*
 
 > In Mali, several thousand people in Timbuktu claim some form of Jewish ancestry. Moors and Jews fleeing persecution in Spain
 
@@ -647,7 +647,7 @@ Reading from *Jews in Africa* · read by Captain Yuri  *[[2:01:35](https://www.y
 
 <div class="reading">
 
-Reading from a book on the New World, written in the 1600s · read by Captain Yuri  *[[2:06:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=7599s)]*
+Reading from a book on the New World, written in the 1600s · read by Captain Uri  *[[2:06:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=7599s)]*
 
 > … of the New World, containing the original of the inhabitants, and the remarkable voyages thither; the conquest of the vast empires of Mexico and Peru,
 
@@ -866,7 +866,7 @@ Reading from *Christopher Columbus and the Participation of the Jews in the Span
 
 <div class="reading">
 
-Reading from the *Biblical and Theological Dictionary*, put together in 1857, under Prophets and Preaching · read by Captain Yuri  *[[2:39:57](https://www.youtube.com/watch?v=93fP6cddXrs&t=9597s)]*
+Reading from the *Biblical and Theological Dictionary*, put together in 1857, under Prophets and Preaching · read by Captain Uri  *[[2:39:57](https://www.youtube.com/watch?v=93fP6cddXrs&t=9597s)]*
 
 > Godwin observes that for the propagation of learning, colleges and schools were in divers places erected for the prophets. The first intimation we have in Scripture of these schools is in 1st Samuel chapter 10 and verse 5, where we read of a company of prophets coming down from the high place with a psaltery, a tabret, a pipe and a harp before them, and they did prophesy. They are supposed to be the students in a college of prophets at …, or the hill, as we render it, of God.
 
@@ -979,7 +979,7 @@ Reading from the *Biblical and Theological Dictionary*, put together in 1857, un
 
 <div class="reading">
 
-Reading from *Racial Matters: The FBI's Secret File on Black America, 1960-1972* by Kenneth O'Reilly · read by Captain Yuri  *[[2:51:49](https://www.youtube.com/watch?v=93fP6cddXrs&t=10309s)]*
+Reading from *Racial Matters: The FBI's Secret File on Black America, 1960-1972* by Kenneth O'Reilly · read by Captain Uri  *[[2:51:49](https://www.youtube.com/watch?v=93fP6cddXrs&t=10309s)]*
 
 > These informants reported on obscure community activists who might become agitators for violent protest, and they allowed the bureau to position itself ahead of the growth of these groups and leaders, to record their development and demise.
 

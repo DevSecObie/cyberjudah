@@ -665,7 +665,7 @@ Field reports played from the worldwide missions, where the men remembered the P
 - Mission 214, Nairobi, Kenya, led by Captain Amaziah.
 - Mission 215, South Africa, led by Deacon Abbayael, Captain Sham, and Captain Mattathias: keeping the Lord's feast according to the law, with the lamb without blemish from Exodus 12:5.
 - Mission 217, Cameroon, led by Captain Gideon.
-- Mission 224, Zanzibar, led by Bishop Kani, Captain Shamaya, and Captain Yuri.
+- Mission 224, Zanzibar, led by Bishop Kani, Captain Shamaya, and Captain Uri.
 - Mission 226, Monrovia, Liberia, led by the general Bishop Nathanyel, Bishop Ya'ohshai, Deacon Isaac, Deacon Malachi, Captain Azanell, Captain Yo'el, and Captain Uriel.
 - While in the Congo visiting a prison, led by Captain Hosiah, the prophets gave out free haircuts, free water, and free bread: not only the bread of life, but the physical as well.
 
