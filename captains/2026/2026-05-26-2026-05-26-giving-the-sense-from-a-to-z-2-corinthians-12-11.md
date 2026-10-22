@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 12:11"
 slug: "2026/2026-05-26-giving-the-sense-from-a-to-z-2-corinthians-12-11"
 date: "2026-05-26"
-teacher: "Captain Galayah"
+teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2026-05-26"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-05-26 · Captain Galayah</p>
+<p class="taught">Giving The Sense From A to Z · 2026-05-26 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Ezra 7](/bible/ezra/7) · [Acts 18](/bible/acts/18) · [2 Cor 12](/bible/2-corinthians/12) · [John 15](/bible/john/15) · [John 10](/bible/john/10) · [John 8](/bible/john/8) · [2 Cor 11](/bible/2-corinthians/11) · [2 Cor 10](/bible/2-corinthians/10) · [2 Cor 13](/bible/2-corinthians/13) · [1 Cor 5](/bible/1-corinthians/5)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
 
 ## Introduction
 
-*[[1:40](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=100s)]* Amen. All praises to the most high. All praises to the most high Israel. Most high Christ blessed. Welcome to another edition of Giving the Sense from A to Z. I ain't taught Escaping the Plantation about three weeks y'all. I'm get back out there next week though, Lord's will. All praise to the most high. Welcome to another edition of Giving the Sense from A to Z. I am today's host, Captain Galayah, and I am going to get the brother that I will have reading for me on here in just a second. I almost introduced Escaping the Plantation. Been a while since I done it. So, it's been that type of last couple months. Well, last month at least. A lot of traveling, a lot of moving around. All praise to the Lord. So, we didn't teach Escaping the Plantation yesterday cuz the elders were teaching. All praise to the Lord. So, today we going to finish off second Corinthians. Well, I ain't going to say we're going to finish, we going to try to finish it. 2 Corinthians chapter 12. Then we'll have one more chapter and we'll be moving on to another letter of the Apostle Paul. So, it's been a journey. It's been a journey through Corinthians. If you've been paying attention to Giving the Sense from A to Z the last few months, we've been dealing with Corinthians. All right? Finishing out the book of Corinthians. All right? Or the letters, the two letters to the church in Corinth. All right? So, we're gonna continue that today. I'm just trying to get my mind together. I forgot that I had to teach today, y'all. I ain't going to lie. I had to look at the schedule. I looked at the schedule. I said, “Man, that's me.” Get my behind over there and teach. So, I had to set everything up pretty quickly. So, I'm kind of all over the place. Just let me get my bearings together. Let me get my feet under me a little bit and get started.
+*[[1:40](https://www.youtube.com/watch?v=UvhPV2VLBBE&t=100s)]* Amen. All praises to the most high. All praises to the most high Israel. Most high Christ blessed. Welcome to another edition of Giving the Sense from A to Z. I ain't taught Escaping the Plantation about three weeks y'all. I'm get back out there next week though, Lord's will. All praise to the most high. Welcome to another edition of Giving the Sense from A to Z. I am today's host, Captain Gedaliah, and I am going to get the brother that I will have reading for me on here in just a second. I almost introduced Escaping the Plantation. Been a while since I done it. So, it's been that type of last couple months. Well, last month at least. A lot of traveling, a lot of moving around. All praise to the Lord. So, we didn't teach Escaping the Plantation yesterday cuz the elders were teaching. All praise to the Lord. So, today we going to finish off second Corinthians. Well, I ain't going to say we're going to finish, we going to try to finish it. 2 Corinthians chapter 12. Then we'll have one more chapter and we'll be moving on to another letter of the Apostle Paul. So, it's been a journey. It's been a journey through Corinthians. If you've been paying attention to Giving the Sense from A to Z the last few months, we've been dealing with Corinthians. All right? Finishing out the book of Corinthians. All right? Or the letters, the two letters to the church in Corinth. All right? So, we're gonna continue that today. I'm just trying to get my mind together. I forgot that I had to teach today, y'all. I ain't going to lie. I had to look at the schedule. I looked at the schedule. I said, “Man, that's me.” Get my behind over there and teach. So, I had to set everything up pretty quickly. So, I'm kind of all over the place. Just let me get my bearings together. Let me get my feet under me a little bit and get started.
 
 ## Scriptures Opened
 

@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "captivity"]
 
 ## Introduction
 
-*[[22:43](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=1363s)]* Shalom. Shalom. Most High Christ bless. I know some of you probably been watching. I know Captain Gadaliah did 2 Corinthians, the last chapter, close it out. So now we are opening up. We're giving the sense from A to Z with Ezekiel. We're going to go into some prophecies and some history. So we going to start with Ezekiel chapter 1. All right, since we started a little late, let's get right into it. Let's read Ezekiel chapter 1 verse one.
+*[[22:43](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=1363s)]* Shalom. Shalom. Most High Christ bless. I know some of you probably been watching. I know Captain Gedaliah did 2 Corinthians, the last chapter, close it out. So now we are opening up. We're giving the sense from A to Z with Ezekiel. We're going to go into some prophecies and some history. So we going to start with Ezekiel chapter 1. All right, since we started a little late, let's get right into it. Let's read Ezekiel chapter 1 verse one.
 
 ## In The News
 
