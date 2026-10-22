@@ -28,3 +28,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Obie: "Captain Uri not Yuri". New `data/names.tsv` row Captain Uri (variants Captain Yuri, Captain Yurie); 140 spots respelled.
 - Obie (decision card): the IUIC Sacramento captain is Captain Zakai. New row Captain Zakai (variants Captain Zacchaeus, Captain Zakar, Captain Zachariah, Captain Zechariah); 44 spots respelled.
+
+## Batch 6
+
+- 1 Corinthians 12:10 (2026-01-22, host name unclear), 13 (2026-01-27, Captain Gedaliah), 14 (2026-01-28, Captain Zakai), 14:11 (2026-02-05, host name unclear), 15 (2026-02-09, Captain Yaya) and 15:5 (2026-02-10, host name unclear).
