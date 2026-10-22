@@ -43,3 +43,7 @@ Notes for the shows with the fewest recordings left to write up, each filed unde
 ## Show notes, batch 7
 
 - Escaping the Plantation, IUIC Raleigh: three 2023 recordings (Caterpillars Terrorist & Insurrection, 2023-09-08; Murder in Modern Rome, 2023-09-10; Modern Black Woman Meet Fannie Lou Hamer, 2023-09-22), which name no teacher, and five 2025 live streams of Escaping the Plantation 2.0: Guided or Blinded (2025-06-23) and Bound, Loosed, & Burned (2025-06-30), hosted by Captain Josiah; Lucifer the Light Bearer & Don't Listen to Black Women (2025-07-14) and The Image of the Gods and the Fate of the Oppressors (2025-09-15), hosted by Captain Galayah; and Lord of the House: The Restoration of the Israelite Man (2025-07-28), hosted by an officer. Every recording of the show now has a note; "Escaping The Plantation Of The Dead" (2023-04-29) is a Sabbath class, not an episode.
+
+## Show notes, batch 8
+
+- The Power Hour: Is Midnight Upon Us? (2022-01-19), the interview with Dr. Johanna Fernandez on The Young Lords (2022-03-09) and its recap (2022-03-23), hosted by Captain Yoshua; Passover Commentary, Removing the Leaven (2022-04-06), Lies My Pastor Taught Me (2022-04-13) and The Spiritual Revelation of Christ (2022-10-27), hosted by Deacon Yoshua; and Hidden Hatred in Entertainment (2023-02-22), Mexico Border Crisis (2023-03-15) and Silly Rabbit, Easter's a Trick! (2023-04-05) from IUIC Austin, hosted by an officer. All nine recordings of the show now have notes.
