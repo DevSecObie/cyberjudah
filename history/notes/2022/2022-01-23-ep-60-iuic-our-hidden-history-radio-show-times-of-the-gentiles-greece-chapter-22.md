@@ -136,7 +136,7 @@ tags: ["Our Hidden History", "nations"]
 
 - Good God. Nobody died in the foreign land, and no one buried his simple ass. Right.
 
-> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s car, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
+> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s ear, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
 
 - So when, so when word came to the king, Antiochus's ear, that Jason had done this, that he had caused the war, he started killing people and so forth. Remember, Jason thought that Antiochus was dead. So when Antiochus returned to find what Jason had done, when he had killed our people, chase Menelaus out, whatever, and caused the revolt, he took that as an offense, or as treason, disrespect. So this guy Jason, this stupid negro Jason, pretty much provoked, or further incited, Antiochus to go against us in this instance right here. This history ties into what started First Maccabees 1, when he, the temple is defiled. He's, this guy Jason is the catalyst. He's the foreigner of this whole thing. He started it. Damn. So a negro's behind this. Dude Antiochus being further provoked, of course, as of the Lord, but being further provoked to pretty much to file our temple and force us into Greek fashion. Read again.
 
@@ -178,7 +178,7 @@ tags: ["Our Hidden History", "nations"]
 
 - Right. Whom Seleucus the king sent, which is his brother. And tigers his brother.
 
-> <sup>[19](/bible/2-maccabees/5#v19)</sup> Nevertheless God did not choose the people for the place’s sake, but the place far the people’s sake.
+> <sup>[19](/bible/2-maccabees/5#v19)</sup> Nevertheless God did not choose the people for the place’s sake, but the place for the people’s sake.
 
 - That's heavy, right? That's a heavy verse. That's the universe. Again. God did not choose the people for the place's sake, God, but the place for the people's. But he chose the land for our sake. Happy, happy, happy. We mean we're connected.
 
@@ -502,7 +502,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 > <sup>[9](/bible/2-maccabees/6#v9)</sup> And whoso would not conform themselves to the manners of the Gentiles should be put to death. Then might a man have seen the present misery.
 >
-> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes handing at their breasts, they cast them down headlong from the wall.
+> <sup>[10](/bible/2-maccabees/6#v10)</sup> For there were two women brought, who had circumcised their children; whom when they had openly led round about the city, the babes hanging at their breasts, they cast them down headlong from the wall.
 
 - Right. There were two women that were brought, who had circumcised their children.
 
@@ -582,7 +582,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 - Yep. He never forsake his people. Despite what he does to us, he's never going to forsake us.
 
-> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we at spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
+> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
 >
 > <sup>[18](/bible/2-maccabees/6#v18)</sup> Eleazar, one of the principal scribes, an aged man, and of a well favoured countenance, was constrained to open his mouth, and to eat swine’s flesh.
 
@@ -920,7 +920,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 > <sup>[6](/bible/2-maccabees/7#v6)</sup> The Lord God looketh upon us, and in truth hath comfort in us, as Moses in his song, which witnessed to their faces, declared, saying, And he shall be comforted in his servants.
 >
-> <sup>[7](/bible/2-maccabees/7#v7)</sup> So when the first was dead after this number, they brought the second to make him a mocking stock: and when they had pulled off the skin of his head with the hair, they asked him, Wilt thou eat, before thou be punished throughout every member of thy body?
+> <sup>[7](/bible/2-maccabees/7#v7)</sup> So when the first was dead after this manner, they brought the second to make him a mocking stock: and when they had pulled off the skin of his head with the hair, they asked him, Wilt thou eat, before thou be punished throughout every member of thy body?
 
 - He finally died.
 
@@ -1036,7 +1036,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 - Yeah, I'll counsel him. So obviously you could speak to him in his language too. So I'll counsel him. I'll talk to him.
 
-> <sup>[27](/bible/2-maccabees/7#v27)</sup> But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee such three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
+> <sup>[27](/bible/2-maccabees/7#v27)</sup> But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee suck three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
 
 - That bear me nine months? Yeah, the nine months.
 
@@ -1288,7 +1288,7 @@ Reading from a news report on a North Philly corner dumped on again after a clea
 
 > <sup>[62](/bible/1-maccabees/1#v62)</sup> Howbeit many in Israel were fully resolved and confirmed in themselves not to eat any unclean thing.
 >
-> <sup>[63](/bible/1-maccabees/1#v63)</sup> Wherefore the rather to die, that they might not be defiled with meats, and that they might not profane the holy covenant: so then they died.
+> <sup>[63](/bible/1-maccabees/1#v63)</sup> Wherefore they chose rather to die, that they might not be defiled with meats, and that they might not profane the holy covenant: so then they died.
 >
 > <sup>[64](/bible/1-maccabees/1#v64)</sup> And there was very great wrath upon Israel.
 

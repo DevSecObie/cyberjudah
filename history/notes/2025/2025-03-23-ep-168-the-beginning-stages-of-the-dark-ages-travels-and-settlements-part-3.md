@@ -32,7 +32,7 @@ Now just to put you guys up to speed: during this time, First Maccabees 8, Japhe
 
 **[1 Maccabees 8:1-3](/bible/1-maccabees/8#v1)**  *[[14:22](https://www.youtube.com/watch?v=tptjFXAh7XE&t=862s)]*
 
-> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
+> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
 - Judas had heard of the fame of the Romans.
 

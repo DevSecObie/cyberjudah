@@ -98,7 +98,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 > <sup>[6](/bible/1-maccabees/1#v6)</sup> Wherefore he called his servants, such as were honourable, and had been brought up with him from his youth, and parted his kingdom among them, while he was yet alive.
 >
-> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelves years, and then died.
+> <sup>[7](/bible/1-maccabees/1#v7)</sup> So Alexander reigned twelve years, and then died.
 
 - That would be the, the four I referred to before. Right. So Alexander rang 12 years and then died. Right. So 20, he started conquering about 20, finished chunking by 32. He died by 30, he died by 32. Started conquering by 20, ended up dying at 32. 12 years.
 

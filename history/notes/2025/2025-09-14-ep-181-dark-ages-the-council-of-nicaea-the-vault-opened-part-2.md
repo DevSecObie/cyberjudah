@@ -136,7 +136,7 @@ Reading from *History of the Jews* by Hannah Adams, page 60, on the year 65 AD a
 
 **[2 Maccabees 3:37-40](/bible/2-maccabees/3#v37)**  *[[19:48](https://www.youtube.com/watch?v=jiTMQfbhP2c&t=1188s)]*
 
-> <sup>[37](/bible/2-maccabees/3#v37)</sup> And when the king Heliodorus, who might be a fit man to be sent yet once again to Jerusalem, he said,
+> <sup>[37](/bible/2-maccabees/3#v37)</sup> And when the king asked Heliodorus, who might be a fit man to be sent yet once again to Jerusalem, he said,
 >
 > <sup>[38](/bible/2-maccabees/3#v38)</sup> If thou hast any enemy or traitor, send him thither, and thou shalt receive him well scourged, if he escape with his life: for in that place, no doubt; there is an especial power of God.
 

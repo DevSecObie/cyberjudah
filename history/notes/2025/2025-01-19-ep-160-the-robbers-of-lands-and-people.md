@@ -648,7 +648,7 @@ Reading from an article on Orlando Jones being fired from *American Gods*  *[[1:
 
 **[2 Maccabees 5:11](/bible/2-maccabees/5#v11)**  *[[1:47:24](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=6444s)]*
 
-> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s car, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
+> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s ear, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
 
 - Because Jason, Menelaus I believe it was... basically he bought his way into leadership through Antiochus, and so there was an uprising among our people. So Antiochus assumed that we were revolting against him, based upon this Negro's action. Verse 5.
 
@@ -666,7 +666,7 @@ Reading from an article on Orlando Jones being fired from *American Gods*  *[[1:
 
 **[2 Maccabees 5:11-21](/bible/2-maccabees/5#v11)**  *[[1:49:22](https://www.youtube.com/watch?v=CJqT4kRiRtw&t=6562s)]*
 
-> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s car, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
+> <sup>[11](/bible/2-maccabees/5#v11)</sup> Now when this that was done came to the king’s ear, he thought that Judea had revolted: whereupon removing out of Egypt in a furious mind, he took the city by force of arms,
 >
 > <sup>[12](/bible/2-maccabees/5#v12)</sup> And commanded his men of war not to spare such as they met, and to slay such as went up upon the houses.
 >
@@ -700,7 +700,7 @@ Reading from an article on Orlando Jones being fired from *American Gods*  *[[1:
 
 - Watch this. He would have got the same ass whooping as Heliodorus got, if we had stood for that temple, if we was doing right by the Lord. But we weren't, so God let it rise. Go in there, do what you want to do.
 
-> <sup>[19](/bible/2-maccabees/5#v19)</sup> Nevertheless God did not choose the people for the place’s sake, but the place far the people’s sake.
+> <sup>[19](/bible/2-maccabees/5#v19)</sup> Nevertheless God did not choose the people for the place’s sake, but the place for the people’s sake.
 
 - Israel is the people before a place.
 

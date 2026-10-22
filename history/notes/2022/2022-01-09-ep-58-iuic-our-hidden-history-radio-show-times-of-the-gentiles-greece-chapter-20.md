@@ -666,7 +666,7 @@ Reading from the page on Nanea from Bible.net, sent on air · read by Manny  *[[
 
 - And people start, you know, people start bugging out. That money has helped the people. Go ahead.
 
-> <sup>[15](/bible/2-maccabees/3#v15)</sup> But the priests, prostrating themselves before the altar in their priests’ vestments, called unto heaven upon him that made a law concerning things given to he kept, that they should safely be preserved for such as had committed them to be kept.
+> <sup>[15](/bible/2-maccabees/3#v15)</sup> But the priests, prostrating themselves before the altar in their priests’ vestments, called unto heaven upon him that made a law concerning things given to be kept, that they should safely be preserved for such as had committed them to be kept.
 
 - So the priest laid in the floor and prayed to God: listen, God, don't let this happen. This stuff is set up to help our people, and it's also according to your commandment. It should not be touched. It should be saved and used for the purpose it is left there for. Don't let this happen. The priest prayed in the investments: don't let this happen. Go ahead. Verse 16.
 
@@ -768,7 +768,7 @@ Reading from the page on Nanea from Bible.net, sent on air · read by Manny  *[[
 
 > <sup>[36](/bible/2-maccabees/3#v36)</sup> Then testified he to all men the works of the great God, which he had seen with his eyes.
 >
-> <sup>[37](/bible/2-maccabees/3#v37)</sup> And when the king Heliodorus, who might be a fit man to be sent yet once again to Jerusalem, he said,
+> <sup>[37](/bible/2-maccabees/3#v37)</sup> And when the king asked Heliodorus, who might be a fit man to be sent yet once again to Jerusalem, he said,
 >
 > <sup>[38](/bible/2-maccabees/3#v38)</sup> If thou hast any enemy or traitor, send him thither, and thou shalt receive him well scourged, if he escape with his life: for in that place, no doubt; there is an especial power of God.
 
@@ -1140,7 +1140,7 @@ So the Apocrypha contains a whole lot of history, to sum it all up, that bridges
 
 - The time following this situation shall declare these things. It's not good. It's not good to follow your oppressor. Go ahead.
 
-> <sup>[18](/bible/2-maccabees/4#v18)</sup> Now when the game that was used every faith year was kept at Tyrus, the king being present,
+> <sup>[18](/bible/2-maccabees/4#v18)</sup> Now when the game that was used every fifth year was kept at Tyrus, the king being present,
 
 - Hold on to that. Get down 8 and 12. And then 8, verse 10 to 12. Daniel's... Daniel prophesied this is gonna happen.
 
@@ -1180,7 +1180,7 @@ So the Apocrypha contains a whole lot of history, to sum it all up, that bridges
 
 **[2 Maccabees 4:18-38](/bible/2-maccabees/4#v18)**  *[[2:05:24](https://www.youtube.com/watch?v=_IIQMAY0isM&t=7524s)]*
 
-> <sup>[18](/bible/2-maccabees/4#v18)</sup> Now when the game that was used every faith year was kept at Tyrus, the king being present,
+> <sup>[18](/bible/2-maccabees/4#v18)</sup> Now when the game that was used every fifth year was kept at Tyrus, the king being present,
 >
 > <sup>[19](/bible/2-maccabees/4#v19)</sup> This ungracious Jason sent special messengers from Jerusalem, who were Antiochians, to carry three hundred drachms of silver to the sacrifice of Hercules, which even the bearers thereof thought fit not to bestow upon the sacrifice, because it was not convenient, but to be reserved for other charges.
 

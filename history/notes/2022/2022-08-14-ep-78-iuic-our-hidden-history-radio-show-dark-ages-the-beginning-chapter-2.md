@@ -846,7 +846,7 @@ Reading from *The Key to Northwest European Origins* (1833, as stated on air; th
 
 **[1 Maccabees 8:1-3](/bible/1-maccabees/8#v1)**  *[[2:13:46](https://www.youtube.com/watch?v=pF03Wwuc_cg&t=8026s)]*
 
-> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
+> <sup>[1](/bible/1-maccabees/8#v1)</sup> Now Judas had heard of the fame of the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
 - So Judas, which would be Judas Maccabee, Levi, southern kingdom, heard of the fame of the Romans, their conquests, that they were mighty and valiant men.
 

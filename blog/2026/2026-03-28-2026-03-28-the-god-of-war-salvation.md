@@ -214,7 +214,7 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "the-law", "war"]
 
 > <sup>[1](/bible/baruch/3#v1)</sup> O Lord Almighty, God of Israel, the soul in anguish the troubled spirit, crieth unto thee.
 >
-> <sup>[2](/bible/baruch/3#v2)</sup> Hear, O Lord, and have mercy; art thou art merciful: and have pity upon us, because we have sinned before thee.
+> <sup>[2](/bible/baruch/3#v2)</sup> Hear, O Lord, and have mercy; for thou art merciful: and have pity upon us, because we have sinned before thee.
 >
 > <sup>[3](/bible/baruch/3#v3)</sup> For thou endurest for ever, and we perish utterly.
 >

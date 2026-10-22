@@ -215,7 +215,7 @@ Reading from an on-screen chart of the elements in soil and in the human body  *
 
     I will bear the indignation of the Lord, because I have sinned against him. That is taking accountability. Until he plead my cause, and execute judgment for me: he shall bring me forth to the light. Why? Because I do not dodge what I asked for. I asked God to show me my secret faults, and now that he is showing me, this is not the time to start dodging, making excuses, or blaming the brothers for not checking in on me. Take your medicine and move on. I do not judge a person by the infraction so much as by what they do afterwards: do they take their medicine, the scriptures? Big talk means nothing if you ghost as soon as correction comes.
   - **[2 Esdras 2:1](/bible/2-esdras/2#v1)**
-    > <sup>[1](/bible/2-esdras/2#v1)</sup> Thus saith the Lord, I brought this people out of bondage, and I gave them my commandments by menservants the prophets; whom they would not hear, but despised my counsels.
+    > <sup>[1](/bible/2-esdras/2#v1)</sup> Thus saith the Lord, I brought this people out of bondage, and I gave them my commandments by my servants the prophets; whom they would not hear, but despised my counsels.
 
     Precept brought by the captain: I brought this people out of bondage, and gave them my commandments by my servants the prophets, whom they would not hear, but despised my counsels. The counsel the prophets bring out of the scriptures is God's counsel; when you resist it, it is not men you are despising. The carnal man causes you to resist the direction God wants you to grow in.
 
