@@ -642,7 +642,7 @@ Reading from a diagram on the Puerto Rican diaspora  *[[1:48:56](https://www.you
 
 **[2 Esdras 13:12](/bible/2-esdras/13#v12)**  *[[1:56:50](https://www.youtube.com/watch?v=YVvCyl2ZZUQ&t=7010s)]*
 
-> <sup>[12](/bible/2-esdras/13#v12)</sup> Afterward I saw the same man come down from the mountain, and call unto him another peaceable Multitude.
+> <sup>[12](/bible/2-esdras/13#v12)</sup> Afterward saw I the same man come down from the mountain, and call unto him another peaceable Multitude.
 
 - The same man come down from the mountain is Christ, the black Messiah we just read about in Revelation 1, and he calls unto him another peaceable multitude.
 
@@ -692,7 +692,7 @@ Reading from *Lost Tribes and Promised Lands* by Ronald Sanders  *[[1:58:41](htt
 >
 > <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
 >
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >

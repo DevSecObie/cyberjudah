@@ -215,7 +215,7 @@ Reading from a reference entry on the Amalekites (not named on air) · read by a
 
 - So Haman was not a Persian. But Aman, a Macedonian, was ruling in the Persian Empire. He was a second in command, which you know is as the hand of the king.
 
-> <sup>[11](/bible/esther-greek/16#v11)</sup> Had so far forth obtained the favour that we shew toward every nation, as that he was called our father, and was continually honoured of all men as the next person unto the king.
+> <sup>[11](/bible/esther-greek/16#v11)</sup> Had so far forth obtained the favour that we shew toward every nation, as that he was called our father, and was continually honoured of all the next person unto the king.
 
 - So he was continually honored of all men as next person to the king.
 
@@ -297,7 +297,7 @@ Reading from *A General History of Europe*, page 124 called for, the section num
 
 **[Judith 5:20](/bible/judith/5#v20)**  *[[43:26](https://www.youtube.com/watch?v=mgQLdgfPVEs&t=2606s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - If they sin against their God, let us consider that this shall be their ruin. You think that Esau didn't understand? They understand our power source. They understand our connection to the Lord, the Father. That's why he had hatred for us. They carried on that hatred throughout centuries, throughout their lineage. It's always been an internal conflict because of the birthright. They feel that they deserved it over us, even though their father was rejected and he sold his birthright. So they carry that hatred all throughout history with them, and they never forgot it. So they understood our connection. They understood: these people go off, they're going to sin; let it be their what? Let it be their ruin.
 
@@ -775,7 +775,7 @@ Reading from *Before the Mayflower*, on Nat Turner · read by an officer  *[[1:3
 
 - And two of them led the Jews. What you realize, brothers and sisters: there's more with us than it's with them. It's a fixed battle, and we already won. Because Christ and the angels, as we're fighting: Christ, Michael, Gabriel, all the archangels, the seven angels are going around the earth, that's fighting for us and spreading the word. When a bishop speaks, when a deacon speaks, when a captain speaks, the word is activated, and it's spread throughout the earth. And that's why people are waking up. You don't see it. That's why it says not one drop of this word shall go void. The word doesn't go out void. You know why it doesn't go out void? Because the angels, soon as we speak the words, the words are activated. The angels carry the words through your radio stations. The angels carry the words through your YouTube, your Facebook. The angels carry the word, and carry it to the right people. Those are the angels activated, and bringing the word of God all throughout the four corners of the earth. That's their job. So that's why the Bible says fear not. Don't worry: Christ understands that America is trying to withstand Christ. So Christ said, oh, get my other angels, activate them, send them here: send them to China, send them to Japan, send them to India, send them to France, send them to Russia, send them to Europe, send them to Africa. And this whole earth is covered.
 
-> <sup>[30](/bible/2-maccabees/10#v30)</sup> And took Maccabeus betwixt them, and covered him on every side with their weapons, and kept him safe, but shot arrows and lightnings against the enemies: so that being confounded with blindness, and full of trouble, they were killed.
+> <sup>[30](/bible/2-maccabees/10#v30)</sup> And took Maccabeus betwixt them, and covered him on every side weapons, and kept him safe, but shot arrows and lightnings against the enemies: so that being confounded with blindness, and full of trouble, they were killed.
 
 - And covered them every side with the weapons. You know this, brothers and sisters: don't be scared. Go out and fight. I'll say it again: you know this. Why be scared? It's more with us than it's with them. They got their guns, they got their swords. To hell with their guns and their swords; Christ made all these things.
 

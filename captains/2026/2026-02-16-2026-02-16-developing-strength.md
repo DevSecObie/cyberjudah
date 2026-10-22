@@ -301,7 +301,7 @@ Reading from *The Historical Bible: The Kings and Prophets of Israel and Judah* 
 
 **[2 Esdras 16:40-42](/bible/2-esdras/16#v40)**  *[[26:01](https://www.youtube.com/watch?v=p558OdxS6oQ&t=1561s)]*
 
-> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to the battle, and in those evils be even as pilgrims upon the earth.
+> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to thy battle, and in those evils be even as pilgrims upon the earth.
 >
 > <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
 >

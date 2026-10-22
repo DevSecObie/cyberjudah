@@ -562,9 +562,9 @@ Reading from *If I Perish, I Perish* by W. Ian Thomas, on Haman and Herod  *[[1:
 
 **[1 Maccabees 16:1-3](/bible/1-maccabees/16#v1)**  *[[1:40:02](https://www.youtube.com/watch?v=2CWo_qkjuIw&t=6002s)]*
 
-> <sup>[1](/bible/1-maccabees/16#v1)</sup> Then came up John from Gazara, and told Simon his father what Cendebeus had done.
+> <sup>[1](/bible/1-maccabees/16#v1)</sup> Then came up John from Gazera, and told Simon his father what Cendebeus had done.
 >
-> <sup>[2](/bible/1-maccabees/16#v2)</sup> Wherefore Simon called his two eldest sons, Judas and John, and said unto them, I, and my brethren, and my father’s house, have ever from our youth unto this day fought against the enemies of Israel; and things have prospered so well in our hands, that we have delivered Israel oftentimes.
+> <sup>[2](/bible/1-maccabees/16#v2)</sup> Wherefore Simon called his two eldest sons, Judas and John, and said unto them, I, and my brethren, and my father’s house, have ever from my youth unto this day fought against the enemies of Israel; and things have prospered so well in our hands, that we have delivered Israel oftentimes.
 
 - That's why the leadership said the other day that this truth is a young man's game. After a while the leadership gets up in age, and they're the ones that's giving us the wisdom in order to guide us. But we are young, energetic. That's why Paul said, ye are young men. So it's up to you young men to learn the scriptures. Don't take this for granted. Learn the scripture, study, and go teach your people, because you have the energy, you have the drive, you have the zeal. As you get older, things tend to slow down. Go on.
 

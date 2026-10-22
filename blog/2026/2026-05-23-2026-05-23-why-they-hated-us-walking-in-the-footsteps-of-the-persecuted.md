@@ -291,7 +291,7 @@ Reading from on-screen text on reparations and the January 6th fund  *[[1:10:16]
 >
 > <sup>[11](/bible/wisdom-of-solomon/12#v11)</sup> For it was a cursed seed from the beginning; neither didst thou for fear of any man give them pardon for those things wherein they sinned.
 >
-> <sup>[12](/bible/wisdom-of-solomon/12#v12)</sup> For who shall say, What hast thou done? or who shall withstand thy judgment? or who shall accuse thee for the nations that perish, whom thou hast made? or who shall come to stand against thee, to be revenged for the unrighteous men?
+> <sup>[12](/bible/wisdom-of-solomon/12#v12)</sup> For who shall say, What hast thou done? or who shall withstand thy judgment? or who shall accuse thee for the nations that perish, whom thou made? or who shall come to stand against thee, to be revenged for the unrighteous men?
 >
 > <sup>[13](/bible/wisdom-of-solomon/12#v13)</sup> For neither is there any God but thou that careth for all, to whom thou mightest shew that thy judgment is not unright.
 >

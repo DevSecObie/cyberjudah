@@ -223,7 +223,7 @@ Happy Passover. This Passover is in remembrance of us being delivered out of Egy
 
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
 >
-> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of Sinai where I held him by me a long season,
+> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
 >
 > <sup>[5](/bible/2-esdras/14#v5)</sup> And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
 
@@ -539,7 +539,7 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 
 **[2 Esdras 9:11-12](/bible/2-esdras/9#v11)**  *[[2:23:34](https://www.youtube.com/watch?v=VyDEbsxgcas&t=8614s)]*
 
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 >
 > <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 
@@ -633,7 +633,7 @@ Reading from a definition of Egypt  *[[54:52](https://www.youtube.com/watch?v=Vy
 >
 > <sup>[28](/bible/baruch/4#v28)</sup> For as it was your mind to go astray from God: so, being returned, seek him ten times more.
 >
-> <sup>[29](/bible/baruch/4#v29)</sup> For he that hath brought these plagues upon you shall bring you everlasting joy again with your salvation.
+> <sup>[29](/bible/baruch/4#v29)</sup> For he that hath brought these plagues upon you shall bring you everlasting joy with your salvation.
 >
 > <sup>[30](/bible/baruch/4#v30)</sup> Take a good heart, O Jerusalem: for he that gave thee that name will comfort thee.
 >

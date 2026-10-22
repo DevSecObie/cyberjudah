@@ -101,7 +101,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "false-religion", "pas
 >
 > <sup>[15](/bible/2-esdras/12#v15)</sup> Whereof the second shall begin to reign, and shall have more time than any of the twelve.
 >
-> <sup>[18](/bible/2-esdras/12#v18)</sup> That after the time of that kingdom there shall arise great strivings, and it shall stand in peril of falling: nevertheless it shall not then fall, but shall be restored again to his beginning.
+> <sup>[18](/bible/2-esdras/12#v18)</sup> That after the time of that kingdom there shall arise great strivings, and it shall stand in peril of failing: nevertheless it shall not then fall, but shall be restored again to his beginning.
 >
 > <sup>[21](/bible/2-esdras/12#v21)</sup> And two of them shall perish, the middle time approaching: four shall be kept until their end begin to approach: but two shall be kept unto the end.
 
@@ -304,7 +304,7 @@ Reading from *Art Treasures of Russia*  *[[36:22](https://www.youtube.com/watch?
 >
 > <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
 >
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >

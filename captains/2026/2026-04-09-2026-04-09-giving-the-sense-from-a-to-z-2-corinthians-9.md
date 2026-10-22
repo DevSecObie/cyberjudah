@@ -258,7 +258,7 @@ tags: ["15 Minutes w/ The Captains", "pride"]
 >
 > <sup>[9](/bible/tobit/4#v9)</sup> For thou layest up a good treasure for thyself against the day of necessity.
 >
-> <sup>[10](/bible/tobit/4#v10)</sup> Because that alms do deliver from death, and suffer not to come into darkness.
+> <sup>[10](/bible/tobit/4#v10)</sup> Because that alms do deliver from death, and suffereth not to come into darkness.
 
 - Give alms of thy substance; and when thou givest alms, let not thine eye be envious: So this is what Paul has really been going over in these first six verses, right?
 

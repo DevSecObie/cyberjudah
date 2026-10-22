@@ -571,7 +571,7 @@ Reading from *Trauma Letters*  *[[1:33:36](https://www.youtube.com/watch?v=sswMP
 
 **[1 Maccabees 3:43](/bible/1-maccabees/3#v43)**  *[[1:35:39](https://www.youtube.com/watch?v=sswMP7Skv-4&t=5739s)]*
 
-> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed estate of our people, and let us fight for our people and the sanctuary.
+> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed fortune of our people, and let us fight for our people and the sanctuary.
 
 - They said one to another, Let us restore the decayed estate of our people, and let us fight for our people. That is our mission, brothers: we have to restore the decayed state of our people. That is why we have to learn this terminology, learn the word of God, apply it to our lives, and go out and teach our people.
 

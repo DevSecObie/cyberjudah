@@ -576,7 +576,7 @@ Reading from an on-screen post  *[[69:02](https://www.youtube.com/watch?v=ZnReLw
 >
 > <sup>[17](/bible/2-esdras/12#v17)</sup> As for the voice which thou heardest speak, and that thou sawest not to go out from the heads but from the midst of the body thereof, this is the interpretation:
 >
-> <sup>[18](/bible/2-esdras/12#v18)</sup> That after the time of that kingdom there shall arise great strivings, and it shall stand in peril of falling: nevertheless it shall not then fall, but shall be restored again to his beginning.
+> <sup>[18](/bible/2-esdras/12#v18)</sup> That after the time of that kingdom there shall arise great strivings, and it shall stand in peril of failing: nevertheless it shall not then fall, but shall be restored again to his beginning.
 >
 > <sup>[19](/bible/2-esdras/12#v19)</sup> And whereas thou sawest the eight small under feathers sticking to her wings, this is the interpretation:
 >
@@ -967,7 +967,7 @@ Reading from on-screen notes on the United States Senate  *[[133:57](https://www
 >
 > <sup>[29](/bible/1-maccabees/8#v29)</sup> According to these articles did the Romans make a covenant with the people of the Jews.
 >
-> <sup>[30](/bible/1-maccabees/8#v30)</sup> Howbeit if hereafter the one party or the other shall think meet to add or diminish any thing, they may do it at their pleasures, and whatsoever they shall add or take away shall be ratified.
+> <sup>[30](/bible/1-maccabees/8#v30)</sup> Howbeit if hereafter the one party or the other shall think to meet to add or diminish any thing, they may do it at their pleasures, and whatsoever they shall add or take away shall be ratified.
 
 - These are the articles of war; write that down. This is where America gets it from. If there come first any war upon the Romans or any of their confederates, the people of the Jews shall help them with all their heart, and shall not give anything unto them that make war upon them, or aid them with victuals, weapons, money or ships. You cannot aid our enemies with food, weapons, money or ships. In the same manner, if war come first upon the nation of the Jews, the Romans shall help them with all their heart. Remember the NATO articles: if you hit one NATO nation, all the other NATO nations must help. This is where they get it from.
 - According to these articles did the Romans make a covenant with the people of the Jews. Howbeit, if hereafter the one party or the other shall think meet to add or diminish anything, they may do it at their pleasure. You see the trick bag? So today America bombs Iran, then tells NATO, you are supposed to come help me. They said no, that is not in the articles; the articles are if any of us are attacked. Iran did not attack America; America attacked Iran. Spain said no, Germany said no, France said no, Britain said no, because you are wrong.
@@ -1323,13 +1323,13 @@ Reading from a news report on migrants sold in Tunisia  *[[154:12](https://www.y
 
 > <sup>[46](/bible/2-esdras/15#v46)</sup> And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
 >
-> <sup>[47](/bible/2-esdras/15#v47)</sup> Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have alway desired to commit whoredom with thee.
+> <sup>[47](/bible/2-esdras/15#v47)</sup> Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have always desired to commit whoredom with thee.
 >
 > <sup>[48](/bible/2-esdras/15#v48)</sup> Thou hast followed her that is hated in all her works and inventions: therefore saith God,
 >
 > <sup>[49](/bible/2-esdras/15#v49)</sup> I will send plagues upon thee; widowhood, poverty, famine, sword, and pestilence, to waste thy houses with destruction and death.
 >
-> <sup>[50](/bible/2-esdras/15#v50)</sup> And the glory of thy Power shall be dried up as a flower, when the heat shall arise that is sent over thee.
+> <sup>[50](/bible/2-esdras/15#v50)</sup> And the glory of thy Power shall be dried up as a flower, the heat shall arise that is sent over thee.
 >
 > <sup>[51](/bible/2-esdras/15#v51)</sup> Thou shalt be weakened as a poor woman with stripes, and as one chastised with wounds, so that the mighty and lovers shall not be able to receive thee.
 >

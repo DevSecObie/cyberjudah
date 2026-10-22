@@ -186,7 +186,7 @@ Reading from *Southern Literary Messenger*, 1860, continued · read by a brother
 
 **[2 Maccabees 6:7](/bible/2-maccabees/6#v7)**  *[[31:58](https://www.youtube.com/watch?v=GXNEH-m-9gc&t=1918s)]*
 
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 
 - The Jews were compelled to go in procession. To go to what procession? To Bacchus, carrying ivy. Different captivity, same people repeating the same actions in different captivities. So the Negroes under the ancient Egyptian captivity, guess what? Under the religious processions. That goes back into the worship of their ancient Egyptian gods. That's all. So we went to procession for Ra, all the gods, the crocodiles. So it's the same thing that we did in each captivity: we went in procession during their religious ceremonies. Now let's go back.
 

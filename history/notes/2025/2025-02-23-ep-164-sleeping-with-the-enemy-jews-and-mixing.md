@@ -736,7 +736,7 @@ Reading from *History of the Jews* by Hannah Adams, pages 367 and 368  *[[1:44:5
 
 **[2 Maccabees 6:6](/bible/2-maccabees/6#v6)**  *[[1:53:37](https://www.youtube.com/watch?v=DMK80Twp1SM&t=6817s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 
 - The Greeks enacted a law not to call ourselves Jews. So we became what? Greeks. The same Greeks that Paul wrote to in the New Testament is who we're referring to right here. We cannot call ourselves Jews, and we became Greeks and Grecians, and in this time Portuguese and Spanish, or Ladinos. Same thing. Same exact thing. Now give me Sirach 12. Sirach chapter 12 and verse 10.
 

@@ -520,7 +520,7 @@ Reading from *The Epistle Dedicatory* of the King James Bible, the translators' 
 
 - Without the Bible.
 
-> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the works that shall begin.
+> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the work that shall begin.
 
 - Cuz the Babylonians burnt our books, our laws.
 

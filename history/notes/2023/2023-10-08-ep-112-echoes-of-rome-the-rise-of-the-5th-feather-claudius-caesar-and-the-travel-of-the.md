@@ -1153,7 +1153,7 @@ Reading from *A Tropical Dependency*, page 94, on the people of Ghana  *[[1:51:4
 
 **[2 Esdras 13:43](/bible/2-esdras/13#v43)**  *[[1:55:00](https://www.youtube.com/watch?v=snJYKEYNOjA&t=6900s)]*
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
 
 - **An officer:** Into where? Euphrates. So the northern kingdom was coming from the Euphrates. Why? They was in that area. So it's telling you that over there, the people that came from that land was Israelites. From where? Remember the Assyrian captivity, right? So between, guess what's between the Tigris and the Euphrates River. Where? Where did that other, bro, now I don't know where you going. You should have kept the map that we had. Thank you. Blow it up right there. What's between the Euphrates and the Tigris River? Assyria. Remember, they took us out our land. So it's not far-fetched. They took us out our land and put us in the Assyrians' land. Okay.
 

@@ -278,7 +278,7 @@ tags: ["IUIC in the ClassRoom", "endurance", "false-religion", "marriage-family"
 
 **[Tobit 10:12](/bible/tobit/10#v12)**  *[[1:10:37](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=4237s)]*
 
-> <sup>[12](/bible/tobit/10#v12)</sup> And he said to his daughter, Honour thy father and thy mother in law, which are now thy parents, that I may hear good report of thee. And he kissed her. Edna also said to Tobias, The Lord of heaven restore thee, my dear brother, and grant that I may see thy children of my daughter Sara before I die, that I may rejoice before the Lord: behold, I commit my daughter unto thee of special trust; wherefore do not entreat her evil.
+> <sup>[12](/bible/tobit/10#v12)</sup> And he said to his daughter, Honour thy father and thy mother in law, which are now thy parents, that I may hear good report of thee. And he kissed her. Edna also said to Tobias, The Lord of heaven restore thee, my dear brother, and grant that I may see thy children of my daughter Sara before I die, that I may rejoice before the Lord: behold, I commit my daughter unto thee of special trust; where are do not entreat her evil.
 
 - An officer: the Bible has report cards. When fathers and mothers are at work or out doing the work of the Lord, you want a good report, even after you marry and your in-laws become your parents. The father seals the instruction in his children so he can hear a good report of them.
 
@@ -435,7 +435,7 @@ tags: ["IUIC in the ClassRoom", "endurance", "false-religion", "marriage-family"
 
 **[2 Esdras 9:11](/bible/2-esdras/9#v11)**  *[[2:06:48](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=7608s)]*
 
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 
 - The place of repentance is open now. If you loathe the law while you have liberty, you'll know it after death by pain: that's being blinded and learning the hard way, through eternal fire.
 

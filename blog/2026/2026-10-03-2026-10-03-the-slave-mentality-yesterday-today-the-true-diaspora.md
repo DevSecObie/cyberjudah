@@ -1074,7 +1074,7 @@ Reading from a definition of heritage  *[[2:20:36](https://www.youtube.com/watch
 
 **[2 Maccabees 6:6](/bible/2-maccabees/6#v6)**  *[[2:23:29](https://www.youtube.com/watch?v=PkFnZPllE5w&t=8609s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 
 - The Greeks made it unlawful to keep the sabbath days, the ancient feasts, or to profess himself at all to be a Jew.
 

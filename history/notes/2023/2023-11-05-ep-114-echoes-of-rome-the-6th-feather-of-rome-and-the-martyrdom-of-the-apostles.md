@@ -578,7 +578,7 @@ Reading from *The Early Christians in Rome* by H. D. M. Spence-Jones, page 29, c
 
 - **Deacon Eythan:** That's right.
 
-> <sup>[38](/bible/2-maccabees/7#v38)</sup> And that in me and my brethren the wrath of the Almighty, which is justly brought upon all our nation, may cease.
+> <sup>[38](/bible/2-maccabees/7#v38)</sup> And that in me and my brethren the wrath of the Almighty, which is justly brought upon our nation, may cease.
 
 - **Officer:** So that's why Leviticus says you have to accept our punishment. We deserve that punishment, because the Lord's judgments is just. You understand? We deserve that. So we have to admit that, so the Lord continue to have mercy upon us.
 

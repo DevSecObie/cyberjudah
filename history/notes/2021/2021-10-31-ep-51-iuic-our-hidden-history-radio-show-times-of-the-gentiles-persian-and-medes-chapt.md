@@ -1038,7 +1038,7 @@ Reading from *Nelson's Bible Maps*, the bottom of page 156 and page 158 · read 
 
 **[Sirach 44:4](/bible/sirach/44#v4)**  *[[2:16:33](https://www.youtube.com/watch?v=EdiO6Kw1Y14&t=8193s)]*
 
-> <sup>[4](/bible/sirach/44#v4)</sup> Leaders of the people by their counsels, and by their knowledge of learning meet for the people, wise and eloquent in their instructions:
+> <sup>[4](/bible/sirach/44#v4)</sup> Leaders of the people by their counsels, and by their knowledge of learning meet for the people, wise and eloquent are their instructions:
 
 - So it says leaders of the people by their council. In order to lead a people, you have to know how to lead the people. There's instruction down, set up. Because think about it: we don't know how to properly lead the people. Everything that we know was what America taught us. America taught us to destroy our people. They taught us to be individuals. They told us to be selfish, so self-serving. So the Bible says leaders of the people by their counsels. They will have the understanding, the wisdom and knowledge to go into the Bible and to unify the people. What unifies the people? The laws of God. Thou shalt not kill, that's when I still, that's what I commit adultery. Applying the laws of marriage. Building the black house again. So these people have the wisdom and knowledge how to build the family, how to build men, how to build women, how to build children. And from there you have a nation. How to instruct them, how to bring back nationhood, how to bring back their holidays, their customs, their culture, the dietary laws, the clothing that they used to wear, what their fathers look like, their ancestors. So all this, you have to have the knowledge and wisdom of the Bible in order to properly, got it.
 

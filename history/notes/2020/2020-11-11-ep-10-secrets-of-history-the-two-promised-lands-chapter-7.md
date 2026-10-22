@@ -595,7 +595,7 @@ Reading from the book on the origins of the American Indians covering 1492 to 17
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[1:01:37](https://www.youtube.com/watch?v=c4WvaukmNj0&t=3697s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 >
 > <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
 
@@ -605,7 +605,7 @@ Reading from the book on the origins of the American Indians covering 1492 to 17
 
 **[Judith 11:10](/bible/judith/11#v10)**  *[[1:02:18](https://www.youtube.com/watch?v=c4WvaukmNj0&t=3738s)]*
 
-> <sup>[10](/bible/judith/11#v10)</sup> Therefore, O lord and governor, reject not his word; but lay it up in thine heart, for it is true: for our nation shall not be punished, neither can the sword prevail against them, except they sin against their God.
+> <sup>[10](/bible/judith/11#v10)</sup> Therefore, O lord and governor, respect not his word; but lay it up in thine heart, for it is true: for our nation shall not be punished, neither can sword prevail against them, except they sin against their God.
 
 - *[[1:02:25](https://www.youtube.com/watch?v=c4WvaukmNj0&t=3745s)]* See, that's what Judah said. We cannot fall unless, unless we go against our God. And the heathen understood that also. They under, they even understand that also. Let's get there. Go, go back. When they came in, they make sure they force the Indians to get that Christianity.
 

@@ -434,7 +434,7 @@ Reading from the same article, on Thomas Carte and the Book of Llandaff · read 
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[55:05](https://www.youtube.com/watch?v=fziNo8Jk6E0&t=3305s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - Right? Certain ungodly persons that hated their own people. This is who you apologists are. Y'all hate your own people. Anything we bring out about upliftment of our people: we ruled, we black, Christ is a black man. How y'all come behind that and try to tear that down? That don't make no sense.
 

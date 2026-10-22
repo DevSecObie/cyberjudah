@@ -26,7 +26,7 @@ tags: ["Our Hidden History", "nations"]
 
 **[2 Maccabees 4:21](/bible/2-maccabees/4#v21)**  *[[23:48](https://www.youtube.com/watch?v=xYMGPWBMTVw&t=1428s)]*
 
-> <sup>[21](/bible/2-maccabees/4#v21)</sup> Now when Apollonius the son of Menestheus was sent into Egypt for the coronation of king Ptolemeus Philometor, Antiochus, understanding him not to be well affected to his affairs, provided for his own safety: whereupon he came to Joppe, and from thence to Jerusalem:
+> <sup>[21](/bible/2-maccabees/4#v21)</sup> Now when Apollonius the son of Menestheus was sent into Egypt for the coronation of king Ptolemeus Philometor, Antiochus, understanding him not to be well affected to his affairs, provided for his own safety: whereupon he came to Joppa, and from thence to Jerusalem:
 
 - So, so says Ptolemy is Philometor, Ptolemy's still a meter, is Ptolemy is Philometor the sixth. He is the son of Ptolemy the Fifth Epiphanies. He is the son of Ptolemy the Fifth Epiphanies. All right, that's who he is. So during his coronation, or when he was being basically made king, during his time of being made king, he realized that antioch, antagonist realized that there was some kind of issue he had with him. So that's pretty much that. I'm just giving you details as behind who's behind these Ptolemies and these names.
 
@@ -190,7 +190,7 @@ Reading from amazingbible timeline.com, on the Jews under Ptolemy's rule  *[[25:
 
 - Right. So this is, it's us trying to establish a relationship with the Romans to conquer the Greeks. Lesser of two evils. And also to establish our former friendship, or relationship, with the la, with the Spartans, that have been established during the time of, of Onions. Read on, verse six.
 
-> <sup>[6](/bible/1-maccabees/12#v6)</sup> Jonathan the high priest, and the elders of the nation, and the priests, and the other people of the Jews, unto the Lacedemonians their brethren send greeting:
+> <sup>[6](/bible/1-maccabees/12#v6)</sup> Jonathan the high priest, and the elders of the nation, and the priests, and the other of the Jews, unto the Lacedemonians their brethren send greeting:
 
 - So Jonathan says the Last Demonians are the Jews' brethren, because the Spartans were Israelites too. They were Israelites as well. You watch that movie 300, with Leonidas and, and all the mother dudes, those are, those supposed to be black people. When you go to the actual comic strip, drawn by, what's his name, Miller, Frank Miller, Frank Miller, Frank Miller, they have braids, they have Negro features, everything. Right, all, all in that, on the comic strip. The movie made them white, but when you go to the comic strip they're drawn with cornrows, all of that stuff, Negro features. Oh, they know the Spartans are black. Okay.
 
@@ -208,7 +208,7 @@ Reading from amazingbible timeline.com, on the Jews under Ptolemy's rule  *[[25:
 
 - **A co-host:** Yes.
 
-> <sup>[9](/bible/1-maccabees/12#v9)</sup> Therefore we also, albeit we need none of these things, for that we have the holy books of scripture in our hands to comfort us,
+> <sup>[9](/bible/1-maccabees/12#v9)</sup> Therefore we also, albeit we need none of these things, that we have the holy books of scripture in our hands to comfort us,
 >
 > <sup>[10](/bible/1-maccabees/12#v10)</sup> Have nevertheless attempted to send unto you for the renewing of brotherhood and friendship, lest we should become strangers unto you altogether: for there is a long time passed since ye sent unto us.
 
@@ -242,7 +242,7 @@ Reading from amazingbible timeline.com, on the Jews under Ptolemy's rule  *[[25:
 
 - So I fought for our brothers. These are Jews, but they had Greek names. Great. They had one, his name was Antipater, one's name was Numenius, one name was Antiochus. Damn.
 
-> <sup>[17](/bible/1-maccabees/12#v17)</sup> We commanded them also to go unto you, and to salute you and to deliver you our letters concerning the renewing of our brotherhood.
+> <sup>[17](/bible/1-maccabees/12#v17)</sup> We commanded them also to go unto you, and to salute and to deliver you our letters concerning the renewing of our brotherhood.
 
 - So these guys are the ones that were sent by Jonathan to these, to bring these letters to the Spartans, to remind them of our friendship and our brotherhood and our family ties. Okay, that should remain.
 
@@ -718,7 +718,7 @@ Reading from Wikipedia, the etymology of kippah  *[[1:24:00](https://www.youtube
 >
 > <sup>[20](/bible/2-maccabees/4#v20)</sup> This money then, in regard of the sender, was appointed to Hercules’ sacrifice; but because of the bearers thereof, it was employed to the making of gallies.
 >
-> <sup>[21](/bible/2-maccabees/4#v21)</sup> Now when Apollonius the son of Menestheus was sent into Egypt for the coronation of king Ptolemeus Philometor, Antiochus, understanding him not to be well affected to his affairs, provided for his own safety: whereupon he came to Joppe, and from thence to Jerusalem:
+> <sup>[21](/bible/2-maccabees/4#v21)</sup> Now when Apollonius the son of Menestheus was sent into Egypt for the coronation of king Ptolemeus Philometor, Antiochus, understanding him not to be well affected to his affairs, provided for his own safety: whereupon he came to Joppa, and from thence to Jerusalem:
 >
 > <sup>[22](/bible/2-maccabees/4#v22)</sup> Where he was honourably received of Jason, and of the city, and was brought in with torch alight, and with great shoutings: and so afterward went with his host unto Phenice.
 

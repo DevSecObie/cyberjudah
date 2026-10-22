@@ -374,7 +374,7 @@ Reading from NewsBreak, on Iran and US forces in Iraq  *[[42:33](https://www.you
 >
 > <sup>[19](/bible/2-esdras/16#v19)</sup> Behold, famine and plague, tribulation and anguish, are sent as scourges for amendment.
 >
-> <sup>[20](/bible/2-esdras/16#v20)</sup> But for all these things they shall not turn from their wickedness, nor be alway mindful of the scourges.
+> <sup>[20](/bible/2-esdras/16#v20)</sup> But for all these things they shall not turn from their wickedness, nor be always mindful of the scourges.
 
 - You're seeing pestilence and famine upon this earth, and the Most High God is trying to wake up the so-called blacks, Hispanics and Native Americans to get right and keep his commandments.
 

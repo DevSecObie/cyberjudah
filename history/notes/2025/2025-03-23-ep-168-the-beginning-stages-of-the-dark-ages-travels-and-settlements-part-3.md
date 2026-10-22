@@ -724,7 +724,7 @@ Reading from a book in Spanish, translated, on the Hebrew inscriptions of Quisqu
 
 - That they might there keep their statutes. Because after a while we stopped doing it, for the most part. They started to go into idolatry. They brought idolatry over here. Which they never kept in their own land, in northern kingdom, in Samaria.
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
 
 - Why? Because during Solomon's travels we sailed to Euphrates. We knew it well.
 

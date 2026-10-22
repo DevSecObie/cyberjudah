@@ -537,7 +537,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 > <sup>[5](/bible/2-esdras/3#v5)</sup> And gavest a body unto Adam without soul, which was the workmanship of thine hands, and didst breathe into him the breath of life, and he was made living before thee.
 >
-> <sup>[6](/bible/2-esdras/3#v6)</sup> And thou leddest him into paradise, which thy right hand had planted, before ever the earth came forward.
+> <sup>[6](/bible/2-esdras/3#v6)</sup> And thou leadest him into paradise, which thy right hand had planted, before ever the earth came forward.
 >
 > <sup>[7](/bible/2-esdras/3#v7)</sup> And unto him thou gavest commandment to love thy way: which he transgressed, and immediately thou appointedst death in him and in his generations, of whom came nations, tribes, people, and kindreds, out of number.
 >

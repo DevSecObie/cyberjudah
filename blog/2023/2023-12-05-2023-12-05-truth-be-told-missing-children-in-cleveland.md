@@ -191,7 +191,7 @@ Reading from Children of God's Fire  *[[39:32](https://www.youtube.com/watch?v=q
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[54:28](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3268s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - Ungodly persons, who hated their own people, went unto the king and told him that Jonathan besieged the tower: always somebody speaking evil about the Bishop. That's a sucker spirit, and they're ungodly because they don't keep God's laws.
 

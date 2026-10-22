@@ -315,7 +315,7 @@ tags: ["IUIC in the ClassRoom", "health", "leadership", "sabbath", "the-law"]
 
 > <sup>[36](/bible/1-maccabees/2#v36)</sup> Howbeit they answered them not, neither cast they a stone at them, nor stopped the places where they lay hid;
 >
-> <sup>[37](/bible/1-maccabees/2#v37)</sup> But said, Let us die all in our innocency: heaven and earth shall testify for us, that ye put us to death wrongfully.
+> <sup>[37](/bible/1-maccabees/2#v37)</sup> But said, Let us die all in our innocency: heaven and earth will testify for us, that ye put us to death wrongfully.
 >
 > <sup>[38](/bible/1-maccabees/2#v38)</sup> So they rose up against them in battle on the sabbath, and they slew them, with their wives and children and their cattle, to the number of a thousand people.
 

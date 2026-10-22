@@ -83,7 +83,7 @@ tags: ["IUIC in the ClassRoom", "christ", "edom-esau"]
 
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[35:58](https://www.youtube.com/watch?v=uXeqc75txGk&t=2158s)]*
 
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - Certain ungodly persons who hated their own people went to the king and betrayed Jonathan. The young man willing to deport his parents is one of them.
 

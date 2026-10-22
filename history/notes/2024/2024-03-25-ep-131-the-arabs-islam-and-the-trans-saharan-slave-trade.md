@@ -173,7 +173,7 @@ Reading from a video posted on Instagram by a sister, a doctor of history, on th
 
 **[2 Esdras 13:43](/bible/2-esdras/13#v43)**  *[[16:30](https://www.youtube.com/watch?v=rGXI-MGM3WQ&t=990s)]*
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
 
 - **Another officer:** Why did they enter in through the Euphrates? Because they were dwelling in that area, just like we just read about the Fulani. They said we came between Euphrates and Tigris. So northern kingdom didn't just only come to America. A lot of them did end up staying in that region, and they travel down into Africa. Thus come the Fulani and other tribes.
 

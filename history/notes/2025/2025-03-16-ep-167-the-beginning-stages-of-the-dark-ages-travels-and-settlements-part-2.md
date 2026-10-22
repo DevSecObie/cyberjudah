@@ -171,7 +171,7 @@ Reading from *Caesar and Christ*, page 39, on the Latins and the Phoenicians of 
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[19:20](https://www.youtube.com/watch?v=xAUWuI3rm6Q&t=1160s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 >
 > <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
 

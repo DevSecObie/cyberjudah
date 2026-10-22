@@ -46,7 +46,7 @@ Reading from View of the Hebrews, page 115, Dr. Boudinot  *[[3:36](https://www.y
 
 **[2 Maccabees 8:36](/bible/2-maccabees/8#v36)**  *[[6:44](https://www.youtube.com/watch?v=ZEkyw3JFH_A&t=404s)]*
 
-> <sup>[36](/bible/2-maccabees/8#v36)</sup> Thus he, that took upon him to make good to the Romans their tribute by means of the captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
+> <sup>[36](/bible/2-maccabees/8#v36)</sup> Thus he, that took upon him to make good to the Romans their tribute by means of captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
 
 - The heathen told it about us, like the Ammonite told Holofernes in Judith 5: the Jews had God to fight for them and could not be hurt because they followed the laws he gave them. When we go against that book we get problems; that's why they suffered exceedingly from the neighboring nations.
 

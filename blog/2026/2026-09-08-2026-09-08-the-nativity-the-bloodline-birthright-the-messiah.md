@@ -109,9 +109,9 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 **[2 Maccabees 6:6-7](/bible/2-maccabees/6#v6)**  *[[1:34:58](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=5698s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 >
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 
 - When the feast of Bacchus was kept, the Jews were compelled to go in procession carrying ivy; the wreaths of ivy and flowers on the head were the Greek dress for it, and the same wreath hangs on the Christmas door today.
 
@@ -405,7 +405,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 >
 > <sup>[2](/bible/tobit/1#v2)</sup> Who in the time of Enemessar king of the Assyrians was led captive out of Thisbe, which is at the right hand of that city, which is called properly Nephthali in Galilee above Aser.
 >
-> <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the way of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
+> <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the ways of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
 
 - Tobit of the tribe of Naphtali was carried captive by Shalmaneser to Nineveh; he walked in truth and gave alms to his brethren who came with him into the land of the Assyrians.
 
@@ -443,7 +443,7 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 >
 > <sup>[9](/bible/tobit/2#v9)</sup> The same night also I returned from the burial, and slept by the wall of my courtyard, being polluted and my face was uncovered:
 >
-> <sup>[10](/bible/tobit/2#v10)</sup> And I knew not that there were sparrows in the wall, and mine eyes being open, the sparrows muted warm dung into mine eyes, and a whiteness came into mine eyes: and I went to the physicians, but they helped me not: moreover Achiacharus did nourish me, until I went into Elymais.
+> <sup>[10](/bible/tobit/2#v10)</sup> And I knew not that there were sparrows in the wall, and mine eyes being open, the sparrows muted warm dung into mine eyes, and a whiteness came in mine eyes: and I went to the physicians, but they helped me not: moreover Achiacharus did nourish me, until I went into Elymais.
 
 - Home again with Anna and Tobias, he kept the feast of Pentecost in captivity; you cannot keep the feasts in Jerusalem from Nineveh, so he kept them where he was, as we do.
 

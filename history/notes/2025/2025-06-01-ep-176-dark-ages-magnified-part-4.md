@@ -255,7 +255,7 @@ Reading from *A Universal History*, volume 19, pages 77 and 78, on the Druids ·
 
 **[1 Maccabees 12:9-11](/bible/1-maccabees/12#v9)**  *[[27:06](https://www.youtube.com/watch?v=yHgJDLC9Erg&t=1626s)]*
 
-> <sup>[9](/bible/1-maccabees/12#v9)</sup> Therefore we also, albeit we need none of these things, for that we have the holy books of scripture in our hands to comfort us,
+> <sup>[9](/bible/1-maccabees/12#v9)</sup> Therefore we also, albeit we need none of these things, that we have the holy books of scripture in our hands to comfort us,
 >
 > <sup>[10](/bible/1-maccabees/12#v10)</sup> Have nevertheless attempted to send unto you for the renewing of brotherhood and friendship, lest we should become strangers unto you altogether: for there is a long time passed since ye sent unto us.
 

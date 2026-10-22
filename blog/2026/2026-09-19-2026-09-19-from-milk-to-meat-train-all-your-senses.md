@@ -802,7 +802,7 @@ Reading from a definition of cogitation  *[[1:31:18](https://www.youtube.com/wat
 
 **[Sirach 1:19](/bible/sirach/1#v19)**  *[[2:01:27](https://www.youtube.com/watch?v=kw1RCi6Wuzk&t=7287s)]*
 
-> <sup>[19](/bible/sirach/1#v19)</sup> Wisdom raineth down skill and knowledge of understanding, and exalteth them to honour that hold her fast.
+> <sup>[19](/bible/sirach/1#v19)</sup> Wisdom raineth down skill and knowledge of understanding standing, and exalteth them to honour that hold her fast.
 
 - Right. Having that skill, that voice, that tongue seasoned to know how to speak. How do you engage? I tell brothers a lot of time when I see them teaching. You have people right in front of you listening, that's paying attention, and you're edifying, and you stop speaking to them to go deal with a heckler. You got somebody listening. Fish. Learn how to fish the people in. How to keep them engaged. How to show them, bring them to Christ. A lot of times brothers will talk, and you talk at the people, but you're not talking to them. Say the things that's going to trigger them. Use words that's going to... Hey, listen. You're tired of working. You got a job, right? Yeah, man. You tired of going to work? Yeah, man. Little bit of money, right? Poco, right? Yeah, man. I know life is hard, man. So would you like to be in a situation where you never have to work again, and people work for you? Yeah, of course I would. That you never get sick? Sure I would. That you have a family, everybody? Yeah, sure I would. Well, then, if you want all those things, this is what you have to do to get that. Lead them in. Learn how to fish. You learn that by getting around seasoned men, exercising those skills. All right. So we got tongue. We dealt with, huh? Yes, sir.
 

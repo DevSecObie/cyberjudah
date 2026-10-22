@@ -691,7 +691,7 @@ Reading from the AI video of the history of the Israelites, one minute from the 
 >
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
 >
-> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of Sinai where I held him by me a long season,
+> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
 
 - Forty days and forty nights. The secrets of the times. He showed Moses the secrets of the times, and the end. The secrets of the times is the beginning, the middle and the end.
 

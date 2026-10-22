@@ -486,7 +486,7 @@ Reading from *The Jew a Negro*, pages 101 and 102, on the old Greeks, Shem and H
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[58:24](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3504s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - If there be any error, meaning sin. The error is sin. If there be *[[58:36](https://www.youtube.com/watch?v=tSbg2mE_hBU&t=3516s)]* any sin amongst his people, and they sin against their God. And we sin against our God.
 

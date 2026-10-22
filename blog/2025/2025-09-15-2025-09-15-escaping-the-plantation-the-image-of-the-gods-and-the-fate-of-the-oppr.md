@@ -31,7 +31,7 @@ tags: ["IUIC in the ClassRoom", "satan"]
 
 **[2 Maccabees 6:6](/bible/2-maccabees/6#v6)**  *[[22:27](https://www.youtube.com/watch?v=4rqlf4LI8P8&t=1347s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 
 - The righteous rant, France versus God: France declared war on God when it declared war on IUIC, less than a hundred people in that congregation, and has a whole country shook. Under the ban, members may meet privately only with no link to IUIC, no religious teaching and no organization or hierarchy; regrouping under another name or online can bring up to three years in prison and a fine; even meeting every Saturday with former members could be seen as continuing the group. The white man hates to see black people in order. Neither was it lawful to keep sabbath days or ancient feasts or to profess himself a Jew: this is Hellenization, and it can't last if blacks, Hispanics, Native Americans and the diaspora keep God's commandments.
 

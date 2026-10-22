@@ -75,7 +75,7 @@ So everybody comes in at their own time, but when we come in we have got to make
 >
 > <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
 >
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 >
 > <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 
@@ -159,7 +159,7 @@ So everybody comes in at their own time, but when we come in we have got to make
 
 **[Tobit 10:12](/bible/tobit/10#v12)**  *[[1:06:20](https://www.youtube.com/watch?v=mbqEWnbrQMs&t=3980s)]*
 
-> <sup>[12](/bible/tobit/10#v12)</sup> And he said to his daughter, Honour thy father and thy mother in law, which are now thy parents, that I may hear good report of thee. And he kissed her. Edna also said to Tobias, The Lord of heaven restore thee, my dear brother, and grant that I may see thy children of my daughter Sara before I die, that I may rejoice before the Lord: behold, I commit my daughter unto thee of special trust; wherefore do not entreat her evil.
+> <sup>[12](/bible/tobit/10#v12)</sup> And he said to his daughter, Honour thy father and thy mother in law, which are now thy parents, that I may hear good report of thee. And he kissed her. Edna also said to Tobias, The Lord of heaven restore thee, my dear brother, and grant that I may see thy children of my daughter Sara before I die, that I may rejoice before the Lord: behold, I commit my daughter unto thee of special trust; where are do not entreat her evil.
 
 - Honour thy father and thy mother in law, which are now thy parents. Those are your parents. So when they get sick, who has got to take care of them? You do, because those are your parents. You are one flesh. These are your parents too now, you have got to take care of them too. So you cannot be selfish, you cannot have that bad relationship with your in-laws. Now go fix it. Go fix your situation, go fix the relationship you have with them.
 

@@ -590,7 +590,7 @@ tags: ["Our Hidden History", "marriage-family", "nations"]
 
 **[Wisdom of Solomon 18:22-24](/bible/wisdom-of-solomon/18#v22)**  *[[1:07:36](https://www.youtube.com/watch?v=-YOJPCpRbXw&t=4056s)]*
 
-> <sup>[22](/bible/wisdom-of-solomon/18#v22)</sup> So he overcame the destroyer, not with strength of body, nor force of arms, but with a word subdued he him that punished, alleging the oaths and covenants made with the fathers.
+> <sup>[22](/bible/wisdom-of-solomon/18#v22)</sup> So he overcame the destroyer, not with strength of body, nor force of arms, but with a word subdued him that punished, alleging the oaths and covenants made with the fathers.
 
 - The destroyer was the angel that came down, which is Christ, really, was coming down. He was killing us with a plague, with the plague, because Israel was messing with the other nations. The Lord got sick of us, came down from the throne, leaped out from the throne, started killing us to play. We started dying, dropping down left, dropping like freaking flies, left and right. So Aaron had to run and deliver us, save us. Right.
 

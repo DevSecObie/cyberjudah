@@ -221,11 +221,11 @@ Reading from a description of sheep and goats, on screen  *[[15:34](https://www.
 >
 > <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
 >
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 >
 > <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 >
-> <sup>[13](/bible/2-esdras/9#v13)</sup> And therefore be thou not curious how the ungodly shall be punished, and when: but inquire how the righteous shall be saved, whose the world is, and for whom the world is created.
+> <sup>[13](/bible/2-esdras/9#v13)</sup> And therefore be thou not curious how the ungodly shall be punished, and when: but enquire how the righteous shall be saved, whose the world is, and for whom the world is created.
 
 - Every one that shall be saved, and shall be able to escape by his works, and by faith: keeping the commandments and the faith of Christ.
 

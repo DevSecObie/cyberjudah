@@ -462,7 +462,7 @@ Reading from *Nelson's* Bible, page 132, on Sennacherib's Prism  *[[33:05](https
 
 - Landmasses all next week. All in close proximity.
 
-> <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the way of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
+> <sup>[3](/bible/tobit/1#v3)</sup> I Tobit have walked all the days of my life in the ways of truth and justice, and I did many almsdeeds to my brethren, and my nation, who came with me to Nineve, into the land of the Assyrians.
 
 - All right. Tobit had... Right. Northern kingdom got conquered by shamanism fifth. The head. He was part of that conquest. He was, he was taken in that wave.
 
@@ -1008,7 +1008,7 @@ Reading from the book called on air *Lost Tribe Is a Myth* ("lost tribes"), page
 
 - Two of them were in front of the Jews. The army.
 
-> <sup>[30](/bible/2-maccabees/10#v30)</sup> And took Maccabeus betwixt them, and covered him on every side with their weapons, and kept him safe, but shot arrows and lightnings against the enemies: so that being confounded with blindness, and full of trouble, they were killed.
+> <sup>[30](/bible/2-maccabees/10#v30)</sup> And took Maccabeus betwixt them, and covered him on every side weapons, and kept him safe, but shot arrows and lightnings against the enemies: so that being confounded with blindness, and full of trouble, they were killed.
 
 - So you had two in front, and then you had two on his sides. That's five. There's five of them. Two in the front, two on the sides.
 
@@ -1390,7 +1390,7 @@ Reading from the Wikipedia article on Ashurbanipal, continued  *[[1:54:20](https
 >
 > <sup>[2](/bible/tobit/14#v2)</sup> And he was eight and fifty years old when he lost his sight, which was restored to him after eight years: and he gave alms, and he increased in the fear of the Lord God, and praised him.
 >
-> <sup>[3](/bible/tobit/14#v3)</sup> And when he was very aged he called his son, and the six sons of his son, and said to him, My son, take thy children; for, behold, I am aged, and am ready to depart out of this life.
+> <sup>[3](/bible/tobit/14#v3)</sup> And when he was very aged he called his son, and the sons of his son, and said to him, My son, take thy children; for, behold, I am aged, and am ready to depart out of this life.
 
 - 85. He was 58 years old.
 

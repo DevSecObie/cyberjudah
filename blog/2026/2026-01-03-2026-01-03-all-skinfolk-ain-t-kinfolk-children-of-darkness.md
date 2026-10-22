@@ -73,7 +73,7 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
 
 **[1 Maccabees 3:43](/bible/1-maccabees/3#v43)**  *[[44:23](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=2663s)]*
 
-> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed estate of our people, and let us fight for our people and the sanctuary.
+> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed fortune of our people, and let us fight for our people and the sanctuary.
 
 - Every age raised brethren who sought the welfare of their people and the sanctuary: Mordecai, Mattathias and his sons.
 

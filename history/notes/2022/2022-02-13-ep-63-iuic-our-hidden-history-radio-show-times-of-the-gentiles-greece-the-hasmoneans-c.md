@@ -304,7 +304,7 @@ tags: ["Our Hidden History", "betrayal", "nations", "war"]
 
 - He was black behind in jail.
 
-> <sup>[22](/bible/2-maccabees/13#v22)</sup> The king treated with them in Bethsura the second time, gave his hand, took theirs, departed, fought with Judas, was overcome;
+> <sup>[22](/bible/2-maccabees/13#v22)</sup> The king treated with them in Bethsum the second time, gave his hand, took their’s, departed, fought with Judas, was overcome;
 
 - Right. Read the game 32 again, we got 20. Stop there. Go to the First macabre 6:18, regarding him from bethsaira, him being overthrown, lost of his men, all of that stuff, you know. Stop there. Go to first not gonna be 6:18. We're gonna be diverse 46.
 
@@ -342,13 +342,13 @@ tags: ["Our Hidden History", "betrayal", "nations", "war"]
 
 - Right, to their land, to the land, from them.
 
-> <sup>[25](/bible/1-maccabees/6#v25)</sup> Neither have they stretched out their hand against us only, but also against all their borders.
+> <sup>[25](/bible/1-maccabees/6#v25)</sup> Neither have they stretched out their hand against us only, but also against their borders.
 >
 > <sup>[26](/bible/1-maccabees/6#v26)</sup> And, behold, this day are they besieging the tower at Jerusalem, to take it: the sanctuary also and Bethsura have they fortified.
 
 - Remember, so nantucket is going to go there and try to take it over. But sorry, how they fought the fire became a fort.
 
-> <sup>[27](/bible/1-maccabees/6#v27)</sup> Wherefore if thou dost not prevent them quickly, they will do greater things than these, neither shalt thou be able to rule them.
+> <sup>[27](/bible/1-maccabees/6#v27)</sup> Wherefore if thou dost not prevent them quickly, they will do the greater things than these, neither shalt thou be able to rule them.
 
 - If you don't stop them.
 
@@ -746,7 +746,7 @@ Reading from a definition looked up on air  *[[1:25:16](https://www.youtube.com/
 >
 > <sup>[61](/bible/1-maccabees/6#v61)</sup> Also the king and the princes made an oath unto them: whereupon they went out of the strong hold.
 >
-> <sup>[62](/bible/1-maccabees/6#v62)</sup> Then the king entered into mount Sion; but when he saw the strength of the place, he brake his oath that he had made, and gave commandment to pull down the wall round about.
+> <sup>[62](/bible/1-maccabees/6#v62)</sup> Then the king entered into mount Sion; but when he saw the strength of the place, he broke his oath that he had made, and gave commandment to pull down the wall round about.
 >
 > <sup>[63](/bible/1-maccabees/6#v63)</sup> Afterward departed he in all haste, and returned unto Antiochia, where he found Philip to be master of the city: so he fought against him, and took the city by force.
 
@@ -814,7 +814,7 @@ Reading from a definition looked up on air  *[[1:25:16](https://www.youtube.com/
 
 - He locked his evil behind up.
 
-> <sup>[22](/bible/2-maccabees/13#v22)</sup> The king treated with them in Bethsura the second time, gave his hand, took theirs, departed, fought with Judas, was overcome;
+> <sup>[22](/bible/2-maccabees/13#v22)</sup> The king treated with them in Bethsum the second time, gave his hand, took their’s, departed, fought with Judas, was overcome;
 
 - He retrieved with them the second time.
 
@@ -1104,7 +1104,7 @@ Reading from a definition looked up on air  *[[1:25:16](https://www.youtube.com/
 >
 > <sup>[5](/bible/2-maccabees/14#v5)</sup> Howbeit having gotten opportunity to further his foolish enterprize, and being called into counsel by Demetrius, and asked how the Jews stood affected, and what they intended, he answered thereunto:
 >
-> <sup>[6](/bible/2-maccabees/14#v6)</sup> Those of the Jews that be called Assideans, whose captain is Judas Maccabeus, nourish war and are seditious, and will not let the realm be in peace.
+> <sup>[6](/bible/2-maccabees/14#v6)</sup> Those of the Jews that he called Assideans, whose captain is Judas Maccabeus, nourish war and are seditious, and will not let the rest be in peace.
 
 - Wow.
 
@@ -1226,7 +1226,7 @@ Reading from a definition looked up on air  *[[1:25:16](https://www.youtube.com/
 
 - Those that ran into him to complain about jewish maccabees, he ignored them. So now, leave me alone, I'm at peace with Judas.
 
-> <sup>[24](/bible/2-maccabees/14#v24)</sup> And he would not willingly have Judas out of his sight: for he loved the man from his heart
+> <sup>[24](/bible/2-maccabees/14#v24)</sup> And he would not willingly have Judas out of his sight: for he love the man from his heart
 
 - Because he had a respect for jewish fighting skill. Watch this.
 

@@ -62,7 +62,7 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-word", "wisdom"]
 >
 > <sup>[15](/bible/sirach/4#v15)</sup> Whoso giveth ear unto her shall judge the nations: and he that attendeth unto her shall dwell securely.
 >
-> <sup>[16](/bible/sirach/4#v16)</sup> If a man commit himself unto her, he shall inherit her; and his generations shall hold her in possession.
+> <sup>[16](/bible/sirach/4#v16)</sup> If a man commit himself unto her, he shall inherit her; and his generation shall hold her in possession.
 >
 > <sup>[17](/bible/sirach/4#v17)</sup> For at the first she will walk with him by crooked ways, and bring fear and dread upon him, and torment him with her discipline, until she may trust his soul, and try him by her laws.
 >
@@ -95,7 +95,7 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-word", "wisdom"]
 
 **[Sirach 1:19-20](/bible/sirach/1#v19)**  *[[12:19](https://www.youtube.com/watch?v=g8DajkfDcH4&t=739s)]*
 
-> <sup>[19](/bible/sirach/1#v19)</sup> Wisdom raineth down skill and knowledge of understanding, and exalteth them to honour that hold her fast.
+> <sup>[19](/bible/sirach/1#v19)</sup> Wisdom raineth down skill and knowledge of understanding standing, and exalteth them to honour that hold her fast.
 >
 > <sup>[20](/bible/sirach/1#v20)</sup> The root of wisdom is to fear the Lord, and the branches thereof are long life.
 

@@ -372,7 +372,7 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "women"]
 
 **[Judith 5:20](/bible/judith/5#v20)**  *[[1:55:18](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=6918s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - Huey Newton on the Phil Donahue show: anytime the black man attempts to change the slave image, they call it scary. If there be any error in this people and they sin against their God, they will be overcome, but if there be no iniquity, their God will defend them.
 

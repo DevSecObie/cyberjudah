@@ -39,7 +39,7 @@ tags: ["IUIC in the ClassRoom", "edom-esau"]
 >
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
 >
-> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of Sinai where I held him by me a long season,
+> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
 >
 > <sup>[5](/bible/2-esdras/14#v5)</sup> And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
 >

@@ -360,7 +360,7 @@ Reading from a dictionary definition of undermine  *[[43:49](https://www.youtube
 
 **[1 Maccabees 3:43](/bible/1-maccabees/3#v43)**  *[[1:12:54](https://www.youtube.com/watch?v=Hz_Gv_CtklY&t=4374s)]*
 
-> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed estate of our people, and let us fight for our people and the sanctuary.
+> <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed fortune of our people, and let us fight for our people and the sanctuary.
 
 - This is not a thighs and his sons, the Maccabean family. Let us do what? Let us restore the decayed estate of our people. Let us rise up and build. Same thing.
 

@@ -292,7 +292,7 @@ Reading from screenshots of the Wikipedia entry on syncretism, on the Protestant
 
 **[2 Maccabees 6:23-24](/bible/2-maccabees/6#v23)**  *[[51:30](https://www.youtube.com/watch?v=ZztygjY4U2w&t=3090s)]*
 
-> <sup>[23](/bible/2-maccabees/6#v23)</sup> But he began to consider discreetly, and as became his age, and the excellency of his ancient years, and the honour of his gray head, whereunto he was come, and his most honest education from a child, or rather the holy law made and given by God: therefore he answered accordingly, and willed them straightways to send him to the grave.
+> <sup>[23](/bible/2-maccabees/6#v23)</sup> But he began to consider discreetly, and as became his age, and the excellency of his ancient years, and the honour of his gray head, whereon was come, and his most honest education from a child, or rather the holy law made and given by God: therefore he answered accordingly, and willed them straightways to send him to the grave.
 >
 > <sup>[24](/bible/2-maccabees/6#v24)</sup> For it becometh not our age, said he, in any wise to dissemble, whereby many young persons might think that Eleazar, being fourscore years old and ten, were now gone to a strange religion;
 
@@ -909,9 +909,9 @@ Reading from *From Assyria to America*, the Bishop's book, page 60  *[[2:06:25](
 
 **[2 Maccabees 6:6-8](/bible/2-maccabees/6#v6)**  *[[2:15:31](https://www.youtube.com/watch?v=ZztygjY4U2w&t=8131s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 >
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 >
 > <sup>[8](/bible/2-maccabees/6#v8)</sup> Moreover there went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews, that they should observe the same fashions, and be partakers of their sacrifices:
 

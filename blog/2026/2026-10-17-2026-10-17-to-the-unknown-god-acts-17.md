@@ -275,7 +275,7 @@ Reading from the Zondervan Bible dictionary, on the Epicureans and the Stoics  *
 >
 > <sup>[5](/bible/2-maccabees/6#v5)</sup> The altar also was filled with profane things, which the law forbiddeth.
 >
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 
 - This is where the problem in Athens started: the Greeks ruled for three hundred years before Christ, and Paul was dealing with that history.
 

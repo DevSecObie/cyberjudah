@@ -68,13 +68,13 @@ Reading from a book on the expulsion of the Jews from Spain, pages 82 to 83  *[[
 
 **[2 Maccabees 6:6-16](/bible/2-maccabees/6#v6)**  *[[28:19](https://www.youtube.com/watch?v=nOELpFmOqmk&t=1699s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 
 - Let me try it again. Or to profess himself at all to be a Jew.
 
 - Aimed to confiscate the property of those who openly professed to be Jews. It's the same freaking agenda. The same thing. The Greeks enacted the same evil laws to make certain that the Jews would forget their identity. The church was aimed to annihilate our people as a race, as it is today.
 
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 
 - In the day of the king's birth, their birthday. God. Every month.
 
@@ -108,7 +108,7 @@ Reading from a book on the expulsion of the Jews from Spain, pages 82 to 83  *[[
 
 - They threw them off a wall with their babies. These two women, they killed two women and two babies because they circumcised their children. You can't tell me this man isn't the devil. You cannot tell me he's not the devil. You can't.
 
-> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered to Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
+> <sup>[11](/bible/2-maccabees/6#v11)</sup> And others, that had run together into caves near by, to keep the sabbath day secretly, being discovered by Philip, were all burnt together, because they made a conscience to help themselves for the honour of the most sacred day.
 
 - They did what? And others that had run together into caves nearby to keep the sabbath day secret. Crypto Jews. To keep the sabbath day, keep the laws of God secretly. Crypto Jews during the Greek captivity.
 
@@ -186,7 +186,7 @@ Reading from a book on the expulsion of the Jews from Spain, pages 82 to 83  *[[
 
 **[2 Maccabees 6:17](/bible/2-maccabees/6#v17)**  *[[44:17](https://www.youtube.com/watch?v=nOELpFmOqmk&t=2657s)]*
 
-> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in few words.
+> <sup>[17](/bible/2-maccabees/6#v17)</sup> But let this that we have spoken be for a warning unto us. And now will we come to the declaring of the matter in a few words.
 
 - 17, one more time.
 

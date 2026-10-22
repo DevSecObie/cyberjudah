@@ -426,7 +426,7 @@ Reading from a second commentary on "who is their father?" (1 Samuel 10:12), on 
 >
 > <sup>[5](/bible/2-esdras/9#v5)</sup> For like as all that is made in the world hath a beginning and an end, and the end is manifest:
 >
-> <sup>[6](/bible/2-esdras/9#v6)</sup> Even so the times also of the Highest have plain beginnings in wonders and powerful works, and endings in effects and signs.
+> <sup>[6](/bible/2-esdras/9#v6)</sup> Even so the times also of the Highest have plain beginnings in wonder and powerful works, and endings in effects and signs.
 >
 > <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
 >
@@ -436,7 +436,7 @@ Reading from a second commentary on "who is their father?" (1 Samuel 10:12), on 
 >
 > <sup>[10](/bible/2-esdras/9#v10)</sup> For such as in their life have received benefits, and have not known me;
 >
-> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+> <sup>[11](/bible/2-esdras/9#v11)</sup> And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 >
 > <sup>[12](/bible/2-esdras/9#v12)</sup> The same must know it after death by pain.
 

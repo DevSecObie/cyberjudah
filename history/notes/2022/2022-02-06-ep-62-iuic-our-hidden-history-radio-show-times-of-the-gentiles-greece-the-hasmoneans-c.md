@@ -238,7 +238,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 > <sup>[2](/bible/1-maccabees/5#v2)</sup> Wherefore they thought to destroy the generation of Jacob that was among them, and thereupon they began to slay and destroy the people.
 >
-> <sup>[3](/bible/1-maccabees/5#v3)</sup> Then Judas fought against the children of Esau in Idumea at Arabattine, because they besieged Israel: and he gave them a great overthrow, and abated their courage, and took their spoils.
+> <sup>[3](/bible/1-maccabees/5#v3)</sup> Then Judas fought against the children of Esau in Idumea at Arabattine, because they besieged Gael: and he gave them a great overthrow, and abated their courage, and took their spoils.
 >
 > <sup>[4](/bible/1-maccabees/5#v4)</sup> Also he remembered the injury of the children of Bean, who had been a snare and an offence unto the people, in that they lay in wait for them in the ways.
 >
@@ -330,7 +330,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - Damn, God.
 
-> <sup>[35](/bible/1-maccabees/5#v35)</sup> This done, Judas turned aside to Maspha; and after he had assaulted it he took it and slew all the males therein, and received the spoils thereof and burnt it with fire.
+> <sup>[35](/bible/1-maccabees/5#v35)</sup> This done, Judas turned aside to Maspha; and after he had assaulted it he took and slew all the males therein, and received the spoils thereof and and burnt it with fire.
 >
 > <sup>[36](/bible/1-maccabees/5#v36)</sup> From thence went he, and took Casphon, Maged, Bosor, and the other cities of the country of Galaad.
 >
@@ -480,7 +480,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - Damn right.
 
-> <sup>[36](/bible/2-maccabees/8#v36)</sup> Thus he, that took upon him to make good to the Romans their tribute by means of the captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
+> <sup>[36](/bible/2-maccabees/8#v36)</sup> Thus he, that took upon him to make good to the Romans their tribute by means of captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
 
 - Right, his whole purpose is to sell the slaves of our people and make money, so he can pay, to pay that, paid back the tribute he owes to the Romans. God. Told abroad, that told the broad what? That the Jews had God to fight for them. Nick and Noah realized that God was with us.
 
@@ -588,7 +588,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - This is Babylon.
 
-> <sup>[14](/bible/1-maccabees/6#v14)</sup> Then called he for Philip, one of his friends, whom he made ruler over all his realm,
+> <sup>[14](/bible/1-maccabees/6#v14)</sup> Then called he for Philip, one of his friends, who he made ruler over all his realm,
 
 - Keep this guy in mind, Philip. Keep Philip in mind.
 
@@ -630,7 +630,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - The burying place of the, he's going to turn Jerusalem into a graveyard for Jews. That was his plan. Talking mess.
 
-> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: for as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
+> <sup>[5](/bible/2-maccabees/9#v5)</sup> But the Lord Almighty, the God of Israel, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
 
 - The reason why God stopped thinking is, is because he could have entitled, as powerful as he was, Antiochus, he could have done that. So God said, okay, I gotta step in now. These guys walling out.
 
@@ -822,7 +822,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - Right. Ninth month.
 
-> <sup>[6](/bible/2-maccabees/10#v6)</sup> And they kept eight days with gladness, as in the feast of the tabernacles, remembering that not long afore they had held the feast of the tabernacles, when as they wandered in the mountains and dens like beasts.
+> <sup>[6](/bible/2-maccabees/10#v6)</sup> And they kept the eight days with gladness, as in the feast of the tabernacles, remembering that not long afore they had held the feast of the tabernacles, when as they wandered in the mountains and dens like beasts.
 
 - When they wanted to run, they were keeping Tabernacles while they were on the run. All right.
 
@@ -856,7 +856,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - So now we will, so the author's saying, now we're going to deal with his son's axe. Okay. Entire kiss you, Peter.
 
-> <sup>[11](/bible/2-maccabees/10#v11)</sup> So when he was come to the crown, he set one Lysias over the affairs of his realm, and appointed him chief governor of Celosyria and Phenice.
+> <sup>[11](/bible/2-maccabees/10#v11)</sup> So when he was come to the crown, he set one Lysias over the affairs of his realm, and appointed him his chief governor of Celosyria and Phenice.
 >
 > <sup>[12](/bible/2-maccabees/10#v12)</sup> For Ptolemeus, that was called Macron, choosing rather to do justice unto the Jews for the wrong that had been done unto them, endeavoured to continue peace with them.
 
@@ -936,7 +936,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - Two of them let the Jews.
 
-> <sup>[30](/bible/2-maccabees/10#v30)</sup> And took Maccabeus betwixt them, and covered him on every side with their weapons, and kept him safe, but shot arrows and lightnings against the enemies: so that being confounded with blindness, and full of trouble, they were killed.
+> <sup>[30](/bible/2-maccabees/10#v30)</sup> And took Maccabeus betwixt them, and covered him on every side weapons, and kept him safe, but shot arrows and lightnings against the enemies: so that being confounded with blindness, and full of trouble, they were killed.
 
 - So you had two that were beside, two that were leading, and you had two beside Jewish Maccabees.
 
@@ -952,7 +952,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 > <sup>[31](/bible/2-maccabees/10#v31)</sup> And there were slain of footmen twenty thousand and five hundred, and six hundred horsemen.
 >
-> <sup>[32](/bible/2-maccabees/10#v32)</sup> As for Timotheus himself, he fled into a very strong hold, called Gazara, where Chereas was governor.
+> <sup>[32](/bible/2-maccabees/10#v32)</sup> As for Timotheus himself, he fled into a very strong hold, called Gawra, where Chereas was governor.
 >
 > <sup>[33](/bible/2-maccabees/10#v33)</sup> But they that were with Maccabeus laid siege against the fortress courageously four days.
 >
@@ -1024,7 +1024,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - And he would send a good angel just to help us.
 
-> <sup>[7](/bible/2-maccabees/11#v7)</sup> Then Maccabeus himself first of all took weapons, exhorting the others that they would jeopard themselves together with him to help their brethren: so they went forth together with a willing mind.
+> <sup>[7](/bible/2-maccabees/11#v7)</sup> Then Maccabeus himself first of all took weapons, exhorting the other that they would jeopard themselves together with him to help their brethren: so they went forth together with a willing mind.
 >
 > <sup>[8](/bible/2-maccabees/11#v8)</sup> And as they were at Jerusalem, there appeared before them on horseback one in white clothing, shaking his armour of gold.
 >
@@ -1128,7 +1128,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - So at this point is when these covenants were made: the covenant made between us and Lysias and the Romans. Everyone's at peace, there's no fighting anymore. We're good. We got, we get to live freely with our laws and our commandments. No more, no more being taxed. We're good. Watch this. Verse two.
 
-> <sup>[2](/bible/2-maccabees/12#v2)</sup> But of the governors of several places, Timotheus, and Apollonius the son of Genneus, also Hieronymus, and Demophon, and beside them Nicanor the governor of Cyprus, would not suffer them to be quiet and live in peace.
+> <sup>[2](/bible/2-maccabees/12#v2)</sup> But of the governours of several places, Timotheus, and Apollonius the son of Genneus, also Hieronymus, and Demophon, and beside them Nicanor the governor of Cyprus, would not suffer them to be quiet and live in peace.
 
 - Timothy, Somothius is dead. This is different, Timotheus. It's not the same guy. We killed one Timotheus; here's another one. Got it.
 
@@ -1214,7 +1214,7 @@ All right, as you can see, as we proceed on. So give me First Maccabees four and
 
 - Saying things that should not be said. Watch what happens.
 
-> <sup>[15](/bible/2-maccabees/12#v15)</sup> Wherefore Judas with his company, calling upon the great Lord of the world, who without any rams or engines of war did cast down Jericho in the time of Joshua, gave a fierce assault against the walls,
+> <sup>[15](/bible/2-maccabees/12#v15)</sup> Wherefore Judas with his company, calling upon the great Lord of the world, who without rams or engines of war did cast down Jericho in the time of Joshua, gave a fierce assault against the walls,
 
 - So it's giving you a comparison as to how we want, we went to the point where we, we began to, the way Joshua went against the walls is how Maccabees are going to want against this walled city here. So the same thing, basically: we went up against this walled city and attacked it. The way the walls of Jericho fell, we fell upon this city. That's the author's giving you an example. Watch what we did next verse.
 

@@ -890,7 +890,7 @@ Reading from *Ancient and Modern Britons*, pages 157 and 158, on the black heath
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[1:56:36](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6996s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - Be any error, cuz Balaam understood: these guys keeping their laws, I can't curse them. So, if there be any sin or error in this people.
 

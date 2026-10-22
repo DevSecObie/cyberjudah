@@ -199,7 +199,7 @@ tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-fam
 
 **[Sirach 1:23](/bible/sirach/1#v23)**  *[[24:16](https://www.youtube.com/watch?v=8IzkF68aBC4&t=1456s)]*
 
-> <sup>[23](/bible/sirach/1#v23)</sup> A patient man will bear for a time, and afterward joy shall spring up unto him.
+> <sup>[23](/bible/sirach/1#v23)</sup> A patient man will tear for a time, and afterward joy shall spring up unto him.
 
 - We're still dealing with the three trials of faith; right now I'm dealing with the personal level.
 

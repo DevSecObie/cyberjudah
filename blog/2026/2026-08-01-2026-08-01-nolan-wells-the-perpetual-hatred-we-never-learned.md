@@ -387,7 +387,7 @@ The opening prayer remembered the families of Rasheem Carter, Kendrick Johnson, 
 
 **[Esther 13:3-5 (Additions to Esther)](/bible/esther-greek/13#v3)**  *[[1:14:33](https://www.youtube.com/watch?v=fJ_pW-RImxU&t=4473s)]*
 
-> <sup>[3](/bible/esther-greek/13#v3)</sup> Now when I asked my counsellors how this might be brought to pass, Aman, that excelled in wisdom among us, and was approved for his constant good will and stedfast fidelity, and had the honour of the second place in the kingdom,
+> <sup>[3](/bible/esther-greek/13#v3)</sup> Now when I asked my counsellors how this might be brought to pass, Aman, that excelled in wisdom among us, and was approved for his constant good will and steadfast fidelity, and had the honour of the second place in the kingdom,
 >
 > <sup>[4](/bible/esther-greek/13#v4)</sup> Declared unto us, that in all nations throughout the world there was scattered a certain malicious people, that had laws contrary to all nations, and continually despised the commandments of kings, so as the uniting of our kingdoms, honourably intended by us cannot go forward.
 >

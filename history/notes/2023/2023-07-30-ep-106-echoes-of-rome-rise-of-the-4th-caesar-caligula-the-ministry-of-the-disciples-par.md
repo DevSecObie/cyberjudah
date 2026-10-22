@@ -436,7 +436,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 > <sup>[5](/bible/2-maccabees/6#v5)</sup> The altar also was filled with profane things, which the law forbiddeth.
 >
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 
 - So verse 6: it was not lawful for us to keep Sabbath days. The same thing that Caligula was pushing for us not to do, for us not to keep our Sabbath.
 
@@ -458,7 +458,7 @@ Reading from *History of the Jews* by Grayzel, page 183 · read by an officer  *
 
 - **Deacon Eythan:** It was the actual law that we had to profane the Sabbath. We couldn't call ourselves Jews, we couldn't call ourselves Israelites. All right, so they passed these laws. Now jump to verse 7.
 
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 
 - So hold on, we was forced to celebrate a birthday. We were forced to celebrate a birthday, because we didn't do that. That's not our custom.
 

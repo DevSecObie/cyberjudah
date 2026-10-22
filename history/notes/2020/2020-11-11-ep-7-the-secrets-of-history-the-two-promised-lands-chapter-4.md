@@ -1054,7 +1054,7 @@ Reading from a book named on air as by Diego Duran, then Diego Delanda, page 8, 
 
 **[2 Esdras 13:43-45](/bible/2-esdras/13#v43)**  *[[1:59:58](https://www.youtube.com/watch?v=5yuP-mrxZ0A&t=7198s)]*
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 

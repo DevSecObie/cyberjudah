@@ -470,7 +470,7 @@ Reading from the same old book shown as page images, continued  *[[1:12:13](http
 
 - And they did, for a while, until they start going off again, though. The kingdom is prone to idolatry.
 
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >

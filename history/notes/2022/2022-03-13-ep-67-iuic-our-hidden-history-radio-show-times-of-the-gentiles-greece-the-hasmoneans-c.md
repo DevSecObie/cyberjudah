@@ -73,7 +73,7 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 
 > <sup>[1](/bible/1-maccabees/11#v1)</sup> And the king of Egypt gathered together a great host, like the sand that lieth upon the sea shore, and many ships, and went about through deceit to get Alexander’s kingdom, and join it to his own.
 >
-> <sup>[2](/bible/1-maccabees/11#v2)</sup> Whereupon he took his journey into Spain in peaceable manner, so as they of the cities opened unto him, and met him: for king Alexander had commanded them so to do, because he was his father in law.
+> <sup>[2](/bible/1-maccabees/11#v2)</sup> Whereupon he took his journey into Spain in peaceable manner, so as they of the cities opened unto him, and met him: for king Alexander had commanded them so to do, because he was his brother in law.
 >
 > <sup>[3](/bible/1-maccabees/11#v3)</sup> Now as Ptolemee entered into the cities, he set in every one of them a garrison of soldiers to keep it.
 >
@@ -81,7 +81,7 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 >
 > <sup>[5](/bible/1-maccabees/11#v5)</sup> Also they told the king whatsoever Jonathan had done, to the intent he might blame him: but the king held his peace.
 >
-> <sup>[6](/bible/1-maccabees/11#v6)</sup> Then Jonathan met the king with great pomp at Joppe, where they saluted one another, and lodged.
+> <sup>[6](/bible/1-maccabees/11#v6)</sup> Then Jonathan met the king with great pomp at Joppa, where they saluted one another, and lodged.
 >
 > <sup>[7](/bible/1-maccabees/11#v7)</sup> Afterward Jonathan, when he had gone with the king to the river called Eleutherus, returned again to Jerusalem.
 >
@@ -131,7 +131,7 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 >
 > <sup>[20](/bible/1-maccabees/11#v20)</sup> At the same time Jonathan gathered together them that were in Judea to take the tower that was in Jerusalem: and he made many engines of war against it.
 >
-> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
+> <sup>[21](/bible/1-maccabees/11#v21)</sup> Then came ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower,
 
 - God. Damn.
 
@@ -375,7 +375,7 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 >
 > <sup>[5](/bible/1-maccabees/12#v5)</sup> And this is the copy of the letters which Jonathan wrote to the Lacedemonians:
 >
-> <sup>[6](/bible/1-maccabees/12#v6)</sup> Jonathan the high priest, and the elders of the nation, and the priests, and the other people of the Jews, unto the Lacedemonians their brethren send greeting:
+> <sup>[6](/bible/1-maccabees/12#v6)</sup> Jonathan the high priest, and the elders of the nation, and the priests, and the other of the Jews, unto the Lacedemonians their brethren send greeting:
 
 - Their brethren, yes. Same people. Both of them are Israelites. Spartans and Israelites. Spartans and Jews, Israelites.
 
@@ -389,7 +389,7 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 
 > <sup>[8](/bible/1-maccabees/12#v8)</sup> At which time Onias entreated the ambassador that was sent honourably, and received the letters, wherein declaration was made of the league and friendship.
 >
-> <sup>[9](/bible/1-maccabees/12#v9)</sup> Therefore we also, albeit we need none of these things, for that we have the holy books of scripture in our hands to comfort us,
+> <sup>[9](/bible/1-maccabees/12#v9)</sup> Therefore we also, albeit we need none of these things, that we have the holy books of scripture in our hands to comfort us,
 >
 > <sup>[10](/bible/1-maccabees/12#v10)</sup> Have nevertheless attempted to send unto you for the renewing of brotherhood and friendship, lest we should become strangers unto you altogether: for there is a long time passed since ye sent unto us.
 
@@ -415,7 +415,7 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 >
 > <sup>[16](/bible/1-maccabees/12#v16)</sup> For this cause we chose Numenius the son of Antiochus, and Antipater the son of Jason, and sent them unto the Romans, to renew the amity that we had with them, and the former league.
 >
-> <sup>[17](/bible/1-maccabees/12#v17)</sup> We commanded them also to go unto you, and to salute you and to deliver you our letters concerning the renewing of our brotherhood.
+> <sup>[17](/bible/1-maccabees/12#v17)</sup> We commanded them also to go unto you, and to salute and to deliver you our letters concerning the renewing of our brotherhood.
 >
 > <sup>[18](/bible/1-maccabees/12#v18)</sup> Wherefore now ye shall do well to give us an answer thereto.
 >
@@ -483,13 +483,13 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 
 - So Bethsan goes back to that place. Bethsan is Scythia. Remember that place, this is Scythopolis, where the Northern Kingdom resided. Came to Bethsan, came to Scythopolis.
 
-> <sup>[42](/bible/1-maccabees/12#v42)</sup> Now when Tryphon saw that Jonathan came with so great a force, he durst not stretch his hand against him;
+> <sup>[42](/bible/1-maccabees/12#v42)</sup> Now when Tryphon saw Jonathan came with so great a force, he durst not stretch his hand against him;
 
 - Right. But remember, because at this time Jonathan was in league with the king. He was in league with the king at this time. And Tryphon said, yo man, I'm going to kill the king and take over. I want to kill Antiochus, but Jonathan may not let me, because they're cool. So I got to get Jonathan out the way in order to kill the king, Antiochus. I got to get Jonathan out the way. I got to kill him too.
 
 > <sup>[43](/bible/1-maccabees/12#v43)</sup> But received him honourably, and commended him unto all his friends, and gave him gifts, and commanded his men of war to be as obedient unto him, as to himself.
 >
-> <sup>[44](/bible/1-maccabees/12#v44)</sup> Unto Jonathan also he said, Why hast thou put all this people to so great trouble, seeing there is no war betwixt us?
+> <sup>[44](/bible/1-maccabees/12#v44)</sup> Unto Jonathan also he said, Why hast thou brought all this people to so great trouble, seeing there is no war betwixt us?
 
 - Why you rolling so deep? What's the problem? You and I are good.
 
@@ -523,7 +523,7 @@ Reading from Wikipedia, the article on Demetrius II Nicator: the opening, his ea
 
 - Jonathan was taken captive.
 
-> <sup>[53](/bible/1-maccabees/12#v53)</sup> Then all the heathen that were round about them sought to destroy them: for said they, They have no captain, nor any to help them: now therefore let us make war upon them, and take away their memorial from among men.
+> <sup>[53](/bible/1-maccabees/12#v53)</sup> Then all the heathen that were round about then sought to destroy them: for said they, They have no captain, nor any to help them: now therefore let us make war upon them, and take away their memorial from among men.
 
 - Man. Because Jonathan's gone.
 
@@ -618,9 +618,9 @@ Reading from Wikipedia, the article on Diodotus Tryphon · read by the co-host  
 >
 > <sup>[10](/bible/1-maccabees/13#v10)</sup> So then he gathered together all the men of war, and made haste to finish the walls of Jerusalem, and he fortified it round about.
 >
-> <sup>[11](/bible/1-maccabees/13#v11)</sup> Also he sent Jonathan the son of Absolom, and with him a great power, to Joppe: who casting out them that were therein remained there in it.
+> <sup>[11](/bible/1-maccabees/13#v11)</sup> Also he sent Jonathan the son of Absolom, and with him a great power, to Joppa: who casting out them that were therein remained there in it.
 >
-> <sup>[12](/bible/1-maccabees/13#v12)</sup> So Tryphon removed from Ptolemais with a great power to invade the land of Judea, and Jonathan was with him in ward.
+> <sup>[12](/bible/1-maccabees/13#v12)</sup> So Tryphon removed from Ptolemaus with a great power to invade the land of Judea, and Jonathan was with him in ward.
 
 - Jonathan was with him in captivity. He was captive. Hostage, right.
 
@@ -716,7 +716,7 @@ Reading from Wikipedia, the article on Diodotus Tryphon · read by the co-host  
 
 - Tax exemption. Good.
 
-> <sup>[40](/bible/1-maccabees/13#v40)</sup> And look who are meet among you to be in our court, let them be enrolled, and let there be peace betwixt us.
+> <sup>[40](/bible/1-maccabees/13#v40)</sup> And look who are meet among you to be in our court, let then be enrolled, and let there be peace betwixt us.
 >
 > <sup>[41](/bible/1-maccabees/13#v41)</sup> Thus the yoke of the heathen was taken away from Israel in the hundred and seventieth year.
 
@@ -778,7 +778,7 @@ Reading from Wikipedia, the article on Diodotus Tryphon · read by the co-host  
 >
 > <sup>[4](/bible/1-maccabees/14#v4)</sup> As for the land of Judea, that was quiet all the days of Simon; for he sought the good of his nation in such wise, as that evermore his authority and honour pleased them well.
 >
-> <sup>[5](/bible/1-maccabees/14#v5)</sup> And as he was honourable in all his acts, so in this, that he took Joppe for an haven, and made an entrance to the isles of the sea,
+> <sup>[5](/bible/1-maccabees/14#v5)</sup> And as he was honourable in all his acts, so in this, that he took Joppa for an haven, and made an entrance to the isles of the sea,
 >
 > <sup>[6](/bible/1-maccabees/14#v6)</sup> And enlarged the bounds of his nation, and recovered the country,
 >
@@ -1081,7 +1081,7 @@ Reading from an illustration shown on screen, its source not named on air, label
 
 **[1 Maccabees 15:28-33](/bible/1-maccabees/15#v28)**  *[[2:03:27](https://www.youtube.com/watch?v=tlk-dYI4pTU&t=7407s)]*
 
-> <sup>[28](/bible/1-maccabees/15#v28)</sup> Furthermore he sent unto him Athenobius, one of his friends, to commune with him, and say, Ye withhold Joppe and Gazara; with the tower that is in Jerusalem, which are cities of my realm.
+> <sup>[28](/bible/1-maccabees/15#v28)</sup> Furthermore he sent unto him Athenobius, one of his friends, to commune with him, and say, Ye withhold Joppa and Gazera; with the tower that is in Jerusalem, which are cities of my realm.
 >
 > <sup>[29](/bible/1-maccabees/15#v29)</sup> The borders thereof ye have wasted, and done great hurt in the land, and got the dominion of many places within my kingdom.
 >
@@ -1173,7 +1173,7 @@ Reading from a scene from the television series *Hell on Wheels*, played on air 
 
 - We got the opportunity to take our land back, and we took it back.
 
-> <sup>[35](/bible/1-maccabees/15#v35)</sup> And whereas thou demandest Joppe and Gazara, albeit they did great harm unto the people in our country, yet will we give an hundred talents for them. Hereunto Athenobius answered him not a word;
+> <sup>[35](/bible/1-maccabees/15#v35)</sup> And whereas thou demandest Joppa and Gazera, albeit they did great harm unto the people in our country, yet will we give thee an hundred talents for them. Hereunto Athenobius answered him not a word;
 
 - Well, what can he say? That's, remember, we saw in the video clip: what can you say to that? What can be your response to that? The land don't belong to you.
 
@@ -1191,17 +1191,17 @@ Reading from a scene from the television series *Hell on Wheels*, played on air 
 >
 > <sup>[40](/bible/1-maccabees/15#v40)</sup> So Cendebeus came to Jamnia and began to provoke the people and to invade Judea, and to take the people prisoners, and slay them.
 >
-> <sup>[41](/bible/1-maccabees/15#v41)</sup> And when he had built up Cedron, he set horsemen there, and an host of footmen, to the end that issuing out they might make outroads upon the ways of Judea, as the king had commanded him.
+> <sup>[41](/bible/1-maccabees/15#v41)</sup> And when he had built up Cedrou, he set horsemen there, and an host of footmen, to the end that issuing out they might make outroads upon the ways of Judea, as the king had commanded him.
 
 - Damn.
 
 **[1 Maccabees 16:1-24](/bible/1-maccabees/16#v1)**  *[[2:12:33](https://www.youtube.com/watch?v=tlk-dYI4pTU&t=7953s)]*
 
-> <sup>[1](/bible/1-maccabees/16#v1)</sup> Then came up John from Gazara, and told Simon his father what Cendebeus had done.
+> <sup>[1](/bible/1-maccabees/16#v1)</sup> Then came up John from Gazera, and told Simon his father what Cendebeus had done.
 
 - John, Simon's son.
 
-> <sup>[2](/bible/1-maccabees/16#v2)</sup> Wherefore Simon called his two eldest sons, Judas and John, and said unto them, I, and my brethren, and my father’s house, have ever from our youth unto this day fought against the enemies of Israel; and things have prospered so well in our hands, that we have delivered Israel oftentimes.
+> <sup>[2](/bible/1-maccabees/16#v2)</sup> Wherefore Simon called his two eldest sons, Judas and John, and said unto them, I, and my brethren, and my father’s house, have ever from my youth unto this day fought against the enemies of Israel; and things have prospered so well in our hands, that we have delivered Israel oftentimes.
 >
 > <sup>[3](/bible/1-maccabees/16#v3)</sup> But now I am old, and ye, by God’s mercy, are of a sufficient age: be ye instead of me and my brother, and go and fight for our nation, and the help from heaven be with you.
 
@@ -1267,7 +1267,7 @@ Reading from a scene from the television series *Hell on Wheels*, played on air 
 
 - Wow. So he was sent by the king. Mm-hmm. Wow. So this guy was working under the king, under Antiochus Grypus.
 
-> <sup>[19](/bible/1-maccabees/16#v19)</sup> He sent others also to Gazara to kill John: and unto the tribunes he sent letters to come unto him, that he might give them silver, and gold, and rewards.
+> <sup>[19](/bible/1-maccabees/16#v19)</sup> He sent others also to Gazera to kill John: and unto the tribunes he sent letters to come unto him, that he might give them silver, and gold, and rewards.
 
 - He sent men to go and kill John, the other son, that's still alive.
 
@@ -1275,7 +1275,7 @@ Reading from a scene from the television series *Hell on Wheels*, played on air 
 
 - Guy's the worst.
 
-> <sup>[21](/bible/1-maccabees/16#v21)</sup> Now one had run afore to Gazara and told John that his father and brethren were slain, and, quoth he, Ptolemee hath sent to slay thee also.
+> <sup>[21](/bible/1-maccabees/16#v21)</sup> Now one had run afore to Gazera and told John that his father and brethren were slain, and, quoth he, Ptolemee hath sent to slay thee also.
 
 - Someone got to John before that and said, yo man, they killed your brothers and your father. Y'all get out of here. Okay.
 

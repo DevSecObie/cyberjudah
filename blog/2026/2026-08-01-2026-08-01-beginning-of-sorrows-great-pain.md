@@ -76,7 +76,7 @@ The surge at Ceuta:
 >
 > <sup>[5](/bible/2-esdras/9#v5)</sup> For like as all that is made in the world hath a beginning and an end, and the end is manifest:
 >
-> <sup>[6](/bible/2-esdras/9#v6)</sup> Even so the times also of the Highest have plain beginnings in wonders and powerful works, and endings in effects and signs.
+> <sup>[6](/bible/2-esdras/9#v6)</sup> Even so the times also of the Highest have plain beginnings in wonder and powerful works, and endings in effects and signs.
 >
 > <sup>[7](/bible/2-esdras/9#v7)</sup> And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
 >
@@ -169,7 +169,7 @@ The surge at Ceuta:
 >
 > <sup>[19](/bible/2-esdras/16#v19)</sup> Behold, famine and plague, tribulation and anguish, are sent as scourges for amendment.
 >
-> <sup>[20](/bible/2-esdras/16#v20)</sup> But for all these things they shall not turn from their wickedness, nor be alway mindful of the scourges.
+> <sup>[20](/bible/2-esdras/16#v20)</sup> But for all these things they shall not turn from their wickedness, nor be always mindful of the scourges.
 >
 > <sup>[21](/bible/2-esdras/16#v21)</sup> Behold, victuals shall be so good cheap upon earth, that they shall think themselves to be in good case, and even then shall evils grow upon earth, sword, famine, and great confusion.
 
@@ -283,11 +283,11 @@ The surge at Ceuta:
 >
 > <sup>[37](/bible/2-esdras/16#v37)</sup> Behold, the plagues draw nigh, and are not slack.
 >
-> <sup>[38](/bible/2-esdras/16#v38)</sup> As when a woman with child in the ninth month bringeth forth her son, within two or three hours of her birth great pains compass her womb, which pains, when the child cometh forth, they slack not a moment:
+> <sup>[38](/bible/2-esdras/16#v38)</sup> As when a woman with child in the ninth month bringeth forth her son, with two or three hours of her birth great pains compass her womb, which pains, when the child cometh forth, they slack not a moment:
 >
 > <sup>[39](/bible/2-esdras/16#v39)</sup> Even so shall not the plagues be slack to come upon the earth, and the world shall mourn, and sorrows shall come upon it on every side.
 >
-> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to the battle, and in those evils be even as pilgrims upon the earth.
+> <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to thy battle, and in those evils be even as pilgrims upon the earth.
 >
 > <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
 >
@@ -331,7 +331,7 @@ The surge at Ceuta:
 
 **[2 Esdras 15:15-24](/bible/2-esdras/15#v15)**  *[[2:17:49](https://www.youtube.com/watch?v=6gzqYKSUmS4&t=8269s)]*
 
-> <sup>[15](/bible/2-esdras/15#v15)</sup> For the sword and their destruction draweth nigh, and one people shall stand up to fight against another, and swords in their hands.
+> <sup>[15](/bible/2-esdras/15#v15)</sup> For the sword and their destruction draweth nigh, and one people shall stand up and fight against another, and swords in their hands.
 >
 > <sup>[16](/bible/2-esdras/15#v16)</sup> For there shall be sedition among men, and invading one another; they shall not regard their kings nor princes, and the course of their actions shall stand in their power.
 >

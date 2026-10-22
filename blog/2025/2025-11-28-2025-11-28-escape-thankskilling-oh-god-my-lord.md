@@ -517,7 +517,7 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 
 **[2 Esdras 3:6](/bible/2-esdras/3#v6)**  *[[1:56:23](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=6983s)]*
 
-> <sup>[6](/bible/2-esdras/3#v6)</sup> And thou leddest him into paradise, which thy right hand had planted, before ever the earth came forward.
+> <sup>[6](/bible/2-esdras/3#v6)</sup> And thou leadest him into paradise, which thy right hand had planted, before ever the earth came forward.
 
 - Adam was formed from the dust outside paradise and then led into it.
 

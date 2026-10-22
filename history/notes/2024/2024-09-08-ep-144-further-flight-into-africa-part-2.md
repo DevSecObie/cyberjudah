@@ -280,7 +280,7 @@ Reading from *Journal of Residence in Ashanti*, page CVI (106), on the Jews of S
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[42:16](https://www.youtube.com/watch?v=TqwmRiqTFYU&t=2536s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error in this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - If there be any error in this people. So if there be any sin. So this is the general Holofernes, and this is, I think, Achior the Ammonite, who's telling our history to Holofernes the general. So he's letting them know our history. He's saying, look, if there be any error, if there be any sin in this people, and they sin against their God, the God of Israel, their God, let us consider that this shall be their ruin. Then this is their ruin. Then we can consider, and go up against them.
 

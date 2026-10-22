@@ -94,7 +94,7 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 >
 > <sup>[3](/bible/2-esdras/14#v3)</sup> Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
 >
-> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of Sinai where I held him by me a long season,
+> <sup>[4](/bible/2-esdras/14#v4)</sup> And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
 >
 > <sup>[5](/bible/2-esdras/14#v5)</sup> And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
 >
@@ -102,7 +102,7 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 >
 > <sup>[20](/bible/2-esdras/14#v20)</sup> Behold, Lord, I will go, as thou hast commanded me, and reprove the people which are present: but they that shall be born afterward, who shall admonish them? thus the world is set in darkness, and they that dwell therein are without light.
 >
-> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the works that shall begin.
+> <sup>[21](/bible/2-esdras/14#v21)</sup> For thy law is burnt, therefore no man knoweth the things that are done of thee, or the work that shall begin.
 >
 > <sup>[22](/bible/2-esdras/14#v22)</sup> But if I have found grace before thee, send the Holy Ghost into me, and I shall write all that hath been done in the world since the beginning, which were written in thy law, that men may find thy path, and that they which will live in the latter days may live.
 >
@@ -150,7 +150,7 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 >
 > <sup>[44](/bible/2-esdras/14#v44)</sup> In forty days they wrote two hundred and four books.
 >
-> <sup>[45](/bible/2-esdras/14#v45)</sup> And it came to pass, when the forty days were fulfilled, that the Highest spake, saying, The first that thou hast written publish openly, that the worthy and unworthy may read it:
+> <sup>[45](/bible/2-esdras/14#v45)</sup> And it came to pass, when the forty days were filled, that the Highest spake, saying, The first that thou hast written publish openly, that the worthy and unworthy may read it:
 >
 > <sup>[46](/bible/2-esdras/14#v46)</sup> But keep the seventy last, that thou mayest deliver them only to such as be wise among the people:
 >

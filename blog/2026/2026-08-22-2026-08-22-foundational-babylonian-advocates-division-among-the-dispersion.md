@@ -504,7 +504,7 @@ The tethering.
 >
 > <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
 >
-> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow passages of the river.
+> <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
 >
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >

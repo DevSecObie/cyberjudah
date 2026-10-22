@@ -972,7 +972,7 @@ Reading from *Origin of the Anglo-Saxon Race*, page 49, on the Jutes, Goths and 
 
 **[2 Maccabees 6:6](/bible/2-maccabees/6#v6)**  *[[1:55:05](https://www.youtube.com/watch?v=oFD-M3bCJZM&t=6905s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 
 - So what did we become? We became Greeks. Greco-Israelites, during the time of the Greeks. We became Greeks. So Paul was writing to the Greeks and Gentiles in the New Testament. That's who he was writing to. Many of southern and northern kingdom, who reverted to the Greek customs, gave their children Greek names, took on the Greek culture, Greek language. That's who Paul was writing to.
 

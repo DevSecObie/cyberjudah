@@ -31,9 +31,9 @@ tags: ["IUIC in the ClassRoom", "christ", "idolatry", "mercy", "purpose", "the-w
 
 **[2 Maccabees 6:6-9](/bible/2-maccabees/6#v6)**  *[[1:28](https://www.youtube.com/watch?v=Fj_EW4mMTzQ&t=88s)]*
 
-> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew.
+> <sup>[6](/bible/2-maccabees/6#v6)</sup> Neither was it lawful for a man to keep sabbath days or ancient fasts, or to profess himself at all to be a Jew.
 >
-> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
+> <sup>[7](/bible/2-maccabees/6#v7)</sup> And in the day of the king’s birth every month they were brought by bitter constraint to eat of the sacrifices; and when the fast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy.
 >
 > <sup>[8](/bible/2-maccabees/6#v8)</sup> Moreover there went out a decree to the neighbour cities of the heathen, by the suggestion of Ptolemee, against the Jews, that they should observe the same fashions, and be partakers of their sacrifices:
 >
