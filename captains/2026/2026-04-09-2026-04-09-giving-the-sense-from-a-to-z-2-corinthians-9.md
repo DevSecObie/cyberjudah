@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 9"
 slug: "2026/2026-04-09-giving-the-sense-from-a-to-z-2-corinthians-9"
 date: "2026-04-09"
-teacher: "Captain Matthew"
+teacher: "Captain Mattathias"
 description: "Giving The Sense From A to Z · 2026-04-09"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "pride"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-04-09 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2026-04-09 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Cor 9](/bible/2-corinthians/9) · [Heb 10](/bible/hebrews/10) · [Lev 19](/bible/leviticus/19) · [Sir 10](/bible/sirach/10) · [Luke 6](/bible/luke/6) · [Eccl 11](/bible/ecclesiastes/11) · [Tobit 12](/bible/tobit/12) · [Tobit 4](/bible/tobit/4) · [Exod 35](/bible/exodus/35) · [Acts 4](/bible/acts/4) · [Sir 18](/bible/sirach/18) · [Sir 20](/bible/sirach/20) · [Deut 8](/bible/deuteronomy/8) · [Prov 3](/bible/proverbs/3) · [Ps 37](/bible/psalms/37) · <i>and 5 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "pride"]
 
 ## Introduction
 
-*[[14:42](https://www.youtube.com/watch?v=8xZVMkVj4So&t=882s)]* Shalom family. Most High in Christ bless. Listen, welcome back to another episode of Giving the Sense from A to Z. I'm your host Captain Matthew. And today we'll be covering 2 Corinthians chapter 9. But before we get into it, let's open up with the scripture for the inspiration of this show. So just a little brief overview: in 2 Corinthians chapter 9, Paul is addressing, this is a second letter to the church in Corinth, right? And remember all these things are one letters, wasn't broken down into chapters and verse. So in this particular section of the letter Paul is really encouraging the believers to give generously and willingly, right? And to support the other saints, especially those that are poor. So we're going to go over that today, and when you read about it, he gives an example how they helped the poor out in Jerusalem. So Paul really emphasized that giving is not just financial, it's spiritual, and that we got to be cheerful givers. You understand?
+*[[14:42](https://www.youtube.com/watch?v=8xZVMkVj4So&t=882s)]* Shalom family. Most High in Christ bless. Listen, welcome back to another episode of Giving the Sense from A to Z. I'm your host Captain Mattathias. And today we'll be covering 2 Corinthians chapter 9. But before we get into it, let's open up with the scripture for the inspiration of this show. So just a little brief overview: in 2 Corinthians chapter 9, Paul is addressing, this is a second letter to the church in Corinth, right? And remember all these things are one letters, wasn't broken down into chapters and verse. So in this particular section of the letter Paul is really encouraging the believers to give generously and willingly, right? And to support the other saints, especially those that are poor. So we're going to go over that today, and when you read about it, he gives an example how they helped the poor out in Jerusalem. So Paul really emphasized that giving is not just financial, it's spiritual, and that we got to be cheerful givers. You understand?
 
 ## Scriptures Opened
 

@@ -32,3 +32,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 6
 
 - 1 Corinthians 12:10 (2026-01-22, host name unclear), 13 (2026-01-27, Captain Gedaliah), 14 (2026-01-28, Captain Zakai), 14:11 (2026-02-05, host name unclear), 15 (2026-02-09, Captain Yaya) and 15:5 (2026-02-10, host name unclear).
+
+## Captain Mattathias
+
+- Obie: Captain Matt, Captain Matthew and "Captain Met" are Captain Mattathias. They are added to his `data/names.tsv` row as variants, and 71 spots are respelled.

@@ -2,7 +2,7 @@
 title: "Handling Matters With Wisdom"
 slug: "2025/2025-10-07-handling-matters-with-wisdom"
 date: "2025-10-07"
-teacher: "Captain Matthew"
+teacher: "Captain Mattathias"
 description: "15 Minutes w/ The Captains · 2025-10-07"
 tags: ["15 Minutes w/ The Captains", "christ", "repentance", "wisdom"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "repentance", "wisdom"]
 
 ## Introduction
 
-*[[0:15](https://www.youtube.com/watch?v=6IEhdesXge8&t=15s)]* Hey, shalom Israel. Most High and Christ bless. Most High and Christ bless. Welcome back to another episode of 15 minutes with the captains. I'm your host, Captain Matthew, and today we'll be covering handling matters with wisdom: how to gain your brother. 'Cause as we know, it's a lot of conflict in our communities. Even when we come into the truth, we bring these certain negative traits and characteristics, or perceptions, about our own brothers and sisters in the truth, because that's part of repentance. We come out of the world where we've been told we're nothing. We see the horrible imagery of our people. So now, once we come into the truth and the understanding of Christ that gives us wisdom, how do we deal with matters wisely to gain our brothers?
+*[[0:15](https://www.youtube.com/watch?v=6IEhdesXge8&t=15s)]* Hey, shalom Israel. Most High and Christ bless. Most High and Christ bless. Welcome back to another episode of 15 minutes with the captains. I'm your host, Captain Mattathias, and today we'll be covering handling matters with wisdom: how to gain your brother. 'Cause as we know, it's a lot of conflict in our communities. Even when we come into the truth, we bring these certain negative traits and characteristics, or perceptions, about our own brothers and sisters in the truth, because that's part of repentance. We come out of the world where we've been told we're nothing. We see the horrible imagery of our people. So now, once we come into the truth and the understanding of Christ that gives us wisdom, how do we deal with matters wisely to gain our brothers?
 
 ## Scriptures Opened
 

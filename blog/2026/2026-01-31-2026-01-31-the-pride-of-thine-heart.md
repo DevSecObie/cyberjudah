@@ -251,7 +251,7 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 >
 > <sup>[11](/bible/2-corinthians/2#v11)</sup> Lest Satan should get an advantage of us: for we are not ignorant of his devices.
 
-- Forgive, lest Satan should get an advantage of us, for we are not ignorant of his devices. Examine whether a subtle pride is his device on you: not asking for help, thinking too highly of yourself, refusing correction. Captain Matthew adds that pride is also why a heavy brother will not change his eating.
+- Forgive, lest Satan should get an advantage of us, for we are not ignorant of his devices. Examine whether a subtle pride is his device on you: not asking for help, thinking too highly of yourself, refusing correction. Captain Mattathias adds that pride is also why a heavy brother will not change his eating.
 
   Precepts:
   - **[Psalms 18:20-23](/bible/psalms/18#v20)**

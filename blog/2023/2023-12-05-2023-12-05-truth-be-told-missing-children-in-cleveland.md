@@ -2,13 +2,13 @@
 title: "Truth Be Told: Missing Children in Cleveland"
 slug: "2023/2023-12-05-truth-be-told-missing-children-in-cleveland"
 date: "2023-12-05"
-teacher: "Captain Matthew"
+teacher: "Captain Mattathias"
 description: "Truth Be Told · 2023-12-05"
 collection: "Truth Be Told"
 tags: ["IUIC in the ClassRoom", "marriage-family"]
 ---
 
-<p class="taught">Truth Be Told · 2023-12-05 · Captain Matthew</p>
+<p class="taught">Truth Be Told · 2023-12-05 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [Deut 24](/bible/deuteronomy/24) · [2 Kgs 24](/bible/2-kings/24) · [Sir 4](/bible/sirach/4) · [Lam 5](/bible/lamentations/5) · [Matt 5](/bible/matthew/5) · [Isa 15](/bible/isaiah/15) · [Neh 13](/bible/nehemiah/13) · [Ps 60](/bible/psalms/60) · [Hos 6](/bible/hosea/6) · [Eph 4](/bible/ephesians/4) · [Sir 33](/bible/sirach/33) · [1 Pet 4](/bible/1-peter/4) · [Ps 81](/bible/psalms/81) · [1 Macc 11](/bible/1-maccabees/11) · [1 John 3](/bible/1-john/3) · [Mal 1](/bible/malachi/1) · <i>and 8 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "marriage-family"]
 
 ## Introduction
 
-*[[3:01](https://www.youtube.com/watch?v=qxxh-jH13tI&t=181s)]* Truth Be Told from IUIC DC, hosted by Captain Matthew with Officer Ruben, Officer Micah and the officers, after the brothers marched in Cleveland and passed out flyers for the missing children: Ohio has over 97,000 missing people, many of them our children. They took the mighty men and left the poorest, broke up the household, and still steal our children; be a father to the fatherless, and the Lord's law on him that stealeth a man stands.
+*[[3:01](https://www.youtube.com/watch?v=qxxh-jH13tI&t=181s)]* Truth Be Told from IUIC DC, hosted by Captain Mattathias with Officer Ruben, Officer Micah and the officers, after the brothers marched in Cleveland and passed out flyers for the missing children: Ohio has over 97,000 missing people, many of them our children. They took the mighty men and left the poorest, broke up the household, and still steal our children; be a father to the fatherless, and the Lord's law on him that stealeth a man stands.
 
 ## In The News
 

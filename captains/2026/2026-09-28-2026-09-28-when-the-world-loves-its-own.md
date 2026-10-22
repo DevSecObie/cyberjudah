@@ -2,7 +2,7 @@
 title: "When the World Loves It's Own"
 slug: "2026/2026-09-28-when-the-world-loves-its-own"
 date: "2026-09-28"
-teacher: "Captain Matt"
+teacher: "Captain Mattathias"
 description: "15 Minutes w/ The Captains · 2026-09-28"
 tags: ["15 Minutes w/ The Captains", "christ"]
 ---

@@ -2,7 +2,7 @@
 title: "Wherever You Go There You Are"
 slug: "2026/2026-07-24-wherever-you-go-there-you-are"
 date: "2026-07-24"
-teacher: "Captain Matt"
+teacher: "Captain Mattathias"
 description: "15 Minutes w/ The Captains · 2026-07-24"
 tags: ["15 Minutes w/ The Captains", "faith"]
 ---

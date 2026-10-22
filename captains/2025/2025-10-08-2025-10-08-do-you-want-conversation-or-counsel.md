@@ -2,7 +2,7 @@
 title: "Do You Want Conversation Or Counsel??"
 slug: "2025/2025-10-08-do-you-want-conversation-or-counsel"
 date: "2025-10-08"
-teacher: "Captain Matt"
+teacher: "Captain Mattathias"
 description: "15 Minutes w/ The Captains · 2025-10-08"
 tags: ["15 Minutes w/ The Captains", "discipline"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "discipline"]
 
 ## Introduction
 
-*[[0:21](https://www.youtube.com/watch?v=bp8eGluJHiU&t=21s)]* Hey, shalom Israel. Most High and Christ bless. It's Captain Matt, IUIC Baton Rouge, and this is another 15 minutes with the captains. All right. Now, today's topic is: do you counsel for correction or conversation? Because they got a lot of people that, you know, they want correction. But when they want the correction, do they really want to hear what you got to say, or do they want the conversation? Now, you're supposed to come to your counselor, your leaders, your elders, your counselor of a thousand, to counsel, to get things corrected in your life. But a lot of people, they don't want that. You just want to talk. Now, if you want to talk, fine. I have a listening ear. I'll listen to you all day. But if you want counsel, you have to apply the counsel. And we're going to go through some scriptures today that shows that there were a lot of our forefathers that hated counsel. Why? Because it wasn't what they wanted it to be.
+*[[0:21](https://www.youtube.com/watch?v=bp8eGluJHiU&t=21s)]* Hey, shalom Israel. Most High and Christ bless. It's Captain Mattathias, IUIC Baton Rouge, and this is another 15 minutes with the captains. All right. Now, today's topic is: do you counsel for correction or conversation? Because they got a lot of people that, you know, they want correction. But when they want the correction, do they really want to hear what you got to say, or do they want the conversation? Now, you're supposed to come to your counselor, your leaders, your elders, your counselor of a thousand, to counsel, to get things corrected in your life. But a lot of people, they don't want that. You just want to talk. Now, if you want to talk, fine. I have a listening ear. I'll listen to you all day. But if you want counsel, you have to apply the counsel. And we're going to go through some scriptures today that shows that there were a lot of our forefathers that hated counsel. Why? Because it wasn't what they wanted it to be.
 
 ## Scriptures Opened
 
