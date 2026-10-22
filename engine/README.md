@@ -70,8 +70,8 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `search/topics.json`, `search/books.json`, `search/laws.json`, `search/precepts.json`, `search/cases.json` | small indexes for browse pages |
 | `pagefind/` | a sharded full-text index; load `pagefind/pagefind.js` and search every verse, note, law, precept and case |
 | `search.sql.gz` | the search index as SQL: one FTS5 table `search_docs(kind, title, url, sub, text, book, chapter)`, every verse a row, notes split at headings into pieces of a few KB, laws, precepts and cases one row each; the site loads it into Cloudflare D1 on every publish |
-| `search-index/parts.json`, `search-index/NN.sql.gz` | the same index in parts, each under 20 MiB gzipped and valid SQL on its own, to run in order; `search.sql.gz` itself is over the 25 MiB a Workers asset may be and is kept out of data.cyberjudah.io by `.assetsignore` (it stays in the `data` branch) |
-| `library.sqlite.gz` | the whole library as SQLite with FTS5 tables (`verses_fts`, `notes_fts`, `laws_fts`, `cases_fts`); downloaded from GitHub's `data` branch only, excluded from Cloudflare assets by `.assetsignore` |
+| `search-index/parts.json`, `search-index/NN.sql.gz` | the same index in parts, each under 20 MiB gzipped and valid SQL on its own, to run in order (the Telegram bot's D1 load reads these) |
+| `library.sqlite.gz` | the whole library as SQLite with FTS5 tables (`verses_fts`, `notes_fts`, `laws_fts`, `cases_fts`); import into Cloudflare D1, Turso, or open locally |
 | `img/classes/<videoId>.jpg`, `img/captains/<videoId>.jpg` | thumbnails |
 | `classes/rss.xml`, `captains/rss.xml`, `study/rss.xml` and `*/feed.json` | feeds |
 | `llms.txt` | a summary for language models |
@@ -101,28 +101,27 @@ tagged corpus, including occurrences beyond 600 and exact page boundaries.
 ## Where it is published
 
 `.github/workflows/data.yml` runs the engine on every push to `main` that touches the
-vault and publishes `dist/` to the `data` branch of this repository, a single commit,
-history discarded. Anything that can serve a git branch can serve the data set:
+vault, then `engine/publish.mjs` publishes `dist/` to the R2 bucket `cyberjudah-data`, and the
+Worker in `engine/worker/` serves the live build at `https://data.cyberjudah.io`. Git holds the
+source only; built files are not committed anywhere.
 
-- jsDelivr, right now, with no setup: `https://cdn.jsdelivr.net/gh/DevSecObie/cyberjudah@data/api/stats.json`.
-  For fresh reads, use the pointer: `https://raw.githubusercontent.com/DevSecObie/cyberjudah/data/pointer.json`
-  names the commit that holds the current data set, and `cdn.jsdelivr.net/gh/DevSecObie/cyberjudah@<that commit>/...`
-  serves it immutably (the branch name alone is cached for hours at the edge)
-- Cloudflare Pages or Netlify, connected to the `data` branch with no build step
-- a Cloudflare R2 bucket, or any object store, by copying the branch
+- Each file is stored once under its content hash (`o/<sha256>`). A build uploads only the
+  objects the live build does not already have, so a new note uploads a handful of files.
+- A build's manifest (`builds/<id>/`, 64 shards of `{path: [sha256, size]}`) lists its files.
+  Writing `pointer.json` makes it live: every reader moves to the new build in one step.
+- The newest 10 builds are kept; older builds and objects only they used are removed.
+  `node engine/publish.mjs --rollback <build-id>` makes a kept build live again.
+- No size limit applies to a file (R2 takes up to 5 GB in one upload). The Worker sends CORS,
+  cache lifetimes per path, an `ETag` of the content hash, and answers `Range` requests.
+
+The layout is in `engine/worker/layout.mjs`. `node --test engine/publish.test.mjs` covers the
+publisher and the Worker against an in-memory bucket; `node --test engine/data-assets.test.mjs`
+(after installing the engine and site dependencies) builds the real data set, publishes it to
+memory, reads it back through the Worker and packages the Worker with Wrangler's dry run.
 
 ## SQLite quick start
 
-Download [library.sqlite.gz from GitHub](https://raw.githubusercontent.com/DevSecObie/cyberjudah/data/library.sqlite.gz).
-The engine keeps it in `dist/` for publication to the `data` branch, but excludes both
-`library.sqlite` and `library.sqlite.gz` from Cloudflare Workers static assets regardless
-of size. `api/index.json`'s `search.sqlite` is now this absolute GitHub URL; `llms.txt`
-and the site's Downloads page use the same destination. Other data paths retain their
-existing hosting. The separate D1 search import still uses `search.sql.gz`.
-
-Run `node --test engine/data-assets.test.mjs` after installing the engine and site
-dependencies to build into a temporary directory and check Git publication, the
-Cloudflare asset manifest, and Wrangler's dry run without uploading anything.
+Download [library.sqlite.gz](https://data.cyberjudah.io/library.sqlite.gz), then:
 
 ```
 gunzip library.sqlite.gz

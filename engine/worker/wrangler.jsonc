@@ -1,10 +1,12 @@
 {
   "$schema": "https://unpkg.com/wrangler/config-schema.json",
-  // The data set as a static-assets Worker: dist/ minus its generated .assetsignore exclusions,
-  // served at data.cyberjudah.io with the cache headers from dist/_headers. No code runs.
+  // data.cyberjudah.io: a small read-only Worker serving the live build of the data set from the
+  // R2 bucket cyberjudah-data, which engine/publish.mjs fills. Layout in layout.mjs. R2 has no
+  // per-file limit that matters here (5 GB per upload), unlike Workers static assets (25 MiB).
   "name": "cyberjudah-data",
+  "main": "index.mjs",
   "compatibility_date": "2025-05-01",
   "workers_dev": true,
-  "assets": { "directory": "../../dist", "not_found_handling": "none", "html_handling": "none" },
+  "r2_buckets": [{ "binding": "DATA", "bucket_name": "cyberjudah-data" }],
   "routes": [{ "pattern": "data.cyberjudah.io", "custom_domain": true }]
 }

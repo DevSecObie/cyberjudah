@@ -20,7 +20,7 @@ brand/              the lion, the icons, the social card
 
 Nothing is hand-written except the notes and the data. The engine builds the JSON API, the
 full-text index, the SQLite library and the feeds on every push to `main` and publishes them
-to the `data` branch and to `data.cyberjudah.io`; the site reads them from there. The front
+to an R2 bucket served at `data.cyberjudah.io`; the site reads them from there. The front
 end is replaceable: anything that can read JSON can render this library. The contract is in
 [engine/README.md](engine/README.md).
 

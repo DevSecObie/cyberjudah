@@ -37,7 +37,6 @@ const args = process.argv.slice(2);
 const opt = (name, dflt) => { const i = args.indexOf(`--${name}`); return i >= 0 ? args[i + 1] : dflt; };
 const OUT = path.resolve(ROOT, opt("out", "dist"));
 const SITE = opt("site", "https://devsecobie.github.io/cyberjudah").replace(/\/$/, "");
-const SQLITE_DOWNLOAD = "https://raw.githubusercontent.com/DevSecObie/cyberjudah/data/library.sqlite.gz";
 const THUMBS = !args.includes("--no-thumbs");
 const t0 = Date.now();
 
@@ -766,7 +765,7 @@ writeJson(path.join(API, "index.json"), {
   concordanceIndex: "/api/concordance/index.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
   history: "/api/history/index.json", shows: "/api/shows/index.json", strongs: "/api/strongs/<number>.json", strongsIndex: "/api/strongs/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", web: "/api/web/<book-slug>/<chapter>.json", stats: "/api/stats.json",
-  search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: SQLITE_DOWNLOAD },
+  search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
   downloads: { vault: "/downloads/vault.zip" },
   feeds: { classes: "/classes/rss.xml", captains: "/captains/rss.xml", study: "/study/rss.xml" },
 });
@@ -793,7 +792,7 @@ write(path.join(OUT, "llms.txt"), [
   `- [Books](${SITE}/api/kjv/books.json), chapters at ${SITE}/api/kjv/<book-slug>/<chapter>.json`,
   `- [Notes index](${SITE}/api/notes/index.json): study, class, captains and encyclopedia notes`,
   `- Citations for a chapter: ${SITE}/api/concordance/<book-slug>/<chapter>.json`,
-  `- [SQLite library with full-text search](${SQLITE_DOWNLOAD})`, "",
+  `- [SQLite library with full-text search](${SITE}/downloads)`, "",
   "## Feeds", "",
   `- [Sabbath class notes](${SITE}/classes/rss.xml)`, `- [15 Minutes w/ The Captains](${SITE}/captains/rss.xml)`, `- [4 Chapters a Day](${SITE}/study/rss.xml)`, "",
 ].join("\n"));
@@ -917,11 +916,10 @@ write(path.join(OUT, "llms.txt"), [
   const sql = out.join("\n") + "\n";
   const gz = zlib.gzipSync(sql, { level: 9 });
   fs.writeFileSync(path.join(OUT, "search.sql.gz"), gz);
-  // The whole index is past the 25 MiB a Workers static asset may be, so it is also written
-  // in parts under search-index/, each under 20 MiB gzipped and each valid SQL on its own, to be
-  // run in order (the first creates the table, the last writes search_meta); search-index/parts.json
-  // lists them. (search/ is taken: the site's search feeds live there.) The whole file stays for the data branch and the D1 load here, but is kept
-  // out of the assets upload by .assetsignore.
+  // The index is also written in parts under search-index/, each under 20 MiB gzipped and each
+  // valid SQL on its own, to be run in order (the first creates the table, the last writes
+  // search_meta); search-index/parts.json lists them. The Telegram bot's D1 load reads the parts.
+  // (search/ is taken: the site's search feeds live there.)
   const PART_MAX = 20 * 1048576, ratio = gz.length / sql.length, target = Math.floor((PART_MAX * 0.9) / ratio);
   fs.rmSync(path.join(OUT, "search-index"), { recursive: true, force: true });
   fs.mkdirSync(path.join(OUT, "search-index"), { recursive: true });
@@ -939,12 +937,6 @@ write(path.join(OUT, "llms.txt"), [
   for (const st of out) { if (chunkSize + st.length > target && chunk.length) flushPart(); chunk.push(st); chunkSize += st.length; }
   flushPart();
   writeJson(path.join(OUT, "search-index", "parts.json"), { built: new Date().toISOString(), rows: rows.length, sql_bytes: sql.length, parts });
-  write(path.join(OUT, ".assetsignore"), [
-    "# The offline SQLite download stays on GitHub's data branch, regardless of size.",
-    "library.sqlite", "library.sqlite.gz",
-    "# Over the 25 MiB Workers asset limit; served in parts from search-index/ instead.",
-    "search.sql.gz", "",
-  ].join("\n"));
   console.error(`search.sql: ${rows.length} rows, ${(sql.length / 1048576).toFixed(1)} MB, ${(gz.length / 1048576).toFixed(1)} MB gzipped, in ${parts.length} parts`);
 }
 
@@ -978,17 +970,8 @@ write(path.join(OUT, "llms.txt"), [
   console.error(`pagefind: ${records.length} records`);
 }
 
-/* ---------------- headers for hosts that honour a _headers file ---------------- */
-// Cloudflare Workers static assets (and Pages, Netlify) read this. Everything is public
-// and CORS-open; the API refreshes within five minutes of a build, the index and images
-// are content-stable and can be held longer.
-write(path.join(OUT, "_headers"), [
-  "/*", "  Access-Control-Allow-Origin: *", "  Cache-Control: public, max-age=300", "  X-Content-Type-Options: nosniff", "",
-  "/pointer.json", "  Cache-Control: public, max-age=60", "",
-  "/manifest.json", "  Cache-Control: public, max-age=60", "",
-  "/pagefind/*", "  Cache-Control: public, max-age=86400", "",
-  "/img/*", "  Cache-Control: public, max-age=604800", "",
-].join("\n"));
+/* Headers: the data Worker sets them (CORS-open, cache lifetimes per path) from
+   engine/worker/layout.mjs, so the build writes no _headers file. */
 
 /* ---------------- manifest ---------------- */
 let commit = null;
