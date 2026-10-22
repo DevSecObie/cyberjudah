@@ -112,7 +112,7 @@ Reading from *Wars of the Jews: A Military History from Biblical to Modern Times
 
 - So they letting you know, it says the Afro-Asian and Oriental peoples. That was us. Anytime they put the word Afro before that, they talking about us. But we was dwelling in those lands: Afro-Asian, and Oriental peoples.
 
-- So they called us barbarians. The Scythians, those of us that was over there. Remember Captain Joel and Captain Galayah, they brought out we was over there with Ammon, and Moab. Moab and Ammon. So we was dwelling in that land; that's why it's saying Afro-Asians. We was over there.
+- So they called us barbarians. The Scythians, those of us that was over there. Remember Captain Joel and Captain Gedaliah, they brought out we was over there with Ammon, and Moab. Moab and Ammon. So we was dwelling in that land; that's why it's saying Afro-Asians. We was over there.
 
 - That's who the Greeks and Romans refer to us as: barbarians. You know why? Because we didn't speak their language. We were still doing our own thing, still under our own government. So that's why they refer to us as barbarians, meaning they say we wasn't civilized, quote unquote.
 

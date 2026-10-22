@@ -2,13 +2,13 @@
 title: "Escaping the Plantation: Lucifer the Light Bearer & Don't Listen to Black Women"
 slug: "2025/2025-07-14-escaping-the-plantation-lucifer-the-light-bearer-don-t-listen-to-black"
 date: "2025-07-14"
-teacher: "Captain Galayah"
+teacher: "Captain Gedaliah"
 description: "Escaping the Plantation · 2025-07-14"
 collection: "Escaping the Plantation"
 tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "satan", "women"]
 ---
 
-<p class="taught">Escaping the Plantation · 2025-07-14 · Captain Galayah</p>
+<p class="taught">Escaping the Plantation · 2025-07-14 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Ps 71](/bible/psalms/71) · [Isa 60](/bible/isaiah/60) · [Ezra 2](/bible/ezra/2) · [2 Kgs 24](/bible/2-kings/24) · [Ezra 1](/bible/ezra/1) · [Ezra 4](/bible/ezra/4) · [Hos 1](/bible/hosea/1) · [Neh 2](/bible/nehemiah/2) · [Neh 9](/bible/nehemiah/9) · [Dan 9](/bible/daniel/9) · [1 Esdras 5](/bible/1-esdras/5) · [Rev 13](/bible/revelation/13) · [Rev 2](/bible/revelation/2) · [Ezek 25](/bible/ezekiel/25) · [Jer 16](/bible/jeremiah/16) · [Rev 21](/bible/revelation/21) · <i>and 40 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "satan", "women
 
 ## Introduction
 
-*[[14:17](https://www.youtube.com/watch?v=cdpgk1FUrUQ&t=857s)]* Escaping the Plantation 2.0, streamed live by IUIC Raleigh, hosted by Captain Galayah with Captain Josiah, Officer John and other officers, on Lucifer the light bearer and don't listen to black women. The righteous rant answers a Christian podcaster who says Isaiah 60 was fulfilled in Ezra 2. Lucifer in Isaiah 14 is not a fallen angel but the golden city, Babylon the Great, the so-called white man's United States of America. Then the class turns to the unrepentant women in the world who prophesy out of their own heart, and the fathers and leaders sisters need.
+*[[14:17](https://www.youtube.com/watch?v=cdpgk1FUrUQ&t=857s)]* Escaping the Plantation 2.0, streamed live by IUIC Raleigh, hosted by Captain Gedaliah with Captain Josiah, Officer John and other officers, on Lucifer the light bearer and don't listen to black women. The righteous rant answers a Christian podcaster who says Isaiah 60 was fulfilled in Ezra 2. Lucifer in Isaiah 14 is not a fallen angel but the golden city, Babylon the Great, the so-called white man's United States of America. Then the class turns to the unrepentant women in the world who prophesy out of their own heart, and the fathers and leaders sisters need.
 
 ## Scriptures Opened
 

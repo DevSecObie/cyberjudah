@@ -2,13 +2,13 @@
 title: "Escaping the Plantation: The Image of the Gods and the Fate of the Oppressors"
 slug: "2025/2025-09-15-escaping-the-plantation-the-image-of-the-gods-and-the-fate-of-the-oppr"
 date: "2025-09-15"
-teacher: "Captain Galayah"
+teacher: "Captain Gedaliah"
 description: "Escaping the Plantation · 2025-09-15"
 collection: "Escaping the Plantation"
 tags: ["IUIC in the ClassRoom", "satan"]
 ---
 
-<p class="taught">Escaping the Plantation · 2025-09-15 · Captain Galayah</p>
+<p class="taught">Escaping the Plantation · 2025-09-15 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Ps 71](/bible/psalms/71) · [2 Macc 6](/bible/2-maccabees/6) · [Acts 5](/bible/acts/5) · [Ps 83](/bible/psalms/83) · [Zech 2](/bible/zechariah/2) · [Ps 105](/bible/psalms/105) · [Judith 16](/bible/judith/16) · [2 Esdras 16](/bible/2-esdras/16) · [Deut 32](/bible/deuteronomy/32) · [2 Esdras 15](/bible/2-esdras/15) · [Gen 1](/bible/genesis/1) · [Col 1](/bible/colossians/1) · [Heb 1](/bible/hebrews/1) · [Rev 3](/bible/revelation/3) · [John 14](/bible/john/14) · [Rev 1](/bible/revelation/1) · <i>and 28 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "satan"]
 
 ## Introduction
 
-*[[14:17](https://www.youtube.com/watch?v=4rqlf4LI8P8&t=857s)]* Escaping the Plantation 2.0, streamed live by IUIC Raleigh, hosted by Captain Galayah with Officer John and other officers, all in red for the blood, on day 14 of a 30-day apologetics blitz: the image of the gods and the fate of the oppressors. The righteous rant, France versus God, answers France's ban on IUIC keeping the commandments with the unrest God is sending on France. Then the image of the gods: Christ, his Father and his people are black, with woolly hair and feet like burnished brass, proven from the scriptures, the lexicon, their own translations and antiquity art. The fate of the oppressors is the fate of Cain and Esau, the man of blood.
+*[[14:17](https://www.youtube.com/watch?v=4rqlf4LI8P8&t=857s)]* Escaping the Plantation 2.0, streamed live by IUIC Raleigh, hosted by Captain Gedaliah with Officer John and other officers, all in red for the blood, on day 14 of a 30-day apologetics blitz: the image of the gods and the fate of the oppressors. The righteous rant, France versus God, answers France's ban on IUIC keeping the commandments with the unrest God is sending on France. Then the image of the gods: Christ, his Father and his people are black, with woolly hair and feet like burnished brass, proven from the scriptures, the lexicon, their own translations and antiquity art. The fate of the oppressors is the fate of Cain and Esau, the man of blood.
 
 ## Scriptures Opened
 

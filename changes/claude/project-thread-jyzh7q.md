@@ -2,6 +2,8 @@
 
 Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse Bible study streams. Each note is filed under the series by `collection`, dated by its stream day on YouTube, in the host's own words with every verse pulled from the KJV.
 
-## Batch 1
+## Captain Gedaliah's spelling
 
-- Ezekiel 4 (2026-07-07, Captain Josiah), Ezekiel 3:10 (2026-06-29, Captain Emmanuel), Ezekiel 2 Continued (2026-06-01, host not named), Ezekiel 2 (2026-05-28, Captain Yuri), Ezekiel 1 (2026-05-27, host not named) and 2 Corinthians 12:11 (2026-05-26, Captain Galayah).
+- Obie: "It's Captain Gedaliah". `data/names.tsv` now spells him Gedaliah (Gadaliah, Gdaliah, "Gad Elijah" and "Ghallayia" are its variants), and the five notes that had Gadaliah are respelled.
+- The 2 Corinthians 12:11 lesson (2026-05-26) is his: he introduces himself as "Ghallayia", and the next lesson says "Captain Gad Elijah did 2 Corinthians the last chapter". It was filed under Captain Galayah; it now names Captain Gedaliah.
+- Obie: Captain Galayah and Captain Gedaliah are the same man. The Galayah row is folded into Gedaliah (Galayah, Galiah, Galia, Galai and Gallayia are now variants), the 16 notes that credited Captain Galayah now say Captain Gedaliah, and *Trauma Letters: Healing the Child Within* in `data/books.tsv` is now listed under Captain Gedaliah.

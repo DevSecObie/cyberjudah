@@ -687,7 +687,7 @@ Music and media: vote for the Israel Live top five countdown, Mondays at 9:00 pm
 Books and documents referenced in class:
 
 - The Developmental Psychology of the Black Child, by Amos Wilson
-- Trauma Letters: Healing the Child Within, by Captain Galayah
+- Trauma Letters: Healing the Child Within, by Captain Gedaliah
 - Countering the Conspiracy to Destroy Black Boys, by Jawanza Kunjufu (the fourth grade failure syndrome)
 - Black Men, by Haki Madhubuti (the Dearborn model plane account)
 - Letter from King Leopold II of Belgium to colonial missionaries, 1883 (teach students to read and not to reason)

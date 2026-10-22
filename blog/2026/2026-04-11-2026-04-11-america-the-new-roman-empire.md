@@ -420,7 +420,7 @@ Reading from *The New Testament World in Pictures* by William H. Stephens, inclu
 
 - So, in this book it talks about Titus. That's a bust right there of Titus.
 
-- There's a picture of us in the amphitheater. That's Nehemiah, Deacon Malachi, myself, Captain Ashan, and Captain Galayah at the Colosseum. See how big it is? And they showed us, you can see downstairs where the rooms are, where the gladiators would wait, and you would see where the animals were kept as well. I just want to show y'all that we did go there and witnessed it. That's it from a distance shot. So they use black slaves to build that.
+- There's a picture of us in the amphitheater. That's Nehemiah, Deacon Malachi, myself, Captain Ashan, and Captain Gedaliah at the Colosseum. See how big it is? And they showed us, you can see downstairs where the rooms are, where the gladiators would wait, and you would see where the animals were kept as well. I just want to show y'all that we did go there and witnessed it. That's it from a distance shot. So they use black slaves to build that.
 
 > By the time of Claudius, at least Antioch had an influential Jewish community.
 

@@ -1222,7 +1222,7 @@ Reading from the Wikipedia articles on the Latin Church and Western culture  *[[
 
 - So the point I'm reading here is that Christ understood that there was some among him that did not believe. Peter gave the same warning. Paul gave the same warning. And it happened. As soon as they were all killed off, that's when the doctrine began to sway into madness. And here we are today, fighting it off all over again. Nothing new under the sun. The disciples had debates with these idiots. Peter had debates with them. Paul had debates with them. John, Mark, Luke, Thomas, they all debated with the same heretical fools that we got to deal with all the time. All the time.
 
-- Shout out to Captain Gadaliah and his blitz, the apologetics blitz he's doing. I love it. I did a class this past Sabbath. I know it pissed people off, but all praise to the Most High for that.
+- Shout out to Captain Gedaliah and his blitz, the apologetics blitz he's doing. I love it. I did a class this past Sabbath. I know it pissed people off, but all praise to the Most High for that.
 
 - **Brother:** Even Christ was debating them.
 
