@@ -1,0 +1,1303 @@
+---
+title: "Israeli vs Israelite: The Nominal vs The Native Part 3"
+slug: "2022/2022-11-27-ep-87-our-hidden-history-radio-israeli-vs-israelite-the-nominal-vs-the-native-part-3"
+date: "2022-11-27"
+episode: 87
+teacher: "Deacon Eythan"
+description: "Our Hidden History · 2022-11-27"
+tags: ["Our Hidden History", "edom-esau"]
+---
+
+<p class="taught">Our Hidden History · 2022-11-27 · Deacon Eythan</p>
+
+<span class="opens"><b>Opens</b> [Acts 21](/bible/acts/21) · [Acts 13](/bible/acts/13) · [Gen 25](/bible/genesis/25) · [Zeph 2](/bible/zephaniah/2) · [Esth (Gk) 13](/bible/esther-greek/13) · [Deut 28](/bible/deuteronomy/28) · [Matt 2](/bible/matthew/2) · [Lev 20](/bible/leviticus/20) · [Lam 4](/bible/lamentations/4) · [Acts 26](/bible/acts/26)</span>
+
+<!-- truncate -->
+
+<div class="class-video-mount" data-video-id="vCohQ_iqBsg"></div>
+
+
+## Introduction
+
+*[[11:25](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=685s)]* Beating this horse. It's not dead yet; we got to keep on beating it. The whole anti-Semite thing, you know, we're attacking it head-on. We're not going to stop. We're going to relentlessly, continuously bring out the facts revolving around this controversial, alleged controversy of us being Black Hebrew Israelites, which is false, a false narrative. The fact that we have black, that we have Hispanics and they have Americans among us, and so different shades and features and different physiology, what they call it, physiognomies, that pretty much negates any Black Hebrew Israelism you may be referring to. That's all the slander nonsense, slanderous nonsense.
+
+*[[12:12](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=732s)]* We're a very, very diverse group of Israelites, because Israel was a diverse people. They make up the so-called black, Hispanics and they have Americans, and the so-called African diaspora. Now what I have done today, it was kind of last minute, because I was going to go into my topic, but I don't want to stray from the momentum that we've been running with so far regarding our defense. Again I will stand against anti-Semitism.
+
+*[[12:45](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=765s)]* Oh, shout outs to the brothers at the Barclays, man. We did our thing. All praise the Lord for that. Victorious battle, the battle for the best, right? Game changer. That was a monumental act that took place this year, and many more. I'm pretty sure many more things are in the works that's going to happen; it's going to be even bigger than that. The Bishop is always, the Bishop's ever impressive, because he's always trying to do more and greater things, better things. But all praises for that. These are all strides. You know, these are all strides.
+
+*[[13:19](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=799s)]* So those of you who have any questions or comments, you can call us at 267-702-6121, for any questions or comments regarding the topic you may have. But in the meantime let's just jump right into it.
+
+*[[13:41](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=821s)]* Give me Genesis 25. Now the last time I was here I brought out the scriptures regarding Moses passing for an Egyptian. I brought out the evidence of Joseph passing for an Egyptian. I brought out the evidence of Paul. No, I didn't bring out Paul yet. We're going to get that. Let's just get that first, okay, give me that first, regarding Paul being confused with the Egyptian as well, because again these things need to be brought out.
+
+*[[14:04](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=844s)]* You know, when you ask these particular people, these nations, what color were the Egyptians, they get very, very skittish. They get very, very uncomfortable. Because of the Egyptians. And you ask them what color were the Egyptians, you get runarounds. It's Acts 21. You get runarounds, you get runarounds, you get Ham and all that stuff, because they say we're Hamites: you guys are Hamites, and why you stealing someone else's culture? We get all of that, and that's fine. If you want to argue about us allegedly stealing a culture, you guys are Hamites, okay, cool. So us being Hamites would obviously mean that all of Ham's children were black people. That would include the Ethiopians, the original indigenous Ethiopians; that would include the Canaanites; that would include the Libyans; and that would include the Egyptians. These are Hamites.
+
+*[[15:31](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=931s)]* So if we are Hamites and the Israelites passed for these Hamites, then they were black. And so whenever you ask, I saw a video of a brother arguing back and forth with an Edomite, and he was like, yo, what color was the Egyptians? What color was the Hamites? Oh, oh wow. Like, just running around the question, because they know if they say black, then they have to explain why did Moses and Joseph and Paul, why they pass for them. Right. You're forced to answer that, but you can't. So read that, Acts 21.
+
+
+## Readings and Scriptures
+
+**[Acts 21:37-39](/bible/acts/21#v37)**  *[[15:55](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=955s)]*
+
+> <sup>[37](/bible/acts/21#v37)</sup> And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?
+
+- Paul is being led. At this point he's under arrest. He's being led into the castle. He's made unto the chief captain: can I speak to you?
+
+- Can thou speak Greek? That was like, whoa, okay, you speak Greek. Whoa, okay.
+
+> <sup>[38](/bible/acts/21#v38)</sup> Art not thou that Egyptian, which before these days madest an uproar, and leddest out into the wilderness four thousand men that were murderers?
+
+- Are you not that? So there was a particular Egyptian causing problems: are you not that Egyptian? Four thousand men that were murderers, a criminal. So he thought that Paul was an Egyptian, that particular Egyptian man that was causing problems in the realm.
+
+> <sup>[39](/bible/acts/21#v39)</sup> But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people.
+
+- Now the reason why he's surprised that Paul could speak Greek is because, obviously, the guy that he's confusing Paul with was Egyptian, but he did not obviously speak Greek. So he's like, you speak Greek? The other dude, that guy that caused the problems. So whoever this African was, who was causing an uproar in the realm at the time, obviously this particular guy could not speak Greek. Paul spoke Greek, letting the guy know: listen, I'm not an Egyptian, I'm a Jew of Tarsus.
+
+- A citizen of no mean city. I'm not from the ghetto, I'm not from a bad area. I'm from a good city in Cilicia, in Turkey. Paul was from Turkey. Okay, so Paul was confused with an Egyptian man, another African. There's numerous occurrences in the Bible where...
+
+*[[17:58](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1078s)]* Give me Acts 13:1. Now let's just, we're going to just continuously dig this until nothing is left to dig. Acts 13 and 1.
+
+**[Acts 13:1](/bible/acts/13#v1)**  *[[18:08](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1088s)]*
+
+> <sup>[1](/bible/acts/13#v1)</sup> Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
+
+- Simeon that was called … These are Jews. These were Jews. Simeon was called a …; that was his surname. Because remember I showed you in other books where Black and Douglas, these are names, you call that … Dub, right? These are our surnames. We didn't call ourselves that by ethnicity; it was based upon our complexion. We named ourselves the black this, the black that, … this, … that. That was a term of endearment back in the day.
+
+- Now today it's a negative connotation in some instances: man, this … here. Right? That's how it was used back then. You understand? It was a term you used back then. It wasn't derogatory until we were overthrown by those who were not …, and then they called us … as a negative connotation, based upon the color of our skin, to degrade us and denigrate us. But back then … was the common term. And it's not Niger either. It's …. That's how you pronounce it properly, not trying to make it all sound all fancy, romantic and all that. Yeah, no, it's …. I like that word. It sounds good. In my mind it sounds good to me. It makes me feel good inside, and I hear it and say it numerous times. Whether positive or negative connotation, I enjoy saying it. But the Bible has it, and I'm glad the Bible has it in there. So now it's a biblical term now.
+
+*[[19:43](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1183s)]* So, Genesis 25, Genesis 25 verse 21. Let's get into the origin of the Israelites, the native versus the nominals. We're going to go into when they were born. We're going to go into the beginning of the nominals and the natives. The nominals are the people who call themselves Jewish today, or Israelis today, or Zionists. These are the nominals. They're the nominals. We are the natives, right? That's right. The originals, the aboriginals. That's who we are.
+
+*[[20:24](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1224s)]* Like you have white Americans today and you have Native Americans today. Who's the real Native American? Really the Native Americans, who are Israelites as well, and they knew that. You watch my old shows, going back, back, back, back, I reveal without a shadow of a doubt, historically, biblically, that they are the Israelites that were on this side of the world, whether you call them Olmecs, whether you call them Toltecs, Chichimecs, Aztecs, Mayans, Incas, North American Indians, South American Indians, you could say Yucatanians, Yucatan, whatever the hell it is. These are our people.
+
+*[[21:13](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1273s)]* Oh, and by the way, I don't want to spoil it. If you've seen Black Panther 2, bring it out. If you've seen Black Panther 2, Wakanda Forever, the producers let you know that they know what we know regarding the Israelites being Native Americans. I got to do it, I'm sorry, I got to say it, I'm sorry. Just go ahead, Deacon. That's the scene, bring it out.
+
+*[[21:36](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1296s)]* There is a scene in Black Panther: Wakanda Forever with Namor, and Shuri. And Namor is the Atlantis, the Talokan king, under the waters, of Wakanda or the Atlantic, I believe. And he takes her, I'm not going to give all the spoilers, he takes her underground to his realm. Now Shuri is very boyish and masculine in the movie, which I despised, contrary to how she was in the original one. And in this one she is brought to Namor's realm, and she is told by one of his servants to put on a dress, number one, which I loved, okay, and their dresses were modest and they wore them down past the ankles, past the knees. She had to wear that because, she said, you can't come before the king just like this; this is masculine. She didn't say that, but that's what I said. It sounds good. That's what she said to me anyway.
+
+*[[22:38](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1358s)]* She gives her a dress. And then, no, no, I'm sorry, before that he goes: if you go to my realm, the pressure of the water will crush your bones. You got to wear this suit. So she gets a suit. She's taken to his underwater tunnels, and she's floating through the tunnels. She makes it to Talokan. I'll get to that in a minute. They arrive there, and it's a little girl under the water, swimming, smiling with her. And then Shuri says to the little girl, the little Aztec girl: shalom. Okay. Shalom. And I'm not making it up.
+
+*[[23:17](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1397s)]* We should play it. You have that video? I can get it. At least get it and put it on the screen. She said shalom to the little girl. My wife, I watched it with the wife, and I don't think, oh babe, did she say shalom? She was like, yes. I said, no, I don't believe you. There's no way, there's no way they allowed this in the movie, of a sister telling another kingdom sister in the movie, another Northern Kingdom sister in the movie, shalom. There's no way. I heard what I heard. So we got to play it real quick. Of course it's a bootleg, because, you know, we're going to go into the movie and film from the screen. You know, we can't help ourselves. Not all of us got money like that. So we gotta hustle. So we're going to play it really quickly.
+
+*[[24:13](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1453s)]* Wait on that. Hey, pull up Ham. Yeah, pull up the Bible dictionary of Ham while we wait. Take it from the Bible; just find one from the Bible. That's the Bible dictionary, right? All right.
+
+<div class="reading">
+
+Reading from a Bible dictionary, the entry on Ham (the book isn't named) · read by a brother  *[[24:50](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1490s)]*
+
+> Ham: the youngest son of Noah, born probably about 96 years before the flood, and one of eight persons to live through the flood. He became the progenitor of the dark races,
+
+- Not the Negroes. Not the Negroes, not the Negroes, not the Negroes.
+
+> but the Egyptians,
+
+- Africans.
+
+> Ethiopians,
+
+- Africans.
+
+> Libyans,
+
+- Africans.
+
+> and Canaanites.
+
+- More Africans. That's it. So Ham is not the father of the Negroes, but Shem is. But of the Hamites, right? But you know, the Egyptians, they were dark races. They were dark races, man. They were dark, and we showed the pictures of them on the walls.
+
+</div>
+
+*[[25:44](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1544s)]* Put the other one, the one in the regular Bible. The last paragraph says something very heavy. Okay, this is the Bible now. It's a glossary in the Bible, the regular Bible. Okay, this Bible is the Cambridge, in the back of the Cambridge. Yeah, I want Ham. It's right up there for Ham. He's saying it casually too. It's there.
+
+*[[26:33](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1593s)]* It's on the screen now. Go ahead.
+
+**Brother:** I don't have that in mine.
+
+**Deacon Eythan:** No? What kind of Bible you got? The Cambridge? Nah, it's not the same. You got something special, huh?
+
+<div class="reading">
+
+Reading from the glossary in the back of a Cambridge Bible, on Ham · read by a brother  *[[26:57](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1617s)]*
+
+> Ham: Hot. Son of Noah, Genesis 5:32, 6...
+
+- It says cursed there. That's not true. He wasn't cursed. No, he wasn't cursed. That's evil, it's saying he's cursed. The Lord did not curse him; he cursed Canaan. That's that racist stuff again.
+
+> The names of his descendants are given in Genesis chapter 10 verse 6, 7. They were the southern nations: Cush equals the dark-skinned race of East Africa and Southern Arabia; Mizraim equals Egyptians; Phut equals Libyans; Canaan equals inhabitants of Palestine before arrival of the Semitic races.
+
+- Before the arrival of the Israelites, right, before we got there. But it says the dark-skinned race of East Africa. The Libyans, of East Africa; also the Egyptians, East Africa; also Ethiopia, East Africa. These are all black people, or Nubians, Nilotes. And Israelites passed for them. And it says they were there before we arrived there, before the Semitic races arrived there, which is us, the Semites, arrived.
+
+</div>
+
+*[[28:11](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1691s)]* Now, you got the video yet? I'm going to forget, I'm going to go somewhere else. Oh, I flow. Telegram, I go Telegram. Doing two things at one time, my apologies for that, but I wasn't expecting to do this. Here we go. Turn it up some, and listen very carefully to what Shuri says at the screen. Hit play. Rewind it. Little girl's under there, so greeting her, happy. Watch this.
+
+*[[29:29](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1769s)]* Why is a black woman telling a little Hispanic underwater girl shalom? Why? What is the reason behind that? Because these people know who they were. The Native Americans were Israelites. And it's not coincidence that they would have a sister, a black woman, and another Hispanic sister, and say to her shalom, because both of them are the same people. Wow. Shalom. That's bad. You can't make this up, man. She didn't say, what do you mean? Yeah, … little girl wasn't like, huh? She wasn't thrown off.
+
+**Brother:** They called it the mother tongue.
+
+**Deacon Eythan:** Right, right, the mother tongue. They called it shalom. So the creators of the Black Panther, they know. They're letting us know that, we know what you guys talking about. And Esau said, eh, we'll allow it. … don't catch on. The ones that read understand. We're letting you know we know what you guys are saying is true, but not enough people, not enough people know for us to care. That's the thought. We're going to put it in the movie and we're going to gauge who catches it, but not enough people in the world know enough for us to care about it, so we'll let it go in the movie. Why not? So it was for only the esoteric. Only the eso... that's a bad word. Only the esoteric. We're the esoteric in this room, those who are watching. Esoteric, meaning very, very few people who have understanding of deep things. That's what esoteric means. All right, so now read that.
+
+<div class="reading">
+
+Reading from a dictionary definition of esoteric, read off the screen · read by a brother  *[[30:56](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1856s)]*
+
+> Esoteric: intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
+
+- That scene was for the esoteric, the elect, the elite. We are the elites of our people, because look at us here compared to those of us in the world. We're the elite.
+
+</div>
+
+*[[31:20](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1880s)]* Now, Genesis 25. Let's get into the origin of the nominal versus the native. The Book of Genesis chapter 25 and verse 21.
+
+**[Genesis 25:21-23](/bible/genesis/25#v21)**  *[[31:36](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=1896s)]*
+
+> <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
+
+- Isaac was the son of Abraham, and his wife's name is Rebekah. And she was barren; she could not have children. Because she was barren, she was struggling to have a child. Isaac prayed, prayed, prayed, and the Lord finally heard their cry. And Rebekah finally got pregnant.
+
+> <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
+
+- Now as she's going through this pregnancy, the children are struggling together in her womb. They're fighting. They're not getting along already. The struggle is a battle. The children are in the womb, it's more than one obviously, and they're not getting along. Remember, babies in the womb, infants, are fighting in the womb. That's not normal. That's an odd occurrence.
+
+- If this pregnancy is of the Lord, we prayed for this, why am I in such pain? Because she's hurting. She sought the Lord God.
+
+> <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
+
+- Two nations are in your womb. So you have two different ethnicities in your womb. Why did the Lord tell her this? That answer explains why they're fighting: because they're not the same people. So that's the first thing he says: two nations are in your womb, two separate nations.
+
+- Now why is that interesting? Why is that important to note? Because Isaac and Rebekah are the same race. So whatever Isaac puts inside this woman's womb is of that race. The Lord said, nope, not this time. I put two different nations in that man's balls and shot up inside of you. To be blunt. So normally when a black couple has children, they produce the same race. The Lord said, in this instance, no. This is the book of what? Genesis. This is the beginning of two different nations sharing the same origin, but they're different nonetheless.
+
+- Two nations, two races are in your womb. That's what God is saying to her. People go, oh, there's a difference between race and nation. Well, today. But in ancient times the word nation is the same as race. Biblically speaking, nation and race are synonymous. Etymologically speaking, nation and race are synonymous. You go into the etymology of the word nation and the word race, they're synonymous. But let's get it. Give me nation real quick. etymology.com, nation. Because we read here. We're the intellectuals here.
+
+<div class="reading">
+
+Reading from the online etymology dictionary, the entry on nation · read by a brother  *[[34:38](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=2078s)]*
+
+> Nation: circa 1300, nacion, a race of people,
+
+- Stop, stop, stop, stop, stop. A what? A race of people. So a nation is a race of people. It's the same word. Because today people don't know: your nationality's American, but you're Chinese, my race. No, today, yes. But originally, etymologically, nation and race are synonymous terms.
+
+> large group of people with common ancestry and language;
+
+- Read it again. Large group of people with common ancestry, the same ancestry, and language. And that's a race.
+
+> from Old French nacion, birth, rank; descendants, relatives; country, homeland, and directly from Latin nation, nominative nation, birth, origin; breed, stock, kind, species; race of people, tribe.
+
+- Come on, man. Tribe. Tribes of Israel, nation of Israel, stock of Israel, race of Israel. It's the same word. So you read nations, and that's race; it means the same thing. I was going to go to race, but it already said it. I'm good with nation. Read on. Read the Lord's answer to her again.
+
+</div>
+
+**[Genesis 25:23-26](/bible/genesis/25#v23)**  *[[36:48](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=2208s)]*
+
+> <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
+
+- So the Lord told Rebekah two races are in your womb. Despite them both having the same origin, God says no, I put two nations in your womb. Even though both of them are your children, they're two separate nations. So Jacob is their race; Esau is as well, but he's a separate nation from his brother.
+
+- Two manner of people shall be separated from your bowels. Separated: not get along, not live together in harmony.
+
+- One people would endure hardness and turmoil and plights and slavery, and undergo all kinds of afflictions and tribulations, and just be physically stronger, period. Built stronger, built better, faster. That's right, better.
+
+- They are stronger than the other, and they know it too. Esau has a thing in the medical field: they say black people have a stronger tolerance for pain than other races do. That's what they say. They'll give black folks less doses of medications when they're in pain, because they believe in the medical field that black folks are less susceptible to pain. Someone say that's racist, and it could possibly relate to that, but the Bible says we're stronger. Esau can't work in the hot sun for 20 hours. They can't do it. Nah, they cannot do it.
+
+- White folks kill themselves over money. We go and buy a beer: oh man, I got fired, yo. Let me get a fifth. They on the porch: yeah, I got fired, yo, I don't know what I'm going to do, man, I'm going to figure it out. White boys go: oh God, I lost a thousand dollars, and get the whole family and kill them. We don't do that.
+
+- **Brother:** That right there is emotional damage.
+
+- **Deacon Eythan:** Right. We are strong people. We go through it, man. We make it work. You'll have, even all the kingdom, you'll have a whole bunch living in one house; they all make a certain amount of money and they all put it together and they make things work. There's a house by my area, abandoned. This car came through there with truckloads, fixed the whole house. Family came together, fixed the house. We make it work. We're stronger like that. But of course we've been beaten down and destroyed and so forth, so there's levels to it. But nonetheless, the Bible says we're stronger.
+
+- The elder shall serve the younger. The Lord is going to have where the youngest is going to rule over the elder.
+
+> <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
+
+- They were told it was twin boys in her womb.
+
+> <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
+
+- He was red and hairy all over. And what Esau today, the European race, has done is, they've taken the word ruddy and made it to mean red. Esau was ruddy, or red, and David was ruddy. No, no. That's what Ben Yehuda did. Ben Yehuda's Hebrew made ruddy mean red. But the original origin of the word ruddy meant a healthy black complexion and high health. That's what it meant: a high, healthy condition of skin. In the case of our people, healthy dark skin and high health. That's what ruddy meant.
+
+- And Esau said no, it means red. Then they merged together: ruddy, David was ruddy; Adam means red; Edom means red. Y'all be slick with it. But we got the books that say otherwise. Dub and wood, ruddy, meant black. So they're not running with that. But Esau was red. He was actually red.
+
+- So what was the point of mentioning Esau's description if it had no importance? Why would the Most High tell Moses, make sure you write down how Esau came out looking? Because that look was important, to let you know who he'd be later on in time.
+
+> <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
+
+- The battle continued outside the womb. They were fighting in her womb; then as they're being delivered out of her womb, she's pushing them out, Jacob's grabbing onto that heel: where you going? Where you going? The battle continued outside the womb. So Jacob grabbed hold on Esau's heel. We'll get to that in a moment.
+
+- And notice he is not described. Right? Why? Because he looked normal. He looked black, like his respected brother, like his mother and father. Esau came out red and hairy all over. Jacob came out also, and he didn't even write down Jacob's features. He looked normal. But he said this one looked red and hairy; this one, that's normal. And he came out last, so he was younger.
+
+- Because he prayed for her at 40. They had him at 60, 20 years later. At that time 60 was still young.
+
+*[[42:52](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=2572s)]* Now, that's the beginning of... Now, give me that book, Edom and Khazaria, page 150. To show the scholars know about this. This book is called Edom, the history of Edom and Khazaria, the other Israel. The nominals. Okay. By who is this? Blow it up. By the what? The book that I read before, Who Is Esau-Edom, that guy authored that book, from what I've heard. Someone posted in the comments that he was a white supremacist, and that he believed that the white people, outside of the nominals or Israelis, are the 12 tribes of Israel. There's a doctrine of that: the Aryan race push. It's called British Israelism. They pushed the whole Aryan race thing. They pushed the whole Anglo-Saxon thing, the skinheads. They pushed that the Israelis today, or the nominals, are …, and that they're Israel. But the reality is they're … also. They're all Esau.
+
+*[[44:05](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=2645s)]* Because the books that we brought out, that they wrote themselves, and the scholars wrote, described the Anglo-Saxons, or the original Old World English, as black people. And then when the white man began to take over the world, and take over land by land, country by country, state by state and so forth, and began to conquer us within those realms, he then took on the name Anglo-Saxon, or he became the New World Anglo-Saxon, which is the whitewashed version of what we once were when we ruled over England and Scotland and Britain. They called it the black divisions, right? The three black divisions, because we ruled.
+
+*[[44:55](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=2695s)]* Now get the page. Now this book is called Edom and Khazaria, the Other Israel. Khazars are the other Israel, because they're the so-called nominals, the fake ones. Blow it up. Go up to the top. What page is that? 151. Okay.
+
+<div class="reading">
+
+Reading from *Edom and Khazaria, the Other Israel* (the author's name is not clearly given), pages 150 to 151, on an illustration in the Jerusalem Post · read by a brother  *[[45:18](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=2718s)]*
+
+> East of Edom. The Jerusalem Post, October the 1st, 1997. Illustration of East of Edom.
+
+- Go down. You see what does it say there?
+
+> Medieval illustration of Jacob blessing Esau, who is identified with the Edomites.
+
+- Go up please, to the picture again. Now you see Jacob there, sitting down, blessing Esau with the pot of lentils. That right there is Jacob. Make him bigger. Jacob. Go over there, please. There's no denying this is a black man, right? The nose, the lips, the woolly hair; the beard is woolly, and he's dark. The golden, the so-called halo around him. Go to Esau. Now that's Esau, the hunter. Look how white he looks compared to Jacob. Go to Jacob again. It's two different people. This is an illustration in the Jerusalem Post. Where's this from? Go to the next page.
+
+> Excerpts from East of Edom, Jerusalem Post article, October 1st, 97. News of the discovery of the Idumean ostraca...
+
+- Click on Google, ostraca, please. That's plural, I believe; I think the singular is ostracon or something like that. Let's see what that is. These illustrations were painted on ostraca. What is ostraca? Let's see what that is. This is a medieval illustration of Jacob blessing Esau that was found in the Jerusalem Post back in 97.
+
+</div>
+
+<div class="reading">
+
+Reading from a search result on the word ostracon, read off the screen · read by a brother  *[[47:24](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=2844s)]*
+
+> An ostracon, Greek ostrakon, plural ostraka, is a piece of pottery, usually broken off from a vase or other earthenware vessel. In an archaeological or epigraphical context, ostraca refer to sherds or even small pieces of stone that have writing scratched into them.
+
+- Go to that picture right there to the right. Give an example. Put that right there. So you see that right there, that's an example of an ostracon. So they found that illustration drawn on a vase of some kind, of Jacob blessing Esau, and they posted it in the Jerusalem Post back in 97, of October. Of Jacob blessing Esau. So he throws the picture: Esau as a white man, Jacob is not, because they're two different nations. The native blessing the nominal. That's what that is.
+
+- Now, as I was saying, the author of the book, go to that book right there, Who Is Esau-Edom. The author of this book right here, Who Is Esau-Edom, he's basically saying that they're not Esau, but the so-calleds are Edom as well. They believe that the British and French and so forth are the 12 tribes. Well, they were, until you guys … came in the land and took it over and pushed aside and assumed their identities, right? He conquered Japanese first, okay, and took over there. And then the list goes on and on. You conquer the Native Americans and pretend to be them. You conquer the Israelites, pretend to be them. The list goes on and on. You conquer the damn Egyptians and claim to be them too. Everybody you conquer, you pretend to be them.
+
+- So the author of this book, from what I heard, is basically an Anglo-Saxon doctrine, British Israelism. But he's not wrong about them. The evidence he brings forth regarding Esau, the points he made about Esau trying to hide himself, is all on point. The problem is that he thinks he's not Esau; he's Esau too. That's the only problem with the book, that he's confused. Other than that, his facts are on point, and he's citing from sources that I have, that he did not write, substantiating his claims about Khazars being nominals, or Israelis today.
+
+- **Brother:** He went in from beginning to end on Amalek.
+
+- **Deacon Eythan:** Yeah, he did. He sure did.
+
+</div>
+
+*[[49:59](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=2999s)]* Now get me the Heritage civilization book. Heritage Civilization, I think it's called. Page 15. Heritage Civilization, something like that. I think it's a white book.
+
+*[[50:25](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=3025s)]* You have to cover the book. You don't have the cover? That's fine. But from now on please, please take a picture of the cover, so they know what we're reading from. Because I'm only citing what the book is called, but I don't have the cover. That's my book; I didn't bring it. I thought you guys took a picture of the cover. Whatever. Let's go, we're wasting time.
+
+<div class="reading">
+
+Reading from *Heritage Civilization* (as the book is called on air; the cover was not shown at first), pages 15, 24, 29, 30, 110 and 111 · read by a brother  *[[51:06](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=3066s)]*
+
+> (Page 15, a picture of Egyptians.)
+
+- Blow this up here. Look, these are Egyptians. These are Egyptians, okay. This is a book called Heritage Civilization, page 15. These are Egyptians. The Israelites passed for this. Paul passed for this. Joseph passed for this. Moses passed for this. Go to page 24, same book.
+
+> So the expulsion of the Hyksos may have marked the end of Hebrew power in Egypt.
+
+- Right. These guys, the Hyksos, may have been of Semitic origin, or Hebrew origin. Not Israelites, but Hebrews, because you have various Hebrew nations that came out of Eber.
+
+> At the beginning of the descent into bondage, here a Semite humbles himself in an Egyptian tomb painting.
+
+- So you see a Semite, or possibly a Hyksos, humbling himself down to an Egyptian. You see the distinction between the two? There is none, because they're both black. Go up to the picture. He's groveling down to the Egyptian right there, and the Semite on his knees with the afro. Okay, he's humbling. So he says Semites. Go to page 29. Let's see who these guys are. Remember in a book that Lacroix brought out, it says that before the Semites arrived in these lands... What does it say there?
+
+> And the Egyptians made the children of Israel to serve with rigor, and they made their lives bitter with hard bondage. Exodus chapter 1 verse 13 to 14. Semitic captives are shown in this ancient Egyptian painting.
+
+- These are Israelites. These are Israelites drawn on the walls of Egypt. Okay, that's what these are. That's why I was quoting that scripture, letting you know who it is. They wouldn't put that there. That's the Israelites there.
+
+- That's the confusion: that's Miriam right there. Miriam? How the hell is that Miriam? And other Hebrews? How is this? That's them throwing confusion out there. Go to page 30, next page. Miriam, get the hell out of here, man.
+
+> Of all the sages who taught at the Academy of Surah, the most celebrated was ... 335 to 427.
+
+- What do I want this page for? Let me see. Go down. No, page 30. That's 110. That's 135. Okay, go to 110 again. I want it for some reason. Let me see. Blow it up, let me see. Move it over. No, why do I want this? Go up to the illustration there. Stop. Babylonian Talmud. Not what I thought I wanted, but that's important to have there.
+
+> ...Christianity developed the theology that claimed ... Judaism ...
+
+- Go up, go up, there's some good stuff. You know, I thought I wanted, let me see, it's on this page. Anything else you got in this book? Oh no, that's the last thing. Get 111 to 112. Blow it up. That's all I wanted. Let me see. Yeah, that's what I wanted. Now see, it's an afro there. Who is that? Look at his nose. Go in some more. Damn, look at this. Look at that big nose and lips, man, and that afro. Go down, see what that is. Let's see who this is. Bring it in.
+
+> Saint John the Evangelist,
+
+- Oh, that's John. Johnny Evangelist. Wow.
+
+> dated about 101 A.D., here portrayed in a frieze dating from about 800, was the disciple first of John the Baptist and then of Jesus.
+
+- That's John the Revelator. Wow. Go back up to the page again, because the hands and feet are huge. Look at this, nose and lips. Go back to zooming again. The Book of John. Look at that nose and lips and that hair. Yes. You ain't getting around this. That's John the Revelator. Okay. That's how he's depicted in 800, ... 100 A.D., which is the same time that Revelation was completed. Go down to the bottom of it again, right there.
+
+> Saint John the Evangelist, dated about 101 C.E.,
+
+- Right. Around 100, and that's the time he was around, 96 to 100, when he wrote Revelation.
+
+> here portrayed in a frieze dating from about 800, was a disciple first of John the Baptist and then of Jesus of Nazareth. To Saint John is attributed the fourth gospel, representing a powerful synthesis of Platonic philosophy and Messianic belief.
+
+- Correct. So that's John the Revelator, depicted as a black man with an afro, a wide nose and lips.
+
+</div>
+
+*[[57:30](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=3450s)]* So real quick, let's take a quick break right now. We'll be right back. We'll be back. Stay tuned.
+
+<div class="reading">
+
+Reading from a video of Bishop Nathanyel of Israel United in Christ, played at the break  *[[58:41](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=3521s)]*
+
+> Shalom will sign Christ. Bless you all. I'm Bishop Nathanyel of Israel United in Christ. Some time ago many of you saw us at the Barclays Center, standing forth, the Bible says, standing for truth, standing for righteousness. That's what we do.
+>
+> Most recently the Jewish community, in particular the ADL, SPLC, have voiced their opinion that black people do not have freedom of speech nor freedom of religion to say they're Semitic, neither to say that they're Jews of the tribe of Judah belonging to the 12 tribes of Israel, which is according to First Kings chapter 8 verse 46 to 53. And unless we apologize and submit ourselves to these people, we have no place in society. Brothers and sisters, this is nothing but disguised racism from the 1400s, 1500s, 1600s, 1700s, 1800s. This has got to stop.
+>
+> They follow the legacy of Director J. Edgar Hoover, who said the worst thing to the United States of America is Negro unity. I think that's exactly how he said it. Black unity is a fear to the Jewish community. I wonder why. Black unity is a fear to white society. I wonder why. Is it white guilt? I don't know. But we can delve into the Bible and possibly we can all find out together. He established COINTELPRO. He forbid the rise of a black Messiah. He forbid any type of black community. Y'all saw what happened to Black Wall Street: when we got together, they bombed us.
+>
+> And this is why I understand why many of you black men and black women don't stand up for one another. A lot of you are afraid. You are scared. But this group right here, we ain't afraid of nothing. All right? I want y'all to understand that all the great black leaders that have risen up, J. Edgar Hoover had a hand in their demise: from Marcus Garvey, Malcolm X, Martin Luther King; after them Fred Hampton, Khalid Muhammad, Johnny …, even Hugo Chavez, who tried to help the black community. Always somebody was exiled or assassinated. None of y'all see nothing wrong with that? Y'all keep playing these people's game.
+>
+> Israel United in Christ is a Bible-based organization that teaches that blacks, Latinos and Native American Indians are part of the true 12 tribes of Israel, when you read Deuteronomy 28 verse 15 through 68. We change lives, brothers and sisters, transforming boys into men, into husbands; girls into women, into wives, into mothers. That's what we do. Family is the core of any strong people. And Marcus Garvey said: up, you mighty race. Up, you mighty race. God's commandments is the backbone of our holy people. That keeps us organized, that keeps us strong, that keeps us focused.
+>
+> Today they call talk like what I'm talking hate speech. Sure, you can rap and … around the stage and talk about drugs, murder, child molestation even; that's fine. But the second you talk about black unity, black family, black love: hate speech, anti-Semitic. None of y'all see this? I know I'm expecting too much from you athletes, too much from you actors. I really shouldn't expect too much from you at all. But the average black man, the average brothers and sisters like myself, it's time for you and I to organize, get ourselves together, repent of our sins and do according to the word of God as the Israelites. To say that we are the Israelites today, or read a quote from the Bible that was written over 2,000 years ago, they call it anti-Semitism. Christianity is not a threat to society. Islam is not a threat to society. But to say that you're an Israelite, to wake up to your true identity, that's a threat. Whoa.
+>
+> And everybody plays victim. While we were at the Barclays Center, a so-called Jewish girl walked up: do you want to hurt Jewish people? Are you kidding me? Do you go to acting school to make believe that you're always a victim of something? We're marching, we're walking; you run to us and ask us do we want to hurt you, and start crying? Are you kidding me? This BS, this malarkey, has to stop. Always playing the victim. I am a victim, but I run society. Stop it. Foolish, and total foolishness. All right.
+>
+> Brothers, sisters, we must unite as a people. We must come together as the 12 tribes of Israel, when you read Zephaniah chapter 2 verse 1, and it reads:
+
+</div>
+
+**[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[1:03:33](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=3813s)]*
+
+> <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
+
+- **Bishop Nathanyel:** So you've never seen that. You've never seen black people organized like you've seen us. But understand this: you are that nation that no one desires.
+
+*[[1:04:08](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=3848s)]* Back from the break. The book we found the cover of, that I showed you of John the Evangelist on page 111, that was this book right here, those of you who are interested in what book that was being used. I warn you that these people, this man has the power to remove books from shelves. I'm not sure if you're aware, but the book that Kyrie Irving, the documentary that he watched, is also in book form, and the league of nominals wrote to Amazon to have the documentary removed from the platform, and Barnes and Noble dropped the book from the shelves. Okay. So letting you know that they have the power to have books removed from shelves. That's my point. That's why I'm bringing that up. Because now we know that they can either raise the price up, or they will have it removed from the shelves, things of that nature.
+
+**Brother:** Some books that we came across are banished from the U.S.
+
+**Deacon Eythan:** We got to get them out. We have to get them. They banished them, right? They banned them. So just to cover the book right here, that's the cover right there, of John the Revelator in the afro with the nose and lips, clearly. What page is that? 111. Go to 112. Let's see what's in there. Blow it up, let me see, bring it up some more so I can read this.
+
+<div class="reading">
+
+Reading from *Heritage Civilization*, page 112 · read by a brother  *[[1:05:55](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=3955s)]*
+
+> In Europe the black Huns, led by Attila,
+
+- Attila. Okay, go ahead.
+
+> dated 453, rampaged through Italy and were prevented from sacking the city of Rome only by the intercession of Pope Leo the First.
+
+- Okay. I don't know why I have this, but that's very important to have: black Huns. We'll get back to that one day. We'll go back to that. That's crazy. I know that's in here. Black Huns. We'll get back to that. Black Huns, led by Attila.
+
+</div>
+
+*[[1:06:38](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=3998s)]* All right. So, going back to the point of the Israelites passing for Egyptians. I showed you the pictures of Egyptians. Give me Joseph, out of Our Living Bible. Bring it out. Hey, remember, we didn't write these books. This book was written by Michael Avi-Yonah and Emil G. Kraeling. We did not write that. Avi-Yonah. Our Living Bible. Blow it up, let's see who this is. Bring it in, bring it in, bring it in.
+
+<div class="reading">
+
+Reading from *Our Living Bible* by Michael Avi-Yonah and Emil G. Kraeling, on Joseph · read by a brother  *[[1:07:15](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=4035s)]*
+
+> Joseph, rising to power from slave prisoner to vizier of Egypt.
+
+- Read that.
+
+> So Joseph found favor in his sight and attended him, and he made him overseer of his house. The blessing of the Lord was upon all that he had in house and field. Genesis chapter 39, verses 4 to 5.
+
+- Another book we have also has Joseph depicted as a black man, physically: wide nose and afro right there. There's a white guy talking to him, though. It caused confusion with that one.
+
+- **Brother:** You brought that book out during Warning Shots.
+
+- **Deacon Eythan:** Yeah, the second Warning Shot. This is a picture of Joseph with an afro, with a wide nose, lips, everything. I remember that. This is the picture of Joseph in Egypt, but they threw a white guy in there to kind of throw you off. So, white Egyptians. You know why there were white Egyptians? When the Greeks took over Egypt under Ptolemy. It was the white ones, …, took over Egypt and trying to be Pharaoh. With Cleopatra. Cleopatra, all the most white women, all of them.
+
+</div>
+
+*[[1:08:25](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=4105s)]* Now get me, what do I want? Thank you, brother. Shout out to the IT team, man, for moving fast. I brought all these books today, all these books here, thanks to you brothers and sisters who contribute and donate. This book right here, all right, it's called The History of the Inquisition, by Philip a Limborch, translated into English by Samuel Chandler, in two volumes. Philippus van Limborch. History and geography. Okay. And because it's a reprint, it was in 1731. White eyes only. That's only volume one. The History of the Inquisition by Philip a Limborch, MDCCXXXI, 1731. So you know where we was at in 1731. That's not even 130 years before the Emancipation Proclamation. We was still on the ships. And this book, okay, to the Queen Regent. 1731. The History of the Inquisition by Philip a Limborch, volume one of two. This is volume one right here. I left volume two home; I got both.
+
+*[[1:09:50](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=4190s)]* And we want page 131, regarding what led up to the slave trade. The Spanish Inquisition is what brought about, it assisted along the trans-Saharan slave trade going along, and eventually led into the transatlantic slave trade, which eventually involved the Negroes and Native Americans being shipped off back and forth to Spain and many other colonized areas of the Portuguese and Spaniards. Okay. So I want page, whatever page you get first, just read it. It don't even matter to me. It's going to be damage being done regardless what page I pull. Blow it up. You better buy the book while you still can. You know, when we use it, it's gone.
+
+<div class="reading">
+
+Reading from *The History of the Inquisition* by Philip a Limborch, translated by Samuel Chandler, volume one (1731), pages 44 to 45 · read by a brother  *[[1:10:44](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=4244s)]*
+
+> As to matrimony, that it is always sinful and cannot be without sin, and was never appointed by the good God. Also, that carnal matrimony between...
+
+- Blow it up some more. It's going into them torturing us during the Inquisition. It's going into the torturing of the Jews, the Jews that were keeping the laws of God. They were torturing us. Let's run into that.
+
+> ...that carnal matrimony between a man and woman is not true matrimony, nor good, nor lawful, nor appointed by God, but a quite different spiritual matrimony. As to the incarnation of Christ: that the Lord did not take a real humane body, nor a real humane flesh of our nature, and that he did not really arise with it, nor...
+
+- That's a different topic. Go to 131. No, 128. It's taking it somewhere else. 128, 129, and then 131. So that's going into them torturing us based upon our beliefs against the Catholic Church. That's what I was going into, right? I don't want that. 128. Amazing. That's why I brought the books with me, so that way we start at the top.
+
+- **Brother:** So understand, these so-calls and rescue …, you, you're going to try to come and debunk the books that we're bringing out? Y'all wrote these books, right? All we do is just bring it out. Okay? Like the Deacon said, white eyes only type books. We was in slavery when these books was coming out.
+
+- **Deacon Eythan:** From the top. Yes. Start at the top. This is crazy.
+
+</div>
+
+<div class="reading">
+
+Reading from *The History of the Inquisition* by Philip a Limborch, pages 128 to 129, on the expulsion of the Jews from Spain and Portugal · read by a brother  *[[1:13:03](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=4383s)]*
+
+> After this he laid down a crucifix before them and departed. When the time was elapsed, they who persisted in their religion were forced to depart with their wives, children, servants, families and effects, and forbid ever to return into Spain, where if they were ever after found they were to be immediately punished with death and confiscation of goods. It was also provided by the pragmatic laws that no Jew should ever enter Spain upon any pretense whatsoever, under the same penalty of death and confiscation of goods if ever found there, and that it should signify nothing though they declared they were willing to be converted to the faith, unless they should make public prostitution of it upon their first entrance into the kingdom. And if any Christian was convicted of harboring the Jews, all his effects were to be forfeited.
+
+- So if you were harboring a Jew, hiding a Jew observing Judaism, you lost your possessions. You got your things repossessed, your possessions, pretty much. So that was a punishment, so you couldn't hide us from the Christian Church.
+
+> Pragmatic, at Granada, 1492.
+
+- Right here, 1492. That's the year that Columbus came over here and conquered the Native Americans. The same thing happening at the same time. This is simultaneously happening: one nation being conquered on this side of the world, one nation being … on the other side of the world. Same people.
+
+- And the wealth acquired during this expulsion is what funded Columbus's voyage to this side of the world. When they were confiscating our goods in Spain and Portugal, and our wealth, the Crown took that wealth and funded Columbus's voyage, and eventually funded the army he brought along with him.
+
+> In 1499...
+
+- What page is this? 128. Go down to the Jews, let's get to the point. No, no, no.
+
+- **Brother:** John Picus, Earl of Mirandola, is highlighted. I like where I'm at.
+
+- **Deacon Eythan:** Yes, I know. Keep going.
+
+> John Picus, Earl of Mirandola, gives a final account of this expulsion in his book against astrologers.
+
+- Yeah, here we go.
+
+> The number of those who were thus banished from Spain were 400,000 Jews,
+
+> according to ... and others. Mariana says it is not easy to reduce them to any certain number. Most writers affirm there were 170,000 families that departed. Others say there were 800,000 persons.
+
+- There was millions. They did this, they play games.
+
+> A prodigious number, almost exceeding belief.
+
+- I'd say millions; too many to account.
+
+> Some of them, who were a little more dilatory in gathering together their effects, and would not turn Christians,
+
+- Those who chose: I'm not going nowhere. I've been here for years. I ain't leaving. I'm staying here. I'm not converting to that doctrine. I'm staying here. I'm keeping God's law.
+
+> were sold for slaves.
+
+- They were what? Sold for slaves. These Jews were sold for slaves during the Inquisition. Watch. Read on.
+
+> And of those who left their country, ... tells us many died of the fatigues of traveling, or the plague.
+
+- They died from travel. We ran from Spain, Portugal, back into Africa. We died during the travel trying to escape.
+
+> The Jews thus driven from Spain fled for the most part into Portugal, and obtained from King John, under certain conditions,
+
+- That King John, he said, at least, whatever, these Jews, there's money involved. That goes for the black Jews and the converts, …, we have among us with them.
+
+> that they might live there for a certain season. The conditions were chiefly these: that everyone should pay to the king eight pieces of gold,
+
+- So he taxes them. If you want to remain in Portugal, you got to pay extra money. He wants the money. Because wherever Israel is, there's the money, the economics. America's wealth is based upon us, our spending, our money.
+
+> and leave Portugal within a limited time,
+
+- You can't stay here. Okay.
+
+> on forfeiture of their liberty if they exceeded it,
+
+- Wow.
+
+> and that the king should grant them free liberty to sell away. Whilst the king lived, ... tells us, he took great care to perform his promise to the Jews. He commanded his officers ... that they should agree with the masses of ships for transporting the Jews where they pleased for a reasonable price, and further ordered that no one should injure them. But it happened far otherwise, for the merchants and masters who had received the Jews on board their ships used them very cruelly at sea,
+
+- Wow.
+
+> not contented with the price they had agreed for, they used all the methods they could invent to extort more from them, and besides this even forced their wives and daughters.
+
+- Wow. Wow. These hard abuses, the mothers and wives.
+
+> These hard abuses terrifying the Jews that yet remained in Portugal, and not being able, through poverty, to purchase within the time the necessary for their voyage, suffered it to elapse,
+
+- So he gave them a certain time where they can stay, but they have to leave, if they exceeded the time they were allowed to stay.
+
+> and thus lost their liberty, and were made slaves.
+
+- They lost their freedom. Those that were allowed in Portugal were allowed to stay for a certain duration of time, to gather their goods, whatever. But after a certain time, if you stay beyond that time, you lost your liberty.
+
+> And he who wanted a Jew servant begged him of the king. In the meanwhile King John died. His successor Emmanuel, finding that the Jews could not help staying longer in Portugal than the time fixed them by John, gave them all their liberty. Sometime after this he was advised by the king and queen of Castile,
+
+- So Spain got into Portugal's ears, to make them do the same thing in Portugal as it did to us over there. White folks working together.
+
+> by letters, not to suffer that wicked nation, hated by God and man,
+
+- No. Wait. This sounds so familiar. This sounds like Esther 13:4. Right? We'll read that in a few seconds. Read again.
+
+> not to suffer that wicked nation, hated by God and man, to abide in Portugal.
+
+- Spain told Portugal, don't let that wicked nation, hated by God and man, stay there. And he called them a nation. They were a race of people. That's Esther 13, the same people doing the same thing over and over, because they hated us. Read that. The Book of Esther chapter 13 and verse 4.
+
+</div>
+
+**[Esther (Greek) 13:4-5](/bible/esther-greek/13#v4)**  *[[1:20:20](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=4820s)]*
+
+> <sup>[4](/bible/esther-greek/13#v4)</sup> Declared unto us, that in all nations throughout the world there was scattered a certain malicious people, that had laws contrary to all nations, and continually despised the commandments of kings, so as the uniting of our kingdoms, honourably intended by us cannot go forward.
+
+- Wicked nation.
+
+- Their own laws, again, outside of Spain and Portugal's laws.
+
+- In this instance, Spain and Portugal's alliance.
+
+> <sup>[5](/bible/esther-greek/13#v5)</sup> Seeing then we understand that this people alone is continually in opposition unto all men, differing in the strange manner of their laws, and evil affected to our state, working all the mischief they can that our kingdom may not be firmly established:
+
+- Hated by God and man. Same thing being said.
+
+- Is that it? That's all I want. Go back to the book again. The last sentence: after mature deliberation.
+
+<div class="reading">
+
+Reading from *The History of the Inquisition* by Philip a Limborch, pages 129 to 130 · read by a brother  *[[1:21:24](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=4884s)]*
+
+> After mature deliberation of the affair, he commanded all the Jews
+
+- To what? Next page. Watch this.
+
+> and Moors in Portugal who would not profess the Christian religion to depart the kingdom,
+
+- Get out. You don't want to serve white Jesus? Get out of here. You got to go.
+
+> and set them a day, after which if any of them were found there, they should forfeit their liberty,
+
+- Lose their freedom, be made slaves. And those who exceeded their time limit were made servants by the kings. Okay: you're going to be a slave, go serve a Spaniard.
+
+> The Moors immediately passed over into Africa.
+
+- Where do we go? Where they run to? Over into Africa. They ran to Africa.
+
+> And as the Jews were preparing to depart, the king commanded that all their children who were not above 14 years old should be taken from their parents
+
+- Wow. Wow.
+
+> and educated in the Christian religion.
+
+- Ah, bro. Come on. Deuteronomy 28 verse 41. You cannot make this up. The Bishop said it before: there's two indoctrinations. He said church and state. Church and state, so school and church. School and church, and school goes to sports. It's linked hand in hand. Read that. The Book of Deuteronomy chapter 28 and verse 41.
+
+</div>
+
+**[Deuteronomy 28:41](/bible/deuteronomy/28#v41)**  *[[1:23:20](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5000s)]*
+
+> <sup>[41](/bible/deuteronomy/28#v41)</sup> Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity.
+
+- Verse 32.
+
+**[Deuteronomy 28:32](/bible/deuteronomy/28#v32)**  *[[1:23:28](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5008s)]*
+
+> <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
+
+- That's all I want. Watch this. Read on. It's going to say the exact same thing you just read.
+
+<div class="reading">
+
+Reading from *The History of the Inquisition* by Philip a Limborch, page 130, continued · read by a brother  *[[1:23:50](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5030s)]*
+
+> ...not above 14 years old...
+
+- So the children who were not beyond 14 years old were taken from their parents. So 14 and up, they was good, but 14 and under, they were taken from their parents.
+
+> It was the most affecting thing to see children snatched from the embraces of their mothers, and fathers embracing their children who were violently torn from them, and even beat with clubs; to hear the dreadful cries they made, and every place filled with the lamentations and yells of women.
+
+- No might in thine hand. This is Bible. This is a reoccurring curse, you stupid-ass apologetics. What happened already? You know what? Damn, you stupid as hell. This happened in Spain and Portugal. That's part of the curses. Read on.
+
+> Many, through indignation, threw their sons into pits,
+
+- Many, out of anger to lose their children to the white man, threw them in pits.
+
+> and others killed them with their own hands.
+
+- They would strangle their kids to death rather than give them to the white man's hands.
+
+> What added to their misery was that those who would have gone over to Africa to avoid these evils...
+
+- Go where? What added to their misery was that those who would, no, go where? You missed it. Go back to it again. Right: those who would have gone over to Africa. Those who have chosen to flee to Africa. Flee to Africa. Matthew 2:13. We always did that. We always ran there, or further in there rather. We're always in Africa, but we ran further into the interiors of Africa from white persecution. Christ's parents did the same thing. Read that. The Book of Matthew chapter 2 and verse 13. The Messiah's parents fled from the same people, or same race, into the same landmass.
+
+</div>
+
+**[Matthew 2:13](/bible/matthew/2#v13)**  *[[1:25:40](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5140s)]*
+
+> <sup>[13](/bible/matthew/2#v13)</sup> And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
+
+- Angel told the couple to do what? In a dream.
+
+- And flee where? Flee into Egypt. Flee into Africa. Flee into Africa. Israel did the same exact thing over. That's right. That's why there's dozens of colonies, and areas and settlements where Israel was, prior to the transatlantic and trans-Saharan slave trade. We always split there. We had family there. They didn't run there just for fun, just run there randomly. They were trying to run to their family out there.
+
+<div class="reading">
+
+Reading from *The History of the Inquisition* by Philip a Limborch, page 130, continued · read by a brother  *[[1:26:33](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5193s)]*
+
+> What added to their misery was that those who would have gone over to Africa
+
+- Those who would have; they didn't make it.
+
+> to avoid these evils
+
+- To avoid the evils, they fled into Africa.
+
+> were not suffered, for the king deferred giving them the liberty of sailing day after day,
+
+- And all he did was, those who were trying to escape, who had time to leave, he would waste time: no, stay, stay, until that time would go by. So that the time will run out. He did it on purpose, so they couldn't leave. Those who couldn't leave, or went past their time, were made slaves. So what they did was: okay, now you can stay longer, you're good, I'll extend the time. But it wasn't extended. That was deliberate. Read on.
+
+> and although at first he assigned them three ports where they might go on board,
+
+- So he assigned us three ports so we can get on board.
+
+> he had to forbid their selling from any other but that of Lisbon. This brought a vast number of the Jews to that city. But in the meanwhile the appointed day was passed, so that such of them as could not get off were necessarily made slaves.
+
+- Wow.
+
+> Most of them, being overcome with these calamities, chose rather, either sincerely or faintly, to make profession of Christianity,
+
+- Yes. They mean they say, okay, I'm Christian. Or they feign.
+
+> than to live in such miseries, and being baptized, recover their liberty and children.
+
+- And being baptized, they were given back what? Their children and their liberty. And when they're baptized, what? They're baptized with new names. Christian names. Spaniard names.
+
+- **Brother:** Yeah. Spanish names. Damn. Everyone like Antonio. Yo, Antonio.
+
+- **Deacon Eythan:** All that. What's it called, Tony something? Every time that happened over that side of the earth, the same thing on this side of the world. Same thing on this side of the world.
+
+> No violence, however, was offered to the Moors, lease the Saracens in Asia and Africa should make reprisals on the Christians in those countries. The Papas usually describe this action of the kings to a pious mind and is zeal to propagate the Christian religion and provide for the salvation of children, and yet in the meanwhile condemn it as wicked and unjust, and contrary to the laws and constitutions of the Gospel.
+
+- See? Contrary to the laws, the constitution. I said, hey, Esther, these guys are contrary to all men. Same thing. Now get page 131.
+
+</div>
+
+<div class="reading">
+
+Reading from *The History of the Inquisition* by Philip a Limborch, page 131, on the Moors · read by a brother  *[[1:29:17](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5357s)]*
+
+> This ... spread beyond the kingdom of Granada. Jimenez, by the permission of the inquisitors,
+
+- Of the inquisitors. These are Christianity cops. They were going around and investigating if you were observing Judaism. And if you were, you were tortured and arrested, or sold into slavery.
+
+> endeavored to force certain Moors, called ..., who had embraced Christianity and afterwards rejected it, to become Christians again,
+
+- What were the Moors called that were made Christian? They were called Moriscos.
+
+> and commanded their children to be violently taken from them and baptized.
+
+- So the same thing that happened to the Jews was happening to the Moors. The Jews are those who observed Judaism. The Moors were Jews that observed Islam. Same people, same people, different ideology, undergoing the same calamities, because they're the same people.
+
+> This was the beginning of troubles,
+
+- Sorrows.
+
+> which afterwards grew to such a height that the Moors formed a conspiracy and rebelled in many places. But as their forces were inferior to the Spaniards, they were subdued and forced to turn Christians. The king granted that as many as would should go over to Africa, and provided them with ships to transport them, at the port of ..., demanding from everyone that went over ten pieces of gold only, as the price of their liberty. They who would not leave their country, he ordered to become sincere Christians. This agreement being made, many went into Africa,
+
+- Many went where? Into Africa.
+
+> though most of them remained in Spain, and pretending themselves to be Christians, lived comfortably, but were not a jot better than those who left it, being of a very abstinent and wicked disposition. In 1501 Ferdinand, king of Castile, at the instigation of Pope Alexander ..., took great pains in catechizing the Moors,
+
+- Converting them. Catechism is converting the Moors. Catechized the Moors.
+
+> and preventing their apostasy. He published an edict in Castile against the Moors in that province, and especially against those of Andalusia, Granada and Aragon, ..., who lived and traded promiscuously with the pious, that unless they would become Christians, they should depart his dominions within a certain day. Upon the death of Ferdinand, Charles succeeded him. The new converts offered him 800,000 pieces of gold if he would command that the witnesses at the tribunal of the Inquisition should be always made public. The young king, who was about 18 years old, had a great mind to the money, but Cardinal Jimenez
+
+> and ... the Visitor General ...
+
+- So he wanted the money. If you guys give me money you can stay. But the church said, what? Read.
+
+> showed him the great danger of such a method, and that the church would receive great injury by it, and by putting him in mind of his grandfather Ferdinand, prevailed with the king to refuse the offer.
+
+- Damn. So just showing you our people fled further into Africa. The Jews and Moors fled into Africa. And that's all I want.
+
+</div>
+
+*[[1:33:15](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5595s)]* Now let's get some more. What do I want? Give me page 380 of his book called The Home Tutor. Page 380.
+
+**Brother:** For those that are paying attention, what the Bishop was bringing out last night: you know, this is the same people, man, the same race of people over and over again doing the same thing. You understand? In the Greek captivity, Roman captivity, and here we are during the Inquisition. When they came back into power, so what do you think is going to happen this time around?
+
+**Deacon Eythan:** Can you Google when this book is written? The Home Tutor Treasury. It's 1800s as well. I got this book from India, by the way. India. It's a reprint. It's called The Home Tutor. Complete library of useful knowledge, by best masters. White eyes only as well. It's very old. Part one. White eyes only.
+
+**Brother:** But yeah, it's definitely early 1800s, Deacon.
+
+**Deacon Eythan:** Yes, early 1800s book. Go to page 380 of this book. Page 380. The Home Tutor, right. I want the bottom part; I have it underlined. Matter of fact, the Bishop brought this out on Shout Out Tuesday. Start from Dr. Prichard.
+
+<div class="reading">
+
+Reading from *The Home Tutor*, an early 1800s book (a reprint), page 380 · read by a brother  *[[1:35:22](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5722s)]*
+
+> Dr. Prichard enumerates a great number of instances of individuals with yellow hair and fair skin amongst tribes with dark hair and skin, and in the temperate regions of Asia whole tribes, evidently descended from dark colored races, presented the light color.
+
+- So you had some who were evidently dark, but then they got lighter, because, you know. Read on.
+
+> The Jews, as we shall have occasion to see, were originally
+
+- Were what? Originally what?
+
+> undoubtedly a dark-skinned and woolly-haired race.
+
+- Oh boy. Debunk that. I don't need anything else from that.
+
+</div>
+
+*[[1:36:27](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5787s)]* Get me the other book. Physical geography, this book was written in 1850, white eyes only. 1850. A Treatise of Physical Geography, page 297.
+
+<div class="reading">
+
+Reading from *A Treatise of Physical Geography*, written in 1850, page 297 · read by a brother  *[[1:36:57](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5817s)]*
+
+> Thus the Jews are a people who have ever, according to the prophecy, dwelt alone, without intermixing with the nations,
+
+- Instances where Israel stayed homogeneous. The term is called, or is it endogamous? Oh look, homogeneous. Where we stay to ourselves.
+
+> ...intermixing with the nations to this day. Now this separate race...
+
+- This separate race. Give me the Bible real quick. Leviticus. What is it? Separate. Stay separate. Is it 20, verse 25? Leviticus 20 verse 24 and 26, I think it is. Why they stay separate? It's 20:24 also, right? It says separate once; it's severed, 26.
+
+- **Brother:** Leviticus chapter 20 and verse 24.
+
+</div>
+
+**[Leviticus 20:24](/bible/leviticus/20#v24)**  *[[1:37:50](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5870s)]*
+
+> <sup>[24](/bible/leviticus/20#v24)</sup> But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the Lord your God, which have separated you from other people.
+
+- Come on. Have separated you from other people. Verse 26.
+
+**[Leviticus 20:26](/bible/leviticus/20#v26)**  *[[1:38:10](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5890s)]*
+
+> <sup>[26](/bible/leviticus/20#v26)</sup> And ye shall be holy unto me: for I the Lord am holy, and have severed you from other people, that ye should be mine.
+
+- Separated you from other people. That ye should be mine. Separate. Go back to that again.
+
+<div class="reading">
+
+Reading from *A Treatise of Physical Geography*, page 297, continued · read by a brother  *[[1:38:31](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=5911s)]*
+
+> Now this separate race
+
+- This separate race, because God made us separate. Our laws are separate from everybody else.
+
+> all descended from brown ancestors,
+
+- All descended from who? Brown ancestors. Which ones? Abraham, Isaac and Jacob.
+
+> ...must have been as dark as ..., if not darker,
+
+- They were black. Abraham, Isaac and Jacob were black.
+
+> exhibit every shade of color, from the black Jews of Malabar, of whom we have such an interesting account by Dr. Claudius Buchanan, to the rose and lily complexion of the Jews ... We need go no further than the Jews of southern Spain
+
+- The Jews of what? Southern Spain. Remember earlier: those who stayed, who chose to convert to Christianity to live their lives comfortably in Spain, or in terrible conditions, either falsely or sincerely. Some of us stayed there. We need go no further than the Jews of southern Spain. Now remember, what we read earlier took place around 1492. This book was published in 1850, but of course it took a while to compile it, so we're talking about 1830s or so. That's not too far after that. So whoever wrote this, they traveled and wrote and saw us there. Read. It's going to say it.
+
+> and compared it with those of Holland and northern Germany, to perceive a very striking difference.
+
+- Yeah, because the ones are converts, or nominals, and one is not.
+
+> The Spanish Jew is always dark in complexion,
+
+> and his hair is uniformly black;
+
+- Wow.
+
+> the German Jew is often as fair as any German, and has lighter red hair
+
+- Because they're white people. That's why. Those are converts.
+
+> with blue eyes.
+
+> The various shades of color observable among the Negro are African race tend to the same conclusion. Along the coast of Guinea, which is low, ... hot, we find jet black complexions, and this is the very country from which American Negroes have been derived.
+
+- Wow. The coast of Guinea. And guess what? That's where Portugal established colonies, and shipped slaves, in Guinea. So in this book he's letting us know, he's comparing the Jews and Negroes together, to let you know we're the same people, with the same complexion. Right. Same thing.
+
+</div>
+
+*[[1:41:02](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6062s)]* Now get me...
+
+**Brother:** We got a call, Deacon. You got a call.
+
+**Deacon Eythan:** Okay, let's go. Hello? Welcome to the show. Where you calling from?
+
+**Elijah:** I'm calling from San Antonio, Texas.
+
+**Deacon Eythan:** What's your name?
+
+**Elijah:** My name is Elijah.
+
+**Deacon Eythan:** Hey, Elijah, shalom. Welcome to the show.
+
+**Elijah:** Thank you for having me. I only have two questions. One was in reference to the navigators that had come over with Columbus, who were able to speak Hebrew. Were they converts, like the Jewish people in the land, or were they...
+
+**Deacon Eythan:** Luis de Torres was us. But it doesn't really tell you. But there were converts of them that were on the ship. You had Latinos, which is our people, which were like Spanish-speaking Jews that were made slaves, servants and so forth. You had black conquistadors that were pretty much coons, that were used to fight against our brothers on this side of the world. And then you had converts as well. But it's not really a book that differentiates the two. That was us. You read about them; you do have converts, you know, but it's kind of hard to differentiate. Because I have one book called The Black Atlas, where it mentions that Columbus had black people on his ship. So you got to kind of sift. But there were converts.
+
+**Elijah:** Okay. And then my second question was on something you mentioned earlier, about the term ruddy. I know you had mentioned that it might mean something else, being brown. So basically my question is: in Genesis 25:25 it refers to Esau as red, and the underlying Hebrew says ..., right? But then also in First Samuel it calls David the same thing.
+
+**Deacon Eythan:** Correct. In First Samuel 16, and I believe 17 as part of the chapter.
+
+**Elijah:** Right. And they also allude to ... as Adam too.
+
+**Deacon Eythan:** That's that Yiddish. That's that false Hebrew. They made all those words the same meaning: ruddy, red and Adam, they all mean the same in that so-called Hebrew today, which is false. So they deliberately made it where, the Bishop said in last night's class, the conspiracy goes back in terms of the language, because the language ties them back, to saying David was red like us, Adam is red like us. That's what they did. When you research the word ruddy in its original form, it meant a healthy, a high level of health in your complexion. In the instance of our people, it meant the healthy dark complexion. Matter of fact, I'll give you an example real quick.
+
+*[[1:44:10](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6250s)]* Give me Bible Hub, and type in ruddy. I'm going to show you the difference in the different translations, to give you an example how they know. Watch this. Bible Hub real quick, First Samuel 16:12. Watch this. This is to let you know that they know what ruddy actually meant originally, and that Yiddish garbage changed it. 16:12. There you go. Now go down to the different versions. Can you make it one side? Move that out the way, to the right. Here we go.
+
+<div class="reading">
+
+Reading from Bible Hub's page of translations of 1 Samuel 16:12, read off the screen · read by a brother  *[[1:44:45](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6285s)]*
+
+> NIV: was glowing with health and had a fine appearance.
+
+- So where's ruddy in there? Right. That's health. Glowing with health. That's what it means. Go to the next one.
+
+> NLT: was dark and handsome.
+
+- Where it was ruddy, it was ruddy in there. Damn, it's dark. Yeah, that's a bomb. You see what I'm saying? Dark and handsome. Next one.
+
+> Ruddy, with beautiful eyes and handsome.
+
+- Okay, go down.
+
+> Beautiful eyes ... handsome.
+
+- Go down.
+
+> Ruddy, and with a beautiful countenance.
+
+- Go down.
+
+> Ruddy ... bright eyes.
+
+- Go down.
+
+> Reddish ...
+
+- … playing games.
+
+> Beautiful ... ruddy ... beautiful eyes.
+
+- Go down.
+
+> Ruddy ... ruddy complexion.
+
+- Okay, go down.
+
+> And a healthy, handsome appearance.
+
+- So it'll go down. The next one: a healthy, handsome appearance. Healthy. It goes back to your health. Lamentations 4 and verse 7. Go down some more.
+
+- **Elijah:** So basically it seems like it's denoting, like, vigor? Or, like, youth?
+
+- **Deacon Eythan:** Yes. It means a healthy, fresh complexion. Healthy and high health.
+
+- **Brother:** You got something after, with the Coverdale joint.
+
+- **Deacon Eythan:** Yeah, yeah, yeah. Let's get the old Bible translations. These are old, old Bibles, in the 1300s, 1500s. Because during King James' time, ruddy meant brown, healthy brown. So they put ruddy there, because in that time it was common knowledge: everybody knew it meant brown and healthy.
+
+</div>
+
+<div class="reading">
+
+Reading from the older English Bibles' wording of 1 Samuel 16:12, read off the screen · read by a brother  *[[1:46:39](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6399s)]*
+
+> 1531 Tyndale Bible: And he sent and brought him in. Now he was ruddy withal, of a beautiful countenance and ... to look to. And the Lord said, Arise, anoint him, for this is he.
+
+> 1535 Coverdale Bible: Then sent he and caused him ... brought, and he was well colored, with fair eyes and of a beautiful countenance.
+
+- Well colored. Because colored at the time meant colored; you know, brown is the same thing, colored. And the last two say brown.
+
+> 1537 Matthew Bible: And he sent and brought him in, and he was brown, with goodly eyes and well favored in sight.
+
+- We actually have this one. Go down, the next one.
+
+> 1539 Great Bible: And he sent and brought him in, and he was browned, and of an excellent beauty.
+
+- So ruddy meant brown. A healthy brown complexion. That's what it meant originally. Dub and wood meant the same thing: dub, rud, swarthy, olive or tawny, copper colored. They all meant the same thing. And so that Hebrew that Ben Yehuda came with made ruddy mean red, and Adam and ruddy all together meant red. They know that back in old times, ruddy and brown was synonymous. David was black. David was black.
+
+- **Elijah:** Yes. All right, that was the only questions I had. All praise.
+
+- **Deacon Eythan:** That's a good question, man. So your question brought about answers people may have had as well. Thank you. Right. So again, going back to the point: ruddy meant what it was before. So those who try to contest: David was ruddy; he was brown. That's what it means. Anything else you got there? That's it. Move on. Give me Lamentations 4 and 7. The Book of Lamentations chapter 4 and verse 7.
+
+</div>
+
+**[Lamentations 4:7-8](/bible/lamentations/4#v7)**  *[[1:48:35](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6515s)]*
+
+> <sup>[7](/bible/lamentations/4#v7)</sup> Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
+
+- This is before the siege of Babylon, and there's the after, verse 8.
+
+- They were pure.
+
+- They were more what? More ruddy in body than rubies. Healthy in body. Rubies are precious. Their bodies are healthy, precious.
+
+- Glorious. Next verse.
+
+> <sup>[8](/bible/lamentations/4#v8)</sup> Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
+
+- Their faces are blacker than a coal. They were black and healthy prior to the invasion of Babylon, which led to what? Read on.
+
+- Famine. That is the aftermath of verse 7. Black faces, dark as hell, and down to the bone, skinny.
+
+- **Text:** Shalom, brothers, from New Jersey. I Googled ruddy animals images, and all were brown, like mahogany.
+
+- **Deacon Eythan:** Yes, yes. You type in ruddy people in Google, it shows brown animals and brown people. It's like one white guy, if that.
+
+- **Text:** The ... on the Lamentation says darker than blackness.
+
+- **Deacon Eythan:** What? Number eight says their visage is blacker than a coal; the ... says darker than blackness. Damn. If you have a Cambridge Bible, this is black: darker than blackness. Come on, man. The face is darker than blackness. It was black, jet black. Because I believe that during a famine, it's a term for your skin, it gets extra dark when it's famine. It's a word.
+
+- **Brother:** Hyperpigmentation.
+
+- **Deacon Eythan:** Hyperpigmentation. When you go through a famine, black folks get darker, based upon hyperpigmentation during famine. Or if you're light, you get lighter. Like a plant: if it's deprived of water, it gets lighter. If you're dark, you get darker due to deprivation. So they got darker because of that, because of deprivation. No white guy turned to a … because he's hungry, you stupid-ass apologetics.
+
+- **Brother:** Yeah. The white guy was so hungry he looked like Wesley Snipes. Shut up.
+
+- **Deacon Eythan:** Where we at, man? That's heavy right there. Darker than blackness. I'm so excited I'm losing track of time.
+
+*[[1:51:40](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6700s)]* All right, so you read blackness. Get me Censoring Racial Ridicule, page 33, which coincides with The Home Tutor. All right, this is called Censoring Racial Ridicule: Irish, Jewish and African-American Struggles over Race and Representation, 1890 to 1930, by M. Alison Kibler. Page 33. Start from there: most 19th century, right there, on the far right.
+
+<div class="reading">
+
+Reading from *Censoring Racial Ridicule: Irish, Jewish and African-American Struggles over Race and Representation, 1890 to 1930* by M. Alison Kibler, page 33 · read by a brother  *[[1:52:17](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6737s)]*
+
+> Most 19th century observers saw Jewish success and acculturation as a sign of white superiority, but by the early 20th century, as Eastern European immigration peaked, Jews emerged as a peculiar race. Around the turn of the century, scholars regarded the Jewish race
+
+- The Jewish what? Around the turn of the century scholars regarded the Jewish race. It was what? Jewish race. They were a race.
+
+> in contradictory ways, praising the race's ambition and capitalist success but also ... greed. They defined Jews as quintessentially modern but also as old-fashioned in their religious devotion.
+
+- Watch this.
+
+> Commentators claimed that the Jews resembled African-Americans
+
+- Oh, hold on, hold on, hold on.
+
+> because of their swarthy skin tone and inappropriate sexual drive.
+
+- If you're very, very truthful: when you have women like ours, you have a sex drive better than yours. That's right. Walk in the house somewhere, you're going to put babies up in there. That's what it is. Beautiful brown skin and the waist and pretty face. It is what it is. We're going to make a bunch of babies. We don't have long-back women. We ain't got long back, all that stuff. No broomsticks, yellow pancakes, all that going on. So you have, it says, Jews resembled African-Americans because of their swarthy skin tone and inappropriate sex drive.
+
+</div>
+
+*[[1:54:01](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6841s)]* Now, get me The Jews: A Study of Race and Environment, by Maurice Fishberg. I have the cover of the book right there. That's 1911.
+
+**Brother:** It's pretty good. 1911.
+
+**Deacon Eythan:** The year, right? Yes, sir. Good, let's go. The Jews.
+
+**Brother:** Where you want me to start at, Deacon?
+
+**Deacon Eythan:** "It has stated that the Falashas." Highlight that for me.
+
+**Brother:** The latest description of these Jews is from the pen of H. Nahum, another representative of the Alliance of Israel...
+
+**Deacon Eythan:** Wait, wait, wait, wait. Page 149. That's 148. 149. I mean, that's good too, but I want 149. Just get to the point.
+
+<div class="reading">
+
+Reading from *The Jews: A Study of Race and Environment* by Maurice Fishberg (1911), page 149 · read by a brother  *[[1:55:25](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=6925s)]*
+
+> It is stated that the Falashas are not the only Jews of negro race.
+
+- The Falashas are the ones who were airlifted into Israel in 1984, under, based upon the year of return, permission to return, 1984. They were airlifted based upon persecution in Ethiopia and were placed in Israel, and they're treated like … over there for the last 30 years. You have black folks over there crying for rights, crying for justice, because they're being killed and mistreated by the government, Israeli government and police force. You have basically a Black Lives Matter campaign, not by the same name, but the same movement going on over there, except theirs is actually sincere, not some lesbian garbage. But over there in Israel they're being persecuted. They were brought over there and the Israeli government is giving them problems. Read on. And they consider them to be Jews, you know.
+
+> It is stated that the Falashas are not the only Jews of negro race.
+
+- Of negro race. It's the same as us.
+
+> Bastian speaks of negro Jews living on the Loango Coast in Western Africa.
+
+- The what? The Loango Coast. Give me the map of Africa, please. The Africa map. Living on the coast of Loango, in Western Africa. Go back to that page real quick. I'm sorry about that, I can't do two things at one time. Go back up to the top right there. Read it again.
+
+- **Brother:** Bastian speaks of negro Jews living on the Loango Coast in Western Africa.
+
+- **Deacon Eythan:** He speaks of negro Jews living on the coast of Loango, the coast of West Africa.
+
+> They are called Mavambo, or Judios.
+
+- For the map, blow it up. Go to the bottom left right there. Zoom in there. Move it over to the right. There you go. Where's that at? Yes, sir. Jews. Move it over. Let's see what it is. Bring it out. Gaboon right there. West Africa, right? That's where it is. Read the book again.
+
+> They are called Mavambo, or Judios. They are on the whole a fair looking race,
+
+- In this instance it means they're good-looking.
+
+> says Bastian. They are more serious and restrained than the rest of the Negroes, although in other places they are despised.
+
+- Despised everywhere. We're hated everywhere.
+
+> Here they take a dominating position, or at least such as to be respected, and partly even feared, because they are rich and have most of the commerce in their hands. The same author claims that, though they are of negro race, still he detected Semitic facial features in their physiognomy.
+
+- They have Semitic features in their facial structure. So we have a Semitic physiognomy.
+
+> Even in Madagascar a traveler has discovered Jews.
+
+- Yeah. Black there too.
+
+> ... mentions that on the east coast of that island he met natives who called themselves Zafi Ibrahim, are descendants of Abraham, and who claimed to be altogether Jews. But I could not detect any difference in color, features or dialect between them and the other people of the eastern coast, comments the author.
+
+- They all look the same. They look the same over here, look the same over there. They're all dark.
+
+> The most curious class of negro Jews is said to have existed in Jamaica
+
+- Jamaica. Where? Jamaica.
+
+> and Surinam.
+
+- Surinam. The Jews are there too.
+
+> In Jamaica there was a very large degree of intermarriage of the Spanish and Portuguese Jews with Negroes,
+
+- The Spanish and what? The Spanish and Portuguese Jews with Negroes. Right.
+
+> and today there is said to be a very large colored population bearing Jewish names, but nearly all of whom have, however, lapsed from Judaism.
+
+- Because of slavery. Because of slavery. That's why. And assimilation.
+
+> About 150 years ago a new half-breed colony was constituted in the neighborhood of Surinam, which was the result of intermarriage between Jews and Negroes.
+
+- Jews, Negroes. It's the same people.
+
+> They developed their own peculiar language, ..., or Jew language. Dr. ... describes his dialect in detail. The first settlers were partly English and partly Jews who came from Brazil and Cayenne, and who spoke Portuguese. Both spoke to their slaves in their own language, which were not well understood by the latter. In this manner two new languages, negro English and negro Portuguese, were developed, which in time coalesced, and new terms and expressions common to both were developed.
+
+- That's all I wanted. So I mentioned the Jews being black there as well. There's so many places I can go.
+
+</div>
+
+*[[2:01:13](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=7273s)]* We don't have the book. The Critical Review? You do? Right quick. Critical Review, right here, to back up the Loango. Page 140, regarding Loango and the Portuguese. Right. Get page 140. Regarding Loango. This is called The Critical Review, or Annals of Literature, volume 57. This was published 1783. White eyes only. Hey, we got to get that sound bite, man. Page 140. White eyes only. Page 140 and 141.
+
+<div class="reading">
+
+Reading from *The Critical Review, or Annals of Literature*, volume 57 (1783), pages 140 and 141 · read by a brother  *[[2:01:58](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=7318s)]*
+
+> ...the Portuguese Jews...
+
+- The reason why it says Negroes and the Portuguese Jews is because the Portuguese Jews are basically Jews that spoke Portuguese and observed Judaism, and Negroes pretty much did not do so. Okay.
+
+> The first rivals of the Arabs for the slaving trade were the Portuguese,
+
+- Since 1445 the Portuguese were rivaling the Arabs in the slave trade. The Arabs had the trans-Saharan slave trade going on, and then the Portuguese came in in competition of selling slaves, eventually coming together and establishing, along with the Hamites, the Muslim Hamites, got together and sold us all, and got together and sold us, creating the transatlantic slave trade. Right.
+
+> whose preceding voyages were made merely in continuation of the war against the Arabs, whom King Alfonso the Third had expelled from his dominions. The kidnapping pursuits of the Portuguese were favored by the papal donation of the new discovered countries, till Prince Henry, who meant to improve the discovery in Africa to other purposes than merely for the extirpation of Mohammedism, forbade the kidnapping to his navigators.
+
+- Pope Nicholas the Fifth. He's the guy that passed the edicts of Dum Diversas and Romanus Pontifex, which were edicts that were passed to establish and solidify the enslavement of our people, and bringing them to this side of the world. And that same Inquisition was then brought to this side of the world, including the Native Americans as well, being enslaved and Christianized, or catechized, whatever.
+
+> Pope Nicholas the Fifth, in that famous bull by which he granted the unknown world to the Portuguese and Spaniards, expressly permitted and ordered the Christians to reduce all infidels into slavery,
+
+- More than Jews. Okay.
+
+> in order zealously executed by both these nations. In the meanwhile the Portuguese were advancing nearer and nearer to the countries abounding in gold, and discovered in the progress of their navigation many useful and valuable articles of trade, that of pepper now found by them...
+
+- Get to page 141. The Christian Church is a sponsor for the slave trade. Go to page 141. King John the Second. He's referred to as King John or King João, J-A-O. Same person.
+
+> King John the Second, in 1492, expel all Jews to the island of Saint Thomas,
+
+- He expelled all Jews to the island of what? Saint Thomas.
+
+> which had been discovered in 1471, and to other Portuguese settlements on the continent of Africa. And from these ... Jews the black Portuguese, as they are called, and the Jews in Loango,
+
+- Where? In Loango. It's in the last book. In Loango.
+
+> who are despised even by the very Negroes, are descended.
+
+- So again, the Jews of Loango, from which the Negroes derived, were all the same exact people.
+
+> By these colonists Saint Thomas soon became a considerable place of trade, and valuable for its sugar plantations.
+
+- Wow. Okay.
+
+> Thirty years after their settlement not less than 156,000 robes, of 30 pounds weight each, of sugar were exported, and the engines of 60 sugar works turned by slaves.
+
+> These Negroes were purchased in Guinea,
+
+- Remember the other books that mentioned Guinea also. These Negroes were purchased in Guinea.
+
+> Congo, and Mana Congo,
+
+> and the colonists have plantations furnished with from 150 to 3,000 negro slaves.
+
+- These are all Jews.
+
+- **Brother:** Right now we came in first, but there's another book that says when the so-called Jews came in and they took over those plantations, they made us slaves over there.
+
+- **Deacon Eythan:** We'll get to that as well, next week.
+
+- **Brother:** You got the Khazars in Spain in your books, by the way.
+
+- **Deacon Eythan:** Yeah, we got stuff for y'all. We got stuff for y'all, regarding the Khazars that pretty much got into Spain and were taught in the schools of the Jews in Spain, and were pretty much involved, and pretty much became Sephardics. We got the books, and they're published by the library of Hebrew Union College. That's your schools, right? Published by the library of Hebrew Union College, Jewish Institute of Religion. That's your books, that's your colleges. So we're going to go into that as well another time. And I want to do it now so bad, but I don't want to go past my time, because I know...
+
+</div>
+
+*[[2:07:03](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=7623s)]* I want to go in. I want to just bring it out real fast, though. Real quick, real fast. Okay, let me extend it. Forgive me, man. Just give me 10 minutes. Give me 10 minutes. Forgive me.
+
+*[[2:07:24](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=7644s)]* Okay, so: "Lamentations 4 and 7, where it says rubies are extra ruddy, means rubies are charcoal colored? Really?" I don't think they read it right. Oh no, no, no, no, no. Read it again.
+
+**Text:** So Lamentations 4:7, where it says rubies are extra ruddy, means rubies are charcoal color? Really?
+
+**Deacon Eythan:** No, sir. It's not. Rubies is precious stones. It's going into, I said earlier, sapphire. Earlier it's going into how their bodies were precious and healthy and strong, and they went from that to black as coal. Because remember, again, under famine, this hyperpigmentation. And again, scoffer: Joseph, Moses and Paul passed for Nubian people, right? So there's no way you're getting white out of that. I don't know who this dumbass is on here, but I'm a strong spirited one. You can call; I can embarrass you further on the phone call. But again, when it says sapphire, it's going into how precious their bodies were, how they were in high health, and then that high health declined. Say it again, please.
+
+**Brother:** Yes, sir. For the scoffers, the scorners that are not paying attention.
+
+**Deacon Eythan:** Where were you in the beginning of the show? Where were you at? You just came in. You seem confused. I'll help you. I'll help you. I mean, I think the books helped you enough, but, you know, some are slower than others. Read verse 7 and 8. Read both places.
+
+**[Lamentations 4:7-8](/bible/lamentations/4#v7)**  *[[2:09:01](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=7741s)]*
+
+> <sup>[7](/bible/lamentations/4#v7)</sup> Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
+
+- Her Nazarites were pure. Not whiter, this is purer than snow, meaning white as in holy.
+
+- Whiter than milk, as in that they were good.
+
+- They were ruddy in body. Ruddy in body means healthy in body, than rubies. That's in precious stones. Their bodies were in good condition. The next verse is going to elaborate.
+
+- Their polishing, the condition, was of sapphire. Precious, another precious jewel, like a ruby. It's not that color; it's going into the condition.
+
+> <sup>[8](/bible/lamentations/4#v8)</sup> Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
+
+- Their visage, that's the face there. Their faces are blacker than a coal. They're very dark.
+
+- You can't recognize them from what was written before in verse 7.
+
+- Their skin's stuck to their bones. No meat on them.
+
+- That's it. Going into what? The famine. Because Lamentations is Jeremiah's writing regarding what he saw when Babylon besieged Jerusalem and starved us out. And we were starved before they besieged us. So many of us lost weight and got slim, got weak. So he's going from verse 7, the beginning; verse 8 is the aftermath. Please learn to pay close attention when you're listening to the program. Thank you. Anyone else? See, I said it real slow so you won't be lost.
+
+*[[2:10:43](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=7843s)]* Where we at now? Oh, that's what I wanted. Get the page, Jose. That one. Khazaria. Blow it up. Okay. Kevin Alan Brook. Get the page I want out of that, to show who was involved in the slave trade once the original Jews and Moors were expelled. The ones who converted were allowed to stay, allowed to remain, and profit, because they're all the same. Read that.
+
+<div class="reading">
+
+Reading from a book on the Khazars by Kevin Alan Brook (the title is not given on air), on Khazars in Spain · read by a brother  *[[2:11:11](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=7871s)]*
+
+> It is unclear whether the traders from Khazaria were ethnic Khazars or merely residents of Crimea, since Khazaria was retained as a term for the Crimean Peninsula long after the end of Khazar rule. See chapter 8. The latter is probably intended.
+
+- Khazars in Spain. Whoa. White Khazars in Spain. Interesting. Read.
+
+> It is said that many royal Khazars emigrated to Spain in the 11th century. See chapter 8. It is also possible that Khazar merchants...
+
+- Wait, wait. Remember, the conversion started in the 8th, 9th century. So the Israelites are still living in these lands at the time, and they had schools of learning in this time. Remember, the Khazars converted during the 8th and 9th century. Some say 800, some say 960 A.D. So when the Jews that fled from Christian or Islamic rule fled into Khazaria, they taught the Khazars. And so some of the Khazars, who were taught by the Jews living there, came to Spain, to the schools of learning. Give me Acts 13 again. Read this again.
+
+> So it is said that many royal Khazars emigrated to Spain in the 11th century. See chapter 8. It is also possible that Khazar merchants arrived in Spanish port cities, since the Moorish rulers were tolerant of Jews.
+
+- Since the Moorish rulers were tolerant of Jews. Because by this time, I believe, the ... ruling, right? 1100s. We were ruling at the time. So the Khazars came by, converted as Jews; they're like, come on in, they tolerated. So these Khazars were in Spain as early as a time when the Moors were still ruling over Spain, prior to their conquest. And I'm pretty sure some of them probably stayed. Read.
+
+> In ..., composed in 1161, Abraham ibn Daud stated that descendants of the Khazars were studying in Toledo,
+
+- Ah. The descendants of the Khazars were studying in Spain.
+
+> part of Andalusia, during his lifetime.
+
+- Uh-huh.
+
+> Ibn Daud added that these Khazars were rabbinical Jewish students.
+
+- The rabbinical what? Jewish students. Jewish students. Damn. Let's hear all of it again.
+
+> Perhaps these scholars came to Spain from Kievan Rus,
+
+- Kievan Rus. Ukraine. Kievan Rus is Russia.
+
+> Dunlop wondered whether the Khazars in Spain may have contributed information about their people to the Spanish Jews through oral testimonies,
+
+> and he also entertained the notion that a book of the Khazars containing historical details about the Khazars might actually have been brought to Toledo.
+
+- Their whereabouts, who they were. Came to Spain.
+
+> Such oral and written statements supplementing information that could be gleaned from the exchange of letters between Hasdai ibn Shaprut and King Joseph...
+
+- Wait, wait, wait. That's from that. They're going to get the encyclopedia. So the evidence of the origin of the Khazars can be found in the conversation between Hasdai ibn Shaprut and King Joseph. So get that real quick. Jewish Encyclopedia, real quick, volume four, and we're going to read what Hasdai ibn Shaprut said regarding the origins of the Khazars, where they come from, from King Joseph.
+
+- **Brother:** That's a Sephardic Jew? Yes. The Sephardics say they all moved in and they became the Sephardic Jews.
+
+- **Deacon Eythan:** That's what that is. Now we know. Now we know where it came from. All praises.
+
+</div>
+
+*[[2:15:21](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8121s)]* Hold on, we're looking for the exact section. I'm going to send them something real quick. I'm going to take a quick shot real quick right here. I sent it to Manny. Manny, I'm going to send it to you.
+
+**Brother:** Deacon, another Telegram. Oh, that's an Android; you don't got AirDrop. It's all right.
+
+**Deacon Eythan:** It's the Jewish Encyclopedia. Blow it up real quick. You have Khazars right now. This is the Khazar section, this is it. This is the Jewish Encyclopedia. Go over to the next page, the same page, go over to the right column. Go down. Next page. This is the Khazar section right here. Blow it up, let me see. Go down: embrace Judaism. That's King Joseph there. Go next page. There we go, right there. That's it. Read it. Hasdai ibn Shaprut, that guy, the evidence of the Khazar origin came from, regarding them traveling from Khazaria to Spain to learn in the schools. Read this here. You can find out the origin of the Khazars based upon the correspondence between Hasdai and King Joseph. Watch this.
+
+<div class="reading">
+
+Reading from the Jewish Encyclopedia, volume four, the article on the Khazars · read by a brother  *[[2:17:12](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8232s)]*
+
+> Hasdai ibn Shaprut, who was foreign minister to Abd al-Rahman, Sultan of Cordova, in his letter to King Joseph of the Khazars, about 960,
+
+- Yes. Not about what year? 960. That's 200 years before they arrived in Spain to go to the schools. 100-plus years.
+
+> ... that the first information about that kingdom was communicated to him by envoys from ..., and that their statements were corroborated by ambassadors from Byzantium.
+
+- So Hasdai ibn Shaprut was doing intel on the Khazars, and he was getting information from other people as to their whereabouts, where they come from, who they come from. So he got information from the Christians and other business parties that they deal with. Byzantium. Byzantium, Christian, same thing.
+
+> Taking a ... interest in everything relating to the kingdom of the Khazars, Hasdai begs the king to communicate to him a detailed account of the geography of his country,
+
+- Come on.
+
+> of his international constitution, of the customs and occupations of his inhabitants,
+
+> and especially of the history of his ancestry and of the state. In this letter Hasdai speaks of the tradition according to which the Khazars once dwelt near the Seir Mountains.
+
+- Now go back to the book. Go back. That's where they come from. Traditionally they were known to have come from Edom, from Mount Seir. So now read it again. Where you at?
+
+</div>
+
+<div class="reading">
+
+Reading from Kevin Alan Brook's book on the Khazars, continued · read by a brother  *[[2:18:51](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8331s)]*
+
+> Dunlop wondered whether the Khazars in Spain may have contributed information about their people to the Spanish Jews through oral testimonies, and he also entertained the notion that books of the Khazars containing historical details about the Khazars might actually have been brought to Toledo. Such oral and written statements supplemented information that could be gleaned from the exchange of letters between Hasdai ibn Shaprut and King Joseph
+
+- Regarding them being from Seir, Mount Seir, the mountains.
+
+> and theoretically could have helped Judah Halevi compose a brief account of the Khazars that appears in two sections of his famous book ...
+
+- So he wrote about them.
+
+> which contains a few details not found in the Hasdai-Joseph correspondence or any other known extant text.
+
+- We got to find that. We got to find that too.
+
+> Whether books of the Khazars existed or not will probably remain a tantalizing mystery.
+
+</div>
+
+*[[2:19:33](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8373s)]* So now give me that, I sent you, Manny. I want you to Google the same book, and Google the price of it. Now, this book right here, we'll Google the book first, see how much it costs, what I bought it for. Zoom in on that book first, real quick, before you wrap it up. We're going to start here next week, in two weeks. We're going to go to this book in two weeks. Blow it up. This book is called New World Jewry, Requiem for the Forgotten, by Seymour B. Liebman. This golden child. The Israelis were major slave traders. Major slave traders. How do you know which Jews it was that was doing it? Now we know. That was you. That was you doing that.
+
+*[[2:20:36](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8436s)]* This book right here, this book, like 20 bucks, something like that. Now Google it. How much is it worth? Blow it up. Let's see what it costs. Amazon. And that's everywhere I looked. It's everywhere, same price. Blow it up. It don't matter where you go, it's going to be the same price. Right there, that's Amazon. How much it costs? $2,950. Why? Why is it $2,950? Because in that book it talks about the involvement of the Israelis, or you nominals, being heavily involved in the slave trade. Now, we commend you for raising the price to $3,000, but unfortunately we have it. So that was a waste of time for you. I know you thought you could hide it. We got it, so we're going to bring it out. It is what it is. So look forward in a couple of weeks. We're going to start off with this book here. You got something else?
+
+**Text:** Shalom, leadership. I just wanted y'all to know how much your preaching is appreciated. I'm so proud and happy to have the leadership of my brothers. Keep bringing out the truth. All praise the Most High. The prophets are back on the earth. Most High Christ's blessings.
+
+**Deacon Eythan:** All praise the Lord. So that book, you made it $3,000. For whatever reason, it was worth 20 bucks, but now we know why: because that book goes heavily into the involvement of the Israelis, or you Zionists, or nominals, in the slave trade. So we're going to go into that as well in a couple of weeks. All praise the Lord for that. Or maybe next week, we'll see what happens. All praise the Lord, the information that came out today. Thank you for the books. Thank you for letting us read. Right. That was your mistake. And shout out to the breakfast team. All praise the Lord.
+
+**Brother:** Hey, Israel, let's give Deacon another hand for that class.
+
+**Deacon Eythan:** Oh man, I forgot Acts 13:1. Oh yeah, real fast, regarding them going to our schools of learning. Read that real fast. The Book of Acts chapter 13 and verse 1.
+
+**[Acts 13:1](/bible/acts/13#v1)**  *[[2:23:21](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8601s)]*
+
+> <sup>[1](/bible/acts/13#v1)</sup> Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
+
+- Herod the tetrarch and Saul. Manaen, they all went to the same school. Get Acts 26 verse 1, and jump to verse 3. The Book of Acts chapter 26 and verse 1.
+
+**[Acts 26:1-3](/bible/acts/26#v1)**  *[[2:23:48](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8628s)]*
+
+> <sup>[1](/bible/acts/26#v1)</sup> Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:
+>
+> <sup>[2](/bible/acts/26#v2)</sup> I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:
+
+- So, stop. Good. But go to verse 3 now. Get to the point.
+
+> <sup>[3](/bible/acts/26#v3)</sup> Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.
+
+- Why? Because he was taught in our schools. They were mentored and educated in our laws and customs when we conquered Edom. And then over time, when Edom conquered us, they maintained that teaching and became us, in Spain, and became us in Germany, okay, or Russia. That's how it happened. So the Khazars, so these guys, the Sephardics, ..., are Khazars too, or Edom too. Spaniards, conquistadors, them as well. It's the same people that came over here with Columbus. It's the same people. All right.
+
+## In Closing
+
+**Brother:** All praise the Lord for the information. All praise. Let's give Deacon a hand again. All praise the Most High.
+
+*[[2:26:07](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8767s)]* **Brother:** Is there one more? I don't know if you got time for that one more. Come on. All right, go to that text.
+
+**Text:** Shalom, leadership. Brother Shiloh from Arkansas. ... Europe. From my understanding, we came and ruled over Japheth until Edom took over and became the Greeks and later Romans. Today you can see some Edom with dark complexion that have mixed with Japheth, who mixed with Shem. So does that mean that among some of those people are our people?
+
+**Deacon Eythan:** We're everywhere. So I can't speak to that. We're everywhere; I can tell you that the most. That they came, ruled over Japheth until Edom took over and became the Greeks, yeah, right. Edom came after us, and we all mingled around. So Israel's everywhere. I can't speak definitively as to who was who. What I know: Israel is mixed among everyone. So yes, the answer to your question is yes. It's just all over the place. I went into this information regarding ... mingling around when I went into the Scythians. And then Edom came after, of course. When the Kingdom of Israel split into two kingdoms, Edom gained power, and they migrated further northward, ended up in Italy, ended up in Spain. They broke off and then ended up into, you know, Russia, and pretty much in Kiev or whatever, and migrated over there. So hope that answered your question. Is that it?
+
+**Brother:** Yes, sir.
+
+*[[2:27:44](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8864s)]* **Deacon Eythan:** All praise the Lord. We'll see you next week, or two. You know, we got some things going on next week that may cause class not to take place next week. It might be a rerun. But you guys should watch this video again next week, if you didn't watch it, or watch it again during the course of the week, and kind of write the things down. You know, after a while, this war is getting crazy. Esau's going to start shutting our pages down. So y'all better make sure you got a terabyte of hard drive or something, and start saving these videos, and organizing them. Because after a while this information is going to become forbidden. So be happy for the information to get in now, because it may not be around that much longer. All right. So, Shalom will sign Christ. Blessed. I enjoyed the class as much as, hopefully, y'all did. See y'all again. Shalom.
+
+## Announcements & References
+
+*[[2:24:41](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8681s)]* **Brother:** All right, Israel, remember to subscribe to Our Hidden History Radio, IUIC Philadelphia, and IUIC Philadelphia In The Classroom. Make sure you hit the notifications button so you know when we go live. All right. You can catch the Deacon, captain, in the offices of IUIC. Donate to the Booster Club: you can donate to the Booster Club at iuic.fundraising@israelunite.org. And also continue your donations to OHH, so we can get more books to bring out to the people. You can donate to Philly, to iuic.philadelphia@israelunite.org; in the comments section put OHH.
+
+*[[2:25:24](https://www.youtube.com/watch?v=vCohQ_iqBsg&t=8724s)]* **Deacon Eythan:** Those of you who've been donating: these are all thanks to your contributions. All these books here, it's all y'all. So y'all keep doing what y'all do. We're going to keep bringing these books out for you. This is for y'all. So whatever we get, we bring out to you in the time appointed. All right. And we got that book also, that they made $3,000, thanks to y'all as well. We got it, though. We got it.
+
+**Brother:** And last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
+
+Call the show with questions or comments at 267-702-6121.
+
+Sources read from in this episode:
+
+- A Bible dictionary, the entry on Ham (read by a brother; the book isn't named).
+- The glossary in the back of a Cambridge Bible, on Ham (read by a brother).
+- A dictionary definition of esoteric, and the online etymology dictionary entry on nation, read off the screen.
+- *Edom and Khazaria, the Other Israel*, pages 150 to 151: the Jerusalem Post of October 1st, 1997, on a medieval illustration of Jacob blessing Esau (read by a brother), with a search result on the word ostracon.
+- *Heritage Civilization* (as named on air), pages 15, 24, 29, 30, 110, 111 and 112: Egyptians, the Hyksos, Semitic captives, Saint John the Evangelist, and the black Huns led by Attila (read by a brother).
+- A video of Bishop Nathanyel of Israel United in Christ, played at the break.
+- *Our Living Bible* by Michael Avi-Yonah and Emil G. Kraeling, on Joseph (read by a brother).
+- *The History of the Inquisition* by Philip a Limborch, translated by Samuel Chandler, volume one (1731), pages 44 to 45, 128 to 131: the expulsion of the Jews from Spain and Portugal, the taking of their children, and the Moors (read by a brother).
+- *The Home Tutor*, an early 1800s book, page 380: Dr. Prichard, and the Jews originally a dark-skinned and woolly-haired race (read by a brother).
+- *A Treatise of Physical Geography*, written in 1850, page 297: the Spanish Jew always dark in complexion, and the coast of Guinea (read by a brother).
+- Bible Hub's translations of 1 Samuel 16:12, and the 1531 Tyndale, 1535 Coverdale, 1537 Matthew and 1539 Great Bible wording of it, read off the screen.
+- *Censoring Racial Ridicule: Irish, Jewish and African-American Struggles over Race and Representation, 1890 to 1930* by M. Alison Kibler, page 33 (read by a brother).
+- *The Jews: A Study of Race and Environment* by Maurice Fishberg (1911), page 149: the negro Jews of the Loango Coast, Madagascar, Jamaica and Surinam (read by a brother).
+- *The Critical Review, or Annals of Literature*, volume 57 (1783), pages 140 and 141: the Portuguese slave trade, Pope Nicholas V, and the Jews banished to Saint Thomas and Loango (read by a brother).
+- Kevin Alan Brook's book on the Khazars (title not given on air), on Khazars studying in Toledo (read by a brother).
+- The Jewish Encyclopedia, volume four, the article on the Khazars: Hasdai ibn Shaprut's letter to King Joseph (read by a brother).
+- Shown, to be read in a coming class: *New World Jewry, Requiem for the Forgotten* by Seymour B. Liebman.
+
+---
+
+[Our Hidden History Index](/history) · [Watch the full episode on YouTube ↗](https://www.youtube.com/watch?v=vCohQ_iqBsg)
