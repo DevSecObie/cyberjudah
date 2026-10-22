@@ -309,7 +309,9 @@ Reading from a Google AI answer on Jim Crow and the Nazi laws · read by an offi
 
 **Officer:** They dumbed it down to make us feel better.
 
-**Deacon Eythan:** Yeah. Okay, we're going to call him Soot Face Pete rather than **Officer:** But his clothes are still clean.
+**Deacon Eythan:** Yeah. Okay, we're going to call him Soot Face Pete rather than …
+
+**Officer:** But his clothes are still clean.
 
 **Deacon Eythan:** Clothes are still clean. Yeah. His lips are red and his hands are white, but his face is still black.
 

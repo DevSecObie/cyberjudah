@@ -84,7 +84,7 @@ Reading from *The Atlantic Slave Trade* by Don Nardo, page 14 onward, on the ris
 
 > After they began to use clothing, they were for the most part very fond of this, so that they took great delight in robes of showy colors, and such was their love of
 
-- They had no clothes? Damn. This is all... Just jump down, man. This guy is lying. This sound like the Uncle Ruckus version of slavery.
+- They had no clothes? Damn. This is all … This just jump down, man. This guy is lying. This sound like the Uncle Ruckus version of slavery.
 
 > However, the slave-owning traditions of ancient times, which had culminated in the huge-scale slavery institution of ancient Rome, were not dead in the early medieval centuries.
 
