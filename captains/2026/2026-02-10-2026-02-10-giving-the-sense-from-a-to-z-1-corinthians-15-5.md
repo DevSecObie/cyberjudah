@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 15:5"
 slug: "2026/2026-02-10-giving-the-sense-from-a-to-z-1-corinthians-15-5"
 date: "2026-02-10"
-teacher: ""
+teacher: "Captain Mattathias"
 description: "Giving The Sense From A to Z · 2026-02-10"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "persecution", "purpose"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-02-10</p>
+<p class="taught">Giving The Sense From A to Z · 2026-02-10 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 Cor 15](/bible/1-corinthians/15) · [Luke 24](/bible/luke/24) · [Matt 28](/bible/matthew/28) · [Dan 7](/bible/daniel/7) · [Acts 12](/bible/acts/12) · [Luke 1](/bible/luke/1) · [Acts 10](/bible/acts/10) · [Eph 2](/bible/ephesians/2) · [Ezek 37](/bible/ezekiel/37) · [Acts 1](/bible/acts/1) · [Acts 9](/bible/acts/9) · [Acts 26](/bible/acts/26) · [Gal 1](/bible/galatians/1) · [Acts 24](/bible/acts/24) · [Matt 5](/bible/matthew/5) · [1 Tim 1](/bible/1-timothy/1) · <i>and 7 more below</i></span>
 

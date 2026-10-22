@@ -35,4 +35,4 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Captain Mattathias
 
-- Obie: Captain Matt, Captain Matthew and "Captain Met" are Captain Mattathias. They are added to his `data/names.tsv` row as variants, and 71 spots are respelled.
+- Obie: Captain Matt, Captain Matthew and "Captain Met" are Captain Mattathias. They are added to his `data/names.tsv` row as variants, and 71 spots are respelled. The hosts heard as "Captain Met" (1 Corinthians 16) and "Captain Adathias"/"Matthy" (1 Corinthians 15:5) are now credited to Captain Mattathias.
