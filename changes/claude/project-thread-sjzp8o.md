@@ -20,3 +20,7 @@ Notes for the shows with the fewest recordings left to write up, each filed unde
 
 - Man Up Mondays: Hypocrisy (2022-07-18, IUIC Birmingham), Masculinity Under Attack, the Andrew Tate interview review (2023-07-31, Captain Emmanuel of IUIC Arkansas filling in), and Social Media Influencers vs. God's Influence (2023-08-07, Captain Emmanuel). All three recordings now have notes.
 - Daily Bread: Sunday, October 4, 2020 (Officer Michael). The other Daily Bread recording (ZZyc1Xo26S8) has only the intro music in its captions, so it has no note.
+
+## Show notes, batch 3
+
+- The Battle Beyond Radio Show, hosted by Captain Joel of IUIC Columbus, Ohio: China's Influences in Zambia (2023-11-28, the first live episode), Malawi Secretly Sending Its Youth to Work Israeli Farms (2023-12-05, one stream split into two recordings, filed as Part 1 and Part 2), Demands for Slavery Reparations Grow Louder (2023-12-12), and Kenyan Church Welcomes LGBTQI+ (2023-12-19). Every transcribed recording now has a note.
