@@ -17,7 +17,7 @@ function Downloads() {
       <div className="note prose-page">
         <ul>
           <li><a href={`${DATA}/downloads/vault.zip`}>vault.zip</a>: the whole library as an Obsidian vault (Bible, study notes, class notes, encyclopedia, law, precepts, cases).</li>
-          <li><a href="https://raw.githubusercontent.com/DevSecObie/cyberjudah/data/library.sqlite.gz">library.sqlite.gz</a>: the same library as SQLite with FTS5 full-text tables (<code>verses_fts</code>, <code>notes_fts</code>, <code>laws_fts</code>, <code>cases_fts</code>), downloaded from GitHub. Open it locally or import it into D1 or Turso.</li>
+          <li><a href={`${DATA}/library.sqlite.gz`}>library.sqlite.gz</a>: the same library as SQLite with FTS5 full-text tables (<code>verses_fts</code>, <code>notes_fts</code>, <code>laws_fts</code>, <code>cases_fts</code>). Open it locally or import it into D1 or Turso.</li>
           <li><a href={`${DATA}/api/cases/index.json`}>cases</a> · <a href={`${DATA}/api/laws/index.json`}>laws</a> · <a href={`${DATA}/api/precepts/index.json`}>precepts</a> · <a href={`${DATA}/api/notes/index.json`}>notes</a>: the data behind the pages, as JSON.</li>
           <li>Any chapter as JSON: <code>{DATA}/api/kjv/&lt;book&gt;/&lt;chapter&gt;.json</code>. The full map is on the <Link to="/api">API page</Link>.</li>
         </ul>

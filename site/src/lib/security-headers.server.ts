@@ -1,7 +1,7 @@
 /**
  * Security headers applied to every Worker response. The film is scrubbed from Blob URLs
  * (media-src blob:), the search runs the data set's Pagefind module in the browser (script-src
- * for data.cyberjudah.io and its cdn.jsdelivr.net fallback, plus wasm-unsafe-eval for its WASM
+ * for data.cyberjudah.io, plus wasm-unsafe-eval for its WASM
  * core), class recordings embed from youtube-nocookie.com, and inside Telegram the Mini App SDK
  * loads from telegram.org.
  */
@@ -12,7 +12,7 @@ export function applySecurityHeaders(response: Response): Response {
   headers.set(
     "Content-Security-Policy",
     "default-src 'self'; " +
-      `script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' ${DATA_ORIGIN} https://cdn.jsdelivr.net https://telegram.org; ` +
+      `script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' ${DATA_ORIGIN} https://telegram.org; ` +
       "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; " +
       "font-src 'self' https://fonts.gstatic.com; " +
       "img-src 'self' data: https:; media-src 'self' blob: https:; " +

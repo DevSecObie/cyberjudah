@@ -1,59 +1,24 @@
 /**
  * The library's content is built by the content engine (engine/ in the DevSecObie/cyberjudah
- * repository) into a framework-independent data set on the `data` branch. This front end
- * reads that data set; it never renders from a database of its own, so the daily note
- * pipeline feeds every front end from one source.
+ * repository) into a framework-independent data set, published to R2 and served by the engine's
+ * own Worker at data.cyberjudah.io. This front end reads that data set; it never renders from a
+ * database of its own, so the daily note pipeline feeds every front end from one source.
  *
- * Addressing: the branch is served content-addressed through jsDelivr, keyed by commit, so
- * every file is immutable and cacheable forever. A tiny pointer (pointer.json on the raw
- * branch, five-minute cache) says which commit holds the current data set. Fetching the pointer once per
- * five minutes per Worker isolate keeps everything consistent within a build and fresh
- * across builds.
+ * A build goes live in one step (pointer.json at the data origin names it), so every file read
+ * here comes from the same build.
  */
-const REPO = "DevSecObie/cyberjudah";
 /** The data set, served by the content engine's own Worker with short cache lifetimes. */
 export const DATA_ORIGIN: string = (import.meta.env.VITE_DATA_ORIGIN as string | undefined) || "https://data.cyberjudah.io";
-/** Fallback: the same data set served content-addressed from the git branch. */
-const POINTER = `https://raw.githubusercontent.com/${REPO}/data/pointer.json`;
-const CDN = (ref: string) => `https://cdn.jsdelivr.net/gh/${REPO}@${ref}`;
 /** This site's own origin; every section of the library is rendered here now. */
 export const SITE_ORIGIN = "https://cyberjudah.io";
 
-let originCache: { origin: string; at: number } | null = null;
-let originPending: Promise<string> | null = null;
-const ORIGIN_TTL = 5 * 60 * 1000;
-
-/** The data root. data.cyberjudah.io when it answers, otherwise the branch through the CDN. */
+/** The data root. */
 export function dataOrigin(): Promise<string> {
-  if (originCache && Date.now() - originCache.at < ORIGIN_TTL) return Promise.resolve(originCache.origin);
-  if (originPending) return originPending;
-  originPending = (async () => {
-    try {
-      const res = await fetch(`${DATA_ORIGIN}/pointer.json`, { headers: { accept: "application/json" }, cache: "no-store" });
-      if (!res.ok) throw new Error(String(res.status));
-      originCache = { origin: DATA_ORIGIN, at: Date.now() };
-      return DATA_ORIGIN;
-    } catch {
-      try {
-        const res = await fetch(POINTER, { headers: { accept: "application/json" }, cache: "no-store" });
-        const m = res.ok ? ((await res.json()) as { commit?: string | null }) : {};
-        const origin = CDN(m.commit && /^[0-9a-f]{40}$/.test(m.commit) ? m.commit : "data");
-        originCache = { origin, at: Date.now() };
-        return origin;
-      } catch {
-        const origin = originCache?.origin ?? CDN("data");
-        originCache = { origin, at: Date.now() - ORIGIN_TTL + 30_000 };
-        return origin;
-      }
-    } finally {
-      originPending = null;
-    }
-  })();
-  return originPending;
+  return Promise.resolve(DATA_ORIGIN);
 }
-/** The last resolved data root, for building URLs synchronously after a loader has run. */
+/** The data root, for building URLs synchronously. */
 export function dataOriginSync(): string {
-  return originCache?.origin ?? DATA_ORIGIN;
+  return DATA_ORIGIN;
 }
 
 async function getJson<T>(path: string): Promise<T> {

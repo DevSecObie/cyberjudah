@@ -43,7 +43,9 @@ animation, Safari and Firefox still need separate checks.
 ## What needs recovering
 
 - `main` holds the authored Markdown, JSON reference material, engine and frontend.
-- The generated `data` branch is replaced on publication; it is NOT a historical backup.
+- The generated data set lives in the R2 bucket `cyberjudah-data`; the newest 10 builds are kept
+  and `node engine/publish.mjs --rollback <build-id>` makes an older one live. It is NOT a
+  long-term backup: rebuild from `main` instead.
 - The content Worker serves generated files. D1 holds the generated search index.
 - The site and data workflows publish independently. Rolling back the site does
   not roll back the content Worker or D1. Verify all three after an incident.
