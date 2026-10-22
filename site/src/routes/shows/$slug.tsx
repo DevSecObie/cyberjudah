@@ -1,7 +1,7 @@
 import { createFileRoute, notFound, redirect } from "@tanstack/react-router";
 import { Page, Kicker, ReadLink } from "@/components/site/chrome";
 import { NoteBrowser, validateBrowse } from "@/components/site/note-browser";
-import { api, nf } from "@/lib/api";
+import { api, nf, OWN_SECTION } from "@/lib/api";
 import { pageHead } from "@/lib/head";
 
 export const Route = createFileRoute("/shows/$slug")({
@@ -12,6 +12,7 @@ export const Route = createFileRoute("/shows/$slug")({
     if (!show) throw notFound();
     // The shows that had their own section before this one keep it.
     if (show.page) throw redirect({ to: show.page as never });
+    if (OWN_SECTION[show.slug]) throw redirect({ to: OWN_SECTION[show.slug] as never });
     const [all, topics] = await Promise.all([show.feed === "captains" ? api.captains() : api.classes(), api.topicLabels()]);
     // A show's episodes on another station carry its name and the station ("… · Kente FM Radio").
     const rows = all.filter((r) => r.collection === show.name || r.collection?.startsWith(`${show.name} · `));

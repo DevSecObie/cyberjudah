@@ -14,6 +14,7 @@ import { Route as AboutRouteImport } from './routes/about'
 import { Route as ApiRouteImport } from './routes/api'
 import { Route as AppRouteImport } from './routes/app'
 import { Route as DownloadsRouteImport } from './routes/downloads'
+import { Route as GivingTheSenseRouteImport } from './routes/giving-the-sense'
 import { Route as GlossaryRouteImport } from './routes/glossary'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
 import { Route as SearchRouteImport } from './routes/search'
@@ -80,6 +81,11 @@ const AppRoute = AppRouteImport.update({
 const DownloadsRoute = DownloadsRouteImport.update({
   id: '/downloads',
   path: '/downloads',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const GivingTheSenseRoute = GivingTheSenseRouteImport.update({
+  id: '/giving-the-sense',
+  path: '/giving-the-sense',
   getParentRoute: () => rootRouteImport,
 } as any)
 const GlossaryRoute = GlossaryRouteImport.update({
@@ -299,6 +305,7 @@ export interface FileRoutesByFullPath {
   '/api': typeof ApiRoute
   '/app': typeof AppRouteWithChildren
   '/downloads': typeof DownloadsRoute
+  '/giving-the-sense': typeof GivingTheSenseRoute
   '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
@@ -347,6 +354,7 @@ export interface FileRoutesByTo {
   '/about': typeof AboutRoute
   '/api': typeof ApiRoute
   '/downloads': typeof DownloadsRoute
+  '/giving-the-sense': typeof GivingTheSenseRoute
   '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
@@ -397,6 +405,7 @@ export interface FileRoutesById {
   '/api': typeof ApiRoute
   '/app': typeof AppRouteWithChildren
   '/downloads': typeof DownloadsRoute
+  '/giving-the-sense': typeof GivingTheSenseRoute
   '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
@@ -448,6 +457,7 @@ export interface FileRouteTypes {
     | '/api'
     | '/app'
     | '/downloads'
+    | '/giving-the-sense'
     | '/glossary'
     | '/robots.txt'
     | '/search'
@@ -496,6 +506,7 @@ export interface FileRouteTypes {
     | '/about'
     | '/api'
     | '/downloads'
+    | '/giving-the-sense'
     | '/glossary'
     | '/robots.txt'
     | '/search'
@@ -545,6 +556,7 @@ export interface FileRouteTypes {
     | '/api'
     | '/app'
     | '/downloads'
+    | '/giving-the-sense'
     | '/glossary'
     | '/robots.txt'
     | '/search'
@@ -595,6 +607,7 @@ export interface RootRouteChildren {
   ApiRoute: typeof ApiRoute
   AppRoute: typeof AppRouteWithChildren
   DownloadsRoute: typeof DownloadsRoute
+  GivingTheSenseRoute: typeof GivingTheSenseRoute
   GlossaryRoute: typeof GlossaryRoute
   RobotsDottxtRoute: typeof RobotsDottxtRoute
   SearchRoute: typeof SearchRoute
@@ -667,6 +680,13 @@ declare module '@tanstack/react-router' {
       path: '/downloads'
       fullPath: '/downloads'
       preLoaderRoute: typeof DownloadsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/giving-the-sense': {
+      id: '/giving-the-sense'
+      path: '/giving-the-sense'
+      fullPath: '/giving-the-sense'
+      preLoaderRoute: typeof GivingTheSenseRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/glossary': {
@@ -994,6 +1014,7 @@ const rootRouteChildren: RootRouteChildren = {
   ApiRoute: ApiRoute,
   AppRoute: AppRouteWithChildren,
   DownloadsRoute: DownloadsRoute,
+  GivingTheSenseRoute: GivingTheSenseRoute,
   GlossaryRoute: GlossaryRoute,
   RobotsDottxtRoute: RobotsDottxtRoute,
   SearchRoute: SearchRoute,
