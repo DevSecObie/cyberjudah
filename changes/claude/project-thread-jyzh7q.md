@@ -40,3 +40,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 7
 
 - 1 Corinthians 9 (2025-11-25, Captain Gedaliah), 10 (2025-12-03, Captain Zakai), 11 (2025-12-09, Captain Gedaliah), 11:19 (2025-12-11, host name unclear), 12:1 (2025-12-17, host not named) and 12:3 (2025-12-23, Captain Josiah). A second stream of 1 Corinthians 10 the same day (hZO8yfeutk4) is skipped as a duplicate.
+
+## Batch 8
+
+- 1 Corinthians 6:12 (2025-10-22, Captain Zakai), 7:1 (2025-10-28, Captain Josiah), 7:10 (2025-11-05, Captain Mattathias), 7:21 (2025-11-06, Captain Horeb), 7:29 (2025-11-18, Captain Mattathias) and 8:1 (2025-11-19, Captain Mattathias).
