@@ -36,3 +36,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Captain Mattathias
 
 - Obie: Captain Matt, Captain Matthew and "Captain Met" are Captain Mattathias. They are added to his `data/names.tsv` row as variants, and 71 spots are respelled. The hosts heard as "Captain Met" (1 Corinthians 16) and "Captain Adathias"/"Matthy" (1 Corinthians 15:5) are now credited to Captain Mattathias.
+
+## Batch 7
+
+- 1 Corinthians 9 (2025-11-25, Captain Gedaliah), 10 (2025-12-03, Captain Zakai), 11 (2025-12-09, Captain Gedaliah), 11:19 (2025-12-11, host name unclear), 12:1 (2025-12-17, host not named) and 12:3 (2025-12-23, Captain Josiah). A second stream of 1 Corinthians 10 the same day (hZO8yfeutk4) is skipped as a duplicate.
