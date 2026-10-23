@@ -230,6 +230,13 @@ export function loadLibrary(ROOT) {
   const openedBy = new Map();
   const STOPW = new Set("the and that unto shall this with them they their thou thee thy for from was were have hath which what when then there his him her not all but his our you your ye are into upon".split(" "));
   const wordsOf = (t) => new Set((t.toLowerCase().match(/[a-z]{3,}/g) ?? []).filter((w) => !STOPW.has(w)));
+  // Whether a point is the verse quoted: every word it says (past the small ones wordsOf drops)
+  // is in the verse. A point that quotes the verse and then says who or what it means, even in
+  // one word (That rock is Christ; the one by a bondmaid: Hagar), adds its own and stays.
+  const quotesVerse = (pt, verse) => {
+    const vw = new Set(verse.toLowerCase().match(/[a-z]+/g) ?? []), w = [...wordsOf(pt)];
+    return w.length > 0 && w.every((x) => vw.has(x));
+  };
   const verseList = (spec, n) => { if (!spec) return Array.from({ length: n }, (_, i) => i + 1); const out = []; for (const part of spec.split(",")) { const [a, b] = part.split("-").map(Number); for (let v = a; v <= (b || a); v++) if (v >= 1 && v <= n) out.push(v); } return out; };
   const placePoints = (opened, pts, row) => {
     const texts = bible[opened.book]?.[opened.chapter] ?? [];
@@ -238,10 +245,13 @@ export function loadLibrary(ROOT) {
     const by = new Map();
     for (const pt of pts) {
       const w = wordsOf(pt); let best = vs[0], score = 0;
-      if (vs.length > 1) for (const v of vs) { let s = 0; for (const x of wordsOf(texts[v - 1] ?? "")) if (w.has(x)) s++; if (s > score) { best = v; score = s; } }
+      for (const v of vs) { let s = 0; for (const x of wordsOf(texts[v - 1] ?? "")) if (w.has(x)) s++; if (s > score) { best = v; score = s; } }
       // A point that speaks to no verse of the passage in particular is not a comment on any
-      // one of them, so it is left off rather than put on the first.
-      if (vs.length > 1 && score < 2) continue;
+      // one of them, so it is left off rather than put on the first. On a one-verse passage the
+      // point still has to speak to what that verse says: it shares at least one of its words.
+      if (score < (vs.length > 1 ? 2 : 1)) continue;
+      // A point that only quotes the verse is the scripture, not the class's comment on it.
+      if (quotesVerse(pt, texts[best - 1] ?? "")) continue;
       const at = best;
       if (!by.has(at)) by.set(at, []); by.get(at).push(pt);
     }
@@ -279,8 +289,11 @@ export function loadLibrary(ROOT) {
       const key = `${n.file}|${opened.label}|${precept.ref.label}`;
       const why = WHY[key];
       const at = AT[key]?.v;
-      link(at ? { ...opened, verses: at } : opened, { kind: "precept", ref: precept.ref, text, point, note, ts, ...(why ? { why } : {}) });
-      link(precept.ref, { kind: "opened", ref: opened, text, point, note, ts, ...(why ? { why } : {}) });
+      // The note's points belong to the passage's verses, placed by placePoints into Comments;
+      // the last one before a precept says nothing about why that precept is there, so a precept
+      // carries only its own lines (text) and its breakdown (why).
+      link(at ? { ...opened, verses: at } : opened, { kind: "precept", ref: precept.ref, text, point: "", note, ts, ...(why ? { why } : {}) });
+      link(precept.ref, { kind: "opened", ref: opened, text, point: "", note, ts, ...(why ? { why } : {}) });
       if (passage) passage.precepts.push({ label: precept.ref.label, url: precept.ref.url, ...(why ? { why } : {}) });
       precept = null;
     };

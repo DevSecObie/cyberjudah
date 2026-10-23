@@ -12,6 +12,7 @@ on:
       - "scripts/precepts/test_classes.py"
       - "engine/library.mjs"
       - "engine/precept-moments.test.mjs"
+      - "engine/class-points.test.mjs"
       - ".github/workflows/precepts-check.yml"
 
 permissions:
@@ -41,11 +42,14 @@ jobs:
       - name: Test precept validation and playback timestamps
         run: |
           python3 -m unittest discover -s scripts/precepts -p 'test_*.py'
-          node --test engine/precept-moments.test.mjs
+          node --test engine/precept-moments.test.mjs engine/class-points.test.mjs
       - name: Check the passes
         run: |
           set -o pipefail
           files=$(git diff --name-only --diff-filter=AM "origin/${{ github.base_ref }}" HEAD -- 'data/precepts/classes/*.json')
+          # With no file named, the checker checks every pass; a PR that changes none (an engine
+          # change) has no passes of its own to check.
+          if [ -z "$files" ]; then echo "No precept passes changed." | tee -a "$GITHUB_STEP_SUMMARY"; exit 0; fi
           python3 scripts/precepts/classes.py check $files | tee -a "$GITHUB_STEP_SUMMARY"
       - name: Build the Bible data with them
         run: |
