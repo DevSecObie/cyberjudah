@@ -2,13 +2,13 @@
 title: "Truth Be Told: Mind Your Business N3gr0, Let Them Fight!"
 slug: "2023/2023-11-07-truth-be-told-mind-your-business-n3gr0-let-them-fight"
 date: "2023-11-07"
-teacher: "Captain Matthew"
+teacher: "Captain Mattathias"
 description: "Truth Be Told · 2023-11-07"
 collection: "Truth Be Told"
 tags: ["IUIC in the ClassRoom", "false-religion", "prophecy"]
 ---
 
-<p class="taught">Truth Be Told · 2023-11-07 · Captain Matthew</p>
+<p class="taught">Truth Be Told · 2023-11-07 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [Gen 36](/bible/genesis/36) · [Jer 2](/bible/jeremiah/2) · [Luke 7](/bible/luke/7) · [2 Esdras 9](/bible/2-esdras/9) · [Hab 2](/bible/habakkuk/2) · [Hos 6](/bible/hosea/6) · [Ps 97](/bible/psalms/97) · [Deut 28](/bible/deuteronomy/28) · [Sir 11](/bible/sirach/11) · [Prov 26](/bible/proverbs/26) · [Deut 7](/bible/deuteronomy/7) · [Exod 34](/bible/exodus/34) · [Judg 2](/bible/judges/2) · [Acts 16](/bible/acts/16) · [1 Esdras 5](/bible/1-esdras/5) · [Neh 4](/bible/nehemiah/4) · <i>and 16 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "false-religion", "prophecy"]
 
 ## Introduction
 
-*[[7:32](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=452s)]* Truth Be Told, back on the air from IUIC DC, hosted by Captain Matthew with Officer Mandel, Officer Daniel and Officer Michael, on minding our business while the nations fight: the war between the Palestinians and Amalek is the Lord's judgment and a sign of the times, not our fight. The Lord severed us from the other nations and deals only with Israel; come out of her, gather yourselves together, and repent before the decree.
+*[[7:32](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=452s)]* Truth Be Told, back on the air from IUIC DC, hosted by Captain Mattathias with Officer Mandel, Officer Daniel and Officer Michael, on minding our business while the nations fight: the war between the Palestinians and Amalek is the Lord's judgment and a sign of the times, not our fight. The Lord severed us from the other nations and deals only with Israel; come out of her, gather yourselves together, and repent before the decree.
 
 ## In The News
 

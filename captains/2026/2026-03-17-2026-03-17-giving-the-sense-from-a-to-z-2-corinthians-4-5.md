@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "adversity", "discipline", "endurance", "pu
 
 ## Introduction
 
-*[[6:57](https://www.youtube.com/watch?v=xtGZUY2i26Q&t=417s)]* So welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah. And shout out to my reader, Officer Simeon. And we going to get right in it cuz we already late. Give me Nehemiah 8 and 8, officer. And then we going to 2 Corinthians, the end of chapter 4, to start off. So let's jump to it, officer. 2 Corinthians 4 and let's start at 17. Captain Matthew did the show, I don't know if it was yesterday or a couple of days ago, and it sounded like his class kind of got cut off at the end. I heard him stop at verse 16. So we just going to continue it from where I heard him cut out at. So start at 17.
+*[[6:57](https://www.youtube.com/watch?v=xtGZUY2i26Q&t=417s)]* So welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah. And shout out to my reader, Officer Simeon. And we going to get right in it cuz we already late. Give me Nehemiah 8 and 8, officer. And then we going to 2 Corinthians, the end of chapter 4, to start off. So let's jump to it, officer. 2 Corinthians 4 and let's start at 17. Captain Mattathias did the show, I don't know if it was yesterday or a couple of days ago, and it sounded like his class kind of got cut off at the end. I heard him stop at verse 16. So we just going to continue it from where I heard him cut out at. So start at 17.
 
 ## Scriptures Opened
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 16"
 slug: "2026/2026-02-24-giving-the-sense-from-a-to-z-1-corinthians-16"
 date: "2026-02-24"
-teacher: ""
+teacher: "Captain Mattathias"
 description: "Giving The Sense From A to Z · 2026-02-24"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "false-religion"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-02-24</p>
+<p class="taught">Giving The Sense From A to Z · 2026-02-24 · Captain Mattathias</p>
 
 <span class="opens"><b>Opens</b> [1 Cor 16](/bible/1-corinthians/16)</span>
 

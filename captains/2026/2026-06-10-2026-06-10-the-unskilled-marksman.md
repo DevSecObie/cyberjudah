@@ -2,7 +2,7 @@
 title: "The Unskilled Marksman"
 slug: "2026/2026-06-10-the-unskilled-marksman"
 date: "2026-06-10"
-teacher: "Captain Matt"
+teacher: "Captain Mattathias"
 description: "15 Minutes w/ The Captains · 2026-06-10"
 tags: ["15 Minutes w/ The Captains", "leadership", "the-word", "wisdom"]
 ---

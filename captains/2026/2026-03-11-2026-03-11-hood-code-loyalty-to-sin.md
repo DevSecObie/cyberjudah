@@ -2,7 +2,7 @@
 title: "Hood Code: Loyalty To Sin"
 slug: "2026/2026-03-11-hood-code-loyalty-to-sin"
 date: "2026-03-11"
-teacher: "Captain Matt"
+teacher: "Captain Mattathias"
 description: "15 Minutes w/ The Captains · 2026-03-11"
 tags: ["15 Minutes w/ The Captains", "justice", "mercy"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "justice", "mercy"]
 
 ## Introduction
 
-*[[0:21](https://www.youtube.com/watch?v=I29gmYaeFO0&t=21s)]* Captain Matt here, IUIC Baton Rouge. Today's topic is hood code: loyalty to sin, betrayal to justice. Notice it said hood, not neighborhood. Cuz neighbor is gone now. It's just hood, cuz we don't love each other. We have a code, one of many, that's talking about no snitching. So Tyrone killed Ray Ray. It's wrong for me, as an innocent bystander who was there when Tyrone killed Ray Ray, to tell the police, hey, he did it. They'll call me a snitch. They'll call me a rat. But yet if the police kill Ray Ray, and I told on the police, I'm a hero. What world are y'all living in? We going to be all the way one way or we going to be all the way another way. We can't have selective outrage. Either we going to be all the way righteous, kings and gods of the earth, or we going to be African Americans, Negroes, the thing that was created in Babylon. Which one are we going to be?
+*[[0:21](https://www.youtube.com/watch?v=I29gmYaeFO0&t=21s)]* Captain Mattathias here, IUIC Baton Rouge. Today's topic is hood code: loyalty to sin, betrayal to justice. Notice it said hood, not neighborhood. Cuz neighbor is gone now. It's just hood, cuz we don't love each other. We have a code, one of many, that's talking about no snitching. So Tyrone killed Ray Ray. It's wrong for me, as an innocent bystander who was there when Tyrone killed Ray Ray, to tell the police, hey, he did it. They'll call me a snitch. They'll call me a rat. But yet if the police kill Ray Ray, and I told on the police, I'm a hero. What world are y'all living in? We going to be all the way one way or we going to be all the way another way. We can't have selective outrage. Either we going to be all the way righteous, kings and gods of the earth, or we going to be African Americans, Negroes, the thing that was created in Babylon. Which one are we going to be?
 
 ## Scriptures Opened
 
