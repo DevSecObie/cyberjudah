@@ -230,14 +230,12 @@ export function loadLibrary(ROOT) {
   const openedBy = new Map();
   const STOPW = new Set("the and that unto shall this with them they their thou thee thy for from was were have hath which what when then there his him her not all but his our you your ye are into upon".split(" "));
   const wordsOf = (t) => new Set((t.toLowerCase().match(/[a-z]{3,}/g) ?? []).filter((w) => !STOPW.has(w)));
-  // Whether a point is the verse quoted, near enough word for word: at most one of its words is
-  // not in the verse. A point that quotes the verse and then says who or what it means (That rock
-  // is Christ; Who is that? Israelites) adds its own words and stays.
-  const fold = (t) => t.toLowerCase().replace(/[^a-z]+/g, " ").trim();
+  // Whether a point is the verse quoted: every word it says (past the small ones wordsOf drops)
+  // is in the verse. A point that quotes the verse and then says who or what it means, even in
+  // one word (That rock is Christ; the one by a bondmaid: Hagar), adds its own and stays.
   const quotesVerse = (pt, verse) => {
-    const p = fold(pt), v = fold(verse); if (!p || !v) return false;
-    const vw = new Set(v.split(" "));
-    return p.split(" ").filter((x) => !vw.has(x)).length <= 1;
+    const vw = new Set(verse.toLowerCase().match(/[a-z]+/g) ?? []), w = [...wordsOf(pt)];
+    return w.length > 0 && w.every((x) => vw.has(x));
   };
   const verseList = (spec, n) => { if (!spec) return Array.from({ length: n }, (_, i) => i + 1); const out = []; for (const part of spec.split(",")) { const [a, b] = part.split("-").map(Number); for (let v = a; v <= (b || a); v++) if (v >= 1 && v <= n) out.push(v); } return out; };
   const placePoints = (opened, pts, row) => {

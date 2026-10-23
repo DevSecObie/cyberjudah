@@ -18,6 +18,7 @@ test('a class point reaches Comments only when it speaks to the verse, and never
       '**[Leviticus 15:19](/bible/leviticus/15#v19)**  *[[1:00](https://www.youtube.com/watch?v=FIXTURE0001&t=60s)]*', '',
       '- If her issue in her flesh be blood, she shall be put apart seven days.', '',
       '- A woman in her issue is put apart seven days; that is the law of separation for our women.', '',
+      '- Put apart: separated.', '',
       '- All these pictures are in Paris, France.', '',
       '  Precepts:',
       '  - **[Genesis 1:5](/bible/genesis/1#v5)**',
@@ -32,7 +33,7 @@ test('a class point reaches Comments only when it speaks to the verse, and never
       assert.equal(r.text, 'The evening and the morning were the first day.');
     }
     const comments = (commentary.get('Leviticus|15') ?? []).filter((c) => c.note.label === 'Points fixture');
-    assert.deepEqual(comments.map((c) => [c.verses, c.points]), [['19', ['A woman in her issue is put apart seven days; that is the law of separation for our women.']]]);
+    assert.deepEqual(comments.map((c) => [c.verses, c.points]), [['19', ['A woman in her issue is put apart seven days; that is the law of separation for our women.', 'Put apart: separated.']]]);
     assert.equal((commentary.get('Genesis|1') ?? []).some((c) => c.note.label === 'Points fixture'), false);
   } finally { fs.rmSync(tmp, { recursive: true, force: true }); }
 });
