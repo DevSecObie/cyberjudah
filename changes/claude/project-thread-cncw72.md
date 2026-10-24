@@ -1,1 +1,1 @@
-- Class note: If You Leave Now, You Were Never With Us (2026-10-24, 82pXYTvNmkU), with its transcript.
+- Teachers for the 2026-10-24 Sabbath classes from Obie: Deacon Malachi, Captain Mattathias, Deacon Isaac.

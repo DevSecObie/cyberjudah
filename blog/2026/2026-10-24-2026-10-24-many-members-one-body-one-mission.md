@@ -2,7 +2,7 @@
 title: "Many Members, One Body, One Mission"
 slug: "2026/2026-10-24-many-members-one-body-one-mission"
 date: "2026-10-24"
-teacher: ""
+teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2026-10-24"
 tags: ["IUIC in the ClassRoom", "faith", "media", "purpose", "the-body"]
 ---
