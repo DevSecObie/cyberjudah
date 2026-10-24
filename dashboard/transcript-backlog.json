@@ -65,16 +65,16 @@
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 191,
+      "already_in_vault": 295,
       "channel": "IUIC.ATLANTA.CLASSROOM",
-      "completed": 191,
+      "completed": 295,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 3,
-      "progress_pct": 60.44,
-      "to_fetch": 125,
+      "progress_pct": 93.35,
+      "to_fetch": 21,
       "videos": 316
     }
   ],
-  "generated_at": "2026-10-24T11:20:24.794366+00:00"
+  "generated_at": "2026-10-24T14:49:56.958565+00:00"
 }
