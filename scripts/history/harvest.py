@@ -87,8 +87,14 @@ def api_get(path, params, *, timeout=60, retries=3):
                 payload = {"detail": e.reason}
 
             if e.code in (408, 429, 502, 503) and attempt < retries - 1:
-                wait = float(e.headers.get("Retry-After", "5"))
-                time.sleep(min(wait + 1, 20))
+                # TranscriptAPI: 408 is a temporary failure, safe to retry after 1-5 s;
+                # failed calls cost no credits. Honor Retry-After when it is sent.
+                retry_after = e.headers.get("Retry-After")
+                try:
+                    wait = float(retry_after) if retry_after else min(2 * (attempt + 1), 8)
+                except ValueError:
+                    wait = 5
+                time.sleep(min(wait + 1, 30))
                 last = e.code
                 continue
             return e.code, payload, dict(e.headers)
@@ -271,7 +277,7 @@ def fetch_transcript(video_id):
         "include_timestamp": "true",
         "send_metadata": "true",
     }
-    return api_get("/youtube/transcript", params, timeout=20, retries=2)
+    return api_get("/youtube/transcript", params, timeout=60, retries=5)
 
 
 def video_publish_date(video_id):

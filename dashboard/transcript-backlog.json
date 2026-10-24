@@ -59,10 +59,22 @@
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 3,
-      "progress_pct": 94.02,
-      "to_fetch": 237,
-      "videos": 3962
+      "progress_pct": 93.99,
+      "to_fetch": 238,
+      "videos": 3963
+    },
+    {
+      "age_restricted": 1,
+      "already_in_vault": 191,
+      "channel": "IUIC.ATLANTA.CLASSROOM",
+      "completed": 191,
+      "feed": "classes",
+      "no_backlog": false,
+      "no_captions": 3,
+      "progress_pct": 60.44,
+      "to_fetch": 125,
+      "videos": 316
     }
   ],
-  "generated_at": "2026-10-23T18:23:02.592099+00:00"
+  "generated_at": "2026-10-24T11:20:24.794366+00:00"
 }

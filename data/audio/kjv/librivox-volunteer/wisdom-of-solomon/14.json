@@ -100,7 +100,7 @@
     [
       20,
       197.8,
-      205.74
+      206.08
     ],
     [
       21,
@@ -161,7 +161,7 @@
   "source": "wisdom_of_solomon_kjv_1407_librivox/wisdomofsolomon_03_kjv_128kb.mp3",
   "sourceStart": 13.78,
   "sourceEnd": 344.02,
-  "textSha256": "39cdcca21457d8b2276e2da74dec1a04cbbae97359d0d65b691d11e1ef3f5ce1",
+  "textSha256": "fad91ddee7ba5a54d97ac18c7816ca37b3035e685e04ea1ebc691060d7cacc87",
   "auditVersion": 1,
   "audit": [
     {
@@ -807,9 +807,9 @@
     },
     {
       "verse": 20,
-      "wordAgreement": 0.9362,
-      "secondsPerWord": 0.3308,
-      "zeroDurationWords": 1,
+      "wordAgreement": 0.88,
+      "secondsPerWord": 0.3067,
+      "zeroDurationWords": 2,
       "longestZeroDurationRun": 1,
       "wordProbabilities": [
         0.9695191383361816,
@@ -835,7 +835,10 @@
         0.9976035952568054,
         0.9966579675674438,
         0.9885299801826477,
-        0.5908060073852539
+        0.5908060073852539,
+        2.190081659136922e-06,
+        0.06559505313634872,
+        0.029389310628175735
       ]
     },
     {
@@ -845,9 +848,9 @@
       "zeroDurationWords": 0,
       "longestZeroDurationRun": 0,
       "wordProbabilities": [
-        0.9537263512611389,
-        0.9882566332817078,
-        0.9733366966247559,
+        0.7542417645454407,
+        0.9223108291625977,
+        0.9519729018211365,
         0.8550554513931274,
         0.991183876991272,
         0.9974594712257385,
@@ -942,7 +945,7 @@
     },
     {
       "verse": 24,
-      "wordAgreement": 0.9744,
+      "wordAgreement": 0.9231,
       "secondsPerWord": 0.459,
       "zeroDurationWords": 1,
       "longestZeroDurationRun": 1,
@@ -961,12 +964,12 @@
         0.9792701005935669,
         0.9938227534294128,
         0.9959136843681335,
-        0.9461384415626526,
-        0.9753013849258423,
-        0.9956298470497131,
-        0.9227963089942932,
-        0.993137776851654,
-        0.9982732534408569
+        0.4065781533718109,
+        0.975943386554718,
+        0.9955489635467529,
+        0.9227831363677979,
+        0.9935311675071716,
+        0.9982064962387085
       ]
     },
     {
@@ -976,24 +979,24 @@
       "zeroDurationWords": 0,
       "longestZeroDurationRun": 0,
       "wordProbabilities": [
-        0.923244297504425,
-        0.947737455368042,
-        0.9928597211837769,
-        0.9825279712677002,
-        0.9800461530685425,
-        0.9917851686477661,
-        0.9916585087776184,
-        0.2906906306743622,
-        0.9926615953445435,
-        0.5739239454269409,
-        0.9509637355804443,
-        0.977814257144928,
-        0.9408208727836609,
-        0.9928470253944397,
-        0.9656943082809448,
-        0.9942774176597595,
-        0.8146306276321411,
-        0.9899572730064392
+        0.9244663119316101,
+        0.9489896297454834,
+        0.9928489923477173,
+        0.9835078716278076,
+        0.9805849194526672,
+        0.9917311072349548,
+        0.9916936755180359,
+        0.2930861711502075,
+        0.9925140738487244,
+        0.574022114276886,
+        0.9508758187294006,
+        0.9776920080184937,
+        0.9409286975860596,
+        0.9928876757621765,
+        0.9659387469291687,
+        0.9943339824676514,
+        0.813316822052002,
+        0.990146815776825
       ]
     },
     {
@@ -1003,10 +1006,10 @@
       "zeroDurationWords": 0,
       "longestZeroDurationRun": 0,
       "wordProbabilities": [
-        0.7996184825897217,
-        0.9978653788566589,
-        0.9665809273719788,
-        0.9917614459991455,
+        0.8017981052398682,
+        0.9978610873222351,
+        0.9664222598075867,
+        0.991554319858551,
         0.9953292608261108,
         0.9989643096923828,
         0.9989917874336243,
@@ -1200,6 +1203,13 @@
       "reasons": [
         "ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error"
       ]
+    },
+    {
+      "verse": 20,
+      "check": true,
+      "reasons": [
+        "ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error"
+      ]
     }
   ],
   "hints": [
@@ -1292,7 +1302,7 @@
       "verse": 20,
       "reasons": [
         "A word has no duration",
-        "ASR differs from source text (word agreement 94%); listen for skip/addition/misread or ASR error"
+        "Low-confidence word alignment"
       ]
     },
     {
@@ -1306,7 +1316,7 @@
       "reasons": [
         "A word has no duration",
         "Low-confidence word alignment",
-        "ASR differs from source text (word agreement 97%); listen for skip/addition/misread or ASR error"
+        "ASR differs from source text (word agreement 92%); listen for skip/addition/misread or ASR error"
       ]
     },
     {

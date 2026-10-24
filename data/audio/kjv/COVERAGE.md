@@ -89,7 +89,7 @@ A `check: true` chapter/verse needs listening review; ASR differences are not pr
 
 ## Listening review
 
-630 of 4933 indexed verses need listening review.
+655 of 4933 indexed verses need listening review.
 Active flags: ASR agreement below 90%, duration outside 0.15–1.0 seconds/word, or at least three consecutive zero-duration words. Timings below 0.12 seconds/word are withheld.
 Raw word confidence remains in `audit`; earlier broad flags remain in `previousChecks` and are not silently discarded.
 
@@ -350,7 +350,7 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Exodus 40:4 (Michael Armenta): ASR differs from source text (word agreement 51%); listen for skip/addition/misread or ASR error.
 - Tobit 1:1 (Glenn O'Brien): ASR differs from source text (word agreement 68%); listen for skip/addition/misread or ASR error.
 - Tobit 1:2 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
-- Tobit 1:3 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 1:3 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - Tobit 1:6 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - Tobit 1:8 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Tobit 1:9 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
@@ -360,7 +360,7 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Tobit 1:16 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Tobit 1:17 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
 - Tobit 1:18 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
-- Tobit 1:21 (Glenn O'Brien): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- Tobit 1:21 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - Tobit 1:22 (Glenn O'Brien): ASR differs from source text (word agreement 53%); listen for skip/addition/misread or ASR error.
 - Tobit 2:3 (Glenn O'Brien): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
 - Tobit 2:5 (Glenn O'Brien): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
@@ -393,7 +393,6 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Tobit 6:10 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - Tobit 6:11 (Glenn O'Brien): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
 - Tobit 6:13 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Tobit 6:14 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Tobit 7:1 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Tobit 7:2 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
 - Tobit 7:3 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
@@ -434,11 +433,11 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Tobit 11:5 (Glenn O'Brien): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - Tobit 11:8 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Tobit 11:9 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Tobit 11:11 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Tobit 11:11 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Tobit 11:14 (Glenn O'Brien): ASR differs from source text (word agreement 34%); listen for skip/addition/misread or ASR error.
 - Tobit 11:15 (Glenn O'Brien): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Tobit 11:16 (Glenn O'Brien): ASR differs from source text (word agreement 53%); listen for skip/addition/misread or ASR error.
-- Tobit 11:17 (Glenn O'Brien): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Tobit 11:17 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Tobit 11:18 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
 - Tobit 12:1 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - Tobit 12:3 (Glenn O'Brien): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
@@ -446,13 +445,13 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Tobit 12:5 (Glenn O'Brien): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - Tobit 12:9 (Glenn O'Brien): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
 - Tobit 12:12 (Glenn O'Brien): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
-- Tobit 12:14 (Glenn O'Brien): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Tobit 12:14 (Glenn O'Brien): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Tobit 12:15 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Tobit 13 (Glenn O'Brien): chapter withheld — Opening/closing scripture anchor uncertain; listening review required.
 - Tobit 14:8 (Glenn O'Brien): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Tobit 14:9 (Glenn O'Brien): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - Tobit 14:10 (Glenn O'Brien): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
-- Tobit 14:12 (Glenn O'Brien): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
+- Tobit 14:12 (Glenn O'Brien): ASR differs from source text (word agreement 63%); listen for skip/addition/misread or ASR error.
 - Tobit 14:13 (Glenn O'Brien): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - Tobit 14:14 (Glenn O'Brien): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
 - Tobit 14:15 (Glenn O'Brien): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
@@ -461,27 +460,29 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Judith 1:6 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Judith 1:7 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - Judith 1:8 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Judith 1:9 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Judith 1:9 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error; 4 consecutive words have no duration.
 - Judith 1:15 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Judith 2:21 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
-- Judith 2:23 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 2:23 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Judith 2:26 (LibriVox volunteer): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
-- Judith 3:1 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Judith 3:9 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
-- Judith 4:4 (LibriVox volunteer): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
+- Judith 4:4 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - Judith 4:6 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- Judith 5:11 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- Judith 5:14 (LibriVox volunteer): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
+- Judith 5:11 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Judith 5:14 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - Judith 5:16 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Judith 6:2 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Judith 6:15 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - Judith 7:3 (LibriVox volunteer): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
-- Judith 8:10 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 8:1 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 8:8 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Judith 8:13 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- Judith 8:23 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 8:23 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - Judith 11:1 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Judith 12:6 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- Judith 13:2 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Judith 13:2 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Judith 13:5 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Judith 13:19 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Judith 14:6 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Judith 15:2 (LibriVox volunteer): ASR differs from source text (word agreement 72%); listen for skip/addition/misread or ASR error.
 - Judith 15:4 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Judith 15:6 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
@@ -503,46 +504,58 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - Wisdom of Solomon 9:2 (LibriVox volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 9:3 (LibriVox volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 9:4 (LibriVox volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 11:6 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 11:18 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 12:15 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 13:8 (LibriVox volunteer): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 14:10 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 14:20 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 15:4 (LibriVox volunteer): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 15:5 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 15:8 (LibriVox volunteer): 5 consecutive words have no duration.
 - Wisdom of Solomon 16:20 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 16:28 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 17:7 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 17:11 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 17:12 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 17:13 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Wisdom of Solomon 17:21 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 18:18 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 19:8 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - Wisdom of Solomon 19:15 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:35 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:36 (David Shamp): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:39 (David Shamp): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:40 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:43 (David Shamp): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:47 (David Shamp): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:35 (David Shamp): ASR differs from source text (word agreement 9%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:36 (David Shamp): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:37 (David Shamp): ASR differs from source text (word agreement 46%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:38 (David Shamp): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:39 (David Shamp): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:40 (David Shamp): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:41 (David Shamp): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:42 (David Shamp): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:43 (David Shamp): ASR differs from source text (word agreement 43%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:44 (David Shamp): ASR differs from source text (word agreement 62%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:45 (David Shamp): ASR differs from source text (word agreement 69%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:46 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:47 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:51 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:52 (David Shamp): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:54 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:55 (David Shamp): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:55 (David Shamp): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:56 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:59 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- Song of the Three Holy Children 1:60 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - Song of the Three Holy Children 1:61 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:63 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:64 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- Song of the Three Holy Children 1:67 (David Shamp): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - History of Susanna 1:1 (David Shamp): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - History of Susanna 1:29 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- History of Susanna 1:58 (David Shamp): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- History of Susanna 1:58 (David Shamp): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - Bel and the Dragon 1 (David Shamp): chapter withheld — Verse 35: implausibly short timing (below 0.12 seconds per word); Verse 36: invalid/overlapping timing 340.8–340.8; Verse 36: implausibly short timing (below 0.12 seconds per word).
 - 1 Maccabees 1:2 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 1:7 (LibriVox volunteer): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 1:18 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 1:35 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 1:40 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 1:42 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 1:53 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 1:57 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:2 (LibriVox volunteer): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:3 (LibriVox volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:4 (LibriVox volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
@@ -553,35 +566,35 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - 1 Maccabees 2:18 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:26 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:35 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 2:37 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:39 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:47 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:60 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 2:63 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 3:2 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:7 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 3:38 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 3:49 (LibriVox volunteer): ASR differs from source text (word agreement 78%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:55 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 3:56 (LibriVox volunteer): 3 consecutive words have no duration.
 - 1 Maccabees 3:57 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 4:14 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 4:24 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 4:29 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 4:37 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 4:42 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 4:52 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:4 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 4:61 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:13 (LibriVox volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:15 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:15 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:18 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:22 (LibriVox volunteer): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:25 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 5:26 (LibriVox volunteer): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 5:26 (LibriVox volunteer): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:36 (LibriVox volunteer): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:43 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:55 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:58 (LibriVox volunteer): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:60 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 5:67 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 6:14 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 6:16 (LibriVox volunteer): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 6:30 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 6:31 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
@@ -590,7 +603,7 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - 1 Maccabees 6:40 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 6:50 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 6:61 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 6:62 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 6:62 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 7:20 (LibriVox volunteer): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 7:21 (LibriVox volunteer): ASR differs from source text (word agreement 71%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 7:22 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
@@ -599,24 +612,28 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - 1 Maccabees 7:50 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 8:23 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 8:26 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:1 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:5 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:11 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:24 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:32 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 9:48 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:49 (LibriVox volunteer): ASR differs from source text (word agreement 75%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 9:50 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 9:50 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:52 (LibriVox volunteer): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:57 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 9:66 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:11 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 10:12 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 10:16 (LibriVox volunteer): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 10:39 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 10:48 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 10:57 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:60 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:60 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 10:68 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 10:69 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:69 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:72 (LibriVox volunteer): ASR differs from source text (word agreement 79%); listen for skip/addition/misread or ASR error; 10 consecutive words have no duration.
+- 1 Maccabees 10:75 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 10:87 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 10:88 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 11:8 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 11:16 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
@@ -625,23 +642,24 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - 1 Maccabees 11:27 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 11:36 (LibriVox volunteer): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 11:39 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 11:50 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 11:56 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:5 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:6 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:8 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:12 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:15 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:17 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:17 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:19 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:20 (LibriVox volunteer): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:21 (LibriVox volunteer): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:23 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:24 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:30 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:31 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:36 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:37 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:38 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 12:42 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 12:42 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 12:49 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:12 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:13 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
@@ -650,23 +668,26 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - 1 Maccabees 13:27 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:31 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:33 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 13:34 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 13:34 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:38 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:46 (LibriVox volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:47 (LibriVox volunteer): ASR differs from source text (word agreement 0%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 13:48 (LibriVox volunteer): ASR differs from source text (word agreement 6%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:5 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 14:7 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 14:10 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 14:19 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 14:24 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 14:33 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:33 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 14:34 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 14:39 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 15:8 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:8 (LibriVox volunteer): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 15:11 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 15:16 (LibriVox volunteer): ASR differs from source text (word agreement 70%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 15:22 (LibriVox volunteer): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 15:23 (LibriVox volunteer): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
-- 1 Maccabees 15:35 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:23 (LibriVox volunteer): ASR differs from source text (word agreement 73%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:28 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- 1 Maccabees 15:35 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 15:37 (LibriVox volunteer): ASR differs from source text (word agreement 63%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 15:38 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - 1 Maccabees 15:39 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
@@ -685,43 +706,46 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - 2 Maccabees 2:14 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 2:20 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 2:28 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 2:31 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 3:5 (LibriVox volunteer): ASR differs from source text (word agreement 67%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 3:7 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 3:8 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 3:14 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 3:15 (LibriVox volunteer): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 3:15 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 3:31 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 4:4 (LibriVox volunteer): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 4:8 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:18 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 4:20 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 4:21 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 4:22 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:21 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 4:29 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 4:30 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 4:33 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 4:42 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 4:43 (LibriVox volunteer): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 4:45 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 5:1 (LibriVox volunteer): ASR differs from source text (word agreement 87%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 5:3 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 5:23 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 6:2 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 6:11 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 6:14 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 6:27 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 7:3 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 7:31 (LibriVox volunteer): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 7:35 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 8:7 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 8:7 (LibriVox volunteer): ASR differs from source text (word agreement 80%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 8:19 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 8:20 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 8:23 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error; 4 consecutive words have no duration.
 - 2 Maccabees 8:29 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 8:32 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 9:1 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 9:1 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 9:3 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 9:29 (LibriVox volunteer): ASR differs from source text (word agreement 90%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 10:23 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 10:32 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 10:37 (LibriVox volunteer): ASR differs from source text (word agreement 81%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 11:19 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 11:11 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 11:21 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 11:30 (LibriVox volunteer): ASR differs from source text (word agreement 82%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 12:9 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
@@ -732,13 +756,14 @@ Raw word confidence remains in `audit`; earlier broad flags remain in `previousC
 - 2 Maccabees 12:33 (LibriVox volunteer): ASR differs from source text (word agreement 76%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 12:35 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 12:40 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 13:1 (LibriVox volunteer): ASR differs from source text (word agreement 86%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 13:1 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 13:2 (LibriVox volunteer): ASR differs from source text (word agreement 74%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 13:7 (LibriVox volunteer): ASR differs from source text (word agreement 84%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 13:19 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
-- 2 Maccabees 13:22 (LibriVox volunteer): ASR differs from source text (word agreement 83%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 13:22 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 13:24 (LibriVox volunteer): ASR differs from source text (word agreement 77%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 14:5 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
+- 2 Maccabees 14:6 (LibriVox volunteer): ASR differs from source text (word agreement 89%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 14:7 (LibriVox volunteer): ASR differs from source text (word agreement 85%); listen for skip/addition/misread or ASR error.
 - 2 Maccabees 14:21 (LibriVox volunteer): ASR differs from source text (word agreement 88%); listen for skip/addition/misread or ASR error.
 
