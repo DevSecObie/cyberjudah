@@ -53,16 +53,16 @@
     },
     {
       "age_restricted": 1,
-      "already_in_vault": 3682,
+      "already_in_vault": 3725,
       "channel": "IUICRaleigh",
-      "completed": 3682,
+      "completed": 3725,
       "feed": "classes",
       "no_backlog": false,
       "no_captions": 3,
-      "progress_pct": 94.12,
-      "to_fetch": 230,
-      "videos": 3912
+      "progress_pct": 94.02,
+      "to_fetch": 237,
+      "videos": 3962
     }
   ],
-  "generated_at": "2026-10-23T22:12:08.148686+00:00"
+  "generated_at": "2026-10-24T00:44:30.667566+00:00"
 }
