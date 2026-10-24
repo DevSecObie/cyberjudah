@@ -1,1 +1,1 @@
-- Class note: Many Members, One Body, One Mission (2026-10-24, UR6FvAGkTxo), with its transcript.
+- Class note: If You Leave Now, You Were Never With Us (2026-10-24, 82pXYTvNmkU), with its transcript.
