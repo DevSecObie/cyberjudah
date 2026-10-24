@@ -21,6 +21,7 @@
     { "slug": "lionz-den-radio-show", "name": "Lionz Den Radio Show", "kind": "Radio show", "match": ["^lionz den\\b"] },
     { "slug": "itsr", "name": "ITSR", "kind": "Show", "match": ["^itsr\\b"] },
     { "slug": "new-moon-class", "name": "New Moon Class", "kind": "Class", "match": ["^new moon(?: sabbath)?(?: class)?\\s*[:|]"] },
+    { "slug": "iuic-atlanta-in-the-classroom", "name": "IUIC Atlanta in the ClassRoom", "kind": "Class", "match": [] },
     { "slug": "friday-night-raw", "name": "Friday Night Raw", "kind": "Show", "match": ["^friday night raw\\b"] },
     { "slug": "lets-talk-truth", "name": "Let's Talk Truth", "kind": "Radio show", "match": ["^let.?s talk truth\\b"] },
     { "slug": "topafric-radio", "name": "TopAfric Radio", "kind": "Radio show", "match": ["^topafric radio\\b"] },
