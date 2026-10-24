@@ -40,6 +40,9 @@ jobs:
           if [[ ! -f dashboard/completed-sources/IUICRaleigh.json ]]; then
             python3 scripts/history/harvest.py --feed classes --channel IUICRaleigh --backend transcriptapi --listing-backend yt-dlp --tabs videos,streams,shorts --limit 200 --push --recheck-nocaption-days -1 --completion-marker dashboard/completed-sources/IUICRaleigh.json
           fi
+          if [[ ! -f dashboard/completed-sources/IUIC.ATLANTA.CLASSROOM.json ]]; then
+            python3 scripts/history/harvest.py --feed classes --channel IUIC.ATLANTA.CLASSROOM --backend transcriptapi --listing-backend yt-dlp --limit 200 --push --recheck-nocaption-days -1 --completion-marker dashboard/completed-sources/IUIC.ATLANTA.CLASSROOM.json
+          fi
           # Then the IUIC channels, largest audience first (data/sources/iuic-channels.tsv): the next
           # channel without a completion marker, up to 200 transcripts an hour, until each is done.
           python3 scripts/history/channel_queue.py status
