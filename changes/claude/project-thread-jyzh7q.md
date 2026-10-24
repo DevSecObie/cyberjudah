@@ -47,4 +47,5 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Batch 9
 
-- 1 Corinthians 3 (2025-09-09, Captain Gedaliah), 3:9 (2025-09-10, host name unclear), 4:1 (2025-09-11, Captain Mattathias), 4:9 (2025-09-30, host name unclear), 6:1-10 (2025-10-13, Captain Emmanuel) and 6:11 (2025-10-14, Captain Josiah).
+- 1 Corinthians 3 (2025-09-09, Captain Gedaliah), 3:9 (2025-09-10, Captain Gedaliah), 4:1 (2025-09-11, Captain Mattathias), 4:9 (2025-09-30, Captain Gedaliah), 6:1-10 (2025-10-13, Captain Emmanuel) and 6:11 (2025-10-14, Captain Josiah).
+- Obie on #592: "Captain get a lion" (3:9) and "Captain Gad a lie" (4:9) are both Captain Gedaliah; both notes credit him.

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 4:9"
 slug: "2025/2025-09-30-giving-the-sense-from-a-to-z-1-corinthians-4-9"
 date: "2025-09-30"
-teacher: ""
+teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2025-09-30"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-09-30</p>
+<p class="taught">Giving The Sense From A to Z · 2025-09-30 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Pet 3](/bible/2-peter/3) · [1 Cor 4](/bible/1-corinthians/4) · [John 10](/bible/john/10) · [John 8](/bible/john/8) · [John 11](/bible/john/11) · [John 3](/bible/john/3) · [John 12](/bible/john/12) · [Matt 19](/bible/matthew/19) · [2 Tim 4](/bible/2-timothy/4) · [Rev 2](/bible/revelation/2) · [1 Pet 4](/bible/1-peter/4) · [2 Cor 6](/bible/2-corinthians/6) · [Acts 12](/bible/acts/12) · [Matt 22](/bible/matthew/22) · [Matt 27](/bible/matthew/27)</span>
 
