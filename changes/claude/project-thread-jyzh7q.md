@@ -52,4 +52,5 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 ## Batch 10
 
-- 1 Corinthians 1 (2025-08-21, Captain Mattathias), 1:16 (2025-08-25, Captain Mattathias), 1:18 (2025-08-26, host heard as "Captain Gad Aliyah", left blank), 1:22 (2025-09-02, Captain Josiah), 1:29 (2025-09-03, Captain Mattathias) and 2:9 (2025-09-04, host not named).
+- 1 Corinthians 1 (2025-08-21, Captain Mattathias), 1:16 (2025-08-25, Captain Mattathias), 1:18 (2025-08-26, Captain Gedaliah), 1:22 (2025-09-02, Captain Josiah), 1:29 (2025-09-03, Captain Mattathias) and 2:9 (2025-09-04, host not named).
+- Obie on #602: "Captain Gad Aliyah" and "Captain get a lie" are Captain Gedaliah, and "Cat" is "Cap". Added those plus "Captain get a lion" / "Captain Gad a lie" to his `data/names.tsv` variants; 4 spots respelled.

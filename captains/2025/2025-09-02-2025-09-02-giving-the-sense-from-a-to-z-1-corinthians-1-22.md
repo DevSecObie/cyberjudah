@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "wisdom"]
 
 ## Introduction
 
-*[[4:49](https://www.youtube.com/watch?v=vLoOravXu3g&t=289s)]* All right, family. Welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah. I have with me officer Nia and we're in 1 Corinthians chapter 1 continued today from verse 22 down. Captain get a lie, I think he was the last captain, maybe last week. So let's go ahead and jump into the first scripture, Nehemiah 8:8.
+*[[4:49](https://www.youtube.com/watch?v=vLoOravXu3g&t=289s)]* All right, family. Welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah. I have with me officer Nia and we're in 1 Corinthians chapter 1 continued today from verse 22 down. Captain Gedaliah, I think he was the last captain, maybe last week. So let's go ahead and jump into the first scripture, Nehemiah 8:8.
 
 ## Scriptures Opened
 
@@ -35,7 +35,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "wisdom"]
 >
 > <sup>[22](/bible/1-corinthians/1#v22)</sup> For the Jews require a sign, and the Greeks seek after wisdom:
 
-- 1 Corinthians chapter 1: So now, 1 Corinthians chapter 1, let's read 21. Cat read this yesterday or a couple of days ago. I ain't going to explain it. I just want it. I'll start with 22 officially though, but start at 21.
+- 1 Corinthians chapter 1: So now, 1 Corinthians chapter 1, let's read 21. Cap read this yesterday or a couple of days ago. I ain't going to explain it. I just want it. I'll start with 22 officially though, but start at 21.
 
 - For the Jews require a sign, and the Greeks seek after wisdom: Right? It says, "For the Jews require a sign, and the Greeks seek after wisdom." This is still talking about both kingdoms. Both kingdoms, southern, northern kingdom, scattered Israelites. A group of them seek a sign. Another one seek wisdom. What about understanding Christ and just accept him for what he is? But it always got to be something else, some other doctrine, some other philosophy. Go to Matthew chapter 12 about that sign. It says the Jews seek after a sign.
 

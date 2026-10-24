@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 1:18"
 slug: "2025/2025-08-26-giving-the-sense-from-a-to-z-1-corinthians-1-18"
 date: "2025-08-26"
-teacher: ""
+teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2025-08-26"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-08-26</p>
+<p class="taught">Giving The Sense From A to Z · 2025-08-26 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Acts 8](/bible/acts/8) · [Acts 18](/bible/acts/18) · [John 7](/bible/john/7) · [Hos 1](/bible/hosea/1) · [Amos 9](/bible/amos/9) · [Tobit 1](/bible/tobit/1) · [1 Kgs 12](/bible/1-kings/12) · [2 Sam 5](/bible/2-samuel/5) · [Acts 15](/bible/acts/15) · [1 Cor 1](/bible/1-corinthians/1) · [2 Cor 2](/bible/2-corinthians/2) · [John 3](/bible/john/3) · [Acts 13](/bible/acts/13) · [Rev 2](/bible/revelation/2) · [2 Tim 1](/bible/2-timothy/1) · <i>and 10 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "media", "wisdom"]
 
 ## Introduction
 
-*[[1:21](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=81s)]* Shalom shalom shalom, most high Christ bless, most high Christ bless. I pray all is well. Welcome to another edition of Giving the Sense from A to Z. I'm today's host Captain Gad Aliyah. Today we're going to be continuing where Captain Mattathias left off yesterday in 1 Corinthians chapter 1, okay? We're going to be finishing out 1 Corinthians chapter 1, and today we're going to read verse 18. We're going to start at 18. Cap left off at 17. So we're going to be going over 1 Corinthians chapter 1. We're going to pick up at verse 18 today. But before we do that, I'm your host Captain Gad Aliyah and I have reading for me today Officer John. Officer John wasn't able to be on the screen with us but he's here. He is here. All right, so with that being said we're going to jump right into it.
+*[[1:21](https://www.youtube.com/watch?v=v7XuSjiu9TI&t=81s)]* Shalom shalom shalom, most high Christ bless, most high Christ bless. I pray all is well. Welcome to another edition of Giving the Sense from A to Z. I'm today's host Captain Gedaliah. Today we're going to be continuing where Captain Mattathias left off yesterday in 1 Corinthians chapter 1, okay? We're going to be finishing out 1 Corinthians chapter 1, and today we're going to read verse 18. We're going to start at 18. Cap left off at 17. So we're going to be going over 1 Corinthians chapter 1. We're going to pick up at verse 18 today. But before we do that, I'm your host Captain Gedaliah and I have reading for me today Officer John. Officer John wasn't able to be on the screen with us but he's here. He is here. All right, so with that being said we're going to jump right into it.
 
 ## Scriptures Opened
 
