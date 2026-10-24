@@ -1,0 +1,1 @@
+- Class note: Many Members, One Body, One Mission (2026-10-24, UR6FvAGkTxo), with its transcript.
