@@ -2,7 +2,7 @@
 title: "Why Do Fools Fall In Love"
 slug: "2026/2026-03-28-why-do-fools-fall-in-love"
 date: "2026-03-28"
-teacher: "Bishop Nathanyel"
+teacher: "Deacon Abbayael"
 description: "IUIC in the ClassRoom · 2026-03-28"
 tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity", "wisdom", "women"]
 ---
