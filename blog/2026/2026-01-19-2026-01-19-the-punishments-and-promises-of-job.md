@@ -2,13 +2,13 @@
 title: "The Punishments And Promises Of Job"
 slug: "2026/2026-01-19-the-punishments-and-promises-of-job"
 date: "2026-01-19"
-teacher: ""
+teacher: "Captain Shemaiah"
 description: "IUIC Atlanta in the ClassRoom · 2026-01-19"
 collection: "IUIC Atlanta in the ClassRoom"
 tags: ["IUIC in the ClassRoom", "adversity"]
 ---
 
-<p class="taught">IUIC Atlanta in the ClassRoom · 2026-01-19</p>
+<p class="taught">IUIC Atlanta in the ClassRoom · 2026-01-19 · Captain Shemaiah</p>
 
 <span class="opens"><b>Opens</b> [Mark 16](/bible/mark/16) · [Job 11](/bible/job/11) · [Job 2](/bible/job/2) · [Job 15](/bible/job/15) · [Isa 20](/bible/isaiah/20) · [Ezek 4](/bible/ezekiel/4) · [1 Kgs 11](/bible/1-kings/11) · [Job 29](/bible/job/29) · [Ps 107](/bible/psalms/107) · [Hos 11](/bible/hosea/11) · [Job 19](/bible/job/19) · [Lam 2](/bible/lamentations/2) · [Job 7](/bible/job/7) · [Isa 1](/bible/isaiah/1) · [Job 13](/bible/job/13) · [Job 16](/bible/job/16) · <i>and 24 more below</i></span>
 
