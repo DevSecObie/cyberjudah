@@ -66,3 +66,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 13
 
 - Colossians 1 (2025-07-17, Captain Gedaliah), Luke 24:27 (2025-07-15, Captain Gedaliah), Luke 24 (2025-07-09, host heard as "Captain Sekai, IUIC Sacramento", left blank), Luke 23 continued (2025-07-08, Captain Gedaliah), Luke 23 (2025-07-03, Captain Mattathias) and Luke 22:25 (2025-07-02, Captain Mattathias).
+
+## Batch 14
+
+- Luke 22 (2025-07-01, Captain Josiah), 21:29 (2025-06-25, Captain Zakai, heard as "Captain Zechariah"), 21:25 (2025-06-23, Captain Mattathias), 21:16 (2025-06-18, Captain Mattathias), 21 (2025-06-17, Captain Gedaliah) and 21 (2025-06-16, Captain Emmanuel).
