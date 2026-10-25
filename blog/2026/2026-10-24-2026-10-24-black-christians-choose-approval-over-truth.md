@@ -574,7 +574,7 @@ Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35
 
 - So Joshua, who became the leader over the 12 tribes. Watch what Joshua said in verse 20.
 
-- If ye forsake the Lord, and serve strange gods: Can you put Caesar back on the screen? That's a strange god right there.
+- If ye forsake the Lord, and serve strange gods: Can you put Cesare back on the screen? That's a strange god right there.
 
 - Then he will turn and do you hurt: Then God will turn and do us hurt.
 
@@ -591,7 +591,7 @@ Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35
 
 - Or stretched out our hands to a strange god: Stretched out our hand to a strange god.
 
-- Shall not God search this out? for he knoweth the secrets of the heart: See that? So, put Caesar back on the screen. Put the little black girl right there. I like the little black girl. Stretch out our hands to a strange god. This a god that does not even favor you, that does not look like you. That's a strange god.
+- Shall not God search this out? for he knoweth the secrets of the heart: See that? So, put Cesare back on the screen. Put the little black girl right there. I like the little black girl. Stretch out our hands to a strange god. This a god that does not even favor you, that does not look like you. That's a strange god.
 
 
 **[Psalms 81:9](/bible/psalms/81#v9)**  *[[1:42:16](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=6136s)]*
