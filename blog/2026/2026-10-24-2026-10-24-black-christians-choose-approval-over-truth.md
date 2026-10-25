@@ -329,11 +329,11 @@ Reading from On-screen: ChatGPT answer on Ebony magazine, March 1969, "The Quest
 
 <div class="reading">
 
-Reading from *Chosen People from the Caucuses* by Michael Bradley, p. 197  *[[1:04:10](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3850s)]*
+Reading from *Chosen People from the Caucasus* by Michael Bradley, p. 197  *[[1:04:10](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3850s)]*
 
 
 
-- Now, you might think the party's over, but no, the party ain't over. It continues. Put the book on the screen. Let's read this. Chosen People from the Caucuses by Michael Bradley. Now, Michael Bradley is a white man. He is the epitome of the white man. Let's go into the book and see what he says. This is on page 197. If you ever get the book.
+- Now, you might think the party's over, but no, the party ain't over. It continues. Put the book on the screen. Let's read this. Chosen People from the Caucasus by Michael Bradley. Now, Michael Bradley is a white man. He is the epitome of the white man. Let's go into the book and see what he says. This is on page 197. If you ever get the book.
 
 > The essential point is that these Ashkanazism, the jewelry of Eastern Europe and the prime victims of Hitler's Holocaust, were descendants of Khazar tribes people.
 
