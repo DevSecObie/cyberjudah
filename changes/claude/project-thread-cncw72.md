@@ -1,3 +1,4 @@
 - Class note: Black Christians Choose Approval Over Truth (2026-10-24, Bishop Nathanyel, sBoGbQK5zMA), with its transcript.
 - Bishop Nathanyel note: fix known names (Cesare and Rodrigo Borgia, John Bond's In the Pillory title, Ku Klux Klan, Captain Mattathias).
 - Deacon Isaac note: fix known names (Cesare Borgia, Patrice Lumumba, Kwame Nkrumah, Ibrahim Traoré, Frantz Fanon).
+- Bishop Nathanyel note: "Captain Abziah" is Captain Amaziah (Obie); names.tsv rows for Amaziah and the Matas variant.
