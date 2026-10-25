@@ -1,1 +1,2 @@
 - Class note: Black Christians Choose Approval Over Truth (2026-10-24, Bishop Nathanyel, sBoGbQK5zMA), with its transcript.
+- Bishop Nathanyel note: fix known names (Cesare and Rodrigo Borgia, John Bond's In the Pillory title, Ku Klux Klan, Captain Mattathias).

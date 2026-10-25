@@ -53,7 +53,7 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 
 - They took the counterfeit of his visage from far: So the counterfeit of his image they put up from far, from Spain, from Rome.
 
-- And made an express image of a king whom they honored, to the end that by this their forwardness they might flatter him that was absent as if he were present: So this image started in the 1400s, late 1400s, actually I'll say mid 1400s, around 1453, somewhere around there. His name is Caesar Bouge. His father's name was Rodrigo Bougea. When you become pope you have to take on a saint's name, or someone they think is a saint, and Rodrigo Bouge took the name of Alexander, Pope Alexander VI of Rome.
+- And made an express image of a king whom they honored, to the end that by this their forwardness they might flatter him that was absent as if he were present: So this image started in the 1400s, late 1400s, actually I'll say mid 1400s, around 1453, somewhere around there. His name is Cesare Borgia. His father's name was Rodrigo Borgia. When you become pope you have to take on a saint's name, or someone they think is a saint, and Rodrigo Borgia took the name of Alexander, Pope Alexander VI of Rome.
 
 
 **[Revelation 13:6](/bible/revelation/13#v6)**  *[[20:45](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=1245s)]*
@@ -104,19 +104,19 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 
 <div class="reading">
 
-Reading from *In the pillery, the tale of the bourgeia pope in nine crowded chapters* by John Bond  *[[25:39](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=1539s)]*
+Reading from *In the Pillory: The Tale of the Borgia Pope in Nine Crowded Chapters* by John Bond  *[[25:39](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=1539s)]*
 
-> In the pillery, the tale of the bourgeia pope in nine crowded chapters by John Bond.
+> In the Pillory: The Tale of the Borgia Pope in Nine Crowded Chapters by John Bond.
 
 - John Bond. Y'all can still buy this book online. Go inside the book. Read that.
 
-> Bust of the savior. Savior posed for by Caesar Bour.
+> Bust of the savior. Savior posed for by Cesare Borgia.
 
-- Lower it so we can see it. Now that's Caesar Bouge. This is who, when the Bible says and all that dwell upon the earth shall worship him. They took his image worldwide. That's why we started in Wisdom of Solomon 14. They took Caesar Bourge's image worldwide as the new Jesus, as the new Christ, as the new Yeshua, whatever name you want. Give me the next one. Raise it up so we can see who this is.
+- Lower it so we can see it. Now that's Cesare Borgia. This is who, when the Bible says and all that dwell upon the earth shall worship him. They took his image worldwide. That's why we started in Wisdom of Solomon 14. They took Cesare Borgia's image worldwide as the new Jesus, as the new Christ, as the new Yeshua, whatever name you want. Give me the next one. Raise it up so we can see who this is.
 
-> It is an open secret that Caesar Bour, the son of Pope Alexander, had posed for it.
+> It is an open secret that Cesare Borgia, the son of Pope Alexander, had posed for it.
 
-- That's right. Lower it now. Lower it. Salvatore means savior. That's the word you see there. S A L V A T O R. Salvator means savior. That's Caesar Ba. That's who your mama got hanging on the wall. That's who your friends got a cross on their neck: is Caesar Bougea. Everybody got that? That's when the Bible says prove all things. This is why when they do these podcasts, they don't call us the Israelites. They look for any nobody out there on YouTube, 'I'm an Israelite', or they find some woman, 'I'm a she', and they say the stupidest things, but never confront us directly. They said, no, we got to find these nobody Israelites and let's confound them. Not them purple and gold dudes. No, no, no, no. Not them. We need any other dummy. Not them.
+- That's right. Lower it now. Lower it. Salvatore means savior. That's the word you see there. S A L V A T O R. Salvator means savior. That's Cesare Borgia. That's who your mama got hanging on the wall. That's who your friends got a cross on their neck: is Cesare Borgia. Everybody got that? That's when the Bible says prove all things. This is why when they do these podcasts, they don't call us the Israelites. They look for any nobody out there on YouTube, 'I'm an Israelite', or they find some woman, 'I'm a she', and they say the stupidest things, but never confront us directly. They said, no, we got to find these nobody Israelites and let's confound them. Not them purple and gold dudes. No, no, no, no. Not them. We need any other dummy. Not them.
 
 </div>
 
@@ -216,11 +216,11 @@ Reading from On-screen: ChatGPT answer on Ebony magazine, March 1969, "The Quest
 
 > Subscription cancellations. The magazine faced a wave of subscription cancellations, and some readers even mailed pictures of a white Jesus back to the publisher, Johnson Publishing Company, in protest.
 
-- Do you hear this? Give me the next picture. This was the cover. They were so mad. This infuriated Negroes in America. They was pissed. 'How dare you put that abomination on the cover? You know Jesus is white.' And they mailed Johnson pictures of a white, of Caesar Ba. He's supposed to look like Caesar Bes. That's Jesus. And they did it in unison. Black folks. Now, just real quick, we cry for justice, right? You got the people, brothers and sisters, are crying for the murder of Tasia Fortune. Crying for the murder of Rashim Carter. Crying for the murder of Kendrick Johnson. Crying for the murder of, who else? It was one other, Nolan Wells. I use those four. Where's the cancellation of Christmas before the justice that we're asking for? Why won't they do the same thing to get justice for our brothers that were murdered in this damn country? Why won't they do that? Give me the next. Put on the screen. Read there, Yuri.
+- Do you hear this? Give me the next picture. This was the cover. They were so mad. This infuriated Negroes in America. They was pissed. 'How dare you put that abomination on the cover? You know Jesus is white.' And they mailed Johnson pictures of a white, of Cesare Borgia. He's supposed to look like Cesare Borgia. That's Jesus. And they did it in unison. Black folks. Now, just real quick, we cry for justice, right? You got the people, brothers and sisters, are crying for the murder of Tasia Fortune. Crying for the murder of Rashim Carter. Crying for the murder of Kendrick Johnson. Crying for the murder of, who else? It was one other, Nolan Wells. I use those four. Where's the cancellation of Christmas before the justice that we're asking for? Why won't they do the same thing to get justice for our brothers that were murdered in this damn country? Why won't they do that? Give me the next. Put on the screen. Read there, Yuri.
 
 > The Quest for a Black Christ.
 
-- This pissed Negro Christians off. This is how you know, this is more evidence that proves Christianity is nothing more but white supremacy. This pissed black Christians off worldwide. They wanted to cancel this magazine. Now today, once the Israelites have been smashing Christianity with blitzes and going video after video proving them wrong according to the scriptures, they gave Jesus a perm. They said, 'All right, all right. We'll give you a Jesus, but you got to have a perm.' Chocolate season Caesar Boge. It's the same false racist colonial message. It's the same false message of white man's going to be a kingdom ruling everybody, and black people, we going to be on the bottom serving the white man. My mother-in-law used to hand them things out, and they got black people serving white people with baskets of fruit. I'm like, why are we in heaven serving white folks baskets? That's slavery all over again. Are y'all crazy out here? You can't make this stuff up. So today, some black Christians will admit he's black. They'll say that. But what's important is his message, they say. And his message is always a colonial message of white supremacy. Okay. Love for all mankind. He died for all nations. Lie, lie, lie, lie.
+- This pissed Negro Christians off. This is how you know, this is more evidence that proves Christianity is nothing more but white supremacy. This pissed black Christians off worldwide. They wanted to cancel this magazine. Now today, once the Israelites have been smashing Christianity with blitzes and going video after video proving them wrong according to the scriptures, they gave Jesus a perm. They said, 'All right, all right. We'll give you a Jesus, but you got to have a perm.' Chocolate season Cesare Borgia. It's the same false racist colonial message. It's the same false message of white man's going to be a kingdom ruling everybody, and black people, we going to be on the bottom serving the white man. My mother-in-law used to hand them things out, and they got black people serving white people with baskets of fruit. I'm like, why are we in heaven serving white folks baskets? That's slavery all over again. Are y'all crazy out here? You can't make this stuff up. So today, some black Christians will admit he's black. They'll say that. But what's important is his message, they say. And his message is always a colonial message of white supremacy. Okay. Love for all mankind. He died for all nations. Lie, lie, lie, lie.
 
 - We were in Haiti, and the pastor, everything we brought out, he went against it. And, 'I ain't know Jesus have no color. He had no color.' But I said to myself, if we ask the people in church, they know he teaches the white Jesus. But Christians have no fear of lying. They don't care about lying against God at all. That's why they got to go. Christ must stomp them out. Each one of them.
 
@@ -517,7 +517,7 @@ Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35
 
 > However repugnant your beliefs are, the system adapts to them. The KKK has traditionally claimed to be Christian, specifically white Protestant fundamentalist Christian. It uses Christian symbols, Bible verses, prayers, and crosses to justify racism, anti-semitism, and violence.
 
-- Even from the time of Jim Crow, they told you who they worshiped. Satan. They might use Jesus name and all that, but look, the Klush clan, they always hated your black lips. Give me the next picture.
+- Even from the time of Jim Crow, they told you who they worshiped. Satan. They might use Jesus name and all that, but look, the Ku Klux Klan, they always hated your black lips. Give me the next picture.
 
 </div>
 
@@ -994,7 +994,7 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 >
 > <sup>[15](/bible/psalms/105#v15)</sup> Saying, Touch not mine anointed, and do my prophets no harm.
 
-- Now, April of last year, Captain Matas was touching on this yesterday, they banned IUIC from France.
+- Now, April of last year, Captain Mattathias was touching on this yesterday, they banned IUIC from France.
 
 - When they went from one nation to another, from one kingdom to another people; he suffered no man to do them wrong: So when we went from nation to nation as slaves, God suffered nobody to do what's wrong.
 
