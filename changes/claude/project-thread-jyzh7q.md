@@ -58,3 +58,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 11
 
 - Colossians 2:21 (2025-08-12, Captain Gedaliah), 3:5 (2025-08-13, host heard as "Captain Goliath", left blank), 3 continued (2025-08-14, host heard as "Captain Ab", left blank), 3 finale (2025-08-18, Captain Emmanuel), 4 (2025-08-19, Captain Gedaliah) and 4:7 (2025-08-20, host heard as "Cat met", left blank). A 62-second stub upload of the Colossians 3 finale (fZLCKb8_2_k) is skipped.
+
+## Batch 12
+
+- Colossians 1:14 (2025-07-22, Captain Gedaliah), 1:17 (2025-07-24, host not named), 2:1-3 (2025-08-04, Captain Emmanuel), 2 continued (2025-08-05, host heard as "Captain Ab", left blank), 2:9 (2025-08-06, Captain Mattathias) and 2:14 (2025-08-11, Captain Mattathias).
