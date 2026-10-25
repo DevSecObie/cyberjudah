@@ -37,16 +37,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 >
 > <sup>[2](/bible/luke/19#v2)</sup> And, behold, there was a man named Zaccheus, which was the chief among the publicans, and he was rich.
 
-- And Jesus entered and passed through Jericho. And behold there was a man named Zakias which was the chief among the publicans: So he was a tax collector.
+- And Jesus entered and passed through Jericho. And behold there was a man named Zacchaeus which was the chief among the publicans: So he was a tax collector.
 
-- And he was rich: But let's keep this in mind. He was what? And he was rich. So this brother was paid. Zakias was paid. So, I want y'all to keep that in mind, family.
+- And he was rich: But let's keep this in mind. He was what? And he was rich. So this brother was paid. Zacchaeus was paid. So, I want y'all to keep that in mind, family.
 
 
 **[Luke 19:3](/bible/luke/19#v3)**  *[[3:12](https://www.youtube.com/watch?v=riw1PzDC_tY&t=192s)]*
 
 > <sup>[3](/bible/luke/19#v3)</sup> And he sought to see Jesus who he was; and could not for the press, because he was little of stature.
 
-- And he sought to see Jesus who he was: So, he wanted to see who Christ was. Why did he want to see? Because it was a lot of talk about Christ. Give me Mark chapter 1. I think I want to start at 36 so we could paint the picture. So, Zakayas is trying to figure out who is this brother that everybody's talking about. Who is this man? So, let's see how the fame of Christ got out there.
+- And he sought to see Jesus who he was: So, he wanted to see who Christ was. Why did he want to see? Because it was a lot of talk about Christ. Give me Mark chapter 1. I think I want to start at 36 so we could paint the picture. So, Zacchaeus is trying to figure out who is this brother that everybody's talking about. Who is this man? So, let's see how the fame of Christ got out there.
 
 
 **[Mark 1:36-45](/bible/mark/1#v36)**  *[[3:56](https://www.youtube.com/watch?v=riw1PzDC_tY&t=236s)]*
@@ -93,7 +93,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 - But he went out, and began to publish it much: So he went out and began to publish it much. Watch this. And to blaze abroad the matter. And to do what? Blaze abroad the matter. It say went to blaze abroad the matter. You know, do you know this ain't nothing but black for? White folk don't talk with that much swag. The brother went to blaze abroad the matter what Christ did.
 
-- Insomuch that Jesus could no more openly enter into the city: This brother went and told the matter blazed it abroad so much Christ couldn't even enter the city. So now let's go back to Luke 19. So now we get a idea of why Zakayas was trying to see. Hold on. Who is this brother? He traveling from city to city. I'm hearing the stories. The matter was blazed abroad. I got to see who this brother is. That's his mindset.
+- Insomuch that Jesus could no more openly enter into the city: This brother went and told the matter blazed it abroad so much Christ couldn't even enter the city. So now let's go back to Luke 19. So now we get a idea of why Zacchaeus was trying to see. Hold on. Who is this brother? He traveling from city to city. I'm hearing the stories. The matter was blazed abroad. I got to see who this brother is. That's his mindset.
 
   Precepts:
   - **[Leviticus 14:1-11](/bible/leviticus/14#v1)**
@@ -132,9 +132,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 - Because he was little of stature: So this was a short brother. This brother trying to see Christ. He leaping up, grabbing, you know, when you short, you got to grab a brother's shoulders and boost yourself up. That's what he was trying to do. You understand?
 
-- And he ran before, and climbed up into a sycomore tree: So he saw the direction that Christ was walking and he said, "You know what? I'mma head further down the path and climb up on this sycamore tree." Let's get a sycamore tree for the people cuz I had to look this up too to see what this tree looked like. Get that on the screen for the brothers and sisters. Give me the actual literal sycamore tree that we had up earlier. So, now you'll see what this thing looks like. They actually call this the Zakaya sycamore tree in Jericho. You understand? So, you see how the branches go up in a vertical fashion right there. So, that tree is a easy tree to climb up to get sight over the people.
+- And he ran before, and climbed up into a sycomore tree: So he saw the direction that Christ was walking and he said, "You know what? I'mma head further down the path and climb up on this sycamore tree." Let's get a sycamore tree for the people cuz I had to look this up too to see what this tree looked like. Get that on the screen for the brothers and sisters. Give me the actual literal sycamore tree that we had up earlier. So, now you'll see what this thing looks like. They actually call this the Zacchaeus sycamore tree in Jericho. You understand? So, you see how the branches go up in a vertical fashion right there. So, that tree is a easy tree to climb up to get sight over the people.
 
-- For he was to pass that way: So now let's get up the image. What was my man Zakayas doing on the tree? Look at him. He up on the tree. Christ walking by. That's the press that it was talking about. The multitudes of people. Zakayas was a short brother. So he had to go up into the sycamore tree to get a vantage point to see the Christ, the Messiah, the black Messiah.
+- For he was to pass that way: So now let's get up the image. What was my man Zacchaeus doing on the tree? Look at him. He up on the tree. Christ walking by. That's the press that it was talking about. The multitudes of people. Zacchaeus was a short brother. So he had to go up into the sycamore tree to get a vantage point to see the Christ, the Messiah, the black Messiah.
 
 
 **[Luke 19:5](/bible/luke/19#v5)**  *[[8:41](https://www.youtube.com/watch?v=riw1PzDC_tY&t=521s)]*
@@ -143,7 +143,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 - And when Jesus came to the place, he looked up: So when Jesus came to the place where the tree was, he looked up.
 
-- Zacchaeus, make haste, and come down; for to day I must abide at thy house: You see that? Because of the faith of Zakas, he said, make haste, brother, and come down. You know that had to be Christ because he knew the brother's name. You understand? He said, "Make haste and come on down."
+- Zacchaeus, make haste, and come down; for to day I must abide at thy house: You see that? Because of the faith of Zacchaeus, he said, make haste, brother, and come down. You know that had to be Christ because he knew the brother's name. You understand? He said, "Make haste and come on down."
 
 - For to day I must abide at thy house: So now let's go to Matthew chapter 10. He said, "Today I must abide at your house."
 
@@ -156,21 +156,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 >
 > <sup>[42](/bible/matthew/10#v42)</sup> And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
 
-- He that receiveth a prophet in the name of a prophet shall receive a prophet's reward: So that's what was Zakayas. He said, "I'mma abide at your house." Cuz he already knew Zakayas was going to open up the house for him anyway.
+- He that receiveth a prophet in the name of a prophet shall receive a prophet's reward: So that's what was Zacchaeus. He said, "I'mma abide at your house." Cuz he already knew Zacchaeus was going to open up the house for him anyway.
 
-- And he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward: So Zakayas was in search for the righteous man's reward. So we understand.
+- And he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward: So Zacchaeus was in search for the righteous man's reward. So we understand.
 
 - And whosoever shall give to drink unto one of these little ones a cup of cold water: So is that cold water talking about you just tired on a hot day and a brother throw you some Gatorade in your hand? Hell no. It's a little deeper than that. Give me Proverbs 25:2. What is that cold water talking about? If you see the prophets out there teaching, you can get a brother some cold water, but we going to go a little deeper.
 
 - A cup of cold water only in the name of a disciple: Meaning the good news from afar, only in the name of a disciple, meaning only in the name of Christ teaching the understanding of the scriptures. That's the brother that opens up his house to receive the prophet so he can get a prophet's reward.
 
-- Verily I say unto you, he shall in no wise lose his reward: Hold on. What did it say about Zakayas? He shall in no wise lose his reward. He shall in no wise lose his reward.
+- Verily I say unto you, he shall in no wise lose his reward: Hold on. What did it say about Zacchaeus? He shall in no wise lose his reward. He shall in no wise lose his reward.
 
   Precepts:
   - **[Proverbs 25:25](/bible/proverbs/25#v25)**
     > <sup>[25](/bible/proverbs/25#v25)</sup> As cold waters to a thirsty soul, so is good news from a far country.
 
-    As cold waters to a thirsty soul: So as cold water is to a thirsty soul. Zakayas was that thirsty soul. So you understand? So is good news. So is what? Good news. From a far country. So didn't Christ travel from afar? He was traveling from city to city to bring the good news, the gospel. That's what Zakayas wanted to hear. You understand?
+    As cold waters to a thirsty soul: So as cold water is to a thirsty soul. Zacchaeus was that thirsty soul. So you understand? So is good news. So is what? Good news. From a far country. So didn't Christ travel from afar? He was traveling from city to city to bring the good news, the gospel. That's what Zacchaeus wanted to hear. You understand?
 
 
 **[Luke 19:5-6](/bible/luke/19#v5)**  *[[11:33](https://www.youtube.com/watch?v=riw1PzDC_tY&t=693s)]*
@@ -197,7 +197,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 >
 > <sup>[13](/bible/matthew/9#v13)</sup> But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 
-- And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners: You see that? Zakas, remember he was a publican. So here go the Pharisees gang saying, hating on the side. Y'all see that with the apologetics, the BHIs got the gains saying hate on the side. He said, "Why this man eating with the publicans and the sinners?"
+- And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners: You see that? Zacchaeus, remember he was a publican. So here go the Pharisees gang saying, hating on the side. Y'all see that with the apologetics, the BHIs got the gains saying hate on the side. He said, "Why this man eating with the publicans and the sinners?"
 
 - They that be whole need not a physician: So since y'all are home of the truth, y'all don't need nothing. You understand?
 
@@ -278,7 +278,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 > <sup>[2](/bible/luke/19#v2)</sup> And, behold, there was a man named Zaccheus, which was the chief among the publicans, and he was rich.
 
-- And he was rich: And he was what? He was rich. So now Zakayas is rich.
+- And he was rich: And he was what? He was rich. So now Zacchaeus is rich.
 
 
 **[Luke 19:8](/bible/luke/19#v8)**  *[[19:36](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1176s)]*
@@ -287,15 +287,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 - Behold, Lord, the half of my goods I give to the poor: He gave half his goods to the poor.
 
-- And if I have taken any thing from any man by false accusation, I restore him fourfold: That means Zakayas kept the law. Give him the fourfold real quick in Exodus 22, I think it's one. Exodus 22:1, he said, "If I've taken anything, I restored it fourfold." So, Zakayas knew the law. You understand?
+- And if I have taken any thing from any man by false accusation, I restore him fourfold: That means Zacchaeus kept the law. Give him the fourfold real quick in Exodus 22, I think it's one. Exodus 22:1, he said, "If I've taken anything, I restored it fourfold." So, Zacchaeus knew the law. You understand?
 
-- I restore him fourfold: We read that in Exodus 22:1. Now give me Matthew chapter 19 16. You understand? Cuz remember it says Zakayas was rich. Zakayas said, "Look, I gave half my goods to the poor. If any man accused me of stealing anything or dealing unjustly with my collection of taxes, I restored it fourfold." That brother was in the spirit. You understand?
+- I restore him fourfold: We read that in Exodus 22:1. Now give me Matthew chapter 19 16. You understand? Cuz remember it says Zacchaeus was rich. Zacchaeus said, "Look, I gave half my goods to the poor. If any man accused me of stealing anything or dealing unjustly with my collection of taxes, I restored it fourfold." That brother was in the spirit. You understand?
 
   Precepts:
   - **[Exodus 22:1](/bible/exodus/22#v1)**
     > <sup>[1](/bible/exodus/22#v1)</sup> If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.
 
-    So, now Zakayas is applying the law. So go back to Matthew chapter 19:8 cuz remember Zakayas is rich. He gave half his goods to the poor. I want to hear it one more time then we going to go to the opposite side of the spectrum in Matthews chapter 19.
+    So, now Zacchaeus is applying the law. So go back to Matthew chapter 19:8 cuz remember Zacchaeus is rich. He gave half his goods to the poor. I want to hear it one more time then we going to go to the opposite side of the spectrum in Matthews chapter 19.
 
 
 **[Matthew 19:16-23](/bible/matthew/19#v16)**  *[[21:18](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1278s)]*
@@ -324,13 +324,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 - Thou shalt love thy neighbour as thyself: So he gave him the ten commandments and Leviticus 19:17 and 18.
 
-- Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor: So Zakayas was already in the spirit with that. He said, if you want to be perfect, brother, sell what you have and give it to the poor. Also, he wasn't talking about all his goods cuz in Luke 19, Zakayas gave half his goods away. So Christ wasn't talking about sell everything and be living out on the street. You understand?
+- Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor: So Zacchaeus was already in the spirit with that. He said, if you want to be perfect, brother, sell what you have and give it to the poor. Also, he wasn't talking about all his goods cuz in Luke 19, Zacchaeus gave half his goods away. So Christ wasn't talking about sell everything and be living out on the street. You understand?
 
 - And thou shalt have treasure in heaven: Thou shalt do what? Have treasure in heaven. Cuz that's the whole point because these things down here rust and corrupt. You understand?
 
-- But when the young man heard that saying, he went away sorrowful: He went away what? Sorrowful. So he went away sorrowful. Zakayas, on the other hand, said, "Look, Lord, I gave away half my goods." You understand?
+- But when the young man heard that saying, he went away sorrowful: He went away what? Sorrowful. So he went away sorrowful. Zacchaeus, on the other hand, said, "Look, Lord, I gave away half my goods." You understand?
 
-- That a rich man shall hardly enter into the kingdom of heaven: You see that? A rich man ain't hardly gonna make because he gonna be too caught up on his worldly possessions. Not saying that he can't because we read that Zakayas was a rich man and remember the Lord said unto him salvation is come to... Oh no, we gonna read that. But go back. He said hardly can a rich man, but Zakayas is rich. So go back to Luke 19.
+- That a rich man shall hardly enter into the kingdom of heaven: You see that? A rich man ain't hardly gonna make because he gonna be too caught up on his worldly possessions. Not saying that he can't because we read that Zacchaeus was a rich man and remember the Lord said unto him salvation is come to... Oh no, we gonna read that. But go back. He said hardly can a rich man, but Zacchaeus is rich. So go back to Luke 19.
 
   Precepts:
   - **[Leviticus 19:18](/bible/leviticus/19#v18)**
@@ -345,7 +345,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 >
 > <sup>[9](/bible/luke/19#v9)</sup> And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
 
-- And Jesus said unto him, This day is salvation come to this house: Hold on. This day is salvation come where? Come to this house. Remember the other rich brother? He said, "Hardly can a rich man get into the kingdom or receive salvation." So it is possible for brothers that are financially well off to get the kingdom. We reading about a brother right here. He said, "Today, Zakaya, salvation has come to your house." So make no mistake about it.
+- And Jesus said unto him, This day is salvation come to this house: Hold on. This day is salvation come where? Come to this house. Remember the other rich brother? He said, "Hardly can a rich man get into the kingdom or receive salvation." So it is possible for brothers that are financially well off to get the kingdom. We reading about a brother right here. He said, "Today, Zacchaeus, salvation has come to your house." So make no mistake about it.
 
 - Forsomuch as he also is a son of Abraham: So why is he called the son of Abraham? Let's go to Romans chapter 4. You understand? I want 1 through 3 and then we going to jump to 11 to get to the point.
 
@@ -375,9 +375,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 - And he received the sign of circumcision: So he received the sign of circumcision, meaning the cutting of his foreskin in his flesh.
 
-- A seal of the righteousness of the faith which he had yet being uncircumcised: You see that? That was a seal of the righteousness of faith that he already had prior to circumcision. Just like Zakayas already believed in Christ before he saw him. That's faith.
+- A seal of the righteousness of the faith which he had yet being uncircumcised: You see that? That was a seal of the righteousness of faith that he already had prior to circumcision. Just like Zacchaeus already believed in Christ before he saw him. That's faith.
 
-- That he might be the father of all them that believe: That's why he said salvation... Go back to Luke 19. That's why salvation was open to Zakayas in his house because he already believed. That's why he pressed in the multitude and climbed up the sycamore tree. Understand what's going on here. This is talking about faith.
+- That he might be the father of all them that believe: That's why he said salvation... Go back to Luke 19. That's why salvation was open to Zacchaeus in his house because he already believed. That's why he pressed in the multitude and climbed up the sycamore tree. Understand what's going on here. This is talking about faith.
 
 
 **[Luke 19:9-10](/bible/luke/19#v9)**  *[[26:26](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1586s)]*
@@ -542,7 +542,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 - Lord, behold, here is thy pound, which I have kept laid up in a napkin: So, here's a brother that's been called into the truth. But the talents that he had, he didn't use it to build the truth. You understand? He didn't go out there and teach the people, he laid it up in a napkin. Meaning what? He sat on that talent.
 
-- For I feared thee, because thou art an austere man: Hold on. What? He said I fear thee because thou are an austere man. Mean what? Christ was not a sucker. Give me Matthew 7 29 cuz when you got the image of Caesar Ba, find the image while he getting the scripture, of the one picture of Caesar Ba with the heart with the fingers. What is our stay about this? Do you understand? I'm trying to figure out who would fear this guy. And you mean to tell me if you in a hostage situation and the SWAT team come in? Yeah, bring it up. And they got this guy, you already know you dead as hell. What's the fear about? Look, your animals might be in fear or some children might be in fear but what's so terrifying about this guy? This guy looked like a damn pedophile. I want the other one with the... Is that it? That was the one. I thought it was one worse than that. I want the one with the heart.
+- For I feared thee, because thou art an austere man: Hold on. What? He said I fear thee because thou are an austere man. Mean what? Christ was not a sucker. Give me Matthew 7 29 cuz when you got the image of Cesare Borgia, find the image while he getting the scripture, of the one picture of Cesare Borgia with the heart with the fingers. What is our stay about this? Do you understand? I'm trying to figure out who would fear this guy. And you mean to tell me if you in a hostage situation and the SWAT team come in? Yeah, bring it up. And they got this guy, you already know you dead as hell. What's the fear about? Look, your animals might be in fear or some children might be in fear but what's so terrifying about this guy? This guy looked like a damn pedophile. I want the other one with the... Is that it? That was the one. I thought it was one worse than that. I want the one with the heart.
 
   Precepts:
   - **[Matthew 7:29](/bible/matthew/7#v29)**

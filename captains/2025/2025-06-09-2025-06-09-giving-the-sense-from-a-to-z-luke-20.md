@@ -288,7 +288,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 > <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
-- Because ye have said, We have made a covenant with death: There it is. There it is. We're reading about it right here. The Pharisees, scribes, they made a covenant with death. All right. He is as death. Who is that? The white man. Was it Habc 2? Give me that. You know what I'm talking about.
+- Because ye have said, We have made a covenant with death: There it is. There it is. We're reading about it right here. The Pharisees, scribes, they made a covenant with death. All right. He is as death. Who is that? The white man. Was it Habakkuk 2? Give me that. You know what I'm talking about.
 
 
 **[Habakkuk 2:5](/bible/habakkuk/2#v5)**  *[[28:54](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=1734s)]*
@@ -308,7 +308,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 > <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
-- And with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: That's what they think. They think that when judgment comes, they think that when famine comes, they think that they're going to be safe. No, no, no, no, no. Sarak 12 and 10 says, "Never trust thine enemy."
+- And with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: That's what they think. They think that when judgment comes, they think that when famine comes, they think that they're going to be safe. No, no, no, no, no. Sirach 12 and 10 says, "Never trust thine enemy."
 
 - You got to think about how bad they must have felt when Christ was crucified. And when he gave up the ghost, the whole earth shook. The whole earth shook and the dead rose from their graves and they were alive again. That's who you killed. That's who you spoke against. That man right there, which is the savior of the world of Israel. You got to fathom. You got to try to comprehend what you had to feel like so bad. They lied so bad.
 
@@ -316,7 +316,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
   - **[Sirach 12:10](/bible/sirach/12#v10)**
     > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
 
-    Sarak 12 and 10 says, "Never trust thine enemy."
+    Sirach 12 and 10 says, "Never trust thine enemy."
 
 
 **[Matthew 28:1-6](/bible/matthew/28#v1)**  *[[30:24](https://www.youtube.com/watch?v=G2Wor_9RNzA&t=1824s)]*

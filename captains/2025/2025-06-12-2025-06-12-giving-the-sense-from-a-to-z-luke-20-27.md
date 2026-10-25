@@ -177,7 +177,7 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 > <sup>[36](/bible/luke/20#v36)</sup> Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
 
-- Neither can they die anymore, for they are equal unto the angels and are the children: He said they are equal unto the angels. Meaning what? It's going to be immortality. Get that right quick in Sarak right quick. Sarak, you know what I want? 19:19. And then get that in the Wisdom of Solomon 2 and 23.
+- Neither can they die anymore, for they are equal unto the angels and are the children: He said they are equal unto the angels. Meaning what? It's going to be immortality. Get that right quick in Sirach right quick. Sirach, you know what I want? 19:19. And then get that in the Wisdom of Solomon 2 and 23.
 
 
 **[Sirach 19:19](/bible/sirach/19#v19)**  *[[21:37](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=1297s)]*
@@ -261,7 +261,7 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - For I delivered unto you first of all that which I also received, that Christ died for our sins according to the scriptures, and that he was buried and that he rose again the third day according to the scriptures: According to the scriptures. Go ahead.
 
-- And that he was seen of Cphus, then of the 12, after that he was seen of above 500 brethren at once: You see that? So Christ was seen after his death not only of Cphus but of 500 brethren at one time. Go ahead, watch.
+- And that he was seen of Cephas, then of the 12, after that he was seen of above 500 brethren at once: You see that? So Christ was seen after his death not only of Cephas but of 500 brethren at one time. Go ahead, watch.
 
 - Of whom the greater part remain unto this present: So it was more alive of that 500 than had passed during this time period. Go ahead.
 
@@ -296,7 +296,7 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 
 - But if there be no resurrection of the dead: If there is no resurrection of the dead, go ahead.
 
-- Then is Christ not risen: Christ ain't risen. If there ain't no resurrection, who the hell did these 500 men see? Who did Cphus see? If Christ ain't risen, you trying to say they eyes was deceiving them. He said more of the 500 was alive at this time than that, and some have fallen asleep. So how the hell y'all still, y'all spreading this doctrine around in the church? This is what Paul is saying. Read it again.
+- Then is Christ not risen: Christ ain't risen. If there ain't no resurrection, who the hell did these 500 men see? Who did Cephas see? If Christ ain't risen, you trying to say they eyes was deceiving them. He said more of the 500 was alive at this time than that, and some have fallen asleep. So how the hell y'all still, y'all spreading this doctrine around in the church? This is what Paul is saying. Read it again.
 
 - And if Christ be not risen, then is our preaching vain: He said, "What the hell are we preaching for? If Christ ain't risen, then why are we preaching?" Go ahead.
 
@@ -506,7 +506,7 @@ Reading from A Bible compact dictionary (as named on air), "Sadducees"  *[[11:38
 >
 > <sup>[7](/bible/acts/23#v7)</sup> And when he had so said, there arose a dissension between the Pharisees and the Sadducees: and the multitude was divided.
 
-- And Paul earnestly beholding the council said, Men and brethren, I have lived in all good conscience before God until this day. And the high priest Ananas commanded them that stood by to smite him on the mouth: Go ahead.
+- And Paul earnestly beholding the council said, Men and brethren, I have lived in all good conscience before God until this day. And the high priest Ananias commanded them that stood by to smite him on the mouth: Go ahead.
 
 - Then said Paul unto him, God shall smite thee, thou whited wall, for sinest thou to judge me after this law, and commandest me to be smitten contrary to the law: They was doing Paul bad. Go ahead.
 
