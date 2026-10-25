@@ -54,3 +54,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - 1 Corinthians 1 (2025-08-21, Captain Mattathias), 1:16 (2025-08-25, Captain Mattathias), 1:18 (2025-08-26, Captain Gedaliah), 1:22 (2025-09-02, Captain Josiah), 1:29 (2025-09-03, Captain Mattathias) and 2:9 (2025-09-04, host not named).
 - Obie on #602: "Captain Gad Aliyah" and "Captain get a lie" are Captain Gedaliah, and "Cat" is "Cap". Added those plus "Captain get a lion" / "Captain Gad a lie" to his `data/names.tsv` variants; 4 spots respelled.
+
+## Batch 11
+
+- Colossians 2:21 (2025-08-12, Captain Gedaliah), 3:5 (2025-08-13, host heard as "Captain Goliath", left blank), 3 continued (2025-08-14, host heard as "Captain Ab", left blank), 3 finale (2025-08-18, Captain Emmanuel), 4 (2025-08-19, Captain Gedaliah) and 4:7 (2025-08-20, host heard as "Cat met", left blank). A 62-second stub upload of the Colossians 3 finale (fZLCKb8_2_k) is skipped.
