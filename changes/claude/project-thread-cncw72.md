@@ -1,1 +1,2 @@
-- Teachers for the 2026-10-24 Sabbath classes from Obie: Deacon Malachi, Captain Mattathias, Deacon Isaac.
+- Class note: Only a God Can Save Us. Amen (2026-10-24, Deacon Isaac, mLMEKEVj_OE), with its transcript.
+- Many Members, One Body, One Mission: "Mosiah" (captions) written "Most High" (Obie).
