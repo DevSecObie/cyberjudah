@@ -1,2 +1,1 @@
-- Class note: Only a God Can Save Us. Amen (2026-10-24, Deacon Isaac, mLMEKEVj_OE), with its transcript.
-- Many Members, One Body, One Mission: "Mosiah" (captions) written "Most High" (Obie).
+- Class note: Black Christians Choose Approval Over Truth (2026-10-24, Bishop Nathanyel, sBoGbQK5zMA), with its transcript.
