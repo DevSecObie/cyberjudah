@@ -242,7 +242,8 @@ for (const d of doctrine.doctrines) writeJson(path.join(API, "doctrine", `${d.sl
     const note = noteByVideo.get(p.video);
     return { ...p, title: note?.title || p.title, date: note?.date || p.date, note: note ? `${note.url}?t=${p.t}` : null };
   }) })),
-  related: { precepts: (d.related.precepts ?? []).map((slug) => { const p = L.findPrecept(slug); return p ? { slug: p.slug, title: p.title, url: preceptUrl(p) } : null; }).filter(Boolean) },
+  // The screens read all three kinds; cases and topics stay empty until entries name them.
+  related: { precepts: (d.related.precepts ?? []).map((slug) => { const p = L.findPrecept(slug); return p ? { slug: p.slug, title: p.title, url: preceptUrl(p) } : null; }).filter(Boolean), cases: [], topics: [] },
 });
 writeJson(path.join(API, "doctrine", "index.json"), doctrine.doctrines.map((d) => ({ slug: d.slug, name: d.name, claim: d.claim, refs: d.answers.length, scriptures: d.scriptures.length, url: doctrineUrl(d) })));
 const seeAlsoEncyclopedia = (hay) => {
