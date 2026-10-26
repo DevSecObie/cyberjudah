@@ -8,7 +8,7 @@ import { DoctrineAnswers, DoctrineEmpty, loadDoctrine } from "./-shared";
 
 export const Route = createFileRoute("/doctrine/$slug")({
   loader: ({ params }) => loadDoctrine(() => api.doctrineEntry(params.slug)),
-  head: ({ loaderData, match }) => pageHead([{ title: loaderData?.data ? `${loaderData.data.name} · Doctrine · CyberJudah` : "Doctrine · CyberJudah" }], match),
+  head: ({ loaderData, match }) => pageHead([{ title: loaderData?.data ? `${loaderData.data.name} · False Doctrines · CyberJudah` : "False Doctrines · CyberJudah" }], match),
   component: DoctrinePage,
 });
 
@@ -16,10 +16,10 @@ function DoctrinePage() {
   const result = Route.useLoaderData();
   const entry = result.data;
   return <Page>
-    <Breadcrumbs items={[{ label: "Doctrine", to: "/doctrine" }, ...(entry ? [{ label: entry.name }] : [])]} />
-    <Kicker>Doctrine</Kicker>
-    <h1 className="cj-h1">{entry?.name ?? "Doctrine"}</h1>
+    <Breadcrumbs items={[{ label: "False Doctrines", to: "/doctrine" }, ...(entry ? [{ label: entry.name }] : [])]} />
+    <Kicker>False Doctrines</Kicker>
+    <h1 className="cj-h1">{entry?.name ?? "False Doctrines"}</h1>
     {entry ? <CiteLanding><DoctrineAnswers entry={entry} /></CiteLanding> : <DoctrineEmpty error={result.error ?? "unavailable"} />}
-    <p><ReadLink to="/doctrine">All doctrine</ReadLink></p>
+    <p><ReadLink to="/doctrine">All false doctrines</ReadLink></p>
   </Page>;
 }

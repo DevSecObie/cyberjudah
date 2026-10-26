@@ -7,7 +7,7 @@ import { DoctrineEmpty, loadDoctrine } from "./-shared";
 
 export const Route = createFileRoute("/doctrine/")({
   loader: () => loadDoctrine(api.doctrine),
-  head: ({ match }) => pageHead([{ title: "Doctrine · CyberJudah" }, { name: "description", content: "False doctrines answered from scripture and the classes." }], match),
+  head: ({ match }) => pageHead([{ title: "False Doctrines · CyberJudah" }, { name: "description", content: "False doctrines answered from scripture and the classes." }], match),
   component: DoctrineIndex,
 });
 
@@ -25,13 +25,13 @@ function DoctrineIndex() {
     return [...grouped.entries()];
   }, [hits]);
   return <Page>
-    <Kicker>Doctrine</Kicker>
-    <h1 className="cj-h1">Doctrine.</h1>
+    <Kicker>False Doctrines</Kicker>
+    <h1 className="cj-h1">False Doctrines.</h1>
     <p className="cj-lede">False doctrines answered from scripture and the classes.</p>
     {result.error ? <DoctrineEmpty error={result.error} /> : <>
-      <div className="filters"><input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Find a doctrine" aria-label="Find a doctrine" /><span className="cj-mono">{hits.length} of {all?.length ?? 0}</span></div>
+      <div className="filters"><input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Find a false doctrine" aria-label="Find a false doctrine" /><span className="cj-mono">{hits.length} of {all?.length ?? 0}</span></div>
       {!q ? <p className="alpha cj-mono">{letters.map(([letter]) => <a key={letter} href={`#${letter}`}>{letter}</a>)}</p> : null}
-      {!hits.length ? <p className="study__empty">No doctrine found.</p> : null}
+      {!hits.length ? <p className="study__empty">No false doctrine found.</p> : null}
       {letters.map(([letter, list]) => <section key={letter} className="book-block" id={letter}>
         <h2>{letter}</h2>
         <ul className="list list--cols">{list.map((p) => <li key={p.slug}><Link to="/doctrine/$slug" params={{ slug: p.slug }}><span>{p.name}</span><span className="cj-mono">{p.refs}</span></Link></li>)}</ul>

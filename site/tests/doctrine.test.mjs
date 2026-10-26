@@ -23,10 +23,32 @@ function load(path, imports = {}, globals = {}) {
 }
 const refs = load("../src/components/site/ref-quote.tsx", { "@tanstack/react-router": { Link: link } });
 const doctrine = load("../src/routes/doctrine/-shared.tsx", {
-  "@tanstack/react-router": { Link: link },
+  "@tanstack/react-router": { Link: link, useRouter: () => ({ invalidate() {} }) },
   "@/components/site/ref-quote": refs,
   "@/components/site/ref-card": { RefCards: passthrough },
   "@/lib/teaching-refs": load("../src/lib/teaching-refs.ts"),
+});
+
+test("False Doctrines labels appear in route headings, breadcrumbs, metadata and empty states", () => {
+  for (const index of [true, false]) {
+    const result = { data: index ? [{ ...fixture, refs: 2 }] : fixture, error: null };
+    const { Route } = load(index ? "../src/routes/doctrine/index.tsx" : "../src/routes/doctrine/$slug.tsx", {
+      react: require("react"),
+      "@tanstack/react-router": { Link: link, createFileRoute: () => config => ({ ...config, useLoaderData: () => result }) },
+      "@/components/site/chrome": { Page: passthrough, Kicker: passthrough, ReadLink: link },
+      "@/components/site/browse-tools": { Breadcrumbs: ({ items }) => createElement("nav", null, items.map(item => item.label).join(" / ")) },
+      "@/components/site/return-bar": { CiteLanding: passthrough },
+      "@/lib/head": { pageHead: tags => tags },
+      "./-shared": doctrine,
+    });
+    const html = renderToStaticMarkup(createElement(Route.component));
+    assert.ok(html.includes(index ? "False Doctrines.</h1>" : "False Doctrines / Alpha fixture"));
+    if (!index) assert.ok(html.includes('href="/doctrine">All false doctrines</a>'));
+    assert.equal(Route.head({ loaderData: result }).at(0).title, index ? "False Doctrines · CyberJudah" : `${fixture.name} · False Doctrines · CyberJudah`);
+  }
+  for (const [error, message] of [["unpublished", "The false doctrines section is not published yet"], ["unavailable", "The false doctrines section did not load"]]) {
+    assert.ok(renderToStaticMarkup(createElement(doctrine.DoctrineEmpty, { error })).includes(message));
+  }
 });
 
 test("Doctrine renders only the supplied claim, KJV including Apocrypha, verbatim words and related chips", () => {

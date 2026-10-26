@@ -12,7 +12,7 @@ export async function loadDoctrine<T>(read: () => Promise<T>): Promise<{ data: T
 export function DoctrineEmpty({ error }: { error: "unpublished" | "unavailable" }) {
   const router = useRouter();
   return <div className="study__empty" role="status">
-    <p>{error === "unpublished" ? "The doctrine section is not published yet" : "The doctrine section did not load"}</p>
+    <p>{error === "unpublished" ? "The false doctrines section is not published yet" : "The false doctrines section did not load"}</p>
     <button type="button" className="lamp-btn" onClick={() => void router.invalidate()}>Retry</button>
   </div>;
 }
