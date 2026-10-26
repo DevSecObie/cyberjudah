@@ -1,7 +1,9 @@
 import { Link, useRouter } from "@tanstack/react-router";
+import { useState } from "react";
+import { DoctrinePageViewer } from "@/components/site/doctrine-page-viewer";
 import { RefCards } from "@/components/site/ref-card";
 import { RefQuote } from "@/components/site/ref-quote";
-import type { DoctrineEntry } from "@/lib/api";
+import type { DoctrineBookPage, DoctrineEntry } from "@/lib/api";
 import { watchAt } from "@/lib/teaching-refs";
 
 export async function loadDoctrine<T>(read: () => Promise<T>): Promise<{ data: T; error: null } | { data: null; error: "unpublished" | "unavailable" }> {
@@ -24,6 +26,17 @@ function DoctrineWatch({ moment }: { moment: Pick<DoctrineEntry["answers"][numbe
     return <a href={moment.note.startsWith("/") ? `${note.pathname}${note.search}${note.hash}` : note.href}>Watch at {moment.ts}</a>;
   }
   return <a href={watchAt(moment.video, moment.t)} target="_blank" rel="noreferrer">Watch at {moment.ts}</a>;
+}
+
+function DoctrineBookQuotes({ page, title }: { page: DoctrineBookPage; title: string }) {
+  const [open, setOpen] = useState(false);
+  return <>
+    {page.quotes?.map((quote, i) => <div key={i}>
+      <blockquote style={{ whiteSpace: "pre-wrap" }}>{quote.text}</blockquote>
+      <button type="button" className="lamp-btn" onClick={() => setOpen(true)}>See it on the page</button>
+    </div>)}
+    {open ? <DoctrinePageViewer page={page} title={title} onClose={() => setOpen(false)} /> : null}
+  </>;
 }
 
 export function DoctrineAnswers({ entry }: { entry: DoctrineEntry }) {
@@ -54,6 +67,7 @@ export function DoctrineAnswers({ entry }: { entry: DoctrineEntry }) {
       {book.pages ? book.pages.map((page, n) => <div key={n} style={{ marginBlock: 8 }}>
         <Link to={page.url as never}>{page.vol === 1 ? `p. ${page.page}` : `vol. ${page.vol}, p. ${page.page}`}</Link>
         <span className="cj-mono"> · read in {page.classes} {page.classes === 1 ? "class" : "classes"}</span>
+        <DoctrineBookQuotes page={page} title={book.title} />
         {page.reads.length ? <ul style={{ listStyleType: "disc", margin: "8px 0 0", paddingInlineStart: 20 }}>{page.reads.slice(0, 3).map((read, k) => <li key={k} style={{ marginBlock: 8 }}>
           <span className="cj-mono">{read.teacher ? `${read.teacher} · ` : null}{read.title}</span>{" · "}<DoctrineWatch moment={read} />
         </li>)}</ul> : null}

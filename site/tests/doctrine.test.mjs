@@ -23,6 +23,7 @@ function load(path, imports = {}, globals = {}) {
 }
 const refs = load("../src/components/site/ref-quote.tsx", { "@tanstack/react-router": { Link: link } });
 const doctrine = load("../src/routes/doctrine/-shared.tsx", {
+  react: require("react"),
   "@tanstack/react-router": { Link: link, useRouter: () => ({ invalidate() {} }) },
   "@/components/site/ref-quote": refs,
   "@/components/site/ref-card": { RefCards: passthrough },
@@ -128,6 +129,17 @@ test("book lists cap class reads at three, hide empty books, and allow linked ci
   assert.ok(html.includes('href="/classes/2026/fixture-citation?source=fixture&amp;t=4520#moment"'));
   entry.books = [];
   assert.ok(!renderToStaticMarkup(createElement(doctrine.DoctrineAnswers, { entry })).includes("Books against it"));
+});
+
+test("book OCR quotes preserve whitespace and misreadings as escaped text, with lazy page viewers", () => {
+  const html = renderToStaticMarkup(createElement(doctrine.DoctrineAnswers, { entry: fixture }));
+  const page = fixture.books[0].pages[0];
+  for (const quote of page.quotes) assert.ok(html.includes(renderToStaticMarkup(createElement("span", null, quote.text)).slice(6, -7)));
+  assert.equal((html.match(/See it on the page/g) ?? []).length, 2);
+  assert.ok(!html.includes(page.scan) && !html.includes("<not markup>"));
+  const legacy = structuredClone(fixture);
+  delete legacy.books[0].pages[0].quotes;
+  assert.ok(!renderToStaticMarkup(createElement(doctrine.DoctrineAnswers, { entry: legacy })).includes("See it on the page"));
 });
 
 test("Doctrine loaders distinguish not-published from connection failure and can retry after publication", async () => {
