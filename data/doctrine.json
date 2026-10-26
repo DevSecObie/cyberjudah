@@ -1,0 +1,216 @@
+{
+  "title": "Doctrine",
+  "intro": "The false doctrines of this world, answered from the King James Bible with the Apocrypha and the breakdowns the classes gave.",
+  "doctrines": [
+    {
+      "slug": "trinity",
+      "name": "The Trinity",
+      "claim": "God is a Trinity: the Father, the Son and the Holy Ghost are three persons in one God, co-equal and co-eternal.",
+      "answers": [
+        { "video": "5ckbGq_KbOs", "opened": "1 John 5:1-8", "at": "v7", "paras": ["“For there are three that bear record", "The word trinity is not even in the Bible."] },
+        { "video": "5ckbGq_KbOs", "opened": "1 John 5:1-8", "at": "v1", "paras": ["This is the scripture they use for the trinity."] },
+        { "video": "5ckbGq_KbOs", "opened": "1 John 5:1-8", "at": "John 17:11", "paras": ["And these three are one.", "For the thought that many can be one"] },
+        { "video": "5ckbGq_KbOs", "opened": "Daniel 7:9-13", "at": "v9", "paras": ["“The Ancient of days did sit"] },
+        { "video": "dotETmzPUbc", "opened": "Genesis 11:6", "at": "v6", "paras": ["Under ancient Babylon they had one religion."] },
+        { "video": "hKifTTWBba8", "opened": "1 Corinthians 11:3", "at": "John 5:19-24", "paras": ["“The Son can do nothing of himself", "“For the Father loveth the Son"] },
+        { "video": "MYjE1-GE1kg", "opened": "John 14:20-21", "at": "John 17:18-22", "paras": ["“That they all may be one"] }
+      ],
+      "related": {
+        "precepts": ["trinity-doctrine"]
+      }
+    },
+    {
+      "slug": "rapture-for-all",
+      "name": "A rapture for every believer",
+      "claim": "Every Christian of every nation will be caught up in the rapture before the tribulation, and the rest of the world left behind.",
+      "answers": [
+        { "video": "Cb9d6sQP32c", "opened": "Isaiah 10:20", "at": "1 Thessalonians 4:16-18", "paras": ["This is how we’re going to escape."] },
+        { "video": "Cb9d6sQP32c", "opened": "Isaiah 10:20", "at": "Ezekiel 28:25-26", "paras": ["Everybody says everybody’s going to be taken."] },
+        { "video": "E-kcKguJMSI", "opened": "Psalms 18:7-19", "at": "Psalms 50:5", "paras": ["“Gather my saints together unto me”"] },
+        { "video": "QiqRjb5boSQ", "opened": "Micah 5:3", "at": "Hosea 1:10-11", "paras": ["“And they shall come up out of the land”"] },
+        { "video": "AFiE1wxb1NA", "opened": "Revelation 6:12-17", "at": "Revelation 11:12-13", "paras": ["This talks about the great earthquake."] },
+        { "video": "2CCLKfUGj_I", "opened": "Luke 21:19-24", "at": "Revelation 7:3-4", "paras": ["Many of us listening say"] },
+        { "video": "W71b00kgk0E", "opened": "Jeremiah 16:13-16", "at": "v14-15", "paras": ["“And from all the lands whither he had driven them”"] }
+      ],
+      "related": {
+        "precepts": ["deliverance"]
+      }
+    },
+    {
+      "slug": "law-done-away",
+      "name": "The law was done away with",
+      "claim": "Christ nailed the law to the cross. Under grace, believers no longer have to keep God's commandments.",
+      "answers": [
+        { "video": "OhP4mngUy18", "opened": "Isaiah 2:1-5", "at": "Matthew 5:17-19", "paras": ["Out of Zion shall go forth the law", "“Till heaven and earth pass", "“Whosoever therefore shall break"] },
+        { "video": "aJhVFjdp19Y", "opened": "2 Corinthians 3:11-13", "at": "v11", "paras": ["Now, to speak plainly."] },
+        { "video": "aJhVFjdp19Y", "opened": "2 Corinthians 3:11-13", "at": "v13", "paras": ["What was abolished?"] },
+        { "video": "5ckbGq_KbOs", "opened": "Romans 6:12-14", "at": "v14", "paras": ["“For sin shall not have dominion over you", "Sin shall not have dominion over you because"] },
+        { "video": "ZKi9VUwFKxI", "opened": "Romans 6:12-17", "at": "v15", "paras": ["“What then? shall we sin"] },
+        { "video": "vXvXgrzFzl8", "opened": "Zechariah 9:11-12", "at": "Hebrews 9:15", "paras": ["The rest of the Old Testament laws"] },
+        { "video": "5ckbGq_KbOs", "opened": "Psalms 111:10", "at": "v10", "paras": ["So who understands the Bible?"] }
+      ],
+      "related": {
+        "precepts": ["keep-the-commandments", "laws-of-sacrifice", "law-is-life", "curse-of-the-law"]
+      }
+    },
+    {
+      "slug": "sunday-sabbath",
+      "name": "Sunday is the Sabbath",
+      "claim": "Sunday, the first day of the week, is the Lord's day and the Christian Sabbath, kept because Christ rose on a Sunday.",
+      "answers": [
+        { "video": "Ogq8ZVwtDRM", "opened": "Jeremiah 51:1-6", "at": "Exodus 20:8-10", "paras": ["“Remember the sabbath day", "“But the seventh day is the sabbath"] },
+        { "video": "Ogq8ZVwtDRM", "opened": "Jeremiah 51:1-6", "at": "Matthew 28:1", "paras": ["Write this down."] },
+        { "video": "Ogq8ZVwtDRM", "opened": "Jeremiah 51:1-6", "at": "Matthew 12:8", "paras": ["One of the iniquities our people are cut off in"] },
+        { "video": "GbkgUFGpeY8", "opened": "Genesis 2:1-2", "at": "Exodus 31:16-17", "paras": ["“Wherefore the children of Israel shall keep the sabbath"] },
+        { "video": "1jXnB9u2FpU", "opened": "2 Esdras 16:68-78", "at": "1 Maccabees 1:41-50", "paras": ["“Moreover king Antiochus wrote"] },
+        { "video": "W3Xc8G1aQC4", "opened": "2 Esdras 7:28-32", "at": "v29", "paras": ["“After these years shall my son Christ die”"] }
+      ],
+      "related": {
+        "precepts": ["sabbath"]
+      }
+    },
+    {
+      "slug": "unclean-meats",
+      "name": "Pork and every meat are clean now",
+      "claim": "The dietary laws ended with the New Testament: pork, shellfish and every animal are clean to eat once you pray over it.",
+      "answers": [
+        { "video": "0nTb2YB-Tns", "opened": "1 Timothy 4:1-5", "at": "Leviticus 11:44-47", "paras": ["Here is where the animals were sanctified", "“This is the law of the beasts", "That is how the word sanctifies"] },
+        { "video": "JDW1q70sbhI", "opened": "Luke 19:11-18,20-23", "at": "Isaiah 66:15-17", "paras": ["“They that sanctify themselves"] },
+        { "video": "1jXnB9u2FpU", "opened": "Jeremiah 30:8-24", "at": "Isaiah 65:1-5", "paras": ["“I have spread out my hands"] },
+        { "video": "Dz9y53bdfd4", "opened": "Matthew 10:27-39", "at": "2 Maccabees 6:25-26", "paras": ["This is the old man Eleazar."] },
+        { "video": "OEVxzrMFmUQ", "opened": "Jeremiah 23:1-3", "at": "Ezekiel 3:17-19", "paras": ["“When I say unto the wicked"] },
+        { "video": "QxDokX4hfJY", "opened": "Luke 24:13-20,31-32,45", "at": "John 14:26", "paras": ["The Comforter"] }
+      ],
+      "related": {
+        "precepts": ["dietary-laws", "clean-food"]
+      }
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas is Christ's birthday",
+      "claim": "December 25th is the birthday of Jesus Christ, and Christmas, with its tree and its gifts, is a holy day for believers.",
+      "answers": [
+        { "video": "dotETmzPUbc", "opened": "Jeremiah 10:1-5", "at": "v1-2", "paras": ["“Learn not the way of the heathen”"] },
+        { "video": "dotETmzPUbc", "opened": "Jeremiah 10:1-5", "at": "v3-4", "paras": ["“For the customs of the people are vain”"] },
+        { "video": "dotETmzPUbc", "opened": "Jeremiah 10:1-5", "at": "v5", "paras": ["“They are upright as the palm tree”", "“But speak not”"] },
+        { "video": "08GsJvxEFmg", "opened": "Revelation 13:7-8", "at": "Jeremiah 17:4", "paras": ["Then you got Christmas"] },
+        { "video": "Iux2iP0ok6I", "opened": "Revelation 11:8-11", "at": "v10", "paras": ["“And they that dwell upon the earth shall rejoice over them"] },
+        { "video": "T2fTN52Aq_U", "opened": "Wisdom of Solomon 14:12-27", "at": "v16", "paras": ["“Thus in process of time"] },
+        { "video": "OEVxzrMFmUQ", "opened": "Jeremiah 23:1-3", "at": "Ezekiel 3:17-19", "paras": ["“Yet if thou warn the wicked"] }
+      ],
+      "related": {
+        "precepts": ["christmas", "idolatry"]
+      }
+    },
+    {
+      "slug": "easter",
+      "name": "Easter is the resurrection",
+      "claim": "Easter Sunday, with its eggs and rabbits, is the holy day of Christ's resurrection, and the Bible itself names it.",
+      "answers": [
+        { "video": "iuzfzwu8o0c", "opened": "Deuteronomy 32:15", "at": "1 Kings 11:1-12", "paras": ["“For Solomon went after Ashtoreth"] },
+        { "video": "mS6qcYR9lbk", "opened": "Romans 15:4", "at": "Acts 12:1-4", "paras": ["He put him in prison"] },
+        { "video": "ga08yEpIDoA", "opened": "Matthew 18:1-9", "at": "Psalms 19:7", "paras": ["In an interview in South Africa"] },
+        { "video": "dotETmzPUbc", "opened": "Acts 19:24-27", "at": "v24", "paras": ["Acts 19 is where they start yelling"] },
+        { "video": "kfUCr2riN-s", "opened": "Lamentations 2:14-16", "at": "v14", "paras": ["“But have seen for thee false burdens”"] }
+      ],
+      "related": {
+        "precepts": ["easter", "idolatry"]
+      }
+    },
+    {
+      "slug": "tithes",
+      "name": "Tithe to the pastor",
+      "claim": "Christians must give a tenth of their money to the church and the pastor, or they are robbing God.",
+      "answers": [
+        { "video": "Qw2v07pohR4", "opened": "2 Maccabees 3:1-6", "at": "v6", "paras": ["The riches that did not pertain"] },
+        { "video": "Qw2v07pohR4", "opened": "2 Maccabees 3:1-6", "at": "Deuteronomy 14:28-29", "paras": ["This is what the money in the temple was for"] },
+        { "video": "YYnF3f_6x1g", "opened": "Romans 3:27-28", "at": "Nehemiah 13:11-14", "paras": ["“Then contended I with the rulers"] },
+        { "video": "YYnF3f_6x1g", "opened": "2 Timothy 3:8-9", "at": "v8", "paras": ["Why do these dumb doctrines"] },
+        { "video": "5ckbGq_KbOs", "opened": "Proverbs 28:5", "at": "Ecclesiasticus 19:19-22", "paras": ["“Neither at any time the counsel of sinners prudence.”"] },
+        { "video": "RyRdIO615fU", "opened": "Matthew 23:2-7", "at": "Matthew 23:23", "paras": ["“Woe unto you, scribes and Pharisees"] },
+        { "video": "1qC2mwBgisM", "opened": "Luke 12:1-3, 15, 23-24, 31-34", "at": "v15", "paras": ["People coming in have had enough"] }
+      ],
+      "related": {
+        "precepts": ["tithes-are-not-money", "tithes-for-levi"]
+      }
+    },
+    {
+      "slug": "curse-of-ham",
+      "name": "Black people carry the curse of Ham",
+      "claim": "Noah cursed Ham, and black people, as Ham's children, carry that curse of slavery.",
+      "answers": [
+        { "video": "-QJZ04vGiMw", "opened": "Genesis 9:25-27", "at": "v25", "paras": ["People like to say the Israelites stole"] },
+        { "video": "-QJZ04vGiMw", "opened": "Genesis 9:25-27", "at": "v26", "paras": ["“Blessed be the Lord God of Shem"] },
+        { "video": "HNnKoVf4zOs", "opened": "Genesis 10:6", "at": "v6", "paras": ["“And the sons of Ham; Cush"] },
+        { "video": "0DwfIBNGOP0", "opened": "Psalms 105:23", "at": "v23", "paras": ["The Bible dictionary says Ham"] },
+        { "video": "7wl9iOsaR_s", "opened": "Exodus 1:8-11", "at": "Psalms 83:1-4", "paras": ["‘The Home Tutor’"] }
+      ],
+      "related": {
+        "precepts": []
+      }
+    },
+    {
+      "slug": "faith-alone",
+      "name": "Faith alone saves",
+      "claim": "A man is saved by faith alone: believe in Jesus and you are saved whatever you do, once saved always saved.",
+      "answers": [
+        { "video": "e6T83y297Cc", "opened": "James 2:14-17", "at": "v14", "paras": ["The churches use faith like it is just a little thing", "“What doth it profit, my brethren"] },
+        { "video": "e6T83y297Cc", "opened": "James 2:14-17", "at": "Hebrews 11:1", "paras": ["“The evidence of things not seen.”"] },
+        { "video": "QiqRjb5boSQ", "opened": "1 Corinthians 15:34", "at": "v34", "paras": ["“Awake to righteousness, and sin not”"] },
+        { "video": "1jXnB9u2FpU", "opened": "2 Esdras 16:68-78", "at": "Romans 6:14-16", "paras": ["“For sin shall not have dominion over you”"] },
+        { "video": "wTuOGE-zMSs", "opened": "2 Corinthians 4:1-3", "at": "v3", "paras": ["That's the Christian church"] }
+      ],
+      "related": {
+        "precepts": ["good-works", "keep-faith-and-laws"]
+      }
+    },
+    {
+      "slug": "salvation-for-all-nations",
+      "name": "Salvation is for all nations",
+      "claim": "Christ died for every nation, so salvation and the kingdom are open to all people alike: \"whosoever believeth\" (John 3:16).",
+      "answers": [
+        { "video": "5ckbGq_KbOs", "opened": "2 Timothy 3:15-17", "at": "Matthew 15:24", "paras": ["Where does it say Christ came to die", "Christ, who died and rose from the dead"] },
+        { "video": "QNTH14obhzs", "opened": "Jeremiah 23:1-14", "at": "Matthew 15:24", "paras": ["Christ said", "The sheep are not all nations"] },
+        { "video": "cetvQzeU1XY", "opened": "2 Esdras 6:54-59", "at": "Luke 19:10-11", "paras": ["It’s just in these last days"] },
+        { "video": "aJhVFjdp19Y", "opened": "Joel 2:27-32", "at": "v32", "paras": ["“And it shall come to pass, that whosoever”"] },
+        { "video": "VKPwznYI0sQ", "opened": "Acts 1:6", "at": "Zechariah 8:22-23", "paras": ["“Saying, We will go with you"] },
+        { "video": "hGuiflP0yaw", "opened": "Revelation 20:11-15", "at": "v15", "paras": ["“And whosoever was not found written"] },
+        { "video": "-QJZ04vGiMw", "opened": "Genesis 9:25-27", "at": "2 Esdras 6:54-55", "paras": ["Here is the precept", "God made the world for our sake."] }
+      ],
+      "related": {
+        "precepts": ["salvation", "other-nations", "every-nation"]
+      }
+    },
+    {
+      "slug": "so-called-jews",
+      "name": "The Jews of today are Israel",
+      "claim": "The people called Jews today, in the state of Israel and around the world, are the children of the Israelites of the Bible.",
+      "answers": [
+        { "video": "Dz9y53bdfd4", "opened": "Revelation 2:9", "at": "v9", "paras": ["“I know thy works, and tribulation"] },
+        { "video": "xWuNI4KEMqU", "opened": "Revelation 2:9-11", "at": "v9", "paras": ["“I know thy works, and tribulation", "This is what Christ is calling them."] },
+        { "video": "wHLEgliquFU", "opened": "Wisdom of Solomon 2:16", "at": "v16", "paras": ["This is regarding so-called Jewish people."] },
+        { "video": "wHLEgliquFU", "opened": "Genesis 36:8-16", "at": "v15-16", "paras": ["“These were dukes of the sons of Esau"] },
+        { "video": "Dt0hL9vHpZ8", "opened": "Obadiah 1:15-18", "at": "v16", "paras": ["“For as ye have drunk upon my holy mountain”"] }
+      ],
+      "related": {
+        "precepts": ["fake-jews", "end-of-esau"]
+      }
+    },
+    {
+      "slug": "white-jesus",
+      "name": "Jesus Christ was a white man",
+      "claim": "Jesus Christ and the Israelites were white, as the church's paintings and statues show them.",
+      "answers": [
+        { "video": "mHKbqNLtmwc", "opened": "Revelation 1:14-16", "at": "v14", "paras": ["“His head and his hairs were white like wool,”", "So when the churches say that's his glorified state"] },
+        { "video": "mHKbqNLtmwc", "opened": "Revelation 1:14-16", "at": "v15", "paras": ["“And his feet like unto fine brass"] },
+        { "video": "mxhky8UxD5A", "opened": "Matthew 24:4-5", "at": "Revelation 1:14-15", "paras": ["This was the famous scripture in Sierra Leone"] },
+        { "video": "OhP4mngUy18", "opened": "Daniel 7:9", "at": "v9", "paras": ["“And the Ancient of days did sit”"] },
+        { "video": "e51lFpTuIds", "opened": "Revelation 13:11-18", "at": "v14", "paras": ["“That they should make an image to the beast"] },
+        { "video": "aSKl5k_IWzo", "opened": "Isaiah 28:14-20", "at": "v15", "paras": ["“When the overflowing scourge"] }
+      ],
+      "related": {
+        "precepts": ["graven-images", "christ"]
+      }
+    }
+  ]
+}

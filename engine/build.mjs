@@ -31,6 +31,7 @@ import { teachingDate } from "./timeline.mjs";
 import { strongsPages } from "./strongs-pages.mjs";
 import { loadLibrary, plain, VERDICT, versesOf, firstVerse } from "./library.mjs";
 import { loadShows, showOf } from "./shows.mjs";
+import { loadDoctrine } from "./doctrine.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -226,6 +227,20 @@ for (const p of handbook.parts) for (const s of p.sections) {
 writeJson(path.join(API, "laws", "index.json"), handbook.parts.map((p) => ({ n: p.n, title: p.title, url: partUrl(p), sections: p.sections.map((s) => ({ id: s.id, title: s.title, laws: s.entries.length, url: sectionUrl(s) })) })));
 for (const t of sortedPrecepts) writeJson(path.join(API, "precepts", `${t.slug}.json`), { ...t, refs: t.refs.map(resolveRef), url: preceptUrl(t) });
 writeJson(path.join(API, "precepts", "index.json"), sortedPrecepts.map((t) => ({ slug: t.slug, title: t.title, refs: t.refs.length, url: preceptUrl(t) })));
+// The Doctrine section: each false doctrine and its answers, the class breakdowns taken from the
+// merged precept passes (engine/doctrine.mjs). A pointer that no longer resolves stops the build.
+const doctrine = loadDoctrine(ROOT);
+if (doctrine.problems.length) throw new Error(`data/doctrine.json:\n${doctrine.problems.join("\n")}`);
+const doctrineUrl = (d) => `/doctrine/${d.slug}`;
+for (const d of doctrine.doctrines) writeJson(path.join(API, "doctrine", `${d.slug}.json`), {
+  slug: d.slug, name: d.name, claim: d.claim, url: doctrineUrl(d),
+  answers: d.answers.map((a) => {
+    const note = noteByVideo.get(a.video);
+    return { refs: [resolveRef(a.ref)], sense: [{ video: a.video, ts: a.ts, t: a.t, teacher: a.teacher, title: note?.title || a.title, date: note?.date || a.date, text: a.text, note: note ? `${note.url}?t=${a.t}` : null }] };
+  }),
+  related: { precepts: (d.related.precepts ?? []).map((slug) => { const p = L.findPrecept(slug); return p ? { slug: p.slug, title: p.title, url: preceptUrl(p) } : null; }).filter(Boolean) },
+});
+writeJson(path.join(API, "doctrine", "index.json"), doctrine.doctrines.map((d) => ({ slug: d.slug, name: d.name, claim: d.claim, refs: d.answers.length, url: doctrineUrl(d) })));
 const seeAlsoEncyclopedia = (hay) => {
   const h = hay.toLowerCase();
   return L.lexicon.filter((l) => l.terms.some((t) => new RegExp(`\\b${t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`).test(h))).map((l) => L.noteByTitle.get(l.topic.toLowerCase())).filter(Boolean).map((n) => ({ title: n.title, url: n.url }));
@@ -697,6 +712,7 @@ writeJson(path.join(SEARCH, "topics.json"), L.topics);
 writeJson(path.join(SEARCH, "books.json"), BOOKS.map((b) => ({ book: b, slug: bookSlug[b] })));
 writeJson(path.join(SEARCH, "laws.json"), handbook.parts.flatMap((p) => p.sections.flatMap((s) => s.entries.map((e) => ({ id: `${s.id}.${e.n}`, text: e.text, url: `${sectionUrl(s)}#${s.id}.${e.n}` })))));
 writeJson(path.join(SEARCH, "precepts.json"), sortedPrecepts.map((t) => ({ title: t.title, url: preceptUrl(t), n: t.refs.length })));
+writeJson(path.join(SEARCH, "doctrine.json"), doctrine.doctrines.map((d) => ({ title: d.name, claim: d.claim, url: doctrineUrl(d), n: d.answers.length })));
 writeJson(path.join(SEARCH, "cases.json"), cases.cases.map((c) => {
   const narrative = c.offenseFull?.length > 1 ? c.offenseFull.join(" ") + " " + (c.judgmentFull || []).join(" ") : `${c.offense} ${c.judgment}`;
   return { name: c.name, url: caseUrl(c), text: `${c.charge}. ${c.summary} ${narrative}` };
@@ -790,11 +806,11 @@ writeJson(path.join(API, "stats.json"), stats);
 writeJson(path.join(API, "index.json"), {
   kjv: "/api/kjv/books.json", chapter: "/api/kjv/<book-slug>/<chapter>.json", concordance: "/api/concordance/<book-slug>/<chapter>.json",
   notes: "/api/notes/index.json", note: "/api/notes/<site-path>.json", laws: "/api/laws/index.json", law: "/api/laws/<SECTION>.json",
-  precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
+  precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", doctrine: "/api/doctrine/index.json", doctrineEntry: "/api/doctrine/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
   concordanceIndex: "/api/concordance/index.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
   history: "/api/history/index.json", shows: "/api/shows/index.json", strongs: "/api/strongs/<number>.json", strongsIndex: "/api/strongs/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", stats: "/api/stats.json",
-  search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
+  search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", doctrine: "/search/doctrine.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },
   downloads: { vault: "/downloads/vault.zip" },
   feeds: { classes: "/classes/rss.xml", captains: "/captains/rss.xml", study: "/study/rss.xml" },
 });

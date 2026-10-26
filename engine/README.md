@@ -25,6 +25,7 @@ not needed.
 | `data/people/people.json`, `data/places/places.json` | the people and places of the Bible, from STEPBible's TIPNR (`scripts/people/tipnr.py`, `scripts/places/tipnr.py`) |
 | `data/handbook.json` | the handbook of Bible law |
 | `data/precepts.json` | the precept index |
+| `data/doctrine.json` | the Doctrine section: each false doctrine and the pass breakdowns that answer it, by pointer (`engine/doctrine.mjs`) |
 | `data/cases.json` | the case studies |
 | `data/topics.tsv`, `data/lexicon.tsv` | topic labels, encyclopedia terms |
 | `data/crossrefs.json` | cross references |
@@ -52,6 +53,7 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/laws/index.json` | parts and sections of the handbook |
 | `api/laws/<SECTION>.json` | one section with its laws; every reference is resolved (`slug`, `url`, `label`, the `study` note that teaches the chapter, the verse `text` up to 12 verses, `more`) |
 | `api/precepts/index.json`, `api/precepts/<slug>.json` | the precept index and each precept's references, resolved the same way |
+| `api/doctrine/index.json`, `api/doctrine/<slug>.json` | the false doctrines and, for each, its answers: the scripture resolved like a precept and the class breakdown (teacher, class, moment, the note at that moment when there is one) taken word for word from the merged precept pass |
 | `api/cases/index.json`, `api/cases/<slug>.json` | the case studies (index rows carry `themes` and `topics`); each case carries its laws, precepts, related cases, resolved references (`refsResolved`), where it was taught and encyclopedia `see` links |
 | `api/places/index.json` | every place in the Bible (STEPBible TIPNR, CC BY 4.0): `{id, name, names, region, verses (count), first}` |
 | `api/places/<id>.json` | one place: `{id, name, names, region, coords: [lat, lng] or null, strongs, verses, source}`; the chapter files' `places: {verse: [id]}` say which places each verse names |
@@ -66,7 +68,7 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/xref/<book-slug>/<chapter>.json` | cross references per verse |
 | `search/classes.json`, `search/captains.json` | browse feeds: title, url, date, teacher, thumb, books, topics |
 | `api/classes/broadcasts.json` | video ID → `{date, broadcastAt}`: the class's calendar date and verified broadcast start in UTC |
-| `search/topics.json`, `search/books.json`, `search/laws.json`, `search/precepts.json`, `search/cases.json` | small indexes for browse pages |
+| `search/topics.json`, `search/books.json`, `search/laws.json`, `search/precepts.json`, `search/doctrine.json`, `search/cases.json` | small indexes for browse pages |
 | `pagefind/` | a sharded full-text index; load `pagefind/pagefind.js` and search every verse, note, law, precept and case |
 | `search.sql.gz` | the search index as SQL: one FTS5 table `search_docs(kind, title, url, sub, text, book, chapter)`, every verse a row, notes split at headings into pieces of a few KB, laws, precepts and cases one row each; the site loads it into Cloudflare D1 on every publish |
 | `search-index/parts.json`, `search-index/NN.sql.gz` | the same index in parts, each under 20 MiB gzipped and valid SQL on its own, to run in order (the Telegram bot's D1 load reads these) |
@@ -165,6 +167,8 @@ in this repository; the environment name alone does not enforce approval.
 ### Precept playback corrections
 
 A pass precept may carry an optional `ts` (`m:ss` or `h:mm:ss`). Its links in both directions use that moment; omitting it retains the opened passage's timestamp. Explanations and references are unchanged. `scripts/precepts/classes.py check` rejects invalid calendar dates and timestamp components and retains the exact KJV quote check. Data edits still require exactly one pass per PR; checker/reader implementation changes without pass data are allowed separately. CMS publication requires both `validate` and `check`. Production approval remains separate.
+
+`data/doctrine.json` lists false doctrines (`slug`, `name`, `claim`: the doctrine as the world states it) and their `answers`. An answer holds no teaching of its own: it points at a merged precept pass by `video`, `opened` (the passage, as the pass writes it) and `at` (a verse of that passage, `"v12"`, or a precept's reference, `"Hosea 1:10-11"`), and `paras` gives the first words of each paragraph to take. The build copies those paragraphs, the teacher and the moment from the pass, so the section can only say what a class said; `node engine/check.mjs` and the build stop on any pointer that no longer matches. `related.precepts` names precept slugs to link.
 
 ### Broadcast order
 
