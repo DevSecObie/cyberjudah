@@ -1,1 +1,2 @@
 - Refine False Doctrines with a restrained reading column, clear section hierarchy, flat scripture rows and quieter class links while preserving all supplied content and scan-viewer behavior.
+- Replace numbered answers with a continuous scripture-and-teaching layout, underlined passage and class citations, and direct section hyperlinks.

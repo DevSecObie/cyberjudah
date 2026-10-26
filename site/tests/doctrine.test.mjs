@@ -61,7 +61,8 @@ test("Doctrine renders only the supplied claim, KJV including Apocrypha, verbati
     for (const s of answer.sense) { assert.ok(html.includes(s.text)); assert.ok(html.includes(s.teacher)); }
   }
   for (const href of ["/classes/2026/fixture?t=65", "https://www.youtube.com/watch?v=fixture0002&amp;t=0s", "/bible/genesis/1?v=1", "/bible/2-esdras/6?v=38", "/precepts/fixture-precept", "/cases/fixture-case", "/topics/fixture-topic"]) assert.ok(html.includes(`href="${href}"`), href);
-  assert.ok(html.indexOf(fixture.claim) < html.indexOf("Answer 1"));
+  assert.ok(html.indexOf(fixture.claim) < html.indexOf('id="doctrine-study"'));
+  assert.ok(!/Answer \d+/.test(html));
   assert.deepEqual(fixture, before);
 });
 
@@ -74,13 +75,13 @@ test("scriptures render their KJV text, exact class bullets, read markers and ho
   for (const ref of fixture.scriptures) for (const verse of ref.text) assert.ok(scripture.includes(verse.text));
   assert.ok(scripture.includes('href="/bible/job/3#v17"'));
   assert.ok(scripture.includes(fixture.scriptures[0].points[0].text));
-  assert.ok(scripture.includes(">Fixture explanation class · "));
+  assert.ok(scripture.includes(">Fixture explanation class<span"));
   assert.ok(scripture.includes("Read in Fixture reading class"));
-  assert.ok(scripture.includes('href="/classes/2026/fixture-scripture?t=821">Watch at 13:41'));
+  assert.ok(scripture.includes('href="/classes/2026/fixture-scripture?t=821"') && scripture.includes("Watch at 13:41"));
   assert.ok(scripture.includes('href="https://www.youtube.com/watch?v=fixture0004&amp;t=3725s"'));
   assert.ok(scripture.includes("Watch at 1:02:05"));
   assert.ok(!html.includes("undefined") && !html.includes("62:05") && !html.includes("<figcaption> · "));
-  assert.ok(html.indexOf("Answer 1") < html.indexOf("Scriptures against it"));
+  assert.ok(html.indexOf('id="doctrine-study"') < html.indexOf("Scriptures against it"));
   assert.deepEqual(fixture, before);
 });
 
@@ -125,7 +126,7 @@ test("book lists cap class reads at three, hide empty books, and allow linked ci
   assert.ok(html.includes("Fixture reader · Fixture book class 1") && html.includes("Fixture book class 3") && !html.includes("Fixture book class 4"));
   assert.ok(html.includes('href="/books/fixture-citation">Fixture cited book</a>'));
   assert.ok(html.includes("Fixture citation author"));
-  assert.ok(html.includes('<figcaption>Fixture citing class · '));
+  assert.ok(html.includes('>Fixture citing class<span aria-hidden="true"> · </span>'));
   assert.ok(html.includes('href="/classes/2026/fixture-citation?source=fixture&amp;t=4520#moment"'));
   entry.books = [];
   assert.ok(!renderToStaticMarkup(createElement(doctrine.DoctrineAnswers, { entry })).includes("Books against it"));

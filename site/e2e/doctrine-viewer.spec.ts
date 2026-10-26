@@ -19,6 +19,20 @@ async function openEntry(page: Page, entry = fixture, fail = false) {
 const scan = fixture.books[0].pages![0];
 const image = '<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2400"><rect width="1000" height="2400" fill="#fff8e7"/><text x="100" y="180" font-size="38">Test-only printed page</text><path d="M100 1740H750 M100 1810H650 M200 2075H800" stroke="#222" stroke-width="10"/></svg>';
 
+test("passage and source hyperlinks replace numbered answers and jump to visible sections", async ({ page }) => {
+  const entry = structuredClone(fixture);
+  entry.answers.push(structuredClone(entry.answers[0]));
+  await openEntry(page, entry);
+  await expect(page.locator(".doctrine-evidence")).toHaveCount(2);
+  await expect(page.getByRole("heading", { name: /^Answer \d+/ })).toHaveCount(0);
+  await expect(page.getByRole("heading", { name: "Scripture & teaching", exact: true })).toHaveCount(1);
+  await expect(page.locator(".doctrine-evidence .refq__ref").first()).toHaveCSS("text-decoration-line", "underline");
+  await expect(page.getByRole("link", { name: /Fixture teacher.*Watch at 1:05/ }).first()).toHaveAttribute("href", "/classes/2026/fixture?t=65");
+  await page.getByRole("navigation", { name: "On this page" }).getByRole("link", { name: /^Books/ }).click();
+  await expect(page).toHaveURL(/#doctrine-books$/);
+  await expect.poll(() => page.getByRole("heading", { name: "Books against it", exact: true }).evaluate(el => el.getBoundingClientRect().top)).toBeGreaterThanOrEqual(64);
+});
+
 test("35 fixture scriptures keep the quiet reading column without horizontal overflow", async ({ page }) => {
   const entry = structuredClone(fixture);
   entry.scriptures = Array.from({ length: 35 }, (_, i) => structuredClone(fixture.scriptures[i % fixture.scriptures.length]));
