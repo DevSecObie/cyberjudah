@@ -1,6 +1,33 @@
 import { expect, test, type Page } from "@playwright/test";
 import fixture from "../tests/fixtures/doctrine.json" with { type: "json" };
 
+for (const width of [390, 880]) test(`contents toggles by keyboard and jumps to supplied passages and books at ${width}px`, async ({ page }) => {
+  const entry = structuredClone(fixture);
+  entry.scriptures = Array.from({ length: 35 }, (_, i) => structuredClone(fixture.scriptures[i % fixture.scriptures.length]));
+  await page.setViewportSize({ width, height: 844 });
+  await openEntry(page, entry);
+  const details = page.locator(".doctrine-toc"), summary = details.locator("summary");
+  await expect(details).toHaveJSProperty("open", false);
+  await summary.focus();
+  await page.keyboard.press("Enter");
+  await expect(details).toHaveJSProperty("open", true);
+  const toc = page.getByRole("navigation", { name: "Table of contents" });
+  await expect(toc.locator('a[href^="#doctrine-scripture-"]')).toHaveCount(35);
+  expect(await toc.locator("a").evaluateAll(links => links.every(link => document.getElementById((link as HTMLAnchorElement).hash.slice(1))))).toBe(true);
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  await toc.locator('a[href="#doctrine-scripture-34"]').click();
+  await expect(page).toHaveURL(/#doctrine-scripture-34$/);
+  await expect(page.locator("#doctrine-scripture-34")).toBeInViewport();
+  await expect.poll(() => page.locator("#doctrine-scripture-34").evaluate(el => { const y = el.getBoundingClientRect().top; return y >= 60 && y < innerHeight / 2; })).toBe(true);
+  await toc.getByRole("link", { name: fixture.books[0].title, exact: true }).click();
+  await expect(page).toHaveURL(/#doctrine-book-0$/);
+  await expect(page.locator("#doctrine-book-0")).toBeInViewport();
+  await summary.focus();
+  await page.keyboard.press("Space");
+  await expect(details).toHaveJSProperty("open", false);
+});
+
+
 async function openEntry(page: Page, entry = fixture, fail = false) {
   await page.route(scan.scan!, (r) => fail ? r.abort() : r.fulfill({ contentType: "image/svg+xml", body: image }));
   await page.route(`${process.env.VITE_DATA_ORIGIN || "https://data.cyberjudah.io"}/**`, (r) => {
@@ -28,7 +55,8 @@ test("passage and source hyperlinks replace numbered answers and jump to visible
   await expect(page.getByRole("heading", { name: "Scripture & teaching", exact: true })).toHaveCount(1);
   await expect(page.locator(".doctrine-evidence .refq__ref").first()).toHaveCSS("text-decoration-line", "underline");
   await expect(page.getByRole("link", { name: /Fixture teacher.*Watch at 1:05/ }).first()).toHaveAttribute("href", "/classes/2026/fixture?t=65");
-  await page.getByRole("navigation", { name: "On this page" }).getByRole("link", { name: /^Books/ }).click();
+  await page.locator(".doctrine-toc > summary").click();
+  await page.getByRole("navigation", { name: "Table of contents" }).getByRole("link", { name: /^Books/ }).click();
   await expect(page).toHaveURL(/#doctrine-books$/);
   await expect.poll(() => page.getByRole("heading", { name: "Books against it", exact: true }).evaluate(el => el.getBoundingClientRect().top)).toBeGreaterThanOrEqual(64);
 });
