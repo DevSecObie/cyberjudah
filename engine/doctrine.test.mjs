@@ -59,6 +59,24 @@ test("pointers that do not resolve are problems, never guessed", () => {
   assert.equal(problems.length, 6);
 });
 
+const transcript = { title: "A radio show", date: "2026-02-02", segments: [[100, "turn to isaiah 1 3"], [130, "but israel does not know where"], [133, "their [ __ ] homeland is"], [400, "brother kemuel said that"]] };
+const readTranscript = (v) => (v === "lmnopqrstuv" ? transcript : null);
+const quote = (q) => resolveDoctrine(doc([{ video: "lmnopqrstuv", from: "2:10", to: "2:15", ref: "Isaiah 1:3", ...q }]), { readPass, readTranscript, hasChapter: () => true, teacherOf: () => "Deacon Eythan" });
+
+test("a quotation must be the captions' own words, near the scripture it answers from", () => {
+  const ok = quote({ text: "But Israel does not know where their … homeland is." });
+  assert.deepEqual(ok.problems, []);
+  assert.equal(ok.doctrines[0].answers[0].teacher, "Deacon Eythan");
+  assert.equal(ok.doctrines[0].answers[0].t, 130);
+  assert.equal(quote({ text: "But Israel does not know where their true homeland is." }).problems.length, 2);
+  assert.equal(quote({ ref: "Jeremiah 1:3", text: "But Israel does not know" }).problems.length, 2);
+});
+
+test("a quotation names its own teacher only when the class names him", () => {
+  assert.equal(quote({ text: "But Israel does not know", teacher: "Captain Kemuel" }).doctrines[0].answers[0].teacher, "Captain Kemuel");
+  assert.equal(quote({ text: "But Israel does not know", teacher: "Captain Gideon" }).problems.length, 2);
+});
+
 test("data/doctrine.json resolves against the merged passes", () => {
   const { doctrines, problems } = loadDoctrine(ROOT);
   assert.deepEqual(problems, []);
