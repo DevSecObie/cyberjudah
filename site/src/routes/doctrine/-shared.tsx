@@ -40,7 +40,7 @@ export function DoctrineAnswers({ entry }: { entry: DoctrineEntry }) {
     {entry.scriptures?.length ? <section className="book-block"><h2>Scriptures against it</h2>
       <RefCards><div className="refqs">{entry.scriptures.map((r, i) => <div key={i}>
         <RefQuote r={r} />
-        {r.points.length ? <ul style={{ margin: "8px 0 0", paddingInlineStart: 20 }}>{r.points.map((p, n) => <li key={n} style={{ marginBlock: 8 }}>
+        {r.points.length ? <ul style={{ listStyleType: "disc", margin: "8px 0 0", paddingInlineStart: 20 }}>{r.points.map((p, n) => <li key={n} style={{ marginBlock: 8 }}>
           {p.read ? <>Read in {p.title}{" · "}<DoctrineWatch moment={p} /></> : <>
             <p style={{ whiteSpace: "pre-wrap", margin: "0 0 4px" }}>{p.text}</p>
             <div className="cj-mono">{p.teacher ? `${p.teacher} · ` : null}{p.title}{" · "}<DoctrineWatch moment={p} /></div>

@@ -69,6 +69,7 @@ test("scriptures render their KJV text, exact class bullets, read markers and ho
   const html = renderToStaticMarkup(createElement(doctrine.DoctrineAnswers, { entry: fixture }));
   const scripture = html.slice(html.indexOf("Scriptures against it"), html.indexOf("Related precepts"));
   assert.equal((scripture.match(/<li /g) ?? []).length, 2);
+  assert.ok(scripture.includes("list-style-type:disc"));
   for (const ref of fixture.scriptures) for (const verse of ref.text) assert.ok(scripture.includes(verse.text));
   assert.ok(scripture.includes('href="/bible/job/3#v17"'));
   assert.ok(scripture.includes(fixture.scriptures[0].points[0].text));
