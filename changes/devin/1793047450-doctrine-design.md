@@ -1,0 +1,1 @@
+- Refine False Doctrines with a restrained reading column, clear section hierarchy, flat scripture rows and quieter class links while preserving all supplied content and scan-viewer behavior.

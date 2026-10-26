@@ -43,7 +43,7 @@ test("False Doctrines labels appear in route headings, breadcrumbs, metadata and
       "./-shared": doctrine,
     });
     const html = renderToStaticMarkup(createElement(Route.component));
-    assert.ok(html.includes(index ? "False Doctrines.</h1>" : "False Doctrines / Alpha fixture"));
+    assert.ok(html.includes(index ? "False Doctrines</h1>" : "False Doctrines / Alpha fixture"));
     if (!index) assert.ok(html.includes('href="/doctrine">All false doctrines</a>'));
     assert.equal(Route.head({ loaderData: result }).at(0).title, index ? "False Doctrines · CyberJudah" : `${fixture.name} · False Doctrines · CyberJudah`);
   }
@@ -69,8 +69,8 @@ test("scriptures render their KJV text, exact class bullets, read markers and ho
   const before = structuredClone(fixture);
   const html = renderToStaticMarkup(createElement(doctrine.DoctrineAnswers, { entry: fixture }));
   const scripture = html.slice(html.indexOf("Scriptures against it"), html.indexOf("Books against it"));
-  assert.equal((scripture.match(/<li /g) ?? []).length, 2);
-  assert.ok(scripture.includes("list-style-type:disc"));
+  assert.equal((scripture.match(/<li(?: |>)/g) ?? []).length, 2);
+  assert.ok(scripture.includes('class="doctrine-points"'));
   for (const ref of fixture.scriptures) for (const verse of ref.text) assert.ok(scripture.includes(verse.text));
   assert.ok(scripture.includes('href="/bible/job/3#v17"'));
   assert.ok(scripture.includes(fixture.scriptures[0].points[0].text));
@@ -107,7 +107,7 @@ test("doctrine books show library pages, class reads and exact cited paragraphs 
   for (const href of ["/books/fixture-book", "/books/fixture-book/p/1-93", "/books/fixture-book/p/2-140", "/bible/job/3#v17", "/classes/2026/fixture-book?t=2862", "https://www.youtube.com/watch?v=fixture0006&amp;t=4520s"]) assert.ok(books.includes(`href="${href}"`), href);
   for (const text of ["Fixture book author", "1871", "p. 93", "vol. 2, p. 140", "read in 8 classes", "read in 1 class", "Fixture book-reading class", "Fixture citation teacher · Fixture citing class", "Watch at 47:42", "Watch at 1:15:20", fixture.books[1].said.text]) assert.ok(books.includes(text), text);
   assert.match(books, /<h3>Fixture cited book<\/h3>/);
-  assert.ok(books.includes("list-style-type:disc"));
+  assert.ok(books.includes('class="doctrine-points"'));
   assert.ok(!books.includes("null") && !books.includes("undefined") && !books.includes('class="cj-mono"> · Fixture'));
   assert.ok(html.indexOf("Scriptures against it") < html.indexOf("Books against it"));
   assert.deepEqual(fixture, before);

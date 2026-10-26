@@ -19,6 +19,18 @@ async function openEntry(page: Page, entry = fixture, fail = false) {
 const scan = fixture.books[0].pages![0];
 const image = '<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2400"><rect width="1000" height="2400" fill="#fff8e7"/><text x="100" y="180" font-size="38">Test-only printed page</text><path d="M100 1740H750 M100 1810H650 M200 2075H800" stroke="#222" stroke-width="10"/></svg>';
 
+test("35 fixture scriptures keep the quiet reading column without horizontal overflow", async ({ page }) => {
+  const entry = structuredClone(fixture);
+  entry.scriptures = Array.from({ length: 35 }, (_, i) => structuredClone(fixture.scriptures[i % fixture.scriptures.length]));
+  await openEntry(page, entry);
+  const scripture = page.locator("section").filter({ has: page.getByRole("heading", { name: "Scriptures against it", exact: true }) }).last();
+  await expect(scripture.locator(".refq")).toHaveCount(35);
+  await expect.poll(() => page.locator(".doctrine-page").evaluate((el) => el.getBoundingClientRect().width)).toBeLessThanOrEqual(600);
+  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  await expect(scripture.locator(".refq").first()).toHaveCSS("background-color", "rgba(0, 0, 0, 0)");
+  await expect(scripture.locator(".refq blockquote p").first()).toHaveCSS("white-space", "pre-wrap");
+});
+
 async function aligned(page: Page) {
   const expected = scan.quotes!.flatMap((q) => q.highlight);
   await expect(page.locator(".dpv__highlight")).toHaveCount(expected.length);

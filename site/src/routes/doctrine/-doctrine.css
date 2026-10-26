@@ -1,0 +1,71 @@
+.doctrine-page, .doctrine-index {
+  --doctrine-ui: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, system-ui, sans-serif;
+  max-width: 600px;
+  margin-inline: auto;
+  color: var(--color-ink-2);
+  background: var(--color-void);
+  overflow-wrap: anywhere;
+}
+:is(.doctrine-page, .doctrine-index) .cj-h1 { font: 700 clamp(1.75rem, 4vw, 2.25rem)/1.2 var(--doctrine-ui); letter-spacing: -.025em; margin: 16px 0 24px; text-wrap: pretty; }
+:is(.doctrine-page, .doctrine-index) .cj-mono { font: 400 .8125rem/1.6 var(--doctrine-ui); letter-spacing: 0; text-transform: none; color: var(--color-muted); }
+.doctrine-page .crumbs { font: 400 .8125rem/1.5 var(--doctrine-ui); }
+.doctrine-content { padding-bottom: 24px; color: var(--color-ink); font: 400 1.0625rem/1.65 var(--font-serif); }
+.doctrine-content > .book-block { margin: 0; padding: 28px 0; border: 0; border-bottom: 1px solid var(--color-hair); }
+.doctrine-content > .book-block:first-child { padding-top: 0; }
+.doctrine-content > .book-block:last-child { border-bottom: 0; }
+.doctrine-content .book-block > h2 { margin: 0 0 16px; padding: 0; color: var(--color-ink-2); font: 700 1rem/1.4 var(--doctrine-ui); letter-spacing: 0; text-transform: none; }
+.doctrine-content .book-block > h2::before, .doctrine-index .book-block h2::before { content: none; }
+.doctrine-content .doctrine-claim { margin: 0; white-space: pre-wrap; }
+.doctrine-content .refqs { display: block; margin: 0; padding: 0; border: 0; }
+.doctrine-content .refqs > div + div, .doctrine-content .refqs > .refq + .refq { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--color-hair); }
+.doctrine-content .refq { margin: 0; padding: 0; border: 0; background: none; }
+.doctrine-content .refq__ref { font: 600 .875rem/1.5 var(--doctrine-ui); letter-spacing: 0; color: var(--color-cyan); }
+.doctrine-content .refq > summary { margin: 0; padding: 0; min-height: 32px; }
+.doctrine-content .refq > summary .refq__ref::before { content: none; }
+.doctrine-content .refq blockquote { margin: 0; padding: 0; border: 0; color: var(--color-ink-2); font: 400 1.1875rem/1.65 var(--font-serif); }
+.doctrine-content .refq blockquote p { margin: 0; white-space: pre-wrap; }
+.doctrine-content .refq sup { color: var(--color-muted); font: 500 .625rem/1 var(--doctrine-ui); }
+.doctrine-content .doctrine-teaching { margin: 20px 0 0; padding-left: 16px; border-left: 2px solid var(--color-hair); }
+.doctrine-content :is(.doctrine-teaching, .doctrine-ocr) blockquote { margin: 0; padding: 0; border: 0; font: inherit; }
+.doctrine-content .doctrine-teaching figcaption { margin: 8px 0 0; color: var(--color-muted); font: 400 .8125rem/1.6 var(--doctrine-ui); }
+.doctrine-content .doctrine-points { margin: 16px 0 0; padding-inline-start: 18px; list-style: disc; }
+.doctrine-content .doctrine-points li { margin: 0; padding-left: 4px; font-size: 1rem; }
+.doctrine-content .doctrine-points li + li { margin-top: 16px; }
+.doctrine-content .doctrine-points li::marker { color: var(--color-muted); font-size: .65em; }
+.doctrine-content .doctrine-explanation { margin: 0 0 6px; white-space: pre-wrap; }
+.doctrine-content .doctrine-watch, .doctrine-content .doctrine-scan {
+  display: inline-flex; align-items: center; min-height: 44px; max-width: 100%; padding: 0;
+  border: 0; border-radius: 0; background: none; box-shadow: none;
+  color: var(--color-cyan); font: 600 .8125rem/1.4 var(--doctrine-ui); text-align: left;
+  text-decoration: none; cursor: pointer; vertical-align: middle;
+}
+.doctrine-content :is(figcaption, .cj-mono) .doctrine-watch { display: flex; width: fit-content; }
+.doctrine-content :is(.doctrine-watch, .doctrine-scan):hover { text-decoration: underline; }
+:is(.doctrine-page, .doctrine-index) :is(a, button, summary):focus-visible { outline: 2px solid var(--color-cyan); outline-offset: 4px; }
+.doctrine-content .doctrine-book { margin: 0; }
+.doctrine-content .doctrine-book + .doctrine-book { margin-top: 24px; padding-top: 24px; border-top: 1px solid var(--color-hair); }
+.doctrine-content h3 { margin: 0 0 4px; color: var(--color-ink-2); font: 700 1.0625rem/1.5 var(--doctrine-ui); }
+.doctrine-content h3 a { color: inherit; text-decoration: none; }
+.doctrine-content h3 a:hover { color: var(--color-cyan); }
+.doctrine-content .doctrine-book > .cj-mono { margin: 0; }
+.doctrine-content .doctrine-book-page { margin-top: 20px; }
+.doctrine-content .doctrine-book-page > a, .doctrine-content .refrow { color: var(--color-cyan); font: 600 .875rem/1.5 var(--doctrine-ui); text-decoration: none; }
+.doctrine-content .doctrine-ocr { margin-top: 16px; padding-left: 16px; border-left: 2px solid var(--color-hair); }
+.doctrine-content .doctrine-book-page .doctrine-points { margin-top: 12px; }
+.doctrine-content .chips { gap: 8px; }
+.doctrine-content .chip { padding: 7px 12px; border: 0; border-radius: 20px; background: var(--color-panel); color: var(--color-ink); font: 400 .8125rem/1.5 var(--doctrine-ui); }
+.doctrine-page > p { margin: 0; font: 500 .875rem/1.5 var(--doctrine-ui); }
+.doctrine-index .cj-lede { margin: 0 0 28px; color: var(--color-muted); font: 400 1rem/1.6 var(--doctrine-ui); }
+.doctrine-index .filters { display: flex; align-items: center; gap: 16px; margin: 0 0 20px; }
+.doctrine-index .filters input { min-width: 0; flex: 1; min-height: 44px; border: 1px solid var(--color-hair); border-radius: 8px; background: var(--color-panel); padding: 10px 14px; color: var(--color-ink-2); font: 400 .9375rem/1.4 var(--doctrine-ui); }
+.doctrine-index .filters input:focus-visible { outline: 2px solid var(--color-cyan); outline-offset: 2px; }
+.doctrine-index .filters > span { flex: none; }
+.doctrine-index .alpha { gap: 4px; margin: 0 0 24px; }
+.doctrine-index .alpha a { display: grid; place-items: center; min-width: 44px; min-height: 44px; border-radius: 50%; color: var(--color-cyan); }
+.doctrine-index .book-block { margin: 0 0 24px; border: 0; }
+.doctrine-index .book-block h2 { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 50%; margin: 0 0 8px; background: var(--color-panel-2); color: var(--color-ink-2); font: 700 1rem var(--doctrine-ui); }
+.doctrine-index .list { margin: 0; padding: 0; list-style: none; }
+.doctrine-index .list li { padding: 0; border: 0; }
+.doctrine-index .list a { display: flex; justify-content: space-between; align-items: center; gap: 16px; min-height: 64px; padding: 12px 0; border-bottom: 1px solid var(--color-hair); color: var(--color-ink-2); font: 600 1.0625rem/1.5 var(--doctrine-ui); text-decoration: none; }
+.doctrine-index .list a:hover { color: var(--color-cyan); }
+.doctrine-index .list .cj-mono { flex: none; }
