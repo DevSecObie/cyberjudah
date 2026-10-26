@@ -34,6 +34,8 @@ import { Route as ConcordanceIndexRouteImport } from './routes/concordance/index
 import { Route as ConcordanceBookRouteImport } from './routes/concordance/$book'
 import { Route as DictionaryIndexRouteImport } from './routes/dictionary/index'
 import { Route as DictionarySlugRouteImport } from './routes/dictionary/$slug'
+import { Route as DoctrineIndexRouteImport } from './routes/doctrine/index'
+import { Route as DoctrineSlugRouteImport } from './routes/doctrine/$slug'
 import { Route as EncyclopediaIndexRouteImport } from './routes/encyclopedia/index'
 import { Route as EncyclopediaSlugRouteImport } from './routes/encyclopedia/$slug'
 import { Route as HistoryIndexRouteImport } from './routes/history/index'
@@ -183,6 +185,16 @@ const DictionarySlugRoute = DictionarySlugRouteImport.update({
   path: '/dictionary/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const DoctrineIndexRoute = DoctrineIndexRouteImport.update({
+  id: '/doctrine/',
+  path: '/doctrine/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DoctrineSlugRoute = DoctrineSlugRouteImport.update({
+  id: '/doctrine/$slug',
+  path: '/doctrine/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const EncyclopediaIndexRoute = EncyclopediaIndexRouteImport.update({
   id: '/encyclopedia/',
   path: '/encyclopedia/',
@@ -318,6 +330,7 @@ export interface FileRoutesByFullPath {
   '/app/search': typeof AppSearchRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
+  '/doctrine/$slug': typeof DoctrineSlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/shows/$slug': typeof ShowsSlugRoute
@@ -329,6 +342,7 @@ export interface FileRoutesByFullPath {
   '/classes/': typeof ClassesIndexRoute
   '/concordance/': typeof ConcordanceIndexRoute
   '/dictionary/': typeof DictionaryIndexRoute
+  '/doctrine/': typeof DoctrineIndexRoute
   '/encyclopedia/': typeof EncyclopediaIndexRoute
   '/history/': typeof HistoryIndexRoute
   '/law/': typeof LawIndexRoute
@@ -367,6 +381,7 @@ export interface FileRoutesByTo {
   '/app/search': typeof AppSearchRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
+  '/doctrine/$slug': typeof DoctrineSlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/shows/$slug': typeof ShowsSlugRoute
@@ -378,6 +393,7 @@ export interface FileRoutesByTo {
   '/classes': typeof ClassesIndexRoute
   '/concordance': typeof ConcordanceIndexRoute
   '/dictionary': typeof DictionaryIndexRoute
+  '/doctrine': typeof DoctrineIndexRoute
   '/encyclopedia': typeof EncyclopediaIndexRoute
   '/history': typeof HistoryIndexRoute
   '/law': typeof LawIndexRoute
@@ -418,6 +434,7 @@ export interface FileRoutesById {
   '/app/search': typeof AppSearchRoute
   '/concordance/$book': typeof ConcordanceBookRoute
   '/dictionary/$slug': typeof DictionarySlugRoute
+  '/doctrine/$slug': typeof DoctrineSlugRoute
   '/encyclopedia/$slug': typeof EncyclopediaSlugRoute
   '/precepts/$slug': typeof PreceptsSlugRoute
   '/shows/$slug': typeof ShowsSlugRoute
@@ -429,6 +446,7 @@ export interface FileRoutesById {
   '/classes/': typeof ClassesIndexRoute
   '/concordance/': typeof ConcordanceIndexRoute
   '/dictionary/': typeof DictionaryIndexRoute
+  '/doctrine/': typeof DoctrineIndexRoute
   '/encyclopedia/': typeof EncyclopediaIndexRoute
   '/history/': typeof HistoryIndexRoute
   '/law/': typeof LawIndexRoute
@@ -470,6 +488,7 @@ export interface FileRouteTypes {
     | '/app/search'
     | '/concordance/$book'
     | '/dictionary/$slug'
+    | '/doctrine/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/shows/$slug'
@@ -481,6 +500,7 @@ export interface FileRouteTypes {
     | '/classes/'
     | '/concordance/'
     | '/dictionary/'
+    | '/doctrine/'
     | '/encyclopedia/'
     | '/history/'
     | '/law/'
@@ -519,6 +539,7 @@ export interface FileRouteTypes {
     | '/app/search'
     | '/concordance/$book'
     | '/dictionary/$slug'
+    | '/doctrine/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/shows/$slug'
@@ -530,6 +551,7 @@ export interface FileRouteTypes {
     | '/classes'
     | '/concordance'
     | '/dictionary'
+    | '/doctrine'
     | '/encyclopedia'
     | '/history'
     | '/law'
@@ -569,6 +591,7 @@ export interface FileRouteTypes {
     | '/app/search'
     | '/concordance/$book'
     | '/dictionary/$slug'
+    | '/doctrine/$slug'
     | '/encyclopedia/$slug'
     | '/precepts/$slug'
     | '/shows/$slug'
@@ -580,6 +603,7 @@ export interface FileRouteTypes {
     | '/classes/'
     | '/concordance/'
     | '/dictionary/'
+    | '/doctrine/'
     | '/encyclopedia/'
     | '/history/'
     | '/law/'
@@ -616,6 +640,7 @@ export interface RootRouteChildren {
   TruthShallMakeYouFreeRoute: typeof TruthShallMakeYouFreeRoute
   ConcordanceBookRoute: typeof ConcordanceBookRoute
   DictionarySlugRoute: typeof DictionarySlugRoute
+  DoctrineSlugRoute: typeof DoctrineSlugRoute
   EncyclopediaSlugRoute: typeof EncyclopediaSlugRoute
   PreceptsSlugRoute: typeof PreceptsSlugRoute
   ShowsSlugRoute: typeof ShowsSlugRoute
@@ -626,6 +651,7 @@ export interface RootRouteChildren {
   ClassesIndexRoute: typeof ClassesIndexRoute
   ConcordanceIndexRoute: typeof ConcordanceIndexRoute
   DictionaryIndexRoute: typeof DictionaryIndexRoute
+  DoctrineIndexRoute: typeof DoctrineIndexRoute
   EncyclopediaIndexRoute: typeof EncyclopediaIndexRoute
   HistoryIndexRoute: typeof HistoryIndexRoute
   LawIndexRoute: typeof LawIndexRoute
@@ -820,6 +846,20 @@ declare module '@tanstack/react-router' {
       path: '/dictionary/$slug'
       fullPath: '/dictionary/$slug'
       preLoaderRoute: typeof DictionarySlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/doctrine/': {
+      id: '/doctrine/'
+      path: '/doctrine'
+      fullPath: '/doctrine/'
+      preLoaderRoute: typeof DoctrineIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/doctrine/$slug': {
+      id: '/doctrine/$slug'
+      path: '/doctrine/$slug'
+      fullPath: '/doctrine/$slug'
+      preLoaderRoute: typeof DoctrineSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/encyclopedia/': {
@@ -1023,6 +1063,7 @@ const rootRouteChildren: RootRouteChildren = {
   TruthShallMakeYouFreeRoute: TruthShallMakeYouFreeRoute,
   ConcordanceBookRoute: ConcordanceBookRoute,
   DictionarySlugRoute: DictionarySlugRoute,
+  DoctrineSlugRoute: DoctrineSlugRoute,
   EncyclopediaSlugRoute: EncyclopediaSlugRoute,
   PreceptsSlugRoute: PreceptsSlugRoute,
   ShowsSlugRoute: ShowsSlugRoute,
@@ -1033,6 +1074,7 @@ const rootRouteChildren: RootRouteChildren = {
   ClassesIndexRoute: ClassesIndexRoute,
   ConcordanceIndexRoute: ConcordanceIndexRoute,
   DictionaryIndexRoute: DictionaryIndexRoute,
+  DoctrineIndexRoute: DoctrineIndexRoute,
   EncyclopediaIndexRoute: EncyclopediaIndexRoute,
   HistoryIndexRoute: HistoryIndexRoute,
   LawIndexRoute: LawIndexRoute,

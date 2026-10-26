@@ -1,0 +1,1 @@
+- Added the Doctrine index and answer pages, linked beside Precepts, with published KJV passages, verbatim class breakdowns, timed recording links and related subjects. Unpublished content offers Retry. Timed note links seek the existing recording embed.

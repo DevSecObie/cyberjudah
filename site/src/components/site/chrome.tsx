@@ -31,6 +31,7 @@ const GROUPS: NavGroup[] = [
     items: [
       { to: "/law", label: "The Law", blurb: "The handbook of Bible law, every law with its scripture." },
       { to: "/precepts", label: "Precepts", blurb: "Every subject scripture speaks to, A to Z." },
+      { to: "/doctrine", label: "Doctrine", blurb: "False doctrines answered from scripture and the classes." },
       { to: "/cases", label: "Case Studies", blurb: "The judgments, and those who kept the law and were blessed." },
     ],
   },
@@ -159,6 +160,7 @@ export function SiteFooter() {
             <li><Link to="/cases">Case Studies</Link></li>
             <li><Link to="/law">The Law</Link></li>
             <li><Link to="/precepts">Precepts</Link></li>
+            <li><Link to="/doctrine">Doctrine</Link></li>
             <li><Link to="/concordance">Concordance</Link></li>
           </ul>
         </div>

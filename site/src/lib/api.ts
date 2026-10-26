@@ -156,6 +156,13 @@ export type GlossaryEntry = {
 export type Glossary = { about: string; entries: GlossaryEntry[] };
 export type PreceptRow = { slug: string; title: string; refs: number; url: string };
 export type Precept = { slug: string; title: string; url: string; refs: ResolvedRef[] };
+export type DoctrineRow = { slug: string; name: string; claim: string; refs: number; url: string };
+export type DoctrineSense = { video: string; ts: string; t: number; teacher: string; text: string; note: string | null };
+export type DoctrineRelated = { slug: string; url: string; title?: string; name?: string; label?: string };
+export type DoctrineEntry = Omit<DoctrineRow, "refs"> & {
+  answers: { refs: ResolvedRef[]; sense: DoctrineSense[] }[];
+  related: { precepts: DoctrineRelated[]; cases: DoctrineRelated[]; topics: DoctrineRelated[] };
+};
 export type MergedCitation = { kind: string; label: string; url: string; verses: string[] };
 export type ConcordanceBookRow = { book: string; slug: string; testament: string; url: string; chapters: number; cited: number[]; citations: number };
 export type ConcordanceBook = ConcordanceBookRow & { chapterRows: { chapter: number; url: string; cited_by: MergedCitation[] }[] };
@@ -187,6 +194,8 @@ export const api = {
   law: (id: string) => getJson<LawSection>(`/api/laws/${id.toUpperCase()}.json`),
   precepts: () => getJson<PreceptRow[]>("/api/precepts/index.json"),
   precept: (slug: string) => getJson<Precept>(`/api/precepts/${slug}.json`),
+  doctrine: () => getJson<DoctrineRow[]>("/api/doctrine/index.json"),
+  doctrineEntry: (slug: string) => getJson<DoctrineEntry>(`/api/doctrine/${encodeURIComponent(slug)}.json`),
   concordanceIndex: () => getJson<ConcordanceBookRow[]>("/api/concordance/index.json"),
   concordanceBook: (slug: string) => getJson<ConcordanceBook>(`/api/concordance/${slug}.json`),
   encyclopedia: () => getJson<EncyclopediaRow[]>("/api/encyclopedia/index.json"),
