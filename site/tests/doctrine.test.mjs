@@ -66,9 +66,14 @@ test("Doctrine renders only the supplied claim, KJV including Apocrypha, verbati
   assert.deepEqual(fixture, before);
 });
 
-test("contents uses supplied labels and unique local anchors, and omits absent sections", () => {
+test("Markdown-style contents uses section and book links with unique anchors, and omits absent sections", () => {
   const html = renderToStaticMarkup(createElement(doctrine.DoctrineAnswers, { entry: fixture }));
-  assert.ok(html.includes('<details class="doctrine-toc"><summary>Contents</summary>'));
+  assert.ok(html.includes('<nav class="doctrine-toc" aria-label="Table of contents"><h2>Contents</h2>'));
+  assert.ok(!html.includes('<details class="doctrine-toc"'));
+  const contents = html.match(/<nav class="doctrine-toc"[^>]*>(.*?)<\/nav>/s)[1];
+  assert.ok(contents.includes('href="#doctrine-scriptures"'));
+  assert.ok(contents.includes('href="#doctrine-book-0"'));
+  assert.ok(!contents.includes('href="#doctrine-scripture-0"'));
   for (const [, id] of html.matchAll(/href="#([^"]+)"/g)) assert.ok(html.includes(`id="${id}"`), id);
   const ids = [...html.matchAll(/ id="([^"]+)"/g)].map(match => match[1]);
   assert.equal(ids.length, new Set(ids).size);
