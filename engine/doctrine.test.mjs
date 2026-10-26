@@ -116,3 +116,27 @@ test("data/doctrine.json resolves against the merged passes", () => {
   assert.ok(doctrines.length > 0);
   for (const d of doctrines) assert.ok(d.answers.every((a) => a.text && a.video && a.ts));
 });
+
+test("a doctrine's books are pages classes read or books a pass names", () => {
+  const pass = { video: "aaaaaaaaaaa", title: "T", date: "2026-01-01", teacher: "Bishop Nathanyel", passages: [{ opened: "Micah 5:3", ts: "1:00", sense: [{ at: "3", text: "One.\n\nThe Two Babylons shows it, and Harper’s Bible Dictionary too." }] }] };
+  const deps = {
+    readPass: (v) => (v === pass.video ? pass : null), hasChapter: () => true, verseCount: () => 9,
+    readBook: (slug) => (slug === "two-babylons" ? { book: { title: "The Two Babylons", author: "Alexander Hislop", year: 1871 }, pages: new Set(["1|93", "1|94"]), reads: [{ video: "bbbbbbbbbbb", vol: 1, page: 93, t: 60, ts: "1:00", hits: 2 }, { video: "ccccccccccc", page: 93, t: 90, ts: "1:30", hits: 9 }] } : null),
+    bookList: Object.assign(new Map([["Harper's Bible Dictionary", { author: "", forms: ["harper's bible dictionary"] }], ["Dum Diversas", { author: "Pope Nicholas V, 1452", forms: ["dum diversas"] }]]), { library: [] }),
+  };
+  const one = (books) => resolveDoctrine({ doctrines: [{ slug: "x", name: "X", claim: "Y", books, answers: [{ video: pass.video, opened: "Micah 5:3", at: "v3", paras: ["One."] }] }] }, deps);
+  const page = one([{ book: "two-babylons", pages: [93] }]);
+  assert.deepEqual(page.problems, []);
+  assert.deepEqual(page.doctrines[0].books[0].pages[0].reads.map((r) => r.video), ["ccccccccccc", "bbbbbbbbbbb"]);
+  assert.equal(page.doctrines[0].books[0].pages[0].url, "/books/two-babylons/p/1-93");
+  const cited = one([{ title: "Harper's Bible Dictionary", video: pass.video, opened: "Micah 5:3", at: "v3" }]);
+  assert.deepEqual(cited.problems, []);
+  assert.equal(cited.doctrines[0].books[0].said.text, "The Two Babylons shows it, and Harper’s Bible Dictionary too.");
+  assert.equal(cited.doctrines[0].books[0].said.teacher, "Bishop Nathanyel");
+  // A page no class read, a page the book lacks, a book not in the library, a book not on the list, one the block never names.
+  assert.equal(one([{ book: "two-babylons", pages: [94] }]).problems.length, 1);
+  assert.equal(one([{ book: "two-babylons", pages: [500] }]).problems.length, 1);
+  assert.equal(one([{ book: "no-such-book", pages: [1] }]).problems.length, 1);
+  assert.equal(one([{ title: "Some Other Book", video: pass.video, opened: "Micah 5:3", at: "v3" }]).problems.length, 1);
+  assert.equal(one([{ title: "Dum Diversas", video: pass.video, opened: "Micah 5:3", at: "v3" }]).problems.length, 1);
+});

@@ -242,10 +242,15 @@ for (const d of doctrine.doctrines) writeJson(path.join(API, "doctrine", `${d.sl
     const note = noteByVideo.get(p.video);
     return { ...p, title: note?.title || p.title, date: note?.date || p.date, note: note ? `${note.url}?t=${p.t}` : null };
   }) })),
+  // The books classes read from or named against it, each tied to the class moment.
+  books: d.books.map((b) => {
+    const at = (m) => { const note = noteByVideo.get(m.video); return { ...m, title: note?.title || m.title, date: note?.date || m.date, note: note ? `${note.url}?t=${m.t}` : null }; };
+    return b.pages ? { ...b, pages: b.pages.map((pg) => ({ ...pg, reads: pg.reads.map(at) })) } : { ...b, said: { ...at(b.said), ref: resolveRef(b.said.ref) } };
+  }),
   // The screens read all three kinds; cases and topics stay empty until entries name them.
   related: { precepts: (d.related.precepts ?? []).map((slug) => { const p = L.findPrecept(slug); return p ? { slug: p.slug, title: p.title, url: preceptUrl(p) } : null; }).filter(Boolean), cases: [], topics: [] },
 });
-writeJson(path.join(API, "doctrine", "index.json"), doctrine.doctrines.map((d) => ({ slug: d.slug, name: d.name, claim: d.claim, refs: d.answers.length, scriptures: d.scriptures.length, url: doctrineUrl(d) })));
+writeJson(path.join(API, "doctrine", "index.json"), doctrine.doctrines.map((d) => ({ slug: d.slug, name: d.name, claim: d.claim, refs: d.answers.length, scriptures: d.scriptures.length, books: d.books.length, url: doctrineUrl(d) })));
 const seeAlsoEncyclopedia = (hay) => {
   const h = hay.toLowerCase();
   return L.lexicon.filter((l) => l.terms.some((t) => new RegExp(`\\b${t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`).test(h))).map((l) => L.noteByTitle.get(l.topic.toLowerCase())).filter(Boolean).map((n) => ({ title: n.title, url: n.url }));

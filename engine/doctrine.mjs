@@ -91,7 +91,7 @@ function resolveQuote(a, at, { readTranscript, hasChapter, teacherOf, problems }
  * keeps only the answers that resolved, and every pointer that did not is a problem, so the
  * build can stop on it.
  */
-export function resolveDoctrine(doc, { readPass, readTranscript = () => null, hasChapter, teacherOf = () => "", verseCount = () => 0, classUses = () => true }) {
+export function resolveDoctrine(doc, { readPass, readTranscript = () => null, hasChapter, teacherOf = () => "", verseCount = () => 0, classUses = () => true, readBook = () => null, bookList = new Map() }) {
   const problems = [];
   const seen = new Set();
   const doctrines = (doc.doctrines ?? []).map((d, i) => {
@@ -141,9 +141,69 @@ export function resolveDoctrine(doc, { readPass, readTranscript = () => null, ha
       if (unused.length) { problems.push(`${where}: scripture "${s}": no class read, opened or gave verse ${unused.join(", ")}`); continue; }
       scriptures.push(ref);
     }
-    return { slug: d.slug, name: d.name, claim: d.claim, answers, scriptures, related: d.related ?? {} };
+    const books = resolveBooks(d.books ?? [], where, { readPass, readTranscript, teacherOf, readBook, bookList, problems });
+    return { slug: d.slug, name: d.name, claim: d.claim, answers, scriptures, books, related: d.related ?? {} };
   });
   return { doctrines, problems };
+}
+
+/**
+ * The books the classes brought against a doctrine. Two kinds of entry:
+ * - { book, vol?, pages: [n] }: pages of a library book (data/library/<book>) that classes read
+ *   from; every page must have a class reading in the book's reads.json.
+ * - { title, video, opened, at }: a book a teacher named in a merged pass; a paragraph of that
+ *   block must name it by one of its forms in data/books.tsv, and that paragraph is the class's word.
+ * The author comes only from books.tsv or the library's book.json.
+ */
+function resolveBooks(list, where, { readPass, readTranscript, teacherOf, readBook, bookList, problems }) {
+  const out = [];
+  const libraryBy = new Map();
+  const moment = (video, t, ts) => {
+    const tr = readTranscript(video);
+    return { video, t, ts, teacher: teacherOf(video) || "", title: tr?.cleanTitle || tr?.title || "", date: tr?.date || "" };
+  };
+  for (const [j, b] of list.entries()) {
+    if (b.book !== undefined) {
+      const at = `${where}, book ${j + 1} (${b.book})`;
+      const lib = readBook(b.book);
+      if (!lib) { problems.push(`${at}: no such book in data/library`); continue; }
+      const vol = b.vol ?? 1;
+      if (!(b.pages ?? []).length) { problems.push(`${at}: no pages`); continue; }
+      const pages = [];
+      for (const page of b.pages) {
+        if (!lib.pages.has(`${vol}|${page}`)) { problems.push(`${at}: the book has no page ${vol}:${page}`); continue; }
+        const reads = lib.reads.filter((r) => (r.vol ?? 1) === vol && r.page === page);
+        if (!reads.length) { problems.push(`${at}: no class read page ${vol}:${page}`); continue; }
+        // The classes that dwelt longest on the page first, a class uploaded twice only once.
+        const top = [], names = new Set();
+        for (const r of [...reads].sort((x, y) => (y.hits ?? 0) - (x.hits ?? 0) || x.video.localeCompare(y.video))) {
+          const m = moment(r.video, r.t, r.ts), name = words(m.title).join(" ");
+          if (top.length >= 3 || (name && names.has(name))) continue;
+          names.add(name); top.push(m);
+        }
+        pages.push({ vol, page, url: `/books/${b.book}/p/${vol}-${page}`, classes: new Set(reads.map((r) => r.video)).size, reads: top });
+      }
+      if (pages.length) out.push({ title: lib.book.title, author: lib.book.author ?? "", year: lib.book.year ?? null, book: b.book, url: `/books/${b.book}`, pages });
+      continue;
+    }
+    const at = `${where}, book ${j + 1} (${b.title} in ${b.video} ${b.opened} ${b.at})`;
+    const known = bookList.get(b.title);
+    if (!known) { problems.push(`${at}: not a book in data/books.tsv`); continue; }
+    const pass = readPass(b.video);
+    if (!pass) { problems.push(`${at}: no precept pass for this class`); continue; }
+    const passage = (pass.passages ?? []).filter((p) => p.opened === b.opened).find((p) => block(p, b.at));
+    if (!passage) { problems.push(`${at}: the pass has no such block`); continue; }
+    const { text, ts = passage.ts } = block(passage, b.at);
+    const forms = known.forms.map(words);
+    const paras = text.split("\n\n").filter((p) => { const w = words(p); return forms.some((f) => f.length && contains(w, f)); });
+    if (!paras.length) { problems.push(`${at}: no paragraph of the block names the book`); continue; }
+    if (!libraryBy.size) for (const [slug, title] of bookList.library ?? []) libraryBy.set(title, slug);
+    const slug = libraryBy.get(b.title) ?? null;
+    const lib = slug ? readBook(slug)?.book : null;
+    out.push({ title: b.title, author: lib?.author ?? known.author, year: lib?.year ?? null, book: slug, url: slug ? `/books/${slug}` : null,
+      said: { video: b.video, ts, t: hmsToSeconds(ts), teacher: passage.teacher || pass.teacher || "", title: pass.title ?? "", date: pass.date ?? "", ref: blockRef(b.opened, b.at), text: paras.join("\n\n") } });
+  }
+  return out;
 }
 
 /** Whether a paragraph quotes a verse: five of its words in a row. */
@@ -308,7 +368,32 @@ export function loadDoctrine(ROOT) {
   };
   const chapterText = (book, chapter) => { verseCount(book, chapter); return versesIn.get(book)?.[String(chapter)] ?? []; };
   const verseText = (book, chapter, v) => { verseCount(book, chapter); return versesIn.get(book)?.[String(chapter)]?.[v - 1] ?? ""; };
-  const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "", verseCount, classUses: (book, chapter, v) => used.has(`${book}|${chapter}|${v}`) });
+  // The books: data/books.tsv (title, author, kind, search forms) and the library's scanned books.
+  const bookList = new Map();
+  const tsv = path.join(ROOT, "data", "books.tsv");
+  if (fs.existsSync(tsv)) for (const l of fs.readFileSync(tsv, "utf8").split("\n")) {
+    if (!l.trim() || l.startsWith("#")) continue;
+    const [title, author = "", kind = "", forms = ""] = l.split("\t");
+    if (title !== "title") bookList.set(title, { author, kind, forms: forms.split(";").filter(Boolean) });
+  }
+  const LIB = path.join(ROOT, "data", "library");
+  const libs = new Map();
+  const readBook = (slug) => {
+    if (libs.has(slug)) return libs.get(slug);
+    const dir = path.join(LIB, slug);
+    let lib = null;
+    if (/^[a-z0-9-]+$/.test(slug) && fs.existsSync(path.join(dir, "book.json"))) {
+      const book = JSON.parse(fs.readFileSync(path.join(dir, "book.json"), "utf8"));
+      const pages = new Set(fs.readdirSync(dir).filter((f) => f === "pages.json" || /^pages-v\d+\.json$/.test(f)).flatMap((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"))).map((p) => `${p.vol ?? 1}|${p.page}`));
+      const reads = fs.existsSync(path.join(dir, "reads.json")) ? JSON.parse(fs.readFileSync(path.join(dir, "reads.json"), "utf8")).reads : [];
+      lib = { book, pages, reads };
+    }
+    libs.set(slug, lib);
+    return lib;
+  };
+  // A named book that is also in the library links to it.
+  bookList.library = fs.existsSync(LIB) ? fs.readdirSync(LIB).filter((s) => fs.existsSync(path.join(LIB, s, "book.json"))).map((s) => [s, JSON.parse(fs.readFileSync(path.join(LIB, s, "book.json"), "utf8")).title]) : [];
+  const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "", verseCount, classUses: (book, chapter, v) => used.has(`${book}|${chapter}|${v}`), readBook, bookList });
   for (const d of doctrines) {
     const terms = (doc.doctrines.find((x) => x.slug === d.slug)?.terms) ?? "";
     const taken = new Set(d.answers.flatMap((a) => a.text.split("\n\n")));
