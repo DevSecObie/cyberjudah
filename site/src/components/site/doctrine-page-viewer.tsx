@@ -7,7 +7,8 @@ import "./doctrine-page-viewer.css";
 export function DoctrinePageViewer({ page, title, onClose }: { page: DoctrineBookPage; title: string; onClose: () => void }) {
   const trigger = useRef(typeof document === "undefined" ? null : document.activeElement as HTMLElement | null);
   return <Dialog.Root open onOpenChange={(open) => { if (!open) onClose(); }}><Dialog.Portal>
-    <Dialog.Content className="dpv" aria-describedby={undefined} onCloseAutoFocus={(e) => { e.preventDefault(); trigger.current?.focus({ preventScroll: true }); }}>
+    <Dialog.Overlay className="dpv__overlay" />
+    <Dialog.Content className="dpv" data-lenis-prevent aria-describedby={undefined} onCloseAutoFocus={(e) => { e.preventDefault(); trigger.current?.focus({ preventScroll: true }); }}>
       <PageScan page={page} title={title} onClose={onClose} />
     </Dialog.Content>
   </Dialog.Portal></Dialog.Root>;

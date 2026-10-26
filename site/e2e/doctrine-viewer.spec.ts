@@ -37,9 +37,23 @@ test("OCR quotes open a full-screen page with all marks aligned through zoom, pi
   await expect(quotes).toHaveJSProperty("textContent", scan.quotes![0].text);
   await expect(page.getByText(scan.quotes![1].text, { exact: true })).toHaveJSProperty("textContent", scan.quotes![1].text);
   const trigger = page.getByRole("button", { name: "See it on the page", exact: true }).nth(1);
+  await trigger.scrollIntoViewIfNeeded();
+  const backgroundY = await page.evaluate(() => scrollY);
   await trigger.click();
   const dialog = page.getByRole("dialog");
   await expect(dialog).toBeVisible();
+  await expect.poll(() => page.evaluate(() => getComputedStyle(document.body).overflow)).toBe("hidden");
+  await expect(dialog).toHaveAttribute("data-lenis-prevent");
+  await expect.poll(() => dialog.evaluate((el) => {
+    const box = el.getBoundingClientRect();
+    return box.width === innerWidth && box.height === innerHeight
+      && [...el.children].every((child) => child.getBoundingClientRect().width <= box.width);
+  })).toBe(true);
+  const bar = (await dialog.locator(".dpv__bar").boundingBox())!;
+  await page.mouse.move(bar.x + bar.width / 2, bar.y + bar.height / 2);
+  await page.mouse.wheel(0, 200);
+  await page.evaluate(() => new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve))));
+  expect(await page.evaluate(() => scrollY)).toBe(backgroundY);
   await expect(dialog.getByRole("img")).toHaveJSProperty("naturalWidth", 1000);
   await expect(dialog.getByRole("link", { name: "Open in the book", exact: true })).toHaveAttribute("href", scan.url);
   await aligned(page);
@@ -57,6 +71,10 @@ test("OCR quotes open a full-screen page with all marks aligned through zoom, pi
   await page.mouse.move(area.x + area.width / 2, area.y + area.height / 2 - 40, { steps: 5 });
   await page.mouse.up();
   await expect.poll(() => region.evaluate((el) => el.scrollTop)).toBeGreaterThan(before);
+  const beforeWheel = await region.evaluate((el) => el.scrollTop);
+  await page.mouse.wheel(0, 60);
+  await expect.poll(() => region.evaluate((el) => el.scrollTop)).toBeGreaterThan(beforeWheel);
+  expect(await page.evaluate(() => scrollY)).toBe(backgroundY);
   const cdp = await page.context().newCDPSession(page);
   await cdp.send("Emulation.setTouchEmulationEnabled", { enabled: true });
   const touch = (dx: number) => [{ x: area.x + area.width / 2 - dx, y: area.y + area.height / 2, id: 1 }, { x: area.x + area.width / 2 + dx, y: area.y + area.height / 2, id: 2 }];
@@ -72,6 +90,7 @@ test("OCR quotes open a full-screen page with all marks aligned through zoom, pi
   await page.keyboard.press("Escape");
   await expect(dialog).toHaveCount(0);
   await expect(trigger).toBeFocused();
+  expect(await page.evaluate(() => scrollY)).toBe(backgroundY);
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
 });
 
