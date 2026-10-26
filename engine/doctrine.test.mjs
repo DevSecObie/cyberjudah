@@ -25,7 +25,7 @@ test("references split into book, chapter and verses", () => {
 });
 
 test("an answer takes the teacher, moment and exact paragraphs of the pass", () => {
-  const { doctrines, problems } = resolveDoctrine(doc([{ video: pass.video, opened: "Micah 5:3", at: "Hosea 1:10-11", paras: ["Only Israel."] }]), readPass, hasChapter);
+  const { doctrines, problems } = resolveDoctrine(doc([{ video: pass.video, opened: "Micah 5:3", at: "Hosea 1:10-11", paras: ["Only Israel."] }]), { readPass, hasChapter });
   assert.deepEqual(problems, []);
   const [a] = doctrines[0].answers;
   assert.equal(a.text, "Only Israel.");
@@ -36,13 +36,13 @@ test("an answer takes the teacher, moment and exact paragraphs of the pass", () 
 });
 
 test("a precept with its own timestamp keeps it", () => {
-  const { doctrines } = resolveDoctrine(doc([{ video: pass.video, opened: "Micah 5:3", at: "Hosea 3:5", paras: ["Own moment."] }]), readPass, hasChapter);
+  const { doctrines } = resolveDoctrine(doc([{ video: pass.video, opened: "Micah 5:3", at: "Hosea 3:5", paras: ["Own moment."] }]), { readPass, hasChapter });
   assert.equal(doctrines[0].answers[0].ts, "1:20:00");
   assert.equal(doctrines[0].answers[0].t, 4800);
 });
 
 test("a verse block answers with the opened chapter and that verse", () => {
-  const { doctrines } = resolveDoctrine(doc([{ video: pass.video, opened: "Micah 5:3", at: "v3", paras: ["One.", "Two."] }]), readPass, hasChapter);
+  const { doctrines } = resolveDoctrine(doc([{ video: pass.video, opened: "Micah 5:3", at: "v3", paras: ["One.", "Two."] }]), { readPass, hasChapter });
   assert.equal(doctrines[0].answers[0].text, "One.\n\nTwo.");
   assert.deepEqual(doctrines[0].answers[0].ref, { book: "Micah", chapter: 5, verses: "3" });
 });
@@ -53,7 +53,7 @@ test("pointers that do not resolve are problems, never guessed", () => {
     { video: pass.video, opened: "Micah 6:1", at: "v3", paras: ["One."] },
     { video: pass.video, opened: "Micah 5:3", at: "Isaiah 1:1", paras: ["One."] },
     { video: pass.video, opened: "Micah 5:3", at: "v3", paras: ["Three."] },
-  ]), readPass, hasChapter);
+  ]), { readPass, hasChapter });
   // One each for the class with no pass, the passage and the precept it lacks; two for the missing
   // paragraph (no match, so nothing picked); and the doctrine left with no answers.
   assert.equal(problems.length, 6);

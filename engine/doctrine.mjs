@@ -36,12 +36,51 @@ function block(passage, at) {
   return p ? { text: p.why, ts: p.ts } : null;
 }
 
+// Words as the captions give them: lower case, no punctuation, a bleep ("[ __ ]", written "…") one word.
+const BLEEP = "\u0000";
+export function words(text) {
+  return String(text).toLowerCase().replace(/\[\s*_+\s*\]|…/g, ` ${BLEEP} `).replace(/[’']/g, "").replace(/[^a-z0-9\u0000]+/g, " ").trim().split(" ").filter(Boolean);
+}
+const contains = (hay, needle) => {
+  outer: for (let i = 0; i + needle.length <= hay.length; i++) { for (let k = 0; k < needle.length; k++) if (hay[i + k] !== needle[k]) continue outer; return true; }
+  return false;
+};
+
+/**
+ * A quotation straight from a class transcript, for a class no pass covers yet: { video, from, to,
+ * ref, text, teacher? }. The text is the teacher's words punctuated; its words must run, in order and
+ * unbroken, through the captions between `from` and `to`, the scripture's book must be named in or
+ * just before that stretch, and a teacher must be the one the records give or be named in the class.
+ */
+function resolveQuote(a, at, { readTranscript, hasChapter, teacherOf, problems }) {
+  const t = readTranscript(a.video);
+  if (!t) { problems.push(`${at}: no transcript for this class`); return null; }
+  const from = hmsToSeconds(a.from), to = hmsToSeconds(a.to);
+  if (!(to >= from)) { problems.push(`${at}: "to" must not come before "from"`); return null; }
+  const ref = splitRef(a.ref);
+  if (!ref || !hasChapter(ref.book, ref.chapter)) { problems.push(`${at}: "${a.ref}" is not a KJV or Apocrypha chapter`); return null; }
+  const segs = t.segments ?? [];
+  const span = segs.filter((s) => s[0] >= from - 1 && s[0] <= to + 1).map((s) => s[s.length - 1]).join(" ");
+  if (!a.text || !contains(words(span), words(a.text))) { problems.push(`${at}: the text is not word for word what the captions say between ${a.from} and ${a.to}`); return null; }
+  const near = segs.filter((s) => s[0] >= from - 180 && s[0] <= to + 60).map((s) => s[s.length - 1]).join(" ");
+  const bookWords = words(ref.book === "Sirach" ? "Ecclesiasticus" : ref.book).filter((w) => !/^\d+$/.test(w));
+  if (!contains(words(near), bookWords)) { problems.push(`${at}: ${ref.book} is not named near this moment`); return null; }
+  const known = teacherOf(a.video) || "";
+  let teacher = known;
+  if (a.teacher && a.teacher !== known) {
+    const name = words(a.teacher).slice(1);
+    if (!name.length || !contains(words(segs.map((s) => s[s.length - 1]).join(" ")), name)) { problems.push(`${at}: teacher "${a.teacher}" is not in the class records or named in the class`); return null; }
+    teacher = a.teacher;
+  }
+  return { ref, video: a.video, ts: a.from, t: from, teacher, title: t.cleanTitle || t.title || "", date: t.date || "", text: a.text };
+}
+
 /**
  * Resolves data/doctrine.json against the passes. Returns { doctrines, problems }: a doctrine
  * keeps only the answers that resolved, and every pointer that did not is a problem, so the
  * build can stop on it.
  */
-export function resolveDoctrine(doc, readPass, hasChapter) {
+export function resolveDoctrine(doc, { readPass, readTranscript = () => null, hasChapter, teacherOf = () => "" }) {
   const problems = [];
   const seen = new Set();
   const doctrines = (doc.doctrines ?? []).map((d, i) => {
@@ -52,6 +91,11 @@ export function resolveDoctrine(doc, readPass, hasChapter) {
     if (!d.name || !d.claim) problems.push(`${where}: needs a name and a claim`);
     const answers = [];
     for (const [j, a] of (d.answers ?? []).entries()) {
+      if (a.from !== undefined) {
+        const r = resolveQuote(a, `${where}, answer ${j + 1} (${a.video} ${a.from})`, { readTranscript, hasChapter, teacherOf, problems });
+        if (r) answers.push(r);
+        continue;
+      }
       const at = `${where}, answer ${j + 1} (${a.video} ${a.opened} ${a.at})`;
       const pass = readPass(a.video);
       if (!pass) { problems.push(`${at}: no precept pass for this class`); continue; }
@@ -92,6 +136,24 @@ export function loadDoctrine(ROOT) {
   };
   const chaptersOf = new Map(JSON.parse(fs.readFileSync(path.join(ROOT, "data", "bible", "index.json"), "utf8")).map((b) => [b.book, b.chapters]));
   const hasChapter = (book, chapter) => chapter >= 1 && chapter <= (chaptersOf.get(book) ?? 0);
-  const { doctrines, problems } = resolveDoctrine(doc, readPass, hasChapter);
+  const readTranscript = (video) => {
+    if (!/^[A-Za-z0-9_-]{11}$/.test(video)) return null;
+    for (const feed of ["blog", "history", "captains"]) {
+      const f = path.join(ROOT, feed, "transcripts", `${video}.json`);
+      if (fs.existsSync(f)) return JSON.parse(fs.readFileSync(f, "utf8"));
+    }
+    return null;
+  };
+  // Who taught a class by the records: an admin correction first, then the class outlines.
+  const teachers = new Map();
+  for (const file of ["r2-class-teachers.tsv", "class-teachers.tsv"]) {
+    const f = path.join(ROOT, "data", "sources", file);
+    if (!fs.existsSync(f)) continue;
+    const lines = fs.readFileSync(f, "utf8").split("\n").filter((l) => l && !l.startsWith("#"));
+    const head = lines.shift().split("\t");
+    const v = head.indexOf("video"), te = head.indexOf("teacher");
+    for (const l of lines) { const c = l.split("\t"); if (c[v] && c[te]) teachers.set(c[v], c[te]); }
+  }
+  const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "" });
   return { title: doc.title ?? "Doctrine", intro: doc.intro ?? "", doctrines, problems };
 }
