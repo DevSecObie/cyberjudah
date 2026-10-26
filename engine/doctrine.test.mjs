@@ -77,6 +77,15 @@ test("a quotation names its own teacher only when the class names him", () => {
   assert.equal(quote({ text: "But Israel does not know", teacher: "Captain Gideon" }).problems.length, 2);
 });
 
+test("a doctrine's scriptures are verses the classes used, never more", () => {
+  const deps = { readPass, hasChapter, verseCount: () => 20, classUses: (book, chapter, v) => book === "Hosea" && v < 12 };
+  const one = (scriptures) => resolveDoctrine({ doctrines: [{ slug: "x", name: "X", claim: "Y", scriptures, answers: [{ video: pass.video, opened: "Micah 5:3", at: "v3", paras: ["One."] }] }] }, deps);
+  assert.deepEqual(one(["Hosea 1:10-11"]).doctrines[0].scriptures, [{ book: "Hosea", chapter: 1, verses: "10-11" }]);
+  assert.equal(one(["Hosea 1:10-12"]).problems.length, 1);
+  assert.equal(one(["Hosea 1:21"]).problems.length, 1);
+  assert.equal(one(["Micah 5:3"]).problems.length, 1);
+});
+
 test("data/doctrine.json resolves against the merged passes", () => {
   const { doctrines, problems } = loadDoctrine(ROOT);
   assert.deepEqual(problems, []);

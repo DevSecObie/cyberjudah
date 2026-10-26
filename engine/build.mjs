@@ -238,9 +238,10 @@ for (const d of doctrine.doctrines) writeJson(path.join(API, "doctrine", `${d.sl
     const note = noteByVideo.get(a.video);
     return { refs: [resolveRef(a.ref)], sense: [{ video: a.video, ts: a.ts, t: a.t, teacher: a.teacher, title: note?.title || a.title, date: note?.date || a.date, text: a.text, note: note ? `${note.url}?t=${a.t}` : null }] };
   }),
+  scriptures: d.scriptures.map(resolveRef),
   related: { precepts: (d.related.precepts ?? []).map((slug) => { const p = L.findPrecept(slug); return p ? { slug: p.slug, title: p.title, url: preceptUrl(p) } : null; }).filter(Boolean) },
 });
-writeJson(path.join(API, "doctrine", "index.json"), doctrine.doctrines.map((d) => ({ slug: d.slug, name: d.name, claim: d.claim, refs: d.answers.length, url: doctrineUrl(d) })));
+writeJson(path.join(API, "doctrine", "index.json"), doctrine.doctrines.map((d) => ({ slug: d.slug, name: d.name, claim: d.claim, refs: d.answers.length, scriptures: d.scriptures.length, url: doctrineUrl(d) })));
 const seeAlsoEncyclopedia = (hay) => {
   const h = hay.toLowerCase();
   return L.lexicon.filter((l) => l.terms.some((t) => new RegExp(`\\b${t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`).test(h))).map((l) => L.noteByTitle.get(l.topic.toLowerCase())).filter(Boolean).map((n) => ({ title: n.title, url: n.url }));

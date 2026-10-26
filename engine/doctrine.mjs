@@ -20,6 +20,17 @@ export function splitRef(ref) {
   return { book: BOOK_ALIAS[m[1]] ?? m[1], chapter: Number(m[2]), verses: m[3].replace(/\s+/g, "") };
 }
 
+/** "3-5,9" → [3, 4, 5, 9]. */
+export function verseList(verses) {
+  const out = [];
+  for (const part of String(verses).split(",")) {
+    const [a, b = a] = part.split("-").map(Number);
+    if (!(a >= 1 && b >= a)) return [];
+    for (let v = a; v <= b; v++) out.push(v);
+  }
+  return out;
+}
+
 /** The scripture a pass block explains: a precept's own reference, or the verse(s) "v3-4" of the opened passage. */
 export function blockRef(opened, at) {
   if (/^v[\d,\-]+$/.test(at)) {
@@ -80,7 +91,7 @@ function resolveQuote(a, at, { readTranscript, hasChapter, teacherOf, problems }
  * keeps only the answers that resolved, and every pointer that did not is a problem, so the
  * build can stop on it.
  */
-export function resolveDoctrine(doc, { readPass, readTranscript = () => null, hasChapter, teacherOf = () => "" }) {
+export function resolveDoctrine(doc, { readPass, readTranscript = () => null, hasChapter, teacherOf = () => "", verseCount = () => 0, classUses = () => true }) {
   const problems = [];
   const seen = new Set();
   const doctrines = (doc.doctrines ?? []).map((d, i) => {
@@ -119,7 +130,18 @@ export function resolveDoctrine(doc, { readPass, readTranscript = () => null, ha
       answers.push({ ref, video: a.video, ts, t: hmsToSeconds(ts), teacher, title: pass.title ?? "", date: pass.date ?? "", text: picked.join("\n\n") });
     }
     if (!answers.length) problems.push(`${where}: no answers`);
-    return { slug: d.slug, name: d.name, claim: d.claim, answers, related: d.related ?? {} };
+    // The scriptures that answer it: each verse one the classes themselves read, opened or gave as a precept.
+    const scriptures = [];
+    for (const s of d.scriptures ?? []) {
+      const ref = splitRef(s);
+      if (!ref || !hasChapter(ref.book, ref.chapter)) { problems.push(`${where}: scripture "${s}" is not a KJV or Apocrypha chapter`); continue; }
+      const vs = verseList(ref.verses);
+      if (!vs.length || vs.some((v) => v < 1 || v > verseCount(ref.book, ref.chapter))) { problems.push(`${where}: scripture "${s}" names a verse the chapter does not have`); continue; }
+      const unused = vs.filter((v) => !classUses(ref.book, ref.chapter, v));
+      if (unused.length) { problems.push(`${where}: scripture "${s}": no class read, opened or gave verse ${unused.join(", ")}`); continue; }
+      scriptures.push(ref);
+    }
+    return { slug: d.slug, name: d.name, claim: d.claim, answers, scriptures, related: d.related ?? {} };
   });
   return { doctrines, problems };
 }
@@ -134,7 +156,8 @@ export function loadDoctrine(ROOT) {
     const f = path.join(passDir, `${video}.json`);
     return /^[A-Za-z0-9_-]{11}$/.test(video) && fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : null;
   };
-  const chaptersOf = new Map(JSON.parse(fs.readFileSync(path.join(ROOT, "data", "bible", "index.json"), "utf8")).map((b) => [b.book, b.chapters]));
+  const index = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "bible", "index.json"), "utf8"));
+  const chaptersOf = new Map(index.map((b) => [b.book, b.chapters]));
   const hasChapter = (book, chapter) => chapter >= 1 && chapter <= (chaptersOf.get(book) ?? 0);
   const readTranscript = (video) => {
     if (!/^[A-Za-z0-9_-]{11}$/.test(video)) return null;
@@ -154,6 +177,32 @@ export function loadDoctrine(ROOT) {
     const v = head.indexOf("video"), te = head.indexOf("teacher");
     for (const l of lines) { const c = l.split("\t"); if (c[v] && c[te]) teachers.set(c[v], c[te]); }
   }
-  const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "" });
+  // Every verse the classes used: the passages they opened, the verses they explained and the
+  // precepts they gave in the merged passes, and the scriptures of the precept topics.
+  const used = new Set();
+  const use = (r) => { if (r) for (const v of verseList(r.verses)) used.add(`${r.book}|${r.chapter}|${v}`); };
+  for (const f of fs.readdirSync(passDir).filter((f) => f.endsWith(".json"))) {
+    const pass = JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8"));
+    for (const p of pass.passages ?? []) {
+      const o = splitRef(p.opened); use(o);
+      for (const s of p.sense ?? []) if (o) use({ book: o.book, chapter: o.chapter, verses: s.at });
+      for (const q of p.precepts ?? []) use(splitRef(q.ref));
+    }
+  }
+  const topics = path.join(ROOT, "data", "precepts.json");
+  if (fs.existsSync(topics)) for (const t of JSON.parse(fs.readFileSync(topics, "utf8")).topics ?? []) for (const r of t.refs ?? []) use({ ...r, book: BOOK_ALIAS[r.book] ?? r.book });
+  // And every verse read aloud in a class, as the transcripts place the readings (data/precepts/readings).
+  const readDir = path.join(ROOT, "data", "precepts", "readings");
+  for (const e of index) {
+    const f = path.join(readDir, `${e.slug}.json`);
+    if (!fs.existsSync(f)) continue;
+    for (const [ch, verses] of Object.entries(JSON.parse(fs.readFileSync(f, "utf8")))) for (const v of Object.keys(verses)) used.add(`${e.book}|${ch}|${v}`);
+  }
+  const versesIn = new Map();
+  const verseCount = (book, chapter) => {
+    if (!versesIn.has(book)) { const e = index.find((b) => b.book === book); versesIn.set(book, e ? JSON.parse(fs.readFileSync(path.join(ROOT, "data", "bible", `${e.slug}.json`), "utf8")).chapters : {}); }
+    return versesIn.get(book)[String(chapter)]?.length ?? 0;
+  };
+  const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "", verseCount, classUses: (book, chapter, v) => used.has(`${book}|${chapter}|${v}`) });
   return { title: doc.title ?? "Doctrine", intro: doc.intro ?? "", doctrines, problems };
 }
