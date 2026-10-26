@@ -351,12 +351,15 @@ const namedInNotes = new Map(); // person id -> [{ title, url, kind, collection,
 for (const n of notes) {
   if (n.kind === "study" || n.kind === "encyclopedia") continue;
   const seen = new Set();
-  for (const para of (n.body ?? "").split(/\n\s*\n/)) {
+  // A blank line ends a paragraph, and so does a blank quoted line between two quoted verses.
+  for (const para of (n.body ?? "").split(/\n[\s>]*\n/)) {
+    // A reference's own label ("John 1:6") is not a mention of the person.
+    const words = para.replace(/\[[^\]]*\d[^\]]*\]\(\/bible\/[^)]*\)/g, " ");
     for (const [, label, sl, ch, anchor] of para.matchAll(/\[([^\]]*)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)/g)) {
       const span = /:([\d,\-]+)$/.exec(label.trim());
       for (const v of span ? versesOf(span[1]) : anchor ? [+anchor] : []) {
         for (const id of namedIn.get(`${sl}|${ch}`)?.[v] ?? []) {
-          if (seen.has(id) || !nameTest.get(id).some((re) => re.test(para))) continue;
+          if (seen.has(id) || !nameTest.get(id).some((re) => re.test(words))) continue;
           seen.add(id);
           if (!namedInNotes.has(id)) namedInNotes.set(id, []);
           namedInNotes.get(id).push({ title: n.title, url: n.url, kind: n.kind, collection: n.collection || "", date: n.date ?? null, verse: `${bySlugName[sl]} ${ch}:${v}`, verseUrl: `/bible/${sl}/${ch}#v${v}` });
