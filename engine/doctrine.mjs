@@ -154,6 +154,44 @@ function quotes(text, verse) {
   return false;
 }
 
+/**
+ * A teacher's paragraph with the scripture it recites set aside: each quotation of five words or more
+ * that runs through verses of this chapter becomes their reference, "(Job 3:17)", named once. Returns ""
+ * when fewer than ten of the teacher's own words are left.
+ */
+const esc = (x) => x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+export function explanation(text, book, chapter, verses) {
+  const flat = [];
+  verses.forEach((t, i) => { for (const w of words(t)) flat.push([w, i + 1]); });
+  const find = (w) => {
+    outer: for (let i = 0; i + w.length <= flat.length; i++) { for (let k = 0; k < w.length; k++) if (flat[i + k][0] !== w[k]) continue outer; return [flat[i][1], flat[i + w.length - 1][1]]; }
+    return null;
+  };
+  const cited = new Set();
+  const out = String(text).replace(/\s*“([^”]*)”/g, (all, q) => {
+    const w = words(q);
+    const at = w.length >= 5 && find(w);
+    if (!at) return all;
+    const r = `${book} ${chapter}:${at[0]}${at[1] > at[0] ? `-${at[1]}` : ""}`;
+    // A verse recited again is named once.
+    if (cited.has(r)) return "";
+    cited.add(r);
+    return `${all.match(/^\s*/)[0]}(${r})`;
+  })
+    // Verses recited one after another become one reference: "(Job 3:13), (Job 3:14)" is "(Job 3:13-14)".
+    .replace(new RegExp(`\\(${esc(`${book} ${chapter}:`)}\\d+(?:-\\d+)?\\)(?:[\\s,]*\\(${esc(`${book} ${chapter}:`)}\\d+(?:-\\d+)?\\))+`, "g"), (run) => {
+      const ns = [...run.matchAll(/:(\d+)(?:-(\d+))?\)/g)].flatMap((m) => [Number(m[1]), Number(m[2] ?? m[1])]);
+      const a = Math.min(...ns), b = Math.max(...ns);
+      return `(${book} ${chapter}:${a}${b > a ? `-${b}` : ""})`;
+    })
+    .replace(/^[\s:;,]+/, "").replace(/\s+([.,:;])/g, "$1").replace(/([.,:;])[.,:;]+/g, "$1").replace(/[,;:]$/, ".")
+    // A sentence left starting after a recited verse starts with a capital.
+    .replace(/([.?!]\s+)([a-z])/g, (m, a, c) => a + c.toUpperCase()).trim();
+  const own = words(out.replace(/\([^)]*\d+:\d+[^)]*\)/g, " "));
+  return own.length >= 10 ? out : "";
+}
+
 const RANK = ["Bishop", "Deacon", "Captain", "Elder"];
 const rankOf = (teacher) => { const i = RANK.findIndex((r) => teacher.startsWith(r)); return i < 0 ? RANK.length : i; };
 
@@ -164,14 +202,18 @@ const rankOf = (teacher) => { const i = RANK.findIndex((r) => teacher.startsWith
  * already quotes as answers are left out. A verse no pass breaks down gets the class moments it was
  * read in instead (`read: true`), so a point is never anyone's words but a teacher's.
  */
-export function pointsFor(ref, { said, heard, terms = "", taken = new Set(), readTranscript = () => null, verseText = () => "", max = 2 }) {
+export function pointsFor(ref, { said, heard, terms = "", taken = new Set(), readTranscript = () => null, verseText = () => "", chapterText = () => [], max = 2 }) {
   const match = terms ? new RegExp(terms, "i") : null;
   const seen = new Set(), all = [];
   for (const v of verseList(ref.verses)) for (const p of said.get(`${ref.book}|${ref.chapter}|${v}`) ?? []) {
     if (taken.has(p.text) || seen.has(p.text)) continue;
     // A block of several verses or paragraphs speaks to this verse only where it quotes it.
     if (!p.only && !quotes(p.text, verseText(ref.book, ref.chapter, v))) continue;
-    seen.add(p.text); all.push(p);
+    seen.add(p.text);
+    // Only the explanation: the chapter's verses recited in it give way to their reference, and a
+    // paragraph with little left but the recital is no explanation at all.
+    const text = explanation(p.text, ref.book, ref.chapter, chapterText(ref.book, ref.chapter));
+    if (text) all.push({ ...p, text });
   }
   all.sort((a, b) => (match && !match.test(a.text)) - (match && !match.test(b.text)) || rankOf(a.teacher) - rankOf(b.teacher) || a.text.length - b.text.length);
   const out = [], videos = new Set();
@@ -264,12 +306,13 @@ export function loadDoctrine(ROOT) {
     if (!versesIn.has(book)) { const e = index.find((b) => b.book === book); versesIn.set(book, e ? JSON.parse(fs.readFileSync(path.join(ROOT, "data", "bible", `${e.slug}.json`), "utf8")).chapters : {}); }
     return versesIn.get(book)[String(chapter)]?.length ?? 0;
   };
+  const chapterText = (book, chapter) => { verseCount(book, chapter); return versesIn.get(book)?.[String(chapter)] ?? []; };
   const verseText = (book, chapter, v) => { verseCount(book, chapter); return versesIn.get(book)?.[String(chapter)]?.[v - 1] ?? ""; };
   const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "", verseCount, classUses: (book, chapter, v) => used.has(`${book}|${chapter}|${v}`) });
   for (const d of doctrines) {
     const terms = (doc.doctrines.find((x) => x.slug === d.slug)?.terms) ?? "";
     const taken = new Set(d.answers.flatMap((a) => a.text.split("\n\n")));
-    d.scriptures = d.scriptures.map((ref) => ({ ...ref, points: pointsFor(ref, { said, heard, terms, taken, readTranscript, verseText }) }));
+    d.scriptures = d.scriptures.map((ref) => ({ ...ref, points: pointsFor(ref, { said, heard, terms, taken, readTranscript, verseText, chapterText }) }));
   }
   return { title: doc.title ?? "Doctrine", intro: doc.intro ?? "", doctrines, problems };
 }

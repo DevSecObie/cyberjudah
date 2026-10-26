@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { blockRef, loadDoctrine, pointsFor, resolveDoctrine, splitRef } from "./doctrine.mjs";
+import { blockRef, explanation, loadDoctrine, pointsFor, resolveDoctrine, splitRef } from "./doctrine.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -89,17 +89,25 @@ test("a doctrine's scriptures are verses the classes used, never more", () => {
 test("the points under a scripture are the classes' own paragraphs on that verse", () => {
   const from = (video, teacher) => ({ video, teacher, title: "T", date: "", ts: "1:00" });
   const said = new Map([["Hosea|1|10", [
-    { ...from("aaaaaaaaaaa", "Deacon Eythan"), text: "Long about the sand of the sea and Israel only.", only: true },
-    { ...from("bbbbbbbbbbb", "Bishop Nathanyel"), text: "Short.", only: true },
-    { ...from("bbbbbbbbbbb", "Bishop Nathanyel"), text: "Same class again.", only: true },
-    { ...from("ccccccccccc", "Bishop Kani"), text: "A run of verses that never quotes this one.", only: false },
-    { ...from("ddddddddddd", "Bishop Kani"), text: "Already an answer.", only: true },
+    { ...from("aaaaaaaaaaa", "Deacon Eythan"), text: "A long one about the sand of the sea, that it is Israel only and no other nation on earth.", only: true },
+    { ...from("bbbbbbbbbbb", "Bishop Nathanyel"), text: "A short one, ten words and no more than ten here.", only: true },
+    { ...from("bbbbbbbbbbb", "Bishop Nathanyel"), text: "The same class again, which should never be taken twice over.", only: true },
+    { ...from("ccccccccccc", "Bishop Kani"), text: "A run of verses that never quotes this one at all, not even once.", only: false },
+    { ...from("ddddddddddd", "Bishop Kani"), text: "Already an answer, quoted above as one of the doctrine answers.", only: true },
   ]]]);
   const verseText = () => "Yet the number of the children of Israel shall be as the sand of the sea";
-  const pts = pointsFor({ book: "Hosea", chapter: 1, verses: "10" }, { said, heard: new Map(), terms: "israel only", taken: new Set(["Already an answer."]), verseText });
+  const pts = pointsFor({ book: "Hosea", chapter: 1, verses: "10" }, { said, heard: new Map(), terms: "israel only", taken: new Set(["Already an answer, quoted above as one of the doctrine answers."]), verseText });
   assert.deepEqual(pts.map((p) => p.video), ["aaaaaaaaaaa", "bbbbbbbbbbb"]);
   const read = pointsFor({ book: "Hosea", chapter: 2, verses: "1" }, { said, heard: new Map([["Hosea|2|1", [["eeeeeeeeeee", 3725]]]]), readTranscript: () => ({ title: "A class", date: "2026-01-01" }) });
   assert.deepEqual(read, [{ video: "eeeeeeeeeee", ts: "1:02:05", t: 3725, title: "A class", date: "2026-01-01", read: true }]);
+});
+
+test("a point keeps the explanation and names the verses it recites", () => {
+  const job3 = ["There the wicked cease from troubling; and there the weary be at rest.", "There the prisoners rest together; they hear not the voice of the oppressor."];
+  assert.equal(explanation("“There the wicked cease from troubling”: notice that, in death even the wicked cease. “And there the weary be at rest.” “There the prisoners rest together”: our people.", "Job", 3, job3),
+    "(Job 3:1): notice that, in death even the wicked cease. (Job 3:2): our people.");
+  assert.equal(explanation("There, when you are dead, “the wicked cease from troubling” people.", "Job", 3, job3), "");
+  assert.equal(explanation("As Isaiah says, “I am the Lord, and there is none else”, so the Lord alone is God and no man.", "Job", 3, job3), "As Isaiah says, “I am the Lord, and there is none else”, so the Lord alone is God and no man.");
 });
 
 test("data/doctrine.json resolves against the merged passes", () => {
