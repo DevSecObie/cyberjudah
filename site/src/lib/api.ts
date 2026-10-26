@@ -156,11 +156,13 @@ export type GlossaryEntry = {
 export type Glossary = { about: string; entries: GlossaryEntry[] };
 export type PreceptRow = { slug: string; title: string; refs: number; url: string };
 export type Precept = { slug: string; title: string; url: string; refs: ResolvedRef[] };
-export type DoctrineRow = { slug: string; name: string; claim: string; refs: number; url: string };
+export type DoctrineRow = { slug: string; name: string; claim: string; refs: number; scriptures: number; url: string };
 export type DoctrineSense = { video: string; ts: string; t: number; teacher: string; text: string; note: string | null };
+export type DoctrinePoint = { video: string; ts: string; t: number; teacher?: string; title: string; date: string; note: string | null } & ({ read: true; text?: never } | { read?: false; text: string });
 export type DoctrineRelated = { slug: string; url: string; title?: string; name?: string; label?: string };
-export type DoctrineEntry = Omit<DoctrineRow, "refs"> & {
+export type DoctrineEntry = Omit<DoctrineRow, "refs" | "scriptures"> & {
   answers: { refs: ResolvedRef[]; sense: DoctrineSense[] }[];
+  scriptures: (ResolvedRef & { points: DoctrinePoint[] })[];
   related: { precepts: DoctrineRelated[]; cases: DoctrineRelated[]; topics: DoctrineRelated[] };
 };
 export type MergedCitation = { kind: string; label: string; url: string; verses: string[] };

@@ -1,1 +1,2 @@
+- Added Scriptures against it with the supplied KJV verses and exact class bullets, including read-only mentions, unnamed teachers and hour-long watch timestamps.
 - Added the False Doctrines index and answer pages, linked beside Precepts, with published KJV passages, verbatim class breakdowns, timed recording links and related subjects. Unpublished content offers Retry. Timed note links seek the existing recording embed.
