@@ -19,6 +19,7 @@ const SECTIONS = [
   { label: "Case Studies", to: "/cases", hint: "judgments and blessings" },
   { label: "The Law", to: "/law", hint: "the handbook" },
   { label: "Precepts", to: "/precepts", hint: "subject index" },
+  { label: "False Doctrines", to: "/doctrine", hint: "scripture and class answers" },
   { label: "Concordance", to: "/concordance", hint: "who cites what" },
   { label: "Encyclopedia", to: "/encyclopedia", hint: "standing subjects" },
   { label: "Topics", to: "/topics", hint: "tags" },
