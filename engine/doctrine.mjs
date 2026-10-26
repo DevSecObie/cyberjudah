@@ -91,7 +91,7 @@ function resolveQuote(a, at, { readTranscript, hasChapter, teacherOf, problems }
  * keeps only the answers that resolved, and every pointer that did not is a problem, so the
  * build can stop on it.
  */
-export function resolveDoctrine(doc, { readPass, readTranscript = () => null, hasChapter, teacherOf = () => "", verseCount = () => 0, classUses = () => true, readBook = () => null, bookList = new Map() }) {
+export function resolveDoctrine(doc, { readPass, readTranscript = () => null, hasChapter, teacherOf = () => "", verseCount = () => 0, classUses = () => true, readBook = () => null, bookList = new Map(), scripture = () => new Set() }) {
   const problems = [];
   const seen = new Set();
   const doctrines = (doc.doctrines ?? []).map((d, i) => {
@@ -141,10 +141,80 @@ export function resolveDoctrine(doc, { readPass, readTranscript = () => null, ha
       if (unused.length) { problems.push(`${where}: scripture "${s}": no class read, opened or gave verse ${unused.join(", ")}`); continue; }
       scriptures.push(ref);
     }
-    const books = resolveBooks(d.books ?? [], where, { readPass, readTranscript, teacherOf, readBook, bookList, problems });
+    const books = resolveBooks(d.books ?? [], where, { readPass, readTranscript, teacherOf, readBook, bookList, scripture, problems });
     return { slug: d.slug, name: d.name, claim: d.claim, answers, scriptures, books, related: d.related ?? {} };
   });
   return { doctrines, problems };
+}
+
+const norm = (token) => token.toLowerCase().replace(/[’']/g, "").replace(/[^a-z0-9]+/g, "");
+
+/**
+ * The stretches of a book page the classes read aloud: the page's own words, from the start of
+ * the first sentence to the end of the last one that six words in a row of what the classes said
+ * (`heard`, one string per reading) match, ten words at least. Six words in a row that are also
+ * scripture (`scripture`, a set of six-word runs) do not count: a page quoting a verse is not
+ * read because a class read the verse. Returns [{ quote, from, to }] (token indexes of the page
+ * text) in page order, or [] when nothing matches.
+ */
+export function readSpans(text, heard, scripture = new Set(), n = 6) {
+  const tokens = String(text).split(/\s+/).filter(Boolean);
+  const keys = tokens.map(norm);
+  const said = new Set();
+  for (const h of heard) {
+    const w = words(h);
+    for (let i = 0; i + n <= w.length; i++) said.add(w.slice(i, i + n).join(" "));
+  }
+  // The page's words as a run without the empty ones, each pointing back at its token.
+  const at = keys.map((k, i) => (k ? i : -1)).filter((i) => i >= 0);
+  const hit = new Set();
+  for (let i = 0; i + n <= at.length; i++) {
+    const g = at.slice(i, i + n).map((j) => keys[j]).join(" ");
+    if (said.has(g) && !scripture.has(g)) for (let k = 0; k < n; k++) hit.add(at[i + k]);
+  }
+  if (!hit.size) return [];
+  const hits = [...hit].sort((a, b) => a - b);
+  const runs = [[hits[0], hits[0], 1]];
+  for (const i of hits.slice(1)) { const r = runs[runs.length - 1]; if (i - r[1] <= 40) { r[1] = i; r[2]++; } else runs.push([i, i, 1]); }
+  const ends = (t) => /[.?!]["'”’)]*$/.test(t);
+  const spans = [];
+  for (let [from, to, count] of runs) {
+    if (count < 10) continue;
+    while (from > 0 && !ends(tokens[from - 1])) from--;
+    while (to < tokens.length - 1 && !ends(tokens[to])) to++;
+    const last = spans[spans.length - 1];
+    if (last && from <= last.to + 1) last.to = Math.max(last.to, to);
+    else spans.push({ from, to });
+  }
+  return spans.map(({ from, to }) => ({ quote: tokens.slice(from, to + 1).join(" "), from, to }));
+}
+
+/**
+ * Boxes over the scan for a read stretch, one per printed line, as fractions of the page image
+ * ([x, y, width, height]). The page text and the OCR layout come from the same OCR, though the
+ * text may join hyphenated words or set columns in another order, so each run of three words of
+ * the stretch is found in the layout, and only where it occurs once.
+ */
+export function highlightBoxes({ from, to }, { w, h, words: layout }, text) {
+  const key = (t) => norm(t).replace(/f/g, "s"); // an old printing's long s, read as f
+  const tokens = String(text).split(/\s+/).filter(Boolean).slice(from, to + 1).map(key).filter(Boolean);
+  const keys = layout.map((x) => key(x[0]));
+  const where = new Map();
+  for (let i = 0; i + 3 <= keys.length; i++) { if (!keys[i] || !keys[i + 1] || !keys[i + 2]) continue; const k = keys.slice(i, i + 3).join(" "); where.set(k, where.has(k) ? -1 : i); }
+  const on = new Set();
+  for (let i = 0; i + 3 <= tokens.length; i++) { const m = where.get(tokens.slice(i, i + 3).join(" ")); if (m >= 0) for (let d = 0; d < 3; d++) on.add(m + d); }
+  // A word split by a line-end hyphen matches neither side; close such small gaps.
+  const marked = [...on].sort((a, b) => a - b);
+  for (let i = 1; i < marked.length; i++) for (let m = marked[i - 1] + 1; m < marked[i] && marked[i] - marked[i - 1] <= 5; m++) on.add(m);
+  const lines = [];
+  for (const m of [...on].sort((a, b) => a - b)) {
+    const [, x0, y0, x1, y1] = layout[m];
+    const line = lines[lines.length - 1];
+    if (line && Math.abs((y0 + y1) / 2 - (line[1] + line[3]) / 2) < (y1 - y0) / 2 && x0 >= line[0]) { line[2] = Math.max(line[2], x1); line[1] = Math.min(line[1], y0); line[3] = Math.max(line[3], y1); }
+    else lines.push([x0, y0, x1, y1]);
+  }
+  const f = (v) => Math.round(v * 10000) / 10000;
+  return lines.map(([x0, y0, x1, y1]) => [f(x0 / w), f(y0 / h), f((x1 - x0) / w), f((y1 - y0) / h)]);
 }
 
 /**
@@ -155,7 +225,7 @@ export function resolveDoctrine(doc, { readPass, readTranscript = () => null, ha
  *   block must name it by one of its forms in data/books.tsv, and that paragraph is the class's word.
  * The author comes only from books.tsv or the library's book.json.
  */
-function resolveBooks(list, where, { readPass, readTranscript, teacherOf, readBook, bookList, problems }) {
+function resolveBooks(list, where, { readPass, readTranscript, teacherOf, readBook, bookList, scripture = () => new Set(), problems }) {
   const out = [];
   const libraryBy = new Map();
   const moment = (video, t, ts) => {
@@ -171,7 +241,8 @@ function resolveBooks(list, where, { readPass, readTranscript, teacherOf, readBo
       if (!(b.pages ?? []).length) { problems.push(`${at}: no pages`); continue; }
       const pages = [];
       for (const page of b.pages) {
-        if (!lib.pages.has(`${vol}|${page}`)) { problems.push(`${at}: the book has no page ${vol}:${page}`); continue; }
+        const pg = lib.pages.get(`${vol}|${page}`);
+        if (!pg) { problems.push(`${at}: the book has no page ${vol}:${page}`); continue; }
         const reads = lib.reads.filter((r) => (r.vol ?? 1) === vol && r.page === page);
         if (!reads.length) { problems.push(`${at}: no class read page ${vol}:${page}`); continue; }
         // The classes that dwelt longest on the page first, a class uploaded twice only once.
@@ -181,7 +252,12 @@ function resolveBooks(list, where, { readPass, readTranscript, teacherOf, readBo
           if (top.length >= 3 || (name && names.has(name))) continue;
           names.add(name); top.push(m);
         }
-        pages.push({ vol, page, url: `/books/${b.book}/p/${vol}-${page}`, classes: new Set(reads.map((r) => r.video)).size, reads: top });
+        const spans = readSpans(pg.text, reads.map((r) => readTranscript(r.video)?.segments?.filter((x) => x[0] >= r.t - 15 && x[0] <= r.t + 240).map((x) => x[x.length - 1]).join(" ") ?? ""), scripture());
+        if (!spans.length) { problems.push(`${at}: no stretch of page ${vol}:${page} matches what the classes read`); continue; }
+        const item = lib.book.items?.[vol - 1]?.id;
+        const layout = lib.wordsOn(vol, page);
+        const scan = item && lib.book.scan ? lib.book.scan.replace("{id}", item).replace("{img}", String(pg.img)) : null;
+        pages.push({ vol, page, url: `/books/${b.book}/p/${vol}-${page}`, scan, quotes: spans.map((sp) => ({ text: sp.quote, highlight: layout ? highlightBoxes(sp, layout, pg.text) : [] })), classes: new Set(reads.map((r) => r.video)).size, reads: top });
       }
       if (pages.length) out.push({ title: lib.book.title, author: lib.book.author ?? "", year: lib.book.year ?? null, book: b.book, url: `/books/${b.book}`, pages });
       continue;
@@ -384,16 +460,29 @@ export function loadDoctrine(ROOT) {
     let lib = null;
     if (/^[a-z0-9-]+$/.test(slug) && fs.existsSync(path.join(dir, "book.json"))) {
       const book = JSON.parse(fs.readFileSync(path.join(dir, "book.json"), "utf8"));
-      const pages = new Set(fs.readdirSync(dir).filter((f) => f === "pages.json" || /^pages-v\d+\.json$/.test(f)).flatMap((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"))).map((p) => `${p.vol ?? 1}|${p.page}`));
+      const pages = new Map(fs.readdirSync(dir).filter((f) => f === "pages.json" || /^pages-v\d+\.json$/.test(f)).flatMap((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"))).map((p) => [`${p.vol ?? 1}|${p.page}`, p]));
       const reads = fs.existsSync(path.join(dir, "reads.json")) ? JSON.parse(fs.readFileSync(path.join(dir, "reads.json"), "utf8")).reads : [];
-      lib = { book, pages, reads };
+      // Where each word sits on a page scan (scripts/library/word_boxes.py), when it has been read out.
+      const wordsOn = (vol, page) => { const f = path.join(dir, "words", `${vol}-${page}.json`); return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : null; };
+      lib = { book, pages, reads, wordsOn };
     }
     libs.set(slug, lib);
     return lib;
   };
   // A named book that is also in the library links to it.
   bookList.library = fs.existsSync(LIB) ? fs.readdirSync(LIB).filter((s) => fs.existsSync(path.join(LIB, s, "book.json"))).map((s) => [s, JSON.parse(fs.readFileSync(path.join(LIB, s, "book.json"), "utf8")).title]) : [];
-  const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "", verseCount, classUses: (book, chapter, v) => used.has(`${book}|${chapter}|${v}`), readBook, bookList });
+  // Every six-word run of the KJV and Apocrypha, built only when a book page needs it.
+  let sixes = null;
+  const scripture = () => {
+    if (sixes) return sixes;
+    sixes = new Set();
+    for (const e of index) for (const verses of Object.values(JSON.parse(fs.readFileSync(path.join(ROOT, "data", "bible", `${e.slug}.json`), "utf8")).chapters)) {
+      const w = words(verses.join(" "));
+      for (let i = 0; i + 6 <= w.length; i++) sixes.add(w.slice(i, i + 6).join(" "));
+    }
+    return sixes;
+  };
+  const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "", verseCount, classUses: (book, chapter, v) => used.has(`${book}|${chapter}|${v}`), readBook, bookList, scripture });
   for (const d of doctrines) {
     const terms = (doc.doctrines.find((x) => x.slug === d.slug)?.terms) ?? "";
     const taken = new Set(d.answers.flatMap((a) => a.text.split("\n\n")));

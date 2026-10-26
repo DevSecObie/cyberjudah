@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { blockRef, explanation, loadDoctrine, pointsFor, resolveDoctrine, splitRef } from "./doctrine.mjs";
+import { blockRef, explanation, highlightBoxes, loadDoctrine, pointsFor, readSpans, resolveDoctrine, splitRef } from "./doctrine.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -121,7 +121,8 @@ test("a doctrine's books are pages classes read or books a pass names", () => {
   const pass = { video: "aaaaaaaaaaa", title: "T", date: "2026-01-01", teacher: "Bishop Nathanyel", passages: [{ opened: "Micah 5:3", ts: "1:00", sense: [{ at: "3", text: "One.\n\nThe Two Babylons shows it, and Harper’s Bible Dictionary too." }] }] };
   const deps = {
     readPass: (v) => (v === pass.video ? pass : null), hasChapter: () => true, verseCount: () => 9,
-    readBook: (slug) => (slug === "two-babylons" ? { book: { title: "The Two Babylons", author: "Alexander Hislop", year: 1871 }, pages: new Set(["1|93", "1|94"]), reads: [{ video: "bbbbbbbbbbb", vol: 1, page: 93, t: 60, ts: "1:00", hits: 2 }, { video: "ccccccccccc", page: 93, t: 90, ts: "1:30", hits: 9 }] } : null),
+    readTranscript: () => ({ segments: [[70, "and he read the festival of Christmas was never heard of till the third century in the church"]] }),
+    readBook: (slug) => (slug === "two-babylons" ? { book: { title: "The Two Babylons", author: "Alexander Hislop", year: 1871, items: [{ id: "item" }], scan: "https://scan/{id}/n{img}.jpg" }, wordsOn: () => null, pages: new Map([["1|93", { img: 9, text: "Heading. The festival of Christmas was never heard of till the third century in the church. Other words." }], ["1|94", { img: 10, text: "Nothing read." }]]), reads: [{ video: "bbbbbbbbbbb", vol: 1, page: 93, t: 60, ts: "1:00", hits: 2 }, { video: "ccccccccccc", page: 93, t: 90, ts: "1:30", hits: 9 }] } : null),
     bookList: Object.assign(new Map([["Harper's Bible Dictionary", { author: "", forms: ["harper's bible dictionary"] }], ["Dum Diversas", { author: "Pope Nicholas V, 1452", forms: ["dum diversas"] }]]), { library: [] }),
   };
   const one = (books) => resolveDoctrine({ doctrines: [{ slug: "x", name: "X", claim: "Y", books, answers: [{ video: pass.video, opened: "Micah 5:3", at: "v3", paras: ["One."] }] }] }, deps);
@@ -129,6 +130,8 @@ test("a doctrine's books are pages classes read or books a pass names", () => {
   assert.deepEqual(page.problems, []);
   assert.deepEqual(page.doctrines[0].books[0].pages[0].reads.map((r) => r.video), ["ccccccccccc", "bbbbbbbbbbb"]);
   assert.equal(page.doctrines[0].books[0].pages[0].url, "/books/two-babylons/p/1-93");
+  assert.equal(page.doctrines[0].books[0].pages[0].scan, "https://scan/item/n9.jpg");
+  assert.deepEqual(page.doctrines[0].books[0].pages[0].quotes.map((q) => q.text), ["The festival of Christmas was never heard of till the third century in the church."]);
   const cited = one([{ title: "Harper's Bible Dictionary", video: pass.video, opened: "Micah 5:3", at: "v3" }]);
   assert.deepEqual(cited.problems, []);
   assert.equal(cited.doctrines[0].books[0].said.text, "The Two Babylons shows it, and Harper’s Bible Dictionary too.");
@@ -140,3 +143,16 @@ test("a doctrine's books are pages classes read or books a pass names", () => {
   assert.equal(one([{ title: "Some Other Book", video: pass.video, opened: "Micah 5:3", at: "v3" }]).problems.length, 1);
   assert.equal(one([{ title: "Dum Diversas", video: pass.video, opened: "Micah 5:3", at: "v3" }]).problems.length, 1);
 });
+
+test("a book page's read stretch is quoted whole and boxed line by line on the scan", () => {
+  const text = "Before it. The festival of Christmas was never heard of till the third century in the church, and the fourth century was far gone. After it.";
+  const heard = ["he said the festival of christmas was never heard of till the third century in the church and"];
+  const [s] = readSpans(text, heard);
+  assert.equal(s.quote, "The festival of Christmas was never heard of till the third century in the church, and the fourth century was far gone.");
+  // Six words that are scripture do not make a reading.
+  assert.deepEqual(readSpans(text, heard, new Set(words6(heard[0]))), []);
+  const layout = { w: 1000, h: 2000, words: text.split(" ").map((t, i) => [t, (i % 8) * 100, Math.floor(i / 8) * 40, (i % 8) * 100 + 90, Math.floor(i / 8) * 40 + 30]) };
+  assert.deepEqual(highlightBoxes(s, layout, text), [[0.2, 0, 0.59, 0.015], [0, 0.02, 0.79, 0.015], [0, 0.04, 0.79, 0.015]]);
+});
+
+function words6(h) { const w = h.toLowerCase().split(/\s+/); return w.slice(0, -5).map((_, i) => w.slice(i, i + 6).join(" ")); }
