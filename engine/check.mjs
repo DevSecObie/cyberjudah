@@ -4,6 +4,7 @@ import { validatePeople } from "./people-validation.mjs";
 import { changedPersonIds, validateReciprocity } from "./people-reciprocity.mjs";
 import { validatePeopleEvidence } from "./people-evidence.mjs";
 import { validatePlaces } from "./places-validation.mjs";
+import { loadDoctrine } from "./doctrine.mjs";
 // The link checker. The Docusaurus build used to be the gate (onBrokenLinks: throw); this
 // does the same job against the library itself, in a few seconds, with no site build:
 // every site-relative link in every note must point at a chapter, verse, note, law,
@@ -44,6 +45,8 @@ if (peopleBase && !/^0+$/.test(peopleBase)) { // a push creating a branch gives 
 if (peopleProblems.length) { for (const message of peopleProblems) console.error(message); process.exit(1); }
 const placesProblems = validatePlaces(JSON.parse(fs.readFileSync(path.join(ROOT, "data/places/places.json"), "utf8")));
 if (placesProblems.length) { for (const message of placesProblems) console.error(message); process.exit(1); }
+const doctrineProblems = loadDoctrine(ROOT).problems; // data/doctrine.json: every answer points at a real pass breakdown
+if (doctrineProblems.length) { for (const message of doctrineProblems) console.error(`doctrine: ${message}`); process.exit(1); }
 const L = loadLibrary(ROOT);
 const { BOOKS, bible, bookSlug, handbook, sectionUrl, sortedPrecepts, preceptUrl, cases, caseUrl, notes } = L;
 

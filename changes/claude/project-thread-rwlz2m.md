@@ -3,3 +3,4 @@
 - Strong's definitions say "Canaan" where they called the land of Israel "Palestine".
 - The World English Bible text is no longer published at /api/web; the King James Bible with the Apocrypha is the only Bible text.
 - Law handbook: Proverbs 12:4, 1 Timothy 1:9-10, Leviticus 18:19 and the wave sheaf (Leviticus 23:11) now read in the KJV's words.
+- False Doctrines: 29 false doctrines, each answered from the classes' own breakdowns, with the KJV and Apocrypha verses the classes used against it (each with up to two class bullets), and the books the classes read or cited against it: the passage quoted and boxed on the page scan. Published at /api/doctrine/.
