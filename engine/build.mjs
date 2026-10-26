@@ -59,8 +59,9 @@ const SHOWS = loadShows(ROOT);
 for (const n of [...classNotes, ...captainNotes]) if (!n.collection) n.collection = showOf(SHOWS, n.title)?.name ?? "";
 
 /* ---------------- people (STEPBible TIPNR, CC BY 4.0) ---------------- */
-// Who is named in each verse, and a page per person: names, family, every verse, and what the
-// classes taught where the person comes up (a comment on one of their verses naming them).
+// Who is named in each verse, and a page per person: names, family, every verse, what the
+// classes taught where the person comes up (a comment on one of their verses naming them), and
+// the class notes that read or cite a verse naming them.
 const peopleFile = path.join(ROOT, "data", "people", "people.json");
 const peopleDoc = fs.existsSync(peopleFile) ? JSON.parse(fs.readFileSync(peopleFile, "utf8")) : { people: [] };
 const peopleProblems = validatePeople(peopleDoc);
@@ -341,6 +342,34 @@ for (const b of BOOKS) {
 }
 writeJson(path.join(API, "concordance", "index.json"), concordanceIndex);
 
+// The classes that read or cite a verse naming the person: a class, 15 Minutes or Hidden History
+// note links one of the person's verses, and the same paragraph (the quoted verse itself, or the
+// teacher's words around the reference) carries one of the person's names. Newest first.
+const escapeRe = (w) => w.replace(/[.*+?^$()|[\]{}\\]/g, "\\$&");
+const nameTest = new Map(peopleDoc.people.map((p) => [p.id, p.names.map((w) => new RegExp(`\\b${escapeRe(w)}\\b`))]));
+const namedInNotes = new Map(); // person id -> [{ title, url, kind, collection, date, verse, verseUrl }]
+for (const n of notes) {
+  if (n.kind === "study" || n.kind === "encyclopedia") continue;
+  const seen = new Set();
+  // A blank line ends a paragraph, and so does a blank quoted line between two quoted verses.
+  for (const para of (n.body ?? "").split(/\n[\s>]*\n/)) {
+    // A reference's own label ("John 1:6") is not a mention of the person.
+    const words = para.replace(/\[[^\]]*\d[^\]]*\]\(\/bible\/[^)]*\)/g, " ");
+    for (const [, label, sl, ch, anchor] of para.matchAll(/\[([^\]]*)\]\(\/bible\/([a-z0-9-]+)\/(\d+)(?:#v(\d+))?\)/g)) {
+      const span = /:([\d,\-]+)$/.exec(label.trim());
+      for (const v of span ? versesOf(span[1]) : anchor ? [+anchor] : []) {
+        for (const id of namedIn.get(`${sl}|${ch}`)?.[v] ?? []) {
+          if (seen.has(id) || !nameTest.get(id).some((re) => re.test(words))) continue;
+          seen.add(id);
+          if (!namedInNotes.has(id)) namedInNotes.set(id, []);
+          namedInNotes.get(id).push({ title: n.title, url: n.url, kind: n.kind, collection: n.collection || "", date: n.date ?? null, verse: `${bySlugName[sl]} ${ch}:${v}`, verseUrl: `/bible/${sl}/${ch}#v${v}` });
+        }
+      }
+    }
+  }
+}
+for (const rows of namedInNotes.values()) rows.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")));
+
 const personRef = (id) => { const p = personById.get(id); return p ? { id, name: p.name, ...personPicture(p) } : null; };
 const peopleIndex = [];
 for (const p of peopleDoc.people) {
@@ -358,7 +387,7 @@ for (const p of peopleDoc.people) {
     id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, tribe: p.tribe, ...personPicture(p),
     father: p.father.map(personRef).filter(Boolean), mother: p.mother.map(personRef).filter(Boolean),
     siblings: p.siblings.map(personRef).filter(Boolean), partners: p.partners.map(personRef).filter(Boolean), children: p.children.map(personRef).filter(Boolean),
-    verses: p.verses, taught, source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
+    verses: p.verses, taught, classes: namedInNotes.get(p.id) ?? [], source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
     cases: (casesOfPerson.get(p.id) ?? []).map((c) => ({ slug: c.slug, name: c.name, url: caseUrl(c), era: c.era, kind: c.kind ?? "judgment", verdict: c.verdict, verdictLabel: VERDICT[c.verdict] ?? c.verdict, charge: c.charge, preview: preview(c.summary) })),
   });
   peopleIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, verses: p.verses.length, first: p.verses[0] });
