@@ -48,6 +48,21 @@ export function DoctrineAnswers({ entry }: { entry: DoctrineEntry }) {
         </li>)}</ul> : null}
       </div>)}</div></RefCards>
     </section> : null}
+    {entry.books?.length ? <section className="book-block"><h2>Books against it</h2>{entry.books.map((book, i) => <div key={i} style={{ marginBlock: 16 }}>
+      <h3>{book.url ? <Link to={book.url as never}>{book.title}</Link> : book.title}</h3>
+      {book.author || book.year !== null ? <p className="cj-mono">{book.author}{book.author && book.year !== null ? " · " : null}{book.year}</p> : null}
+      {book.pages ? book.pages.map((page, n) => <div key={n} style={{ marginBlock: 8 }}>
+        <Link to={page.url as never}>{page.vol === 1 ? `p. ${page.page}` : `vol. ${page.vol}, p. ${page.page}`}</Link>
+        <span className="cj-mono"> · read in {page.classes} {page.classes === 1 ? "class" : "classes"}</span>
+        {page.reads.length ? <ul style={{ listStyleType: "disc", margin: "8px 0 0", paddingInlineStart: 20 }}>{page.reads.slice(0, 3).map((read, k) => <li key={k} style={{ marginBlock: 8 }}>
+          <span className="cj-mono">{read.teacher ? `${read.teacher} · ` : null}{read.title}</span>{" · "}<DoctrineWatch moment={read} />
+        </li>)}</ul> : null}
+      </div>) : <figure className="note" style={{ marginInline: 0 }}>
+        <p className="refrow">{book.said.ref.url ? <Link to={book.said.ref.url as never}>{book.said.ref.label}</Link> : book.said.ref.label}</p>
+        <blockquote style={{ whiteSpace: "pre-wrap" }}>{book.said.text}</blockquote>
+        <figcaption>{book.said.teacher ? `${book.said.teacher} · ` : null}{book.said.title}{" · "}<DoctrineWatch moment={book.said} /></figcaption>
+      </figure>}
+    </div>)}</section> : null}
     {([['precepts', 'Related precepts'], ['cases', 'Related cases'], ['topics', 'Related topics']] as const).map(([kind, title]) => entry.related[kind].length ? <section key={kind} className="book-block"><h2>{title}</h2><div className="chips">{entry.related[kind].map((r) => <Link key={r.slug} className="chip" to={r.url as never}>{r.title ?? r.name ?? r.label ?? r.slug}</Link>)}</div></section> : null)}
   </>;
 }

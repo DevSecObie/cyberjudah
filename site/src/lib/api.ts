@@ -156,13 +156,19 @@ export type GlossaryEntry = {
 export type Glossary = { about: string; entries: GlossaryEntry[] };
 export type PreceptRow = { slug: string; title: string; refs: number; url: string };
 export type Precept = { slug: string; title: string; url: string; refs: ResolvedRef[] };
-export type DoctrineRow = { slug: string; name: string; claim: string; refs: number; scriptures: number; url: string };
+export type DoctrineRow = { slug: string; name: string; claim: string; refs: number; scriptures: number; books: number; url: string };
 export type DoctrineSense = { video: string; ts: string; t: number; teacher: string; text: string; note: string | null };
-export type DoctrinePoint = { video: string; ts: string; t: number; teacher?: string; title: string; date: string; note: string | null } & ({ read: true; text?: never } | { read?: false; text: string });
+export type DoctrineClass = Pick<DoctrineSense, "video" | "ts" | "t" | "note"> & { teacher?: string; title: string; date: string };
+export type DoctrinePoint = DoctrineClass & ({ read: true; text?: never } | { read?: false; text: string });
+export type DoctrineBook = { title: string; author: string; year: number | null; book: string | null; url: string | null } & (
+  { pages: { vol: number; page: number; url: string; classes: number; reads: DoctrineClass[] }[]; said?: never }
+  | { pages?: never; said: DoctrineClass & { ref: { label: string; url: string | null }; text: string } }
+);
 export type DoctrineRelated = { slug: string; url: string; title?: string; name?: string; label?: string };
-export type DoctrineEntry = Omit<DoctrineRow, "refs" | "scriptures"> & {
+export type DoctrineEntry = Omit<DoctrineRow, "refs" | "scriptures" | "books"> & {
   answers: { refs: ResolvedRef[]; sense: DoctrineSense[] }[];
   scriptures: (ResolvedRef & { points: DoctrinePoint[] })[];
+  books: DoctrineBook[];
   related: { precepts: DoctrineRelated[]; cases: DoctrineRelated[]; topics: DoctrineRelated[] };
 };
 export type MergedCitation = { kind: string; label: string; url: string; verses: string[] };
