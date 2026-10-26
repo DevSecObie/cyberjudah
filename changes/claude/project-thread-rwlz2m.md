@@ -1,0 +1,5 @@
+- People: the Herods are filed under Edom, Mary under the Tribe of Judah, Melchizedek under no nation, Tubal-cain before the Flood, and Raphael's entry now follows Tobit 5:12 and 12:15.
+- Places: Tarshish, Midian and Eden no longer carry a region the KJV doesn't give.
+- Strong's definitions say "Canaan" where they called the land of Israel "Palestine".
+- The World English Bible text is no longer published at /api/web; the King James Bible with the Apocrypha is the only Bible text.
+- Law handbook: Proverbs 12:4, 1 Timothy 1:9-10, Leviticus 18:19 and the wave sheaf (Leviticus 23:11) now read in the KJV's words.

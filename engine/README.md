@@ -27,7 +27,7 @@ not needed.
 | `data/precepts.json` | the precept index |
 | `data/cases.json` | the case studies |
 | `data/topics.tsv`, `data/lexicon.tsv` | topic labels, encyclopedia terms |
-| `data/crossrefs.json`, `data/web-translation.json` | cross references, WEB parallel text |
+| `data/crossrefs.json` | cross references |
 | `history/transcripts/<videoId>.json` | Our Hidden History Radio, verbatim captions per episode (`scripts/history/ingest.py` writes them) |
 | `history/notes/<videoId>.md` | an episode written up, once it is; frontmatter + markdown with scripture links, cited like a class note |
 
@@ -64,7 +64,6 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `downloads/vault.zip` | the Obsidian vault, when `data/downloads/vault.zip` exists in the repository |
 | `api/by-book.json` | which classes and episodes open which book, with the chapters |
 | `api/xref/<book-slug>/<chapter>.json` | cross references per verse |
-| `api/web/<book-slug>/<chapter>.json` | the World English Bible text, per verse |
 | `search/classes.json`, `search/captains.json` | browse feeds: title, url, date, teacher, thumb, books, topics |
 | `api/classes/broadcasts.json` | video ID → `{date, broadcastAt}`: the class's calendar date and verified broadcast start in UTC |
 | `search/topics.json`, `search/books.json`, `search/laws.json`, `search/precepts.json`, `search/cases.json` | small indexes for browse pages |

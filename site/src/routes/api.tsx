@@ -10,7 +10,6 @@ const ROWS: [string, string][] = [
   ["/api/concordance/<book-slug>.json", "a whole book, one row per citing document per chapter"],
   ["/api/concordance/index.json", "which chapters of each book are cited"],
   ["/api/xref/<book-slug>/<chapter>.json", "cross references for each verse"],
-  ["/api/web/<book-slug>/<chapter>.json", "the same chapter in the World English Bible"],
   ["/api/laws/index.json", "the handbook: parts and sections"],
   ["/api/laws/<SECTION>.json", "one section with every law, its references and the verses, e.g. /api/laws/10A.json"],
   ["/api/precepts/index.json", "the precept index"],

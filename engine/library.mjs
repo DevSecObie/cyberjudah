@@ -9,7 +9,7 @@
 //   data/bible/*.json                                               the KJV text with Apocrypha
 //   data/handbook.json, data/precepts.json, data/cases.json         the reference works
 //   data/lexicon.tsv, data/topics.tsv                               encyclopedia terms, topic labels
-//   data/crossrefs.json, data/web-translation.json                  cross references, WEB parallel
+//   data/crossrefs.json                                             cross references
 import { loadClassMetadata, correctedClass } from "./class-metadata.mjs";
 import fs from "node:fs";
 import path from "node:path";

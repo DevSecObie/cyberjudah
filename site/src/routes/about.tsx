@@ -28,7 +28,7 @@ function About() {
           </tbody>
         </table>
         <h2>The text</h2>
-        <p>The Bible text is the public-domain King James Version of 1769, with the Apocrypha, reproduced without alteration. Cross references come from a public-domain Treasury of Scripture Knowledge lineage, and the parallel translation in the reader is the World English Bible, also public domain.</p>
+        <p>The Bible text is the public-domain King James Version of 1769, with the Apocrypha, reproduced without alteration. Cross references come from a public-domain Treasury of Scripture Knowledge lineage. The King James Bible with the Apocrypha is the only Bible text here.</p>
         <h2>The notes</h2>
         <p>Class and episode notes are written up from the recordings in the teacher's own words, with every scripture that was opened quoted in place from our own KJV text and linked back into the chapter. Where a note carries a recording, the timestamp beside each passage links into the video at the moment it was read.</p>
         <p>The teacher is recorded only where the class itself says who taught it. The rest are left blank rather than guessed at. Topic tags are derived from the text of each note against a controlled vocabulary and are meant for finding classes, not for classifying doctrine.</p>
