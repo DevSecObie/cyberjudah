@@ -1,6 +1,35 @@
 import { expect, test, type Page } from "@playwright/test";
 import fixture from "../tests/fixtures/doctrine.json" with { type: "json" };
 
+for (const width of [390, 880]) test(`Markdown-style contents stays compact and links to sections and books at ${width}px`, async ({ page }) => {
+  const entry = structuredClone(fixture);
+  entry.scriptures = Array.from({ length: 35 }, (_, i) => structuredClone(fixture.scriptures[i % fixture.scriptures.length]));
+  await page.setViewportSize({ width, height: 844 });
+  await openEntry(page, entry);
+  const toc = page.getByRole("navigation", { name: "Table of contents" });
+  await expect(toc).toBeVisible();
+  await expect(toc.locator("details, summary, button")).toHaveCount(0);
+  await expect(toc.locator("ul").first()).toHaveCSS("list-style-type", "disc");
+  await expect(toc.locator("ul ul")).toHaveCSS("list-style-type", "circle");
+  await expect(toc.getByRole("link")).toHaveCount(6 + fixture.books.length);
+  await expect(toc.locator('a[href^="#doctrine-scripture-"]')).toHaveCount(0);
+  await expect.poll(() => toc.evaluate(el => el.getBoundingClientRect().height)).toBeLessThan(280);
+  expect(await toc.locator("a").evaluateAll(links => links.every(link => document.getElementById((link as HTMLAnchorElement).hash.slice(1))))).toBe(true);
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  await toc.getByRole("link", { name: "Scripture & teaching", exact: true }).focus();
+  await page.keyboard.press("Tab");
+  await expect(toc.getByRole("link", { name: "Scriptures against it", exact: true })).toBeFocused();
+  await page.keyboard.press("Enter");
+  await expect(page).toHaveURL(/#doctrine-scriptures$/);
+  const heading = page.getByRole("heading", { name: "Scriptures against it", exact: true });
+  await expect(heading).toBeInViewport();
+  await expect.poll(() => heading.evaluate(el => { const y = el.getBoundingClientRect().top; return y >= 60 && y < innerHeight / 2; })).toBe(true);
+  await toc.getByRole("link", { name: fixture.books[0].title, exact: true }).click();
+  await expect(page).toHaveURL(/#doctrine-book-0$/);
+  await expect(page.locator("#doctrine-book-0")).toBeInViewport();
+});
+
+
 async function openEntry(page: Page, entry = fixture, fail = false) {
   await page.route(scan.scan!, (r) => fail ? r.abort() : r.fulfill({ contentType: "image/svg+xml", body: image }));
   await page.route(`${process.env.VITE_DATA_ORIGIN || "https://data.cyberjudah.io"}/**`, (r) => {
@@ -18,6 +47,32 @@ async function openEntry(page: Page, entry = fixture, fail = false) {
 
 const scan = fixture.books[0].pages![0];
 const image = '<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2400"><rect width="1000" height="2400" fill="#fff8e7"/><text x="100" y="180" font-size="38">Test-only printed page</text><path d="M100 1740H750 M100 1810H650 M200 2075H800" stroke="#222" stroke-width="10"/></svg>';
+
+test("passage and source hyperlinks replace numbered answers and jump to visible sections", async ({ page }) => {
+  const entry = structuredClone(fixture);
+  entry.answers.push(structuredClone(entry.answers[0]));
+  await openEntry(page, entry);
+  await expect(page.locator(".doctrine-evidence")).toHaveCount(2);
+  await expect(page.getByRole("heading", { name: /^Answer \d+/ })).toHaveCount(0);
+  await expect(page.getByRole("heading", { name: "Scripture & teaching", exact: true })).toHaveCount(1);
+  await expect(page.locator(".doctrine-evidence .refq__ref").first()).toHaveCSS("text-decoration-line", "underline");
+  await expect(page.getByRole("link", { name: /Fixture teacher.*Watch at 1:05/ }).first()).toHaveAttribute("href", "/classes/2026/fixture?t=65");
+  await page.getByRole("navigation", { name: "Table of contents" }).getByRole("link", { name: /^Books/ }).click();
+  await expect(page).toHaveURL(/#doctrine-books$/);
+  await expect.poll(() => page.getByRole("heading", { name: "Books against it", exact: true }).evaluate(el => el.getBoundingClientRect().top)).toBeGreaterThanOrEqual(64);
+});
+
+test("35 fixture scriptures keep the quiet reading column without horizontal overflow", async ({ page }) => {
+  const entry = structuredClone(fixture);
+  entry.scriptures = Array.from({ length: 35 }, (_, i) => structuredClone(fixture.scriptures[i % fixture.scriptures.length]));
+  await openEntry(page, entry);
+  const scripture = page.locator("section").filter({ has: page.getByRole("heading", { name: "Scriptures against it", exact: true }) }).last();
+  await expect(scripture.locator(".refq")).toHaveCount(35);
+  await expect.poll(() => page.locator(".doctrine-page").evaluate((el) => el.getBoundingClientRect().width)).toBeLessThanOrEqual(600);
+  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  await expect(scripture.locator(".refq").first()).toHaveCSS("background-color", "rgba(0, 0, 0, 0)");
+  await expect(scripture.locator(".refq blockquote p").first()).toHaveCSS("white-space", "pre-wrap");
+});
 
 async function aligned(page: Page) {
   const expected = scan.quotes!.flatMap((q) => q.highlight);
