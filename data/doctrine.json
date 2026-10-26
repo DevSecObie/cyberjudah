@@ -6,6 +6,7 @@
       "slug": "trinity",
       "name": "The Trinity",
       "claim": "God is a Trinity: the Father, the Son and the Holy Ghost are three persons in one God, co-equal and co-eternal.",
+      "terms": "trinity|three persons|god (the )?son\\b|jesus is god|christ is god",
       "answers": [
         { "video": "5ckbGq_KbOs", "opened": "1 John 5:1-8", "at": "v7", "paras": ["“For there are three that bear record", "The word trinity is not even in the Bible."] },
         { "video": "5ckbGq_KbOs", "opened": "1 John 5:1-8", "at": "v1", "paras": ["This is the scripture they use for the trinity."] },
@@ -24,6 +25,7 @@
       "slug": "rapture-for-all",
       "name": "A rapture for every believer",
       "claim": "Every Christian of every nation will be caught up in the rapture before the tribulation, and the rest of the world left behind.",
+      "terms": "rapture|caught up",
       "answers": [
         { "video": "Cb9d6sQP32c", "opened": "Isaiah 10:20", "at": "1 Thessalonians 4:16-18", "paras": ["This is how we’re going to escape."] },
         { "video": "Cb9d6sQP32c", "opened": "Isaiah 10:20", "at": "Ezekiel 28:25-26", "paras": ["Everybody says everybody’s going to be taken."] },
@@ -42,6 +44,7 @@
       "slug": "law-done-away",
       "name": "The law was done away with",
       "claim": "Christ nailed the law to the cross. Under grace, believers no longer have to keep God's commandments.",
+      "terms": "nailed (it )?to the cross|done away|abolish|no longer under the law|not under the law|law is (done|gone|over)|under grace",
       "answers": [
         { "video": "OhP4mngUy18", "opened": "Isaiah 2:1-5", "at": "Matthew 5:17-19", "paras": ["Out of Zion shall go forth the law", "“Till heaven and earth pass", "“Whosoever therefore shall break"] },
         { "video": "aJhVFjdp19Y", "opened": "2 Corinthians 3:11-13", "at": "v11", "paras": ["Now, to speak plainly."] },
@@ -60,6 +63,7 @@
       "slug": "sunday-sabbath",
       "name": "Sunday is the Sabbath",
       "claim": "Sunday, the first day of the week, is the Lord's day and the Christian Sabbath, kept because Christ rose on a Sunday.",
+      "terms": "sunday|first day of the week|sabbath (was|is) (changed|done)",
       "answers": [
         { "video": "Ogq8ZVwtDRM", "opened": "Jeremiah 51:1-6", "at": "Exodus 20:8-10", "paras": ["“Remember the sabbath day", "“But the seventh day is the sabbath"] },
         { "video": "Ogq8ZVwtDRM", "opened": "Jeremiah 51:1-6", "at": "Matthew 28:1", "paras": ["Write this down."] },
@@ -77,6 +81,7 @@
       "slug": "unclean-meats",
       "name": "Pork and every meat are clean now",
       "claim": "The dietary laws ended with the New Testament: pork, shellfish and every animal are clean to eat once you pray over it.",
+      "terms": "swine|pork|shrimp|unclean (meat|food)|clean (and|or) unclean",
       "answers": [
         { "video": "0nTb2YB-Tns", "opened": "1 Timothy 4:1-5", "at": "Leviticus 11:44-47", "paras": ["Here is where the animals were sanctified", "“This is the law of the beasts", "That is how the word sanctifies"] },
         { "video": "JDW1q70sbhI", "opened": "Luke 19:11-18,20-23", "at": "Isaiah 66:15-17", "paras": ["“They that sanctify themselves"] },
@@ -94,6 +99,7 @@
       "slug": "christmas",
       "name": "Christmas is Christ's birthday",
       "claim": "December 25th is the birthday of Jesus Christ, and Christmas, with its tree and its gifts, is a holy day for believers.",
+      "terms": "christmas|december 25",
       "answers": [
         { "video": "dotETmzPUbc", "opened": "Jeremiah 10:1-5", "at": "v1-2", "paras": ["“Learn not the way of the heathen”"] },
         { "video": "dotETmzPUbc", "opened": "Jeremiah 10:1-5", "at": "v3-4", "paras": ["“For the customs of the people are vain”"] },
@@ -112,6 +118,7 @@
       "slug": "easter",
       "name": "Easter is the resurrection",
       "claim": "Easter Sunday, with its eggs and rabbits, is the holy day of Christ's resurrection, and the Bible itself names it.",
+      "terms": "easter|ishtar|good friday",
       "answers": [
         { "video": "iuzfzwu8o0c", "opened": "Deuteronomy 32:15", "at": "1 Kings 11:1-12", "paras": ["“For Solomon went after Ashtoreth"] },
         { "video": "mS6qcYR9lbk", "opened": "Romans 15:4", "at": "Acts 12:1-4", "paras": ["He put him in prison"] },
@@ -128,6 +135,7 @@
       "slug": "tithes",
       "name": "Tithe to the pastor",
       "claim": "Christians must give a tenth of their money to the church and the pastor, or they are robbing God.",
+      "terms": "tith",
       "answers": [
         { "video": "Qw2v07pohR4", "opened": "2 Maccabees 3:1-6", "at": "v6", "paras": ["The riches that did not pertain"] },
         { "video": "Qw2v07pohR4", "opened": "2 Maccabees 3:1-6", "at": "Deuteronomy 14:28-29", "paras": ["This is what the money in the temple was for"] },
@@ -146,6 +154,7 @@
       "slug": "curse-of-ham",
       "name": "Black people carry the curse of Ham",
       "claim": "Noah cursed Ham, and black people, as Ham's children, carry that curse of slavery.",
+      "terms": "curse of ham|ham.{0,20}cursed|canaan.{0,10}cursed",
       "answers": [
         { "video": "-QJZ04vGiMw", "opened": "Genesis 9:25-27", "at": "v25", "paras": ["People like to say the Israelites stole"] },
         { "video": "-QJZ04vGiMw", "opened": "Genesis 9:25-27", "at": "v26", "paras": ["“Blessed be the Lord God of Shem"] },
@@ -162,6 +171,7 @@
       "slug": "faith-alone",
       "name": "Faith alone saves",
       "claim": "A man is saved by faith alone: believe in Jesus and you are saved whatever you do, once saved always saved.",
+      "terms": "once saved|faith alone|faith without works|just believe|works (is|are) dead",
       "answers": [
         { "video": "e6T83y297Cc", "opened": "James 2:14-17", "at": "v14", "paras": ["The churches use faith like it is just a little thing", "“What doth it profit, my brethren"] },
         { "video": "e6T83y297Cc", "opened": "James 2:14-17", "at": "Hebrews 11:1", "paras": ["“The evidence of things not seen.”"] },
@@ -178,6 +188,7 @@
       "slug": "salvation-for-all-nations",
       "name": "Salvation is for all nations",
       "claim": "Christ died for every nation, so salvation and the kingdom are open to all people alike: \"whosoever believeth\" (John 3:16).",
+      "terms": "all nations (can|will|shall|could) be saved|(other|all) nations.{0,20}saved|salvation (is )?(not )?for (all|every)|salvation.{0,30}only (for )?israel|whosoever",
       "answers": [
         { "video": "5ckbGq_KbOs", "opened": "2 Timothy 3:15-17", "at": "Matthew 15:24", "paras": ["Where does it say Christ came to die", "Christ, who died and rose from the dead"] },
         { "video": "QNTH14obhzs", "opened": "Jeremiah 23:1-14", "at": "Matthew 15:24", "paras": ["Christ said", "The sheep are not all nations"] },
@@ -196,6 +207,7 @@
       "slug": "so-called-jews",
       "name": "The Jews of today are Israel",
       "claim": "The people called Jews today, in the state of Israel and around the world, are the children of the Israelites of the Bible.",
+      "terms": "so-called jew|fake jew|khazar|synagogue of satan|say they are jews",
       "answers": [
         { "video": "Dz9y53bdfd4", "opened": "Revelation 2:9", "at": "v9", "paras": ["“I know thy works, and tribulation"] },
         { "video": "xWuNI4KEMqU", "opened": "Revelation 2:9-11", "at": "v9", "paras": ["“I know thy works, and tribulation", "This is what Christ is calling them."] },
@@ -212,6 +224,7 @@
       "slug": "white-jesus",
       "name": "Jesus Christ was a white man",
       "claim": "Jesus Christ and the Israelites were white, as the church's paintings and statues show them.",
+      "terms": "white (jesus|christ|messiah)|cesare borgia|caesar borgia|image of jesus",
       "answers": [
         { "video": "mHKbqNLtmwc", "opened": "Revelation 1:14-16", "at": "v14", "paras": ["“His head and his hairs were white like wool,”", "So when the churches say that's his glorified state"] },
         { "video": "mHKbqNLtmwc", "opened": "Revelation 1:14-16", "at": "v15", "paras": ["“And his feet like unto fine brass"] },
@@ -229,6 +242,7 @@
       "slug": "rastafari",
       "name": "Rastafari",
       "claim": "Haile Selassie is God come in the flesh, Jah is his name, and Ethiopia is Zion, the homeland our people must return to.",
+      "terms": "rasta|selassie",
       "answers": [
         { "video": "hGuiflP0yaw", "opened": "Psalms 68:1-10", "at": "v4", "paras": ["“Extol him that rideth upon"] },
         { "video": "_NDiyIVPbgQ", "from": "1:35:34", "to": "1:35:48", "ref": "Isaiah 1:3", "text": "But Israel, but our people the Israelites, does not know. They don't know where their homeland is, they don't know where their home is, they don't know where their land is." },
@@ -246,6 +260,7 @@
       "slug": "apologetics",
       "name": "The apologetics",
       "claim": "The Christian and urban apologetics: the scriptures must be read through the church's scholars and hermeneutics, the Israelites \"hopscotch\" through the Bible, and its prophecies of the curses are not about black people today.",
+      "terms": "apologetic",
       "answers": [
         { "video": "5ckbGq_KbOs", "opened": "2 Corinthians 4:1-3", "at": "1 Corinthians 2:4", "paras": ["This one is for the dumb apologetics. It i"] },
         { "video": "5ckbGq_KbOs", "opened": "Psalms 111:10", "at": "James 1:5-6", "paras": ["“If any of you lack wisdom, let"] },
@@ -264,6 +279,7 @@
       "slug": "egyptology",
       "name": "Egyptology and Kemet",
       "claim": "The Kemetic teaching: the ancient Egyptians are our ancestors, Kemet's gods and wisdom are our true heritage, and the black woman is god on earth.",
+      "terms": "kemet|khemet|egyptolog|hotep",
       "answers": [
         { "video": "wHLEgliquFU", "opened": "Exodus 1:1-8", "at": "Psalms 105:23", "paras": ["The name of the continent: “Is"] },
         { "video": "HNnKoVf4zOs", "opened": "Ezekiel 29:13-16", "at": "v14-15", "paras": ["“And they shall be there a base kingdom.” Bas"] },
@@ -282,6 +298,7 @@
       "slug": "islam",
       "name": "Islam",
       "claim": "Islam is the black man's original religion: Allah is God, Muhammad is his prophet and the Quran is his word.",
+      "terms": "\\bislam|muslim|allah|muhammad|quran|koran",
       "answers": [
         { "video": "elNEB8tpb-c", "opened": "Deuteronomy 28:64", "at": "v64", "paras": ["The Arab slave trade lasted more"] },
         { "video": "elNEB8tpb-c", "opened": "Deuteronomy 28:64", "at": "Jeremiah 3:1-2", "paras": ["“And thou hast polluted the land”: in"] },
@@ -299,6 +316,7 @@
       "slug": "catholic-church",
       "name": "The Catholic Church and the pope",
       "claim": "The Roman Catholic Church is the true church of Jesus Christ and the pope is the Vicar of Christ on earth.",
+      "terms": "\\bpope|catholic|vatican|jesuit",
       "answers": [
         { "video": "Dt0hL9vHpZ8", "opened": "Romans 3:3-4", "at": "v3", "paras": ["A Mexican brother said the"] },
         { "video": "Dt0hL9vHpZ8", "opened": "Revelation 13:5-8", "at": "v8", "paras": ["In the Pillory: The"] },
@@ -315,6 +333,7 @@
       "slug": "denominations",
       "name": "The denominations",
       "claim": "Baptist, Methodist, Pentecostal, Adventist, Jehovah's Witness, Mormon and the other churches are the church of God.",
+      "terms": "baptist|methodist|pentecostal|adventist|jehovah|mormon|denomination",
       "answers": [
         { "video": "5Q2rftmZNcg", "opened": "2 Esdras 7:28-30", "at": "Colossians 2:8", "paras": ["Like who? Pope"] },
         { "video": "1jXnB9u2FpU", "opened": "2 Esdras 16:68-78", "at": "1 Timothy 4:1-5", "paras": ["Roman Catholicism is the mother church of a"] },
@@ -331,6 +350,7 @@
       "slug": "all-religions",
       "name": "All religions lead to God",
       "claim": "Every religion serves the same God by a different name: Allah, Krishna, Buddha and Jesus are all one, so it does not matter which you follow.",
+      "terms": "same god|all religions|every religion|freedom of religion",
       "answers": [
         { "video": "Dvja0vhkJ6o", "opened": "2 Corinthians 10:5", "at": "v5", "paras": ["America says freedom of religion; tha"] },
         { "video": "T2fTN52Aq_U", "opened": "Daniel 3:1-29", "at": "Revelation 13:6-8", "paras": ["“And all that dwell upon the earth shal"] },
@@ -346,6 +366,7 @@
       "slug": "homosexuality",
       "name": "Homosexuality is no sin",
       "claim": "God made people gay; homosexuality and the LGBT life are no sin and do not keep anyone out of the kingdom.",
+      "terms": "homosexual|lgbt|\\bgay|sodomite|lesbian|effeminate",
       "answers": [
         { "video": "Pbm9vgNp3CY", "opened": "1 Timothy 1:9-11", "at": "Leviticus 18:22", "paras": ["Them that defile them"] },
         { "video": "2CCLKfUGj_I", "opened": "Isaiah 3:9", "at": "Romans 1:25-27", "paras": ["“For this cause God gave them up unto"] },
@@ -362,6 +383,7 @@
       "slug": "womens-pants",
       "name": "Women may wear pants",
       "claim": "Deuteronomy 22:5 is Old Testament and done away with, so a woman may wear what pertains to a man.",
+      "terms": "\\bpants|pertaineth unto a man",
       "answers": [
         { "video": "wr7L1S3LLl8", "opened": "Deuteronomy 22:5", "at": "v5", "paras": ["Pam tells the women they", "Start with the bottom: “ne", "Then read the top of t"] },
         { "video": "Ogq8ZVwtDRM", "opened": "Deuteronomy 22:5", "at": "v5", "paras": ["God commanded us not to be cut off in t"] }
@@ -375,6 +397,7 @@
       "slug": "holidays",
       "name": "The nations' holidays",
       "claim": "Thanksgiving, Halloween, Kwanzaa, Mother's Day and the other holidays of this land are harmless, and God's feasts are only for the Jews of old.",
+      "terms": "thanksgiving|halloween|kwanzaa|mother.?s day|father.?s day|holidays",
       "answers": [
         { "video": "6rbgmjYODZE", "opened": "Psalms 96:5", "at": "v5", "paras": ["“For all the gods of the nations are"] },
         { "video": "Dt0hL9vHpZ8", "opened": "Leviticus 23:1-2", "at": "v2", "paras": ["Here is the problem: “Sp"] },
@@ -391,6 +414,7 @@
       "slug": "birthdays",
       "name": "Birthdays",
       "claim": "Celebrating birthdays is a harmless custom that God approves.",
+      "terms": "birthday",
       "answers": [
         { "video": "vTxL9PTSR5M", "opened": "Acts 20:1-4", "at": "2 Maccabees 6:6-9", "paras": ["“And in the day of the king’s bi"] },
         { "video": "075qOUs8Sbc", "opened": "Genesis 40:1-23", "at": "v20-22", "paras": ["“It came to pass the third day, whi"] },
@@ -405,6 +429,7 @@
       "slug": "evolution",
       "name": "Evolution",
       "claim": "Man was not made by God: he evolved from apes over millions of years.",
+      "terms": "\\bevolution|darwin|big bang|monkeys|apes",
       "answers": [
         { "video": "bJcpoWHP4DQ", "opened": "Isaiah 60:11-14", "at": "1 Corinthians 15:37-45", "paras": ["“All flesh is not the same flesh: but"] },
         { "video": "uFv-RLbu9-c", "opened": "Daniel 7:19-25", "at": "v20", "paras": ["“Even of that horn that"] },
@@ -419,6 +444,7 @@
       "slug": "astrology",
       "name": "Astrology and the zodiac",
       "claim": "Your zodiac sign and the horoscope reveal your character and guide your life.",
+      "terms": "astrolog|zodiac|horoscope|stargaz",
       "answers": [
         { "video": "pZs5reAzxi4", "opened": "Deuteronomy 18:9-13", "at": "v10", "paras": ["“Or that useth divination”: div"] },
         { "video": "mS6qcYR9lbk", "opened": "Revelation 2:26-28", "at": "Galatians 5:19-21", "paras": ["“Idolatry”: ido"] },
@@ -433,6 +459,7 @@
       "slug": "spiritual-israel",
       "name": "Spiritual Israel",
       "claim": "Gentiles who believe are grafted into the olive tree and become spiritual Israel, the church.",
+      "terms": "spiritual (israel|jew)|graff|grafted|olive tree",
       "answers": [
         { "video": "elNEB8tpb-c", "opened": "Romans 11:16-27", "at": "v17", "paras": ["“And if some of the branches be b"] },
         { "video": "08GsJvxEFmg", "opened": "Zechariah 11:6-11", "at": "Romans 11:23-24", "paras": ["“For God is able to graff them"] },
@@ -447,6 +474,7 @@
       "slug": "saved-without-the-law",
       "name": "Israelites are saved however they live",
       "claim": "A teaching of some Israelite camps: because you are an Israelite you can sin all you want, and when you die you come back in the kingdom.",
+      "terms": "sin all you want|come back (in the kingdom )?as a baby|when you die you (get|come|become)",
       "answers": [
         { "video": "Pbm9vgNp3CY", "opened": "2 Esdras 4:30-31", "at": "2 Esdras 7:48-56", "paras": ["“For while we lived and"] },
         { "video": "zepOyiAQOWo", "opened": "Revelation 20:1-6", "at": "v5", "paras": ["That is important because ther"] },
@@ -462,6 +490,7 @@
       "slug": "heaven-at-death",
       "name": "Heaven or hell the moment you die",
       "claim": "When you die your soul flies straight to heaven in the sky, or the devil starts tormenting you in hell right away.",
+      "terms": "(go|going) to heaven|up in the sky|when you die|after death|hell ?fire|pitchfork",
       "answers": [
         { "video": "ga08yEpIDoA", "opened": "Job 3:11-19", "at": "v19", "paras": ["Job is explaining death. When"] },
         { "video": "TNspZpF-KlE", "opened": "Hebrews 2:14-15", "at": "Revelation 1:18", "paras": ["So what about hell? We j"] },

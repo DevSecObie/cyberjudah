@@ -146,6 +146,53 @@ export function resolveDoctrine(doc, { readPass, readTranscript = () => null, ha
   return { doctrines, problems };
 }
 
+/** Whether a paragraph quotes a verse: five of its words in a row. */
+function quotes(text, verse) {
+  const w = words(verse), hay = words(text);
+  if (w.length < 5) return w.length > 0 && contains(hay, w);
+  for (let i = 0; i + 5 <= w.length; i++) if (contains(hay, w.slice(i, i + 5))) return true;
+  return false;
+}
+
+const RANK = ["Bishop", "Deacon", "Captain", "Elder"];
+const rankOf = (teacher) => { const i = RANK.findIndex((r) => teacher.startsWith(r)); return i < 0 ? RANK.length : i; };
+
+/**
+ * The points under one scripture: up to `max` paragraphs, word for word, in which the merged passes
+ * break that verse down, each from a different class. Those that speak to the doctrine (its `terms`)
+ * come first, then a Bishop's before a Deacon's and so on, then the shorter; paragraphs the doctrine
+ * already quotes as answers are left out. A verse no pass breaks down gets the class moments it was
+ * read in instead (`read: true`), so a point is never anyone's words but a teacher's.
+ */
+export function pointsFor(ref, { said, heard, terms = "", taken = new Set(), readTranscript = () => null, verseText = () => "", max = 2 }) {
+  const match = terms ? new RegExp(terms, "i") : null;
+  const seen = new Set(), all = [];
+  for (const v of verseList(ref.verses)) for (const p of said.get(`${ref.book}|${ref.chapter}|${v}`) ?? []) {
+    if (taken.has(p.text) || seen.has(p.text)) continue;
+    // A block of several verses or paragraphs speaks to this verse only where it quotes it.
+    if (!p.only && !quotes(p.text, verseText(ref.book, ref.chapter, v))) continue;
+    seen.add(p.text); all.push(p);
+  }
+  all.sort((a, b) => (match && !match.test(a.text)) - (match && !match.test(b.text)) || rankOf(a.teacher) - rankOf(b.teacher) || a.text.length - b.text.length);
+  const out = [], videos = new Set();
+  for (const p of all) {
+    if (out.length >= max) break;
+    if (videos.has(p.video)) continue;
+    videos.add(p.video);
+    out.push({ video: p.video, ts: p.ts, t: hmsToSeconds(p.ts), teacher: p.teacher, title: p.title, date: p.date, text: p.text });
+  }
+  if (out.length) return out;
+  for (const v of verseList(ref.verses)) for (const [video, t] of heard.get(`${ref.book}|${ref.chapter}|${v}`) ?? []) {
+    if (out.length >= max) break;
+    if (videos.has(video)) continue;
+    videos.add(video);
+    const tr = readTranscript(video);
+    const ts = [Math.floor(t / 3600), Math.floor(t / 60) % 60, t % 60].map((x, i) => (i ? String(x).padStart(2, "0") : String(x))).join(":").replace(/^0:/, "");
+    out.push({ video, ts, t, title: tr?.cleanTitle || tr?.title || "", date: tr?.date || "", read: true });
+  }
+  return out;
+}
+
 /** Reads data/doctrine.json and resolves it from the repository's passes and Bible data. */
 export function loadDoctrine(ROOT) {
   const file = path.join(ROOT, "data", "doctrine.json");
@@ -179,30 +226,50 @@ export function loadDoctrine(ROOT) {
   }
   // Every verse the classes used: the passages they opened, the verses they explained and the
   // precepts they gave in the merged passes, and the scriptures of the precept topics.
+  // The pass paragraphs that break each verse down are kept too, for the points under a scripture.
   const used = new Set();
   const use = (r) => { if (r) for (const v of verseList(r.verses)) used.add(`${r.book}|${r.chapter}|${v}`); };
+  const said = new Map();
+  const tell = (r, from, text, ts) => {
+    if (!r) return;
+    const vs = verseList(r.verses);
+    for (const v of vs) {
+      const k = `${r.book}|${r.chapter}|${v}`;
+      if (!said.has(k)) said.set(k, []);
+      const paras = String(text).split("\n\n");
+      for (const para of paras) said.get(k).push({ ...from, ts, text: para, only: vs.length === 1 && paras.length === 1 });
+    }
+  };
   for (const f of fs.readdirSync(passDir).filter((f) => f.endsWith(".json"))) {
     const pass = JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8"));
     for (const p of pass.passages ?? []) {
       const o = splitRef(p.opened); use(o);
-      for (const s of p.sense ?? []) if (o) use({ book: o.book, chapter: o.chapter, verses: s.at });
-      for (const q of p.precepts ?? []) use(splitRef(q.ref));
+      const from = { video: pass.video, teacher: p.teacher || pass.teacher || "", title: pass.title ?? "", date: pass.date ?? "" };
+      for (const s of p.sense ?? []) if (o) { const r = { book: o.book, chapter: o.chapter, verses: s.at }; use(r); tell(r, from, s.text, p.ts); }
+      for (const q of p.precepts ?? []) { const r = splitRef(q.ref); use(r); tell(r, from, q.why, q.ts ?? p.ts); }
     }
   }
   const topics = path.join(ROOT, "data", "precepts.json");
   if (fs.existsSync(topics)) for (const t of JSON.parse(fs.readFileSync(topics, "utf8")).topics ?? []) for (const r of t.refs ?? []) use({ ...r, book: BOOK_ALIAS[r.book] ?? r.book });
   // And every verse read aloud in a class, as the transcripts place the readings (data/precepts/readings).
   const readDir = path.join(ROOT, "data", "precepts", "readings");
+  const heard = new Map();
   for (const e of index) {
     const f = path.join(readDir, `${e.slug}.json`);
     if (!fs.existsSync(f)) continue;
-    for (const [ch, verses] of Object.entries(JSON.parse(fs.readFileSync(f, "utf8")))) for (const v of Object.keys(verses)) used.add(`${e.book}|${ch}|${v}`);
+    for (const [ch, verses] of Object.entries(JSON.parse(fs.readFileSync(f, "utf8")))) for (const [v, at] of Object.entries(verses)) { used.add(`${e.book}|${ch}|${v}`); heard.set(`${e.book}|${ch}|${v}`, at); }
   }
   const versesIn = new Map();
   const verseCount = (book, chapter) => {
     if (!versesIn.has(book)) { const e = index.find((b) => b.book === book); versesIn.set(book, e ? JSON.parse(fs.readFileSync(path.join(ROOT, "data", "bible", `${e.slug}.json`), "utf8")).chapters : {}); }
     return versesIn.get(book)[String(chapter)]?.length ?? 0;
   };
+  const verseText = (book, chapter, v) => { verseCount(book, chapter); return versesIn.get(book)?.[String(chapter)]?.[v - 1] ?? ""; };
   const { doctrines, problems } = resolveDoctrine(doc, { readPass, readTranscript, hasChapter, teacherOf: (v) => teachers.get(v) ?? "", verseCount, classUses: (book, chapter, v) => used.has(`${book}|${chapter}|${v}`) });
+  for (const d of doctrines) {
+    const terms = (doc.doctrines.find((x) => x.slug === d.slug)?.terms) ?? "";
+    const taken = new Set(d.answers.flatMap((a) => a.text.split("\n\n")));
+    d.scriptures = d.scriptures.map((ref) => ({ ...ref, points: pointsFor(ref, { said, heard, terms, taken, readTranscript, verseText }) }));
+  }
   return { title: doc.title ?? "Doctrine", intro: doc.intro ?? "", doctrines, problems };
 }

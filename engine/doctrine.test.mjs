@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { blockRef, loadDoctrine, resolveDoctrine, splitRef } from "./doctrine.mjs";
+import { blockRef, loadDoctrine, pointsFor, resolveDoctrine, splitRef } from "./doctrine.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -84,6 +84,22 @@ test("a doctrine's scriptures are verses the classes used, never more", () => {
   assert.equal(one(["Hosea 1:10-12"]).problems.length, 1);
   assert.equal(one(["Hosea 1:21"]).problems.length, 1);
   assert.equal(one(["Micah 5:3"]).problems.length, 1);
+});
+
+test("the points under a scripture are the classes' own paragraphs on that verse", () => {
+  const from = (video, teacher) => ({ video, teacher, title: "T", date: "", ts: "1:00" });
+  const said = new Map([["Hosea|1|10", [
+    { ...from("aaaaaaaaaaa", "Deacon Eythan"), text: "Long about the sand of the sea and Israel only.", only: true },
+    { ...from("bbbbbbbbbbb", "Bishop Nathanyel"), text: "Short.", only: true },
+    { ...from("bbbbbbbbbbb", "Bishop Nathanyel"), text: "Same class again.", only: true },
+    { ...from("ccccccccccc", "Bishop Kani"), text: "A run of verses that never quotes this one.", only: false },
+    { ...from("ddddddddddd", "Bishop Kani"), text: "Already an answer.", only: true },
+  ]]]);
+  const verseText = () => "Yet the number of the children of Israel shall be as the sand of the sea";
+  const pts = pointsFor({ book: "Hosea", chapter: 1, verses: "10" }, { said, heard: new Map(), terms: "israel only", taken: new Set(["Already an answer."]), verseText });
+  assert.deepEqual(pts.map((p) => p.video), ["aaaaaaaaaaa", "bbbbbbbbbbb"]);
+  const read = pointsFor({ book: "Hosea", chapter: 2, verses: "1" }, { said, heard: new Map([["Hosea|2|1", [["eeeeeeeeeee", 3725]]]]), readTranscript: () => ({ title: "A class", date: "2026-01-01" }) });
+  assert.deepEqual(read, [{ video: "eeeeeeeeeee", ts: "1:02:05", t: 3725, title: "A class", date: "2026-01-01", read: true }]);
 });
 
 test("data/doctrine.json resolves against the merged passes", () => {

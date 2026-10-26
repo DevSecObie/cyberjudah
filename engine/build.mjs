@@ -238,7 +238,10 @@ for (const d of doctrine.doctrines) writeJson(path.join(API, "doctrine", `${d.sl
     const note = noteByVideo.get(a.video);
     return { refs: [resolveRef(a.ref)], sense: [{ video: a.video, ts: a.ts, t: a.t, teacher: a.teacher, title: note?.title || a.title, date: note?.date || a.date, text: a.text, note: note ? `${note.url}?t=${a.t}` : null }] };
   }),
-  scriptures: d.scriptures.map(resolveRef),
+  scriptures: d.scriptures.map(({ points, ...ref }) => ({ ...resolveRef(ref), points: points.map((p) => {
+    const note = noteByVideo.get(p.video);
+    return { ...p, title: note?.title || p.title, date: note?.date || p.date, note: note ? `${note.url}?t=${p.t}` : null };
+  }) })),
   related: { precepts: (d.related.precepts ?? []).map((slug) => { const p = L.findPrecept(slug); return p ? { slug: p.slug, title: p.title, url: preceptUrl(p) } : null; }).filter(Boolean) },
 });
 writeJson(path.join(API, "doctrine", "index.json"), doctrine.doctrines.map((d) => ({ slug: d.slug, name: d.name, claim: d.claim, refs: d.answers.length, scriptures: d.scriptures.length, url: doctrineUrl(d) })));
