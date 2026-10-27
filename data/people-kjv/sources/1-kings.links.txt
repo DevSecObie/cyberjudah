@@ -1,0 +1,69 @@
+# Family links in 1 Kings, each with the verse that states it (same format as genesis.links.txt).
+adonijah << haggith | 1:5,1:11,2:13
+solomon < david | 1:13,1:17,1:30,2:1,2:12,11:43
+solomon << bath-sheba | 1:11,2:13,2:19,2:22 | "Bath-sheba the mother of Solomon"
+benaiah < jehoiada | 1:8,1:26,1:32,1:36,1:38,1:44,2:25,2:29,2:34,2:35,2:46,4:4
+jonathan-a < abiathar | 1:42
+abner < ner | 2:5,2:32
+amasa < ithra | 2:5,2:32 | "Amasa the son of Jether"
+joab << zeruiah | 2:5,2:22 | "Joab the son of Zeruiah"
+shimei-g < gera-s | 2:8
+shimei-g & benjamin | 2:8 | "a Benjamite of Bahurim"
+achish-m < maachah-g | 2:39
+azariah-z < zadok | 4:2
+elihoreph ahiah-s < shisha | 4:3
+jehoshaphat < ahilud | 4:3
+azariah-n zabud < nathan-o | 4:5
+adoniram < abda | 4:6
+baana < ahilud-b | 4:12
+taphath < solomon | 4:11
+ahinadab < iddo | 4:14
+basmath < solomon | 4:15
+ahimaaz-n = basmath | 4:15 | "took Basmath the daughter of Solomon to wife"
+baanah-h < hushai-b | 4:16
+jehoshaphat-p < paruah | 4:17
+shimei-e < elah-b | 4:18
+geber-u < uri-g | 4:19
+ethan @ ezrahite | 4:31
+heman chalcol darda < mahol | 4:31
+hiram-c & naphtali | 7:14 | "a widow's son of the tribe of Naphtali"
+genubath < hadad-e | 11:19,11:20 | "bare him Genubath his son"
+rezon < eliadah | 11:23
+jeroboam < nebat | 11:26,12:2,12:15,15:1,16:3,16:26,16:31,21:22,22:52
+jeroboam << zeruah | 11:26
+jeroboam @ ephrathites | 11:26
+ahijah @ shilonite | 11:29,12:15,15:29
+rehoboam < solomon | 11:43,12:21,12:23,14:21
+rehoboam << naamah-a | 14:21,14:31
+naamah-a @ ammon | 14:21,14:31
+abijah < jeroboam | 14:1
+abijam < rehoboam | 14:31
+abijam << maachah-a | 15:2
+maachah-a < abishalom | 15:2,15:10
+asa < abijam | 15:8
+asa << maachah-a | 15:10,15:13 | "his mother's name was Maachah, the daughter of Abishalom"
+nadab-j < jeroboam | 14:20,15:25
+baasha < ahijah-i | 15:27,15:33,21:22
+baasha & issachar | 15:27 | "of the house of Issachar"
+ben-hadad-t < tabrimon | 15:18
+tabrimon < hezion | 15:18
+jehu-h < hanani | 16:1,16:7
+elah-k < baasha | 16:6,16:8
+tibni < ginath | 16:21,16:22
+ahab < omri | 16:28,16:29,16:30
+ahab = jezebel | 16:31 | "he took to wife Jezebel"
+jezebel < ethbaal | 16:31
+abiram-h segub < hiel | 16:34
+hiel @ beth-elite | 16:34
+elijah @ tishbite | 17:1,21:17,21:28
+jehu ^ nimshi | 19:16 | "Jehu the son of Nimshi"; 2 Kings 9:2 names his father Jehoshaphat, the son of Nimshi
+elisha < shaphat-e | 19:16,19:19
+naboth @ jezreelitess | 21:1,21:4,21:6,21:7,21:15,21:16
+micaiah < imlah | 22:8,22:9
+zedekiah < chenaanah | 22:11,22:24
+jehoshaphat-k < asa | 15:24,22:41
+jehoshaphat-k << azubah | 22:42
+azubah < shilhi | 22:42
+ahaziah < ahab | 22:40,22:51
+jehoram < jehoshaphat-k | 22:50
+abishalom == absalom | 15:2,15:10 | "Maachah, the daughter of Abishalom" (1 Kings 15:2) is "Maachah the daughter of Absalom" (2 Chronicles 11:20-21) | history | Josephus, Antiquities of the Jews 8.10.1 (Whiston): Rehoboam "married also another of his own kindred, who was daughter of Absalom by Tamar, whose name was Maachah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link82H_4_0001> ; Josephus, Antiquities 7.10.3: Absalom's daughter Tamar "married to David's grandson, Rehoboam" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link72H_4_0001> ; Jewish Encyclopedia (1901-1906) vol. 8 p. 233, "Maacah" no. 4 <https://archive.org/details/cu31924091768253/page/n260/mode/1up>

@@ -1,0 +1,281 @@
+# 1 Kings: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+# "Israel" in 1 Kings is the people, except 18:31 and 18:36, where it is the man Jacob.
+david | | David | * | + |
+israel-people | | Israel | !18:31,!18:36 | + |
+jacob | | Israel | 18:31,18:36 | + |
+abishag | Abishag | Abishag | * | F | A Shunammite, a fair damsel brought to cherish king David in his old age; Adonijah asked her to wife (1 Kings 1:3-4, 1:15, 2:17-22)
+shunammite | Shunammite | Shunammite | * | G | "Abishag a Shunammite" (1 Kings 1:3, 1:15, 2:17, 2:21-22)
+adonijah | | Adonijah | * | + |
+haggith | | Haggith | * | + |
+absalom | | Absalom | * | + |
+joab | | Joab | * | + |
+zeruiah | | Zeruiah | * | + |
+abiathar | | Abiathar | * | + |
+zadok | | Zadok | * | + |
+benaiah | | Benaiah | * | + |
+jehoiada | | Jehoiada | * | + |
+nathan | | Nathan | 1:8,1:10,1:11,1:22,1:23,1:24,1:32,1:34,1:38,1:44,1:45 | + |
+nathan-o | Nathan | Nathan | 4:5 | M | The father of Azariah who was over the officers, and of Zabud the principal officer (1 Kings 4:5)
+shimei-r | Shimei | Shimei | 1:8 | M | Named with Rei and the mighty men, who were not with Adonijah (1 Kings 1:8)
+shimei-g | | Shimei | 2:8,2:36,2:38,2:39,2:40,2:41,2:42,2:44 | + |
+shimei-e | Shimei | Shimei | 4:18 | M | The son of Elah, Solomon's officer in Benjamin (1 Kings 4:18)
+rei | Rei | Rei | * | M | Named with Shimei and the mighty men, who were not with Adonijah (1 Kings 1:8)
+zoheleth | Zoheleth | Zoheleth | * | P | The stone by En-rogel where Adonijah slew sheep and oxen (1 Kings 1:9)
+en-rogel | | En-rogel | * | + |
+judah | | Judah | * | + |
+solomon | | Solomon | * | + |
+bath-sheba | | Bath-sheba | * | + |
+gihon-j | Gihon | Gihon | * | P | Where Solomon was brought upon David's mule and anointed king (1 Kings 1:33, 1:38, 1:45)
+cherethites | | Cherethites | * | + |
+pelethites | | Pelethites | * | + |
+jonathan-a | | Jonathan | * | + |
+moses | | Moses | * | + |
+abner | | Abner | * | + |
+ner | | Ner | * | + |
+amasa | | Amasa | * | + |
+ithra | | Jether | * | + |
+barzillai | | Barzillai | * | + |
+gileadites-j | | Gileadite | * | + |
+gera-s | | Gera | * | + |
+benjamites | | Benjamite | * | + |
+bahurim | | Bahurim | * | + |
+mahanaim | | Mahanaim | * | + |
+jordan | | Jordan | * | + |
+hebron | | Hebron | * | + |
+jerusalem | | Jerusalem | * | + |
+anathoth | | Anathoth | * | + |
+eli | | Eli | * | + |
+kidron | | Kidron | * | + |
+achish-m | Achish | Achish | * | M | The son of Maachah, king of Gath, to whom Shimei's servants fled (1 Kings 2:39-40)
+maachah-g | Maachah | Maachah | 2:39 | M | The father of Achish king of Gath (1 Kings 2:39)
+maachah-a | Maachah | Maachah | 15:2,15:10,15:13 | F | The daughter of Abishalom, mother of Abijam and named mother of Asa; Asa removed her from being queen for her idol (1 Kings 15:2, 15:10, 15:13)
+gath | | Gath | * | + |
+pharaoh-s | Pharaoh | Pharaoh | 3:1,7:8,9:16,9:24,11:1 | M | King of Egypt, with whom Solomon made affinity and whose daughter he took; he took Gezer and gave it for a present unto his daughter (1 Kings 3:1, 7:8, 9:16, 9:24, 11:1)
+pharaoh-h | Pharaoh | Pharaoh | 11:18,11:19,11:20,11:21,11:22 | M | King of Egypt, who gave Hadad the Edomite a house and the sister of Tahpenes the queen to wife (1 Kings 11:18-22)
+egypt | | Egypt | * | + |
+gibeon | | Gibeon | * | + |
+azariah-z | Azariah | Azariah | 4:2 | M | The son of Zadok the priest, one of Solomon's princes (1 Kings 4:2)
+azariah-n | Azariah | Azariah | 4:5 | M | The son of Nathan, over the officers of Solomon (1 Kings 4:5)
+elihoreph | Elihoreph | Elihoreph | * | M | A son of Shisha, scribe to Solomon (1 Kings 4:3)
+ahiah-s | Ahiah | Ahiah | * | M | A son of Shisha, scribe to Solomon (1 Kings 4:3)
+shisha | Shisha | Shisha | * | M | The father of Elihoreph and Ahiah, Solomon's scribes (1 Kings 4:3)
+jehoshaphat | | Jehoshaphat | 4:3 | + |
+jehoshaphat-p | Jehoshaphat | Jehoshaphat | 4:17 | M | The son of Paruah, Solomon's officer in Issachar (1 Kings 4:17)
+jehoshaphat-k | Jehoshaphat | Jehoshaphat | 15:24,22:2,22:4,22:5,22:7,22:8,22:10,22:18,22:29,22:30,22:32,22:41,22:42,22:44,22:45,22:48,22:49,22:50,22:51 | M | The son of Asa, king of Judah twenty and five years, who went with Ahab to Ramoth-gilead (1 Kings 15:24, 22:2-50)
+ahilud | | Ahilud | 4:3 | + |
+ahilud-b | Ahilud | Ahilud | 4:12 | M | The father of Baana, Solomon's officer (1 Kings 4:12)
+zabud | Zabud | Zabud | * | M | The son of Nathan, principal officer and the king's friend (1 Kings 4:5)
+ahishar | Ahishar | Ahishar | * | M | Over Solomon's household (1 Kings 4:6)
+adoniram | Adoniram | Adoniram | * | M | The son of Abda, over the tribute and over the levy sent to Lebanon (1 Kings 4:6, 5:14)
+abda | Abda | Abda | * | M | The father of Adoniram (1 Kings 4:6)
+hur-e | Hur | Hur | * | M | Whose son was Solomon's officer in mount Ephraim (1 Kings 4:8)
+ephraim | | Ephraim | * | + |
+dekar | Dekar | Dekar | * | M | Whose son was Solomon's officer in Makaz and Shaalbim (1 Kings 4:9)
+makaz | Makaz | Makaz | * | P | In the charge of the son of Dekar (1 Kings 4:9)
+shaalbim | | Shaalbim | * | + |
+beth-shemesh | | Beth-shemesh | * | + |
+elon-beth-hanan | Elon-beth-hanan | Elon-beth-hanan | * | P | In the charge of the son of Dekar (1 Kings 4:9)
+hesed | Hesed | Hesed | * | M | Whose son was Solomon's officer in Aruboth (1 Kings 4:10)
+aruboth | Aruboth | Aruboth | * | P | In the charge of the son of Hesed (1 Kings 4:10)
+sochoh | Sochoh | Sochoh | * | P | Pertaining to the son of Hesed (1 Kings 4:10)
+hepher-city | | Hepher | * | + |
+abinadab-d | Abinadab | Abinadab | * | M | Whose son was Solomon's officer in all the region of Dor, and had Taphath the daughter of Solomon to wife (1 Kings 4:11)
+dor | | Dor | * | + |
+taphath | Taphath | Taphath | * | F | The daughter of Solomon, wife of the son of Abinadab (1 Kings 4:11)
+baana | Baana | Baana | * | M | The son of Ahilud, Solomon's officer over Taanach, Megiddo and Beth-shean (1 Kings 4:12)
+taanach | | Taanach | * | + |
+megiddo | | Megiddo | * | + |
+beth-shean | | Beth-shean | * | + |
+zartanah | Zartanah | Zartanah | * | P | By Beth-shean beneath Jezreel (1 Kings 4:12)
+jezreel | | Jezreel | * | + |
+abel-meholah | | Abel-meholah | * | + |
+jokneam | | Jokneam | * | + |
+geber | Geber | Geber | 4:13 | M | Whose son was Solomon's officer in Ramoth-gilead (1 Kings 4:13)
+geber-u | Geber | Geber | 4:19 | M | The son of Uri, Solomon's officer in the country of Gilead, the country of Sihon and Og (1 Kings 4:19)
+ramoth-gilead | Ramoth-gilead | Ramoth-gilead | * | P | Where Ahab went up to battle and died (1 Kings 4:13, 22:3-36)
+jair | | Jair | * | + |
+manasseh | | Manasseh | * | + |
+gilead | | Gilead | * | + |
+argob | | Argob | * | + |
+bashan | | Bashan | * | + |
+ahinadab | Ahinadab | Ahinadab | * | M | The son of Iddo, Solomon's officer, who had Mahanaim (1 Kings 4:14)
+iddo | Iddo | Iddo | * | M | The father of Ahinadab (1 Kings 4:14)
+ahimaaz-n | Ahimaaz | Ahimaaz | * | M | Solomon's officer in Naphtali, who took Basmath the daughter of Solomon to wife (1 Kings 4:15)
+naphtali | | Naphtali | * | + |
+basmath | Basmath | Basmath | * | F | The daughter of Solomon, wife of Ahimaaz (1 Kings 4:15)
+baanah-h | Baanah | Baanah | * | M | The son of Hushai, Solomon's officer in Asher and in Aloth (1 Kings 4:16)
+hushai-b | Hushai | Hushai | * | M | The father of Baanah, Solomon's officer (1 Kings 4:16)
+asher | | Asher | * | + |
+aloth | Aloth | Aloth | * | P | In the charge of Baanah the son of Hushai (1 Kings 4:16)
+paruah | Paruah | Paruah | * | M | The father of Jehoshaphat, Solomon's officer in Issachar (1 Kings 4:17)
+issachar | | Issachar | * | + |
+elah-b | Elah | Elah | 4:18 | M | The father of Shimei, Solomon's officer in Benjamin (1 Kings 4:18)
+elah-k | Elah | Elah | 16:6,16:8,16:13,16:14 | M | The son of Baasha, king over Israel in Tirzah two years, slain by Zimri (1 Kings 16:6-14)
+benjamin | | Benjamin | * | + |
+uri-g | Uri | Uri | * | M | The father of Geber, Solomon's officer in Gilead (1 Kings 4:19)
+sihon | | Sihon | * | + |
+amorite | | Amorites | * | + |
+og | | Og | * | + |
+philistines | | Philistines | * | + |
+tiphsah | Tiphsah | Tiphsah | * | P | The bound of Solomon's dominion on this side the river (1 Kings 4:24)
+azzah | | Azzah | * | + |
+dan-place | | Dan | * | + |
+beer-sheba | | Beer-sheba | * | + |
+ethan | Ethan | Ethan | * | M | The Ezrahite, than whom Solomon was wiser (1 Kings 4:31)
+ezrahite | Ezrahite | Ezrahite | * | G | "Ethan the Ezrahite" (1 Kings 4:31)
+heman | Heman | Heman | * | M | A son of Mahol, than whom Solomon was wiser (1 Kings 4:31)
+chalcol | Chalcol | Chalcol | * | M | A son of Mahol, than whom Solomon was wiser (1 Kings 4:31)
+darda | Darda | Darda | * | M | A son of Mahol, than whom Solomon was wiser (1 Kings 4:31)
+mahol | Mahol | Mahol | * | M | The father of Heman, Chalcol and Darda (1 Kings 4:31)
+lebanon | | Lebanon | * | + |
+hiram | | Hiram | 5:1,5:2,5:7,5:8,5:10,5:11,5:12,5:18,9:11,9:12,9:14,9:27,10:11,10:22 | + |
+hiram-c | Hiram | Hiram | 7:13,7:40,7:45 | M | Out of Tyre, a widow's son of the tribe of Naphtali, whose father was a man of Tyre, a worker in brass, who made the pillars and the vessels of the house (1 Kings 7:13-45)
+tyre | | Tyre | * | + |
+sidonians | | Sidonians | * | + |
+zif | Zif | Zif | * | X | The second month, in which Solomon began to build the house (1 Kings 6:1, 6:37); not a person in People
+bul | Bul | Bul | * | X | The eighth month, in which the house was finished (1 Kings 6:38); not a person in People
+jachin-pillar | Jachin | Jachin | * | X | The right pillar of the porch of the temple (1 Kings 7:21); not a person in People
+boaz-pillar | Boaz | Boaz | * | X | The left pillar of the porch of the temple (1 Kings 7:21); not a person in People
+succoth | | Succoth | * | + |
+zarthan | Zarthan | Zarthan | * | P | In the plain of Jordan, where the brass was cast between Succoth and Zarthan (1 Kings 7:46)
+zion | | Zion | * | + |
+ethanim | Ethanim | Ethanim | * | X | The seventh month, of the feast (1 Kings 8:2); not a person in People
+levites | | Levites | * | + |
+horeb | | Horeb | * | + |
+hamath | | Hamath | * | + |
+galilee | | Galilee | * | + |
+cabul | | Cabul | * | + |
+millo | | Millo | * | + |
+hazor | | Hazor | * | + |
+gezer | | Gezer | * | + |
+canaanites | | Canaanites | * | + |
+beth-horon | | Beth-horon | * | + |
+baalath | | Baalath | * | + |
+tadmor | Tadmor | Tadmor | * | P | In the wilderness, built by Solomon (1 Kings 9:18)
+hittites | | Hittites | * | + |
+perizzites | | Perizzites | * | + |
+hivite | | Hivites | * | + |
+jebusite | | Jebusites | * | + |
+ezion-geber | Ezion-geber | Ezion-geber | * | P | Beside Eloth on the shore of the Red sea, where Solomon made a navy of ships (1 Kings 9:26, 22:48)
+eloth | Eloth | Eloth | * | P | On the shore of the Red sea in the land of Edom (1 Kings 9:26)
+edom-land | | Edom | * | + |
+ophir-place | Ophir | Ophir | * | P | Whence Solomon's navy fetched gold (1 Kings 9:28, 10:11, 22:48)
+sheba-land | Sheba | Sheba | * | P | Whose queen came to prove Solomon with hard questions (1 Kings 10:1-13)
+arabia | Arabia | Arabia | * | P | Whose kings brought Solomon gold (1 Kings 10:15)
+tharshish | Tharshish | Tharshish | * | P | "A navy of Tharshish" (1 Kings 10:22, 22:48)
+syria | | Syria | * | + |
+moabites | | Moabites | * | + |
+ammon | | Ammonites | * | + |
+edomites | | Edomites | * | + |
+sidonians | | Zidonians | * | + |
+ashtoreth | Ashtoreth | Ashtoreth | * | X | The goddess of the Zidonians, after whom Solomon went (1 Kings 11:5, 11:33); not a person in People
+milcom | Milcom | Milcom | * | X | The abomination of the Ammonites (1 Kings 11:5, 11:33); not a person in People
+chemosh | | Chemosh | * | + |
+moab-land | | Moab | * | + |
+molech | | Molech | * | + |
+ammon | | Ammon | * | + |
+hadad-e | Hadad | Hadad | * | M | The Edomite, of the king's seed in Edom, who fled into Egypt; an adversary unto Solomon (1 Kings 11:14-25)
+edomites | | Edomite | * | + |
+midian-land | | Midian | * | + |
+paran | | Paran | * | + |
+tahpenes | Tahpenes | Tahpenes | * | F | The queen of Egypt, wife of Pharaoh, whose sister was given to Hadad (1 Kings 11:19-20)
+genubath | Genubath | Genubath | * | M | The son of Hadad the Edomite by the sister of Tahpenes, brought up in Pharaoh's house (1 Kings 11:20)
+rezon | Rezon | Rezon | * | M | The son of Eliadah, who fled from Hadadezer king of Zobah and reigned in Damascus; an adversary to Israel (1 Kings 11:23-25)
+eliadah | Eliadah | Eliadah | * | M | The father of Rezon (1 Kings 11:23)
+hadadezer | | Hadadezer | * | + |
+zobah | | Zobah | * | + |
+damascus | | Damascus | * | + |
+jeroboam | Jeroboam | Jeroboam | * | M | The son of Nebat, an Ephrathite of Zereda, Solomon's servant; king over the ten tribes, who made two calves of gold and made Israel to sin (1 Kings 11:26-40, 12:20-33, 14:20)
+nebat | Nebat | Nebat | * | M | The father of Jeroboam (1 Kings 11:26, 12:2, 12:15)
+ephrathites | | Ephrathite | * | + |
+zereda | Zereda | Zereda | * | P | The home of Jeroboam (1 Kings 11:26)
+zeruah | Zeruah | Zeruah | * | F | A widow woman, the mother of Jeroboam (1 Kings 11:26)
+joseph | | Joseph | * | + |
+ahijah | Ahijah | Ahijah | 11:29,11:30,12:15,14:2,14:4,14:5,14:6,14:18,15:29 | M | The prophet, the Shilonite, who rent the new garment in twelve pieces and gave Jeroboam ten; he foretold the end of Jeroboam's house (1 Kings 11:29-39, 14:2-18, 15:29)
+ahijah-i | Ahijah | Ahijah | 15:27,15:33,21:22 | M | Of the house of Issachar, the father of Baasha (1 Kings 15:27, 15:33, 21:22)
+shilonite | Shilonite | Shilonite | * | G | "Ahijah the Shilonite" (1 Kings 11:29, 12:15, 15:29)
+shishak | Shishak | Shishak | * | M | King of Egypt, to whom Jeroboam fled, who came against Jerusalem in Rehoboam's fifth year (1 Kings 11:40, 14:25-26)
+rehoboam | Rehoboam | Rehoboam | * | M | The son of Solomon, who reigned in Judah; his mother was Naamah an Ammonitess (1 Kings 11:43, 12:1-24, 14:21-31)
+shechem-place | | Shechem | * | + |
+jesse | | Jesse | * | + |
+adoram-r | Adoram | Adoram | * | M | Over the tribute in the days of Rehoboam; all Israel stoned him (1 Kings 12:18)
+shemaiah | Shemaiah | Shemaiah | * | M | The man of God, by whom the word came to Rehoboam not to fight against Israel (1 Kings 12:22-24)
+peniel | | Penuel | * | + |
+beth-el | | Beth-el | * | + |
+levi | | Levi | * | + |
+josiah | Josiah | Josiah | * | M | "A child shall be born unto the house of David, Josiah by name", foretold by the man of God against the altar at Beth-el (1 Kings 13:2)
+samaria | Samaria | Samaria | * | P | The hill Omri bought of Shemer and built, named after Shemer (1 Kings 13:32, 16:24-32)
+abijah | Abijah | Abijah | * | M | The son of Jeroboam, who fell sick and died (1 Kings 14:1-17)
+tirzah-city | | Tirzah | * | + |
+nadab-j | Nadab | Nadab | * | M | The son of Jeroboam, who reigned over Israel two years and was slain by Baasha (1 Kings 14:20, 15:25-31)
+naamah-a | Naamah | Naamah | * | F | An Ammonitess, the mother of Rehoboam (1 Kings 14:21, 14:31)
+ammon | | Ammonitess | * | + |
+abijam | Abijam | Abijam | * | M | The son of Rehoboam, who reigned three years in Jerusalem; his mother was Maachah the daughter of Abishalom (1 Kings 14:31, 15:1-8)
+abishalom | Abishalom | Abishalom | * | M | The father of Maachah (1 Kings 15:2, 15:10)
+uriah | | Uriah | * | + |
+hittites | | Hittite | * | + |
+asa | Asa | Asa | * | M | The son of Abijam, king of Judah forty and one years, who did right in the eyes of the Lord (1 Kings 15:8-24)
+baasha | Baasha | Baasha | * | M | The son of Ahijah, of the house of Issachar, who slew Nadab and reigned over Israel in Tirzah (1 Kings 15:16-34, 16:1-7)
+ramah | | Ramah | * | + |
+ben-hadad-t | Ben-hadad | Ben-hadad | 15:18,15:20 | M | The son of Tabrimon, the son of Hezion, king of Syria in Damascus, whom Asa hired against Baasha (1 Kings 15:18-20)
+ben-hadad | Ben-hadad | Ben-hadad | 20:1,20:2,20:5,20:9,20:10,20:12,20:16,20:17,20:20,20:26,20:30,20:32,20:33,20:34 | M | King of Syria, who besieged Samaria in the days of Ahab and was spared at Aphek (1 Kings 20:1-34)
+tabrimon | Tabrimon | Tabrimon | * | M | The son of Hezion, father of Ben-hadad (1 Kings 15:18)
+hezion | Hezion | Hezion | * | M | The father of Tabrimon (1 Kings 15:18)
+ijon | Ijon | Ijon | * | P | Smitten by Ben-hadad's captains (1 Kings 15:20)
+abel-beth-maachah | Abel-beth-maachah | Abel-beth-maachah | * | P | Smitten by Ben-hadad's captains (1 Kings 15:20)
+cinneroth | Cinneroth | Cinneroth | * | P | Smitten by Ben-hadad's captains (1 Kings 15:20)
+geba | | Geba | * | + |
+mizpah | | Mizpah | * | + |
+gibbethon | | Gibbethon | * | + |
+jehu-h | Jehu | Jehu | 16:1,16:7,16:12 | M | The son of Hanani, by whom the word of the Lord came against Baasha (1 Kings 16:1, 16:7, 16:12)
+jehu | Jehu | Jehu | 19:16,19:17 | M | The son of Nimshi, whom Elijah was sent to anoint king over Israel (1 Kings 19:16-17)
+hanani | Hanani | Hanani | * | M | The father of Jehu the prophet (1 Kings 16:1, 16:7)
+zimri-k | Zimri | Zimri | * | M | Captain of half the chariots of Elah, who slew him and reigned seven days in Tirzah, and burnt the king's house over him (1 Kings 16:9-20)
+arza | Arza | Arza | * | M | Steward of Elah's house in Tirzah, in whose house Elah was drunk when Zimri slew him (1 Kings 16:9)
+omri | Omri | Omri | * | M | Captain of the host, made king over Israel; he bought the hill Samaria and built it (1 Kings 16:16-28)
+tibni | Tibni | Tibni | * | M | The son of Ginath, whom half the people followed to make king (1 Kings 16:21-22)
+ginath | Ginath | Ginath | * | M | The father of Tibni (1 Kings 16:21-22)
+shemer | Shemer | Shemer | * | M | Owner of the hill Samaria, which Omri bought of him (1 Kings 16:24)
+ahab | Ahab | Ahab | * | M | The son of Omri, king over Israel in Samaria, who took Jezebel to wife and served Baal (1 Kings 16:28-33, 18:1-46, 21:1-29, 22:39-40)
+jezebel | Jezebel | Jezebel | * | F | The daughter of Ethbaal king of the Zidonians, wife of Ahab, who slew the prophets of the Lord (1 Kings 16:31, 18:4, 19:1-2, 21:5-25)
+ethbaal | Ethbaal | Ethbaal | * | M | King of the Zidonians, father of Jezebel (1 Kings 16:31)
+baal | | Baal | * | + |
+hiel | Hiel | Hiel | * | M | The Beth-elite, who built Jericho in the days of Ahab (1 Kings 16:34)
+beth-elite | Beth-elite | Beth-elite | * | G | "Hiel the Beth-elite" (1 Kings 16:34)
+jericho | | Jericho | * | + |
+abiram-h | Abiram | Abiram | * | M | The firstborn of Hiel, in whom he laid the foundation of Jericho (1 Kings 16:34)
+segub | Segub | Segub | * | M | The youngest son of Hiel, in whom he set up the gates of Jericho (1 Kings 16:34)
+joshua | | Joshua | * | + |
+nun | | Nun | * | + |
+elijah | Elijah | Elijah | * | M | The Tishbite, of the inhabitants of Gilead, prophet of the Lord, who shut up heaven before Ahab and called down fire on mount Carmel (1 Kings 17:1, 18:1-46, 19:1-21, 21:17-29)
+tishbite | Tishbite | Tishbite | * | G | "Elijah the Tishbite" (1 Kings 17:1, 21:17, 21:28)
+cherith | Cherith | Cherith | * | P | The brook before Jordan where the ravens fed Elijah (1 Kings 17:3-5)
+zarephath | Zarephath | Zarephath | * | P | Which belongeth to Zidon, where a widow woman sustained Elijah (1 Kings 17:9-10)
+sidon-place | | Zidon | * | + |
+obadiah | Obadiah | Obadiah | * | M | The governor of Ahab's house, who feared the Lord greatly and hid an hundred prophets in a cave (1 Kings 18:3-16)
+baalim | | Baalim | * | + |
+carmel | | Carmel | * | + |
+jacob | | Jacob | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+kishon-river | | Kishon | * | + |
+hazael | Hazael | Hazael | * | M | Whom Elijah was sent to anoint king over Syria (1 Kings 19:15, 19:17)
+nimshi | Nimshi | Nimshi | * | M | The father of Jehu (1 Kings 19:16)
+elisha | Elisha | Elisha | * | M | The son of Shaphat of Abel-meholah, anointed to be prophet in Elijah's room; he left the oxen and ministered unto him (1 Kings 19:16-21)
+shaphat-e | Shaphat | Shaphat | * | M | Of Abel-meholah, the father of Elisha (1 Kings 19:16, 19:19)
+syrians | | Syrians | * | + |
+aphek | | Aphek | * | + |
+naboth | Naboth | Naboth | * | M | The Jezreelite, whose vineyard Ahab coveted; Jezebel had him stoned (1 Kings 21:1-19)
+jezreelitess | | Jezreelite | * | + |
+belial | | Belial | * | + |
+ramoth | | Ramoth | * | + |
+micaiah | Micaiah | Micaiah | * | M | The son of Imlah, prophet of the Lord, who foretold Ahab's fall at Ramoth-gilead (1 Kings 22:8-28)
+imlah | Imlah | Imlah | * | M | The father of Micaiah (1 Kings 22:8-9)
+zedekiah | Zedekiah | Zedekiah | * | M | The son of Chenaanah, who made him horns of iron and smote Micaiah on the cheek (1 Kings 22:11, 22:24)
+chenaanah | Chenaanah | Chenaanah | * | M | The father of Zedekiah (1 Kings 22:11, 22:24)
+amon | Amon | Amon | * | M | The governor of the city of Samaria, to whom Micaiah was carried back (1 Kings 22:26)
+joash-k | Joash | Joash | * | M | The king's son, to whom Micaiah was carried back (1 Kings 22:26)
+ahaziah | Ahaziah | Ahaziah | * | M | The son of Ahab, who reigned over Israel in Samaria two years (1 Kings 22:40, 22:49, 22:51)
+azubah | Azubah | Azubah | * | F | The daughter of Shilhi, mother of Jehoshaphat king of Judah (1 Kings 22:42)
+shilhi | Shilhi | Shilhi | * | M | The father of Azubah (1 Kings 22:42)
+jehoram | Jehoram | Jehoram | * | M | The son of Jehoshaphat, who reigned in his stead (1 Kings 22:50)
