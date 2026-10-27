@@ -1,0 +1,507 @@
+# Family links in 1 Chronicles, each with the verse that states it (same format as genesis.links.txt).
+# chapter 1
+timna-e < eliphaz | 1:36 | "The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek"
+amram-d < dishon | 1:41
+# chapter 2
+zimri-z ethan-z heman-z calcol dara < zarah | 2:6
+azariah-e < ethan-z | 2:8
+jerahmeel chelubai < hezron | 2:9
+jerahmeel < hezron | 2:25,2:42
+nethaneel-j raddai ozem-d < jesse | 2:13,2:14,2:15
+zeruiah abigail-n ~ david | 2:15,2:16 | "whose sisters were Zeruiah, and Abigail"
+caleb-h < hezron | 2:18
+caleb-h ~ jerahmeel | 2:42 | "Caleb the brother of Jerahmeel"
+caleb-h = azubah-c | 2:18,2:19 | "Azubah his wife"
+caleb-h = ephrath | 2:19 | "Caleb took unto him Ephrath"
+jesher shobab-c ardon << jerioth | 2:18 | "of Jerioth: her sons are these"
+jesher shobab-c ardon < caleb-h | 2:18
+hur-j < caleb-h | 2:19
+hur-j << ephrath | 2:19,2:50
+segub-h < hezron | 2:21
+jair < segub-h | 2:22
+hezron = abiah-h | 2:24 | "Abiah Hezron's wife"
+ashur < hezron | 2:24
+ashur << abiah-h | 2:24
+ram-j bunah oren ozem-j ahijah-j < jerahmeel | 2:25
+jerahmeel = atarah | 2:26
+onam-j << atarah | 2:26
+onam-j < jerahmeel | 2:26 | "Jerahmeel had also another wife ... she was the mother of Onam"
+maaz jamin-r eker < ram-j | 2:27
+shammai-o jada < onam-j | 2:28
+jada ~ shammai-o | 2:32
+nadab-s abishur < shammai-o | 2:28
+abishur = abihail-a | 2:29
+ahban molid < abishur | 2:29
+ahban molid << abihail-a | 2:29
+seled appaim < nadab-s | 2:30
+ishi-a < appaim | 2:31
+sheshan < ishi-a | 2:31
+ahlai-s < sheshan | 2:31
+jether-j jonathan-jd < jada | 2:32
+peleth-j zaza < jonathan-jd | 2:33
+jarha @ egyptian | 2:34
+attai-j < jarha | 2:35
+nathan-a < attai-j | 2:36
+zabad-n < nathan-a | 2:36
+ephlal < zabad-n | 2:37
+obed-e < ephlal | 2:37
+jehu-o < obed-e | 2:38
+azariah-j < jehu-o | 2:38
+helez-a < azariah-j | 2:39
+eleasah < helez-a | 2:39
+sisamai < eleasah | 2:40
+shallum-s < sisamai | 2:40
+jekamiah < shallum-s | 2:41
+elishama-j < jekamiah | 2:41
+mesha-c < caleb-h | 2:42
+hebron-c < mareshah-c | 2:42
+korah-h tappuah-h rekem-h shema-h < hebron-c | 2:43
+raham < shema-h | 2:44
+jorkoam < raham | 2:44
+shammai-r < rekem-h | 2:44
+maon-s < shammai-r | 2:45
+haran-c moza gazez < caleb-h | 2:46
+haran-c moza gazez << ephah-c | 2:46
+regem jotham-y geshan pelet-j ephah-j shaaph-j < jahdai | 2:47
+sheber tirhanah < caleb-h | 2:48
+sheber tirhanah << maachah-c | 2:48
+shaaph-m sheva-c << maachah-c | 2:48,2:49
+caleb-u < hur-j | 2:50
+shobal-c salma-c hareph < caleb-u | 2:50,2:51
+haroeh < shobal-c | 2:52
+rechab-h ^ hemath | 2:55 | "Hemath, the father of the house of Rechab"
+# chapter 3
+chileab < david | 3:1
+chileab << abigail | 3:1
+amnon < david | 3:1
+amnon << ahinoam-j | 3:1
+absalom << maacah-t | 3:2
+shammua-d shobab nathan-d solomon < david | 3:5,3:9
+shammua-d shobab nathan-d solomon << bath-sheba | 3:5 | "four, of Bath-shua the daughter of Ammiel"
+bath-sheba < eliam | 3:5 | "Bath-shua the daughter of Ammiel"
+ibhar elishama-3 eliphelet-d nogah nepheg-d japhia-d elishama-d eliada eliphalet < david | 3:6,3:7,3:8,3:9 | "these were all the sons of David"
+abijam < rehoboam | 3:10
+johanan-j jehoiakim zedekiah-k shallum-j < josiah | 3:15
+jeconiah < jehoiakim | 3:16
+assir-j malchiram pedaiah-j shenazar jecamiah hoshama nedabiah < jeconiah | 3:17,3:18
+zerubbabel shimei-p < pedaiah-j | 3:19
+meshullam-z hananiah-z shelomith-z hashubah ohel berechiah-z hasadiah jushab-hesed < zerubbabel | 3:19,3:20
+pelatiah-h jesaiah-h < hananiah-z | 3:21
+shemaiah-3 < shechaniah-3 | 3:22
+hattush igeal bariah neariah-3 shaphat-3 < shemaiah-3 | 3:22
+elioenai-3 hezekiah-3 azrikam-3 < neariah-3 | 3:23
+hodaiah eliashib-3 pelaiah-3 akkub-3 johanan-3 dalaiah anani < elioenai-3 | 3:24
+# chapter 4
+reaiah < shobal-c | 4:2
+jahath-r < reaiah | 4:2
+ahumai lahad < jahath-r | 4:2
+hazelelponi ~ jezreel-e | 4:3 | "the name of their sister was Hazelelponi"
+hazelelponi ~ ishma | 4:3
+hazelelponi ~ idbash | 4:3
+penuel-g ezer-h ^ hur-j | 4:4 | "These are the sons of Hur, the firstborn of Ephratah"
+ashur = helah | 4:5
+ashur = naarah | 4:5
+ahuzam hepher-a temeni haahashtari << naarah | 4:6
+zereth jezoar ethnan << helah | 4:7
+anub zobebah < coz | 4:8
+aharhel < harum | 4:8
+chelub ~ shuah-4 | 4:11
+mehir < chelub | 4:11
+eshton < mehir | 4:11
+beth-rapha paseah-e tehinnah < eshton | 4:12
+othniel seraiah-k < kenaz-o | 4:13
+hathath < othniel | 4:13
+ophrah-m < meonothai | 4:14
+joab-s < seraiah-k | 4:14
+iru elah-c naam < caleb | 4:15
+kenaz-e < elah-c | 4:15
+ziph-j ziphah tiria asareel < jehaleleel | 4:16
+jether-e mered epher-e jalon < ezra-j | 4:17
+mered = bithiah | 4:18 | "Bithiah the daughter of Pharaoh, which Mered took"
+bithiah < pharaoh-b | 4:18
+hodiah ~ naham | 4:19
+amnon-s rinnah ben-hanan tilon < shimon | 4:20
+zoheth ben-zoheth < ishi-j | 4:20
+er-s laadah < shelah | 4:21
+jarib-s < simeon | 4:24
+mibsam-s < shallum-m | 4:25
+mishma-s < mibsam-s | 4:25
+hamuel < mishma-s | 4:26
+zacchur < hamuel | 4:26
+shimei-m < zacchur | 4:26
+joshah < amaziah-s | 4:34
+jehu-j < josibiah | 4:35
+josibiah < seraiah-a | 4:35
+seraiah-a < asiel | 4:35
+ziza-s < shiphi | 4:37
+shiphi < allon-s | 4:37
+allon-s < jedaiah-s | 4:37
+jedaiah-s < shimri-s | 4:37
+shimri-s < shemaiah-s | 4:37
+pelatiah-i neariah-i rephaiah-i uzziel-i < ishi-s | 4:42
+# chapter 5
+shemaiah-r < joel-r | 5:4
+gog-r < shemaiah-r | 5:4
+shimei-r5 < gog-r | 5:4
+micah-r < shimei-r5 | 5:4,5:5
+reaia < micah-r | 5:5
+baal-r < reaia | 5:5
+beerah < baal-r | 5:5,5:6
+beerah @ reubenites | 5:6
+bela-r < azaz | 5:8
+azaz < shema-r | 5:8
+shema-r < joel-r8 | 5:8
+abihail-g < huri | 5:14
+huri < jaroah | 5:14
+jaroah < gilead-g | 5:14
+gilead-g < michael-g2 | 5:14
+michael-g2 < jeshishai | 5:14
+jeshishai < jahdo | 5:14
+jahdo < buz-g | 5:14
+ahi-g < abdiel | 5:15
+abdiel < guni-g | 5:15
+# chapter 6
+abishua < phinehas | 6:4,6:50
+bukki-p < abishua | 6:5,6:51
+uzzi-p < bukki-p | 6:5,6:51
+zerahiah < uzzi-p | 6:6,6:51
+meraioth < zerahiah | 6:6,6:52
+amariah-1 < meraioth | 6:7,6:52
+ahitub-z < amariah-1 | 6:7,6:52
+zadok < ahitub-z | 6:8,6:53
+ahimaaz-z < zadok | 6:8,6:53
+azariah-a < ahimaaz-z | 6:9
+johanan-p < azariah-a | 6:9
+azariah-p2 < johanan-p | 6:10
+amariah-2 < azariah-p2 | 6:11
+ahitub-2 < amariah-2 | 6:11
+zadok-2 < ahitub-2 | 6:12
+shallum-p < zadok-2 | 6:12
+hilkiah-p < shallum-p | 6:13
+azariah-p3 < hilkiah-p | 6:13
+seraiah-6 < azariah-p3 | 6:14
+jehozadak < seraiah-6 | 6:14
+jahath-g < libni | 6:20
+zimmah < jahath-g | 6:20
+joah-g < zimmah | 6:20,6:21
+iddo-g < joah-g | 6:21
+zerah-g < iddo-g | 6:21
+jeaterai < zerah-g | 6:21
+amminadab-k ^ kohath | 6:22 | "The sons of Kohath; Amminadab his son"
+korah-a < amminadab-k | 6:22
+assir-a < korah-a | 6:22
+elkanah-a < assir-a | 6:23
+ebiasaph-a < elkanah-a | 6:23
+assir-b < ebiasaph-a | 6:23
+tahath-a < assir-b | 6:23,6:24
+uriel-k < tahath-a | 6:24
+uzziah-l < uriel-k | 6:24
+shaul-l < uzziah-l | 6:24
+amasai-25 ahimoth < elkanah-25 | 6:25
+zophai < elkanah-26 | 6:26
+nahath-l < zophai | 6:26
+eliab-l < nahath-l | 6:26,6:27
+jeroham ^ eliab-l | 6:27 | "Eliab his son, Jeroham his son"; 1 Samuel 1:1 names Jeroham's father Elihu
+vashni abiah < samuel | 6:28
+heman-s < joel | 6:33
+heman-s @ kohathites | 6:33
+samuel < elkanah-s | 6:33,6:34 | "Shemuel, the son of Elkanah"
+jeroham ^ eliel-t | 6:34 | "Jeroham, the son of Eliel"; 1 Samuel 1:1 names Jeroham's father Elihu
+eliel-t < tohu | 6:34 | "Eliel, the son of Toah"
+tohu < zuph | 6:34,6:35 | "Toah, the son of Zuph"
+zuph < elkanah-35 | 6:35
+elkanah-35 < mahath | 6:35
+mahath < amasai-35 | 6:35
+amasai-35 < elkanah-36 | 6:35,6:36
+elkanah-36 < joel-36 | 6:36
+joel-36 < azariah-36 | 6:36
+azariah-36 < zephaniah-k | 6:36
+zephaniah-k < tahath-e | 6:36,6:37
+tahath-e < assir-e | 6:37
+assir-e < abiasaph | 6:37 | "Assir, the son of Ebiasaph"
+abiasaph < korah-i | 6:37 | "Ebiasaph, the son of Korah"
+asaph-s < berachiah | 6:39
+berachiah < shimea-a | 6:39
+shimea-a < michael-a | 6:39,6:40
+michael-a < baaseiah | 6:40
+baaseiah < malchiah-a | 6:40
+malchiah-a < ethni | 6:40,6:41
+ethni < zerah-a | 6:41
+zerah-a < adaiah-a | 6:41
+adaiah-a < ethan-a | 6:41,6:42
+ethan-a < zimmah-2 | 6:42
+zimmah-2 < shimei-a | 6:42
+shimei-a < jahath-g2 | 6:42,6:43
+jahath-g2 < gershon | 6:43 | "Jahath, the son of Gershom"
+libni-m < mahali | 6:29
+shimei-mr < libni-m | 6:29
+uzza-m < shimei-mr | 6:29
+shimea-m < uzza-m | 6:29,6:30
+haggiah < shimea-m | 6:30
+asaiah-m < haggiah | 6:30
+ethan-m < kishi | 6:44
+kishi < abdi-m | 6:44
+abdi-m < malluch-m | 6:44
+malluch-m < hashabiah-m | 6:44,6:45
+hashabiah-m < amaziah-m | 6:45
+amaziah-m < hilkiah-m | 6:45
+hilkiah-m < amzi-m | 6:45,6:46
+amzi-m < bani-m | 6:46
+bani-m < shamer-m | 6:46
+shamer-m < mahli-m | 6:46,6:47
+mahli-m < mushi | 6:47
+# chapter 7
+uzzi-t rephaiah-t jeriel jahmai jibsam shemuel-t < tola | 7:2
+izrahiah < uzzi-t | 7:3
+michael-i obadiah-i joel-i ishiah-i < izrahiah | 7:3
+jediael < benjamin | 7:6
+ezbon-b uzzi-b uzziel-b jerimoth-b iri < belah | 7:7
+zemira joash-b eliezer-b elioenai-b omri-b jerimoth-c abiah-b anathoth-b alameth-b < becher | 7:8
+bilhan-b < jediael | 7:10
+jeush-b benjamin-b ehud-b chenaanah-b zethan tharshish-b ahishahar < bilhan-b | 7:10
+shuppim huppim-i < ir | 7:12
+hushim-a < aher | 7:12
+ashriel < manasseh | 7:14
+machir = maachah-m | 7:15,7:16
+huppim-i shuppim ~ maachah-m | 7:15
+peresh < machir | 7:16
+peresh << maachah-m | 7:16
+sheresh ~ peresh | 7:16
+bedan-u < ulam | 7:17
+ishod abiezer mahalah << hammoleketh | 7:18
+ahian shechem-m likhi aniam < shemida | 7:19
+bered-e < shuthelah | 7:20
+tahath-1 < bered-e | 7:20
+eladah < tahath-1 | 7:20
+tahath-2 < eladah | 7:20
+zabad-e < tahath-2 | 7:20,7:21
+shuthelah-z < zabad-e | 7:21
+ezer-e elead ^ ephraim | 7:21,7:22 | "Ephraim their father mourned many days"
+beriah-e < ephraim | 7:22,7:23
+sherah ^ ephraim | 7:22,7:24 | "his daughter was Sherah"
+tahan-r < telah | 7:25
+laadan-e < tahan-r | 7:25,7:26
+ammihud-e < laadan-e | 7:26
+nun < elishama | 7:26,7:27
+birzavith < malchiel | 7:31
+japhlet shomer-a hotham shua-a < heber | 7:32
+pasach bimhal ashvath < japhlet | 7:33
+ahi-a rohgah jehubbah aram-a < shamer-a | 7:34
+helem ~ shamer-a | 7:34,7:35
+zophah imna shelesh amal < helem | 7:35
+suah harnepher shual-a beri imrah bezer-a hod shamma shilshah ithran-a beera < zophah | 7:36,7:37
+jephunneh-a pispah ara < jether-a | 7:38
+arah haniel rezia < ulla | 7:39
+# chapter 8
+belah ashbel aharah nohah rapha-b < benjamin | 8:1,8:2
+addar gera-b abihud abishua-b ahoah gera-b2 shephuphan huram-b < belah | 8:3,8:4,8:5
+naaman-b < belah | 8:3,8:4
+uzza-8 ahihud-8 < gera-8 | 8:7
+shaharaim = hushim-w | 8:8
+shaharaim = baara | 8:8
+shaharaim = hodesh | 8:8,8:9
+jobab-s zibia mesha-s malcham jeuz shachia mirma < shaharaim | 8:8,8:9,8:10
+jobab-s zibia mesha-s malcham jeuz shachia mirma << hodesh | 8:9,8:10
+abitub elpaal < shaharaim | 8:8,8:11
+abitub elpaal << hushim-w | 8:11
+eber-b misham < elpaal | 8:12
+ahio-b shashak jeremoth-b zebadiah-b arad-b ader michael-b ispah joha-b < beriah-b | 8:14,8:15,8:16
+zebadiah-e meshullam-e hezeki heber-e ishmerai jezliah jobab-e < elpaal | 8:17,8:18
+jakim-s zichri-s zabdi-s elienai zilthai-s eliel-s adaiah-s beraiah shimrath < shimhi | 8:19,8:20,8:21
+ishpan heber-sh eliel-sh abdon-s zichri-sh hanan-s hananiah-s elam-s antothijah iphedeiah penuel-s < shashak | 8:22,8:23,8:24,8:25
+shamsherai shehariah athaliah-j jaresiah eliah-j zichri-j < jeroham-b | 8:26,8:27
+abdon-g zur-g kish-g baal-g nadab-g gedor-g ahio-g zacher << maachah-j | 8:29,8:30,8:31
+shimeah-m < mikloth | 8:32
+kish ^ ner-k | 8:33 | "Ner begat Kish"; 1 Samuel 9:1 names Kish's father Abiel
+esh-baal < saul-k | 8:33
+ahaz-b pithon melech tarea < micha | 8:35
+jehoadah < ahaz-b | 8:36
+alemeth-b azmaveth-b zimri-b < jehoadah | 8:36
+moza-b < zimri-b | 8:36
+binea < moza-b | 8:37
+azrikam-b bocheru ishmael-b sheariah obadiah-b hanan-a < azel | 8:38
+eshek ~ azel | 8:38,8:39
+ulam-e jehush eliphelet-b < eshek | 8:39
+# chapter 9
+uthai < ammihud-p | 9:4
+ammihud-p < omri-p | 9:4
+omri-p < imri | 9:4
+imri < bani-p | 9:4
+bani-p ^ pharez | 9:4 | "of the children of Pharez the son of Judah"
+asaiah-sh @ shilonites | 9:5
+jeuel ^ zarah | 9:6 | "of the sons of Zerah"
+sallu < meshullam-h | 9:7
+meshullam-h < hodaviah-b | 9:7
+hodaviah-b < hasenuah | 9:7
+ibneiah < jeroham-i | 9:8
+elah-u < uzzi-m | 9:8
+uzzi-m < michri | 9:8
+meshullam-s < shephathiah | 9:8
+shephathiah < reuel-b | 9:8
+reuel-b < ibnijah | 9:8
+azariah-9 < hilkiah-9 | 9:11
+hilkiah-9 < meshullam-9 | 9:11
+meshullam-9 < zadok-9 | 9:11
+zadok-9 < meraioth-9 | 9:11
+meraioth-9 < ahitub-9 | 9:11
+adaiah-p < jeroham-p | 9:12
+jeroham-p < pashur-m | 9:12
+pashur-m < malchijah-p | 9:12
+maasiai < adiel-p | 9:12
+adiel-p < jahzerah | 9:12
+jahzerah < meshullam-m | 9:12
+meshullam-m < meshillemith | 9:12
+meshillemith < immer-p | 9:12
+shemaiah-m < hasshub | 9:14
+hasshub < azrikam-m | 9:14
+azrikam-m < hashabiah-9 | 9:14
+hashabiah-9 ^ merari | 9:14 | "of the sons of Merari"
+mattaniah-a < micah-a | 9:15
+micah-a < zichri-a | 9:15
+zichri-a < asaph-9 | 9:15
+obadiah-l < shemaiah-g | 9:16
+shemaiah-g < galal-2 | 9:16
+galal-2 < jeduthun-9 | 9:16
+berechiah-a < asa-l | 9:16
+asa-l < elkanah-9 | 9:16
+shallum-k < kore | 9:19
+kore < abiasaph | 9:19
+shallum-k @ korhites | 9:19,9:31
+zechariah-m < meshelemiah | 9:21
+mattithiah < shallum-k | 9:31
+jehiel-g = maachah-j | 9:35
+abdon-g zur-g kish-g baal-g ner-j nadab-g gedor-g ahio-g zacher mikloth < jehiel-g | 9:35,9:36,9:37
+ner-j << maachah-j | 9:35,9:36
+# chapter 11
+jashobeam-h @ hachmonite | 11:11
+shammoth @ harorite | 11:27
+helez @ pelonite | 11:27
+ilai @ ahohite | 11:29
+abiel-a @ arbathite | 11:32
+hashem @ gizonite | 11:34
+jonathan-sg < shage | 11:34
+shage @ hararite | 11:34
+eliphal < ur-e | 11:35
+hepher-m @ mecherathite | 11:36
+ahijah-p @ pelonite | 11:36
+naarai < ezbai | 11:37
+joel-n ~ nathan-j | 11:38
+mibhar < haggeri | 11:38
+zabad-a ^ ahlai-z | 11:41 | "Zabad the son of Ahlai"
+adina < shiza | 11:42
+shiza @ reubenites | 11:42
+hanan-m ^ maachah-11 | 11:43 | "Hanan the son of Maachah"
+joshaphat-m @ mithnite | 11:43
+uzzia @ ashterathite | 11:44
+shama jehiel-h < hothan | 11:44
+hothan @ aroerite | 11:44
+jediael-s < shimri-j | 11:45
+joha-t ~ jediael-s | 11:45
+joha-t @ tizite | 11:45
+eliel-mh @ mahavite | 11:46
+jeribai joshaviah < elnaam | 11:46
+ithmah @ moabites | 11:46
+jasiel @ mesobaite | 11:47
+# chapter 12
+ahiezer-b joash-g < shemaah | 12:3
+shemaah @ gibeathite | 12:3
+jeziel pelet-a < azmaveth-12 | 12:3
+jehu-a @ anethothite | 12:3
+ismaiah @ gibeonites | 12:4
+josabad @ gederathite | 12:4
+shephatiah-h @ haruphite | 12:5
+elkanah-12 jesiah azareel-k joezer jashobeam-k @ korhites | 12:6
+joelah zebadiah-j < jeroham-g | 12:7
+ezer-g obadiah-g eliab-g mishmannah jeremiah-5 attai-g eliel-g johanan-8 elzabad-g jeremiah-10 machbanai @ gadites | 12:8,12:9,12:10,12:11,12:12,12:13
+jehoiada-a @ aaronites | 12:27
+# chapters 13-16
+uriel-c ^ kohath | 15:5 | "Of the sons of Kohath; Uriel the chief"
+asaiah-c ^ merari | 15:6 | "Of the sons of Merari; Asaiah the chief"
+joel-c ^ gershon | 15:7 | "Of the sons of Gershom; Joel the chief"
+shemaiah-c ^ elzaphan | 15:8 | "Of the sons of Elizaphan; Shemaiah the chief"
+eliel-c ^ hebron-k | 15:9 | "Of the sons of Hebron; Eliel the chief"
+amminadab-c ^ uzziel | 15:10 | "Of the sons of Uzziel; Amminadab the chief"
+ethan-k < kushaiah | 15:17
+kushaiah ^ merari | 15:17 | "of the sons of Merari their brethren, Ethan the son of Kushaiah"
+obed-edom-l < jeduthun-s | 16:38
+# chapters 17-22
+elhanan-j < jair-e | 20:5
+lahmi ~ goliath | 20:5
+ornan @ jebusite | 21:15
+# chapters 23-24
+laadan-g @ gershonites | 23:7
+jehiel-ld zetham joel-ld < laadan-g | 23:8
+shelomith-l haziel haran-l < shimei-l | 23:9
+jahath-sh zina jeush-l beriah-l < shimi | 23:10
+shebuel ^ gershom | 23:16 | "Of the sons of Gershom, Shebuel was the chief"
+rehabiah < eliezer-m | 23:17
+shelomith-i ^ izhar | 23:18 | "Of the sons of Izhar; Shelomith the chief"
+jeriah amariah-h jahaziel-h jekameam < hebron-k | 23:19
+michah jesiah-u < uzziel | 23:20
+eleazar-m kish-m < mahali | 23:21
+eder-l jeremoth-l mahli-m < mushi | 23:23
+shemaiah-n < nethaneel-s | 24:6
+shubael ^ amram | 24:20 | "Of the sons of Amram; Shubael"
+jehdeiah ^ shubael | 24:20 | "of the sons of Shubael; Jehdeiah"
+isshiah-r ^ rehabiah | 24:21 | "of the sons of Rehabiah, the first was Isshiah"
+jahath-z ^ shelomith-i | 24:22 | "of the sons of Shelomoth; Jahath"
+shamir-l ^ michah | 24:24 | "of the sons of Michah; Shamir"
+zechariah-i ^ jesiah-u | 24:25 | "of the sons of Isshiah; Zechariah"
+beno shoham zaccur-j ibri < jaaziah | 24:26,24:27
+jerahmeel-k < kish-m | 24:29
+# chapters 25-27
+zaccur-a joseph-a nethaniah-a asarelah < asaph-s | 25:2
+gedaliah-j zeri jeshaiah-j hashabiah-j mattithiah-j < jeduthun-s | 25:3
+bukkiah mattaniah-h uzziel-h shebuel-h jerimoth-h hananiah-h hanani-h eliathah giddalti romamti-ezer joshbekashah mallothi hothir mahazioth < heman-s | 25:4
+meshelemiah < kore-a | 26:1
+kore-a @ korhites | 26:1
+jediael-k zebadiah-k jathniel elam-k jehohanan-k elioenai-k < meshelemiah | 26:2,26:3
+shemaiah-o jehozabad-o joah-o sacar-o nethaneel-o ammiel-o issachar-o peulthai < obed-edom-l | 26:4,26:5
+othni rephael obed-o elzabad-o elihu-o semachiah < shemaiah-o | 26:7
+hosah-m ^ merari | 26:10 | "Hosah, of the children of Merari"
+simri hilkiah-h tebaliah zechariah-hs < hosah-m | 26:10,26:11
+zetham joel-ld ^ jehiel-ld | 26:22 | "The sons of Jehieli; Zetham, and Joel his brother"; 1 Chronicles 23:8 names them with Jehiel among the sons of Laadan
+joram-l zichri-l shelomith-e ^ eliezer-m | 26:25 | "his brethren by Eliezer ... Joram his son, and Zichri his son, and Shelomith his son"
+chenaniah-i @ izeharites | 26:29
+hashabiah-hb @ hebronites | 26:30
+jashobeam-z < zabdiel | 27:2
+dodai @ ahohite | 27:4
+ammizabad < benaiah | 27:6
+zebadiah-a < asahel | 27:7
+shamhuth @ izrahite | 27:8
+heldai @ netophathite | 27:15
+eliezer-z < zichri-r | 27:16
+shephatiah-m ^ maachah-27 | 27:16 | "Shephatiah the son of Maachah"
+hashabiah-k < kemuel-l | 27:17
+elihu-d ~ david | 27:18
+omri-i < michael-is | 27:18
+ishmaiah < obadiah-z | 27:19
+jerimoth-n < azriel-n | 27:19
+hoshea-a < azaziah-e | 27:20
+joel-p < pedaiah-m | 27:20
+iddo-m < zechariah-g | 27:21
+jaasiel < abner-j | 27:21
+azareel-d < jeroham-d | 27:22
+azmaveth-t < adiel-t | 27:25
+jehonathan-u < uzziah-j | 27:25
+ezri < chelub-e | 27:26
+shimei-rm @ ramathite | 27:27
+zabdi-sh @ shiphmite | 27:27
+baal-hanan-g @ gederite | 27:28
+shitrai @ sharonite | 27:29
+shaphat-a < adlai | 27:29
+obil @ ishmaelites | 27:30
+jehdeiah-m @ meronothite | 27:30
+jaziz @ hagarites | 27:31
+jehiel-hm < hachmoni | 27:32
+jehoiada-b < benaiah-34 | 27:34
+esh-baal == ish-bosheth | 8:33,9:39 | Saul's son "Esh-baal" (1 Chronicles 8:33, 9:39) is "Ish-bosheth Saul's son" (2 Samuel 2:8) | history | Jewish Encyclopedia (1901-1906) vol. 6 p. 656, "Ish-bosheth": "His original name was Esh-baal" <https://archive.org/details/cu31924091768238/page/n683/mode/1up>
+asaph-9 == asaph-s | 9:15 | "Mattaniah the son of Micah, the son of Zichri, the son of Asaph"; Nehemiah 11:17, 11:22 name his line "the sons of Asaph, the singers" | history | Jewish Encyclopedia (1901-1906) vol. 2 p. 162, "Asaph" <https://archive.org/details/cu31924091768196/page/n199/mode/1up>
+jeduthun-9 == jeduthun-s | 9:16 | "Galal, the son of Jeduthun"; the same line in Nehemiah 11:17 | history | Jewish Encyclopedia (1901-1906) vol. 7 p. 82, "Jeduthun": "In Neh. xi. 17 is mentioned the descendant of a Jeduthun" <https://archive.org/details/cu31924091768246/page/n105/mode/1up>
+shallum-k == meshelemiah | 9:19,26:1 | "Shallum the son of Kore" (9:19) and "Meshelemiah the son of Kore" (26:1), both porters of the Korhites | history | Jewish Encyclopedia (1901-1906) vol. 11 p. 227, "Shallum" no. 9: "A Korahite gatekeeper (I Chron. ix. 19; 'Shelemiah,' ib. xxvi. 14; 'Meshelemiah,' ib. xxvi. 1, 2, 9)" <https://archive.org/details/jewishencycloped11sing/page/n245/mode/1up>
+jashobeam-h == adino | 11:11 | "Jashobeam, an Hachmonite, the chief of the captains" (1 Chronicles 11:11); "The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite" (2 Samuel 23:8) | parallel | Jewish Encyclopedia (1901-1906) vol. 6 p. 130, "Hachmoni, the Son of": "the same hero" <https://archive.org/details/cu31924091768238/page/n157/mode/1up> ; Jewish Encyclopedia (1901-1906) vol. 1 p. 192, "Adino the Eznite" <https://archive.org/details/cu31924091768188/page/n237/mode/1up>
+ethan-k == ethan-m | 15:17 | Merari's singer, "Ethan the son of Kushaiah" (15:17) and "Ethan the son of Kishi" (6:44) | parallel | Jewish Encyclopedia (1901-1906) vol. 5 p. 244, "Ethan" no. 3: "a son of Kishi or Kushaiah" <https://archive.org/details/cu31924091768220/page/n275/mode/1up>
+kushaiah == kishi | 15:17 | The father of Ethan the singer, of the sons of Merari: "Kushaiah" (15:17), "Kishi" (6:44) | parallel | Jewish Encyclopedia (1901-1906) vol. 5 p. 244, "Ethan" no. 3: "a son of Kishi or Kushaiah" <https://archive.org/details/cu31924091768220/page/n275/mode/1up>
+elhanan-j == elhanan | 20:5 | "Elhanan the son of Jair slew Lahmi the brother of Goliath" (1 Chronicles 20:5); "Elhanan the son of Jaare-oregim, a Beth-lehemite, slew the brother of Goliath the Gittite" (2 Samuel 21:19) | parallel | Jewish Encyclopedia (1901-1906) vol. 5 p. 106, "Elhanan" no. 1 <https://archive.org/details/cu31924091768220/page/n137/mode/1up>
+jair-e == jaare-oregim | 20:5 | The father of Elhanan who slew Goliath's brother: "Jair" (1 Chronicles 20:5), "Jaare-oregim" (2 Samuel 21:19) | parallel | Jewish Encyclopedia (1901-1906) vol. 5 p. 106, "Elhanan" no. 1 <https://archive.org/details/cu31924091768220/page/n137/mode/1up>
+ornan == araunah | 21:15,21:18 | The Jebusite by whose threshingfloor the angel stood: "Ornan" (1 Chronicles 21:15-28), "Araunah" (2 Samuel 24:16-24) | parallel | Jewish Encyclopedia (1901-1906) vol. 2 p. 75, "Araunah": "Chronicles give the form Ornan" <https://archive.org/details/cu31924091768196/page/n112/mode/1up>

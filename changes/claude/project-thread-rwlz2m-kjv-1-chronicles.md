@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: 1 Chronicles added (974 new people, 38 peoples, 44 places; ten same-person links, each with its Jewish Encyclopedia page).
