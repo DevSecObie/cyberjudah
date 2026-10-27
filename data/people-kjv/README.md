@@ -15,9 +15,9 @@ Each book has three files:
 - `sources/<book>.links.txt`: the family links, each with the verses that state it.
   `child < father`, `child << mother`, `a = b` husband and wife, `a ~ b` brother or sister
   (only where the text says so), `a ^ b` a forefather where the generations between are not
-  given ("Laban the son of Nahor", whose father is Bethuel), `a @ b` the nation the text
-  gives ("Ephron the Hittite"), `a ? b` people who may be one person, with a note saying
-  why the text leaves it open.
+  given ("Laban the son of Nahor", whose father is Bethuel), and `a @ b` the nation the text
+  gives ("Ephron the Hittite"). People who share a name stay separate records with no
+  link between them unless a verse says they are one.
 - `<book>.json`: built from the two by `python3 scripts/people-kjv/build.py <book>`.
 
 `scripts/people-kjv/names.py` finds the names: a capitalised word that never appears in
@@ -27,5 +27,5 @@ name in any verse of the book belongs to no record, if a record cites a verse th
 not name it, or if a link cites no verse. `engine/check.mjs` checks the built files.
 
 Every link carries an evidence label: `scripture` (Scripturally confirmed), `parallel`
-(Parallel identification), `history` (Historically identified), `variant` (Textual
-variant) or `uncertain` (Identity uncertain).
+(Parallel identification), `history` (Historically identified) or `variant` (Textual
+variant). There is no "uncertain" label: only what the KJV and Apocrypha state.

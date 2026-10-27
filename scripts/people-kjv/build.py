@@ -15,7 +15,7 @@ from names import ROOT, chapters, index
 
 ABBR = {'genesis': 'gen'}
 TYPES = {'M': 'Male', 'F': 'Female', 'U': 'Unknown', 'G': 'Group', 'C': 'Creature'}
-OPS = {'<': 'father', '<<': 'mother', '=': 'partners', '~': 'siblings', '^': 'line', '@': 'nation', '?': 'same'}
+OPS = {'<': 'father', '<<': 'mother', '=': 'partners', '~': 'siblings', '^': 'line', '@': 'nation'}
 
 
 def vkey(r): return tuple(int(x) for x in r.split('/')[1:])
@@ -78,7 +78,7 @@ def build(book):
         ids[k] = base if used[base] == 1 else base + 'abcdefgh'[used[base] - 1]
     out = {k: {'id': ids[k], 'name': r['name'], 'names': list(dict.fromkeys([r['name']] + r['forms'])), 'type': TYPES[r['type']],
                'description': r['desc'], 'verses': r['verses'],
-               **{f: [] for f in ('father', 'mother', 'partners', 'siblings', 'children', 'line', 'nation', 'same')}}
+               **{f: [] for f in ('father', 'mother', 'partners', 'siblings', 'children', 'line', 'nation')}}
            for k, r in people.items()}
 
     def ref(cv, ln):
@@ -100,7 +100,7 @@ def build(book):
         line = line.strip()
         if not line or line.startswith('#'): continue
         parts = [p.strip() for p in line.split('|')]
-        m = re.match(r'(.+?)\s+(<<|<|=|~|\^|\?|@)\s+(\S+)$', parts[0])
+        m = re.match(r'(.+?)\s+(<<|<|=|~|\^|@)\s+(\S+)$', parts[0])
         if not m or len(parts) < 2: errs.append(f'links {ln}: cannot read'); continue
         kids, op, b = m.group(1).split(), m.group(2), m.group(3)
         vs = sorted({ref(x.strip(), ln) for x in parts[1].split(',')}, key=vkey)
@@ -116,11 +116,10 @@ def build(book):
             if op == '<' and people[b]['type'] not in 'MU': errs.append(f'links {ln}: father {b} is {people[b]["type"]}')
             if op == '<<' and people[b]['type'] not in 'FU': errs.append(f'links {ln}: mother {b} is {people[b]["type"]}')
             if op == '@' and people[b]['type'] != 'G': errs.append(f'links {ln}: {b} is not a people')
-            if op == '?' and not note: errs.append(f'links {ln}: an uncertain link needs a note')
-            ev = 'uncertain' if op == '?' else 'scripture'
+            ev = 'scripture'
             put(out[a][OPS[op]], b, vs, note, ev)
             if op in ('<', '<<'): put(out[b]['children'], a, vs, note, ev)
-            if op in ('=', '~', '?'): put(out[b][OPS[op]], a, vs, note, ev)
+            if op in ('=', '~'): put(out[b][OPS[op]], a, vs, note, ev)
     for k, p in out.items():
         for f in ('father', 'mother'):
             if len(p[f]) > 1: errs.append(f'{k}: {len(p[f])} in {f}')

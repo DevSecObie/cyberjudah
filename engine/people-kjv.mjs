@@ -5,13 +5,14 @@ import path from 'node:path';
 // scripts/people-kjv/build.py). Every verse a person cites must name them; every family
 // link must point at a person, carry an evidence label and cite verses that exist; and
 // links that run both ways (children and parents, husbands and wives, brothers and
-// sisters, possible same person) must be recorded on both people.
+// sisters) must be recorded on both people. Only what the KJV and Apocrypha state:
+// there is no "uncertain" label, and people who share a name stay separate unless a
+// verse says they are one.
 export const EVIDENCE = {
   scripture: 'Scripturally confirmed',
   parallel: 'Parallel identification',
   history: 'Historically identified',
   variant: 'Textual variant',
-  uncertain: 'Identity uncertain',
 };
 const LINKS = ['father', 'mother', 'partners', 'siblings', 'children', 'line', 'nation', 'same'];
 const TYPES = new Set(['Male', 'Female', 'Unknown', 'Group', 'Creature']);
@@ -65,7 +66,6 @@ export function validateKjvPeople(people, { bibleDir }) {
         if (!EVIDENCE[e.evidence]) problems.push(`${at}: evidence ${e.evidence}`);
         if (!e.verses?.length) problems.push(`${at}: no verses`);
         for (const ref of e.verses ?? []) if (verseText(ref, bibleDir, cache) === null) problems.push(`${at}: ${ref} is not a verse`);
-        if (e.evidence === 'uncertain' && !e.note) problems.push(`${at}: an uncertain link needs a note`);
         const q = byId.get(e.id);
         const back = { father: ['children'], mother: ['children'], children: ['father', 'mother'], partners: ['partners'], siblings: ['siblings'], same: ['same'] }[field];
         if (back && !back.some((f) => (q[f] ?? []).some((x) => x.id === p.id))) problems.push(`${at}: not recorded back on ${e.id}`);

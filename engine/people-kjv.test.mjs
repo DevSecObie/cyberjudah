@@ -31,21 +31,21 @@ test('Genesis: Laban is "the son of Nahor" as a forefather, his father is Bethue
   assert.equal(laban.line[0].id, byName('Nahor', 'genesis/29/5').id);
 });
 
-test('Genesis: two men called Abimelech are linked only as possibly the same', () => {
+test('Genesis: no uncertain links; two men called Abimelech stay separate', () => {
   const [a, b] = [byName('Abimelech', 'genesis/20/2'), byName('Abimelech', 'genesis/26/1')];
   assert.notEqual(a.id, b.id);
-  assert.equal(a.same[0].id, b.id);
-  assert.equal(a.same[0].evidence, 'uncertain');
+  assert.equal(a.same, undefined);
+  for (const p of people) for (const f of ['father', 'mother', 'partners', 'siblings', 'children', 'line', 'nation', 'same']) for (const e of p[f] ?? []) assert.notEqual(e.evidence, 'uncertain');
 });
 
 test('bad links fail', () => {
   const copy = structuredClone(people);
   copy[0].father = [{ id: 'nobody', evidence: 'scripture', verses: ['genesis/1/1'] }];
   copy[1].verses = ['genesis/1/1'];
-  copy[2].children = [{ id: copy[3].id, evidence: 'probable', verses: ['genesis/1/1'] }];
+  copy[2].children = [{ id: copy[3].id, evidence: 'uncertain', verses: ['genesis/1/1'] }];
   const problems = validateKjvPeople(copy, { bibleDir }).join('\n');
   assert.match(problems, /no such person/);
   assert.match(problems, /does not name/);
-  assert.match(problems, /evidence probable/);
+  assert.match(problems, /evidence uncertain/);
   assert.match(problems, /not recorded back/);
 });

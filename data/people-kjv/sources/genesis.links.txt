@@ -1,7 +1,6 @@
 # Family links in Genesis, each with the verse that states it.
 # child < father | verses      child << mother | verses      a = b | verses (husband and wife, concubine)
 # a ~ b | verses (the text calls them brother or sister)      a ^ b | verses (a is descended from b; generations not given)
-# a ? b | verses | note (may be the same person; identity uncertain)
 # Several children: "c1 c2 c3 < father | verses"
 cain < adam | 4:1
 cain << eve | 4:1
@@ -183,20 +182,6 @@ jahzeel guni jezer shillem < naphtali | 46:24
 joseph ~ benjamin | 43:29,45:14
 israel-people ^ jacob | 46:8
 machir < manasseh | 50:23
-# The same name, possibly the same person. The text does not say.
-abimelech ? abimelech-i | 20:2,26:1 | Both are called Abimelech king of the Philistines or of Gerar, in Abraham's day and in Isaac's
-phichol ? phichol-i | 21:22,26:26 | Both are called Phichol the chief captain of Abimelech's host, in Abraham's day and in Isaac's
-korah ? korah-e | 36:5,36:16 | Korah the son of Esau by Aholibamah, and a duke Korah listed among the dukes that came of Eliphaz
-timna ? timna-s | 36:12,36:22 | Timna concubine to Eliphaz, and Timna the sister of Lotan the Horite
-hori ? hori-30 | 36:22,36:30 | Hori the son of Lotan, and the Hori the Horite dukes came of
-asshur ? asshur-s | 10:11,10:22 | The text reads "Out of that land went forth Asshur" (10:11); Asshur the son of Shem is named in 10:22
-anah ? anah-s | 36:20,36:24 | Anah the son of Seir, and Anah the son of Zibeon the son of Seir
-dishon ? dishon-s | 36:21,36:25 | Dishon the son of Seir, and Dishon the son of Anah
-bashemath-h ? adah | 26:34,36:2 | Both are called the daughter of Elon the Hittite and a wife of Esau
-bashemath ? mahalath | 28:9,36:3 | Both are called Ishmael's daughter, the sister of Nebajoth, and a wife of Esau
-teman ? teman-d | 36:11,36:42 | Teman the son of Eliphaz, and a duke Teman among the dukes that came of Esau
-kenaz ? kenaz-d | 36:11,36:42 | Kenaz the son of Eliphaz, and a duke Kenaz among the dukes that came of Esau
-aholibamah ? aholibamah-d | 36:2,36:41 | Aholibamah the wife of Esau, and a duke Aholibamah among the dukes that came of Esau
 # Nation or people the text gives: a @ group | verses
 ephron @ hittites | 23:10,25:9
 beeri @ hittites | 26:34
