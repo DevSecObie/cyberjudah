@@ -1,0 +1,29 @@
+# Ruth: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+# "Israel" in Ruth is the people, save Ruth 4:11 ("Rachel and Leah, which two did build the house of Israel").
+beth-lehem-judah | | Beth-lehem-judah | * | + |
+moab-land | | Moab | * | + |
+elimelech | Elimelech | Elimelech | * | M | An Ephrathite of Beth-lehem-judah, the husband of Naomi, who went to sojourn in Moab and died there (Ruth 1:1-3)
+naomi | Naomi | Naomi;Mara | * | F | The wife of Elimelech, mother of Mahlon and Chilion; she returned from Moab with Ruth and said, Call me Mara (Ruth 1:2-22)
+mahlon | Mahlon | Mahlon | * | M | A son of Elimelech and Naomi, the husband of Ruth; he died in Moab (Ruth 1:2-5, 4:10)
+chilion | Chilion | Chilion | * | M | A son of Elimelech and Naomi; he died in Moab (Ruth 1:2-5, 4:9)
+ephrathites | Ephrathites | Ephrathites | * | G | "Ephrathites of Beth-lehem-judah" (Ruth 1:2)
+orpah | Orpah | Orpah | * | F | A woman of Moab, wife of one of Naomi's sons, who kissed her mother in law and returned to her people (Ruth 1:4, 1:14-15)
+ruth | Ruth | Ruth | * | F | The Moabitess, the wife of Mahlon, who clave unto Naomi: "thy people shall be my people, and thy God my God"; Boaz took her to wife and she bare Obed (Ruth 1:4, 1:16, 4:10, 4:13)
+judah | | Judah | * | + |
+beth-lehem | | Beth-lehem;Ephratah | * | + |
+moabites | | Moabitess;Moabitish | * | + |
+boaz | Boaz | Boaz | * | M | A mighty man of wealth of Beth-lehem, a kinsman of Elimelech, who redeemed the inheritance and took Ruth to wife; the son of Salmon, father of Obed (Ruth 2:1, 4:9-13, 4:21)
+israel-people | | Israel | !4:11 | + |
+jacob | | Israel | 4:11 | + |
+rachel | | Rachel | * | + |
+leah | | Leah | * | + |
+pharez | | Pharez | * | + |
+tamar | | Tamar | * | + |
+obed | Obed | Obed | * | M | The son of Boaz and Ruth, nursed by Naomi; the father of Jesse, the father of David (Ruth 4:13-17, 4:21-22)
+jesse | Jesse | Jesse | * | M | The son of Obed, father of David (Ruth 4:17, 4:22)
+david | David | David | * | M | The son of Jesse, son of Obed (Ruth 4:17, 4:22)
+hezron | | Hezron | * | + |
+ram | Ram | Ram | * | M | The son of Hezron, father of Amminadab (Ruth 4:19)
+amminadab | | Amminadab | * | + |
+naashon | | Nahshon | * | + |
+salmon | Salmon | Salmon | * | M | The son of Nahshon, father of Boaz (Ruth 4:20-21)
