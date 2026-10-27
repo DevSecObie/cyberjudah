@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Exodus added (49 new people, and Reuben, Levi, Joseph and the others carried on from Genesis), every family link and tribe with the verse that states it. All books now build into one data/people-kjv/people.json.

@@ -1,0 +1,115 @@
+# Exodus: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+# "Israel" in Exodus is the people, save where the man Jacob is meant (6:14, 32:13).
+israel-people | | Israel;Israelites | !6:14,!32:13 | + |
+jacob | | Jacob;Israel | !1:1=Israel,!4:22,!5:2,!9:4,!12:15,!14:19,!14:20,!14:25,!14:30,!14:31,!15:22,!16:31,!17:8,!17:11,!18:1,!18:8,!18:9,!18:25,!19:2,!24:4,!32:4,!32:8,!34:27,!40:38 | + |
+egypt | | Egypt | * | + |
+reuben | | Reuben | * | + |
+simeon | | Simeon | * | + |
+levi | | Levi | * | + |
+judah | | Judah | * | + |
+issachar | | Issachar | * | + |
+zebulun | | Zebulun | * | + |
+benjamin | | Benjamin | * | + |
+dan | | Dan | * | + |
+naphtali | | Naphtali | * | + |
+gad | | Gad | * | + |
+asher | | Asher | * | + |
+joseph | | Joseph | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+pharaoh-o | Pharaoh | Pharaoh | 1:11,1:19,1:22,2:5,2:7,2:8,2:9,2:10,2:15 | M | The king of Egypt who knew not Joseph, who made the children of Israel serve with rigour and commanded every son born to them to be cast into the river; he sought to slay Moses (Exodus 1:8-22, 2:15). The king of Egypt died (Exodus 2:23)
+pharaoh-e | Pharaoh | Pharaoh | !1:11,!1:19,!1:22,!2:5,!2:7,!2:8,!2:9,!2:10,!2:15 | M | The king of Egypt to whom Moses and Aaron said, Let my people go; he hardened his heart, and his host was drowned in the Red sea (Exodus 5:1-2, 14:28)
+pithom | Pithom | Pithom | * | P | A treasure city built for Pharaoh (Exodus 1:11)
+raamses | Raamses | Raamses | * | P | A treasure city built for Pharaoh (Exodus 1:11)
+egyptian | | Egyptian;Egyptians | * | + |
+hebrew | | Hebrew;Hebrews | * | + |
+shiphrah | Shiphrah | Shiphrah | * | F | One of the Hebrew midwives, who feared God and saved the men children alive (Exodus 1:15-21)
+puah | Puah | Puah | * | F | One of the Hebrew midwives, who feared God and saved the men children alive (Exodus 1:15-21)
+moses | Moses | Moses | * | M | The son of Amram and Jochebed, drawn out of the water by Pharaoh's daughter; the Lord sent him to bring the children of Israel out of Egypt, and gave him the law on mount Sinai (Exodus 2:10, 3:10, 6:20, 24:12)
+midian-land | Midian | Midian | * | P | The land of Midian, where Moses dwelt; Jethro was the priest of Midian (Exodus 2:15, 3:1)
+jethro | Jethro | Jethro;Reuel | * | M | The priest of Midian, Moses' father in law. He is Reuel the father of Zipporah, who gave her to Moses (Exodus 2:16-21), and Jethro who brought Zipporah, Moses' wife, to him (Exodus 18:1-2)
+zipporah | Zipporah | Zipporah | * | F | The daughter of Reuel the priest of Midian, Moses' wife, mother of Gershom and Eliezer (Exodus 2:21-22, 18:2-4)
+gershom | Gershom | Gershom | * | M | The son of Moses and Zipporah: "I have been a stranger in a strange land" (Exodus 2:22, 18:3)
+eliezer-m | Eliezer | Eliezer | * | M | The second son of Moses: "the God of my father was mine help" (Exodus 18:4)
+horeb | Horeb | Horeb | * | P | The mountain of God, where the Lord appeared to Moses in the bush (Exodus 3:1)
+canaanites | | Canaanite;Canaanites;Canaanitish | * | + |
+hittites | | Hittite;Hittites | * | + |
+amorite | | Amorite;Amorites | * | + |
+perizzites | | Perizzite;Perizzites | * | + |
+hivite | | Hivite;Hivites | * | + |
+jebusite | | Jebusite;Jebusites | * | + |
+aaron | Aaron | Aaron | * | M | The Levite, brother of Moses, son of Amram and Jochebed; his mouth to the people, and the first high priest (Exodus 4:14-16, 6:20, 28:1)
+levites | Levites | Levite;Levites | * | G | The children of Levi; Aaron is called the Levite (Exodus 4:14, 6:25)
+jehovah | Jehovah | Jehovah | * | X | The name of the Lord (Exodus 6:3); not a person in People
+canaan-land | | Canaan | * | + |
+hanoch | | Hanoch | * | + |
+phallu | | Pallu | * | + |
+hezron-r | | Hezron | * | + |
+carmi | | Carmi | * | + |
+jemuel | | Jemuel | * | + |
+jamin | | Jamin | * | + |
+ohad | | Ohad | * | + |
+jachin | | Jachin | * | + |
+zohar | | Zohar | * | + |
+shaul | | Shaul | * | + |
+gershon | | Gershon | * | + |
+kohath | | Kohath | * | + |
+merari | | Merari | * | + |
+libni | Libni | Libni | * | M | A son of Gershon (Exodus 6:17)
+shimi | Shimi | Shimi | * | M | A son of Gershon (Exodus 6:17)
+amram | Amram | Amram | * | M | A son of Kohath; he took Jochebed his father's sister to wife, and she bare him Aaron and Moses (Exodus 6:18-20)
+izhar | Izhar | Izhar | * | M | A son of Kohath, father of Korah, Nepheg and Zichri (Exodus 6:18, 6:21)
+hebron-k | Hebron | Hebron | * | M | A son of Kohath (Exodus 6:18)
+uzziel | Uzziel | Uzziel | * | M | A son of Kohath, father of Mishael, Elzaphan and Zithri (Exodus 6:18, 6:22)
+mahali | Mahali | Mahali | * | M | A son of Merari (Exodus 6:19)
+mushi | Mushi | Mushi | * | M | A son of Merari (Exodus 6:19)
+jochebed | Jochebed | Jochebed | * | F | The sister of Amram's father, Amram's wife, mother of Aaron and Moses (Exodus 6:20)
+korah-i | Korah | Korah | * | M | A son of Izhar, father of Assir, Elkanah and Abiasaph (Exodus 6:21, 6:24)
+nepheg | Nepheg | Nepheg | * | M | A son of Izhar (Exodus 6:21)
+zichri | Zichri | Zichri | * | M | A son of Izhar (Exodus 6:21)
+mishael | Mishael | Mishael | * | M | A son of Uzziel (Exodus 6:22)
+elzaphan | Elzaphan | Elzaphan | * | M | A son of Uzziel (Exodus 6:22)
+zithri | Zithri | Zithri | * | M | A son of Uzziel (Exodus 6:22)
+elisheba | Elisheba | Elisheba | * | F | The daughter of Amminadab, sister of Naashon, wife of Aaron, mother of Nadab, Abihu, Eleazar and Ithamar (Exodus 6:23)
+amminadab | Amminadab | Amminadab | * | M | The father of Elisheba and Naashon (Exodus 6:23)
+naashon | Naashon | Naashon | * | M | The son of Amminadab, brother of Elisheba (Exodus 6:23)
+nadab | Nadab | Nadab | * | M | A son of Aaron and Elisheba, who went up with Moses and saw the God of Israel (Exodus 6:23, 24:1, 24:9-10)
+abihu | Abihu | Abihu | * | M | A son of Aaron and Elisheba, who went up with Moses and saw the God of Israel (Exodus 6:23, 24:1, 24:9-10)
+eleazar | Eleazar | Eleazar | * | M | A son of Aaron and Elisheba; he took a daughter of Putiel to wife, and she bare him Phinehas (Exodus 6:23, 6:25)
+ithamar | Ithamar | Ithamar | * | M | A son of Aaron and Elisheba, who counted the service of the Levites for the tabernacle (Exodus 6:23, 38:21)
+assir | Assir | Assir | * | M | A son of Korah (Exodus 6:24)
+elkanah | Elkanah | Elkanah | * | M | A son of Korah (Exodus 6:24)
+abiasaph | Abiasaph | Abiasaph | * | M | A son of Korah (Exodus 6:24)
+korhites | Korhites | Korhites | * | G | The families of the sons of Korah (Exodus 6:24)
+putiel | Putiel | Putiel | * | M | Whose daughter Eleazar took to wife; she bare him Phinehas (Exodus 6:25)
+phinehas | Phinehas | Phinehas | * | M | The son of Eleazar by a daughter of Putiel (Exodus 6:25)
+goshen | | Goshen | * | + |
+rameses | | Rameses | * | + |
+succoth | | Succoth | * | + |
+abib | Abib | Abib | * | X | The month in which Israel came out of Egypt (Exodus 13:4); not a person in People
+philistines | | Philistines | * | + |
+etham | Etham | Etham | * | P | Where Israel encamped in the edge of the wilderness (Exodus 13:20)
+pi-hahiroth | Pi-hahiroth | Pi-hahiroth | * | P | Where Israel encamped by the sea (Exodus 14:2, 14:9)
+migdol | Migdol | Migdol | * | P | Between Pi-hahiroth and the sea (Exodus 14:2)
+baal-zephon | Baal-zephon | Baal-zephon | * | P | Over against Pi-hahiroth by the sea (Exodus 14:2, 14:9)
+palestina | Palestina | Palestina | * | P | Whose inhabitants sorrow shall take hold on (Exodus 15:14)
+edom-land | | Edom | * | + |
+moab-land | | Moab | * | + |
+miriam | Miriam | Miriam | * | F | The prophetess, the sister of Aaron, who took a timbrel and sang to the Lord (Exodus 15:20-21)
+shur | | Shur | * | + |
+marah | Marah | Marah | * | P | Where the waters were bitter (Exodus 15:23)
+elim | Elim | Elim | * | P | Where were twelve wells of water and threescore and ten palm trees (Exodus 15:27)
+sinai | Sinai | Sinai | * | P | The mount and wilderness where the Lord gave the law (Exodus 16:1, 19:1-20)
+rephidim | Rephidim | Rephidim | * | P | Where there was no water, and Amalek fought with Israel (Exodus 17:1, 17:8)
+massah | Massah | Massah | * | P | The name Moses gave the place at Rephidim (Exodus 17:7)
+meribah | Meribah | Meribah | * | P | The name Moses gave the place at Rephidim (Exodus 17:7)
+amalek-people | Amalek | Amalek | * | G | The people of Amalek, who fought with Israel in Rephidim; the Lord will have war with Amalek from generation to generation (Exodus 17:8-16)
+joshua | Joshua | Joshua | * | M | The son of Nun, Moses' minister, who fought with Amalek (Exodus 17:9-14, 24:13, 33:11)
+hur | Hur | Hur | 17:10,17:12,24:14 | M | He held up Moses' hands with Aaron in the battle with Amalek, and stayed with the elders with Aaron while Moses went up into the mount (Exodus 17:10-12, 24:14)
+hur-j | Hur | Hur | 31:2,35:30,38:22 | M | Of the tribe of Judah, the father of Uri and grandfather of Bezaleel (Exodus 31:2)
+god-ward | God-ward | God-ward | * | X | "to God-ward" (Exodus 18:19); not a name
+bezaleel | Bezaleel | Bezaleel | * | M | The son of Uri, the son of Hur, of the tribe of Judah, filled with the spirit of God to work in gold, silver and brass for the tabernacle (Exodus 31:2-5)
+uri | Uri | Uri | * | M | The son of Hur of the tribe of Judah, father of Bezaleel (Exodus 31:2)
+aholiab | Aholiab | Aholiab | * | M | The son of Ahisamach of the tribe of Dan, given to work with Bezaleel (Exodus 31:6, 38:23)
+ahisamach | Ahisamach | Ahisamach | * | M | Of the tribe of Dan, the father of Aholiab (Exodus 31:6)
+nun | Nun | Nun | * | M | The father of Joshua (Exodus 33:11)

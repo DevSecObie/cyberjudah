@@ -49,3 +49,15 @@ test('bad links fail', () => {
   assert.match(problems, /evidence uncertain/);
   assert.match(problems, /not recorded back/);
 });
+
+test('Exodus: people carry on from Genesis, and the text gives Moses his family', () => {
+  const reuben = byName('Reuben', 'exodus/6/14');
+  assert.ok(reuben.verses.includes('genesis/29/32'));
+  const moses = byName('Moses', 'exodus/2/10');
+  assert.equal(moses.father[0].id, byName('Amram', 'exodus/6/20').id);
+  assert.equal(moses.mother[0].id, byName('Jochebed', 'exodus/6/20').id);
+  const jethro = byName('Jethro', 'exodus/3/1');
+  assert.ok(jethro.names.includes('Reuel') && jethro.verses.includes('exodus/2/18'));
+  assert.notEqual(jethro.id, byName('Reuel', 'genesis/36/4').id);
+  assert.equal(byName('Bezaleel', 'exodus/31/2').tribe[0].id, byName('Judah', 'genesis/29/35').id);
+});

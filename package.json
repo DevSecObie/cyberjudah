@@ -11,7 +11,7 @@
     "notes:fix": "node scripts/fix-names.mjs && node scripts/link-timestamps.mjs && node scripts/tag-notes.mjs && node scripts/index-scriptures.mjs",
     "notes:lint": "python3 scripts/notes/lint.py",
     "check": "node engine/check.mjs",
-    "people-kjv:build": "python3 scripts/people-kjv/build.py genesis",
+    "people-kjv:build": "python3 scripts/people-kjv/build.py",
     "people-kjv:test": "python3 -m unittest discover -s scripts/people-kjv -p 'test_*.py' && node --test engine/people-kjv.test.mjs",
     "build": "node engine/build.mjs --out dist",
     "site": "npm --prefix site run build",
