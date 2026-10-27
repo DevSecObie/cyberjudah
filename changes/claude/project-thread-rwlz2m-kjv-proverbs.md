@@ -1,0 +1,1 @@
+- People (KJV): add Proverbs: Agur the son of Jakeh, Ithiel and Ucal, and king Lemuel; Solomon, David and Hezekiah carried on.

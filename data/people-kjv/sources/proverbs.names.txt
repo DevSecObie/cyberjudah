@@ -1,0 +1,12 @@
+# Proverbs. key | Name | forms | verses | type | description
+solomon | | Solomon | * | + |
+david | | David | * | + |
+israel-people | | Israel | * | + |
+egypt | | Egypt | * | + |
+hezekiah | | Hezekiah | * | + |
+judah | | Judah | * | + |
+agur | Agur | Agur | * | M | The son of Jakeh, whose words and prophecy are written (Proverbs 30:1)
+jakeh | Jakeh | Jakeh | * | M | The father of Agur (Proverbs 30:1)
+ithiel-a | Ithiel | Ithiel | * | M | To whom Agur spake, "even unto Ithiel and Ucal" (Proverbs 30:1)
+ucal | Ucal | Ucal | * | M | To whom Agur spake, with Ithiel (Proverbs 30:1)
+lemuel | Lemuel | Lemuel | * | M | A king, whose words are "the prophecy that his mother taught him" (Proverbs 31:1-9)
