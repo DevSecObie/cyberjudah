@@ -1,8 +1,1 @@
-- Class notes for the recent classes across the channels, each with its transcript:
-  - IUICintheClassRoom: I Have Loved Strangers and After Them Will I Go (2026-10-26).
-  - IUIC Atlanta: The Hope In You (2026-10-07); The American Dream: A Perpetual Nightmare (2026-10-19, Captain Amaziah).
-  - IUIC Raleigh: God Changed His Name for a Reason (10-15); A System That Doesn't Answer (10-16, Officer Hezekiah); AOG, A Social Dilemma Documentary Deep Dive (10-18, Officer Abraham); Captain Gedaliah Corrects a Christian's Theology (10-20); Did Esau Kill? (10-21); Why Are We Taught to Hate Our Own Image? (10-22); The Truth About Covid, Fauci and the Vaccine Controversy (10-23); Friday Night Raw (10-23, Captain Gedaliah).
-  - 15 Minutes w/ The Captains: Pride, Destroyer of Relationships (10-21, Captain Obadiah); One Man Esteemeth One Day Above Another (10-23, Captain Yahoshua); How To Prove, Part 1 (10-26, Captain Yaya).
-  - Our Hidden History: Ep 207 (09-13), Ep 208 (09-20), Ep 209 (10-04), Ep 210 (10-25).
-- Tags, Opens lines and timestamp links from notes:fix for those notes only.
-- Not written yet, no captions on YouTube: How To Prove Part 2, Baptize To The Light (Captains), ESCP 2.0 and Why Marriage Turns Bitter (Raleigh).
+- Precept data: ten quotes corrected to the King James text word for word ("twelve years", "remember the last end", "God of Israel", "like unto fire", "Esay and Jeremy", "gave thee suck", "by my servants the prophets"). `classes.py check` over all 356 class files now reports 0 problems (was 10).
