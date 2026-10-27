@@ -4,7 +4,8 @@ Each book has <book>.names.txt and <book>.links.txt, read in Bible order.
 <book>.names.txt: key | Name | forms (;) | verses | type | description
   verses: * = every verse of the book naming one of the forms; c:v,c:v = those verses;
   !c:v leaves a verse out; !c:v=Form leaves out only that form in that verse.
-  type: M male, F female, U not stated, G a people, C a creature; P place, T title, X other (not People);
+  type: M male, F female, U not stated, G a people (People); D a god or idol, C a creature, T a title
+  (Gods, creatures and titles, data/other-kjv/other.json); P place, X other (neither);
   + carries on a record from an earlier book: its verses (and any new forms) in this book are added,
   and Name and description stay empty.
 <book>.links.txt: the family links, each with the verses of that book that state it (see the file's header):
@@ -26,11 +27,13 @@ ABBR = dict(zip([b['slug'] for b in json.load(open(f'{ROOT}/bible/index.json', e
     mrk luk jhn act rom 1co 2co gal eph php col 1th 2th 1ti 2ti tit phm heb jas 1pe
     2pe 1jn 2jn 3jn jud rev 1es 2es tob jdt esg wis sir bar s3y sus bel man 1ma 2ma
     lje'''.split()))
-TYPES = {'M': 'Male', 'F': 'Female', 'U': 'Unknown', 'G': 'Group', 'C': 'Creature'}
+TYPES = {'M': 'Male', 'F': 'Female', 'U': 'Unknown', 'G': 'Group'}
+OTHER = {'D': 'God', 'C': 'Creature', 'T': 'Title'}
 OPS = {'<': 'father', '<<': 'mother', '=': 'partners', '~': 'siblings', '^': 'line', '&': 'tribe', '@': 'nation', '==': 'same'}
 EVIDENCE = ('scripture', 'parallel', 'history', 'variant')
 ORDER = [b['slug'] for b in json.load(open(f'{ROOT}/bible/index.json', encoding='utf-8'))]
 OUT = f'{ROOT}/people-kjv/people.json'
+OTHER_OUT = f'{ROOT}/other-kjv/other.json'
 
 
 def vkey(r):
@@ -63,7 +66,7 @@ def read_names(book, VERSES, recs, errs):
             r['forms'] += [f for f in forms if f not in r['forms']]
         else:
             if key in recs: errs.append(f'{at}: key {key} already used'); continue
-            if typ not in TYPES and typ not in 'PTX': errs.append(f'{at}: type {typ}')
+            if typ not in TYPES and typ not in OTHER and typ not in 'PX': errs.append(f'{at}: type {typ}')
             r = recs[key] = dict(key=key, name=name, forms=forms, verses=[], type=typ, desc=desc)
         toks = [t.strip() for t in vs.split(',') if t.strip()]
         exc = {}
@@ -86,6 +89,17 @@ def read_names(book, VERSES, recs, errs):
                 if (v, w) not in cover: errs.append(f'{book} names: {w} in {v} belongs to no record')
 
 
+def make_ids(recs):
+    ids, used = {}, collections.Counter()
+    for k, r in sorted(recs.items(), key=lambda kr: vkey(kr[1]['verses'][0]) if kr[1]['verses'] else (0, 0, 0)):
+        if not r['verses']: continue
+        b, c, v = r['verses'][0].split('/')
+        base = re.sub(r'[^a-z0-9]+', '-', r['name'].lower()).strip('-') + f'-{ABBR[b]}-{c}-{v}'
+        used[base] += 1
+        ids[k] = base if used[base] == 1 else base + 'abcdefgh'[used[base] - 1]
+    return ids
+
+
 def build():
     FORMS, VERSES = index()
     errs = []
@@ -93,13 +107,12 @@ def build():
     recs = {}
     for book in books: read_names(book, VERSES, recs, errs)
     people = {k: r for k, r in recs.items() if r['type'] in TYPES}
-    ids, used = {}, collections.Counter()
-    for k, r in sorted(people.items(), key=lambda kr: vkey(kr[1]['verses'][0]) if kr[1]['verses'] else (0, 0, 0)):
-        if not r['verses']: continue
-        b, c, v = r['verses'][0].split('/')
-        base = re.sub(r'[^a-z0-9]+', '-', r['name'].lower()).strip('-') + f'-{ABBR[b]}-{c}-{v}'
-        used[base] += 1
-        ids[k] = base if used[base] == 1 else base + 'abcdefgh'[used[base] - 1]
+    others = {k: r for k, r in recs.items() if r['type'] in OTHER}
+    ids = make_ids(people)
+    oids = make_ids(others)
+    other_out = sorted(({'id': oids[k], 'name': r['name'], 'names': list(dict.fromkeys([r['name']] + r['forms'])),
+                         'kind': OTHER[r['type']], 'description': r['desc'], 'verses': r['verses']}
+                        for k, r in others.items() if k in oids), key=lambda o: vkey(o['verses'][0]) + (o['id'],))
     out = {k: {'id': ids[k], 'name': r['name'], 'names': list(dict.fromkeys([r['name']] + r['forms'])), 'type': TYPES[r['type']],
                'description': r['desc'], 'verses': r['verses'],
                **{f: [] for f in ('father', 'mother', 'partners', 'siblings', 'children', 'line', 'tribe', 'nation', 'same')}}
@@ -168,22 +181,26 @@ def build():
     keep = ('father', 'mother', 'partners', 'siblings', 'children')
     people_out = sorted(({f: v for f, v in p.items() if v != [] or f in keep} for p in out.values()),
                         key=lambda p: vkey(p['verses'][0]) + (p['id'],))
-    return {'books': books, 'people': people_out}, errs
+    return {'books': books, 'people': people_out, 'other': other_out}, errs
 
 
-def dump(doc):
-    rows = ',\n'.join(json.dumps(p, ensure_ascii=False, separators=(',', ':')) for p in doc['people'])
-    return '{"books":' + json.dumps(doc['books']) + ',"people":[\n' + rows + '\n]}\n'
+def dump(doc, field='people'):
+    rows = ',\n'.join(json.dumps(p, ensure_ascii=False, separators=(',', ':')) for p in doc[field])
+    return '{"books":' + json.dumps(doc['books']) + f',"{field}":[\n' + rows + '\n]}\n'
 
 
 if __name__ == '__main__':
     doc, errs = build()
     for e in errs: print('error:', e)
     if errs: sys.exit(1)
-    text = dump(doc)
+    files = [(OUT, dump(doc)), (OTHER_OUT, dump(doc, 'other'))]
+    said = f'{len(doc["people"])} people and {len(doc["other"])} gods, creatures and titles from {", ".join(doc["books"])}'
     if '--check' in sys.argv:
-        if not os.path.exists(OUT) or open(OUT, encoding='utf-8').read() != text: print(f'{OUT} is out of date: run build.py'); sys.exit(1)
-        print(f'{len(doc["people"])} people from {", ".join(doc["books"])}, up to date')
+        for out, text in files:
+            if not os.path.exists(out) or open(out, encoding='utf-8').read() != text: print(f'{out} is out of date: run build.py'); sys.exit(1)
+        print(said + ', up to date')
     else:
-        open(OUT, 'w', encoding='utf-8').write(text)
-        print(f'{len(doc["people"])} people from {", ".join(doc["books"])} written')
+        for out, text in files:
+            os.makedirs(os.path.dirname(out), exist_ok=True)
+            open(out, 'w', encoding='utf-8').write(text)
+        print(said + ' written')

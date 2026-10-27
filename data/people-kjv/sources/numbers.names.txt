@@ -160,7 +160,7 @@ jahaz | Jahaz | Jahaz | * | P | Where Sihon fought against Israel (Numbers 21:23
 jabbok | | Jabbok | * | + |
 ammon | | Ammon | * | + |
 heshbon | Heshbon | Heshbon | * | P | The city of Sihon king of the Amorites (Numbers 21:26)
-chemosh | Chemosh | Chemosh | * | X | "O people of Chemosh" (Numbers 21:29); the god of Moab, not a person in People
+chemosh | Chemosh | Chemosh | * | D | "O people of Chemosh" (Numbers 21:29); the god of Moab
 dibon | Dibon | Dibon | * | P | A city of the Amorites' land, built again by Gad (Numbers 21:30, 32:34)
 nophah | Nophah | Nophah | * | P | Laid waste by Israel (Numbers 21:30)
 medeba | Medeba | Medeba | * | P | Unto which Nophah reacheth (Numbers 21:30)
@@ -177,7 +177,7 @@ balaam | Balaam | Balaam | * | M | The son of Beor of Pethor, sent for by Balak 
 beor-b | Beor | Beor | * | M | The father of Balaam (Numbers 22:5, 24:3)
 pethor | Pethor | Pethor | * | P | Where Balaam dwelt, by the river (Numbers 22:5)
 kirjath-huzoth | Kirjath-huzoth | Kirjath-huzoth | * | P | Where Balaam went with Balak (Numbers 22:39)
-baal | Baal | Baal | * | X | "the high places of Baal" (Numbers 22:41); not a person in People
+baal | Baal | Baal | * | D | A god Israel served when they forsook the Lord (Judges 2:13); "the high places of Baal" (Numbers 22:41)
 aram-land | Aram | Aram | * | P | Whence Balak brought Balaam, out of the mountains of the east (Numbers 23:7)
 zophim | Zophim | Zophim | * | P | The field of Zophim, to the top of Pisgah (Numbers 23:14)
 peor | Peor | Peor | * | P | The top of Peor, where Balak brought Balaam; the matter of Peor (Numbers 23:28, 25:18, 31:16)
@@ -190,7 +190,7 @@ asshur-people | Asshur | Asshur | * | G | Who shall carry the Kenite away captiv
 chittim | Chittim | Chittim | * | P | Whence ships shall come and afflict Asshur and Eber (Numbers 24:24)
 eber-people | Eber | Eber | * | G | Whom ships from Chittim shall afflict (Numbers 24:24)
 shittim | Shittim | Shittim | * | P | Where Israel abode and began to commit whoredom with the daughters of Moab (Numbers 25:1)
-baal-peor | Baal-peor | Baal-peor | * | X | To whom Israel joined himself (Numbers 25:3, 25:5); not a person in People
+baal-peor | Baal-peor | Baal-peor | * | D | The god of Peor, to whom Israel joined himself in Shittim (Numbers 25:1-5)
 phinehas | | Phinehas | * | + |
 zimri | Zimri | Zimri | * | M | The son of Salu, of a chief house among the Simeonites, slain by Phinehas with the Midianitish woman (Numbers 25:14)
 salu | Salu | Salu | * | M | The father of Zimri, of a chief house among the Simeonites (Numbers 25:14)
