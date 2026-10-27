@@ -1,4 +1,5 @@
 import { validatePeople, personPicture } from "./people-validation.mjs";
+import { descendantsOf } from "./people-lines.mjs";
 import { validatePlaces } from "./places-validation.mjs";
 
 import { correctedClass, classCatalog, loadClassBroadcasts } from "./class-metadata.mjs";
@@ -395,6 +396,7 @@ for (const n of notes) {
 }
 for (const rows of namedInNotes.values()) rows.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")));
 
+const descendants = descendantsOf(peopleDoc);
 const personRef = (id) => { const p = personById.get(id); return p ? { id, name: p.name, ...personPicture(p) } : null; };
 const peopleIndex = [];
 for (const p of peopleDoc.people) {
@@ -412,6 +414,7 @@ for (const p of peopleDoc.people) {
     id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, tribe: p.tribe, ...personPicture(p),
     father: p.father.map(personRef).filter(Boolean), mother: p.mother.map(personRef).filter(Boolean),
     siblings: p.siblings.map(personRef).filter(Boolean), partners: p.partners.map(personRef).filter(Boolean), children: p.children.map(personRef).filter(Boolean),
+    line: (p.line ?? []).map((e) => personRef(e.id) && { ...personRef(e.id), verses: e.verses }).filter(Boolean), descendants: (descendants.get(p.id) ?? []).map((e) => personRef(e.id) && { ...personRef(e.id), verses: e.verses }).filter(Boolean),
     verses: p.verses, taught, classes: namedInNotes.get(p.id) ?? [], source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
     cases: (casesOfPerson.get(p.id) ?? []).map((c) => ({ slug: c.slug, name: c.name, url: caseUrl(c), era: c.era, kind: c.kind ?? "judgment", verdict: c.verdict, verdictLabel: VERDICT[c.verdict] ?? c.verdict, charge: c.charge, preview: preview(c.summary) })),
   });
