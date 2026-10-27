@@ -70,3 +70,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 14
 
 - Luke 22 (2025-07-01, Captain Josiah), 21:29 (2025-06-25, Captain Zakai, heard as "Captain Zechariah"), 21:25 (2025-06-23, Captain Mattathias), 21:16 (2025-06-18, Captain Mattathias), 21 (2025-06-17, Captain Gedaliah) and 21 (2025-06-16, Captain Emmanuel).
+
+## Batch 15
+
+- Luke 20:27 (2025-06-12, host heard as "Captain Ab", left blank), 20:21 (2025-06-11, Captain Zakai, heard as "Captain Zacchaeus"), 20:9 (2025-06-10, host not named), 20 (2025-06-09, Captain Mattathias), 19 (2025-06-05, Captain Mattathias) and 18:15 (2025-06-04, Captain Mattathias).
