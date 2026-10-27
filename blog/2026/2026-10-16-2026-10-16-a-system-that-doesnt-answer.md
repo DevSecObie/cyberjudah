@@ -4,10 +4,12 @@ slug: "2026/2026-10-16-a-system-that-doesnt-answer"
 date: "2026-10-16"
 teacher: "Officer Hezekiah"
 description: "IUIC Raleigh · 2026-10-16"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-health"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-16</p>
+
+<span class="opens"><b>Opens</b> [Isa 1](/bible/isaiah/1) · [Hos 6](/bible/hosea/6) · [Amos 3](/bible/amos/3) · [2 Macc 7](/bible/2-maccabees/7) · [Isa 45](/bible/isaiah/45) · [Hos 5](/bible/hosea/5) · [Isa 59](/bible/isaiah/59) · [John 9](/bible/john/9) · [Ps 40](/bible/psalms/40) · [Exod 3](/bible/exodus/3) · [2 Esdras 5](/bible/2-esdras/5) · [Eccl 1](/bible/ecclesiastes/1) · [Eccl 6](/bible/ecclesiastes/6) · [Prov 11](/bible/proverbs/11) · [Hos 4](/bible/hosea/4) · [Prov 1](/bible/proverbs/1) · <i>and 23 more below</i></span>
 
 <!-- truncate -->
 
@@ -15,19 +17,19 @@ tags: ["IUIC in the ClassRoom"]
 
 ## Introduction
 
-*[1:19]* Shalom, Most High in Christ bless. I'm Officer Hezekiah, in the studio on 93.5 FM with Officer John and Soldier Elias, and good to see Mr. Steven again. Today's topic: a system that doesn't answer. That's loaded. There is a lot of injustice and evil happening, a lot of killing on both ends, and we are going to touch it according to the Bible. But the first thing is about us as the people of God, the Israelites: we must know why these things are happening in our community.
+*[[1:19](https://www.youtube.com/watch?v=qMrKDkyjDho&t=79s)]* Shalom, Most High in Christ bless. I'm Officer Hezekiah, in the studio on 93.5 FM with Officer John and Soldier Elias, and good to see Mr. Steven again. Today's topic: a system that doesn't answer. That's loaded. There is a lot of injustice and evil happening, a lot of killing on both ends, and we are going to touch it according to the Bible. But the first thing is about us as the people of God, the Israelites: we must know why these things are happening in our community.
 
 ## In The News
 
-- *[46:41]* **Family says 22-year-old man shot, killed by Sampson County deputies after he called 911 for a mental health crisis** — Shawn West Jr. was released from the hospital on a Thursday with suicidal thoughts, went to the Dollar General market in Faison and called 911 for help. Two deputies shot him; a neighbor heard twenty or more shots; the deputies were put on administrative leave; the family has not been allowed to see the body, and the autopsy may take several months. Sampson County is the redneck countryside, and the neighbor who said this doesn't happen in the country forgot Sonya Massey, shot in the head in her own home after she called for help. When the cause of death is plain, what is a months-long autopsy for? Are you trying to hide something?
-- *[1:18:43]* **Three arrested in the Thelma Street shooting in Raleigh** — A 27-year-old man killed after a fight; three young people charged, all of them our people, northern and southern kingdom together. A neighbor of forty years said shootings there are no longer shocking but expected. That's desensitized. The council member's answer is mental health, homelessness and the police department. You've tried voting, the police and the church. You never tried the Bible.
-- *[1:26:41]* **Ice Cube on the music industry** — The same people who own the labels own the private prisons. Records are made by committee, with guard rails on what gets through: the record company tells the artist this is hot, say that.
-- *[1:49:42]* **"Woe" by Original Royalty** — Woe means destruction, and that is what is coming on the nations.
+- *[[46:41](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2801s)]* **Family says 22-year-old man shot, killed by Sampson County deputies after he called 911 for a mental health crisis** — Shawn West Jr. was released from the hospital on a Thursday with suicidal thoughts, went to the Dollar General market in Faison and called 911 for help. Two deputies shot him; a neighbor heard twenty or more shots; the deputies were put on administrative leave; the family has not been allowed to see the body, and the autopsy may take several months. Sampson County is the redneck countryside, and the neighbor who said this doesn't happen in the country forgot Sonya Massey, shot in the head in her own home after she called for help. When the cause of death is plain, what is a months-long autopsy for? Are you trying to hide something?
+- *[[1:18:43](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4723s)]* **Three arrested in the Thelma Street shooting in Raleigh** — A 27-year-old man killed after a fight; three young people charged, all of them our people, northern and southern kingdom together. A neighbor of forty years said shootings there are no longer shocking but expected. That's desensitized. The council member's answer is mental health, homelessness and the police department. You've tried voting, the police and the church. You never tried the Bible.
+- *[[1:26:41](https://www.youtube.com/watch?v=qMrKDkyjDho&t=5201s)]* **Ice Cube on the music industry** — The same people who own the labels own the private prisons. Records are made by committee, with guard rails on what gets through: the record company tells the artist this is hot, say that.
+- *[[1:49:42](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6582s)]* **"Woe" by Original Royalty** — Woe means destruction, and that is what is coming on the nations.
 
 ## Scriptures Opened
 
 
-**[Isaiah 1:2-6](/bible/isaiah/1#v2)**  *[2:19]*
+**[Isaiah 1:2-6](/bible/isaiah/1#v2)**  *[[2:19](https://www.youtube.com/watch?v=qMrKDkyjDho&t=139s)]*
 
 > <sup>[2](/bible/isaiah/1#v2)</sup> Hear, O heavens, and give ear, O earth: for the Lord hath spoken, I have nourished and brought up children, and they have rebelled against me.
 >
@@ -53,7 +55,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - There is no soundness in it: Like the hearing test with the headphones, a sound catches your attention. When you hear the scripture and the prophets teaching, it doesn't catch you: wait a minute, he hit something that happened to me. Wounds, bruises and putrifying sores that have not been closed or mollified with ointment are the pain you feel spiritually. We are here to heal those things with the word of God.
 
-**[Hosea 6:1](/bible/hosea/6#v1)**  *[8:07]*
+**[Hosea 6:1](/bible/hosea/6#v1)**  *[[8:07](https://www.youtube.com/watch?v=qMrKDkyjDho&t=487s)]*
 
 > <sup>[1](/bible/hosea/6#v1)</sup> Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
 
@@ -67,7 +69,7 @@ tags: ["IUIC in the ClassRoom"]
 
     This is Christ walking. He cast out the spirits with his word and healed all that were sick. That is how he heals us. We must understand and apply this Bible, not Christianity, and learn God's ways so we are out of the way when destruction comes.
 
-**[Amos 3:6](/bible/amos/3#v6)**  *[9:58]*
+**[Amos 3:6](/bible/amos/3#v6)**  *[[9:58](https://www.youtube.com/watch?v=qMrKDkyjDho&t=598s)]*
 
 > <sup>[6](/bible/amos/3#v6)</sup> Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord hath not done it?
 
@@ -75,13 +77,13 @@ tags: ["IUIC in the ClassRoom"]
 
 - Shall there be evil in a city, and the Lord hath not done it? The injustices and atrocities in the city: the Lord is the one behind them. Our people just don't understand why they happen.
 
-**[2 Maccabees 7:32](/bible/2-maccabees/7#v32)**  *[10:23]*
+**[2 Maccabees 7:32](/bible/2-maccabees/7#v32)**  *[[10:23](https://www.youtube.com/watch?v=qMrKDkyjDho&t=623s)]*
 
 > <sup>[32](/bible/2-maccabees/7#v32)</sup> For we suffer because of our sins.
 
 - For we suffer because of our sins: It's that simple. This is why the so-called blacks, Hispanics and Native Americans go through what we go through. God is trying to get our attention because of the iniquities we committed against the Most High and his son Jesus Christ. We just don't want to read the Bible.
 
-**[Isaiah 45:7](/bible/isaiah/45#v7)**  *[11:05]*
+**[Isaiah 45:7](/bible/isaiah/45#v7)**  *[[11:05](https://www.youtube.com/watch?v=qMrKDkyjDho&t=665s)]*
 
 > <sup>[7](/bible/isaiah/45#v7)</sup> I form the light, and create darkness: I make peace, and create evil: I the Lord do all these things.
 
@@ -89,7 +91,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - In order to have great peace, you must be capable of great violence, as the Bishop put it. The Lord killed everybody on the planet and saved eight. If that isn't great violence, nothing is.
 
-**[Hosea 5:15](/bible/hosea/5#v15)**  *[11:56]*
+**[Hosea 5:15](/bible/hosea/5#v15)**  *[[11:56](https://www.youtube.com/watch?v=qMrKDkyjDho&t=716s)]*
 
 > <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
@@ -99,7 +101,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - In their affliction they will seek me early: When we are getting killed in the streets, that's when we cry God, why? The answer is in the scriptures. Return to our God and he will fight for us again. Many of our people fall to Christianity because God has hidden himself and hasn't shown what he can do. When Christ intervenes it will be a grand opening. He told Esau, you thought I was altogether such an one as thyself, because I kept silence so long.
 
-**[Isaiah 59:1-2](/bible/isaiah/59#v1)**  *[14:13]*
+**[Isaiah 59:1-2](/bible/isaiah/59#v1)**  *[[14:13](https://www.youtube.com/watch?v=qMrKDkyjDho&t=853s)]*
 
 > <sup>[1](/bible/isaiah/59#v1)</sup> Behold, the Lord’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
 >
@@ -115,7 +117,7 @@ tags: ["IUIC in the ClassRoom"]
 
     That's us, the prophets. We are everywhere, and that is God extending his hand to get you to understand what his word has been saying all along. It is our job as the messengers to teach you what God says before Christ makes his grand opening. If you see us, God sent us that way.
 
-**[John 9:31](/bible/john/9#v31)**  *[17:08]*
+**[John 9:31](/bible/john/9#v31)**  *[[17:08](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1028s)]*
 
 > <sup>[31](/bible/john/9#v31)</sup> Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.
 
@@ -123,7 +125,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - But if any man be a worshipper of God, and doeth his will, him he heareth: You must be doing the will of God for him to hear your prayers.
 
-**[Psalms 40:7-8](/bible/psalms/40#v7)**  *[18:30]*
+**[Psalms 40:7-8](/bible/psalms/40#v7)**  *[[18:30](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1110s)]*
 
 > <sup>[7](/bible/psalms/40#v7)</sup> Then said I, Lo, I come: in the volume of the book it is written of me,
 >
@@ -131,7 +133,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - I delight to do thy will, O my God: yea, thy law is within my heart: The will of God is doing his laws, statutes and commandments. What separates you is sin, and sin is breaking the commandments.
 
-**[Exodus 3:7-8](/bible/exodus/3#v7)**  *[18:47]*
+**[Exodus 3:7-8](/bible/exodus/3#v7)**  *[[18:47](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1127s)]*
 
 > <sup>[7](/bible/exodus/3#v7)</sup> And the Lord said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;
 >
@@ -143,25 +145,25 @@ tags: ["IUIC in the ClassRoom"]
 
 - Every time an empire was about to be destroyed, Babylon, Assyria, Persia, Rome, God sent the prophets first. Every ruling nation starts to decline after about 250 years, and this July 4th is 250 years. It's about to get crazy.
 
-**[2 Esdras 5:42](/bible/2-esdras/5#v42)**  *[21:03]*
+**[2 Esdras 5:42](/bible/2-esdras/5#v42)**  *[[21:03](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1263s)]*
 
 > <sup>[42](/bible/2-esdras/5#v42)</sup> And he said unto me, I will liken my judgment unto a ring: like as there is no slackness of the last, even so there is no swiftness of the first.
 
 - I will liken my judgment unto a ring: The judgment always goes around the nation of Israel. It hit the northern kingdom not long ago, when ICE was taking them, and now the injustice hits right back on the southern kingdom. It goes in a circle with our people to wake us up.
 
-**[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[22:32]*
+**[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[[22:32](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1352s)]*
 
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
 
 - There is no new thing under the sun: People think new things are happening in the end times. They're not. Months ago it was injustice against the northern kingdom; fifty or sixty years ago it was the American Indian Movement, and the Trail of Tears within the last 150 years. In the last sixty-five years, injustice against the southern kingdom. It looks different in each time frame, but it's the same injustices against the same people.
 
-**[Ecclesiastes 6:10](/bible/ecclesiastes/6#v10)**  *[24:05]*
+**[Ecclesiastes 6:10](/bible/ecclesiastes/6#v10)**  *[[24:05](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1445s)]*
 
 > <sup>[10](/bible/ecclesiastes/6#v10)</sup> That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.
 
 - That which hath been is named already, and it is known that it is man: What has been has a name, and it is man. A man is doing these injustices, and he knows his clock is ticking.
 
-**[Proverbs 11:1](/bible/proverbs/11#v1)**  *[24:56]*
+**[Proverbs 11:1](/bible/proverbs/11#v1)**  *[[24:56](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1496s)]*
 
 > <sup>[1](/bible/proverbs/11#v1)</sup> A false balance is abomination to the Lord: but a just weight is his delight.
 
@@ -171,7 +173,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - We think blacks, Hispanics and Native Americans are so different. No other nation thinks that way about itself. The Europeans are the same people and they work together; they split up Africa between them and kept one thing in mind: that you never know who you are.
 
-**[Hosea 4:1-2](/bible/hosea/4#v1)**  *[25:37]*
+**[Hosea 4:1-2](/bible/hosea/4#v1)**  *[[25:37](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1537s)]*
 
 > <sup>[1](/bible/hosea/4#v1)</sup> Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
 >
@@ -181,7 +183,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood: We swear against one another, lie on one another, kill, steal and commit adultery with one another, killing our own selves. We are the only nation that can profess God on this earth. If we don't apply justice among each other, how will the other nations?
 
-**[Proverbs 1:1-3](/bible/proverbs/1#v1)**  *[26:55]*
+**[Proverbs 1:1-3](/bible/proverbs/1#v1)**  *[[26:55](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1615s)]*
 
 > <sup>[1](/bible/proverbs/1#v1)</sup> The proverbs of Solomon the son of David, king of Israel;
 >
@@ -193,7 +195,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - To know wisdom and instruction; to perceive the words of understanding; to receive the instruction of wisdom, justice, and judgment, and equity: It is our job to know wisdom, and to have justice, judgment and equity.
 
-**[Proverbs 2:6-9](/bible/proverbs/2#v6)**  *[27:39]*
+**[Proverbs 2:6-9](/bible/proverbs/2#v6)**  *[[27:39](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1659s)]*
 
 > <sup>[6](/bible/proverbs/2#v6)</sup> For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.
 >
@@ -207,7 +209,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Then shalt thou understand righteousness, and judgment, and equity; yea, every good path: Equity is every good path. Like the equity on a house that builds value, wisdom gives you value as a man. That's why the sisters have to stop twerking on TikTok: when you dress modestly, others follow. The men taking care of the household: it starts with us.
 
-**[Ezekiel 18:5-6](/bible/ezekiel/18#v5)**  *[29:10]*
+**[Ezekiel 18:5-6](/bible/ezekiel/18#v5)**  *[[29:10](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1750s)]*
 
 > <sup>[5](/bible/ezekiel/18#v5)</sup> But if a man be just, and do that which is lawful and right,
 >
@@ -219,22 +221,22 @@ tags: ["IUIC in the ClassRoom"]
 
 - Neither hath defiled his neighbour's wife: Brothers are out here sleeping with women, and with men, and making that a new thing.
 
-*[30:41]* They give us Juneteenth to put us right back to sleep. Esau does a lot of injustice before each holiday: they kill us, rape, rob and murder and get off scot-free, and then black people go back to the holiday and shut up. They give a little money to shut us up, but money doesn't fix a death or the damage of being beaten by a cop. They kill you, pay your parents off, and you bring the money right back to them with interest: you spend it, commit crimes, get locked up, and they get free labor from you again.
+*[[30:41](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1841s)]* They give us Juneteenth to put us right back to sleep. Esau does a lot of injustice before each holiday: they kill us, rape, rob and murder and get off scot-free, and then black people go back to the holiday and shut up. They give a little money to shut us up, but money doesn't fix a death or the damage of being beaten by a cop. They kill you, pay your parents off, and you bring the money right back to them with interest: you spend it, commit crimes, get locked up, and they get free labor from you again.
 
 
-**[Sirach 15:13](/bible/sirach/15#v13)**  *[32:44]*
+**[Sirach 15:13](/bible/sirach/15#v13)**  *[[32:44](https://www.youtube.com/watch?v=qMrKDkyjDho&t=1964s)]*
 
 > <sup>[13](/bible/sirach/15#v13)</sup> The Lord hateth all abomination; and they that fear God love it not.
 
 - The Lord hateth all abomination; and they that fear God love it not: God hates all abomination, and we who fear God don't love it either, because we are supposed to be just like God, walking Christly on this earth.
 
-**[Proverbs 20:23](/bible/proverbs/20#v23)**  *[34:54]*
+**[Proverbs 20:23](/bible/proverbs/20#v23)**  *[[34:54](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2094s)]*
 
 > <sup>[23](/bible/proverbs/20#v23)</sup> Divers weights are an abomination unto the Lord; and a false balance is not good.
 
 - Divers weights are an abomination unto the Lord; and a false balance is not good: You can't get any good out of a false balance. That means injustice.
 
-**[Matthew 24:4-8](/bible/matthew/24#v4)**  *[35:38]*
+**[Matthew 24:4-8](/bible/matthew/24#v4)**  *[[35:38](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2138s)]*
 
 > <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
 >
@@ -250,13 +252,13 @@ tags: ["IUIC in the ClassRoom"]
 
 - For many shall come in my name, saying, I am Christ; and shall deceive many: If you believe in Christianity, you are deceived. If you believe in any other religion, you are deceived. Anything outside God's laws and commandments, knowing Christ is a black man and knowing you blacks, Hispanics and Native Americans are the Israelites, is deception.
 
-- *[43:13]* And ye shall hear of wars and rumours of wars: see that ye be not troubled: The wars are coming closer, in the areas where the Israelites are: Russia and Ukraine, Israel and Gaza. Our people are over there.
+- *[[43:13](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2593s)]* And ye shall hear of wars and rumours of wars: see that ye be not troubled: The wars are coming closer, in the areas where the Israelites are: Russia and Ukraine, Israel and Gaza. Our people are over there.
 
 - And there shall be famines, and pestilences, and earthquakes, in divers places: War drives up the price of gas and food, and there will be famine and wildfires.
 
 - All these are the beginning of sorrows: That's where we are now. And within those sorrows, injustice ramps up. With war going on, the white man still finds a way to get a gun and shoot you, and a Chinese store owner chases a brother 130 yards and shoots him in the back over some water.
 
-**[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[37:06]*
+**[2 Thessalonians 2:3-4](/bible/2-thessalonians/2#v3)**  *[[37:06](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2226s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 >
@@ -270,7 +272,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Who opposeth and exalteth himself above all that is called God: The so-called white man painted himself as the son of the Most High God. There's a giant statue of Jesus in Brazil, and in Rome the Sistine Chapel has two naked white men touching fingers, supposed to be Adam and the Father. Why do they have to be naked? He is a profane person, and he exalts himself: make my son look like Jesus.
 
-**[Deuteronomy 28:64](/bible/deuteronomy/28#v64)**  *[39:22]*
+**[Deuteronomy 28:64](/bible/deuteronomy/28#v64)**  *[[39:22](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2362s)]*
 
 > <sup>[64](/bible/deuteronomy/28#v64)</sup> And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.
 
@@ -282,7 +284,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Even wood and stone: Wood is the Christian symbol, the wooden cross, the biggest religion our people are in. We learned it in chains, by force; whatever your slave master was, you were. Stone is the Kaaba stone of Islam, the second biggest. Those two have destroyed our people for centuries. The white man forced Christianity on us and the Arabs forced Islam on us; Mecca was a slave port.
 
-**[Lamentations 4:17-19](/bible/lamentations/4#v17)**  *[57:08]*
+**[Lamentations 4:17-19](/bible/lamentations/4#v17)**  *[[57:08](https://www.youtube.com/watch?v=qMrKDkyjDho&t=3428s)]*
 
 > <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
 >
@@ -298,7 +300,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - They pursued us upon the mountains, they laid wait for us in the wilderness: It doesn't matter what religion you are; they shot our people in the church in South Carolina. Brothers died in the woods with white folks. They hunted black boys on Epstein's island. Now they do it boldly because their time is running out.
 
-**[Nehemiah 9:37](/bible/nehemiah/9#v37)**  *[1:01:18]*
+**[Nehemiah 9:37](/bible/nehemiah/9#v37)**  *[[1:01:18](https://www.youtube.com/watch?v=qMrKDkyjDho&t=3678s)]*
 
 > <sup>[37](/bible/nehemiah/9#v37)</sup> And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.
 
@@ -308,7 +310,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - **Officer John:** If he was shot, the manner of death is already determined. Release the body so the family can grieve and bury him. The hospital could have referred him to a mental health facility and had him transported, or called the family and said we won't release him back to you until he's evaluated. Working in law enforcement, I saw it often: the hospital can't treat a mental ailment, gives them something to calm them down and releases them. The only way left to get help is to call 911, go to jail, and have mental health come to the jail.
 
-**[Zechariah 11:4-5](/bible/zechariah/11#v4)**  *[1:08:15]*
+**[Zechariah 11:4-5](/bible/zechariah/11#v4)**  *[[1:08:15](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4095s)]*
 
 > <sup>[4](/bible/zechariah/11#v4)</sup> Thus saith the Lord my God; Feed the flock of the slaughter;
 >
@@ -322,7 +324,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - And they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not: The ones who sell us say I believe in baptism, the Lord is with me. And our own Christian pastors: where are they? The man was shot twenty times and no church is out there. The church and the barbershop had their good moment, but it's all corrupt now.
 
-**[Job 9:24](/bible/job/9#v24)**  *[1:11:22]*
+**[Job 9:24](/bible/job/9#v24)**  *[[1:11:22](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4282s)]*
 
 > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
 
@@ -338,7 +340,7 @@ tags: ["IUIC in the ClassRoom"]
 
     Edom builds and God throws down, and they shall be called the border of wickedness, the beginning and end of wickedness: that's Amalek, the so-called Jewish man. In the history of the Jews in America, the Mexican War was started by an Amalekite who hated being ruled by the Mexicans in California. Esau always revolts from under Judah, as in 2 Chronicles 21. That's a class for another day.
 
-**[Habakkuk 1:4](/bible/habakkuk/1#v4)**  *[1:15:13]*
+**[Habakkuk 1:4](/bible/habakkuk/1#v4)**  *[[1:15:13](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4513s)]*
 
 > <sup>[4](/bible/habakkuk/1#v4)</sup> Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
 
@@ -350,7 +352,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - **Officer John:** We were never included in this law system. The preamble says we the people of the United States, and outside the window of the room it was written in were slaves on the plantation. We are denizens, not citizens. And Juneteenth: they didn't tell them for two years that they were free.
 
-**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[1:19:26]*
+**[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:19:26](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4766s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 >
@@ -362,7 +364,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - **Officer John:** In Mississippi, where I'm from, a father just helped his two seventeen-year-old sons kill a seventeen-year-old with an illegal machine gun. It's not only what other nations do to us. It's the injustice we do to each other.
 
-**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[1:25:12]*
+**[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[[1:25:12](https://www.youtube.com/watch?v=qMrKDkyjDho&t=5112s)]*
 
 > <sup>[33](/bible/1-corinthians/15#v33)</sup> Be not deceived: evil communications corrupt good manners.
 
@@ -370,7 +372,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Esau owns the music industry, and it leads to prison. Bobby Shmurda performed his murder songs before a room of white executives at Epic Records. Kanye's New Slaves: the DEA teamed up with the CCA, trying to lock us up and make new slaves. That's the privately owned prison. Beyond Scared Straight did not work. Private prisons are paid for heads in beds, and one sued the state of Alabama for not keeping it ninety percent full. School to prison, music to prison, Christianity to prison: it's all business, to keep us in the prison and their money growing.
 
-**[Psalms 64:6](/bible/psalms/64#v6)**  *[1:38:05]*
+**[Psalms 64:6](/bible/psalms/64#v6)**  *[[1:38:05](https://www.youtube.com/watch?v=qMrKDkyjDho&t=5885s)]*
 
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
@@ -380,19 +382,19 @@ tags: ["IUIC in the ClassRoom"]
 
 - Both the inward thought of every one of them, and the heart, is deep: They play chess while we play Connect Four. They know they have a short time to rule before our God comes back, and as long as they keep us from picking up the Bible, learning we are the Israelites and keeping the law, they flood us with music and build prisons. Prison doesn't rehabilitate anybody. It makes a killer a better one.
 
-**[Numbers 23:23](/bible/numbers/23#v23)**  *[1:40:14]*
+**[Numbers 23:23](/bible/numbers/23#v23)**  *[[1:40:14](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6014s)]*
 
 > <sup>[23](/bible/numbers/23#v23)</sup> Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!
 
 - Surely there is no enchantment against Jacob, neither is there any divination against Israel: No witchcraft works on us when we keep God's law. Once you listen to the lyrics instead of the beat, you hear the fornication, the killing, the hating your brother, and you turn the song off.
 
-**[Jeremiah 9:20](/bible/jeremiah/9#v20)**  *[1:42:16]*
+**[Jeremiah 9:20](/bible/jeremiah/9#v20)**  *[[1:42:16](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6136s)]*
 
 > <sup>[20](/bible/jeremiah/9#v20)</sup> Yet hear the word of the Lord, O ye women, and let your ear receive the word of his mouth, and teach your daughters wailing, and every one her neighbour lamentation.
 
 - And teach your daughters wailing, and every one her neighbour lamentation: Singing so well you bring people to tears is a skill that gets taught. That's why the sisters in church hit those notes and you start crying, and why every church song has the same toe-tapping tempo and the tambourine: it invokes a spirit. Christianity is the number one business.
 
-**[Ezekiel 35:2-5](/bible/ezekiel/35#v2)**  *[1:44:10]*
+**[Ezekiel 35:2-5](/bible/ezekiel/35#v2)**  *[[1:44:10](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6250s)]*
 
 > <sup>[2](/bible/ezekiel/35#v2)</sup> Son of man, set thy face against mount Seir, and prophesy against it,
 >
@@ -412,7 +414,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - In the time that their iniquity had an end: Our enslavement ended in 1863 and 1865, and they went harder: Reconstruction, Jim Crow, everything to keep us in sin and separated from our God. The cases still read so-and-so versus the state of North Carolina.
 
-**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[1:47:37]*
+**[Isaiah 42:22](/bible/isaiah/42#v22)**  *[[1:47:37](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6457s)]*
 
 > <sup>[22](/bible/isaiah/42#v22)</sup> But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
 
@@ -422,7 +424,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - They are for a prey, and none delivereth; for a spoil, and none saith, Restore: The only ones saying restore are the Israelites, because Christ commanded us to. You blacks, Hispanics and Native Americans are the true biblical Israelites, and the so-called whites, Ishmael, the Arabs, the Chinese and Japanese will all be judged for what they did.
 
-**[Revelation 13:10](/bible/revelation/13#v10)**  *[1:54:10]*
+**[Revelation 13:10](/bible/revelation/13#v10)**  *[[1:54:10](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6850s)]*
 
 > <sup>[10](/bible/revelation/13#v10)</sup> He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
 
@@ -434,7 +436,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Here is the patience and the faith of the saints: That's why we tell you to come rest with us: rest in God's laws and commandments, in the truth of who you are, and in the faith of his son Jesus Christ, the black Messiah.
 
-**[Jeremiah 48:46-47](/bible/jeremiah/48#v46)**  *[1:55:40]*
+**[Jeremiah 48:46-47](/bible/jeremiah/48#v46)**  *[[1:55:40](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6940s)]*
 
 > <sup>[46](/bible/jeremiah/48#v46)</sup> Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.
 >
@@ -444,7 +446,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Yet will I bring again the captivity of Moab in the latter days: Thus far is the judgment of Moab: You're getting that judgment, Moab. You're not getting away either.
 
-**[Psalms 108:9](/bible/psalms/108#v9)**  *[1:56:23]*
+**[Psalms 108:9](/bible/psalms/108#v9)**  *[[1:56:23](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6983s)]*
 
 > <sup>[9](/bible/psalms/108#v9)</sup> Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.
 
@@ -452,7 +454,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Over Edom will I cast out my shoe; over Philistia will I triumph: All you nations are going to get it for touching his people.
 
-**[Exodus 11:7](/bible/exodus/11#v7)**  *[1:57:02]*
+**[Exodus 11:7](/bible/exodus/11#v7)**  *[[1:57:02](https://www.youtube.com/watch?v=qMrKDkyjDho&t=7022s)]*
 
 > <sup>[7](/bible/exodus/11#v7)</sup> But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel.
 
@@ -462,7 +464,7 @@ tags: ["IUIC in the ClassRoom"]
 
 ## In Closing
 
-*[1:58:30]* Go ahead and do what you have to do and think you'll get away with it, but it will pick up at this 250-year mark. They know in the spirit they have a short time. Satan will have these nations rise up and fight among each other, and it will cause more sorrow among us. Shalom, Most High in Christ bless, and happy Sabbath.
+*[[1:58:30](https://www.youtube.com/watch?v=qMrKDkyjDho&t=7110s)]* Go ahead and do what you have to do and think you'll get away with it, but it will pick up at this 250-year mark. They know in the spirit they have a short time. Satan will have these nations rise up and fight among each other, and it will cause more sorrow among us. Shalom, Most High in Christ bless, and happy Sabbath.
 
 ---
 

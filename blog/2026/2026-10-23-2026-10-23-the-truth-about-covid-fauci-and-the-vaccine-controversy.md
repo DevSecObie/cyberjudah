@@ -2,11 +2,14 @@
 title: "The Truth About Covid, Fauci And The Vaccine Controversy"
 slug: "2026/2026-10-23-the-truth-about-covid-fauci-and-the-vaccine-controversy"
 date: "2026-10-23"
+teacher: ""
 description: "IUIC Raleigh · 2026-10-23"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "edom-esau", "media", "pride", "war"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-23</p>
+
+<span class="opens"><b>Opens</b> [Ps 10](/bible/psalms/10) · [Gen 27](/bible/genesis/27) · [Eph 6](/bible/ephesians/6) · [1 Esdras 5](/bible/1-esdras/5) · [Ps 64](/bible/psalms/64)</span>
 
 <!-- truncate -->
 
@@ -14,20 +17,20 @@ tags: ["IUIC in the ClassRoom"]
 
 ## Introduction
 
-*[2:17]* Fauci pleading the Fifth, the vaccine, the side effects. When that thing was going out, they were telling people you have got to get vaccinated; people were losing their jobs for not taking it, and there was a lot of back and forth about whether to get the jab. Now we are finding out there are side effects behind it. The brothers look at the clips on the vaccine, Fauci and Bill Gates, and then take it to the scriptures: Esau, the wicked in his pride, persecuting the poor and murdering the innocent in secret; the shadow government that is the spiritual wickedness in high places; and the secret counsel of the wicked that searches out iniquities to keep Israel in sin. It is a fixed fight, and we know who wins.
+*[[2:17](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=137s)]* Fauci pleading the Fifth, the vaccine, the side effects. When that thing was going out, they were telling people you have got to get vaccinated; people were losing their jobs for not taking it, and there was a lot of back and forth about whether to get the jab. Now we are finding out there are side effects behind it. The brothers look at the clips on the vaccine, Fauci and Bill Gates, and then take it to the scriptures: Esau, the wicked in his pride, persecuting the poor and murdering the innocent in secret; the shadow government that is the spiritual wickedness in high places; and the secret counsel of the wicked that searches out iniquities to keep Israel in sin. It is a fixed fight, and we know who wins.
 
 ## In The News
 
-- *[2:12]* **Fauci declining to answer more than 100 times in a GOP-led hearing on his handling of the pandemic, pleading the Fifth** — Fauci is just a fall guy. There are powers above him; one man did not kill millions of people on the earth. They kicked his lawyer out of the courtroom so he had to defend himself, which is why he pleaded the Fifth over a hundred times. Esau does not even like applying the laws to themselves. But that plandemic has a lasting effect on society: people still wear a mask every day and will not let you in their house without one. When it was happening they were shutting down our YouTube pages for saying certain words on live. The people pushing it and the people who control YouTube had the same agenda. That is no coincidence.
-- *[6:29]* **Dr. Peter McCullough on the most serious side effects of the COVID-19 vaccines: myocarditis, and a Harvard paper finding the messenger RNA physically in the heart** — They got the shot in the arm, and somehow the chemical went straight to the heart. That is what it was made for. It might have treated one thing, but it brought another issue behind it. So many people we know got the first, the second and the third one so as not to get COVID, and still died from it. That should have let you know something is up. Brothers and sisters that took it: fast, pray, and eat healthy foods to get that stuff out of your system.
-- *[8:04]* **Bill Gates: the world has 6.8 billion people headed to 9 billion, and with new vaccines, health care and reproductive health services that could be lowered by 10 or 15 percent** — He talked about population control, and how to do it was vaccinations. The pandemic happened, and then they pushed for everybody to get vaccinated. It was population control.
-- *[8:49]* **Study on the duration of mRNA vaccine persistence: vaccine detected in the axillary lymph nodes and in the myocardium of patients dying within 30 days of vaccination** — The Edomite himself says the thing is at the scene of the crime. What they were pushing back then was all about population control, about trying to kill off the Israelites. They are trying to stop the Messiah from returning; they think they can fight God. But you can't do nothing, Esau. Hard times are coming, and the Lord is going to let him loose on us again, but the Lord said, I will never leave you nor forsake you.
-- *[10:49]* **Report: blacks, Latinos and Native Americans disproportionately killed by COVID-19, an estimated 477,200 more deaths from March to December 2020** — That jab was directly targeted at the blacks, Hispanics and Native Americans. Before COVID came out they were already planning population control through vaccines. It also shows they know who the Israelites are, because they specifically went after blacks, Hispanics and Native Americans. And the fact check claiming Gates was misinterpreted only repeats what he said: lowering population growth by 10 to 15 percent through vaccines. That is population control.
-- *[14:30]* **Image: the shadow government, unelected, unaccountable, unseen: controlling money and banking, media, education, military and police, health care, big pharma, technology, energy and the food supply; its goal one world government, currency and religion; its methods propaganda, censorship, surveillance, divide and conquer, false flags, psychological warfare, debt slavery, assassination, media control and war for profit** — Fauci is a fall guy; these are the spiritual wickedness in high places, the bankers you do not see. The president and governor are pawns. Surveillance: smartphones, smart TVs and iPads are Esau's eyes and ears, keeping track of the Israelite. Divide and conquer is his trump card to keep the twelve tribes from gathering, why so-called blacks and Hispanics do not see each other as brothers. Psychological warfare is that COVID and that vaccine; people still behind masks, and Esau knows how to tap into the trauma our people have gone through. Assassination: Martin Luther King, Medgar Evers, Patrice Lumumba, Malcolm X, countless leaders who stood up to the white man. Media control is the mouth of the dragon, from the Twilight Zone on a box with four channels to Netflix and satellite. And war for profit: Esau is a warmonger, war on top of war, and then they talk about peace.
+- *[[2:12](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=132s)]* **Fauci declining to answer more than 100 times in a GOP-led hearing on his handling of the pandemic, pleading the Fifth** — Fauci is just a fall guy. There are powers above him; one man did not kill millions of people on the earth. They kicked his lawyer out of the courtroom so he had to defend himself, which is why he pleaded the Fifth over a hundred times. Esau does not even like applying the laws to themselves. But that plandemic has a lasting effect on society: people still wear a mask every day and will not let you in their house without one. When it was happening they were shutting down our YouTube pages for saying certain words on live. The people pushing it and the people who control YouTube had the same agenda. That is no coincidence.
+- *[[6:29](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=389s)]* **Dr. Peter McCullough on the most serious side effects of the COVID-19 vaccines: myocarditis, and a Harvard paper finding the messenger RNA physically in the heart** — They got the shot in the arm, and somehow the chemical went straight to the heart. That is what it was made for. It might have treated one thing, but it brought another issue behind it. So many people we know got the first, the second and the third one so as not to get COVID, and still died from it. That should have let you know something is up. Brothers and sisters that took it: fast, pray, and eat healthy foods to get that stuff out of your system.
+- *[[8:04](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=484s)]* **Bill Gates: the world has 6.8 billion people headed to 9 billion, and with new vaccines, health care and reproductive health services that could be lowered by 10 or 15 percent** — He talked about population control, and how to do it was vaccinations. The pandemic happened, and then they pushed for everybody to get vaccinated. It was population control.
+- *[[8:49](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=529s)]* **Study on the duration of mRNA vaccine persistence: vaccine detected in the axillary lymph nodes and in the myocardium of patients dying within 30 days of vaccination** — The Edomite himself says the thing is at the scene of the crime. What they were pushing back then was all about population control, about trying to kill off the Israelites. They are trying to stop the Messiah from returning; they think they can fight God. But you can't do nothing, Esau. Hard times are coming, and the Lord is going to let him loose on us again, but the Lord said, I will never leave you nor forsake you.
+- *[[10:49](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=649s)]* **Report: blacks, Latinos and Native Americans disproportionately killed by COVID-19, an estimated 477,200 more deaths from March to December 2020** — That jab was directly targeted at the blacks, Hispanics and Native Americans. Before COVID came out they were already planning population control through vaccines. It also shows they know who the Israelites are, because they specifically went after blacks, Hispanics and Native Americans. And the fact check claiming Gates was misinterpreted only repeats what he said: lowering population growth by 10 to 15 percent through vaccines. That is population control.
+- *[[14:30](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=870s)]* **Image: the shadow government, unelected, unaccountable, unseen: controlling money and banking, media, education, military and police, health care, big pharma, technology, energy and the food supply; its goal one world government, currency and religion; its methods propaganda, censorship, surveillance, divide and conquer, false flags, psychological warfare, debt slavery, assassination, media control and war for profit** — Fauci is a fall guy; these are the spiritual wickedness in high places, the bankers you do not see. The president and governor are pawns. Surveillance: smartphones, smart TVs and iPads are Esau's eyes and ears, keeping track of the Israelite. Divide and conquer is his trump card to keep the twelve tribes from gathering, why so-called blacks and Hispanics do not see each other as brothers. Psychological warfare is that COVID and that vaccine; people still behind masks, and Esau knows how to tap into the trauma our people have gone through. Assassination: Martin Luther King, Medgar Evers, Patrice Lumumba, Malcolm X, countless leaders who stood up to the white man. Media control is the mouth of the dragon, from the Twilight Zone on a box with four channels to Netflix and satellite. And war for profit: Esau is a warmonger, war on top of war, and then they talk about peace.
 
 ## Scriptures Opened
 
-**[Psalms 10:2](/bible/psalms/10#v2)**  *[13:09]*
+**[Psalms 10:2](/bible/psalms/10#v2)**  *[[13:09](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=789s)]*
 
 > <sup>[2](/bible/psalms/10#v2)</sup> The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
 
@@ -38,7 +41,7 @@ tags: ["IUIC in the ClassRoom"]
 - Let them be taken in the devices that they have imagined: COVID-19 is one device. Ask yourself how they are getting all these lands and gentrifying all these places. Some of the people that died owned those lands.
 
 
-**[Psalms 10:8](/bible/psalms/10#v8)**  *[13:52]*
+**[Psalms 10:8](/bible/psalms/10#v8)**  *[[13:52](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=832s)]*
 
 > <sup>[8](/bible/psalms/10#v8)</sup> He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
 
@@ -47,7 +50,7 @@ tags: ["IUIC in the ClassRoom"]
 - His eyes are privily set against the poor: They do this thing in secret. That is why they have these meetings we are not allowed to go to, the meetings in NATO.
 
 
-**[Genesis 27:38-40](/bible/genesis/27#v38)**  *[19:48]*
+**[Genesis 27:38-40](/bible/genesis/27#v38)**  *[[19:48](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1188s)]*
 
 > <sup>[38](/bible/genesis/27#v38)</sup> And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
 >
@@ -68,7 +71,7 @@ tags: ["IUIC in the ClassRoom"]
 - And by thy sword shalt thou live: He is going to get these places by the sword.
 
 
-**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[21:01]*
+**[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[21:01](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1261s)]*
 
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
@@ -79,7 +82,7 @@ tags: ["IUIC in the ClassRoom"]
 - Against spiritual wickedness in high places: The shadow government. They are sitting at the round table counselling how to keep the Israelites destroyed. That is their whole plan.
 
 
-**[Ephesians 6:10](/bible/ephesians/6#v10)**  *[22:16]*
+**[Ephesians 6:10](/bible/ephesians/6#v10)**  *[[22:16](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1336s)]*
 
 > <sup>[10](/bible/ephesians/6#v10)</sup> Finally, my brethren, be strong in the Lord, and in the power of his might.
 
@@ -88,7 +91,7 @@ tags: ["IUIC in the ClassRoom"]
 - And in the power of his might: The Lord is going to destroy all those wicked people. They can't stand against God. He is our God, and he is going to fight for us. There is no need to worry.
 
 
-**[1 Esdras 5:72-73](/bible/1-esdras/5#v72)**  *[23:30]*
+**[1 Esdras 5:72-73](/bible/1-esdras/5#v72)**  *[[23:30](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1410s)]*
 
 > <sup>[72](/bible/1-esdras/5#v72)</sup> But the heathen of the land lying heavy upon the inhabitants of Judea, and holding them strait, hindered their building;
 >
@@ -105,7 +108,7 @@ tags: ["IUIC in the ClassRoom"]
 - So they were hindered from building for the space of two years: But they are not going to stop this. It is already written; we are just reading the script. In the boxing world this is a fixed fight: we know who is going to win and what round he gets knocked out in; we just don't know when.
 
 
-**[Psalms 64:2-6](/bible/psalms/64#v2)**  *[24:58]*
+**[Psalms 64:2-6](/bible/psalms/64#v2)**  *[[24:58](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1498s)]*
 
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 >
@@ -138,7 +141,7 @@ tags: ["IUIC in the ClassRoom"]
 
 ## In Closing
 
-*[27:21]* They search out iniquities. Esau knows that if we keep the commandments he has to leave us alone, and that if we don't, he can come against us; so he pushes sin into our community. Sin is our kryptonite. Be strong in the Lord and in the power of his might.
+*[[27:21](https://www.youtube.com/watch?v=h3WA9e_MPWI&t=1641s)]* They search out iniquities. Esau knows that if we keep the commandments he has to leave us alone, and that if we don't, he can come against us; so he pushes sin into our community. Sin is our kryptonite. Be strong in the Lord and in the power of his might.
 
 ---
 

@@ -4,10 +4,12 @@ slug: "2026/2026-10-23-friday-night-raw-godly-discourse"
 date: "2026-10-23"
 teacher: "Captain Gedaliah"
 description: "IUIC Raleigh · 2026-10-23"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-23</p>
+
+<span class="opens"><b>Opens</b> [2 Cor 12](/bible/2-corinthians/12) · [2 Cor 11](/bible/2-corinthians/11) · [Ps 141](/bible/psalms/141) · [Sir 6](/bible/sirach/6) · [Prov 27](/bible/proverbs/27) · [Sir 20](/bible/sirach/20) · [Heb 12](/bible/hebrews/12) · [Isa 5](/bible/isaiah/5) · [Ps 133](/bible/psalms/133) · [1 Cor 7](/bible/1-corinthians/7) · [1 Pet 2](/bible/1-peter/2) · [Isa 11](/bible/isaiah/11) · [Rom 11](/bible/romans/11) · [Rev 7](/bible/revelation/7) · [Ps 73](/bible/psalms/73) · [Matt 4](/bible/matthew/4) · <i>and 14 more below</i></span>
 
 <!-- truncate -->
 
@@ -15,31 +17,31 @@ tags: ["IUIC in the ClassRoom"]
 
 ## Introduction
 
-*[2:29]* All praises to the Most High. Happy Sabbath to the twelve tribes of Israel. Y'all were expecting the mighty Deacon Asaph, and we cannot fill his shoes, but IUIC Raleigh is going to do our best to fill in for the Deacon tonight on another edition of Friday Night Raw. I'm tonight's host, Captain Gedaliah, with Captain Josiah, Officer Abraham, Officer Hezekiah and the brothers of Raleigh, all in our Escaping the Plantation shirts.
+*[[2:29](https://www.youtube.com/watch?v=Aa19K56gGL0&t=149s)]* All praises to the Most High. Happy Sabbath to the twelve tribes of Israel. Y'all were expecting the mighty Deacon Asaph, and we cannot fill his shoes, but IUIC Raleigh is going to do our best to fill in for the Deacon tonight on another edition of Friday Night Raw. I'm tonight's host, Captain Gedaliah, with Captain Josiah, Officer Abraham, Officer Hezekiah and the brothers of Raleigh, all in our Escaping the Plantation shirts.
 
-*[5:11]* About an hour and a half ago we were all together fellowshipping at a brother's house, bringing the Sabbath in together as brethren the way we do in Raleigh every single week, when the call came: Deacon Asaph needs somebody to fill in for Friday Night Raw. I looked at the brothers and everybody said yes, in solidarity. We called it godly discourse, because that is what we do on Friday nights when we come together to bring in the Sabbath: we go through the scriptures and have conversation. A class has notes and a direction; tonight there is no set topic, so the conversation can go anywhere, just like ours do.
+*[[5:11](https://www.youtube.com/watch?v=Aa19K56gGL0&t=311s)]* About an hour and a half ago we were all together fellowshipping at a brother's house, bringing the Sabbath in together as brethren the way we do in Raleigh every single week, when the call came: Deacon Asaph needs somebody to fill in for Friday Night Raw. I looked at the brothers and everybody said yes, in solidarity. We called it godly discourse, because that is what we do on Friday nights when we come together to bring in the Sabbath: we go through the scriptures and have conversation. A class has notes and a direction; tonight there is no set topic, so the conversation can go anywhere, just like ours do.
 
 The night runs from what the brothers were reading at the house, Paul's thorn in the flesh and the correction that is an excellent oil, through marriage and due benevolence, the damage pornography does, a podcast mocking the twelve tribes chart and the grafting in of Romans 11, and on to baby mama drama and the single mothers' shows, closing at three in the morning on the word of the Lord that healeth all things.
 
 ## In The News
 
-- *[15:41]* **Definition of the hot seat in Gestalt therapy: a patient sits directly in front of the therapist or in the centre of a group therapy circle to work through emotions, conflict or unfinished business in real time** — When brothers come together, that is what ends up happening. Hey, you've been out of the spirit lately; how's your wife, how's your job? Sometimes a brother has to sit in front of all his peers and explain himself. Sisters say all we do is class about the women, but you have never been in the centre of 30, 40, 100 or 200 men, a captain in front of all the brothers that look up to him, with leadership calling out his sin in front of everybody. That is the hot seat, and even Esau's therapy knows that is what makes you better.
-- *[19:25]* **Gestalt therapy results: 75 to 80 percent of people report significant improvement, up to 93 percent an improved quality of life, around 77 percent maintain their gains a year after treatment** — God is telling you it is good to be in the hot seat so you can examine yourself and fix yourself. Meanwhile, when the Bishop's leadership is around and the potential hot seat is there, brothers stay all the way in the back. Even after the hot seat you maintain, because you learned from it: I ain't going back to doing that again.
-- *[44:59]* **Video: the wife should be initiating intimacy in her marriage, not every time; a man wants to feel wanted, and when he always has to initiate he starts wondering whether anything would happen if he stopped** — The way you used to flirt with your husband when you first got together is the same way you need to flirt right now. You already know he wants you; why are you playing hard to get? I pay the bills up in this junk. There is no hard to get. Take the bonnet off, throw on something; those stretch marks came from me putting children in you. Married people playing childish games for weeks, months and years are going to fall into sin.
-- *[54:38]* **Video: begging for intimacy destroys a man mentally; a husband should never feel he has to beg to be desired, and couples should protect their intimacy before resentment replaces connection** — Resentment replaces connection. That is Satan tempting you for your incontinency.
-- *[59:10]* **Graphic on marital obligations, consummation and cohabitation: historically the law viewed marriage as a contract, sex as a legal duty, and a total and unjustified refusal as a breach of that contract** — The so-called white man understood it when he set up the laws of America, and he took it from God's laws. Marriage is a covenant; that is why you get paperwork. That is the defrauding. There is no clean-up woman in Israel: a wife defrauding her husband does not give him a licence to commit adultery, but you are pushing him further and further towards Satan, and the same with a husband who defrauds his wife.
-- *[1:06:59]* **How pornography relates to social awkwardness: replacement of real interactions, reward system and dopamine changes, avoidance and isolation, unrealistic expectations** — Porn makes you socially awkward. That is why when you get around a woman you don't know how to talk to her, and why a sister you are proving says he doesn't know how to engage. Dopamine is the chemical that tells your brain to do something again; train it on porn and twerk videos and the reward system becomes dysregulated and destroys your social confidence. Bishop told us years ago in Battling the Lust Within: you start opening doors, and behind them is all manner of wickedness, the sexual deviancy door. A brother with us six, eight, ten years who still says he is not ready to be married: you are watching porn, and you don't think you can live up to it. And it is the same for the sisters who go years in the truth not getting themselves together.
-- *[1:13:45]* **LRae's podcast (75,000 views in two days) with a Christian and a Hebrew Israelite from Israel of God, calling the twelve tribes chart trash, "an attempt in the 60s and 70s to shine a light" for the "oppressed in your mind"** — He is a Christian rapper, very effeminate; white folks love him, and anytime the nations love you, you're compromised. The intro is all IUIC, yet he won't speak with Bishop Nathanyel or the mighty deacons, because Amalek is coming for that page. A Kushite saved Jeremiah, so Africans must be in the chart? A Kushite is not one of the twelve tribes; there are Israelites living amongst Kush. How do you know the tribes? Language, the curses of Deuteronomy 28, and the ancient customs: separating the women at their menstrual time, a feast at the beginning of the year like Passover, the new moon. Our elders were teaching the chart in the 70s, 80s and 90s before the books were found; now books from the 1600s, like *Lost Tribes and Promised Land*, confirm the Native American Indians. From Montserrat you can see Antigua; our brothers the Taino and Amerindians could see the next island where Zebulun and Naphtali were. The chart is ever evolving and expanding until Christ comes. And the Israel of God brother calls it opinion: when a man starts saying his opinion, shut the video down.
-- *[2:03:38]* **A woman on a podcast debate: Christ "came only for the lost sheep of Israel", "and with that you get to get grafted in"; he could only do so much in three years, and his goal was for all nations to be saved** — Women should not be on the platform debating. If he came only for Israel, how are the nations grafted in? That is fear: they feel the persecution coming. It is racial self-censorship and white-centred framing: holding back what you say about race because you expect to be banned and blacklisted. She conceded her own prompt. They learned they were Israel, learned a few scriptures, and ran to social media. Later, answering how the Bible identifies the Israelites, she did all right: Deuteronomy 28, sent into slavery by ships, forgetting our heritage, our language, our name and our God, and then awakening in the land of captivity. Nobody has an answer for that.
-- *[2:19:00]* **A white man asking whether, from ISUPK's perspective, he will go to heaven, and a commentator calling Esau as the white man "a bad reading of what it means in Romans"** — That is not in Romans; it is Hebrews 12. He does not know the Bible. They get on these platforms and try to talk without scripture. The Bible says Esau has a perpetual hatred for Jacob, and that Esau is the end of the world and Jacob the beginning of it that followeth.
-- *[2:24:41]* **A missionary baptizing an "unreached tribe" in the desert in a hole dug and lined with plastic, filled with water fetched over two days** — They are not ready to be baptized; they don't understand what she is saying. She flew over there with a cameraman for social media fame, sitting in that muddy water with black people. That is how people idolize Esau when he comes over there. Never trust your enemy: when these white folks go over there acting like they are evangelizing our people, they are going over there to do some evil sexual exploits.
-- *[2:27:21]* **Umar Johnson on his oldest daughter's mother: her ex broke her car windows and left a note threatening to kill her and the baby; he bought his first gun to protect them; after a custody argument she brought a stack of Polaroids to family court with bruises drawn on in makeup to get a restraining order** — Women will try to manipulate men through the court system to destroy his career and his life. He hooked up with the wrong sister. And maybe there never was an ex: she may have thrown the rock and written the note herself.
-- *[2:34:58]* **A woman: a man who thinks it is a flex to say he won't take care of another man's child, "I hope you go to hell"; men who call stepfathers simps are mad their mothers couldn't keep a decent man** — That is how bitter these women are in 2026. Why can't it just be his preference? A 23-year-old with his whole life ahead of him and a woman in her thirties with four kids. She wants a man to take care of her kids, and when he says no, his mama couldn't keep a man. This is why brothers get passports. We have brothers in this truth who took on a woman's children and are great fathers to them, and that is not wrong; but both must be governed by God's laws, the children must respect him, and she must give him authority. I am not going to tell my 22-year-old son to marry a woman with four kids, or my daughter to marry a man with three. Have your first child with your husband.
-- *[2:49:25]* **A mother on a talk show crashing out over "single parent", and a guest saying "my mother didn't cause me trauma, but the absence of my father did"; "pour into your grandbabies"** — She is talking to the men that left her, justifying herself. If a woman made bad decisions but raised her children, they are alive and have a chance to repent. But we don't want our children to become this. Single mothers create single mothers: if her daughter had a husband, why does the grandmother have to pour into the grandbabies? Three men left you; who is the common denominator? These shows strengthen the hands of evildoers, and the men on the panel sugar-coat it for the money, because there are four or five thousand black women in that crowd. That is why these sisters hate Bishop Nathanyel: he is the father they never had, telling them to fix their stuff before God kills them, while he has been married to a black woman for 37 years and raised a black daughter who just graduated medical school. Bishop Yawasap has been married 25 years raising daughters. These are the men of God back on the earth to set our nation in order. Like Tyler Perry: his mother told him on her deathbed that the father didn't really leave, and he still hated him; every movie of his is his trauma.
+- *[[15:41](https://www.youtube.com/watch?v=Aa19K56gGL0&t=941s)]* **Definition of the hot seat in Gestalt therapy: a patient sits directly in front of the therapist or in the centre of a group therapy circle to work through emotions, conflict or unfinished business in real time** — When brothers come together, that is what ends up happening. Hey, you've been out of the spirit lately; how's your wife, how's your job? Sometimes a brother has to sit in front of all his peers and explain himself. Sisters say all we do is class about the women, but you have never been in the centre of 30, 40, 100 or 200 men, a captain in front of all the brothers that look up to him, with leadership calling out his sin in front of everybody. That is the hot seat, and even Esau's therapy knows that is what makes you better.
+- *[[19:25](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1165s)]* **Gestalt therapy results: 75 to 80 percent of people report significant improvement, up to 93 percent an improved quality of life, around 77 percent maintain their gains a year after treatment** — God is telling you it is good to be in the hot seat so you can examine yourself and fix yourself. Meanwhile, when the Bishop's leadership is around and the potential hot seat is there, brothers stay all the way in the back. Even after the hot seat you maintain, because you learned from it: I ain't going back to doing that again.
+- *[[44:59](https://www.youtube.com/watch?v=Aa19K56gGL0&t=2699s)]* **Video: the wife should be initiating intimacy in her marriage, not every time; a man wants to feel wanted, and when he always has to initiate he starts wondering whether anything would happen if he stopped** — The way you used to flirt with your husband when you first got together is the same way you need to flirt right now. You already know he wants you; why are you playing hard to get? I pay the bills up in this junk. There is no hard to get. Take the bonnet off, throw on something; those stretch marks came from me putting children in you. Married people playing childish games for weeks, months and years are going to fall into sin.
+- *[[54:38](https://www.youtube.com/watch?v=Aa19K56gGL0&t=3278s)]* **Video: begging for intimacy destroys a man mentally; a husband should never feel he has to beg to be desired, and couples should protect their intimacy before resentment replaces connection** — Resentment replaces connection. That is Satan tempting you for your incontinency.
+- *[[59:10](https://www.youtube.com/watch?v=Aa19K56gGL0&t=3550s)]* **Graphic on marital obligations, consummation and cohabitation: historically the law viewed marriage as a contract, sex as a legal duty, and a total and unjustified refusal as a breach of that contract** — The so-called white man understood it when he set up the laws of America, and he took it from God's laws. Marriage is a covenant; that is why you get paperwork. That is the defrauding. There is no clean-up woman in Israel: a wife defrauding her husband does not give him a licence to commit adultery, but you are pushing him further and further towards Satan, and the same with a husband who defrauds his wife.
+- *[[1:06:59](https://www.youtube.com/watch?v=Aa19K56gGL0&t=4019s)]* **How pornography relates to social awkwardness: replacement of real interactions, reward system and dopamine changes, avoidance and isolation, unrealistic expectations** — Porn makes you socially awkward. That is why when you get around a woman you don't know how to talk to her, and why a sister you are proving says he doesn't know how to engage. Dopamine is the chemical that tells your brain to do something again; train it on porn and twerk videos and the reward system becomes dysregulated and destroys your social confidence. Bishop told us years ago in Battling the Lust Within: you start opening doors, and behind them is all manner of wickedness, the sexual deviancy door. A brother with us six, eight, ten years who still says he is not ready to be married: you are watching porn, and you don't think you can live up to it. And it is the same for the sisters who go years in the truth not getting themselves together.
+- *[[1:13:45](https://www.youtube.com/watch?v=Aa19K56gGL0&t=4425s)]* **LRae's podcast (75,000 views in two days) with a Christian and a Hebrew Israelite from Israel of God, calling the twelve tribes chart trash, "an attempt in the 60s and 70s to shine a light" for the "oppressed in your mind"** — He is a Christian rapper, very effeminate; white folks love him, and anytime the nations love you, you're compromised. The intro is all IUIC, yet he won't speak with Bishop Nathanyel or the mighty deacons, because Amalek is coming for that page. A Kushite saved Jeremiah, so Africans must be in the chart? A Kushite is not one of the twelve tribes; there are Israelites living amongst Kush. How do you know the tribes? Language, the curses of Deuteronomy 28, and the ancient customs: separating the women at their menstrual time, a feast at the beginning of the year like Passover, the new moon. Our elders were teaching the chart in the 70s, 80s and 90s before the books were found; now books from the 1600s, like *Lost Tribes and Promised Land*, confirm the Native American Indians. From Montserrat you can see Antigua; our brothers the Taino and Amerindians could see the next island where Zebulun and Naphtali were. The chart is ever evolving and expanding until Christ comes. And the Israel of God brother calls it opinion: when a man starts saying his opinion, shut the video down.
+- *[[2:03:38](https://www.youtube.com/watch?v=Aa19K56gGL0&t=7418s)]* **A woman on a podcast debate: Christ "came only for the lost sheep of Israel", "and with that you get to get grafted in"; he could only do so much in three years, and his goal was for all nations to be saved** — Women should not be on the platform debating. If he came only for Israel, how are the nations grafted in? That is fear: they feel the persecution coming. It is racial self-censorship and white-centred framing: holding back what you say about race because you expect to be banned and blacklisted. She conceded her own prompt. They learned they were Israel, learned a few scriptures, and ran to social media. Later, answering how the Bible identifies the Israelites, she did all right: Deuteronomy 28, sent into slavery by ships, forgetting our heritage, our language, our name and our God, and then awakening in the land of captivity. Nobody has an answer for that.
+- *[[2:19:00](https://www.youtube.com/watch?v=Aa19K56gGL0&t=8340s)]* **A white man asking whether, from ISUPK's perspective, he will go to heaven, and a commentator calling Esau as the white man "a bad reading of what it means in Romans"** — That is not in Romans; it is Hebrews 12. He does not know the Bible. They get on these platforms and try to talk without scripture. The Bible says Esau has a perpetual hatred for Jacob, and that Esau is the end of the world and Jacob the beginning of it that followeth.
+- *[[2:24:41](https://www.youtube.com/watch?v=Aa19K56gGL0&t=8681s)]* **A missionary baptizing an "unreached tribe" in the desert in a hole dug and lined with plastic, filled with water fetched over two days** — They are not ready to be baptized; they don't understand what she is saying. She flew over there with a cameraman for social media fame, sitting in that muddy water with black people. That is how people idolize Esau when he comes over there. Never trust your enemy: when these white folks go over there acting like they are evangelizing our people, they are going over there to do some evil sexual exploits.
+- *[[2:27:21](https://www.youtube.com/watch?v=Aa19K56gGL0&t=8841s)]* **Umar Johnson on his oldest daughter's mother: her ex broke her car windows and left a note threatening to kill her and the baby; he bought his first gun to protect them; after a custody argument she brought a stack of Polaroids to family court with bruises drawn on in makeup to get a restraining order** — Women will try to manipulate men through the court system to destroy his career and his life. He hooked up with the wrong sister. And maybe there never was an ex: she may have thrown the rock and written the note herself.
+- *[[2:34:58](https://www.youtube.com/watch?v=Aa19K56gGL0&t=9298s)]* **A woman: a man who thinks it is a flex to say he won't take care of another man's child, "I hope you go to hell"; men who call stepfathers simps are mad their mothers couldn't keep a decent man** — That is how bitter these women are in 2026. Why can't it just be his preference? A 23-year-old with his whole life ahead of him and a woman in her thirties with four kids. She wants a man to take care of her kids, and when he says no, his mama couldn't keep a man. This is why brothers get passports. We have brothers in this truth who took on a woman's children and are great fathers to them, and that is not wrong; but both must be governed by God's laws, the children must respect him, and she must give him authority. I am not going to tell my 22-year-old son to marry a woman with four kids, or my daughter to marry a man with three. Have your first child with your husband.
+- *[[2:49:25](https://www.youtube.com/watch?v=Aa19K56gGL0&t=10165s)]* **A mother on a talk show crashing out over "single parent", and a guest saying "my mother didn't cause me trauma, but the absence of my father did"; "pour into your grandbabies"** — She is talking to the men that left her, justifying herself. If a woman made bad decisions but raised her children, they are alive and have a chance to repent. But we don't want our children to become this. Single mothers create single mothers: if her daughter had a husband, why does the grandmother have to pour into the grandbabies? Three men left you; who is the common denominator? These shows strengthen the hands of evildoers, and the men on the panel sugar-coat it for the money, because there are four or five thousand black women in that crowd. That is why these sisters hate Bishop Nathanyel: he is the father they never had, telling them to fix their stuff before God kills them, while he has been married to a black woman for 37 years and raised a black daughter who just graduated medical school. Bishop Yawasap has been married 25 years raising daughters. These are the men of God back on the earth to set our nation in order. Like Tyler Perry: his mother told him on her deathbed that the father didn't really leave, and he still hated him; every movie of his is his trauma.
 
 ## Scriptures Opened
 
-**[2 Corinthians 12:7](/bible/2-corinthians/12#v7)**  *[7:08]*
+**[2 Corinthians 12:7](/bible/2-corinthians/12#v7)**  *[[7:08](https://www.youtube.com/watch?v=Aa19K56gGL0&t=428s)]*
 
 > <sup>[7](/bible/2-corinthians/12#v7)</sup> And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
 
@@ -60,7 +62,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     A chosen vessel to bear Christ's name before the Gentiles, kings and the children of Israel, and Christ would show him how great things he must suffer for his name's sake. That suffering was part of the thorn.
 
 
-**[2 Corinthians 11:22-28](/bible/2-corinthians/11#v22)**  *[9:13]*
+**[2 Corinthians 11:22-28](/bible/2-corinthians/11#v22)**  *[[9:13](https://www.youtube.com/watch?v=Aa19K56gGL0&t=553s)]*
 
 > <sup>[22](/bible/2-corinthians/11#v22)</sup> Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
 >
@@ -89,7 +91,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - That which cometh upon me daily, the care of all the churches: On top of all that he had to take care of all the churches, with no telegram, no social media, no emails; writing letters on house arrest and trusting men to carry them to the churches correctly.
 
 
-**[Psalms 141:5](/bible/psalms/141#v5)**  *[13:39]*
+**[Psalms 141:5](/bible/psalms/141#v5)**  *[[13:39](https://www.youtube.com/watch?v=Aa19K56gGL0&t=819s)]*
 
 > <sup>[5](/bible/psalms/141#v5)</sup> Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities.
 
@@ -100,7 +102,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - It shall be an excellent oil, which shall not break my head: It is not going to destroy us when our leadership corrects us. They see something in us they are trying to guide, so it can be purged out.
 
 
-**[Sirach 6:34-35](/bible/sirach/6#v34)**  *[14:28]*
+**[Sirach 6:34-35](/bible/sirach/6#v34)**  *[[14:28](https://www.youtube.com/watch?v=Aa19K56gGL0&t=868s)]*
 
 > <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
 >
@@ -113,7 +115,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - And let not the parables of understanding escape thee: Don't let what the leadership is trying to guide you in escape you. Take it back to your schools and put the correction in your life.
 
 
-**[Proverbs 27:5-6](/bible/proverbs/27#v5)**  *[18:26]*
+**[Proverbs 27:5-6](/bible/proverbs/27#v5)**  *[[18:26](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1106s)]*
 
 > <sup>[5](/bible/proverbs/27#v5)</sup> Open rebuke is better than secret love.
 >
@@ -126,7 +128,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - But the kisses of an enemy are deceitful: That is sisters: oh, your hair looks so good, I love your dress; and as soon as she walks away, I can't stand her. So the hot seat is a good thing.
 
 
-**[Sirach 20:1-3](/bible/sirach/20#v1)**  *[21:05]*
+**[Sirach 20:1-3](/bible/sirach/20#v1)**  *[[21:05](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1265s)]*
 
 > <sup>[1](/bible/sirach/20#v1)</sup> There is a reproof that is not comely: again, some man holdeth his tongue, and he is wise.
 >
@@ -147,7 +149,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - How good is it, when thou art reproved, to shew repentance! for so shalt thou escape wilful sin: When you are corrected in front of everybody you have two options, because so many witnesses saw you receive it: fix it, or be in wilful sin. That is your choice. The only way to truly improve is to be on display, to see yourself; a lot of times we don't have the integrity to look in the mirror, so we need people to point things out. That is why the Bishops and Deacons tell us to come together in our cities on Friday nights.
 
 
-**[Hebrews 12:11-14](/bible/hebrews/12#v11)**  *[24:29]*
+**[Hebrews 12:11-14](/bible/hebrews/12#v11)**  *[[24:29](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1469s)]*
 
 > <sup>[11](/bible/hebrews/12#v11)</sup> Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.
 >
@@ -170,7 +172,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - Follow peace with all men, and holiness, without which no man shall see the Lord: Why say that after the correction? Because if you don't apply it and you wind up in that other twenty-some percent, you start to hate your brothers. A root of bitterness.
 
 
-**[Isaiah 5:21](/bible/isaiah/5#v21)**  *[26:43]*
+**[Isaiah 5:21](/bible/isaiah/5#v21)**  *[[26:43](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1603s)]*
 
 > <sup>[21](/bible/isaiah/5#v21)</sup> Woe unto them that are wise in their own eyes, and prudent in their own sight!
 
@@ -193,7 +195,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Read again against the definition: the hot seat is to work through emotions. You sit there angry, sad, wanting to cry, but you have to subdue that and humble down. It seems grievous, nevertheless afterward it yields the peaceable fruit of righteousness, because it is that excellent oil that will not break your head. Oil lubricates; put it in the engine and it moves better. That is the point of correction.
 
 
-**[Psalms 133:1-2](/bible/psalms/133#v1)**  *[30:52]*
+**[Psalms 133:1-2](/bible/psalms/133#v1)**  *[[30:52](https://www.youtube.com/watch?v=Aa19K56gGL0&t=1852s)]*
 
 > <sup>[1](/bible/psalms/133#v1)</sup> Behold, how good and how pleasant it is for brethren to dwell together in unity!
 >
@@ -218,9 +220,9 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Whosoever compounded any like it, or put it upon a stranger, was cut off from his people. You could not duplicate that oil; it was only for the high priests. So King David compares the unity of the brethren to that special oil. That is the way we are supposed to be moving.
 
 
-*[34:44]* Sisters, three key components to keep your husband happy: learn to be quiet and give him time to decompress when he first comes in the house; keep his belly full, and if you can't cook, call the sisters for recipes, there is no shame in it; and keep his balls empty. Silence, sustenance and sex, as a wise man put it. Married men only have 21 days: the law says she is separated seven days for her uncleanness, and I am not trying to spend them arguing.
+*[[34:44](https://www.youtube.com/watch?v=Aa19K56gGL0&t=2084s)]* Sisters, three key components to keep your husband happy: learn to be quiet and give him time to decompress when he first comes in the house; keep his belly full, and if you can't cook, call the sisters for recipes, there is no shame in it; and keep his balls empty. Silence, sustenance and sex, as a wise man put it. Married men only have 21 days: the law says she is separated seven days for her uncleanness, and I am not trying to spend them arguing.
 
-**[1 Corinthians 7:3-5](/bible/1-corinthians/7#v3)**  *[38:10]*
+**[1 Corinthians 7:3-5](/bible/1-corinthians/7#v3)**  *[[38:10](https://www.youtube.com/watch?v=Aa19K56gGL0&t=2290s)]*
 
 > <sup>[3](/bible/1-corinthians/7#v3)</sup> Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
 >
@@ -263,7 +265,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, for that is thy portion in this life. Your wife and your household are your little piece of the kingdom on earth; if that is not right, everything else falls away, because it is all vanity. Life is already hard; we make it harder for each other.
 
 
-**[1 Corinthians 7:33](/bible/1-corinthians/7#v33)**  *[1:02:48]*
+**[1 Corinthians 7:33](/bible/1-corinthians/7#v33)**  *[[1:02:48](https://www.youtube.com/watch?v=Aa19K56gGL0&t=3768s)]*
 
 > <sup>[33](/bible/1-corinthians/7#v33)</sup> But he that is married careth for the things that are of the world, how he may please his wife.
 
@@ -282,7 +284,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Our forefathers had game. Isaac said Rebekah was his sister, but Abimelech looked out of a window and saw Isaac sporting with Rebekah his wife: hand on her waist, in her personal space, whispering in her ear. Brothers don't touch their sisters like that; Abimelech said, of a surety she is thy wife. It is not really game: it is knowing how to entice a maid and how to deal with a woman. If you struggle with it, if you are a virgin, haven't been with a woman in a long time or are socially awkward, let it be known to the leadership.
 
 
-**[1 Peter 2:11](/bible/1-peter/2#v11)**  *[1:09:34]*
+**[1 Peter 2:11](/bible/1-peter/2#v11)**  *[[1:09:34](https://www.youtube.com/watch?v=Aa19K56gGL0&t=4174s)]*
 
 > <sup>[11](/bible/1-peter/2#v11)</sup> Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 
@@ -295,7 +297,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     These be they who separate themselves, sensual, having not the spirit. Sensual means emotional. Some brothers stop coming around because they feel socially awkward, or because they think something will come up about the pornography and they get cut, thinking we are talking about them. We don't know you are watching porn; you know, and it is the spirit within you being convicted.
 
 
-**[Isaiah 11:11-12](/bible/isaiah/11#v11)**  *[1:17:07]*
+**[Isaiah 11:11-12](/bible/isaiah/11#v11)**  *[[1:17:07](https://www.youtube.com/watch?v=Aa19K56gGL0&t=4627s)]*
 
 > <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 >
@@ -322,7 +324,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Ye Ethiopians also, ye shall be slain by my sword. There is the distinction. God always makes the distinction of who he is for: amongst the Ethiopians are Israelites naively calling themselves Ethiopians, a remnant of them like captives brought out; but the actual Ethiopians, Nebuchadnezzar's people that did much evil to our people, are getting judged.
 
 
-**[Romans 11:7](/bible/romans/11#v7)**  *[1:25:01]*
+**[Romans 11:7](/bible/romans/11#v7)**  *[[1:25:01](https://www.youtube.com/watch?v=Aa19K56gGL0&t=5101s)]*
 
 > <sup>[7](/bible/romans/11#v7)</sup> What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded
 
@@ -331,7 +333,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - They want us to sit down and break down every single tribe. Do your own damn research. We have already done the research to proclaim the chart in front of the world. Go to the website.
 
 
-**[Revelation 7:4-8](/bible/revelation/7#v4)**  *[1:27:10]*
+**[Revelation 7:4-8](/bible/revelation/7#v4)**  *[[1:27:10](https://www.youtube.com/watch?v=Aa19K56gGL0&t=5230s)]*
 
 > <sup>[4](/bible/revelation/7#v4)</sup> And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.
 >
@@ -354,7 +356,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     The blessing of Judah: bring him unto his people. The scriptures tell you Judah has got to go find the twelve tribes. When the Bishops, Deacons and Captains come together, do the research and find Naphtali, Zebulun, Ecuador, that is the spirit of the Lord moving amongst these men. Let his hands be sufficient for him; and be thou an help to him from his enemies: help Judah find the twelve while being persecuted by the nations. That is the great commission of Matthew 28:19. Ask the man calling the chart trash where the twelve tribes are.
 
 
-**[Psalms 73:8](/bible/psalms/73#v8)**  *[1:31:00]*
+**[Psalms 73:8](/bible/psalms/73#v8)**  *[[1:31:00](https://www.youtube.com/watch?v=Aa19K56gGL0&t=5460s)]*
 
 > <sup>[8](/bible/psalms/73#v8)</sup> They are corrupt, and speak wickedly concerning oppression: they speak loftily.
 
@@ -363,7 +365,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - They speak loftily: I got a good job, I'm living a decent life, the chart is trash. And the white man claiming to be a Jew: which tribe is he? If he is Judah, why isn't he gathering the tribes? He is an Edomite disguising himself as an Israelite, and Israel of God never speaks against Amalek. The Bible says the man of sin has to be revealed. When persecution comes, these men are setting themselves up to fall back into Christianity, saying the camps are bringing persecution. They are going to come against Jacob anyway; it is Jacob's trouble.
 
 
-**[Matthew 4:15-16](/bible/matthew/4#v15)**  *[1:33:52]*
+**[Matthew 4:15-16](/bible/matthew/4#v15)**  *[[1:33:52](https://www.youtube.com/watch?v=Aa19K56gGL0&t=5632s)]*
 
 > <sup>[15](/bible/matthew/4#v15)</sup> The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
 >
@@ -372,7 +374,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - The people which sat in darkness saw great light: He says the camps are spreading a little light in the 60s and 70s, but God told us to do that. We needed that light, and that light is Christ.
 
 
-**[Matthew 16:18-19](/bible/matthew/16#v18)**  *[1:36:11]*
+**[Matthew 16:18-19](/bible/matthew/16#v18)**  *[[1:36:11](https://www.youtube.com/watch?v=Aa19K56gGL0&t=5771s)]*
 
 > <sup>[18](/bible/matthew/16#v18)</sup> And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
 >
@@ -387,7 +389,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - Whatsoever thou shalt bind on earth shall be bound in heaven: When the leadership came up with the twelve tribes chart from what they saw in the scriptures, Christ is with that.
 
 
-**[Ezekiel 37:15-19](/bible/ezekiel/37#v15)**  *[1:37:10]*
+**[Ezekiel 37:15-19](/bible/ezekiel/37#v15)**  *[[1:37:10](https://www.youtube.com/watch?v=Aa19K56gGL0&t=5830s)]*
 
 > <sup>[15](/bible/ezekiel/37#v15)</sup> The word of the Lord came again unto me, saying,
 >
@@ -420,16 +422,16 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     I will take the children of Israel from among the heathen, whither they be gone, and bring them into their own land, one nation upon the mountains of Israel, one king to them all, no more two nations nor two kingdoms. That is not only for Ezekiel's time: it is an end-time prophecy of the twelve tribes coming back together under Christ the black Messiah. It is Revelation 7 in the Old Testament.
 
 
-*[1:42:18]* The definition of grafting is read: a horticultural technique that joins tissues from two separate plants so they heal and grow together as a single unified plant; the scion is the upper part that determines the fruit, and the rootstock the lower part that provides the root system. When the Bible says grafted together, that is the northern and southern kingdom being brought back together. The lower part provides the root system: let's talk about the root.
+*[[1:42:18](https://www.youtube.com/watch?v=Aa19K56gGL0&t=6138s)]* The definition of grafting is read: a horticultural technique that joins tissues from two separate plants so they heal and grow together as a single unified plant; the scion is the upper part that determines the fruit, and the rootstock the lower part that provides the root system. When the Bible says grafted together, that is the northern and southern kingdom being brought back together. The lower part provides the root system: let's talk about the root.
 
-**[Revelation 22:16](/bible/revelation/22#v16)**  *[1:43:36]*
+**[Revelation 22:16](/bible/revelation/22#v16)**  *[[1:43:36](https://www.youtube.com/watch?v=Aa19K56gGL0&t=6216s)]*
 
 > <sup>[16](/bible/revelation/22#v16)</sup> I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
 
 - I am the root and the offspring of David: The root is Jesus Christ. Christ is the root that provides the foundation for the whole nation to come back together. The root is at the bottom, the southern kingdom; that is where Christ came from.
 
 
-**[Romans 11:16](/bible/romans/11#v16)**  *[1:44:12]*
+**[Romans 11:16](/bible/romans/11#v16)**  *[[1:44:12](https://www.youtube.com/watch?v=Aa19K56gGL0&t=6252s)]*
 
 > <sup>[16](/bible/romans/11#v16)</sup> For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.
 
@@ -482,7 +484,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     The Prince of Peace, of the increase of whose government and peace there shall be no end, upon the throne of David. The zeal of the Lord of hosts will perform this: the Lord is moving his spirit amongst these men to gather the twelve tribes for the day our king comes to reign and bring peace on the earth. The nations are not getting grafted into nothing. The grafting is for the twelve tribes.
 
 
-**[Romans 11:17-21](/bible/romans/11#v17)**  *[1:54:27]*
+**[Romans 11:17-21](/bible/romans/11#v17)**  *[[1:54:27](https://www.youtube.com/watch?v=Aa19K56gGL0&t=6867s)]*
 
 > <sup>[17](/bible/romans/11#v17)</sup> And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
 >
@@ -535,7 +537,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Jesus said to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed. People forget the disciples were Jews; Peter was a Jew, Paul was a Jew. Stop listening to Christian pastors and to so-called black Hebrew Israelites that are unlearning Paul's letters because they hate IUIC and are afraid of persecution. Don't counsel with a fearful man in matters of war: teaching what God is going to do to the nations is declaring war, and the coward would sooner go back to massa.
 
 
-**[Romans 11:26-27](/bible/romans/11#v26)**  *[2:01:08]*
+**[Romans 11:26-27](/bible/romans/11#v26)**  *[[2:01:08](https://www.youtube.com/watch?v=Aa19K56gGL0&t=7268s)]*
 
 > <sup>[26](/bible/romans/11#v26)</sup> And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 >
@@ -564,7 +566,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Twelve gates, and the names written thereon of the twelve tribes of the children of Israel. Not one gate: they only know about the Jews and not the other eleven tribes. That is the planting.
 
 
-**[John 21:25](/bible/john/21#v25)**  *[2:06:55]*
+**[John 21:25](/bible/john/21#v25)**  *[[2:06:55](https://www.youtube.com/watch?v=Aa19K56gGL0&t=7615s)]*
 
 > <sup>[25](/bible/john/21#v25)</sup> And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
 
@@ -573,14 +575,14 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - Even the world itself could not contain the books that should be written: If you tried to write down everything Christ did, the world could not contain the books. Who are we going to listen to, Becky or the Bible? We take the Bible every time. Christ kick-started a ministry for the twelve tribes scattered abroad: that is why he went to the Samaritan woman, an Israelite, and sent his apostles to the brethren scattered abroad. They even skipped eighteen years of his life.
 
 
-**[Acts 11:19](/bible/acts/11#v19)**  *[2:09:22]*
+**[Acts 11:19](/bible/acts/11#v19)**  *[[2:09:22](https://www.youtube.com/watch?v=Aa19K56gGL0&t=7762s)]*
 
 > <sup>[19](/bible/acts/11#v19)</sup> Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.
 
 - Preaching the word to none but unto the Jews only: When they travelled, they were teaching the Jews only. Saying he came for all nations forever is whitewashing.
 
 
-**[Acts 15:14-16](/bible/acts/15#v14)**  *[2:09:55]*
+**[Acts 15:14-16](/bible/acts/15#v14)**  *[[2:09:55](https://www.youtube.com/watch?v=Aa19K56gGL0&t=7795s)]*
 
 > <sup>[14](/bible/acts/15#v14)</sup> Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.
 >
@@ -607,7 +609,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth. The house of Israel is the tabernacle of David, in the midst of all nations: that is what Acts 15 is talking about. To sift is to take out what is most important: the elect. The negroes talking about the chart not being right are going to die.
 
 
-**[Revelation 13:9-10](/bible/revelation/13#v9)**  *[2:20:31]*
+**[Revelation 13:9-10](/bible/revelation/13#v9)**  *[[2:20:31](https://www.youtube.com/watch?v=Aa19K56gGL0&t=8431s)]*
 
 > <sup>[9](/bible/revelation/13#v9)</sup> If any man have an ear, let him hear.
 >
@@ -620,7 +622,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - He that killeth with the sword must be killed with the sword: Here is the patience and the faith of the saints.
 
 
-**[Exodus 17:16](/bible/exodus/17#v16)**  *[2:22:49]*
+**[Exodus 17:16](/bible/exodus/17#v16)**  *[[2:22:49](https://www.youtube.com/watch?v=Aa19K56gGL0&t=8569s)]*
 
 > <sup>[16](/bible/exodus/17#v16)</sup> For he said, Because the Lord hath sworn that the Lord will have war with Amalek from generation to generation.
 
@@ -637,7 +639,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Amalek later in time: Haman tells the king of a certain people scattered abroad and dispersed, whose laws are diverse from all people, and pays ten thousand talents to have them destroyed. Haman the son of Hammedatha the Agagite is an Amalekite, the Jews' enemy. The Bible says Esau is Jacob's enemy. They don't like to use the Bible because they are afraid.
 
 
-**[Deuteronomy 19:15-19](/bible/deuteronomy/19#v15)**  *[2:32:40]*
+**[Deuteronomy 19:15-19](/bible/deuteronomy/19#v15)**  *[[2:32:40](https://www.youtube.com/watch?v=Aa19K56gGL0&t=9160s)]*
 
 > <sup>[15](/bible/deuteronomy/19#v15)</sup> One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
 >
@@ -664,7 +666,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     All wickedness is but little to the wickedness of a woman. It is well within their scope to make it up and throw the brick themselves. Let the portion of a sinner fall upon her: that is the judgment that should have followed for trying to get that man hemmed up.
 
 
-**[Proverbs 23:26-30](/bible/proverbs/23#v26)**  *[2:38:30]*
+**[Proverbs 23:26-30](/bible/proverbs/23#v26)**  *[[2:38:30](https://www.youtube.com/watch?v=Aa19K56gGL0&t=9510s)]*
 
 > <sup>[26](/bible/proverbs/23#v26)</sup> My son, give me thine heart, and let thine eyes observe my ways.
 >
@@ -687,7 +689,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - They that tarry long at the wine: Why? Because they are stressed out by that evil woman. She drives a brother to drinking.
 
 
-**[1 Timothy 5:14-15](/bible/1-timothy/5#v14)**  *[2:44:03]*
+**[1 Timothy 5:14-15](/bible/1-timothy/5#v14)**  *[[2:44:03](https://www.youtube.com/watch?v=Aa19K56gGL0&t=9843s)]*
 
 > <sup>[14](/bible/1-timothy/5#v14)</sup> I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.
 >
@@ -714,14 +716,14 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
     Christ to the woman at the well: Go, call thy husband. I have no husband. Thou hast well said, for thou hast had five husbands; and he whom thou now hast is not thy husband. She had a body count, and Christ called it out. When a woman says a body count doesn't matter, Christ just said it does. He gave her the living water so she could repent, and she perceived he was a prophet. The difference between the women in here with children and the woman in that video: they acknowledge their sin and don't project or blame. Start there.
 
 
-**[Titus 2:5](/bible/titus/2#v5)**  *[2:53:47]*
+**[Titus 2:5](/bible/titus/2#v5)**  *[[2:53:47](https://www.youtube.com/watch?v=Aa19K56gGL0&t=10427s)]*
 
 > <sup>[5](/bible/titus/2#v5)</sup> To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
 
 - To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed: Outside of those attributes you blaspheme the word of God. That is why we are always getting on the sisters. That collage of sisters blasting the black man gives the adversary occasion to speak reproachfully, and they call the black women who want to be married pick-mes.
 
 
-**[Ezekiel 16:44-45](/bible/ezekiel/16#v44)**  *[2:55:09]*
+**[Ezekiel 16:44-45](/bible/ezekiel/16#v44)**  *[[2:55:09](https://www.youtube.com/watch?v=Aa19K56gGL0&t=10509s)]*
 
 > <sup>[44](/bible/ezekiel/16#v44)</sup> Behold, every one that useth proverbs shall use this proverb against thee, saying, As is the mother, so is her daughter.
 >
@@ -734,7 +736,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 - And her children: And they hate their children too.
 
 
-**[Wisdom of Solomon 16:12](/bible/wisdom-of-solomon/16#v12)**  *[3:03:20]*
+**[Wisdom of Solomon 16:12](/bible/wisdom-of-solomon/16#v12)**  *[[3:03:20](https://www.youtube.com/watch?v=Aa19K56gGL0&t=11000s)]*
 
 > <sup>[12](/bible/wisdom-of-solomon/16#v12)</sup> For it was neither herb, nor mollifying plaister, that restored them to health: but thy word, O Lord, which healeth all things.
 
@@ -745,7 +747,7 @@ The night runs from what the brothers were reading at the house, Paul's thorn in
 
 ## In Closing
 
-*[3:03:54]* All praise to the Most High. Shout out to Deacon Asaph and the leadership of Friday Night Raw; it has been an honour. Thank you, Deacon, for allowing us to fill in for you tonight. We pray everybody has a blessed Sabbath, gets some rest and is rejuvenated for the Sabbath day. The leadership is going to be bringing out some mighty, mighty classes, and we look forward to fellowshipping and keeping the holy Sabbath. Shalom, Most High Christ bless.
+*[[3:03:54](https://www.youtube.com/watch?v=Aa19K56gGL0&t=11034s)]* All praise to the Most High. Shout out to Deacon Asaph and the leadership of Friday Night Raw; it has been an honour. Thank you, Deacon, for allowing us to fill in for you tonight. We pray everybody has a blessed Sabbath, gets some rest and is rejuvenated for the Sabbath day. The leadership is going to be bringing out some mighty, mighty classes, and we look forward to fellowshipping and keeping the holy Sabbath. Shalom, Most High Christ bless.
 
 ---
 

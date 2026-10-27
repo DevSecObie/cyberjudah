@@ -4,10 +4,12 @@ slug: "2026/2026-10-20-captain-gedaliah-corrects-a-christians-theology"
 date: "2026-10-20"
 teacher: "Captain Gedaliah"
 description: "IUIC Raleigh · 2026-10-20"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "idolatry", "purpose"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-20</p>
+
+<span class="opens"><b>Opens</b> [Jer 17](/bible/jeremiah/17) · [Sir 17](/bible/sirach/17) · [Jer 10](/bible/jeremiah/10) · [Num 1](/bible/numbers/1) · [Dan 7](/bible/daniel/7) · [Matt 24](/bible/matthew/24) · [Matt 19](/bible/matthew/19) · [Rev 14](/bible/revelation/14) · [John 5](/bible/john/5) · [John 6](/bible/john/6) · [Rom 6](/bible/romans/6) · [1 John 2](/bible/1-john/2) · [1 John 3](/bible/1-john/3) · [Hab 2](/bible/habakkuk/2) · [Deut 7](/bible/deuteronomy/7) · [Heb 10](/bible/hebrews/10)</span>
 
 <!-- truncate -->
 
@@ -15,16 +17,16 @@ tags: ["IUIC in the ClassRoom"]
 
 ## Introduction
 
-*[1:31]* Out on a college campus with a group of students, most of them raised in the church, the question is what makes you you. Your power. To destroy a people and enslave them, you take away their power, and that is what was done with the Bible. That is why there are religious images of white people and thirty thousand different Christian denominations. How is everybody reading the same book and getting a different interpretation? If I write you a letter telling you to take the trash out, it means what it says; you can't pick it up and say it means put the trash in the garbage in the house. They took passages out of the Bible and twisted them: slaves, obey your masters; don't speak up against your master; don't get rich on earth, wait to get rich in heaven. Be slaves on earth but rich in heaven. That is how they took our power.
+*[[1:31](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=91s)]* Out on a college campus with a group of students, most of them raised in the church, the question is what makes you you. Your power. To destroy a people and enslave them, you take away their power, and that is what was done with the Bible. That is why there are religious images of white people and thirty thousand different Christian denominations. How is everybody reading the same book and getting a different interpretation? If I write you a letter telling you to take the trash out, it means what it says; you can't pick it up and say it means put the trash in the garbage in the house. They took passages out of the Bible and twisted them: slaves, obey your masters; don't speak up against your master; don't get rich on earth, wait to get rich in heaven. Be slaves on earth but rich in heaven. That is how they took our power.
 
-*[3:20]* Did you know Jesus was a black man? One student thought he was Middle Eastern. There is no Middle South, no Middle North, no Middle West. What is the Middle East? The Levant, a region full of black people, and there is film from 1924 of black people ruling Jerusalem. The Bible is about black people. It is our history.
+*[[3:20](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=200s)]* Did you know Jesus was a black man? One student thought he was Middle Eastern. There is no Middle South, no Middle North, no Middle West. What is the Middle East? The Levant, a region full of black people, and there is film from 1924 of black people ruling Jerusalem. The Bible is about black people. It is our history.
 
-*[3:53]* Asked their nationality, the students answered black, then African-American. Black is a color, not a race. Africa was named after a Roman general, Scipio Africanus, a Caucasian man who conquered a black man named Hannibal in the Second Punic Wars; Carthage was full of black people. America was named after an Italian mapmaker, Amerigo Vespucci. Africa and America were both named after Caucasian men, so it is impossible for that to be your name. We had a name before slavery, countries we came from, dialects and a God that we followed. Their first objective was to take our power and disconnect us from our heritage.
+*[[3:53](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=233s)]* Asked their nationality, the students answered black, then African-American. Black is a color, not a race. Africa was named after a Roman general, Scipio Africanus, a Caucasian man who conquered a black man named Hannibal in the Second Punic Wars; Carthage was full of black people. America was named after an Italian mapmaker, Amerigo Vespucci. Africa and America were both named after Caucasian men, so it is impossible for that to be your name. We had a name before slavery, countries we came from, dialects and a God that we followed. Their first objective was to take our power and disconnect us from our heritage.
 
 ## Scriptures Opened
 
 
-**[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[5:23]*
+**[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[[5:23](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=323s)]*
 
 > <sup>[4](/bible/jeremiah/17#v4)</sup> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.
 
@@ -32,7 +34,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Religion is strategically put in place to destroy us and keep us separate. Asked what God gave us to make us distinct, one student said our skin and another the way we think. But the way we think has been shaped by our oppressors; most of our thoughts come from the subconscious, from trauma and from what we were taught. We are being groomed and coerced in how to think.
 
-**[Sirach 17:11](/bible/sirach/17#v11)**  *[7:27]*
+**[Sirach 17:11](/bible/sirach/17#v11)**  *[[7:27](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=447s)]*
 
 > <sup>[11](/bible/sirach/17#v11)</sup> Beside this he gave them knowledge, and the law of life for an heritage.
 
@@ -40,7 +42,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Beside this he gave them knowledge, and the law of life for an heritage: Our heritage is the law of life. Look at what black people suffer from in America: diabetes, sickle cell, autoimmune disorders where the body attacks itself, trauma and mental illness. Homeless people walking the street were valedictorians in high school and college; they are not dumb, something traumatic took them off course. God gave us the law of life for a heritage, so when you read God's laws, that is your true heritage.
 
-**[Jeremiah 10:1-4](/bible/jeremiah/10#v1)**  *[9:34]*
+**[Jeremiah 10:1-4](/bible/jeremiah/10#v1)**  *[[9:34](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=574s)]*
 
 > <sup>[1](/bible/jeremiah/10#v1)</sup> Hear ye the word which the Lord speaketh unto you, O house of Israel:
 >
@@ -68,7 +70,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Christ never celebrated Christmas; neither did his mother or father. The Israelites never celebrated a birthday. We learned those customs from the heathen, from the Egyptians and the tribal people we were amongst throughout Africa. The Bible is not about religion. It is the book of the twelve tribes of Israel, our heritage, and they made sure to take it from us. Go home and ask your pastor these questions, and do your research. You've been lied to too long not to.
 
-**[Numbers 1:18](/bible/numbers/1#v18)**  *[13:34]*
+**[Numbers 1:18](/bible/numbers/1#v18)**  *[[13:34](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=814s)]*
 
 > <sup>[18](/bible/numbers/1#v18)</sup> And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.
 
@@ -76,10 +78,10 @@ tags: ["IUIC in the ClassRoom"]
 
 - They declared their pedigrees after their families, by the house of their fathers: Your pedigree is who you are, and you are who your father is. That is why the wife takes the husband's name and the children take his name too. That is the way God set up lineage.
 
-*[17:59]* Sunday worship is not of Christ either. Asked the Sabbath day, the students answered Saturday and Sunday. Sunday is the first day of the week; God gave us the seventh. The Roman Catholic Church gave us Sunday, at the Council of Nicaea, and it evolved from there. The Seventh-day Adventists say it is the seventh day, which is correct, but that religion still goes back to Christian tenets.
+*[[17:59](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1079s)]* Sunday worship is not of Christ either. Asked the Sabbath day, the students answered Saturday and Sunday. Sunday is the first day of the week; God gave us the seventh. The Roman Catholic Church gave us Sunday, at the Council of Nicaea, and it evolved from there. The Seventh-day Adventists say it is the seventh day, which is correct, but that religion still goes back to Christian tenets.
 
 
-**[Daniel 7:25](/bible/daniel/7#v25)**  *[19:13]*
+**[Daniel 7:25](/bible/daniel/7#v25)**  *[[19:13](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1153s)]*
 
 > <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
@@ -91,7 +93,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - To God the year begins in the spring. In January it is dead cold and the trees are brown. If something is new, isn't it alive? This is October, the tenth month, but according to the Bible we are in the seventh month, because the year starts in spring. Mainstream society doesn't teach this; we have to go back to the Bible.
 
-**[Matthew 24:13](/bible/matthew/24#v13)**  *[23:46]*
+**[Matthew 24:13](/bible/matthew/24#v13)**  *[[23:46](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1426s)]*
 
 > <sup>[13](/bible/matthew/24#v13)</sup> But he that shall endure unto the end, the same shall be saved.
 
@@ -99,7 +101,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - But he that shall endure unto the end, the same shall be saved: No one is saved now. Raised in church, baptized many times, with two grandfathers who were pastors, I heard it often: now that you've been baptized, now that you believe, you're saved. Salvation has not happened yet. We are preparing for it and pressing toward the mark, as Paul said: I have finished my course, and a crown is laid up for me and for all that follow.
 
-**[Matthew 19:16-17](/bible/matthew/19#v16)**  *[24:27]*
+**[Matthew 19:16-17](/bible/matthew/19#v16)**  *[[24:27](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1467s)]*
 
 > <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
 >
@@ -109,7 +111,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - The works are not the temple works of old, the animal sacrifices and the drink and meat offerings of the Levitical priesthood. Faith in Christ means I believe he is coming back to save me if I am obedient to his way. Morality is key. There have been wars, murders and mayhem in the last twelve weeks because we don't know how to treat each other, and most of those people grew up in the church. The church teaches about Christ but doesn't couple it with the commandments.
 
-**[Revelation 14:12](/bible/revelation/14#v12)**  *[26:24]*
+**[Revelation 14:12](/bible/revelation/14#v12)**  *[[26:24](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1584s)]*
 
 > <sup>[12](/bible/revelation/14#v12)</sup> Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
 
@@ -117,7 +119,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Here are they that keep the commandments of God, and the faith of Jesus: We keep the commandments and the faith of Jesus. The fringes we wear are commandments Christ told us to keep, and so is the beard. If you can't grow a full one, grow what you have; you can trim it clean, but don't shave it to the line.
 
-**[John 5:39](/bible/john/5#v39)**  *[28:04]*
+**[John 5:39](/bible/john/5#v39)**  *[[28:04](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1684s)]*
 
 > <sup>[39](/bible/john/5#v39)</sup> Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
 
@@ -125,7 +127,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me: When Christ walked the earth there was no New Testament, so he pulled everything from the Old Testament. Go back and read what you claim to know, and you will see eternal life comes through me. Christ is all through the Old Testament, prophesied as the Messiah, and they rejected that part.
 
-**[John 5:45-46](/bible/john/5#v45)**  *[28:38]*
+**[John 5:45-46](/bible/john/5#v45)**  *[[28:38](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1718s)]*
 
 > <sup>[45](/bible/john/5#v45)</sup> Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
 >
@@ -141,7 +143,7 @@ tags: ["IUIC in the ClassRoom"]
 
     Under Moses a man who lay with mankind was put to death, automatically; there was no repenting of it. Under Christ that man can repent from that lifestyle. That is how Moses accuses: there are laws in his writing that if you broke them, you could not live. Not only the homosexual; adultery too, which I was guilty of. That is why Christ said go back and search the scriptures and see what they say about him, because that is where eternal life comes from.
 
-**[John 6:26-29](/bible/john/6#v26)**  *[31:53]*
+**[John 6:26-29](/bible/john/6#v26)**  *[[31:53](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=1913s)]*
 
 > <sup>[26](/bible/john/6#v26)</sup> Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.
 >
@@ -159,13 +161,13 @@ tags: ["IUIC in the ClassRoom"]
 
 - What if I make a mistake? Today is the Day of Atonement. Every year the Levitical priest went into the temple and made a sacrifice for the whole nation, putting all the sins on the scapegoat. Christ became the scapegoat. Your sins and mine are placed on him if we believe in him and keep his commandments; reject him and there is no eternal life. Brothers in purple and gold are out fasting and teaching in every major city today. The Day of Atonement is a clean slate. You can always be forgiven, but don't abuse the grace Christ gave. If I rob a house, I can be forgiven, but the court sentence doesn't go away: Christ forgives, and I still live out the punishment, but it won't stop me from eternal life.
 
-**[Romans 6:1](/bible/romans/6#v1)**  *[35:00]*
+**[Romans 6:1](/bible/romans/6#v1)**  *[[35:00](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=2100s)]*
 
 > <sup>[1](/bible/romans/6#v1)</sup> What shall we say then? Shall we continue in sin, that grace may abound?
 
 - Shall we continue in sin, that grace may abound? Christ gave us grace, but we don't keep sinning because of it. We try to live a life void of sin.
 
-**[1 John 2:1](/bible/1-john/2#v1)**  *[36:12]*
+**[1 John 2:1](/bible/1-john/2#v1)**  *[[36:12](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=2172s)]*
 
 > <sup>[1](/bible/1-john/2#v1)</sup> My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
 
@@ -173,7 +175,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - We have an advocate with the Father, Jesus Christ the righteous: An advocate is someone like a lawyer, who argues on your behalf. Christ is that advocate. Still, we don't continue in sin because he gave us grace.
 
-**[1 John 3:4](/bible/1-john/3#v4)**  *[36:52]*
+**[1 John 3:4](/bible/1-john/3#v4)**  *[[36:52](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=2212s)]*
 
 > <sup>[4](/bible/1-john/3#v4)</sup> Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.
 
@@ -183,7 +185,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Thou shalt have no other gods before me is the first commandment. I have a big cross tattooed on my arm from when I grew up Christian and then was an atheist. Did Christ ever tell us to wear a cross as a symbol of his sacrifice? Never. We got it from slavery.
 
-**[Habakkuk 2:18](/bible/habakkuk/2#v18)**  *[38:52]*
+**[Habakkuk 2:18](/bible/habakkuk/2#v18)**  *[[38:52](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=2332s)]*
 
 > <sup>[18](/bible/habakkuk/2#v18)</sup> What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?
 
@@ -195,7 +197,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Nobody whose cousin died from a nine millimeter wears a gun around his neck. Thousands of people died on crosses; it was capital punishment by the Roman government. We wear these things without knowing why, and that is why God says we have to learn his laws.
 
-**[Deuteronomy 7:25](/bible/deuteronomy/7#v25)**  *[41:54]*
+**[Deuteronomy 7:25](/bible/deuteronomy/7#v25)**  *[[41:54](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=2514s)]*
 
 > <sup>[25](/bible/deuteronomy/7#v25)</sup> The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold that is on them, nor take it unto thee, lest thou be snared therein: for it is an abomination to the Lord thy God.
 
@@ -203,7 +205,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Look up iconoclasm, and whitewash, a powder made liquid and painted over religious images. Before the Renaissance of the 1400s, Jesus Christ and his mother Mary were always pictured black. After it they were whitewashed; there are images of painters turning black pictures of Paul and Christ white. The Russian icon, a book the brothers put their money together to buy, holds ancient art of the Israelites: King David, black with an afro, and the apostle Andrew, a black man who looks like us.
 
-**[Hebrews 10:4-5](/bible/hebrews/10#v4)**  *[45:04]*
+**[Hebrews 10:4-5](/bible/hebrews/10#v4)**  *[[45:04](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=2704s)]*
 
 > <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
 >
@@ -217,7 +219,7 @@ tags: ["IUIC in the ClassRoom"]
 
 ## In Closing
 
-*[46:58]* God took away the temple and the Levitical priesthood so that the only way left is to believe on his son. No longer through bulls or goats: eternal life comes through Christ alone, with his commandments kept. The Carolinas need this work; subscribe to IUIC Raleigh and help push it.
+*[[46:58](https://www.youtube.com/watch?v=rVFuZmUs3cM&t=2818s)]* God took away the temple and the Levitical priesthood so that the only way left is to believe on his son. No longer through bulls or goats: eternal life comes through Christ alone, with his commandments kept. The Carolinas need this work; subscribe to IUIC Raleigh and help push it.
 
 ---
 

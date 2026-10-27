@@ -2,11 +2,14 @@
 title: "Why Are We Taught To Hate Our Own Image?"
 slug: "2026/2026-10-22-why-are-we-taught-to-hate-our-own-image"
 date: "2026-10-22"
+teacher: ""
 description: "IUIC Raleigh · 2026-10-22"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "sabbath"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-22</p>
+
+<span class="opens"><b>Opens</b> [Prov 3](/bible/proverbs/3) · [Lev 13](/bible/leviticus/13) · [Rev 1](/bible/revelation/1) · [Gen 49](/bible/genesis/49) · [1 Tim 2](/bible/1-timothy/2) · [Exod 20](/bible/exodus/20) · [Isa 58](/bible/isaiah/58)</span>
 
 <!-- truncate -->
 
@@ -14,11 +17,11 @@ tags: ["IUIC in the ClassRoom"]
 
 ## Introduction
 
-*[1:11]* Shalom. We are Israel United in Christ, here to teach the so-called blacks, Hispanics and Native Americans that you are indeed the Israelites of the Bible. On the street in Raleigh with a young sister, a brother and a seventeen-year-old named Elijah, the brother teaching shows why we are not to envy the oppressor or choose any of his ways: the dyed blonde hair our people put on is the yellow thin hair of the plague in Leviticus 13, and Christ himself had white woolly hair. From there, how a daughter of Israel is to dress, and the Sabbath: six days to labour and do your own pleasure, and the seventh to come back to who you are.
+*[[1:11](https://www.youtube.com/watch?v=ber_77e-c-o&t=71s)]* Shalom. We are Israel United in Christ, here to teach the so-called blacks, Hispanics and Native Americans that you are indeed the Israelites of the Bible. On the street in Raleigh with a young sister, a brother and a seventeen-year-old named Elijah, the brother teaching shows why we are not to envy the oppressor or choose any of his ways: the dyed blonde hair our people put on is the yellow thin hair of the plague in Leviticus 13, and Christ himself had white woolly hair. From there, how a daughter of Israel is to dress, and the Sabbath: six days to labour and do your own pleasure, and the seventh to come back to who you are.
 
 ## Scriptures Opened
 
-**[Proverbs 3:31](/bible/proverbs/3#v31)**  *[1:47]*
+**[Proverbs 3:31](/bible/proverbs/3#v31)**  *[[1:47](https://www.youtube.com/watch?v=ber_77e-c-o&t=107s)]*
 
 > <sup>[31](/bible/proverbs/3#v31)</sup> Envy thou not the oppressor, and choose none of his ways.
 
@@ -29,7 +32,7 @@ tags: ["IUIC in the ClassRoom"]
 - And choose none of his ways: This is one of the ways our people, mostly our sisters, and brothers do it too, envy the people who keep us on the bottom and do all those atrocities to us. And it is real easy to get out of it. It is real easy to change.
 
 
-**[Leviticus 13:29-30](/bible/leviticus/13#v29)**  *[2:38]*
+**[Leviticus 13:29-30](/bible/leviticus/13#v29)**  *[[2:38](https://www.youtube.com/watch?v=ber_77e-c-o&t=158s)]*
 
 > <sup>[29](/bible/leviticus/13#v29)</sup> If a man or woman have a plague upon the head or the beard;
 >
@@ -48,7 +51,7 @@ tags: ["IUIC in the ClassRoom"]
 - When the sister says her natural hair gets aggravated: you have to realize you were created in the image that Christ was.
 
 
-**[Revelation 1:14](/bible/revelation/1#v14)**  *[4:20]*
+**[Revelation 1:14](/bible/revelation/1#v14)**  *[[4:20](https://www.youtube.com/watch?v=ber_77e-c-o&t=260s)]*
 
 > <sup>[14](/bible/revelation/1#v14)</sup> His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
 
@@ -59,7 +62,7 @@ tags: ["IUIC in the ClassRoom"]
 - This is how you read the Bible to get understanding. This is how you get wisdom: precept upon precept. When you make up your own thing and go about it, that is why our people are lost.
 
 
-**[Genesis 49:12](/bible/genesis/49#v12)**  *[6:13]*
+**[Genesis 49:12](/bible/genesis/49#v12)**  *[[6:13](https://www.youtube.com/watch?v=ber_77e-c-o&t=373s)]*
 
 > <sup>[12](/bible/genesis/49#v12)</sup> His eyes shall be red with wine, and his teeth white with milk.
 
@@ -68,7 +71,7 @@ tags: ["IUIC in the ClassRoom"]
 - And his teeth white with milk: So now we have the white woolly hair. You have woolly hair. You should not get tired of it. It is a law. It stands up in the heat and in the winter. It is protection.
 
 
-**[Revelation 1:14-15](/bible/revelation/1#v14)**  *[6:45]*
+**[Revelation 1:14-15](/bible/revelation/1#v14)**  *[[6:45](https://www.youtube.com/watch?v=ber_77e-c-o&t=405s)]*
 
 > <sup>[14](/bible/revelation/1#v14)</sup> His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
 >
@@ -79,7 +82,7 @@ tags: ["IUIC in the ClassRoom"]
 - What you need to do is get around righteous sisters who have the same hair, who are doing the same thing, who realize who they are. Come back to who you are, and when you feel like you are going off, the sisters are going to read you the scriptures.
 
 
-**[1 Timothy 2:9](/bible/1-timothy/2#v9)**  *[8:02]*
+**[1 Timothy 2:9](/bible/1-timothy/2#v9)**  *[[8:02](https://www.youtube.com/watch?v=ber_77e-c-o&t=482s)]*
 
 > <sup>[9](/bible/1-timothy/2#v9)</sup> In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
 
@@ -90,7 +93,7 @@ tags: ["IUIC in the ClassRoom"]
 - Modest apparel means no man should see your body. We should not see the shape of it out here. That is for your husband at home.
 
 
-**[Exodus 20:8-10](/bible/exodus/20#v8)**  *[9:35]*
+**[Exodus 20:8-10](/bible/exodus/20#v8)**  *[[9:35](https://www.youtube.com/watch?v=ber_77e-c-o&t=575s)]*
 
 > <sup>[8](/bible/exodus/20#v8)</sup> Remember the sabbath day, to keep it holy.
 >
@@ -113,7 +116,7 @@ tags: ["IUIC in the ClassRoom"]
 - At seventeen you should be training up with the rest of the men. They are out teaching the youth today, how to come back to who they are and stop the crime and the fighting, so we can get out of the condition we are in. By twenty you will be out here teaching everybody, just like we are showing you.
 
 
-**[Isaiah 58:13-14](/bible/isaiah/58#v13)**  *[12:30]*
+**[Isaiah 58:13-14](/bible/isaiah/58#v13)**  *[[12:30](https://www.youtube.com/watch?v=ber_77e-c-o&t=750s)]*
 
 > <sup>[13](/bible/isaiah/58#v13)</sup> If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the Lord, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words:
 >
@@ -136,7 +139,7 @@ tags: ["IUIC in the ClassRoom"]
 
 ## In Closing
 
-*[16:16]* Get your heritage back. When we keep the Sabbath and come back to who we are, the Lord will cause us to ride upon the high places of the earth and feed us with the heritage of Jacob our father, and he will establish our ways.
+*[[16:16](https://www.youtube.com/watch?v=ber_77e-c-o&t=976s)]* Get your heritage back. When we keep the Sabbath and come back to who we are, the Lord will cause us to ride upon the high places of the earth and feed us with the heritage of Jacob our father, and he will establish our ways.
 
 ---
 

@@ -4,10 +4,12 @@ slug: "2026/2026-10-23-one-man-esteemeth-one-day-above-another"
 date: "2026-10-23"
 teacher: "Captain Yahoshua"
 description: "15 Minutes w/ The Captains · 2026-10-23"
-tags: ["15 Minutes w/ The Captains"]
+tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "passover-feasts", "purpose", "sabbath"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-10-23</p>
+
+<span class="opens"><b>Opens</b> [Rom 14](/bible/romans/14) · [Sir 33](/bible/sirach/33) · [Num 28](/bible/numbers/28) · [Num 29](/bible/numbers/29) · [John 1](/bible/john/1) · [Acts 15](/bible/acts/15) · [Luke 21](/bible/luke/21) · [Lev 7](/bible/leviticus/7) · [Lev 19](/bible/leviticus/19)</span>
 
 <!-- truncate -->
 
@@ -15,11 +17,11 @@ tags: ["15 Minutes w/ The Captains"]
 
 ## Introduction
 
-*[0:15]* Captain Yahoshua with 15 Minutes with the Captains, and Officer Nehemiah reading. Today we deal with the Apostle Paul. Something he said in Romans 14 got Christians all jacked up: Christianity has perverted the understanding of Paul's epistles, but the prophets are here to give you a clear understanding. One man esteemeth one day above another: what is Paul talking about?
+*[[0:15](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=15s)]* Captain Yahoshua with 15 Minutes with the Captains, and Officer Nehemiah reading. Today we deal with the Apostle Paul. Something he said in Romans 14 got Christians all jacked up: Christianity has perverted the understanding of Paul's epistles, but the prophets are here to give you a clear understanding. One man esteemeth one day above another: what is Paul talking about?
 
 ## Scriptures Opened
 
-**[Romans 14:5](/bible/romans/14#v5)**  *[0:57]*
+**[Romans 14:5](/bible/romans/14#v5)**  *[[0:57](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=57s)]*
 
 > <sup>[5](/bible/romans/14#v5)</sup> One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind.
 
@@ -30,7 +32,7 @@ tags: ["15 Minutes w/ The Captains"]
 - So which days amongst the nation of Israel were respected, and how did we show respect on those days?
 
 
-**[Sirach 33:7-9](/bible/sirach/33#v7)**  *[2:01]*
+**[Sirach 33:7-9](/bible/sirach/33#v7)**  *[[2:01](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=121s)]*
 
 > <sup>[7](/bible/sirach/33#v7)</sup> Why doth one day excel another, when as all the light of every day in the year is of the sun?
 >
@@ -45,7 +47,7 @@ tags: ["15 Minutes w/ The Captains"]
 - The days he hallowed and made high we call the high holy days. And what did we do on those days to make them excel, to esteem them above other days? We offered animal sacrifice.
 
 
-**[Numbers 28:9-10](/bible/numbers/28#v9)**  *[3:20]*
+**[Numbers 28:9-10](/bible/numbers/28#v9)**  *[[3:20](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=200s)]*
 
 > <sup>[9](/bible/numbers/28#v9)</sup> And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour for a meat offering, mingled with oil, and the drink offering thereof:
 >
@@ -58,7 +60,7 @@ tags: ["15 Minutes w/ The Captains"]
 - Read Numbers 28 and Numbers 29 on your own. They go through every single feast day we have and show how those days were excelled, esteemed and regarded above others.
 
 
-**[Numbers 29:39](/bible/numbers/29#v39)**  *[4:23]*
+**[Numbers 29:39](/bible/numbers/29#v39)**  *[[4:23](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=263s)]*
 
 > <sup>[39](/bible/numbers/29#v39)</sup> These things ye shall do unto the Lord in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings.
 
@@ -69,7 +71,7 @@ tags: ["15 Minutes w/ The Captains"]
 - These are the things we did to esteem one day above another: we offered animal sacrifice. But that sacrifice was just a shadow, a shadow of Christ to come.
 
 
-**[John 1:29](/bible/john/1#v29)**  *[5:19]*
+**[John 1:29](/bible/john/1#v29)**  *[[5:19](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=319s)]*
 
 > <sup>[29](/bible/john/1#v29)</sup> The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.
 
@@ -78,7 +80,7 @@ tags: ["15 Minutes w/ The Captains"]
 - Once the church understood that, there was division in the church about animal sacrifice. Should we keep the animal sacrifice, or only accept the sacrifice of Christ? In the book of Acts you see the different groups that existed inside the church.
 
 
-**[Acts 15:5](/bible/acts/15#v5)**  *[6:09]*
+**[Acts 15:5](/bible/acts/15#v5)**  *[[6:09](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=369s)]*
 
 > <sup>[5](/bible/acts/15#v5)</sup> But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses.
 
@@ -91,7 +93,7 @@ tags: ["15 Minutes w/ The Captains"]
 - When it was time for the northern kingdom to come into the church, questions arose about what they should be doing.
 
 
-**[Acts 15:19-20](/bible/acts/15#v19)**  *[7:36]*
+**[Acts 15:19-20](/bible/acts/15#v19)**  *[[7:36](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=456s)]*
 
 > <sup>[19](/bible/acts/15#v19)</sup> Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:
 >
@@ -104,7 +106,7 @@ tags: ["15 Minutes w/ The Captains"]
 - Both groups are in the church now: one accustomed to offering animal sacrifice, the other not having to offer it. And Paul's counsel is: let every man be fully persuaded in his own mind. Why? Because of something Christ told us long before.
 
 
-**[Luke 21:20](/bible/luke/21#v20)**  *[9:35]*
+**[Luke 21:20](/bible/luke/21#v20)**  *[[9:35](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=575s)]*
 
 > <sup>[20](/bible/luke/21#v20)</sup> And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
 
@@ -115,7 +117,7 @@ tags: ["15 Minutes w/ The Captains"]
 - Who was going to be offering sacrifices then? Nobody. So the Apostle Paul is telling us not to let division come inside the church over something Christ said was going to stop anyway. It was only a shadow from the beginning.
 
 
-**[Romans 14:6](/bible/romans/14#v6)**  *[10:40]*
+**[Romans 14:6](/bible/romans/14#v6)**  *[[10:40](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=640s)]*
 
 > <sup>[6](/bible/romans/14#v6)</sup> He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.
 
@@ -132,7 +134,7 @@ tags: ["15 Minutes w/ The Captains"]
 - How do we prove it is about animal sacrifice? He that eateth, eateth to the Lord. What is the connection between the days that were esteemed and regarded, and eating? What were we eating on those feast days?
 
 
-**[Leviticus 7:15](/bible/leviticus/7#v15)**  *[13:32]*
+**[Leviticus 7:15](/bible/leviticus/7#v15)**  *[[13:32](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=812s)]*
 
 > <sup>[15](/bible/leviticus/7#v15)</sup> And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning.
 
@@ -141,7 +143,7 @@ tags: ["15 Minutes w/ The Captains"]
 - What were they eating? The sacrifice. One man esteems a day by offering a sacrifice; one man regards a day by offering a sacrifice; and that same brother eateth unto the Lord. What is he eating? The sacrifice.
 
 
-**[Leviticus 19:5-6](/bible/leviticus/19#v5)**  *[14:32]*
+**[Leviticus 19:5-6](/bible/leviticus/19#v5)**  *[[14:32](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=872s)]*
 
 > <sup>[5](/bible/leviticus/19#v5)</sup> And if ye offer a sacrifice of peace offerings unto the Lord, ye shall offer it at your own will.
 >
@@ -154,7 +156,7 @@ tags: ["15 Minutes w/ The Captains"]
 - Deuteronomy 16: everybody comes back to Jerusalem three times a year. Nobody was going to be able to apply that.
 
 
-**[Romans 14:6](/bible/romans/14#v6)**  *[15:27]*
+**[Romans 14:6](/bible/romans/14#v6)**  *[[15:27](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=927s)]*
 
 > <sup>[6](/bible/romans/14#v6)</sup> He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.
 
@@ -168,7 +170,7 @@ tags: ["15 Minutes w/ The Captains"]
 
 ## In Closing
 
-*[16:27]* Christianity has perverted the minds of our brothers and sisters by giving us a false understanding of Paul's epistles. Paul was never saying you don't have to keep the Sabbath, or the Day of Atonement. We see examples all throughout the New Testament of Christ, the apostles, the disciples and various Christians that kept the feast days, and we are to continue keeping the feast days in the faith of Christ. At this time historically, Paul tells us not to let contention be inside the church about something we know is coming to an end in 70 AD. I'm Captain Yahoshua. Shalom. Most High Christ bless you all.
+*[[16:27](https://www.youtube.com/watch?v=hVIpx4WkiJY&t=987s)]* Christianity has perverted the minds of our brothers and sisters by giving us a false understanding of Paul's epistles. Paul was never saying you don't have to keep the Sabbath, or the Day of Atonement. We see examples all throughout the New Testament of Christ, the apostles, the disciples and various Christians that kept the feast days, and we are to continue keeping the feast days in the faith of Christ. At this time historically, Paul tells us not to let contention be inside the church about something we know is coming to an end in 70 AD. I'm Captain Yahoshua. Shalom. Most High Christ bless you all.
 
 ---
 

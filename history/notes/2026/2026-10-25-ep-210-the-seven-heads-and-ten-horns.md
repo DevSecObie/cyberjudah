@@ -5,10 +5,12 @@ date: "2026-10-25"
 episode: 210
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-10-25"
-tags: ["Our Hidden History"]
+tags: ["Our Hidden History", "captivity"]
 ---
 
 <p class="taught">Our Hidden History · 2026-10-25 · Deacon Eythan</p>
+
+<span class="opens"><b>Opens</b> [Dan 7](/bible/daniel/7) · [Rev 12](/bible/revelation/12) · [Jer 6](/bible/jeremiah/6) · [Gen 37](/bible/genesis/37) · [Isa 27](/bible/isaiah/27) · [Ps 74](/bible/psalms/74) · [Rev 17](/bible/revelation/17) · [Nah 3](/bible/nahum/3) · [Mic 5](/bible/micah/5) · [Ps 137](/bible/psalms/137) · [Isa 47](/bible/isaiah/47) · [Rev 11](/bible/revelation/11) · [2 Esdras 7](/bible/2-esdras/7) · [Mark 13](/bible/mark/13) · [Matt 11](/bible/matthew/11) · [Luke 16](/bible/luke/16) · <i>and 7 more below</i></span>
 
 <!-- truncate -->
 
@@ -16,14 +18,14 @@ tags: ["Our Hidden History"]
 
 ## Introduction
 
-*[7:20]* All right, we're back. We are back. It's been a while. Those of you, hope you enjoyed your Feast of Tabernacles. I had a good Tabernacles. It was cool. Shout outs to the team that made things run very smooth out there. A little bit bumpy in the beginning, for obvious reasons, the inclement weather, the mud, the rain, but later on it got hot and it dried everything up. So it was good. We almost broke our stage too, but we had a good time. The concert was cool. All praises.
+*[[7:20](https://www.youtube.com/watch?v=FLSncKJFYss&t=440s)]* All right, we're back. We are back. It's been a while. Those of you, hope you enjoyed your Feast of Tabernacles. I had a good Tabernacles. It was cool. Shout outs to the team that made things run very smooth out there. A little bit bumpy in the beginning, for obvious reasons, the inclement weather, the mud, the rain, but later on it got hot and it dried everything up. So it was good. We almost broke our stage too, but we had a good time. The concert was cool. All praises.
 
-*[11:38]* You're now tuned into Our Hidden History radio show. So let's just jump into it. We're touching on the seven heads and ten horns. Some of y'all still got that question going on about why he showed Nebuchadnezzar the dream. I haven't gotten to that yet. I may get into it today, maybe, possibly. So give me Daniel 7 and 7.
+*[[11:38](https://www.youtube.com/watch?v=FLSncKJFYss&t=698s)]* You're now tuned into Our Hidden History radio show. So let's just jump into it. We're touching on the seven heads and ten horns. Some of y'all still got that question going on about why he showed Nebuchadnezzar the dream. I haven't gotten to that yet. I may get into it today, maybe, possibly. So give me Daniel 7 and 7.
 
 ## Readings and Scriptures
 
 
-**[Daniel 7:7](/bible/daniel/7#v7)**  *[12:09]*
+**[Daniel 7:7](/bible/daniel/7#v7)**  *[[12:09](https://www.youtube.com/watch?v=FLSncKJFYss&t=729s)]*
 
 > <sup>[7](/bible/daniel/7#v7)</sup> After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
 
@@ -33,13 +35,13 @@ tags: ["Our Hidden History"]
 
 - And it had ten horns. Ten horns. So Daniel saw this beast that had ten horns, and it's the same exact beast that John saw in Revelation, in the apocalypse. So get Revelation 12 and 1.
 
-**[Revelation 12:1](/bible/revelation/12#v1)**  *[12:48]*
+**[Revelation 12:1](/bible/revelation/12#v1)**  *[[12:48](https://www.youtube.com/watch?v=FLSncKJFYss&t=768s)]*
 
 > <sup>[1](/bible/revelation/12#v1)</sup> And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 
 - This woman represents the twelve tribes of Israel. Give me Jeremiah 6 and 2 real quick, just to give you clarity on why it's referring to her as a woman.
 
-**[Jeremiah 6:2](/bible/jeremiah/6#v2)**  *[13:25]*
+**[Jeremiah 6:2](/bible/jeremiah/6#v2)**  *[[13:25](https://www.youtube.com/watch?v=FLSncKJFYss&t=805s)]*
 
 > <sup>[2](/bible/jeremiah/6#v2)</sup> I have likened the daughter of Zion to a comely and delicate woman.
 
@@ -47,7 +49,7 @@ tags: ["Our Hidden History"]
 
 - The sun and the moon, twelve stars. Real quick, give me Genesis as well regarding the twelve stars. This is going into Joseph's dream he had about his siblings, his family.
 
-**[Genesis 37:9-10](/bible/genesis/37#v9)**  *[14:34]*
+**[Genesis 37:9-10](/bible/genesis/37#v9)**  *[[14:34](https://www.youtube.com/watch?v=FLSncKJFYss&t=874s)]*
 
 > <sup>[9](/bible/genesis/37#v9)</sup> And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
 
@@ -61,10 +63,10 @@ tags: ["Our Hidden History"]
 
 - And the sun and the moon represents the wisdom. As soon as Joseph told Jacob the dream, Jacob caught on: I'm going to bow down to you? Jacob had understanding as well regarding that vision.
 
-*[15:58]* Back to Revelation 12. Upon her head a crown of twelve stars: that's the twelve tribes of Israel. The patriarch, sun and moon of wisdom; the twelve stars going into the patriarchs, the twelve sons.
+*[[15:58](https://www.youtube.com/watch?v=FLSncKJFYss&t=958s)]* Back to Revelation 12. Upon her head a crown of twelve stars: that's the twelve tribes of Israel. The patriarch, sun and moon of wisdom; the twelve stars going into the patriarchs, the twelve sons.
 
 
-**[Revelation 12:2-3](/bible/revelation/12#v2)**  *[16:22]*
+**[Revelation 12:2-3](/bible/revelation/12#v2)**  *[[16:22](https://www.youtube.com/watch?v=FLSncKJFYss&t=982s)]*
 
 > <sup>[2](/bible/revelation/12#v2)</sup> And she being with child cried, travailing in birth, and pained to be delivered.
 
@@ -80,7 +82,7 @@ tags: ["Our Hidden History"]
 
 - Now you may ask yourself, why was emphasis placed on the color of the beast? It could have been a yellow dragon. It could have been a green dragon. It could have been a blue dragon. But it says a great red dragon. Hold that. Get Isaiah 27:1.
 
-**[Isaiah 27:1](/bible/isaiah/27#v1)**  *[18:26]*
+**[Isaiah 27:1](/bible/isaiah/27#v1)**  *[[18:26](https://www.youtube.com/watch?v=FLSncKJFYss&t=1106s)]*
 
 > <sup>[1](/bible/isaiah/27#v1)</sup> In that day the Lord with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
 
@@ -98,7 +100,7 @@ tags: ["Our Hidden History"]
 
 - The Lord shall slay the dragon that is in the sea. It's not talking about Leviathan at all. It's referring to Babylon. It's referring to the dragon in the sea.
 
-**[Psalms 74:13-14](/bible/psalms/74#v13)**  *[22:40]*
+**[Psalms 74:13-14](/bible/psalms/74#v13)**  *[[22:40](https://www.youtube.com/watch?v=FLSncKJFYss&t=1360s)]*
 
 > <sup>[13](/bible/psalms/74#v13)</sup> Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.
 
@@ -108,13 +110,13 @@ tags: ["Our Hidden History"]
 
 - Like the Leviathan earlier. And made them to be our slaves. It's going into Edom. It's going into the dragon. He made them to be meat unto us. He gets first dibs; we get the leftovers. That's what that's talking about.
 
-**[Revelation 17:1](/bible/revelation/17#v1)**  *[23:23]*
+**[Revelation 17:1](/bible/revelation/17#v1)**  *[[23:23](https://www.youtube.com/watch?v=FLSncKJFYss&t=1403s)]*
 
 > <sup>[1](/bible/revelation/17#v1)</sup> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
 
 - Remember that dragon earlier that sits upon the waters. Leviathan sits upon the waters. Now the Lord shows John this particular beast that sits upon the waters. Get Nahum chapter 3 and verse 4.
 
-**[Nahum 3:4](/bible/nahum/3#v4)**  *[24:12]*
+**[Nahum 3:4](/bible/nahum/3#v4)**  *[[24:12](https://www.youtube.com/watch?v=FLSncKJFYss&t=1452s)]*
 
 > <sup>[4](/bible/nahum/3#v4)</sup> Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.
 
@@ -124,7 +126,7 @@ tags: ["Our Hidden History"]
 
 - So Nahum contextually is referring to Assyria, but Assyria and Babylon are synonymous. They are synonymous, and I'll prove that. Get Micah 5 and 6.
 
-**[Micah 5:6](/bible/micah/5#v6)**  *[25:09]*
+**[Micah 5:6](/bible/micah/5#v6)**  *[[25:09](https://www.youtube.com/watch?v=FLSncKJFYss&t=1509s)]*
 
 > <sup>[6](/bible/micah/5#v6)</sup> And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders.
 
@@ -136,7 +138,7 @@ tags: ["Our Hidden History"]
 
 - And that wall they be humping in front of is the remnants of the wall of Fort Antonia, which was part of the Court of the Gentiles. That is the remnant of what's left of the Court of the Gentiles that the Lord said, leave out. Revelation 11. Don't measure that. I don't deal with that wailing wall, the humpy wall. Leave that out.
 
-**[Psalms 137:7-9](/bible/psalms/137#v7)**  *[27:13]*
+**[Psalms 137:7-9](/bible/psalms/137#v7)**  *[[27:13](https://www.youtube.com/watch?v=FLSncKJFYss&t=1633s)]*
 
 > <sup>[7](/bible/psalms/137#v7)</sup> Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.
 
@@ -148,7 +150,7 @@ tags: ["Our Hidden History"]
 
 - Who art to be destroyed. So Edom is referred to as the daughter of Babylon. Edom is referred to as the daughter of Babylon. Now give me Isaiah 47 and verse 1.
 
-**[Isaiah 47:1-5](/bible/isaiah/47#v1)**  *[28:04]*
+**[Isaiah 47:1-5](/bible/isaiah/47#v1)**  *[[28:04](https://www.youtube.com/watch?v=FLSncKJFYss&t=1684s)]*
 
 > <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 
@@ -180,7 +182,7 @@ tags: ["Our Hidden History"]
 
 - The lady of kingdoms. America is the madam. The madam woman. Now go back to Revelation again, Revelation 17. Read verse 3.
 
-**[Revelation 17:3-8](/bible/revelation/17#v3)**  *[31:16]*
+**[Revelation 17:3-8](/bible/revelation/17#v3)**  *[[31:16](https://www.youtube.com/watch?v=FLSncKJFYss&t=1876s)]*
 
 > <sup>[3](/bible/revelation/17#v3)</sup> So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
 
@@ -238,7 +240,7 @@ tags: ["Our Hidden History"]
 
 - Rome was never destroyed. Rome was conquered and overthrown, and then divided, and then eventually disintegrated into other parts and lands. Never fully fell. Not exactly. So give me Revelation 11:7, same book.
 
-**[Revelation 11:7](/bible/revelation/11#v7)**  *[41:44]*
+**[Revelation 11:7](/bible/revelation/11#v7)**  *[[41:44](https://www.youtube.com/watch?v=FLSncKJFYss&t=2504s)]*
 
 > <sup>[7](/bible/revelation/11#v7)</sup> And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
 
@@ -246,10 +248,10 @@ tags: ["Our Hidden History"]
 
 - That's why I said her cup was filled; she was drunk with the blood of the saints. Because that woman and this beast all work together in destroying. Every head on that beast was responsible for drinking the blood, and killing, and overcoming and overthrowing the saints of God, the Israelites. This is war that came out of the bottomless pit.
 
-*[42:36]* Back to Revelation 17:8. Why will those whose names are not written in the book wonder? Because they won't know who this dragon is. Those whose names have not been written in the book of life are not going to know who this dragon is. It'll be a mystery to them. Now it said, and yet is. It was, and is not, and yet is. We want to emphasize the yet is part. Give me 2 Esdras 7 and 28.
+*[[42:36](https://www.youtube.com/watch?v=FLSncKJFYss&t=2556s)]* Back to Revelation 17:8. Why will those whose names are not written in the book wonder? Because they won't know who this dragon is. Those whose names have not been written in the book of life are not going to know who this dragon is. It'll be a mystery to them. Now it said, and yet is. It was, and is not, and yet is. We want to emphasize the yet is part. Give me 2 Esdras 7 and 28.
 
 
-**[2 Esdras 7:28-29](/bible/2-esdras/7#v28)**  *[43:44]*
+**[2 Esdras 7:28-29](/bible/2-esdras/7#v28)**  *[[43:44](https://www.youtube.com/watch?v=FLSncKJFYss&t=2624s)]*
 
 > <sup>[28](/bible/2-esdras/7#v28)</sup> For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within four hundred years.
 
@@ -263,12 +265,12 @@ tags: ["Our Hidden History"]
 
 - So four hundred years after Persia, Rome rose up. Now that's the yet is. Give me Nelson's. I want page 181. You might say, Deac, I thought you're making that up, four hundred years, how do you know? I'll show you. Let the white man show you, since you don't believe me. I'm just a man with a red shirt on, to some of y'all who are watching. So let the white man speak for me. Co-sign the obvious.
 
-*[46:21]* While the book is found: what I like about these classes is that y'all can't come on here in the audience and listen to this class and then go on Facebook and start posting up history I pulled years ago like you just came across it. Somebody shows a book saying King Charles the First was black; I used that book three, four years ago. We apologize to the brother Shiloh; he's doing great works out there posting the history, and some of the books he brought out I bought recently. All praise for that.
+*[[46:21](https://www.youtube.com/watch?v=FLSncKJFYss&t=2781s)]* While the book is found: what I like about these classes is that y'all can't come on here in the audience and listen to this class and then go on Facebook and start posting up history I pulled years ago like you just came across it. Somebody shows a book saying King Charles the First was black; I used that book three, four years ago. We apologize to the brother Shiloh; he's doing great works out there posting the history, and some of the books he brought out I bought recently. All praise for that.
 
 
 <div class="reading">
 
-Reading from a history book, pages 105 and 106, on Herod's temple · read by a brother  *[48:28]*
+Reading from a history book, pages 105 and 106, on Herod's temple · read by a brother  *[[48:28](https://www.youtube.com/watch?v=FLSncKJFYss&t=2908s)]*
 
 > Almost 500 years had elapsed since the second temple had been built by those who returned from the Babylonian exile. During the intervening time, the temple had no doubt been repaired and enlarged, but it remained essentially the old building, inferior in beauty and grandeur to some of the pagan temples which dotted the land. Not only was it contrary to Herod's love of architecture to permit the temple of his own god to remain so modest, but he thought to show his piety to the Jews by making their temple grander than the rest. Nothing so well indicates with what suspicion the Jews regarded Herod than the fact that the leading scribes at first opposed his plan. They actually believed that once he pulled the old building down, he would never replace it. To quiet their suspicions, Herod had to promise that he would not touch the old building until he had built the new one around it. Under no circumstances was the services to be interrupted.
 
@@ -286,7 +288,7 @@ Reading from a history book, pages 105 and 106, on Herod's temple · read by a b
 
 </div>
 
-**[Mark 13:1-2](/bible/mark/13#v1)**  *[51:54]*
+**[Mark 13:1-2](/bible/mark/13#v1)**  *[[51:54](https://www.youtube.com/watch?v=FLSncKJFYss&t=3114s)]*
 
 > <sup>[1](/bible/mark/13#v1)</sup> And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!
 
@@ -298,7 +300,7 @@ Reading from a history book, pages 105 and 106, on Herod's temple · read by a b
 
 - So that wall is not the temple wall. That's the wall of Fort Antonia. Fort Antonia was a wall, or a staircase, that led back and forth to the Court of the Gentiles. It's part of the Court of the Gentiles. That wall is not the court of the temple. I saw those Israelis over there humping in front of it because they know that belongs to them. Their daddy built that wall. That's daddy Herod's wall. It's not Solomon's temple. Not the second temple either. It has nothing to do with us, going over there putting prayer papers inside the damn bricks, and humping and thrusting in front of it like a bunch of pervs.
 
-**[Revelation 11:1-2](/bible/revelation/11#v1)**  *[53:15]*
+**[Revelation 11:1-2](/bible/revelation/11#v1)**  *[[53:15](https://www.youtube.com/watch?v=FLSncKJFYss&t=3195s)]*
 
 > <sup>[1](/bible/revelation/11#v1)</sup> And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
 
@@ -312,12 +314,12 @@ Reading from a history book, pages 105 and 106, on Herod's temple · read by a b
 
 - **A brother:** And the holy city shall they tread under foot forty and two months. That's what they're doing right now.
 
-*[54:34]* Nelson's Complete Book of Bible Maps and Charts. Those of you who don't have it, I think you should get it. It's very useful, a Bible textbook I used years ago. Those of y'all who have been with us a while remember me using it in my living room. We used it for the Persian captivity. So far, while they're finding it: John was shown a great red dragon. He was shown this dragon carrying a woman, and this dragon that he saw was in his vision, and is not yet in existence, and yet is, because she would exist in different time periods. That's why it's saying that. So we're focusing at this point in time on the yet is. And so far we touched on Esdras: after Nehemiah and Ezra, four hundred years after that, Christ will come on the scene; Rome will come on the scene.
+*[[54:34](https://www.youtube.com/watch?v=FLSncKJFYss&t=3274s)]* Nelson's Complete Book of Bible Maps and Charts. Those of you who don't have it, I think you should get it. It's very useful, a Bible textbook I used years ago. Those of y'all who have been with us a while remember me using it in my living room. We used it for the Persian captivity. So far, while they're finding it: John was shown a great red dragon. He was shown this dragon carrying a woman, and this dragon that he saw was in his vision, and is not yet in existence, and yet is, because she would exist in different time periods. That's why it's saying that. So we're focusing at this point in time on the yet is. And so far we touched on Esdras: after Nehemiah and Ezra, four hundred years after that, Christ will come on the scene; Rome will come on the scene.
 
 
 <div class="reading">
 
-Reading from *Nelson's Complete Book of Bible Maps and Charts*, the intertestamental period  *[57:30]*
+Reading from *Nelson's Complete Book of Bible Maps and Charts*, the intertestamental period  *[[57:30](https://www.youtube.com/watch?v=FLSncKJFYss&t=3450s)]*
 
 > Intertestamental period. Bridging the testaments.
 
@@ -359,7 +361,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, the intertestame
 
 <div class="reading">
 
-Reading from *Nelson's Complete Book of Bible Maps and Charts*, on Nehemiah  *[1:02:00]*
+Reading from *Nelson's Complete Book of Bible Maps and Charts*, on Nehemiah  *[[1:02:00](https://www.youtube.com/watch?v=FLSncKJFYss&t=3720s)]*
 
 > Nehemiah is closely associated with the ministry of his contemporary Ezra.
 
@@ -393,7 +395,7 @@ Reading from *Nelson's Complete Book of Bible Maps and Charts*, on Nehemiah  *[1
 
 <div class="reading">
 
-Reading from an 1885 book, the middle paragraph · read by a brother  *[1:06:19]*
+Reading from an 1885 book, the middle paragraph · read by a brother  *[[1:06:19](https://www.youtube.com/watch?v=FLSncKJFYss&t=3979s)]*
 
 > Between the prophet Malachi and the birth of Jesus Christ about 400 years elapsed.
 
@@ -409,7 +411,7 @@ Reading from an 1885 book, the middle paragraph · read by a brother  *[1:06:19]
 
 <div class="reading">
 
-Reading from a search on the intertestamental period  *[1:07:07]*
+Reading from a search on the intertestamental period  *[[1:07:07](https://www.youtube.com/watch?v=FLSncKJFYss&t=4027s)]*
 
 > The intertestamental period is the roughly 400-year historical and religious bridge between the close of the Old Testament (Malachi, 420 BC) and the opening of the New Testament (the ministry of John the Baptist in the early 1st century AD).
 
@@ -425,19 +427,19 @@ Reading from a search on the intertestamental period  *[1:07:07]*
 
 </div>
 
-**[Matthew 11:13](/bible/matthew/11#v13)**  *[1:08:28]*
+**[Matthew 11:13](/bible/matthew/11#v13)**  *[[1:08:28](https://www.youtube.com/watch?v=FLSncKJFYss&t=4108s)]*
 
 > <sup>[13](/bible/matthew/11#v13)</sup> For all the prophets and the law prophesied until John.
 
 - All the prophets and the law, meaning Moses, prophesied up until John. What's that telling you? That from Moses to Malachi they prophesied up until John. So before John there were no prophets like that. You had people with understanding, but there were no prophets like that. John was a prophet that came after the law and the prophets, after Moses and the rest. So that's referencing the silent years there. Get Luke 16:16.
 
-**[Luke 16:16](/bible/luke/16#v16)**  *[1:09:45]*
+**[Luke 16:16](/bible/luke/16#v16)**  *[[1:09:45](https://www.youtube.com/watch?v=FLSncKJFYss&t=4185s)]*
 
 > <sup>[16](/bible/luke/16#v16)</sup> The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it.
 
 - Since that time the kingdom of God is preached, and every man presses into it, trying to repent. So that's going into the silent years. The silent years, from the law and the prophets until John: that is the four hundred years Ezra was referring to. Until a prophet comes. What's that? Maccabees. First Maccabees 4:46.
 
-**[1 Maccabees 4:45-46](/bible/1-maccabees/4#v45)**  *[1:10:37]*
+**[1 Maccabees 4:45-46](/bible/1-maccabees/4#v45)**  *[[1:10:37](https://www.youtube.com/watch?v=FLSncKJFYss&t=4237s)]*
 
 > <sup>[45](/bible/1-maccabees/4#v45)</sup> They thought it best to pull it down, lest it should be a reproach to them, because the heathen had defiled it: wherefore they pulled it down,
 >
@@ -449,7 +451,7 @@ Reading from a search on the intertestamental period  *[1:07:07]*
 
 - **A brother:** Because the silent years, like I said, there was no prophet at that time that was speaking. Now to show you the difference between the two, get Haggai. Because you had Haggai and you had Zephaniah at the time of Zerubbabel. They were getting on Zerubbabel and them to build the temple. So those wouldn't be considered silent years, because you had the prophets that were speaking. They was in the streets, teaching, getting on the men to do what was right.
 
-**[Haggai 1:1-6](/bible/haggai/1#v1)**  *[1:12:58]*
+**[Haggai 1:1-6](/bible/haggai/1#v1)**  *[[1:12:58](https://www.youtube.com/watch?v=FLSncKJFYss&t=4378s)]*
 
 > <sup>[1](/bible/haggai/1#v1)</sup> In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 
@@ -479,7 +481,7 @@ Reading from a search on the intertestamental period  *[1:07:07]*
 
 <div class="reading">
 
-Reading from search notes on the silent years  *[1:15:38]*
+Reading from search notes on the silent years  *[[1:15:38](https://www.youtube.com/watch?v=FLSncKJFYss&t=4538s)]*
 
 > Historically and traditionally, there are roughly 400 years between the ministry of the prophet Malachi and the appearance of John the Baptist.
 
@@ -527,7 +529,7 @@ Reading from search notes on the silent years  *[1:15:38]*
 
 <div class="reading">
 
-Reading from a search on the king who commissioned the Septuagint  *[1:21:58]*
+Reading from a search on the king who commissioned the Septuagint  *[[1:21:58](https://www.youtube.com/watch?v=FLSncKJFYss&t=4918s)]*
 
 > King Ptolemy II Philadelphus of Egypt, reigned 283 to 246 BCE, commissioned the creation of the Septuagint, the earliest known Greek translation of the Hebrew Bible.
 
@@ -537,7 +539,7 @@ Reading from a search on the king who commissioned the Septuagint  *[1:21:58]*
 
 </div>
 
-**[Daniel 11:5-6](/bible/daniel/11#v5)**  *[1:23:41]*
+**[Daniel 11:5-6](/bible/daniel/11#v5)**  *[[1:23:41](https://www.youtube.com/watch?v=FLSncKJFYss&t=5021s)]*
 
 > <sup>[5](/bible/daniel/11#v5)</sup> And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.
 
@@ -559,7 +561,7 @@ Reading from a search on the king who commissioned the Septuagint  *[1:21:58]*
 
 <div class="reading">
 
-Reading from *The Complete Works of Josephus*, the letter of Demetrius to the king about the Jewish books  *[1:27:13]*
+Reading from *The Complete Works of Josephus*, the letter of Demetrius to the king about the Jewish books  *[[1:27:13](https://www.youtube.com/watch?v=FLSncKJFYss&t=5233s)]*
 
 > Now when this had been done after so magnificent a manner, according to the king's inclinations, he gave order to Demetrius to give him in writing his sentiments concerning the transcribing of the Jewish books; for no part of the administration is done rashly by these kings, but all things are managed with great circumspection. On which account I have subjoined a copy of these epistles, and set down the multitude of the vessels sent as gifts to Jerusalem.
 
@@ -591,7 +593,7 @@ Reading from *The Complete Works of Josephus*, the letter of Demetrius to the ki
 
 </div>
 
-**[Malachi 4:4-6](/bible/malachi/4#v4)**  *[1:32:41]*
+**[Malachi 4:4-6](/bible/malachi/4#v4)**  *[[1:32:41](https://www.youtube.com/watch?v=FLSncKJFYss&t=5561s)]*
 
 > <sup>[4](/bible/malachi/4#v4)</sup> Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.
 >
@@ -601,7 +603,7 @@ Reading from *The Complete Works of Josephus*, the letter of Demetrius to the ki
 
 - Just going into Elijah. Get Matthew 17 and 10.
 
-**[Matthew 17:10-13](/bible/matthew/17#v10)**  *[1:33:17]*
+**[Matthew 17:10-13](/bible/matthew/17#v10)**  *[[1:33:17](https://www.youtube.com/watch?v=FLSncKJFYss&t=5597s)]*
 
 > <sup>[10](/bible/matthew/17#v10)</sup> And his disciples asked him, saying, Why then say the scribes that Elias must first come?
 
@@ -621,15 +623,15 @@ Reading from *The Complete Works of Josephus*, the letter of Demetrius to the ki
 
 - So we're going to be right back on a quick break. We went way over our time. The spirit was flowing. Stay tuned. We'll be back in about five minutes.
 
-*[1:34:52]* The break: the IUIC reel from the Feast of Tabernacles. The Most High commanded us to dwell in booths for eight days. Our people have never seen unity; in this turbulent time the Lord is allowing us to come together in these last days in honor of him and what he did for us in Egypt. Psalms 133 says how beautiful it is for brethren to dwell together in unity. Family is the foundation of a nation. Camps on the outskirts of the hurricane, the ground soft from the rain, nobody hurt; Tabernacles in Tallahassee; the brothers of gang prevention who came out of the gang life; mission number 235 in Papua New Guinea, made possible by the Booster Club; a Northern Kingdom neighborhood takeover in Tulsa, Oklahoma, in Spanish and English; and the brothers helping a neighborhood after the storm in Kansas.
+*[[1:34:52](https://www.youtube.com/watch?v=FLSncKJFYss&t=5692s)]* The break: the IUIC reel from the Feast of Tabernacles. The Most High commanded us to dwell in booths for eight days. Our people have never seen unity; in this turbulent time the Lord is allowing us to come together in these last days in honor of him and what he did for us in Egypt. Psalms 133 says how beautiful it is for brethren to dwell together in unity. Family is the foundation of a nation. Camps on the outskirts of the hurricane, the ground soft from the rain, nobody hurt; Tabernacles in Tallahassee; the brothers of gang prevention who came out of the gang life; mission number 235 in Papua New Guinea, made possible by the Booster Club; a Northern Kingdom neighborhood takeover in Tulsa, Oklahoma, in Spanish and English; and the brothers helping a neighborhood after the storm in Kansas.
 
 
-*[1:41:01]* We're back from the break. If you have any comments regarding the lesson, text us at 267-262-6121.
+*[[1:41:01](https://www.youtube.com/watch?v=FLSncKJFYss&t=6061s)]* We're back from the break. If you have any comments regarding the lesson, text us at 267-262-6121.
 
 
 <div class="reading">
 
-Reading from a book by John Ogilby, 1670 · read by a brother  *[1:41:35]*
+Reading from a book by John Ogilby, 1670 · read by a brother  *[[1:41:35](https://www.youtube.com/watch?v=FLSncKJFYss&t=6095s)]*
 
 > As the before-mentioned writer sets forth, the Romans after their conquest destroyed all the ancient records and African books,
 
@@ -651,7 +653,7 @@ Reading from a book by John Ogilby, 1670 · read by a brother  *[1:41:35]*
 
 <div class="reading">
 
-Reading from *Caesar and Christ* · read by a brother  *[1:43:02]*
+Reading from *Caesar and Christ* · read by a brother  *[[1:43:02](https://www.youtube.com/watch?v=FLSncKJFYss&t=6182s)]*
 
 > When the Romans destroyed Carthage, they presented the libraries they found there to their African allies.
 
@@ -687,13 +689,13 @@ Reading from *Caesar and Christ* · read by a brother  *[1:43:02]*
 
 </div>
 
-**[Lamentations 2:16](/bible/lamentations/2#v16)**  *[1:46:15]*
+**[Lamentations 2:16](/bible/lamentations/2#v16)**  *[[1:46:15](https://www.youtube.com/watch?v=FLSncKJFYss&t=6375s)]*
 
 > <sup>[16](/bible/lamentations/2#v16)</sup> All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.
 
 - Why? Because they have our records. They know our history, man. They know it a lot better than what we know. They all have our history and they know who we are as a people. Now go to Judith 5 and 5 as well.
 
-**[Judith 5:5-10](/bible/judith/5#v5)**  *[1:46:54]*
+**[Judith 5:5-10](/bible/judith/5#v5)**  *[[1:46:54](https://www.youtube.com/watch?v=FLSncKJFYss&t=6414s)]*
 
 > <sup>[5](/bible/judith/5#v5)</sup> Then said Achior, the captain of all the sons of Ammon, Let my lord now hear a word from the mouth of thy servant, and I will declare unto thee the truth concerning this people, which dwelleth near thee, and inhabiteth the hill countries: and there shall no lie come out of the mouth of thy servant.
 
@@ -737,7 +739,7 @@ Reading from *Caesar and Christ* · read by a brother  *[1:43:02]*
 
 - **Deacon Eythan:** Ammon knows our history. It's not just him; Moab knows too, but Moab is more secretive. Ammon just puts it out. Ammon's like, wow, they use the Bible, this is good stuff; I'm going to turn it into a cartoon. Now jump down to verse 19.
 
-**[Judith 5:19-21](/bible/judith/5#v19)**  *[1:53:04]*
+**[Judith 5:19-21](/bible/judith/5#v19)**  *[[1:53:04](https://www.youtube.com/watch?v=FLSncKJFYss&t=6784s)]*
 
 > <sup>[19](/bible/judith/5#v19)</sup> But now are they returned to their God, and are come up from the places where they were scattered, and have possessed Jerusalem, where their sanctuary is, and are seated in the hill country; for it was desolate.
 
@@ -761,7 +763,7 @@ Reading from *Caesar and Christ* · read by a brother  *[1:43:02]*
 
 - **Deacon Eythan:** That's not really Ammon, but Thundercats is us too. Jaga, the spirit of the Thundercats, gave Lion-O guidance, gave him the Sword of Omens that gave him sight beyond sight. That's the Bible. Panthro was played by the light-skinned dude who played Bill Cosby's father. He drove the Thundertank. And they got Mumm-Ra, an Egyptian, as the enemy. Thundercats was the greatest show of all time. I'm telling my age right now. Let me be quiet.
 
-*[1:57:07]* **Text:** Shalom, mighty prophets. When did we lose power to Russia? It's been repeatedly mentioned we lost Russia last. So when exactly?
+*[[1:57:07](https://www.youtube.com/watch?v=FLSncKJFYss&t=7027s)]* **Text:** Shalom, mighty prophets. When did we lose power to Russia? It's been repeatedly mentioned we lost Russia last. So when exactly?
 
 
 **Deacon Eythan:** That's a good question. I touched on it: I said the late 1700s we lost rulership. Russia is really good at hiding stuff, I'll be honest with you. You still have bits of us living there today. There's a book called *Russia and the Negro*, and another book on Africans in early Europe that goes into it in the back of the book, citing *Russia and the Negro*, where you had Aboriginal Negroes, quote unquote, living in Russia. We had tsars, we had bishops that were still in Russia, and kings and queens sitting on the throne around the 1600s, like Peter and Ivan the Great. So I'm guesstimating the 1700s. That was the last stronghold of us, Russia, the last place we had ruling before we got the boot.
@@ -773,7 +775,7 @@ Reading from *Caesar and Christ* · read by a brother  *[1:43:02]*
 **Deacon Eythan:** Somebody said in the comments that Putin says the 1600s in his interview with Tucker Carlson. The 1600s, 1700s is when we stopped ruling. Russia is very different. This class is going to go into Russia too; I haven't got started on Russia yet. Russia is very unique in terms of Edom. My thought is because a lot of them mixed with Japheth, and that's why they act the way they do. But they're Edom.
 
 
-*[1:59:41]* **Text:** Did they have our records in the Library of Alexandria also, before it was burned?
+*[[1:59:41](https://www.youtube.com/watch?v=FLSncKJFYss&t=7181s)]* **Text:** Did they have our records in the Library of Alexandria also, before it was burned?
 
 
 **Deacon Eythan:** I'm pretty sure. I can't say yes or no; I can assume. But I believe they have our records in the Vatican, in Alexandria, and in the Library of Congress as well. The Smithsonian, the Vatican.
@@ -787,19 +789,19 @@ Reading from *Caesar and Christ* · read by a brother  *[1:43:02]*
 
 ## In Closing
 
-*[2:01:23]* So we're going to end right there. We're going to come back to Daniel 9, Lord's will, next time, going into more regarding the seven heads and ten horns. I can't answer your question yet. We haven't gotten to that part yet, but just bear with us. We'll get there soon. Definitely the Vatican, the Library of Congress, the Smithsonian: those are places we know of that publicly have our records, but I'm pretty sure they have other places where they have our records too that's not for the public at all.
+*[[2:01:23](https://www.youtube.com/watch?v=FLSncKJFYss&t=7283s)]* So we're going to end right there. We're going to come back to Daniel 9, Lord's will, next time, going into more regarding the seven heads and ten horns. I can't answer your question yet. We haven't gotten to that part yet, but just bear with us. We'll get there soon. Definitely the Vatican, the Library of Congress, the Smithsonian: those are places we know of that publicly have our records, but I'm pretty sure they have other places where they have our records too that's not for the public at all.
 
 Some of y'all enjoy the show so much you putting it on Facebook. It is called Our Hidden History, not our shared history. All glory goes to the Father. I'm not going to sit up here saying I'm the only source of information, but at least give some kind of shout out. I mention Sister Marie Charles; I use her books, she's very instrumental in our research, so I mention her. If you're going to take the information, at least follow up and subscribe.
 
-*[2:05:28]* We'll see y'all on the new moon; tune in to that. Lord's will we'll have more for y'all. Shalom. Most High, Christ bless.
+*[[2:05:28](https://www.youtube.com/watch?v=FLSncKJFYss&t=7528s)]* We'll see y'all on the new moon; tune in to that. Lord's will we'll have more for y'all. Shalom. Most High, Christ bless.
 
 ## Announcements & References
 
-*[2:02:31]* Subscribe to Our Hidden History; we've been seeing a lot of jumps in the subscriptions. Subscribe to IUIC Philadelphia and IUIC Philly 2.0. Donate to OHH on PayPal at iuic.philadelphia@israelunite.org, and donate to the Booster Club at iuic.pfundraising@israelunite.org. And last but not least, subscribe to IUIC TV for the exclusive content.
+*[[2:02:31](https://www.youtube.com/watch?v=FLSncKJFYss&t=7351s)]* Subscribe to Our Hidden History; we've been seeing a lot of jumps in the subscriptions. Subscribe to IUIC Philadelphia and IUIC Philly 2.0. Donate to OHH on PayPal at iuic.philadelphia@israelunite.org, and donate to the Booster Club at iuic.pfundraising@israelunite.org. And last but not least, subscribe to IUIC TV for the exclusive content.
 
-*[2:04:10]* Missing persons: Sister Janiah, 18, female, brown hair, 5'2, 135 pounds, last seen October 7th of this year, missing from the 100 block of East Lehigh Avenue. No clothing description was given. If you see her, contact the proper authorities.
+*[[2:04:10](https://www.youtube.com/watch?v=FLSncKJFYss&t=7450s)]* Missing persons: Sister Janiah, 18, female, brown hair, 5'2, 135 pounds, last seen October 7th of this year, missing from the 100 block of East Lehigh Avenue. No clothing description was given. If you see her, contact the proper authorities.
 
-*[2:04:43]* The land fund: we got the land. Donate at iuic.nationhood@israelunite.org and in the notes section put land. And scan the QR code to give feedback on the broadcast.
+*[[2:04:43](https://www.youtube.com/watch?v=FLSncKJFYss&t=7483s)]* The land fund: we got the land. Donate at iuic.nationhood@israelunite.org and in the notes section put land. And scan the QR code to give feedback on the broadcast.
 
 Text or call the show at 267-262-6121.
 

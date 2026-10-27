@@ -2,11 +2,14 @@
 title: "I Have Loved Strangers and After Them Will I Go"
 slug: "2026/2026-10-26-i-have-loved-strangers-and-after-them-will-i-go"
 date: "2026-10-26"
+teacher: ""
 description: "IUIC in the ClassRoom · 2026-10-26"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "captivity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-26</p>
+
+<span class="opens"><b>Opens</b> [Gen 17](/bible/genesis/17) · [Exod 12](/bible/exodus/12) · [Num 11](/bible/numbers/11) · [Lev 25](/bible/leviticus/25) · [Deut 28](/bible/deuteronomy/28) · [Ps 74](/bible/psalms/74) · [Josh 5](/bible/joshua/5) · [Lev 19](/bible/leviticus/19) · [Lev 17](/bible/leviticus/17) · [Num 15](/bible/numbers/15) · [1 Kgs 6](/bible/1-kings/6) · [2 Chr 4](/bible/2-chronicles/4) · [Ezra 6](/bible/ezra/6) · [1 Macc 7](/bible/1-maccabees/7) · [1 Kgs 8](/bible/1-kings/8) · [Acts 21](/bible/acts/21) · <i>and 19 more below</i></span>
 
 <!-- truncate -->
 
@@ -14,20 +17,20 @@ tags: ["IUIC in the ClassRoom"]
 
 ## Introduction
 
-*[3:41]* How's everybody doing? Happy new moon, everyone. Everyone seems in good spirits today, festive. I know some of y'all just came from work; I know I'm very tired from that. But the Most High grants us the privilege to keep his feast days even in captivity, and we should be grateful for that: a few hours in the night to get away from the world.
+*[[3:41](https://www.youtube.com/watch?v=P4cR6i32U80&t=221s)]* How's everybody doing? Happy new moon, everyone. Everyone seems in good spirits today, festive. I know some of y'all just came from work; I know I'm very tired from that. But the Most High grants us the privilege to keep his feast days even in captivity, and we should be grateful for that: a few hours in the night to get away from the world.
 
-*[4:13]* Today's topic is entitled I have loved strangers, and after them will I go. This class goes deep into the history of the strangers and the law of the stranger, because we are in what I called, in a class way back, the transitional period. The transitional period is when you have people in Christianity converting to the Israelite doctrine but still holding white supremacist ideologies. They acknowledge the Israelites, but they try to bring Cesare Borgia into the midst of it: no laws in effect, laws done away with, all you got to do is believe. They see the marches, they see the movement growing and prospering, and they want in on it. They don't see their people. They see dollar signs. They don't see unity, structure, order, uniformity; they see money, money, money. The Bishop posted a video earlier of a Christian church pushing the multiple wives thing, introducing the second wife. Christianity is diabolical. They're adopting BHI ideology into their churches wherever it benefits them.
+*[[4:13](https://www.youtube.com/watch?v=P4cR6i32U80&t=253s)]* Today's topic is entitled I have loved strangers, and after them will I go. This class goes deep into the history of the strangers and the law of the stranger, because we are in what I called, in a class way back, the transitional period. The transitional period is when you have people in Christianity converting to the Israelite doctrine but still holding white supremacist ideologies. They acknowledge the Israelites, but they try to bring Cesare Borgia into the midst of it: no laws in effect, laws done away with, all you got to do is believe. They see the marches, they see the movement growing and prospering, and they want in on it. They don't see their people. They see dollar signs. They don't see unity, structure, order, uniformity; they see money, money, money. The Bishop posted a video earlier of a Christian church pushing the multiple wives thing, introducing the second wife. Christianity is diabolical. They're adopting BHI ideology into their churches wherever it benefits them.
 
-*[5:55]* Then you have the flip side: Israelites who are comfortable here, who love captivity, who believe we're going to be here forever and there is no going home. I've heard Israelites on talk shows say "if Christ returns." Not when. If. When you hear, the white man should give us our own city, our own black metropolis, our own community in the states: no. America should be burned till nothing's left, and then we get our own state outside of here. I've even heard them say we're already free. I don't know how the hell you're free. Is your face on the dollar bill? On your quarters? Do you still pay rent, mortgage, tolls? Do people answer to you? Do you have a throne, a kingdom, subjects? Are your people in rulership? If they're not, you're not ruling anything.
+*[[5:55](https://www.youtube.com/watch?v=P4cR6i32U80&t=355s)]* Then you have the flip side: Israelites who are comfortable here, who love captivity, who believe we're going to be here forever and there is no going home. I've heard Israelites on talk shows say "if Christ returns." Not when. If. When you hear, the white man should give us our own city, our own black metropolis, our own community in the states: no. America should be burned till nothing's left, and then we get our own state outside of here. I've even heard them say we're already free. I don't know how the hell you're free. Is your face on the dollar bill? On your quarters? Do you still pay rent, mortgage, tolls? Do people answer to you? Do you have a throne, a kingdom, subjects? Are your people in rulership? If they're not, you're not ruling anything.
 
-*[7:33]* In the transitional period they try to stay Israelites but bring Christianity into their teachings: nations can be saved, nations get the kingdom along with us, joint heirs with us, grafted in with us, or we'll be grafted into them. New ideologies are popping up that are insidious, very slick, very conniving, very cunning, and they're all getting together. Israelites who left one group are now saying the whole movement's a lie, that we're bigots and racists, and they're going to confront us. Good luck. This is war.
+*[[7:33](https://www.youtube.com/watch?v=P4cR6i32U80&t=453s)]* In the transitional period they try to stay Israelites but bring Christianity into their teachings: nations can be saved, nations get the kingdom along with us, joint heirs with us, grafted in with us, or we'll be grafted into them. New ideologies are popping up that are insidious, very slick, very conniving, very cunning, and they're all getting together. Israelites who left one group are now saying the whole movement's a lie, that we're bigots and racists, and they're going to confront us. Good luck. This is war.
 
-*[8:22]* We're not racist. Racism requires power and authority: to tell the white man he can't come into my store, can't live in my neighborhood, can't get loans, certain jobs, a certain education, has to live in a certain area. We don't have the power to do that. If you're an Israelite it's impossible to be racist; a nation in authority and superiority on this earth can be racist, because it calls the shots, makes the demands, passes the laws. Prejudice maybe, but racist, no. And God is racist. God chose a people over everybody else. If your problem is with anyone, it should be with him, not with us. Otherwise there'd be no such thing as a chosen people. God doesn't have chosen peoples. He has a chosen people. Singular. Take that up with him.
+*[[8:22](https://www.youtube.com/watch?v=P4cR6i32U80&t=502s)]* We're not racist. Racism requires power and authority: to tell the white man he can't come into my store, can't live in my neighborhood, can't get loans, certain jobs, a certain education, has to live in a certain area. We don't have the power to do that. If you're an Israelite it's impossible to be racist; a nation in authority and superiority on this earth can be racist, because it calls the shots, makes the demands, passes the laws. Prejudice maybe, but racist, no. And God is racist. God chose a people over everybody else. If your problem is with anyone, it should be with him, not with us. Otherwise there'd be no such thing as a chosen people. God doesn't have chosen peoples. He has a chosen people. Singular. Take that up with him.
 
 ## Scriptures Opened
 
 
-**[Genesis 17:10-14](/bible/genesis/17#v10)**  *[10:04]*
+**[Genesis 17:10-14](/bible/genesis/17#v10)**  *[[10:04](https://www.youtube.com/watch?v=P4cR6i32U80&t=604s)]*
 
 > <sup>[10](/bible/genesis/17#v10)</sup> This is my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.
 >
@@ -53,7 +56,7 @@ tags: ["IUIC in the ClassRoom"]
 
     There was a war between these Hamite kings, and Lot got caught in the midst of it because he lived in that area. These men were confederate with Abram: they were cool with Abraham. He armed his trained, his instructed servants, born in his own house, three hundred and eighteen. So Abraham had a huge household, of his own people and of various other people. Abraham was not a regular man. He was a wealthy, powerful man in his time.
 
-**[Genesis 17:10-14](/bible/genesis/17#v10)**  *[12:26]*
+**[Genesis 17:10-14](/bible/genesis/17#v10)**  *[[12:26](https://www.youtube.com/watch?v=P4cR6i32U80&t=746s)]*
 
 > <sup>[10](/bible/genesis/17#v10)</sup> This is my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.
 >
@@ -77,7 +80,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - That soul shall be cut off from his people: Killed. He hath broken my covenant.
 
-**[Genesis 17:18-21](/bible/genesis/17#v18)**  *[14:43]*
+**[Genesis 17:18-21](/bible/genesis/17#v18)**  *[[14:43](https://www.youtube.com/watch?v=P4cR6i32U80&t=883s)]*
 
 > <sup>[18](/bible/genesis/17#v18)</sup> And Abraham said unto God, O that Ishmael might live before thee!
 >
@@ -103,19 +106,19 @@ tags: ["IUIC in the ClassRoom"]
 
     To show you beyond a shadow of a doubt. Abraham was still around when Isaac and Jacob were around, and they are the heirs with him of the same promise. These two were the children of promise: Isaac and Jacob. Not Isaac and Ishmael. Not Isaac and his 318 servants. So even though his servants were circumcised in his house, they were not part of that covenant. They were part of his household, not part of that covenant.
 
-**[Genesis 17:21](/bible/genesis/17#v21)**  *[17:41]*
+**[Genesis 17:21](/bible/genesis/17#v21)**  *[[17:41](https://www.youtube.com/watch?v=P4cR6i32U80&t=1061s)]*
 
 > <sup>[21](/bible/genesis/17#v21)</sup> But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.
 
 - Which Sarah shall bear unto thee at this set time in the next year: That was the promise, that his wife would get pregnant. Ishmael was a child of lust, a child of the flesh. Sarah gave Abraham Hagar because they were desperate for an heir. But the Lord said no, I didn't promise that child; that was your doing, that's flesh. This child is going to come out of you, Sarah, no matter how old you are. That's the child of promise. Isaac and Jacob are heirs of the same promise as Abraham.
 
-**[Exodus 12:38](/bible/exodus/12#v38)**  *[18:50]*
+**[Exodus 12:38](/bible/exodus/12#v38)**  *[[18:50](https://www.youtube.com/watch?v=P4cR6i32U80&t=1130s)]*
 
 > <sup>[38](/bible/exodus/12#v38)</sup> And a mixed multitude went up also with them; and flocks, and herds, even very much cattle.
 
 - And a mixed multitude went up also with them: We fast forward to Israel leaving Egypt. The mixed multitude were the heathens that left with us, the Egyptians or whoever came along. It doesn't say which. A mixed multitude of nations saw the wonders our God did for us and followed behind us. These are heathens.
 
-**[Numbers 11:4](/bible/numbers/11#v4)**  *[19:17]*
+**[Numbers 11:4](/bible/numbers/11#v4)**  *[[19:17](https://www.youtube.com/watch?v=P4cR6i32U80&t=1157s)]*
 
 > <sup>[4](/bible/numbers/11#v4)</sup> And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
 
@@ -123,7 +126,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Who shall give us flesh to eat?: The children of Israel were influenced by the complaints of the heathen among us who came out of Egypt. They murmured about the scarcity of the food in the wilderness, food they said they got more of in Egypt.
 
-**[Leviticus 25:35-49](/bible/leviticus/25#v35)**  *[20:17]*
+**[Leviticus 25:35-49](/bible/leviticus/25#v35)**  *[[20:17](https://www.youtube.com/watch?v=P4cR6i32U80&t=1217s)]*
 
 > <sup>[35](/bible/leviticus/25#v35)</sup> And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee.
 >
@@ -187,7 +190,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - After that he is sold he may be redeemed again; one of his brethren may redeem him: After that brother puts himself in that bondage, one of his brethren may buy him out of that servitude. Redeem means to buy, to purchase. That's what redemption means.
 
-**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[32:28]*
+**[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[32:28](https://www.youtube.com/watch?v=P4cR6i32U80&t=1948s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
 
@@ -207,7 +210,7 @@ tags: ["IUIC in the ClassRoom"]
 
 <div class="reading">
 
-Reading from the dictionary, on the word redeem  *[34:51]*
+Reading from the dictionary, on the word redeem  *[[34:51](https://www.youtube.com/watch?v=P4cR6i32U80&t=2091s)]*
 
 > The English word redeem comes from the Latin verb redimere, which means to buy back, or to ransom.
 
@@ -219,13 +222,13 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 </div>
 
-**[Psalms 74:2](/bible/psalms/74#v2)**  *[35:44]*
+**[Psalms 74:2](/bible/psalms/74#v2)**  *[[35:44](https://www.youtube.com/watch?v=P4cR6i32U80&t=2144s)]*
 
 > <sup>[2](/bible/psalms/74#v2)</sup> Remember thy congregation, which thou hast purchased of old; the rod of thine inheritance, which thou hast redeemed; this mount Zion, wherein thou hast dwelt.
 
 - Remember thy congregation, which thou hast purchased of old: Thy congregation is Israel, the church. God purchased of old, redeemed. The congregation God purchased was his own people. We're bought. Then when Christ died, he bought us again. So redemption is for those who were bought the first time.
 
-**[Leviticus 25:47-50](/bible/leviticus/25#v47)**  *[37:32]*
+**[Leviticus 25:47-50](/bible/leviticus/25#v47)**  *[[37:32](https://www.youtube.com/watch?v=P4cR6i32U80&t=2252s)]*
 
 > <sup>[47](/bible/leviticus/25#v47)</sup> And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:
 >
@@ -243,7 +246,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - According to the time of an hired servant shall it be with him: Six years, not exceeding seven. He can be bought out of that situation, by himself or a brother, before that or at the Jubilee. He must be redeemed out of it. So there's no poor among us.
 
-**[Exodus 12:43-48](/bible/exodus/12#v43)**  *[39:42]*
+**[Exodus 12:43-48](/bible/exodus/12#v43)**  *[[39:42](https://www.youtube.com/watch?v=P4cR6i32U80&t=2382s)]*
 
 > <sup>[43](/bible/exodus/12#v43)</sup> And the Lord said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:
 >
@@ -271,7 +274,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - And he shall be as one that is born in the land: One born in the land means circumcised, because everyone in the wilderness at this time was supposed to be circumcised. Hold that.
 
-**[Joshua 5:1-7](/bible/joshua/5#v1)**  *[42:56]*
+**[Joshua 5:1-7](/bible/joshua/5#v1)**  *[[42:56](https://www.youtube.com/watch?v=P4cR6i32U80&t=2576s)]*
 
 > <sup>[1](/bible/joshua/5#v1)</sup> And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the Lord had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
 >
@@ -299,7 +302,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - And their children, whom he raised up in their stead, them Joshua circumcised: That tells you the Most High had mercy on us. That whole time we were keeping Passover, our kids weren't circumcised, and the law says the children had to be circumcised to keep the feast or be cut off. That's how evil we were in that wilderness. The Most High extended mercy to us keeping that feast uncircumcised. That's a foreshadowing of grace right there.
 
-**[Exodus 12:48-49](/bible/exodus/12#v48)**  *[46:16]*
+**[Exodus 12:48-49](/bible/exodus/12#v48)**  *[[46:16](https://www.youtube.com/watch?v=P4cR6i32U80&t=2776s)]*
 
 > <sup>[48](/bible/exodus/12#v48)</sup> And when a stranger shall sojourn with thee, and will keep the passover to the Lord, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.
 >
@@ -311,7 +314,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - One law shall be to him that is homeborn, and unto the stranger that sojourneth among you: Again, we don't read anywhere that the heathens kept it. But if they were to, they had to be circumcised. That's the point: your slaves eat the food you eat, with you, or not at all.
 
-**[Leviticus 19:33-34](/bible/leviticus/19#v33)**  *[47:17]*
+**[Leviticus 19:33-34](/bible/leviticus/19#v33)**  *[[47:17](https://www.youtube.com/watch?v=P4cR6i32U80&t=2837s)]*
 
 > <sup>[33](/bible/leviticus/19#v33)</sup> And if a stranger sojourn with thee in your land, ye shall not vex him.
 >
@@ -325,7 +328,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - So were we in slavery or free in Exodus 12? Free. When the Lord told us we could take bondmen and bondwomen, were we free or in bondage? Free. The law of the stranger applies when you are not a stranger: when you are not removed out of your land and not enslaved. If you are a stranger yourself in a foreign land as a slave, the law of the stranger does not apply.
 
-**[Leviticus 17:8-9](/bible/leviticus/17#v8)**  *[49:59]*
+**[Leviticus 17:8-9](/bible/leviticus/17#v8)**  *[[49:59](https://www.youtube.com/watch?v=P4cR6i32U80&t=2999s)]*
 
 > <sup>[8](/bible/leviticus/17#v8)</sup> And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,
 >
@@ -335,7 +338,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - And bringeth it not unto the door of the tabernacle of the congregation: They dropped it off at the door of the tabernacle.
 
-**[Numbers 15:27-29](/bible/numbers/15#v27)**  *[51:35]*
+**[Numbers 15:27-29](/bible/numbers/15#v27)**  *[[51:35](https://www.youtube.com/watch?v=P4cR6i32U80&t=3095s)]*
 
 > <sup>[27](/bible/numbers/15#v27)</sup> And if any soul sin through ignorance, then he shall bring a she goat of the first year for a sin offering.
 >
@@ -345,7 +348,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them: The same thing goes for them. They offered the same thing among us. Again, the heathens offered up sacrifice; they presented it, but did not enter the tabernacle.
 
-**[1 Kings 6:1-5](/bible/1-kings/6#v1)**  *[52:20]*
+**[1 Kings 6:1-5](/bible/1-kings/6#v1)**  *[[52:20](https://www.youtube.com/watch?v=P4cR6i32U80&t=3140s)]*
 
 > <sup>[1](/bible/1-kings/6#v1)</sup> And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.
 >
@@ -365,13 +368,13 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - And against the wall of the house he built chambers round about: Beautiful place.
 
-**[1 Kings 6:36](/bible/1-kings/6#v36)**  *[55:39]*
+**[1 Kings 6:36](/bible/1-kings/6#v36)**  *[[55:39](https://www.youtube.com/watch?v=P4cR6i32U80&t=3339s)]*
 
 > <sup>[36](/bible/1-kings/6#v36)</sup> And he built the inner court with three rows of hewed stone, and a row of cedar beams.
 
 - And he built the inner court: On the plan of Solomon's temple: the wall that goes around the temple to keep it safe, the women's court, the court of Israel, the court of the priests. The whole area inside around the temple is the inner court.
 
-**[2 Chronicles 4:9](/bible/2-chronicles/4#v9)**  *[58:25]*
+**[2 Chronicles 4:9](/bible/2-chronicles/4#v9)**  *[[58:25](https://www.youtube.com/watch?v=P4cR6i32U80&t=3505s)]*
 
 > <sup>[9](/bible/2-chronicles/4#v9)</sup> Furthermore he made the court of the priests, and the great court, and doors for the court, and overlaid the doors of them with brass.
 
@@ -381,7 +384,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - This was our temple, our place of worship, destroyed not once but twice: Babylon first, then Rome. The second temple was rebuilt in the Persian captivity under Zerubbabel and Joshua, and Nehemiah and Ezra fortified the walls and the doors.
 
-**[Ezra 6:9-10](/bible/ezra/6#v9)**  *[1:01:52]*
+**[Ezra 6:9-10](/bible/ezra/6#v9)**  *[[1:01:52](https://www.youtube.com/watch?v=P4cR6i32U80&t=3712s)]*
 
 > <sup>[9](/bible/ezra/6#v9)</sup> And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which are at Jerusalem, let it be given them day by day without fail:
 >
@@ -389,7 +392,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - And pray for the life of the king, and of his sons: Darius, Cyrus, these kings looked out for us. They were responsible for allowing us to rebuild the temple. Because these kings were gracious unto us, we prayed for the Lord to be gracious unto them. It's that simple.
 
-**[Ezra 6:14-15](/bible/ezra/6#v14)**  *[1:02:40]*
+**[Ezra 6:14-15](/bible/ezra/6#v14)**  *[[1:02:40](https://www.youtube.com/watch?v=P4cR6i32U80&t=3760s)]*
 
 > <sup>[14](/bible/ezra/6#v14)</sup> And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
 >
@@ -399,7 +402,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - In the sixth year of the reign of Darius the king: That's why they prayed for Darius: he was responsible for allowing us to complete the second temple. Notice the king didn't go in there himself and sacrifice anything. Circumcised or not, they're not going in there. There's no scripture anywhere where heathens were allowed to enter the sanctuary, at any time, ever.
 
-**[1 Maccabees 7:32-35](/bible/1-maccabees/7#v32)**  *[1:04:08]*
+**[1 Maccabees 7:32-35](/bible/1-maccabees/7#v32)**  *[[1:04:08](https://www.youtube.com/watch?v=P4cR6i32U80&t=3848s)]*
 
 > <sup>[32](/bible/1-maccabees/7#v32)</sup> Where there were slain of Nicanor’s side about five thousand men, and the rest fled into the city of David.
 >
@@ -415,7 +418,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - We offered sacrifices for the kings when they were gracious unto us and did right by us, for our own sakes, not for them: for our own peace of mind, because these are heathens ruling over us. It was done for Darius, and for Demetrius here.
 
-**[1 Kings 8:30-45](/bible/1-kings/8#v30)**  *[1:05:46]*
+**[1 Kings 8:30-45](/bible/1-kings/8#v30)**  *[[1:05:46](https://www.youtube.com/watch?v=P4cR6i32U80&t=3946s)]*
 
 > <sup>[30](/bible/1-kings/8#v30)</sup> And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive.
 >
@@ -469,7 +472,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 - If a heathen says, I know you're Israelites and I'm a heathen and I want to keep God's commandments: go do so, and prosper. Don't tell them to break God's laws. Keep God's laws. You're going to do it anyway, willfully or because we make you. That's the hiring process, the resume: I kept God's laws in Babylon, I was a good worker. It makes you a prime candidate for work in the kingdom, because there will be an ethnic hierarchy in the kingdom. All the nations will serve, some higher than others, but we will be the government. There's no such thing as a king without a kingdom; every kingdom has subjects.
 
-**[Acts 21:28-29](/bible/acts/21#v28)**  *[1:11:23]*
+**[Acts 21:28-29](/bible/acts/21#v28)**  *[[1:11:23](https://www.youtube.com/watch?v=P4cR6i32U80&t=4283s)]*
 
 > <sup>[28](/bible/acts/21#v28)</sup> Crying out, Men of Israel, help: This is the man, that teacheth all men every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place.
 >
@@ -483,7 +486,7 @@ Reading from the dictionary, on the word redeem  *[34:51]*
 
 <div class="reading">
 
-Reading from on-screen: the temple warning inscription  *[1:13:20]*
+Reading from on-screen: the temple warning inscription  *[[1:13:20](https://www.youtube.com/watch?v=P4cR6i32U80&t=4400s)]*
 
 > The temple warning inscription from Herod's temple.
 
@@ -491,7 +494,7 @@ Reading from on-screen: the temple warning inscription  *[1:13:20]*
 
 </div>
 
-**[Ezra 3:12-13](/bible/ezra/3#v12)**  *[1:14:25]*
+**[Ezra 3:12-13](/bible/ezra/3#v12)**  *[[1:14:25](https://www.youtube.com/watch?v=P4cR6i32U80&t=4465s)]*
 
 > <sup>[12](/bible/ezra/3#v12)</sup> But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
 >
@@ -501,7 +504,7 @@ Reading from on-screen: the temple warning inscription  *[1:13:20]*
 
 - Wept with a loud voice: The second house wasn't as glorious as the first.
 
-**[Haggai 2:3](/bible/haggai/2#v3)**  *[1:15:24]*
+**[Haggai 2:3](/bible/haggai/2#v3)**  *[[1:15:24](https://www.youtube.com/watch?v=P4cR6i32U80&t=4524s)]*
 
 > <sup>[3](/bible/haggai/2#v3)</sup> Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?
 
@@ -511,7 +514,7 @@ Reading from on-screen: the temple warning inscription  *[1:13:20]*
 
 <div class="reading">
 
-Reading from on-screen: the temple warning inscription  *[1:16:26]*
+Reading from on-screen: the temple warning inscription  *[[1:16:26](https://www.youtube.com/watch?v=P4cR6i32U80&t=4586s)]*
 
 > The temple warning inscription from Herod's temple in Jerusalem, written in Greek. It warned foreigners, non-Jews, not to enter the inner temple courtyard past the balustrade on pain of death.
 
@@ -521,7 +524,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 </div>
 
-**[Matthew 24:1-2](/bible/matthew/24#v1)**  *[1:18:20]*
+**[Matthew 24:1-2](/bible/matthew/24#v1)**  *[[1:18:20](https://www.youtube.com/watch?v=P4cR6i32U80&t=4700s)]*
 
 > <sup>[1](/bible/matthew/24#v1)</sup> And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
 >
@@ -531,7 +534,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - There shall not be left here one stone upon another, that shall not be thrown down: When Rome destroyed the second temple, they brought it down to nothing. There was no stone left standing at all, no wall to wail in front of.
 
-**[Mark 13:1-2](/bible/mark/13#v1)**  *[1:19:03]*
+**[Mark 13:1-2](/bible/mark/13#v1)**  *[[1:19:03](https://www.youtube.com/watch?v=P4cR6i32U80&t=4743s)]*
 
 > <sup>[1](/bible/mark/13#v1)</sup> And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!
 >
@@ -541,7 +544,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - There shall not be left one stone upon another: When Rome came and sacked Jerusalem in 70 AD, that was the end. Not a single stone or wall. The temple was gone.
 
-**[Luke 19:43-44](/bible/luke/19#v43)**  *[1:20:35]*
+**[Luke 19:43-44](/bible/luke/19#v43)**  *[[1:20:35](https://www.youtube.com/watch?v=P4cR6i32U80&t=4835s)]*
 
 > <sup>[43](/bible/luke/19#v43)</sup> For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
 >
@@ -555,7 +558,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - Because thou knewest not the time of thy visitation: We didn't believe Christ, and we didn't believe what would happen to us in 70 AD.
 
-**[Luke 21:20-24](/bible/luke/21#v20)**  *[1:21:23]*
+**[Luke 21:20-24](/bible/luke/21#v20)**  *[[1:21:23](https://www.youtube.com/watch?v=P4cR6i32U80&t=4883s)]*
 
 > <sup>[20](/bible/luke/21#v20)</sup> And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
 >
@@ -577,7 +580,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled: Trodden down of impostors. And their time in that land is up.
 
-**[Daniel 9:24-27](/bible/daniel/9#v24)**  *[1:22:38]*
+**[Daniel 9:24-27](/bible/daniel/9#v24)**  *[[1:22:38](https://www.youtube.com/watch?v=P4cR6i32U80&t=4958s)]*
 
 > <sup>[24](/bible/daniel/9#v24)</sup> Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.
 >
@@ -607,7 +610,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And that determined shall be poured upon the desolate: From the prophecy of Moses all the way to Christ. Now the temple is destroyed. And before it was destroyed, Herod built a court of the Gentiles.
 
-**[Revelation 11:1-2](/bible/revelation/11#v1)**  *[1:24:55]*
+**[Revelation 11:1-2](/bible/revelation/11#v1)**  *[[1:24:55](https://www.youtube.com/watch?v=P4cR6i32U80&t=5095s)]*
 
 > <sup>[1](/bible/revelation/11#v1)</sup> And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
 >
@@ -621,7 +624,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And the holy city shall they tread under foot forty and two months: The Romans, and the heathens now, the Israelis or the Palestinians. The land being trodden down of the Gentiles while these guys hump against the wall, and we're over here in slavery. Wall-humping posers.
 
-**[Isaiah 60:10-11](/bible/isaiah/60#v10)**  *[1:27:11]*
+**[Isaiah 60:10-11](/bible/isaiah/60#v10)**  *[[1:27:11](https://www.youtube.com/watch?v=P4cR6i32U80&t=5231s)]*
 
 > <sup>[10](/bible/isaiah/60#v10)</sup> And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.
 >
@@ -637,7 +640,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And that their kings may be brought: How will they be brought? Are they coming on an Amazon truck? A school bus? A yacht? No. Get Psalms 149.
 
-**[Psalms 149:6-9](/bible/psalms/149#v6)**  *[1:28:27]*
+**[Psalms 149:6-9](/bible/psalms/149#v6)**  *[[1:28:27](https://www.youtube.com/watch?v=P4cR6i32U80&t=5307s)]*
 
 > <sup>[6](/bible/psalms/149#v6)</sup> Let the high praises of God be in their mouth, and a twoedged sword in their hand;
 >
@@ -655,7 +658,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - Praise ye the Lord: David says praise God. He didn't say, oh no, God, that's wrong. What about equality, we're all the same? He said, now praise God.
 
-**[Isaiah 60:11-19](/bible/isaiah/60#v11)**  *[1:30:09]*
+**[Isaiah 60:11-19](/bible/isaiah/60#v11)**  *[[1:30:09](https://www.youtube.com/watch?v=P4cR6i32U80&t=5409s)]*
 
 > <sup>[11](/bible/isaiah/60#v11)</sup> Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.
 >
@@ -701,7 +704,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - But the Lord shall be unto thee an everlasting light, and thy God thy glory: Our God is going to be sitting right there with us on the earth.
 
-**[Revelation 21:24-26](/bible/revelation/21#v24)**  *[1:37:24]*
+**[Revelation 21:24-26](/bible/revelation/21#v24)**  *[[1:37:24](https://www.youtube.com/watch?v=P4cR6i32U80&t=5844s)]*
 
 > <sup>[24](/bible/revelation/21#v24)</sup> And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
 >
@@ -717,7 +720,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And they shall bring the glory and honour of the nations into it: We the exactors shall bring the glory and honor of the nations, the wealth, into it.
 
-**[Zechariah 8:23](/bible/zechariah/8#v23)**  *[1:38:38]*
+**[Zechariah 8:23](/bible/zechariah/8#v23)**  *[[1:38:38](https://www.youtube.com/watch?v=P4cR6i32U80&t=5918s)]*
 
 > <sup>[23](/bible/zechariah/8#v23)</sup> Thus saith the Lord of hosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you.
 
@@ -727,7 +730,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - We will go with you: for we have heard that God is with you: How do they know God is with us? They don't know God is with us now. They think we're coons and slaves and savages now, violent and hypersexual. This is a time when we're ruling, in our glory, with our king on the earth. That's when they'll take hold of the skirt of a Jew. Not now.
 
-**[Isaiah 2:1-5](/bible/isaiah/2#v1)**  *[1:39:51]*
+**[Isaiah 2:1-5](/bible/isaiah/2#v1)**  *[[1:39:51](https://www.youtube.com/watch?v=P4cR6i32U80&t=5991s)]*
 
 > <sup>[1](/bible/isaiah/2#v1)</sup> The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
 >
@@ -753,7 +756,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - There are more layers to Isaiah 2, but there isn't time for them.
 
-**[Isaiah 14:1-3](/bible/isaiah/14#v1)**  *[1:41:29]*
+**[Isaiah 14:1-3](/bible/isaiah/14#v1)**  *[[1:41:29](https://www.youtube.com/watch?v=P4cR6i32U80&t=6089s)]*
 
 > <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 >
@@ -775,7 +778,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - In the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve: Rest from our sorrow, not theirs. That's the aftermath.
 
-**[Isaiah 54:3](/bible/isaiah/54#v3)**  *[1:44:22]*
+**[Isaiah 54:3](/bible/isaiah/54#v3)**  *[[1:44:22](https://www.youtube.com/watch?v=P4cR6i32U80&t=6262s)]*
 
 > <sup>[3](/bible/isaiah/54#v3)</sup> For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.
 
@@ -785,7 +788,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And make the desolate cities to be inhabited: Inhabit again our lands that were once desolate, back to Daniel 9 where the land is made desolate.
 
-**[Ezekiel 47:22-23](/bible/ezekiel/47#v22)**  *[1:45:26]*
+**[Ezekiel 47:22-23](/bible/ezekiel/47#v22)**  *[[1:45:26](https://www.youtube.com/watch?v=P4cR6i32U80&t=6326s)]*
 
 > <sup>[22](/bible/ezekiel/47#v22)</sup> And it shall come to pass, that ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel.
 >
@@ -799,7 +802,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - A brother added: that inheritance goes back to Matthew 15, where even the dogs eat of the crumbs from the master's table. That's their inheritance: crumbs. Bottom feeders. Whatever we're done with, they get the bottom of it: the oxtail, the chicken toe.
 
-**[Isaiah 56:1-5](/bible/isaiah/56#v1)**  *[1:47:10]*
+**[Isaiah 56:1-5](/bible/isaiah/56#v1)**  *[[1:47:10](https://www.youtube.com/watch?v=P4cR6i32U80&t=6430s)]*
 
 > <sup>[1](/bible/isaiah/56#v1)</sup> Thus saith the Lord, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.
 >
@@ -827,7 +830,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And within my walls: How many walls are there in Revelation? Is there one for the heathens too? An attic, a basement where they get under the walls? No.
 
-**[Revelation 21:12](/bible/revelation/21#v12)**  *[1:49:34]*
+**[Revelation 21:12](/bible/revelation/21#v12)**  *[[1:49:34](https://www.youtube.com/watch?v=P4cR6i32U80&t=6574s)]*
 
 > <sup>[12](/bible/revelation/21#v12)</sup> And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
 
@@ -837,7 +840,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - Which are the names of the twelve tribes of the children of Israel: The twelve tribes, and the heathens that love us? No. The names of the twelve tribes of the children of Israel. There is no gate for them. They're not coming in there.
 
-**[Isaiah 56:5-6](/bible/isaiah/56#v5)**  *[1:50:18]*
+**[Isaiah 56:5-6](/bible/isaiah/56#v5)**  *[[1:50:18](https://www.youtube.com/watch?v=P4cR6i32U80&t=6618s)]*
 
 > <sup>[5](/bible/isaiah/56#v5)</sup> Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off.
 >
@@ -851,7 +854,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And taketh hold of my covenant: Hold that. The strangers take hold of his covenant. Go to 2 Chronicles 15.
 
-**[2 Chronicles 15:3-4,9,12](/bible/2-chronicles/15#v3)**  *[1:51:07]*
+**[2 Chronicles 15:3-4,9,12](/bible/2-chronicles/15#v3)**  *[[1:51:07](https://www.youtube.com/watch?v=P4cR6i32U80&t=6667s)]*
 
 > <sup>[3](/bible/2-chronicles/15#v3)</sup> Now for a long season Israel hath been without the true God, and without a teaching priest, and without law.
 >
@@ -871,7 +874,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - And they entered into a covenant: That's Isaiah 56, taking hold of the covenant. Now you know who the strangers are in Isaiah 56.
 
-**[Isaiah 56:6-8](/bible/isaiah/56#v6)**  *[1:52:40]*
+**[Isaiah 56:6-8](/bible/isaiah/56#v6)**  *[[1:52:40](https://www.youtube.com/watch?v=P4cR6i32U80&t=6760s)]*
 
 > <sup>[6](/bible/isaiah/56#v6)</sup> Also the sons of the stranger, that join themselves to the Lord, to serve him, and to love the name of the Lord, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;
 >
@@ -885,7 +888,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 - The Lord God which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him: Those already gathered unto him were Judah. Close on John 11.
 
-**[John 11:50-52](/bible/john/11#v50)**  *[1:54:13]*
+**[John 11:50-52](/bible/john/11#v50)**  *[[1:54:13](https://www.youtube.com/watch?v=P4cR6i32U80&t=6853s)]*
 
 > <sup>[50](/bible/john/11#v50)</sup> Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
 >
@@ -909,7 +912,7 @@ Reading from on-screen: the temple warning inscription  *[1:16:26]*
 
 ## In Closing
 
-*[1:55:00]* He shall gather together in one the children of God that were scattered abroad. With that, we say shalom. Happy new moon. Praise to the Most High God.
+*[[1:55:00](https://www.youtube.com/watch?v=P4cR6i32U80&t=6900s)]* He shall gather together in one the children of God that were scattered abroad. With that, we say shalom. Happy new moon. Praise to the Most High God.
 
 ---
 

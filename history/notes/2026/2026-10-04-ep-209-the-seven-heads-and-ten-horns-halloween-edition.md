@@ -5,10 +5,12 @@ date: "2026-10-04"
 episode: 209
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-10-04 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History"]
+tags: ["Our Hidden History", "false-religion", "idolatry"]
 ---
 
 <p class="taught">Our Hidden History · 2026-10-04 · Deacon Eythan, with the officers of IUIC Philadelphia</p>
+
+<span class="opens"><b>Opens</b> [Matt 23](/bible/matthew/23) · [Matt 19](/bible/matthew/19) · [Prov 3](/bible/proverbs/3) · [Deut 28](/bible/deuteronomy/28) · [Col 2](/bible/colossians/2) · [Exod 20](/bible/exodus/20) · [Matt 10](/bible/matthew/10) · [Luke 14](/bible/luke/14) · [1 Sam 5](/bible/1-samuel/5) · [2 Kgs 1](/bible/2-kings/1) · [Matt 22](/bible/matthew/22) · [Deut 18](/bible/deuteronomy/18) · [Ep Jer 1](/bible/epistle-of-jeremiah/1) · [1 Cor 6](/bible/1-corinthians/6) · [Job 14](/bible/job/14) · [Rom 14](/bible/romans/14) · <i>and 14 more below</i></span>
 
 <!-- truncate -->
 
@@ -16,17 +18,17 @@ tags: ["Our Hidden History"]
 
 ## Introduction
 
-*[11:57]* Yo, we are back. We are back. You are now tuned into Our Hidden History radio show. Shalom, shalom.
+*[[11:57](https://www.youtube.com/watch?v=d9weOSjqU04&t=717s)]* Yo, we are back. We are back. You are now tuned into Our Hidden History radio show. Shalom, shalom.
 
-*[12:43]* Listen. I know y'all excited about going through this topic, but I want to do a quick pre-Halloween special, because I'm going to forget, and I don't celebrate that stuff, so I tend to let it slip by. I just don't like stupid Christians. I got to make it my business to get on them. We'll touch on Halloween real quick, then get back to Daniel 7. As it went, the whole show became the Halloween edition: the seven heads and ten horns wait for next time.
+*[[12:43](https://www.youtube.com/watch?v=d9weOSjqU04&t=763s)]* Listen. I know y'all excited about going through this topic, but I want to do a quick pre-Halloween special, because I'm going to forget, and I don't celebrate that stuff, so I tend to let it slip by. I just don't like stupid Christians. I got to make it my business to get on them. We'll touch on Halloween real quick, then get back to Daniel 7. As it went, the whole show became the Halloween edition: the seven heads and ten horns wait for next time.
 
-*[13:19]* **Officer:** Just a few things before we start. The Bishop's class last night was good, man. Shout out to Levi, especially the history of the revolution of 1804; Levi held it down. Levi actually helped out during World War I, the best warriors, the best fighters of that time period. I researched it, and a lot of the tactics Levi did over there are the exact same tactics as the Maccabees, almost verbatim. And during that revolution the martial art they practiced was called tire machete.
+*[[13:19](https://www.youtube.com/watch?v=d9weOSjqU04&t=799s)]* **Officer:** Just a few things before we start. The Bishop's class last night was good, man. Shout out to Levi, especially the history of the revolution of 1804; Levi held it down. Levi actually helped out during World War I, the best warriors, the best fighters of that time period. I researched it, and a lot of the tactics Levi did over there are the exact same tactics as the Maccabees, almost verbatim. And during that revolution the martial art they practiced was called tire machete.
 
 ## Readings and Scriptures
 
 <div class="reading">
 
-Reading from a search result on tire machete, the Haitian martial art · read by an officer  *[15:22]*
+Reading from a search result on tire machete, the Haitian martial art · read by an officer  *[[15:22](https://www.youtube.com/watch?v=d9weOSjqU04&t=922s)]*
 
 > Tire machete, meaning pull the machete, is a traditional, secretive Haitian martial art and machete fencing style rooted in the Haitian Revolution.
 
@@ -46,9 +48,9 @@ Reading from a search result on tire machete, the Haitian martial art · read by
 
 </div>
 
-*[17:46]* A commenter is already in the audience calling us Pharisee inquisitors. Leave him in the audience; we'll have fun with him. He's taking his time out to visit us. Get out of the organization and go where? Back to white Jesus. You guys call us Pharisees. Pharisees were teachers of the law that did not apply the law. But since we're Pharisees, no problem: Matthew 23:1.
+*[[17:46](https://www.youtube.com/watch?v=d9weOSjqU04&t=1066s)]* A commenter is already in the audience calling us Pharisee inquisitors. Leave him in the audience; we'll have fun with him. He's taking his time out to visit us. Get out of the organization and go where? Back to white Jesus. You guys call us Pharisees. Pharisees were teachers of the law that did not apply the law. But since we're Pharisees, no problem: Matthew 23:1.
 
-**[Matthew 23:1-3](/bible/matthew/23#v1)**  *[19:33]*
+**[Matthew 23:1-3](/bible/matthew/23#v1)**  *[[19:33](https://www.youtube.com/watch?v=d9weOSjqU04&t=1173s)]*
 
 > <sup>[1](/bible/matthew/23#v1)</sup> Then spake Jesus to the multitude, and to his disciples,
 >
@@ -66,11 +68,11 @@ Reading from a search result on tire machete, the Haitian martial art · read by
 
 - I'm petty, I said it all the time. I can be nice, but with people who speak evil of us for years, the voice of reason is leadership. That's what keeps the reins on us and keeps us calm. Me, I'll terrorize you every day. Every week could be a class on you.
 
-*[21:45]* Halloween now. They posted this in our group and I wanted to touch on it. This goes back to my class yesterday about Christianity, how it's pretty much a doctrine that teaches black folks to be weak and complacent and follow massa to the depths of hell. A brother here, a pastor with a Bible in his hand and a Roman toga on, who thinks that's how Jews dressed, is saying Halloween is not salvific. For those of you who don't use that word, it means it's not salvation based: it doesn't determine whether you'll be saved or not.
+*[[21:45](https://www.youtube.com/watch?v=d9weOSjqU04&t=1305s)]* Halloween now. They posted this in our group and I wanted to touch on it. This goes back to my class yesterday about Christianity, how it's pretty much a doctrine that teaches black folks to be weak and complacent and follow massa to the depths of hell. A brother here, a pastor with a Bible in his hand and a Roman toga on, who thinks that's how Jews dressed, is saying Halloween is not salvific. For those of you who don't use that word, it means it's not salvation based: it doesn't determine whether you'll be saved or not.
 
 <div class="reading">
 
-Reading from a dictionary definition of salvific  *[22:50]*
+Reading from a dictionary definition of salvific  *[[22:50](https://www.youtube.com/watch?v=d9weOSjqU04&t=1370s)]*
 
 > Salvific is an adjective that means having the power or intention to save, redeem or bring about salvation.
 
@@ -90,7 +92,7 @@ Reading from a dictionary definition of salvific  *[22:50]*
 
 <div class="reading">
 
-Reading from a dictionary definition of cult  *[27:23]*
+Reading from a dictionary definition of cult  *[[27:23](https://www.youtube.com/watch?v=d9weOSjqU04&t=1643s)]*
 
 > A cult is a social group or movement defined by extreme devotion to a particular person, idea, or religious system, often using manipulative and controlling practices.
 
@@ -106,7 +108,7 @@ Reading from a dictionary definition of cult  *[27:23]*
 
 </div>
 
-**[Matthew 19:16-17](/bible/matthew/19#v16)**  *[29:26]*
+**[Matthew 19:16-17](/bible/matthew/19#v16)**  *[[29:26](https://www.youtube.com/watch?v=d9weOSjqU04&t=1766s)]*
 
 > <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
 
@@ -118,7 +120,7 @@ Reading from a dictionary definition of cult  *[27:23]*
 
 - **Officer:** And if you left, why are you still in the audience?
 
-*[30:21]* Now the next image, the post itself. Zoom in on the picture. That's probably his wife there, and this is why he's saying this. Most Christian men are weak to their women. The women run them, and if he dissatisfies her, he dissatisfies his god. So now he's trying to make a loophole in the Bible to justify celebrating pagan practices.
+*[[30:21](https://www.youtube.com/watch?v=d9weOSjqU04&t=1821s)]* Now the next image, the post itself. Zoom in on the picture. That's probably his wife there, and this is why he's saying this. Most Christian men are weak to their women. The women run them, and if he dissatisfies her, he dissatisfies his god. So now he's trying to make a loophole in the Bible to justify celebrating pagan practices.
 
 - **Officer:** These are the guys you see in the Christian church that be really effeminate.
 
@@ -126,7 +128,7 @@ Reading from a dictionary definition of cult  *[27:23]*
 
 <div class="reading">
 
-Reading from the pastor's Facebook post on Halloween  *[31:45]*
+Reading from the pastor's Facebook post on Halloween  *[[31:45](https://www.youtube.com/watch?v=d9weOSjqU04&t=1905s)]*
 
 > It's October, so apparently it's time for the annual Christian Halloween debate.
 
@@ -136,7 +138,7 @@ Reading from the pastor's Facebook post on Halloween  *[31:45]*
 
 <div class="reading">
 
-Reading from a search result on cognitive dissonance  *[32:23]*
+Reading from a search result on cognitive dissonance  *[[32:23](https://www.youtube.com/watch?v=d9weOSjqU04&t=1943s)]*
 
 > Cognitive dissonance is the mental discomfort you feel when your actions, beliefs, or values do not match. Definition coined by psychologist Leon Festinger in 1957. The theory explains that humans naturally crave mental consistency. The conflict: when two thoughts, or a thought and a behavior, clash, it creates an uncomfortable tension or stress. The goal: people are heavily driven to reduce this unpleasant feeling and restore internal harmony.
 
@@ -152,7 +154,7 @@ Reading from a search result on cognitive dissonance  *[32:23]*
 
 <div class="reading">
 
-Reading from the pastor's Facebook post, read through  *[34:09]*
+Reading from the pastor's Facebook post, read through  *[[34:09](https://www.youtube.com/watch?v=d9weOSjqU04&t=2049s)]*
 
 > It's October. So apparently it's time for the annual Christian Halloween debate. A gentle reminder, Halloween is not a salvific issue.
 
@@ -172,7 +174,7 @@ Reading from the pastor's Facebook post, read through  *[34:09]*
 
 </div>
 
-**[Proverbs 3:31](/bible/proverbs/3#v31)**  *[36:33]*
+**[Proverbs 3:31](/bible/proverbs/3#v31)**  *[[36:33](https://www.youtube.com/watch?v=d9weOSjqU04&t=2193s)]*
 
 > <sup>[31](/bible/proverbs/3#v31)</sup> Envy thou not the oppressor, and choose none of his ways.
 
@@ -188,7 +190,7 @@ Reading from the pastor's Facebook post, read through  *[34:09]*
 
 - Even if you go with your child, for devil's advocate, you're still letting your child go to someone's door, trick or treat, and eat the candy of a person they don't know. Then in the same breath, don't talk to strangers. This is a cult mind. Something is wrong with you psychologically. It's diabolical.
 
-**[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[40:15]*
+**[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[[40:15](https://www.youtube.com/watch?v=d9weOSjqU04&t=2415s)]*
 
 > <sup>[28](/bible/deuteronomy/28#v28)</sup> The Lord shall smite thee with madness, and blindness, and astonishment of heart:
 
@@ -196,7 +198,7 @@ Reading from the pastor's Facebook post, read through  *[34:09]*
 
 - Is kidnapping a salvific issue? Is a poisoned child because of you a salvific issue? Is your child going missing, or getting his mouth cut up by a razor blade, a salvific issue? This is insanity. This is a sick mind.
 
-**[Colossians 2:8](/bible/colossians/2#v8)**  *[41:22]*
+**[Colossians 2:8](/bible/colossians/2#v8)**  *[[41:22](https://www.youtube.com/watch?v=d9weOSjqU04&t=2482s)]*
 
 > <sup>[8](/bible/colossians/2#v8)</sup> Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
@@ -208,7 +210,7 @@ Reading from the pastor's Facebook post, read through  *[34:09]*
 
 <div class="reading">
 
-Reading from a search result on Deuteronomy 28:28, the meaning of the trio of conditions  *[42:10]*
+Reading from a search result on Deuteronomy 28:28, the meaning of the trio of conditions  *[[42:10](https://www.youtube.com/watch?v=d9weOSjqU04&t=2530s)]*
 
 > The meaning of the trio of conditions: the verse lists three related mental and spiritual afflictions together. Madness: a frantic loss of sanity or emotional stability when facing overwhelming calamities. Blindness: a spiritual or mental inability to see truth, or understand reality.
 
@@ -218,7 +220,7 @@ Reading from a search result on Deuteronomy 28:28, the meaning of the trio of co
 
 </div>
 
-**[Exodus 20:17](/bible/exodus/20#v17)**  *[44:13]*
+**[Exodus 20:17](/bible/exodus/20#v17)**  *[[44:13](https://www.youtube.com/watch?v=d9weOSjqU04&t=2653s)]*
 
 > <sup>[17](/bible/exodus/20#v17)</sup> Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
 
@@ -228,7 +230,7 @@ Reading from a search result on Deuteronomy 28:28, the meaning of the trio of co
 
 - **Officer:** Then they turn it into competition too: I got more candy than you.
 
-**[Matthew 10:37](/bible/matthew/10#v37)**  *[45:05]*
+**[Matthew 10:37](/bible/matthew/10#v37)**  *[[45:05](https://www.youtube.com/watch?v=d9weOSjqU04&t=2705s)]*
 
 > <sup>[37](/bible/matthew/10#v37)</sup> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
 
@@ -240,7 +242,7 @@ Reading from a search result on Deuteronomy 28:28, the meaning of the trio of co
 
 - **Deacon Eythan:** Mischief Night. That sounds like it's of God. Mark mentions the wife; get Luke.
 
-**[Luke 14:26](/bible/luke/14#v26)**  *[46:55]*
+**[Luke 14:26](/bible/luke/14#v26)**  *[[46:55](https://www.youtube.com/watch?v=d9weOSjqU04&t=2815s)]*
 
 > <sup>[26](/bible/luke/14#v26)</sup> If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 
@@ -250,7 +252,7 @@ Reading from a search result on Deuteronomy 28:28, the meaning of the trio of co
 
 <div class="reading">
 
-Reading from a search result on Mischief Night  *[47:40]*
+Reading from a search result on Mischief Night  *[[47:40](https://www.youtube.com/watch?v=d9weOSjqU04&t=2860s)]*
 
 > Mischief Night is an informal observance held on October 30th, the night before Halloween, where children and teenagers engage in pranks and minor vandalism.
 
@@ -274,7 +276,7 @@ Reading from a search result on Mischief Night  *[47:40]*
 
 <div class="reading">
 
-Reading from the encyclopedia article on Halloween  *[49:44]*
+Reading from the encyclopedia article on Halloween  *[[49:44](https://www.youtube.com/watch?v=d9weOSjqU04&t=2984s)]*
 
 > Halloween, also known as All Hallows' Eve or All Saints' Eve.
 
@@ -292,7 +294,7 @@ Reading from the encyclopedia article on Halloween  *[49:44]*
 
 <div class="reading">
 
-Reading from a book on folklore from 1879, page 175, on Halloween  *[53:28]*
+Reading from a book on folklore from 1879, page 175, on Halloween  *[[53:28](https://www.youtube.com/watch?v=d9weOSjqU04&t=3208s)]*
 
 > The northern nations, like the Hebrews, began their day in the evening. Thus we have the Yule eve and Hallow eve, or Halloween, the evenings preceding the respective feasts. The name Halloween is of Christian origin, but the origin of the feast itself is hidden in ancient mythology.
 
@@ -314,7 +316,7 @@ Reading from a book on folklore from 1879, page 175, on Halloween  *[53:28]*
 
 <div class="reading">
 
-Reading from the search results on Baal Shamin and Halloween  *[55:05]*
+Reading from the search results on Baal Shamin and Halloween  *[[55:05](https://www.youtube.com/watch?v=d9weOSjqU04&t=3305s)]*
 
 > The term Baal Samhin primarily appears in historical and folklore texts regarding two distinct contexts: historical folk etymology linking ancient festivals to Middle Eastern deities, and the ancient Semitic sky god Baal Shamin. Folk etymology and Samhain, Halloween: in 18th and 19th century antiquarian literature, some writers attempted to connect Celtic culture with Phoenician or Hebrew origins. The claim: these early folklorists claimed that the ancient Hebrews and Phoenicians celebrated a festival called Baal Samhin, which they translated as meaning the principle of order. The Celtic connection: they used this to argue that the Celtic festival of Samhain, the precursor to modern Halloween, was structurally and linguistically derived from this Semitic Baal festival.
 
@@ -352,7 +354,7 @@ Reading from the search results on Baal Shamin and Halloween  *[55:05]*
 
 <div class="reading">
 
-Reading from the clip of Thanos in Avengers: Endgame, before the last fight  *[1:03:44]*
+Reading from the clip of Thanos in Avengers: Endgame, before the last fight  *[[1:03:44](https://www.youtube.com/watch?v=d9weOSjqU04&t=3824s)]*
 
 > I thought by eliminating half of life, the other half would thrive. But you've shown me that's impossible.
 
@@ -374,7 +376,7 @@ Reading from the clip of Thanos in Avengers: Endgame, before the last fight  *[1
 
 <div class="reading">
 
-Reading from a Bible dictionary entry on Beelzebub, shared to the group · read by an officer  *[1:06:37]*
+Reading from a Bible dictionary entry on Beelzebub, shared to the group · read by an officer  *[[1:06:37](https://www.youtube.com/watch?v=d9weOSjqU04&t=3997s)]*
 
 > Beelzebub signifies the god of flies. It was an idol of the Ekronites.
 
@@ -390,7 +392,7 @@ Reading from a Bible dictionary entry on Beelzebub, shared to the group · read 
 
 </div>
 
-**[1 Samuel 5:1-3](/bible/1-samuel/5#v1)**  *[1:08:06]*
+**[1 Samuel 5:1-3](/bible/1-samuel/5#v1)**  *[[1:08:06](https://www.youtube.com/watch?v=d9weOSjqU04&t=4086s)]*
 
 > <sup>[1](/bible/1-samuel/5#v1)</sup> And the Philistines took the ark of God, and brought it from Eben–ezer unto Ashdod.
 
@@ -404,7 +406,7 @@ Reading from a Bible dictionary entry on Beelzebub, shared to the group · read 
 
 - The Ekronites come in at the end of the chapter. But Beelzebub by name is in 2 Kings.
 
-**[2 Kings 1:16](/bible/2-kings/1#v16)**  *[1:09:10]*
+**[2 Kings 1:16](/bible/2-kings/1#v16)**  *[[1:09:10](https://www.youtube.com/watch?v=d9weOSjqU04&t=4150s)]*
 
 > <sup>[16](/bible/2-kings/1#v16)</sup> And he said unto him, Thus saith the Lord, Forasmuch as thou hast sent messengers to enquire of Baal–zebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.
 
@@ -416,7 +418,7 @@ Reading from a Bible dictionary entry on Beelzebub, shared to the group · read 
 
 <div class="reading">
 
-Reading from the encyclopedia article on Halloween, continued  *[1:09:57]*
+Reading from the encyclopedia article on Halloween, continued  *[[1:09:57](https://www.youtube.com/watch?v=d9weOSjqU04&t=4197s)]*
 
 > Halloween, also known as All Hallows' Eve or All Saints' Eve, is a celebration observed in many countries on 31st October, the eve of the Western Christian feast of All Hallows' Day. It is the beginning of the observance of Allhallowtide.
 
@@ -466,7 +468,7 @@ Reading from the encyclopedia article on Halloween, continued  *[1:09:57]*
 
 </div>
 
-**[Matthew 22:32](/bible/matthew/22#v32)**  *[1:16:06]*
+**[Matthew 22:32](/bible/matthew/22#v32)**  *[[1:16:06](https://www.youtube.com/watch?v=d9weOSjqU04&t=4566s)]*
 
 > <sup>[32](/bible/matthew/22#v32)</sup> I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
 
@@ -474,7 +476,7 @@ Reading from the encyclopedia article on Halloween, continued  *[1:09:57]*
 
 - They would dress as the dead to trick the dead during this time. That's where Halloween costumes come from. That's why they wear skeletons, makeup, all that: to trick the dead into believing they're dead too, so they won't bother them. This is madness.
 
-**[Deuteronomy 18:10-11](/bible/deuteronomy/18#v10)**  *[1:16:42]*
+**[Deuteronomy 18:10-11](/bible/deuteronomy/18#v10)**  *[[1:16:42](https://www.youtube.com/watch?v=d9weOSjqU04&t=4602s)]*
 
 > <sup>[10](/bible/deuteronomy/18#v10)</sup> There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch,
 
@@ -486,7 +488,7 @@ Reading from the encyclopedia article on Halloween, continued  *[1:09:57]*
 
 <div class="reading">
 
-Reading from the encyclopedia article on Halloween: candles for the dead  *[1:17:20]*
+Reading from the encyclopedia article on Halloween: candles for the dead  *[[1:17:20](https://www.youtube.com/watch?v=d9weOSjqU04&t=4640s)]*
 
 > In 19th-century Ireland, candles would be lit and prayers formally offered for the souls of the dead.
 
@@ -494,7 +496,7 @@ Reading from the encyclopedia article on Halloween: candles for the dead  *[1:17
 
 </div>
 
-**[Epistle of Jeremiah 1:19](/bible/epistle-of-jeremiah/1#v19)**  *[1:18:15]*
+**[Epistle of Jeremiah 1:19](/bible/epistle-of-jeremiah/1#v19)**  *[[1:18:15](https://www.youtube.com/watch?v=d9weOSjqU04&t=4695s)]*
 
 > <sup>[19](/bible/epistle-of-jeremiah/1#v19)</sup> They light them candles, yea, more than for themselves, whereof they cannot see one.
 
@@ -506,7 +508,7 @@ Reading from the encyclopedia article on Halloween: candles for the dead  *[1:17
 
 <div class="reading">
 
-Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
+Reading from the encyclopedia article on Halloween: the old customs  *[[1:18:56](https://www.youtube.com/watch?v=d9weOSjqU04&t=4736s)]*
 
 > In 19th-century Ireland, candles would be lit and prayers formally offered for the souls of the dead. After this the eating, drinking, and games would begin. Throughout Ireland and Britain, especially in the Celtic-speaking regions, the household festivities included divination rituals and games intended to foretell one's future, especially regarding death and marriage.
 
@@ -576,11 +578,11 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 </div>
 
-*[1:29:04]* The break: the song plays, Watch this witness, watch this vengeance, the kingdom is everlasting, Edom first on the list. Then the IUIC gang prevention message: brothers who turned away from that lifestyle, repented and came out of the gang life, coming to a neighborhood near you; if you're looking for help in your community with gang violence, get with us. Then the Booster Club reel from Papua New Guinea: the growth of the brothers there, wearing their fringes, on time every day at camp, handing out flyers and learning camp drills, the sisters supporting, holding post at the independence event. Brothers there who teach and go out and evangelize, an established congregation, and mission number 235, made possible by the contributions and faith of the Booster Club.
+*[[1:29:04](https://www.youtube.com/watch?v=d9weOSjqU04&t=5344s)]* The break: the song plays, Watch this witness, watch this vengeance, the kingdom is everlasting, Edom first on the list. Then the IUIC gang prevention message: brothers who turned away from that lifestyle, repented and came out of the gang life, coming to a neighborhood near you; if you're looking for help in your community with gang violence, get with us. Then the Booster Club reel from Papua New Guinea: the growth of the brothers there, wearing their fringes, on time every day at camp, handing out flyers and learning camp drills, the sisters supporting, holding post at the independence event. Brothers there who teach and go out and evangelize, an established congregation, and mission number 235, made possible by the contributions and faith of the Booster Club.
 
-*[1:35:48]* Back from the break. Salvific: give me 1 Corinthians 6:9.
+*[[1:35:48](https://www.youtube.com/watch?v=d9weOSjqU04&t=5748s)]* Back from the break. Salvific: give me 1 Corinthians 6:9.
 
-**[1 Corinthians 6:9-10](/bible/1-corinthians/6#v9)**  *[1:36:20]*
+**[1 Corinthians 6:9-10](/bible/1-corinthians/6#v9)**  *[[1:36:20](https://www.youtube.com/watch?v=d9weOSjqU04&t=5780s)]*
 
 > <sup>[9](/bible/1-corinthians/6#v9)</sup> Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
 
@@ -596,7 +598,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - This guy with a Bible, a Roman toga on, he don't know what the hell he is. Christianity, bro, is dangerous.
 
-**[Job 14:4](/bible/job/14#v4)**  *[1:37:01]*
+**[Job 14:4](/bible/job/14#v4)**  *[[1:37:01](https://www.youtube.com/watch?v=d9weOSjqU04&t=5821s)]*
 
 > <sup>[4](/bible/job/14#v4)</sup> Who can bring a clean thing out of an unclean? not one.
 
@@ -604,7 +606,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - You cannot bring something out of an unclean origin and have it be righteous. That's not how God operates. No one can do that. Not one.
 
-**[Romans 14:5-6](/bible/romans/14#v5)**  *[1:39:11]*
+**[Romans 14:5-6](/bible/romans/14#v5)**  *[[1:39:11](https://www.youtube.com/watch?v=d9weOSjqU04&t=5951s)]*
 
 > <sup>[5](/bible/romans/14#v5)</sup> One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind.
 
@@ -618,7 +620,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - If you ask them what esteem the day means, what regard the day means, they won't have a clue. They run here on purpose, because Romans 14 is hard to explain briefly. Romans 14:5 has nothing to do at all with Halloween, Christmas and New Year's. How a day is esteemed is Ezekiel 45:17.
 
-**[Ezekiel 45:17](/bible/ezekiel/45#v17)**  *[1:40:46]*
+**[Ezekiel 45:17](/bible/ezekiel/45#v17)**  *[[1:40:46](https://www.youtube.com/watch?v=d9weOSjqU04&t=6046s)]*
 
 > <sup>[17](/bible/ezekiel/45#v17)</sup> And it shall be the prince’s part to give burnt offerings, and meat offerings, and drink offerings, in the feasts, and in the new moons, and in the sabbaths, in all solemnities of the house of Israel: he shall prepare the sin offering, and the meat offering, and the burnt offering, and the peace offerings, to make reconciliation for the house of Israel.
 
@@ -626,7 +628,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - That's what Paul is talking about in Romans 14. That's how the days were regarded in Paul's time. It had nothing to do with idolatry. You guys are sacrificing: that candy is sacrificing to the devil. That's the gifts.
 
-*[1:42:05]* Romans 14:5 again, with that understanding:
+*[[1:42:05](https://www.youtube.com/watch?v=d9weOSjqU04&t=6125s)]* Romans 14:5 again, with that understanding:
 
 - One man esteems one day above another: how? By offering sacrifices on that day. Another esteems every day alike: one doesn't sacrifice at all, because he accepts Christ. When Paul wrote this letter the temple was still standing, so you had Israelites who accepted Christ but still esteemed the day by offering burnt offerings and drink offerings on those days.
 
@@ -636,17 +638,17 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - That's it in brief; there's more to it. But it has nothing to do with a custom rooted in paganism back in Europe, on the islands of the UK. Now give me their favorite scripture, Ephesians 2:8.
 
-*[1:45:16]* **Text:** Shalom, brothers. Happy Day of Atonement and Feast of Tabernacles. Was it also a pagan Halloween custom to put burning flesh in a jack-o'-lantern? I remember Bishop Nathanyel saying it on his early show, The Truth Shall Make You Free.
+*[[1:45:16](https://www.youtube.com/watch?v=d9weOSjqU04&t=6316s)]* **Text:** Shalom, brothers. Happy Day of Atonement and Feast of Tabernacles. Was it also a pagan Halloween custom to put burning flesh in a jack-o'-lantern? I remember Bishop Nathanyel saying it on his early show, The Truth Shall Make You Free.
 
 - **Deacon Eythan:** I forgot, but it's definitely sinful to do that, and a pagan custom, and there's nothing about that custom rooted in the Bible. Taking your child to a stranger's house in scary costumes, the jack-o'-lantern, it's all pagan. Ask these Christians where the jack-o'-lanterns come from, the costumes, going door to door asking for candy. They don't know, and they don't care. As long as they can do what's fun, what the world is doing, that's all that matters to them.
 
-**[Ephesians 2:8](/bible/ephesians/2#v8)**  *[1:46:27]*
+**[Ephesians 2:8](/bible/ephesians/2#v8)**  *[[1:46:27](https://www.youtube.com/watch?v=d9weOSjqU04&t=6387s)]*
 
 > <sup>[8](/bible/ephesians/2#v8)</sup> For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
 
 - By grace are you saved through faith, because under the Mosaic law there was no grace. Grace represents mercy. Under the Mosaic law, if you committed certain sins, you got death. Hold that: Acts 13:38-39. This will explain by grace are ye saved.
 
-**[Acts 13:38-39](/bible/acts/13#v38)**  *[1:46:52]*
+**[Acts 13:38-39](/bible/acts/13#v38)**  *[[1:46:52](https://www.youtube.com/watch?v=d9weOSjqU04&t=6412s)]*
 
 > <sup>[38](/bible/acts/13#v38)</sup> Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins:
 
@@ -658,7 +660,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - In the Mosaic law there were certain sins you could not atone for or receive justification for, like idolatry, like you guys are in now, homosexuality, witchcraft, violating the Sabbath, dishonoring your parents. You cannot atone through an animal for those things. You got immediate death. No mercy.
 
-**[Hebrews 10:28](/bible/hebrews/10#v28)**  *[1:48:15]*
+**[Hebrews 10:28](/bible/hebrews/10#v28)**  *[[1:48:15](https://www.youtube.com/watch?v=d9weOSjqU04&t=6495s)]*
 
 > <sup>[28](/bible/hebrews/10#v28)</sup> He that despised Moses’ law died without mercy under two or three witnesses:
 
@@ -666,7 +668,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - So by Christ, by his grace, his death, you are saved from sins you could not atone for under the Mosaic law, which required animal sacrificing. And that's how Israel would regard or esteem the day: by offering up sacrifices to the Lord. That's what Paul was talking about in Romans 14.
 
-**[Ephesians 2:8-10](/bible/ephesians/2#v8)**  *[1:49:31]*
+**[Ephesians 2:8-10](/bible/ephesians/2#v8)**  *[[1:49:31](https://www.youtube.com/watch?v=d9weOSjqU04&t=6571s)]*
 
 > <sup>[8](/bible/ephesians/2#v8)</sup> For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
 
@@ -684,7 +686,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - Y'all read verses 8 and 9 and skip 10. Go back to the poster: verse 10 is not there. Christians deliberately ignore verse 10. These Christians are real conniving. They're slick. So in Christ, God ordained us to walk in the good works he ordained before. What are those good works? Deuteronomy 6:17.
 
-**[Deuteronomy 6:17-18](/bible/deuteronomy/6#v17)**  *[1:52:57]*
+**[Deuteronomy 6:17-18](/bible/deuteronomy/6#v17)**  *[[1:52:57](https://www.youtube.com/watch?v=d9weOSjqU04&t=6777s)]*
 
 > <sup>[17](/bible/deuteronomy/6#v17)</sup> Ye shall diligently keep the commandments of the Lord your God, and his testimonies, and his statutes, which he hath commanded thee.
 
@@ -694,13 +696,13 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - You shall do that which is right and good. That's the works. Now Exodus 18:20.
 
-**[Exodus 18:20](/bible/exodus/18#v20)**  *[1:53:37]*
+**[Exodus 18:20](/bible/exodus/18#v20)**  *[[1:53:37](https://www.youtube.com/watch?v=d9weOSjqU04&t=6817s)]*
 
 > <sup>[20](/bible/exodus/18#v20)</sup> And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do.
 
 - The way wherein they must walk. That's Ephesians 2:10: walk. And the work that they must do. That's the works. Good works is the laws of God.
 
-**[Romans 7:12](/bible/romans/7#v12)**  *[1:54:16]*
+**[Romans 7:12](/bible/romans/7#v12)**  *[[1:54:16](https://www.youtube.com/watch?v=d9weOSjqU04&t=6856s)]*
 
 > <sup>[12](/bible/romans/7#v12)</sup> Wherefore the law is holy, and the commandment holy, and just, and good.
 
@@ -710,13 +712,13 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - That is the point. Christianity is a doctrine of lawlessness and unaccountability, and it promotes cognitive dissonance.
 
-**[2 Thessalonians 2:15](/bible/2-thessalonians/2#v15)**  *[1:56:10]*
+**[2 Thessalonians 2:15](/bible/2-thessalonians/2#v15)**  *[[1:56:10](https://www.youtube.com/watch?v=d9weOSjqU04&t=6970s)]*
 
 > <sup>[15](/bible/2-thessalonians/2#v15)</sup> Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.
 
 - Stand fast and hold, meaning keep, the traditions you have been taught, whether by word or our epistle. Not someone else's epistle; our epistle. Where in the words of the apostles, or their epistles, or Christ himself, do we find Halloween, Christmas, New Year's, Thanksgiving? It's not there.
 
-**[2 Thessalonians 3:6](/bible/2-thessalonians/3#v6)**  *[1:57:24]*
+**[2 Thessalonians 3:6](/bible/2-thessalonians/3#v6)**  *[[1:57:24](https://www.youtube.com/watch?v=d9weOSjqU04&t=7044s)]*
 
 > <sup>[6](/bible/2-thessalonians/3#v6)</sup> Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
 
@@ -724,7 +726,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - Romans 14 does not negate this. Romans 14 does not negate Colossians 2:8.
 
-**[2 Thessalonians 3:13-14](/bible/2-thessalonians/3#v13)**  *[1:58:16]*
+**[2 Thessalonians 3:13-14](/bible/2-thessalonians/3#v13)**  *[[1:58:16](https://www.youtube.com/watch?v=d9weOSjqU04&t=7096s)]*
 
 > <sup>[13](/bible/2-thessalonians/3#v13)</sup> But ye, brethren, be not weary in well doing.
 
@@ -738,7 +740,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - **Officer:** But master said I can celebrate it. And if I don't, my wife will beat me. I'm going to sleep on the couch.
 
-**[1 John 2:15-17](/bible/1-john/2#v15)**  *[2:00:27]*
+**[1 John 2:15-17](/bible/1-john/2#v15)**  *[[2:00:27](https://www.youtube.com/watch?v=d9weOSjqU04&t=7227s)]*
 
 > <sup>[15](/bible/1-john/2#v15)</sup> Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.
 
@@ -760,7 +762,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - **Deacon Eythan:** And that's not the white man's kingdom at all. He that does God's will abides forever. That is the problem with Christianity: they don't want Christ to return. They don't want the kingdom. They feel the kingdom is already here. Christ died, so we don't got to do nothing but sit around and do whatever the world ordains us to do traditionally. And that's not in the Bible. Christ got the Pharisees for the same exact thing.
 
-**[Matthew 15:4-6](/bible/matthew/15#v4)**  *[2:03:12]*
+**[Matthew 15:4-6](/bible/matthew/15#v4)**  *[[2:03:12](https://www.youtube.com/watch?v=d9weOSjqU04&t=7392s)]*
 
 > <sup>[4](/bible/matthew/15#v4)</sup> For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.
 
@@ -776,9 +778,9 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - Halloween teaches that the law of thou shalt have no other gods before me is done away with. Idolatry is done away with. When you celebrate these customs, you're teaching that the law of idolatry is done away with. Christianity teaches that the laws of God are no longer in effect because of tradition: I know the Bible says no other gods before me, and I shouldn't worship the dead because God's the God of the living, but Christ died, so I can do whatever I want.
 
-*[2:04:51]* Give me Jeremiah 7. I'm going to show you this ain't new. It wasn't called Christianity back then, but it's the same spirit back then as it is today. Show that guy and his words again.
+*[[2:04:51](https://www.youtube.com/watch?v=d9weOSjqU04&t=7491s)]* Give me Jeremiah 7. I'm going to show you this ain't new. It wasn't called Christianity back then, but it's the same spirit back then as it is today. Show that guy and his words again.
 
-**[Jeremiah 7:8-11](/bible/jeremiah/7#v8)**  *[2:05:37]*
+**[Jeremiah 7:8-11](/bible/jeremiah/7#v8)**  *[[2:05:37](https://www.youtube.com/watch?v=d9weOSjqU04&t=7537s)]*
 
 > <sup>[8](/bible/jeremiah/7#v8)</sup> Behold, ye trust in lying words, that cannot profit.
 
@@ -802,7 +804,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 - **Officer:** There was more on that, Matthew 15, all the way to 9.
 
-**[Matthew 15:7-9](/bible/matthew/15#v7)**  *[2:09:12]*
+**[Matthew 15:7-9](/bible/matthew/15#v7)**  *[[2:09:12](https://www.youtube.com/watch?v=d9weOSjqU04&t=7752s)]*
 
 > <sup>[7](/bible/matthew/15#v7)</sup> Ye hypocrites, well did Esaias prophesy of you, saying,
 >
@@ -824,7 +826,7 @@ Reading from the encyclopedia article on Halloween: the old customs  *[1:18:56]*
 
 <div class="reading">
 
-Reading from a news item on Jamal Bryant and church tithing  *[2:12:16]*
+Reading from a news item on Jamal Bryant and church tithing  *[[2:12:16](https://www.youtube.com/watch?v=d9weOSjqU04&t=7936s)]*
 
 > Reverend Jamal Bryant of the New Birth Missionary Baptist Church attributes a 12% to 14% drop in church tithing to corporate rollbacks on diversity, equity and inclusion, or DEI, initiatives that led to widespread job losses for black women.
 
@@ -834,7 +836,7 @@ Reading from a news item on Jamal Bryant and church tithing  *[2:12:16]*
 
 </div>
 
-**[Jeremiah 17:9](/bible/jeremiah/17#v9)**  *[2:13:17]*
+**[Jeremiah 17:9](/bible/jeremiah/17#v9)**  *[[2:13:17](https://www.youtube.com/watch?v=d9weOSjqU04&t=7997s)]*
 
 > <sup>[9](/bible/jeremiah/17#v9)</sup> The heart is deceitful above all things, and desperately wicked: who can know it?
 
@@ -848,7 +850,7 @@ Reading from a news item on Jamal Bryant and church tithing  *[2:12:16]*
 
 - **Deacon Eythan:** That's Jeremiah 44. Our men know what we're doing, but we got cakes, so they ain't going to say nothing. At the end of the day, this whole custom is rooted in feelings and emotions, and men who follow Christianity acquire the mind of the woman too, and go off of feelings and create excuses. This whole post on the screen, and the two pathetic scriptures he pulled, is this right here: Sirach 32:17.
 
-**[Sirach 32:17](/bible/sirach/32#v17)**  *[2:17:16]*
+**[Sirach 32:17](/bible/sirach/32#v17)**  *[[2:17:16](https://www.youtube.com/watch?v=d9weOSjqU04&t=8236s)]*
 
 > <sup>[17](/bible/sirach/32#v17)</sup> A sinful man will not be reproved, but findeth an excuse according to his will.
 
@@ -862,23 +864,23 @@ Reading from a news item on Jamal Bryant and church tithing  *[2:12:16]*
 
 ## In Closing
 
-*[2:18:57]* So I'm going to end it right there. This is the Halloween edition. Just call it that, because we didn't go over no history about nothing except this Halloween. Watch it, share it with your friends and family.
+*[[2:18:57](https://www.youtube.com/watch?v=d9weOSjqU04&t=8337s)]* So I'm going to end it right there. This is the Halloween edition. Just call it that, because we didn't go over no history about nothing except this Halloween. Watch it, share it with your friends and family.
 
-*[2:19:25]* **Officer:** As Deacon said, share this with your friends and family, and definitely teach your children, those that are growing and understand this.
+*[[2:19:25](https://www.youtube.com/watch?v=d9weOSjqU04&t=8365s)]* **Officer:** As Deacon said, share this with your friends and family, and definitely teach your children, those that are growing and understand this.
 
 - **Deacon Eythan:** Teach your children the Day of Atonement. That's a holiday you should be observing, a holiday you find in the Bible, that Paul and them were keeping. Other stuff that's not according to the word of God should not be observed at all, Romans 14 or Ephesians 2:8-9 or not, with the convenient omission of verse 10. If you don't know about atonement, there are plenty of classes on our YouTube page concerning it, so tune in, learn the history, and learn what we are to do.
 
 - **Deacon Eythan:** Nebuchadnezzar's dream: I'm glad you're still keeping current with it. I'm not going to reach that point yet. Soon. Keep asking.
 
-*[2:23:34]* Enjoy our Day of Atonement. We'll see y'all again in a few weeks, because Tabernacles is rolling up next week. Enjoy the feast days, the true holidays of God. I don't want to hear nothing about you guys eating that candy. Don't eat no candy, and don't answer the door. All praise to the Most High. Shalom. Christ bless.
+*[[2:23:34](https://www.youtube.com/watch?v=d9weOSjqU04&t=8614s)]* Enjoy our Day of Atonement. We'll see y'all again in a few weeks, because Tabernacles is rolling up next week. Enjoy the feast days, the true holidays of God. I don't want to hear nothing about you guys eating that candy. Don't eat no candy, and don't answer the door. All praise to the Most High. Shalom. Christ bless.
 
 ## Announcements & References
 
-*[2:20:37]* Subscribe to Our Hidden History, and to IUIC Philadelphia, IUIC Philadelphia in the ClassRoom. Donate to OHH on PayPal at iuic.philadelphia@israelunite.org, and to the Booster Club on PayPal at iuic.pfundraising@israelunite.org. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC; you will also find many classes there on the Day of Atonement and the feast days.
+*[[2:20:37](https://www.youtube.com/watch?v=d9weOSjqU04&t=8437s)]* Subscribe to Our Hidden History, and to IUIC Philadelphia, IUIC Philadelphia in the ClassRoom. Donate to OHH on PayPal at iuic.philadelphia@israelunite.org, and to the Booster Club on PayPal at iuic.pfundraising@israelunite.org. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC; you will also find many classes there on the Day of Atonement and the feast days.
 
-*[2:21:08]* Missing persons: Benjamin and Franklin Gibson, two young brothers, African-American males, ages unknown, black hair, brown eyes, last seen September 29, 2026, missing from the 7200 block of Oregon Avenue; they may be in the area. Kids are missing, and it's near Halloween. This is the month for this type of stuff. Help us find our young brothers, and watch your children.
+*[[2:21:08](https://www.youtube.com/watch?v=d9weOSjqU04&t=8468s)]* Missing persons: Benjamin and Franklin Gibson, two young brothers, African-American males, ages unknown, black hair, brown eyes, last seen September 29, 2026, missing from the 7200 block of Oregon Avenue; they may be in the area. Kids are missing, and it's near Halloween. This is the month for this type of stuff. Help us find our young brothers, and watch your children.
 
-*[2:22:42]* The land fund: donate at iuic.nationhood@israelunite.org and in the notes section put land. It's heavily needed. And we're seeking your assistance to enhance our national broadcast: spare a minute to provide feedback by answering five brief questions. Scan the QR code.
+*[[2:22:42](https://www.youtube.com/watch?v=d9weOSjqU04&t=8562s)]* The land fund: donate at iuic.nationhood@israelunite.org and in the notes section put land. It's heavily needed. And we're seeking your assistance to enhance our national broadcast: spare a minute to provide feedback by answering five brief questions. Scan the QR code.
 
 Text or call the show at 267-262-6121.
 

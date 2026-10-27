@@ -5,10 +5,12 @@ date: "2026-09-13"
 episode: 207
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-09-13 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History"]
+tags: ["Our Hidden History", "captivity", "nations", "reparations"]
 ---
 
 <p class="taught">Our Hidden History · 2026-09-13 · Deacon Eythan, with the officers of IUIC Philadelphia</p>
+
+<span class="opens"><b>Opens</b> [Isa 30](/bible/isaiah/30) · [Matt 2](/bible/matthew/2) · [Luke 21](/bible/luke/21) · [2 Kgs 25](/bible/2-kings/25) · [Deut 28](/bible/deuteronomy/28) · [Dan 8](/bible/daniel/8) · [1 Macc 1](/bible/1-maccabees/1) · [Gen 15](/bible/genesis/15) · [Exod 12](/bible/exodus/12) · [Mal 1](/bible/malachi/1) · [Job 20](/bible/job/20) · [Wis 18](/bible/wisdom-of-solomon/18) · [Matt 17](/bible/matthew/17) · [Baruch 3](/bible/baruch/3) · [Isa 60](/bible/isaiah/60) · [Ps 58](/bible/psalms/58) · <i>and 3 more below</i></span>
 
 <!-- truncate -->
 
@@ -16,17 +18,17 @@ tags: ["Our Hidden History"]
 
 ## Introduction
 
-*[16:32]* We're back. Sorry for the delay. You are now tuned into Our Hidden History radio show. Last time we touched on Daniel. But today we're going to sidebar first, like Bishop does his classes: he'll go into some stuff first, then go into the topic. So look up the FBA.
+*[[16:32](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=992s)]* We're back. Sorry for the delay. You are now tuned into Our Hidden History radio show. Last time we touched on Daniel. But today we're going to sidebar first, like Bishop does his classes: he'll go into some stuff first, then go into the topic. So look up the FBA.
 
-*[17:32]* I did a noon class on it. It's called Foundational Babylonian Advocates. That's what it's called. I was going into how the movement itself is shady, because it's an attack primarily on our brothers of the continent, or our brothers from the Caribbean. Recently Jamaica was denied reparations. The British told Jamaica, no, you're not getting anything. And unlike us, white folks have conversations behind closed doors, behind the cameras. So if one group of them is saying no, more than likely all of them are going to say no.
+*[[17:32](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=1052s)]* I did a noon class on it. It's called Foundational Babylonian Advocates. That's what it's called. I was going into how the movement itself is shady, because it's an attack primarily on our brothers of the continent, or our brothers from the Caribbean. Recently Jamaica was denied reparations. The British told Jamaica, no, you're not getting anything. And unlike us, white folks have conversations behind closed doors, behind the cameras. So if one group of them is saying no, more than likely all of them are going to say no.
 
-*[18:34]* There's a brother, a Levite brother, his last name is Dessalines. He's not in the truth, but he has a YouTube channel and does little articles, and he's been going at this whole FBA movement and presenting really good talking points against it. He showed how the UK told the Jamaicans, listen, we're not giving you no money; and then it turns out the UK was funding the terrorist groups that have been plaguing Africa. And he said the problem with black folks is that black folks are asking for reparations, and reparations is not a request. Reparations is a demand. And you cannot make a demand without consequences to follow if those demands are not met. You don't know your enemy. Your enemy does not operate on empathy. He doesn't care how you feel, he doesn't care about what you feel you deserve. If you have no consequence behind your demand, you will get nothing. That was his point.
+*[[18:34](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=1114s)]* There's a brother, a Levite brother, his last name is Dessalines. He's not in the truth, but he has a YouTube channel and does little articles, and he's been going at this whole FBA movement and presenting really good talking points against it. He showed how the UK told the Jamaicans, listen, we're not giving you no money; and then it turns out the UK was funding the terrorist groups that have been plaguing Africa. And he said the problem with black folks is that black folks are asking for reparations, and reparations is not a request. Reparations is a demand. And you cannot make a demand without consequences to follow if those demands are not met. You don't know your enemy. Your enemy does not operate on empathy. He doesn't care how you feel, he doesn't care about what you feel you deserve. If you have no consequence behind your demand, you will get nothing. That was his point.
 
 ## Readings and Scriptures
 
 <div class="reading">
 
-Reading from an article on the UK and Jamaica, read off the screen  *[20:35]*
+Reading from an article on the UK and Jamaica, read off the screen  *[[20:35](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=1235s)]*
 
 > UK government refuses slavery reparations as Jamaica urges King to act.
 
@@ -38,7 +40,7 @@ Reading from an article on the UK and Jamaica, read off the screen  *[20:35]*
 
 </div>
 
-*[21:45]* The background to the movement, before going on.
+*[[21:45](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=1305s)]* The background to the movement, before going on.
 
 - **Officer Jazz:** Just to give a little background on the foundational black American, the whole movement. The group, I think, is by, what's his name?
 
@@ -48,7 +50,7 @@ Reading from an article on the UK and Jamaica, read off the screen  *[20:35]*
 
 - He was saying our organization is somewhat pan-Africanist, and that's true. Christ was pan-Africanist, because the land of Israel was and is part of Africa, regardless of what canal they put between it. It was the same landmass. The book I bought last week shows a map of the land of Israel, and it shows Israel and Egypt connected, damn near the same landmass, and it says in the book that Palestine is the bridge between Asia and Africa. So Christ was a pan-Africanist, because his land was part of Africa, and our people fled further inland into the continent of Africa during the persecutions of the captivities we underwent in the Bible: Assyria first, Babylon, Greece, Rome.
 
-**[Isaiah 30:1-2](/bible/isaiah/30#v1)**  *[26:03]*
+**[Isaiah 30:1-2](/bible/isaiah/30#v1)**  *[[26:03](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=1563s)]*
 
 > <sup>[1](/bible/isaiah/30#v1)</sup> Woe to the rebellious children, saith the Lord, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
 
@@ -60,15 +62,15 @@ Reading from an article on the UK and Jamaica, read off the screen  *[20:35]*
 
 - The book I have, I believe it's *Description of Africa* by Leo Africanus, volume one or two, mentions that Egypt was our second home. Especially after Rome, after 70 AD, the siege.
 
-*[27:20]* This is a segue, and I'm going to try to tie this into the class; I may or may not. But put a forward slash in the title and put FBA. I had a strong animosity for the movement at first, and I still do, but I understand why, because we are so destroyed as a people and so divided. When I hear black folks use talking points of white nationalists, these immigrants took our jobs, like South Park, they took our jobs, that's what they sound like to me. So I did some research this morning. Any black person that speaks ill of Mexican, quote unquote, immigrants and you live in California, Nevada, Utah, Arizona, New Mexico, Texas, part of Colorado, part of Wyoming, part of Kansas or part of Oklahoma: that's all Aztec land. Those are all former Aztec lands. The entire California, Nevada, Utah, Arizona, New Mexico and Texas belonged to the Aztecs, from which the Mexicans today are descended. So there's no way anyone who's so-called Mexican that runs to these lands is illegal at all, because this is literally their ancestral land. During the Mexican-American War the land was conquered and parted among Europeans. So any so-called Mexican that flees from the authorities into these lands, and you say they're illegal, you are heavily misinformed. They were here before we got here. They are our brothers. They're the children of Israel. Well, this land was given to our people as a whole.
+*[[27:20](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=1640s)]* This is a segue, and I'm going to try to tie this into the class; I may or may not. But put a forward slash in the title and put FBA. I had a strong animosity for the movement at first, and I still do, but I understand why, because we are so destroyed as a people and so divided. When I hear black folks use talking points of white nationalists, these immigrants took our jobs, like South Park, they took our jobs, that's what they sound like to me. So I did some research this morning. Any black person that speaks ill of Mexican, quote unquote, immigrants and you live in California, Nevada, Utah, Arizona, New Mexico, Texas, part of Colorado, part of Wyoming, part of Kansas or part of Oklahoma: that's all Aztec land. Those are all former Aztec lands. The entire California, Nevada, Utah, Arizona, New Mexico and Texas belonged to the Aztecs, from which the Mexicans today are descended. So there's no way anyone who's so-called Mexican that runs to these lands is illegal at all, because this is literally their ancestral land. During the Mexican-American War the land was conquered and parted among Europeans. So any so-called Mexican that flees from the authorities into these lands, and you say they're illegal, you are heavily misinformed. They were here before we got here. They are our brothers. They're the children of Israel. Well, this land was given to our people as a whole.
 
-**[Matthew 2:13](/bible/matthew/2#v13)**  *[30:20]*
+**[Matthew 2:13](/bible/matthew/2#v13)**  *[[30:20](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=1820s)]*
 
 > <sup>[13](/bible/matthew/2#v13)</sup> And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
 
 - The Lord told Joseph and Mary to take their young child, Christ, at this time a toddler, and flee into Egypt, because Herod sought to destroy him, to kill him. And again, Isaiah 30 said walk there. Israel and Egypt are walking distance. You can walk there. It's the same landmass.
 
-**[Luke 21:20-24](/bible/luke/21#v20)**  *[31:53]*
+**[Luke 21:20-24](/bible/luke/21#v20)**  *[[31:53](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=1913s)]*
 
 > <sup>[20](/bible/luke/21#v20)</sup> And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
 
@@ -102,7 +104,7 @@ Reading from an article on the UK and Jamaica, read off the screen  *[20:35]*
 
 <div class="reading">
 
-Reading from a book on the Israelites in West Africa, volume three, read off the screen  *[38:56]*
+Reading from a book on the Israelites in West Africa, volume three, read off the screen  *[[38:56](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=2336s)]*
 
 > History has recorded the date and cause of the Israelites' immigration into West Africa after the destruction of Jerusalem.
 
@@ -116,11 +118,11 @@ Reading from a book on the Israelites in West Africa, volume three, read off the
 
 </div>
 
-*[39:44]* Since we're on the topic: it's going to be all over the place today. Look up the book by Tudor Parfitt, *Black Jews in Africa and the Americas*, page 115. Ghanaians are immigrants. I'm telling you, you Negroes don't know nothing. There was the Anglo-Ashanti war, the British fighting against the Ashanti. The Europeans were colonizing Africa: the Germans colonized Namibia, the Portuguese colonized Congo and parts like Cape Verde, the Spanish colonized certain parts. And Britain came across Ashanti, which is Ghana, which is also referred to as the Gold Coast. They had a king. His name is King Prempeh, P R E M P E H. There's a brother in our organization whose grandmother, I think, is a descendant of that king. So King Prempeh the First was warring back and forth with the British. He was uncooperative. And they did to him what Babylon did to Jehoiachin. They dethroned him and took him over to Babylon. He got thrown in the Seychelles Islands, S E Y C H E L L E S. Him, his wives, his nobles, all got shipped over there for years; it was like a plantation over there. He was a Ghanaian king. They did to him what they did to Maduro in Venezuela. They removed him. They said, when you come back we're going to let you go, but you will not be king. You'll be a leader, but not a king. He comes back home and dies a few years later. And then Prempeh the Second takes over, and the British say, now you can be king. So at this point, a puppet king; someone more cooperative.
+*[[39:44](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=2384s)]* Since we're on the topic: it's going to be all over the place today. Look up the book by Tudor Parfitt, *Black Jews in Africa and the Americas*, page 115. Ghanaians are immigrants. I'm telling you, you Negroes don't know nothing. There was the Anglo-Ashanti war, the British fighting against the Ashanti. The Europeans were colonizing Africa: the Germans colonized Namibia, the Portuguese colonized Congo and parts like Cape Verde, the Spanish colonized certain parts. And Britain came across Ashanti, which is Ghana, which is also referred to as the Gold Coast. They had a king. His name is King Prempeh, P R E M P E H. There's a brother in our organization whose grandmother, I think, is a descendant of that king. So King Prempeh the First was warring back and forth with the British. He was uncooperative. And they did to him what Babylon did to Jehoiachin. They dethroned him and took him over to Babylon. He got thrown in the Seychelles Islands, S E Y C H E L L E S. Him, his wives, his nobles, all got shipped over there for years; it was like a plantation over there. He was a Ghanaian king. They did to him what they did to Maduro in Venezuela. They removed him. They said, when you come back we're going to let you go, but you will not be king. You'll be a leader, but not a king. He comes back home and dies a few years later. And then Prempeh the Second takes over, and the British say, now you can be king. So at this point, a puppet king; someone more cooperative.
 
 <div class="reading">
 
-Reading from the encyclopedia entries on Prempeh I and Prempeh II, read off the screen  *[43:59]*
+Reading from the encyclopedia entries on Prempeh I and Prempeh II, read off the screen  *[[43:59](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=2639s)]*
 
 > Prempeh I was the 13th king of the Ashanti Empire and the Oyoko Abohyen dynasty. King Prempeh I ruled from March 26, 1888 until his death in 1931, and fought an Ashanti war against Britain in 1895 and 1896.
 
@@ -158,11 +160,11 @@ Reading from the encyclopedia entries on Prempeh I and Prempeh II, read off the 
 
 </div>
 
-*[50:55]* So they were asking the king about the history of the Ashanti. Here you have a man named J. J. Williams, *Hebrewisms of West Africa*. He was a racist, but he has some facts in his book. And this author cites from him. Start from the top of the page, under British rule.
+*[[50:55](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=3055s)]* So they were asking the king about the history of the Ashanti. Here you have a man named J. J. Williams, *Hebrewisms of West Africa*. He was a racist, but he has some facts in his book. And this author cites from him. Start from the top of the page, under British rule.
 
 <div class="reading">
 
-Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115, on the history of the Ashanti compiled for the Asantehene  *[51:30]*
+Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115, on the history of the Ashanti compiled for the Asantehene  *[[51:30](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=3090s)]*
 
 > Under British rule, the office of the hereditary monarch of the Ashanti, the Asantehene, was left unoccupied from 1896 to 1935.
 
@@ -226,7 +228,7 @@ Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115,
 
 </div>
 
-*[1:00:35]* The map comes up: *A map showing the discoveries and improvements in the geography of Western Africa, resulting from the Mission to Ashantee, Bowdich, conductor, 1817.* These maps were not made for Negroes to look at and read.
+*[[1:00:35](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=3635s)]* The map comes up: *A map showing the discoveries and improvements in the geography of Western Africa, resulting from the Mission to Ashantee, Bowdich, conductor, 1817.* These maps were not made for Negroes to look at and read.
 
 - Yahoodi: that's Judah. We always stayed along the river, because that's where we can eat. We always stayed by water so we can have fresh water and food and grow our crops: the Niger River, the Nile. Timbuktu is right there. And Gamba, right underneath your Yahoodi: that's Judah right there too, their homie right next door. And Whydah, Ouidah, Fida, in Benin: that's Judah. Who's right next door? It's the same people living in the same landmass. That's all us. Negroland. That's what this is. Negroland, or Ibo land, or Hebrew land. Guinea. Gold Coast: that's Ghana, that's Ashanti there. Slave Coast: Benin.
 
@@ -240,7 +242,7 @@ Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115,
 
 <div class="reading">
 
-Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115, continued  *[1:07:52]*
+Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115, continued  *[[1:07:52](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=4072s)]*
 
 > Williams's book, which found in the language and customs of the Ashanti specific traces of ancient Israel,
 
@@ -284,7 +286,7 @@ Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115,
 
 </div>
 
-**[2 Kings 25:6-12](/bible/2-kings/25#v6)**  *[1:13:30]*
+**[2 Kings 25:6-12](/bible/2-kings/25#v6)**  *[[1:13:30](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=4410s)]*
 
 > <sup>[6](/bible/2-kings/25#v6)</sup> So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.
 
@@ -308,7 +310,7 @@ Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115,
 
 - So not all of Israel was taken out of Jerusalem. Some of them were left behind, and poor. The Gold Coast is a gold coast, and Ghana is poor. Ghana is rich, but the people are poor there. Likewise in Jerusalem: they didn't take all of Israel out. Some of them were left behind and were made vinedressers and poor and husbandmen, farmers. In Ghana, what do they do? They farm. They're farmers there. It's the same thing.
 
-**[Deuteronomy 28:33](/bible/deuteronomy/28#v33)**  *[1:16:24]*
+**[Deuteronomy 28:33](/bible/deuteronomy/28#v33)**  *[[1:16:24](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=4584s)]*
 
 > <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
 
@@ -324,11 +326,11 @@ Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115,
 
 - They're showing Garvey, they're showing Fred Hampton, Kwame Ture, aka Stokely Carmichael, who was Caribbean by the way. Marcus Garvey: I guess y'all would call him a tether, an immigrant.
 
-*[1:20:17]* The break. We went over time. My mind is racing; hopefully when we come back I'll be more focused and get to the lesson and tie it back. During the break the reel plays from the Cincinnati Black Family Reunion: we hit the hood, teaching God's people who they are; brothers listening, sisters listening. Wake up from your sleep. And the clip of the brother answering the man who calls himself Superman: the one whom I serve is the creator of this world, of the heavens above it, and of the universe in which you stand. You stand within his creation, not your own. You are no one's savior.
+*[[1:20:17](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=4817s)]* The break. We went over time. My mind is racing; hopefully when we come back I'll be more focused and get to the lesson and tie it back. During the break the reel plays from the Cincinnati Black Family Reunion: we hit the hood, teaching God's people who they are; brothers listening, sisters listening. Wake up from your sleep. And the clip of the brother answering the man who calls himself Superman: the one whom I serve is the creator of this world, of the heavens above it, and of the universe in which you stand. You stand within his creation, not your own. You are no one's savior.
 
-*[1:28:17]* We're back from the break. So we touched on King Prempeh and the Gold Coast.
+*[[1:28:17](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=5297s)]* We're back from the break. So we touched on King Prempeh and the Gold Coast.
 
-**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[1:28:43]*
+**[Deuteronomy 28:36](/bible/deuteronomy/28#v36)**  *[[1:28:43](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=5323s)]*
 
 > <sup>[36](/bible/deuteronomy/28#v36)</sup> The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.
 
@@ -336,9 +338,9 @@ Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115,
 
 - King John Aggery of Cape Coast, King of Cape Coast in 1865, became one of the first 19th-century monarchs to challenge the British. Nana Badu Bonsu. King Tacky. Kings taken captive with us, in chains. They were more resistant too, because they came from royalty. So that's all history fulfilled. Them being taken captive and brought in ships: history fulfilled. History is prophecy, fulfilled or yet to be fulfilled.
 
-*[1:30:19]* So let's go to Daniel now. We left off from Daniel 8.
+*[[1:30:19](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=5419s)]* So let's go to Daniel now. We left off from Daniel 8.
 
-**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[1:30:34]*
+**[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[1:30:34](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=5434s)]*
 
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 
@@ -358,7 +360,7 @@ Reading from *Black Jews in Africa and the Americas* by Tudor Parfitt, page 115,
 
 <div class="reading">
 
-Reading from the clip of President Trump on reparations  *[1:32:41]*
+Reading from the clip of President Trump on reparations  *[[1:32:41](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=5561s)]*
 
 > They want to steal your money for reparations. They want to basically punish you for crimes that you never committed, that happened hundreds of years ago. And our country doesn't have that kind of money.
 
@@ -370,7 +372,7 @@ Reading from the clip of President Trump on reparations  *[1:32:41]*
 
 </div>
 
-*[1:36:20]* One of your pioneers made a comment: you guys are Israelites, so why don't you go back to Israel? Let's go on that path. In Chicago a brother named Ben Ammi took a group of Israelites, American Negroes, and they went to Israel. They were given land there, placed near Dimona, a nuclear research center. If Iran had dropped a bomb in that area, it would destroy that whole area, and the Dimona Israelites would be killed. When Iran was dropping bombs on Israel, it hurt us over there; brothers got hurt, maimed, lost limbs. Why do they live near a nuclear research center? Who put them there? The same white supremacist government that rules here. Trump answers to the same people that live in the land you want me to return to. The same people that have their hand up Trump's back telling him what to do are from Israel, and they're the reason why you ain't getting no money. They're behind the IMF, the World Bank, the currency, the media, the music that destroys our people, the commercials, TV, Disney, Marvel, even porn. So to tell me to leave America and go to Israel: if I leave America and go to Israel, I'm still in America, because America gives them all their weapons, their technology. Israel is the America of the Eastern Hemisphere.
+*[[1:36:20](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=5780s)]* One of your pioneers made a comment: you guys are Israelites, so why don't you go back to Israel? Let's go on that path. In Chicago a brother named Ben Ammi took a group of Israelites, American Negroes, and they went to Israel. They were given land there, placed near Dimona, a nuclear research center. If Iran had dropped a bomb in that area, it would destroy that whole area, and the Dimona Israelites would be killed. When Iran was dropping bombs on Israel, it hurt us over there; brothers got hurt, maimed, lost limbs. Why do they live near a nuclear research center? Who put them there? The same white supremacist government that rules here. Trump answers to the same people that live in the land you want me to return to. The same people that have their hand up Trump's back telling him what to do are from Israel, and they're the reason why you ain't getting no money. They're behind the IMF, the World Bank, the currency, the media, the music that destroys our people, the commercials, TV, Disney, Marvel, even porn. So to tell me to leave America and go to Israel: if I leave America and go to Israel, I'm still in America, because America gives them all their weapons, their technology. Israel is the America of the Eastern Hemisphere.
 
 - Almost all the most known presidents wore a yarmulke when they got in office. Biden had one on. Barack Obama, your black Moses that passed the gay laws, that didn't do nothing for black people, had one on his head. Trump, Clinton, Bush, Reagan. All of that right there are signs of allegiance. When you put that cap on, that's a sign that you are in allegiance to those people. They have a paper trail on everybody. That's why Trump said, I'm going to reveal the Epstein files; as soon as his name came up, what Epstein files? So to tell me to leave a white-supremacist-run country to go to another is asinine and disingenuous. The only way we can return to that land is when the Most High God removes the Edomite European power structure out of existence. Ain't no voting going to change this. No eloquent speeches are going to move the heartstrings of the devil himself on earth to give you money.
 
@@ -380,7 +382,7 @@ Reading from the clip of President Trump on reparations  *[1:32:41]*
 
 - **Deacon Eythan:** You're going to go to a Negro that was put in his political seat by the very man that wants to keep you at the bottom, and expect that black man to look out for you at the cost of his own financial gain? I'm making seven figures, but for the sake of my people I'm going to give them reparations and lose my job? He ain't losing his job for you.
 
-**[1 Maccabees 1:11-13](/bible/1-maccabees/1#v11)**  *[1:44:25]*
+**[1 Maccabees 1:11-13](/bible/1-maccabees/1#v11)**  *[[1:44:25](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=6265s)]*
 
 > <sup>[11](/bible/1-maccabees/1#v11)</sup> In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow.
 >
@@ -390,9 +392,9 @@ Reading from the clip of President Trump on reparations  *[1:32:41]*
 
 - Going to the heathen for help: a covenant with the heathen round about us.
 
-*[1:44:48]* Now give me Genesis 15:13. I know y'all keep pulling this scripture. I'm not insulting you. I just hope this scripture is not being used to substantiate that we're going to get money leaving America. It's never going to happen.
+*[[1:44:48](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=6288s)]* Now give me Genesis 15:13. I know y'all keep pulling this scripture. I'm not insulting you. I just hope this scripture is not being used to substantiate that we're going to get money leaving America. It's never going to happen.
 
-**[Genesis 15:13-14](/bible/genesis/15#v13)**  *[1:45:10]*
+**[Genesis 15:13-14](/bible/genesis/15#v13)**  *[[1:45:10](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=6310s)]*
 
 > <sup>[13](/bible/genesis/15#v13)</sup> And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
 
@@ -408,7 +410,7 @@ Reading from the clip of President Trump on reparations  *[1:32:41]*
 
 - This is talking about Egypt, not America. Where do y'all think the Most High is going to grab the mint trucks and bring them with us into the wilderness? We're going to spend the white man's currency in the wilderness? You know the dollar is useless, right? This paper isn't backed by anything. What substance are you talking about when y'all pull this scripture? There's Edomites walking around that can end world hunger. One Rothschild alone can end world hunger, easy. So how is it y'all think we're going to leave out of America with great substance? Substance from who? Who we robbing?
 
-**[Exodus 12:35-36](/bible/exodus/12#v35)**  *[1:48:01]*
+**[Exodus 12:35-36](/bible/exodus/12#v35)**  *[[1:48:01](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=6481s)]*
 
 > <sup>[35](/bible/exodus/12#v35)</sup> And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:
 
@@ -426,9 +428,9 @@ Reading from the clip of President Trump on reparations  *[1:32:41]*
 
 - **Deacon Eythan:** Our face is not even on the money. One said, when will the fire come, and before that, we need the money. What's his plan for the money? He'll buy a fire extinguisher. And the money itself has the same allegiance with Israel; it's got the six-pointed star. I'm not saying black people will reject the money Esau gives us. But you're not getting reparations at all, because you have no leverage. Just by you expecting the white man to give it to you goes to show y'all don't know who you're dealing with. You think this man is humane? These same people hung us from trees, threw us overboard from boats, knelt on our necks in front of the public. He killed a school of little girls in Iran. He bombed Gaza to hell to remove the Palestinians out the land, killed hundreds of thousands. And you think this man, that's not afraid to destroy and kill children, is going to turn around and give you money?
 
-*[1:53:57]* Let me show you what the Bible says, just in case y'all think this man is something other than what the Bible says he is.
+*[[1:53:57](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=6837s)]* Let me show you what the Bible says, just in case y'all think this man is something other than what the Bible says he is.
 
-**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[1:54:09]*
+**[Malachi 1:1-4](/bible/malachi/1#v1)**  *[[1:54:09](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=6849s)]*
 
 > <sup>[1](/bible/malachi/1#v1)</sup> The burden of the word of the Lord to Israel by Malachi.
 >
@@ -448,7 +450,7 @@ Reading from the clip of President Trump on reparations  *[1:32:41]*
 
 - Now I'm going to show you reparations in the Bible. You believe in what you feel; we believe in the Bible. If you're an Israelite and you know who you are according to the Bible, then you know that this man is the devil the Bible speaks of, and there's no way he's giving you anything. God has to take it from him and give it to you.
 
-**[Job 20:4-11](/bible/job/20#v4)**  *[1:57:38]*
+**[Job 20:4-11](/bible/job/20#v4)**  *[[1:57:38](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=7058s)]*
 
 > <sup>[4](/bible/job/20#v4)</sup> Knowest thou not this of old, since man was placed upon earth,
 >
@@ -484,7 +486,7 @@ Reading from the clip of President Trump on reparations  *[1:32:41]*
 
 <div class="reading">
 
-Reading from the clip of Trump and a Puerto Rican woman  *[2:00:23]*
+Reading from the clip of Trump and a Puerto Rican woman  *[[2:00:23](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=7223s)]*
 
 > We don't like. We hate you.
 
@@ -510,7 +512,7 @@ Reading from the clip of Trump and a Puerto Rican woman  *[2:00:23]*
 
 </div>
 
-**[Job 20:11-24](/bible/job/20#v11)**  *[2:02:41]*
+**[Job 20:11-24](/bible/job/20#v11)**  *[[2:02:41](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=7361s)]*
 
 > <sup>[11](/bible/job/20#v11)</sup> His bones are full of the sin of his youth, which shall lie down with him in the dust.
 
@@ -558,7 +560,7 @@ Reading from the clip of Trump and a Puerto Rican woman  *[2:00:23]*
 
 - Wisdom of Solomon 18: this is the substance God wants us to have.
 
-**[Wisdom of Solomon 18:7-8](/bible/wisdom-of-solomon/18#v7)**  *[2:06:21]*
+**[Wisdom of Solomon 18:7-8](/bible/wisdom-of-solomon/18#v7)**  *[[2:06:21](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=7581s)]*
 
 > <sup>[7](/bible/wisdom-of-solomon/18#v7)</sup> So of thy people was accepted both the salvation of the righteous, and destruction of the enemies.
 
@@ -574,7 +576,7 @@ Reading from the clip of Trump and a Puerto Rican woman  *[2:00:23]*
 
 <div class="reading">
 
-Reading from a search result on meritorious manumission, read off the screen  *[2:07:51]*
+Reading from a search result on meritorious manumission, read off the screen  *[[2:07:51](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=7671s)]*
 
 > Meritorious manumission was an 18th-century colonial law in Virginia that granted legal freedom to enslaved people only when they performed specific acts that protected white enslavers or betrayed their own community.
 
@@ -586,9 +588,9 @@ Reading from a search result on meritorious manumission, read off the screen  *[
 
 </div>
 
-*[2:10:17]* I want what Christ said to Peter about the taxes. Matthew 17.
+*[[2:10:17](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=7817s)]* I want what Christ said to Peter about the taxes. Matthew 17.
 
-**[Matthew 17:24-27](/bible/matthew/17#v24)**  *[2:11:12]*
+**[Matthew 17:24-27](/bible/matthew/17#v24)**  *[[2:11:12](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=7872s)]*
 
 > <sup>[24](/bible/matthew/17#v24)</sup> And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?
 
@@ -610,7 +612,7 @@ Reading from a search result on meritorious manumission, read off the screen  *[
 
 - But the point Christ made was: then are the children free. What children? The children of Israel. When we're not paying taxes anymore, when we're no longer ruled by the kings of the earth, then we're free, Peter. But until then, we are in captivity. That's what Christ is telling Peter. So I don't know what Bible you guys are reading. Maybe the Gideon's version. Maybe you wrote your own. But it ain't this one.
 
-**[Baruch 3:8](/bible/baruch/3#v8)**  *[2:15:21]*
+**[Baruch 3:8](/bible/baruch/3#v8)**  *[[2:15:21](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=8121s)]*
 
 > <sup>[8](/bible/baruch/3#v8)</sup> Behold, we are yet this day in our captivity, where thou hast scattered us, for a reproach and a curse, and to be subject to payments, according to all the iniquities of our fathers, which departed from the Lord our God.
 
@@ -618,7 +620,7 @@ Reading from a search result on meritorious manumission, read off the screen  *[
 
 - You want money? Let's go home. Keep these commandments, these laws the Lord gave us to do, so we can get up out of here and have plenty of money. You want wealth? I got you.
 
-**[Isaiah 60:11-14,16-18](/bible/isaiah/60#v11)**  *[2:16:19]*
+**[Isaiah 60:11-14,16-18](/bible/isaiah/60#v11)**  *[[2:16:19](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=8179s)]*
 
 > <sup>[11](/bible/isaiah/60#v11)</sup> Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.
 
@@ -660,7 +662,7 @@ Reading from a search result on meritorious manumission, read off the screen  *[
 
 - So that, brothers and sisters, is reparations. You want a few dollars here and there? That's cool. But you spend that here. I'm good. I want gold and silver and immortality and slaves and justice. That's what we want. We have not experienced justice yet. Not at all.
 
-**[Psalms 58:10](/bible/psalms/58#v10)**  *[2:21:50]*
+**[Psalms 58:10](/bible/psalms/58#v10)**  *[[2:21:50](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=8510s)]*
 
 > <sup>[10](/bible/psalms/58#v10)</sup> The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.
 
@@ -668,9 +670,9 @@ Reading from a search result on meritorious manumission, read off the screen  *[
 
 - **Deacon Eythan:** Wash his feet in the blood of the wicked. Now notice the slave mentality. One says, so Judah will starve? If you don't give reparations, they're going to starve. So what are you doing now? He's just waiting to be nourished by the white man. That means when famine comes, he's going to die.
 
-*[2:22:48]* What did Christ say? The poor will always be among you. In our own land, the poor were the wicked. If you had no rain or crops, that was from sin. The Lord always blessed us with rain, the latter rain, the first rain. So if you were in a land of milk and honey and had no crops by you, you were in the midst of sin. That's why Christ said the poor will always be among you: if there's poor in Judah, it's because they're in the midst of sin. We are in captivity because of our sin. So I'm not sure what you think is going to change. It won't change poverty. And we're not getting it. This is a child's mind I'm talking to, not a grown man. A grown man would have logic. What we going to do, we going to starve? That's the mind of a man that's not been raised or mentored by a man. You got to repent. Keep these laws. Come to the school. Get your mind together. We can teach you how to grow up, how to think logically, how to think biblically.
+*[[2:22:48](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=8568s)]* What did Christ say? The poor will always be among you. In our own land, the poor were the wicked. If you had no rain or crops, that was from sin. The Lord always blessed us with rain, the latter rain, the first rain. So if you were in a land of milk and honey and had no crops by you, you were in the midst of sin. That's why Christ said the poor will always be among you: if there's poor in Judah, it's because they're in the midst of sin. We are in captivity because of our sin. So I'm not sure what you think is going to change. It won't change poverty. And we're not getting it. This is a child's mind I'm talking to, not a grown man. A grown man would have logic. What we going to do, we going to starve? That's the mind of a man that's not been raised or mentored by a man. You got to repent. Keep these laws. Come to the school. Get your mind together. We can teach you how to grow up, how to think logically, how to think biblically.
 
-**[Psalms 59:10-11](/bible/psalms/59#v10)**  *[2:24:48]*
+**[Psalms 59:10-11](/bible/psalms/59#v10)**  *[[2:24:48](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=8688s)]*
 
 > <sup>[10](/bible/psalms/59#v10)</sup> The God of my mercy shall prevent me: God shall let me see my desire upon mine enemies.
 
@@ -686,7 +688,7 @@ Reading from a search result on meritorious manumission, read off the screen  *[
 
 <div class="reading">
 
-Reading from the dictionary definition of reparations, read off the screen  *[2:28:46]*
+Reading from the dictionary definition of reparations, read off the screen  *[[2:28:46](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=8926s)]*
 
 > Reparations are the making of amends for a wrong or injury done to a person, group, or nation, typically through financial payments, return of property, or other forms of assistance.
 
@@ -700,7 +702,7 @@ Reading from the dictionary definition of reparations, read off the screen  *[2:
 
 </div>
 
-**[Amos 9:11-12](/bible/amos/9#v11)**  *[2:30:17]*
+**[Amos 9:11-12](/bible/amos/9#v11)**  *[[2:30:17](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=9017s)]*
 
 > <sup>[11](/bible/amos/9#v11)</sup> In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
 
@@ -712,7 +714,7 @@ Reading from the dictionary definition of reparations, read off the screen  *[2:
 
 <div class="reading">
 
-Reading from an article on looted Ghanaian gold returned on loan, read off the screen  *[2:31:34]*
+Reading from an article on looted Ghanaian gold returned on loan, read off the screen  *[[2:31:34](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=9094s)]*
 
 > The British Museum and the Victoria and Albert Museum are lending 32 looted gold and silver items back to Ghana under a landmark three-year loan agreement.
 
@@ -728,9 +730,9 @@ Reading from an article on looted Ghanaian gold returned on loan, read off the s
 
 </div>
 
-*[2:35:13]* We're going to end on this. We went on a huge tangent; it is what it is, the spirit moved. Isaiah 61.
+*[[2:35:13](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=9313s)]* We're going to end on this. We went on a huge tangent; it is what it is, the spirit moved. Isaiah 61.
 
-**[Isaiah 61:1-6](/bible/isaiah/61#v1)**  *[2:35:24]*
+**[Isaiah 61:1-6](/bible/isaiah/61#v1)**  *[[2:35:24](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=9324s)]*
 
 > <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
 
@@ -764,7 +766,7 @@ Reading from an article on looted Ghanaian gold returned on loan, read off the s
 
 ## In Closing
 
-*[2:41:13]* So with that, I'm going to end it on that. Hopefully those of y'all watching got some application. We went way over the time, but this topic is needful to go over. Hopefully we'll be back on track next week, Lord's will, life lasts.
+*[[2:41:13](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=9673s)]* So with that, I'm going to end it on that. Hopefully those of y'all watching got some application. We went way over the time, but this topic is needful to go over. Hopefully we'll be back on track next week, Lord's will, life lasts.
 
 **Officer:** So this is their homework: go watch the Dave Chappelle Show skit on reparations, and come back and tell us what you'll end up doing with the money.
 
@@ -772,7 +774,7 @@ Reading from an article on looted Ghanaian gold returned on loan, read off the s
 
 **Officer:** Somebody got a new acronym for FBA: Fools Believe Anything.
 
-*[2:47:10]* Any last words, officers?
+*[[2:47:10](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=10030s)]* Any last words, officers?
 
 **Deacon Eythan:** We got a lot of work to do. We are about searching and seeking our people, who are the diaspora the Bible speaks of, scattered throughout Africa and throughout the Americas. We're not saying that everyone in Africa is an Israelite. I don't want that to be the premise. But there's a very large number of our people throughout the continent that come here for a better life, and they have the same colonial mindset that we have. The same brainwashing the white man spent on us in the Americas, South, Central or North, is the same brainwashing the people in Africa underwent, throughout north, south and central Africa. It's the same enemy. We must come to a common understanding, a common consensus, that we have a common enemy, and we must unite under the same banner, under the same God that looks like us, and keep his laws and commandments and get together. We have organizations all throughout Africa. We don't have brothers in our organization saying, I don't like the people from Senegal, or I'm Igbo but he's Yoruba, we don't get along. If we encounter that among ourselves, we curse you out. We establish a unity. Whether in Uganda, Kenya, Zambia or Malawi, all the brothers in our organization understand that we are all from one common ancestor, Abraham, Isaac and Jacob. Once the Lord sees that enough, we're going home. This FBA thing is counterproductive, unplanned, disorganized and emotional, with no leverage whatsoever.
 
@@ -780,11 +782,11 @@ But I'll say this, because they may get reparations; I don't know. I'm going to 
 
 ## Announcements & References
 
-*[2:44:21]* Subscribe to Our Hidden History on YouTube. Subscribe to IUIC Philadelphia, IUIC Philadelphia in the ClassRoom. Donate to OHH on PayPal, and donate to the Booster Club on PayPal. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
+*[[2:44:21](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=9861s)]* Subscribe to Our Hidden History on YouTube. Subscribe to IUIC Philadelphia, IUIC Philadelphia in the ClassRoom. Donate to OHH on PayPal, and donate to the Booster Club on PayPal. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
 
-*[2:45:05]* Missing persons: a brother, age 40, missing from West Girard Avenue. If you see this brother, contact the local authorities. Let's help find our people.
+*[[2:45:05](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=9905s)]* Missing persons: a brother, age 40, missing from West Girard Avenue. If you see this brother, contact the local authorities. Let's help find our people.
 
-*[2:46:22]* The land fund: donate, and in the note put land. We're doing some reconstruction on the land, so, Lord willing, we'll be able to celebrate everything we have to in that land without being bothered by our enemies. And we're seeking your assistance to enhance our national broadcast: kindly spare a minute to provide feedback by answering five brief questions. Scan the QR code.
+*[[2:46:22](https://www.youtube.com/watch?v=0WX9XkE1cW0&t=9982s)]* The land fund: donate, and in the note put land. We're doing some reconstruction on the land, so, Lord willing, we'll be able to celebrate everything we have to in that land without being bothered by our enemies. And we're seeking your assistance to enhance our national broadcast: kindly spare a minute to provide feedback by answering five brief questions. Scan the QR code.
 
 Sources read from in this episode:
 

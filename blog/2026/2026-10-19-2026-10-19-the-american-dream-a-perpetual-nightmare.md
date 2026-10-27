@@ -4,10 +4,12 @@ slug: "2026/2026-10-19-the-american-dream-a-perpetual-nightmare"
 date: "2026-10-19"
 teacher: "Captain Amaziah"
 description: "IUIC Atlanta · 2026-10-19"
-tags: ["IUIC in the ClassRoom"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "mental-health"]
 ---
 
 <p class="taught">IUIC Atlanta · 2026-10-19</p>
+
+<span class="opens"><b>Opens</b> [Rom 8](/bible/romans/8) · [Eccl 4](/bible/ecclesiastes/4) · [Isa 61](/bible/isaiah/61) · [Deut 28](/bible/deuteronomy/28) · [Jer 16](/bible/jeremiah/16) · [Exod 23](/bible/exodus/23) · [Ps 106](/bible/psalms/106) · [Isa 51](/bible/isaiah/51) · [Judg 1](/bible/judges/1) · [Exod 34](/bible/exodus/34) · [Dan 9](/bible/daniel/9) · [Luke 21](/bible/luke/21) · [1 Macc 1](/bible/1-maccabees/1) · [Isa 28](/bible/isaiah/28) · [Sir 22](/bible/sirach/22) · [Rom 13](/bible/romans/13) · <i>and 12 more below</i></span>
 
 <!-- truncate -->
 
@@ -15,25 +17,25 @@ tags: ["IUIC in the ClassRoom"]
 
 ## Introduction
 
-*[1:06]* Shalawam. Happy Sabbath, y'all. I'll be teaching class today, and I brought reinforcements with me this time: Captain Uri, back from overseas, and the captains with him, doing what other Israelites ain't doing, waking up the 12 tribes. The name of the class: The American Dream, a Perpetual Nightmare. There's no buildup today. We start with what is going on with people that look like me and you: Nolan Wells, a grand jury that called it an accidental drowning when the medical examiner found no water in his lungs or his stomach, and a list of our brothers and sisters found hanging from trees. In order for this American dream to work, who has to be asleep? We have to be asleep, so much that Esau can tell you anything and you'll believe it. So the class asks the question our grandmothers and our pastors never answered from the Bible: why are we born into these conditions? The answer is the curses of Deuteronomy 28, for forsaking the Lord and learning the works of the nations. From there it goes to the trauma those curses left in us, the black leaders who make a covenant with death to keep us asleep, what happens to the man who wakes up and departs from evil, and, from Job 20, the end of the wicked man whose triumphing is short: he shall fly away as a dream.
+*[[1:06](https://www.youtube.com/watch?v=i8lq554yIRU&t=66s)]* Shalawam. Happy Sabbath, y'all. I'll be teaching class today, and I brought reinforcements with me this time: Captain Uri, back from overseas, and the captains with him, doing what other Israelites ain't doing, waking up the 12 tribes. The name of the class: The American Dream, a Perpetual Nightmare. There's no buildup today. We start with what is going on with people that look like me and you: Nolan Wells, a grand jury that called it an accidental drowning when the medical examiner found no water in his lungs or his stomach, and a list of our brothers and sisters found hanging from trees. In order for this American dream to work, who has to be asleep? We have to be asleep, so much that Esau can tell you anything and you'll believe it. So the class asks the question our grandmothers and our pastors never answered from the Bible: why are we born into these conditions? The answer is the curses of Deuteronomy 28, for forsaking the Lord and learning the works of the nations. From there it goes to the trauma those curses left in us, the black leaders who make a covenant with death to keep us asleep, what happens to the man who wakes up and departs from evil, and, from Job 20, the end of the wicked man whose triumphing is short: he shall fly away as a dream.
 
 ## In The News
 
-- *[3:05]* **Jackson County district attorney: the grand jury returns a no true bill in the death of Nolan Wells** — The rest is BS. We all know that. Then the medical examiner's own report: the larynx and hyoid bone without hemorrhages or fractures, no fluid or debris in the airways, the stomach empty. No water in the stomach, no water in the lungs, no water in the throat, and yet the grand jury wants to determine an accidental drowning. This district attorney has a history of letting these cases off: they're always found not guilty, or there's no charges filed, or it's a suicide every single time. Somebody in the comments said you can still drown without having water in your body. It's to the point now where they'll tell you anything and our people will believe it. Pigs fly.
-- *[7:47]* **"Found hanging from trees. We see them. We remember them. We will not look away."** — A list of our brothers and sisters found hanging since 2024, among them Trey Reed, 21 years old, of Cleveland, Mississippi. Your black Christian church definitely looks away. They're not mentioning nothing; they just go about their day. These are our brothers and sisters, y'all.
-- *[39:59]* **A foreign woman set to be installed as traditional queen mother in Accra, and a Chinese businessman crowned as chief in Ghana** — This is what happens because we're the walking dead. This soft, mushy spirit is plaguing our people; it don't matter if it's here in America or in Africa. That Christian spirit has been beaten into our people. How do you let this colonizer become a queen? And it says he's a businessman, so that means he's been exploiting people in Africa for many, many moons. They're going to wrap him in the traditional garment. Black men don't do that for their own woman, but they'll do it for this. In order for this kingdom to run the way it works, you have to be asleep.
-- *[43:55]* **Wanda Sykes confronted about being the only black person in her nuclear family** — "I take care of white people. That's what I do." Asked whether her white children owe her reparations, she says no, because they have no money. They got money for everybody but you. These are the negroes they put in front of y'all to make y'all think this is who you need to be like: a friend of the white man, a friend of Hollywood. You get a white spouse and you spew white rhetoric, and that's how you get on TV.
-- *[46:53]* **Seven shot, five killed after a 15-year-old girl and her boyfriend went on a shooting spree targeting her family** — Isaiah 51:20 says our sons have fainted. This is what has happened to us since we made contact with the friendly neighbourhood white man. This is our mentality.
-- *[48:00]* **St. Louis: a 63-year-old man beaten after a rear-end accident when he went to check on the other driver** — This is how we got to America, y'all. This is what we are in America now.
-- *[49:20]* **Nolan Wells's father: "Nolan didn't see color"** — Mississippi has a historic culture of hating black people and hanging them on trees. You see how dark he is, and he talks about they don't see color. This is how black Christians were raised: be colorblind, and risk your life hanging with the Edomites in your neighbourhood. Emmett Till's mother didn't see color either; they said, go chill with your family down in Mississippi.
-- *[51:16]* **The Middle Passage, from a movie he set as homework** — Who has not seen it? Then we got a homework assignment. Some of you older brothers, this should have been required watching. You didn't watch it because you didn't want to get mad. Well, we need to be upset. But you watched Little House on the Prairie, didn't you? You watched Seinfeld. Remember, we were not considered humans. We were property, cargo. That's why it was a cargo ship. Dumb people say, where are the slave boats then? After slavery the boats went back to doing what they were doing before: they were cargo ships. That's some trauma right there, a horrible way to die, and the sharks coming around while you're already whipped and bleeding.
-- *[1:10:20]* **Brandon Tatum showing off his wife against Michelle Obama** — "Everybody can't be fine, like my wife." These black people hate their own people. They don't want to reproduce nothing that looks like them.
-- *[1:40:33]* **Tallahassee: a college-educated young man defending his white friend to the brothers on the street** — This is a result of intergenerational trauma. Watch who he keeps looking at. Is he saved? We are not saved just yet. And then: "If that happens to him, if he goes to hell, then so am I." Do you hear the trauma? This is who our people love and want to be like in all things. If that devil can't go to heaven, I don't want to go either. That's what the black man said.
-- *[1:54:57]* **Bread and circuses in ancient Rome** — Coined by the poet Juvenal: free grain and lavish entertainment, chariot races in the Circus Maximus and gladiators in the Colosseum, tools of social control to keep the populace happy and distracted from the political and economic realities of the empire. They keep you distracted with sports and food. If they give you food, they're taking care of you; then they give you something to entertain you at the same time. So what are you? Comfortable. You ain't going to rise up against nothing. America has made it very comfortable for us here: cell phones, AC, nice cars and paved smooth roads. We are comfy as hell here in Babylon the Great.
+- *[[3:05](https://www.youtube.com/watch?v=i8lq554yIRU&t=185s)]* **Jackson County district attorney: the grand jury returns a no true bill in the death of Nolan Wells** — The rest is BS. We all know that. Then the medical examiner's own report: the larynx and hyoid bone without hemorrhages or fractures, no fluid or debris in the airways, the stomach empty. No water in the stomach, no water in the lungs, no water in the throat, and yet the grand jury wants to determine an accidental drowning. This district attorney has a history of letting these cases off: they're always found not guilty, or there's no charges filed, or it's a suicide every single time. Somebody in the comments said you can still drown without having water in your body. It's to the point now where they'll tell you anything and our people will believe it. Pigs fly.
+- *[[7:47](https://www.youtube.com/watch?v=i8lq554yIRU&t=467s)]* **"Found hanging from trees. We see them. We remember them. We will not look away."** — A list of our brothers and sisters found hanging since 2024, among them Trey Reed, 21 years old, of Cleveland, Mississippi. Your black Christian church definitely looks away. They're not mentioning nothing; they just go about their day. These are our brothers and sisters, y'all.
+- *[[39:59](https://www.youtube.com/watch?v=i8lq554yIRU&t=2399s)]* **A foreign woman set to be installed as traditional queen mother in Accra, and a Chinese businessman crowned as chief in Ghana** — This is what happens because we're the walking dead. This soft, mushy spirit is plaguing our people; it don't matter if it's here in America or in Africa. That Christian spirit has been beaten into our people. How do you let this colonizer become a queen? And it says he's a businessman, so that means he's been exploiting people in Africa for many, many moons. They're going to wrap him in the traditional garment. Black men don't do that for their own woman, but they'll do it for this. In order for this kingdom to run the way it works, you have to be asleep.
+- *[[43:55](https://www.youtube.com/watch?v=i8lq554yIRU&t=2635s)]* **Wanda Sykes confronted about being the only black person in her nuclear family** — "I take care of white people. That's what I do." Asked whether her white children owe her reparations, she says no, because they have no money. They got money for everybody but you. These are the negroes they put in front of y'all to make y'all think this is who you need to be like: a friend of the white man, a friend of Hollywood. You get a white spouse and you spew white rhetoric, and that's how you get on TV.
+- *[[46:53](https://www.youtube.com/watch?v=i8lq554yIRU&t=2813s)]* **Seven shot, five killed after a 15-year-old girl and her boyfriend went on a shooting spree targeting her family** — Isaiah 51:20 says our sons have fainted. This is what has happened to us since we made contact with the friendly neighbourhood white man. This is our mentality.
+- *[[48:00](https://www.youtube.com/watch?v=i8lq554yIRU&t=2880s)]* **St. Louis: a 63-year-old man beaten after a rear-end accident when he went to check on the other driver** — This is how we got to America, y'all. This is what we are in America now.
+- *[[49:20](https://www.youtube.com/watch?v=i8lq554yIRU&t=2960s)]* **Nolan Wells's father: "Nolan didn't see color"** — Mississippi has a historic culture of hating black people and hanging them on trees. You see how dark he is, and he talks about they don't see color. This is how black Christians were raised: be colorblind, and risk your life hanging with the Edomites in your neighbourhood. Emmett Till's mother didn't see color either; they said, go chill with your family down in Mississippi.
+- *[[51:16](https://www.youtube.com/watch?v=i8lq554yIRU&t=3076s)]* **The Middle Passage, from a movie he set as homework** — Who has not seen it? Then we got a homework assignment. Some of you older brothers, this should have been required watching. You didn't watch it because you didn't want to get mad. Well, we need to be upset. But you watched Little House on the Prairie, didn't you? You watched Seinfeld. Remember, we were not considered humans. We were property, cargo. That's why it was a cargo ship. Dumb people say, where are the slave boats then? After slavery the boats went back to doing what they were doing before: they were cargo ships. That's some trauma right there, a horrible way to die, and the sharks coming around while you're already whipped and bleeding.
+- *[[1:10:20](https://www.youtube.com/watch?v=i8lq554yIRU&t=4220s)]* **Brandon Tatum showing off his wife against Michelle Obama** — "Everybody can't be fine, like my wife." These black people hate their own people. They don't want to reproduce nothing that looks like them.
+- *[[1:40:33](https://www.youtube.com/watch?v=i8lq554yIRU&t=6033s)]* **Tallahassee: a college-educated young man defending his white friend to the brothers on the street** — This is a result of intergenerational trauma. Watch who he keeps looking at. Is he saved? We are not saved just yet. And then: "If that happens to him, if he goes to hell, then so am I." Do you hear the trauma? This is who our people love and want to be like in all things. If that devil can't go to heaven, I don't want to go either. That's what the black man said.
+- *[[1:54:57](https://www.youtube.com/watch?v=i8lq554yIRU&t=6897s)]* **Bread and circuses in ancient Rome** — Coined by the poet Juvenal: free grain and lavish entertainment, chariot races in the Circus Maximus and gladiators in the Colosseum, tools of social control to keep the populace happy and distracted from the political and economic realities of the empire. They keep you distracted with sports and food. If they give you food, they're taking care of you; then they give you something to entertain you at the same time. So what are you? Comfortable. You ain't going to rise up against nothing. America has made it very comfortable for us here: cell phones, AC, nice cars and paved smooth roads. We are comfy as hell here in Babylon the Great.
 
 ## Scriptures Opened
 
-**[Romans 8:36](/bible/romans/8#v36)**  *[9:22]*
+**[Romans 8:36](/bible/romans/8#v36)**  *[[9:22](https://www.youtube.com/watch?v=i8lq554yIRU&t=562s)]*
 
 > <sup>[36](/bible/romans/8#v36)</sup> As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.
 
@@ -41,7 +43,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - We are accounted as sheep for the slaughter: And we have been slaughtered for centuries now. When we made contact with the so-called white man, these colonizers and genocidal maniacs, we have been led to the slaughter. Read it again; just let that sink in.
 
-**[Ecclesiastes 4:1](/bible/ecclesiastes/4#v1)**  *[11:23]*
+**[Ecclesiastes 4:1](/bible/ecclesiastes/4#v1)**  *[[11:23](https://www.youtube.com/watch?v=i8lq554yIRU&t=683s)]*
 
 > <sup>[1](/bible/ecclesiastes/4#v1)</sup> So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 
@@ -59,7 +61,7 @@ tags: ["IUIC in the ClassRoom"]
 
     What scripture? Romans 15:4. The things that were written before time were written for our learning, so we are supposed to learn from the past that we don't repeat it, that through patience and comfort of the scriptures, of this Bible, we might have hope.
 
-**[Isaiah 61:1-3](/bible/isaiah/61#v1)**  *[13:51]*
+**[Isaiah 61:1-3](/bible/isaiah/61#v1)**  *[[13:51](https://www.youtube.com/watch?v=i8lq554yIRU&t=831s)]*
 
 > <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
 >
@@ -83,7 +85,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - To give unto them beauty for ashes: That's what the prophets are to preach unto the brokenhearted. That's the good tidings right there. The day of vengeance is coming on America. That's the good news. That's the gospel.
 
-**[Ecclesiastes 4:1-2](/bible/ecclesiastes/4#v1)**  *[17:06]*
+**[Ecclesiastes 4:1-2](/bible/ecclesiastes/4#v1)**  *[[17:06](https://www.youtube.com/watch?v=i8lq554yIRU&t=1026s)]*
 
 > <sup>[1](/bible/ecclesiastes/4#v1)</sup> So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 >
@@ -95,7 +97,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Wherefore I praised the dead which are already dead more than the living which are yet alive: King Solomon said, listen, the dead that are not here to suffer the oppression are in a better estate than those living going through the oppression.
 
-**[Deuteronomy 28:19](/bible/deuteronomy/28#v19)**  *[19:24]*
+**[Deuteronomy 28:19](/bible/deuteronomy/28#v19)**  *[[19:24](https://www.youtube.com/watch?v=i8lq554yIRU&t=1164s)]*
 
 > <sup>[19](/bible/deuteronomy/28#v19)</sup> Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out.
 
@@ -107,13 +109,13 @@ tags: ["IUIC in the ClassRoom"]
 
 - When you're born into this world an Israelite man or woman, you're born into a curse. Why? Because our fathers broke the commandments.
 
-**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[23:09]*
+**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[23:09](https://www.youtube.com/watch?v=i8lq554yIRU&t=1389s)]*
 
 > <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
 
 - That all these curses shall come upon thee, and overtake thee: The question our people need to ask themselves is: how did we get into this situation? Why are we going through this? The blacks, Hispanics and Native Americans are not the only nation here, not even the only so-called minority. The Arabs don't go through this. The East Indians, the Hamites, the Chinese, the Pakistanis are here. Why do we keep going through this right here? That's what we got to ask ourselves.
 
-**[Jeremiah 16:10-13](/bible/jeremiah/16#v10)**  *[25:33]*
+**[Jeremiah 16:10-13](/bible/jeremiah/16#v10)**  *[[25:33](https://www.youtube.com/watch?v=i8lq554yIRU&t=1533s)]*
 
 > <sup>[10](/bible/jeremiah/16#v10)</sup> And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the Lord pronounced all this great evil against us? or what is our iniquity? or what is our sin that we have committed against the Lord our God?
 >
@@ -149,7 +151,7 @@ tags: ["IUIC in the ClassRoom"]
 
     This is what's going to happen when we're in our enemies' lands. Our enemies have us in this position, and the Lord allowed them to do it because of our own wickedness.
 
-**[Exodus 23:20-23](/bible/exodus/23#v20)**  *[32:41]*
+**[Exodus 23:20-23](/bible/exodus/23#v20)**  *[[32:41](https://www.youtube.com/watch?v=i8lq554yIRU&t=1961s)]*
 
 > <sup>[20](/bible/exodus/23#v20)</sup> Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.
 >
@@ -181,7 +183,7 @@ tags: ["IUIC in the ClassRoom"]
 
     Hiram, the king of Tyre and Zidon: this is Ham here. He furnished Solomon with cedar trees, fir trees and gold according to all his desire, and Solomon gave Hiram twenty cities in the land of Galilee. They had a friendship, a partnership; they were cordial with each other. But the Bible says what it says.
 
-**[Psalms 106:34-35](/bible/psalms/106#v34)**  *[38:03]*
+**[Psalms 106:34-35](/bible/psalms/106#v34)**  *[[38:03](https://www.youtube.com/watch?v=i8lq554yIRU&t=2283s)]*
 
 > <sup>[34](/bible/psalms/106#v34)</sup> They did not destroy the nations, concerning whom the Lord commanded them:
 >
@@ -189,7 +191,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - But were mingled among the heathen, and learned their works: We learned the works of the other nations, how to serve their gods. And because of that we ended up on the bottom of society.
 
-**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[38:29]*
+**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[[38:29](https://www.youtube.com/watch?v=i8lq554yIRU&t=2309s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 
@@ -209,7 +211,7 @@ tags: ["IUIC in the ClassRoom"]
 
     If you wander out of the way of understanding, you remain in the congregation of the dead. You're not literally dead: you're pumping blood, you've got your senses, but you're the walking dead.
 
-**[Psalms 106:34-35](/bible/psalms/106#v34)**  *[1:01:36]*
+**[Psalms 106:34-35](/bible/psalms/106#v34)**  *[[1:01:36](https://www.youtube.com/watch?v=i8lq554yIRU&t=3696s)]*
 
 > <sup>[34](/bible/psalms/106#v34)</sup> They did not destroy the nations, concerning whom the Lord commanded them:
 >
@@ -229,7 +231,7 @@ tags: ["IUIC in the ClassRoom"]
 
     When the Greeks came into the land they pushed their doctrine and their influence: an increase of heathenish manners through the exceeding profaneness of Jason, who snaked his way into the high priesthood underhandedly. Jason is an Israelite, and an Israelite helped bring his nation to the Greek fashions. The priests under Jason had no courage to serve any more at the altar; they despised their service to God at the temple and said to hell with the sacrifices, and hastened to the place of exercise, the gym, when the game of Discus called them forth. Not setting by the honours of their fathers, which was to do the sacrifice of the Lord and take care of the temple, but liking the glory of the Grecians best of all: you wanted the glory of the so-called white man. It's all about white society. By reason whereof sore calamity came upon them: destruction came upon the Israelites, for they had them to be their enemies and avengers. The Greeks are your natural enemies, but you follow them, and you desire to be like them in all things. That's the problem with us right here. We don't want to be like the Chinese; it's the white man's way or nothing at all.
 
-**[Judges 1:19,21,27](/bible/judges/1#v19)**  *[1:05:05]*
+**[Judges 1:19,21,27](/bible/judges/1#v19)**  *[[1:05:05](https://www.youtube.com/watch?v=i8lq554yIRU&t=3905s)]*
 
 > <sup>[19](/bible/judges/1#v19)</sup> And the Lord was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.
 >
@@ -245,7 +247,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Neither did Manasseh drive out the inhabitants: Y'all see a theme here. The tribes could not drive out the inhabitants of the land before them, so they dwelt with them.
 
-**[Exodus 34:12-16](/bible/exodus/34#v12)**  *[1:06:38]*
+**[Exodus 34:12-16](/bible/exodus/34#v12)**  *[[1:06:38](https://www.youtube.com/watch?v=i8lq554yIRU&t=3998s)]*
 
 > <sup>[12](/bible/exodus/34#v12)</sup> Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:
 >
@@ -271,7 +273,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - And make thy sons go a whoring after their gods: That's what happens when we make contact with these people.
 
-**[Daniel 9:11](/bible/daniel/9#v11)**  *[1:09:37]*
+**[Daniel 9:11](/bible/daniel/9#v11)**  *[[1:09:37](https://www.youtube.com/watch?v=i8lq554yIRU&t=4177s)]*
 
 > <sup>[11](/bible/daniel/9#v11)</sup> Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
 
@@ -281,7 +283,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Because we have sinned against him: There's another scripture you can give your mother or your father to show why we were all born in the situations we were born in: because we have sinned against the Lord.
 
-**[Luke 21:22](/bible/luke/21#v22)**  *[1:12:02]*
+**[Luke 21:22](/bible/luke/21#v22)**  *[[1:12:02](https://www.youtube.com/watch?v=i8lq554yIRU&t=4322s)]*
 
 > <sup>[22](/bible/luke/21#v22)</sup> For these be the days of vengeance, that all things which are written may be fulfilled.
 
@@ -289,7 +291,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Write these down: modern terms for the curses of Deuteronomy 28. It's not all in order, because Deuteronomy 28 is in parts, but: oppression, colonization, trauma, depression, exploitation, genocide, slavery, mental abuse, rape. Number eight, mental abuse: I've got a scripture for that one too.
 
-**[Deuteronomy 28:20](/bible/deuteronomy/28#v20)**  *[1:13:58]*
+**[Deuteronomy 28:20](/bible/deuteronomy/28#v20)**  *[[1:13:58](https://www.youtube.com/watch?v=i8lq554yIRU&t=4438s)]*
 
 > <sup>[20](/bible/deuteronomy/28#v20)</sup> The Lord shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me.
 
@@ -303,7 +305,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Africa is on a different level of vexation. We come from Babylon; you don't know how good you've got it. In Kenya there are traffic jams everywhere, and it was Great Britain that set up the traffic patterns before they left: no traffic lights, you just merge as you go. Leave the hotel and you can't make a left turn; there's a divider in the road, so you go right, risk your life merging, and go round the roundabout to come back to the left. Great Britain didn't set up their own system the way they set up Kenya's. Why? It's a vexation to you. (A captain) You'd have to leave your block to see it: use a passport, get on a plane and leave the US. Y'all brothers that stay home are a vexation to the Lord.
 
-**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[1:19:36]*
+**[Isaiah 51:20](/bible/isaiah/51#v20)**  *[[1:19:36](https://www.youtube.com/watch?v=i8lq554yIRU&t=4776s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
 
@@ -313,7 +315,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - So the American dream is a nightmare for us. We were not brought here to have the American dream, brothers and sisters. In order to partake in the American dream, you have to be asleep.
 
-**[1 Maccabees 1:11-15](/bible/1-maccabees/1#v11)**  *[1:22:06]*
+**[1 Maccabees 1:11-15](/bible/1-maccabees/1#v11)**  *[[1:22:06](https://www.youtube.com/watch?v=i8lq554yIRU&t=4926s)]*
 
 > <sup>[11](/bible/1-maccabees/1#v11)</sup> In those days went there out of Israel wicked men, who persuaded many, saying, Let us go and make a covenant with the heathen that are round about us: for since we departed from them we have had much sorrow.
 >
@@ -339,7 +341,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - And were sold to do mischief: This is what happens when we join in. And how are we joined in? Our leaders push us that way. They've got the influence and the connections, and the heathen use our leaders to sway us whatever way they want.
 
-**[Isaiah 28:14-20](/bible/isaiah/28#v14)**  *[1:25:03]*
+**[Isaiah 28:14-20](/bible/isaiah/28#v14)**  *[[1:25:03](https://www.youtube.com/watch?v=i8lq554yIRU&t=5103s)]*
 
 > <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
 >
@@ -377,7 +379,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - For the bed is shorter than that a man can stretch himself on it: Put a name to the bed. Go back up to verse 15: we have made lies our refuge. The bed represents the lies. (A soldier) The bed is way too small for him to fit on it, because the prophets are going to be preaching it over and over to them on the street. Everybody's going to see how wicked these negro leaders are, and the other nations too. They're not going to be able to be comfortable as long as we're out on the street teaching the word of God. Yes. It's going to be vexing to Esau's spirit and to the wicked of our people just to understand what God is saying.
 
-**[Sirach 22:7](/bible/sirach/22#v7)**  *[1:36:28]*
+**[Sirach 22:7](/bible/sirach/22#v7)**  *[[1:36:28](https://www.youtube.com/watch?v=i8lq554yIRU&t=5788s)]*
 
 > <sup>[7](/bible/sirach/22#v7)</sup> Whoso teacheth a fool is as one that glueth a potsherd together, and as he that waketh one from a sound sleep.
 
@@ -393,7 +395,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - These classes are coming out to reform your way of thinking, to bring you back to normal, because what we are right now is not normal. You are a broken slave, a slave without a chain on you. Bishop Yawasap, all the deacons, everybody is teaching the reformation of your brain. We have been taught how to be good slaves, and we mastered it.
 
-**[Romans 13:11](/bible/romans/13#v11)**  *[1:47:02]*
+**[Romans 13:11](/bible/romans/13#v11)**  *[[1:47:02](https://www.youtube.com/watch?v=i8lq554yIRU&t=6422s)]*
 
 > <sup>[11](/bible/romans/13#v11)</sup> And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.
 
@@ -409,7 +411,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - (A captain) Upward mobility, financial security: you'll kiss a white man's ass for that financial security. You have sisters turning on their own husbands, listening to the boss at work before their own. A better life for one's children: it goes right back to the young man in Tallahassee. His parents taught him to defend the oppressor, because you'll have a better chance at life if you kiss the ass. Personal fulfillment a universal human ambition? We ain't humans; we're gods. Micah 2:10 says this is not our rest. What are we supposed to be fulfilling here? The will of the Father. The American dream is not our ambition, and what's coming for us that keep the commandments is not a dream. The only thing that's going to be a dream is that we were in this captivity.
 
-**[Isaiah 59:15](/bible/isaiah/59#v15)**  *[1:57:17]*
+**[Isaiah 59:15](/bible/isaiah/59#v15)**  *[[1:57:17](https://www.youtube.com/watch?v=i8lq554yIRU&t=7037s)]*
 
 > <sup>[15](/bible/isaiah/59#v15)</sup> Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the Lord saw it, and it displeased him that there was no judgment.
 
@@ -419,7 +421,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - And the Lord saw it, and it displeased him that there was no judgment: When you repent, brothers and sisters, that's when you're going to war. Before you repented you were in the world like everybody else, and everybody loved you. You had sex with who you wanted, sold whatever you wanted, broke the Sabbath whenever you wanted, went to Thanksgiving, Christmas, Easter and the club on Saturday, and nobody said nothing. Now you repent, and you're out on the streets teaching. You're in fear of losing your job. Mommy might be mad at you; grandma might be mad at you. You want to hide your purple and gold. Now you've become a prey, a target.
 
-**[Luke 20:19-20](/bible/luke/20#v19)**  *[1:59:28]*
+**[Luke 20:19-20](/bible/luke/20#v19)**  *[[1:59:28](https://www.youtube.com/watch?v=i8lq554yIRU&t=7168s)]*
 
 > <sup>[19](/bible/luke/20#v19)</sup> And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
 >
@@ -431,7 +433,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - And they watched him, and sent forth spies, which should feign themselves just men: Brothers are going to come in here, and sisters with a purple garment, as spies. They'll say shalom and be in here for a year, two, three, four, but they've got supervisors they have to report back to.
 
-**[Mark 12:13-14](/bible/mark/12#v13)**  *[2:00:42]*
+**[Mark 12:13-14](/bible/mark/12#v13)**  *[[2:00:42](https://www.youtube.com/watch?v=i8lq554yIRU&t=7242s)]*
 
 > <sup>[13](/bible/mark/12#v13)</sup> And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words.
 >
@@ -441,13 +443,13 @@ tags: ["IUIC in the ClassRoom"]
 
 - Master, we know that thou art true: They're going to do the same thing to us.
 
-**[Psalms 37:32](/bible/psalms/37#v32)**  *[2:02:14]*
+**[Psalms 37:32](/bible/psalms/37#v32)**  *[[2:02:14](https://www.youtube.com/watch?v=i8lq554yIRU&t=7334s)]*
 
 > <sup>[32](/bible/psalms/37#v32)</sup> The wicked watcheth the righteous, and seeketh to slay him.
 
 - The wicked watcheth the righteous, and seeketh to slay him: Why does the wicked watch the righteous? To slay him.
 
-**[Acts 6:8-14](/bible/acts/6#v8)**  *[2:02:51]*
+**[Acts 6:8-14](/bible/acts/6#v8)**  *[[2:02:51](https://www.youtube.com/watch?v=i8lq554yIRU&t=7371s)]*
 
 > <sup>[8](/bible/acts/6#v8)</sup> And Stephen, full of faith and power, did great wonders and miracles among the people.
 >
@@ -475,7 +477,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - And shall change the customs which Moses delivered us: What did the Pharisees and the scribes want? They wanted to live that dream. Back then it was Rome. Now it's America.
 
-**[Acts 8:1-4](/bible/acts/8#v1)**  *[2:05:26]*
+**[Acts 8:1-4](/bible/acts/8#v1)**  *[[2:05:26](https://www.youtube.com/watch?v=i8lq554yIRU&t=7526s)]*
 
 > <sup>[1](/bible/acts/8#v1)</sup> And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles.
 >
@@ -491,7 +493,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - As for Saul, he made havock of the church, entering into every house: He was destroying brothers and sisters, running into their homes.
 
-**[Acts 22:3-5](/bible/acts/22#v3)**  *[2:06:24]*
+**[Acts 22:3-5](/bible/acts/22#v3)**  *[[2:06:24](https://www.youtube.com/watch?v=i8lq554yIRU&t=7584s)]*
 
 > <sup>[3](/bible/acts/22#v3)</sup> I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.
 >
@@ -509,7 +511,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - As also the high priest doth bear me witness: He had the backing and the authority of the chief priests to do this.
 
-**[Acts 26:9-12](/bible/acts/26#v9)**  *[2:07:54]*
+**[Acts 26:9-12](/bible/acts/26#v9)**  *[[2:07:54](https://www.youtube.com/watch?v=i8lq554yIRU&t=7674s)]*
 
 > <sup>[9](/bible/acts/26#v9)</sup> I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.
 >
@@ -529,7 +531,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - Whereupon as I went to Damascus with authority and commission from the chief priests: Once again, he got his authority from the chief priests.
 
-**[1 Timothy 1:12-15](/bible/1-timothy/1#v12)**  *[2:10:13]*
+**[1 Timothy 1:12-15](/bible/1-timothy/1#v12)**  *[[2:10:13](https://www.youtube.com/watch?v=i8lq554yIRU&t=7813s)]*
 
 > <sup>[12](/bible/1-timothy/1#v12)</sup> And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
 >
@@ -547,7 +549,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - That Christ Jesus came into the world to save sinners; of whom I am chief: Paul said, I'm chief. I know sin. But I obtained mercy because I did it ignorantly. So even though you lived a life of sin, the life of the American dream, you can repent from that thing. Where would y'all be if you weren't in the truth right now? Dead or in jail. And if not that, on a Saturday afternoon you'd be recovering from a hangover from the club, a fifth of Jack on the table, checking how much money is in the bank so you can do it all over again tonight, and wake up in the same stupor.
 
-**[Ephesians 6:10-12,19](/bible/ephesians/6#v10)**  *[2:14:10]*
+**[Ephesians 6:10-12,19](/bible/ephesians/6#v10)**  *[[2:14:10](https://www.youtube.com/watch?v=i8lq554yIRU&t=8050s)]*
 
 > <sup>[10](/bible/ephesians/6#v10)</sup> Finally, my brethren, be strong in the Lord, and in the power of his might.
 >
@@ -565,7 +567,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - That I may open my mouth boldly, to make known the mystery of the gospel: Key in on that word: mystery. Can everybody get a mystery? If the gospel is a mystery and people combat and rebut you all the time on the mystery you know, why continue to argue with them about it? Why are you trying to push them to know the mystery? Move the hell on. Everybody don't get a mystery. That's why it's called a mystery.
 
-**[Ephesians 3:3-6](/bible/ephesians/3#v3)**  *[2:16:11]*
+**[Ephesians 3:3-6](/bible/ephesians/3#v3)**  *[[2:16:11](https://www.youtube.com/watch?v=i8lq554yIRU&t=8171s)]*
 
 > <sup>[3](/bible/ephesians/3#v3)</sup> How that by revelation he made known unto me the mystery; (as I wrote afore in few words,
 >
@@ -581,7 +583,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - That the Gentiles should be fellowheirs, and of the same body: It tells you what the mystery is: that the Gentiles, the northern kingdom of Israel, shall be fellowheirs. They're going to get the kingdom too. That's part of the mystery.
 
-**[Job 20:4-6](/bible/job/20#v4)**  *[2:18:16]*
+**[Job 20:4-6](/bible/job/20#v4)**  *[[2:18:16](https://www.youtube.com/watch?v=i8lq554yIRU&t=8296s)]*
 
 > <sup>[4](/bible/job/20#v4)</sup> Knowest thou not this of old, since man was placed upon earth,
 >
@@ -609,7 +611,7 @@ tags: ["IUIC in the ClassRoom"]
 
     Let's see what else Esau says. Whenever Esau is a superpower, his symbol is the eagle, and the eagle is a bird of prey. The pride of thine heart hath deceived thee, whose habitation is high, that saith in his heart, Who shall bring me down to the ground? Only the so-called white man can say that on the earth right now: who's going to beat us in war? Nobody, right now. Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down: from that time there, I'm going to start bringing you down.
 
-**[Job 20:6-18](/bible/job/20#v6)**  *[2:21:14]*
+**[Job 20:6-18](/bible/job/20#v6)**  *[[2:21:14](https://www.youtube.com/watch?v=i8lq554yIRU&t=8474s)]*
 
 > <sup>[6](/bible/job/20#v6)</sup> Though his excellency mount up to the heavens, and his head reach unto the clouds;
 >
@@ -659,7 +661,7 @@ tags: ["IUIC in the ClassRoom"]
 
     Let the extortioner catch all that he hath. In that day you're going to give back everything you stole. Everything.
 
-**[Job 20:19-23](/bible/job/20#v19)**  *[2:24:25]*
+**[Job 20:19-23](/bible/job/20#v19)**  *[[2:24:25](https://www.youtube.com/watch?v=i8lq554yIRU&t=8665s)]*
 
 > <sup>[19](/bible/job/20#v19)</sup> Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;
 >
@@ -691,7 +693,7 @@ tags: ["IUIC in the ClassRoom"]
 
     Judgment: the heavens shaken and the earth removed out of her place in the day of his fierce anger. And it shall be as the chased roe: mystery Babylon the Great, the United States of America, chased all over the place, trying to hide. As a sheep that no man taketh up: a sheep is defenceless, and no man is going to try to defend him in that day. They shall every man turn to his own people, and flee every one into his own land: no more American dream. You're going to turn to your own people and go into your own land. Here come Jason Whitlock and Brandon Tatum: every one that is found shall be thrust through, and every one that is joined unto them shall fall by the sword.
 
-**[Job 20:23-29](/bible/job/20#v23)**  *[2:27:25]*
+**[Job 20:23-29](/bible/job/20#v23)**  *[[2:27:25](https://www.youtube.com/watch?v=i8lq554yIRU&t=8845s)]*
 
 > <sup>[23](/bible/job/20#v23)</sup> When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.
 >
@@ -723,7 +725,7 @@ tags: ["IUIC in the ClassRoom"]
 
 - This is the portion of a wicked man from God: The portion of a wicked race from God, and the heritage appointed unto him by God.
 
-**[Job 20:6-8](/bible/job/20#v6)**  *[2:28:48]*
+**[Job 20:6-8](/bible/job/20#v6)**  *[[2:28:48](https://www.youtube.com/watch?v=i8lq554yIRU&t=8928s)]*
 
 > <sup>[6](/bible/job/20#v6)</sup> Though his excellency mount up to the heavens, and his head reach unto the clouds;
 >
@@ -754,7 +756,7 @@ tags: ["IUIC in the ClassRoom"]
 
 ## In Closing
 
-*[2:29:36]* He shall fly away as a dream, and shall not be found; he shall be chased away as a vision of the night. A damn nightmare. Brothers and sisters, that's my time, Captain Amaziah. 12 tribes. With that, we say shalom.
+*[[2:29:36](https://www.youtube.com/watch?v=i8lq554yIRU&t=8976s)]* He shall fly away as a dream, and shall not be found; he shall be chased away as a vision of the night. A damn nightmare. Brothers and sisters, that's my time, Captain Amaziah. 12 tribes. With that, we say shalom.
 
 ## Announcements & References
 

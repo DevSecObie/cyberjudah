@@ -5,10 +5,12 @@ date: "2026-09-20"
 episode: 208
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-09-20 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History"]
+tags: ["Our Hidden History", "mental-health"]
 ---
 
 <p class="taught">Our Hidden History · 2026-09-20 · Deacon Eythan, with the officers of IUIC Philadelphia</p>
+
+<span class="opens"><b>Opens</b> [Dan 7](/bible/daniel/7) · [Ps 64](/bible/psalms/64) · [Deut 28](/bible/deuteronomy/28) · [Ps 119](/bible/psalms/119) · [Dan 8](/bible/daniel/8) · [1 Kgs 13](/bible/1-kings/13) · [2 Kgs 23](/bible/2-kings/23) · [2 Thess 2](/bible/2-thessalonians/2) · [Dan 9](/bible/daniel/9) · [Isa 8](/bible/isaiah/8) · [Ezek 21](/bible/ezekiel/21) · [Exod 11](/bible/exodus/11) · [Gen 9](/bible/genesis/9) · [Dan 5](/bible/daniel/5) · [2 Esdras 11](/bible/2-esdras/11) · [2 Esdras 12](/bible/2-esdras/12)</span>
 
 <!-- truncate -->
 
@@ -16,7 +18,7 @@ tags: ["Our Hidden History"]
 
 ## Introduction
 
-*[9:17]* Hey, we're back. We are back. Shalom, shalom. I'm actually excited about this episode; hope you guys are as well. You are tuned into Our Hidden History radio show. We're back from the week break. Hope you guys enjoyed your week, and hope you enjoyed yesterday's class. It was great. The Bishop did his thing, regarding the senses, and the spiritual senses that we are supposed to have.
+*[[9:17](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=557s)]* Hey, we're back. We are back. Shalom, shalom. I'm actually excited about this episode; hope you guys are as well. You are tuned into Our Hidden History radio show. We're back from the week break. Hope you guys enjoyed your week, and hope you enjoyed yesterday's class. It was great. The Bishop did his thing, regarding the senses, and the spiritual senses that we are supposed to have.
 
 What I want to touch on is what I was unable to touch on last week. Give me the video I asked y'all for last week, with the brother. I was looking for it, and we found it, but I wanted to have the books to really go along with it. Because I be trying to go into the topic and the spirit just takes us somewhere else, and somehow it still ends up parallel to the topic, but not the topic. It is what it is. I'm not even going to fight it no more.
 
@@ -24,16 +26,16 @@ What I want to touch on is what I was unable to touch on last week. Give me the 
 
 **Deacon Eythan:** Yeah, we going to try. I don't really trust what he just said, because he's going to go along for the ride wherever we go regardless.
 
-*[10:43]* **Officer:** Hey Deacon, when we going to do our next live audience? **Deacon Eythan:** We'll do that this month, because Tabernacles is coming up. We might as well do a live audience for Tabernacles, a pre-Tabernacles show, two Sundays from now. That's going to be the biggest audience.
+*[[10:43](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=643s)]* **Officer:** Hey Deacon, when we going to do our next live audience? **Deacon Eythan:** We'll do that this month, because Tabernacles is coming up. We might as well do a live audience for Tabernacles, a pre-Tabernacles show, two Sundays from now. That's going to be the biggest audience.
 
-*[11:52]* Watch this video. There's some good stuff here. It ties into history, and how this man is able to reframe and revise and rewrite history like it's nothing. This man has the power to do this, and this brother is going to go into it. Because remember I said to y'all last week: prophecy is history that is yet to be fulfilled or has been fulfilled. That's what prophecy is. Prophecy is fulfilled or unfulfilled history that takes place.
+*[[11:52](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=712s)]* Watch this video. There's some good stuff here. It ties into history, and how this man is able to reframe and revise and rewrite history like it's nothing. This man has the power to do this, and this brother is going to go into it. Because remember I said to y'all last week: prophecy is history that is yet to be fulfilled or has been fulfilled. That's what prophecy is. Prophecy is fulfilled or unfulfilled history that takes place.
 
 ## Readings and Scriptures
 
 
 <div class="reading">
 
-Reading from a video clip on James Henry Breasted and *Ancient Times*  *[12:35]*
+Reading from a video clip on James Henry Breasted and *Ancient Times*  *[[12:35](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=755s)]*
 
 > Around 1919, Breasted wrote an incredible book that documented his travels in Egypt...
 
@@ -69,7 +71,7 @@ Reading from a video clip on James Henry Breasted and *Ancient Times*  *[12:35]*
 
 <div class="reading">
 
-Reading from *Ancient Times: A History of the Early World* by James Henry Breasted, second edition: the title page and pages 11 and 12  *[21:26]*
+Reading from *Ancient Times: A History of the Early World* by James Henry Breasted, second edition: the title page and pages 11 and 12  *[[21:26](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=1286s)]*
 
 > Ancient Times, a History of the Early World. An Introduction to the Study of Ancient History and the Career of Early Man, by James Henry Breasted, late director of the Oriental Institute in the University of Chicago. Second edition.
 
@@ -101,7 +103,7 @@ Reading from *Ancient Times: A History of the Early World* by James Henry Breast
 
 </div>
 
-**[Daniel 7:25](/bible/daniel/7#v25)**  *[29:14]*
+**[Daniel 7:25](/bible/daniel/7#v25)**  *[[29:14](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=1754s)]*
 
 > <sup>[25](/bible/daniel/7#v25)</sup> And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
@@ -117,7 +119,7 @@ Reading from *Ancient Times: A History of the Early World* by James Henry Breast
 
 <div class="reading">
 
-Reading from a definition of *arbitrary*, read off the phone  *[33:30]*
+Reading from a definition of *arbitrary*, read off the phone  *[[33:30](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=2010s)]*
 
 > Arbitrary means based on a random choice, personal whim, or individual preference rather than any reason, system or fixed rule.
 
@@ -129,7 +131,7 @@ Reading from a definition of *arbitrary*, read off the phone  *[33:30]*
 
 </div>
 
-**[Psalms 64:6](/bible/psalms/64#v6)**  *[35:15]*
+**[Psalms 64:6](/bible/psalms/64#v6)**  *[[35:15](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=2115s)]*
 
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
@@ -147,7 +149,7 @@ Reading from a definition of *arbitrary*, read off the phone  *[33:30]*
 
 - **Officer:** You know what's crazy? Esau tells us to forget, but Esau don't never forget. 9/11 was recently. Every year on September 11 they go, don't forget, don't forget. They do tributes, they do memorials. That was 2001, 25 years ago. Don't forget. But slavery, we supposed to forget.
 
-**[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[38:45]*
+**[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[[38:45](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=2325s)]*
 
 > <sup>[28](/bible/deuteronomy/28#v28)</sup> The Lord shall smite thee with madness, and blindness, and astonishment of heart:
 
@@ -163,7 +165,7 @@ Reading from a definition of *arbitrary*, read off the phone  *[33:30]*
 
 <div class="reading">
 
-Reading from an AI search result on *astonishment of heart* in Deuteronomy 28:28, with the definitions looked up along the way  *[41:54]*
+Reading from an AI search result on *astonishment of heart* in Deuteronomy 28:28, with the definitions looked up along the way  *[[41:54](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=2514s)]*
 
 > In Deuteronomy 28:28, astonishment of heart means a state of deep mental confusion,
 
@@ -281,7 +283,7 @@ Reading from an AI search result on *astonishment of heart* in Deuteronomy 28:28
 
 </div>
 
-**[Psalms 119:142](/bible/psalms/119#v142)**  *[59:42]*
+**[Psalms 119:142](/bible/psalms/119#v142)**  *[[59:42](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=3582s)]*
 
 > <sup>[142](/bible/psalms/119#v142)</sup> Thy righteousness is an everlasting righteousness, and thy law is the truth.
 
@@ -289,7 +291,7 @@ Reading from an AI search result on *astonishment of heart* in Deuteronomy 28:28
 
 <div class="reading">
 
-Reading from *The Mis-Education of the Negro*, chapter 10, "The Loss of Vision" · read by an officer  *[1:00:08]*
+Reading from *The Mis-Education of the Negro*, chapter 10, "The Loss of Vision" · read by an officer  *[[1:00:08](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=3608s)]*
 
 > History shows then that as a result of these unusual forces in the education of the Negro, he easily learns to follow the line of least resistance rather than battle against odds for what real history has shown to be the right course.
 
@@ -309,7 +311,7 @@ Reading from *The Mis-Education of the Negro*, chapter 10, "The Loss of Vision" 
 
 </div>
 
-**[Deuteronomy 28:45](/bible/deuteronomy/28#v45)**  *[1:05:01]*
+**[Deuteronomy 28:45](/bible/deuteronomy/28#v45)**  *[[1:05:01](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=3901s)]*
 
 > <sup>[45](/bible/deuteronomy/28#v45)</sup> Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the Lord thy God, to keep his commandments and his statutes which he commanded thee:
 
@@ -327,7 +329,7 @@ Reading from *The Mis-Education of the Negro*, chapter 10, "The Loss of Vision" 
 
 - **Deacon Eythan:** Yep. Bottom line: when you speak ill of your people, whether on the continent, or on an island in the Caribbean, the curses are upon you. It is self-evident. When you say you've always been here, and them ships dragged you over here according to God's prophecy, and you're saying no, that's not true, you're going against your God. Your God made a promise. You're saying our God didn't deliver. We going to leave you there.
 
-**[Daniel 8:23-27](/bible/daniel/8#v23)**  *[1:11:54]*
+**[Daniel 8:23-27](/bible/daniel/8#v23)**  *[[1:11:54](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=4314s)]*
 
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 
@@ -363,7 +365,7 @@ Reading from *The Mis-Education of the Negro*, chapter 10, "The Loss of Vision" 
 
 - So Daniel was able to see 370 years into the future: from him to Antiochus is 370 years. You think he can't see America too? The Lord showed Daniel history that would take place 370 years after him. How do you explain that? You can't explain that away. History is prophecy, unfulfilled or fulfilled. That's what it is.
 
-**[1 Kings 13:1-2](/bible/1-kings/13#v1)**  *[1:19:16]*
+**[1 Kings 13:1-2](/bible/1-kings/13#v1)**  *[[1:19:16](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=4756s)]*
 
 > <sup>[1](/bible/1-kings/13#v1)</sup> And, behold, there came a man of God out of Judah by the word of the Lord unto Beth–el: and Jeroboam stood by the altar to burn incense.
 
@@ -375,18 +377,18 @@ Reading from *The Mis-Education of the Negro*, chapter 10, "The Loss of Vision" 
 
 - **Officer:** And neither are we.
 
-*[1:20:57]* The break: IUIC Jamaica, Spanish Town, with Officer Josiah, cleaning up the community at Half Way Tree to show our people that Israel can come together in unity; the Texas Takeover in Longview, Texas, with a man who learned of the twelve tribes and the true depiction of Christ that day ("I'm 43 years old and I learned something today"); community cleanups in Texas and in Providence, Rhode Island; family fun days in Austin, Texas, and at a state park in Pennsylvania (a gathering of the brethren: Psalms 133, Zephaniah 2:1, Ephesians 4:3; one mind, one spirit); Captain Yoshua of IUIC Virginia with the Young Men of Valor at a boxing clinic ("We don't promote or advocate violence, but if it ever comes down to it and we got to defend ourselves, we need to make sure that we know how to do it. Many of our forefathers were mighty men of war"); and the new Biblical Smoke YouTube channel.
+*[[1:20:57](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=4857s)]* The break: IUIC Jamaica, Spanish Town, with Officer Josiah, cleaning up the community at Half Way Tree to show our people that Israel can come together in unity; the Texas Takeover in Longview, Texas, with a man who learned of the twelve tribes and the true depiction of Christ that day ("I'm 43 years old and I learned something today"); community cleanups in Texas and in Providence, Rhode Island; family fun days in Austin, Texas, and at a state park in Pennsylvania (a gathering of the brethren: Psalms 133, Zephaniah 2:1, Ephesians 4:3; one mind, one spirit); Captain Yoshua of IUIC Virginia with the Young Men of Valor at a boxing clinic ("We don't promote or advocate violence, but if it ever comes down to it and we got to defend ourselves, we need to make sure that we know how to do it. Many of our forefathers were mighty men of war"); and the new Biblical Smoke YouTube channel.
 
-*[1:30:09]* We're back from the break. Let me make something very clear, since some of y'all are saying I'm off. I've been teaching this Bible for over 20 years, and we've been teaching that the northern kingdom came to this side of the world. I have a YouTube channel I made in 2007, older than some of y'all in this comment section. Number one, be quiet. Number two: I'm fully aware that the Native Americans were already on this side of the world. That's irrelevant. I'm not talking about the Native Americans, our Israelite brothers who are already over here. I'm talking about the ones who were brought over here in ships, that hate their brothers, and now claim to have always been here. If you scroll down on our OHH channel, you might learn something: I did Lost Tribes of the Promised Land, a whole segment on the Native Americans on this side of the world. The very beginning of the show started with the Native Americans being Israelites. So relax. Some of us have always been here. Not all of us. And this is not our promised land. This was exile.
+*[[1:30:09](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=5409s)]* We're back from the break. Let me make something very clear, since some of y'all are saying I'm off. I've been teaching this Bible for over 20 years, and we've been teaching that the northern kingdom came to this side of the world. I have a YouTube channel I made in 2007, older than some of y'all in this comment section. Number one, be quiet. Number two: I'm fully aware that the Native Americans were already on this side of the world. That's irrelevant. I'm not talking about the Native Americans, our Israelite brothers who are already over here. I'm talking about the ones who were brought over here in ships, that hate their brothers, and now claim to have always been here. If you scroll down on our OHH channel, you might learn something: I did Lost Tribes of the Promised Land, a whole segment on the Native Americans on this side of the world. The very beginning of the show started with the Native Americans being Israelites. So relax. Some of us have always been here. Not all of us. And this is not our promised land. This was exile.
 
 
-**[1 Kings 13:2](/bible/1-kings/13#v2)**  *[1:32:19]*
+**[1 Kings 13:2](/bible/1-kings/13#v2)**  *[[1:32:19](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=5539s)]*
 
 > <sup>[2](/bible/1-kings/13#v2)</sup> And he cried against the altar in the word of the Lord, and said, O altar, altar, thus saith the Lord; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men’s bones shall be burnt upon thee.
 
 - Josiah by name. I got your comments. So this is a prophecy of what King Josiah would do, 300 years before he was born, by name.
 
-**[2 Kings 23:15-16](/bible/2-kings/23#v15)**  *[1:32:59]*
+**[2 Kings 23:15-16](/bible/2-kings/23#v15)**  *[[1:32:59](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=5579s)]*
 
 > <sup>[15](/bible/2-kings/23#v15)</sup> Moreover the altar that was at Beth–el, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, and stamped it small to powder, and burned the grove.
 
@@ -396,12 +398,12 @@ Reading from *The Mis-Education of the Negro*, chapter 10, "The Loss of Vision" 
 
 - According to the word of the Lord which the man of God proclaimed. So that goes back to the prophet that spoke about him 300 years prior.
 
-*[1:34:20]* Text us at 267-262-6121 if you have questions regarding the topic. We trying to stay on topic. Some of you ignorant children on here who are smitten with madness are throwing me off topic with your ignorance. But it's all right. I'm going to suffer you.
+*[[1:34:20](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=5660s)]* Text us at 267-262-6121 if you have questions regarding the topic. We trying to stay on topic. Some of you ignorant children on here who are smitten with madness are throwing me off topic with your ignorance. But it's all right. I'm going to suffer you.
 
 
 <div class="reading">
 
-Reading from a museum placard, "The Birth of Archaeology", photographed by Officer Joshua of Rochester · read by an officer  *[1:35:31]*
+Reading from a museum placard, "The Birth of Archaeology", photographed by Officer Joshua of Rochester · read by an officer  *[[1:35:31](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=5731s)]*
 
 > The birth of archaeology.
 
@@ -421,7 +423,7 @@ Reading from a museum placard, "The Birth of Archaeology", photographed by Offic
 
 </div>
 
-**[2 Thessalonians 2:10-12](/bible/2-thessalonians/2#v10)**  *[1:38:43]*
+**[2 Thessalonians 2:10-12](/bible/2-thessalonians/2#v10)**  *[[1:38:43](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=5923s)]*
 
 > <sup>[10](/bible/2-thessalonians/2#v10)</sup> And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 
@@ -439,7 +441,7 @@ Reading from a museum placard, "The Birth of Archaeology", photographed by Offic
 
 - **Officer:** That they all might be damned who believe not the truth: that they all might die that believe not, that don't love keeping God's laws. But had pleasure in unrighteousness. Our people have pleasure in sin. That's what they love to do, and they don't care about God's law. So the Lord sends them strong delusion.
 
-**[Daniel 9:1-2](/bible/daniel/9#v1)**  *[1:41:26]*
+**[Daniel 9:1-2](/bible/daniel/9#v1)**  *[[1:41:26](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=6086s)]*
 
 > <sup>[1](/bible/daniel/9#v1)</sup> In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;
 >
@@ -447,7 +449,7 @@ Reading from a museum placard, "The Birth of Archaeology", photographed by Offic
 
 - I Daniel understood by books. By books. So Daniel understood the prophecy of us spending 70 years in captivity in Babylon. Daniel understood by Jeremiah's books, the scrolls, that we were going to spend that time frame in captivity. Jeremiah prophesied it, and that's how long it took. Then we got out of there.
 
-**[Daniel 7:7](/bible/daniel/7#v7)**  *[1:42:32]*
+**[Daniel 7:7](/bible/daniel/7#v7)**  *[[1:42:32](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=6152s)]*
 
 > <sup>[7](/bible/daniel/7#v7)</sup> After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
 
@@ -457,7 +459,7 @@ Reading from a museum placard, "The Birth of Archaeology", photographed by Offic
 
 - You have witches and sorcerers, like the Rothschilds, and even the writers of The Simpsons and Futurama, that have what the Bishop brought out yesterday: clairvoyance. They can kind of see things in the future, to an extent. Give me Isaiah 8.
 
-**[Isaiah 8:19](/bible/isaiah/8#v19)**  *[1:44:59]*
+**[Isaiah 8:19](/bible/isaiah/8#v19)**  *[[1:44:59](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=6299s)]*
 
 > <sup>[19](/bible/isaiah/8#v19)</sup> And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?
 
@@ -469,7 +471,7 @@ Reading from a museum placard, "The Birth of Archaeology", photographed by Offic
 
 - **Officer:** We got one in Ezekiel 21, with the king of Babylon, Nebuchadnezzar.
 
-**[Ezekiel 21:21-23](/bible/ezekiel/21#v21)**  *[1:46:42]*
+**[Ezekiel 21:21-23](/bible/ezekiel/21#v21)**  *[[1:46:42](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=6402s)]*
 
 > <sup>[21](/bible/ezekiel/21#v21)</sup> For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made his arrows bright, he consulted with images, he looked in the liver.
 
@@ -485,7 +487,7 @@ Reading from a museum placard, "The Birth of Archaeology", photographed by Offic
 
 <div class="reading">
 
-Reading from *Ancient Times* by James Henry Breasted, first edition, pages 35, 37, 38, 64, 124 to 125, the Hebrew brickyard and page 173; then the second edition, page 239  *[1:49:12]*
+Reading from *Ancient Times* by James Henry Breasted, first edition, pages 35, 37, 38, 64, 124 to 125, the Hebrew brickyard and page 173; then the second edition, page 239  *[[1:49:12](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=6552s)]*
 
 > Egypt and its earliest inhabitants. We are to begin our study of the story of Egypt: the earliest Nile dwellers and the pyramid age.
 >
@@ -553,7 +555,7 @@ Reading from *Ancient Times* by James Henry Breasted, first edition, pages 35, 3
 
 </div>
 
-**[Exodus 11:7](/bible/exodus/11#v7)**  *[2:06:16]*
+**[Exodus 11:7](/bible/exodus/11#v7)**  *[[2:06:16](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=7576s)]*
 
 > <sup>[7](/bible/exodus/11#v7)</sup> But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel.
 
@@ -561,7 +563,7 @@ Reading from *Ancient Times* by James Henry Breasted, first edition, pages 35, 3
 
 <div class="reading">
 
-Reading from *Ancient Times* by James Henry Breasted, second edition, page 577, on the Babylonian liver model  *[2:06:39]*
+Reading from *Ancient Times* by James Henry Breasted, second edition, page 577, on the Babylonian liver model  *[[2:06:39](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=7599s)]*
 
 > Ancient Babylonian diviner's baked clay model of a sheep's liver, compared with bronze model of a liver used by the Etruscan diviners.
 
@@ -573,7 +575,7 @@ Reading from *Ancient Times* by James Henry Breasted, second edition, page 577, 
 
 </div>
 
-**[Genesis 9:26-27](/bible/genesis/9#v26)**  *[2:08:35]*
+**[Genesis 9:26-27](/bible/genesis/9#v26)**  *[[2:08:35](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=7715s)]*
 
 > <sup>[26](/bible/genesis/9#v26)</sup> And he said, Blessed be the Lord God of Shem; and Canaan shall be his servant.
 >
@@ -583,7 +585,7 @@ Reading from *Ancient Times* by James Henry Breasted, second edition, page 577, 
 
 <div class="reading">
 
-Reading from *Ancient Times*, second edition, page 577, continued  *[2:09:09]*
+Reading from *Ancient Times*, second edition, page 577, continued  *[[2:09:09](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=7749s)]*
 
 > Ancient Babylonian diviner's baked clay model of a sheep's liver, compared with bronze model of a liver used by the Etruscan diviners.
 
@@ -617,7 +619,7 @@ Reading from *Ancient Times*, second edition, page 577, continued  *[2:09:09]*
 
 </div>
 
-**[Daniel 5:11-12](/bible/daniel/5#v11)**  *[2:14:45]*
+**[Daniel 5:11-12](/bible/daniel/5#v11)**  *[[2:14:45](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8085s)]*
 
 > <sup>[11](/bible/daniel/5#v11)</sup> There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;
 
@@ -641,7 +643,7 @@ Reading from *Ancient Times*, second edition, page 577, continued  *[2:09:09]*
 
 <div class="reading">
 
-Reading from *Ancient Times*, page 175, the section the margin reference 227 points to, on divination  *[2:19:51]*
+Reading from *Ancient Times*, page 175, the section the margin reference 227 points to, on divination  *[[2:19:51](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8391s)]*
 
 > Among the benefits granted by the gods was the ability to foretell the future. This art we call divination, and the priest who practiced it was a diviner.
 
@@ -665,7 +667,7 @@ Reading from *Ancient Times*, page 175, the section the margin reference 227 poi
 
 </div>
 
-**[Daniel 7:7-8](/bible/daniel/7#v7)**  *[2:22:23]*
+**[Daniel 7:7-8](/bible/daniel/7#v7)**  *[[2:22:23](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8543s)]*
 
 > <sup>[7](/bible/daniel/7#v7)</sup> After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
 
@@ -679,7 +681,7 @@ Reading from *Ancient Times*, page 175, the section the margin reference 227 poi
 
 - **Deacon Eythan:** Okay, one more. Just to give you the image. What Daniel was unable to see, the Lord showed Ezra.
 
-**[2 Esdras 11:1](/bible/2-esdras/11#v1)**  *[2:24:02]*
+**[2 Esdras 11:1](/bible/2-esdras/11#v1)**  *[[2:24:02](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8642s)]*
 
 > <sup>[1](/bible/2-esdras/11#v1)</sup> Then saw I a dream, and, behold, there came up from the sea an eagle, which had twelve feathered wings, and three heads.
 
@@ -689,7 +691,7 @@ Reading from *Ancient Times*, page 175, the section the margin reference 227 poi
 
 - An eagle with twelve feathered wings and three heads.
 
-**[2 Esdras 12:10-12](/bible/2-esdras/12#v10)**  *[2:26:00]*
+**[2 Esdras 12:10-12](/bible/2-esdras/12#v10)**  *[[2:26:00](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8760s)]*
 
 > <sup>[10](/bible/2-esdras/12#v10)</sup> And he said unto me, This is the interpretation of the vision:
 >
@@ -707,7 +709,7 @@ Reading from *Ancient Times*, page 175, the section the margin reference 227 poi
 
 - So now we have a symbol. We have the lion, we have the bear, we have the leopard, and we have the eagle. Or we have the ram, and we have the goat, and the next one I'm going to leave for now. Now we have an idea of the fourth beast. It is a dreadful beast that is shown to Ezra as a dreadful eagle. Real quick, I'm not skipping ahead.
 
-**[2 Esdras 11:45](/bible/2-esdras/11#v45)**  *[2:27:53]*
+**[2 Esdras 11:45](/bible/2-esdras/11#v45)**  *[[2:27:53](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8873s)]*
 
 > <sup>[45](/bible/2-esdras/11#v45)</sup> And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers, nor thy malicious heads, nor thy hurtful claws, nor all thy vain body:
 
@@ -715,23 +717,23 @@ Reading from *Ancient Times*, page 175, the section the margin reference 227 poi
 
 ## In Closing
 
-*[2:28:24]* So we're going to stop right there on the fourth beast, because I have so much I want to go into regarding this beast. Hope you guys enjoyed the lesson. Glad you guys are able to interact with us. We finally got to the fourth beast. We got through the prophecies 300-plus years after Daniel. This is crazy: Josiah being mentioned 300 years before he's born, by name. Insane. We got more for y'all next week. So until then, shalom. Most High, Christ bless.
+*[[2:28:24](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8904s)]* So we're going to stop right there on the fourth beast, because I have so much I want to go into regarding this beast. Hope you guys enjoyed the lesson. Glad you guys are able to interact with us. We finally got to the fourth beast. We got through the prophecies 300-plus years after Daniel. This is crazy: Josiah being mentioned 300 years before he's born, by name. Insane. We got more for y'all next week. So until then, shalom. Most High, Christ bless.
 
 **Officer:** All praise to the Lord. Interesting and edifying lesson. Shout out to those that donate towards the club to get these books. As you can see, they're very useful. A lot of history in these books that Deacon's bringing out to coincide with the Bible.
 
-*[2:29:50]* **Officer:** Someone said in the comments, Donald Trump may very well be King Nebuchadnezzar reincarnated. What say you on this, Deacon? I never got your answer from weeks ago.
+*[[2:29:50](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8990s)]* **Officer:** Someone said in the comments, Donald Trump may very well be King Nebuchadnezzar reincarnated. What say you on this, Deacon? I never got your answer from weeks ago.
 
 **Deacon Eythan:** No, he's not the incarnation of Nebuchadnezzar, because Nebuchadnezzar was a Hamite. That's not the same people. But you're asking that because you want to know why the Lord showed Nebuchadnezzar the dream in the first place. I haven't got to that yet. That's going to be later on. But y'all keep asking me, so I can remember. So just be patient. The answer to that question is no, because they're different nations of people. But I will eventually explain why the Lord showed Nebuchadnezzar the end, and why he did it. Lord's will, at last. Stay patient, stay tuned.
 
-*[2:32:40]* **Deacon Eythan:** The tall people will be the Sudanese. The Ethiopians tend to be tall. And you mentioned the Watusi. The Hutus and Tutsis: I believe some of them are us. The Dinkas: some of those are us as well. They're Semites and Hamites. Remember, Israel fled into Egypt and Ethiopia, so we intermingled with them. The ones with that dry-looking skin, that's Ramses' babies. Some of the ones that got that shine like us, that might be us in there, mingled in somewhere. But South Sudan: we always take the south; that's us. A lot of those who were shipped off, that's us. We may have taken the height, but it's still us in some instances. A lot of those are Hamites. But a lot of the Sudanese who were sold off and shipped off and working on the plantations over there was us as well, under the sultans and the Arab caliphs. Muhammad Ali owned a lot of slaves; not the boxer, the one he's named after. So hope you guys got some understanding on that. Lord's will, we'll see y'all again next week. Shalom. Most High, Christ bless.
+*[[2:32:40](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=9160s)]* **Deacon Eythan:** The tall people will be the Sudanese. The Ethiopians tend to be tall. And you mentioned the Watusi. The Hutus and Tutsis: I believe some of them are us. The Dinkas: some of those are us as well. They're Semites and Hamites. Remember, Israel fled into Egypt and Ethiopia, so we intermingled with them. The ones with that dry-looking skin, that's Ramses' babies. Some of the ones that got that shine like us, that might be us in there, mingled in somewhere. But South Sudan: we always take the south; that's us. A lot of those who were shipped off, that's us. We may have taken the height, but it's still us in some instances. A lot of those are Hamites. But a lot of the Sudanese who were sold off and shipped off and working on the plantations over there was us as well, under the sultans and the Arab caliphs. Muhammad Ali owned a lot of slaves; not the boxer, the one he's named after. So hope you guys got some understanding on that. Lord's will, we'll see y'all again next week. Shalom. Most High, Christ bless.
 
 ## Announcements & References
 
-*[2:29:19]* Subscribe to Our Hidden History on YouTube, IUIC Philadelphia, and IUIC Philadelphia in the ClassRoom. Donate to OHH on PayPal; you can see the funds are very well used. Donate to the Booster Club on PayPal: we got many brothers out there traveling, putting in the work, waking up the people, and that's all because of you. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
+*[[2:29:19](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=8959s)]* Subscribe to Our Hidden History on YouTube, IUIC Philadelphia, and IUIC Philadelphia in the ClassRoom. Donate to OHH on PayPal; you can see the funds are very well used. Donate to the Booster Club on PayPal: we got many brothers out there traveling, putting in the work, waking up the people, and that's all because of you. Last but not least, subscribe to IUIC TV to get exclusive content from the leadership of IUIC.
 
-*[2:31:12]* Missing persons: a twelve-year-old girl, last seen September 11th, 2026, on North Second Street. It's not too far from here. If y'all see her, contact the proper authorities. We got to find our people.
+*[[2:31:12](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=9072s)]* Missing persons: a twelve-year-old girl, last seen September 11th, 2026, on North Second Street. It's not too far from here. If y'all see her, contact the proper authorities. We got to find our people.
 
-*[2:32:01]* Land fund: donate, and in the notes section put land. We definitely need these funds to continue the construction on our land. Tabernacles is around the corner; unfortunately we got to be separate from each other, but united in other sections and in the spirit. One day we will have our land, and we can all come together and gather as the Bible says. We're also seeking your assistance to enhance our national broadcast: kindly spare a minute to provide feedback by answering five brief questions. Scan the QR code.
+*[[2:32:01](https://www.youtube.com/watch?v=Q_9OwwfF7uM&t=9121s)]* Land fund: donate, and in the notes section put land. We definitely need these funds to continue the construction on our land. Tabernacles is around the corner; unfortunately we got to be separate from each other, but united in other sections and in the spirit. One day we will have our land, and we can all come together and gather as the Bible says. We're also seeking your assistance to enhance our national broadcast: kindly spare a minute to provide feedback by answering five brief questions. Scan the QR code.
 
 Text the show at 267-262-6121.
 

@@ -4,10 +4,12 @@ slug: "2026/2026-10-21-pride-destroyer-of-relationships"
 date: "2026-10-21"
 teacher: "Captain Obadiah"
 description: "15 Minutes w/ The Captains · 2026-10-21"
-tags: ["15 Minutes w/ The Captains"]
+tags: ["15 Minutes w/ The Captains", "discipline", "pride", "the-body"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-10-21</p>
+
+<span class="opens"><b>Opens</b> [Prov 13](/bible/proverbs/13) · [Prov 28](/bible/proverbs/28) · [Prov 17](/bible/proverbs/17) · [Prov 9](/bible/proverbs/9) · [Sir 21](/bible/sirach/21) · [Matt 5](/bible/matthew/5) · [Phil 2](/bible/philippians/2) · [James 4](/bible/james/4)</span>
 
 <!-- truncate -->
 
@@ -15,11 +17,11 @@ tags: ["15 Minutes w/ The Captains"]
 
 ## Introduction
 
-*[0:19]* Today the topic is pride, the destroyer of relationships. What is very important is the unity of the body: the relationship we have with our brothers, with the sisters, with our wives, and the wife with the husband, is very important to the unification of our nation. Anytime we allow pride to come in, it disrupts that unity. Pride turns disagreements into division, because it makes being right more important than the peace and the bond of that relationship. You want to be vindicated, your ego gets in the way, and we have to be mindful that the scripture says blessed be the peacemakers.
+*[[0:19](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=19s)]* Today the topic is pride, the destroyer of relationships. What is very important is the unity of the body: the relationship we have with our brothers, with the sisters, with our wives, and the wife with the husband, is very important to the unification of our nation. Anytime we allow pride to come in, it disrupts that unity. Pride turns disagreements into division, because it makes being right more important than the peace and the bond of that relationship. You want to be vindicated, your ego gets in the way, and we have to be mindful that the scripture says blessed be the peacemakers.
 
 ## Scriptures Opened
 
-**[Proverbs 13:10](/bible/proverbs/13#v10)**  *[1:14]*
+**[Proverbs 13:10](/bible/proverbs/13#v10)**  *[[1:14](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=74s)]*
 
 > <sup>[10](/bible/proverbs/13#v10)</sup> Only by pride cometh contention: but with the well advised is wisdom.
 
@@ -32,7 +34,7 @@ tags: ["15 Minutes w/ The Captains"]
 - At the end of the day it really does not matter what the issue is. What matters is that we get back on the same page.
 
 
-**[Proverbs 28:25](/bible/proverbs/28#v25)**  *[2:32]*
+**[Proverbs 28:25](/bible/proverbs/28#v25)**  *[[2:32](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=152s)]*
 
 > <sup>[25](/bible/proverbs/28#v25)</sup> He that is of a proud heart stirreth up strife: but he that putteth his trust in the Lord shall be made fat.
 
@@ -45,7 +47,7 @@ tags: ["15 Minutes w/ The Captains"]
 - When you put your trust in the Lord, you will be blessed.
 
 
-**[Proverbs 17:14](/bible/proverbs/17#v14)**  *[3:57]*
+**[Proverbs 17:14](/bible/proverbs/17#v14)**  *[[3:57](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=237s)]*
 
 > <sup>[14](/bible/proverbs/17#v14)</sup> The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.
 
@@ -60,7 +62,7 @@ tags: ["15 Minutes w/ The Captains"]
 - That leak is just a little contention. You cannot respond with silence, you cannot respond with agreement; you have to have some type of rebuttal, the last word. No matter who it is or what the situation is, you have to be right. Leave off contention.
 
 
-**[Proverbs 9:7-9](/bible/proverbs/9#v7)**  *[5:58]*
+**[Proverbs 9:7-9](/bible/proverbs/9#v7)**  *[[5:58](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=358s)]*
 
 > <sup>[7](/bible/proverbs/9#v7)</sup> He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot.
 >
@@ -87,7 +89,7 @@ tags: ["15 Minutes w/ The Captains"]
 - When people who hate correction dwell amongst the congregation, that spirit grows and festers, and you find yourself in 35 councils every week, because somebody cannot take correction, somebody is offended, somebody's ego is damaged.
 
 
-**[Sirach 21:6](/bible/sirach/21#v6)**  *[10:37]*
+**[Sirach 21:6](/bible/sirach/21#v6)**  *[[10:37](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=637s)]*
 
 > <sup>[6](/bible/sirach/21#v6)</sup> He that hateth to be reproved is in the way of sinners: but he that feareth the Lord will repent from his heart.
 
@@ -96,7 +98,7 @@ tags: ["15 Minutes w/ The Captains"]
 - Why does it say from the heart, from the mind? Some people get corrected and say, understood, thank you for correcting me, and then go do the same thing over and over again. They never really change; their spirit never changed. They are still that same old negro, Latino or Native American.
 
 
-**[Matthew 5:23-24](/bible/matthew/5#v23)**  *[11:30]*
+**[Matthew 5:23-24](/bible/matthew/5#v23)**  *[[11:30](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=690s)]*
 
 > <sup>[23](/bible/matthew/5#v23)</sup> Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 >
@@ -109,7 +111,7 @@ tags: ["15 Minutes w/ The Captains"]
 - The priority is reconciling with your brother. Do not go to the Lord until you clear up the issues amongst ourselves. That is what is most important.
 
 
-**[Philippians 2:3](/bible/philippians/2#v3)**  *[12:56]*
+**[Philippians 2:3](/bible/philippians/2#v3)**  *[[12:56](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=776s)]*
 
 > <sup>[3](/bible/philippians/2#v3)</sup> Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
 
@@ -122,7 +124,7 @@ tags: ["15 Minutes w/ The Captains"]
 - Look at your brother and your sister and esteem them higher than yourself, because we all have a couple of things wrong with us that we are still working on purging out. Highlight the good; focus on the good.
 
 
-**[James 4:1-3](/bible/james/4#v1)**  *[14:31]*
+**[James 4:1-3](/bible/james/4#v1)**  *[[14:31](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=871s)]*
 
 > <sup>[1](/bible/james/4#v1)</sup> From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
 >
@@ -138,7 +140,7 @@ tags: ["15 Minutes w/ The Captains"]
 
 ## In Closing
 
-*[16:08]* Whatever motives and lust you have, you have to learn how to mortify those members, as it says in Colossians 3:5. Learn how to deaden those members and come to the congregation with a pure, sincere heart and a pure, sincere spirit. That is my time. I'm Captain Obadiah. Shalom.
+*[[16:08](https://www.youtube.com/watch?v=HJmeeAfj_WI&t=968s)]* Whatever motives and lust you have, you have to learn how to mortify those members, as it says in Colossians 3:5. Learn how to deaden those members and come to the congregation with a pure, sincere heart and a pure, sincere spirit. That is my time. I'm Captain Obadiah. Shalom.
 
 ---
 
