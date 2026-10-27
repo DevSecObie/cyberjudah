@@ -1,0 +1,198 @@
+# Family links in Genesis, each with the verse that states it.
+# child < father | verses      child << mother | verses      a = b | verses (husband and wife, concubine)
+# a ~ b | verses (the text calls them brother or sister)      a ^ b | verses (a is descended from b; generations not given)
+# Several children: "c1 c2 c3 < father | verses"
+cain < adam | 4:1
+cain << eve | 4:1
+abel << eve | 4:2
+cain ~ abel | 4:2,4:8
+adam = eve | 4:1
+seth < adam | 4:25,5:3
+seth << eve | 4:25
+enoch-c < cain | 4:17
+irad < enoch-c | 4:18
+mehujael < irad | 4:18
+methusael < mehujael | 4:18
+lamech-c < methusael | 4:18
+lamech-c = adah-l | 4:19
+lamech-c = zillah | 4:19
+jabal << adah-l | 4:20
+jubal ~ jabal | 4:21
+tubal-cain << zillah | 4:22
+naamah ~ tubal-cain | 4:22
+enos < seth | 4:26,5:6
+cainan < enos | 5:9
+mahalaleel < cainan | 5:12
+jared < mahalaleel | 5:15
+enoch < jared | 5:18
+methuselah < enoch | 5:21
+lamech < methuselah | 5:25
+noah < lamech | 5:28,5:29
+shem ham japheth < noah | 5:32,9:18
+shem ~ japheth | 10:21
+ham ~ shem | 9:22
+ham ~ japheth | 9:22
+canaan < ham | 9:18,10:6
+gomer magog madai javan tubal meshech tiras < japheth | 10:2
+ashkenaz riphath togarmah < gomer | 10:3
+elishah tarshish kittim dodanim < javan | 10:4
+cush mizraim phut < ham | 10:6
+seba havilah-c sabtah raamah sabtecha < cush | 10:7
+sheba-r dedan-r < raamah | 10:7
+nimrod < cush | 10:8
+ludim anamim lehabim naphtuhim pathrusim casluhim caphtorim < mizraim | 10:13,10:14
+philistim ^ casluhim | 10:14
+sidon heth jebusite amorite girgasite hivite arkite sinite arvadite zemarite hamathite < canaan | 10:15,10:16,10:17,10:18
+elam asshur-s arphaxad lud aram < shem | 10:22
+uz hul gether mash < aram | 10:23
+salah < arphaxad | 10:24,11:12
+eber < salah | 10:24,11:14
+eber ^ shem | 10:21
+peleg joktan < eber | 10:25
+peleg ~ joktan | 10:25
+almodad sheleph hazarmaveth jerah hadoram uzal diklah obal abimael sheba-j ophir havilah-j jobab-j < joktan | 10:26,10:27,10:28,10:29
+reu < peleg | 11:18
+serug < reu | 11:20
+nahor-s < serug | 11:22
+terah < nahor-s | 11:24
+abraham nahor haran < terah | 11:26,11:27
+lot < haran | 11:27,11:31
+milcah iscah < haran | 11:29
+abraham = sarah | 11:29
+nahor = milcah | 11:29
+sarah < terah | 20:12 | Abraham says: "she is the daughter of my father, but not the daughter of my mother"
+sarah ~ abraham | 20:12
+eshcol ~ mamre | 14:13
+aner ~ mamre | 14:13
+abraham = hagar | 16:3
+ishmael < abraham | 16:15,16:16,25:12
+ishmael << hagar | 16:15,16:16,25:12
+moab ben-ammi < lot | 19:36,19:37,19:38
+moabites ^ moab | 19:37
+ammon ^ ben-ammi | 19:38
+isaac < abraham | 21:2,21:3,25:19
+isaac << sarah | 21:2,21:3
+huz buz kemuel chesed hazo pildash jidlaph bethuel < nahor | 22:20,22:21,22:22,22:23
+huz buz kemuel chesed hazo pildash jidlaph bethuel << milcah | 22:20,22:21,22:22,22:23
+huz ~ buz | 22:21
+aram-k < kemuel | 22:21
+rebekah < bethuel | 22:23,24:15,24:24
+nahor = reumah | 22:24
+tebah gaham thahash maachah << reumah | 22:24
+tebah gaham thahash maachah < nahor | 22:24
+nahor ~ abraham | 22:20,22:23,24:15
+ephron < zohar-h | 23:8,25:9
+laban ~ rebekah | 24:29,25:20,28:5
+laban < bethuel | 28:5
+laban ^ nahor | 29:5 | Jacob asks after "Laban the son of Nahor"; Laban's father is Bethuel (28:5) and Bethuel's father is Nahor (24:24)
+isaac = rebekah | 24:67,25:20
+abraham = keturah | 25:1
+zimran jokshan medan midian ishbak shuah < abraham | 25:2
+zimran jokshan medan midian ishbak shuah << keturah | 25:1,25:2
+sheba-k dedan-k < jokshan | 25:3
+asshurim letushim leummim < dedan-k | 25:3
+ephah epher hanoch-m abida eldaah < midian | 25:4
+nebajoth kedar adbeel mibsam mishma dumah massa hadar tema jetur naphish kedemah < ishmael | 25:13,25:14,25:15
+esau jacob << rebekah | 25:21,25:26,28:5
+esau jacob < isaac | 25:26,35:29
+esau ~ jacob | 25:26,35:1
+esau = judith | 26:34
+esau = bashemath-h | 26:34
+judith < beeri | 26:34
+bashemath-h < elon-h | 26:34
+esau = mahalath | 28:9
+mahalath < ishmael | 28:9
+mahalath ~ nebajoth | 28:9
+leah rachel < laban | 29:10,29:16
+leah ~ rachel | 29:16,30:1
+jacob = leah | 29:23,29:25
+jacob = rachel | 29:28,46:19
+jacob = bilhah | 30:4
+jacob = zilpah | 30:9
+reuben simeon levi judah issachar zebulun << leah | 29:32,29:33,29:34,29:35,30:18,30:20,35:23
+dan naphtali << bilhah | 30:5,30:6,30:7,30:8,35:25
+gad asher << zilpah | 30:10,30:11,30:12,30:13,35:26
+joseph benjamin << rachel | 30:24,35:18,35:24
+dinah << leah | 30:21,34:1
+reuben simeon levi judah issachar zebulun dan naphtali gad asher joseph benjamin < jacob | 35:22,35:23,35:24,35:25,35:26
+dinah < jacob | 34:1,34:3
+simeon ~ dinah | 34:25
+levi ~ dinah | 34:25
+shechem < hamor | 33:19,34:2
+esau = adah | 36:2
+esau = aholibamah | 36:2
+esau = bashemath | 36:3
+adah < elon-h | 36:2
+aholibamah < anah | 36:2,36:14,36:25
+aholibamah ^ zibeon | 36:2,36:14 | The text reads "Aholibamah the daughter of Anah the daughter of Zibeon"; Anah is the son of Zibeon (36:24)
+bashemath < ishmael | 36:3
+bashemath ~ nebajoth | 36:3
+eliphaz < esau | 36:4,36:10
+eliphaz << adah | 36:4,36:10
+reuel < esau | 36:10
+reuel << bashemath | 36:4,36:10
+jeush jaalam korah < esau | 36:5,36:14
+jeush jaalam korah << aholibamah | 36:5,36:14
+edomites ^ esau | 36:9,36:43
+teman omar zepho gatam kenaz < eliphaz | 36:11
+eliphaz = timna | 36:12
+amalek < eliphaz | 36:12
+amalek << timna | 36:12
+nahath zerah-r shammah mizzah < reuel | 36:13
+lotan shobal zibeon anah-s dishon-s ezer dishan < seir | 36:20,36:21
+hori hemam < lotan | 36:22
+timna-s ~ lotan | 36:22
+alvan manahath ebal shepho onam < shobal | 36:23
+ajah anah < zibeon | 36:24
+dishon < anah | 36:25
+dishon ~ aholibamah | 36:25
+hemdan eshban ithran cheran < dishon-s | 36:26
+bilhan zaavan akan < ezer | 36:27
+uz-d aran < dishan | 36:28
+bela-k < beor | 36:32
+jobab < zerah-e | 36:33
+hadad < bedad | 36:35
+baal-hanan < achbor | 36:38,36:39
+hadar-k = mehetabel | 36:39
+mehetabel ^ matred | 36:39 | "Mehetabel, the daughter of Matred, the daughter of Mezahab"
+mehetabel ^ mezahab | 36:39 | "Mehetabel, the daughter of Matred, the daughter of Mezahab"
+er onan shelah < judah | 38:3,38:4,38:5,46:12
+er onan shelah ^ shuah-c | 38:2,38:3 | Their mother is "a daughter of a certain Canaanite, whose name was Shuah", not named
+er = tamar | 38:6
+pharez zarah < judah | 38:18,46:12
+pharez zarah << tamar | 38:24,38:27,38:29,38:30
+pharez ~ zarah | 38:29,38:30
+joseph = asenath | 41:45
+asenath < poti-pherah | 41:45,41:50,46:20
+manasseh ephraim < joseph | 41:51,41:52,46:20
+manasseh ephraim << asenath | 41:50,46:20
+hanoch phallu hezron-r carmi < reuben | 46:9
+jemuel jamin ohad jachin zohar shaul < simeon | 46:10
+gershon kohath merari < levi | 46:11
+hezron hamul < pharez | 46:12
+tola phuvah job shimron < issachar | 46:13
+sered elon jahleel < zebulun | 46:14
+ziphion haggi shuni ezbon eri arodi areli < gad | 46:16
+jimnah ishuah isui beriah serah < asher | 46:17
+serah ~ beriah | 46:17
+heber malchiel < beriah | 46:17
+belah becher ashbel gera naaman ehi rosh muppim huppim ard < benjamin | 46:21
+hushim < dan | 46:23
+jahzeel guni jezer shillem < naphtali | 46:24
+joseph ~ benjamin | 43:29,45:14
+israel-people ^ jacob | 46:8
+machir < manasseh | 50:23
+# Nation or people the text gives: a @ group | verses
+ephron @ hittites | 23:10,25:9
+beeri @ hittites | 26:34
+elon-h @ hittites | 26:34,36:2
+hamor @ hivite | 34:2
+zibeon @ hivite | 36:2 | Called "Zibeon the Hivite" here; 36:20 names a Zibeon among the sons of Seir the Horite
+seir @ horites | 36:20
+hagar @ egyptian | 16:1,21:9,25:12
+potiphar @ egyptian | 39:1
+bethuel @ syrian | 25:20,28:5
+laban @ syrian | 25:20,28:5,31:20,31:24
+mamre @ amorite | 14:13
+abraham @ hebrew | 14:13
+hirah @ adullamite | 38:1,38:12,38:20
