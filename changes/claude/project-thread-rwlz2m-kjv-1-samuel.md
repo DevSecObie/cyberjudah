@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: 1 Samuel added (57 new people, 9 peoples, 36 places).

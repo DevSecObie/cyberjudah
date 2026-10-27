@@ -1,0 +1,55 @@
+# Family links in 1 Samuel, each with the verse that states it (same format as genesis.links.txt).
+elkanah-s < jeroham | 1:1
+jeroham < elihu | 1:1
+elihu < tohu | 1:1
+tohu < zuph | 1:1
+elkanah-s = hannah | 1:2,1:8,1:19
+elkanah-s = peninnah | 1:2,1:4
+samuel < elkanah-s | 1:19,1:20,2:11 | "Elkanah knew Hannah his wife ... she bare a son, and called his name Samuel"
+samuel << hannah | 1:20
+hophni phinehas-e < eli | 1:3,2:34,4:4,4:11,4:17
+ahitub < phinehas-e | 14:3
+ahiah < ahitub | 14:3
+ahimelech < ahitub | 22:9,22:11,22:20
+abiathar < ahimelech | 22:20,23:6,30:7
+joel abiah < samuel | 8:1,8:2
+eleazar-a < abinadab-k | 7:1
+joshua-b @ beth-shemite | 6:14,6:18
+kish < abiel | 9:1,14:51
+ner < abiel | 14:51
+abiel < zeror | 9:1
+zeror < bechorath | 9:1
+bechorath < aphiah | 9:1
+kish & benjamin | 9:1 | "a man of Benjamin"
+saul-k < kish | 9:2,9:3,10:11,10:21,14:51
+saul-k ^ matri | 10:21 | "the family of Matri was taken, and Saul the son of Kish was taken"
+jonathan-s < saul-k | 13:16,14:1,14:49,19:1,31:2
+ishui < saul-k | 14:49
+melchi-shua < saul-k | 14:49,31:2
+abinadab-s < saul-k | 31:2
+merab michal < saul-k | 14:49,18:17,18:20
+saul-k = ahinoam-s | 14:50
+ahinoam-s < ahimaaz | 14:50
+abner < ner | 14:50,14:51,26:5,26:14
+nahash @ ammon | 11:1,11:2 | "Nahash the Ammonite"
+agag-a @ amalekites | 15:8,15:20,15:32
+david < jesse | 16:18,16:19,17:12,17:58
+eliab-j abinadab-j shammah-j < jesse | 16:6,16:8,16:9,17:13
+jesse @ ephrathites | 17:12 | "that Ephrathite of Beth-lehem-judah"
+jesse @ beth-lehemite | 16:1,16:18,17:58
+merab = adriel | 18:19
+adriel @ meholathite | 18:19
+michal = david | 18:27,19:11,25:44
+michal = phalti | 25:44
+phalti < laish-m | 25:44
+doeg @ edomites | 21:7,22:9,22:18,22:22
+achish < maoch | 27:2
+nabal = abigail | 25:3,25:14,27:3,30:5
+david = abigail | 25:39,25:42,27:3,30:5
+david = ahinoam-j | 25:43,27:3,30:5
+ahinoam-j @ jezreelitess | 27:3,30:5
+abigail nabal @ carmelite | 27:3,30:5
+abishai << zeruiah | 26:6
+joab << zeruiah | 26:6 | "Abishai the son of Zeruiah, brother to Joab"
+abishai ~ joab | 26:6
+ahimelech-h @ hittites | 26:6
