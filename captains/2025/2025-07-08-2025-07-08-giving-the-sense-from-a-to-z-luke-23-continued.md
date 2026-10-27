@@ -56,9 +56,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 - Now let's go to Luke chapter 23. Captain Mattathias got to Luke 23:23. So that's what we going to pick up at.
 
-- And the voices of them and of the chief priests prevailed: Right? So they coming to Pontious Pilot to get Jesus Christ crucified. That's what we reading. We're reading about the black Jews, the Israelites wanting their black king crucified because the scribes and the Pharisees and the chief priests and the elders had hatred for him.
+- And the voices of them and of the chief priests prevailed: Right? So they coming to Pontius Pilate to get Jesus Christ crucified. That's what we reading. We're reading about the black Jews, the Israelites wanting their black king crucified because the scribes and the Pharisees and the chief priests and the elders had hatred for him.
 
-- And Pilate gave sentence that it should be as they required: Right? So Pilot, the white man, said, "Okay, go ahead then."
+- And Pilate gave sentence that it should be as they required: Right? So Pilate, the white man, said, "Okay, go ahead then."
 
 - And he released unto them him that for sedition and murder was cast into prison, whom they had desired, but he delivered Jesus to their will: So he that was of sedition is Barabbus.
 
@@ -77,7 +77,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 - And then guess what? The same thing going to happen in these last days. They not going to have no evil to really pin on us, but they'll find stipulations and loopholes and stuff within their laws to turn us in to the police. I'm telling you, it's going to happen. You can already see it happening. These folks, there is no depth that Satan won't go to to stop this gospel from reaching the four corners of the earth. Because with this gospel reaching the four corners of the earth, it is the end of his kingdom. Why would the ruling power just sit by and just let you conquer them? That makes no sense. Nobody just sit there and let you just destroy them and their kingdom. No, they going to fight back. They going to fight back. And how they going to fight back? It's not going to be able to be physical at first. It's going to have to be systemic. And it's going to have to be through religion and lies and slander and on social media. That's why on every social media platform you look, we are the black Hebrew Israelites. Even though for years we said, "Look, don't call us that. We don't call ourselves that. We call ourselves the Israelites." And they consistently black Hebrew Israelites. Black Hebrew Israelites. It's all about propaganda and slander. You tell a lie long enough, it becomes truth in your mind. So he found a way to cast Christ into prison.
 
-- Not this man, but Barabbas: Now Barabbus was a robber. So they want a real criminal. So Barabus was a real criminal. They rather have the real criminal than to have the son of God.
+- Not this man, but Barabbas: Now Barabbus was a robber. So they want a real criminal. So Barabbas was a real criminal. They rather have the real criminal than to have the son of God.
 
 
 **[John 19:14-15](/bible/john/19#v14)**  *[[11:06](https://www.youtube.com/watch?v=YERICqJxPmw&t=666s)]*
@@ -103,9 +103,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 - But he delivered Jesus to their will: He delivered Jesus to their will.
 
-- And as they led him away, they laid hold upon one Simon, a Cyrenian: I'm going show you how wicked Esau is. I'm going show you how the so-called white man the devil. Sirene is North Africa, okay? In Libya. So they'll say, "Well, Jesus wasn't black, but the man that carried the cross from him was, cuz he was from Africa." No, Jesus was black, too. Jesus was black. That brother that was holding the cross was black. Barabus was black. All of the apostles, all of the prophets, the chiefs, priests, the scribe, all them was black. Judea was black. Were no white folks in Judea other than the Herodians and Pilate, the people, the client kings, the people that Rome put over judicial plants basically throughout Judea and Samaria and so on and so forth. But them was all black folks. The natural inhabitants of the land were black. Stop the cap. This is ridiculous.
+- And as they led him away, they laid hold upon one Simon, a Cyrenian: I'm going show you how wicked Esau is. I'm going show you how the so-called white man the devil. Cyrene is North Africa, okay? In Libya. So they'll say, "Well, Jesus wasn't black, but the man that carried the cross from him was, cuz he was from Africa." No, Jesus was black, too. Jesus was black. That brother that was holding the cross was black. Barabbas was black. All of the apostles, all of the prophets, the chiefs, priests, the scribe, all them was black. Judea was black. Were no white folks in Judea other than the Herodians and Pilate, the people, the client kings, the people that Rome put over judicial plants basically throughout Judea and Samaria and so on and so forth. But them was all black folks. The natural inhabitants of the land were black. Stop the cap. This is ridiculous.
 
-- So even from that time, Israelites was always in Egypt, always in Africa. Okay? Africa, Africa, Africa. And people just, I'm telling you, people don't read. So the Sirenian that you read about in Luke 23 26, he was an Israelite and so was Jesus Christ. They were all black, black people.
+- So even from that time, Israelites was always in Egypt, always in Africa. Okay? Africa, Africa, Africa. And people just, I'm telling you, people don't read. So the Cyrenian that you read about in Luke 23 26, he was an Israelite and so was Jesus Christ. They were all black, black people.
 
   Precepts:
   - **[Amos 9:7](/bible/amos/9#v7)**
@@ -128,7 +128,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 >
 > <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
 
-- Now in Luke 23 and 26 it says, "And as they led him away, they laid hold upon one Simon and Sirene coming out of the country and they laid the cross that he might bear after Jesus." Now watch this. It says, "When they led him away," watch this. Here's the prophecy of Christ being crucified.
+- Now in Luke 23 and 26 it says, "And as they led him away, they laid hold upon one Simon and Cyrene coming out of the country and they laid the cross that he might bear after Jesus." Now watch this. It says, "When they led him away," watch this. Here's the prophecy of Christ being crucified.
 
 - But he was wounded for our transgressions: When Christ was stricken, when Christ was afflicted, it was for the transgressions of the nation of Israel. You got people that are looking at this and say, "No, that's talking about the nation of Israel." So the nation of Israel was wounded for the nation of Israel. That don't make no sense. So who is the he? The he was Israel. So the he is all Israel. So all Israel was wounded for all Israel's transgressions. He meaning all Israel was bruised for our iniquities. That don't make no sense. That's two different persons. The chastisement of our, meaning Israel's, peace was upon him. So the chastisement of ours peace was upon us. That don't make sense. What are y'all reading?
 
@@ -523,7 +523,7 @@ Reading from Acts 24:14, New International Version and New Living Translation (o
 
 > <sup>[38](/bible/john/19#v38)</sup> And after this Joseph of Arimathea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.
 
-- Going back to Joseph of Arythea. This same man that was able to use his influence in society, right, to get Jesus' body off the cross and to put it in his own supplicer. Watch what the Bible says about him.
+- Going back to Joseph of Arimathaea. This same man that was able to use his influence in society, right, to get Jesus' body off the cross and to put it in his own supplicer. Watch what the Bible says about him.
 
 - Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews: Right? So this brother was following from a distance. Notice what the scripture say. It says but Joseph being a disciple of Jesus, he followed Christ's teachings. It said but secretly because of fear of the Jews. Now if he had came out in the open and said he believed in Jesus he could have lost everything and he would not have been able to go unto Pilate and say, hey look, let me get his body, take it down, put in the supplicer. But because he kept his status or his following of Christ a secret for a while, the Bible says that he was able to use his influence to do good by the son of God and he going to receive a prophet's reward. He wasn't on the front lines teaching with the apostles. But some of you not only able to come on the front lines and teach with us or be amongst us, but at least help us. Help us with this great mission.
 

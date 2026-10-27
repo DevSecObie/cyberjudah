@@ -175,7 +175,7 @@ Reading from Definition of benefactor (read on air; source not named)  *[[3:17](
 
 Reading from *Fox's Book of Martyrs* (as named on air; no page given)  *[[23:54](https://www.youtube.com/watch?v=Vwj8i-cjur8&t=1434s)]*
 
-> St. Peter after various other miracles retired to Rome where he defeated all the artififices and confounded the magic of Simon Maggus a great favorite of the emperor Nero. He also converted to Christianity one of the favorite concubines of that monarch which so exasperated him that he caused both him and Paul to be apprehended.
+> St. Peter after various other miracles retired to Rome where he defeated all the artififices and confounded the magic of Simon Magus a great favorite of the emperor Nero. He also converted to Christianity one of the favorite concubines of that monarch which so exasperated him that he caused both him and Paul to be apprehended.
 
 - So Peter changed the mind of his little chick. Changed the mind of his little chick. Brought her back to the word like, "Look, you don't need to be messing with this dude. You need to repent, sis. Come out of that." And he got upset and threw that and had them apprehended.
 

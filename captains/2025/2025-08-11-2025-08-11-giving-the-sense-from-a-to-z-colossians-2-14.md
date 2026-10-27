@@ -47,7 +47,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 
 - And for as many as have not seen my face in the flesh: Why? Because he never visited the church at Coloss. That's why he said that he never visited. Remember it was started by Epaper.
 
-- The map: So, why would he insert that there in Colossians 2? We're going to show you with this map right here. All right. So you can understand Paul's journey, his mission. All right. So, it says Leodysia. You see that right there? And then to the bottom right, what you see? There you go. Colassi and Hier. Hierropolis is the capital city. All right. That's where like the upper echelon of rich people stayed right there.
+- The map: So, why would he insert that there in Colossians 2? We're going to show you with this map right here. All right. So you can understand Paul's journey, his mission. All right. So, it says Leodysia. You see that right there? And then to the bottom right, what you see? There you go. Colosse and Hier. Hierropolis is the capital city. All right. That's where like the upper echelon of rich people stayed right there.
 
 - And for them at Laodicea: So now when we go back to Colossians 2:1, let's read that. ... Right? And for them that Leodia see, you see that they're right next to each other. All right? So they experienced a lot of the same things. All right? A lot of the same things coming out of idolatry. You understand? And being tempted by ex-Pharisees to follow the law of sacrifice. All right. So Paul when he spoke to the Colossians or when he wrote that epistle, he's speaking to the Leodysians as well about the same exact things. All right.
 
@@ -66,15 +66,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 
 - Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way: And took it out of the way. So we understand when it says us, it's not talking about everybody. It's talking about a particular nation of people. All right. What I always like to do, whenever you're in the streets, you know, when you read in context, you'll be fine. Majority of the time when it comes to Paul's epistles, just go to the first chapter in the first verse because it tells you who he's talking to. So if you want to know who the us is, let's read that in chapter 1 and one. Watch this.
 
-- To the saints and faithful brethren in Christ which are at Colosse: To who? So it's not talking about everybody at Coloss, Colassi. It's not talking about everybody. It's talking about the saints and the faithful brethren. Understand? Heathens are not the brothers of Israelites. Remember who wrote this? Who wrote this? The Apostle Paul, right? So was Paul a heathen or was he an Israelite? (He's an Israelite.) Get that. Give me, is it Philippians 3? Let me get that. When he lists his credentials.
+- To the saints and faithful brethren in Christ which are at Colosse: To who? So it's not talking about everybody at Coloss, Colosse. It's not talking about everybody. It's talking about the saints and the faithful brethren. Understand? Heathens are not the brothers of Israelites. Remember who wrote this? Who wrote this? The Apostle Paul, right? So was Paul a heathen or was he an Israelite? (He's an Israelite.) Get that. Give me, is it Philippians 3? Let me get that. When he lists his credentials.
 
 - The saints: All right. So when we go back to Colossians 1 and 2, it's very simple. All right, we understand that the saints, when you read the book of Psalms chapter 148:14, you understand the saints are talking about the children of Israel. Psalms chapter 50:5 says the same exact thing. All right? It's no confusion. It's just the Christian church that has brought the confusion. The same people who enslave the Israelites, you understand, who funded the transatlantic slave trade and are currently committing a genocide in Gaza. Same people, same exact people. Read that for us.
 
-- Grace be unto you, and peace, from God our Father and the Lord Jesus Christ: Right. So this epistle, this letter that Paul is writing, he's writing it to who? To the church at Colasse or Coloss. Why? Because of the work of Epapris. All right? Who is the faithful minister who spread the gospel there?
+- Grace be unto you, and peace, from God our Father and the Lord Jesus Christ: Right. So this epistle, this letter that Paul is writing, he's writing it to who? To the church at Colosse or Coloss. Why? Because of the work of Epapris. All right? Who is the faithful minister who spread the gospel there?
 
 - Philemon: Just to give you some background, some correlating background, go to Filimon. I believe technically it's pronounced Phileiman. It is pronounced Phileiman, but a lot of people look at me crazy if I say Phileiman. Don't know what I'm talking about. So watch this. Give me verse one. Then I want you to jump to verse 23. Watch this.
 
-- There salute thee Epaphras, my fellowprisoner in Christ Jesus: Right? Why would Paul say to, for to Filimon to salute Epaparis? Why? Because Filimon and Epapus was where? In Colass or Colassi, you understand? So they're both in the same city. All right. So now let's go back to verse 14. So speaking of who? Speaking to the Israelites at Coloss. Colossians 21:14. Come on.
+- There salute thee Epaphras, my fellowprisoner in Christ Jesus: Right? Why would Paul say to, for to Filimon to salute Epaparis? Why? Because Filimon and Epapus was where? In Colass or Colosse, you understand? So they're both in the same city. All right. So now let's go back to verse 14. So speaking of who? Speaking to the Israelites at Coloss. Colossians 21:14. Come on.
 
 - Nailing it to his cross: Nailing it to his cross. The cross represents who? Our Lord and Savior Jesus the Christ. The Messiah, the black Messiah. All right? He didn't die for the nation, for all nations. He only died for one nation. Watch this. We coming right back. Give me Ephesians 2. All right. It goes with this. All right. Blotting out the ordinances that was against us. Who's the us? The Israelites. All right. Ephesians 2 and 15.
 
@@ -98,7 +98,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
   - **[Colossians 1:2](/bible/colossians/1#v2)**
     > <sup>[2](/bible/colossians/1#v2)</sup> To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
 
-    Right. So this epistle, this letter that Paul is writing, he's writing it to who? To the church at Colasse or Coloss.
+    Right. So this epistle, this letter that Paul is writing, he's writing it to who? To the church at Colosse or Coloss.
   - **[Philemon 1:1](/bible/philemon/1#v1)**
     > <sup>[1](/bible/philemon/1#v1)</sup> Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,
 
@@ -106,7 +106,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
   - **[Philemon 1:23](/bible/philemon/1#v23)**
     > <sup>[23](/bible/philemon/1#v23)</sup> There salute thee Epaphras, my fellowprisoner in Christ Jesus;
 
-    Why would Paul say to, for to Filimon to salute Epaparis? Because Filimon and Epapus was in Colass or Colassi. So they're both in the same city.
+    Why would Paul say to, for to Filimon to salute Epaparis? Because Filimon and Epapus was in Colass or Colosse. So they're both in the same city.
 
 
 **[Ephesians 2:11-15](/bible/ephesians/2#v11)**  *[[14:36](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=876s)]*
@@ -369,7 +369,7 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 
 - Triumphing over them in it: There you go. That's the Lord, our Lord and Savior, triumphing, wait a second, triumphing over his enemies, over our enemies. You understand? The principalities and the powers that were established at that time. Okay. Let's read some more.
 
-- Let no man therefore judge you in meat, or in drink (verse 16): So watch this. So Paul is writing this epistle, all right, to the church of Coloss. Why? Because similar to what was going on in Galatia, the same thing was going on here. They had these ex-fares trying to bring the brothers and sisters at Colassi back. No, not back, but to animal sacrifice. Okay, jump up. Read verse 2 through 4. Watch this.
+- Let no man therefore judge you in meat, or in drink (verse 16): So watch this. So Paul is writing this epistle, all right, to the church of Coloss. Why? Because similar to what was going on in Galatia, the same thing was going on here. They had these ex-fares trying to bring the brothers and sisters at Colosse back. No, not back, but to animal sacrifice. Okay, jump up. Read verse 2 through 4. Watch this.
 
 
 **[Colossians 2:2-5](/bible/colossians/2#v2)**  *[[38:27](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=2307s)]*
@@ -410,7 +410,7 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 >
 > <sup>[17](/bible/colossians/2#v17)</sup> Which are a shadow of things to come; but the body is of Christ.
 
-- Let no man therefore judge you in meat, or in drink, or in respect of an holyday: Right. So it says, 'Let no man therefore judge you in meat or in drink or in respect of in holy day.' A high holy day. All right. When it came to the high holy days, what did we do? We offered up sacrifices. All right? So those men were trying to do what? Take the church at Colasse or Coloss, trying to take them to where? Animal sacrifice under the law of Moses. So that's what Paul is writing to them. He's warning them of these types of men. Ezekiel 45:17. Y'all know this one.
+- Let no man therefore judge you in meat, or in drink, or in respect of an holyday: Right. So it says, 'Let no man therefore judge you in meat or in drink or in respect of in holy day.' A high holy day. All right. When it came to the high holy days, what did we do? We offered up sacrifices. All right? So those men were trying to do what? Take the church at Colosse or Coloss, trying to take them to where? Animal sacrifice under the law of Moses. So that's what Paul is writing to them. He's warning them of these types of men. Ezekiel 45:17. Y'all know this one.
 
 - Or of the sabbath days: So now let's go back to Colossians 2:16. ... All right. Or on the Sabbath days. Read.
 

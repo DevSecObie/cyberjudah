@@ -46,7 +46,7 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "passover-feasts", 
 
 - Observe the month of Abib: Okay, so what do we want out of here? Observe the month of Abib. A bib. When you look that word up, it means ear of corn. Ear of corn, which means the springtime. So now we had to observe this month, it said, I'll read again, observe the month of Aib, and keep the Passover unto the Lord thy God. For in the month of Aib, the Lord thy God brought thee forth out of Egypt by night. Now, what does it mean? Observe the month of Aib.
 
-- Observe the month of Aib: Let's go to Sarak or Ecclesiasticus in what's deemed the apocrypha which means hidden books. Okay, 14 books were taken out of the Bible by the Protestant church but they belong in it. When the King James Bible was originally translated in 1611 these books were in there. All right.
+- Observe the month of Aib: Let's go to Sirach or Ecclesiasticus in what's deemed the apocrypha which means hidden books. Okay, 14 books were taken out of the Bible by the Protestant church but they belong in it. When the King James Bible was originally translated in 1611 these books were in there. All right.
 
 
 **[Sirach 43:6-8](/bible/sirach/43#v6)**  *[[9:07](https://www.youtube.com/watch?v=VBLrob9DcMs&t=547s)]*
@@ -61,7 +61,7 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "passover-feasts", 
 
 - From the moon is the sign of feasts: From the moon is the sign of feast. That's what we want right there. From the moon is the sign of feast. A light that decreases in her perfection. So now when the moon is full, that's when it's perfect. Okay? So when it's perfect, we observe it like the scripture says, observe the month of a bib and keep the Passover. Okay?
 
-- The month is called after her name, increasing wonderfully in her changing: I'll continue with this, verse 8. Sarak 43 and 8. Okay, notice what it says. Shining in the firmament of heaven. The moon is a light. That's how we observe it. For you Israelites that may still observe what's called the dark moon. Okay, the scriptures is telling us here it's perfect when it's light, in its perfection, when it's bright. Okay, so now again, from the moon is a sign of feast.
+- The month is called after her name, increasing wonderfully in her changing: I'll continue with this, verse 8. Sirach 43 and 8. Okay, notice what it says. Shining in the firmament of heaven. The moon is a light. That's how we observe it. For you Israelites that may still observe what's called the dark moon. Okay, the scriptures is telling us here it's perfect when it's light, in its perfection, when it's bright. Okay, so now again, from the moon is a sign of feast.
 
 
 **[Exodus 12:2-6](/bible/exodus/12#v2)**  *[[11:49](https://www.youtube.com/watch?v=VBLrob9DcMs&t=709s)]*
@@ -91,7 +91,7 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "passover-feasts", 
 
 - In the fourteenth day of the first month at even is the Lord's passover: Now, Leviticus 23. Let me see if I want something in there real quick. Let me look at it. Yes, that's what I want. Watch this. In the 14th day of the first month at even is the Lord's Passover. See that? That's what we want. In the 14th day of the first month at even is the Lord's Passover. So again, it's not when the sun comes up, it's when the sun goes down, which begins a new day according to God. Okay? But the 14th day at even is the 15th day. Okay? Now, that's how we observe the month of AIB and keep the Passover.
 
-- The feast of unleavened bread: Now, Luke 22:1 said again, now the feast of unleaven bread, which is called the Passover. Now, that unleavened bread is what I want to deal with next in the book of First Ezras. I think it's first Ezra. Yes.
+- The feast of unleavened bread: Now, Luke 22:1 said again, now the feast of unleaven bread, which is called the Passover. Now, that unleavened bread is what I want to deal with next in the book of 1 Esdras. I think it's first Ezra. Yes.
 
 
 **[1 Esdras 1:19](/bible/1-esdras/1#v19)**  *[[15:23](https://www.youtube.com/watch?v=VBLrob9DcMs&t=923s)]*
@@ -162,7 +162,7 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "passover-feasts", 
 >
 > <sup>[5](/bible/luke/22#v5)</sup> And they were glad, and covenanted to give him money.
 
-- Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve: So now it says Satan entered into Judas Escariat. Now I want to read Mark, the book of Mark chapter 4. When you read Mark chapter 4, it's what we call the four type of Israelites. The four type of Israelites.
+- Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve: So now it says Satan entered into Judas Iscariot. Now I want to read Mark, the book of Mark chapter 4. When you read Mark chapter 4, it's what we call the four type of Israelites. The four type of Israelites.
 
 - And they were glad, and covenanted to give him money: Now Judas, I'll read that again. I read forward with it. So now Judas linked up with these wicked brothers, chief priests, elders, Pharisees, and whatnot, how to betray Christ. Now, which type of Israelite was he? Let's go to Mark 4, and I'll just get to the point. I'll get to the point with verse 18, right? 18 and 19. So there's three different types. Like I said, 14 and 15 is one type, 16 and 17 is another type, 18 and 19 is another.
 

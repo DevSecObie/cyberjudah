@@ -35,7 +35,7 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
 - And he looked up, and saw the rich men casting their gifts into the treasury: All right. So it says he saw the rich man casting their gifts into the treasury. So this is not a parable, right? This is what Christ, what he saw among the disciples. He was looking and he saw a rich man casting offerings into the treasury.
 
-- Real quick, get second Mcabes chapter 3 about the treasury. So, in the land, when we was in the land, we always had a treasury in the temple.
+- Real quick, get second Maccabees chapter 3 about the treasury. So, in the land, when we was in the land, we always had a treasury in the temple.
 
 
 **[2 Maccabees 3:4-6](/bible/2-maccabees/3#v4)**  *[[29:47](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=1787s)]*
@@ -48,7 +48,7 @@ tags: ["15 Minutes w/ The Captains", "leadership"]
 
 - But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city: So, he got into it with Onias, the high priest at that time. So during this time, which was during the time of the Greeks before we went into captivity to them, right, we was under the leadership of Onias the high priest. And when you read verse one, right, he hated wickedness, therefore the land kept the laws very well. We was prosperous at this time, right?
 
-- So when you get down to verse four, second Mcabes chapters 3 and 4 give the background to first Mcabes chapter one in terms of the Greeks invading us and going into the temple and so on and so forth. It give you the background of what led to the Lord's wrath coming up on us. Right? So again, Simon the Benjamite, shout out to the tribe of Benjamin, he falls out with the righteous high priest Onas. And let's see what that warns him to do.
+- So when you get down to verse four, second Maccabees chapters 3 and 4 give the background to first Maccabees chapter one in terms of the Greeks invading us and going into the temple and so on and so forth. It give you the background of what led to the Lord's wrath coming up on us. Right? So again, Simon the Benjamite, shout out to the tribe of Benjamin, he falls out with the righteous high priest Onas. And let's see what that warns him to do.
 
 - And when he could not overcome Onias, he gat him to Apollonius: So he goes to the heathen. So he get into it with Onias. He can't prevail against him, meaning the people are in favor of Onas. So what does he do? He turns his back on his people and goes to the heathen.
 
@@ -181,7 +181,7 @@ Reading from On-screen text: two mites in modern terms  *[[34:02](https://www.yo
 
 - Blessed is the rich that is found without blemish, and hath not gone after gold: Right? So this rich brother or sister has not gone after gold. Meaning his mind is not consumed with the consumption of riches. But yet they're rich.
 
-- Who is he? and we will call him blessed: for wonderful things hath he done among his people: Y'all see that? So that's the rich that's blessed in the Lord, cuz they do wonderful things among their people, wonderful works. That's that distributing. They're willing to communicate, right? Like Joseph Arythea burying Christ. That was a hell of a work right there. You understand? Yeah. He owned the tomb because he was rich and he was willing to communicate. "Hey, listen. I can handle that. I can step up," you know what I'm saying, for real. And that was a wonderful work right there.
+- Who is he? and we will call him blessed: for wonderful things hath he done among his people: Y'all see that? So that's the rich that's blessed in the Lord, cuz they do wonderful things among their people, wonderful works. That's that distributing. They're willing to communicate, right? Like Joseph of Arimathaea burying Christ. That was a hell of a work right there. You understand? Yeah. He owned the tomb because he was rich and he was willing to communicate. "Hey, listen. I can handle that. I can step up," you know what I'm saying, for real. And that was a wonderful work right there.
 
 - That should be the mentality of you welloff brothers and sisters. All right. You should be Mr. Booster Club. The hell is this? What the hell is this? And some of y'all, I ain't saying that it ain't the case and that it's certain rich brothers and sisters who don't have this understanding. Some of y'all doing what y'all supposed to do. And I praise to the most high. Keep it up. But a lot of us got that nigard spirit.
 
@@ -333,7 +333,7 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 - And laid them down at the apostles' feet: and distribution was made unto every man according as he had need: So what do that also mean? It says distribution was made. They brought it to the feet of the apostles and distribution was made. Meaning, like we read about the weariness, right? You skeptical to give. You reluctant to give because of that lack of trust. They understood, due to their belief, their faith, their faith in the Lord, they also had faith in the leaders. So if the leaders had a vision for the people, for the church, and it required houses and properties to be sold, they were in one accord with their leaders, with their vision. You understand? When that charge was given, they were ready to distribute. You understand, right?
 
-- So Barnabas was an example of that when you read verses 36 and 37. And the Lord went on to use him to do mighty works among his people. And when you read chapter five, you keep reading Acts chapter 5, you had Ananas and Safara, husband and wife. They was penny pinching. You understand? They had weariness. They wanted to act like they was given, but they wanted to keep a part to themselves so they could remain above everybody else in a sense. And the Lord killed them. They dropped dead. You understand?
+- So Barnabas was an example of that when you read verses 36 and 37. And the Lord went on to use him to do mighty works among his people. And when you read chapter five, you keep reading Acts chapter 5, you had Ananias and Sapphira, husband and wife. They was penny pinching. You understand? They had weariness. They wanted to act like they was given, but they wanted to keep a part to themselves so they could remain above everybody else in a sense. And the Lord killed them. They dropped dead. You understand?
 
 
 **[Hebrews 11:26](/bible/hebrews/11#v26)**  *[[1:17:39](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=4659s)]*
@@ -456,7 +456,7 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 
 - Remember, O LORD, the children of Edom: Right? So we usually read that. Remember this King David, spiritual man during his time, right? He was establishing the kingdom of Israel in the earth, and his son Solomon sat on a throne with peace all his days. Right? So they did not live during the time or after the time to talk about the history of Babylon destroying the temple. So David was prophesying in the spirit.
 
-- And we usually read this and we refer to, excuse me, like it says in the book of Oadiah, in first, the assisted Babylon in their destruction of Jerusalem in the temple. Right? Israel let you know the ones set the temple on fire when Babylon came to destroy it. They played a pivotal part in the destruction of the temple at that time. But David really prophesying about 70 AD. You understand?
+- And we usually read this and we refer to, excuse me, like it says in the book of Obadiah, in first, the assisted Babylon in their destruction of Jerusalem in the temple. Right? Israel let you know the ones set the temple on fire when Babylon came to destroy it. They played a pivotal part in the destruction of the temple at that time. But David really prophesying about 70 AD. You understand?
 
 - In the day of Jerusalem: That's the day of Jerusalem, 70 AD. The same day that Christ talked about.
 
@@ -542,7 +542,7 @@ Reading from On-screen definition of weariness  *[[55:44](https://www.youtube.co
 >
 > <sup>[9](/bible/2-esdras/6#v9)</sup> For Esau is the end of the world, and Jacob is the beginning of it that followeth.
 
-- So go back to Luke 21. Matter of fact, go to second Ezra 6.
+- So go back to Luke 21. Matter of fact, go to 2 Esdras 6.
 
 - What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth?: The same thing the disciples asked Christ, right?
 

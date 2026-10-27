@@ -326,7 +326,7 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-word"]
 
 > <sup>[16](/bible/colossians/4#v16)</sup> And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea.
 
-- And when this epistle is read among you, cause it that it be read also in the church of the Laudians, and that ye likewise read the epistle from Laudisia: So this is a letter that we don't have but he wrote a letter to Laia and he wanted to make sure that this letter also was read to the Loudians because Colassi was very close to Laiaa. All right, a lot of these places were close within each other, especially in Asia.
+- And when this epistle is read among you, cause it that it be read also in the church of the Laudians, and that ye likewise read the epistle from Laudisia: So this is a letter that we don't have but he wrote a letter to Laia and he wanted to make sure that this letter also was read to the Loudians because Colosse was very close to Laiaa. All right, a lot of these places were close within each other, especially in Asia.
 
 - So he wasn't able to go to the church of Laosa because sometimes it doesn't happen. Not every time is leadership able to visit every single church. Things come up, things happen, rules change, the government makes certain things hard for us. It is what it is. We just have the capabilities that we have. We, you know, we can only do what we can do. But he went to that place. Well, he didn't have a chance to go to the church and allowed to see it. So he had this letter read aloud to them. All right.
 

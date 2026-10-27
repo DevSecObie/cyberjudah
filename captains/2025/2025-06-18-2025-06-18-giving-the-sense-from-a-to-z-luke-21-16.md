@@ -79,7 +79,7 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
 
 - Lift ye up a banner upon the high mountains: The banner is this Bible. That's the banner. That's what everybody's going to see.
 
-- Exalt the voice unto them: That's why we speak loud. We speak how men are supposed to speak. We're not going to speak soft. This ain't your rendition of Cesa Bo. Soft-spokenness does not work when it comes to correcting our people. That's why he says, "Exalt the voice."
+- Exalt the voice unto them: That's why we speak loud. We speak how men are supposed to speak. We're not going to speak soft. This ain't your rendition of Cesare Borgia. Soft-spokenness does not work when it comes to correcting our people. That's why he says, "Exalt the voice."
 
 - Shake the hand: Shaking the hand is when you rebuking. You see us on the corner, we doing this.
 

@@ -75,7 +75,7 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
 >
 > <sup>[11](/bible/sirach/34#v11)</sup> When I travelled, I saw many things; and I understand more than I can express.
 
-- Lest any man should beguile you with enticing words (Colossians 2:4 read again): So, how will Paul know this? How would he know that there was begalment going on with persuasive arguments, with plausible arguments, with well-crafted arguments? You know this, get this in Sarak right quick. Sarak 34 9-11.
+- Lest any man should beguile you with enticing words (Colossians 2:4 read again): So, how will Paul know this? How would he know that there was begalment going on with persuasive arguments, with plausible arguments, with well-crafted arguments? You know this, get this in Sirach right quick. Sirach 34 9-11.
 
 - A man that hath traveled knoweth many things: Paul was a traveler. He was a traveler and he was setting up these churches in various locations. Somebody that traveled, you know, you encounter many things.
 
@@ -341,7 +341,7 @@ Reading from Colossians 2:4 in various translations on Bible hub (NIV, NLT, ESV)
   - **[Sirach 33:17](/bible/sirach/33#v17)**
     > <sup>[17](/bible/sirach/33#v17)</sup> Consider that I laboured not for myself only, but for all them that seek learning.
 
-    That's why it says that. You know what I want? Sarak 33. We labor not for ourselves only. Sometimes negroes be selfish. You understand? We selfish. We just be thinking about ourselves. But that's not how our forefathers wrote. But that's a product of Christianity. Consider that I laboured not for myself only: Consider that I labored not for myself only. But for all them that seek learning: We supposed to bring forth more fruit. You're supposed to be examples to the brethren. You understand? Because they faith might down there away with you. You understand?
+    That's why it says that. You know what I want? Sirach 33. We labor not for ourselves only. Sometimes negroes be selfish. You understand? We selfish. We just be thinking about ourselves. But that's not how our forefathers wrote. But that's a product of Christianity. Consider that I laboured not for myself only: Consider that I labored not for myself only. But for all them that seek learning: We supposed to bring forth more fruit. You're supposed to be examples to the brethren. You understand? Because they faith might down there away with you. You understand?
 
 
 **[Colossians 2:7](/bible/colossians/2#v7)**  *[[48:42](https://www.youtube.com/watch?v=be5nA8ZewWw&t=2922s)]*
