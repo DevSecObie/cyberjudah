@@ -28,11 +28,11 @@ def books():
 
 
 def chapters(slug):
-    return json.load(open(f'{ROOT}/bible/{slug}.json'))['chapters']
+    return json.load(open(f'{ROOT}/bible/{slug}.json', encoding='utf-8'))['chapters']
 
 
 def index():
-    H = json.load(open(f'{ROOT}/strongs/hebrew.json')); G = json.load(open(f'{ROOT}/strongs/greek.json'))
+    H = json.load(open(f'{ROOT}/strongs/hebrew.json', encoding='utf-8')); G = json.load(open(f'{ROOT}/strongs/greek.json', encoding='utf-8'))
     def proper(s):
         d = (H.get(s) or G.get(s) or {}).get('def', '')
         return d[:1].isupper() or 'name' in d
@@ -41,7 +41,7 @@ def index():
     verses = {}
     for slug in books():
         tagf = f'{ROOT}/strongs/tags/{slug}.json'
-        tags = json.load(open(tagf)) if os.path.exists(tagf) else {}
+        tags = json.load(open(tagf, encoding='utf-8')) if os.path.exists(tagf) else {}
         for c, vs in chapters(slug).items():
             for i, t in enumerate(vs):
                 v = str(i + 1); ref = f'{slug}/{c}/{v}'

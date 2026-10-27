@@ -12,7 +12,7 @@ class Build(unittest.TestCase):
             with self.subTest(book=book):
                 doc, errs, _ = build.build(book)
                 self.assertEqual(errs, [])
-                with open(f'{ROOT}/people-kjv/{book}.json') as fh:
+                with open(f'{ROOT}/people-kjv/{book}.json', encoding='utf-8') as fh:
                     self.assertEqual(fh.read(), build.dump(doc), f'run scripts/people-kjv/build.py {book}')
 
 

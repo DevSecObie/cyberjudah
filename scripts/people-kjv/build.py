@@ -24,7 +24,7 @@ def vkey(r): return tuple(int(x) for x in r.split('/')[1:])
 def records(book, VERSES, errs):
     recs = []
     src = f'{ROOT}/people-kjv/sources/{book}.names.txt'
-    for ln, line in enumerate(open(src), 1):
+    for ln, line in enumerate(open(src, encoding='utf-8'), 1):
         line = line.strip()
         if not line or line.startswith('#'): continue
         parts = [p.strip() for p in line.split('|')]
@@ -96,7 +96,7 @@ def build(book):
         lst.append(e)
 
     def names_in(k, r): return {x[0] for x in VERSES.get(r, [])} & set(people[k]['forms'])
-    for ln, line in enumerate(open(f'{ROOT}/people-kjv/sources/{book}.links.txt'), 1):
+    for ln, line in enumerate(open(f'{ROOT}/people-kjv/sources/{book}.links.txt', encoding='utf-8'), 1):
         line = line.strip()
         if not line or line.startswith('#'): continue
         parts = [p.strip() for p in line.split('|')]
@@ -149,8 +149,8 @@ if __name__ == '__main__':
     path = f'{ROOT}/people-kjv/{book}.json'
     text = dump(doc)
     if '--check' in sys.argv:
-        if not os.path.exists(path) or open(path).read() != text: print(f'{path} is out of date: run build.py {book}'); sys.exit(1)
+        if not os.path.exists(path) or open(path, encoding='utf-8').read() != text: print(f'{path} is out of date: run build.py {book}'); sys.exit(1)
         print(f'{book}: {len(doc["people"])} people, up to date')
     else:
-        open(path, 'w').write(text)
+        open(path, 'w', encoding='utf-8').write(text)
         print(f'{book}: {len(doc["people"])} people written')
