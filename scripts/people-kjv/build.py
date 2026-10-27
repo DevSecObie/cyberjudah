@@ -19,8 +19,13 @@ import collections, json, os, re, sys
 sys.path.insert(0, os.path.dirname(__file__))
 from names import ROOT, chapters, index
 
-ABBR = {'genesis': 'gen', 'exodus': 'exo', 'leviticus': 'lev', 'numbers': 'num', 'deuteronomy': 'deu', 'joshua': 'jos',
-        'judges': 'jdg', 'ruth': 'rut'}
+# Book codes for record ids (name-book-chapter-verse), the same codes the old catalog's ids use.
+ABBR = dict(zip([b['slug'] for b in json.load(open(f'{ROOT}/bible/index.json', encoding='utf-8'))], '''
+    gen exo lev num deu jos jdg rut 1sa 2sa 1ki 2ki 1ch 2ch ezr neh est job psa pro
+    ecc sng isa jer lam ezk dan hos jol amo oba jon mic nam hab zep hag zec mal mat
+    mrk luk jhn act rom 1co 2co gal eph php col 1th 2th 1ti 2ti tit phm heb jas 1pe
+    2pe 1jn 2jn 3jn jud rev 1es 2es tob jdt esg wis sir bar s3y sus bel man 1ma 2ma
+    lje'''.split()))
 TYPES = {'M': 'Male', 'F': 'Female', 'U': 'Unknown', 'G': 'Group', 'C': 'Creature'}
 OPS = {'<': 'father', '<<': 'mother', '=': 'partners', '~': 'siblings', '^': 'line', '&': 'tribe', '@': 'nation', '==': 'same'}
 EVIDENCE = ('scripture', 'parallel', 'history', 'variant')
