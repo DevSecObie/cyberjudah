@@ -48,11 +48,15 @@ test("navigation fits and primary sections remain reachable", async ({ page }) =
   };
   const inView = async (locator: ReturnType<typeof header.getByRole>) => {
     await expect(locator).toBeVisible();
-    const bounds = await locator.boundingBox();
-    // The active-link prompt is intentionally translated 4px left while it
-    // settles; keep the real link and its readable text within the viewport.
-    expect(bounds!.x).toBeGreaterThanOrEqual(-4);
-    expect(bounds!.x + bounds!.width).toBeLessThanOrEqual(width);
+    // Radix measures its panel during opening. Retry the final geometry and check
+    // its clipping viewport too, so a link hidden by overflow cannot pass.
+    await expect.poll(async () => locator.evaluate(el => {
+      const bounds = el.getBoundingClientRect();
+      const panel = el.closest(".cj-menu__viewport")?.getBoundingClientRect();
+      const left = Math.max(-4, panel ? panel.left + 1 : -4);
+      const right = Math.min(window.innerWidth, panel ? panel.right - 1 : window.innerWidth);
+      return bounds.left >= left && bounds.right <= right;
+    })).toBe(true);
   };
   if (width <= 860) {
     await expect(toggle).toBeVisible();
