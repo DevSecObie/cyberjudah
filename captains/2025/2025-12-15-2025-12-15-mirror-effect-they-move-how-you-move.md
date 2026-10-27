@@ -2,7 +2,7 @@
 title: "Mirror Effect: They Move How You Move"
 slug: "2025/2025-12-15-mirror-effect-they-move-how-you-move"
 date: "2025-12-15"
-teacher: "Captain Mattathias"
+teacher: "Captain Matt"
 description: "15 Minutes w/ The Captains · 2025-12-15"
 tags: ["15 Minutes w/ The Captains", "discipline", "women"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "discipline", "women"]
 
 ## Introduction
 
-*[[0:21](https://www.youtube.com/watch?v=6vZJBiOWt9g&t=21s)]* Hey, shalom Israel. Most High in Christ bless. Captain Mattathias here with IUIC Baton Rouge. Another 15 minutes with the captains. All right. All praise to the Most High. Today we're going to talk about mirror effect. They move how you move. We are the example. Mother Shamara often says that sometimes you are the only Bible that somebody will read. So we have to ensure that we are being the right example for our people out there who are seeing how we're walking as Israelites, cuz they got a lot of people that have a lot of different thought processes about who we are, what we do, what we believe in, how we act. That's why they say all of the time, when we on Clubhouse and when we online teaching, they say, Oh, they welfare recipients. They all got felonies. Look at all the people that got child support. Look at all the people that have nothing to do with their lives. Get a job, y'all broke, all that stuff. That's why when we walk, we got to walk rightly. You understand?
+*[[0:21](https://www.youtube.com/watch?v=6vZJBiOWt9g&t=21s)]* Hey, shalom Israel. Most High in Christ bless. Captain Matt here with IUIC Baton Rouge. Another 15 minutes with the captains. All right. All praise to the Most High. Today we're going to talk about mirror effect. They move how you move. We are the example. Mother Shamara often says that sometimes you are the only Bible that somebody will read. So we have to ensure that we are being the right example for our people out there who are seeing how we're walking as Israelites, cuz they got a lot of people that have a lot of different thought processes about who we are, what we do, what we believe in, how we act. That's why they say all of the time, when we on Clubhouse and when we online teaching, they say, Oh, they welfare recipients. They all got felonies. Look at all the people that got child support. Look at all the people that have nothing to do with their lives. Get a job, y'all broke, all that stuff. That's why when we walk, we got to walk rightly. You understand?
 
 ## Scriptures Opened
 

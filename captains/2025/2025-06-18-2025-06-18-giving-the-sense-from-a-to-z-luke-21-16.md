@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 21:16"
 slug: "2025/2025-06-18-giving-the-sense-from-a-to-z-luke-21-16"
 date: "2025-06-18"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-06-18"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "prophecy"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-06-18 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-06-18 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 21](/bible/luke/21) · [Mic 7](/bible/micah/7) · [Amos 5](/bible/amos/5) · [Isa 13](/bible/isaiah/13) · [Matt 10](/bible/matthew/10) · [Jer 28](/bible/jeremiah/28) · [2 Cor 11](/bible/2-corinthians/11) · [Matt 20](/bible/matthew/20) · [Isa 57](/bible/isaiah/57) · [1 John 4](/bible/1-john/4) · [Ezek 35](/bible/ezekiel/35) · [Ps 106](/bible/psalms/106) · [Deut 28](/bible/deuteronomy/28) · [Rev 2](/bible/revelation/2)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "prophecy"]
 
 ## Introduction
 
-*[[3:30](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=210s)]* Hey, shalom Israel. Most High and Christ bless. Most High and Christ bless y'all. All right, all praises. All praises to the Most High. Welcome back to another edition of Giving the Sense from A to Z. All praises to the Most High. I'm Captain Mattathias, IYC Baton Rouge. And we're going to continue in Luke the 21st chapter today. We had Captain Gad El Hai, he went through Luke 21 yesterday. So, I'm going to go ahead and finish it. We're not going to finish the 21st chapter. I'm going to just let you know right now. It's a lot. It's a lot to go into. It is what it is. It's some good history. It's a lot that we can learn from. It's a lot that it can prepare us for. All right? This history can prepare us for a lot. It can prepare us for the tribulation to come. It can prepare us to get our minds right. All right? So, we're going to start off with the book of Nehemiah chapter 8 verse 8. I'mma start at verse 15. Luke 21 verse 15. Cuz I got to lie went over this and I'm just going to start at 15 and then go down into 16.
+*[[3:30](https://www.youtube.com/watch?v=ro0Wrkh6brA&t=210s)]* Hey, shalom Israel. Most High and Christ bless. Most High and Christ bless y'all. All right, all praises. All praises to the Most High. Welcome back to another edition of Giving the Sense from A to Z. All praises to the Most High. I'm Captain Matthew, IYC Baton Rouge. And we're going to continue in Luke the 21st chapter today. We had Captain Gad El Hai, he went through Luke 21 yesterday. So, I'm going to go ahead and finish it. We're not going to finish the 21st chapter. I'm going to just let you know right now. It's a lot. It's a lot to go into. It is what it is. It's some good history. It's a lot that we can learn from. It's a lot that it can prepare us for. All right? This history can prepare us for a lot. It can prepare us for the tribulation to come. It can prepare us to get our minds right. All right? So, we're going to start off with the book of Nehemiah chapter 8 verse 8. I'mma start at verse 15. Luke 21 verse 15. Cuz I got to lie went over this and I'm just going to start at 15 and then go down into 16.
 
 ## Scriptures Opened
 

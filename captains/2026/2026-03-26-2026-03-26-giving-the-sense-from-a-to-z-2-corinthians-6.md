@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 6"
 slug: "2026/2026-03-26-giving-the-sense-from-a-to-z-2-corinthians-6"
 date: "2026-03-26"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2026-03-26"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-03-26 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2026-03-26 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Cor 6](/bible/2-corinthians/6) · [Acts 16](/bible/acts/16) · [Acts 21](/bible/acts/21) · [Acts 14](/bible/acts/14) · [Deut 7](/bible/deuteronomy/7) · [Jer 31](/bible/jeremiah/31)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "the-law"]
 
 ## Introduction
 
-*[[3:22](https://www.youtube.com/watch?v=yvmUMZx83bc&t=202s)]* Yes, sir. All praise to the Most High family. Welcome back to another episode of Giving the Sense. I'm your host, Captain Mattathias. And before we get into the topic, y'all already know how we do. We going to be touching on 2 Corinthians chapter 2 verses 6. So, make sure you got your pens, your notebook, your notepads, paper, you understand? Whatever you writing on, it be your tablet, make sure you taking notes, family. Going over 2 Corinthians chapter 6. And make sure, most importantly, you got your scriptures so you can read along. So now, before we get into it, let's go reader. You already know what we got. Nehemiah chapter 8 and verse 8.
+*[[3:22](https://www.youtube.com/watch?v=yvmUMZx83bc&t=202s)]* Yes, sir. All praise to the Most High family. Welcome back to another episode of Giving the Sense. I'm your host, Captain Matthew. And before we get into the topic, y'all already know how we do. We going to be touching on 2 Corinthians chapter 2 verses 6. So, make sure you got your pens, your notebook, your notepads, paper, you understand? Whatever you writing on, it be your tablet, make sure you taking notes, family. Going over 2 Corinthians chapter 6. And make sure, most importantly, you got your scriptures so you can read along. So now, before we get into it, let's go reader. You already know what we got. Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 

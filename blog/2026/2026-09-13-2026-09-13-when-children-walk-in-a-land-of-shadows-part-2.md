@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "substance-abuse"]
 
 ## Introduction
 
-We are in this building. All praises. We have got a special guest here, Bishop Yawasap. We have got another special guest, Captain Mattathias from DC, and Captain Eli from North Carolina. As you all know, I cannot stay away from Atlanta too long. It is an honour to be here once again, and it is a privilege and an honour to be among you great men and women. This is truly a great day. I am here to be with my bishop, my brother.
+We are in this building. All praises. We have got a special guest here, Bishop Yawasap. We have got another special guest, Captain Matthew from DC, and Captain Eli from North Carolina. As you all know, I cannot stay away from Atlanta too long. It is an honour to be here once again, and it is a privilege and an honour to be among you great men and women. This is truly a great day. I am here to be with my bishop, my brother.
 
 We are going to try and finish off what we started last week, so I need you all to take good notes — especially those of you with children. The title of the class, second half: *When Children Walk in a Land of Shadows*.
 

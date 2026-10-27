@@ -88,3 +88,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 - Luke 15:21 (2025-05-14, Captain Zakai), 15 The Prodigal Son (2025-05-13, Captain Zakai, heard as "Captain Zakar"), 15 (2025-05-12, Captain Matthew), 14:15 (2025-05-08, Captain Matt) and 14 (2025-05-07, Captain Matt), all IUIC Baton Rouge, and 13:11 (2025-05-01, host heard as "Captain Ab", left blank).
 
 - Obie 2026-10-27: Captain Mattathias, Captain Matthew and Captain Matt are three men. data/names.tsv no longer folds "Captain Matt", "Captain Matthew" or "Captain Met" into Captain Mattathias, and this batch keeps the name each host said.
+
+## Captain Matthew and Captain Matt kept apart from Captain Mattathias
+
+- Obie 2026-10-27: Captain Mattathias, Captain Matthew and Captain Matt are three men. 43 notes (blog and captains) that had "Captain Matthew" or "Captain Matt" turned into Captain Mattathias now carry the name each class says, checked spot by spot against the captions; 101 spots, teacher fields and taught lines included. Spots where the captions say Mattathias (or a close garble of it) stay Captain Mattathias.
