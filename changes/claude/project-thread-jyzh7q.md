@@ -82,3 +82,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 16
 
 - Luke 18 (2025-06-03, Captain Josiah), 17 continued (2025-05-28, Captain Gedaliah), 16:27 (2025-05-27, Captain Josiah), 16:13 (2025-05-21, Captain Mattathias), a questions-and-answers episode (2025-05-20, Captain Gedaliah) and Luke 16 (2025-05-15, Captain Mattathias).
+
+## Batch 17
+
+- Luke 15:21 (2025-05-14, Captain Zakai), 15 The Prodigal Son (2025-05-13, Captain Zakai, heard as "Captain Zakar"), 15 (2025-05-12, Captain Mattathias), 14:15 (2025-05-08, Captain Mattathias), 14 (2025-05-07, Captain Mattathias) and 13:11 (2025-05-01, host heard as "Captain Ab", left blank).
