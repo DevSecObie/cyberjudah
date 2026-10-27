@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Leviticus added (Shelomith and Dibri new, Aaron's sons and Uzziel's sons carried on with their Leviticus verses; Molech kept out of People as an idol).

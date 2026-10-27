@@ -1,0 +1,23 @@
+# Leviticus: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+moses | | Moses | * | + |
+israel-people | | Israel;Israelites;Israelitish | * | + |
+aaron | | Aaron | * | + |
+sinai | | Sinai | * | + |
+nadab | | Nadab | * | + |
+abihu | | Abihu | * | + |
+mishael | | Mishael | * | + |
+elzaphan | | Elzaphan | * | + |
+uzziel | | Uzziel | * | + |
+eleazar | | Eleazar | * | + |
+ithamar | | Ithamar | * | + |
+egypt | | Egypt | * | + |
+canaan-land | | Canaan | * | + |
+molech | Molech | Molech | * | X | The idol to whom the law forbids giving seed through the fire (Leviticus 18:21, 20:2-5); not a person in People
+egyptian | | Egyptian | * | + |
+shelomith | Shelomith | Shelomith | * | F | The daughter of Dibri of the tribe of Dan, mother of the man who blasphemed the name of the Lord and was stoned (Leviticus 24:10-14)
+dibri | Dibri | Dibri | * | M | Of the tribe of Dan, the father of Shelomith (Leviticus 24:11)
+dan | | Dan | * | + |
+levites | | Levites | * | + |
+jacob | | Jacob | * | + |
+isaac | | Isaac | * | + |
+abraham | | Abraham | * | + |

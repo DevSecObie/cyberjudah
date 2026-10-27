@@ -1,0 +1,6 @@
+# Family links in Leviticus, each with the verse that states it (same format as genesis.links.txt).
+nadab abihu < aaron | 10:1
+mishael elzaphan < uzziel | 10:4
+eleazar ithamar < aaron | 10:6
+shelomith < dibri | 24:11
+shelomith & dan | 24:11
