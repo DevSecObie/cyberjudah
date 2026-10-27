@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 21:25"
 slug: "2025/2025-06-23-giving-the-sense-from-a-to-z-luke-21-25"
 date: "2025-06-23"
-teacher: "Captain Matt"
+teacher: "Captain Mattathias"
 description: "Giving The Sense From A to Z · 2025-06-23"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "prophecy", "repentance"]
