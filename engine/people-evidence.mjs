@@ -25,7 +25,7 @@ const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 // unnormalised form.
 function namePattern(form) {
   const parts = form.split(/[-\s]+/).filter(Boolean).map(escapeRegExp);
-  return new RegExp(`\\b${parts.join('[-\\s]?')}'?s?\\b`);
+  return new RegExp(`\\b${parts.join('[-–\\s]?')}'?s?\\b`);
 }
 
 // The same pattern without the optional trailing s/'s, to tell whether a match only
@@ -33,7 +33,7 @@ function namePattern(form) {
 // of the form itself, not a cross-name risk).
 function strictNamePattern(form) {
   const parts = form.split(/[-\s]+/).filter(Boolean).map(escapeRegExp);
-  return new RegExp(`\\b${parts.join('[-\\s]?')}\\b`);
+  return new RegExp(`\\b${parts.join('[-–\\s]?')}\\b`);
 }
 
 // Every literal name form in the catalog, mapped to the person id(s) that carry it.
@@ -92,7 +92,8 @@ export function validatePeopleEvidence(peopleDoc, ids, { bibleDir, exceptions = 
     // A future batch may carry the proposal's source field; when it does, only the KJV
     // with Apocrypha is in scope. Batches without it are checked as-is (see note above).
     if (person.source?.name && person.source.name !== KJV_SOURCE) continue;
-    const forms = (person.names ?? []).filter((f) => typeof f === 'string' && f.trim());
+    // A title the text calls them by ("Attharates", 1 Esdras 9:49) names them as surely as a name.
+    const forms = [...(person.names ?? []), ...(person.titles ?? []).map((t) => t?.title)].filter((f) => typeof f === 'string' && f.trim());
     const beforeVerses = new Set(beforeById.get(id)?.verses ?? []);
     for (const ref of person.verses ?? []) {
       if (beforeVerses.has(ref)) continue; // already cited before this batch; not this batch's claim to prove
