@@ -1,0 +1,27 @@
+# Family links in Joshua, each with the verse that states it (same format as genesis.links.txt).
+joshua < nun | 1:1,2:1,2:23,6:6,14:1,17:4,19:49,19:51,21:1,24:29
+achan < carmi-j | 7:1,7:18
+carmi-j < zabdi | 7:1,7:18
+zabdi ^ zarah | 7:1,7:18 | "Zabdi, the son of Zerah"; Zerah's sons in 1 Chronicles 2:6 are Zimri, Ethan, Heman, Calcol and Dara
+achan & judah | 7:1,7:18
+balaam < beor-b | 13:22
+machir < manasseh | 13:31,17:1
+caleb < jephunneh | 14:6,14:13,14:14,15:13,21:12
+anak < arba | 15:13,21:11
+sheshai ahiman talmai < anak | 15:14
+achsah < caleb | 15:16,15:17
+othniel < kenaz-o | 15:17
+othniel = achsah | 15:17
+bohan ^ reuben | 15:6,18:17 | "the stone of Bohan the son of Reuben"; Reuben's sons in Genesis 46:9 are Hanoch, Phallu, Hezron and Carmi
+abiezer ^ manasseh | 17:2 | "the male children of Manasseh the son of Joseph by their families"
+zelophehad < hepher | 17:3
+hepher < gilead-m | 17:3
+gilead-m < machir | 17:1,17:3
+mahlah noah-z hoglah milcah-z tirzah < zelophehad | 17:3
+phinehas < eleazar | 22:13,22:31,22:32,24:33
+eleazar < aaron | 21:1,24:33
+abraham nahor < terah | 24:2
+isaac < abraham | 24:3
+jacob esau < isaac | 24:4
+balak < zippor | 24:9
+shechem < hamor | 24:32
