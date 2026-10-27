@@ -1,0 +1,286 @@
+# 2 Kings: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+# "Israel" in 2 Kings is the people, except 17:34 ("the children of Jacob, whom he named Israel").
+moab-land | | Moab | * | + |
+israel-people | | Israel | !17:34 | + |
+jacob | | Israel | 17:34 | + |
+ahab | | Ahab | * | + |
+ahaziah | | Ahaziah | 1:2,1:18 | + |
+ahaziah-j | Ahaziah | Ahaziah | 8:24,8:25,8:26,8:29,9:16,9:21,9:23,9:27,9:29,10:13,11:1,11:2,12:18,13:1,14:13 | M | The son of Jehoram and Athaliah, king of Judah one year, slain by Jehu (2 Kings 8:24-29, 9:16-29)
+samaria | | Samaria | * | + |
+baal-zebub | Baal-zebub | Baal-zebub | * | X | The god of Ekron, whom Ahaziah sent to enquire of (2 Kings 1:2-16); not a person in People
+ekron | | Ekron | * | + |
+elijah | | Elijah | * | + |
+tishbite | | Tishbite | * | + |
+jehoram-a | Jehoram | Jehoram;Joram | 1:17,3:1,3:6,9:24 | M | The son of Ahab, king over Israel twelve years, wounded by the Syrians and slain by Jehu; also called Joram (2 Kings 1:17, 3:1-27, 8:16-29, 9:14-26)
+jehoram | | Jehoram | 1:17,8:16,8:25,8:29,12:18 | + |
+jehoshaphat-k | | Jehoshaphat | 1:17,3:1,3:7,3:11,3:12,3:14,8:16,12:18 | + |
+jehoshaphat-n | Jehoshaphat | Jehoshaphat | 9:2,9:14 | M | The son of Nimshi, the father of Jehu (2 Kings 9:2, 9:14)
+judah | | Judah | * | + |
+elisha | | Elisha | * | + |
+gilgal | | Gilgal | * | + |
+beth-el | | Beth-el | * | + |
+jericho | | Jericho | * | + |
+jordan | | Jordan | * | + |
+carmel | | Carmel | * | + |
+baal | | Baal | * | + |
+jeroboam | | Jeroboam | 3:3,9:9,10:29,10:31,13:2,13:6,13:11,14:24,15:9,15:18,15:24,15:28,17:21,17:22,23:15 | + |
+jeroboam-j | Jeroboam | Jeroboam | 13:13,14:16,14:23,14:27,14:28,14:29,15:1,15:8 | M | The son of Joash, king over Israel in Samaria forty and one years, who restored the coast of Israel (2 Kings 13:13, 14:16, 14:23-29)
+nebat | | Nebat | * | + |
+mesha-m | Mesha | Mesha | * | M | King of Moab, a sheepmaster, who rebelled against Israel and offered his eldest son for a burnt offering (2 Kings 3:4-27)
+edom-land | | Edom | * | + |
+shaphat-e | | Shaphat | * | + |
+moabites | | Moabites | * | + |
+israel-people | | Israelites | * | + |
+kir-haraseth | Kir-haraseth | Kir-haraseth | * | P | The city of Moab whose stones were left when the slingers smote it (2 Kings 3:25)
+shunem | | Shunem | * | + |
+gehazi | Gehazi | Gehazi | * | M | The servant of Elisha, who took silver and garments of Naaman, and the leprosy of Naaman clave unto him (2 Kings 4:12-36, 5:20-27, 8:4-5)
+shunammite | | Shunammite | * | + |
+baal-shalisha | Baal-shalisha | Baal-shalisha | * | P | Whence a man brought Elisha bread of the firstfruits (2 Kings 4:42)
+naaman-s | Naaman | Naaman | * | M | Captain of the host of the king of Syria, a leper, who washed seven times in Jordan and was clean (2 Kings 5:1-27)
+syria | | Syria | * | + |
+syrians | | Syrians | * | + |
+abana | Abana | Abana | * | P | A river of Damascus (2 Kings 5:12)
+pharpar | Pharpar | Pharpar | * | P | A river of Damascus (2 Kings 5:12)
+damascus | | Damascus | * | + |
+rimmon-idol | Rimmon | Rimmon | * | X | In whose house Naaman's master worshipped (2 Kings 5:18); not a person in People
+syrian | | Syrian | * | + |
+ephraim | | Ephraim | * | + |
+dothan | | Dothan | * | + |
+ben-hadad-e | Ben-hadad | Ben-hadad | 6:24,8:7,8:9 | M | King of Syria, who besieged Samaria; he was sick and sent Hazael to Elisha (2 Kings 6:24, 8:7-15)
+ben-hadad-h | Ben-hadad | Ben-hadad | 13:3,13:24,13:25 | M | The son of Hazael, king of Syria, from whom Jehoash took again the cities (2 Kings 13:3, 13:24-25)
+hittites | | Hittites | * | + |
+egyptian | | Egyptians | * | + |
+philistines | | Philistines | * | + |
+hazael | | Hazael | * | + |
+jehoram-a | | Joram | 8:16,8:25,8:28,8:29,9:14,9:15,9:16,9:17,9:21,9:22,9:23,9:29 | + |
+jehoram | | Joram | 8:21,8:23,8:24,11:2 | + |
+jerusalem | | Jerusalem | * | + |
+david | | David | * | + |
+zair | Zair | Zair | * | P | Whither Joram went over and smote the Edomites (2 Kings 8:21)
+edomites | | Edomites | * | + |
+libnah-c | | Libnah | * | + |
+athaliah | Athaliah | Athaliah | * | F | The daughter of Omri, the mother of Ahaziah king of Judah; she destroyed the seed royal and reigned six years, and was slain (2 Kings 8:26, 11:1-20)
+omri | | Omri | * | + |
+ramoth-gilead | | Ramoth-gilead | * | + |
+jezreel | | Jezreel | * | + |
+ramah | | Ramah | * | + |
+jehu | | Jehu | * | + |
+nimshi | | Nimshi | * | + |
+jezebel | | Jezebel | * | + |
+baasha | | Baasha | * | + |
+ahijah-i | | Ahijah | * | + |
+naboth | | Naboth | * | + |
+jezreelitess | | Jezreelite | * | + |
+bidkar | Bidkar | Bidkar | * | M | Jehu's captain, who cast Joram into the portion of Naboth (2 Kings 9:25)
+gur | Gur | Gur | * | P | The going up by Ibleam where Ahaziah was smitten (2 Kings 9:27)
+ibleam | | Ibleam | * | + |
+megiddo | | Megiddo | * | + |
+zimri-k | | Zimri | * | + |
+jehonadab | Jehonadab | Jehonadab | * | M | The son of Rechab, whom Jehu took up into his chariot (2 Kings 10:15-23)
+rechab-j | Rechab | Rechab | * | M | The father of Jehonadab (2 Kings 10:15, 10:23)
+dan-place | | Dan | * | + |
+gilead | | Gilead | * | + |
+gadites | | Gadites | * | + |
+reubenites | | Reubenites | * | + |
+manassites | | Manassites | * | + |
+aroer | | Aroer | * | + |
+arnon | | Arnon | * | + |
+bashan | | Bashan | * | + |
+jehoahaz | Jehoahaz | Jehoahaz | 10:35,13:1,13:4,13:7,13:8,13:9,13:10,13:22,13:25,14:1,14:8,14:17 | M | The son of Jehu, king over Israel in Samaria seventeen years (2 Kings 10:35, 13:1-9, 13:22)
+jehoahaz-j | Jehoahaz | Jehoahaz | 23:30,23:31,23:34 | M | The son of Josiah, made king by the people of the land; reigned three months and died in Egypt (2 Kings 23:30-34)
+jehosheba | Jehosheba | Jehosheba | * | F | The daughter of king Joram, sister of Ahaziah, who hid Joash from Athaliah (2 Kings 11:2)
+joash-j | Joash | Joash;Jehoash | 11:2,12:19,12:20,13:1,13:10,14:1,14:3,14:17,14:23 | M | The son of Ahaziah, hidden six years in the house of the Lord, made king at seven years old; he repaired the house and was slain by his servants; also called Jehoash (2 Kings 11:2-21, 12:1-21)
+joash-i | Joash | Joash;Jehoash | 13:9,13:12,13:13,13:14,13:25,14:1,14:23,14:27 | M | The son of Jehoahaz, king over Israel in Samaria sixteen years, who took Amaziah at Beth-shemesh; also called Jehoash (2 Kings 13:9-25, 14:8-16)
+jehoiada-p | Jehoiada | Jehoiada | * | M | The priest, who brought forth Joash and made him king, and slew Athaliah (2 Kings 11:4-21, 12:2-9)
+sur | Sur | Sur | * | P | A gate of the king's house kept by the guard (2 Kings 11:6)
+mattan | Mattan | Mattan | * | M | The priest of Baal, slain before the altars (2 Kings 11:18)
+joash-j | | Jehoash | 11:21,12:1,12:2,12:4,12:6,12:7,12:18,14:13 | + |
+joash-i | | Jehoash | 13:10,13:25,14:8,14:9,14:11,14:13,14:15,14:16,14:17 | + |
+zibiah | Zibiah | Zibiah | * | F | Of Beer-sheba, the mother of Jehoash (2 Kings 12:1)
+beer-sheba | | Beer-sheba | * | + |
+gath | | Gath | * | + |
+millo | | Millo | * | + |
+silla | Silla | Silla | * | P | To which the house of Millo goeth down (2 Kings 12:20)
+jozachar | Jozachar | Jozachar | * | M | The son of Shimeath, a servant of Joash, who smote him (2 Kings 12:21)
+shimeath | Shimeath | Shimeath | * | F | The mother of Jozachar, who smote Joash (2 Kings 12:21); "Shimeath an Ammonitess" (2 Chronicles 24:26)
+jehozabad | Jehozabad | Jehozabad | * | M | The son of Shomer, a servant of Joash, who smote him (2 Kings 12:21)
+shomer | Shomer | Shomer | * | M | The father of Jehozabad (2 Kings 12:21)
+amaziah | Amaziah | Amaziah | * | M | The son of Joash, king of Judah twenty and nine years, who smote Edom and was taken by Jehoash at Beth-shemesh; slain at Lachish (2 Kings 12:21, 14:1-20)
+aphek | | Aphek | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | * | + |
+jehoaddan | Jehoaddan | Jehoaddan | * | F | Of Jerusalem, the mother of Amaziah (2 Kings 14:2)
+moses | | Moses | * | + |
+joktheel | | Joktheel | * | + |
+lebanon | | Lebanon | * | + |
+beth-shemesh | | Beth-shemesh | * | + |
+lachish | | Lachish | * | + |
+azariah-k | Azariah | Azariah;Uzziah | * | M | The son of Amaziah, made king of Judah at sixteen years; the Lord smote him that he was a leper; also called Uzziah (2 Kings 14:21, 15:1-7, 15:13, 15:30-34)
+elath | | Elath | * | + |
+hamath | | Hamath | * | + |
+jonah | Jonah | Jonah | * | M | The son of Amittai, the prophet, of Gath-hepher (2 Kings 14:25)
+amittai | Amittai | Amittai | * | M | The father of Jonah the prophet (2 Kings 14:25)
+gath-hepher | Gath-hepher | Gath-hepher | * | P | The home of Jonah the prophet (2 Kings 14:25)
+zachariah | Zachariah | Zachariah | 14:29,15:8,15:11 | M | The son of Jeroboam, who reigned over Israel six months and was slain by Shallum (2 Kings 14:29, 15:8-12)
+zachariah-a | Zachariah | Zachariah | 18:2 | M | The father of Abi, Hezekiah's mother (2 Kings 18:2)
+jecholiah | Jecholiah | Jecholiah | * | F | Of Jerusalem, the mother of Azariah (2 Kings 15:2)
+jotham-k | Jotham | Jotham | * | M | The son of Azariah (Uzziah), who judged the people while his father was a leper and reigned sixteen years in Jerusalem (2 Kings 15:5-38)
+shallum | Shallum | Shallum | 15:10,15:13,15:14,15:15 | M | The son of Jabesh, who slew Zachariah and reigned a full month in Samaria (2 Kings 15:10-15)
+shallum-t | Shallum | Shallum | 22:14 | M | The son of Tikvah, the son of Harhas, keeper of the wardrobe, husband of Huldah (2 Kings 22:14)
+jabesh-m | Jabesh | Jabesh | * | M | The father of Shallum (2 Kings 15:10, 15:13, 15:14)
+azariah-k | | Uzziah | * | + |
+menahem | Menahem | Menahem | * | M | The son of Gadi, who slew Shallum and reigned over Israel ten years; he gave Pul a thousand talents (2 Kings 15:14-22)
+gadi | Gadi | Gadi | * | M | The father of Menahem (2 Kings 15:14, 15:17)
+tirzah-city | | Tirzah | * | + |
+tiphsah | | Tiphsah | * | + |
+pul | Pul | Pul | * | M | The king of Assyria, who came against the land in the days of Menahem (2 Kings 15:19-20)
+assyria | | Assyria | * | + |
+pekahiah | Pekahiah | Pekahiah | * | M | The son of Menahem, king over Israel two years, slain by Pekah (2 Kings 15:22-26)
+pekah | Pekah | Pekah | * | M | The son of Remaliah, a captain of Pekahiah, who slew him and reigned over Israel twenty years; slain by Hoshea (2 Kings 15:25-31, 16:1-5)
+remaliah | Remaliah | Remaliah | * | M | The father of Pekah (2 Kings 15:25-37, 16:1, 16:5)
+argob-m | Argob | Argob | * | M | Smitten with Pekahiah in the palace of the king's house (2 Kings 15:25)
+arieh | Arieh | Arieh | * | M | Smitten with Pekahiah in the palace of the king's house (2 Kings 15:25)
+gileadites-j | | Gileadites | * | + |
+tiglath-pileser | Tiglath-pileser | Tiglath-pileser | * | M | King of Assyria, who took the cities of Naphtali and carried them captive, and to whom Ahaz sent for help (2 Kings 15:29, 16:7-10)
+ijon | | Ijon | * | + |
+abel-beth-maachah | | Abel-beth-maachah | * | + |
+janoah | Janoah | Janoah | * | P | Taken by Tiglath-pileser (2 Kings 15:29)
+kedesh | | Kedesh | * | + |
+hazor | | Hazor | * | + |
+galilee | | Galilee | * | + |
+naphtali | | Naphtali | * | + |
+hoshea-e | Hoshea | Hoshea | * | M | The son of Elah, who slew Pekah and was the last king of Israel; in his ninth year Samaria was taken and Israel carried away into Assyria (2 Kings 15:30, 17:1-6, 18:1-10)
+elah-h | Elah | Elah | * | M | The father of Hoshea king of Israel (2 Kings 15:30, 17:1, 18:1, 18:9)
+jerusha | Jerusha | Jerusha | * | F | The daughter of Zadok, the mother of Jotham (2 Kings 15:33)
+zadok-j | Zadok | Zadok | * | M | The father of Jerusha (2 Kings 15:33)
+rezin | Rezin | Rezin | * | M | King of Syria, who came with Pekah against Jerusalem; slain by the king of Assyria (2 Kings 15:37, 16:5-9)
+ahaz | Ahaz | Ahaz | * | M | The son of Jotham, king of Judah sixteen years, who made his son to pass through the fire and copied the altar of Damascus (2 Kings 15:38, 16:1-20)
+jews | Jews | Jews | * | G | Whom Rezin drave from Elath; "the Jews' language" (2 Kings 16:6, 18:26, 18:28, 25:25)
+kir | Kir | Kir | * | P | Whither the king of Assyria carried the people of Damascus captive (2 Kings 16:9)
+urijah | Urijah | Urijah | * | M | The priest, who built the altar after the pattern Ahaz sent from Damascus (2 Kings 16:10-16)
+hezekiah | Hezekiah | Hezekiah | * | M | The son of Ahaz, king of Judah twenty and nine years, who trusted in the Lord, brake the brasen serpent, and was healed; fifteen years were added to his days (2 Kings 16:20, 18:1-20:21)
+shalmaneser | Shalmaneser | Shalmaneser | * | M | King of Assyria, who came up against Hoshea and besieged Samaria (2 Kings 17:3, 18:9)
+egypt | | Egypt | * | + |
+halah | Halah | Halah | * | P | Where the king of Assyria placed Israel (2 Kings 17:6, 18:11)
+habor | Habor | Habor | * | P | By the river of Gozan, where the king of Assyria placed Israel (2 Kings 17:6, 18:11)
+gozan | Gozan | Gozan | * | P | "Habor by the river of Gozan" (2 Kings 17:6, 18:11, 19:12)
+medes | Medes | Medes | * | G | In whose cities the king of Assyria placed Israel (2 Kings 17:6, 18:11)
+pharaoh-e | | Pharaoh | 17:7 | + |
+pharaoh-r | Pharaoh | Pharaoh | 18:21 | M | King of Egypt, "a bruised reed", named by Rab-shakeh (2 Kings 18:21)
+babylon | Babylon | Babylon | * | P | Whence the king of Assyria brought men to Samaria; whose king Nebuchadnezzar carried Judah away (2 Kings 17:24, 20:12-18, 24:1-25:28)
+cuthah | Cuthah | Cuthah | * | P | Whence the king of Assyria brought men to Samaria (2 Kings 17:24)
+ava | Ava | Ava | * | P | Whence the king of Assyria brought men to Samaria (2 Kings 17:24)
+sepharvaim | Sepharvaim | Sepharvaim | * | P | Whence the king of Assyria brought men to Samaria (2 Kings 17:24, 17:31, 18:34, 19:13)
+samaritans | Samaritans | Samaritans | * | G | Who made the high places in which every nation put its gods (2 Kings 17:29)
+succoth-benoth | Succoth-benoth | Succoth-benoth | * | X | Made by the men of Babylon (2 Kings 17:30); not a person in People
+cuth | Cuth | Cuth | * | P | Whose men made Nergal (2 Kings 17:30)
+nergal | Nergal | Nergal | * | X | Made by the men of Cuth (2 Kings 17:30); not a person in People
+ashima | Ashima | Ashima | * | X | Made by the men of Hamath (2 Kings 17:30); not a person in People
+avims | | Avites | * | + |
+nibhaz | Nibhaz | Nibhaz | * | X | Made by the Avites (2 Kings 17:31); not a person in People
+tartak | Tartak | Tartak | * | X | Made by the Avites (2 Kings 17:31); not a person in People
+sepharvites | Sepharvites | Sepharvites | * | G | Who burnt their children in fire to Adrammelech and Anammelech (2 Kings 17:31)
+adrammelech-idol | Adrammelech | Adrammelech | 17:31 | X | A god of Sepharvaim (2 Kings 17:31); not a person in People
+adrammelech | Adrammelech | Adrammelech | 19:37 | M | A son of Sennacherib, who with Sharezer smote him with the sword and escaped into Armenia (2 Kings 19:37)
+anammelech | Anammelech | Anammelech | * | X | A god of Sepharvaim (2 Kings 17:31); not a person in People
+abi | Abi | Abi | * | F | The daughter of Zachariah, the mother of Hezekiah (2 Kings 18:2)
+nehushtan | Nehushtan | Nehushtan | * | X | The brasen serpent that Moses had made, which Hezekiah brake in pieces (2 Kings 18:4); not a person in People
+gaza | | Gaza | * | + |
+sennacherib | Sennacherib | Sennacherib | * | M | King of Assyria, who came up against the fenced cities of Judah and reproached the living God; slain by his sons in the house of Nisroch (2 Kings 18:13, 19:16-37)
+tartan | Tartan | Tartan | * | M | Sent by the king of Assyria with a great host against Jerusalem (2 Kings 18:17)
+rabsaris | Rabsaris | Rabsaris | * | M | Sent by the king of Assyria with a great host against Jerusalem (2 Kings 18:17)
+rab-shakeh | Rab-shakeh | Rab-shakeh | * | M | Sent by the king of Assyria, who spake to the people on the wall in the Jews' language (2 Kings 18:17-37, 19:4, 19:8)
+eliakim | Eliakim | Eliakim | 18:18,18:26,18:37,19:2 | M | The son of Hilkiah, over the household of Hezekiah (2 Kings 18:18, 18:26, 18:37, 19:2)
+hilkiah-e | Hilkiah | Hilkiah | 18:18,18:26,18:37 | M | The father of Eliakim (2 Kings 18:18, 18:26, 18:37)
+hilkiah | Hilkiah | Hilkiah | 22:4,22:8,22:10,22:12,22:14,23:4,23:24 | M | The high priest, who found the book of the law in the house of the Lord (2 Kings 22:4-14, 23:4, 23:24)
+shebna | Shebna | Shebna | * | M | The scribe of Hezekiah (2 Kings 18:18, 18:26, 18:37, 19:2)
+joah | Joah | Joah | * | M | The son of Asaph, the recorder (2 Kings 18:18, 18:26, 18:37)
+asaph | Asaph | Asaph | * | M | The father of Joah the recorder (2 Kings 18:18, 18:37)
+arpad | Arpad | Arpad | * | P | "Where are the gods of Hamath, and of Arpad?" (2 Kings 18:34, 19:13)
+hena | Hena | Hena | * | P | Named by Rab-shakeh among the cities whose gods could not deliver (2 Kings 18:34, 19:13)
+ivah | Ivah | Ivah | * | P | Named by Rab-shakeh among the cities whose gods could not deliver (2 Kings 18:34, 19:13)
+isaiah | Isaiah | Isaiah | * | M | The prophet, the son of Amoz, who answered Hezekiah and gave him the sign of the shadow on the dial (2 Kings 19:2-34, 20:1-19)
+amoz | Amoz | Amoz | * | M | The father of Isaiah the prophet (2 Kings 19:2, 19:20, 20:1)
+tirhakah | Tirhakah | Tirhakah | * | M | King of Ethiopia, come out to fight against the king of Assyria (2 Kings 19:9)
+ethiopia | | Ethiopia | * | + |
+haran-place | | Haran | * | + |
+rezeph | Rezeph | Rezeph | * | P | Destroyed by the kings of Assyria (2 Kings 19:12)
+eden | | Eden | * | + |
+thelasar | Thelasar | Thelasar | * | P | Where the children of Eden were (2 Kings 19:12)
+zion | | Zion | * | + |
+assyrians | Assyrians | Assyrians | * | G | In whose camp the angel of the Lord smote an hundred fourscore and five thousand (2 Kings 19:35)
+nineveh | | Nineveh | * | + |
+nisroch | Nisroch | Nisroch | * | X | The god of Sennacherib, in whose house he was slain (2 Kings 19:37); not a person in People
+sharezer | Sharezer | Sharezer | * | M | A son of Sennacherib, who with Adrammelech smote him with the sword (2 Kings 19:37)
+armenia | Armenia | Armenia | * | P | Whither the sons of Sennacherib escaped (2 Kings 19:37)
+esarhaddon | Esarhaddon | Esarhaddon | * | M | The son of Sennacherib, who reigned in his stead (2 Kings 19:37)
+berodach-baladan | Berodach-baladan | Berodach-baladan | * | M | The son of Baladan, king of Babylon, who sent letters and a present to Hezekiah (2 Kings 20:12)
+baladan | Baladan | Baladan | * | M | The father of Berodach-baladan (2 Kings 20:12)
+manasseh-k | Manasseh | Manasseh | * | M | The son of Hezekiah, king of Judah fifty and five years, who did evil above the Amorites and shed innocent blood (2 Kings 20:21, 21:1-18, 23:12, 23:26, 24:3)
+hephzi-bah | Hephzi-bah | Hephzi-bah | * | F | The mother of Manasseh (2 Kings 21:1)
+solomon | | Solomon | * | + |
+amorite | | Amorites | * | + |
+uzza | Uzza | Uzza | * | P | The garden of Uzza, where Manasseh and Amon were buried (2 Kings 21:18, 21:26)
+amon-k | Amon | Amon | * | M | The son of Manasseh, king of Judah two years, slain by his servants (2 Kings 21:18-26)
+meshullemeth | Meshullemeth | Meshullemeth | * | F | The daughter of Haruz of Jotbah, the mother of Amon (2 Kings 21:19)
+haruz | Haruz | Haruz | * | M | Of Jotbah, the father of Meshullemeth (2 Kings 21:19)
+jotbah | Jotbah | Jotbah | * | P | The home of Haruz (2 Kings 21:19)
+josiah | | Josiah | * | + |
+jedidah | Jedidah | Jedidah | * | F | The daughter of Adaiah of Boscath, the mother of Josiah (2 Kings 22:1)
+adaiah | Adaiah | Adaiah | * | M | Of Boscath, the father of Jedidah (2 Kings 22:1)
+boscath | Boscath | Boscath | * | P | The home of Adaiah (2 Kings 22:1)
+shaphan | Shaphan | Shaphan | 22:3,22:8,22:9,22:10,22:12,22:14 | M | The son of Azaliah, the son of Meshullam, the scribe, to whom Hilkiah gave the book of the law (2 Kings 22:3-14)
+shaphan-a | Shaphan | Shaphan | 22:12,25:22 | M | The father of Ahikam, grandfather of Gedaliah (2 Kings 22:12, 25:22)
+azaliah | Azaliah | Azaliah | * | M | The son of Meshullam, the father of Shaphan the scribe (2 Kings 22:3)
+meshullam | Meshullam | Meshullam | * | M | The father of Azaliah (2 Kings 22:3)
+ahikam | Ahikam | Ahikam | * | M | The son of Shaphan, sent by Josiah to enquire of the Lord; father of Gedaliah (2 Kings 22:12-14, 25:22)
+achbor-m | Achbor | Achbor | * | M | The son of Michaiah, sent by Josiah to enquire of the Lord (2 Kings 22:12, 22:14)
+michaiah | Michaiah | Michaiah | * | M | The father of Achbor (2 Kings 22:12)
+asahiah | Asahiah | Asahiah | * | M | A servant of the king, sent by Josiah to enquire of the Lord (2 Kings 22:12, 22:14)
+huldah | Huldah | Huldah | * | F | The prophetess, the wife of Shallum the keeper of the wardrobe, who dwelt in Jerusalem in the college (2 Kings 22:14-20)
+tikvah | Tikvah | Tikvah | * | M | The son of Harhas, father of Shallum (2 Kings 22:14)
+harhas | Harhas | Harhas | * | M | The father of Tikvah (2 Kings 22:14)
+kidron | | Kidron | * | + |
+geba | | Geba | * | + |
+joshua-g | Joshua | Joshua | * | M | The governor of the city, at whose gate were high places (2 Kings 23:8)
+topheth | Topheth | Topheth | * | P | In the valley of the children of Hinnom, defiled by Josiah (2 Kings 23:10)
+hinnom | | Hinnom | * | + |
+molech | | Molech | * | + |
+nathan-melech | Nathan-melech | Nathan-melech | * | M | The chamberlain, by whose chamber were the horses given to the sun (2 Kings 23:11)
+ashtoreth | | Ashtoreth | * | + |
+sidonians | | Zidonians | * | + |
+chemosh | | Chemosh | * | + |
+milcom | | Milcom | * | + |
+ammon | | Ammon | * | + |
+pharaoh-nechoh | Pharaoh-nechoh | Pharaoh-nechoh;Pharaoh | 23:29,23:33,23:34,23:35 | M | King of Egypt, who slew Josiah at Megiddo, put Jehoahaz in bands, and made Eliakim king, turning his name to Jehoiakim (2 Kings 23:29-35)
+euphrates | | Euphrates | * | + |
+hamutal | Hamutal | Hamutal | * | F | The daughter of Jeremiah of Libnah, mother of Jehoahaz and of Zedekiah (2 Kings 23:31, 24:18)
+jeremiah-l | Jeremiah | Jeremiah | * | M | Of Libnah, the father of Hamutal (2 Kings 23:31, 24:18)
+riblah | | Riblah | * | + |
+jehoiakim | Jehoiakim | Jehoiakim;Eliakim | !18:18,!18:26,!18:37,!19:2 | M | The son of Josiah, named Eliakim, whom Pharaoh-nechoh made king and turned his name to Jehoiakim; he served Nebuchadnezzar three years and rebelled (2 Kings 23:34-24:6)
+zebudah | Zebudah | Zebudah | * | F | The daughter of Pedaiah of Rumah, the mother of Jehoiakim (2 Kings 23:36)
+pedaiah | Pedaiah | Pedaiah | * | M | Of Rumah, the father of Zebudah (2 Kings 23:36)
+rumah | Rumah | Rumah | * | P | The home of Pedaiah (2 Kings 23:36)
+nebuchadnezzar | Nebuchadnezzar | Nebuchadnezzar | * | M | King of Babylon, who besieged Jerusalem, carried away Jehoiachin and all Jerusalem, and burnt the house of the Lord (2 Kings 24:1-25:22)
+chaldees | | Chaldees | * | + |
+jehoiachin | Jehoiachin | Jehoiachin | * | M | The son of Jehoiakim, who reigned three months and was carried to Babylon; Evil-merodach lifted up his head out of prison (2 Kings 24:6-16, 25:27-30)
+nehushta | Nehushta | Nehushta | * | F | The daughter of Elnathan of Jerusalem, the mother of Jehoiachin (2 Kings 24:8)
+elnathan | Elnathan | Elnathan | * | M | Of Jerusalem, the father of Nehushta (2 Kings 24:8)
+zedekiah-k | Zedekiah | Zedekiah;Mattaniah | * | M | Mattaniah, the brother of Jehoiachin's father, whom the king of Babylon made king and changed his name to Zedekiah; his eyes were put out and he was carried to Babylon (2 Kings 24:17-25:7)
+nebuzar-adan | Nebuzar-adan | Nebuzar-adan | * | M | Captain of the guard of the king of Babylon, who burnt the house of the Lord and carried away the people (2 Kings 25:8-20)
+seraiah-p | Seraiah | Seraiah | 25:18 | M | The chief priest, taken by the captain of the guard and slain at Riblah (2 Kings 25:18-21)
+seraiah-t | Seraiah | Seraiah | 25:23 | M | The son of Tanhumeth the Netophathite, a captain who came to Gedaliah (2 Kings 25:23)
+zephaniah | Zephaniah | Zephaniah | * | M | The second priest, taken by the captain of the guard and slain at Riblah (2 Kings 25:18-21)
+gedaliah | Gedaliah | Gedaliah | * | M | The son of Ahikam, the son of Shaphan, made ruler over the people left in Judah; slain by Ishmael at Mizpah (2 Kings 25:22-25)
+mizpah | | Mizpah | * | + |
+ishmael-n | Ishmael | Ishmael | * | M | The son of Nethaniah, of the seed royal, who smote Gedaliah at Mizpah (2 Kings 25:23-25)
+nethaniah | Nethaniah | Nethaniah | * | M | The son of Elishama, the father of Ishmael (2 Kings 25:23, 25:25)
+johanan | Johanan | Johanan | * | M | The son of Careah, a captain who came to Gedaliah (2 Kings 25:23)
+careah | Careah | Careah | * | M | The father of Johanan (2 Kings 25:23)
+tanhumeth | Tanhumeth | Tanhumeth | * | M | The Netophathite, the father of Seraiah (2 Kings 25:23)
+netophathite | | Netophathite | * | + |
+jaazaniah | Jaazaniah | Jaazaniah | * | M | The son of a Maachathite, a captain who came to Gedaliah (2 Kings 25:23)
+maachathite | | Maachathite | * | + |
+elishama-n | Elishama | Elishama | * | M | Of the seed royal, the grandfather of Ishmael (2 Kings 25:25)
+evil-merodach | Evil-merodach | Evil-merodach | * | M | King of Babylon, who lifted up the head of Jehoiachin out of prison (2 Kings 25:27-30)

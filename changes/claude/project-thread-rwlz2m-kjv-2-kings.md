@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: 2 Kings added (119 new people, 5 peoples, 30 places; Athaliah linked to Ahab and Jehoram with Josephus and Jewish Encyclopedia pages).

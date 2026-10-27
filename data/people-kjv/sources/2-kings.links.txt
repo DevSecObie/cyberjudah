@@ -1,0 +1,82 @@
+# Family links in 2 Kings, each with the verse that states it (same format as genesis.links.txt).
+jehoram-a < ahab | 3:1,8:16,8:25,8:28,8:29,9:29
+jehoram < jehoshaphat-k | 1:17,8:16
+athaliah ^ omri | 8:26 | "Athaliah, the daughter of Omri" (the KJV reading, kept); Omri was Ahab's father (1 Kings 16:28), so Omri is her line
+athaliah < ahab | 8:18,8:26,8:27 | "the daughter of Ahab was his wife" (8:18) is Athaliah, the mother of Ahaziah (8:26), who "was the son in law of the house of Ahab" (8:27) | history | Josephus, Antiquities of the Jews 8.15.3 (Whiston): "Jehoshaphat took for his son Jehoram to wife the daughter of Ahab ... whose name was Athaliah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link82H_4_0001> ; Josephus, Antiquities 9.7.1: "Athaliah, the daughter of Ahab" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link92H_4_0001> ; Jewish Encyclopedia (1901-1906) vol. 2 p. 260, "Athaliah": "Daughter of Ahab ... also called the daughter of Omri" <https://archive.org/details/cu31924091768196/page/n297/mode/1up>
+jehoram = athaliah | 8:18,8:26 | "the daughter of Ahab was his wife" (8:18); Athaliah is the mother of his son Ahaziah (8:24-26) | history | Josephus, Antiquities of the Jews 8.15.3 (Whiston): "Jehoshaphat took for his son Jehoram to wife the daughter of Ahab ... whose name was Athaliah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link82H_4_0001> ; Josephus, Antiquities 9.7.1: "Athaliah, the daughter of Ahab" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link92H_4_0001> ; Jewish Encyclopedia (1901-1906) vol. 2 p. 260, "Athaliah": "Daughter of Ahab ... also called the daughter of Omri" <https://archive.org/details/cu31924091768196/page/n297/mode/1up>
+mesha-m @ moabites | 3:4
+elisha < shaphat-e | 3:11,6:31
+ben-hadad-h < hazael | 13:3,13:24,13:25
+ahaziah-j < jehoram | 8:24,8:25,8:29
+ahaziah-j << athaliah | 8:26,11:1
+jehu < jehoshaphat-n | 9:2,9:14
+jehoshaphat-n < nimshi | 9:2,9:14
+jehonadab < rechab-j | 10:15,10:23
+jehoahaz < jehu | 10:35,13:1,14:8
+jehosheba < jehoram | 11:2 | "the daughter of king Joram"
+jehosheba ~ ahaziah-j | 11:2
+joash-j < ahaziah-j | 11:2,13:1,14:13
+joash-j << zibiah | 12:1
+jozachar << shimeath | 12:21
+jehozabad < shomer | 12:21
+amaziah < joash-j | 12:21,14:1,14:17,14:23
+amaziah << jehoaddan | 14:2
+joash-i < jehoahaz | 13:9,13:10,13:25,14:1,14:8,14:17
+jeroboam-j < joash-i | 13:13,14:16,14:23,14:27
+azariah-k < amaziah | 14:21,15:1
+azariah-k << jecholiah | 15:2
+jonah < amittai | 14:25
+zachariah < jeroboam-j | 14:29,15:8
+shallum < jabesh-m | 15:10,15:13,15:14
+menahem < gadi | 15:14,15:17
+pekahiah < menahem | 15:22
+pekah < remaliah | 15:25,15:27,15:30,15:32,15:37,16:1,16:5
+hoshea-e < elah-h | 15:30,17:1,18:1,18:9
+jotham-k < azariah-k | 15:7,15:32
+jotham-k << jerusha | 15:33
+jerusha < zadok-j | 15:33
+ahaz < jotham-k | 15:38,16:1
+hezekiah < ahaz | 16:20,18:1
+hezekiah << abi | 18:2
+abi < zachariah-a | 18:2
+eliakim < hilkiah-e | 18:18,18:26,18:37
+joah < asaph | 18:18,18:37
+isaiah < amoz | 19:2,19:20,20:1
+adrammelech sharezer < sennacherib | 19:36,19:37 | "Adrammelech and Sharezer his sons smote him"
+esarhaddon < sennacherib | 19:36,19:37 | "Esarhaddon his son reigned in his stead"
+berodach-baladan < baladan | 20:12
+manasseh-k < hezekiah | 20:21
+manasseh-k << hephzi-bah | 21:1
+amon-k < manasseh-k | 21:18,21:20
+amon-k << meshullemeth | 21:19
+meshullemeth < haruz | 21:19
+josiah < amon-k | 21:24,21:26 | "made Josiah his son king in his stead"
+josiah << jedidah | 22:1
+jedidah < adaiah | 22:1
+shaphan < azaliah | 22:3
+azaliah < meshullam | 22:3
+ahikam < shaphan-a | 22:12,25:22
+achbor-m < michaiah | 22:12
+shallum-t = huldah | 22:14 | "the wife of Shallum"
+shallum-t < tikvah | 22:14
+tikvah < harhas | 22:14
+jehoahaz-j < josiah | 23:30
+jehoahaz-j << hamutal | 23:31
+hamutal < jeremiah-l | 23:31,24:18
+jehoiakim < josiah | 23:34
+jehoiakim << zebudah | 23:36
+zebudah < pedaiah | 23:36
+jehoiachin < jehoiakim | 24:6
+jehoiachin << nehushta | 24:8
+nehushta < elnathan | 24:8
+zedekiah-k ~ jehoiakim | 24:6,24:17 | "Mattaniah his father's brother"
+zedekiah-k << hamutal | 24:18
+gedaliah < ahikam | 25:22
+seraiah-t < tanhumeth | 25:23
+tanhumeth @ netophathite | 25:23
+johanan < careah | 25:23
+jaazaniah @ maachathite | 25:23 | "the son of a Maachathite"
+ishmael-n < nethaniah | 25:23,25:25
+nethaniah < elishama-n | 25:25
+elijah @ tishbite | 1:3,1:8,9:36
+naboth @ jezreelitess | 9:21,9:25
