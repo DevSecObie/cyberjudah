@@ -32,7 +32,8 @@ def chapters(slug):
 
 
 def index():
-    H = json.load(open(f'{ROOT}/strongs/hebrew.json', encoding='utf-8')); G = json.load(open(f'{ROOT}/strongs/greek.json', encoding='utf-8'))
+    H = json.load(open(f'{ROOT}/strongs/hebrew.json', encoding='utf-8'))
+    G = json.load(open(f'{ROOT}/strongs/greek.json', encoding='utf-8'))
     def proper(s):
         d = (H.get(s) or G.get(s) or {}).get('def', '')
         return d[:1].isupper() or 'name' in d

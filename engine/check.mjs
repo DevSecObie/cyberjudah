@@ -43,7 +43,12 @@ if (peopleBase && !/^0+$/.test(peopleBase)) { // a push creating a branch gives 
   peopleProblems.push(...validatePeopleEvidence(peopleDoc, changed, { bibleDir: path.join(ROOT, "data/bible"), exceptions: evidenceExceptions, beforeDoc }));
   console.error(`people: ${changed.length} person(s) changed since ${peopleBase}, checked for scripture evidence`);
 }
-peopleProblems.push(...validateKjvPeople(loadKjvPeople(path.join(ROOT, "data/people-kjv")), { bibleDir: path.join(ROOT, "data/bible") })); // the catalog rebuilt from the KJV
+const kjvDir = path.join(ROOT, "data/people-kjv"); // the catalog rebuilt from the KJV: every book with sources must have its built file
+for (const f of fs.existsSync(path.join(kjvDir, "sources")) ? fs.readdirSync(path.join(kjvDir, "sources")) : []) {
+  const book = f.endsWith(".names.txt") && f.slice(0, -".names.txt".length);
+  if (book && !fs.existsSync(path.join(kjvDir, `${book}.json`))) peopleProblems.push(`people-kjv: ${book}.json is missing; run scripts/people-kjv/build.py ${book}`);
+}
+peopleProblems.push(...validateKjvPeople(loadKjvPeople(kjvDir), { bibleDir: path.join(ROOT, "data/bible") }));
 if (peopleProblems.length) { for (const message of peopleProblems) console.error(message); process.exit(1); }
 const placesProblems = validatePlaces(JSON.parse(fs.readFileSync(path.join(ROOT, "data/places/places.json"), "utf8")));
 if (placesProblems.length) { for (const message of placesProblems) console.error(message); process.exit(1); }
