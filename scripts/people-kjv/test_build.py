@@ -15,6 +15,11 @@ class Build(unittest.TestCase):
     def test_gods_are_not_people(self):
         doc, _ = build.build()
         people = {p['id'] for p in doc['people']}
+        other = {o['id'] for o in doc['other']}
+        for god in ('molech-lev-18-21', 'chemosh-num-21-29', 'baal-num-22-41', 'ashtaroth-jdg-2-13',
+                    'dagon-jdg-16-23', 'ashtoreth-1ki-11-5', 'milcom-1ki-11-5', 'nisroch-2ki-19-37'):
+            self.assertIn(god, other)
+            self.assertNotIn(god, people)
         for o in doc['other']:
             self.assertNotIn(o['id'], people)
             self.assertIn(o['kind'], build.OTHER.values())
