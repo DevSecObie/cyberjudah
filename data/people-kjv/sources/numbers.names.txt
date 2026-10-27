@@ -1,0 +1,420 @@
+# Numbers: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+# "Israel" in Numbers is the people, save where the man Jacob is meant (1:20, 26:5).
+# Same name, same father (or a spelling that differs only by a vowel, an h or a doubled letter, with the same father): one record.
+# Any other difference in name or father: separate records with no link, since no verse says they are one.
+moses | | Moses | * | + |
+sinai | | Sinai | * | + |
+egypt | | Egypt | * | + |
+israel-people | | Israel;Israelite | !1:20,!26:5 | + |
+jacob | | Jacob;Israel | 1:20,23:7,23:10,23:21,23:23,24:5,24:17,24:19,26:5,32:11 | + |
+aaron | | Aaron | * | + |
+reuben | | Reuben | * | + |
+elizur | Elizur | Elizur | * | M | The son of Shedeur, prince of the tribe of Reuben, who stood with Moses and Aaron to number Israel (Numbers 1:5, 2:10, 7:30, 10:18)
+shedeur | Shedeur | Shedeur | * | M | The father of Elizur of the tribe of Reuben (Numbers 1:5)
+simeon | | Simeon | * | + |
+shelumiel | Shelumiel | Shelumiel | * | M | The son of Zurishaddai, prince of the tribe of Simeon (Numbers 1:6, 2:12, 7:36, 10:19)
+zurishaddai | Zurishaddai | Zurishaddai | * | M | The father of Shelumiel of the tribe of Simeon (Numbers 1:6)
+judah | | Judah | * | + |
+naashon | | Naashon;Nahshon | * | + |
+amminadab | | Amminadab | * | + |
+issachar | | Issachar | * | + |
+nethaneel | Nethaneel | Nethaneel | * | M | The son of Zuar, prince of the tribe of Issachar (Numbers 1:8, 2:5, 7:18, 10:15)
+zuar | Zuar | Zuar | * | M | The father of Nethaneel of the tribe of Issachar (Numbers 1:8)
+zebulun | | Zebulun | * | + |
+eliab-z | Eliab | Eliab | 1:9,2:7,7:24,7:29,10:16 | M | The son of Helon, prince of the tribe of Zebulun (Numbers 1:9, 2:7, 7:24, 10:16)
+helon | Helon | Helon | * | M | The father of Eliab of the tribe of Zebulun (Numbers 1:9)
+joseph | | Joseph | !13:7 | + |
+joseph-i | Joseph | Joseph | 13:7 | M | Of the tribe of Issachar, the father of Igal (Numbers 13:7)
+ephraim | | Ephraim | * | + |
+elishama | Elishama | Elishama | * | M | The son of Ammihud, prince of the tribe of Ephraim (Numbers 1:10, 2:18, 7:48, 10:22)
+ammihud-e | Ammihud | Ammihud | 1:10,2:18,7:48,7:53,10:22 | M | The father of Elishama of the tribe of Ephraim (Numbers 1:10)
+manasseh | | Manasseh | * | + |
+gamaliel | Gamaliel | Gamaliel | * | M | The son of Pedahzur, prince of the tribe of Manasseh (Numbers 1:10, 2:20, 7:54, 10:23)
+pedahzur | Pedahzur | Pedahzur | * | M | The father of Gamaliel of the tribe of Manasseh (Numbers 1:10)
+benjamin | | Benjamin | * | + |
+abidan | Abidan | Abidan | * | M | The son of Gideoni, prince of the tribe of Benjamin (Numbers 1:11, 2:22, 7:60, 10:24)
+gideoni | Gideoni | Gideoni | * | M | The father of Abidan of the tribe of Benjamin (Numbers 1:11)
+dan | | Dan | * | + |
+ahiezer | Ahiezer | Ahiezer | * | M | The son of Ammishaddai, prince of the tribe of Dan (Numbers 1:12, 2:25, 7:66, 10:25)
+ammishaddai | Ammishaddai | Ammishaddai | * | M | The father of Ahiezer of the tribe of Dan (Numbers 1:12)
+asher | | Asher | * | + |
+pagiel | Pagiel | Pagiel | * | M | The son of Ocran, prince of the tribe of Asher (Numbers 1:13, 2:27, 7:72, 10:26)
+ocran | Ocran | Ocran | * | M | The father of Pagiel of the tribe of Asher (Numbers 1:13)
+gad | | Gad | * | + |
+eliasaph-g | Eliasaph | Eliasaph | 1:14,2:14,7:42,7:47,10:20 | M | The son of Deuel, prince of the tribe of Gad; Numbers 2:14 calls his father Reuel (Numbers 1:14, 2:14, 7:42, 10:20)
+deuel | Deuel | Deuel;Reuel | 1:14,2:14,7:42,7:47,10:20 | M | The father of Eliasaph, prince of Gad; called Reuel in the same list of captains (Numbers 1:14, 2:14)
+naphtali | | Naphtali | * | + |
+ahira | Ahira | Ahira | * | M | The son of Enan, prince of the tribe of Naphtali (Numbers 1:15, 2:29, 7:78, 10:27)
+enan | Enan | Enan | * | M | The father of Ahira of the tribe of Naphtali (Numbers 1:15)
+levites | | Levites | * | + |
+levi | | Levi | * | + |
+nadab | | Nadab | * | + |
+abihu | | Abihu | * | + |
+eleazar | | Eleazar | * | + |
+ithamar | | Ithamar | * | + |
+gershon | | Gershon | * | + |
+kohath | | Kohath | * | + |
+merari | | Merari | * | + |
+libni | | Libni | * | + |
+shimi | | Shimei | * | + |
+amram | | Amram | * | + |
+izhar | | Izhar;Izehar | * | + |
+hebron-k | | Hebron | 3:19 | + |
+uzziel | | Uzziel | * | + |
+mahali | | Mahli | * | + |
+mushi | | Mushi | * | + |
+libnites | Libnites | Libnites | * | G | The family that came of Libni, son of Gershon (Numbers 3:18, 3:21, 26:58)
+shimites | Shimites | Shimites | * | G | The family that came of Shimei, son of Gershon (Numbers 3:18, 3:21)
+gershonites | Gershonites | Gershonites | * | G | The families of Gershon, who kept the tabernacle, the tent and the hangings (Numbers 3:21-26)
+eliasaph-l | Eliasaph | Eliasaph | 3:24 | M | The son of Lael, chief of the house of the father of the Gershonites (Numbers 3:24)
+lael | Lael | Lael | * | M | The father of Eliasaph, chief of the Gershonites (Numbers 3:24)
+amramites | Amramites | Amramites | * | G | A family of Kohath, from Amram (Numbers 3:19, 3:27)
+izeharites | Izeharites | Izeharites | * | G | A family of Kohath, from Izehar (Numbers 3:19, 3:27)
+hebronites | Hebronites | Hebronites | * | G | A family of Kohath, from Hebron (Numbers 3:19, 3:27, 26:58)
+uzzielites | Uzzielites | Uzzielites | * | G | A family of Kohath, from Uzziel (Numbers 3:19, 3:27)
+kohathites | Kohathites | Kohathites | * | G | The families of Kohath, who kept the ark, the table, the candlestick and the altars (Numbers 3:27-31, 4:15)
+elzaphan | | Elizaphan | 3:30 | + |
+mahlites | Mahlites | Mahlites | * | G | A family of Merari, from Mahli (Numbers 3:20, 3:33, 26:58)
+mushites | Mushites | Mushites | * | G | A family of Merari, from Mushi (Numbers 3:20, 3:33, 26:58)
+zuriel | Zuriel | Zuriel | * | M | The son of Abihail, chief of the house of the father of the families of Merari (Numbers 3:35)
+abihail | Abihail | Abihail | * | M | The father of Zuriel, chief of the families of Merari (Numbers 3:35)
+nazarite | Nazarite | Nazarite | * | X | One who separates himself to vow a vow unto the Lord (Numbers 6:2-21); not a name
+paran | | Paran | * | + |
+hobab | Hobab | Hobab | * | M | The son of Raguel the Midianite; Moses asked him to go with Israel and be to them instead of eyes (Numbers 10:29-32)
+raguel | Raguel | Raguel | * | M | The Midianite, father of Hobab; "Hobab, the son of Raguel the Midianite, Moses' father in law" (Numbers 10:29)
+midianites | | Midianite;Midianites;Midianitish | * | + |
+taberah | Taberah | Taberah | * | P | Where the fire of the Lord burnt among the people (Numbers 11:3)
+eldad | Eldad | Eldad | * | M | One of the seventy elders, on whom the spirit rested and who prophesied in the camp (Numbers 11:26-27)
+medad | Medad | Medad | * | M | One of the seventy elders, on whom the spirit rested and who prophesied in the camp (Numbers 11:26-27)
+joshua | | Joshua;Oshea;Jehoshua | * | + |
+nun | | Nun | * | + |
+enviest | Enviest | Enviest | * | X | "Enviest thou for my sake?" (Numbers 11:29); not a name
+kibroth-hattaavah | Kibroth-hattaavah | Kibroth-hattaavah | * | P | Where they buried the people that lusted (Numbers 11:34)
+hazeroth | Hazeroth | Hazeroth | * | P | Where the people abode after Kibroth-hattaavah (Numbers 11:35)
+miriam | | Miriam | * | + |
+ethiopian | Ethiopian | Ethiopian | * | G | Moses had married an Ethiopian woman (Numbers 12:1)
+canaan-land | | Canaan | * | + |
+shammua | Shammua | Shammua | * | M | The son of Zaccur, sent from the tribe of Reuben to search the land (Numbers 13:4)
+zaccur | Zaccur | Zaccur | * | M | Of the tribe of Reuben, the father of Shammua (Numbers 13:4)
+shaphat | Shaphat | Shaphat | * | M | The son of Hori, sent from the tribe of Simeon to search the land (Numbers 13:5)
+hori-s | Hori | Hori | * | M | Of the tribe of Simeon, the father of Shaphat (Numbers 13:5)
+caleb | Caleb | Caleb | * | M | The son of Jephunneh the Kenezite, sent from the tribe of Judah to search the land; he followed the Lord fully, and he and Joshua alone of that generation entered the land (Numbers 13:6, 14:24, 26:65, 32:12)
+jephunneh | Jephunneh | Jephunneh | * | M | The father of Caleb, called the Kenezite (Numbers 13:6, 32:12)
+igal | Igal | Igal | * | M | The son of Joseph, sent from the tribe of Issachar to search the land (Numbers 13:7)
+palti | Palti | Palti | * | M | The son of Raphu, sent from the tribe of Benjamin to search the land (Numbers 13:9)
+raphu | Raphu | Raphu | * | M | Of the tribe of Benjamin, the father of Palti (Numbers 13:9)
+gaddiel | Gaddiel | Gaddiel | * | M | The son of Sodi, sent from the tribe of Zebulun to search the land (Numbers 13:10)
+sodi | Sodi | Sodi | * | M | Of the tribe of Zebulun, the father of Gaddiel (Numbers 13:10)
+gaddi | Gaddi | Gaddi | * | M | The son of Susi, sent from the tribe of Manasseh to search the land (Numbers 13:11)
+susi | Susi | Susi | * | M | Of the tribe of Manasseh, the father of Gaddi (Numbers 13:11)
+ammiel | Ammiel | Ammiel | * | M | The son of Gemalli, sent from the tribe of Dan to search the land (Numbers 13:12)
+gemalli | Gemalli | Gemalli | * | M | Of the tribe of Dan, the father of Ammiel (Numbers 13:12)
+sethur | Sethur | Sethur | * | M | The son of Michael, sent from the tribe of Asher to search the land (Numbers 13:13)
+michael | Michael | Michael | * | M | Of the tribe of Asher, the father of Sethur (Numbers 13:13)
+nahbi | Nahbi | Nahbi | * | M | The son of Vophsi, sent from the tribe of Naphtali to search the land (Numbers 13:14)
+vophsi | Vophsi | Vophsi | * | M | Of the tribe of Naphtali, the father of Nahbi (Numbers 13:14)
+geuel | Geuel | Geuel | * | M | The son of Machi, sent from the tribe of Gad to search the land (Numbers 13:15)
+machi | Machi | Machi | * | M | Of the tribe of Gad, the father of Geuel (Numbers 13:15)
+zin | Zin | Zin | * | P | The wilderness of Zin, where Kadesh is (Numbers 13:21, 20:1)
+rehob | Rehob | Rehob | * | P | Unto which the spies searched the land, as men come to Hamath (Numbers 13:21)
+hamath | Hamath | Hamath | * | P | The entrance of Hamath, at the north of the land (Numbers 13:21, 34:8)
+hebron | | Hebron | 13:22 | + |
+ahiman | Ahiman | Ahiman | * | M | One of the children of Anak at Hebron (Numbers 13:22)
+sheshai | Sheshai | Sheshai | * | M | One of the children of Anak at Hebron (Numbers 13:22)
+talmai | Talmai | Talmai | * | M | One of the children of Anak at Hebron (Numbers 13:22)
+anak | Anak | Anak | * | M | Whose children dwelt at Hebron; "the sons of Anak, which come of the giants" (Numbers 13:22, 13:28, 13:33)
+zoan | Zoan | Zoan | * | P | In Egypt; Hebron was built seven years before it (Numbers 13:22)
+eshcol-brook | Eshcol | Eshcol | * | P | The brook where the spies cut down a branch with one cluster of grapes (Numbers 13:23-24, 32:9)
+kadesh | | Kadesh;Kadesh-barnea | * | + |
+amalekites | | Amalekites | * | + |
+hittites | | Hittites | * | + |
+jebusite | | Jebusites | * | + |
+amorite | | Amorite;Amorites | * | + |
+canaanites | | Canaanite;Canaanites | * | + |
+jordan | | Jordan | * | + |
+egyptian | | Egyptians | * | + |
+hormah | Hormah | Hormah | * | P | Unto which the Amalekites and Canaanites discomfited Israel; the name given to the cities destroyed there (Numbers 14:45, 21:3)
+korah-i | | Korah | * | + |
+dathan | Dathan | Dathan | * | M | A son of Eliab of Reuben, who rose up with Korah against Moses; the earth swallowed him (Numbers 16:1, 16:31-33, 26:9-10)
+abiram | Abiram | Abiram | * | M | A son of Eliab of Reuben, who rose up with Korah against Moses; the earth swallowed him (Numbers 16:1, 16:31-33, 26:9-10)
+eliab-r | Eliab | Eliab | 16:1,16:12,26:8,26:9 | M | The son of Pallu of Reuben, father of Nemuel, Dathan and Abiram (Numbers 16:1, 26:8-9)
+peleth | Peleth | Peleth | * | M | Of the sons of Reuben, the father of On, who rose up with Korah (Numbers 16:1)
+meribah | | Meribah | * | + |
+edom-land | | Edom | * | + |
+hor | Hor | Hor | * | P | The mount by the coast of the land of Edom, where Aaron died (Numbers 20:22-28, 33:38)
+arad | Arad | Arad | * | M | King Arad the Canaanite, which dwelt in the south, who fought against Israel (Numbers 21:1, 33:40)
+oboth | Oboth | Oboth | * | P | Where Israel pitched (Numbers 21:10, 33:43)
+ije-abarim | Ije-abarim | Ije-abarim | * | P | Where Israel pitched, in the wilderness before Moab (Numbers 21:11, 33:44)
+moab-land | | Moab | * | + |
+zared | Zared | Zared | * | P | The valley where Israel pitched (Numbers 21:12)
+arnon | Arnon | Arnon | * | P | The river that is the border of Moab, between Moab and the Amorites (Numbers 21:13)
+ar | Ar | Ar | * | P | Of Moab, on the border of Moab (Numbers 21:15, 21:28)
+beer | Beer | Beer | * | P | The well whereof the Lord said, Gather the people together, and I will give them water (Numbers 21:16)
+mattanah | Mattanah | Mattanah | * | P | Where Israel went from the wilderness (Numbers 21:18-19)
+nahaliel | Nahaliel | Nahaliel | * | P | Where Israel went from Mattanah (Numbers 21:19)
+bamoth | Bamoth | Bamoth | * | P | Where Israel went from Nahaliel (Numbers 21:19-20)
+pisgah | Pisgah | Pisgah | * | P | The top that looketh toward Jeshimon (Numbers 21:20, 23:14)
+jeshimon | Jeshimon | Jeshimon | * | P | Toward which Pisgah and Peor look (Numbers 21:20, 23:28)
+sihon | Sihon | Sihon | * | M | King of the Amorites, who dwelt at Heshbon; Israel smote him and possessed his land (Numbers 21:21-26)
+jahaz | Jahaz | Jahaz | * | P | Where Sihon fought against Israel (Numbers 21:23)
+jabbok | | Jabbok | * | + |
+ammon | | Ammon | * | + |
+heshbon | Heshbon | Heshbon | * | P | The city of Sihon king of the Amorites (Numbers 21:26)
+chemosh | Chemosh | Chemosh | * | X | "O people of Chemosh" (Numbers 21:29); the god of Moab, not a person in People
+dibon | Dibon | Dibon | * | P | A city of the Amorites' land, built again by Gad (Numbers 21:30, 32:34)
+nophah | Nophah | Nophah | * | P | Laid waste by Israel (Numbers 21:30)
+medeba | Medeba | Medeba | * | P | Unto which Nophah reacheth (Numbers 21:30)
+jaazer | Jaazer | Jaazer;Jazer | * | P | Spied out and taken from the Amorites; a land for cattle (Numbers 21:32, 32:1)
+bashan | Bashan | Bashan | * | P | The land of Og (Numbers 21:33)
+og | Og | Og | * | M | The king of Bashan, who came out against Israel at Edrei (Numbers 21:33-35)
+edrei | Edrei | Edrei | * | P | Where Og fought Israel (Numbers 21:33)
+jericho | Jericho | Jericho | * | P | Over against which Israel pitched in the plains of Moab (Numbers 22:1)
+balak | Balak | Balak | * | M | The son of Zippor, king of the Moabites, who sent for Balaam to curse Israel (Numbers 22:2-6)
+zippor | Zippor | Zippor | * | M | The father of Balak (Numbers 22:2)
+midian-land | | Midian | * | + |
+moabites | | Moabites | * | + |
+balaam | Balaam | Balaam | * | M | The son of Beor of Pethor, sent for by Balak to curse Israel; he blessed them instead, and was slain with the kings of Midian (Numbers 22:5, 23:11, 31:8, 31:16)
+beor-b | Beor | Beor | * | M | The father of Balaam (Numbers 22:5, 24:3)
+pethor | Pethor | Pethor | * | P | Where Balaam dwelt, by the river (Numbers 22:5)
+kirjath-huzoth | Kirjath-huzoth | Kirjath-huzoth | * | P | Where Balaam went with Balak (Numbers 22:39)
+baal | Baal | Baal | * | X | "the high places of Baal" (Numbers 22:41); not a person in People
+aram-land | Aram | Aram | * | P | Whence Balak brought Balaam, out of the mountains of the east (Numbers 23:7)
+zophim | Zophim | Zophim | * | P | The field of Zophim, to the top of Pisgah (Numbers 23:14)
+peor | Peor | Peor | * | P | The top of Peor, where Balak brought Balaam; the matter of Peor (Numbers 23:28, 25:18, 31:16)
+agag | Agag | Agag | * | M | A king; Israel's king "shall be higher than Agag" (Numbers 24:7)
+sheth | Sheth | Sheth | * | M | The Sceptre out of Israel shall "destroy all the children of Sheth" (Numbers 24:17)
+seir-land | | Seir | * | + |
+amalek-people | | Amalek | * | + |
+kenites | | Kenites;Kenite | * | + |
+asshur-people | Asshur | Asshur | * | G | Who shall carry the Kenite away captive, and whom ships from Chittim shall afflict (Numbers 24:22-24)
+chittim | Chittim | Chittim | * | P | Whence ships shall come and afflict Asshur and Eber (Numbers 24:24)
+eber-people | Eber | Eber | * | G | Whom ships from Chittim shall afflict (Numbers 24:24)
+shittim | Shittim | Shittim | * | P | Where Israel abode and began to commit whoredom with the daughters of Moab (Numbers 25:1)
+baal-peor | Baal-peor | Baal-peor | * | X | To whom Israel joined himself (Numbers 25:3, 25:5); not a person in People
+phinehas | | Phinehas | * | + |
+zimri | Zimri | Zimri | * | M | The son of Salu, of a chief house among the Simeonites, slain by Phinehas with the Midianitish woman (Numbers 25:14)
+salu | Salu | Salu | * | M | The father of Zimri, of a chief house among the Simeonites (Numbers 25:14)
+simeonites | Simeonites | Simeonites | * | G | The families of Simeon (Numbers 25:14, 26:14)
+cozbi | Cozbi | Cozbi | * | F | The Midianitish woman slain with Zimri, the daughter of Zur, a prince of Midian (Numbers 25:15, 25:18)
+zur | Zur | Zur | 25:15 | M | The father of Cozbi; he was head over a people, and of a chief house in Midian (Numbers 25:15)
+hanoch | | Hanoch | * | + |
+hanochites | Hanochites | Hanochites | * | G | The family that came of Hanoch, son of Reuben (Numbers 26:5)
+phallu | | Pallu | * | + |
+palluites | Palluites | Palluites | * | G | The family of Pallu, son of Reuben (Numbers 26:5)
+hezron-r | | Hezron | 26:6 | + |
+hezronites-r | Hezronites | Hezronites | 26:6 | G | The family of Hezron, son of Reuben (Numbers 26:6)
+carmi | | Carmi | * | + |
+carmites | Carmites | Carmites | * | G | The family of Carmi, son of Reuben (Numbers 26:6)
+reubenites | Reubenites | Reubenites | * | G | The families of Reuben (Numbers 26:7)
+nemuel-r | Nemuel | Nemuel | 26:9 | M | A son of Eliab of Reuben, brother of Dathan and Abiram (Numbers 26:9)
+nemuel-s | Nemuel | Nemuel | 26:12 | M | A son of Simeon, of whom came the Nemuelites (Numbers 26:12)
+nemuelites | Nemuelites | Nemuelites | * | G | The family of Nemuel, son of Simeon (Numbers 26:12)
+jamin | | Jamin | * | + |
+jaminites | Jaminites | Jaminites | * | G | The family of Jamin, son of Simeon (Numbers 26:12)
+jachin | | Jachin | * | + |
+jachinites | Jachinites | Jachinites | * | G | The family of Jachin, son of Simeon (Numbers 26:12)
+zerah-s | Zerah | Zerah | 26:13 | M | A son of Simeon, of whom came the Zarhites (Numbers 26:12-13)
+zarhites-s | Zarhites | Zarhites | 26:13 | G | The family of Zerah, son of Simeon (Numbers 26:13)
+shaul | | Shaul | * | + |
+shaulites | Shaulites | Shaulites | * | G | The family of Shaul, son of Simeon (Numbers 26:13)
+zephon | Zephon | Zephon | * | M | A son of Gad, of whom came the Zephonites (Numbers 26:15)
+zephonites | Zephonites | Zephonites | * | G | The family of Zephon, son of Gad (Numbers 26:15)
+haggi | | Haggi | * | + |
+haggites | Haggites | Haggites | * | G | The family of Haggi, son of Gad (Numbers 26:15)
+shuni | | Shuni | * | + |
+shunites | Shunites | Shunites | * | G | The family of Shuni, son of Gad (Numbers 26:15)
+ozni | Ozni | Ozni | * | M | A son of Gad, of whom came the Oznites (Numbers 26:15-16)
+oznites | Oznites | Oznites | * | G | The family of Ozni, son of Gad (Numbers 26:16)
+eri | | Eri | * | + |
+erites | Erites | Erites | * | G | The family of Eri, son of Gad (Numbers 26:16)
+arodi | | Arod | * | + |
+arodites | Arodites | Arodites | * | G | The family of Arod, son of Gad (Numbers 26:17)
+areli | | Areli | * | + |
+arelites | Arelites | Arelites | * | G | The family of Areli, son of Gad (Numbers 26:17)
+er | | Er | * | + |
+onan | | Onan | * | + |
+shelah | | Shelah | * | + |
+shelanites | Shelanites | Shelanites | * | G | The family of Shelah, son of Judah (Numbers 26:20)
+pharez | | Pharez | * | + |
+pharzites | Pharzites | Pharzites | * | G | The family of Pharez, son of Judah (Numbers 26:20)
+zarah | | Zerah | 26:20 | + |
+zarhites-j | Zarhites | Zarhites | 26:20 | G | The family of Zerah, son of Judah (Numbers 26:20)
+hezron | | Hezron | 26:21 | + |
+hezronites-p | Hezronites | Hezronites | 26:21 | G | The family of Hezron, son of Pharez (Numbers 26:21)
+hamul | | Hamul | * | + |
+hamulites | Hamulites | Hamulites | * | G | The family of Hamul, son of Pharez (Numbers 26:21)
+tola | | Tola | * | + |
+tolaites | Tolaites | Tolaites | * | G | The family of Tola, son of Issachar (Numbers 26:23)
+pua | Pua | Pua | * | M | A son of Issachar, of whom came the Punites (Numbers 26:23)
+punites | Punites | Punites | * | G | The family of Pua, son of Issachar (Numbers 26:23)
+jashub | Jashub | Jashub | * | M | A son of Issachar, of whom came the Jashubites (Numbers 26:23-24)
+jashubites | Jashubites | Jashubites | * | G | The family of Jashub, son of Issachar (Numbers 26:24)
+shimron | | Shimron | * | + |
+shimronites | Shimronites | Shimronites | * | G | The family of Shimron, son of Issachar (Numbers 26:24)
+sered | | Sered | * | + |
+sardites | Sardites | Sardites | * | G | The family of Sered, son of Zebulun (Numbers 26:26)
+elon | | Elon | * | + |
+elonites | Elonites | Elonites | * | G | The family of Elon, son of Zebulun (Numbers 26:26)
+jahleel | | Jahleel | * | + |
+jahleelites | Jahleelites | Jahleelites | * | G | The family of Jahleel, son of Zebulun (Numbers 26:26)
+zebulunites | Zebulunites | Zebulunites | * | G | The families of Zebulun (Numbers 26:27)
+machir | | Machir | * | + |
+machirites | Machirites | Machirites | * | G | The family of Machir, son of Manasseh (Numbers 26:29)
+gilead-m | Gilead | Gilead | 26:29,26:30,27:1,36:1 | M | The son of Machir, son of Manasseh, of whom came the Gileadites (Numbers 26:29, 27:1, 36:1)
+gilead | | Gilead | 32:1,32:26,32:29,32:39,32:40 | + |
+gileadites | Gileadites | Gileadites | * | G | The family of Gilead, son of Machir (Numbers 26:29)
+jeezer | Jeezer | Jeezer | * | M | A son of Gilead, of whom came the Jeezerites (Numbers 26:30)
+jeezerites | Jeezerites | Jeezerites | * | G | The family of Jeezer, son of Gilead (Numbers 26:30)
+helek | Helek | Helek | * | M | A son of Gilead, of whom came the Helekites (Numbers 26:30)
+helekites | Helekites | Helekites | * | G | The family of Helek, son of Gilead (Numbers 26:30)
+asriel | Asriel | Asriel | * | M | A son of Gilead, of whom came the Asrielites (Numbers 26:30-31)
+asrielites | Asrielites | Asrielites | * | G | The family of Asriel, son of Gilead (Numbers 26:31)
+shechem-g | Shechem | Shechem | 26:31 | M | A son of Gilead, of whom came the Shechemites (Numbers 26:30-31)
+shechemites | Shechemites | Shechemites | * | G | The family of Shechem, son of Gilead (Numbers 26:31)
+shemida | Shemida | Shemida | * | M | A son of Gilead, of whom came the Shemidaites (Numbers 26:30, 26:32)
+shemidaites | Shemidaites | Shemidaites | * | G | The family of Shemida, son of Gilead (Numbers 26:32)
+hepher | Hepher | Hepher | * | M | A son of Gilead, father of Zelophehad (Numbers 26:30, 26:32-33, 27:1)
+hepherites | Hepherites | Hepherites | * | G | The family of Hepher, son of Gilead (Numbers 26:32)
+zelophehad | Zelophehad | Zelophehad | * | M | The son of Hepher of Manasseh, who died in the wilderness and had no sons, but daughters (Numbers 26:33, 27:1-3)
+mahlah | Mahlah | Mahlah | * | F | A daughter of Zelophehad; she and her sisters were given the inheritance of their father and married their father's brothers' sons (Numbers 27:1-7, 36:10-11)
+noah-z | Noah | Noah | * | F | A daughter of Zelophehad; she and her sisters were given the inheritance of their father and married their father's brothers' sons (Numbers 27:1-7, 36:10-11)
+hoglah | Hoglah | Hoglah | * | F | A daughter of Zelophehad; she and her sisters were given the inheritance of their father and married their father's brothers' sons (Numbers 27:1-7, 36:10-11)
+milcah-z | Milcah | Milcah | * | F | A daughter of Zelophehad; she and her sisters were given the inheritance of their father and married their father's brothers' sons (Numbers 27:1-7, 36:10-11)
+tirzah | Tirzah | Tirzah | * | F | A daughter of Zelophehad; she and her sisters were given the inheritance of their father and married their father's brothers' sons (Numbers 27:1-7, 36:10-11)
+shuthelah | Shuthelah | Shuthelah | * | M | A son of Ephraim, of whom came the Shuthalhites; father of Eran (Numbers 26:35-36)
+shuthalhites | Shuthalhites | Shuthalhites | * | G | The family of Shuthelah, son of Ephraim (Numbers 26:35)
+becher-e | Becher | Becher | * | M | A son of Ephraim, of whom came the Bachrites (Numbers 26:35)
+bachrites | Bachrites | Bachrites | * | G | The family of Becher, son of Ephraim (Numbers 26:35)
+tahan | Tahan | Tahan | * | M | A son of Ephraim, of whom came the Tahanites (Numbers 26:35)
+tahanites | Tahanites | Tahanites | * | G | The family of Tahan, son of Ephraim (Numbers 26:35)
+eran | Eran | Eran | * | M | A son of Shuthelah, of whom came the Eranites (Numbers 26:36)
+eranites | Eranites | Eranites | * | G | The family of Eran, son of Shuthelah (Numbers 26:36)
+belah | | Bela | * | + |
+belaites | Belaites | Belaites | * | G | The family of Bela, son of Benjamin (Numbers 26:38)
+ashbel | | Ashbel | * | + |
+ashbelites | Ashbelites | Ashbelites | * | G | The family of Ashbel, son of Benjamin (Numbers 26:38)
+ahiram | Ahiram | Ahiram | * | M | A son of Benjamin, of whom came the Ahiramites (Numbers 26:38)
+ahiramites | Ahiramites | Ahiramites | * | G | The family of Ahiram, son of Benjamin (Numbers 26:38)
+shupham | Shupham | Shupham | * | M | A son of Benjamin, of whom came the Shuphamites (Numbers 26:38-39)
+shuphamites | Shuphamites | Shuphamites | * | G | The family of Shupham, son of Benjamin (Numbers 26:39)
+hupham | Hupham | Hupham | * | M | A son of Benjamin, of whom came the Huphamites (Numbers 26:38-39)
+huphamites | Huphamites | Huphamites | * | G | The family of Hupham, son of Benjamin (Numbers 26:39)
+ard-b | Ard | Ard | * | M | A son of Bela, of whom came the Ardites (Numbers 26:40)
+ardites | Ardites | Ardites | * | G | The family of Ard, son of Bela (Numbers 26:40)
+naaman-b | Naaman | Naaman | * | M | A son of Bela, of whom came the Naamites (Numbers 26:40)
+naamites | Naamites | Naamites | * | G | The family of Naaman, son of Bela (Numbers 26:40)
+shuham | Shuham | Shuham | * | M | A son of Dan, of whom came the Shuhamites (Numbers 26:42)
+shuhamites | Shuhamites | Shuhamites | * | G | The family of Shuham, son of Dan (Numbers 26:42-43)
+jimnah | | Jimna | * | + |
+jimnites | Jimnites | Jimnites | * | G | The family of Jimna, son of Asher (Numbers 26:44)
+jesui | Jesui | Jesui | * | M | A son of Asher, of whom came the Jesuites (Numbers 26:44)
+jesuites | Jesuites | Jesuites | * | G | The family of Jesui, son of Asher (Numbers 26:44)
+beriah | | Beriah | * | + |
+beriites | Beriites | Beriites | * | G | The family of Beriah, son of Asher (Numbers 26:44)
+heber | | Heber | * | + |
+heberites | Heberites | Heberites | * | G | The family of Heber, son of Beriah (Numbers 26:45)
+malchiel | | Malchiel | * | + |
+malchielites | Malchielites | Malchielites | * | G | The family of Malchiel, son of Beriah (Numbers 26:45)
+serah | | Sarah | * | + |
+jahzeel | | Jahzeel | * | + |
+jahzeelites | Jahzeelites | Jahzeelites | * | G | The family of Jahzeel, son of Naphtali (Numbers 26:48)
+guni | | Guni | * | + |
+gunites | Gunites | Gunites | * | G | The family of Guni, son of Naphtali (Numbers 26:48)
+jezer | | Jezer | * | + |
+jezerites | Jezerites | Jezerites | * | G | The family of Jezer, son of Naphtali (Numbers 26:49)
+shillem | | Shillem | * | + |
+shillemites | Shillemites | Shillemites | * | G | The family of Shillem, son of Naphtali (Numbers 26:49)
+merarites | Merarites | Merarites | * | G | The family of Merari, son of Levi (Numbers 26:57)
+korathites | Korathites | Korathites | * | G | One of the families of the Levites (Numbers 26:58)
+jochebed | | Jochebed | * | + |
+abarim | Abarim | Abarim | * | P | The mount from which Moses saw the land; the mountains where Israel pitched before Nebo (Numbers 27:12, 33:47)
+evi | Evi | Evi | * | M | One of the five kings of Midian slain by Israel (Numbers 31:8)
+rekem | Rekem | Rekem | * | M | One of the five kings of Midian slain by Israel (Numbers 31:8)
+zur-k | Zur | Zur | 31:8 | M | One of the five kings of Midian slain by Israel (Numbers 31:8)
+hur-m | Hur | Hur | * | M | One of the five kings of Midian slain by Israel (Numbers 31:8)
+reba | Reba | Reba | * | M | One of the five kings of Midian slain by Israel (Numbers 31:8)
+ataroth | Ataroth | Ataroth | * | P | A city built by the children of Gad (Numbers 32:3, 32:34)
+nimrah | Nimrah | Nimrah | * | P | In the land the children of Gad and Reuben asked for (Numbers 32:3)
+elealeh | Elealeh | Elealeh | * | P | A city built by the children of Reuben (Numbers 32:3, 32:37)
+shebam | Shebam | Shebam | * | P | In the land the children of Gad and Reuben asked for (Numbers 32:3)
+nebo | Nebo | Nebo | * | P | A city built by the children of Reuben; the mountains of Abarim before Nebo (Numbers 32:3, 32:38, 33:47)
+beon | Beon | Beon | * | P | In the land the children of Gad and Reuben asked for (Numbers 32:3)
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+kenezite | Kenezite | Kenezite | * | G | "Caleb the son of Jephunneh the Kenezite" (Numbers 32:12)
+aroer | Aroer | Aroer | * | P | A city built by the children of Gad (Numbers 32:34)
+atroth | Atroth | Atroth | * | P | A city built by the children of Gad (Numbers 32:35)
+shophan | Shophan | Shophan | * | P | A city built by the children of Gad (Numbers 32:35)
+jogbehah | Jogbehah | Jogbehah | * | P | A city built by the children of Gad (Numbers 32:35)
+beth-nimrah | Beth-nimrah | Beth-nimrah | * | P | A fenced city built by the children of Gad (Numbers 32:36)
+beth-haran | Beth-haran | Beth-haran | * | P | A fenced city built by the children of Gad (Numbers 32:36)
+kirjathaim | Kirjathaim | Kirjathaim | * | P | A city built by the children of Reuben (Numbers 32:37)
+baal-meon | Baal-meon | Baal-meon | * | P | A city built by the children of Reuben, its name changed (Numbers 32:38)
+shibmah | Shibmah | Shibmah | * | P | A city built by the children of Reuben (Numbers 32:38)
+jair | Jair | Jair | * | M | The son of Manasseh, who took the small towns of Gilead and called them Havoth-jair (Numbers 32:41)
+havoth-jair | Havoth-jair | Havoth-jair | * | P | The small towns that Jair took (Numbers 32:41)
+nobah | Nobah | Nobah | * | M | He took Kenath and called it Nobah, after his own name (Numbers 32:42)
+kenath | Kenath | Kenath | * | P | Taken by Nobah, who called it Nobah after his own name (Numbers 32:42)
+rameses | | Rameses | * | + |
+succoth | | Succoth | * | + |
+etham | | Etham | * | + |
+pi-hahiroth | | Pi-hahiroth | * | + |
+baal-zephon | | Baal-zephon | * | + |
+migdol | | Migdol | * | + |
+marah | | Marah | * | + |
+elim | | Elim | * | + |
+dophkah | Dophkah | Dophkah | * | P | Where Israel encamped (Numbers 33:12-13)
+alush | Alush | Alush | * | P | Where Israel encamped (Numbers 33:13-14)
+rephidim | | Rephidim | * | + |
+rithmah | Rithmah | Rithmah | * | P | Where Israel pitched (Numbers 33:18-19)
+rimmon-parez | Rimmon-parez | Rimmon-parez | * | P | Where Israel pitched (Numbers 33:19-20)
+libnah | Libnah | Libnah | * | P | Where Israel pitched (Numbers 33:20-21)
+rissah | Rissah | Rissah | * | P | Where Israel pitched (Numbers 33:21-22)
+kehelathah | Kehelathah | Kehelathah | * | P | Where Israel pitched (Numbers 33:22-23)
+shapher | Shapher | Shapher | * | P | The mount where Israel pitched (Numbers 33:23-24)
+haradah | Haradah | Haradah | * | P | Where Israel encamped (Numbers 33:24-25)
+makheloth | Makheloth | Makheloth | * | P | Where Israel pitched (Numbers 33:25-26)
+tahath | Tahath | Tahath | * | P | Where Israel encamped (Numbers 33:26-27)
+tarah | Tarah | Tarah | * | P | Where Israel pitched (Numbers 33:27-28)
+mithcah | Mithcah | Mithcah | * | P | Where Israel pitched (Numbers 33:28-29)
+hashmonah | Hashmonah | Hashmonah | * | P | Where Israel pitched (Numbers 33:29-30)
+moseroth | Moseroth | Moseroth | * | P | Where Israel encamped (Numbers 33:30-31)
+bene-jaakan | Bene-jaakan | Bene-jaakan | * | P | Where Israel pitched (Numbers 33:31-32)
+hor-hagidgad | Hor-hagidgad | Hor-hagidgad | * | P | Where Israel encamped (Numbers 33:32-33)
+jotbathah | Jotbathah | Jotbathah | * | P | Where Israel pitched (Numbers 33:33-34)
+ebronah | Ebronah | Ebronah | * | P | Where Israel encamped (Numbers 33:34-35)
+ezion-gaber | Ezion-gaber | Ezion-gaber | * | P | Where Israel encamped (Numbers 33:35-36)
+zalmonah | Zalmonah | Zalmonah | * | P | Where Israel pitched (Numbers 33:41-42)
+punon | Punon | Punon | * | P | Where Israel pitched (Numbers 33:42-43)
+iim | Iim | Iim | * | P | Where Israel pitched (Numbers 33:45)
+dibon-gad | Dibon-gad | Dibon-gad | * | P | Where Israel pitched (Numbers 33:45-46)
+almon-diblathaim | Almon-diblathaim | Almon-diblathaim | * | P | Where Israel encamped (Numbers 33:46-47)
+beth-jesimoth | Beth-jesimoth | Beth-jesimoth | * | P | Where Israel pitched by Jordan in the plains of Moab (Numbers 33:49)
+abel-shittim | Abel-shittim | Abel-shittim | * | P | Where Israel pitched by Jordan in the plains of Moab (Numbers 33:49)
+akrabbim | Akrabbim | Akrabbim | * | P | The ascent of Akrabbim, on the south border (Numbers 34:4)
+hazar-addar | Hazar-addar | Hazar-addar | * | P | On the south border (Numbers 34:4)
+azmon | Azmon | Azmon | * | P | On the south border (Numbers 34:4-5)
+zedad | Zedad | Zedad | * | P | On the north border (Numbers 34:8)
+ziphron | Ziphron | Ziphron | * | P | On the north border (Numbers 34:9)
+hazar-enan | Hazar-enan | Hazar-enan | * | P | At the end of the north border (Numbers 34:9-10)
+shepham | Shepham | Shepham | * | P | On the east border (Numbers 34:10-11)
+riblah | Riblah | Riblah | * | P | On the east border, on the east side of Ain (Numbers 34:11)
+ain | Ain | Ain | * | P | On the east border (Numbers 34:11)
+chinnereth | Chinnereth | Chinnereth | * | P | The sea of Chinnereth, on the east border (Numbers 34:11)
+shemuel | Shemuel | Shemuel | * | M | The son of Ammihud, of the tribe of Simeon, to divide the land (Numbers 34:20)
+ammihud-s | Ammihud | Ammihud | 34:20 | M | Of the tribe of Simeon, the father of Shemuel (Numbers 34:20)
+elidad | Elidad | Elidad | * | M | The son of Chislon, of the tribe of Benjamin, to divide the land (Numbers 34:21)
+chislon | Chislon | Chislon | * | M | Of the tribe of Benjamin, the father of Elidad (Numbers 34:21)
+bukki | Bukki | Bukki | * | M | The son of Jogli, prince of the tribe of Dan, to divide the land (Numbers 34:22)
+jogli | Jogli | Jogli | * | M | Of the tribe of Dan, the father of Bukki (Numbers 34:22)
+hanniel | Hanniel | Hanniel | * | M | The son of Ephod, prince of the tribe of Manasseh, to divide the land (Numbers 34:23)
+kemuel-e | Kemuel | Kemuel | * | M | The son of Shiphtan, prince of the tribe of Ephraim, to divide the land (Numbers 34:24)
+shiphtan | Shiphtan | Shiphtan | * | M | Of the tribe of Ephraim, the father of Kemuel (Numbers 34:24)
+elizaphan-z | Elizaphan | Elizaphan | 34:25 | M | The son of Parnach, prince of the tribe of Zebulun, to divide the land (Numbers 34:25)
+parnach | Parnach | Parnach | * | M | Of the tribe of Zebulun, the father of Elizaphan (Numbers 34:25)
+paltiel | Paltiel | Paltiel | * | M | The son of Azzan, prince of the tribe of Issachar, to divide the land (Numbers 34:26)
+azzan | Azzan | Azzan | * | M | Of the tribe of Issachar, the father of Paltiel (Numbers 34:26)
+ahihud | Ahihud | Ahihud | * | M | The son of Shelomi, prince of the tribe of Asher, to divide the land (Numbers 34:27)
+shelomi | Shelomi | Shelomi | * | M | Of the tribe of Asher, the father of Ahihud (Numbers 34:27)
+pedahel | Pedahel | Pedahel | * | M | The son of Ammihud, prince of the tribe of Naphtali, to divide the land (Numbers 34:28)
+ammihud-n | Ammihud | Ammihud | 34:28 | M | Of the tribe of Naphtali, the father of Pedahel (Numbers 34:28)
