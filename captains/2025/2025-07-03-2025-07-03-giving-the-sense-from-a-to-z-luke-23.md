@@ -46,7 +46,7 @@ Reading from Wikipedia, Pontius Pilate (on screen)  *[[8:13](https://www.youtube
 
 - Right? So now that's who Pontius Pilate was. Let's pull up a map because it be a little bit confusing because you got Pontius Pilate and then you got the Herod, the Herod as well. So pull that up real quick so we can see what Pontius Pilate ruled over. The map. I want everybody to see this real quick so you understand what's going on.
 
-- So now you see what's going on here. So as we zoom in up in Galilee, that's the territory of Herod Antipus. So, he's the son of Herod the Great, the one that tried to kill Christ. So, we're going to pull his name up later on as we read on down. But you see, roll on down real quick. Scroll the map down under Judea real quick, which says Samaria. Bring the map south. There we go. So, now you see that whole thing, Judea. That's the territory that Pilate ruled over. You understand? So, we're going to get into the hair rods and the tet rots, if you will. We're going to pull that out as well. So, now let's go back to the scripture. Y'all can drop that for now. We're gonna come back to that.
+- So now you see what's going on here. So as we zoom in up in Galilee, that's the territory of Herod Antipas. So, he's the son of Herod the Great, the one that tried to kill Christ. So, we're going to pull his name up later on as we read on down. But you see, roll on down real quick. Scroll the map down under Judea real quick, which says Samaria. Bring the map south. There we go. So, now you see that whole thing, Judea. That's the territory that Pilate ruled over. You understand? So, we're going to get into the hair rods and the tet rots, if you will. We're going to pull that out as well. So, now let's go back to the scripture. Y'all can drop that for now. We're gonna come back to that.
 
 </div>
 
@@ -261,9 +261,9 @@ Reading from Definition of Jewry (on screen; source not named)  *[[21:03](https:
 
 Reading from Wikipedia, Herod Antipas (on screen)  *[[23:19](https://www.youtube.com/watch?v=_O4s0HaETDM&t=1399s)]*
 
-> Herod Antipus was a first century ruler of Galilee and Perea. He bore the title of tetrarch and is referred to as both Herod the tetrarch and king Herod in the New Testament. He was a son of Herod the great and a grandson of Annipator. Anipator the Idmian.
+> Herod Antipas was a first century ruler of Galilee and Perea. He bore the title of tetrarch and is referred to as both Herod the tetrarch and king Herod in the New Testament. He was a son of Herod the great and a grandson of Annipator. Anipator the Idmian.
 
-- So this is Hera Antipus. This is the son of Herod who they call the great. That's Herod the Great is the one that tried to kill Christ when he was born. We going to pull that up. Watch this. So this is his son.
+- So this is Herod Antipas. This is the son of Herod who they call the great. That's Herod the Great is the one that tried to kill Christ when he was born. We going to pull that up. Watch this. So this is his son.
 
 - Anipator who? The Idmian. So the Herod is Idum's white folks. It's putting that on Google, Wikipedia man. Come on family. We got to wake up and smell the scriptures. Listen, man. These is Idum. These is white folks presiding over black territory. Man, you understand? We call that democratic cities today. Read that again. He was what?
 
@@ -397,9 +397,9 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 >
 > <sup>[2](/bible/acts/26#v2)</sup> I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:
 
-- Touching all the things whereof I am accused of the Jews: Right? So those things, those are accusations that was brought. Now, a gripper was also in the Herodian dynasty. Pull that up real quick. I don't know if I sent that. Let me see. You got it. Yeah. Pull up the family tree because I think he should be in that family tree there. Where's the gripper at? So, he right there. That's why Paul was talking to him. Can we pull that up? It says he imprisoned Peter. So, that right there.
+- Touching all the things whereof I am accused of the Jews: Right? So those things, those are accusations that was brought. Now, Agrippa was also in the Herodian dynasty. Pull that up real quick. I don't know if I sent that. Let me see. You got it. Yeah. Pull up the family tree because I think he should be in that family tree there. Where's the gripper at? So, he right there. That's why Paul was talking to him. Can we pull that up? It says he imprisoned Peter. So, that right there.
 
-- So now this actually a good one. So, now you see this gives you a clear picture of the Herod, the dynasty of Herod. Start with Herod the Great. You see that? It said he tried to kill Christ. So now you look at Herod Antipus. You see where it says, that's where John the Baptist rebuked that marriage cuz when you go down to Herodiius. Now you go over to the writing up. She was married to Herod Phillip. You understand? So she was married twice. That's why he said that was evil. And that's why when we read about earlier where he killed John the Baptist. So this is actually a pretty good diagram of that Herodian dynasty there. So you see these things here and what was going on so we understand, okay, now we get a sense to why they was ruling over the provinces.
+- So now this actually a good one. So, now you see this gives you a clear picture of the Herod, the dynasty of Herod. Start with Herod the Great. You see that? It said he tried to kill Christ. So now you look at Herod Antipas. You see where it says, that's where John the Baptist rebuked that marriage cuz when you go down to Herodias. Now you go over to the writing up. She was married to Herod Phillip. You understand? So she was married twice. That's why he said that was evil. And that's why when we read about earlier where he killed John the Baptist. So this is actually a pretty good diagram of that Herodian dynasty there. So you see these things here and what was going on so we understand, okay, now we get a sense to why they was ruling over the provinces.
 
 
 **[Luke 23:8-9](/bible/luke/23#v8)**  *[[35:25](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2125s)]*
@@ -565,7 +565,7 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 
 > <sup>[21](/bible/proverbs/11#v21)</sup> Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.
 
-- Though hand join in hand: Watch this. Though a gripper, I mean not a gripper, though Herod and Pilate make up, they join hands, they in agreements. We good now. Come on.
+- Though hand join in hand: Watch this. Though Agrippa, I mean not Agrippa, though Herod and Pilate make up, they join hands, they in agreements. We good now. Come on.
 
 - The wicked shall not be unpunished: The what? The wicked, them wicked … shall not be unpunished. Crystal clear. Crystal clear. Crystal clear, man. Come on.
 
@@ -612,7 +612,7 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 
 - And they cried out all at once, saying, Away with this man: Oh, God. Our people did what? Away with this man. Cried out at once. Said, "Away with this man. Put this man to death." Come on.
 
-- And release unto us Barabbas: They wanted Barabus, man. What is wrong with us? Read on down.
+- And release unto us Barabbas: They wanted Barabbas, man. What is wrong with us? Read on down.
 
 - Who for a certain sedition made in the city, and for murder, was cast into prison: This man was sedition, was in the midst of, had a uprising. Get the definition of sedition real quick. I think I gave the screenshot. So this man, man, we wild. That's why we say no snitching. We hide the murderers. You understand? In our community, we want the murderers to be free. Y'all seen that, free such and such. This dude got bodies on him. We calling for him to be pardoned. Pull it up. Watch this. Read sedition.
 

@@ -82,9 +82,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 >
 > <sup>[2](/bible/colossians/1#v2)</sup> To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
 
-- To the saints and faithful brethren in Christ which are at Colosse: Right. So let's look up Colossians. Let's look up Colasse real quick. Let's see where it's at. Because somebody might say, "Well, I don't know where that's at." I like to have visuals. So, we talking about the church of Collision, of Colassi. Okay. And some people may be like, "Okay, well, where is that at? I don't know where that is." We're going to pull it up for you on the screen real quick. Colassi right here. So, Colassi is in what they call Asia Minor, which is southwest Turkey. All right. So, we've been to Smyrna. We've been there, which is modern day Ismir. We've been to Ephesus. All right. And then down here in that bottom right hand corner, you see what's called Colassi. All right? And so, that's where it say it's in Asia Minor. Today, that's Turkey. Okay? Today, that's Turkey. Modern day Turkey.
+- To the saints and faithful brethren in Christ which are at Colosse: Right. So let's look up Colossians. Let's look up Colosse real quick. Let's see where it's at. Because somebody might say, "Well, I don't know where that's at." I like to have visuals. So, we talking about the church of Collision, of Colosse. Okay. And some people may be like, "Okay, well, where is that at? I don't know where that is." We're going to pull it up for you on the screen real quick. Colosse right here. So, Colosse is in what they call Asia Minor, which is southwest Turkey. All right. So, we've been to Smyrna. We've been there, which is modern day Izmir. We've been to Ephesus. All right. And then down here in that bottom right hand corner, you see what's called Colosse. All right? And so, that's where it say it's in Asia Minor. Today, that's Turkey. Okay? Today, that's Turkey. Modern day Turkey.
 
-- To the saints and faithful brethren: All right? So it says to the saints and faithful brethren in church in Christ which are at Colasse, grace be unto you and peace from God our father and the Lord Jesus Christ. What does it mean, to the saints and faithful brethren? Who are the saints? Who are the saints that the Bible's talking about that are at Colasse? Let's see.
+- To the saints and faithful brethren: All right? So it says to the saints and faithful brethren in church in Christ which are at Colosse, grace be unto you and peace from God our father and the Lord Jesus Christ. What does it mean, to the saints and faithful brethren? Who are the saints? Who are the saints that the Bible's talking about that are at Colosse? Let's see.
 
   Precepts:
   - **[Psalms 50:5](/bible/psalms/50#v5)**
@@ -145,7 +145,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 
 - To the saints and faithful brethren in Christ which are at Colosse: Right? So the Colossians were Israelites. The Colossians were Israelites.
 
-- Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints: Right? So the church in Colasse, these brothers and sisters had a lot of faith toward Christ and they were very merciful. All right? They were very charitable. A lot of the churches were not charitable. So when Paul heard that these men and women had charity, he's making it known unto them in his letter like, "Hey, look, I hear what you guys are doing. I heard of your great faith. I heard of your great charity."
+- Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints: Right? So the church in Colosse, these brothers and sisters had a lot of faith toward Christ and they were very merciful. All right? They were very charitable. A lot of the churches were not charitable. So when Paul heard that these men and women had charity, he's making it known unto them in his letter like, "Hey, look, I hear what you guys are doing. I heard of your great faith. I heard of your great charity."
 
 
 **[2 Corinthians 11:7-9](/bible/2-corinthians/11#v7)**  *[[16:52](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=1012s)]*
@@ -232,7 +232,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 
 - For the hope which is laid up for you in heaven: Right? That hope is immortality.
 
-- And bringeth forth fruit, as it doth also in you: Right? So they believed and instantly started to bring forth fruit. Okay, that's what it's telling you about the church of Colassi. Paul is exhorting the church of Colasse and the people of Colasse. He's showing them, listen, which has come unto you as it is in all the world, meaning the other Israelites scattered throughout the world, and bring forth fruit as it doth also in you since the day you heard of it and knew the grace of God in truth.
+- And bringeth forth fruit, as it doth also in you: Right? So they believed and instantly started to bring forth fruit. Okay, that's what it's telling you about the church of Colosse. Paul is exhorting the church of Colosse and the people of Colosse. He's showing them, listen, which has come unto you as it is in all the world, meaning the other Israelites scattered throughout the world, and bring forth fruit as it doth also in you since the day you heard of it and knew the grace of God in truth.
 
 - And knew the grace of God in truth: When they heard the grace of God in truth, what does it mean, the grace of God and truth?
 
@@ -307,11 +307,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 >
 > <sup>[10](/bible/colossians/1#v10)</sup> That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
 
-- As ye also learned of Epaphras our dear fellowservant: Learned of Epifice, our dear fellow servant.
+- As ye also learned of Epaphras our dear fellowservant: Learned of Epaphras, our dear fellow servant.
 
-- Who is for you a faithful minister of Christ: So the brother Apaper was a great faithful minister and servant that taught the brothers and sister at Colassi.
+- Who is for you a faithful minister of Christ: So the brother Epaphras was a great faithful minister and servant that taught the brothers and sister at Colosse.
 
-- Who also declared unto us your love in the Spirit: When he came back, the brother Aprus, he came back and he told them of the love and the spirit that the brothers and sisters in Colasse were rolling in.
+- Who also declared unto us your love in the Spirit: When he came back, the brother Epaphras, he came back and he told them of the love and the spirit that the brothers and sisters in Colosse were rolling in.
 
 - For this cause we also, since the day we heard it, do not cease to pray for you: Right? It says, so Paul said, for this cause, he told us that y'all had great love in the spirit. Y'all showed, you know, great faith. Y'all did mighty works. You were charitable. He said, "For this cause, we also since the day we heard it, do not cease to pray for you and to desire that you might be filled with the knowledge of his will and all wisdom and spiritual understanding." That's beautiful. With all spiritual wisdom and spiritual understanding, that you may walk worthy of the Lord unto all pleasing, being fruitful in every good work and increasing in the knowledge of God. Watch this. He says something similar to the church in Ephesus.
 
@@ -330,7 +330,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 >
 > <sup>[18](/bible/ephesians/1#v18)</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 
-- Ye were sealed with that holy Spirit of promise: You see, do you see the correlation in Ephesus and Colasse? These two particular churches, there's correlations there. The brothers and sisters in these churches believed, you understand? And they received the word with gladness.
+- Ye were sealed with that holy Spirit of promise: You see, do you see the correlation in Ephesus and Colosse? These two particular churches, there's correlations there. The brothers and sisters in these churches believed, you understand? And they received the word with gladness.
 
 - After I heard of your faith in the Lord Jesus, and love unto all the saints: That's the same thing that the Colossians were doing.
 
@@ -364,7 +364,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 
 - Also of your own selves shall men arise: Some of you leaders.
 
-- By the space of three years I ceased not to warn every one night and day with tears: Right? So why is he warning them? Cuz Paul's job was to lay the foundation of Christ. He did that. It's up to those leaders that are still left in these churches. Remember, there were no airplanes. There was no train that go 100 m or 1,000 miles per hour, whatever. If Paul left Ephesus and went to Colassi, it took him a while to get back to Ephesus. If Paul went back to Jerusalem or Rome and ended up getting arrested, how he going to get back to the brothers in Ephesus? He got to trust that the leaders that he left behind there is going to hold it down. And he's telling them, look, man, look, I'm telling y'all, grievous wolves going to enter in, bro. They going to come in trying to draw away disciples after themselves. Man, I'm praying for y'all. Y'all hope y'all stay in the spirit. I hope y'all understand the hope of your calling. I hope y'all bring forth fruits. I hope y'all excel in the knowledge and understanding of Christ because man, it's going to get rough. That's what Paul telling them. It's going to get rough for y'all. I pray y'all stay in the spirit, man. You understand? So, that's some insight to what Paul was dealing with with these respective churches.
+- By the space of three years I ceased not to warn every one night and day with tears: Right? So why is he warning them? Cuz Paul's job was to lay the foundation of Christ. He did that. It's up to those leaders that are still left in these churches. Remember, there were no airplanes. There was no train that go 100 m or 1,000 miles per hour, whatever. If Paul left Ephesus and went to Colosse, it took him a while to get back to Ephesus. If Paul went back to Jerusalem or Rome and ended up getting arrested, how he going to get back to the brothers in Ephesus? He got to trust that the leaders that he left behind there is going to hold it down. And he's telling them, look, man, look, I'm telling y'all, grievous wolves going to enter in, bro. They going to come in trying to draw away disciples after themselves. Man, I'm praying for y'all. Y'all hope y'all stay in the spirit. I hope y'all understand the hope of your calling. I hope y'all bring forth fruits. I hope y'all excel in the knowledge and understanding of Christ because man, it's going to get rough. That's what Paul telling them. It's going to get rough for y'all. I pray y'all stay in the spirit, man. You understand? So, that's some insight to what Paul was dealing with with these respective churches.
 
 
 **[Colossians 1:11-13](/bible/colossians/1#v11)**  *[[43:23](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=2603s)]*

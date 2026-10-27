@@ -453,7 +453,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "women"]
 
 - Beginning at Jerusalem: Well, that's where the apostles ministry started. It started at Jerusalem.
 
-- Until ye be endued with power from on high: Right? Hey, that's when you read in Acts chapter 1, he said before he was called up, he gave him power. But hey, notice something. It said in verse 47, "And that repentance and remission of sins should be preached in his name among all nations beginning at Jerusalem." So the apostles, when Christ said that, the apostle didn't think that, oh yeah, he talking about go to Edom now and go to Rome and go to these people of the other nations, go to Moab and Amalecch. He talking about going to them now. They understood that.
+- Until ye be endued with power from on high: Right? Hey, that's when you read in Acts chapter 1, he said before he was called up, he gave him power. But hey, notice something. It said in verse 47, "And that repentance and remission of sins should be preached in his name among all nations beginning at Jerusalem." So the apostles, when Christ said that, the apostle didn't think that, oh yeah, he talking about go to Edom now and go to Rome and go to these people of the other nations, go to Moab and Amalek. He talking about going to them now. They understood that.
 
 
 **[Luke 24:20-21](/bible/luke/24#v20)**  *[[59:08](https://www.youtube.com/watch?v=99Jqrk1_irM&t=3548s)]*

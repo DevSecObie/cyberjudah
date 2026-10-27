@@ -143,7 +143,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 
 - Every one of you saith, I am of Paul: Right? So Paul is a what? He's a man. You understand? He is a man. Remember Paul wanted to deal on the spiritual side of things. You understand? But they were stuck up on what? Being carnal. You understand? So read verse 13 again. No, I'm sorry, 12.
 
-- And I of Cephas: So they were saying there of Paul, Apollos, Cphus, who is Simon Peter. Read.
+- And I of Cephas: So they were saying there of Paul, Apollos, Cephas, who is Simon Peter. Read.
 
 - And I of Christ: Four differences amongst one congregation. No, that's not the spirit of the Lord right there. Okay. So they have four differences amongst them. Now, mind you, when we read what, the book of Acts, the 2 chapter, Acts 4, you hear of Peter and the apostles doing mighty works and people repenting by the thousands. All right, let's get some of those accounts real quick. Let's get Acts 2, excuse me. Let's get Acts chapter 2 and give me verse 38. Watch this.
 

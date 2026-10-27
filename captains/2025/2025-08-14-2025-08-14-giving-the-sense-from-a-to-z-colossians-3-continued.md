@@ -51,7 +51,7 @@ Reading from Definition of forbear (read on air; source not named)  *[[6:58](htt
 
 > Forbear: politely or patiently restrain that impulse to do something.
 
-- You see that? Politely or patiently restrain that impulse to do something because you know a lot of us we grew up in society. Some of us got that act now and we just worry about the consequences. That's a lot of our mentality. But in this truth now as we relearning this the Bible and how to deal with certain things really all things the scriptures is guiding us. Okay, you know what? We got to control our spirit. You understand Matthew 18 and minus your your neighbor. He might not have said it. And if he said it, he might not say it again. He might not have do it everything. What's that in Sarak, Sarak chapter 19? Sarak chapter 19 lays out all the admonishments. Proverbs chapter 25. Get that right quick. 25 and 9. Watch this. I'm shooting from the hip. So, help me out. Help me out, DG. Proverbs 25 and is it 9? Is that what I want?
+- You see that? Politely or patiently restrain that impulse to do something because you know a lot of us we grew up in society. Some of us got that act now and we just worry about the consequences. That's a lot of our mentality. But in this truth now as we relearning this the Bible and how to deal with certain things really all things the scriptures is guiding us. Okay, you know what? We got to control our spirit. You understand Matthew 18 and minus your your neighbor. He might not have said it. And if he said it, he might not say it again. He might not have do it everything. What's that in Sirach, Sirach chapter 19? Sirach chapter 19 lays out all the admonishments. Proverbs chapter 25. Get that right quick. 25 and 9. Watch this. I'm shooting from the hip. So, help me out. Help me out, DG. Proverbs 25 and is it 9? Is that what I want?
 
 </div>
 
@@ -307,7 +307,7 @@ Reading from Definition of charity (read on air; source not named)  *[[11:57](ht
 
 - To the which also ye are called: Because that's how that's who called us.
 
-- And be ye thankful: And be thankful for that thing. Be thankful. The scripture says you can't go far far enough in thanking the father. When you read what's that in let me see Sarak. You know what I want? Sarak it say you can't go far enough. Hold on let me let me find it. Bear with me. And thanking the father. Here we go. Sarak 43 and verse 30. Watch what it say.
+- And be ye thankful: And be thankful for that thing. Be thankful. The scripture says you can't go far far enough in thanking the father. When you read what's that in let me see Sirach. You know what I want? Sirach it say you can't go far enough. Hold on let me let me find it. Bear with me. And thanking the father. Here we go. Sirach 43 and verse 30. Watch what it say.
 
 
 **[Sirach 43:30](/bible/sirach/43#v30)**  *[[33:38](https://www.youtube.com/watch?v=_aDCv9UsNao&t=2018s)]*
@@ -461,7 +461,7 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 
 > Reverence: Deep respect.
 
-- I like how you said that, man. Deep respect, bro. Deep respect for your husband. Deep. You hold your husband in high regard, high esteem. You understand? Acclaim. Admire. You know how you admire something, you just sit back and you just look at it. Damn, you in awe. You say awe. Damn. You just, you know, I'm just thinking about the admiration. It's like, damn, I can't believe the Lord just blessed me with this. Don't look it up, bro. Don't look it up, man. I got a young virgin ears back there. Don't look it up. In the world messed up, dusted and disgusted. And now you sitting here with a Lord, with a husband, his mind, right? Love his people in the scriptures, guiding the household, loving you as he loved himself. What more can you ask for? All you got to do is submit. Can't make it up, man. But I know a lot of our sisters do, man. A lot of our sisters got that thing down. Give me that Sarak 26 and 13. Watch this.
+- I like how you said that, man. Deep respect, bro. Deep respect for your husband. Deep. You hold your husband in high regard, high esteem. You understand? Acclaim. Admire. You know how you admire something, you just sit back and you just look at it. Damn, you in awe. You say awe. Damn. You just, you know, I'm just thinking about the admiration. It's like, damn, I can't believe the Lord just blessed me with this. Don't look it up, bro. Don't look it up, man. I got a young virgin ears back there. Don't look it up. In the world messed up, dusted and disgusted. And now you sitting here with a Lord, with a husband, his mind, right? Love his people in the scriptures, guiding the household, loving you as he loved himself. What more can you ask for? All you got to do is submit. Can't make it up, man. But I know a lot of our sisters do, man. A lot of our sisters got that thing down. Give me that Sirach 26 and 13. Watch this.
 
 </div>
 
@@ -513,7 +513,7 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 
 - Husbands, love your wives: Husbands, we got to love our wives.
 
-- And be not bitter against them: You see that? Husbands, you got to sit there and love your wives. Get that in Sarak 4 and 30.
+- And be not bitter against them: You see that? Husbands, you got to sit there and love your wives. Get that in Sirach 4 and 30.
 
 
 **[Sirach 4:30](/bible/sirach/4#v30)**  *[[59:22](https://www.youtube.com/watch?v=_aDCv9UsNao&t=3562s)]*
@@ -553,7 +553,7 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 
 - Children, obey your parents: Children, you see the order he's setting. Children, obey your parents.
 
-- In all things; for this is well pleasing unto the Lord: You see that? Children obey your parents in all things. That's the thing that's pleasing unto the father. When you obey your parents in all things, it's benefit is detriment when you don't obey your parents. Get that in Sarak right quick. Sarak 3 and 1. Sarak 3 1 and 2.
+- In all things; for this is well pleasing unto the Lord: You see that? Children obey your parents in all things. That's the thing that's pleasing unto the father. When you obey your parents in all things, it's benefit is detriment when you don't obey your parents. Get that in Sirach right quick. Sirach 3 and 1. Sirach 3 1 and 2.
 
 
 **[Sirach 3:1-2](/bible/sirach/3#v1)**  *[[1:04:10](https://www.youtube.com/watch?v=_aDCv9UsNao&t=3850s)]*
@@ -568,7 +568,7 @@ Reading from Definition of reverence (shown on screen; source not named)  *[[50:
 
 - For the Lord hath given the father honour over the children: Read that again. Y'all see that, wives? The Lord hath given the father honor over the children. You supposed to honor your husband over your children. We know. We ain't taught that in society. We go straight to the kids. No, the Bible says you honor your husband over the children. There's order.
 
-- And hath confirmed the authority of the mother over the sons: And he's confirmed the authority over the mother over the son. So it's order in it. The husband, you sit there and you nurture and you teach the wife. The wife, her job while she got the kids around her is to pour into the kids. Keep that authority, maintain that authority amongst the kids. You keep that order, everything going to be all right. From there, give me Sarak 3. Are you already there? Jump down to 7 and 8.
+- And hath confirmed the authority of the mother over the sons: And he's confirmed the authority over the mother over the son. So it's order in it. The husband, you sit there and you nurture and you teach the wife. The wife, her job while she got the kids around her is to pour into the kids. Keep that authority, maintain that authority amongst the kids. You keep that order, everything going to be all right. From there, give me Sirach 3. Are you already there? Jump down to 7 and 8.
 
 
 **[Sirach 3:7-8](/bible/sirach/3#v7)**  *[[1:06:24](https://www.youtube.com/watch?v=_aDCv9UsNao&t=3984s)]*

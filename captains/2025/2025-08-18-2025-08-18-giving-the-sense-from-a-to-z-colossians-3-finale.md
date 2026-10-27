@@ -37,7 +37,7 @@ tags: ["15 Minutes w/ The Captains", "the-law"]
 >
 > <sup>[2](/bible/colossians/1#v2)</sup> To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
 
-- To the saints and faithful brethren in Christ which are at Colassi: Right? So to the saints and faithful brethren in Christ which are at Colassi. All right. So to the saints, Paul in all of his epistles and all of his letters, he was not writing them to the countries, each and every last citizen of these places. You understand? These cities, towns, countries, whatever. No, he was writing to the saints that were in these places according to the Bible. Who is that? Let's go to Psalms chapter 50 and verse 5. Who are the saints according to the Bible? Who are the saints at Colassi? Read that.
+- To the saints and faithful brethren in Christ which are at Colosse: Right? So to the saints and faithful brethren in Christ which are at Colosse. All right. So to the saints, Paul in all of his epistles and all of his letters, he was not writing them to the countries, each and every last citizen of these places. You understand? These cities, towns, countries, whatever. No, he was writing to the saints that were in these places according to the Bible. Who is that? Let's go to Psalms chapter 50 and verse 5. Who are the saints according to the Bible? Who are the saints at Colosse? Read that.
 
 
 **[Psalms 50:5](/bible/psalms/50#v5)**  *[[5:48](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=348s)]*
@@ -136,7 +136,7 @@ Reading from On-screen article: "What does saint mean?"  *[[11:50](https://www.y
 
 > In most of his letters, the Apostle Paul refers to the recipients as saints, including the church at Corinth, where there were significant moral and theological problems. The New Testament writers draw their use of the word saints or holy ones from the Old Testament.
 
-- You see this? They know what they know. The New Testament writers meaning who? Matthew, Mark, Luke, John, Paul, James, Peter, John the Revelator, they draw their use of the word saints from the Old Testament. Meaning the same saints from Psalms 50 and 5, Psalms 148:14. Those are the same saints in Colassi. Come on.
+- You see this? They know what they know. The New Testament writers meaning who? Matthew, Mark, Luke, John, Paul, James, Peter, John the Revelator, they draw their use of the word saints from the Old Testament. Meaning the same saints from Psalms 50 and 5, Psalms 148:14. Those are the same saints in Colosse. Come on.
 
 > Particularly important is Exodus 195-6, where God refers to Israel as a kingdom of priests and a holy nation.
 
@@ -168,7 +168,7 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 
 > In the Bible, Colossi is a city located in Friia in Asia Minor.
 
-- Y'all see that? So Peter, right, when he said he was writing to the strangers scattered in Asia, that would have included Colassi. You understand? Paul wasn't the only person that dealt with them. Remember, Peter was the bishop. He was the big dog. So he also dealt with them as well. You understand? He was dealing with the Colossians as well. Go ahead.
+- Y'all see that? So Peter, right, when he said he was writing to the strangers scattered in Asia, that would have included Colosse. You understand? Paul wasn't the only person that dealt with them. Remember, Peter was the bishop. He was the big dog. So he also dealt with them as well. You understand? He was dealing with the Colossians as well. Go ahead.
 
 > It was situated in the Leis River Valley, roughly 15 kilometers southeast of Leodysia and northwest of Heropoulos. This region is now part of modernday Turkey. The city is primarily known for being the recipient of Paul's letter to the Colossians.
 
@@ -183,7 +183,7 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 >
 > <sup>[2](/bible/1-peter/1#v2)</sup> Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 
-- To the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia: Now Asia would include Colassi. So let's see about these strangers scattered. Verse two.
+- To the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia: Now Asia would include Colosse. So let's see about these strangers scattered. Verse two.
 
 - Elect: So these strangers that are scattered are what? Come on.
 
@@ -323,7 +323,7 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 
 - Masters, give unto your servants that which is just and equal: Wait a minute. That sound like Paul establishing Leviticus 25:43. I don't know what the hell, Asia Minor under the Roman rule, how y'all deal with y'all brothers that serve y'all. But according to the laws of God, you got to give them that which is just and equal. Come on.
 
-- Knowing that ye also have a Master in heaven: Right? You cognizant of the fact that you have a master in heaven. You got the preeminence over your brother in terms of the financial aspect. You understand? But that's your damn brother. You got to do right by him. Give him that which is just and equal. Go to Sarak 33 and 30.
+- Knowing that ye also have a Master in heaven: Right? You cognizant of the fact that you have a master in heaven. You got the preeminence over your brother in terms of the financial aspect. You understand? But that's your damn brother. You got to do right by him. Give him that which is just and equal. Go to Sirach 33 and 30.
 
 
 **[Sirach 33:30-31](/bible/sirach/33#v30)**  *[[36:20](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=2180s)]*
@@ -635,7 +635,7 @@ Reading from On-screen text on Colossi  *[[17:27](https://www.youtube.com/watch?
 
 - But he that sinneth against me wrongeth his own soul: You see that? So a lot of us are our own worst enemy. The only person that can jeopardize the reward of your inheritance is you, by you doing wrong. And that wrong is sin. He that sinneth against the Lord wrongeth his own soul. Come on.
 
-- All they that hate me love death: Go to Sarak 33:26, dealing with servants.
+- All they that hate me love death: Go to Sirach 33:26, dealing with servants.
 
 
 **[Sirach 33:26](/bible/sirach/33#v26)**  *[[1:03:55](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=3835s)]*

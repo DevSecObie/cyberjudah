@@ -74,3 +74,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 15
 
 - Luke 20:27 (2025-06-12, host heard as "Captain Ab", left blank), 20:21 (2025-06-11, Captain Zakai, heard as "Captain Zacchaeus"), 20:9 (2025-06-10, host not named), 20 (2025-06-09, Captain Mattathias), 19 (2025-06-05, Captain Mattathias) and 18:15 (2025-06-04, Captain Mattathias).
+
+## Known names spelled correctly (Obie 2026-10-25: "if you know the correct names fix it")
+
+- Caption garbles of names that are certain from context are now spelled correctly across the Giving The Sense From A to Z notes: Colassi/Colasse -> Colosse, Sarak -> Sirach, Mcabes -> Maccabees, Herod Antipus -> Herod Antipas, Herodiius -> Herodias, a gripper -> Agrippa, Barabus -> Barabbas, Arythea -> Arimathaea, Sirene/Sirenian -> Cyrene/Cyrenian, second Ezra(s) -> 2 Esdras, First Ezras -> 1 Esdras, Simon Maggus -> Simon Magus, Safara -> Sapphira, Ananas -> Ananias, Pontious Pilot -> Pontius Pilate, Pilot -> Pilate, Escariat -> Iscariot, Cphus -> Cephas, Cesa Bo / Caesar Bourgea -> Cesare Borgia, Epifice/Apaper/Aprus -> Epaphras, Amalecch -> Amalek, Oadiah -> Obadiah, Ismir -> Izmir (98 spots in 20 notes). Unsure names stay as heard.
