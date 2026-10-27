@@ -1,5 +1,5 @@
 import { validatePeople, personPicture } from "./people-validation.mjs";
-import { descendantsOf, validateLines } from "./people-lines.mjs";
+import { descendantsOf, validateLines, validateLinks, linkedFrom, EVIDENCE } from "./people-lines.mjs";
 import { validatePlaces } from "./places-validation.mjs";
 
 import { correctedClass, classCatalog, loadClassBroadcasts } from "./class-metadata.mjs";
@@ -66,7 +66,7 @@ for (const n of [...classNotes, ...captainNotes]) if (!n.collection) n.collectio
 // the class notes that read or cite a verse naming them.
 const peopleFile = path.join(ROOT, "data", "people", "people.json");
 const peopleDoc = fs.existsSync(peopleFile) ? JSON.parse(fs.readFileSync(peopleFile, "utf8")) : { people: [] };
-const peopleProblems = [...validatePeople(peopleDoc), ...validateLines(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") })];
+const peopleProblems = [...validatePeople(peopleDoc), ...validateLines(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") }), ...validateLinks(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") })];
 if (peopleProblems.length) throw new Error(peopleProblems.join("\n"));
 const personById = new Map(peopleDoc.people.map((p) => [p.id, p]));
 const namedIn = new Map(); // "slug|ch" -> { verse: [id] }
@@ -396,7 +396,9 @@ for (const n of notes) {
 }
 for (const rows of namedInNotes.values()) rows.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")));
 
-const descendants = descendantsOf(peopleDoc);
+const descendants = descendantsOf(peopleDoc), alsoNamed = linkedFrom(peopleDoc, "same"), ofCourse = linkedFrom(peopleDoc, "priestly");
+// A link to another record, with its evidence label (scripture, a parallel passage, history...).
+const evidenced = (e) => personRef(e.id) && { ...personRef(e.id), evidence: e.evidence ?? "scripture", evidenceLabel: EVIDENCE[e.evidence ?? "scripture"], verses: e.verses ?? [], ...(e.note ? { note: e.note } : {}), ...(e.sources ? { sources: e.sources } : {}) };
 const personRef = (id) => { const p = personById.get(id); return p ? { id, name: p.name, ...personPicture(p) } : null; };
 const peopleIndex = [];
 for (const p of peopleDoc.people) {
@@ -414,7 +416,10 @@ for (const p of peopleDoc.people) {
     id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, tribe: p.tribe, ...personPicture(p),
     father: p.father.map(personRef).filter(Boolean), mother: p.mother.map(personRef).filter(Boolean),
     siblings: p.siblings.map(personRef).filter(Boolean), partners: p.partners.map(personRef).filter(Boolean), children: p.children.map(personRef).filter(Boolean),
-    line: (p.line ?? []).map((e) => personRef(e.id) && { ...personRef(e.id), verses: e.verses }).filter(Boolean), descendants: (descendants.get(p.id) ?? []).map((e) => personRef(e.id) && { ...personRef(e.id), verses: e.verses }).filter(Boolean),
+    line: (p.line ?? []).map(evidenced).filter(Boolean), descendants: (descendants.get(p.id) ?? []).map(evidenced).filter(Boolean),
+    same: (p.same ?? []).map(evidenced).filter(Boolean), alsoNamed: (alsoNamed.get(p.id) ?? []).map(evidenced).filter(Boolean),
+    priestly: (p.priestly ?? []).map(evidenced).filter(Boolean), course: (ofCourse.get(p.id) ?? []).map(evidenced).filter(Boolean),
+    titles: (p.titles ?? []).map((t) => ({ ...t, evidenceLabel: EVIDENCE[t.evidence] })), variants: p.variants ?? [],
     verses: p.verses, taught, classes: namedInNotes.get(p.id) ?? [], source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
     cases: (casesOfPerson.get(p.id) ?? []).map((c) => ({ slug: c.slug, name: c.name, url: caseUrl(c), era: c.era, kind: c.kind ?? "judgment", verdict: c.verdict, verdictLabel: VERDICT[c.verdict] ?? c.verdict, charge: c.charge, preview: preview(c.summary) })),
   });

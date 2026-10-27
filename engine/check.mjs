@@ -3,7 +3,7 @@ import { execFileSync } from "node:child_process";
 import { validatePeople } from "./people-validation.mjs";
 import { changedPersonIds, validateReciprocity } from "./people-reciprocity.mjs";
 import { validatePeopleEvidence } from "./people-evidence.mjs";
-import { validateLines } from "./people-lines.mjs";
+import { validateLines, validateLinks } from "./people-lines.mjs";
 import { validatePlaces } from "./places-validation.mjs";
 import { loadDoctrine } from "./doctrine.mjs";
 // The link checker. The Docusaurus build used to be the gate (onBrokenLinks: throw); this
@@ -26,7 +26,7 @@ import { fileURLToPath } from "node:url";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const allowCaseErrors = process.argv.includes("--allow-case-errors");
 const peopleDoc = JSON.parse(fs.readFileSync(path.join(ROOT, "data/people/people.json"), "utf8"));
-const peopleProblems = [...validatePeople(peopleDoc), ...validateLines(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") })];
+const peopleProblems = [...validatePeople(peopleDoc), ...validateLines(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") }), ...validateLinks(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") })];
 const peopleBase = process.env.PEOPLE_BASE;
 if (peopleBase && !/^0+$/.test(peopleBase)) { // a push creating a branch gives the all-zero SHA; nothing to diff against
   if (!/^[a-f0-9]{7,40}$/.test(peopleBase)) throw new Error("PEOPLE_BASE must be a commit SHA");
