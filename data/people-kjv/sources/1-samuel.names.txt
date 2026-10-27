@@ -46,7 +46,7 @@ abinadab-k | Abinadab | Abinadab | 7:1 | M | Of Kirjath-jearim, in whose house o
 abinadab-j | Abinadab | Abinadab | 16:8,17:13 | M | The second son of Jesse (1 Samuel 16:8, 17:13)
 abinadab-s | Abinadab | Abinadab | 31:2 | M | A son of Saul, slain by the Philistines in mount Gilboa (1 Samuel 31:2)
 eleazar-a | Eleazar | Eleazar | * | M | The son of Abinadab, sanctified to keep the ark (1 Samuel 7:1)
-ashtaroth-idol | Ashtaroth | Ashtaroth | * | X | Strange gods Israel put away, and in whose house the Philistines put Saul's armour (1 Samuel 7:3-4, 12:10, 31:10); not a person in People
+ashtaroth-idol | | Ashtaroth | * | + |
 baalim | | Baalim | * | + |
 mizpeh | | Mizpeh | * | + |
 beth-car | Beth-car | Beth-car | * | P | Under which Israel smote the Philistines (1 Samuel 7:11)

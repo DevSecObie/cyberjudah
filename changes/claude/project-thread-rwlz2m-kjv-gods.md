@@ -1,0 +1,1 @@
+- Gods and idols from the KJV get their own file, data/other-kjv/other.json (22 so far, each with every verse that names it), outside People. Judges 2:13 and 10:6 "Ashtaroth" moved from the town to the idol.

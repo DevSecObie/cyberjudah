@@ -22,7 +22,9 @@ Each book has two hand-kept files, read in Bible order, and all books build into
   Judah"), and `a @ b` the nation the text
   gives ("Ephron the Hittite"). People who share a name stay separate records with no
   link between them unless a verse says they are one.
-- `people.json`: built from all of them by `python3 scripts/people-kjv/build.py`.
+- `people.json`: built from all of them by `python3 scripts/people-kjv/build.py`. The same
+  build writes the gods, creatures and titles (types `D`, `C` and `T`) to
+  `data/other-kjv/other.json`, so they stay out of People.
 
 `scripts/people-kjv/names.py` finds the names: a capitalised word that never appears in
 lower case in the KJV, used mid-sentence or tagged with a Strong's number in

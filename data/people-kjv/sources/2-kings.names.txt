@@ -7,7 +7,7 @@ ahab | | Ahab | * | + |
 ahaziah | | Ahaziah | 1:2,1:18 | + |
 ahaziah-j | Ahaziah | Ahaziah | 8:24,8:25,8:26,8:29,9:16,9:21,9:23,9:27,9:29,10:13,11:1,11:2,12:18,13:1,14:13 | M | The son of Jehoram and Athaliah, king of Judah one year, slain by Jehu (2 Kings 8:24-29, 9:16-29)
 samaria | | Samaria | * | + |
-baal-zebub | Baal-zebub | Baal-zebub | * | X | The god of Ekron, whom Ahaziah sent to enquire of (2 Kings 1:2-16); not a person in People
+baal-zebub | Baal-zebub | Baal-zebub | * | D | The god of Ekron, whom Ahaziah sent to enquire of (2 Kings 1:2-16)
 ekron | | Ekron | * | + |
 elijah | | Elijah | * | + |
 tishbite | | Tishbite | * | + |
@@ -42,7 +42,7 @@ syrians | | Syrians | * | + |
 abana | Abana | Abana | * | P | A river of Damascus (2 Kings 5:12)
 pharpar | Pharpar | Pharpar | * | P | A river of Damascus (2 Kings 5:12)
 damascus | | Damascus | * | + |
-rimmon-idol | Rimmon | Rimmon | * | X | In whose house Naaman's master worshipped (2 Kings 5:18); not a person in People
+rimmon-idol | Rimmon | Rimmon | * | D | The god of Syria, in whose house Naaman's master worshipped (2 Kings 5:18)
 syrian | | Syrian | * | + |
 ephraim | | Ephraim | * | + |
 dothan | | Dothan | * | + |
@@ -173,19 +173,19 @@ cuthah | Cuthah | Cuthah | * | P | Whence the king of Assyria brought men to Sam
 ava | Ava | Ava | * | P | Whence the king of Assyria brought men to Samaria (2 Kings 17:24)
 sepharvaim | Sepharvaim | Sepharvaim | * | P | Whence the king of Assyria brought men to Samaria (2 Kings 17:24, 17:31, 18:34, 19:13)
 samaritans | Samaritans | Samaritans | * | G | Who made the high places in which every nation put its gods (2 Kings 17:29)
-succoth-benoth | Succoth-benoth | Succoth-benoth | * | X | Made by the men of Babylon (2 Kings 17:30); not a person in People
+succoth-benoth | Succoth-benoth | Succoth-benoth | * | D | A god the men of Babylon made in the cities of Samaria (2 Kings 17:30)
 cuth | Cuth | Cuth | * | P | Whose men made Nergal (2 Kings 17:30)
-nergal | Nergal | Nergal | * | X | Made by the men of Cuth (2 Kings 17:30); not a person in People
-ashima | Ashima | Ashima | * | X | Made by the men of Hamath (2 Kings 17:30); not a person in People
+nergal | Nergal | Nergal | * | D | A god the men of Cuth made in the cities of Samaria (2 Kings 17:30)
+ashima | Ashima | Ashima | * | D | A god the men of Hamath made in the cities of Samaria (2 Kings 17:30)
 avims | | Avites | * | + |
-nibhaz | Nibhaz | Nibhaz | * | X | Made by the Avites (2 Kings 17:31); not a person in People
-tartak | Tartak | Tartak | * | X | Made by the Avites (2 Kings 17:31); not a person in People
+nibhaz | Nibhaz | Nibhaz | * | D | A god the Avites made in the cities of Samaria (2 Kings 17:31)
+tartak | Tartak | Tartak | * | D | A god the Avites made in the cities of Samaria (2 Kings 17:31)
 sepharvites | Sepharvites | Sepharvites | * | G | Who burnt their children in fire to Adrammelech and Anammelech (2 Kings 17:31)
-adrammelech-idol | Adrammelech | Adrammelech | 17:31 | X | A god of Sepharvaim (2 Kings 17:31); not a person in People
+adrammelech-idol | Adrammelech | Adrammelech | 17:31 | D | A god of Sepharvaim, to whom the Sepharvites burnt their children in fire (2 Kings 17:31)
 adrammelech | Adrammelech | Adrammelech | 19:37 | M | A son of Sennacherib, who with Sharezer smote him with the sword and escaped into Armenia (2 Kings 19:37)
-anammelech | Anammelech | Anammelech | * | X | A god of Sepharvaim (2 Kings 17:31); not a person in People
+anammelech | Anammelech | Anammelech | * | D | A god of Sepharvaim, to whom the Sepharvites burnt their children in fire (2 Kings 17:31)
 abi | Abi | Abi | * | F | The daughter of Zachariah, the mother of Hezekiah (2 Kings 18:2)
-nehushtan | Nehushtan | Nehushtan | * | X | The brasen serpent that Moses had made, which Hezekiah brake in pieces (2 Kings 18:4); not a person in People
+nehushtan | Nehushtan | Nehushtan | * | D | The brasen serpent that Moses had made, to which Israel burned incense; Hezekiah brake it in pieces and called it Nehushtan (2 Kings 18:4)
 gaza | | Gaza | * | + |
 sennacherib | Sennacherib | Sennacherib | * | M | King of Assyria, who came up against the fenced cities of Judah and reproached the living God; slain by his sons in the house of Nisroch (2 Kings 18:13, 19:16-37)
 tartan | Tartan | Tartan | * | M | Sent by the king of Assyria with a great host against Jerusalem (2 Kings 18:17)
@@ -211,7 +211,7 @@ thelasar | Thelasar | Thelasar | * | P | Where the children of Eden were (2 King
 zion | | Zion | * | + |
 assyrians | Assyrians | Assyrians | * | G | In whose camp the angel of the Lord smote an hundred fourscore and five thousand (2 Kings 19:35)
 nineveh | | Nineveh | * | + |
-nisroch | Nisroch | Nisroch | * | X | The god of Sennacherib, in whose house he was slain (2 Kings 19:37); not a person in People
+nisroch | Nisroch | Nisroch | * | D | The god of Sennacherib, in whose house he was slain (2 Kings 19:37)
 sharezer | Sharezer | Sharezer | * | M | A son of Sennacherib, who with Adrammelech smote him with the sword (2 Kings 19:37)
 armenia | Armenia | Armenia | * | P | Whither the sons of Sennacherib escaped (2 Kings 19:37)
 esarhaddon | Esarhaddon | Esarhaddon | * | M | The son of Sennacherib, who reigned in his stead (2 Kings 19:37)

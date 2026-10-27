@@ -74,9 +74,9 @@ egypt | | Egypt | * | + |
 nun | | Nun | * | + |
 timnath-heres | Timnath-heres | Timnath-heres | * | P | Where Joshua was buried, in the mount of Ephraim (Judges 2:9)
 gaash | | Gaash | * | + |
-baalim | Baalim | Baalim | * | X | "served Baalim" (Judges 2:11, 3:7, 8:33, 10:6, 10:10); not a person in People
+baalim | Baalim | Baalim | * | D | The Baals: "the children of Israel did evil in the sight of the Lord, and served Baalim" (Judges 2:11, 3:7, 8:33, 10:6, 10:10)
 baal | | Baal | * | + |
-ashtaroth | | Ashtaroth | * | + |
+ashtaroth-idol | Ashtaroth | Ashtaroth | * | D | Strange gods Israel served and put away (Judges 2:13, 1 Samuel 7:3-4, 12:10); in their house the Philistines put Saul's armour (1 Samuel 31:10)
 canaan-land | | Canaan | * | + |
 philistines | | Philistines | * | + |
 sidonians | | Sidonians | * | + |
@@ -160,7 +160,7 @@ ishmaelites | Ishmaelites | Ishmaelites | * | G | The Midianites had golden earr
 shechem-place | | Shechem | * | + |
 shechem | | Shechem | 9:28 | + |
 abimelech-g | Abimelech | Abimelech | * | M | The son of Gideon by his concubine in Shechem; he slew his seventy brethren and reigned three years, and a woman cast a piece of a millstone upon his head at Thebez (Judges 8:31, 9:1-6, 9:53-56)
-baal-berith | Baal-berith | Baal-berith | * | X | Whom Israel made their god after Gideon died (Judges 8:33, 9:4); not a person in People
+baal-berith | Baal-berith | Baal-berith | * | D | Whom Israel made their god after Gideon died (Judges 8:33, 9:4)
 jotham | Jotham | Jotham | * | M | The youngest son of Jerubbaal, who escaped Abimelech and spake the parable of the trees from mount Gerizim (Judges 9:5-21, 9:57)
 millo | Millo | Millo | * | P | The house of Millo, which made Abimelech king (Judges 9:6, 9:20)
 gerizim | | Gerizim | * | + |
@@ -171,7 +171,7 @@ zebul | Zebul | Zebul | * | M | The ruler of the city of Shechem, Abimelech's of
 hamor | | Hamor | * | + |
 meonenim | Meonenim | Meonenim | * | P | The plain of Meonenim (Judges 9:37)
 arumah | Arumah | Arumah | * | P | Where Abimelech dwelt (Judges 9:41)
-berith | Berith | Berith | * | X | "the house of the god Berith" (Judges 9:46); not a person in People
+berith | Berith | Berith | * | D | Baal-berith: "the house of the god Berith" at Shechem (Judges 9:46)
 zalmon | Zalmon | Zalmon | * | P | The mount where Abimelech cut down boughs (Judges 9:48)
 thebez | Thebez | Thebez | * | P | The city where Abimelech was slain (Judges 9:50-53)
 tola-j | Tola | Tola | * | M | The son of Puah, a man of Issachar, who arose to defend Israel and judged Israel twenty and three years (Judges 10:1-2)
@@ -228,7 +228,7 @@ en-hakkore | En-hakkore | En-hakkore | * | P | The spring God clave for Samson i
 gazites | Gazites | Gazites | * | G | The men of Gaza (Judges 16:2)
 sorek | Sorek | Sorek | * | P | The valley where Delilah dwelt (Judges 16:4)
 delilah | Delilah | Delilah | * | F | The woman in the valley of Sorek whom Samson loved, who delivered him to the Philistines (Judges 16:4-21)
-dagon | Dagon | Dagon | * | X | The god of the Philistines (Judges 16:23); not a person in People
+dagon | Dagon | Dagon | * | D | The god of the Philistines (Judges 16:23)
 micah | Micah | Micah | * | M | A man of mount Ephraim who made a graven image and a house of gods, and hired a Levite to be his priest (Judges 17:1-13, 18:13-26)
 beth-lehem-judah | Beth-lehem-judah | Beth-lehem-judah | * | P | Whence the young Levite and the Levite's concubine came (Judges 17:7-9, 19:1-2, 19:18)
 levites | | Levite | * | + |

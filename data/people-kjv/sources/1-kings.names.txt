@@ -168,8 +168,8 @@ moabites | | Moabites | * | + |
 ammon | | Ammonites | * | + |
 edomites | | Edomites | * | + |
 sidonians | | Zidonians | * | + |
-ashtoreth | Ashtoreth | Ashtoreth | * | X | The goddess of the Zidonians, after whom Solomon went (1 Kings 11:5, 11:33); not a person in People
-milcom | Milcom | Milcom | * | X | The abomination of the Ammonites (1 Kings 11:5, 11:33); not a person in People
+ashtoreth | Ashtoreth | Ashtoreth | * | D | The goddess of the Zidonians, after whom Solomon went (1 Kings 11:5, 11:33)
+milcom | Milcom | Milcom | * | D | "the abomination of the Ammonites", after whom Solomon went (1 Kings 11:5, 11:33)
 chemosh | | Chemosh | * | + |
 moab-land | | Moab | * | + |
 molech | | Molech | * | + |
