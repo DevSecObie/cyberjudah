@@ -1,0 +1,197 @@
+# Family links in Numbers, each with the verse that states it (same format as genesis.links.txt).
+# The princes of the tribes (1:5-15, again in 2, 7, 10), the spies (13:4-15) and the dividers of the land (34:19-28).
+elizur < shedeur | 1:5,2:10,7:30,7:35,10:18
+elizur & reuben | 1:4,1:5
+shelumiel < zurishaddai | 1:6,2:12,7:36,7:41,10:19
+shelumiel & simeon | 1:4,1:6
+naashon < amminadab | 1:7,2:3,7:12,7:17,10:14
+naashon & judah | 1:4,1:7,7:12
+nethaneel < zuar | 1:8,2:5,7:18,7:23,10:15
+nethaneel & issachar | 1:4,1:8
+eliab-z < helon | 1:9,2:7,7:24,7:29,10:16
+eliab-z & zebulun | 1:4,1:9
+elishama < ammihud-e | 1:10,2:18,7:48,7:53,10:22
+elishama & ephraim | 1:4,1:10
+gamaliel < pedahzur | 1:10,2:20,7:54,7:59,10:23
+gamaliel & manasseh | 1:4,1:10
+abidan < gideoni | 1:11,2:22,7:60,7:65,10:24
+abidan & benjamin | 1:4,1:11
+ahiezer < ammishaddai | 1:12,2:25,7:66,7:71,10:25
+ahiezer & dan | 1:4,1:12
+pagiel < ocran | 1:13,2:27,7:72,7:77,10:26
+pagiel & asher | 1:4,1:13
+eliasaph-g < deuel | 1:14,2:14,7:42,7:47,10:20
+eliasaph-g & gad | 1:4,1:14
+ahira < enan | 1:15,2:29,7:78,7:83,10:27
+ahira & naphtali | 1:4,1:15
+# Aaron's house and the Levites
+nadab abihu eleazar ithamar < aaron | 3:2,26:60
+shimi < gershon | 3:18
+libni < gershon | 3:18
+amram izhar hebron-k uzziel < kohath | 3:19
+mahali mushi < merari | 3:20
+libnites ^ libni | 3:18,3:21,26:58
+shimites ^ shimi | 3:18,3:21
+gershonites ^ gershon | 3:17,3:21,26:57
+amramites ^ amram | 3:19,3:27
+izeharites ^ izhar | 3:19,3:27
+hebronites ^ hebron-k | 3:19,3:27,26:58
+uzzielites ^ uzziel | 3:19,3:27
+kohathites ^ kohath | 3:17,3:27,26:57
+mahlites ^ mahali | 3:20,3:33,26:58
+mushites ^ mushi | 3:20,3:33,26:58
+merarites ^ merari | 26:57
+eliasaph-l < lael | 3:24
+elzaphan < uzziel | 3:30
+zuriel < abihail | 3:35
+levites ^ levi | 3:6,3:12
+amram < kohath | 26:58
+jochebed < levi | 26:59
+miriam < amram | 26:59
+miriam << jochebed | 26:59
+aaron moses < amram | 26:59
+aaron moses << jochebed | 26:59
+miriam ~ aaron | 26:59
+miriam ~ moses | 26:59
+phinehas < eleazar | 25:7,25:11
+korah-i < izhar | 16:1
+# The wilderness journey
+hobab < raguel | 10:29
+joshua < nun | 11:28,13:8,13:16,14:6,14:30,14:38,26:65,27:18,32:12,32:28,34:17
+joshua & ephraim | 13:8
+shammua < zaccur | 13:4
+shammua & reuben | 13:4
+shaphat < hori-s | 13:5
+shaphat & simeon | 13:5
+caleb < jephunneh | 13:6,14:6,14:30,14:38,26:65,32:12,34:19
+caleb & judah | 13:6,34:19
+igal < joseph-i | 13:7
+igal & issachar | 13:7
+palti < raphu | 13:9
+palti & benjamin | 13:9
+gaddiel < sodi | 13:10
+gaddiel & zebulun | 13:10
+gaddi < susi | 13:11
+gaddi & manasseh | 13:11
+ammiel < gemalli | 13:12
+ammiel & dan | 13:12
+sethur < michael | 13:13
+sethur & asher | 13:13
+nahbi < vophsi | 13:14
+nahbi & naphtali | 13:14
+geuel < machi | 13:15
+geuel & gad | 13:15
+ahiman sheshai talmai ^ anak | 13:22 | "the children of Anak"
+dathan abiram < eliab-r | 16:1,16:12,26:9
+nemuel-r < eliab-r | 26:9
+eliab-r < phallu | 26:8
+arad @ canaanites | 21:1,33:40 | "king Arad the Canaanite"
+balak < zippor | 22:2,22:4,22:10,22:16,23:18
+balaam < beor-b | 22:5,24:3,24:15,31:8
+zimri < salu | 25:14
+zimri & simeon | 25:14 | "a prince of a chief house among the Simeonites"
+cozbi < zur | 25:15
+cozbi @ midianites | 25:6,25:15 | "the Midianitish woman"
+# The families of the tribes (Numbers 26)
+reubenites ^ reuben | 26:5,26:7
+hanochites ^ hanoch | 26:5
+palluites ^ phallu | 26:5
+hezronites-r ^ hezron-r | 26:6
+carmites ^ carmi | 26:6
+nemuel-s jamin jachin zerah-s shaul < simeon | 26:12,26:13
+nemuelites ^ nemuel-s | 26:12
+jaminites ^ jamin | 26:12
+jachinites ^ jachin | 26:12
+zarhites-s ^ zerah-s | 26:13
+shaulites ^ shaul | 26:13
+simeonites ^ simeon | 26:12,26:14
+zephon haggi shuni ozni eri arodi areli < gad | 26:15,26:16,26:17
+zephonites ^ zephon | 26:15
+haggites ^ haggi | 26:15
+shunites ^ shuni | 26:15
+oznites ^ ozni | 26:16
+erites ^ eri | 26:16
+arodites ^ arodi | 26:17
+arelites ^ areli | 26:17
+er onan shelah pharez zarah < judah | 26:19,26:20
+shelanites ^ shelah | 26:20
+pharzites ^ pharez | 26:20
+zarhites-j ^ zarah | 26:20
+hezron hamul < pharez | 26:21
+hezronites-p ^ hezron | 26:21
+hamulites ^ hamul | 26:21
+tola pua jashub shimron < issachar | 26:23,26:24
+tolaites ^ tola | 26:23
+punites ^ pua | 26:23
+jashubites ^ jashub | 26:24
+shimronites ^ shimron | 26:24
+sered elon jahleel < zebulun | 26:26
+sardites ^ sered | 26:26
+elonites ^ elon | 26:26
+jahleelites ^ jahleel | 26:26
+zebulunites ^ zebulun | 26:26,26:27
+machir < manasseh | 26:29,27:1,32:39,32:40,36:1
+machirites ^ machir | 26:29
+gilead-m < machir | 26:29,27:1,36:1
+gileadites ^ gilead-m | 26:29
+jeezer helek < gilead-m | 26:30
+asriel shechem-g < gilead-m | 26:30,26:31
+shemida hepher < gilead-m | 26:30,26:32
+hepher < gilead-m | 27:1
+jeezerites ^ jeezer | 26:30
+helekites ^ helek | 26:30
+asrielites ^ asriel | 26:31
+shechemites ^ shechem-g | 26:31
+shemidaites ^ shemida | 26:32
+hepherites ^ hepher | 26:32
+zelophehad < hepher | 26:33,27:1
+mahlah noah-z hoglah milcah-z tirzah < zelophehad | 26:33,27:1,36:11
+shuthelah becher-e tahan < ephraim | 26:35
+shuthalhites ^ shuthelah | 26:35
+bachrites ^ becher-e | 26:35
+tahanites ^ tahan | 26:35
+eran < shuthelah | 26:36
+eranites ^ eran | 26:36
+belah ashbel ahiram shupham hupham < benjamin | 26:38,26:39
+belaites ^ belah | 26:38
+ashbelites ^ ashbel | 26:38
+ahiramites ^ ahiram | 26:38
+shuphamites ^ shupham | 26:39
+huphamites ^ hupham | 26:39
+ard-b naaman-b < belah | 26:40
+ardites ^ ard-b | 26:40
+naamites ^ naaman-b | 26:40
+shuham < dan | 26:42
+shuhamites ^ shuham | 26:42
+jimnah jesui beriah < asher | 26:44
+jimnites ^ jimnah | 26:44
+jesuites ^ jesui | 26:44
+beriites ^ beriah | 26:44
+heber malchiel < beriah | 26:45
+heberites ^ heber | 26:45
+malchielites ^ malchiel | 26:45
+serah < asher | 26:46
+jahzeel guni jezer shillem < naphtali | 26:48,26:49
+jahzeelites ^ jahzeel | 26:48
+gunites ^ guni | 26:48
+jezerites ^ jezer | 26:49
+shillemites ^ shillem | 26:49
+# The land east of Jordan, and the dividers of the land
+jair ^ manasseh | 32:41 | "Jair the son of Manasseh"; 1 Chronicles 2:21-22 names his father Segub, son of Hezron by the daughter of Machir
+shemuel < ammihud-s | 34:20
+shemuel & simeon | 34:20
+elidad < chislon | 34:21
+elidad & benjamin | 34:21
+bukki < jogli | 34:22
+bukki & dan | 34:22
+hanniel & manasseh | 34:23
+kemuel-e < shiphtan | 34:24
+kemuel-e & ephraim | 34:24
+elizaphan-z < parnach | 34:25
+elizaphan-z & zebulun | 34:25
+paltiel < azzan | 34:26
+paltiel & issachar | 34:26
+ahihud < shelomi | 34:27
+ahihud & asher | 34:27
+pedahel < ammihud-n | 34:28
+pedahel & naphtali | 34:28

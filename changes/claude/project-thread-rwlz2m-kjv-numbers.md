@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Numbers added (the princes of the tribes, the spies, the families of Numbers 26 with their fathers, the dividers of the land, Balaam, Balak, the kings of Midian and the rest, each with its verses; families such as the Libnites and the Reubenites kept as peoples, not people).
