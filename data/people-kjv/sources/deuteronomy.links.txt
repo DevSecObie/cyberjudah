@@ -1,0 +1,9 @@
+# Family links in Deuteronomy, each with the verse that states it (same format as genesis.links.txt).
+caleb < jephunneh | 1:36
+joshua < nun | 1:38,31:23,32:44,34:9
+sihon @ amorite | 2:24 | "Sihon the Amorite"
+jair ^ manasseh | 3:14 | "Jair the son of Manasseh"; 1 Chronicles 2:21-22 names his father Segub
+eleazar < aaron | 10:6
+dathan abiram < eliab-r | 11:6
+eliab-r ^ reuben | 11:6 | "Eliab, the son of Reuben"; his father is Pallu (Numbers 26:8)
+balaam < beor-b | 23:4
