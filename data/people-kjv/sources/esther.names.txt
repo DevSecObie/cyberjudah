@@ -1,0 +1,61 @@
+# Esther. key | Name | forms | verses | type | description
+ahasuerus-es | Ahasuerus | Ahasuerus | * | M | The king "which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces"; he put away Vashti, made Esther queen, and advanced Mordecai (Esther 1:1-2, 1:19, 2:17, 10:1-3)
+india | India | India | * | P | The east end of the kingdom of Ahasuerus (Esther 1:1, 8:9)
+ethiopia | | Ethiopia | * | + |
+shushan | | Shushan | * | + |
+persia | | Persia | * | + |
+media | Media | Media | * | P | "The power of Persia and Media" (Esther 1:3, 1:14, 1:18, 10:2)
+vashti | Vashti | Vashti | * | F | The queen, who made a feast for the women in the royal house of king Ahasuerus; she refused to come at the king's commandment, and her royal estate was given to another (Esther 1:9-19, 2:1, 2:4, 2:17)
+mehuman | Mehuman | Mehuman | * | M | One of the seven chamberlains that served in the presence of Ahasuerus (Esther 1:10)
+biztha | Biztha | Biztha | * | M | One of the seven chamberlains that served in the presence of Ahasuerus (Esther 1:10)
+harbona | Harbona | Harbona;Harbonah | * | M | One of the seven chamberlains that served in the presence of Ahasuerus (Esther 1:10); "Harbonah, one of the chamberlains", told the king of the gallows Haman had made for Mordecai (Esther 7:9)
+bigtha | Bigtha | Bigtha | * | M | One of the seven chamberlains that served in the presence of Ahasuerus (Esther 1:10)
+abagtha | Abagtha | Abagtha | * | M | One of the seven chamberlains that served in the presence of Ahasuerus (Esther 1:10)
+zethar | Zethar | Zethar | * | M | One of the seven chamberlains that served in the presence of Ahasuerus (Esther 1:10)
+carcas | Carcas | Carcas | * | M | One of the seven chamberlains that served in the presence of Ahasuerus (Esther 1:10)
+carshena | Carshena | Carshena | * | M | One of the seven princes of Persia and Media, which saw the king's face (Esther 1:14)
+shethar | Shethar | Shethar | * | M | One of the seven princes of Persia and Media, which saw the king's face (Esther 1:14)
+admatha | Admatha | Admatha | * | M | One of the seven princes of Persia and Media, which saw the king's face (Esther 1:14)
+tarshish-e | Tarshish | Tarshish | * | M | One of the seven princes of Persia and Media, which saw the king's face (Esther 1:14)
+meres | Meres | Meres | * | M | One of the seven princes of Persia and Media, which saw the king's face (Esther 1:14)
+marsena | Marsena | Marsena | * | M | One of the seven princes of Persia and Media, which saw the king's face (Esther 1:14)
+memucan | Memucan | Memucan | * | M | One of the seven princes of Persia and Media, who counselled the king to put away Vashti (Esther 1:14-21)
+persians | | Persians | * | + |
+medes | | Medes | * | + |
+hegai | Hegai | Hege;Hegai | * | M | "The king's chamberlain, keeper of the women", to whose custody Esther was brought (Esther 2:3, 2:8, 2:15)
+jews | | Jew;Jews | * | + |
+mordecai-e | Mordecai | Mordecai | * | M | A Jew in Shushan the palace, the son of Jair, the son of Shimei, the son of Kish, a Benjamite; he brought up Esther, told of the chamberlains that sought to lay hand on the king, would not bow to Haman, and was next unto king Ahasuerus (Esther 2:5-7, 2:21-22, 3:2-6, 8:2, 10:3)
+jair-m | Jair | Jair | * | M | A Benjamite, the son of Shimei, father of Mordecai (Esther 2:5)
+shimei-mo | Shimei | Shimei | * | M | A Benjamite, the son of Kish, father of Jair (Esther 2:5)
+kish-mo | Kish | Kish | * | M | A Benjamite, father of Shimei, in the line of Mordecai (Esther 2:5)
+benjamites | | Benjamite | * | + |
+jerusalem | | Jerusalem | * | + |
+jeconiah | | Jeconiah | * | + |
+judah | | Judah | * | + |
+nebuchadnezzar | | Nebuchadnezzar | * | + |
+babylon | | Babylon | * | + |
+esther | Esther | Esther;Hadassah | * | F | "Hadassah, that is, Esther", the daughter of Abihail the uncle of Mordecai, who brought her up as his own daughter; Ahasuerus made her queen instead of Vashti, and she went in unto the king to make request for her people (Esther 2:7, 2:15-17, 4:16, 5:1-8, 7:1-6, 9:29-32)
+shaashgaz | Shaashgaz | Shaashgaz | * | M | "The king's chamberlain, which kept the concubines" (Esther 2:14)
+abihail-es | Abihail | Abihail | * | M | "The uncle of Mordecai", father of Esther (Esther 2:15, 9:29)
+tebeth-month | Tebeth | Tebeth | * | X | The tenth month, in which Esther was taken unto king Ahasuerus (Esther 2:16); not a person in People
+bigthan | Bigthan | Bigthan;Bigthana | * | M | One of the king's chamberlains, of those which kept the door, who with Teresh sought to lay hand on the king; Mordecai told of it and they were hanged (Esther 2:21-23, 6:2)
+teresh | Teresh | Teresh | * | M | One of the king's chamberlains, of those which kept the door, who with Bigthan sought to lay hand on the king (Esther 2:21-23, 6:2)
+haman | Haman | Haman | * | M | The son of Hammedatha the Agagite, the Jews' enemy, whom Ahasuerus set above all the princes; he devised to destroy the Jews and was hanged on the gallows he had prepared for Mordecai (Esther 3:1-15, 5:9-14, 7:6-10, 9:24)
+hammedatha | Hammedatha | Hammedatha | * | M | The father of Haman (Esther 3:1, 3:10, 8:5, 9:10, 9:24)
+agagite | Agagite | Agagite | * | G | "Haman the Agagite" (Esther 3:1, 3:10, 8:3, 8:5, 9:24)
+nisan-month | | Nisan | * | + |
+pur | Pur | Pur;Purim | * | X | "Pur, that is, the lot", cast before Haman; the days were called Purim after the name of Pur (Esther 3:7, 9:24-32); not a person in People
+adar-month | | Adar | * | + |
+hatach | Hatach | Hatach | * | M | "One of the king's chamberlains, whom he had appointed to attend upon her", sent by Esther to Mordecai (Esther 4:5-10)
+zeresh | Zeresh | Zeresh | * | F | The wife of Haman, who counselled him to make a gallows for Mordecai (Esther 5:10, 5:14, 6:13)
+sivan-month | Sivan | Sivan | * | X | The third month, on the three and twentieth day of which Mordecai's letters were written (Esther 8:9); not a person in People
+parshandatha | Parshandatha | Parshandatha | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:7, 9:10)
+dalphon | Dalphon | Dalphon | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:7, 9:10)
+aspatha | Aspatha | Aspatha | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:7, 9:10)
+poratha | Poratha | Poratha | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:8, 9:10)
+adalia | Adalia | Adalia | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:8, 9:10)
+aridatha | Aridatha | Aridatha | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:8, 9:10)
+parmashta | Parmashta | Parmashta | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:9, 9:10)
+arisai | Arisai | Arisai | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:9, 9:10)
+aridai | Aridai | Aridai | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:9, 9:10)
+vajezatha | Vajezatha | Vajezatha | * | M | One of the ten sons of Haman, slain in Shushan the palace (Esther 9:9, 9:10)

@@ -1,0 +1,13 @@
+# Esther family links.
+ahasuerus-es == ahasuerus-e | 1:1 | The king of Esther is "Ahasuerus" of Ezra 4:6 | history | Jewish Encyclopedia (1901-1906) vol. 1 p. 284, "Ahasuerus": "Persian king, identical with Xerxes ... No further information about Ahasuerus is given in the Bible. Only once more is he mentioned — in Ezra, iv. 6" <https://archive.org/details/cu31924091768188/page/n333/mode/1up>
+ahasuerus-es = vashti | 1:9,1:11 | "Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus" (1:9)
+ahasuerus-es = esther | 2:16,2:17 | "Esther was taken unto king Ahasuerus ... and he set the royal crown upon her head, and made her queen instead of Vashti"
+mordecai-e < jair-m | 2:5
+jair-m < shimei-mo | 2:5
+shimei-mo < kish-mo | 2:5
+mordecai-e & benjamin | 2:5 | "a Benjamite"
+esther < abihail-es | 2:15,9:29 | "Esther, the daughter of Abihail the uncle of Mordecai" (2:15); she was Mordecai's "uncle's daughter" (2:7)
+haman < hammedatha | 3:1,3:10,8:5,9:10,9:24
+haman @ agagite | 3:1,3:10,8:3,8:5,9:24 | "Haman the Agagite" (8:3)
+haman = zeresh | 5:10,5:14,6:13 | "Zeresh his wife"
+parshandatha dalphon aspatha poratha adalia aridatha parmashta arisai aridai vajezatha < haman | 9:7,9:8,9:9,9:10 | "The ten sons of Haman the son of Hammedatha" (9:10)
