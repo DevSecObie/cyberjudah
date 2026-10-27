@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 14"
 slug: "2025/2025-05-07-giving-the-sense-from-a-to-z-luke-14"
 date: "2025-05-07"
-teacher: "Captain Mattathias"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-05-07"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-05-07 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-05-07 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 14](/bible/luke/14) · [2 Esdras 7](/bible/2-esdras/7) · [Matt 13](/bible/matthew/13) · [Matt 23](/bible/matthew/23) · [Matt 19](/bible/matthew/19) · [Sir 12](/bible/sirach/12)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "sabbath", "the-law", "
 
 ## Introduction
 
-*[[1:14](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=74s)]* Hey, shalom Israel. Most high in Christ bless. Most high in Christ bless. All praise to the most high. This is another edition of giving the sense from A to Z. Giving the sense from A to Z. All praise to the most high. So I'm Captain Mattathias IC Baton Rouge. This is another edition of giving a sense from A to Z. We are going over Luke the 14th chapter. All right. Luke the 14th chapter. And I didn't start it off last time with the scripture, but I will this time. So, as we read in the previous chapter, Luke 13, Christ was teaching on repentance, he was letting the Pharisees know that it's not about what righteousness you think you have. All right? It's all about the works that you have. All right. Then he went on to heal the woman. He gave a parable of how the kingdom of heaven is. Those that are not doing what they're supposed to do, they're going to be found finding themselves outside of the kingdom of heaven once the actual kingdom starts to come. All right? And going into chapter 14, he starts off once again around the Pharisees. All right? Speaking to the Pharisees.
+*[[1:14](https://www.youtube.com/watch?v=6xG_FWvEDfU&t=74s)]* Hey, shalom Israel. Most high in Christ bless. Most high in Christ bless. All praise to the most high. This is another edition of giving the sense from A to Z. Giving the sense from A to Z. All praise to the most high. So I'm Captain Matt IC Baton Rouge. This is another edition of giving a sense from A to Z. We are going over Luke the 14th chapter. All right. Luke the 14th chapter. And I didn't start it off last time with the scripture, but I will this time. So, as we read in the previous chapter, Luke 13, Christ was teaching on repentance, he was letting the Pharisees know that it's not about what righteousness you think you have. All right? It's all about the works that you have. All right. Then he went on to heal the woman. He gave a parable of how the kingdom of heaven is. Those that are not doing what they're supposed to do, they're going to be found finding themselves outside of the kingdom of heaven once the actual kingdom starts to come. All right? And going into chapter 14, he starts off once again around the Pharisees. All right? Speaking to the Pharisees.
 
 ## Scriptures Opened
 

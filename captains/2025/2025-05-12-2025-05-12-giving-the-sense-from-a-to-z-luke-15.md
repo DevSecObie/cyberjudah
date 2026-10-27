@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 15"
 slug: "2025/2025-05-12-giving-the-sense-from-a-to-z-luke-15"
 date: "2025-05-12"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-05-12"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "health", "leadership", "purpose", "repentance", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-05-12 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-05-12 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 15](/bible/luke/15) · [John 10](/bible/john/10) · [Luke 18](/bible/luke/18) · [James 5](/bible/james/5) · [Ezek 3](/bible/ezekiel/3) · [2 Esdras 7](/bible/2-esdras/7)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "health", "leadership", "purpose", "repenta
 
 ## Introduction
 
-*[[3:26](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=206s)]* Hey, shalom Israel. Most high Christ bless. Most high Christ bless everybody. Hope y'all are having the best day possible. You know, new moon coming in tonight. All praise to the most high. Yet another day to celebrate what the Lord actually told us to celebrate. It's great. It's great. So today is another edition of Giving the Sense from A to Z. I'm Captain Mattathias IUIC Baton Rouge and today we are going to do Luke the 15th chapter. All right, Luke the 15th chapter. But like we always like to start off, we like to start off with the book of Nehemiah 8:8. Y'all follow along and we going to get it in today. So, last week we went over Luke 14 and now we're going to go over Luke the 15th chapter.
+*[[3:26](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=206s)]* Hey, shalom Israel. Most high Christ bless. Most high Christ bless everybody. Hope y'all are having the best day possible. You know, new moon coming in tonight. All praise to the most high. Yet another day to celebrate what the Lord actually told us to celebrate. It's great. It's great. So today is another edition of Giving the Sense from A to Z. I'm Captain Matthew IUIC Baton Rouge and today we are going to do Luke the 15th chapter. All right, Luke the 15th chapter. But like we always like to start off, we like to start off with the book of Nehemiah 8:8. Y'all follow along and we going to get it in today. So, last week we went over Luke 14 and now we're going to go over Luke the 15th chapter.
 
 ## In The News
 

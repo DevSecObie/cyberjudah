@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 14:15"
 slug: "2025/2025-05-08-giving-the-sense-from-a-to-z-luke-14-15"
 date: "2025-05-08"
-teacher: "Captain Mattathias"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-05-08"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "sabbath"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-05-08 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-05-08 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 14](/bible/luke/14) · [Matt 10](/bible/matthew/10) · [Deut 20](/bible/deuteronomy/20) · [2 Cor 10](/bible/2-corinthians/10) · [1 Cor 7](/bible/1-corinthians/7) · [Matt 19](/bible/matthew/19) · [Acts 13](/bible/acts/13) · [Matt 4](/bible/matthew/4) · [Prov 1](/bible/proverbs/1) · [Jer 2](/bible/jeremiah/2) · [Matt 5](/bible/matthew/5) · [Matt 24](/bible/matthew/24)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "sabbath"]
 
 ## Introduction
 
-*[[4:05](https://www.youtube.com/watch?v=eJOTHNoanFg&t=245s)]* Hey, shalom Israel. Most high in Christ bless. Most high in Christ bless. Welcome to another edition of giving the sense from A to Z. I'm Captain Mattathias, IUIC Baton Rouge, and we're going to continue with Luke chapter 14 as we have done this current week. All right. So, let me start it off with Nehemiah 8:8. So, we read in chapter 14 yesterday 1-14. And, you know, Christ was getting on the Pharisees. He was letting the people know not to be high-minded like the Pharisees. And, yeah, that was basically the premise of it. You can go back and watch yesterday's class or yesterday's live stream. So, we're going to continue on with what Christ was talking about in the 14th chapter of Luke. All right. I'm going to start at verse 15.
+*[[4:05](https://www.youtube.com/watch?v=eJOTHNoanFg&t=245s)]* Hey, shalom Israel. Most high in Christ bless. Most high in Christ bless. Welcome to another edition of giving the sense from A to Z. I'm Captain Matt, IUIC Baton Rouge, and we're going to continue with Luke chapter 14 as we have done this current week. All right. So, let me start it off with Nehemiah 8:8. So, we read in chapter 14 yesterday 1-14. And, you know, Christ was getting on the Pharisees. He was letting the people know not to be high-minded like the Pharisees. And, yeah, that was basically the premise of it. You can go back and watch yesterday's class or yesterday's live stream. So, we're going to continue on with what Christ was talking about in the 14th chapter of Luke. All right. I'm going to start at verse 15.
 
 ## Scriptures Opened
 
@@ -395,7 +395,7 @@ Reading from Definition of compel (source not named on air)  *[[39:05](https://w
 
 ## In Closing
 
-*[[1:01:27](https://www.youtube.com/watch?v=eJOTHNoanFg&t=3687s)]* So, that was the end of Luke the 14th chapter. I pray that y'all got some sort of edification out of it. Lord's will, you know, we'll continue to edify y'all. Once again, I'm Captain Mattathias, IUIC Baton Rouge. And with that, I say shalom.
+*[[1:01:27](https://www.youtube.com/watch?v=eJOTHNoanFg&t=3687s)]* So, that was the end of Luke the 14th chapter. I pray that y'all got some sort of edification out of it. Lord's will, you know, we'll continue to edify y'all. Once again, I'm Captain Matthew, IUIC Baton Rouge. And with that, I say shalom.
 
 ---
 
