@@ -1,0 +1,148 @@
+# Deuteronomy: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+# "Israel" and "Jeshurun" in Deuteronomy are the people. Jacob, Esau and Lot stay on the forefathers ("the children of Esau").
+moses | | Moses | * | + |
+israel-people | | Israel;Jeshurun | * | + |
+jordan | | Jordan | * | + |
+paran | | Paran | * | + |
+tophel | Tophel | Tophel | * | P | Where Moses spake the words of Deuteronomy, near Paran, Laban, Hazeroth and Dizahab (Deuteronomy 1:1)
+laban-place | Laban | Laban | * | P | Where Moses spake the words of Deuteronomy, near Paran, Tophel, Hazeroth and Dizahab (Deuteronomy 1:1)
+hazeroth | | Hazeroth | * | + |
+dizahab | Dizahab | Dizahab | * | P | Where Moses spake the words of Deuteronomy, near Paran, Tophel, Laban and Hazeroth (Deuteronomy 1:1)
+horeb | | Horeb | * | + |
+seir-land | | Seir | * | + |
+kadesh | | Kadesh;Kadesh-barnea | * | + |
+sihon | | Sihon | * | + |
+amorite | | Amorite;Amorites | * | + |
+heshbon | | Heshbon | * | + |
+og | | Og | * | + |
+bashan | | Bashan | * | + |
+astaroth | Astaroth | Astaroth | * | P | Where Og king of Bashan dwelt, in Edrei (Deuteronomy 1:4)
+edrei | | Edrei | * | + |
+moab-land | | Moab | * | + |
+canaanites | | Canaanites | * | + |
+lebanon | Lebanon | Lebanon | * | P | Unto which the land promised reaches (Deuteronomy 1:7, 11:24)
+euphrates | | Euphrates | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | * | + |
+eshcol-brook | | Eshcol | * | + |
+egypt | | Egypt | * | + |
+anakims | Anakims | Anakims | * | G | A people great and tall, whom Israel saw in the land (Deuteronomy 1:28, 2:10-11, 9:2)
+caleb | | Caleb | * | + |
+jephunneh | | Jephunneh | * | + |
+joshua | | Joshua;Hoshea | * | + |
+nun | | Nun | * | + |
+hormah | | Hormah | * | + |
+esau | | Esau | * | + |
+elath | Elath | Elath | * | P | Israel passed by the way of the plain from Elath (Deuteronomy 2:8)
+ezion-gaber | | Ezion-gaber | * | + |
+moabites | | Moabites;Moabite | * | + |
+ar | | Ar | * | + |
+lot | | Lot | * | + |
+emims | | Emims | * | + |
+horites | | Horims | * | + |
+zered | Zered | Zered | * | P | The brook Israel went over (Deuteronomy 2:13-14)
+ammon | | Ammon;Ammonites;Ammonite | * | + |
+zamzummims | Zamzummims | Zamzummims | * | G | Giants who dwelt in the land of Ammon in old time, whom the Ammonites call Zamzummims (Deuteronomy 2:20-21)
+avims | Avims | Avims | * | G | They dwelt in Hazerim unto Azzah, and the Caphtorims destroyed them (Deuteronomy 2:23)
+hazerim | Hazerim | Hazerim | * | P | Where the Avims dwelt (Deuteronomy 2:23)
+azzah | Azzah | Azzah | * | P | Unto which the Avims dwelt (Deuteronomy 2:23)
+caphtorim | | Caphtorims | * | + |
+caphtor | Caphtor | Caphtor | * | P | Whence the Caphtorims came forth (Deuteronomy 2:23)
+arnon | | Arnon | * | + |
+kedemoth | Kedemoth | Kedemoth | * | P | The wilderness from which Moses sent messengers to Sihon (Deuteronomy 2:26)
+jahaz | | Jahaz | * | + |
+aroer | | Aroer | * | + |
+gilead | | Gilead | * | + |
+jabbok | | Jabbok | * | + |
+argob | Argob | Argob | * | P | The region of threescore cities, the kingdom of Og in Bashan (Deuteronomy 3:4, 3:13-14)
+hermon | Hermon | Hermon | * | P | The mount, which the Sidonians call Sirion and the Amorites call Shenir (Deuteronomy 3:8-9)
+sidonians | Sidonians | Sidonians | * | G | They call Hermon Sirion (Deuteronomy 3:9)
+sirion | Sirion | Sirion | * | P | The Sidonians' name for Hermon (Deuteronomy 3:9)
+shenir | Shenir | Shenir | * | P | The Amorites' name for Hermon (Deuteronomy 3:9)
+salchah | Salchah | Salchah | * | P | A city of the kingdom of Og in Bashan (Deuteronomy 3:10)
+rabbath | Rabbath | Rabbath | * | P | Of the children of Ammon, where Og's bedstead of iron was (Deuteronomy 3:11)
+reubenites | | Reubenites | * | + |
+gadites | Gadites | Gadites | * | G | The tribe of Gad, to whom Moses gave land on the other side of Jordan (Deuteronomy 3:12, 3:16, 29:8)
+manasseh | | Manasseh | * | + |
+jair | | Jair | * | + |
+geshuri | Geshuri | Geshuri | * | G | Unto whose coasts Jair took the country of Argob (Deuteronomy 3:14)
+maachathi | Maachathi | Maachathi | * | G | Unto whose coasts Jair took the country of Argob (Deuteronomy 3:14)
+bashan-havoth-jair | Bashan-havoth-jair | Bashan-havoth-jair | * | P | The name Jair gave the country of Argob, after his own name (Deuteronomy 3:14)
+machir | | Machir | * | + |
+chinnereth | | Chinnereth | * | + |
+ashdoth-pisgah | Ashdoth-pisgah | Ashdoth-pisgah | * | P | Under which lies the salt sea, eastward (Deuteronomy 3:17, 4:49)
+pisgah | | Pisgah | * | + |
+beth-peor | Beth-peor | Beth-peor | * | P | The valley where Israel abode; Moses was buried over against it (Deuteronomy 3:29, 34:6)
+baal-peor | | Baal-peor | * | + |
+bezer | Bezer | Bezer | * | P | A city of refuge in the wilderness, of the Reubenites (Deuteronomy 4:43)
+ramoth | Ramoth | Ramoth | * | P | A city of refuge in Gilead, of the Gadites (Deuteronomy 4:43)
+golan | Golan | Golan | * | P | A city of refuge in Bashan, of the Manassites (Deuteronomy 4:43)
+manassites | Manassites | Manassites | * | G | The tribe of Manasseh (Deuteronomy 4:43)
+sion-h | Sion | Sion | * | P | Mount Sion, which is Hermon (Deuteronomy 4:48)
+massah | | Massah | * | + |
+pharaoh-e | | Pharaoh | * | + |
+hittites | | Hittites | * | + |
+girgasite | | Girgashites | * | + |
+perizzites | | Perizzites | * | + |
+hivite | | Hivites | * | + |
+jebusite | | Jebusites | * | + |
+anak | | Anak | * | + |
+aaron | | Aaron | * | + |
+taberah | | Taberah | * | + |
+kibroth-hattaavah | | Kibroth-hattaavah | * | + |
+beeroth | Beeroth | Beeroth | * | P | Of the children of Jaakan, whence Israel journeyed to Mosera (Deuteronomy 10:6)
+jaakan | Jaakan | Jaakan | * | M | At Beeroth "of the children of Jaakan" (Deuteronomy 10:6)
+mosera | Mosera | Mosera | * | P | Where Aaron died and was buried (Deuteronomy 10:6)
+eleazar | | Eleazar | * | + |
+gudgodah | Gudgodah | Gudgodah | * | P | Where Israel journeyed from Mosera (Deuteronomy 10:7)
+jotbath | Jotbath | Jotbath | * | P | A land of rivers of waters (Deuteronomy 10:7)
+levi | | Levi | * | + |
+dathan | | Dathan | * | + |
+abiram | | Abiram | * | + |
+eliab-r | | Eliab | * | + |
+reuben | | Reuben | * | + |
+gerizim | Gerizim | Gerizim | * | P | The mount of blessing (Deuteronomy 11:29, 27:12)
+ebal-mount | Ebal | Ebal | * | P | The mount of cursing, where the stones of the law were set up (Deuteronomy 11:29, 27:4, 27:13)
+gilgal | Gilgal | Gilgal | * | P | Over against which the Canaanites dwell, beside the plains of Moreh (Deuteronomy 11:30)
+moreh | | Moreh | * | + |
+levites | | Levite;Levites | * | + |
+belial | Belial | Belial | * | X | "the children of Belial" (Deuteronomy 13:13); not a person in People
+hebrew | | Hebrew | * | + |
+abib | | Abib | * | + |
+balaam | | Balaam | * | + |
+beor-b | | Beor | * | + |
+pethor | | Pethor | * | + |
+mesopotamia | | Mesopotamia | * | + |
+edomites | | Edomite | * | + |
+egyptian | | Egyptian;Egyptians | * | + |
+miriam | | Miriam | * | + |
+amalek-people | | Amalek | * | + |
+syrian | | Syrian | * | + |
+simeon | | Simeon | * | + |
+judah | | Judah | * | + |
+issachar | | Issachar | * | + |
+joseph | | Joseph | * | + |
+benjamin | | Benjamin | * | + |
+gad | | Gad | * | + |
+asher | | Asher | * | + |
+zebulun | | Zebulun | * | + |
+dan | | Dan | !34:1 | + |
+dan-place | | Dan | 34:1 | + |
+naphtali | | Naphtali | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrah | * | + |
+admah | | Admah | * | + |
+zeboiim | | Zeboim | * | + |
+adam | | Adam | * | + |
+abarim | | Abarim | * | + |
+nebo | | Nebo | * | + |
+jericho | | Jericho | * | + |
+canaan-land | | Canaan | * | + |
+hor | | Hor | * | + |
+meribah-kadesh | Meribah-Kadesh | Meribah-Kadesh | * | P | The waters in the wilderness of Zin where Moses and Aaron sanctified not the Lord (Deuteronomy 32:51)
+zin | | Zin | * | + |
+sinai | | Sinai | * | + |
+meribah | | Meribah | * | + |
+ephraim | | Ephraim | * | + |
+zoar | | Zoar | * | + |

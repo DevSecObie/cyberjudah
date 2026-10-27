@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Deuteronomy added (1 new person, 8 peoples, 32 places; Jair and Eliab linked by line).
