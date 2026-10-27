@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Ezra added (291 new men, 12 groups, 18 places; Zerubbabel tied to Shealtiel/Salathiel and Jeshua to Jozadak/Jehozadak with exact source pages; Tirshatha added as the first title). Phase 4 begins.

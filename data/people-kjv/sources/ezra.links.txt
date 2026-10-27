@@ -1,0 +1,80 @@
+# Ezra family links. The Ezra 7:1-5 chain uses "the son of" for a line that skips generations (1 Chronicles 6:3-14 gives the full line), so steps that skip are ^.
+ezra ^ seraiah-6 | 7:1 | "Ezra the son of Seraiah"; Seraiah was slain at Riblah (2 Kings 25:18-21), so Ezra is of his line
+seraiah-6 < azariah-p3 | 7:1
+azariah-p3 < hilkiah-p | 7:1
+hilkiah-p < shallum-p | 7:2
+shallum-p < zadok-2 | 7:2
+zadok-2 < ahitub-2 | 7:2
+ahitub-2 < amariah-2 | 7:3
+amariah-2 < azariah-p2 | 7:3
+azariah-p2 ^ meraioth | 7:3 | "Azariah, the son of Meraioth"; 1 Chronicles 6:6-10 lists the generations between them
+meraioth < zerahiah | 7:4
+zerahiah < uzzi-p | 7:4
+uzzi-p < bukki-p | 7:4
+bukki-p < abishua | 7:5
+abishua < phinehas | 7:5
+phinehas < eleazar | 7:5
+eleazar < aaron | 7:5
+zerubbabel ^ shealtiel | 3:2,3:8,5:2 | "Zerubbabel the son of Shealtiel"; 1 Chronicles 3:19 names Pedaiah (a son of Jeconiah, 3:18) as his father, so both readings keep him in Shealtiel's house | history | Jewish Encyclopedia (1901-1906) vol. 12 p. 662, "Zerubbabel": "Son of Shealtiel (Ezra iii. 2, 8; Hag. i. 1; \"Pedaiah\" in I Chron. iii. 19 is probably a scribal error) and grandson of Jehoiachin" <https://archive.org/details/cu31924091768295/page/n709/mode/1up> ; Josephus, Antiquities of the Jews 11.3.10 (Whiston): "Zorobabel, the son of Salathiel, of the posterity of David, and of the tribe of Judah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link112HCH0003>
+shealtiel == salathiel | 3:2 | Shealtiel, father of Zerubbabel, is Salathiel the son of Jeconiah (1 Chronicles 3:17) | history | Jewish Encyclopedia (1901-1906) vol. 12 p. 662, "Zerubbabel": "Son of Shealtiel ... and grandson of Jehoiachin" <https://archive.org/details/cu31924091768295/page/n709/mode/1up> ; Josephus, Antiquities of the Jews 11.3.10 (Whiston): "Zorobabel, the son of Salathiel, of the posterity of David" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link112HCH0003>
+jeshua-hp < jozadak | 3:2,3:8,5:2,10:18
+jozadak == jehozadak | 3:2 | Jozadak, father of Jeshua the priest, is Jehozadak the son of Seraiah who went into captivity (1 Chronicles 6:14-15) | history | Josephus, Antiquities of the Jews 10.8.5-6 (Whiston): "He also led Josedek the high priest away bound. He was the son of Seraiah the high priest" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link102HCH0008> ; Josephus, Antiquities 11.3.10: "Jeshua, the son of Josedek the high priest" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link112HCH0003>
+zechariah-iddo ^ iddo-z | 5:1,6:14 | "the son of Iddo"; Zechariah 1:1 calls him "the son of Berechiah, the son of Iddo" | history | Jewish Encyclopedia (1901-1906) vol. 12 p. 655, "Zechariah": grandson of Iddo, "loosely called the son of Iddo" <https://archive.org/details/cu31924091768295/page/n692/mode/1up>
+# Ezra 2: houses within houses
+jeshua-pm joab-pm ^ pahath-moab | 2:6
+jedaiah-h ^ jeshua-h | 2:36
+jeshua-lv kadmiel ^ hodaviah-l | 2:40
+# Ezra 8: those that went up with Ezra
+gershom-p ^ phinehas | 8:2
+daniel-i ^ ithamar | 8:2
+hattush-d ^ david | 8:2
+zechariah-ph ^ parosh | 8:3
+elihoenai < zerahiah-pm | 8:4
+elihoenai ^ pahath-moab | 8:4
+ebed-a < jonathan-ad | 8:6
+ebed-a ^ adin | 8:6
+jeshaiah-e < athaliah-e | 8:7
+jeshaiah-e ^ elam-c | 8:7
+zebadiah-sh < michael-sh | 8:8
+zebadiah-sh ^ shephatiah-c | 8:8
+obadiah-jb < jehiel-jb | 8:9
+obadiah-jb ^ joab-8 | 8:9
+zechariah-b ^ bebai | 8:11 | "Zechariah the son of Bebai", of the sons of Bebai
+johanan-hk < hakkatan | 8:12
+johanan-hk ^ azgad | 8:12
+eliphelet-a jeiel-ad shemaiah-ad ^ adonikam | 8:13
+uthai-b zabbud ^ bigvai | 8:14
+sherebiah ^ mahli-m | 8:18
+jeshaiah-m ^ merari | 8:19
+meremoth-u < uriah-p | 8:33
+eleazar-ph < phinehas-8 | 8:33
+jozabad-j < jeshua-8 | 8:33
+noadiah < binnui-n | 8:33
+# Ezra 10: those that had taken strange wives
+shechaniah-e < jehiel-el | 10:2
+shechaniah-e ^ elam-c | 10:2
+johanan-el < eliashib-j | 10:6
+jonathan-as < asahel-j | 10:15
+jahaziah < tikvah-j | 10:15
+eliezer-j jarib-j maaseiah-j gedaliah-jz ^ jeshua-hp | 10:18
+zebadiah-im hanani-i ^ immer-h | 10:20
+jehiel-hr shemaiah-hp maaseiah-hp elijah-h uzziah-h ^ harim-p | 10:21
+jozabad-pa maaseiah-pa elioenai-pa ishmael-pa nethaneel-pa elasah ^ pashur-h | 10:22
+eleazar-p ramiah jeziah malchiah-p miamin malchijah-par benaiah-par ^ parosh | 10:25
+zechariah-e jehiel-e26 mattaniah-e abdi-e jeremoth-e eliah-e ^ elam-c | 10:26
+eliashib-z elioenai-z mattaniah-z jeremoth-z zabad-z aziza ^ zattu | 10:27
+jehohanan-b hananiah-b zabbai athlai ^ bebai | 10:28
+meshullam-b malluch-b adaiah-b jashub-b sheal ramoth-b ^ bani-c | 10:29
+binnui-pm maaseiah-pm benaiah-pm mattaniah-pm adna chelal bezaleel-pm manasseh-pm ^ pahath-moab | 10:30
+shemaiah-hl eliezer-h malchiah-h ishijah shimeon ^ harim-l | 10:31
+benjamin-h malluch-h shemariah-h ^ harim-l | 10:31,10:32
+eliphelet-h shimei-h zabad-h manasseh-h mattenai-h mattathah jeremai ^ hashum | 10:33
+maadai amram-b uel ^ bani-c | 10:34
+benaiah-bn bedeiah chelluh ^ bani-c | 10:34,10:35
+vaniah meremoth-b eliashib-b ^ bani-c | 10:34,10:36
+mattaniah-bn mattenai-b jaasau ^ bani-c | 10:34,10:37
+bani-38 binnui-b shimei-b ^ bani-c | 10:34,10:38
+shelemiah-b1 nathan-bn adaiah-b2 ^ bani-c | 10:34,10:39
+machnadebai shashai sharai ^ bani-c | 10:34,10:40
+azareel-b shelemiah-b2 shemariah-bn ^ bani-c | 10:34,10:41
+shallum-bn amariah-b joseph-b ^ bani-c | 10:34,10:42
