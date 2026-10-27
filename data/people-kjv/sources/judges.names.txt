@@ -11,12 +11,12 @@ bezek | Bezek | Bezek | * | P | Where Judah slew of the Canaanites and Perizzite
 adoni-bezek | Adoni-bezek | Adoni-bezek | * | M | The king in Bezek whose thumbs and great toes Judah cut off, as he had done to threescore and ten kings; he died at Jerusalem (Judges 1:5-7)
 jerusalem | | Jerusalem | * | + |
 hebron | | Hebron | * | + |
-arbah | | Kirjath-arba | * | + |
+hebron | | Kirjath-arba | * | + |
 sheshai | | Sheshai | * | + |
 ahiman | | Ahiman | * | + |
 talmai | | Talmai | * | + |
 debir | | Debir | * | + |
-kirjath-sepher | | Kirjath-sepher | * | + |
+debir | | Kirjath-sepher | * | + |
 caleb | | Caleb | * | + |
 achsah | | Achsah | * | + |
 othniel | | Othniel | * | + |
@@ -34,7 +34,8 @@ benjamin | | Benjamin | * | + |
 jebusite | | Jebusites | * | + |
 joseph | | Joseph | * | + |
 beth-el | | Beth-el | * | + |
-beth-el | | Luz | * | + |
+luz-h | Luz | Luz | 1:26 | P | The city that the man of Beth-el, whom the spies let go, built in the land of the Hittites and called Luz (Judges 1:24-26)
+beth-el | | Luz | 1:23 | + |
 hittites | | Hittites | * | + |
 manasseh | | Manasseh | !18:30 | + |
 manasseh-g | Manasseh | Manasseh | 18:30 | M | The father of Gershom, grandfather of Jonathan the priest of the tribe of Dan (Judges 18:30)
@@ -52,13 +53,13 @@ asher | | Asher | * | + |
 accho | Accho | Accho | * | P | Whose inhabitants Asher did not drive out (Judges 1:31)
 sidon-place | | Zidon | * | + |
 ahlab | Ahlab | Ahlab | * | P | Whose inhabitants Asher did not drive out (Judges 1:31)
-achzib | | Achzib | * | + |
+achzib-a | | Achzib | 1:31 | + |
 helbah | Helbah | Helbah | * | P | Whose inhabitants Asher did not drive out (Judges 1:31)
 aphik | Aphik | Aphik | * | P | Whose inhabitants Asher did not drive out (Judges 1:31)
 rehob-a | | Rehob | * | + |
 asherites | Asherites | Asherites | * | G | The children of Asher, who dwelt among the Canaanites (Judges 1:31-32)
 naphtali | | Naphtali | * | + |
-beth-shemesh | | Beth-shemesh | * | + |
+beth-shemesh-n | | Beth-shemesh | 1:33 | + |
 beth-anath | | Beth-anath | * | + |
 amorite | | Amorites | * | + |
 dan | | Dan | !20:1 | + |
@@ -105,7 +106,8 @@ harosheth | Harosheth | Harosheth | * | P | Harosheth of the Gentiles, where Sis
 gentiles | | Gentiles | * | + |
 deborah-p | Deborah | Deborah | * | F | A prophetess, the wife of Lapidoth, who judged Israel and sang with Barak (Judges 4:4-14, 5:1-15)
 lapidoth | Lapidoth | Lapidoth | * | M | The husband of Deborah the prophetess (Judges 4:4)
-ramah | | Ramah | * | + |
+ramah |  | Ramah | 19:13 | + | 
+ramah-d | Ramah | Ramah | 4:5 | P | Where Deborah dwelt under the palm tree "between Ramah and Beth-el in mount Ephraim" (Judges 4:5)
 barak | Barak | Barak | * | M | The son of Abinoam out of Kedesh-naphtali, whom Deborah called to go against Sisera; he sang with her (Judges 4:6-16, 5:1)
 abinoam | Abinoam | Abinoam | * | M | The father of Barak (Judges 4:6, 5:1)
 kedesh-naphtali | Kedesh-naphtali | Kedesh-naphtali | * | P | Whence Barak was called (Judges 4:6)
@@ -123,7 +125,7 @@ sinai | | Sinai | * | + |
 machir | | Machir | * | + |
 issachar | | Issachar | * | + |
 reuben | | Reuben | * | + |
-gilead | | Gilead | !11:2 | + |
+gilead | | Gilead | !11:1,!11:2 | + |
 gilead-j | Gilead | Gilead | 11:1,11:2 | M | The father of Jephthah by an harlot; his wife bare him sons, who thrust out Jephthah (Judges 11:1-2)
 meroz | Meroz | Meroz | * | P | Cursed, "because they came not to the help of the Lord" (Judges 5:23)
 midian-land | | Midian | * | + |
@@ -185,7 +187,8 @@ camon | Camon | Camon | * | P | Where Jair was buried (Judges 10:5)
 syria | Syria | Syria | * | P | Whose gods Israel served (Judges 10:6)
 sidonians | | Zidonians | * | + |
 maonites | Maonites | Maonites | * | G | Who oppressed Israel (Judges 10:12)
-mizpeh | | Mizpeh | * | + |
+mizpeh-a | Mizpeh | Mizpeh | 20:1,20:3,21:1,21:5,21:8 | P | Where the children of Israel gathered unto the Lord against Gibeah, and where Samuel gathered all Israel and judged them (Judges 20:1, 21:1; 1 Samuel 7:5-16, 10:17)
+mizpah | | Mizpeh | 10:17,11:11,11:29,11:34 | + |
 jephthah | Jephthah | Jephthah | * | M | The Gileadite, a mighty man of valour, the son of Gilead by an harlot; he judged Israel six years, and offered his daughter according to his vow (Judges 11:1, 11:29-40, 12:7)
 tob | Tob | Tob | * | P | The land where Jephthah dwelt when his brethren thrust him out (Judges 11:3, 11:5)
 arnon | | Arnon | * | + |
@@ -197,7 +200,8 @@ jahaz | | Jahaz | * | + |
 chemosh | | Chemosh | * | + |
 balak | | Balak | * | + |
 zippor | | Zippor | * | + |
-aroer | | Aroer | * | + |
+aroer-jd | Aroer | Aroer | 11:33 | P | From which Jephthah smote the children of Ammon "even till thou come to Minnith" (Judges 11:33)
+aroer-a | | Aroer | 11:26 | + |
 minnith | Minnith | Minnith | * | P | Unto which Jephthah smote the children of Ammon (Judges 11:33)
 gileadites-j | | Gileadites | * | + |
 ephraimites | | Ephraimites | * | + |
@@ -219,7 +223,7 @@ manoah | Manoah | Manoah | * | M | A man of Zorah, of the family of the Danites,
 nazarite | | Nazarite | * | + |
 samson | Samson | Samson | * | M | The son of Manoah, a Nazarite unto God from the womb; he judged Israel twenty years, and died with the Philistines at the house of Dagon (Judges 13:24, 15:20, 16:30-31)
 eshtaol | | Eshtaol | * | + |
-timnath | | Timnath | * | + |
+timnath-p | Timnath | Timnath | 14:1,14:2,14:5 | P | Where Samson saw "a woman in Timnath of the daughters of the Philistines" (Judges 14:1-5)
 timnite | Timnite | Timnite | * | G | Samson was the son in law of the Timnite (Judges 15:6)
 etam | Etam | Etam | * | P | The rock where Samson dwelt (Judges 15:8, 15:11)
 lehi | Lehi | Lehi | * | P | Where the Philistines spread themselves, and Samson slew a thousand men with a jawbone (Judges 15:9-19)
@@ -238,7 +242,7 @@ mahaneh-dan | Mahaneh-dan | Mahaneh-dan | * | P | The place behind Kirjath-jeari
 beth-rehob | Beth-rehob | Beth-rehob | * | P | The valley by which Laish lay (Judges 18:28)
 jonathan | Jonathan | Jonathan | * | M | The son of Gershom, the son of Manasseh; he and his sons were priests to the tribe of Dan (Judges 18:30)
 gershom-m | Gershom | Gershom | * | M | The son of Manasseh, father of Jonathan the priest of the tribe of Dan (Judges 18:30)
-jebus | Jebus | Jebus | * | P | Jebus, which is Jerusalem (Judges 19:10-11)
+jerusalem | | Jebus | * | + |
 gibeah-b | Gibeah | Gibeah | * | P | Gibeah of Benjamin, where the Levite's concubine was abused (Judges 19:12-16, 20:4-5)
 belial | | Belial | * | + |
 beer-sheba | | Beer-sheba | * | + |

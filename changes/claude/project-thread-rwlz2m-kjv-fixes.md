@@ -1,0 +1,2 @@
+- People (KJV): four quotes now match the KJV word for word (Exodus 18:4, Esther 2:17, 1 Chronicles 9:12, 2 Chronicles 22:3); Jacob and Israel verses in Exodus and Numbers; Jehoash in 2 Kings 13:10 and 14:17; Gilead in Judges 11.
+- Places in the merged books: places that share a name are split where the text sets them apart (Ramah, Mizpah, Gilgal, Aroer, Aphek and others), and names the text says are one place are joined ("Kirjath-baal, which is Kirjath-jearim", "Jebus, which is Jerusalem", "Kirjath-arba, which is Hebron", "Bela, which is Zoar").

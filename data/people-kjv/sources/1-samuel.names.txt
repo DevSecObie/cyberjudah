@@ -16,7 +16,8 @@ hophni | Hophni | Hophni | * | M | A son of Eli, priest at Shiloh, slain when th
 phinehas-e | Phinehas | Phinehas | * | M | A son of Eli, priest at Shiloh, slain when the ark was taken; father of Ahitub and I-chabod (1 Samuel 1:3, 4:11, 4:19-21, 14:3)
 belial | | Belial | * | + |
 israel-people | | Israel | * | + |
-ramah | | Ramah | * | + |
+ramah-g | Ramah | Ramah | 22:6 | P | "Saul abode in Gibeah under a tree in Ramah" (1 Samuel 22:6)
+ramah-s | Ramah | Ramah | 1:19,2:11,7:17,8:4,15:34,16:13,19:18,19:19,19:22,19:23,20:1,25:1,28:3 | P | Samuel's city: Elkanah's house was there; there Samuel judged Israel, and there he was buried (1 Samuel 1:19, 7:17, 25:1, 28:3)
 samuel | Samuel | Samuel | * | M | The son of Elkanah and Hannah, lent to the Lord; prophet and judge of Israel, who anointed Saul and David (1 Samuel 1:20, 3:20, 7:15, 10:1, 16:13)
 israel-people | | Israelites | * | + |
 egypt | | Egypt | * | + |
@@ -25,7 +26,8 @@ dan-place | | Dan | * | + |
 beer-sheba | | Beer-sheba | * | + |
 philistines | | Philistines | * | + |
 eben-ezer | Eben-ezer | Eben-ezer | * | P | Where Israel pitched against the Philistines; the stone Samuel set up, "Hitherto hath the Lord helped us" (1 Samuel 4:1, 5:1, 7:12)
-aphek | | Aphek | * | + |
+aphek-p2 | Aphek | Aphek | 29:1 | P | Where the Philistines gathered all their armies before Saul's last battle (1 Samuel 29:1)
+aphek-p | Aphek | Aphek | 4:1 | P | Where the Philistines pitched, beside Eben-ezer, when the ark was taken (1 Samuel 4:1)
 hebrew | | Hebrews | * | + |
 egyptian | | Egyptians | * | + |
 benjamin | | Benjamin | * | + |
@@ -48,11 +50,13 @@ abinadab-s | Abinadab | Abinadab | 31:2 | M | A son of Saul, slain by the Philis
 eleazar-a | Eleazar | Eleazar | * | M | The son of Abinadab, sanctified to keep the ark (1 Samuel 7:1)
 ashtaroth-idol | | Ashtaroth | * | + |
 baalim | | Baalim | * | + |
-mizpeh | | Mizpeh | * | + |
+mizpeh-m | Mizpeh | Mizpeh | 22:3 | P | "Mizpeh of Moab", whither David brought his father and mother to the king of Moab (1 Samuel 22:3)
+mizpeh-a | | Mizpeh | 7:5,7:6,7:7,7:11,7:12,7:16,10:17 | + |
 beth-car | Beth-car | Beth-car | * | P | Under which Israel smote the Philistines (1 Samuel 7:11)
 shen | Shen | Shen | * | P | Between which and Mizpeh Samuel set the stone Eben-ezer (1 Samuel 7:12)
 amorite | | Amorites | * | + |
-beth-el | | Beth-el | * | + |
+beth-el |  | Beth-el | 7:16,10:3,13:2 | + | 
+beth-el-s | Beth-el | Beth-el | 30:27 | P | In the south of Judah: David sent of the spoil "to them which were in Beth-el, and to them which were in south Ramoth" (1 Samuel 30:26-27)
 gilgal | | Gilgal | * | + |
 joel | Joel | Joel | * | M | The firstborn of Samuel, a judge in Beer-sheba (1 Samuel 8:1-3)
 abiah | Abiah | Abiah | * | M | The second son of Samuel, a judge in Beer-sheba (1 Samuel 8:1-3)
@@ -68,7 +72,7 @@ shalim | Shalim | Shalim | * | P | The land Saul passed through seeking the asse
 benjamites | | Benjamites | * | + |
 rachel | | Rachel | * | + |
 zelzah | Zelzah | Zelzah | * | P | By Rachel's sepulchre in the border of Benjamin (1 Samuel 10:2)
-tabor | | Tabor | * | + |
+tabor-p | Tabor | Tabor | 10:3 | P | "The plain of Tabor", where Saul should meet three men going up to God to Beth-el (1 Samuel 10:3)
 matri | Matri | Matri | * | M | The family of Benjamin of which Saul was taken by lot (1 Samuel 10:21)
 gibeah-b | | Gibeah | * | + |
 nahash | Nahash | Nahash | * | M | The Ammonite, who encamped against Jabesh-gilead and was smitten by Saul (1 Samuel 11:1-11, 12:12)
@@ -123,14 +127,14 @@ kenites | | Kenites | * | + |
 havilah-land | | Havilah | * | + |
 shur | | Shur | * | + |
 agag-a | Agag | Agag | * | M | The king of the Amalekites, whom Saul spared and Samuel hewed in pieces (1 Samuel 15:8-9, 15:32-33)
-carmel | | Carmel | * | + |
+carmel-j | | Carmel | 15:12,25:2,25:5,25:7,25:40 | + |
 jesse | | Jesse | * | + |
 beth-lehemite | Beth-lehemite | Beth-lehemite | * | G | Of Beth-lehem: "Jesse the Beth-lehemite" (1 Samuel 16:1, 16:18, 17:58)
 beth-lehem | | Beth-lehem | * | + |
 eliab-j | Eliab | Eliab | * | M | The firstborn of Jesse, who went to the battle with Saul (1 Samuel 16:6, 17:13, 17:28)
 shammah-j | Shammah | Shammah | * | M | The third son of Jesse (1 Samuel 16:9, 17:13)
 david | | David | * | + |
-shochoh | Shochoh | Shochoh | * | P | Which belongeth to Judah, where the Philistines gathered (1 Samuel 17:1)
+socoh | | Shochoh | 17:1 | + |
 azekah | | Azekah | * | + |
 ephes-dammim | Ephes-dammim | Ephes-dammim | * | P | Where the Philistines pitched (1 Samuel 17:1)
 elah-valley | Elah | Elah | * | P | The valley where Israel pitched against the Philistines (1 Samuel 17:2, 17:19, 21:9)
@@ -165,7 +169,8 @@ paran | | Paran | * | + |
 nabal | Nabal | Nabal | * | M | A man of Maon, very great, but churlish, of the house of Caleb; the husband of Abigail; the Lord smote him that he died (1 Samuel 25:2-3, 25:38)
 abigail | Abigail | Abigail | * | F | The wife of Nabal, a woman of good understanding; after Nabal died she became David's wife (1 Samuel 25:3, 25:39-42, 27:3)
 caleb | | Caleb | * | + |
-jezreel | | Jezreel | * | + |
+jezreel |  | Jezreel | 29:1,29:11 | + | 
+jezreel-a | Jezreel | Jezreel | 25:43 | P | Whence David took Ahinoam to wife (1 Samuel 25:43)
 phalti | Phalti | Phalti | * | M | The son of Laish of Gallim, to whom Saul gave Michal (1 Samuel 25:44)
 laish-m | Laish | Laish | * | M | Of Gallim, the father of Phalti (1 Samuel 25:44)
 gallim | Gallim | Gallim | * | P | The town of Phalti (1 Samuel 25:44)
@@ -189,7 +194,7 @@ amalekites | | Amalekite | * | + |
 cherethites | Cherethites | Cherethites | * | G | Whose south the Amalekites invaded (1 Samuel 30:14)
 ramoth | | Ramoth | * | + |
 jattir | | Jattir | * | + |
-aroer | | Aroer | * | + |
+aroer-j | Aroer | Aroer | 30:28 | P | A city of Judah, to whose people David sent of the spoil of the Amalekites (1 Samuel 30:26-28)
 siphmoth | Siphmoth | Siphmoth | * | P | To whose men David sent of the spoil (1 Samuel 30:28)
 eshtemoa | | Eshtemoa | * | + |
 rachal | Rachal | Rachal | * | P | To whose men David sent of the spoil (1 Samuel 30:29)

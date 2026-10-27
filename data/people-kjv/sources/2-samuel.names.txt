@@ -100,7 +100,7 @@ rephaim | Rephaim | Rephaim | * | P | The valley where the Philistines spread th
 baal-perazim | Baal-perazim | Baal-perazim | * | P | Where David smote the Philistines: "The Lord hath broken forth upon mine enemies" (2 Samuel 5:20)
 geba | | Geba | * | + |
 gazer | Gazer | Gazer | * | P | Unto which David smote the Philistines from Geba (2 Samuel 5:25)
-baale | Baale | Baale | * | P | Baale of Judah, whence David brought up the ark of God (2 Samuel 6:2)
+kirjath-jearim | | Baale | * | + |
 abinadab-k | | Abinadab | * | + |
 gibeah-a | Gibeah | Gibeah | 6:3,6:4 | P | Where the house of Abinadab was, whence the ark was brought on a new cart (2 Samuel 6:3-4)
 gibeah-b | | Gibeah | 21:6,23:29 | + |
@@ -290,7 +290,7 @@ ammon | | Ammonite | * | + |
 naharai | Naharai | Naharai | * | M | The Beerothite, armourbearer to Joab the son of Zeruiah, one of the thirty (2 Samuel 23:37)
 ithrite | Ithrite | Ithrite | * | G | "Ira an Ithrite, Gareb an Ithrite" (2 Samuel 23:38)
 gareb | Gareb | Gareb | * | M | An Ithrite, one of the thirty (2 Samuel 23:38)
-aroer | | Aroer | * | + |
+aroer-s | Aroer | Aroer | 24:5 | P | Where Joab and the captains pitched when they numbered Israel, "on the right side of the city that lieth in the midst of the river of Gad" (2 Samuel 24:5)
 gad | | Gad | 24:5 | + |
 gad-p | Gad | Gad | 24:11,24:13,24:14,24:18,24:19 | M | The prophet, David's seer, who brought him the word of the Lord after he numbered the people (2 Samuel 24:11-19)
 jaazer | | Jazer | * | + |

@@ -29,7 +29,8 @@ zaretan | Zaretan | Zaretan | * | P | Beside the city Adam (Joshua 3:16)
 israel-people | | Israelites | * | + |
 reuben | | Reuben | * | + |
 gad | | Gad | * | + |
-gilgal | | Gilgal | * | + |
+gilgal | Gilgal | Gilgal | 4:19,4:20,5:9,5:10,9:6,10:6,10:7,10:9,10:15,10:43,14:6,15:7 | P | Where Israel first encamped over Jordan, "in the east border of Jericho", and kept the passover; there Saul was made king (Joshua 4:19-20, 5:9-10; 1 Samuel 11:15)
+gilgal-k | Gilgal | Gilgal | 12:23 | P | "The king of the nations of Gilgal, one", among the kings Joshua smote (Joshua 12:23)
 canaan-land | | Canaan | * | + |
 achan | Achan | Achan | * | M | The son of Carmi, of the tribe of Judah, who took of the accursed thing at Jericho; he and all he had were stoned and burned in the valley of Achor (Joshua 7:1, 7:18-26, 22:20)
 carmi-j | Carmi | Carmi | * | M | The son of Zabdi of the tribe of Judah, father of Achan (Joshua 7:1, 7:18)
@@ -57,18 +58,21 @@ bashan | | Bashan | * | + |
 ashtaroth | Ashtaroth | Ashtaroth | * | P | Where Og king of Bashan dwelt (Joshua 9:10, 12:4)
 chephirah | Chephirah | Chephirah | * | P | One of the cities of the Gibeonites (Joshua 9:17, 18:26)
 beeroth-g | Beeroth | Beeroth | * | P | One of the cities of the Gibeonites (Joshua 9:17, 18:25)
-kirjath-jearim | Kirjath-jearim | Kirjath-jearim | * | P | One of the cities of the Gibeonites; Baalah, which is Kirjath-jearim (Joshua 9:17, 15:9, 15:60)
+kirjath-jearim | Kirjath-jearim | Kirjath-jearim | * | P | One of the cities of the Gibeonites; on the north border of Judah: "Baalah, which is Kirjath-jearim", "Kirjath-baal, which is Kirjath-jearim, a city of the children of Judah"; the ark abode there twenty years until David brought it up from "Baale of Judah", "Baalah, that is, to Kirjath-jearim"; its men came back from the captivity, written Kirjath-arim in Ezra (Joshua 9:17, 15:9, 15:60, 18:14; 1 Samuel 7:1-2; 2 Samuel 6:2; 1 Chronicles 13:6; Ezra 2:25; Nehemiah 7:29)
 adoni-zedek | Adoni-zedek | Adoni-zedek | * | M | King of Jerusalem, who gathered the kings of the Amorites against Gibeon; Joshua slew him and hanged him on a tree (Joshua 10:1-5, 10:22-26)
-jerusalem | Jerusalem | Jerusalem | * | P | The city of Adoni-zedek; the Jebusite, the same is Jerusalem (Joshua 10:1, 15:8, 15:63)
+jerusalem | Jerusalem | Jerusalem | * | P | The city of Adoni-zedek; "the south side of the Jebusite; the same is Jerusalem"; "Jebusi, which is Jerusalem"; "Jebus, which is Jerusalem" (Joshua 10:1, 15:8, 15:63, 18:28; Judges 19:10; 1 Chronicles 11:4)
 hoham | Hoham | Hoham | * | M | King of Hebron, one of the five kings of the Amorites slain by Joshua (Joshua 10:3, 10:23-26)
-hebron | | Hebron | * | + |
+hebron |  | Hebron | 10:3,10:5,10:23,10:36,10:39,11:21,12:10,14:13,14:14,14:15,15:13,15:54,20:7,21:11,21:13 | + | 
+hebron-a | Hebron | Hebron | 19:28 | P | Named in the inheritance of the tribe of Asher, "even unto great Zidon" (Joshua 19:28)
 piram | Piram | Piram | * | M | King of Jarmuth, one of the five kings of the Amorites slain by Joshua (Joshua 10:3, 10:23-26)
 jarmuth | Jarmuth | Jarmuth | * | P | A city of the Amorites; named in Judah and given to the Levites (Joshua 10:3, 15:35, 21:29)
 japhia-k | Japhia | Japhia | 10:3 | M | King of Lachish, one of the five kings of the Amorites slain by Joshua (Joshua 10:3, 10:23-26)
 japhia | Japhia | Japhia | 19:12 | P | Named in the inheritance of the tribe of Zebulun (Joshua 19:12)
 lachish | Lachish | Lachish | * | P | A city of the Amorites, which Joshua took (Joshua 10:3, 10:31-32)
 debir-k | Debir | Debir | 10:3 | M | King of Eglon, one of the five kings of the Amorites slain by Joshua (Joshua 10:3, 10:23-26)
-debir | Debir | Debir | !10:3 | P | A city which Joshua took; the name of Debir before was Kirjath-sepher (Joshua 10:38-39, 15:15)
+debir | Debir | Debir | 10:38,10:39,11:21,12:13,15:15,15:49,21:15 | P | A city which Joshua took; "the name of Debir before was Kirjath-sepher"; "Kirjath-sannah, which is Debir"; Caleb gave Achsah to him that took Kirjath-sepher; given to the priests (Joshua 10:38-39, 15:15-16, 15:49, 21:15; Judges 1:11-13)
+debir-b | Debir | Debir | 15:7 | P | On the north border of Judah, "toward Debir from the valley of Achor" (Joshua 15:7)
+debir-g | Debir | Debir | 13:26 | P | On the border of Gad: "from Mahanaim unto the border of Debir" (Joshua 13:26)
 eglon | Eglon | Eglon | * | P | A city of the Amorites, which Joshua took (Joshua 10:3, 10:34-35)
 beth-horon | Beth-horon | Beth-horon | * | P | The way by which Israel chased the Amorites from Gibeon (Joshua 10:10-11, 16:3)
 azekah | Azekah | Azekah | * | P | Unto which Israel smote the Amorites (Joshua 10:10-11, 15:35)
@@ -82,7 +86,9 @@ kadesh | | Kadesh-barnea | * | + |
 gaza | | Gaza | * | + |
 goshen-c | Goshen | Goshen | * | P | The country of Goshen in the land, smitten by Joshua unto Gibeon; a city of Judah (Joshua 10:41, 11:16, 15:51)
 jabin | Jabin | Jabin | * | M | King of Hazor, who gathered the kings of the north against Israel at the waters of Merom (Joshua 11:1-10)
-hazor | Hazor | Hazor | * | P | The head of all those kingdoms, which Joshua burnt with fire (Joshua 11:1, 11:10-13)
+hazor | Hazor | Hazor | 11:1,11:10,11:11,11:13,12:19,19:36 | P | "The head of all those kingdoms", the city of Jabin king of Canaan, burnt by Joshua; a fenced city of Naphtali; built by Solomon (Joshua 11:1-13, 19:36; Judges 4:2; 1 Kings 9:15)
+hazor-j2 | Hazor | Hazor;Hezron | 15:25 | P | Named among the uttermost cities of Judah southward: "Hezron, which is Hazor" (Joshua 15:25)
+hazor-j | Hazor | Hazor | 15:23 | P | Named among the uttermost cities of Judah southward (Joshua 15:23)
 jobab-m | Jobab | Jobab | * | M | King of Madon, sent for by Jabin (Joshua 11:1)
 madon | Madon | Madon | * | P | A city whose king Jabin sent for (Joshua 11:1, 12:19)
 shimron-city | Shimron | Shimron | * | P | A city whose king Jabin sent for; in the inheritance of Zebulun (Joshua 11:1, 19:15)
@@ -90,7 +96,9 @@ achshaph | Achshaph | Achshaph | * | P | A city whose king Jabin sent for (Joshu
 chinneroth | Chinneroth | Chinneroth | * | P | The sea of Chinneroth (Joshua 11:2, 12:3)
 dor | Dor | Dor | * | P | The borders of Dor on the west (Joshua 11:2, 12:23)
 hermon | | Hermon | * | + |
-mizpeh | Mizpeh | Mizpeh | * | P | The land and valley of Mizpeh under Hermon; a city of Judah; a city of Benjamin (Joshua 11:3, 11:8, 15:38, 18:26)
+mizpeh | Mizpeh | Mizpeh | 11:3,11:8 | P | The land and valley of Mizpeh, under Hermon (Joshua 11:3, 11:8)
+mizpeh-j | Mizpeh | Mizpeh | 15:38 | P | A city of Judah in the valley (Joshua 15:33-38)
+mizpah-b | Mizpah | Mizpeh | 18:26 | P | A city of Benjamin: Asa built Geba of Benjamin and Mizpah with the stones of Ramah; there Gedaliah dwelt, and was slain by Ishmael (Joshua 18:26; 1 Kings 15:22; 2 Kings 25:23-25; Jeremiah 40:6-41:16)
 merom | Merom | Merom | * | P | The waters where the kings of the north pitched against Israel (Joshua 11:5, 11:7)
 sidon-place | | Zidon | * | + |
 misrephoth-maim | Misrephoth-maim | Misrephoth-maim | * | P | Unto which Israel chased the kings of the north (Joshua 11:8, 13:6)
@@ -103,14 +111,16 @@ anab | Anab | Anab | * | P | Whence Joshua cut off the Anakims; a city of Judah 
 gath | Gath | Gath | * | P | Where some of the Anakims remained (Joshua 11:22)
 ashdod | Ashdod | Ashdod | * | P | Where some of the Anakims remained; in the lot of Judah (Joshua 11:22, 15:46-47)
 arnon | | Arnon | * | + |
-aroer | | Aroer | * | + |
+aroer |  | Aroer | 13:25 | + | 
+aroer-a | | Aroer | 12:2,13:9,13:16 | + |
 gilead-m | | Gilead | 17:1,17:3 | + |
 gilead | | Gilead | !17:3 | + |
 jabbok | | Jabbok | * | + |
 ammon | | Ammon | * | + |
 beth-jeshimoth | Beth-jeshimoth | Beth-jeshimoth | * | P | The way from the salt sea; named in the inheritance of Reuben (Joshua 12:3, 13:20)
 ashdoth-pisgah | | Ashdoth-pisgah | * | + |
-edrei | | Edrei | * | + |
+edrei |  | Edrei | 12:4,13:12,13:31 | + | 
+edrei-n | Edrei | Edrei | 19:37 | P | A fenced city of Naphtali (Joshua 19:37)
 salcah | Salcah | Salcah | * | P | Where Og reigned (Joshua 12:5, 13:11)
 geshuri | | Geshurites | * | + |
 maachathi | | Maachathites | * | + |
@@ -118,17 +128,24 @@ geder | Geder | Geder | * | P | A city whose king Joshua smote (Joshua 12:13)
 hormah | | Hormah | * | + |
 arad-city | Arad | Arad | * | P | A city whose king Joshua smote (Joshua 12:14)
 adullam | Adullam | Adullam | * | P | A city whose king Joshua smote (Joshua 12:15, 15:35)
-tappuah | Tappuah | Tappuah | * | P | A city whose king Joshua smote (Joshua 12:17, 15:34, 16:8)
+tappuah | Tappuah | Tappuah | 16:8,17:8 | P | On the border of Ephraim and Manasseh: "Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh belonged to the children of Ephraim" (Joshua 16:8, 17:8)
+tappuah-k | Tappuah | Tappuah | 12:17 | P | "The king of Tappuah, one", among the kings Joshua smote (Joshua 12:17)
+tappuah-j | Tappuah | Tappuah | 15:34 | P | A city of Judah in the valley, with Zanoah and En-gannim (Joshua 15:34)
 hepher | | Hepher | 17:2,17:3 | + |
 hepher-city | Hepher | Hepher | 12:17 | P | A city whose king Joshua smote (Joshua 12:17)
-aphek | Aphek | Aphek | * | P | A city whose king Joshua smote (Joshua 12:18, 13:4, 19:30)
+aphek | Aphek | Aphek | 12:18 | P | "The king of Aphek, one", among the kings Joshua smote (Joshua 12:18)
+aphek-as | Aphek | Aphek | 19:30 | P | Named in the inheritance of the tribe of Asher (Joshua 19:30)
+aphek-n | Aphek | Aphek | 13:4 | P | On the north border of the land that yet remained: "unto Aphek, to the borders of the Amorites" (Joshua 13:4)
 lasharon | Lasharon | Lasharon | * | P | A city whose king Joshua smote (Joshua 12:18)
 shimron-meron | Shimron-meron | Shimron-meron | * | P | A city whose king Joshua smote (Joshua 12:20)
 taanach | Taanach | Taanach | * | P | A city whose king Joshua smote (Joshua 12:21, 17:11)
 megiddo | Megiddo | Megiddo | * | P | A city whose king Joshua smote (Joshua 12:21, 17:11)
-kedesh | Kedesh | Kedesh | * | P | A city whose king Joshua smote (Joshua 12:22, 15:23, 19:37)
+kedesh | Kedesh | Kedesh | 19:37,20:7,21:32 | P | "Kedesh in Galilee in mount Naphtali", a city of refuge; Barak called Zebulun and Naphtali to Kedesh (Joshua 19:37, 20:7, 21:32; Judges 4:6-10)
+kedesh-k | Kedesh | Kedesh | 12:22 | P | "The king of Kedesh, one", among the kings Joshua smote (Joshua 12:22)
+kedesh-j | Kedesh | Kedesh | 15:23 | P | Named among "the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward" (Joshua 15:21-23)
 jokneam | Jokneam | Jokneam | * | P | A city whose king Joshua smote (Joshua 12:22, 19:11, 21:34)
-carmel | Carmel | Carmel | * | P | A city whose king Joshua smote (Joshua 12:22, 15:55, 19:26)
+carmel | Carmel | Carmel | 12:22,19:26 | P | Mount Carmel, where Elijah gathered all Israel and the prophets of Baal; "Carmel by the sea" (1 Kings 18:19-42; Jeremiah 46:18); Asher's border "reacheth to Carmel westward" (Joshua 19:26)
+carmel-j | Carmel | Carmel | 15:55 | P | A city of Judah in the mountains, with Maon and Ziph; Nabal had his possessions there, and Saul set him up a place there (Joshua 15:55; 1 Samuel 15:12, 25:2-40)
 tirzah | | Tirzah | 17:3 | + |
 tirzah-city | Tirzah | Tirzah | 12:24 | P | A city whose king Joshua smote (Joshua 12:24)
 philistines | | Philistines | * | + |
@@ -167,7 +184,8 @@ reba | | Reba | * | + |
 balaam | | Balaam | * | + |
 beor-b | | Beor | * | + |
 jaazer | | Jazer | * | + |
-rabbah | Rabbah | Rabbah | * | P | Named in the inheritance of the tribe of Gad (Joshua 13:25, 15:60)
+rabbah | Rabbah | Rabbah | 13:25 | P | "Rabbah of the children of Ammon", which Joab besieged and David took; "Aroer that is before Rabbah", on the border of Gad (Joshua 13:25; 2 Samuel 12:26-29)
+rabbah-j | Rabbah | Rabbah | 15:60 | P | A city of Judah in the mountains, with Kirjath-baal (Joshua 15:60)
 ramath-mizpeh | Ramath-mizpeh | Ramath-mizpeh | * | P | Named in the inheritance of the tribe of Gad (Joshua 13:26)
 betonim | Betonim | Betonim | * | P | Named in the inheritance of the tribe of Gad (Joshua 13:26)
 mahanaim | | Mahanaim | * | + |
@@ -175,7 +193,8 @@ beth-aram | Beth-aram | Beth-aram | * | P | Named in the inheritance of the trib
 beth-nimrah | | Beth-nimrah | * | + |
 succoth | | Succoth | * | + |
 zaphon | Zaphon | Zaphon | * | P | Named in the inheritance of the tribe of Gad (Joshua 13:27)
-chinnereth | | Chinnereth | * | + |
+chinnereth |  | Chinnereth | 13:27 | + | 
+chinnereth-c | Chinnereth | Chinnereth | 19:35 | P | A fenced city of Naphtali (Joshua 19:35)
 jair | | Jair | * | + |
 machir | | Machir | * | + |
 moab-land | | Moab | * | + |
@@ -185,12 +204,12 @@ ephraim | | Ephraim | * | + |
 caleb | | Caleb | * | + |
 jephunneh | | Jephunneh | * | + |
 kenezite | | Kenezite | * | + |
-arbah | | Kirjath-arba | * | + |
+hebron | | Kirjath-arba | * | + |
 arba | Arba | Arba | * | M | A great man among the Anakims, the father of Anak; Hebron was called Kirjath-arba after him (Joshua 14:15, 15:13, 21:11)
 edom-land | | Edom | * | + |
 zin | | Zin | * | + |
 maaleh-acrabbim | Maaleh-acrabbim | Maaleh-acrabbim | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:3)
-hezron-place | Hezron | Hezron | * | P | On the south border of Judah; Hezron, which is Hazor (Joshua 15:3, 15:25)
+hezron-place | Hezron | Hezron | 15:3 | P | On the south border of Judah (Joshua 15:3)
 adar | Adar | Adar | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:3)
 karkaa | Karkaa | Karkaa | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:3)
 azmon | | Azmon | * | + |
@@ -203,18 +222,23 @@ en-rogel | En-rogel | En-rogel | * | P | Named in the inheritance of the tribe o
 hinnom | Hinnom | Hinnom | * | M | "the valley of the son of Hinnom", on the border of Judah and Benjamin (Joshua 15:8, 18:16)
 nephtoah | Nephtoah | Nephtoah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:9, 18:15)
 ephron-mount | Ephron | Ephron | * | P | The mount whose cities are on the border of Judah (Joshua 15:9)
-baalah | Baalah | Baalah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:9, 15:10, 15:11)
-jearim | Jearim | Jearim | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:10)
-chesalon | Chesalon | Chesalon | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:10)
-beth-shemesh | Beth-shemesh | Beth-shemesh | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:10, 19:22, 19:38)
-timnah | Timnah | Timnah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:10, 15:57)
+kirjath-jearim | | Baalah | 15:9,15:10 | + |
+baalah | Baalah | Baalah | 15:11 | P | Mount Baalah, on the north border of Judah, between Shicron and Jabneel (Joshua 15:11)
+baalah-s | Baalah | Baalah | 15:29 | P | Named among the uttermost cities of Judah southward (Joshua 15:29)
+chesalon | Chesalon | Chesalon | * | P | On the north border of Judah: "mount Jearim, which is Chesalon" (Joshua 15:10)
+beth-shemesh | Beth-shemesh | Beth-shemesh | 15:10,21:16 | P | On the north border of Judah, given to the priests; whither the kine brought the ark from the Philistines; there Jehoash took Amaziah (Joshua 15:10, 21:16; 1 Samuel 6:9-20; 2 Kings 14:11-13)
+beth-shemesh-n | Beth-shemesh | Beth-shemesh | 19:38 | P | A fenced city of Naphtali, whose inhabitants Naphtali drave not out (Joshua 19:38; Judges 1:33)
+beth-shemesh-i | Beth-shemesh | Beth-shemesh | 19:22 | P | On the border of Issachar (Joshua 19:22)
+timnah | Timnah | Timnah | 15:10 | P | On the north border of Judah, past Beth-shemesh; the Philistines took it with Beth-shemesh (Joshua 15:10; 2 Chronicles 28:18)
+timnah-m | Timnah | Timnah | 15:57 | P | A city of Judah in the mountains, with Cain and Gibeah (Joshua 15:57)
 shicron | Shicron | Shicron | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:11)
-jabneel | Jabneel | Jabneel | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:11, 19:33)
+jabneel | Jabneel | Jabneel | 15:11 | P | On the north border of Judah, where "the goings out of the border were at the sea" (Joshua 15:11)
+jabneel-n | Jabneel | Jabneel | 19:33 | P | On the coast of the tribe of Naphtali (Joshua 19:33)
 anak | | Anak | * | + |
 sheshai | | Sheshai | * | + |
 ahiman | | Ahiman | * | + |
 talmai | | Talmai | * | + |
-kirjath-sepher | Kirjath-sepher | Kirjath-sepher | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:15, 15:16)
+debir | | Kirjath-sepher | * | + |
 achsah | Achsah | Achsah | * | F | The daughter of Caleb, given to Othniel to wife; she asked her father for springs of water (Joshua 15:16-19)
 othniel | Othniel | Othniel | * | M | The son of Kenaz, who took Kirjath-sepher and was given Achsah, Caleb's daughter, to wife; "the son of Kenaz, the brother of Caleb" (Joshua 15:17)
 kenaz-o | Kenaz | Kenaz | * | M | The father of Othniel (Joshua 15:17)
@@ -225,7 +249,8 @@ kinah | Kinah | Kinah | * | P | Named in the inheritance of the tribe of Judah (
 dimonah | Dimonah | Dimonah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:22)
 adadah | Adadah | Adadah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:22)
 ithnan | Ithnan | Ithnan | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:23)
-ziph | Ziph | Ziph | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:24, 15:55)
+ziph | Ziph | Ziph | 15:55 | P | A city of Judah in the mountains, with Maon and Carmel; in the wilderness of Ziph David hid from Saul; Rehoboam built it for defence (Joshua 15:55; 1 Samuel 23:14-24, 26:2; 2 Chronicles 11:8)
+ziph-s | Ziph | Ziph | 15:24 | P | Named among "the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward" (Joshua 15:21-24)
 telem | Telem | Telem | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:24)
 bealoth | Bealoth | Bealoth | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:24)
 hadattah | Hadattah | Hadattah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:25)
@@ -249,14 +274,18 @@ sansannah | Sansannah | Sansannah | * | P | Named in the inheritance of the trib
 lebaoth | Lebaoth | Lebaoth | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:32)
 shilhim | Shilhim | Shilhim | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:32)
 ain-city | Ain | Ain | * | P | Named in the inheritance of Judah and of Simeon; given to the Levites (Joshua 15:32, 19:7, 21:16)
-rimmon | Rimmon | Rimmon | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:32)
+rimmon | Rimmon | Rimmon | * | P | A city of Judah in the south, given to Simeon; "from Geba to Rimmon south of Jerusalem" (Joshua 15:32; 1 Chronicles 4:32; Zechariah 14:10)
 eshtaol | Eshtaol | Eshtaol | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:33, 19:41)
 zoreah | Zoreah | Zoreah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:33)
-ashnah | Ashnah | Ashnah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:33, 15:43)
-zanoah | Zanoah | Zanoah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:34, 15:56)
-en-gannim | En-gannim | En-gannim | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:34, 19:21, 21:29)
+ashnah | Ashnah | Ashnah | 15:33 | P | A city of Judah in the valley, with Eshtaol and Zoreah (Joshua 15:33)
+ashnah-2 | Ashnah | Ashnah | 15:43 | P | A city of Judah in the valley, with Jiphtah and Nezib (Joshua 15:43)
+zanoah | Zanoah | Zanoah | 15:34 | P | A city of Judah in the valley, with Eshtaol and Zorah; its inhabitants built the valley gate (Joshua 15:33-34; Nehemiah 3:13, 11:30)
+zanoah-m | Zanoah | Zanoah | 15:56 | P | A city of Judah in the mountains, with Jezreel and Jokdeam (Joshua 15:56)
+en-gannim | En-gannim | En-gannim | 15:34 | P | A city of Judah in the valley, with Zanoah and Tappuah (Joshua 15:34)
+en-gannim-i | En-gannim | En-gannim | 19:21,21:29 | P | Named in the inheritance of the tribe of Issachar; given to the Levites out of Issachar (Joshua 19:21, 21:28-29)
 enam | Enam | Enam | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:34)
-socoh | Socoh | Socoh | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:35, 15:48)
+socoh | Socoh | Socoh | 15:35 | P | A city of Judah in the valley, with Adullam and Azekah; the Philistines gathered at Shochoh, which belongeth to Judah, and pitched between Shochoh and Azekah; Rehoboam built Shoco for defence; the Philistines took Shocho (Joshua 15:33-35; 1 Samuel 17:1; 2 Chronicles 11:7, 28:18)
+socoh-m | Socoh | Socoh | 15:48 | P | A city of Judah in the mountains, with Shamir and Jattir (Joshua 15:48)
 sharaim | Sharaim | Sharaim | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:36)
 adithaim | Adithaim | Adithaim | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:36)
 gederah | Gederah | Gederah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:36)
@@ -271,19 +300,21 @@ cabbon | Cabbon | Cabbon | * | P | Named in the inheritance of the tribe of Juda
 lahmam | Lahmam | Lahmam | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:40)
 kithlish | Kithlish | Kithlish | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:40)
 gederoth | Gederoth | Gederoth | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:41)
-beth-dagon | Beth-dagon | Beth-dagon | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:41, 19:27)
+beth-dagon | Beth-dagon | Beth-dagon | 15:41 | P | A city of Judah in the valley (Joshua 15:41)
+beth-dagon-a | Beth-dagon | Beth-dagon | 19:27 | P | On the coast of Asher (Joshua 19:27)
 naamah-city | Naamah | Naamah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:41)
 ether | Ether | Ether | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:42, 19:7)
 ashan | Ashan | Ashan | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:42, 19:7)
 jiphtah | Jiphtah | Jiphtah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:43)
 nezib | Nezib | Nezib | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:43)
 keilah | Keilah | Keilah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:44)
-achzib | Achzib | Achzib | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:44, 19:29)
+achzib | Achzib | Achzib | 15:44 | P | A city of Judah in the valley, with Keilah and Mareshah; "the houses of Achzib shall be a lie to the kings of Israel" (Joshua 15:44; Micah 1:14)
+achzib-a | Achzib | Achzib | 19:29 | P | On the coast of Asher, at the sea; whose inhabitants Asher drave not out (Joshua 19:29; Judges 1:31)
 mareshah | Mareshah | Mareshah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:44)
 shamir | Shamir | Shamir | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:48)
 jattir | Jattir | Jattir | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:48, 21:14)
 dannah | Dannah | Dannah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:49)
-kirjath-sannah | Kirjath-sannah | Kirjath-sannah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:49)
+debir | | Kirjath-sannah | * | + |
 eshtemoh | Eshtemoh | Eshtemoh | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:50)
 anim | Anim | Anim | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:50)
 holon | Holon | Holon | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:51, 21:15)
@@ -298,21 +329,22 @@ humtah | Humtah | Humtah | * | P | Named in the inheritance of the tribe of Juda
 zior | Zior | Zior | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:54)
 maon | Maon | Maon | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:55)
 juttah | Juttah | Juttah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:55, 21:16)
-jezreel | Jezreel | Jezreel | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:56, 17:16, 19:18)
+jezreel | Jezreel | Jezreel | 17:16,19:18 | P | The city and valley of Jezreel, toward which Issachar's border went; where Ahab had his palace and Naboth his vineyard, and where the dogs ate Jezebel (Joshua 17:16, 19:18; 1 Kings 21:1; 2 Kings 9:30-37)
+jezreel-j | Jezreel | Jezreel | 15:56 | P | A city of Judah in the mountains (Joshua 15:56)
 jokdeam | Jokdeam | Jokdeam | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:56)
 cain-city | Cain | Cain | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:57)
-gibeah | Gibeah | Gibeah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:57)
+gibeah | Gibeah | Gibeah | * | P | A city of Judah in the mountains (Joshua 15:57)
 halhul | Halhul | Halhul | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:58)
 beth-zur | Beth-zur | Beth-zur | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:58)
 gedor | Gedor | Gedor | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:58)
 maarath | Maarath | Maarath | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:59)
 beth-anoth | Beth-anoth | Beth-anoth | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:59)
 eltekon | Eltekon | Eltekon | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:59)
-kirjath-baal | Kirjath-baal | Kirjath-baal | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:60, 18:14)
+kirjath-jearim | | Kirjath-baal | * | + |
 middin | Middin | Middin | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:61)
 secacah | Secacah | Secacah | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:61)
 nibshan | Nibshan | Nibshan | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:62)
-en-gedi | En-gedi | En-gedi | * | P | Named in the inheritance of the tribe of Judah (Joshua 15:62)
+en-gedi | En-gedi | En-gedi | * | P | A city of Judah in the wilderness; "Hazazon-tamar, which is En-gedi" (Joshua 15:62; 2 Chronicles 20:2)
 beth-el | | Luz | * | + |
 archi | Archi | Archi | * | P | Named in the inheritance of the children of Joseph, Ephraim (Joshua 16:2)
 ataroth-e | Ataroth | Ataroth | * | P | On the border of Ephraim (Joshua 16:2, 16:7)
@@ -322,7 +354,8 @@ michmethah | Michmethah | Michmethah | * | P | Named in the inheritance of the c
 taanath-shiloh | Taanath-shiloh | Taanath-shiloh | * | P | Named in the inheritance of the children of Joseph, Ephraim (Joshua 16:6)
 janohah | Janohah | Janohah | * | P | Named in the inheritance of the children of Joseph, Ephraim (Joshua 16:6, 16:7)
 naarath | Naarath | Naarath | * | P | Named in the inheritance of the children of Joseph, Ephraim (Joshua 16:7)
-kanah | Kanah | Kanah | * | P | Named in the inheritance of the children of Joseph, Ephraim (Joshua 16:8, 17:9, 19:28)
+kanah | Kanah | Kanah | 16:8,17:9 | P | The river Kanah, on the border of Ephraim and Manasseh (Joshua 16:8, 17:9)
+kanah-a | Kanah | Kanah | 19:28 | P | Named in the inheritance of the tribe of Asher, "even unto great Zidon" (Joshua 19:28)
 ephraimites | Ephraimites | Ephraimites | * | G | Among whom the Canaanites of Gezer dwell (Joshua 16:10)
 abiezer | Abiezer | Abiezer | * | M | Of the male children of Manasseh, whose children had a lot (Joshua 17:2)
 helek | | Helek | * | + |
@@ -344,7 +377,7 @@ ibleam | Ibleam | Ibleam | * | P | Named in the inheritance of the tribe of Mana
 endor | Endor | Endor | * | P | Named in the inheritance of the tribe of Manasseh (Joshua 17:11)
 benjamin | | Benjamin | * | + |
 ataroth-adar | Ataroth-adar | Ataroth-adar | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:13)
-jebusi | Jebusi | Jebusi | * | P | Jebusi, which is Jerusalem (Joshua 18:16, 18:28)
+jerusalem | | Jebusi | * | + |
 geliloth | Geliloth | Geliloth | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:17)
 arabah | Arabah | Arabah | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:18)
 beth-hoglah | Beth-hoglah | Beth-hoglah | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:19, 18:21)
@@ -356,7 +389,9 @@ ophrah | Ophrah | Ophrah | * | P | Named in the inheritance of the tribe of Benj
 chephar-haammonai | Chephar-haammonai | Chephar-haammonai | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:24)
 ophni | Ophni | Ophni | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:24)
 gaba | Gaba | Gaba | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:24)
-ramah | Ramah | Ramah | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:25, 19:29, 19:36)
+ramah | Ramah | Ramah | 18:25 | P | A city of Benjamin by Gibeah; Baasha built it against Judah, and Asa carried away its stones; "A voice was heard in Ramah" (Joshua 18:25; Judges 19:13; 1 Kings 15:17-22; Jeremiah 31:15, 40:1; Matthew 2:18)
+ramah-n | Ramah | Ramah | 19:36 | P | A fenced city of Naphtali (Joshua 19:35-36)
+ramah-as | Ramah | Ramah | 19:29 | P | On the coast of Asher: "the coast turneth to Ramah, and to the strong city Tyre" (Joshua 19:29)
 mozah | Mozah | Mozah | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:26)
 irpeel | Irpeel | Irpeel | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:27)
 taralah | Taralah | Taralah | * | P | Named in the inheritance of the tribe of Benjamin (Joshua 18:27)
@@ -402,7 +437,7 @@ abez | Abez | Abez | * | P | Named in the inheritance of the tribe of Issachar (
 remeth | Remeth | Remeth | * | P | Named in the inheritance of the tribe of Issachar (Joshua 19:21)
 en-haddah | En-haddah | En-haddah | * | P | Named in the inheritance of the tribe of Issachar (Joshua 19:21)
 beth-pazzez | Beth-pazzez | Beth-pazzez | * | P | Named in the inheritance of the tribe of Issachar (Joshua 19:21)
-tabor | Tabor | Tabor | * | P | Named in the inheritance of the tribe of Issachar (Joshua 19:22)
+tabor | Tabor | Tabor | * | P | Mount Tabor, on the border of Issachar, where Barak gathered ten thousand men; "Tabor and Hermon shall rejoice in thy name" (Joshua 19:22; Judges 4:6-14; Psalms 89:12)
 shahazimah | Shahazimah | Shahazimah | * | P | Named in the inheritance of the tribe of Issachar (Joshua 19:22)
 helkath | Helkath | Helkath | * | P | Named in the inheritance of the tribe of Asher (Joshua 19:25, 21:31)
 hali | Hali | Hali | * | P | Named in the inheritance of the tribe of Asher (Joshua 19:25)
@@ -497,3 +532,4 @@ balak | | Balak | * | + |
 zippor | | Zippor | * | + |
 gaash | Gaash | Gaash | * | P | The hill on whose north side Joshua was buried (Joshua 24:30)
 hamor | | Hamor | * | + |
+chesalon | | Jearim | * | + |

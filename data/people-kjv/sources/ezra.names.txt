@@ -63,7 +63,7 @@ beth-lehem | | Beth-lehem | * | + |
 netophah | Netophah | Netophah | * | P | Whose men came up out of the captivity, fifty and six (Ezra 2:22)
 anathoth | | Anathoth | * | + |
 azmaveth-p | Azmaveth | Azmaveth | 2:24 | P | "The children of Azmaveth, forty and two" (Ezra 2:24); Nehemiah 7:28 reads "the men of Beth-azmaveth"
-kirjath-arim | Kirjath-arim | Kirjath-arim | * | P | Whose children came up out of the captivity with those of Chephirah and Beeroth (Ezra 2:25)
+kirjath-jearim | | Kirjath-arim | * | + |
 chephirah | | Chephirah | * | + |
 beeroth-g | | Beeroth | * | + |
 ramah | | Ramah | * | + |

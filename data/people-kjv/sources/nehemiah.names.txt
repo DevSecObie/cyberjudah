@@ -75,7 +75,7 @@ gibeonites | | Gibeonite | * | + |
 jadon | Jadon | Jadon | * | M | "Jadon the Meronothite", who repaired on the wall (Nehemiah 3:7)
 meronothite | | Meronothite | * | + |
 gibeon | | Gibeon | * | + |
-mizpah | | Mizpah | * | + |
+mizpah-b | | Mizpah | 3:7,3:15,3:19 | + |
 uzziel-hh | Uzziel | Uzziel | 3:8 | M | The son of Harhaiah, of the goldsmiths, who repaired on the wall (Nehemiah 3:8)
 harhaiah | Harhaiah | Harhaiah | * | M | The father of Uzziel (Nehemiah 3:8)
 hananiah-ap | Hananiah | Hananiah | 3:8 | M | "The son of one of the apothecaries", who repaired on the wall (Nehemiah 3:8)
@@ -535,8 +535,8 @@ uzzi-l | Uzzi | Uzzi | 11:22 | M | The son of Bani, "the overseer also of the Le
 uzzi-j | Uzzi | Uzzi | 12:19 | M | In the days of Joiakim, chief of the fathers of the priests "of Jedaiah" (Nehemiah 12:12, 12:19)
 uzzi-42 | Uzzi | Uzzi | 12:42 | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
 zarah | | Zerah | * | + |
-arbah | | Kirjath-arba | * | + |
-dibon | | Dibon | * | + |
+hebron | | Kirjath-arba | * | + |
+dibon-j | Dibon | Dibon | 11:25 | P | Where some of the children of Judah dwelt after the captivity (Nehemiah 11:25)
 jekabzeel | Jekabzeel | Jekabzeel | * | P | Where some of the children of Judah dwelt (Nehemiah 11:25)
 moladah | | Moladah | * | + |
 beth-phelet | Beth-phelet | Beth-phelet | * | P | Where some of the children of Judah dwelt (Nehemiah 11:26)
@@ -553,7 +553,7 @@ azekah | | Azekah | * | + |
 hinnom | | Hinnom | * | + |
 aija | Aija | Aija | * | P | Where some of the children of Benjamin dwelt (Nehemiah 11:31)
 nob | | Nob | * | + |
-hazor | | Hazor | * | + |
+hazor-b | Hazor | Hazor | 11:33 | P | Where the children of Benjamin dwelt after the captivity (Nehemiah 11:31-33)
 gittaim | | Gittaim | * | + |
 zeboim-b | Zeboim | Zeboim | * | P | Where some of the children of Benjamin dwelt (Nehemiah 11:34)
 neballat | Neballat | Neballat | * | P | Where some of the children of Benjamin dwelt (Nehemiah 11:34)
@@ -588,7 +588,7 @@ darius-n | Darius | Darius | * | M | "Darius the Persian", unto whose reign the 
 persians | Persian | Persian | * | G | "Darius the Persian" (Nehemiah 12:22)
 jozadak | | Jozadak | * | + |
 netophathite | | Netophathi | * | + |
-gilgal | | Gilgal | * | + |
+gilgal-n | Gilgal | Gilgal | 12:29 | P | "The house of Gilgal", whence the singers gathered for the dedication of the wall (Nehemiah 12:29)
 hoshaiah | Hoshaiah | Hoshaiah | * | M | Who went after the first company that gave thanks upon the wall, with half of the princes of Judah (Nehemiah 12:31-32)
 michaiah-z | Michaiah | Michaiah | 12:35 | M | The son of Zaccur, father of Mattaniah, of the line of Asaph (Nehemiah 12:35)
 michaiah-41 | Michaiah | Michaiah | 12:41 | M | One of the priests with trumpets at the dedication of the wall (Nehemiah 12:41)

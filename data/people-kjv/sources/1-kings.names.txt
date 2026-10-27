@@ -225,7 +225,7 @@ ijon | Ijon | Ijon | * | P | Smitten by Ben-hadad's captains (1 Kings 15:20)
 abel-beth-maachah | Abel-beth-maachah | Abel-beth-maachah | * | P | Smitten by Ben-hadad's captains (1 Kings 15:20)
 cinneroth | Cinneroth | Cinneroth | * | P | Smitten by Ben-hadad's captains (1 Kings 15:20)
 geba | | Geba | * | + |
-mizpah | | Mizpah | * | + |
+mizpah-b | | Mizpah | 15:22 | + |
 gibbethon | | Gibbethon | * | + |
 jehu-h | Jehu | Jehu | 16:1,16:7,16:12 | M | The son of Hanani, by whom the word of the Lord came against Baasha (1 Kings 16:1, 16:7, 16:12)
 jehu | Jehu | Jehu | 19:16,19:17 | M | The son of Nimshi, whom Elijah was sent to anoint king over Israel (1 Kings 19:16-17)
@@ -264,7 +264,7 @@ nimshi | Nimshi | Nimshi | * | M | The father of Jehu (1 Kings 19:16)
 elisha | Elisha | Elisha | * | M | The son of Shaphat of Abel-meholah, anointed to be prophet in Elijah's room; he left the oxen and ministered unto him (1 Kings 19:16-21)
 shaphat-e | Shaphat | Shaphat | * | M | Of Abel-meholah, the father of Elisha (1 Kings 19:16, 19:19)
 syrians | | Syrians | * | + |
-aphek | | Aphek | * | + |
+aphek-s | Aphek | Aphek | 20:26,20:30 | P | Whither Ben-hadad went up to fight against Israel; a wall fell there upon twenty and seven thousand of the Syrians (1 Kings 20:26-30)
 naboth | Naboth | Naboth | * | M | The Jezreelite, whose vineyard Ahab coveted; Jezebel had him stoned (1 Kings 21:1-19)
 jezreelitess | | Jezreelite | * | + |
 belial | | Belial | * | + |

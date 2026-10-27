@@ -52,11 +52,11 @@ caphtor | Caphtor | Caphtor | * | P | Whence the Caphtorims came forth (Deuteron
 arnon | | Arnon | * | + |
 kedemoth | Kedemoth | Kedemoth | * | P | The wilderness from which Moses sent messengers to Sihon (Deuteronomy 2:26)
 jahaz | | Jahaz | * | + |
-aroer | | Aroer | * | + |
+aroer-a | Aroer | Aroer | 2:36,3:12,4:48 | P | "Aroer, which is by the brink of the river of Arnon", whence Sihon ruled; Reuben's coast began there (Deuteronomy 2:36, 4:48; Joshua 12:2, 13:9, 13:16)
 gilead | | Gilead | * | + |
 jabbok | | Jabbok | * | + |
 argob | Argob | Argob | * | P | The region of threescore cities, the kingdom of Og in Bashan (Deuteronomy 3:4, 3:13-14)
-hermon | Hermon | Hermon | * | P | The mount, which the Sidonians call Sirion and the Amorites call Shenir (Deuteronomy 3:8-9)
+hermon | Hermon | Hermon | * | P | The mount, which the Sidonians call Sirion and the Amorites call Shenir; "mount Sion, which is Hermon" (Deuteronomy 3:8-9, 4:48)
 sidonians | Sidonians | Sidonians | * | G | They call Hermon Sirion (Deuteronomy 3:9)
 sirion | Sirion | Sirion | * | P | The Sidonians' name for Hermon (Deuteronomy 3:9)
 shenir | Shenir | Shenir | * | P | The Amorites' name for Hermon (Deuteronomy 3:9)
@@ -79,7 +79,7 @@ bezer | Bezer | Bezer | * | P | A city of refuge in the wilderness, of the Reube
 ramoth | Ramoth | Ramoth | * | P | A city of refuge in Gilead, of the Gadites (Deuteronomy 4:43)
 golan | Golan | Golan | * | P | A city of refuge in Bashan, of the Manassites (Deuteronomy 4:43)
 manassites | Manassites | Manassites | * | G | The tribe of Manasseh (Deuteronomy 4:43)
-sion-h | Sion | Sion | * | P | Mount Sion, which is Hermon (Deuteronomy 4:48)
+hermon | | Sion | * | + |
 massah | | Massah | * | + |
 pharaoh-e | | Pharaoh | * | + |
 hittites | | Hittites | * | + |
@@ -104,7 +104,7 @@ eliab-r | | Eliab | * | + |
 reuben | | Reuben | * | + |
 gerizim | Gerizim | Gerizim | * | P | The mount of blessing (Deuteronomy 11:29, 27:12)
 ebal-mount | Ebal | Ebal | * | P | The mount of cursing, where the stones of the law were set up (Deuteronomy 11:29, 27:4, 27:13)
-gilgal | Gilgal | Gilgal | * | P | Over against which the Canaanites dwell, beside the plains of Moreh (Deuteronomy 11:30)
+gilgal-d | Gilgal | Gilgal | * | P | Near mount Gerizim and mount Ebal: "the Canaanites, which dwell in the champaign over against Gilgal, beside the plains of Moreh" (Deuteronomy 11:29-30)
 moreh | | Moreh | * | + |
 levites | | Levite;Levites | * | + |
 belial | Belial | Belial | * | X | "the children of Belial" (Deuteronomy 13:13); not a person in People
@@ -136,7 +136,7 @@ admah | | Admah | * | + |
 zeboiim | | Zeboim | * | + |
 adam | | Adam | * | + |
 abarim | | Abarim | * | + |
-nebo | | Nebo | * | + |
+nebo-m | Nebo | Nebo | 32:49,34:1 | P | "Mount Nebo, which is in the land of Moab, that is over against Jericho", whence Moses saw the land (Deuteronomy 32:49, 34:1)
 jericho | | Jericho | * | + |
 canaan-land | | Canaan | * | + |
 hor | | Hor | * | + |
