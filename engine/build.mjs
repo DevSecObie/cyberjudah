@@ -1,5 +1,5 @@
 import { validatePeople, personPicture } from "./people-validation.mjs";
-import { descendantsOf } from "./people-lines.mjs";
+import { descendantsOf, validateLines } from "./people-lines.mjs";
 import { validatePlaces } from "./places-validation.mjs";
 
 import { correctedClass, classCatalog, loadClassBroadcasts } from "./class-metadata.mjs";
@@ -66,7 +66,7 @@ for (const n of [...classNotes, ...captainNotes]) if (!n.collection) n.collectio
 // the class notes that read or cite a verse naming them.
 const peopleFile = path.join(ROOT, "data", "people", "people.json");
 const peopleDoc = fs.existsSync(peopleFile) ? JSON.parse(fs.readFileSync(peopleFile, "utf8")) : { people: [] };
-const peopleProblems = validatePeople(peopleDoc);
+const peopleProblems = [...validatePeople(peopleDoc), ...validateLines(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") })];
 if (peopleProblems.length) throw new Error(peopleProblems.join("\n"));
 const personById = new Map(peopleDoc.people.map((p) => [p.id, p]));
 const namedIn = new Map(); // "slug|ch" -> { verse: [id] }

@@ -30,10 +30,10 @@ export function validateLines(peopleDoc, { bibleDir }) {
       }
     }
   }
-  const up = (p) => [...p.father, ...p.mother, ...(p.line ?? []).map((e) => e.id)];
+  const lineIds = (p) => (Array.isArray(p.line) ? p.line : []).filter((e) => e?.id !== undefined).map((e) => e.id);
+  const up = (p) => [...p.father, ...p.mother, ...lineIds(p)];
   for (const p of peopleDoc.people) {
-    if (!p.line?.length) continue;
-    const stack = (p.line ?? []).map((e) => e.id), seen = new Set();
+    const stack = lineIds(p), seen = new Set();
     while (stack.length) {
       const id = stack.pop();
       if (id === p.id) { problems.push(`${p.id}: line leads back to the person`); break; }

@@ -59,6 +59,16 @@ test("the JSON the front ends read is served", async () => {
   assert.equal(api.downloads.vault, "/downloads/vault.zip");
 });
 
+test("people records carry their lines and descendants, with the verses", async () => {
+  const people = JSON.parse(fs.readFileSync(path.join(root, "data/people/people.json"))).people;
+  const pick = (list) => list.map(({ id, verses }) => ({ id, verses })).sort((a, b) => a.id.localeCompare(b.id));
+  const mattathias = await (await get("/api/people/mattathias-1ma-2-1.json")).json();
+  assert.deepEqual(pick(mattathias.line), pick(people.find((p) => p.id === "mattathias-1ma-2-1").line));
+  const jehoiarib = await (await get("/api/people/jehoiarib-1ch-24-7.json")).json();
+  const expected = people.flatMap((p) => (p.line ?? []).filter((e) => e.id === "jehoiarib-1ch-24-7").map((e) => ({ id: p.id, verses: e.verses })));
+  assert.deepEqual(pick(jehoiarib.descendants), pick(expected));
+});
+
 test("the data Worker packages successfully without deploying", () => {
   const output = execFileSync(process.execPath, [
     path.join(path.dirname(requireSite.resolve("wrangler/package.json")), "bin/wrangler.js"), "deploy", "--dry-run",

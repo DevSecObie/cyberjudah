@@ -1,9 +1,10 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
+import { fileURLToPath } from 'node:url';
 import { validateLines, descendantsOf } from './people-lines.mjs';
 const doc = JSON.parse(fs.readFileSync(new URL('../data/people/people.json', import.meta.url)));
-const bibleDir = new URL('../data/bible', import.meta.url).pathname;
+const bibleDir = fileURLToPath(new URL('../data/bible', import.meta.url));
 const byId = new Map(doc.people.map((p) => [p.id, p]));
 
 test('every line in the catalog names a forefather its verses name', () => assert.deepEqual(validateLines(doc, { bibleDir }), []));
