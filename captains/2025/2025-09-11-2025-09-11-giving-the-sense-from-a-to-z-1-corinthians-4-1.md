@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 4:1"
 slug: "2025/2025-09-11-giving-the-sense-from-a-to-z-1-corinthians-4-1"
 date: "2025-09-11"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-09-11"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-09-11 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-09-11 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Cor 4](/bible/1-corinthians/4) · [Matt 13](/bible/matthew/13)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "the-word"]
 
 ## Introduction
 
-*[[2:34](https://www.youtube.com/watch?v=qOOJj7k1f3M&t=154s)]* Shalom. Most High Christ bless. Most High Christ bless y'all. Welcome to another edition of Giving the Sense from A to Z. All right. I'm Captain Mattathias and I got my reader with me, Officer Azariah, mighty prophet. So, Captain Gedaliah went over, he finished 1 Corinthians chapter 3 yesterday. We're going to pick up with 1 Corinthians chapter 4 today and proceed with giving the sense. So, just to do a verbal recap, chapter 3 was going into some of the divisions that was going on with the Corinthians, the pride that they had, thinking carnally, oh I learn from this person, I learn from that person, and it was all about the building up of the nation of Israel. All right? That's why Paul said that we are laborers together. That's why he said that we have to build on a foundation of Christ, and everything from Christ is given to us the Israelites. All right? Not all nations. They're not getting nothing except for what's coming. All right?
+*[[2:34](https://www.youtube.com/watch?v=qOOJj7k1f3M&t=154s)]* Shalom. Most High Christ bless. Most High Christ bless y'all. Welcome to another edition of Giving the Sense from A to Z. All right. I'm Captain Matthew and I got my reader with me, Officer Azariah, mighty prophet. So, Captain Gedaliah went over, he finished 1 Corinthians chapter 3 yesterday. We're going to pick up with 1 Corinthians chapter 4 today and proceed with giving the sense. So, just to do a verbal recap, chapter 3 was going into some of the divisions that was going on with the Corinthians, the pride that they had, thinking carnally, oh I learn from this person, I learn from that person, and it was all about the building up of the nation of Israel. All right? That's why Paul said that we are laborers together. That's why he said that we have to build on a foundation of Christ, and everything from Christ is given to us the Israelites. All right? Not all nations. They're not getting nothing except for what's coming. All right?
 
 ## Scriptures Opened
 

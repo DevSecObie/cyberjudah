@@ -3,7 +3,7 @@ title: "Bitterness: The Hidden Leaven From Cain To Esau"
 slug: "2026/2026-04-18-bitterness-the-hidden-leaven-from-cain-to-esau"
 date: "2026-04-18"
 description: "IUIC in the ClassRoom · 2026-04-18"
-teacher: "Captain Mattathias"
+teacher: "Captain Matt"
 tags: ["IUIC in the ClassRoom", "bitterness", "edom-esau", "mercy", "passover-feasts", "the-body"]
 ---
 
@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "bitterness", "edom-esau", "mercy", "passover-fe
 
 ## Introduction
 
-Happy Passover. Happy Sabbath. All praises to the Most High. Captain Mattathias is teaching with the island congregation, joined at the table by Captain Select Micah, Officer Matt, Officer Malachi, and Officer Caleb. The class opens with Psalms 30 read in full and prayer: this week of Passover we celebrate the memorial of our enemies being destroyed; continue to purge us of our impurities and the bitterness, the envy, the hatred, and malice, and any manner of uncleanness.
+Happy Passover. Happy Sabbath. All praises to the Most High. Captain Matt is teaching with the island congregation, joined at the table by Captain Select Micah, Officer Matt, Officer Malachi, and Officer Caleb. The class opens with Psalms 30 read in full and prayer: this week of Passover we celebrate the memorial of our enemies being destroyed; continue to purge us of our impurities and the bitterness, the envy, the hatred, and malice, and any manner of uncleanness.
 
 Today's class: Bitterness, the hidden leaven from Cain to Esau. The motivation for the class: coming down to the islands, the Lord revealed that the spirit of bitterness is here, and the deacon did not get a chance to get into his class yesterday, but his topic was going into the same thing. When classes go out you will see the same talking points from the 9am class and what is going on during the week, and these things are not rehearsed.
 
@@ -735,7 +735,7 @@ Examine yourself, whether you are bitter toward your wife, toward the leadership
 
 ## Announcements & References
 
-- The class was broadcast with the island congregation during the week of Passover, with Captain Mattathias teaching alongside Captain Select Micah and the officers.
+- The class was broadcast with the island congregation during the week of Passover, with Captain Matt teaching alongside Captain Select Micah and the officers.
 - The deacon's class on the same root-of-bitterness topic, planned for the previous evening, is referenced throughout; the same subject continues in the leaven classes brought this Passover season.
 - Reading shared in class on what bitterness is, its signs, its causes, and what it does spiritually and mentally (summarized above under the Psalms 19 section).
 

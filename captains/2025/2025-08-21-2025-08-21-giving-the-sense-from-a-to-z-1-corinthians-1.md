@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 1"
 slug: "2025/2025-08-21-giving-the-sense-from-a-to-z-1-corinthians-1"
 date: "2025-08-21"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-08-21"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-08-21 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-08-21 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Cor 1](/bible/1-corinthians/1) · [Acts 9](/bible/acts/9) · [John 15](/bible/john/15) · [Exod 31](/bible/exodus/31) · [Acts 18](/bible/acts/18) · [1 Cor 10](/bible/1-corinthians/10) · [Exod 24](/bible/exodus/24) · [Titus 2](/bible/titus/2) · [Luke 1](/bible/luke/1) · [Ps 130](/bible/psalms/130) · [Exod 19](/bible/exodus/19) · [Ps 135](/bible/psalms/135) · [John 14](/bible/john/14) · [Rev 19](/bible/revelation/19) · [Matt 1](/bible/matthew/1) · <i>and 8 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 
 ## Introduction
 
-*[[3:49](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=229s)]* Shalom. Shalom. Most high in Christ bless. Most high in Christ bless. Welcome back to another episode of Given the Sense. I'm your host, Captain Mattathias, and today we going over the book of Corinthians. And we're actually starting at chapter 1. But y'all already know how we do. You know the spirit behind the show and the inspiration. Before we get into 1 Corinthians chapter 1, let's go ahead and open up with Nehemiah chapter 8 and 8.
+*[[3:49](https://www.youtube.com/watch?v=m9iqAx0PJkk&t=229s)]* Shalom. Shalom. Most high in Christ bless. Most high in Christ bless. Welcome back to another episode of Given the Sense. I'm your host, Captain Matthew, and today we going over the book of Corinthians. And we're actually starting at chapter 1. But y'all already know how we do. You know the spirit behind the show and the inspiration. Before we get into 1 Corinthians chapter 1, let's go ahead and open up with Nehemiah chapter 8 and 8.
 
 ## Scriptures Opened
 

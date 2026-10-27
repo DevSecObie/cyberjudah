@@ -2,7 +2,7 @@
 title: "Israel Called Gentiles, Strangers, Heathen & Saints"
 slug: "2026/2026-08-07-israel-called-gentiles-strangers-heathen-and-saints"
 date: "2026-08-07"
-teacher: "Captain Mattathias"
+teacher: "Captain Matt"
 description: "15 Minutes w/ The Captains · 2026-08-07"
 tags: ["15 Minutes w/ The Captains", "captivity", "idolatry", "mercy", "nations", "purpose"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "captivity", "idolatry", "mercy", "nations"
 
 ## Introduction
 
-Hey, shalom Israel. Most High in Christ bless. Captain Mattathias here with another 15 Minutes with the Captains.
+Hey, shalom Israel. Most High in Christ bless. Captain Matt here with another 15 Minutes with the Captains.
 
 **All right, today's topic is Israel called Gentiles, strangers, heathen, and saints.**
 

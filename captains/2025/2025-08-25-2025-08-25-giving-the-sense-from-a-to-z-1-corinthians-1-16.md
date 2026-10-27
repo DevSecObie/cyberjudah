@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 
 ## Introduction
 
-*[[4:56](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=296s)]* Hey, Shalom family. Most high in Christ bless. Another episode of giving a sense from A to Z. I am your teacher today, Captain Mattathias. All praise to the father. We are in the book of first Corinthians today, right? 1 Corinthians chapter 1 and verse 16. Captain Mattathias went over this last week. So I'm going to try to pick up where he left off and do a little refresher. So let's do this. Who's reading for me? All right. You going to stay with me? I need you to pay attention. I need you to stay with me. All right. Give me verse 16. We'll start right there.
+*[[4:56](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=296s)]* Hey, Shalom family. Most high in Christ bless. Another episode of giving a sense from A to Z. I am your teacher today, Captain Mattathias. All praise to the father. We are in the book of first Corinthians today, right? 1 Corinthians chapter 1 and verse 16. Captain Matthew went over this last week. So I'm going to try to pick up where he left off and do a little refresher. So let's do this. Who's reading for me? All right. You going to stay with me? I need you to pay attention. I need you to stay with me. All right. Give me verse 16. We'll start right there.
 
 ## Scriptures Opened
 

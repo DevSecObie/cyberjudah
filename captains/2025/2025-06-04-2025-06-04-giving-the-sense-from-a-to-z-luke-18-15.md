@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 18:15"
 slug: "2025/2025-06-04-giving-the-sense-from-a-to-z-luke-18-15"
 date: "2025-06-04"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-06-04"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-06-04 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-06-04 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 18](/bible/luke/18) · [Rev 3](/bible/revelation/3) · [Sir 31](/bible/sirach/31) · [Acts 4](/bible/acts/4) · [1 Cor 13](/bible/1-corinthians/13) · [1 Cor 4](/bible/1-corinthians/4) · [Matt 27](/bible/matthew/27) · [John 19](/bible/john/19) · [Ps 22](/bible/psalms/22) · [Isa 53](/bible/isaiah/53) · [Heb 9](/bible/hebrews/9)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 
 ## Introduction
 
-*[[1:28](https://www.youtube.com/watch?v=PsPg5BzShFA&t=88s)]* Most High and Christ bless Israel. Shalom. Welcome to another edition of giving the sense from A to Z. I'm Captain Mattathias and we going to get it started, all right? We going to get it started. All right. So, we are continuing in the book of Luke, the 18th chapter. We started with Luke 18 yesterday, and we're going to continue today. All right? First things first, we're going to get Nehemiah chapter 8 verse 8. So, Captain Josiah went over Luke 18 yesterday, verses 1 through 14, and I'm going to pick up at verse 15. So, ending off in the parable from verse 9 through 14, we have Christ giving the parable of the Pharisee and the publican. All right? And it was a parable of humility, which a lot of our people didn't have back then, and some of our people don't have today. It is what it is. We don't have that today because it's a lot going on when it comes to the knowledge that we gain. We gain knowledge, and it's like, "Oh, well, I know this. I know that. I know this. I know that." And then, some of us refuse to humble ourselves the things that we don't know or the things that we may have to change about ourselves.
+*[[1:28](https://www.youtube.com/watch?v=PsPg5BzShFA&t=88s)]* Most High and Christ bless Israel. Shalom. Welcome to another edition of giving the sense from A to Z. I'm Captain Matthew and we going to get it started, all right? We going to get it started. All right. So, we are continuing in the book of Luke, the 18th chapter. We started with Luke 18 yesterday, and we're going to continue today. All right? First things first, we're going to get Nehemiah chapter 8 verse 8. So, Captain Josiah went over Luke 18 yesterday, verses 1 through 14, and I'm going to pick up at verse 15. So, ending off in the parable from verse 9 through 14, we have Christ giving the parable of the Pharisee and the publican. All right? And it was a parable of humility, which a lot of our people didn't have back then, and some of our people don't have today. It is what it is. We don't have that today because it's a lot going on when it comes to the knowledge that we gain. We gain knowledge, and it's like, "Oh, well, I know this. I know that. I know this. I know that." And then, some of us refuse to humble ourselves the things that we don't know or the things that we may have to change about ourselves.
 
 ## Scriptures Opened
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 7:29"
 slug: "2025/2025-11-18-giving-the-sense-from-a-to-z-1-corinthians-7-29"
 date: "2025-11-18"
-teacher: "Captain Mattathias"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-11-18"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-11-18 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-11-18 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [1 Cor 7](/bible/1-corinthians/7) · [Matt 20](/bible/matthew/20) · [Luke 16](/bible/luke/16) · [1 Tim 5](/bible/1-timothy/5) · [Sir 7](/bible/sirach/7) · [Titus 2](/bible/titus/2)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "women"]
 
 ## Introduction
 
-*[[3:01](https://www.youtube.com/watch?v=RbO2eiX7Isc&t=181s)]* Shalom Israel. Most High in Christ bless. Most High in Christ bless. Captain Mattathias here. All praise to the Most High. Welcome to another edition of Giving the Sense from A to Z, and we're going to jump right into it. Captain Horeb, he did 1 Corinthians 7 yesterday. Well, the last time we did it, I think it was yesterday, but he stopped at verse 28. All right. This portion of the chapter goes heavily into marriage, which is definitely a topic that is needed in Israel as a whole. All praise to the Most High, our leadership has instructed us in the ways of teaching marriage because marriage is important. All right. So, that being said, this is Nehemiah chapter 8 and verse 8. It says, “So they read in the book of the law of God distinctly, and gave the sense, and caused them to understand the reading.” All right. So we read in the book of the law of God and we give the sense so that we know how to get the people to understand the reading. All right? And it's done precept upon precept, line upon line, here a little, there a little. No hermeneutics, eisegesis, exegesis needed. All right. So this is 1 Corinthians chapter 7 and I'mma start at verse 28 again.
+*[[3:01](https://www.youtube.com/watch?v=RbO2eiX7Isc&t=181s)]* Shalom Israel. Most High in Christ bless. Most High in Christ bless. Captain Matt here. All praise to the Most High. Welcome to another edition of Giving the Sense from A to Z, and we're going to jump right into it. Captain Horeb, he did 1 Corinthians 7 yesterday. Well, the last time we did it, I think it was yesterday, but he stopped at verse 28. All right. This portion of the chapter goes heavily into marriage, which is definitely a topic that is needed in Israel as a whole. All praise to the Most High, our leadership has instructed us in the ways of teaching marriage because marriage is important. All right. So, that being said, this is Nehemiah chapter 8 and verse 8. It says, “So they read in the book of the law of God distinctly, and gave the sense, and caused them to understand the reading.” All right. So we read in the book of the law of God and we give the sense so that we know how to get the people to understand the reading. All right? And it's done precept upon precept, line upon line, here a little, there a little. No hermeneutics, eisegesis, exegesis needed. All right. So this is 1 Corinthians chapter 7 and I'mma start at verse 28 again.
 
 ## Scriptures Opened
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 21:25"
 slug: "2025/2025-06-23-giving-the-sense-from-a-to-z-luke-21-25"
 date: "2025-06-23"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-06-23"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "prophecy", "repentance"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-06-23 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-06-23 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 21](/bible/luke/21) · [Song 1](/bible/song-of-solomon/1) · [Jer 14](/bible/jeremiah/14) · [2 Pet 3](/bible/2-peter/3) · [Rev 7](/bible/revelation/7) · [Luke 1](/bible/luke/1) · [Zech 12](/bible/zechariah/12) · [2 Esdras 13](/bible/2-esdras/13) · [Ps 83](/bible/psalms/83) · [John 14](/bible/john/14) · [Acts 24](/bible/acts/24) · [Ps 91](/bible/psalms/91) · [Wis 5](/bible/wisdom-of-solomon/5)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "faith", "prophecy", "repentance"]
 
 ## Introduction
 
-*[[1:17](https://www.youtube.com/watch?v=D9_-lHlA25E&t=77s)]* Hey, shalom Israel. Most High in Christ, blessed. Welcome to another giving the sense from A to Z. I'm Captain Mattathias. All praise to the Most High. I'mma keep it the solid hour so I don't affect the next teacher coming up. So, last time we were on Luke the 21st chapter. We got down to the 24th verse. We're going to pick up at verse 25.
+*[[1:17](https://www.youtube.com/watch?v=D9_-lHlA25E&t=77s)]* Hey, shalom Israel. Most High in Christ, blessed. Welcome to another giving the sense from A to Z. I'm Captain Matthew. All praise to the Most High. I'mma keep it the solid hour so I don't affect the next teacher coming up. So, last time we were on Luke the 21st chapter. We got down to the 24th verse. We're going to pick up at verse 25.
 
 ## In The News
 

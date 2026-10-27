@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 1"
 slug: "2026/2026-02-26-giving-the-sense-from-a-to-z-2-corinthians-1"
 date: "2026-02-26"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2026-02-26"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-02-26 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2026-02-26 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Macc 3](/bible/1-maccabees/3) · [2 Macc 6](/bible/2-maccabees/6) · [Rev 3](/bible/revelation/3) · [2 Cor 1](/bible/2-corinthians/1) · [Acts 18](/bible/acts/18) · [Phil 1](/bible/philippians/1) · [Acts 19](/bible/acts/19) · [2 Thess 2](/bible/2-thessalonians/2) · [Luke 18](/bible/luke/18)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prayer"]
 
 ## Introduction
 
-*[[1:23](https://www.youtube.com/watch?v=9wgFwseOePM&t=83s)]* Hey, shalom Israel. Most high in Christ bless. Welcome back to another episode of Giving the Sense. I'm your host, Captain Mattathias. Today we'll be covering 2 Corinthians chapter 1. Y'all already know how we do. Before we start the show, you know the scripture, the inspiration behind this show. So, let's go ahead open up with Nehemiah chapter 8:8.
+*[[1:23](https://www.youtube.com/watch?v=9wgFwseOePM&t=83s)]* Hey, shalom Israel. Most high in Christ bless. Welcome back to another episode of Giving the Sense. I'm your host, Captain Matthew. Today we'll be covering 2 Corinthians chapter 1. Y'all already know how we do. Before we start the show, you know the scripture, the inspiration behind this show. So, let's go ahead open up with Nehemiah chapter 8:8.
 
 ## Scriptures Opened
 

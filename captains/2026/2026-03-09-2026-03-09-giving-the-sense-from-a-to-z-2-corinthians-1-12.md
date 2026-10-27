@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 1:12"
 slug: "2026/2026-03-09-giving-the-sense-from-a-to-z-2-corinthians-1-12"
 date: "2026-03-09"
-teacher: "Captain Mattathias"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2026-03-09"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-03-09 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2026-03-09 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Acts 9](/bible/acts/9) · [2 Cor 1](/bible/2-corinthians/1) · [1 Cor 2](/bible/1-corinthians/2) · [1 Cor 1](/bible/1-corinthians/1) · [Acts 4](/bible/acts/4) · [1 Cor 3](/bible/1-corinthians/3) · [2 Cor 5](/bible/2-corinthians/5) · [1 Cor 16](/bible/1-corinthians/16) · [Acts 15](/bible/acts/15) · [Gal 3](/bible/galatians/3) · [Gen 22](/bible/genesis/22) · [John 15](/bible/john/15) · [Isa 8](/bible/isaiah/8) · [Eph 4](/bible/ephesians/4) · [Eph 1](/bible/ephesians/1) · <i>and 7 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 
 ## Introduction
 
-*[[2:04](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=124s)]* All praises. All praises. Shalom. I'm Captain Mattathias. Today, we are discussing 2 Corinthians. We did 1 Corinthians the entire book, so go back and watch it. And now we're on the book of 2 Corinthians. All praises to the Most High. And this is another edition of Giving Sense. So, we're going to start off like I always do. Nehemiah chapter 8.
+*[[2:04](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=124s)]* All praises. All praises. Shalom. I'm Captain Matt. Today, we are discussing 2 Corinthians. We did 1 Corinthians the entire book, so go back and watch it. And now we're on the book of 2 Corinthians. All praises to the Most High. And this is another edition of Giving Sense. So, we're going to start off like I always do. Nehemiah chapter 8.
 
 ## Scriptures Opened
 
@@ -33,7 +33,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 
 > <sup>[15](/bible/acts/9#v15)</sup> But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
 
-- Recap: So, Captain Mattathias in DC, he went over 1 Corinthians chapter 1. He stopped at verse 11 and I'm going to continue on in chapter 1 as well. All right? So, just to recap from verse 8, he was letting us know about the troubles that he had in Asia. When you read the book of Acts, you see all of the missions that Paul went on, you see how he traveled, how he taught the word, how the people responded. Some people loved it, some people didn't. You see all of the things that he had to go through as a leader and as an apostle. All right? Why? Because that was told to him by Christ himself. Matter of fact, let me just get that so that we are not confused. We're going to the book of Acts chapter 9 verse 15 to show and prove that Paul was called by Christ to be an apostle to teach the word to the scattered Israelites who were called Gentiles. All right?
+- Recap: So, Captain Matt in DC, he went over 1 Corinthians chapter 1. He stopped at verse 11 and I'm going to continue on in chapter 1 as well. All right? So, just to recap from verse 8, he was letting us know about the troubles that he had in Asia. When you read the book of Acts, you see all of the missions that Paul went on, you see how he traveled, how he taught the word, how the people responded. Some people loved it, some people didn't. You see all of the things that he had to go through as a leader and as an apostle. All right? Why? Because that was told to him by Christ himself. Matter of fact, let me just get that so that we are not confused. We're going to the book of Acts chapter 9 verse 15 to show and prove that Paul was called by Christ to be an apostle to teach the word to the scattered Israelites who were called Gentiles. All right?
 
 - For I will show him how great things he must suffer for my name's sake: So, when you go to 2 Corinthians chapter 1 and he says that he had a lot of trouble in Asia, well, that's the things that Paul had to go through in order for Christ. These are the things that we have to go through if we really believe in Christ. That's the number one thing that we have to understand. Trouble is going to come with the teaching of the gospel. All right? Everybody's not going to love you. Everybody's not going to accept it, but this is the lot that we've been tasked with. All right?
 
@@ -459,7 +459,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]
 
 ## In Closing
 
-*[[57:19](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=3439s)]* So, all praise to the Most High. Once again, I'm Captain Mattathias. This has been Giving The Sense from A to Z. We finished out 1 Corinthians the 1st chapter. The next teacher will go over 2 Corinthians chapter 2. So, y'all stay tuned. Stay in the spirit. Most High and Christ bless.
+*[[57:19](https://www.youtube.com/watch?v=F2xbCrcvy2M&t=3439s)]* So, all praise to the Most High. Once again, I'm Captain Matt. This has been Giving The Sense from A to Z. We finished out 1 Corinthians the 1st chapter. The next teacher will go over 2 Corinthians chapter 2. So, y'all stay tuned. Stay in the spirit. Most High and Christ bless.
 
 ---
 

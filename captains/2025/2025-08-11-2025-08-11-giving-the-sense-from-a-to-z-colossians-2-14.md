@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 
 ## Introduction
 
-*[[1:58](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=118s)]* All praise to the Most High. Hey, we are back. We are back with another episode of Giving the Sense from A to Z. All right. I am today's teacher, Captain Mattathias. I believe Captain Mattathias, I believe he left off with the book of Colossians, chapter 2:13. So yeah, let's get into it. Who's reading? (Officer James, sir.) All right. Sounds good. All praise to the Most High. So, let's do it. Colossians chapter 2. Now, I know we've been on Colossians probably like the last three or four episodes. But I know there's always those who are new out there.
+*[[1:58](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=118s)]* All praise to the Most High. Hey, we are back. We are back with another episode of Giving the Sense from A to Z. All right. I am today's teacher, Captain Mattathias. I believe Captain Matthew, I believe he left off with the book of Colossians, chapter 2:13. So yeah, let's get into it. Who's reading? (Officer James, sir.) All right. Sounds good. All praise to the Most High. So, let's do it. Colossians chapter 2. Now, I know we've been on Colossians probably like the last three or four episodes. But I know there's always those who are new out there.
 
 ## Scriptures Opened
 

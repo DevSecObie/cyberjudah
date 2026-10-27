@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 7:10"
 slug: "2025/2025-11-05-giving-the-sense-from-a-to-z-1-corinthians-7-10"
 date: "2025-11-05"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-11-05"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "purpose", "the-law", "women"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-11-05 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-11-05 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [1 Cor 7](/bible/1-corinthians/7)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "purpose", "the
 
 ## Introduction
 
-*[[2:01](https://www.youtube.com/watch?v=90aeybkudWk&t=121s)]* Hey, shalom Israel. Most High and Christ bless. Good to be here. Captain Mattathias. All praises to the Most High. Good to be here. Good to see y'all brothers and sisters. Lord's will y'all being prepared and getting prepared for this here new moon tonight. All right? Captain Josiah went over 1 Corinthians chapter 7 verses 1 through 9 yesterday. I'mma pick up where he left off and I'mma start at verse 10. All right? So 1 Corinthians chapter 7 is what I would like to call the marriage chapter. All right? The marriage chapter because it's heavily to do with marriage. All right? It's heavily to do with marriage and it's good because marriage is the key thing that is going to help us build a nation. Aside from the foundation being Christ, the foundation has to be marriage, family. All right? And that's what our elders, our leaders here at Israel United in Christ, they constantly teach us about marriage over and over, over and over, over and over. Why? Because marriage is the thing that is going to help to put us where we need to be. All right?
+*[[2:01](https://www.youtube.com/watch?v=90aeybkudWk&t=121s)]* Hey, shalom Israel. Most High and Christ bless. Good to be here. Captain Matthew. All praises to the Most High. Good to be here. Good to see y'all brothers and sisters. Lord's will y'all being prepared and getting prepared for this here new moon tonight. All right? Captain Josiah went over 1 Corinthians chapter 7 verses 1 through 9 yesterday. I'mma pick up where he left off and I'mma start at verse 10. All right? So 1 Corinthians chapter 7 is what I would like to call the marriage chapter. All right? The marriage chapter because it's heavily to do with marriage. All right? It's heavily to do with marriage and it's good because marriage is the key thing that is going to help us build a nation. Aside from the foundation being Christ, the foundation has to be marriage, family. All right? And that's what our elders, our leaders here at Israel United in Christ, they constantly teach us about marriage over and over, over and over, over and over. Why? Because marriage is the thing that is going to help to put us where we need to be. All right?
 
 ## Scriptures Opened
 

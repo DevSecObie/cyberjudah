@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 22:25"
 slug: "2025/2025-07-02-giving-the-sense-from-a-to-z-luke-22-25"
 date: "2025-07-02"
-teacher: "Captain Mattathias"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-07-02"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-07-02 · Captain Mattathias</p>
+<p class="taught">Giving The Sense From A to Z · 2025-07-02 · Captain Matthew</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 22](/bible/luke/22) · [1 Pet 5](/bible/1-peter/5) · [Gal 4](/bible/galatians/4) · [Rom 8](/bible/romans/8) · [Eph 6](/bible/ephesians/6) · [Isa 53](/bible/isaiah/53) · [John 11](/bible/john/11)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-word"]
 
 ## Introduction
 
-*[[1:13](https://www.youtube.com/watch?v=Vwj8i-cjur8&t=73s)]* Hey, shalom Israel. Most high Christ bless. Most high Christ bless y'all. Shalom. Welcome to another edition of Giving the Sense from A to Z. I am Captain Mattathias. Most High Christ bless y'all. We going over the book of Luke, chapter 22 today. All right. So, Captain Josiah, he went over the first part of it. Let's see if we can't finish it out. It is a pretty long chapter. It is a pretty long chapter, but we almost finished with that. Lord's will we'll kickstart something else real soon. But let me start it off with the book of Nehemiah chapter 8 and verse 8.
+*[[1:13](https://www.youtube.com/watch?v=Vwj8i-cjur8&t=73s)]* Hey, shalom Israel. Most high Christ bless. Most high Christ bless y'all. Shalom. Welcome to another edition of Giving the Sense from A to Z. I am Captain Matthew. Most High Christ bless y'all. We going over the book of Luke, chapter 22 today. All right. So, Captain Josiah, he went over the first part of it. Let's see if we can't finish it out. It is a pretty long chapter. It is a pretty long chapter, but we almost finished with that. Lord's will we'll kickstart something else real soon. But let me start it off with the book of Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 
