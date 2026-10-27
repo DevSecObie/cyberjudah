@@ -1,3 +1,1 @@
 - People rebuilt from the KJV: Joshua added (19 new people, 7 peoples, 323 places).
-- People links can now carry their evidence label and the exact source pages they were checked against (`| evidence | sources`), and `==` marks one person under two names. Othniel is linked as Caleb's younger brother (Joshua 15:17; Judges 1:13, 3:9), with the Jewish Encyclopedia pages that read it the same way.
-- Abiezer (Joshua 17:2) is linked as the same as Jeezer son of Gilead (Numbers 26:30), with the Jewish Encyclopedia page.
