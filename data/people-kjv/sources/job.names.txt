@@ -1,0 +1,29 @@
+# Job. key | Name | forms | verses | type | description
+uz-land | Uz | Uz | * | P | "The land of Uz", where Job dwelt (Job 1:1)
+job-u | Job | Job | * | M | A man in the land of Uz, "perfect and upright, and one that feared God, and eschewed evil"; the Lord tried him, and blessed his latter end more than his beginning (Job 1:1-22, 2:1-10, 42:1-17)
+satan | | Satan | * | + |
+sabeans | Sabeans | Sabeans | * | G | Who fell upon Job's oxen and asses and slew the servants (Job 1:15)
+chaldees | | Chaldeans | * | + |
+eliphaz-t | Eliphaz | Eliphaz | * | M | "Eliphaz the Temanite", one of Job's three friends; the Lord's wrath was kindled against him and his two friends (Job 2:11, 4:1, 15:1, 22:1, 42:7-9)
+temanites | Temanites | Temanite | * | G | "Eliphaz the Temanite" (Job 2:11, 4:1, 15:1, 22:1, 42:7, 42:9)
+bildad | Bildad | Bildad | * | M | "Bildad the Shuhite", one of Job's three friends (Job 2:11, 8:1, 18:1, 25:1, 42:9)
+shuhites | Shuhites | Shuhite | * | G | "Bildad the Shuhite" (Job 2:11, 8:1, 18:1, 25:1, 42:9)
+zophar | Zophar | Zophar | * | M | "Zophar the Naamathite", one of Job's three friends (Job 2:11, 11:1, 20:1, 42:9)
+naamathites | Naamathites | Naamathite | * | G | "Zophar the Naamathite" (Job 2:11, 11:1, 20:1, 42:9)
+tema | | Tema | * | + |
+sheba-land | | Sheba | * | + |
+arcturus | Arcturus | Arcturus | * | X | A star God made: "Canst thou ... guide Arcturus with his sons?" (Job 9:9, 38:32); not a person in People
+orion | Orion | Orion | * | X | Stars God made: "Canst thou ... loose the bands of Orion?" (Job 9:9, 38:31); not a person in People
+pleiades | Pleiades | Pleiades | * | X | Stars God made: "Canst thou bind the sweet influences of Pleiades?" (Job 9:9, 38:31); not a person in People
+mazzaroth | Mazzaroth | Mazzaroth | * | X | "Canst thou bring forth Mazzaroth in his season?" (Job 38:32); not a person in People
+ophir-place | | Ophir | * | + |
+ethiopia | | Ethiopia | * | + |
+adam | | Adam | * | + |
+elihu-b | Elihu | Elihu | * | M | The son of Barachel the Buzite, of the kindred of Ram; younger than Job's friends, he answered when they had ceased (Job 32:2-6, 34:1, 35:1, 36:1)
+barachel | Barachel | Barachel | * | M | The Buzite, father of Elihu (Job 32:2, 32:6)
+buzites | Buzites | Buzite | * | G | "Elihu the son of Barachel the Buzite" (Job 32:2, 32:6)
+ram-e | Ram | Ram | * | M | Of whose kindred was Elihu (Job 32:2)
+jordan | | Jordan | * | + |
+jemima | Jemima | Jemima | * | F | The first of the three daughters born to Job after his trial; "in all the land were no women found so fair as the daughters of Job" (Job 42:13-15)
+kezia | Kezia | Kezia | * | F | The second of the three daughters born to Job after his trial (Job 42:13-15)
+keren-happuch | Keren-happuch | Keren-happuch | * | F | The third of the three daughters born to Job after his trial (Job 42:13-15)
