@@ -57,8 +57,8 @@ export function descendantsOf(peopleDoc) {
 
 // How sure an identification or relationship is (Obie, 2026-10-27): what the KJV with Apocrypha says
 // comes first, then a clear parallel passage, then history; a different manuscript reading is a
-// variant; anything less is uncertain. The app shows the label beside the link.
-export const EVIDENCE = { scripture: 'Scripturally confirmed', parallel: 'Parallel identification', history: 'Historically identified', variant: 'Textual variant', uncertain: 'Identity uncertain' };
+// variant. Nothing is marked uncertain (Obie, 16:15Z): a link the text does not make is left out. The app shows the label beside the link.
+export const EVIDENCE = { scripture: 'Scripturally confirmed', parallel: 'Parallel identification', history: 'Historically identified', variant: 'Textual variant' };
 const says = (text, form) => new RegExp(`\\b${form.split(/[-\s]+/).map(escapeRegExp).join('[-–\\s]?')}\\b`).test(text);
 
 /** A person's other links: `same` (another record the text may mean), `priestly` (the priests'
@@ -76,7 +76,7 @@ export function validateLinks(peopleDoc, { bibleDir }) {
   };
   const evidence = (p, what, e) => {
     if (!(e.evidence in EVIDENCE)) { problems.push(`${p.id}: ${what} evidence must be one of ${Object.keys(EVIDENCE).join(', ')}`); return false; }
-    if ((e.evidence === 'history' || e.evidence === 'uncertain' || e.evidence === 'variant') && !(typeof e.note === 'string' && e.note.trim()) && !(e.verses ?? []).length) problems.push(`${p.id}: ${what} (${e.evidence}) needs a note or verses saying why`);
+    if ((e.evidence === 'history' || e.evidence === 'variant') && !(typeof e.note === 'string' && e.note.trim()) && !(e.verses ?? []).length) problems.push(`${p.id}: ${what} (${e.evidence}) needs a note or verses saying why`);
     if (e.sources !== undefined && (!Array.isArray(e.sources) || e.sources.some((x) => typeof x?.id !== 'string' || typeof x.locator !== 'string' || !x.locator.trim()))) problems.push(`${p.id}: ${what} sources need a catalog id and an exact locator (docs/library/historical-person-sources.md)`);
     return true;
   };
