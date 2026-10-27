@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: 2 Chronicles added (138 new people, 4 peoples, 19 places; Michaiah linked as Maachah, Athaliah to Ahab and Jehoram, with exact source pages). Phase 3 (Samuel to Chronicles) is complete.
