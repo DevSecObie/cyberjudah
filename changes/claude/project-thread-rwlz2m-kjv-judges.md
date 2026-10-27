@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Judges added (45 new people, 10 peoples, 61 places); Othniel's brother link now also cites Judges 1:13 and 3:9.
