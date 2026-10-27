@@ -1,0 +1,37 @@
+# Family links in Judges, each with the verse that states it (same format as genesis.links.txt).
+achsah < caleb | 1:12,1:15
+othniel < kenaz-o | 1:13,3:9,3:11
+othniel = achsah | 1:13
+othniel ~ caleb | 1:13,3:9 | "Othniel the son of Kenaz, Caleb's younger brother"
+joshua < nun | 2:8
+ehud < gera-e | 3:15
+ehud & benjamin | 3:15 | "a Benjamite"
+shamgar < anath | 3:31,5:6
+deborah-p = lapidoth | 4:4
+barak < abinoam | 4:6,4:12,5:1,5:12
+heber-k ^ hobab | 4:11 | "Heber the Kenite, which was of the children of Hobab"
+heber-k @ kenites | 4:11,4:17,5:24
+jael = heber-k | 4:17,4:21,5:24
+gideon < joash | 6:29,6:30,7:14,8:13,8:29,8:32
+joash @ abi-ezer | 6:11 | "Joash the Abi-ezrite"
+jether < gideon | 8:20
+abimelech-g < gideon | 8:31,9:1,9:28
+jotham < gideon | 9:5,9:57
+gaal < ebed | 9:26,9:28,9:30,9:31,9:35
+tola-j < puah-i | 10:1
+puah-i < dodo | 10:1
+tola-j & issachar | 10:1 | "a man of Issachar"
+jair-g @ gileadites-j | 10:3 | "Jair, a Gileadite"
+jephthah < gilead-j | 11:1
+jephthah @ gileadites-j | 11:1,11:40,12:7 | "Jephthah the Gileadite"
+elon-z & zebulun | 12:11,12:12 | "Elon, a Zebulonite"
+abdon-j < hillel | 12:13,12:15
+manoah & dan | 13:2 | "of the family of the Danites"
+samson < manoah | 16:31 | "the buryingplace of Manoah his father"
+jonathan < gershom-m | 18:30
+gershom-m < manasseh-g | 18:30 | "Jonathan, the son of Gershom, the son of Manasseh": the KJV reading, kept
+asherites ^ asher | 1:31,1:32
+danites ^ dan | 18:1,18:2 | "the tribe of the Danites"; "the children of Dan" (18:2)
+benjamites ^ benjamin | 20:35,20:36
+phinehas < eleazar | 20:28
+eleazar < aaron | 20:28
