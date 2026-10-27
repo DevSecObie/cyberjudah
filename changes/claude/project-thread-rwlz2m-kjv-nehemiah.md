@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Nehemiah added (367 new men, 1 woman, 3 groups, 16 places; the high-priest line Jeshua to Jaddua, with Johanan tied to Jonathan by Josephus; the Nehemiah 7 register matched to Ezra 2). Ezra's Beeroth now points to the Gibeonite city, and 1 Chronicles 9:12 links Jeroham to Pashur's line, since Nehemiah 11:12 names the generations between.

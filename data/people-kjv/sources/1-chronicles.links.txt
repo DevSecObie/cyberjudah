@@ -345,7 +345,7 @@ meshullam-9 < zadok-9 | 9:11
 zadok-9 < meraioth-9 | 9:11
 meraioth-9 < ahitub-9 | 9:11
 adaiah-p < jeroham-p | 9:12
-jeroham-p < pashur-m | 9:12
+jeroham-p ^ pashur-m | 9:12 | "the son of Pashur"; Nehemiah 11:12 gives Pelaliah, Amzi and Zechariah between them
 pashur-m < malchijah-p | 9:12
 maasiai < adiel-p | 9:12
 adiel-p < jahzerah | 9:12
