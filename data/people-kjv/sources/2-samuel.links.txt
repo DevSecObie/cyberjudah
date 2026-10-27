@@ -1,0 +1,118 @@
+# Family links in 2 Samuel, each with the verse that states it (same format as genesis.links.txt).
+ish-bosheth < saul-k | 2:8,2:10,2:12,4:8
+joab abishai asahel << zeruiah | 2:13,2:18 | "three sons of Zeruiah there, Joab, and Abishai, and Asahel"
+asahel ~ joab | 2:18,3:30 | "their brother Asahel"
+asahel ~ abishai | 2:18,3:30 | "their brother Asahel"
+amnon < david | 3:2,13:1
+amnon << ahinoam-j | 3:2
+chileab < david | 3:2,3:3
+chileab << abigail | 3:3
+absalom < david | 3:3,13:1
+absalom << maacah-t | 3:3
+maacah-t < talmai-g | 3:3
+talmai-g < ammihud-g | 13:37
+adonijah < david | 3:2,3:4
+adonijah << haggith | 3:4
+shephatiah < david | 3:2,3:4
+shephatiah << abital | 3:4
+ithream < david | 3:5
+ithream << eglah | 3:5
+david = eglah | 3:5 | "Eglah David's wife"
+saul-k = rizpah | 3:7,21:8 | "Saul had a concubine, whose name was Rizpah"
+rizpah < aiah | 3:7,21:8,21:10,21:11
+abner < ner | 2:8,2:12,3:23,3:25,3:28,3:37
+phalti = michal | 3:14,3:15 | "her husband ... Phaltiel the son of Laish"
+phalti < laish-m | 3:15
+baanah rechab < rimmon-b | 4:2,4:5,4:9
+rimmon-b @ beerothites | 4:2,4:5,4:9
+rimmon-b & benjamin | 4:2 | "of the children of Benjamin"
+mephibosheth < jonathan-s | 4:4,9:3,9:6,21:7
+mephibosheth ^ saul-k | 9:6,19:24 | "the son of Jonathan, the son of Saul"
+shammua-d shobab nathan-d solomon < david | 5:13,5:14 | "born unto him in Jerusalem"
+ibhar elishua nepheg-d japhia-d elishama-d eliada eliphalet < david | 5:13,5:15,5:16 | "born unto him in Jerusalem"
+uzzah ahio < abinadab-k | 6:3 | "Uzzah and Ahio, the sons of Abinadab"
+obed-edom @ gittites | 6:10,6:11
+hadadezer < rehob-h | 8:3,8:12
+joram < toi | 8:10 | "Toi sent Joram his son"
+jehoshaphat < ahilud | 8:16,20:24
+zadok < ahitub-z | 8:17
+ahimelech-a < abiathar | 8:17
+benaiah < jehoiada | 8:18,20:23,23:20,23:22
+micha < mephibosheth | 9:12
+machir-a < ammiel-l | 9:4,9:5,17:27
+hanun < nahash-h | 10:1,10:2 | "Hanun the son of Nahash"
+bath-sheba < eliam | 11:3
+uriah = bath-sheba | 11:3,11:26 | "the wife of Uriah the Hittite"
+uriah @ hittites | 11:3,11:6,11:17,11:21,11:24,12:9,12:10,23:39
+david = bath-sheba | 11:27,12:24 | "she became his wife"
+solomon << bath-sheba | 12:24
+jonadab < shimeah | 13:3,13:32
+shimeah ~ david | 13:3,13:32,21:21 | "Shimeah David's brother"
+tamar-d < david | 13:1,13:32 | "Absalom the son of David had a fair sister, whose name was Tamar"
+tamar-d ~ absalom | 13:1,13:4,13:20,13:22,13:32
+tamar-d ~ amnon | 13:2,13:5,13:6,13:7,13:8 | "his sister Tamar"
+tamar-a < absalom | 14:27
+ahithophel @ gilonite | 15:12,23:34
+ittai @ gittites | 15:19,15:22,18:2
+ahimaaz-z < zadok | 15:27,15:36,18:19,18:22,18:27 | "Ahimaaz thy son"
+jonathan-a < abiathar | 15:27,15:36 | "Jonathan the son of Abiathar"
+hushai @ archite | 15:32,16:16,17:5,17:14
+shimei-g < gera-s | 16:5,19:16,19:18
+shimei-g & benjamin | 19:16 | "a Benjamite"
+amasa < ithra | 17:25 | "Amasa was a man's son, whose name was Ithra"
+ithra = abigail-n | 17:25 | "that went in to Abigail"
+abigail-n < nahash-a | 17:25
+abigail-n ~ zeruiah | 17:25 | "sister to Zeruiah Joab's mother"
+shobi < nahash-r | 17:27
+barzillai @ gileadites-j | 17:27,19:31
+sheba-b < bichri | 20:1,20:2,20:6,20:7,20:10,20:13,20:21,20:22
+sheba-b & benjamin | 20:1 | "a Benjamite"
+ira-j @ jairite | 20:26
+armoni mephibosheth-r < saul-k | 21:8 | "whom she bare unto Saul"
+armoni mephibosheth-r << rizpah | 21:8
+adriel < barzillai-m | 21:8
+adriel @ meholathite | 21:8
+sibbechai @ hushathite | 21:18
+elhanan < jaare-oregim | 21:19
+elhanan @ beth-lehemite | 21:19
+goliath @ gittites | 21:19
+jonathan-sh < shimeah | 21:21 | "Jonathan the son of Shimea the brother of David"
+adino @ eznite | 23:8
+adino @ tachmonite | 23:8 | "The Tachmonite that sat in the seat ... the same was Adino the Eznite"
+eleazar-d < dodo-a | 23:9
+dodo-a @ ahohite | 23:9
+shammah-a < agee | 23:11
+agee @ hararite | 23:11
+asahel ~ joab | 23:24 | "Asahel the brother of Joab"
+elhanan-d < dodo-b | 23:24
+shammah-h elika @ harodite | 23:25
+helez @ paltite | 23:26
+ira-t < ikkesh | 23:26
+ikkesh @ tekoite | 23:26
+abiezer-a @ anethothite | 23:27
+mebunnai @ hushathite | 23:27
+zalmon-a @ ahohite | 23:28
+maharai @ netophathite | 23:28
+heleb < baanah-n | 23:29
+heleb @ netophathite | 23:29
+ittai-r < ribai | 23:29
+benaiah-p @ pirathonite | 23:30
+abi-albon @ arbathite | 23:31
+azmaveth @ barhumite | 23:31
+eliahba @ shaalbonite | 23:32
+jonathan-j ^ jashen | 23:32 | "of the sons of Jashen, Jonathan"
+shammah-r @ hararite | 23:33
+ahiam < sharar | 23:33
+sharar @ hararite | 23:33
+eliphelet < ahasbai | 23:34
+ahasbai @ maachathite | 23:34 | "the son of the Maachathite"
+eliam-g < ahithophel | 23:34
+hezrai @ carmelite | 23:35
+paarai @ arbite | 23:35
+igal-n < nathan-z | 23:36
+bani @ gadites | 23:36
+zelek @ ammon | 23:37
+naharai @ beerothites | 23:37
+ira-i gareb @ ithrite | 23:38
+araunah @ jebusite | 24:16,24:18
+ish-bosheth == ishui | 2:8 | Saul's son: "Ish-bosheth the son of Saul" (2 Samuel 2:8) is "Ishui" in the list of Saul's sons (1 Samuel 14:49); he alone of them outlived Gilboa (1 Samuel 31:2) | history | Jewish Encyclopedia (1901-1906) vol. 6 pp. 656-657, "Ish-bosheth": "as in I Sam. xiv. 49, by making some other substitution (\"Ishui\" ... for \"Ish-ba'al\")" <https://archive.org/details/cu31924091768238/page/n684/mode/1up>

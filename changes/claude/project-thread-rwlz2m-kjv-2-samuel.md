@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: 2 Samuel added (139 new people, 25 peoples, 33 places; Ish-bosheth linked as the same man as Ishui with its Jewish Encyclopedia page).

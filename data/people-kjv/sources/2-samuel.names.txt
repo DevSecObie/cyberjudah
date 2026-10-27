@@ -1,0 +1,303 @@
+# 2 Samuel: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+# "Israel" in 2 Samuel is the people.
+saul-k | | Saul | * | + |
+david | | David | * | + |
+amalekites | | Amalekites | * | + |
+ziklag | | Ziklag | * | + |
+israel-people | | Israel | * | + |
+jonathan-s | | Jonathan | 1:4,1:5,1:12,1:17,1:22,1:23,1:25,1:26,4:4,9:1,9:3,9:6,9:7,21:7,21:12,21:13,21:14 | + |
+jonathan-a | Jonathan | Jonathan | 15:27,15:36,17:17,17:20 | M | The son of Abiathar the priest, who with Ahimaaz carried word to David (2 Samuel 15:27, 15:36, 17:17-21)
+jonathan-sh | Jonathan | Jonathan | 21:21 | M | The son of Shimea the brother of David, who slew the man of great stature in Gath (2 Samuel 21:20-21)
+jonathan-j | Jonathan | Jonathan | 23:32 | M | Of the sons of Jashen, one of David's mighty men (2 Samuel 23:32)
+gilboa | | Gilboa | * | + |
+amalekites | | Amalekite | * | + |
+judah | | Judah | * | + |
+jasher | | Jasher | * | + |
+gath | | Gath | * | + |
+ashkelon | | Askelon | * | + |
+philistines | | Philistines | * | + |
+hebron | | Hebron | * | + |
+ahinoam-j | | Ahinoam | * | + |
+jezreelitess | | Jezreelitess | * | + |
+abigail | | Abigail | 2:2,3:3 | + |
+abigail-n | Abigail | Abigail | 17:25 | F | The daughter of Nahash, sister to Zeruiah Joab's mother (2 Samuel 17:25)
+nabal | | Nabal | * | + |
+carmelite | | Carmelite | * | + |
+jabesh-gilead | | Jabesh-gilead | * | + |
+abner | | Abner | * | + |
+ner | | Ner | * | + |
+ish-bosheth | Ish-bosheth | Ish-bosheth | * | M | The son of Saul, whom Abner made king over Israel at Mahanaim; he reigned two years and was slain by Rechab and Baanah (2 Samuel 2:8-10, 4:5-8)
+mahanaim | | Mahanaim | * | + |
+gilead | | Gilead | * | + |
+ashurites | Ashurites | Ashurites | * | G | Over whom Abner made Ish-bosheth king (2 Samuel 2:9)
+jezreel | | Jezreel | * | + |
+ephraim | | Ephraim | * | + |
+benjamin | | Benjamin | * | + |
+gibeon | | Gibeon | * | + |
+joab | | Joab | * | + |
+zeruiah | | Zeruiah | * | + |
+helkath-hazzurim | Helkath-hazzurim | Helkath-hazzurim | * | P | The field in Gibeon where twelve of Benjamin and twelve of David's servants fell together (2 Samuel 2:16)
+abishai | | Abishai | * | + |
+asahel | Asahel | Asahel | * | M | A son of Zeruiah, brother of Joab and Abishai, light of foot, slain by Abner; one of the thirty (2 Samuel 2:18-23, 3:30, 23:24)
+ammah | Ammah | Ammah | * | P | The hill that lieth before Giah, where Joab and Abishai pursued Abner (2 Samuel 2:24)
+giah | Giah | Giah | * | P | By the way of the wilderness of Gibeon (2 Samuel 2:24)
+jordan | | Jordan | * | + |
+bithron | Bithron | Bithron | * | P | Through which Abner's men went after passing over Jordan (2 Samuel 2:29)
+beth-lehem | | Beth-lehem | * | + |
+amnon | Amnon | Amnon | * | M | The firstborn of David, of Ahinoam the Jezreelitess, who forced his sister Tamar and was slain by Absalom's servants (2 Samuel 3:2, 13:1-29)
+chileab | Chileab | Chileab | * | M | The second son of David, of Abigail the wife of Nabal the Carmelite (2 Samuel 3:3)
+absalom | Absalom | Absalom | * | M | The third son of David, of Maacah the daughter of Talmai king of Geshur; he slew Amnon, rose against his father, and was slain by Joab (2 Samuel 3:3, 13:28-29, 15:10, 18:14-15)
+maacah-t | Maacah | Maacah | 3:3 | F | The daughter of Talmai king of Geshur, mother of Absalom (2 Samuel 3:3)
+maacah-k | Maacah | Maacah | 10:6 | M | "King Maacah", whose thousand men the children of Ammon hired against David (2 Samuel 10:6)
+maacah-place | Maacah | Maacah | 10:8 | P | Whose men were by themselves in the field with the Syrians of Zoba, Rehob and Ish-tob (2 Samuel 10:8)
+talmai-g | Talmai | Talmai | * | M | The son of Ammihud, king of Geshur, father of Maacah; Absalom fled to him (2 Samuel 3:3, 13:37)
+geshur | Geshur | Geshur | * | P | The kingdom of Talmai, whither Absalom fled for three years (2 Samuel 3:3, 13:37-38, 15:8)
+adonijah | Adonijah | Adonijah | * | M | The fourth son of David, the son of Haggith (2 Samuel 3:4)
+haggith | Haggith | Haggith | * | F | The mother of Adonijah, David's son born in Hebron (2 Samuel 3:4)
+shephatiah | Shephatiah | Shephatiah | * | M | The fifth son of David, the son of Abital (2 Samuel 3:4)
+abital | Abital | Abital | * | F | The mother of Shephatiah, David's son born in Hebron (2 Samuel 3:4)
+ithream | Ithream | Ithream | * | M | The sixth son of David, by Eglah David's wife (2 Samuel 3:5)
+eglah | Eglah | Eglah | * | F | David's wife, mother of Ithream (2 Samuel 3:5)
+rizpah | Rizpah | Rizpah | * | F | Saul's concubine, the daughter of Aiah, mother of Armoni and Mephibosheth; she kept the bodies of her sons on the rock (2 Samuel 3:7, 21:8-11)
+aiah | Aiah | Aiah | * | M | The father of Rizpah (2 Samuel 3:7, 21:8, 21:10-11)
+dan-place | | Dan | * | + |
+beer-sheba | | Beer-sheba | * | + |
+michal | | Michal | * | + |
+phalti | | Phaltiel | * | + |
+laish-m | | Laish | * | + |
+bahurim | Bahurim | Bahurim | * | P | Whither Phaltiel followed Michal weeping; the home of Shimei the son of Gera (2 Samuel 3:16, 16:5, 17:18, 19:16)
+sirah | Sirah | Sirah | * | P | The well whence Joab's messengers brought Abner back (2 Samuel 3:26)
+israel-people | | Israelites | * | + |
+baanah | Baanah | Baanah | 4:2,4:5,4:6,4:9 | M | A son of Rimmon the Beerothite, captain of a band under Ish-bosheth; with Rechab he slew Ish-bosheth (2 Samuel 4:2-12)
+baanah-n | Baanah | Baanah | 23:29 | M | A Netophathite, the father of Heleb (2 Samuel 23:29)
+rechab | Rechab | Rechab | * | M | A son of Rimmon the Beerothite, captain of a band under Ish-bosheth; with Baanah he slew Ish-bosheth (2 Samuel 4:2-12)
+rimmon-b | Rimmon | Rimmon | * | M | A Beerothite of the children of Benjamin, father of Baanah and Rechab (2 Samuel 4:2, 4:5, 4:9)
+beerothites | Beerothites | Beerothite;Beerothites | * | G | Of Beeroth, reckoned to Benjamin; they fled to Gittaim (2 Samuel 4:2-3, 23:37)
+beeroth-g | | Beeroth | * | + |
+gittaim | Gittaim | Gittaim | * | P | Whither the Beerothites fled and were sojourners (2 Samuel 4:3)
+mephibosheth | Mephibosheth | Mephibosheth | 4:4,9:6,9:10,9:11,9:12,9:13,16:1,16:4,19:24,19:25,19:30,21:7 | M | The son of Jonathan the son of Saul, lame of his feet from five years old; David restored him Saul's land and he ate at the king's table; father of Micha (2 Samuel 4:4, 9:6-13, 16:1-4, 19:24-30, 21:7)
+mephibosheth-r | Mephibosheth | Mephibosheth | 21:8 | M | A son of Rizpah the daughter of Aiah, whom she bare unto Saul; hanged by the Gibeonites (2 Samuel 21:8-9)
+jerusalem | | Jerusalem | * | + |
+jebusite | | Jebusites | * | + |
+zion | Zion | Zion | * | P | The strong hold that David took, the city of David (2 Samuel 5:7)
+millo | | Millo | * | + |
+hiram | Hiram | Hiram | * | M | King of Tyre, who sent cedar trees, carpenters and masons to build David an house (2 Samuel 5:11)
+tyre | | Tyre | * | + |
+shammua-d | Shammua | Shammua | * | M | A son of David born in Jerusalem (2 Samuel 5:14)
+shobab | Shobab | Shobab | * | M | A son of David born in Jerusalem (2 Samuel 5:14)
+nathan-d | Nathan | Nathan | 5:14 | M | A son of David born in Jerusalem (2 Samuel 5:14)
+nathan | Nathan | Nathan | 7:2,7:3,7:4,7:17,12:1,12:5,12:7,12:13,12:15,12:25 | M | The prophet, who brought David the word of the Lord about the house, and rebuked him with the parable of the ewe lamb (2 Samuel 7:2-17, 12:1-15, 12:25)
+nathan-z | Nathan | Nathan | 23:36 | M | Of Zobah, the father of Igal (2 Samuel 23:36)
+solomon | Solomon | Solomon;Jedidiah | * | M | A son of David born in Jerusalem, of Bath-sheba; the Lord loved him, and called him Jedidiah by Nathan (2 Samuel 5:14, 12:24-25)
+ibhar | Ibhar | Ibhar | * | M | A son of David born in Jerusalem (2 Samuel 5:15)
+elishua | Elishua | Elishua | * | M | A son of David born in Jerusalem (2 Samuel 5:15)
+nepheg-d | Nepheg | Nepheg | * | M | A son of David born in Jerusalem (2 Samuel 5:15)
+japhia-d | Japhia | Japhia | * | M | A son of David born in Jerusalem (2 Samuel 5:15)
+elishama-d | Elishama | Elishama | * | M | A son of David born in Jerusalem (2 Samuel 5:16)
+eliada | Eliada | Eliada | * | M | A son of David born in Jerusalem (2 Samuel 5:16)
+eliphalet | Eliphalet | Eliphalet | * | M | A son of David born in Jerusalem (2 Samuel 5:16)
+rephaim | Rephaim | Rephaim | * | P | The valley where the Philistines spread themselves against David (2 Samuel 5:18, 5:22, 23:13)
+baal-perazim | Baal-perazim | Baal-perazim | * | P | Where David smote the Philistines: "The Lord hath broken forth upon mine enemies" (2 Samuel 5:20)
+geba | | Geba | * | + |
+gazer | Gazer | Gazer | * | P | Unto which David smote the Philistines from Geba (2 Samuel 5:25)
+baale | Baale | Baale | * | P | Baale of Judah, whence David brought up the ark of God (2 Samuel 6:2)
+abinadab-k | | Abinadab | * | + |
+gibeah-a | Gibeah | Gibeah | 6:3,6:4 | P | Where the house of Abinadab was, whence the ark was brought on a new cart (2 Samuel 6:3-4)
+gibeah-b | | Gibeah | 21:6,23:29 | + |
+uzzah | Uzzah | Uzzah | * | M | A son of Abinadab, who drave the new cart; he put forth his hand to the ark and God smote him (2 Samuel 6:3-8)
+ahio | Ahio | Ahio | * | M | A son of Abinadab, who went before the ark (2 Samuel 6:3-4)
+nachon | Nachon | Nachon | * | M | At whose threshingfloor Uzzah took hold of the ark (2 Samuel 6:6)
+perez-uzzah | Perez-uzzah | Perez-uzzah | * | P | The name David gave the place where the Lord made a breach upon Uzzah (2 Samuel 6:8)
+obed-edom | Obed-edom | Obed-edom | * | M | The Gittite, in whose house the ark abode three months, and the Lord blessed him (2 Samuel 6:10-12)
+gittites | | Gittite | * | + |
+egypt | | Egypt | * | + |
+metheg-ammah | Metheg-ammah | Metheg-ammah | * | P | Which David took out of the hand of the Philistines (2 Samuel 8:1)
+moab-land | | Moab | * | + |
+moabites | | Moabites | * | + |
+hadadezer | Hadadezer | Hadadezer | * | M | The son of Rehob, king of Zobah, whom David smote (2 Samuel 8:3-12)
+rehob-h | Rehob | Rehob | 8:3,8:12 | M | The father of Hadadezer king of Zobah (2 Samuel 8:3, 8:12)
+rehob-s | Rehob | Rehob | 10:8 | P | Whose Syrians were in the field with those of Zoba, Ish-tob and Maacah (2 Samuel 10:8)
+zobah | | Zobah | * | + |
+euphrates | | Euphrates | * | + |
+syrians | Syrians | Syrians | * | G | The Syrians of Damascus, of Beth-rehob and of Zoba, smitten by David (2 Samuel 8:5-6, 10:6-19)
+damascus | | Damascus | * | + |
+syria | | Syria | * | + |
+betah | Betah | Betah | * | P | A city of Hadadezer, whence David took much brass (2 Samuel 8:8)
+berothai | Berothai | Berothai | * | P | A city of Hadadezer, whence David took much brass (2 Samuel 8:8)
+toi | Toi | Toi | * | M | King of Hamath, who sent Joram his son to bless David (2 Samuel 8:9-10)
+hamath | | Hamath | * | + |
+joram | Joram | Joram | * | M | The son of Toi king of Hamath, sent to salute David (2 Samuel 8:10)
+ammon | | Ammon | * | + |
+amalek-people | | Amalek | * | + |
+edom-land | | Edom | * | + |
+jehoshaphat | Jehoshaphat | Jehoshaphat | * | M | The son of Ahilud, recorder under David (2 Samuel 8:16, 20:24)
+ahilud | Ahilud | Ahilud | * | M | The father of Jehoshaphat the recorder (2 Samuel 8:16, 20:24)
+zadok | Zadok | Zadok | * | M | The son of Ahitub, priest under David, who bore the ark with the Levites and stayed in Jerusalem; father of Ahimaaz (2 Samuel 8:17, 15:24-29, 15:36, 19:11)
+ahitub-z | Ahitub | Ahitub | * | M | The father of Zadok the priest (2 Samuel 8:17)
+ahimelech-a | Ahimelech | Ahimelech | * | M | The son of Abiathar, a priest under David (2 Samuel 8:17)
+abiathar | | Abiathar | * | + |
+seraiah | Seraiah | Seraiah | * | M | The scribe under David (2 Samuel 8:17)
+benaiah | Benaiah | Benaiah | 8:18,20:23,23:20,23:22 | M | The son of Jehoiada of Kabzeel, over the Cherethites and the Pelethites; he slew two lionlike men of Moab, a lion in a pit, and an Egyptian (2 Samuel 8:18, 20:23, 23:20-23)
+benaiah-p | Benaiah | Benaiah | 23:30 | M | The Pirathonite, one of the thirty (2 Samuel 23:30)
+jehoiada | Jehoiada | Jehoiada | * | M | The son of a valiant man of Kabzeel, father of Benaiah (2 Samuel 8:18, 20:23, 23:20, 23:22)
+cherethites | | Cherethites | * | + |
+pelethites | Pelethites | Pelethites | * | G | Over whom, with the Cherethites, Benaiah was set; they went out with David (2 Samuel 8:18, 15:18, 20:7, 20:23)
+ziba | Ziba | Ziba | * | M | A servant of the house of Saul, set to till the land for Mephibosheth; he had fifteen sons and twenty servants (2 Samuel 9:2-12, 16:1-4, 19:17, 19:26-29)
+machir-a | Machir | Machir | * | M | The son of Ammiel of Lo-debar, in whose house Mephibosheth was; he brought David provision at Mahanaim (2 Samuel 9:4-5, 17:27)
+ammiel-l | Ammiel | Ammiel | * | M | Of Lo-debar, the father of Machir (2 Samuel 9:4-5, 17:27)
+lo-debar | Lo-debar | Lo-debar | * | P | Where Mephibosheth was found in the house of Machir (2 Samuel 9:4-5, 17:27)
+micha | Micha | Micha | * | M | The young son of Mephibosheth (2 Samuel 9:12)
+hanun | Hanun | Hanun | * | M | The son of Nahash, king of the children of Ammon, who shamefully handled David's servants (2 Samuel 10:1-4)
+nahash-h | Nahash | Nahash | 10:2 | M | The father of Hanun, king of the children of Ammon, who shewed kindness unto David (2 Samuel 10:2)
+nahash-a | Nahash | Nahash | 17:25 | M | The father of Abigail, sister to Zeruiah (2 Samuel 17:25)
+nahash-r | Nahash | Nahash | 17:27 | M | Of Rabbah of the children of Ammon, the father of Shobi (2 Samuel 17:27)
+jericho | | Jericho | * | + |
+beth-rehob | | Beth-rehob | * | + |
+zobah | | Zoba | * | + |
+ish-tob | Ish-tob | Ish-tob | * | P | Whose men the children of Ammon hired against David (2 Samuel 10:6, 10:8)
+hadarezer | Hadarezer | Hadarezer | * | M | Who brought out the Syrians beyond the river to Helam; kings were his servants (2 Samuel 10:16, 10:19)
+helam | Helam | Helam | * | P | Where David fought the Syrians under Shobach (2 Samuel 10:16-17)
+shobach | Shobach | Shobach | * | M | The captain of the host of Hadarezer, smitten at Helam (2 Samuel 10:16, 10:18)
+rabbah | | Rabbah | * | + |
+bath-sheba | Bath-sheba | Bath-sheba | * | F | The daughter of Eliam, the wife of Uriah the Hittite, whom David took; she bare Solomon (2 Samuel 11:3-4, 11:27, 12:24)
+eliam | Eliam | Eliam | 11:3 | M | The father of Bath-sheba (2 Samuel 11:3)
+eliam-g | Eliam | Eliam | 23:34 | M | The son of Ahithophel the Gilonite, one of the thirty (2 Samuel 23:34)
+uriah | Uriah | Uriah | * | M | The Hittite, husband of Bath-sheba, one of the thirty, whom David set in the forefront of the battle to die (2 Samuel 11:3-24, 12:9, 23:39)
+hittites | | Hittite | * | + |
+abimelech-g | | Abimelech | * | + |
+gideon | | Jerubbesheth | * | + |
+thebez | | Thebez | * | + |
+tamar-d | Tamar | Tamar | 13:1,13:2,13:4,13:5,13:6,13:7,13:8,13:10,13:19,13:20,13:22,13:32 | F | The fair sister of Absalom, daughter of David, whom Amnon forced (2 Samuel 13:1-22, 13:32)
+tamar-a | Tamar | Tamar | 14:27 | F | The daughter of Absalom, a woman of a fair countenance (2 Samuel 14:27)
+jonadab | Jonadab | Jonadab | * | M | The son of Shimeah David's brother, a very subtil man, friend of Amnon (2 Samuel 13:3-5, 13:32-35)
+shimeah | Shimeah | Shimeah;Shimea | * | M | David's brother, father of Jonadab and of Jonathan (2 Samuel 13:3, 13:32, 21:21)
+baal-hazor | Baal-hazor | Baal-hazor | * | P | Beside Ephraim, where Absalom had sheepshearers (2 Samuel 13:23)
+ammihud-g | Ammihud | Ammihud | * | M | The father of Talmai king of Geshur (2 Samuel 13:37)
+tekoah | Tekoah | Tekoah | * | P | Whence Joab fetched a wise woman (2 Samuel 14:2-9)
+ahithophel | Ahithophel | Ahithophel | * | M | The Gilonite, David's counsellor, who went with Absalom and hanged himself; father of Eliam (2 Samuel 15:12, 15:31, 16:20-23, 17:23, 23:34)
+gilonite | Gilonite | Gilonite | * | G | Of Giloh: "Ahithophel the Gilonite" (2 Samuel 15:12, 23:34)
+giloh | | Giloh | * | + |
+gittites | | Gittites | * | + |
+ittai | Ittai | Ittai | 15:19,15:21,15:22,18:2,18:5,18:12 | M | The Gittite, a stranger and exile, who went with David and was set over a third part of the people (2 Samuel 15:19-22, 18:2-12)
+ittai-r | Ittai | Ittai | 23:29 | M | The son of Ribai out of Gibeah of the children of Benjamin, one of the thirty (2 Samuel 23:29)
+kidron | Kidron | Kidron | * | P | The brook the king passed over when he fled from Absalom (2 Samuel 15:23)
+levites | | Levites | * | + |
+ahimaaz-z | Ahimaaz | Ahimaaz | * | M | The son of Zadok, who with Jonathan carried word to David and ran to tell him of the battle (2 Samuel 15:27, 15:36, 17:17-21, 18:19-29)
+olivet | Olivet | Olivet | * | P | The mount David went up weeping (2 Samuel 15:30)
+hushai | Hushai | Hushai | * | M | The Archite, David's friend, who defeated the counsel of Ahithophel (2 Samuel 15:32-37, 16:16-19, 17:5-15)
+archite | Archite | Archite | * | G | "Hushai the Archite" (2 Samuel 15:32, 16:16, 17:5, 17:14)
+shimei-g | Shimei | Shimei | * | M | The son of Gera, a Benjamite of Bahurim, of the family of the house of Saul, who cursed David (2 Samuel 16:5-13, 19:16-23)
+gera-s | Gera | Gera | * | M | The father of Shimei, of the family of the house of Saul (2 Samuel 16:5, 19:16, 19:18)
+belial | | Belial | * | + |
+benjamites | | Benjamite | * | + |
+en-rogel | | En-rogel | * | + |
+amasa | Amasa | Amasa | * | M | The son of Ithra, made captain of the host by Absalom; slain by Joab at the great stone in Gibeon (2 Samuel 17:25, 19:13, 20:4-12)
+ithra | Ithra | Ithra | * | M | An Israelite, that went in to Abigail the daughter of Nahash; the father of Amasa (2 Samuel 17:25)
+israel-people | | Israelite | * | + |
+shobi | Shobi | Shobi | * | M | The son of Nahash of Rabbah of the children of Ammon, who brought David provision at Mahanaim (2 Samuel 17:27)
+barzillai | Barzillai | Barzillai | 17:27,19:31,19:32,19:33,19:34,19:39 | M | The Gileadite of Rogelim, a very aged man, who sustained the king at Mahanaim (2 Samuel 17:27, 19:31-39)
+barzillai-m | Barzillai | Barzillai | 21:8 | M | The Meholathite, the father of Adriel (2 Samuel 21:8)
+gileadites-j | | Gileadite | * | + |
+rogelim | Rogelim | Rogelim | * | P | The home of Barzillai the Gileadite (2 Samuel 17:27, 19:31)
+cushi | Cushi | Cushi | * | M | Whom Joab sent to tell the king of Absalom's death (2 Samuel 18:21-32)
+gilgal | | Gilgal | * | + |
+joseph | | Joseph | * | + |
+chimham | Chimham | Chimham | * | M | Whom Barzillai sent over with the king in his stead (2 Samuel 19:37-40)
+sheba-b | Sheba | Sheba | * | M | The son of Bichri, a Benjamite, a man of Belial, who rose against David; his head was thrown over the wall of Abel (2 Samuel 20:1-22)
+bichri | Bichri | Bichri | * | M | The father of Sheba (2 Samuel 20:1-22)
+jesse | | Jesse | * | + |
+abel-city | Abel | Abel | * | P | Abel of Beth-maachah, where Sheba was besieged; "They shall surely ask counsel at Abel" (2 Samuel 20:14-18)
+beth-maachah | Beth-maachah | Beth-maachah | * | P | Abel of Beth-maachah (2 Samuel 20:14-15)
+berites | Berites | Berites | * | G | Who gathered together and went after Sheba (2 Samuel 20:14)
+adoram | Adoram | Adoram | * | M | Over the tribute under David (2 Samuel 20:24)
+sheva | Sheva | Sheva | * | M | The scribe under David (2 Samuel 20:25)
+ira-j | Ira | Ira | 20:26 | M | The Jairite, a chief ruler about David (2 Samuel 20:26)
+ira-t | Ira | Ira | 23:26 | M | The son of Ikkesh the Tekoite, one of the thirty (2 Samuel 23:26)
+ira-i | Ira | Ira | 23:38 | M | An Ithrite, one of the thirty (2 Samuel 23:38)
+jairite | Jairite | Jairite | * | G | "Ira also the Jairite" (2 Samuel 20:26)
+gibeonites | Gibeonites | Gibeonites | * | G | Not of Israel but of the remnant of the Amorites, whom Saul sought to slay; they hanged seven of Saul's sons (2 Samuel 21:1-9)
+amorite | | Amorites | * | + |
+armoni | Armoni | Armoni | * | M | A son of Rizpah the daughter of Aiah, whom she bare unto Saul; hanged by the Gibeonites (2 Samuel 21:8-9)
+adriel | | Adriel | * | + |
+meholathite | | Meholathite | * | + |
+beth-shan | | Beth-shan | * | + |
+zelah | | Zelah | * | + |
+kish | | Kish | * | + |
+ishbi-benob | Ishbi-benob | Ishbi-benob | * | M | Of the sons of the giant, who thought to slay David; Abishai slew him (2 Samuel 21:16-17)
+philistines | | Philistine | * | + |
+gob | Gob | Gob | * | P | Where there was battle again with the Philistines (2 Samuel 21:18-19)
+sibbechai | Sibbechai | Sibbechai | * | M | The Hushathite, who slew Saph (2 Samuel 21:18)
+hushathite | Hushathite | Hushathite | * | G | "Sibbechai the Hushathite", "Mebunnai the Hushathite" (2 Samuel 21:18, 23:27)
+saph | Saph | Saph | * | M | Of the sons of the giant, slain by Sibbechai (2 Samuel 21:18)
+elhanan | Elhanan | Elhanan | 21:19 | M | The son of Jaare-oregim, a Beth-lehemite, who slew the brother of Goliath the Gittite (2 Samuel 21:19)
+elhanan-d | Elhanan | Elhanan | 23:24 | M | The son of Dodo of Beth-lehem, one of the thirty (2 Samuel 23:24)
+jaare-oregim | Jaare-oregim | Jaare-oregim | * | M | A Beth-lehemite, the father of Elhanan (2 Samuel 21:19)
+beth-lehemite | | Beth-lehemite | * | + |
+goliath | | Goliath | * | + |
+jacob | | Jacob | * | + |
+tachmonite | Tachmonite | Tachmonite | * | G | "The Tachmonite that sat in the seat ... the same was Adino the Eznite" (2 Samuel 23:8)
+adino | Adino | Adino | * | M | The Eznite, the Tachmonite that sat in the seat, chief among the captains, who slew eight hundred at one time (2 Samuel 23:8)
+eznite | Eznite | Eznite | * | G | "Adino the Eznite" (2 Samuel 23:8)
+eleazar-d | Eleazar | Eleazar | * | M | The son of Dodo the Ahohite, one of the three mighty men with David, who smote the Philistines till his hand clave unto the sword (2 Samuel 23:9-10)
+dodo-a | Dodo | Dodo | 23:9 | M | The Ahohite, the father of Eleazar (2 Samuel 23:9)
+dodo-b | Dodo | Dodo | 23:24 | M | Of Beth-lehem, the father of Elhanan (2 Samuel 23:24)
+ahohite | Ahohite | Ahohite | * | G | "Dodo the Ahohite", "Zalmon the Ahohite" (2 Samuel 23:9, 23:28)
+shammah-a | Shammah | Shammah | 23:11 | M | The son of Agee the Hararite, who stood in the midst of the ground of lentiles and slew the Philistines (2 Samuel 23:11-12)
+shammah-h | Shammah | Shammah | 23:25 | M | The Harodite, one of the thirty (2 Samuel 23:25)
+shammah-r | Shammah | Shammah | 23:33 | M | The Hararite, one of the thirty (2 Samuel 23:33)
+agee | Agee | Agee | * | M | The Hararite, the father of Shammah (2 Samuel 23:11)
+hararite | Hararite | Hararite | * | G | "Agee the Hararite", "Shammah the Hararite", "Sharar the Hararite" (2 Samuel 23:11, 23:33)
+adullam | | Adullam | * | + |
+kabzeel | | Kabzeel | * | + |
+egyptian | | Egyptian | * | + |
+harodite | Harodite | Harodite | * | G | "Shammah the Harodite, Elika the Harodite" (2 Samuel 23:25)
+elika | Elika | Elika | * | M | The Harodite, one of the thirty (2 Samuel 23:25)
+helez | Helez | Helez | * | M | The Paltite, one of the thirty (2 Samuel 23:26)
+paltite | Paltite | Paltite | * | G | "Helez the Paltite" (2 Samuel 23:26)
+ikkesh | Ikkesh | Ikkesh | * | M | The Tekoite, the father of Ira (2 Samuel 23:26)
+tekoite | Tekoite | Tekoite | * | G | "Ikkesh the Tekoite" (2 Samuel 23:26)
+abiezer-a | Abiezer | Abiezer | * | M | The Anethothite, one of the thirty (2 Samuel 23:27)
+anethothite | Anethothite | Anethothite | * | G | "Abiezer the Anethothite" (2 Samuel 23:27)
+mebunnai | Mebunnai | Mebunnai | * | M | The Hushathite, one of the thirty (2 Samuel 23:27)
+zalmon-a | Zalmon | Zalmon | * | M | The Ahohite, one of the thirty (2 Samuel 23:28)
+maharai | Maharai | Maharai | * | M | The Netophathite, one of the thirty (2 Samuel 23:28)
+netophathite | Netophathite | Netophathite | * | G | "Maharai the Netophathite", "Heleb the son of Baanah, a Netophathite" (2 Samuel 23:28-29)
+heleb | Heleb | Heleb | * | M | The son of Baanah, a Netophathite, one of the thirty (2 Samuel 23:29)
+ribai | Ribai | Ribai | * | M | Of Gibeah of the children of Benjamin, the father of Ittai (2 Samuel 23:29)
+pirathonite | | Pirathonite | * | + |
+hiddai | Hiddai | Hiddai | * | M | Of the brooks of Gaash, one of the thirty (2 Samuel 23:30)
+gaash | | Gaash | * | + |
+abi-albon | Abi-albon | Abi-albon | * | M | The Arbathite, one of the thirty (2 Samuel 23:31)
+arbathite | Arbathite | Arbathite | * | G | "Abi-albon the Arbathite" (2 Samuel 23:31)
+azmaveth | Azmaveth | Azmaveth | * | M | The Barhumite, one of the thirty (2 Samuel 23:31)
+barhumite | Barhumite | Barhumite | * | G | "Azmaveth the Barhumite" (2 Samuel 23:31)
+eliahba | Eliahba | Eliahba | * | M | The Shaalbonite, one of the thirty (2 Samuel 23:32)
+shaalbonite | Shaalbonite | Shaalbonite | * | G | "Eliahba the Shaalbonite" (2 Samuel 23:32)
+jashen | Jashen | Jashen | * | M | Of whose sons was Jonathan, one of the thirty (2 Samuel 23:32)
+ahiam | Ahiam | Ahiam | * | M | The son of Sharar the Hararite, one of the thirty (2 Samuel 23:33)
+sharar | Sharar | Sharar | * | M | The Hararite, the father of Ahiam (2 Samuel 23:33)
+eliphelet | Eliphelet | Eliphelet | * | M | The son of Ahasbai, the son of the Maachathite, one of the thirty (2 Samuel 23:34)
+ahasbai | Ahasbai | Ahasbai | * | M | The son of the Maachathite, the father of Eliphelet (2 Samuel 23:34)
+maachathite | Maachathite | Maachathite | * | G | "Eliphelet the son of Ahasbai, the son of the Maachathite" (2 Samuel 23:34)
+hezrai | Hezrai | Hezrai | * | M | The Carmelite, one of the thirty (2 Samuel 23:35)
+paarai | Paarai | Paarai | * | M | The Arbite, one of the thirty (2 Samuel 23:35)
+arbite | Arbite | Arbite | * | G | "Paarai the Arbite" (2 Samuel 23:35)
+igal-n | Igal | Igal | * | M | The son of Nathan of Zobah, one of the thirty (2 Samuel 23:36)
+bani | Bani | Bani | * | M | The Gadite, one of the thirty (2 Samuel 23:36)
+gadites | | Gadite | * | + |
+zelek | Zelek | Zelek | * | M | The Ammonite, one of the thirty (2 Samuel 23:37)
+ammon | | Ammonite | * | + |
+naharai | Naharai | Naharai | * | M | The Beerothite, armourbearer to Joab the son of Zeruiah, one of the thirty (2 Samuel 23:37)
+ithrite | Ithrite | Ithrite | * | G | "Ira an Ithrite, Gareb an Ithrite" (2 Samuel 23:38)
+gareb | Gareb | Gareb | * | M | An Ithrite, one of the thirty (2 Samuel 23:38)
+aroer | | Aroer | * | + |
+gad | | Gad | 24:5 | + |
+gad-p | Gad | Gad | 24:11,24:13,24:14,24:18,24:19 | M | The prophet, David's seer, who brought him the word of the Lord after he numbered the people (2 Samuel 24:11-19)
+jaazer | | Jazer | * | + |
+tahtim-hodshi | Tahtim-hodshi | Tahtim-hodshi | * | P | The land through which Joab passed numbering the people (2 Samuel 24:6)
+dan-jaan | Dan-jaan | Dan-jaan | * | P | Through which Joab passed numbering the people (2 Samuel 24:6)
+sidon-place | | Zidon | * | + |
+hivite | | Hivites | * | + |
+canaanites | | Canaanites | * | + |
+araunah | Araunah | Araunah | * | M | The Jebusite, whose threshingfloor David bought to build an altar; "Araunah, as a king, give unto the king" (2 Samuel 24:16-24)
+jebusite | | Jebusite | * | + |
