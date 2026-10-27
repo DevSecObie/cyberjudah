@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Joshua added (19 new people, 7 peoples, 323 places).
