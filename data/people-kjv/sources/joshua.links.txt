@@ -1,7 +1,7 @@
 # Family links in Joshua, each with the verse that states it (same format as genesis.links.txt).
 joshua < nun | 1:1,2:1,2:23,6:6,14:1,17:4,19:49,19:51,21:1,24:29
-achan < carmi-j | 7:1,7:18
-carmi-j < zabdi | 7:1,7:18
+achan < carmi-j | 7:1,7:18 |  | scripture | Josephus, Antiquities of the Jews 5.1.10 (Whiston): "one Achar, the son [of Charmi, the son] of Zebedias, of the tribe of Judah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link52H_4_0001>
+carmi-j < zabdi | 7:1,7:18 |  | scripture | Josephus, Antiquities of the Jews 5.1.10 (Whiston): "one Achar, the son [of Charmi, the son] of Zebedias, of the tribe of Judah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link52H_4_0001>
 zabdi ^ zarah | 7:1,7:18 | "Zabdi, the son of Zerah"; Zerah's sons in 1 Chronicles 2:6 are Zimri, Ethan, Heman, Calcol and Dara
 achan & judah | 7:1,7:18
 balaam < beor-b | 13:22
@@ -12,8 +12,10 @@ sheshai ahiman talmai < anak | 15:14
 achsah < caleb | 15:16,15:17
 othniel < kenaz-o | 15:17
 othniel = achsah | 15:17
+othniel ~ caleb | 15:17 | "Othniel the son of Kenaz, the brother of Caleb"; "Othniel the son of Kenaz, Caleb's younger brother" (Judges 1:13, 3:9) | scripture | Jewish Encyclopedia (1901-1906) vol. 3 p. 497, "Caleb": "the maiden won by Caleb's younger brother, Othniel" <https://archive.org/details/jewishencycloped03sing/page/n517/mode/1up> ; Jewish Encyclopedia (1901-1906) vol. 9 p. 445, "Othniel" <https://archive.org/details/cu31924091768261/page/n478/mode/1up> ; Jewish Encyclopedia (1901-1906) vol. 7 p. 466, "Kenaz": "Othniel's elder brother, Caleb (Judges i. 13)" <https://archive.org/details/cu31924091768246/page/n489/mode/1up>
 bohan ^ reuben | 15:6,18:17 | "the stone of Bohan the son of Reuben"; Reuben's sons in Genesis 46:9 are Hanoch, Phallu, Hezron and Carmi
 abiezer ^ manasseh | 17:2 | "the male children of Manasseh the son of Joseph by their families"
+abiezer == jeezer | 17:2 | "the children of Abiezer" among the male children of Manasseh; "Of Jeezer, the family of the Jeezerites" (Numbers 26:30) | history | Jewish Encyclopedia (1901-1906) vol. 1 p. 57, "Abiezer": "A clan of Manasseh ... Num. xxvi. 30 has Jeezer" <https://archive.org/details/cu31924091768188/page/n102/mode/1up>
 zelophehad < hepher | 17:3
 hepher < gilead-m | 17:3
 gilead-m < machir | 17:1,17:3
