@@ -7,7 +7,10 @@ Each book has <book>.names.txt and <book>.links.txt, read in Bible order.
   type: M male, F female, U not stated, G a people, C a creature; P place, T title, X other (not People);
   + carries on a record from an earlier book: its verses (and any new forms) in this book are added,
   and Name and description stay empty.
-<book>.links.txt: the family links, each with the verses of that book that state it (see the file's header).
+<book>.links.txt: the family links, each with the verses of that book that state it (see the file's header):
+  kids op target | verses | note | evidence | sources
+  evidence (default scripture): scripture, parallel, history or variant.
+  sources: where a link was checked outside the verse, each `Title <https://...>`, joined by ` ; `.
 
 Every name in every verse of a book must belong to some record, every record's verses must name it,
 and every link must cite verses. Usage: build.py [--check]
@@ -19,7 +22,8 @@ from names import ROOT, chapters, index
 ABBR = {'genesis': 'gen', 'exodus': 'exo', 'leviticus': 'lev', 'numbers': 'num', 'deuteronomy': 'deu', 'joshua': 'jos',
         'judges': 'jdg', 'ruth': 'rut'}
 TYPES = {'M': 'Male', 'F': 'Female', 'U': 'Unknown', 'G': 'Group', 'C': 'Creature'}
-OPS = {'<': 'father', '<<': 'mother', '=': 'partners', '~': 'siblings', '^': 'line', '&': 'tribe', '@': 'nation'}
+OPS = {'<': 'father', '<<': 'mother', '=': 'partners', '~': 'siblings', '^': 'line', '&': 'tribe', '@': 'nation', '==': 'same'}
+EVIDENCE = ('scripture', 'parallel', 'history', 'variant')
 ORDER = [b['slug'] for b in json.load(open(f'{ROOT}/bible/index.json', encoding='utf-8'))]
 OUT = f'{ROOT}/people-kjv/people.json'
 
@@ -93,16 +97,18 @@ def build():
         ids[k] = base if used[base] == 1 else base + 'abcdefgh'[used[base] - 1]
     out = {k: {'id': ids[k], 'name': r['name'], 'names': list(dict.fromkeys([r['name']] + r['forms'])), 'type': TYPES[r['type']],
                'description': r['desc'], 'verses': r['verses'],
-               **{f: [] for f in ('father', 'mother', 'partners', 'siblings', 'children', 'line', 'tribe', 'nation')}}
+               **{f: [] for f in ('father', 'mother', 'partners', 'siblings', 'children', 'line', 'tribe', 'nation', 'same')}}
            for k, r in people.items() if k in ids}
 
-    def put(lst, k, vs, note):
+    def put(lst, k, vs, note, ev, srcs):
         for x in lst:
             if x['id'] == ids[k]:
                 x['verses'] = sorted(set(x['verses']) | set(vs), key=vkey)
+                if srcs: x['sources'] = x.get('sources', []) + [s for s in srcs if s not in x.get('sources', [])]
                 return
-        e = {'id': ids[k], 'evidence': 'scripture', 'verses': vs}
+        e = {'id': ids[k], 'evidence': ev, 'verses': vs}
         if note: e['note'] = note
+        if srcs: e['sources'] = srcs
         lst.append(e)
 
     def names_in(k, v): return {x[0] for x in VERSES.get(v, [])} & set(recs[k]['forms'])
@@ -110,7 +116,7 @@ def build():
         B = chapters(book)
         for ln, parts in lines(f'{ROOT}/people-kjv/sources/{book}.links.txt'):
             at = f'{book} links {ln}'
-            m = re.match(r'(.+?)\s+(<<|<|=|~|\^|&|@)\s+(\S+)$', parts[0])
+            m = re.match(r'(.+?)\s+(<<|<|==|=|~|\^|&|@)\s+(\S+)$', parts[0])
             if not m or len(parts) < 2: errs.append(f'{at}: cannot read'); continue
             kids, op, b = m.group(1).split(), m.group(2), m.group(3)
             vs = []
@@ -120,6 +126,15 @@ def build():
                 vs.append(f'{book}/{c}/{v}')
             vs = sorted(set(vs), key=vkey)
             note = parts[2] if len(parts) > 2 else ''
+            ev = (parts[3] if len(parts) > 3 else '') or 'scripture'
+            if ev not in EVIDENCE: errs.append(f'{at}: evidence {ev}')
+            srcs = []
+            for src in (parts[4] if len(parts) > 4 else '').split(' ; '):
+                if not src.strip(): continue
+                sm = re.match(r'(.+?)\s*<(https://[^\s<>]+)>$', src.strip())
+                if not sm: errs.append(f'{at}: source {src.strip()!r} is not "Title <https://...>"'); continue
+                srcs.append({'title': sm.group(1), 'url': sm.group(2)})
+            if ev in ('history', 'variant') and not srcs: errs.append(f'{at}: {ev} evidence needs a source')
             bad = [a for a in kids + [b] if a not in out]
             if bad:
                 errs += [f'{at}: {a} is not a person' + (f" (type {recs[a]['type']})" if a in recs else '') for a in bad]
@@ -132,9 +147,9 @@ def build():
                 if op == '<<' and recs[b]['type'] not in 'FU': errs.append(f'{at}: mother {b} is {recs[b]["type"]}')
                 if op == '@' and recs[b]['type'] != 'G': errs.append(f'{at}: {b} is not a people')
                 if op == '&' and recs[b]['type'] != 'M': errs.append(f'{at}: tribe {b} must be a son of Jacob or Joseph')
-                put(out[a][OPS[op]], b, vs, note)
-                if op in ('<', '<<'): put(out[b]['children'], a, vs, note)
-                if op in ('=', '~'): put(out[b][OPS[op]], a, vs, note)
+                put(out[a][OPS[op]], b, vs, note, ev, srcs)
+                if op in ('<', '<<'): put(out[b]['children'], a, vs, note, ev, srcs)
+                if op in ('=', '~', '=='): put(out[b][OPS[op]], a, vs, note, ev, srcs)
     for k, p in out.items():
         for f in ('father', 'mother'):
             if len(p[f]) > 1: errs.append(f'{k}: {len(p[f])} in {f}')

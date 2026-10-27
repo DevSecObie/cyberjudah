@@ -61,3 +61,22 @@ test('Exodus: people carry on from Genesis, and the text gives Moses his family'
   assert.notEqual(jethro.id, byName('Reuel', 'genesis/36/4').id);
   assert.equal(byName('Bezaleel', 'exodus/31/2').tribe[0].id, byName('Judah', 'genesis/29/35').id);
 });
+
+test('Joshua: Othniel is Caleb\'s younger brother, with the sources that were checked', () => {
+  const othniel = byName('Othniel', 'joshua/15/17');
+  const caleb = byName('Caleb', 'numbers/13/6');
+  const link = othniel.siblings.find((e) => e.id === caleb.id);
+  assert.equal(link.evidence, 'scripture');
+  assert.ok(link.sources.length >= 1 && link.sources.every((s) => s.url.startsWith('https://')));
+  assert.ok(caleb.siblings.some((e) => e.id === othniel.id));
+  assert.equal(othniel.father[0].id, byName('Kenaz', 'joshua/15/17').id);
+});
+
+test('a link checked outside the verse must name its source', () => {
+  const copy = structuredClone(people);
+  copy[0].line = [{ id: copy[1].id, evidence: 'history', verses: [copy[0].verses[0]] }];
+  copy[2].line = [{ id: copy[3].id, evidence: 'scripture', verses: [copy[2].verses[0]], sources: [{ title: 'x', url: 'http://x' }] }];
+  const problems = validateKjvPeople(copy, { bibleDir }).join('\n');
+  assert.match(problems, /history evidence needs a source/);
+  assert.match(problems, /source needs a title and an https link/);
+});
