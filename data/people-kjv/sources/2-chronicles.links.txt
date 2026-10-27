@@ -1,0 +1,53 @@
+# 2 Chronicles family links. Parents and kings already linked in Kings carry over.
+hiram-c ^ dan | 2:13,2:14 | "The son of a woman of the daughters of Dan, and his father was a man of Tyre"; 1 Kings 7:14 says "a widow's son of the tribe of Naphtali". Both readings are kept as written: Josephus gives the tribe as Naphtali on the mother's side, and the Jewish Encyclopedia sets the two verses side by side | scripture | Josephus, Antiquities of the Jews 8.3.4 (Whiston): "he was by birth of the tribe of Naphtali, on the mother's side ... but his father was Ur, of the stock of the Israelites" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link82H_4_0001> ; Jewish Encyclopedia (1901-1906) vol. 6 p. 412, "Hiram" no. 2: "his mother of the tribe of Naphtali (I Kings vii. 13, 14) or of the tribe of Dan (II Chron. ii. 12 [A. V. 14])" <https://archive.org/details/cu31924091768238/page/n439/mode/1up>
+jerimoth-d < david | 11:18
+mahalath-r < jerimoth-d | 11:18
+rehoboam = mahalath-r | 11:18
+abihail-e < eliab-j | 11:18
+jeush-r shamariah zaham < rehoboam | 11:18,11:19
+rehoboam = maachah-a | 11:20,11:21
+attai-r ziza-r shelomith-r < rehoboam | 11:20,11:21
+abijam attai-r ziza-r shelomith-r << maachah-a | 11:20
+michaiah-u < uriel-g | 13:2
+azariah-o < oded | 15:1
+amasiah < zichri-am | 17:16
+zebadiah-i < ishmael-z | 19:11
+jahaziel-z < zechariah-jz | 20:14
+zechariah-jz < benaiah-jz | 20:14
+benaiah-jz < jeiel-a | 20:14
+jeiel-a < mattaniah-jz | 20:14
+mattaniah-jz ^ asaph-s | 20:14 | "a Levite of the sons of Asaph"
+eliezer-d < dodavah | 20:37
+azariah-j1 jehiel-j zechariah-j azariah-j2 michael-j shephatiah-j < jehoshaphat-k | 21:2
+jehoram ~ azariah-j1 | 21:1,21:2
+jehoram ~ jehiel-j | 21:1,21:2
+jehoram ~ zechariah-j | 21:1,21:2
+jehoram ~ azariah-j2 | 21:1,21:2
+jehoram ~ michael-j | 21:1,21:2
+jehoram ~ shephatiah-j | 21:1,21:2
+jehosheba = jehoiada-p | 22:11
+azariah-jr < jeroham-a | 23:1
+ishmael-jh < jehohanan-i | 23:1
+azariah-ob < obed-a | 23:1
+maaseiah-a < adaiah-m | 23:1
+elishaphat < zichri-el | 23:1
+zechariah-jd < jehoiada-p | 24:20
+jehozabad << shimrith | 24:26 | "Jehozabad the son of Shimrith a Moabitess"
+azariah-jo < johanan-e | 28:12
+berechiah-m < meshillemoth | 28:12
+jehizkiah < shallum-e | 28:12
+amasa-h < hadlai | 28:12
+azariah-me < jehalelel | 29:12
+kish-h < abdi-h | 29:12
+eden-l < joah-g | 29:12
+shimei-c ~ cononiah | 31:12
+kore-i < imnah-l | 31:14
+joah-r < joahaz | 34:8
+abdon-m < micah-ab | 34:20
+michaiah-u == maachah-a | 13:2 | Abijah's mother: "Michaiah the daughter of Uriel of Gibeah" (13:2), "Maachah the daughter of Absalom" (11:20-22; 1 Kings 15:2) | parallel | Josephus, Antiquities of the Jews 8.11.3 (Whiston): of Abijah, "the young man's mother was Michaiah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link82H_4_0001>
+ahaziah-j < jehoram | 21:17,22:1 | "Jehoahaz, the youngest of his sons" (21:17); "Ahaziah his youngest son" (22:1)
+ahaziah-j << athaliah | 22:2,22:3 | "His mother's name also was Athaliah"
+athaliah ^ omri | 22:2 | "the daughter of Omri" (the KJV reading, kept); Omri was Ahab's father (1 Kings 16:28), so Omri is her line
+athaliah < ahab | 21:6,22:2,22:3 | "he had the daughter of Ahab to wife" (21:6) is Athaliah, the mother of Ahaziah (22:2), who "walked also in the ways of the house of Ahab" (22:3) | history | Josephus, Antiquities of the Jews 8.15.3 (Whiston): "Jehoshaphat took for his son Jehoram to wife the daughter of Ahab ... whose name was Athaliah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link82H_4_0001> ; Josephus, Antiquities 9.7.1: "Athaliah, the daughter of Ahab" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link92H_4_0001> ; Jewish Encyclopedia (1901-1906) vol. 2 p. 260, "Athaliah": "Daughter of Ahab ... also called the daughter of Omri" <https://archive.org/details/cu31924091768196/page/n297/mode/1up>
+jehoram = athaliah | 21:6,22:2 | "he had the daughter of Ahab to wife" (21:6); Athaliah is the mother of his son Ahaziah (22:1-2) | history | Josephus, Antiquities of the Jews 8.15.3 (Whiston): "Jehoshaphat took for his son Jehoram to wife the daughter of Ahab ... whose name was Athaliah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link82H_4_0001> ; Josephus, Antiquities 9.7.1: "Athaliah, the daughter of Ahab" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link92H_4_0001> ; Jewish Encyclopedia (1901-1906) vol. 2 p. 260, "Athaliah": "Daughter of Ahab ... also called the daughter of Omri" <https://archive.org/details/cu31924091768196/page/n297/mode/1up>
+jehoram < jehoshaphat-k | 21:1,21:3 | "Jehoram his son reigned in his stead"

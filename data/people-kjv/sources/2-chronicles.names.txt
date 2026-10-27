@@ -1,0 +1,390 @@
+# 2 Chronicles: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+hanani-s | Hanani | Hanani | 16:7 | M | The seer, who rebuked Asa for relying on the king of Syria; Asa put him in a prison house (2 Chronicles 16:7-10)
+iddo-s | Iddo | Iddo | 9:29,12:15,13:22 | M | The seer and prophet, in whose visions, book and story the acts of Solomon, Rehoboam and Abijah are written (2 Chronicles 9:29, 12:15, 13:22)
+azariah-me | Azariah | Azariah | 29:12 | M | A Levite of the sons of Merari, the son of Jehalelel, who arose to cleanse the house of the Lord (2 Chronicles 29:12)
+kish-h | Kish | Kish | 29:12 | M | A Levite of the sons of Merari, the son of Abdi, who arose to cleanse the house of the Lord (2 Chronicles 29:12)
+abdi-h | Abdi | Abdi | 29:12 | M | A Levite of the sons of Merari, father of Kish (2 Chronicles 29:12)
+jehalelel | Jehalelel | Jehalelel | 29:12 | M | A Levite of the sons of Merari, father of Azariah (2 Chronicles 29:12)
+eden-l | Eden | Eden | 29:12 | M | A Gershonite Levite, the son of Joah, who arose to cleanse the house of the Lord (2 Chronicles 29:12)
+hamath-zobah | Hamath-zobah | Hamath-zobah | 8:3 | P | Which Solomon went to and prevailed against (2 Chronicles 8:3)
+joppa | Joppa | Joppa | 2:16 | P | To which Huram brought timber in flotes by sea (2 Chronicles 2:16)
+parvaim | Parvaim | Parvaim | 3:6 | P | Whence the gold for the house was (2 Chronicles 3:6)
+zeredathah | Zeredathah | Zeredathah | 4:17 | P | Between which and Succoth the king cast the vessels in the clay ground (2 Chronicles 4:17)
+jerimoth-d | Jerimoth | Jerimoth | 11:18 | M | A son of David, father of Mahalath, Rehoboam's wife (2 Chronicles 11:18)
+mahalath-r | Mahalath | Mahalath | 11:18 | F | The daughter of Jerimoth the son of David; the wife of Rehoboam (2 Chronicles 11:18)
+abihail-e | Abihail | Abihail | 11:18 | F | The daughter of Eliab the son of Jesse; named with Mahalath as Rehoboam's wife (2 Chronicles 11:18)
+jeush-r | Jeush | Jeush | 11:19 | M | A son of Rehoboam and Mahalath (2 Chronicles 11:19)
+shamariah | Shamariah | Shamariah | 11:19 | M | A son of Rehoboam and Mahalath (2 Chronicles 11:19)
+zaham | Zaham | Zaham | 11:19 | M | A son of Rehoboam and Mahalath (2 Chronicles 11:19)
+attai-r | Attai | Attai | 11:20 | M | A son of Rehoboam and Maachah (2 Chronicles 11:20)
+ziza-r | Ziza | Ziza | 11:20 | M | A son of Rehoboam and Maachah (2 Chronicles 11:20)
+shelomith-r | Shelomith | Shelomith | 11:20 | U | A child of Rehoboam and Maachah (2 Chronicles 11:20)
+adoraim | Adoraim | Adoraim | 11:9 | P | A city Rehoboam built for defence in Judah (2 Chronicles 11:9)
+lubims | Lubims | Lubims | 12:3,16:8 | G | Who came with Shishak out of Egypt, and were a huge host with the Ethiopians (2 Chronicles 12:3, 16:8)
+sukkiims | Sukkiims | Sukkiims | 12:3 | G | Who came with Shishak out of Egypt (2 Chronicles 12:3)
+michaiah-u | Michaiah | Michaiah | 13:2 | F | The daughter of Uriel of Gibeah, mother of Abijah (2 Chronicles 13:2)
+uriel-g | Uriel | Uriel | 13:2 | M | Of Gibeah, father of Michaiah the mother of Abijah (2 Chronicles 13:2)
+ephrain | Ephrain | Ephrain | 13:19 | P | A town Abijah took from Jeroboam (2 Chronicles 13:19)
+jeshanah | Jeshanah | Jeshanah | 13:19 | P | A town Abijah took from Jeroboam (2 Chronicles 13:19)
+zerah-et | Zerah | Zerah | 14:9 | M | The Ethiopian, who came out against Asa with an host of a thousand thousand (2 Chronicles 14:9)
+zephathah | Zephathah | Zephathah | 14:10 | P | The valley at Mareshah where Asa set the battle against Zerah (2 Chronicles 14:10)
+azariah-o | Azariah | Azariah | 15:1 | M | The son of Oded, upon whom the Spirit of God came; he went out to meet Asa (2 Chronicles 15:1)
+oded | Oded | Oded | 15:1,15:8 | M | The prophet, father of Azariah (2 Chronicles 15:1, 15:8)
+abel-maim | Abel-maim | Abel-maim | 16:4 | P | A city of Israel smitten by Ben-hadad (2 Chronicles 16:4)
+ben-hail | Ben-hail | Ben-hail | 17:7 | M | A prince sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:7)
+obadiah-pr | Obadiah | Obadiah | 17:7 | M | A prince sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:7)
+zechariah-pr | Zechariah | Zechariah | 17:7 | M | A prince sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:7)
+nethaneel-pr | Nethaneel | Nethaneel | 17:7 | M | A prince sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:7)
+michaiah-p | Michaiah | Michaiah | 17:7 | M | A prince sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:7)
+shemaiah-lv | Shemaiah | Shemaiah | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+nethaniah-l | Nethaniah | Nethaniah | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+zebadiah-lv | Zebadiah | Zebadiah | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+asahel-l | Asahel | Asahel | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+shemiramoth-l | Shemiramoth | Shemiramoth | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+jehonathan-l | Jehonathan | Jehonathan | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+adonijah-l | Adonijah | Adonijah | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+tobijah-l | Tobijah | Tobijah | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+tob-adonijah | Tob-adonijah | Tob-adonijah | 17:8 | M | A Levite sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+elishama-p | Elishama | Elishama | 17:8 | M | A priest sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+jehoram-p | Jehoram | Jehoram | 17:8 | M | A priest sent by Jehoshaphat to teach in the cities of Judah (2 Chronicles 17:8)
+adnah-j | Adnah | Adnah | 17:14 | M | Of Judah, chief of the captains of thousands under Jehoshaphat (2 Chronicles 17:14)
+jehohanan-c | Jehohanan | Jehohanan | 17:15 | M | A captain under Jehoshaphat (2 Chronicles 17:15)
+amasiah | Amasiah | Amasiah | 17:16 | M | The son of Zichri, who willingly offered himself unto the Lord; a captain under Jehoshaphat (2 Chronicles 17:16)
+zichri-am | Zichri | Zichri | 17:16 | M | The father of Amasiah (2 Chronicles 17:16)
+eliada-b | Eliada | Eliada | 17:17 | M | Of Benjamin, a mighty man of valour under Jehoshaphat (2 Chronicles 17:17)
+jehozabad-b | Jehozabad | Jehozabad | 17:18 | M | Of Benjamin, a captain under Jehoshaphat (2 Chronicles 17:18)
+shimrith | Shimrith | Shimrith | 24:26 | F | The Moabitess, mother of Jehozabad who slew Joash (2 Chronicles 24:26)
+arabians | Arabians | Arabians | 17:11,21:16,22:1,26:7 | G | Who brought Jehoshaphat flocks; they came against Jehoram (2 Chronicles 17:11, 21:16, 22:1, 26:7)
+amariah-cp | Amariah | Amariah | 19:11 | M | The chief priest over the people in all matters of the Lord under Jehoshaphat (2 Chronicles 19:11)
+zebadiah-i | Zebadiah | Zebadiah | 19:11 | M | The son of Ishmael, ruler of the house of Judah, for all the king's matters (2 Chronicles 19:11)
+ishmael-z | Ishmael | Ishmael | 19:11 | M | The father of Zebadiah (2 Chronicles 19:11)
+hazazon-tamar | Hazazon-tamar | Hazazon-tamar | 20:2 | P | Which is En-gedi, where the children of Moab and Ammon came (2 Chronicles 20:2)
+jahaziel-z | Jahaziel | Jahaziel | 20:14 | M | A Levite of the sons of Asaph, the son of Zechariah, upon whom came the Spirit of the Lord (2 Chronicles 20:14)
+zechariah-jz | Zechariah | Zechariah | 20:14 | M | The son of Benaiah, father of Jahaziel (2 Chronicles 20:14)
+benaiah-jz | Benaiah | Benaiah | 20:14 | M | The son of Jeiel, father of Zechariah, in the line of Jahaziel (2 Chronicles 20:14)
+jeiel-a | Jeiel | Jeiel | 20:14 | M | The son of Mattaniah, father of Benaiah, in the line of Jahaziel (2 Chronicles 20:14)
+mattaniah-jz | Mattaniah | Mattaniah | 20:14 | M | A Levite of the sons of Asaph, father of Jeiel, in the line of Jahaziel (2 Chronicles 20:14)
+ziz | Ziz | Ziz | 20:16 | P | The cliff by which the children of Moab and Ammon came up (2 Chronicles 20:16)
+jeruel | Jeruel | Jeruel | 20:16 | P | The wilderness before which they were found (2 Chronicles 20:16)
+berachah-v | Berachah | Berachah | 20:26 | P | The valley where Jehoshaphat and the people blessed the Lord (2 Chronicles 20:26)
+eliezer-d | Eliezer | Eliezer | 20:37 | M | The son of Dodavah of Mareshah, who prophesied against Jehoshaphat (2 Chronicles 20:37)
+dodavah | Dodavah | Dodavah | 20:37 | M | Of Mareshah, father of Eliezer (2 Chronicles 20:37)
+azariah-j1 | Azariah | Azariah | 21:2 | M | A son of Jehoshaphat (2 Chronicles 21:2)
+azariah-j2 | Azariah | Azariah | 21:2 | M | A son of Jehoshaphat, the second Azariah named (2 Chronicles 21:2)
+jehiel-j | Jehiel | Jehiel | 21:2 | M | A son of Jehoshaphat (2 Chronicles 21:2)
+zechariah-j | Zechariah | Zechariah | 21:2 | M | A son of Jehoshaphat (2 Chronicles 21:2)
+michael-j | Michael | Michael | 21:2 | M | A son of Jehoshaphat (2 Chronicles 21:2)
+shephatiah-j | Shephatiah | Shephatiah | 21:2 | M | A son of Jehoshaphat (2 Chronicles 21:2)
+azariah-jr | Azariah | Azariah | 23:1 | M | The son of Jeroham, a captain of hundreds in covenant with Jehoiada (2 Chronicles 23:1)
+azariah-ob | Azariah | Azariah | 23:1 | M | The son of Obed, a captain of hundreds in covenant with Jehoiada (2 Chronicles 23:1)
+jeroham-a | Jeroham | Jeroham | 23:1 | M | The father of Azariah, a captain of hundreds (2 Chronicles 23:1)
+ishmael-jh | Ishmael | Ishmael | 23:1 | M | The son of Jehohanan, a captain of hundreds in covenant with Jehoiada (2 Chronicles 23:1)
+jehohanan-i | Jehohanan | Jehohanan | 23:1 | M | The father of Ishmael, a captain of hundreds (2 Chronicles 23:1)
+obed-a | Obed | Obed | 23:1 | M | The father of Azariah, a captain of hundreds (2 Chronicles 23:1)
+maaseiah-a | Maaseiah | Maaseiah | 23:1 | M | The son of Adaiah, a captain of hundreds in covenant with Jehoiada (2 Chronicles 23:1)
+adaiah-m | Adaiah | Adaiah | 23:1 | M | The father of Maaseiah, a captain of hundreds (2 Chronicles 23:1)
+elishaphat | Elishaphat | Elishaphat | 23:1 | M | The son of Zichri, a captain of hundreds in covenant with Jehoiada (2 Chronicles 23:1)
+zichri-el | Zichri | Zichri | 23:1 | M | The father of Elishaphat (2 Chronicles 23:1)
+zechariah-jd | Zechariah | Zechariah | 24:20 | M | The son of Jehoiada the priest, whom they stoned at the commandment of king Joash in the court of the house of the Lord (2 Chronicles 24:20-22)
+obed-edom-25 | Obed-edom | Obed-edom | 25:24 | M | With whom the vessels found in the house of God were, taken by Joash king of Israel (2 Chronicles 25:24)
+zechariah-u | Zechariah | Zechariah | 26:5 | M | Who had understanding in the visions of God, in whose days Uzziah sought God (2 Chronicles 26:5)
+gur-baal | Gur-baal | Gur-baal | 26:7 | P | Where the Arabians dwelt, against whom God helped Uzziah (2 Chronicles 26:7)
+mehunims | Mehunims | Mehunims | 26:7 | G | Against whom God helped Uzziah (2 Chronicles 26:7)
+jabneh | Jabneh | Jabneh | 26:6 | P | A city of the Philistines whose wall Uzziah brake down (2 Chronicles 26:6)
+jeiel-s | Jeiel | Jeiel | 26:11 | M | The scribe, by whose hand the account of Uzziah's host was made (2 Chronicles 26:11)
+maaseiah-r | Maaseiah | Maaseiah | 26:11 | M | The ruler, by whose hand the account of Uzziah's host was made (2 Chronicles 26:11)
+hananiah-c | Hananiah | Hananiah | 26:11 | M | One of Uzziah's captains (2 Chronicles 26:11)
+azariah-cp | Azariah | Azariah | 26:17,26:20 | M | The priest who went in after Uzziah with fourscore priests and withstood him; the chief priest (2 Chronicles 26:17-20)
+ophel | Ophel | Ophel | 27:3,33:14 | P | On whose wall Jotham built much; Manasseh compassed it about (2 Chronicles 27:3, 33:14)
+zichri-ep | Zichri | Zichri | 28:7 | M | A mighty man of Ephraim, who slew Maaseiah the king's son, Azrikam and Elkanah (2 Chronicles 28:7)
+maaseiah-k | Maaseiah | Maaseiah | 28:7 | M | The king's son, slain by Zichri (2 Chronicles 28:7)
+azrikam-g | Azrikam | Azrikam | 28:7 | M | The governor of the house, slain by Zichri (2 Chronicles 28:7)
+elkanah-k | Elkanah | Elkanah | 28:7 | M | That was next to the king, slain by Zichri (2 Chronicles 28:7)
+oded-s | Oded | Oded | 28:9 | M | A prophet of the Lord in Samaria, who went out before the host that came to Samaria (2 Chronicles 28:9)
+azariah-jo | Azariah | Azariah | 28:12 | M | The son of Johanan, one of the heads of the children of Ephraim (2 Chronicles 28:12)
+johanan-e | Johanan | Johanan | 28:12 | M | The father of Azariah (2 Chronicles 28:12)
+berechiah-m | Berechiah | Berechiah | 28:12 | M | The son of Meshillemoth, one of the heads of the children of Ephraim (2 Chronicles 28:12)
+meshillemoth | Meshillemoth | Meshillemoth | 28:12 | M | The father of Berechiah (2 Chronicles 28:12)
+jehizkiah | Jehizkiah | Jehizkiah | 28:12 | M | The son of Shallum, one of the heads of the children of Ephraim (2 Chronicles 28:12)
+shallum-e | Shallum | Shallum | 28:12 | M | The father of Jehizkiah (2 Chronicles 28:12)
+amasa-h | Amasa | Amasa | 28:12 | M | The son of Hadlai, one of the heads of the children of Ephraim (2 Chronicles 28:12)
+hadlai | Hadlai | Hadlai | 28:12 | M | The father of Amasa (2 Chronicles 28:12)
+gimzo | Gimzo | Gimzo | 28:18 | P | Taken by the Philistines in the days of Ahaz (2 Chronicles 28:18)
+shimri-e | Shimri | Shimri | 29:13 | M | A Levite of the sons of Elizaphan, who arose to cleanse the house (2 Chronicles 29:13)
+jeiel-e | Jeiel | Jeiel | 29:13 | M | A Levite of the sons of Elizaphan, who arose to cleanse the house (2 Chronicles 29:13)
+zechariah-as | Zechariah | Zechariah | 29:13 | M | A Levite of the sons of Asaph, who arose to cleanse the house (2 Chronicles 29:13)
+mattaniah-as | Mattaniah | Mattaniah | 29:13 | M | A Levite of the sons of Asaph, who arose to cleanse the house (2 Chronicles 29:13)
+jehiel-hn | Jehiel | Jehiel | 29:14 | M | A Levite of the sons of Heman, who arose to cleanse the house (2 Chronicles 29:14)
+shimei-hm | Shimei | Shimei | 29:14 | M | A Levite of the sons of Heman, who arose to cleanse the house (2 Chronicles 29:14)
+shemaiah-jd | Shemaiah | Shemaiah | 29:14 | M | A Levite of the sons of Jeduthun, who arose to cleanse the house (2 Chronicles 29:14)
+uzziel-jd | Uzziel | Uzziel | 29:14 | M | A Levite of the sons of Jeduthun, who arose to cleanse the house (2 Chronicles 29:14)
+cononiah | Cononiah | Cononiah | 31:12,31:13 | M | The Levite, ruler over the offerings, tithes and dedicated things in Hezekiah's days (2 Chronicles 31:12-13)
+shimei-c | Shimei | Shimei | 31:12,31:13 | M | The brother of Cononiah the Levite, next to him over the offerings (2 Chronicles 31:12-13)
+jehiel-o | Jehiel | Jehiel | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+azaziah-o | Azaziah | Azaziah | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+nahath-o | Nahath | Nahath | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+asahel-o | Asahel | Asahel | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+jerimoth-o | Jerimoth | Jerimoth | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+jozabad-o | Jozabad | Jozabad | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+eliel-o | Eliel | Eliel | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+ismachiah | Ismachiah | Ismachiah | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+mahath-o | Mahath | Mahath | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+benaiah-o | Benaiah | Benaiah | 31:13 | M | An overseer under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah (2 Chronicles 31:13)
+azariah-cz | Azariah | Azariah | 31:10,31:13 | M | The chief priest of the house of Zadok, the ruler of the house of God in Hezekiah's days (2 Chronicles 31:10, 31:13)
+kore-i | Kore | Kore | 31:14 | M | The son of Imnah the Levite, the porter toward the east, over the freewill offerings (2 Chronicles 31:14)
+imnah-l | Imnah | Imnah | 31:14 | M | The Levite, father of Kore (2 Chronicles 31:14)
+eden-o | Eden | Eden | 31:15 | M | Next to Kore in the cities of the priests, to give to their brethren by courses (2 Chronicles 31:15)
+miniamin | Miniamin | Miniamin | 31:15 | M | Next to Kore in the cities of the priests, to give to their brethren by courses (2 Chronicles 31:15)
+jeshua-l | Jeshua | Jeshua | 31:15 | M | Next to Kore in the cities of the priests, to give to their brethren by courses (2 Chronicles 31:15)
+shemaiah-ov | Shemaiah | Shemaiah | 31:15 | M | Next to Kore in the cities of the priests, to give to their brethren by courses (2 Chronicles 31:15)
+amariah-l | Amariah | Amariah | 31:15 | M | Next to Kore in the cities of the priests, to give to their brethren by courses (2 Chronicles 31:15)
+shecaniah-o | Shecaniah | Shecaniah | 31:15 | M | Next to Kore in the cities of the priests, to give to their brethren by courses (2 Chronicles 31:15)
+maaseiah-g | Maaseiah | Maaseiah | 34:8 | M | The governor of the city, sent by Josiah to repair the house of the Lord (2 Chronicles 34:8)
+joah-r | Joah | Joah | 34:8 | M | The son of Joahaz, the recorder, sent by Josiah to repair the house of the Lord (2 Chronicles 34:8)
+joahaz | Joahaz | Joahaz | 34:8 | M | The father of Joah the recorder (2 Chronicles 34:8)
+jahath-m | Jahath | Jahath | 34:12 | M | A Levite of the sons of Merari, overseer of the work of the house (2 Chronicles 34:12)
+obadiah-m2 | Obadiah | Obadiah | 34:12 | M | A Levite of the sons of Merari, overseer of the work of the house (2 Chronicles 34:12)
+zechariah-ko | Zechariah | Zechariah | 34:12 | M | A Levite of the sons of the Kohathites, overseer of the work of the house (2 Chronicles 34:12)
+meshullam-o | Meshullam | Meshullam | 34:12 | M | A Levite of the sons of the Kohathites, overseer of the work of the house (2 Chronicles 34:12)
+abdon-m | Abdon | Abdon | 34:20 | M | The son of Micah, sent by Josiah to enquire of the Lord (2 Chronicles 34:20)
+micah-ab | Micah | Micah | 34:20 | M | The father of Abdon (2 Chronicles 34:20)
+zechariah-r35 | Zechariah | Zechariah | 35:8 | M | A ruler of the house of God in Josiah's days (2 Chronicles 35:8)
+jehiel-r | Jehiel | Jehiel | 35:8 | M | A ruler of the house of God in Josiah's days (2 Chronicles 35:8)
+conaniah | Conaniah | Conaniah | 35:9 | M | A chief of the Levites, who gave unto the Levites for passover offerings in Josiah's days (2 Chronicles 35:9)
+shemaiah-cl | Shemaiah | Shemaiah | 35:9 | M | A chief of the Levites, who gave unto the Levites for passover offerings in Josiah's days (2 Chronicles 35:9)
+nethaneel-c | Nethaneel | Nethaneel | 35:9 | M | A chief of the Levites, who gave unto the Levites for passover offerings in Josiah's days (2 Chronicles 35:9)
+hashabiah-c | Hashabiah | Hashabiah | 35:9 | M | A chief of the Levites, who gave unto the Levites for passover offerings in Josiah's days (2 Chronicles 35:9)
+jeiel-c | Jeiel | Jeiel | 35:9 | M | A chief of the Levites, who gave unto the Levites for passover offerings in Josiah's days (2 Chronicles 35:9)
+jozabad-c | Jozabad | Jozabad | 35:9 | M | A chief of the Levites, who gave unto the Levites for passover offerings in Josiah's days (2 Chronicles 35:9)
+carchemish | Carchemish | Carchemish | 35:20 | P | By Euphrates, against which Necho king of Egypt came up (2 Chronicles 35:20)
+jeremiah-p | Jeremiah | Jeremiah | 35:25,36:12,36:21,36:22 | M | The prophet, who lamented for Josiah and spake from the mouth of the Lord (2 Chronicles 35:25, 36:12, 36:21-22)
+persia | Persia | Persia | 36:20,36:22,36:23 | P | The kingdom that reigned after Babylon, whose king was Cyrus (2 Chronicles 36:20-23)
+cyrus | Cyrus | Cyrus | 36:22,36:23 | M | King of Persia, whose spirit the Lord stirred up to build him an house at Jerusalem (2 Chronicles 36:22-23)
+aaron | | Aaron | 13:9,13:10,26:18,29:21,31:19,35:14 | + |
+abi | | Abijah | 29:1 | + |
+abijam | | Abijah | 11:20,11:22,12:16,13:1,13:2,13:3,13:4,13:15,13:17,13:19,13:20,13:21,13:22,14:1 | + |
+abishalom | | Absalom | 11:20,11:21 | + |
+abraham | | Abraham | 20:7,30:6 | + |
+adoram-r | | Hadoram | 10:18 | + |
+adullam | | Adullam | 11:7 | + |
+ahab | | Ahab | 18:1,18:2,18:3,18:19,21:6,21:13,22:3,22:4,22:5,22:6,22:7,22:8 | + |
+ahaz | | Ahaz | 27:9,28:1,28:16,28:19,28:21,28:22,28:24,28:27,29:19 | + |
+ahaziah | | Ahaziah | 20:35,20:37 | + |
+ahaziah-j | | Ahaziah | 22:1,22:2,22:7,22:8,22:9,22:10,22:11 | + |
+ahaziah-j | | Azariah | 22:6 | + |
+ahaziah-j | | Jehoahaz | 21:17,25:23 | + |
+ahijah | | Ahijah | 9:29,10:15 | + |
+ahikam | | Ahikam | 34:20 | + |
+aijalon | | Aijalon | 11:10 | + |
+ajalon | | Ajalon | 28:18 | + |
+amasai-35 | | Amasai | 29:12 | + |
+amaziah | | Amaziah | 24:27,25:1,25:5,25:9,25:10,25:11,25:13,25:14,25:15,25:17,25:18,25:20,25:21,25:23,25:25,25:26,25:27,26:1,26:4 | + |
+ammon | | Ammon | 20:1,20:10,20:22,20:23,27:5 | + |
+ammon | | Ammonites | 20:1,26:8,27:5 | + |
+ammon | | Ammonitess | 12:13,24:26 | + |
+amon | | Amon | 18:25 | + |
+amon-k | | Amon | 33:20,33:21,33:22,33:23,33:25 | + |
+amorite | | Amorites | 8:7 | + |
+amoz | | Amoz | 26:22,32:20,32:32 | + |
+arabia | | Arabia | 9:14 | + |
+asa | | Asa | 14:1,14:2,14:8,14:10,14:11,14:12,14:13,15:2,15:8,15:10,15:16,15:17,15:19,16:1,16:2,16:4,16:6,16:7,16:10,16:11,16:12,16:13,17:2,20:32,21:12 | + |
+asahiah | | Asaiah | 34:20 | + |
+asaph-s | | Asaph | 5:12,20:14,29:13,29:30,35:15 | + |
+ashdod | | Ashdod | 26:6 | + |
+asher | | Asher | 30:11 | + |
+assyria | | Assyria | 28:16,28:20,28:21,30:6,32:1,32:4,32:7,32:9,32:10,32:11,32:21,32:22,33:11 | + |
+athaliah | | Athaliah | 22:2,22:10,22:11,22:12,23:12,23:13,23:21,24:7 | + |
+azaliah | | Azaliah | 34:8 | + |
+azariah-36 | | Azariah | 29:12 | + |
+azariah-k | | Uzziah | 26:1,26:3,26:8,26:9,26:11,26:14,26:18,26:19,26:21,26:22,26:23,27:2 | + |
+azekah | | Azekah | 11:9 | + |
+azubah | | Azubah | 20:31 | + |
+baal | | Baal | 23:17 | + |
+baalath | | Baalath | 8:6 | + |
+baalim | | Baalim | 17:3,24:7,28:2,33:3,34:4 | + |
+baasha | | Baasha | 16:1,16:3,16:5,16:6 | + |
+babylon | | Babylon | 32:31,33:11,36:6,36:7,36:10,36:18,36:20 | + |
+beer-sheba | | Beer-sheba | 19:4,24:1,30:5 | + |
+belial | | Belial | 13:7 | + |
+ben-hadad-t | | Ben-hadad | 16:2,16:4 | + |
+benjamin | | Benjamin | 11:1,11:3,11:10,11:12,11:23,14:8,15:2,15:8,15:9,17:17,25:5,31:1,34:9,34:32 | + |
+beth-el | | Beth-el | 13:19 | + |
+beth-horon | | Beth-horon | 8:5,25:13 | + |
+beth-lehem | | Beth-lehem | 11:6 | + |
+beth-shemesh | | Beth-shemesh | 25:21,25:23,28:18 | + |
+beth-zur | | Beth-zur | 11:7 | + |
+bezaleel | | Bezaleel | 1:5 | + |
+boaz-pillar | | Boaz | 3:17 | + |
+carmel | | Carmel | 26:10 | + |
+chaldees | | Chaldees | 36:17 | + |
+chenaanah | | Chenaanah | 18:10,18:23 | + |
+damascus | | Damascus | 16:2,24:23,28:5,28:23 | + |
+dan | | Dan | 2:14 | + |
+dan-place | | Dan | 16:4,30:5 | + |
+david | | David | 1:1,1:4,1:8,1:9,2:3,2:7,2:12,2:14,2:17,3:1,5:1,5:2,6:4,6:6,6:7,6:8,6:10,6:15,6:16,6:17,6:42,7:6,7:10,7:17,7:18,8:11,8:14,9:31,10:16,10:19,11:17,11:18,12:16,13:5,13:6,13:8,14:1,16:14,17:3,21:1,21:7,21:12,21:20,23:3,23:9,23:18,24:16,24:25,27:9,28:1,29:2,29:25,29:26,29:27,29:30,30:26,32:5,32:30,32:33,33:7,33:14,34:2,34:3,35:3,35:4,35:15 | + |
+edom-land | | Edom | 8:17,25:20 | + |
+edomites | | Edomites | 21:8,21:9,21:10,25:14,25:19,28:17 | + |
+egypt | | Egypt | 1:16,1:17,5:10,6:5,7:8,7:22,9:26,9:28,10:2,12:2,12:3,12:9,20:10,26:8,35:20,36:3,36:4 | + |
+eliab-j | | Eliab | 11:18 | + |
+elijah | | Elijah | 21:12 | + |
+eloth | | Eloth | 8:17,26:2 | + |
+elzaphan | | Elizaphan | 29:13 | + |
+en-gedi | | En-gedi | 20:2 | + |
+ephraim | | Ephraim | 13:4,15:8,15:9,17:2,19:4,25:7,25:10,25:23,28:7,28:12,30:1,30:10,30:18,31:1,34:6,34:9 | + |
+etam | | Etam | 11:6 | + |
+ethiopian | | Ethiopian | 14:9 | + |
+ethiopian | | Ethiopians | 12:3,14:12,14:13,16:8,21:16 | + |
+euphrates | | Euphrates | 35:20 | + |
+ezion-geber | | Ezion-geber | 8:17,20:36 | + |
+gad-p | | Gad | 29:25 | + |
+gath | | Gath | 11:8,26:6 | + |
+geba | | Geba | 16:6 | + |
+gederoth | | Gederoth | 28:18 | + |
+gerar | | Gerar | 14:13,14:14 | + |
+gershonites | | Gershonites | 29:12 | + |
+gibeah | | Gibeah | 13:2 | + |
+gibeon | | Gibeon | 1:3,1:13 | + |
+gihon-j | | Gihon | 32:30,33:14 | + |
+hamath | | Hamath | 7:8,8:4 | + |
+hanani | | Hanani | 19:2,20:34 | + |
+harhas | | Hasrah | 34:22 | + |
+hazael | | Hazael | 22:5,22:6 | + |
+hebron | | Hebron | 11:10 | + |
+heman-s | | Heman | 5:12,29:14,35:15 | + |
+hezekiah | | Hezekiah | 28:27,29:1,29:18,29:20,29:27,29:30,29:31,29:36,30:1,30:18,30:20,30:22,30:24,31:2,31:8,31:9,31:11,31:13,31:20,32:2,32:8,32:9,32:11,32:12,32:15,32:16,32:17,32:20,32:22,32:23,32:24,32:25,32:26,32:27,32:30,32:32,32:33,33:3 | + |
+hilkiah | | Hilkiah | 34:9,34:14,34:15,34:18,34:20,34:22,35:8 | + |
+hinnom | | Hinnom | 28:3,33:6 | + |
+hiram | | Huram | 2:3,2:11,2:12,8:2,8:18,9:10,9:21 | + |
+hiram-c | | Huram | 2:13,4:11,4:16 | + |
+hittites | | Hittites | 1:17,8:7 | + |
+hivite | | Hivites | 8:7 | + |
+horeb | | Horeb | 5:10 | + |
+huldah | | Huldah | 34:22 | + |
+hur | | Hur | 1:5 | + |
+ijon | | Ijon | 16:4 | + |
+imlah | | Imla | 18:7,18:8 | + |
+isaac | | Isaac | 30:6 | + |
+isaiah | | Isaiah | 26:22,32:20,32:32 | + |
+israel-people | | Israel | 1:2,1:13,2:4,2:12,2:17,5:2,5:3,5:4,5:6,5:10,6:3,6:4,6:5,6:6,6:7,6:10,6:11,6:12,6:13,6:14,6:16,6:17,6:21,6:24,6:25,6:27,6:29,6:32,6:33,7:3,7:6,7:8,7:10,7:18,8:2,8:7,8:8,8:9,8:11,9:8,9:30,10:1,10:3,10:16,10:17,10:18,10:19,11:1,11:3,11:13,11:16,12:1,12:6,12:13,13:4,13:5,13:12,13:15,13:16,13:17,13:18,15:3,15:4,15:9,15:13,15:17,16:1,16:3,16:4,16:11,17:1,17:4,18:3,18:4,18:5,18:7,18:8,18:9,18:16,18:17,18:19,18:25,18:28,18:29,18:30,18:31,18:32,18:33,18:34,19:8,20:7,20:10,20:19,20:29,20:34,20:35,21:2,21:4,21:6,21:13,22:5,23:2,24:5,24:6,24:9,24:16,25:6,25:7,25:9,25:17,25:18,25:21,25:22,25:23,25:25,25:26,27:7,28:2,28:3,28:5,28:8,28:13,28:19,28:23,28:26,28:27,29:7,29:10,29:24,29:27,30:1,30:5,30:6,30:21,30:25,30:26,31:1,31:5,31:6,31:8,32:17,32:32,33:2,33:7,33:8,33:9,33:16,33:18,34:7,34:9,34:21,34:23,34:26,34:33,35:3,35:4,35:17,35:18,35:25,35:27,36:8,36:13 | + |
+issachar | | Issachar | 30:18 | + |
+jachin-pillar | | Jachin | 3:17 | + |
+jacob | | Israel | 30:6 | + |
+jebusite | | Jebusite | 3:1 | + |
+jebusite | | Jebusites | 8:7 | + |
+jecholiah | | Jecoliah | 26:3 | + |
+jeduthun-s | | Jeduthun | 5:12,29:14,35:15 | + |
+jehoaddan | | Jehoaddan | 25:1 | + |
+jehoahaz | | Jehoahaz | 25:17,25:25 | + |
+jehoahaz-j | | Jehoahaz | 36:1,36:2,36:4 | + |
+jehoiachin | | Jehoiachin | 36:8,36:9 | + |
+jehoiada-p | | Jehoiada | 22:11,23:1,23:8,23:9,23:11,23:14,23:16,23:18,24:2,24:3,24:6,24:12,24:14,24:15,24:17,24:20,24:22,24:25 | + |
+jehoiakim | | Eliakim | 36:4 | + |
+jehoiakim | | Jehoiakim | 36:4,36:5,36:8 | + |
+jehoram | | Jehoram | 21:1,21:3,21:4,21:5,21:9,21:16,22:1,22:6,22:11 | + |
+jehoram-a | | Jehoram | 22:5,22:6,22:7 | + |
+jehoram-a | | Joram | 22:5,22:7 | + |
+jehoshaphat-k | | Jehoshaphat | 17:1,17:3,17:5,17:10,17:11,17:12,18:1,18:3,18:4,18:6,18:7,18:9,18:17,18:28,18:29,18:31,19:1,19:2,19:4,19:8,20:1,20:2,20:3,20:5,20:15,20:18,20:20,20:25,20:27,20:30,20:31,20:34,20:35,20:37,21:1,21:2,21:12,22:9 | + |
+jehosheba | | Jehoshabeath | 22:11 | + |
+jehozabad | | Jehozabad | 24:26 | + |
+jehu | | Jehu | 22:7,22:8,22:9,25:17 | + |
+jehu-h | | Jehu | 19:2,20:34 | + |
+jericho | | Jericho | 28:15 | + |
+jeroboam | | Jeroboam | 9:29,10:2,10:3,10:12,10:15,11:4,11:14,12:15,13:1,13:2,13:3,13:4,13:6,13:8,13:13,13:15,13:19,13:20 | + |
+jerusalem | | Jerusalem | 1:4,1:13,1:14,1:15,2:7,2:16,3:1,5:2,6:6,8:6,9:1,9:25,9:27,9:30,10:18,11:1,11:5,11:14,11:16,12:2,12:4,12:5,12:7,12:9,12:13,13:2,14:15,15:10,17:13,19:1,19:4,19:8,20:5,20:15,20:17,20:18,20:20,20:27,20:28,20:31,21:5,21:11,21:13,21:20,22:1,22:2,23:2,24:1,24:6,24:9,24:18,24:23,25:1,25:23,25:27,26:3,26:9,26:15,27:1,27:8,28:1,28:10,28:24,28:27,29:1,29:8,30:1,30:2,30:3,30:5,30:11,30:13,30:14,30:21,30:26,31:4,32:2,32:9,32:10,32:12,32:18,32:19,32:22,32:23,32:25,32:26,32:33,33:1,33:4,33:7,33:9,33:13,33:15,33:21,34:1,34:3,34:5,34:7,34:9,34:22,34:29,34:30,34:32,35:1,35:18,35:24,36:1,36:2,36:3,36:4,36:5,36:9,36:10,36:11,36:14,36:19,36:23 | + |
+jerusha | | Jerushah | 27:1 | + |
+jesse | | Jesse | 10:16,11:18 | + |
+jews | | Jews | 32:18 | + |
+jezreel | | Jezreel | 22:6 | + |
+joah-g | | Joah | 29:12 | + |
+joash-i | | Joash | 25:17,25:18,25:21,25:23,25:25 | + |
+joash-j | | Joash | 22:11,24:1,24:2,24:4,24:22,24:24,25:23,25:25 | + |
+joash-k | | Joash | 18:25 | + |
+joel-36 | | Joel | 29:12 | + |
+jordan | | Jordan | 4:17 | + |
+josiah | | Josiah | 33:25,34:1,34:33,35:1,35:7,35:16,35:18,35:19,35:20,35:22,35:23,35:24,35:25,35:26,36:1 | + |
+jotham-k | | Jotham | 26:21,26:23,27:1,27:6,27:7,27:9 | + |
+jozachar | | Zabad | 24:26 | + |
+judah | | Judah | 2:7,9:11,10:17,11:1,11:3,11:5,11:10,11:12,11:14,11:17,11:23,12:4,12:5,12:12,13:1,13:13,13:14,13:15,13:16,13:18,14:4,14:5,14:6,14:7,14:8,14:12,15:2,15:8,15:9,15:15,16:1,16:6,16:7,16:11,17:2,17:5,17:6,17:7,17:9,17:10,17:12,17:13,17:14,17:19,18:3,18:9,18:28,19:1,19:5,19:11,20:3,20:4,20:5,20:13,20:15,20:17,20:18,20:20,20:22,20:24,20:27,20:31,20:35,21:3,21:8,21:10,21:11,21:12,21:13,21:17,22:1,22:6,22:8,22:10,23:2,23:8,24:5,24:6,24:9,24:17,24:18,24:23,25:5,25:10,25:12,25:13,25:17,25:18,25:19,25:21,25:22,25:23,25:25,25:26,25:28,26:1,26:2,27:4,27:7,28:6,28:9,28:10,28:17,28:18,28:19,28:25,28:26,29:8,29:21,30:1,30:6,30:12,30:24,30:25,31:1,31:6,31:20,32:1,32:8,32:9,32:12,32:23,32:25,32:32,32:33,33:9,33:14,33:16,34:3,34:5,34:9,34:11,34:21,34:24,34:26,34:29,34:30,35:18,35:21,35:24,35:27,36:4,36:8,36:10,36:23 | + |
+kidron | | Kidron | 15:16,29:16,30:14 | + |
+kirjath-jearim | | Kirjath-jearim | 1:4 | + |
+kohathites | | Kohathites | 20:19,29:12,34:12 | + |
+korhites | | Korhites | 20:19 | + |
+lachish | | Lachish | 11:9,25:27,32:9 | + |
+lebanon | | Lebanon | 2:8,2:16,8:6,9:16,9:20,25:18 | + |
+levites | | Levite | 20:14,31:12,31:14 | + |
+levites | | Levites | 5:4,5:5,5:12,7:6,8:14,8:15,11:13,11:14,13:9,13:10,17:8,19:8,19:11,20:19,23:2,23:4,23:6,23:7,23:8,23:18,24:5,24:6,24:11,29:4,29:5,29:12,29:16,29:25,29:26,29:30,29:34,30:15,30:16,30:17,30:21,30:22,30:25,30:27,31:2,31:4,31:9,31:17,31:19,34:9,34:12,34:13,34:30,35:3,35:5,35:8,35:9,35:10,35:11,35:14,35:15,35:18 | + |
+libnah-c | | Libnah | 21:10 | + |
+maachah-a | | Maachah | 11:20,11:21,11:22,15:16 | + |
+mahath | | Mahath | 29:12 | + |
+manasseh | | Manasseh | 15:9,30:1,30:10,30:11,30:18,31:1,34:6,34:9 | + |
+manasseh-k | | Manasseh | 32:33,33:1,33:9,33:10,33:11,33:13,33:18,33:20,33:22,33:23 | + |
+mareshah | | Mareshah | 11:8,14:9,14:10,20:37 | + |
+mattan | | Mattan | 23:17 | + |
+megiddo | | Megiddo | 35:22 | + |
+merari | | Merari | 29:12,34:12 | + |
+micaiah | | Micaiah | 18:7,18:8,18:12,18:13,18:14,18:23,18:24,18:25,18:27 | + |
+millo | | Millo | 32:5 | + |
+mizpah | | Mizpah | 16:6 | + |
+moabites | | Moab | 20:1,20:10,20:22,20:23 | + |
+moabites | | Moabitess | 24:26 | + |
+moriah | | Moriah | 3:1 | + |
+moses | | Moses | 1:3,5:10,8:13,23:18,24:6,24:9,25:4,30:16,33:8,34:14,35:6,35:12 | + |
+naamah-a | | Naamah | 12:13 | + |
+naphtali | | Naphtali | 16:4,34:6 | + |
+nathan | | Nathan | 9:29,29:25 | + |
+nebat | | Nebat | 9:29,10:2,10:15,13:6 | + |
+nebuchadnezzar | | Nebuchadnezzar | 36:6,36:7,36:10,36:13 | + |
+nimshi | | Nimshi | 22:7 | + |
+omri | | Omri | 22:2 | + |
+ophir-place | | Ophir | 8:18,9:10 | + |
+ornan | | Ornan | 3:1 | + |
+pekah | | Pekah | 28:6 | + |
+perizzites | | Perizzites | 8:7 | + |
+pharaoh-nechoh | | Necho | 35:20,35:22,36:4 | + |
+pharaoh-s | | Pharaoh | 8:11 | + |
+philistines | | Philistines | 9:26,17:11,21:16,26:6,26:7,28:18 | + |
+ramah | | Ramah | 16:1,16:5,16:6,22:6 | + |
+ramoth-gilead | | Ramoth-gilead | 18:2,18:3,18:5,18:11,18:14,18:19,18:28,22:5 | + |
+rehoboam | | Rehoboam | 9:31,10:1,10:3,10:6,10:12,10:13,10:17,10:18,11:1,11:3,11:5,11:17,11:18,11:21,11:22,12:1,12:2,12:5,12:10,12:13,12:15,12:16,13:7 | + |
+remaliah | | Remaliah | 28:6 | + |
+samaria | | Samaria | 18:2,18:9,22:9,25:13,25:24,28:8,28:9,28:15 | + |
+samuel | | Samuel | 35:18 | + |
+seir-land | | Seir | 20:10,20:22,20:23,25:11,25:14 | + |
+sennacherib | | Sennacherib | 32:1,32:2,32:9,32:10,32:22 | + |
+shallum-t | | Shallum | 34:22 | + |
+shaphan | | Shaphan | 34:8,34:15,34:16,34:18,34:20 | + |
+shaphan-a | | Shaphan | 34:20 | + |
+sheba-land | | Sheba | 9:1,9:3,9:9,9:12 | + |
+shechem-place | | Shechem | 10:1 | + |
+shemaiah | | Shemaiah | 11:2,12:5,12:7,12:15 | + |
+shilhi | | Shilhi | 20:31 | + |
+shilonite | | Shilonite | 9:29,10:15 | + |
+shimeath | | Shimeath | 24:26 | + |
+shishak | | Shishak | 12:2,12:5,12:7,12:9 | + |
+simeon | | Simeon | 15:9,34:6 | + |
+socoh | | Shocho | 28:18 | + |
+socoh | | Shoco | 11:7 | + |
+solomon | | Solomon | 1:1,1:2,1:3,1:5,1:6,1:7,1:8,1:11,1:13,1:14,1:16,2:1,2:2,2:3,2:11,2:17,3:1,3:3,4:11,4:16,4:18,4:19,5:1,5:2,5:6,6:1,6:13,7:1,7:5,7:7,7:8,7:10,7:11,7:12,8:1,8:2,8:3,8:6,8:8,8:9,8:10,8:11,8:12,8:16,8:17,8:18,9:1,9:2,9:3,9:9,9:10,9:12,9:13,9:14,9:15,9:20,9:22,9:23,9:25,9:28,9:29,9:30,9:31,10:2,10:6,11:3,11:17,12:9,13:6,13:7,30:26,33:7,35:3,35:4 | + |
+succoth | | Succoth | 4:17 | + |
+syria | | Syria | 1:17,16:2,16:7,18:10,18:30,20:2,22:5,22:6,24:23,28:5,28:23 | + |
+syrians | | Syrians | 18:34,22:5,24:24 | + |
+tadmor | | Tadmor | 8:4 | + |
+tekoah | | Tekoa | 11:6,20:20 | + |
+tharshish | | Tarshish | 9:21,20:36,20:37 | + |
+tikvah | | Tikvath | 34:22 | + |
+tilgath-pilneser | | Tilgath-pilneser | 28:20 | + |
+timnah | | Timnah | 28:18 | + |
+tyre | | Tyre | 2:3,2:11,2:14 | + |
+uri | | Uri | 1:5 | + |
+zachariah-a | | Zechariah | 29:1 | + |
+zadok | | Zadok | 31:10 | + |
+zadok-j | | Zadok | 27:1 | + |
+zebulun | | Zebulun | 30:10,30:11,30:18 | + |
+zedekiah | | Zedekiah | 18:10,18:23 | + |
+zedekiah-k | | Zedekiah | 36:10,36:11 | + |
+zemaraim | | Zemaraim | 13:4 | + |
+zibiah | | Zibiah | 24:1 | + |
+zimmah | | Zimmah | 29:12 | + |
+zion | | Zion | 5:2 | + |
+ziph | | Ziph | 11:8 | + |
+zorah | | Zorah | 11:10 | + |
