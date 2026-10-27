@@ -30,6 +30,13 @@ lower case in the KJV, used mid-sentence or tagged with a Strong's number in
 name in any verse of the book belongs to no record, if a record cites a verse that does
 not name it, or if a link cites no verse. `engine/check.mjs` checks the built files.
 
+A link line can end with two more fields: `kids op target | verses | note | evidence | sources`.
+`a == b` marks two records that are one person under two names, where a verse or a source
+shows it (Esh-baal and Ish-bosheth); the records stay separate so each keeps its own verses.
+`sources` lists where a link was checked outside the verse, from the catalog in
+`docs/library/historical-person-sources.md` (Josephus, the Jewish Encyclopedia, ...), each
+as `Title <https://exact-page>`, joined by ` ; `. A `history` or `variant` link must name one.
+
 Every link carries an evidence label: `scripture` (Scripturally confirmed), `parallel`
 (Parallel identification), `history` (Historically identified) or `variant` (Textual
 variant). There is no "uncertain" label: only what the KJV and Apocrypha state.

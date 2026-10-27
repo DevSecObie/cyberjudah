@@ -65,6 +65,8 @@ export function validateKjvPeople(people, { bibleDir }) {
         if (e.id === p.id) problems.push(`${at}: links to itself`);
         if (!EVIDENCE[e.evidence]) problems.push(`${at}: evidence ${e.evidence}`);
         if (!e.verses?.length) problems.push(`${at}: no verses`);
+        if (['history', 'variant'].includes(e.evidence) && !e.sources?.length) problems.push(`${at}: ${e.evidence} evidence needs a source`);
+        for (const s of e.sources ?? []) if (!s.title || !/^https:\/\/\S+$/.test(s.url ?? '')) problems.push(`${at}: source needs a title and an https link`);
         for (const ref of e.verses ?? []) if (verseText(ref, bibleDir, cache) === null) problems.push(`${at}: ${ref} is not a verse`);
         const q = byId.get(e.id);
         const back = { father: ['children'], mother: ['children'], children: ['father', 'mother'], partners: ['partners'], siblings: ['siblings'], same: ['same'] }[field];
