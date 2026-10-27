@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Ruth added (12 new people; the line from Pharez to David, Ruth 4:18-22).

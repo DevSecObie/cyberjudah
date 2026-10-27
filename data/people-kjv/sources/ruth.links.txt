@@ -1,0 +1,18 @@
+# Family links in Ruth, each with the verse that states it (same format as genesis.links.txt).
+elimelech = naomi | 1:2,1:3
+mahlon chilion < elimelech | 1:2,1:3
+mahlon chilion << naomi | 1:2,1:5
+elimelech mahlon chilion @ ephrathites | 1:2 | "Ephrathites of Beth-lehem-judah"
+ruth = mahlon | 4:10 | "Ruth the Moabitess, the wife of Mahlon"
+ruth @ moabites | 1:22,2:2,2:21,4:5,4:10 | "Ruth the Moabitess"
+boaz = ruth | 4:13
+obed < boaz | 4:21
+obed << ruth | 4:13,4:17
+jesse < obed | 4:17,4:22
+david < jesse | 4:17,4:22
+hezron < pharez | 4:18
+ram < hezron | 4:19
+amminadab < ram | 4:19
+naashon < amminadab | 4:20
+salmon < naashon | 4:20
+boaz < salmon | 4:21
