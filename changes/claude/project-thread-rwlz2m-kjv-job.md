@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Job added (Job, his three friends and Elihu with their peoples, Job's three daughters; the stars Arcturus, Orion, Pleiades and Mazzaroth kept out of People).

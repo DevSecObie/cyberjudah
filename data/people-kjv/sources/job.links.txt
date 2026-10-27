@@ -1,0 +1,8 @@
+# Job family links.
+eliphaz-t @ temanites | 2:11,4:1,15:1,22:1,42:7,42:9 | "Eliphaz the Temanite"
+bildad @ shuhites | 2:11,8:1,18:1,25:1,42:9 | "Bildad the Shuhite"
+zophar @ naamathites | 2:11,11:1,20:1,42:9 | "Zophar the Naamathite"
+elihu-b < barachel | 32:2,32:6
+barachel @ buzites | 32:2,32:6 | "Elihu the son of Barachel the Buzite"
+elihu-b ^ ram-e | 32:2 | "of the kindred of Ram"
+jemima kezia keren-happuch < job-u | 42:13,42:14,42:15 | "He had also seven sons and three daughters" (42:13)
