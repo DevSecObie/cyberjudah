@@ -1,0 +1,607 @@
+# Nehemiah. key | Name | forms | verses | type | description
+# Nehemiah 7:6-73 is "a register of the genealogy of them which came up at the first" (7:5), the list of Ezra 2, so its names carry on Ezra's records.
+# Names in the lists of Nehemiah 8-12 with no father stated stay separate records unless a verse ties them.
+nehemiah-h | Nehemiah | Nehemiah | 1:1,8:9,10:1,12:26,12:47 | M | The son of Hachaliah, the king's cupbearer in Shushan, who built the wall of Jerusalem; governor of the land of Judah, "which is the Tirshatha" (Nehemiah 1:1, 1:11, 2:1-20, 5:14, 8:9, 10:1, 12:26)
+hachaliah | Hachaliah | Hachaliah | * | M | The father of Nehemiah (Nehemiah 1:1, 10:1)
+chisleu-month | Chisleu | Chisleu | * | X | The month in which Hanani came to Nehemiah in Shushan (Nehemiah 1:1); not a person in People
+shushan | Shushan | Shushan | * | P | "Shushan the palace", where Nehemiah served the king (Nehemiah 1:1)
+hanani-n | Hanani | Hanani | 1:2,7:2 | M | "One of my brethren", who brought Nehemiah word of Jerusalem (Nehemiah 1:2); "my brother Hanani", given charge over Jerusalem with Hananiah (Nehemiah 7:2)
+hanani-12 | Hanani | Hanani | 12:36 | M | Of the priests' sons' brethren, with the musical instruments of David at the dedication of the wall (Nehemiah 12:36)
+judah | | Judah | *,!11:9,!12:8,!12:34,!12:36 | + |
+judah-s | Judah | Judah | 11:9 | M | Of Benjamin, the son of Senuah, "second over the city" (Nehemiah 11:9)
+judah-l12 | Judah | Judah | 12:8 | M | A Levite who went up with Zerubbabel and Jeshua (Nehemiah 12:1, 12:8)
+judah-p34 | Judah | Judah | 12:34 | M | One of the company that went upon the wall at the dedication (Nehemiah 12:32-34)
+judah-m36 | Judah | Judah | 12:36 | M | Of the priests' sons' brethren, with the musical instruments of David at the dedication of the wall (Nehemiah 12:36)
+jews | | Jews | * | + |
+jerusalem | | Jerusalem | * | + |
+israel-people | | Israel | * | + |
+moses | | Moses | * | + |
+nisan-month | Nisan | Nisan | * | X | The month in which Nehemiah gave the king wine and asked to be sent to Judah (Nehemiah 2:1); not a person in People
+artaxerxes-n | Artaxerxes | Artaxerxes | * | M | The king whom Nehemiah served as cupbearer; in his twentieth year he sent Nehemiah to build Jerusalem; "Artaxerxes king of Babylon" (Nehemiah 2:1, 5:14, 13:6)
+asaph-k | Asaph | Asaph | 2:8 | M | "The keeper of the king's forest", to whom the king gave a letter for timber (Nehemiah 2:8)
+asaph-s | | Asaph | 7:44,11:17,11:22,12:35,12:46 | + |
+sanballat | Sanballat | Sanballat | * | M | The Horonite, who with Tobiah and Geshem mocked the building of the wall and sought to do Nehemiah mischief; one of the sons of Joiada was his son in law (Nehemiah 2:10, 2:19, 4:1-8, 6:1-14, 13:28)
+horonite | Horonite | Horonite | * | G | "Sanballat the Horonite" (Nehemiah 2:10, 2:19, 13:28)
+tobiah-a | Tobiah | Tobiah | *,!7:62 | M | "The servant, the Ammonite", who with Sanballat opposed the building of the wall; son in law of Shechaniah the son of Arah; Eliashib prepared him a chamber in the house of God, and Nehemiah cast forth his stuff (Nehemiah 2:10, 2:19, 4:3, 6:17-19, 13:4-8)
+tobiah-u | | Tobiah | 7:62 | + |
+ammon | | Ammonite;Ammonites;Ammon | * | + |
+geshem | Geshem | Geshem | * | M | "Geshem the Arabian", who with Sanballat and Tobiah laughed the builders to scorn (Nehemiah 2:19, 6:1-2)
+gashmu | Gashmu | Gashmu | * | M | "It is reported among the heathen, and Gashmu saith it" (Nehemiah 6:6)
+arabians | | Arabian;Arabians | * | + |
+eliashib-hp | Eliashib | Eliashib | 3:1,3:20,3:21,12:10,12:22,12:23,13:28 | M | "The high priest", the son of Joiakim, who with his brethren the priests builded the sheep gate; father of Joiada (Nehemiah 3:1, 3:20-21, 12:10, 12:22, 13:28)
+eliashib-13 | Eliashib | Eliashib | 13:4,13:7 | M | "The priest, having the oversight of the chamber of the house of our God", allied unto Tobiah, for whom he prepared a chamber (Nehemiah 13:4-7)
+meah | Meah | Meah | * | P | "The tower of Meah", by the sheep gate (Nehemiah 3:1, 12:39)
+hananeel | Hananeel | Hananeel | * | P | "The tower of Hananeel", by the sheep gate (Nehemiah 3:1, 12:39)
+jericho | | Jericho | * | + |
+zaccur-i | Zaccur | Zaccur | 3:2 | M | The son of Imri, who builded next to the men of Jericho (Nehemiah 3:2)
+zaccur-10 | Zaccur | Zaccur | 10:12 | M | A Levite who sealed the covenant (Nehemiah 10:9, 10:12)
+zaccur-a | | Zaccur | 12:35 | + |
+zaccur-m | Zaccur | Zaccur | 13:13 | M | The son of Mattaniah, father of Hanan the treasurer (Nehemiah 13:13)
+imri-z | Imri | Imri | * | M | The father of Zaccur, who builded on the wall (Nehemiah 3:2)
+hassenaah | Hassenaah | Hassenaah | * | M | Whose sons built the fish gate (Nehemiah 3:3)
+meremoth-u | | Meremoth | 3:4,3:21 | + |
+meremoth-10 | Meremoth | Meremoth | 10:5 | M | One of the priests who sealed the covenant (Nehemiah 10:5, 10:8)
+meremoth-z | Meremoth | Meremoth | 12:3 | M | One of the priests who went up with Zerubbabel and Jeshua (Nehemiah 12:1, 12:3)
+uriah-p | | Urijah | 3:4,3:21 | + |
+urijah-8 | Urijah | Urijah | 8:4 | M | One who stood beside Ezra on his right hand when he read the law (Nehemiah 8:4)
+koz | | Koz | * | + |
+meshullam-br | Meshullam | Meshullam | 3:4,3:30,6:18 | M | The son of Berechiah, the son of Meshezabeel, who repaired on the wall over against his chamber; Tobiah's son Johanan had taken his daughter (Nehemiah 3:4, 3:30, 6:18)
+meshullam-bs | Meshullam | Meshullam | 3:6 | M | The son of Besodeiah, who with Jehoiada repaired the old gate (Nehemiah 3:6)
+meshullam-8 | Meshullam | Meshullam | 8:4 | M | One who stood beside Ezra on his left hand when he read the law (Nehemiah 8:4)
+meshullam-10p | Meshullam | Meshullam | 10:7 | M | One of the priests who sealed the covenant (Nehemiah 10:7-8)
+meshullam-10c | Meshullam | Meshullam | 10:20 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:20)
+meshullam-h | | Meshullam | 11:7 | + |
+meshullam-9 | | Meshullam | 11:11 | + |
+meshullam-ez | Meshullam | Meshullam | 12:13 | M | In the days of Joiakim, chief of the fathers of the priests "of Ezra" (Nehemiah 12:12-13)
+meshullam-gi | Meshullam | Meshullam | 12:16 | M | In the days of Joiakim, chief of the fathers of the priests "of Ginnethon" (Nehemiah 12:12, 12:16)
+meshullam-po | Meshullam | Meshullam | 12:25 | M | One of the porters keeping the ward at the thresholds of the gates in the days of Joiakim (Nehemiah 12:25-26)
+meshullam-33 | Meshullam | Meshullam | 12:33 | M | One of the company that went upon the wall at the dedication (Nehemiah 12:32-33)
+berechiah-ms | Berechiah | Berechiah | * | M | The son of Meshezabeel, father of Meshullam (Nehemiah 3:4, 3:30, 6:18)
+meshezabeel-b | Meshezabeel | Meshezabeel | 3:4 | M | The father of Berechiah (Nehemiah 3:4)
+meshezabeel-10 | Meshezabeel | Meshezabeel | 10:21 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:21)
+meshezabeel-z | Meshezabeel | Meshezabeel | 11:24 | M | The father of Pethahiah, of the children of Zerah the son of Judah (Nehemiah 11:24)
+zadok-b | Zadok | Zadok | 3:4 | M | The son of Baana, who repaired on the wall (Nehemiah 3:4)
+zadok-i | Zadok | Zadok | 3:29 | M | The son of Immer, who repaired over against his house (Nehemiah 3:29)
+zadok-10 | Zadok | Zadok | 10:21 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:21)
+zadok-9 | | Zadok | 11:11 | + |
+zadok-sc | Zadok | Zadok | 13:13 | M | "Zadok the scribe", made a treasurer over the treasuries (Nehemiah 13:13)
+baana-z | Baana | Baana | * | M | The father of Zadok (Nehemiah 3:4)
+tekoite | | Tekoites | * | + |
+jehoiada-ps | Jehoiada | Jehoiada | * | M | The son of Paseah, who with Meshullam repaired the old gate (Nehemiah 3:6)
+paseah-j | Paseah | Paseah | 3:6 | M | The father of Jehoiada (Nehemiah 3:6)
+besodeiah | Besodeiah | Besodeiah | * | M | The father of Meshullam (Nehemiah 3:6)
+melatiah | Melatiah | Melatiah | * | M | "Melatiah the Gibeonite", who repaired on the wall (Nehemiah 3:7)
+gibeonites | | Gibeonite | * | + |
+jadon | Jadon | Jadon | * | M | "Jadon the Meronothite", who repaired on the wall (Nehemiah 3:7)
+meronothite | | Meronothite | * | + |
+gibeon | | Gibeon | * | + |
+mizpah | | Mizpah | * | + |
+uzziel-hh | Uzziel | Uzziel | 3:8 | M | The son of Harhaiah, of the goldsmiths, who repaired on the wall (Nehemiah 3:8)
+harhaiah | Harhaiah | Harhaiah | * | M | The father of Uzziel (Nehemiah 3:8)
+hananiah-ap | Hananiah | Hananiah | 3:8 | M | "The son of one of the apothecaries", who repaired on the wall (Nehemiah 3:8)
+hananiah-sh | Hananiah | Hananiah | 3:30 | M | The son of Shelemiah, who repaired on the wall (Nehemiah 3:30)
+hananiah-pal | Hananiah | Hananiah | 7:2 | M | "The ruler of the palace", given charge over Jerusalem with Hanani: "he was a faithful man, and feared God above many" (Nehemiah 7:2)
+hananiah-10 | Hananiah | Hananiah | 10:23 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:23)
+hananiah-j | Hananiah | Hananiah | 12:12 | M | In the days of Joiakim, chief of the fathers of the priests "of Jeremiah" (Nehemiah 12:12)
+hananiah-41 | Hananiah | Hananiah | 12:41 | M | One of the priests with trumpets at the dedication of the wall (Nehemiah 12:41)
+rephaiah-h | Rephaiah | Rephaiah | * | M | The son of Hur, "the ruler of the half part of Jerusalem", who repaired on the wall (Nehemiah 3:9)
+hur-r | Hur | Hur | 3:9 | M | The father of Rephaiah (Nehemiah 3:9)
+jedaiah-hm | Jedaiah | Jedaiah | 3:10 | M | The son of Harumaph, who repaired over against his house (Nehemiah 3:10)
+jedaiah-h | | Jedaiah | 7:39 | + |
+jedaiah-j | Jedaiah | Jedaiah | 11:10 | M | Of the priests, the son of Joiarib, who dwelt at Jerusalem (Nehemiah 11:10)
+jedaiah-z1 | Jedaiah | Jedaiah | 12:6,12:19 | M | One of the priests who went up with Zerubbabel and Jeshua, named after Joiarib; "of Jedaiah, Uzzi" in the days of Joiakim (Nehemiah 12:1, 12:6, 12:19)
+jedaiah-z2 | Jedaiah | Jedaiah | 12:7,12:21 | M | One of the priests who went up with Zerubbabel and Jeshua, named after Hilkiah; "of Jedaiah, Nethaneel" in the days of Joiakim (Nehemiah 12:1, 12:7, 12:21)
+harumaph | Harumaph | Harumaph | * | M | The father of Jedaiah (Nehemiah 3:10)
+hattush-h | Hattush | Hattush | 3:10 | M | The son of Hashabniah, who repaired on the wall (Nehemiah 3:10)
+hattush-10 | Hattush | Hattush | 10:4 | M | One of the priests who sealed the covenant (Nehemiah 10:4, 10:8)
+hattush-z | Hattush | Hattush | 12:2 | M | One of the priests who went up with Zerubbabel and Jeshua (Nehemiah 12:1-2)
+hashabniah-h | Hashabniah | Hashabniah | 3:10 | M | The father of Hattush (Nehemiah 3:10)
+hashabniah-l | Hashabniah | Hashabniah | 9:5 | M | One of the Levites who said, "Stand up and bless the Lord your God for ever and ever" (Nehemiah 9:5)
+malchijah-hr | Malchijah | Malchijah | 3:11 | M | The son of Harim, who with Hashub repaired the other piece and the tower of the furnaces (Nehemiah 3:11)
+malchijah-10 | Malchijah | Malchijah | 10:3 | M | One of the priests who sealed the covenant (Nehemiah 10:3, 10:8)
+malchijah-42 | Malchijah | Malchijah | 12:42 | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
+harim-3 | Harim | Harim | 3:11 | M | The father of Malchijah (Nehemiah 3:11)
+harim-l | | Harim | 7:35 | + |
+harim-p | | Harim | 7:42 | + |
+harim-10p | Harim | Harim | 10:5 | M | One of the priests who sealed the covenant (Nehemiah 10:5, 10:8)
+harim-10c | Harim | Harim | 10:27 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:27)
+harim-12 | Harim | Harim | 12:15 | M | A house of the priests: "of Harim, Adna", in the days of Joiakim (Nehemiah 12:12, 12:15)
+hashub-pm | Hashub | Hashub | 3:11 | M | "The son of Pahath-moab", who with Malchijah repaired the other piece and the tower of the furnaces (Nehemiah 3:11)
+hashub-b | Hashub | Hashub | 3:23 | M | Who with Benjamin repaired over against their house (Nehemiah 3:23)
+hashub-10 | Hashub | Hashub | 10:23 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:23)
+hasshub | | Hashub | 11:15 | + |
+pahath-moab | | Pahath-moab | 3:11,7:11 | + |
+pahath-moab-10 | Pahath-moab | Pahath-moab | 10:14 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14)
+shallum-hl | Shallum | Shallum | 3:12 | M | The son of Halohesh, "the ruler of the half part of Jerusalem", who repaired, "he and his daughters" (Nehemiah 3:12)
+shallum-po | | Shallum | 7:45 | + |
+halohesh | Halohesh | Halohesh | * | M | The father of Shallum (Nehemiah 3:12)
+hanun-z | Hanun | Hanun | 3:13 | M | Who with the inhabitants of Zanoah repaired the valley gate (Nehemiah 3:13)
+hanun-zl | Hanun | Hanun | 3:30 | M | "The sixth son of Zalaph", who repaired another piece (Nehemiah 3:30)
+zanoah | | Zanoah | * | + |
+malchiah-r | Malchiah | Malchiah | 3:14 | M | The son of Rechab, "the ruler of part of Beth-haccerem", who repaired the dung gate (Nehemiah 3:14)
+malchiah-g | Malchiah | Malchiah | 3:31 | M | "The goldsmith's son", who repaired unto the place of the Nethinims (Nehemiah 3:31)
+malchiah-8 | Malchiah | Malchiah | 8:4 | M | One who stood beside Ezra on his left hand when he read the law (Nehemiah 8:4)
+malchijah-p | | Malchiah | 11:12 | + |
+rechab-m | Rechab | Rechab | * | M | The father of Malchiah (Nehemiah 3:14)
+beth-haccerem | Beth-haccerem | Beth-haccerem | * | P | Of which Malchiah was ruler of part (Nehemiah 3:14)
+shallun | Shallun | Shallun | * | M | The son of Col-hozeh, "the ruler of part of Mizpah", who repaired the gate of the fountain and the wall of the pool of Siloah (Nehemiah 3:15)
+col-hozeh-s | Col-hozeh | Col-hozeh | 3:15 | M | The father of Shallun (Nehemiah 3:15)
+col-hozeh-b | Col-hozeh | Col-hozeh | 11:5 | M | Of Judah, the son of Hazaiah, father of Baruch (Nehemiah 11:5)
+siloah | Siloah | Siloah | * | P | "The pool of Siloah by the king's garden" (Nehemiah 3:15)
+david | | David | * | + |
+nehemiah-a | Nehemiah | Nehemiah | 3:16 | M | The son of Azbuk, "the ruler of the half part of Beth-zur", who repaired unto the sepulchres of David (Nehemiah 3:16)
+nehemiah-z | | Nehemiah | 7:7 | + |
+azbuk | Azbuk | Azbuk | * | M | The father of Nehemiah, ruler of the half part of Beth-zur (Nehemiah 3:16)
+beth-zur | | Beth-zur | * | + |
+levites | | Levites | * | + |
+rehum-b | Rehum | Rehum | 3:17 | M | Of the Levites, the son of Bani, who repaired on the wall (Nehemiah 3:17)
+rehum-10 | Rehum | Rehum | 10:25 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:25)
+rehum-12 | Rehum | Rehum | 12:3 | M | One of the priests who went up with Zerubbabel and Jeshua (Nehemiah 12:1, 12:3)
+bani-3 | Bani | Bani | 3:17 | M | A Levite, the father of Rehum (Nehemiah 3:17)
+bani-8 | Bani | Bani | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+bani-9a | Bani | Bani | 9:4 | M | One of the Levites who stood up upon the stairs and cried with a loud voice unto the Lord (Nehemiah 9:4), the first Bani named
+bani-9b | Bani | Bani | 9:4 | M | One of the Levites who stood up upon the stairs and cried with a loud voice unto the Lord (Nehemiah 9:4), the second Bani named
+bani-95 | Bani | Bani | 9:5 | M | One of the Levites who said, "Stand up and bless the Lord your God" (Nehemiah 9:5)
+bani-10l | Bani | Bani | 10:13 | M | One of the Levites who sealed the covenant (Nehemiah 10:9, 10:13)
+bani-10c | Bani | Bani | 10:14 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14)
+bani-u | Bani | Bani | 11:22 | M | A Levite, the son of Hashabiah, father of Uzzi the overseer of the Levites at Jerusalem (Nehemiah 11:22)
+hashabiah-kl | Hashabiah | Hashabiah | 3:17 | M | "The ruler of the half part of Keilah", who repaired in his part (Nehemiah 3:17)
+hashabiah-10 | Hashabiah | Hashabiah | 10:11 | M | One of the Levites who sealed the covenant (Nehemiah 10:9, 10:11)
+hashabiah-9 | | Hashabiah | 11:15 | + |
+hashabiah-u | Hashabiah | Hashabiah | 11:22 | M | A Levite, the son of Mattaniah, father of Bani (Nehemiah 11:22)
+hashabiah-hk | Hashabiah | Hashabiah | 12:21 | M | In the days of Joiakim, chief of the fathers of the priests "of Hilkiah" (Nehemiah 12:12, 12:21)
+hashabiah-24 | Hashabiah | Hashabiah | 12:24 | M | One of the chief of the Levites in the days of Joiakim, to praise and to give thanks (Nehemiah 12:24, 12:26)
+keilah | | Keilah | * | + |
+bavai | Bavai | Bavai | * | M | The son of Henadad, "the ruler of the half part of Keilah", who repaired on the wall (Nehemiah 3:18)
+henadad | | Henadad | * | + |
+ezer-j | Ezer | Ezer | 3:19 | M | The son of Jeshua, "the ruler of Mizpah", who repaired another piece at the turning of the wall (Nehemiah 3:19)
+ezer-42 | Ezer | Ezer | 12:42 | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
+jeshua-m | Jeshua | Jeshua | 3:19 | M | The father of Ezer the ruler of Mizpah (Nehemiah 3:19)
+jeshua-hp | | Jeshua | 7:7,12:1,12:7,12:10,12:26 | + |
+jeshua-pm | | Jeshua | 7:11 | + |
+jeshua-h | | Jeshua | 7:39 | + |
+jeshua-lv | | Jeshua | 7:43,12:8 | + |
+jeshua-87 | Jeshua | Jeshua | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+joshua | | Jeshua | 8:17 | + |
+jeshua-9 | Jeshua | Jeshua | 9:4,9:5 | M | One of the Levites who stood up upon the stairs and cried unto the Lord, and said, "Stand up and bless the Lord your God" (Nehemiah 9:4-5)
+jeshua-az | Jeshua | Jeshua | 10:9 | M | A Levite, the son of Azaniah, who sealed the covenant (Nehemiah 10:9)
+jeshua-place | Jeshua | Jeshua | 11:26 | P | Where some of the children of Judah dwelt (Nehemiah 11:26)
+jeshua-km | Jeshua | Jeshua | 12:24 | M | The son of Kadmiel, one of the chief of the Levites in the days of Joiakim (Nehemiah 12:24, 12:26)
+baruch-z | Baruch | Baruch | 3:20 | M | The son of Zabbai, who "earnestly repaired the other piece" (Nehemiah 3:20)
+baruch-10 | Baruch | Baruch | 10:6 | M | One of the priests who sealed the covenant (Nehemiah 10:6, 10:8)
+baruch-c | Baruch | Baruch | 11:5 | M | Of Judah, the son of Col-hozeh, father of Maaseiah (Nehemiah 11:5)
+zabbai-b | Zabbai | Zabbai | 3:20 | M | The father of Baruch (Nehemiah 3:20)
+benjamin-n | Benjamin | Benjamin | 3:23 | M | Who with Hashub repaired over against their house (Nehemiah 3:23)
+benjamin | | Benjamin | 11:4,11:7,11:31,11:36 | + |
+benjamin-34 | Benjamin | Benjamin | 12:34 | M | One of the company that went upon the wall at the dedication (Nehemiah 12:32-34)
+azariah-m | Azariah | Azariah | 3:23,3:24 | M | The son of Maaseiah, the son of Ananiah, who repaired by his house (Nehemiah 3:23-24)
+azariah-7 | Azariah | Azariah | 7:7 | M | One who came with Zerubbabel (Nehemiah 7:7)
+azariah-8 | Azariah | Azariah | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+azariah-10 | Azariah | Azariah | 10:2 | M | One of the priests who sealed the covenant (Nehemiah 10:2, 10:8)
+azariah-33 | Azariah | Azariah | 12:33 | M | One of the company that went upon the wall at the dedication (Nehemiah 12:32-33)
+maaseiah-an | Maaseiah | Maaseiah | 3:23 | M | The son of Ananiah, father of Azariah (Nehemiah 3:23)
+maaseiah-8a | Maaseiah | Maaseiah | 8:4 | M | One who stood beside Ezra on his right hand when he read the law (Nehemiah 8:4)
+maaseiah-8b | Maaseiah | Maaseiah | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+maaseiah-10 | Maaseiah | Maaseiah | 10:25 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:25)
+maaseiah-b | Maaseiah | Maaseiah | 11:5 | M | Of Judah, the son of Baruch, who dwelt at Jerusalem (Nehemiah 11:5)
+maaseiah-bj | Maaseiah | Maaseiah | 11:7 | M | Of Benjamin, the son of Ithiel, father of Kolaiah (Nehemiah 11:7)
+maaseiah-41 | Maaseiah | Maaseiah | 12:41 | M | One of the priests with trumpets at the dedication of the wall (Nehemiah 12:41)
+maaseiah-42 | Maaseiah | Maaseiah | 12:42 | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
+ananiah-m | Ananiah | Ananiah | 3:23 | M | The father of Maaseiah, grandfather of Azariah (Nehemiah 3:23)
+ananiah-place | Ananiah | Ananiah | 11:32 | P | Where some of the children of Benjamin dwelt (Nehemiah 11:31-32)
+binnui-h | Binnui | Binnui | 3:24,10:9 | M | A Levite, the son of Henadad, who repaired another piece; he sealed the covenant (Nehemiah 3:24, 10:9)
+binnui-c | Binnui | Binnui | 7:15 | M | "The children of Binnui, six hundred forty and eight" (Nehemiah 7:15)
+binnui-z | Binnui | Binnui | 12:8 | M | A Levite who went up with Zerubbabel and Jeshua (Nehemiah 12:1, 12:8)
+palal | Palal | Palal | * | M | The son of Uzai, who repaired over against the turning of the wall (Nehemiah 3:25)
+uzai | Uzai | Uzai | * | M | The father of Palal (Nehemiah 3:25)
+pedaiah-p | Pedaiah | Pedaiah | 3:25 | M | "The son of Parosh", who repaired on the wall (Nehemiah 3:25)
+pedaiah-8 | Pedaiah | Pedaiah | 8:4 | M | One who stood beside Ezra on his left hand when he read the law (Nehemiah 8:4)
+pedaiah-b | Pedaiah | Pedaiah | 11:7 | M | Of Benjamin, the son of Kolaiah, father of Joed (Nehemiah 11:7)
+pedaiah-l | Pedaiah | Pedaiah | 13:13 | M | "Of the Levites, Pedaiah", made a treasurer over the treasuries (Nehemiah 13:13)
+parosh | | Parosh | 3:25,7:8 | + |
+parosh-10 | Parosh | Parosh | 10:14 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14)
+nethinims | | Nethinims | * | + |
+ophel | | Ophel | * | + |
+immer-z | Immer | Immer | 3:29 | M | The father of Zadok (Nehemiah 3:29)
+immer-h | | Immer | 7:40 | + |
+immer-place | | Immer | 7:61 | + |
+immer-p | | Immer | 11:13 | + |
+shemaiah-sc | Shemaiah | Shemaiah | 3:29 | M | The son of Shechaniah, "the keeper of the east gate", who repaired on the wall (Nehemiah 3:29)
+shemaiah-dl | Shemaiah | Shemaiah | 6:10 | M | The son of Delaiah, the son of Mehetabeel, "who was shut up"; hired by Tobiah and Sanballat, he bade Nehemiah hide in the temple (Nehemiah 6:10-13)
+shemaiah-10 | Shemaiah | Shemaiah | 10:8 | M | One of the priests who sealed the covenant (Nehemiah 10:8)
+shemaiah-m | | Shemaiah | 11:15 | + |
+shemaiah-z | Shemaiah | Shemaiah | 12:6,12:18 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Shemaiah, Jehonathan" in the days of Joiakim (Nehemiah 12:1, 12:6, 12:18)
+shemaiah-34 | Shemaiah | Shemaiah | 12:34 | M | One of the company that went upon the wall at the dedication (Nehemiah 12:32-34)
+shemaiah-mt | Shemaiah | Shemaiah | 12:35 | M | The son of Mattaniah, father of Jonathan, of the line of Asaph (Nehemiah 12:35)
+shemaiah-36 | Shemaiah | Shemaiah | 12:36 | M | Of the priests' sons' brethren, with the musical instruments of David at the dedication of the wall (Nehemiah 12:36)
+shemaiah-42 | Shemaiah | Shemaiah | 12:42 | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
+shechaniah-sh | Shechaniah | Shechaniah | 3:29 | M | The father of Shemaiah the keeper of the east gate (Nehemiah 3:29)
+shechaniah-ar | Shechaniah | Shechaniah | 6:18 | M | The son of Arah, whose son in law was Tobiah (Nehemiah 6:18)
+shechaniah-z | Shechaniah | Shechaniah | 12:3 | M | One of the priests who went up with Zerubbabel and Jeshua (Nehemiah 12:1, 12:3)
+shelemiah-h | Shelemiah | Shelemiah | 3:30 | M | The father of Hananiah (Nehemiah 3:30)
+shelemiah-p | Shelemiah | Shelemiah | 13:13 | M | "Shelemiah the priest", made a treasurer over the treasuries (Nehemiah 13:13)
+zalaph | Zalaph | Zalaph | * | M | The father of Hanun (Nehemiah 3:30)
+miphkad | Miphkad | Miphkad | * | P | "The gate Miphkad" (Nehemiah 3:31)
+samaria | | Samaria | * | + |
+ashdodites | Ashdodites | Ashdodites | * | G | Who with Sanballat, Tobiah, the Arabians and the Ammonites conspired to fight against Jerusalem (Nehemiah 4:7-8)
+ono | | Ono | * | + |
+delaiah-m | Delaiah | Delaiah | 6:10 | M | The son of Mehetabeel, father of Shemaiah (Nehemiah 6:10)
+delaiah-u | | Delaiah | 7:62 | + |
+mehetabeel | Mehetabeel | Mehetabeel | * | M | The father of Delaiah, grandfather of Shemaiah (Nehemiah 6:10)
+noadiah-f | Noadiah | Noadiah | * | F | "The prophetess Noadiah", who with the rest of the prophets would have put Nehemiah in fear (Nehemiah 6:14)
+elul-month | Elul | Elul | * | X | The month in which the wall was finished, on the twenty and fifth day, in fifty and two days (Nehemiah 6:15); not a person in People
+arah-c | | Arah | 6:18,7:10 | + |
+johanan-t | Johanan | Johanan | 6:18 | M | The son of Tobiah, who had taken the daughter of Meshullam the son of Berechiah (Nehemiah 6:18)
+johanan-hp | Johanan | Johanan | 12:22,12:23 | M | Named in the days of the high priests Eliashib, Joiada and Jaddua; "Johanan the son of Eliashib", unto whose days the chief of the fathers of the Levites were written (Nehemiah 12:22-23)
+nebuchadnezzar | | Nebuchadnezzar | * | + |
+babylon | | Babylon | * | + |
+zerubbabel | | Zerubbabel | * | + |
+raamiah | Raamiah | Raamiah | * | M | One who came with Zerubbabel (Nehemiah 7:7)
+nahamani | Nahamani | Nahamani | * | M | One who came with Zerubbabel (Nehemiah 7:7)
+mordecai-z | | Mordecai | * | + |
+bilshan | | Bilshan | * | + |
+mispar | | Mispereth | * | + |
+bigvai-z | | Bigvai | 7:7 | + |
+bigvai | | Bigvai | 7:19 | + |
+bigvai-10 | Bigvai | Bigvai | 10:16 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:16)
+nehum | Nehum | Nehum | * | M | One who came with Zerubbabel (Nehemiah 7:7)
+baanah-z | | Baanah | 7:7 | + |
+baanah-10 | Baanah | Baanah | 10:27 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:27)
+shephatiah-c | | Shephatiah | 7:9 | + |
+shephatiah-s | | Shephatiah | 7:59 | + |
+shephatiah-mh | Shephatiah | Shephatiah | 11:4 | M | Of Judah, of the children of Perez, the son of Mahalaleel, father of Amariah (Nehemiah 11:4)
+joab-pm | | Joab | * | + |
+elam-c | | Elam | 7:12 | + |
+elam-o | | Elam | 7:34 | + |
+elam-10 | Elam | Elam | 10:14 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14)
+elam-42 | Elam | Elam | 12:42 | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
+zattu | | Zattu | * | + |
+zatthu | Zatthu | Zatthu | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14)
+zaccai | | Zaccai | * | + |
+bebai | | Bebai | 7:16 | + |
+bebai-10 | Bebai | Bebai | 10:15 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14-15)
+azgad | | Azgad | 7:17 | + |
+azgad-10 | Azgad | Azgad | 10:15 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14-15)
+adonikam | | Adonikam | * | + |
+adin | | Adin | 7:20 | + |
+adin-10 | Adin | Adin | 10:16 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:16)
+ater | | Ater | 7:21 | + |
+ater-p | | Ater | 7:45 | + |
+ater-10 | Ater | Ater | 10:17 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:17)
+hezekiah-a | | Hezekiah | * | + |
+hashum | | Hashum | 7:22 | + |
+hashum-8 | Hashum | Hashum | 8:4 | M | One who stood beside Ezra on his left hand when he read the law (Nehemiah 8:4)
+hashum-10 | Hashum | Hashum | 10:18 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:18)
+bezai | | Bezai | 7:23 | + |
+bezai-10 | Bezai | Bezai | 10:18 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:18)
+hariph | Hariph | Hariph | 7:24 | M | "The children of Hariph, an hundred and twelve" (Nehemiah 7:24)
+hariph-10 | Hariph | Hariph | 10:19 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:19)
+beth-lehem | | Beth-lehem | * | + |
+netophah | | Netophah | * | + |
+anathoth | | Anathoth | 7:27,11:32 | + |
+anathoth-10 | Anathoth | Anathoth | 10:19 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:19)
+azmaveth-p | | Beth-azmaveth;Azmaveth | * | + |
+kirjath-jearim | | Kirjath-jearim | * | + |
+chephirah | | Chephirah | * | + |
+beeroth-g | | Beeroth | * | + |
+ramah | | Ramah | * | + |
+geba | | Geba | * | + |
+michmas | | Michmas | * | + |
+michmash | | Michmash | * | + |
+beth-el | | Beth-el | * | + |
+ai | | Ai | * | + |
+nebo-j | | Nebo | * | + |
+lod | | Lod | * | + |
+hadid | | Hadid | * | + |
+senaah | | Senaah | * | + |
+pashur-h | | Pashur | 7:41 | + |
+pashur-10 | Pashur | Pashur | 10:3 | M | One of the priests who sealed the covenant (Nehemiah 10:3, 10:8)
+pashur-m | | Pashur | 11:12 | + |
+kadmiel | | Kadmiel | 7:43,12:8,12:24 | + |
+kadmiel-9 | Kadmiel | Kadmiel | 9:4,9:5 | M | One of the Levites who stood up upon the stairs and cried unto the Lord, and said, "Stand up and bless the Lord your God" (Nehemiah 9:4-5)
+kadmiel-10 | Kadmiel | Kadmiel | 10:9 | M | One of the Levites who sealed the covenant (Nehemiah 10:9)
+hodaviah-l | | Hodevah | * | + |
+talmon-p | | Talmon | 7:45 | + |
+talmon-11 | Talmon | Talmon | 11:19,12:25 | M | One of the porters that kept the gates at Jerusalem, with Akkub; in the days of Joiakim keeping the ward at the thresholds of the gates (Nehemiah 11:19, 12:25-26)
+akkub-po | | Akkub | 7:45 | + |
+akkub-l | Akkub | Akkub | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+akkub-11 | Akkub | Akkub | 11:19,12:25 | M | One of the porters that kept the gates at Jerusalem, with Talmon; in the days of Joiakim keeping the ward at the thresholds of the gates (Nehemiah 11:19, 12:25-26)
+hatita | | Hatita | * | + |
+shobai | | Shobai | * | + |
+ziha | | Ziha | 7:46 | + |
+ziha-o | Ziha | Ziha | 11:21 | M | Who with Gispa was over the Nethinims that dwelt in Ophel (Nehemiah 11:21)
+hasupha | | Hashupha | * | + |
+tabbaoth | | Tabbaoth | * | + |
+keros | | Keros | * | + |
+siaha | | Sia | * | + |
+padon | | Padon | * | + |
+lebanah | | Lebana | * | + |
+hagabah | | Hagaba | * | + |
+shalmai | | Shalmai | * | + |
+hanan-n | | Hanan | 7:49 | + |
+hanan-8 | Hanan | Hanan | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+hanan-10a | Hanan | Hanan | 10:10 | M | One of the Levites who sealed the covenant (Nehemiah 10:9-10)
+hanan-10b | Hanan | Hanan | 10:22 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:22)
+hanan-10c | Hanan | Hanan | 10:26 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:26)
+hanan-z | Hanan | Hanan | 13:13 | M | The son of Zaccur, the son of Mattaniah, set next to the treasurers, "for they were counted faithful" (Nehemiah 13:13)
+giddel-n | | Giddel | 7:49 | + |
+giddel-s | | Giddel | 7:58 | + |
+gahar | | Gahar | * | + |
+reaiah-n | | Reaiah | * | + |
+rezin-n | | Rezin | * | + |
+nekoda-n | | Nekoda | 7:50 | + |
+nekoda-u | | Nekoda | 7:62 | + |
+gazzam | | Gazzam | * | + |
+uzza-n | | Uzza | * | + |
+paseah-n | | Phaseah | * | + |
+besai | | Besai | * | + |
+mehunim | | Meunim | * | + |
+nephusim | | Nephishesim | * | + |
+bakbuk | | Bakbuk | * | + |
+hakupha | | Hakupha | * | + |
+harhur | | Harhur | * | + |
+bazluth | | Bazlith | * | + |
+mehida | | Mehida | * | + |
+harsha | | Harsha | * | + |
+barkos | | Barkos | * | + |
+sisera-n | | Sisera | * | + |
+thamah | | Tamah | * | + |
+neziah | | Neziah | * | + |
+hatipha | | Hatipha | * | + |
+solomon | | Solomon | * | + |
+sotai | | Sotai | * | + |
+sophereth | | Sophereth | * | + |
+peruda | | Perida | * | + |
+jaalah | | Jaala | * | + |
+darkon | | Darkon | * | + |
+hattil | | Hattil | * | + |
+pochereth | | Pochereth | * | + |
+zebaim | | Zebaim | * | + |
+amon-s | Amon | Amon | * | M | Of the children of Solomon's servants (Nehemiah 7:57-59)
+tel-melah | | Tel-melah | * | + |
+tel-harsa | | Tel-haresha | * | + |
+addan | | Addon | * | + |
+habaiah | | Habaiah | * | + |
+barzillai-p | | Barzillai | 7:63 | + |
+barzillai | | Barzillai | 7:63 | + |
+gileadites-j | | Gileadite | * | + |
+tirshatha | | Tirshatha | * | + |
+ezra | | Ezra | 8:1,8:2,8:4,8:5,8:6,8:9,8:13,12:26,12:36 | + |
+ezra-z | Ezra | Ezra | 12:1,12:13 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Ezra, Meshullam" in the days of Joiakim (Nehemiah 12:1, 12:13)
+ezra-33 | Ezra | Ezra | 12:33 | M | One of the company that went upon the wall at the dedication (Nehemiah 12:32-33)
+mattithiah-8 | Mattithiah | Mattithiah | * | M | One who stood beside Ezra on his right hand when he read the law (Nehemiah 8:4)
+shema-8 | Shema | Shema | * | M | One who stood beside Ezra on his right hand when he read the law (Nehemiah 8:4)
+anaiah-8 | Anaiah | Anaiah | 8:4 | M | One who stood beside Ezra on his right hand when he read the law (Nehemiah 8:4)
+anaiah-10 | Anaiah | Anaiah | 10:22 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:22)
+hilkiah-8 | Hilkiah | Hilkiah | 8:4 | M | One who stood beside Ezra on his right hand when he read the law (Nehemiah 8:4)
+hilkiah-9 | | Hilkiah | 11:11 | + |
+hilkiah-z | Hilkiah | Hilkiah | 12:7,12:21 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Hilkiah, Hashabiah" in the days of Joiakim (Nehemiah 12:1, 12:7, 12:21)
+mishael-8 | Mishael | Mishael | * | M | One who stood beside Ezra on his left hand when he read the law (Nehemiah 8:4)
+hashbadana | Hashbadana | Hashbadana | * | M | One who stood beside Ezra on his left hand when he read the law (Nehemiah 8:4)
+zechariah-8 | Zechariah | Zechariah | 8:4 | M | One who stood beside Ezra on his left hand when he read the law (Nehemiah 8:4)
+zechariah-am | Zechariah | Zechariah | 11:4 | M | Of Judah, the son of Amariah, father of Uzziah (Nehemiah 11:4)
+zechariah-sh | Zechariah | Zechariah | 11:5 | M | Of Judah, the son of Shiloni, father of Joiarib (Nehemiah 11:5)
+zechariah-pa | Zechariah | Zechariah | 11:12 | M | A priest, the son of Pashur, father of Amzi (Nehemiah 11:12)
+zechariah-i12 | Zechariah | Zechariah | 12:16 | M | In the days of Joiakim, chief of the fathers of the priests "of Iddo" (Nehemiah 12:12, 12:16)
+zechariah-jn | Zechariah | Zechariah | 12:35 | M | Of the priests' sons with trumpets at the dedication, the son of Jonathan, of the line of Asaph (Nehemiah 12:35)
+zechariah-41 | Zechariah | Zechariah | 12:41 | M | One of the priests with trumpets at the dedication of the wall (Nehemiah 12:41)
+sherebiah-8 | Sherebiah | Sherebiah | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+sherebiah-9 | Sherebiah | Sherebiah | 9:4,9:5 | M | One of the Levites who stood up upon the stairs and cried unto the Lord, and said, "Stand up and bless the Lord your God" (Nehemiah 9:4-5)
+sherebiah-10 | Sherebiah | Sherebiah | 10:12 | M | One of the Levites who sealed the covenant (Nehemiah 10:9, 10:12)
+sherebiah-z | Sherebiah | Sherebiah | 12:8 | M | A Levite who went up with Zerubbabel and Jeshua (Nehemiah 12:1, 12:8)
+sherebiah-24 | Sherebiah | Sherebiah | 12:24 | M | One of the chief of the Levites in the days of Joiakim, to praise and to give thanks (Nehemiah 12:24, 12:26)
+jamin-8 | Jamin | Jamin | * | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+shabbethai-8 | Shabbethai | Shabbethai | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+shabbethai-11 | Shabbethai | Shabbethai | 11:16 | M | Of the chief of the Levites, who with Jozabad had the oversight of the outward business of the house of God (Nehemiah 11:16)
+hodijah-8 | Hodijah | Hodijah | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+hodijah-9 | Hodijah | Hodijah | 9:5 | M | One of the Levites who said, "Stand up and bless the Lord your God" (Nehemiah 9:5)
+hodijah-10a | Hodijah | Hodijah | 10:10 | M | One of the Levites who sealed the covenant (Nehemiah 10:9-10)
+hodijah-10b | Hodijah | Hodijah | 10:13 | M | One of the Levites who sealed the covenant (Nehemiah 10:9, 10:13)
+hodijah-10c | Hodijah | Hodijah | 10:18 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:18)
+kelita-8 | Kelita | Kelita | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+kelita-10 | Kelita | Kelita | 10:10 | M | One of the Levites who sealed the covenant (Nehemiah 10:9-10)
+jozabad-8 | Jozabad | Jozabad | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+jozabad-11 | Jozabad | Jozabad | 11:16 | M | Of the chief of the Levites, who with Shabbethai had the oversight of the outward business of the house of God (Nehemiah 11:16)
+pelaiah-8 | Pelaiah | Pelaiah | 8:7 | M | One of the Levites who caused the people to understand the law (Nehemiah 8:7)
+pelaiah-10 | Pelaiah | Pelaiah | 10:10 | M | One of the Levites who sealed the covenant (Nehemiah 10:9-10)
+ephraim | | Ephraim | * | + |
+nun | | Nun | * | + |
+shebaniah-9 | Shebaniah | Shebaniah | 9:4,9:5 | M | One of the Levites who stood up upon the stairs and cried unto the Lord, and said, "Stand up and bless the Lord your God" (Nehemiah 9:4-5)
+shebaniah-10p | Shebaniah | Shebaniah | 10:4 | M | One of the priests who sealed the covenant (Nehemiah 10:4, 10:8)
+shebaniah-10a | Shebaniah | Shebaniah | 10:10 | M | One of the Levites who sealed the covenant (Nehemiah 10:9-10)
+shebaniah-10b | Shebaniah | Shebaniah | 10:12 | M | One of the Levites who sealed the covenant (Nehemiah 10:9, 10:12)
+shebaniah-14 | Shebaniah | Shebaniah | 12:14 | M | A house of the priests: "of Shebaniah, Joseph", in the days of Joiakim (Nehemiah 12:12, 12:14)
+bunni-9 | Bunni | Bunni | 9:4 | M | One of the Levites who stood up upon the stairs and cried with a loud voice unto the Lord (Nehemiah 9:4)
+bunni-10 | Bunni | Bunni | 10:15 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14-15)
+bunni-h | Bunni | Bunni | 11:15 | M | A Levite, father of Hashabiah (Nehemiah 11:15)
+chenani | Chenani | Chenani | * | M | One of the Levites who stood up upon the stairs and cried with a loud voice unto the Lord (Nehemiah 9:4)
+pethahiah-9 | Pethahiah | Pethahiah | 9:5 | M | One of the Levites who said, "Stand up and bless the Lord your God" (Nehemiah 9:5)
+pethahiah-z | Pethahiah | Pethahiah | 11:24 | M | The son of Meshezabeel, of the children of Zerah the son of Judah, "at the king's hand in all matters concerning the people" (Nehemiah 11:24)
+abraham | | Abram;Abraham | * | + |
+ur | | Ur | * | + |
+chaldees | | Chaldees | * | + |
+canaanites | | Canaanites | * | + |
+hittites | | Hittites | * | + |
+amorite | | Amorites | * | + |
+perizzites | | Perizzites | * | + |
+jebusite | | Jebusites | * | + |
+girgasite | | Girgashites | * | + |
+egypt | | Egypt | * | + |
+pharaoh-e | | Pharaoh | * | + |
+sinai | | Sinai | * | + |
+sihon | | Sihon | * | + |
+heshbon | | Heshbon | * | + |
+og | | Og | * | + |
+bashan | | Bashan | * | + |
+assyria | | Assyria | * | + |
+zidkijah | Zidkijah | Zidkijah | * | M | Who sealed the covenant, named after Nehemiah the Tirshatha (Nehemiah 10:1)
+seraiah-10 | Seraiah | Seraiah | 10:2 | M | One of the priests who sealed the covenant (Nehemiah 10:2, 10:8)
+seraiah-h11 | Seraiah | Seraiah | 11:11 | M | The son of Hilkiah, "the ruler of the house of God", who dwelt at Jerusalem (Nehemiah 11:11)
+seraiah-z12 | Seraiah | Seraiah | 12:1,12:12 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Seraiah, Meraiah" in the days of Joiakim (Nehemiah 12:1, 12:12)
+jeremiah-10p | Jeremiah | Jeremiah | 10:2 | M | One of the priests who sealed the covenant (Nehemiah 10:2, 10:8)
+jeremiah-z12 | Jeremiah | Jeremiah | 12:1,12:12 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Jeremiah, Hananiah" in the days of Joiakim (Nehemiah 12:1, 12:12)
+jeremiah-34 | Jeremiah | Jeremiah | 12:34 | M | One of the company that went upon the wall at the dedication (Nehemiah 12:32-34)
+amariah-10 | Amariah | Amariah | 10:3 | M | One of the priests who sealed the covenant (Nehemiah 10:3, 10:8)
+amariah-sp | Amariah | Amariah | 11:4 | M | Of Judah, the son of Shephatiah, father of Zechariah (Nehemiah 11:4)
+amariah-z | Amariah | Amariah | 12:2,12:13 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Amariah, Jehohanan" in the days of Joiakim (Nehemiah 12:1-2, 12:13)
+malluch-10a | Malluch | Malluch | 10:4 | M | One of the priests who sealed the covenant (Nehemiah 10:4, 10:8)
+malluch-10b | Malluch | Malluch | 10:27 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:27)
+malluch-z | Malluch | Malluch | 12:2 | M | One of the priests who went up with Zerubbabel and Jeshua (Nehemiah 12:1-2)
+obadiah-10 | Obadiah | Obadiah | 10:5 | M | One of the priests who sealed the covenant (Nehemiah 10:5, 10:8)
+obadiah-25 | Obadiah | Obadiah | 12:25 | M | One of the porters keeping the ward at the thresholds of the gates in the days of Joiakim (Nehemiah 12:25-26)
+daniel-10 | Daniel | Daniel | * | M | One of the priests who sealed the covenant (Nehemiah 10:6, 10:8)
+ginnethon-10 | Ginnethon | Ginnethon | 10:6 | M | One of the priests who sealed the covenant (Nehemiah 10:6, 10:8)
+ginnetho | Ginnetho | Ginnetho;Ginnethon | 12:4,12:16 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Ginnethon, Meshullam" in the days of Joiakim (Nehemiah 12:1, 12:4, 12:16)
+abijah-10 | Abijah | Abijah | 10:7 | M | One of the priests who sealed the covenant (Nehemiah 10:7-8)
+abijah-z | Abijah | Abijah | 12:4,12:17 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Abijah, Zichri" in the days of Joiakim (Nehemiah 12:1, 12:4, 12:17)
+mijamin-10 | Mijamin | Mijamin | * | M | One of the priests who sealed the covenant (Nehemiah 10:7-8)
+maaziah-10 | Maaziah | Maaziah | * | M | One of the priests who sealed the covenant (Nehemiah 10:8)
+bilgai | Bilgai | Bilgai | * | M | One of the priests who sealed the covenant (Nehemiah 10:8)
+azaniah | Azaniah | Azaniah | * | M | A Levite, father of Jeshua (Nehemiah 10:9)
+micha-10 | Micha | Micha | 10:11 | M | One of the Levites who sealed the covenant (Nehemiah 10:9, 10:11)
+micah-a | | Micha | 11:17,11:22 | + |
+rehob-10 | Rehob | Rehob | * | M | One of the Levites who sealed the covenant (Nehemiah 10:9, 10:11)
+beninu | Beninu | Beninu | * | M | One of the Levites who sealed the covenant (Nehemiah 10:9, 10:13)
+adonijah-10 | Adonijah | Adonijah | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:16)
+hizkijah | Hizkijah | Hizkijah | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:17)
+azzur-10 | Azzur | Azzur | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:17)
+nebai | Nebai | Nebai | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:19)
+magpiash | Magpiash | Magpiash | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:20)
+hezir-10 | Hezir | Hezir | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:20)
+jaddua-10 | Jaddua | Jaddua | 10:21 | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:21)
+jaddua | Jaddua | Jaddua | 12:11,12:22 | M | The son of Jonathan, the last of the line of high priests named from Jeshua (Nehemiah 12:10-11, 12:22)
+pelatiah-10 | Pelatiah | Pelatiah | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:22)
+hoshea-10 | Hoshea | Hoshea | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:23)
+hallohesh | Hallohesh | Hallohesh | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:24)
+pileha | Pileha | Pileha | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:24)
+shobek | Shobek | Shobek | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:24)
+hashabnah | Hashabnah | Hashabnah | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:25)
+ahijah-10 | Ahijah | Ahijah | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:26)
+anan | Anan | Anan | * | M | One of the chief of the people who sealed the covenant (Nehemiah 10:14, 10:26)
+aaron | | Aaron | * | + |
+levi | | Levi | * | + |
+athaiah | Athaiah | Athaiah | * | M | Of the children of Judah, of the children of Perez, the son of Uzziah, who dwelt at Jerusalem (Nehemiah 11:4)
+uzziah-z | Uzziah | Uzziah | * | M | Of Judah, the son of Zechariah, father of Athaiah (Nehemiah 11:4)
+mahalaleel-p | Mahalaleel | Mahalaleel | * | M | Of Judah, of the children of Perez, father of Shephatiah (Nehemiah 11:4)
+pharez | | Perez | * | + |
+hazaiah | Hazaiah | Hazaiah | * | M | Of Judah, the son of Adaiah, father of Col-hozeh (Nehemiah 11:5)
+adaiah-j | Adaiah | Adaiah | 11:5 | M | Of Judah, the son of Joiarib, father of Hazaiah (Nehemiah 11:5)
+adaiah-p | | Adaiah | 11:12 | + |
+joiarib-z | Joiarib | Joiarib | 11:5 | M | Of Judah, the son of Zechariah, father of Adaiah (Nehemiah 11:5)
+joiarib-j | Joiarib | Joiarib | 11:10 | M | A priest, father of Jedaiah (Nehemiah 11:10)
+joiarib-z12 | Joiarib | Joiarib | 12:6,12:19 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Joiarib, Mattenai" in the days of Joiakim (Nehemiah 12:1, 12:6, 12:19)
+shiloni | Shiloni | Shiloni | * | M | Of Judah, father of Zechariah, in the line of Maaseiah (Nehemiah 11:5)
+sallu | | Sallu | 11:7 | + |
+sallu-z | Sallu | Sallu;Sallai | 12:7,12:20 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Sallai, Kallai" in the days of Joiakim (Nehemiah 12:1, 12:7, 12:20)
+joed | Joed | Joed | * | M | Of Benjamin, the son of Pedaiah, named as the father of Meshullam (Nehemiah 11:7)
+kolaiah | Kolaiah | Kolaiah | * | M | Of Benjamin, the son of Maaseiah, father of Pedaiah (Nehemiah 11:7)
+ithiel | Ithiel | Ithiel | * | M | Of Benjamin, the son of Jesaiah, father of Maaseiah (Nehemiah 11:7)
+jesaiah-b | Jesaiah | Jesaiah | * | M | Of Benjamin, father of Ithiel, in the line of Sallu (Nehemiah 11:7)
+gabbai | Gabbai | Gabbai | * | M | Of Benjamin, who dwelt at Jerusalem after Sallu (Nehemiah 11:8)
+sallai-b | Sallai | Sallai | 11:8 | M | Of Benjamin, who dwelt at Jerusalem after Sallu (Nehemiah 11:8)
+joel-z | Joel | Joel | * | M | Of Benjamin, the son of Zichri, overseer of the sons of Benjamin at Jerusalem (Nehemiah 11:9)
+zichri-b | Zichri | Zichri | 11:9 | M | Of Benjamin, the father of Joel (Nehemiah 11:9)
+zichri-ab | Zichri | Zichri | 12:17 | M | In the days of Joiakim, chief of the fathers of the priests "of Abijah" (Nehemiah 12:12, 12:17)
+senuah | Senuah | Senuah | * | M | Of Benjamin, the father of Judah (Nehemiah 11:9)
+jachin-n | Jachin | Jachin | * | M | Of the priests who dwelt at Jerusalem (Nehemiah 11:10)
+meraioth-9 | | Meraioth | 11:11 | + |
+meraioth-12 | Meraioth | Meraioth | 12:15 | M | A house of the priests: "of Meraioth, Helkai", in the days of Joiakim (Nehemiah 12:12, 12:15)
+ahitub-9 | | Ahitub | * | + |
+jeroham-p | | Jeroham | * | + |
+pelaliah | Pelaliah | Pelaliah | * | M | A priest, the son of Amzi, father of Jeroham (Nehemiah 11:12)
+amzi-n | Amzi | Amzi | * | M | A priest, the son of Zechariah, father of Pelaliah (Nehemiah 11:12)
+amashai | Amashai | Amashai | * | M | A priest, the son of Azareel, who dwelt at Jerusalem (Nehemiah 11:13)
+azareel-n | Azareel | Azareel | * | M | A priest, the son of Ahasai, father of Amashai (Nehemiah 11:13)
+ahasai | Ahasai | Ahasai | * | M | A priest, the son of Meshillemoth, father of Azareel (Nehemiah 11:13)
+meshillemith | | Meshillemoth | * | + |
+zabdiel-g | Zabdiel | Zabdiel | * | M | "The son of one of the great men", overseer of the priests' brethren, mighty men of valour (Nehemiah 11:14)
+azrikam-m | | Azrikam | * | + |
+mattaniah-a | | Mattaniah | 11:17,11:22 | + |
+mattaniah-z12 | Mattaniah | Mattaniah | 12:8 | M | A Levite who went up with Zerubbabel and Jeshua, "which was over the thanksgiving, he and his brethren" (Nehemiah 12:1, 12:8)
+mattaniah-25 | Mattaniah | Mattaniah | 12:25 | M | One of the porters keeping the ward at the thresholds of the gates in the days of Joiakim (Nehemiah 12:25-26)
+mattaniah-mc | Mattaniah | Mattaniah | 12:35 | M | The son of Michaiah, father of Shemaiah, of the line of Asaph (Nehemiah 12:35)
+mattaniah-13 | Mattaniah | Mattaniah | 13:13 | M | The father of Zaccur, grandfather of Hanan (Nehemiah 13:13)
+zabdi-n | Zabdi | Zabdi | * | M | Of the Levites, the son of Asaph, named as the father of Micha in the line of Mattaniah (Nehemiah 11:17); 1 Chronicles 9:15 names Zichri there
+bakbukiah-11 | Bakbukiah | Bakbukiah | 11:17 | M | A Levite at Jerusalem, "the second among his brethren" (Nehemiah 11:17)
+bakbukiah-z | Bakbukiah | Bakbukiah | 12:9 | M | A Levite who went up with Zerubbabel and Jeshua, "over against them in the watches" (Nehemiah 12:1, 12:9)
+bakbukiah-25 | Bakbukiah | Bakbukiah | 12:25 | M | One of the porters keeping the ward at the thresholds of the gates in the days of Joiakim (Nehemiah 12:25-26)
+abda-n | Abda | Abda | * | M | A Levite at Jerusalem, the son of Shammua (Nehemiah 11:17)
+shammua-n | Shammua | Shammua | 11:17 | M | A Levite, the son of Galal, father of Abda (Nehemiah 11:17)
+shammua-bl | Shammua | Shammua | 12:18 | M | In the days of Joiakim, chief of the fathers of the priests "of Bilgah" (Nehemiah 12:12, 12:18)
+galal-2 | | Galal | * | + |
+jeduthun-9 | | Jeduthun | * | + |
+gispa | Gispa | Gispa | * | M | Who with Ziha was over the Nethinims that dwelt in Ophel (Nehemiah 11:21)
+uzzi-l | Uzzi | Uzzi | 11:22 | M | The son of Bani, "the overseer also of the Levites at Jerusalem" (Nehemiah 11:22)
+uzzi-j | Uzzi | Uzzi | 12:19 | M | In the days of Joiakim, chief of the fathers of the priests "of Jedaiah" (Nehemiah 12:12, 12:19)
+uzzi-42 | Uzzi | Uzzi | 12:42 | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
+zarah | | Zerah | * | + |
+arbah | | Kirjath-arba | * | + |
+dibon | | Dibon | * | + |
+jekabzeel | Jekabzeel | Jekabzeel | * | P | Where some of the children of Judah dwelt (Nehemiah 11:25)
+moladah | | Moladah | * | + |
+beth-phelet | Beth-phelet | Beth-phelet | * | P | Where some of the children of Judah dwelt (Nehemiah 11:26)
+hazar-shual | | Hazar-shual | * | + |
+beer-sheba | | Beer-sheba | * | + |
+ziklag | | Ziklag | * | + |
+mekonah | Mekonah | Mekonah | * | P | Where some of the children of Judah dwelt (Nehemiah 11:28)
+en-rimmon | En-rimmon | En-rimmon | * | P | Where some of the children of Judah dwelt (Nehemiah 11:29)
+zareah | Zareah | Zareah | * | P | Where some of the children of Judah dwelt (Nehemiah 11:29)
+jarmuth | | Jarmuth | * | + |
+adullam | | Adullam | * | + |
+lachish | | Lachish | * | + |
+azekah | | Azekah | * | + |
+hinnom | | Hinnom | * | + |
+aija | Aija | Aija | * | P | Where some of the children of Benjamin dwelt (Nehemiah 11:31)
+nob | | Nob | * | + |
+hazor | | Hazor | * | + |
+gittaim | | Gittaim | * | + |
+zeboim-b | Zeboim | Zeboim | * | P | Where some of the children of Benjamin dwelt (Nehemiah 11:34)
+neballat | Neballat | Neballat | * | P | Where some of the children of Benjamin dwelt (Nehemiah 11:34)
+shealtiel | | Shealtiel | * | + |
+iddo-12 | Iddo | Iddo | * | M | One of the priests who went up with Zerubbabel and Jeshua; "of Iddo, Zechariah" in the days of Joiakim (Nehemiah 12:1, 12:4, 12:16)
+miamin-z | Miamin | Miamin;Miniamin | 12:5,12:17 | M | One of the priests who went up with Zerubbabel and Jeshua; "of Miniamin" in the days of Joiakim (Nehemiah 12:1, 12:5, 12:17)
+miniamin-41 | Miniamin | Miniamin | 12:41 | M | One of the priests with trumpets at the dedication of the wall (Nehemiah 12:41)
+maadiah | Maadiah | Maadiah;Moadiah | * | M | One of the priests who went up with Zerubbabel and Jeshua; "of Moadiah, Piltai" in the days of Joiakim (Nehemiah 12:1, 12:5, 12:17)
+bilgah-z | Bilgah | Bilgah | * | M | One of the priests who went up with Zerubbabel and Jeshua; "of Bilgah, Shammua" in the days of Joiakim (Nehemiah 12:1, 12:5, 12:18)
+amok | Amok | Amok | * | M | One of the priests who went up with Zerubbabel and Jeshua; "of Amok, Eber" in the days of Joiakim (Nehemiah 12:1, 12:7, 12:20)
+unni-z | Unni | Unni | * | M | A Levite who went up with Zerubbabel and Jeshua, "over against them in the watches" (Nehemiah 12:1, 12:9)
+joiakim | Joiakim | Joiakim | * | M | The son of Jeshua the son of Jozadak; father of Eliashib; in his days the chief of the fathers of the priests and Levites were reckoned (Nehemiah 12:10, 12:12, 12:26)
+joiada-hp | Joiada | Joiada | * | M | The son of Eliashib the high priest, father of Jonathan; one of his sons was son in law to Sanballat the Horonite (Nehemiah 12:10-11, 12:22, 13:28)
+jonathan-hp | Jonathan | Jonathan | 12:11 | M | The son of Joiada, father of Jaddua (Nehemiah 12:11)
+jonathan-m | Jonathan | Jonathan | 12:14 | M | In the days of Joiakim, chief of the fathers of the priests "of Melicu" (Nehemiah 12:12, 12:14)
+jonathan-sm | Jonathan | Jonathan | 12:35 | M | The son of Shemaiah, father of Zechariah, of the line of Asaph (Nehemiah 12:35)
+meraiah | Meraiah | Meraiah | * | M | In the days of Joiakim, chief of the fathers of the priests "of Seraiah" (Nehemiah 12:12)
+jehohanan-a | Jehohanan | Jehohanan | 12:13 | M | In the days of Joiakim, chief of the fathers of the priests "of Amariah" (Nehemiah 12:12-13)
+jehohanan-42 | Jehohanan | Jehohanan | 12:42 | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
+melicu | Melicu | Melicu | * | M | A house of the priests: "of Melicu, Jonathan", in the days of Joiakim (Nehemiah 12:12, 12:14)
+joseph-sh | Joseph | Joseph | * | M | In the days of Joiakim, chief of the fathers of the priests "of Shebaniah" (Nehemiah 12:12, 12:14)
+adna-h | Adna | Adna | * | M | In the days of Joiakim, chief of the fathers of the priests "of Harim" (Nehemiah 12:12, 12:15)
+helkai | Helkai | Helkai | * | M | In the days of Joiakim, chief of the fathers of the priests "of Meraioth" (Nehemiah 12:12, 12:15)
+piltai | Piltai | Piltai | * | M | In the days of Joiakim, chief of the fathers of the priests "of Moadiah" (Nehemiah 12:12, 12:17)
+jehonathan-s | Jehonathan | Jehonathan | * | M | In the days of Joiakim, chief of the fathers of the priests "of Shemaiah" (Nehemiah 12:12, 12:18)
+mattenai-j | Mattenai | Mattenai | * | M | In the days of Joiakim, chief of the fathers of the priests "of Joiarib" (Nehemiah 12:12, 12:19)
+kallai | Kallai | Kallai | * | M | In the days of Joiakim, chief of the fathers of the priests "of Sallai" (Nehemiah 12:12, 12:20)
+eber-a | Eber | Eber | * | M | In the days of Joiakim, chief of the fathers of the priests "of Amok" (Nehemiah 12:12, 12:20)
+nethaneel-jd | Nethaneel | Nethaneel | 12:21 | M | In the days of Joiakim, chief of the fathers of the priests "of Jedaiah" (Nehemiah 12:12, 12:21)
+nethaneel-36 | Nethaneel | Nethaneel | 12:36 | M | Of the priests' sons' brethren, with the musical instruments of David at the dedication of the wall (Nehemiah 12:36)
+darius-n | Darius | Darius | * | M | "Darius the Persian", unto whose reign the priests were recorded (Nehemiah 12:22)
+persians | Persian | Persian | * | G | "Darius the Persian" (Nehemiah 12:22)
+jozadak | | Jozadak | * | + |
+netophathite | | Netophathi | * | + |
+gilgal | | Gilgal | * | + |
+hoshaiah | Hoshaiah | Hoshaiah | * | M | Who went after the first company that gave thanks upon the wall, with half of the princes of Judah (Nehemiah 12:31-32)
+michaiah-z | Michaiah | Michaiah | 12:35 | M | The son of Zaccur, father of Mattaniah, of the line of Asaph (Nehemiah 12:35)
+michaiah-41 | Michaiah | Michaiah | 12:41 | M | One of the priests with trumpets at the dedication of the wall (Nehemiah 12:41)
+azarael | Azarael | Azarael | * | M | Of the priests' sons' brethren, with the musical instruments of David at the dedication of the wall (Nehemiah 12:36)
+milalai | Milalai | Milalai | * | M | Of the priests' sons' brethren, with the musical instruments of David at the dedication of the wall (Nehemiah 12:36)
+gilalai | Gilalai | Gilalai | * | M | Of the priests' sons' brethren, with the musical instruments of David at the dedication of the wall (Nehemiah 12:36)
+maai | Maai | Maai | * | M | Of the priests' sons' brethren, with the musical instruments of David at the dedication of the wall (Nehemiah 12:36)
+eliakim-p | Eliakim | Eliakim | * | M | One of the priests with trumpets at the dedication of the wall (Nehemiah 12:41)
+elioenai-41 | Elioenai | Elioenai | * | M | One of the priests with trumpets at the dedication of the wall (Nehemiah 12:41)
+eleazar-42 | Eleazar | Eleazar | * | M | One of the priests at the dedication of the wall (Nehemiah 12:41-42)
+jezrahiah | Jezrahiah | Jezrahiah | * | M | The overseer of the singers at the dedication of the wall (Nehemiah 12:42)
+moabites | | Moabite | * | + |
+balaam | | Balaam | * | + |
+tyre | | Tyre | * | + |
+ashdod | | Ashdod | * | + |
+moab-land | | Moab | * | + |

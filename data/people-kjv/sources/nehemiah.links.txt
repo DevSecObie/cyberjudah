@@ -1,0 +1,136 @@
+# Nehemiah family links. "Of X, Y" in 12:12-21 names Y as chief of the fathers of the house of X in the days of Joiakim, so those links are ^ (line), not father.
+nehemiah-h < hachaliah | 1:1,10:1
+hanani-n ~ nehemiah-h | 7:2 | "my brother Hanani" (7:2); in 1:2 he is "one of my brethren"
+meremoth-u < uriah-p | 3:4,3:21 | "Meremoth the son of Urijah" (3:4, 3:21), "Meremoth the son of Uriah the priest" (Ezra 8:33)
+uriah-p ^ koz | 3:4,3:21 | "the son of Koz"; the children of Koz were of the priests (7:63)
+meshullam-br < berechiah-ms | 3:4,3:30,6:18
+berechiah-ms < meshezabeel-b | 3:4
+zadok-b < baana-z | 3:4
+jehoiada-ps < paseah-j | 3:6
+meshullam-bs < besodeiah | 3:6
+uzziel-hh < harhaiah | 3:8
+rephaiah-h < hur-r | 3:9
+jedaiah-hm < harumaph | 3:10
+hattush-h < hashabniah-h | 3:10
+malchijah-hr < harim-3 | 3:11
+hashub-pm ^ pahath-moab | 3:11 | "the son of Pahath-moab", of that house (7:11)
+shallum-hl < halohesh | 3:12
+malchiah-r < rechab-m | 3:14
+shallun < col-hozeh-s | 3:15
+nehemiah-a < azbuk | 3:16
+rehum-b < bani-3 | 3:17
+bavai binnui-h < henadad | 3:18,3:24,10:9 | "Bavai the son of Henadad" (3:18), "Binnui the son of Henadad" (3:24), "Binnui of the sons of Henadad" (10:9)
+ezer-j < jeshua-m | 3:19
+baruch-z < zabbai-b | 3:20
+azariah-m < maaseiah-an | 3:23
+maaseiah-an < ananiah-m | 3:23
+palal < uzai | 3:25
+pedaiah-p ^ parosh | 3:25 | "the son of Parosh", of that house (7:8)
+zadok-i < immer-z | 3:29
+shemaiah-sc < shechaniah-sh | 3:29
+hananiah-sh < shelemiah-h | 3:30
+hanun-zl < zalaph | 3:30 | "the sixth son of Zalaph"
+shemaiah-dl < delaiah-m | 6:10
+delaiah-m < mehetabeel | 6:10
+shechaniah-ar ^ arah-c | 6:18 | "the son of Arah", of that house (7:10)
+johanan-t < tobiah-a | 6:18 | "his son Johanan"
+# Nehemiah 7: the register of Ezra 2 (7:5). Where Nehemiah gives another name in the same place, the two records are linked.
+azariah-7 == seraiah-z | 7:7 | In the same place in the list of those "who came with Zerubbabel": Seraiah (Ezra 2:2), Azariah (Nehemiah 7:7); Nehemiah 7:5 calls the list "a register of the genealogy of them which came up at the first" | parallel
+raamiah == reelaiah | 7:7 | In the same place in the list of those "who came with Zerubbabel": Reelaiah (Ezra 2:2), Raamiah (Nehemiah 7:7); Nehemiah 7:5 calls the list "a register of the genealogy of them which came up at the first" | parallel
+nehum == rehum-z | 7:7 | In the same place in the list of those "who came with Zerubbabel": Rehum (Ezra 2:2), Nehum (Nehemiah 7:7); Nehemiah 7:5 calls the list "a register of the genealogy of them which came up at the first" | parallel
+binnui-c == bani-c | 7:15 | In the same place in the register: "the children of Bani, six hundred forty and two" (Ezra 2:10), "the children of Binnui, six hundred forty and eight" (Nehemiah 7:15); Nehemiah 7:5 calls the list "a register of the genealogy of them which came up at the first" | parallel
+hariph == jorah | 7:24 | In the same place in the register, with the same number: "the children of Jorah, an hundred and twelve" (Ezra 2:18), "the children of Hariph, an hundred and twelve" (Nehemiah 7:24); Nehemiah 7:5 calls the list "a register of the genealogy of them which came up at the first" | parallel
+amon-s == ami | 7:59 | In the same place, last of the children of Solomon's servants: Ami (Ezra 2:57), Amon (Nehemiah 7:59); Nehemiah 7:5 calls the list "a register of the genealogy of them which came up at the first" | parallel
+# Nehemiah 10
+jeshua-az < azaniah | 10:9
+# Nehemiah 11: those that dwelt at Jerusalem
+athaiah < uzziah-z | 11:4
+uzziah-z < zechariah-am | 11:4
+zechariah-am < amariah-sp | 11:4
+amariah-sp < shephatiah-mh | 11:4
+shephatiah-mh < mahalaleel-p | 11:4
+mahalaleel-p ^ pharez | 11:4 | "of the children of Perez"
+maaseiah-b < baruch-c | 11:5
+baruch-c < col-hozeh-b | 11:5
+col-hozeh-b < hazaiah | 11:5
+hazaiah < adaiah-j | 11:5
+adaiah-j < joiarib-z | 11:5
+joiarib-z < zechariah-sh | 11:5
+zechariah-sh < shiloni | 11:5
+sallu < meshullam-h | 11:7
+meshullam-h ^ joed | 11:7 | "Meshullam, the son of Joed" (Nehemiah 11:7); 1 Chronicles 9:7 gives "Meshullam, the son of Hodaviah"
+joed < pedaiah-b | 11:7
+pedaiah-b < kolaiah | 11:7
+kolaiah < maaseiah-bj | 11:7
+maaseiah-bj < ithiel | 11:7
+ithiel < jesaiah-b | 11:7
+joel-z < zichri-b | 11:9
+judah-s < senuah | 11:9
+jedaiah-j < joiarib-j | 11:10
+seraiah-h11 < hilkiah-9 | 11:11 | "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub"; 1 Chronicles 9:11 gives the same line for "Azariah the son of Hilkiah"
+hilkiah-9 < meshullam-9 | 11:11
+meshullam-9 < zadok-9 | 11:11
+zadok-9 < meraioth-9 | 11:11
+meraioth-9 < ahitub-9 | 11:11
+adaiah-p < jeroham-p | 11:12 | "Adaiah the son of Jeroham", the same as 1 Chronicles 9:12 | parallel | Jewish Encyclopedia (1901-1906) vol. 1 p. 173, "Adaiah" no. 5: "Son of Jeroham, a priest holding office in Jerusalem (I Chron. ix. 12; Neh. xi. 12)" <https://archive.org/details/cu31924091768188/page/n218/mode/1up>
+jeroham-p < pelaliah | 11:12
+pelaliah < amzi-n | 11:12
+amzi-n < zechariah-pa | 11:12
+zechariah-pa < pashur-m | 11:12
+pashur-m < malchijah-p | 11:12
+amashai < azareel-n | 11:13
+azareel-n < ahasai | 11:13
+ahasai < meshillemith | 11:13 | "Ahasai, the son of Meshillemoth, the son of Immer"; 1 Chronicles 9:12 has "Meshillemith the son of Immer"
+meshillemith < immer-p | 11:13
+shemaiah-m < hasshub | 11:15
+hasshub < azrikam-m | 11:15
+azrikam-m < hashabiah-9 | 11:15
+hashabiah-9 < bunni-h | 11:15
+mattaniah-a < micah-a | 11:17,11:22
+zabdi-n < asaph-s | 11:17 | "Zabdi, the son of Asaph"
+abda-n < shammua-n | 11:17
+shammua-n < galal-2 | 11:17
+galal-2 < jeduthun-9 | 11:17
+uzzi-l < bani-u | 11:22
+bani-u < hashabiah-u | 11:22
+hashabiah-u < mattaniah-a | 11:22
+pethahiah-z < meshezabeel-z | 11:24
+meshezabeel-z ^ zarah | 11:24 | "of the children of Zerah the son of Judah"
+# Nehemiah 12: the high priests from Jeshua
+joiakim < jeshua-hp | 12:10,12:26
+eliashib-hp < joiakim | 12:10
+joiada-hp < eliashib-hp | 12:10,13:28
+jonathan-hp < joiada-hp | 12:11
+jaddua < jonathan-hp | 12:11
+johanan-hp ^ eliashib-hp | 12:22,12:23 | "Johanan the son of Eliashib" (12:23), named after Eliashib and Joiada (12:22)
+johanan-hp == jonathan-hp | 12:22 | The high priests are named "Eliashib, Joiada, and Johanan, and Jaddua" (12:22), and "Joiada begat Jonathan, and Jonathan begat Jaddua" (12:11) | history | Josephus, Antiquities of the Jews 11.7.1-2 (Whiston): "When Eliashib the high priest was dead, his son Judas succeeded in the high priesthood; and when he was dead, his son John took that dignity ... Now when John had departed this life, his son Jaddua succeeded in the high priesthood" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link112HCH0007>
+jeshua-km < kadmiel | 12:24
+# Nehemiah 12:12-21: chief of the fathers in the days of Joiakim
+meraiah ^ seraiah-z12 | 12:12
+hananiah-j ^ jeremiah-z12 | 12:12
+meshullam-ez ^ ezra-z | 12:13
+jehohanan-a ^ amariah-z | 12:13
+jonathan-m ^ melicu | 12:14
+joseph-sh ^ shebaniah-14 | 12:14
+adna-h ^ harim-12 | 12:15
+helkai ^ meraioth-12 | 12:15
+zechariah-i12 ^ iddo-12 | 12:16
+meshullam-gi ^ ginnetho | 12:16
+zichri-ab ^ abijah-z | 12:17
+piltai ^ maadiah | 12:17
+shammua-bl ^ bilgah-z | 12:18
+jehonathan-s ^ shemaiah-z | 12:18
+mattenai-j ^ joiarib-z12 | 12:19
+uzzi-j ^ jedaiah-z1 | 12:19
+kallai ^ sallu-z | 12:20
+eber-a ^ amok | 12:20
+hashabiah-hk ^ hilkiah-z | 12:21
+nethaneel-jd ^ jedaiah-z2 | 12:21
+# Nehemiah 12:35 and 13:13
+zechariah-jn < jonathan-sm | 12:35
+jonathan-sm < shemaiah-mt | 12:35
+shemaiah-mt < mattaniah-mc | 12:35
+mattaniah-mc < michaiah-z | 12:35
+michaiah-z < zaccur-a | 12:35
+hanan-z < zaccur-m | 13:13
+zaccur-m < mattaniah-13 | 13:13
