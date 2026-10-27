@@ -1,0 +1,36 @@
+# Family links in Exodus, each with the verse that states it (same format as genesis.links.txt).
+moses = zipporah | 2:21,18:2
+zipporah < jethro | 2:16,2:21
+gershom < moses | 2:22,18:3
+gershom << zipporah | 2:22,18:3
+eliezer-m < moses | 18:4
+eliezer-m << zipporah | 18:2,18:4
+gershom ~ eliezer-m | 18:3,18:4
+aaron ~ moses | 4:14,28:1
+miriam ~ aaron | 15:20
+libni shimi < gershon | 6:17
+amram izhar hebron-k uzziel < kohath | 6:18
+mahali mushi < merari | 6:19
+amram = jochebed | 6:20
+aaron moses < amram | 6:20
+aaron moses << jochebed | 6:20
+jochebed ~ kohath | 6:20 | "Jochebed his father's sister": Amram's father is Kohath (6:18)
+korah-i nepheg zichri < izhar | 6:21
+mishael elzaphan zithri < uzziel | 6:22
+aaron = elisheba | 6:23
+elisheba < amminadab | 6:23
+elisheba ~ naashon | 6:23
+nadab abihu eleazar ithamar < aaron | 6:23,28:1
+nadab abihu eleazar ithamar << elisheba | 6:23
+assir elkanah abiasaph < korah-i | 6:24
+korhites ^ korah-i | 6:24
+phinehas < eleazar | 6:25
+phinehas ^ putiel | 6:25 | His mother is "one of the daughters of Putiel", not named
+levites ^ levi | 6:25,32:26,32:28 | "the heads of the fathers of the Levites" (6:25); "the sons of Levi" (32:26, 32:28)
+joshua < nun | 33:11
+uri < hur-j | 31:2,35:30,38:22
+bezaleel < uri | 31:2,35:30,38:22
+aholiab < ahisamach | 31:6,35:34,38:23
+aaron & levi | 4:14 | "Aaron the Levite"
+bezaleel & judah | 31:2,35:30,38:22
+aholiab & dan | 31:6,35:34,38:23

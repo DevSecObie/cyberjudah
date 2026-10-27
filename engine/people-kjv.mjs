@@ -14,7 +14,7 @@ export const EVIDENCE = {
   history: 'Historically identified',
   variant: 'Textual variant',
 };
-const LINKS = ['father', 'mother', 'partners', 'siblings', 'children', 'line', 'nation', 'same'];
+const LINKS = ['father', 'mother', 'partners', 'siblings', 'children', 'line', 'tribe', 'nation', 'same'];
 const TYPES = new Set(['Male', 'Female', 'Unknown', 'Group', 'Creature']);
 const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const namePattern = (form) => new RegExp(`\\b${form.split(/[-–\s]+/).filter(Boolean).map(escapeRegExp).join('[-–\\s]?')}\\b`);
