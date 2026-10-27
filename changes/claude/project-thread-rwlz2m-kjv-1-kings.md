@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: 1 Kings added (104 new people, 5 peoples, 25 places; Abishalom linked as Absalom with Josephus and Jewish Encyclopedia pages).
