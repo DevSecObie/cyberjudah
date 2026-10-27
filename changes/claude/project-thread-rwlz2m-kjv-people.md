@@ -1,0 +1,1 @@
+- People rebuilt from the KJV, Genesis first: 374 people, each with the verses that name them, and every father, mother, husband or wife, brother or sister, forefather and nation backed by the verse that states it (data/people-kjv/genesis.json). Not shown in the app or site yet; the current People catalog stays until every book is rebuilt.
