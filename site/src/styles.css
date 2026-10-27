@@ -226,7 +226,8 @@
 .cj-menu__viewport {
   pointer-events: auto;
   position: relative;
-  width: var(--radix-navigation-menu-viewport-width);
+  flex: 0 0 auto;
+  width: min(26rem, 90vw);
   height: var(--radix-navigation-menu-viewport-height);
   overflow: hidden;
   background: color-mix(in srgb, var(--color-panel) 94%, transparent);
@@ -245,9 +246,8 @@
 .cj-menu__content {
   position: absolute;
   inset: 0 auto auto 0;
-  width: max-content;
-  min-width: 18rem;
-  max-width: min(26rem, 90vw);
+  /* Keep links inside the Radix viewport while it measures an opening panel. */
+  width: min(26rem, 90vw);
 }
 .cj-menu__grid {
   list-style: none;
