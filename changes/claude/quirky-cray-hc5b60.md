@@ -6,4 +6,3 @@
   - Our Hidden History: Ep 207 (09-13), Ep 208 (09-20), Ep 209 (10-04), Ep 210 (10-25).
 - Tags, Opens lines and timestamp links from notes:fix for those notes only.
 - Not written yet, no captions on YouTube: How To Prove Part 2, Baptize To The Light (Captains), ESCP 2.0 and Why Marriage Turns Bitter (Raleigh).
-- Precept data: ten quotes corrected to the King James text word for word ("twelve years", "remember the last end", "God of Israel", "like unto fire", "Esay and Jeremy", "gave thee suck", "by my servants the prophets"). `classes.py check` over all 356 class files now reports 0 problems (was 10).
