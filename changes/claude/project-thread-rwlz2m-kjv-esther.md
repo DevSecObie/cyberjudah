@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Esther added (37 new men, 3 women, the Agagites and 2 places; Ahasuerus of Esther tied to Ahasuerus of Ezra 4:6 by the Jewish Encyclopedia; Mordecai's line from Kish; Haman, Zeresh and their ten sons).
