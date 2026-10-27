@@ -78,3 +78,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Known names spelled correctly (Obie 2026-10-25: "if you know the correct names fix it")
 
 - Caption garbles of names that are certain from context are now spelled correctly across the Giving The Sense From A to Z notes: Colassi/Colasse -> Colosse, Sarak -> Sirach, Mcabes -> Maccabees, Herod Antipus -> Herod Antipas, Herodiius -> Herodias, a gripper -> Agrippa, Barabus -> Barabbas, Arythea -> Arimathaea, Sirene/Sirenian -> Cyrene/Cyrenian, second Ezra(s) -> 2 Esdras, First Ezras -> 1 Esdras, Simon Maggus -> Simon Magus, Safara -> Sapphira, Ananas -> Ananias, Pontious Pilot -> Pontius Pilate, Pilot -> Pilate, Escariat -> Iscariot, Cphus -> Cephas, Cesa Bo / Caesar Bourgea -> Cesare Borgia, Epifice/Apaper/Aprus -> Epaphras, Amalecch -> Amalek, Oadiah -> Obadiah, Ismir -> Izmir (98 spots in 20 notes). Unsure names stay as heard.
+
+## Batch 16
+
+- Luke 18 (2025-06-03, Captain Josiah), 17 continued (2025-05-28, Captain Gedaliah), 16:27 (2025-05-27, Captain Josiah), 16:13 (2025-05-21, Captain Mattathias), a questions-and-answers episode (2025-05-20, Captain Gedaliah) and Luke 16 (2025-05-15, Captain Mattathias).
