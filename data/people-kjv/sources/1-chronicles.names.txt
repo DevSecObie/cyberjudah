@@ -1,0 +1,1667 @@
+# 1 Chronicles: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
+timna-e | Timna | Timna | 1:36 | U | Named among the sons of Eliphaz (1 Chronicles 1:36)
+amram-d | Amram | Amram | 1:41 | M | Named among the sons of Dishon (1 Chronicles 1:41)
+zimri-z | Zimri | Zimri | 2:6 | M | A son of Zerah, son of Judah (1 Chronicles 2:6)
+ethan-z | Ethan | Ethan | 2:6,2:8 | M | A son of Zerah, son of Judah; father of Azariah (1 Chronicles 2:6, 2:8)
+heman-z | Heman | Heman | 2:6 | M | A son of Zerah, son of Judah (1 Chronicles 2:6)
+calcol | Calcol | Calcol | 2:6 | M | A son of Zerah, son of Judah (1 Chronicles 2:6)
+dara | Dara | Dara | 2:6 | M | A son of Zerah, son of Judah (1 Chronicles 2:6)
+azariah-e | Azariah | Azariah | 2:8 | M | The son of Ethan, of Zerah's line (1 Chronicles 2:8)
+jerahmeel | Jerahmeel | Jerahmeel | 2:9,2:25,2:26,2:27,2:33,2:42 | M | The firstborn of Hezron, whose sons and line are recorded (1 Chronicles 2:9, 2:25-33, 2:42)
+ram-j | Ram | Ram | 2:25,2:27 | M | The firstborn of Jerahmeel; father of Maaz, Jamin and Eker (1 Chronicles 2:25, 2:27)
+chelubai | Chelubai | Chelubai | 2:9 | M | A son of Hezron (1 Chronicles 2:9)
+nethaneel-j | Nethaneel | Nethaneel | 2:14 | M | The fourth son of Jesse (1 Chronicles 2:14)
+raddai | Raddai | Raddai | 2:14 | M | The fifth son of Jesse (1 Chronicles 2:14)
+ozem-d | Ozem | Ozem | 2:15 | M | The sixth son of Jesse (1 Chronicles 2:15)
+ozem-j | Ozem | Ozem | 2:25 | M | A son of Jerahmeel (1 Chronicles 2:25)
+caleb-h | Caleb | Caleb | 2:18,2:19,2:42,2:46,2:48,2:49 | M | The son of Hezron, brother of Jerahmeel; husband of Azubah and of Ephrath (1 Chronicles 2:18-19, 2:42-49)
+caleb-u | Caleb | Caleb | 2:50 | M | The son of Hur, the firstborn of Ephratah (1 Chronicles 2:50)
+azubah-c | Azubah | Azubah | 2:18,2:19 | F | The wife of Caleb the son of Hezron (1 Chronicles 2:18-19)
+jerioth | Jerioth | Jerioth | 2:18 | F | Of whom Caleb the son of Hezron begat children (1 Chronicles 2:18)
+jesher | Jesher | Jesher | 2:18 | M | A son of Caleb the son of Hezron (1 Chronicles 2:18)
+shobab-c | Shobab | Shobab | 2:18 | M | A son of Caleb the son of Hezron (1 Chronicles 2:18)
+ardon | Ardon | Ardon | 2:18 | M | A son of Caleb the son of Hezron (1 Chronicles 2:18)
+ephrath | Ephrath | Ephrath;Ephratah | 2:19,2:50,4:4 | F | Whom Caleb took after Azubah died; she bare him Hur; "Hur, the firstborn of Ephratah" (1 Chronicles 2:19, 2:50)
+segub-h | Segub | Segub | 2:21,2:22 | M | The son of Hezron by the daughter of Machir; father of Jair (1 Chronicles 2:21-22)
+abiah-h | Abiah | Abiah | 2:24 | F | Hezron's wife, who bare him Ashur after his death (1 Chronicles 2:24)
+ashur | Ashur | Ashur | 2:24,4:5 | M | The son of Hezron and Abiah, the father of Tekoa (1 Chronicles 2:24)
+caleb-ephratah | Caleb-ephratah | Caleb-ephratah | 2:24 | P | Where Hezron died (1 Chronicles 2:24)
+bunah | Bunah | Bunah | 2:25 | M | A son of Jerahmeel (1 Chronicles 2:25)
+oren | Oren | Oren | 2:25 | M | A son of Jerahmeel (1 Chronicles 2:25)
+ahijah-j | Ahijah | Ahijah | 2:25 | M | A son of Jerahmeel (1 Chronicles 2:25)
+maaz | Maaz | Maaz | 2:27 | M | A son of Ram the firstborn of Jerahmeel (1 Chronicles 2:27)
+jamin-r | Jamin | Jamin | 2:27 | M | A son of Ram the firstborn of Jerahmeel (1 Chronicles 2:27)
+eker | Eker | Eker | 2:27 | M | A son of Ram the firstborn of Jerahmeel (1 Chronicles 2:27)
+onam-j | Onam | Onam | 2:26,2:28 | M | The son of Jerahmeel and Atarah; father of Shammai and Jada (1 Chronicles 2:26, 2:28)
+shammai-o | Shammai | Shammai | 2:28,2:32 | M | The son of Onam, father of Nadab and Abishur (1 Chronicles 2:28, 2:32)
+jada | Jada | Jada | 2:28,2:32 | M | The son of Onam, brother of Shammai (1 Chronicles 2:28, 2:32)
+nadab-s | Nadab | Nadab | 2:28,2:30 | M | The son of Shammai, father of Seled and Appaim (1 Chronicles 2:28, 2:30)
+abishur | Abishur | Abishur | 2:28,2:29 | M | The son of Shammai, husband of Abihail (1 Chronicles 2:28-29)
+ahban | Ahban | Ahban | 2:29 | M | The son of Abishur and Abihail (1 Chronicles 2:29)
+molid | Molid | Molid | 2:29 | M | The son of Abishur and Abihail (1 Chronicles 2:29)
+seled | Seled | Seled | 2:30 | M | A son of Nadab, who died without children (1 Chronicles 2:30)
+appaim | Appaim | Appaim | 2:30,2:31 | M | A son of Nadab, father of Ishi (1 Chronicles 2:30-31)
+ishi-a | Ishi | Ishi | 2:31 | M | The son of Appaim, father of Sheshan (1 Chronicles 2:31)
+sheshan | Sheshan | Sheshan | 2:31,2:34,2:35 | M | The son of Ishi, who had no sons but daughters; he gave his daughter to Jarha his servant (1 Chronicles 2:31, 2:34-35)
+jether-j | Jether | Jether | 2:32 | M | A son of Jada, who died without children (1 Chronicles 2:32)
+jonathan-jd | Jonathan | Jonathan | 2:32,2:33 | M | A son of Jada, father of Peleth and Zaza (1 Chronicles 2:32-33)
+peleth-j | Peleth | Peleth | 2:33 | M | A son of Jonathan, of Jerahmeel (1 Chronicles 2:33)
+zaza | Zaza | Zaza | 2:33 | M | A son of Jonathan, of Jerahmeel (1 Chronicles 2:33)
+jarha | Jarha | Jarha | 2:34,2:35 | M | An Egyptian, servant of Sheshan, who gave him his daughter to wife (1 Chronicles 2:34-35)
+attai-j | Attai | Attai | 2:35,2:36 | M | The son of Jarha by Sheshan's daughter, father of Nathan (1 Chronicles 2:35-36)
+nathan-a | Nathan | Nathan | 2:36 | M | The son of Attai, father of Zabad (1 Chronicles 2:36)
+zabad-n | Zabad | Zabad | 2:36,2:37 | M | The son of Nathan, father of Ephlal (1 Chronicles 2:36-37)
+ephlal | Ephlal | Ephlal | 2:37 | M | The son of Zabad, father of Obed (1 Chronicles 2:37)
+obed-e | Obed | Obed | 2:12,2:37,2:38 | M | The son of Ephlal, father of Jehu (1 Chronicles 2:37-38)
+jehu-o | Jehu | Jehu | 2:38 | M | The son of Obed, father of Azariah (1 Chronicles 2:38)
+azariah-j | Azariah | Azariah | 2:38,2:39 | M | The son of Jehu, father of Helez (1 Chronicles 2:38-39)
+helez-a | Helez | Helez | 2:39 | M | The son of Azariah, father of Eleasah (1 Chronicles 2:39)
+eleasah | Eleasah | Eleasah | 2:39,2:40 | M | The son of Helez, father of Sisamai (1 Chronicles 2:39-40)
+sisamai | Sisamai | Sisamai | 2:40 | M | The son of Eleasah, father of Shallum (1 Chronicles 2:40)
+shallum-s | Shallum | Shallum | 2:40,2:41 | M | The son of Sisamai, father of Jekamiah (1 Chronicles 2:40-41)
+jekamiah | Jekamiah | Jekamiah | 2:41 | M | The son of Shallum, father of Elishama (1 Chronicles 2:41)
+elishama-j | Elishama | Elishama | 2:41 | M | The son of Jekamiah (1 Chronicles 2:41)
+atarah | Atarah | Atarah | 2:26 | F | Another wife of Jerahmeel, the mother of Onam (1 Chronicles 2:26)
+abihail-a | Abihail | Abihail | 2:29 | F | The wife of Abishur, who bare him Ahban and Molid (1 Chronicles 2:29)
+ahlai-s | Ahlai | Ahlai | 2:31 | U | The child of Sheshan (1 Chronicles 2:31)
+mesha-c | Mesha | Mesha | 2:42 | M | The firstborn of Caleb the brother of Jerahmeel, the father of Ziph (1 Chronicles 2:42)
+mareshah-c | Mareshah | Mareshah | 2:42 | M | Of the sons of Caleb, the father of Hebron (1 Chronicles 2:42)
+hebron-c | Hebron | Hebron | 2:42,2:43 | M | The son of Mareshah; father of Korah, Tappuah, Rekem and Shema (1 Chronicles 2:42-43)
+korah-h | Korah | Korah | 2:43 | M | A son of Hebron (1 Chronicles 2:43)
+tappuah-h | Tappuah | Tappuah | 2:43 | M | A son of Hebron (1 Chronicles 2:43)
+rekem-h | Rekem | Rekem | 2:43,2:44 | M | A son of Hebron, father of Shammai (1 Chronicles 2:43-44)
+shema-h | Shema | Shema | 2:43,2:44 | M | A son of Hebron, father of Raham (1 Chronicles 2:43-44)
+raham | Raham | Raham | 2:44 | M | The son of Shema, the father of Jorkoam (1 Chronicles 2:44)
+shammai-r | Shammai | Shammai | 2:44,2:45 | M | The son of Rekem, father of Maon (1 Chronicles 2:44-45)
+maon-s | Maon | Maon | 2:45 | M | The son of Shammai, the father of Beth-zur (1 Chronicles 2:45)
+haran-c | Haran | Haran | 2:46 | M | The son of Caleb and Ephah, father of Gazez (1 Chronicles 2:46)
+moza | Moza | Moza | 2:46 | M | A son of Caleb and Ephah (1 Chronicles 2:46)
+jahdai | Jahdai | Jahdai | 2:47 | M | Whose sons are named with Caleb's (1 Chronicles 2:47)
+regem | Regem | Regem | 2:47 | M | A son of Jahdai (1 Chronicles 2:47)
+jotham-y | Jotham | Jotham | 2:47 | M | A son of Jahdai (1 Chronicles 2:47)
+geshan | Geshan | Geshan | 2:47 | M | A son of Jahdai (1 Chronicles 2:47)
+pelet-j | Pelet | Pelet | 2:47 | M | A son of Jahdai (1 Chronicles 2:47)
+ephah-j | Ephah | Ephah | 2:47 | M | A son of Jahdai (1 Chronicles 2:47)
+shaaph-j | Shaaph | Shaaph | 2:47 | M | A son of Jahdai (1 Chronicles 2:47)
+sheber | Sheber | Sheber | 2:48 | M | A son of Caleb and Maachah (1 Chronicles 2:48)
+tirhanah | Tirhanah | Tirhanah | 2:48 | M | A son of Caleb and Maachah (1 Chronicles 2:48)
+shaaph-m | Shaaph | Shaaph | 2:49 | M | A son of Maachah, the father of Madmannah (1 Chronicles 2:49)
+sheva-c | Sheva | Sheva | 2:49 | M | A son of Maachah, the father of Machbenah and of Gibea (1 Chronicles 2:49)
+shobal-c | Shobal | Shobal | 2:50,2:52,4:1,4:2 | M | A son of Caleb the son of Hur, the father of Kirjath-jearim; father of Haroeh (1 Chronicles 2:50, 2:52)
+salma-c | Salma | Salma | 2:51,2:54 | M | A son of Caleb the son of Hur, the father of Beth-lehem (1 Chronicles 2:51, 2:54)
+hareph | Hareph | Hareph | 2:51 | M | A son of Caleb the son of Hur, the father of Beth-gader (1 Chronicles 2:51)
+haroeh | Haroeh | Haroeh | 2:52 | M | A son of Shobal the father of Kirjath-jearim (1 Chronicles 2:52)
+hemath | Hemath | Hemath | 2:55 | M | The father of the house of Rechab, of whom came the Kenites (1 Chronicles 2:55)
+rechab-h | Rechab | Rechab | 2:55 | M | Whose house came of Hemath (1 Chronicles 2:55)
+gazez | Gazez | Gazez | 2:46 | M | The son of Caleb and Ephah; Haran begat Gazez (1 Chronicles 2:46)
+jorkoam | Jorkoam | Jorkoam | 2:44 | U | "Raham, the father of Jorkoam" (1 Chronicles 2:44)
+ephah-c | Ephah | Ephah | 2:46 | F | Caleb's concubine, who bare Haran, Moza and Gazez (1 Chronicles 2:46)
+maachah-c | Maachah | Maachah | 2:48 | F | Caleb's concubine, who bare Sheber, Tirhanah, Shaaph and Sheva (1 Chronicles 2:48-49)
+machbenah | Machbenah | Machbenah | 2:49 | P | "Sheva the father of Machbenah" (1 Chronicles 2:49)
+gibea | Gibea | Gibea | 2:49 | P | "The father of Gibea" (1 Chronicles 2:49)
+beth-gader | Beth-gader | Beth-gader | 2:51 | P | "Hareph the father of Beth-gader" (1 Chronicles 2:51)
+manahethites | Manahethites | Manahethites | 2:52,2:54 | G | Half of whom came of Shobal and half of Salma (1 Chronicles 2:52, 2:54)
+puhites | Puhites | Puhites | 2:53 | G | Of the families of Kirjath-jearim (1 Chronicles 2:53)
+shumathites | Shumathites | Shumathites | 2:53 | G | Of the families of Kirjath-jearim (1 Chronicles 2:53)
+mishraites | Mishraites | Mishraites | 2:53 | G | Of the families of Kirjath-jearim (1 Chronicles 2:53)
+zareathites | Zareathites | Zareathites | 2:53 | G | Who came of the families of Kirjath-jearim (1 Chronicles 2:53)
+eshtaulites | Eshtaulites | Eshtaulites | 2:53 | G | Who came of the families of Kirjath-jearim (1 Chronicles 2:53)
+ataroth-joab | Ataroth | Ataroth;Joab | 2:54 | P | "Ataroth, the house of Joab", of the sons of Salma (1 Chronicles 2:54)
+zorites | Zorites | Zorites | 2:54 | G | Of the sons of Salma (1 Chronicles 2:54)
+jabez-place | Jabez | Jabez | 2:55 | P | Where the families of the scribes dwelt (1 Chronicles 2:55)
+tirathites | Tirathites | Tirathites | 2:55 | G | Families of the scribes which dwelt at Jabez (1 Chronicles 2:55)
+shimeathites | Shimeathites | Shimeathites | 2:55 | G | Families of the scribes which dwelt at Jabez (1 Chronicles 2:55)
+suchathites | Suchathites | Suchathites | 2:55 | G | Families of the scribes which dwelt at Jabez (1 Chronicles 2:55)
+elishama-3 | Elishama | Elishama | 3:6 | M | A son of David born in Jerusalem, named after Ibhar (1 Chronicles 3:6)
+eliphelet-d | Eliphelet | Eliphelet;Elpalet | 3:6,14:5 | M | A son of David born in Jerusalem, named after Elishama (1 Chronicles 3:6)
+nogah | Nogah | Nogah | 3:7,14:6 | M | A son of David born in Jerusalem (1 Chronicles 3:7)
+johanan-j | Johanan | Johanan | 3:15 | M | The firstborn of Josiah (1 Chronicles 3:15)
+shallum-j | Shallum | Shallum | 3:15 | M | The fourth son of Josiah (1 Chronicles 3:15)
+jeconiah | Jeconiah | Jeconiah | 3:16,3:17 | M | Of the sons of Jehoiakim; his sons were Assir, Salathiel, Malchiram, Pedaiah, Shenazar, Jecamiah, Hoshama and Nedabiah (1 Chronicles 3:16-18)
+zedekiah-j | Zedekiah | Zedekiah | 3:16 | M | Named after Jeconiah among the sons of Jehoiakim: "Jeconiah his son, Zedekiah his son" (1 Chronicles 3:16)
+assir-j | Assir | Assir | 3:17 | M | Named first among the sons of Jeconiah (1 Chronicles 3:17)
+salathiel | Salathiel | Salathiel | 3:17 | M | "The sons of Jeconiah; Assir, Salathiel his son" (1 Chronicles 3:17)
+malchiram | Malchiram | Malchiram | 3:18 | M | Named among the sons of Jeconiah (1 Chronicles 3:18)
+shenazar | Shenazar | Shenazar | 3:18 | M | Named among the sons of Jeconiah (1 Chronicles 3:18)
+jecamiah | Jecamiah | Jecamiah | 3:18 | M | Named among the sons of Jeconiah (1 Chronicles 3:18)
+hoshama | Hoshama | Hoshama | 3:18 | M | Named among the sons of Jeconiah (1 Chronicles 3:18)
+nedabiah | Nedabiah | Nedabiah | 3:18 | M | Named among the sons of Jeconiah (1 Chronicles 3:18)
+pedaiah-j | Pedaiah | Pedaiah | 3:18,3:19 | M | Named among the sons of Jeconiah; father of Zerubbabel and Shimei (1 Chronicles 3:18-19)
+zerubbabel | Zerubbabel | Zerubbabel | 3:19 | M | The son of Pedaiah; father of Meshullam, Hananiah, Shelomith and others (1 Chronicles 3:19-20)
+shimei-p | Shimei | Shimei | 3:19 | M | The son of Pedaiah (1 Chronicles 3:19)
+meshullam-z | Meshullam | Meshullam | 3:19 | M | A son of Zerubbabel (1 Chronicles 3:19)
+hananiah-z | Hananiah | Hananiah | 3:19,3:21 | M | A son of Zerubbabel; father of Pelatiah and Jesaiah (1 Chronicles 3:19, 3:21)
+shelomith-z | Shelomith | Shelomith | 3:19 | F | The sister of the sons of Zerubbabel (1 Chronicles 3:19)
+hashubah | Hashubah | Hashubah | 3:20 | M | Named with the sons of Zerubbabel, "five" (1 Chronicles 3:20)
+ohel | Ohel | Ohel | 3:20 | M | Named with the sons of Zerubbabel, "five" (1 Chronicles 3:20)
+berechiah-z | Berechiah | Berechiah | 3:20 | M | Named with the sons of Zerubbabel, "five" (1 Chronicles 3:20)
+hasadiah | Hasadiah | Hasadiah | 3:20 | M | Named with the sons of Zerubbabel, "five" (1 Chronicles 3:20)
+jushab-hesed | Jushab-hesed | Jushab-hesed | 3:20 | M | Named with the sons of Zerubbabel, "five" (1 Chronicles 3:20)
+pelatiah-h | Pelatiah | Pelatiah | 3:21 | M | A son of Hananiah, of Zerubbabel's line (1 Chronicles 3:21)
+jesaiah-h | Jesaiah | Jesaiah | 3:21 | M | A son of Hananiah, of Zerubbabel's line (1 Chronicles 3:21)
+rephaiah-3 | Rephaiah | Rephaiah | 3:21 | M | "The sons of Rephaiah", named in the line of Zerubbabel (1 Chronicles 3:21)
+arnan | Arnan | Arnan | 3:21 | M | "The sons of Arnan", named in the line of Zerubbabel (1 Chronicles 3:21)
+obadiah-3 | Obadiah | Obadiah | 3:21 | M | "The sons of Obadiah", named in the line of Zerubbabel (1 Chronicles 3:21)
+shechaniah-3 | Shechaniah | Shechaniah | 3:21,3:22 | M | Named in the line of Zerubbabel; father of Shemaiah (1 Chronicles 3:21-22)
+shemaiah-3 | Shemaiah | Shemaiah | 3:22 | M | The son of Shechaniah; father of Hattush, Igeal, Bariah, Neariah and Shaphat (1 Chronicles 3:22)
+hattush | Hattush | Hattush | 3:22 | M | A son of Shemaiah, of Zerubbabel's line (1 Chronicles 3:22)
+igeal | Igeal | Igeal | 3:22 | M | A son of Shemaiah, of Zerubbabel's line (1 Chronicles 3:22)
+bariah | Bariah | Bariah | 3:22 | M | A son of Shemaiah, of Zerubbabel's line (1 Chronicles 3:22)
+shaphat-3 | Shaphat | Shaphat | 3:22 | M | A son of Shemaiah, of Zerubbabel's line (1 Chronicles 3:22)
+neariah-3 | Neariah | Neariah | 3:22,3:23 | M | A son of Shemaiah; father of Elioenai, Hezekiah and Azrikam (1 Chronicles 3:22-23)
+elioenai-3 | Elioenai | Elioenai | 3:23,3:24 | M | A son of Neariah; father of seven sons (1 Chronicles 3:23-24)
+hezekiah-3 | Hezekiah | Hezekiah | 3:23 | M | A son of Neariah (1 Chronicles 3:23)
+azrikam-3 | Azrikam | Azrikam | 3:23 | M | A son of Neariah (1 Chronicles 3:23)
+hodaiah | Hodaiah | Hodaiah | 3:24 | M | A son of Elioenai, of Zerubbabel's line (1 Chronicles 3:24)
+eliashib-3 | Eliashib | Eliashib | 3:24 | M | A son of Elioenai, of Zerubbabel's line (1 Chronicles 3:24)
+pelaiah-3 | Pelaiah | Pelaiah | 3:24 | M | A son of Elioenai, of Zerubbabel's line (1 Chronicles 3:24)
+akkub-3 | Akkub | Akkub | 3:24 | M | A son of Elioenai, of Zerubbabel's line (1 Chronicles 3:24)
+dalaiah | Dalaiah | Dalaiah | 3:24 | M | A son of Elioenai, of Zerubbabel's line (1 Chronicles 3:24)
+anani | Anani | Anani | 3:24 | M | A son of Elioenai, of Zerubbabel's line (1 Chronicles 3:24)
+johanan-3 | Johanan | Johanan | 3:24 | M | A son of Elioenai, of Zerubbabel's line (1 Chronicles 3:24)
+reaiah | Reaiah | Reaiah | 4:2 | M | The son of Shobal, father of Jahath (1 Chronicles 4:2)
+jahath-r | Jahath | Jahath | 4:2 | M | The son of Reaiah, father of Ahumai and Lahad (1 Chronicles 4:2)
+ahumai | Ahumai | Ahumai | 4:2 | M | A son of Jahath, of the families of the Zorathites (1 Chronicles 4:2)
+lahad | Lahad | Lahad | 4:2 | M | A son of Jahath, of the families of the Zorathites (1 Chronicles 4:2)
+zorathites | Zorathites | Zorathites | 4:2 | G | The families that came of Jahath (1 Chronicles 4:2)
+jezreel-e | Jezreel | Jezreel | 4:3 | M | Of the father of Etam (1 Chronicles 4:3)
+ishma | Ishma | Ishma | 4:3 | M | Of the father of Etam (1 Chronicles 4:3)
+idbash | Idbash | Idbash | 4:3 | M | Of the father of Etam (1 Chronicles 4:3)
+hazelelponi | Hazelelponi | Hazelelponi | 4:3 | F | The sister of Jezreel, Ishma and Idbash (1 Chronicles 4:3)
+penuel-g | Penuel | Penuel | 4:4 | M | The father of Gedor, of the sons of Hur (1 Chronicles 4:4)
+ezer-h | Ezer | Ezer | 4:4 | M | The father of Hushah, of the sons of Hur (1 Chronicles 4:4)
+hushah | Hushah | Hushah | 4:4 | P | "Ezer the father of Hushah" (1 Chronicles 4:4)
+helah | Helah | Helah | 4:5,4:7 | F | A wife of Ashur the father of Tekoa; mother of Zereth, Jezoar and Ethnan (1 Chronicles 4:5, 4:7)
+naarah | Naarah | Naarah | 4:5,4:6 | F | A wife of Ashur the father of Tekoa; mother of Ahuzam, Hepher, Temeni and Haahashtari (1 Chronicles 4:5-6)
+ahuzam | Ahuzam | Ahuzam | 4:6 | M | A son of Ashur and Naarah (1 Chronicles 4:6)
+hepher-a | Hepher | Hepher | 4:6 | M | A son of Ashur and Naarah (1 Chronicles 4:6)
+temeni | Temeni | Temeni | 4:6 | M | A son of Ashur and Naarah (1 Chronicles 4:6)
+haahashtari | Haahashtari | Haahashtari | 4:6 | M | A son of Ashur and Naarah (1 Chronicles 4:6)
+zereth | Zereth | Zereth | 4:7 | M | A son of Ashur and Helah (1 Chronicles 4:7)
+jezoar | Jezoar | Jezoar | 4:7 | M | A son of Ashur and Helah (1 Chronicles 4:7)
+ethnan | Ethnan | Ethnan | 4:7 | M | A son of Ashur and Helah (1 Chronicles 4:7)
+coz | Coz | Coz | 4:8 | M | Who begat Anub and Zobebah (1 Chronicles 4:8)
+anub | Anub | Anub | 4:8 | M | A son of Coz (1 Chronicles 4:8)
+zobebah | Zobebah | Zobebah | 4:8 | U | A child of Coz (1 Chronicles 4:8)
+aharhel | Aharhel | Aharhel | 4:8 | M | The son of Harum, whose families are named with Coz (1 Chronicles 4:8)
+harum | Harum | Harum | 4:8 | M | The father of Aharhel (1 Chronicles 4:8)
+jabez | Jabez | Jabez | 4:9,4:10 | M | More honourable than his brethren; he called on the God of Israel and God granted his request (1 Chronicles 4:9-10)
+chelub | Chelub | Chelub | 4:11 | M | The brother of Shuah, father of Mehir (1 Chronicles 4:11)
+shuah-4 | Shuah | Shuah | 4:11 | M | The brother of Chelub (1 Chronicles 4:11)
+mehir | Mehir | Mehir | 4:11 | M | The son of Chelub, father of Eshton (1 Chronicles 4:11)
+eshton | Eshton | Eshton | 4:11,4:12 | M | The son of Mehir; father of Beth-rapha, Paseah and Tehinnah (1 Chronicles 4:11-12)
+beth-rapha | Beth-rapha | Beth-rapha | 4:12 | M | A son of Eshton, of the men of Rechah (1 Chronicles 4:12)
+paseah-e | Paseah | Paseah | 4:12 | M | A son of Eshton, of the men of Rechah (1 Chronicles 4:12)
+tehinnah | Tehinnah | Tehinnah | 4:12 | M | A son of Eshton, the father of Ir-nahash (1 Chronicles 4:12)
+ir-nahash | Ir-nahash | Ir-nahash | 4:12 | P | "Tehinnah the father of Ir-nahash" (1 Chronicles 4:12)
+rechah | Rechah | Rechah | 4:12 | P | "These are the men of Rechah" (1 Chronicles 4:12)
+kenaz-e | Kenaz | Kenaz | 4:15 | M | The son of Elah, son of Caleb the son of Jephunneh (1 Chronicles 4:15)
+seraiah-k | Seraiah | Seraiah | 4:13,4:14 | M | A son of Kenaz, brother of Othniel; father of Joab (1 Chronicles 4:13-14)
+hathath | Hathath | Hathath | 4:13 | M | The son of Othniel (1 Chronicles 4:13)
+meonothai | Meonothai | Meonothai | 4:14 | M | The father of Ophrah (1 Chronicles 4:14)
+ophrah-m | Ophrah | Ophrah | 4:14 | M | The son of Meonothai (1 Chronicles 4:14)
+joab-s | Joab | Joab | 4:14 | M | The son of Seraiah, the father of the valley of Charashim (1 Chronicles 4:14)
+charashim | Charashim | Charashim | 4:14 | P | The valley of craftsmen (1 Chronicles 4:14)
+iru | Iru | Iru | 4:15 | M | A son of Caleb the son of Jephunneh (1 Chronicles 4:15)
+elah-c | Elah | Elah | 4:15 | M | A son of Caleb the son of Jephunneh (1 Chronicles 4:15)
+naam | Naam | Naam | 4:15 | M | A son of Caleb the son of Jephunneh (1 Chronicles 4:15)
+jehaleleel | Jehaleleel | Jehaleleel | 4:16 | M | The father of Ziph, Ziphah, Tiria and Asareel (1 Chronicles 4:16)
+ziph-j | Ziph | Ziph | 4:16 | M | A son of Jehaleleel (1 Chronicles 4:16)
+ziphah | Ziphah | Ziphah | 4:16 | M | A son of Jehaleleel (1 Chronicles 4:16)
+tiria | Tiria | Tiria | 4:16 | M | A son of Jehaleleel (1 Chronicles 4:16)
+asareel | Asareel | Asareel | 4:16 | M | A son of Jehaleleel (1 Chronicles 4:16)
+ezra-j | Ezra | Ezra | 4:17 | M | Whose sons were Jether, Mered, Epher and Jalon (1 Chronicles 4:17)
+jether-e | Jether | Jether | 4:17 | M | A son of Ezra (1 Chronicles 4:17)
+epher-e | Epher | Epher | 4:17 | M | A son of Ezra (1 Chronicles 4:17)
+jalon | Jalon | Jalon | 4:17 | M | A son of Ezra (1 Chronicles 4:17)
+mered | Mered | Mered | 4:17,4:18 | M | A son of Ezra, who took Bithiah the daughter of Pharaoh (1 Chronicles 4:17-18)
+miriam-m | Miriam | Miriam | 4:17 | U | "And she bare Miriam, and Shammai, and Ishbah" (1 Chronicles 4:17)
+shammai-m | Shammai | Shammai | 4:17 | M | "And she bare Miriam, and Shammai, and Ishbah" (1 Chronicles 4:17)
+ishbah | Ishbah | Ishbah | 4:17 | M | The father of Eshtemoa (1 Chronicles 4:17)
+jehudijah | Jehudijah | Jehudijah | 4:18 | F | "His wife Jehudijah", mother of Jered, Heber and Jekuthiel (1 Chronicles 4:18)
+jered-m | Jered | Jered | 4:18 | M | The father of Gedor, son of Jehudijah (1 Chronicles 4:18)
+heber-s | Heber | Heber | 4:18 | M | The father of Socho, son of Jehudijah (1 Chronicles 4:18)
+jekuthiel | Jekuthiel | Jekuthiel | 4:18 | M | The father of Zanoah, son of Jehudijah (1 Chronicles 4:18)
+socho | Socho | Socho | 4:18 | P | "Heber the father of Socho" (1 Chronicles 4:18)
+bithiah | Bithiah | Bithiah | 4:18 | F | The daughter of Pharaoh, whom Mered took (1 Chronicles 4:18)
+pharaoh-b | Pharaoh | Pharaoh | 4:18 | M | The father of Bithiah, whom Mered took (1 Chronicles 4:18)
+hodiah | Hodiah | Hodiah | 4:19 | F | "His wife Hodiah the sister of Naham" (1 Chronicles 4:19)
+naham | Naham | Naham | 4:19 | M | The brother of Hodiah, the father of Keilah the Garmite (1 Chronicles 4:19)
+garmite | Garmite | Garmite | 4:19 | G | "Keilah the Garmite" (1 Chronicles 4:19)
+shimon | Shimon | Shimon | 4:20 | M | The father of Amnon, Rinnah, Ben-hanan and Tilon (1 Chronicles 4:20)
+amnon-s | Amnon | Amnon | 4:20 | M | A son of Shimon (1 Chronicles 4:20)
+rinnah | Rinnah | Rinnah | 4:20 | M | A son of Shimon (1 Chronicles 4:20)
+ben-hanan | Ben-hanan | Ben-hanan | 4:20 | M | A son of Shimon (1 Chronicles 4:20)
+tilon | Tilon | Tilon | 4:20 | M | A son of Shimon (1 Chronicles 4:20)
+ishi-j | Ishi | Ishi | 4:20 | M | The father of Zoheth and Ben-zoheth (1 Chronicles 4:20)
+zoheth | Zoheth | Zoheth | 4:20 | M | A son of Ishi (1 Chronicles 4:20)
+ben-zoheth | Ben-zoheth | Ben-zoheth | 4:20 | M | A son of Ishi (1 Chronicles 4:20)
+er-s | Er | Er | 4:21 | M | The son of Shelah the son of Judah, the father of Lecah (1 Chronicles 4:21)
+lecah | Lecah | Lecah | 4:21 | P | "Er the father of Lecah" (1 Chronicles 4:21)
+laadah | Laadah | Laadah | 4:21 | M | The son of Shelah, the father of Mareshah (1 Chronicles 4:21)
+ashbea | Ashbea | Ashbea | 4:21 | U | "The house of Ashbea", of the families that wrought fine linen (1 Chronicles 4:21)
+jokim | Jokim | Jokim | 4:22 | M | Of the sons of Shelah (1 Chronicles 4:22)
+chozeba | Chozeba | Chozeba | 4:22 | P | "The men of Chozeba" (1 Chronicles 4:22)
+joash-s | Joash | Joash | 4:22 | M | Of the sons of Shelah, who had the dominion in Moab (1 Chronicles 4:22)
+saraph | Saraph | Saraph | 4:22 | M | Of the sons of Shelah, who had the dominion in Moab (1 Chronicles 4:22)
+jashubi-lehem | Jashubi-lehem | Jashubi-lehem | 4:22 | U | Named with the sons of Shelah (1 Chronicles 4:22)
+jarib-s | Jarib | Jarib | 4:24 | M | A son of Simeon (1 Chronicles 4:24)
+shallum-m | Shallum | Shallum | 4:25 | M | Of Simeon: "Shallum his son, Mibsam his son, Mishma his son" (1 Chronicles 4:25)
+mibsam-s | Mibsam | Mibsam | 4:25 | M | Of Simeon, the son of Shallum (1 Chronicles 4:25)
+mishma-s | Mishma | Mishma | 4:25,4:26 | M | Of Simeon, the son of Mibsam; father of Hamuel (1 Chronicles 4:25-26)
+hamuel | Hamuel | Hamuel | 4:26 | M | Of Simeon, the son of Mishma (1 Chronicles 4:26)
+zacchur | Zacchur | Zacchur | 4:26 | M | Of Simeon, the son of Hamuel (1 Chronicles 4:26)
+shimei-m | Shimei | Shimei | 4:26,4:27 | M | Of Simeon, the son of Zacchur, who had sixteen sons and six daughters (1 Chronicles 4:26-27)
+bilhah-city | Bilhah | Bilhah | 4:29 | P | Where the sons of Simeon dwelt (1 Chronicles 4:29)
+ezem | Ezem | Ezem | 4:29 | P | Where the sons of Simeon dwelt (1 Chronicles 4:29)
+tolad | Tolad | Tolad | 4:29 | P | Where the sons of Simeon dwelt (1 Chronicles 4:29)
+bethuel-city | Bethuel | Bethuel | 4:30 | P | Where the sons of Simeon dwelt (1 Chronicles 4:30)
+hazar-susim | Hazar-susim | Hazar-susim | 4:31 | P | Where the sons of Simeon dwelt (1 Chronicles 4:31)
+beth-birei | Beth-birei | Beth-birei | 4:31 | P | Where the sons of Simeon dwelt (1 Chronicles 4:31)
+tochen | Tochen | Tochen | 4:32 | P | A village of the sons of Simeon (1 Chronicles 4:32)
+baal-city | Baal | Baal | 4:33 | P | Unto which the villages of Simeon reached (1 Chronicles 4:33)
+meshobab | Meshobab | Meshobab | 4:34 | M | A prince in the families of Simeon (1 Chronicles 4:34, 4:38)
+jamlech | Jamlech | Jamlech | 4:34 | M | A prince in the families of Simeon (1 Chronicles 4:34, 4:38)
+joshah | Joshah | Joshah | 4:34 | M | The son of Amaziah, a prince in the families of Simeon (1 Chronicles 4:34, 4:38)
+amaziah-s | Amaziah | Amaziah | 4:34 | M | The father of Joshah (1 Chronicles 4:34)
+joel-s | Joel | Joel | 4:35 | M | A prince in the families of Simeon (1 Chronicles 4:35, 4:38)
+jehu-j | Jehu | Jehu | 4:35 | M | The son of Josibiah, a prince in the families of Simeon (1 Chronicles 4:35, 4:38)
+josibiah | Josibiah | Josibiah | 4:35 | M | The son of Seraiah, father of Jehu (1 Chronicles 4:35)
+seraiah-a | Seraiah | Seraiah | 4:35 | M | The son of Asiel, father of Josibiah (1 Chronicles 4:35)
+asiel | Asiel | Asiel | 4:35 | M | The father of Seraiah (1 Chronicles 4:35)
+elioenai-s | Elioenai | Elioenai | 4:36 | M | A prince in the families of Simeon (1 Chronicles 4:36, 4:38)
+jaakobah | Jaakobah | Jaakobah | 4:36 | M | A prince in the families of Simeon (1 Chronicles 4:36, 4:38)
+jeshohaiah | Jeshohaiah | Jeshohaiah | 4:36 | M | A prince in the families of Simeon (1 Chronicles 4:36, 4:38)
+asaiah-s | Asaiah | Asaiah | 4:36 | M | A prince in the families of Simeon (1 Chronicles 4:36, 4:38)
+adiel-s | Adiel | Adiel | 4:36 | M | A prince in the families of Simeon (1 Chronicles 4:36, 4:38)
+jesimiel | Jesimiel | Jesimiel | 4:36 | M | A prince in the families of Simeon (1 Chronicles 4:36, 4:38)
+benaiah-s | Benaiah | Benaiah | 4:36 | M | A prince in the families of Simeon (1 Chronicles 4:36, 4:38)
+ziza-s | Ziza | Ziza | 4:37 | M | The son of Shiphi, a prince in the families of Simeon (1 Chronicles 4:37-38)
+shiphi | Shiphi | Shiphi | 4:37 | M | The son of Allon, father of Ziza (1 Chronicles 4:37)
+allon-s | Allon | Allon | 4:37 | M | The son of Jedaiah, father of Shiphi (1 Chronicles 4:37)
+jedaiah-s | Jedaiah | Jedaiah | 4:37 | M | The son of Shimri, father of Allon (1 Chronicles 4:37)
+shimri-s | Shimri | Shimri | 4:37 | M | The son of Shemaiah, father of Jedaiah (1 Chronicles 4:37)
+shemaiah-s | Shemaiah | Shemaiah | 4:37 | M | The father of Shimri (1 Chronicles 4:37)
+pelatiah-i | Pelatiah | Pelatiah | 4:42 | M | A son of Ishi, captain of five hundred of the sons of Simeon who went to mount Seir (1 Chronicles 4:42)
+neariah-i | Neariah | Neariah | 4:42 | M | A son of Ishi, captain of five hundred of the sons of Simeon who went to mount Seir (1 Chronicles 4:42)
+rephaiah-i | Rephaiah | Rephaiah | 4:42 | M | A son of Ishi, captain of five hundred of the sons of Simeon who went to mount Seir (1 Chronicles 4:42)
+uzziel-i | Uzziel | Uzziel | 4:42 | M | A son of Ishi, captain of five hundred of the sons of Simeon who went to mount Seir (1 Chronicles 4:42)
+ishi-s | Ishi | Ishi | 4:42 | M | Of Simeon, the father of Pelatiah, Neariah, Rephaiah and Uzziel (1 Chronicles 4:42)
+joel-r | Joel | Joel | 5:4 | M | Of Reuben, whose sons were Shemaiah, Gog and Shimei (1 Chronicles 5:4)
+shemaiah-r | Shemaiah | Shemaiah | 5:4 | M | Of Reuben, the son of Joel; father of Gog (1 Chronicles 5:4)
+gog-r | Gog | Gog | 5:4 | M | Of Reuben, the son of Shemaiah; father of Shimei (1 Chronicles 5:4)
+shimei-r5 | Shimei | Shimei | 5:4 | M | Of Reuben, the son of Gog; father of Micah (1 Chronicles 5:4)
+micah-r | Micah | Micah | 5:5 | M | Of Reuben, the son of Shimei; father of Reaia (1 Chronicles 5:5)
+reaia | Reaia | Reaia | 5:5 | M | Of Reuben, the son of Micah; father of Baal (1 Chronicles 5:5)
+baal-r | Baal | Baal | 5:5 | M | Of Reuben, the son of Reaia; father of Beerah (1 Chronicles 5:5)
+beerah | Beerah | Beerah | 5:6 | M | The son of Baal, prince of the Reubenites, carried away captive by Tilgath-pilneser king of Assyria (1 Chronicles 5:6)
+tilgath-pilneser | Tilgath-pilneser | Tilgath-pilneser | 5:6,5:26 | M | King of Assyria, who carried away Beerah, and the Reubenites, the Gadites and the half tribe of Manasseh unto Halah, Habor, Hara and Gozan (1 Chronicles 5:6, 5:26)
+jeiel-r | Jeiel | Jeiel | 5:7 | M | Of Reuben, a chief among the brethren of Beerah (1 Chronicles 5:7)
+zechariah-r | Zechariah | Zechariah | 5:7 | M | Of Reuben, among the brethren of Beerah (1 Chronicles 5:7)
+bela-r | Bela | Bela | 5:8 | M | The son of Azaz, of Reuben, who dwelt in Aroer (1 Chronicles 5:8)
+azaz | Azaz | Azaz | 5:8 | M | The son of Shema, father of Bela (1 Chronicles 5:8)
+shema-r | Shema | Shema | 5:8 | M | The son of Joel, father of Azaz (1 Chronicles 5:8)
+joel-r8 | Joel | Joel | 5:8 | M | The father of Shema, of Reuben (1 Chronicles 5:8)
+hagarites | Hagarites | Hagarites;Hagerite | 5:10,5:19,5:20,27:31 | G | With whom the Reubenites made war in the days of Saul (1 Chronicles 5:10, 5:19-20)
+joel-g | Joel | Joel | 5:12 | M | Of Gad, the chief in Bashan (1 Chronicles 5:12)
+shapham | Shapham | Shapham | 5:12 | M | Of Gad, a head in Bashan (1 Chronicles 5:12)
+jaanai | Jaanai | Jaanai | 5:12 | M | Of Gad, a head in Bashan (1 Chronicles 5:12)
+shaphat-g | Shaphat | Shaphat | 5:12 | M | Of Gad, a head in Bashan (1 Chronicles 5:12)
+michael-g | Michael | Michael | 5:13 | M | Of Gad, of the brethren of the house of their fathers (1 Chronicles 5:13)
+meshullam-g | Meshullam | Meshullam | 5:13 | M | Of Gad, of the brethren of the house of their fathers (1 Chronicles 5:13)
+sheba-g | Sheba | Sheba | 5:13 | M | Of Gad, of the brethren of the house of their fathers (1 Chronicles 5:13)
+jorai | Jorai | Jorai | 5:13 | M | Of Gad, of the brethren of the house of their fathers (1 Chronicles 5:13)
+jachan | Jachan | Jachan | 5:13 | M | Of Gad, of the brethren of the house of their fathers (1 Chronicles 5:13)
+zia | Zia | Zia | 5:13 | M | Of Gad, of the brethren of the house of their fathers (1 Chronicles 5:13)
+heber-g | Heber | Heber | 5:13 | M | Of Gad, of the brethren of the house of their fathers (1 Chronicles 5:13)
+abihail-g | Abihail | Abihail | 5:14 | M | Of Gad, the son of Huri, whose children are named (1 Chronicles 5:14)
+huri | Huri | Huri | 5:14 | M | The son of Jaroah, father of Abihail (1 Chronicles 5:14)
+jaroah | Jaroah | Jaroah | 5:14 | M | The son of Gilead, father of Huri (1 Chronicles 5:14)
+gilead-g | Gilead | Gilead | 5:14 | M | Of Gad, the son of Michael, father of Jaroah (1 Chronicles 5:14)
+michael-g2 | Michael | Michael | 5:14 | M | Of Gad, the son of Jeshishai, father of Gilead (1 Chronicles 5:14)
+jeshishai | Jeshishai | Jeshishai | 5:14 | M | The son of Jahdo, father of Michael (1 Chronicles 5:14)
+jahdo | Jahdo | Jahdo | 5:14 | M | The son of Buz, father of Jeshishai (1 Chronicles 5:14)
+buz-g | Buz | Buz | 5:14 | M | Of Gad, the father of Jahdo (1 Chronicles 5:14)
+ahi-g | Ahi | Ahi | 5:15 | M | The son of Abdiel, chief of the house of their fathers in Gad (1 Chronicles 5:15)
+abdiel | Abdiel | Abdiel | 5:15 | M | The son of Guni, father of Ahi (1 Chronicles 5:15)
+guni-g | Guni | Guni | 5:15 | M | Of Gad, the father of Abdiel (1 Chronicles 5:15)
+sharon | Sharon | Sharon | 5:16,27:29 | P | Whose suburbs the Gadites dwelt in (1 Chronicles 5:16)
+jeroboam-5 | Jeroboam | Jeroboam | 5:17 | M | King of Israel, in whose days, and in the days of Jotham king of Judah, Gad was reckoned by genealogies (1 Chronicles 5:17)
+nodab | Nodab | Nodab | 5:19 | G | With whom, and the Hagarites, Jetur and Nephish, the two tribes and a half made war (1 Chronicles 5:19)
+senir | Senir | Senir | 5:23 | P | Unto which the half tribe of Manasseh increased (1 Chronicles 5:23)
+epher-m | Epher | Epher | 5:24 | M | A head of the house of their fathers in the half tribe of Manasseh, a mighty man of valour (1 Chronicles 5:24)
+ishi-m | Ishi | Ishi | 5:24 | M | A head of the house of their fathers in the half tribe of Manasseh, a mighty man of valour (1 Chronicles 5:24)
+eliel-m | Eliel | Eliel | 5:24 | M | A head of the house of their fathers in the half tribe of Manasseh, a mighty man of valour (1 Chronicles 5:24)
+azriel-m | Azriel | Azriel | 5:24 | M | A head of the house of their fathers in the half tribe of Manasseh, a mighty man of valour (1 Chronicles 5:24)
+jeremiah-m | Jeremiah | Jeremiah | 5:24 | M | A head of the house of their fathers in the half tribe of Manasseh, a mighty man of valour (1 Chronicles 5:24)
+hodaviah-m | Hodaviah | Hodaviah | 5:24 | M | A head of the house of their fathers in the half tribe of Manasseh, a mighty man of valour (1 Chronicles 5:24)
+jahdiel | Jahdiel | Jahdiel | 5:24 | M | A head of the house of their fathers in the half tribe of Manasseh, a mighty man of valour (1 Chronicles 5:24)
+pul-c | Pul | Pul | 5:26 | M | King of Assyria, whose spirit God stirred up against the two tribes and a half (1 Chronicles 5:26)
+hara | Hara | Hara | 5:26 | P | Whither the king of Assyria carried the two tribes and a half (1 Chronicles 5:26)
+mahli-m | Mahli | Mahli | 6:47,23:23,24:30 | M | The son of Mushi, son of Merari, of the line of Ethan the singer (1 Chronicles 6:47)
+abishua | Abishua | Abishua | 6:4,6:5,6:50 | M | The son of Phinehas, son of Eleazar; father of Bukki (1 Chronicles 6:4-5, 6:50)
+bukki-p | Bukki | Bukki | 6:5,6:51 | M | The son of Abishua, father of Uzzi (1 Chronicles 6:5, 6:51)
+uzzi-p | Uzzi | Uzzi | 6:5,6:6,6:51 | M | The son of Bukki, father of Zerahiah (1 Chronicles 6:5-6, 6:51)
+zerahiah | Zerahiah | Zerahiah | 6:6,6:51 | M | The son of Uzzi, father of Meraioth (1 Chronicles 6:6, 6:51)
+meraioth | Meraioth | Meraioth | 6:6,6:7,6:52 | M | The son of Zerahiah, father of Amariah (1 Chronicles 6:6-7, 6:52)
+amariah-1 | Amariah | Amariah | 6:7,6:52 | M | The son of Meraioth, father of Ahitub (1 Chronicles 6:7, 6:52)
+azariah-a | Azariah | Azariah | 6:9 | M | The son of Ahimaaz, father of Johanan (1 Chronicles 6:9)
+johanan-p | Johanan | Johanan | 6:9,6:10 | M | The son of Azariah, father of Azariah (1 Chronicles 6:9-10)
+azariah-p2 | Azariah | Azariah | 6:10,6:11 | M | The son of Johanan, who executed the priest's office in the temple that Solomon built (1 Chronicles 6:10-11)
+amariah-2 | Amariah | Amariah | 6:11 | M | The son of Azariah, father of Ahitub (1 Chronicles 6:11)
+ahitub-2 | Ahitub | Ahitub | 6:11,6:12 | M | The son of Amariah, father of Zadok (1 Chronicles 6:11-12)
+zadok-2 | Zadok | Zadok | 6:12 | M | The son of Ahitub, father of Shallum (1 Chronicles 6:12)
+shallum-p | Shallum | Shallum | 6:12,6:13 | M | The son of Zadok, father of Hilkiah (1 Chronicles 6:12-13)
+hilkiah-p | Hilkiah | Hilkiah | 6:13 | M | The son of Shallum, father of Azariah (1 Chronicles 6:13)
+azariah-p3 | Azariah | Azariah | 6:13,6:14 | M | The son of Hilkiah, father of Seraiah (1 Chronicles 6:13-14)
+seraiah-6 | Seraiah | Seraiah | 6:14 | M | The son of Azariah, father of Jehozadak (1 Chronicles 6:14)
+jehozadak | Jehozadak | Jehozadak | 6:14,6:15 | M | The son of Seraiah, who went into captivity when the Lord carried away Judah and Jerusalem by Nebuchadnezzar (1 Chronicles 6:14-15)
+jahath-g | Jahath | Jahath | 6:20 | M | Of Gershom, the son of Libni, father of Zimmah (1 Chronicles 6:20)
+zimmah | Zimmah | Zimmah | 6:20 | M | Of Gershom, the son of Jahath, father of Joah (1 Chronicles 6:20)
+joah-g | Joah | Joah | 6:21 | M | Of Gershom, the son of Zimmah, father of Iddo (1 Chronicles 6:21)
+iddo-g | Iddo | Iddo | 6:21 | M | Of Gershom, the son of Joah, father of Zerah (1 Chronicles 6:21)
+zerah-g | Zerah | Zerah | 6:21 | M | Of Gershom, the son of Iddo, father of Jeaterai (1 Chronicles 6:21)
+jeaterai | Jeaterai | Jeaterai | 6:21 | M | Of Gershom, the son of Zerah (1 Chronicles 6:21)
+amminadab-k | Amminadab | Amminadab | 6:22 | M | Of Kohath, father of Korah (1 Chronicles 6:22)
+korah-a | Korah | Korah | 6:22 | M | Of Kohath, the son of Amminadab, father of Assir (1 Chronicles 6:22)
+assir-a | Assir | Assir | 6:22 | M | Of Kohath, the son of Korah, father of Elkanah (1 Chronicles 6:22-23)
+elkanah-a | Elkanah | Elkanah | 6:23 | M | Of Kohath, the son of Assir, father of Ebiasaph (1 Chronicles 6:23)
+ebiasaph-a | Ebiasaph | Ebiasaph | 6:23 | M | Of Kohath, the son of Elkanah, father of Assir (1 Chronicles 6:23)
+assir-b | Assir | Assir | 6:23 | M | Of Kohath, the son of Ebiasaph, father of Tahath (1 Chronicles 6:23-24)
+tahath-a | Tahath | Tahath | 6:24 | M | Of Kohath, the son of Assir, father of Uriel (1 Chronicles 6:24)
+uriel-k | Uriel | Uriel | 6:24 | M | Of Kohath, the son of Tahath, father of Uzziah (1 Chronicles 6:24)
+uzziah-l | Uzziah | Uzziah | 6:24 | M | Of Kohath, the son of Uriel, father of Shaul (1 Chronicles 6:24)
+shaul-l | Shaul | Shaul | 6:24 | M | Of Kohath, the son of Uzziah (1 Chronicles 6:24)
+elkanah-25 | Elkanah | Elkanah | 6:25 | M | Of Kohath; "the sons of Elkanah; Amasai, and Ahimoth" (1 Chronicles 6:25)
+amasai-25 | Amasai | Amasai | 6:25 | M | A son of Elkanah, of Kohath (1 Chronicles 6:25)
+ahimoth | Ahimoth | Ahimoth | 6:25 | M | A son of Elkanah, of Kohath (1 Chronicles 6:25)
+elkanah-26 | Elkanah | Elkanah | 6:26 | M | Of Kohath; "As for Elkanah: the sons of Elkanah; Zophai his son" (1 Chronicles 6:26)
+zophai | Zophai | Zophai | 6:26 | M | Of Kohath, the son of Elkanah, father of Nahath (1 Chronicles 6:26)
+nahath-l | Nahath | Nahath | 6:26 | M | Of Kohath, the son of Zophai, father of Eliab (1 Chronicles 6:26)
+eliab-l | Eliab | Eliab | 6:27 | M | Of Kohath, the son of Nahath, father of Jeroham (1 Chronicles 6:27)
+vashni | Vashni | Vashni | 6:28 | M | The firstborn of Samuel (1 Chronicles 6:28)
+heman-s | Heman | Heman | 6:33,15:17,15:19,16:41,16:42,25:1,25:4,25:5,25:6 | M | The singer, of the Kohathites, the son of Joel, the son of Shemuel; set by David over the service of song (1 Chronicles 6:31-33)
+eliel-t | Eliel | Eliel | 6:34 | M | Of Kohath, the son of Toah, father of Jeroham, in the line of Heman (1 Chronicles 6:34)
+elkanah-35 | Elkanah | Elkanah | 6:35 | M | Of Kohath, the son of Mahath, father of Zuph, in the line of Heman (1 Chronicles 6:35)
+mahath | Mahath | Mahath | 6:35 | M | Of Kohath, the son of Amasai, father of Elkanah, in the line of Heman (1 Chronicles 6:35)
+amasai-35 | Amasai | Amasai | 6:35 | M | Of Kohath, the son of Elkanah, father of Mahath, in the line of Heman (1 Chronicles 6:35)
+elkanah-36 | Elkanah | Elkanah | 6:36 | M | Of Kohath, the son of Joel, father of Amasai, in the line of Heman (1 Chronicles 6:36)
+joel-36 | Joel | Joel | 6:36 | M | Of Kohath, the son of Azariah, father of Elkanah, in the line of Heman (1 Chronicles 6:36)
+azariah-36 | Azariah | Azariah | 6:36 | M | Of Kohath, the son of Zephaniah, father of Joel, in the line of Heman (1 Chronicles 6:36)
+zephaniah-k | Zephaniah | Zephaniah | 6:36 | M | Of Kohath, the son of Tahath, father of Azariah, in the line of Heman (1 Chronicles 6:36-37)
+tahath-e | Tahath | Tahath | 6:37 | M | Of Kohath, the son of Assir, father of Zephaniah, in the line of Heman (1 Chronicles 6:37)
+assir-e | Assir | Assir | 6:37 | M | Of Kohath, the son of Ebiasaph, father of Tahath, in the line of Heman (1 Chronicles 6:37)
+asaph-s | Asaph | Asaph | 6:39,15:17,15:19,16:5,16:7,16:37,25:1,25:2,25:6,25:9,26:1 | M | The singer, the son of Berachiah, of Gershom, who stood on Heman's right hand (1 Chronicles 6:39)
+berachiah | Berachiah | Berachiah;Berechiah | 6:39,15:17 | M | The son of Shimea, father of Asaph (1 Chronicles 6:39)
+shimea-a | Shimea | Shimea | 6:39 | M | The son of Michael, father of Berachiah, in the line of Asaph (1 Chronicles 6:39-40)
+michael-a | Michael | Michael | 6:40 | M | The son of Baaseiah, in the line of Asaph (1 Chronicles 6:40)
+baaseiah | Baaseiah | Baaseiah | 6:40 | M | The son of Malchiah, in the line of Asaph (1 Chronicles 6:40)
+malchiah-a | Malchiah | Malchiah | 6:40 | M | The son of Ethni, in the line of Asaph (1 Chronicles 6:40-41)
+ethni | Ethni | Ethni | 6:41 | M | The son of Zerah, in the line of Asaph (1 Chronicles 6:41)
+zerah-a | Zerah | Zerah | 6:41 | M | The son of Adaiah, in the line of Asaph (1 Chronicles 6:41)
+adaiah-a | Adaiah | Adaiah | 6:41 | M | The son of Ethan, in the line of Asaph (1 Chronicles 6:41)
+ethan-a | Ethan | Ethan | 6:42 | M | The son of Zimmah, in the line of Asaph (1 Chronicles 6:42)
+zimmah-2 | Zimmah | Zimmah | 6:42 | M | The son of Shimei, in the line of Asaph (1 Chronicles 6:42)
+shimei-a | Shimei | Shimei | 6:42 | M | The son of Jahath, in the line of Asaph (1 Chronicles 6:42)
+jahath-g2 | Jahath | Jahath | 6:43 | M | The son of Gershom, in the line of Asaph (1 Chronicles 6:43)
+libni-m | Libni | Libni | 6:29 | M | Of Merari, the son of Mahli, father of Shimei (1 Chronicles 6:29)
+shimei-mr | Shimei | Shimei | 6:29 | M | Of Merari, the son of Libni, father of Uzza (1 Chronicles 6:29)
+uzza-m | Uzza | Uzza | 6:29 | M | Of Merari, the son of Shimei, father of Shimea (1 Chronicles 6:29)
+shimea-m | Shimea | Shimea | 6:30 | M | Of Merari, the son of Uzza, father of Haggiah (1 Chronicles 6:30)
+haggiah | Haggiah | Haggiah | 6:30 | M | Of Merari, the son of Shimea, father of Asaiah (1 Chronicles 6:30)
+asaiah-m | Asaiah | Asaiah | 6:30 | M | Of Merari, the son of Haggiah (1 Chronicles 6:30)
+ethan-m | Ethan | Ethan | 6:44 | M | The singer, the son of Kishi, of the sons of Merari, who stood on the left hand (1 Chronicles 6:44)
+kishi | Kishi | Kishi | 6:44 | M | The son of Abdi, father of Ethan the singer (1 Chronicles 6:44)
+abdi-m | Abdi | Abdi | 6:44 | M | The son of Malluch, father of Kishi (1 Chronicles 6:44)
+malluch-m | Malluch | Malluch | 6:44 | M | The son of Hashabiah, father of Abdi (1 Chronicles 6:44-45)
+hashabiah-m | Hashabiah | Hashabiah | 6:45 | M | The son of Amaziah, father of Malluch (1 Chronicles 6:45)
+amaziah-m | Amaziah | Amaziah | 6:45 | M | The son of Hilkiah, father of Hashabiah (1 Chronicles 6:45)
+hilkiah-m | Hilkiah | Hilkiah | 6:45 | M | The son of Amzi, father of Amaziah (1 Chronicles 6:45-46)
+amzi-m | Amzi | Amzi | 6:46 | M | The son of Bani, father of Hilkiah (1 Chronicles 6:46)
+bani-m | Bani | Bani | 6:46 | M | The son of Shamer, father of Amzi (1 Chronicles 6:46)
+shamer-m | Shamer | Shamer | 6:46 | M | The son of Mahli, father of Bani (1 Chronicles 6:46-47)
+hilen | Hilen | Hilen | 6:58 | P | A city given to the Levites with her suburbs (1 Chronicles 6)
+alemeth-c | Alemeth | Alemeth | 6:60 | P | A city given to the Levites with her suburbs (1 Chronicles 6)
+jokmeam | Jokmeam | Jokmeam | 6:68 | P | A city given to the Levites with her suburbs (1 Chronicles 6)
+bileam | Bileam | Bileam | 6:70 | P | A city given to the Levites with her suburbs (1 Chronicles 6)
+anem | Anem | Anem | 6:73 | P | A city given to the Levites with her suburbs (1 Chronicles 6)
+mashal | Mashal | Mashal | 6:74 | P | A city given to the Levites with her suburbs (1 Chronicles 6)
+hukok | Hukok | Hukok | 6:75 | P | A city given to the Levites with her suburbs (1 Chronicles 6)
+jahzah | Jahzah | Jahzah | 6:78 | P | A city given to the Levites with her suburbs (1 Chronicles 6)
+uzzi-t | Uzzi | Uzzi | 7:2,7:3 | M | A son of Tola, of Issachar, father of Izrahiah (1 Chronicles 7:2-3)
+rephaiah-t | Rephaiah | Rephaiah | 7:2 | M | A son of Tola, of Issachar; a head of his father's house (1 Chronicles 7:2)
+jeriel | Jeriel | Jeriel | 7:2 | M | A son of Tola, of Issachar; a head of his father's house (1 Chronicles 7:2)
+jahmai | Jahmai | Jahmai | 7:2 | M | A son of Tola, of Issachar; a head of his father's house (1 Chronicles 7:2)
+jibsam | Jibsam | Jibsam | 7:2 | M | A son of Tola, of Issachar; a head of his father's house (1 Chronicles 7:2)
+shemuel-t | Shemuel | Shemuel | 7:2 | M | A son of Tola, of Issachar; a head of his father's house (1 Chronicles 7:2)
+izrahiah | Izrahiah | Izrahiah | 7:3 | M | The son of Uzzi, of Issachar (1 Chronicles 7:3)
+michael-i | Michael | Michael | 7:3 | M | A son of Izrahiah, of Issachar; a chief man (1 Chronicles 7:3)
+obadiah-i | Obadiah | Obadiah | 7:3 | M | A son of Izrahiah, of Issachar; a chief man (1 Chronicles 7:3)
+joel-i | Joel | Joel | 7:3 | M | A son of Izrahiah, of Issachar; a chief man (1 Chronicles 7:3)
+ishiah-i | Ishiah | Ishiah | 7:3 | M | A son of Izrahiah, of Issachar; a chief man (1 Chronicles 7:3)
+jediael | Jediael | Jediael | 7:6,7:10,7:11 | M | A son of Benjamin, father of Bilhan (1 Chronicles 7:6, 7:10-11)
+ezbon-b | Ezbon | Ezbon | 7:7 | M | A son of Bela, son of Benjamin (1 Chronicles 7:7)
+uzzi-b | Uzzi | Uzzi | 7:7 | M | A son of Bela, son of Benjamin (1 Chronicles 7:7)
+uzziel-b | Uzziel | Uzziel | 7:7 | M | A son of Bela, son of Benjamin (1 Chronicles 7:7)
+jerimoth-b | Jerimoth | Jerimoth | 7:7 | M | A son of Bela, son of Benjamin (1 Chronicles 7:7)
+iri | Iri | Iri | 7:7 | M | A son of Bela, son of Benjamin (1 Chronicles 7:7)
+zemira | Zemira | Zemira | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+joash-b | Joash | Joash | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+eliezer-b | Eliezer | Eliezer | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+elioenai-b | Elioenai | Elioenai | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+omri-b | Omri | Omri | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+jerimoth-c | Jerimoth | Jerimoth | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+abiah-b | Abiah | Abiah | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+anathoth-b | Anathoth | Anathoth | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+alameth-b | Alameth | Alameth | 7:8 | M | A son of Becher, son of Benjamin (1 Chronicles 7:8)
+bilhan-b | Bilhan | Bilhan | 7:10 | M | The son of Jediael, of Benjamin (1 Chronicles 7:10)
+jeush-b | Jeush | Jeush | 7:10 | M | A son of Bilhan, of Benjamin (1 Chronicles 7:10)
+benjamin-b | Benjamin | Benjamin | 7:10 | M | A son of Bilhan, of Benjamin (1 Chronicles 7:10)
+ehud-b | Ehud | Ehud | 7:10 | M | A son of Bilhan, of Benjamin (1 Chronicles 7:10)
+chenaanah-b | Chenaanah | Chenaanah | 7:10 | M | A son of Bilhan, of Benjamin (1 Chronicles 7:10)
+zethan | Zethan | Zethan | 7:10 | M | A son of Bilhan, of Benjamin (1 Chronicles 7:10)
+tharshish-b | Tharshish | Tharshish | 7:10 | M | A son of Bilhan, of Benjamin (1 Chronicles 7:10)
+ahishahar | Ahishahar | Ahishahar | 7:10 | M | A son of Bilhan, of Benjamin (1 Chronicles 7:10)
+shuppim | Shuppim | Shuppim | 7:12,7:15 | M | Of the children of Ir; his sister Maachah was wife of Machir (1 Chronicles 7:12, 7:15)
+huppim-i | Huppim | Huppim | 7:12,7:15 | M | Of the children of Ir; his sister Maachah was wife of Machir (1 Chronicles 7:12, 7:15)
+ir | Ir | Ir | 7:12 | M | Of Benjamin; Shuppim and Huppim were his children (1 Chronicles 7:12)
+hushim-a | Hushim | Hushim | 7:12 | U | "Hushim, the sons of Aher" (1 Chronicles 7:12)
+aher | Aher | Aher | 7:12 | M | "Hushim, the sons of Aher" (1 Chronicles 7:12)
+ashriel | Ashriel | Ashriel | 7:14 | M | A son of Manasseh (1 Chronicles 7:14)
+aramitess | Aramitess | Aramitess | 7:14 | G | The concubine of Manasseh, an Aramitess, bare Machir (1 Chronicles 7:14)
+maachah-m | Maachah | Maachah | 7:15,7:16 | F | The wife of Machir, sister of Huppim and Shuppim; she bare Peresh (1 Chronicles 7:15-16)
+peresh | Peresh | Peresh | 7:16 | M | The son of Machir and Maachah (1 Chronicles 7:16)
+sheresh | Sheresh | Sheresh | 7:16 | M | The brother of Peresh, of Machir (1 Chronicles 7:16)
+ulam | Ulam | Ulam | 7:16,7:17 | M | Of Machir; father of Bedan (1 Chronicles 7:16-17)
+rakem | Rakem | Rakem | 7:16 | M | Of Machir (1 Chronicles 7:16)
+bedan-u | Bedan | Bedan | 7:17 | M | The son of Ulam, of Manasseh (1 Chronicles 7:17)
+hammoleketh | Hammoleketh | Hammoleketh | 7:18 | F | Of Manasseh; "his sister Hammoleketh bare Ishod, and Abiezer, and Mahalah" (1 Chronicles 7:17-18)
+ishod | Ishod | Ishod | 7:18 | M | A son of Hammoleketh, of Manasseh (1 Chronicles 7:18)
+mahalah | Mahalah | Mahalah | 7:18 | U | A child of Hammoleketh, of Manasseh (1 Chronicles 7:18)
+ahian | Ahian | Ahian | 7:19 | M | A son of Shemida, of Manasseh (1 Chronicles 7:19)
+shechem-m | Shechem | Shechem | 7:19 | M | A son of Shemida, of Manasseh (1 Chronicles 7:19)
+likhi | Likhi | Likhi | 7:19 | M | A son of Shemida, of Manasseh (1 Chronicles 7:19)
+aniam | Aniam | Aniam | 7:19 | M | A son of Shemida, of Manasseh (1 Chronicles 7:19)
+bered-e | Bered | Bered | 7:20 | M | Of Ephraim, the son of Shuthelah, father of Tahath (1 Chronicles 7:20)
+tahath-1 | Tahath | Tahath | 7:20 | M | Of Ephraim, the son of Bered, father of Eladah (1 Chronicles 7:20)
+tahath-2 | Tahath | Tahath | 7:20 | M | Of Ephraim, the son of Eladah, father of Zabad (1 Chronicles 7:20-21)
+eladah | Eladah | Eladah | 7:20 | M | Of Ephraim, the son of Tahath, father of Tahath (1 Chronicles 7:20)
+zabad-e | Zabad | Zabad | 7:21 | M | Of Ephraim, the son of Tahath, father of Shuthelah (1 Chronicles 7:21)
+shuthelah-z | Shuthelah | Shuthelah | 7:21 | M | Of Ephraim, the son of Zabad (1 Chronicles 7:21)
+ezer-e | Ezer | Ezer | 7:21 | M | Of Ephraim; he and Elead the men of Gath slew when they came down to take away their cattle (1 Chronicles 7:21-22)
+elead | Elead | Elead | 7:21 | M | Of Ephraim; he and Ezer the men of Gath slew when they came down to take away their cattle (1 Chronicles 7:21-22)
+beriah-e | Beriah | Beriah | 7:23 | M | A son of Ephraim, born after Ephraim mourned; named "because it went evil with his house" (1 Chronicles 7:23)
+sherah | Sherah | Sherah | 7:24 | F | Of Ephraim; "his daughter was Sherah, who built Beth-horon the nether, and the upper, and Uzzen-sherah" (1 Chronicles 7:23-24)
+uzzen-sherah | Uzzen-sherah | Uzzen-sherah | 7:24 | P | A place built by Sherah (1 Chronicles 7:24)
+rephah | Rephah | Rephah | 7:25 | M | Of Ephraim, "Rephah was his son" (1 Chronicles 7:25)
+resheph | Resheph | Resheph | 7:25 | M | Of Ephraim, named with Rephah (1 Chronicles 7:25)
+telah | Telah | Telah | 7:25 | M | Of Ephraim, father of Tahan, in the line to Joshua (1 Chronicles 7:25)
+tahan-r | Tahan | Tahan | 7:25 | M | Of Ephraim, the son of Telah, father of Laadan (1 Chronicles 7:25-26)
+laadan-e | Laadan | Laadan | 7:26 | M | Of Ephraim, the son of Tahan, father of Ammihud (1 Chronicles 7:26)
+naaran | Naaran | Naaran | 7:28 | P | A place eastward in the possession of Ephraim (1 Chronicles 7:28)
+birzavith | Birzavith | Birzavith | 7:31 | U | Malchiel, son of Beriah of Asher, "is the father of Birzavith" (1 Chronicles 7:31)
+japhlet | Japhlet | Japhlet | 7:32,7:33 | M | A son of Heber, of Asher (1 Chronicles 7:32-33)
+shomer-a | Shomer | Shomer | 7:32 | M | A son of Heber, of Asher (1 Chronicles 7:32)
+hotham | Hotham | Hotham | 7:32 | M | A son of Heber, of Asher (1 Chronicles 7:32)
+shua-a | Shua | Shua | 7:32 | F | The sister of Japhlet, Shomer and Hotham, daughter of Heber of Asher (1 Chronicles 7:32)
+pasach | Pasach | Pasach | 7:33 | M | A son of Japhlet, of Asher (1 Chronicles 7:33)
+bimhal | Bimhal | Bimhal | 7:33 | M | A son of Japhlet, of Asher (1 Chronicles 7:33)
+ashvath | Ashvath | Ashvath | 7:33 | M | A son of Japhlet, of Asher (1 Chronicles 7:33)
+shamer-a | Shamer | Shamer | 7:34 | M | Of Asher, father of Ahi, Rohgah, Jehubbah and Aram; brother of Helem (1 Chronicles 7:34-35)
+ahi-a | Ahi | Ahi | 7:34 | M | A son of Shamer, of Asher (1 Chronicles 7:34)
+rohgah | Rohgah | Rohgah | 7:34 | M | A son of Shamer, of Asher (1 Chronicles 7:34)
+jehubbah | Jehubbah | Jehubbah | 7:34 | M | A son of Shamer, of Asher (1 Chronicles 7:34)
+aram-a | Aram | Aram | 7:34 | M | A son of Shamer, of Asher (1 Chronicles 7:34)
+helem | Helem | Helem | 7:35 | M | Of Asher, the brother of Shamer (1 Chronicles 7:35)
+zophah | Zophah | Zophah | 7:35,7:36 | M | A son of Helem, of Asher (1 Chronicles 7:35-36)
+imna | Imna | Imna | 7:35 | M | A son of Helem, of Asher (1 Chronicles 7:35)
+shelesh | Shelesh | Shelesh | 7:35 | M | A son of Helem, of Asher (1 Chronicles 7:35)
+amal | Amal | Amal | 7:35 | M | A son of Helem, of Asher (1 Chronicles 7:35)
+suah | Suah | Suah | 7:36 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+harnepher | Harnepher | Harnepher | 7:36 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+shual-a | Shual | Shual | 7:36 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+beri | Beri | Beri | 7:36 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+imrah | Imrah | Imrah | 7:36 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+bezer-a | Bezer | Bezer | 7:37 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+hod | Hod | Hod | 7:37 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+shamma | Shamma | Shamma | 7:37 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+shilshah | Shilshah | Shilshah | 7:37 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+ithran-a | Ithran | Ithran | 7:37 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+beera | Beera | Beera | 7:37 | M | A son of Zophah, of Asher (1 Chronicles 7:36-37)
+jether-a | Jether | Jether | 7:38 | M | Of Asher, father of Jephunneh, Pispah and Ara (1 Chronicles 7:38)
+jephunneh-a | Jephunneh | Jephunneh | 7:38 | M | A son of Jether, of Asher (1 Chronicles 7:38)
+pispah | Pispah | Pispah | 7:38 | M | A son of Jether, of Asher (1 Chronicles 7:38)
+ara | Ara | Ara | 7:38 | M | A son of Jether, of Asher (1 Chronicles 7:38)
+ulla | Ulla | Ulla | 7:39 | M | Of Asher, father of Arah, Haniel and Rezia (1 Chronicles 7:39)
+arah | Arah | Arah | 7:39 | M | A son of Ulla, of Asher (1 Chronicles 7:39)
+haniel | Haniel | Haniel | 7:39 | M | A son of Ulla, of Asher (1 Chronicles 7:39)
+rezia | Rezia | Rezia | 7:39 | M | A son of Ulla, of Asher (1 Chronicles 7:39)
+aharah | Aharah | Aharah | 8:1 | M | The third son of Benjamin (1 Chronicles 8:1)
+nohah | Nohah | Nohah | 8:2 | M | The fourth son of Benjamin (1 Chronicles 8:2)
+rapha-b | Rapha | Rapha | 8:2 | M | The fifth son of Benjamin (1 Chronicles 8:2)
+addar | Addar | Addar | 8:3 | M | A son of Bela, son of Benjamin (1 Chronicles 8:3)
+gera-b | Gera | Gera | 8:3 | M | A son of Bela, son of Benjamin (1 Chronicles 8:3)
+gera-b2 | Gera | Gera | 8:5 | M | A son of Bela, son of Benjamin, named again in the list (1 Chronicles 8:5)
+abihud | Abihud | Abihud | 8:3 | M | A son of Bela, son of Benjamin (1 Chronicles 8:3)
+abishua-b | Abishua | Abishua | 8:4 | M | A son of Bela, son of Benjamin (1 Chronicles 8:4)
+ahoah | Ahoah | Ahoah | 8:4 | M | A son of Bela, son of Benjamin (1 Chronicles 8:4)
+shephuphan | Shephuphan | Shephuphan | 8:5 | M | A son of Bela, son of Benjamin (1 Chronicles 8:5)
+huram-b | Huram | Huram | 8:5 | M | A son of Bela, son of Benjamin (1 Chronicles 8:5)
+ehud-g | Ehud | Ehud | 8:6 | M | "These are the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba" (1 Chronicles 8:6)
+manahath-p | Manahath | Manahath | 8:6 | P | Whither the heads of the inhabitants of Geba were removed (1 Chronicles 8:6)
+naaman-8 | Naaman | Naaman | 8:7 | M | "Naaman, and Ahiah, and Gera, he removed them" (1 Chronicles 8:7)
+ahiah-8 | Ahiah | Ahiah | 8:7 | M | "Naaman, and Ahiah, and Gera, he removed them" (1 Chronicles 8:7)
+gera-8 | Gera | Gera | 8:7 | M | "Naaman, and Ahiah, and Gera, he removed them, and begat Uzza, and Ahihud" (1 Chronicles 8:7)
+uzza-8 | Uzza | Uzza | 8:7 | M | A son begotten in 1 Chronicles 8:7 (1 Chronicles 8:7)
+ahihud-8 | Ahihud | Ahihud | 8:7 | M | A son begotten in 1 Chronicles 8:7, named with Uzza (1 Chronicles 8:7)
+shaharaim | Shaharaim | Shaharaim | 8:8 | M | Of Benjamin; he begat children in the country of Moab; Hushim and Baara were his wives (1 Chronicles 8:8-11)
+hushim-w | Hushim | Hushim | 8:8,8:11 | F | A wife of Shaharaim, mother of Abitub and Elpaal (1 Chronicles 8:8, 8:11)
+baara | Baara | Baara | 8:8 | F | A wife of Shaharaim (1 Chronicles 8:8)
+hodesh | Hodesh | Hodesh | 8:9 | F | A wife of Shaharaim (1 Chronicles 8:9)
+jobab-s | Jobab | Jobab | 8:9 | M | A son of Shaharaim and Hodesh (1 Chronicles 8:9)
+zibia | Zibia | Zibia | 8:9 | M | A son of Shaharaim and Hodesh; a head of the fathers (1 Chronicles 8:9-10)
+mesha-s | Mesha | Mesha | 8:9 | M | A son of Shaharaim and Hodesh; a head of the fathers (1 Chronicles 8:9-10)
+malcham | Malcham | Malcham | 8:9 | M | A son of Shaharaim and Hodesh; a head of the fathers (1 Chronicles 8:9-10)
+jeuz | Jeuz | Jeuz | 8:10 | M | A son of Shaharaim and Hodesh; a head of the fathers (1 Chronicles 8:9-10)
+shachia | Shachia | Shachia | 8:10 | M | A son of Shaharaim and Hodesh; a head of the fathers (1 Chronicles 8:9-10)
+mirma | Mirma | Mirma | 8:10 | M | A son of Shaharaim and Hodesh; a head of the fathers (1 Chronicles 8:9-10)
+abitub | Abitub | Abitub | 8:11 | M | A son of Shaharaim and Hushim (1 Chronicles 8:11)
+elpaal | Elpaal | Elpaal | 8:11,8:12,8:18 | M | A son of Shaharaim and Hushim, of Benjamin (1 Chronicles 8:11-12, 8:18)
+eber-b | Eber | Eber | 8:12 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:12)
+misham | Misham | Misham | 8:12 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:12)
+ono | Ono | Ono | 8:12 | P | A town built by Shamed (1 Chronicles 8:12)
+lod | Lod | Lod | 8:12 | P | A town built by Shamed (1 Chronicles 8:12)
+beriah-b | Beriah | Beriah | 8:13,8:16 | M | Of Benjamin, a head of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath (1 Chronicles 8:13, 8:16)
+shema-b | Shema | Shema | 8:13 | M | Of Benjamin, a head of the fathers of the inhabitants of Aijalon (1 Chronicles 8:13)
+ahio-b | Ahio | Ahio | 8:14 | M | A son of Beriah, of Benjamin (1 Chronicles 8:14-16)
+shashak | Shashak | Shashak | 8:14,8:25 | M | A son of Beriah, of Benjamin (1 Chronicles 8:14-16)
+jeremoth-b | Jeremoth | Jeremoth | 8:14 | M | A son of Beriah, of Benjamin (1 Chronicles 8:14-16)
+zebadiah-b | Zebadiah | Zebadiah | 8:15 | M | A son of Beriah, of Benjamin (1 Chronicles 8:15-16)
+arad-b | Arad | Arad | 8:15 | M | A son of Beriah, of Benjamin (1 Chronicles 8:15-16)
+ader | Ader | Ader | 8:15 | M | A son of Beriah, of Benjamin (1 Chronicles 8:15-16)
+michael-b | Michael | Michael | 8:16 | M | A son of Beriah, of Benjamin (1 Chronicles 8:16)
+ispah | Ispah | Ispah | 8:16 | M | A son of Beriah, of Benjamin (1 Chronicles 8:16)
+joha-b | Joha | Joha | 8:16 | M | A son of Beriah, of Benjamin (1 Chronicles 8:16)
+zebadiah-e | Zebadiah | Zebadiah | 8:17 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:17-18)
+meshullam-e | Meshullam | Meshullam | 8:17 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:17-18)
+hezeki | Hezeki | Hezeki | 8:17 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:17-18)
+heber-e | Heber | Heber | 8:17 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:17-18)
+ishmerai | Ishmerai | Ishmerai | 8:18 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:18)
+jezliah | Jezliah | Jezliah | 8:18 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:18)
+jobab-e | Jobab | Jobab | 8:18 | M | A son of Elpaal, of Benjamin (1 Chronicles 8:18)
+jakim-s | Jakim | Jakim | 8:19 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:19-21)
+zichri-s | Zichri | Zichri | 8:19 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:19-21)
+zabdi-s | Zabdi | Zabdi | 8:19 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:19-21)
+elienai | Elienai | Elienai | 8:20 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:20-21)
+zilthai-s | Zilthai | Zilthai | 8:20 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:20-21)
+eliel-s | Eliel | Eliel | 8:20 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:20-21)
+adaiah-s | Adaiah | Adaiah | 8:21 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:21)
+beraiah | Beraiah | Beraiah | 8:21 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:21)
+shimrath | Shimrath | Shimrath | 8:21 | M | A son of Shimhi, of Benjamin (1 Chronicles 8:21)
+shimhi | Shimhi | Shimhi | 8:21 | M | Of Benjamin, father of Jakim, Zichri, Zabdi and others (1 Chronicles 8:21)
+ishpan | Ishpan | Ishpan | 8:22 | M | A son of Shashak, of Benjamin (1 Chronicles 8:22-25)
+heber-sh | Heber | Heber | 8:22 | M | A son of Shashak, of Benjamin (1 Chronicles 8:22-25)
+eliel-sh | Eliel | Eliel | 8:22 | M | A son of Shashak, of Benjamin (1 Chronicles 8:22-25)
+abdon-s | Abdon | Abdon | 8:23 | M | A son of Shashak, of Benjamin (1 Chronicles 8:23-25)
+zichri-sh | Zichri | Zichri | 8:23 | M | A son of Shashak, of Benjamin (1 Chronicles 8:23-25)
+hanan-s | Hanan | Hanan | 8:23 | M | A son of Shashak, of Benjamin (1 Chronicles 8:23-25)
+hananiah-s | Hananiah | Hananiah | 8:24 | M | A son of Shashak, of Benjamin (1 Chronicles 8:24-25)
+elam-s | Elam | Elam | 8:24 | M | A son of Shashak, of Benjamin (1 Chronicles 8:24-25)
+antothijah | Antothijah | Antothijah | 8:24 | M | A son of Shashak, of Benjamin (1 Chronicles 8:24-25)
+iphedeiah | Iphedeiah | Iphedeiah | 8:25 | M | A son of Shashak, of Benjamin (1 Chronicles 8:25)
+penuel-s | Penuel | Penuel | 8:25 | M | A son of Shashak, of Benjamin (1 Chronicles 8:25)
+shamsherai | Shamsherai | Shamsherai | 8:26 | M | A son of Jeroham, of Benjamin (1 Chronicles 8:26-27)
+shehariah | Shehariah | Shehariah | 8:26 | M | A son of Jeroham, of Benjamin (1 Chronicles 8:26-27)
+athaliah-j | Athaliah | Athaliah | 8:26 | M | A son of Jeroham, of Benjamin (1 Chronicles 8:26-27)
+jaresiah | Jaresiah | Jaresiah | 8:27 | M | A son of Jeroham, of Benjamin (1 Chronicles 8:27)
+eliah-j | Eliah | Eliah | 8:27 | M | A son of Jeroham, of Benjamin (1 Chronicles 8:27)
+zichri-j | Zichri | Zichri | 8:27 | M | A son of Jeroham, of Benjamin (1 Chronicles 8:27)
+jeroham-b | Jeroham | Jeroham | 8:27 | M | Of Benjamin, a head of the fathers dwelling in Jerusalem (1 Chronicles 8:27-28)
+maachah-j | Maachah | Maachah | 8:29,9:35 | F | The wife of Jehiel the father of Gibeon, who dwelt at Gibeon (1 Chronicles 8:29, 9:35)
+abdon-g | Abdon | Abdon | 8:30,9:36 | M | The firstborn son of the father of Gibeon and Maachah (1 Chronicles 8:30)
+zur-g | Zur | Zur | 8:30,9:36 | M | A son of the father of Gibeon and Maachah (1 Chronicles 8:29-30)
+kish-g | Kish | Kish | 8:30,9:36 | M | A son of the father of Gibeon and Maachah (1 Chronicles 8:29-30)
+baal-g | Baal | Baal | 8:30,9:36 | M | A son of the father of Gibeon and Maachah (1 Chronicles 8:29-30)
+nadab-g | Nadab | Nadab | 8:30,9:36 | M | A son of the father of Gibeon and Maachah (1 Chronicles 8:29-30)
+gedor-g | Gedor | Gedor | 8:31,9:37 | M | A son of the father of Gibeon and Maachah (1 Chronicles 8:29-31)
+ahio-g | Ahio | Ahio | 8:31,9:37 | M | A son of the father of Gibeon and Maachah (1 Chronicles 8:29-31)
+zacher | Zacher | Zacher;Zechariah | 8:31,9:37 | M | A son of the father of Gibeon and Maachah (1 Chronicles 8:29-31)
+mikloth | Mikloth | Mikloth | 8:32,9:37,9:38 | M | A son of Jehiel the father of Gibeon; he begat Shimeah (Shimeam), and dwelt in Jerusalem (1 Chronicles 8:32, 9:37-38)
+shimeah-m | Shimeah | Shimeah;Shimeam | 8:32,9:38 | M | The son of Mikloth; also written Shimeam (1 Chronicles 8:32, 9:38)
+ner-k | Ner | Ner | 8:33,9:39 | M | He begat Kish (1 Chronicles 8:33)
+esh-baal | Esh-baal | Esh-baal | 8:33,9:39 | M | A son of Saul (1 Chronicles 8:33)
+pithon | Pithon | Pithon | 8:35,9:41 | M | A son of Micah, son of Merib-baal (1 Chronicles 8:35)
+melech | Melech | Melech | 8:35,9:41 | M | A son of Micah, son of Merib-baal (1 Chronicles 8:35)
+tarea | Tarea | Tarea;Tahrea | 8:35,9:41 | M | A son of Micah, son of Merib-baal (1 Chronicles 8:35)
+ahaz-b | Ahaz | Ahaz | 8:35,8:36,9:41,9:42 | M | A son of Micah, son of Merib-baal (1 Chronicles 8:35)
+jehoadah | Jehoadah | Jehoadah;Jarah | 8:36,9:42 | M | The son of Ahaz, of Saul's line, father of Alemeth, Azmaveth and Zimri (1 Chronicles 8:36)
+alemeth-b | Alemeth | Alemeth | 8:36,9:42 | M | A son of Jehoadah, of Saul's line (1 Chronicles 8:36)
+azmaveth-b | Azmaveth | Azmaveth | 8:36,9:42 | M | A son of Jehoadah, of Saul's line (1 Chronicles 8:36)
+zimri-b | Zimri | Zimri | 8:36,9:42 | M | A son of Jehoadah, of Saul's line (1 Chronicles 8:36)
+moza-b | Moza | Moza | 8:36,8:37,9:42,9:43 | M | The son of Zimri, of Saul's line, father of Binea (1 Chronicles 8:36-37)
+binea | Binea | Binea | 8:37,9:43 | M | The son of Moza, of Saul's line (1 Chronicles 8:37)
+rapha-s | Rapha | Rapha;Rephaiah | 8:37,9:43 | M | Of Saul's line, "Rapha was his son", father of Eleasah (1 Chronicles 8:37)
+eleasah-b | Eleasah | Eleasah | 8:37,9:43 | M | Of Saul's line, the son of Rapha, father of Azel (1 Chronicles 8:37)
+azel | Azel | Azel | 8:37,8:38,9:43,9:44 | M | Of Saul's line, the son of Eleasah; he had six sons (1 Chronicles 8:37-38)
+azrikam-b | Azrikam | Azrikam | 8:38,9:44 | M | A son of Azel, of Saul's line (1 Chronicles 8:38)
+bocheru | Bocheru | Bocheru | 8:38,9:44 | M | A son of Azel, of Saul's line (1 Chronicles 8:38)
+ishmael-b | Ishmael | Ishmael | 8:38,9:44 | M | A son of Azel, of Saul's line (1 Chronicles 8:38)
+sheariah | Sheariah | Sheariah | 8:38,9:44 | M | A son of Azel, of Saul's line (1 Chronicles 8:38)
+obadiah-b | Obadiah | Obadiah | 8:38,9:44 | M | A son of Azel, of Saul's line (1 Chronicles 8:38)
+hanan-a | Hanan | Hanan | 8:38,9:44 | M | A son of Azel, of Saul's line (1 Chronicles 8:38)
+eshek | Eshek | Eshek | 8:39 | M | The brother of Azel, of Saul's line (1 Chronicles 8:39)
+ulam-e | Ulam | Ulam | 8:39,8:40 | M | The firstborn of Eshek; his sons were mighty men of valour, archers (1 Chronicles 8:39-40)
+jehush | Jehush | Jehush | 8:39 | M | The second son of Eshek (1 Chronicles 8:39)
+eliphelet-b | Eliphelet | Eliphelet | 8:39 | M | The third son of Eshek (1 Chronicles 8:39)
+nethinims | Nethinims | Nethinims | 9:2 | G | Named with the Israelites, the priests and the Levites among the first inhabitants that dwelt in their cities (1 Chronicles 9:2)
+uthai | Uthai | Uthai | 9:4 | M | Of Judah, of the children of Pharez, the son of Ammihud; dwelt in Jerusalem (1 Chronicles 9:3-4)
+ammihud-p | Ammihud | Ammihud | 9:4 | M | Of Pharez, the son of Omri, father of Uthai (1 Chronicles 9:4)
+omri-p | Omri | Omri | 9:4 | M | Of Pharez, the son of Imri, father of Ammihud (1 Chronicles 9:4)
+imri | Imri | Imri | 9:4 | M | Of Pharez, the son of Bani, father of Omri (1 Chronicles 9:4)
+bani-p | Bani | Bani | 9:4 | M | Of the children of Pharez, father of Imri (1 Chronicles 9:4)
+shilonites | Shilonites | Shilonites | 9:5 | G | Of Judah; Asaiah the firstborn and his sons dwelt in Jerusalem (1 Chronicles 9:5)
+asaiah-sh | Asaiah | Asaiah | 9:5 | M | Of the Shilonites, the firstborn, who dwelt in Jerusalem (1 Chronicles 9:5)
+jeuel | Jeuel | Jeuel | 9:6 | M | Of the sons of Zerah, who dwelt in Jerusalem (1 Chronicles 9:6)
+sallu | Sallu | Sallu | 9:7 | M | Of Benjamin, the son of Meshullam; dwelt in Jerusalem (1 Chronicles 9:7)
+meshullam-h | Meshullam | Meshullam | 9:7 | M | Of Benjamin, the son of Hodaviah, father of Sallu (1 Chronicles 9:7)
+hodaviah-b | Hodaviah | Hodaviah | 9:7 | M | Of Benjamin, the son of Hasenuah, father of Meshullam (1 Chronicles 9:7)
+hasenuah | Hasenuah | Hasenuah | 9:7 | M | Of Benjamin, father of Hodaviah (1 Chronicles 9:7)
+ibneiah | Ibneiah | Ibneiah | 9:8 | M | Of Benjamin, the son of Jeroham; dwelt in Jerusalem (1 Chronicles 9:8)
+jeroham-i | Jeroham | Jeroham | 9:8 | M | Of Benjamin, father of Ibneiah (1 Chronicles 9:8)
+elah-u | Elah | Elah | 9:8 | M | Of Benjamin, the son of Uzzi; dwelt in Jerusalem (1 Chronicles 9:8)
+uzzi-m | Uzzi | Uzzi | 9:8 | M | Of Benjamin, the son of Michri, father of Elah (1 Chronicles 9:8)
+michri | Michri | Michri | 9:8 | M | Of Benjamin, father of Uzzi (1 Chronicles 9:8)
+meshullam-s | Meshullam | Meshullam | 9:8 | M | Of Benjamin, the son of Shephathiah; dwelt in Jerusalem (1 Chronicles 9:8)
+shephathiah | Shephathiah | Shephathiah | 9:8 | M | Of Benjamin, the son of Reuel, father of Meshullam (1 Chronicles 9:8)
+reuel-b | Reuel | Reuel | 9:8 | M | Of Benjamin, the son of Ibnijah, father of Shephathiah (1 Chronicles 9:8)
+ibnijah | Ibnijah | Ibnijah | 9:8 | M | Of Benjamin, father of Reuel (1 Chronicles 9:8)
+jedaiah-p | Jedaiah | Jedaiah | 9:10 | M | Of the priests who dwelt in Jerusalem (1 Chronicles 9:10)
+jehoiarib | Jehoiarib | Jehoiarib | 9:10 | M | Of the priests who dwelt in Jerusalem (1 Chronicles 9:10)
+jachin-p | Jachin | Jachin | 9:10 | M | Of the priests who dwelt in Jerusalem (1 Chronicles 9:10)
+azariah-9 | Azariah | Azariah | 9:11 | M | A priest, the son of Hilkiah, the ruler of the house of God (1 Chronicles 9:11)
+hilkiah-9 | Hilkiah | Hilkiah | 9:11 | M | A priest, the son of Meshullam, father of Azariah (1 Chronicles 9:11)
+meshullam-9 | Meshullam | Meshullam | 9:11 | M | A priest, the son of Zadok, father of Hilkiah (1 Chronicles 9:11)
+zadok-9 | Zadok | Zadok | 9:11 | M | A priest, the son of Meraioth, father of Meshullam (1 Chronicles 9:11)
+meraioth-9 | Meraioth | Meraioth | 9:11 | M | A priest, the son of Ahitub, father of Zadok (1 Chronicles 9:11)
+ahitub-9 | Ahitub | Ahitub | 9:11 | M | A priest, father of Meraioth (1 Chronicles 9:11)
+adaiah-p | Adaiah | Adaiah | 9:12 | M | A priest, the son of Jeroham, who dwelt in Jerusalem (1 Chronicles 9:12)
+jeroham-p | Jeroham | Jeroham | 9:12 | M | A priest, the son of Pashur, father of Adaiah (1 Chronicles 9:12)
+pashur-m | Pashur | Pashur | 9:12 | M | A priest, the son of Malchijah, father of Jeroham (1 Chronicles 9:12)
+malchijah-p | Malchijah | Malchijah | 9:12 | M | A priest, father of Pashur (1 Chronicles 9:12)
+maasiai | Maasiai | Maasiai | 9:12 | M | A priest, the son of Adiel, who dwelt in Jerusalem (1 Chronicles 9:12)
+adiel-p | Adiel | Adiel | 9:12 | M | A priest, the son of Jahzerah, father of Maasiai (1 Chronicles 9:12)
+jahzerah | Jahzerah | Jahzerah | 9:12 | M | A priest, the son of Meshullam, father of Adiel (1 Chronicles 9:12)
+meshullam-m | Meshullam | Meshullam | 9:12 | M | A priest, the son of Meshillemith, father of Jahzerah (1 Chronicles 9:12)
+meshillemith | Meshillemith | Meshillemith | 9:12 | M | A priest, the son of Immer, father of Meshullam (1 Chronicles 9:12)
+immer-p | Immer | Immer | 9:12 | M | A priest, father of Meshillemith (1 Chronicles 9:12)
+shemaiah-m | Shemaiah | Shemaiah | 9:14 | M | A Levite of the sons of Merari, the son of Hasshub (1 Chronicles 9:14)
+hasshub | Hasshub | Hasshub | 9:14 | M | A Levite of the sons of Merari, the son of Azrikam, father of Shemaiah (1 Chronicles 9:14)
+azrikam-m | Azrikam | Azrikam | 9:14 | M | A Levite of the sons of Merari, the son of Hashabiah, father of Hasshub (1 Chronicles 9:14)
+hashabiah-9 | Hashabiah | Hashabiah | 9:14 | M | A Levite of the sons of Merari, father of Azrikam (1 Chronicles 9:14)
+bakbakkar | Bakbakkar | Bakbakkar | 9:15 | M | A Levite who dwelt in Jerusalem (1 Chronicles 9:15)
+heresh | Heresh | Heresh | 9:15 | M | A Levite who dwelt in Jerusalem (1 Chronicles 9:15)
+galal-1 | Galal | Galal | 9:15 | M | A Levite who dwelt in Jerusalem (1 Chronicles 9:15)
+mattaniah-a | Mattaniah | Mattaniah | 9:15 | M | A Levite, the son of Micah, the son of Zichri, the son of Asaph (1 Chronicles 9:15)
+micah-a | Micah | Micah | 9:15 | M | A Levite, the son of Zichri, father of Mattaniah (1 Chronicles 9:15)
+zichri-a | Zichri | Zichri | 9:15 | M | A Levite, the son of Asaph, father of Micah (1 Chronicles 9:15)
+asaph-9 | Asaph | Asaph | 9:15 | M | A Levite, father of Zichri, in the line of Mattaniah (1 Chronicles 9:15)
+obadiah-l | Obadiah | Obadiah | 9:16 | M | A Levite, the son of Shemaiah, who dwelt in Jerusalem (1 Chronicles 9:16)
+shemaiah-g | Shemaiah | Shemaiah | 9:16 | M | A Levite, the son of Galal, father of Obadiah (1 Chronicles 9:16)
+galal-2 | Galal | Galal | 9:16 | M | A Levite, the son of Jeduthun, father of Shemaiah (1 Chronicles 9:16)
+jeduthun-9 | Jeduthun | Jeduthun | 9:16 | M | A Levite, father of Galal, in the line of Obadiah (1 Chronicles 9:16)
+berechiah-a | Berechiah | Berechiah | 9:16 | M | A Levite, the son of Asa, that dwelt in the villages of the Netophathites (1 Chronicles 9:16)
+asa-l | Asa | Asa | 9:16 | M | A Levite, the son of Elkanah, father of Berechiah (1 Chronicles 9:16)
+elkanah-9 | Elkanah | Elkanah | 9:16 | M | A Levite, father of Asa, in the line of Berechiah (1 Chronicles 9:16)
+shallum-c | Shallum | Shallum | 9:17 | M | The chief of the porters, who waited in the king's gate eastward (1 Chronicles 9:17-18)
+akkub | Akkub | Akkub | 9:17 | M | A porter (1 Chronicles 9:17)
+talmon | Talmon | Talmon | 9:17 | M | A porter (1 Chronicles 9:17)
+ahiman-p | Ahiman | Ahiman | 9:17 | M | A porter (1 Chronicles 9:17)
+shallum-k | Shallum | Shallum | 9:19,9:31 | M | The son of Kore, of the Korahites, over the work of the service, keeper of the gates of the tabernacle; "Shallum the Korahite", father of Mattithiah (1 Chronicles 9:19, 9:31)
+kore | Kore | Kore | 9:19 | M | The son of Ebiasaph, the son of Korah, father of Shallum (1 Chronicles 9:19)
+zechariah-m | Zechariah | Zechariah | 9:21,26:2,26:14 | M | The son of Meshelemiah, porter of the door of the tabernacle of the congregation (1 Chronicles 9:21)
+meshelemiah | Meshelemiah | Meshelemiah;Shelemiah | 9:21,26:1,26:2,26:9,26:14 | M | Father of Zechariah the porter (1 Chronicles 9:21)
+mattithiah | Mattithiah | Mattithiah | 9:31 | M | One of the Levites, the firstborn of Shallum the Korahite; over the things made in the pans (1 Chronicles 9:31)
+jehiel-g | Jehiel | Jehiel | 9:35 | M | The father of Gibeon, who dwelt in Gibeon, whose wife was Maachah (1 Chronicles 9:35)
+ner-j | Ner | Ner | 9:36 | M | A son of Jehiel the father of Gibeon (1 Chronicles 9:35-36)
+jashobeam-h | Jashobeam | Jashobeam | 11:11 | M | An Hachmonite, the chief of the captains of David's mighty men; he lifted up his spear against three hundred slain by him at one time (1 Chronicles 11:11)
+hachmonite | Hachmonite | Hachmonite | 11:11 | G | "Jashobeam, an Hachmonite" (1 Chronicles 11:11)
+pas-dammim | Pas-dammim | Pas-dammim | 11:13 | P | Where Eleazar was with David and the Philistines gathered to battle, in a parcel of ground full of barley (1 Chronicles 11:13)
+shammoth | Shammoth | Shammoth | 11:27 | M | The Harorite, one of the valiant men of David's armies (1 Chronicles 11:27)
+harorite | Harorite | Harorite | 11:27 | G | "Shammoth the Harorite" (1 Chronicles 11:27)
+pelonite | Pelonite | Pelonite | 11:27,11:36,27:10 | G | "Helez the Pelonite", "Ahijah the Pelonite" (1 Chronicles 11:27, 11:36)
+ilai | Ilai | Ilai | 11:29 | M | The Ahohite, one of the valiant men of David's armies (1 Chronicles 11:29)
+hurai | Hurai | Hurai | 11:32 | M | Of the brooks of Gaash, one of the valiant men of David's armies (1 Chronicles 11:32)
+abiel-a | Abiel | Abiel | 11:32 | M | The Arbathite, one of the valiant men of David's armies (1 Chronicles 11:32)
+hashem | Hashem | Hashem | 11:34 | M | The Gizonite, whose sons were among the valiant men of David's armies (1 Chronicles 11:34)
+gizonite | Gizonite | Gizonite | 11:34 | G | "Hashem the Gizonite" (1 Chronicles 11:34)
+jonathan-sg | Jonathan | Jonathan | 11:34 | M | The son of Shage the Hararite, one of the valiant men of David's armies (1 Chronicles 11:34)
+shage | Shage | Shage | 11:34 | M | The Hararite, father of Jonathan (1 Chronicles 11:34)
+eliphal | Eliphal | Eliphal | 11:35 | M | The son of Ur, one of the valiant men of David's armies (1 Chronicles 11:35)
+ur-e | Ur | Ur | 11:35 | M | The father of Eliphal (1 Chronicles 11:35)
+hepher-m | Hepher | Hepher | 11:36 | M | The Mecherathite, one of the valiant men of David's armies (1 Chronicles 11:36)
+mecherathite | Mecherathite | Mecherathite | 11:36 | G | "Hepher the Mecherathite" (1 Chronicles 11:36)
+ahijah-p | Ahijah | Ahijah | 11:36 | M | The Pelonite, one of the valiant men of David's armies (1 Chronicles 11:36)
+naarai | Naarai | Naarai | 11:37 | M | The son of Ezbai, one of the valiant men of David's armies (1 Chronicles 11:37)
+ezbai | Ezbai | Ezbai | 11:37 | M | The father of Naarai (1 Chronicles 11:37)
+joel-n | Joel | Joel | 11:38 | M | The brother of Nathan, one of the valiant men of David's armies (1 Chronicles 11:38)
+nathan-j | Nathan | Nathan | 11:38 | M | The brother of Joel, one of David's valiant men (1 Chronicles 11:38)
+mibhar | Mibhar | Mibhar | 11:38 | M | The son of Haggeri, one of the valiant men of David's armies (1 Chronicles 11:38)
+haggeri | Haggeri | Haggeri | 11:38 | M | The father of Mibhar (1 Chronicles 11:38)
+zabad-a | Zabad | Zabad | 11:41 | M | The son of Ahlai, one of the valiant men of David's armies (1 Chronicles 11:41)
+ahlai-z | Ahlai | Ahlai | 11:41 | U | The parent of Zabad (1 Chronicles 11:41)
+adina | Adina | Adina | 11:42 | M | The son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him (1 Chronicles 11:42)
+shiza | Shiza | Shiza | 11:42 | M | The Reubenite, father of Adina (1 Chronicles 11:42)
+hanan-m | Hanan | Hanan | 11:43 | M | The son of Maachah, one of the valiant men of David's armies (1 Chronicles 11:43)
+maachah-11 | Maachah | Maachah | 11:43 | U | The parent of Hanan, one of David's valiant men (1 Chronicles 11:43)
+joshaphat-m | Joshaphat | Joshaphat | 11:43 | M | The Mithnite, one of the valiant men of David's armies (1 Chronicles 11:43)
+mithnite | Mithnite | Mithnite | 11:43 | G | "Joshaphat the Mithnite" (1 Chronicles 11:43)
+uzzia | Uzzia | Uzzia | 11:44 | M | The Ashterathite, one of the valiant men of David's armies (1 Chronicles 11:44)
+ashterathite | Ashterathite | Ashterathite | 11:44 | G | "Uzzia the Ashterathite" (1 Chronicles 11:44)
+shama | Shama | Shama | 11:44 | M | A son of Hothan the Aroerite, one of the valiant men of David's armies (1 Chronicles 11:44)
+jehiel-h | Jehiel | Jehiel | 11:44 | M | A son of Hothan the Aroerite, one of the valiant men of David's armies (1 Chronicles 11:44)
+hothan | Hothan | Hothan | 11:44 | M | The Aroerite, father of Shama and Jehiel (1 Chronicles 11:44)
+aroerite | Aroerite | Aroerite | 11:44 | G | "Hothan the Aroerite" (1 Chronicles 11:44)
+jediael-s | Jediael | Jediael | 11:45 | M | The son of Shimri, one of the valiant men of David's armies (1 Chronicles 11:45)
+shimri-j | Shimri | Shimri | 11:45 | M | The father of Jediael and Joha (1 Chronicles 11:45)
+joha-t | Joha | Joha | 11:45 | M | The Tizite, the brother of Jediael, one of the valiant men of David's armies (1 Chronicles 11:45)
+tizite | Tizite | Tizite | 11:45 | G | "Joha his brother, the Tizite" (1 Chronicles 11:45)
+eliel-mh | Eliel | Eliel | 11:46 | M | The Mahavite, one of the valiant men of David's armies (1 Chronicles 11:46)
+mahavite | Mahavite | Mahavite | 11:46 | G | "Eliel the Mahavite" (1 Chronicles 11:46)
+jeribai | Jeribai | Jeribai | 11:46 | M | A son of Elnaam, one of the valiant men of David's armies (1 Chronicles 11:46)
+joshaviah | Joshaviah | Joshaviah | 11:46 | M | A son of Elnaam, one of the valiant men of David's armies (1 Chronicles 11:46)
+elnaam | Elnaam | Elnaam | 11:46 | M | The father of Jeribai and Joshaviah (1 Chronicles 11:46)
+ithmah | Ithmah | Ithmah | 11:46 | M | The Moabite, one of the valiant men of David's armies (1 Chronicles 11:46)
+eliel-47 | Eliel | Eliel | 11:47 | M | One of the valiant men of David's armies, named with Obed and Jasiel (1 Chronicles 11:47)
+obed-m | Obed | Obed | 11:47 | M | One of the valiant men of David's armies (1 Chronicles 11:47)
+jasiel | Jasiel | Jasiel | 11:47 | M | The Mesobaite, one of the valiant men of David's armies (1 Chronicles 11:47)
+mesobaite | Mesobaite | Mesobaite | 11:47 | G | "Jasiel the Mesobaite" (1 Chronicles 11:47)
+ahiezer-b | Ahiezer | Ahiezer | 12:3 | M | The chief of the men of Saul's brethren of Benjamin that came to David to Ziklag; a son of Shemaah the Gibeathite (1 Chronicles 12:1-3)
+joash-g | Joash | Joash | 12:3 | M | A son of Shemaah the Gibeathite, who came to David to Ziklag (1 Chronicles 12:3)
+shemaah | Shemaah | Shemaah | 12:3 | M | The Gibeathite, father of Ahiezer and Joash (1 Chronicles 12:3)
+gibeathite | Gibeathite | Gibeathite | 12:3 | G | "Shemaah the Gibeathite" (1 Chronicles 12:3)
+jeziel | Jeziel | Jeziel | 12:3 | M | A son of Azmaveth, who came to David to Ziklag (1 Chronicles 12:3)
+pelet-a | Pelet | Pelet | 12:3 | M | A son of Azmaveth, who came to David to Ziklag (1 Chronicles 12:3)
+azmaveth-12 | Azmaveth | Azmaveth | 12:3 | M | The father of Jeziel and Pelet (1 Chronicles 12:3)
+berachah | Berachah | Berachah | 12:3 | M | Of Saul's brethren of Benjamin, who came to David to Ziklag (1 Chronicles 12:3)
+jehu-a | Jehu | Jehu | 12:3 | M | The Antothite, who came to David to Ziklag (1 Chronicles 12:3)
+ismaiah | Ismaiah | Ismaiah | 12:4 | M | The Gibeonite, a mighty man among the thirty, and over the thirty, who came to David to Ziklag (1 Chronicles 12:4)
+jeremiah-4 | Jeremiah | Jeremiah | 12:4 | M | Of Saul's brethren of Benjamin, who came to David to Ziklag (1 Chronicles 12:4)
+jahaziel-b | Jahaziel | Jahaziel | 12:4 | M | Of Saul's brethren of Benjamin, who came to David to Ziklag (1 Chronicles 12:4)
+johanan-4 | Johanan | Johanan | 12:4 | M | Of Saul's brethren of Benjamin, who came to David to Ziklag (1 Chronicles 12:4)
+josabad | Josabad | Josabad | 12:4 | M | The Gederathite, who came to David to Ziklag (1 Chronicles 12:4)
+gederathite | Gederathite | Gederathite | 12:4 | G | "Josabad the Gederathite" (1 Chronicles 12:4)
+eluzai | Eluzai | Eluzai | 12:5 | M | Of Saul's brethren of Benjamin, who came to David to Ziklag (1 Chronicles 12:5)
+jerimoth-12 | Jerimoth | Jerimoth | 12:5 | M | Of Saul's brethren of Benjamin, who came to David to Ziklag (1 Chronicles 12:5)
+bealiah | Bealiah | Bealiah | 12:5 | M | Of Saul's brethren of Benjamin, who came to David to Ziklag (1 Chronicles 12:5)
+shemariah-b | Shemariah | Shemariah | 12:5 | M | Of Saul's brethren of Benjamin, who came to David to Ziklag (1 Chronicles 12:5)
+shephatiah-h | Shephatiah | Shephatiah | 12:5 | M | The Haruphite, who came to David to Ziklag (1 Chronicles 12:5)
+haruphite | Haruphite | Haruphite | 12:5 | G | "Shephatiah the Haruphite" (1 Chronicles 12:5)
+elkanah-12 | Elkanah | Elkanah | 12:6 | M | Of the Korhites, who came to David to Ziklag (1 Chronicles 12:6)
+jesiah | Jesiah | Jesiah | 12:6 | M | Of the Korhites, who came to David to Ziklag (1 Chronicles 12:6)
+azareel-k | Azareel | Azareel | 12:6 | M | Of the Korhites, who came to David to Ziklag (1 Chronicles 12:6)
+joezer | Joezer | Joezer | 12:6 | M | Of the Korhites, who came to David to Ziklag (1 Chronicles 12:6)
+jashobeam-k | Jashobeam | Jashobeam | 12:6 | M | Of the Korhites, who came to David to Ziklag (1 Chronicles 12:6)
+joelah | Joelah | Joelah | 12:7 | M | A son of Jeroham of Gedor, who came to David to Ziklag (1 Chronicles 12:7)
+zebadiah-j | Zebadiah | Zebadiah | 12:7 | M | A son of Jeroham of Gedor, who came to David to Ziklag (1 Chronicles 12:7)
+jeroham-g | Jeroham | Jeroham | 12:7 | M | Of Gedor, father of Joelah and Zebadiah (1 Chronicles 12:7)
+ezer-g | Ezer | Ezer | 12:9 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+obadiah-g | Obadiah | Obadiah | 12:9 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+eliab-g | Eliab | Eliab | 12:9 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+mishmannah | Mishmannah | Mishmannah | 12:10 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+jeremiah-5 | Jeremiah | Jeremiah | 12:10 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+attai-g | Attai | Attai | 12:11 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+eliel-g | Eliel | Eliel | 12:11 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+johanan-8 | Johanan | Johanan | 12:12 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+elzabad-g | Elzabad | Elzabad | 12:12 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+jeremiah-10 | Jeremiah | Jeremiah | 12:13 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+machbanai | Machbanai | Machbanai | 12:13 | M | Of the Gadites who separated themselves unto David into the hold; captains of the host (1 Chronicles 12:8-14)
+amasai-c | Amasai | Amasai | 12:18 | M | Chief of the captains; the spirit came upon him and he said, Thine are we, David (1 Chronicles 12:18)
+adnah-m | Adnah | Adnah | 12:20 | M | Of Manasseh, a captain of thousands who fell to David as he went to Ziklag (1 Chronicles 12:20)
+jozabad-1 | Jozabad | Jozabad | 12:20 | M | Of Manasseh, a captain of thousands who fell to David as he went to Ziklag (1 Chronicles 12:20)
+jozabad-2 | Jozabad | Jozabad | 12:20 | M | Of Manasseh, a captain of thousands who fell to David as he went to Ziklag; the second Jozabad named (1 Chronicles 12:20)
+jediael-m | Jediael | Jediael | 12:20 | M | Of Manasseh, a captain of thousands who fell to David as he went to Ziklag (1 Chronicles 12:20)
+michael-12 | Michael | Michael | 12:20 | M | Of Manasseh, a captain of thousands who fell to David as he went to Ziklag (1 Chronicles 12:20)
+elihu-m | Elihu | Elihu | 12:20 | M | Of Manasseh, a captain of thousands who fell to David as he went to Ziklag (1 Chronicles 12:20)
+zilthai-m | Zilthai | Zilthai | 12:20 | M | Of Manasseh, a captain of thousands who fell to David as he went to Ziklag (1 Chronicles 12:20)
+jehoiada-a | Jehoiada | Jehoiada | 12:27 | M | The leader of the Aaronites, with three thousand and seven hundred, who came to David to Hebron (1 Chronicles 12:27)
+aaronites | Aaronites | Aaronites | 12:27,27:17 | G | The house of Aaron, led by Jehoiada, who came to David to Hebron (1 Chronicles 12:27)
+zadok-y | Zadok | Zadok | 12:28 | M | A young man mighty of valour, who came to David to Hebron with twenty and two captains of his father's house (1 Chronicles 12:28)
+chidon | Chidon | Chidon | 13:9 | M | At whose threshingfloor Uzza put forth his hand to hold the ark (1 Chronicles 13:9)
+uriel-c | Uriel | Uriel | 15:5,15:11 | M | Of the sons of Kohath, the chief, with his brethren an hundred and twenty, called by David to bring up the ark (1 Chronicles 15:5, 15:11)
+asaiah-c | Asaiah | Asaiah | 15:6,15:11 | M | Of the sons of Merari, the chief, with his brethren two hundred and twenty, called by David to bring up the ark (1 Chronicles 15:6, 15:11)
+joel-c | Joel | Joel | 15:7,15:11 | M | Of the sons of Gershom, the chief, with his brethren an hundred and thirty, called by David to bring up the ark (1 Chronicles 15:7, 15:11)
+shemaiah-c | Shemaiah | Shemaiah | 15:8,15:11 | M | Of the sons of Elizaphan, the chief, with his brethren two hundred, called by David to bring up the ark (1 Chronicles 15:8, 15:11)
+eliel-c | Eliel | Eliel | 15:9,15:11 | M | Of the sons of Hebron, the chief, with his brethren fourscore, called by David to bring up the ark (1 Chronicles 15:9, 15:11)
+amminadab-c | Amminadab | Amminadab | 15:10,15:11 | M | Of the sons of Uzziel, the chief, with his brethren an hundred and twelve, called by David to bring up the ark (1 Chronicles 15:10-11)
+ethan-k | Ethan | Ethan | 15:17,15:19 | M | The singer, the son of Kushaiah, of the sons of Merari, appointed to sound with cymbals of brass (1 Chronicles 15:17, 15:19)
+kushaiah | Kushaiah | Kushaiah | 15:17 | M | Of the sons of Merari, father of Ethan the singer (1 Chronicles 15:17)
+zechariah-l | Zechariah | Zechariah | 15:18,15:20,16:5 | M | A Levite of the second degree, with psalteries on Alamoth; ministered before the ark (1 Chronicles 15:18, 15:20, 16:5)
+ben | Ben | Ben | 15:18 | M | A Levite of the second degree (1 Chronicles 15:18)
+jaaziel | Jaaziel | Jaaziel;Aziel | 15:18,15:20 | M | A Levite of the second degree, with psalteries on Alamoth; also written Aziel (1 Chronicles 15:18, 15:20)
+shemiramoth | Shemiramoth | Shemiramoth | 15:18,15:20,16:5 | M | A Levite of the second degree, with psalteries on Alamoth; ministered before the ark (1 Chronicles 15:18, 15:20, 16:5)
+jehiel-l | Jehiel | Jehiel | 15:18,15:20,16:5 | M | A Levite of the second degree, with psalteries on Alamoth; ministered before the ark (1 Chronicles 15:18, 15:20, 16:5)
+unni | Unni | Unni | 15:18,15:20 | M | A Levite of the second degree, with psalteries on Alamoth (1 Chronicles 15:18, 15:20)
+eliab-lv | Eliab | Eliab | 15:18,15:20,16:5 | M | A Levite of the second degree, with psalteries on Alamoth; ministered before the ark (1 Chronicles 15:18, 15:20, 16:5)
+benaiah-l | Benaiah | Benaiah | 15:18,15:20,16:5 | M | A Levite of the second degree, with psalteries on Alamoth; ministered before the ark (1 Chronicles 15:18, 15:20, 16:5)
+maaseiah-l | Maaseiah | Maaseiah | 15:18,15:20 | M | A Levite of the second degree, with psalteries on Alamoth (1 Chronicles 15:18, 15:20)
+mattithiah-l | Mattithiah | Mattithiah | 15:18,15:21,16:5 | M | A Levite of the second degree, with harps on the Sheminith; ministered before the ark (1 Chronicles 15:18, 15:21, 16:5)
+elipheleh | Elipheleh | Elipheleh | 15:18,15:21 | M | A Levite of the second degree, with harps on the Sheminith (1 Chronicles 15:18, 15:21)
+mikneiah | Mikneiah | Mikneiah | 15:18,15:21 | M | A Levite of the second degree, with harps on the Sheminith (1 Chronicles 15:18, 15:21)
+obed-edom-l | Obed-edom | Obed-edom | 15:18,15:21,15:24,16:5,16:38,26:4,26:8,26:15 | M | A Levite porter of the second degree, with harps on the Sheminith, a doorkeeper for the ark; the son of Jeduthun (1 Chronicles 15:18, 15:21, 15:24, 16:5, 16:38)
+jeiel-l | Jeiel | Jeiel | 15:18,15:21,16:5 | M | A Levite porter of the second degree, with harps on the Sheminith; ministered before the ark with psalteries and harps (1 Chronicles 15:18, 15:21, 16:5)
+alamoth | Alamoth | Alamoth | 15:20 | X | "with psalteries on Alamoth" (1 Chronicles 15:20); not a person in People
+azaziah-l | Azaziah | Azaziah | 15:21 | M | A Levite, with harps on the Sheminith (1 Chronicles 15:21)
+sheminith | Sheminith | Sheminith | 15:21 | X | "with harps on the Sheminith to excel" (1 Chronicles 15:21); not a person in People
+chenaniah | Chenaniah | Chenaniah | 15:22,15:27 | M | Chief of the Levites, for song; he instructed about the song, because he was skilful; master of the song (1 Chronicles 15:22, 15:27)
+berechiah-d | Berechiah | Berechiah | 15:23 | M | A doorkeeper for the ark (1 Chronicles 15:23)
+elkanah-d | Elkanah | Elkanah | 15:23 | M | A doorkeeper for the ark (1 Chronicles 15:23)
+shebaniah-p | Shebaniah | Shebaniah | 15:24 | M | A priest who blew with the trumpet before the ark of God (1 Chronicles 15:24)
+jehoshaphat-tr | Jehoshaphat | Jehoshaphat | 15:24 | M | A priest who blew with the trumpet before the ark of God (1 Chronicles 15:24)
+nethaneel-p | Nethaneel | Nethaneel | 15:24 | M | A priest who blew with the trumpet before the ark of God (1 Chronicles 15:24)
+amasai-p | Amasai | Amasai | 15:24 | M | A priest who blew with the trumpet before the ark of God (1 Chronicles 15:24)
+zechariah-p | Zechariah | Zechariah | 15:24 | M | A priest who blew with the trumpet before the ark of God (1 Chronicles 15:24)
+benaiah-pr | Benaiah | Benaiah | 15:24,16:6 | M | A priest who blew with the trumpet before the ark of God, and continually before the ark of the covenant (1 Chronicles 15:24, 16:6)
+eliezer-p | Eliezer | Eliezer | 15:24 | M | A priest who blew with the trumpet before the ark of God (1 Chronicles 15:24)
+jehiah | Jehiah | Jehiah | 15:24 | M | A doorkeeper for the ark (1 Chronicles 15:24)
+jahaziel-p | Jahaziel | Jahaziel | 16:6 | M | A priest with trumpets continually before the ark of the covenant of God (1 Chronicles 16:6)
+jeduthun-s | Jeduthun | Jeduthun | 16:38,16:41,16:42,25:1,25:3,25:6 | M | Set with Heman to give thanks to the Lord with trumpets and cymbals; father of Obed-edom; his sons were porters (1 Chronicles 16:38, 16:41-42)
+hosah-p | Hosah | Hosah | 16:38 | M | A porter before the ark (1 Chronicles 16:38)
+syria-damascus | Syria-damascus | Syria-damascus | 18:6 | P | Where David put garrisons (1 Chronicles 18:6)
+tibhath | Tibhath | Tibhath | 18:8 | P | A city of Hadarezer, from which David brought very much brass (1 Chronicles 18:8)
+chun | Chun | Chun | 18:8 | P | A city of Hadarezer, from which David brought very much brass (1 Chronicles 18:8)
+shavsha | Shavsha | Shavsha | 18:16 | M | Scribe under David (1 Chronicles 18:16)
+syria-maachah | Syria-maachah | Syria-maachah | 19:6 | P | Out of which the children of Ammon hired chariots and horsemen (1 Chronicles 19:6)
+elhanan-j | Elhanan | Elhanan | 20:5 | M | The son of Jair, who slew Lahmi the brother of Goliath the Gittite (1 Chronicles 20:5)
+jair-e | Jair | Jair | 20:5 | M | The father of Elhanan, who slew Lahmi (1 Chronicles 20:5)
+lahmi | Lahmi | Lahmi | 20:5 | M | The brother of Goliath the Gittite, whose spear staff was like a weaver's beam; slain by Elhanan the son of Jair (1 Chronicles 20:5)
+satan | Satan | Satan | 21:1 | U | He stood up against Israel, and provoked David to number Israel (1 Chronicles 21:1)
+ornan | Ornan | Ornan | 21:15,21:18,21:20,21:21,21:22,21:23,21:24,21:25,21:28 | M | The Jebusite, by whose threshingfloor the angel of the Lord stood; David bought the place of him for six hundred shekels of gold and built an altar there (1 Chronicles 21:15-28)
+laadan-g | Laadan | Laadan | 23:7,23:8,23:9,26:21 | M | Of the Gershonites; his sons were Jehiel, Zetham and Joel (1 Chronicles 23:7-9)
+jehiel-ld | Jehiel | Jehiel;Jehieli | 23:8,26:21,26:22 | M | The chief of the sons of Laadan, a Gershonite (1 Chronicles 23:8)
+zetham | Zetham | Zetham | 23:8,26:22 | M | A son of Laadan, a Gershonite (1 Chronicles 23:8)
+joel-ld | Joel | Joel | 23:8,26:22 | M | A son of Laadan, a Gershonite (1 Chronicles 23:8)
+shimei-l | Shimei | Shimei | 23:9 | M | Of the Gershonites; his sons Shelomith, Haziel and Haran were chief of the fathers of Laadan (1 Chronicles 23:9)
+shelomith-l | Shelomith | Shelomith | 23:9 | M | A son of Shimei, of the fathers of Laadan (1 Chronicles 23:9)
+haziel | Haziel | Haziel | 23:9 | M | A son of Shimei, of the fathers of Laadan (1 Chronicles 23:9)
+haran-l | Haran | Haran | 23:9 | M | A son of Shimei, of the fathers of Laadan (1 Chronicles 23:9)
+jahath-sh | Jahath | Jahath | 23:10,23:11 | M | The chief of the sons of Shimei, a Gershonite (1 Chronicles 23:10-11)
+zina | Zina | Zina;Zizah | 23:10,23:11 | M | The second son of Shimei, a Gershonite; also written Zizah (1 Chronicles 23:10-11)
+jeush-l | Jeush | Jeush | 23:10,23:11 | M | A son of Shimei, a Gershonite, who had not many sons (1 Chronicles 23:10-11)
+beriah-l | Beriah | Beriah | 23:10,23:11 | M | A son of Shimei, a Gershonite, who had not many sons (1 Chronicles 23:10-11)
+shebuel | Shebuel | Shebuel | 23:16,26:24 | M | The chief of the sons of Gershom the son of Moses (1 Chronicles 23:16)
+rehabiah | Rehabiah | Rehabiah | 23:17,24:21,26:25 | M | The son of Eliezer the son of Moses; his sons were very many (1 Chronicles 23:17, 24:21)
+shelomith-i | Shelomith | Shelomith;Shelomoth | 23:18,24:22 | M | The chief of the sons of Izhar; also written Shelomoth (1 Chronicles 23:18, 24:22)
+jeriah | Jeriah | Jeriah;Jerijah | 23:19,24:23,26:31 | M | The first of the sons of Hebron, son of Kohath (1 Chronicles 23:19, 24:23)
+amariah-h | Amariah | Amariah | 23:19,24:23 | M | The second of the sons of Hebron, son of Kohath (1 Chronicles 23:19, 24:23)
+jahaziel-h | Jahaziel | Jahaziel | 23:19,24:23 | M | The third of the sons of Hebron, son of Kohath (1 Chronicles 23:19, 24:23)
+jekameam | Jekameam | Jekameam | 23:19,24:23 | M | The fourth of the sons of Hebron, son of Kohath (1 Chronicles 23:19, 24:23)
+michah | Michah | Michah | 23:20,24:24,24:25 | M | The first of the sons of Uzziel, father of Shamir (1 Chronicles 23:20, 24:24-25)
+jesiah-u | Jesiah | Jesiah;Isshiah | 23:20,24:25 | M | The second of the sons of Uzziel, the brother of Michah; also written Isshiah; father of Zechariah (1 Chronicles 23:20, 24:25)
+eleazar-m | Eleazar | Eleazar | 23:21,23:22,24:28 | M | A son of Mahli, of Merari, who died and had no sons, but daughters (1 Chronicles 23:21-22, 24:28)
+kish-m | Kish | Kish | 23:21,23:22,24:29 | M | A son of Mahli, of Merari, whose sons took Eleazar's daughters; father of Jerahmeel (1 Chronicles 23:21-22, 24:29)
+eder-l | Eder | Eder | 23:23,24:30 | M | A son of Mushi, of Merari (1 Chronicles 23:23, 24:30)
+jeremoth-l | Jeremoth | Jeremoth;Jerimoth | 23:23,24:30 | M | A son of Mushi, of Merari; also written Jerimoth (1 Chronicles 23:23, 24:30)
+shemaiah-n | Shemaiah | Shemaiah | 24:6 | M | The son of Nethaneel the scribe, one of the Levites, who wrote the courses of the priests before the king (1 Chronicles 24:6)
+nethaneel-s | Nethaneel | Nethaneel | 24:6 | M | The father of Shemaiah the scribe, a Levite (1 Chronicles 24:6)
+jehoiarib-c | Jehoiarib | Jehoiarib | 24:7 | M | A priest, of the sons of Aaron, to whom the first lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+jedaiah-c | Jedaiah | Jedaiah | 24:7 | M | A priest, of the sons of Aaron, to whom the second lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+harim-c | Harim | Harim | 24:8 | M | A priest, of the sons of Aaron, to whom the third lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+seorim | Seorim | Seorim | 24:8 | M | A priest, of the sons of Aaron, to whom the fourth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+malchijah-c | Malchijah | Malchijah | 24:9 | M | A priest, of the sons of Aaron, to whom the fifth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+mijamin | Mijamin | Mijamin | 24:9 | M | A priest, of the sons of Aaron, to whom the sixth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+hakkoz | Hakkoz | Hakkoz | 24:10 | M | A priest, of the sons of Aaron, to whom the seventh lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+abijah-c | Abijah | Abijah | 24:10 | M | A priest, of the sons of Aaron, to whom the eighth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+jeshua-c | Jeshua | Jeshua | 24:11 | M | A priest, of the sons of Aaron, to whom the ninth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+shecaniah-c | Shecaniah | Shecaniah | 24:11 | M | A priest, of the sons of Aaron, to whom the tenth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+eliashib-c | Eliashib | Eliashib | 24:12 | M | A priest, of the sons of Aaron, to whom the eleventh lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+jakim-c | Jakim | Jakim | 24:12 | M | A priest, of the sons of Aaron, to whom the twelfth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+huppah | Huppah | Huppah | 24:13 | M | A priest, of the sons of Aaron, to whom the thirteenth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+jeshebeab | Jeshebeab | Jeshebeab | 24:13 | M | A priest, of the sons of Aaron, to whom the fourteenth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+bilgah | Bilgah | Bilgah | 24:14 | M | A priest, of the sons of Aaron, to whom the fifteenth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+immer-c | Immer | Immer | 24:14 | M | A priest, of the sons of Aaron, to whom the sixteenth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+hezir | Hezir | Hezir | 24:15 | M | A priest, of the sons of Aaron, to whom the seventeenth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+aphses | Aphses | Aphses | 24:15 | M | A priest, of the sons of Aaron, to whom the eighteenth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+pethahiah | Pethahiah | Pethahiah | 24:16 | M | A priest, of the sons of Aaron, to whom the nineteenth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+jehezekel | Jehezekel | Jehezekel | 24:16 | M | A priest, of the sons of Aaron, to whom the twentieth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+jachin-c | Jachin | Jachin | 24:17 | M | A priest, of the sons of Aaron, to whom the one and twentieth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+gamul | Gamul | Gamul | 24:17 | M | A priest, of the sons of Aaron, to whom the two and twentieth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+delaiah-c | Delaiah | Delaiah | 24:18 | M | A priest, of the sons of Aaron, to whom the three and twentieth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+maaziah | Maaziah | Maaziah | 24:18 | M | A priest, of the sons of Aaron, to whom the four and twentieth lot came forth in the courses of the priests (1 Chronicles 24:7-18)
+shubael | Shubael | Shubael | 24:20 | M | Of the sons of Amram, father of Jehdeiah (1 Chronicles 24:20)
+jehdeiah | Jehdeiah | Jehdeiah | 24:20 | M | Of the sons of Shubael (1 Chronicles 24:20)
+isshiah-r | Isshiah | Isshiah;Jeshaiah | 24:21,26:25 | M | The first of the sons of Rehabiah (1 Chronicles 24:21)
+jahath-z | Jahath | Jahath | 24:22 | M | Of the sons of Shelomoth, of the Izharites (1 Chronicles 24:22)
+shamir-l | Shamir | Shamir | 24:24 | M | Of the sons of Michah, of Uzziel (1 Chronicles 24:24)
+zechariah-i | Zechariah | Zechariah | 24:25 | M | Of the sons of Isshiah, of Uzziel (1 Chronicles 24:25)
+jaaziah | Jaaziah | Jaaziah | 24:26,24:27 | M | Of Merari; his sons were Beno, Shoham, Zaccur and Ibri (1 Chronicles 24:26-27)
+beno | Beno | Beno | 24:26,24:27 | M | A son of Jaaziah, of Merari (1 Chronicles 24:26-27)
+shoham | Shoham | Shoham | 24:27 | M | A son of Jaaziah, of Merari (1 Chronicles 24:27)
+zaccur-j | Zaccur | Zaccur | 24:27 | M | A son of Jaaziah, of Merari (1 Chronicles 24:27)
+ibri | Ibri | Ibri | 24:27 | M | A son of Jaaziah, of Merari (1 Chronicles 24:27)
+jerahmeel-k | Jerahmeel | Jerahmeel | 24:29 | M | The son of Kish, of Mahli of Merari (1 Chronicles 24:29)
+zaccur-a | Zaccur | Zaccur | 25:2,25:10 | M | A son of Asaph; the third lot of the singers came forth to him (1 Chronicles 25:2, 25:10)
+joseph-a | Joseph | Joseph | 25:2,25:9 | M | A son of Asaph; the first lot of the singers came forth to him (1 Chronicles 25:2, 25:9)
+nethaniah-a | Nethaniah | Nethaniah | 25:2,25:12 | M | A son of Asaph; the fifth lot of the singers came forth to him (1 Chronicles 25:2, 25:12)
+asarelah | Asarelah | Asarelah;Jesharelah | 25:2,25:14 | M | A son of Asaph; also written Jesharelah, to whom the seventh lot of the singers came forth (1 Chronicles 25:2, 25:14)
+gedaliah-j | Gedaliah | Gedaliah | 25:3,25:9 | M | A son of Jeduthun, who prophesied with a harp; the second lot of the singers came forth to him (1 Chronicles 25:3, 25:9)
+zeri | Zeri | Zeri;Izri | 25:3,25:11 | M | A son of Jeduthun; also written Izri, to whom the fourth lot of the singers came forth (1 Chronicles 25:3, 25:11)
+jeshaiah-j | Jeshaiah | Jeshaiah | 25:3,25:15 | M | A son of Jeduthun; the eighth lot of the singers came forth to him (1 Chronicles 25:3, 25:15)
+hashabiah-j | Hashabiah | Hashabiah | 25:3,25:19 | M | A son of Jeduthun; the twelfth lot of the singers came forth to him (1 Chronicles 25:3, 25:19)
+mattithiah-j | Mattithiah | Mattithiah | 25:3,25:21 | M | A son of Jeduthun; the fourteenth lot of the singers came forth to him (1 Chronicles 25:3, 25:21)
+bukkiah | Bukkiah | Bukkiah | 25:4,25:13 | M | A son of Heman the king's seer; the sixth lot of the singers came forth to him (1 Chronicles 25:4-31)
+mattaniah-h | Mattaniah | Mattaniah | 25:4,25:16 | M | A son of Heman the king's seer; the ninth lot of the singers came forth to him (1 Chronicles 25:4-31)
+uzziel-h | Uzziel | Uzziel;Azareel | 25:4,25:18 | M | A son of Heman the king's seer; the eleventh lot of the singers came forth to him (written Azareel) (1 Chronicles 25:4-31)
+shebuel-h | Shebuel | Shebuel;Shubael | 25:4,25:20 | M | A son of Heman the king's seer; the thirteenth lot of the singers came forth to him (written Shubael) (1 Chronicles 25:4-31)
+jerimoth-h | Jerimoth | Jerimoth;Jeremoth | 25:4,25:22 | M | A son of Heman the king's seer; the fifteenth lot of the singers came forth to him (written Jeremoth) (1 Chronicles 25:4-31)
+hananiah-h | Hananiah | Hananiah | 25:4,25:23 | M | A son of Heman the king's seer; the sixteenth lot of the singers came forth to him (1 Chronicles 25:4-31)
+hanani-h | Hanani | Hanani | 25:4,25:25 | M | A son of Heman the king's seer; the eighteenth lot of the singers came forth to him (1 Chronicles 25:4-31)
+eliathah | Eliathah | Eliathah | 25:4,25:27 | M | A son of Heman the king's seer; the twentieth lot of the singers came forth to him (1 Chronicles 25:4-31)
+giddalti | Giddalti | Giddalti | 25:4,25:29 | M | A son of Heman the king's seer; the two and twentieth lot of the singers came forth to him (1 Chronicles 25:4-31)
+romamti-ezer | Romamti-ezer | Romamti-ezer | 25:4,25:31 | M | A son of Heman the king's seer; the four and twentieth lot of the singers came forth to him (1 Chronicles 25:4-31)
+joshbekashah | Joshbekashah | Joshbekashah | 25:4,25:24 | M | A son of Heman the king's seer; the seventeenth lot of the singers came forth to him (1 Chronicles 25:4-31)
+mallothi | Mallothi | Mallothi | 25:4,25:26 | M | A son of Heman the king's seer; the nineteenth lot of the singers came forth to him (1 Chronicles 25:4-31)
+hothir | Hothir | Hothir | 25:4,25:28 | M | A son of Heman the king's seer; the one and twentieth lot of the singers came forth to him (1 Chronicles 25:4-31)
+mahazioth | Mahazioth | Mahazioth | 25:4,25:30 | M | A son of Heman the king's seer; the three and twentieth lot of the singers came forth to him (1 Chronicles 25:4-31)
+shimei-j | Shimei | Shimei | 25:17 | M | A singer; the tenth lot of the singers came forth to him (1 Chronicles 25:17)
+kore-a | Kore | Kore | 26:1,26:19 | M | Of the Korhites, of the sons of Asaph; father of Meshelemiah the porter (1 Chronicles 26:1, 26:19)
+jediael-k | Jediael | Jediael | 26:2 | M | The second son of Meshelemiah, a Korhite porter (1 Chronicles 26:2-3)
+zebadiah-k | Zebadiah | Zebadiah | 26:2 | M | The third son of Meshelemiah, a Korhite porter (1 Chronicles 26:2-3)
+jathniel | Jathniel | Jathniel | 26:2 | M | The fourth son of Meshelemiah, a Korhite porter (1 Chronicles 26:2-3)
+elam-k | Elam | Elam | 26:3 | M | The fifth son of Meshelemiah, a Korhite porter (1 Chronicles 26:2-3)
+jehohanan-k | Jehohanan | Jehohanan | 26:3 | M | The sixth son of Meshelemiah, a Korhite porter (1 Chronicles 26:2-3)
+elioenai-k | Elioenai | Elioenai | 26:3 | M | The seventh son of Meshelemiah, a Korhite porter (1 Chronicles 26:2-3)
+shemaiah-o | Shemaiah | Shemaiah | 26:4,26:6,26:7 | M | The firstborn of Obed-edom; his sons ruled throughout the house of their father, mighty men of valour (1 Chronicles 26:4, 26:6-7)
+jehozabad-o | Jehozabad | Jehozabad | 26:4 | M | The second son of Obed-edom the porter (1 Chronicles 26:4-5)
+joah-o | Joah | Joah | 26:4 | M | The third son of Obed-edom the porter (1 Chronicles 26:4-5)
+sacar-o | Sacar | Sacar | 26:4 | M | The fourth son of Obed-edom the porter (1 Chronicles 26:4-5)
+nethaneel-o | Nethaneel | Nethaneel | 26:4 | M | The fifth son of Obed-edom the porter (1 Chronicles 26:4-5)
+ammiel-o | Ammiel | Ammiel | 26:5 | M | The sixth son of Obed-edom the porter (1 Chronicles 26:4-5)
+issachar-o | Issachar | Issachar | 26:5 | M | The seventh son of Obed-edom the porter (1 Chronicles 26:4-5)
+peulthai | Peulthai | Peulthai | 26:5 | M | The eighth son of Obed-edom the porter (1 Chronicles 26:4-5)
+othni | Othni | Othni | 26:7 | M | A son of Shemaiah the son of Obed-edom (1 Chronicles 26:7)
+rephael | Rephael | Rephael | 26:7 | M | A son of Shemaiah the son of Obed-edom (1 Chronicles 26:7)
+obed-o | Obed | Obed | 26:7 | M | A son of Shemaiah the son of Obed-edom (1 Chronicles 26:7)
+elzabad-o | Elzabad | Elzabad | 26:7 | M | A son of Shemaiah the son of Obed-edom (1 Chronicles 26:7)
+elihu-o | Elihu | Elihu | 26:7 | M | A son of Shemaiah the son of Obed-edom (1 Chronicles 26:7)
+semachiah | Semachiah | Semachiah | 26:7 | M | A son of Shemaiah the son of Obed-edom (1 Chronicles 26:7)
+hosah-m | Hosah | Hosah | 26:10,26:11,26:16 | M | A porter of the children of Merari; his lot came forth westward (1 Chronicles 26:10-11, 26:16)
+simri | Simri | Simri | 26:10 | M | The chief of the sons of Hosah, though not the firstborn (1 Chronicles 26:10)
+hilkiah-h | Hilkiah | Hilkiah | 26:11 | M | The second son of Hosah (1 Chronicles 26:11)
+tebaliah | Tebaliah | Tebaliah | 26:11 | M | The third son of Hosah (1 Chronicles 26:11)
+zechariah-hs | Zechariah | Zechariah | 26:11 | M | The fourth son of Hosah (1 Chronicles 26:11)
+asuppim | Asuppim | Asuppim | 26:15,26:17 | X | "the house of Asuppim" (1 Chronicles 26:15, 26:17); not a person in People
+shuppim-p | Shuppim | Shuppim | 26:16 | M | A porter; his lot came forth westward with Hosah (1 Chronicles 26:16)
+shallecheth | Shallecheth | Shallecheth | 26:16 | P | A gate of the house of the Lord, westward (1 Chronicles 26:16)
+parbar | Parbar | Parbar | 26:18 | P | A place westward at the house of the Lord, where porters were set (1 Chronicles 26:18)
+ahijah-l | Ahijah | Ahijah | 26:20 | M | A Levite over the treasures of the house of God, and over the treasures of the dedicated things (1 Chronicles 26:20)
+joram-l | Joram | Joram | 26:25 | M | Of the line of Eliezer the son of Moses, "Joram his son" (1 Chronicles 26:25)
+zichri-l | Zichri | Zichri | 26:25 | M | Of the line of Eliezer the son of Moses, "Zichri his son" (1 Chronicles 26:25)
+shelomith-e | Shelomith | Shelomith | 26:25,26:26,26:28 | M | Of the line of Eliezer the son of Moses; he and his brethren were over all the treasures of the dedicated things (1 Chronicles 26:25-28)
+chenaniah-i | Chenaniah | Chenaniah | 26:29 | M | Of the Izharites; he and his sons were for the outward business over Israel, for officers and judges (1 Chronicles 26:29)
+hashabiah-hb | Hashabiah | Hashabiah | 26:30 | M | Of the Hebronites; he and his brethren were officers of Israel on this side Jordan westward (1 Chronicles 26:30)
+jashobeam-z | Jashobeam | Jashobeam | 27:2 | M | The son of Zabdiel, over the first course for the first month; of the children of Perez, chief of all the captains of the host (1 Chronicles 27:2-3)
+zabdiel | Zabdiel | Zabdiel | 27:2 | M | The father of Jashobeam (1 Chronicles 27:2)
+dodai | Dodai | Dodai | 27:4 | M | An Ahohite, over the course of the second month (1 Chronicles 27:4)
+mikloth-r | Mikloth | Mikloth | 27:4 | M | The ruler in the course of Dodai (1 Chronicles 27:4)
+ammizabad | Ammizabad | Ammizabad | 27:6 | M | The son of Benaiah, in his course (1 Chronicles 27:6)
+zebadiah-a | Zebadiah | Zebadiah | 27:7 | M | The son of Asahel, captain of the fourth month after him (1 Chronicles 27:7)
+shamhuth | Shamhuth | Shamhuth | 27:8 | M | The Izrahite, captain for the fifth month (1 Chronicles 27:8)
+izrahite | Izrahite | Izrahite | 27:8 | G | "Shamhuth the Izrahite" (1 Chronicles 27:8)
+heldai | Heldai | Heldai | 27:15 | M | The Netophathite, of Othniel, captain for the twelfth month (1 Chronicles 27:15)
+eliezer-z | Eliezer | Eliezer | 27:16 | M | The son of Zichri, ruler of the Reubenites (1 Chronicles 27:16)
+zichri-r | Zichri | Zichri | 27:16 | M | The father of Eliezer, ruler of the Reubenites (1 Chronicles 27:16)
+shephatiah-m | Shephatiah | Shephatiah | 27:16 | M | The son of Maachah, ruler of the Simeonites (1 Chronicles 27:16)
+maachah-27 | Maachah | Maachah | 27:16 | U | The parent of Shephatiah, ruler of the Simeonites (1 Chronicles 27:16)
+hashabiah-k | Hashabiah | Hashabiah | 27:17 | M | The son of Kemuel, ruler of the Levites (1 Chronicles 27:17)
+kemuel-l | Kemuel | Kemuel | 27:17 | M | The father of Hashabiah, ruler of the Levites (1 Chronicles 27:17)
+elihu-d | Elihu | Elihu | 27:18 | M | One of the brethren of David, ruler of Judah (1 Chronicles 27:18)
+omri-i | Omri | Omri | 27:18 | M | The son of Michael, ruler of Issachar (1 Chronicles 27:18)
+michael-is | Michael | Michael | 27:18 | M | The father of Omri, ruler of Issachar (1 Chronicles 27:18)
+ishmaiah | Ishmaiah | Ishmaiah | 27:19 | M | The son of Obadiah, ruler of Zebulun (1 Chronicles 27:19)
+obadiah-z | Obadiah | Obadiah | 27:19 | M | The father of Ishmaiah, ruler of Zebulun (1 Chronicles 27:19)
+jerimoth-n | Jerimoth | Jerimoth | 27:19 | M | The son of Azriel, ruler of Naphtali (1 Chronicles 27:19)
+azriel-n | Azriel | Azriel | 27:19 | M | The father of Jerimoth, ruler of Naphtali (1 Chronicles 27:19)
+hoshea-a | Hoshea | Hoshea | 27:20 | M | The son of Azaziah, ruler of the children of Ephraim (1 Chronicles 27:20)
+azaziah-e | Azaziah | Azaziah | 27:20 | M | The father of Hoshea, ruler of Ephraim (1 Chronicles 27:20)
+joel-p | Joel | Joel | 27:20 | M | The son of Pedaiah, ruler of the half tribe of Manasseh (1 Chronicles 27:20)
+pedaiah-m | Pedaiah | Pedaiah | 27:20 | M | The father of Joel, ruler of the half tribe of Manasseh (1 Chronicles 27:20)
+iddo-m | Iddo | Iddo | 27:21 | M | The son of Zechariah, ruler of the half tribe of Manasseh in Gilead (1 Chronicles 27:21)
+zechariah-g | Zechariah | Zechariah | 27:21 | M | The father of Iddo, ruler of the half tribe of Manasseh in Gilead (1 Chronicles 27:21)
+jaasiel | Jaasiel | Jaasiel | 27:21 | M | The son of Abner, ruler of Benjamin (1 Chronicles 27:21)
+abner-j | Abner | Abner | 27:21 | M | The father of Jaasiel, ruler of Benjamin (1 Chronicles 27:21)
+azareel-d | Azareel | Azareel | 27:22 | M | The son of Jeroham, ruler of Dan (1 Chronicles 27:22)
+jeroham-d | Jeroham | Jeroham | 27:22 | M | The father of Azareel, ruler of Dan (1 Chronicles 27:22)
+azmaveth-t | Azmaveth | Azmaveth | 27:25 | M | The son of Adiel, over the king's treasures (1 Chronicles 27:25)
+adiel-t | Adiel | Adiel | 27:25 | M | The father of Azmaveth (1 Chronicles 27:25)
+jehonathan-u | Jehonathan | Jehonathan | 27:25 | M | The son of Uzziah, over the storehouses in the fields, cities, villages and castles (1 Chronicles 27:25)
+uzziah-j | Uzziah | Uzziah | 27:25 | M | The father of Jehonathan (1 Chronicles 27:25)
+ezri | Ezri | Ezri | 27:26 | M | The son of Chelub, over them that did the work of the field (1 Chronicles 27:26)
+chelub-e | Chelub | Chelub | 27:26 | M | The father of Ezri (1 Chronicles 27:26)
+shimei-rm | Shimei | Shimei | 27:27 | M | The Ramathite, over the vineyards (1 Chronicles 27:27)
+ramathite | Ramathite | Ramathite | 27:27 | G | "Shimei the Ramathite" (1 Chronicles 27:27)
+zabdi-sh | Zabdi | Zabdi | 27:27 | M | The Shiphmite, over the increase of the vineyards for the wine cellars (1 Chronicles 27:27)
+shiphmite | Shiphmite | Shiphmite | 27:27 | G | "Zabdi the Shiphmite" (1 Chronicles 27:27)
+baal-hanan-g | Baal-hanan | Baal-hanan | 27:28 | M | The Gederite, over the olive trees and the sycomore trees in the low plains (1 Chronicles 27:28)
+gederite | Gederite | Gederite | 27:28 | G | "Baal-hanan the Gederite" (1 Chronicles 27:28)
+joash-o | Joash | Joash | 27:28 | M | Over the cellars of oil (1 Chronicles 27:28)
+shitrai | Shitrai | Shitrai | 27:29 | M | The Sharonite, over the herds that fed in Sharon (1 Chronicles 27:29)
+sharonite | Sharonite | Sharonite | 27:29 | G | "Shitrai the Sharonite" (1 Chronicles 27:29)
+shaphat-a | Shaphat | Shaphat | 27:29 | M | The son of Adlai, over the herds in the valleys (1 Chronicles 27:29)
+adlai | Adlai | Adlai | 27:29 | M | The father of Shaphat (1 Chronicles 27:29)
+obil | Obil | Obil | 27:30 | M | The Ishmaelite, over the camels (1 Chronicles 27:30)
+jehdeiah-m | Jehdeiah | Jehdeiah | 27:30 | M | The Meronothite, over the asses (1 Chronicles 27:30)
+meronothite | Meronothite | Meronothite | 27:30 | G | "Jehdeiah the Meronothite" (1 Chronicles 27:30)
+jaziz | Jaziz | Jaziz | 27:31 | M | The Hagerite, over the flocks (1 Chronicles 27:31)
+jonathan-u | Jonathan | Jonathan | 27:32 | M | David's uncle, a counsellor, a wise man, and a scribe (1 Chronicles 27:32)
+jehiel-hm | Jehiel | Jehiel | 27:32 | M | The son of Hachmoni, who was with the king's sons (1 Chronicles 27:32)
+hachmoni | Hachmoni | Hachmoni | 27:32 | M | The father of Jehiel (1 Chronicles 27:32)
+jehoiada-b | Jehoiada | Jehoiada | 27:34 | M | The son of Benaiah, counsellor after Ahithophel (1 Chronicles 27:34)
+benaiah-34 | Benaiah | Benaiah | 27:34 | M | The father of Jehoiada, the counsellor after Ahithophel (1 Chronicles 27:34)
+jehiel-gs | Jehiel | Jehiel | 29:8 | M | The Gershonite, by whose hand precious stones were given to the treasure of the house of the Lord (1 Chronicles 29:8)
+aaron | | Aaron | 6:3,6:49,6:50,6:54,6:57,15:4,23:13,23:28,23:32,24:1,24:19,24:31 | + |
+abdon | | Abdon | 6:74 | + |
+abiah | | Abiah | 6:28 | + |
+abiasaph | | Ebiasaph | 6:37,9:19 | + |
+abiathar | | Abiathar | 15:11,18:16,24:6,27:34 | + |
+abida | | Abida | 1:33 | + |
+abiezer | | Abiezer | 7:18 | + |
+abiezer-a | | Abi-ezer | 11:28 | + |
+abiezer-a | | Abiezer | 27:12 | + |
+abigail | | Abigail | 3:1 | + |
+abigail-n | | Abigail | 2:16,2:17 | + |
+abihu | | Abihu | 6:3,24:1,24:2 | + |
+abijam | | Abia | 3:10 | + |
+abimael | | Abimael | 1:22 | + |
+abinadab-j | | Abinadab | 2:13 | + |
+abinadab-k | | Abinadab | 13:7 | + |
+abinadab-s | | Abinadab | 8:33,9:39,10:2 | + |
+abishai | | Abishai | 2:16,11:20,18:12,19:11,19:15 | + |
+abital | | Abital | 3:3 | + |
+abner | | Abner | 26:28 | + |
+abraham | | Abraham | 1:27,1:28,1:32,1:34,16:16,29:18 | + |
+abraham | | Abram | 1:27 | + |
+absalom | | Absalom | 3:2 | + |
+achan | | Achar | 2:7 | + |
+achbor | | Achbor | 1:49 | + |
+achsah | | Achsah | 2:49 | + |
+adam | | Adam | 1:1 | + |
+adbeel | | Adbeel | 1:29 | + |
+adonijah | | Adonijah | 3:2 | + |
+adullam | | Adullam | 11:15 | + |
+ahaz | | Ahaz | 3:13 | + |
+ahaziah-j | | Ahaziah | 3:11 | + |
+ahiam | | Ahiam | 11:35 | + |
+ahilud | | Ahilud | 18:15 | + |
+ahimaaz-z | | Ahimaaz | 6:8,6:9,6:53 | + |
+ahimelech-a | | Abimelech | 18:16 | + |
+ahimelech-a | | Ahimelech | 24:3,24:6,24:31 | + |
+ahinoam-j | | Ahinoam | 3:1 | + |
+ahio | | Ahio | 13:7 | + |
+ahithophel | | Ahithophel | 27:33,27:34 | + |
+ahitub-z | | Ahitub | 6:7,6:8,6:52,18:16 | + |
+ahohite | | Ahohite | 11:12,11:29,27:4 | + |
+aholibamah-d | | Aholibamah | 1:52 | + |
+aijalon | | Aijalon | 6:69,8:13 | + |
+ain-city | | Ain | 4:32 | + |
+ajah | | Aiah | 1:40 | + |
+akan | | Jakan | 1:42 | + |
+almodad | | Almodad | 1:20 | + |
+alvah | | Aliah | 1:51 | + |
+alvan | | Alian | 1:40 | + |
+amalek | | Amalek | 1:36 | + |
+amalek-people | | Amalek | 18:11 | + |
+amalekites | | Amalekites | 4:43 | + |
+amasa | | Amasa | 2:17 | + |
+amaziah | | Amaziah | 3:12 | + |
+ammihud-e | | Ammihud | 7:26 | + |
+amminadab | | Amminadab | 2:10 | + |
+ammon | | Ammon | 18:11,19:1,19:2,19:3,19:6,19:7,19:9,19:11,19:12,19:15,19:19,20:1,20:3 | + |
+ammon | | Ammonite | 11:39 | + |
+amnon | | Amnon | 3:1 | + |
+amon-k | | Amon | 3:14 | + |
+amorite | | Amorite | 1:14 | + |
+amram | | Amram | 6:2,6:3,6:18,23:12,23:13,24:20 | + |
+amramites | | Amramites | 26:23 | + |
+anah | | Anah | 1:40,1:41 | + |
+anah-s | | Anah | 1:38 | + |
+anamim | | Anamim | 1:11 | + |
+anathoth | | Anathoth | 6:60 | + |
+aner | | Aner | 6:70 | + |
+anethothite | | Anetothite | 27:12 | + |
+anethothite | | Antothite | 11:28,12:3 | + |
+aram | | Aram | 1:17 | + |
+aram-land | | Aram | 2:23 | + |
+aran | | Aran | 1:42 | + |
+arbathite | | Arbathite | 11:32 | + |
+archite | | Archite | 27:33 | + |
+arkite | | Arkite | 1:15 | + |
+aroer | | Aroer | 5:8 | + |
+arphaxad | | Arphaxad | 1:17,1:18,1:24 | + |
+arvadite | | Arvadite | 1:16 | + |
+asa | | Asa | 3:10 | + |
+asahel | | Asahel | 2:16,11:26,27:7 | + |
+ashan | | Ashan | 4:32,6:59 | + |
+ashbel | | Ashbel | 8:1 | + |
+asher | | Asher | 2:2,6:62,6:74,7:30,7:40,12:36 | + |
+ashkenaz | | Ashchenaz | 1:6 | + |
+ashtaroth | | Ashtaroth | 6:71 | + |
+asshur-s | | Asshur | 1:17 | + |
+assyria | | Assyria | 5:6,5:26 | + |
+avith | | Avith | 1:46 | + |
+azariah-k | | Azariah | 3:12 | + |
+azmaveth | | Azmaveth | 11:33 | + |
+baal-hanan | | Baal-hanan | 1:49,1:50 | + |
+baal-hermon | | Baal-hermon | 5:23 | + |
+baal-meon | | Baal-meon | 5:8 | + |
+baal-perazim | | Baal-perazim | 14:11 | + |
+baalah | | Baalah | 13:6 | + |
+baanah-n | | Baanah | 11:30 | + |
+babylon | | Babylon | 9:1 | + |
+barhumite | | Baharumite | 11:33 | + |
+bashan | | Bashan | 5:11,5:12,5:16,5:23,6:62,6:71 | + |
+bath-sheba | | Bath-shua | 3:5 | + |
+becher | | Becher | 7:6,7:8 | + |
+bedad | | Bedad | 1:46 | + |
+beer-sheba | | Beer-sheba | 4:28,21:2 | + |
+beerothites | | Berothite | 11:39 | + |
+bela-k | | Bela | 1:43,1:44 | + |
+belah | | Bela | 7:6,7:7,8:1,8:3 | + |
+benaiah | | Benaiah | 11:22,11:24,18:17,27:5,27:6 | + |
+benaiah-p | | Benaiah | 11:31,27:14 | + |
+benjamin | | Benjamin | 2:2,6:60,6:65,7:6,8:1,8:40,9:3,9:7,11:31,12:2,12:16,12:29,21:6,27:21 | + |
+benjamites | | Benjamites | 27:12 | + |
+beor | | Beor | 1:43 | + |
+beriah | | Beriah | 7:30,7:31 | + |
+beth-el | | Beth-el | 7:28 | + |
+beth-horon | | Beth-horon | 6:68,7:24 | + |
+beth-lehem | | Beth-lehem | 2:51,2:54,4:4,11:16,11:17,11:18,11:26 | + |
+beth-marcaboth | | Beth-marcaboth | 4:31 | + |
+beth-shean | | Beth-shean | 7:29 | + |
+beth-shemesh | | Beth-shemesh | 6:59 | + |
+beth-zur | | Beth-zur | 2:45 | + |
+bezaleel | | Bezaleel | 2:20 | + |
+bezer | | Bezer | 6:78 | + |
+bilhah | | Bilhah | 7:13 | + |
+bilhan | | Bilhan | 1:42 | + |
+boaz | | Boaz | 2:11,2:12 | + |
+bozrah | | Bozrah | 1:44 | + |
+cainan | | Kenan | 1:2 | + |
+caleb | | Caleb | 4:15,6:56 | + |
+canaan | | Canaan | 1:8,1:13 | + |
+canaan-land | | Canaan | 16:18 | + |
+canaanites | | Canaanitess | 2:3 | + |
+caphtorim | | Caphthorim | 1:12 | + |
+carmelite | | Carmelite | 11:37 | + |
+carmelite | | Carmelitess | 3:1 | + |
+carmi | | Carmi | 5:3 | + |
+carmi-j | | Carmi | 2:7,4:1 | + |
+casluhim | | Casluhim | 1:12 | + |
+cheran | | Cheran | 1:41 | + |
+cherethites | | Cherethites | 18:17 | + |
+chileab | | Daniel | 3:1 | + |
+cush | | Cush | 1:8,1:9,1:10 | + |
+daberath | | Daberath | 6:72 | + |
+dagon | | Dagon | 10:10 | + |
+damascus | | Damascus | 18:5 | + |
+dan | | Dan | 2:2,27:22 | + |
+dan-place | | Dan | 21:2 | + |
+danites | | Danites | 12:35 | + |
+david | | David | 2:15,3:1,3:9,4:31,6:31,7:2,9:22,10:14,11:1,11:3,11:4,11:5,11:6,11:7,11:9,11:10,11:11,11:13,11:15,11:16,11:17,11:18,11:25,12:1,12:8,12:16,12:17,12:18,12:19,12:21,12:22,12:23,12:31,12:38,12:39,13:1,13:2,13:5,13:6,13:8,13:11,13:12,13:13,14:1,14:2,14:3,14:8,14:10,14:11,14:12,14:14,14:16,14:17,15:1,15:2,15:3,15:4,15:11,15:16,15:25,15:27,15:29,16:1,16:2,16:7,16:43,17:1,17:2,17:4,17:7,17:15,17:16,17:18,17:24,18:1,18:2,18:3,18:4,18:5,18:6,18:7,18:8,18:9,18:10,18:11,18:13,18:14,18:17,19:2,19:3,19:4,19:5,19:6,19:8,19:17,19:18,19:19,20:1,20:2,20:3,20:7,20:8,21:1,21:2,21:5,21:8,21:9,21:10,21:11,21:13,21:16,21:17,21:18,21:19,21:21,21:22,21:23,21:24,21:25,21:26,21:28,21:30,22:1,22:2,22:3,22:4,22:5,22:7,22:17,23:1,23:5,23:6,23:25,23:27,24:3,24:31,25:1,26:26,26:31,26:32,27:18,27:23,27:24,27:31,27:32,28:1,28:2,28:11,28:19,28:20,29:1,29:9,29:10,29:20,29:22,29:23,29:24,29:26,29:29 | + |
+debir | | Debir | 6:58 | + |
+dedan-k | | Dedan | 1:32 | + |
+dedan-r | | Dedan | 1:9 | + |
+diklah | | Diklah | 1:21 | + |
+dinhabah | | Dinhabah | 1:43 | + |
+dishan | | Dishan | 1:38,1:42 | + |
+dishon | | Dishon | 1:41 | + |
+dishon-s | | Dishon | 1:38 | + |
+dodanim | | Dodanim | 1:7 | + |
+dodo-a | | Dodo | 11:12 | + |
+dodo-b | | Dodo | 11:26 | + |
+dor | | Dor | 7:29 | + |
+dumah | | Dumah | 1:30 | + |
+ebal | | Ebal | 1:40 | + |
+eber | | Eber | 1:18,1:19,1:25 | + |
+edom-land | | Edom | 1:43,1:51,1:54,18:11,18:13 | + |
+edomites | | Edomites | 18:12,18:13 | + |
+eglah | | Eglah | 3:3 | + |
+egypt | | Egypt | 13:5,17:21 | + |
+egyptian | | Egyptian | 2:34,11:23 | + |
+elah | | Elah | 1:52 | + |
+elam | | Elam | 1:17 | + |
+eldaah | | Eldaah | 1:33 | + |
+eleazar | | Eleazar | 6:3,6:4,6:50,9:20,24:1,24:2,24:3,24:4,24:5,24:6 | + |
+eleazar-d | | Eleazar | 11:12 | + |
+elhanan-d | | Elhanan | 11:26 | + |
+eliab-j | | Eliab | 2:13 | + |
+eliada | | Beeliada | 14:7 | + |
+eliada | | Eliada | 3:8 | + |
+eliahba | | Eliahba | 11:33 | + |
+eliam | | Ammiel | 3:5 | + |
+eliezer-m | | Eliezer | 23:15,23:17,26:25 | + |
+eliphalet | | Eliphalet | 14:7 | + |
+eliphalet | | Eliphelet | 3:8 | + |
+eliphaz | | Eliphaz | 1:35,1:36 | + |
+elishah | | Elishah | 1:7 | + |
+elishama | | Elishama | 7:26 | + |
+elishama-d | | Elishama | 3:8,14:7 | + |
+elishua | | Elishua | 14:5 | + |
+elkanah-s | | Elkanah | 6:27,6:34 | + |
+elzaphan | | Elizaphan | 15:8 | + |
+enoch | | Henoch | 1:3 | + |
+enos | | Enosh | 1:1 | + |
+ephah | | Ephah | 1:33 | + |
+epher | | Epher | 1:33 | + |
+ephraim | | Ephraim | 6:66,6:67,7:20,7:22,9:3,12:30,27:10,27:14,27:20 | + |
+er | | Er | 2:3 | + |
+esau | | Esau | 1:34,1:35 | + |
+eshban | | Eshban | 1:41 | + |
+eshtemoa | | Eshtemoa | 4:17,4:19,6:57 | + |
+etam | | Etam | 4:3,4:32 | + |
+euphrates | | Euphrates | 5:9,18:3 | + |
+ezer | | Ezer | 1:38,1:42 | + |
+gaash | | Gaash | 11:32 | + |
+gad | | Gad | 2:2,5:11,6:63,6:80,12:14 | + |
+gad-p | | Gad | 21:9,21:11,21:13,21:18,21:19,29:29 | + |
+gadites | | Gadites | 5:18,5:26,12:8,12:37,26:32 | + |
+galilee | | Galilee | 6:76 | + |
+gareb | | Gareb | 11:40 | + |
+gatam | | Gatam | 1:36 | + |
+gath | | Gath | 7:21,8:13,18:1,20:6,20:8 | + |
+gath-rimmon | | Gath-rimmon | 6:69 | + |
+gaza | | Gaza | 7:28 | + |
+gazer | | Gazer | 14:16 | + |
+geba | | Geba | 6:60,8:6 | + |
+gedor | | Gedor | 4:4,4:18,4:39,12:7 | + |
+gershom | | Gershom | 23:15,23:16,26:24 | + |
+gershon | | Gershom | 6:16,6:17,6:20,6:43,6:62,6:71,15:7 | + |
+gershon | | Gershon | 6:1,23:6 | + |
+gershonites | | Gershonite | 26:21,29:8 | + |
+gershonites | | Gershonites | 23:7 | + |
+geshur | | Geshur | 2:23,3:2 | + |
+gether | | Gether | 1:17 | + |
+gezer | | Gezer | 6:67,7:28,20:4 | + |
+gibeah-b | | Gibeah | 11:31 | + |
+gibeon | | Gibeon | 8:29,9:35,14:16,16:39,21:29 | + |
+gibeonites | | Gibeonite | 12:4 | + |
+gilboa | | Gilboa | 10:1,10:8 | + |
+gilead | | Gilead | 2:22,5:9,5:10,5:16,6:80,26:31,27:21 | + |
+gilead-m | | Gilead | 2:21,2:23,7:14,7:17 | + |
+girgasite | | Girgashite | 1:14 | + |
+gittites | | Gittite | 13:13,20:5 | + |
+golan | | Golan | 6:71 | + |
+goliath | | Goliath | 20:5 | + |
+gomer | | Gomer | 1:5,1:6 | + |
+gozan | | Gozan | 5:26 | + |
+guni | | Guni | 7:13 | + |
+habor | | Habor | 5:26 | + |
+hadad | | Hadad | 1:46,1:47 | + |
+hadar | | Hadad | 1:30 | + |
+hadar-k | | Hadad | 1:50,1:51 | + |
+hadarezer | | Hadarezer | 18:3,18:5,18:7,18:8,18:9,18:10,19:16,19:19 | + |
+hadoram | | Hadoram | 1:21 | + |
+haggith | | Haggith | 3:2 | + |
+halah | | Halah | 5:26 | + |
+ham | | Ham | 1:4,1:8,4:40 | + |
+hamath | | Hamath | 18:3,18:9 | + |
+hamath | | Hemath | 13:5 | + |
+hamathite | | Hamathite | 1:16 | + |
+hammon | | Hammon | 6:76 | + |
+hamul | | Hamul | 2:5 | + |
+hanoch | | Hanoch | 5:3 | + |
+hanoch-m | | Henoch | 1:33 | + |
+hanun | | Hanun | 19:2,19:3,19:4,19:6 | + |
+hararite | | Hararite | 11:34,11:35 | + |
+havilah-c | | Havilah | 1:9 | + |
+havilah-j | | Havilah | 1:23 | + |
+hazar-shual | | Hazar-shual | 4:28 | + |
+hazarmaveth | | Hazarmaveth | 1:20 | + |
+heber | | Heber | 7:31,7:32 | + |
+hebron | | Hebron | 3:1,3:4,6:55,6:57,11:1,11:3,12:23,12:38,29:27 | + |
+hebron-k | | Hebron | 6:2,6:18,15:9,23:12,23:19,24:23 | + |
+hebronites | | Hebronites | 26:23,26:30,26:31 | + |
+heleb | | Heled | 11:30 | + |
+helez | | Helez | 11:27,27:10 | + |
+hemam | | Homam | 1:39 | + |
+hermon | | Hermon | 5:23 | + |
+heshbon | | Heshbon | 6:81 | + |
+heth | | Heth | 1:13 | + |
+hezekiah | | Hezekiah | 3:13,4:41 | + |
+hezrai | | Hezro | 11:37 | + |
+hezron | | Hezron | 2:5,2:9,2:18,2:21,2:24,2:25,4:1 | + |
+hezron-r | | Hezron | 5:3 | + |
+hiram | | Hiram | 14:1 | + |
+hittites | | Hittite | 11:41 | + |
+hivite | | Hivite | 1:15 | + |
+hori | | Hori | 1:39 | + |
+hormah | | Hormah | 4:30 | + |
+hul | | Hul | 1:17 | + |
+hur-j | | Hur | 2:19,2:20,2:50,4:1,4:4 | + |
+hushai | | Hushai | 27:33 | + |
+husham | | Husham | 1:45,1:46 | + |
+hushathite | | Hushathite | 11:29,20:4,27:11 | + |
+ibhar | | Ibhar | 3:6,14:5 | + |
+ikkesh | | Ikkesh | 11:28,27:9 | + |
+ira-i | | Ira | 11:40 | + |
+ira-t | | Ira | 11:28,27:9 | + |
+iram | | Iram | 1:54 | + |
+isaac | | Isaac | 1:28,1:34,16:16,29:18 | + |
+ishbak | | Ishbak | 1:32 | + |
+ishmael | | Ishmael | 1:28,1:29,1:31 | + |
+ishmaelites | | Ishmaelite | 27:30 | + |
+ishmeelites | | Ishmeelite | 2:17 | + |
+ishuah | | Isuah | 7:30 | + |
+israel-people | | Israel | 1:43,2:7,4:10,5:17,5:26,6:49,6:64,9:1,10:1,10:7,11:1,11:2,11:3,11:4,11:10,12:32,12:38,12:40,13:2,13:5,13:6,13:8,14:2,14:8,15:3,15:12,15:14,15:25,15:28,16:3,16:4,16:36,16:40,17:5,17:6,17:7,17:9,17:10,17:21,17:22,17:24,18:14,19:10,19:16,19:17,19:18,19:19,20:7,21:1,21:2,21:3,21:4,21:5,21:7,21:12,21:14,21:16,22:1,22:2,22:6,22:9,22:10,22:12,22:13,22:17,23:1,23:2,23:25,24:19,26:29,26:30,27:1,27:16,27:22,27:23,27:24,28:1,28:4,28:5,28:8,29:6,29:21,29:23,29:25,29:26,29:27,29:30 | + |
+israel-people | | Israelites | 9:2 | + |
+issachar | | Issachar | 2:1,6:62,6:72,7:1,7:5,12:32,12:40,27:18 | + |
+isui | | Ishuai | 7:30 | + |
+ithamar | | Ithamar | 6:3,24:1,24:2,24:3,24:4,24:5,24:6 | + |
+ithra | | Jether | 2:17 | + |
+ithran | | Ithran | 1:41 | + |
+ithream | | Ithream | 3:3 | + |
+ithrite | | Ithrite | 11:40 | + |
+ithrite | | Ithrites | 2:53 | + |
+ittai-r | | Ithai | 11:31 | + |
+izeharites | | Izharites | 24:22,26:23,26:29 | + |
+izhar | | Izhar | 6:2,6:18,6:38,23:12,23:18 | + |
+jaalam | | Jaalam | 1:35 | + |
+jaazer | | Jazer | 6:81,26:31 | + |
+jabesh-gilead | | Jabesh | 10:12 | + |
+jabesh-gilead | | Jabesh-gilead | 10:11 | + |
+jacob | | Israel | 1:34,2:1,5:1,5:3,6:38,7:29,16:13,16:17,29:10,29:18 | + |
+jacob | | Jacob | 16:13,16:17 | + |
+jahzeel | | Jahziel | 7:13 | + |
+jair | | Jair | 2:22,2:23 | + |
+jamin | | Jamin | 4:24 | + |
+japheth | | Japheth | 1:4,1:5 | + |
+japhia-d | | Japhia | 3:7,14:6 | + |
+jared | | Jered | 1:2 | + |
+jashub | | Jashub | 7:1 | + |
+jattir | | Jattir | 6:57 | + |
+javan | | Javan | 1:5,1:7 | + |
+jebus | | Jebus | 11:4,11:5 | + |
+jebusite | | Jebusite | 1:14,21:15,21:18,21:28 | + |
+jebusite | | Jebusites | 11:4,11:6 | + |
+jehoiada | | Jehoiada | 11:22,11:24,18:17,27:5 | + |
+jehoiakim | | Jehoiakim | 3:15,3:16 | + |
+jehoram | | Joram | 3:11 | + |
+jehoshaphat | | Jehoshaphat | 18:15 | + |
+jehoshaphat-k | | Jehoshaphat | 3:10 | + |
+jephunneh | | Jephunneh | 4:15,6:56 | + |
+jerah | | Jerah | 1:20 | + |
+jericho | | Jericho | 6:78,19:5 | + |
+jeroham | | Jeroham | 6:27,6:34 | + |
+jerusalem | | Jerusalem | 3:4,3:5,6:10,6:15,6:32,8:28,8:32,9:3,9:34,9:38,11:4,14:3,14:4,15:3,18:7,19:15,20:1,20:3,21:4,21:15,21:16,23:25,28:1,29:27 | + |
+jesse | | Jesse | 2:12,2:13,10:14,12:18,29:26 | + |
+jetheth | | Jetheth | 1:51 | + |
+jetur | | Jetur | 1:31,5:19 | + |
+jeush | | Jeush | 1:35 | + |
+jezer | | Jezer | 7:13 | + |
+jezreelitess | | Jezreelitess | 3:1 | + |
+jimnah | | Imnah | 7:30 | + |
+joab | | Joab | 2:16,11:6,11:8,11:20,11:26,11:39,18:15,19:8,19:10,19:14,19:15,20:1,21:2,21:3,21:4,21:5,21:6,26:28,27:7,27:24,27:34 | + |
+joash-j | | Joash | 3:11 | + |
+jobab | | Jobab | 1:44,1:45 | + |
+jobab-j | | Jobab | 1:23 | + |
+joel | | Joel | 6:33,15:17 | + |
+jokshan | | Jokshan | 1:32 | + |
+joktan | | Joktan | 1:19,1:20,1:23 | + |
+jonathan-s | | Jonathan | 8:33,8:34,9:39,9:40,10:2 | + |
+jonathan-sh | | Jonathan | 20:7 | + |
+joram | | Hadoram | 18:10 | + |
+jordan | | Jordan | 6:78,12:15,12:37,19:17,26:30 | + |
+joseph | | Joseph | 2:2,5:1,5:2,7:29 | + |
+joshua | | Jehoshua | 7:27 | + |
+josiah | | Josiah | 3:14,3:15 | + |
+jotham-k | | Jotham | 3:12,5:17 | + |
+judah | | Judah | 2:1,2:3,2:4,2:10,4:1,4:21,4:27,4:41,5:2,5:17,6:15,6:55,6:57,6:65,9:1,9:3,9:4,12:16,12:24,13:6,21:5,27:18,28:4 | + |
+kabzeel | | Kabzeel | 11:22 | + |
+kedar | | Kedar | 1:29 | + |
+kedemah | | Kedemah | 1:31 | + |
+kedemoth | | Kedemoth | 6:79 | + |
+kedesh | | Kedesh | 6:72,6:76 | + |
+keilah | | Keilah | 4:19 | + |
+kenath | | Kenath | 2:23 | + |
+kenaz | | Kenaz | 1:36 | + |
+kenaz-d | | Kenaz | 1:53 | + |
+kenaz-o | | Kenaz | 4:13 | + |
+kenites | | Kenites | 2:55 | + |
+keturah | | Keturah | 1:32,1:33 | + |
+kirjath-jearim | | Kirjath-jearim | 2:50,2:52,2:53,13:5,13:6 | + |
+kirjathaim | | Kirjathaim | 6:76 | + |
+kish | | Kish | 8:33,9:39,12:1,26:28 | + |
+kittim | | Kittim | 1:7 | + |
+kohath | | Kohath | 6:1,6:2,6:16,6:18,6:22,6:38,6:61,6:66,6:70,15:5,23:6,23:12 | + |
+kohathites | | Kohathites | 6:33,6:54,9:32 | + |
+korah | | Korah | 1:35 | + |
+korah-i | | Korah | 6:37,9:19 | + |
+korhites | | Korahite | 9:31 | + |
+korhites | | Korahites | 9:19 | + |
+korhites | | Korhites | 12:6,26:1 | + |
+lamech | | Lamech | 1:3 | + |
+lehabim | | Lehabim | 1:11 | + |
+levi | | Levi | 2:1,6:1,6:16,6:38,6:43,6:47,9:18,12:26,21:6,23:6,23:14,23:24,24:20 | + |
+levites | | Levites | 6:19,6:48,6:64,9:2,9:14,9:26,9:31,9:33,9:34,13:2,15:2,15:4,15:11,15:12,15:14,15:15,15:16,15:17,15:22,15:26,15:27,16:4,23:2,23:3,23:26,23:27,24:6,24:30,24:31,26:17,26:20,27:17,28:13,28:21 | + |
+libnah-c | | Libnah | 6:57 | + |
+libni | | Libni | 6:17,6:20 | + |
+lotan | | Lotan | 1:38,1:39 | + |
+lud | | Lud | 1:17 | + |
+ludim | | Ludim | 1:11 | + |
+maacah-place | | Maachah | 19:7 | + |
+maacah-t | | Maachah | 3:2 | + |
+maachathite | | Maachathite | 4:19 | + |
+machir | | Machir | 2:21,2:23,7:14,7:15,7:16,7:17 | + |
+madai | | Madai | 1:5 | + |
+madmannah | | Madmannah | 2:49 | + |
+magdiel | | Magdiel | 1:54 | + |
+magog | | Magog | 1:5 | + |
+mahalaleel | | Mahalaleel | 1:2 | + |
+mahali | | Mahli | 6:19,6:29,23:21,24:26,24:28 | + |
+mahanaim | | Mahanaim | 6:80 | + |
+maharai | | Maharai | 11:30,27:13 | + |
+malchiel | | Malchiel | 7:31 | + |
+manahath | | Manahath | 1:40 | + |
+manasseh | | Manasseh | 5:18,5:23,5:26,6:61,6:62,6:70,6:71,7:14,7:17,7:29,9:3,12:19,12:20,12:31,12:37,26:32,27:20,27:21 | + |
+manasseh-k | | Manasseh | 3:13 | + |
+mareshah | | Mareshah | 4:21 | + |
+masrekah | | Masrekah | 1:47 | + |
+massa | | Massa | 1:30 | + |
+matred | | Matred | 1:50 | + |
+medan | | Medan | 1:32 | + |
+medeba | | Medeba | 19:7 | + |
+megiddo | | Megiddo | 7:29 | + |
+mehetabel | | Mehetabel | 1:50 | + |
+melchi-shua | | Malchi-shua | 8:33,9:39,10:2 | + |
+mephaath | | Mephaath | 6:79 | + |
+mephibosheth | | Merib-baal | 8:34,9:40 | + |
+merari | | Merari | 6:1,6:16,6:19,6:29,6:44,6:47,6:63,6:77,9:14,15:6,15:17,23:6,23:21,24:26,24:27,26:10,26:19 | + |
+meshech | | Meshech | 1:5,1:17 | + |
+mesopotamia | | Mesopotamia | 19:6 | + |
+methuselah | | Methuselah | 1:3 | + |
+mezahab | | Mezahab | 1:50 | + |
+mibsam | | Mibsam | 1:29 | + |
+mibzar | | Mibzar | 1:53 | + |
+micha | | Micah | 8:34,8:35,9:40,9:41 | + |
+michal | | Michal | 15:29 | + |
+midian | | Midian | 1:32,1:33 | + |
+midian-people | | Midian | 1:46 | + |
+millo | | Millo | 11:8 | + |
+miriam | | Miriam | 6:3 | + |
+mishma | | Mishma | 1:30 | + |
+mizraim | | Mizraim | 1:8,1:11 | + |
+mizzah | | Mizzah | 1:37 | + |
+moab-land | | Moab | 1:46,4:22,8:8,11:22,18:2,18:11 | + |
+moabites | | Moabite | 11:46 | + |
+moabites | | Moabites | 18:2 | + |
+moladah | | Moladah | 4:28 | + |
+moses | | Moses | 6:3,6:49,15:15,21:29,22:13,23:13,23:14,23:15,26:24 | + |
+mushi | | Mushi | 6:19,6:47,23:21,23:23,24:26,24:30 | + |
+naaman-b | | Naaman | 8:4 | + |
+naashon | | Nahshon | 2:10,2:11 | + |
+nadab | | Nadab | 6:3,24:1,24:2 | + |
+naharai | | Naharai | 11:39 | + |
+nahash-h | | Nahash | 19:1,19:2 | + |
+nahath | | Nahath | 1:37 | + |
+nahor-s | | Nahor | 1:26 | + |
+naphish | | Naphish | 1:31 | + |
+naphish | | Nephish | 5:19 | + |
+naphtali | | Naphtali | 2:2,6:62,6:76,7:13,12:34,12:40,27:19 | + |
+naphtuhim | | Naphtuhim | 1:11 | + |
+nathan | | Nathan | 17:1,17:2,17:3,17:15,29:29 | + |
+nathan-d | | Nathan | 3:5,14:4 | + |
+nebajoth | | Nebaioth | 1:29 | + |
+nebo | | Nebo | 5:8 | + |
+nebuchadnezzar | | Nebuchadnezzar | 6:15 | + |
+nemuel-s | | Nemuel | 4:24 | + |
+nepheg-d | | Nepheg | 3:7,14:6 | + |
+ner | | Ner | 26:28 | + |
+netophathite | | Netophathite | 11:30,27:13,27:15 | + |
+netophathite | | Netophathites | 2:54,9:16 | + |
+nimrod | | Nimrod | 1:10 | + |
+noah | | Noah | 1:4 | + |
+nun | | Non | 7:27 | + |
+obal | | Ebal | 1:22 | + |
+obed-edom | | Obed-edom | 13:13,13:14,15:25 | + |
+omar | | Omar | 1:36 | + |
+onam | | Onam | 1:40 | + |
+onan | | Onan | 2:3 | + |
+ophir | | Ophir | 1:23 | + |
+ophir-place | | Ophir | 29:4 | + |
+othniel | | Othniel | 4:13,27:15 | + |
+pathrusim | | Pathrusim | 1:12 | + |
+pau | | Pai | 1:50 | + |
+peleg | | Peleg | 1:19,1:25 | + |
+pelethites | | Pelethites | 18:17 | + |
+perez-uzzah | | Perez-uzza | 13:11 | + |
+phallu | | Pallu | 5:3 | + |
+pharez | | Perez | 27:3 | + |
+pharez | | Pharez | 2:4,2:5,4:1,9:4 | + |
+philistines | | Philistines | 1:12,10:1,10:2,10:7,10:8,10:9,10:11,11:13,11:14,11:15,11:16,11:18,12:19,14:8,14:9,14:10,14:13,14:15,14:16,18:1,18:11,20:4,20:5 | + |
+phinehas | | Phinehas | 6:4,6:50,9:20 | + |
+pinon | | Pinon | 1:52 | + |
+pirathonite | | Pirathonite | 11:31,27:14 | + |
+pua | | Puah | 7:1 | + |
+raamah | | Raamah | 1:9 | + |
+rabbah | | Rabbah | 20:1 | + |
+ram | | Ram | 2:9,2:10 | + |
+ramoth | | Ramoth | 6:73 | + |
+ramoth-gilead | | Ramoth | 6:80 | + |
+rehob-a | | Rehob | 6:75 | + |
+rehoboam | | Rehoboam | 3:10 | + |
+rehoboth-r | | Rehoboth | 1:48 | + |
+rephaim | | Rephaim | 11:15,14:9 | + |
+reu | | Reu | 1:25 | + |
+reuben | | Reuben | 2:1,5:1,5:3,5:18,6:63,6:78 | + |
+reubenites | | Reubenite | 11:42 | + |
+reubenites | | Reubenites | 5:6,5:26,11:42,12:37,26:32,27:16 | + |
+reuel | | Reuel | 1:35,1:37 | + |
+ribai | | Ribai | 11:31 | + |
+rimmon | | Rimmon | 4:32,6:77 | + |
+riphath | | Riphath | 1:6 | + |
+sabtah | | Sabta | 1:9 | + |
+sabtecha | | Sabtecha | 1:9 | + |
+salah | | Shelah | 1:18,1:24 | + |
+salchah | | Salchah | 5:11 | + |
+salmon | | Salma | 2:11 | + |
+samlah | | Samlah | 1:47,1:48 | + |
+samuel | | Samuel | 6:28,9:22,11:3,26:28,29:29 | + |
+samuel | | Shemuel | 6:33 | + |
+saph | | Sippai | 20:4 | + |
+saul | | Shaul | 1:48,1:49 | + |
+saul-k | | Saul | 5:10,8:33,9:39,10:2,10:3,10:4,10:5,10:6,10:7,10:8,10:11,10:12,10:13,11:2,12:1,12:2,12:19,12:23,12:29,13:3,15:29,26:28 | + |
+seba | | Seba | 1:9 | + |
+seir | | Seir | 1:38 | + |
+seir-land | | Seir | 4:42 | + |
+serah | | Serah | 7:30 | + |
+serug | | Serug | 1:26 | + |
+seth | | Sheth | 1:1 | + |
+shaalbonite | | Shaalbonite | 11:33 | + |
+shaaraim | | Shaaraim | 4:31 | + |
+shammah | | Shammah | 1:37 | + |
+shammah-j | | Shimma | 2:13 | + |
+shammua-d | | Shammua | 14:4 | + |
+shammua-d | | Shimea | 3:5 | + |
+sharar | | Sacar | 11:35 | + |
+shaul | | Shaul | 4:24 | + |
+sheba-j | | Sheba | 1:22 | + |
+sheba-k | | Sheba | 1:32 | + |
+sheba-r | | Sheba | 1:9 | + |
+shechem-place | | Shechem | 6:67,7:28 | + |
+shelah | | Shelah | 2:3,4:21 | + |
+sheleph | | Sheleph | 1:20 | + |
+shem | | Shem | 1:4,1:17,1:24 | + |
+shemida | | Shemida | 7:19 | + |
+shephatiah | | Shephatiah | 3:3 | + |
+shepho | | Shephi | 1:40 | + |
+shillem | | Shallum | 7:13 | + |
+shimeah | | Shimea | 20:7 | + |
+shimi | | Shimei | 6:17,23:7,23:10 | + |
+shimron | | Shimron | 7:1 | + |
+shobab | | Shobab | 3:5,14:4 | + |
+shobach | | Shophach | 19:16,19:18 | + |
+shobal | | Shobal | 1:38,1:40 | + |
+shuah | | Shuah | 1:32 | + |
+shuah-c | | Shua | 2:3 | + |
+shuthelah | | Shuthelah | 7:20 | + |
+sibbechai | | Sibbecai | 11:29,27:11 | + |
+sibbechai | | Sibbechai | 20:4 | + |
+sidon | | Zidon | 1:13 | + |
+sidonians | | Zidonians | 22:4 | + |
+sihor | | Shihor | 13:5 | + |
+simeon | | Simeon | 2:1,4:24,4:42,6:65,12:25 | + |
+simeonites | | Simeonites | 27:16 | + |
+sinite | | Sinite | 1:15 | + |
+solomon | | Solomon | 3:5,3:10,6:10,6:32,14:4,18:8,22:5,22:6,22:7,22:9,22:17,23:1,28:5,28:6,28:9,28:11,28:20,29:1,29:19,29:22,29:23,29:24,29:25,29:28 | + |
+syrians | | Syrians | 18:5,18:6,19:10,19:12,19:14,19:15,19:16,19:17,19:18,19:19 | + |
+taanach | | Taanach | 7:29 | + |
+tabor | | Tabor | 6:77 | + |
+talmai-g | | Talmai | 3:2 | + |
+tamar | | Tamar | 2:4 | + |
+tamar-d | | Tamar | 3:9 | + |
+tarshish | | Tarshish | 1:7 | + |
+tekoah | | Tekoa | 2:24,4:5 | + |
+tekoite | | Tekoite | 11:28,27:9 | + |
+tema | | Tema | 1:30 | + |
+teman | | Teman | 1:36 | + |
+teman-d | | Teman | 1:53 | + |
+temani | | Temanites | 1:45 | + |
+terah | | Terah | 1:26 | + |
+timna-s | | Timna | 1:39 | + |
+timnah-d | | Timnah | 1:51 | + |
+tiras | | Tiras | 1:5 | + |
+togarmah | | Togarmah | 1:6 | + |
+tohu | | Toah | 6:34 | + |
+toi | | Tou | 18:9,18:10 | + |
+tola | | Tola | 7:1,7:2 | + |
+tubal | | Tubal | 1:5 | + |
+tyre | | Tyre | 14:1,22:4 | + |
+uri | | Uri | 2:20 | + |
+uriah | | Uriah | 11:41 | + |
+uz | | Uz | 1:17 | + |
+uz-d | | Uz | 1:42 | + |
+uzal | | Uzal | 1:21 | + |
+uzzah | | Uzza | 13:7,13:9,13:10,13:11 | + |
+uzziel | | Uzziel | 6:2,6:18,15:10,23:12,23:20,24:24 | + |
+uzzielites | | Uzzielites | 26:23 | + |
+zaavan | | Zavan | 1:42 | + |
+zadok | | Zadok | 6:8,6:53,15:11,16:39,18:16,24:3,24:6,24:31,27:17,29:22 | + |
+zanoah | | Zanoah | 4:18 | + |
+zarah | | Zerah | 2:4,2:6,9:6 | + |
+zarhites-j | | Zarhites | 27:11,27:13 | + |
+zebulun | | Zebulun | 2:1,6:63,6:77,12:33,12:40,27:19 | + |
+zedekiah-k | | Zedekiah | 3:15 | + |
+zelek | | Zelek | 11:39 | + |
+zelophehad | | Zelophehad | 7:15 | + |
+zemarite | | Zemarite | 1:16 | + |
+zepho | | Zephi | 1:36 | + |
+zerah-e | | Zerah | 1:44 | + |
+zerah-r | | Zerah | 1:37 | + |
+zerah-s | | Zerah | 4:24 | + |
+zeruiah | | Zeruiah | 2:16,11:6,11:39,18:12,18:15,26:28,27:24 | + |
+zibeon | | Zibeon | 1:38,1:40 | + |
+ziklag | | Ziklag | 4:30,12:1,12:20 | + |
+zimran | | Zimran | 1:32 | + |
+zion | | Zion | 11:5 | + |
+ziph | | Ziph | 2:42 | + |
+zobah | | Zobah | 18:3,18:5,18:9,19:6 | + |
+zuph | | Zuph | 6:35 | + |
