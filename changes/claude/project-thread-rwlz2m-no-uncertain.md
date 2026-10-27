@@ -1,0 +1,1 @@
+- People: no link is marked "Identity uncertain" any more. The 66 people in 1 Esdras and 2 Esdras who stand at the same place in a list as a differently named man in Ezra or Nehemiah, and King Ptolemeus of 2 Maccabees 1:10, are kept as their own people with no link the text does not make.
