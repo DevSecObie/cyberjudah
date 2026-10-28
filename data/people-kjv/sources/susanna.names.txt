@@ -1,0 +1,11 @@
+# The History of Susanna. key | Name | forms | verses | type | description
+babylon | | Babylon | * | + |
+joacim-s | Joacim | Joacim | * | M | "A man in Babylon", the husband of Susanna, "a great rich man", to whose house the Jews resorted (Susanna 1:1-4, 1:63)
+susanna | Susanna | Susanna | * | F | "The daughter of Chelcias, a very fair woman, and one that feared the Lord", the wife of Joacim, falsely accused by the two elders and saved by Daniel (Susanna 1:2, 1:31-64)
+chelcias-s | Chelcias | Chelcias | * | M | The father of Susanna (Susanna 1:2, 1:29, 1:63)
+moses | | Moses | * | + |
+jews | | Jews | * | + |
+daniel-p | | Daniel | * | + |
+israel-people | | Israel | * | + |
+canaan | | Chanaan | * | + |
+judah | | Juda | * | + |
