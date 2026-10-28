@@ -1,0 +1,95 @@
+# Mark. key | Name | forms | verses | type | description
+jesus | | Jesus;Christ | * | + |
+john-b | | John;Baptist | 1:4,1:6,1:9,1:14,2:18,6:14,6:16,6:17,6:18,6:20,6:24,6:25,8:28,11:30,11:32 | + |
+john-z | | John;Boanerges | 1:19,1:29,3:17,5:37,9:2,9:38,10:35,10:41,13:3,14:33 | + |
+judea | | Judea | * | + |
+jerusalem | | Jerusalem | * | + |
+jordan | | Jordan | * | + |
+nazareth | | Nazareth | * | + |
+galilee | | Galilee | * | + |
+satan | | Satan | * | + |
+simon-p | | Simon;Peter | !3:18=Simon,!6:3=Simon,!14:3=Simon,!15:21=Simon | + |
+andrew | | Andrew | * | + |
+james-z | | James;Boanerges | 1:19,1:29,3:17,5:37,9:2,10:35,10:41,13:3,14:33 | + |
+zebedee | | Zebedee | * | + |
+capernaum | | Capernaum | * | + |
+moses | | Moses | * | + |
+levi-a | Levi | Levi | 2:14 | M | "Levi the son of Alpheus sitting at the receipt of custom", who arose and followed Jesus, and in whose house Jesus sat at meat with publicans and sinners (Mark 2:14-15)
+alpheus-l | Alpheus | Alpheus | 2:14 | M | The father of Levi who sat at the receipt of custom (Mark 2:14)
+alpheus | | Alpheus | 3:18 | + |
+pharisees | | Pharisees | * | + |
+david | | David | * | + |
+abiathar | | Abiathar | * | + |
+herodians | | Herodians | * | + |
+idumea | | Idumea | * | + |
+tyre | | Tyre | * | + |
+sidon-place | | Sidon | * | + |
+philip-a | | Philip | 3:18 | + |
+bartholomew | | Bartholomew | * | + |
+matthew | | Matthew | * | + |
+thomas | | Thomas | * | + |
+james-a | | James | 3:18 | + |
+lebbeus | | Thaddeus | * | + |
+simon-c | | Simon;Canaanite | 3:18 | + |
+judas-i | | Judas;Iscariot | 3:19,14:10,14:43 | + |
+beelzebub | | Beelzebub | * | + |
+gadarenes | Gadarenes | Gadarenes | * | G | Into whose country Jesus came, where the man with the unclean spirit dwelt among the tombs (Mark 5:1-20)
+decapolis | | Decapolis | * | + |
+jairus | Jairus | Jairus | * | M | "One of the rulers of the synagogue, Jairus by name", whose daughter of twelve years Jesus raised: "Talitha cumi" (Mark 5:22-43)
+talitha | Talitha | Talitha | * | X | "Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise" (Mark 5:41); not a person in People
+mary | | Mary | 6:3 | + |
+james-b | | James | 6:3 | + |
+joses-b | | Joses | 6:3 | + |
+judas-b | | Juda | * | + |
+simon-jb | | Simon | 6:3 | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrha | * | + |
+herod-t | | Herod | * | + |
+elijah | | Elias | * | + |
+herodias | | Herodias | * | + |
+philip-h | | Philip | 6:17 | + |
+bethsaida | | Bethsaida | * | + |
+gennesaret | | Gennesaret | * | + |
+jews | | Jews | * | + |
+isaiah | | Esaias | * | + |
+corban | Corban | Corban | * | X | "It is Corban, that is to say, a gift" (Mark 7:11); not a person in People
+grecians | | Greek | * | + |
+syrophenicians | Syrophenicians | Syrophenician | * | G | "The woman was a Greek, a Syrophenician by nation" (Mark 7:26)
+yes | | Yes | * | + |
+ephphatha | Ephphatha | Ephphatha | * | X | "Ephphatha, that is, Be opened" (Mark 7:34); not a person in People
+dalmanutha | Dalmanutha | Dalmanutha | * | P | "The parts of Dalmanutha" (Mark 8:10)
+cesarea-philippi | | Cesarea;Philippi | * | + |
+gentiles | | Gentiles | * | + |
+jericho | | Jericho | * | + |
+bartimeus | Bartimeus | Bartimeus | * | M | "Blind Bartimeus, the son of Timeus", who sat by the highway side begging, and received his sight (Mark 10:46-52)
+timeus | Timeus | Timeus | * | M | The father of blind Bartimeus (Mark 10:46)
+bethphage | | Bethphage | * | + |
+bethany | | Bethany | * | + |
+hosanna | | Hosanna | * | + |
+cesar | | Cesar | * | + |
+sadducees | | Sadducees | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | * | + |
+israel-people | | Israel | * | + |
+daniel-p | | Daniel | * | + |
+christs | | Christs | * | + |
+simon-l | | Simon | 14:3 | + |
+gethsemane | | Gethsemane | * | + |
+abba | Abba | Abba | * | X | "Abba, Father, all things are possible unto thee" (Mark 14:36); not a person in People
+galileans | Galileans | Galilean | * | G | "Thou art a Galilean, and thy speech agreeth thereto" (Mark 14:70)
+pilate | | Pilate | * | + |
+barabbas | | Barabbas | * | + |
+pretorium | Pretorium | Pretorium | * | P | "The hall, called Pretorium" (Mark 15:16)
+simon-cy | | Simon;Cyrenian | 15:21 | + |
+alexander-s | Alexander | Alexander | * | M | A son of Simon the Cyrenian, brother of Rufus (Mark 15:21)
+rufus | Rufus | Rufus | * | M | A son of Simon the Cyrenian, brother of Alexander (Mark 15:21)
+golgotha | | Golgotha | * | + |
+eloi | Eloi | Eloi | * | X | "Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?" (Mark 15:34); not a person in People
+mary-m | | Mary;Magdalene | 15:40,15:47,16:1,16:9 | + |
+mary-j | | Mary | 15:40,15:47,16:1 | + |
+james-j | | James | 15:40,16:1 | + |
+joses-j | | Joses | 15:40,15:47 | + |
+salome | Salome | Salome | * | F | One of the women looking on afar off at the cross, who brought sweet spices to anoint him (Mark 15:40, 16:1)
+joseph-ar | | Joseph | * | + |
+arimathea | | Arimathea | * | + |

@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Mark added (11 new people incl. Levi son of Alpheus, Jairus, Bartimeus son of Timeus, Alexander and Rufus, Salome; 2 places: Dalmanutha, Pretorium).
