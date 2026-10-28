@@ -1,0 +1,15 @@
+# 1 Thessalonians. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+silvanus | | Silvanus | * | + |
+timothy | | Timotheus | * | + |
+thessalonians | | Thessalonians | * | + |
+macedonia | | Macedonia | * | + |
+achaia | | Achaia | * | + |
+philippi-m | | Philippi | * | + |
+judea | | Judea | * | + |
+jews | | Jews | * | + |
+gentiles | | Gentiles | * | + |
+satan | | Satan | * | + |
+athens | | Athens | * | + |
+god-ward | | God-ward | * | + |
