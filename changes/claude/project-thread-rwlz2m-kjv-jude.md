@@ -1,0 +1,1 @@
+- People (KJV): add Jude (Jude, his brother James, Michael the archangel); adds Jude verses to Enoch, Adam, Cain, Balaam, Korah, Moses and Jesus.
