@@ -317,4 +317,10 @@ myndus | Q18823111 | 37.0547 | 27.2281 | Myndus
 phaselis | Q595329 | 36.5236 | 30.5522 | Phaselis
 sicyon | Q368628 | 37.9841 | 22.7111 | Sicyon
 docus | Q1234984 | 31.874 | 35.4313 | Doq
+mallos | Q1425353 | 36.7575 | 35.4868 | Mallus
+daphne | Q3015870 | 36.185 | 36.14 | Daphne
+persepolis | Q129072 | 29.935 | 52.89 | Persepolis
+marisa | Q1507676 | 31.593 | 34.8982 | Maresha
+thracia | Q41741 | 42.0 | 26.0 | Thrace
+tripolis | Q111387243 | 34.45 | 35.8333 | Tripolis
 colosse | Q1001370 | 37.7906 | 29.2592 | Colossae

@@ -1,0 +1,1 @@
+- 2 Maccabees: adds 72 people, 12 places and 4 gods, with the high priests Onias, Jason and Menelaus and their brothers as the text names them, plus 6 new Wikidata pins.

@@ -1,0 +1,183 @@
+# 2 Maccabees. key | Name | forms | verses | type | description
+# The letters to the Jews in Egypt
+jews | | Jews;Jew | * | + |
+jerusalem | | Jerusalem | * | + |
+judea | | Judea | * | + |
+egypt | | Egypt | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | * | + |
+demetrius-2 | | Demetrius | 1:7 | + |
+jason-r | Jason | Jason | 1:7 | M | "Jason and his company", who "revolted from the holy land and kingdom" (2 Maccabees 1:7)
+chisleu-month | | Casleu | * | + |
+judas-l | Judas | Judas | 1:10,2:14 | M | Named with the people of Jerusalem and Judea and the council in the letter to Aristobulus; who "gathered together all those things that were lost by reason of the war" (2 Maccabees 1:10, 2:14)
+aristobulus | Aristobulus | Aristobulus | * | M | "King Ptolemeus' master, who was of the stock of the anointed priests", to whom the Jews of Judea wrote (2 Maccabees 1:10)
+ptolemeus-a | Ptolemeus | Ptolemeus | 1:10 | M | The king whose master was Aristobulus (2 Maccabees 1:10)
+persia | | Persia | * | + |
+nanea | Nanea | Nanea | * | D | In whose temple Antiochus and his army "were slain ... by the deceit of Nanea's priests" (2 Maccabees 1:13-16)
+antiochus-na | Antiochus | Antiochus | 1:14,1:15 | M | The Antiochus of the letter, who came into the temple of Nanea "as though he would marry her", and was slain there (2 Maccabees 1:13-16)
+nehemiah-h | | Neemias | * | + |
+jonathan-n | Jonathan | Jonathan | 1:23 | M | A priest, who began the prayer while the sacrifice was consuming in the days of Neemias (2 Maccabees 1:23)
+israel-people | | Israel | * | + |
+moses | | Moses | * | + |
+naphthar | Naphthar | Naphthar;Nephi | * | X | "Neemias called this thing Naphthar, which is as much as to say, a cleansing: but many men call it Nephi" (2 Maccabees 1:36); not a person in People
+jeremiah-p | | Jeremy;Jeremias | * | + |
+solomon | | Solomon | * | + |
+david | | David | * | + |
+# The epitome of Jason of Cyrene
+judas-m | | Judas;Maccabeus | !1:10,!2:14 | + |
+antiochus-e | | Antiochus;Epiphanes | 2:20,4:7,4:21,4:37,5:1,5:5,5:17,5:21,7:24,9:1,9:2,9:19,9:29,10:9,10:13 | + |
+antiochus-u | | Antiochus;Eupator | 2:20,9:25,10:10,10:13,11:22,11:27,13:1,13:3,13:4,14:2,!2:20=Antiochus,!10:13=Antiochus | + |
+judaism | Judaism | Judaism | * | X | "Their honour for Judaism" (2 Maccabees 2:21, 14:38); not a person in People
+jason-c | Jason | Jason | 2:23 | M | "Jason of Cyrene", who declared these things "in five books", abridged in this volume (2 Maccabees 2:23)
+cyrene | | Cyrene | * | + |
+# Onias, Heliodorus, Jason and Menelaus
+onias-3 | Onias | Onias | * | M | "Onias the high priest", for whose godliness the laws were kept well; Heliodorus was spared for his sake; slain by Andronicus at Daphne; in Judas' vision he prayed for the people (2 Maccabees 3:1, 3:33, 4:33-38, 15:12-14)
+seleucus-k | Seleucus | Seleucus | 3:3,4:7,5:18 | M | "Seleucus of Asia", who bare the costs of the sacrifices; the king who sent Heliodorus to view the treasury; after his death Antiochus Epiphanes took the kingdom (2 Maccabees 3:3, 4:7, 5:18)
+asia | | Asia | * | + |
+simon-b | Simon | Simon | 3:4,3:11,4:1,4:3,4:4,4:6,4:23 | M | "One Simon of the tribe of Benjamin, who was made governor of the temple", who slandered Onias; the brother of Menelaus (2 Maccabees 3:4-6, 4:1-6, 4:23)
+benjamin | | Benjamin | * | + |
+apollonius-t | Apollonius | Apollonius | 3:5,3:7,4:4 | M | "Apollonius the son of Thraseas, who then was governor of Celosyria and Phenice" (2 Maccabees 3:5-7, 4:4)
+thraseas | Thraseas | Thraseas | * | M | The father of Apollonius the governor (2 Maccabees 3:5)
+celosyria | | Celosyria | * | + |
+phenice | | Phenice | * | + |
+heliodorus | Heliodorus | Heliodorus | * | M | The king's treasurer, sent to take the money of the temple; smitten by the horse and its rider, and spared at Onias' prayer (2 Maccabees 3:7-40, 5:18)
+hircanus | Hircanus | Hircanus | * | M | "Hircanus son of Tobias, a man of great dignity", some of whose money was laid up in the temple (2 Maccabees 3:11)
+tobias-h | Tobias | Tobias | 3:11 | M | The father of Hircanus (2 Maccabees 3:11)
+jason-hp | Jason | Jason | 4:7,4:13,4:19,4:22,4:23,4:24,4:26,5:5,5:6 | M | "Jason the brother of Onias", who "laboured underhand to be high priest" and brought in Greek fashions; undermined by Menelaus, he fled into the country of the Ammonites (2 Maccabees 4:7-26, 5:5-10)
+antiochians | Antiochians | Antiochians | * | G | The name by which Jason would write them of Jerusalem (2 Maccabees 4:9, 4:19)
+greek-ways | Greek | Greekish;Greek;Grecian | * | X | "Greekish fashion"; "Greek fashions"; "a Grecian power" (2 Maccabees 4:10, 4:13, 13:2); not a person in People
+john-e | | John | 4:11 | + |
+eupolemus | | Eupolemus | * | + |
+rome | | Rome | * | + |
+discus | Discus | Discus | * | X | "The game of Discus" (2 Maccabees 4:14); not a person in People
+grecians | | Grecians;Greeks | * | + |
+tyre | | Tyrus | * | + |
+hercules | Hercules | Hercules | * | D | To whose sacrifice Jason sent three hundred drachms of silver (2 Maccabees 4:19-20)
+apollonius-m | Apollonius | Apollonius | 4:21 | M | "Apollonius the son of Menestheus", sent into Egypt for the coronation of king Ptolemeus Philometor (2 Maccabees 4:21)
+menestheus | Menestheus | Menestheus | * | M | The father of Apollonius (2 Maccabees 4:21)
+ptolemee-p | Ptolemeus | Ptolemeus;Philometor | 4:21,9:29,10:13 | M | "King Ptolemeus Philometor", at whose coronation Apollonius was sent into Egypt; who had committed Cyprus unto Ptolemeus Macron (2 Maccabees 4:21, 9:29, 10:13)
+joppa | | Joppe | * | + |
+menelaus | Menelaus | Menelaus | * | M | "The aforesaid Simon's brother", who got the high priesthood by offering more than Jason; he procured the death of Onias, and was put to death at Berea (2 Maccabees 4:23-50, 13:3-8)
+ammon | | Ammonites | * | + |
+sostratus | Sostratus | Sostratus | * | M | "The ruler of the castle" (2 Maccabees 4:27-29)
+lysimachus-m | Lysimachus | Lysimachus | * | M | The brother of Menelaus, left "in his stead in the priesthood"; slain by the people beside the treasury (2 Maccabees 4:29, 4:39-42)
+crates | Crates | Crates | * | M | "Governor of the Cyprians", left by Sostratus (2 Maccabees 4:29)
+cyprians | Cyprians | Cyprians | * | G | Whose governor was Crates (2 Maccabees 4:29)
+tarsus | | Tarsus | * | + |
+mallos | Mallos | Mallos | * | P | Whose people made insurrection with them of Tarsus (2 Maccabees 4:30)
+antiochis | Antiochis | Antiochis | * | F | "The king's concubine, called Antiochis", to whom Tarsus and Mallos were given (2 Maccabees 4:30)
+andronicus | Andronicus | Andronicus | 4:31,4:32,4:34,4:38 | M | "A man in authority", the king's deputy, who slew Onias; the king slew him "unto that very place, where he had committed impiety against Onias" (2 Maccabees 4:31-38)
+andronicus-g | Andronicus | Andronicus | 5:23 | M | One of the governors left to vex the nation: "at Garizim, Andronicus" (2 Maccabees 5:22-23)
+daphne | Daphne | Daphne | * | P | "A sanctuary at Daphne, that lieth by Antiochia" (2 Maccabees 4:33)
+antiochia | | Antiochia | * | + |
+cilicia | | Cilicia | * | + |
+auranus | Auranus | Auranus | * | M | "A man far gone in years, and no less in folly", the leader of Lysimachus' men (2 Maccabees 4:40)
+ptolemee-d | | Ptolemee | 4:45,4:46,6:8 | + |
+dorymenes | | Dorymenes | * | + |
+scythians | Scythians | Scythians | * | G | "Yea, before the Scythians, should have been judged innocent" (2 Maccabees 4:47)
+aretas | Aretas | Aretas | * | M | "Aretas the king of the Arabians", before whom Jason was accused (2 Maccabees 5:8)
+arabians | | Arabians | * | + |
+lacedemonians | | Lacedemonians | * | + |
+philip-p | Philip | Philip | 5:22,6:11,8:8 | M | Left governor at Jerusalem, "for his country a Phrygian, and for manners more barbarous than he that set him there" (2 Maccabees 5:22, 6:11, 8:8)
+phrygians | Phrygians | Phrygian | * | G | "Philip, for his country a Phrygian" (2 Maccabees 5:22)
+gerizim | | Garizim | * | + |
+apollonius-r | Apollonius | Apollonius | 5:24 | M | "That detestable ringleader Apollonius", sent with two and twenty thousand to slay the grown men (2 Maccabees 5:24-26)
+# The persecution
+athens | | Athens | * | + |
+jupiter | | Jupiter;Olympius | * | + |
+gentiles | | Gentiles | * | + |
+bacchus | Bacchus | Bacchus | * | D | To whom the Jews were compelled to go in procession, "carrying ivy" (2 Maccabees 6:7, 14:33)
+eleazar-sc | Eleazar | Eleazar | 6:18,6:24 | M | "One of the principal scribes, an aged man", fourscore years old and ten, who died rather than eat swine's flesh (2 Maccabees 6:18-31)
+hebrew | | Hebrews | * | + |
+# Judas and Nicanor the son of Patroclus
+nicanor-p | Nicanor | Nicanor | 8:9,8:10,8:12,8:14,8:23,8:24,8:34,9:3 | M | "Nicanor the son of Patroclus, one of his special friends", sent with Gorgias "to root out the whole generation of the Jews"; he brought merchants to buy the Jews, and after his host was destroyed "he came like a fugitive servant ... unto Antioch" (2 Maccabees 8:9-36)
+patroclus | Patroclus | Patroclus | * | M | The father of Nicanor (2 Maccabees 8:9)
+gorgias | | Gorgias | * | + |
+ptolemeus-g | Ptolemeus | Ptolemeus | 8:8 | M | "The governor of Celosyria and Phenice", to whom Philip wrote for aid (2 Maccabees 8:8)
+romans | | Romans | * | + |
+simon-m | | Simon | 8:22,10:19,10:20,14:17 | + |
+joseph-mb | Joseph | Joseph | * | M | One of Judas' "own brethren, leaders of each band", left with Simon to besiege the towers (2 Maccabees 8:22, 10:19)
+jonathan-ap | | Jonathan | 8:22 | + |
+eleazar-r | Eleazar | Eleazar | 8:23 | M | Whom Judas "appointed ... to read the holy book" before the battle (2 Maccabees 8:23)
+sennacherib | | Sennacherib | * | + |
+babylon | | Babylon | * | + |
+galatians | | Galatians | * | + |
+macedonians | | Macedonians | * | + |
+timotheus-g | Timotheus | Timotheus | 8:30,8:32,9:3,10:24,10:32,10:37 | M | Who fought against the Jews with Bacchides; he fled into Gazara and was killed there, "hid in a certain pit", with Chereas his brother (2 Maccabees 8:30-32, 10:24-37)
+bacchides-8 | Bacchides | Bacchides | 8:30 | M | Who fought against the Jews with Timotheus (2 Maccabees 8:30)
+philarches | Philarches | Philarches | * | M | "That wicked person, who was with Timotheus" (2 Maccabees 8:32)
+callisthenes | Callisthenes | Callisthenes | * | M | Who "had set fire upon the holy gates", burnt in a little house (2 Maccabees 8:33)
+antioch | | Antioch | * | + |
+# The death of Epiphanes
+persepolis | Persepolis | Persepolis | * | P | Whose temple Antiochus went about to rob (2 Maccabees 9:2)
+ecbatana | | Ecbatane | * | + |
+philip-b | Philip | Philip | 9:29,13:23 | M | "That was brought up with" Antiochus Epiphanes, who carried away his body; "left over the affairs in Antioch" (2 Maccabees 9:29, 13:23)
+# Eupator
+lysias | | Lysias | * | + |
+ptolemeus-m | Ptolemeus | Ptolemeus;Macron | 10:12 | M | "Ptolemeus, that was called Macron", who did justice unto the Jews; he poisoned himself (2 Maccabees 10:12-13)
+cyprus | | Cyprus | * | + |
+edomites | | Idumeans | * | + |
+zaccheus | Zaccheus | Zaccheus | * | M | Left by Maccabeus with Simon and Joseph to besiege the towers (2 Maccabees 10:19)
+jewry | | Jewry | * | + |
+gazara | | Gazara | * | + |
+chereas | Chereas | Chereas | * | M | The governor of Gazara, brother of Timotheus, killed with him (2 Maccabees 10:32, 10:37)
+apollophanes | Apollophanes | Apollophanes | * | M | Killed at Gazara with Timotheus and Chereas (2 Maccabees 10:37)
+bethsura | | Bethsura | * | + |
+john-a | John | John | 11:17 | M | Sent with Absalon unto Lysias with the Jews' petition (2 Maccabees 11:17)
+absalon | Absalon | Absalon | * | M | Sent with John unto Lysias with the Jews' petition (2 Maccabees 11:17)
+dioscorinthius | Dioscorinthius | Dioscorinthius | * | X | A month: "the four and twentieth day of the month Dioscorinthius" (2 Maccabees 11:21); not a person in People
+xanthicus | Xanthicus | Xanthicus | * | X | A month: "the fifteenth day of the month Xanthicus" (2 Maccabees 11:30-38); not a person in People
+memmius | Quintus Memmius | Quintus;Memmius | * | M | "Quintus Memmius ... ambassadors of the Romans", who wrote unto the Jews (2 Maccabees 11:34)
+manlius | Titus Manlius | Titus;Manlius | * | M | "Titus Manlius, ambassadors of the Romans", who wrote unto the Jews (2 Maccabees 11:34)
+# The wars of Judas
+timotheus | | Timotheus | 12:2,12:10,12:18,12:19,12:20,12:21,12:24 | + |
+apollonius-g | Apollonius | Apollonius | 12:2 | M | "Apollonius the son of Genneus", one of the governors who would not let the Jews be quiet (2 Maccabees 12:2)
+genneus | Genneus | Genneus | * | M | The father of Apollonius (2 Maccabees 12:2)
+hieronymus | Hieronymus | Hieronymus | * | M | One of the governors who would not let the Jews be quiet (2 Maccabees 12:2)
+demophon | Demophon | Demophon | * | M | One of the governors who would not let the Jews be quiet (2 Maccabees 12:2)
+nicanor-c | Nicanor | Nicanor | 12:2 | M | "Nicanor the governor of Cyprus" (2 Maccabees 12:2)
+jamnites | Jamnites | Jamnites | * | G | Whose haven and navy Judas set on fire (2 Maccabees 12:8-9, 12:40)
+nomades | Nomades | Nomades | * | G | "The Nomades of Arabia", who besought Judas for peace (2 Maccabees 12:11)
+arabia | | Arabia | * | + |
+caspis | Caspis | Caspis | * | P | A strong city "inhabited by people of divers countries", taken by Judas (2 Maccabees 12:13-16)
+jericho | | Jericho | * | + |
+joshua | | Joshua | * | + |
+characa | Characa | Characa | * | P | Where the Jews called Tubieni dwelt (2 Maccabees 12:17)
+tubieni | Tubieni | Tubieni | * | G | "The Jews that are called Tubieni" (2 Maccabees 12:17)
+dositheus-c | Dositheus | Dositheus | 12:19,12:24 | M | One of "Maccabeus' captains", into whose hands Timotheus fell (2 Maccabees 12:19-24)
+sosipater | Sosipater | Sosipater | * | M | One of "Maccabeus' captains", into whose hands Timotheus fell (2 Maccabees 12:19-24)
+carnion | Carnion | Carnion | * | P | "A fortress called Carnion", with the temple of Atargatis (2 Maccabees 12:21, 12:26)
+atargatis | Atargatis | Atargatis | * | D | Whose temple was at Carnion (2 Maccabees 12:26)
+ephron-g | | Ephron | * | + |
+scythopolis | | Scythopolis | * | + |
+scythopolitans | Scythopolitans | Scythopolitans | * | G | Who "dealt lovingly" with the Jews that dwelt among them (2 Maccabees 12:30)
+pentecost | | Pentecost | * | + |
+idumea | | Idumea | * | + |
+dositheus-b | Dositheus | Dositheus | 12:35 | M | "One of Bacenor's company, who was on horseback, and a strong man", who took hold of Gorgias (2 Maccabees 12:35)
+bacenor | Bacenor | Bacenor | * | M | In whose company was Dositheus (2 Maccabees 12:35)
+thracia | Thracia | Thracia | * | P | Whence came the horseman who smote off Dositheus' shoulder (2 Maccabees 12:35)
+marisa | Marisa | Marisa | * | P | Unto which Gorgias fled (2 Maccabees 12:35)
+odollam | Odollam | Odollam | * | P | "The city of Odollam", where Judas' host kept the sabbath (2 Maccabees 12:38)
+berea-s | Berea | Berea | * | P | Unto which the king commanded Menelaus to be brought, "and to put him to death, as the manner is in that place" (2 Maccabees 13:4)
+modin | | Modin | * | + |
+rhodocus | Rhodocus | Rhodocus | * | M | "Who was in the Jews' host, disclosed the secrets to the enemies" (2 Maccabees 13:21)
+ptolemais | | Ptolemais | * | + |
+gerrhenians | Gerrhenians | Gerrhenians | * | G | Unto whom Maccabeus was made principal governor from Ptolemais (2 Maccabees 13:24)
+# Demetrius and Nicanor
+demetrius-1 | | Demetrius | 14:1,14:4,14:5,14:11,14:26 | + |
+seleucus | | Seleucus | 14:1 | + |
+tripolis | Tripolis | Tripolis | * | P | "The haven of Tripolis", by which Demetrius entered (2 Maccabees 14:1)
+alcimus | | Alcimus | * | + |
+assideans | | Assideans | * | + |
+nicanor | | Nicanor | 14:12,14:14,14:15,14:17,14:18,14:23,14:26,14:27,14:28,14:30,14:37,14:39,15:1,15:6,15:25,15:28,15:30,15:32,15:33,15:35,15:37 | + |
+dessau | Dessau | Dessau | * | P | "The town of Dessau" (2 Maccabees 14:16)
+posidonius | Posidonius | Posidonius | * | M | Sent by Nicanor "to make peace" (2 Maccabees 14:19)
+theodotus | Theodotus | Theodotus | * | M | Sent by Nicanor "to make peace" (2 Maccabees 14:19)
+mattathias-n | Mattathias | Mattathias | * | M | Sent by Nicanor "to make peace" (2 Maccabees 14:19)
+razis | Razis | Razis | * | M | "One of the elders of Jerusalem, a lover of his countrymen", called "a father of the Jews", who fell upon his sword rather than come into Nicanor's hands (2 Maccabees 14:37-46)
+samaria | | Samaria | * | + |
+hezekiah | | Ezekias | * | + |
+syrian | | Syrian | * | + |
+adar-month | | Adar | * | + |
+mordecai-e | | Mardocheus | * | + |
