@@ -1,0 +1,1 @@
+- People (KJV): add the Song of the Three Holy Children; Azarias, Ananias and Misael join Daniel's companions Azariah, Hananiah and Mishael.
