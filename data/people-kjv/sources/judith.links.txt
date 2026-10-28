@@ -1,0 +1,23 @@
+# Judith. child < father | verses | note | evidence | sources
+arioch-e @ elymeans | 1:6 | "Arioch the king of the Elymeans"
+achior @ ammon | 5:5,14:5 | "Achior, the captain of all the sons of Ammon"; "Achior the Ammonite"
+ozias-j < micha-j | 6:15
+ozias-j & simeon | 6:15 | "of the tribe of Simeon"
+chabris < gothoniel | 6:15
+charmis < melchiel | 6:15
+judith-m < merari-j | 8:1,16:7
+merari-j ^ joseph-j | 8:1 | "Merari, the son of Ox, the son of Joseph"; Ox has no record because the word is also a common noun in the KJV
+joseph-j < oziel | 8:1
+oziel < elcia | 8:1
+elcia < ananias-j | 8:1
+ananias-j < gedeon-j | 8:1
+gedeon-j < raphaim | 8:1
+raphaim < acitho | 8:1
+acitho < eliu | 8:1
+eliu < eliab-jd | 8:1
+eliab-jd < nathanael-j | 8:1
+nathanael-j < samael | 8:1
+samael < salasadai | 8:1
+salasadai ^ jacob | 8:1 | "the son of Salasadai, the son of Israel"
+judith-m & simeon | 9:2 | "O Lord God of my father Simeon"
+manasses-j = judith-m | 8:2,8:7,10:3,16:22,16:23,16:24 | "Manasses was her husband, of her tribe and kindred"
