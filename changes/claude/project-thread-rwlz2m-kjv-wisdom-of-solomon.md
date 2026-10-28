@@ -1,0 +1,1 @@
+- People (KJV): add the Wisdom of Solomon; it names no person or place by name, so only the Gentiles and the Sodomites gain verses.
