@@ -287,4 +287,10 @@ spain | Q186513 | 40.21 | -4.35 | Hispania
 laodicea | Q849709 | 37.8358 | 29.1075 | Laodicea on the Lycus
 hierapolis | Q7428276 | 37.925 | 29.1258 | Hierapolis
 dalmatia | Q1330965 | 43.8128 | 16.2188 | Dalmatia
+patmos | Q190053 | 37.325 | 26.5417 | Patmos
+pergamos | Q18986 | 39.1295 | 27.1841 | Pergamon
+philadelphia | Q2085773 | 38.35 | 28.5167 | Philadelphia
+sardis | Q232615 | 38.4883 | 28.0403 | Sardis
+smyrna | Q1379299 | 38.4186 | 27.1428 | Smyrna
+armageddon | Q193151 | 32.585 | 35.185 | Armageddon
 colosse | Q1001370 | 37.7906 | 29.2592 | Colossae
