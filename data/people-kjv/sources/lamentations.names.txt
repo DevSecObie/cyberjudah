@@ -1,0 +1,13 @@
+# Lamentations. key | Name | forms | verses | type | description
+judah | | Judah | * | + |
+zion | | Zion | * | + |
+jerusalem | | Jerusalem | * | + |
+jacob | | Jacob | * | + |
+israel-people | | Israel | * | + |
+gentiles | | Gentiles | * | + |
+sodom | | Sodom | * | + |
+nazarite | | Nazarites | * | + |
+edom-land | | Edom | * | + |
+uz-land | | Uz | * | + |
+egyptian | | Egyptians | * | + |
+assyrians | | Assyrians | * | + |

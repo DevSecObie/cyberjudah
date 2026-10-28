@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Lamentations added. No new people or places; it adds Lamentations verses to 12 existing records (Judah, Zion, Jerusalem, Jacob, Israel, Gentiles, Sodom, Nazarites, Edom, Uz, Egyptians, Assyrians).
