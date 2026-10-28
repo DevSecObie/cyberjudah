@@ -1,0 +1,17 @@
+# 1 Timothy. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+timothy | | Timothy | * | + |
+ephesus | | Ephesus | * | + |
+macedonia | | Macedonia | * | + |
+hymeneus | Hymeneus | Hymeneus | * | M | "Of whom is Hymeneus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme"; "Hymeneus and Philetus; who concerning the truth have erred" (1 Timothy 1:20; 2 Timothy 2:17-18)
+alexander-t | Alexander | Alexander | * | M | "Of whom is Hymeneus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme" (1 Timothy 1:20)
+satan | | Satan | * | + |
+gentiles | | Gentiles | * | + |
+adam | | Adam | * | + |
+eve | | Eve | * | + |
+pilate | | Pontius;Pilate | * | + |
+potentate | Potentate | Potentate | * | X | "The blessed and only Potentate, the King of kings, and Lord of lords" (1 Timothy 6:15); not a person in People
+laodicea | | Laodicea | * | + |
+phrygia | | Phrygia | * | + |
+pacatiana | Pacatiana | Pacatiana | * | P | "Laodicea, which is the chiefest city of Phrygia Pacatiana" (1 Timothy 6:21, subscription)
