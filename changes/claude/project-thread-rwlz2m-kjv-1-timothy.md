@@ -1,0 +1,1 @@
+- 1 Timothy: adds Hymeneus, Alexander (1:20) and Pacatiana; adds 1 Timothy verses to Paul, Jesus, Timothy, Ephesus, Macedonia, Satan, the Gentiles, Adam, Eve, Pontius Pilate, Laodicea and Phrygia.
