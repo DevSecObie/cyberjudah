@@ -1,0 +1,1 @@
+- People (KJV): add 1 Esdras, the first Apocrypha book: 217 new people, 14 places (Celosyria and Ecbatana pinned), and 101 parallel links to the same men in 2 Chronicles, Ezra and Nehemiah.
