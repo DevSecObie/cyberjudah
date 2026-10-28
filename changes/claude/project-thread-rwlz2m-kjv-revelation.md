@@ -1,0 +1,1 @@
+- People (KJV): add Revelation (John, Antipas, Jezebel of Thyatira, the Nicolaitans, Abaddon, Michael, Gog and Magog) and places Patmos, Smyrna, Pergamos, Sardis, Philadelphia and Armageddon, each pinned from its Wikidata item.

@@ -1,0 +1,51 @@
+# Revelation. key | Name | forms | verses | type | description
+jesus | | Jesus;Christ | * | + |
+john-r | John | John | * | M | "His servant John: who bare record of the word of God"; "I John, who also am your brother, and companion in tribulation ... was in the isle that is called Patmos" (Revelation 1:1-2, 1:9, 22:8)
+asia | | Asia | * | + |
+alpha | Alpha | Alpha | * | X | "I am Alpha and Omega, the beginning and the ending, saith the Lord" (Revelation 1:8); not a person in People
+omega | Omega | Omega | * | X | "I am Alpha and Omega, the beginning and the ending, saith the Lord" (Revelation 1:8); not a person in People
+patmos | Patmos | Patmos | * | P | "The isle that is called Patmos" (Revelation 1:9)
+ephesus | | Ephesus | * | + |
+smyrna | Smyrna | Smyrna | * | P | One of the seven churches which are in Asia (Revelation 1:11, 2:8)
+pergamos | Pergamos | Pergamos | * | P | One of the seven churches, "where Satan's seat is" (Revelation 1:11, 2:12-13)
+thyatira | | Thyatira | * | + |
+sardis | Sardis | Sardis | * | P | One of the seven churches which are in Asia (Revelation 1:11, 3:1-4)
+philadelphia | Philadelphia | Philadelphia | * | P | One of the seven churches which are in Asia (Revelation 1:11, 3:7)
+laodicea | | Laodicea | * | + |
+nicolaitans | Nicolaitans | Nicolaitans | * | G | "Thou hatest the deeds of the Nicolaitans, which I also hate" (Revelation 2:6, 2:15)
+jews | | Jews | * | + |
+satan | | Satan | * | + |
+antipas | Antipas | Antipas | * | M | "Antipas was my faithful martyr, who was slain among you, where Satan dwelleth" (Revelation 2:13)
+balaam | | Balaam | * | + |
+balak | | Balac | * | + |
+israel-people | | Israel | * | + |
+jezebel-t | Jezebel | Jezebel | * | F | "That woman Jezebel, which calleth herself a prophetess", suffered by the church in Thyatira (Revelation 2:20)
+david | | David | * | + |
+jerusalem | | Jerusalem | * | + |
+laodiceans | | Laodiceans | * | + |
+judah | | Juda | * | + |
+reuben | | Reuben | * | + |
+gad | | Gad | * | + |
+asher | | Aser | * | + |
+naphtali | | Nepthalim | * | + |
+manasseh | | Manasses | * | + |
+simeon | | Simeon | * | + |
+levi | | Levi | * | + |
+issachar | | Issachar | * | + |
+zebulun | | Zabulon | * | + |
+joseph | | Joseph | * | + |
+benjamin | | Benjamin | * | + |
+hebrew | | Hebrew | * | + |
+abaddon | Abaddon | Abaddon;Apollyon | * | U | "The angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon" (Revelation 9:11)
+grecians | | Greek | * | + |
+euphrates | | Euphrates | * | + |
+gentiles | | Gentiles | * | + |
+sodom | | Sodom | * | + |
+egypt | | Egypt | * | + |
+michael-rv | Michael | Michael | * | U | "Michael and his angels fought against the dragon" (Revelation 12:7)
+sion-z | | Sion | * | + |
+babylon | | Babylon | * | + |
+moses | | Moses | * | + |
+armageddon | Armageddon | Armageddon | * | P | "A place called in the Hebrew tongue Armageddon" (Revelation 16:16)
+gog-rv | Gog | Gog | * | G | "The nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle" (Revelation 20:8)
+magog-rv | Magog | Magog | * | G | "The nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle" (Revelation 20:8)
