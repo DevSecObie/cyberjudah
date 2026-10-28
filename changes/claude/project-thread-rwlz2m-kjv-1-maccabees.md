@@ -1,0 +1,1 @@
+- 1 Maccabees: adds 88 people and 71 places, with Mattathias and his five sons, the Seleucid and Ptolemaic kings, and the ambassadors' fathers as the text names them, plus 18 new Wikidata pins.

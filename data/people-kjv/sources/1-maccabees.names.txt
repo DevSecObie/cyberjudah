@@ -1,0 +1,260 @@
+# 1 Maccabees. key | Name | forms | verses | type | description
+# Kings of the Greeks, Syria and Egypt
+alexander-g | Alexander | Alexander | 1:1,1:7,6:2 | M | "Alexander son of Philip, the Macedonian, who came out of the land of Chettiim", who smote Darius and "reigned in his stead, the first over Greece"; he reigned twelve years and died (1 Maccabees 1:1-7, 6:2)
+philip-m | Philip | Philip | 1:1,6:2 | M | The father of Alexander the Macedonian (1 Maccabees 1:1, 6:2)
+macedonians | | Macedonian | * | + |
+chettiim | Chettiim | Chettiim | * | P | The land out of which Alexander the Macedonian came (1 Maccabees 1:1)
+darius-g | Darius | Darius | 1:1 | M | "Darius king of the Persians and Medes", smitten by Alexander the Macedonian (1 Maccabees 1:1)
+persians | | Persians | * | + |
+medes | | Medes | * | + |
+greece | | Greece | * | + |
+antiochus-k | Antiochus | Antiochus | 1:10 | M | "Antiochus the king", the father of Antiochus surnamed Epiphanes (1 Maccabees 1:10)
+antiochus-e | Antiochus | Antiochus;Epiphanes | 1:10,1:16,1:20,1:41,3:27,6:1,6:16,6:55,10:1 | M | "A wicked root, Antiochus surnamed Epiphanes, son of Antiochus the king, who had been an hostage at Rome"; he spoiled the sanctuary and commanded all to forsake their laws; he died in Persia in the hundred forty and ninth year (1 Maccabees 1:10-64, 6:1-16)
+rome | | Rome | * | + |
+grecians | | Greeks;Grecians | * | + |
+israel-people | | Israel;Israelites | * | + |
+jerusalem | | Jerusalem | * | + |
+egypt | | Egypt | * | + |
+ptolemee-e | Ptolemee | Ptolemee | 1:18 | M | "Ptolemee king of Egypt", against whom Antiochus Epiphanes made war; he "was afraid of him, and fled" (1 Maccabees 1:16-19)
+jacob | | Jacob | * | + |
+judah | | Juda | * | + |
+david | | David | * | + |
+chisleu-month | | Casleu | * | + |
+# Mattathias and his house
+mattathias-m | Mattathias | Mattathias | 2:1,2:14,2:16,2:17,2:19,2:24,2:27,2:39,2:45,2:49,14:29 | M | "Mattathias the son of John, the son of Simeon, a priest of the sons of Joarib, from Jerusalem, and dwelt in Modin"; he slew the Jew who sacrificed at Modin and fled with his sons into the mountains; he died in the hundred forty and sixth year (1 Maccabees 2:1-70)
+john-g | John | John | 2:1 | M | The father of Mattathias, the son of Simeon (1 Maccabees 2:1)
+simeon-m | Simeon | Simeon | * | M | The father of John, the grandfather of Mattathias (1 Maccabees 2:1)
+jehoiarib-c | | Joarib;Jarib | * | + |
+modin | Modin | Modin | * | P | Where Mattathias dwelt, and where he and his sons were buried in the sepulchres of their fathers (1 Maccabees 2:1, 2:70, 9:19, 13:25-30)
+john-m | John | Joannan;Caddis;John | 2:2,9:35,9:36,9:38 | M | The eldest son of Mattathias, "Joannan, called Caddis"; sent by Jonathan his brother to the Nabathites, he was taken by the children of Jambri (1 Maccabees 2:2, 9:35-38)
+simon-m | Simon | Simon;Thassi | * | M | A son of Mattathias, "Simon, called Thassi", "a man of counsel"; after Jonathan he was made high priest, captain and governor of the Jews; slain at Jericho by Ptolemee the son of Abubus (1 Maccabees 2:3, 2:65, 13:8, 14:41-47, 16:14-16)
+judas-m | Judas | Judas;Maccabeus | !11:70,!16:2,!16:9,!16:14 | M | A son of Mattathias, "Judas, who was called Maccabeus", captain of the host after his father; he cleansed the sanctuary and fell in battle against Bacchides (1 Maccabees 2:4, 2:66, 3:1, 4:36-59, 9:18)
+eleazar-av | Eleazar | Eleazar;Avaran | 2:5 | M | A son of Mattathias, "Eleazar, called Avaran" (1 Maccabees 2:5)
+jonathan-ap | Jonathan | Jonathan;Apphus | !4:30,!13:11 | M | A son of Mattathias, "Jonathan, whose surname was Apphus", governor and captain after Judas, then high priest; taken by Tryphon at Ptolemais and slain at Bascama (1 Maccabees 2:5, 9:30-31, 10:20, 12:48, 13:23)
+gentiles | | Gentiles | * | + |
+jews | | Jews | * | + |
+phinehas | | Phinees | * | + |
+zimri | | Zambri | * | + |
+salu | | Salom | * | + |
+assideans | Assideans | Assideans | * | G | "A company of Assideans, who were mighty men of Israel, even all such as were voluntarily devoted unto the law"; "the first among the children of Israel that sought peace" of Bacchides and Alcimus (1 Maccabees 2:42, 7:13)
+abraham | | Abraham | * | + |
+joseph | | Joseph | 2:53 | + |
+joshua | | Jesus | * | + |
+caleb | | Caleb | * | + |
+elijah | | Elias | * | + |
+hananiah-dn | | Ananias | * | + |
+azariah-dn | | Azarias | 2:59 | + |
+mishael-dn | | Misael | * | + |
+daniel-p | | Daniel | * | + |
+# The wars of Judas
+apollonius-s | Apollonius | Apollonius | 3:10,3:12 | M | Who gathered the Gentiles and "a great host out of Samaria" against Israel; Judas slew him and took his sword (1 Maccabees 3:10-12)
+samaria | | Samaria | * | + |
+seron | Seron | Seron | * | M | "A prince of the army of Syria", overthrown by Judas at Beth-horon (1 Maccabees 3:13-24)
+syria | | Syria | * | + |
+beth-horon | | Beth-horon | * | + |
+philistines | | Philistines | * | + |
+persia | | Persia | * | + |
+lysias | Lysias | Lysias | * | M | "A nobleman, and one of the blood royal", left by Antiochus Epiphanes to oversee the king's affairs and bring up his son; taken with the young Antiochus by Demetrius' forces (1 Maccabees 3:32-33, 6:17, 7:2)
+euphrates | | Euphrates | * | + |
+antiochus-u | Antiochus | Antiochus;Eupator | 3:33,6:15,6:17,6:55,7:2 | M | The son of Antiochus Epiphanes, brought up by Lysias, who "set up Antiochus his son ... to reign in his stead, and his name he called Eupator"; taken by the forces of Demetrius (1 Maccabees 3:33, 6:15-17, 7:2)
+antioch | | Antioch | * | + |
+ptolemee-d | Ptolemee | Ptolemee | 3:38 | M | "Ptolemee the son of Dorymenes", one of the "mighty men of the king's friends" chosen by Lysias (1 Maccabees 3:38)
+dorymenes | Dorymenes | Dorymenes | * | M | The father of Ptolemee (1 Maccabees 3:38)
+nicanor-3 | Nicanor | Nicanor | 3:38 | M | One of the "mighty men of the king's friends" chosen by Lysias with Ptolemee and Gorgias (1 Maccabees 3:38)
+gorgias | Gorgias | Gorgias | * | M | One of the "mighty men of the king's friends" chosen by Lysias; he came by night to Judas' camp at Emmaus (1 Maccabees 3:38, 4:1-18, 5:59)
+emmaus | Emmaus | Emmaus | * | P | Where the king's army pitched "in the plain country"; one of the strong cities Bacchides repaired (1 Maccabees 3:40, 3:57, 4:3, 9:50)
+maspha-j | Maspha | Maspha | 3:46 | P | "Over against Jerusalem; for in Maspha was the place where they prayed aforetime in Israel" (1 Maccabees 3:46)
+maspha-g | Maspha | Maspha | 5:35 | P | Which Judas assaulted and took, and "slew all the males therein" (1 Maccabees 5:35)
+nazarite | | Nazarites | * | + |
+pharaoh-e | | Pharaoh | * | + |
+gazara | Gazara | Gazera;Gazara | * | P | A city unto which Judas pursued the enemy; fortified by Bacchides; Simon won it, and John his son dwelt there (1 Maccabees 4:15, 7:45, 9:52, 13:53, 14:7, 14:34, 16:1)
+idumea | | Idumea | * | + |
+azotus | | Azotus | * | + |
+jamnia | Jamnia | Jamnia | * | P | Unto the plains of which Judas pursued the enemy; where Apollonius and Cendebeus camped (1 Maccabees 4:15, 5:58, 10:69, 15:40)
+bethsura | Bethsura | Bethsura | * | P | A city "that lieth upon the borders of Judea", fortified "that the people might have a defence against Idumea" (1 Maccabees 4:29, 4:61, 6:31, 14:33)
+saul-k | | Saul | * | + |
+jonathan-s | | Jonathan | 4:30 | + |
+antiochia | Antiochia | Antiochia | * | P | Whither Lysias went to gather a company of strangers, and where Philip was master of the city (1 Maccabees 4:35, 6:63)
+judea | | Judea | * | + |
+sion-z | | Sion | * | + |
+esau | | Esau | * | + |
+arabattine | Arabattine | Arabattine | * | P | In Idumea, where Judas fought against the children of Esau (1 Maccabees 5:3)
+bean | Bean | Bean | * | G | "The children of Bean, who had been a snare and an offence unto the people", whose towers Judas burned (1 Maccabees 5:4-5)
+ammon | | Ammon | * | + |
+timotheus | Timotheus | Timotheus | * | M | The captain of the children of Ammon and of the host in Galaad, put to flight by Judas (1 Maccabees 5:6, 5:11, 5:34-44)
+jazar | Jazar | Jazar | * | P | Taken by Judas, "with the towns belonging thereto" (1 Maccabees 5:8)
+gilead | | Galaad | * | + |
+dathema | Dathema | Dathema | * | P | The fortress in Galaad to which the Israelites fled (1 Maccabees 5:9)
+tobie | Tobie | Tobie | * | P | "The places of Tobie", where the brethren were put to death (1 Maccabees 5:13)
+galilee | | Galilee | * | + |
+ptolemais | | Ptolemais | * | + |
+tyre | | Tyrus | * | + |
+sidon-place | | Sidon | * | + |
+joseph-z | Joseph | Joseph | 5:18,5:56,5:60 | M | "Joseph the son of Zacharias", left with Azarias as captain of the people in Judea; against Judas' charge they went to fight at Jamnia and were put to flight (1 Maccabees 5:18-19, 5:55-62)
+zacharias-j | Zacharias | Zacharias | 5:18,5:56 | M | The father of Joseph the captain (1 Maccabees 5:18, 5:56)
+azarias-c | Azarias | Azarias | 5:18,5:56,5:60 | M | A captain of the people, left with Joseph the son of Zacharias in Judea (1 Maccabees 5:18-19, 5:56-60)
+arbattis | Arbattis | Arbattis | * | P | Whence Simon brought the Jews with their wives and children into Judea (1 Maccabees 5:23)
+jordan | | Jordan | * | + |
+nabathites | Nabathites | Nabathites | * | G | Who met Judas "in a peaceable manner"; Jonathan's friends, with whom he would leave the carriage (1 Maccabees 5:25, 9:35)
+bosora | Bosora | Bosora | * | P | A strong city of Galaad, won by Judas (1 Maccabees 5:26, 5:28)
+bosor | Bosor | Bosor | * | P | A strong city of Galaad, taken by Judas (1 Maccabees 5:26, 5:36)
+alema | Alema | Alema | * | P | One of the strong cities of Galaad (1 Maccabees 5:26)
+casphor | Casphor | Casphor | * | P | One of the strong cities of Galaad (1 Maccabees 5:26)
+maked | Maked | Maked | * | P | One of the strong cities of Galaad (1 Maccabees 5:26)
+carnaim | Carnaim | Carnaim | * | P | One of the strong cities of Galaad, whose temple Judas burned (1 Maccabees 5:26, 5:43-44)
+casphon | Casphon | Casphon | * | P | A city of Galaad taken by Judas (1 Maccabees 5:36)
+maged | Maged | Maged | * | P | A city of Galaad taken by Judas (1 Maccabees 5:36)
+raphon | Raphon | Raphon | * | P | Against which Timotheus encamped "beyond the brook" (1 Maccabees 5:37)
+arabians | | Arabians;Arabian | * | + |
+ephron-g | Ephron | Ephron | * | P | "A great city in the way as they should go, very well fortified", which Judas took (1 Maccabees 5:46-51)
+bethsan | Bethsan | Bethsan | * | P | Before which lay the great plain over Jordan; where Tryphon came to meet Jonathan (1 Maccabees 5:52, 12:40-41)
+hebron | | Hebron | * | + |
+# The death of Epiphanes and the reign of Eupator
+elymais | | Elymais | * | + |
+babylon | | Babylon | * | + |
+philip-f | Philip | Philip | 6:14,6:55,6:63 | M | "One of his friends, whom he made ruler over all his realm", appointed by Antiochus Epiphanes to bring up his son; he held Antiochia and was taken by the king (1 Maccabees 6:14-15, 6:55-63)
+bathzacharias | Bathzacharias | Bathzacharias | * | P | Where Judas pitched "over against the king's camp" (1 Maccabees 6:32-33)
+indians | Indians | Indian | * | G | "The Indian that ruled" each elephant of the king's host (1 Maccabees 6:37)
+eleazar-s | Eleazar | Eleazar;Savaran | 6:43 | M | "Eleazar also, surnamed Savaran", who slew the king's elephant and was crushed beneath it (1 Maccabees 6:43-46)
+media | | Media | * | + |
+# Demetrius the son of Seleucus
+demetrius-1 | Demetrius | Demetrius | 7:1,7:4,8:31,9:1,10:2,10:3,10:15,10:22,10:25,10:48,10:49,10:50,10:52,10:67,15:1 | M | "Demetrius the son of Seleucus", who came from Rome and reigned; he sent Bacchides, Alcimus and Nicanor against Judea; slain in battle with Alexander (1 Maccabees 7:1-9, 9:1, 10:48-50)
+seleucus | Seleucus | Seleucus | * | M | The father of Demetrius (1 Maccabees 7:1)
+alcimus | Alcimus | Alcimus | * | M | "Desirous to be high priest", captain of the ungodly men of Israel, whom Demetrius made high priest; he died plagued, with his mouth stopped (1 Maccabees 7:5-25, 9:54-56)
+bacchides | Bacchides | Bacchides | * | M | "A friend of the king, who ruled beyond the flood", sent by Demetrius against Judea; Judas fell in battle against him (1 Maccabees 7:8, 9:1-18, 9:50-72)
+aaron | | Aaron | * | + |
+bezeth | Bezeth | Bezeth | * | P | Where Bacchides pitched his tents (1 Maccabees 7:19)
+nicanor | Nicanor | Nicanor | 7:26,7:27,7:31,7:32,7:33,7:39,7:43,7:44,7:47,9:1 | M | "One of his honourable princes, a man that bare deadly hate unto Israel", sent by Demetrius; slain on the thirteenth day of Adar, and his head and right hand hanged up (1 Maccabees 7:26-49)
+capharsalama | Capharsalama | Capharsalama | * | P | Beside which Nicanor went out to fight against Judas (1 Maccabees 7:31)
+adasa | Adasa | Adasa | * | P | Where Judas pitched with three thousand men and prayed (1 Maccabees 7:40, 7:45)
+assyrians | | Assyrians | * | + |
+adar-month | | Adar | * | + |
+# The Romans
+romans | | Romans | * | + |
+galatians | | Galatians | * | + |
+spain | | Spain | * | + |
+philip-k | Philip | Philip | 8:5 | M | A king discomfited in battle by the Romans (1 Maccabees 8:5)
+perseus | Perseus | Perseus | * | M | "King of the Citims", discomfited by the Romans (1 Maccabees 8:5)
+citims | Citims | Citims | * | G | Whose king was Perseus (1 Maccabees 8:5)
+antiochus-g | Antiochus | Antiochus | 8:6 | M | "Antiochus the great king of Asia", discomfited by the Romans, who "took him alive" (1 Maccabees 8:6-7)
+asia | | Asia | * | + |
+india | | India | * | + |
+lydia | | Lydia | * | + |
+eumenes | Eumenes | Eumenes | * | M | A king, to whom the Romans gave countries taken from Antiochus (1 Maccabees 8:8)
+eupolemus | Eupolemus | Eupolemus | * | M | "Eupolemus the son of John, the son of Accos", sent by Judas to Rome (1 Maccabees 8:17)
+john-e | John | John | 8:17 | M | The father of Eupolemus, the son of Accos (1 Maccabees 8:17)
+accos | Accos | Accos | * | M | The grandfather of Eupolemus (1 Maccabees 8:17)
+jason-e | Jason | Jason | 8:17 | M | "Jason the son of Eleazar", sent by Judas to Rome with Eupolemus (1 Maccabees 8:17)
+eleazar-jn | Eleazar | Eleazar | 8:17 | M | The father of Jason (1 Maccabees 8:17)
+# Jonathan
+galgala | Galgala | Galgala | * | P | The way by which Bacchides and Alcimus went (1 Maccabees 9:2)
+masaloth | Masaloth | Masaloth | * | P | "Masaloth, which is in Arbela", won by Bacchides (1 Maccabees 9:2)
+arbela | Arbela | Arbela | * | P | In which Masaloth lay (1 Maccabees 9:2)
+berea | Berea | Berea | * | P | Whither Bacchides removed with twenty thousand footmen (1 Maccabees 9:4)
+eleasa | Eleasa | Eleasa | * | P | Where Judas pitched his tents before his last battle (1 Maccabees 9:5)
+thecoe | Thecoe | Thecoe | * | P | Into whose wilderness Jonathan and his company fled (1 Maccabees 9:33)
+asphar | Asphar | Asphar | * | P | "The pool Asphar" in the wilderness of Thecoe (1 Maccabees 9:33)
+jambri | Jambri | Jambri | * | G | "The children of Jambri", who came out of Medaba and took John (1 Maccabees 9:36-41)
+medaba | Medaba | Medaba | * | P | Out of which the children of Jambri came (1 Maccabees 9:36)
+nadabatha | Nadabatha | Nadabatha | * | P | Whence the children of Jambri brought the bride (1 Maccabees 9:37)
+canaan-land | | Canaan | * | + |
+jericho | | Jericho | * | + |
+beth-el | | Bethel | * | + |
+thamnatha | Thamnatha | Thamnatha | * | P | A strong city in Judea which Bacchides repaired (1 Maccabees 9:50)
+pharathoni | Pharathoni | Pharathoni | * | P | A strong city in Judea which Bacchides repaired (1 Maccabees 9:50)
+taphon | Taphon | Taphon | * | P | A strong city in Judea which Bacchides repaired (1 Maccabees 9:50)
+bethbasi | Bethbasi | Bethbasi | * | P | "In the wilderness", whither Jonathan and Simon got them away (1 Maccabees 9:62-64)
+odonarkes | Odonarkes | Odonarkes | * | M | Smitten by Simon "and his brethren" (1 Maccabees 9:66)
+phasiron | Phasiron | Phasiron | * | G | "The children of Phasiron", smitten in their tent (1 Maccabees 9:66)
+machmas | Machmas | Machmas | * | P | Where Jonathan dwelt and began to govern the people (1 Maccabees 9:73)
+# Alexander the son of Epiphanes
+alexander-b | Alexander | Alexander | !1:1,!1:7,!6:2 | M | "Alexander, the son of Antiochus surnamed Epiphanes", who took Ptolemais and reigned; he made Jonathan high priest and married Cleopatra; he fled into Arabia, where Zabdiel took off his head (1 Maccabees 10:1, 10:20, 10:58, 11:15-17)
+ptolemee-k | Ptolemee | Ptolemee | 10:51,10:55,10:57,11:3,11:8,11:13,11:15,11:16,11:17,11:18 | M | "Ptolemee king of Egypt", who gave his daughter Cleopatra to Alexander, then took her from him and gave her to Demetrius; he set "the crown of Asia, and of Egypt" on his head and died the third day after Alexander (1 Maccabees 10:51-58, 11:1-18)
+cleopatra-p | Cleopatra | Cleopatra | * | F | The daughter of Ptolemee king of Egypt, married to king Alexander at Ptolemais; her father took her from him and gave her to Demetrius (1 Maccabees 10:57-58, 11:9-12)
+demetrius-2 | Demetrius | Demetrius | 10:67,10:69,11:9,11:12,11:19,11:30,11:32,11:38,11:39,11:40,11:41,11:42,11:52,11:55,11:63,12:24,12:34,13:34,13:35,13:36,14:1,14:2,14:3,14:38,15:22 | M | "Demetrius son of Demetrius", who came out of Crete and reigned; taken in Media by a prince of Arsaces and "put in ward" (1 Maccabees 10:67, 11:19, 14:1-3)
+crete | | Crete | * | + |
+apollonius-c | Apollonius | Apollonius | 10:69,10:74,10:75,10:77,10:79 | M | "The governor of Celosyria", made general by Demetrius; overthrown by Jonathan near Azotus (1 Maccabees 10:69-85)
+celosyria | | Celosyria | * | + |
+joppa | | Joppe | * | + |
+beth-dagon | | Beth-dagon | * | + |
+dagon | | Dagon | * | + |
+ashkelon | | Ascalon | * | + |
+accaron | Accaron | Accaron | * | P | Given to Jonathan "with the borders thereof in possession" (1 Maccabees 10:89)
+eleutherus | Eleutherus | Eleutherus | * | P | "The river called Eleutherus" (1 Maccabees 11:7, 12:30)
+seleucia | | Seleucia | * | + |
+cilicia | | Cilicia | * | + |
+arabia | | Arabia | * | + |
+zabdiel-a | Zabdiel | Zabdiel | * | M | "Zabdiel the Arabian", who "took off Alexander's head, and sent it unto Ptolemee" (1 Maccabees 11:17)
+lasthenes | Lasthenes | Lasthenes | * | M | Whom king Demetrius called "our cousin" and "his father" in his letters (1 Maccabees 11:31-32)
+apherema | Apherema | Apherema | * | P | One of the three governments added unto Judea from the country of Samaria (1 Maccabees 11:34)
+lod | | Lydda | * | + |
+ramathem | Ramathem | Ramathem | * | P | One of the three governments added unto Judea from the country of Samaria (1 Maccabees 11:34)
+tryphon | Tryphon | Tryphon | * | M | "One Tryphon, that had been of Alexander's part afore", who set up the young Antiochus, took Jonathan by deceit at Ptolemais, slew him, and slew the young king (1 Maccabees 11:39, 11:54, 12:39-48, 13:23, 13:31)
+simalcue | Simalcue | Simalcue | * | M | "Simalcue the Arabian, that brought up Antiochus the young son of Alexander" (1 Maccabees 11:39)
+antiochus-y | Antiochus | Antiochus | 11:39,11:40,11:54,11:57,12:39,13:31 | M | "Antiochus the young son of Alexander", crowned by Tryphon; he confirmed Jonathan in the high priesthood; Tryphon "dealt deceitfully with the young king Antiochus, and slew him" (1 Maccabees 11:39-40, 11:54-57, 13:31)
+gaza | | Gaza | * | + |
+damascus | | Damascus | * | + |
+cades | Cades | Cades | * | P | "Cades, which is in Galilee", where Demetrius' princes came with a great power (1 Maccabees 11:63, 11:73)
+gennesar | Gennesar | Gennesar | * | P | "The water of Gennesar", where Jonathan pitched (1 Maccabees 11:67)
+nasor | Nasor | Nasor | * | P | "The plain of Nasor" (1 Maccabees 11:67)
+mattathias-ab | Mattathias | Mattathias | 11:70 | M | "Mattathias the son of Absalom", one of the captains of the host who stood with Jonathan (1 Maccabees 11:70)
+absalom-m | Absalom | Absalom | 11:70 | M | The father of Mattathias the captain (1 Maccabees 11:70)
+judas-c | Judas | Judas | 11:70 | M | "Judas the son of Calphi", one of the captains of the host who stood with Jonathan (1 Maccabees 11:70)
+calphi | Calphi | Calphi | * | M | The father of Judas the captain (1 Maccabees 11:70)
+# The letters to the Lacedemonians
+lacedemonians | Lacedemonians | Lacedemonians | * | G | To whom Jonathan and Simon wrote as brethren; "the Lacedemonians and Jews are brethren, and ... they are of the stock of Abraham" (1 Maccabees 12:2-23, 14:20-23)
+onias-hp | Onias | Onias | * | M | "Onias the high priest", to whom letters were sent from Darius, and from the king of the Lacedemonians (1 Maccabees 12:7-8, 12:20)
+darius-s | Darius | Darius | 12:7 | M | Who "reigned then" among the Lacedemonians and sent letters unto Onias the high priest (1 Maccabees 12:7)
+numenius | Numenius | Numenius | * | M | "Numenius the son of Antiochus", an ambassador of the Jews to Rome and to the Lacedemonians (1 Maccabees 12:16, 14:22, 14:24, 15:15)
+antiochus-n | Antiochus | Antiochus | 12:16,14:22 | M | The father of Numenius the ambassador (1 Maccabees 12:16, 14:22)
+antipater | Antipater | Antipater | * | M | "Antipater the son of Jason", an ambassador of the Jews (1 Maccabees 12:16, 14:22)
+jason-a | Jason | Jason | 12:16,14:22 | M | The father of Antipater the ambassador (1 Maccabees 12:16, 14:22)
+oniares | Oniares | Oniares | * | M | Who sent the letters copied in 1 Maccabees 12:19-23 (1 Maccabees 12:19)
+amathis | Amathis | Amathis | * | P | "The land of Amathis", where Jonathan met Demetrius' princes (1 Maccabees 12:25)
+zabadeans | Zabadeans | Zabadeans | * | G | "The Arabians, who were called Zabadeans", smitten by Jonathan (1 Maccabees 12:31)
+caphenatha | Caphenatha | Caphenatha | * | P | A part of the wall of Jerusalem on the east side, which they repaired (1 Maccabees 12:37)
+adida | Adida | Adida | * | P | "Adida in Sephela", which Simon set up and made strong (1 Maccabees 12:38, 13:13)
+sephela | Sephela | Sephela | * | P | In which Adida lay (1 Maccabees 12:38)
+# Simon
+jonathan-ab | Jonathan | Jonathan | 13:11 | M | "Jonathan the son of Absalom", sent by Simon with a great power to Joppe (1 Maccabees 13:11)
+absalom-j | Absalom | Absalom | 13:11 | M | The father of Jonathan whom Simon sent to Joppe (1 Maccabees 13:11)
+adora | Adora | Adora | * | P | The way by which Tryphon went round about (1 Maccabees 13:20)
+bascama | Bascama | Bascama | * | P | Where Tryphon slew Jonathan, "who was buried there" (1 Maccabees 13:23)
+john-h | John | John | 13:53,16:1,16:2,16:9,16:19,16:21,16:23 | M | The son of Simon, "a valiant man", made captain of all the hosts; he dwelt in Gazara and smote Cendebeus (1 Maccabees 13:53, 16:1-10, 16:19-23)
+arsaces | Arsaces | Arsaces | * | M | "The king of Persia and Media", whose prince took Demetrius and put him in ward (1 Maccabees 14:2-3, 15:22)
+sparta | Sparta | Sparta | * | P | As far as which the death of Jonathan was heard (1 Maccabees 14:16)
+elul-month | | Elul | * | + |
+saramel | Saramel | Saramel | * | P | Where the great congregation of the priests, people and rulers met (1 Maccabees 14:28)
+antiochus-d | Antiochus | Antiochus | 15:1,15:2,15:10,15:11,15:13,15:25 | M | "Antiochus son of Demetrius the king", who wrote from the isles of the sea unto Simon, pursued Tryphon and besieged him in Dora (1 Maccabees 15:1-14, 15:25-27)
+dora | Dora | Dora | * | P | "Which lieth by the sea side", whither Tryphon fled and where Antiochus besieged him (1 Maccabees 15:11-13, 15:25)
+lucius | Lucius | Lucius | * | M | "Consul of the Romans", who wrote unto king Ptolemee (1 Maccabees 15:16)
+ptolemee-15 | Ptolemee | Ptolemee | 15:16 | M | The king to whom Lucius the consul wrote for the Jews (1 Maccabees 15:16)
+attalus | Attalus | Attalus | * | M | A king to whom the Romans wrote for the Jews (1 Maccabees 15:22)
+ariarathes | Ariarathes | Ariarathes | * | M | A king to whom the Romans wrote for the Jews (1 Maccabees 15:22)
+sampsames | Sampsames | Sampsames | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+delus | Delus | Delus | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+myndus | Myndus | Myndus | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+sicyon | Sicyon | Sicyon | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+caria | Caria | Caria | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+samos | | Samos | * | + |
+pamphylia | | Pamphylia | * | + |
+lycia | | Lycia | * | + |
+halicarnassus | Halicarnassus | Halicarnassus | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+rhodus | | Rhodus | * | + |
+phaselis | Phaselis | Phaselis | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+cos | | Cos | * | + |
+aradus | Aradus | Aradus | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+gortyna | Gortyna | Gortyna | * | P | Named among the countries the Romans wrote unto (1 Maccabees 15:23)
+cnidus | | Cnidus | * | + |
+cyprus | | Cyprus | * | + |
+cyrene | | Cyrene | * | + |
+athenobius | Athenobius | Athenobius | * | M | "One of his friends", sent by king Antiochus to Simon to demand Joppe and Gazara (1 Maccabees 15:28-36)
+orthosias | Orthosias | Orthosias | * | P | Unto which Tryphon fled by ship (1 Maccabees 15:37)
+cendebeus | Cendebeus | Cendebeus | * | M | Made by king Antiochus "captain of the sea coast"; he built up Cedron and invaded Judea, and was put to flight by Judas and John the sons of Simon (1 Maccabees 15:38-41, 16:1-10)
+cedron | Cedron | Cedron | * | P | Which Cendebeus built up and fortified (1 Maccabees 15:39, 15:41, 16:9)
+judas-h | Judas | Judas | 16:2,16:9,16:14 | M | One of the "two eldest sons" of Simon, wounded in the battle with Cendebeus; slain with his father at Docus (1 Maccabees 16:2, 16:9, 16:14-16)
+ptolemee-a | Ptolemee | Ptolemee;Ptolemeus | 16:11,16:16,16:18,16:21 | M | "Ptolemeus the son of Abubus", captain in the plain of Jericho, son in law of the high priest; he slew Simon and his two sons at a banquet in Docus (1 Maccabees 16:11-22)
+abubus | Abubus | Abubus | * | M | The father of Ptolemee who slew Simon (1 Maccabees 16:11, 16:15)
+mattathias-h | Mattathias | Mattathias | 16:14 | M | A son of Simon, slain with his father at Docus (1 Maccabees 16:14-16)
+sebat | | Sabat | * | + |
+docus | Docus | Docus | * | P | "A little hold, called Docus", built by the son of Abubus, where Simon was slain (1 Maccabees 16:15)
