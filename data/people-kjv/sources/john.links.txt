@@ -1,0 +1,7 @@
+# John. child < father | verses | note | evidence | sources
+andrew ~ simon-p | 1:40,1:41,6:8 | "Andrew, Simon Peter's brother"; "He first findeth his own brother Simon"
+simon-p < jona-p | 1:42,21:15,21:16,21:17 | "Thou art Simon the son of Jona"; "Simon, son of Jonas"
+judas-i < simon-i | 6:71,12:4,13:2,13:26 | "Judas Iscariot the son of Simon"
+lazarus-b ~ martha | 11:1,11:2,11:5,11:39 | "Mary and her sister Martha"; "whose brother Lazarus was sick"; "Martha, the sister of him that was dead"
+lazarus-b ~ mary-b | 11:1,11:2 | "It was that Mary which anointed the Lord with ointment ... whose brother Lazarus was sick"
+mary-c = cleophas | 19:25 | "Mary the wife of Cleophas"

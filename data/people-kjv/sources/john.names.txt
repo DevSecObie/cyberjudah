@@ -1,0 +1,75 @@
+# John. key | Name | forms | verses | type | description
+john-b | | John | * | + |
+moses | | Moses | * | + |
+jesus | | Jesus;Christ;Messias | * | + |
+jews | | Jews;Jew | * | + |
+levites | | Levites | * | + |
+jerusalem | | Jerusalem | * | + |
+elijah | | Elias | * | + |
+isaiah | | Esaias | * | + |
+pharisees | | Pharisees | * | + |
+bethabara | Bethabara | Bethabara | * | P | "Bethabara beyond Jordan, where John was baptizing" (John 1:28)
+jordan | | Jordan | * | + |
+israel-people | | Israel;Israelite | * | + |
+rabbi | | Rabbi | * | + |
+andrew | | Andrew | * | + |
+simon-p | | Simon;Peter;Cephas | !6:71=Simon,!12:4=Simon,!13:2=Simon,!13:26=Simon | + |
+jona-p | Jona | Jona;Jonas | * | M | The father of Simon Peter: "Thou art Simon the son of Jona"; "Simon, son of Jonas, lovest thou me?" (John 1:42, 21:15-17)
+galilee | | Galilee | * | + |
+philip-a | | Philip | * | + |
+bethsaida | | Bethsaida | * | + |
+nathanael | Nathanael | Nathanael | * | M | "Nathanael of Cana in Galilee", whom Philip brought to Jesus: "Behold an Israelite indeed, in whom is no guile!" (John 1:45-49, 21:2)
+nazareth | | Nazareth | * | + |
+joseph-m | | Joseph | 1:45,6:42 | + |
+joseph | | Joseph | 4:5 | + |
+cana | Cana | Cana | * | P | "Cana of Galilee", where Jesus turned water into wine (John 2:1-11, 4:46, 21:2)
+capernaum | | Capernaum | * | + |
+nicodemus | Nicodemus | Nicodemus | * | M | "A man of the Pharisees, named Nicodemus, a ruler of the Jews", who came to Jesus by night, and brought myrrh and aloes for his burial (John 3:1-10, 7:50, 19:39)
+judea | | Judea | * | + |
+salim | Salim | Salim | * | P | "Ænon near to Salim", where John was baptizing (John 3:23)
+samaria | | Samaria | * | + |
+sychar | Sychar | Sychar | * | P | "A city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph" (John 4:5)
+jacob | | Jacob | * | + |
+samaritans | | Samaritans;Samaritan | * | + |
+galileans | | Galileans | * | + |
+hebrew | | Hebrew | * | + |
+bethesda | Bethesda | Bethesda | * | P | "A pool, which is called in the Hebrew tongue Bethesda, having five porches" (John 5:2)
+tiberias | Tiberias | Tiberias | * | P | "The sea of Tiberias" (John 6:1, 6:23, 21:1)
+judas-i | | Judas;Iscariot | !14:22=Judas | + |
+simon-i | Simon | Simon | 6:71,12:4,13:2,13:26 | M | The father of Judas Iscariot (John 6:71, 12:4, 13:2, 13:26)
+judas-j | | Judas | 14:22 | + |
+jewry | | Jewry | * | + |
+gentiles | | Gentiles | * | + |
+david | | David | * | + |
+beth-lehem | | Bethlehem | * | + |
+abraham | | Abraham | * | + |
+siloam | | Siloam | * | + |
+solomon | | Solomon | * | + |
+lazarus-b | Lazarus | Lazarus | * | M | "A certain man ... named Lazarus, of Bethany, the town of Mary and her sister Martha", whom Jesus loved and raised from the dead after four days (John 11:1-44, 12:1-17)
+bethany | | Bethany | * | + |
+mary-b | | Mary | 11:1,11:2,11:19,11:20,11:28,11:31,11:32,11:45,12:3 | + |
+martha | | Martha | * | + |
+thomas | | Thomas;Didymus | * | + |
+romans | Romans | Romans | * | G | "The Romans shall come and take away both our place and nation" (John 11:48)
+caiaphas | | Caiaphas | * | + |
+ephraim-c | Ephraim | Ephraim | * | P | "A city called Ephraim", near to the wilderness (John 11:54)
+hosanna | | Hosanna | * | + |
+sion-z | | Sion | * | + |
+grecians | | Greeks;Greek | * | + |
+satan | | Satan | * | + |
+kidron | | Cedron | * | + |
+malchus | Malchus | Malchus | * | M | "The high priest's servant", whose right ear Simon Peter cut off (John 18:10)
+annas | | Annas | * | + |
+pilate | | Pilate | * | + |
+barabbas | | Barabbas | * | + |
+cesar | | Cesar | * | + |
+gabbatha | Gabbatha | Gabbatha | * | P | "The Pavement, but in the Hebrew, Gabbatha" (John 19:13)
+golgotha | | Golgotha | * | + |
+latin | | Latin | * | + |
+mary-c | Mary | Mary | 19:25 | F | "Mary the wife of Cleophas", who stood by the cross of Jesus (John 19:25)
+cleophas | Cleophas | Cleophas | * | M | The husband of Mary who stood by the cross (John 19:25)
+mary-m | | Mary;Magdalene | 19:25,20:1,20:11,20:16,20:18 | + |
+joseph-ar | | Joseph | 19:38 | + |
+arimathea | | Arimathea | * | + |
+rabboni | Rabboni | Rabboni | * | X | "Rabboni; which is to say, Master" (John 20:16); not a person in People
+zebedee | | Zebedee | * | + |

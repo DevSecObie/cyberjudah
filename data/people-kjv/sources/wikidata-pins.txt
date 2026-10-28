@@ -216,3 +216,7 @@ trachonitis | Q826132 | 32.9695 | 36.4554 | Lajat
 siloam | Q3960568 | 31.7701 | 35.2362 | Siloam
 calvary | Q170516 | 31.7786 | 35.2294 | Calvary
 emmaus-l | Q165887 | 31.8393 | 34.9895 | Emmaus
+bethabara | Q2617848 | 31.8369 | 35.5472 | Bethabara
+cana | Q431382 | 32.745 | 35.3383 | Cana
+tiberias | Q151920 | 32.7897 | 35.5247 | Tiberias
+gabbatha | Q591994 | 31.7804 | 35.2335 | Gabbatha
