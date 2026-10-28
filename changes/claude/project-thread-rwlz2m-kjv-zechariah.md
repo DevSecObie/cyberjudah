@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Zechariah added (12 new people incl. Berechiah, Heldai, Tobijah, Jedaiah, Josiah son of Zephaniah, Sherezer, Regem-melech, the families of Nathan and Shimei; 4 places: Hadrach, Greece, Hadadrimmon, Azal; Greece and Azal pinned to Wikidata).
