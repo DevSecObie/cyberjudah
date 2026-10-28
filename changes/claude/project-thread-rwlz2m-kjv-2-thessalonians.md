@@ -1,0 +1,1 @@
+- 2 Thessalonians: no new records; adds 2 Thessalonians verses to Paul, Jesus, Silvanus, Timotheus, the Thessalonians, Satan and Athens.
