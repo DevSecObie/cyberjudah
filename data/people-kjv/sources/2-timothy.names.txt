@@ -1,0 +1,44 @@
+# 2 Timothy. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+timothy | | Timothy;Timotheus | * | + |
+lois | Lois | Lois | * | F | Timothy's grandmother, in whom "the unfeigned faith" dwelt first (2 Timothy 1:5)
+eunice | Eunice | Eunice | * | F | Timothy's mother, in whom the unfeigned faith dwelt (2 Timothy 1:5)
+gentiles | | Gentiles | * | + |
+asia | | Asia | * | + |
+phygellus | Phygellus | Phygellus | * | M | Of them in Asia that were "turned away from me" (2 Timothy 1:15)
+hermogenes | Hermogenes | Hermogenes | * | M | Of them in Asia that were "turned away from me" (2 Timothy 1:15)
+onesiphorus | Onesiphorus | Onesiphorus | * | M | "He oft refreshed me, and was not ashamed of my chain: but, when he was in Rome, he sought me out very diligently, and found me" (2 Timothy 1:16-18, 4:19)
+rome | | Rome | * | + |
+ephesus | | Ephesus | * | + |
+david | | David | * | + |
+hymeneus | | Hymeneus | * | + |
+philetus | Philetus | Philetus | * | M | "Hymeneus and Philetus; who concerning the truth have erred, saying that the resurrection is past already" (2 Timothy 2:17-18)
+jannes | Jannes | Jannes | * | M | "As Jannes and Jambres withstood Moses" (2 Timothy 3:8)
+jambres | Jambres | Jambres | * | M | "As Jannes and Jambres withstood Moses" (2 Timothy 3:8)
+moses | | Moses | * | + |
+antioch-p | | Antioch | * | + |
+iconium | | Iconium | * | + |
+lystra | | Lystra | * | + |
+demas | | Demas | * | + |
+thessalonica | | Thessalonica | * | + |
+crescens | Crescens | Crescens | * | M | Departed "to Galatia" (2 Timothy 4:10)
+galatia | | Galatia | * | + |
+titus | | Titus | * | + |
+dalmatia | Dalmatia | Dalmatia | * | P | Whither Titus departed (2 Timothy 4:10)
+luke | | Luke | * | + |
+tychicus | | Tychicus | * | + |
+troas | | Troas | * | + |
+carpus | Carpus | Carpus | * | M | "The cloke that I left at Troas with Carpus" (2 Timothy 4:13)
+alexander-cs | Alexander | Alexander | * | M | "Alexander the coppersmith did me much evil" (2 Timothy 4:14)
+priscilla | | Prisca | * | + |
+aquila | | Aquila | * | + |
+erastus-t | Erastus | Erastus | * | M | "Erastus abode at Corinth" (2 Timothy 4:20)
+corinth | | Corinth | * | + |
+trophimus | | Trophimus | * | + |
+miletus | | Miletum | * | + |
+pudens | Pudens | Pudens | * | M | Who greeted Timothy (2 Timothy 4:21)
+linus | Linus | Linus | * | M | Who greeted Timothy (2 Timothy 4:21)
+claudia | Claudia | Claudia | * | F | Who greeted Timothy (2 Timothy 4:21)
+ephesians | | Ephesians | * | + |
+nero | Nero | Nero | * | M | Before whom Paul was brought "the second time" (2 Timothy 4:22, subscription)

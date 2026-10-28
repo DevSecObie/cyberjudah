@@ -1,0 +1,1 @@
+- 2 Timothy: adds Lois, Eunice, Phygellus, Hermogenes, Onesiphorus, Philetus, Jannes, Jambres, Crescens, Carpus, Alexander the coppersmith, Erastus (4:20), Pudens, Linus, Claudia and Nero, and Dalmatia pinned from Wikidata.
