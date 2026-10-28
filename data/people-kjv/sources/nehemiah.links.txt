@@ -137,3 +137,12 @@ zaccur-m < mattaniah-13 | 13:13
 sanballat @ horonite | 2:10,2:19,13:28
 tobiah-a @ ammon | 2:10,2:19
 geshem @ arabians | 2:19
+# tribes the verse states
+kadmiel hashabiah-24 jeshua-km sherebiah-24 & levi | 12:24 | "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give ..."
+henadad binnui-h azaniah jeshua-az kadmiel-10 & levi | 10:9 | "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;"
+bani-3 rehum-b & levi | 3:17 | "After him repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part."
+bani-9a bani-9b bunni-9 chenani jeshua-9 kadmiel-9 shebaniah-9 sherebiah-9 & levi | 9:4 | "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice ..."
+bani-95 hashabniah-l hodijah-9 pethahiah-9 & levi | 9:5 | "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the Lord your God for ..."
+bunni-h & levi | 11:15 | "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
+ezra-z jeremiah-z12 seraiah-z12 & levi | 12:1 | "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,"
+pedaiah-l & levi | 13:13 | "And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the ..."

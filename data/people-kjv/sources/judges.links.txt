@@ -35,3 +35,5 @@ danites ^ dan | 18:1,18:2 | "the tribe of the Danites"; "the children of Dan" (1
 benjamites ^ benjamin | 20:35,20:36
 phinehas < eleazar | 20:28
 eleazar < aaron | 20:28
+# tribes the verse states
+gera-e & benjamin | 3:15 | "But when the children of Israel cried unto the Lord, the Lord raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by ..."

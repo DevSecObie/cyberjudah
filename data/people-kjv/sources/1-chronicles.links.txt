@@ -304,7 +304,7 @@ jobab-s zibia mesha-s malcham jeuz shachia mirma < shaharaim | 8:8,8:9,8:10
 jobab-s zibia mesha-s malcham jeuz shachia mirma << hodesh | 8:9,8:10
 abitub elpaal < shaharaim | 8:8,8:11
 abitub elpaal << hushim-w | 8:11
-eber-b misham < elpaal | 8:12
+eber-b misham shamed < elpaal | 8:12
 ahio-b shashak jeremoth-b zebadiah-b arad-b ader michael-b ispah joha-b < beriah-b | 8:14,8:15,8:16
 zebadiah-e meshullam-e hezeki heber-e ishmerai jezliah jobab-e < elpaal | 8:17,8:18
 jakim-s zichri-s zabdi-s elienai zilthai-s eliel-s adaiah-s beraiah shimrath < shimhi | 8:19,8:20,8:21
@@ -505,3 +505,18 @@ kushaiah == kishi | 15:17 | The father of Ethan the singer, of the sons of Merar
 elhanan-j == elhanan | 20:5 | "Elhanan the son of Jair slew Lahmi the brother of Goliath" (1 Chronicles 20:5); "Elhanan the son of Jaare-oregim, a Beth-lehemite, slew the brother of Goliath the Gittite" (2 Samuel 21:19) | parallel | Jewish Encyclopedia (1901-1906) vol. 5 p. 106, "Elhanan" no. 1 <https://archive.org/details/cu31924091768220/page/n137/mode/1up>
 jair-e == jaare-oregim | 20:5 | The father of Elhanan who slew Goliath's brother: "Jair" (1 Chronicles 20:5), "Jaare-oregim" (2 Samuel 21:19) | parallel | Jewish Encyclopedia (1901-1906) vol. 5 p. 106, "Elhanan" no. 1 <https://archive.org/details/cu31924091768220/page/n137/mode/1up>
 ornan == araunah | 21:15,21:18 | The Jebusite by whose threshingfloor the angel stood: "Ornan" (1 Chronicles 21:15-28), "Araunah" (2 Samuel 24:16-24) | parallel | Jewish Encyclopedia (1901-1906) vol. 2 p. 75, "Araunah": "Chronicles give the form Ornan" <https://archive.org/details/cu31924091768196/page/n112/mode/1up>
+jehoiarib-c ^ aaron | 24:1,24:7 | "These are the divisions of the sons of Aaron"; "the first lot came forth to Jehoiarib"
+# tribes the verse states
+sallu & benjamin | 9:7 | "And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,"
+shiza & reuben | 11:42 | "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,"
+adnah-m & manasseh | 12:20 | "As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of ..."
+elihu-d & judah | 27:18 | "Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:"
+omri-i & issachar | 27:18 | "Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:"
+ishmaiah & zebulun | 27:19 | "Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:"
+jerimoth-n & naphtali | 27:19 | "Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:"
+hoshea-a & ephraim | 27:20 | "Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:"
+joel-p & manasseh | 27:20 | "Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:"
+jaasiel & benjamin | 27:21 | "Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:"
+azareel-d & dan | 27:22 | "Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel."
+ahijah-l & levi | 26:20 | "And of the Levites, Ahijah was over the treasures of the house of God, and over the treasures of the dedicated things."
+hashabiah-k kemuel-l & levi | 27:17 | "Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:"

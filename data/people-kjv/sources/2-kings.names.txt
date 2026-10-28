@@ -285,3 +285,4 @@ elishama-n | Elishama | Elishama | * | M | Of the seed royal, the grandfather of
 evil-merodach | Evil-merodach | Evil-merodach | * | M | King of Babylon, who lifted up the head of Jehoiachin out of prison (2 Kings 25:27-30)
 # Seas and the mount of Olives, named in phrases
 salt-sea | | sea of the plain | * | + |
+so | So | So | 17:4 | M | "So king of Egypt", to whom Hoshea sent messengers (2 Kings 17:4)

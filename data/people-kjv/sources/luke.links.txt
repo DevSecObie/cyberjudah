@@ -64,3 +64,5 @@ judas-j ~ james-jd | 6:16 | "Judas the brother of James"
 joanna-c = chuza | 8:3 | "Joanna the wife of Chuza Herod's steward"
 mary-b ~ martha | 10:39 | "She had a sister called Mary"
 james-j << mary-j | 24:10 | "Mary the mother of James"
+# tribes the verse states
+phanuel & asher | 2:36 | "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven ..."

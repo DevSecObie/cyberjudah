@@ -1,0 +1,4 @@
+- People: Judas Maccabeus has his full name back, and the Maccabees' line runs through Jehoiarib to Aaron (1 Chronicles 24:1, 24:7; 1 Maccabees 2:1).
+- People: 801 people now show their tribe. 137 are stated in a verse; the rest follow the house of their fathers up to a son of Jacob, with every verse on that chain and the names in a note.
+- People: brothers and sisters now include children the text gives the same father or mother, with both verses (984 people).
+- People: Areus, Eubulus, I-chabod, So, Shamed, On, Ephod and Ox are added, each from the verse that names them.

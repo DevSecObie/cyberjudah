@@ -28,7 +28,7 @@ jehoiarib-c | | Joarib;Jarib | * | + |
 modin | Modin | Modin | * | P | Where Mattathias dwelt, and where he and his sons were buried in the sepulchres of their fathers (1 Maccabees 2:1, 2:70, 9:19, 13:25-30)
 john-m | John | Joannan;Caddis;John | 2:2,9:35,9:36,9:38 | M | The eldest son of Mattathias, "Joannan, called Caddis"; sent by Jonathan his brother to the Nabathites, he was taken by the children of Jambri (1 Maccabees 2:2, 9:35-38)
 simon-m | Simon | Simon;Thassi | * | M | A son of Mattathias, "Simon, called Thassi", "a man of counsel"; after Jonathan he was made high priest, captain and governor of the Jews; slain at Jericho by Ptolemee the son of Abubus (1 Maccabees 2:3, 2:65, 13:8, 14:41-47, 16:14-16)
-judas-m | Judas | Judas;Maccabeus | !11:70,!16:2,!16:9,!16:14 | M | A son of Mattathias, "Judas, who was called Maccabeus", captain of the host after his father; he cleansed the sanctuary and fell in battle against Bacchides (1 Maccabees 2:4, 2:66, 3:1, 4:36-59, 9:18)
+judas-m | Judas Maccabeus | Judas;Maccabeus;Judas Maccabeus | !11:70,!16:2,!16:9,!16:14 | M | A son of Mattathias, "Judas, who was called Maccabeus", captain of the host after his father; he cleansed the sanctuary and fell in battle against Bacchides (1 Maccabees 2:4, 2:66, 3:1, 4:36-59, 9:18)
 eleazar-av | Eleazar | Eleazar;Avaran | 2:5 | M | A son of Mattathias, "Eleazar, called Avaran" (1 Maccabees 2:5)
 jonathan-ap | Jonathan | Jonathan;Apphus | !4:30,!13:11 | M | A son of Mattathias, "Jonathan, whose surname was Apphus", governor and captain after Judas, then high priest; taken by Tryphon at Ptolemais and slain at Bascama (1 Maccabees 2:5, 9:30-31, 10:20, 12:48, 13:23)
 gentiles | | Gentiles | * | + |
@@ -260,3 +260,4 @@ sebat | | Sabat | * | + |
 docus | Docus | Docus | * | P | "A little hold, called Docus", built by the son of Abubus, where Simon was slain (1 Maccabees 16:15)
 # Seas and the mount of Olives, named in phrases
 red-sea | | Red sea | * | + |
+areus | Areus | Areus | 12:20 | M | "Areus king of the Lacedemonians", who wrote to Onias the high priest that the Jews and the Lacedemonians are brethren, of the stock of Abraham (1 Maccabees 12:20-21)

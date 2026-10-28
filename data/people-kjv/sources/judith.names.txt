@@ -132,3 +132,4 @@ chobai | Chobai | Chobai | * | P | To which Ozias sent word (Judith 15:4-5)
 cola | Cola | Cola | * | P | To which Ozias sent word (Judith 15:4)
 # Seas and the mount of Olives, named in phrases
 red-sea | | Red sea | * | + |
+ox | Ox | Ox | 8:1 | M | In the line of Judith, "Merari, the son of Ox, the son of Joseph" (Judith 8:1)

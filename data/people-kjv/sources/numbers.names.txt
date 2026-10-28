@@ -424,3 +424,5 @@ ammihud-n | Ammihud | Ammihud | 34:28 | M | Of the tribe of Naphtali, the father
 red-sea | | Red sea | * | + |
 salt-sea | | salt sea | * | + |
 great-sea | Great sea | great sea | * | P | "As for the western border, ye shall even have the great sea for a border" (Numbers 34:6); "unto the great sea toward the going down of the sun" (Joshua 1:4)
+on | On | On | 16:1 | M | "On, the son of Peleth", of the sons of Reuben, who rose up with Korah (Numbers 16:1)
+ephod | Ephod | Ephod | 34:23 | M | The father of Hanniel, prince of the tribe of Manasseh (Numbers 34:23)
