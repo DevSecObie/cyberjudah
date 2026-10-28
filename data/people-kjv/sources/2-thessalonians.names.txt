@@ -1,0 +1,8 @@
+# 2 Thessalonians. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+silvanus | | Silvanus | * | + |
+timothy | | Timotheus | * | + |
+thessalonians | | Thessalonians | * | + |
+satan | | Satan | * | + |
+athens | | Athens | * | + |
