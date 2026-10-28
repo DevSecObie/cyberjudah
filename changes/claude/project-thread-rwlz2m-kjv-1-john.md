@@ -1,0 +1,1 @@
+- 1 John: no new records; adds 1 John verses to Jesus and Cain.
