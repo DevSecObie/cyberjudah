@@ -1,0 +1,1 @@
+- 1 Peter: adds Silvanus (5:12) and Marcus "my son" (5:13), kept apart from the Pauline Silvanus and Marcus because the KJV does not join them; adds 1 Peter verses to Peter, Jesus, Pontus, Galatia, Cappadocia, Asia, Bithynia, Sion, the Gentiles, Sara, Abraham, Noah, Christians and Babylon.
