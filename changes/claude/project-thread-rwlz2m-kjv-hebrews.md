@@ -1,0 +1,1 @@
+- Hebrews: no new records; adds Hebrews verses to 35 existing records, from Abel, Enoch and Noah through Gedeon, Barak, Samson, Jephthae and Samuel, plus Melchisedec, Salem, Sion, Jerusalem and Italy.
