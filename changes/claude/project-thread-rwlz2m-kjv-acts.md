@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Acts added (89 new people incl. Matthias, Barnabas, Stephen and the seven, Paul, Cornelius, Silas, Timotheus, Lydia, Aquila and Priscilla, Apollos, Felix, Festus, Agrippa, Bernice; 7 under Other incl. Diana, Jupiter, Mercurius; 74 places, 62 pinned to Wikidata).

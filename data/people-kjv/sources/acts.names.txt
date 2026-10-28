@@ -1,0 +1,264 @@
+# Acts. key | Name | forms | verses | type | description
+theophilus | | Theophilus | * | + |
+jesus | | Jesus;Christ | * | + |
+jerusalem | | Jerusalem | * | + |
+john-b | | John | 1:5,1:22,10:37,11:16,13:24,13:25,18:25,19:3,19:4 | + |
+john-z | | John | 1:13,3:1,3:3,3:4,3:11,4:13,4:19,8:14,12:2 | + |
+israel-people | | Israel | * | + |
+judea | | Judea | * | + |
+samaria | | Samaria | * | + |
+galilee | | Galilee | * | + |
+olivet | | Olivet | * | + |
+simon-p | | Simon;Peter;Simeon | !1:13=Simon,!8:9=Simon,!8:13=Simon,!8:18=Simon,!8:24=Simon,!9:43=Simon,!10:6=Simon,!10:17=Simon,!13:1=Simeon | + |
+james-z | | James | 1:13,12:2 | + |
+james-a | | James | 1:13 | + |
+james-jd | | James | 1:13 | + |
+james-jr | James | James | 12:17,15:13,21:18 | M | The James to whom Peter sent word when he was delivered out of prison, who gave sentence at the council in Jerusalem, and with whom Paul went in unto the elders: "Go shew these things unto James, and to the brethren" (Acts 12:17, 15:13-21, 21:18)
+andrew | | Andrew | * | + |
+philip-a | | Philip | 1:13 | + |
+philip-e | Philip | Philip | !1:13 | M | One of the seven "men of honest report, full of the Holy Ghost and wisdom" chosen to serve tables; he preached Christ in Samaria and baptized the eunuch; "Philip the evangelist, which was one of the seven", who had "four daughters, virgins, which did prophesy" (Acts 6:3-5, 8:5-40, 21:8-9)
+thomas | | Thomas | * | + |
+bartholomew | | Bartholomew | * | + |
+matthew | | Matthew | * | + |
+alpheus | | Alpheus | * | + |
+simon-z | | Simon;Zelotes | 1:13 | + |
+simon-s | Simon | Simon | 8:9,8:13,8:18,8:24 | M | "A certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria"; he offered the apostles money for the Holy Ghost (Acts 8:9-24)
+simon-t | Simon | Simon | 9:43,10:6,10:17,10:32 | M | "One Simon a tanner, whose house is by the sea side" in Joppa, with whom Peter tarried many days (Acts 9:43, 10:6, 10:32)
+judas-j | | Judas | 1:13 | + |
+judas-i | | Judas | 1:16,1:25 | + |
+judas-g | Judas | Judas | 5:37 | M | "Judas of Galilee in the days of the taxing", who "drew away much people after him: he also perished" (Acts 5:37)
+judas-d | Judas | Judas | 9:11 | M | In whose house in the street called Straight, in Damascus, Saul was found (Acts 9:11)
+judas-bs | Judas | Judas;Barsabas | 15:22,15:27,15:32 | M | "Judas surnamed Barsabas", one of the "chief men among the brethren", a prophet, sent with Silas to Antioch with the letter of the council (Acts 15:22-32)
+mary | | Mary | 1:14 | + |
+john-mk | John | John | 12:12,12:25,13:5,13:13,15:37 | M | "John, whose surname was Mark", who went with Barnabas and Saul, and departed from them at Perga; Barnabas "took Mark, and sailed unto Cyprus" (Acts 12:12, 12:25, 13:5, 13:13, 15:37-39)
+mary-mk | Mary | Mary | 12:12 | F | "Mary the mother of John, whose surname was Mark; where many were gathered together praying" (Acts 12:12)
+david | | David | * | + |
+aceldama | Aceldama | Aceldama | * | P | "That field is called in their proper tongue, Aceldama, that is to say, The field of blood" (Acts 1:19)
+joseph-bs | Joseph | Joseph;Barsabas;Justus | 1:23 | M | "Joseph called Barsabas, who was surnamed Justus", appointed with Matthias when they chose one to take Judas's part (Acts 1:23)
+joseph | | Joseph | 7:9,7:13,7:14,7:18 | + |
+justus-c | Justus | Justus | 18:7 | M | "A certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue" at Corinth (Acts 18:7)
+matthias | Matthias | Matthias | * | M | Chosen by lot in the room of Judas, "and he was numbered with the eleven apostles" (Acts 1:23-26)
+pentecost | Pentecost | Pentecost | * | X | "When the day of Pentecost was fully come" (Acts 2:1, 20:16); "the feast of Pentecost, which is the holy feast of the seven weeks" (Tobit 2:1); not a person in People
+jews | | Jews;Jew;Jewess | * | + |
+galileans | | Galileans | * | + |
+medes | | Medes | * | + |
+elamites | | Elamites | * | + |
+mesopotamia | | Mesopotamia | * | + |
+cappadocia | Cappadocia | Cappadocia | * | P | Named among the dwellers that heard the apostles speak at Pentecost (Acts 2:9)
+pontus | Pontus | Pontus | * | P | Named among the dwellers that heard the apostles speak at Pentecost; Aquila was "born in Pontus" (Acts 2:9, 18:2)
+asia | Asia | Asia | * | P | Where Paul and Silas "were forbidden of the Holy Ghost to preach the word"; "all they which dwelt in Asia heard the word of the Lord Jesus" (Acts 16:6, 19:10); "Asia, that art partaker of the hope of Babylon" (2 Esdras 15:46)
+phrygia | Phrygia | Phrygia | * | P | Through which Paul went "strengthening all the disciples" (Acts 2:10, 16:6, 18:23)
+pamphylia | Pamphylia | Pamphylia | * | P | Whither Paul and Barnabas came from Paphos to Perga (Acts 13:13, 14:24); named among the countries the Romans wrote unto (1 Maccabees 15:23)
+egypt | | Egypt | * | + |
+libya | | Libya | * | + |
+cyrene | | Cyrene | * | + |
+rome | Rome | Rome | * | P | "So must thou bear witness also at Rome"; whither Paul came, and "dwelt two whole years in his own hired house" (Acts 23:11, 28:16-30); where Antiochus Epiphanes had been an hostage (1 Maccabees 1:10)
+arabians | | Arabians | * | + |
+joel-pr | | Joel | * | + |
+nazareth | | Nazareth | * | + |
+solomon | | Solomon | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | * | + |
+pilate | | Pilate;Pontius | * | + |
+moses | | Moses | * | + |
+samuel | | Samuel | * | + |
+sadducees | | Sadducees | * | + |
+annas | | Annas | * | + |
+caiaphas | | Caiaphas | * | + |
+john-k | John | John | 4:6 | M | One "of the kindred of the high priest", gathered with Annas and Caiaphas against Peter and John (Acts 4:6)
+alexander-k | Alexander | Alexander | 4:6 | M | One "of the kindred of the high priest", gathered with Annas and Caiaphas against Peter and John (Acts 4:6)
+alexander-e | Alexander | Alexander | 19:33 | M | Drawn out of the multitude at Ephesus, "the Jews putting him forward"; he "would have made his defence unto the people" (Acts 19:33-34)
+herod-t | | Herod | 4:27,13:1 | + |
+herod-a | Herod | Herod | 12:1,12:6,12:11,12:19,12:20,12:21 | M | "Herod the king", who "killed James the brother of John with the sword" and took Peter; arrayed in royal apparel, he made an oration, "and immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost" (Acts 12:1-23)
+herod-hall | Herod's judgment hall | Herod | 23:35 | P | At Cesarea: Felix "commanded him to be kept in Herod's judgment hall" (Acts 23:35); not a person in People
+gentiles | | Gentiles | * | + |
+barnabas | Barnabas | Joses;Barnabas | * | M | "Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus"; "a good man, and full of the Holy Ghost and of faith", who went with Paul (Acts 4:36, 11:24, 13:2)
+levites | | Levite | * | + |
+cyprus | Cyprus | Cyprus | * | P | Of which country Barnabas was; Barnabas and Saul preached at Salamis and Paphos in it (Acts 4:36, 13:4-6); named among the countries the Romans wrote unto (1 Maccabees 15:23)
+ananias-s | Ananias | Ananias | 5:1,5:3,5:5 | M | "A certain man named Ananias, with Sapphira his wife, sold a possession, and kept back part of the price"; he "fell down, and gave up the ghost" (Acts 5:1-5)
+ananias-d | Ananias | Ananias | 9:10,9:12,9:13,9:17,22:12 | M | "A certain disciple at Damascus, named Ananias", sent to put his hands on Saul; "a devout man according to the law, having a good report of all the Jews which dwelt there" (Acts 9:10-17, 22:12)
+ananias-hp | Ananias | Ananias | 23:2,24:1 | M | "The high priest Ananias", who commanded them to smite Paul on the mouth, and went down to Cesarea against him (Acts 23:2, 24:1)
+sapphira | Sapphira | Sapphira | * | F | The wife of Ananias, privy to his keeping back part of the price; "Then fell she down straightway at his feet, and yielded up the ghost" (Acts 5:1-10)
+satan | | Satan | * | + |
+pharisees | | Pharisee;Pharisees | * | + |
+gamaliel-p | Gamaliel | Gamaliel | * | M | "A Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people"; Paul was brought up "at the feet of Gamaliel" (Acts 5:34, 22:3)
+theudas | Theudas | Theudas | * | M | Who rose up "boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain" (Acts 5:36)
+grecians | | Grecians;Greeks;Greek | * | + |
+hebrew | | Hebrews;Hebrew | * | + |
+stephen | Stephen | Stephen | * | M | "A man full of faith and of the Holy Ghost", one of the seven; stoned by the council, "calling upon God, and saying, Lord Jesus, receive my spirit" (Acts 6:5, 7:59)
+prochorus | Prochorus | Prochorus | * | M | One of the seven chosen to serve tables (Acts 6:5)
+nicanor-d | Nicanor | Nicanor | * | M | One of the seven chosen to serve tables (Acts 6:5)
+timon | Timon | Timon | * | M | One of the seven chosen to serve tables (Acts 6:5)
+parmenas | Parmenas | Parmenas | * | M | One of the seven chosen to serve tables (Acts 6:5)
+nicolas | Nicolas | Nicolas | * | M | One of the seven chosen to serve tables, "a proselyte of Antioch" (Acts 6:5)
+antioch | Antioch | Antioch | !13:14,!14:19,!14:21 | P | Where "the disciples were called Christians first"; whence Paul and Barnabas were sent forth (Acts 11:26, 13:1-3, 14:26); the royal city of the king (1 Maccabees 3:37)
+antioch-p | Antioch in Pisidia | Antioch | 13:14,14:19,14:21 | P | "They came to Antioch in Pisidia, and went into the synagogue on the sabbath day" (Acts 13:14)
+libertines | Libertines | Libertines | * | G | "The synagogue, which is called the synagogue of the Libertines", which disputed with Stephen (Acts 6:9)
+cyrenians | Cyrenians | Cyrenians | * | G | Of the synagogue which disputed with Stephen (Acts 6:9)
+alexandrians | Alexandrians | Alexandrians | * | G | Of the synagogue which disputed with Stephen (Acts 6:9)
+cilicia | Cilicia | Cilicia | * | P | Paul was "born in Tarsus, a city in Cilicia" (Acts 21:39, 22:3); named among the lands Nabuchodonosor sent unto (Judith 1:7)
+haran-place | | Charran | * | + |
+chaldees | | Chaldeans | * | + |
+pharaoh | | Pharaoh | 7:10,7:13 | + |
+pharaoh-o | | Pharaoh | 7:21 | + |
+canaan-land | | Chanaan | * | + |
+shechem-place | | Sychem | 7:16 | + |
+shechem | | Sychem | 7:16 | + |
+hamor | | Emmor | * | + |
+egyptian | | Egyptians;Egyptian | * | + |
+midian-land | | Madian | * | + |
+sinai | | Sina | * | + |
+aaron | | Aaron | * | + |
+molech | | Moloch | * | + |
+remphan | Remphan | Remphan | * | D | "The star of your god Remphan, figures which ye made to worship them" (Acts 7:43)
+babylon | | Babylon | * | + |
+paul | Paul | Saul;Paul | !13:21=Saul | M | "Saul, (who also is called Paul,)" a young man at whose feet the witnesses laid their clothes; converted on the way to Damascus, "a chosen vessel unto me, to bear my name before the Gentiles"; "a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel" (Acts 7:58, 9:15, 13:9, 22:3)
+saul-k | | Saul | 13:21 | + |
+samaritans | | Samaritans | * | + |
+gaza | | Gaza | * | + |
+ethiopia | | Ethiopia | * | + |
+candace | Candace | Candace | * | F | "Candace queen of the Ethiopians", whose eunuch had "the charge of all her treasure" (Acts 8:27)
+ethiopian | | Ethiopians | * | + |
+isaiah | | Esaias | * | + |
+azotus | Azotus | Azotus | * | P | Where Philip was found after he baptized the eunuch (Acts 8:40); named with Ascalon among the sea coasts (Judith 2:28)
+cesarea | Cesarea | Cesarea | * | P | Where Philip came, and where Cornelius dwelt; where Paul was kept two years (Acts 8:40, 10:1, 21:8, 23:33, 24:27)
+damascus | | Damascus | * | + |
+tarsus | Tarsus | Tarsus | * | P | Paul's city: "I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city" (Acts 9:11, 21:39); whose people made insurrection (2 Maccabees 4:30)
+lod | | Lydda | * | + |
+eneas | Eneas | Eneas | * | M | "A certain man named Eneas, which had kept his bed eight years, and was sick of the palsy", healed at Lydda (Acts 9:33-34)
+sharon | | Saron | * | + |
+joppa | | Joppa | * | + |
+tabitha | Tabitha | Tabitha;Dorcas | * | F | "A certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds"; Peter raised her at Joppa (Acts 9:36-41)
+cornelius | Cornelius | Cornelius | * | M | "A centurion of the band called the Italian band, a devout man, and one that feared God with all his house" (Acts 10:1-2)
+italian | Italian | Italian | * | X | "The band called the Italian band" (Acts 10:1); not a person in People
+phenice | Phenice | Phenice | 11:19,15:3 | P | As far as which they travelled that were scattered abroad upon the persecution about Stephen (Acts 11:19, 15:3); named with Celosyria and Syria (1 Esdras 2:17)
+phenice-c | Phenice | Phenice | 27:12 | P | "An haven of Crete, and lieth toward the south west and north west" (Acts 27:12)
+christians | Christians | Christians;Christian | * | G | "The disciples were called Christians first in Antioch"; "Almost thou persuadest me to be a Christian" (Acts 11:26, 26:28)
+agabus | Agabus | Agabus | * | M | A prophet who "signified by the Spirit that there should be great dearth throughout all the world", and bound his own hands and feet with Paul's girdle (Acts 11:28, 21:10-11)
+claudius | Claudius | Claudius | 11:28,18:2 | M | "Claudius Cesar", in whose days the dearth came; he "had commanded all Jews to depart from Rome" (Acts 11:28, 18:2)
+cesar | | Cesar | * | + |
+easter | Easter | Easter | * | X | "Intending after Easter to bring him forth to the people" (Acts 12:4); not a person in People
+rhoda | Rhoda | Rhoda | * | F | "A damsel came to hearken, named Rhoda", who knew Peter's voice (Acts 12:13-14)
+tyre | | Tyre | * | + |
+sidon-place | | Sidon | * | + |
+blastus | Blastus | Blastus | * | M | "The king's chamberlain", whom they of Tyre and Sidon made their friend (Acts 12:20)
+simeon-n | Simeon | Simeon;Niger | 13:1 | M | "Simeon that was called Niger", one of the prophets and teachers at Antioch (Acts 13:1)
+lucius-c | Lucius | Lucius | * | M | "Lucius of Cyrene", one of the prophets and teachers at Antioch (Acts 13:1)
+manaen | Manaen | Manaen | * | M | One of the prophets and teachers at Antioch, "which had been brought up with Herod the tetrarch" (Acts 13:1)
+seleucia | Seleucia | Seleucia | * | P | Whither Barnabas and Saul departed, "and from thence they sailed to Cyprus" (Acts 13:4); "Seleucia upon the sea coast" (1 Maccabees 11:8)
+salamis | Salamis | Salamis | * | P | Where Barnabas and Saul preached in the synagogues (Acts 13:5)
+paphos | Paphos | Paphos | * | P | Where they found the sorcerer Bar-jesus (Acts 13:6, 13:13)
+elymas | Elymas | Bar-jesus;Elymas | * | M | "A certain sorcerer, a false prophet, a Jew, whose name was Bar-jesus"; "Elymas the sorcerer (for so is his name by interpretation)", smitten blind (Acts 13:6-11)
+sergius-paulus | Sergius Paulus | Sergius;Paulus | * | M | "The deputy of the country, Sergius Paulus, a prudent man", who believed (Acts 13:7, 13:12)
+perga | Perga | Perga | * | P | "Perga in Pamphylia", where John departed from Paul and Barnabas (Acts 13:13-14, 14:25)
+pisidia | Pisidia | Pisidia | * | P | Antioch was in it (Acts 13:14, 14:24)
+kish | | Cis | * | + |
+benjamin | | Benjamin | * | + |
+jesse | | Jesse | * | + |
+iconium | Iconium | Iconium | * | P | Where "a great multitude both of the Jews and also of the Greeks believed" (Acts 13:51, 14:1)
+lystra | Lystra | Lystra | * | P | "Cities of Lycaonia", where Paul healed a cripple and was stoned (Acts 14:6-19)
+derbe | Derbe | Derbe | * | P | "Cities of Lycaonia" (Acts 14:6, 14:20, 16:1)
+lycaonia | Lycaonia | Lycaonia | * | P | "The speech of Lycaonia" (Acts 14:6, 14:11)
+jupiter | Jupiter | Jupiter;Olympius | * | D | "They called Barnabas, Jupiter"; "the priest of Jupiter, which was before their city"; "the image which fell down from Jupiter" (Acts 14:12-13, 19:35); "Jupiter Olympius" (2 Maccabees 6:2)
+mercurius | Mercurius | Mercurius | * | D | "And Paul, Mercurius, because he was the chief speaker" (Acts 14:12)
+attalia | Attalia | Attalia | * | P | "They went down into Attalia" (Acts 14:25)
+silas | Silas | Silas | * | M | One of the "chief men among the brethren", a prophet, whom Paul chose; with Paul he was beaten and laid in the stocks at Philippi (Acts 15:22, 15:32, 15:40, 16:19-25)
+syria | | Syria | * | + |
+timothy | Timotheus | Timotheus | * | M | "A certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek": him Paul circumcised (Acts 16:1-3)
+galatia | Galatia | Galatia | * | P | "The region of Galatia" (Acts 16:6, 18:23)
+mysia | Mysia | Mysia | * | P | Paul came to it and passed by it (Acts 16:7-8)
+bithynia | Bithynia | Bithynia | * | P | Whither they assayed to go, "but the Spirit suffered them not" (Acts 16:7)
+troas | Troas | Troas | * | P | Where Paul saw the vision of the man of Macedonia (Acts 16:8-9, 20:5-6)
+macedonia | Macedonia | Macedonia | * | P | "Come over into Macedonia, and help us" (Acts 16:9)
+samothracia | Samothracia | Samothracia | * | P | Whither they came "with a straight course" from Troas (Acts 16:11)
+neapolis | Neapolis | Neapolis | * | P | Where they came the day after Samothracia (Acts 16:11)
+philippi-m | Philippi | Philippi | * | P | "Philippi, which is the chief city of that part of Macedonia, and a colony" (Acts 16:12, 20:6)
+lydia-t | Lydia | Lydia | * | F | "A certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened"; she was baptized, and her household (Acts 16:14-15, 16:40)
+thyatira | Thyatira | Thyatira | * | P | Lydia's city (Acts 16:14)
+romans | | Romans;Roman | * | + |
+amphipolis | Amphipolis | Amphipolis | * | P | Through which Paul and Silas passed (Acts 17:1)
+apollonia | Apollonia | Apollonia | * | P | Through which Paul and Silas passed (Acts 17:1)
+thessalonica | Thessalonica | Thessalonica | * | P | "Where was a synagogue of the Jews" (Acts 17:1)
+jason-t | Jason | Jason | * | M | Who received Paul and Silas at Thessalonica; the Jews "assaulted the house of Jason", and took security of him (Acts 17:5-9)
+berea-m | Berea | Berea | * | P | Where the Jews "were more noble than those in Thessalonica" (Acts 17:10-13, 20:4)
+athens | Athens | Athens | * | P | "His spirit was stirred in him, when he saw the city wholly given to idolatry" (Acts 17:15-16, 18:1); whence the king sent an old man to compel the Jews (2 Maccabees 6:1)
+epicureans | Epicureans | Epicureans | * | G | "Certain philosophers of the Epicureans, and of the Stoicks" (Acts 17:18)
+stoicks | Stoicks | Stoicks | * | G | "Certain philosophers of the Epicureans, and of the Stoicks" (Acts 17:18)
+areopagus | Areopagus | Areopagus;Mars | * | P | "They took him, and brought him unto Areopagus"; "Paul stood in the midst of Mars' hill" (Acts 17:19, 17:22)
+athenians | Athenians | Athenians | * | G | "All the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing" (Acts 17:21)
+godhead | Godhead | Godhead | * | X | "We ought not to think that the Godhead is like unto gold, or silver, or stone" (Acts 17:29); not a person in People
+dionysius | Dionysius | Dionysius;Areopagite | * | M | "Dionysius the Areopagite", who clave unto Paul and believed (Acts 17:34)
+damaris | Damaris | Damaris | * | F | "A woman named Damaris", who believed at Athens (Acts 17:34)
+corinth | Corinth | Corinth | * | P | Where Paul abode with Aquila and Priscilla (Acts 18:1-11, 19:1)
+aquila | Aquila | Aquila | * | M | "A certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla"; of the same craft, tentmakers (Acts 18:2-3, 18:18, 18:26)
+italy | Italy | Italy | * | P | Whence Aquila was lately come; whither they sailed with Paul (Acts 18:2, 27:1, 27:6)
+priscilla | Priscilla | Priscilla | * | F | The wife of Aquila, who with him "expounded unto him the way of God more perfectly" (Acts 18:2, 18:26)
+crispus | Crispus | Crispus | * | M | "The chief ruler of the synagogue, believed on the Lord with all his house" (Acts 18:8)
+corinthians | Corinthians | Corinthians | * | G | "Many of the Corinthians hearing believed, and were baptized" (Acts 18:8)
+gallio | Gallio | Gallio | * | M | "The deputy of Achaia"; "and Gallio cared for none of those things" (Acts 18:12-17)
+achaia | Achaia | Achaia | * | P | Of which Gallio was deputy (Acts 18:12, 18:27, 19:21)
+sosthenes | Sosthenes | Sosthenes | * | M | "The chief ruler of the synagogue", beaten before the judgment seat (Acts 18:17)
+cenchrea | Cenchrea | Cenchrea | * | P | Where Paul shore his head, "for he had a vow" (Acts 18:18)
+ephesus | Ephesus | Ephesus | * | P | Where Paul disputed two years in the school of Tyrannus (Acts 18:19, 19:1-10)
+apollos | Apollos | Apollos | * | M | "A certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures" (Acts 18:24, 19:1)
+alexandria | Alexandria | Alexandria | * | P | Where Apollos was born; "a ship of Alexandria" (Acts 18:24, 27:6, 28:11)
+tyrannus | Tyrannus | Tyrannus | * | M | In whose school Paul disputed daily (Acts 19:9)
+sceva | Sceva | Sceva | * | M | "A Jew, and chief of the priests", whose seven sons the evil spirit overcame (Acts 19:14-16)
+erastus | Erastus | Erastus | * | M | One of them that ministered unto Paul, sent with Timotheus into Macedonia (Acts 19:22)
+demetrius-e | Demetrius | Demetrius | * | M | "A silversmith, which made silver shrines for Diana", who stirred up the craftsmen against Paul (Acts 19:24-38)
+diana | Diana | Diana | * | D | "The temple of the great goddess Diana"; "whom all Asia and the world worshippeth"; "Great is Diana of the Ephesians" (Acts 19:27-28)
+ephesians | Ephesians | Ephesians;Ephesian | * | G | "Great is Diana of the Ephesians"; "Trophimus an Ephesian" (Acts 19:28, 21:29)
+gaius-m | Gaius | Gaius | 19:29 | M | One of "Paul's companions in travel", a man of Macedonia, caught by the multitude at Ephesus (Acts 19:29)
+gaius-d | Gaius | Gaius | 20:4 | M | "Gaius of Derbe", who accompanied Paul into Asia (Acts 20:4)
+aristarchus | Aristarchus | Aristarchus | * | M | One of "Paul's companions in travel"; "a Macedonian of Thessalonica" (Acts 19:29, 20:4, 27:2)
+greece | | Greece | * | + |
+sopater | Sopater | Sopater | * | M | "Sopater of Berea", who accompanied Paul into Asia (Acts 20:4)
+thessalonians | Thessalonians | Thessalonians | * | G | "Of the Thessalonians, Aristarchus and Secundus" (Acts 20:4)
+secundus | Secundus | Secundus | * | M | One of the Thessalonians who accompanied Paul into Asia (Acts 20:4)
+tychicus | Tychicus | Tychicus | * | M | Of Asia; he accompanied Paul (Acts 20:4)
+trophimus | Trophimus | Trophimus | * | M | Of Asia, "an Ephesian", whom the Jews supposed Paul had brought into the temple (Acts 20:4, 21:29)
+eutychus | Eutychus | Eutychus | * | M | "A certain young man named Eutychus", who fell from the third loft and was taken up dead; "they brought the young man alive" (Acts 20:9-12)
+assos | Assos | Assos | * | P | Where Paul went aboard (Acts 20:13-14)
+mitylene | Mitylene | Mitylene | * | P | Whither they came from Assos (Acts 20:14)
+chios | Chios | Chios | * | P | Over against which they came (Acts 20:15)
+samos | Samos | Samos | * | P | Where they arrived (Acts 20:15); named among the countries the Romans wrote unto (1 Maccabees 15:23)
+trogyllium | Trogyllium | Trogyllium | * | P | Where they tarried (Acts 20:15)
+miletus | Miletus | Miletus | * | P | Whence Paul sent to Ephesus for the elders of the church (Acts 20:15-17)
+cos | Coos | Coos;Cos | * | P | "We came with a straight course unto Coos" (Acts 21:1); named among the countries the Romans wrote unto (1 Maccabees 15:23)
+rhodus | Rhodes | Rhodes;Rhodus | * | P | Whither they came the day following (Acts 21:1); named among the countries the Romans wrote unto (1 Maccabees 15:23)
+patara | Patara | Patara | * | P | Where they found a ship sailing over unto Phenicia (Acts 21:1-2)
+phenicia | Phenicia | Phenicia | * | P | Whither the ship was sailing (Acts 21:2)
+ptolemais | Ptolemais | Ptolemais | * | P | Where they saluted the brethren (Acts 21:7); there Alexander married Cleopatra (1 Maccabees 10:57-58)
+mnason | Mnason | Mnason | * | M | "One Mnason of Cyprus, an old disciple, with whom we should lodge" (Acts 21:16)
+revilest | Revilest | Revilest | * | X | "Revilest thou God's high priest?" (Acts 23:4); not a name
+felix | Felix | Felix | * | M | "The most excellent governor Felix", who heard Paul at Cesarea and trembled; he left Paul bound (Acts 23:24-26, 24:25-27)
+claudius-lysias | Claudius Lysias | Claudius;Lysias | 23:26,24:7,24:22 | M | The chief captain at Jerusalem, who rescued Paul and sent him to Felix: "Claudius Lysias unto the most excellent governor Felix sendeth greeting" (Acts 21:31-33, 23:26)
+antipatris | Antipatris | Antipatris | * | P | Whither the soldiers brought Paul by night (Acts 23:31)
+tertullus | Tertullus | Tertullus | * | M | "A certain orator named Tertullus", who informed the governor against Paul (Acts 24:1-8)
+nazarenes | Nazarenes | Nazarenes | * | G | "A ringleader of the sect of the Nazarenes" (Acts 24:5)
+drusilla | Drusilla | Drusilla | * | F | Felix's "wife Drusilla, which was a Jewess" (Acts 24:24)
+festus | Festus | Porcius;Festus | * | M | "Porcius Festus came into Felix' room"; to him Paul said, "I appeal unto Cesar" (Acts 24:27, 25:11-12)
+agrippa | Agrippa | Agrippa | * | M | "King Agrippa", who came with Bernice to Cesarea to salute Festus and heard Paul: "Almost thou persuadest me to be a Christian" (Acts 25:13, 26:28)
+bernice | Bernice | Bernice | * | F | Who came to Cesarea with king Agrippa "with great pomp" (Acts 25:13, 25:23, 26:30)
+augustus-t | Augustus | Augustus | * | T | The emperor to whom Paul appealed: "to be reserved unto the hearing of Augustus"; "Augustus' band" (Acts 25:21, 25:25, 27:1)
+julius | Julius | Julius | * | M | "A centurion of Augustus' band", who "courteously entreated Paul" (Acts 27:1-3, 27:43)
+adramyttium | Adramyttium | Adramyttium | * | P | "A ship of Adramyttium" (Acts 27:2)
+macedonians | Macedonians | Macedonian;Macedonians | * | G | "One Aristarchus, a Macedonian of Thessalonica" (Acts 27:2); "Aman, a Macedonian, the son of Amadatha" (Esther 16:10)
+myra | Myra | Myra | * | P | "Myra, a city of Lycia" (Acts 27:5)
+lycia | Lycia | Lycia | * | P | Myra was in it (Acts 27:5); named among the countries the Romans wrote unto (1 Maccabees 15:23)
+cnidus | Cnidus | Cnidus | * | P | Over against which they were scarce come (Acts 27:7); named among the countries the Romans wrote unto (1 Maccabees 15:23)
+crete | Crete | Crete | * | P | Under which they sailed (Acts 27:7-21); out of which Demetrius son of Demetrius came (1 Maccabees 10:67)
+salmone | Salmone | Salmone | * | P | "Over against Salmone" (Acts 27:7)
+lasea | Lasea | Lasea | * | P | "The city of Lasea", nigh unto the fair havens (Acts 27:8)
+euroclydon | Euroclydon | Euroclydon | * | X | "A tempestuous wind, called Euroclydon" (Acts 27:14); not a person in People
+clauda | Clauda | Clauda | * | P | "A certain island which is called Clauda" (Acts 27:16)
+adria | Adria | Adria | * | P | Where "we were driven up and down" (Acts 27:27)
+melita | Melita | Melita | * | P | "The island was called Melita" (Acts 28:1)
+publius | Publius | Publius | * | M | "The chief man of the island", whose father Paul healed (Acts 28:7-8)
+castor | Castor | Castor | * | D | "Whose sign was Castor and Pollux" (Acts 28:11)
+pollux | Pollux | Pollux | * | D | "Whose sign was Castor and Pollux" (Acts 28:11)
+syracuse | Syracuse | Syracuse | * | P | Where they tarried three days (Acts 28:12)
+rhegium | Rhegium | Rhegium | * | P | "We fetched a compass, and came to Rhegium" (Acts 28:13)
+puteoli | Puteoli | Puteoli | * | P | "Where we found brethren" (Acts 28:13-14)
+appii | Appii forum | Appii | * | P | "As far as Appii forum, and The three taverns" (Acts 28:15)
