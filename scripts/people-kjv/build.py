@@ -123,7 +123,10 @@ def build():
         k, q, lat, lon, label = parts
         if k not in pids: errs.append(f'wikidata-pins {ln}: {k} is not a place'); continue
         if k in pins: errs.append(f'wikidata-pins {ln}: {k} has two pins'); continue
-        pins[k] = {'lat': float(lat), 'lon': float(lon), 'wikidata': q, 'url': f'https://www.wikidata.org/wiki/{q}', 'label': label}
+        try: lat, lon = float(lat), float(lon)
+        except ValueError: lat = lon = float('nan')
+        if not (-90 <= lat <= 90 and -180 <= lon <= 180): errs.append(f'wikidata-pins {ln}: {k} has a bad position'); continue
+        pins[k] = {'lat': lat, 'lon': lon, 'wikidata': q, 'url': f'https://www.wikidata.org/wiki/{q}', 'label': label}
     places_out = sorted(({'id': pids[k], 'name': r['name'], 'names': list(dict.fromkeys([r['name']] + r['forms'])),
                           'description': r['desc'], 'verses': r['verses'], **({'pin': pins[k]} if k in pins else {})}
                          for k, r in places.items() if k in pids), key=lambda o: vkey(o['verses'][0]) + (o['id'],))
