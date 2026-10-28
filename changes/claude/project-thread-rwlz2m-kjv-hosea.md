@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Hosea added (9 new people incl. Gomer, Jezreel, Lo-ruhamah, Lo-ammi; 4 places: Mizpah, Memphis, Aven, Beth-arbel; Memphis pinned to Wikidata).
