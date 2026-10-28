@@ -220,3 +220,65 @@ bethabara | Q2617848 | 31.8369 | 35.5472 | Bethabara
 cana | Q431382 | 32.745 | 35.3383 | Cana
 tiberias | Q151920 | 32.7897 | 35.5247 | Tiberias
 gabbatha | Q591994 | 31.7804 | 35.2335 | Gabbatha
+aceldama | Q886458 | 31.7684 | 35.2329 | Akeldama
+asia | Q210718 | 38.4 | 28.3 | Asia
+cappadocia | Q217265 | 38.6706 | 34.8392 | Cappadocia
+pontus | Q621672 | 40.68 | 37.83 | Pontus
+pamphylia | Q585250 | 37.0 | 31.0 | Pamphylia
+phrygia | Q32579 | 39.0 | 31.0 | Phrygia
+rome | Q220 | 41.8931 | 12.4828 | Rome
+cyprus | Q644636 | 35.0 | 33.0 | Cyprus
+antioch | Q200441 | 36.2047 | 36.1817 | Antioch
+cilicia | Q620864 | 36.985 | 35.12 | Cilicia
+azotus | Q122059851 | 31.7536 | 34.6617 | Ashdod
+cesarea | Q319242 | 32.5011 | 34.8923 | Caesarea Maritima
+tarsus | Q134287 | 36.9167 | 34.9 | Tarsus
+phenice | Q41642 | 34.1167 | 35.65 | Phoenicia
+seleucia | Q1605894 | 36.124 | 35.922 | Seleucia Pieria
+salamis | Q767089 | 35.1833 | 33.9 | Salamis
+paphos | Q180918 | 34.7761 | 32.4265 | Paphos
+antioch-p | Q579468 | 38.3061 | 31.1892 | Antioch of Pisidia
+pisidia | Q621805 | 38.3 | 31.0167 | Pisidia
+iconium | Q132559332 | 37.8719 | 32.4922 | Iconium
+derbe | Q20717624 | 37.3486 | 33.3615 | Derbe
+lycaonia | Q622598 | 38.0 | 33.0 | Lycaonia
+lystra | Q535982 | 37.6641 | 32.2107 | Lystra
+attalia | Q6487 | 36.9081 | 30.6956 | Antalya
+galatia | Q26847 | 39.2667 | 32.9833 | Galatia
+bithynia | Q373189 | 40.5 | 31.0 | Bithynia
+mysia | Q622319 | 40.0 | 28.5 | Mysia
+troas | Q1393407 | 39.7519 | 26.1586 | Alexandria Troas
+macedonia | Q83958 | 40.478 | 22.3228 | Macedonia
+neapolis | Q6984309 | 40.935 | 24.415 | Neapolis
+philippi-m | Q379652 | 41.0121 | 24.2846 | Philippi
+thyatira | Q1135603 | 38.9208 | 27.8417 | Thyatira
+amphipolis | Q217414 | 40.8238 | 23.8478 | Amphipolis
+apollonia | Q2751389 | 40.6222 | 23.4677 | Apollonia
+thessalonica | Q17151 | 40.6403 | 22.9356 | Thessaloniki
+berea-m | Q15712213 | 40.5258 | 22.2046 | Berroea
+athens | Q1524 | 37.9842 | 23.7281 | Athens
+areopagus | Q202487 | 37.9722 | 23.7236 | Areopagus
+corinth | Q1363688 | 37.9058 | 22.8787 | Ancient Corinth
+italy | Q145694 | 42.0 | 14.0 | Italian Peninsula
+achaia | Q204772 | 37.89 | 22.45 | Achaea
+ephesus | Q47611 | 37.9406 | 27.3394 | Ephesus
+alexandria | Q87 | 31.1975 | 29.8925 | Alexandria
+assos | Q744631 | 39.4906 | 26.3367 | Assos
+chios | Q160483 | 38.4 | 26.0167 | Chios
+miletus | Q169460 | 37.5311 | 27.2756 | Miletus
+samos | Q156882 | 37.75 | 26.8333 | Samos
+cos | Q187027 | 36.8153 | 27.1103 | Kos
+patara | Q233121 | 36.2603 | 29.3142 | Patara
+rhodus | Q43048 | 36.17 | 27.92 | Rhodes
+phenicia | Q41642 | 34.1167 | 35.65 | Phoenicia
+ptolemais | Q126084 | 32.9261 | 35.0839 | Acre
+antipatris | Q682612 | 32.105 | 34.9304 | Antipatris
+adramyttium | Q3605584 | 39.4989 | 26.9358 | Adramyttion
+lycia | Q18927 | 36.7333 | 29.9 | Lycia
+myra | Q652024 | 36.2592 | 29.9853 | Myra
+cnidus | Q690575 | 36.6858 | 27.375 | Knidos
+crete | Q34374 | 35.3097 | 24.8933 | Crete
+adria | Q13924 | 42.7758 | 15.4261 | Adriatic Sea
+melita | Q193896 | 35.9 | 14.45 | Malta
+syracuse | Q4420718 | 37.0833 | 15.2833 | Syracuse
+rhegium | Q3429952 | 38.1093 | 15.6439 | Rhegion
