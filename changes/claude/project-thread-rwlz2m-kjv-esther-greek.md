@@ -1,0 +1,1 @@
+- People (KJV): add the rest of Esther (Dositheus, Lysimachus, Ptolemeus and Cleopatra, Gabatha and Tharra, Artaxerxes the great) with Mardocheus, Esther and Aman joined to their records by the same fathers.

@@ -1,0 +1,38 @@
+# Esther (the rest of the chapters). key | Name | forms | verses | type | description
+mordecai-e | | Mardocheus | * | + |
+esther | | Esther | * | + |
+haman | | Aman | * | + |
+jews | | Jews;Jew | * | + |
+israel-people | | Israel | * | + |
+gentiles | | Gentiles | * | + |
+adar-month | | Adar | * | + |
+ptolemeus-k | Ptolemeus | Ptolemeus | 11:1 | M | The king, "in the fourth year of the reign of Ptolemeus and Cleopatra", when the epistle of Phurim was brought (Esther 11:1)
+cleopatra | Cleopatra | Cleopatra | * | F | Named with Ptolemeus in the dating of the epistle of Phurim (Esther 11:1)
+dositheus | Dositheus | Dositheus | * | M | "Who said he was a priest and Levite", who with Ptolemeus his son brought the epistle of Phurim (Esther 11:1)
+ptolemeus-d | Ptolemeus | Ptolemeus | 11:1 | M | The son of Dositheus, who with his father brought the epistle of Phurim (Esther 11:1)
+ptolemeus-l | Ptolemeus | Ptolemeus | 11:1 | M | The father of Lysimachus (Esther 11:1)
+lysimachus | Lysimachus | Lysimachus | * | M | "The son of Ptolemeus, that was in Jerusalem", who had interpreted the epistle of Phurim (Esther 11:1)
+levites | | Levite | * | + |
+pur | | Phurim | * | + |
+jerusalem | | Jerusalem | * | + |
+artaxerxes-ge | Artaxerxes | Artaxerxes | * | M | "Artaxerxes the great", the king of Mardocheus and Esther, who wrote "unto the princes and governors of an hundred and seven and twenty provinces from India unto Ethiopia" (Esther 11:2, 13:1, 16:1)
+nisan-month | | Nisan | * | + |
+jair-m | | Jairus | * | + |
+shimei-mo | | Semei | * | + |
+kish-mo | | Cisai | * | + |
+benjamin | | Benjamin | * | + |
+shushan | | Susa | * | + |
+nebuchadnezzar | | Nabuchodonosor | * | + |
+babylon | | Babylon | * | + |
+jeconiah | | Jechonias | * | + |
+judea | | Judea | * | + |
+gabatha | Gabatha | Gabatha | * | M | One of "the two eunuchs of the king, and keepers of the palace", whose purpose to lay hands on the king Mardocheus made known (Esther 12:1-3)
+tharra | Tharra | Tharra | * | M | One of "the two eunuchs of the king, and keepers of the palace", whose purpose to lay hands on the king Mardocheus made known (Esther 12:1-3)
+hammedatha | | Amadathus;Amadatha | * | + |
+agagite | | Agagite | * | + |
+india | | India | * | + |
+ethiopia | | Ethiopia | * | + |
+egypt | | Egypt | * | + |
+abraham | | Abraham | * | + |
+macedonians | | Macedonian;Macedonians | * | + |
+persians | | Persian;Persians | * | + |
