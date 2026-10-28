@@ -1,0 +1,1 @@
+- Titus: adds Artemas, Zenas, the Cretians and Nicopolis (unpinned: the KJV says Nicopolis of Macedonia, and no Wikidata item matches that exactly); adds Titus verses to Paul, Jesus, Titus, Crete, the Jews, Tychicus, Apollos and Macedonia.
