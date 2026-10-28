@@ -1,0 +1,9 @@
+# Haggai. key | Name | forms | verses | type | description
+darius-p | | Darius | * | + |
+haggai | | Haggai | * | + |
+zerubbabel | | Zerubbabel | * | + |
+shealtiel | | Shealtiel | * | + |
+judah | | Judah | * | + |
+jeshua-hp | | Joshua | * | + |
+jozadak | | Josedech | * | + |
+egypt | | Egypt | * | + |
