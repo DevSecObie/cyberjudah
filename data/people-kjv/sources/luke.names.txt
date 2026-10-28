@@ -1,0 +1,192 @@
+# Luke. key | Name | forms | verses | type | description
+theophilus | Theophilus | Theophilus | * | M | "Most excellent Theophilus", to whom Luke wrote in order (Luke 1:3)
+herod | | Herod | 1:5 | + |
+herod-t | | Herod | !1:5 | + |
+judea | | Judea | * | + |
+zacharias-p | Zacharias | Zacharias | 1:5,1:12,1:13,1:18,1:21,1:40,1:59,1:67,3:2 | M | "A certain priest named Zacharias, of the course of Abia", father of John the Baptist; struck dumb until the child was named, then "filled with the Holy Ghost, and prophesied" (Luke 1:5-23, 1:59-79, 3:2)
+zacharias-b | | Zacharias | 11:51 | + |
+abijah-c | | Abia | * | + |
+aaron | | Aaron | * | + |
+elisabeth | Elisabeth | Elisabeth | * | F | "Of the daughters of Aaron", the wife of Zacharias, who bare John in her old age; Mary's cousin (Luke 1:5-60)
+john-b | | John;Baptist | !5:10,!6:14,!8:51,!9:28,!9:49,!9:54,!22:8 | + |
+john-z | | John | 5:10,6:14,8:51,9:28,9:49,9:54,22:8 | + |
+israel-people | | Israel | * | + |
+elijah | | Elias | * | + |
+gabriel | | Gabriel | * | + |
+galilee | | Galilee | * | + |
+nazareth | | Nazareth | * | + |
+joseph-m | | Joseph | 1:27,2:4,2:16,2:33,2:43,3:23,4:22 | + |
+david | | David | * | + |
+mary | | Mary | 1:27,1:30,1:34,1:38,1:39,1:41,1:46,1:56,2:5,2:16,2:19,2:34 | + |
+jacob | | Jacob | * | + |
+judah | | Juda | 1:39,3:33 | + |
+abraham | | Abraham | * | + |
+cesar | | Cesar | * | + |
+augustus | Augustus | Augustus | * | M | "Cesar Augustus", from whom went out a decree "that all the world should be taxed" (Luke 2:1)
+cyrenius | Cyrenius | Cyrenius | * | M | Governor of Syria when the taxing was first made (Luke 2:2)
+syria | | Syria | * | + |
+beth-lehem | | Bethlehem | * | + |
+jesus | | Jesus;Christ | * | + |
+moses | | Moses | * | + |
+jerusalem | | Jerusalem | * | + |
+simeon-j | Simeon | Simeon | 2:25,2:34 | M | "A man in Jerusalem, whose name was Simeon; and the same man was just and devout", who took the child in his arms and blessed God (Luke 2:25-35)
+gentiles | | Gentiles | * | + |
+anna-p | Anna | Anna | * | F | "A prophetess, the daughter of Phanuel, of the tribe of Aser", a widow of about fourscore and four years, who served God in the temple (Luke 2:36-38)
+phanuel | Phanuel | Phanuel | * | M | The father of Anna the prophetess, of the tribe of Aser (Luke 2:36)
+asher | | Aser | * | + |
+tiberius | Tiberius | Tiberius | * | M | "Tiberius Cesar", in the fifteenth year of whose reign the word of God came unto John (Luke 3:1)
+pilate | | Pontius;Pilate | * | + |
+philip-t | Philip | Philip | 3:1 | M | The brother of Herod the tetrarch, "tetrarch of Iturea and of the region of Trachonitis" (Luke 3:1)
+philip-h | | Philip | 3:19 | + |
+philip-a | | Philip | 6:14 | + |
+iturea | Iturea | Iturea | * | P | Of which Philip was tetrarch (Luke 3:1)
+trachonitis | Trachonitis | Trachonitis | * | P | "The region of Trachonitis" (Luke 3:1)
+lysanias | Lysanias | Lysanias | * | M | "Lysanias the tetrarch of Abilene" (Luke 3:1)
+abilene | Abilene | Abilene | * | P | Of which Lysanias was tetrarch (Luke 3:1)
+annas | Annas | Annas | * | M | High priest with Caiaphas when the word of God came unto John (Luke 3:2)
+caiaphas | | Caiaphas | * | + |
+jordan | | Jordan | * | + |
+isaiah | | Esaias | * | + |
+herodias | | Herodias | * | + |
+# The genealogy (3:23-38): "Jesus ... being (as was supposed) the son of Joseph, which was the son of Heli"
+heli-l | Heli | Heli | * | M | "Joseph, which was the son of Heli", the son of Matthat (Luke 3:23-24)
+matthat-24 | Matthat | Matthat | 3:24 | M | The son of Levi, father of Heli (Luke 3:23-24)
+levi-24 | Levi | Levi | 3:24 | M | The son of Melchi, father of Matthat (Luke 3:24)
+melchi-24 | Melchi | Melchi | 3:24 | M | The son of Janna, father of Levi (Luke 3:24)
+janna | Janna | Janna | * | M | The son of Joseph, father of Melchi (Luke 3:24)
+joseph-24 | Joseph | Joseph | 3:24 | M | The son of Mattathias, father of Janna (Luke 3:24-25)
+mattathias-25 | Mattathias | Mattathias | 3:25 | M | The son of Amos, father of Joseph (Luke 3:24-25)
+amos-25 | Amos | Amos | 3:25 | M | The son of Naum, father of Mattathias (Luke 3:25)
+naum | Naum | Naum | * | M | The son of Esli, father of Amos (Luke 3:25)
+esli | Esli | Esli | * | M | The son of Nagge, father of Naum (Luke 3:25)
+nagge | Nagge | Nagge | * | M | The son of Maath, father of Esli (Luke 3:25-26)
+maath | Maath | Maath | * | M | The son of Mattathias, father of Nagge (Luke 3:26)
+mattathias-26 | Mattathias | Mattathias | 3:26 | M | The son of Semei, father of Maath (Luke 3:26)
+semei-26 | Semei | Semei | * | M | The son of Joseph, father of Mattathias (Luke 3:26)
+joseph-26 | Joseph | Joseph | 3:26 | M | The son of Juda, father of Semei (Luke 3:26)
+juda-26 | Juda | Juda | 3:26 | M | The son of Joanna, father of Joseph (Luke 3:26-27)
+joanna-27 | Joanna | Joanna | 3:27 | M | The son of Rhesa, father of Juda (Luke 3:26-27)
+rhesa | Rhesa | Rhesa | * | M | The son of Zorobabel, father of Joanna (Luke 3:27)
+zerubbabel | | Zorobabel | * | + |
+salathiel | | Salathiel | * | + |
+neri | Neri | Neri | * | M | The son of Melchi, father of Salathiel (Luke 3:27-28)
+melchi-28 | Melchi | Melchi | 3:28 | M | The son of Addi, father of Neri (Luke 3:28)
+addi | Addi | Addi | * | M | The son of Cosam, father of Melchi (Luke 3:28)
+cosam | Cosam | Cosam | * | M | The son of Elmodam, father of Addi (Luke 3:28)
+elmodam | Elmodam | Elmodam | * | M | The son of Er, father of Cosam (Luke 3:28)
+er-28 | Er | Er | 3:28 | M | The son of Jose, father of Elmodam (Luke 3:28-29)
+jose | Jose | Jose | * | M | The son of Eliezer, father of Er (Luke 3:29)
+eliezer-29 | Eliezer | Eliezer | 3:29 | M | The son of Jorim, father of Jose (Luke 3:29)
+jorim | Jorim | Jorim | * | M | The son of Matthat, father of Eliezer (Luke 3:29)
+matthat-29 | Matthat | Matthat | 3:29 | M | The son of Levi, father of Jorim (Luke 3:29)
+levi-29 | Levi | Levi | 3:29 | M | The son of Simeon, father of Matthat (Luke 3:29-30)
+simeon-30 | Simeon | Simeon | 3:30 | M | The son of Juda, father of Levi (Luke 3:29-30)
+juda-30 | Juda | Juda | 3:30 | M | The son of Joseph, father of Simeon (Luke 3:30)
+joseph-30 | Joseph | Joseph | 3:30 | M | The son of Jonan, father of Juda (Luke 3:30)
+jonan | Jonan | Jonan | * | M | The son of Eliakim, father of Joseph (Luke 3:30)
+eliakim-30 | Eliakim | Eliakim | 3:30 | M | The son of Melea, father of Jonan (Luke 3:30-31)
+melea | Melea | Melea | * | M | The son of Menan, father of Eliakim (Luke 3:31)
+menan | Menan | Menan | * | M | The son of Mattatha, father of Melea (Luke 3:31)
+mattatha | Mattatha | Mattatha | * | M | The son of Nathan, father of Menan (Luke 3:31)
+nathan-d | | Nathan | * | + |
+jesse | | Jesse | * | + |
+obed | | Obed | * | + |
+boaz | | Booz | * | + |
+salmon | | Salmon | * | + |
+naashon | | Naasson | * | + |
+amminadab | | Aminadab | * | + |
+ram | | Aram | * | + |
+hezron | | Esrom | * | + |
+pharez | | Phares | * | + |
+isaac | | Isaac | * | + |
+terah | | Thara | * | + |
+nahor-s | | Nachor | * | + |
+serug | | Saruch | * | + |
+reu | | Ragau | * | + |
+peleg | | Phalec | * | + |
+eber | | Heber | * | + |
+salah | | Sala | * | + |
+cainan-a | Cainan | Cainan | 3:36 | M | "Sala, which was the son of Cainan, which was the son of Arphaxad" (Luke 3:35-36)
+cainan | | Cainan | 3:37 | + |
+arphaxad | | Arphaxad | * | + |
+shem | | Sem | * | + |
+noah | | Noe | * | + |
+lamech | | Lamech | * | + |
+methuselah | | Mathusala | * | + |
+enoch | | Enoch | * | + |
+jared | | Jared | * | + |
+mahalaleel | | Maleleel | * | + |
+enos | | Enos | * | + |
+seth | | Seth | * | + |
+adam | | Adam | * | + |
+# The ministry
+satan | | Satan | * | + |
+capernaum | | Capernaum | * | + |
+zarephath | | Sarepta | * | + |
+sidon-place | | Sidon | * | + |
+elisha | | Eliseus | * | + |
+naaman-s | | Naaman | * | + |
+syrian | | Syrian | * | + |
+simon-p | | Simon;Peter | !6:15=Simon,!7:40=Simon,!7:43=Simon,!7:44=Simon,!23:26=Simon | + |
+gennesaret | | Gennesaret | * | + |
+launch | Launch | Launch | * | X | "Launch out into the deep" (Luke 5:4); not a name
+james-z | | James | 5:10,6:14,8:51,9:28,9:54 | + |
+zebedee | | Zebedee | * | + |
+levi-a | | Levi | 5:27,5:29 | + |
+pharisees | | Pharisees;Pharisee | * | + |
+andrew | | Andrew | * | + |
+bartholomew | | Bartholomew | * | + |
+matthew | | Matthew | * | + |
+thomas | | Thomas | * | + |
+james-a | | James | 6:15 | + |
+alpheus | | Alpheus | * | + |
+simon-z | Simon | Simon;Zelotes | 6:15 | M | "Simon called Zelotes", one of the twelve apostles (Luke 6:15)
+judas-j | Judas | Judas | 6:16 | M | "Judas the brother of James", one of the twelve apostles (Luke 6:16)
+james-jd | James | James | 6:16 | M | The James whose brother was Judas the apostle (Luke 6:16)
+judas-i | | Judas;Iscariot | 6:16,22:3,22:47,22:48 | + |
+tyre | | Tyre | * | + |
+jews | | Jews | * | + |
+nain | Nain | Nain | * | P | "A city called Nain", where Jesus raised the widow's son (Luke 7:11-15)
+simon-ph | Simon | Simon | 7:40,7:43,7:44 | M | The Pharisee who desired Jesus to eat with him, in whose house the woman washed his feet with tears (Luke 7:36-50)
+mary-m | | Mary;Magdalene | 8:2,24:10 | + |
+joanna-c | Joanna | Joanna | 8:3,24:10 | F | "Joanna the wife of Chuza Herod's steward", who ministered unto Jesus of her substance and told the apostles of the empty sepulchre (Luke 8:3, 24:10)
+chuza | Chuza | Chuza | * | M | "Herod's steward", the husband of Joanna (Luke 8:3)
+susanna-l | Susanna | Susanna | 8:3 | F | One of the women who ministered unto Jesus of their substance (Luke 8:3)
+gadarenes | | Gadarenes | * | + |
+jairus | | Jairus | * | + |
+bethsaida | | Bethsaida | * | + |
+samaritans | | Samaritans;Samaritan | * | + |
+sodom | | Sodom | * | + |
+chorazin | | Chorazin | * | + |
+jericho | | Jericho | * | + |
+levites | | Levite | * | + |
+martha | Martha | Martha | * | F | Who received Jesus into her house, "cumbered about much serving"; the sister of Mary (Luke 10:38-41)
+mary-b | Mary | Mary | 10:39,10:42 | F | The sister of Martha, who "sat at Jesus' feet, and heard his word"; "Mary hath chosen that good part" (Luke 10:39-42)
+beelzebub | | Beelzebub | * | + |
+jonah | | Jonas | * | + |
+ninevites | Ninevites | Ninevites | * | G | "Jonas was a sign unto the Ninevites" (Luke 11:30)
+solomon | | Solomon | * | + |
+nineveh | | Nineve | * | + |
+abel | | Abel | * | + |
+galileans | | Galileans;Galilean | * | + |
+siloam | Siloam | Siloam | * | P | "The tower in Siloam" which fell (Luke 13:4)
+lazarus-p | Lazarus | Lazarus | * | M | "A certain beggar named Lazarus", laid at the rich man's gate full of sores, carried into Abraham's bosom (Luke 16:20-25)
+samaria | | Samaria | * | + |
+lot | | Lot | * | + |
+zaccheus-p | Zaccheus | Zaccheus | * | M | "A man named Zaccheus, which was the chief among the publicans, and he was rich", who climbed up into a sycomore tree to see Jesus (Luke 19:2-9)
+bethphage | | Bethphage | * | + |
+bethany | | Bethany | * | + |
+sadducees | | Sadducees | * | + |
+jewry | | Jewry | * | + |
+barabbas | | Barabbas | * | + |
+simon-cy | | Simon;Cyrenian | 23:26 | + |
+calvary | Calvary | Calvary | * | P | "The place, which is called Calvary", where they crucified Jesus (Luke 23:33)
+grecians | | Greek | * | + |
+latin | Latin | Latin | * | X | "Letters of Greek, and Latin, and Hebrew" (Luke 23:38); not a person in People
+hebrew | | Hebrew | * | + |
+joseph-ar | | Joseph | 23:50 | + |
+arimathea | | Arimathea | * | + |
+mary-j | | Mary | 24:10 | + |
+james-j | | James | 24:10 | + |
+emmaus-l | Emmaus | Emmaus | * | P | "A village called Emmaus, which was from Jerusalem about threescore furlongs" (Luke 24:13)
+cleopas | Cleopas | Cleopas | * | M | One of the two that went to Emmaus, to whom Jesus appeared (Luke 24:18)
