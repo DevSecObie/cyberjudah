@@ -1,0 +1,36 @@
+# 1 Corinthians. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+sosthenes-b | Sosthenes | Sosthenes | * | M | "Sosthenes our brother", named with Paul in the greeting (1 Corinthians 1:1)
+corinth | | Corinth | * | + |
+chloe | Chloe | Chloe | * | F | "Them which are of the house of Chloe", who declared the contentions at Corinth (1 Corinthians 1:11)
+apollos | | Apollos | * | + |
+simon-p | | Cephas | * | + |
+crispus | | Crispus | * | + |
+gaius-c | Gaius | Gaius | * | M | Whom Paul baptized at Corinth: "I baptized none of you, but Crispus and Gaius" (1 Corinthians 1:14)
+stephanas | Stephanas | Stephanas | * | M | "The house of Stephanas, that it is the firstfruits of Achaia", whose household Paul baptized (1 Corinthians 1:16, 16:15-17, 16:24)
+jews | | Jews;Jew | * | + |
+grecians | | Greeks | * | + |
+timothy | | Timotheus | * | + |
+gentiles | | Gentiles | * | + |
+satan | | Satan | * | + |
+barnabas | | Barnabas | * | + |
+moses | | Moses | * | + |
+israel-people | | Israel | * | + |
+james-c | James | James | * | M | "After that, he was seen of James; then of all the apostles" (1 Corinthians 15:7)
+adam | | Adam | * | + |
+ephesus | | Ephesus | * | + |
+galatia | | Galatia | * | + |
+jerusalem | | Jerusalem | * | + |
+macedonia | | Macedonia | * | + |
+pentecost | | Pentecost | * | + |
+achaia | | Achaia | * | + |
+fortunatus | Fortunatus | Fortunatus | * | M | "I am glad of the coming of Stephanas and Fortunatus and Achaicus" (1 Corinthians 16:17, 16:24)
+achaicus | Achaicus | Achaicus | * | M | "I am glad of the coming of Stephanas and Fortunatus and Achaicus" (1 Corinthians 16:17, 16:24)
+asia | | Asia | * | + |
+aquila | | Aquila | * | + |
+priscilla | | Priscilla | * | + |
+anathema | Anathema | Anathema | * | X | "Let him be Anathema Maran-atha" (1 Corinthians 16:22); not a name
+maran-atha | Maran-atha | Maran-atha | * | X | "Let him be Anathema Maran-atha" (1 Corinthians 16:22); not a name
+corinthians | | Corinthians | * | + |
+philippi-m | | Philippi | * | + |

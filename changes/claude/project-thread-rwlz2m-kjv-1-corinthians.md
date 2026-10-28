@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: 1 Corinthians added (7 new people: Sosthenes our brother, Chloe, Gaius whom Paul baptized, Stephanas, Fortunatus, Achaicus, and the James of 15:7, each kept separate where the KJV does not say they are the same man as a namesake).
