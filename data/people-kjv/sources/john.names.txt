@@ -34,7 +34,7 @@ samaritans | | Samaritans;Samaritan | * | + |
 galileans | | Galileans | * | + |
 hebrew | | Hebrew | * | + |
 bethesda | Bethesda | Bethesda | * | P | "A pool, which is called in the Hebrew tongue Bethesda, having five porches" (John 5:2)
-tiberias | Tiberias | Tiberias | * | P | "The sea of Tiberias" (John 6:1, 6:23, 21:1)
+tiberias | Tiberias | Tiberias | 6:23 | P | The city: "there came other boats from Tiberias" (John 6:23)
 judas-i | | Judas;Iscariot | !14:22=Judas | + |
 simon-i | Simon | Simon | 6:71,12:4,13:2,13:26 | M | The father of Judas Iscariot (John 6:71, 12:4, 13:2, 13:26)
 judas-j | | Judas | 14:22 | + |
@@ -73,3 +73,6 @@ joseph-ar | | Joseph | 19:38 | + |
 arimathea | | Arimathea | * | + |
 rabboni | Rabboni | Rabboni | * | X | "Rabboni; which is to say, Master" (John 20:16); not a person in People
 zebedee | | Zebedee | * | + |
+# Seas and the mount of Olives, named in phrases
+sea-of-galilee | | sea of Galilee;sea of Tiberias;Tiberias | 6:1,21:1 | + |
+olivet | | mount of Olives | * | + |

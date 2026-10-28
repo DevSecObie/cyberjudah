@@ -2,6 +2,7 @@
 
 Each book has <book>.names.txt and <book>.links.txt, read in Bible order.
 <book>.names.txt: key | Name | forms (;) | verses | type | description
+  forms: a form with a space in it (Red sea, sea of Galilee) is a phrase, found word for word in the verse text;
   verses: * = every verse of the book naming one of the forms; c:v,c:v = those verses;
   !c:v leaves a verse out; !c:v=Form leaves out only that form in that verse.
   type: M male, F female, U not stated, G a people (People); D a god or idol, C a creature, T a title
@@ -60,6 +61,10 @@ def lines(path):
 def read_names(book, VERSES, recs, errs):
     cover = set()
     mine = [v for v in VERSES if v.startswith(book + '/')]
+    B = chapters(book)
+    def says(v, f):
+        _, c, n = v.split('/')
+        return re.search(r'\b' + re.escape(f) + r'\b', B[c][int(n) - 1]) is not None
     for ln, parts in lines(f'{ROOT}/people-kjv/sources/{book}.names.txt'):
         at = f'{book} names {ln}'
         if len(parts) != 6: errs.append(f'{at}: {len(parts)} fields'); continue
@@ -80,7 +85,9 @@ def read_names(book, VERSES, recs, errs):
             if t.startswith('!'):
                 cv, _, f = t[1:].partition('=')
                 exc.setdefault(f'{book}/' + cv.replace(':', '/'), set()).update([f] if f else forms)
-        def named(v): return {x[0] for x in VERSES[v]} & (set(forms) - exc.get(v, set()))
+        def named(v):
+            left = set(forms) - exc.get(v, set())
+            return ({x[0] for x in VERSES[v]} & left) | {f for f in left if ' ' in f and says(v, f)}
         naming = [v for v in mine if named(v)]
         inc = [f'{book}/' + t.replace(':', '/') for t in toks if t != '*' and not t.startswith('!')]
         for v in inc:

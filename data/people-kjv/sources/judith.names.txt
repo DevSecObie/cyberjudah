@@ -130,3 +130,5 @@ balamo | Balamo | Balamo | * | P | Manasses was buried "in the field between Dot
 bebai-place | Bebai | Bebai | * | P | To which Ozias sent word (Judith 15:4)
 chobai | Chobai | Chobai | * | P | To which Ozias sent word (Judith 15:4-5)
 cola | Cola | Cola | * | P | To which Ozias sent word (Judith 15:4)
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

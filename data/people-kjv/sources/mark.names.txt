@@ -93,3 +93,6 @@ joses-j | | Joses | 15:40,15:47 | + |
 salome | Salome | Salome | * | F | One of the women looking on afar off at the cross, who brought sweet spices to anoint him (Mark 15:40, 16:1)
 joseph-ar | | Joseph | * | + |
 arimathea | | Arimathea | * | + |
+# Seas and the mount of Olives, named in phrases
+sea-of-galilee | | sea of Galilee | * | + |
+olivet | | mount of Olives | * | + |

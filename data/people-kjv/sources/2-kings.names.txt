@@ -283,3 +283,5 @@ jaazaniah | Jaazaniah | Jaazaniah | * | M | The son of a Maachathite, a captain 
 maachathite | | Maachathite | * | + |
 elishama-n | Elishama | Elishama | * | M | Of the seed royal, the grandfather of Ishmael (2 Kings 25:25)
 evil-merodach | Evil-merodach | Evil-merodach | * | M | King of Babylon, who lifted up the head of Jehoiachin out of prison (2 Kings 25:27-30)
+# Seas and the mount of Olives, named in phrases
+salt-sea | | sea of the plain | * | + |

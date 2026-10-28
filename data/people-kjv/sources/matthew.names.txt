@@ -147,3 +147,6 @@ james-j | James | James | 27:56 | M | The son of Mary, brother of Joses (Matthew
 joses-j | Joses | Joses | 27:56 | M | The son of Mary, brother of James (Matthew 27:56)
 arimathea | Arimathea | Arimathea | * | P | Whence came "a rich man ... named Joseph" (Matthew 27:57)
 joseph-ar | Joseph | Joseph | 27:57,27:59 | M | "A rich man of Arimathea, named Joseph, who also himself was Jesus' disciple", who begged the body and laid it in his own new tomb (Matthew 27:57-60)
+# Seas and the mount of Olives, named in phrases
+sea-of-galilee | Sea of Galilee | sea of Galilee | * | P | "Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew" (Matthew 4:18); "the sea of Galilee, which is the sea of Tiberias" (John 6:1)
+olivet | | mount of Olives | * | + |

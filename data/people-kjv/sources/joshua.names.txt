@@ -533,3 +533,7 @@ zippor | | Zippor | * | + |
 gaash | Gaash | Gaash | * | P | The hill on whose north side Joshua was buried (Joshua 24:30)
 hamor | | Hamor | * | + |
 chesalon | | Jearim | * | + |
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |
+salt-sea | | salt sea;sea of the plain | * | + |
+great-sea | | great sea | * | + |

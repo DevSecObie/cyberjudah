@@ -258,3 +258,5 @@ abubus | Abubus | Abubus | * | M | The father of Ptolemee who slew Simon (1 Macc
 mattathias-h | Mattathias | Mattathias | 16:14 | M | A son of Simon, slain with his father at Docus (1 Maccabees 16:14-16)
 sebat | | Sabat | * | + |
 docus | Docus | Docus | * | P | "A little hold, called Docus", built by the son of Abubus, where Simon was slain (1 Maccabees 16:15)
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

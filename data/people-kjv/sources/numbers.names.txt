@@ -420,3 +420,7 @@ ahihud | Ahihud | Ahihud | * | M | The son of Shelomi, prince of the tribe of As
 shelomi | Shelomi | Shelomi | * | M | Of the tribe of Asher, the father of Ahihud (Numbers 34:27)
 pedahel | Pedahel | Pedahel | * | M | The son of Ammihud, prince of the tribe of Naphtali, to divide the land (Numbers 34:28)
 ammihud-n | Ammihud | Ammihud | 34:28 | M | Of the tribe of Naphtali, the father of Pedahel (Numbers 34:28)
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |
+salt-sea | | salt sea | * | + |
+great-sea | Great sea | great sea | * | P | "As for the western border, ye shall even have the great sea for a border" (Numbers 34:6); "unto the great sea toward the going down of the sun" (Joshua 1:4)

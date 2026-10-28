@@ -190,3 +190,5 @@ mary-j | | Mary | 24:10 | + |
 james-j | | James | 24:10 | + |
 emmaus-l | Emmaus | Emmaus | * | P | "A village called Emmaus, which was from Jerusalem about threescore furlongs" (Luke 24:13)
 cleopas | Cleopas | Cleopas | * | M | One of the two that went to Emmaus, to whom Jesus appeared (Luke 24:18)
+# Seas and the mount of Olives, named in phrases
+olivet | | mount of Olives | * | + |

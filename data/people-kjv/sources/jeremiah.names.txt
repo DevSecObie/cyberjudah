@@ -262,3 +262,5 @@ libnah-c | | Libnah | * | + |
 solomon | | Solomon | * | + |
 jehoiachin | | Jehoiachin | * | + |
 evil-merodach | | Evil-merodach | * | + |
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

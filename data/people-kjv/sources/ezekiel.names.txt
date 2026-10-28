@@ -140,3 +140,5 @@ simeon | | Simeon | * | + |
 issachar | | Issachar | * | + |
 zebulun | | Zebulun | * | + |
 gad | | Gad | * | + |
+# Seas and the mount of Olives, named in phrases
+great-sea | | great sea | * | + |
