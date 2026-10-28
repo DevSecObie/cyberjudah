@@ -1,0 +1,7 @@
+# The Epistle of Jeremy. key | Name | forms | verses | type | description
+jeremiah-p | | Jeremy | * | + |
+babylon | | Babylon | * | + |
+babylonians | | Babylonians | * | + |
+nebuchadnezzar | | Nabuchodonosor | * | + |
+chaldees | | Chaldeans | * | + |
+bel | | Bel | * | + |
