@@ -1,0 +1,8 @@
+# James. key | Name | forms | verses | type | description
+james-e | James | James | * | M | "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad" (James 1:1)
+jesus | | Jesus;Christ | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+rahab | | Rahab | * | + |
+job-u | | Job | * | + |
+elijah | | Elias | * | + |
