@@ -197,3 +197,4 @@ gareb-hill | Q5522744 | 31.7775 | 35.2349 | Gareb
 helbon | Q16892062 | 33.6667 | 36.25 | Halboun
 syene | Q29888 | 24.0889 | 32.8997 | Aswan
 hauran | Q1589883 | 33.31 | 36.55 | Hauran
+memphis | Q5715 | 29.8447 | 31.2509 | Memphis
