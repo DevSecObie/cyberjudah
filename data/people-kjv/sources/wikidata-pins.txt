@@ -200,3 +200,15 @@ hauran | Q1589883 | 33.31 | 36.55 | Hauran
 memphis | Q5715 | 29.8447 | 31.2509 | Memphis
 greece | Q11772 | 38.5 | 23.0 | Ancient Greece
 azal | Q7217851 | 31.7608 | 35.2317 | Azal
+nazareth | Q430776 | 32.7021 | 35.2978 | Nazareth
+capernaum | Q59174 | 32.8811 | 35.575 | Capernaum
+decapolis | Q823244 | 32.7167 | 35.8 | Decapolis
+bethsaida | Q501773 | 32.91 | 35.6305 | Bethsaida
+chorazin | Q2456076 | 32.9114 | 35.5639 | Chorazin
+magdala | Q4880851 | 32.8392 | 35.5075 | Magdala
+cesarea-philippi | Q2484244 | 33.2461 | 35.6933 | Caesarea Philippi
+bethphage | Q2193088 | 31.7772 | 35.2508 | Bethphage
+bethany | Q831190 | 31.7714 | 35.2613 | Bethany
+gethsemane | Q205333 | 31.7794 | 35.2394 | Gethsemane
+cyrene | Q44112 | 32.8167 | 21.85 | Cyrene
+golgotha | Q170516 | 31.7786 | 35.2294 | Calvary

@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Matthew added (52 new people incl. Jesus, Joseph, Mary, the twelve apostles, Herod, Herodias, Caiaphas, Pontius Pilate, Barabbas, Mary Magdalene; Beelzebub and Cesar under Other; 14 places incl. Nazareth, Capernaum, Bethany, Gethsemane, Golgotha, Arimathea; 12 pinned to Wikidata).

@@ -1,0 +1,149 @@
+# Matthew. key | Name | forms | verses | type | description
+# The generation of Jesus Christ (1:1-17)
+jesus | Jesus | Jesus;Christ;Emmanuel;Nazarene | * | M | "Jesus Christ, the son of David, the son of Abraham"; born of Mary in Bethlehem of Judea, "conceived in her ... of the Holy Ghost"; called Emmanuel, "God with us"; "Thou art the Christ, the Son of the living God"; crucified under Pontius Pilate, and risen from the dead (Matthew 1:1, 1:18-23, 2:1, 16:16, 27:2, 27:35, 28:6)
+david | | David | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | 1:2,8:11,22:32 | + |
+judah | | Judas;Juda | 1:2,1:3,2:6 | + |
+pharez | | Phares | * | + |
+zarah | | Zara | * | + |
+tamar | | Thamar | * | + |
+hezron | | Esrom | * | + |
+ram | | Aram | * | + |
+amminadab | | Aminadab | * | + |
+naashon | | Naasson | * | + |
+salmon | | Salmon | * | + |
+boaz | | Booz | * | + |
+rahab | | Rachab | * | + |
+obed | | Obed | * | + |
+ruth | | Ruth | * | + |
+jesse | | Jesse | * | + |
+solomon | | Solomon | * | + |
+uriah | | Urias | * | + |
+rehoboam | | Roboam | * | + |
+abijam | | Abia | * | + |
+asa | | Asa | * | + |
+jehoshaphat-k | | Josaphat | * | + |
+jehoram | | Joram | * | + |
+azariah-k | | Ozias | * | + |
+jotham-k | | Joatham | * | + |
+ahaz | | Achaz | * | + |
+hezekiah | | Ezekias | * | + |
+manasseh-k | | Manasses | * | + |
+amon-k | | Amon | * | + |
+josiah | | Josias | * | + |
+jeconiah | | Jechonias | * | + |
+babylon | | Babylon | * | + |
+salathiel | | Salathiel | * | + |
+zerubbabel | | Zorobabel | * | + |
+abiud | Abiud | Abiud | * | M | The son of Zorobabel, father of Eliakim, in the generation of Jesus Christ (Matthew 1:13)
+eliakim-m | Eliakim | Eliakim | * | M | The son of Abiud, father of Azor, in the generation of Jesus Christ (Matthew 1:13)
+azor | Azor | Azor | * | M | The son of Eliakim, father of Sadoc, in the generation of Jesus Christ (Matthew 1:13-14)
+sadoc | Sadoc | Sadoc | * | M | The son of Azor, father of Achim, in the generation of Jesus Christ (Matthew 1:14)
+achim | Achim | Achim | * | M | The son of Sadoc, father of Eliud, in the generation of Jesus Christ (Matthew 1:14)
+eliud | Eliud | Eliud | * | M | The son of Achim, father of Eleazar, in the generation of Jesus Christ (Matthew 1:14-15)
+eleazar-mt | Eleazar | Eleazar | * | M | The son of Eliud, father of Matthan, in the generation of Jesus Christ (Matthew 1:15)
+matthan | Matthan | Matthan | * | M | The son of Eleazar, father of Jacob, in the generation of Jesus Christ (Matthew 1:15)
+jacob-m | Jacob | Jacob | 1:15,1:16 | M | The son of Matthan, who "begat Joseph the husband of Mary" (Matthew 1:15-16)
+joseph-m | Joseph | Joseph | 1:16,1:18,1:19,1:20,1:24,2:13,2:19 | M | "Joseph the husband of Mary, of whom was born Jesus"; "Joseph, thou son of David"; "a just man", who took Mary his wife and fled with the young child into Egypt (Matthew 1:16-25, 2:13-23)
+mary | Mary | Mary | 1:16,1:18,1:20,2:11,13:55 | F | The mother of Jesus, espoused to Joseph, who "was found with child of the Holy Ghost" (Matthew 1:16-25, 2:11, 13:55)
+# The birth and childhood
+beth-lehem | | Bethlehem | * | + |
+judea | | Judea | * | + |
+herod | Herod | Herod | 2:1,2:3,2:7,2:12,2:13,2:15,2:16,2:19,2:22 | M | "Herod the king", in whose days Jesus was born; he slew all the children in Bethlehem from two years old and under (Matthew 2:1-22)
+jerusalem | | Jerusalem | * | + |
+jews | | Jews | * | + |
+israel-people | | Israel | * | + |
+egypt | | Egypt | * | + |
+jeremiah-p | | Jeremy;Jeremias | * | + |
+ramah | | Rama | * | + |
+rachel | | Rachel | * | + |
+archelaus | Archelaus | Archelaus | * | M | Who "did reign in Judea in the room of his father Herod" (Matthew 2:22)
+galilee | | Galilee | * | + |
+nazareth | Nazareth | Nazareth | * | P | The city where Joseph dwelt, that it might be fulfilled, "He shall be called a Nazarene" (Matthew 2:23, 4:13, 21:11, 26:71)
+# John the Baptist and the calling of the disciples
+john-b | John | John;Baptist | !4:21,!10:2,!17:1 | M | "John the Baptist, preaching in the wilderness of Judea", who baptized Jesus in Jordan; "among them that are born of women there hath not risen a greater"; beheaded in prison by Herod the tetrarch (Matthew 3:1-17, 11:11, 14:3-12)
+isaiah | | Esaias | * | + |
+jordan | | Jordan | * | + |
+pharisees | Pharisees | Pharisees;Pharisee | * | G | Whom John called a "generation of vipers"; "Woe unto you, scribes and Pharisees, hypocrites!" (Matthew 3:7, 23:13-29)
+sadducees | Sadducees | Sadducees | * | G | "Which say that there is no resurrection" (Matthew 3:7, 16:1-12, 22:23)
+satan | | Satan | * | + |
+capernaum | Capernaum | Capernaum | * | P | "Which is upon the sea coast, in the borders of Zabulon and Nephthalim", where Jesus dwelt (Matthew 4:13, 8:5, 11:23, 17:24)
+zebulun | | Zabulon | * | + |
+naphtali | | Nephthalim | * | + |
+gentiles | | Gentiles | * | + |
+simon-p | Simon | Simon;Peter;Bar-jona | !10:4=Simon,!13:55=Simon,!26:6=Simon,!27:32=Simon | M | "Simon called Peter", a fisher, the first of the twelve apostles: "Thou art Peter, and upon this rock I will build my church"; "Simon Bar-jona"; he denied Jesus thrice (Matthew 4:18, 10:2, 16:16-18, 26:69-75)
+andrew | Andrew | Andrew | * | M | The brother of Simon called Peter, a fisher, one of the twelve apostles (Matthew 4:18, 10:2)
+james-z | James | James | 4:21,10:2,17:1 | M | "James the son of Zebedee", a fisher, one of the twelve apostles (Matthew 4:21, 10:2, 17:1)
+john-z | John | John | 4:21,10:2,17:1 | M | The brother of James the son of Zebedee, one of the twelve apostles (Matthew 4:21, 10:2, 17:1)
+zebedee | Zebedee | Zebedee | * | M | The father of James and John, who was mending nets with them in the ship (Matthew 4:21-22, 20:20, 27:56)
+syria | | Syria | * | + |
+decapolis | Decapolis | Decapolis | * | P | Whence great multitudes followed Jesus (Matthew 4:25)
+raca | Raca | Raca | * | X | "Whosoever shall say to his brother, Raca" (Matthew 5:22); not a person in People
+moses | | Moses | * | + |
+gergesenes | Gergesenes | Gergesenes | * | G | In whose country Jesus cast the devils into the herd of swine (Matthew 8:28-34)
+# The twelve apostles
+matthew | Matthew | Matthew | * | M | A publican "sitting at the receipt of custom", one of the twelve apostles (Matthew 9:9, 10:3)
+philip-a | Philip | Philip | 10:3 | M | One of the twelve apostles (Matthew 10:3)
+bartholomew | Bartholomew | Bartholomew | * | M | One of the twelve apostles (Matthew 10:3)
+thomas | Thomas | Thomas | * | M | One of the twelve apostles (Matthew 10:3)
+james-a | James | James | 10:3 | M | "James the son of Alpheus", one of the twelve apostles (Matthew 10:3)
+alpheus | Alpheus | Alpheus | * | M | The father of James the apostle (Matthew 10:3)
+lebbeus | Lebbeus | Lebbeus;Thaddeus | * | M | "Lebbeus, whose surname was Thaddeus", one of the twelve apostles (Matthew 10:3)
+simon-c | Simon | Simon;Canaanite | 10:4 | M | "Simon the Canaanite", one of the twelve apostles (Matthew 10:4)
+judas-i | Judas | Judas;Iscariot | 10:4,26:14,26:25,26:47,27:3 | M | "Judas Iscariot, who also betrayed him", one of the twelve; he sold Jesus for thirty pieces of silver and hanged himself (Matthew 10:4, 26:14-16, 26:47-50, 27:3-5)
+samaritans | | Samaritans | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrha | * | + |
+beelzebub | Beelzebub | Beelzebub | * | D | "Beelzebub the prince of the devils" (Matthew 10:25, 12:24-27)
+elijah | | Elias | * | + |
+chorazin | Chorazin | Chorazin | * | P | "Woe unto thee, Chorazin!" (Matthew 11:21)
+bethsaida | Bethsaida | Bethsaida | * | P | "Woe unto thee, Bethsaida!" (Matthew 11:21)
+tyre | | Tyre | * | + |
+sidon-place | | Sidon | * | + |
+jonah | | Jonas | * | + |
+nineveh | | Nineveh | * | + |
+# His brethren, Herod the tetrarch
+james-b | James | James | 13:55 | M | One of the brethren of Jesus: "his brethren, James, and Joses, and Simon, and Judas" (Matthew 13:55)
+joses-b | Joses | Joses | 13:55 | M | One of the brethren of Jesus (Matthew 13:55)
+simon-jb | Simon | Simon | 13:55 | M | One of the brethren of Jesus (Matthew 13:55)
+judas-b | Judas | Judas | 13:55 | M | One of the brethren of Jesus (Matthew 13:55)
+herod-t | Herod | Herod | 14:1,14:3,14:6 | M | "Herod the tetrarch", who took Herodias his brother Philip's wife and beheaded John the Baptist (Matthew 14:1-11)
+herodias | Herodias | Herodias | * | F | "His brother Philip's wife", for whose sake Herod put John in prison; her daughter danced before Herod (Matthew 14:3-11)
+philip-h | Philip | Philip | 14:3 | M | The brother of Herod the tetrarch, whose wife was Herodias (Matthew 14:3)
+gennesaret | Gennesaret | Gennesaret | * | P | "The land of Gennesaret" (Matthew 14:34)
+canaan-land | | Canaan | * | + |
+magdala | Magdala | Magdala | * | P | "The coasts of Magdala" (Matthew 15:39)
+cesarea-philippi | Cesarea Philippi | Cesarea;Philippi | * | P | "The coasts of Cesarea Philippi" (Matthew 16:13)
+yes | Yes | Yes | * | X | "He saith, Yes" (Matthew 17:25); not a name
+jericho | | Jericho | * | + |
+bethphage | Bethphage | Bethphage | * | P | Unto "the mount of Olives" (Matthew 21:1)
+sion-z | | Sion | * | + |
+hosanna | Hosanna | Hosanna | * | X | "Hosanna to the Son of David" (Matthew 21:9, 21:15); not a person in People
+bethany | Bethany | Bethany | * | P | Where Jesus lodged, and where he was in the house of Simon the leper (Matthew 21:17, 26:6)
+herodians | Herodians | Herodians | * | G | Sent with the disciples of the Pharisees to entangle Jesus (Matthew 22:16)
+cesar | Cesar | Cesar | * | T | "Render therefore unto Cesar the things which are Cesar's" (Matthew 22:17-21)
+rabbi | Rabbi | Rabbi | * | X | "Be not ye called Rabbi" (Matthew 23:7-8); not a person in People
+abel | | Abel | * | + |
+zacharias-b | Zacharias | Zacharias | * | M | "Zacharias son of Barachias, whom ye slew between the temple and the altar" (Matthew 23:35)
+barachias | Barachias | Barachias | * | M | The father of Zacharias who was slain between the temple and the altar (Matthew 23:35)
+daniel-p | | Daniel | * | + |
+christs | Christs | Christs | * | X | "There shall arise false Christs, and false prophets" (Matthew 24:24); not a person in People
+noah | | Noe | * | + |
+# The passion and resurrection
+caiaphas | Caiaphas | Caiaphas | * | M | "The high priest, who was called Caiaphas", in whose palace they consulted to take Jesus (Matthew 26:3, 26:57)
+simon-l | Simon | Simon | 26:6 | M | "Simon the leper", in whose house in Bethany Jesus was anointed (Matthew 26:6-7)
+gethsemane | Gethsemane | Gethsemane | * | P | "A place called Gethsemane", where Jesus prayed (Matthew 26:36)
+pilate | Pontius Pilate | Pontius;Pilate | * | M | "Pontius Pilate the governor", who washed his hands before the multitude and delivered Jesus to be crucified (Matthew 27:2, 27:11-26)
+barabbas | Barabbas | Barabbas | * | M | "A notable prisoner", released unto the people instead of Jesus (Matthew 27:16-26)
+cyrene | Cyrene | Cyrene | * | P | Whence came "a man of Cyrene, Simon by name" (Matthew 27:32)
+simon-cy | Simon | Simon | 27:32 | M | "A man of Cyrene, Simon by name", compelled to bear the cross of Jesus (Matthew 27:32)
+golgotha | Golgotha | Golgotha | * | P | "That is to say, a place of a skull" (Matthew 27:33)
+eli-cry | Eli | Eli | * | X | "Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?" (Matthew 27:46); not a person in People
+mary-m | Mary Magdalene | Mary;Magdalene | 27:56,27:61,28:1 | F | "Mary Magdalene", who beheld the crucifixion and came to see the sepulchre (Matthew 27:56, 27:61, 28:1)
+mary-j | Mary | Mary | 27:56,27:61,28:1 | F | "Mary the mother of James and Joses", who beheld the crucifixion; "the other Mary" who sat over against the sepulchre and came to see it (Matthew 27:56, 27:61, 28:1)
+james-j | James | James | 27:56 | M | The son of Mary, brother of Joses (Matthew 27:56)
+joses-j | Joses | Joses | 27:56 | M | The son of Mary, brother of James (Matthew 27:56)
+arimathea | Arimathea | Arimathea | * | P | Whence came "a rich man ... named Joseph" (Matthew 27:57)
+joseph-ar | Joseph | Joseph | 27:57,27:59 | M | "A rich man of Arimathea, named Joseph, who also himself was Jesus' disciple", who begged the body and laid it in his own new tomb (Matthew 27:57-60)
