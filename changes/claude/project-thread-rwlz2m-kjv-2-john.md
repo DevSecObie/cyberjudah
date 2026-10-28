@@ -1,0 +1,1 @@
+- 2 John: no new records; adds 2 John verses to Jesus.
