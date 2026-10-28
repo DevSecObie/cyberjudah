@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Ephesians added (no new records; Ephesians verses added to Paul, Jesus, Tychicus, the Gentiles, Israel, the Ephesians, Ephesus and Rome).
