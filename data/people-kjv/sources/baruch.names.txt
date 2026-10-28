@@ -1,0 +1,33 @@
+# Baruch. key | Name | forms | verses | type | description
+baruch-n | | Baruch | * | + |
+neriah | | Nerias | * | + |
+maaseiah-n | | Maasias | * | + |
+sedecias-b | Sedecias | Sedecias | 1:1 | M | In the line of Baruch, the son of Asadias, father of Maasias (Baruch 1:1)
+zedekiah-k | | Sedecias | 1:8 | + |
+asadias | Asadias | Asadias | * | M | In the line of Baruch, the son of Chelcias, father of Sedecias (Baruch 1:1)
+chelcias-b | Chelcias | Chelcias | 1:1 | M | In the line of Baruch, father of Asadias (Baruch 1:1)
+hilkiah-p | | Chelcias | 1:7 | + |
+shallum-p | | Salom | * | + |
+joachim-hp | Joachim | Joachim | 1:7 | M | "Joachim the high priest, the son of Chelcias, son of Salom", at Jerusalem, to whom the captives sent money (Baruch 1:7)
+jehoiakim | | Joachim | 1:3 | + |
+babylon | | Babylon | * | + |
+chaldees | | Chaldeans | * | + |
+jerusalem | | Jerusalem | * | + |
+jeconiah | | Jechonias | * | + |
+judah | | Juda | * | + |
+sud-river | Sud | Sud | * | P | "Babylon by the river Sud" (Baruch 1:4)
+sivan-month | | Sivan | * | + |
+josiah | | Josias | * | + |
+nebuchadnezzar | | Nabuchodonosor | * | + |
+belshazzar | | Balthasar | * | + |
+egypt | | Egypt | * | + |
+moses | | Moses | * | + |
+israel-people | | Israel;Israelites | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | * | + |
+canaan-land | | Chanaan | * | + |
+temani | | Theman | * | + |
+hagarites | | Agarenes | * | + |
+meran | Meran | Meran | * | P | "The merchants of Meran and of Theman" (Baruch 3:23)
+sion-z | | Sion | * | + |

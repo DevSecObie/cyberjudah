@@ -1,0 +1,11 @@
+# Baruch. child < father | verses | note | evidence | sources
+baruch-n < neriah | 1:1
+neriah < maaseiah-n | 1:1
+maaseiah-n < sedecias-b | 1:1
+sedecias-b < asadias | 1:1
+asadias < chelcias-b | 1:1
+jeconiah < jehoiakim | 1:3 | "Jechonias the son of Joachim king of Juda"
+joachim-hp < hilkiah-p | 1:7 | "Joachim the high priest, the son of Chelcias, son of Salom"
+hilkiah-p < shallum-p | 1:7
+zedekiah-k < josiah | 1:8 | "Sedecias the son of Josias king of Juda"
+belshazzar < nebuchadnezzar | 1:11,1:12 | "Nabuchodonosor king of Babylon, and ... Balthasar his son"

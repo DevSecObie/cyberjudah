@@ -1,0 +1,1 @@
+- People (KJV): add Baruch (his line in 1:1, Joachim the high priest son of Chelcias) and places the river Sud and Meran.
