@@ -1,0 +1,1 @@
+- 1 Thessalonians: no new records; adds 1 Thessalonians verses to Paul, Jesus, Silvanus, Timotheus, the Thessalonians, Macedonia, Achaia, Philippi, Judea, the Jews, the Gentiles, Satan and Athens.
