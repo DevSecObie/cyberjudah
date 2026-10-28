@@ -293,4 +293,6 @@ philadelphia | Q2085773 | 38.35 | 28.5167 | Philadelphia
 sardis | Q232615 | 38.4883 | 28.0403 | Sardis
 smyrna | Q1379299 | 38.4186 | 27.1428 | Smyrna
 armageddon | Q193151 | 32.585 | 35.185 | Armageddon
+celosyria | Q1123749 | 36.2 | 36.15 | Coele-Syria
+ecbatana | Q696193 | 34.8065 | 48.5162 | Ecbatana
 colosse | Q1001370 | 37.7906 | 29.2592 | Colossae

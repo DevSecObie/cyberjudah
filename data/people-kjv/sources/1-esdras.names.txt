@@ -1,0 +1,464 @@
+# 1 Esdras. key | Name | forms | verses | type | description
+josiah | | Josias | *,!8:33 | + |
+josias-g | Josias | Josias | 8:33 | M | "Of the sons of Elam, Josias son of Gotholias, and with him seventy men", who went up with Esdras (1 Esdras 8:33)
+jerusalem | | Jerusalem | * | + |
+levites | | Levites | * | + |
+israel-people | | Israel | * | + |
+solomon | | Solomon | * | + |
+david | | David | * | + |
+moses | | Moses | * | + |
+hilkiah | | Helkias | * | + |
+zechariah-r35 | | Zacharias | 1:8 | + |
+syelus | Syelus | Syelus | * | M | One of "the governors of the temple" in Josias' passover (1 Esdras 1:8)
+conaniah | | Jeconias | 1:9 | + |
+shemaiah-cl | | Samaias | 1:9 | + |
+nethaneel-c | | Nathanael | 1:9 | + |
+hashabiah-c | | Assabias | * | + |
+ochiel | Ochiel | Ochiel | * | M | One of the "captains over thousands" who gave to the Levites for the passover in Josias' days (1 Esdras 1:9)
+joram-c | Joram | Joram | * | M | One of the "captains over thousands" who gave to the Levites for the passover in Josias' days (1 Esdras 1:9)
+aaron | | Aaron | * | + |
+asaph-s | | Asaph | 1:15,5:27,5:59 | + |
+zacharias-s | Zacharias | Zacharias | 1:15 | M | Named with Asaph and Jeduthun among the holy singers in Josias' passover (1 Esdras 1:15)
+jeduthun-s | | Jeduthun | * | + |
+samuel | | Samuel | * | + |
+jews | | Jews | * | + |
+pharaoh-nechoh | | Pharaoh | * | + |
+egypt | | Egypt | * | + |
+carchemish | | Carchamis | * | + |
+euphrates | | Euphrates | * | + |
+judea | | Judea | * | + |
+jeremiah-p | | Jeremy | * | + |
+megiddo | | Magiddo | * | + |
+jewry | | Jewry | * | + |
+judah | | Judah | * | + |
+jehoahaz-j | | Joachaz | * | + |
+jehoiakim | | Joacim | 1:37,1:38,1:39 | + |
+jehoiachin | | Joacim | 1:43 | + |
+joacim-z | Joacim | Joacim | 5:5 | M | "Joacim the son of Zorobabel, the son of Salathiel, of the house of David", named with Jesus the son of Josedec (1 Esdras 5:5)
+zaraces | Zaraces | Zaraces | * | M | The brother of Joacim, whom the king of Egypt apprehended and brought out of Egypt (1 Esdras 1:38)
+nebuchadnezzar | | Nabuchodonosor | * | + |
+babylon | | Babylon | * | + |
+zedekiah-k | | Zedechias | * | + |
+chaldees | | Chaldees | * | + |
+persians | | Persians | * | + |
+cyrus | | Cyrus | * | + |
+benjamin | | Benjamin | * | + |
+mithredath-t | | Mithridates | 2:11 | + |
+mithredath-w | | Mithridates | 2:16 | + |
+sheshbazzar | | Sanabassar;Sanabassarus | * | + |
+artaxerxes-4 | | Artaxerxes | 2:16,2:17,2:30 | + |
+artaxerxes | | Artaxerxes | 7:4,8:1,8:6,8:8,8:9,8:19,8:28 | + |
+belemus | Belemus | Belemus | * | M | One who wrote with Mithridates and others from Samaria unto Artaxerxes against them that dwelt in Judea and Jerusalem (1 Esdras 2:16)
+tabeel | | Tabellius | * | + |
+rehum-c | | Rathumus | * | + |
+beeltethmus | Beeltethmus | Beeltethmus | * | M | One who wrote with Rathumus and Semellius unto Artaxerxes, to whom the king wrote back (1 Esdras 2:16, 2:25)
+shimshai | | Semellius | * | + |
+samaria | | Samaria | * | + |
+celosyria | Celosyria | Celosyria | * | P | Named with Phenice, whose governors and judges had charge of the tribute (1 Esdras 2:17, 2:24, 4:48, 6:29, 7:1, 8:67)
+phenice | | Phenice | * | + |
+syria | | Syria | * | + |
+darius-p | | Darius | * | + |
+media | | Media | * | + |
+persia | | Persia | * | + |
+india | | India | * | + |
+ethiopia | | Ethiopia | * | + |
+zerubbabel | | Zorobabel | * | + |
+apame | Apame | Apame | * | F | "The king's concubine, the daughter of the admirable Bartacus", of whom Zorobabel spake before Darius (1 Esdras 4:29)
+bartacus | Bartacus | Bartacus | * | M | "The admirable Bartacus", father of Apame (1 Esdras 4:29)
+edomites | | Edomites | * | + |
+lebanon | | Libanus | * | + |
+phinehas | | Phinees | 5:5,8:2,8:29 | + |
+phinees-n | Phinees | Phinees | 5:31 | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+phinehas-8 | | Phinees | 8:63 | + |
+jeshua-hp | | Jesus | 5:5,5:8,5:48,5:56,5:68,5:70,6:2,9:19 | + |
+jeshua-h | | Jesus | 5:24 | + |
+jeshua-lv | | Jesus;Jessue | 5:26,5:58 | + |
+jeshua-87 | | Jesus | 9:48 | + |
+jozadak | | Josedec | * | + |
+seraiah-6 | | Saraias | * | + |
+shealtiel | | Salathiel | * | + |
+pharez | | Phares;Pharez | * | + |
+nisan-month | | Nisan | * | + |
+nehemiah-z | | Nehemias | 5:8 | + |
+nehemias-40 | Nehemias | Nehemias | 5:40 | M | Who with Atharias said that the priests whose register was not found should not be partakers of the holy things (1 Esdras 5:40)
+zacharias-g | Zacharias | Zacharias | 5:8 | M | One of the guides who came with Zorobabel (1 Esdras 5:8)
+reelaiah | | Reesaias | * | + |
+enenius | Enenius | Enenius | * | M | One of the guides who came with Zorobabel (1 Esdras 5:8)
+mordecai-z | | Mardocheus | * | + |
+beelsarus | Beelsarus | Beelsarus | * | M | One of the guides who came with Zorobabel (1 Esdras 5:8)
+aspharasus | Aspharasus | Aspharasus | * | M | One of the guides who came with Zorobabel (1 Esdras 5:8)
+reelius | Reelius | Reelius | * | M | One of the guides who came with Zorobabel (1 Esdras 5:8)
+roimus | Roimus | Roimus | * | M | One of the guides who came with Zorobabel (1 Esdras 5:8)
+baanah-z | | Baana | * | + |
+parosh | | Phoros | * | + |
+shephatiah-c | | Saphat | * | + |
+arah-c | | Ares | * | + |
+pahath-moab | | Phaath;Moab;Pahath | 5:11,8:31 | + |
+elam-c | | Elam | * | + |
+zattu | | Zathui;Zathoe | * | + |
+corbe | Corbe | Corbe | * | M | Whose sons came up out of the captivity, seven hundred and five (1 Esdras 5:12)
+bani-c | | Bani | * | + |
+bebai | | Bebai | 5:13,8:37,9:29 | + |
+sadas | Sadas | Sadas | * | M | Whose sons came up out of the captivity, three thousand two hundred twenty and two (1 Esdras 5:13)
+adonikam | | Adonikam | * | + |
+bigvai | | Bagoi;Bago | * | + |
+adin | | Adin | * | + |
+aterezias | Aterezias | Aterezias | * | M | Whose sons came up out of the captivity, ninety and two (1 Esdras 5:15)
+ceilan | Ceilan | Ceilan | * | M | Whose sons, with those of Azetas, came up out of the captivity, threescore and seven (1 Esdras 5:15)
+azetas | Azetas | Azetas | * | M | Whose sons, with those of Ceilan, came up out of the captivity, threescore and seven (1 Esdras 5:15)
+azuran | Azuran | Azuran | * | M | Whose sons came up out of the captivity, four hundred thirty and two (1 Esdras 5:15)
+ananias-5 | Ananias | Ananias | 5:16 | M | Whose sons came up out of the captivity, an hundred and one (1 Esdras 5:16)
+arom | Arom | Arom | * | M | Whose sons came up out of the captivity, thirty two (1 Esdras 5:16)
+bezai | | Bassa | * | + |
+azephurith | Azephurith | Azephurith | * | M | Whose sons came up out of the captivity, an hundred and two (1 Esdras 5:16)
+meterus | Meterus | Meterus | * | M | Whose sons came up out of the captivity, three thousand and five (1 Esdras 5:17)
+beth-lehem | | Bethlomon | * | + |
+netophah | | Netophah | * | + |
+anathoth | | Anathoth | * | + |
+bethsamos | Bethsamos | Bethsamos | * | P | Whose men came up out of the captivity, forty and two (1 Esdras 5:18)
+kirjath-jearim | | Kiriathiarius | * | + |
+chephirah | | Caphira | * | + |
+beeroth-g | | Beroth | * | + |
+pira | Pira | Pira | * | P | Whose men came up out of the captivity, seven hundred (1 Esdras 5:19)
+chadias | Chadias | Chadias | * | P | Whose men, with those of Ammidoi, came up out of the captivity, four hundred twenty and two (1 Esdras 5:20)
+ammidoi | Ammidoi | Ammidoi | * | P | Whose men, with those of Chadias, came up out of the captivity, four hundred twenty and two (1 Esdras 5:20)
+cirama | Cirama | Cirama | * | P | Whose men, with those of Gabdes, came up out of the captivity, six hundred twenty and one (1 Esdras 5:20)
+gabdes | Gabdes | Gabdes | * | P | Whose men, with those of Cirama, came up out of the captivity, six hundred twenty and one (1 Esdras 5:20)
+macalon | Macalon | Macalon | * | P | Whose men came up out of the captivity, an hundred twenty and two (1 Esdras 5:21)
+betolius | Betolius | Betolius | * | P | Whose men came up out of the captivity, fifty and two (1 Esdras 5:21)
+nephis | Nephis | Nephis | * | M | Whose sons came up out of the captivity, an hundred fifty and six (1 Esdras 5:21)
+calamolalus | Calamolalus | Calamolalus | * | P | Whose sons, with those of Onus, came up out of the captivity, seven hundred twenty and five (1 Esdras 5:22)
+ono | | Onus | * | + |
+jericho | | Jerechus | * | + |
+annas-c | Annas | Annas | 5:23 | M | Whose sons came up out of the captivity, three thousand three hundred and thirty (1 Esdras 5:23)
+annas-9 | Annas | Annas | 9:32 | M | Of whose sons were some who had taken strange wives (1 Esdras 9:32)
+jeddu | Jeddu | Jeddu | * | M | Of the priests, the son of Jesus, among the sons of Sanasib, whose sons came up out of the captivity, nine hundred seventy and two (1 Esdras 5:24)
+sanasib | Sanasib | Sanasib | * | M | Of the priests, among whose sons were the sons of Jeddu (1 Esdras 5:24)
+meruth | Meruth | Meruth | * | M | Of the priests, whose sons came up out of the captivity, a thousand fifty and two (1 Esdras 5:24)
+pashur-h | | Phassaron | * | + |
+carme | Carme | Carme | * | M | Of the priests, whose sons came up out of the captivity, a thousand and seventeen (1 Esdras 5:25)
+kadmiel | | Cadmiel | * | + |
+banuas | Banuas | Banuas | * | M | Of the Levites, whose sons came up out of the captivity (1 Esdras 5:26)
+sudias | Sudias | Sudias | * | M | Of the Levites, whose sons came up out of the captivity (1 Esdras 5:26)
+shallum-po | | Salum | 5:28 | + |
+shallum-p | | Salum | 8:1 | + |
+jatal | Jatal | Jatal | * | M | Of the porters, whose sons came up out of the captivity (1 Esdras 5:28)
+talmon-p | | Talmon | * | + |
+dacobi | Dacobi | Dacobi | * | M | Of the porters, whose sons came up out of the captivity (1 Esdras 5:28)
+teta | Teta | Teta | * | M | Of the porters, whose sons came up out of the captivity (1 Esdras 5:28)
+sami | Sami | Sami | * | M | Of the porters, whose sons came up out of the captivity (1 Esdras 5:28)
+esau | | Esau | * | + |
+hasupha | | Asipha | * | + |
+tabbaoth | | Tabaoth | * | + |
+keros | | Ceras | * | + |
+sud | Sud | Sud | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:29)
+phaleas | Phaleas | Phaleas | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:29)
+lebanah | | Labana | * | + |
+graba | Graba | Graba | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:29)
+acua | Acua | Acua | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:30)
+uta | Uta | Uta | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:30)
+cetab | Cetab | Cetab | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:30)
+hagab | | Agaba | * | + |
+subai | Subai | Subai | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:30)
+hanan-n | | Anan | * | + |
+cathua | Cathua | Cathua | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:30)
+geddur | Geddur | Geddur | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:30)
+airus | Airus | Airus | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+daisan | Daisan | Daisan | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+noeba | Noeba | Noeba | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+chaseba | Chaseba | Chaseba | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+gazera | Gazera | Gazera | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+uzza-n | | Azia | * | + |
+azara | Azara | Azara | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+besai | | Bastai | * | + |
+asnah | | Asana | * | + |
+mehunim | | Meani | * | + |
+nephusim | | Naphisi | * | + |
+acub | Acub | Acub | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+hakupha | | Acipha | * | + |
+assur-n | Assur | Assur | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+pharacim | Pharacim | Pharacim | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:31)
+bazluth | | Basaloth | * | + |
+mehida | | Meeda | * | + |
+coutha | Coutha | Coutha | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:32)
+charea | Charea | Charea | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:32)
+barkos | | Charcus | * | + |
+aserer | Aserer | Aserer | * | M | Of the servants of the temple, whose sons came up out of the captivity (1 Esdras 5:32)
+thamah | | Thomoi | * | + |
+neziah | | Nasith | * | + |
+hatipha | | Atipha | * | + |
+azaphion | Azaphion | Azaphion | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:33)
+peruda | | Pharira | * | + |
+jaalah | | Jeeli | * | + |
+lozon | Lozon | Lozon | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:33)
+isdael | Isdael | Isdael | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:33)
+shephatiah-s | | Sapheth | * | + |
+hagia | Hagia | Hagia | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+pochereth | | Phacareth | * | + |
+sabi | Sabi | Sabi | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+sarothie | Sarothie | Sarothie | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+masias | Masias | Masias | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+gar | Gar | Gar | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+addus-s | Addus | Addus | 5:34 | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+suba | Suba | Suba | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+apherra | Apherra | Apherra | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+barodis | Barodis | Barodis | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+sabat | Sabat | Sabat | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+allom | Allom | Allom | * | M | Of the servants of Solomon, whose sons came up out of the captivity (1 Esdras 5:34)
+thermeleth | Thermeleth | Thermeleth | * | P | Whence came up some who could not shew their families (1 Esdras 5:36)
+thelersas | Thelersas | Thelersas | * | P | Whence came up some who could not shew their families (1 Esdras 5:36)
+charaathalar | Charaathalar | Charaathalar | * | M | Who led those that came up from Thermeleth and Thelersas (1 Esdras 5:36)
+aalar | Aalar | Aalar | * | M | Named with Charaathalar, leading those that came up from Thermeleth and Thelersas (1 Esdras 5:36)
+ladan | Ladan | Ladan | * | M | The son of Ban, whose sons could not shew their families, how they were of Israel (1 Esdras 5:37)
+ban | Ban | Ban | * | M | The father of Ladan (1 Esdras 5:37)
+nekoda-u | | Necodan | * | + |
+obdia | Obdia | Obdia | * | M | Of the priests that usurped the office of the priesthood, whose register was not found (1 Esdras 5:38)
+koz | | Accoz | * | + |
+addus-p | Addus | Addus | 5:38 | M | Of the priests whose register was not found, "who married Augia one of the daughters of Berzelus, and was named after his name" (1 Esdras 5:38)
+augia | Augia | Augia | * | F | One of the daughters of Berzelus, whom Addus married (1 Esdras 5:38)
+barzillai | | Berzelus | * | + |
+atharias | Atharias | Atharias | * | M | Who with Nehemias said that the priests whose register was not found should not be partakers of the holy things (1 Esdras 5:40)
+sidon-place | | Sidon | * | + |
+tyre | | Tyre | * | + |
+joppa | | Joppe | * | + |
+madiabun | Madiabun | Madiabun | * | M | Of the Levites, whose sons were setters forward of the works of the house (1 Esdras 5:58)
+joda | Joda | Joda | * | M | Of the Levites, the son of Eliadun, setters forward of the works of the house (1 Esdras 5:58)
+eliadun | Eliadun | Eliadun | * | M | The father of Joda (1 Esdras 5:58)
+azbazareth | Azbazareth | Azbazareth | * | M | "The king of the Assyrians", who brought the adversaries of Judah and Benjamin hither (1 Esdras 5:69)
+assyrians | | Assyrians | * | + |
+haggai | | Aggeus | * | + |
+zechariah-iddo | | Zacharias | 6:1,7:3 | + |
+iddo-z | | Addo | * | + |
+sisinnes | Sisinnes | Sisinnes | * | M | The governor of Syria and Phenice, who with Sathrabuzanes wrote to Darius concerning the building of the temple (1 Esdras 6:3-7, 6:27, 7:1)
+shethar-boznai | | Sathrabuzanes | * | + |
+ecbatana | Ecbatana | Ecbatana | * | P | "The palace, which is in the country of Media", where the roll of Cyrus was found (1 Esdras 6:23)
+adar-month | | Adar | * | + |
+assyria | | Assyria | * | + |
+ezra | | Esdras | * | + |
+azariah-p3 | | Ezerias | * | + |
+hilkiah-p | | Helchiah | * | + |
+zadok-2 | | Sadduc | * | + |
+ahitub-2 | | Achitob | * | + |
+amariah-2 | | Amarias | * | + |
+azariah-p2 | | Ezias | * | + |
+meraioth | | Memeroth | * | + |
+zerahiah | | Zaraias | 8:2 | + |
+savias | Savias | Savias | * | M | In the line of Esdras, the son of Boccas, father of Zaraias (1 Esdras 8:2)
+bukki-p | | Boccas | * | + |
+abishua | | Abisum | * | + |
+eleazar | | Eleazar | 8:2 | + |
+gershom-p | | Gerson | * | + |
+ithamar | | Ithamar | * | + |
+gamael | Gamael | Gamael | * | M | "Of the sons of Ithamar, Gamael", who went up with Esdras (1 Esdras 8:29)
+lettus | Lettus | Lettus | * | M | "Of the sons of David, Lettus the son of Sechenias", who went up with Esdras (1 Esdras 8:29)
+sechenias-l | Sechenias | Sechenias | 8:29 | M | The father of Lettus (1 Esdras 8:29)
+zechariah-ph | | Zacharias | 8:30 | + |
+eliaonias | Eliaonias | Eliaonias | * | M | "Of the sons of Pahath Moab, Eliaonias, the son of Zaraias", with whom were two hundred men (1 Esdras 8:31)
+zaraias-pm | Zaraias | Zaraias | 8:31 | M | The father of Eliaonias (1 Esdras 8:31)
+sechenias-j | Sechenias | Sechenias | 8:32 | M | "Of the sons of Zathoe, Sechenias the son of Jezelus", with whom were three hundred men (1 Esdras 8:32)
+jezelus-s | Jezelus | Jezelus | 8:32 | M | The father of Sechenias (1 Esdras 8:32)
+obeth | Obeth | Obeth | * | M | "Of the sons of Adin, Obeth the son of Jonathan", with whom were two hundred and fifty men (1 Esdras 8:32)
+jonathan-ad | | Jonathan | 8:32 | + |
+gotholias | Gotholias | Gotholias | * | M | The father of Josias (1 Esdras 8:33)
+shephatiah-c | | Saphatias | * | + |
+zaraias-m | Zaraias | Zaraias | 8:34 | M | "Of the sons of Saphatias, Zaraias son of Michael", with whom were threescore and ten men (1 Esdras 8:34)
+michael-sh | | Michael | * | + |
+joab-8 | | Joab | * | + |
+obadiah-jb | | Abadias | * | + |
+jezelus-a | Jezelus | Jezelus | 8:35 | M | The father of Abadias (1 Esdras 8:35)
+banid | Banid | Banid | * | M | Of whose sons Assalimoth son of Josaphias went up with Esdras (1 Esdras 8:36)
+assalimoth | Assalimoth | Assalimoth | * | M | "Of the sons of Banid, Assalimoth son of Josaphias", with whom were an hundred and threescore men (1 Esdras 8:36)
+josiphiah | | Josaphias | * | + |
+bebai | | Babi | * | + |
+zechariah-b | | Zacharias | 8:37 | + |
+astath | Astath | Astath | * | M | Of whose sons Johannes son of Acatan went up with Esdras (1 Esdras 8:38)
+johanan-hk | | Johannes | 8:38 | + |
+hakkatan | | Acatan | * | + |
+eliphelet-a | | Eliphalet | * | + |
+jeiel-ad | | Jeuel | * | + |
+shemaiah-ad | | Samaias | 8:39 | + |
+uthai-b | | Uthi | * | + |
+istalcurus | Istalcurus | Istalcurus | * | M | The father of Uthi (1 Esdras 8:40)
+theras | Theras | Theras | * | P | "The river called Theras", where Esdras gathered them and pitched three days (1 Esdras 8:41, 8:61)
+eleazar-43 | Eleazar | Eleazar | 8:43 | M | One of the principal men and learned whom Esdras sent unto Saddeus (1 Esdras 8:43)
+iduel | Iduel | Iduel | * | M | One of the principal men and learned whom Esdras sent unto Saddeus (1 Esdras 8:43)
+masman | Masman | Masman | * | M | One of the principal men and learned whom Esdras sent unto Saddeus (1 Esdras 8:43)
+alnathan | Alnathan | Alnathan | * | M | One of the principal men and learned whom Esdras sent unto Saddeus (1 Esdras 8:44)
+mamaias | Mamaias | Mamaias | * | M | One of the principal men and learned whom Esdras sent unto Saddeus (1 Esdras 8:44)
+joiarib | | Joribas | * | + |
+nathan-16 | | Nathan | * | + |
+eunatan | Eunatan | Eunatan | * | M | One of the principal men and learned whom Esdras sent unto Saddeus (1 Esdras 8:44)
+zechariah-16 | | Zacharias | 8:44 | + |
+mosollamon | Mosollamon | Mosollamon | * | M | One of the principal men and learned whom Esdras sent unto Saddeus (1 Esdras 8:44)
+saddeus | Saddeus | Saddeus | * | M | "The captain, who was in the place of the treasury", to whom Esdras sent for ministers (1 Esdras 8:45)
+daddeus | Daddeus | Daddeus | * | M | To whom, and to his brethren, Esdras sent for men to execute the priests' office (1 Esdras 8:46)
+mahli-m | | Moli | * | + |
+levi | | Levi | * | + |
+asebebia | Asebebia | Asebebia | * | M | Of the sons of Moli, who with his sons and brethren, eighteen, was brought to Esdras (1 Esdras 8:47)
+hashabiah-e | | Asebia | * | + |
+annuus | Annuus | Annuus | * | M | Brought to Esdras with Asebia and Osaias (1 Esdras 8:48)
+osaias | Osaias | Osaias | * | M | The brother of Annuus, of the sons of Channuneus, brought to Esdras (1 Esdras 8:48)
+channuneus | Channuneus | Channuneus | * | M | Of whose sons Asebia, Annuus and Osaias were (1 Esdras 8:48)
+esebrias | Esebrias | Esebrias | * | M | One of the twelve chief priests Esdras separated to keep the vessels (1 Esdras 8:54)
+assanias | Assanias | Assanias | * | M | One of the twelve chief priests Esdras separated to keep the vessels (1 Esdras 8:54)
+meremoth-u | | Marmoth | * | + |
+iri-m | Iri | Iri | * | M | The father of Marmoth the priest (1 Esdras 8:62)
+eleazar-ph | | Eleazar | 8:63 | + |
+jozabad-j | | Josabad | 8:63 | + |
+jeshua-8 | | Jesu | * | + |
+moeth | Moeth | Moeth | * | M | The son of Sabban, a Levite, to whom the gold and silver were delivered (1 Esdras 8:63)
+sabban | Sabban | Sabban | * | M | The father of Moeth (1 Esdras 8:63)
+gentiles | | Gentiles | * | + |
+canaanites | | Canaanites | * | + |
+hittites | | Hittites | * | + |
+perizzites | | Pheresites | * | + |
+jebusite | | Jebusites | * | + |
+moabites | | Moabites | * | + |
+egyptian | | Egyptians | * | + |
+sion-z | | Sion | * | + |
+jechonias | Jechonias | Jechonias | * | M | "The son of Jeelus, one of the sons of Israel", who said to Esdras, "We have sinned against the Lord" (1 Esdras 8:92)
+jeelus | Jeelus | Jeelus | * | M | The father of Jechonias (1 Esdras 8:92)
+johanan-el | | Joanan | * | + |
+eliashib-j | | Eliasib | * | + |
+jonathan-as | | Jonathan | 9:14 | + |
+asahel-j | | Azael | * | + |
+ezechias-t | Ezechias | Ezechias | * | M | The son of Theocanus, who with Jonathan the son of Azael took the matter of the strange wives upon them (1 Esdras 9:14)
+theocanus | Theocanus | Theocanus | * | M | The father of Ezechias (1 Esdras 9:14)
+meshullam-15 | | Mosollam | * | + |
+levis | Levis | Levis | * | M | Who helped Jonathan and Ezechias in the matter of the strange wives (1 Esdras 9:14)
+shabbethai | | Sabbatheus | * | + |
+matthelas | Matthelas | Matthelas | * | M | Of the sons of Jesus the son of Josedec, who had taken a strange wife (1 Esdras 9:19)
+eleazar-j | Eleazar | Eleazar | 9:19 | M | Of the sons of Jesus the son of Josedec, who had taken a strange wife (1 Esdras 9:19)
+jarib-j | | Joribus | * | + |
+joadanus | Joadanus | Joadanus | * | M | Of the sons of Jesus the son of Josedec, who had taken a strange wife (1 Esdras 9:19)
+immer-h | | Emmer | * | + |
+ananias-em | Ananias | Ananias | 9:21 | M | Of the sons of Emmer, who had taken a strange wife (1 Esdras 9:21)
+zabdeus | Zabdeus | Zabdeus | * | M | Of the sons of Emmer, who had taken a strange wife (1 Esdras 9:21)
+eanes | Eanes | Eanes | * | M | Of the sons of Emmer, who had taken a strange wife (1 Esdras 9:21)
+sameius | Sameius | Sameius | * | M | Of the sons of Emmer, who had taken a strange wife (1 Esdras 9:21)
+hiereel | Hiereel | Hiereel | * | M | Of the sons of Emmer, who had taken a strange wife (1 Esdras 9:21)
+azarias-em | Azarias | Azarias | 9:21 | M | Of the sons of Emmer, who had taken a strange wife (1 Esdras 9:21)
+pashur-h | | Phaisur | * | + |
+elionas-p | Elionas | Elionas | 9:22 | M | Of the sons of Phaisur, who had taken a strange wife (1 Esdras 9:22)
+massias | Massias | Massias | * | M | Of the sons of Phaisur, who had taken a strange wife (1 Esdras 9:22)
+ishmael-pa | | Ismael | * | + |
+nethaneel-pa | | Nathanael | 9:22 | + |
+ocidelus | Ocidelus | Ocidelus | * | M | Of the sons of Phaisur, who had taken a strange wife (1 Esdras 9:22)
+talsas | Talsas | Talsas | * | M | Of the sons of Phaisur, who had taken a strange wife (1 Esdras 9:22)
+jozabad-lv | | Jozabad | * | + |
+semis | Semis | Semis | * | M | Of the Levites, who had taken a strange wife (1 Esdras 9:23)
+kelaiah | | Colius;Calitas | 9:23 | + |
+patheus | Patheus | Patheus | * | M | Of the Levites, who had taken a strange wife (1 Esdras 9:23)
+judah-l10 | | Judas | * | + |
+jonas-l | Jonas | Jonas | * | M | Of the Levites, who had taken a strange wife (1 Esdras 9:23)
+eleazurus | Eleazurus | Eleazurus | * | M | Of the holy singers, who had taken a strange wife (1 Esdras 9:24)
+bacchurus | Bacchurus | Bacchurus | * | M | Of the holy singers, who had taken a strange wife (1 Esdras 9:24)
+sallumus | Sallumus | Sallumus | * | M | Of the porters, who had taken a strange wife (1 Esdras 9:25)
+tolbanes | Tolbanes | Tolbanes | * | M | Of the porters, who had taken a strange wife (1 Esdras 9:25)
+hiermas | Hiermas | Hiermas | * | M | Of the sons of Phoros, who had taken a strange wife (1 Esdras 9:26)
+eddias | Eddias | Eddias | * | M | Of the sons of Phoros, who had taken a strange wife (1 Esdras 9:26)
+malchiah-p | | Melchias | 9:26 | + |
+maelus | Maelus | Maelus | * | M | Of the sons of Phoros, who had taken a strange wife (1 Esdras 9:26)
+eleazar-p | | Eleazar | 9:26 | + |
+asibias | Asibias | Asibias | * | M | Of the sons of Phoros, who had taken a strange wife (1 Esdras 9:26)
+benaiah-par | | Baanias | * | + |
+elam-c | | Ela | 9:27 | + |
+mattaniah-e | | Matthanias | * | + |
+zechariah-e | | Zacharias | 9:27 | + |
+jehiel-e26 | | Hierielus | * | + |
+jeremoth-e | | Hieremoth | 9:27 | + |
+aedias | Aedias | Aedias | * | M | Of the sons of Ela, who had taken a strange wife (1 Esdras 9:27)
+zattu | | Zamoth | * | + |
+eliadas | Eliadas | Eliadas | * | M | Of the sons of Zamoth, who had taken a strange wife (1 Esdras 9:28)
+elisimus | Elisimus | Elisimus | * | M | Of the sons of Zamoth, who had taken a strange wife (1 Esdras 9:28)
+othonias | Othonias | Othonias | * | M | Of the sons of Zamoth, who had taken a strange wife (1 Esdras 9:28)
+jeremoth-z | | Jarimoth | * | + |
+sabatus | Sabatus | Sabatus | * | M | Of the sons of Zamoth, who had taken a strange wife (1 Esdras 9:28)
+sardeus | Sardeus | Sardeus | * | M | Of the sons of Zamoth, who had taken a strange wife (1 Esdras 9:28)
+jehohanan-b | | Johannes | 9:29 | + |
+hananiah-b | | Ananias | 9:29 | + |
+josabad-b | Josabad | Josabad | 9:29 | M | Of the sons of Bebai, who had taken a strange wife (1 Esdras 9:29)
+amatheis | Amatheis | Amatheis | * | M | Of the sons of Bebai, who had taken a strange wife (1 Esdras 9:29)
+bani-c | | Mani;Maani | * | + |
+olamus | Olamus | Olamus | * | M | Of the sons of Mani, who had taken a strange wife (1 Esdras 9:30)
+mamuchus | Mamuchus | Mamuchus | * | M | Of the sons of Mani, who had taken a strange wife (1 Esdras 9:30)
+jedeus | Jedeus | Jedeus | * | M | Of the sons of Mani, who had taken a strange wife (1 Esdras 9:30)
+jashub-b | | Jasubus | * | + |
+jasael | Jasael | Jasael | * | M | Of the sons of Mani, who had taken a strange wife (1 Esdras 9:30)
+hieremoth-m | Hieremoth | Hieremoth | 9:30 | M | Of the sons of Mani, who had taken a strange wife (1 Esdras 9:30)
+addi-c | Addi | Addi | 9:31 | M | Whose sons were some who had taken strange wives (1 Esdras 9:31)
+naathus | Naathus | Naathus | * | M | Of the sons of Addi, who had taken a strange wife (1 Esdras 9:31)
+moosias | Moosias | Moosias | * | M | Of the sons of Addi, who had taken a strange wife (1 Esdras 9:31)
+lacunus | Lacunus | Lacunus | * | M | Of the sons of Addi, who had taken a strange wife (1 Esdras 9:31)
+naidus | Naidus | Naidus | * | M | Of the sons of Addi, who had taken a strange wife (1 Esdras 9:31)
+mattaniah-pm | | Mathanias | * | + |
+sesthel | Sesthel | Sesthel | * | M | Of the sons of Addi, who had taken a strange wife (1 Esdras 9:31)
+balnuus | Balnuus | Balnuus | * | M | Of the sons of Addi, who had taken a strange wife (1 Esdras 9:31)
+manasseh-pm | | Manasseas | * | + |
+elionas-a | Elionas | Elionas | 9:32 | M | Of the sons of Annas, who had taken a strange wife (1 Esdras 9:32)
+aseas | Aseas | Aseas | * | M | Of the sons of Annas, who had taken a strange wife (1 Esdras 9:32)
+malchiah-h | | Melchias | 9:32 | + |
+sabbeus | Sabbeus | Sabbeus | * | M | Of the sons of Annas, who had taken a strange wife (1 Esdras 9:32)
+shimeon | | Simon | * | + |
+chosameus | Chosameus | Chosameus | * | M | Named with Simon among the sons of Annas who had taken strange wives: "Simon Chosameus" (1 Esdras 9:32)
+hashum | | Asom | * | + |
+altaneus | Altaneus | Altaneus | * | M | Of the sons of Asom, who had taken a strange wife (1 Esdras 9:33)
+mattathah | | Matthias | * | + |
+bannaia | Bannaia | Bannaia | * | M | Of the sons of Asom, who had taken a strange wife (1 Esdras 9:33)
+eliphelet-h | | Eliphalat | * | + |
+manasseh-h | | Manasses | * | + |
+shimei-h | | Semei | * | + |
+jeremias-m9 | Jeremias | Jeremias | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+momdis-m9 | Momdis | Momdis | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+omaerus-m9 | Omaerus | Omaerus | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+juel-m9 | Juel | Juel | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+mabdai-m9 | Mabdai | Mabdai | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+pelias-m9 | Pelias | Pelias | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+anos-m9 | Anos | Anos | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+carabasion-m9 | Carabasion | Carabasion | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+enasibus-m9 | Enasibus | Enasibus | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+mamnitanaimus-m9 | Mamnitanaimus | Mamnitanaimus | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+eliasis-m9 | Eliasis | Eliasis | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+bannus-m9 | Bannus | Bannus | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+eliali-m9 | Eliali | Eliali | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+samis-m9 | Samis | Samis | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+selemias-m9 | Selemias | Selemias | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+nathanias-m9 | Nathanias | Nathanias | 9:34 | M | Of the sons of Maani, who had taken a strange wife (1 Esdras 9:34)
+ozora | Ozora | Ozora | * | M | Whose sons were some who had taken strange wives (1 Esdras 9:34)
+sesis-oz | Sesis | Sesis | 9:34 | M | Of the sons of Ozora, who had taken a strange wife (1 Esdras 9:34)
+esril-oz | Esril | Esril | 9:34 | M | Of the sons of Ozora, who had taken a strange wife (1 Esdras 9:34)
+azaelus-oz | Azaelus | Azaelus | 9:34 | M | Of the sons of Ozora, who had taken a strange wife (1 Esdras 9:34)
+samatus-oz | Samatus | Samatus | 9:34 | M | Of the sons of Ozora, who had taken a strange wife (1 Esdras 9:34)
+zambis-oz | Zambis | Zambis | 9:34 | M | Of the sons of Ozora, who had taken a strange wife (1 Esdras 9:34)
+josephus-oz | Josephus | Josephus | 9:34 | M | Of the sons of Ozora, who had taken a strange wife (1 Esdras 9:34)
+ethma | Ethma | Ethma | * | M | Whose sons were some who had taken strange wives (1 Esdras 9:35)
+mazitias | Mazitias | Mazitias | * | M | Of the sons of Ethma, who had taken a strange wife (1 Esdras 9:35)
+zabadaias | Zabadaias | Zabadaias | * | M | Of the sons of Ethma, who had taken a strange wife (1 Esdras 9:35)
+edes | Edes | Edes | * | M | Of the sons of Ethma, who had taken a strange wife (1 Esdras 9:35)
+joel-nb | | Juel | 9:35 | + |
+benaiah-nb | | Banaias | * | + |
+mattithiah-8 | | Mattathias | 9:43 | + |
+shema-8 | | Sammus | * | + |
+anaiah-8 | | Ananias | 9:43 | + |
+azarias-43 | Azarias | Azarias | 9:43 | M | One of those who stood by Esdras when he read the law, upon the right hand (1 Esdras 9:43)
+urijah-8 | | Urias | 9:43 | + |
+ezecias | Ezecias | Ezecias | * | M | One of those who stood by Esdras when he read the law, upon the right hand (1 Esdras 9:43)
+balasamus | Balasamus | Balasamus | * | M | One of those who stood by Esdras when he read the law, upon the right hand (1 Esdras 9:43)
+phaldaius | Phaldaius | Phaldaius | * | M | One of those who stood by Esdras when he read the law, upon his left hand (1 Esdras 9:44)
+mishael-8 | | Misael | * | + |
+malchiah-8 | | Melchias | 9:44 | + |
+lothasubus | Lothasubus | Lothasubus | * | M | One of those who stood by Esdras when he read the law, upon his left hand (1 Esdras 9:44)
+nabarias | Nabarias | Nabarias | * | M | One of those who stood by Esdras when he read the law, upon his left hand (1 Esdras 9:44)
+anus | Anus | Anus | * | M | One of the Levites who taught the law of the Lord (1 Esdras 9:48)
+sherebiah-8 | | Sarabias | * | + |
+adinus | Adinus | Adinus | * | M | One of the Levites who taught the law of the Lord (1 Esdras 9:48)
+akkub-l | | Jacubus | * | + |
+shabbethai-8 | | Sabateas | * | + |
+auteas | Auteas | Auteas | * | M | One of the Levites who taught the law of the Lord (1 Esdras 9:48)
+maaseiah-8b | | Maianeas | * | + |
+kelita-8 | | Calitas | 9:48 | + |
+azariah-8 | | Azarias | 9:48 | + |
+jozabad-8 | | Joazabdus | * | + |
+ananias-48 | Ananias | Ananias | 9:48 | M | One of the Levites who taught the law of the Lord (1 Esdras 9:48)
+biatas | Biatas | Biatas | * | M | One of the Levites who taught the law of the Lord (1 Esdras 9:48)
+tirshatha | | Attharates | * | + |

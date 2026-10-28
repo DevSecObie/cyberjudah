@@ -1,0 +1,183 @@
+# 1 Esdras. child < father | verses | note | evidence | sources
+solomon < david | 1:3
+nethaneel-c ~ shemaiah-cl | 1:9 | "Samaias, and Nathanael his brother"
+jehoahaz-j < josiah | 1:34
+jehoiakim ~ jehoahaz-j | 1:37 | "made king Joacim his brother"
+zaraces ~ jehoiakim | 1:38 | "he bound Joacim and the nobles: but Zaraces his brother he apprehended"
+jehoiachin < jehoiakim | 1:43
+apame < bartacus | 4:29 | "Apame the king's concubine, the daughter of the admirable Bartacus"
+darius-p = apame | 4:29 | "Apame the king's concubine"
+jeshua-hp < jozadak | 5:5,5:48,5:56,6:2,9:19
+jozadak < seraiah-6 | 5:5 | "Jesus the son of Josedec, the son of Saraias"
+joacim-z < zerubbabel | 5:5
+zerubbabel ^ shealtiel | 5:5,5:48,5:56,6:2
+jeddu < jeshua-h | 5:24 | "the sons of Jeddu, the son of Jesus"
+ladan < ban | 5:37
+addus-p = augia | 5:38 | "Addus, who married Augia"
+augia ^ barzillai | 5:38 | "one of the daughters of Berzelus"; Barzillai the Gileadite lived in David's days (2 Samuel 19:31-32), so she is of his line
+kadmiel ~ jeshua-lv | 5:58 | "Jesus, and his sons and brethren, and Cadmiel his brother"
+joda < eliadun | 5:58
+zechariah-iddo ^ iddo-z | 6:1
+ezra ^ seraiah-6 | 8:1
+seraiah-6 < azariah-p3 | 8:1
+azariah-p3 < hilkiah-p | 8:1
+hilkiah-p < shallum-p | 8:1
+shallum-p < zadok-2 | 8:1,8:2
+zadok-2 < ahitub-2 | 8:2
+ahitub-2 < amariah-2 | 8:2
+amariah-2 < azariah-p2 | 8:2
+azariah-p2 ^ meraioth | 8:2
+meraioth < zerahiah | 8:2
+savias < bukki-p | 8:2
+bukki-p < abishua | 8:2
+abishua < phinehas | 8:2
+phinehas < eleazar | 8:2
+eleazar < aaron | 8:2
+gershom-p ^ phinehas | 8:29
+gamael ^ ithamar | 8:29
+lettus ^ david | 8:29
+lettus < sechenias-l | 8:29
+eliaonias < zaraias-pm | 8:31
+eliaonias ^ pahath-moab | 8:31
+sechenias-j < jezelus-s | 8:32
+sechenias-j ^ zattu | 8:32
+obeth < jonathan-ad | 8:32
+obeth ^ adin | 8:32
+josias-g < gotholias | 8:33
+josias-g ^ elam-c | 8:33
+zaraias-m < michael-sh | 8:34
+zaraias-m ^ shephatiah-c | 8:34
+obadiah-jb ^ joab-8 | 8:35
+assalimoth < josiphiah | 8:36
+assalimoth ^ banid | 8:36
+zechariah-b < bebai | 8:37
+johanan-hk < hakkatan | 8:38
+johanan-hk ^ astath | 8:38
+eliphelet-a jeiel-ad shemaiah-ad ^ adonikam | 8:39
+uthai-b < istalcurus | 8:40
+uthai-b ^ bigvai | 8:40
+asebebia ^ mahli-m | 8:47 | "of the sons of Moli the son of Levi"
+osaias ~ annuus | 8:48 | "Annuus, and Osaias his brother"
+hashabiah-e annuus osaias ^ channuneus | 8:48
+eleazar-ph < phinehas-8 | 8:63
+jozabad-j < jeshua-8 | 8:63
+moeth < sabban | 8:63
+jechonias < jeelus | 8:92
+johanan-el < eliashib-j | 9:1
+jonathan-as < asahel-j | 9:14
+ezechias-t < theocanus | 9:14
+matthelas eleazar-j jarib-j joadanus ^ jeshua-hp | 9:19
+ananias-em zabdeus eanes sameius hiereel azarias-em ^ immer-h | 9:21
+elionas-p massias ishmael-pa nethaneel-pa ocidelus talsas ^ pashur-h | 9:22
+hiermas eddias malchiah-p maelus eleazar-p asibias benaiah-par ^ parosh | 9:26
+mattaniah-e zechariah-e jehiel-e26 jeremoth-e aedias ^ elam-c | 9:27
+eliadas elisimus othonias jeremoth-z sabatus sardeus ^ zattu | 9:28
+jehohanan-b hananiah-b josabad-b amatheis ^ bebai | 9:29
+olamus mamuchus jedeus jashub-b jasael hieremoth-m ^ bani-c | 9:30
+naathus moosias lacunus naidus sesthel balnuus ^ addi-c | 9:31
+elionas-a aseas sabbeus chosameus ^ annas-9 | 9:32
+shimeon malchiah-h ^ harim-l | 9:32
+altaneus mattathah bannaia eliphelet-h manasseh-h shimei-h ^ hashum | 9:33
+jeremias-m9 momdis-m9 omaerus-m9 juel-m9 mabdai-m9 pelias-m9 anos-m9 carabasion-m9 enasibus-m9 mamnitanaimus-m9 eliasis-m9 bannus-m9 eliali-m9 samis-m9 selemias-m9 nathanias-m9 ^ bani-c | 9:34
+sesis-oz esril-oz azaelus-oz samatus-oz zambis-oz josephus-oz ^ ozora | 9:34
+syelus == jehiel-r | 1:8 | In the same place in the list of the governors of the temple who gave for the passover: Jehiel (2 Chronicles 35:8), Syelus (1 Esdras 1:8) | parallel
+ochiel == jeiel-c | 1:9 | In the same place in the list of the chief of the Levites who gave for the passover: Jeiel (2 Chronicles 35:9), Ochiel (1 Esdras 1:9) | parallel
+joram-c == jozabad-c | 1:9 | In the same place in the list of the chief of the Levites who gave for the passover: Jozabad (2 Chronicles 35:9), Joram (1 Esdras 1:9) | parallel
+zacharias-s == heman-s | 1:15 | In the same place in the list of the singers, between Asaph and Jeduthun: Heman (2 Chronicles 35:15), Zacharias (1 Esdras 1:15) | parallel
+belemus == bishlam | 2:16 | In the same place in the list of those who wrote unto Artaxerxes, before Mithridates and Tabellius: Bishlam (Ezra 4:7), Belemus (1 Esdras 2:16) | parallel
+zacharias-g == seraiah-z | 5:8 | In the same place in the list of those who came with Zerubbabel: Seraiah (Ezra 2:2), Zacharias (1 Esdras 5:8) | parallel
+enenius == nahamani | 5:8 | In the same place in the list of those who came with Zerubbabel: Nahamani (Nehemiah 7:7), Enenius (1 Esdras 5:8) | parallel
+beelsarus == bilshan | 5:8 | In the same place in the list of those who came with Zerubbabel: Bilshan (Ezra 2:2), Beelsarus (1 Esdras 5:8) | parallel
+aspharasus == mispar | 5:8 | In the same place in the list of those who came with Zerubbabel: Mispar (Ezra 2:2), Aspharasus (1 Esdras 5:8) | parallel
+reelius == bigvai-z | 5:8 | In the same place in the list of those who came with Zerubbabel: Bigvai (Ezra 2:2), Reelius (1 Esdras 5:8) | parallel
+roimus == rehum-z | 5:8 | In the same place in the list of those who came with Zerubbabel: Rehum (Ezra 2:2), Roimus (1 Esdras 5:8) | parallel
+corbe == zaccai | 5:12 | In the same place in the list of the families that came up, between Zattu and Bani: Zaccai (Ezra 2:9), Corbe (1 Esdras 5:12) | parallel
+sadas == azgad | 5:13 | In the same place in the list of the families that came up, after Bebai: Azgad (Ezra 2:12), Sadas (1 Esdras 5:13) | parallel
+jeddu == jedaiah-h | 5:24 | In the same place in the list of the priests that came up, nine hundred seventy and two (973 in Ezra): Jedaiah (Ezra 2:36), Jeddu (1 Esdras 5:24) | parallel
+meruth == immer-h | 5:24 | In the same place in the list of the priests that came up, a thousand fifty and two: Immer (Ezra 2:37), Meruth (1 Esdras 5:24) | parallel
+carme == harim-p | 5:25 | In the same place in the list of the priests that came up, a thousand and seventeen: Harim (Ezra 2:39), Carme (1 Esdras 5:25) | parallel
+jatal == ater-p | 5:28 | In the same place in the list of the porters: Ater (Ezra 2:42), Jatal (1 Esdras 5:28) | parallel
+dacobi == akkub-po | 5:28 | In the same place in the list of the porters: Akkub (Ezra 2:42), Dacobi (1 Esdras 5:28) | parallel
+teta == hatita | 5:28 | In the same place in the list of the porters: Hatita (Ezra 2:42), Teta (1 Esdras 5:28) | parallel
+sami == shobai | 5:28 | In the same place in the list of the porters: Shobai (Ezra 2:42), Sami (1 Esdras 5:28) | parallel
+obdia == habaiah | 5:38 | In the same place in the list of the priests whose register was not found: Habaiah (Ezra 2:61), Obdia (1 Esdras 5:38) | parallel
+addus-p == barzillai-p | 5:38 | In the same place in the list of the priests whose register was not found, the one who married a daughter of Barzillai (Berzelus) and was named after his name: Barzillai (Ezra 2:61), Addus (1 Esdras 5:38) | parallel
+azbazareth == esarhaddon | 5:69 | In the same place in the list of the king of Assyria who brought the adversaries hither: Esar-haddon (Ezra 4:2), Azbazareth (1 Esdras 5:69) | parallel
+sisinnes == tatnai | 6:3 | In the same place in the list of the governor who with Shethar-boznai (Sathrabuzanes) wrote to Darius: Tatnai (Ezra 5:3), Sisinnes (1 Esdras 6:3) | parallel
+savias == uzzi-p | 8:2 | In the same place in the list of the line of Ezra, between Zerahiah and Bukki: Uzzi (Ezra 7:4), Savias (1 Esdras 8:2) | parallel
+gamael == daniel-i | 8:29 | In the same place in the list of those who went up with Ezra, of the sons of Ithamar: Daniel (Ezra 8:2), Gamael (1 Esdras 8:29) | parallel
+lettus == hattush-d | 8:29 | In the same place in the list of those who went up with Ezra, of the sons of David: Hattush (Ezra 8:2), Lettus (1 Esdras 8:29) | parallel
+eliaonias == elihoenai | 8:31 | In the same place in the list of those who went up with Ezra, of the sons of Pahath-moab: Elihoenai (Ezra 8:4), Eliaonias (1 Esdras 8:31) | parallel
+zaraias-pm == zerahiah-pm | 8:31 | In the same place in the list of those who went up with Ezra, the father of the chief of the sons of Pahath-moab: Zerahiah (Ezra 8:4), Zaraias (1 Esdras 8:31) | parallel
+jezelus-s == jahaziel-e | 8:32 | In the same place in the list of those who went up with Ezra, the father of the chief of three hundred: Jahaziel (Ezra 8:5), Jezelus (1 Esdras 8:32) | parallel
+obeth == ebed-a | 8:32 | In the same place in the list of those who went up with Ezra, of the sons of Adin, the son of Jonathan: Ebed (Ezra 8:6), Obeth (1 Esdras 8:32) | parallel
+josias-g == jeshaiah-e | 8:33 | In the same place in the list of those who went up with Ezra, of the sons of Elam: Jeshaiah (Ezra 8:7), Josias (1 Esdras 8:33) | parallel
+gotholias == athaliah-e | 8:33 | In the same place in the list of those who went up with Ezra, the father of the chief of the sons of Elam: Athaliah (Ezra 8:7), Gotholias (1 Esdras 8:33) | parallel
+zaraias-m == zebadiah-sh | 8:34 | In the same place in the list of those who went up with Ezra, of the sons of Shephatiah, the son of Michael: Zebadiah (Ezra 8:8), Zaraias (1 Esdras 8:34) | parallel
+jezelus-a == jehiel-jb | 8:35 | In the same place in the list of those who went up with Ezra, the father of Obadiah of the sons of Joab: Jehiel (Ezra 8:9), Jezelus (1 Esdras 8:35) | parallel
+astath == azgad | 8:38 | In the same place in the list of those who went up with Ezra, of whose sons was Johanan the son of Hakkatan: Azgad (Ezra 8:12), Astath (1 Esdras 8:38) | parallel
+eleazar-43 == eliezer-16 | 8:43 | In the same place in the list of the men Ezra sent for ministers: Eliezer (Ezra 8:16), Eleazar (1 Esdras 8:43) | parallel
+iduel == ariel | 8:43 | In the same place in the list of the men Ezra sent for ministers: Ariel (Ezra 8:16), Iduel (1 Esdras 8:43) | parallel
+masman == shemaiah-16 | 8:43 | In the same place in the list of the men Ezra sent for ministers: Shemaiah (Ezra 8:16), Masman (1 Esdras 8:43) | parallel
+alnathan == elnathan-1 | 8:44 | In the same place in the list of the men Ezra sent for ministers: Elnathan (Ezra 8:16), Alnathan (1 Esdras 8:44) | parallel
+mosollamon == meshullam-16 | 8:44 | In the same place in the list of the men Ezra sent for ministers, after Zechariah: Meshullam (Ezra 8:16), Mosollamon (1 Esdras 8:44) | parallel
+saddeus == iddo-c | 8:45 | In the same place in the list of the chief at the place of the treasury (Casiphia) to whom Ezra sent: Iddo (Ezra 8:17), Saddeus (1 Esdras 8:45) | parallel
+asebebia == sherebiah | 8:47 | In the same place in the list of the Levites brought to Ezra, of the sons of Mahli, with his sons and brethren, eighteen: Sherebiah (Ezra 8:18), Asebebia (1 Esdras 8:47) | parallel
+osaias == jeshaiah-m | 8:48 | In the same place in the list of the Levites brought to Ezra, with Hashabiah: Jeshaiah (Ezra 8:19), Osaias (1 Esdras 8:48) | parallel
+esebrias == sherebiah | 8:54 | In the same place in the list of the chief priests to whom Ezra weighed the vessels, before Hashabiah: Sherebiah (Ezra 8:24), Esebrias (1 Esdras 8:54) | parallel
+assanias == hashabiah-e | 8:54 | In the same place in the list of the chief priests to whom Ezra weighed the vessels, after Sherebiah: Hashabiah (Ezra 8:24), Assanias (1 Esdras 8:54) | parallel
+iri-m == uriah-p | 8:62 | In the same place in the list of the father of Meremoth the priest: Uriah (Ezra 8:33), Iri (1 Esdras 8:62) | parallel
+moeth == noadiah | 8:63 | In the same place in the list of the Levites to whom the silver and gold were delivered: Noadiah the son of Binnui (Ezra 8:33), Moeth the son of Sabban (1 Esdras 8:63) | parallel
+sabban == binnui-n | 8:63 | In the same place in the list of the Levites to whom the silver and gold were delivered, the father of the second: Binnui (Ezra 8:33), Sabban (1 Esdras 8:63) | parallel
+jechonias == shechaniah-e | 8:92 | In the same place in the list of the one who confessed the strange marriages: Shechaniah the son of Jehiel (Ezra 10:2), Jechonias the son of Jeelus (1 Esdras 8:92) | parallel
+jeelus == jehiel-el | 8:92 | In the same place in the list of the father of the one who confessed the strange marriages: Jehiel (Ezra 10:2), Jeelus (1 Esdras 8:92) | parallel
+ezechias-t == jahaziah | 9:14 | In the same place in the list of those who took the matter of the strange wives upon them, with Jonathan the son of Asahel: Jahaziah (Ezra 10:15), Ezechias (1 Esdras 9:14) | parallel
+theocanus == tikvah-j | 9:14 | In the same place in the list of those who took the matter of the strange wives upon them, the father of the second: Tikvah (Ezra 10:15), Theocanus (1 Esdras 9:14) | parallel
+matthelas == maaseiah-j | 9:19 | In the same place in the list of the sons of Jeshua the son of Jozadak who had taken strange wives: Maaseiah (Ezra 10:18), Matthelas (1 Esdras 9:19) | parallel
+eleazar-j == eliezer-j | 9:19 | In the same place in the list of the sons of Jeshua the son of Jozadak who had taken strange wives: Eliezer (Ezra 10:18), Eleazar (1 Esdras 9:19) | parallel
+joadanus == gedaliah-jz | 9:19 | In the same place in the list of the sons of Jeshua the son of Jozadak who had taken strange wives: Gedaliah (Ezra 10:18), Joadanus (1 Esdras 9:19) | parallel
+ananias-em == hanani-i | 9:21 | In the same place in the list of the sons of Immer who had taken strange wives: Hanani (Ezra 10:20), Ananias (1 Esdras 9:21) | parallel
+zabdeus == zebadiah-im | 9:21 | In the same place in the list of the sons of Immer who had taken strange wives: Zebadiah (Ezra 10:20), Zabdeus (1 Esdras 9:21) | parallel
+elionas-p == elioenai-pa | 9:22 | In the same place in the list of the sons of Pashur who had taken strange wives: Elioenai (Ezra 10:22), Elionas (1 Esdras 9:22) | parallel
+massias == maaseiah-pa | 9:22 | In the same place in the list of the sons of Pashur who had taken strange wives: Maaseiah (Ezra 10:22), Massias (1 Esdras 9:22) | parallel
+ocidelus == jozabad-pa | 9:22 | In the same place in the list of the sons of Pashur who had taken strange wives: Jozabad (Ezra 10:22), Ocidelus (1 Esdras 9:22) | parallel
+talsas == elasah | 9:22 | In the same place in the list of the sons of Pashur who had taken strange wives: Elasah (Ezra 10:22), Talsas (1 Esdras 9:22) | parallel
+semis == shimei-lv | 9:23 | In the same place in the list of the Levites who had taken strange wives: Shimei (Ezra 10:23), Semis (1 Esdras 9:23) | parallel
+patheus == pethahiah-lv | 9:23 | In the same place in the list of the Levites who had taken strange wives: Pethahiah (Ezra 10:23), Patheus (1 Esdras 9:23) | parallel
+jonas-l == eliezer-lv | 9:23 | In the same place in the list of the Levites who had taken strange wives, after Judah: Eliezer (Ezra 10:23), Jonas (1 Esdras 9:23) | parallel
+eleazurus == eliashib-s | 9:24 | In the same place in the list of the singers who had taken strange wives: Eliashib (Ezra 10:24), Eleazurus (1 Esdras 9:24) | parallel
+sallumus == shallum-sp | 9:25 | In the same place in the list of the porters who had taken strange wives: Shallum (Ezra 10:24), Sallumus (1 Esdras 9:25) | parallel
+tolbanes == telem-p | 9:25 | In the same place in the list of the porters who had taken strange wives: Telem (Ezra 10:24), Tolbanes (1 Esdras 9:25) | parallel
+hiermas == ramiah | 9:26 | In the same place in the list of the sons of Parosh (Phoros) who had taken strange wives: Ramiah (Ezra 10:25), Hiermas (1 Esdras 9:26) | parallel
+eddias == jeziah | 9:26 | In the same place in the list of the sons of Parosh (Phoros) who had taken strange wives: Jeziah (Ezra 10:25), Eddias (1 Esdras 9:26) | parallel
+maelus == miamin | 9:26 | In the same place in the list of the sons of Parosh (Phoros) who had taken strange wives: Miamin (Ezra 10:25), Maelus (1 Esdras 9:26) | parallel
+asibias == malchijah-par | 9:26 | In the same place in the list of the sons of Parosh (Phoros) who had taken strange wives: Malchijah (Ezra 10:25), Asibias (1 Esdras 9:26) | parallel
+eliadas == elioenai-z | 9:28 | In the same place in the list of the sons of Zattu (Zamoth) who had taken strange wives: Elioenai (Ezra 10:27), Eliadas (1 Esdras 9:28) | parallel
+elisimus == eliashib-z | 9:28 | In the same place in the list of the sons of Zattu (Zamoth) who had taken strange wives: Eliashib (Ezra 10:27), Elisimus (1 Esdras 9:28) | parallel
+othonias == mattaniah-z | 9:28 | In the same place in the list of the sons of Zattu (Zamoth) who had taken strange wives: Mattaniah (Ezra 10:27), Othonias (1 Esdras 9:28) | parallel
+sabatus == zabad-z | 9:28 | In the same place in the list of the sons of Zattu (Zamoth) who had taken strange wives: Zabad (Ezra 10:27), Sabatus (1 Esdras 9:28) | parallel
+sardeus == aziza | 9:28 | In the same place in the list of the sons of Zattu (Zamoth) who had taken strange wives: Aziza (Ezra 10:27), Sardeus (1 Esdras 9:28) | parallel
+josabad-b == zabbai | 9:29 | In the same place in the list of the sons of Bebai who had taken strange wives: Zabbai (Ezra 10:28), Josabad (1 Esdras 9:29) | parallel
+amatheis == athlai | 9:29 | In the same place in the list of the sons of Bebai who had taken strange wives: Athlai (Ezra 10:28), Amatheis (1 Esdras 9:29) | parallel
+olamus == meshullam-b | 9:30 | In the same place in the list of the sons of Bani (Mani) who had taken strange wives: Meshullam (Ezra 10:29), Olamus (1 Esdras 9:30) | parallel
+mamuchus == malluch-b | 9:30 | In the same place in the list of the sons of Bani (Mani) who had taken strange wives: Malluch (Ezra 10:29), Mamuchus (1 Esdras 9:30) | parallel
+jedeus == adaiah-b | 9:30 | In the same place in the list of the sons of Bani (Mani) who had taken strange wives: Adaiah (Ezra 10:29), Jedeus (1 Esdras 9:30) | parallel
+jasael == sheal | 9:30 | In the same place in the list of the sons of Bani (Mani) who had taken strange wives: Sheal (Ezra 10:29), Jasael (1 Esdras 9:30) | parallel
+hieremoth-m == ramoth-b | 9:30 | In the same place in the list of the sons of Bani (Mani) who had taken strange wives: Ramoth (Ezra 10:29), Hieremoth (1 Esdras 9:30) | parallel
+addi-c == pahath-moab | 9:31 | In the same place in the list of the families whose sons had taken strange wives, after Bani: Pahath-moab (Ezra 10:30), Addi (1 Esdras 9:31) | parallel
+sesthel == bezaleel-pm | 9:31 | In the same place in the list of the sons of Pahath-moab (Addi) who had taken strange wives, after Mattaniah: Bezaleel (Ezra 10:30), Sesthel (1 Esdras 9:31) | parallel
+balnuus == binnui-pm | 9:31 | In the same place in the list of the sons of Pahath-moab (Addi) who had taken strange wives, before Manasseh: Binnui (Ezra 10:30), Balnuus (1 Esdras 9:31) | parallel
+annas-9 == harim-l | 9:32 | In the same place in the list of the families whose sons had taken strange wives, after Pahath-moab: Harim (Ezra 10:31), Annas (1 Esdras 9:32) | parallel
+elionas-a == eliezer-h | 9:32 | In the same place in the list of the sons of Harim (Annas) who had taken strange wives: Eliezer (Ezra 10:31), Elionas (1 Esdras 9:32) | parallel
+aseas == ishijah | 9:32 | In the same place in the list of the sons of Harim (Annas) who had taken strange wives: Ishijah (Ezra 10:31), Aseas (1 Esdras 9:32) | parallel
+sabbeus == shemaiah-hl | 9:32 | In the same place in the list of the sons of Harim (Annas) who had taken strange wives: Shemaiah (Ezra 10:31), Sabbeus (1 Esdras 9:32) | parallel
+altaneus == mattenai-h | 9:33 | In the same place in the list of the sons of Hashum (Asom) who had taken strange wives: Mattenai (Ezra 10:33), Altaneus (1 Esdras 9:33) | parallel
+bannaia == zabad-h | 9:33 | In the same place in the list of the sons of Hashum (Asom) who had taken strange wives: Zabad (Ezra 10:33), Bannaia (1 Esdras 9:33) | parallel
+ezecias == hilkiah-8 | 9:43 | In the same place in the list of those who stood upon Ezra's right hand, after Urijah: Hilkiah (Nehemiah 8:4), Ezecias (1 Esdras 9:43) | parallel
+balasamus == maaseiah-8a | 9:43 | In the same place in the list of those who stood upon Ezra's right hand, the last: Maaseiah (Nehemiah 8:4), Balasamus (1 Esdras 9:43) | parallel
+phaldaius == pedaiah-8 | 9:44 | In the same place in the list of those who stood upon Ezra's left hand, the first: Pedaiah (Nehemiah 8:4), Phaldaius (1 Esdras 9:44) | parallel
+anus == bani-8 | 9:48 | In the same place in the list of the Levites who taught the law: Bani (Nehemiah 8:7), Anus (1 Esdras 9:48) | parallel
+adinus == jamin-8 | 9:48 | In the same place in the list of the Levites who taught the law: Jamin (Nehemiah 8:7), Adinus (1 Esdras 9:48) | parallel
+auteas == hodijah-8 | 9:48 | In the same place in the list of the Levites who taught the law: Hodijah (Nehemiah 8:7), Auteas (1 Esdras 9:48) | parallel
+ananias-48 == hanan-8 | 9:48 | In the same place in the list of the Levites who taught the law: Hanan (Nehemiah 8:7), Ananias (1 Esdras 9:48) | parallel
+biatas == pelaiah-8 | 9:48 | In the same place in the list of the Levites who taught the law: Pelaiah (Nehemiah 8:7), Biatas (1 Esdras 9:48) | parallel
