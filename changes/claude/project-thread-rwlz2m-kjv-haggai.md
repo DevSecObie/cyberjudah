@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Haggai added. No new records; its verses are added to Haggai, Zerubbabel, Shealtiel, Joshua son of Josedech and Darius (already in from Ezra).
