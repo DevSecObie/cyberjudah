@@ -1,0 +1,4 @@
+# The Prayer of Manasses. key | Name | forms | verses | type | description
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | * | + |
