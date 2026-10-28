@@ -281,3 +281,13 @@ shilhi | Shilhi | Shilhi | * | M | The father of Azubah (1 Kings 22:42)
 jehoram | Jehoram | Jehoram | * | M | The son of Jehoshaphat, who reigned in his stead (1 Kings 22:50)
 # Seas and the mount of Olives, named in phrases
 red-sea | | Red sea | * | + |
+
+# people the text describes but never names
+pharaoh-sd | Pharaoh's daughter |  | 3:1,7:8,9:16,9:24,11:1 | F | Solomon's wife: "Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter" (1 Kings 3:1, 7:8, 9:16, 9:24, 11:1; 2 Chronicles 8:11)
+ben-hur | The son of Hur |  | 4:8 | M | One of Solomon's twelve officers, "in mount Ephraim" (1 Kings 4:7-8)
+ben-dekar | The son of Dekar |  | 4:9 | M | One of Solomon's twelve officers, "in Makaz, and in Shaalbim, and Beth-shemesh, and Elon-beth-hanan" (1 Kings 4:9)
+ben-hesed | The son of Hesed |  | 4:10 | M | One of Solomon's twelve officers, "in Aruboth" (1 Kings 4:10)
+ben-abinadab | The son of Abinadab |  | 4:11 | M | One of Solomon's twelve officers, "in all the region of Dor; which had Taphath the daughter of Solomon to wife" (1 Kings 4:11)
+ben-geber | The son of Geber |  | 4:13 | M | One of Solomon's twelve officers, "in Ramoth-gilead" (1 Kings 4:13)
+sheba-q | The queen of Sheba |  | 10:1,10:4,10:10,10:13 | F | Who "heard of the fame of Solomon" and "came to prove him with hard questions" (1 Kings 10:1-13; 2 Chronicles 9:1-12); "the queen of the south" (Matthew 12:42; Luke 11:31)
+tahpenes-s | The sister of Tahpenes |  | 11:19,11:20 | F | Hadad's wife, "the sister of his own wife, the sister of Tahpenes the queen", who bare him Genubath (1 Kings 11:19-20)

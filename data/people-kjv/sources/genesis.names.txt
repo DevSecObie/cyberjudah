@@ -481,3 +481,10 @@ kadesh | | En-mishpat | * | + |
 hebron | | Arbah;Kirjath-arba | * | + |
 # Seas and the mount of Olives, named in phrases
 salt-sea | Salt sea | salt sea;sea of the plain | * | P | "The vale of Siddim, which is the salt sea" (Genesis 14:3); "the sea of the plain, even the salt sea" (Deuteronomy 3:17, Joshua 3:16, 12:3)
+
+# people the text describes but never names
+lot-wife | Lot's wife |  | 19:15,19:16,19:26 | F | "Thy wife" (19:15), who "looked back from behind him, and she became a pillar of salt" (Genesis 19:15-26; Luke 17:32)
+lot-d1 | Lot's firstborn daughter |  | 19:15,19:31,19:33,19:34,19:36,19:37 | F | "The firstborn" of Lot's two daughters, who bare Moab, "the father of the Moabites" (Genesis 19:30-37)
+lot-d2 | Lot's younger daughter |  | 19:15,19:31,19:34,19:35,19:36,19:38 | F | "The younger" of Lot's two daughters, who bare Ben-ammi, "the father of the children of Ammon" (Genesis 19:30-38)
+shuah-d | Shuah's daughter |  | 38:2,38:12 | F | "A daughter of a certain Canaanite, whose name was Shuah", Judah's wife, who bare Er, Onan and Shelah (Genesis 38:2-12; 1 Chronicles 2:3)
+simeon-cw | The Canaanitish woman |  | 46:10 | F | Simeon's wife, the mother of "Shaul the son of a Canaanitish woman" (Genesis 46:10; Exodus 6:15)

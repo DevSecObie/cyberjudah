@@ -14,3 +14,6 @@ tharra == teresh | 12:1 | The same plot: "two of the king's chamberlains, Bigtha
 # tribes the verse states
 jair-m & benjamin | 11:2 | "In the second year of the reign of Artaxerxes the great, in the first day of the month Nisan, Mardocheus the son of Jairus, the son of Semei, the son ..."
 shimei-mo & benjamin | 11:2 | "In the second year of the reign of Artaxerxes the great, in the first day of the month Nisan, Mardocheus the son of Jairus, the son of Semei, the son ..."
+
+# tribes the verse states or the list a person stands in
+dositheus & levi | 11:1 | "Dositheus, who said he was a priest and Levite"

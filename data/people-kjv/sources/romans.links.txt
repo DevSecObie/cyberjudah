@@ -3,3 +3,6 @@ paul & benjamin | 11:1 | "For I also am an Israelite, of the seed of Abraham, of
 isaac << sarah | 9:9 | "Sara shall have a son"
 esau << rebekah | 9:10 | "When Rebecca also had conceived by one, even by our father Isaac"
 jacob << rebekah | 9:10 | "When Rebecca also had conceived by one, even by our father Isaac"
+
+# tribes the verse states or the list a person stands in
+mary & judah | 1:3 | Jesus "was made of the seed of David according to the flesh" (1:3), and was born of Mary, not of Joseph (Matthew 1:18-25)

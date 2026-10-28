@@ -52,11 +52,13 @@ export function validateKjvPeople(people, { bibleDir }) {
     if (!TYPES.has(p.type)) problems.push(`${where}: type ${p.type}`);
     if (!p.description) problems.push(`${where}: no description`);
     if (!p.verses?.length) problems.push(`${where}: no verses`);
+    // A person the text describes but never names (Lot's wife) is checked by hand: the
+    // description quotes the words that describe them.
     const patterns = (p.names ?? []).map(namePattern);
     for (const ref of p.verses ?? []) {
       const text = verseText(ref, bibleDir, cache);
       if (text === null) problems.push(`${where}: ${ref} is not a verse`);
-      else if (!patterns.some((re) => re.test(text))) problems.push(`${where}: ${ref} does not name ${p.names.join(' or ')}`);
+      else if (!p.described && !patterns.some((re) => re.test(text))) problems.push(`${where}: ${ref} does not name ${p.names.join(' or ')}`);
     }
     for (const field of LINKS) {
       for (const e of p[field] ?? []) {

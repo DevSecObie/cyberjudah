@@ -192,3 +192,9 @@ emmaus-l | Emmaus | Emmaus | * | P | "A village called Emmaus, which was from Je
 cleopas | Cleopas | Cleopas | * | M | One of the two that went to Emmaus, to whom Jesus appeared (Luke 24:18)
 # Seas and the mount of Olives, named in phrases
 olivet | | mount of Olives | * | + |
+
+# people the text describes but never names
+sheba-q |  |  | 11:31 | + | 
+lot-wife |  |  | 17:32 | + | 
+peter-wm |  |  | 4:38,4:39 | + | 
+peter-w |  |  | 4:38 | + | 

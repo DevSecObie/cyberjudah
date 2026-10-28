@@ -607,3 +607,7 @@ ashdod | | Ashdod | * | + |
 moab-land | | Moab | * | + |
 # Seas and the mount of Olives, named in phrases
 red-sea | | Red sea | * | + |
+
+# people the text describes but never names
+meshullam-d | Meshullam's daughter |  | 6:18 | F | "The daughter of Meshullam the son of Berechiah", whom Johanan the son of Tobiah had taken (Nehemiah 6:18)
+joiada-s | A son of Joiada |  | 13:28 | M | "One of the sons of Joiada, the son of Eliashib the high priest", son in law to Sanballat the Horonite, whom Nehemiah chased away (Nehemiah 13:28)

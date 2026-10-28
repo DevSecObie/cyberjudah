@@ -63,6 +63,30 @@ class Build(unittest.TestCase):
         self.assertEqual(by['on-num-16-1']['father'][0]['id'], 'peleth-num-16-1')
         self.assertEqual(by['on-num-16-1']['tribe'][0]['id'], 'reuben-gen-29-32')
 
+    def test_tribes_by_list_and_by_sons(self):
+        doc, _ = build.build()
+        by = {p['id']: p for p in doc['people']}
+        tribe = lambda pid: by[pid]['tribe'][0]
+        self.assertEqual(tribe('jabez-1ch-4-9')['id'], 'judah-gen-29-35')  # under "The sons of Judah" (4:1)
+        self.assertIn('1-chronicles/4/1', tribe('jabez-1ch-4-9')['verses'])
+        self.assertEqual(tribe('zurishaddai-num-1-6')['id'], 'simeon-gen-29-33')
+        self.assertEqual(tribe('zurishaddai-num-1-6')['note'], 'By his son Shelumiel')
+        self.assertEqual(tribe('eli-1sa-1-3')['id'], 'levi-gen-29-34')
+        self.assertEqual(tribe('hophni-1sa-1-3')['id'], 'levi-gen-29-34')
+        self.assertNotIn('tribe', by['judah-gen-29-35'])
+
+    def test_wives_and_described_people(self):
+        doc, _ = build.build()
+        by = {p['id']: p for p in doc['people']}
+        wives = {e['id'] for e in by['david-rut-4-17']['partners']}
+        self.assertTrue({'maacah-2sa-3-3', 'haggith-2sa-3-4', 'abital-2sa-3-4'} <= wives)
+        self.assertNotIn('tamar-gen-38-6', {e['id'] for e in by['judah-gen-29-35']['partners']})
+        wife = by["lot-s-wife-gen-19-15"]
+        self.assertTrue(wife['described'])
+        self.assertIn('luke/17/32', wife['verses'])
+        self.assertEqual(by['moab-gen-19-37']['mother'][0]['id'], "lot-s-firstborn-daughter-gen-19-15")
+        self.assertEqual(by['phinehas-exo-6-25']['mother'][0]['id'], "putiel-s-daughter-exo-6-25")
+
     def test_phrase_places(self):
         doc, _ = build.build()
         places = {p['id']: p for p in doc['places']}

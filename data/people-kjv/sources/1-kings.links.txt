@@ -67,3 +67,25 @@ azubah < shilhi | 22:42
 ahaziah < ahab | 22:40,22:51
 jehoram < jehoshaphat-k | 22:50
 abishalom == absalom | 15:2,15:10 | "Maachah, the daughter of Abishalom" (1 Kings 15:2) is "Maachah the daughter of Absalom" (2 Chronicles 11:20-21) | history | Josephus, Antiquities of the Jews 8.10.1 (Whiston): Rehoboam "married also another of his own kindred, who was daughter of Absalom by Tamar, whose name was Maachah" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link82H_4_0001> ; Josephus, Antiquities 7.10.3: Absalom's daughter Tamar "married to David's grandson, Rehoboam" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link72H_4_0001> ; Jewish Encyclopedia (1901-1906) vol. 8 p. 233, "Maacah" no. 4 <https://archive.org/details/cu31924091768253/page/n260/mode/1up>
+
+# tribes the verse states or the list a person stands in
+ethan heman chalcol darda & judah | 4:31 | The same names as Ethan, Heman, Calcol and Dara, the sons of Zerah the son of Judah (1 Chronicles 2:6) | parallel
+
+# husbands and wives the verses give: wife, concubine, or mother of his son
+pharaoh-h = tahpenes | 11:19,11:20 | "The sister of his own wife, the sister of Tahpenes the queen"
+solomon = naamah-a | 11:43,14:21 | Mother of his son Rehoboam, who reigned in his stead (11:43, 14:21)
+nebat = zeruah | 11:26 | "Jeroboam the son of Nebat ... whose mother's name was Zeruah, a widow woman"
+asa = azubah | 15:24,22:42 | Mother of his son Jehoshaphat, who reigned in his stead (15:24, 22:42)
+
+# people the text describes but never names
+pharaoh-sd < pharaoh-s | 3:1 | "Pharaoh's daughter"
+pharaoh-sd = solomon | 3:1,7:8,9:16 | "Pharaoh's daughter, whom he had taken to wife" (7:8)
+ben-hur < hur-e | 4:8 | "The son of Hur"
+ben-dekar < dekar | 4:9 | "The son of Dekar"
+ben-hesed < hesed | 4:10 | "The son of Hesed"
+ben-abinadab < abinadab-d | 4:11 | "The son of Abinadab"
+ben-geber < geber | 4:13 | "The son of Geber"
+ben-abinadab = taphath | 4:11 | "Which had Taphath the daughter of Solomon to wife"
+tahpenes-s = hadad-e | 11:19 | "He gave him to wife the sister of his own wife, the sister of Tahpenes"
+tahpenes-s ~ tahpenes | 11:19 | "The sister of Tahpenes the queen"
+genubath << tahpenes-s | 11:20 | "The sister of Tahpenes bare him Genubath his son"

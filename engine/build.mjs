@@ -410,6 +410,7 @@ const linkedFrom = (key) => {
   return out;
 };
 const descendants = linkedFrom("line"), alsoNamed = linkedFrom("same");
+const tribeHeads = new Set(peopleDoc.people.flatMap((p) => (p.tribe ?? []).map((e) => e.id)));
 // A link to another record, with its evidence label (scripture, a parallel passage, history...).
 const personRef = (id) => { const p = personById.get(id); return p ? { id, name: p.name, ...(p.image ? { image: p.image } : {}) } : null; };
 const evidenced = (e) => personRef(e.id) && { ...personRef(e.id), evidence: e.evidence, evidenceLabel: EVIDENCE[e.evidence], verses: e.verses ?? [], ...(e.note ? { note: e.note } : {}), ...(e.sources ? { sources: e.sources } : {}) };
@@ -427,12 +428,16 @@ for (const p of peopleDoc.people) {
     }
   }
   // tribe stays a line of text ("Tribe of Levi") for the screens that print it; tribes and
-  // nation carry the links themselves. priestly, course, titles and variants stay empty lists
-  // until the KJV catalog records them, so older app builds keep working.
-  const tribes = links(p.tribe);
+  // nation carry the links themselves. A son of Jacob the tribes are named for reads "Father of
+  // the tribe of X", and a person with no tribe shows their people (Edom, Syria). priestly,
+  // course, titles and variants stay empty lists until the KJV catalog records them, so older
+  // app builds keep working.
+  const tribes = links(p.tribe), nation = links(p.nation);
+  const tribe = tribes.length ? tribes.map((t) => `Tribe of ${t.name}`).join(", ")
+    : tribeHeads.has(p.id) ? `Father of the tribe of ${p.name}` : nation.map((n) => n.name).join(", ");
   writeJson(path.join(API, "people", `${p.id}.json`), {
     id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, ...(p.image ? { image: p.image } : {}),
-    tribe: tribes.map((t) => `Tribe of ${t.name}`).join(", "), tribes, nation: links(p.nation),
+    tribe, tribes, nation,
     father: links(p.father), mother: links(p.mother), siblings: links(p.siblings), partners: links(p.partners), children: links(p.children),
     line: links(p.line), descendants: links(descendants.get(p.id)),
     same: links(p.same), alsoNamed: links(alsoNamed.get(p.id)),

@@ -120,3 +120,6 @@ ish-bosheth == ishui | 2:8 | Saul's son: "Ish-bosheth the son of Saul" (2 Samuel
 gera-s & benjamin | 19:16 | "And Shimei the son of Gera, a Benjamite, which was of Bahurim, hasted and came down with the men of Judah to meet king David."
 bichri & benjamin | 20:1 | "And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no ..."
 bani & gad | 23:36 | "Igal the son of Nathan of Zobah, Bani the Gadite,"
+
+# tribes the verse states or the list a person stands in
+shimeah & judah | 13:3 | "Shimeah David's brother"

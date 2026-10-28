@@ -58,3 +58,10 @@ cononiah & levi | 31:12 | "And brought in the offerings and the tithes and the d
 imnah-l & levi | 31:14 | "And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of the Lord, ..."
 abdi-h azariah-me jehalelel kish-h & levi | 29:12 | "Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son ..."
 meshullam-o zechariah-ko & levi | 34:12 | "And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and ..."
+
+# tribes the verse states or the list a person stands in
+shimri-e jeiel-e zechariah-as mattaniah-as jehiel-hn shimei-hm shemaiah-jd uzziel-jd & levi | 29:12,29:13,29:14 | Listed under "Then the Levites arose" (29:12)
+zichri-ep & ephraim | 28:7 | "Zichri, a mighty man of Ephraim"
+
+# husbands and wives the verses give: wife, concubine, or mother of his son
+rehoboam = abihail-e | 11:18 | "Rehoboam took him Mahalath ... to wife, and Abihail the daughter of Eliab" | history | Jewish Encyclopedia (1901-1906) vol. 1 p. 60, "Abihail": "Wife of Rehoboam and daughter of Eliab" <https://archive.org/details/cu31924091768188/page/n105/mode/1up>

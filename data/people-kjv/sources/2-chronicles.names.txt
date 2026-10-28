@@ -388,3 +388,7 @@ zimmah | | Zimmah | 29:12 | + |
 zion | | Zion | 5:2 | + |
 ziph | | Ziph | 11:8 | + |
 zorah | | Zorah | 11:10 | + |
+
+# people the text describes but never names
+pharaoh-sd |  |  | 8:11 | + | 
+sheba-q |  |  | 9:1,9:3,9:9,9:12 | + | 

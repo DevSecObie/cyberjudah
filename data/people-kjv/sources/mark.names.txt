@@ -96,3 +96,8 @@ arimathea | | Arimathea | * | + |
 # Seas and the mount of Olives, named in phrases
 sea-of-galilee | | sea of Galilee | * | + |
 olivet | | mount of Olives | * | + |
+
+# people the text describes but never names
+herodias-d |  |  | 6:22,6:24,6:25,6:28 | + | 
+peter-wm |  |  | 1:30,1:31 | + | 
+peter-w |  |  | 1:30 | + | 

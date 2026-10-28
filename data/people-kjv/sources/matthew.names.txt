@@ -150,3 +150,9 @@ joseph-ar | Joseph | Joseph | 27:57,27:59 | M | "A rich man of Arimathea, named 
 # Seas and the mount of Olives, named in phrases
 sea-of-galilee | Sea of Galilee | sea of Galilee | * | P | "Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew" (Matthew 4:18); "the sea of Galilee, which is the sea of Tiberias" (John 6:1)
 olivet | | mount of Olives | * | + |
+
+# people the text describes but never names
+sheba-q |  |  | 12:42 | + | 
+herodias-d | The daughter of Herodias |  | 14:6,14:8,14:11 | F | She "danced before them, and pleased Herod", and asked for John the Baptist's head in a charger (Matthew 14:6-11; Mark 6:22-28)
+peter-wm | Peter's wife's mother |  | 8:14,8:15 | F | "His wife's mother laid, and sick of a fever"; Jesus touched her hand, "and the fever left her" (Matthew 8:14-15; Mark 1:30-31; Luke 4:38-39)
+peter-w | Peter's wife |  | 8:14 | F | Named in "his wife's mother" (Matthew 8:14; Mark 1:30; Luke 4:38)

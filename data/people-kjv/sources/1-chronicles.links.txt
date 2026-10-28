@@ -520,3 +520,51 @@ jaasiel & benjamin | 27:21 | "Of the half tribe of Manasseh in Gilead, Iddo the 
 azareel-d & dan | 27:22 | "Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel."
 ahijah-l & levi | 26:20 | "And of the Levites, Ahijah was over the treasures of the house of God, and over the treasures of the dedicated things."
 hashabiah-k kemuel-l & levi | 27:17 | "Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:"
+
+# tribes by the list a person stands in: the heading verse names the tribe
+elkanah-25 elkanah-26 & levi | 6:1,6:25,6:26 | Listed under "The sons of Levi" (6:1)
+jephunneh kenaz-o jezreel-e ishma idbash ahuzam hepher-a temeni haahashtari zereth jezoar ethnan coz harum jabez chelub shuah-4 meonothai jehaleleel ezra-j shammai-m ishbah jered-m heber-s jekuthiel shimon ishi-j jokim joash-s saraph & judah | 4:1,4:3,4:6,4:7,4:8,4:9,4:11,4:13,4:14,4:15,4:16,4:17,4:18,4:20,4:22 | Listed under "The sons of Judah" (4:1)
+abishai joab asahel mareshah-c jahdai shaaph-m sheva-c & judah | 2:3,2:16,2:42,2:47,2:49 | Listed under "The sons of Judah" (2:3)
+zedekiah-j rephaiah-3 arnan obadiah-3 shechaniah-3 & judah | 3:1,3:16,3:21 | Listed under "The sons of David" (3:1)
+shallum-m meshobab jamlech amaziah-s joel-s asiel elioenai-s jaakobah jeshohaiah asaiah-s adiel-s jesimiel benaiah-s shemaiah-s ishi-s & simeon | 4:24,4:25,4:34,4:35,4:36,4:37,4:42 | Listed under "The sons of Simeon" (4:24)
+joel-r jeiel-r zechariah-r joel-r8 & reuben | 5:1,5:4,5:7,5:8 | Listed under "The sons of Reuben" (5:1)
+joel-g shapham jaanai shaphat-g michael-g meshullam-g sheba-g jorai jachan zia heber-g buz-g guni-g jeroboam-5 & gad | 5:11,5:12,5:13,5:14,5:15,5:17 | Listed under "The children of Gad" (5:11)
+epher-m ishi-m eliel-m azriel-m jeremiah-m hodaviah-m jahdiel & manasseh | 5:23,5:24 | Listed under "The children of the half tribe of Manasseh" (5:23)
+sheresh ulam rakem ishod & manasseh | 7:14,7:16,7:18 | Listed under "The sons of Manasseh" (7:14)
+rephah resheph telah & ephraim | 7:20,7:25 | Listed under "The sons of Ephraim" (7:20)
+shamer-a helem jether-a ulla & asher | 7:30,7:34,7:35,7:38,7:39 | Listed under "The sons of Asher" (7:30)
+ehud-g naaman-8 ahiah-8 gera-8 beriah-b shema-b shimhi jeroham-b ner-k rapha-s eleasah-b azel eshek & benjamin | 8:1,8:6,8:7,8:13,8:21,8:27,8:33,8:37,8:39 | Listed under "Benjamin begat" (8:1)
+hasenuah jeroham-i michri ibnijah & benjamin | 9:7,9:8 | Listed under "Of the sons of Benjamin" (9:7)
+bakbakkar heresh galal-1 asaph-9 jeduthun-9 elkanah-9 shallum-c akkub talmon ahiman-p & levi | 9:14,9:15,9:16,9:17 | Listed under "Of the Levites" (9:14)
+jehiel-g & benjamin | 8:1,8:29,8:33,9:35 | Forefather of Saul's house (9:35-39), which is set under Benjamin (8:1, 8:29-33)
+shimei-l & levi | 23:6,23:9 | Listed under "The sons of Levi" (23:6)
+nethaneel-s jedaiah-c harim-c seorim malchijah-c mijamin hakkoz abijah-c jeshua-c shecaniah-c eliashib-c jakim-c huppah jeshebeab bilgah immer-c hezir aphses pethahiah jehezekel jachin-c gamul delaiah-c maaziah & levi | 24:1,24:6,24:7,24:8,24:9,24:10,24:11,24:12,24:13,24:14,24:15,24:16,24:17,24:18 | Listed under "The sons of Aaron" (24:1)
+jaaziah & levi | 24:20,24:26 | Listed under "The rest of the sons of Levi" (24:20)
+shimei-j & levi | 25:1,25:17 | Listed under "The sons of Asaph, of Heman, and of Jeduthun" (25:1)
+shuppim-p & levi | 26:1,26:16 | Listed under "The porters, of the Korhites" (26:1)
+
+# tribes the verse states or the list a person stands in
+attai-j nathan-a zabad-n ephlal obed-e jehu-o azariah-j helez-a eleasah sisamai shallum-s jekamiah elishama-j & judah | 2:3,2:12,2:35,2:36,2:37,2:38,2:39,2:40,2:41 | Listed under "The sons of Judah" (2:3)
+abiathar ahimelech-a & levi | 24:1,24:3,24:6 | Listed under "The sons of Aaron" (24:1)
+jobab-s zibia mesha-s malcham jeuz shachia mirma abitub elpaal eber-b misham zebadiah-e meshullam-e hezeki heber-e ishmerai jezliah jobab-e shamed & benjamin | 8:1,8:9,8:10,8:11,8:12,8:17,8:18 | Listed under "Benjamin begat" (8:1)
+jedaiah-p jehoiarib jachin-p azariah-9 hilkiah-9 meshullam-9 zadok-9 meraioth-9 ahitub-9 adaiah-p jeroham-p pashur-m malchijah-p maasiai adiel-p jahzerah meshullam-m meshillemith immer-p & levi | 6:49,9:10,9:11,9:12 | Listed under "Of the priests" (9:10); the priests are Aaron and his sons (6:49)
+zechariah-m meshelemiah & levi | 9:14,9:21 | Listed under "Of the Levites" (9:14)
+zechariah-l ben jaaziel shemiramoth jehiel-l unni eliab-lv benaiah-l maaseiah-l mattithiah-l elipheleh mikneiah obed-edom-l jeiel-l azaziah-l chenaniah berechiah-d elkanah-d shebaniah-p jehoshaphat-tr nethaneel-p amasai-p zechariah-p benaiah-pr eliezer-p jehiah & levi | 15:16,15:18,15:21,15:22,15:23,15:24 | Listed under "The chief of the Levites" (15:16)
+jehiel-ld zetham joel-ld & levi | 23:6,23:8 | Listed under "The sons of Levi" (23:6)
+gedaliah-j zeri jeshaiah-j hashabiah-j mattithiah-j & levi | 25:1,25:3 | Listed under "The sons of Asaph, of Heman, and of Jeduthun" (25:1)
+jediael-k zebadiah-k jathniel elam-k jehohanan-k elioenai-k & levi | 26:1,26:2,26:3 | Listed under "The porters, of the Korhites" (26:1)
+zeruiah abigail-n hazelelponi & judah | 2:3,2:16,4:3 | Listed under "The sons of Judah" (2:3, 4:1): David's sisters (2:16) and the sister of Jezreel, Ishma and Idbash (4:3)
+hammoleketh & manasseh | 7:14,7:17,7:18 | Listed under "The sons of Manasseh" (7:14), sister of Gilead (7:17-18)
+maharai & judah | 2:4,2:6,27:13 | "Maharai the Netophathite, of the Zarhites" (27:13): of Zerah the son of Judah (2:4)
+
+# husbands and wives the verses give: wife, concubine, or mother of his son
+caleb-h = jerioth | 2:18 | "Caleb the son of Hezron begat children of Azubah his wife, and of Jerioth"
+caleb-h = ephah-c | 2:46 | "Ephah, Caleb's concubine"
+caleb-h = maachah-c | 2:48 | "Maachah, Caleb's concubine"
+manasseh = aramitess | 7:14 | "His concubine the Aramitess bare Machir"
+maacah-t haggith abital = david | 3:1,3:2,3:3,3:9 | Mothers of the sons born unto David in Hebron, "beside the sons of the concubines" (3:1-3, 3:9)
+
+# people the text describes but never names
+machir-d < machir | 2:21 | "The daughter of Machir the father of Gilead"
+machir-d = hezron | 2:21 | "Whom he married when he was threescore years old"
+segub-h << machir-d | 2:21 | "She bare him Segub"

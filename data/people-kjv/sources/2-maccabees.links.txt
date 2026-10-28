@@ -19,3 +19,7 @@ antiochus-u < antiochus-e | 2:20,9:25,10:10 | "Antiochus Epiphanes, and Eupator 
 chereas ~ timotheus-g | 10:37 | "Timotheus ... and Chereas his brother"
 apollonius-g < genneus | 12:2 | "Apollonius the son of Genneus"
 demetrius-1 < seleucus | 14:1 | "Demetrius the son of Seleucus"
+
+# tribes the verse states or the list a person stands in
+menelaus & benjamin | 3:4,4:23 | "Menelaus, the aforesaid Simon's brother" (4:23), and Simon was "of the tribe of Benjamin" (3:4)
+lysimachus-m & benjamin | 3:4,4:23,4:29 | "His brother Lysimachus" (4:29), brother of Menelaus and of Simon "of the tribe of Benjamin" (3:4, 4:23)

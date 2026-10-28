@@ -301,3 +301,6 @@ hivite | | Hivites | * | + |
 canaanites | | Canaanites | * | + |
 araunah | Araunah | Araunah | * | M | The Jebusite, whose threshingfloor David bought to build an altar; "Araunah, as a king, give unto the king" (2 Samuel 24:16-24)
 jebusite | | Jebusite | * | + |
+
+# people the text describes but never names
+great-stature | The man of great stature |  | 21:20,21:21 | M | Of Gath, "that had on every hand six fingers, and on every foot six toes", who "also was born to the giant"; Jonathan the son of Shimea slew him (2 Samuel 21:20-22; 1 Chronicles 20:6-8)
