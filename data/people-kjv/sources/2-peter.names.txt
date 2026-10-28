@@ -1,0 +1,10 @@
+# 2 Peter. key | Name | forms | verses | type | description
+simon-p | | Simon;Peter | * | + |
+jesus | | Jesus;Christ | * | + |
+noah | | Noah | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrha | * | + |
+lot | | Lot | * | + |
+balaam | | Balaam | * | + |
+beor-b | | Bosor | * | + |
+paul | | Paul | * | + |

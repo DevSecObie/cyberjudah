@@ -1,0 +1,1 @@
+- 2 Peter: no new records; adds 2 Peter verses to Simon Peter, Jesus, Noah, Sodom, Gomorrha, Lot, Balaam, Paul, and Bosor (as a form of Beor, Balaam's father).
