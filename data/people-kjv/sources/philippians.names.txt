@@ -1,0 +1,18 @@
+# Philippians. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+timothy | | Timotheus | * | + |
+philippi-m | | Philippi | * | + |
+epaphroditus | Epaphroditus | Epaphroditus | * | M | "Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants" (Philippians 2:25, 4:18, 4:23)
+israel-people | | Israel | * | + |
+benjamin | | Benjamin | * | + |
+hebrew | | Hebrew;Hebrews | * | + |
+pharisees | | Pharisee | * | + |
+euodias | Euodias | Euodias | * | F | "I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord"; "those women which laboured with me in the gospel" (Philippians 4:2-3)
+syntyche | Syntyche | Syntyche | * | F | "I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord"; "those women which laboured with me in the gospel" (Philippians 4:2-3)
+clement | Clement | Clement | * | M | One of Paul's fellowlabourers, "whose names are in the book of life" (Philippians 4:3)
+philippians | Philippians | Philippians | * | G | "Ye Philippians know also, that in the beginning of the gospel" (Philippians 4:15, 4:23)
+macedonia | | Macedonia | * | + |
+thessalonica | | Thessalonica | * | + |
+cesar | | Cesar | * | + |
+rome | | Rome | * | + |

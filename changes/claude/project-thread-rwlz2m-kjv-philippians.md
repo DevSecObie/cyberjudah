@@ -1,0 +1,1 @@
+- Philippians: adds Epaphroditus, Euodias, Syntyche, Clement and the Philippians; adds Philippians verses to Paul, Timotheus, Philippi, Macedonia, Thessalonica, Cesar and Rome.
