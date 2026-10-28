@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Jonah added. No new records; its verses are added to Jonah son of Amittai (already in 2 Kings 14:25), Nineveh, Tarshish, Joppa and others.
