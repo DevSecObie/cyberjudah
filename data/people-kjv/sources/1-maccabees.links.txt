@@ -1,0 +1,43 @@
+# 1 Maccabees. child < father | verses | note | evidence | sources
+alexander-g < philip-m | 1:1,6:2
+alexander-g @ macedonians | 1:1,6:2 | "Alexander son of Philip, the Macedonian"
+antiochus-e < antiochus-k | 1:10 | "Antiochus surnamed Epiphanes, son of Antiochus the king"
+antiochus-k == antiochus-g | 1:10,8:6 | Antiochus the king, father of Epiphanes (1:10), is "Antiochus the great king of Asia" (8:6) | history | Josephus, Antiquities of the Jews 12.4.10-11 (Whiston): "Seleucus, who was called Soter, reigned over Asia, being the son of Antiochus the Great" ... "But when he was dead, his brother Antiochus, who was called Epiphanes, took the kingdom" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link122HCH0004>
+mattathias-m < john-g | 2:1
+john-g < simeon-m | 2:1
+mattathias-m ^ jehoiarib-c | 2:1 | "A priest of the sons of Joarib"; Joarib is the Greek form of Jehoiarib (Joiarib in Nehemiah 12:6), to whom the first lot of the courses of the priests came forth (1 Chronicles 24:7) | history | Jewish Encyclopedia (1901-1906) vol. 8 p. 378, "Mattathias": "Mattathias, the son of John, the son of Simeon, a priest of the sons of Joiarib, from Jerusalem; and he dwelt at Modin" (I Macc. ii. 1) <https://archive.org/details/cu31924091768253/page/n407/mode/1up> ; Josephus, Antiquities of the Jews 12.6.1 (Whiston): "a priest of the order of Joarib" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link122HCH0006>
+john-m < mattathias-m | 2:1,2:2 | "He had five sons, Joannan, called Caddis"
+simon-m < mattathias-m | 2:1,2:3,14:29 | "Simon, called Thassi"; "Simon the son of Mattathias"
+judas-m < mattathias-m | 2:1,2:4,3:1 | "Judas, who was called Maccabeus"; "Then his son Judas, called Maccabeus, rose up in his stead"
+eleazar-av < mattathias-m | 2:1,2:5 | "Eleazar, called Avaran"
+jonathan-ap < mattathias-m | 2:1,2:5 | "Jonathan, whose surname was Apphus"
+john-m ~ jonathan-ap | 9:35 | "Jonathan had sent his brother John"
+zimri < salu | 2:26 | "Zambri the son of Salom"
+ptolemee-d < dorymenes | 3:38
+antiochus-u < antiochus-e | 3:33,6:15,6:17,6:55 | "To bring up his son Antiochus"
+joseph-z < zacharias-j | 5:18,5:56
+eleazar-s == eleazar-av | 6:43 | Eleazar surnamed Savaran, who slew the elephant (6:43-46), is Eleazar called Avaran, the son of Mattathias (2:5) | history | Josephus, Antiquities of the Jews 12.9.4 (Whiston): "But when his brother Eleazar, whom they called Auran, saw the tallest of all the elephants ... so the elephant fell upon Eleazar, and by his weight crushed him to death" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link122HCH0009> ; Josephus, Antiquities of the Jews 12.6.1: "Eleazar, who was called Auran" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link122HCH0006>
+demetrius-1 < seleucus | 7:1 | "Demetrius the son of Seleucus"
+eupolemus < john-e | 8:17 | "Eupolemus the son of John, the son of Accos"
+john-e < accos | 8:17
+jason-e < eleazar-jn | 8:17 | "Jason the son of Eleazar"
+alexander-b < antiochus-e | 10:1 | "Alexander, the son of Antiochus surnamed Epiphanes"
+cleopatra-p < ptolemee-k | 10:57,10:58 | "Ptolemee went out of Egypt with his daughter Cleopatra"
+alexander-b = cleopatra-p | 10:58 | "He gave unto him his daughter Cleopatra, and celebrated her marriage at Ptolemais"
+cleopatra-p = demetrius-2 | 11:9,11:12 | Ptolemee to Demetrius: "I will give thee my daughter whom Alexander hath"; "he took his daughter from him, and gave her to Demetrius"
+demetrius-2 < demetrius-1 | 10:67 | "Demetrius son of Demetrius"
+zabdiel-a @ arabians | 11:17 | "Zabdiel the Arabian"
+simalcue @ arabians | 11:39 | "Simalcue the Arabian"
+antiochus-y < alexander-b | 11:39,11:40 | "Antiochus the young son of Alexander"
+mattathias-ab < absalom-m | 11:70 | "Mattathias the son of Absalom"
+judas-c < calphi | 11:70 | "Judas the son of Calphi"
+numenius < antiochus-n | 12:16,14:22 | "Numenius the son of Antiochus"
+antipater < jason-a | 12:16,14:22 | "Antipater the son of Jason"
+jonathan-ab < absalom-j | 13:11 | "Jonathan the son of Absalom"
+john-h < simon-m | 13:53,16:1,16:2 | "When Simon saw that John his son was a valiant man"
+judas-h < simon-m | 16:2,16:14 | "Simon called his two eldest sons, Judas and John"
+mattathias-h < simon-m | 16:14 | "With his sons, Mattathias and Judas"
+simon-m ^ jehoiarib-c | 14:29 | "Simon the son of Mattathias, of the posterity of Jarib"; Jarib here is Joarib (2:1), of whose sons Mattathias was
+antiochus-d < demetrius-1 | 15:1 | "Antiochus son of Demetrius the king"; he was the brother of Demetrius the son of Demetrius, so his father is Demetrius the son of Seleucus | history | Josephus, Antiquities of the Jews 13.7.1 (Whiston): "Cleopatra, the wife of Demetrius, who was then shut up in Seleucia with her children. But as Antiochus, the brother of Demetrius ... was not admitted by any of the cities on account of Trypho, Cleopatra sent to him, and invited him to marry her" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link132HCH0007>
+antiochus-d ~ demetrius-2 | 15:1 | Antiochus son of Demetrius is the brother of Demetrius, whose wife was Cleopatra the daughter of Ptolemee (11:12) | history | Josephus, Antiquities of the Jews 13.7.1 (Whiston): "Cleopatra, the wife of Demetrius ... Antiochus, the brother of Demetrius" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link132HCH0007>
+ptolemee-a < abubus | 16:11,16:15 | "Ptolemeus the son of Abubus"

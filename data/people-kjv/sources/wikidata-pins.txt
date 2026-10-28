@@ -299,4 +299,22 @@ elymais | Q1275158 | 32.3167 | 48.4333 | Elymais
 tigris | Q35591 | 38.5032 | 39.5058 | Tigris
 tanis | Q210598 | 30.9769 | 31.88 | Tanis
 scythopolis | Q3517238 | 32.5046 | 35.504 | Scythopolis
+modin | Q12408891 | 31.9332 | 35.0066 | Modi'im
+emmaus | Q847246 | 31.8393 | 34.9895 | Emmaus Nicopolis
+bethsura | Q4897432 | 31.5833 | 35.1 | Beth-zur
+antiochia | Q200441 | 36.2047 | 36.1817 | Antioch
+adasa | Q352616 | 31.8333 | 35.2333 | Adasa
+medaba | Q1683958 | 31.7167 | 35.8 | Madaba
+adida | Q12412089 | 31.9639 | 34.9512 | Tel Hadid
+sparta | Q5690 | 37.0819 | 22.4236 | Sparta
+dora | Q1243563 | 32.6174 | 34.9164 | Dora
+aradus | Q377802 | 34.8561 | 35.8583 | Arwad
+caria | Q193214 | 37.5 | 28.0 | Caria
+delus | Q131911921 | 37.3989 | 25.2665 | Delos
+gortyna | Q1136193 | 35.0601 | 24.9495 | Gortyn
+halicarnassus | Q5843680 | 37.0378 | 27.4242 | Halicarnassus
+myndus | Q18823111 | 37.0547 | 27.2281 | Myndus
+phaselis | Q595329 | 36.5236 | 30.5522 | Phaselis
+sicyon | Q368628 | 37.9841 | 22.7111 | Sicyon
+docus | Q1234984 | 31.874 | 35.4313 | Doq
 colosse | Q1001370 | 37.7906 | 29.2592 | Colossae
