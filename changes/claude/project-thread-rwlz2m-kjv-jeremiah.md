@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Jeremiah added (83 new people; Rab-mag, Rab-saris and Merodach under gods and titles; 21 places, 3 with exact Wikidata pins: Tahpanhes, Dedan, the hill Gareb).

@@ -1,0 +1,264 @@
+# Jeremiah. key | Name | forms | verses | type | description
+jeremiah-p | | Jeremiah | *,!35:3,!52:1 | + |
+hilkiah-a | Hilkiah | Hilkiah | 1:1 | M | Of the priests that were in Anathoth in the land of Benjamin, the father of Jeremiah the prophet (Jeremiah 1:1)
+hilkiah-g | Hilkiah | Hilkiah | 29:3 | M | The father of Gemariah, whom Zedekiah sent unto Babylon (Jeremiah 29:3)
+anathoth | | Anathoth | * | + |
+benjamin | | Benjamin | * | + |
+josiah | | Josiah | * | + |
+amon-k | | Amon | * | + |
+judah | | Judah | * | + |
+jehoiakim | | Jehoiakim | * | + |
+zedekiah-k | | Zedekiah | *,!29:21,!29:22,!36:12 | + |
+zedekiah-m | Zedekiah | Zedekiah | 29:21,29:22 | M | The son of Maaseiah, who with Ahab prophesied a lie in the Lord's name; "whom the king of Babylon roasted in the fire" (Jeremiah 29:21-23)
+zedekiah-h | Zedekiah | Zedekiah | 36:12 | M | The son of Hananiah, one of the princes in the scribe's chamber when the roll was read (Jeremiah 36:12)
+jerusalem | | Jerusalem | * | + |
+israel-people | | Israel | * | + |
+jacob | | Jacob | * | + |
+egypt | | Egypt | * | + |
+baal | | Baal | * | + |
+chittim | | Chittim | * | + |
+kedar | | Kedar | * | + |
+noph | | Noph | * | + |
+tahpanhes | Tahpanhes | Tahpanhes;Tahapanes | * | P | A city of Egypt whither Johanan and the captains brought the remnant of Judah, and Jeremiah and Baruch; there was Pharaoh's house (Jeremiah 2:16, 43:7-9, 44:1, 46:14)
+sihor | | Sihor | * | + |
+assyria | | Assyria | * | + |
+baalim | | Baalim | * | + |
+arabians | | Arabian | * | + |
+zion | | Zion | * | + |
+gentiles | | Gentiles | * | + |
+dan-place | | Dan | * | + |
+ephraim | | Ephraim | * | + |
+tekoah | | Tekoa | * | + |
+beth-haccerem | | Beth-haccerem | * | + |
+sheba-land | | Sheba | * | + |
+topheth | | Tophet | * | + |
+hinnom | | Hinnom | * | + |
+gilead | | Gilead | * | + |
+edom-land | | Edom | * | + |
+ammon | | Ammon;Ammonites | * | + |
+moab-land | | Moab | * | + |
+tharshish | | Tarshish | * | + |
+uphaz | Uphaz | Uphaz | * | P | Whence gold is brought for the idols (Jeremiah 10:9)
+jordan | | Jordan | * | + |
+euphrates | | Euphrates | * | + |
+david | | David | * | + |
+ethiopian | | Ethiopian;Ethiopians | * | + |
+moses | | Moses | * | + |
+samuel | | Samuel | * | + |
+manasseh-k | | Manasseh | * | + |
+hezekiah | | Hezekiah | * | + |
+lebanon | | Lebanon | * | + |
+pashur-i | Pashur | Pashur;Magor-missabib | 20:1,20:2,20:3,20:6 | M | The son of Immer the priest, chief governor in the house of the Lord, who smote Jeremiah and put him in the stocks; "The Lord hath not called thy name Pashur, but Magor-missabib" (Jeremiah 20:1-6)
+immer-j | Immer | Immer | * | M | The priest, father of Pashur (Jeremiah 20:1)
+pashur-m | | Pashur | 21:1,38:1 | + |
+pashur-g | Pashur | Pashur | 38:1 | M | The father of Gedaliah (Jeremiah 38:1)
+malchijah-p | | Melchiah;Malchiah | 21:1,38:1 | + |
+malchiah-hm | Malchiah | Malchiah | 38:6 | M | The son of Hammelech, into whose dungeon in the court of the prison Jeremiah was cast (Jeremiah 38:6)
+babylon | | Babylon;Sheshach | * | + |
+zephaniah-m | Zephaniah | Zephaniah | 21:1,29:25,29:29,37:3 | M | The son of Maaseiah the priest, whom Zedekiah sent to Jeremiah; he read Shemaiah's letter in Jeremiah's ears (Jeremiah 21:1, 29:25-29, 37:3)
+zephaniah | | Zephaniah | 52:24 | + |
+maaseiah-zp | Maaseiah | Maaseiah | 21:1,29:25,37:3 | M | The priest, father of Zephaniah (Jeremiah 21:1, 29:25, 37:3)
+maaseiah-zd | Maaseiah | Maaseiah | 29:21 | M | The father of Zedekiah the false prophet (Jeremiah 29:21)
+maaseiah-n | Maaseiah | Maaseiah | 32:12,51:59 | M | The father of Neriah, grandfather of Baruch and Seraiah (Jeremiah 32:12, 51:59)
+maaseiah-s | Maaseiah | Maaseiah | 35:4 | M | The son of Shallum, the keeper of the door, whose chamber was in the house of the Lord (Jeremiah 35:4)
+nebuchadnezzar | | Nebuchadrezzar;Nebuchadnezzar | * | + |
+chaldees | | Chaldeans;Chaldea | * | + |
+shallum-j | | Shallum | 22:11 | + |
+shallum-u | Shallum | Shallum | 32:7 | M | Jeremiah's uncle, the father of Hanameel (Jeremiah 32:7)
+shallum-d | Shallum | Shallum | 35:4 | M | The father of Maaseiah the keeper of the door (Jeremiah 35:4)
+bashan | | Bashan | * | + |
+jeconiah | | Jeconiah;Coniah | * | + |
+samaria | | Samaria | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrah | * | + |
+pharaoh-je | Pharaoh | Pharaoh | 25:19,43:9,46:17,46:25,47:1 | M | King of Egypt in Jeremiah's prophecy; "Pharaoh king of Egypt is but a noise" (Jeremiah 25:19, 43:9, 46:17, 46:25, 47:1)
+pharaoh-jz | Pharaoh | Pharaoh | 37:5,37:7,37:11 | M | King of Egypt, whose army came forth to help Zedekiah, so that the Chaldeans departed from Jerusalem for a time (Jeremiah 37:5-11)
+pharaoh-hophra | Pharaoh-hophra | Pharaoh-hophra | * | M | King of Egypt: "I will give Pharaoh-hophra king of Egypt into the hand of his enemies" (Jeremiah 44:30)
+pharaoh-nechoh | | Pharaoh-necho | * | + |
+uz-land | | Uz | * | + |
+philistines | | Philistines | * | + |
+ashkelon | | Ashkelon | * | + |
+azzah | | Azzah | * | + |
+ekron | | Ekron | * | + |
+ashdod | | Ashdod | * | + |
+tyre | | Tyrus | * | + |
+sidon-place | | Zidon | * | + |
+dedan-land | Dedan | Dedan | * | P | "Dedan, and Tema, and Buz"; "O inhabitants of Dedan" (Jeremiah 25:23, 49:8)
+tema | | Tema | * | + |
+buz | | Buz | * | + |
+arabia | | Arabia | * | + |
+zimri-land | Zimri | Zimri | * | P | "All the kings of Zimri" (Jeremiah 25:25)
+elam-land | | Elam | * | + |
+medes | | Medes | * | + |
+micah-mo | Micah | Micah | * | M | "Micah the Morasthite", who prophesied in the days of Hezekiah, "Zion shall be plowed like a field" (Jeremiah 26:18)
+morasthites | Morasthites | Morasthite | * | G | "Micah the Morasthite" (Jeremiah 26:18)
+urijah-k | Urijah | Urijah | * | M | The son of Shemaiah of Kirjath-jearim, who prophesied against the city; he fled into Egypt, and Jehoiakim fetched him out and slew him (Jeremiah 26:20-23)
+shemaiah-kj | Shemaiah | Shemaiah | 26:20 | M | Of Kirjath-jearim, the father of Urijah (Jeremiah 26:20)
+shemaiah-ne | Shemaiah | Shemaiah | 29:24,29:31,29:32 | M | "Shemaiah the Nehelamite", who sent letters from Babylon against Jeremiah; "I will punish Shemaiah the Nehelamite, and his seed" (Jeremiah 29:24-32)
+nehelamites | Nehelamites | Nehelamite | * | G | "Shemaiah the Nehelamite" (Jeremiah 29:24, 29:31-32)
+shemaiah-d | Shemaiah | Shemaiah | 36:12 | M | The father of Delaiah (Jeremiah 36:12)
+kirjath-jearim | | Kirjath-jearim | * | + |
+elnathan-a | Elnathan | Elnathan | * | M | The son of Achbor, whom Jehoiakim sent into Egypt; one of the princes who made intercession that the king would not burn the roll (Jeremiah 26:22, 36:12, 36:25)
+achbor-j | Achbor | Achbor | * | M | The father of Elnathan (Jeremiah 26:22, 36:12)
+ahikam | | Ahikam | * | + |
+shaphan-a | | Shaphan | 26:24,39:14,40:5,40:9,40:11,41:2,43:6 | + |
+shaphan | | Shaphan | 36:10,36:11,36:12 | + |
+shaphan-e | Shaphan | Shaphan | 29:3 | M | The father of Elasah (Jeremiah 29:3)
+hananiah-az | Hananiah | Hananiah | 28:1,28:5,28:10,28:11,28:12,28:13,28:15,28:17 | M | The son of Azur the prophet, of Gibeon, who brake the yoke from off Jeremiah's neck; "this year thou shalt die", and he died the same year (Jeremiah 28:1-17)
+azur-g | Azur | Azur | * | M | Of Gibeon, the father of Hananiah the prophet (Jeremiah 28:1)
+hananiah-zh | Hananiah | Hananiah | 36:12 | M | The father of Zedekiah the prince (Jeremiah 36:12)
+hananiah-i | Hananiah | Hananiah | 37:13 | M | The father of Shelemiah, grandfather of Irijah (Jeremiah 37:13)
+gibeon | | Gibeon | * | + |
+elasah-s | Elasah | Elasah | * | M | The son of Shaphan, by whose hand Jeremiah sent the letter to the captivity in Babylon (Jeremiah 29:3)
+gemariah-h | Gemariah | Gemariah | 29:3 | M | The son of Hilkiah, whom Zedekiah sent unto Babylon, by whose hand Jeremiah sent the letter (Jeremiah 29:3)
+gemariah-s | Gemariah | Gemariah | 36:10,36:11,36:12,36:25 | M | The son of Shaphan the scribe, in whose chamber Baruch read the book; he made intercession that the king would not burn the roll (Jeremiah 36:10-12, 36:25)
+ahab-k | Ahab | Ahab | * | M | The son of Kolaiah, who with Zedekiah prophesied a lie in the Lord's name; "whom the king of Babylon roasted in the fire" (Jeremiah 29:21-23)
+kolaiah-a | Kolaiah | Kolaiah | * | M | The father of Ahab the false prophet (Jeremiah 29:21)
+jehoiada-p | | Jehoiada | * | + |
+outcast | Outcast | Outcast | * | X | What they called Zion: "because they called thee an Outcast, saying, This is Zion, whom no man seeketh after" (Jeremiah 30:17); not a person in People
+ramah | | Ramah | * | + |
+rachel | | Rahel | * | + |
+hananeel | | Hananeel | * | + |
+gareb-hill | Gareb | Gareb | * | P | "The hill Gareb", by which the measuring line goes forth (Jeremiah 31:39)
+goath | Goath | Goath | * | P | Unto which the measuring line compasses about (Jeremiah 31:39)
+kidron | | Kidron | * | + |
+hanameel | Hanameel | Hanameel | * | M | The son of Shallum, Jeremiah's uncle's son, of whom Jeremiah bought the field in Anathoth (Jeremiah 32:7-12)
+baruch-n | Baruch | Baruch | * | M | The son of Neriah, the son of Maaseiah, who wrote from the mouth of Jeremiah all the words of the Lord upon a roll of a book, and read them in the house of the Lord; "thy life will I give unto thee for a prey" (Jeremiah 32:12-16, 36:4-32, 43:3-6, 45:1-5)
+neriah | Neriah | Neriah | * | M | The son of Maaseiah, father of Baruch and of Seraiah (Jeremiah 32:12, 36:4, 51:59)
+jews | | Jews;Jew | * | + |
+molech | | Molech | * | + |
+levites | | Levites | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+lachish | | Lachish | * | + |
+azekah | | Azekah | * | + |
+hebrew | | Hebrew;Hebrewess | * | + |
+rechabites | Rechabites | Rechabites | * | G | The house of the Rechabites, who obeyed the commandment of Jonadab the son of Rechab their father, to drink no wine and to dwell in tents (Jeremiah 35:1-19)
+jaazaniah-r | Jaazaniah | Jaazaniah | * | M | The son of Jeremiah, the son of Habaziniah, of the house of the Rechabites, whom Jeremiah brought into the house of the Lord (Jeremiah 35:3)
+jeremiah-r | Jeremiah | Jeremiah | 35:3 | M | The son of Habaziniah, father of Jaazaniah the Rechabite (Jeremiah 35:3)
+habaziniah | Habaziniah | Habaziniah | * | M | The father of Jeremiah, grandfather of Jaazaniah the Rechabite (Jeremiah 35:3)
+hanan-i | Hanan | Hanan | * | M | The son of Igdaliah, "a man of God", whose sons' chamber was in the house of the Lord (Jeremiah 35:4)
+igdaliah | Igdaliah | Igdaliah | * | M | The father of Hanan, a man of God (Jeremiah 35:4)
+jehonadab | | Jonadab | * | + |
+rechab-j | | Rechab | * | + |
+syrians | | Syrians | * | + |
+michaiah-g | Michaiah | Michaiah | * | M | The son of Gemariah, the son of Shaphan, who heard the words of the book and declared them to the princes (Jeremiah 36:11-13)
+elishama-sc | Elishama | Elishama | 36:12,36:20,36:21 | M | The scribe, in whose chamber the roll was laid up (Jeremiah 36:12, 36:20-21)
+elishama-n | | Elishama | 41:1 | + |
+delaiah-s | Delaiah | Delaiah | * | M | The son of Shemaiah, one of the princes who made intercession that the king would not burn the roll (Jeremiah 36:12, 36:25)
+jehudi | Jehudi | Jehudi | * | M | The son of Nethaniah, the son of Shelemiah, the son of Cushi, whom the princes sent to Baruch; he read the roll in the ears of the king (Jeremiah 36:14, 36:21-23)
+nethaniah-j | Nethaniah | Nethaniah | 36:14 | M | The son of Shelemiah, father of Jehudi (Jeremiah 36:14)
+nethaniah | | Nethaniah | *,!36:14 | + |
+shelemiah-c | Shelemiah | Shelemiah | 36:14 | M | The son of Cushi, grandfather of Jehudi (Jeremiah 36:14)
+cushi-j | Cushi | Cushi | * | M | The great-grandfather of Jehudi (Jeremiah 36:14)
+shelemiah-ab | Shelemiah | Shelemiah | 36:26 | M | The son of Abdeel, whom the king commanded to take Baruch and Jeremiah (Jeremiah 36:26)
+abdeel | Abdeel | Abdeel | * | M | The father of Shelemiah (Jeremiah 36:26)
+shelemiah-j | Shelemiah | Shelemiah | 37:3,38:1 | M | The father of Jehucal (Jeremiah 37:3, 38:1)
+shelemiah-i | Shelemiah | Shelemiah | 37:13 | M | The son of Hananiah, father of Irijah (Jeremiah 37:13)
+jerahmeel-h | Jerahmeel | Jerahmeel | * | M | The son of Hammelech, whom the king commanded to take Baruch and Jeremiah (Jeremiah 36:26)
+hammelech | Hammelech | Hammelech | * | M | The father of Jerahmeel and of Malchiah (Jeremiah 36:26, 38:6)
+seraiah-az | Seraiah | Seraiah | 36:26 | M | The son of Azriel, whom the king commanded to take Baruch and Jeremiah (Jeremiah 36:26)
+azriel-s | Azriel | Azriel | * | M | The father of Seraiah (Jeremiah 36:26)
+seraiah-t | | Seraiah | 40:8 | + |
+seraiah-n | Seraiah | Seraiah | 51:59,51:61 | M | The son of Neriah, the son of Maaseiah, "a quiet prince", who went with Zedekiah into Babylon and carried Jeremiah's book of the evil that should come upon Babylon (Jeremiah 51:59-64)
+seraiah-p | | Seraiah | 52:24 | + |
+jehucal | Jehucal | Jehucal;Jucal | * | M | The son of Shelemiah, whom Zedekiah sent to Jeremiah; one of the princes who heard Jeremiah's words and had him cast into the dungeon (Jeremiah 37:3, 38:1-6)
+irijah | Irijah | Irijah | * | M | The son of Shelemiah, the son of Hananiah, a captain of the ward in the gate of Benjamin, who took Jeremiah, saying, "Thou fallest away to the Chaldeans" (Jeremiah 37:13-14)
+jonathan-sc | Jonathan | Jonathan | 37:15,37:20,38:26 | M | The scribe, in whose house they had made the prison wherein Jeremiah was put (Jeremiah 37:15, 37:20, 38:26)
+jonathan-k | Jonathan | Jonathan | 40:8 | M | A son of Kareah, who with Johanan his brother came to Gedaliah to Mizpah (Jeremiah 40:8)
+shephatiah-mt | Shephatiah | Shephatiah | * | M | The son of Mattan, one of the princes who had Jeremiah cast into the dungeon (Jeremiah 38:1-6)
+mattan-s | Mattan | Mattan | * | M | The father of Shephatiah (Jeremiah 38:1)
+gedaliah | | Gedaliah | *,!38:1 | + |
+gedaliah-p | Gedaliah | Gedaliah | 38:1 | M | The son of Pashur, one of the princes who had Jeremiah cast into the dungeon (Jeremiah 38:1-6)
+ebed-melech | Ebed-melech | Ebed-melech | * | M | The Ethiopian, one of the eunuchs in the king's house, who took Jeremiah up out of the dungeon; "I will surely deliver thee ... because thou hast put thy trust in me" (Jeremiah 38:7-13, 39:15-18)
+nergal-sharezer | Nergal-sharezer | Nergal-sharezer | 39:3 | M | One of the princes of the king of Babylon who sat in the middle gate, named first (Jeremiah 39:3)
+nergal-sharezer-rm | Nergal-sharezer | Nergal-sharezer | 39:3,39:13 | M | Nergal-sharezer, Rab-mag, one of the princes of the king of Babylon, who sent and took Jeremiah out of the court of the prison (Jeremiah 39:3, 39:13-14)
+samgar-nebo | Samgar-nebo | Samgar-nebo | * | M | One of the princes of the king of Babylon who sat in the middle gate (Jeremiah 39:3)
+sarsechim | Sarsechim | Sarsechim | * | M | Sarsechim, Rab-saris, one of the princes of the king of Babylon who sat in the middle gate (Jeremiah 39:3)
+rab-saris | Rab-saris | Rab-saris | * | T | A title of princes of the king of Babylon: "Sarsechim, Rab-saris", "Nebushasban, Rab-saris" (Jeremiah 39:3, 39:13)
+rab-mag | Rab-mag | Rab-mag | * | T | A title of a prince of the king of Babylon: "Nergal-sharezer, Rab-mag" (Jeremiah 39:3, 39:13)
+nebushasban | Nebushasban | Nebushasban | * | M | Nebushasban, Rab-saris, whom Nebuzar-adan sent with the princes to take Jeremiah out of the court of the prison (Jeremiah 39:13-14)
+jericho | | Jericho | * | + |
+riblah | | Riblah | * | + |
+hamath | | Hamath | * | + |
+nebuzar-adan | | Nebuzar-adan | * | + |
+mizpah-b | | Mizpah | 40:6,40:8,40:10,40:12,40:13,40:15,41:1,41:3,41:6,41:10,41:14,41:16 | + |
+ishmael-n | | Ishmael | * | + |
+johanan | | Johanan | * | + |
+careah | | Kareah | * | + |
+tanhumeth | | Tanhumeth | * | + |
+ephai | Ephai | Ephai | * | M | The Netophathite, whose sons came to Gedaliah to Mizpah (Jeremiah 40:8)
+netophathite | | Netophathite | * | + |
+jaazaniah | | Jezaniah | 40:8 | + |
+jezaniah-h | Jezaniah | Jezaniah | 42:1 | M | The son of Hoshaiah, who with Johanan and the captains came near to Jeremiah to enquire of the Lord (Jeremiah 42:1)
+maachathite | | Maachathite | * | + |
+baalis | Baalis | Baalis | * | M | King of the Ammonites, who sent Ishmael the son of Nethaniah to slay Gedaliah (Jeremiah 40:14)
+shechem-place | | Shechem | * | + |
+asa | | Asa | * | + |
+baasha | | Baasha | * | + |
+chimham | | Chimham | * | + |
+beth-lehem | | Beth-lehem | * | + |
+hoshaiah-j | Hoshaiah | Hoshaiah | * | M | The father of Jezaniah and of Azariah (Jeremiah 42:1, 43:2)
+azariah-ho | Azariah | Azariah | * | M | The son of Hoshaiah, who with Johanan and all the proud men said unto Jeremiah, "Thou speakest falsely" (Jeremiah 43:2)
+beth-shemesh-e | Beth-shemesh | Beth-shemesh | * | P | "That is in the land of Egypt", whose images Nebuchadrezzar shall break (Jeremiah 43:13)
+egyptian | | Egyptians | * | + |
+migdol-j | Migdol | Migdol | * | P | In Egypt, where Jews dwelt (Jeremiah 44:1, 46:14)
+pathros | | Pathros | * | + |
+carchemish | | Carchemish | * | + |
+libyans | Libyans | Libyans | * | G | "The Libyans, that handle the shield", with the army of Egypt (Jeremiah 46:9)
+lydians | Lydians | Lydians | * | G | "The Lydians, that handle and bend the bow", with the army of Egypt (Jeremiah 46:9)
+tabor | | Tabor | * | + |
+carmel | | Carmel | * | + |
+gaza | | Gaza | * | + |
+caphtor | | Caphtor | * | + |
+nebo | | Nebo | * | + |
+kiriathaim | | Kiriathaim | * | + |
+misgab | Misgab | Misgab | * | P | In Moab: "Misgab is confounded and dismayed" (Jeremiah 48:1)
+heshbon | | Heshbon | * | + |
+madmen | Madmen | Madmen | * | P | In Moab: "Thou shalt be cut down, O Madmen" (Jeremiah 48:2)
+horonaim | | Horonaim | * | + |
+luhith | | Luhith | * | + |
+chemosh | | Chemosh | * | + |
+beth-el | | Beth-el | * | + |
+dibon | | Dibon | * | + |
+aroer-a | | Aroer | 48:19 | + |
+arnon | | Arnon | * | + |
+holon-m | Holon | Holon | * | P | In Moab, upon which judgment is come (Jeremiah 48:21)
+jahazah | | Jahazah | * | + |
+mephaath | | Mephaath | * | + |
+beth-diblathaim | Beth-diblathaim | Beth-diblathaim | * | P | In Moab, upon which judgment is come (Jeremiah 48:22)
+beth-gamul | Beth-gamul | Beth-gamul | * | P | In Moab, upon which judgment is come (Jeremiah 48:23)
+beth-meon | Beth-meon | Beth-meon | * | P | In Moab, upon which judgment is come (Jeremiah 48:23)
+kerioth-m | Kerioth | Kerioth | * | P | In Moab: "Kerioth is taken" (Jeremiah 48:24, 48:41)
+bozrah-m | Bozrah | Bozrah | 48:24 | P | In Moab, upon which judgment is come (Jeremiah 48:24)
+bozrah | | Bozrah | 49:13,49:22 | + |
+kir-haraseth | | Kir-heres | * | + |
+sibmah | | Sibmah | * | + |
+jaazer | | Jazer | * | + |
+elealeh | | Elealeh | * | + |
+jahaz | | Jahaz | * | + |
+zoar | | Zoar | * | + |
+nimrim | | Nimrim | * | + |
+sihon | | Sihon | * | + |
+gad | | Gad | * | + |
+rabbah | | Rabbah | * | + |
+ai-a | Ai | Ai | * | P | Of the Ammonites: "Howl, O Heshbon, for Ai is spoiled" (Jeremiah 49:3)
+teman | | Teman | * | + |
+esau | | Esau | * | + |
+damascus | | Damascus | * | + |
+arpad | | Arpad | * | + |
+ben-hadad-j | Ben-hadad | Ben-hadad | * | M | Whose palaces in Damascus the Lord will consume with fire (Jeremiah 49:27)
+hazor-a | Hazor | Hazor | * | P | "The kingdoms of Hazor", named with Kedar, which Nebuchadrezzar shall smite (Jeremiah 49:28-33)
+bel | | Bel | * | + |
+merodach | Merodach | Merodach | * | D | An idol of Babylon: "Bel is confounded, Merodach is broken in pieces" (Jeremiah 50:2)
+merathaim | Merathaim | Merathaim | * | P | "Go up against the land of Merathaim" (Jeremiah 50:21)
+pekod | Pekod | Pekod | * | P | "Against the inhabitants of Pekod" (Jeremiah 50:21)
+ararat | | Ararat | * | + |
+minni | Minni | Minni | * | P | A kingdom called together against Babylon with Ararat and Ashchenaz (Jeremiah 51:27)
+ashkenaz | | Ashchenaz | * | + |
+hamutal | | Hamutal | * | + |
+jeremiah-l | | Jeremiah | 52:1 | + |
+libnah-c | | Libnah | * | + |
+solomon | | Solomon | * | + |
+jehoiachin | | Jehoiachin | * | + |
+evil-merodach | | Evil-merodach | * | + |
