@@ -1,0 +1,1 @@
+- James: adds James the writer of the epistle (kept separate; the KJV does not say which James he is); adds James verses to Jesus, Abraham, Isaac, Rahab, Job and Elias.
