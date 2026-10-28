@@ -1,0 +1,1 @@
+- People (KJV): add the Epistle of Jeremy; no new names, verses added to Jeremy, Nabuchodonosor, Bel, Babylon, the Babylonians and the Chaldeans.
