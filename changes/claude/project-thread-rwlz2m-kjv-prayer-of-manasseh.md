@@ -1,0 +1,1 @@
+- Prayer of Manasses: adds its verses to Abraham, Isaac and Jacob, the only names in the prayer.
