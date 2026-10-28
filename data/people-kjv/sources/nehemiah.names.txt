@@ -605,3 +605,5 @@ balaam | | Balaam | * | + |
 tyre | | Tyre | * | + |
 ashdod | | Ashdod | * | + |
 moab-land | | Moab | * | + |
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

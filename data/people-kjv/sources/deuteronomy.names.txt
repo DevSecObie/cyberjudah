@@ -146,3 +146,6 @@ sinai | | Sinai | * | + |
 meribah | | Meribah | * | + |
 ephraim | | Ephraim | * | + |
 zoar | | Zoar | * | + |
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |
+salt-sea | | salt sea;sea of the plain | * | + |

@@ -34,3 +34,5 @@ jerusalem | | Jerusalem | * | + |
 timothy | | Timothy | * | + |
 italy | | Italy | * | + |
 hebrew | | Hebrews | * | + |
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

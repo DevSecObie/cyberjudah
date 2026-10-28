@@ -279,3 +279,5 @@ ahaziah | Ahaziah | Ahaziah | * | M | The son of Ahab, who reigned over Israel i
 azubah | Azubah | Azubah | * | F | The daughter of Shilhi, mother of Jehoshaphat king of Judah (1 Kings 22:42)
 shilhi | Shilhi | Shilhi | * | M | The father of Azubah (1 Kings 22:42)
 jehoram | Jehoram | Jehoram | * | M | The son of Jehoshaphat, who reigned in his stead (1 Kings 22:50)
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

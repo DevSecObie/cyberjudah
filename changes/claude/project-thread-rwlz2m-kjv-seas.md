@@ -1,0 +1,1 @@
+- KJV Places: adds the Red sea, the salt sea (the sea of the plain), the great sea and the sea of Galilee (the sea of Tiberias), and the mount of Olives verses on Olivet. The builder now finds place names written as phrases (a form with a space) word for word in the verse text. Tiberias the city keeps only John 6:23.

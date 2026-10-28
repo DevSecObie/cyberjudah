@@ -324,3 +324,7 @@ marisa | Q1507676 | 31.593 | 34.8982 | Maresha
 thracia | Q41741 | 42.0 | 26.0 | Thrace
 tripolis | Q111387243 | 34.45 | 35.8333 | Tripolis
 colosse | Q1001370 | 37.7906 | 29.2592 | Colossae
+red-sea | Q23406 | 22.0 | 38.0 | Red Sea
+salt-sea | Q23883 | 31.5207 | 35.4845 | Dead Sea
+great-sea | Q4918 | 38.0 | 17.0 | Mediterranean Sea
+sea-of-galilee | Q126982 | 32.818906 | 35.590033 | Sea of Galilee

@@ -262,3 +262,5 @@ syracuse | Syracuse | Syracuse | * | P | Where they tarried three days (Acts 28:
 rhegium | Rhegium | Rhegium | * | P | "We fetched a compass, and came to Rhegium" (Acts 28:13)
 puteoli | Puteoli | Puteoli | * | P | "Where we found brethren" (Acts 28:13-14)
 appii | Appii forum | Appii | * | P | "As far as Appii forum, and The three taverns" (Acts 28:15)
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

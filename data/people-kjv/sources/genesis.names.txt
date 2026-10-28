@@ -479,3 +479,5 @@ zoar | Zoar | Zoar | * | P | Bela, which is Zoar, the little city Lot escaped to
 zoar | | Bela | 14:2,14:8 | + |
 kadesh | | En-mishpat | * | + |
 hebron | | Arbah;Kirjath-arba | * | + |
+# Seas and the mount of Olives, named in phrases
+salt-sea | Salt sea | salt sea;sea of the plain | * | P | "The vale of Siddim, which is the salt sea" (Genesis 14:3); "the sea of the plain, even the salt sea" (Deuteronomy 3:17, Joshua 3:16, 12:3)

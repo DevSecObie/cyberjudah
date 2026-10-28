@@ -1,3 +1,5 @@
 # Wisdom of Solomon. key | Name | forms | verses | type | description
 gentiles | | Gentiles | * | + |
 sodomites | | Sodomites | * | + |
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

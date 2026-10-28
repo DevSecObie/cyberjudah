@@ -59,3 +59,5 @@ rimmon | | Rimmon | * | + |
 benjamin | | Benjamin | * | + |
 hananeel | | Hananeel | * | + |
 canaanites | | Canaanite | * | + |
+# Seas and the mount of Olives, named in phrases
+olivet | | mount of Olives | * | + |

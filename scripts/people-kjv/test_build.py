@@ -34,6 +34,18 @@ class Build(unittest.TestCase):
             self.assertEqual(pin['url'], 'https://www.wikidata.org/wiki/' + pin['wikidata'])
             self.assertTrue(-90 <= pin['lat'] <= 90 and -180 <= pin['lon'] <= 180, p['id'])
 
+    def test_phrase_places(self):
+        doc, _ = build.build()
+        places = {p['id']: p for p in doc['places']}
+        red = places['red-sea-exo-10-19']
+        self.assertEqual(len(red['verses']), 32)
+        self.assertIn('1-maccabees/4/9', red['verses'])
+        salt = places['salt-sea-gen-14-3']
+        self.assertIn('2-kings/14/25', salt['verses'])  # "the sea of the plain", the salt sea (Deuteronomy 3:17)
+        self.assertNotIn('daniel/7/2', places['great-sea-num-34-6']['verses'])  # the great sea of the vision
+        self.assertEqual(places['tiberias-jhn-6-23']['verses'], ['john/6/23'])
+        self.assertIn('john/21/1', places['sea-of-galilee-mat-4-18']['verses'])
+
 
 if __name__ == '__main__':
     unittest.main()

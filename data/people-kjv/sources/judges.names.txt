@@ -255,3 +255,5 @@ rimmon-rock | Rimmon | Rimmon | * | P | The rock in the wilderness where six hun
 gidom | Gidom | Gidom | * | P | Unto which Israel pursued Benjamin (Judges 20:45)
 jabesh-gilead | Jabesh-gilead | Jabesh-gilead | * | P | Whose inhabitants came not up to Mizpeh; four hundred virgins were taken from it for Benjamin (Judges 21:8-14)
 lebonah | Lebonah | Lebonah | * | P | South of which lies Shiloh (Judges 21:19)
+# Seas and the mount of Olives, named in phrases
+red-sea | | Red sea | * | + |

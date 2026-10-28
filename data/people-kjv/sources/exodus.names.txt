@@ -114,3 +114,5 @@ uri | Uri | Uri | * | M | The son of Hur of the tribe of Judah, father of Bezale
 aholiab | Aholiab | Aholiab | * | M | The son of Ahisamach of the tribe of Dan, given to work with Bezaleel (Exodus 31:6, 38:23)
 ahisamach | Ahisamach | Ahisamach | * | M | Of the tribe of Dan, the father of Aholiab (Exodus 31:6)
 nun | Nun | Nun | * | M | The father of Joshua (Exodus 33:11)
+# Seas and the mount of Olives, named in phrases
+red-sea | Red sea | Red sea | * | P | The sea into which the locusts were cast (Exodus 10:19); "I will set thy bounds from the Red sea even unto the sea of the Philistines" (Exodus 23:31); "He rebuked the Red sea also, and it was dried up: so he led them through the depths" (Psalms 106:9)
