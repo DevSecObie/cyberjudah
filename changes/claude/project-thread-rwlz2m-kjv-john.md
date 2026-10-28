@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: John added (9 new people incl. Nathanael, Nicodemus, Jona father of Simon Peter, Lazarus of Bethany, Malchus, Mary wife of Cleophas; 8 places: Bethabara, Cana, Salim, Sychar, Bethesda, Tiberias, Ephraim, Gabbatha; 4 pinned to Wikidata).
