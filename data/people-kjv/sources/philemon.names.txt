@@ -1,0 +1,14 @@
+# Philemon. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+timothy | | Timothy | * | + |
+philemon | Philemon | Philemon | * | M | "Philemon our dearly beloved, and fellowlabourer", to whom Paul sent back Onesimus (Philemon 1:1, 1:10-17)
+apphia | Apphia | Apphia | * | F | "Our beloved Apphia" (Philemon 1:2)
+archippus | | Archippus | * | + |
+onesimus | | Onesimus | * | + |
+epaphras | | Epaphras | * | + |
+marcus | | Marcus | * | + |
+aristarchus | | Aristarchus | * | + |
+demas | | Demas | * | + |
+luke | | Lucas | * | + |
+rome | | Rome | * | + |
