@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Zephaniah added (Zephaniah and his line Cushi, Gedaliah, Amariah, Hizkiah, 1:1; the Chemarims; Malcham under gods; Maktesh, 1:11).

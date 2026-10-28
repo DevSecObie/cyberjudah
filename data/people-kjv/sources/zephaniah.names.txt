@@ -1,0 +1,31 @@
+# Zephaniah. key | Name | forms | verses | type | description
+zephaniah-pr | Zephaniah | Zephaniah | * | M | The son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, to whom the word of the Lord came in the days of Josiah (Zephaniah 1:1)
+cushi-z | Cushi | Cushi | * | M | The son of Gedaliah, father of Zephaniah the prophet (Zephaniah 1:1)
+gedaliah-z | Gedaliah | Gedaliah | * | M | The son of Amariah, grandfather of Zephaniah the prophet (Zephaniah 1:1)
+amariah-zp | Amariah | Amariah | * | M | The son of Hizkiah, in the line of Zephaniah the prophet (Zephaniah 1:1)
+hizkiah | Hizkiah | Hizkiah | * | M | The father of Amariah, in the line of Zephaniah the prophet (Zephaniah 1:1)
+josiah | | Josiah | * | + |
+amon-k | | Amon | * | + |
+judah | | Judah | * | + |
+jerusalem | | Jerusalem | * | + |
+baal | | Baal | * | + |
+chemarims | Chemarims | Chemarims | * | G | "The name of the Chemarims with the priests", which the Lord will cut off (Zephaniah 1:4)
+malcham-idol | Malcham | Malcham | * | D | "them that worship and that swear by the Lord, and that swear by Malcham" (Zephaniah 1:5)
+maktesh | Maktesh | Maktesh | * | P | "Howl, ye inhabitants of Maktesh" (Zephaniah 1:11)
+gaza | | Gaza | * | + |
+ashkelon | | Ashkelon | * | + |
+ashdod | | Ashdod | * | + |
+ekron | | Ekron | * | + |
+cherethites | | Cherethites | * | + |
+canaan-land | | Canaan | * | + |
+philistines | | Philistines | * | + |
+moab-land | | Moab | * | + |
+ammon | | Ammon | * | + |
+israel-people | | Israel | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrah | * | + |
+ethiopian | | Ethiopians | * | + |
+assyria | | Assyria | * | + |
+nineveh | | Nineveh | * | + |
+ethiopia | | Ethiopia | * | + |
+zion | | Zion | * | + |
