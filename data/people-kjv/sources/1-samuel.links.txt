@@ -53,3 +53,10 @@ abishai << zeruiah | 26:6
 joab << zeruiah | 26:6 | "Abishai the son of Zeruiah, brother to Joab"
 abishai ~ joab | 26:6
 ahimelech-h @ hittites | 26:6
+i-chabod < phinehas-e | 4:19,4:21 | "His daughter in law, Phinehas' wife ... named the child I–chabod"
+ahitub ~ i-chabod | 14:3 | "Ahitub, I–chabod's brother"
+# tribes the verse states
+aphiah & benjamin | 9:1 | "Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a ..."
+
+# tribes the verse states or the list a person stands in
+eli & levi | 2:27,2:28 | The Lord chose "the house of thy father" "out of all the tribes of Israel to be my priest" (2:27-28)

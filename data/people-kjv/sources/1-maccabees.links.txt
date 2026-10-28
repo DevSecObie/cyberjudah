@@ -41,3 +41,6 @@ simon-m ^ jehoiarib-c | 14:29 | "Simon the son of Mattathias, of the posterity o
 antiochus-d < demetrius-1 | 15:1 | "Antiochus son of Demetrius the king"; he was the brother of Demetrius the son of Demetrius, so his father is Demetrius the son of Seleucus | history | Josephus, Antiquities of the Jews 13.7.1 (Whiston): "Cleopatra, the wife of Demetrius, who was then shut up in Seleucia with her children. But as Antiochus, the brother of Demetrius ... was not admitted by any of the cities on account of Trypho, Cleopatra sent to him, and invited him to marry her" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link132HCH0007>
 antiochus-d ~ demetrius-2 | 15:1 | Antiochus son of Demetrius is the brother of Demetrius, whose wife was Cleopatra the daughter of Ptolemee (11:12) | history | Josephus, Antiquities of the Jews 13.7.1 (Whiston): "Cleopatra, the wife of Demetrius ... Antiochus, the brother of Demetrius" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link132HCH0007>
 ptolemee-a < abubus | 16:11,16:15 | "Ptolemeus the son of Abubus"
+
+# tribes the verse states or the list a person stands in
+alcimus ^ aaron | 7:14 | "A priest of the seed of Aaron"

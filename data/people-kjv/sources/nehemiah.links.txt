@@ -137,3 +137,25 @@ zaccur-m < mattaniah-13 | 13:13
 sanballat @ horonite | 2:10,2:19,13:28
 tobiah-a @ ammon | 2:10,2:19
 geshem @ arabians | 2:19
+# tribes the verse states
+kadmiel hashabiah-24 jeshua-km sherebiah-24 & levi | 12:24 | "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give ..."
+henadad binnui-h azaniah jeshua-az kadmiel-10 & levi | 10:9 | "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;"
+bani-3 rehum-b & levi | 3:17 | "After him repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part."
+bani-9a bani-9b bunni-9 chenani jeshua-9 kadmiel-9 shebaniah-9 sherebiah-9 & levi | 9:4 | "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice ..."
+bani-95 hashabniah-l hodijah-9 pethahiah-9 & levi | 9:5 | "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the Lord your God for ..."
+bunni-h & levi | 11:15 | "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
+ezra-z jeremiah-z12 seraiah-z12 & levi | 12:1 | "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,"
+pedaiah-l & levi | 13:13 | "And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the ..."
+
+# tribes by the list a person stands in: the heading verse names the tribe
+shabbethai-11 jozabad-11 bakbukiah-11 & levi | 11:15,11:16,11:17 | Listed under "Of the Levites" (11:15)
+shiloni & judah | 11:4,11:5 | Listed under "Of the children of Judah" (11:4)
+jesaiah-b gabbai sallai-b zichri-b senuah & benjamin | 11:7,11:8,11:9 | Listed under "The sons of Benjamin" (11:7)
+
+# tribes the verse states or the list a person stands in
+jedaiah-j zechariah-pa seraiah-h11 joiarib-j jachin-n pelaliah amzi-n amashai azareel-n ahasai zabdiel-g & levi | 10:38,11:10,11:11,11:12,11:13,11:14 | Listed under "Of the priests" (11:10); the priest is "the son of Aaron" (10:38)
+
+# people the text describes but never names
+meshullam-d < meshullam-br | 6:18 | "The daughter of Meshullam the son of Berechiah"
+meshullam-d = johanan-t | 6:18 | "His son Johanan had taken the daughter of Meshullam"
+joiada-s < joiada-hp | 13:28 | "One of the sons of Joiada"

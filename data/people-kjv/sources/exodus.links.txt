@@ -34,3 +34,11 @@ aholiab < ahisamach | 31:6,35:34,38:23
 aaron & levi | 4:14 | "Aaron the Levite"
 bezaleel & judah | 31:2,35:30,38:22
 aholiab & dan | 31:6,35:34,38:23
+# tribes the verse states
+ahisamach & dan | 31:6 | "And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put ..."
+
+# people the text describes but never names
+pharaoh-d < pharaoh-o | 2:5 | "The daughter of Pharaoh"
+putiel-d < putiel | 6:25 | "One of the daughters of Putiel"
+putiel-d = eleazar | 6:25 | "Eleazar Aaron's son took him one of the daughters of Putiel to wife"
+phinehas << putiel-d | 6:25 | "She bare him Phinehas"

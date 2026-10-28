@@ -70,6 +70,13 @@ test("people and places are built from the KJV, with evidence and verses", async
   assert.ok(jehoiarib.descendants.some((e) => e.id === "mattathias-1ma-2-1"));
   const aaron = await (await get("/api/people/aaron-exo-4-14.json")).json();
   assert.equal(aaron.tribe, "Tribe of Levi");
+  const judah = await (await get("/api/people/judah-gen-29-35.json")).json();
+  assert.equal(judah.tribe, "Father of the tribe of Judah");
+  const hagar = await (await get("/api/people/hagar-gen-16-1.json")).json();
+  assert.ok(hagar.tribe && hagar.tribe === hagar.nation.map((n) => n.name).join(", "));
+  const judas = await (await get("/api/people/judas-maccabeus-1ma-2-4.json")).json();
+  assert.equal(judas.name, "Judas Maccabeus");
+  assert.equal(judas.tribe, "Tribe of Levi");
   assert.deepEqual(aaron.father.map((e) => [e.id, e.evidenceLabel]), [["amram-exo-6-18", "Scripturally confirmed"]]);
   assert.equal(aaron.source.license, "Public domain");
   const havilah = await (await get("/api/places/havilah-gen-2-11.json")).json();

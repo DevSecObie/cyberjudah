@@ -142,3 +142,6 @@ zebulun | | Zebulun | * | + |
 gad | | Gad | * | + |
 # Seas and the mount of Olives, named in phrases
 great-sea | | great sea | * | + |
+
+# people the text describes but never names
+ezekiel-w | Ezekiel's wife |  | 24:16,24:18 | F | "The desire of thine eyes" (24:16): "at even my wife died" (Ezekiel 24:16-18)

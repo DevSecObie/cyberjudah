@@ -203,3 +203,4 @@ chor-ashan | Chor-ashan | Chor-ashan | * | P | To whose men David sent of the sp
 athach | Athach | Athach | * | P | To whose men David sent of the spoil (1 Samuel 30:30)
 hebron | | Hebron | * | + |
 beth-shan | Beth-shan | Beth-shan | * | P | To whose wall the Philistines fastened Saul's body (1 Samuel 31:10-12)
+i-chabod | I–chabod | I–chabod | 4:21,14:3 | M | The son of Phinehas, born when the ark was taken; his mother named him, "saying, The glory is departed from Israel" (1 Samuel 4:19-22, 14:3)

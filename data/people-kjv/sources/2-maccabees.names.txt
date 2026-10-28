@@ -25,7 +25,7 @@ jeremiah-p | | Jeremy;Jeremias | * | + |
 solomon | | Solomon | * | + |
 david | | David | * | + |
 # The epitome of Jason of Cyrene
-judas-m | | Judas;Maccabeus | !1:10,!2:14 | + |
+judas-m | | Judas;Maccabeus;Judas Maccabeus | !1:10,!2:14 | + |
 antiochus-e | | Antiochus;Epiphanes | 2:20,4:7,4:21,4:37,5:1,5:5,5:17,5:21,7:24,9:1,9:2,9:19,9:29,10:9,10:13 | + |
 antiochus-u | | Antiochus;Eupator | 2:20,9:25,10:10,10:13,11:22,11:27,13:1,13:3,13:4,14:2,!2:20=Antiochus,!10:13=Antiochus | + |
 judaism | Judaism | Judaism | * | X | "Their honour for Judaism" (2 Maccabees 2:21, 14:38); not a person in People

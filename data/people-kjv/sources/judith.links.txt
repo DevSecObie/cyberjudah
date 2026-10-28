@@ -6,7 +6,8 @@ ozias-j & simeon | 6:15 | "of the tribe of Simeon"
 chabris < gothoniel | 6:15
 charmis < melchiel | 6:15
 judith-m < merari-j | 8:1,16:7
-merari-j ^ joseph-j | 8:1 | "Merari, the son of Ox, the son of Joseph"; Ox has no record because the word is also a common noun in the KJV
+merari-j < ox | 8:1
+ox < joseph-j | 8:1
 joseph-j < oziel | 8:1
 oziel < elcia | 8:1
 elcia < ananias-j | 8:1
@@ -21,3 +22,9 @@ samael < salasadai | 8:1
 salasadai ^ jacob | 8:1 | "the son of Salasadai, the son of Israel"
 judith-m & simeon | 9:2 | "O Lord God of my father Simeon"
 manasses-j = judith-m | 8:2,8:7,10:3,16:22,16:23,16:24 | "Manasses was her husband, of her tribe and kindred"
+# tribes the verse states
+micha-j & simeon | 6:15 | "Which were in those days Ozias the son of Micha, of the tribe of Simeon, and Chabris the son of Gothoniel, and Charmis the son of Melchiel."
+
+# tribes the verse states or the list a person stands in
+salasadai & simeon | 8:1,9:2 | The head of Judith's line (8:1); Judith prays to "the Lord God of my father Simeon" (9:2)
+manasses-j & simeon | 8:2,9:2 | Judith's husband, "of her tribe and kindred" (8:2); her tribe is Simeon (9:2)

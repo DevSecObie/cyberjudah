@@ -35,3 +35,11 @@ zacharias-b < barachias | 23:35 | "Zacharias son of Barachias"
 james-j << mary-j | 27:56 | "Mary the mother of James and Joses"
 joses-j << mary-j | 27:56 | "Mary the mother of James and Joses"
 joses-j ~ james-j | 27:56
+
+# husbands and wives the verses give: wife, concubine, or mother of his son
+salmon = rahab | 1:5 | "Salmon begat Booz of Rachab"
+
+# people the text describes but never names
+herodias-d << herodias | 14:6,14:8 | "The daughter of Herodias"
+peter-w = simon-p | 8:14 | "Peter's house ... his wife's mother"
+peter-w << peter-wm | 8:14 | "His wife's mother"

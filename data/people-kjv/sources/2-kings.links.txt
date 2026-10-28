@@ -80,3 +80,19 @@ ishmael-n < nethaniah | 25:23,25:25
 nethaniah < elishama-n | 25:25
 elijah @ tishbite | 1:3,1:8,9:36
 naboth @ jezreelitess | 9:21,9:25
+
+# tribes the verse states or the list a person stands in
+ishmael-n & judah | 25:25 | "Ishmael the son of Nethaniah, the son of Elishama, of the seed royal": the house of David
+
+# husbands and wives the verses give: wife, concubine, or mother of his son
+ahaz = abi | 16:20,18:1,18:2 | Mother of his son Hezekiah, who reigned in his stead (16:20, 18:1-2)
+amon-k = jedidah | 21:24,22:1 | Mother of his son Josiah, whom the people made king in his stead (21:24, 22:1)
+ahaziah-j = zibiah | 11:2,12:1 | Mother of his son Joash (11:2, 12:1)
+amaziah = jecholiah | 14:21,15:2 | Mother of his son Azariah, made king instead of his father (14:21, 15:1-2)
+azariah-k = jerusha | 15:7,15:33 | Mother of his son Jotham, who reigned in his stead (15:7, 15:32-33)
+josiah = hamutal | 23:30,23:31,24:17,24:18 | Mother of his sons Jehoahaz and Zedekiah (23:30-31, 24:17-18)
+josiah = zebudah | 23:34,23:36 | Mother of his son Jehoiakim (23:34, 23:36)
+hezekiah = hephzi-bah | 20:21,21:1 | Mother of his son Manasseh, who reigned in his stead (20:21, 21:1)
+joash-j = jehoaddan | 12:21,14:1,14:2 | Mother of his son Amaziah, who reigned in his stead (12:21, 14:1-2)
+jehoiakim = nehushta | 24:6,24:8 | Mother of his son Jehoiachin, who reigned in his stead (24:6, 24:8)
+manasseh-k = meshullemeth | 21:18,21:19 | Mother of his son Amon, who reigned in his stead (21:18-19)

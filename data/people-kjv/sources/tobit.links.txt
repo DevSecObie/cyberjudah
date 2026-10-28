@@ -21,3 +21,10 @@ tobias = sara-t | 7:13,10:10,11:17 | "gave her to be wife to Tobias"
 ananias-t jonathas-t < samaias-t | 5:13 | "Ananias and Jonathas, sons of that great Samaias"
 ananias-t ~ jonathas-t | 5:13 | "Ananias and Jonathas, sons of that great Samaias"
 sarchedonus == esarhaddon | 1:21 | In the same place: after Sennacherib's two sons killed him and fled, "Esarhaddon his son reigned in his stead" (2 Kings 19:37), "Sarchedonus his son reigned in his stead" (Tobit 1:21) | parallel
+# tribes the verse states
+asael-t & naphtali | 1:1 | "The book of the words of Tobit, son of Tobiel, the son of Ananiel, the son of Aduel, the son of Gabael, of the seed of Asael, of the tribe of ..."
+
+# tribes the verse states or the list a person stands in
+anael & naphtali | 1:1,1:21 | "My brother Anael" (1:21): brother of Tobit, "of the tribe of Nephthali" (1:1)
+anna-t & naphtali | 1:1,1:9 | "Anna of mine own kindred" (1:9): of Tobit's tribe of Nephthali (1:1)
+raguel-t & naphtali | 1:1,6:10,6:11,6:12,7:2 | Tobit's cousin (6:10, 7:2), whose daughter was Tobias's by "the law of Moses" as "of her kindred" (6:11-12)

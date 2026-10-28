@@ -42,3 +42,4 @@ linus | Linus | Linus | * | M | Who greeted Timothy (2 Timothy 4:21)
 claudia | Claudia | Claudia | * | F | Who greeted Timothy (2 Timothy 4:21)
 ephesians | | Ephesians | * | + |
 nero | Nero | Nero | * | M | Before whom Paul was brought "the second time" (2 Timothy 4:22, subscription)
+eubulus | Eubulus | Eubulus | 4:21 | M | Who greeted Timothy (2 Timothy 4:21)

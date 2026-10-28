@@ -19,3 +19,6 @@ alexander-s < simon-cy | 15:21 | "Simon a Cyrenian ... the father of Alexander a
 rufus < simon-cy | 15:21 | "Simon a Cyrenian ... the father of Alexander and Rufus"
 james-j << mary-j | 15:40,16:1 | "Mary the mother of James the less and of Joses"
 joses-j << mary-j | 15:40,15:47 | "Mary the mother of James the less and of Joses"; "Mary the mother of Joses"
+
+# husbands and wives the verses give: wife, concubine, or mother of his son
+zebedee = salome | 15:40 | Salome stands with the two Marys at the cross where Matthew 27:56 has "the mother of Zebedee's children" | parallel

@@ -16,3 +16,9 @@ amminadab < ram | 4:19
 naashon < amminadab | 4:20
 salmon < naashon | 4:20
 boaz < salmon | 4:21
+
+# tribes the verse states or the list a person stands in
+elimelech & judah | 4:3,4:18,4:21 | Boaz calls him "our brother Elimelech" (4:3), and Boaz is of Pharez the son of Judah (4:18-21)
+
+# husbands and wives the verses give: wife, concubine, or mother of his son
+chilion = orpah | 1:2,1:4,1:5,4:10 | Elimelech's two sons "took them wives of the women of Moab", Orpah and Ruth (1:4), and Ruth was "the wife of Mahlon" (4:10)

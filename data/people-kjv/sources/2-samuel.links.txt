@@ -116,3 +116,10 @@ naharai @ beerothites | 23:37
 ira-i gareb @ ithrite | 23:38
 araunah @ jebusite | 24:16,24:18
 ish-bosheth == ishui | 2:8 | Saul's son: "Ish-bosheth the son of Saul" (2 Samuel 2:8) is "Ishui" in the list of Saul's sons (1 Samuel 14:49); he alone of them outlived Gilboa (1 Samuel 31:2) | history | Jewish Encyclopedia (1901-1906) vol. 6 pp. 656-657, "Ish-bosheth": "as in I Sam. xiv. 49, by making some other substitution (\"Ishui\" ... for \"Ish-ba'al\")" <https://archive.org/details/cu31924091768238/page/n684/mode/1up>
+# tribes the verse states
+gera-s & benjamin | 19:16 | "And Shimei the son of Gera, a Benjamite, which was of Bahurim, hasted and came down with the men of Judah to meet king David."
+bichri & benjamin | 20:1 | "And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no ..."
+bani & gad | 23:36 | "Igal the son of Nathan of Zobah, Bani the Gadite,"
+
+# tribes the verse states or the list a person stands in
+shimeah & judah | 13:3 | "Shimeah David's brother"

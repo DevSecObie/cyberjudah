@@ -181,3 +181,5 @@ adinus == jamin-8 | 9:48 | In the same place in the list of the Levites who taug
 auteas == hodijah-8 | 9:48 | In the same place in the list of the Levites who taught the law: Hodijah (Nehemiah 8:7), Auteas (1 Esdras 9:48) | parallel
 ananias-48 == hanan-8 | 9:48 | In the same place in the list of the Levites who taught the law: Hanan (Nehemiah 8:7), Ananias (1 Esdras 9:48) | parallel
 biatas == pelaiah-8 | 9:48 | In the same place in the list of the Levites who taught the law: Pelaiah (Nehemiah 8:7), Biatas (1 Esdras 9:48) | parallel
+# tribes the verse states
+jozabad-lv judah-l10 kelaiah jonas-l patheus semis & levi | 9:23 | "And of the Levites; Jozabad, and Semis, and Colius, who was called Calitas, and Patheus, and Judas, and Jonas."

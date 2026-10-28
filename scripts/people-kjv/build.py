@@ -91,7 +91,11 @@ def read_names(book, VERSES, recs, errs):
         naming = [v for v in mine if named(v)]
         inc = [f'{book}/' + t.replace(':', '/') for t in toks if t != '*' and not t.startswith('!')]
         for v in inc:
-            if v not in naming: errs.append(f'{at} {key}: {v} does not name {forms}')
+            # A name the index cannot find (a word that is also a common word: On, So, Ox) is
+            # checked against the verse itself when its verses are listed by hand.
+            # A person the text describes but never names (Lot's wife) has no forms: the verses
+            # are listed by hand, and the description quotes the words that describe them.
+            if r['forms'] and v not in naming and not any(says(v, f) for f in forms): errs.append(f'{at} {key}: {v} does not name {forms}')
         verses = inc or naming
         if not verses: errs.append(f'{at} {key}: no verses')
         r['verses'] = sorted(set(r['verses']) | set(verses), key=vkey)
@@ -141,7 +145,7 @@ def build():
                          'kind': OTHER[r['type']], 'description': r['desc'], 'verses': r['verses']}
                         for k, r in others.items() if k in oids), key=lambda o: vkey(o['verses'][0]) + (o['id'],))
     out = {k: {'id': ids[k], 'name': r['name'], 'names': list(dict.fromkeys([r['name']] + r['forms'])), 'type': TYPES[r['type']],
-               'description': r['desc'], 'verses': r['verses'],
+               'description': r['desc'], 'verses': r['verses'], **({} if r['forms'] else {'described': True}),
                **{f: [] for f in ('father', 'mother', 'partners', 'siblings', 'children', 'line', 'tribe', 'nation', 'same')}}
            for k, r in people.items() if k in ids}
 
@@ -205,10 +209,101 @@ def build():
             if j in seen: errs.append(f'{k}: is their own forefather'); return
             up(j, seen | {j})
     for k in out: up(k, {k})
+    shared_parents(out, ids, byid, recs)
+    inherit_tribes(out, ids, byid, recs)
     keep = ('father', 'mother', 'partners', 'siblings', 'children')
     people_out = sorted(({f: v for f, v in p.items() if v != [] or f in keep} for p in out.values()),
                         key=lambda p: vkey(p['verses'][0]) + (p['id'],))
     return {'books': books, 'people': people_out, 'other': other_out, 'places': places_out}, errs
+
+
+RANK = ['scripture', 'parallel', 'history', 'variant']
+
+
+def shared_parents(out, ids, byid, recs):
+    """Children the text gives the same father or mother are brothers and sisters: each such
+    link carries both parent links' verses, the weaker evidence of the two, and the parent's
+    name in a note. Brothers and sisters the text names as such keep their own link."""
+    for k, p in out.items():
+        kids = [byid[e['id']] for e in p['children']]
+        for i, a in enumerate(kids):
+            for b in kids[i + 1:]:
+                if any(x['id'] == ids[b] for x in out[a]['siblings']): continue
+                ea = next(e for e in out[a]['father'] + out[a]['mother'] if e['id'] == ids[k])
+                eb = next(e for e in out[b]['father'] + out[b]['mother'] if e['id'] == ids[k])
+                ev = max(ea['evidence'], eb['evidence'], key=RANK.index)
+                verses = sorted(set(ea['verses']) | set(eb['verses']), key=vkey)
+                who = recs[k]['name']
+                src = []
+                for x in (ea.get('sources') or []) + (eb.get('sources') or []):
+                    if x not in src: src.append(x)
+                for x, y in ((a, b), (b, a)):
+                    link = {'id': ids[y], 'evidence': ev, 'verses': verses, 'note': f'Both children of {who}', 'inherited': True}
+                    if src: link['sources'] = src
+                    out[x]['siblings'].append(link)
+
+
+def inherit_tribes(out, ids, byid, recs):
+    """A person's tribe by the house of their fathers (Numbers 1:2): up through each father and
+    forefather the text names, to a son of Jacob (Joseph's sons Ephraim and Manasseh stand for
+    Joseph) or to a forefather the text puts in a tribe. The tribe carries every link of that
+    chain: its verses, the weakest evidence on it, its sources, and the names in a note. A
+    person whose fathers lead to two tribes gets none."""
+    jacob = [k for k, r in recs.items() if r['name'] == 'Jacob' and 'genesis/25/26' in r['verses']]
+    if not jacob: return
+    sons = [byid[e['id']] for e in out[jacob[0]]['children'] if recs[byid[e['id']]]['type'] == 'M']
+    heads = set(sons)
+    for k in sons:
+        if recs[k]['name'] == 'Joseph':
+            heads.discard(k)
+            heads |= {byid[e['id']] for e in out[k]['children'] if recs[byid[e['id']]]['type'] == 'M'}
+    memo = {}
+
+    def find(k, seen):
+        if k in memo: return memo[k]
+        found = []
+        if out[k]['tribe']:
+            e = out[k]['tribe'][0]
+            found = [(byid[e['id']], [e], [])]
+        else:
+            for e in out[k]['father'] + out[k]['line']:
+                j = byid[e['id']]
+                if j in seen: continue
+                if j in heads: found.append((j, [e], [j]))
+                else: found += [(h, [e] + chain, [j] + names) for h, chain, names in find(j, seen | {j})]
+        if len({h for h, _, _ in found}) > 1: found = []
+        memo[k] = found[:1]
+        return memo[k]
+
+    def give(p, h, chain, note):
+        ev = max((e['evidence'] for e in chain), key=RANK.index)
+        verses = sorted({v for e in chain for v in e['verses']}, key=vkey)
+        srcs = [s for e in chain for s in e.get('sources', [])]
+        e = {'id': ids[h], 'evidence': ev, 'verses': verses, 'note': note, 'inherited': True}
+        if srcs: e['sources'] = list({s['url']: s for s in srcs}.values())
+        p['tribe'].append(e)
+
+    while True:
+        memo.clear()
+        for k, p in out.items():
+            if p['tribe'] or k in heads or p['type'] not in ('Male', 'Female'): continue
+            got = find(k, {k})
+            if not got: continue
+            h, chain, names = got[0]
+            who = ', '.join(dict.fromkeys(recs[j]['name'] for j in names))
+            give(p, h, chain, f"By {'her' if p['type'] == 'Female' else 'his'} fathers: {who}")
+        # A father is of his sons' tribe: a man the text gives no tribe or fathers takes the
+        # tribe his sons have, when they all have the same one.
+        more = False
+        for k, p in out.items():
+            if p['tribe'] or k in heads or p['type'] != 'Male': continue
+            sons = [byid[e['id']] for e in p['children'] if recs[byid[e['id']]]['type'] == 'M' and out[byid[e['id']]]['tribe']]
+            if not sons or len({out[j]['tribe'][0]['id'] for j in sons}) > 1: continue
+            j = sons[0]
+            link = next(e for e in out[j]['father'] if e['id'] == ids[k])
+            give(p, byid[out[j]['tribe'][0]['id']], [link, out[j]['tribe'][0]], f"By his son {recs[j]['name']}")
+            more = True
+        if not more: break
 
 
 def dump(doc, field='people'):

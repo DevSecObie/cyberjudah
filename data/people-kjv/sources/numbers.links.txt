@@ -195,3 +195,9 @@ ahihud < shelomi | 34:27
 ahihud & asher | 34:27
 pedahel < ammihud-n | 34:28
 pedahel & naphtali | 34:28
+on < peleth | 16:1
+hanniel < ephod | 34:23
+on peleth & reuben | 16:1 | "sons of Reuben"
+
+# tribes the verse states or the list a person stands in
+hilkiah jehoiada-p seraiah-p pashur-h onias-3 onias-hp simon-hp joacim-hp aristobulus jonathan-n & levi | 3:10 | Priests of the Lord's house; the priest's office is Aaron's and his sons' (3:10)

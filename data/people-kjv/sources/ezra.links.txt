@@ -78,3 +78,5 @@ shelemiah-b1 nathan-bn adaiah-b2 ^ bani-c | 10:34,10:39
 machnadebai shashai sharai ^ bani-c | 10:34,10:40
 azareel-b shelemiah-b2 shemariah-bn ^ bani-c | 10:34,10:41
 shallum-bn amariah-b joseph-b ^ bani-c | 10:34,10:42
+# tribes the verse states
+shabbethai & levi | 10:15 | "Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them."
