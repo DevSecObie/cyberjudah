@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Daniel added (11 new people; 4 places: Dura, Jewry, Ulai, Grecia; no exact Wikidata pins).

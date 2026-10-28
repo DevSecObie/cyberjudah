@@ -1,0 +1,45 @@
+# Daniel. key | Name | forms | verses | type | description
+jehoiakim | | Jehoiakim | * | + |
+judah | | Judah | * | + |
+nebuchadnezzar | | Nebuchadnezzar | * | + |
+babylon | | Babylon | * | + |
+jerusalem | | Jerusalem | * | + |
+shinar | | Shinar | * | + |
+ashpenaz | Ashpenaz | Ashpenaz | * | M | The master of the king of Babylon's eunuchs, who gave Daniel and his fellows their names (Daniel 1:3-7)
+israel-people | | Israel | * | + |
+chaldees | | Chaldeans;Chaldean | * | + |
+daniel-p | | Daniel;Belteshazzar | * | + |
+hananiah-dn | Hananiah | Hananiah;Shadrach | * | M | Of the children of Judah, taken to Babylon with Daniel; the prince of the eunuchs gave him the name Shadrach; cast with Meshach and Abed-nego into the burning fiery furnace and delivered (Daniel 1:6-7, 2:17, 2:49, 3:12-30)
+mishael-dn | Mishael | Mishael;Meshach | * | M | Of the children of Judah, taken to Babylon with Daniel; the prince of the eunuchs gave him the name Meshach; cast with Shadrach and Abed-nego into the burning fiery furnace and delivered (Daniel 1:6-7, 2:17, 2:49, 3:12-30)
+azariah-dn | Azariah | Azariah;Abed-nego | * | M | Of the children of Judah, taken to Babylon with Daniel; the prince of the eunuchs gave him the name Abed-nego; cast with Shadrach and Meshach into the burning fiery furnace and delivered (Daniel 1:6-7, 2:17, 2:49, 3:12-30)
+melzar | Melzar | Melzar | * | M | Whom the prince of the eunuchs set over Daniel, Hananiah, Mishael and Azariah; he gave them pulse (Daniel 1:11-16)
+cyrus | | Cyrus | * | + |
+syriack | Syriack | Syriack | * | X | The tongue in which the Chaldeans spake to the king (Daniel 2:4); not a person in People
+arioch-d | Arioch | Arioch | * | M | The captain of the king's guard, sent to slay the wise men of Babylon; he brought Daniel in before the king (Daniel 2:14-25)
+dura | Dura | Dura | * | P | "The plain of Dura, in the province of Babylon", where Nebuchadnezzar set up the golden image (Daniel 3:1)
+jews | | Jews | * | + |
+belshazzar | Belshazzar | Belshazzar | * | M | King of Babylon, who made a great feast and drank wine in the vessels of the house of God; the hand wrote upon the wall, and "in that night was Belshazzar the king of the Chaldeans slain" (Daniel 5:1-30, 7:1, 8:1)
+jewry | Jewry | Jewry | * | P | Whence the king brought the children of the captivity of Judah (Daniel 5:13)
+medes | | Medes;Median;Mede | * | + |
+persians | | Persians;Persian | * | + |
+darius-m | Darius | Darius | * | M | "Darius the Median", the son of Ahasuerus, of the seed of the Medes, who took the kingdom; he cast Daniel into the den of lions, and decreed that men tremble before the God of Daniel (Daniel 5:31, 6:1-28, 9:1, 11:1)
+ahasuerus-d | Ahasuerus | Ahasuerus | * | M | Of the seed of the Medes, the father of Darius the Median (Daniel 9:1)
+shushan | | Shushan | * | + |
+elam-land | | Elam | * | + |
+ulai | Ulai | Ulai | * | P | The river by Shushan where Daniel saw the vision of the ram and the he goat (Daniel 8:2, 8:16)
+gabriel | Gabriel | Gabriel | * | U | "The man Gabriel", sent to make Daniel understand the vision (Daniel 8:16, 9:21)
+media | | Media | * | + |
+persia | | Persia | * | + |
+grecia | Grecia | Grecia | * | P | "The rough goat is the king of Grecia" (Daniel 8:21, 10:20, 11:2)
+jeremiah-p | | Jeremiah | * | + |
+moses | | Moses | * | + |
+egypt | | Egypt | * | + |
+hiddekel | | Hiddekel | * | + |
+uphaz | | Uphaz | * | + |
+michael-pr | Michael | Michael | * | U | "Michael, one of the chief princes", "the great prince which standeth for the children of thy people" (Daniel 10:13, 10:21, 12:1)
+chittim | | Chittim | * | + |
+edom-land | | Edom | * | + |
+moab-land | | Moab | * | + |
+ammon | | Ammon | * | + |
+libyans | | Libyans | * | + |
+ethiopian | | Ethiopians | * | + |
