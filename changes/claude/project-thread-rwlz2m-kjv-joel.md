@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Joel added (Joel, Pethuel, the Grecians; the valley of Jehoshaphat, 3:2, 3:12).
