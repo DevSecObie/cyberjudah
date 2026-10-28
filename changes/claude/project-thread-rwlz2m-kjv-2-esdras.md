@@ -1,0 +1,1 @@
+- People (KJV): add 2 Esdras (Esdras's line in 1:1-3, Uriel, Salathiel the captain, the five scribes), two creatures Enoch and Leviathan (6:49), and places the Sodomitish sea, Ardath and Arsareth.
