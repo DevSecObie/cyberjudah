@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Micah added (6 places from Micah 1: Aphrah, Beth-ezel, Saphir, Zaanan, Maroth, Moresheth-gath; Micah the Morasthite was already in from Jeremiah 26:18).

@@ -1,0 +1,46 @@
+# Micah. key | Name | forms | verses | type | description
+micah-mo | | Micah | * | + |
+morasthites | | Morasthite | * | + |
+jotham-k | | Jotham | * | + |
+ahaz | | Ahaz | * | + |
+hezekiah | | Hezekiah | * | + |
+judah | | Judah | * | + |
+samaria | | Samaria | * | + |
+jerusalem | | Jerusalem | * | + |
+jacob | | Jacob | * | + |
+israel-people | | Israel | * | + |
+gath | | Gath | * | + |
+aphrah | Aphrah | Aphrah | * | P | "In the house of Aphrah roll thyself in the dust" (Micah 1:10)
+saphir | Saphir | Saphir | * | P | "Pass ye away, thou inhabitant of Saphir" (Micah 1:11)
+zaanan | Zaanan | Zaanan | * | P | "The inhabitant of Zaanan came not forth" (Micah 1:11)
+beth-ezel | Beth-ezel | Beth-ezel | * | P | "In the mourning of Beth-ezel" (Micah 1:11)
+maroth | Maroth | Maroth | * | P | "The inhabitant of Maroth waited carefully for good" (Micah 1:12)
+lachish | | Lachish | * | + |
+zion | | Zion | * | + |
+moresheth-gath | Moresheth-gath | Moresheth-gath | * | P | "Therefore shalt thou give presents to Moresheth-gath" (Micah 1:14)
+achzib | | Achzib | * | + |
+mareshah | | Mareshah | * | + |
+adullam | | Adullam | * | + |
+bozrah | | Bozrah | * | + |
+babylon | | Babylon | * | + |
+beth-lehem | | Beth-lehem;Ephratah | * | + |
+assyrians | | Assyrian | * | + |
+assyria | | Assyria | * | + |
+nimrod | | Nimrod | * | + |
+gentiles | | Gentiles | * | + |
+egypt | | Egypt | * | + |
+moses | | Moses | * | + |
+aaron | | Aaron | * | + |
+miriam | | Miriam | * | + |
+balak | | Balak | * | + |
+moab-land | | Moab | * | + |
+balaam | | Balaam | * | + |
+beor-b | | Beor | * | + |
+shittim | | Shittim | * | + |
+gilgal | | Gilgal | * | + |
+omri | | Omri | * | + |
+ahab | | Ahab | * | + |
+carmel | | Carmel | * | + |
+bashan | | Bashan | * | + |
+gilead | | Gilead | * | + |
+abraham | | Abraham | * | + |
