@@ -1,0 +1,4 @@
+# 2 Timothy. child < father | verses | note | evidence | sources
+timothy << eunice | 1:5 | "Thy mother Eunice"
+timothy ^ lois | 1:5 | "Thy grandmother Lois"
+priscilla = aquila | 4:19 | "Salute Prisca and Aquila"

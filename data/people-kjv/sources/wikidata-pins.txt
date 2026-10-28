@@ -286,4 +286,5 @@ illyricum | Q753824 | 43.8044 | 17.3294 | Illyricum
 spain | Q186513 | 40.21 | -4.35 | Hispania
 laodicea | Q849709 | 37.8358 | 29.1075 | Laodicea on the Lycus
 hierapolis | Q7428276 | 37.925 | 29.1258 | Hierapolis
+dalmatia | Q1330965 | 43.8128 | 16.2188 | Dalmatia
 colosse | Q1001370 | 37.7906 | 29.2592 | Colossae
