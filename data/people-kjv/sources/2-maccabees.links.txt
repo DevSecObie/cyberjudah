@@ -1,0 +1,21 @@
+# 2 Maccabees. child < father | verses | note | evidence | sources
+seleucus-k ~ antiochus-e | 4:7 | "After the death of Seleucus, when Antiochus, called Epiphanes, took the kingdom" | history | Josephus, Antiquities of the Jews 12.4.11 (Whiston): "all the time that Seleucus was king of Syria. But when he was dead, his brother Antiochus, who was called Epiphanes, took the kingdom" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link122HCH0004>
+seleucus-k < antiochus-k | 3:3,4:7 | Seleucus the king, before Antiochus Epiphanes, was the son of Antiochus the Great, the father of Epiphanes (1 Maccabees 1:10) | history | Josephus, Antiquities of the Jews 12.4.10 (Whiston): "At this time Seleucus, who was called Soter, reigned over Asia, being the son of Antiochus the Great" <https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link122HCH0004>
+simon-b & benjamin | 3:4 | "One Simon of the tribe of Benjamin"
+apollonius-t < thraseas | 3:5 | "Apollonius the son of Thraseas"
+hircanus < tobias-h | 3:11 | "Hircanus son of Tobias"
+jason-hp ~ onias-3 | 4:7,4:26 | "Jason the brother of Onias"; "Jason, who had undermined his own brother"
+eupolemus < john-e | 4:11 | "John the father of Eupolemus"
+apollonius-m < menestheus | 4:21 | "Apollonius the son of Menestheus"
+menelaus ~ simon-b | 4:23 | "Menelaus, the aforesaid Simon's brother"
+lysimachus-m ~ menelaus | 4:29 | "Menelaus left his brother Lysimachus in his stead in the priesthood"
+aretas @ arabians | 5:8 | "Aretas the king of the Arabians"
+philip-p @ phrygians | 5:22 | "Philip, for his country a Phrygian"
+nicanor-p < patroclus | 8:9 | "Nicanor the son of Patroclus"
+simon-m ~ judas-m | 8:22,14:17 | "His own brethren, leaders of each band, to wit, Simon, and Joseph, and Jonathan"; "Simon, Judas' brother"
+joseph-mb ~ judas-m | 8:22 | "His own brethren, leaders of each band, to wit, Simon, and Joseph, and Jonathan"
+jonathan-ap ~ judas-m | 8:22 | "His own brethren, leaders of each band, to wit, Simon, and Joseph, and Jonathan"
+antiochus-u < antiochus-e | 2:20,9:25,10:10 | "Antiochus Epiphanes, and Eupator his son"; "I have appointed my son Antiochus king"; "Antiochus Eupator, who was the son of this wicked man"
+chereas ~ timotheus-g | 10:37 | "Timotheus ... and Chereas his brother"
+apollonius-g < genneus | 12:2 | "Apollonius the son of Genneus"
+demetrius-1 < seleucus | 14:1 | "Demetrius the son of Seleucus"
