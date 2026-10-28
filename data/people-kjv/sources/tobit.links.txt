@@ -1,0 +1,23 @@
+# Tobit. child < father | verses | note | evidence | sources
+tobit < tobiel | 1:1
+tobiel < ananiel | 1:1
+ananiel < aduel | 1:1
+aduel < gabael-a | 1:1
+gabael-a ^ asael-t | 1:1 | "of the seed of Asael"
+tobit & naphtali | 1:1 | "of the tribe of Nephthali"
+tobiel << debora-t | 1:8 | "Debora my father's mother"
+tobit = anna-t | 1:9,1:20,2:1 | "I married Anna of mine own kindred"
+tobias < tobit | 1:9,3:17,14:13
+tobias << anna-t | 1:9,14:12
+gabael < gabrias | 4:20 | "Gabael the son of Gabrias" (4:20); 1:14 calls him "the brother of Gabrias"
+sennacherib < enemessar | 1:15 | "Enemessar was dead, Sennacherib his son reigned in his stead"
+sarchedonus < sennacherib | 1:21 | "Sarchedonus his son reigned in his stead"
+achiacharus < anael | 1:21 | "Achiacharus my brother Anael's son"
+anael ~ tobit | 1:21 | "my brother Anael"
+sara-t < raguel-t | 3:7,3:17,6:10
+sara-t << edna | 7:8,10:12
+raguel-t = edna | 7:2,7:8 | "Raguel to Edna his wife"
+tobias = sara-t | 7:13,10:10,11:17 | "gave her to be wife to Tobias"
+ananias-t jonathas-t < samaias-t | 5:13 | "Ananias and Jonathas, sons of that great Samaias"
+ananias-t ~ jonathas-t | 5:13 | "Ananias and Jonathas, sons of that great Samaias"
+sarchedonus == esarhaddon | 1:21 | In the same place: after Sennacherib's two sons killed him and fled, "Esarhaddon his son reigned in his stead" (2 Kings 19:37), "Sarchedonus his son reigned in his stead" (Tobit 1:21) | parallel

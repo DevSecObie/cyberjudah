@@ -1,0 +1,1 @@
+- People (KJV): add Tobit (Tobit's household and line, Raguel, Edna, Sara, Raphael, Asmodeus, Achiacharus and others) and places Nephthali, Thisbe, Aser, Rages, Elymais and the Tigris.

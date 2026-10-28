@@ -1,0 +1,62 @@
+# Tobit. key | Name | forms | verses | type | description
+tobit | Tobit | Tobit | * | M | "Tobit, son of Tobiel", of the tribe of Nephthali, led captive to Nineve in the time of Enemessar; he did many almsdeeds and buried the dead, was blinded, and was healed by Raphael (Tobit 1:1-3, 2:10, 11:7-13)
+tobiel | Tobiel | Tobiel | * | M | The father of Tobit, the son of Ananiel (Tobit 1:1)
+ananiel | Ananiel | Ananiel | * | M | In the line of Tobit, the son of Aduel, father of Tobiel (Tobit 1:1)
+aduel | Aduel | Aduel | * | M | In the line of Tobit, the son of Gabael, father of Ananiel (Tobit 1:1)
+gabael-a | Gabael | Gabael | 1:1 | M | In the line of Tobit, father of Aduel, "of the seed of Asael" (Tobit 1:1)
+gabael | Gabael | Gabael | !1:1 | M | Of Rages in Media, with whom Tobit left ten talents of silver in trust; Tobias and Raphael fetched it (Tobit 1:14, 4:1, 4:20, 9:2-5)
+asael-t | Asael | Asael | * | M | Of whose seed was Tobit (Tobit 1:1)
+naphtali | | Nephthali;Nephthalim | 1:1,1:4,1:5,7:3 | + |
+nephthali-city | Nephthali | Nephthali | 1:2 | P | "That city, which is called properly Nephthali in Galilee above Aser" (Tobit 1:2)
+enemessar | Enemessar | Enemessar | * | M | King of the Assyrians, in whose time Tobit was led captive; Tobit was his purveyor; Sennacherib his son reigned in his stead (Tobit 1:2, 1:13-15)
+assyrians | | Assyrians | * | + |
+thisbe | Thisbe | Thisbe | * | P | Whence Tobit was led captive, "at the right hand of that city, which is called properly Nephthali" (Tobit 1:2)
+galilee | | Galilee | * | + |
+aser-place | Aser | Aser | * | P | "Nephthali in Galilee above Aser" (Tobit 1:2)
+nineveh | | Nineve | * | + |
+israel-people | | Israel | * | + |
+jerusalem | | Jerusalem | * | + |
+baal | | Baal | * | + |
+aaron | | Aaron | * | + |
+debora-t | Debora | Debora | * | F | Tobit's "father's mother", who commanded him to give the third tenth (Tobit 1:8)
+anna-t | Anna | Anna | * | F | Tobit's wife, "of mine own kindred", mother of Tobias (Tobit 1:9, 2:1, 2:11, 14:12)
+tobias | Tobias | Tobias | * | M | The son of Tobit and Anna, who went with Raphael to Rages and took Sara the daughter of Raguel to wife (Tobit 1:9, 5:1-17, 7:13, 14:12-14)
+gentiles | | Gentiles | * | + |
+media | | Media | * | + |
+gabrias | Gabrias | Gabrias | * | M | Named with Gabael, with whom Tobit left ten talents at Rages (Tobit 1:14, 4:20)
+rages | Rages | Rages | * | P | "Rages a city of Media" (Tobit 1:14, 4:1, 4:20, 5:5, 6:9, 6:12, 9:2)
+sennacherib | | Sennacherib | * | + |
+judea | | Judea | * | + |
+ninevites | | Ninevites | * | + |
+ararat | | Ararath | * | + |
+sarchedonus | Sarchedonus | Sarchedonus | * | M | The son of Sennacherib, who reigned in his stead after two of his sons killed him; he set Achiacharus over his father's accounts (Tobit 1:21-22)
+achiacharus | Achiacharus | Achiacharus | * | M | "Achiacharus my brother Anael's son", cupbearer and keeper of the signet to Sarchedonus, who nourished Tobit; Aman handled him evil, yet he was saved (Tobit 1:21-22, 2:10, 11:18, 14:10)
+anael | Anael | Anael | * | M | Tobit's brother, father of Achiacharus (Tobit 1:21)
+pentecost | | Pentecost | * | + |
+amos | | Amos | * | + |
+elymais | Elymais | Elymais | * | P | Whither Tobit went, after Achiacharus had nourished him (Tobit 2:10)
+ecbatana | | Ecbatane | * | + |
+sara-t | Sara | Sara | * | F | The only daughter of Raguel and Edna, whose seven husbands Asmodeus had killed; given to Tobias to wife (Tobit 3:7-15, 6:10-12, 7:11-13)
+raguel-t | Raguel | Raguel | * | M | Of Ecbatane in Media, Tobit's cousin, father of Sara, who gave her to Tobias (Tobit 3:7, 6:10, 7:1-16)
+asmodeus | Asmodeus | Asmodeus | * | U | "Asmodeus the evil spirit", who killed Sara's seven husbands; he fled into the utmost parts of Egypt, and the angel bound him (Tobit 3:8, 3:17, 8:3)
+raphael | Raphael | Raphael;Azarias | * | U | The angel sent to heal Tobit and to give Sara to Tobias; he called himself "Azarias, the son of Ananias the great", and at the end said, "I am Raphael, one of the seven holy angels" (Tobit 3:17, 5:4-13, 12:15)
+noah | | Noe | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+jacob | | Jacob | * | + |
+ananias-t | Ananias | Ananias | * | M | "Ananias the great", the son of "that great Samaias", whom Tobit knew (Tobit 5:12-13)
+jonathas-t | Jonathas | Jonathas | * | M | The son of "that great Samaias", whom Tobit knew (Tobit 5:13)
+samaias-t | Samaias | Samaias | * | M | "That great Samaias", father of Ananias and Jonathas (Tobit 5:13)
+tigris | Tigris | Tigris | * | P | "The river Tigris", where Tobias and the angel lodged and caught the fish (Tobit 6:1)
+moses | | Moses | * | + |
+edna | Edna | Edna | * | F | The wife of Raguel, mother of Sara (Tobit 7:2, 7:8, 10:12)
+egypt | | Egypt | * | + |
+adam | | Adam | * | + |
+eve | | Eve | * | + |
+nasbas | Nasbas | Nasbas | * | M | Who came with Achiacharus to Tobias' wedding, "his brother's son" (Tobit 11:18)
+ophir-place | | Ophir | * | + |
+jonah | | Jonas | * | + |
+aman-t | Aman | Aman | * | M | Who "handled Achiacharus that brought him up", but "fell into the snare, and perished" (Tobit 14:10)
+manasses-t | Manasses | Manasses | * | M | Who "gave alms, and escaped the snares of death which they had set for him" (Tobit 14:10)
+nebuchadnezzar | | Nabuchodonosor | * | + |
+assuerus-t | Assuerus | Assuerus | * | M | Who with Nabuchodonosor took Nineve (Tobit 14:15)
