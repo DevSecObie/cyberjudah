@@ -1,0 +1,15 @@
+# Nahum. key | Name | forms | verses | type | description
+nineveh | | Nineveh | * | + |
+nahum | Nahum | Nahum | * | M | "Nahum the Elkoshite", whose vision is the burden of Nineveh (Nahum 1:1)
+elkoshites | Elkoshites | Elkoshite | * | G | "Nahum the Elkoshite" (Nahum 1:1)
+bashan | | Bashan | * | + |
+carmel | | Carmel | * | + |
+lebanon | | Lebanon | * | + |
+judah | | Judah | * | + |
+jacob | | Jacob | * | + |
+israel-people | | Israel | * | + |
+huzzab | Huzzab | Huzzab | * | F | "Huzzab shall be led away captive, she shall be brought up" (Nahum 2:7)
+ethiopia | | Ethiopia | * | + |
+egypt | | Egypt | * | + |
+lubims | | Lubim | * | + |
+assyria | | Assyria | * | + |

@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Nahum added (Nahum the Elkoshite, the Elkoshites, Huzzab of 2:7).
