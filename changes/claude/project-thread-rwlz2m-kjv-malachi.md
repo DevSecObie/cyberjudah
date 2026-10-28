@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Malachi added (1 new person, Malachi; verses added to existing people and places such as Jacob, Esau, Edom, Moses, Horeb and Elijah). Completes the Old Testament.

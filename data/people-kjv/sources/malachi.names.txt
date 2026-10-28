@@ -1,0 +1,13 @@
+# Malachi. key | Name | forms | verses | type | description
+israel-people | | Israel | * | + |
+malachi | Malachi | Malachi | * | M | By whom the burden of the word of the Lord came to Israel (Malachi 1:1)
+esau | | Esau | * | + |
+jacob | | Jacob | * | + |
+edom-land | | Edom | * | + |
+gentiles | | Gentiles | * | + |
+levi | | Levi | * | + |
+judah | | Judah | * | + |
+jerusalem | | Jerusalem | * | + |
+moses | | Moses | * | + |
+horeb | | Horeb | * | + |
+elijah | | Elijah | * | + |
