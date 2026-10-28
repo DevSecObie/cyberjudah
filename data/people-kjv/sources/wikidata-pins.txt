@@ -1,0 +1,193 @@
+# Map pins for Places: key | Wikidata item | latitude | longitude | Wikidata label
+# Only places whose Wikidata item is that exact place get a pin; the rest have none. Coordinates are copied from the item.
+havilah-land | Q1591658 | 23.5036 | 40.8597 | Havilah
+ethiopia | Q241790 | 17.18 | 33.83 | Kingdom of Kush
+assyria | Q41137 | 36.0 | 43.3 | Assyrian Empire
+euphrates | Q34589 | 39.7283 | 40.2569 | Euphrates
+erech | Q168518 | 31.3259 | 45.6374 | Uruk
+calah | Q237614 | 36.0981 | 43.3289 | Nimrud
+nineveh | Q5680 | 36.3667 | 43.15 | Nineveh
+gaza | Q47492 | 31.5075 | 34.4597 | Gaza City
+sidon-place | Q163490 | 33.5606 | 35.3758 | Sidon
+sodom | Q3297078 | 31.2 | 35.5 | Sodom
+ur | Q5699 | 30.9622 | 46.1044 | Ur
+canaan-land | Q163329 | 32.7667 | 35.3333 | Canaan
+haran-place | Q3660711 | 36.85 | 39.2167 | Carrhae
+shechem-place | Q7951237 | 32.2136 | 35.2819 | Shechem
+beth-el | Q3876767 | 31.9228 | 35.2414 | Bethel
+egypt | Q11768 | 29.8 | 31.3 | Ancient Egypt
+jordan | Q40059 | 31.7614 | 35.5583 | Jordan River
+zoar | Q218016 | 31.0469 | 35.5025 | Zoara
+hebron | Q168225 | 31.535 | 35.0986 | Hebron
+mamre-place | Q2143048 | 31.5565 | 35.1053 | Mamre
+elam-land | Q128904 | 29.9 | 52.4 | Elam
+seir-land | Q15944872 | 30.1843 | 35.3166 | Mount Seir
+kadesh | Q954599 | 30.6483 | 34.4222 | Kadesh
+dan-place | Q1346856 | 33.249 | 35.652 | Dan
+damascus | Q3766 | 33.5131 | 36.2919 | Damascus
+beer-lahai-roi | Q12404354 | 30.8253 | 34.7633 | Beer Lahai Roi
+beer-sheba | Q41843 | 31.2522 | 34.7867 | Beersheba
+moriah | Q20978866 | 31.778 | 35.2358 | Moriah
+mesopotamia | Q11767 | 33.7 | 43.5 | Mesopotamia
+gilead | Q922498 | 32.55 | 35.85 | Gilead
+edom-land | Q208475 | 30.3286 | 35.4419 | Edom
+jabbok | Q798460 | 32.1153 | 35.5431 | Zarqa River
+peniel | Q733822 | 32.1833 | 35.7 | Penuel
+beth-lehem | Q5776 | 31.7044 | 35.2061 | Bethlehem
+bozrah | Q4952895 | 30.7458 | 35.6039 | Bozrah
+moab-land | Q326304 | 31.5017 | 35.7767 | Moab
+dothan | Q2916407 | 32.4135 | 35.2399 | Dothan
+goshen | Q1261081 | 30.8722 | 31.4775 | Land of Goshen
+pithom | Q1630019 | 30.5519 | 32.0986 | Pithom
+midian-land | Q851761 | 28.5 | 35.0 | Midian
+horeb | Q377485 | 28.5384 | 33.9752 | Mount Sinai
+etham | Q5402858 | 30.0333 | 32.55 | Etham
+pi-hahiroth | Q2776756 | 29.85 | 32.4667 | Pi-hahiroth
+marah | Q2554928 | 29.3333 | 32.9167 | Marah
+elim | Q629659 | 29.3 | 32.9667 | Elim
+sinai | Q377485 | 28.5384 | 33.9752 | Mount Sinai
+rephidim | Q587141 | 28.7167 | 33.65 | Rephidim
+kibroth-hattaavah | Q6404073 | 28.9167 | 34.4833 | Kibroth Hattaavah
+hazeroth | Q3381072 | 28.9167 | 34.4833 | Hazeroth
+hamath | Q173545 | 35.135 | 36.75 | Hama
+zin | Q204199 | 30.971 | 35.325 | Zin Desert
+hor | Q2915115 | 30.3168 | 35.4065 | Mount Hor
+zared | Q2451612 | 31.0342 | 35.475 | Wadi Zered
+arnon | Q697112 | 31.4671 | 35.5634 | Arnon
+pisgah | Q2601894 | 31.7651 | 35.7191 | Mount Pisgah
+heshbon | Q1615584 | 31.8186 | 35.7989 | Heshbon
+dibon | Q1019166 | 31.5 | 35.7833 | Dhiban
+bashan | Q612952 | 33.0178 | 35.8358 | Bashan
+jericho | Q5687 | 31.8561 | 35.4631 | Jericho
+abarim | Q337141 | 31.7539 | 35.7152 | Abarim
+ataroth | Q100233378 | 31.5744 | 35.6648 | Khirbat Ataruz
+beth-nimrah | Q4897428 | 31.9091 | 35.6387 | Beth Nimrah
+dophkah | Q5297313 | 28.9833 | 33.35 | Dophkah
+alush | Q23931404 | 28.7667 | 33.4 | Alush
+rithmah | Q7336733 | 29.3333 | 34.4833 | Rithmah
+rissah | Q7336346 | 29.9833 | 34.6667 | Rissah
+kehelathah | Q6383474 | 29.95 | 34.5667 | Kehelathah
+jotbathah | Q15229779 | 29.8956 | 35.06 | Jotbathah
+punon | Q2907858 | 30.6278 | 35.4933 | Punon
+akrabbim | Q7371401 | 30.9067 | 35.1317 | Ma'ale Akrabbim
+riblah | Q7322376 | 34.4333 | 36.55 | Riblah
+lebanon | Q333711 | 34.3008 | 36.1158 | Mount Lebanon
+aroer-a | Q4795478 | 31.4672 | 35.5633 | Aroer
+hermon | Q215471 | 33.4 | 35.85 | Mount Hermon
+golan | Q2400848 | 32.9479 | 35.6612 | Golan
+ebal-mount | Q1975866 | 32.234 | 35.2733 | Mount Ebal
+gerizim | Q1288751 | 32.1994 | 35.2728 | Mount Gerizim
+nebo-m | Q680161 | 31.7678 | 35.7256 | Mount Nebo
+zaretan | Q147911 | 32.0958 | 35.4614 | Zaretan
+gilgal | Q2289734 | 32.033 | 35.4757 | Gilgal
+ai | Q403166 | 31.9169 | 35.2611 | Ai
+achor | Q4673880 | 31.8369 | 35.3998 | Achor
+gibeon | Q889398 | 31.8475 | 35.1864 | Gibeon
+beeroth-g | Q4880075 | 31.8322 | 35.1519 | Beeroth
+kirjath-jearim | Q3303084 | 31.809 | 35.1038 | Kiriath-Jearim
+jerusalem | Q1218 | 31.7767 | 35.2342 | Jerusalem
+jarmuth | Q11926317 | 31.7083 | 34.975 | Jarmuth
+lachish | Q848509 | 31.5653 | 34.8492 | Lachish
+azekah | Q723564 | 31.7003 | 34.9358 | Azekah
+beth-horon | Q1268514 | 31.8767 | 35.1287 | Beth Horon
+ajalon | Q658898 | 31.8675 | 34.9594 | Ayalon Valley
+gezer | Q1466687 | 31.8592 | 34.9192 | Gezer
+achshaph | Q4157407 | 32.9518 | 35.1738 | Achshaph
+hazor | Q740138 | 33.0183 | 35.5692 | Tel Hazor
+shimron-city | Q2916430 | 32.7039 | 35.2133 | Shimron
+dor | Q1243563 | 32.6174 | 34.9164 | Dora
+misrephoth-maim | Q7059481 | 33.088 | 35.1059 | Misrephoth Maim
+anab | Q4750540 | 31.4038 | 34.9443 | Anab
+ashdod | Q122059851 | 31.7536 | 34.6617 | Ashdod
+gath | Q1348441 | 31.6997 | 34.8469 | Gath
+arad-city | Q2063578 | 31.2808 | 35.125 | Tel Arad
+adullam | Q2914860 | 31.6547 | 35.0031 | Adullam
+megiddo | Q208379 | 32.5853 | 35.1844 | Tel Megiddo
+taanach | Q2920206 | 32.5215 | 35.2191 | Taanach
+carmel | Q185318 | 32.6725 | 35.0233 | Mount Carmel
+jokneam | Q4026101 | 32.6641 | 35.1083 | Tel Yokneam
+tirzah-city | Q2002121 | 32.2874 | 35.3378 | Tirzah
+ekron | Q1323557 | 31.7789 | 34.8511 | Ekron
+rabbah | Q3805 | 31.95 | 35.9333 | Amman
+karkaa | Q6371253 | 30.9583 | 34.3803 | Karkaa
+en-rogel | Q2919936 | 31.7672 | 35.236 | En-rogel
+timnah | Q2916736 | 31.7864 | 34.9108 | Timnah
+kabzeel | Q6344566 | 31.1858 | 34.9675 | Kabzeel
+kerioth | Q2903488 | 31.345 | 35.1244 | Kerioth
+ziklag | Q6127412 | 31.39 | 34.68 | Ziklag
+rimmon | Q7036743 | 31.3736 | 34.8663 | Rimmon
+jattir | Q11978271 | 31.353 | 35.0145 | Jattir
+carmel-j | Q2904870 | 31.4225 | 35.1311 | Carmel
+juttah | Q2282208 | 31.4478 | 35.09 | Yatta
+ziph | Q8072636 | 31.4748 | 35.1351 | Ziph
+beth-zur | Q4897432 | 31.5833 | 35.1 | Beth-zur
+halhul | Q2574933 | 31.5789 | 35.0992 | Halhul
+en-gedi | Q25489001 | 31.4681 | 35.3883 | Ein Gedi
+beth-shean | Q152368 | 32.4961 | 35.4989 | Beit She'an
+endor | Q431722 | 32.6562 | 35.4671 | Endor
+ibleam | Q7049086 | 32.4521 | 35.2878 | Ibleam
+jezreel | Q2914898 | 32.5579 | 35.328 | Tel Jezreel
+mizpah-b | Q1755389 | 31.8851 | 35.2164 | Mizpah in Benjamin
+sharuhen | Q1548392 | 31.2825 | 34.4826 | Sharuhen
+shunem | Q2916070 | 32.6056 | 35.3343 | Shunem
+tabor | Q193785 | 32.6863 | 35.3929 | Mount Tabor
+cabul | Q5015855 | 32.8697 | 35.2022 | Cabul
+tyre | Q82070 | 33.2667 | 35.2 | Tyre
+hukkok | Q18608506 | 32.8847 | 35.4789 | Huqoq
+kedesh | Q2585161 | 33.1116 | 35.5295 | Kedesh
+zorah | Q2916162 | 31.7751 | 34.9853 | Zorah
+gibbethon | Q11298139 | 31.8545 | 34.8659 | Gibbethon
+bene-berak | Q4887206 | 32.0367 | 34.8277 | Beneberak
+japho | Q11713655 | 32.054 | 34.752 | Joppa
+leshem | Q1346856 | 33.249 | 35.652 | Dan
+galilee | Q83241 | 33.0 | 35.3 | Galilee
+eshtemoa | Q64363172 | 31.4004 | 35.0673 | Eshtemoa
+anathoth | Q2662138 | 31.8141 | 35.2647 | Anathoth
+tanach | Q2920206 | 32.5215 | 35.2191 | Taanach
+ashkelon | Q104664899 | 31.6619 | 34.5461 | Ascalon
+ahlab | Q6595658 | 33.3178 | 35.2439 | Ahlab
+timnath-heres | Q2157993 | 32.1195 | 35.1569 | Timnath-heres
+kedesh-naphtali | Q16341764 | 32.7348 | 35.5558 | Kedesh Naphtali
+kishon-river | Q1743701 | 32.8144 | 35.0261 | Kishon River
+karkor | Q6371349 | 31.3602 | 37.574 | Karkor
+thebez | Q135454680 | 32.3271 | 35.4366 | Thebez
+syria | Q13415123 | 34.0 | 36.0 | Syria
+laish | Q1346856 | 33.249 | 35.652 | Dan
+mizpeh-a | Q1755389 | 31.8851 | 35.2164 | Mizpah in Benjamin
+jabesh-gilead | Q2905361 | 32.399 | 35.5951 | Jabesh-Gilead
+michmash | Q3809153 | 31.8719 | 35.2761 | Michmash
+gilboa | Q1161616 | 32.4339 | 35.4144 | Mount Gilboa
+en-dor | Q431722 | 32.6562 | 35.4671 | Endor
+beth-shan | Q152368 | 32.4961 | 35.4989 | Beit She'an
+zion | Q205318 | 31.7667 | 35.2333 | Zion
+rephaim | Q446380 | 31.7632 | 35.2191 | Valley of Rephaim
+kidron | Q860532 | 31.777 | 35.239 | Kidron Valley
+olivet | Q205976 | 31.7779 | 35.2457 | Mount of Olives
+abel-city | Q2911724 | 33.2581 | 35.581 | Abel-beth-maachah
+gihon-j | Q204601 | 31.7729 | 35.2364 | Gihon Spring
+ramoth-gilead | Q2006096 | 32.5 | 36.0167 | Ramoth-Gilead
+tadmor | Q5747 | 34.5504 | 38.2698 | Palmyra
+ezion-geber | Q1386052 | 29.5472 | 34.9803 | Ezion-Geber
+sheba-land | Q216068 | 15.45 | 45.3333 | Sheba
+arabia | Q31945 | 23.0 | 46.0 | Arabian Peninsula
+samaria | Q1757438 | 32.2761 | 35.195 | Samaria
+abel-beth-maachah | Q2911724 | 33.2581 | 35.581 | Abel-beth-maachah
+zarephath | Q616837 | 33.4575 | 35.2958 | Sarepta
+abana | Q765106 | 33.6754 | 36.0553 | Barada
+pharpar | Q2053939 | 33.3831 | 35.9571 | Pharpar
+gath-hepher | Q5527338 | 32.7417 | 35.325 | Gath-hepher
+babylon | Q5684 | 32.5425 | 44.4211 | Babylon
+arpad | Q698634 | 36.4726 | 37.0948 | Arpad
+naaran | Q20083909 | 31.8935 | 35.4248 | Naaran
+lod | Q207540 | 31.95 | 34.9 | Lod
+sharon | Q218907 | 32.2833 | 34.9167 | Sharon Plain
+joppa | Q11713655 | 32.054 | 34.752 | Joppa
+jeshanah | Q22948654 | 31.9667 | 35.2167 | Jeshanah
+ophel | Q2630170 | 31.7753 | 35.2362 | Ophel
+carchemish | Q283680 | 36.8297 | 38.015 | Carchemish
+persia | Q389688 | 32.5364 | 44.4208 | Achaemenid Empire
+hadid | Q12412089 | 31.9639 | 34.9512 | Tel Hadid
+judea | Q104028 | 31.6989 | 35.3064 | Judea
+shushan | Q180773 | 32.1894 | 48.2561 | Susa
+media | Q3853673 | 37.0 | 47.0 | Media
+sion-z | Q205318 | 31.7667 | 35.2333 | Zion
