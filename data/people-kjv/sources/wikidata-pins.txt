@@ -191,3 +191,6 @@ judea | Q104028 | 31.6989 | 35.3064 | Judea
 shushan | Q180773 | 32.1894 | 48.2561 | Susa
 media | Q3853673 | 37.0 | 47.0 | Media
 sion-z | Q205318 | 31.7667 | 35.2333 | Zion
+tahpanhes | Q1810451 | 30.8606 | 32.1714 | Tahpanhes
+dedan-land | Q1021610 | 26.6167 | 37.9167 | Dedan
+gareb-hill | Q5522744 | 31.7775 | 35.2349 | Gareb

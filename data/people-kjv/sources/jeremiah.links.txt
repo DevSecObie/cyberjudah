@@ -1,0 +1,57 @@
+# Jeremiah. kids op target | verses | note | evidence | sources
+jeremiah-p < hilkiah-a | 1:1
+josiah < amon-k | 1:2,25:3
+jehoiakim zedekiah-k < josiah | 1:3,22:18,27:1,37:1
+shallum-j < josiah | 22:11
+shallum-j == jehoahaz-j | 22:11 | "Shallum the son of Josiah king of Judah, which reigned instead of Josiah his father" (Jeremiah 22:11); "Jehoahaz the son of Josiah ... made him king in his father's stead" (2 Kings 23:30) | scripture
+jeconiah < jehoiakim | 22:24,24:1,27:20,28:4,37:1
+jeconiah == jehoiachin | 24:1 | "Jeconiah the son of Jehoiakim king of Judah", whom Nebuchadrezzar carried away captive with the princes, the carpenters and smiths (Jeremiah 24:1, 27:20, 29:2); "Jehoiachin" the son of Jehoiakim, whom Nebuchadnezzar carried away with the craftsmen and smiths (2 Kings 24:6, 24:12-16) | scripture
+zedekiah-m < maaseiah-zd | 29:21
+zedekiah-h < hananiah-zh | 36:12
+manasseh-k < hezekiah | 15:4
+pashur-i < immer-j | 20:1
+pashur-m < malchijah-p | 21:1,38:1
+gedaliah-p < pashur-g | 38:1
+malchiah-hm jerahmeel-h < hammelech | 36:26,38:6
+zephaniah-m < maaseiah-zp | 21:1,29:25,37:3
+urijah-k < shemaiah-kj | 26:20
+elnathan-a < achbor-j | 26:22,36:12
+ahikam < shaphan-a | 26:24,39:14,40:5,40:9,40:11,41:2,43:6
+gedaliah < ahikam | 39:14,40:5,40:6,40:7,40:9,40:11,40:14,40:16,41:1,41:2,41:6,41:10,41:16,41:18,43:6
+hananiah-az < azur-g | 28:1
+elasah-s < shaphan-e | 29:3
+gemariah-h < hilkiah-g | 29:3
+gemariah-s < shaphan | 36:10,36:11,36:12
+michaiah-g < gemariah-s | 36:11
+ahab-k < kolaiah-a | 29:21
+hanameel < shallum-u | 32:7
+baruch-n seraiah-n < neriah | 32:12,36:4,36:8,36:14,36:32,43:3,43:6,45:1,51:59
+neriah < maaseiah-n | 32:12,51:59
+jaazaniah-r < jeremiah-r | 35:3
+jeremiah-r < habaziniah | 35:3
+jaazaniah-r @ rechabites | 35:3
+rechabites ^ jehonadab | 35:6,35:8,35:14,35:16,35:18,35:19 | "Jonadab the son of Rechab our father" (35:6)
+hanan-i < igdaliah | 35:4
+maaseiah-s < shallum-d | 35:4
+delaiah-s < shemaiah-d | 36:12
+jehudi < nethaniah-j | 36:14
+nethaniah-j < shelemiah-c | 36:14
+shelemiah-c < cushi-j | 36:14
+shelemiah-ab < abdeel | 36:26
+seraiah-az < azriel-s | 36:26
+jehucal < shelemiah-j | 37:3,38:1
+irijah < shelemiah-i | 37:13
+shelemiah-i < hananiah-i | 37:13
+shephatiah-mt < mattan-s | 38:1
+ebed-melech @ ethiopian | 38:7,38:10,38:12,39:16
+ishmael-n < nethaniah | 40:8,40:14,40:15,41:1,41:2,41:6,41:7,41:9,41:10,41:11,41:12,41:15,41:16,41:18
+nethaniah < elishama-n | 41:1
+johanan jonathan-k < careah | 40:8,40:13,40:15,40:16,41:11,41:13,41:14,41:16,42:1,42:8,43:2,43:4,43:5
+seraiah-t < tanhumeth | 40:8
+ephai @ netophathite | 40:8
+jaazaniah @ maachathite | 40:8
+baalis @ ammon | 40:14
+jezaniah-h azariah-ho < hoshaiah-j | 42:1,43:2
+pharaoh-jz == pharaoh-hophra | 37:5 | Pharaoh's army came forth out of Egypt to help Zedekiah, and the Chaldeans departed from Jerusalem (37:5-11); Pharaoh-hophra is named king of Egypt in the same days (44:30) | history | Jewish Encyclopedia (1901-1906) vol. 6 p. 466, "Hophra": "When Jerusalem was besieged by Nebuchadnezzar, Hophra marched to the assistance of the Jews, and the siege was interrupted for a short time (Jer. xxxvii. 5, 7, 11)" <https://archive.org/details/cu31924091768238/page/n493/mode/1up>
+zedekiah-k << hamutal | 52:1
+hamutal < jeremiah-l | 52:1
