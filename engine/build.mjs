@@ -65,7 +65,9 @@ for (const n of [...classNotes, ...captainNotes]) if (!n.collection) n.collectio
 // takes every name and family link from the KJV text, each link with the verses that state it.
 const BIBLE_DIR = path.join(ROOT, "data", "bible");
 const KJV_SOURCE = { name: "The King James Bible with Apocrypha", license: "Public domain", url: "https://cyberjudah.io/bible" };
-const peopleDoc = { people: loadKjvPeople(path.join(ROOT, "data", "people-kjv")) };
+const peopleFile = path.join(ROOT, "data", "people-kjv", "people.json");
+if (!fs.existsSync(peopleFile)) throw new Error("data/people-kjv/people.json is missing; run scripts/people-kjv/build.py");
+const peopleDoc = { people: loadKjvPeople(path.dirname(peopleFile)) };
 const peopleProblems = validateKjvPeople(peopleDoc.people, { bibleDir: BIBLE_DIR });
 if (peopleProblems.length) throw new Error(peopleProblems.join("\n"));
 const personById = new Map(peopleDoc.people.map((p) => [p.id, p]));
@@ -80,7 +82,8 @@ const bySlugName = Object.fromEntries(Object.entries(bookSlug).map(([b, sl]) => 
 // Where each verse is set, and a page per place: its names, every verse, and a map pin where
 // Wikidata has the exact place (data/places-kjv, scripts/people-kjv/build.py).
 const placesFile = path.join(ROOT, "data", "places-kjv", "places.json");
-const placesDoc = fs.existsSync(placesFile) ? JSON.parse(fs.readFileSync(placesFile, "utf8")) : { places: [] };
+if (!fs.existsSync(placesFile)) throw new Error("data/places-kjv/places.json is missing; run scripts/people-kjv/build.py");
+const placesDoc = JSON.parse(fs.readFileSync(placesFile, "utf8"));
 const placesProblems = validateKjvPlaces(placesDoc.places, { bibleDir: BIBLE_DIR });
 if (placesProblems.length) throw new Error(placesProblems.join("\n"));
 const placedIn = new Map(); // "slug|ch" -> { verse: [id] }
