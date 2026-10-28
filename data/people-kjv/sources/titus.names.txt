@@ -1,0 +1,13 @@
+# Titus. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+titus | | Titus | * | + |
+crete | | Crete | * | + |
+cretians | Cretians | Cretians | * | G | "The Cretians are alway liars, evil beasts, slow bellies", said "a prophet of their own" (Titus 1:12)
+jews | | Jewish | * | + |
+artemas | Artemas | Artemas | * | M | "When I shall send Artemas unto thee, or Tychicus" (Titus 3:12)
+tychicus | | Tychicus | * | + |
+nicopolis | Nicopolis | Nicopolis | * | P | "Be diligent to come unto me to Nicopolis: for I have determined there to winter"; the KJV subscription calls it "Nicopolis of Macedonia" (Titus 3:12, 3:15)
+zenas | Zenas | Zenas | * | M | "Zenas the lawyer" (Titus 3:13)
+apollos | | Apollos | * | + |
+macedonia | | Macedonia | * | + |
