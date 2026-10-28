@@ -1,0 +1,4 @@
+# Ecclesiastes. key | Name | forms | verses | type | description
+david | | David | * | + |
+jerusalem | | Jerusalem | * | + |
+israel-people | | Israel | * | + |

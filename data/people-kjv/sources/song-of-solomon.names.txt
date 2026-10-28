@@ -1,0 +1,24 @@
+# Song of Solomon. key | Name | forms | verses | type | description
+solomon | | Solomon | * | + |
+jerusalem | | Jerusalem | * | + |
+kedar | | Kedar | * | + |
+pharaoh-ss | Pharaoh | Pharaoh | * | M | "I have compared thee, O my love, to a company of horses in Pharaoh's chariots" (Song of Solomon 1:9)
+en-gedi | | En-gedi | * | + |
+sharon | | Sharon | * | + |
+bether | Bether | Bether | * | P | "The mountains of Bether" (Song of Solomon 2:17)
+israel-people | | Israel | * | + |
+lebanon | | Lebanon | * | + |
+zion | | Zion | * | + |
+gilead | | Gilead | * | + |
+david | | David | * | + |
+amana | Amana | Amana | * | P | "Look from the top of Amana, from the top of Shenir and Hermon" (Song of Solomon 4:8)
+shenir | | Shenir | * | + |
+hermon | | Hermon | * | + |
+tirzah-city | | Tirzah | * | + |
+amminadib | Amminadib | Amminadib | * | M | "My soul made me like the chariots of Amminadib" (Song of Solomon 6:12)
+shulamite | Shulamite | Shulamite | * | F | "Return, return, O Shulamite; return, return, that we may look upon thee" (Song of Solomon 6:13)
+heshbon | | Heshbon | * | + |
+bath-rabbim | Bath-rabbim | Bath-rabbim | * | P | "The fishpools in Heshbon, by the gate of Bath-rabbim" (Song of Solomon 7:4)
+damascus | | Damascus | * | + |
+carmel | | Carmel | * | + |
+baal-hamon | Baal-hamon | Baal-hamon | * | P | Where Solomon had a vineyard, which he let out unto keepers (Song of Solomon 8:11)
