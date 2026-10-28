@@ -1,0 +1,5 @@
+# 3 John. key | Name | forms | verses | type | description
+gaius-j | Gaius | Gaius | * | M | "The wellbeloved Gaius, whom I love in the truth" (3 John 1:1)
+gentiles | | Gentiles | * | + |
+diotrephes | Diotrephes | Diotrephes | * | M | "Diotrephes, who loveth to have the preeminence among them, receiveth us not" (3 John 1:9-10)
+demetrius-j | Demetrius | Demetrius | * | M | "Demetrius hath good report of all men, and of the truth itself" (3 John 1:12)

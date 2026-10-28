@@ -1,0 +1,1 @@
+- People (KJV): add 3 John (Gaius, Diotrephes, Demetrius), each kept apart from earlier namesakes since the KJV does not join them.
