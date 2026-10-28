@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Obadiah added (Obadiah the prophet; Sepharad, verse 20).

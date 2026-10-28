@@ -1,0 +1,19 @@
+# Obadiah. key | Name | forms | verses | type | description
+obadiah-v | Obadiah | Obadiah | * | M | Whose vision is concerning Edom (Obadiah 1:1)
+edom-land | | Edom | * | + |
+esau | | Esau | * | + |
+teman | | Teman | * | + |
+jacob | | Jacob | * | + |
+jerusalem | | Jerusalem | * | + |
+judah | | Judah | * | + |
+zion | | Zion | * | + |
+joseph | | Joseph | * | + |
+philistines | | Philistines | * | + |
+ephraim | | Ephraim | * | + |
+samaria | | Samaria | * | + |
+benjamin | | Benjamin | * | + |
+gilead | | Gilead | * | + |
+israel-people | | Israel | * | + |
+canaanites | | Canaanites | * | + |
+zarephath | | Zarephath | * | + |
+sepharad | Sepharad | Sepharad | * | P | Where "the captivity of Jerusalem" is, who shall possess the cities of the south (Obadiah 1:20)
