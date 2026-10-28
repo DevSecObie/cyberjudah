@@ -1,0 +1,11 @@
+# Bel and the Dragon. key | Name | forms | verses | type | description
+astyages | Astyages | Astyages | * | M | The king who "was gathered to his fathers, and Cyrus of Persia received his kingdom" (Bel and the Dragon 1:1)
+cyrus | | Cyrus | * | + |
+persia | | Persia | * | + |
+daniel-p | | Daniel | * | + |
+babylonians | | Babylonians | * | + |
+bel | | Bel | * | + |
+babylon | | Babylon | * | + |
+jews | | Jew | * | + |
+jewry | | Jewry | * | + |
+habakkuk | | Habbacuc | * | + |
