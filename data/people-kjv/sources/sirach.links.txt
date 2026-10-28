@@ -1,0 +1,13 @@
+# Ecclesiasticus (Sirach). child < father | verses | note | evidence | sources
+aaron ~ moses | 45:6 | "He exalted Aaron, an holy man like unto him, even his brother"
+aaron & levi | 45:6 | "of the tribe of Levi"
+phinehas < eleazar | 45:23
+david < jesse | 45:25
+david & judah | 45:25 | "David son of Jesse, of the tribe of Juda"
+joshua < nun | 46:1 | "Jesus the son of Nave"
+caleb < jephunneh | 46:7
+rehoboam < solomon | 47:23 | "of his seed he left behind him Roboam"
+jeroboam < nebat | 47:23
+jeshua-hp < jozadak | 49:12
+simon-hp < onias-s | 50:1
+jesus-s < sirach | 50:27
