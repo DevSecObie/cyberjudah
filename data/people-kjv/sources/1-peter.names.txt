@@ -1,0 +1,17 @@
+# 1 Peter. key | Name | forms | verses | type | description
+simon-p | | Peter | * | + |
+jesus | | Jesus;Christ | * | + |
+pontus | | Pontus | * | + |
+galatia | | Galatia | * | + |
+cappadocia | | Cappadocia | * | + |
+asia | | Asia | * | + |
+bithynia | | Bithynia | * | + |
+sion-z | | Sion | * | + |
+gentiles | | Gentiles | * | + |
+sarah | | Sara | * | + |
+abraham | | Abraham | * | + |
+noah | | Noah | * | + |
+christians | | Christian | * | + |
+silvanus-p | Silvanus | Silvanus | * | M | "By Silvanus, a faithful brother unto you, as I suppose, I have written briefly" (1 Peter 5:12)
+babylon | | Babylon | * | + |
+marcus-p | Marcus | Marcus | * | M | "And so doth Marcus my son" (1 Peter 5:13)
