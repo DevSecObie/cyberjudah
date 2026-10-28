@@ -1,0 +1,1 @@
+- Bel and the Dragon: adds Astyages and links Daniel, Cyrus, Habbacuc (Habakkuk), Bel, Babylon and the other names it mentions to their existing records.
