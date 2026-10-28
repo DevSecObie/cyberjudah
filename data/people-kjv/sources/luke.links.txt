@@ -1,0 +1,66 @@
+# Luke. child < father | verses | note | evidence | sources
+zacharias-p ^ abijah-c | 1:5 | "A certain priest named Zacharias, of the course of Abia"
+elisabeth ^ aaron | 1:5 | "His wife was of the daughters of Aaron"
+zacharias-p = elisabeth | 1:5,1:13,1:24 | "His wife ... Elisabeth"
+john-b < zacharias-p | 1:13,1:59,1:63,3:2 | "Thy wife Elisabeth shall bear thee a son, and thou shalt call his name John"; "John the son of Zacharias"
+john-b << elisabeth | 1:13,1:57,1:60 | "Elisabeth's full time came that she should be delivered; and she brought forth a son"
+joseph-m ^ david | 1:27,2:4 | "A man whose name was Joseph, of the house of David"; "he was of the house and lineage of David"
+jesus << mary | 1:31,2:7,2:34 | "Thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS"; "she brought forth her firstborn son"
+jesus ^ david | 1:32 | "The Lord God shall give unto him the throne of his father David"
+joseph-m = mary | 1:27,2:5 | "A virgin espoused to a man whose name was Joseph"; "Mary his espoused wife"
+anna-p < phanuel | 2:36 | "Anna, a prophetess, the daughter of Phanuel"
+anna-p & asher | 2:36 | "Of the tribe of Aser"
+philip-t ~ herod-t | 3:1 | "Herod being tetrarch of Galilee, and his brother Philip tetrarch of Iturea"
+philip-h ~ herod-t | 3:19 | "Herodias his brother Philip's wife"
+herodias = philip-h | 3:19 | "Herodias his brother Philip's wife"
+joseph-m ^ heli-l | 3:23 | "Joseph, which was the son of Heli"; Matthew 1:16 says "Jacob begat Joseph the husband of Mary"
+heli-l < matthat-24 | 3:23,3:24
+matthat-24 < levi-24 | 3:24
+levi-24 < melchi-24 | 3:24
+melchi-24 < janna | 3:24
+janna < joseph-24 | 3:24
+joseph-24 < mattathias-25 | 3:24,3:25
+mattathias-25 < amos-25 | 3:25
+amos-25 < naum | 3:25
+naum < esli | 3:25
+esli < nagge | 3:25
+nagge < maath | 3:25,3:26
+maath < mattathias-26 | 3:26
+mattathias-26 < semei-26 | 3:26
+semei-26 < joseph-26 | 3:26
+joseph-26 < juda-26 | 3:26
+juda-26 < joanna-27 | 3:26,3:27
+joanna-27 < rhesa | 3:27
+rhesa < zerubbabel | 3:27
+salathiel ^ neri | 3:27 | "Salathiel, which was the son of Neri"; 1 Chronicles 3:17 names him among "the sons of Jeconiah"
+neri < melchi-28 | 3:27,3:28
+melchi-28 < addi | 3:28
+addi < cosam | 3:28
+cosam < elmodam | 3:28
+elmodam < er-28 | 3:28
+er-28 < jose | 3:28,3:29
+jose < eliezer-29 | 3:29
+eliezer-29 < jorim | 3:29
+jorim < matthat-29 | 3:29
+matthat-29 < levi-29 | 3:29
+levi-29 < simeon-30 | 3:29,3:30
+simeon-30 < juda-30 | 3:30
+juda-30 < joseph-30 | 3:30
+joseph-30 < jonan | 3:30
+jonan < eliakim-30 | 3:30
+eliakim-30 < melea | 3:30,3:31
+melea < menan | 3:31
+menan < mattatha | 3:31
+mattatha < nathan-d | 3:31
+salah ^ cainan-a | 3:35 | "Sala, which was the son of Cainan"; Genesis 11:12 says "Arphaxad ... begat Salah"
+cainan-a < arphaxad | 3:36 | "Cainan, which was the son of Arphaxad"
+andrew ~ simon-p | 6:14 | "Simon, (whom he also named Peter,) and Andrew his brother"
+james-z < zebedee | 5:10 | "James, and John, the sons of Zebedee"
+john-z < zebedee | 5:10 | "James, and John, the sons of Zebedee"
+james-a < alpheus | 6:15 | "James the son of Alpheus"
+simon-z == simon-c | 6:15 | In the same place in the list of the twelve apostles: "Simon the Canaanite" (Matthew 10:4, Mark 3:18), "Simon called Zelotes" (Luke 6:15) | parallel
+judas-j == lebbeus | 6:16 | In the same place in the list of the twelve apostles: "Lebbeus, whose surname was Thaddeus" (Matthew 10:3), "Thaddeus" (Mark 3:18), "Judas the brother of James" (Luke 6:16) | parallel
+judas-j ~ james-jd | 6:16 | "Judas the brother of James"
+joanna-c = chuza | 8:3 | "Joanna the wife of Chuza Herod's steward"
+mary-b ~ martha | 10:39 | "She had a sister called Mary"
+james-j << mary-j | 24:10 | "Mary the mother of James"

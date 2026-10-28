@@ -212,3 +212,7 @@ bethany | Q831190 | 31.7714 | 35.2613 | Bethany
 gethsemane | Q205333 | 31.7794 | 35.2394 | Gethsemane
 cyrene | Q44112 | 32.8167 | 21.85 | Cyrene
 golgotha | Q170516 | 31.7786 | 35.2294 | Calvary
+trachonitis | Q826132 | 32.9695 | 36.4554 | Lajat
+siloam | Q3960568 | 31.7701 | 35.2362 | Siloam
+calvary | Q170516 | 31.7786 | 35.2294 | Calvary
+emmaus-l | Q165887 | 31.8393 | 34.9895 | Emmaus

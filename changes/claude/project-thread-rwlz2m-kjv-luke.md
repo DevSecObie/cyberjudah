@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Luke added (63 new people incl. Theophilus, Zacharias and Elisabeth, Simeon, Anna, Augustus, Cyrenius, Tiberius, Annas, the genealogy of Luke 3, Martha and Mary, Lazarus, Zaccheus, Cleopas; 7 places: Abilene, Iturea, Trachonitis, Nain, Siloam, Calvary, Emmaus; 4 pinned to Wikidata).
