@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Romans added (32 new people, the saints greeted in Romans 16 incl. Phebe, Andronicus, Junia, Tryphena, Tryphosa, Tertius, Quartus; 2 places: Illyricum, Spain, both pinned to Wikidata). Attalia (Acts 14:25) re-pinned from modern Antalya to the ancient city of Pamphylia (Q105703706).

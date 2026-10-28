@@ -1,0 +1,75 @@
+# Romans. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+david | | David | * | + |
+rome | | Rome | * | + |
+gentiles | | Gentiles;Gentile | * | + |
+grecians | | Greeks;Greek | * | + |
+jews | | Jew;Jews | * | + |
+godhead | | Godhead | * | + |
+yes | | Yes | * | + |
+abraham | | Abraham | * | + |
+sarah | | Sara | * | + |
+adam | | Adam | * | + |
+moses | | Moses | * | + |
+abba | | Abba | * | + |
+israel-people | | Israelites;Israel;Israelite;Jacob | !9:13=Jacob | + |
+isaac | | Isaac | * | + |
+rebekah | | Rebecca | * | + |
+jacob | | Jacob | 9:13 | + |
+esau | | Esau | * | + |
+pharaoh-e | | Pharaoh | * | + |
+hosea | | Osee | * | + |
+isaiah | | Esaias | * | + |
+sodom | | Sodoma | * | + |
+gomorrah | | Gomorrha | * | + |
+sion-z | | Sion | * | + |
+benjamin | | Benjamin | * | + |
+elijah | | Elias | * | + |
+baal | | Baal | * | + |
+jesse | | Jesse | * | + |
+jerusalem | | Jerusalem | * | + |
+illyricum | Illyricum | Illyricum | * | P | "From Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ" (Romans 15:19)
+spain | Spain | Spain | * | P | "Whensoever I take my journey into Spain, I will come to you" (Romans 15:24, 15:28); where the Romans won "the mines of the silver and gold" (1 Maccabees 8:3)
+macedonia | | Macedonia | * | + |
+achaia | | Achaia | * | + |
+judea | | Judea | * | + |
+phebe | Phebe | Phebe | * | F | "Phebe our sister, which is a servant of the church which is at Cenchrea"; "she hath been a succourer of many" (Romans 16:1-2, 16:27)
+cenchrea | | Cenchrea | * | + |
+priscilla | | Priscilla | * | + |
+aquila | | Aquila | * | + |
+epenetus | Epenetus | Epenetus | * | M | "My wellbeloved Epenetus, who is the firstfruits of Achaia unto Christ" (Romans 16:5)
+mary-r | Mary | Mary | * | F | "Mary, who bestowed much labour on us" (Romans 16:6)
+andronicus-r | Andronicus | Andronicus | * | M | Saluted with Junia: "my kinsmen, and my fellowprisoners, who are of note among the apostles" (Romans 16:7)
+junia | Junia | Junia | * | U | Saluted with Andronicus: "my kinsmen, and my fellowprisoners, who are of note among the apostles" (Romans 16:7)
+amplias | Amplias | Amplias | * | M | "Amplias my beloved in the Lord" (Romans 16:8)
+urbane | Urbane | Urbane | * | M | "Urbane, our helper in Christ" (Romans 16:9)
+stachys | Stachys | Stachys | * | M | "Stachys my beloved" (Romans 16:9)
+apelles | Apelles | Apelles | * | M | "Apelles approved in Christ" (Romans 16:10)
+aristobulus-r | Aristobulus | Aristobulus | * | M | "Salute them which are of Aristobulus' household" (Romans 16:10)
+herodion | Herodion | Herodion | * | M | "Herodion my kinsman" (Romans 16:11)
+narcissus | Narcissus | Narcissus | * | M | "Them that be of the household of Narcissus, which are in the Lord" (Romans 16:11)
+tryphena | Tryphena | Tryphena | * | F | Saluted with Tryphosa, "who labour in the Lord" (Romans 16:12)
+tryphosa | Tryphosa | Tryphosa | * | F | Saluted with Tryphena, "who labour in the Lord" (Romans 16:12)
+persis | Persis | Persis | * | F | "The beloved Persis, which laboured much in the Lord" (Romans 16:12)
+rufus-r | Rufus | Rufus | * | M | "Rufus chosen in the Lord, and his mother and mine" (Romans 16:13)
+asyncritus | Asyncritus | Asyncritus | * | M | Saluted at Rome (Romans 16:14)
+phlegon | Phlegon | Phlegon | * | M | Saluted at Rome (Romans 16:14)
+hermas | Hermas | Hermas | * | M | Saluted at Rome (Romans 16:14)
+patrobas | Patrobas | Patrobas | * | M | Saluted at Rome (Romans 16:14)
+hermes | Hermes | Hermes | * | M | Saluted at Rome (Romans 16:14)
+philologus | Philologus | Philologus | * | M | Saluted at Rome (Romans 16:15)
+julia | Julia | Julia | * | F | Saluted at Rome (Romans 16:15)
+nereus | Nereus | Nereus | * | M | "Nereus, and his sister" (Romans 16:15)
+olympas | Olympas | Olympas | * | M | Saluted at Rome (Romans 16:15)
+satan | | Satan | * | + |
+timothy | | Timotheus | * | + |
+lucius-r | Lucius | Lucius | * | M | "Lucius, and Jason, and Sosipater, my kinsmen" (Romans 16:21)
+jason-ro | Jason | Jason | * | M | "Lucius, and Jason, and Sosipater, my kinsmen" (Romans 16:21)
+sosipater-r | Sosipater | Sosipater | * | M | "Lucius, and Jason, and Sosipater, my kinsmen" (Romans 16:21)
+tertius | Tertius | Tertius | * | M | "I Tertius, who wrote this epistle, salute you in the Lord" (Romans 16:22)
+gaius-r | Gaius | Gaius | * | M | "Gaius mine host, and of the whole church" (Romans 16:23)
+erastus-c | Erastus | Erastus | * | M | "Erastus the chamberlain of the city" (Romans 16:23)
+quartus | Quartus | Quartus | * | M | "Quartus a brother" (Romans 16:23)
+romans | | Romans | * | + |
+corinth | | Corinthus | * | + |

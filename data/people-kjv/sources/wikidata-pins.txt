@@ -243,7 +243,7 @@ iconium | Q132559332 | 37.8719 | 32.4922 | Iconium
 derbe | Q20717624 | 37.3486 | 33.3615 | Derbe
 lycaonia | Q622598 | 38.0 | 33.0 | Lycaonia
 lystra | Q535982 | 37.6641 | 32.2107 | Lystra
-attalia | Q6487 | 36.9081 | 30.6956 | Antalya
+attalia | Q105703706 | 36.8939 | 30.7003 | Attaleia
 galatia | Q26847 | 39.2667 | 32.9833 | Galatia
 bithynia | Q373189 | 40.5 | 31.0 | Bithynia
 mysia | Q622319 | 40.0 | 28.5 | Mysia
@@ -282,3 +282,5 @@ adria | Q13924 | 42.7758 | 15.4261 | Adriatic Sea
 melita | Q193896 | 35.9 | 14.45 | Malta
 syracuse | Q4420718 | 37.0833 | 15.2833 | Syracuse
 rhegium | Q3429952 | 38.1093 | 15.6439 | Rhegion
+illyricum | Q753824 | 43.8044 | 17.3294 | Illyricum
+spain | Q186513 | 40.21 | -4.35 | Hispania

@@ -1,0 +1,5 @@
+# Romans. child < father | verses | note | evidence | sources
+paul & benjamin | 11:1 | "For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin"
+isaac << sarah | 9:9 | "Sara shall have a son"
+esau << rebekah | 9:10 | "When Rebecca also had conceived by one, even by our father Isaac"
+jacob << rebekah | 9:10 | "When Rebecca also had conceived by one, even by our father Isaac"
