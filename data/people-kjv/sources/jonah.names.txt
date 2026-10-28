@@ -1,0 +1,7 @@
+# Jonah. key | Name | forms | verses | type | description
+jonah | | Jonah | * | + |
+amittai | | Amittai | * | + |
+nineveh | | Nineveh | * | + |
+tharshish | | Tarshish | * | + |
+joppa | | Joppa | * | + |
+hebrew | | Hebrew | * | + |
