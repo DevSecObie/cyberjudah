@@ -1,0 +1,1 @@
+- Places (KJV): the People build now also writes `data/places-kjv/places.json` (916 places from Genesis to Song of Solomon). 191 of them carry a map pin from Wikidata with a link to the item; a place gets a pin only where the Wikidata item is that exact place.

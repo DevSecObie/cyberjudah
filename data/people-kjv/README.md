@@ -24,7 +24,13 @@ Each book has two hand-kept files, read in Bible order, and all books build into
   link between them unless a verse says they are one.
 - `people.json`: built from all of them by `python3 scripts/people-kjv/build.py`. The same
   build writes the gods, creatures and titles (types `D`, `C` and `T`) to
-  `data/other-kjv/other.json`, so they stay out of People.
+  `data/other-kjv/other.json`, so they stay out of People, and the places (type `P`) to
+  `data/places-kjv/places.json`.
+- `sources/wikidata-pins.txt`: a map pin for a place, `key | Wikidata item | latitude |
+  longitude | Wikidata label`, only where the Wikidata item is that exact place. Each pin in
+  `places.json` carries a link to its Wikidata page. A place with no exact match has no pin:
+  no guessed sites, and no pin for a name shared by several places unless the text tells
+  which one it is.
 
 `scripts/people-kjv/names.py` finds the names: a capitalised word that never appears in
 lower case in the KJV, used mid-sentence or tagged with a Strong's number in

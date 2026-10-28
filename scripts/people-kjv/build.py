@@ -1,17 +1,20 @@
-"""Build data/people-kjv/people.json from the KJV text and the hand-kept lists in data/people-kjv/sources.
+"""Build data/people-kjv/people.json (and other-kjv, places-kjv) from the KJV text and the hand-kept lists in data/people-kjv/sources.
 
 Each book has <book>.names.txt and <book>.links.txt, read in Bible order.
 <book>.names.txt: key | Name | forms (;) | verses | type | description
   verses: * = every verse of the book naming one of the forms; c:v,c:v = those verses;
   !c:v leaves a verse out; !c:v=Form leaves out only that form in that verse.
   type: M male, F female, U not stated, G a people (People); D a god or idol, C a creature, T a title
-  (Gods, creatures and titles, data/other-kjv/other.json); P place, X other (neither);
+  (Gods, creatures and titles, data/other-kjv/other.json); P place (Places, data/places-kjv/places.json);
+  X other (none of these);
   + carries on a record from an earlier book: its verses (and any new forms) in this book are added,
   and Name and description stay empty.
 <book>.links.txt: the family links, each with the verses of that book that state it (see the file's header):
   kids op target | verses | note | evidence | sources
   evidence (default scripture): scripture, parallel, history or variant.
   sources: where a link was checked outside the verse, each `Title <https://...>`, joined by ` ; `.
+wikidata-pins.txt: key | Wikidata item | latitude | longitude | Wikidata label, a map pin for a place
+  whose Wikidata item is that exact place; every other place has no pin.
 
 Every name in every verse of a book must belong to some record, every record's verses must name it,
 and every link must cite verses. Usage: build.py [--check]
@@ -34,6 +37,8 @@ EVIDENCE = ('scripture', 'parallel', 'history', 'variant')
 ORDER = [b['slug'] for b in json.load(open(f'{ROOT}/bible/index.json', encoding='utf-8'))]
 OUT = f'{ROOT}/people-kjv/people.json'
 OTHER_OUT = f'{ROOT}/other-kjv/other.json'
+PLACES_OUT = f'{ROOT}/places-kjv/places.json'
+PINS = f'{ROOT}/people-kjv/sources/wikidata-pins.txt'
 
 
 def vkey(r):
@@ -54,6 +59,7 @@ def lines(path):
 
 def read_names(book, VERSES, recs, errs):
     cover = set()
+    mine = [v for v in VERSES if v.startswith(book + '/')]
     for ln, parts in lines(f'{ROOT}/people-kjv/sources/{book}.names.txt'):
         at = f'{book} names {ln}'
         if len(parts) != 6: errs.append(f'{at}: {len(parts)} fields'); continue
@@ -75,7 +81,7 @@ def read_names(book, VERSES, recs, errs):
                 cv, _, f = t[1:].partition('=')
                 exc.setdefault(f'{book}/' + cv.replace(':', '/'), set()).update([f] if f else forms)
         def named(v): return {x[0] for x in VERSES[v]} & (set(forms) - exc.get(v, set()))
-        naming = [v for v in VERSES if v.startswith(book + '/') and named(v)]
+        naming = [v for v in mine if named(v)]
         inc = [f'{book}/' + t.replace(':', '/') for t in toks if t != '*' and not t.startswith('!')]
         for v in inc:
             if v not in naming: errs.append(f'{at} {key}: {v} does not name {forms}')
@@ -83,10 +89,9 @@ def read_names(book, VERSES, recs, errs):
         if not verses: errs.append(f'{at} {key}: no verses')
         r['verses'] = sorted(set(r['verses']) | set(verses), key=vkey)
         cover |= {(v, f) for v in verses for f in forms if f not in exc.get(v, ())}
-    for v, xs in VERSES.items():
-        if v.startswith(book + '/'):
-            for w, _ in xs:
-                if (v, w) not in cover: errs.append(f'{book} names: {w} in {v} belongs to no record')
+    for v in mine:
+        for w, _ in VERSES[v]:
+            if (v, w) not in cover: errs.append(f'{book} names: {w} in {v} belongs to no record')
 
 
 def make_ids(recs):
@@ -108,8 +113,20 @@ def build():
     for book in books: read_names(book, VERSES, recs, errs)
     people = {k: r for k, r in recs.items() if r['type'] in TYPES}
     others = {k: r for k, r in recs.items() if r['type'] in OTHER}
+    places = {k: r for k, r in recs.items() if r['type'] == 'P'}
     ids = make_ids(people)
     oids = make_ids(others)
+    pids = make_ids(places)
+    pins = {}
+    for ln, parts in lines(PINS):
+        if len(parts) != 5 or not re.fullmatch(r'Q\d+', parts[1]): errs.append(f'wikidata-pins {ln}: bad line'); continue
+        k, q, lat, lon, label = parts
+        if k not in pids: errs.append(f'wikidata-pins {ln}: {k} is not a place'); continue
+        if k in pins: errs.append(f'wikidata-pins {ln}: {k} has two pins'); continue
+        pins[k] = {'lat': float(lat), 'lon': float(lon), 'wikidata': q, 'url': f'https://www.wikidata.org/wiki/{q}', 'label': label}
+    places_out = sorted(({'id': pids[k], 'name': r['name'], 'names': list(dict.fromkeys([r['name']] + r['forms'])),
+                          'description': r['desc'], 'verses': r['verses'], **({'pin': pins[k]} if k in pins else {})}
+                         for k, r in places.items() if k in pids), key=lambda o: vkey(o['verses'][0]) + (o['id'],))
     other_out = sorted(({'id': oids[k], 'name': r['name'], 'names': list(dict.fromkeys([r['name']] + r['forms'])),
                          'kind': OTHER[r['type']], 'description': r['desc'], 'verses': r['verses']}
                         for k, r in others.items() if k in oids), key=lambda o: vkey(o['verses'][0]) + (o['id'],))
@@ -181,7 +198,7 @@ def build():
     keep = ('father', 'mother', 'partners', 'siblings', 'children')
     people_out = sorted(({f: v for f, v in p.items() if v != [] or f in keep} for p in out.values()),
                         key=lambda p: vkey(p['verses'][0]) + (p['id'],))
-    return {'books': books, 'people': people_out, 'other': other_out}, errs
+    return {'books': books, 'people': people_out, 'other': other_out, 'places': places_out}, errs
 
 
 def dump(doc, field='people'):
@@ -193,8 +210,9 @@ if __name__ == '__main__':
     doc, errs = build()
     for e in errs: print('error:', e)
     if errs: sys.exit(1)
-    files = [(OUT, dump(doc)), (OTHER_OUT, dump(doc, 'other'))]
-    said = f'{len(doc["people"])} people and {len(doc["other"])} gods, creatures and titles from {", ".join(doc["books"])}'
+    files = [(OUT, dump(doc)), (OTHER_OUT, dump(doc, 'other')), (PLACES_OUT, dump(doc, 'places'))]
+    said = (f'{len(doc["people"])} people, {len(doc["other"])} gods, creatures and titles and {len(doc["places"])} places'
+            f' from {", ".join(doc["books"])}')
     if '--check' in sys.argv:
         for out, text in files:
             if not os.path.exists(out) or open(out, encoding='utf-8').read() != text: print(f'{out} is out of date: run build.py'); sys.exit(1)
