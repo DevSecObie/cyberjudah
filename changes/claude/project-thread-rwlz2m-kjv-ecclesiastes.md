@@ -1,0 +1,1 @@
+- People (KJV): Ecclesiastes and Song of Solomon added (Pharaoh of Song 1:9, Amminadib, the Shulamite); Sharon of Gad (1 Chronicles 5:16) is kept apart from the plain of Sharon.
