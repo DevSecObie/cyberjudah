@@ -1,0 +1,98 @@
+# 2 Esdras. key | Name | forms | verses | type | description
+ezra | | Esdras | * | + |
+seraiah-6 | | Saraias | * | + |
+azariah-p3 | | Azarias | * | + |
+hilkiah-p | | Helchias | * | + |
+sadamias | Sadamias | Sadamias | * | M | In the line of Esdras: "the son of Helchias, the son of Sadamias, the son of Sadoc" (2 Esdras 1:1)
+zadok-2 | | Sadoc | * | + |
+ahitub-2 | | Achitob | * | + |
+achias | Achias | Achias | * | M | In the line of Esdras: "the son of Achitob, the son of Achias, the son of Phinees, the son of Heli" (2 Esdras 1:1-2)
+phinees-e | Phinees | Phinees | 1:2 | M | In the line of Esdras, the son of Heli, father of Achias (2 Esdras 1:2)
+heli | Heli | Heli | * | M | In the line of Esdras, the son of Amarias, father of Phinees (2 Esdras 1:2)
+amariah-2 | | Amarias | * | + |
+aziei | Aziei | Aziei | * | M | In the line of Esdras: "the son of Amarias, the son of Aziei, the son of Marimoth" (2 Esdras 1:2)
+meraioth | | Marimoth | * | + |
+arna | Arna | Arna | * | M | In the line of Esdras: "the son of Marimoth, the son of Arna, the son of Ozias" (2 Esdras 1:2)
+ozias-e | Ozias | Ozias | * | M | In the line of Esdras: "the son of Arna, the son of Ozias, the son of Borith" (2 Esdras 1:2)
+borith | Borith | Borith | * | M | In the line of Esdras: "the son of Ozias, the son of Borith, the son of Abisei" (2 Esdras 1:2)
+abisei | Abisei | Abisei | * | M | In the line of Esdras: "the son of Borith, the son of Abisei, the son of Phinees, the son of Eleazar" (2 Esdras 1:2)
+phinehas | | Phinees | 1:2 | + |
+eleazar | | Eleazar | * | + |
+aaron | | Aaron | * | + |
+levi | | Levi | * | + |
+medes | | Medes | * | + |
+artaxerxes | | Artaxerxes | * | + |
+persians | | Persians | * | + |
+egypt | | Egypt | * | + |
+pharaoh-e | | Pharaoh | * | + |
+tyre | | Tyrus | * | + |
+sidon-place | | Sidon | * | + |
+moses | | Moses | * | + |
+egyptian | | Egyptians | * | + |
+canaanites | | Canaanites | * | + |
+perizzites | | Pherezites | * | + |
+philistines | | Philistines | * | + |
+amorite | | Amorites | * | + |
+jacob | | Jacob | * | + |
+judah | | Juda | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+hosea | | Oseas | * | + |
+amos | | Amos | * | + |
+micah-mo | | Micheas | * | + |
+joel-pr | | Joel | * | + |
+obadiah-v | | Abdias | * | + |
+jonah | | Jonas | * | + |
+nahum | | Nahum | * | + |
+habakkuk | | Abacuc | * | + |
+zephaniah-pr | | Sophonias | * | + |
+haggai | | Aggeus | * | + |
+zechariah-iddo | | Zachary | * | + |
+malachi | | Malachy | * | + |
+assyria | | Assur;Assyria | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrha | * | + |
+jerusalem | | Jerusalem | * | + |
+israel-people | | Israel | * | + |
+isaiah | | Esay | * | + |
+jeremiah-p | | Jeremy | * | + |
+horeb | | Oreb | * | + |
+sion-z | | Sion | * | + |
+babylon | | Babylon | * | + |
+adam | | Adam | * | + |
+noah | | Noah | * | + |
+esau | | Esau | * | + |
+sinai | | Sinai | * | + |
+david | | David | * | + |
+uriel-a | Uriel | Uriel | * | U | "The angel that was sent unto me, whose name was Uriel"; "Uriel the archangel" (2 Esdras 4:1, 4:36, 5:20, 10:28)
+sodomitish-sea | Sodomitish sea | Sodomitish | * | P | "The Sodomitish sea shall cast out fish" (2 Esdras 5:7)
+salathiel-c | Salathiel | Salathiel | * | M | "Salathiel the captain of the people", who came unto Esdras in the second night (2 Esdras 5:16)
+enoch-cr | Enoch | Enoch | * | C | One of "two living creatures" God ordained on the fifth day, to whom he gave the dry part "wherein are a thousand hills" (2 Esdras 6:49-51)
+leviathan | Leviathan | Leviathan | * | C | One of "two living creatures" God ordained on the fifth day, to whom he gave "the seventh part, namely, the moist" (2 Esdras 6:49, 6:52)
+jesus | | Jesus;Christ | !7:37 | + |
+joshua | | Jesus | 7:37 | + |
+sodomites | Sodomites | Sodomites | * | G | "Abraham prayed first for the Sodomites" (2 Esdras 7:36)
+achan | | Achan | * | + |
+samuel | | Samuel | * | + |
+solomon | | Solomon | * | + |
+elijah | | Helias | * | + |
+hezekiah | | Ezechias | * | + |
+sennacherib | | Sennacherib | * | + |
+ardath | Ardath | Ardath | * | P | "The field which is called Ardath", where Esdras sat among the flowers (2 Esdras 9:26)
+levites | | Levites | * | + |
+daniel-p | | Daniel | * | + |
+hoshea-e | | Osea | * | + |
+shalmaneser | | Salmanasar | * | + |
+euphrates | | Euphrates | * | + |
+arsareth | Arsareth | Arsareth | * | P | The region beyond Euphrates, "a year and a half" away, to which the ten tribes went (2 Esdras 13:40-45)
+sarea | Sarea | Sarea | * | M | One of the five "ready to write swiftly" whom Esdras took with him (2 Esdras 14:24)
+dabria | Dabria | Dabria | * | M | One of the five "ready to write swiftly" whom Esdras took with him (2 Esdras 14:24)
+selemia | Selemia | Selemia | * | M | One of the five "ready to write swiftly" whom Esdras took with him (2 Esdras 14:24)
+ecanus | Ecanus | Ecanus | * | M | One of the five "ready to write swiftly" whom Esdras took with him (2 Esdras 14:24)
+asiel-s | Asiel | Asiel | * | M | One of the five "ready to write swiftly" whom Esdras took with him (2 Esdras 14:24)
+lebanon | | Libanus | * | + |
+arabia | | Arabia | * | + |
+carmanians | Carmanians | Carmanians | * | G | "The Carmanians raging in wrath shall go forth as the wild boars of the wood" (2 Esdras 15:30)
+assyrians | | Assyrians | * | + |
+asia | | Asia | * | + |
+syria | | Syria | * | + |
