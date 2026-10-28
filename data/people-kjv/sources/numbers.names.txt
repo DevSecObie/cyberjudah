@@ -6,7 +6,8 @@ moses | | Moses | * | + |
 sinai | | Sinai | * | + |
 egypt | | Egypt | * | + |
 israel-people | | Israel;Israelite | !1:20,!26:5 | + |
-jacob | | Jacob;Israel | 1:20,23:7,23:10,23:21,23:23,24:5,24:17,24:19,26:5,32:11 | + |
+jacob | | Jacob | 23:7,23:10,23:21,23:23,24:5,24:17,24:19,32:11 | + |
+jacob | | Israel | 1:20,26:5 | + |
 aaron | | Aaron | * | + |
 reuben | | Reuben | * | + |
 elizur | Elizur | Elizur | * | M | The son of Shedeur, prince of the tribe of Reuben, who stood with Moses and Aaron to number Israel (Numbers 1:5, 2:10, 7:30, 10:18)
@@ -141,7 +142,8 @@ eliab-r | Eliab | Eliab | 16:1,16:12,26:8,26:9 | M | The son of Pallu of Reuben,
 peleth | Peleth | Peleth | * | M | Of the sons of Reuben, the father of On, who rose up with Korah (Numbers 16:1)
 meribah | | Meribah | * | + |
 edom-land | | Edom | * | + |
-hor | Hor | Hor | * | P | The mount by the coast of the land of Edom, where Aaron died (Numbers 20:22-28, 33:38)
+hor | Hor | Hor | 20:22,20:23,20:25,20:27,21:4,33:37,33:38,33:39,33:41 | P | The mount by the coast of the land of Edom, where Aaron died (Numbers 20:22-28, 33:38)
+hor-n | Hor | Hor | 34:7,34:8 | P | On the north border of the land: "from the great sea ye shall point out for you mount Hor" (Numbers 34:7-8)
 arad | Arad | Arad | * | M | King Arad the Canaanite, which dwelt in the south, who fought against Israel (Numbers 21:1, 33:40)
 oboth | Oboth | Oboth | * | P | Where Israel pitched (Numbers 21:10, 33:43)
 ije-abarim | Ije-abarim | Ije-abarim | * | P | Where Israel pitched, in the wilderness before Moab (Numbers 21:11, 33:44)
@@ -337,12 +339,12 @@ ataroth | Ataroth | Ataroth | * | P | A city built by the children of Gad (Numbe
 nimrah | Nimrah | Nimrah | * | P | In the land the children of Gad and Reuben asked for (Numbers 32:3)
 elealeh | Elealeh | Elealeh | * | P | A city built by the children of Reuben (Numbers 32:3, 32:37)
 shebam | Shebam | Shebam | * | P | In the land the children of Gad and Reuben asked for (Numbers 32:3)
-nebo | Nebo | Nebo | * | P | A city built by the children of Reuben; the mountains of Abarim before Nebo (Numbers 32:3, 32:38, 33:47)
+nebo | Nebo | Nebo | * | P | A city built by the children of Reuben; "Moab shall howl over Nebo" (Numbers 32:3, 32:38; Isaiah 15:2; Jeremiah 48:1, 48:22)
 beon | Beon | Beon | * | P | In the land the children of Gad and Reuben asked for (Numbers 32:3)
 abraham | | Abraham | * | + |
 isaac | | Isaac | * | + |
 kenezite | Kenezite | Kenezite | * | G | "Caleb the son of Jephunneh the Kenezite" (Numbers 32:12)
-aroer | Aroer | Aroer | * | P | A city built by the children of Gad (Numbers 32:34)
+aroer | Aroer | Aroer | * | P | Built by the children of Gad; "Aroer that is before Rabbah", in the inheritance of Gad (Numbers 32:34; Joshua 13:25)
 atroth | Atroth | Atroth | * | P | A city built by the children of Gad (Numbers 32:35)
 shophan | Shophan | Shophan | * | P | A city built by the children of Gad (Numbers 32:35)
 jogbehah | Jogbehah | Jogbehah | * | P | A city built by the children of Gad (Numbers 32:35)
@@ -356,7 +358,7 @@ havoth-jair | Havoth-jair | Havoth-jair | * | P | The small towns that Jair took
 nobah | Nobah | Nobah | * | M | He took Kenath and called it Nobah, after his own name (Numbers 32:42)
 kenath | Kenath | Kenath | * | P | Taken by Nobah, who called it Nobah after his own name (Numbers 32:42)
 rameses | | Rameses | * | + |
-succoth | | Succoth | * | + |
+succoth-e | | Succoth | 33:5,33:6 | + |
 etham | | Etham | * | + |
 pi-hahiroth | | Pi-hahiroth | * | + |
 baal-zephon | | Baal-zephon | * | + |

@@ -58,7 +58,7 @@ arabians | Arabians | Arabians | 17:11,21:16,22:1,26:7 | G | Who brought Jehosha
 amariah-cp | Amariah | Amariah | 19:11 | M | The chief priest over the people in all matters of the Lord under Jehoshaphat (2 Chronicles 19:11)
 zebadiah-i | Zebadiah | Zebadiah | 19:11 | M | The son of Ishmael, ruler of the house of Judah, for all the king's matters (2 Chronicles 19:11)
 ishmael-z | Ishmael | Ishmael | 19:11 | M | The father of Zebadiah (2 Chronicles 19:11)
-hazazon-tamar | Hazazon-tamar | Hazazon-tamar | 20:2 | P | Which is En-gedi, where the children of Moab and Ammon came (2 Chronicles 20:2)
+en-gedi | | Hazazon-tamar | 20:2 | + |
 jahaziel-z | Jahaziel | Jahaziel | 20:14 | M | A Levite of the sons of Asaph, the son of Zechariah, upon whom came the Spirit of the Lord (2 Chronicles 20:14)
 zechariah-jz | Zechariah | Zechariah | 20:14 | M | The son of Benaiah, father of Jahaziel (2 Chronicles 20:14)
 benaiah-jz | Benaiah | Benaiah | 20:14 | M | The son of Jeiel, father of Zechariah, in the line of Jahaziel (2 Chronicles 20:14)
@@ -242,7 +242,7 @@ geba | | Geba | 16:6 | + |
 gederoth | | Gederoth | 28:18 | + |
 gerar | | Gerar | 14:13,14:14 | + |
 gershonites | | Gershonites | 29:12 | + |
-gibeah | | Gibeah | 13:2 | + |
+gibeah-u | Gibeah | Gibeah | 13:2 | P | Of which Uriel, father of Abijah's mother Michaiah, was (2 Chronicles 13:2)
 gibeon | | Gibeon | 1:3,1:13 | + |
 gihon-j | | Gihon | 32:30,33:14 | + |
 hamath | | Hamath | 7:8,8:4 | + |
@@ -324,7 +324,7 @@ megiddo | | Megiddo | 35:22 | + |
 merari | | Merari | 29:12,34:12 | + |
 micaiah | | Micaiah | 18:7,18:8,18:12,18:13,18:14,18:23,18:24,18:25,18:27 | + |
 millo | | Millo | 32:5 | + |
-mizpah | | Mizpah | 16:6 | + |
+mizpah-b | | Mizpah | 16:6 | + |
 moabites | | Moab | 20:1,20:10,20:22,20:23 | + |
 moabites | | Moabitess | 24:26 | + |
 moriah | | Moriah | 3:1 | + |
@@ -343,8 +343,8 @@ perizzites | | Perizzites | 8:7 | + |
 pharaoh-nechoh | | Necho | 35:20,35:22,36:4 | + |
 pharaoh-s | | Pharaoh | 8:11 | + |
 philistines | | Philistines | 9:26,17:11,21:16,26:6,26:7,28:18 | + |
-ramah | | Ramah | 16:1,16:5,16:6,22:6 | + |
-ramoth-gilead | | Ramoth-gilead | 18:2,18:3,18:5,18:11,18:14,18:19,18:28,22:5 | + |
+ramah | | Ramah | 16:1,16:5,16:6 | + |
+ramoth-gilead | | Ramoth-gilead;Ramah | 18:2,18:3,18:5,18:11,18:14,18:19,18:28,22:5,22:6 | + |
 rehoboam | | Rehoboam | 9:31,10:1,10:3,10:6,10:12,10:13,10:17,10:18,11:1,11:3,11:5,11:17,11:18,11:21,11:22,12:1,12:2,12:5,12:10,12:13,12:15,12:16,13:7 | + |
 remaliah | | Remaliah | 28:6 | + |
 samaria | | Samaria | 18:2,18:9,22:9,25:13,25:24,28:8,28:9,28:15 | + |

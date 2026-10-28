@@ -1,7 +1,8 @@
 # Exodus: who and what each name is. key | Name | forms | verses | type | description  (type + carries on a record from an earlier book)
 # "Israel" in Exodus is the people, save where the man Jacob is meant (6:14, 32:13).
 israel-people | | Israel;Israelites | !6:14,!32:13 | + |
-jacob | | Jacob;Israel | !1:1=Israel,!4:22,!5:2,!9:4,!12:15,!14:19,!14:20,!14:25,!14:30,!14:31,!15:22,!16:31,!17:8,!17:11,!18:1,!18:8,!18:9,!18:25,!19:2,!24:4,!32:4,!32:8,!34:27,!40:38 | + |
+jacob | | Jacob | * | + |
+jacob | | Israel | 6:14,32:13 | + |
 egypt | | Egypt | * | + |
 reuben | | Reuben | * | + |
 simeon | | Simeon | * | + |
@@ -30,7 +31,7 @@ midian-land | Midian | Midian | * | P | The land of Midian, where Moses dwelt; J
 jethro | Jethro | Jethro;Reuel | * | M | The priest of Midian, Moses' father in law. He is Reuel the father of Zipporah, who gave her to Moses (Exodus 2:16-21), and Jethro who brought Zipporah, Moses' wife, to him (Exodus 18:1-2)
 zipporah | Zipporah | Zipporah | * | F | The daughter of Reuel the priest of Midian, Moses' wife, mother of Gershom and Eliezer (Exodus 2:21-22, 18:2-4)
 gershom | Gershom | Gershom | * | M | The son of Moses and Zipporah: "I have been a stranger in a strange land" (Exodus 2:22, 18:3)
-eliezer-m | Eliezer | Eliezer | * | M | The second son of Moses: "the God of my father was mine help" (Exodus 18:4)
+eliezer-m | Eliezer | Eliezer | * | M | The second son of Moses: "the God of my father, said he, was mine help" (Exodus 18:4)
 horeb | Horeb | Horeb | * | P | The mountain of God, where the Lord appeared to Moses in the bush (Exodus 3:1)
 canaanites | | Canaanite;Canaanites;Canaanitish | * | + |
 hittites | | Hittite;Hittites | * | + |
@@ -85,7 +86,7 @@ putiel | Putiel | Putiel | * | M | Whose daughter Eleazar took to wife; she bare
 phinehas | Phinehas | Phinehas | * | M | The son of Eleazar by a daughter of Putiel (Exodus 6:25)
 goshen | | Goshen | * | + |
 rameses | | Rameses | * | + |
-succoth | | Succoth | * | + |
+succoth-e | Succoth | Succoth | 12:37,13:20 | P | The first place Israel pitched in after Rameses, when they came out of Egypt (Exodus 12:37, 13:20; Numbers 33:5-6)
 abib | Abib | Abib | * | X | The month in which Israel came out of Egypt (Exodus 13:4); not a person in People
 philistines | | Philistines | * | + |
 etham | Etham | Etham | * | P | Where Israel encamped in the edge of the wilderness (Exodus 13:20)
