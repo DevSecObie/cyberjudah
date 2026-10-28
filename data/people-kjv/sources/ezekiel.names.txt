@@ -1,0 +1,142 @@
+# Ezekiel. key | Name | forms | verses | type | description
+chebar | Chebar | Chebar | * | P | The river in the land of the Chaldeans, where Ezekiel was among the captives when the heavens were opened (Ezekiel 1:1-3, 3:15, 10:15)
+jehoiachin | | Jehoiachin | * | + |
+ezekiel | Ezekiel | Ezekiel | * | M | The priest, the son of Buzi, among the captives by the river of Chebar, to whom the word of the Lord came; "Ezekiel is unto you a sign" (Ezekiel 1:1-3, 24:15-24)
+buzi | Buzi | Buzi | * | M | The father of Ezekiel the priest (Ezekiel 1:3)
+chaldees | | Chaldeans;Chaldea | * | + |
+israel-people | | Israel | * | + |
+tel-abib | Tel-abib | Tel-abib | * | P | Where the captives dwelt by the river of Chebar (Ezekiel 3:15)
+jerusalem | | Jerusalem | * | + |
+judah | | Judah | * | + |
+gentiles | | Gentiles | * | + |
+diblath | Diblath | Diblath | * | P | "More desolate than the wilderness toward Diblath" (Ezekiel 6:14)
+jaazaniah-sh | Jaazaniah | Jaazaniah | 8:11 | M | The son of Shaphan, who stood in the midst of the seventy ancients of Israel offering incense to their idols (Ezekiel 8:11)
+shaphan-z | Shaphan | Shaphan | * | M | The father of Jaazaniah (Ezekiel 8:11)
+tammuz | Tammuz | Tammuz | * | D | "There sat women weeping for Tammuz" at the door of the gate of the Lord's house (Ezekiel 8:14)
+jaazaniah-az | Jaazaniah | Jaazaniah | 11:1 | M | The son of Azur, one of the five and twenty men at the east gate, princes of the people that devise mischief (Ezekiel 11:1-2)
+azur-e | Azur | Azur | * | M | The father of Jaazaniah (Ezekiel 11:1)
+pelatiah-e | Pelatiah | Pelatiah | * | M | The son of Benaiah, one of the princes of the people at the east gate; he died when Ezekiel prophesied (Ezekiel 11:1, 11:13)
+benaiah-e | Benaiah | Benaiah | * | M | The father of Pelatiah (Ezekiel 11:1, 11:13)
+babylon | | Babylon | * | + |
+noah | | Noah | * | + |
+daniel-p | Daniel | Daniel | * | M | Named with Noah and Job as a righteous man; "thou art wiser than Daniel" (Ezekiel 14:14, 14:20, 28:3)
+job-u | | Job | * | + |
+canaan-land | | Canaan | * | + |
+amorite | | Amorite | * | + |
+hittites | | Hittite | * | + |
+egyptian | | Egyptians | * | + |
+philistines | | Philistines | * | + |
+assyrians | | Assyrians;Assyrian | * | + |
+samaria | | Samaria | * | + |
+sodom | | Sodom | * | + |
+syria | | Syria | * | + |
+lebanon | | Lebanon | * | + |
+egypt | | Egypt | * | + |
+pharaoh-jz | | Pharaoh | 17:17 | + |
+pharaoh-ez | Pharaoh | Pharaoh | *,!17:17 | M | "Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers", whose arms the Lord will break (Ezekiel 29:2-3, 30:21-25, 31:2-18, 32:2-32)
+jacob | | Jacob | * | + |
+bamah | Bamah | Bamah | * | P | "What is the high place whereunto ye go? And the name thereof is called Bamah unto this day" (Ezekiel 20:29)
+rabbath | | Rabbath | * | + |
+ammon | | Ammonites | * | + |
+aholah | Aholah | Aholah | * | X | The name given to Samaria in the parable of the two sisters: "Samaria is Aholah" (Ezekiel 23:4-5, 23:36, 23:44); not a person in People
+aholibah | Aholibah | Aholibah | * | X | The name given to Jerusalem in the parable of the two sisters: "Jerusalem Aholibah" (Ezekiel 23:4, 23:11, 23:22, 23:36, 23:44); not a person in People
+assyria | | Assyria | * | + |
+babylonians | | Babylonians | * | + |
+pekod | | Pekod | * | + |
+shoa | Shoa | Shoa | * | G | Named with the Babylonians, the Chaldeans, Pekod and Koa, who shall come against Aholibah (Ezekiel 23:23)
+koa | Koa | Koa | * | G | Named with the Babylonians, the Chaldeans, Pekod and Shoa, who shall come against Aholibah (Ezekiel 23:23)
+sabeans-e | Sabeans | Sabeans | * | G | "Sabeans from the wilderness", brought with the men of the common sort (Ezekiel 23:42)
+rabbah | | Rabbah | * | + |
+moab-land | | Moab | * | + |
+seir-land | | Seir | * | + |
+beth-jeshimoth | | Beth-jeshimoth | * | + |
+baal-meon | | Baal-meon | * | + |
+kiriathaim | | Kiriathaim | * | + |
+edom-land | | Edom | * | + |
+teman | | Teman | * | + |
+dedan-land | | Dedan | * | + |
+cherethites | | Cherethims | * | + |
+tyre | | Tyrus | * | + |
+nebuchadnezzar | | Nebuchadrezzar | * | + |
+senir | | Senir | * | + |
+bashan | | Bashan | * | + |
+ashurites | | Ashurites | * | + |
+chittim | | Chittim | * | + |
+elishah | | Elishah | * | + |
+sidon-place | | Zidon | * | + |
+arvad | Arvad | Arvad | * | P | Whose inhabitants were mariners of Tyrus and on her walls (Ezekiel 27:8, 27:11)
+gebal | | Gebal | * | + |
+persia | | Persia | * | + |
+lud | | Lud | * | + |
+phut | | Phut | * | + |
+gammadims | Gammadims | Gammadims | * | G | Who were in the towers of Tyrus and hanged their shields upon her walls (Ezekiel 27:11)
+tharshish | | Tarshish | * | + |
+javan | | Javan | * | + |
+tubal | | Tubal | * | + |
+meshech | | Meshech | * | + |
+togarmah | | Togarmah | * | + |
+minnith | | Minnith | * | + |
+pannag | Pannag | Pannag | * | P | Whose wheat Judah and Israel traded in the market of Tyrus (Ezekiel 27:17)
+damascus | | Damascus | * | + |
+helbon | Helbon | Helbon | * | P | Whose wine Damascus traded with Tyrus (Ezekiel 27:18)
+dan | | Dan | 48:1,48:2,48:32 | + |
+dan-ez | Dan | Dan | 27:19 | P | Named with Javan, "going to and fro" in the fairs of Tyrus (Ezekiel 27:19)
+arabia | | Arabia | * | + |
+kedar | | Kedar | * | + |
+sheba-land | | Sheba | * | + |
+raamah | | Raamah | * | + |
+haran-place | | Haran | * | + |
+canneh | Canneh | Canneh | * | P | Named with Haran and Eden among the merchants of Tyrus (Ezekiel 27:23)
+eden | | Eden | * | + |
+asshur-people | | Asshur | * | + |
+chilmad | Chilmad | Chilmad | * | P | Named among the merchants of Tyrus (Ezekiel 27:23)
+syene | Syene | Syene | * | P | "From the tower of Syene even unto the border of Ethiopia" (Ezekiel 29:10, 30:6)
+ethiopia | | Ethiopia | * | + |
+pathros | | Pathros | * | + |
+libya | Libya | Libya | * | P | Named with Ethiopia and Lydia, who shall fall with Egypt by the sword; with Gog's army (Ezekiel 30:5, 38:5)
+lydia | Lydia | Lydia | * | P | Named with Ethiopia and Libya, who shall fall with Egypt by the sword (Ezekiel 30:5)
+chub | Chub | Chub | * | P | Named among those who shall fall with Egypt by the sword (Ezekiel 30:5)
+ethiopian | | Ethiopians | * | + |
+noph | | Noph | * | + |
+zoan | | Zoan | * | + |
+aven | Aven | Aven | * | P | In Egypt: "The young men of Aven and of Pi-beseth shall fall by the sword" (Ezekiel 30:17)
+pi-beseth | Pi-beseth | Pi-beseth | * | P | In Egypt: "The young men of Aven and of Pi-beseth shall fall by the sword" (Ezekiel 30:17)
+tahpanhes | | Tehaphnehes | * | + |
+elam-land | | Elam | * | + |
+sidonians | | Zidonians | * | + |
+abraham | | Abraham | * | + |
+david | | David | * | + |
+idumea | | Idumea | * | + |
+joseph | | Joseph | * | + |
+ephraim | | Ephraim | * | + |
+gog-m | Gog | Gog | * | M | "Gog, the land of Magog, the chief prince of Meshech and Tubal", who shall come up against the land of Israel in the latter days, and shall be given a place of graves in Israel (Ezekiel 38:1-23, 39:1-16)
+magog | | Magog | * | + |
+gomer | | Gomer | * | + |
+hamon-gog | Hamon-gog | Hamon-gog | * | P | "The valley of Hamon-gog", where they shall bury Gog and all his multitude (Ezekiel 39:11, 39:15)
+hamonah | Hamonah | Hamonah | * | P | "And also the name of the city shall be Hamonah" (Ezekiel 39:16)
+zadok | | Zadok | * | + |
+levi | | Levi | * | + |
+levites | | Levites | * | + |
+en-gedi | | En-gedi | * | + |
+en-eglaim | En-eglaim | En-eglaim | * | P | "From En-gedi even unto En-eglaim" the fishers shall stand (Ezekiel 47:10)
+hethlon | Hethlon | Hethlon | * | P | On the north border of the land: "the way of Hethlon" (Ezekiel 47:15, 48:1)
+zedad | | Zedad | * | + |
+hamath | | Hamath | * | + |
+berothah | Berothah | Berothah | * | P | On the north border of the land (Ezekiel 47:16)
+sibraim | Sibraim | Sibraim | * | P | "Which is between the border of Damascus and the border of Hamath" (Ezekiel 47:16)
+hazar-hatticon | Hazar-hatticon | Hazar-hatticon | * | P | "Which is by the coast of Hauran" (Ezekiel 47:16)
+hauran | Hauran | Hauran | * | P | On the east border of the land (Ezekiel 47:16, 47:18)
+hazar-enan | | Hazar-enan | * | + |
+gilead | | Gilead | * | + |
+jordan | | Jordan | * | + |
+tamar-p | Tamar | Tamar | * | P | On the south border of the land: "from Tamar even to the waters of strife in Kadesh" (Ezekiel 47:19, 48:28)
+kadesh | | Kadesh | * | + |
+asher | | Asher | * | + |
+naphtali | | Naphtali | * | + |
+manasseh | | Manasseh | * | + |
+reuben | | Reuben | * | + |
+benjamin | | Benjamin | * | + |
+simeon | | Simeon | * | + |
+issachar | | Issachar | * | + |
+zebulun | | Zebulun | * | + |
+gad | | Gad | * | + |

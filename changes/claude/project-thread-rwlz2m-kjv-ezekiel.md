@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Ezekiel added (15 new people; Tammuz under gods and titles; 25 places such as Chebar, Tel-abib, Arvad, Syene, Pi-beseth, Hamon-gog; 3 exact Wikidata pins: Helbon, Syene, Hauran).
