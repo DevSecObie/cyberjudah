@@ -1,0 +1,1 @@
+- Philemon: adds Philemon and Apphia; adds Philemon verses to Paul, Jesus, Timothy, Archippus, Onesimus, Epaphras, Marcus, Aristarchus, Demas, Lucas and Rome.
