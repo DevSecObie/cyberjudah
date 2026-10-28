@@ -1,7 +1,7 @@
 - People: Judas Maccabeus has his full name back, and the Maccabees' line runs through Jehoiarib to Aaron (1 Chronicles 24:1, 24:7; 1 Maccabees 2:1).
 - People: 1,444 people now show their tribe. 444 come from the verse that states it or the list they stand in ("The sons of Judah", "Of the priests"); the rest follow the house of their fathers up to a son of Jacob, or take the tribe of their sons, with every verse on that chain in a note.
 - People: a person with no tribe shows their people in the header (Egyptian, Syrian), and the sons of Jacob read "Father of the tribe of Judah".
-- People: 33 husbands and wives the verses give: David's wives Maacah, Haggith and Abital, Caleb's and Manasseh's concubines, Orpah and Chilion, Tahpenes and Pharaoh, and the kings' mothers each with the son she bare the king.
-- People: 24 people the text describes but never names, each with its verses: Lot's wife and daughters, Pharaoh's daughter, the queen of Sheba, Peter's wife's mother, the daughter of Herodias and others. Parthians are added.
+- People: 26 husbands and wives the verses give: David's wives Maacah, Haggith and Abital, Caleb's and Manasseh's concubines, Orpah and Chilion, Tahpenes and Pharaoh, and the kings' mothers each with the son she bare the king.
+- People: 23 people the text describes but never names, each with its verses: Lot's wife and daughters, Pharaoh's daughter, the queen of Sheba, Peter's wife's mother, the daughter of Herodias and others. Parthians are added.
 - People: brothers and sisters now include children the text gives the same father or mother, with both verses (984 people).
 - People: Areus, Eubulus, I-chabod, So, Shamed, On, Ephod and Ox are added, each from the verse that names them.
