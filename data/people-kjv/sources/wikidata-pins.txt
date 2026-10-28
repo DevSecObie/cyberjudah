@@ -297,4 +297,6 @@ celosyria | Q1123749 | 36.2 | 36.15 | Coele-Syria
 ecbatana | Q696193 | 34.8065 | 48.5162 | Ecbatana
 elymais | Q1275158 | 32.3167 | 48.4333 | Elymais
 tigris | Q35591 | 38.5032 | 39.5058 | Tigris
+tanis | Q210598 | 30.9769 | 31.88 | Tanis
+scythopolis | Q3517238 | 32.5046 | 35.504 | Scythopolis
 colosse | Q1001370 | 37.7906 | 29.2592 | Colossae

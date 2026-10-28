@@ -1,0 +1,132 @@
+# Judith. key | Name | forms | verses | type | description
+nabuchodonosor-j | Nabuchodonosor | Nabuchodonosor | * | M | "Nabuchodonosor, who reigned in Nineve, the great city", "king of the Assyrians", who made war with Arphaxad and sent Holofernes against the west (Judith 1:1, 1:7, 2:1-4)
+nineveh | | Nineve | * | + |
+arphaxad-m | Arphaxad | Arphaxad | * | M | "Arphaxad, which reigned over the Medes in Ecbatane", overthrown by Nabuchodonosor (Judith 1:1-15)
+medes | | Medes | * | + |
+ecbatana | | Ecbatane | * | + |
+euphrates | | Euphrates | * | + |
+tigris | | Tigris | * | + |
+arioch-e | Arioch | Arioch | * | M | "Arioch the king of the Elymeans" (Judith 1:6)
+elymeans | Elymeans | Elymeans | * | G | Whose king was Arioch (Judith 1:6)
+chelod | Chelod | Chelod | * | G | "Very many nations of the sons of Chelod" (Judith 1:6)
+assyrians | | Assyrians | * | + |
+persia | | Persia | * | + |
+damascus | | Damascus | * | + |
+lebanon | | Libanus | * | + |
+carmel | | Carmel | * | + |
+gilead | | Galaad | * | + |
+galilee | | Galilee | * | + |
+samaria | | Samaria | * | + |
+jordan | | Jordan | * | + |
+jerusalem | | Jerusalem | * | + |
+kadesh | | Kades;Cades-Barne | * | + |
+egypt | | Egypt | * | + |
+tahpanhes | | Taphnes | * | + |
+rameses | | Ramesse | * | + |
+goshen | | Gesem | * | + |
+memphis | | Memphis | * | + |
+ethiopia | | Ethiopia | * | + |
+syria | | Syria | * | + |
+moab-land | | Moab | 1:12 | + |
+moabites | | Moab;Moabites | !1:12 | + |
+ammon | | Ammon;Ammonite | * | + |
+judea | | Judea | * | + |
+holofernes | Holofernes | Holofernes | * | M | "The chief captain of his army, which was next unto him", sent by Nabuchodonosor against the west; Judith smote off his head in his tent (Judith 2:4, 13:6-9)
+assyria | | Assur | * | + |
+ishmael | | Ismael | * | + |
+mesopotamia | | Mesopotamia | * | + |
+arabia | | Arabia | * | + |
+midianites | | Madian | * | + |
+sidon-place | | Sidon | * | + |
+tyre | | Tyrus | * | + |
+ashkelon | | Ascalon | * | + |
+geba | | Geba | * | + |
+israel-people | | Israel;Israelites | !8:1 | + |
+jacob | | Israel | 8:1 | + |
+jacob | | Jacob | * | + |
+beth-horon | | Bethoron | * | + |
+jericho | | Jericho | * | + |
+salem | | Salem | * | + |
+joacim-hp | Joacim | Joacim | * | M | "Joacim the high priest, which was in those days in Jerusalem" (Judith 4:6, 4:8, 4:14, 15:8)
+canaanites | | Chanaan;Chanaanite | 5:3,5:16 | + |
+canaan-land | | Chanaan | 5:9,5:10 | + |
+achior | Achior | Achior | * | M | "The captain of all the sons of Ammon", who told Holofernes of Israel; he was given to the children of Israel, believed in God and was circumcised (Judith 5:5-21, 6:10-13, 14:10)
+chaldees | | Chaldeans;Chaldea | * | + |
+egyptian | | Egyptians | * | + |
+sinai | | Sina | * | + |
+amorite | | Amorites | * | + |
+heshbon | | Esebon | * | + |
+perizzites | | Pherezite | * | + |
+jebusite | | Jebusite | * | + |
+sychemites | Sychemite | Sychemite | * | G | Cast out before Israel with the Chanaanite, the Pherezite and the Jebusite (Judith 5:16)
+girgasite | | Gergesites | * | + |
+ephraim | | Ephraim | * | + |
+ozias-j | Ozias | Ozias | * | M | "Ozias the son of Micha, of the tribe of Simeon", a governor of Bethulia (Judith 6:15, 8:10, 15:4)
+micha-j | Micha | Micha | * | M | The father of Ozias (Judith 6:15)
+simeon | | Simeon | * | + |
+chabris | Chabris | Chabris | * | M | "Chabris the son of Gothoniel", one of the governors of Bethulia (Judith 6:15, 8:10, 10:6)
+gothoniel | Gothoniel | Gothoniel | * | M | The father of Chabris (Judith 6:15)
+charmis | Charmis | Charmis | * | M | "Charmis the son of Melchiel", one of the governors of Bethulia (Judith 6:15, 8:10, 10:6)
+melchiel | Melchiel | Melchiel | * | M | The father of Charmis (Judith 6:15)
+esau | | Esau | * | + |
+judith-m | Judith | Judith | * | F | "The daughter of Merari", a widow of Bethulia, who went out to Holofernes and smote off his head; she lived an hundred and five years (Judith 8:1-8, 13:6-10, 16:23)
+merari-j | Merari | Merari | * | M | The father of Judith, "the son of Ox, the son of Joseph" (Judith 8:1, 16:7)
+joseph-j | Joseph | Joseph | * | M | In the line of Judith, the son of Oziel (Judith 8:1)
+oziel | Oziel | Oziel | * | M | In the line of Judith, the son of Elcia, father of Joseph (Judith 8:1)
+elcia | Elcia | Elcia | * | M | In the line of Judith, the son of Ananias, father of Oziel (Judith 8:1)
+ananias-j | Ananias | Ananias | * | M | In the line of Judith, the son of Gedeon, father of Elcia (Judith 8:1)
+gedeon-j | Gedeon | Gedeon | * | M | In the line of Judith, the son of Raphaim, father of Ananias (Judith 8:1)
+raphaim | Raphaim | Raphaim | * | M | In the line of Judith, the son of Acitho, father of Gedeon (Judith 8:1)
+acitho | Acitho | Acitho | * | M | In the line of Judith, the son of Eliu, father of Raphaim (Judith 8:1)
+eliu | Eliu | Eliu | * | M | In the line of Judith, the son of Eliab, father of Acitho (Judith 8:1)
+eliab-jd | Eliab | Eliab | * | M | In the line of Judith, the son of Nathanael, father of Eliu (Judith 8:1)
+nathanael-j | Nathanael | Nathanael | * | M | In the line of Judith, the son of Samael, father of Eliab (Judith 8:1)
+samael | Samael | Samael | * | M | In the line of Judith, the son of Salasadai, father of Nathanael (Judith 8:1)
+salasadai | Salasadai | Salasadai | * | M | In the line of Judith: "the son of Salasadai, the son of Israel" (Judith 8:1)
+manasses-j | Manasses | Manasses | * | M | Judith's husband, "of her tribe and kindred, who died in the barley harvest" in Bethulia (Judith 8:2-3, 8:7, 16:22-24)
+gentiles | | Gentiles | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+laban | | Laban | * | + |
+sion-z | | Sion | * | + |
+hebrew | | Hebrews;Hebrew | * | + |
+bagoas | Bagoas | Bagoas | * | M | "Bagoas the eunuch, who had charge over all that he had", Holofernes' servant (Judith 12:11-15, 13:1-3, 14:14)
+judah | | Juda | * | + |
+waken | Waken | Waken | * | X | Not a name: "Waken now our lord" (Judith 14:13); not a person in People
+titans | Titans | Titans | * | G | "Neither did the sons of the Titans smite him, nor high giants set upon him" (Judith 16:7)
+persians | | Persians | * | + |
+ragau | Ragau | Ragau | * | P | "The plain in the borders of Ragau" (Judith 1:5, 1:15)
+hydaspes | Hydaspes | Hydaspes | * | P | A river named with Euphrates and Tigris (Judith 1:6)
+cilicia | | Cilicia | * | + |
+antilibanus | Antilibanus | Antilibanus | * | P | Named with Libanus (Judith 1:7)
+betane | Betane | Betane | * | P | Named among the places Nabuchodonosor sent unto (Judith 1:9)
+chellus | Chellus | Chellus | * | P | Named among the places Nabuchodonosor sent unto (Judith 1:9)
+tanis | Tanis | Tanis | * | P | Named with Memphis among the places Nabuchodonosor sent unto (Judith 1:10)
+bectileth | Bectileth | Bectileth | * | P | "The plain of Bectileth" (Judith 2:21)
+phud | Phud | Phud | * | P | Destroyed by Holofernes with Lud (Judith 2:23)
+lud-j | Lud | Lud | * | P | Destroyed by Holofernes with Phud (Judith 2:23)
+rasses | Rasses | Rasses | * | G | "All the children of Rasses", spoiled by Holofernes with "the children of Ismael" (Judith 2:23)
+chellians | Chellians | Chellians | * | G | "The land of the Chellians" (Judith 2:23)
+arbonai | Arbonai | Arbonai | * | P | "The river Arbonai" (Judith 2:24)
+japheth-j | Japheth | Japheth | * | P | "The borders of Japheth, which were toward the south, over against Arabia" (Judith 2:25)
+sur-j | Sur | Sur | * | P | Named with Ocina among the sea coasts (Judith 2:28)
+ocina | Ocina | Ocina | * | P | Named with Sur among the sea coasts (Judith 2:28)
+jemnaan | Jemnaan | Jemnaan | * | P | Named among the sea coasts (Judith 2:28)
+azotus | | Azotus | * | + |
+scythopolis | Scythopolis | Scythopolis | * | P | Holofernes pitched between Geba and Scythopolis (Judith 3:10)
+belmen | Belmen | Belmen | * | P | Named among the coasts of Samaria (Judith 4:4)
+choba | Choba | Choba | * | P | Named among the coasts of Samaria (Judith 4:4)
+esora | Esora | Esora | * | P | Named among the coasts of Samaria (Judith 4:4)
+bethulia | Bethulia | Bethulia | * | P | The city of Judith, besieged by Holofernes (Judith 4:6, 7:1-20, 8:3, 16:21-23)
+betomestham | Betomestham | Betomestham;Betomasthem | * | P | "Over against Esdraelon toward the open country, near to Dothaim" (Judith 4:6, 15:4)
+esdraelon | Esdraelon | Esdraelon;Esdrelom;Esdraelom | * | P | "The great plain of Esdrelom"; "over against Esdraelon" (Judith 1:8, 3:9, 4:6, 7:3)
+dothaim | Dothaim | Dothaim | * | P | Near to Bethulia (Judith 4:6, 7:3, 7:18, 8:3)
+belmaim | Belmaim | Belmaim | * | P | Holofernes' camp spread over Dothaim even to Belmaim (Judith 7:3)
+cyamon | Cyamon | Cyamon | * | P | "Cyamon, which is over against Esdraelom" (Judith 7:3)
+ekrebel | Ekrebel | Ekrebel | * | P | "Ekrebel, which is near unto Chusi, that is upon the brook Mochmur" (Judith 7:18)
+chusi | Chusi | Chusi | * | P | Near Ekrebel, upon the brook Mochmur (Judith 7:18)
+mochmur | Mochmur | Mochmur | * | P | "The brook Mochmur" (Judith 7:18)
+balamo | Balamo | Balamo | * | P | Manasses was buried "in the field between Dothaim and Balamo" (Judith 8:3)
+bebai-place | Bebai | Bebai | * | P | To which Ozias sent word (Judith 15:4)
+chobai | Chobai | Chobai | * | P | To which Ozias sent word (Judith 15:4-5)
+cola | Cola | Cola | * | P | To which Ozias sent word (Judith 15:4)

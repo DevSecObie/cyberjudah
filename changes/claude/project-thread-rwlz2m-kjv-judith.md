@@ -1,0 +1,1 @@
+- People (KJV): add Judith (Judith and her line in 8:1, Holofernes, Achior, Ozias, Bagoas, Joacim the high priest and others) and 31 places, with Tanis and Scythopolis pinned.
