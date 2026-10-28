@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Habakkuk added (Habakkuk the prophet; the tents of Cushan, 3:7).
