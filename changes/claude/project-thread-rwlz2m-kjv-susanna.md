@@ -1,0 +1,1 @@
+- Susanna: adds Joacim, Susanna and Chelcias with the KJV ties (daughter of Chelcias, wife of Joacim) and links Daniel, Moses, Babylon and the other names it mentions to their existing records.
