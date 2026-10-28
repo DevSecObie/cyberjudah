@@ -1,0 +1,14 @@
+# Jude. key | Name | forms | verses | type | description
+jude | Jude | Jude | * | M | "Jude, the servant of Jesus Christ, and brother of James" (Jude 1:1)
+jesus | | Jesus;Christ | * | + |
+james-ju | James | James | * | M | The brother of Jude (Jude 1:1)
+egypt | | Egypt | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrha | * | + |
+michael-ar | Michael | Michael | * | U | "Michael the archangel, when contending with the devil he disputed about the body of Moses" (Jude 1:9)
+moses | | Moses | * | + |
+cain | | Cain | * | + |
+balaam | | Balaam | * | + |
+korah-i | | Core | * | + |
+enoch | | Enoch | * | + |
+adam | | Adam | * | + |
