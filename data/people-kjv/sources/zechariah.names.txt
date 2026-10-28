@@ -1,0 +1,61 @@
+# Zechariah. key | Name | forms | verses | type | description
+darius-p | | Darius | * | + |
+zechariah-iddo | | Zechariah | * | + |
+berechiah-zc | Berechiah | Berechiah | * | M | The son of Iddo, father of Zechariah the prophet (Zechariah 1:1, 1:7)
+iddo-z | | Iddo | * | + |
+sebat | Sebat | Sebat | * | X | "The eleventh month, which is the month Sebat" (Zechariah 1:7); not a person in People
+jerusalem | | Jerusalem | * | + |
+judah | | Judah | * | + |
+zion | | Zion | * | + |
+israel-people | | Israel | * | + |
+gentiles | | Gentiles | * | + |
+babylon | | Babylon | * | + |
+jeshua-hp | | Joshua | * | + |
+jozadak | | Josedech | * | + |
+satan | | Satan | * | + |
+zerubbabel | | Zerubbabel | * | + |
+shinar | | Shinar | * | + |
+heldai-z | Heldai | Heldai | * | M | One of the captivity, come from Babylon, of whom silver and gold were taken to make crowns for Joshua the high priest (Zechariah 6:10-11)
+helem-z | Helem | Helem | * | M | To whom, with Tobijah, Jedaiah and Hen, the crowns shall be "for a memorial in the temple of the Lord" (Zechariah 6:14)
+tobijah-z | Tobijah | Tobijah | * | M | One of the captivity, come from Babylon; the crowns shall be to him for a memorial (Zechariah 6:10, 6:14)
+jedaiah-zc | Jedaiah | Jedaiah | * | M | One of the captivity, come from Babylon; the crowns shall be to him for a memorial (Zechariah 6:10, 6:14)
+josiah-z | Josiah | Josiah | * | M | The son of Zephaniah, into whose house they came from Babylon (Zechariah 6:10)
+zephaniah-zc | Zephaniah | Zephaniah | * | M | The father of Josiah and of Hen (Zechariah 6:10, 6:14)
+hen | Hen | Hen | * | M | The son of Zephaniah, to whom the crowns shall be for a memorial (Zechariah 6:14)
+chisleu-month | | Chisleu | * | + |
+sherezer | Sherezer | Sherezer | * | M | Sent with Regem-melech and their men unto the house of God to pray before the Lord (Zechariah 7:2)
+regem-melech | Regem-melech | Regem-melech | * | M | Sent with Sherezer and their men unto the house of God to pray before the Lord (Zechariah 7:2)
+jews | | Jew | * | + |
+hadrach | Hadrach | Hadrach | * | P | "The burden of the word of the Lord in the land of Hadrach" (Zechariah 9:1)
+damascus | | Damascus | * | + |
+hamath | | Hamath | * | + |
+tyre | | Tyrus | * | + |
+sidon-place | | Zidon | * | + |
+ashkelon | | Ashkelon | * | + |
+gaza | | Gaza | * | + |
+ekron | | Ekron | * | + |
+ashdod | | Ashdod | * | + |
+philistines | | Philistines | * | + |
+jebusite | | Jebusite | * | + |
+ephraim | | Ephraim | * | + |
+greece | Greece | Greece | * | P | "When I have ... raised up thy sons, O Zion, against thy sons, O Greece" (Zechariah 9:13)
+joseph | | Joseph | * | + |
+egypt | | Egypt | * | + |
+assyria | | Assyria | * | + |
+gilead | | Gilead | * | + |
+lebanon | | Lebanon | * | + |
+bashan | | Bashan | * | + |
+jordan | | Jordan | * | + |
+david | | David | * | + |
+hadadrimmon | Hadadrimmon | Hadadrimmon | * | P | "As the mourning of Hadadrimmon in the valley of Megiddon" (Zechariah 12:11)
+megiddo | | Megiddon | * | + |
+nathan-zc | Nathan | Nathan | * | M | "The family of the house of Nathan apart", that shall mourn (Zechariah 12:12)
+levi | | Levi | * | + |
+shimei-zc | Shimei | Shimei | * | M | "The family of Shimei apart", that shall mourn (Zechariah 12:13)
+azal | Azal | Azal | * | P | Unto which the valley of the mountains shall reach (Zechariah 14:5)
+azariah-k | | Uzziah | * | + |
+geba | | Geba | * | + |
+rimmon | | Rimmon | * | + |
+benjamin | | Benjamin | * | + |
+hananeel | | Hananeel | * | + |
+canaanites | | Canaanite | * | + |
