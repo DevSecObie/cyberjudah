@@ -1,0 +1,1 @@
+- People (KJV): add Ecclesiasticus: Jesus the son of Sirach, Sirach, Simon the high priest son of Onias, the Tyrians, and the verses of the praise of famous men (44-50) on 68 existing records.

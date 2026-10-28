@@ -1,0 +1,74 @@
+# Ecclesiasticus (Sirach). key | Name | forms | verses | type | description
+ophir-place | | Ophir | * | + |
+lot | | Lot | * | + |
+pharaoh-e | | Pharaoh | * | + |
+israel-people | | Israel | * | + |
+satan | | Satan | * | + |
+jacob | | Jacob | * | + |
+sion-z | | Sion | * | + |
+jerusalem | | Jerusalem | * | + |
+lebanon | | Libanus | * | + |
+hermon | | Hermon | * | + |
+en-gedi | | En-gaddi | * | + |
+jericho | | Jericho | * | + |
+moses | | Moses | * | + |
+pison | | Phison | * | + |
+tigris | | Tigris | * | + |
+euphrates | | Euphrates | * | + |
+jordan | | Jordan | * | + |
+gihon | | Geon | * | + |
+adam | | Adam | * | + |
+aaron | | Aaron | * | + |
+enoch | | Enoch | * | + |
+noah | | Noah | * | + |
+abraham | | Abraham | * | + |
+isaac | | Isaac | * | + |
+levi | | Levi | * | + |
+dathan | | Dathan | * | + |
+abiram | | Abiron | * | + |
+korah-i | | Core | * | + |
+phinehas | | Phinees | * | + |
+eleazar | | Eleazar | * | + |
+david | | David | * | + |
+jesse | | Jesse | * | + |
+judah | | Juda | * | + |
+joshua | | Jesus | 46:1 | + |
+jeshua-hp | | Jesus | 49:12 | + |
+jesus-s | Jesus | Jesus | 50:27 | M | "Jesus the son of Sirach of Jerusalem", who "hath written in this book the instruction of understanding and knowledge" (Ecclesiasticus 50:27)
+nun | | Nave | * | + |
+beth-horon | | Beth-horon | * | + |
+caleb | | Caleb | * | + |
+jephunneh | | Jephunne | * | + |
+samuel | | Samuel | * | + |
+tyrians | Tyrians | Tyrians | * | G | "He destroyed the rulers of the Tyrians, and all the princes of the Philistines" (Ecclesiasticus 46:18)
+philistines | | Philistines | * | + |
+nathan | | Nathan | * | + |
+goliath | | Goliath | * | + |
+solomon | | Solomon | * | + |
+ephraim | | Ephraim | * | + |
+rehoboam | | Roboam | * | + |
+jeroboam | | Jeroboam | * | + |
+nebat | | Nebat | * | + |
+elijah | | Elias | * | + |
+sinai | | Sinai | * | + |
+horeb | | Horeb | * | + |
+elisha | | Eliseus | * | + |
+hezekiah | | Ezekias | * | + |
+sennacherib | | Sennacherib | * | + |
+rab-shakeh | | Rabsaces | * | + |
+isaiah | | Esay | * | + |
+assyrians | | Assyrians | * | + |
+josiah | | Josias | * | + |
+jeremiah-p | | Jeremias | * | + |
+ezekiel | | Ezekiel | * | + |
+zerubbabel | | Zorobabel | * | + |
+jozadak | | Josedec | * | + |
+nehemiah-h | | Neemias | * | + |
+joseph | | Joseph | * | + |
+shem | | Sem | * | + |
+seth | | Seth | * | + |
+simon-hp | Simon | Simon | * | M | "Simon the high priest, the son of Onias, who in his life repaired the house again, and in his days fortified the temple" (Ecclesiasticus 50:1-21)
+onias-s | Onias | Onias | * | M | The father of Simon the high priest (Ecclesiasticus 50:1)
+samaria | | Samaria | * | + |
+shechem-place | | Sichem | * | + |
+sirach | Sirach | Sirach | * | M | The father of Jesus, who wrote the book (Ecclesiasticus 50:27)
