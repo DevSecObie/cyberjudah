@@ -1,0 +1,26 @@
+# Colossians. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | !4:11=Jesus | + |
+timothy | | Timotheus | * | + |
+colosse | Colosse | Colosse | * | P | "To the saints and faithful brethren in Christ which are at Colosse" (Colossians 1:2)
+epaphras | Epaphras | Epaphras | * | M | "Our dear fellowservant, who is for you a faithful minister of Christ"; "who is one of you"; Paul's "fellowprisoner in Christ Jesus" (Colossians 1:7, 4:12; Philemon 1:23)
+gentiles | | Gentiles | * | + |
+laodicea | Laodicea | Laodicea | * | P | "Them that are in Laodicea"; "the epistle from Laodicea" (Colossians 2:1, 4:13-16)
+grecians | | Greek | * | + |
+jews | | Jew | * | + |
+scythian | Scythian | Scythian | * | G | "Barbarian, Scythian, bond nor free: but Christ is all, and in all" (Colossians 3:11)
+tychicus | | Tychicus | * | + |
+onesimus | Onesimus | Onesimus | * | M | "A faithful and beloved brother, who is one of you"; "my son Onesimus, whom I have begotten in my bonds", sent back to Philemon "not now as a servant, but above a servant, a brother beloved" (Colossians 4:9; Philemon 1:10-16)
+aristarchus | | Aristarchus | * | + |
+marcus | Marcus | Marcus | * | M | "Marcus, sister's son to Barnabas"; one of Paul's fellowlabourers (Colossians 4:10; Philemon 1:24)
+barnabas | | Barnabas | * | + |
+jesus-j | Justus | Jesus;Justus | 4:11 | M | "Jesus, which is called Justus", one of them "of the circumcision" that were Paul's fellowworkers (Colossians 4:11)
+hierapolis | Hierapolis | Hierapolis | * | P | "Them in Hierapolis" (Colossians 4:13)
+luke | | Luke | * | + |
+demas | Demas | Demas | * | M | One of Paul's fellowlabourers, who greeted the Colossians; "Demas hath forsaken me, having loved this present world" (Colossians 4:14; Philemon 1:24; 2 Timothy 4:10)
+nymphas | Nymphas | Nymphas | * | M | "Nymphas, and the church which is in his house" (Colossians 4:15)
+laodiceans | Laodiceans | Laodiceans | * | G | "The church of the Laodiceans" (Colossians 4:16)
+archippus | Archippus | Archippus | * | M | "Take heed to the ministry which thou hast received in the Lord"; "Archippus our fellowsoldier" (Colossians 4:17; Philemon 1:2)
+rome | | Rome | * | + |
+colossians | Colossians | Colossians | * | G | To whom the epistle was "Written from Rome ... by Tychicus and Onesimus" (Colossians 4:18, subscription)
+godhead | | Godhead | * | + |

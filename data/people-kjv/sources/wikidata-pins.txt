@@ -284,3 +284,6 @@ syracuse | Q4420718 | 37.0833 | 15.2833 | Syracuse
 rhegium | Q3429952 | 38.1093 | 15.6439 | Rhegion
 illyricum | Q753824 | 43.8044 | 17.3294 | Illyricum
 spain | Q186513 | 40.21 | -4.35 | Hispania
+laodicea | Q849709 | 37.8358 | 29.1075 | Laodicea on the Lycus
+hierapolis | Q7428276 | 37.925 | 29.1258 | Hierapolis
+colosse | Q1001370 | 37.7906 | 29.2592 | Colossae

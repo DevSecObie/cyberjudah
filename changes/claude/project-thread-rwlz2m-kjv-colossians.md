@@ -1,0 +1,1 @@
+- Colossians: adds Epaphras, Onesimus, Marcus, Jesus called Justus, Demas, Nymphas, Archippus, the Scythians, the Laodiceans and the Colossians, and the places Colosse, Laodicea and Hierapolis, each pinned from Wikidata.
