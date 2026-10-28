@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: 2 Corinthians added (5 new people: Silvanus, Titus, Aretas the king, the Damascenes, and Luke, named Lucas in the epistle's subscription).

@@ -1,0 +1,27 @@
+# 2 Corinthians. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+timothy | | Timothy;Timotheus | * | + |
+corinth | | Corinth | * | + |
+achaia | | Achaia | * | + |
+asia | | Asia | * | + |
+macedonia | | Macedonia | * | + |
+judea | | Judea | * | + |
+silvanus | Silvanus | Silvanus | * | M | Who preached the Son of God among the Corinthians with Paul and Timotheus (2 Corinthians 1:19)
+satan | | Satan | * | + |
+troas | | Troas | * | + |
+titus | Titus | Titus | * | M | "My brother", "my partner and fellowhelper concerning you"; Paul went up to Jerusalem with Barnabas, "and took Titus with me also", who "being a Greek" was not compelled to be circumcised (2 Corinthians 2:13, 8:23; Galatians 2:1-3)
+god-ward | | God-ward | * | + |
+israel-people | | Israel;Israelites | * | + |
+moses | | Moses | * | + |
+corinthians | | Corinthians | * | + |
+belial | | Belial | * | + |
+eve | | Eve | * | + |
+hebrew | | Hebrews | * | + |
+abraham | | Abraham | * | + |
+jews | | Jews | * | + |
+damascus | | Damascus | * | + |
+aretas-d | Aretas | Aretas | * | M | "Aretas the king", under whom the governor of Damascus kept the city to apprehend Paul (2 Corinthians 11:32)
+damascenes | Damascenes | Damascenes | * | G | "The city of the Damascenes" (2 Corinthians 11:32)
+philippi-m | | Philippi | * | + |
+luke | Luke | Lucas;Luke | * | M | "Luke, the beloved physician"; "Only Luke is with me"; one of Paul's fellowlabourers; by "Titus and Lucas" the second epistle to the Corinthians was written (Colossians 4:14; 2 Timothy 4:11; Philemon 1:24; 2 Corinthians 13:14, subscription)
