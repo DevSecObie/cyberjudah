@@ -1,0 +1,9 @@
+# Ephesians. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+ephesus | | Ephesus | * | + |
+gentiles | | Gentiles | * | + |
+israel-people | | Israel | * | + |
+tychicus | | Tychicus | * | + |
+rome | | Rome | * | + |
+ephesians | | Ephesians | * | + |
