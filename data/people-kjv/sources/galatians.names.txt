@@ -1,0 +1,28 @@
+# Galatians. key | Name | forms | verses | type | description
+paul | | Paul | * | + |
+jesus | | Jesus;Christ | * | + |
+galatia | | Galatia | * | + |
+jews | | Jews;Jew | * | + |
+jerusalem | | Jerusalem | * | + |
+arabia | | Arabia | * | + |
+damascus | | Damascus | * | + |
+simon-p | | Peter;Cephas | * | + |
+james-b | | James | 1:19 | + |
+james-jr | | James | 2:9,2:12 | + |
+syria | | Syria | * | + |
+cilicia | | Cilicia | * | + |
+judea | | Judea | * | + |
+barnabas | | Barnabas | * | + |
+titus | | Titus | * | + |
+gentiles | | Gentiles | * | + |
+grecians | | Greek | * | + |
+john-z | | John | * | + |
+antioch | | Antioch | * | + |
+galatians | Galatians | Galatians | * | G | "O foolish Galatians, who hath bewitched you" (Galatians 3:1, 6:18); conquered by the Romans, who "brought them under tribute" (1 Maccabees 8:2)
+abraham | | Abraham | * | + |
+abba | | Abba | * | + |
+sinai | | Sinai | * | + |
+hagar | | Agar | * | + |
+isaac | | Isaac | * | + |
+israel-people | | Israel | * | + |
+rome | | Rome | * | + |

@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Galatians added (the Galatians as a group; Galatians verses added to Peter, James, John, Barnabas, Titus, Abraham, Hagar and Isaac; Arabia, Sinai, Damascus, Syria, Cilicia, Judea, Antioch, Rome and Jerusalem).
