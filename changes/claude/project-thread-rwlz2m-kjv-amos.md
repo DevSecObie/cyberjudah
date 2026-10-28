@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Amos added (Amos; Ben-hadad of Amos 1:4, kept apart because the verse does not say which Ben-hadad; Amaziah the priest of Bethel; Chiun under gods; the plain of Aven and the house of Eden in Syria).
