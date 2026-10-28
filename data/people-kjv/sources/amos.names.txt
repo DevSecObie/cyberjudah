@@ -1,0 +1,57 @@
+# Amos. key | Name | forms | verses | type | description
+amos | Amos | Amos | * | M | "Among the herdmen of Tekoa", who saw words concerning Israel in the days of Uzziah and of Jeroboam the son of Joash; "I was no prophet, neither was I a prophet's son; but I was an herdman, and a gatherer of sycomore fruit" (Amos 1:1, 7:8-15, 8:2)
+tekoah | | Tekoa | * | + |
+israel-people | | Israel | * | + |
+azariah-k | | Uzziah | * | + |
+judah | | Judah | * | + |
+jeroboam-j | | Jeroboam | * | + |
+joash-i | | Joash | * | + |
+zion | | Zion | * | + |
+jerusalem | | Jerusalem | * | + |
+carmel | | Carmel | * | + |
+damascus | | Damascus | * | + |
+gilead | | Gilead | * | + |
+hazael | | Hazael | * | + |
+ben-hadad-am | Ben-hadad | Ben-hadad | * | M | Whose palaces, with the house of Hazael, the Lord will devour with fire (Amos 1:4)
+aven-a | Aven | Aven | * | P | "The plain of Aven", in Syria (Amos 1:5)
+eden-s | Eden | Eden | * | P | "The house of Eden", whose sceptre the Lord will cut off, in Syria (Amos 1:5)
+syria | | Syria | * | + |
+kir | | Kir | * | + |
+gaza | | Gaza | * | + |
+edom-land | | Edom | * | + |
+ashdod | | Ashdod | * | + |
+ashkelon | | Ashkelon | * | + |
+ekron | | Ekron | * | + |
+philistines | | Philistines | * | + |
+tyre | | Tyrus | * | + |
+teman | | Teman | * | + |
+bozrah | | Bozrah | * | + |
+ammon | | Ammon | * | + |
+rabbah | | Rabbah | * | + |
+moab-land | | Moab | * | + |
+kerioth-m | | Kerioth | * | + |
+amorite | | Amorite | * | + |
+egypt | | Egypt | * | + |
+nazarite | | Nazarites | * | + |
+samaria | | Samaria | * | + |
+jacob | | Jacob | * | + |
+beth-el | | Beth-el | * | + |
+bashan | | Bashan | * | + |
+gilgal | | Gilgal | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrah | * | + |
+beer-sheba | | Beer-sheba | * | + |
+joseph | | Joseph | * | + |
+orion | | Orion | * | + |
+molech | | Moloch | * | + |
+chiun | Chiun | Chiun | * | D | "The tabernacle of your Moloch and Chiun your images, the star of your god" (Amos 5:26)
+calneh | | Calneh | * | + |
+hamath | | Hamath;Hemath | * | + |
+gath | | Gath | * | + |
+david | | David | * | + |
+isaac | | Isaac | * | + |
+amaziah-be | Amaziah | Amaziah | * | M | The priest of Beth-el, who sent to Jeroboam against Amos and bade Amos flee into Judah; "Thy wife shall be an harlot in the city" (Amos 7:10-17)
+dan-place | | Dan | * | + |
+ethiopian | | Ethiopians | * | + |
+caphtor | | Caphtor | * | + |
+syrians | | Syrians | * | + |
