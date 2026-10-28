@@ -295,4 +295,6 @@ smyrna | Q1379299 | 38.4186 | 27.1428 | Smyrna
 armageddon | Q193151 | 32.585 | 35.185 | Armageddon
 celosyria | Q1123749 | 36.2 | 36.15 | Coele-Syria
 ecbatana | Q696193 | 34.8065 | 48.5162 | Ecbatana
+elymais | Q1275158 | 32.3167 | 48.4333 | Elymais
+tigris | Q35591 | 38.5032 | 39.5058 | Tigris
 colosse | Q1001370 | 37.7906 | 29.2592 | Colossae
