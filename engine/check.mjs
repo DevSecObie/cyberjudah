@@ -1,11 +1,5 @@
 import fs from "node:fs";
-import { execFileSync } from "node:child_process";
-import { validatePeople } from "./people-validation.mjs";
-import { changedPersonIds, validateReciprocity } from "./people-reciprocity.mjs";
-import { validatePeopleEvidence } from "./people-evidence.mjs";
-import { validateLines, validateLinks } from "./people-lines.mjs";
-import { validatePlaces } from "./places-validation.mjs";
-import { loadKjvPeople, validateKjvPeople } from "./people-kjv.mjs";
+import { loadKjvPeople, validateKjvPeople, validateKjvPlaces } from "./people-kjv.mjs";
 import { loadDoctrine } from "./doctrine.mjs";
 // The link checker. The Docusaurus build used to be the gate (onBrokenLinks: throw); this
 // does the same job against the library itself, in a few seconds, with no site build:
@@ -13,11 +7,8 @@ import { loadDoctrine } from "./doctrine.mjs";
 // precept, case or encyclopedia entry the library knows.
 //
 //   node engine/check.mjs                           exit 1 on any broken link
-//   PEOPLE_BASE=<commit> node engine/check.mjs       also: every person a batch added or
-//                                                    edited since <commit> names its family
-//                                                    back (engine/people-reciprocity.mjs)
-//                                                    and cites only verses that name them
-//                                                    (engine/people-evidence.mjs)
+// It also checks the People and Places rebuilt from the KJV (engine/people-kjv.mjs): every verse
+// names the person or place, and every family link is recorded both ways with its verses.
 import { loadLibrary } from "./library.mjs";
 import { validVerseRange, duplicateUrls } from "./validation.mjs";
 import { validateCases } from "./case-validation.mjs";
@@ -26,29 +17,13 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const allowCaseErrors = process.argv.includes("--allow-case-errors");
-const peopleDoc = JSON.parse(fs.readFileSync(path.join(ROOT, "data/people/people.json"), "utf8"));
-const peopleProblems = [...validatePeople(peopleDoc), ...validateLines(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") }), ...validateLinks(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") })];
-const peopleBase = process.env.PEOPLE_BASE;
-if (peopleBase && !/^0+$/.test(peopleBase)) { // a push creating a branch gives the all-zero SHA; nothing to diff against
-  if (!/^[a-f0-9]{7,40}$/.test(peopleBase)) throw new Error("PEOPLE_BASE must be a commit SHA");
-  try { execFileSync("git", ["cat-file", "-e", `${peopleBase}^{commit}`], { encoding: "utf8" }); }
-  catch { throw new Error(`PEOPLE_BASE ${peopleBase} is not a known commit`); } // an unknown base must not fall through to "check the whole catalog"
-  let beforeDoc = null;
-  try { beforeDoc = JSON.parse(execFileSync("git", ["show", `${peopleBase}:data/people/people.json`], { encoding: "utf8", maxBuffer: 50_000_000 })); }
-  catch { beforeDoc = { people: [] }; } // the commit exists; the file did not exist at that commit
-  const { exceptions } = JSON.parse(fs.readFileSync(path.join(ROOT, "engine/people-reciprocity-exceptions.json"), "utf8"));
-  const changed = changedPersonIds(beforeDoc, peopleDoc);
-  peopleProblems.push(...validateReciprocity(peopleDoc, changed, exceptions));
-  console.error(`people: ${changed.length} person(s) changed since ${peopleBase}, checked for two-way relationships`);
-  const { exceptions: evidenceExceptions } = JSON.parse(fs.readFileSync(path.join(ROOT, "engine/people-evidence-exceptions.json"), "utf8"));
-  peopleProblems.push(...validatePeopleEvidence(peopleDoc, changed, { bibleDir: path.join(ROOT, "data/bible"), exceptions: evidenceExceptions, beforeDoc }));
-  console.error(`people: ${changed.length} person(s) changed since ${peopleBase}, checked for scripture evidence`);
-}
+const bibleDir = path.join(ROOT, "data/bible");
 const kjvDir = path.join(ROOT, "data/people-kjv"); // the catalog rebuilt from the KJV: books with sources must be built
+const peopleProblems = [];
 if (fs.existsSync(path.join(kjvDir, "sources")) && !fs.existsSync(path.join(kjvDir, "people.json"))) peopleProblems.push("people-kjv: people.json is missing; run scripts/people-kjv/build.py");
-peopleProblems.push(...validateKjvPeople(loadKjvPeople(kjvDir), { bibleDir: path.join(ROOT, "data/bible") }));
+peopleProblems.push(...validateKjvPeople(loadKjvPeople(kjvDir), { bibleDir }));
 if (peopleProblems.length) { for (const message of peopleProblems) console.error(message); process.exit(1); }
-const placesProblems = validatePlaces(JSON.parse(fs.readFileSync(path.join(ROOT, "data/places/places.json"), "utf8")));
+const placesProblems = validateKjvPlaces(JSON.parse(fs.readFileSync(path.join(ROOT, "data/places-kjv/places.json"), "utf8")).places, { bibleDir });
 if (placesProblems.length) { for (const message of placesProblems) console.error(message); process.exit(1); }
 const doctrineProblems = loadDoctrine(ROOT).problems; // data/doctrine.json: every answer points at a real pass breakdown
 if (doctrineProblems.length) { for (const message of doctrineProblems) console.error(`doctrine: ${message}`); process.exit(1); }

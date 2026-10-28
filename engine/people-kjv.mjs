@@ -79,3 +79,32 @@ export function validateKjvPeople(people, { bibleDir }) {
   }
   return problems;
 }
+
+/** The places rebuilt from the KJV (data/places-kjv/places.json): every verse a place cites must
+ * name it, and a map pin, where there is one, is the exact Wikidata item with its link. */
+export function validateKjvPlaces(places, { bibleDir }) {
+  const problems = [];
+  const cache = new Map();
+  const seen = new Set();
+  for (const p of places) {
+    const where = `places-kjv: ${p.id}`;
+    if (seen.has(p.id)) problems.push(`${where} appears twice`);
+    seen.add(p.id);
+    if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(p.id ?? '')) problems.push(`${where}: bad id`);
+    if (!p.name || !Array.isArray(p.names) || !p.names.includes(p.name)) problems.push(`${where}: name must be one of names`);
+    if (!p.description) problems.push(`${where}: no description`);
+    if (!p.verses?.length) problems.push(`${where}: no verses`);
+    const patterns = (p.names ?? []).map(namePattern);
+    for (const ref of p.verses ?? []) {
+      const text = verseText(ref, bibleDir, cache);
+      if (text === null) problems.push(`${where}: ${ref} is not a verse`);
+      else if (!patterns.some((re) => re.test(text))) problems.push(`${where}: ${ref} does not name ${p.names.join(' or ')}`);
+    }
+    if (p.pin) {
+      const { lat, lon, wikidata, url } = p.pin;
+      if (!(Number.isFinite(lat) && Math.abs(lat) <= 90 && Number.isFinite(lon) && Math.abs(lon) <= 180)) problems.push(`${where}: pin needs a latitude and longitude`);
+      if (!/^Q\d+$/.test(wikidata ?? '') || url !== `https://www.wikidata.org/wiki/${wikidata}`) problems.push(`${where}: pin needs its Wikidata item and link`);
+    }
+  }
+  return problems;
+}

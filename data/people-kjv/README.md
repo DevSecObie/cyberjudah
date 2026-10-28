@@ -1,7 +1,7 @@
 # People from the KJV
 
 The People catalog, rebuilt from the text of the King James Version with the Apocrypha
-alone. It will replace `data/people/people.json` once every book is done. Nothing here
+alone. The engine builds the People pages from it. Nothing here
 comes from STEPBible or TIPNR.
 
 Each book has two hand-kept files, read in Bible order, and all books build into one

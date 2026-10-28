@@ -59,19 +59,23 @@ test("the JSON the front ends read is served", async () => {
   assert.equal(api.downloads.vault, "/downloads/vault.zip");
 });
 
-test("people records carry their lines, links and evidence, with the verses", async () => {
-  const people = JSON.parse(fs.readFileSync(path.join(root, "data/people/people.json"))).people;
+test("people and places are built from the KJV, with evidence and verses", async () => {
+  const people = JSON.parse(fs.readFileSync(path.join(root, "data/people-kjv/people.json"))).people;
   const pick = (list) => list.map(({ id, verses }) => ({ id, verses })).sort((a, b) => a.id.localeCompare(b.id));
   const mattathias = await (await get("/api/people/mattathias-1ma-2-1.json")).json();
   assert.deepEqual(pick(mattathias.line), pick(people.find((p) => p.id === "mattathias-1ma-2-1").line));
-  assert.deepEqual(mattathias.priestly.map((e) => [e.id, e.evidenceLabel]), [["joarib-1ma-2-1", "Scripturally confirmed"]]);
+  assert.deepEqual(mattathias.line.map((e) => [e.id, e.evidenceLabel]), [["jehoiarib-1ch-24-7", "Historically identified"]]);
+  assert.ok(mattathias.line[0].sources.every((s) => s.url.startsWith("https://")));
   const jehoiarib = await (await get("/api/people/jehoiarib-1ch-24-7.json")).json();
-  const expected = people.flatMap((p) => (p.same ?? []).filter((e) => e.id === "jehoiarib-1ch-24-7").map((e) => ({ id: p.id, verses: e.verses })));
-  assert.deepEqual(pick(jehoiarib.alsoNamed), pick(expected));
-  assert.ok(jehoiarib.alsoNamed.every((e) => e.evidenceLabel === "Parallel identification"));
-  const nehemiah = await (await get("/api/people/nehemiah-neh-1-1.json")).json();
-  assert.deepEqual(nehemiah.titles.map((t) => t.title), ["Tirshatha", "Attharates"]);
-  assert.ok(!nehemiah.names.includes("Attharates"));
+  assert.ok(jehoiarib.descendants.some((e) => e.id === "mattathias-1ma-2-1"));
+  const aaron = await (await get("/api/people/aaron-exo-4-14.json")).json();
+  assert.equal(aaron.tribe, "Tribe of Levi");
+  assert.deepEqual(aaron.father.map((e) => [e.id, e.evidenceLabel]), [["amram-exo-6-18", "Scripturally confirmed"]]);
+  assert.equal(aaron.source.license, "Public domain");
+  const havilah = await (await get("/api/places/havilah-gen-2-11.json")).json();
+  assert.deepEqual(havilah.coords, [havilah.pin.lat, havilah.pin.lon]);
+  assert.equal(havilah.pin.url, "https://www.wikidata.org/wiki/Q1591658");
+  assert.doesNotMatch(JSON.stringify([aaron, havilah]), /STEPBible|TIPNR/);
 });
 
 test("the data Worker packages successfully without deploying", () => {

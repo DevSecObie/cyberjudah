@@ -22,7 +22,7 @@ not needed.
 | `blog/<year>/*.md` | Sabbath class notes |
 | `captains/<year>/*.md` | 15 Minutes w/ The Captains |
 | `data/bible/*.json` | the KJV text with the Apocrypha |
-| `data/people/people.json`, `data/places/places.json` | the people and places of the Bible, from STEPBible's TIPNR (`scripts/people/tipnr.py`, `scripts/places/tipnr.py`) |
+| `data/people-kjv/people.json`, `data/places-kjv/places.json` | the people and places of the Bible, rebuilt from the KJV with Apocrypha by `scripts/people-kjv/build.py` from the hand lists in `data/people-kjv/sources/`; map pins are exact Wikidata items |
 | `data/handbook.json` | the handbook of Bible law |
 | `data/precepts.json` | the precept index |
 | `data/doctrine.json` | the Doctrine section: each false doctrine and the pass breakdowns that answer it, by pointer (`engine/doctrine.mjs`) |
@@ -55,8 +55,8 @@ JSON shape, existing fields are not removed or renamed without a note here.
 | `api/precepts/index.json`, `api/precepts/<slug>.json` | the precept index and each precept's references, resolved the same way |
 | `api/doctrine/index.json`, `api/doctrine/<slug>.json` | the false doctrines and, for each, its `scriptures` (resolved like a precept's refs, each with its `points`: the class paragraphs on that verse, or the moments it was read), its `books` (library pages the classes read, or a book a teacher cited, with that moment) and its answers: the scripture resolved like a precept and the class breakdown (teacher, class, moment, the note at that moment when there is one) taken word for word from the merged precept pass |
 | `api/cases/index.json`, `api/cases/<slug>.json` | the case studies (index rows carry `themes` and `topics`); each case carries its laws, precepts, related cases, resolved references (`refsResolved`), where it was taught and encyclopedia `see` links |
-| `api/places/index.json` | every place in the Bible (STEPBible TIPNR, CC BY 4.0): `{id, name, names, region, verses (count), first}` |
-| `api/places/<id>.json` | one place: `{id, name, names, region, coords: [lat, lng] or null, strongs, verses, source}`; the chapter files' `places: {verse: [id]}` say which places each verse names |
+| `api/places/index.json` | every place in the Bible (from the KJV): `{id, name, names, description, region, verses (count), first}` |
+| `api/places/<id>.json` | one place: `{id, name, names, description, region, coords: [lat, lng] or null, pin?: {lat, lon, wikidata, url, label}, strongs, verses, source}` (`region` and `strongs` stay empty, kept for older app builds); the chapter files' `places: {verse: [id]}` say which places each verse names |
 | `api/concordance/index.json` | per book: which chapters are cited (`cited`) and how many citations |
 | `api/concordance/<book-slug>.json` | a whole book: `chapterRows: [{chapter, url, cited_by}]`, one row per citing document with its verse spans merged into `verses: []` |
 | `api/history/index.json` | every episode: `{slug, title, url, episode, date, duration, views, videoId, thumb, words, teacher, topics, noted}` |
@@ -131,18 +131,14 @@ sqlite3 library.sqlite "SELECT v.book_slug, v.chapter, v.verse, snippet(verses_f
 sqlite3 library.sqlite "SELECT kind, label, url, verses FROM citations WHERE book_slug = 'psalms' AND chapter = 119"
 ```
 
-### People corrections and pictures
+### People and Places
 
-The People CMS changes only summaries, family relationships and optional credited
-pictures in `data/people/people.json`. The engine validates those profiles before
-building and copies picture metadata into their existing API responses. Picture
-URLs and source pages must use HTTPS; caption, credit and licence are required.
-No picture or biographical fact is added by the reader itself.
-
-Twenty-one unresolved links already present in the upstream-derived profiles are
-recorded in `people-legacy-links.json` with their source revision. They remain
-visible for correction; new unresolved relationships fail the gate. Editing one
-profile must not require inventing replacements for unrelated historical gaps.
+`data/people-kjv/people.json` and `data/places-kjv/places.json` are built by
+`scripts/people-kjv/build.py` from the hand lists in `data/people-kjv/sources/`; edit
+the lists and rebuild, never the built files. `engine/people-kjv.mjs` checks them before
+every build: every verse names the person or place, every family link carries its
+evidence label and verses and is recorded on both people, and a map pin is the exact
+Wikidata item with its link. Nothing comes from STEPBible or TIPNR.
 
 ### Admin class metadata corrections
 

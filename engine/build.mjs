@@ -1,6 +1,4 @@
-import { validatePeople, personPicture } from "./people-validation.mjs";
-import { descendantsOf, validateLines, validateLinks, linkedFrom, EVIDENCE } from "./people-lines.mjs";
-import { validatePlaces } from "./places-validation.mjs";
+import { loadKjvPeople, validateKjvPeople, validateKjvPlaces, EVIDENCE } from "./people-kjv.mjs";
 
 import { correctedClass, classCatalog, loadClassBroadcasts } from "./class-metadata.mjs";
 // The CyberJudah content engine.
@@ -60,13 +58,17 @@ const { BOOKS, CHAPTERS, bible, bookSlug, testament, chapterUrl, bookUrl, handbo
 const SHOWS = loadShows(ROOT);
 for (const n of [...classNotes, ...captainNotes]) if (!n.collection) n.collection = showOf(SHOWS, n.title)?.name ?? "";
 
-/* ---------------- people (STEPBible TIPNR, CC BY 4.0) ---------------- */
+/* ---------------- people (rebuilt from the KJV with Apocrypha) ---------------- */
 // Who is named in each verse, and a page per person: names, family, every verse, what the
 // classes taught where the person comes up (a comment on one of their verses naming them), and
-// the class notes that read or cite a verse naming them.
-const peopleFile = path.join(ROOT, "data", "people", "people.json");
-const peopleDoc = fs.existsSync(peopleFile) ? JSON.parse(fs.readFileSync(peopleFile, "utf8")) : { people: [] };
-const peopleProblems = [...validatePeople(peopleDoc), ...validateLines(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") }), ...validateLinks(peopleDoc, { bibleDir: path.join(ROOT, "data/bible") })];
+// the class notes that read or cite a verse naming them. data/people-kjv (scripts/people-kjv/build.py)
+// takes every name and family link from the KJV text, each link with the verses that state it.
+const BIBLE_DIR = path.join(ROOT, "data", "bible");
+const KJV_SOURCE = { name: "The King James Bible with Apocrypha", license: "Public domain", url: "https://cyberjudah.io/bible" };
+const peopleFile = path.join(ROOT, "data", "people-kjv", "people.json");
+if (!fs.existsSync(peopleFile)) throw new Error("data/people-kjv/people.json is missing; run scripts/people-kjv/build.py");
+const peopleDoc = { people: loadKjvPeople(path.dirname(peopleFile)) };
+const peopleProblems = validateKjvPeople(peopleDoc.people, { bibleDir: BIBLE_DIR });
 if (peopleProblems.length) throw new Error(peopleProblems.join("\n"));
 const personById = new Map(peopleDoc.people.map((p) => [p.id, p]));
 const namedIn = new Map(); // "slug|ch" -> { verse: [id] }
@@ -76,11 +78,13 @@ for (const p of peopleDoc.people) for (const ref of p.verses) {
 }
 const bySlugName = Object.fromEntries(Object.entries(bookSlug).map(([b, sl]) => [sl, b]));
 
-/* ---------------- places (STEPBible TIPNR, CC BY 4.0) ---------------- */
-// Where each verse is set, and a page per place: its names, region, map point and every verse.
-const placesFile = path.join(ROOT, "data", "places", "places.json");
-const placesDoc = fs.existsSync(placesFile) ? JSON.parse(fs.readFileSync(placesFile, "utf8")) : { places: [] };
-const placesProblems = validatePlaces(placesDoc);
+/* ---------------- places (rebuilt from the KJV with Apocrypha) ---------------- */
+// Where each verse is set, and a page per place: its names, every verse, and a map pin where
+// Wikidata has the exact place (data/places-kjv, scripts/people-kjv/build.py).
+const placesFile = path.join(ROOT, "data", "places-kjv", "places.json");
+if (!fs.existsSync(placesFile)) throw new Error("data/places-kjv/places.json is missing; run scripts/people-kjv/build.py");
+const placesDoc = JSON.parse(fs.readFileSync(placesFile, "utf8"));
+const placesProblems = validateKjvPlaces(placesDoc.places, { bibleDir: BIBLE_DIR });
 if (placesProblems.length) throw new Error(placesProblems.join("\n"));
 const placedIn = new Map(); // "slug|ch" -> { verse: [id] }
 for (const p of placesDoc.places) for (const ref of p.verses) {
@@ -396,10 +400,20 @@ for (const n of notes) {
 }
 for (const rows of namedInNotes.values()) rows.sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")));
 
-const descendants = descendantsOf(peopleDoc), alsoNamed = linkedFrom(peopleDoc, "same"), ofCourse = linkedFrom(peopleDoc, "priestly");
+// Who names each person as a forefather (their line), and which records name them as the same person.
+const linkedFrom = (key) => {
+  const out = new Map();
+  for (const p of peopleDoc.people) for (const e of p[key] ?? []) {
+    if (!out.has(e.id)) out.set(e.id, []);
+    out.get(e.id).push({ ...e, id: p.id });
+  }
+  return out;
+};
+const descendants = linkedFrom("line"), alsoNamed = linkedFrom("same");
 // A link to another record, with its evidence label (scripture, a parallel passage, history...).
-const evidenced = (e) => personRef(e.id) && { ...personRef(e.id), evidence: e.evidence ?? "scripture", evidenceLabel: EVIDENCE[e.evidence ?? "scripture"], verses: e.verses ?? [], ...(e.note ? { note: e.note } : {}), ...(e.sources ? { sources: e.sources } : {}) };
-const personRef = (id) => { const p = personById.get(id); return p ? { id, name: p.name, ...personPicture(p) } : null; };
+const personRef = (id) => { const p = personById.get(id); return p ? { id, name: p.name, ...(p.image ? { image: p.image } : {}) } : null; };
+const evidenced = (e) => personRef(e.id) && { ...personRef(e.id), evidence: e.evidence, evidenceLabel: EVIDENCE[e.evidence], verses: e.verses ?? [], ...(e.note ? { note: e.note } : {}), ...(e.sources ? { sources: e.sources } : {}) };
+const links = (list) => (list ?? []).map(evidenced).filter(Boolean);
 const peopleIndex = [];
 for (const p of peopleDoc.people) {
   const words = new Set(p.names.map((n) => n.toLowerCase()));
@@ -412,24 +426,29 @@ for (const p of peopleDoc.people) {
       if (pts.length) taught.push({ verse: `${book} ${ch}:${v}`, url: `/bible/${sl}/${ch}#v${v}`, points: pts, note: c.note, ts: c.ts, video: c.video, t: c.t });
     }
   }
+  // tribe stays a line of text ("Tribe of Levi") for the screens that print it; tribes and
+  // nation carry the links themselves. priestly, course, titles and variants stay empty lists
+  // until the KJV catalog records them, so older app builds keep working.
+  const tribes = links(p.tribe);
   writeJson(path.join(API, "people", `${p.id}.json`), {
-    id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, tribe: p.tribe, ...personPicture(p),
-    father: p.father.map(personRef).filter(Boolean), mother: p.mother.map(personRef).filter(Boolean),
-    siblings: p.siblings.map(personRef).filter(Boolean), partners: p.partners.map(personRef).filter(Boolean), children: p.children.map(personRef).filter(Boolean),
-    line: (p.line ?? []).map(evidenced).filter(Boolean), descendants: (descendants.get(p.id) ?? []).map(evidenced).filter(Boolean),
-    same: (p.same ?? []).map(evidenced).filter(Boolean), alsoNamed: (alsoNamed.get(p.id) ?? []).map(evidenced).filter(Boolean),
-    priestly: (p.priestly ?? []).map(evidenced).filter(Boolean), course: (ofCourse.get(p.id) ?? []).map(evidenced).filter(Boolean),
-    titles: (p.titles ?? []).map((t) => ({ ...t, evidenceLabel: EVIDENCE[t.evidence] })), variants: p.variants ?? [],
-    verses: p.verses, taught, classes: namedInNotes.get(p.id) ?? [], source: { name: peopleDoc.source, license: peopleDoc.license, url: peopleDoc.url },
+    id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, ...(p.image ? { image: p.image } : {}),
+    tribe: tribes.map((t) => `Tribe of ${t.name}`).join(", "), tribes, nation: links(p.nation),
+    father: links(p.father), mother: links(p.mother), siblings: links(p.siblings), partners: links(p.partners), children: links(p.children),
+    line: links(p.line), descendants: links(descendants.get(p.id)),
+    same: links(p.same), alsoNamed: links(alsoNamed.get(p.id)),
+    priestly: [], course: [], titles: [], variants: [],
+    verses: p.verses, taught, classes: namedInNotes.get(p.id) ?? [], source: KJV_SOURCE,
     cases: (casesOfPerson.get(p.id) ?? []).map((c) => ({ slug: c.slug, name: c.name, url: caseUrl(c), era: c.era, kind: c.kind ?? "judgment", verdict: c.verdict, verdictLabel: VERDICT[c.verdict] ?? c.verdict, charge: c.charge, preview: preview(c.summary) })),
   });
   peopleIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, type: p.type, verses: p.verses.length, first: p.verses[0] });
 }
 writeJson(path.join(API, "people", "index.json"), peopleIndex);
+// A place keeps the old fields (region, coords, strongs) for the screens that read them: coords
+// is the Wikidata pin's point, or null where Wikidata has no exact match.
 const placesIndex = [];
 for (const p of placesDoc.places) {
-  writeJson(path.join(API, "places", `${p.id}.json`), { id: p.id, name: p.name, names: p.names, region: p.region, coords: p.coords, strongs: p.strongs, verses: p.verses, source: { name: placesDoc.source, license: placesDoc.license, url: placesDoc.url } });
-  placesIndex.push({ id: p.id, name: p.name, names: p.names, region: p.region, verses: p.verses.length, first: p.verses[0] });
+  writeJson(path.join(API, "places", `${p.id}.json`), { id: p.id, name: p.name, names: p.names, description: p.description, region: "", coords: p.pin ? [p.pin.lat, p.pin.lon] : null, ...(p.pin ? { pin: p.pin } : {}), strongs: [], verses: p.verses, source: KJV_SOURCE });
+  placesIndex.push({ id: p.id, name: p.name, names: p.names, description: p.description, region: "", verses: p.verses.length, first: p.verses[0] });
 }
 writeJson(path.join(API, "places", "index.json"), placesIndex);
 

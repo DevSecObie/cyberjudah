@@ -1,0 +1,1 @@
+- People and Places pages are now built from the catalog rebuilt from the KJV with Apocrypha (`data/people-kjv`, `data/places-kjv`). Every family link carries its evidence label and verses; places carry their Wikidata pin. The STEPBible TIPNR data (`data/people`, `data/places`), its import scripts, its validators and its credit are removed.
