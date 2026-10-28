@@ -1,0 +1,1 @@
+- People rebuilt from the KJV: Isaiah added (11 new people, 3 gods and titles: Lucifer, Bel, Nebo; 26 places such as Shiloah, Calno, Pathros, Noph, Sinim). No new map pins: none of these places has an exact Wikidata match.

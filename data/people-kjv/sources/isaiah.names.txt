@@ -1,0 +1,184 @@
+# Isaiah. key | Name | forms | verses | type | description
+isaiah | | Isaiah | * | + |
+amoz | | Amoz | * | + |
+judah | | Judah | * | + |
+jerusalem | | Jerusalem | * | + |
+azariah-k | | Uzziah | * | + |
+jotham-k | | Jotham | * | + |
+ahaz | | Ahaz | * | + |
+hezekiah | | Hezekiah | * | + |
+israel-people | | Israel;Jesurun | *,!63:16=Israel | + |
+jacob | | Jacob;Israel | *,!1:3=Israel,!1:4=Israel,!1:24=Israel,!4:2=Israel,!5:7=Israel,!5:19=Israel,!5:24=Israel,!7:1=Israel,!8:14=Israel,!8:18=Israel,!9:8=Israel,!9:12=Israel,!9:14=Israel,!10:17=Israel,!10:20=Israel,!10:22=Israel,!11:12=Israel,!11:16=Israel,!12:6=Israel,!14:1=Israel,!14:2=Israel,!17:3=Israel,!17:6=Israel,!17:7=Israel,!17:9=Israel,!19:24=Israel,!19:25=Israel,!21:10=Israel,!21:17=Israel,!24:15=Israel,!27:6=Israel,!27:12=Israel,!29:19=Israel,!29:23=Israel,!30:11=Israel,!30:12=Israel,!30:15=Israel,!30:29=Israel,!31:1=Israel,!31:6=Israel,!37:16=Israel,!37:21=Israel,!37:23=Israel,!40:27=Israel,!41:8=Israel,!41:14=Israel,!41:16=Israel,!41:17=Israel,!41:20=Israel,!42:24=Israel,!43:1=Israel,!43:3=Israel,!43:14=Israel,!43:15=Israel,!43:22=Israel,!43:28=Israel,!44:1=Israel,!44:5=Israel,!44:6=Israel,!44:21=Israel,!44:23=Israel,!45:3=Israel,!45:4=Israel,!45:11=Israel,!45:15=Israel,!45:17=Israel,!45:25=Israel,!46:3=Israel,!46:13=Israel,!47:4=Israel,!48:1=Israel,!48:2=Israel,!48:12=Israel,!48:17=Israel,!49:3=Israel,!49:5=Israel,!49:6=Israel,!49:7=Israel,!52:12=Israel,!54:5=Israel,!55:5=Israel,!56:8=Israel,!60:9=Israel,!60:14=Israel,!63:7=Israel,!66:20=Israel | + |
+zion | | Zion | * | + |
+sodom | | Sodom | * | + |
+gomorrah | | Gomorrah | * | + |
+philistines | | Philistines | * | + |
+lebanon | | Lebanon | * | + |
+bashan | | Bashan | * | + |
+tharshish | | Tarshish | * | + |
+rezin | | Rezin | * | + |
+syria | | Syria | * | + |
+pekah | | Pekah | * | + |
+remaliah | | Remaliah | * | + |
+david | | David | * | + |
+ephraim | | Ephraim | * | + |
+shear-jashub | Shear-jashub | Shear-jashub | * | M | The son of Isaiah, who went forth with his father to meet Ahaz "at the end of the conduit of the upper pool" (Isaiah 7:3)
+tabeal | Tabeal | Tabeal | * | M | Whose son Rezin and Pekah said they would "set a king in the midst" of Judah (Isaiah 7:6)
+damascus | | Damascus | * | + |
+samaria | | Samaria | * | + |
+immanuel | Immanuel | Immanuel | * | M | "Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel" (Isaiah 7:14); "thy land, O Immanuel" (Isaiah 8:8)
+assyria | | Assyria | * | + |
+egypt | | Egypt | * | + |
+maher-shalal-hash-baz | Maher-shalal-hash-baz | Maher-shalal-hash-baz | * | M | The son the prophetess bare to Isaiah; "before the child shall have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria" (Isaiah 8:1-4)
+uriah-i | Uriah | Uriah | * | M | "Uriah the priest", whom Isaiah took with Zechariah the son of Jeberechiah as "faithful witnesses to record" (Isaiah 8:2)
+zechariah-jb | Zechariah | Zechariah | * | M | The son of Jeberechiah, whom Isaiah took with Uriah the priest as "faithful witnesses to record" (Isaiah 8:2)
+jeberechiah | Jeberechiah | Jeberechiah | * | M | The father of Zechariah (Isaiah 8:2)
+shiloah | Shiloah | Shiloah | * | P | "The waters of Shiloah that go softly", which this people refused (Isaiah 8:6)
+zebulun | | Zebulun | * | + |
+naphtali | | Naphtali | * | + |
+jordan | | Jordan | * | + |
+galilee | | Galilee | * | + |
+midian-people | | Midian | * | + |
+syrians | | Syrians | * | + |
+manasseh | | Manasseh | * | + |
+assyrians | | Assyrian;Assyrians | * | + |
+calno | Calno | Calno | * | P | "Is not Calno as Carchemish?" (Isaiah 10:9)
+carchemish | | Carchemish | * | + |
+hamath | | Hamath | * | + |
+arpad | | Arpad;Arphad | * | + |
+oreb-rock | | Oreb | * | + |
+aiath | Aiath | Aiath | * | P | Where the Assyrian came in his march on Jerusalem (Isaiah 10:28)
+migron | | Migron | * | + |
+michmash | | Michmash | * | + |
+geba | | Geba | * | + |
+ramah | | Ramah | * | + |
+gibeah-b | | Gibeah | * | + |
+saul-k | | Saul | * | + |
+gallim | | Gallim | * | + |
+laish-b | Laish | Laish | * | P | "Cause it to be heard unto Laish, O poor Anathoth" (Isaiah 10:30)
+anathoth | | Anathoth | * | + |
+madmenah | Madmenah | Madmenah | * | P | "Madmenah is removed" (Isaiah 10:31)
+gebim | Gebim | Gebim | * | P | "The inhabitants of Gebim gather themselves to flee" (Isaiah 10:31)
+nob | | Nob | * | + |
+jesse | | Jesse | * | + |
+gentiles | | Gentiles | * | + |
+pathros | Pathros | Pathros | * | P | Whence the Lord shall recover the remnant of his people (Isaiah 11:11)
+cush | | Cush | * | + |
+elam-land | | Elam | * | + |
+shinar | | Shinar | * | + |
+edom-land | | Edom | * | + |
+moab-land | | Moab | * | + |
+ammon | | Ammon | * | + |
+egyptian | | Egyptian;Egyptians | * | + |
+jehovah | | Jehovah | * | + |
+babylon | | Babylon | * | + |
+ophir-place | | Ophir | * | + |
+medes | | Medes | * | + |
+chaldees | | Chaldees;Chaldeans | * | + |
+arabians | | Arabian | * | + |
+lucifer | Lucifer | Lucifer | * | T | "O Lucifer, son of the morning", said in "this proverb against the king of Babylon"; "Is this the man that made the earth to tremble?" (Isaiah 14:4, 14:12, 14:16)
+palestina | | Palestina | * | + |
+ar | | Ar | * | + |
+kir-moab | Kir | Kir | 15:1 | P | "Kir of Moab is laid waste, and brought to silence" (Isaiah 15:1)
+kir | | Kir | 22:6 | + |
+bajith | Bajith | Bajith | * | P | In Moab: "He is gone up to Bajith, and to Dibon, the high places, to weep" (Isaiah 15:2)
+dibon | | Dibon | * | + |
+nebo | | Nebo | 15:2 | + |
+nebo-idol | Nebo | Nebo | 46:1 | D | An idol of Babylon: "Bel boweth down, Nebo stoopeth, their idols were upon the beasts" (Isaiah 46:1)
+medeba | | Medeba | * | + |
+heshbon | | Heshbon | * | + |
+elealeh | | Elealeh | * | + |
+jahaz | | Jahaz | * | + |
+zoar | | Zoar | * | + |
+luhith | Luhith | Luhith | * | P | In Moab: "by the mounting up of Luhith with weeping shall they go it up" (Isaiah 15:5)
+horonaim | Horonaim | Horonaim | * | P | In Moab: "in the way of Horonaim they shall raise up a cry of destruction" (Isaiah 15:5)
+nimrim | Nimrim | Nimrim | * | P | In Moab: "the waters of Nimrim shall be desolate" (Isaiah 15:6)
+eglaim | Eglaim | Eglaim | * | P | Unto which the howling of Moab went (Isaiah 15:8)
+beer-elim | Beer-elim | Beer-elim | * | P | Unto which the howling of Moab went (Isaiah 15:8)
+dimon | Dimon | Dimon | * | P | In Moab: "the waters of Dimon shall be full of blood" (Isaiah 15:9)
+sela-m | Sela | Sela | * | P | "Send ye the lamb to the ruler of the land from Sela to the wilderness" (Isaiah 16:1)
+arnon | | Arnon | * | + |
+kir-haraseth | | Kir-hareseth;Kir-haresh | * | + |
+sibmah | | Sibmah | * | + |
+jaazer | | Jazer | * | + |
+aroer-i | Aroer | Aroer | 17:2 | P | "The cities of Aroer are forsaken", in the burden of Damascus (Isaiah 17:1-2)
+rephaim | | Rephaim | * | + |
+ethiopia | | Ethiopia | * | + |
+zoan | | Zoan | * | + |
+pharaoh-is | Pharaoh | Pharaoh | 19:11,30:2,30:3 | M | King of Egypt in Isaiah's prophecy, in whose strength they sought to strengthen themselves (Isaiah 19:11, 30:2-3)
+pharaoh-r | | Pharaoh | 36:6 | + |
+noph | Noph | Noph | * | P | In Egypt: "the princes of Noph are deceived" (Isaiah 19:13)
+canaan-land | | Canaan | * | + |
+tartan | | Tartan | * | + |
+ashdod | | Ashdod | * | + |
+sargon | Sargon | Sargon | * | M | King of Assyria, who sent Tartan unto Ashdod (Isaiah 20:1)
+ethiopian | | Ethiopians | * | + |
+media | | Media | * | + |
+dumah-i | Dumah | Dumah | * | P | "The burden of Dumah. He calleth to me out of Seir" (Isaiah 21:11)
+seir-land | | Seir | * | + |
+arabia | | Arabia | * | + |
+dedanim | Dedanim | Dedanim | * | G | "O ye travelling companies of Dedanim", in the burden upon Arabia (Isaiah 21:13)
+tema | | Tema | * | + |
+kedar | | Kedar | * | + |
+shebna | | Shebna | * | + |
+eliakim | | Eliakim | * | + |
+hilkiah-e | | Hilkiah | * | + |
+tyre | | Tyre | * | + |
+chittim | | Chittim | * | + |
+sidon-place | | Zidon | * | + |
+sihor | | Sihor | * | + |
+perazim-mount | Perazim | Perazim | * | P | "The Lord shall rise up as in mount Perazim" (Isaiah 28:21)
+gibeon | | Gibeon | * | + |
+ariel-city | Ariel | Ariel | * | P | "Woe to Ariel, to Ariel, the city where David dwelt!" (Isaiah 29:1-2, 29:7)
+abraham | | Abraham | * | + |
+hanes | Hanes | Hanes | * | P | Whither the ambassadors of Judah came, seeking the strength of Pharaoh (Isaiah 30:4)
+topheth | | Tophet | * | + |
+sharon | | Sharon | * | + |
+carmel | | Carmel | * | + |
+idumea | Idumea | Idumea | * | P | Upon which the Lord's sword shall come down, "upon the people of my curse"; the Lord hath "a great slaughter in the land of Idumea" (Isaiah 34:5-6)
+bozrah | | Bozrah | * | + |
+sennacherib | | Sennacherib | * | + |
+rab-shakeh | | Rabshakeh | * | + |
+lachish | | Lachish | * | + |
+joah | | Joah | * | + |
+asaph | | Asaph | * | + |
+syrian | | Syrian | * | + |
+jews | | Jews | * | + |
+sepharvaim | | Sepharvaim | * | + |
+libnah-c | | Libnah | * | + |
+tirhakah | | Tirhakah | * | + |
+gozan | | Gozan | * | + |
+haran-place | | Haran | * | + |
+rezeph | | Rezeph | * | + |
+eden | | Eden | * | + |
+telassar | Telassar | Telassar | * | P | Where "the children of Eden" were, destroyed by the kings of Assyria (Isaiah 37:12)
+hena | | Hena | * | + |
+ivah | | Ivah | * | + |
+nineveh | | Nineveh | * | + |
+nisroch | | Nisroch | * | + |
+adrammelech | | Adrammelech | * | + |
+sharezer | | Sharezer | * | + |
+armenia | | Armenia | * | + |
+esarhaddon | | Esar-haddon | * | + |
+berodach-baladan | | Merodach-baladan | * | + |
+baladan | | Baladan | * | + |
+seba | | Seba | * | + |
+cyrus | | Cyrus | * | + |
+sabeans-s | Sabeans | Sabeans | * | G | "Men of stature", named with Egypt and Ethiopia: "shall come over unto thee, and they shall be thine" (Isaiah 45:14)
+bel | Bel | Bel | * | D | An idol of Babylon: "Bel boweth down, Nebo stoopeth" (Isaiah 46:1)
+sinim | Sinim | Sinim | * | P | "These from the land of Sinim" (Isaiah 49:12)
+sarah | | Sarah | * | + |
+rahab-p | | Rahab | * | + |
+noah | | Noah | * | + |
+ephah | | Ephah | * | + |
+sheba-land | | Sheba | * | + |
+nebajoth | | Nebaioth | * | + |
+hephzi-bah-z | Hephzi-bah | Hephzi-bah | * | X | The name the Lord gives Zion: "thou shalt be called Hephzi-bah ... for the Lord delighteth in thee" (Isaiah 62:4); not a person in People
+beulah | Beulah | Beulah | * | X | The name the Lord gives the land of Zion: "and thy land Beulah ... and thy land shall be married" (Isaiah 62:4); not a person in People
+moses | | Moses | * | + |
+achor | | Achor | * | + |
+pul-land | Pul | Pul | * | P | Named with Tarshish and Lud, "that draw the bow", whither the Lord will send those that escape (Isaiah 66:19)
+lud | | Lud | * | + |
+tubal | | Tubal | * | + |
+javan | | Javan | * | + |
+levites | | Levites | * | + |
