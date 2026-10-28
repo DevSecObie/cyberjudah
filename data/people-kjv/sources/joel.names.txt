@@ -1,0 +1,18 @@
+# Joel. key | Name | forms | verses | type | description
+joel-pr | Joel | Joel | * | M | The son of Pethuel, to whom the word of the Lord came (Joel 1:1)
+pethuel | Pethuel | Pethuel | * | M | The father of Joel the prophet (Joel 1:1)
+zion | | Zion | * | + |
+eden | | Eden | * | + |
+israel-people | | Israel | * | + |
+jerusalem | | Jerusalem | * | + |
+judah | | Judah | * | + |
+jehoshaphat-valley | Jehoshaphat | Jehoshaphat | * | P | "The valley of Jehoshaphat", where the Lord will gather all nations and plead with them (Joel 3:2, 3:12)
+tyre | | Tyre | * | + |
+sidon-place | | Zidon | * | + |
+palestina | | Palestine | * | + |
+grecians | Grecians | Grecians | * | G | Unto whom Tyre, Zidon and Palestine sold the children of Judah and Jerusalem (Joel 3:6)
+sabeans | | Sabeans | * | + |
+gentiles | | Gentiles | * | + |
+shittim | | Shittim | * | + |
+egypt | | Egypt | * | + |
+edom-land | | Edom | * | + |
