@@ -75,6 +75,28 @@ export function toAppPath(href) {
   return null;
 }
 
+/**
+ * The app screens that show a library section from the same data under the same address
+ * (/precepts/x on the site is /app/precepts/x in the app). The front door (server.ts, when
+ * APP_FRONT_DOOR is on) sends these to the app as well as everything toAppPath maps.
+ */
+const SAME_PATH_SCREENS = {
+  concordance: [1, 2], dictionary: [1, 2], doctrine: [1, 2], precepts: [1, 2], topics: [1, 2],
+  cases: [1, 3], law: [1, 2, 3], glossary: [1], encyclopedia: [1],
+};
+
+export function frontDoorPath(href) {
+  const mapped = toAppPath(href);
+  if (mapped) return mapped;
+  let url;
+  try { url = new URL(String(href), "https://app.invalid"); } catch { return null; }
+  if (url.origin !== "https://app.invalid") return null;
+  const parts = url.pathname.split("/").filter(Boolean);
+  const depths = Object.hasOwn(SAME_PATH_SCREENS, parts[0]) ? SAME_PATH_SCREENS[parts[0]] : [];
+  if (!depths.includes(parts.length) || !parts.every((p) => SEGMENT.test(p))) return null;
+  return `/app${url.pathname}${url.search}${url.hash}`;
+}
+
 /** The website page an app screen shows, for share links and "open in browser". */
 export function sitePathOf(pathname) {
   const parts = String(pathname).split("/").filter(Boolean);
