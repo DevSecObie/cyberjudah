@@ -4,6 +4,7 @@
 # Several children: "c1 c2 c3 < father | verses"
 cain < adam | 4:1
 cain << eve | 4:1
+abel < adam | 4:1,4:2
 abel << eve | 4:2
 cain ~ abel | 4:2,4:8
 adam = eve | 4:1
