@@ -18,6 +18,7 @@ import { Route as GivingTheSenseRouteImport } from './routes/giving-the-sense'
 import { Route as GlossaryRouteImport } from './routes/glossary'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
 import { Route as SearchRouteImport } from './routes/search'
+import { Route as SearchDotjsonRouteImport } from './routes/search[.]json'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as TeachingsRouteImport } from './routes/teachings'
 import { Route as TruthShallMakeYouFreeRouteImport } from './routes/truth-shall-make-you-free'
@@ -103,6 +104,11 @@ const RobotsDottxtRoute = RobotsDottxtRouteImport.update({
 const SearchRoute = SearchRouteImport.update({
   id: '/search',
   path: '/search',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SearchDotjsonRoute = SearchDotjsonRouteImport.update({
+  id: '/search.json',
+  path: '/search.json',
   getParentRoute: () => rootRouteImport,
 } as any)
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
@@ -321,6 +327,7 @@ export interface FileRoutesByFullPath {
   '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
+  '/search.json': typeof SearchDotjsonRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
@@ -372,6 +379,7 @@ export interface FileRoutesByTo {
   '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
+  '/search.json': typeof SearchDotjsonRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
@@ -425,6 +433,7 @@ export interface FileRoutesById {
   '/glossary': typeof GlossaryRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/search': typeof SearchRoute
+  '/search.json': typeof SearchDotjsonRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/teachings': typeof TeachingsRoute
   '/truth-shall-make-you-free': typeof TruthShallMakeYouFreeRoute
@@ -479,6 +488,7 @@ export interface FileRouteTypes {
     | '/glossary'
     | '/robots.txt'
     | '/search'
+    | '/search.json'
     | '/sitemap.xml'
     | '/teachings'
     | '/truth-shall-make-you-free'
@@ -530,6 +540,7 @@ export interface FileRouteTypes {
     | '/glossary'
     | '/robots.txt'
     | '/search'
+    | '/search.json'
     | '/sitemap.xml'
     | '/teachings'
     | '/truth-shall-make-you-free'
@@ -582,6 +593,7 @@ export interface FileRouteTypes {
     | '/glossary'
     | '/robots.txt'
     | '/search'
+    | '/search.json'
     | '/sitemap.xml'
     | '/teachings'
     | '/truth-shall-make-you-free'
@@ -635,6 +647,7 @@ export interface RootRouteChildren {
   GlossaryRoute: typeof GlossaryRoute
   RobotsDottxtRoute: typeof RobotsDottxtRoute
   SearchRoute: typeof SearchRoute
+  SearchDotjsonRoute: typeof SearchDotjsonRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   TeachingsRoute: typeof TeachingsRoute
   TruthShallMakeYouFreeRoute: typeof TruthShallMakeYouFreeRoute
@@ -734,6 +747,13 @@ declare module '@tanstack/react-router' {
       path: '/search'
       fullPath: '/search'
       preLoaderRoute: typeof SearchRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/search.json': {
+      id: '/search.json'
+      path: '/search.json'
+      fullPath: '/search.json'
+      preLoaderRoute: typeof SearchDotjsonRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/sitemap.xml': {
@@ -1058,6 +1078,7 @@ const rootRouteChildren: RootRouteChildren = {
   GlossaryRoute: GlossaryRoute,
   RobotsDottxtRoute: RobotsDottxtRoute,
   SearchRoute: SearchRoute,
+  SearchDotjsonRoute: SearchDotjsonRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   TeachingsRoute: TeachingsRoute,
   TruthShallMakeYouFreeRoute: TruthShallMakeYouFreeRoute,

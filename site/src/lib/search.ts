@@ -16,7 +16,7 @@ export const KINDS = ["verse", "law", "precept", "case", "study", "class", "capt
 
 type Row = { kind: string; title: string; url: string; sub: string; snippet: string };
 
-async function runSearch(q: string, only: string | undefined, limit: number): Promise<SearchResult> {
+export async function runSearch(q: string, only: string | undefined, limit: number): Promise<SearchResult> {
   const t0 = Date.now();
   let db: D1Database | undefined;
   try {
