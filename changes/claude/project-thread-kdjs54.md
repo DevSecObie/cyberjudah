@@ -1,1 +1,2 @@
 - Library search as JSON at `/search.json?q=…` (optional `only` and `limit`, at most 50 per kind), open to any origin, for the CyberJudah phone app. Same search and results as the Search page.
+- search.json: whole-number limit, and at most `limit` hits of each kind after the loose pass (review fixes).
