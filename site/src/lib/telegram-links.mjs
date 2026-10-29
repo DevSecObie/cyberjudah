@@ -86,12 +86,19 @@ const SAME_PATH_SCREENS = {
 };
 
 export function frontDoorPath(href) {
-  const mapped = toAppPath(href);
-  if (mapped) return mapped;
   let url;
   try { url = new URL(String(href), "https://app.invalid"); } catch { return null; }
   if (url.origin !== "https://app.invalid") return null;
   const parts = url.pathname.split("/").filter(Boolean);
+  // The app's own addresses belong to the Telegram Worker; never send them back to themselves.
+  if (parts[0] === "app") return null;
+  // /study/<book> is a book's index of studies, not a note the app's note view can open.
+  if (parts[0] === "study" && parts.length === 2) return null;
+  const mapped = toAppPath(href);
+  // The note view reads ?t= (start the recording there) and ?from= (the page cited from), which
+  // toAppPath leaves off.
+  if (mapped?.startsWith("/app/note/")) return `/app/note${url.pathname}${url.search}${url.hash}`;
+  if (mapped) return mapped;
   const depths = Object.hasOwn(SAME_PATH_SCREENS, parts[0]) ? SAME_PATH_SCREENS[parts[0]] : [];
   if (!depths.includes(parts.length) || !parts.every((p) => SEGMENT.test(p))) return null;
   return `/app${url.pathname}${url.search}${url.hash}`;

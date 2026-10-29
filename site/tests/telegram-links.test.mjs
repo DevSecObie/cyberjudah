@@ -76,8 +76,10 @@ test("the front door sends every page the app shows to the app", () => {
   assert.equal(frontDoorPath("/concordance/genesis"), "/app/concordance/genesis");
   assert.equal(frontDoorPath("/dictionary/aaron"), "/app/dictionary/aaron");
   assert.equal(frontDoorPath("/glossary"), "/app/glossary");
+  assert.equal(frontDoorPath("/classes/2026/x?t=95&from=/bible/john/3"), "/app/note/classes/2026/x?t=95&from=/bible/john/3");
+  assert.equal(frontDoorPath("/study/john/3#john-3-16"), "/app/note/study/john/3#john-3-16");
   // No app screen: the website keeps these.
-  for (const path of ["/about", "/teachings", "/shows/x", "/giving-the-sense", "/downloads", "/api", "/robots.txt", "/sitemap.xml", "/assets/x.js", "/cases/x", "/glossary/x", "/doctrine/A%20B"]) {
+  for (const path of ["/app", "/app/read/john/3", "/study/john", "/about", "/teachings", "/shows/x", "/giving-the-sense", "/downloads", "/api", "/robots.txt", "/sitemap.xml", "/assets/x.js", "/cases/x", "/glossary/x", "/doctrine/A%20B"]) {
     assert.equal(frontDoorPath(path), null, path);
   }
 });
