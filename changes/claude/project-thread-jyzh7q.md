@@ -100,3 +100,4 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 18
 
 - Luke 13:1 (2025-04-30, Captain Zakai), 12:22 (2025-04-24, host heard as "Captain ARB" / "Captain Ab", left blank), 12:13 (2025-04-23, Captain Mattathias), 11:50 (2025-04-22, Captain Gedaliah, heard as "Captain Goliath"), 11:33 continued (2025-04-17, Captain Matt, heard as "Captain Matthew") and 11:26 continued (2025-04-16, Captain Emmanuel, IUIC Arkansas).
+- Obie 2026-10-29: Captain Goliath is Captain Gedaliah. "Captain Goliath" is now a Gedaliah spelling in data/names.tsv; the four notes that had it are respelled, and the 2025-08-13 Colossians 3:5 note gets Captain Gedaliah as its teacher.

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Colossians 3:5"
 slug: "2025/2025-08-13-giving-the-sense-from-a-to-z-colossians-3-5"
 date: "2025-08-13"
-teacher: ""
+teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2025-08-13"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "mercy", "repentance", "sexual-purity", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-08-13</p>
+<p class="taught">Giving The Sense From A to Z · 2025-08-13 · Captain Gedaliah</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Ps 119](/bible/psalms/119) · [2 Pet 1](/bible/2-peter/1) · [Col 3](/bible/colossians/3) · [Matt 18](/bible/matthew/18) · [Luke 17](/bible/luke/17) · [2 Cor 2](/bible/2-corinthians/2) · [Rom 8](/bible/romans/8) · [Sir 18](/bible/sirach/18) · [Sir 23](/bible/sirach/23) · [Wis 6](/bible/wisdom-of-solomon/6) · [Acts 5](/bible/acts/5) · [Heb 12](/bible/hebrews/12) · [Mal 1](/bible/malachi/1) · [John 14](/bible/john/14) · [Acts 7](/bible/acts/7) · <i>and 2 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "mercy", "repentance", "sexual-purity", "wi
 
 ## Introduction
 
-*[[1:08](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=68s)]* All praises to the most high. All praises to the most high. Shalom family. Shalom. Shalom. Shalom. Most high in Christ bless. Welcome to another edition of giving the sense from A to Z. All praise to today's host Captain Goliath. Yesterday I actually was able to go from Colossians chapter 2 verse 21 all the way down to Colossians 3:4. So today all praise to the most high I'll be filling in for one of the captains and I'll be teaching Lord's will starting at Colossians chapter 3 verse 5. And today I have reading for me Officer J. Judah. All praise to the Most High. So, Judah's here with us, y'all. So, all praise to the Most High. All right. So, with that being said, let's go ahead and jump right into the book of Nehemiah chapter 8 and verse 8.
+*[[1:08](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=68s)]* All praises to the most high. All praises to the most high. Shalom family. Shalom. Shalom. Shalom. Most high in Christ bless. Welcome to another edition of giving the sense from A to Z. All praise to today's host Captain Gedaliah. Yesterday I actually was able to go from Colossians chapter 2 verse 21 all the way down to Colossians 3:4. So today all praise to the most high I'll be filling in for one of the captains and I'll be teaching Lord's will starting at Colossians chapter 3 verse 5. And today I have reading for me Officer J. Judah. All praise to the Most High. So, Judah's here with us, y'all. So, all praise to the Most High. All right. So, with that being said, let's go ahead and jump right into the book of Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 
