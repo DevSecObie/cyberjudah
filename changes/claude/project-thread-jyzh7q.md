@@ -96,3 +96,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Captain Matt of IUIC Baton Rouge
 
 - Obie 2026-10-29: "Baton rouge its captain Matt short for Matthew". The captains-channel notes that call the Baton Rouge host "Captain Matthew" (Giving The Sense From A to Z and 15 Minutes w/ The Captains, plus other hosts naming him) now say Captain Matt: 31 notes, 74 spots. The 2026-04-18 Leaven part 2 note's "Captain Matthew" (the 9 a.m. class taught by Captain Matt) changes too. Captain Matthew of IUIC DC (Truth Be Told, 2026-09-13 guest) stays.
+
+## Batch 18
+
+- Luke 13:1 (2025-04-30, Captain Zakai), 12:22 (2025-04-24, host heard as "Captain ARB" / "Captain Ab", left blank), 12:13 (2025-04-23, Captain Mattathias), 11:50 (2025-04-22, Captain Gedaliah, heard as "Captain Goliath"), 11:33 continued (2025-04-17, Captain Matt, heard as "Captain Matthew") and 11:26 continued (2025-04-16, Captain Emmanuel, IUIC Arkansas).
