@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 11:28"
 slug: "2026/2026-05-14-giving-the-sense-from-a-to-z-2-corinthians-11-28"
 date: "2026-05-14"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2026-05-14"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-05-14 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2026-05-14 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Matt 16](/bible/matthew/16) · [2 Cor 11](/bible/2-corinthians/11) · [Acts 20](/bible/acts/20) · [1 Cor 9](/bible/1-corinthians/9) · [Acts 9](/bible/acts/9) · [2 Cor 12](/bible/2-corinthians/12) · [Acts 14](/bible/acts/14) · [1 Cor 4](/bible/1-corinthians/4) · [Rom 7](/bible/romans/7) · [Col 3](/bible/colossians/3) · [Heb 4](/bible/hebrews/4) · [2 Tim 2](/bible/2-timothy/2) · [Acts 18](/bible/acts/18)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "faith"]
 
 ## Introduction
 
-*[[17:00](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1020s)]* Hey, shalom fam. Most High Christ bless. All praise to the Most High, man. We in the building. Understand, I want to welcome you brothers and sisters back to another episode. I'm your host Captain Matthew, and we'll be touching on 2 Corinthians chapter 11, starting at verse 28, where Captain Zakai left off at. Make sure y'all peep that video. He did a excellent job going through the scriptures, giving a history on Paul's account as he's writing his letter to the brothers in Corinth. So now, before we get into all that, let's open up with the scripture behind the show.
+*[[17:00](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1020s)]* Hey, shalom fam. Most High Christ bless. All praise to the Most High, man. We in the building. Understand, I want to welcome you brothers and sisters back to another episode. I'm your host Captain Matt, and we'll be touching on 2 Corinthians chapter 11, starting at verse 28, where Captain Zakai left off at. Make sure y'all peep that video. He did a excellent job going through the scriptures, giving a history on Paul's account as he's writing his letter to the brothers in Corinth. So now, before we get into all that, let's open up with the scripture behind the show.
 
 ## Scriptures Opened
 

@@ -395,7 +395,7 @@ Reading from Definition of compel (source not named on air)  *[[39:05](https://w
 
 ## In Closing
 
-*[[1:01:27](https://www.youtube.com/watch?v=eJOTHNoanFg&t=3687s)]* So, that was the end of Luke the 14th chapter. I pray that y'all got some sort of edification out of it. Lord's will, you know, we'll continue to edify y'all. Once again, I'm Captain Matthew, IUIC Baton Rouge. And with that, I say shalom.
+*[[1:01:27](https://www.youtube.com/watch?v=eJOTHNoanFg&t=3687s)]* So, that was the end of Luke the 14th chapter. I pray that y'all got some sort of edification out of it. Lord's will, you know, we'll continue to edify y'all. Once again, I'm Captain Matt, IUIC Baton Rouge. And with that, I say shalom.
 
 ---
 

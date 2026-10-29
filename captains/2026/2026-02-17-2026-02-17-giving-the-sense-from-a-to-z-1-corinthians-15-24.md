@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 15:24"
 slug: "2026/2026-02-17-giving-the-sense-from-a-to-z-1-corinthians-15-24"
 date: "2026-02-17"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2026-02-17"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "edom-esau"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-02-17 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2026-02-17 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [1 Cor 15](/bible/1-corinthians/15) · [2 Esdras 6](/bible/2-esdras/6) · [Isa 34](/bible/isaiah/34) · [Hab 3](/bible/habakkuk/3) · [Zech 1](/bible/zechariah/1) · [Judith 5](/bible/judith/5) · [Wis 1](/bible/wisdom-of-solomon/1) · [Rev 20](/bible/revelation/20) · [Exod 32](/bible/exodus/32) · [Heb 2](/bible/hebrews/2) · [Eph 1](/bible/ephesians/1) · [Matt 20](/bible/matthew/20) · [Acts 19](/bible/acts/19)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau"]
 
 ## Introduction
 
-*[[0:38](https://www.youtube.com/watch?v=M7d3rAWpECo&t=38s)]* Shalom Israel. Most High Christ bless. Welcome to another edition of Giving the Sense from A to Z. I'm Captain Matthew and we are in 1 Corinthians the 15th chapter. All right, I'mma just dive into it. We left off on verse 23 yesterday. So I'mma start there.
+*[[0:38](https://www.youtube.com/watch?v=M7d3rAWpECo&t=38s)]* Shalom Israel. Most High Christ bless. Welcome to another edition of Giving the Sense from A to Z. I'm Captain Matt and we are in 1 Corinthians the 15th chapter. All right, I'mma just dive into it. We left off on verse 23 yesterday. So I'mma start there.
 
 ## Scriptures Opened
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 16"
 slug: "2025/2025-05-15-giving-the-sense-from-a-to-z-luke-16"
 date: "2025-05-15"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-05-15"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "justice"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-05-15 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2025-05-15 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 16](/bible/luke/16) · [Wis 6](/bible/wisdom-of-solomon/6) · [Mark 4](/bible/mark/4) · [Sir 5](/bible/sirach/5)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "justice"]
 
 ## Introduction
 
-*[[3:06](https://www.youtube.com/watch?v=IAf-MwK-qiU&t=186s)]* Hey, shalom Israel. Most high in Christ bless. Most high in Christ bless. Welcome to another edition of giving a sense from A to Z. Oh, praise to the most high. I'm Captain Matthew IUIC Baton Rouge and we back at it again. All right. So, we had the reading of Luke 15 yesterday by Captain Zakai. And we finished out the chapter. So, we starting with chapter 16. So, understand that Christ is still talking about the Pharisees. All right? Just keep that in mind as we read. All right? Because he was getting on the Pharisees in the previous chapter and letting them know in parable form that the scattered Israelites, they're going to come back. It is what it is. They're going to come back. Everybody is not going to be separated forever. All right? They're not going to be separated forever. The scattered Israelites, they will come back. Northern kingdom will come back and Christ was letting them know that they got to start treating their brothers right. So we start off at Luke 16 and verse one first.
+*[[3:06](https://www.youtube.com/watch?v=IAf-MwK-qiU&t=186s)]* Hey, shalom Israel. Most high in Christ bless. Most high in Christ bless. Welcome to another edition of giving a sense from A to Z. Oh, praise to the most high. I'm Captain Matt IUIC Baton Rouge and we back at it again. All right. So, we had the reading of Luke 15 yesterday by Captain Zakai. And we finished out the chapter. So, we starting with chapter 16. So, understand that Christ is still talking about the Pharisees. All right? Just keep that in mind as we read. All right? Because he was getting on the Pharisees in the previous chapter and letting them know in parable form that the scattered Israelites, they're going to come back. It is what it is. They're going to come back. Everybody is not going to be separated forever. All right? They're not going to be separated forever. The scattered Israelites, they will come back. Northern kingdom will come back and Christ was letting them know that they got to start treating their brothers right. So we start off at Luke 16 and verse one first.
 
 ## Scriptures Opened
 

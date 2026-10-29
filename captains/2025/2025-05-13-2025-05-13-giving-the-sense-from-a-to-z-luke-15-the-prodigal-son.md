@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "repentance", "the-word"]
 
 ## Introduction
 
-*[[0:49](https://www.youtube.com/watch?v=K4e2b7GQJ7c&t=49s)]* Shalom, shalom Israel. Most High and Christ bless you all. Given the sense, kept the zakat today. We're going to go over Luke chapter 15. Let's go ahead and get into it. We ain't got much time here. Got to get it out. All right, so we'll get started here. We'll go through Luke 15. That's where Captain Matthew of New Orleans left off. But well, he stopped at verse seven. But we'll go back through it here, and just skim over the first seven verses here so we can get the chapter going.
+*[[0:49](https://www.youtube.com/watch?v=K4e2b7GQJ7c&t=49s)]* Shalom, shalom Israel. Most High and Christ bless you all. Given the sense, kept the zakat today. We're going to go over Luke chapter 15. Let's go ahead and get into it. We ain't got much time here. Got to get it out. All right, so we'll get started here. We'll go through Luke 15. That's where Captain Matt of New Orleans left off. But well, he stopped at verse seven. But we'll go back through it here, and just skim over the first seven verses here so we can get the chapter going.
 
 ## Scriptures Opened
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 19"
 slug: "2025/2025-06-05-giving-the-sense-from-a-to-z-luke-19"
 date: "2025-06-05"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-06-05"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-06-05 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2025-06-05 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 19](/bible/luke/19) · [Mark 1](/bible/mark/1) · [Matt 10](/bible/matthew/10) · [Matt 9](/bible/matthew/9) · [Hos 6](/bible/hosea/6) · [Acts 5](/bible/acts/5) · [Matt 19](/bible/matthew/19) · [Rom 4](/bible/romans/4) · [Luke 1](/bible/luke/1) · [Acts 1](/bible/acts/1) · [Luke 6](/bible/luke/6) · [Ezek 20](/bible/ezekiel/20) · [Ps 118](/bible/psalms/118) · [Deut 28](/bible/deuteronomy/28)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose"]
 
 ## Introduction
 
-*[[1:39](https://www.youtube.com/watch?v=riw1PzDC_tY&t=99s)]* All praise to the most high. Most high in Christ bless family. Welcome back to another episode of Given the Sense. I'm your host, Captain Matthew. Today we'll be covering the book of Luke, chapter 19. We'll pick up where we left off at. So, all praises to the most high. So, as y'all know what we do before we open up the show, we get to the scripture of the inspiration behind the show. So, let's bring it out for the people. You know what we want. The book of Nehemiah 8:8.
+*[[1:39](https://www.youtube.com/watch?v=riw1PzDC_tY&t=99s)]* All praise to the most high. Most high in Christ bless family. Welcome back to another episode of Given the Sense. I'm your host, Captain Matt. Today we'll be covering the book of Luke, chapter 19. We'll pick up where we left off at. So, all praises to the most high. So, as y'all know what we do before we open up the show, we get to the scripture of the inspiration behind the show. So, let's bring it out for the people. You know what we want. The book of Nehemiah 8:8.
 
 ## Scriptures Opened
 

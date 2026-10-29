@@ -92,3 +92,7 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Captain Matthew and Captain Matt kept apart from Captain Mattathias
 
 - Obie 2026-10-27: Captain Mattathias, Captain Matthew and Captain Matt are three men. 43 notes (blog and captains) that had "Captain Matthew" or "Captain Matt" turned into Captain Mattathias now carry the name each class says, checked spot by spot against the captions; 101 spots, teacher fields and taught lines included. Spots where the captions say Mattathias (or a close garble of it) stay Captain Mattathias.
+
+## Captain Matt of IUIC Baton Rouge
+
+- Obie 2026-10-29: "Baton rouge its captain Matt short for Matthew". The captains-channel notes that call the Baton Rouge host "Captain Matthew" (Giving The Sense From A to Z and 15 Minutes w/ The Captains, plus other hosts naming him) now say Captain Matt: 31 notes, 74 spots. The 2026-04-18 Leaven part 2 note's "Captain Matthew" (the 9 a.m. class taught by Captain Matt) changes too. Captain Matthew of IUIC DC (Truth Be Told, 2026-09-13 guest) stays.
