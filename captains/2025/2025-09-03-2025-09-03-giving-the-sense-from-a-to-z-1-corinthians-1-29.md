@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 1:29"
 slug: "2025/2025-09-03-giving-the-sense-from-a-to-z-1-corinthians-1-29"
 date: "2025-09-03"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-09-03"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-09-03 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2025-09-03 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Cor 1](/bible/1-corinthians/1) · [Col 2](/bible/colossians/2) · [Rom 3](/bible/romans/3) · [1 Cor 2](/bible/1-corinthians/2) · [Acts 17](/bible/acts/17) · [Acts 18](/bible/acts/18) · [1 Kgs 8](/bible/1-kings/8) · [Eph 1](/bible/ephesians/1)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose", "the-law", "wisdom"]
 
 ## Introduction
 
-*[[2:55](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=175s)]* Hey, shalom Israel. Most high in Christ bless. Most high in Christ bless. Captain Matthew here. This is another edition of giving a sense from A to Z. All right. All right. So, we're going to start off with Nehemiah chapter 8 and verse 8. So that's why we do given a sense to cause our people to understand what it is that they read. All right. Yesterday Captain Josiah went over 1 Corinthians chapter 1. He stopped at verse 29. So I'm going to pick up from there. If you need to review, go back and watch his video. He did go in depth with it. I'm going to start at verse 29 right now.
+*[[2:55](https://www.youtube.com/watch?v=FqhCoA0ITn0&t=175s)]* Hey, shalom Israel. Most high in Christ bless. Most high in Christ bless. Captain Matt here. This is another edition of giving a sense from A to Z. All right. All right. So, we're going to start off with Nehemiah chapter 8 and verse 8. So that's why we do given a sense to cause our people to understand what it is that they read. All right. Yesterday Captain Josiah went over 1 Corinthians chapter 1. He stopped at verse 29. So I'm going to pick up from there. If you need to review, go back and watch his video. He did go in depth with it. I'm going to start at verse 29 right now.
 
 ## Scriptures Opened
 

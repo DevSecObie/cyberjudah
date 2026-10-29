@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 23"
 slug: "2025/2025-07-03-giving-the-sense-from-a-to-z-luke-23"
 date: "2025-07-03"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-07-03"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-07-03 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2025-07-03 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 23](/bible/luke/23) · [Acts 17](/bible/acts/17) · [Matt 17](/bible/matthew/17) · [Matt 22](/bible/matthew/22) · [John 18](/bible/john/18) · [Matt 5](/bible/matthew/5) · [Num 1](/bible/numbers/1) · [Hos 3](/bible/hosea/3) · [Rev 1](/bible/revelation/1) · [Luke 1](/bible/luke/1) · [Acts 26](/bible/acts/26) · [Matt 15](/bible/matthew/15) · [Mark 7](/bible/mark/7) · [Ps 22](/bible/psalms/22) · [Isa 53](/bible/isaiah/53) · <i>and 6 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 
 ## Introduction
 
-*[[6:53](https://www.youtube.com/watch?v=_O4s0HaETDM&t=413s)]* Hey, shalom Israel. Most high in Christ blessed. Most high, Christ blessed. That's right, we back at it again. Welcome back to another episode of giving a sense. I'm your host, Captain Matthew, and all praise to the most high for the opportunity to bring out the scriptures. Make sure before we get started, brothers, pull out pens and papers and your notebooks and your Bibles and read along and make sure you take notes. You understand what's going on here because it's our job to give you the sense according to the scriptures. So before we get into the lesson, y'all already know how we do. Let's open up with Nehemiah 8:8.
+*[[6:53](https://www.youtube.com/watch?v=_O4s0HaETDM&t=413s)]* Hey, shalom Israel. Most high in Christ blessed. Most high, Christ blessed. That's right, we back at it again. Welcome back to another episode of giving a sense. I'm your host, Captain Matt, and all praise to the most high for the opportunity to bring out the scriptures. Make sure before we get started, brothers, pull out pens and papers and your notebooks and your Bibles and read along and make sure you take notes. You understand what's going on here because it's our job to give you the sense according to the scriptures. So before we get into the lesson, y'all already know how we do. Let's open up with Nehemiah 8:8.
 
 ## Scriptures Opened
 

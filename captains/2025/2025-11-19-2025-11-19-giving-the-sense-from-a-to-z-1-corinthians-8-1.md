@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 8:1"
 slug: "2025/2025-11-19-giving-the-sense-from-a-to-z-1-corinthians-8-1"
 date: "2025-11-19"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-11-19"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "idolatry", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-11-19 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2025-11-19 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Cor 8](/bible/1-corinthians/8) · [Acts 17](/bible/acts/17) · [Acts 19](/bible/acts/19) · [Rom 14](/bible/romans/14)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "the-law"]
 
 ## Introduction
 
-*[[2:51](https://www.youtube.com/watch?v=-CBWAr699Z8&t=171s)]* Hey, shalom Israel. Most High and Christ bless. Kind of hot. Kind of hot. Most High and Christ bless Israel and shalom. All right. So, welcome to another edition of Giving the Sense from A to Z. I'm Captain Matthew and we are in the book of First Corinthians. All right, we're in the book of First Corinthians going over Paul's letters. All praise to the Most High. And I'mma jump right on into it. So, we are in 1 Corinthians chapter 8. All right, we are in 1 Corinthians chapter 8 and I'm going to start off with Nehemiah chapter 8:8. So remember chapter 7, it was going heavy over marriage, the laws of marriage, the balance that you're going to have to do when you are married. And the fact that there will be trouble in marriages. That the wife is bound to the husband as long as her husband is alive. And in chapter 8, he kind of switches the topic a little bit and goes into idolatry.
+*[[2:51](https://www.youtube.com/watch?v=-CBWAr699Z8&t=171s)]* Hey, shalom Israel. Most High and Christ bless. Kind of hot. Kind of hot. Most High and Christ bless Israel and shalom. All right. So, welcome to another edition of Giving the Sense from A to Z. I'm Captain Matt and we are in the book of First Corinthians. All right, we're in the book of First Corinthians going over Paul's letters. All praise to the Most High. And I'mma jump right on into it. So, we are in 1 Corinthians chapter 8. All right, we are in 1 Corinthians chapter 8 and I'm going to start off with Nehemiah chapter 8:8. So remember chapter 7, it was going heavy over marriage, the laws of marriage, the balance that you're going to have to do when you are married. And the fact that there will be trouble in marriages. That the wife is bound to the husband as long as her husband is alive. And in chapter 8, he kind of switches the topic a little bit and goes into idolatry.
 
 ## Scriptures Opened
 

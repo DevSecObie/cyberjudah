@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 4"
 slug: "2026/2026-03-12-giving-the-sense-from-a-to-z-2-corinthians-4"
 date: "2026-03-12"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2026-03-12"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-03-12 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2026-03-12 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Matt 16](/bible/matthew/16) · [2 Cor 4](/bible/2-corinthians/4) · [2 Cor 3](/bible/2-corinthians/3) · [Rom 7](/bible/romans/7) · [Acts 19](/bible/acts/19) · [Matt 13](/bible/matthew/13) · [John 15](/bible/john/15) · [2 Thess 2](/bible/2-thessalonians/2) · [John 3](/bible/john/3) · [John 8](/bible/john/8) · [Acts 9](/bible/acts/9) · [Acts 13](/bible/acts/13) · [Luke 9](/bible/luke/9) · [Acts 14](/bible/acts/14)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "persecution", "purpose
 
 ## Introduction
 
-*[[1:50](https://www.youtube.com/watch?v=hVRcXshrCUo&t=110s)]* All praise to the Most High. Hey, look family. Welcome back to another episode of Giving the Sense. I'm your host Captain Matthew. And we going through the letters of Paul. So, we picking up where Captain Zakai left off in 2 Corinthians. We actually in chapter 4. We do apologize for the delay. You know, before we get into it, give me Nehemiah chapter 8 verse 8.
+*[[1:50](https://www.youtube.com/watch?v=hVRcXshrCUo&t=110s)]* All praise to the Most High. Hey, look family. Welcome back to another episode of Giving the Sense. I'm your host Captain Matt. And we going through the letters of Paul. So, we picking up where Captain Zakai left off in 2 Corinthians. We actually in chapter 4. We do apologize for the delay. You know, before we get into it, give me Nehemiah chapter 8 verse 8.
 
 ## Scriptures Opened
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Colossians 2:9"
 slug: "2025/2025-08-06-giving-the-sense-from-a-to-z-colossians-2-9"
 date: "2025-08-06"
-teacher: "Captain Matthew"
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-08-06"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-08-06 · Captain Matthew</p>
+<p class="taught">Giving The Sense From A to Z · 2025-08-06 · Captain Matt</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Col 2](/bible/colossians/2) · [Acts 15](/bible/acts/15) · [Lev 12](/bible/leviticus/12) · [Gen 17](/bible/genesis/17) · [Rom 2](/bible/romans/2) · [Gal 2](/bible/galatians/2) · [Matt 15](/bible/matthew/15) · [Gal 4](/bible/galatians/4) · [Heb 10](/bible/hebrews/10) · [Eph 1](/bible/ephesians/1) · [Rom 4](/bible/romans/4) · [Heb 9](/bible/hebrews/9) · [Prov 7](/bible/proverbs/7) · [Titus 3](/bible/titus/3)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "repentance",
 
 ## Introduction
 
-*[[2:52](https://www.youtube.com/watch?v=dieeZCZzYPg&t=172s)]* Shalom. Shalom. Messiah Christ bless. Most high Christ bless. Good to see everybody again. Feel like a minute since I done been on here. Feel like a minute. But all praise to the most high. Once again I'm Captain Matthew. Today we are going over Colossians the second chapter. All right. Captain Horeb did a really good job. I was watching yesterday of him breaking down Colossians. And it's imperative that we know these things because there are a lot of doctrines that go out about the letters of Paul and they are completely false. So we're here to segregate this straight and give the people the sense as the scriptures have told us.
+*[[2:52](https://www.youtube.com/watch?v=dieeZCZzYPg&t=172s)]* Shalom. Shalom. Messiah Christ bless. Most high Christ bless. Good to see everybody again. Feel like a minute since I done been on here. Feel like a minute. But all praise to the most high. Once again I'm Captain Matt. Today we are going over Colossians the second chapter. All right. Captain Horeb did a really good job. I was watching yesterday of him breaking down Colossians. And it's imperative that we know these things because there are a lot of doctrines that go out about the letters of Paul and they are completely false. So we're here to segregate this straight and give the people the sense as the scriptures have told us.
 
 ## Scriptures Opened
 

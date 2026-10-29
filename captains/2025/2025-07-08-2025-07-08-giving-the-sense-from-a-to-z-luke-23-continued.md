@@ -54,7 +54,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy"]
 >
 > <sup>[25](/bible/luke/23#v25)</sup> And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.
 
-- Now let's go to Luke chapter 23. Captain Matthew got to Luke 23:23. So that's what we going to pick up at.
+- Now let's go to Luke chapter 23. Captain Matt got to Luke 23:23. So that's what we going to pick up at.
 
 - And the voices of them and of the chief priests prevailed: Right? So they coming to Pontius Pilate to get Jesus Christ crucified. That's what we reading. We're reading about the black Jews, the Israelites wanting their black king crucified because the scribes and the Pharisees and the chief priests and the elders had hatred for him.
 
