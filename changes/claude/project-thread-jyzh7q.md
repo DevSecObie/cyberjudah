@@ -101,3 +101,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Luke 13:1 (2025-04-30, Captain Zakai), 12:22 (2025-04-24, host heard as "Captain ARB" / "Captain Ab", left blank), 12:13 (2025-04-23, Captain Mattathias), 11:50 (2025-04-22, Captain Gedaliah, heard as "Captain Goliath"), 11:33 continued (2025-04-17, Captain Matt, heard as "Captain Matthew") and 11:26 continued (2025-04-16, Captain Emmanuel, IUIC Arkansas).
 - Obie 2026-10-29: Captain Goliath is Captain Gedaliah. "Captain Goliath" is now a Gedaliah spelling in data/names.tsv; the four notes that had it are respelled, and the 2025-08-13 Colossians 3:5 note gets Captain Gedaliah as its teacher.
+
+## Batch 19
+
+- Luke 11:10 continued (2025-04-15, Captain Gedaliah, heard as "Captain Gad Elia"), 11:5 continued (2025-04-09, Captain Mattathias), 11:3 (2025-04-02, Captain Zakai, heard as "Captain Zachariah"), 11:1 (2025-03-25, Captain Emmanuel, IUIC Arkansas), 10:4 (2025-03-20, Captain Gedaliah, heard as "Captain Gallayia" and "Captain get a light") and 10:1 (2025-03-19, Captain Zakai: the next class says Captain Zakai of Sacramento finished at Luke 10:3).
+- "Captain Gad Elia" and "Captain get a light" are now Gedaliah spellings in data/names.tsv. Two older notes that had "Captain Get a Light" (2025-06-16 Luke 21, 2025-08-20 Colossians 4:7) are respelled.
