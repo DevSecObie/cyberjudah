@@ -20,16 +20,9 @@ tags: ["IUIC in the ClassRoom", "captivity", "money", "nations", "reparations", 
 
 *[[0:59](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=59s)]* Battle Beyond Radio Show, hosted by Captain Joel with Officer Amaziah and the officers, on the demands for slavery reparations growing louder in Africa: the African Union and the Caribbean community at the Accra reparations conference, Ghana's president, and the UN. More proof that we are the Israelites of the Bible and that nobody else cares about us. They will never pay, because every nation took part; our reparation is the Lord's vengeance.
 
-## In The News
-
-- *[[3:08](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=188s)]* **A video on reparations: Germany paid Holocaust victims and Israel, the US paid Japanese Americans held in internment camps, but African Americans never got reparations for 246 years of slavery; bills to study it languished** — The fake Jews got reparations for what they went through, and all the nations got theirs, but us that went in slavery over 400 years got not a damn thing.
-- *[[39:16](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=2356s)]* **News from the Accra conference: at least 12.5 million Africans kidnapped; Ghana's president says the West built its wealth and superpower on the exploitation of the continent; slave owners in Britain got 20 million pounds and in the US $300 a slave, and the enslaved got nothing** — He ain't wrong: free labor. They paid the slave owners for their slaves, and the slaves got nothing; then they gave us jobs, food stamps and WIC. It's a blessing that the Lord put it in their mouth, so his word is manifest.
-- *[[54:14](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=3254s)]* **Ghana's president: much of Europe and the United States was built from the wealth harvested from the sweat, tears, blood and horrors of the slave trade and colonial exploitation, from nations whose natural resources were looted and people traded as commodities** — The so-called white man looted Africa like looters breaking a store window. Everybody in church says the Lord's Prayer: thy kingdom come means somebody's kingdom has got to go.
-- *[[1:02:46](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=3766s)]* **Kenya: the Kipsigis evicted from their land, now a lucrative tea estate, for British settlers; an elder in tears asks Britain to bring their land back** — They took the most fertile land and broke the people. They will get it, trust and believe.
-- *[[1:07:53](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=4073s)]* **The UN urging countries in the transatlantic slave trade to pay reparations: up to 30 million people uprooted, slavery a crime against humanity** — Then the criminal is supposed to pay the punishment. They charge others for human trafficking, and they created it, with the Bible in their hand that says don't steal a man.
-- *[[1:11:58](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=4318s)]* **A TV host: why should somebody pay for what an ancestor did seven or eight generations ago, long, long ago? And the Ghanaian guest's answer: you are a prime beneficiary of the slave trade** — He's bold as hell saying it on national TV. Y'all are still profiting, and you still have the grandfathers on the wall. Nobody forgets the World Trade Center or Hitler; only when it's us is it long ago.
-
 ## Scriptures Opened
+
+*[[3:08](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=188s)]* **In The News: A video on reparations: Germany paid Holocaust victims and Israel, the US paid Japanese Americans held in internment camps, but African Americans never got reparations for 246 years of slavery; bills to study it languished** — The fake Jews got reparations for what they went through, and all the nations got theirs, but us that went in slavery over 400 years got not a damn thing.
 
 **[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[4:43](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=283s)]*
 
@@ -122,6 +115,8 @@ Reading from An article: In Africa, demands for slavery reparations grow louder 
 - Weep sore for him that goeth away, for he shall return no more, nor see his native country: we're in South, Central and North America and Europe, given English, Portuguese, Spanish and French, and we don't know who we are. But we're the people of the book, the real Jews, and all we have to do is repent.
 
 
+*[[39:16](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=2356s)]* **In The News: News from the Accra conference: at least 12.5 million Africans kidnapped; Ghana's president says the West built its wealth and superpower on the exploitation of the continent; slave owners in Britain got 20 million pounds and in the US $300 a slave, and the enslaved got nothing** — He ain't wrong: free labor. They paid the slave owners for their slaves, and the slaves got nothing; then they gave us jobs, food stamps and WIC. It's a blessing that the Lord put it in their mouth, so his word is manifest.
+
 **[Psalms 83:1](/bible/psalms/83#v1)**  *[[46:08](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=2768s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
@@ -153,6 +148,8 @@ Reading from An article: In Africa, demands for slavery reparations grow louder 
 - An officer: the whole earth belongs to the Israelites. All thine enemies say we have swallowed her up: who's going to be their servants if they let us go? Did Pharaoh want to let us go? Certainly this is the day that we looked for: the day of vengeance, when Christ the black Messiah returns.
 
 
+*[[54:14](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=3254s)]* **In The News: Ghana's president: much of Europe and the United States was built from the wealth harvested from the sweat, tears, blood and horrors of the slave trade and colonial exploitation, from nations whose natural resources were looted and people traded as commodities** — The so-called white man looted Africa like looters breaking a store window. Everybody in church says the Lord's Prayer: thy kingdom come means somebody's kingdom has got to go.
+
 **[Deuteronomy 28:33](/bible/deuteronomy/28#v33)**  *[[56:11](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=3371s)]*
 
 > <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
@@ -181,6 +178,8 @@ Reading from An article: In Africa, demands for slavery reparations grow louder 
 - America was built on the backs of slaves, and her judgment comes in one hour: the Most High is going to throw down, especially over here.
 
 
+*[[1:02:46](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=3766s)]* **In The News: Kenya: the Kipsigis evicted from their land, now a lucrative tea estate, for British settlers; an elder in tears asks Britain to bring their land back** — They took the most fertile land and broke the people. They will get it, trust and believe.
+
 **[Micah 2:1](/bible/micah/2#v1)**  *[[1:04:47](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=3887s)]*
 
 > <sup>[1](/bible/micah/2#v1)</sup> Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
@@ -198,12 +197,16 @@ Reading from An article: In Africa, demands for slavery reparations grow louder 
     They covet fields, and take them by violence; so they oppress a man and his house, even a man and his heritage.
 
 
+*[[1:07:53](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=4073s)]* **In The News: The UN urging countries in the transatlantic slave trade to pay reparations: up to 30 million people uprooted, slavery a crime against humanity** — Then the criminal is supposed to pay the punishment. They charge others for human trafficking, and they created it, with the Bible in their hand that says don't steal a man.
+
 **[Isaiah 22:18](/bible/isaiah/22#v18)**  *[[1:10:23](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=4223s)]*
 
 > <sup>[18](/bible/isaiah/22#v18)</sup> He will surely violently turn and toss thee like a ball into a large country: there shalt thou die, and there the chariots of thy glory shall be the shame of thy lord’s house.
 
 - An officer: we didn't come over here on a Caribbean cruise …. He will surely violently turn and toss thee like a ball: we were defecating and urinating on each other in the ships, some jumped overboard, and the sharks followed the route feeding on the Israelites' bodies.
 
+
+*[[1:11:58](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=4318s)]* **In The News: A TV host: why should somebody pay for what an ancestor did seven or eight generations ago, long, long ago? And the Ghanaian guest's answer: you are a prime beneficiary of the slave trade** — He's bold as hell saying it on national TV. Y'all are still profiting, and you still have the grandfathers on the wall. Nobody forgets the World Trade Center or Hitler; only when it's us is it long ago.
 
 **[Isaiah 14:21](/bible/isaiah/14#v21)**  *[[1:15:10](https://www.youtube.com/watch?v=VvmmcQDsgqY&t=4510s)]*
 

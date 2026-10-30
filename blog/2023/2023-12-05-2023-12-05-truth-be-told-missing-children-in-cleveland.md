@@ -20,20 +20,9 @@ tags: ["IUIC in the ClassRoom", "marriage-family"]
 
 *[[3:01](https://www.youtube.com/watch?v=qxxh-jH13tI&t=181s)]* Truth Be Told from IUIC DC, hosted by Captain Matthew with Officer Ruben, Officer Micah and the officers, after the brothers marched in Cleveland and passed out flyers for the missing children: Ohio has over 97,000 missing people, many of them our children. They took the mighty men and left the poorest, broke up the household, and still steal our children; be a father to the fatherless, and the Lord's law on him that stealeth a man stands.
 
-## In The News
-
-- *[[4:09](https://www.youtube.com/watch?v=qxxh-jH13tI&t=249s)]* **The weekend in Cleveland: photos and reels of the brothers marching and passing out flyers for the missing children, and a captain's street message that the state of Ohio averages about 100,000 missing people a year, about 18,000 of them children, many black and brown** — We ain't waiting on nobody else: it's our responsibility to rebuild our community. They took the man out of the household with welfare in the 60s and 70s, like in that James Earl Jones movie, and the highest rate of single-parent households is in the black community by design. The brothers walked 25,000 steps; you have to be ready mentally and physically.
-- *[[13:22](https://www.youtube.com/watch?v=qxxh-jH13tI&t=802s)]* **Over 97,000 missing people in Cleveland alone, as the brothers looked it up; 45 children missing in one month in October, and a stack of 25 flyers from November** — Teen girls recognized three of the missing girls from school, and a social worker recognized a child missing from a foster home. Those foster homes are wicked. And they don't put out Amber Alerts for our children: ain't no sister named Amber anyway.
-- *[[21:03](https://www.youtube.com/watch?v=qxxh-jH13tI&t=1263s)]* **A house explosion in Virginia when police came to serve a warrant, with the man's online bio calling the US the biggest terrorist and saying to defund the FBI, CIA and NSA** — He's a walking terrorist billboard, and he's not called a terrorist or a hate group, but we get the crazy labels. They're not even running what church he goes to.
-- *[[32:22](https://www.youtube.com/watch?v=qxxh-jH13tI&t=1942s)]* **An article: South Korean farmers who breed dogs for human consumption scuffle with police at a protest over a bill to ban the centuries-old practice, and an old video of a Chinese boy saying we don't eat rats and mice and don't all run laundries** — We got the receipts, so nobody can say we're out here hating. He was trying to dispel the laundry myth a hundred years ago, but it was prophesied.
-- *[[37:54](https://www.youtube.com/watch?v=qxxh-jH13tI&t=2274s)]* **That Bama Got Cut: a captain answering a brother at a state university who says Moses and David got emotional** — David was a man: he saved his people, married his wife and took care of his kids. He pulled up on the wrong one.
-- *[[48:54](https://www.youtube.com/watch?v=qxxh-jH13tI&t=2934s)]* **Bishop Nathanyel has racked up over 2 million views on two of his Instagram uploads with only 50,000 followers; help reach 100,000 followers at Nathaniel 7** — All praise to the Most High for the Bishop organizing us men and building this nation. You're always going to have haters, a full-time job, in the comment section.
-- *[[57:42](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3462s)]* **Missing Children in Cleveland: Columbus families at a missing persons day event, more than 97,000 people still actively missing in the state of Ohio, a mother looking for her son for nearly 17 years** — You've got over 100,000 missing persons up there.
-- *[[1:01:13](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3673s)]* **Congresswoman Cynthia McKinney asking Secretary Rumsfeld whether it is US policy to reward companies that traffic in women and little girls, as DynCorp kept its Pentagon vaccine contracts after being exposed for buying and selling young women and children** — They ran her out of Congress because she wasn't going for the BS. You don't have almost 100,000 people missing in an area without it being organized: think of the logistics it takes to move 100,000 people.
-- *[[1:05:57](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3957s)]* **A whistleblower testifying to Congress about the 85,000 migrant children missing, working overnight shifts at slaughterhouses and factories to pay smugglers, and sold for sex** — Everybody at the Capitol on January 6 they found with cell phones and facial recognition, but 85,000 children just disappear. You're reporting to the same people running the operation: slavery is big business.
-- *[[1:10:37](https://www.youtube.com/watch?v=qxxh-jH13tI&t=4237s)]* **The Forerunner Chronicles in a graveyard, on houses set up in line with a graveyard's front gate, with black curtains and plexiglass windows** — They've got sacrifice houses all around the country; that brother exposed that over 10 years ago.
-
 ## Scriptures Opened
+
+*[[4:09](https://www.youtube.com/watch?v=qxxh-jH13tI&t=249s)]* **In The News: The weekend in Cleveland: photos and reels of the brothers marching and passing out flyers for the missing children, and a captain's street message that the state of Ohio averages about 100,000 missing people a year, about 18,000 of them children, many black and brown** — We ain't waiting on nobody else: it's our responsibility to rebuild our community. They took the man out of the household with welfare in the 60s and 70s, like in that James Earl Jones movie, and the highest rate of single-parent households is in the black community by design. The brothers walked 25,000 steps; you have to be ready mentally and physically.
 
 **[Deuteronomy 24:7](/bible/deuteronomy/24#v7)**  *[[4:59](https://www.youtube.com/watch?v=qxxh-jH13tI&t=299s)]*
 
@@ -41,6 +30,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family"]
 
 - That's what we were teaching our people in Cleveland this week: if a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him, then that thief shall die.
 
+
+*[[13:22](https://www.youtube.com/watch?v=qxxh-jH13tI&t=802s)]* **In The News: Over 97,000 missing people in Cleveland alone, as the brothers looked it up; 45 children missing in one month in October, and a stack of 25 flyers from November** — Teen girls recognized three of the missing girls from school, and a social worker recognized a child missing from a foster home. Those foster homes are wicked. And they don't put out Amber Alerts for our children: ain't no sister named Amber anyway.
 
 **[2 Kings 24:14](/bible/2-kings/24#v14)**  *[[14:52](https://www.youtube.com/watch?v=qxxh-jH13tI&t=892s)]*
 
@@ -87,6 +78,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family"]
     We are orphans and fatherless, our mothers are as widows.
 
 
+*[[21:03](https://www.youtube.com/watch?v=qxxh-jH13tI&t=1263s)]* **In The News: A house explosion in Virginia when police came to serve a warrant, with the man's online bio calling the US the biggest terrorist and saying to defund the FBI, CIA and NSA** — He's a walking terrorist billboard, and he's not called a terrorist or a hate group, but we get the crazy labels. They're not even running what church he goes to.
+
 **[Matthew 5:9](/bible/matthew/5#v9)**  *[[25:32](https://www.youtube.com/watch?v=qxxh-jH13tI&t=1532s)]*
 
 > <sup>[9](/bible/matthew/5#v9)</sup> Blessed are the peacemakers: for they shall be called the children of God.
@@ -116,12 +109,16 @@ tags: ["IUIC in the ClassRoom", "marriage-family"]
 - The Ammonite and the Moabite should not come into the congregation of God for ever: that destroys Christianity's all nations will be saved.
 
 
+*[[32:22](https://www.youtube.com/watch?v=qxxh-jH13tI&t=1942s)]* **In The News: An article: South Korean farmers who breed dogs for human consumption scuffle with police at a protest over a bill to ban the centuries-old practice, and an old video of a Chinese boy saying we don't eat rats and mice and don't all run laundries** — We got the receipts, so nobody can say we're out here hating. He was trying to dispel the laundry myth a hundred years ago, but it was prophesied.
+
 **[Psalms 60:8](/bible/psalms/60#v8)**  *[[36:24](https://www.youtube.com/watch?v=qxxh-jH13tI&t=2184s)]*
 
 > <sup>[8](/bible/psalms/60#v8)</sup> Moab is my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me.
 
 - They've been eating dogs and rats for centuries, and he tried to say they don't all run laundries 100 years ago, but it goes back prior: Moab is my washpot. Over Edom will I cast out my shoe: the Lord is about to cast his place down; throw a shoe at somebody in the Middle East and you might get put to death. The Lord is laying out the judgments on these nations.
 
+
+*[[37:54](https://www.youtube.com/watch?v=qxxh-jH13tI&t=2274s)]* **In The News: That Bama Got Cut: a captain answering a brother at a state university who says Moses and David got emotional** — David was a man: he saved his people, married his wife and took care of his kids. He pulled up on the wrong one.
 
 **[Hosea 6:5](/bible/hosea/6#v5)**  *[[38:51](https://www.youtube.com/watch?v=qxxh-jH13tI&t=2331s)]*
 
@@ -161,6 +158,8 @@ Reading from Children of God's Fire  *[[39:32](https://www.youtube.com/watch?v=q
 
 - The music video: endeavouring to keep the unity of the Spirit in the bond of peace. Across the waters, teaching our people, 12 tribes worldwide: this is a redemption.
 
+
+*[[48:54](https://www.youtube.com/watch?v=qxxh-jH13tI&t=2934s)]* **In The News: Bishop Nathanyel has racked up over 2 million views on two of his Instagram uploads with only 50,000 followers; help reach 100,000 followers at Nathaniel 7** — All praise to the Most High for the Bishop organizing us men and building this nation. You're always going to have haters, a full-time job, in the comment section.
 
 **[Sirach 33:14](/bible/sirach/33#v14)**  *[[50:55](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3055s)]*
 
@@ -203,6 +202,8 @@ Reading from Children of God's Fire  *[[39:32](https://www.youtube.com/watch?v=q
 - You don't see them standing up for missing children. Whosoever hateth his brother is a murderer: that's the death that must be present when godliness is blasted out, particularly in the comment section, behind a keyboard in a dusty basement.
 
 
+*[[57:42](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3462s)]* **In The News: Missing Children in Cleveland: Columbus families at a missing persons day event, more than 97,000 people still actively missing in the state of Ohio, a mother looking for her son for nearly 17 years** — You've got over 100,000 missing persons up there.
+
 **[Malachi 1:4](/bible/malachi/1#v4)**  *[[1:00:19](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3619s)]*
 
 > <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
@@ -216,6 +217,8 @@ Reading from Children of God's Fire  *[[39:32](https://www.youtube.com/watch?v=q
 
 - The earth is given into the hand of the wicked: if you haven't noticed, the white man runs the earth. That's just a fact.
 
+
+*[[1:01:13](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3673s)]* **In The News: Congresswoman Cynthia McKinney asking Secretary Rumsfeld whether it is US policy to reward companies that traffic in women and little girls, as DynCorp kept its Pentagon vaccine contracts after being exposed for buying and selling young women and children** — They ran her out of Congress because she wasn't going for the BS. You don't have almost 100,000 people missing in an area without it being organized: think of the logistics it takes to move 100,000 people.
 
 **[Psalms 17:13](/bible/psalms/17#v13)**  *[[1:03:24](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3804s)]*
 
@@ -237,6 +240,8 @@ Reading from Children of God's Fire  *[[39:32](https://www.youtube.com/watch?v=q
     Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?
 
 
+*[[1:05:57](https://www.youtube.com/watch?v=qxxh-jH13tI&t=3957s)]* **In The News: A whistleblower testifying to Congress about the 85,000 migrant children missing, working overnight shifts at slaughterhouses and factories to pay smugglers, and sold for sex** — Everybody at the Capitol on January 6 they found with cell phones and facial recognition, but 85,000 children just disappear. You're reporting to the same people running the operation: slavery is big business.
+
 **[Habakkuk 1:4](/bible/habakkuk/1#v4)**  *[[1:08:21](https://www.youtube.com/watch?v=qxxh-jH13tI&t=4101s)]*
 
 > <sup>[4](/bible/habakkuk/1#v4)</sup> Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
@@ -250,6 +255,8 @@ Reading from Children of God's Fire  *[[39:32](https://www.youtube.com/watch?v=q
 
 - Some of the kids end up in factories, and some are killed for sacrifices. Thou shalt not let any of thy seed pass through the fire to Molech: God had to make a law, because the other nations were always sacrificing and he knew we would pick up their bad habits.
 
+
+*[[1:10:37](https://www.youtube.com/watch?v=qxxh-jH13tI&t=4237s)]* **In The News: The Forerunner Chronicles in a graveyard, on houses set up in line with a graveyard's front gate, with black curtains and plexiglass windows** — They've got sacrifice houses all around the country; that brother exposed that over 10 years ago.
 
 **[Jeremiah 7:31](/bible/jeremiah/7#v31)**  *[[1:16:14](https://www.youtube.com/watch?v=qxxh-jH13tI&t=4574s)]*
 

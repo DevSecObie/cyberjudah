@@ -20,10 +20,6 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 
 *[[1:00](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=60s)]* Today's topic: the ancient holiday of Halloween. A lot of you at home celebrate Halloween and say it's for the children, it's just trick-or-treating, there's nothing evil or malicious about it. Hallow means holy, and the 'een' refers to Eve: holy Eve. It was a Celtic holiday of the Middle Ages, in honor of the lord of the dead, Sam Hayne, brought all the way up till today with slight changes, but the root of it all is still evil, still demonic. Where do the jack-o'-lantern, the witch with her broomstick, the black cat and trick or treat come from, and why do your children dress up as goblins, ghouls and superheroes?
 
-## In The News
-
-- *[[14:13](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=853s)]* **A clip from *Justice League: The New Frontier*** — The origin behind all these superheroes: the ancient gods of Greece and Rome and Egypt still exist, only today they wear Spandex and capes. They come from ancient false gods, which were really demons, and you dress little Johnny up as the Flash, Spiderman, Batman.
-
 ## Scriptures Opened
 
 **[John 8:32](/bible/john/8#v32)**  *[[1:00](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=60s)]*
@@ -81,6 +77,8 @@ tags: ["IUIC in the ClassRoom", "angels", "women"]
 
 - People dress up like goblins and ghouls and monsters to ward off evil spirits. By dressing up in those costumes you gave homage to those false gods and demons and wanted their protection and not harm.
 
+
+*[[14:13](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=853s)]* **In The News: A clip from *Justice League: The New Frontier*** — The origin behind all these superheroes: the ancient gods of Greece and Rome and Egypt still exist, only today they wear Spandex and capes. They come from ancient false gods, which were really demons, and you dress little Johnny up as the Flash, Spiderman, Batman.
 
 **[Exodus 22:18](/bible/exodus/22#v18)**  *[[14:13](https://www.youtube.com/watch?v=fnuC_xS6tcg&t=853s)]*
 

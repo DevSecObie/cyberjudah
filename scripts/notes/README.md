@@ -34,7 +34,11 @@ the points that were made, and the breakdown of each scripture that was opened.
 - **Introduction** is what the class is about and why he taught it, in a short paragraph,
   timestamped at his first words. Greetings, roll calls and shout-outs are not in it.
 - **In The News** names the clip and the point it was played to make, in a line or two.
-  The clip itself is not transcribed; the recording has it.
+  The clip itself is not transcribed; the recording has it. It sits where the class played it:
+  in Scriptures Opened, before the first passage opened after it, as one paragraph
+  `*[21:31]* **In The News: <the clip>** — <the point>`. The note follows the class from start
+  to finish; `python3 scripts/notes/class_order.py` puts a note in that order (auto.py does it
+  for every note it writes), and `--check` reports a note that is not.
 - **Class Questions** keeps the questions the teacher put to the class and the answers he
   gave, one line each.
 - **In Closing** is his charge to the class, in his words, kept to the point he closed on.
@@ -88,8 +92,7 @@ tags: ["IUIC in the ClassRoom"]
 <div class="class-video-mount" data-video-id="ABr5bgs96vY"></div>
 
 ## Introduction
-## In The News          (Sabbath classes only, and only when the class had clips)
-## Scriptures Opened
+## Scriptures Opened    (the news a class played sits here, where it was played)
 ## In Closing
 ## Announcements & References   (Sabbath classes, when the class had them)
 

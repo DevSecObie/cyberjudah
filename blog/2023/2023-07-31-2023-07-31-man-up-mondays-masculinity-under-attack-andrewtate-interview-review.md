@@ -20,20 +20,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
 
 *[[17:20](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=1040s)]* Man Up Mondays with Captain Emmanuel of IUIC Arkansas, filling in for the regular host, on masculinity under attack, reviewing Candace Owens' interview with Andrew Tate. God's order is God, Christ, man, woman; Satan's order is the opposite, and the man of sin, whose coming is after the working of Satan, rules the same way the serpent did in the garden: through the woman, by removing the warrior spirit from the man.
 
-## In The News
-
-- *[[57:12](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=3432s)]* **Andrew Tate: the people in charge can only implement their plans if they remove the warrior spirit from every man on the planet** — The real threat is the Israelite man, and Nahum 3:13 shows what they've accomplished with our men.
-- *[[1:08:19](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=4099s)]* **Porn agenda, part one: Tate on the powers that be wanting the male populace as docile as possible, and the slave mind** — Propaganda has pushed porn as healthy, and it cuts short the desire driven by masculinity to go out, compete and be the best version of yourself.
-- *[[1:11:43](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=4303s)]* **Porn agenda, part two: the devil or the Matrix will fill your life with temptations and easy ways out, and men lack the fortitude to say "I'm better than that"** — Tate holds men accountable, but the only way to resist is through God: put on the whole armor of God.
-- *[[1:27:15](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=5235s)]* **How my father raised me: Tate's father predicted the gay people would come for your children, raised him with accountability and discipline, and raised the brothers to be warriors** — The woman can't raise a man because she has no accountability, and there's been an agenda for a long time to exterminate the father from the household.
-- *[[1:42:37](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=6157s)]* **Candace Owens on what she saw in homosexual couples, and how it bleeds into pornography and the classroom** — God set it up so a relationship has to be more than sex: you have to nourish and cherish your wife.
-- *[[1:51:35](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=6695s)]* **Tate: they're teaching men to act out their feelings, emotional incontinence, so they're easier to control** — He that hath no rule over his own spirit is like a city broken down and without walls.
-- *[[1:55:41](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=6941s)]* **Owens: women want a masculine man, and she broke up with a boyfriend who was "just such a flower"** — That's nature, biology: the woman was made to be the ultimate support system of the leader, the neck to the head.
-- *[[1:59:20](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7160s)]* **The hypocrisy of feminism: when things get hard, people look for traditional masculinity to protect them** — When the power shuts off and there's a lack of bread, they're going to look to that man.
-- *[[2:02:00](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7320s)]* **Women rule equals easy to deceive: with a matriarchy you can affect it with emotional arguments, and masculinity in a household makes it harder to psyop** — When the woman is in front, Satan is the head of the operation.
-- *[[2:06:33](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7593s)]* **Through women we fall: Tate says virtually every societal ill we face is because of women, and the woman holding the camera agrees** — You can't make this up: of the woman came the beginning of sin.
-- *[[2:12:12](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7932s)]* **Tate: you build resilience by going through something; when young men tell him something bad happened, he says good, or you end up like Prince Harry** — Tribulation builds character: acceptable men are tried in the furnace of adversity.
-
 ## Scriptures Opened
 
 **[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[[18:06](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=1086s)]*
@@ -200,6 +186,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
 - The fruit is the fruit of lies: if you eat of their fruit, believe their false doctrine and idolatry, you die. Satan lied, because that's how he has power on earth: through death.
 
 
+*[[57:12](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=3432s)]* **In The News: Andrew Tate: the people in charge can only implement their plans if they remove the warrior spirit from every man on the planet** — The real threat is the Israelite man, and Nahum 3:13 shows what they've accomplished with our men.
+
 **[Nahum 3:13](/bible/nahum/3#v13)**  *[[58:03](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=3483s)]*
 
 > <sup>[13](/bible/nahum/3#v13)</sup> Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.
@@ -224,6 +212,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
 - They which lead thee cause thee to err: if the woman is leading, her head is Satan. That's the degeneracy in New Orleans and Memphis.
 
 
+*[[1:08:19](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=4099s)]* **In The News: Porn agenda, part one: Tate on the powers that be wanting the male populace as docile as possible, and the slave mind** — Propaganda has pushed porn as healthy, and it cuts short the desire driven by masculinity to go out, compete and be the best version of yourself.
+
 **[Sirach 33:27](/bible/sirach/33#v27)**  *[[1:09:48](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=4188s)]*
 
 > <sup>[27](/bible/sirach/33#v27)</sup> Send him to labour, that he be not idle; for idleness teacheth much evil.
@@ -232,6 +222,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
 
 - Idleness teacheth much evil: the Devil's playground. You can't watch porn while rebuilding an engine or building a house.
 
+
+*[[1:11:43](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=4303s)]* **In The News: Porn agenda, part two: the devil or the Matrix will fill your life with temptations and easy ways out, and men lack the fortitude to say "I'm better than that"** — Tate holds men accountable, but the only way to resist is through God: put on the whole armor of God.
 
 **[Wisdom of Solomon 4:12](/bible/wisdom-of-solomon/4#v12)**  *[[1:12:52](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=4372s)]*
 
@@ -269,6 +261,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
 
     She teacheth temperance and prudence, justice and fortitude.
 
+
+*[[1:27:15](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=5235s)]* **In The News: How my father raised me: Tate's father predicted the gay people would come for your children, raised him with accountability and discipline, and raised the brothers to be warriors** — The woman can't raise a man because she has no accountability, and there's been an agenda for a long time to exterminate the father from the household.
 
 **[Wisdom of Solomon 3:11](/bible/wisdom-of-solomon/3#v11)**  *[[1:31:13](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=5473s)]*
 
@@ -308,6 +302,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
     He that maketh too much of his son shall bind up his wounds: that's raising a simp. A father says … it off and get up.
 
 
+*[[1:42:37](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=6157s)]* **In The News: Candace Owens on what she saw in homosexual couples, and how it bleeds into pornography and the classroom** — God set it up so a relationship has to be more than sex: you have to nourish and cherish your wife.
+
 **[Ephesians 5:28](/bible/ephesians/5#v28)**  *[[1:45:50](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=6350s)]*
 
 > <sup>[28](/bible/ephesians/5#v28)</sup> So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
@@ -334,6 +330,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
     Men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.
 
 
+*[[1:51:35](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=6695s)]* **In The News: Tate: they're teaching men to act out their feelings, emotional incontinence, so they're easier to control** — He that hath no rule over his own spirit is like a city broken down and without walls.
+
 **[Proverbs 25:28](/bible/proverbs/25#v28)**  *[[1:53:00](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=6780s)]*
 
 > <sup>[28](/bible/proverbs/25#v28)</sup> He that hath no rule over his own spirit is like a city that is broken down, and without walls.
@@ -348,12 +346,18 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
 - He that is slow to anger is better than the mighty: mental toughness over physical toughness. If you rule your spirit you're mightier than him that taketh a city, and the enemy cannot control you.
 
 
+*[[1:55:41](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=6941s)]* **In The News: Owens: women want a masculine man, and she broke up with a boyfriend who was "just such a flower"** — That's nature, biology: the woman was made to be the ultimate support system of the leader, the neck to the head.
+
+*[[1:59:20](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7160s)]* **In The News: The hypocrisy of feminism: when things get hard, people look for traditional masculinity to protect them** — When the power shuts off and there's a lack of bread, they're going to look to that man.
+
 **[Isaiah 32:2](/bible/isaiah/32#v2)**  *[[2:00:57](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7257s)]*
 
 > <sup>[2](/bible/isaiah/32#v2)</sup> And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.
 
 - When famine comes, the power shuts off and animals have to be hunted, the same feminists will scream for traditional masculinity: a man shall be as a hiding place from the wind. Satan has you thinking you don't need that man because he's giving you everything.
 
+
+*[[2:02:00](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7320s)]* **In The News: Women rule equals easy to deceive: with a matriarchy you can affect it with emotional arguments, and masculinity in a household makes it harder to psyop** — When the woman is in front, Satan is the head of the operation.
 
 **[Jeremiah 31:22](/bible/jeremiah/31#v22)**  *[[2:04:33](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7473s)]*
 
@@ -377,6 +381,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
     I have said, Ye are gods.
 
 
+*[[2:06:33](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7593s)]* **In The News: Through women we fall: Tate says virtually every societal ill we face is because of women, and the woman holding the camera agrees** — You can't make this up: of the woman came the beginning of sin.
+
 **[Sirach 25:24](/bible/sirach/25#v24)**  *[[2:09:05](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7745s)]*
 
 > <sup>[24](/bible/sirach/25#v24)</sup> Of the woman came the beginning of sin, and through her we all die.
@@ -390,6 +396,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "mental-health", "satan", "wisdom",
 
 - Neither is the man without the woman: I couldn't be alive or have a seed in this earth without her. We need y'all, but y'all got to fall in line. When y'all got the wheel y'all always swerve off the road; give us the wheel and sit back.
 
+
+*[[2:12:12](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=7932s)]* **In The News: Tate: you build resilience by going through something; when young men tell him something bad happened, he says good, or you end up like Prince Harry** — Tribulation builds character: acceptable men are tried in the furnace of adversity.
 
 **[Sirach 2:5](/bible/sirach/2#v5)**  *[[2:13:45](https://www.youtube.com/watch?v=Yq_Mis0gMEY&t=8025s)]*
 

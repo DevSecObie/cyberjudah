@@ -19,12 +19,9 @@ tags: ["IUIC in the ClassRoom", "anger", "discipline", "marriage-family", "menta
 
 *[[5:40](https://www.youtube.com/watch?v=eNMvid6j-qk&t=340s)]* The art of war and the rules of engagement: the war we are in is spiritual, fought first in the mind, and a soldier who has not written down his own rules before the battle has already lost. The class opens with the trip to Papua New Guinea and the migration of Naphtali to the islands of the sea, then lays out rules of engagement for the mind, for lust, for the phone, and for the arguments of a marriage.
 
-## In The News
-
-- *[[6:44](https://www.youtube.com/watch?v=eNMvid6j-qk&t=404s)]* **The thumbnail film on The Art of War** — Every war is fought twice, once in the mind before the battle; know the enemy, sin, and know yourself, where you are weak and what opens the gate.
-- *[[12:15](https://www.youtube.com/watch?v=eNMvid6j-qk&t=735s)]* **Pictures from the trip to Papua New Guinea with Deacon Isaac, Captain Uri, Officer Ibuka and Officer Luke** — The people there are the most receptive and studious he has met; the NBC radio host took the truth on air knowing the cost; being shut out of the stage sent the brothers to the university, where the Lord had one sheep waiting who had been studying IUIC for years.
-
 ## Scriptures Opened
+
+*[[6:44](https://www.youtube.com/watch?v=eNMvid6j-qk&t=404s)]* **In The News: The thumbnail film on The Art of War** — Every war is fought twice, once in the mind before the battle; know the enemy, sin, and know yourself, where you are weak and what opens the gate.
 
 **[Proverbs 25:25](/bible/proverbs/25#v25)**  *[[9:57](https://www.youtube.com/watch?v=eNMvid6j-qk&t=597s)]*
 
@@ -49,6 +46,8 @@ tags: ["IUIC in the ClassRoom", "anger", "discipline", "marriage-family", "menta
 
 - A few captains cannot do it alone: get your passport and your finances together and travel to spread this gospel.
 
+
+*[[12:15](https://www.youtube.com/watch?v=eNMvid6j-qk&t=735s)]* **In The News: Pictures from the trip to Papua New Guinea with Deacon Isaac, Captain Uri, Officer Ibuka and Officer Luke** — The people there are the most receptive and studious he has met; the NBC radio host took the truth on air knowing the cost; being shut out of the stage sent the brothers to the university, where the Lord had one sheep waiting who had been studying IUIC for years.
 
 **[Isaiah 11:10-12](/bible/isaiah/11#v10)**  *[[24:08](https://www.youtube.com/watch?v=eNMvid6j-qk&t=1448s)]*
 

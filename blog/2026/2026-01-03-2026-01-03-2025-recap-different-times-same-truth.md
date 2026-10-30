@@ -19,14 +19,6 @@ tags: ["IUIC in the ClassRoom", "the-law"]
 
 *[[7:56](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=476s)]* A recap of 2025 through one lens: the times change, but the truth does not. The class argues that the Bible can only be understood from the right perspective, which means knowing who you are. It uses the Matrix, the Lion King and the billion-dollar genetics industry to show that identity matters, answers a pastor who says race is not biblical, and proves from Deuteronomy 28 that the curses identify Israel. It then turns to Trump's first acts in office, the rollback of DEI, and Black leaders calling him 'daddy.' The class went on to show how the TikTok sale to Oracle's pro-Israel owners and the retraining of its algorithm are used to hide Israel's teaching, as the chief priests once conspired to stop the apostles' word spreading.
 
-## In The News
-
-- *[[16:52](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1012s)]* **The Matrix scene in which Cypher knows the steak isn't real but chooses ignorance to be reinserted.** — Many know the truth but give up the kingdom for a salary, a house and acceptance.
-- *[[23:12](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1392s)]* **The Lion King scene in which Mufasa tells Simba, 'Remember who you are.'** — Identity matters. Israel must remember whose son it is.
-- *[[30:53](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1853s)]* **A well-known white pastor says race is not a biblical idea but a constructed one.** — The Bible is a family tree, with a table of nations in Genesis 10 and a command to keep one's seed.
-- *[[1:02:18](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=3738s)]* **Reports on Trump's first-day orders revoking the 1965 equal employment order and ending federal DEI, followed by companies like Target, Walmart and Amazon.** — Never trust thine enemy; his wickedness returns like rust on iron.
-- *[[1:08:55](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=4135s)]* **A Black commentator says the world will welcome Trump's return, saying 'Daddy's back.'** — We have made a covenant with death. It is the same spirit that said, we have no king but Caesar.
-
 ## Scriptures Opened
 
 **[1 Peter 4:11](/bible/1-peter/4#v11)**  *[[8:32](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=512s)]*
@@ -83,6 +75,10 @@ Reading from an AI answer to the question, "Does perspective shape how history i
     I send thee to the children of Israel, to a rebellious nation.
 
 
+*[[16:52](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1012s)]* **In The News: The Matrix scene in which Cypher knows the steak isn't real but chooses ignorance to be reinserted.** — Many know the truth but give up the kingdom for a salary, a house and acceptance.
+
+*[[23:12](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1392s)]* **In The News: The Lion King scene in which Mufasa tells Simba, 'Remember who you are.'** — Identity matters. Israel must remember whose son it is.
+
 **[Job 8:8](/bible/job/8#v8)**  *[[24:26](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1466s)]*
 
 > <sup>[8](/bible/job/8#v8)</sup> For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
@@ -109,6 +105,8 @@ Reading from on-screen figures on the genetics industry  *[[27:28](https://www.y
 - And guess what? I'm not saying that the industry is good as far as it's accurate. What I'm showing you is they know and tap into the psyche of that we don't know who we are. And they made it a billion-dollar industry. Meanwhile, back at the ranch, you got the Bible for free. Give you your whole history. You got the prophets all over the world right now, different cities and countries, teaching you who you are for free. We giving you the best ancestry.com breakdown you can find. And y'all don't want to hear us.
 
 </div>
+
+*[[30:53](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1853s)]* **In The News: A well-known white pastor says race is not a biblical idea but a constructed one.** — The Bible is a family tree, with a table of nations in Genesis 10 and a command to keep one's seed.
 
 **[Sirach 26:20](/bible/sirach/26#v20)**  *[[30:53](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=1853s)]*
 
@@ -190,6 +188,8 @@ Reading from on-screen figures on the genetics industry  *[[27:28](https://www.y
     He shall put a yoke of iron upon thy neck.
 
 
+*[[1:02:18](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=3738s)]* **In The News: Reports on Trump's first-day orders revoking the 1965 equal employment order and ending federal DEI, followed by companies like Target, Walmart and Amazon.** — Never trust thine enemy; his wickedness returns like rust on iron.
+
 **[Sirach 12:10](/bible/sirach/12#v10)**  *[[1:07:24](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=4044s)]*
 
 > <sup>[10](/bible/sirach/12#v10)</sup> Never trust thine enemy: for like as iron rusteth, so is his wickedness.
@@ -206,6 +206,8 @@ Reading from on-screen figures on the genetics industry  *[[27:28](https://www.y
 
     We have no king but Caesar.
 
+
+*[[1:08:55](https://www.youtube.com/watch?v=l-1Rp_fFl7U&t=4135s)]* **In The News: A Black commentator says the world will welcome Trump's return, saying 'Daddy's back.'** — We have made a covenant with death. It is the same spirit that said, we have no king but Caesar.
 
 ## Class Questions
 

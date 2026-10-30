@@ -19,13 +19,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "heaven-hell"]
 
 *[[3:22](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=202s)]* This class goes into the estate and mindset of our people: why the so-called Negroes, Hispanics and Native Indians of slave descent are hated by all nations and living in a hellish condition of captivity, slavery and confinement. The answer is that God chose us, gave us laws different from everybody else, and we broke them, so he used the nations that hate us to rule over us. But our hell can be redeemed out of by repentance, while Esau, who is hated by God, will not be redeemed from his. With the Day of Atonement approaching, we have to examine ourselves and be honest about how we offended God.
 
-## In The News
-
-- *[[20:36](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1236s)]* **The Edomite woman explaining why white people hate black people** — Let her tell it, because when we tell it we are called racist. She says the cruelty of slavery comes down through their DNA: that is the perpetual hatred, and Esau cannot change. Can a leopard change his spots? No. Nolan Wells's family should be praying for destruction of their enemies every night: send a hurricane and have the meteorologist call it Hurricane Nolan. Destroy Ocean Springs. Wipe that place out. Destroy their posterity. Cut off their children. That is what they should be praying for.
-- *[[27:17](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1637s)]* **A black man from the 1960s demanding that America keep its word on freedom and justice** — They are not going to give us anything. When one people oppresses another, that is war, as at Tulsa, Oklahoma, the first time the US government ever dropped bombs on people. That is that perpetual hatred; they will always hate us no matter what you do. Nolan Wells had to learn the hard way: how can you be comfortable the only Jake on a boat full of red pasty milky Edomite devils?
-- *[[1:05:09](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=3909s)]* **A former mercenary describing a planned 1981-82 coup in Haiti backed by the Vatican, the CIA and Mobil Oil, including buying a nuclear device** — The Most High is allowing them to tell on themselves: the plot was to steal resources, the fruit of thy land eaten up by a nation thou knowest not.
-- *[[1:21:39](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=4899s)]* **Maxine Waters asking the Secretary of State why the administration is cutting off oil to Cuba and starving the children** — She speaks as if they just changed now. Esau does not take us seriously, and they can cut off a whole island by the snap of a finger: dominion over our bodies.
-
 ## Scriptures Opened
 
 **[Wisdom of Solomon 18:7](/bible/wisdom-of-solomon/18#v7)**  *[[4:39](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=279s)]*
@@ -136,6 +129,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "heaven-hell"]
     Whosoever does not do righteousness is not of God. If you are not applying the law you are the son of the devil, just like a heathen, and you will get the same thing they get.
 
 
+*[[20:36](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1236s)]* **In The News: The Edomite woman explaining why white people hate black people** — Let her tell it, because when we tell it we are called racist. She says the cruelty of slavery comes down through their DNA: that is the perpetual hatred, and Esau cannot change. Can a leopard change his spots? No. Nolan Wells's family should be praying for destruction of their enemies every night: send a hurricane and have the meteorologist call it Hurricane Nolan. Destroy Ocean Springs. Wipe that place out. Destroy their posterity. Cut off their children. That is what they should be praying for.
+
 **[2 Esdras 11:40](/bible/2-esdras/11#v40)**  *[[26:12](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1572s)]*
 
 > <sup>[40](/bible/2-esdras/11#v40)</sup> And the fourth came, and overcame all the beasts that were past, and had power over the world with great fearfulness, and over the whole compass of the earth with much wicked oppression; and so long time dwelt he upon the earth with deceit.
@@ -146,6 +141,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "heaven-hell"]
 
 - He dwelt upon the earth with deceit, deceiving the whole world that the Most High, Christ, his angels, the twelve and the Jews are all white when they are not.
 
+
+*[[27:17](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1637s)]* **In The News: A black man from the 1960s demanding that America keep its word on freedom and justice** — They are not going to give us anything. When one people oppresses another, that is war, as at Tulsa, Oklahoma, the first time the US government ever dropped bombs on people. That is that perpetual hatred; they will always hate us no matter what you do. Nolan Wells had to learn the hard way: how can you be comfortable the only Jake on a boat full of red pasty milky Edomite devils?
 
 **[Amos 3:1-2](/bible/amos/3#v1)**  *[[30:32](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=1832s)]*
 
@@ -390,6 +387,8 @@ Reading from Wikipedia's list of anti-black slurs  *[[58:28](https://www.youtube
 - The Haiti plot is a prime example: they wanted to invade for one reason, to steal resources.
 
 
+*[[1:05:09](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=3909s)]* **In The News: A former mercenary describing a planned 1981-82 coup in Haiti backed by the Vatican, the CIA and Mobil Oil, including buying a nuclear device** — The Most High is allowing them to tell on themselves: the plot was to steal resources, the fruit of thy land eaten up by a nation thou knowest not.
+
 **[Deuteronomy 28:48](/bible/deuteronomy/28#v48)**  *[[1:09:13](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=4153s)]*
 
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
@@ -475,6 +474,8 @@ Reading from Wikipedia's list of anti-black slurs  *[[58:28](https://www.youtube
 
     They scattered us, parted God's land, and cast lots for us: the boys were turned into breeders and the girls sold for wine.
 
+
+*[[1:21:39](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=4899s)]* **In The News: Maxine Waters asking the Secretary of State why the administration is cutting off oil to Cuba and starving the children** — She speaks as if they just changed now. Esau does not take us seriously, and they can cut off a whole island by the snap of a finger: dominion over our bodies.
 
 **[Isaiah 5:13-14](/bible/isaiah/5#v13)**  *[[1:24:06](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=5046s)]*
 

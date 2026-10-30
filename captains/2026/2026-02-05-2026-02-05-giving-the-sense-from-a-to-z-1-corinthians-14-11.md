@@ -20,13 +20,9 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "prayer", "wisdom"]
 
 *[[8:36](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=516s)]* Shalom. Shalom. Shalom. Israel. Most high bless. Most high in Christ blessed. All praises to the Lord. Welcome to Giving of the Sense. We in this building. All right. Corinthians continues. All praises. We in 1 Corinthians 14. Believe Captain Zakai left off at 14 and verse 10. So all praises to the most high talking about speaking in tongues. Cap made a good point yesterday about brothers and sisters that's new to the body. This is an avenue where they could come, they can learn the sense of the scriptures and not get precept to death. You know what I mean? Because it is hard when you first come in understanding how to get the proper understanding of the scriptures. We are going to precept. There's no doubt about that. But we're going to take it on this platform. We like to take it slow and we like to give the complete sense, dive a little deeper into the scriptures and let you know exactly what is going on throughout, and especially with Paul's letters, because Paul's letters, man, it's already prophesied by Peter our forefather that they are hard to be understood, and a lot of people stumble at his letters. Up top, they got a whole religion that was created just off of the Pauline, they call them the Pauline letters: Christianity. So all praise to the Lord. Leadership created this avenue that we can dive in and give the sense of the matter. All right? So 1 Corinthians 14 is dealing with tongues. Dealing with speaking in tongues. All right? And it is not the tongues that we grown accustomed to. I wish we had a video, bro, of the tongues that we've grown accustomed to, that shallah belong balong. And I know y'all couldn't understand nothing I said, but this is what we grown accustomed to growing up in these churches. All right, with the Holy Spirit and some of these verses, they use these things. This is what we grew accustomed to, which is not speaking in tongues. They got speaking in tongue schools. Can you imagine that? Speaking in tongues schools. And to his point, he talking about speaking in tongue schools: I remember I was talking to a brother that used to be a ex pastor, and he was telling me, this is a true story, he was telling me how they speak in tongues, man, is they go out to the woods and listen to the animals. It is what it is. Let's dive into the scriptures.
 
-## In The News
-
-- *[[11:36](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=696s)]* **Clip of a speaking-in-tongues school** — This is what we grew accustomed to, which is not speaking in tongues.
-- *[[27:10](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=1630s)]* **Shorts of brothers speaking Creole** — So they speaking in tongues. This is the speaking of tongues that it's talking about. Pray that you have an interpreter.
-- *[[30:27](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=1827s)]* **New moon music** — Nobody knows what they're saying. All we hear is the music. You got to sing with the understanding also.
-
 ## Scriptures Opened
+
+*[[11:36](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=696s)]* **In The News: Clip of a speaking-in-tongues school** — This is what we grew accustomed to, which is not speaking in tongues.
 
 **[1 Corinthians 14:10](/bible/1-corinthians/14#v10)**  *[[13:29](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=809s)]*
 
@@ -197,6 +193,10 @@ Reading from Screenshot on screen (barbarian in the Bible), continued  *[[21:21]
 
 - For thou verily givest thanks well, but the other is not edified: He said, "Yeah, you give thanks, but everybody else ain't getting edified. You speaking in a unknown tongue and you blessing in an unknown tongue. You praying, singing, nobody can say amen." Nobody understands what you saying. They're not edified.
 
+
+*[[27:10](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=1630s)]* **In The News: Shorts of brothers speaking Creole** — So they speaking in tongues. This is the speaking of tongues that it's talking about. Pray that you have an interpreter.
+
+*[[30:27](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=1827s)]* **In The News: New moon music** — Nobody knows what they're saying. All we hear is the music. You got to sing with the understanding also.
 
 **[1 Corinthians 14:18](/bible/1-corinthians/14#v18)**  *[[32:02](https://www.youtube.com/watch?v=T6ODLlBpG6c&t=1922s)]*
 

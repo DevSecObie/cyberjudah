@@ -19,13 +19,9 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "passover-feasts"]
 
 *[[7:00](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=420s)]* Coming off the Day of Atonement and the Feast of Tabernacles, the class is a warning to those in the truth who take the high holy days and the whole walk as a game: the foolish who never trim their lamps and the faithless who will not seek the Lord with necessary patience. It walks the parable of the ten virgins and the proverbs of the fool, and closes on the clean slate the day of atonement gives Israel.
 
-## In The News
-
-- *[[7:47](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=467s)]* **The thumbnail video: a brother at the feast who cannot put up his tent, helped by a sister** — Things that actually took place after the day of atonement: brothers at the tabernacle who never trimmed their lamps, sneaking and creeping.
-- *[[1:21:53](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=4913s)]* **An image of Brandon Tatum** — For all men have not faith: men that hope for our downfall; anybody against this truth does not hate us, he hates Christ.
-- *[[2:28:19](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8899s)]* **Images of a single-edged knife and a two-edged sword** — All sin is a two-edged sword: sharp on both sides, it cuts, lacerates and kills.
-
 ## Scriptures Opened
+
+*[[7:47](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=467s)]* **In The News: The thumbnail video: a brother at the feast who cannot put up his tent, helped by a sister** — Things that actually took place after the day of atonement: brothers at the tabernacle who never trimmed their lamps, sneaking and creeping.
 
 **[Leviticus 23:26-28](/bible/leviticus/23#v26)**  *[[10:53](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=653s)]*
 
@@ -293,6 +289,8 @@ Reading from a dictionary, on the word convocation  *[[23:08](https://www.youtub
 
     Thou shalt not hate thy brother in thine heart, but rebuke him: those who have the means but will not donate because they cannot go do not want correction to go forth throughout the planet. The Lord don't need y'all; there are more in reserve to take your seat.
 
+
+*[[1:21:53](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=4913s)]* **In The News: An image of Brandon Tatum** — For all men have not faith: men that hope for our downfall; anybody against this truth does not hate us, he hates Christ.
 
 **[Psalms 73:1-9,22-24,26](/bible/psalms/73#v1)**  *[[1:25:07](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=5107s)]*
 
@@ -565,6 +563,8 @@ Reading from a dictionary, on the word malevolent  *[[2:16:34](https://www.youtu
 
     The wages of sin is death: the workers of iniquity have a 401k plan consisting of death and eternal damnation, and they keep adding sin to sin to cash out in the end.
 
+
+*[[2:28:19](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8899s)]* **In The News: Images of a single-edged knife and a two-edged sword** — All sin is a two-edged sword: sharp on both sides, it cuts, lacerates and kills.
 
 **[Sirach 21:3](/bible/sirach/21#v3)**  *[[2:29:18](https://www.youtube.com/watch?v=lGxKGhQoyAo&t=8958s)]*
 

@@ -20,15 +20,6 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"
 
 *[[6:10](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=370s)]* Escaping the Plantation 2.0, streamed live by IUIC Raleigh, hosted by an officer with Officer John and other officers, on the lord of the house: the restoration of the Israelite man. The righteous rant takes on men and women switching roles and kinds, the topic is the woman who tried to run over the brothers at the Montana camp, and the class goes through the Willie Lynch letter, Before the Mayflower and the prison system to show how the black man was broken out of his place as head of the house, and how keeping the commandments puts him back.
 
-## In The News
-
-- *[[10:30](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=630s)]* **Brittney Griner on Cam Newton's show saying she doesn't care whether she's called he or she** — That's the changing of kind in Wisdom of Solomon 14: the roles and the kinds have been switched.
-- *[[58:36](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=3516s)]* **The Willie Lynch letter, read by an officer** — Keep the body strong and the mind weak, break the man in front of the woman and children, and raise the children in reverse roles. These are the early stages of us being destroyed.
-- *[[1:24:22](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=5062s)]* **Esther Rolle: she would not do Good Times unless they gave her a husband for her children** — Our people understood the importance of having a father figure in the house.
-- *[[1:31:12](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=5472s)]* **A video on the prison system: convict leasing, George Stinney, mass incarceration, the 1994 crime bill and the 13th Amendment** — Just another plot to keep the black man out of the house.
-- *[[1:42:49](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=6169s)]* **Fix My Life: a lie detector test on a mother's accusation against the father** — Sisters, don't lie on the brothers to get them; come into the body and reform your minds.
-- *[[1:53:42](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=6822s)]* **Huey Newton on the Phil Donahue show** — Anytime the black man attempts to change the slave image, he's called scary.
-
 ## Scriptures Opened
 
 **[Psalms 71:2](/bible/psalms/71#v2)**  *[[8:50](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=530s)]*
@@ -37,6 +28,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"
 
 - Deliver us and cause us to escape the plantation, Babylon the Great, so-called America, and all the lands we were scattered to.
 
+
+*[[10:30](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=630s)]* **In The News: Brittney Griner on Cam Newton's show saying she doesn't care whether she's called he or she** — That's the changing of kind in Wisdom of Solomon 14: the roles and the kinds have been switched.
 
 **[Wisdom of Solomon 14:22](/bible/wisdom-of-solomon/14#v22)**  *[[14:13](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=853s)]*
 
@@ -246,6 +239,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"
     But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.
 
 
+*[[58:36](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=3516s)]* **In The News: The Willie Lynch letter, read by an officer** — Keep the body strong and the mind weak, break the man in front of the woman and children, and raise the children in reverse roles. These are the early stages of us being destroyed.
+
 **[Isaiah 1:5](/bible/isaiah/1#v5)**  *[[1:11:16](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=4276s)]*
 
 > <sup>[5](/bible/isaiah/1#v5)</sup> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
@@ -290,6 +285,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"
     Neither was the man created for the woman; but the woman for the man.
 
 
+*[[1:24:22](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=5062s)]* **In The News: Esther Rolle: she would not do Good Times unless they gave her a husband for her children** — Our people understood the importance of having a father figure in the house.
+
 **[Psalms 83:1](/bible/psalms/83#v1)**  *[[1:26:43](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=5203s)]*
 
 > <sup>[1](/bible/psalms/83#v1)</sup> Keep not thou silence, O God: hold not thy peace, and be not still, O God.
@@ -324,6 +321,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"
     And by their secret plots, and popular persuasions and commotions, they hindered the finishing of the building all the time that king Cyrus lived: so they were hindered from building for the space of two years, until the reign of Darius.
 
 
+*[[1:31:12](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=5472s)]* **In The News: A video on the prison system: convict leasing, George Stinney, mass incarceration, the 1994 crime bill and the 13th Amendment** — Just another plot to keep the black man out of the house.
+
 **[Isaiah 42:22](/bible/isaiah/42#v22)**  *[[1:36:59](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=5819s)]*
 
 > <sup>[22](/bible/isaiah/42#v22)</sup> But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
@@ -343,6 +342,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"
 
     Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
 
+
+*[[1:42:49](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=6169s)]* **In The News: Fix My Life: a lie detector test on a mother's accusation against the father** — Sisters, don't lie on the brothers to get them; come into the body and reform your minds.
 
 **[Sirach 25:13](/bible/sirach/25#v13)**  *[[1:47:24](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=6444s)]*
 
@@ -369,6 +370,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"
 
     Thou art thy mother’s daughter, that lotheth her husband and her children; and thou art the sister of thy sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.
 
+
+*[[1:53:42](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=6822s)]* **In The News: Huey Newton on the Phil Donahue show** — Anytime the black man attempts to change the slave image, he's called scary.
 
 **[Judith 5:20](/bible/judith/5#v20)**  *[[1:55:18](https://www.youtube.com/watch?v=DhDlh8OF9Ro&t=6918s)]*
 

@@ -19,24 +19,6 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 *[[12:59](https://www.youtube.com/watch?v=glPn1X5IJBg&t=779s)]* A class on mind control and the power of prayer: we think we have free will, but every decision we make has been filtered through something or somebody, and a man is either doing the work of the Lord or the work of Satan. The first part walks how our minds are taken — Willie Lynch, the welfare system, television, social media, the music, the white image of Christ and the pastors who feed themselves — and the second part shows the answer the scriptures give: a mind rooted in this Bible, and prayer the Most High hears and answers.
 
-## In The News
-
-- *[[14:40](https://www.youtube.com/watch?v=glPn1X5IJBg&t=880s)]* **The Willie Lynch letter, the passage on the breaking process of the African woman** — Test her every way, and use the bull whip to break her without killing her, because she is good economics; once she is in complete submission she trains her offspring to submit. The relationship was reversed on purpose — the male image destroyed in front of her, the son raised to be mentally weak and physically strong, the daughter raised to be independent like her. That is where the independent-woman song comes from, and it is why she does not think she needs a man.
-- *[[19:24](https://www.youtube.com/watch?v=glPn1X5IJBg&t=1164s)]* **Sister Ali on the civil rights movement and the welfare system** — The women's liberation movement was dropped into a fight the black man, woman and child were making together, and turned it into woman against man; then welfare told us we had to put the man out of the house to be fed and housed. When the white farm wife goes to the government for her subsidy, nobody tells her to get rid of the farmer.
-- *[[21:27](https://www.youtube.com/watch?v=glPn1X5IJBg&t=1287s)]* **A video on mind control and dark psychology** — Gaslighting, isolation and manipulation of perception erode critical thinking and foster dependence. Keeping the black man and the black woman apart is the isolation; the children end up dead or in jail. And the trauma left behind is the PTSD our people still carry out of slavery, Jim Crow and the black codes — we never fully recovered from it.
-- *[[30:51](https://www.youtube.com/watch?v=glPn1X5IJBg&t=1851s)]* **A clip of a television executive: television is not the truth, turn your sets off** — We lie like hell, we deal in illusions, you dress like the tube and you think like the tube. Esau will tell you the truth to your face and we do not pick it up. The television used to go off at midnight; now it has to run all night to program you with his witchcraft.
-- *[[35:23](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2123s)]* **A chart of the corporations that own ninety-six percent of the media** — It is not coincidence. The earth is given into the hand of the wicked, and the wicked are the ones he is using.
-- *[[43:21](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2601s)]* **A video on confirmation bias: your mind is rigged against you** — Your brain does not seek truth, it seeks comfort; you do not listen to understand, you listen to reload. The strongest chains are not made of metal, they are made of beliefs. They have fed our minds so much garbage that we believe the propaganda — fifteen shows saying the same false thing — and we have this Bible to filter truth with.
-- *[[48:34](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2914s)]* **A street interview where a brother picks the white image of Christ over Malcolm X, and then over the black Christ** — He says he cannot go with the black one because black people have struggled more than any other people on the planet, and that the white one was there first. Our people are destroyed for a lack of knowledge.
-- *[[56:39](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3399s)]* **A clip of a Northern Kingdom service with the Bible thrown on the floor** — A grown man falling out on the floor and the Bible thrown down with him. That is mind control, and Satan working in our own people, not only in the other nations.
-- *[[1:01:00](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3660s)]* **A megachurch pastor calling for a thousand-dollar seed, then a thousand plus a thousand, with the doors closed and a hundred dollars charged to the people on the stage** — Greedy dogs which can never have enough. A little boy came up there to be fed with the word of God and to grow up to be a servant of the Lord, and walked away broken, while the man in the five-thousand-dollar suit asked him for more. Take the watch and the bracelet off and the money is right there.
-- *[[1:09:28](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4168s)]* **A debate clip with a trinitarian who cannot say whether Christ knew the day of his return, and the Who's on First routine played after it** — He says Christ was fully God and fully man, and then has to admit that only the Father knew the day. That is how they sound when they are shut down: confused and lost, because nobody can gainsay this Bible, precept upon precept and line upon line.
-- *[[1:20:52](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4852s)]* **A preacher telling his church that Jesus was not a black man but an ethnic Jew, and that exalting your race is idolatry** — Divining lies to the Israelites sitting in that church. You never saw that white image anywhere in the Bible — and nobody has ever heard of black privilege or black supremacy.
-- *[[1:23:13](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4993s)]* **A clip of a white man telling another white man to shut his white mouth about black people** — He said it because they are God's people, and when you have experienced hell it comes out in the voice. The man he said it to has a black body and the white man's thoughts in his head; he was paid off and he sold out.
-- *[[1:27:13](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5233s)]* **A video of rappers with a young boy, around ten or twelve years old, in the middle of it** — Evil communications corrupt good manners. The music industry is destroying the brains of our people — drill music, trap music — and that child is being used as a ploy to pull other children into the same life.
-- *[[1:36:10](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5770s)]* **A video on social-media algorithms and dopamine addiction** — The reward loops rewire the brain until independent thought vanishes and people cannot tell a real experience from a digital one. That is why we become lovers of our own selves: you cannot hold a conversation any more, and four and five hours go by while you scroll. Find what we can teach our people with and get off it.
-- *[[1:39:01](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5941s)]* **Videos of children in Chicago beating down a pregnant woman and two nine-year-olds in Cleveland choking a five-year-old** — Children, not adults. The television, the social media and the games are a plot to destroy this younger generation and control their minds.
-
 ## Scriptures Opened
 
 **[1 Corinthians 10:20-21](/bible/1-corinthians/10#v20)**  *[[13:51](https://www.youtube.com/watch?v=glPn1X5IJBg&t=831s)]*
@@ -51,6 +33,12 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 - Either you are doing the will and the work of the Lord or you are doing the will and the work of Satan — which means you are being controlled by the heavenly Father or you are being controlled by Satan himself.
 
+
+*[[14:40](https://www.youtube.com/watch?v=glPn1X5IJBg&t=880s)]* **In The News: The Willie Lynch letter, the passage on the breaking process of the African woman** — Test her every way, and use the bull whip to break her without killing her, because she is good economics; once she is in complete submission she trains her offspring to submit. The relationship was reversed on purpose — the male image destroyed in front of her, the son raised to be mentally weak and physically strong, the daughter raised to be independent like her. That is where the independent-woman song comes from, and it is why she does not think she needs a man.
+
+*[[19:24](https://www.youtube.com/watch?v=glPn1X5IJBg&t=1164s)]* **In The News: Sister Ali on the civil rights movement and the welfare system** — The women's liberation movement was dropped into a fight the black man, woman and child were making together, and turned it into woman against man; then welfare told us we had to put the man out of the house to be fed and housed. When the white farm wife goes to the government for her subsidy, nobody tells her to get rid of the farmer.
+
+*[[21:27](https://www.youtube.com/watch?v=glPn1X5IJBg&t=1287s)]* **In The News: A video on mind control and dark psychology** — Gaslighting, isolation and manipulation of perception erode critical thinking and foster dependence. Keeping the black man and the black woman apart is the isolation; the children end up dead or in jail. And the trauma left behind is the PTSD our people still carry out of slavery, Jim Crow and the black codes — we never fully recovered from it.
 
 **[Revelation 12:9,12](/bible/revelation/12#v9)**  *[[28:25](https://www.youtube.com/watch?v=glPn1X5IJBg&t=1705s)]*
 
@@ -67,6 +55,8 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 - He knoweth that he hath but a short time, and that is why the Most High had to shorten the days for the elect. He is running around now manipulating people with his lies.
 
 
+*[[30:51](https://www.youtube.com/watch?v=glPn1X5IJBg&t=1851s)]* **In The News: A clip of a television executive: television is not the truth, turn your sets off** — We lie like hell, we deal in illusions, you dress like the tube and you think like the tube. Esau will tell you the truth to your face and we do not pick it up. The television used to go off at midnight; now it has to run all night to program you with his witchcraft.
+
 **[Job 9:24](/bible/job/9#v24)**  *[[33:58](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2038s)]*
 
 > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
@@ -79,6 +69,8 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 - Satan has a job to do and he is doing it; the Most High is gathering his people slowly but surely, and the ones who feel they are missing something are the ones falling back out into the world.
 
+
+*[[35:23](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2123s)]* **In The News: A chart of the corporations that own ninety-six percent of the media** — It is not coincidence. The earth is given into the hand of the wicked, and the wicked are the ones he is using.
 
 **[2 Corinthians 11:13-15](/bible/2-corinthians/11#v13)**  *[[36:09](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2169s)]*
 
@@ -133,6 +125,10 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 - But God shall shoot at them with an arrow and they shall be wounded, and they shall make their own tongue to fall upon themselves. That is how we find out about the snares they laid: their own mouths tell it.
 
 
+*[[43:21](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2601s)]* **In The News: A video on confirmation bias: your mind is rigged against you** — Your brain does not seek truth, it seeks comfort; you do not listen to understand, you listen to reload. The strongest chains are not made of metal, they are made of beliefs. They have fed our minds so much garbage that we believe the propaganda — fifteen shows saying the same false thing — and we have this Bible to filter truth with.
+
+*[[48:34](https://www.youtube.com/watch?v=glPn1X5IJBg&t=2914s)]* **In The News: A street interview where a brother picks the white image of Christ over Malcolm X, and then over the black Christ** — He says he cannot go with the black one because black people have struggled more than any other people on the planet, and that the white one was there first. Our people are destroyed for a lack of knowledge.
+
 **[Revelation 1:14-15](/bible/revelation/1#v14)**  *[[52:35](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3155s)]*
 
 > <sup>[14](/bible/revelation/1#v14)</sup> His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
@@ -174,6 +170,8 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 - Christianity is a major problem in our communities: all these churches and nobody changing, because the law and the commandments are not being taught.
 
 
+*[[56:39](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3399s)]* **In The News: A clip of a Northern Kingdom service with the Bible thrown on the floor** — A grown man falling out on the floor and the Bible thrown down with him. That is mind control, and Satan working in our own people, not only in the other nations.
+
 **[Isaiah 56:10-11](/bible/isaiah/56#v10)**  *[[58:53](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3533s)]*
 
 > <sup>[10](/bible/isaiah/56#v10)</sup> His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
@@ -188,6 +186,8 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 - They are greedy dogs which can never have enough, shepherds that cannot understand; they all look to their own way, every one for his gain from his quarter. They are all saying the same thing because it is coming from the same person.
 
+
+*[[1:01:00](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3660s)]* **In The News: A megachurch pastor calling for a thousand-dollar seed, then a thousand plus a thousand, with the doors closed and a hundred dollars charged to the people on the stage** — Greedy dogs which can never have enough. A little boy came up there to be fed with the word of God and to grow up to be a servant of the Lord, and walked away broken, while the man in the five-thousand-dollar suit asked him for more. Take the watch and the bracelet off and the money is right there.
 
 **[Jeremiah 23:1-2](/bible/jeremiah/23#v1)**  *[[1:05:44](https://www.youtube.com/watch?v=glPn1X5IJBg&t=3944s)]*
 
@@ -212,6 +212,8 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 - That they might go, and fall backward, and be broken, and be snared, and taken: a man who comes against us without it falls backward, no matter what doctrine he brings.
 
+
+*[[1:09:28](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4168s)]* **In The News: A debate clip with a trinitarian who cannot say whether Christ knew the day of his return, and the Who's on First routine played after it** — He says Christ was fully God and fully man, and then has to admit that only the Father knew the day. That is how they sound when they are shut down: confused and lost, because nobody can gainsay this Bible, precept upon precept and line upon line.
 
 **[Luke 21:15](/bible/luke/21#v15)**  *[[1:09:28](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4168s)]*
 
@@ -251,6 +253,12 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 - Every one of them has some kind of gimmick going to keep the people mesmerized, and the gimmick is witchcraft.
 
+
+*[[1:20:52](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4852s)]* **In The News: A preacher telling his church that Jesus was not a black man but an ethnic Jew, and that exalting your race is idolatry** — Divining lies to the Israelites sitting in that church. You never saw that white image anywhere in the Bible — and nobody has ever heard of black privilege or black supremacy.
+
+*[[1:23:13](https://www.youtube.com/watch?v=glPn1X5IJBg&t=4993s)]* **In The News: A clip of a white man telling another white man to shut his white mouth about black people** — He said it because they are God's people, and when you have experienced hell it comes out in the voice. The man he said it to has a black body and the white man's thoughts in his head; he was paid off and he sold out.
+
+*[[1:27:13](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5233s)]* **In The News: A video of rappers with a young boy, around ten or twelve years old, in the middle of it** — Evil communications corrupt good manners. The music industry is destroying the brains of our people — drill music, trap music — and that child is being used as a ploy to pull other children into the same life.
 
 **[1 Corinthians 15:33](/bible/1-corinthians/15#v33)**  *[[1:27:13](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5233s)]*
 
@@ -313,6 +321,10 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 
 - Despisers of those that are good is why they hate us. They see us doing right and feeding the sheep and it makes them mad; they are lovers of pleasures more than lovers of God.
 
+
+*[[1:36:10](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5770s)]* **In The News: A video on social-media algorithms and dopamine addiction** — The reward loops rewire the brain until independent thought vanishes and people cannot tell a real experience from a digital one. That is why we become lovers of our own selves: you cannot hold a conversation any more, and four and five hours go by while you scroll. Find what we can teach our people with and get off it.
+
+*[[1:39:01](https://www.youtube.com/watch?v=glPn1X5IJBg&t=5941s)]* **In The News: Videos of children in Chicago beating down a pregnant woman and two nine-year-olds in Cleveland choking a five-year-old** — Children, not adults. The television, the social media and the games are a plot to destroy this younger generation and control their minds.
 
 **[Jeremiah 4:22](/bible/jeremiah/4#v22)**  *[[1:41:37](https://www.youtube.com/watch?v=glPn1X5IJBg&t=6097s)]*
 

@@ -19,16 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 
 *[[15:44](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=944s)]* Why the black Christian church is stuck in a delusional orbiting cycle of stupidity: 2 Thessalonians 2 says God sends a strong delusion to the people who received not the love of the truth, and the truth is the law. Taught at the Thanksgiving and Christmas season to put strength into anybody new in the truth whose family and job are pulling them back, and to answer the apologetics who want to debate the trinity and the law instead of the colour of Christ and who the real Jews are.
 
-## In The News
-
-- *[[48:39](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=2919s)]* **A video of three boys stealing in a store, one of them dressed and carrying on like his mother, with the shopkeeper locking the door on them while they curse her and threaten to break the glass** — This is what the black Christian church is raising, and what the apologetics want our children to go back to so badly. You can tell where those kids come from, because when one of them gets shot for stealing they are carried straight back to the first Baptist church or the church of God in Christ. We have our young men in formation being taught thou shalt not steal, taught to be masculine, and our young girls taught to be feminine, and they hate that.
-- *[[1:06:50](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=4010s)]* **A video from a black church funeral: a woman bent over twerking in the face of the man lying dead in the open casket, with the people around her encouraging it and nobody stopping her** — That is being smitten with madness in the black church, and it is the church that is coming up against the Israelites. You will never see that at an Israelite funeral: the captains stand up first, we tell the deacons to sit back, and that ratchet behaviour does not come into a homegoing, whether it is your sister or your mother.
-- *[[1:09:18](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=4158s)]* **A video of a pastor spraying a screaming, jumping woman from a bottle of water that goes in clear and comes out yellow, calling the spirit to come out of her** — That is not water, and people think this man has power. This is the witchcraft going on in the black church. Where are the apologetics making videos against this pastor? Why do you keep messing with us about the trinity, about the law, about the Gentiles, and say nothing about this? Black people, stop playing with the Lord.
-- *[[1:26:30](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=5190s)]* **A video of a woman doing the whole saved, sanctified, fire-baptised, filled-with-the-Holy-Ghost performance** — They know how to do all of that. The Bible says try the spirit. Ask them one simple thing first — what colour is Christ — and see whether they are of God.
-- *[[1:35:56](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=5756s)]* **A picture of a congregation with their eyes closed, praying to the white Jesus** — Behind a false image is a false spirit. That is what they see when they close their eyes, and that is why they fight so hard for him. He is not Jesus; he is the son of perdition.
-- *[[1:50:37](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=6637s)]* **A photograph of the apologist God Logic with his arm around a man dressed as the devil, whose shirt reads I hate Satan** — Coconut heads: brown on the outside and white on the inside. He has a Christianity cross on and he is hugging the deceiver. These are the people making videos against us. When we say the white man is the devil we mean he is the deceiver, Esau — we are not teaching anybody to hate white people; you just have to know the deck of cards you are playing with.
-- *[[1:54:44](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=6884s)]* **Pictures of Israelite camps now wearing fringes with baseball caps, the menorah and the six-pointed star** — One ball of confusion on them, and they are changing the doctrine to say Esau is not going to get his judgment and that Esau can be saved.
-
 ## Scriptures Opened
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[20:18](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=1218s)]*
@@ -84,6 +74,8 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 - Turn you at my reproof is the correction. That is what we are here to do: get the black church to see that what we are doing is correct, even if you do not like us.
 
 
+*[[48:39](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=2919s)]* **In The News: A video of three boys stealing in a store, one of them dressed and carrying on like his mother, with the shopkeeper locking the door on them while they curse her and threaten to break the glass** — This is what the black Christian church is raising, and what the apologetics want our children to go back to so badly. You can tell where those kids come from, because when one of them gets shot for stealing they are carried straight back to the first Baptist church or the church of God in Christ. We have our young men in formation being taught thou shalt not steal, taught to be masculine, and our young girls taught to be feminine, and they hate that.
+
 **[Isaiah 1:16](/bible/isaiah/1#v16)**  *[[1:00:19](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=3619s)]*
 
 > <sup>[16](/bible/isaiah/1#v16)</sup> Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;
@@ -116,6 +108,10 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 
 - Blindness is why they cannot see that what we are doing is beneficial to the community. You know it is the blindness, because when we put on other colours and run the same community events the people love us — put the purple and gold on and it is, here they come.
 
+
+*[[1:06:50](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=4010s)]* **In The News: A video from a black church funeral: a woman bent over twerking in the face of the man lying dead in the open casket, with the people around her encouraging it and nobody stopping her** — That is being smitten with madness in the black church, and it is the church that is coming up against the Israelites. You will never see that at an Israelite funeral: the captains stand up first, we tell the deacons to sit back, and that ratchet behaviour does not come into a homegoing, whether it is your sister or your mother.
+
+*[[1:09:18](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=4158s)]* **In The News: A video of a pastor spraying a screaming, jumping woman from a bottle of water that goes in clear and comes out yellow, calling the spirit to come out of her** — That is not water, and people think this man has power. This is the witchcraft going on in the black church. Where are the apologetics making videos against this pastor? Why do you keep messing with us about the trinity, about the law, about the Gentiles, and say nothing about this? Black people, stop playing with the Lord.
 
 **[Ephesians 4:18](/bible/ephesians/4#v18)**  *[[1:14:33](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=4473s)]*
 
@@ -182,6 +178,10 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 - Nobody had a problem for centuries while the white man said his son was white; say black and now we have to prove it. No — you prove to us that he was white.
 
 
+*[[1:26:30](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=5190s)]* **In The News: A video of a woman doing the whole saved, sanctified, fire-baptised, filled-with-the-Holy-Ghost performance** — They know how to do all of that. The Bible says try the spirit. Ask them one simple thing first — what colour is Christ — and see whether they are of God.
+
+*[[1:35:56](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=5756s)]* **In The News: A picture of a congregation with their eyes closed, praying to the white Jesus** — Behind a false image is a false spirit. That is what they see when they close their eyes, and that is why they fight so hard for him. He is not Jesus; he is the son of perdition.
+
 **[2 Thessalonians 2:3-7](/bible/2-thessalonians/2#v3)**  *[[1:36:54](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=5814s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
@@ -220,6 +220,8 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 - The people against whom the Lord hath indignation for ever — that is righteous anger, and he has a right to it, because they opposed themselves as God, sat in the temple as God, cast lots for us, put us in slavery and at the bottom of society, gave us the drugs, the cocaine, the gangster rap and the blaxploitation movies. God said they have found no place of repentance, because they have done too much.
 
 
+*[[1:50:37](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=6637s)]* **In The News: A photograph of the apologist God Logic with his arm around a man dressed as the devil, whose shirt reads I hate Satan** — Coconut heads: brown on the outside and white on the inside. He has a Christianity cross on and he is hugging the deceiver. These are the people making videos against us. When we say the white man is the devil we mean he is the deceiver, Esau — we are not teaching anybody to hate white people; you just have to know the deck of cards you are playing with.
+
 **[Proverbs 11:21](/bible/proverbs/11#v21)**  *[[1:53:12](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=6792s)]*
 
 > <sup>[21](/bible/proverbs/11#v21)</sup> Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.
@@ -247,6 +249,8 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "media", "t
 
 - You do not have to love your father to get into his house — that is how stupid it sounds. They believe he is just going to open the door for you.
 
+
+*[[1:54:44](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=6884s)]* **In The News: Pictures of Israelite camps now wearing fringes with baseball caps, the menorah and the six-pointed star** — One ball of confusion on them, and they are changing the doctrine to say Esau is not going to get his judgment and that Esau can be saved.
 
 **[1 John 5:3](/bible/1-john/5#v3)**  *[[1:56:12](https://www.youtube.com/watch?v=r2TgBDuOkyY&t=6972s)]*
 

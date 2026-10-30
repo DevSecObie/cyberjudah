@@ -22,13 +22,6 @@ tags: ["15 Minutes w/ The Captains", "mental-health"]
 
 ## Scriptures Opened
 
-**[Luke 12:21](/bible/luke/12#v21)**  *[[10:07](https://www.youtube.com/watch?v=Thr1ZXt2DLg&t=607s)]*
-
-> <sup>[21](/bible/luke/12#v21)</sup> So is he that layeth up treasure for himself, and is not rich toward God.
-
-- So is he that layeth up treasure for himself, and is not rich toward God: So the whole point is to be rich toward God. Because remember the man said, "You know what? I got a barn. I'm going to be satisfied. I'm going to be taken care of with the things that I have. No need for me to work." And don't know that his life is in the hand of the Lord. His life can be taken away at any time. And he did not store up riches, you know, with the Lord. So, you know, all that stuff was vanity.
-
-
 **[Luke 12:22-23](/bible/luke/12#v22)**  *[[9:14](https://www.youtube.com/watch?v=Thr1ZXt2DLg&t=554s)]*
 
 > <sup>[22](/bible/luke/12#v22)</sup> And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.
@@ -46,6 +39,13 @@ tags: ["15 Minutes w/ The Captains", "mental-health"]
 - The life is more than meat: Because your life, this life that we have is more than just what you consume, the meats.
 
 - And the body is more than Raymond: And your body is more than the clothes. That's why it's like, you know, we be putting emphasis, especially here in Babylon, we put emphasis on the Nike, on the Dolce and Gabbana, on the FUBU, the, you know, different name brands. Not saying like you can't have those things, but when you make those things your sole possession in life, that's where you airing. That's where you airing. You understand? In the faith.
+
+
+**[Luke 12:21](/bible/luke/12#v21)**  *[[10:07](https://www.youtube.com/watch?v=Thr1ZXt2DLg&t=607s)]*
+
+> <sup>[21](/bible/luke/12#v21)</sup> So is he that layeth up treasure for himself, and is not rich toward God.
+
+- So is he that layeth up treasure for himself, and is not rich toward God: So the whole point is to be rich toward God. Because remember the man said, "You know what? I got a barn. I'm going to be satisfied. I'm going to be taken care of with the things that I have. No need for me to work." And don't know that his life is in the hand of the Lord. His life can be taken away at any time. And he did not store up riches, you know, with the Lord. So, you know, all that stuff was vanity.
 
 
 **[Luke 12:24-26](/bible/luke/12#v24)**  *[[11:34](https://www.youtube.com/watch?v=Thr1ZXt2DLg&t=694s)]*

@@ -19,11 +19,9 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "mercy", "purpose", "
 
 *[[6:54](https://www.youtube.com/watch?v=3xuIqTWwXmA&t=414s)]* The next lesson in the series navigating through Paul's letters, on the works of the law and liberty. The last class was left open-ended on purpose so the Christian commenters would bring their verses, and this one dismantles them: the works of the law in Galatians is the law of sacrifice, the curse is the condemnation of Deuteronomy 27 that no animal could atone, Hebrews 9 and 10 show Christ offered once for all and a testament in force only after the testator dies, circumcision after the manner of Moses is circumcision with sacrifice, and the law of sin and death and the ministration of death are the same sacrifice Christ freed us from. Then Romans 2, James 1 and 2, Romans 13 and Mark 12: the doers of the law are justified, the royal law is love thy neighbour, obedience is better than sacrifice, and faith without works is dead.
 
-## In The News
-
-- *[[2:30](https://www.youtube.com/watch?v=3xuIqTWwXmA&t=150s)]* **The AI thumbnail animation: Paul against the men saying except ye be circumcised after the manner of Moses ye cannot be saved** — The argument of the whole class in a minute: a yoke we were not able to bear, and grace reigning through righteousness unto eternal life by Christ.
-
 ## Scriptures Opened
+
+*[[2:30](https://www.youtube.com/watch?v=3xuIqTWwXmA&t=150s)]* **In The News: The AI thumbnail animation: Paul against the men saying except ye be circumcised after the manner of Moses ye cannot be saved** — The argument of the whole class in a minute: a yoke we were not able to bear, and grace reigning through righteousness unto eternal life by Christ.
 
 **[Galatians 2:16](/bible/galatians/2#v16)**  *[[8:19](https://www.youtube.com/watch?v=3xuIqTWwXmA&t=499s)]*
 

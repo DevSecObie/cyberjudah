@@ -19,12 +19,9 @@ tags: ["IUIC in the ClassRoom", "captivity", "passover-feasts", "sabbath"]
 
 *[[5:37](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=337s)]* A class on the seventh-year release and the year of Jubilee, the law that kept any Israelite from staying poor or enslaved forever. The Sabbath of the land rested the fields every seventh year, cancelled debts between brethren, and freed Hebrew servants. Every fiftieth year, from the Day of Atonement, land returned to the family and tribe. The class sets that servitude against the chattel slavery of the nations, answers the verses used to call the Bible a slave book, and follows Israel's broken covenants in Jeremiah 34 and Nehemiah 5. It ends on Isaiah 61, where Christ proclaims liberty to the captives, and the acceptable year of the Lord is Israel's Jubilee.
 
-## In The News
-
-- *[[15:24](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=924s)]* **A pro-Israel organisation boasting that it documents critics online, pressures employers and gets people fired.** — Keep hard copies of the truth, for they change and erase the record.
-- *[[1:04:09](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3849s)]* **A tennis champion whose father skipped her wedding.** — Take a wife of thy father's tribe, and the seed shall inherit the land (Tobit 4:12).
-
 ## Scriptures Opened
+
+*[[15:24](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=924s)]* **In The News: A pro-Israel organisation boasting that it documents critics online, pressures employers and gets people fired.** — Keep hard copies of the truth, for they change and erase the record.
 
 **[Exodus 23:10](/bible/exodus/23#v10)**  *[[20:05](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=1205s)]*
 
@@ -266,6 +263,8 @@ Reading from an on-screen text on the seventh year of release and the year of Ju
 > Significance, the Jubilee has profound implications for family heritage and social structure in Israelite society, while the seven-year release is primarily about debt release.
 
 </div>
+
+*[[1:04:09](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=3849s)]* **In The News: A tennis champion whose father skipped her wedding.** — Take a wife of thy father's tribe, and the seed shall inherit the land (Tobit 4:12).
 
 **[Exodus 21:1](/bible/exodus/21#v1)**  *[[1:13:37](https://www.youtube.com/watch?v=-QJZ04vGiMw&t=4417s)]*
 

@@ -19,15 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "the-law", "wisdom"]
 
 *[[9:51](https://www.youtube.com/watch?v=VewU_qivhdc&t=591s)]* Ten years after the first class on it, the trinity is revisited: the doctrine is a commandment of men, born of Greek philosophy in the centuries after the apostles, argued for money outside the Bible, and its whole premise is that only a God-man can keep the commandments so that no one else has to. The Bible is plain to those who keep the law; the debates are Mars Hill all over again.
 
-## In The News
-
-- *[[44:00](https://www.youtube.com/watch?v=VewU_qivhdc&t=2640s)]* **The picture of the Council of Nicaea, 325 AD, with Constantine and his mother Helena** — The council was black rulers of the Roman Empire arguing white ideology with black faces, called to counter Arius, who said Christ is subject to his Father; when we fell, the white man took the mantle and whitewashed it.
-- *[[1:00:12](https://www.youtube.com/watch?v=VewU_qivhdc&t=3612s)]* **An image made of their God, one what and three whos, a two-faced deity flipping a coin** — One plus one plus one is one is not the God of the Bible; triplets are three persons, and a God argued over every week for centuries is confusion.
-- *[[1:25:15](https://www.youtube.com/watch?v=VewU_qivhdc&t=5115s)]* **A Catholic priest explaining the sign of the cross as the trinity** — He quotes no scripture but John 10:30, and John 17 shows what one means: one as the disciples are one, not one entity.
-- *[[1:40:29](https://www.youtube.com/watch?v=VewU_qivhdc&t=6029s)]* **A Unitarian's video on how Christ can be God's son and not a trinity** — He uses more Bible than the trinitarians do: there is one God, the Father, from whom are all things, and one Lord, through whom are all things; everything beyond that is later theology imposed through a Greek lens.
-- *[[1:58:08](https://www.youtube.com/watch?v=VewU_qivhdc&t=7088s)]* **Wes Huff on why there is no such thing as a non-trinitarian Christian** — His own opponent says it for us: the trinity is not a proof-texting thing, it is a hermeneutic, a post-biblical way of reading the Bible through a Greek lens rather than a Hebrew one.
-- *[[2:18:37](https://www.youtube.com/watch?v=VewU_qivhdc&t=8317s)]* **A debate between Israelites and trinitarians at the 32 and 40 minute marks** — Asked what a person is, the trinitarian admits there is an element of philosophy in it; asked who is God over Christ's flesh, he answers that Christ is his own God, and his own side laughs.
-
 ## Scriptures Opened
 
 **[Isaiah 29:13](/bible/isaiah/29#v13)**  *[[10:38](https://www.youtube.com/watch?v=VewU_qivhdc&t=638s)]*
@@ -198,6 +189,8 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "the-law", "wisdom"]
 
 - When the Bible is used in a debate the apologist gets mad, because the whole point of theology is to take you out of the Bible and away from the pressing matters: America is Babylon, the so-called white man is the devil, Christ is not Caucasian.
 
+
+*[[44:00](https://www.youtube.com/watch?v=VewU_qivhdc&t=2640s)]* **In The News: The picture of the Council of Nicaea, 325 AD, with Constantine and his mother Helena** — The council was black rulers of the Roman Empire arguing white ideology with black faces, called to counter Arius, who said Christ is subject to his Father; when we fell, the white man took the mantle and whitewashed it.
 
 **[Revelation 2:8](/bible/revelation/2#v8)**  *[[47:35](https://www.youtube.com/watch?v=VewU_qivhdc&t=2855s)]*
 
@@ -448,6 +441,8 @@ Reading from *Lesson: Greek Philosophical Categories and the Development of Trin
 </div>
 
 
+*[[1:00:12](https://www.youtube.com/watch?v=VewU_qivhdc&t=3612s)]* **In The News: An image made of their God, one what and three whos, a two-faced deity flipping a coin** — One plus one plus one is one is not the God of the Bible; triplets are three persons, and a God argued over every week for centuries is confusion.
+
 **[Acts 17:18-22](/bible/acts/17#v18)**  *[[1:09:30](https://www.youtube.com/watch?v=VewU_qivhdc&t=4170s)]*
 
 > <sup>[18](/bible/acts/17#v18)</sup> Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.
@@ -670,6 +665,8 @@ Reading from *Lesson: Greek Philosophical Categories and the Development of Trin
 </div>
 
 
+*[[1:25:15](https://www.youtube.com/watch?v=VewU_qivhdc&t=5115s)]* **In The News: A Catholic priest explaining the sign of the cross as the trinity** — He quotes no scripture but John 10:30, and John 17 shows what one means: one as the disciples are one, not one entity.
+
 **[John 10:30](/bible/john/10#v30)**  *[[1:27:00](https://www.youtube.com/watch?v=VewU_qivhdc&t=5220s)]*
 
 > <sup>[30](/bible/john/10#v30)</sup> I and my Father are one.
@@ -841,6 +838,8 @@ Reading from *Lesson: Greek Philosophical Categories and the Development of Trin
 
 </div>
 
+
+*[[1:40:29](https://www.youtube.com/watch?v=VewU_qivhdc&t=6029s)]* **In The News: A Unitarian's video on how Christ can be God's son and not a trinity** — He uses more Bible than the trinitarians do: there is one God, the Father, from whom are all things, and one Lord, through whom are all things; everything beyond that is later theology imposed through a Greek lens.
 
 **[1 Corinthians 8:6](/bible/1-corinthians/8#v6)**  *[[1:43:25](https://www.youtube.com/watch?v=VewU_qivhdc&t=6205s)]*
 
@@ -1028,6 +1027,8 @@ Reading from on-screen text on the word Jesuit  *[[1:56:51](https://www.youtube.
 </div>
 
 
+*[[1:58:08](https://www.youtube.com/watch?v=VewU_qivhdc&t=7088s)]* **In The News: Wes Huff on why there is no such thing as a non-trinitarian Christian** — His own opponent says it for us: the trinity is not a proof-texting thing, it is a hermeneutic, a post-biblical way of reading the Bible through a Greek lens rather than a Hebrew one.
+
 **[Sirach 27:13](/bible/sirach/27#v13)**  *[[2:03:28](https://www.youtube.com/watch?v=VewU_qivhdc&t=7408s)]*
 
 > <sup>[13](/bible/sirach/27#v13)</sup> The discourse of fools is irksome, and their sport is the wantonness of sin.
@@ -1132,6 +1133,8 @@ Reading from an on-screen saying on insanity  *[[2:16:38](https://www.youtube.co
 
     I am the God of all flesh: pressed with it, the trinitarian answered that Christ is God over his own flesh, and his own side laughed.
 
+
+*[[2:18:37](https://www.youtube.com/watch?v=VewU_qivhdc&t=8317s)]* **In The News: A debate between Israelites and trinitarians at the 32 and 40 minute marks** — Asked what a person is, the trinitarian admits there is an element of philosophy in it; asked who is God over Christ's flesh, he answers that Christ is his own God, and his own side laughs.
 
 **[Revelation 3:12](/bible/revelation/3#v12)**  *[[2:23:40](https://www.youtube.com/watch?v=VewU_qivhdc&t=8620s)]*
 

@@ -20,13 +20,6 @@ tags: ["IUIC in the ClassRoom", "leadership", "money", "nations", "so-called-jew
 
 *[[0:28](https://www.youtube.com/watch?v=ImeHZKJwobA&t=28s)]* Battle Beyond Radio Show, IUIC Columbus's show on what is being done to our people in Africa, hosted by Captain Joel with his officers. This week: Malawi secretly airlifting over 200 of its young people to work on Israeli farms during the war on Gaza, after a $60 million aid package from Israel. Part 1 of the broadcast: the article, the history of John Chilembwe, and the minister's interview.
 
-## In The News
-
-- *[[1:49](https://www.youtube.com/watch?v=ImeHZKJwobA&t=109s)]* **Pictures from IUIC's missing persons outreach in Cleveland, Ohio the past weekend** — Thousands of our people, black, Hispanic and Native American, are going missing and nobody is doing anything. Those are Israelites missing, God's chosen people, and the men in purple and gold are going to do the job.
-- *[[19:27](https://www.youtube.com/watch?v=ImeHZKJwobA&t=1167s)]* **A video on John Chilembwe of Malawi: educated as a missionary in Virginia, he told malawians not to give their lives fighting the Germans in Tanzania for the white settlers, and led the January 1915 uprising against them** — Even he was indoctrinated with white Jesus, but he still loved his people. The chains on their necks in the pictures are Deuteronomy 28: Malawi suffered the same curses, and they are our people too, whom the Lord will recover (Isaiah 11:11).
-- *[[50:09](https://www.youtube.com/watch?v=ImeHZKJwobA&t=3009s)]* **Malawi's minister of information on TV: it's not the first time Malawi has exported labour, and "we are not looking at the war situation, we are looking at the opportunities"** — If it's not the first time, why wasn't it in the news? If Israel is so nice, why didn't they ask Malawi for doctors, architects or nurses? They only want us to work the farm or serve them. Not looking at the war means you're looking at the bank account, and you don't care about their safety.
-- *[[54:37](https://www.youtube.com/watch?v=ImeHZKJwobA&t=3277s)]* **The airlift footage, shot at night** — They did it at night so the country sees no light. But those young people have phones; the Lord leaked it.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -45,6 +38,8 @@ Reading from An article: Malawi slammed for secretly exporting labour to Israel 
 
 </div>
 
+
+*[[1:49](https://www.youtube.com/watch?v=ImeHZKJwobA&t=109s)]* **In The News: Pictures from IUIC's missing persons outreach in Cleveland, Ohio the past weekend** — Thousands of our people, black, Hispanic and Native American, are going missing and nobody is doing anything. Those are Israelites missing, God's chosen people, and the men in purple and gold are going to do the job.
 
 **[Isaiah 28:15](/bible/isaiah/28#v15)**  *[[7:55](https://www.youtube.com/watch?v=ImeHZKJwobA&t=475s)]*
 
@@ -93,6 +88,8 @@ Reading from An article: Malawi slammed for secretly exporting labour to Israel 
 
 - Israel ran 30 to 40,000 farmers out when the war dropped and replaced them with Malawians. Why not Poland, Greece, Norway, Switzerland or France? They already call us monkeys. They did a diligent search: Africa has the youngest generation, and everybody has set their eye on that continent.
 
+
+*[[19:27](https://www.youtube.com/watch?v=ImeHZKJwobA&t=1167s)]* **In The News: A video on John Chilembwe of Malawi: educated as a missionary in Virginia, he told malawians not to give their lives fighting the Germans in Tanzania for the white settlers, and led the January 1915 uprising against them** — Even he was indoctrinated with white Jesus, but he still loved his people. The chains on their necks in the pictures are Deuteronomy 28: Malawi suffered the same curses, and they are our people too, whom the Lord will recover (Isaiah 11:11).
 
 **[Jeremiah 2:14](/bible/jeremiah/2#v14)**  *[[28:56](https://www.youtube.com/watch?v=ImeHZKJwobA&t=1736s)]*
 
@@ -164,6 +161,10 @@ Reading from The same article, continued after the break  *[[35:25](https://www.
 
     Presents and gifts blind the eyes of the wise, and stop up his mouth that he cannot reprove: the white man knows that, so he always presents money.
 
+
+*[[50:09](https://www.youtube.com/watch?v=ImeHZKJwobA&t=3009s)]* **In The News: Malawi's minister of information on TV: it's not the first time Malawi has exported labour, and "we are not looking at the war situation, we are looking at the opportunities"** — If it's not the first time, why wasn't it in the news? If Israel is so nice, why didn't they ask Malawi for doctors, architects or nurses? They only want us to work the farm or serve them. Not looking at the war means you're looking at the bank account, and you don't care about their safety.
+
+*[[54:37](https://www.youtube.com/watch?v=ImeHZKJwobA&t=3277s)]* **In The News: The airlift footage, shot at night** — They did it at night so the country sees no light. But those young people have phones; the Lord leaked it.
 
 **[Luke 8:17](/bible/luke/8#v17)**  *[[56:14](https://www.youtube.com/watch?v=ImeHZKJwobA&t=3374s)]*
 

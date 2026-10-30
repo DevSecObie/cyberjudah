@@ -19,15 +19,11 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 
 *[[8:50](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=530s)]* The second part of last week's class on the decayed state of the liberal woman: the sisters' minds are broken, as the brothers' are, by everything Babylon taught us, and they have to be restored. Postpartum is in the Bible, the depression Esau attached to it is a weapon and a business, and the answer is to keep the heart, to marry and bear children and guide the house, for the husband to cheer up his wife, and for the nation to build the support around a sister that the word of God, which heals all things, requires.
 
-## In The News
-
-- *[[10:23](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=623s)]* **Wisdom of the week: the bull, the dog, the pig and the owner** — Information distortion: by the time a word passes through four or five people it is something else; ask the person before you judge, because last week's lesson came back to him as something he never said.
-- *[[19:13](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1153s)]* **The thumbnail film for the class** — The serpent still speaks to the daughters of Zion through the screen, the music and the movement: you do not need a man, a home or the laws of God; and the fruit is homes divided and fathers pushed out. What is broken can be restored.
-- *[[27:02](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1622s)]* **A woman's commentary on the end of the Lindsay Clancy trial** — She was never diagnosed with postpartum depression or psychosis; a mother who wanted out of the life of a mother killed her children, TikTok rallied a crowd to get her off, and it took a man to say not today. Any sister among us who sympathises with her has the liberal mind the class is about.
-- *[[32:41](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1961s)]* **A mother filming the day she gives her seven-year-old up for adoption** — She feels nothing, is buying an RV and calls herself a free woman: that is the state of mind some sisters carry in with them.
-- *[[49:56](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2996s)]* **The eugenics tree and the Willie Lynch letter, brought by Captain Yahn** — The eugenics congresses of 1912 to 1932 in New York studied race crossing and how to control our people; the letter says to test the female in every way because she is the most important factor for good economics; postpartum depression did not exist in Jamaica or Haiti, and the point of last week was to see how deep Esau went so the sisters would believe him over the Bible.
-
 ## Scriptures Opened
+
+*[[10:23](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=623s)]* **In The News: Wisdom of the week: the bull, the dog, the pig and the owner** — Information distortion: by the time a word passes through four or five people it is something else; ask the person before you judge, because last week's lesson came back to him as something he never said.
+
+*[[19:13](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1153s)]* **In The News: The thumbnail film for the class** — The serpent still speaks to the daughters of Zion through the screen, the music and the movement: you do not need a man, a home or the laws of God; and the fruit is homes divided and fathers pushed out. What is broken can be restored.
 
 **[Ezekiel 33:30-33](/bible/ezekiel/33#v30)**  *[[22:28](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1348s)]*
 
@@ -45,6 +41,10 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 
 - When it comes to pass you will know a prophet was among you; the bishops and deacons are prophets, and when what they said comes to pass you will remember it.
 
+
+*[[27:02](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1622s)]* **In The News: A woman's commentary on the end of the Lindsay Clancy trial** — She was never diagnosed with postpartum depression or psychosis; a mother who wanted out of the life of a mother killed her children, TikTok rallied a crowd to get her off, and it took a man to say not today. Any sister among us who sympathises with her has the liberal mind the class is about.
+
+*[[32:41](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1961s)]* **In The News: A mother filming the day she gives her seven-year-old up for adoption** — She feels nothing, is buying an RV and calls herself a free woman: that is the state of mind some sisters carry in with them.
 
 **[Hosea 4:6-8](/bible/hosea/4#v6)**  *[[35:08](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2108s)]*
 
@@ -112,6 +112,8 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 
 - The world tells the woman to finish college, build a career, freeze her eggs and have children at forty, or that childbirth is too dangerous to risk; be mindful what you let enter you, because it defiles you.
 
+
+*[[49:56](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2996s)]* **In The News: The eugenics tree and the Willie Lynch letter, brought by Captain Yahn** — The eugenics congresses of 1912 to 1932 in New York studied race crossing and how to control our people; the letter says to test the female in every way because she is the most important factor for good economics; postpartum depression did not exist in Jamaica or Haiti, and the point of last week was to see how deep Esau went so the sisters would believe him over the Bible.
 
 **[1 Timothy 2:15](/bible/1-timothy/2#v15)**  *[[55:55](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=3355s)]*
 

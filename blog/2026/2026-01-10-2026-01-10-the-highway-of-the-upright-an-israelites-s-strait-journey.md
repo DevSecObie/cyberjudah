@@ -19,19 +19,6 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 
 *[[9:14](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=554s)]* Captain Shem teaches that the highway of the upright is the strait path of keeping the commandments. It is difficult by design and full of obstacles, and at its centre is the family God ordered: Christ the head of the man, the man the head of the woman. He shows how Black and Latino marriage held strong through slavery and Jim Crow, then collapsed after 1965. Welfare rules favoured single mothers, and the result is fatherless children, weak men, obesity and poor finances. The class calls Israel to restore the father as the law of the house, gather together, and build group economics, trades, credit and health, until the ransomed return to Zion.
 
-## In The News
-
-- *[[14:56](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=896s)]* **A video contrasting Black family life and health before and after 1970, with statistics that Black men and women now have the highest first-divorce rates.** — When the husband is uncoupled from the house, the whole nation comes off the track like a derailed train.
-- *[[27:44](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=1664s)]* **A 1980s interview with a psychiatrist explaining that removing fathers from most homes in a neighbourhood leaves no other fathers to fill the gap.** — A father is the breadwinner and the law of the house. Without him, children suffer depression and a mother is forced into a masculine role.
-- *[[34:29](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=2069s)]* **A mother admits that women cannot raise men, because they shield sons instead of teaching them to protect themselves.** — A mother can teach compassion and empathy, but a man teaches a young man to face the world.
-- *[[39:55](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=2395s)]* **A 1986 report in which Black teenage girls say they don't want marriage or a man to hold them down, set beside a 1968 couple who say a Black man wants his wife home as much as a white man does.** — In eighteen years the mindset flipped. Christianity and welfare taught the people to live without order.
-- *[[45:36](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=2736s)]* **A scene from the Jackson family film where Joe Jackson makes his sons haul bricks to keep them out of trouble and make them tough.** — Israelite men must be strong in body and spirit. There is no room for weak, unhealthy men in the camp.
-- *[[56:35](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=3395s)]* **A speaker says the Black marriage rate is 23 percent, 71 percent of women are unmarried, and about 80 percent of children are raised in single-parent homes.** — In Israel it should be the reverse. Marriages should be worked through, not ended.
-- *[[1:17:43](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=4663s)]* **Footage of Watts before and after the 1965 riot, and a historian explaining that officials blamed the Black family and designed anti-poverty programs around single mothers.** — Programs that paid for fatherless homes made the father unnecessary, and now 60 years later the damage is visible everywhere.
-- *[[1:36:26](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=5786s)]* **A speaker urges families to live together and save instead of each child rushing out, and another notes half of Black Americans have credit scores below 620.** — Group economics is a defence. Teach children secured credit, help each other with trades, and stop competing over purses.
-- *[[2:01:24](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=7284s)]* **A woman in her seventies lost 120 pounds after changing how she ate.** — Nearly half of Black Americans are obese. With the dietary laws, there are no more excuses.
-- *[[2:13:32](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=8012s)]* **An Amish community raises a house together in a day.** — Israel has the builders, plumbers and carpenters to do the same for its own.
-
 ## Scriptures Opened
 
 **[Proverbs 16:17](/bible/proverbs/16#v17)**  *[[13:11](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=791s)]*
@@ -42,6 +29,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 
 - Everyone will fall and make mistakes on the way; the point is to keep walking.
 
+
+*[[14:56](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=896s)]* **In The News: A video contrasting Black family life and health before and after 1970, with statistics that Black men and women now have the highest first-divorce rates.** — When the husband is uncoupled from the house, the whole nation comes off the track like a derailed train.
 
 **[Matthew 7:13](/bible/matthew/7#v13)**  *[[19:32](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=1172s)]*
 
@@ -61,6 +50,10 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 - When Israel forgot the law, the family broke down and Black men came to have the shortest lives.
 
 
+*[[27:44](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=1664s)]* **In The News: A 1980s interview with a psychiatrist explaining that removing fathers from most homes in a neighbourhood leaves no other fathers to fill the gap.** — A father is the breadwinner and the law of the house. Without him, children suffer depression and a mother is forced into a masculine role.
+
+*[[34:29](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=2069s)]* **In The News: A mother admits that women cannot raise men, because they shield sons instead of teaching them to protect themselves.** — A mother can teach compassion and empathy, but a man teaches a young man to face the world.
+
 **[Deuteronomy 10:12](/bible/deuteronomy/10#v12)**  *[[37:42](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=2262s)]*
 
 > <sup>[12](/bible/deuteronomy/10#v12)</sup> And now, Israel, what doth the Lord thy God require of thee, but to fear the Lord thy God, to walk in all his ways, and to love him, and to serve the Lord thy God with all thy heart and with all thy soul,
@@ -69,6 +62,10 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 
 - Walking in his ways means keeping the commandments again and again despite every obstacle.
 
+
+*[[39:55](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=2395s)]* **In The News: A 1986 report in which Black teenage girls say they don't want marriage or a man to hold them down, set beside a 1968 couple who say a Black man wants his wife home as much as a white man does.** — In eighteen years the mindset flipped. Christianity and welfare taught the people to live without order.
+
+*[[45:36](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=2736s)]* **In The News: A scene from the Jackson family film where Joe Jackson makes his sons haul bricks to keep them out of trouble and make them tough.** — Israelite men must be strong in body and spirit. There is no room for weak, unhealthy men in the camp.
 
 **[1 Peter 4:12](/bible/1-peter/4#v12)**  *[[54:12](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=3252s)]*
 
@@ -79,6 +76,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 - Marriages in the congregation will face trials; the answer is to work through them by the scriptures, not to divorce.
 
 
+*[[56:35](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=3395s)]* **In The News: A speaker says the Black marriage rate is 23 percent, 71 percent of women are unmarried, and about 80 percent of children are raised in single-parent homes.** — In Israel it should be the reverse. Marriages should be worked through, not ended.
+
 **[1 Corinthians 11:3](/bible/1-corinthians/11#v3)**  *[[1:01:26](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=3686s)]*
 
 > <sup>[3](/bible/1-corinthians/11#v3)</sup> But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
@@ -88,6 +87,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 - When the woman becomes the breadwinner, the order is reversed. Restoring it is the danger the enemy fears.
 
 
+*[[1:17:43](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=4663s)]* **In The News: Footage of Watts before and after the 1965 riot, and a historian explaining that officials blamed the Black family and designed anti-poverty programs around single mothers.** — Programs that paid for fatherless homes made the father unnecessary, and now 60 years later the damage is visible everywhere.
+
 **[Exodus 18:20](/bible/exodus/18#v20)**  *[[1:32:23](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=5543s)]*
 
 > <sup>[20](/bible/exodus/18#v20)</sup> And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do.
@@ -96,6 +97,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 
 - A father shows his son how to handle a job and the world. Faith without the work gets you nowhere.
 
+
+*[[1:36:26](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=5786s)]* **In The News: A speaker urges families to live together and save instead of each child rushing out, and another notes half of Black Americans have credit scores below 620.** — Group economics is a defence. Teach children secured credit, help each other with trades, and stop competing over purses.
 
 **[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[1:38:45](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=5925s)]*
 
@@ -120,6 +123,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 
     Wisdom is a defence, and money is a defence.
 
+
+*[[2:01:24](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=7284s)]* **In The News: A woman in her seventies lost 120 pounds after changing how she ate.** — Nearly half of Black Americans are obese. With the dietary laws, there are no more excuses.
 
 **[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[2:08:47](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=7727s)]*
 
@@ -147,6 +152,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "the-law", "women"]
 
 - The ransomed of the Lord shall return and come to Zion with songs and everlasting joy, and sorrow and sighing shall flee away.
 
+
+*[[2:13:32](https://www.youtube.com/watch?v=vV5sPkqhVi4&t=8012s)]* **In The News: An Amish community raises a house together in a day.** — Israel has the builders, plumbers and carpenters to do the same for its own.
 
 ## Class Questions
 

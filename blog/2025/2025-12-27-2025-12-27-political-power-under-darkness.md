@@ -19,16 +19,6 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 
 *[[5:43](https://www.youtube.com/watch?v=BuHEXERuOKU&t=343s)]* A class on political power in a world given into the hand of the wicked. The war is against spiritual wickedness in high places, and the system of America was never built for the children of slaves. God rules in the kingdom of men and sets up the basest of men, and Israel was told to set a king only from among its brethren. The class looks at Black public figures who praise the administration, a famous athlete marrying outside the nation, and the Christmas Day strikes on Nigeria sold as the defence of Christians. It reads Micah, Job and Isaiah on the oppressor who covets fields and takes houses by violence, then turns to Daniel's stone kingdom and the power over the nations promised to the saints who overcome.
 
-## In The News
-
-- *[[16:57](https://www.youtube.com/watch?v=BuHEXERuOKU&t=1017s)]* **A Black commentator saying any country that attacks Israel's modern state should cease to exist.** — Some of our people defend the very nation that calls itself Jewish, like the house servant who warned the master.
-- *[[21:50](https://www.youtube.com/watch?v=BuHEXERuOKU&t=1310s)]* **A famous rapper praising the president on stage at a conservative youth festival.** — People who forget where they are call this land's president 'our president.'
-- *[[27:22](https://www.youtube.com/watch?v=BuHEXERuOKU&t=1642s)]* **Reports that a champion tennis player married a white man, and her father's disappointment.** — God forbade marriages with the nations because they turn Israel's children away.
-- *[[45:55](https://www.youtube.com/watch?v=BuHEXERuOKU&t=2755s)]* **Reports that the United States bombed Nigeria on Christmas Day, claiming to defend Christians from terror.** — Esau weakens the nations under a pretext, as with the drug war on Venezuela and the weapons claim before Iraq.
-- *[[54:43](https://www.youtube.com/watch?v=BuHEXERuOKU&t=3283s)]* **Footage of men spitting at Christians in Jerusalem and defending the practice.** — The nation America says it protects despises Christians, which exposes the hypocrisy.
-- *[[1:13:15](https://www.youtube.com/watch?v=BuHEXERuOKU&t=4395s)]* **A fact box showing more US air strikes in the first months of the new term than across the prior four years.** — When they say peace and safety, sudden destruction is coming.
-- *[[1:55:28](https://www.youtube.com/watch?v=BuHEXERuOKU&t=6928s)]* **A map showing the strike landed near Nigeria's border with Niger, where no ISIL-linked cells are known to operate.** — The strike is a pretext to reach the Sahel and its resources.
-
 ## Scriptures Opened
 
 **[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[9:12](https://www.youtube.com/watch?v=BuHEXERuOKU&t=552s)]*
@@ -70,6 +60,10 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
     Set a king over thee from among thy brethren, not a stranger.
 
 
+*[[16:57](https://www.youtube.com/watch?v=BuHEXERuOKU&t=1017s)]* **In The News: A Black commentator saying any country that attacks Israel's modern state should cease to exist.** — Some of our people defend the very nation that calls itself Jewish, like the house servant who warned the master.
+
+*[[21:50](https://www.youtube.com/watch?v=BuHEXERuOKU&t=1310s)]* **In The News: A famous rapper praising the president on stage at a conservative youth festival.** — People who forget where they are call this land's president 'our president.'
+
 **[Deuteronomy 7:3](/bible/deuteronomy/7#v3)**  *[[26:36](https://www.youtube.com/watch?v=BuHEXERuOKU&t=1596s)]*
 
 > <sup>[3](/bible/deuteronomy/7#v3)</sup> Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.
@@ -88,6 +82,8 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 
     Judah hath married the daughter of a strange god.
 
+
+*[[27:22](https://www.youtube.com/watch?v=BuHEXERuOKU&t=1642s)]* **In The News: Reports that a champion tennis player married a white man, and her father's disappointment.** — God forbade marriages with the nations because they turn Israel's children away.
 
 **[Revelation 13:11](/bible/revelation/13#v11)**  *[[39:50](https://www.youtube.com/watch?v=BuHEXERuOKU&t=2390s)]*
 
@@ -117,6 +113,10 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
     Lucifer, cut down to the ground, which didst weaken the nations.
 
 
+*[[45:55](https://www.youtube.com/watch?v=BuHEXERuOKU&t=2755s)]* **In The News: Reports that the United States bombed Nigeria on Christmas Day, claiming to defend Christians from terror.** — Esau weakens the nations under a pretext, as with the drug war on Venezuela and the weapons claim before Iraq.
+
+*[[54:43](https://www.youtube.com/watch?v=BuHEXERuOKU&t=3283s)]* **In The News: Footage of men spitting at Christians in Jerusalem and defending the practice.** — The nation America says it protects despises Christians, which exposes the hypocrisy.
+
 **[Micah 2:1](/bible/micah/2#v1)**  *[[1:00:30](https://www.youtube.com/watch?v=BuHEXERuOKU&t=3630s)]*
 
 > <sup>[1](/bible/micah/2#v1)</sup> Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
@@ -144,6 +144,8 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 
 - There is no peace in the strikes and wars, and it will only get worse before the kingdom.
 
+
+*[[1:13:15](https://www.youtube.com/watch?v=BuHEXERuOKU&t=4395s)]* **In The News: A fact box showing more US air strikes in the first months of the new term than across the prior four years.** — When they say peace and safety, sudden destruction is coming.
 
 **[Isaiah 14:21](/bible/isaiah/14#v21)**  *[[1:16:20](https://www.youtube.com/watch?v=BuHEXERuOKU&t=4580s)]*
 
@@ -250,6 +252,8 @@ tags: ["IUIC in the ClassRoom", "false-religion"]
 
     A thousand shall fall at thy side, but it shall not come nigh thee.
 
+
+*[[1:55:28](https://www.youtube.com/watch?v=BuHEXERuOKU&t=6928s)]* **In The News: A map showing the strike landed near Nigeria's border with Niger, where no ISIL-linked cells are known to operate.** — The strike is a pretext to reach the Sahel and its resources.
 
 **[Daniel 7:18](/bible/daniel/7#v18)**  *[[2:00:02](https://www.youtube.com/watch?v=BuHEXERuOKU&t=7202s)]*
 

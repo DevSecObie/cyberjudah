@@ -19,23 +19,9 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "sexual-purity", "the-bo
 
 *[[7:04](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=424s)]* The vantage point of the elders: the fathers have spoken. After a run of marriage, proving, and fornication cases across the congregations, Bishop Yawasap lays down the baseline in Gastonia: the leadership will chase every wicked spirit out, and Leviticus 5:1 means you report the evil you see. Three sections: the vantage point of God, who holds back the four winds until the last servant is sealed, who declared the end from the beginning and cannot be pushed, and whose ways are higher than ours; our responsibility on earth, where the fathers and elders take the oversight because they see danger the daughters and sons cannot; and the enticement of a daughter behind her father's back, which is violence and coveting, so that Exodus 22:16 cannot be quoted without verse 17, and Malachi 2:16 names the man who covers violence with his garment of fringes. No more backdoor marriages.
 
-## In The News
-
-- *[[12:09](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=729s)]* **The class thumbnail: The Vantage Point of the Elders, The Fathers Have Spoken.** — The fathers are biological fathers, elders, and leaders entrusted with your souls. Their directives, policies, and the commandments are for your protection, and no spirit should try to circumvent them.
-- *[[1:03:38](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=3818s)]* **Images of missiles in their silos and the mushroom cloud.** — Lest I come and smite the earth with a curse: nuclear bombs. Malachi did not have these, but they are here now, showing the time we are in, even at the doors.
-- *[[1:15:14](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=4514s)]* **Pictures of Charles Manson beside the painted Jesus.** — He deceiveth the whole world: the man they let out on furlough to grace us with his face is who the planet thinks Jesus looks like. The Bible describes Christ as a black man with woolly hair and skin like burned brass.
-- *[[1:45:18](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=6318s)]* **A preacher telling women that singleness is not a curse and marriage is not the goal.** — The devil in black flesh. Why did God give a woman ovaries and breasts if she was never meant to marry? It is not good that man should be alone; eunuchs existed only because wickedness was so prevalent. And he is married, flaunting his wife online.
-- *[[1:50:29](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=6629s)]* **A woman in Houston describing an Israelite on the corner who asked for her number, said her boyfriend was Jesus, then said, I like that, and asked again, Bible in hand.** — He broke character quick; respectfully, no; isn't this against your laws? A woman in the world checked him, but sisters in the body entertain the same brothers in their DMs. Give diligence and study so you can recognize deception regardless of fringes and a border of blue.
-- *[[1:57:39](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7059s)]* **A man explaining his plan: hit her at her house the first time on a night before she works, dog it down, fall asleep, be there when she gets home with dishes washed, dilly burgers, and a blunt rolled, and never leave.** — The plan was never about her; it was to live in her house. He defiles her in her own safe space so she has nowhere untouched by him. This is not funny: men are doing this to daughters, and fathers are responsible for every woman on the planet.
-- *[[2:04:36](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7476s)]* **The definition of covet: to desire what belongs to another inordinately or culpably.** — Inordinate means against God's laws. You want something and violate the law to get it.
-- *[[2:06:31](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7591s)]* **The definition of entice: to incite or instigate, to draw on by exciting hope or desire, to allure, to attract as bait, often in a bad sense, to lead astray, to induce to evil, to tempt; my son, if sinners entice thee.** — A man talking to you under cover, without your fathers or the leadership, has intentions that are not good, however hot you are. Enticing is trickery and deception, and a woman who brings forth children is not a toy.
-- *[[2:11:11](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7871s)]* **The definition of vantage point: a position that provides an advantageous, unobstructed, or strategic view of a situation.** — That is the leadership over the houses, sons, and daughters. We know the games negroes run and the games sisters run, and we tell you to work on yourself before you marry.
-- *[[2:19:44](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=8384s)]* **The etymology of violence, from the Latin violentia, related to violare, to treat with violence; see violation.** — Going behind a father's back to entice his daughter violates him and the leadership; it is violence, and violation means you broke the law.
-- *[[2:25:23](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=8723s)]* **An Instagram post quoting Exodus 22:16 to say a man who lies with a woman must marry her.** — In the world that is fitting: the girl in the street has no father to go to, so the least a man can do is make her his wife. In here the sisters have fathers and leadership, and verse 17 comes into play.
-- *[[2:45:13](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=9913s)]* **A bill of divorce with its grounds: fraud, adultery, abandonment.** — The reason goes on the paper put in her hand so the next man knows why she is not with her husband. Play games and you get stained with that.
-- *[[2:48:22](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=10102s)]* **The 1940s black marriage film: announcements read from the pulpit for weeks, elders counselling the groom, older women teaching the bride, and courting on the front porch in view of parents and neighbours with no sneaking around and nothing physical.** — Where do you find enticement in that? Nowhere. This will be instituted across all IUIC groups, approved with the leadership: no more backdoor marriages.
-
 ## Scriptures Opened
+
+*[[12:09](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=729s)]* **In The News: The class thumbnail: The Vantage Point of the Elders, The Fathers Have Spoken.** — The fathers are biological fathers, elders, and leaders entrusted with your souls. Their directives, policies, and the commandments are for your protection, and no spirit should try to circumvent them.
 
 **[Judith 5:17-21](/bible/judith/5#v17)**  *[[14:30](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=870s)]*
 
@@ -183,6 +169,10 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "sexual-purity", "the-bo
     The great dragon was cast out, the red dragon, Esau, the Roman Empire that entered our heaven and cast us into captivity; the heaven he falls from is his rulership now, not some fight at creation, because Satan obeys the Lord, asking permission over Job's hedge and sent as a lying spirit to Ahab's prophets in Kings. That old serpent, back to Cain and Eve, called the Devil, evil, and Satan, adversary: the red man, never white, which deceiveth the whole world with a Charles Manson Jesus, cast out with his angels, his black preachers and ministers who are imps to destroy our people. Christianity has perfected slavery: in chains we still wanted freedom, but this dope put us so far to sleep we do not want to be free. Then a loud voice: now is come salvation, and strength, and the kingdom of our God, for the accuser of our brethren is cast down. When these devils go down, we rule.
 
 
+*[[1:03:38](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=3818s)]* **In The News: Images of missiles in their silos and the mushroom cloud.** — Lest I come and smite the earth with a curse: nuclear bombs. Malachi did not have these, but they are here now, showing the time we are in, even at the doors.
+
+*[[1:15:14](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=4514s)]* **In The News: Pictures of Charles Manson beside the painted Jesus.** — He deceiveth the whole world: the man they let out on furlough to grace us with his face is who the planet thinks Jesus looks like. The Bible describes Christ as a black man with woolly hair and skin like burned brass.
+
 **[Habakkuk 2:1-4](/bible/habakkuk/2#v1)**  *[[1:20:48](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=4848s)]*
 
 > <sup>[1](/bible/habakkuk/2#v1)</sup> I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
@@ -251,6 +241,12 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "sexual-purity", "the-bo
     Dinah was not raped. She went out to see the daughters of the land on her own, away from her father and twelve brothers who surely brought the wisdom pertaining to a woman to her; if thy daughter be shameless, keep her in straitly. Shechem saw she was not rolling in the spirit of her fathers and took her, and his soul clave unto her, and he loved the damsel, and spake kindly unto the damsel. That is the part: you gave him your ear, he got your underwear. She was enticed, beguiled, allured away from her protection. Slick brothers read your spirit when you are not studying and hit you in the DM. Her brothers said you are not keeping her, so she had to live with the stain; you read nothing of her after that.
 
 
+*[[1:45:18](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=6318s)]* **In The News: A preacher telling women that singleness is not a curse and marriage is not the goal.** — The devil in black flesh. Why did God give a woman ovaries and breasts if she was never meant to marry? It is not good that man should be alone; eunuchs existed only because wickedness was so prevalent. And he is married, flaunting his wife online.
+
+*[[1:50:29](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=6629s)]* **In The News: A woman in Houston describing an Israelite on the corner who asked for her number, said her boyfriend was Jesus, then said, I like that, and asked again, Bible in hand.** — He broke character quick; respectfully, no; isn't this against your laws? A woman in the world checked him, but sisters in the body entertain the same brothers in their DMs. Give diligence and study so you can recognize deception regardless of fringes and a border of blue.
+
+*[[1:57:39](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7059s)]* **In The News: A man explaining his plan: hit her at her house the first time on a night before she works, dog it down, fall asleep, be there when she gets home with dishes washed, dilly burgers, and a blunt rolled, and never leave.** — The plan was never about her; it was to live in her house. He defiles her in her own safe space so she has nowhere untouched by him. This is not funny: men are doing this to daughters, and fathers are responsible for every woman on the planet.
+
 **[Exodus 20:17](/bible/exodus/20#v17)**  *[[2:03:26](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7406s)]*
 
 > <sup>[17](/bible/exodus/20#v17)</sup> Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
@@ -267,6 +263,12 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "sexual-purity", "the-bo
 
     Whereby are given unto us exceeding great and precious promises, that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust; and beside this, giving all diligence. You are supposed to be escaping the worldly elements, looking across the aisle for righteousness, not her behind. When we announce marriages we say this is the day the Lord has made between you two, with the angels in agreement and a whole community behind you.
 
+
+*[[2:04:36](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7476s)]* **In The News: The definition of covet: to desire what belongs to another inordinately or culpably.** — Inordinate means against God's laws. You want something and violate the law to get it.
+
+*[[2:06:31](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7591s)]* **In The News: The definition of entice: to incite or instigate, to draw on by exciting hope or desire, to allure, to attract as bait, often in a bad sense, to lead astray, to induce to evil, to tempt; my son, if sinners entice thee.** — A man talking to you under cover, without your fathers or the leadership, has intentions that are not good, however hot you are. Enticing is trickery and deception, and a woman who brings forth children is not a toy.
+
+*[[2:11:11](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=7871s)]* **In The News: The definition of vantage point: a position that provides an advantageous, unobstructed, or strategic view of a situation.** — That is the leadership over the houses, sons, and daughters. We know the games negroes run and the games sisters run, and we tell you to work on yourself before you marry.
 
 **[Exodus 22:1,16-17](/bible/exodus/22#v1)**  *[[2:17:56](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=8276s)]*
 
@@ -305,6 +307,10 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "sexual-purity", "the-bo
     The Pharisees tempted him with Moses' writing of divorcement, Deuteronomy 24, and Christ took them back to the beginning: he which made them made them male and female, and they twain shall be one flesh; what God hath joined together, let not man put asunder. God did not join backdoor marriages. Moses, because of the hardness of your hearts, suffered you to put away your wives, but from the beginning it was not so. Those are failsafe laws to keep negroes from going all the way wicked; you are not supposed to be in failure for them to come up, and quoting one after you went off does not make you righteous.
 
 
+*[[2:19:44](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=8384s)]* **In The News: The etymology of violence, from the Latin violentia, related to violare, to treat with violence; see violation.** — Going behind a father's back to entice his daughter violates him and the leadership; it is violence, and violation means you broke the law.
+
+*[[2:25:23](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=8723s)]* **In The News: An Instagram post quoting Exodus 22:16 to say a man who lies with a woman must marry her.** — In the world that is fitting: the girl in the street has no father to go to, so the least a man can do is make her his wife. In here the sisters have fathers and leadership, and verse 17 comes into play.
+
 **[Malachi 2:16-17](/bible/malachi/2#v16)**  *[[2:38:03](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=9483s)]*
 
 > <sup>[16](/bible/malachi/2#v16)</sup> For the Lord, the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the Lord of hosts: therefore take heed to your spirit, that ye deal not treacherously.
@@ -317,6 +323,10 @@ tags: ["IUIC in the ClassRoom", "angels", "leadership", "sexual-purity", "the-bo
 
 - This is a warning: do not get caught with any more foolishness; we are not playing. On all the IUIC groups the front-porch standard will be instituted, tested and proven. No more backdoor marriages, no covering the violence of enticing a daughter away from her protection with a garment of long Pharisee fringes. Part two next week.
 
+
+*[[2:45:13](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=9913s)]* **In The News: A bill of divorce with its grounds: fraud, adultery, abandonment.** — The reason goes on the paper put in her hand so the next man knows why she is not with her husband. Play games and you get stained with that.
+
+*[[2:48:22](https://www.youtube.com/watch?v=tjzg3IL4JAA&t=10102s)]* **In The News: The 1940s black marriage film: announcements read from the pulpit for weeks, elders counselling the groom, older women teaching the bride, and courting on the front porch in view of parents and neighbours with no sneaking around and nothing physical.** — Where do you find enticement in that? Nowhere. This will be instituted across all IUIC groups, approved with the leadership: no more backdoor marriages.
 
 ## Class Questions
 

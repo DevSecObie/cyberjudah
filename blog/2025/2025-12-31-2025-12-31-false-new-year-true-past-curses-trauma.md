@@ -19,14 +19,9 @@ tags: ["IUIC in the ClassRoom"]
 
 *[[6:25](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=385s)]* Taught on the eve of the Roman new year, this class shows that God set the year to begin in the spring, while Rome changed times and laws. The months still carry Roman gods and numbers that no longer fit. Revelation 13's beast, America, inherited that power and was given to make war with the saints. The class warns young Israelite camps against fear, new Bibles, 'good nations' and books like Enoch. It then walks through the curses of Deuteronomy 28 as history: ghettos, children sold, colonizers old and new, insurance papers for human cargo and twenty-hour workdays. It ends with the auction block and the Maccabees, who robbed the merchants who came to buy Israel.
 
-## In The News
-
-- *[[7:55](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=475s)]* **A film scene in which a ruler says 'we shall change laws and times to match our glory' and make our gods the gods of the world.** — That is Daniel 7:25 spoken out loud.
-- *[[39:29](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=2369s)]* **A video claiming ancestry DNA testing was built to track the bloodlines of old rulers and revolutionaries before they wake up.** — History loops. The same spirits return, and the enemy fears the spark of a people waking up.
-- *[[1:14:38](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=4478s)]* **The slave auction scene from 12 Years a Slave in which a mother is sold away from her children.** — Thy sons and thy daughters shall be given unto another people.
-- *[[1:29:32](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=5372s)]* **Scenes from Roots of Kunta Kinte and Kizzy on the auction block, and a mother begging to be sold with her daughter.** — Israel was sold like livestock. Channel the anger into teaching the word with power.
-
 ## Scriptures Opened
+
+*[[7:55](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=475s)]* **In The News: A film scene in which a ruler says 'we shall change laws and times to match our glory' and make our gods the gods of the world.** — That is Daniel 7:25 spoken out loud.
 
 **[Exodus 12:2](/bible/exodus/12#v2)**  *[[9:15](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=555s)]*
 
@@ -65,6 +60,8 @@ tags: ["IUIC in the ClassRoom"]
 
 - Israelites who borrow the enemy's hermeneutics, new Bibles and books like Enoch show fear and unbelief. What Israel has is enough until Christ returns.
 
+
+*[[39:29](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=2369s)]* **In The News: A video claiming ancestry DNA testing was built to track the bloodlines of old rulers and revolutionaries before they wake up.** — History loops. The same spirits return, and the enemy fears the spark of a people waking up.
 
 **[Ecclesiastes 1:11](/bible/ecclesiastes/1#v11)**  *[[42:46](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=2566s)]*
 
@@ -268,6 +265,8 @@ Reading from *Lest We Forget*, pages 14 and 15  *[[1:05:09](https://www.youtube.
 </div>
 
 
+*[[1:14:38](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=4478s)]* **In The News: The slave auction scene from 12 Years a Slave in which a mother is sold away from her children.** — Thy sons and thy daughters shall be given unto another people.
+
 **[1 Maccabees 3:41](/bible/1-maccabees/3#v41)**  *[[1:19:24](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=4764s)]*
 
 > <sup>[41](/bible/1-maccabees/3#v41)</sup> And the merchants of the country, hearing the fame of them, took silver and gold very much, with servants, and came into the camp to buy the children of Israel for slaves: a power also of Syria and of the land of the Philistines joined themselves unto them.
@@ -283,6 +282,8 @@ Reading from *Lest We Forget*, pages 14 and 15  *[[1:05:09](https://www.youtube.
 
 - Judas and his brethren slew many of Nicanor's host and took the money of those who came to buy them.
 
+
+*[[1:29:32](https://www.youtube.com/watch?v=R6Rhu7njQ-g&t=5372s)]* **In The News: Scenes from Roots of Kunta Kinte and Kizzy on the auction block, and a mother begging to be sold with her daughter.** — Israel was sold like livestock. Channel the anger into teaching the word with power.
 
 ## Class Questions
 

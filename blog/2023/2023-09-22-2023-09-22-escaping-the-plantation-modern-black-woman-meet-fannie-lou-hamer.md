@@ -20,14 +20,9 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "heaven-hell", "women"]
 
 *[[0:05](https://www.youtube.com/watch?v=4nZTbI949ok&t=5s)]* Escaping the Plantation, IUIC Raleigh, on the modern black woman meeting Fannie Lou Hamer. The other America, token integration and affirmative action give the illusion that everything is all right. Fannie Lou Hamer said in 1968 that the flag is drenched with our blood, the same thing Revelation 17:6 prophesied. Nothing has changed: Rasheem Carter's death in Mississippi, the projects built like a rat experiment, and the men of IUIC marching in Taylorsville. We are living in hell, and our justice comes from heaven.
 
-## In The News
-
-- *[[0:05](https://www.youtube.com/watch?v=4nZTbI949ok&t=5s)]* **Fannie Lou Hamer in 1968: Mississippi is America's problem; 40 to 50 churches bombed and burned; the flag is drenched with our blood; give the young people a chance to be respected as men** — There are two types of Christians: the white Christian with a hood who bombed the churches, and your people praying to a white Jesus while they bust you on the head. Our sisters knew who the enemy was back then, not through feminism.
-- *[[6:59](https://www.youtube.com/watch?v=4nZTbI949ok&t=419s)]* **The Fannie Lou Hamer Park in Ruleville, Mississippi, run down, and a brother who came from the East Coast to see it** — The white man gives us a museum, a statue or a holiday. Fannie Lou Hamer fought for black people to vote, went toe to toe with the white man, was beaten, and was sterilized without her knowledge. She didn't know the scriptures but put her life on the line, and they don't even teach about her. She wore her natural hair.
-- *[[9:43](https://www.youtube.com/watch?v=4nZTbI949ok&t=583s)]* **News: the death of Rasheem Carter of Fayette, Mississippi, called a modern-day lynching; his remains were found a month after he went missing, and the Department of Justice is looking into it** — Nothing has changed since the 60s. We still go to the white man to right our wrongs, in a court system built on the bones and blood of the Native American Indians, who are our people. Our justice comes from heaven.
-- *[[11:54](https://www.youtube.com/watch?v=4nZTbI949ok&t=714s)]* **IUIC in Taylorsville, Mississippi: thousands of men marching for Rasheem Carter, to show his mother, Tiffany Carter, that we care** — One of the greatest experiences in the truth: brothers came from all over the country, fell into line, and marched on despite death threats. You men, don't sit back; be a part of this.
-
 ## Scriptures Opened
+
+*[[0:05](https://www.youtube.com/watch?v=4nZTbI949ok&t=5s)]* **In The News: Fannie Lou Hamer in 1968: Mississippi is America's problem; 40 to 50 churches bombed and burned; the flag is drenched with our blood; give the young people a chance to be respected as men** — There are two types of Christians: the white Christian with a hood who bombed the churches, and your people praying to a white Jesus while they bust you on the head. Our sisters knew who the enemy was back then, not through feminism.
 
 **[Revelation 17:6](/bible/revelation/17#v6)**  *[[4:31](https://www.youtube.com/watch?v=4nZTbI949ok&t=271s)]*
 
@@ -48,6 +43,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "heaven-hell", "women"]
 
 - To make it plain and simple for a Christian: the saints are those that made a covenant with God by sacrifice. Only the Israelites made a covenant with God by sacrifice. The blood of the saints is the blood of the Israelites.
 
+
+*[[6:59](https://www.youtube.com/watch?v=4nZTbI949ok&t=419s)]* **In The News: The Fannie Lou Hamer Park in Ruleville, Mississippi, run down, and a brother who came from the East Coast to see it** — The white man gives us a museum, a statue or a holiday. Fannie Lou Hamer fought for black people to vote, went toe to toe with the white man, was beaten, and was sterilized without her knowledge. She didn't know the scriptures but put her life on the line, and they don't even teach about her. She wore her natural hair.
+
+*[[9:43](https://www.youtube.com/watch?v=4nZTbI949ok&t=583s)]* **In The News: News: the death of Rasheem Carter of Fayette, Mississippi, called a modern-day lynching; his remains were found a month after he went missing, and the Department of Justice is looking into it** — Nothing has changed since the 60s. We still go to the white man to right our wrongs, in a court system built on the bones and blood of the Native American Indians, who are our people. Our justice comes from heaven.
+
+*[[11:54](https://www.youtube.com/watch?v=4nZTbI949ok&t=714s)]* **In The News: IUIC in Taylorsville, Mississippi: thousands of men marching for Rasheem Carter, to show his mother, Tiffany Carter, that we care** — One of the greatest experiences in the truth: brothers came from all over the country, fell into line, and marched on despite death threats. You men, don't sit back; be a part of this.
 
 **[Psalms 44:14](/bible/psalms/44#v14)**  *[[14:05](https://www.youtube.com/watch?v=4nZTbI949ok&t=845s)]*
 

@@ -20,12 +20,6 @@ tags: ["IUIC in the ClassRoom", "bitterness", "health", "leadership", "passover-
 
 *[[9:59](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=599s)]* The Power Hour from IUIC Phoenix after Passover 2022, the first show since its host was raised from captain to deacon, with an officer and Soldier Eric. Bishop Nathanyel walked in at the opening of the feast after his illness, and the deacon wept. The haters called the brothers' joy idolatry; the scriptures say the Lord sets a man over the congregation so it is not as sheep without a shepherd, and that we esteem them that labour among us very highly in love for their work's sake. Plus Israel United in Christ in Hosea 1:11, The Matrix, Elijah and Elisha, and clips from the West Coast Passover.
 
-## In The News
-
-- *[[31:29](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=1889s)]* **A video from the haters: a dream of the bishop sick and near death, said to be judged by the Most High, read against Job 33 and the Psalms** — The hate this man gets solidifies what he stands for: it magnifies where they lack.
-- *[[1:05:21](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=3921s)]* **Clips from The Matrix: Morpheus tells Neo the system is our enemy, and the businessmen, teachers, lawyers and carpenters are the very minds we're trying to save; until we do, they are part of that system, and many are so hopelessly dependent on it that they will fight to protect it** — When you look around, that's this present world, whose foundations are out of course. Our own people, plugged in, will defend the white supremacist system without knowing it; you can't help an addict who won't admit he has a problem. Most aren't ready to be unplugged.
-- *[[2:01:46](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=7306s)]* **Clips from the West Coast Passover 2022: Captain Hananiah on more rank meaning more responsibility and work; brothers from NorCal, Seattle, Portland, Bakersfield, L.A., San Diego and Phoenix at the meet and greet** — The same themes from men about this work: responsibility, accountability. Those who could have come and chose not to need to check their spirit.
-
 ## Scriptures Opened
 
 **[Luke 12:48](/bible/luke/12#v48)**  *[[20:34](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=1234s)]*
@@ -43,6 +37,8 @@ tags: ["IUIC in the ClassRoom", "bitterness", "health", "leadership", "passover-
 
 - When ye have done all, say we are unprofitable servants, we have done our duty: that keeps him grounded. Do what's commanded, from the Most High through Christ and then your leaders down the chain. Don't let rank get to your head.
 
+
+*[[31:29](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=1889s)]* **In The News: A video from the haters: a dream of the bishop sick and near death, said to be judged by the Most High, read against Job 33 and the Psalms** — The hate this man gets solidifies what he stands for: it magnifies where they lack.
 
 **[Hosea 1:11](/bible/hosea/1#v11)**  *[[37:09](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=2229s)]*
 
@@ -166,6 +162,8 @@ tags: ["IUIC in the ClassRoom", "bitterness", "health", "leadership", "passover-
 
     Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.
 
+
+*[[1:05:21](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=3921s)]* **In The News: Clips from The Matrix: Morpheus tells Neo the system is our enemy, and the businessmen, teachers, lawyers and carpenters are the very minds we're trying to save; until we do, they are part of that system, and many are so hopelessly dependent on it that they will fight to protect it** — When you look around, that's this present world, whose foundations are out of course. Our own people, plugged in, will defend the white supremacist system without knowing it; you can't help an addict who won't admit he has a problem. Most aren't ready to be unplugged.
 
 **[Matthew 12:30](/bible/matthew/12#v30)**  *[[1:13:22](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=4402s)]*
 
@@ -341,6 +339,8 @@ tags: ["IUIC in the ClassRoom", "bitterness", "health", "leadership", "passover-
 
     Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
 
+
+*[[2:01:46](https://www.youtube.com/watch?v=0r5Y6KuDf9w&t=7306s)]* **In The News: Clips from the West Coast Passover 2022: Captain Hananiah on more rank meaning more responsibility and work; brothers from NorCal, Seattle, Portland, Bakersfield, L.A., San Diego and Phoenix at the meet and greet** — The same themes from men about this work: responsibility, accountability. Those who could have come and chose not to need to check their spirit.
 
 ## Class Questions
 

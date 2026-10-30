@@ -27,6 +27,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 sys.path.insert(0, os.path.join(ROOT, "scripts", "notes"))
 import prep  # noqa: E402
 import lib  # noqa: E402
+import class_order  # noqa: E402
 
 MODEL = os.environ.get("NOTES_MODEL", "claude-opus-5")
 FEED_DIR = {"classes": "blog", "captains": "captains"}
@@ -281,7 +282,8 @@ def render(t, d, feed):
         out += ["## Announcements & References", ""] + [f"- {a.strip()}" for a in d["announcements"]] + [""]
     index = "[Class Notes Index](/classes)" if feed == "classes" else "[15 Minutes Index](/captains)"
     out += ["---", "", f"{index} · [Watch the full session on YouTube ↗](https://www.youtube.com/watch?v={vid})", ""]
-    return "\n".join(out)
+    # The note follows the class: each news item goes where the class played it (class_order.py).
+    return class_order.reorder("\n".join(out))
 
 
 def note_path(t, feed):

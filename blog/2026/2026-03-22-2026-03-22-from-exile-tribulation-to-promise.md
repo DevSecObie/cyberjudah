@@ -19,19 +19,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "angels", "captivity", "false-relig
 
 *[[12:10](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=730s)]* From exile and tribulation to promise: Bishop Nathanyel walks Jeremiah 30 from the voice of trembling to the whirlwind of the Lord. Old books put the Negro in slavery for three and a half thousand years and the Hebrews on the Niger and in the Cape, and the class reads why: Israel is a servant because he keeps breaking God's law. Then Jacob's trouble as Christ laid it out in Matthew 10 and 24, the hatred, the betrayal by family, the compelling to blaspheme as Paul did it, the 144,000 sealed before the end, the great multitude that came out of great tribulation, the horrible star that goes steadfastly unto Babylon, idleness and the doors of pornography, the chosen tried as gold in the fire, and the promise: the yoke broken, David their king, Jacob's tents restored, judges as at the first, and their governor from the midst of them.
 
-## In The News
-
-- *[[29:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1762s)]* **The I Am a Man signs of the civil rights era** — Sixty years of a liberty we did not have before, and we have used it to shoot and hate each other; two boys were shot in the face by our own brother in the Georgia camp's neighbourhood today.
-- *[[31:15](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1875s)]* **An Edomite on Instagram: you sided with the resistance in The Hunger Games, Star Wars and The Matrix, but when it is happening to you in real life you are afraid to resist** — Our people cheer Malcolm and Martin in the theatre and would never have joined them, and many fear joining us.
-- *[[32:47](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1967s)]* **Two self-styled black revolutionaries calling us a cult, separatists and black American nationalists, and Captain Gedaliah's answer** — Deuteronomy 7:6 says Israel is a holy people above all people; we teach every congregation to come out of her, not to come to America; those men uplift transgenderism and the woman over the man and have never left the couch.
-- *[[1:15:23](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4523s)]* **The missile strike on Dimona** — When we visited in 2018 they said Ben Ammi, not Christ, was their saviour, so all we can do is pray for them.
-- *[[1:18:11](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4691s)]* **A Christian on Revelation 7:9: heaven is beautifully diverse, so let us celebrate our differences** — Where was that in 1964 and on the slave ships? Now that we are bringing this out it is all come together, and you fall for it.
-- *[[1:54:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6862s)]* **The World Council of Churches founded in 1937 with Rockefeller money and Freemasons, speed-running the one-world religion** — The mother church dictates what verses mean, which is why they all say John 3:16, and every one of them worships the Borgia image.
-- *[[1:59:39](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7179s)]* **Pastor William Wolfe: we are going to impose it upon you, and Doug Wilson leading a Christian nationalist service at the Pentagon under Hegseth** — They are telling you Christianity will be imposed on the country; that is what Ezra prophesied about being fed with things offered to idols.
-- *[[2:13:34](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=8014s)]* **A prepper: if the government tells you to get on a bus or truck for your safety, do not get on** — We have told brothers and sisters for years to prepare; now the white man said it, they will listen.
-- *[[2:29:32](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=8972s)]* **The hallway of doors: straight porn, threesomes, then every perversion down to bestiality and pedophilia** — Nobody stays at the first door; two brothers in the body ended arrested, one at a nursing home and one for child pornography, and the brother holding his computer nearly went with him.
-- *[[3:17:32](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=11852s)]* **A young black man mocking a God who almost annihilated his own people for a piece of gold** — That is what Christianity has done to our people; Oprah said the same.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -153,6 +140,12 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
 
     Oh that I had in the wilderness a lodging place, that I might leave my people, for they are all adulterers who bend their tongues for lies and are not valiant for the truth: valiant in the theatre for Nat Turner and Malcolm, but not on the earth.
 
+
+*[[29:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1762s)]* **In The News: The I Am a Man signs of the civil rights era** — Sixty years of a liberty we did not have before, and we have used it to shoot and hate each other; two boys were shot in the face by our own brother in the Georgia camp's neighbourhood today.
+
+*[[31:15](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1875s)]* **In The News: An Edomite on Instagram: you sided with the resistance in The Hunger Games, Star Wars and The Matrix, but when it is happening to you in real life you are afraid to resist** — Our people cheer Malcolm and Martin in the theatre and would never have joined them, and many fear joining us.
+
+*[[32:47](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1967s)]* **In The News: Two self-styled black revolutionaries calling us a cult, separatists and black American nationalists, and Captain Gedaliah's answer** — Deuteronomy 7:6 says Israel is a holy people above all people; we teach every congregation to come out of her, not to come to America; those men uplift transgenderism and the woman over the man and have never left the couch.
 
 **[Matthew 10:21-33](/bible/matthew/10#v21)**  *[[39:37](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=2377s)]*
 
@@ -316,6 +309,8 @@ Reading from *The Times of Israel*  *[[1:14:16](https://www.youtube.com/watch?v=
 </div>
 
 
+*[[1:15:23](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4523s)]* **In The News: The missile strike on Dimona** — When we visited in 2018 they said Ben Ammi, not Christ, was their saviour, so all we can do is pray for them.
+
 **[Galatians 1:6-7](/bible/galatians/1#v6)**  *[[1:16:44](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4604s)]*
 
 > <sup>[6](/bible/galatians/1#v6)</sup> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
@@ -324,6 +319,8 @@ Reading from *The Times of Israel*  *[[1:14:16](https://www.youtube.com/watch?v=
 
 - So soon removed unto another gospel which is not another: then it was animal sacrifice, and today, having come out of Christianity and Islam to the truth that we are the Israelites, men use the same scriptures to pull you back, the love verses for Christianity and the comforter of John 14 for Muhammad, because you do not study. They pervert the gospel of Christ.
 
+
+*[[1:18:11](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4691s)]* **In The News: A Christian on Revelation 7:9: heaven is beautifully diverse, so let us celebrate our differences** — Where was that in 1964 and on the slave ships? Now that we are bringing this out it is all come together, and you fall for it.
 
 **[Revelation 7:9-17](/bible/revelation/7#v9)**  *[[1:19:46](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4786s)]*
 
@@ -587,6 +584,10 @@ Reading from an on-screen note on Pastor William Wolfe  *[[1:59:47](https://www.
     The dragon was wroth with the woman and went to make war, physical war, with the remnant of her seed which keep the commandments and have the testimony of Jesus: France already says shut down IUIC for teaching a black Jesus.
 
 
+*[[1:54:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=6862s)]* **In The News: The World Council of Churches founded in 1937 with Rockefeller money and Freemasons, speed-running the one-world religion** — The mother church dictates what verses mean, which is why they all say John 3:16, and every one of them worships the Borgia image.
+
+*[[1:59:39](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7179s)]* **In The News: Pastor William Wolfe: we are going to impose it upon you, and Doug Wilson leading a Christian nationalist service at the Pentagon under Hegseth** — They are telling you Christianity will be imposed on the country; that is what Ezra prophesied about being fed with things offered to idols.
+
 **[2 Esdras 16:71-78](/bible/2-esdras/16#v71)**  *[[2:07:47](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7667s)]*
 
 > <sup>[71](/bible/2-esdras/16#v71)</sup> They shall be like mad men, sparing none, but still spoiling and destroying those that fear the Lord.
@@ -731,6 +732,10 @@ Reading from an on-screen note on Pastor William Wolfe  *[[1:59:47](https://www.
 
     It is impossible to renew again to repentance those once enlightened who fall away back into their sin or false religion; that which beareth thorns and briers is rejected and its end is to be burned, the same as 2 Esdras 16:78.
 
+
+*[[2:13:34](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=8014s)]* **In The News: A prepper: if the government tells you to get on a bus or truck for your safety, do not get on** — We have told brothers and sisters for years to prepare; now the white man said it, they will listen.
+
+*[[2:29:32](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=8972s)]* **In The News: The hallway of doors: straight porn, threesomes, then every perversion down to bestiality and pedophilia** — Nobody stays at the first door; two brothers in the body ended arrested, one at a nursing home and one for child pornography, and the brother holding his computer nearly went with him.
 
 **[2 Esdras 7:13-18](/bible/2-esdras/7#v13)**  *[[2:44:11](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=9851s)]*
 
@@ -940,6 +945,8 @@ Reading from an on-screen headline  *[[3:13:24](https://www.youtube.com/watch?v=
 
     Who his own self bare our sins in his own body on the tree, by whose stripes ye were healed: how the Lord restores health.
 
+
+*[[3:17:32](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=11852s)]* **In The News: A young black man mocking a God who almost annihilated his own people for a piece of gold** — That is what Christianity has done to our people; Oprah said the same.
 
 **[Jeremiah 30:18-24](/bible/jeremiah/30#v18)**  *[[3:24:13](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=12253s)]*
 

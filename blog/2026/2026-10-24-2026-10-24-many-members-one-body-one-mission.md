@@ -19,19 +19,6 @@ tags: ["IUIC in the ClassRoom", "faith", "media", "purpose", "the-body", "unity"
 
 *[[8:04](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=484s)]* I haven't teach in a while. Hey, before we jump to the title of the class and everything, I want to talk about something right quick, something that's been going on that I've not noticed, and I just don't want your brothers and sisters to worry about what you see is going on. Give me Psalm 89 verse 48 right quick. Couple of scriptures I'm going to go over before we jump to the title.
 
-## In The News
-
-- *[[26:52](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=1612s)]* **Video for the title of the class, made by Officer Morai** — Opening the title of the class: Many members, one body, one mission.
-- *[[34:47](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2087s)]* **Video number one: Donald Trump saying African-American, Hispanic American and Native American poverty rates are "the highest and the best numbers ever recorded by far," and the crowd clapping** — Why he named those three: those are the Israelite, and some of us still think these people love us.
-- *[[38:56](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2336s)]* **Video number seven: a black woman asked to leave a Ken Paxton campaign event in San Antonio, and a follow-up clip where she still has no answer why** — Some of us still think these people love us; insanity, not understanding reality.
-- *[[48:26](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2906s)]* **Video number 11: Donald Trump calling a black woman (Letitia) a "disgusting dog" on stage, with a commentator's reaction** — This is what they think of the sisters; the whole crowd cheers.
-- *[[50:35](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3035s)]* **Video number 10: a black woman from Memphis at her first MAGA rally saying she is among her people and "we don't think about color"** — Insanity: she does not understand reality; this country was built on color.
-- *[[1:09:55](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4195s)]* **Video number three: a sister saying the entire civilization is built on keeping the black man and the black woman apart, and how she was fought for saying it back in 1990** — The Israelite are closing that gap, and they are watching it.
-- *[[1:11:26](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4286s)]* **Video number four: a video about a viral post saying black men are hard to love** — Esau is pushing the gender war against unity.
-- *[[1:15:36](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4536s)]* **Video number two: a woman thanking black men and telling them not to let social media rob them of their plan (played again at 1:25:46)** — This class is about unity; don't let social media fool you.
-- *[[1:20:47](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4847s)]* **Video Bishop sent: a young man on how the whole world hates black people though white people dropped the bombs and destabilized their homelands** — Everybody hate us, but we don't do nothing to nobody.
-- *[[1:41:14](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=6074s)]* **Video number five: Trump voters, farmers and a veteran saying they regret their vote over prices and losses** — They voted to make black people's life miserable and it is coming back to bite them.
-
 ## Scriptures Opened
 
 **[Psalms 89:48](/bible/psalms/89#v48)**  *[[8:04](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=484s)]*
@@ -127,6 +114,8 @@ tags: ["IUIC in the ClassRoom", "faith", "media", "purpose", "the-body", "unity"
 - And run to and fro like sparks among the stubble: Leave that right there. So I just read that to give you guys some type of strength, that we just here in Atlanta, we just lost two brothers in less than a month. Faithful brothers, brothers that was doing the work. I pray Most High God receive their spirit. I pray they at peace, and also I pray also keep their families they left behind, and pray prayers. Again, it's not easy for the one they left behind. It's not easy. But I know some of you used to be close with these brothers. That should give you some type of comfort to keep going. Lord willing, we see our brothers again.
 
 
+*[[26:52](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=1612s)]* **In The News: Video for the title of the class, made by Officer Morai** — Opening the title of the class: Many members, one body, one mission.
+
 **[Luke 11:17-18](/bible/luke/11#v17)**  *[[30:43](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=1843s)]*
 
 > <sup>[17](/bible/luke/11#v17)</sup> But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house divided against a house falleth.
@@ -183,6 +172,10 @@ Reading from Definition of insanity (read on screen)  *[[42:44](https://www.yout
 </div>
 
 
+*[[34:47](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2087s)]* **In The News: Video number one: Donald Trump saying African-American, Hispanic American and Native American poverty rates are "the highest and the best numbers ever recorded by far," and the crowd clapping** — Why he named those three: those are the Israelite, and some of us still think these people love us.
+
+*[[38:56](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2336s)]* **In The News: Video number seven: a black woman asked to leave a Ken Paxton campaign event in San Antonio, and a follow-up clip where she still has no answer why** — Some of us still think these people love us; insanity, not understanding reality.
+
 **[Proverbs 3:31](/bible/proverbs/3#v31)**  *[[46:30](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2790s)]*
 
 > <sup>[31](/bible/proverbs/3#v31)</sup> Envy thou not the oppressor, and choose none of his ways.
@@ -191,6 +184,8 @@ Reading from Definition of insanity (read on screen)  *[[42:44](https://www.yout
 
 - And choose none of his ways: Choose none of his ways. We just played the Donald Trump video, right? I want you to play number 11. I want you to hear this. This is for your sisters. "They love us." This what happened when he called the black woman a dog? The whole crowd cheers. Yep. Go ahead.
 
+
+*[[48:26](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2906s)]* **In The News: Video number 11: Donald Trump calling a black woman (Letitia) a "disgusting dog" on stage, with a commentator's reaction** — This is what they think of the sisters; the whole crowd cheers.
 
 **[Jeremiah 50:33](/bible/jeremiah/50#v33)**  *[[49:35](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=2975s)]*
 
@@ -219,6 +214,8 @@ Reading from Definition of insanity, read again (on screen)  *[[52:36](https://w
 
 </div>
 
+
+*[[50:35](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3035s)]* **In The News: Video number 10: a black woman from Memphis at her first MAGA rally saying she is among her people and "we don't think about color"** — Insanity: she does not understand reality; this country was built on color.
 
 **[Lamentations 4:17](/bible/lamentations/4#v17)**  *[[55:38](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=3338s)]*
 
@@ -305,6 +302,14 @@ Reading from Quote on J. Edgar Hoover (read on screen)  *[[1:18:32](https://www.
 
 </div>
 
+
+*[[1:09:55](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4195s)]* **In The News: Video number three: a sister saying the entire civilization is built on keeping the black man and the black woman apart, and how she was fought for saying it back in 1990** — The Israelite are closing that gap, and they are watching it.
+
+*[[1:11:26](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4286s)]* **In The News: Video number four: a video about a viral post saying black men are hard to love** — Esau is pushing the gender war against unity.
+
+*[[1:15:36](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4536s)]* **In The News: Video number two: a woman thanking black men and telling them not to let social media rob them of their plan (played again at 1:25:46)** — This class is about unity; don't let social media fool you.
+
+*[[1:20:47](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=4847s)]* **In The News: Video Bishop sent: a young man on how the whole world hates black people though white people dropped the bombs and destabilized their homelands** — Everybody hate us, but we don't do nothing to nobody.
 
 **[Amos 3:3-4](/bible/amos/3#v3)**  *[[1:24:40](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=5080s)]*
 
@@ -410,6 +415,8 @@ Reading from Definition of joyfully (read on screen)  *[[1:39:25](https://www.yo
 
 </div>
 
+
+*[[1:41:14](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=6074s)]* **In The News: Video number five: Trump voters, farmers and a veteran saying they regret their vote over prices and losses** — They voted to make black people's life miserable and it is coming back to bite them.
 
 **[Ephesians 4:3](/bible/ephesians/4#v3)**  *[[1:47:02](https://www.youtube.com/watch?v=UR6FvAGkTxo&t=6422s)]*
 

@@ -19,18 +19,6 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 *[[6:10](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=370s)]* Why do fools fall in love: a class on proving a spouse, taught because of what is happening in the body. A fool is one who despises wisdom and instruction, and the class walks the eight stages people mistake for love, from infatuation and lust to trauma bonding, then the scriptures on lust, fornication and haste, the red flags in a man and in a woman, the counsel God has put in place, and the house built on sand. Prove all things, take counsel before every action, and do not let love blind wisdom.
 
-## In The News
-
-- *[[7:17](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=437s)]* **The dictionary definition and synonyms of a fool: idiot, simpleton, dolt, blockhead, buffoon** — A person who lacks good sense and judgment, and in the Bible one who despises God's wisdom and instruction.
-- *[[23:00](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=1380s)]* **A run of IUIC wedding videos** — A righteous Israelite wedding is a good thing and we thank the Most High for those who did it right, but do not let the beauty of it cloud your judgment or hide the post-sex after-parties.
-- *[[26:28](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=1588s)]* **The slideshow of eight stages commonly mistaken for love** — Infatuation, lust, emotional dependency, the honeymoon phase, projection, comfort and routine, possession and control, and trauma bonding: none of them is love, and most of our relationships in the world never got past stage two.
-- *[[1:16:46](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=4606s)]* **Deacon Malachi: the worst thing a man in this truth can do is marry the wrong woman, because it will destroy his spirit and there is no divorce between believers** — Take your time and ask questions; once married you have to work it out, and good luck working it out with a half-believing spouse who fears neither God nor instruction.
-- *[[2:01:24](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7284s)]* **Deacon Yashua on proving: you are not the husband yet, so if you are constantly moulding the lump of clay you are doing too much; proving is sampling the soil** — Everything you found out got you to the altar; what you say I do to is what you do not know, so prove that much harder.
-- *[[2:03:45](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7425s)]* **Psychology Today's percentages for why marriages fail in America, from household labour to lack of commitment at seventy-five per cent** — Marrying too young, conflict, infidelity and a commitment that is optional end most marriages here, and a bad marriage usually carries several of them at once.
-- *[[2:08:27](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7707s)]* **Eleven signs she is a liability, not an asset** — Attention seeking, no accountability, disrespect when upset, materialism, no boundaries, jealousy, insecurity, control, airing the relationship publicly, selfishness; and it goes both ways, because you inherit all of your spouse's problems.
-- *[[2:15:56](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=8156s)]* **A clip on the behavioural markers that predict divorce: eye-rolling contempt, and the ratio of positive to negative interactions between five to one and eleven to one** — You want a spouse who supports you and also slaps you down when you are being stupid; think honestly about the ratio in your own house.
-- *[[2:21:13](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=8473s)]* **The biggest mistake before marriage is ignoring red flags because of emotions; love should not blind wisdom and excitement should not silence truth** — If something feels wrong now it will not magically fix itself after marriage. Choose wisely.
-
 ## Scriptures Opened
 
 **[Sirach 36:1-17](/bible/sirach/36#v1)**  *[[1:45](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=105s)]*
@@ -71,6 +59,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 - The opening prayer: gather all the tribes of Jacob together and let thy prophets be found faithful.
 
+
+*[[7:17](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=437s)]* **In The News: The dictionary definition and synonyms of a fool: idiot, simpleton, dolt, blockhead, buffoon** — A person who lacks good sense and judgment, and in the Bible one who despises God's wisdom and instruction.
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[10:06](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=606s)]*
 
@@ -122,6 +112,10 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 - Sisters, this man will be your head and your lord with more power than your daddy had, so vet him; and do not confuse the stages of attraction for love because you met her last week.
 
+
+*[[23:00](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=1380s)]* **In The News: A run of IUIC wedding videos** — A righteous Israelite wedding is a good thing and we thank the Most High for those who did it right, but do not let the beauty of it cloud your judgment or hide the post-sex after-parties.
+
+*[[26:28](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=1588s)]* **In The News: The slideshow of eight stages commonly mistaken for love** — Infatuation, lust, emotional dependency, the honeymoon phase, projection, comfort and routine, possession and control, and trauma bonding: none of them is love, and most of our relationships in the world never got past stage two.
 
 **[Proverbs 14:8](/bible/proverbs/14#v8)**  *[[37:02](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=2222s)]*
 
@@ -207,6 +201,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 - Lust not after her beauty in thine heart: beauty makes men overlook every flaw they could have waited and corrected before marriage. Boundaries, communication and expectations have to be established going in, or you wing it and get chaos, a house where every day is war and neither of you wants to come inside.
 
+
+*[[1:16:46](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=4606s)]* **In The News: Deacon Malachi: the worst thing a man in this truth can do is marry the wrong woman, because it will destroy his spirit and there is no divorce between believers** — Take your time and ask questions; once married you have to work it out, and good luck working it out with a half-believing spouse who fears neither God nor instruction.
 
 **[Exodus 22:16-17](/bible/exodus/22#v16)**  *[[1:20:15](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=4815s)]*
 
@@ -351,6 +347,12 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 - He that hateth reproof is brutish: ask leadership how he handles correction, because a man who will not take correction from the men over him has a problem with God and the order God set up, and then who are you.
 
 
+*[[2:01:24](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7284s)]* **In The News: Deacon Yashua on proving: you are not the husband yet, so if you are constantly moulding the lump of clay you are doing too much; proving is sampling the soil** — Everything you found out got you to the altar; what you say I do to is what you do not know, so prove that much harder.
+
+*[[2:03:45](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7425s)]* **In The News: Psychology Today's percentages for why marriages fail in America, from household labour to lack of commitment at seventy-five per cent** — Marrying too young, conflict, infidelity and a commitment that is optional end most marriages here, and a bad marriage usually carries several of them at once.
+
+*[[2:08:27](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7707s)]* **In The News: Eleven signs she is a liability, not an asset** — Attention seeking, no accountability, disrespect when upset, materialism, no boundaries, jealousy, insecurity, control, airing the relationship publicly, selfishness; and it goes both ways, because you inherit all of your spouse's problems.
+
 **[Ephesians 5:21-23](/bible/ephesians/5#v21)**  *[[2:09:09](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7749s)]*
 
 > <sup>[21](/bible/ephesians/5#v21)</sup> Submitting yourselves one to another in the fear of God.
@@ -371,6 +373,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 - Better a corner of the housetop than a house with a brawling woman: while proving, watch how she deals with the body, with correction from a brother in an office, with leadership and the senior sisters, who her circle is, and whether she is comfortable challenging you over everything. Living with that, you will be on the roof with a beer.
 
 
+*[[2:15:56](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=8156s)]* **In The News: A clip on the behavioural markers that predict divorce: eye-rolling contempt, and the ratio of positive to negative interactions between five to one and eleven to one** — You want a spouse who supports you and also slaps you down when you are being stupid; think honestly about the ratio in your own house.
+
 **[Matthew 7:26-27](/bible/matthew/7#v26)**  *[[2:18:44](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=8324s)]*
 
 > <sup>[26](/bible/matthew/7#v26)</sup> And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
@@ -381,6 +385,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 - The rain, the floods and the winds are the problems and tribulations; anything not founded on Christ falls, and great is the fall of it.
 
+
+*[[2:21:13](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=8473s)]* **In The News: The biggest mistake before marriage is ignoring red flags because of emotions; love should not blind wisdom and excitement should not silence truth** — If something feels wrong now it will not magically fix itself after marriage. Choose wisely.
 
 **[Sirach 25:4-6](/bible/sirach/25#v4)**  *[[2:21:40](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=8500s)]*
 

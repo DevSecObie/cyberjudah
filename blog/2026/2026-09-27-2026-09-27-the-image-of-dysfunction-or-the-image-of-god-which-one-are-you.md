@@ -19,18 +19,46 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
 
 *[[11:04](https://www.youtube.com/watch?v=lTjnCZsWsng&t=664s)]* A Sabbath class from Bishop Yawasap on the eve of the new moon: The Image of Dysfunction or the Image of God, which one are you? It opens by anchoring everything in the book of the Lord, the everlasting kingdom of Daniel 7, and Romans 9 on God raising up Esau to be destroyed, then reads 2 Esdras 7 on the narrow entrance to the kingdom and Judges 3 on the nations left to teach Israel war. The heart of the class works through Captain Gedaliah's book When Trauma Speaks: were you created or conditioned? You were made in the image of God, known before the womb, and the composite of slavery, trauma, and self-doubt is not the real you. The Bishop traces the conditioning to the enemy's secret councils, the seasoning of slaves, the fourth-grade failure syndrome, frolic as a betraying comfort, and painkillers that never treat the cause, and closes with where to start: shut down the wicked holidays as a nation and keep God's feast days.
 
-## In The News
-
-- *[[19:30](https://www.youtube.com/watch?v=lTjnCZsWsng&t=1170s)]* **An image of the Ancient of Days with hair like pure wool.** — If God sat, had a garment, and had hair like wool, he has a body, and it is not the Caucasian painted in the churches. Black people. How you like me now?
-- *[[45:51](https://www.youtube.com/watch?v=lTjnCZsWsng&t=2751s)]* **The class trailer: Hosea warned that Israel would abide many days without an image; stripped of identity, now accepting a counterfeit; fornication or marriage, drunkenness or sobriety, mercy or murder, coons or kings, one man or the army of God; the image of dysfunction or the image of God.** — Shout out to the media team. That is the question for every one of us, as individuals and as a nation.
-- *[[1:15:47](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4547s)]* **A picture of a man holding a sign in front of his face.** — The conditioned self is the sign we show the world; the real soul is hidden behind it and scared. When the Bishop talks to our people he is usually talking to the mask, the representative, not the real them. The real you has not surfaced yet and must be encouraged to come forward.
-- *[[2:11:20](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7880s)]* **A commentator: keep him in destructive mode, do not let him think about anything serious, because then he becomes a danger; produce an image of comfort, which is false.** — That is exactly why we are pushed toward sports, entertainment, and dancing. Frolic means to play about in a carefree way. The white mother buys her son a model plane to build over days; the black family buys it assembled, from the book Black Men by Haki Madhubuti. One family raises rulers, the other raises consumers.
-- *[[2:22:45](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8565s)]* **A viral video of a man dancing on a table for white executives, trying to get a record deal.** — On the slave ships they made us dance so we looked healthy at market and so we looked happy. If we look happy they can present us as well treated. That is a betraying comfort, and it teaches a young son that this is what to aspire to.
-- *[[2:27:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8866s)]* **An old clip of the Bishop in a New York YouTube studio with Officer Jonah, from the series The Truth Shall Make You Free, titled Painkillers: Christianity, like a painkiller, kills the pain for a moment but never treats the cause, so the homes stay broken and the men keep going to jail.** — Drugs, alcohol, sitcoms, cell phones, and social media are painkillers too, a kaleidoscope of foolishness that never asks who we really are. You have to go to the source of the pain and the real image of yourself to fix it; the church just gets high on the drums and the Hammond organ.
-- *[[2:31:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=9106s)]* **An Israeli government official on American soil naming black Americans as the problem.** — The secret councils are not jive. They were literally talking about us, and they know the prophecy.
-- *[[2:33:23](https://www.youtube.com/watch?v=lTjnCZsWsng&t=9203s)]* **A documentary from Tacoma, Washington: Kimani Carter, sentenced at eighteen to life for a 1997 gang drive-by that killed Corey Pittman, an innocent college student, describes his first mission as a kid, the adrenaline, being scared but not scared because backing out makes you a punk, and the man who would rather be an important tyrant than an average citizen.** — This is by design: kids with no father and no hope, cut off from everything, driven into crime and locked away. Only in prison did he understand that a life taken can never be replaced.
-
 ## Scriptures Opened
+
+**[Psalms 91:1-16](/bible/psalms/91#v1)**  *[[4:30](https://www.youtube.com/watch?v=lTjnCZsWsng&t=270s)]*
+
+> <sup>[1](/bible/psalms/91#v1)</sup> He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
+>
+> <sup>[2](/bible/psalms/91#v2)</sup> I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
+>
+> <sup>[3](/bible/psalms/91#v3)</sup> Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
+>
+> <sup>[4](/bible/psalms/91#v4)</sup> He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
+>
+> <sup>[5](/bible/psalms/91#v5)</sup> Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
+>
+> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
+>
+> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
+>
+> <sup>[8](/bible/psalms/91#v8)</sup> Only with thine eyes shalt thou behold and see the reward of the wicked.
+>
+> <sup>[9](/bible/psalms/91#v9)</sup> Because thou hast made the Lord, which is my refuge, even the most High, thy habitation;
+>
+> <sup>[10](/bible/psalms/91#v10)</sup> There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
+>
+> <sup>[11](/bible/psalms/91#v11)</sup> For he shall give his angels charge over thee, to keep thee in all thy ways.
+>
+> <sup>[12](/bible/psalms/91#v12)</sup> They shall bear thee up in their hands, lest thou dash thy foot against a stone.
+>
+> <sup>[13](/bible/psalms/91#v13)</sup> Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.
+>
+> <sup>[14](/bible/psalms/91#v14)</sup> Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.
+>
+> <sup>[15](/bible/psalms/91#v15)</sup> He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.
+>
+> <sup>[16](/bible/psalms/91#v16)</sup> With long life will I satisfy him, and shew him my salvation.
+
+- The opening prayer: he that dwelleth in the secret place of the Most High shall abide under the shadow of the Almighty. Thou shalt not be afraid for the terror by night nor the arrow that flieth by day; a thousand shall fall at thy side and ten thousand at thy right hand, but it shall not come nigh thee; only with thine eyes shalt thou behold and see the reward of the wicked.
+
+- Prayers went up for Officer Jair's household and his wife with seed, for our people in Hawaii facing the hurricane, for leadership travelling into danger, and for the brothers and sisters on the fence to find repentance.
+
 
 **[Isaiah 34:16-17](/bible/isaiah/34#v16)**  *[[12:03](https://www.youtube.com/watch?v=lTjnCZsWsng&t=723s)]*
 
@@ -128,6 +156,8 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
     For this same purpose have I raised thee up, that I might shew my power in thee. As with Pharaoh, so with Esau: God fattens him up with weapons, technology, and pride like a turkey before the holiday, hardens him so he cannot resist, and destroys him so his name is declared through all the earth. Who hath resisted his will? Pharaoh wanted to let Israel go and the Lord hardened his heart. Nay but, O man, who art thou that repliest against God? Esau was formed as the fitting vessel for God's destruction; one vessel is for wine and one for the bowels. You had better be glad you are the Israelites, because after slavery, Jim Crow, and lynchings, dying with the same man who did it is crazy.
 
 
+*[[19:30](https://www.youtube.com/watch?v=lTjnCZsWsng&t=1170s)]* **In The News: An image of the Ancient of Days with hair like pure wool.** — If God sat, had a garment, and had hair like wool, he has a body, and it is not the Caucasian painted in the churches. Black people. How you like me now?
+
 **[Isaiah 54:16-17](/bible/isaiah/54#v16)**  *[[38:07](https://www.youtube.com/watch?v=lTjnCZsWsng&t=2287s)]*
 
 > <sup>[16](/bible/isaiah/54#v16)</sup> Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
@@ -142,6 +172,8 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
 
 - Shout out to Captain Joel's Art of War class, Deacon Eythan obliterating the Trinity again, and Deacon Malachiyah's Restoring the Broken Minds of the Daughters of Zion. Sisters sending hate mail against the prophets: judgments come quickly on people who open their mouths against the prophets of the Lord.
 
+
+*[[45:51](https://www.youtube.com/watch?v=lTjnCZsWsng&t=2751s)]* **In The News: The class trailer: Hosea warned that Israel would abide many days without an image; stripped of identity, now accepting a counterfeit; fornication or marriage, drunkenness or sobriety, mercy or murder, coons or kings, one man or the army of God; the image of dysfunction or the image of God.** — Shout out to the media team. That is the question for every one of us, as individuals and as a nation.
 
 **[2 Esdras 7:6-14](/bible/2-esdras/7#v6)**  *[[52:47](https://www.youtube.com/watch?v=lTjnCZsWsng&t=3167s)]*
 
@@ -327,6 +359,8 @@ Reading from *When Trauma Speaks* by Captain Gedaliah, chapter 10, "Created vers
 - We are made in the image of God. That's what that part is telling you. We were made connected to the nature and intent of the power, the Most High, who formed us.
 
 </div>
+
+*[[1:15:47](https://www.youtube.com/watch?v=lTjnCZsWsng&t=4547s)]* **In The News: A picture of a man holding a sign in front of his face.** — The conditioned self is the sign we show the world; the real soul is hidden behind it and scared. When the Bishop talks to our people he is usually talking to the mask, the representative, not the real them. The real you has not surfaced yet and must be encouraged to come forward.
 
 **[Jeremiah 1:4-5](/bible/jeremiah/1#v4)**  *[[1:27:29](https://www.youtube.com/watch?v=lTjnCZsWsng&t=5249s)]*
 
@@ -629,44 +663,15 @@ Reading from *Lest We Forget: The Passage from Africa to Slavery and Emancipatio
 
 </div>
 
-**[Psalms 91:1-16](/bible/psalms/91#v1)**  *[[4:30](https://www.youtube.com/watch?v=lTjnCZsWsng&t=270s)]*
+*[[2:11:20](https://www.youtube.com/watch?v=lTjnCZsWsng&t=7880s)]* **In The News: A commentator: keep him in destructive mode, do not let him think about anything serious, because then he becomes a danger; produce an image of comfort, which is false.** — That is exactly why we are pushed toward sports, entertainment, and dancing. Frolic means to play about in a carefree way. The white mother buys her son a model plane to build over days; the black family buys it assembled, from the book Black Men by Haki Madhubuti. One family raises rulers, the other raises consumers.
 
-> <sup>[1](/bible/psalms/91#v1)</sup> He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
->
-> <sup>[2](/bible/psalms/91#v2)</sup> I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
->
-> <sup>[3](/bible/psalms/91#v3)</sup> Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
->
-> <sup>[4](/bible/psalms/91#v4)</sup> He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.
->
-> <sup>[5](/bible/psalms/91#v5)</sup> Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;
->
-> <sup>[6](/bible/psalms/91#v6)</sup> Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
->
-> <sup>[7](/bible/psalms/91#v7)</sup> A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
->
-> <sup>[8](/bible/psalms/91#v8)</sup> Only with thine eyes shalt thou behold and see the reward of the wicked.
->
-> <sup>[9](/bible/psalms/91#v9)</sup> Because thou hast made the Lord, which is my refuge, even the most High, thy habitation;
->
-> <sup>[10](/bible/psalms/91#v10)</sup> There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
->
-> <sup>[11](/bible/psalms/91#v11)</sup> For he shall give his angels charge over thee, to keep thee in all thy ways.
->
-> <sup>[12](/bible/psalms/91#v12)</sup> They shall bear thee up in their hands, lest thou dash thy foot against a stone.
->
-> <sup>[13](/bible/psalms/91#v13)</sup> Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.
->
-> <sup>[14](/bible/psalms/91#v14)</sup> Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.
->
-> <sup>[15](/bible/psalms/91#v15)</sup> He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.
->
-> <sup>[16](/bible/psalms/91#v16)</sup> With long life will I satisfy him, and shew him my salvation.
+*[[2:22:45](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8565s)]* **In The News: A viral video of a man dancing on a table for white executives, trying to get a record deal.** — On the slave ships they made us dance so we looked healthy at market and so we looked happy. If we look happy they can present us as well treated. That is a betraying comfort, and it teaches a young son that this is what to aspire to.
 
-- The opening prayer: he that dwelleth in the secret place of the Most High shall abide under the shadow of the Almighty. Thou shalt not be afraid for the terror by night nor the arrow that flieth by day; a thousand shall fall at thy side and ten thousand at thy right hand, but it shall not come nigh thee; only with thine eyes shalt thou behold and see the reward of the wicked.
+*[[2:27:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=8866s)]* **In The News: An old clip of the Bishop in a New York YouTube studio with Officer Jonah, from the series The Truth Shall Make You Free, titled Painkillers: Christianity, like a painkiller, kills the pain for a moment but never treats the cause, so the homes stay broken and the men keep going to jail.** — Drugs, alcohol, sitcoms, cell phones, and social media are painkillers too, a kaleidoscope of foolishness that never asks who we really are. You have to go to the source of the pain and the real image of yourself to fix it; the church just gets high on the drums and the Hammond organ.
 
-- Prayers went up for Officer Jair's household and his wife with seed, for our people in Hawaii facing the hurricane, for leadership travelling into danger, and for the brothers and sisters on the fence to find repentance.
+*[[2:31:46](https://www.youtube.com/watch?v=lTjnCZsWsng&t=9106s)]* **In The News: An Israeli government official on American soil naming black Americans as the problem.** — The secret councils are not jive. They were literally talking about us, and they know the prophecy.
 
+*[[2:33:23](https://www.youtube.com/watch?v=lTjnCZsWsng&t=9203s)]* **In The News: A documentary from Tacoma, Washington: Kimani Carter, sentenced at eighteen to life for a 1997 gang drive-by that killed Corey Pittman, an innocent college student, describes his first mission as a kid, the adrenaline, being scared but not scared because backing out makes you a punk, and the man who would rather be an important tyrant than an average citizen.** — This is by design: kids with no father and no hope, cut off from everything, driven into crime and locked away. Only in prison did he understand that a life taken can never be replaced.
 
 ## Class Questions
 

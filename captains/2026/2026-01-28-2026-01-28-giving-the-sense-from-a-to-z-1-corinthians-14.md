@@ -20,14 +20,6 @@ tags: ["15 Minutes w/ The Captains", "deceit", "prophecy", "wisdom"]
 
 *[[2:00](https://www.youtube.com/watch?v=TesftQCyhag&t=120s)]* We're going over First Corinthians chapter 14 today. I don't have a reader last minute, but it is what it is. Lord's will next time life last. We're going to get through what we can today, and we'll pick up Lord will another time as well. For those that may not know, I'm Captain Zakai. It's been a minute since I've been on here, but Lord will and life last, I can be on here more often. So, let's get into it here. 1 Corinthians chapter 14. A lot of this goes over, just giving you a preliminary, what it's talking about, of Paul talking about tongues. It's not a coincidence, you know, the steps of everyone is ordered by the Lord. I just did a reel on this. It might be releasing sometime later this week on speaking in tongues. It's hilarious. I'mma show y'all a little bit of videos today.
 
-## In The News
-
-- *[[8:34](https://www.youtube.com/watch?v=TesftQCyhag&t=514s)]* **Clip of a church service speaking in tongues ("One more time. I couldn't hear you.")** — So that's not what it was talking about. This is not what they heard. That's what you just hear out of that is actually called glossolalia.
-- *[[18:55](https://www.youtube.com/watch?v=TesftQCyhag&t=1135s)]* **Clip of Bishop prophesying a civil war in this country from Isaiah 19:1 and Revelation 11:8** — That is prophecy. Bishop prophesied about civil war to come. He used Revelation 11 last Sabbath. He also went over Isaiah chapter 19. Deacon Malachiyah did it as well. And those prophecies are coming to pass.
-- *[[21:26](https://www.youtube.com/watch?v=TesftQCyhag&t=1286s)]* **Clip of an armed man confronting Black Lives Matter marchers** — That is Civil War coming to play. It's the baby steps of civil war coming in, that we see this is God moving chess pieces here, changing the spirit of the Egyptians like it says in the scriptures.
-- *[[23:11](https://www.youtube.com/watch?v=TesftQCyhag&t=1391s)]* **News clip of US Border Patrol agents shooting an armed suspect** — So we see what Bishop had prophesied about coming to pass. The baby steps of it happening.
-- *[[46:10](https://www.youtube.com/watch?v=TesftQCyhag&t=2770s)]* **The tongues clip played again** — Just so we can laugh once again at the crazy stuff that we used to do and thank God that he brought us out of that and that we are no longer deceived in those lies.
-
 ## Scriptures Opened
 
 **[1 Corinthians 14:1](/bible/1-corinthians/14#v1)**  *[[3:06](https://www.youtube.com/watch?v=TesftQCyhag&t=186s)]*
@@ -84,6 +76,8 @@ Reading from Definition of glossolalia, shown and read on air (source not named)
 
 </div>
 
+
+*[[8:34](https://www.youtube.com/watch?v=TesftQCyhag&t=514s)]* **In The News: Clip of a church service speaking in tongues ("One more time. I couldn't hear you.")** — So that's not what it was talking about. This is not what they heard. That's what you just hear out of that is actually called glossolalia.
 
 **[1 Corinthians 14:1-2](/bible/1-corinthians/14#v1)**  *[[12:20](https://www.youtube.com/watch?v=TesftQCyhag&t=740s)]*
 
@@ -151,6 +145,12 @@ Reading from Definition of prophecy and prophesy, shown and read on air (source 
 
 - So we see what Bishop had prophesied about coming to pass. The baby steps of it happening. That's what prophecy is, to take the prophecy from divine inspiration of the scriptures. What we see in churches is not prophecy. That is man speaking after his own heart. Those are people that were not sent by God, and even deceiving people, thinking that if you speak in gibberish, that that is revelation from God. That's not what was going on in Acts 2. That's not what Paul's talking about in 1 Corinthians chapter 14.
 
+
+*[[18:55](https://www.youtube.com/watch?v=TesftQCyhag&t=1135s)]* **In The News: Clip of Bishop prophesying a civil war in this country from Isaiah 19:1 and Revelation 11:8** — That is prophecy. Bishop prophesied about civil war to come. He used Revelation 11 last Sabbath. He also went over Isaiah chapter 19. Deacon Malachiyah did it as well. And those prophecies are coming to pass.
+
+*[[21:26](https://www.youtube.com/watch?v=TesftQCyhag&t=1286s)]* **In The News: Clip of an armed man confronting Black Lives Matter marchers** — That is Civil War coming to play. It's the baby steps of civil war coming in, that we see this is God moving chess pieces here, changing the spirit of the Egyptians like it says in the scriptures.
+
+*[[23:11](https://www.youtube.com/watch?v=TesftQCyhag&t=1391s)]* **In The News: News clip of US Border Patrol agents shooting an armed suspect** — So we see what Bishop had prophesied about coming to pass. The baby steps of it happening.
 
 **[1 Corinthians 14:3](/bible/1-corinthians/14#v3)**  *[[24:03](https://www.youtube.com/watch?v=TesftQCyhag&t=1443s)]*
 
@@ -255,6 +255,8 @@ Reading from Definition of prophecy and prophesy, shown and read on air (source 
 
 - For if the trumpet give an uncertain sound, who shall prepare himself to the battle: That's what the word is. The word is like a trumpet, to prepare you for battle, prepare you for war. That means there has to be understanding. Whenever you're speaking a language, you have to give understanding in it. You can't just wap bam boom. No, that's not tongues. That's not edifying anybody. That's not of God. That's glossolalia.
 
+
+*[[46:10](https://www.youtube.com/watch?v=TesftQCyhag&t=2770s)]* **In The News: The tongues clip played again** — Just so we can laugh once again at the crazy stuff that we used to do and thank God that he brought us out of that and that we are no longer deceived in those lies.
 
 **[1 Corinthians 14:9](/bible/1-corinthians/14#v9)**  *[[46:10](https://www.youtube.com/watch?v=TesftQCyhag&t=2770s)]*
 

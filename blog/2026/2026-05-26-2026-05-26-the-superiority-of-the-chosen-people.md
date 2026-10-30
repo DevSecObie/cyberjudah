@@ -19,20 +19,6 @@ tags: ["IUIC in the ClassRoom", "egypt", "wisdom"]
 
 *[[21:44](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=1304s)]* A marathon class in Philadelphia on the superiority of the chosen people, with Deacon Malachi at the side. Our low self-esteem is by design, because our history is hidden; the class reads it back: Abraham teaching Egypt arithmetic and astronomy and arming three hundred and eighteen trained servants, Jacob wrestling the angel to daybreak, Israel mightier than Egypt and dealt with wisely through taskmasters, midwives and the river; the same dealing today in vaccines, C-sections, hysterectomies and the 1969 plan to change the Bible; then the gods among us, Daniel ten times better, Bezaleel, Solomon, the Moors' almanac and algebra, Benjamin Banneker, Thomas Fuller, Toussaint, Henrietta Lacks, the Tuskegee airmen; and why the nations conspire to keep us from reproducing.
 
-## In The News
-
-- *[[46:53](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=2813s)]* **Photographs and engravings of the wild man of the caves and of a captive wild man in Switzerland** — Hair over the face like a garment, on all fours, naked, some of them cannibals: the wolf man of the stories is the Caucasian man in his natural habitat before the razor.
-- *[[59:37](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=3577s)]* **The scene from Malcolm X where the teacher tells the class president a lawyer is no realistic goal for a nigger** — Malcolm had the best grades in the class; he was told to be a carpenter because Jesus was a carpenter, and that is how the inferiority is ingrained, more openly then than now.
-- *[[1:18:27](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=4707s)]* **A black man on video saying black people are godless, hopeless, broke, build nothing and own nothing** — That is the Oreo mind, white on the inside, that spiritual Egypt programs; and a lot of us think the same of ourselves.
-- *[[1:38:50](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=5930s)]* **How ancient Egypt tested pregnancy and the child's sex with urine on barley and wheat** — Barley first meant a boy; so the Egyptians knew the sex before birth, which is why the midwives were told to kill on the stools.
-- *[[2:59:13](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10753s)]* **La Operacion: the sterilization of Puerto Rican women from 1930** — By 1970 almost forty percent of childbearing women in Puerto Rico were sterilized for industrialists who wanted workers with no families; deal wisely with them.
-- *[[4:09:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14969s)]* **Africans diving for pearls in the Persian Gulf: Zanzibar under the Sultan of Oman, thirty to fifty thousand a year through its market, the dhow, the diver with a stone on his ankle, forty to fifty dives a day** — Dominion over our bodies on the east side of Africa, and the Zanj rebellion of 869 was one of the largest slave revolts in history; the Arab trade never stopped.
-- *[[4:18:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=15509s)]* **African slaves pearl diving off Venezuela and Colombia for the Spanish from the 1500s** — The white man did on the west side what the Arab did on the east.
-- *[[5:11:35](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18695s)]* **A speaker on eugenics born in America to eliminate the tribe of Judah in the African-American community** — When we say Judah is the African-Americans, we know exactly what we are talking about; it is David's seed they are trying to get rid of.
-- *[[5:46:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20775s)]* **Peter Nygard at dinner with black women, describing the stem cell technology he invests in** — Take the egg of a young perfect woman specimen, remove the nucleus and put our DNA in it; black women from Africa have a monopoly on this genetic perfection and we want some of that, for a hundred dollars, then sixty thousand for eggs, placenta, umbilical cord and period blood; that is why they push interracial marriage and target sisters alone.
-- *[[6:00:04](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=21604s)]* **Two biracial daughters on video: stop reproducing with white people; a white mother calling her biracial son a stupid nigger** — When you mix your seed with the nations the children grow up confused and hated by one side; all that girl can do is marry her own and weed it out.
-- *[[6:28:59](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=23339s)]* **The scene from Glass: there just can't be gods amongst us, it's not fair** — The secret order keeps the order by convincing the gods they are ordinary; that is the whole purpose of the council.
-
 ## Scriptures Opened
 
 **[Genesis 12:9-20](/bible/genesis/12#v9)**  *[[26:47](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=1607s)]*
@@ -171,6 +157,8 @@ Reading from Josephus, on Abraham in Egypt  *[[31:11](https://www.youtube.com/wa
 - This is the origin of the so-called white man in his purest form; the hair was a covering for a man born without melanin, the albino's short life in the sun, and that is a genetic defect Jacob did not have.
 
 
+*[[46:53](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=2813s)]* **In The News: Photographs and engravings of the wild man of the caves and of a captive wild man in Switzerland** — Hair over the face like a garment, on all fours, naked, some of them cannibals: the wolf man of the stories is the Caucasian man in his natural habitat before the razor.
+
 **[Genesis 32:24-30](/bible/genesis/32#v24)**  *[[50:16](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=3016s)]*
 
 > <sup>[24](/bible/genesis/32#v24)</sup> And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
@@ -201,6 +189,8 @@ Reading from Josephus, on Abraham in Egypt  *[[31:11](https://www.youtube.com/wa
 
     He took his brother by the heel in the womb and by his strength he had power with God, yea, he had power over the angel and prevailed; his name was changed because of his strength.
 
+
+*[[59:37](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=3577s)]* **In The News: The scene from Malcolm X where the teacher tells the class president a lawyer is no realistic goal for a nigger** — Malcolm had the best grades in the class; he was told to be a carpenter because Jesus was a carpenter, and that is how the inferiority is ingrained, more openly then than now.
 
 **[Exodus 1:8-14](/bible/exodus/1#v8)**  *[[1:01:52](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=3712s)]*
 
@@ -240,6 +230,8 @@ Reading from Josephus, on Abraham in Egypt  *[[31:11](https://www.youtube.com/wa
 
     Every shepherd is an abomination unto the Egyptians, so Israel was placed apart in Goshen: segregation and redlining, and no Egyptian blood among us in Goshen.
 
+
+*[[1:18:27](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=4707s)]* **In The News: A black man on video saying black people are godless, hopeless, broke, build nothing and own nothing** — That is the Oreo mind, white on the inside, that spiritual Egypt programs; and a lot of us think the same of ourselves.
 
 **[Exodus 1:15-22](/bible/exodus/1#v15)**  *[[1:20:53](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=4853s)]*
 
@@ -467,6 +459,8 @@ Reading from *The New Order of Barbarians*  *[[2:06:01](https://www.youtube.com/
 - Daniel chapter 7 verse 25.
 
 </div>
+
+*[[1:38:50](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=5930s)]* **In The News: How ancient Egypt tested pregnancy and the child's sex with urine on barley and wheat** — Barley first meant a boy; so the Egyptians knew the sex before birth, which is why the midwives were told to kill on the stools.
 
 **[Daniel 7:25](/bible/daniel/7#v25)**  *[[2:07:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=7635s)]*
 
@@ -743,6 +737,8 @@ Reading from *The Guardian*  *[[3:00:41](https://www.youtube.com/watch?v=xHfm0T2
 
 </div>
 
+*[[2:59:13](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10753s)]* **In The News: La Operacion: the sterilization of Puerto Rican women from 1930** — By 1970 almost forty percent of childbearing women in Puerto Rico were sterilized for industrialists who wanted workers with no families; deal wisely with them.
+
 **[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[3:01:42](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=10902s)]*
 
 > <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
@@ -977,6 +973,10 @@ Reading from the article on Benjamin Banneker, continued  *[[4:31:20](https://ww
 - Remember Benjamin Banneker was very, very knowledgeable in astronomy and mathematics. Most of the elite officials of the US capital were masons. They were heavily rooted, knowledgeable of mathematics and astrology and astronomy. So they utilized Benjamin Banneker's genius to engineer how to build the US capital in the most satanic fashion possible, with the triangle. Whether he knew it or not, I don't know. But what I do know is that these men made sure to use one of our people to help engineer this satanic symbolism here to build their capital. Cuz they used our mind to build their evil here. This big old pentagram right here. But I cannot deny the genius of Benjamin Banneker.
 
 </div>
+
+*[[4:09:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=14969s)]* **In The News: Africans diving for pearls in the Persian Gulf: Zanzibar under the Sultan of Oman, thirty to fifty thousand a year through its market, the dhow, the diver with a stone on his ankle, forty to fifty dives a day** — Dominion over our bodies on the east side of Africa, and the Zanj rebellion of 869 was one of the largest slave revolts in history; the Arab trade never stopped.
+
+*[[4:18:29](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=15509s)]* **In The News: African slaves pearl diving off Venezuela and Colombia for the Spanish from the 1500s** — The white man did on the west side what the Arab did on the east.
 
 **[Daniel 1:3-6](/bible/daniel/1#v3)**  *[[4:36:47](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=16607s)]*
 
@@ -1256,6 +1256,8 @@ Reading from the 1969 hearings of the Subcommittee on Constitutional Rights, on 
 - Telling you superiority. They know that Judah is the essential worker of liberation for the black people globally. That's why they said, we got to destroy Judah among the African-American community. We're going to use education. We're going to revise those Bibles. Contraceptions, autism. We're going to use all we can to destroy these Negroes.
 
 </div>
+
+*[[5:11:35](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18695s)]* **In The News: A speaker on eugenics born in America to eliminate the tribe of Judah in the African-American community** — When we say Judah is the African-Americans, we know exactly what we are talking about; it is David's seed they are trying to get rid of.
 
 **[Genesis 49:8-12](/bible/genesis/49#v8)**  *[[5:16:03](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=18963s)]*
 
@@ -1632,6 +1634,8 @@ Reading from Wikipedia, on Henrietta Lacks  *[[5:40:28](https://www.youtube.com/
 - God shall shoot at them with an arrow; they shall make their own tongue to fall upon themselves, which is the whistleblower.
 
 
+*[[5:46:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=20775s)]* **In The News: Peter Nygard at dinner with black women, describing the stem cell technology he invests in** — Take the egg of a young perfect woman specimen, remove the nucleus and put our DNA in it; black women from Africa have a monopoly on this genetic perfection and we want some of that, for a hundred dollars, then sixty thousand for eggs, placenta, umbilical cord and period blood; that is why they push interracial marriage and target sisters alone.
+
 **[Malachi 2:14-15](/bible/malachi/2#v14)**  *[[5:56:09](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=21369s)]*
 
 > <sup>[14](/bible/malachi/2#v14)</sup> Yet ye say, Wherefore? Because the Lord hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant.
@@ -1654,6 +1658,8 @@ Reading from Wikipedia, on Henrietta Lacks  *[[5:40:28](https://www.youtube.com/
 
     Give not thy strength to strangers; when thou hast gotten a fruitful possession through all the field, sow it with thine own seed, trusting in the goodness of thy stock, so shall thy race which thou leavest be magnified, having the confidence of their good descent; Israel has every color and feature, so there is no reason to step out.
 
+
+*[[6:00:04](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=21604s)]* **In The News: Two biracial daughters on video: stop reproducing with white people; a white mother calling her biracial son a stupid nigger** — When you mix your seed with the nations the children grow up confused and hated by one side; all that girl can do is marry her own and weed it out.
 
 **[Genesis 2:7](/bible/genesis/2#v7)**  *[[6:04:15](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=21855s)]*
 
@@ -1906,6 +1912,8 @@ Reading from a write-up on drugs in black communities  *[[6:26:16](https://www.y
 - So they're doing the same thing to us all over again, especially here in Philadelphia.
 
 </div>
+
+*[[6:28:59](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=23339s)]* **In The News: The scene from Glass: there just can't be gods amongst us, it's not fair** — The secret order keeps the order by convincing the gods they are ordinary; that is the whole purpose of the council.
 
 **[Isaiah 29:14-16](/bible/isaiah/29#v14)**  *[[6:31:21](https://www.youtube.com/watch?v=xHfm0T2bm8w&t=23481s)]*
 

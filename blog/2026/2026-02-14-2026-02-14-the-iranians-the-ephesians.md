@@ -19,22 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "med
 
 *[[6:18](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=378s)]* Captain Mattathias of IUIC Tallahassee ties the anniversary of the Iranian Revolution to prophecy and to the northern kingdom. Iranians burning statues of Baal draped in American and Israeli flags opens a study of Media, Persia, and the Medes stirred up against Babylon; of Baal, Ashtoreth, and the stubbornness the Bible calls idolatry; and of how the ten tribes carried that same Baal worship into Africa and the Americas, where Paul's letter to the Ephesians speaks directly to them.
 
-## In The News
-
-- *[[8:06](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=486s)]* **Iranian crowds burn a statue of Baal with the American and Israeli flags mounted in front of it, commemorating the February 11, 1979 revolution.** — Baal is the devil. Contrary to Western news, the Iranians know who the devil is on the earth and who his people are, which is why they call America the Great Satan and Israel the Little Satan.
-- *[[13:13](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=793s)]* **Rallies marking 47 years since the Islamic Revolution, weeks after the regime killed thousands of protesters; the president apologizes for government failings and blames America and Europe for inciting the unrest.** — The riots came from economic turmoil the United States caused. Trump threatened to come over if Iran did not get it under control, when America was the one that destabilized it.
-- *[[17:19](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1039s)]* **A short on Operation Ajax: the 1953 CIA and MI6 coup that overthrew Prime Minister Mossadegh after he nationalized the Anglo-Persian Oil Company, reinstated the Shah, and handed 40 percent of Iran's oil to US companies.** — Nothing has changed: Trump just took the president of Venezuela and the oil.
-- *[[23:52](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1432s)]* **A trailer for the film Argo, the fake sci-fi movie the CIA used to smuggle six Americans out as Canadian filmmakers.** — Esau is crafty.
-- *[[26:51](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1611s)]* **A giant poster in Revolution Square, Tehran, warning the Trump administration: if you sow the wind, you will reap the whirlwind.** — Isaiah 21 opens with whirlwinds in the south passing through and calls on Media to besiege. The Iranians are speaking the Bible's own words because God made them say it.
-- *[[35:26](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2126s)]* **2018 report on Trump withdrawing from the nuclear deal and imposing the highest level of sanctions: no US dollars, gold, steel, oil, shipping or banking; and a report from weeks ago of new Treasury sanctions on a shadow banking network.** — Seven or eight years of sanctions caused the uprising. America is not stopping, and Iran has a legitimate reason to be angry. That is why no silver or gold will buy them off.
-- *[[59:14](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3554s)]* **Iranians burn bull-headed statues bearing the Star of David.** — The hexagram is not the Star of David; it is the star of Remphan and Chiun, an occult sign. The man of sin is being revealed, and the nations recognize the synagogue of Satan.
-- *[[1:03:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3835s)]* **The 1933 Chicago World's Fair 'Romance of a People' Jewish Day celebration with a bull's-head statue set aflame, and the giant mechanical bull at the 2022 Birmingham Commonwealth Games.** — America and Israel are Baal worshippers in the open. The same bull imagery shows up in the Marvel character Rintrah.
-- *[[1:10:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4255s)]* **Thousands gather on a Rio beach six days ago to offer tributes to the Afro-Brazilian sea goddess Yemanja.** — Even in 2026 our people in the northern kingdom are still serving the devil, and then wonder why America starves out and destabilizes their countries.
-- *[[1:24:40](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5080s)]* **A lecturer announces a suppressed discovery: long before Columbus there were four major migrations of Blacks to the Americas, the latest 400 years before Columbus was born.** — Black nations coming to the Americas is documented history. The claim that the northern kingdom came over the Bering Strait is meant to discredit the fact that the Israelites are found, not lost.
-- *[[1:29:32](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5372s)]* **'Black and Latin America: The Whitening Campaign' on blanqueamiento, the state policies in Brazil, Cuba, the Dominican Republic, Argentina, Mexico and Puerto Rico to breed out the Black population, with Brazil predicting Black Brazilians would disappear by 2012.** — This is what Edom wanted to do to Ephraim. Hosea calls Ephraim a cake not turned, white on top and brown underneath. The Lord knows who they are regardless of skin tone.
-- *[[1:35:13](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5713s)]* **Cuba's jet-fuel crisis: Mexico cancels oil shipments under US pressure, Russia reduces supply, Trump threatens tariffs and a naval blockade, and Cuba is reported to have days of fuel left.** — The curses follow us to the islands because of the idolatry. Strangling a nation's fuel and bank accounts to force surrender is the mark-of-the-beast method, and it is coming here too.
-- *[[1:39:42](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5982s)]* **Trump on Truth Social: no more oil or money going to Cuba, zero; and an earlier clip calling Venezuela and Colombia 'sick neighbors' and pressing Mexico on the cartels.** — It is the same playbook used on Iran. The fourth beast has power over the whole compass of the earth with much wicked oppression.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -71,6 +55,12 @@ Reading from a wiki on the Iranian Revolution  *[[16:32](https://www.youtube.com
 
 </div>
 
+*[[8:06](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=486s)]* **In The News: Iranian crowds burn a statue of Baal with the American and Israeli flags mounted in front of it, commemorating the February 11, 1979 revolution.** — Baal is the devil. Contrary to Western news, the Iranians know who the devil is on the earth and who his people are, which is why they call America the Great Satan and Israel the Little Satan.
+
+*[[13:13](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=793s)]* **In The News: Rallies marking 47 years since the Islamic Revolution, weeks after the regime killed thousands of protesters; the president apologizes for government failings and blames America and Europe for inciting the unrest.** — The riots came from economic turmoil the United States caused. Trump threatened to come over if Iran did not get it under control, when America was the one that destabilized it.
+
+*[[17:19](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1039s)]* **In The News: A short on Operation Ajax: the 1953 CIA and MI6 coup that overthrew Prime Minister Mossadegh after he nationalized the Anglo-Persian Oil Company, reinstated the Shah, and handed 40 percent of Iran's oil to US companies.** — Nothing has changed: Trump just took the president of Venezuela and the oil.
+
 **[Daniel 11:39](/bible/daniel/11#v39)**  *[[20:49](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1249s)]*
 
 > <sup>[39](/bible/daniel/11#v39)</sup> Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.
@@ -103,6 +93,10 @@ Reading from an on-screen entry on the Algiers Accords  *[[26:05](https://www.yo
 - If I'm not mistaken, that's like the day Reagan took office, if I'm not mistaken. Somebody fact check me. I think that is correct, though. So yeah, we're going through some history.
 
 </div>
+
+*[[23:52](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1432s)]* **In The News: A trailer for the film Argo, the fake sci-fi movie the CIA used to smuggle six Americans out as Canadian filmmakers.** — Esau is crafty.
+
+*[[26:51](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1611s)]* **In The News: A giant poster in Revolution Square, Tehran, warning the Trump administration: if you sow the wind, you will reap the whirlwind.** — Isaiah 21 opens with whirlwinds in the south passing through and calls on Media to besiege. The Iranians are speaking the Bible's own words because God made them say it.
 
 **[Isaiah 21:1-2](/bible/isaiah/21#v1)**  *[[27:40](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=1660s)]*
 
@@ -159,6 +153,8 @@ Reading from a report on the death toll of the protests in Iran  *[[33:56](https
 - Do y'all see that? 33,000 plus people lost their lives. Who's really behind that? United States of America. They're the ones that's really behind that.
 
 </div>
+
+*[[35:26](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2126s)]* **In The News: 2018 report on Trump withdrawing from the nuclear deal and imposing the highest level of sanctions: no US dollars, gold, steel, oil, shipping or banking; and a report from weeks ago of new Treasury sanctions on a shadow banking network.** — Seven or eight years of sanctions caused the uprising. America is not stopping, and Iran has a legitimate reason to be angry. That is why no silver or gold will buy them off.
 
 **[Isaiah 13:17-19](/bible/isaiah/13#v17)**  *[[39:59](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=2399s)]*
 
@@ -383,6 +379,8 @@ Reading from a news video on the Houthis and the burning of Baal idols, read off
 
 </div>
 
+*[[59:14](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3554s)]* **In The News: Iranians burn bull-headed statues bearing the Star of David.** — The hexagram is not the Star of David; it is the star of Remphan and Chiun, an occult sign. The man of sin is being revealed, and the nations recognize the synagogue of Satan.
+
 **[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:00:08](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3608s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
@@ -443,6 +441,8 @@ Reading from an on-screen article, *The King of Demons*  *[[1:08:21](https://www
 
 </div>
 
+*[[1:03:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=3835s)]* **In The News: The 1933 Chicago World's Fair 'Romance of a People' Jewish Day celebration with a bull's-head statue set aflame, and the giant mechanical bull at the 2022 Birmingham Commonwealth Games.** — America and Israel are Baal worshippers in the open. The same bull imagery shows up in the Marvel character Rintrah.
+
 **[Judges 2:11-13](/bible/judges/2#v11)**  *[[1:08:43](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4123s)]*
 
 > <sup>[11](/bible/judges/2#v11)</sup> And the children of Israel did evil in the sight of the Lord, and served Baalim:
@@ -463,6 +463,8 @@ Reading from an on-screen article, *The King of Demons*  *[[1:08:21](https://www
 
     Thou shalt not let any of thy seed pass through the fire to Molech. Molech worship dealt with children and the womb, and we became bullheaded and did it anyway.
 
+
+*[[1:10:55](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4255s)]* **In The News: Thousands gather on a Rio beach six days ago to offer tributes to the Afro-Brazilian sea goddess Yemanja.** — Even in 2026 our people in the northern kingdom are still serving the devil, and then wonder why America starves out and destabilizes their countries.
 
 **[Sirach 3:26](/bible/sirach/3#v26)**  *[[1:12:25](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=4345s)]*
 
@@ -603,6 +605,8 @@ Reading from *The Lost Tribes, a Myth*, p. 30  *[[1:23:09](https://www.youtube.c
 </div>
 
 
+*[[1:24:40](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5080s)]* **In The News: A lecturer announces a suppressed discovery: long before Columbus there were four major migrations of Blacks to the Americas, the latest 400 years before Columbus was born.** — Black nations coming to the Americas is documented history. The claim that the northern kingdom came over the Bering Strait is meant to discredit the fact that the Israelites are found, not lost.
+
 **[1 Kings 9:26](/bible/1-kings/9#v26)**  *[[1:26:11](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5171s)]*
 
 > <sup>[26](/bible/1-kings/9#v26)</sup> And king Solomon made a navy of ships in Ezion–geber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.
@@ -624,6 +628,8 @@ Reading from *Lost Tribes and Promised Lands*, p. 364  *[[1:28:19](https://www.y
 </div>
 
 
+*[[1:29:32](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5372s)]* **In The News: 'Black and Latin America: The Whitening Campaign' on blanqueamiento, the state policies in Brazil, Cuba, the Dominican Republic, Argentina, Mexico and Puerto Rico to breed out the Black population, with Brazil predicting Black Brazilians would disappear by 2012.** — This is what Edom wanted to do to Ephraim. Hosea calls Ephraim a cake not turned, white on top and brown underneath. The Lord knows who they are regardless of skin tone.
+
 **[Hosea 7:8](/bible/hosea/7#v8)**  *[[1:33:40](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5620s)]*
 
 > <sup>[8](/bible/hosea/7#v8)</sup> Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.
@@ -638,6 +644,8 @@ Reading from *Lost Tribes and Promised Lands*, p. 364  *[[1:28:19](https://www.y
 
     Ephraim, as I saw Tyrus, is planted in a pleasant place, that island of Puerto Rico, but shall bring forth his children to the murderer; a miscarrying womb and dry breasts. Light or dark, the Lord knows exactly who the northern kingdom is and made sure the seed continued.
 
+
+*[[1:35:13](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5713s)]* **In The News: Cuba's jet-fuel crisis: Mexico cancels oil shipments under US pressure, Russia reduces supply, Trump threatens tariffs and a naval blockade, and Cuba is reported to have days of fuel left.** — The curses follow us to the islands because of the idolatry. Strangling a nation's fuel and bank accounts to force surrender is the mark-of-the-beast method, and it is coming here too.
 
 **[Isaiah 14:12](/bible/isaiah/14#v12)**  *[[1:39:04](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5944s)]*
 
@@ -673,6 +681,8 @@ Reading from an on-screen entry on Ephesus  *[[1:43:29](https://www.youtube.com/
 - So we about to read about Diana. We're about to read about good old wicked Diana.
 
 </div>
+
+*[[1:39:42](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=5982s)]* **In The News: Trump on Truth Social: no more oil or money going to Cuba, zero; and an earlier clip calling Venezuela and Colombia 'sick neighbors' and pressing Mexico on the cartels.** — It is the same playbook used on Iran. The fourth beast has power over the whole compass of the earth with much wicked oppression.
 
 **[Acts 19:18-24](/bible/acts/19#v18)**  *[[1:44:08](https://www.youtube.com/watch?v=0FPiXYsd-z8&t=6248s)]*
 

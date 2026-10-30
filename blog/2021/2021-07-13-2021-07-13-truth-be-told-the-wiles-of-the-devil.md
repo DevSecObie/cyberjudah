@@ -20,17 +20,6 @@ tags: ["IUIC in the ClassRoom", "satan"]
 
 *[[2:52](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=172s)]* Truth Be Told, broadcast live by IUIC DC every Tuesday, hosted by Officer Matthew with a captain as special guest and the officers, on the wiles of the devil: the same spirit as Alexander and Antiochus in 1 Maccabees, pushing his agenda on our children through the schools, the entertainment and the liberal politicians. The vile person shall be no more called liberal. Be in the very small remnant, not with the many on the wide road.
 
-## In The News
-
-- *[[10:16](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=616s)]* **An article: Asian-American history to be taught in Illinois public schools, the first state in the US to ensure students learn about Asian-American contributions** — It will make your children empathize with Moab, while they take your money in the corner stores, the nail shops and the beauty supply. They won't have the 1619 Project, but they'll put this in. Next they'll say they made the stoplight.
-- *[[15:03](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=903s)]* **A video of a choir singing to parents for Pride, that they will convert your children** — If you did this foolishness 30 years ago, you'd have got a just deserved beat down. A teacher told us on Clubhouse that the principal and most of the staff at her school push this thing subtly to our children.
-- *[[22:22](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=1342s)]* **An article: a London borough apologizes for a library event to encourage kids to read over the summer, where a performer wore an indecent monkey costume** — What has that got to do with reading? They're desensitizing the children. Esau's agenda is to turn this right back to Sodom and Gomorrah.
-- *[[41:20](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=2480s)]* **Juvenile's video remaking his old song to push the vaccine** — When you go back and look at some of the 90s, a lot of these brothers was cooning back then, and we didn't realize because we were younger. The white folks interviewing him could barely get their broadcast out for laughing.
-- *[[54:02](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=3242s)]* **A Florida mother tells the state board of education that critical race theory, teaching a child he is permanently oppressed because he is black, is racist** — She's coming from the Republican point of view, going the Jesse Lee Peterson route. She has a point: the Democrats want you to think you can't do for yourself, so you rely on them and never turn to your own people. But that's not for us either.
-- *[[1:02:42](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=3762s)]* **The Daily Wire: parents furious after Columbia Grammar and Preparatory School in Manhattan made students take an explicit workshop on pornography without their consent** — They're corrupting the minds of the children. It's called the power of suggestion: Esau covertly gives you these evil choices from childhood, until you say it's not that bad. Twenty years ago this wasn't here.
-- *[[1:09:17](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=4157s)]* **A video on ending the war on drugs and fully legalizing and regulating cocaine, ecstasy and heroin** — Brothers are still locked up from the 90s under Joe Biden's crime bill, and now Esau becomes millionaires off of weed. Everybody's going to be high.
-- *[[1:13:54](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=4434s)]* **AP News, February 1, 2021: Oregon is the first state to decriminalize possession of drugs; and Baltimore will no longer prosecute drug possession, prostitution or low-level crimes** — American Gangster and Kill the Messenger show you they brought the heroin and the crack in. After they destroyed our communities, now they want to make it legal, and you still vote Democrat.
-
 ## Scriptures Opened
 
 **[John 8:32](/bible/john/8#v32)**  *[[4:13](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=253s)]*
@@ -64,12 +53,16 @@ tags: ["IUIC in the ClassRoom", "satan"]
 - Baltimore, New York, DC: Democrats run them. When Joe Biden was made president you were crying in the street singing songs to Jim Crow Joe, and he ain't done a damn thing for you but give you a party in June.
 
 
+*[[10:16](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=616s)]* **In The News: An article: Asian-American history to be taught in Illinois public schools, the first state in the US to ensure students learn about Asian-American contributions** — It will make your children empathize with Moab, while they take your money in the corner stores, the nail shops and the beauty supply. They won't have the 1619 Project, but they'll put this in. Next they'll say they made the stoplight.
+
 **[1 Maccabees 1:9](/bible/1-maccabees/1#v9)**  *[[14:23](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=863s)]*
 
 > <sup>[9](/bible/1-maccabees/1#v9)</sup> And after his death they all put crowns upon themselves; so did their sons after them many years: and evils were multiplied in the earth.
 
 - After Alexander died his generals all put crowns upon themselves, so did their sons, and evils were multiplied in the earth. I grew up in the 80s, and the evils now are through the roof.
 
+
+*[[15:03](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=903s)]* **In The News: A video of a choir singing to parents for Pride, that they will convert your children** — If you did this foolishness 30 years ago, you'd have got a just deserved beat down. A teacher told us on Clubhouse that the principal and most of the staff at her school push this thing subtly to our children.
 
 **[Matthew 24:12](/bible/matthew/24#v12)**  *[[18:05](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=1085s)]*
 
@@ -79,6 +72,8 @@ tags: ["IUIC in the ClassRoom", "satan"]
 
 - When we were growing up the teachers didn't tell boys to go be with boys. Now they promote that flag all over the elementary schools to children who aren't even thinking about that. A masculine man has a target on his back.
 
+
+*[[22:22](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=1342s)]* **In The News: An article: a London borough apologizes for a library event to encourage kids to read over the summer, where a performer wore an indecent monkey costume** — What has that got to do with reading? They're desensitizing the children. Esau's agenda is to turn this right back to Sodom and Gomorrah.
 
 **[1 Maccabees 1:41](/bible/1-maccabees/1#v41)**  *[[26:48](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=1608s)]*
 
@@ -124,6 +119,8 @@ tags: ["IUIC in the ClassRoom", "satan"]
 
     The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
 
+
+*[[41:20](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=2480s)]* **In The News: Juvenile's video remaking his old song to push the vaccine** — When you go back and look at some of the 90s, a lot of these brothers was cooning back then, and we didn't realize because we were younger. The white folks interviewing him could barely get their broadcast out for laughing.
 
 **[Psalms 94:16](/bible/psalms/94#v16)**  *[[43:45](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=2625s)]*
 
@@ -171,6 +168,8 @@ tags: ["IUIC in the ClassRoom", "satan"]
     That they should also leave their children uncircumcised, and make their souls abominable with all manner of uncleanness and profanation.
 
 
+*[[54:02](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=3242s)]* **In The News: A Florida mother tells the state board of education that critical race theory, teaching a child he is permanently oppressed because he is black, is racist** — She's coming from the Republican point of view, going the Jesse Lee Peterson route. She has a point: the Democrats want you to think you can't do for yourself, so you rely on them and never turn to your own people. But that's not for us either.
+
 **[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[57:52](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=3472s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
@@ -198,6 +197,12 @@ tags: ["IUIC in the ClassRoom", "satan"]
 
 - They declare their sin as Sodom, they hide it not: you can't turn on one TV show, especially a black show, without it; they're making it normal worldwide. And if it ain't that, it's the white woman as the new superhero, and our women shown masculine, running things.
 
+
+*[[1:02:42](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=3762s)]* **In The News: The Daily Wire: parents furious after Columbia Grammar and Preparatory School in Manhattan made students take an explicit workshop on pornography without their consent** — They're corrupting the minds of the children. It's called the power of suggestion: Esau covertly gives you these evil choices from childhood, until you say it's not that bad. Twenty years ago this wasn't here.
+
+*[[1:09:17](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=4157s)]* **In The News: A video on ending the war on drugs and fully legalizing and regulating cocaine, ecstasy and heroin** — Brothers are still locked up from the 90s under Joe Biden's crime bill, and now Esau becomes millionaires off of weed. Everybody's going to be high.
+
+*[[1:13:54](https://www.youtube.com/watch?v=ZPl97GmWKMU&t=4434s)]* **In The News: AP News, February 1, 2021: Oregon is the first state to decriminalize possession of drugs; and Baltimore will no longer prosecute drug possession, prostitution or low-level crimes** — American Gangster and Kill the Messenger show you they brought the heroin and the crack in. After they destroyed our communities, now they want to make it legal, and you still vote Democrat.
 
 ---
 

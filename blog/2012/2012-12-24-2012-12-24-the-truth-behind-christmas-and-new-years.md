@@ -20,10 +20,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "christ", "passo
 
 *[[0:21](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=21s)]* Today's topic is the truth of Christmas and New Years. Black man, Latin man, black woman, Latin woman, the truth is that you are the biblical Israelites, and you've been given high holy days that you were commanded to keep by the one true God, the God of Abraham, Isaac and Jacob. Christmas is of the devil, Santa Claus is of the devil: rearrange the letters of Santa and it spells Satan.
 
-## In The News
-
-- *[[53:38](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3218s)]* **A clip of a slave being made to repeat 'thank you master, yes master, master please' and told never to look a white man in the eye** — During the time of slavery the so-called white man forced us to call him master, and slapped the hell out of you if you didn't, though he read the scripture that says call no man master.
-
 ## Scriptures Opened
 
 **[John 8:32](/bible/john/8#v32)**  *[[0:21](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=21s)]*
@@ -501,6 +497,8 @@ Reading from *The Two Babylons* by Alexander Hislop, p. 93 · read by Deacon Asa
 
 - What did the so-called white man do to us during the time of slavery? He forced us to call him master. You don't think he knew these scriptures? He read that, but he said call me master, and he slapped the hell out of you black men and black women if you didn't call him master.
 
+
+*[[53:38](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3218s)]* **In The News: A clip of a slave being made to repeat 'thank you master, yes master, master please' and told never to look a white man in the eye** — During the time of slavery the so-called white man forced us to call him master, and slapped the hell out of you if you didn't, though he read the scripture that says call no man master.
 
 **[Revelation 12:1-4](/bible/revelation/12#v1)**  *[[53:56](https://www.youtube.com/watch?v=-U_-sfA5QuA&t=3236s)]*
 

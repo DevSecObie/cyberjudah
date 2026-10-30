@@ -19,23 +19,6 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 
 *[[13:33](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=813s)]* Marriage beyond romance, from Eden to modern confusion. Deacon Yashua opens with a hot take on Iran and the signs: prophecy should move Israel to correction, not entertain it, and if the days are being shortened then marriage and household order cannot be treated casually. He then lays out how God instituted marriage as a covenant of order and responsibility, how the forefathers' marriages were built on mission rather than attraction, and how every romance-driven story in scripture documents its cost. Romance itself is a Roman word, and kneeling, rings, the white dress, the wedding industry, and the honeymoon are cultural additions. The class closes with the husband's provision, leadership, and integrity, and the wife's unconditional submission and reverence.
 
-## In The News
-
-- *[[19:22](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=1162s)]* **Donald Trump saying his own morality and his own mind are the only things that can stop him, and he does not need international law.** — Out of the beast's own mouth: no limits from Congress, no international law. Daniel 4:17 said the Most High sets up over the kingdom of men the basest of men.
-- *[[46:51](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=2811s)]* **The Wikipedia entry on romance, read on screen.** — Romance is passionate attraction, prioritizing feelings and intimacy over practical concerns, a relationship that may be premarital or absent a commitment, and an idealization that overrides all other considerations. Individualistic choice in marriage and sexual partners came from it. The word derives from the Latin Romanus, meaning Rome, and in the Middle Ages meant narrative verse about chivalry and love.
-- *[[58:47](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=3527s)]* **The entry on chivalry, with its picture of a kneeling knight.** — An informal code of conduct that developed in France between 1170 and 1220, tied to Christian knighthood. Keep that picture in mind for the origin of kneeling to propose.
-- *[[1:37:42](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=5862s)]* **A definition of aged together, put up by the tech team.** — The long-term intertwined journey of partners growing old side by side, shared history, mutual support through life's changes, accepting the natural aging process, and navigating challenges as a team. Aged means refined, like wine and cheese. Everything else gets established first or the romance is fleeting.
-- *[[1:41:47](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=6107s)]* **The definition of ravished: to fill with intense delight and rapture; delight, charm, enthrall, captivate, fascinate.** — There is your passion, after the foundation of the marriage is set correctly. You do not seek this first, like buying furniture and rugs before you know the walls of the house will hold.
-- *[[1:49:04](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=6544s)]* **The origin of kneeling to propose.** — It comes from medieval chivalry, feudalism, and religious tradition, where kneeling symbolized loyalty, submission, and respect to a higher authority. Knights knelt before lords and noble women, and it was adopted as a romantic gesture of servitude. No man should kneel to propose; the wife submits to the husband. The Bible shows men taking wives, not proposing on one knee.
-- *[[1:52:31](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=6751s)]* **The origin of engagement rings.** — A Roman custom: iron rings signified a binding contract between families and the transfer of the daughter to the man, a legal agreement, not romance. Romans believed a vein ran from the fourth finger to the heart. The first recorded diamond ring was Archduke Maximilian's in 1477, and the diamond only became universal after the De Beers campaign of 1947, A Diamond Is Forever, which added the two-months-salary expectation to sell diamonds through the Depression.
-- *[[1:57:22](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=7042s)]* **The origin of wedding rings.** — Egyptian, around 3000 BC, braided reeds and leather with the circle for eternity and the hole for a gateway to the unknown. Rome popularized metal rings, and the Catholic Church adopted the ring in the twelfth century, turning a pagan custom into a sacrament. The Bible never commands or describes wedding rings.
-- *[[2:06:41](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=7601s)]* **The origin of the honeymoon.** — Fifth-century European and Norse newlyweds drank mead, fermented honey, for one full moon cycle for fertility, a month spent drunk, with the implication that the intense first love would wane like the moon. The travel version began in nineteenth-century Britain as a bridal tour to relatives who missed the wedding. A mishmash of cultures.
-- *[[2:15:01](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=8101s)]* **A commentator on selecting a partner.** — You are choosing a whole lifestyle, not a person: their sleep schedule, money habits, stress, family drama, cleanliness, work ethic, and coping mechanisms. Love does not cancel flaws, it makes you tolerate them longer. Can you live with this person's version of Tuesday for the rest of your life? You do not fix somebody's lifestyle from the inside.
-- *[[2:17:09](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=8229s)]* **A commentator on when a man is safe to love.** — A man is safe when he can discipline his own emotions while still experiencing them, then understand other people's emotions and help them through. Otherwise he blows up his own feelings and attacks others for having theirs. Brothers who cannot handle correction blow up outwardly or go sensual and separate themselves; babies, not manly at all.
-- *[[2:28:19](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=8899s)]* **A woman teacher on a wife's conduct: soft, respectful, quiet, and learning to keep her mouth shut, citing 1 Peter 3:1.** — If you fear God you do what he says. Women hear one side and jump to the man's issues to deflect; it is not your job to fix his issues but to stay in your lane. Many wives have never submitted in everything once in their whole marriage.
-- *[[2:31:44](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=9104s)]* **The same teacher: if submission depends on his behavior, it is not submission, it is manipulation.** — God said submit in everything with no caveat. Submission is a spiritual assignment from God, not a transactional engagement. If that offends you, you are out of order.
-- *[[2:40:14](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=9614s)]* **The definition of reverence.** — A profound, heartfelt attitude of awe, respect, and holy fear toward God, manifesting as obedience, worship, and submission to his authority. Reverence for a husband is beyond respect and cannot be done as a job description; pray for that spirit if you do not have it.
-
 ## Scriptures Opened
 
 **[Matthew 13:16-17](/bible/matthew/13#v16)**  *[[14:30](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=870s)]*
@@ -55,6 +38,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 
 - The Most High ruleth in the kingdom of men, giveth it to whomsoever he will, and setteth up over it the basest of men. World events are never random; his hand is down here. When war rises and alliances shift, scripture already told us, and it said who would lead.
 
+
+*[[19:22](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=1162s)]* **In The News: Donald Trump saying his own morality and his own mind are the only things that can stop him, and he does not need international law.** — Out of the beast's own mouth: no limits from Congress, no international law. Daniel 4:17 said the Most High sets up over the kingdom of men the basest of men.
 
 **[Matthew 24:6-9](/bible/matthew/24#v6)**  *[[20:02](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=1202s)]*
 
@@ -140,6 +125,10 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 
     The Lord hath been witness between thee and the wife of thy youth, thy companion and the wife of thy covenant. God was in the first marriage and is in every marriage. A covenant is a contract of commitment and obligation, not feelings. You understand your phone plan and a sports contract but not this one. Treacherous or not, one flesh is still your companion. She will not be bad forever; hormones change, and you have to be able to live with that person through every dinner, drive, and wake-up.
 
+
+*[[46:51](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=2811s)]* **In The News: The Wikipedia entry on romance, read on screen.** — Romance is passionate attraction, prioritizing feelings and intimacy over practical concerns, a relationship that may be premarital or absent a commitment, and an idealization that overrides all other considerations. Individualistic choice in marriage and sexual partners came from it. The word derives from the Latin Romanus, meaning Rome, and in the Middle Ages meant narrative verse about chivalry and love.
+
+*[[58:47](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=3527s)]* **In The News: The entry on chivalry, with its picture of a kneeling knight.** — An informal code of conduct that developed in France between 1170 and 1220, tied to Christian knighthood. Keep that picture in mind for the origin of kneeling to propose.
 
 **[Genesis 11:29-31](/bible/genesis/11#v29)**  *[[1:01:58](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=3718s)]*
 
@@ -282,6 +271,16 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
     He that getteth a wife beginneth a possession, a help like unto himself, and a pillar of rest. Partnership and support, stability and wisdom over emotional intensity, which comes as a byproduct.
 
 
+*[[1:37:42](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=5862s)]* **In The News: A definition of aged together, put up by the tech team.** — The long-term intertwined journey of partners growing old side by side, shared history, mutual support through life's changes, accepting the natural aging process, and navigating challenges as a team. Aged means refined, like wine and cheese. Everything else gets established first or the romance is fleeting.
+
+*[[1:41:47](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=6107s)]* **In The News: The definition of ravished: to fill with intense delight and rapture; delight, charm, enthrall, captivate, fascinate.** — There is your passion, after the foundation of the marriage is set correctly. You do not seek this first, like buying furniture and rugs before you know the walls of the house will hold.
+
+*[[1:49:04](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=6544s)]* **In The News: The origin of kneeling to propose.** — It comes from medieval chivalry, feudalism, and religious tradition, where kneeling symbolized loyalty, submission, and respect to a higher authority. Knights knelt before lords and noble women, and it was adopted as a romantic gesture of servitude. No man should kneel to propose; the wife submits to the husband. The Bible shows men taking wives, not proposing on one knee.
+
+*[[1:52:31](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=6751s)]* **In The News: The origin of engagement rings.** — A Roman custom: iron rings signified a binding contract between families and the transfer of the daughter to the man, a legal agreement, not romance. Romans believed a vein ran from the fourth finger to the heart. The first recorded diamond ring was Archduke Maximilian's in 1477, and the diamond only became universal after the De Beers campaign of 1947, A Diamond Is Forever, which added the two-months-salary expectation to sell diamonds through the Depression.
+
+*[[1:57:22](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=7042s)]* **In The News: The origin of wedding rings.** — Egyptian, around 3000 BC, braided reeds and leather with the circle for eternity and the hole for a gateway to the unknown. Rome popularized metal rings, and the Catholic Church adopted the ring in the twelfth century, turning a pagan custom into a sacrament. The Bible never commands or describes wedding rings.
+
 **[2 Samuel 13:18](/bible/2-samuel/13#v18)**  *[[2:01:20](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=7280s)]*
 
 > <sup>[18](/bible/2-samuel/13#v18)</sup> And she had a garment of divers colours upon her: for with such robes were the king’s daughters that were virgins apparelled. Then his servant brought her out, and bolted the door after her.
@@ -301,6 +300,12 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 
 - Taking your wife on a trip or a date every time there is turmoil pretends nothing is wrong for a day or two, and the elephant in the room comes back. A brother who rewarded his wife's behaviour with vacations for years recently had her come through the window and punch him in the face. Ask yourself: if marriage originated with God, why do people learn it from movies? If culture defines it by romance, why does scripture define it by responsibility?
 
+
+*[[2:06:41](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=7601s)]* **In The News: The origin of the honeymoon.** — Fifth-century European and Norse newlyweds drank mead, fermented honey, for one full moon cycle for fertility, a month spent drunk, with the implication that the intense first love would wane like the moon. The travel version began in nineteenth-century Britain as a bridal tour to relatives who missed the wedding. A mishmash of cultures.
+
+*[[2:15:01](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=8101s)]* **In The News: A commentator on selecting a partner.** — You are choosing a whole lifestyle, not a person: their sleep schedule, money habits, stress, family drama, cleanliness, work ethic, and coping mechanisms. Love does not cancel flaws, it makes you tolerate them longer. Can you live with this person's version of Tuesday for the rest of your life? You do not fix somebody's lifestyle from the inside.
+
+*[[2:17:09](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=8229s)]* **In The News: A commentator on when a man is safe to love.** — A man is safe when he can discipline his own emotions while still experiencing them, then understand other people's emotions and help them through. Otherwise he blows up his own feelings and attacks others for having theirs. Brothers who cannot handle correction blow up outwardly or go sensual and separate themselves; babies, not manly at all.
 
 **[Exodus 21:10](/bible/exodus/21#v10)**  *[[2:19:19](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=8359s)]*
 
@@ -371,6 +376,10 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
     Teach the young women to be sober, to love their husbands, to love their children, to be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed. If you are not applying this, sisters, you are blasphemous, and at the judgment seat, but my husband did this, will be answered, that was the man I gave you.
 
 
+*[[2:28:19](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=8899s)]* **In The News: A woman teacher on a wife's conduct: soft, respectful, quiet, and learning to keep her mouth shut, citing 1 Peter 3:1.** — If you fear God you do what he says. Women hear one side and jump to the man's issues to deflect; it is not your job to fix his issues but to stay in your lane. Many wives have never submitted in everything once in their whole marriage.
+
+*[[2:31:44](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=9104s)]* **In The News: The same teacher: if submission depends on his behavior, it is not submission, it is manipulation.** — God said submit in everything with no caveat. Submission is a spiritual assignment from God, not a transactional engagement. If that offends you, you are out of order.
+
 **[Ephesians 5:22-25,32-33](/bible/ephesians/5#v22)**  *[[2:37:14](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=9434s)]*
 
 > <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
@@ -407,6 +416,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 
     Keep the ordinances as I delivered them to you: the head of every man is Christ, the head of the woman is the man, and the head of Christ is God. Grounded in that order, love becomes stronger, joy and passion follow, and the marriage becomes more durable over time.
 
+
+*[[2:40:14](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=9614s)]* **In The News: The definition of reverence.** — A profound, heartfelt attitude of awe, respect, and holy fear toward God, manifesting as obedience, worship, and submission to his authority. Reverence for a husband is beyond respect and cannot be done as a job description; pray for that spirit if you do not have it.
 
 ## Class Questions
 

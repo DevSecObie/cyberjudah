@@ -19,11 +19,6 @@ tags: ["IUIC in the ClassRoom", "money", "prayer", "sabbath"]
 
 *[[6:56](https://www.youtube.com/watch?v=wwW7PKHkqjs&t=416s)]* A captain at IUIC Boston takes on covetousness among the brothers: bad business dealings, money taken for jobs never done, and the reputation it costs the whole camp. Starting from 'walk in the spirit,' the class ties the blessing of reading the Bible to keeping it, shows how one covetous heart breaks every commandment, and closes with Gehazi, whose lie for Naaman's silver put the leprosy on him. The Lord exposes hidden sin as a mercy, and a covetous man who will not change is working toward having his lights put out.
 
-## In The News
-
-- *[[36:24](https://www.youtube.com/watch?v=wwW7PKHkqjs&t=2184s)]* **A retired athlete asked whether any sum could bring him back to the ring says no, because that would be selling his soul. His podcast co-host answers that for a hundred million dollars, you can have his soul.** — Now we know his character. A covetous man will sell his soul, and some do it for a five-dollar rock or a cheeseburger. Character makes you predictable and dependable, and once people know yours they know whether to do business with you.
-- *[[1:22:36](https://www.youtube.com/watch?v=wwW7PKHkqjs&t=4956s)]* **A cartoon scene of a debt collector beating a man who asked for another week to pay.** — That is what happens to men who owe and do not pay. After the beating you still owe the money, so deal righteously and never put yourself there.
-
 ## Scriptures Opened
 
 **[Galatians 5:16-17](/bible/galatians/5#v16)**  *[[8:46](https://www.youtube.com/watch?v=wwW7PKHkqjs&t=526s)]*
@@ -99,6 +94,8 @@ tags: ["IUIC in the ClassRoom", "money", "prayer", "sabbath"]
 
 - Some coveted after money and pierced themselves through with many sorrows. A good name is rather to be chosen than riches, and once your name is mud over money nobody will deal with you again. Some brothers should not be in business at all; a covetous man's business will not prosper except in unrighteousness.
 
+
+*[[36:24](https://www.youtube.com/watch?v=wwW7PKHkqjs&t=2184s)]* **In The News: A retired athlete asked whether any sum could bring him back to the ring says no, because that would be selling his soul. His podcast co-host answers that for a hundred million dollars, you can have his soul.** — Now we know his character. A covetous man will sell his soul, and some do it for a five-dollar rock or a cheeseburger. Character makes you predictable and dependable, and once people know yours they know whether to do business with you.
 
 **[Exodus 20:15-17](/bible/exodus/20#v15)**  *[[42:00](https://www.youtube.com/watch?v=wwW7PKHkqjs&t=2520s)]*
 
@@ -195,6 +192,8 @@ tags: ["IUIC in the ClassRoom", "money", "prayer", "sabbath"]
 
 - If your report must be good with those outside, how much better should it be with those within.
 
+
+*[[1:22:36](https://www.youtube.com/watch?v=wwW7PKHkqjs&t=4956s)]* **In The News: A cartoon scene of a debt collector beating a man who asked for another week to pay.** — That is what happens to men who owe and do not pay. After the beating you still owe the money, so deal righteously and never put yourself there.
 
 **[Ephesians 4:28](/bible/ephesians/4#v28)**  *[[1:25:26](https://www.youtube.com/watch?v=wwW7PKHkqjs&t=5126s)]*
 

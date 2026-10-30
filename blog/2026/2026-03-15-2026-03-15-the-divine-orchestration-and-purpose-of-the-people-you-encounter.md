@@ -19,16 +19,9 @@ tags: ["IUIC in the ClassRoom", "angels", "discipline", "obedience", "prophecy",
 
 *[[7:42](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=462s)]* A Sabbath class from one of the New York bishops that opens with a prelude, the war today is not just on TV, and then teaches The Divine Orchestration and Purpose of the People You Encounter. The prelude warns that prophecy should move us to correction, not entertain us, and reads Revelation 17 on Babylon the Great while pressing that the real war is the spiritual one inside each of us. The lesson proper: God declares the end from the beginning, so the people who betray, entrap, and vex you were sent to reflect what is still in you. A wicked woman is given to a wicked man; the same spirits follow you to the next town or congregation until you learn; and the narrow passage of 2 Esdras 7 is your own lusts, doubts, and fears, which you must overcome before the kingdom.
 
-## In The News
-
-- *[[12:25](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=745s)]* **An NBC report: Trump says the war is very complete, Iran has no navy, communications, or air force, and it will be a short excursion. Iran names the assassinated Ayatollah's son as supreme leader, a hardliner with fewer religious credentials, and Trump calls the choice a big mistake. The Iranian women's soccer team refuses to sing the anthem in Australia and five are granted asylum. Iran hits Saudi, Kuwaiti, and Bahraini targets and both sides now strike oil.** — Watch as well as pray, but many are glued to the bombs overseas while their own spirits are rotten. Telling another nation who to put in office is nearly what they did illegally in Panama; the soccer team is propaganda to drown out the people who elected him. The war is about oil, which is why Washington was unhappy that Israel made oil a target, and Iran is driving the price up to pressure a ceasefire.
-- *[[1:09:44](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=4184s)]* **A young woman who enlisted for a signing bonus after failing to find work is now crying to get out because she may be sent to the Iran theater, and cannot leave without facing military law.** — A ranking brother in the body re-enlisted after the war was announced, going against the prophecy he is supposed to know. Someone in the world is trying to escape what a brother in purple and gold is volunteering for. Recruiting stations sit in black cities like Planned Parenthood: be all you can never be in America. If you go, you will be in the armies that gather against Christ.
-- *[[1:14:29](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=4469s)]* **A woman in her car describes a Black Hebrew Israelite in downtown Houston asking whether she has a boyfriend; she answers Jesus, he keeps pressing for her number, and she says he broke character and walked off with his Bible in his hand.** — A woman in the world recognized the post-up game that sisters in the body fall for. People in the world sometimes have better sense than those in the truth.
-- *[[1:18:14](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=4694s)]* **A graphic: 3,500 African Americans lynched between 1882 and 1968, beside 3,500 African Americans aborted every 72 hours, drawn as a noose made from the instrument used to scrape the womb.** — We pay attention to what is sensationalized rather than what is far worse, because discipline is required to change sinful habits. Nobody has the guts to say it for fear of the women who advocate for it.
-- *[[2:48:47](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=10127s)]* **A state patrol GoPro recovered from a driver filmed at 154 miles per hour directly into the sun, who lost control, hit a tree, and survived with serious injuries.** — He had tickets before and ignored them, so the consequence got harder. Surviving paralyzed, a living spirit trapped in a body that cannot move, is what a spirit in hell is like. That is what happens when you ignore the warnings the brothers and sisters give you until the ultimate judgment.
-- *[[2:52:04](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=10324s)]* **Silent traffic-camera footage of a speeding car crash in which the passenger died instantly.** — The warnings are the tickets. Ignore them and the judgment is death.
-
 ## Scriptures Opened
+
+*[[12:25](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=745s)]* **In The News: An NBC report: Trump says the war is very complete, Iran has no navy, communications, or air force, and it will be a short excursion. Iran names the assassinated Ayatollah's son as supreme leader, a hardliner with fewer religious credentials, and Trump calls the choice a big mistake. The Iranian women's soccer team refuses to sing the anthem in Australia and five are granted asylum. Iran hits Saudi, Kuwaiti, and Bahraini targets and both sides now strike oil.** — Watch as well as pray, but many are glued to the bombs overseas while their own spirits are rotten. Telling another nation who to put in office is nearly what they did illegally in Panama; the soccer team is propaganda to drown out the people who elected him. The war is about oil, which is why Washington was unhappy that Israel made oil a target, and Iran is driving the price up to pressure a ceasefire.
 
 **[Romans 13:11-14](/bible/romans/13#v11)**  *[[22:04](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=1324s)]*
 
@@ -142,6 +135,10 @@ tags: ["IUIC in the ClassRoom", "angels", "discipline", "obedience", "prophecy",
     Now therefore set thine house in order, and reprove thy people. Your house cannot be in order while your head is not. Check your own thoughts and temptations before correcting your wife, son, or daughter; then your obedience is fulfilled and you can revenge disobedience.
 
 
+*[[1:09:44](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=4184s)]* **In The News: A young woman who enlisted for a signing bonus after failing to find work is now crying to get out because she may be sent to the Iran theater, and cannot leave without facing military law.** — A ranking brother in the body re-enlisted after the war was announced, going against the prophecy he is supposed to know. Someone in the world is trying to escape what a brother in purple and gold is volunteering for. Recruiting stations sit in black cities like Planned Parenthood: be all you can never be in America. If you go, you will be in the armies that gather against Christ.
+
+*[[1:14:29](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=4469s)]* **In The News: A woman in her car describes a Black Hebrew Israelite in downtown Houston asking whether she has a boyfriend; she answers Jesus, he keeps pressing for her number, and she says he broke character and walked off with his Bible in his hand.** — A woman in the world recognized the post-up game that sisters in the body fall for. People in the world sometimes have better sense than those in the truth.
+
 **[Isaiah 46:10](/bible/isaiah/46#v10)**  *[[1:17:18](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=4638s)]*
 
 > <sup>[10](/bible/isaiah/46#v10)</sup> Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
@@ -152,6 +149,8 @@ tags: ["IUIC in the ClassRoom", "angels", "discipline", "obedience", "prophecy",
 
 - Betrayal is the worst thing, and most of us cannot deal with it. But the question is why God allowed it, and the answer is that the person sent to you is a reflection of yourself.
 
+
+*[[1:18:14](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=4694s)]* **In The News: A graphic: 3,500 African Americans lynched between 1882 and 1968, beside 3,500 African Americans aborted every 72 hours, drawn as a noose made from the instrument used to scrape the womb.** — We pay attention to what is sensationalized rather than what is far worse, because discipline is required to change sinful habits. Nobody has the guts to say it for fear of the women who advocate for it.
 
 **[Sirach 26:23](/bible/sirach/26#v23)**  *[[1:24:57](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=5097s)]*
 
@@ -376,6 +375,10 @@ tags: ["IUIC in the ClassRoom", "angels", "discipline", "obedience", "prophecy",
 
 - Heresies latch onto certain spirits because those things are still in us to be purged. The law gives the way to escape: when you hear the heresy, stand up and say this brother or sister is bringing evil into the congregation, and you passed. Get caught up in it and you bear the same sin as the one bringing the offence.
 
+
+*[[2:48:47](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=10127s)]* **In The News: A state patrol GoPro recovered from a driver filmed at 154 miles per hour directly into the sun, who lost control, hit a tree, and survived with serious injuries.** — He had tickets before and ignored them, so the consequence got harder. Surviving paralyzed, a living spirit trapped in a body that cannot move, is what a spirit in hell is like. That is what happens when you ignore the warnings the brothers and sisters give you until the ultimate judgment.
+
+*[[2:52:04](https://www.youtube.com/watch?v=mRCyPWIqvlE&t=10324s)]* **In The News: Silent traffic-camera footage of a speeding car crash in which the passenger died instantly.** — The warnings are the tickets. Ignore them and the judgment is death.
 
 ## Class Questions
 

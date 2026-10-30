@@ -20,10 +20,6 @@ tags: ["15 Minutes w/ The Captains", "health", "leadership", "purpose", "repenta
 
 *[[3:26](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=206s)]* Hey, shalom Israel. Most high Christ bless. Most high Christ bless everybody. Hope y'all are having the best day possible. You know, new moon coming in tonight. All praise to the most high. Yet another day to celebrate what the Lord actually told us to celebrate. It's great. It's great. So today is another edition of Giving the Sense from A to Z. I'm Captain Matt IUIC Baton Rouge and today we are going to do Luke the 15th chapter. All right, Luke the 15th chapter. But like we always like to start off, we like to start off with the book of Nehemiah 8:8. Y'all follow along and we going to get it in today. So, last week we went over Luke 14 and now we're going to go over Luke the 15th chapter.
 
-## In The News
-
-- *[[21:31](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=1291s)]* **A video of a shepherd and other people calling a flock of sheep: the sheep keep grazing for the strangers and come running only at their own shepherd's voice** — I'mma show y'all exactly what it looks like when the sheep hear the voice of their shepherd.
-
 ## Scriptures Opened
 
 **[Nehemiah 8:8](/bible/nehemiah/8#v8)**  *[[3:26](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=206s)]*
@@ -155,6 +151,8 @@ tags: ["15 Minutes w/ The Captains", "health", "leadership", "purpose", "repenta
 
 - Not everybody is going to hear that voice: Don't be ashamed and don't be shocked when you hear something that they don't hear. You know what I'm saying? If you hear something that they don't hear, don't be ashamed. Cuz not everybody's going to hear Christ. Not everybody's going to adhere to the word. Some people are going to die eating unclean foods. We've literally been told that. Hey, well, it ain't killed me yet, but it will. Hey, well, I'll cross that bridge when I get there. If the Lord see fit to take me out because of that, then so be it. You'll be surprised at the stuff that we hear from people. You understand?
 
+
+*[[21:31](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=1291s)]* **In The News: A video of a shepherd and other people calling a flock of sheep: the sheep keep grazing for the strangers and come running only at their own shepherd's voice** — I'mma show y'all exactly what it looks like when the sheep hear the voice of their shepherd.
 
 **[Luke 15:4](/bible/luke/15#v4)**  *[[26:02](https://www.youtube.com/watch?v=SAVX_r6r9z4&t=1562s)]*
 

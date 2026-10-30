@@ -20,11 +20,6 @@ tags: ["IUIC in the ClassRoom", "war"]
 
 *[[3:53](https://www.youtube.com/watch?v=_SOqkX5UMlE&t=233s)]* Escaping the Plantation 2.0, streamed live by IUIC Raleigh, hosted by Captain Josiah with Officer Noah and other officers while Captain G is away, on bound, loosed and burned: the final defeat of the white man and the nations. The righteous rant answers Philip Anthony Mitchell and the pastors who say the northern tribes disappeared and that Ezekiel 38 is today's news. The people in the land since 1948 don't fit the prophecies: the true Israelites come back from the slave ships, reign with Christ a thousand years, and only then does Satan gather Gog and Magog, the two wings kept to the end of the eagle, to be destroyed with fire and brimstone.
 
-## In The News
-
-- *[[6:16](https://www.youtube.com/watch?v=_SOqkX5UMlE&t=376s)]* **Philip Anthony Mitchell (Pam) preaching on the northern kingdom of Israel and the southern kingdom of Judah, saying the north was sacked by the Assyrians and wiped off the map** — That's not true: they went into captivity. These Christians know the Bible's history but omit it when it comes to salvation; they're hypocrites.
-- *[[41:18](https://www.youtube.com/watch?v=_SOqkX5UMlE&t=2478s)]* **An Arab speaker on Jerusalem: when you see the Jews being brought back, we're talking about the Israelite Jews, not the European Jews, brought back to the Holy Land from Yemen** — The nations know who the true Israelites are. Urban apologists, stop fighting against us: the Israelites went into slavery on ships, and that's our history.
-
 ## Scriptures Opened
 
 **[Psalms 71:2](/bible/psalms/71#v2)**  *[[5:33](https://www.youtube.com/watch?v=_SOqkX5UMlE&t=333s)]*
@@ -33,6 +28,8 @@ tags: ["IUIC in the ClassRoom", "war"]
 
 - Deliver us and cause us to escape the plantation, Babylon the Great, so-called America, and all the lands we were scattered to across the four corners of the earth.
 
+
+*[[6:16](https://www.youtube.com/watch?v=_SOqkX5UMlE&t=376s)]* **In The News: Philip Anthony Mitchell (Pam) preaching on the northern kingdom of Israel and the southern kingdom of Judah, saying the north was sacked by the Assyrians and wiped off the map** — That's not true: they went into captivity. These Christians know the Bible's history but omit it when it comes to salvation; they're hypocrites.
 
 **[Ephesians 2:11](/bible/ephesians/2#v11)**  *[[7:08](https://www.youtube.com/watch?v=_SOqkX5UMlE&t=428s)]*
 
@@ -123,6 +120,8 @@ tags: ["IUIC in the ClassRoom", "war"]
 
     And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.
 
+
+*[[41:18](https://www.youtube.com/watch?v=_SOqkX5UMlE&t=2478s)]* **In The News: An Arab speaker on Jerusalem: when you see the Jews being brought back, we're talking about the Israelite Jews, not the European Jews, brought back to the Holy Land from Yemen** — The nations know who the true Israelites are. Urban apologists, stop fighting against us: the Israelites went into slavery on ships, and that's our history.
 
 **[Baruch 2:30](/bible/baruch/2#v30)**  *[[42:52](https://www.youtube.com/watch?v=_SOqkX5UMlE&t=2572s)]*
 

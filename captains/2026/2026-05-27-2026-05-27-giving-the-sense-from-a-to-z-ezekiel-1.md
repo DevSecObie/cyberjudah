@@ -20,11 +20,6 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 
 *[[22:43](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=1363s)]* Shalom. Shalom. Most High Christ bless. I know some of you probably been watching. I know Captain Gedaliah did 2 Corinthians, the last chapter, close it out. So now we are opening up. We're giving the sense from A to Z with Ezekiel. We're going to go into some prophecies and some history. So we going to start with Ezekiel chapter 1. All right, since we started a little late, let's get right into it. Let's read Ezekiel chapter 1 verse one.
 
-## In The News
-
-- *[[1:05:26](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=3926s)]* **Interview with a former NASA scientist describing beings he saw getting off a ship: "Not dark. Black.", about seven feet tall** — To show what "very terrible" (Judges 13:6) looked like: the man's reaction to seeing the angels, and that they were black like the burnished brass of Ezekiel 1:7.
-- *[[1:08:38](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=4118s)]* **Audio of a NASA scientist describing mile-long cigar-shaped ships landing at an Air Force base, with a black race of men with heavy weapons coming out** — The chariots were that big and the angels are black men ready for war; tied to Matthew 24:30-31 and Isaiah 47:3 ("I will not meet thee as a man").
-
 ## Scriptures Opened
 
 **[Ezekiel 1:1](/bible/ezekiel/1#v1)**  *[[24:09](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=1449s)]*
@@ -431,6 +426,8 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
     Who is this? Children of Israel. A certain woman of Zorah, the family of the Danites. So this woman saw an angel.
 
 
+*[[1:05:26](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=3926s)]* **In The News: Interview with a former NASA scientist describing beings he saw getting off a ship: "Not dark. Black.", about seven feet tall** — To show what "very terrible" (Judges 13:6) looked like: the man's reaction to seeing the angels, and that they were black like the burnished brass of Ezekiel 1:7.
+
 **[Ezekiel 1:14-15](/bible/ezekiel/1#v14)**  *[[1:05:26](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=3926s)]*
 
 > <sup>[14](/bible/ezekiel/1#v14)</sup> And the living creatures ran and returned as the appearance of a flash of lightning.
@@ -469,6 +466,8 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]
 
     That's how you know he's not talking about everybody on the face of earth. The Lord is going to come gather Israelites. Okay, put that video back up. Let me see if he got more on that. So now this image is not how the angels look, obviously, cuz we just read in Ezekiel chapter 1, but this is the best that the brothers could do it with AI. Okay, play. He said they look like African-American. These are black people. This is the audio of one of the NASA scientists. Play on.
 
+
+*[[1:08:38](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=4118s)]* **In The News: Audio of a NASA scientist describing mile-long cigar-shaped ships landing at an Air Force base, with a black race of men with heavy weapons coming out** — The chariots were that big and the angels are black men ready for war; tied to Matthew 24:30-31 and Isaiah 47:3 ("I will not meet thee as a man").
 
 **[Isaiah 47:1-3](/bible/isaiah/47#v1)**  *[[1:13:39](https://www.youtube.com/watch?v=RnQ-E_bjBog&t=4419s)]*
 

@@ -19,18 +19,15 @@ tags: ["IUIC in the ClassRoom", "captivity", "idolatry", "sexual-purity", "youth
 
 *[[7:09](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=429s)]* Blood toucheth blood: the continual, uninterrupted violence our people do to one another. From the assassinations among the kings of the northern kingdom to the knife crime in the streets of the UK today, the same spirit is at work, the Lord has a controversy with us over it, and all of it stems back to idolatry.
 
-## In The News
-
-- *[[12:11](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=731s)]* **Street teaching in Montserrat** — Our people in captivity have no protection: not religion, not politics, not taxes, not war. The only protection is returning to the Lord.
-- *[[14:20](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=860s)]* **Footage from the Congo** — What the work looks like on the other side of the world; a documentary is coming.
-- *[[16:07](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=967s)]* **The class title video** — From the streets of America to the cities of Europe, blood shed by our own, and all of it spoken of long ago.
-- *[[19:44](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=1184s)]* **A stabbing in a chicken shop on Brixton Road** — A seventy-year-old stabbed, two suspects wanted. That is what our society deals with, and not only among the youth.
-- *[[1:08:30](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4110s)]* **Teenagers dancing after a stabbing and shooting at Hackney Central Station** — They lie in wait for blood, they kill, and then they celebrate it; the video on one of their own phones convicted them, and they were jailed for a total of seventy-seven years.
-- *[[1:11:17](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4277s)]* **A machete fight in public** — What is so important that men have to fight like that in the street with blades?
-- *[[1:13:00](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4380s)]* **School children fighting** — This is the UK: knives are ninety per cent of what people carry here. One in the wrong place and it is a fatality, and foolishness starts from young.
-- *[[1:17:49](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4669s)]* **CCTV of a delivery rider attacked for his bike** — That bike is his livelihood, he feeds his family from it. It is not funny; it shows how we lack mercy in all walks of life.
-
 ## Scriptures Opened
+
+*[[12:11](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=731s)]* **In The News: Street teaching in Montserrat** — Our people in captivity have no protection: not religion, not politics, not taxes, not war. The only protection is returning to the Lord.
+
+*[[14:20](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=860s)]* **In The News: Footage from the Congo** — What the work looks like on the other side of the world; a documentary is coming.
+
+*[[16:07](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=967s)]* **In The News: The class title video** — From the streets of America to the cities of Europe, blood shed by our own, and all of it spoken of long ago.
+
+*[[19:44](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=1184s)]* **In The News: A stabbing in a chicken shop on Brixton Road** — A seventy-year-old stabbed, two suspects wanted. That is what our society deals with, and not only among the youth.
 
 **[Hosea 4:1-2](/bible/hosea/4#v1)**  *[[21:51](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=1311s)]*
 
@@ -296,6 +293,12 @@ tags: ["IUIC in the ClassRoom", "captivity", "idolatry", "sexual-purity", "youth
 - Trust ye not in a friend, put ye not confidence in a guide. Prove your friends carefully, and teach your children to prove theirs, because foolishness starts from young.
 
 
+*[[1:08:30](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4110s)]* **In The News: Teenagers dancing after a stabbing and shooting at Hackney Central Station** — They lie in wait for blood, they kill, and then they celebrate it; the video on one of their own phones convicted them, and they were jailed for a total of seventy-seven years.
+
+*[[1:11:17](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4277s)]* **In The News: A machete fight in public** — What is so important that men have to fight like that in the street with blades?
+
+*[[1:13:00](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4380s)]* **In The News: School children fighting** — This is the UK: knives are ninety per cent of what people carry here. One in the wrong place and it is a fatality, and foolishness starts from young.
+
 **[Hosea 6:1-8](/bible/hosea/6#v1)**  *[[1:14:56](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4496s)]*
 
 > <sup>[1](/bible/hosea/6#v1)</sup> Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
@@ -326,6 +329,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "idolatry", "sexual-purity", "youth
 
 - But they like men have transgressed the covenant, there have they dealt treacherously against me. We broke the covenant, and that is the lawsuit the Lord brought against us as a nation.
 
+
+*[[1:17:49](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=4669s)]* **In The News: CCTV of a delivery rider attacked for his bike** — That bike is his livelihood, he feeds his family from it. It is not funny; it shows how we lack mercy in all walks of life.
 
 **[Hosea 6:9-11](/bible/hosea/6#v9)**  *[[1:24:28](https://www.youtube.com/watch?v=CO-THOc-IhQ&t=5068s)]*
 

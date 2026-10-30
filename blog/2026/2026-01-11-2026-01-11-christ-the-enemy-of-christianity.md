@@ -19,17 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
 *[[13:24](https://www.youtube.com/watch?v=e51lFpTuIds&t=804s)]* Bishop Nathanyel shows that Christianity is the false prophet and that the true Christ is its enemy. America is the second beast of Revelation 13, horns like a lamb and speaking as a dragon. It called down fire from heaven on Hiroshima and Nagasaki and gave life to an image of the beast, Caesar Borgia's face sold as Jesus. The mark of the beast is sin made law, enforced through control of buying and selling. The class traces Esau-Edom from Mount Seir to the European powers, who hold Israel's land and call themselves Jews. It warns of a seducing spirit that will draw idle Israelites back into Christianity, and ends on Isaiah 47: the virgin daughter of Babylon uncovered and brought down by the Lord.
 
-## In The News
-
-- *[[20:31](https://www.youtube.com/watch?v=e51lFpTuIds&t=1231s)]* **Video of a federal agent shooting a woman in her car during an ICE operation, after claims she obstructed agents.** — The rage is natural, but a soldier must not entangle himself with the affairs of this life. Israel was sent to teach, not to protest.
-- *[[30:18](https://www.youtube.com/watch?v=e51lFpTuIds&t=1818s)]* **A Young Turks host asks where the American patriots are who promised to fight a tyrannical government.** — Isaiah 19:2 is unfolding: Egyptian against Egyptian and city against city. Israel has been warning of it week after week.
-- *[[39:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=2362s)]* **Leonardo da Vinci's sketches of Caesar Borgia as the Renaissance Jesus.** — America made an image to the beast that had the wound by a sword and did live, and gave it life in films and churches.
-- *[[50:19](https://www.youtube.com/watch?v=e51lFpTuIds&t=3019s)]* **Commentators warn that central bank digital currencies would let governments shut off anyone's money.** — No man might buy or sell save he that had the mark. They already cut off those who speak against the synagogue of Satan.
-- *[[1:06:38](https://www.youtube.com/watch?v=e51lFpTuIds&t=3998s)]* **Pastors preaching support for the war and praying for the mosque on the Temple Mount to fall.** — Many false prophets shall rise. Christianity is the religion of Edom.
-- *[[2:10:20](https://www.youtube.com/watch?v=e51lFpTuIds&t=7820s)]* **A video on Brazil's order to trade outside the US dollar and SWIFT.** — Venezuela sold oil outside the dollar and was attacked. The kings of the east are preparing, as the Euphrates dries up.
-- *[[2:31:55](https://www.youtube.com/watch?v=e51lFpTuIds&t=9115s)]* **Before-and-after images of Libya, Haiti and Panama after US interventions.** — This is America's nakedness uncovered. Her sorceries and enchantments are her science and weapons.
-- *[[2:50:03](https://www.youtube.com/watch?v=e51lFpTuIds&t=10203s)]* **Trump boasts that the United States has the most powerful weapons in the world and is shown shoving past other leaders and patting the Saudi crown prince.** — Thou hast said in thine heart, I am, and none else beside me.
-
 ## Scriptures Opened
 
 **[Lamentations 5:1](/bible/lamentations/5#v1)**  *[[15:57](https://www.youtube.com/watch?v=e51lFpTuIds&t=957s)]*
@@ -50,6 +39,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
     Every kingdom divided against itself is brought to desolation.
 
+
+*[[20:31](https://www.youtube.com/watch?v=e51lFpTuIds&t=1231s)]* **In The News: Video of a federal agent shooting a woman in her car during an ICE operation, after claims she obstructed agents.** — The rage is natural, but a soldier must not entangle himself with the affairs of this life. Israel was sent to teach, not to protest.
 
 **[2 Timothy 2:3](/bible/2-timothy/2#v3)**  *[[22:17](https://www.youtube.com/watch?v=e51lFpTuIds&t=1337s)]*
 
@@ -72,6 +63,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "christ", "edom-esau", "false
 
     The great city which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 
+
+*[[30:18](https://www.youtube.com/watch?v=e51lFpTuIds&t=1818s)]* **In The News: A Young Turks host asks where the American patriots are who promised to fight a tyrannical government.** — Isaiah 19:2 is unfolding: Egyptian against Egyptian and city against city. Israel has been warning of it week after week.
 
 **[Revelation 13:11](/bible/revelation/13#v11)**  *[[32:04](https://www.youtube.com/watch?v=e51lFpTuIds&t=1924s)]*
 
@@ -129,6 +122,8 @@ Reading from the Wikipedia article *Head of Christ* · read by Captain Uri  *[[4
 
 </div>
 
+*[[39:22](https://www.youtube.com/watch?v=e51lFpTuIds&t=2362s)]* **In The News: Leonardo da Vinci's sketches of Caesar Borgia as the Renaissance Jesus.** — America made an image to the beast that had the wound by a sword and did live, and gave it life in films and churches.
+
 **[Revelation 13:16](/bible/revelation/13#v16)**  *[[48:29](https://www.youtube.com/watch?v=e51lFpTuIds&t=2909s)]*
 
 > <sup>[16](/bible/revelation/13#v16)</sup> And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
@@ -159,6 +154,8 @@ Reading from an article, "US sanctions on special reporter Francesca Albanese th
 - The members of the International Criminal Court, ICC, they put sanctions on all them for speaking against Israel. So you think we ain't in that time? We pushing Revelation 2:9, Revelation 3:9. You don't think one of them is going to go, you know what? Let's shut his bank account down. That'll shut them up.
 
 </div>
+
+*[[50:19](https://www.youtube.com/watch?v=e51lFpTuIds&t=3019s)]* **In The News: Commentators warn that central bank digital currencies would let governments shut off anyone's money.** — No man might buy or sell save he that had the mark. They already cut off those who speak against the synagogue of Satan.
 
 **[Acts 4:18](/bible/acts/4#v18)**  *[[56:38](https://www.youtube.com/watch?v=e51lFpTuIds&t=3398s)]*
 
@@ -209,6 +206,8 @@ Reading from a Google search on Christian Zionism · read by Captain Uri  *[[1:0
 - Christian Zionism, Christianity, Roman Catholicism, it's all the same.
 
 </div>
+
+*[[1:06:38](https://www.youtube.com/watch?v=e51lFpTuIds&t=3998s)]* **In The News: Pastors preaching support for the war and praying for the mosque on the Temple Mount to fall.** — Many false prophets shall rise. Christianity is the religion of Edom.
 
 **[Galatians 1:6](/bible/galatians/1#v6)**  *[[1:07:28](https://www.youtube.com/watch?v=e51lFpTuIds&t=4048s)]*
 
@@ -535,6 +534,8 @@ Reading from the title of a video on the BRICS Bridge · read by Captain Uri  *[
 
 </div>
 
+*[[2:10:20](https://www.youtube.com/watch?v=e51lFpTuIds&t=7820s)]* **In The News: A video on Brazil's order to trade outside the US dollar and SWIFT.** — Venezuela sold oil outside the dollar and was attacked. The kings of the east are preparing, as the Euphrates dries up.
+
 **[Isaiah 47:1](/bible/isaiah/47#v1)**  *[[2:19:09](https://www.youtube.com/watch?v=e51lFpTuIds&t=8349s)]*
 
 > <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
@@ -575,6 +576,8 @@ Reading from an article from Al Jazeera, then a headline on Maduro · read by Ca
 - This is her nakedness. This is America's shame.
 
 </div>
+
+*[[2:31:55](https://www.youtube.com/watch?v=e51lFpTuIds&t=9115s)]* **In The News: Before-and-after images of Libya, Haiti and Panama after US interventions.** — This is America's nakedness uncovered. Her sorceries and enchantments are her science and weapons.
 
 **[Isaiah 47:6](/bible/isaiah/47#v6)**  *[[2:37:14](https://www.youtube.com/watch?v=e51lFpTuIds&t=9434s)]*
 
@@ -657,6 +660,8 @@ Reading from a *New York Post* article, "US used powerful mystery weapon that br
 - You can't make this stuff up. They was experimenting before. Now they said we got it down pat now.
 
 </div>
+
+*[[2:50:03](https://www.youtube.com/watch?v=e51lFpTuIds&t=10203s)]* **In The News: Trump boasts that the United States has the most powerful weapons in the world and is shown shoving past other leaders and patting the Saudi crown prince.** — Thou hast said in thine heart, I am, and none else beside me.
 
 **[Isaiah 47:12](/bible/isaiah/47#v12)**  *[[2:56:18](https://www.youtube.com/watch?v=e51lFpTuIds&t=10578s)]*
 

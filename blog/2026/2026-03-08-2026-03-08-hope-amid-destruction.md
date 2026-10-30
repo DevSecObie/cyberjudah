@@ -19,24 +19,9 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 
 *[[11:32](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=692s)]* A Sabbath class in Philadelphia, Hope Amid Destruction, teaching Isaiah 33 verse by verse against the war with Iran. It opens with Hezekiah spreading Sennacherib's letter before the Lord and one angel killing 185,000 Assyrians, then shows the scripture is double: the spoiler who was not spoiled is Assyria then and America now, robbing Venezuela, Libya, Iraq, and Iran and dealing treacherously in the ceasefire talks. Through the chapter the Bishop reads the birthing pains, the Lord rising in Zion, wisdom and knowledge as the stability of our times, the ambassadors of peace weeping, Lebanon and Tel Aviv laid waste, the hypocrites in Zion, and the hope: who walks righteously shall see the King in his beauty, Jerusalem a tabernacle never taken down, no inhabitant saying I am sick, and the whole book of the Lord possessed for ever.
 
-## In The News
-
-- *[[15:22](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=922s)]* **The Hope Amid Destruction thumbnail animation.** — Shout out to the art department. A thumbnail like that puts the spirit on you when you wake up with no motivation.
-- *[[41:19](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=2479s)]* **George Galloway: Israel is taking a hiding you do not see, because releasing footage of damage in Tel Aviv brings five years in prison and CNN, BBC, and Sky accept Israeli censorship; his friends on Sheinkin Street say Tel Aviv looks like Gaza with the air defences down, fifty ballistic missiles in one evening, and American dead approaching a thousand.** — Habakkuk 2:8 in real time: all the remnant of the people shall spoil thee.
-- *[[43:21](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=2601s)]* **An Iranian official: we are not asking for a ceasefire and see no reason to negotiate, because twice they attacked us in the middle of negotiations; we are confident we can confront a ground invasion and it would be a disaster for them.** — Isaiah 33:1, dealing treacherously. They called the ambassador to Geneva to talk ceasefire and hit Iran with Midnight Hammer; they bombed again during the second talk, and they killed the negotiator in Qatar. Invading someone's home when he knows the layout makes you a sitting duck, and they will die for what they stand for while America hides its casualties.
-- *[[46:34](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=2794s)]* **A former American military man: we have bombed two children's schools, 63 dead girls and a hundred more under the rubble, sent to school because diplomacy was under way; when I was involved in the Al-Amiriyah shelter bombing we did our damnedest to confirm a military target; you do not make those mistakes.** — The media that says Iran abuses women is bombing girls' schools. He also said, you invaded Syria, get off their land. Mind your beeswax, America.
-- *[[48:40](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=2920s)]* **A Muslim commentator on the Texas shooter said to have a property of Allah sweater, an Iranian flag shirt, and a Quran in the car: Muslims never put Allah's name where it can be dirtied; this is optics.** — It is a CIA psyop, like Yahawashi is coming written in the street after the Jersey shooting. And you Hebrew Israelites who put the Most High's name on your clothes are doing what Christians do; the Muslims treat the name as more sacred than that.
-- *[[1:01:26](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=3686s)]* **A picture of a heavy man praying at the dinner table to lose weight with a chicken leg in one hand and a steak in the other.** — God needs something to work with. Smaller portions, walk around the block, then let the Lord do the rest. Likewise you pray for wisdom with the Bible closed Sunday through Friday; give the Lord something to work with.
-- *[[1:19:30](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=4770s)]* **A report on southern Lebanon: Israeli air strikes and an advance to take more territory beyond the five outposts held since the 2024 ceasefire, dozens killed, thirty thousand displaced, a woman pleading for safety and stability, Lebanon's government banning Hezbollah's military activity, and the US embassy in Beirut shutting.** — Isaiah 33:8-9: he hath broken the covenant, that 2024 ceasefire; Lebanon is ashamed and hewn down. The woman asked for stability; wisdom and knowledge shall be the stability of thy times. Sharon is Tel Aviv, Bashan is Syria, Carmel is northern Israel; the Bishop and a deacon taught on those very streets in Tel Aviv.
-- *[[1:25:24](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=5124s)]* **Footage of strikes on Tel Aviv that CNN, BBC, and MSNBC are not showing.** — Sharon is like a wilderness.
-- *[[1:41:04](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6064s)]* **Church clips: a pastor kissing women on the mouth as a holy kiss with holy water, an African church rolling on the floor claiming the Holy Spirit, a white preacher saying ninety to ninety-five percent of the black church is heretical and should be split up into good white churches, and an AI pastor.** — Isaiah 33:14, fearfulness hath surprised the hypocrites. Our people in Christianity have lost their minds, and now some Israelites speak in tongues and call it a heavenly language, Israelite Pentecostals.
-- *[[1:47:04](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6424s)]* **A pastor at Perfecting Church reading out a member's seed of a thousand dollars plus two hundred thirty-five, and correcting her that he asked for a thousand plus a thousand, while the organ keeps playing.** — Matthew 6:2, sounding a trumpet before thee as the hypocrites do; they have their reward. The piano player went in like he agreed.
-- *[[1:49:41](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6581s)]* **Thousands of Christians praying in the streets in California.** — Matthew 6:5, they love to pray standing in the corners of the streets to be seen of men.
-- *[[1:50:45](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6645s)]* **A man recounts a pastor who kept a check written to the church for a widow, exposed only when the treasurer thanked the donor, and who is now pushing the widow out; his friends told him to keep his peace.** — Matthew 23:14, ye devour widows' houses and for a pretence make long prayer. The modern Pharisees are our people in Christianity.
-- *[[2:24:30](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=8670s)]* **Pictures of galleys with oars.** — Isaiah 33:21, no galley with oars nor gallant ship shall pass. Those were warships; the Lord will give us power to take down their navies and air forces.
-- *[[2:33:42](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=9222s)]* **A map showing Edom with Bozrah, modern-day Jordan.** — The Lord hath a sacrifice in Bozrah and a great slaughter in the land of Idumea; all the wars take place over there. It is the controversy of Zion, and Amalek gets mad when asked for a DNA check because the DNA of Abraham, Isaac, and Jacob is not on file.
-
 ## Scriptures Opened
+
+*[[15:22](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=922s)]* **In The News: The Hope Amid Destruction thumbnail animation.** — Shout out to the art department. A thumbnail like that puts the spirit on you when you wake up with no motivation.
 
 **[2 Kings 19:14-37](/bible/2-kings/19#v14)**  *[[16:48](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=1008s)]*
 
@@ -148,6 +133,14 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
     In the fulness of his sufficiency he shall be in straits; every hand of the wicked shall come upon him, as Habakkuk 2 and Revelation 17 when NATO turns; when he is about to fill his belly God shall cast the fury of his wrath upon him and rain it upon him while he is eating. Same as Thessalonians. They try to make us the bad guys, but the real bad guys are written in the Bible, and their friends will turn on them.
 
 
+*[[41:19](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=2479s)]* **In The News: George Galloway: Israel is taking a hiding you do not see, because releasing footage of damage in Tel Aviv brings five years in prison and CNN, BBC, and Sky accept Israeli censorship; his friends on Sheinkin Street say Tel Aviv looks like Gaza with the air defences down, fifty ballistic missiles in one evening, and American dead approaching a thousand.** — Habakkuk 2:8 in real time: all the remnant of the people shall spoil thee.
+
+*[[43:21](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=2601s)]* **In The News: An Iranian official: we are not asking for a ceasefire and see no reason to negotiate, because twice they attacked us in the middle of negotiations; we are confident we can confront a ground invasion and it would be a disaster for them.** — Isaiah 33:1, dealing treacherously. They called the ambassador to Geneva to talk ceasefire and hit Iran with Midnight Hammer; they bombed again during the second talk, and they killed the negotiator in Qatar. Invading someone's home when he knows the layout makes you a sitting duck, and they will die for what they stand for while America hides its casualties.
+
+*[[46:34](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=2794s)]* **In The News: A former American military man: we have bombed two children's schools, 63 dead girls and a hundred more under the rubble, sent to school because diplomacy was under way; when I was involved in the Al-Amiriyah shelter bombing we did our damnedest to confirm a military target; you do not make those mistakes.** — The media that says Iran abuses women is bombing girls' schools. He also said, you invaded Syria, get off their land. Mind your beeswax, America.
+
+*[[48:40](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=2920s)]* **In The News: A Muslim commentator on the Texas shooter said to have a property of Allah sweater, an Iranian flag shirt, and a Quran in the car: Muslims never put Allah's name where it can be dirtied; this is optics.** — It is a CIA psyop, like Yahawashi is coming written in the street after the Jersey shooting. And you Hebrew Israelites who put the Most High's name on your clothes are doing what Christians do; the Muslims treat the name as more sacred than that.
+
 **[Isaiah 33:2-6](/bible/isaiah/33#v2)**  *[[54:17](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=3257s)]*
 
 > <sup>[2](/bible/isaiah/33#v2)</sup> O Lord, be gracious unto us; we have waited for thee: be thou their arm every morning, our salvation also in the time of trouble.
@@ -231,6 +224,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
     Immediately after the tribulation of those days, the stars, missiles, fall from heaven and the powers of the heavens, the European nations, are shaken with war; and then the sign of the Son of man, and he sends his angels to gather his elect, Israel, Isaiah 45:4, not Baptists, Pentecostals, Muslims, or Catholics. Isaiah 34:4-5 shows the heaven that is dissolved and rolled together like a scroll, nuclear bombs, with the host falling like leaves and satellites dropping: my sword shall be bathed in heaven and come down upon Idumea, the Greek and Roman name for Edom, America, France, Germany, Britain, Russia.
 
 
+*[[1:01:26](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=3686s)]* **In The News: A picture of a heavy man praying at the dinner table to lose weight with a chicken leg in one hand and a steak in the other.** — God needs something to work with. Smaller portions, walk around the block, then let the Lord do the rest. Likewise you pray for wisdom with the Bible closed Sunday through Friday; give the Lord something to work with.
+
 **[Isaiah 33:7-12](/bible/isaiah/33#v7)**  *[[1:18:40](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=4720s)]*
 
 > <sup>[7](/bible/isaiah/33#v7)</sup> Behold, their valiant ones shall cry without: the ambassadors of peace shall weep bitterly.
@@ -275,6 +270,10 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 
     Every battle of the warrior is with confused noise and garments rolled in blood, but this shall be with burning and fuel of fire.
 
+
+*[[1:19:30](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=4770s)]* **In The News: A report on southern Lebanon: Israeli air strikes and an advance to take more territory beyond the five outposts held since the 2024 ceasefire, dozens killed, thirty thousand displaced, a woman pleading for safety and stability, Lebanon's government banning Hezbollah's military activity, and the US embassy in Beirut shutting.** — Isaiah 33:8-9: he hath broken the covenant, that 2024 ceasefire; Lebanon is ashamed and hewn down. The woman asked for stability; wisdom and knowledge shall be the stability of thy times. Sharon is Tel Aviv, Bashan is Syria, Carmel is northern Israel; the Bishop and a deacon taught on those very streets in Tel Aviv.
+
+*[[1:25:24](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=5124s)]* **In The News: Footage of strikes on Tel Aviv that CNN, BBC, and MSNBC are not showing.** — Sharon is like a wilderness.
 
 **[Isaiah 33:13-14](/bible/isaiah/33#v13)**  *[[1:32:13](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=5533s)]*
 
@@ -322,6 +321,14 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 
     Woe unto you, scribes and Pharisees, hypocrites, for ye devour widows' houses and for a pretence make long prayer; ye shall receive the greater damnation. The pastor who kept the widow's check. Matthew 24:51, the unfaithful servant's portion is with the hypocrites, weeping and gnashing of teeth in the lake of fire, and the modern Pharisees are our people in Christianity.
 
+
+*[[1:41:04](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6064s)]* **In The News: Church clips: a pastor kissing women on the mouth as a holy kiss with holy water, an African church rolling on the floor claiming the Holy Spirit, a white preacher saying ninety to ninety-five percent of the black church is heretical and should be split up into good white churches, and an AI pastor.** — Isaiah 33:14, fearfulness hath surprised the hypocrites. Our people in Christianity have lost their minds, and now some Israelites speak in tongues and call it a heavenly language, Israelite Pentecostals.
+
+*[[1:47:04](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6424s)]* **In The News: A pastor at Perfecting Church reading out a member's seed of a thousand dollars plus two hundred thirty-five, and correcting her that he asked for a thousand plus a thousand, while the organ keeps playing.** — Matthew 6:2, sounding a trumpet before thee as the hypocrites do; they have their reward. The piano player went in like he agreed.
+
+*[[1:49:41](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6581s)]* **In The News: Thousands of Christians praying in the streets in California.** — Matthew 6:5, they love to pray standing in the corners of the streets to be seen of men.
+
+*[[1:50:45](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6645s)]* **In The News: A man recounts a pastor who kept a check written to the church for a widow, exposed only when the treasurer thanked the donor, and who is now pushing the widow out; his friends told him to keep his peace.** — Matthew 23:14, ye devour widows' houses and for a pretence make long prayer. The modern Pharisees are our people in Christianity.
 
 **[Isaiah 33:15-17](/bible/isaiah/33#v15)**  *[[1:53:27](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=6807s)]*
 
@@ -560,6 +567,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
     Bless the Lord, O my soul, and forget not all his benefits: who forgiveth all thine iniquities, who healeth all thy diseases, who redeemeth thy life from destruction, who crowneth thee with lovingkindness and tender mercies.
 
 
+*[[2:24:30](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=8670s)]* **In The News: Pictures of galleys with oars.** — Isaiah 33:21, no galley with oars nor gallant ship shall pass. Those were warships; the Lord will give us power to take down their navies and air forces.
+
 **[Isaiah 34:1-17](/bible/isaiah/34#v1)**  *[[2:30:48](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=9048s)]*
 
 > <sup>[1](/bible/isaiah/34#v1)</sup> Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
@@ -618,6 +627,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 
     Till I come, give attendance to reading, to exhortation, to doctrine. Neglect not the gift that is in thee, which was given thee by prophecy with the laying on of the hands of the presbytery, the congregation.
 
+
+*[[2:33:42](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=9222s)]* **In The News: A map showing Edom with Bozrah, modern-day Jordan.** — The Lord hath a sacrifice in Bozrah and a great slaughter in the land of Idumea; all the wars take place over there. It is the controversy of Zion, and Amalek gets mad when asked for a DNA check because the DNA of Abraham, Isaac, and Jacob is not on file.
 
 ## Class Questions
 

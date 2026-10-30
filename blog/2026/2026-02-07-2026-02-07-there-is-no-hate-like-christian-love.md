@@ -19,22 +19,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion", "unity"
 
 *[[4:16](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=256s)]* Captain Amaziah opens the Sabbath lineup by asking what four hundred years of Christian love from the so-called white man has produced in our people. The class traces how the heathen broke Israel's unity and cast the law from us, how a people that forgets Jerusalem gets a tongue cleaving to the roof of its mouth, and how pastors who scatter the flock are the new taskmasters. A run of clips shows the results, from sold souls to poisoned infants, before the scriptures turn to the judgment coming on the nations and the mercy that saves the poor from the sword.
 
-## In The News
-
-- *[[16:21](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=981s)]* **The Epstein files released over the last several days, implicating the kings of the earth in evil with children, blood and worse.** — These are the kings of the earth of Psalm 2 who set themselves against the Lord and his anointed. Prince Andrew, Trump and Clinton walk free where we would be under the jail, and they are against the purple and gold, which makes every one of us a target.
-- *[[42:26](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2546s)]* **A pastor preaching from the barber's chair mid-haircut.** — That is the Black pastor today: soft, sweet and squishy, and he is leading people. The leaders of this people cause them to err.
-- *[[48:34](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2914s)]* **Images of Black conservatives at Trump's inauguration, the Diamond and Silk duo, and Kanye West, alongside the AI video Trump posted of the Obamas as monkeys.** — Now we love the people who enslaved us. Kanye knew what these people were, which is why you cannot trust all Black or Hispanic people; they will sell you out.
-- *[[50:24](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3024s)]* **A Black Christian asked whether he claims Black people answers that he is a Christian first and that Black is a construct.** — Tell the white man Black is a construct. He put your ancestors in chains and did not do it to his own; it was not a construct then.
-- *[[51:26](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3086s)]* **A Black man says he loads his gun every day for Black people, not white or Mexican men; and a comparison of Antoine Daniels berating a Black man to his face while asking a white man's permission to speak.** — We turn up on each other and show teeth and mercy to other races. That is the fruit of Christian love.
-- *[[53:36](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3216s)]* **A young woman recalls letting a white boy in high school call her the N-word and 'my little slave baby' while she called him master, only to learn she was a joke among his friends.** — Desperate for validation from the oppressor. Envy thou not the oppressor and choose none of his ways.
-- *[[56:09](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3369s)]* **A retired athlete's co-host says that for a hundred million dollars you can have his soul.** — That is a dangerous man, and he only said aloud what most Black celebrities, rappers and singers think. What shall it profit a man to gain the whole world and lose his soul? They give up their bodies to Amalek to receive.
-- *[[59:31](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3571s)]* **A woman on Clubhouse says she supports aborting Black male babies because the community's problems come from male pathology.** — Brothers, the women whose minds are captured are not on your team. There are Black women who follow every anti-family, anti-boy slogan of the far left.
-- *[[1:05:16](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3916s)]* **A white minister crowns Eddie Long, declaring him raised from a commoner to kingship while holding the microphone and directing the ceremony.** — Even with the Black pastor on the throne, the white man holds the mic and is in charge. And what does 'no longer a commoner' say about everyone else in that church? Eddie Long later flew boys out of the country.
-- *[[1:08:04](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4084s)]* **Jamal Bryant publicly scolds a grandmother who brought twelve hundred dollars to his thousand-dollar seed line for not listening; in another clip he describes his past relationships as a sprinkling of everything, men and women, and wanting to lie down next to somebody; a young man has since accused him of twelve years of sexual abuse.** — This is cold pimping, and he is teaching Black people. Notice he never says a woman, only somebody.
-- *[[1:11:56](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4316s)]* **Pastor James David Manning says that if Jesus is Black, heaven is a ghetto, and that without the white man we would all be dead.** — Uncle Ruckus in the flesh. These leaders have the Black community in chaos.
-- *[[1:12:42](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4362s)]* **Jamal Bryant defends his wife's skin-toned dress at a fundraiser, calling critics petty and small-minded; his wife says there is no manual for being a bishop's wife and that she is multidimensional.** — There is a manual: it is called the Bible, which says a woman should dress modestly. When checked, he doubled down instead of repenting, which is the example his congregants follow when we tell them on the street to repent.
-- *[[1:18:23](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4703s)]* **Jamal Bryant preaching that eighty-five percent of Jesus's life he was out of order.** — That is blasphemy, and not one Black Christian got up and walked out.
-
 ## Scriptures Opened
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[6:18](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=378s)]*
@@ -114,6 +98,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion", "unity"
 
 - Separate the northern kingdom from the southern, hand them Christianity, Islam, Nile Valley science or Buddhism, but never let one rise up and say you are the children of Israel. See what happened to Kyrie Irving, Nick Cannon and Ice Cube when they did.
 
+
+*[[16:21](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=981s)]* **In The News: The Epstein files released over the last several days, implicating the kings of the earth in evil with children, blood and worse.** — These are the kings of the earth of Psalm 2 who set themselves against the Lord and his anointed. Prince Andrew, Trump and Clinton walk free where we would be under the jail, and they are against the purple and gold, which makes every one of us a target.
 
 **[Isaiah 22:17-18](/bible/isaiah/22#v17)**  *[[20:30](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=1230s)]*
 
@@ -200,6 +186,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion", "unity"
 - The crafty counsel was to put us in chains, split us into Jamaican, Haitian and American, hand us different religions, and now FBA, foundational Black Americans who hate the other eleven tribes instead of the Esau who took their identity. Come, let us cut them off from being a nation, that the name of Israel may be no more in remembrance.
 
 
+*[[42:26](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2546s)]* **In The News: A pastor preaching from the barber's chair mid-haircut.** — That is the Black pastor today: soft, sweet and squishy, and he is leading people. The leaders of this people cause them to err.
+
 **[Isaiah 9:16](/bible/isaiah/9#v16)**  *[[44:23](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2663s)]*
 
 > <sup>[16](/bible/isaiah/9#v16)</sup> For the leaders of this people cause them to err; and they that are led of them are destroyed.
@@ -258,6 +246,28 @@ Reading from a write-up on Dum Diversas, on the screen  *[[1:01:59](https://www.
 - Christians! Christians did this to us, y'all. Now we revel in it. Now we reverence them. Now we follow their laws and their ways of life.
 
 </div>
+
+*[[48:34](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2914s)]* **In The News: Images of Black conservatives at Trump's inauguration, the Diamond and Silk duo, and Kanye West, alongside the AI video Trump posted of the Obamas as monkeys.** — Now we love the people who enslaved us. Kanye knew what these people were, which is why you cannot trust all Black or Hispanic people; they will sell you out.
+
+*[[50:24](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3024s)]* **In The News: A Black Christian asked whether he claims Black people answers that he is a Christian first and that Black is a construct.** — Tell the white man Black is a construct. He put your ancestors in chains and did not do it to his own; it was not a construct then.
+
+*[[51:26](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3086s)]* **In The News: A Black man says he loads his gun every day for Black people, not white or Mexican men; and a comparison of Antoine Daniels berating a Black man to his face while asking a white man's permission to speak.** — We turn up on each other and show teeth and mercy to other races. That is the fruit of Christian love.
+
+*[[53:36](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3216s)]* **In The News: A young woman recalls letting a white boy in high school call her the N-word and 'my little slave baby' while she called him master, only to learn she was a joke among his friends.** — Desperate for validation from the oppressor. Envy thou not the oppressor and choose none of his ways.
+
+*[[56:09](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3369s)]* **In The News: A retired athlete's co-host says that for a hundred million dollars you can have his soul.** — That is a dangerous man, and he only said aloud what most Black celebrities, rappers and singers think. What shall it profit a man to gain the whole world and lose his soul? They give up their bodies to Amalek to receive.
+
+*[[59:31](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3571s)]* **In The News: A woman on Clubhouse says she supports aborting Black male babies because the community's problems come from male pathology.** — Brothers, the women whose minds are captured are not on your team. There are Black women who follow every anti-family, anti-boy slogan of the far left.
+
+*[[1:05:16](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=3916s)]* **In The News: A white minister crowns Eddie Long, declaring him raised from a commoner to kingship while holding the microphone and directing the ceremony.** — Even with the Black pastor on the throne, the white man holds the mic and is in charge. And what does 'no longer a commoner' say about everyone else in that church? Eddie Long later flew boys out of the country.
+
+*[[1:08:04](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4084s)]* **In The News: Jamal Bryant publicly scolds a grandmother who brought twelve hundred dollars to his thousand-dollar seed line for not listening; in another clip he describes his past relationships as a sprinkling of everything, men and women, and wanting to lie down next to somebody; a young man has since accused him of twelve years of sexual abuse.** — This is cold pimping, and he is teaching Black people. Notice he never says a woman, only somebody.
+
+*[[1:11:56](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4316s)]* **In The News: Pastor James David Manning says that if Jesus is Black, heaven is a ghetto, and that without the white man we would all be dead.** — Uncle Ruckus in the flesh. These leaders have the Black community in chaos.
+
+*[[1:12:42](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4362s)]* **In The News: Jamal Bryant defends his wife's skin-toned dress at a fundraiser, calling critics petty and small-minded; his wife says there is no manual for being a bishop's wife and that she is multidimensional.** — There is a manual: it is called the Bible, which says a woman should dress modestly. When checked, he doubled down instead of repenting, which is the example his congregants follow when we tell them on the street to repent.
+
+*[[1:18:23](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4703s)]* **In The News: Jamal Bryant preaching that eighty-five percent of Jesus's life he was out of order.** — That is blasphemy, and not one Black Christian got up and walked out.
 
 **[Numbers 16:1-35](/bible/numbers/16#v1)**  *[[1:19:24](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=4764s)]*
 

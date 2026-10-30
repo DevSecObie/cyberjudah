@@ -20,20 +20,6 @@ tags: ["IUIC in the ClassRoom", "false-religion", "nations", "repentance", "sata
 
 *[[2:21](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=141s)]* Battle Beyond Radio Show, hosted by Captain Joel with Officer Amaziah, Officer Ezekiel and the brothers, on a church in Kenya that welcomes LGBTQ worshippers. First, proof from the Red Sea slave trade that Israelites are still in East Africa. Then the BBC's report on the discreet Nairobi church and the Cosmopolitan Affirming Community: the white man's hand reaches all the way to Kenya, and the seed the missionaries planted in colonization is bearing fruit.
 
-## In The News
-
-- *[[31:50](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=1910s)]* **A video of the Cosmopolitan Affirming Community (CAC), the first LGBT church in Kenya, at worship: "when we started in 2013 we did not know how to read the Bible, so we would listen to gospel music"** — Glory, glory: just like the damn Christian church, just a different denomination. They didn't know how to read the Bible, so they went about to establish their own righteousness. That's how you know gospel music is a joke.
-- *[[40:34](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=2434s)]* **Kenya's penal code: homosexuality punishable by 5 to 14 years in prison; a petition to repeal it, and homosexuality illegal in 34 other African countries** — "God loves you for who you are": they just want to feel good.
-- *[[50:58](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=3058s)]* **A Ugandan refugee in Kenya: as a child people harassed me for being girly and said I was shaming my parents, so I went to find my life** — They were right. They copy and paste whatever America does. As a parent, when you see your child doing that, take that spirit out immediately. And the life he went to find is a wedding dress.
-- *[[1:12:26](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=4346s)]* **The co-founder of a network supporting LGBT refugees: in our network we have pastors and religious leaders** — Who's sponsoring the videos in a country where it's illegal? They've got power behind them: the so-called white man sponsors them, flies them to London and America, to influence the young generation.
-- *[[1:16:14](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=4574s)]* **An HIV-positive member: God loves me despite that, it's not a crime to get HIV** — Instead of telling them stop fornicating, they educate them about HIV and give them a pill. Your actions are why you got it. God is angry with the wicked every day (Psalm 7:11), and love is that we walk after his commandments (2 John 1:6).
-- *[[1:31:42](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=5502s)]* **A woman pastor: they feared I'd take their wives, but I love the gospel, I have the call** — Who called you? The devil is recruiting.
-- *[[1:38:22](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=5902s)]* **A CAC leader: "we take the Bible very seriously, but we just don't take it literally"** — That means they read the Bible but don't do what it says: that's your Christian church. Having a form of godliness, but denying the power thereof.
-- *[[1:47:42](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=6462s)]* **"I am actually gay because God made me this way; God is the architect of my gay"** — God made man upright, but they have sought out many inventions.
-- *[[1:50:15](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=6615s)]* **A member: back in our grandparents' day, even ladies should not wear trousers** — Back in the day our people had a sense of law. God's laws are spiritual: when women switched from dresses to pants, it planted a masculine spirit.
-- *[[1:51:46](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=6706s)]* **Pictures of the missionaries in Africa and the white Jesus they left behind** — They took away the people's beliefs and gave them another Jesus, another spirit and another gospel, and their fathers and mothers died before that happened.
-- *[[1:59:51](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=7191s)]* **IUIC's Insight in Tongues camp in Kenya teaching our people who they are** — If you're in Kenya, reach out to them, fellowship, and learn who you are.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -135,6 +121,8 @@ Reading from A BBC article: Kenya's discreet church set up to welcome LGBT worsh
 - And such were some of you, but ye are washed: to everybody in Kenya in this lifestyle, it's not too late to repent. A lot of people who did that folly changed and started keeping God's laws.
 
 
+*[[31:50](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=1910s)]* **In The News: A video of the Cosmopolitan Affirming Community (CAC), the first LGBT church in Kenya, at worship: "when we started in 2013 we did not know how to read the Bible, so we would listen to gospel music"** — Glory, glory: just like the damn Christian church, just a different denomination. They didn't know how to read the Bible, so they went about to establish their own righteousness. That's how you know gospel music is a joke.
+
 **[Romans 10:3](/bible/romans/10#v3)**  *[[35:24](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=2124s)]*
 
 > <sup>[3](/bible/romans/10#v3)</sup> For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.
@@ -149,6 +137,8 @@ Reading from A BBC article: Kenya's discreet church set up to welcome LGBT worsh
 - They hate him that rebuketh in the gate, and abhor him that speaketh uprightly: so they look for scriptures to affirm what their lust wants.
 
 
+*[[40:34](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=2434s)]* **In The News: Kenya's penal code: homosexuality punishable by 5 to 14 years in prison; a petition to repeal it, and homosexuality illegal in 34 other African countries** — "God loves you for who you are": they just want to feel good.
+
 **[Amos 7:12](/bible/amos/7#v12)**  *[[42:20](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=2540s)]*
 
 > <sup>[12](/bible/amos/7#v12)</sup> Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:
@@ -162,6 +152,8 @@ Reading from A BBC article: Kenya's discreet church set up to welcome LGBT worsh
 
 - Thou art unto them as a very lovely song: they hear thy words, but they do them not. In their church they play music and go home; nobody is correcting anybody.
 
+
+*[[50:58](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=3058s)]* **In The News: A Ugandan refugee in Kenya: as a child people harassed me for being girly and said I was shaming my parents, so I went to find my life** — They were right. They copy and paste whatever America does. As a parent, when you see your child doing that, take that spirit out immediately. And the life he went to find is a wedding dress.
 
 **[Isaiah 30:9](/bible/isaiah/30#v9)**  *[[54:34](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=3274s)]*
 
@@ -255,12 +247,16 @@ Reading from A BBC article: Kenya's discreet church set up to welcome LGBT worsh
 - So I gave them up unto their own hearts' lust, and they walked in their own counsels: because they don't want discipline or instruction.
 
 
+*[[1:12:26](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=4346s)]* **In The News: The co-founder of a network supporting LGBT refugees: in our network we have pastors and religious leaders** — Who's sponsoring the videos in a country where it's illegal? They've got power behind them: the so-called white man sponsors them, flies them to London and America, to influence the young generation.
+
 **[Jude 1:7](/bible/jude/1#v7)**  *[[1:14:39](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=4479s)]*
 
 > <sup>[7](/bible/jude/1#v7)</sup> Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 
 - An officer: they do it under the guise of Christianity and forget God destroyed a whole city for these acts. Sodom and Gomorrah are set forth for an example, suffering the vengeance of eternal fire. They have no teachers, and the God they serve isn't the God of this Bible. That's the strong delusion.
 
+
+*[[1:16:14](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=4574s)]* **In The News: An HIV-positive member: God loves me despite that, it's not a crime to get HIV** — Instead of telling them stop fornicating, they educate them about HIV and give them a pill. Your actions are why you got it. God is angry with the wicked every day (Psalm 7:11), and love is that we walk after his commandments (2 John 1:6).
 
 **[Deuteronomy 23:17](/bible/deuteronomy/23#v17)**  *[[1:17:44](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=4664s)]*
 
@@ -276,6 +272,8 @@ Reading from A BBC article: Kenya's discreet church set up to welcome LGBT worsh
 - Then shall they be in pitiful case which now have abused my ways: people of Kenya, Liberia, Ghana, Ethiopia, Malawi, Somalia, Cameroon, Zimbabwe, South Africa, we have to repent. The Jews fled Roman persecution in 70 AD into Africa. Being gay in Kenya in 2023 is abusing God's ways. You have liberty to change now; if you despise it, you will know it after death, by pain.
 
 
+*[[1:31:42](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=5502s)]* **In The News: A woman pastor: they feared I'd take their wives, but I love the gospel, I have the call** — Who called you? The devil is recruiting.
+
 **[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[1:31:42](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=5502s)]*
 
 > <sup>[4](/bible/2-corinthians/11#v4)</sup> For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
@@ -289,6 +287,8 @@ Reading from A BBC article: Kenya's discreet church set up to welcome LGBT worsh
 
 - "I felt a kind of love I never got in church": every evil flesh consorts with its own kind. Ye have not so learned Christ: since they began in Christianity they never learned him.
 
+
+*[[1:38:22](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=5902s)]* **In The News: A CAC leader: "we take the Bible very seriously, but we just don't take it literally"** — That means they read the Bible but don't do what it says: that's your Christian church. Having a form of godliness, but denying the power thereof.
 
 **[Luke 6:46](/bible/luke/6#v46)**  *[[1:38:22](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=5902s)]*
 
@@ -331,6 +331,12 @@ Reading from A BBC article: Kenya's discreet church set up to welcome LGBT worsh
 - Neither spared he the place where Lot sojourned, but abhorred them for their pride: a gay person says God doesn't hate me, but he abhorred them. He pitied not the people of perdition, who were taken away in their sins.
 
 
+*[[1:47:42](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=6462s)]* **In The News: "I am actually gay because God made me this way; God is the architect of my gay"** — God made man upright, but they have sought out many inventions.
+
+*[[1:50:15](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=6615s)]* **In The News: A member: back in our grandparents' day, even ladies should not wear trousers** — Back in the day our people had a sense of law. God's laws are spiritual: when women switched from dresses to pants, it planted a masculine spirit.
+
+*[[1:51:46](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=6706s)]* **In The News: Pictures of the missionaries in Africa and the white Jesus they left behind** — They took away the people's beliefs and gave them another Jesus, another spirit and another gospel, and their fathers and mothers died before that happened.
+
 **[Revelation 16:13](/bible/revelation/16#v13)**  *[[1:53:35](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=6815s)]*
 
 > <sup>[13](/bible/revelation/16#v13)</sup> And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
@@ -344,6 +350,8 @@ Reading from A BBC article: Kenya's discreet church set up to welcome LGBT worsh
 
 - A pale horse, and his name that sat on him was Death, and Hell followed with him: that's the so-called white man. Stay away from his traditions and religion. The earth is given into the hand of the wicked (Job 9:24).
 
+
+*[[1:59:51](https://www.youtube.com/watch?v=eGFv-F2RqFo&t=7191s)]* **In The News: IUIC's Insight in Tongues camp in Kenya teaching our people who they are** — If you're in Kenya, reach out to them, fellowship, and learn who you are.
 
 ## In Closing
 

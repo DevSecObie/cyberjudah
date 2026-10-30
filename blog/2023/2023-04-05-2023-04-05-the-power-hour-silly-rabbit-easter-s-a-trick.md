@@ -20,19 +20,6 @@ tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts",
 
 *[[8:43](https://www.youtube.com/watch?v=u7iigNNZq0s&t=523s)]* The Power Hour Plus, filled in by the officers of IUIC Austin for IUIC Phoenix the day before the New Moon: Easter is a trick. The world's Easter isn't in the Bible; it's a tradition of men with pagan roots in Ishtar, Asherah and the groves our forefathers were commanded to cut down. Christ kept the Passover, not eggs and bunnies, and the Passover is the feast of our freedom: keep it, and stop being a silly rabbit.
 
-## In The News
-
-- *[[28:28](https://www.youtube.com/watch?v=u7iigNNZq0s&t=1708s)]* **"Easter tradition: beasts burnt in rare Mexican ritual": every Easter in Santa Rosa, near Mexico City, families like the 140-strong Espinosa clan spend months building fire-spewing demon figures (shimos), parade them, and burn them to kill the evil of the past year** — They look just like Moloch, and it was started by a woman and passed to the children.
-- *[[38:53](https://www.youtube.com/watch?v=u7iigNNZq0s&t=2333s)]* **Article "The ancient pagan origins of Easter": Easter follows the first full moon after the March equinox; it was "never a pagan festival" but has pagan roots; Unger's Bible Dictionary says the word is Saxon, from the goddess of spring; Dr. Tony Nugent traces the story to the Sumerian legend of Tammuz and Inanna-Ishtar's descent to the underworld** — They argue over which demon created it.
-- *[[54:30](https://www.youtube.com/watch?v=u7iigNNZq0s&t=3270s)]* **The Zondervan Pictorial Encyclopedia of the Bible on Asherah: the KJV usually renders it grove; a goddess of the sea, consort of El and mother of gods including Baal; Josiah brought the Asherah out of the temple and burned it** — When it says cut down their groves, it means cut down their idols; Asherah and Ishtar are the same thing.
-- *[[59:54](https://www.youtube.com/watch?v=u7iigNNZq0s&t=3594s)]* **An image of Semiramis, mother and wife of Nimrod: called Ishtar (pronounced Easter), Astarte, Ashtaroth, Isis, Mary in the Catholic church, Guadalupe, Diana of Ephesus and the queen of heaven** — The same deity is Wonder Woman, who our little girls aspire to be.
-- *[[1:03:33](https://www.youtube.com/watch?v=u7iigNNZq0s&t=3813s)]* **Commentaries on "thou shalt not seethe a kid in his mother's milk": a pagan harvest custom of boiling a kid in its mother's milk and sprinkling the broth on fields as a charm; others read it with Leviticus 22:28 and Deuteronomy 22:6 as against cruelty** — It was idolatry we learned from the other nations.
-- *[[1:20:34](https://www.youtube.com/watch?v=u7iigNNZq0s&t=4834s)]* **Bible dictionary entries for grove and Asherah: a Canaanite mother goddess, consort of El, and the wooden cult pole that represented her, worshiped with Baal; 400 prophets of Asherah ate at Jezebel's table** — Everything with these gods centers on sex and fertility. Asherah is Easter; we're digging up the roots.
-- *[[1:26:57](https://www.youtube.com/watch?v=u7iigNNZq0s&t=5217s)]* **Who's Who in the Bible on Asherah and Ashtaroth: the leading goddess of the Canaanites, the female principle of the fertility cult, the 400 prophets of Asherah under Jezebel, and Astarte plaques showing her naked** — It all goes back to feminism and weak men in the Christian church.
-- *[[1:46:35](https://www.youtube.com/watch?v=u7iigNNZq0s&t=6395s)]* **"The origins of the Starbucks goddess logo": the crowned siren resembles Astarte, a Bronze Age goddess of fertility, sexuality and war, also known as a snake goddess** — The Medal of Honor carries Minerva, goddess of war: the same deity under a different name.
-- *[[1:49:36](https://www.youtube.com/watch?v=u7iigNNZq0s&t=6576s)]* **The Encyclopedia of Jewish Religion on Passover: the first of the three pilgrim festivals, commemorating the Exodus from Egypt, also called the Festival of Freedom** — Christ said prepare the Passover; he never mentioned eggs or bunnies.
-- *[[2:00:07](https://www.youtube.com/watch?v=u7iigNNZq0s&t=7207s)]* **A clip from Nacho Libre where Nacho climbs a cliff to eat eagle eggs for power** — That's us believing the lie.
-
 ## Scriptures Opened
 
 **[Colossians 2:8](/bible/colossians/2#v8)**  *[[15:48](https://www.youtube.com/watch?v=u7iigNNZq0s&t=948s)]*
@@ -73,6 +60,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts",
     That ye shall say, It is the sacrifice of the Lord’s passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.
 
 
+*[[28:28](https://www.youtube.com/watch?v=u7iigNNZq0s&t=1708s)]* **In The News: "Easter tradition: beasts burnt in rare Mexican ritual": every Easter in Santa Rosa, near Mexico City, families like the 140-strong Espinosa clan spend months building fire-spewing demon figures (shimos), parade them, and burn them to kill the evil of the past year** — They look just like Moloch, and it was started by a woman and passed to the children.
+
 **[Amos 5:26](/bible/amos/5#v26)**  *[[29:26](https://www.youtube.com/watch?v=u7iigNNZq0s&t=1766s)]*
 
 > <sup>[26](/bible/amos/5#v26)</sup> But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.
@@ -110,6 +99,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts",
 
 - The so-called Mexicans, the tribe of Issachar, were essentially sacrificing to Moloch and leading their children astray. Thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: they do it all in the name of Jesus Christ while sacrificing to other gods.
 
+
+*[[38:53](https://www.youtube.com/watch?v=u7iigNNZq0s&t=2333s)]* **In The News: Article "The ancient pagan origins of Easter": Easter follows the first full moon after the March equinox; it was "never a pagan festival" but has pagan roots; Unger's Bible Dictionary says the word is Saxon, from the goddess of spring; Dr. Tony Nugent traces the story to the Sumerian legend of Tammuz and Inanna-Ishtar's descent to the underworld** — They argue over which demon created it.
 
 **[Luke 22:1](/bible/luke/22#v1)**  *[[39:43](https://www.youtube.com/watch?v=u7iigNNZq0s&t=2383s)]*
 
@@ -189,6 +180,12 @@ tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts",
     The first of the firstfruits of thy land thou shalt bring unto the house of the Lord thy God. Thou shalt not seethe a kid in his mother’s milk.
 
 
+*[[54:30](https://www.youtube.com/watch?v=u7iigNNZq0s&t=3270s)]* **In The News: The Zondervan Pictorial Encyclopedia of the Bible on Asherah: the KJV usually renders it grove; a goddess of the sea, consort of El and mother of gods including Baal; Josiah brought the Asherah out of the temple and burned it** — When it says cut down their groves, it means cut down their idols; Asherah and Ishtar are the same thing.
+
+*[[59:54](https://www.youtube.com/watch?v=u7iigNNZq0s&t=3594s)]* **In The News: An image of Semiramis, mother and wife of Nimrod: called Ishtar (pronounced Easter), Astarte, Ashtaroth, Isis, Mary in the Catholic church, Guadalupe, Diana of Ephesus and the queen of heaven** — The same deity is Wonder Woman, who our little girls aspire to be.
+
+*[[1:03:33](https://www.youtube.com/watch?v=u7iigNNZq0s&t=3813s)]* **In The News: Commentaries on "thou shalt not seethe a kid in his mother's milk": a pagan harvest custom of boiling a kid in its mother's milk and sprinkling the broth on fields as a charm; others read it with Leviticus 22:28 and Deuteronomy 22:6 as against cruelty** — It was idolatry we learned from the other nations.
+
 **[Deuteronomy 28:29](/bible/deuteronomy/28#v29)**  *[[1:08:52](https://www.youtube.com/watch?v=u7iigNNZq0s&t=4132s)]*
 
 > <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
@@ -203,6 +200,10 @@ tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts",
 
     And the Lord shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the Lord sware unto thy fathers to give thee.
 
+
+*[[1:20:34](https://www.youtube.com/watch?v=u7iigNNZq0s&t=4834s)]* **In The News: Bible dictionary entries for grove and Asherah: a Canaanite mother goddess, consort of El, and the wooden cult pole that represented her, worshiped with Baal; 400 prophets of Asherah ate at Jezebel's table** — Everything with these gods centers on sex and fertility. Asherah is Easter; we're digging up the roots.
+
+*[[1:26:57](https://www.youtube.com/watch?v=u7iigNNZq0s&t=5217s)]* **In The News: Who's Who in the Bible on Asherah and Ashtaroth: the leading goddess of the Canaanites, the female principle of the fertility cult, the 400 prophets of Asherah under Jezebel, and Astarte plaques showing her naked** — It all goes back to feminism and weak men in the Christian church.
 
 **[Jeremiah 44:15](/bible/jeremiah/44#v15)**  *[[1:34:06](https://www.youtube.com/watch?v=u7iigNNZq0s&t=5646s)]*
 
@@ -281,6 +282,10 @@ tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts",
 - You won't be blessed while you keep these ungodly customs, like a sister in fornication who wants the pastor and the Bible at her wedding. The idolatry is all around us; we wear it and buy it.
 
 
+*[[1:46:35](https://www.youtube.com/watch?v=u7iigNNZq0s&t=6395s)]* **In The News: "The origins of the Starbucks goddess logo": the crowned siren resembles Astarte, a Bronze Age goddess of fertility, sexuality and war, also known as a snake goddess** — The Medal of Honor carries Minerva, goddess of war: the same deity under a different name.
+
+*[[1:49:36](https://www.youtube.com/watch?v=u7iigNNZq0s&t=6576s)]* **In The News: The Encyclopedia of Jewish Religion on Passover: the first of the three pilgrim festivals, commemorating the Exodus from Egypt, also called the Festival of Freedom** — Christ said prepare the Passover; he never mentioned eggs or bunnies.
+
 **[Luke 1:68](/bible/luke/1#v68)**  *[[1:52:14](https://www.youtube.com/watch?v=u7iigNNZq0s&t=6734s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
@@ -319,6 +324,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "idolatry", "passover-feasts",
 
 - I am not ashamed of the gospel of Christ, for it is the power of God unto salvation, to the Jew first: that's our true power, not the eagle eggs.
 
+
+*[[2:00:07](https://www.youtube.com/watch?v=u7iigNNZq0s&t=7207s)]* **In The News: A clip from Nacho Libre where Nacho climbs a cliff to eat eagle eggs for power** — That's us believing the lie.
 
 ## In Closing
 

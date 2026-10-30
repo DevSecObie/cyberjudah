@@ -19,18 +19,11 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "nations", "prophecy",
 
 *[[3:15](https://www.youtube.com/watch?v=oEsR_0bKJww&t=195s)]* The known and unknown history of the so-called Dominicans and Haitians, the tribes of Simeon and Levi on the island of Hispaniola. He taught it, coming back from the missions to the Dominican Republic, to break the propaganda and revisionist history that keep the two brothers divided, and to call them out of witchcraft and the customs Esau forced on them.
 
-## In The News
-
-- *[[5:24](https://www.youtube.com/watch?v=oEsR_0bKJww&t=324s)]* **Mission 168, the border mission: the Dominican-Haitian border crossing, and a crowd with brand new Dominican flags turning against the brothers after an officer cursed the flag** — Everywhere on the island the people said there is no conflict between them; the division is pushed by the government and the media. And use wisdom when teaching: never curse a people's flag on their own soil.
-- *[[12:20](https://www.youtube.com/watch?v=oEsR_0bKJww&t=740s)]* **Mission 237 in the Dominican Republic, and the radio show Fuego in the morning, where the host had the white Jesus on the wall** — The island is full of idolatry planted by the conquistadors; the show ended in under ten minutes once the image was called the image of the beast.
-- *[[24:30](https://www.youtube.com/watch?v=oEsR_0bKJww&t=1470s)]* **A Dominican voodoo ceremony, and a high priestess explaining 21 Divisions** — 21 Divisions is a branch of voodoo from the Dominican Republic: Simeon practises the same witchcraft Levi is known for.
-- *[[45:49](https://www.youtube.com/watch?v=oEsR_0bKJww&t=2749s)]* **A border-town woman carrying a baby goat and declaring that it is a person** — That is what witchcraft does to our people when they are not keeping God's commandments.
-- *[[53:51](https://www.youtube.com/watch?v=oEsR_0bKJww&t=3231s)]* **A visitor's video of the La Vega carnival with its devil masks** — Our people practise carnival as their own culture, not knowing it was given to them in slavery.
-- *[[1:28:56](https://www.youtube.com/watch?v=oEsR_0bKJww&t=5336s)]* **Scenes from the Toussaint Louverture miniseries: his imprisonment in France and his army defeating the French** — Esau's movie of Napoleon never showed his defeat at the hands of Levi; our people need that imagery of the mighty works of the tribe of Levi.
-- *[[2:13:28](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8008s)]* **A Dominican historian on the names of the island and the Dominican letter asking Haiti for help in the Restoration War** — The whole island was called Haiti; the name Quisqueya was taken up to cut the island in half, and the Dominicans themselves wrote that we all live on the island of Haiti.
-- *[[2:27:29](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8849s)]* **A video comparing ICE shooting a Dominican man in the Bronx with Dominican authorities killing a Haitian man, and a news report on the Bronx shooting** — Black people killing black people: if you are angry about the brother in the Bronx you must be angry about the Levi brothers killed by their own brother, because we are the same people.
-
 ## Scriptures Opened
+
+*[[5:24](https://www.youtube.com/watch?v=oEsR_0bKJww&t=324s)]* **In The News: Mission 168, the border mission: the Dominican-Haitian border crossing, and a crowd with brand new Dominican flags turning against the brothers after an officer cursed the flag** — Everywhere on the island the people said there is no conflict between them; the division is pushed by the government and the media. And use wisdom when teaching: never curse a people's flag on their own soil.
+
+*[[12:20](https://www.youtube.com/watch?v=oEsR_0bKJww&t=740s)]* **In The News: Mission 237 in the Dominican Republic, and the radio show Fuego in the morning, where the host had the white Jesus on the wall** — The island is full of idolatry planted by the conquistadors; the show ended in under ten minutes once the image was called the image of the beast.
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[16:16](https://www.youtube.com/watch?v=oEsR_0bKJww&t=976s)]*
 
@@ -219,6 +212,12 @@ Reading from a definition of carnival  *[[57:46](https://www.youtube.com/watch?v
 - Bacchus. Social reversal: idolatry, fornication, and feasting.
 
 </div>
+
+*[[24:30](https://www.youtube.com/watch?v=oEsR_0bKJww&t=1470s)]* **In The News: A Dominican voodoo ceremony, and a high priestess explaining 21 Divisions** — 21 Divisions is a branch of voodoo from the Dominican Republic: Simeon practises the same witchcraft Levi is known for.
+
+*[[45:49](https://www.youtube.com/watch?v=oEsR_0bKJww&t=2749s)]* **In The News: A border-town woman carrying a baby goat and declaring that it is a person** — That is what witchcraft does to our people when they are not keeping God's commandments.
+
+*[[53:51](https://www.youtube.com/watch?v=oEsR_0bKJww&t=3231s)]* **In The News: A visitor's video of the La Vega carnival with its devil masks** — Our people practise carnival as their own culture, not knowing it was given to them in slavery.
 
 **[2 Maccabees 6:6-9](/bible/2-maccabees/6#v6)**  *[[1:02:28](https://www.youtube.com/watch?v=oEsR_0bKJww&t=3748s)]*
 
@@ -472,6 +471,8 @@ Reading from Toussaint Louverture's proclamation of 1801  *[[1:39:32](https://ww
 - So he still was believing in the French Republic. That was his downfall.
 
 </div>
+
+*[[1:28:56](https://www.youtube.com/watch?v=oEsR_0bKJww&t=5336s)]* **In The News: Scenes from the Toussaint Louverture miniseries: his imprisonment in France and his army defeating the French** — Esau's movie of Napoleon never showed his defeat at the hands of Levi; our people need that imagery of the mighty works of the tribe of Levi.
 
 **[Sirach 12:10](/bible/sirach/12#v10)**  *[[1:40:34](https://www.youtube.com/watch?v=oEsR_0bKJww&t=6034s)]*
 
@@ -900,6 +901,10 @@ Reading from an answer from artificial intelligence on what unifies a people  *[
 - That's what's going to put internal differences aside.
 
 </div>
+
+*[[2:13:28](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8008s)]* **In The News: A Dominican historian on the names of the island and the Dominican letter asking Haiti for help in the Restoration War** — The whole island was called Haiti; the name Quisqueya was taken up to cut the island in half, and the Dominicans themselves wrote that we all live on the island of Haiti.
+
+*[[2:27:29](https://www.youtube.com/watch?v=oEsR_0bKJww&t=8849s)]* **In The News: A video comparing ICE shooting a Dominican man in the Bronx with Dominican authorities killing a Haitian man, and a news report on the Bronx shooting** — Black people killing black people: if you are angry about the brother in the Bronx you must be angry about the Levi brothers killed by their own brother, because we are the same people.
 
 **[Job 36:15](/bible/job/36#v15)**  *[[2:36:31](https://www.youtube.com/watch?v=oEsR_0bKJww&t=9391s)]*
 

@@ -19,18 +19,9 @@ tags: ["IUIC in the ClassRoom", "christ", "edom-esau", "the-americas"]
 
 *[[6:34](https://www.youtube.com/watch?v=uXeqc75txGk&t=394s)]* Captain Zephaniah asks why so many so-called Latinos voted for Donald Trump, then watched ICE come for their own families. He answers from the scriptures. Esau is a nation of fierce countenance that spares no one who looks like Israel. The Latinos are Israelites, the Ladinos or Latinized Negroes of Portuguese history. Asher's blessing of children, oil and iron fits South America. Lamentations 5 describes their captivity, and Esau, the red and hairy hunter who lives by the sword, is the predator in the title. He is the man of sin now being revealed, and he will be broken without hand when Christ returns.
 
-## In The News
-
-- *[[7:38](https://www.youtube.com/watch?v=uXeqc75txGk&t=458s)]* **A young man is shown bruised after an arrest for lacking immigration papers, and ICE agents hold a five-year-old girl while demanding her parents' identification.** — Deuteronomy 28:50 describes a nation of fierce countenance that shows no favour to the young. Perfect English and military service will not save anyone from it.
-- *[[12:35](https://www.youtube.com/watch?v=uXeqc75txGk&t=755s)]* **A commentator tells Latino Trump voters they voted their own families out, and describes a proud Cuban janitor in New Jersey who was reported at work and deported.** — They thought only the dark-skinned would be taken. Whatever the shade, Latinos are under the same curse as their brethren.
-- *[[27:31](https://www.youtube.com/watch?v=uXeqc75txGk&t=1651s)]* **A Cuban Trump supporter from Florida is deported to Eswatini in Africa and goes on hunger strike; a young Salvadoran in a MAGA hat says his own parents should have been deported.** — Those who hate their own people are like the ungodly men of 1 Maccabees 11:21. A red hat will never lift anyone above the condition of their people.
-- *[[41:09](https://www.youtube.com/watch?v=uXeqc75txGk&t=2469s)]* **A historical article explains that Portuguese kings exiled Iberian Hebrews to Africa in the 1490s, where the Ladinos, or Latinized Negroes, became the first slaves on sugar plantations.** — The name Latino is a racist term for scattered Israelites. The history of deportation to Africa is repeating.
-- *[[52:48](https://www.youtube.com/watch?v=uXeqc75txGk&t=3168s)]* **An uncontacted Amazon tribe is shown, and a Venezuelan worker stands in crude oil to explain his country's wealth.** — Asher is blessed with children, dips his foot in oil, and his shoes are iron, as Brazil's name comes from the Hebrew for iron. The brethren must reach them.
-- *[[57:54](https://www.youtube.com/watch?v=uXeqc75txGk&t=3474s)]* **Chicago's mayor refuses to call immigrants illegal aliens, saying the legal term for his people was once slaves.** — In Lamentations 5:2 the aliens are the strangers who took Israel's houses. Israel are the natives of these lands, not the aliens.
-- *[[1:26:16](https://www.youtube.com/watch?v=uXeqc75txGk&t=5176s)]* **Reports warn Latin America after the seizure of Venezuela's president; Trump signals Cuba will fall once its oil is cut off, and the White House calls the hemisphere its own.** — The Monroe Doctrine claimed the fourth part of the world. Esau plunders as in war and kills with the sword and with hunger.
-- *[[1:50:34](https://www.youtube.com/watch?v=uXeqc75txGk&t=6634s)]* **A report says Israel's government set aside large sums for public campaigns to repair its image after two years of televised killing in Gaza.** — The man of sin is being revealed. No amount of money can cover it.
-
 ## Scriptures Opened
+
+*[[7:38](https://www.youtube.com/watch?v=uXeqc75txGk&t=458s)]* **In The News: A young man is shown bruised after an arrest for lacking immigration papers, and ICE agents hold a five-year-old girl while demanding her parents' identification.** — Deuteronomy 28:50 describes a nation of fierce countenance that shows no favour to the young. Perfect English and military service will not save anyone from it.
 
 **[Deuteronomy 28:50](/bible/deuteronomy/28#v50)**  *[[9:21](https://www.youtube.com/watch?v=uXeqc75txGk&t=561s)]*
 
@@ -40,6 +31,8 @@ tags: ["IUIC in the ClassRoom", "christ", "edom-esau", "the-americas"]
 
 - A tour in the military, a pension and perfect English will never lift anyone above the condition of their people.
 
+
+*[[12:35](https://www.youtube.com/watch?v=uXeqc75txGk&t=755s)]* **In The News: A commentator tells Latino Trump voters they voted their own families out, and describes a proud Cuban janitor in New Jersey who was reported at work and deported.** — They thought only the dark-skinned would be taken. Whatever the shade, Latinos are under the same curse as their brethren.
 
 **[Jeremiah 50:33](/bible/jeremiah/50#v33)**  *[[15:06](https://www.youtube.com/watch?v=uXeqc75txGk&t=906s)]*
 
@@ -74,6 +67,8 @@ tags: ["IUIC in the ClassRoom", "christ", "edom-esau", "the-americas"]
 - Many will be jailed or put to death for this word, but no one saves himself by betraying his people.
 
 
+*[[27:31](https://www.youtube.com/watch?v=uXeqc75txGk&t=1651s)]* **In The News: A Cuban Trump supporter from Florida is deported to Eswatini in Africa and goes on hunger strike; a young Salvadoran in a MAGA hat says his own parents should have been deported.** — Those who hate their own people are like the ungodly men of 1 Maccabees 11:21. A red hat will never lift anyone above the condition of their people.
+
 **[Daniel 9:7](/bible/daniel/9#v7)**  *[[31:23](https://www.youtube.com/watch?v=uXeqc75txGk&t=1883s)]*
 
 > <sup>[7](/bible/daniel/9#v7)</sup> O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.
@@ -99,6 +94,8 @@ tags: ["IUIC in the ClassRoom", "christ", "edom-esau", "the-americas"]
 
     Because iniquity shall abound, the love of many shall wax cold.
 
+
+*[[41:09](https://www.youtube.com/watch?v=uXeqc75txGk&t=2469s)]* **In The News: A historical article explains that Portuguese kings exiled Iberian Hebrews to Africa in the 1490s, where the Ladinos, or Latinized Negroes, became the first slaves on sugar plantations.** — The name Latino is a racist term for scattered Israelites. The history of deportation to Africa is repeating.
 
 **[Deuteronomy 28:37](/bible/deuteronomy/28#v37)**  *[[45:48](https://www.youtube.com/watch?v=uXeqc75txGk&t=2748s)]*
 
@@ -127,6 +124,10 @@ tags: ["IUIC in the ClassRoom", "christ", "edom-esau", "the-americas"]
 
     Thy shoes shall be iron and brass; and as thy days, so shall thy strength be.
 
+
+*[[52:48](https://www.youtube.com/watch?v=uXeqc75txGk&t=3168s)]* **In The News: An uncontacted Amazon tribe is shown, and a Venezuelan worker stands in crude oil to explain his country's wealth.** — Asher is blessed with children, dips his foot in oil, and his shoes are iron, as Brazil's name comes from the Hebrew for iron. The brethren must reach them.
+
+*[[57:54](https://www.youtube.com/watch?v=uXeqc75txGk&t=3474s)]* **In The News: Chicago's mayor refuses to call immigrants illegal aliens, saying the legal term for his people was once slaves.** — In Lamentations 5:2 the aliens are the strangers who took Israel's houses. Israel are the natives of these lands, not the aliens.
 
 **[Lamentations 5:1](/bible/lamentations/5#v1)**  *[[58:42](https://www.youtube.com/watch?v=uXeqc75txGk&t=3522s)]*
 
@@ -213,6 +214,8 @@ tags: ["IUIC in the ClassRoom", "christ", "edom-esau", "the-americas"]
     Thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
 
 
+*[[1:26:16](https://www.youtube.com/watch?v=uXeqc75txGk&t=5176s)]* **In The News: Reports warn Latin America after the seizure of Venezuela's president; Trump signals Cuba will fall once its oil is cut off, and the White House calls the hemisphere its own.** — The Monroe Doctrine claimed the fourth part of the world. Esau plunders as in war and kills with the sword and with hunger.
+
 **[Genesis 25:25](/bible/genesis/25#v25)**  *[[1:30:33](https://www.youtube.com/watch?v=uXeqc75txGk&t=5433s)]*
 
 > <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
@@ -268,6 +271,8 @@ tags: ["IUIC in the ClassRoom", "christ", "edom-esau", "the-americas"]
 
     All whose names are not written in the book of life shall worship him.
 
+
+*[[1:50:34](https://www.youtube.com/watch?v=uXeqc75txGk&t=6634s)]* **In The News: A report says Israel's government set aside large sums for public campaigns to repair its image after two years of televised killing in Gaza.** — The man of sin is being revealed. No amount of money can cover it.
 
 **[2 Thessalonians 2:8](/bible/2-thessalonians/2#v8)**  *[[1:54:47](https://www.youtube.com/watch?v=uXeqc75txGk&t=6887s)]*
 

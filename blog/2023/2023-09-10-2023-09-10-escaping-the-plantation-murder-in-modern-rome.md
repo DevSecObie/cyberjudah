@@ -20,13 +20,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome"]
 
 *[[0:13](https://www.youtube.com/watch?v=58nrMF7P3W4&t=13s)]* Escaping the Plantation, IUIC Raleigh, on murder in modern Rome: a world in decay and decadence, moral decline through excessive indulgence in pleasure and luxury. Esau, the fourth beast, reigns only because Christ allows it. The racist shooting at a Jacksonville Dollar General shows his perpetual hatred. America, the beast with two horns like a lamb, exercises the power of Rome and is falling the same way Rome did: economic troubles, slave labor and oppression of the poor, from the stranger rising above us here to the cobalt mines of the Congo.
 
-## In The News
-
-- *[[3:35](https://www.youtube.com/watch?v=58nrMF7P3W4&t=215s)]* **A sister called the show about four years ago: she taught her son to steal when he was young because they were poor, and he ended up in prison and wouldn't hear the truth from her** — This word helps people's lives. If we don't stop what we're doing, the Most High will punish our nation further, and this time there's no slavery: you'll burn.
-- *[[11:20](https://www.youtube.com/watch?v=58nrMF7P3W4&t=680s)]* **News: a white man in a bulletproof vest and mask, with an AR-15 style rifle painted with swastikas, killed two black men and a black woman at a Dollar General in Jacksonville, Florida, and left racist writings; the report notes a video game tournament shooting five years earlier** — Did they just try to blame this on a video game? If it had been a brother of IUIC it would be all over the news. We have to say at the start of every show that we are not a hate group and don't teach violence, yet we're listed among the top hate groups, while none of the Christian leaders say anything.
-- *[[24:24](https://www.youtube.com/watch?v=58nrMF7P3W4&t=1464s)]* **Article: the eight reasons why Rome fell, starting with economic troubles and over-reliance on slave labor: constant wars, overspending, oppressive taxation, inflation widening the gap between rich and poor, and a labor deficit when conquest stopped supplying slaves** — The same thing is going on in America: a hundred thousand dollars doesn't go anywhere now, there's no middle class, EBT was cut for millions while billion-dollar stadiums go up, and the money isn't backed by anything. Rome always had slaves, and the same is happening now.
-- *[[37:28](https://www.youtube.com/watch?v=58nrMF7P3W4&t=2248s)]* **Interview clip: a researcher, the first outsider into the Shabara industrial cobalt mine in the Congo, says more than 15,000 people dig by hand there at the bottom of the supply chain for phones and electric cars** — Be appreciative of what you have. Our brothers and sisters in the Democratic Republic of Congo are exposed to chemicals with no protection and don't know if they'll be paid that day, and that's where your phone and your Tesla come from. They oppress a man and his heritage, like Rome did.
-
 ## Scriptures Opened
 
 **[Sirach 19:5](/bible/sirach/19#v5)**  *[[1:41](https://www.youtube.com/watch?v=58nrMF7P3W4&t=101s)]*
@@ -35,6 +28,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome"]
 
 - Decadence: moral or cultural decline characterized by excessive indulgence in pleasure or luxury, and that's happening to the United States and every place on earth. Its synonyms: degeneracy, debauchery, corruption, depravity, vice, sinfulness, perversion, immorality, lack of self-control. It's the absence of God's laws. Whoso taketh pleasure in wickedness shall be condemned: that's you, urban apologetics, with your Christmas trees, saying you don't teach lawlessness while you don't teach the dietary law. He that resisteth pleasures crowneth his life: that's when you know you're a king, and you sisters know you're princesses.
 
+
+*[[3:35](https://www.youtube.com/watch?v=58nrMF7P3W4&t=215s)]* **In The News: A sister called the show about four years ago: she taught her son to steal when he was young because they were poor, and he ended up in prison and wouldn't hear the truth from her** — This word helps people's lives. If we don't stop what we're doing, the Most High will punish our nation further, and this time there's no slavery: you'll burn.
 
 **[1 Timothy 5:6](/bible/1-timothy/5#v6)**  *[[5:38](https://www.youtube.com/watch?v=58nrMF7P3W4&t=338s)]*
 
@@ -63,6 +58,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome"]
 - Christ is making the so-called white man so prideful that when he shows up they'll pull out guns and bulletproof vests thinking they can stand against the Son of God. Esau is the end of the world: the fourth beast is Esau, Edom, for you apologetics too scared to tell the white man he's the devil. When Esau's world ends and Jacob's begins, no more hunger, thirst or poverty.
 
 
+*[[11:20](https://www.youtube.com/watch?v=58nrMF7P3W4&t=680s)]* **In The News: News: a white man in a bulletproof vest and mask, with an AR-15 style rifle painted with swastikas, killed two black men and a black woman at a Dollar General in Jacksonville, Florida, and left racist writings; the report notes a video game tournament shooting five years earlier** — Did they just try to blame this on a video game? If it had been a brother of IUIC it would be all over the news. We have to say at the start of every show that we are not a hate group and don't teach violence, yet we're listed among the top hate groups, while none of the Christian leaders say anything.
+
 **[Ezekiel 35:5](/bible/ezekiel/35#v5)**  *[[14:54](https://www.youtube.com/watch?v=58nrMF7P3W4&t=894s)]*
 
 > <sup>[5](/bible/ezekiel/35#v5)</sup> Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
@@ -82,6 +79,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome"]
 
     And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
 
+
+*[[24:24](https://www.youtube.com/watch?v=58nrMF7P3W4&t=1464s)]* **In The News: Article: the eight reasons why Rome fell, starting with economic troubles and over-reliance on slave labor: constant wars, overspending, oppressive taxation, inflation widening the gap between rich and poor, and a labor deficit when conquest stopped supplying slaves** — The same thing is going on in America: a hundred thousand dollars doesn't go anywhere now, there's no middle class, EBT was cut for millions while billion-dollar stadiums go up, and the money isn't backed by anything. Rome always had slaves, and the same is happening now.
 
 **[Deuteronomy 28:43](/bible/deuteronomy/28#v43)**  *[[29:35](https://www.youtube.com/watch?v=58nrMF7P3W4&t=1775s)]*
 
@@ -108,6 +107,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome"]
 
     And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.
 
+
+*[[37:28](https://www.youtube.com/watch?v=58nrMF7P3W4&t=2248s)]* **In The News: Interview clip: a researcher, the first outsider into the Shabara industrial cobalt mine in the Congo, says more than 15,000 people dig by hand there at the bottom of the supply chain for phones and electric cars** — Be appreciative of what you have. Our brothers and sisters in the Democratic Republic of Congo are exposed to chemicals with no protection and don't know if they'll be paid that day, and that's where your phone and your Tesla come from. They oppress a man and his heritage, like Rome did.
 
 **[Proverbs 14:31](/bible/proverbs/14#v31)**  *[[40:32](https://www.youtube.com/watch?v=58nrMF7P3W4&t=2432s)]*
 

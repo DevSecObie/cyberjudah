@@ -19,22 +19,11 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 
 *[[11:30](https://www.youtube.com/watch?v=C25twRrhOd0&t=690s)]* The God of War and Salvation, taught two weeks into the war with Iran with Captain Book and other captains at the table: everything on the news is prophecy and the sign of our salvation, and Israel must accept the bloodshed that comes with it. The new Ayatollah has the Punisher's mindset after his family was killed, the nations are confederate against the twelve tribes, the Lord gives men and nations for our ransom and is a man of war, and we are not standing with any of them. The rest is how Israel must move: not troubled by wars and rumours of wars, prepared for famine, faithful unto death when the devil casts some into prison, gathered with the believers with all things common, charitable like Tobit, ready like Rahab to hide the prophets, and holding wisdom's chains as a robe of honour.
 
-## In The News
-
-- *[[13:55](https://www.youtube.com/watch?v=C25twRrhOd0&t=835s)]* **Iran's state media on the daughter and grandchild of Khamenei killed in the American and Israeli strikes, and the face of the new supreme leader** — America destroys nations and creates enemies with nothing to lose; the old Ayatollah stayed home to be a martyr, and the new one has the face of vengeance.
-- *[[17:34](https://www.youtube.com/watch?v=C25twRrhOd0&t=1054s)]* **The Punisher mindset: after his family is murdered he loses all attachment to the system, replaces grief with purpose, becomes judge, jury and executioner, and has nothing left to lose** — That is why Iran stopped negotiating after being bombed during talks; a man in the rage of vengeance takes no ransom, and Esau is too proud to give up the Middle East.
-- *[[35:07](https://www.youtube.com/watch?v=C25twRrhOd0&t=2107s)]* **The new supreme leader's three demands at thirty-day increments: American forces out of the region, every sanction since 1979 lifted, and eight hundred billion in reparations, or the strait closes, Russian and Chinese bases open in Iran and a nuclear deterrent is deployed** — America will never meet them, so it goes to war; and it is really about the petrodollar and America's dominance of the world economy, not nuclear weapons. Ten-thousand-dollar drones against million-dollar missiles bankrupts America.
-- *[[47:55](https://www.youtube.com/watch?v=C25twRrhOd0&t=2875s)]* **Fuel restrictions by licence plate and the fuel crisis in the Philippines and the countries that depend on the Strait of Hormuz** — Do not think a wave on the other side of the earth will not reach us; that mindset is ignorance of the destruction that comes with our salvation.
-- *[[1:03:17](https://www.youtube.com/watch?v=C25twRrhOd0&t=3797s)]* **A white man sends his pet lizard's saliva to 23andMe and it comes back fifty-one per cent Ashkenazi Jewish and forty-eight per cent West Asian** — White hands did it, so believe it: a lizard is not the Jew, and nobody can use DNA testing to prove who the twelve tribes are.
-- *[[1:16:36](https://www.youtube.com/watch?v=C25twRrhOd0&t=4596s)]* **A woman on a panel answering a man who says Iran hates our freedoms: America overthrew Mosaddegh for BP's oil and imposed the Shah for twenty-six years** — She destroyed that Edomite; that is why the caterpillars are here.
-- *[[1:18:53](https://www.youtube.com/watch?v=C25twRrhOd0&t=4733s)]* **The AI image of the new Ayatollah's face on the Punisher shirt: bring the hat** — In Texas that means bring the judgment. The nations watch us because we are the only ones who can interpret this living book.
-- *[[1:31:54](https://www.youtube.com/watch?v=C25twRrhOd0&t=5514s)]* **Palantir's technology and the video on the Defense Department contract that fell apart over mass surveillance and automated kill technology, with millions uninstalling ChatGPT** — The military uses AI to track you; do not tell AI your personal business, because everything you share is more valuable than what Google took, and it shifts to the kill list.
-- *[[1:36:25](https://www.youtube.com/watch?v=C25twRrhOd0&t=5785s)]* **Google's AI mode calling Nasser's quote that the Jews left black and came back white a fabrication** — It is a true quote you could easily find before AI; AI is being used as a weapon, part of the flood cast out of the serpent's mouth.
-- *[[1:39:24](https://www.youtube.com/watch?v=C25twRrhOd0&t=5964s)]* **Kindness at home is the real test; graciousness saved for strangers is image management** — As we gather together you have to fix your character flaws; endeavour to keep the brotherhood is an enduring word.
-- *[[1:44:06](https://www.youtube.com/watch?v=C25twRrhOd0&t=6246s)]* **Pay attention to those who push you toward hard things, and the study that friends who roast each other are three hundred per cent more honest and loyal** — We need correction, admonishment and counsel among each other, and you cannot take it personally.
-- *[[1:59:17](https://www.youtube.com/watch?v=C25twRrhOd0&t=7157s)]* **I don't have a favourite place, I have my favourite people** — Until we get our homeland back we are pilgrims with no favourite place, and our favourite people are the faithful who keep the commandments.
-
 ## Scriptures Opened
+
+*[[13:55](https://www.youtube.com/watch?v=C25twRrhOd0&t=835s)]* **In The News: Iran's state media on the daughter and grandchild of Khamenei killed in the American and Israeli strikes, and the face of the new supreme leader** — America destroys nations and creates enemies with nothing to lose; the old Ayatollah stayed home to be a martyr, and the new one has the face of vengeance.
+
+*[[17:34](https://www.youtube.com/watch?v=C25twRrhOd0&t=1054s)]* **In The News: The Punisher mindset: after his family is murdered he loses all attachment to the system, replaces grief with purpose, becomes judge, jury and executioner, and has nothing left to lose** — That is why Iran stopped negotiating after being bombed during talks; a man in the rage of vengeance takes no ransom, and Esau is too proud to give up the Middle East.
 
 **[Psalms 83:2-7](/bible/psalms/83#v2)**  *[[20:53](https://www.youtube.com/watch?v=C25twRrhOd0&t=1253s)]*
 
@@ -103,6 +92,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
     Children are their oppressors and women rule over them: only Israel has that problem, so my people is Israel.
 
 
+*[[35:07](https://www.youtube.com/watch?v=C25twRrhOd0&t=2107s)]* **In The News: The new supreme leader's three demands at thirty-day increments: American forces out of the region, every sanction since 1979 lifted, and eight hundred billion in reparations, or the strait closes, Russian and Chinese bases open in Iran and a nuclear deterrent is deployed** — America will never meet them, so it goes to war; and it is really about the petrodollar and America's dominance of the world economy, not nuclear weapons. Ten-thousand-dollar drones against million-dollar missiles bankrupts America.
+
 **[Exodus 15:3-7](/bible/exodus/15#v3)**  *[[40:47](https://www.youtube.com/watch?v=C25twRrhOd0&t=2447s)]*
 
 > <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
@@ -133,6 +124,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 
     O thou that dwellest upon many waters, abundant in treasures, thine end is come: America will not step down or meet the demands, so the Lord fills her with men as with caterpillars, the wild and crazy ones.
 
+
+*[[47:55](https://www.youtube.com/watch?v=C25twRrhOd0&t=2875s)]* **In The News: Fuel restrictions by licence plate and the fuel crisis in the Philippines and the countries that depend on the Strait of Hormuz** — Do not think a wave on the other side of the earth will not reach us; that mindset is ignorance of the destruction that comes with our salvation.
 
 **[Matthew 24:4-10](/bible/matthew/24#v4)**  *[[48:47](https://www.youtube.com/watch?v=C25twRrhOd0&t=2927s)]*
 
@@ -183,6 +176,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
     His hair like wool and his feet like brass: Christ is a black man, a man of colour.
 
 
+*[[1:03:17](https://www.youtube.com/watch?v=C25twRrhOd0&t=3797s)]* **In The News: A white man sends his pet lizard's saliva to 23andMe and it comes back fifty-one per cent Ashkenazi Jewish and forty-eight per cent West Asian** — White hands did it, so believe it: a lizard is not the Jew, and nobody can use DNA testing to prove who the twelve tribes are.
+
 **[Revelation 2:9-11](/bible/revelation/2#v9)**  *[[1:06:01](https://www.youtube.com/watch?v=C25twRrhOd0&t=3961s)]*
 
 > <sup>[9](/bible/revelation/2#v9)</sup> I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
@@ -209,6 +204,10 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 
     Present your bodies a living sacrifice: every prophet who goes out to teach does, as John on Patmos and James beheaded did; we are the true martyrs.
 
+
+*[[1:16:36](https://www.youtube.com/watch?v=C25twRrhOd0&t=4596s)]* **In The News: A woman on a panel answering a man who says Iran hates our freedoms: America overthrew Mosaddegh for BP's oil and imposed the Shah for twenty-six years** — She destroyed that Edomite; that is why the caterpillars are here.
+
+*[[1:18:53](https://www.youtube.com/watch?v=C25twRrhOd0&t=4733s)]* **In The News: The AI image of the new Ayatollah's face on the Punisher shirt: bring the hat** — In Texas that means bring the judgment. The nations watch us because we are the only ones who can interpret this living book.
 
 **[Baruch 3:1-11](/bible/baruch/3#v1)**  *[[1:19:48](https://www.youtube.com/watch?v=C25twRrhOd0&t=4788s)]*
 
@@ -281,6 +280,12 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
     Oh that I had in the wilderness a lodging place, that I might leave my people, for they be all adulterers: separate from the unbelievers and set up a righteous underground railroad for believers, selfless instead of selfish.
 
 
+*[[1:31:54](https://www.youtube.com/watch?v=C25twRrhOd0&t=5514s)]* **In The News: Palantir's technology and the video on the Defense Department contract that fell apart over mass surveillance and automated kill technology, with millions uninstalling ChatGPT** — The military uses AI to track you; do not tell AI your personal business, because everything you share is more valuable than what Google took, and it shifts to the kill list.
+
+*[[1:36:25](https://www.youtube.com/watch?v=C25twRrhOd0&t=5785s)]* **In The News: Google's AI mode calling Nasser's quote that the Jews left black and came back white a fabrication** — It is a true quote you could easily find before AI; AI is being used as a weapon, part of the flood cast out of the serpent's mouth.
+
+*[[1:39:24](https://www.youtube.com/watch?v=C25twRrhOd0&t=5964s)]* **In The News: Kindness at home is the real test; graciousness saved for strangers is image management** — As we gather together you have to fix your character flaws; endeavour to keep the brotherhood is an enduring word.
+
 **[Zephaniah 2:1](/bible/zephaniah/2#v1)**  *[[1:41:36](https://www.youtube.com/watch?v=C25twRrhOd0&t=6096s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
@@ -297,6 +302,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 
     Thou shalt rebuke thy neighbour and not suffer sin upon him: a brother in sin may get the rough talk, and it is love to put him back in the righteous mindset.
 
+
+*[[1:44:06](https://www.youtube.com/watch?v=C25twRrhOd0&t=6246s)]* **In The News: Pay attention to those who push you toward hard things, and the study that friends who roast each other are three hundred per cent more honest and loyal** — We need correction, admonishment and counsel among each other, and you cannot take it personally.
 
 **[Tobit 2:1-6](/bible/tobit/2#v1)**  *[[1:46:45](https://www.youtube.com/watch?v=C25twRrhOd0&t=6405s)]*
 
@@ -375,6 +382,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-ameri
 
     Of thy people was accepted both the salvation of the righteous and the destruction of the enemies: do not be scared when your enemies' blood is shed, even if some splatters on you.
 
+
+*[[1:59:17](https://www.youtube.com/watch?v=C25twRrhOd0&t=7157s)]* **In The News: I don't have a favourite place, I have my favourite people** — Until we get our homeland back we are pilgrims with no favourite place, and our favourite people are the faithful who keep the commandments.
 
 **[Sirach 6:23-36](/bible/sirach/6#v23)**  *[[2:00:06](https://www.youtube.com/watch?v=C25twRrhOd0&t=7206s)]*
 

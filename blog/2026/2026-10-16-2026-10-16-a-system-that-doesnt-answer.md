@@ -19,13 +19,6 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 
 *[[1:19](https://www.youtube.com/watch?v=qMrKDkyjDho&t=79s)]* Shalom, Most High in Christ bless. I'm Officer Hezekiah, in the studio on 93.5 FM with Officer John and Soldier Elias, and good to see Mr. Steven again. Today's topic: a system that doesn't answer. That's loaded. There is a lot of injustice and evil happening, a lot of killing on both ends, and we are going to touch it according to the Bible. But the first thing is about us as the people of God, the Israelites: we must know why these things are happening in our community.
 
-## In The News
-
-- *[[46:41](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2801s)]* **Family says 22-year-old man shot, killed by Sampson County deputies after he called 911 for a mental health crisis** — Shawn West Jr. was released from the hospital on a Thursday with suicidal thoughts, went to the Dollar General market in Faison and called 911 for help. Two deputies shot him; a neighbor heard twenty or more shots; the deputies were put on administrative leave; the family has not been allowed to see the body, and the autopsy may take several months. Sampson County is the redneck countryside, and the neighbor who said this doesn't happen in the country forgot Sonya Massey, shot in the head in her own home after she called for help. When the cause of death is plain, what is a months-long autopsy for? Are you trying to hide something?
-- *[[1:18:43](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4723s)]* **Three arrested in the Thelma Street shooting in Raleigh** — A 27-year-old man killed after a fight; three young people charged, all of them our people, northern and southern kingdom together. A neighbor of forty years said shootings there are no longer shocking but expected. That's desensitized. The council member's answer is mental health, homelessness and the police department. You've tried voting, the police and the church. You never tried the Bible.
-- *[[1:26:41](https://www.youtube.com/watch?v=qMrKDkyjDho&t=5201s)]* **Ice Cube on the music industry** — The same people who own the labels own the private prisons. Records are made by committee, with guard rails on what gets through: the record company tells the artist this is hot, say that.
-- *[[1:49:42](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6582s)]* **"Woe" by Original Royalty** — Woe means destruction, and that is what is coming on the nations.
-
 ## Scriptures Opened
 
 
@@ -284,6 +277,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 
 - Even wood and stone: Wood is the Christian symbol, the wooden cross, the biggest religion our people are in. We learned it in chains, by force; whatever your slave master was, you were. Stone is the Kaaba stone of Islam, the second biggest. Those two have destroyed our people for centuries. The white man forced Christianity on us and the Arabs forced Islam on us; Mecca was a slave port.
 
+*[[46:41](https://www.youtube.com/watch?v=qMrKDkyjDho&t=2801s)]* **In The News: Family says 22-year-old man shot, killed by Sampson County deputies after he called 911 for a mental health crisis** — Shawn West Jr. was released from the hospital on a Thursday with suicidal thoughts, went to the Dollar General market in Faison and called 911 for help. Two deputies shot him; a neighbor heard twenty or more shots; the deputies were put on administrative leave; the family has not been allowed to see the body, and the autopsy may take several months. Sampson County is the redneck countryside, and the neighbor who said this doesn't happen in the country forgot Sonya Massey, shot in the head in her own home after she called for help. When the cause of death is plain, what is a months-long autopsy for? Are you trying to hide something?
+
 **[Lamentations 4:17-19](/bible/lamentations/4#v17)**  *[[57:08](https://www.youtube.com/watch?v=qMrKDkyjDho&t=3428s)]*
 
 > <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
@@ -352,6 +347,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 
 - **Officer John:** We were never included in this law system. The preamble says we the people of the United States, and outside the window of the room it was written in were slaves on the plantation. We are denizens, not citizens. And Juneteenth: they didn't tell them for two years that they were free.
 
+*[[1:18:43](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4723s)]* **In The News: Three arrested in the Thelma Street shooting in Raleigh** — A 27-year-old man killed after a fight; three young people charged, all of them our people, northern and southern kingdom together. A neighbor of forty years said shootings there are no longer shocking but expected. That's desensitized. The council member's answer is mental health, homelessness and the police department. You've tried voting, the police and the church. You never tried the Bible.
+
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:19:26](https://www.youtube.com/watch?v=qMrKDkyjDho&t=4766s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
@@ -371,6 +368,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 - Be not deceived: evil communications corrupt good manners: Why are our kids doing this? The music industry to prison pipeline. Evil communications are the music: trap music, then drill music telling literal murder stories. You wonder why Raleigh is getting shot up, and you introduce your children to it.
 
 - Esau owns the music industry, and it leads to prison. Bobby Shmurda performed his murder songs before a room of white executives at Epic Records. Kanye's New Slaves: the DEA teamed up with the CCA, trying to lock us up and make new slaves. That's the privately owned prison. Beyond Scared Straight did not work. Private prisons are paid for heads in beds, and one sued the state of Alabama for not keeping it ninety percent full. School to prison, music to prison, Christianity to prison: it's all business, to keep us in the prison and their money growing.
+
+*[[1:26:41](https://www.youtube.com/watch?v=qMrKDkyjDho&t=5201s)]* **In The News: Ice Cube on the music industry** — The same people who own the labels own the private prisons. Records are made by committee, with guard rails on what gets through: the record company tells the artist this is hot, say that.
 
 **[Psalms 64:6](/bible/psalms/64#v6)**  *[[1:38:05](https://www.youtube.com/watch?v=qMrKDkyjDho&t=5885s)]*
 
@@ -423,6 +422,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "justice", "mental-h
 - And they are hid in prison houses: That's where we are, in prison houses all over the world. In Guyana you take a boat to an island to reach a prison, with another prison behind it because the first is full.
 
 - They are for a prey, and none delivereth; for a spoil, and none saith, Restore: The only ones saying restore are the Israelites, because Christ commanded us to. You blacks, Hispanics and Native Americans are the true biblical Israelites, and the so-called whites, Ishmael, the Arabs, the Chinese and Japanese will all be judged for what they did.
+
+*[[1:49:42](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6582s)]* **In The News: "Woe" by Original Royalty** — Woe means destruction, and that is what is coming on the nations.
 
 **[Revelation 13:10](/bible/revelation/13#v10)**  *[[1:54:10](https://www.youtube.com/watch?v=qMrKDkyjDho&t=6850s)]*
 

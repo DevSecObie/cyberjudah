@@ -19,11 +19,6 @@ tags: ["IUIC in the ClassRoom", "anger", "love", "mercy"]
 
 *[[8:50](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=530s)]* Part two of the Dividing Hatred series, following the class on Cornelius the centurion. A deacon, with Deacon Malachi beside him, works through the stumbling block that Romans 11 has become in Israel: who the Gentiles, the strangers and the wild olive tree really are. The class starts from the command to love your brother, traces how Ephraim became 'not a people' in Hosea and Isaiah, shows the builders appointed to reject the stone so Christ could die for both houses, and ends in Ephesians 2, where the aliens and strangers who were far off are made nigh and the two are made one new man.
 
-## In The News
-
-- *[[2:18:21](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=8301s)]* **Muhammad Ali on ten thousand rattlesnakes coming to bite him with a thousand good ones among them that all look alike: should he open the door hoping the good thousand save him, or shut it?** — That man was a Muslim with more sense than the Israelites trying to save the nations. Leaders of camps whose allegiance is to the other nations show it over time.
-- *[[2:38:38](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=9518s)]* **A grower cuts a slot in an olive tree and binds a branch from another olive tree into it.** — That is literal grafting: the northern kingdom cut back into the tree and growing out of it again, which is Ezekiel 37:22 and Hosea 1:10. You can only graft olive into olive, not a mango into an olive; the branches are the same kind.
-
 ## Scriptures Opened
 
 **[Genesis 28:13-14](/bible/genesis/28#v13)**  *[[12:57](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=777s)]*
@@ -596,6 +591,8 @@ tags: ["IUIC in the ClassRoom", "anger", "love", "mercy"]
     When the Jews saw the multitudes they were filled with envy. Paul said it was necessary the word should first be spoken to you, but seeing ye put it from you, lo, we turn to the Gentiles. Paul went to the northern kingdom, not the Arabs or the Chinese.
 
 
+*[[2:18:21](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=8301s)]* **In The News: Muhammad Ali on ten thousand rattlesnakes coming to bite him with a thousand good ones among them that all look alike: should he open the door hoping the good thousand save him, or shut it?** — That man was a Muslim with more sense than the Israelites trying to save the nations. Leaders of camps whose allegiance is to the other nations show it over time.
+
 **[Romans 11:16-32](/bible/romans/11#v16)**  *[[2:31:41](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=9101s)]*
 
 > <sup>[16](/bible/romans/11#v16)</sup> For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches.
@@ -664,6 +661,8 @@ tags: ["IUIC in the ClassRoom", "anger", "love", "mercy"]
 
     The Lord called thy name a green olive tree; he hath kindled fire upon it and the branches of it are broken, for the evil of the house of Israel and of the house of Judah.
 
+
+*[[2:38:38](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=9518s)]* **In The News: A grower cuts a slot in an olive tree and binds a branch from another olive tree into it.** — That is literal grafting: the northern kingdom cut back into the tree and growing out of it again, which is Ezekiel 37:22 and Hosea 1:10. You can only graft olive into olive, not a mango into an olive; the branches are the same kind.
 
 **[Ephesians 2:1-22](/bible/ephesians/2#v1)**  *[[2:53:51](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=10431s)]*
 

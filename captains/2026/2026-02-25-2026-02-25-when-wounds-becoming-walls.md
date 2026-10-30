@@ -19,11 +19,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "wisdom"]
 
 *[[0:12](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=12s)]* Shalom Israel. Most High and Christ bless. This is IUIC King City. This is another 15 minutes with the captains. Today we going to talk about when wounds become walls. When wounds become walls. I want to start in Proverbs 18 and 19, just to help brothers and sisters out with that woe is me spirit and how to get over it and conquer it.
 
-## In The News
-
-- *[[12:39](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=759s)]* **On-screen article: "US build-up of warships and fighter jets tracked near Iran."** — Listen, the US is literally about to attack Iran. And we've been reading about the Carmanians, we've been reading about the dragons of Arabia, week in and week out. They moving all these warships strategically all around Iran. All around Iran, you got a damn aircraft carrier air wing, three destroyers. In the Red Sea, you got destroyers. In the Jordans, you got fighter jets deployed. This is billions of dollars of operation that they're surrounding Iran.
-- *[[14:52](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=892s)]* **On-screen article: "Major US naval air build-up sets stage for potential Iran war."** — This is going on in real time. But we in our feelings. We can't get over a correction. We can't get over offenses. And this is going on right before your eyes, man.
-
 ## Scriptures Opened
 
 **[Proverbs 18:19](/bible/proverbs/18#v19)**  *[[0:36](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=36s)]*
@@ -129,6 +124,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "wisdom"]
 
 - Also the Carmanians raging in wrath shall go forth as the wild boars of the wood: the Iranians. This is what's going on.
 
+
+*[[12:39](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=759s)]* **In The News: On-screen article: "US build-up of warships and fighter jets tracked near Iran."** — Listen, the US is literally about to attack Iran. And we've been reading about the Carmanians, we've been reading about the dragons of Arabia, week in and week out. They moving all these warships strategically all around Iran. All around Iran, you got a damn aircraft carrier air wing, three destroyers. In the Red Sea, you got destroyers. In the Jordans, you got fighter jets deployed. This is billions of dollars of operation that they're surrounding Iran.
+
+*[[14:52](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=892s)]* **In The News: On-screen article: "Major US naval air build-up sets stage for potential Iran war."** — This is going on in real time. But we in our feelings. We can't get over a correction. We can't get over offenses. And this is going on right before your eyes, man.
 
 **[Proverbs 21:30](/bible/proverbs/21#v30)**  *[[15:17](https://www.youtube.com/watch?v=Qn7omLEQfHQ&t=917s)]*
 

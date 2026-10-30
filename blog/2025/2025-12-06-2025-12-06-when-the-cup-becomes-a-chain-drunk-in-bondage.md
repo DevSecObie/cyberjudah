@@ -19,23 +19,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 
 *[[7:26](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=446s)]* Alcohol, and the comfort we go to it for. He had been watching the camp's classes on alcoholism and saw that they get the fewest views of anything in the library, because our people do not watch what holds them accountable -- so he taught it again as a self-evaluation: where the comfort is supposed to come from, what the scriptures call drunkenness, the four stages of alcoholism and what moderation actually means. The cup becomes a chain when it is the thing you reach for to keep from feeling what you have been through.
 
-## In The News
-
-- *[[29:48](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=1788s)]* **The class thumbnail: "I can't keep doing this. I got to stop. But I just can't."** — He played it after asking why we use alcohol for comfort. He wanted the why, not the habit.
-- *[[32:09](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=1929s)]* **Stage one of an alcoholism stages chart, the pre-alcoholic stage: drinking socially but beginning to use alcohol for relief of stress, sleep and anxiety; tolerance gradually increasing; reaching for alcohol after a stressful day; drinking more than peers but still appearing normal; thinking about alcohol often and using it as a coping mechanism** — Many of us fall into one of these stages. You may not be stage four, but you may be at the beginning of stage one. I had a stressful day, I deserve this bottle, I deserve getting a buzz -- that is the behaviour.
-- *[[34:07](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2047s)]* **Stage two, the early prodromal stage: blackouts begin; loss of control over how much once drinking starts; drinking alone or secretly; hiding bottles or lying about intake; drinking before events to pre-game; guilt or shame after drinking** — Now you go through instances where you do not remember what you did. And in order to be yourself you have to be intoxicated -- it is not even yourself, it is what you want to be. That liquid courage has you talking to everybody in the club: you know you are a two, but the alcohol has you feeling like a ten.
-- *[[36:39](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2199s)]* **Stage three, the middle crucial stage: dependence becomes physical and psychological; withdrawal without alcohol; drinking early in the day; missing work; making excuses to drink; failed attempts to quit; drinking becomes a priority over responsibilities** — Your responsibilities are not just the house, they are spiritual. Reading your Bible is a responsibility, fasting and praying is a responsibility, and now everything runs through whether you can drink: if I fast I cannot drink, so there is no point sitting down with the Bible -- the Bible is a buzz kill. That is the mind of a drunk.
-- *[[41:20](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2480s)]* **Stage four, the late chronic stage: serious physical and mental damage; drinking to function, not to get drunk; drinking in the morning to stop the shaking; neglecting hygiene, nutrition and responsibilities; loss of interest in everything except alcohol** — Now you are a functioning alcoholic, up at six and in bed at eleven and drinking the whole time, a pint or a fifth a day. You are fasting while you sleep, so your body goes through withdrawal and you wake up with the shakes. And nothing interests you: not the Bible, not the school, not the camp, not the blitzes, not your wife, not your husband. People who stop coming to the school -- do not put it past them.
-- *[[49:50](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2990s)]* **The dictionary entry for alcoholism: a chronic, progressive, potentially fatal disorder marked by excessive and usually compulsive drinking, leading to psychological and physical dependence or addiction, typically characterised by the inability to control drinking** — Potentially fatal: cirrhosis of the liver, DUIs. You think you are a functioning alcoholic who can drive. It does not matter how well you walk and how well you talk -- you blow over the limit and you are going to jail.
-- *[[53:59](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=3239s)]* **The dictionary entry for a chain: a series of links used for support, restraint or the transmission of power; something that confines, restrains or secures** — That is the class. When the cup becomes a chain you cannot break from it. That is what a chain does: it confines and it restrains.
-- *[[1:04:44](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=3884s)]* **An article on the ten most common causes of alcoholism: family history, drinking from an early age, mental health disorders, a stressful environment, taking alcohol with medication, peer pressure, frequent consumption over time, trauma including childhood, domestic and sexual abuse, and a lack of family supervision** — These are the issues our people are dealing with, and they come into the truth carrying them. A lot of us did not drink out in the world, we smoked -- so we came in, had to stop smoking, saw everybody drinking, and replaced the weed with liquor. We replaced the pills, the crack, the fentanyl and even the medication with liquor.
-- *[[1:11:15](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4275s)]* **The same article on preventing alcoholism: observe how people feel before they drink, because people try to drink away their problems and negative feelings, and it will only temporarily ease their pain** — What is causing you to drink? How do you feel before you drink? That is what has to be cured, and only temporarily easing the pain is not curing it.
-- *[[1:12:05](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4325s)]* **A news segment on White Clay, Nebraska -- a town of twenty-two people with four liquor stores, a few yards from the dry Pine Ridge Indian Reservation, where alcoholism is put as high as 80 per cent and almost 99 per cent of some thirteen thousand crimes were connected to alcohol** — The nations are making billions off us not being able to find solutions to our problems. We have been to that reservation and the people say there is nothing to do but drink. Our land was stolen, drink. Our chiefs were murdered, drink. Our women were stolen and raped, drink. And when I drink I become the white man -- the robber, the murderer -- and that brings me comfort.
-- *[[1:22:56](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4976s)]* **A clip of a man who had one drink too many stumbling down the street, swaying like a leaf in a hurricane** — That is the man lying on the top of a mast, like you are on a ship in the ocean. And some of you are sitting there right now saying you are good, you do not get drunk.
-- *[[1:27:54](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=5274s)]* **The dictionary entry for moderate: avoiding extremes of behaviour or expression, observing reasonable limits, calm and temperate** — That first one is the one. We put a feeling on moderation instead of a pattern: I am drinking in moderation because I do not get drunk. Moderation involves a pattern of behaviour.
-- *[[1:29:58](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=5398s)]* **An article on alcohol dependence and mental health: anxiety, depression and suicidal feelings develop because heavy drinking interferes with the chemicals the brain needs; it affects your partner, your family and friends, your work and your finances, makes you more aggressive, and using alcohol to improve your mood starts a vicious cycle** — You always see this in the people who are really drunk: anxiety, depression, suicidal thoughts. Now you cannot go to work, or you are at work getting drunk -- you need a shot to get up and go.
-- *[[1:47:21](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=6441s)]* **The entry for an alcogenic environment, or drinking culture: a social setting where drinking alcohol is normalized, encouraged and heavily promoted, with accessibility, affordability, marketing and social pressure** — This is America. You do not even have to go to a bar any more: you can buy a machine, put your tequila, your vodka and your scotch in it, tell it what you want, and it makes your drink.
-
 ## Scriptures Opened
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[9:16](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=556s)]*
@@ -118,6 +101,16 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 - I have to overcome this thing, prove myself to the Lord, and be that example to my brethren.
 
 
+*[[29:48](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=1788s)]* **In The News: The class thumbnail: "I can't keep doing this. I got to stop. But I just can't."** — He played it after asking why we use alcohol for comfort. He wanted the why, not the habit.
+
+*[[32:09](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=1929s)]* **In The News: Stage one of an alcoholism stages chart, the pre-alcoholic stage: drinking socially but beginning to use alcohol for relief of stress, sleep and anxiety; tolerance gradually increasing; reaching for alcohol after a stressful day; drinking more than peers but still appearing normal; thinking about alcohol often and using it as a coping mechanism** — Many of us fall into one of these stages. You may not be stage four, but you may be at the beginning of stage one. I had a stressful day, I deserve this bottle, I deserve getting a buzz -- that is the behaviour.
+
+*[[34:07](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2047s)]* **In The News: Stage two, the early prodromal stage: blackouts begin; loss of control over how much once drinking starts; drinking alone or secretly; hiding bottles or lying about intake; drinking before events to pre-game; guilt or shame after drinking** — Now you go through instances where you do not remember what you did. And in order to be yourself you have to be intoxicated -- it is not even yourself, it is what you want to be. That liquid courage has you talking to everybody in the club: you know you are a two, but the alcohol has you feeling like a ten.
+
+*[[36:39](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2199s)]* **In The News: Stage three, the middle crucial stage: dependence becomes physical and psychological; withdrawal without alcohol; drinking early in the day; missing work; making excuses to drink; failed attempts to quit; drinking becomes a priority over responsibilities** — Your responsibilities are not just the house, they are spiritual. Reading your Bible is a responsibility, fasting and praying is a responsibility, and now everything runs through whether you can drink: if I fast I cannot drink, so there is no point sitting down with the Bible -- the Bible is a buzz kill. That is the mind of a drunk.
+
+*[[41:20](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2480s)]* **In The News: Stage four, the late chronic stage: serious physical and mental damage; drinking to function, not to get drunk; drinking in the morning to stop the shaking; neglecting hygiene, nutrition and responsibilities; loss of interest in everything except alcohol** — Now you are a functioning alcoholic, up at six and in bed at eleven and drinking the whole time, a pint or a fifth a day. You are fasting while you sleep, so your body goes through withdrawal and you wake up with the shakes. And nothing interests you: not the Bible, not the school, not the camp, not the blitzes, not your wife, not your husband. People who stop coming to the school -- do not put it past them.
+
 **[Proverbs 20:1](/bible/proverbs/20#v1)**  *[[46:55](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2815s)]*
 
 > <sup>[1](/bible/proverbs/20#v1)</sup> Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.
@@ -128,6 +121,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 
 - Whosoever is deceived thereby is not wise, so be honest with yourself. Go back through those stages and say, that might be me -- re-evaluate it and reassess it.
 
+
+*[[49:50](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=2990s)]* **In The News: The dictionary entry for alcoholism: a chronic, progressive, potentially fatal disorder marked by excessive and usually compulsive drinking, leading to psychological and physical dependence or addiction, typically characterised by the inability to control drinking** — Potentially fatal: cirrhosis of the liver, DUIs. You think you are a functioning alcoholic who can drive. It does not matter how well you walk and how well you talk -- you blow over the limit and you are going to jail.
+
+*[[53:59](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=3239s)]* **In The News: The dictionary entry for a chain: a series of links used for support, restraint or the transmission of power; something that confines, restrains or secures** — That is the class. When the cup becomes a chain you cannot break from it. That is what a chain does: it confines and it restrains.
 
 **[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[54:49](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=3289s)]*
 
@@ -163,6 +160,12 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 
 - Until he have destroyed thee. Those were literal chains that evolved into mental chains: put the iron on their minds and they will believe they are free and still worship me. The mental chains now are drugs, despair, alcohol, hatred, envy, not knowing your identity and having no purpose. Break a man down mentally and it is twenty times stronger than breaking a bone, because the bone heals.
 
+
+*[[1:04:44](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=3884s)]* **In The News: An article on the ten most common causes of alcoholism: family history, drinking from an early age, mental health disorders, a stressful environment, taking alcohol with medication, peer pressure, frequent consumption over time, trauma including childhood, domestic and sexual abuse, and a lack of family supervision** — These are the issues our people are dealing with, and they come into the truth carrying them. A lot of us did not drink out in the world, we smoked -- so we came in, had to stop smoking, saw everybody drinking, and replaced the weed with liquor. We replaced the pills, the crack, the fentanyl and even the medication with liquor.
+
+*[[1:11:15](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4275s)]* **In The News: The same article on preventing alcoholism: observe how people feel before they drink, because people try to drink away their problems and negative feelings, and it will only temporarily ease their pain** — What is causing you to drink? How do you feel before you drink? That is what has to be cured, and only temporarily easing the pain is not curing it.
+
+*[[1:12:05](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4325s)]* **In The News: A news segment on White Clay, Nebraska -- a town of twenty-two people with four liquor stores, a few yards from the dry Pine Ridge Indian Reservation, where alcoholism is put as high as 80 per cent and almost 99 per cent of some thirteen thousand crimes were connected to alcohol** — The nations are making billions off us not being able to find solutions to our problems. We have been to that reservation and the people say there is nothing to do but drink. Our land was stolen, drink. Our chiefs were murdered, drink. Our women were stolen and raped, drink. And when I drink I become the white man -- the robber, the murderer -- and that brings me comfort.
 
 **[Proverbs 31:6-7](/bible/proverbs/31#v6)**  *[[1:16:10](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4570s)]*
 
@@ -212,6 +215,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 
 - Thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast. The mast is the top of a ship, the part that holds the sail -- that is the swaying and the stumbling of a man who has had one too many.
 
+
+*[[1:22:56](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4976s)]* **In The News: A clip of a man who had one drink too many stumbling down the street, swaying like a leaf in a hurricane** — That is the man lying on the top of a mast, like you are on a ship in the ocean. And some of you are sitting there right now saying you are good, you do not get drunk.
 
 **[1 Esdras 3:1-2](/bible/1-esdras/3#v1)**  *[[1:23:42](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=5022s)]*
 
@@ -275,6 +280,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 
 - If there is a pattern behind it, evaluate yourself -- it is drunkenness. You can become an alcohol dependent without ever blacking out. I had to evaluate my own self watching those classes.
 
+
+*[[1:27:54](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=5274s)]* **In The News: The dictionary entry for moderate: avoiding extremes of behaviour or expression, observing reasonable limits, calm and temperate** — That first one is the one. We put a feeling on moderation instead of a pattern: I am drinking in moderation because I do not get drunk. Moderation involves a pattern of behaviour.
+
+*[[1:29:58](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=5398s)]* **In The News: An article on alcohol dependence and mental health: anxiety, depression and suicidal feelings develop because heavy drinking interferes with the chemicals the brain needs; it affects your partner, your family and friends, your work and your finances, makes you more aggressive, and using alcohol to improve your mood starts a vicious cycle** — You always see this in the people who are really drunk: anxiety, depression, suicidal thoughts. Now you cannot go to work, or you are at work getting drunk -- you need a shot to get up and go.
 
 **[Sirach 30:23](/bible/sirach/30#v23)**  *[[1:31:24](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=5484s)]*
 
@@ -367,6 +376,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 
 - But be ye transformed by the renewing of your mind. We have to be transformed, become a new man and a new woman, and that happens in the mind.
 
+
+*[[1:47:21](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=6441s)]* **In The News: The entry for an alcogenic environment, or drinking culture: a social setting where drinking alcohol is normalized, encouraged and heavily promoted, with accessibility, affordability, marketing and social pressure** — This is America. You do not even have to go to a bar any more: you can buy a machine, put your tequila, your vodka and your scotch in it, tell it what you want, and it makes your drink.
 
 **[Luke 21:34](/bible/luke/21#v34)**  *[[1:49:04](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=6544s)]*
 

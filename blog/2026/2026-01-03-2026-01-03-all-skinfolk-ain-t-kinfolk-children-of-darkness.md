@@ -19,14 +19,6 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
 
 *[[8:37](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=517s)]* The title means that not everyone who shares Israel's skin shares its spirit. Paul grieved for his kinsmen according to the flesh, yet many Israelites will not make it. Some have a house-servant spirit that wants the enemy to share in Israel's salvation and fights for the heathen to rule over them. The class follows the pattern from the adversaries who tried to join the temple building to the ungodly Israelites of the Maccabees, the Herodians and the rulers who said 'we have no king but Caesar.' It closes with Christ's warnings that many are called but few chosen, and that the builders who rejected the stone will be ground to powder.
 
-## In The News
-
-- *[[22:11](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=1331s)]* **A film scene in which a Black businessman who wants to build his own community is told by the Italian families that they will take half.** — Whenever Israel tries to build for itself, Esau demands a share or destroys it, as with Seneca Village and Black Bottom.
-- *[[35:31](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=2131s)]* **A scene from Judas and the Black Messiah in which the FBI tells its informant that killing Fred Hampton works better than jailing him.** — The FBI neutralized movements through informants inside. The same spirit mocks Israel today.
-- *[[48:52](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=2932s)]* **A film scene in which a house servant boasts that he eats the master's food and calls the field workers victims, and another in which white men say they must raise the smart Black man among them to neutralize his racial anger.** — Creature comforts turn Israelites into the enemy's tools. Except for his colour, he has become one of them.
-- *[[1:36:48](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=5808s)]* **A scene from 12 Years a Slave in which a captive who wanted to fight is killed while the others keep silent.** — The apologetics who defend the master are the same spirit today.
-- *[[1:40:59](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=6059s)]* **An explainer on the Herodians, Jews who supported Herod and Roman rule for political stability.** — Today's Herodians are athletes, entertainers and content creators who side with the oppressor for money and mock Israel.
-
 ## Scriptures Opened
 
 **[Romans 9:3](/bible/romans/9#v3)**  *[[10:24](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=624s)]*
@@ -53,6 +45,8 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
     By their secret plots and popular persuasions and commotions they hindered the finishing of the building.
 
 
+*[[22:11](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=1331s)]* **In The News: A film scene in which a Black businessman who wants to build his own community is told by the Italian families that they will take half.** — Whenever Israel tries to build for itself, Esau demands a share or destroys it, as with Seneca Village and Black Bottom.
+
 **[Nehemiah 2:10](/bible/nehemiah/2#v10)**  *[[32:34](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=1954s)]*
 
 > <sup>[10](/bible/nehemiah/2#v10)</sup> When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.
@@ -61,6 +55,8 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
 
 - Informants within have always destroyed movements, as when the Black Panthers let others in.
 
+
+*[[35:31](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=2131s)]* **In The News: A scene from Judas and the Black Messiah in which the FBI tells its informant that killing Fred Hampton works better than jailing him.** — The FBI neutralized movements through informants inside. The same spirit mocks Israel today.
 
 **[Nehemiah 9:30](/bible/nehemiah/9#v30)**  *[[37:04](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=2224s)]*
 
@@ -83,6 +79,8 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
 
     The fruit of thy land shall a nation which thou knowest not eat up; thou shalt be mad for the sight of thine eyes.
 
+
+*[[48:52](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=2932s)]* **In The News: A film scene in which a house servant boasts that he eats the master's food and calls the field workers victims, and another in which white men say they must raise the smart Black man among them to neutralize his racial anger.** — Creature comforts turn Israelites into the enemy's tools. Except for his colour, he has become one of them.
 
 **[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[48:52](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=2932s)]*
 
@@ -172,6 +170,8 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
     We have no king but Caesar.
 
 
+*[[1:36:48](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=5808s)]* **In The News: A scene from 12 Years a Slave in which a captive who wanted to fight is killed while the others keep silent.** — The apologetics who defend the master are the same spirit today.
+
 **[Mark 3:6](/bible/mark/3#v6)**  *[[1:40:09](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=6009s)]*
 
 > <sup>[6](/bible/mark/3#v6)</sup> And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.
@@ -188,6 +188,8 @@ tags: ["IUIC in the ClassRoom", "betrayal"]
 
     Ye shall be brought before kings and rulers for my name's sake.
 
+
+*[[1:40:59](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=6059s)]* **In The News: An explainer on the Herodians, Jews who supported Herod and Roman rule for political stability.** — Today's Herodians are athletes, entertainers and content creators who side with the oppressor for money and mock Israel.
 
 **[Isaiah 29:9](/bible/isaiah/29#v9)**  *[[1:52:40](https://www.youtube.com/watch?v=v7JMsDMvuXw&t=6760s)]*
 

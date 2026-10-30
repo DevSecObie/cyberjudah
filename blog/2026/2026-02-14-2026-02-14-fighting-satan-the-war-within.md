@@ -19,14 +19,9 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 
 *[[13:38](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=818s)]* A deacon at the Jersey school opens a promised series on fighting Satan by asking three questions most believers never settle: who are we at war with, what are we fighting, and when did the war begin. Starting from two clips of how churches think Satan is fought, the class traces the war from the envy of the devil in the garden, through Cain and Esau, into the book of Job as the template every believer will live through, and finally to the real front line: the thoughts Satan plants in the mind.
 
-## In The News
-
-- *[[14:36](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=876s)]* **Two social media shorts: a man in a lake of fire demonstrating how to get rid of the devil, and a Christian creeping on the ground to fight Satan.** — This is how the churches and many of our own people picture fighting Satan: throwing water and shouting 'I rebuke you.' None of that is how the war is actually fought.
-- *[[19:52](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=1192s)]* **A viral dance challenge set to a song titled 'Feeling On My Body,' in which the dancers mime eating.** — Young brothers and sisters, including some in the camp, copy this dance without knowing the song is about sex. That is the lust of the eyes at work through social media.
-- *[[56:52](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=3412s)]* **Dictionary definitions of 'Satan' and 'devil' put on screen.** — Satan comes from a Hebrew term meaning adversary, accuser, or opponent. Devil goes to deceiver. Both names apply to the spirit and to his children, who deceive and oppose us on the earth.
-- *[[2:01:10](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=7270s)]* **A skit by a sister in the camp: a husband tells his wife to clean the bathroom, and a voice in her head says 'you going to let him talk to you like that? Does he not see you homeschooling these kids?'** — That voice is Satan. The sister answers it with the word: a soft answer turns away wrath, Proverbs 15:1. Respond, do not react. Crashing out will get you cast out.
-
 ## Scriptures Opened
+
+*[[14:36](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=876s)]* **In The News: Two social media shorts: a man in a lake of fire demonstrating how to get rid of the devil, and a Christian creeping on the ground to fight Satan.** — This is how the churches and many of our own people picture fighting Satan: throwing water and shouting 'I rebuke you.' None of that is how the war is actually fought.
 
 **[1 John 2:15-17](/bible/1-john/2#v15)**  *[[16:14](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=974s)]*
 
@@ -48,6 +43,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 
     The way of an adulterous woman: she eateth, and wipeth her mouth, and saith, I have done no wickedness. The song's line about loving an eater is this same characteristic.
 
+
+*[[19:52](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=1192s)]* **In The News: A viral dance challenge set to a song titled 'Feeling On My Body,' in which the dancers mime eating.** — Young brothers and sisters, including some in the camp, copy this dance without knowing the song is about sex. That is the lust of the eyes at work through social media.
 
 **[2 Timothy 2:2-5](/bible/2-timothy/2#v2)**  *[[23:22](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=1402s)]*
 
@@ -221,6 +218,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 
     Herod the king killed James with the sword and, seeing it pleased the Jews, took Peter also. The devil casting into prison was Rome and Herod, Satan's children.
 
+
+*[[56:52](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=3412s)]* **In The News: Dictionary definitions of 'Satan' and 'devil' put on screen.** — Satan comes from a Hebrew term meaning adversary, accuser, or opponent. Devil goes to deceiver. Both names apply to the spirit and to his children, who deceive and oppose us on the earth.
 
 **[Job 1:1-22](/bible/job/1#v1)**  *[[59:24](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=3564s)]*
 
@@ -458,6 +457,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 
     Why hath Satan filled thine heart to lie to the Holy Ghost? Satan whispers thoughts and puts things in your head that are not there, even 'the deacon does not like you.' Every one of us gets attacked in the mind, the deacon included.
 
+
+*[[2:01:10](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=7270s)]* **In The News: A skit by a sister in the camp: a husband tells his wife to clean the bathroom, and a voice in her head says 'you going to let him talk to you like that? Does he not see you homeschooling these kids?'** — That voice is Satan. The sister answers it with the word: a soft answer turns away wrath, Proverbs 15:1. Respond, do not react. Crashing out will get you cast out.
 
 **[Proverbs 15:1](/bible/proverbs/15#v1)**  *[[2:06:55](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=7615s)]*
 

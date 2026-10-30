@@ -19,25 +19,9 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 
 *[[12:04](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=724s)]* Men Israel, sons of God, patient saints, sons of God. And salute. Salute down. Face sisters. To the honorable daughters of Sarah we say shalom, Most High Christ bless. All praise. Sisters, how are y'all doing this Sabbath? Brothers, how are y'all doing? I pray all of y'all enjoyed the Feast of Tabernacles. I know I did. I had a good time. I mean, the first two days, it was Thursday, Friday before the feast, it was rainy and stormy. We had a hurricane in Hassi. Look at that. Had a hurricane. But by Saturday night, Sunday morning, everything cleared up and it was good the rest of the week. All praise to the Most High. So, we had a great time out there. Great time. Keep in mind, brothers, the thank you is the good thing, but keep in mind the reward is coming from Most High. That's the reward that will never pass away. So, all praise to Messiah for good works. Continue the good work. So today, what's the thumbnail? The name of today's class: Black Christians choose approval over truth. That is the name of today's class.
 
-## In The News
-
-- *[[16:25](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=985s)]* **Thumbnail video for the class: black Christians in church, "Jesus, the reason for the season", "We are all one", and the Black Messiah answering them** — And image is everything. It's good to see those images. We have to see those things. It puts a thought in our mind for diligence and perseverance. So all praise to the Lord for that.
-- *[[52:24](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3144s)]* **Video of an African man saying that in Africa his own people, his mom, dad, uncles, community and teachers, told him the whites are superior, and a black American woman responding to it** — I want to talk about Africans right now for just for a second. Africans worship the white man. Now, I'm going to let an African speak for himself.
-- *[[59:27](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3567s)]* **Video of an African man saying "the colonizers left too early" and a sister questioning him** — Now you might think it's over. Africans say the colonizer left too early. They said the white man left too early. Watch this … negro, this brother's face. You can't make this stuff up. You talk about stupid. That's a level of stupid. That's level five. Christ got to stomp him out. The reason why the sister says she's confused: she don't understand it because what she's communicating with, when the colonizers left, they took him, they took his mind and left the negro. She's talking to a byproduct of what white man left. That's not even the real soul of him. How the hell you come to my damn land and take everything from me, and I'm talking about, why don't you stay longer? The real man is gone. When the colonizers left, his soul left with him. That's just a shell of a being that was left there. That's what the sister's talking to. She's dealing with a clone Tyrone. But I'm glad she had some sense. The brother had no sense. He lost his mind.
-- *[[1:02:27](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3747s)]* **Video of a missionary baptizing an unreached tribe in the desert in a dug hole lined with plastic** — But you might think it's over with Africa, right? Let's see. You can't make this stuff up. Not only she got to go, but the … that translated for her, he got to go, too. If it was up to this water, I want to go to hell. That's a dull ass water. It's like she's dealing with them like he's a perfectly tamed animal. 'Okay, I can get close to him now because I've stripped him of everything that's essence to him.'
-- *[[1:19:08](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4748s)]* **Video of a black man telling how white kids on his second day of kindergarten yelled "Run, run, here comes the …", and how his big brother told him he was it** — So hate is taught. Hate is taught. Do y'all see that? He took his anger out on his brother for telling him, 'You're the … that they're talking about.' He turned on his brother. That's Christianity. We're telling black Christians, 'Hey, this is white supremacy.' And they hate us. They throw rocks at us. They curse us. They threaten us for telling them the truth. All cuz they want a pat from the white man on the head. Pat my head, Massa. Pat my head. So, black and browns, black and Latinos, our people, we want the white man's white membership card so bad that our people will … for a crumb.
-- *[[1:21:37](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4897s)]* **Video of a Latino man speaking to Latinos and African Americans for Trump: "you're never going to be accepted", "you're auditioning for it"** — This Latin brother, put on the screen. Let's play the video. See what he says. Listen.
-- *[[1:30:11](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5411s)]* **News feature on the black church in Memphis turning toward Trump and MAGA, "what happens to its political power"** — So the black church is dying for imagined political power. Let me say it again. The black church is dying for imagined political power. Look, you got black people in the Senate. They ain't passing no bills for us. They're not doing nothing for us. They just sit there and talk. No political power. It's imagined political power. That's what I was talking about.
-- *[[1:33:27](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5607s)]* **Video of a prayer to Satan given as the invocation at a city council meeting, with a commentator reacting** — So the black church believes that their god is the white man's god. And maybe it is. But let me tell you something: when the white man talks about Jesus, God, Jehovah, and all that, it is not the God of Abraham, Isaac, and Jacob in the Holy Bible. It's not. Iowa had a prayer session and they said, 'You know what? We're sick of faking it. Let's just tell the truth.' See, y'all thought following the white man's God is the same God of the Bible. It's not. It's not at all.
-- *[[1:42:16](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=6136s)]* **ABC News report: Vox Booker, a black man pinned against a tree at Lake Monroe near Bloomington, Indiana, while white men called to get a noose** — This is a few years ago, but it's still paramount for today. Ask Nolan Wells about this. Y'all see the black man? They got him bent over. Y'all see him right with his body around the tree right there. And guess what, with that brother right there, he give credit to his white friends for saving, not the Lord. He gave credit to the white man for saving him. You brothers like that, you can't. There's no scripture you could help them with. They love the white man. Even though those white folks tried to lynch his black big lip ass language, I'm sorry. He don't want to hear nothing the Bible got to say. He loved the white man too much. Let me be quiet. I'm sorry. Let me go on. Let's go back to the Bible.
-- *[[1:56:45](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=7005s)]* **Video monologue: "You people, you're not a race. You are a virus"** — I love this video. That's some good stuff right there.
-- *[[2:13:24](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8004s)]* **On-screen article: "Louisiana missionary charged with sexually abusing Haitian boys. Advocates ask how systems keep making it possible"** — Cuz they keep sending white folks over there to do quote unquote missionary work. Hey, listen. Hey, Captain Amaziah. He must didn't follow protocol, because they've been sending missionaries over there and they're successfully raping the hell out of everybody, but they don't get reported. So, he must have broke code. He must have did something that they didn't like. So said, 'Well, we going to tell on you.'
-- *[[2:14:56](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8096s)]* **Undercover series "The Lobby USA": the pro-Israel lobby, the Canary Mission blacklist and smears against supporters of Palestinian rights** — I'm showing you another example of secret counsel.
-- *[[2:18:12](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8292s)]* **Video on a former Israeli official in Atlanta at a private convention in the United States saying Israel's major problem is the young generation of the black community** — All right, here's a secret meeting right here. Put that on the screen. Listen good. You can't make this stuff up. So when people say, 'Oh, no. There's no secret council.' That was a secret meeting for them. Black people were not allowed in those meetings.
-- *[[2:24:01](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8641s)]* **Instagram videos on the protests and riots in France and across Europe, and a woman saying the French colonized Africa and liberation is going to cost blood** — Well, guess what? France did touch the prophets. They shut the prophets down. Give me that video. The Instagram clip of France. Believe it or not, all those except Albania, we got brothers in Italy, France, Spain, what was the other country over there? The UK. We got brothers over there teaching. Word of God is going out. Now, we don't advise none of y'all to go out there and do nothing. We in the Bible.
-- *[[2:41:42](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9702s)]* **Closing music video "Sons of God" (remix)** — Now, you know what we going to do, brothers? We going to go to the Sons of God video. Let's close out with it.
-
 ## Scriptures Opened
+
+*[[16:25](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=985s)]* **In The News: Thumbnail video for the class: black Christians in church, "Jesus, the reason for the season", "We are all one", and the Black Messiah answering them** — And image is everything. It's good to see those images. We have to see those things. It puts a thought in our mind for diligence and perseverance. So all praise to the Lord for that.
 
 **[Wisdom of Solomon 14:16-17](/bible/wisdom-of-solomon/14#v16)**  *[[18:13](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=1093s)]*
 
@@ -374,6 +358,12 @@ Reading from *Chosen People from the Caucasus* by Michael Bradley, p. 197  *[[1:
 </div>
 
 
+*[[52:24](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3144s)]* **In The News: Video of an African man saying that in Africa his own people, his mom, dad, uncles, community and teachers, told him the whites are superior, and a black American woman responding to it** — I want to talk about Africans right now for just for a second. Africans worship the white man. Now, I'm going to let an African speak for himself.
+
+*[[59:27](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3567s)]* **In The News: Video of an African man saying "the colonizers left too early" and a sister questioning him** — Now you might think it's over. Africans say the colonizer left too early. They said the white man left too early. Watch this … negro, this brother's face. You can't make this stuff up. You talk about stupid. That's a level of stupid. That's level five. Christ got to stomp him out. The reason why the sister says she's confused: she don't understand it because what she's communicating with, when the colonizers left, they took him, they took his mind and left the negro. She's talking to a byproduct of what white man left. That's not even the real soul of him. How the hell you come to my damn land and take everything from me, and I'm talking about, why don't you stay longer? The real man is gone. When the colonizers left, his soul left with him. That's just a shell of a being that was left there. That's what the sister's talking to. She's dealing with a clone Tyrone. But I'm glad she had some sense. The brother had no sense. He lost his mind.
+
+*[[1:02:27](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=3747s)]* **In The News: Video of a missionary baptizing an unreached tribe in the desert in a dug hole lined with plastic** — But you might think it's over with Africa, right? Let's see. You can't make this stuff up. Not only she got to go, but the … that translated for her, he got to go, too. If it was up to this water, I want to go to hell. That's a dull ass water. It's like she's dealing with them like he's a perfectly tamed animal. 'Okay, I can get close to him now because I've stripped him of everything that's essence to him.'
+
 **[Isaiah 59:10](/bible/isaiah/59#v10)**  *[[1:12:17](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4337s)]*
 
 > <sup>[10](/bible/isaiah/59#v10)</sup> We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men.
@@ -457,6 +447,10 @@ Reading from On-screen: definition of "cuck" · read by Captain Uri  *[[1:24:47]
 </div>
 
 
+*[[1:19:08](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4748s)]* **In The News: Video of a black man telling how white kids on his second day of kindergarten yelled "Run, run, here comes the …", and how his big brother told him he was it** — So hate is taught. Hate is taught. Do y'all see that? He took his anger out on his brother for telling him, 'You're the … that they're talking about.' He turned on his brother. That's Christianity. We're telling black Christians, 'Hey, this is white supremacy.' And they hate us. They throw rocks at us. They curse us. They threaten us for telling them the truth. All cuz they want a pat from the white man on the head. Pat my head, Massa. Pat my head. So, black and browns, black and Latinos, our people, we want the white man's white membership card so bad that our people will … for a crumb.
+
+*[[1:21:37](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=4897s)]* **In The News: Video of a Latino man speaking to Latinos and African Americans for Trump: "you're never going to be accepted", "you're auditioning for it"** — This Latin brother, put on the screen. Let's play the video. See what he says. Listen.
+
 **[1 Maccabees 11:21](/bible/1-maccabees/11#v21)**  *[[1:26:36](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5196s)]*
 
 > <sup>[21](/bible/1-maccabees/11#v21)</sup> Then certain ungodly persons, who hated their own people, went unto the king, and told him that Jonathan besieged the tower.
@@ -521,6 +515,10 @@ Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35
 
 </div>
 
+
+*[[1:30:11](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5411s)]* **In The News: News feature on the black church in Memphis turning toward Trump and MAGA, "what happens to its political power"** — So the black church is dying for imagined political power. Let me say it again. The black church is dying for imagined political power. Look, you got black people in the Senate. They ain't passing no bills for us. They're not doing nothing for us. They just sit there and talk. No political power. It's imagined political power. That's what I was talking about.
+
+*[[1:33:27](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5607s)]* **In The News: Video of a prayer to Satan given as the invocation at a city council meeting, with a commentator reacting** — So the black church believes that their god is the white man's god. And maybe it is. But let me tell you something: when the white man talks about Jesus, God, Jehovah, and all that, it is not the God of Abraham, Isaac, and Jacob in the Holy Bible. It's not. Iowa had a prayer session and they said, 'You know what? We're sick of faking it. Let's just tell the truth.' See, y'all thought following the white man's God is the same God of the Bible. It's not. It's not at all.
 
 **[Revelation 18:4](/bible/revelation/18#v4)**  *[[1:36:07](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=5767s)]*
 
@@ -593,6 +591,8 @@ Reading from On-screen: the KKK and Christianity · read by Captain Uri  *[[1:35
 
 - Shall not God search this out? for he knoweth the secrets of the heart: See that? So, put Cesare back on the screen. Put the little black girl right there. I like the little black girl. Stretch out our hands to a strange god. This a god that does not even favor you, that does not look like you. That's a strange god.
 
+
+*[[1:42:16](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=6136s)]* **In The News: ABC News report: Vox Booker, a black man pinned against a tree at Lake Monroe near Bloomington, Indiana, while white men called to get a noose** — This is a few years ago, but it's still paramount for today. Ask Nolan Wells about this. Y'all see the black man? They got him bent over. Y'all see him right with his body around the tree right there. And guess what, with that brother right there, he give credit to his white friends for saving, not the Lord. He gave credit to the white man for saving him. You brothers like that, you can't. There's no scripture you could help them with. They love the white man. Even though those white folks tried to lynch his black big lip ass language, I'm sorry. He don't want to hear nothing the Bible got to say. He loved the white man too much. Let me be quiet. I'm sorry. Let me go on. Let's go back to the Bible.
 
 **[Psalms 81:9](/bible/psalms/81#v9)**  *[[1:42:16](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=6136s)]*
 
@@ -728,6 +728,8 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 - And my soul shall be joyful in the Lord: it shall rejoice in his salvation: We ain't supposed to be sad when we see destruction of the enemy. Where did y'all get that from? We supposed to praise the Lord when we see the destruction of our enemies. We supposed to stomp our feet and do a jig.
 
+
+*[[1:56:45](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=7005s)]* **In The News: Video monologue: "You people, you're not a race. You are a virus"** — I love this video. That's some good stuff right there.
 
 **[Habakkuk 3:1-2](/bible/habakkuk/3#v1)**  *[[1:59:06](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=7146s)]*
 
@@ -922,6 +924,10 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 - And bend their bows to shoot their arrows, even bitter words: Even bitter words. Black people are the bane of society. They are the root cause and problem of everything. Especially black men. Now they got black women against black men. Y'all don't see this. They got all nations. Every problem in the world is you black brothers. We are the problem of all the world.
 
 
+*[[2:13:24](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8004s)]* **In The News: On-screen article: "Louisiana missionary charged with sexually abusing Haitian boys. Advocates ask how systems keep making it possible"** — Cuz they keep sending white folks over there to do quote unquote missionary work. Hey, listen. Hey, Captain Amaziah. He must didn't follow protocol, because they've been sending missionaries over there and they're successfully raping the hell out of everybody, but they don't get reported. So, he must have broke code. He must have did something that they didn't like. So said, 'Well, we going to tell on you.'
+
+*[[2:14:56](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8096s)]* **In The News: Undercover series "The Lobby USA": the pro-Israel lobby, the Canary Mission blacklist and smears against supporters of Palestinian rights** — I'm showing you another example of secret counsel.
+
 **[Habakkuk 3:14-16](/bible/habakkuk/3#v14)**  *[[2:17:27](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8247s)]*
 
 > <sup>[14](/bible/habakkuk/3#v14)</sup> Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
@@ -948,6 +954,8 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 - He will invade them with his troops: He will invade. Christ will invade this world with his troops. The angels.
 
+
+*[[2:18:12](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8292s)]* **In The News: Video on a former Israeli official in Atlanta at a private convention in the United States saying Israel's major problem is the young generation of the black community** — All right, here's a secret meeting right here. Put that on the screen. Listen good. You can't make this stuff up. So when people say, 'Oh, no. There's no secret council.' That was a secret meeting for them. Black people were not allowed in those meetings.
 
 **[Habakkuk 3:17-19](/bible/habakkuk/3#v17)**  *[[2:20:44](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8444s)]*
 
@@ -1002,6 +1010,8 @@ Reading from On-screen: NBC News on the 2016 US bombings, and a search on Presid
 
 - Saying, Touch not mine anointed, and do my prophets no harm: Touch not mine anointed. Well, guess what? France did touch the prophets. They shut the prophets down.
 
+
+*[[2:24:01](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=8641s)]* **In The News: Instagram videos on the protests and riots in France and across Europe, and a woman saying the French colonized Africa and liberation is going to cost blood** — Well, guess what? France did touch the prophets. They shut the prophets down. Give me that video. The Instagram clip of France. Believe it or not, all those except Albania, we got brothers in Italy, France, Spain, what was the other country over there? The UK. We got brothers over there teaching. Word of God is going out. Now, we don't advise none of y'all to go out there and do nothing. We in the Bible.
 
 **[Romans 8:7-8](/bible/romans/8#v7)**  *[[2:32:15](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9135s)]*
 
@@ -1227,6 +1237,8 @@ Reading from On-screen: definition of "enmity" · read by Captain Uri  *[[2:32:1
 
 - We shall be like him; for we shall see him as he is: We shall be like him. But we shall see him as he is.
 
+
+*[[2:41:42](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=9702s)]* **In The News: Closing music video "Sons of God" (remix)** — Now, you know what we going to do, brothers? We going to go to the Sons of God video. Let's close out with it.
 
 ## Class Questions
 

@@ -19,22 +19,19 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 
 *[[3:03](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=183s)]* Captain Zakai teaches from IUIC Oklahoma City, with Captain AZ, Captain Noah, Officer Ari and later Captain Paloo beside him. After opening with the history of how Constantine and the Council of Laodicea turned the Sabbath into Sunday, and how late Christianity reached Ethiopia, the class defines pride and shows it as the root of every fall: pride is departing from your maker, it is first on God's list of hates, and it destroyed the northern kingdom, Judah, Assyria, Nebuchadnezzar, Antiochus and Herod. The last and proudest is Edom, and the class closes with the eagle of 2 Esdras 11 whose pride has come up unto the Mighty.
 
-## In The News
-
-- *[[4:07](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=247s)]* **A grandparent's old study Bible, given by Officer Yan, states that the Sabbath was instituted by God in paradise and that 'Sunday' means the day of the sun, of heathen origin.** — The Christian Sabbath is heathen. Worshipping God on Sunday is a tradition of men.
-- *[[5:44](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=344s)]* **A study Bible note that Constantine remained a committed sun worshipper and in 321 declared the day of the sun the day of rest; and a source that early believers kept Saturday until Constantine's laws, after which keeping the Sabbath was punishable by death and believers were burned by the Catholic Church.** — Christianity is the bloodiest religion on earth, with Islam right behind it.
-- *[[8:49](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=529s)]* **Encyclopedia entries on the Council of Laodicea, around thirty bishops of Asia Minor in the fourth century, whose Canon 29 forbade 'Judaizing' by resting on Saturday, ordered Christians to work on the Sabbath and honour the Lord's day, declared those who rested on the seventh day anathema, and gave the Sabbath a 'spiritual interpretation' applied to Sunday.** — That is where 'that's Jewish stuff,' 'every day is the Sabbath' and 'I rest in Jesus' come from. Anathema means cursed and cut off, which is why family members read the Sabbath with their own eyes and still fear leaving the church.
-- *[[15:51](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=951s)]* **A Catholic quotation offering a thousand dollars to anyone who can prove from the Bible alone that Sunday must be kept holy: it is a law of the Catholic Church alone, which abolished the Sabbath by its own divine power.** — Their own tongue falls upon them. Esau tells you the lie and keeps doing it without remorse; that is pride.
-- *[[17:36](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=1056s)]* **Metropolitan Museum of Art history: Christianity reached Aksum in the fourth century under Emperor Ezana through Frumentius of Tyre and Roman Christian merchants.** — Stop saying Christianity was in Africa before Europe. Ethiopia is not all of Africa, and what arrived there was what Rome's councils taught in the 300s, not what the disciples taught the Ethiopian eunuch.
-- *[[20:49](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=1249s)]* **A traveller attending Sunday mass in Ethiopia remarks how much it resembles Islam: men and women pray separately, shoes come off, head covering is mandatory, prostration is common, and there is a call to prayer.** — That is nothing like the Western Christianity Black Americans practise, which is what the white man taught in slavery.
-- *[[37:28](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=2248s)]* **An AI answer calculating that if a thousand years are one day to God, a human lifetime of eighty years is about one hour and fifty-five minutes; and a chart Officer Lyel sent breaking God's time down further.** — Our whole life is less than two hours in God's eyes, and God is the Ancient of Days who has no beginning or end. We stress over three to five business days. How can a vapor be prideful?
-- *[[1:06:23](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=3983s)]* **A young man explains that 'pride comes before the fall' is a warning: when you catch yourself feeling yourself and puffing your chest out, choose to be humble and loving.** — When you see someone fall off, there was pride in them, even if they masked it as confidence.
-- *[[1:12:29](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=4349s)]* **A man says he never thought of himself as prideful until God showed him that pride hides in subtle things: not asking for help, holding grudges, saying 'I'm fine,' shutting down, thinking you need nobody, and always pointing the finger elsewhere.** — Pride does not have to be loud. It can be quiet and still hold you back.
-- *[[1:44:59](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6299s)]* **A Black man on the street asks where the reparations are if Trump can offer money to Greenlanders; a white bystander answers that his ancestors, not he, generated the wealth from slavery.** — He is still living off the slave money and feels no remorse. Isaiah 14:21 says prepare slaughter for his children for the iniquity of their fathers.
-- *[[1:51:32](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6692s)]* **Trump, asked what could check his power on the world stage, answers: 'My own morality, my own mind. It's the only thing that can stop me.'** — He sounds just like Antiochus speaking proudly. God answered with a diagnosis of chronic venous insufficiency in his legs: not life-threatening, because he still has prophecy to fulfil, but a touch to say I heard you.
-- *[[1:55:33](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6933s)]* **Trump says he believes God is very proud of the job he has done protecting Christians and Jews.** — Behold, I am against thee, O thou most proud.
-
 ## Scriptures Opened
+
+*[[4:07](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=247s)]* **In The News: A grandparent's old study Bible, given by Officer Yan, states that the Sabbath was instituted by God in paradise and that 'Sunday' means the day of the sun, of heathen origin.** — The Christian Sabbath is heathen. Worshipping God on Sunday is a tradition of men.
+
+*[[5:44](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=344s)]* **In The News: A study Bible note that Constantine remained a committed sun worshipper and in 321 declared the day of the sun the day of rest; and a source that early believers kept Saturday until Constantine's laws, after which keeping the Sabbath was punishable by death and believers were burned by the Catholic Church.** — Christianity is the bloodiest religion on earth, with Islam right behind it.
+
+*[[8:49](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=529s)]* **In The News: Encyclopedia entries on the Council of Laodicea, around thirty bishops of Asia Minor in the fourth century, whose Canon 29 forbade 'Judaizing' by resting on Saturday, ordered Christians to work on the Sabbath and honour the Lord's day, declared those who rested on the seventh day anathema, and gave the Sabbath a 'spiritual interpretation' applied to Sunday.** — That is where 'that's Jewish stuff,' 'every day is the Sabbath' and 'I rest in Jesus' come from. Anathema means cursed and cut off, which is why family members read the Sabbath with their own eyes and still fear leaving the church.
+
+*[[15:51](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=951s)]* **In The News: A Catholic quotation offering a thousand dollars to anyone who can prove from the Bible alone that Sunday must be kept holy: it is a law of the Catholic Church alone, which abolished the Sabbath by its own divine power.** — Their own tongue falls upon them. Esau tells you the lie and keeps doing it without remorse; that is pride.
+
+*[[17:36](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=1056s)]* **In The News: Metropolitan Museum of Art history: Christianity reached Aksum in the fourth century under Emperor Ezana through Frumentius of Tyre and Roman Christian merchants.** — Stop saying Christianity was in Africa before Europe. Ethiopia is not all of Africa, and what arrived there was what Rome's councils taught in the 300s, not what the disciples taught the Ethiopian eunuch.
+
+*[[20:49](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=1249s)]* **In The News: A traveller attending Sunday mass in Ethiopia remarks how much it resembles Islam: men and women pray separately, shoes come off, head covering is mandatory, prostration is common, and there is a call to prayer.** — That is nothing like the Western Christianity Black Americans practise, which is what the white man taught in slavery.
 
 **[Proverbs 22:20-21](/bible/proverbs/22#v20)**  *[[22:55](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=1375s)]*
 
@@ -121,6 +118,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
     Having been a little chastised, they shall be greatly rewarded, for God proved them and found them worthy for himself. What we suffer, God calls a little chastising; endure to the end.
 
 
+*[[37:28](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=2248s)]* **In The News: An AI answer calculating that if a thousand years are one day to God, a human lifetime of eighty years is about one hour and fifty-five minutes; and a chart Officer Lyel sent breaking God's time down further.** — Our whole life is less than two hours in God's eyes, and God is the Ancient of Days who has no beginning or end. We stress over three to five business days. How can a vapor be prideful?
+
 **[1 Peter 5:5-8](/bible/1-peter/5#v5)**  *[[42:43](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=2563s)]*
 
 > <sup>[5](/bible/1-peter/5#v5)</sup> Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
@@ -206,6 +205,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
     Pride goeth before destruction, and an haughty spirit before a fall.
 
 
+*[[1:06:23](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=3983s)]* **In The News: A young man explains that 'pride comes before the fall' is a warning: when you catch yourself feeling yourself and puffing your chest out, choose to be humble and loving.** — When you see someone fall off, there was pride in them, even if they masked it as confidence.
+
 **[Isaiah 28:1-3](/bible/isaiah/28#v1)**  *[[1:07:47](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=4067s)]*
 
 > <sup>[1](/bible/isaiah/28#v1)</sup> Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine!
@@ -240,6 +241,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 
     I will mar the pride of Judah and the great pride of Jerusalem, this evil people which refuse to hear my words and walk in the imagination of their heart, good for nothing as the girdle. I will dash them one against another and not pity. Hear ye, be not proud, for the Lord hath spoken. Judah followed its treacherous sister into the same pride.
 
+
+*[[1:12:29](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=4349s)]* **In The News: A man says he never thought of himself as prideful until God showed him that pride hides in subtle things: not asking for help, holding grudges, saying 'I'm fine,' shutting down, thinking you need nobody, and always pointing the finger elsewhere.** — Pride does not have to be loud. It can be quiet and still hold you back.
 
 **[2 Corinthians 2:8-11](/bible/2-corinthians/2#v8)**  *[[1:14:29](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=4469s)]*
 
@@ -548,6 +551,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 - He lieth in wait secretly to catch the poor. The film The Burial shows how a funeral company used the Black churches to sell overpriced caskets to poor Black families, and its owner felt nothing.
 
 
+*[[1:44:59](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6299s)]* **In The News: A Black man on the street asks where the reparations are if Trump can offer money to Greenlanders; a white bystander answers that his ancestors, not he, generated the wealth from slavery.** — He is still living off the slave money and feels no remorse. Isaiah 14:21 says prepare slaughter for his children for the iniquity of their fathers.
+
 **[Jeremiah 49:7-18](/bible/jeremiah/49#v7)**  *[[1:47:04](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6424s)]*
 
 > <sup>[7](/bible/jeremiah/49#v7)</sup> Concerning Edom, thus saith the Lord of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?
@@ -581,6 +586,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 - The moon landing in 1969 is when the Israelites began to hit the streets; since he set his nest in the stars, Esau has been coming down, and every Israelite gathered is his kingdom falling. Edom shall be a desolation, as in the overthrow of Sodom and Gomorrah, where pride and strange flesh were found.
 
 
+*[[1:51:32](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6692s)]* **In The News: Trump, asked what could check his power on the world stage, answers: 'My own morality, my own mind. It's the only thing that can stop me.'** — He sounds just like Antiochus speaking proudly. God answered with a diagnosis of chronic venous insufficiency in his legs: not life-threatening, because he still has prophecy to fulfil, but a touch to say I heard you.
+
 **[Jeremiah 50:31-32](/bible/jeremiah/50#v31)**  *[[1:53:12](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6792s)]*
 
 > <sup>[31](/bible/jeremiah/50#v31)</sup> Behold, I am against thee, O thou most proud, saith the Lord God of hosts: for thy day is come, the time that I will visit thee.
@@ -591,6 +598,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 
 - The most proud shall stumble and fall, and none shall raise him up, and I will kindle a fire in his cities, and it shall devour all round about him: Canada, Mexico and everything on this side of the earth, like Sodom.
 
+
+*[[1:55:33](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6933s)]* **In The News: Trump says he believes God is very proud of the job he has done protecting Christians and Jews.** — Behold, I am against thee, O thou most proud.
 
 **[2 Esdras 11:37-43](/bible/2-esdras/11#v37)**  *[[1:56:16](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6976s)]*
 

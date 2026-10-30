@@ -19,22 +19,6 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 
 *[[5:22](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=322s)]* Good intentions, but bad judgment. When a man says he had good intentions, that is not him being good: a lot of the time it is the cover for the folly and the foolishness he was already doing, and the escape route he keeps for when things fall apart. Before the topic, the folly of Benjamin in these churches and what the pastors are doing to our people.
 
-## In The News
-
-- *[[9:24](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=564s)]* **A church service clip, the latest gimmick on the floor** — If they don't know God, all they can do is think up the next scheme to keep everybody entertained. It ain't about teaching the Bible.
-- *[[13:32](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=812s)]* **An older man in the church dancing like he is back in the club** — He is supposed to be an example to the young man. The word is being preached and nobody has a Bible open.
-- *[[19:03](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1143s)]* **A woman on the mic as the DJ and the MC, head not covered, with a man dancing** — We got to stop this. That is why the Lord is sending us out to our people in every city and every country, to give them a chance to return.
-- *[[27:13](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1633s)]* **One man in a church full of women** — You can't make this up. That is the foolishness we are dealing with.
-- *[[28:11](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1691s)]* **A man singing about being under the blood, wearing it on his face like makeup** — He is telling those people he can sin and only has to call on the name of the Lord. Christ died for our sins so we would get ourselves together, not keep sinning.
-- *[[29:46](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1786s)]* **A procession carrying a cross into the building** — God's house turned into a den of thieves: come in, feel good, give your money, and go be evil the rest of the week.
-- *[[32:19](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1939s)]* **A woman preaching on women's day, calling the men weak jellybacks** — Look at the man standing there looking stupid in the face while she talks to him like that.
-- *[[35:29](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=2129s)]* **The definition of good intentions put on the screen** — Intentions are invisible; outcomes are not. You can only measure a man's actions. Intentions are nothing but words in the air.
-- *[[37:07](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=2227s)]* **The psychology behind good intentions: cognitive dissonance, moral licensing, self-deception** — We judge ourselves by our intentions and the next man by his actions. If your good intent keeps leading to harm, maybe it is not so good after all.
-- *[[38:47](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=2327s)]* **A video: your good intentions may not be good enough** — Intentions without execution are omission by commission. When you assume your good intentions absolve you of accountability, you justify yourself instead of correcting yourself.
-- *[[1:21:47](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=4907s)]* **The definition of moral licensing bias** — I gave God ten dollars, so now I can go spend a thousand on foolishness I don't need. One good act does not give you a free pass.
-- *[[1:43:37](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=6217s)]* **The definition of altruism, selfless concern for the well-being of others** — That is what we are lacking. Everything we do in this truth is supposed to be about others; it is no more I and me, it is we and us.
-- *[[2:02:55](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=7375s)]* **A closing video on good intentions and ownership** — Good intentions don't mean you are not the source of the problem. When you are, it is on you to own it and go make it right.
-
 ## Scriptures Opened
 
 **[Jeremiah 2:7-8](/bible/jeremiah/2#v7)**  *[[6:20](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=380s)]*
@@ -50,6 +34,8 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 - The men handling the law don't know him, and they are about to celebrate Christmas, which we were never told to keep.
 
 
+*[[9:24](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=564s)]* **In The News: A church service clip, the latest gimmick on the floor** — If they don't know God, all they can do is think up the next scheme to keep everybody entertained. It ain't about teaching the Bible.
+
 **[Ezekiel 22:26-27](/bible/ezekiel/22#v26)**  *[[11:14](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=674s)]*
 
 > <sup>[26](/bible/ezekiel/22#v26)</sup> Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
@@ -62,6 +48,8 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 
 - Princes like wolves, ripping our people's souls out. A pastor with a mic, singing and entertaining instead of feeding them: that is the dishonest gain.
 
+
+*[[13:32](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=812s)]* **In The News: An older man in the church dancing like he is back in the club** — He is supposed to be an example to the young man. The word is being preached and nobody has a Bible open.
 
 **[Jeremiah 5:25-28](/bible/jeremiah/5#v25)**  *[[14:35](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=875s)]*
 
@@ -87,6 +75,8 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 
     Nothing is wrong with glorifying the Lord with good righteous music, but a song full of emotion and feelings that does not bring our people back to who they are is worthless.
 
+
+*[[19:03](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1143s)]* **In The News: A woman on the mic as the DJ and the MC, head not covered, with a man dancing** — We got to stop this. That is why the Lord is sending us out to our people in every city and every country, to give them a chance to return.
 
 **[Matthew 15:12-14](/bible/matthew/15#v12)**  *[[20:13](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1213s)]*
 
@@ -137,6 +127,14 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 - The Most High gathers the one-third through righteous leaders who set the example we should be following.
 
 
+*[[27:13](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1633s)]* **In The News: One man in a church full of women** — You can't make this up. That is the foolishness we are dealing with.
+
+*[[28:11](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1691s)]* **In The News: A man singing about being under the blood, wearing it on his face like makeup** — He is telling those people he can sin and only has to call on the name of the Lord. Christ died for our sins so we would get ourselves together, not keep sinning.
+
+*[[29:46](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1786s)]* **In The News: A procession carrying a cross into the building** — God's house turned into a den of thieves: come in, feel good, give your money, and go be evil the rest of the week.
+
+*[[32:19](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1939s)]* **In The News: A woman preaching on women's day, calling the men weak jellybacks** — Look at the man standing there looking stupid in the face while she talks to him like that.
+
 **[1 Timothy 2:11-12](/bible/1-timothy/2#v11)**  *[[33:05](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=1985s)]*
 
 > <sup>[11](/bible/1-timothy/2#v11)</sup> Let the woman learn in silence with all subjection.
@@ -149,6 +147,12 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 
 - That is why the whole earth is out of order: women preaching and talking down to the men, and the men clapping, weak and feminine.
 
+
+*[[35:29](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=2129s)]* **In The News: The definition of good intentions put on the screen** — Intentions are invisible; outcomes are not. You can only measure a man's actions. Intentions are nothing but words in the air.
+
+*[[37:07](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=2227s)]* **In The News: The psychology behind good intentions: cognitive dissonance, moral licensing, self-deception** — We judge ourselves by our intentions and the next man by his actions. If your good intent keeps leading to harm, maybe it is not so good after all.
+
+*[[38:47](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=2327s)]* **In The News: A video: your good intentions may not be good enough** — Intentions without execution are omission by commission. When you assume your good intentions absolve you of accountability, you justify yourself instead of correcting yourself.
 
 **[1 Samuel 15:1-3](/bible/1-samuel/15#v1)**  *[[42:21](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=2541s)]*
 
@@ -479,6 +483,8 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 - He warned the men around him before it happened, and sorrow filled their hearts.
 
 
+*[[1:21:47](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=4907s)]* **In The News: The definition of moral licensing bias** — I gave God ten dollars, so now I can go spend a thousand on foolishness I don't need. One good act does not give you a free pass.
+
 **[Numbers 20:6-12](/bible/numbers/20#v6)**  *[[1:24:03](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=5043s)]*
 
 > <sup>[6](/bible/numbers/20#v6)</sup> And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the Lord appeared unto them.
@@ -612,6 +618,8 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 
 - You walked through them doors because you wanted change, the kingdom, immortality. Don't come in here holding on to the old man and talking about good intentions.
 
+
+*[[1:43:37](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=6217s)]* **In The News: The definition of altruism, selfless concern for the well-being of others** — That is what we are lacking. Everything we do in this truth is supposed to be about others; it is no more I and me, it is we and us.
 
 **[Luke 10:30-37](/bible/luke/10#v30)**  *[[1:46:34](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=6394s)]*
 
@@ -771,6 +779,8 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 
 - All of it was for our people: looking out for them, healing them, feeding them, dying for them.
 
+
+*[[2:02:55](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=7375s)]* **In The News: A closing video on good intentions and ownership** — Good intentions don't mean you are not the source of the problem. When you are, it is on you to own it and go make it right.
 
 ## Class Questions
 
