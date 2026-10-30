@@ -20,10 +20,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "money", "satan"]
 
 *[[2:06](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=126s)]* All praises to the most high. Shalom family. Most high Christ bless Captain Gedaliah. Another edition of giving the sense from A to Z. Giving the sense from A to Z. And today we going to be going over Luke the 11th chapter. Luke the 11th chapter. I believe Captain Mattathias was the last one to go into Luke 11 chapter. And I know he went through up to verse 9. So I'm going to pick it up at Luke chapter 11 verse 10. All right? Luke chapter 11 and verse 10. And if you all got questions as the show goes on, you all got questions feel free to chime in or ask your questions. And if I'm able to get to it, I will. Hey, you know what's amazing, y'all, man, how much work going into this truth and people don't even understand it. You know, people want to sit around and try to debate and all that stuff like that. We ain't got to try to debate nobody. Debate you for what? It's a waste of our time. You know what I'm saying? It's a waste of our time to be trying to debate y'all. We debate you over nothing. Straight up. So, with that being said, we going to go ahead and dive into it. I'm going to go to Nehemiah chapter 8 verse 8. I'm going to deal with that first because this is giving the sense from A to Z and then we going to dive into Luke the 11th chapter.
 
-## In The News
-
-- *[[39:23](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=2363s)]* **Marvin Sapp telling his ushers to close the doors and challenging the congregation to give a $20 seed ($40,000 tonight)** — Ezekiel 34: the shepherds feed themselves and not the flock. Why is Marvin Sapp, a preacher, a pastor, anointed by God, telling his congregants or his ushers to close the doors? He want the bread. He want the moolah. He want the money.
-
 ## Scriptures Opened
 
 **[Nehemiah 8:8](/bible/nehemiah/8#v8)**  *[[5:16](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=316s)]*
@@ -271,6 +267,8 @@ tags: ["15 Minutes w/ The Captains", "angels", "money", "satan"]
 
     Let's go to Jeremiah 23. Jeremiah chapter 23. And I'mma read verse one. So, the Bible said they're scattering God's people away.
 
+
+*[[39:23](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=2363s)]* **In The News: Marvin Sapp telling his ushers to close the doors and challenging the congregation to give a $20 seed ($40,000 tonight)** — Ezekiel 34: the shepherds feed themselves and not the flock. Why is Marvin Sapp, a preacher, a pastor, anointed by God, telling his congregants or his ushers to close the doors? He want the bread. He want the moolah. He want the money.
 
 **[Ezekiel 14:4-5](/bible/ezekiel/14#v4)**  *[[47:16](https://www.youtube.com/watch?v=nPBT-JNVgbM&t=2836s)]*
 
