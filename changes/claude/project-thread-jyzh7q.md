@@ -106,3 +106,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Luke 11:10 continued (2025-04-15, Captain Gedaliah, heard as "Captain Gad Elia"), 11:5 continued (2025-04-09, Captain Mattathias), 11:3 (2025-04-02, Captain Zakai, heard as "Captain Zachariah"), 11:1 (2025-03-25, Captain Emmanuel, IUIC Arkansas), 10:4 (2025-03-20, Captain Gedaliah, heard as "Captain Gallayia" and "Captain get a light") and 10:1 (2025-03-19, Captain Zakai: the next class says Captain Zakai of Sacramento finished at Luke 10:3).
 - "Captain Gad Elia" and "Captain get a light" are now Gedaliah spellings in data/names.tsv. Two older notes that had "Captain Get a Light" (2025-06-16 Luke 21, 2025-08-20 Colossians 4:7) are respelled.
+
+## Batch 20
+
+- Luke 9:26 (2025-03-18, Captain Gedaliah), 9:21 (2025-03-11, Captain Josiah, IUIC Raleigh), 9:10 (2025-03-10, Captain Emmanuel), 8:34 (2025-03-06, Captain Matt, heard as "Captain Matthew"), 8:17 (2025-03-05, Captain Zakai: the next class says Captain Zakai taught yesterday and finished at verse 33, where this class ends) and 7:35 (2025-03-04, Captain Gedaliah). The 2025-03-07 "Luke 8:33" upload is a 3-minute music clip with no class, so it has no note.
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
