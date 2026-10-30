@@ -79,6 +79,17 @@ test("the Worker serves files of any size with CORS, types, cache lifetimes and 
   assert.equal(part.headers.get("content-range"), `bytes 10-19/${big.length}`);
   assert.equal((await part.arrayBuffer()).byteLength, 10);
 
+  // The same library for a phone to keep: the gzipped bytes, marked as gzip so the download unpacks them.
+  const phone = await get("/library.sqlite");
+  assert.equal(phone.status, 200);
+  assert.equal(phone.headers.get("content-type"), "application/vnd.sqlite3");
+  assert.equal(phone.headers.get("content-encoding"), "gzip");
+  assert.equal(phone.headers.get("content-length"), String(big.length));
+  assert.equal(phone.headers.get("cache-control"), "public, max-age=3600");
+  assert.equal(phone.headers.get("etag"), sqlite.headers.get("etag"));
+  assert.ok(Buffer.from(await phone.arrayBuffer()).equals(big));
+  assert.equal((await get("/library.sqlite", { range: "bytes=10-19" })).status, 200);
+
   const etag = json.headers.get("etag");
   assert.equal((await get("/api/index.json", { "if-none-match": etag })).status, 304);
 

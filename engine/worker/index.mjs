@@ -32,6 +32,11 @@ async function lookup(env, build, p) {
   return shard[p] ?? null;
 }
 
+// The library for a phone to keep (the app's on-device search): the published gzipped copy,
+// sent with Content-Encoding: gzip so the phone's download unpacks it on the way in. One object
+// in the bucket serves both paths.
+const ENCODED = { "library.sqlite": "library.sqlite.gz" };
+
 const base = (p) => ({
   "access-control-allow-origin": "*",
   "x-content-type-options": "nosniff",
@@ -54,17 +59,22 @@ export default {
     if (p === "pointer.json") {
       return new Response(method === "HEAD" ? null : JSON.stringify(ptr) + "\n", { headers: { ...base(p), "content-type": contentType(p) } });
     }
-    const entry = await lookup(env, ptr.build, p);
+    const stored = ENCODED[p];
+    const entry = await lookup(env, ptr.build, stored ?? p);
     if (!entry) return status(404, p);
     const [hash, size] = entry;
     const etag = `"${hash}"`;
-    const headers = { ...base(p), "content-type": contentType(p), etag, "accept-ranges": "bytes" };
+    const headers = stored
+      ? { ...base(p), "content-type": contentType(p), etag, "content-encoding": "gzip" }
+      : { ...base(p), "content-type": contentType(p), etag, "accept-ranges": "bytes" };
+    // Workers would otherwise compress the already gzipped bytes again.
+    const init = stored ? { encodeBody: "manual" } : {};
 
     const inm = request.headers.get("if-none-match");
     if (inm && inm.split(",").some((t) => t.trim().replace(/^W\//, "") === etag)) return new Response(null, { status: 304, headers });
     if (method === "HEAD") return new Response(null, { headers: { ...headers, "content-length": String(size) } });
 
-    const range = request.headers.get("range");
+    const range = stored ? null : request.headers.get("range");
     if (range) {
       const obj = await env.DATA.get(`o/${hash}`, { range: request.headers });
       if (!obj) return status(404, p);
@@ -87,6 +97,6 @@ export default {
         body = a;
       } else body = obj.body;
     }
-    return new Response(body, { headers: { ...headers, "content-length": String(size) } });
+    return new Response(body, { ...init, headers: { ...headers, "content-length": String(size) } });
   },
 };
