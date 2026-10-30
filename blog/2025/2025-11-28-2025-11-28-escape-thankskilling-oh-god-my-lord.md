@@ -19,12 +19,6 @@ tags: ["IUIC in the ClassRoom", "angels", "christ", "salvation", "wisdom"]
 
 *[[8:39](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=519s)]* A precept-upon-precept class on the divinity of Christ: that the Father made the Son first and used him to make everything, breathed him into Adam, brought him through David's line and gave him Israel as his firstborn, his children and his wife, so that he is both our God and our Lord. It opens with a long answer to the doctrine going round Israel that the nations can be saved, and to the brothers calling Paul a false prophet.
 
-## In The News
-
-- *[[25:39](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=1539s)]* **a video the Bishop brought out years ago on the origin of the Israelite schools and their successors, with the photographs of the school at 1 West 125th Street, room 211** — Played to show that the men in the room sat with those elders and have the photographs, while the men pushing the new doctrine are going off a book.
-- *[[5:04:48](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=18288s)]* **the Living Tribunal from Marvel comics put up on the screen, and the Bifrost from Thor** — The entity with the three faces that answers to the one above all, and the long glass bridge with the colour running through it, are the four beasts with their faces and the sea of glass like unto crystal. Esau knows what is up there and puts it in the movies; it is our own people who are confused.
-- *[[6:17:47](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=22667s)]* **the Oracle scene from The Matrix, with the candy and the choice** — You did not come here to make the choice, you have already made it; you are here to understand why you made it. That is predestination: God knows what we are going to do before we do it, and our job is to come in here and play it out. The sign over the Oracle's door says Know thyself, which is examine yourself, whether ye be in the faith.
-
 ## Scriptures Opened
 
 **[2 Peter 2:10,12-13](/bible/2-peter/2#v10)**  *[[10:16](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=616s)]*
@@ -93,6 +87,8 @@ Reading from the old website's history of the schools, shown in a video the Bish
 
 </div>
 
+
+*[[25:39](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=1539s)]* **In The News: a video the Bishop brought out years ago on the origin of the Israelite schools and their successors, with the photographs of the school at 1 West 125th Street, room 211** — Played to show that the men in the room sat with those elders and have the photographs, while the men pushing the new doctrine are going off a book.
 
 **[Isaiah 28:9-10](/bible/isaiah/28#v9)**  *[[42:47](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=2567s)]*
 
@@ -1034,6 +1030,8 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 - The four beasts full of eyes rest not day and night, and the eyes are how the angels see everything on the earth.
 
 
+*[[5:04:48](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=18288s)]* **In The News: the Living Tribunal from Marvel comics put up on the screen, and the Bifrost from Thor** — The entity with the three faces that answers to the one above all, and the long glass bridge with the colour running through it, are the four beasts with their faces and the sea of glass like unto crystal. Esau knows what is up there and puts it in the movies; it is our own people who are confused.
+
 **[Revelation 5:2-7,9-10](/bible/revelation/5#v2)**  *[[5:09:14](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=18554s)]*
 
 > <sup>[2](/bible/revelation/5#v2)</sup> And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?
@@ -1274,6 +1272,8 @@ Reading from *Ecclesiasticus*, the prologue made by an uncertain author  *[[1:34
 
     Then Jesus saith unto them, Children, have ye any meat: he called the disciples children because they are his children.
 
+
+*[[6:17:47](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=22667s)]* **In The News: the Oracle scene from The Matrix, with the candy and the choice** — You did not come here to make the choice, you have already made it; you are here to understand why you made it. That is predestination: God knows what we are going to do before we do it, and our job is to come in here and play it out. The sign over the Oracle's door says Know thyself, which is examine yourself, whether ye be in the faith.
 
 **[Romans 9:4](/bible/romans/9#v4)**  *[[6:17:47](https://www.youtube.com/watch?v=lLhmy-FkxmY&t=22667s)]*
 

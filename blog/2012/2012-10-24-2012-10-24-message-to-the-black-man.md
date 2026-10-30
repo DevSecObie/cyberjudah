@@ -20,11 +20,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "women"]
 
 *[[0:22](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=22s)]* Today's topic is message to the black man. For years many of you black women have complained about the black man; you've sat on many talk shows and complained and complained about your black man. So now you may ask why we're dealing with the black man as opposed to the Latino man. I'm talking about both, but the Most High said in Zechariah I will raise the tents of Judah first, so this message first and foremost goes to you so-called black men. And you black women, hold your tongue, sit back and listen and learn.
 
-## In The News
-
-- *[[1:58](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=118s)]* **A scene of a wife cursing her husband for taking the money out of the bank to go into business for themselves, and telling him to get his stuff out of her house** — I'm going to show you the importance of the black man, because for too long you've all been snubbing your nose at the so-called black man. You speak ill against the black man, against your fathers, your brothers, your husbands.
-- *[[52:56](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=3176s)]* **The book *Russian Icons*, its pages held up on screen** — This is the history of the black man that ruled in Russia. They didn't just get the slaves from Africa; the last group of slaves came from Russia, because we ruled all of Europe; that's why they called it the Dark Ages. The Transfiguration of the Lord: Christ in the middle, Moses and Elijah on the other side, Peter, James and John at the bottom; what color are they? So-called black men. Peter and Paul, two of the greatest apostles that ever lived: so-called black men. Christ on the cross, painted during the Dark Ages in Russia: look at the loin cloth around him, it's white; his skin in comparison to the cloth is dark brown. Vladimir and all the saints; the angels, black Gabriel; Christ and the twelve apostles around him, black men, and like the scripture says, his feet as if they burned in a furnace; St. George the dragon slayer, a black man. You ain't learned this in history.
-
 ## Scriptures Opened
 
 **[John 8:32](/bible/john/8#v32)**  *[[0:22](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=22s)]*
@@ -44,6 +39,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "women"]
 
 - Male and female created he them: the them goes into chapter 2 and chapter 3; that's where it breaks it down.
 
+
+*[[1:58](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=118s)]* **In The News: A scene of a wife cursing her husband for taking the money out of the bank to go into business for themselves, and telling him to get his stuff out of her house** — I'm going to show you the importance of the black man, because for too long you've all been snubbing your nose at the so-called black man. You speak ill against the black man, against your fathers, your brothers, your husbands.
 
 **[Exodus 19:6](/bible/exodus/19#v6)**  *[[3:44](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=224s)]*
 
@@ -539,6 +536,8 @@ Reading from *The Willie Lynch Letter and the Making of a Slave*, page 15 · rea
 
 - The scholars hate this blackness so much. That's why we tell you stay away from those New International Versions and those new revised versions: every place we showed you that it stated a black person, they pulled it out. Check those revised versions; they removed everywhere it said that someone was black, to give you a different depiction of what the writer was saying.
 
+
+*[[52:56](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=3176s)]* **In The News: The book *Russian Icons*, its pages held up on screen** — This is the history of the black man that ruled in Russia. They didn't just get the slaves from Africa; the last group of slaves came from Russia, because we ruled all of Europe; that's why they called it the Dark Ages. The Transfiguration of the Lord: Christ in the middle, Moses and Elijah on the other side, Peter, James and John at the bottom; what color are they? So-called black men. Peter and Paul, two of the greatest apostles that ever lived: so-called black men. Christ on the cross, painted during the Dark Ages in Russia: look at the loin cloth around him, it's white; his skin in comparison to the cloth is dark brown. Vladimir and all the saints; the angels, black Gabriel; Christ and the twelve apostles around him, black men, and like the scripture says, his feet as if they burned in a furnace; St. George the dragon slayer, a black man. You ain't learned this in history.
 
 **[1 Timothy 3:5](/bible/1-timothy/3#v5)**  *[[54:24](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=3264s)]*
 

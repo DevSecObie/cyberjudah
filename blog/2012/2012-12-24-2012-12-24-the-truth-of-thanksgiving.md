@@ -20,10 +20,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance", "eu
 
 *[[0:22](https://www.youtube.com/watch?v=OfeSju75iMY&t=22s)]* Today's topic, we're going to go over the truth of Thanksgiving. The ten tribes that came over here, that you call Indians, the Bible calls the ten tribes of Israel; the North American Indians are the tribe of Gad, and the first Thanksgiving of the Indians and the pilgrims sitting down in peace is all bull crap, malarkey, and lies. Your Thanksgiving Day is based on genocide, evil, and bloodshed.
 
-## In The News
-
-- *[[14:08](https://www.youtube.com/watch?v=OfeSju75iMY&t=848s)]* **A clip from Goodbye Uncle Tom** — They show you American Indians beside the Negroes sold into slavery.
-
 ## Scriptures Opened
 
 **[John 8:32](/bible/john/8#v32)**  *[[0:39](https://www.youtube.com/watch?v=OfeSju75iMY&t=39s)]*
@@ -188,6 +184,8 @@ Reading from a printout by Glen Ford, printed November 27th, 2006, on the truth 
 
 </div>
 
+
+*[[14:08](https://www.youtube.com/watch?v=OfeSju75iMY&t=848s)]* **In The News: A clip from Goodbye Uncle Tom** — They show you American Indians beside the Negroes sold into slavery.
 
 **[Deuteronomy 28:32](/bible/deuteronomy/28#v32)**  *[[17:05](https://www.youtube.com/watch?v=OfeSju75iMY&t=1025s)]*
 

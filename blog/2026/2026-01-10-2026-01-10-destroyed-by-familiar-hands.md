@@ -19,15 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "deceit", "leader
 
 *[[6:12](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=372s)]* The class is about traitors. Every leader America overthrew fell through someone close to them: Malcolm X, Lumumba, Sankara and now Maduro, betrayed by his own bodyguards. The same spirit rose against Moses in Korah's rebellion, against David in the friend who ate his bread, and against Christ in Judas's kiss. The same will happen inside Israel, where brethren who covet position and money will be paid to set up their leaders. The class then shows the power behind these betrayals, America's coups, embargoes and weapons, and warns the brethren in Venezuela and everywhere not to take up arms. The war is spiritual, and the Lord is a man of war who will bring down the daughter of Babylon.
 
-## In The News
-
-- *[[11:11](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=671s)]* **Accounts of the assassinations of Malcolm X, Patrice Lumumba and Thomas Sankara, each betrayed by a close associate.** — America and Europe never overthrow a leader without someone inside. It will happen here too.
-- *[[49:21](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=2961s)]* **A report says Maduro's own senior bodyguards were turned by the CIA over a year, with one flipped because his sick daughter needed treatment, so Delta Force walked in without a fight.** — The man paid to protect you sold you. Leaders who let their soldiers and police go hungry invite betrayal.
-- *[[1:02:42](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=3762s)]* **Before-and-after images of Libya, Iraq and Haiti after US interventions.** — Those celebrating in Venezuela should look at what 'democracy' brought other nations.
-- *[[1:11:06](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=4266s)]* **A list of US-led coups and regime changes from Cuba in 1933 to Libya in 2011, with the CIA involved in each.** — Republican or Democrat, every president holds the same seat and the same mindset.
-- *[[1:17:11](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=4631s)]* **A chart of the UN Security Council's five permanent members with veto power.** — Even if every nation votes against America, it answers to no law.
-- *[[1:48:45](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=6525s)]* **An explainer says Iran's protests began over the economy after years of sanctions, and declassified CIA papers describe using agitators and propaganda to stir populations.** — The embargo destroys the economy, then the CIA stirs the people to rise and asks them to call for help.
-
 ## Scriptures Opened
 
 **[Ecclesiastes 1:9](/bible/ecclesiastes/1#v9)**  *[[7:29](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=449s)]*
@@ -45,6 +36,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "deceit", "leader
 
 - Men who want to be head in charge will be offered money to betray. Some will say, why teach the Bible, let's buy guns, and some will be wearing a wire.
 
+
+*[[11:11](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=671s)]* **In The News: Accounts of the assassinations of Malcolm X, Patrice Lumumba and Thomas Sankara, each betrayed by a close associate.** — America and Europe never overthrow a leader without someone inside. It will happen here too.
 
 **[Numbers 16:1](/bible/numbers/16#v1)**  *[[19:59](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=1199s)]*
 
@@ -100,6 +93,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "deceit", "leader
     All my inward friends abhorred me, and they whom I loved are turned against me.
 
 
+*[[49:21](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=2961s)]* **In The News: A report says Maduro's own senior bodyguards were turned by the CIA over a year, with one flipped because his sick daughter needed treatment, so Delta Force walked in without a fight.** — The man paid to protect you sold you. Leaders who let their soldiers and police go hungry invite betrayal.
+
+*[[1:02:42](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=3762s)]* **In The News: Before-and-after images of Libya, Iraq and Haiti after US interventions.** — Those celebrating in Venezuela should look at what 'democracy' brought other nations.
+
 **[Malachi 1:4](/bible/malachi/1#v4)**  *[[1:05:40](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=3940s)]*
 
 > <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
@@ -108,6 +105,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "deceit", "leader
 
 - The oil will not benefit Venezuela, as it did not benefit Iraq. You cannot change the nature of a snake.
 
+
+*[[1:11:06](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=4266s)]* **In The News: A list of US-led coups and regime changes from Cuba in 1933 to Libya in 2011, with the CIA involved in each.** — Republican or Democrat, every president holds the same seat and the same mindset.
+
+*[[1:17:11](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=4631s)]* **In The News: A chart of the UN Security Council's five permanent members with veto power.** — Even if every nation votes against America, it answers to no law.
 
 **[Isaiah 46:8](/bible/isaiah/46#v8)**  *[[1:22:22](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=4942s)]*
 
@@ -167,6 +168,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "deceit", "leader
 
 - Because thou hast spoiled many nations, all the remnant of the people shall spoil thee. The nations will give America a bloody nose.
 
+
+*[[1:48:45](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=6525s)]* **In The News: An explainer says Iran's protests began over the economy after years of sanctions, and declassified CIA papers describe using agitators and propaganda to stir populations.** — The embargo destroys the economy, then the CIA stirs the people to rise and asks them to call for help.
 
 **[Isaiah 47:1](/bible/isaiah/47#v1)**  *[[2:00:23](https://www.youtube.com/watch?v=tmB8z0qSYo4&t=7223s)]*
 

@@ -19,14 +19,9 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 
 *[[6:10](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=370s)]* A deacon at the Georgia school opens with the end of America, then turns the lens inward: the heart is deceitful above all things, and the biggest war is within. Jeremiah 17, Mark 7 and Proverbs 6 expose where hidden sin starts and what the law does to keep a man from the evil woman; Achan and Ananias show what secret sin costs a family and a camp; and the close is faith with works, enduring to the end, forgetting the past, and holding fast to what you have.
 
-## In The News
-
-- *[[7:52](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=472s)]* **A commentator says our whole lives have been lived in a bubble, that this is the end, the disintegration of NATO and the post-World War II order, with people who cannot maintain the systems their great-grandparents engineered; the British Empire's end has come for the US, and the Persians came back after the strike on Iran's nuclear sites.** — America is not coming back and will never be great again; that slogan is propaganda. Great kingdoms last about two hundred fifty years, and this July is America's two hundred fiftieth. Since you will not believe the Bible, let Esau say it. All we have to do is endure to the end.
-- *[[1:23:57](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=5037s)]* **A mother says you never know who you are raising until you check their phone; going through her fourteen-year-old son's phone broke her heart, and a child can live a double life on you just like a man.** — Some sisters got mad when Bishop played the video on that website, insisting their child would never. Check your son's and daughter's phones, and one day out of the blue dump the school bag on the floor and search it.
-- *[[1:26:29](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=5189s)]* **Officer Uzziah shows the report of two sisters, ages twelve and fourteen, saved after a Roblox predator drove fifteen hundred miles to snatch them in broad daylight.** — A demon fueled that drive; he did not need sleep or stops. Children give out addresses to grown men posing as children, so take the correction about these games instead of getting mad, or your mirth turns to mourning at a funeral or a missing-person gathering.
-- *[[1:33:02](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=5582s)]* **A young man explains from jail that he killed his ex's child's father because she wanted him to and he wanted her; he says he was blinded and thought it was love.** — No woman is worth killing a man over, and it is the same pattern as brothers who lose the kingdom over a woman. He did none of it the right way, proved nothing for two years, and now he is in jail while she gives herself to the next man. Who is the bigger fool?
-
 ## Scriptures Opened
+
+*[[7:52](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=472s)]* **In The News: A commentator says our whole lives have been lived in a bubble, that this is the end, the disintegration of NATO and the post-World War II order, with people who cannot maintain the systems their great-grandparents engineered; the British Empire's end has come for the US, and the Persians came back after the strike on Iran's nuclear sites.** — America is not coming back and will never be great again; that slogan is propaganda. Great kingdoms last about two hundred fifty years, and this July is America's two hundred fiftieth. Since you will not believe the Bible, let Esau say it. All we have to do is endure to the end.
 
 **[2 Esdras 15:29-30](/bible/2-esdras/15#v29)**  *[[12:14](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=734s)]*
 
@@ -176,6 +171,12 @@ tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "s
 
 - There is nothing covered that shall not be revealed, neither hid that shall not be known. Whatever is spoken in darkness shall be heard in the light and what is said in closets proclaimed on the housetops. The deacon knows who is cooking something to betray, and is not worried, because it always comes to light.
 
+
+*[[1:23:57](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=5037s)]* **In The News: A mother says you never know who you are raising until you check their phone; going through her fourteen-year-old son's phone broke her heart, and a child can live a double life on you just like a man.** — Some sisters got mad when Bishop played the video on that website, insisting their child would never. Check your son's and daughter's phones, and one day out of the blue dump the school bag on the floor and search it.
+
+*[[1:26:29](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=5189s)]* **In The News: Officer Uzziah shows the report of two sisters, ages twelve and fourteen, saved after a Roblox predator drove fifteen hundred miles to snatch them in broad daylight.** — A demon fueled that drive; he did not need sleep or stops. Children give out addresses to grown men posing as children, so take the correction about these games instead of getting mad, or your mirth turns to mourning at a funeral or a missing-person gathering.
+
+*[[1:33:02](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=5582s)]* **In The News: A young man explains from jail that he killed his ex's child's father because she wanted him to and he wanted her; he says he was blinded and thought it was love.** — No woman is worth killing a man over, and it is the same pattern as brothers who lose the kingdom over a woman. He did none of it the right way, proved nothing for two years, and now he is in jail while she gives herself to the next man. Who is the bigger fool?
 
 **[Joshua 7:1-26](/bible/joshua/7#v1)**  *[[1:39:47](https://www.youtube.com/watch?v=jW1q4_5PWP0&t=5987s)]*
 

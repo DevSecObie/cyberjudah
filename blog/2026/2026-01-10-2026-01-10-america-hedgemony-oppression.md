@@ -19,12 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "europe-dark-ages
 
 *[[7:45](https://www.youtube.com/watch?v=udNwS8tEwrg&t=465s)]* The class opens with a call to repent in earnest. The gifts and calling of God are without repentance, but those who return to fornication and other sins after being called will not inherit the kingdom, so every brother and sister must examine themselves. It then turns to America's hegemony. Revelation 17 shows the ten horns, Europe, giving their power to the beast after 1945 through NATO. They will one day hate the whore and burn her. The pale horse rules the fourth part of the earth, and the Monroe Doctrine, now the 'Donroe Doctrine,' is the throne in the sides of the north. God set this oppressor up as his sword, and the nations drinking from America's cup will turn against it.
 
-## In The News
-
-- *[[51:58](https://www.youtube.com/watch?v=udNwS8tEwrg&t=3118s)]* **Reports of a failed assassination plot against Burkina Faso's Ibrahim Traoré, and accounts that a Venezuelan general betrayed Maduro before the raid.** — There is no forgiveness for traitors. Judas sold Christ; loving your neighbour means loving your own people and race.
-- *[[1:13:05](https://www.youtube.com/watch?v=udNwS8tEwrg&t=4385s)]* **European leaders warn of interlocking security threats and pledge to rearm, and the US Congress sees a bill to withdraw from NATO that Trump says he would sign.** — The ten horns gave their power to the beast for a time. Now the alliance is falling apart as Revelation 17 foretold.
-- *[[2:03:31](https://www.youtube.com/watch?v=udNwS8tEwrg&t=7411s)]* **Trump says Venezuela sent $4 billion of oil 'because they respect us again,' threatens to take Greenland, and a defense official says America can project its will anywhere at any time.** — He enlargeth his desire as hell and cannot be satisfied. The taking is what will turn the nations against him.
-
 ## Scriptures Opened
 
 **[Romans 11:29](/bible/romans/11#v29)**  *[[9:58](https://www.youtube.com/watch?v=udNwS8tEwrg&t=598s)]*
@@ -99,6 +93,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "europe-dark-ages
     I will bring plagues upon the world; the sword, famine, death and destruction.
 
 
+*[[51:58](https://www.youtube.com/watch?v=udNwS8tEwrg&t=3118s)]* **In The News: Reports of a failed assassination plot against Burkina Faso's Ibrahim Traoré, and accounts that a Venezuelan general betrayed Maduro before the raid.** — There is no forgiveness for traitors. Judas sold Christ; loving your neighbour means loving your own people and race.
+
 **[Revelation 17:1](/bible/revelation/17#v1)**  *[[58:20](https://www.youtube.com/watch?v=udNwS8tEwrg&t=3500s)]*
 
 > <sup>[1](/bible/revelation/17#v1)</sup> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
@@ -116,6 +112,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "europe-dark-ages
 
 - America is already turning against Europe and the NATO alliance is breaking. The fire at the end is nuclear.
 
+
+*[[1:13:05](https://www.youtube.com/watch?v=udNwS8tEwrg&t=4385s)]* **In The News: European leaders warn of interlocking security threats and pledge to rearm, and the US Congress sees a bill to withdraw from NATO that Trump says he would sign.** — The ten horns gave their power to the beast for a time. Now the alliance is falling apart as Revelation 17 foretold.
 
 **[Habakkuk 1:10](/bible/habakkuk/1#v10)**  *[[1:20:35](https://www.youtube.com/watch?v=udNwS8tEwrg&t=4835s)]*
 
@@ -203,6 +201,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "europe-dark-ages
 
     The way of the kings of the east is prepared, and unclean spirits gather the kings of the earth to battle.
 
+
+*[[2:03:31](https://www.youtube.com/watch?v=udNwS8tEwrg&t=7411s)]* **In The News: Trump says Venezuela sent $4 billion of oil 'because they respect us again,' threatens to take Greenland, and a defense official says America can project its will anywhere at any time.** — He enlargeth his desire as hell and cannot be satisfied. The taking is what will turn the nations against him.
 
 **[Obadiah 1:1](/bible/obadiah/1#v1)**  *[[2:10:44](https://www.youtube.com/watch?v=udNwS8tEwrg&t=7844s)]*
 

@@ -19,11 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "passover-feasts", "purpose",
 
 *[[5:31](https://www.youtube.com/watch?v=OKnkK-FyKyQ&t=331s)]* Navigating through Paul's letters: a walk through Romans 5, the third lesson in a series after Acts 10 and Romans 11, and the Christians' last safe haven. Paul writes to the saints at Rome, Jews who know the law, citing nothing but Moses and the prophets. Romans 4 sets up Abraham, whose faith came before his sacrifice, and the works of the law are temple sacrifice, a debt that ends when the temple falls. Romans 5 then says we are justified by faith and reconciled by Christ's blood: justification, atonement, and reconciliation are one word, at-one-ment, the two kingdoms brought back to God again, which is impossible for nations that were never with him. Isaiah 53 names whose offenses Christ bore, my people; Romans 3 proves both Jews and Gentiles under sin from the Old Testament, where only Israel was under the law; and 2 Esdras 3 gives the origin of sin from Adam through the righteous line that God foreknew and predestinated to be justified and glorified.
 
-## In The News
-
-- *[[59:23](https://www.youtube.com/watch?v=OKnkK-FyKyQ&t=3563s)]* **The dictionary entry for atonement: reparation for a wrong or injury; in Christian theology the reconciliation of God and humankind; from the English at onement.** — Here comes the nonsense: God was never at one with all humankind. At-one-ment is joining two sticks together, the two kingdoms of Ephesians 2:14, back into one.
-- *[[1:03:23](https://www.youtube.com/watch?v=OKnkK-FyKyQ&t=3803s)]* **The thesaurus for reconciliation: the restoration of friendly relations; reuniting, reunion, reconcilement, appeasement, propitiation, resolution, settlement, agreement, harmonization.** — Restoration, reunion, reuniting. Propitiation is in the Bible too. You cannot reunite with someone you were never united with.
-
 ## Scriptures Opened
 
 **[2 Peter 3:15-18](/bible/2-peter/3#v15)**  *[[6:39](https://www.youtube.com/watch?v=OKnkK-FyKyQ&t=399s)]*
@@ -201,6 +196,10 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "passover-feasts", "purpose",
 
     They brought forth the he goats for the sin offering, and the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel, for the king commanded the burnt offering and the sin offering for all Israel. All twelve, because Hezekiah was bringing them back together, with the strangers who showed up for Passover. Reconciliation and atonement were through animals, and Christ's body replaced them; atonement, reconciliation, and justification are three words for the same thing, for the same people, with the same God.
 
+
+*[[59:23](https://www.youtube.com/watch?v=OKnkK-FyKyQ&t=3563s)]* **In The News: The dictionary entry for atonement: reparation for a wrong or injury; in Christian theology the reconciliation of God and humankind; from the English at onement.** — Here comes the nonsense: God was never at one with all humankind. At-one-ment is joining two sticks together, the two kingdoms of Ephesians 2:14, back into one.
+
+*[[1:03:23](https://www.youtube.com/watch?v=OKnkK-FyKyQ&t=3803s)]* **In The News: The thesaurus for reconciliation: the restoration of friendly relations; reuniting, reunion, reconcilement, appeasement, propitiation, resolution, settlement, agreement, harmonization.** — Restoration, reunion, reuniting. Propitiation is in the Bible too. You cannot reunite with someone you were never united with.
 
 **[Romans 3:8-20](/bible/romans/3#v8)**  *[[1:05:15](https://www.youtube.com/watch?v=OKnkK-FyKyQ&t=3915s)]*
 

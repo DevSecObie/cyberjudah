@@ -20,18 +20,6 @@ tags: ["IUIC in the ClassRoom", "leadership", "money", "nations", "war"]
 
 *[[4:15](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=255s)]* The first live episode of the Battle Beyond Radio Show, IUIC Ohio's show focused on our people in Africa, hosted by Captain Joel with Officers Obadiah, Amaziah and Zerubbabel. The topic is China's influence in Zambia: loans a corrupt government can't pay back, then the airport, the electricity company, the national media and a major road, Chinese newspapers, and Zambians worked like slaves in their own land. The class calls the so-called Chinese Moab.
 
-## In The News
-
-- *[[25:01](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=1501s)]* **This is Culture: Zambia's government newspaper publishing in Mandarin, and the Chinese national in Kenya who called Kenyans and President Uhuru Kenyatta monkeys, "poor and foolish and black"** — The whole newspaper in Chinese: that's disrespectful as hell. How does a Chinese man get so bold he curses the president? When you travel abroad they call you monkey, and in your own home they call you monkey.
-- *[[34:53](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=2093s)]* **Laura Miti on Zambians waking up to a newspaper in Chinese: shock, then disbelief; the minister said it was to raise coverage and business among the Chinese community** — That's a damn lie. They fear they'll wake up one day a Chinese colony, and they already own the main highway, the airport and the mines.
-- *[[57:30](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=3450s)]* **Laura Miti: Zambians need to hold their own governments to account; the Chinese are in it for their own interest, and there is no transparency** — She's right: blame your own people, because they're greedy. The leaders travel and see how hospitals, roads and schools are supposed to be, then go right back to the bumpy roads.
-- *[[1:01:55](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=3715s)]* **A Chinese businessman: profits were falling in China, a friend said Zambia had many opportunities** — They look at us as consumers, and the government gives foreigners opportunity while being hard on its own people. One Chinese man had a child by a Zambian sister and offered to buy the child, like Killers of the Flower Moon.
-- *[[1:06:36](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=3996s)]* **A Chinese resident: in the USA it's called lobbying, here it's called corruption; "you are safer being Chinese in Zambia than being a Zambian"** — That's their reality, like a white boy who can walk freely through the hood at night. The curse follows us everywhere we go.
-- *[[1:17:27](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=4647s)]* **A Chinese farmer in Zambia: the government encourages us to leave China; I'm the only Chinese person here, all my employees are Zambians; this country is very Christian, some believe we have been sent here by God** — They were forced to be Christian when colonized, and with that religion they love whoever messed them up. That's the homeborn servant.
-- *[[1:20:26](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=4826s)]* **Citizen video of a Chinese construction company forcing Zambian workers to move a heap of huge stones by hand** — They don't look at them as human beings, and they pay them dirt cheap, a dollar maybe, or skip months. If one of us is enslaved, we're all enslaved.
-- *[[1:31:01](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=5461s)]* **Street video: "everywhere is Chinese, we are controlled by Chinese", Chinese writing and flags on the shops** — This isn't Chinatown; this is baby China in Africa. They come with their diet and traditions too.
-- *[[1:39:19](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=5959s)]* **A Zambian employee pulling his Chinese boss on a cart, and his later statement that it was a misunderstanding because his boss is old with weak legs** — He walked perfectly fine. The boss told him to fix it in the press, like Goodbye Uncle Tom.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -88,6 +76,8 @@ Reading from An article from 2018: Africans fear Zambia has become a Chinese col
     The fruit of thy land shall a nation which thou knowest not eat up, and thou shalt be only oppressed and crushed alway: they didn't give the money because they love Zambia, they saw resources. Africa has the youngest generation, but the jobs go to the other nation, so the young men end up on drugs and crime. All designed like that, because of sin.
 
 
+*[[25:01](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=1501s)]* **In The News: This is Culture: Zambia's government newspaper publishing in Mandarin, and the Chinese national in Kenya who called Kenyans and President Uhuru Kenyatta monkeys, "poor and foolish and black"** — The whole newspaper in Chinese: that's disrespectful as hell. How does a Chinese man get so bold he curses the president? When you travel abroad they call you monkey, and in your own home they call you monkey.
+
 **[Jeremiah 48:29](/bible/jeremiah/48#v29)**  *[[29:11](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=1751s)]*
 
 > <sup>[29](/bible/jeremiah/48#v29)</sup> We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.
@@ -120,6 +110,8 @@ Reading from An article from 2018: Africans fear Zambia has become a Chinese col
 
     Yet will I bring again the captivity of Moab in the latter days, and we live in the latter days.
 
+
+*[[34:53](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=2093s)]* **In The News: Laura Miti on Zambians waking up to a newspaper in Chinese: shock, then disbelief; the minister said it was to raise coverage and business among the Chinese community** — That's a damn lie. They fear they'll wake up one day a Chinese colony, and they already own the main highway, the airport and the mines.
 
 **[Ezekiel 22:29](/bible/ezekiel/22#v29)**  *[[43:02](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=2582s)]*
 
@@ -189,6 +181,12 @@ Reading from An article from 2018: Africans fear Zambia has become a Chinese col
 - Officer Zerubbabel: we are become less than any nation, and be kept under this day in all the world because of our sins. All the nations look at us as the mud in the streets, in America, Africa, Australia, Europe, Asia, and that's how they treat the Zambians today.
 
 
+*[[57:30](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=3450s)]* **In The News: Laura Miti: Zambians need to hold their own governments to account; the Chinese are in it for their own interest, and there is no transparency** — She's right: blame your own people, because they're greedy. The leaders travel and see how hospitals, roads and schools are supposed to be, then go right back to the bumpy roads.
+
+*[[1:01:55](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=3715s)]* **In The News: A Chinese businessman: profits were falling in China, a friend said Zambia had many opportunities** — They look at us as consumers, and the government gives foreigners opportunity while being hard on its own people. One Chinese man had a child by a Zambian sister and offered to buy the child, like Killers of the Flower Moon.
+
+*[[1:06:36](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=3996s)]* **In The News: A Chinese resident: in the USA it's called lobbying, here it's called corruption; "you are safer being Chinese in Zambia than being a Zambian"** — That's their reality, like a white boy who can walk freely through the hood at night. The curse follows us everywhere we go.
+
 **[2 Maccabees 4:44](/bible/2-maccabees/4#v44)**  *[[1:09:14](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=4154s)]*
 
 > <sup>[44](/bible/2-maccabees/4#v44)</sup> Now when the king came to Tyrus, three men that were sent from the senate pleaded the cause before him:
@@ -213,6 +211,10 @@ Reading from An article from 2018: Africans fear Zambia has become a Chinese col
 - The leaders of this people cause them to err: a strong leader sets up resources for his nation, but the diamonds, gold and rubber are in your own ground and you have foreigners build your infrastructure.
 
 
+*[[1:17:27](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=4647s)]* **In The News: A Chinese farmer in Zambia: the government encourages us to leave China; I'm the only Chinese person here, all my employees are Zambians; this country is very Christian, some believe we have been sent here by God** — They were forced to be Christian when colonized, and with that religion they love whoever messed them up. That's the homeborn servant.
+
+*[[1:20:26](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=4826s)]* **In The News: Citizen video of a Chinese construction company forcing Zambian workers to move a heap of huge stones by hand** — They don't look at them as human beings, and they pay them dirt cheap, a dollar maybe, or skip months. If one of us is enslaved, we're all enslaved.
+
 **[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[1:25:53](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=5153s)]*
 
 > <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
@@ -233,6 +235,8 @@ Reading from An article from 2018: Africans fear Zambia has become a Chinese col
 
 - My word shall not return unto me void: did the oppression and slavery happen? Yes. Are we God's chosen people? Yes, because it came out of his mouth. Under these Gentile names, Zambians, Americans, Jamaicans, Indians, you're finding out you are God's chosen people.
 
+
+*[[1:31:01](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=5461s)]* **In The News: Street video: "everywhere is Chinese, we are controlled by Chinese", Chinese writing and flags on the shops** — This isn't Chinatown; this is baby China in Africa. They come with their diet and traditions too.
 
 **[Lamentations 5:2](/bible/lamentations/5#v2)**  *[[1:34:44](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=5684s)]*
 
@@ -255,6 +259,8 @@ Reading from An article from 2018: Africans fear Zambia has become a Chinese col
 
     They shall lay their hand upon Edom and Moab.
 
+
+*[[1:39:19](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=5959s)]* **In The News: A Zambian employee pulling his Chinese boss on a cart, and his later statement that it was a misunderstanding because his boss is old with weak legs** — He walked perfectly fine. The boss told him to fix it in the press, like Goodbye Uncle Tom.
 
 **[Proverbs 28:21](/bible/proverbs/28#v21)**  *[[1:45:46](https://www.youtube.com/watch?v=y5YLHFj_Klw&t=6346s)]*
 

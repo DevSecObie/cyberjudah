@@ -20,13 +20,6 @@ tags: ["IUIC in the ClassRoom", "the-americas", "the-law"]
 
 *[[22:43](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=1363s)]* The Power Hour from IUIC Phoenix, hosted by Captain Yoshua with an officer and Soldier Eric: an open recap of the interview with Dr. Johanna Fernandez on the Young Lords. The officer brings clips from the interview and the captain brings the Young Lords' history, and both lay it against the scriptures: the curses identify Israel north and south, the tents of Judah were raised first, Ephraim's envy departs and Judah stops vexing him, and what the world calls radical and socialist the Bible calls seeking a country and having all things common. Real spirituality comes from keeping the commandments, and it even changes your face.
 
-## In The News
-
-- *[[1:12:03](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=4323s)]* **Wikipedia on the Young Lords: a Chicago street gang turned civil and human rights organization for neighborhood empowerment and self-determination for Puerto Rico, Latinos and colonized third-world people, using mass education, canvassing, community programs, occupations and direct confrontation, and targeted by COINTELPRO; its platform demanded the withdrawal of U.S. forces from Puerto Rico and Vietnam and said no Puerto Rican should serve in the U.S. army against his brothers and sisters** — There's structure, hierarchy and order even in a gang: it's in our spirit to unify. Ezra's giving the sense was mass education, canvassing is flyer missions, and teaching on the Sabbath at camp is direct confrontation; that will get you targeted by the FBI.
-- *[[1:16:29](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=4589s)]* **Clip from the interview: Cha-Cha Jimenez, briefly shown in Judas and the Black Messiah, radicalized in prison, met Fred Hampton, the linchpin of the Rainbow Coalition** — The Panthers had northern-kingdom offshoots and supported each other, the "exchange of talents" Dr. Sanchez of the Brown Berets described.
-- *[[1:43:53](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=6233s)]* **The dictionary definition of radical: advocating thorough or complete political or social change; synonyms revolutionary, progressive, reforming, fanatical, extreme** — Take the politics out and it's social reform, the kingdom we seek.
-- *[[1:50:39](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=6639s)]* **Clip from the interview: the Young Lords, like the Panthers, were self-proclaimed revolutionaries who believed capitalism is organized around profit and ignores human need** — This kingdom is capitalist; we need a new mindset, and even after years it's an everyday fight, as Paul said I die daily.
-
 ## Scriptures Opened
 
 **[Genesis 32:28](/bible/genesis/32#v28)**  *[[40:33](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=2433s)]*
@@ -90,6 +83,10 @@ tags: ["IUIC in the ClassRoom", "the-americas", "the-law"]
     And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the vail upon his face again, until he went in to speak with him.
 
 
+*[[1:12:03](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=4323s)]* **In The News: Wikipedia on the Young Lords: a Chicago street gang turned civil and human rights organization for neighborhood empowerment and self-determination for Puerto Rico, Latinos and colonized third-world people, using mass education, canvassing, community programs, occupations and direct confrontation, and targeted by COINTELPRO; its platform demanded the withdrawal of U.S. forces from Puerto Rico and Vietnam and said no Puerto Rican should serve in the U.S. army against his brothers and sisters** — There's structure, hierarchy and order even in a gang: it's in our spirit to unify. Ezra's giving the sense was mass education, canvassing is flyer missions, and teaching on the Sabbath at camp is direct confrontation; that will get you targeted by the FBI.
+
+*[[1:16:29](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=4589s)]* **In The News: Clip from the interview: Cha-Cha Jimenez, briefly shown in Judas and the Black Messiah, radicalized in prison, met Fred Hampton, the linchpin of the Rainbow Coalition** — The Panthers had northern-kingdom offshoots and supported each other, the "exchange of talents" Dr. Sanchez of the Brown Berets described.
+
 **[Genesis 49:8](/bible/genesis/49#v8)**  *[[1:22:49](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=4969s)]*
 
 > <sup>[8](/bible/genesis/49#v8)</sup> Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father’s children shall bow down before thee.
@@ -148,6 +145,8 @@ tags: ["IUIC in the ClassRoom", "the-americas", "the-law"]
 - I will raise up the tabernacle of David and build it as in the days of old: all twelve tribes unified. There was beef in the days of old but we were unified, and when we reunify the vexing and envying will be done away.
 
 
+*[[1:43:53](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=6233s)]* **In The News: The dictionary definition of radical: advocating thorough or complete political or social change; synonyms revolutionary, progressive, reforming, fanatical, extreme** — Take the politics out and it's social reform, the kingdom we seek.
+
 **[Hebrews 11:13](/bible/hebrews/11#v13)**  *[[1:45:27](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=6327s)]*
 
 > <sup>[13](/bible/hebrews/11#v13)</sup> These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.
@@ -171,6 +170,8 @@ tags: ["IUIC in the ClassRoom", "the-americas", "the-law"]
 
 - These that have turned the world upside down: that's how they referred to the apostles. Militant, die-hard, extremist: all trigger words. If you're controversial that way you're headed in the right direction, because it upsets the white supremacist ideology.
 
+
+*[[1:50:39](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=6639s)]* **In The News: Clip from the interview: the Young Lords, like the Panthers, were self-proclaimed revolutionaries who believed capitalism is organized around profit and ignores human need** — This kingdom is capitalist; we need a new mindset, and even after years it's an everyday fight, as Paul said I die daily.
 
 **[Matthew 6:32](/bible/matthew/6#v32)**  *[[1:51:37](https://www.youtube.com/watch?v=A1hIyF0_8mo&t=6697s)]*
 

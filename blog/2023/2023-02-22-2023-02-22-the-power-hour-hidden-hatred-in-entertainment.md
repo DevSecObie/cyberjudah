@@ -20,18 +20,6 @@ tags: ["IUIC in the ClassRoom", "angels", "media", "money", "satan", "the-americ
 
 *[[7:25](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=445s)]* The Power Hour live from IUIC Austin, hosted by its officers, one on the show for the first time: hidden hatred in entertainment, aimed at the northern kingdom. The Saint Michael statue sold across Latin America shows a white angel slaying a black devil, but the Bible's angels look like burning coals and Christ has woolly hair and feet like brass, while yellow thin hair is a sign of leprosy. From Looney Tunes and the ice cream truck tune to the Redskins, the Seminoles and the slurs in the dictionary, Israel became a byword; and the names of the nations are false nationalities. Return to your God-given name: Israel.
 
-## In The News
-
-- *[[17:27](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=1047s)]* **Pictures of the Saint Michael statue sold beside Cesar Borgia and the Guadalupe: a white angel with a sword over a dark-skinned devil with wings and an afro, one photographed in Reynosa in 2022 and one at a flea market by the Atlanta school** — It disturbs him every time: this is the propaganda used against the so-called natives, Hispanics and blacks.
-- *[[26:53](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=1613s)]* **Africa named after the Roman general Scipio Africanus, who defeated Hannibal; America after Amerigo Vespucci** — When you call yourself African or American you're calling those men your daddy. Amber Alerts list Latino children as white, and his military paperwork said Caucasian.
-- *[[44:59](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=2699s)]* **Old Looney Tunes cartoons showing Native Americans killed, and a cartoon used in a Jay-Z video** — We watched it with a big bowl of cereal before school and never saw anything wrong. Imagine if Bugs Bunny put his knee on Daffy Duck's neck.
-- *[[49:37](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=2977s)]* **The Washington Redskins name controversy: the team became the Commanders in 2022, and the Cleveland Indians became the Guardians** — They trade one name for another, take down statues, and take Black history out of the schools; and they're still not calling themselves Israel.
-- *[[1:00:21](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=3621s)]* **An article on racial slurs formed by putting a word in front of the slur for blacks: insults for Arabs, Cubans, Puerto Ricans, poor Irish, Native Americans, Mexicans, Inuit and Asians, and the history of the slur for Latin Americans after the 1898 occupation of Puerto Rico** — No matter what nation you're from, Esau has a slur for you. That's the byword.
-- *[[1:03:53](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=3833s)]* **The Miccosukee tribe of the Florida Everglades, formerly part of the Seminoles; one source says the Spanish called the mud-laden natives "mico sucio", dirty monkeys** — Seminole means runaway. You're not a Seminole or a Miccosukee; you are the tribe of Reuben. Ponce de Leon named Florida and renamed Puerto Rico from Borinquen.
-- *[[1:20:57](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=4857s)]* **The Florida State Seminoles logo, the Kansas City Chiefs fresh off the Super Bowl, the Chicago Blackhawks, and Cleveland's retired Chief Wahoo** — Nobody fights to change the Chiefs because they won: a gift destroyeth the heart. The only people they use as mascots instead of animals is us.
-- *[[1:29:23](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=5363s)]* **The origin of the ice cream truck melody: an old minstrel record whose hook is a racist line about watermelon** — They put it in plain sight, and we sang it in the hood.
-- *[[1:47:30](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=6450s)]* **A table of the twelve tribes' names and meanings against the false nationalities: Reuben (Seminoles), Simeon (Dominicans), Levi (Haitians), Judah (so-called African Americans), Zebulun (Guatemala to Panama), Issachar (Mexicans), Asher (Colombia to Uruguay), Naphtali (Chile and Argentina), Manasseh (Cubans), Ephraim (Puerto Ricans), Benjamin (West Indian blacks); Guatemala, place of many trees; Honduras, deep waters; Colombia after Columbus; Ecuador, an imaginary line; Argentina, silver; Venezuela, little Venice** — He doesn't claim it's 100 percent; some are obvious. Mexico may mean Messiah, from the books he has, though online sources say center of the moon. You're calling yourself after the conquistador or the metal he stole.
-
 ## Scriptures Opened
 
 **[Psalms 85:11](/bible/psalms/85#v11)**  *[[15:02](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=902s)]*
@@ -42,6 +30,8 @@ tags: ["IUIC in the ClassRoom", "angels", "media", "money", "satan", "the-americ
 
 - Jeremiah 50:33: Israel and Judah were oppressed together and share the curses of Deuteronomy 28, so tonight is hashtag Hispanics and natives.
 
+
+*[[17:27](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=1047s)]* **In The News: Pictures of the Saint Michael statue sold beside Cesar Borgia and the Guadalupe: a white angel with a sword over a dark-skinned devil with wings and an afro, one photographed in Reynosa in 2022 and one at a flea market by the Atlanta school** — It disturbs him every time: this is the propaganda used against the so-called natives, Hispanics and blacks.
 
 **[Ezekiel 1:5](/bible/ezekiel/1#v5)**  *[[20:51](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=1251s)]*
 
@@ -57,6 +47,8 @@ tags: ["IUIC in the ClassRoom", "angels", "media", "money", "satan", "the-americ
 
     As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
 
+
+*[[26:53](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=1613s)]* **In The News: Africa named after the Roman general Scipio Africanus, who defeated Hannibal; America after Amerigo Vespucci** — When you call yourself African or American you're calling those men your daddy. Amber Alerts list Latino children as white, and his military paperwork said Caucasian.
 
 **[2 Corinthians 11:14](/bible/2-corinthians/11#v14)**  *[[27:48](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=1668s)]*
 
@@ -162,6 +154,10 @@ tags: ["IUIC in the ClassRoom", "angels", "media", "money", "satan", "the-americ
     And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:
 
 
+*[[44:59](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=2699s)]* **In The News: Old Looney Tunes cartoons showing Native Americans killed, and a cartoon used in a Jay-Z video** — We watched it with a big bowl of cereal before school and never saw anything wrong. Imagine if Bugs Bunny put his knee on Daffy Duck's neck.
+
+*[[49:37](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=2977s)]* **In The News: The Washington Redskins name controversy: the team became the Commanders in 2022, and the Cleveland Indians became the Guardians** — They trade one name for another, take down statues, and take Black history out of the schools; and they're still not calling themselves Israel.
+
 **[Deuteronomy 28:37](/bible/deuteronomy/28#v37)**  *[[50:56](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=3056s)]*
 
 > <sup>[37](/bible/deuteronomy/28#v37)</sup> And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the Lord shall lead thee.
@@ -177,6 +173,10 @@ tags: ["IUIC in the ClassRoom", "angels", "media", "money", "satan", "the-americ
 
 - They put "red" on our brothers, but the first came out red, and they called his name Esau: he's the real red man. The Redskins logo is a brown man. They should have been the Washington Rednecks.
 
+
+*[[1:00:21](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=3621s)]* **In The News: An article on racial slurs formed by putting a word in front of the slur for blacks: insults for Arabs, Cubans, Puerto Ricans, poor Irish, Native Americans, Mexicans, Inuit and Asians, and the history of the slur for Latin Americans after the 1898 occupation of Puerto Rico** — No matter what nation you're from, Esau has a slur for you. That's the byword.
+
+*[[1:03:53](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=3833s)]* **In The News: The Miccosukee tribe of the Florida Everglades, formerly part of the Seminoles; one source says the Spanish called the mud-laden natives "mico sucio", dirty monkeys** — Seminole means runaway. You're not a Seminole or a Miccosukee; you are the tribe of Reuben. Ponce de Leon named Florida and renamed Puerto Rico from Borinquen.
 
 **[Isaiah 65:15](/bible/isaiah/65#v15)**  *[[1:09:58](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=4198s)]*
 
@@ -209,12 +209,16 @@ tags: ["IUIC in the ClassRoom", "angels", "media", "money", "satan", "the-americ
 - Our people accept the crumbs from the stingy table, WIC, SSI and food stamps, when we're supposed to be the kings ruling the earth.
 
 
+*[[1:20:57](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=4857s)]* **In The News: The Florida State Seminoles logo, the Kansas City Chiefs fresh off the Super Bowl, the Chicago Blackhawks, and Cleveland's retired Chief Wahoo** — Nobody fights to change the Chiefs because they won: a gift destroyeth the heart. The only people they use as mascots instead of animals is us.
+
 **[Revelation 18:4](/bible/revelation/18#v4)**  *[[1:24:12](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=5052s)]*
 
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 
 - They use animals as mascots, and us, because they see us as savages; a mascot is a symbol for good luck, which is idolatry. Come out of her, my people: not fleeing America physically but the ways and mindset of America, its sports and fashions, as Bishop Nathanyel brought out about Baal on Shout Out Tuesday.
 
+
+*[[1:29:23](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=5363s)]* **In The News: The origin of the ice cream truck melody: an old minstrel record whose hook is a racist line about watermelon** — They put it in plain sight, and we sang it in the hood.
 
 **[Jeremiah 5:21](/bible/jeremiah/5#v21)**  *[[1:32:46](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=5566s)]*
 
@@ -294,6 +298,8 @@ tags: ["IUIC in the ClassRoom", "angels", "media", "money", "satan", "the-americ
 
 - The twelve gates bear the names of the twelve tribes of the children of Israel: not Cherokee, Taino or Aztec. Pride goeth before destruction (Proverbs 16:18): take pride in your God-given nationality.
 
+
+*[[1:47:30](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=6450s)]* **In The News: A table of the twelve tribes' names and meanings against the false nationalities: Reuben (Seminoles), Simeon (Dominicans), Levi (Haitians), Judah (so-called African Americans), Zebulun (Guatemala to Panama), Issachar (Mexicans), Asher (Colombia to Uruguay), Naphtali (Chile and Argentina), Manasseh (Cubans), Ephraim (Puerto Ricans), Benjamin (West Indian blacks); Guatemala, place of many trees; Honduras, deep waters; Colombia after Columbus; Ecuador, an imaginary line; Argentina, silver; Venezuela, little Venice** — He doesn't claim it's 100 percent; some are obvious. Mexico may mean Messiah, from the books he has, though online sources say center of the moon. You're calling yourself after the conquistador or the metal he stole.
 
 **[Isaiah 44:5](/bible/isaiah/44#v5)**  *[[2:00:34](https://www.youtube.com/watch?v=iBzTQe7VvPo&t=7234s)]*
 

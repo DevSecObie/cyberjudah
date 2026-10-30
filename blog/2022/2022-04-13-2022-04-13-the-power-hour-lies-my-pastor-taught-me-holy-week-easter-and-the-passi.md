@@ -20,15 +20,6 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "false-religion", "idolatry"
 
 *[[9:47](https://www.youtube.com/watch?v=37LVmJtKUmo&t=587s)]* The Power Hour from IUIC Phoenix in Holy Week, hosted by Deacon Yoshua with two officers: lies my pastor taught me. The canceled show American Gods says people bring their gods with them, old gods fade, and new gods rise from what we give time and attention: technology, media, globalism. Easter is the goddess Eostre dressed up in Christianity, and theology and seminary are philosophy, born in the Catholic Counter-Reformation, that teach men to argue, not to exhort. Plus Trick Baby on the illusion of inclusion.
 
-## In The News
-
-- *[[24:10](https://www.youtube.com/watch?v=37LVmJtKUmo&t=1450s)]* **A guide to the gods of American Gods, the Neil Gaiman series: new gods Technical Boy ("religion is an operating system, prayers are just so much spam"), Media ("time and attention, better than lamb's blood") and Mr. World, the surveillance state; the old goddess Bilquis, the Queen of Sheba, finds worshippers through online dating** — These new gods are the idols of our time: people check their phones first and last, Facebook was researched to be addictive, and binge-watching is worship of a medium. Mr. World is globalism, as in Revelation where all must buy and sell; Amazon and Walmart fall under it. Some of your gods are drugs or alcohol: whatever gets your time and attention in excess. That's why Christ had to die: the world is too polluted for any other redemption.
-- *[[1:02:39](https://www.youtube.com/watch?v=37LVmJtKUmo&t=3759s)]* **Clip from American Gods: Easter's brunch is full of versions of Jesus; Mr. Wednesday tells Ostara that people still paint eggs and hunt them in her name, but don't pray to her: Jesus gets the prayers** — Christianity is a new thing; they go to church to worship hipster Jesus and do the eggs and rabbits of an old goddess. Jesus isn't black Jesus; Jesus is black.
-- *[[1:09:43](https://www.youtube.com/watch?v=37LVmJtKUmo&t=4183s)]* **Vulture and Wikipedia on Eostre: a Germanic goddess of spring and dawn, attested by Bede, saved from oblivion by attaching herself to the Christian holiday; "religious Darwinism, adapt and survive"** — Old spirits take on a new outfit. It goes back further, to Diana of the Ephesians and Egyptian fertility goddesses; read The Two Babylons.
-- *[[1:16:36](https://www.youtube.com/watch?v=37LVmJtKUmo&t=4596s)]* **Clip from the 1972 film Trick Baby: only the smart ones we raise up into white society; he loses his identity, becomes worthless to them and safe for us, and in his love for the creature comforts, except for his color, he's become one of us** — That's the illusion of inclusion, which did more damage than anything done outright, because you can't see your enemy. Ethnic scholarships identify the smart ones. Liberal and conservative are the same, dining together and plotting against you.
-- *[[1:29:30](https://www.youtube.com/watch?v=37LVmJtKUmo&t=5370s)]* **Holy Week in Spain: Catholic brotherhoods in penitential processions, wearing pointed hoods** — Semana Santa customs have nothing biblical about them, and the hoods look like the Ku Klux Klan: and they say it isn't the white man's religion.
-- *[[1:31:38](https://www.youtube.com/watch?v=37LVmJtKUmo&t=5498s)]* **Wikipedia on theology, philosophy and seminaries: seminaries came from the Council of Trent (1545 to 1563) in the Catholic Counter-Reformation against the Protestant Reformation, teaching philosophy as preparation for theology** — Seminary is a man-made Catholic thing; all the denominations are offshoots of Catholicism. They use that same playbook on the Israelites now, buying our precept book like a weapon they don't know how to load.
-
 ## Scriptures Opened
 
 **[1 Timothy 4:1](/bible/1-timothy/4#v1)**  *[[20:03](https://www.youtube.com/watch?v=37LVmJtKUmo&t=1203s)]*
@@ -39,6 +30,8 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "false-religion", "idolatry"
 
 - In American Gods, the old gods are weaker because nobody prays to Odin or Ostara anymore, and new gods rise. He used to be an avid reader, but if he isn't doing his four chapters, why read fiction?
 
+
+*[[24:10](https://www.youtube.com/watch?v=37LVmJtKUmo&t=1450s)]* **In The News: A guide to the gods of American Gods, the Neil Gaiman series: new gods Technical Boy ("religion is an operating system, prayers are just so much spam"), Media ("time and attention, better than lamb's blood") and Mr. World, the surveillance state; the old goddess Bilquis, the Queen of Sheba, finds worshippers through online dating** — These new gods are the idols of our time: people check their phones first and last, Facebook was researched to be addictive, and binge-watching is worship of a medium. Mr. World is globalism, as in Revelation where all must buy and sell; Amazon and Walmart fall under it. Some of your gods are drugs or alcohol: whatever gets your time and attention in excess. That's why Christ had to die: the world is too polluted for any other redemption.
 
 **[Numbers 25:1](/bible/numbers/25#v1)**  *[[25:35](https://www.youtube.com/watch?v=37LVmJtKUmo&t=1535s)]*
 
@@ -95,6 +88,10 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "false-religion", "idolatry"
     Therefore say unto the house of Israel, Thus saith the Lord God; Repent, and turn yourselves from your idols; and turn away your faces from all your abominations.
 
 
+*[[1:02:39](https://www.youtube.com/watch?v=37LVmJtKUmo&t=3759s)]* **In The News: Clip from American Gods: Easter's brunch is full of versions of Jesus; Mr. Wednesday tells Ostara that people still paint eggs and hunt them in her name, but don't pray to her: Jesus gets the prayers** — Christianity is a new thing; they go to church to worship hipster Jesus and do the eggs and rabbits of an old goddess. Jesus isn't black Jesus; Jesus is black.
+
+*[[1:09:43](https://www.youtube.com/watch?v=37LVmJtKUmo&t=4183s)]* **In The News: Vulture and Wikipedia on Eostre: a Germanic goddess of spring and dawn, attested by Bede, saved from oblivion by attaching herself to the Christian holiday; "religious Darwinism, adapt and survive"** — Old spirits take on a new outfit. It goes back further, to Diana of the Ephesians and Egyptian fertility goddesses; read The Two Babylons.
+
 **[Psalms 64:6](/bible/psalms/64#v6)**  *[[1:12:54](https://www.youtube.com/watch?v=37LVmJtKUmo&t=4374s)]*
 
 > <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
@@ -116,12 +113,18 @@ tags: ["IUIC in the ClassRoom", "angels", "deceit", "false-religion", "idolatry"
     So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
 
 
+*[[1:16:36](https://www.youtube.com/watch?v=37LVmJtKUmo&t=4596s)]* **In The News: Clip from the 1972 film Trick Baby: only the smart ones we raise up into white society; he loses his identity, becomes worthless to them and safe for us, and in his love for the creature comforts, except for his color, he's become one of us** — That's the illusion of inclusion, which did more damage than anything done outright, because you can't see your enemy. Ethnic scholarships identify the smart ones. Liberal and conservative are the same, dining together and plotting against you.
+
 **[Wisdom of Solomon 13:1](/bible/wisdom-of-solomon/13#v1)**  *[[1:25:44](https://www.youtube.com/watch?v=37LVmJtKUmo&t=5144s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/13#v1)</sup> Surely vain are all men by nature, who are ignorant of God, and could not out of the good things that are seen know him that is: neither by considering the works did they acknowledge the workmaster;
 
 - The officer: vain are all men by nature who are ignorant of God, and could not out of the good things that are seen know him that is. They see an establishment teaching God's laws the proper way, but neither by considering the works do they acknowledge the workmaster, God's hand in building it.
 
+
+*[[1:29:30](https://www.youtube.com/watch?v=37LVmJtKUmo&t=5370s)]* **In The News: Holy Week in Spain: Catholic brotherhoods in penitential processions, wearing pointed hoods** — Semana Santa customs have nothing biblical about them, and the hoods look like the Ku Klux Klan: and they say it isn't the white man's religion.
+
+*[[1:31:38](https://www.youtube.com/watch?v=37LVmJtKUmo&t=5498s)]* **In The News: Wikipedia on theology, philosophy and seminaries: seminaries came from the Council of Trent (1545 to 1563) in the Catholic Counter-Reformation against the Protestant Reformation, teaching philosophy as preparation for theology** — Seminary is a man-made Catholic thing; all the denominations are offshoots of Catholicism. They use that same playbook on the Israelites now, buying our precept book like a weapon they don't know how to load.
 
 **[Isaiah 29:9](/bible/isaiah/29#v9)**  *[[1:48:18](https://www.youtube.com/watch?v=37LVmJtKUmo&t=6498s)]*
 

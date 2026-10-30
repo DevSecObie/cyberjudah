@@ -19,12 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "money", "pride", "so-called-
 
 *[[9:53](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=593s)]* Deacon Yashua reads the pressure on Venezuela through Habakkuk 2, Micah 2 and Revelation 18. America is modern Babylon, the proud man who gathers all nations and is never satisfied. The class looks at the strikes on boats in the Caribbean, the order classing fentanyl as a weapon of mass destruction, and the claim that Venezuela 'stole' American oil. It sets them beside Iraq, the scriptures on crafty counsel, and those who covet fields and take them by violence. It then explains how Bretton Woods and the dollar made the United States the world's banker, why Israel in the Americas and Africa lives under economic violence, and why only the Redeemer can restore what was robbed and spoiled.
 
-## In The News
-
-- *[[26:56](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=1616s)]* **A senator saying, after a classified briefing, that the strikes on boats off Venezuela have no legal justification and most of the cocaine does not go to the United States.** — The drug war is a pretext, like the weapons claim before Iraq.
-- *[[36:11](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=2171s)]* **The president signing an order classifying fentanyl as a weapon of mass destruction.** — A new label opens the door to preemptive war.
-- *[[1:53:44](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=6824s)]* **A speaker explaining that sub-Saharan Africa pays northern creditors thousands of dollars every minute.** — Others eat Israel's labour, as Deuteronomy 28:33 says.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -88,6 +82,8 @@ Reading from a news article on the fentanyl order  *[[30:47](https://www.youtube
 
 </div>
 
+*[[26:56](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=1616s)]* **In The News: A senator saying, after a classified briefing, that the strikes on boats off Venezuela have no legal justification and most of the cocaine does not go to the United States.** — The drug war is a pretext, like the weapons claim before Iraq.
+
 **[Habakkuk 2:1](/bible/habakkuk/2#v1)**  *[[31:18](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=1878s)]*
 
 > <sup>[1](/bible/habakkuk/2#v1)</sup> I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
@@ -118,6 +114,8 @@ Reading from a post by Donald J. Trump on Venezuela  *[[39:10](https://www.youtu
 - He says that they need to return all of the oil, land, and other assets that they previously stole.
 
 </div>
+
+*[[36:11](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=2171s)]* **In The News: The president signing an order classifying fentanyl as a weapon of mass destruction.** — A new label opens the door to preemptive war.
 
 **[Obadiah 1:5](/bible/obadiah/1#v5)**  *[[40:24](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=2424s)]*
 
@@ -357,6 +355,8 @@ Reading from an excerpt on the heavy crude that Venezuela produces  *[[1:35:38](
 
     They traded the persons of men and vessels of brass in thy market.
 
+
+*[[1:53:44](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=6824s)]* **In The News: A speaker explaining that sub-Saharan Africa pays northern creditors thousands of dollars every minute.** — Others eat Israel's labour, as Deuteronomy 28:33 says.
 
 **[Jeremiah 50:33](/bible/jeremiah/50#v33)**  *[[1:58:36](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=7116s)]*
 

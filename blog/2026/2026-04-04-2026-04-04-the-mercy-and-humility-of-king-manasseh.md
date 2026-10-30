@@ -19,12 +19,6 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
 
 *[[8:35](https://www.youtube.com/watch?v=5tWDINEq3UI&t=515s)]* The mercy and humility of King Manasseh: the son of righteous Hezekiah who rebuilt the high places, burned his children to Baal in the valley of Hinnom and made Judah do worse than the heathen, then was carried in fetters to Babylon, humbled himself, and was heard. The class walks his prayer line by line to show that repentance is appointed to sinners and not to the just, that the Lord breaks the haughty before he honours them, that sin left alone weighs a man down until no one can help him, and that Manasseh stands for the nation and for every one of us who came into this truth with a past.
 
-## In The News
-
-- *[[19:26](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1166s)]* **A description of the valley of the son of Hinnom, Gehenna, read from the screen** — A deep valley south of the old city, known for child sacrifice and later as a burning refuse dump, which is why it became the biblical picture of hell, fire and judgment.
-- *[[20:57](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1257s)]* **Images of Ashtoreth with her eggs and breasts, and of the brass bull of Baal with its plates and the fire beneath** — The spring orgies in honour of the fertility goddess brought winter births, and the babies were laid on the heated plates until they wiggled into the flame while drums drowned the screams. That is what Manasseh had Judah doing by the thousands.
-- *[[1:14:40](https://www.youtube.com/watch?v=5tWDINEq3UI&t=4480s)]* **The definition of a potter's field read from the screen** — A public burial ground for the unclaimed and the poor, with its root in the story of Judas. Many of us come from homes like that, and the class is not to make anyone feel the worst sinner alive but to get us fixed before the Lord returns.
-
 ## Scriptures Opened
 
 **[Sirach 36:1-5](/bible/sirach/36#v1)**  *[[5:08](https://www.youtube.com/watch?v=5tWDINEq3UI&t=308s)]*
@@ -153,6 +147,10 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
 
     The old inhabitants of the holy land were hated for odious works of witchcraft, wicked sacrifices, merciless murders of children, devouring of man's flesh and feasts of blood, and Manasseh did worse than they.
 
+
+*[[19:26](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1166s)]* **In The News: A description of the valley of the son of Hinnom, Gehenna, read from the screen** — A deep valley south of the old city, known for child sacrifice and later as a burning refuse dump, which is why it became the biblical picture of hell, fire and judgment.
+
+*[[20:57](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1257s)]* **In The News: Images of Ashtoreth with her eggs and breasts, and of the brass bull of Baal with its plates and the fire beneath** — The spring orgies in honour of the fertility goddess brought winter births, and the babies were laid on the heated plates until they wiggled into the flame while drums drowned the screams. That is what Manasseh had Judah doing by the thousands.
 
 **[2 Chronicles 33:10-13](/bible/2-chronicles/33#v10)**  *[[31:33](https://www.youtube.com/watch?v=5tWDINEq3UI&t=1893s)]*
 
@@ -313,6 +311,8 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "pride", "purpose", "repentan
 
 - I have sinned above the number of the sands of the sea; my transgressions are multiplied. Many of us come from broken homes and fatherless households with hang-ups we hold on to, and this class is not to make anyone say I am a sinner above all others.
 
+
+*[[1:14:40](https://www.youtube.com/watch?v=5tWDINEq3UI&t=4480s)]* **In The News: The definition of a potter's field read from the screen** — A public burial ground for the unclaimed and the poor, with its root in the story of Judas. Many of us come from homes like that, and the class is not to make anyone feel the worst sinner alive but to get us fixed before the Lord returns.
 
 **[Luke 13:1-5](/bible/luke/13#v1)**  *[[1:16:49](https://www.youtube.com/watch?v=5tWDINEq3UI&t=4609s)]*
 

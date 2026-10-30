@@ -19,26 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nation
 
 *[[9:21](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=561s)]* Back in New York, Bishop Nathanyel teaches Zionism in the face of Syria and Hezbollah while Iran holds the Strait of Hormuz: the man-made waterways of Isaiah 19, Mount Seir's perpetual hatred and the two countries Edom took as Jews and as Christians, the violent man of Psalms 140 who takes the kingdom by force, Stokely Carmichael on Zionism as a satanic movement, the Khazars who converted in the Caucasus, the coup that put an Al-Qaeda emir over Syria as the Romans did in Maccabees, the helpers of Lebanon and the bastard in Ashdod in Jeremiah 47 and Zechariah 9, and the dragons of Arabia and the horrible star of 2 Esdras 15 that go steadfastly unto Babylon. It closes on the prisoners of hope, rendered double, made the sword of a mighty man.
 
-## In The News
-
-- *[[35:14](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2114s)]* **A commentator calling Israel crazy white people of Eastern European extraction who founded a colony and said the Bible promised it, armed by American money and ringed by American bases** — When we say it they call us racist; the white man says it of his own and nobody blinks.
-- *[[42:44](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2564s)]* **A New York rabbi saying not six million, not even three million Jews died in the Holocaust** — From his own mouth, not ours.
-- *[[50:32](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3032s)]* **Kwame Ture, Stokely Carmichael, on Zionism** — Zionism is a political philosophy with nothing to do with religion, organised in Basel in 1897 by Theodor Herzl, an atheist who set out to found the state God promised; a satanic, imperialist, racist movement that took the Palestinians' land by terror while America sent billions with millions homeless. He knew in the sixties, and he knew Africa gave Judaism to the world.
-- *[[56:48](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3408s)]* **A 2020 Supreme Court filing on Ashkenazi communities, the Talmud's rules on children, metzitzah b'peh and herpes deaths in New York, and the passage on giving seed to Moloch** — Screenshot it and fact-check it; this is the law the Israelis Trump supports live by.
-- *[[59:33](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3573s)]* **Trump saying we have to bring religion back, and that the bullet changed him** — Their god is not the God of the Bible; he supports people who follow the Talmud, which allows pedophilia and the worship of Moloch.
-- *[[1:01:16](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3676s)]* **The Secretary of War announcing Operation Epic Fury against Iran: forty-seven years, the forty-seventh president, we will hunt you down and kill you** — That is a beast speaking as a dragon: plant your spies and bases in a country, call its retaliation a war on America.
-- *[[1:11:36](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4296s)]* **Bashar al-Assad on Trump: the president is only a performer, the deep state dictates and accepts only puppets and proxies** — Putin says the same and black people are not listening; Israel wants to be the superpower of its region and cannot allow one strong government there, so Syria was handed to a rebel, Iran is attacked, and Saudi Arabia and Turkey are next.
-- *[[1:16:19](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4579s)]* **The pyramid of world control: the all-seeing eye, the council of thirteen families, the think tanks, the banks, the religions, governments, education and media, and the sheep at the bottom** — The president is a manager; the same eye is on the dollar; only God can bring that down, whatever a Negro in government thinks he will change.
-- *[[1:21:46](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4906s)]* **Iran mocking Trump's five-day pause: no direct talks, no indirect talks, another defeat for the devil** — Iran says the pause is fear of the strait closing and the bases and Gulf energy being hit; and Trump wanted NATO to step in because America cannot spend all her weapons with other enemies watching.
-- *[[1:47:50](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=6470s)]* **The fall of Damascus and the flight of Assad** — A man with a ten-million-dollar bounty on his head now shakes Trump's hand in the White House.
-- *[[2:08:34](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=7714s)]* **Israel's defence minister announcing the occupation of southern Lebanon to the Litani, and the strikes on fuel stations** — Every helper of Tyre and Sidon is being cut off before our eyes.
-- *[[2:20:57](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8457s)]* **A news report: Hezbollah rebuilt by Iran after 2024 for this very moment**
-- *[[2:24:38](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8678s)]* **Tatbir, the Shia ritual of cutting oneself** — How long wilt thou cut thyself: the Muslims cutting themselves in prayer to their god for help against their enemies, much like the Catholics.
-- *[[2:43:41](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9821s)]* **A commentator calling Israel a militarised vampire nation living on blood, out to return Iran to the Stone Age** — Since thou hast not hated blood, blood shall pursue thee; Dracula is about them.
-- *[[2:57:03](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=10623s)]* **Malcolm X: people reject the truth because it is uncomfortable, and discipline turns knowledge into power** — Black and Latino people hate the discomfort of change, so what they learn just sits there and becomes nothing.
-- *[[3:04:27](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11067s)]* **A commentator on America's eight hundred bases, its UN veto against humanity and its expired nuclear treaties: every accusation is a confession** — This week America and Israel voted against a UN motion on slavery; America is the oppressor and the king of Babylon.
-- *[[3:08:56](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11336s)]* **The film Argo and the 1953 coup that installed the Shah** — The embassy burned its records because they were all spies; that is why Iran is still at it today.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -259,6 +239,8 @@ Reading from *Chosen People from the Caucasus*, p. 232  *[[29:30](https://www.yo
     Esau dwelt in Mount Seir; Esau is Edom.
 
 
+*[[35:14](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2114s)]* **In The News: A commentator calling Israel crazy white people of Eastern European extraction who founded a colony and said the Bible promised it, armed by American money and ringed by American bases** — When we say it they call us racist; the white man says it of his own and nobody blinks.
+
 **[Psalms 140:1-4](/bible/psalms/140#v1)**  *[[37:36](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2256s)]*
 
 > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
@@ -299,6 +281,8 @@ Reading from a headline on a New York rabbi, on the screen  *[[43:01](https://ww
 
 </div>
 
+
+*[[42:44](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2564s)]* **In The News: A New York rabbi saying not six million, not even three million Jews died in the Holocaust** — From his own mouth, not ours.
 
 **[Psalms 50:16-17](/bible/psalms/50#v16)**  *[[43:35](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=2615s)]*
 
@@ -408,6 +392,12 @@ Reading from definitions of Zionism, Zionists' use of Judaism, and Judaism and t
 </div>
 
 
+*[[50:32](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3032s)]* **In The News: Kwame Ture, Stokely Carmichael, on Zionism** — Zionism is a political philosophy with nothing to do with religion, organised in Basel in 1897 by Theodor Herzl, an atheist who set out to found the state God promised; a satanic, imperialist, racist movement that took the Palestinians' land by terror while America sent billions with millions homeless. He knew in the sixties, and he knew Africa gave Judaism to the world.
+
+*[[56:48](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3408s)]* **In The News: A 2020 Supreme Court filing on Ashkenazi communities, the Talmud's rules on children, metzitzah b'peh and herpes deaths in New York, and the passage on giving seed to Moloch** — Screenshot it and fact-check it; this is the law the Israelis Trump supports live by.
+
+*[[59:33](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3573s)]* **In The News: Trump saying we have to bring religion back, and that the bullet changed him** — Their god is not the God of the Bible; he supports people who follow the Talmud, which allows pedophilia and the worship of Moloch.
+
 **[Revelation 13:11](/bible/revelation/13#v11)**  *[[1:00:25](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3625s)]*
 
 > <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
@@ -429,6 +419,8 @@ Reading from a definition of the number 47, on the screen  *[[1:04:40](https://w
 
 </div>
 
+
+*[[1:01:16](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3676s)]* **In The News: The Secretary of War announcing Operation Epic Fury against Iran: forty-seven years, the forty-seventh president, we will hunt you down and kill you** — That is a beast speaking as a dragon: plant your spies and bases in a country, call its retaliation a war on America.
 
 **[Habakkuk 1:10-11](/bible/habakkuk/1#v10)**  *[[1:04:56](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=3896s)]*
 
@@ -486,6 +478,8 @@ Reading from *In the Pillory: The Tale of the Borgia Pope*  *[[1:09:34](https://
 - He that cometh preaching another Jesus, whom we have not preached; no scripture describes the Borgia image. With another Jesus comes another spirit, an antichrist spirit, and another gospel: black Christians say it does not matter what he looks like, only the message, but the apostles never taught a gospel where all races come together in the name of a white Jesus.
 
 
+*[[1:11:36](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4296s)]* **In The News: Bashar al-Assad on Trump: the president is only a performer, the deep state dictates and accepts only puppets and proxies** — Putin says the same and black people are not listening; Israel wants to be the superpower of its region and cannot allow one strong government there, so Syria was handed to a rebel, Iran is attacked, and Saudi Arabia and Turkey are next.
+
 **[2 Esdras 11:7-10](/bible/2-esdras/11#v7)**  *[[1:14:43](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4483s)]*
 
 > <sup>[7](/bible/2-esdras/11#v7)</sup> And I beheld, and, lo, the eagle rose upon her talons, and spake to her feathers, saying,
@@ -506,6 +500,8 @@ Reading from *In the Pillory: The Tale of the Borgia Pope*  *[[1:09:34](https://
 
     We wrestle not against flesh and blood but against principalities, powers and spiritual wickedness in high places: you are not fighting Trump, and the pyramid of families, think tanks and banks works with spirits.
 
+
+*[[1:16:19](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4579s)]* **In The News: The pyramid of world control: the all-seeing eye, the council of thirteen families, the think tanks, the banks, the religions, governments, education and media, and the sheep at the bottom** — The president is a manager; the same eye is on the dollar; only God can bring that down, whatever a Negro in government thinks he will change.
 
 **[Proverbs 19:5](/bible/proverbs/19#v5)**  *[[1:19:24](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4764s)]*
 
@@ -533,6 +529,8 @@ Reading from the headline of a news video on Iran  *[[1:22:16](https://www.youtu
 
 </div>
 
+
+*[[1:21:46](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=4906s)]* **In The News: Iran mocking Trump's five-day pause: no direct talks, no indirect talks, another defeat for the devil** — Iran says the pause is fear of the strait closing and the bases and Gulf energy being hit; and Trump wanted NATO to step in because America cannot spend all her weapons with other enemies watching.
 
 **[Proverbs 4:14-17](/bible/proverbs/4#v14)**  *[[1:25:23](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=5123s)]*
 
@@ -684,6 +682,8 @@ Reading from an entry on the word slip, on the screen  *[[1:45:14](https://www.y
 </div>
 
 
+*[[1:47:50](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=6470s)]* **In The News: The fall of Damascus and the flight of Assad** — A man with a ten-million-dollar bounty on his head now shakes Trump's hand in the White House.
+
 **[1 Maccabees 8:13](/bible/1-maccabees/8#v13)**  *[[1:52:53](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=6773s)]*
 
 > <sup>[13](/bible/1-maccabees/8#v13)</sup> Also that, whom they would help to a kingdom, those reign; and whom again they would, they displace: finally, that they were greatly exalted:
@@ -801,39 +801,7 @@ Reading from a text on Ahmed al-Sharaa, on the screen  *[[1:57:04](https://www.y
     Deliver my soul from the wicked, which is thy sword, from men which are thy hand: the white man is the sword of the Lord.
 
 
-**[Jeremiah 49:23-27](/bible/jeremiah/49#v23)**  *[[2:27:14](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8834s)]*
-
-> <sup>[23](/bible/jeremiah/49#v23)</sup> Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; there is sorrow on the sea; it cannot be quiet.
->
-> <sup>[24](/bible/jeremiah/49#v24)</sup> Damascus is waxed feeble, and turneth herself to flee, and fear hath seized on her: anguish and sorrows have taken her, as a woman in travail.
->
-> <sup>[25](/bible/jeremiah/49#v25)</sup> How is the city of praise not left, the city of my joy!
->
-> <sup>[26](/bible/jeremiah/49#v26)</sup> Therefore her young men shall fall in her streets, and all the men of war shall be cut off in that day, saith the Lord of hosts.
->
-> <sup>[27](/bible/jeremiah/49#v27)</sup> And I will kindle a fire in the wall of Damascus, and it shall consume the palaces of Ben–hadad.
-
-- Damascus, Hamath and Arpad are all Syria: confounded, fainthearted, sorrow on the sea that cannot be quiet, waxed feeble and turning to flee, anguish as a woman in travail. The city of praise, the city of my joy, because that land once belonged to the twelve tribes.
-
-- Her young men shall fall in her streets and a fire in the wall of Damascus shall consume the palaces of Benhadad: what the Bible records historically recurs, and the new president of Syria is the terror network's emir with a haircut, allied with a list of designated jihadist groups.
-
-
-<div class="reading">
-
-Reading from a list on Hay'at Tahrir al-Sham's terror network in Syria  *[[2:29:42](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8982s)]*
-
-> Hay'at Tahrir al-Sham's terror network in Syria. The Biden administration is reportedly debating removing Hay'at Tahrir al-Sham from the list of designated foreign terrorist organizations.
-
-- We want to make this guy president. We got to take that group off the terrorist.
-
-> However, while the group's leader, Abu Muhammad al-Julani, is specifically designated global terrorist, attempts to portray HTS as moderate, a host of jihadist groups, many of whom are designated as foreign terror organizations, fight under the banner of or are allied with HTS.
->
-> Turkistan Islamic Party, Muhajideen Goluba Division, Katibat Imam al-Bukhari, Katibat al-Tawhid wal-Jihad, Islamic Jihad Union, Liwa al-Muhajireen wal-Ansar, Ajnad al-Kavkaz, Jama'at al-Alban, Ansar al-Islam, Ansar al-Tawhid. Hay'at Tahrir al-Sham routinely cooperates with foreign terror groups in Syria.
-
-- I gave you a list of terror groups, which are the helpers we read about in Jeremiah 47. All the helpers shall be cut off.
-
-</div>
-
+*[[2:08:34](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=7714s)]* **In The News: Israel's defence minister announcing the occupation of southern Lebanon to the Litani, and the strikes on fuel stations** — Every helper of Tyre and Sidon is being cut off before our eyes.
 
 **[2 Esdras 15:14-21](/bible/2-esdras/15#v14)**  *[[2:10:53](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=7853s)]*
 
@@ -886,6 +854,44 @@ Reading from a text on Hezbollah, on the screen  *[[2:19:54](https://www.youtube
 > and occupation of the south backed by Iran's Revolutionary Guard to export its Islamic revolution emerging from Lebanon's Shiite community during the civil war. It aimed to expel Western influence, destroy the Israeli state, and establish an Islamist regime. Key reasons for its creation include Israeli invasion of Lebanon. Hezbollah was formed to fight Israeli forces that invaded to dismantle the Palestine Liberation Organization which was operating from Lebanon.
 
 - That's the PLO.
+
+</div>
+
+
+*[[2:20:57](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8457s)]* **In The News: A news report: Hezbollah rebuilt by Iran after 2024 for this very moment**
+
+*[[2:24:38](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8678s)]* **In The News: Tatbir, the Shia ritual of cutting oneself** — How long wilt thou cut thyself: the Muslims cutting themselves in prayer to their god for help against their enemies, much like the Catholics.
+
+**[Jeremiah 49:23-27](/bible/jeremiah/49#v23)**  *[[2:27:14](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8834s)]*
+
+> <sup>[23](/bible/jeremiah/49#v23)</sup> Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; there is sorrow on the sea; it cannot be quiet.
+>
+> <sup>[24](/bible/jeremiah/49#v24)</sup> Damascus is waxed feeble, and turneth herself to flee, and fear hath seized on her: anguish and sorrows have taken her, as a woman in travail.
+>
+> <sup>[25](/bible/jeremiah/49#v25)</sup> How is the city of praise not left, the city of my joy!
+>
+> <sup>[26](/bible/jeremiah/49#v26)</sup> Therefore her young men shall fall in her streets, and all the men of war shall be cut off in that day, saith the Lord of hosts.
+>
+> <sup>[27](/bible/jeremiah/49#v27)</sup> And I will kindle a fire in the wall of Damascus, and it shall consume the palaces of Ben–hadad.
+
+- Damascus, Hamath and Arpad are all Syria: confounded, fainthearted, sorrow on the sea that cannot be quiet, waxed feeble and turning to flee, anguish as a woman in travail. The city of praise, the city of my joy, because that land once belonged to the twelve tribes.
+
+- Her young men shall fall in her streets and a fire in the wall of Damascus shall consume the palaces of Benhadad: what the Bible records historically recurs, and the new president of Syria is the terror network's emir with a haircut, allied with a list of designated jihadist groups.
+
+
+<div class="reading">
+
+Reading from a list on Hay'at Tahrir al-Sham's terror network in Syria  *[[2:29:42](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=8982s)]*
+
+> Hay'at Tahrir al-Sham's terror network in Syria. The Biden administration is reportedly debating removing Hay'at Tahrir al-Sham from the list of designated foreign terrorist organizations.
+
+- We want to make this guy president. We got to take that group off the terrorist.
+
+> However, while the group's leader, Abu Muhammad al-Julani, is specifically designated global terrorist, attempts to portray HTS as moderate, a host of jihadist groups, many of whom are designated as foreign terror organizations, fight under the banner of or are allied with HTS.
+>
+> Turkistan Islamic Party, Muhajideen Goluba Division, Katibat Imam al-Bukhari, Katibat al-Tawhid wal-Jihad, Islamic Jihad Union, Liwa al-Muhajireen wal-Ansar, Ajnad al-Kavkaz, Jama'at al-Alban, Ansar al-Islam, Ansar al-Tawhid. Hay'at Tahrir al-Sham routinely cooperates with foreign terror groups in Syria.
+
+- I gave you a list of terror groups, which are the helpers we read about in Jeremiah 47. All the helpers shall be cut off.
 
 </div>
 
@@ -1011,6 +1017,8 @@ Reading from an article on Jeffrey Epstein and the DOJ files  *[[2:41:28](https:
 </div>
 
 
+*[[2:43:41](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=9821s)]* **In The News: A commentator calling Israel a militarised vampire nation living on blood, out to return Iran to the Stone Age** — Since thou hast not hated blood, blood shall pursue thee; Dracula is about them.
+
 **[Zechariah 9:9-11](/bible/zechariah/9#v9)**  *[[2:49:25](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=10165s)]*
 
 > <sup>[9](/bible/zechariah/9#v9)</sup> Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
@@ -1111,12 +1119,18 @@ Reading from an article on Jeffrey Epstein and the DOJ files  *[[2:41:28](https:
     For your shame ye shall have double and everlasting joy; their seed shall be known among the Gentiles as the seed the Lord hath blessed.
 
 
+*[[2:57:03](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=10623s)]* **In The News: Malcolm X: people reject the truth because it is uncomfortable, and discipline turns knowledge into power** — Black and Latino people hate the discomfort of change, so what they learn just sits there and becomes nothing.
+
+*[[3:04:27](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11067s)]* **In The News: A commentator on America's eight hundred bases, its UN veto against humanity and its expired nuclear treaties: every accusation is a confession** — This week America and Israel voted against a UN motion on slavery; America is the oppressor and the king of Babylon.
+
 **[Isaiah 14:4](/bible/isaiah/14#v4)**  *[[3:06:15](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11175s)]*
 
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
 
 - This proverb against the king of Babylon: how hath the oppressor ceased. America is the oppressor, the wicked, the king of Babylon and Lucifer, with a seat at the UN and no justice in it.
 
+
+*[[3:08:56](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11336s)]* **In The News: The film Argo and the 1953 coup that installed the Shah** — The embassy burned its records because they were all spies; that is why Iran is still at it today.
 
 **[Isaiah 19:18-20](/bible/isaiah/19#v18)**  *[[3:09:44](https://www.youtube.com/watch?v=1vtxrpoLjyM&t=11384s)]*
 

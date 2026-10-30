@@ -19,10 +19,6 @@ tags: ["IUIC in the ClassRoom", "faith"]
 
 *[[6:33](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=393s)]* Part three of Book of Our Fathers, the who's who of the Bible: Joshua, Caleb, the judges and Samuel, each one named with his tribe, his birth, his battles and the point of his life. It opens on why our people were cut off from this heritage and who went to great lengths to hide it, then walks Ecclesiasticus 46 figure by figure out of the histories.
 
-## In The News
-
-- *[[33:44](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2024s)]* **A video of a commentator answering Kanye West's claim that black people are of the twelve tribes** — He grants that a large percentage of those sold in the transatlantic slave trade were of Israelite tribes displaced in Africa, then says our people reach false conclusions from a colonised Christian framework and mistranslations of the King James Bible. The information is busting out the seams, so the work now is damage control: admit it, include themselves in it, and steer our people away from Christ. We never needed validation from any nation, only from the Most High and his son, and we had it before they were forced to say it.
-
 ## Scriptures Opened
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[8:17](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=497s)]*
@@ -112,6 +108,8 @@ tags: ["IUIC in the ClassRoom", "faith"]
 
     The earth is given into the hand of the wicked; he covereth the faces of the judges thereof. He has hidden the true kings of this earth and is holding back the emergence of God's people as long as he can — and Israel is busting out the seams now, which is why the information is being controlled and our pages taken down.
 
+
+*[[33:44](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2024s)]* **In The News: A video of a commentator answering Kanye West's claim that black people are of the twelve tribes** — He grants that a large percentage of those sold in the transatlantic slave trade were of Israelite tribes displaced in Africa, then says our people reach false conclusions from a colonised Christian framework and mistranslations of the King James Bible. The information is busting out the seams, so the work now is damage control: admit it, include themselves in it, and steer our people away from Christ. We never needed validation from any nation, only from the Most High and his son, and we had it before they were forced to say it.
 
 **[Joel 3:4-6](/bible/joel/3#v4)**  *[[39:45](https://www.youtube.com/watch?v=rlhDrWiUMVs&t=2385s)]*
 

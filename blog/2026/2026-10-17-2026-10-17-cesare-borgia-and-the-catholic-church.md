@@ -19,17 +19,9 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "europe-dark-ages", "f
 
 *[[6:33](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=393s)]* Cesare Borgia and the Catholic Church: the image of the beast, why so many of our people worship Cesare Borgia, and the history behind him. Rome fell in 193 AD and our forefathers ruled through the dark ages, as the black icons and books of Europe show; Rome came back in 1453, Spain and Portugal with the Catholic Church destroyed Judah in Africa and the northern kingdom in the Americas, and Pope Alexander VI turned his son Cesare into the image of Christ the world was made to worship. Taught at the Feast of Tabernacles, with a charge to the brothers to study, become teachers and expose the Catholic Church.
 
-## In The News
-
-- *[[10:49](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=649s)]* **The class intro video: the Borgia family in Rome, Rodrigo with the authority of the papacy summoning a painter to paint the Messiah in Cesare's likeness, then the Inquisition and the Atlantic slave trade** — The history behind the image: a face repeated long enough, and generations forget who chose it.
-- *[[1:05:48](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3948s)]* **The Columbus lighthouse and statue in the Dominican Republic, with a naked Taino woman crawling up to Christopher Columbus** — **Captain Zeph:** That is how they want us to remember our history, conquered by Columbus; but our history goes further: we were speaking Hebrew and keeping our high holy days on Hispaniola.
-- *[[1:40:03](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6003s)]* **A news report: local Catholics call on Pope Leo XIV to address clergy sex abuse, with the Archbishop of New Orleans calling it one of the major issues** — Forbidding to marry: the Catholic Church does not teach our people God's commandments, and this is why so many end up in a life of sin.
-- *[[1:41:46](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6106s)]* **A news report: an Iowa church covered up a priest's abuse of 50 boys; the Diocese of Sioux City let Father Jerome Coyle live with the Ortiz family in New Mexico** — They always cover it up. **Captain Zeph:** In the background sits an image of Cesare Borgia; they still believe in the white man Jesus while the church molests their children. Why is the Catholic Church not called a hate group?
-- *[[1:45:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6355s)]* **A still from the movie Spotlight** — When you watch Spotlight, it goes into the Catholic Church and how they cover up sex abuse, the big scandals, and how they pay it out in settlements. An excellent movie.
-- *[[1:47:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6475s)]* **A video of people lining up to shake Pope Leo's hand** — Look how Esau feels about you: everybody happy to shake the white man's hand, and look at his face when they do.
-- *[[1:59:53](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=7193s)]* **A documentary on the atom bomb and the nuclear chain reaction** — John saw the dropping of the atom bomb: fire come down from heaven in the sight of men in 1945, 130,000 people disintegrated, something the world never saw before.
-
 ## Scriptures Opened
+
+*[[10:49](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=649s)]* **In The News: The class intro video: the Borgia family in Rome, Rodrigo with the authority of the papacy summoning a painter to paint the Messiah in Cesare's likeness, then the Inquisition and the Atlantic slave trade** — The history behind the image: a face repeated long enough, and generations forget who chose it.
 
 **[Hosea 4:17](/bible/hosea/4#v17)**  *[[15:48](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=948s)]*
 
@@ -411,6 +403,8 @@ Reading from *Lost Tribes and Promised Lands*, p. 91  *[[1:10:33](https://www.yo
 
 </div>
 
+*[[1:05:48](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=3948s)]* **In The News: The Columbus lighthouse and statue in the Dominican Republic, with a naked Taino woman crawling up to Christopher Columbus** — **Captain Zeph:** That is how they want us to remember our history, conquered by Columbus; but our history goes further: we were speaking Hebrew and keeping our high holy days on Hispaniola.
+
 **[Isaiah 5:20](/bible/isaiah/5#v20)**  *[[1:12:06](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=4326s)]*
 
 > <sup>[20](/bible/isaiah/5#v20)</sup> Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
@@ -655,6 +649,14 @@ Reading from a report on Catholic sex abuse settlements  *[[1:46:46](https://www
 
 </div>
 
+*[[1:40:03](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6003s)]* **In The News: A news report: local Catholics call on Pope Leo XIV to address clergy sex abuse, with the Archbishop of New Orleans calling it one of the major issues** — Forbidding to marry: the Catholic Church does not teach our people God's commandments, and this is why so many end up in a life of sin.
+
+*[[1:41:46](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6106s)]* **In The News: A news report: an Iowa church covered up a priest's abuse of 50 boys; the Diocese of Sioux City let Father Jerome Coyle live with the Ortiz family in New Mexico** — They always cover it up. **Captain Zeph:** In the background sits an image of Cesare Borgia; they still believe in the white man Jesus while the church molests their children. Why is the Catholic Church not called a hate group?
+
+*[[1:45:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6355s)]* **In The News: A still from the movie Spotlight** — When you watch Spotlight, it goes into the Catholic Church and how they cover up sex abuse, the big scandals, and how they pay it out in settlements. An excellent movie.
+
+*[[1:47:55](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6475s)]* **In The News: A video of people lining up to shake Pope Leo's hand** — Look how Esau feels about you: everybody happy to shake the white man's hand, and look at his face when they do.
+
 **[Revelation 13:6-8](/bible/revelation/13#v6)**  *[[1:49:25](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=6565s)]*
 
 > <sup>[6](/bible/revelation/13#v6)</sup> And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
@@ -746,6 +748,8 @@ Reading from *America, Being the Latest and Most Accurate Description of the New
 
 - As many as would not worship the image of the beast should be killed: if you didn't worship this image, they killed you. This is history.
 
+
+*[[1:59:53](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=7193s)]* **In The News: A documentary on the atom bomb and the nuclear chain reaction** — John saw the dropping of the atom bomb: fire come down from heaven in the sight of men in 1945, 130,000 people disintegrated, something the world never saw before.
 
 **[2 Timothy 2:15](/bible/2-timothy/2#v15)**  *[[2:04:33](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=7473s)]*
 

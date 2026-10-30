@@ -20,11 +20,6 @@ tags: ["IUIC in the ClassRoom", "angels", "christ", "heaven-hell", "the-americas
 
 *[[1:38](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=98s)]* Today we're going to deal with what society calls UFOs, unidentified flying objects, already written in the Bible: are they fact or are they fiction? This is talking about a chariot, a wheel, a roll that the prophet saw in the heavens: the curse that goeth forth over the face of the whole earth, and the clouds of heaven Christ returns in, the chariots of Israel.
 
-## In The News
-
-- *[[4:20](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=260s)]* **A montage of news reports on UFO sightings: Mexican Air Force pilots taping eleven objects, a light over Jerusalem, the Vatican's conference on alien life, lights over San Diego, former Air Force officers on nuclear missile sites, Arizona, the airport shut down in China, the fire officers' guide with a chapter on UFOs, Oklahoma, Kansas City, Flagler County and Yakima County.** — All over the world they're seeing them. The Bible says this is the curse that goes forth throughout the face of the whole earth.
-- *[[20:32](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=1232s)]* **President Ronald Reagan telling of his talk with General Secretary Gorbachev, how easy their task would be if there were a threat to this world from some other species from another planet, followed by an animation of the Star Wars program, the Strategic Defense Initiative.** — The white man knows the purpose of the chariots. The Star Wars program was a dragnet of weapons around the earth pointed outwards, to fight against Jesus Christ and the enchanted forces of heaven.
-
 ## Scriptures Opened
 
 **[Zechariah 5:1-2](/bible/zechariah/5#v1)**  *[[1:38](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=98s)]*
@@ -73,6 +68,8 @@ tags: ["IUIC in the ClassRoom", "angels", "christ", "heaven-hell", "the-americas
     Because thou hast spoiled many nations, all the remnant of the people shall spoil thee.
 
 
+*[[4:20](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=260s)]* **In The News: A montage of news reports on UFO sightings: Mexican Air Force pilots taping eleven objects, a light over Jerusalem, the Vatican's conference on alien life, lights over San Diego, former Air Force officers on nuclear missile sites, Arizona, the airport shut down in China, the fire officers' guide with a chapter on UFOs, Oklahoma, Kansas City, Flagler County and Yakima County.** — All over the world they're seeing them. The Bible says this is the curse that goes forth throughout the face of the whole earth.
+
 **[Zechariah 5:4](/bible/zechariah/5#v4)**  *[[17:55](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=1075s)]*
 
 > <sup>[4](/bible/zechariah/5#v4)</sup> I will bring it forth, saith the Lord of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
@@ -89,6 +86,8 @@ tags: ["IUIC in the ClassRoom", "angels", "christ", "heaven-hell", "the-americas
 
 - Negroes, Latinos, the white man knows. The scholars of the American society, the Illuminati, know the purpose of the chariots.
 
+
+*[[20:32](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=1232s)]* **In The News: President Ronald Reagan telling of his talk with General Secretary Gorbachev, how easy their task would be if there were a threat to this world from some other species from another planet, followed by an animation of the Star Wars program, the Strategic Defense Initiative.** — The white man knows the purpose of the chariots. The Star Wars program was a dragnet of weapons around the earth pointed outwards, to fight against Jesus Christ and the enchanted forces of heaven.
 
 **[Matthew 24:30](/bible/matthew/24#v30)**  *[[25:16](https://www.youtube.com/watch?v=1wTYfQtcyE4&t=1516s)]*
 

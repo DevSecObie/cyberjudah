@@ -19,38 +19,13 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
 *[[17:28](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1048s)]* War and the pain of repentance. With Iranian rockets hitting Dubai, Qatar, and the Fifth Fleet headquarters in Bahrain, Bishop Nathanyel opens in Jeremiah 51 and Habakkuk 2 on the Medes raised against Babylon and the caterpillars, the sleeper cells, that rise up within her, then turns to the pain of repentance for our people: the covetous who sell their souls for a piece of the American pie, the celebrities on Epstein's list, the brothers who leave the truth when affliction comes, and the unjust judgments and hangings returning to the land. The long walk through Isaiah 26 shows the righteous nation that keeps the truth entering the gates, the wicked who will not learn righteousness in the land of uprightness, the other lords that had dominion over us, the woman in travail, the dead rising, and the Lord coming out of his place to punish the inhabitants of the earth, with only Israel written in the book of life.
 
-## In The News
-
-- *[[18:54](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1134s)]* **The class thumbnail animation: the ledger of the wicked, from the IMF's ivory towers to Leopold's rubber forests, the predators in high places casting nets over the children of Israel, and the king standing at the gates of Zion.** — You cannot walk into the kingdom with the stench of the world still on your skin. Wash you, make you clean, put away the evil of your doings. Shout out to the art department.
-- *[[21:52](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1312s)]* **Footage from this morning: fires in Dubai from Iranian rockets and the airports shut down.** — You know how many black women are trying to get over there. Iran may not reach the US yet, but it is hitting every neighbor friendly to America.
-- *[[22:33](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1353s)]* **The US Fifth Fleet headquarters in Manama struck, and a blast in Qatar sending residents running.** — This comes as the US and Israel launched Operation Epic Fury on Iran. A lot is going on while we play in our sins.
-- *[[26:14](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1574s)]* **A map of US bases around the Persian Gulf and the Horn of Africa.** — America dwells upon many waters, Jeremiah 51:13, and Iran is trying to hit all those bases.
-- *[[29:29](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1769s)]* **A map of Iran's retaliation against long-term US bases, and Times of Israel headlines: Trump says evil Khamenei is dead and strikes will continue until peace is secure; Rubio cancels this week's trip to Israel.** — The Ayatollah is revered and loved throughout the Muslim world, Shiite and Sunni, including real Muslims in this country. Do not think it ends with his death.
-- *[[36:52](https://www.youtube.com/watch?v=hGuiflP0yaw&t=2212s)]* **Petra, the clefts of the rock of Obadiah's day.** — Edom's architecture looks like Rome and Washington, D.C. Today their habitation on high is the skyscraper.
-- *[[46:08](https://www.youtube.com/watch?v=hGuiflP0yaw&t=2768s)]* **An Instagram breakdown of a 2016 Epstein email to Ariane de Rothschild about a thrilling hunt: snipe hunt is over, moon crickets in field bag.** — Maria Farmer said this group was incredibly elitist and incredibly racist. Were they hunting people? Remember Oprah's South African students who disappeared, and that Oprah was very good friends with Epstein.
-- *[[49:35](https://www.youtube.com/watch?v=hGuiflP0yaw&t=2975s)]* **The trailer for Surviving the Game, Ice-T taken into the wilderness as a hunting guide and hunted as the prey.** — We took that as entertainment. There is always some truth behind these movies.
-- *[[51:40](https://www.youtube.com/watch?v=hGuiflP0yaw&t=3100s)]* **An article on Peter Spencer, the Jamaican immigrant shot nine times on a hunting trip with white men in Rockland Township, Pennsylvania, with no charges filed.** — Six bullets in the chest, two in the buttocks, one through the mouth, and the suspect claimed self-defense. He was taken hunting and he was the prey. Rasheem Carter was hunted through the woods in Mississippi and found with his skull cut in half; they said an animal did it.
-- *[[56:51](https://www.youtube.com/watch?v=hGuiflP0yaw&t=3411s)]* **The Renaissance image of Christ and Leonardo's sketches of Cesare Borgia as the bust of the Savior found in the church of San Salvatore.** — That is not Christ. It is Cesare Borgia, the son of Pope Alexander, a pedophile, a murderer who slept with his sister Lucrezia. That is who you have been praying to.
-- *[[1:02:54](https://www.youtube.com/watch?v=hGuiflP0yaw&t=3774s)]* **The IMF and World Bank, across the street from each other in Washington, D.C.** — They make the international economic plans and hand out foreign aid you cannot pay back. Kwame Nkrumah called it neo-colonialism, a financial trap. Captain Ibrahim Traoré paid his debts with his gold and told them to get out; he is one of the few.
-- *[[1:08:46](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4126s)]* **A pair of balances, and shipping containers on the sea.** — The scale the rider of the black horse holds, and the merchandise of Revelation 18 arriving by ship.
-- *[[1:10:29](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4229s)]* **A short on why there are so many Chinese restaurants in black neighborhoods: the 1882 Chinese Exclusion Act's merchant loophole, a 1915 ruling that a restaurant counted as a business, and 1960s banks lending to Asian Americans in black communities while denying black people loans in their own.** — They get grants to learn the local language and need no credit; credit is just for us. A Chinese lady on Eastern Parkway in 1988 asked me, what you want, baby, you want some collard greens.
-- *[[1:16:01](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4561s)]* **Taye Diggs.** — You can tell he wants a piece of the pie. Michael Jai White can act but will not do certain things, so he does not get the contracts.
-- *[[1:16:51](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4611s)]* **Stills from Tyler Perry's Temptation.** — A good marriage ruined when a covetous wife was enticed by a rich man's jet and drugs and caught HIV. Watch it on movie night, especially you women who can do bad all by yourself.
-- *[[1:19:21](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4761s)]* **Wendy Williams today.** — In 2020 she told Dr. Oz, whose name is on the Epstein roster, that she would not take the vaccine. He said millions of young black women follow you. After that they destroyed her; she cannot manage her own money.
-- *[[1:22:57](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4977s)]* **Black Starlet, a seventies film.** — She slept with the producer to star in the film. At the end he said, my dear, there are many producers, and a line of them waited outside the door.
-- *[[1:23:48](https://www.youtube.com/watch?v=hGuiflP0yaw&t=5028s)]* **A short on the difference between US debt and African debt.** — America never has to pay its debt because it is in its own currency; Africa's debt is in dollars it must earn by selling what the US wants. The World Bank's founding principle is that no country should grow its own food, only export crops, so that it can be starved by sanctions. The IMF and World Bank are the most evil organizations in the world.
-- *[[1:26:56](https://www.youtube.com/watch?v=hGuiflP0yaw&t=5216s)]* **A brother on Iran's sanctions.** — America starved Iran for years, destroyed its economy, then told the people your government did this, overthrow it, with a puppet leader already waiting. That is exactly what Trump said this morning.
-- *[[1:28:16](https://www.youtube.com/watch?v=hGuiflP0yaw&t=5296s)]* **Sukihana crying, without makeup, saying she signed her soul to the devil and does not own herself anymore.** — She did not know the business, signed a contract with the label's attorney, lost her passion, and does not know if God can hear her. Then she got the phone call and went right back into the music business.
-- *[[2:19:41](https://www.youtube.com/watch?v=hGuiflP0yaw&t=8381s)]* **An Instagram clip on East Ramapo, where Orthodox Jews block-voted to control the school board, gutted hundreds of public school positions for 9,000 black and brown students, and sold a closed elementary school to a yeshiva for pennies on the dollar.** — You do not like it, find yourself another place to live. What they do to the Palestinians in Gaza is happening to us over here, and they get the poor of our people to help.
-- *[[2:22:47](https://www.youtube.com/watch?v=hGuiflP0yaw&t=8567s)]* **A clip on how much of Gaza Israel has destroyed: damage to more than 190,000 buildings, 70 percent of pre-war structures, 53 million tons of rubble, entire neighborhoods flattened by demolition for a buffer zone, and 43 percent of residents willing to emigrate.** — In the land of uprightness will he deal unjustly. Ethnic cleansing, and Netanyahu's powerful allies do not hide it.
-- *[[2:29:50](https://www.youtube.com/watch?v=hGuiflP0yaw&t=8990s)]* **A report on Israel's deepening ties with the UAE and the RSF militias in Sudan, the UAE's 30,000 mercenaries and private armies in Sudan, Yemen, Somalia, and Libya, and a foreign-led coup to control Sudan's Red Sea ports, farmland, and gold.** — The Israelis are working with the Arabs of the UAE to destroy black Sudan.
-- *[[2:34:55](https://www.youtube.com/watch?v=hGuiflP0yaw&t=9295s)]* **A young white woman's post: more people were killed in Sudan in the last three weeks than in the entire Gaza war, and nobody talks about Sudan.** — What about the people that look like you?
-- *[[2:45:32](https://www.youtube.com/watch?v=hGuiflP0yaw&t=9932s)]* **A clip on the slave trade assigning the tribe of Judah to America, the Levites to Saint-Domingue, and Benjamin to the West Indies; then Congo under King Leopold, a child's hand and foot cut off over the rubber quota, and hand-shaped chocolate sold in Belgium.** — Other lords besides thee have had dominion over us. Never forget and never trust your enemy no matter how nice he pretends to be.
-- *[[2:47:24](https://www.youtube.com/watch?v=hGuiflP0yaw&t=10044s)]* **The slave market of Mecca, Zanzibar, a castrated brother made to guard harems in Tunisia, and Naima Jamal, an Ethiopian woman held at auction as a slave in Libya.** — That is what Ishmael did and does. Esau and Ishmael both had dominion over us.
-- *[[2:55:42](https://www.youtube.com/watch?v=hGuiflP0yaw&t=10542s)]* **A list of black men found hanging from trees in 2025 and 2026, in Charlotte, Albany, Oakland, Delta State University, Albuquerque, Brookfield, and Marietta, every one ruled a suicide, followed by Keith Porter Jr. shot by an off-duty ICE agent, Dr. Linda Davis killed by a driver fleeing ICE, and Dequaine Johnson shot by Grand Rapids police.** — The hangings of the forties and fifties are starting all over again, and they are not random. Be careful with your children.
-- *[[3:00:00](https://www.youtube.com/watch?v=hGuiflP0yaw&t=10800s)]* **A sixteen-year-old in Houston, Jordan Mitchell, shot on the porch while holding up a found wallet to the doorbell camera; the homeowner released without charges and the family ordered to pay legal fees.** — Judgment is turned away backward and justice standeth afar off, Isaiah 59:14. Esau gave us sixty years of a little liberty and we dropped the ball; now they are undoing it and no longer pretending.
-
 ## Scriptures Opened
+
+*[[18:54](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1134s)]* **In The News: The class thumbnail animation: the ledger of the wicked, from the IMF's ivory towers to Leopold's rubber forests, the predators in high places casting nets over the children of Israel, and the king standing at the gates of Zion.** — You cannot walk into the kingdom with the stench of the world still on your skin. Wash you, make you clean, put away the evil of your doings. Shout out to the art department.
+
+*[[21:52](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1312s)]* **In The News: Footage from this morning: fires in Dubai from Iranian rockets and the airports shut down.** — You know how many black women are trying to get over there. Iran may not reach the US yet, but it is hitting every neighbor friendly to America.
+
+*[[22:33](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1353s)]* **In The News: The US Fifth Fleet headquarters in Manama struck, and a blast in Qatar sending residents running.** — This comes as the US and Israel launched Operation Epic Fury on Iran. A lot is going on while we play in our sins.
 
 **[Jeremiah 51:11-14,45-46](/bible/jeremiah/51#v11)**  *[[24:32](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1472s)]*
 
@@ -72,6 +47,10 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
 - My people, go ye out of the midst of her, and deliver ye every man his soul from the fierce anger of the Lord. While the birthing pains come, come out of her religions and her politics, because for many of our people their politics is their religion. Lest your heart faint for the rumour that shall be heard in the land: a rumour is something spoken before it occurs, and Iran at war with America and Israel was a rumour that is now reality. A rumour one year, and in another year a rumour and violence, ruler against ruler.
 
+
+*[[26:14](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1574s)]* **In The News: A map of US bases around the Persian Gulf and the Horn of Africa.** — America dwells upon many waters, Jeremiah 51:13, and Iran is trying to hit all those bases.
+
+*[[29:29](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1769s)]* **In The News: A map of Iran's retaliation against long-term US bases, and Times of Israel headlines: Trump says evil Khamenei is dead and strikes will continue until peace is secure; Rubio cancels this week's trip to Israel.** — The Ayatollah is revered and loved throughout the Muslim world, Shiite and Sunni, including real Muslims in this country. Do not think it ends with his death.
 
 **[Habakkuk 2:1-8](/bible/habakkuk/2#v1)**  *[[31:22](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1882s)]*
 
@@ -114,6 +93,8 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
     Thus saith the Lord concerning Edom: an ambassador is sent among the heathen, arise ye, and let us rise up against her in battle. The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, Petra then and skyscrapers now, that saith, who shall bring me down? Though thou exalt thyself as the eagle, the animal on the dollar bill, and set thy nest among the stars, satellites and space travel, thence will I bring thee down. Not the Arabs and not the American Indian; if they had power they would have blown the white man off the earth.
 
 
+*[[36:52](https://www.youtube.com/watch?v=hGuiflP0yaw&t=2212s)]* **In The News: Petra, the clefts of the rock of Obadiah's day.** — Edom's architecture looks like Rome and Washington, D.C. Today their habitation on high is the skyscraper.
+
 **[Lamentations 4:17-19](/bible/lamentations/4#v17)**  *[[44:35](https://www.youtube.com/watch?v=hGuiflP0yaw&t=2675s)]*
 
 > <sup>[17](/bible/lamentations/4#v17)</sup> As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
@@ -124,6 +105,12 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
 - Our eyes as yet failed for our vain help; in our watching we have watched for a nation that could not save us. Our people jump from Democrat to Republican thinking the party can save them. They hunt our steps, that we cannot go in our streets; our end is near. Our persecutors are swifter than the eagles of the heaven, America's symbol; they pursued us upon the mountains and laid wait for us in the wilderness, as the Epstein hunt emails and the Peter Spencer hunting trip show.
 
+
+*[[46:08](https://www.youtube.com/watch?v=hGuiflP0yaw&t=2768s)]* **In The News: An Instagram breakdown of a 2016 Epstein email to Ariane de Rothschild about a thrilling hunt: snipe hunt is over, moon crickets in field bag.** — Maria Farmer said this group was incredibly elitist and incredibly racist. Were they hunting people? Remember Oprah's South African students who disappeared, and that Oprah was very good friends with Epstein.
+
+*[[49:35](https://www.youtube.com/watch?v=hGuiflP0yaw&t=2975s)]* **In The News: The trailer for Surviving the Game, Ice-T taken into the wilderness as a hunting guide and hunted as the prey.** — We took that as entertainment. There is always some truth behind these movies.
+
+*[[51:40](https://www.youtube.com/watch?v=hGuiflP0yaw&t=3100s)]* **In The News: An article on Peter Spencer, the Jamaican immigrant shot nine times on a hunting trip with white men in Rockland Township, Pennsylvania, with no charges filed.** — Six bullets in the chest, two in the buttocks, one through the mouth, and the suspect claimed self-defense. He was taken hunting and he was the prey. Rasheem Carter was hunted through the woods in Mississippi and found with his skull cut in half; they said an animal did it.
 
 **[Ezekiel 28:1-7](/bible/ezekiel/28#v1)**  *[[55:04](https://www.youtube.com/watch?v=hGuiflP0yaw&t=3304s)]*
 
@@ -162,6 +149,14 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
     What is a man profited if he shall gain the whole world and lose his own soul? To get the fame and fortune our people want, you must sell your soul to these people. LeBron takes care of friends and family but is not allowed to help his people on a major level; that is hush money.
 
 
+*[[56:51](https://www.youtube.com/watch?v=hGuiflP0yaw&t=3411s)]* **In The News: The Renaissance image of Christ and Leonardo's sketches of Cesare Borgia as the bust of the Savior found in the church of San Salvatore.** — That is not Christ. It is Cesare Borgia, the son of Pope Alexander, a pedophile, a murderer who slept with his sister Lucrezia. That is who you have been praying to.
+
+*[[1:02:54](https://www.youtube.com/watch?v=hGuiflP0yaw&t=3774s)]* **In The News: The IMF and World Bank, across the street from each other in Washington, D.C.** — They make the international economic plans and hand out foreign aid you cannot pay back. Kwame Nkrumah called it neo-colonialism, a financial trap. Captain Ibrahim Traoré paid his debts with his gold and told them to get out; he is one of the few.
+
+*[[1:08:46](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4126s)]* **In The News: A pair of balances, and shipping containers on the sea.** — The scale the rider of the black horse holds, and the merchandise of Revelation 18 arriving by ship.
+
+*[[1:10:29](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4229s)]* **In The News: A short on why there are so many Chinese restaurants in black neighborhoods: the 1882 Chinese Exclusion Act's merchant loophole, a 1915 ruling that a restaurant counted as a business, and 1960s banks lending to Asian Americans in black communities while denying black people loans in their own.** — They get grants to learn the local language and need no credit; credit is just for us. A Chinese lady on Eastern Parkway in 1988 asked me, what you want, baby, you want some collard greens.
+
 **[Revelation 18:11-13](/bible/revelation/18#v11)**  *[[1:13:28](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4408s)]*
 
 > <sup>[11](/bible/revelation/18#v11)</sup> And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:
@@ -181,6 +176,8 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
     Why is earth and ashes proud? There is not a more wicked thing than a covetous man, for such an one setteth his own soul to sale, because while he liveth he casteth away his bowels. Oprah did not get all that money for being a great host, and the athletes did not get those contracts just for talent.
 
 
+*[[1:16:01](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4561s)]* **In The News: Taye Diggs.** — You can tell he wants a piece of the pie. Michael Jai White can act but will not do certain things, so he does not get the contracts.
+
 **[1 Timothy 6:9-12](/bible/1-timothy/6#v9)**  *[[1:16:01](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4561s)]*
 
 > <sup>[9](/bible/1-timothy/6#v9)</sup> But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
@@ -197,6 +194,18 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
 - But thou, O man of God, flee these things. There is nothing wrong with better jobs and higher education, but when you covet money you are going about it in a spiritually disastrous way. Follow after righteousness, godliness, faith, love, patience, meekness; fight the good fight of faith, lay hold on eternal life.
 
+
+*[[1:16:51](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4611s)]* **In The News: Stills from Tyler Perry's Temptation.** — A good marriage ruined when a covetous wife was enticed by a rich man's jet and drugs and caught HIV. Watch it on movie night, especially you women who can do bad all by yourself.
+
+*[[1:19:21](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4761s)]* **In The News: Wendy Williams today.** — In 2020 she told Dr. Oz, whose name is on the Epstein roster, that she would not take the vaccine. He said millions of young black women follow you. After that they destroyed her; she cannot manage her own money.
+
+*[[1:22:57](https://www.youtube.com/watch?v=hGuiflP0yaw&t=4977s)]* **In The News: Black Starlet, a seventies film.** — She slept with the producer to star in the film. At the end he said, my dear, there are many producers, and a line of them waited outside the door.
+
+*[[1:23:48](https://www.youtube.com/watch?v=hGuiflP0yaw&t=5028s)]* **In The News: A short on the difference between US debt and African debt.** — America never has to pay its debt because it is in its own currency; Africa's debt is in dollars it must earn by selling what the US wants. The World Bank's founding principle is that no country should grow its own food, only export crops, so that it can be starved by sanctions. The IMF and World Bank are the most evil organizations in the world.
+
+*[[1:26:56](https://www.youtube.com/watch?v=hGuiflP0yaw&t=5216s)]* **In The News: A brother on Iran's sanctions.** — America starved Iran for years, destroyed its economy, then told the people your government did this, overthrow it, with a puppet leader already waiting. That is exactly what Trump said this morning.
+
+*[[1:28:16](https://www.youtube.com/watch?v=hGuiflP0yaw&t=5296s)]* **In The News: Sukihana crying, without makeup, saying she signed her soul to the devil and does not own herself anymore.** — She did not know the business, signed a contract with the label's attorney, lost her passion, and does not know if God can hear her. Then she got the phone call and went right back into the music business.
 
 **[2 Timothy 1:6-18](/bible/2-timothy/1#v6)**  *[[1:32:10](https://www.youtube.com/watch?v=hGuiflP0yaw&t=5530s)]*
 
@@ -324,6 +333,10 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 - Psalms 68:5-10: a father of the fatherless, God setteth the solitary in families and bringeth out those which are bound with chains, but the rebellious dwell in a dry land. Romans 2:7-9: to them who by patient continuance in well doing seek immortality, eternal life; to the contentious who obey unrighteousness, indignation, wrath, tribulation, and anguish, of the Jew first, Judah, and also of the Gentile, the northern kingdom. Thou, O God, hast prepared of thy goodness for the poor, because of what the wicked do, as with the school board in East Ramapo.
 
 
+*[[2:19:41](https://www.youtube.com/watch?v=hGuiflP0yaw&t=8381s)]* **In The News: An Instagram clip on East Ramapo, where Orthodox Jews block-voted to control the school board, gutted hundreds of public school positions for 9,000 black and brown students, and sold a closed elementary school to a yeshiva for pennies on the dollar.** — You do not like it, find yourself another place to live. What they do to the Palestinians in Gaza is happening to us over here, and they get the poor of our people to help.
+
+*[[2:22:47](https://www.youtube.com/watch?v=hGuiflP0yaw&t=8567s)]* **In The News: A clip on how much of Gaza Israel has destroyed: damage to more than 190,000 buildings, 70 percent of pre-war structures, 53 million tons of rubble, entire neighborhoods flattened by demolition for a buffer zone, and 43 percent of residents willing to emigrate.** — In the land of uprightness will he deal unjustly. Ethnic cleansing, and Netanyahu's powerful allies do not hide it.
+
 **[Isaiah 26:10-13](/bible/isaiah/26#v10)**  *[[2:27:27](https://www.youtube.com/watch?v=hGuiflP0yaw&t=8847s)]*
 
 > <sup>[10](/bible/isaiah/26#v10)</sup> Let favour be shewed to the wicked, yet will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the Lord.
@@ -344,6 +357,14 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
 - O Lord our God, other lords beside thee have had dominion over us, Esau and Ishmael: Judah to America, the Levites to Saint-Domingue, Benjamin to the West Indies, Leopold's Congo, the slave markets of Mecca, Zanzibar, Tunisia, and Libya. But by thee only will we make mention of thy name.
 
+
+*[[2:29:50](https://www.youtube.com/watch?v=hGuiflP0yaw&t=8990s)]* **In The News: A report on Israel's deepening ties with the UAE and the RSF militias in Sudan, the UAE's 30,000 mercenaries and private armies in Sudan, Yemen, Somalia, and Libya, and a foreign-led coup to control Sudan's Red Sea ports, farmland, and gold.** — The Israelis are working with the Arabs of the UAE to destroy black Sudan.
+
+*[[2:34:55](https://www.youtube.com/watch?v=hGuiflP0yaw&t=9295s)]* **In The News: A young white woman's post: more people were killed in Sudan in the last three weeks than in the entire Gaza war, and nobody talks about Sudan.** — What about the people that look like you?
+
+*[[2:45:32](https://www.youtube.com/watch?v=hGuiflP0yaw&t=9932s)]* **In The News: A clip on the slave trade assigning the tribe of Judah to America, the Levites to Saint-Domingue, and Benjamin to the West Indies; then Congo under King Leopold, a child's hand and foot cut off over the rubber quota, and hand-shaped chocolate sold in Belgium.** — Other lords besides thee have had dominion over us. Never forget and never trust your enemy no matter how nice he pretends to be.
+
+*[[2:47:24](https://www.youtube.com/watch?v=hGuiflP0yaw&t=10044s)]* **In The News: The slave market of Mecca, Zanzibar, a castrated brother made to guard harems in Tunisia, and Naima Jamal, an Ethiopian woman held at auction as a slave in Libya.** — That is what Ishmael did and does. Esau and Ishmael both had dominion over us.
 
 **[Isaiah 26:14-16](/bible/isaiah/26#v14)**  *[[2:48:15](https://www.youtube.com/watch?v=hGuiflP0yaw&t=10095s)]*
 
@@ -377,6 +398,10 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
     Therefore is judgment far from us; we wait for light but behold obscurity, we grope for the wall like the blind as if we had no eyes, saying some of them are good. We stumble at noon day as in the night, we are in desolate places as dead men, the walking dead; we roar all like bears, crying in the streets, and mourn sore like doves; we look for judgment, but there is none. Our transgressions are multiplied and our sins testify against us. Judgment is turned away backward, justice standeth afar off, truth is fallen in the street, and he that departeth from evil maketh himself a prey: the hangings ruled suicides, the ICE killings, and the boy shot returning a wallet. We had sixty years to do astronomical things and chose twerking instead.
 
+
+*[[2:55:42](https://www.youtube.com/watch?v=hGuiflP0yaw&t=10542s)]* **In The News: A list of black men found hanging from trees in 2025 and 2026, in Charlotte, Albany, Oakland, Delta State University, Albuquerque, Brookfield, and Marietta, every one ruled a suicide, followed by Keith Porter Jr. shot by an off-duty ICE agent, Dr. Linda Davis killed by a driver fleeing ICE, and Dequaine Johnson shot by Grand Rapids police.** — The hangings of the forties and fifties are starting all over again, and they are not random. Be careful with your children.
+
+*[[3:00:00](https://www.youtube.com/watch?v=hGuiflP0yaw&t=10800s)]* **In The News: A sixteen-year-old in Houston, Jordan Mitchell, shot on the porch while holding up a found wallet to the doorbell camera; the homeowner released without charges and the family ordered to pay legal fees.** — Judgment is turned away backward and justice standeth afar off, Isaiah 59:14. Esau gave us sixty years of a little liberty and we dropped the ball; now they are undoing it and no longer pretending.
 
 **[Isaiah 26:17-19](/bible/isaiah/26#v17)**  *[[3:04:00](https://www.youtube.com/watch?v=hGuiflP0yaw&t=11040s)]*
 

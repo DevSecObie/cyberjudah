@@ -19,27 +19,9 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
 
 *[[5:01](https://www.youtube.com/watch?v=CC4-qipCtzY&t=301s)]* Wars are here, so seek good and not evil. Captain Shem walks through past times of war and destruction in the scriptures to prepare the mind for the wars that are here now and the final war to come. Iran is not the end of the story: 2 Esdras 15 gives the order of prophecy, the dragons of Arabia unite first and the Carmanians join battle with them. The Most High is a man of war who wields the wicked as his sword, declared the end from the beginning, and drowned a whole generation in the flood while preserving eight. The only response for Israel is to confess and forsake sin, keep the commandments, and endure to the end.
 
-## In The News
-
-- *[[5:01](https://www.youtube.com/watch?v=CC4-qipCtzY&t=301s)]* **The class thumbnail: Wars Are Here, Seek Good Not Evil, with evil in red.** — The tech team made it in a matter of moments. Every Israelite should feel this title in daily life, because we see war.
-- *[[12:05](https://www.youtube.com/watch?v=CC4-qipCtzY&t=725s)]* **Former Army Colonel Douglas McGregor on China and Russia backing Iran.** — China has the greatest interest in the permanent survival of the Iranian state and will keep providing intelligence, missiles, and technical support, with some Chinese pilots on the ground. Iran is not alone, and this war is not the end.
-- *[[15:36](https://www.youtube.com/watch?v=CC4-qipCtzY&t=936s)]* **A map of the Persian Gulf with Qatar circled.** — Israel, Lebanon, Syria, Jordan, Iraq, Saudi Arabia, Bahrain, Qatar, the UAE, Oman, Yemen, and Kuwait are where the bulk of the sons of Ishmael live. The peninsula was carved into small states controlled by many US military bases, and Iran is not having any of that.
-- *[[28:47](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1727s)]* **The map again, zoomed to Manama, the capital of Bahrain, directly across the Gulf from Iran.** — A major US military base sits right there. Iran has bombed some 27 US bases around the greater Middle East while the US defense budget is focused on protecting the little slab called Israel, our occupied homeland.
-- *[[31:27](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1887s)]* **A search result on the US Fifth Fleet.** — After a 48-year hiatus the Fifth Fleet was reactivated and directs operations in the Persian Gulf, Red Sea, and Arabian Sea from headquarters at NSA Bahrain in Manama. That is why Bahrain took the biggest hits.
-- *[[33:15](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1995s)]* **A commentator's footage of Bahrain citizens outside applauding as Iranian missiles hit US installations in their own country.** — The people of Bahrain celebrated because they are occupied. Their rulers are billionaires living lavishly off oil deals with the US. If it is happening in Bahrain it is happening in Qatar, Saudi Arabia, Yemen, Oman, and the UAE. Disclaimer: we are not pro-Arab or pro-Israeli, we are pro-God, because all of this is happening on account of the real Israelites.
-- *[[35:11](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2111s)]* **McGregor continued: the US has not made a dent in Iran's enormous missile arsenal.** — Mainstream outlets make it look like Iran is being decimated. Iran is being bombed heavily, but its low- and mid-grade rockets are breaching the Iron Dome and it has massive underground stockpiles built over two decades with help from China and Russia. Iran is now part of BRICS.
-- *[[37:01](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2221s)]* **A headline: Kissinger warns about the dangers of restoring Iran's nuclear deal.** — Henry Kissinger was saying the US should go to war with Iran over twenty years ago. They knew this day was coming, and Iran prepared by aligning with Russia and China.
-- *[[38:38](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2318s)]* **McGregor continued: some Iranian missiles have greater range than anticipated, air superiority alone has never guaranteed success in war, and a ground force is absurd.** — There are already talks of sending active-duty US infantry units. We do not have to worry about it, but we have to acknowledge that we are close to the end times.
-- *[[40:29](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2429s)]* **A definition of the GCC, the Gulf Cooperation Council.** — A political, economic, and military alliance of six Arab monarchies bordering the Persian Gulf: Saudi Arabia, the UAE, Qatar, Kuwait, Oman, and Bahrain. They are kingdoms ruled by kings and crown princes, and their monarchies report to someone.
-- *[[41:21](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2481s)]* **A map zoomed to the Strait of Hormuz.** — Look at the sheer size of Iran. It borders the whole Gulf of Oman, the whole Strait of Hormuz, and almost exactly half the shore of the Persian Gulf. All six GCC countries sit on the other side, and the only way in and out is the choke point Iran controls.
-- *[[48:02](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2882s)]* **Footage of a cluster munition breaking apart over Israel.** — A missile comes in at very high speed and breaks into a cluster of ordnance. The Iron Dome that is supposed to stop everything is not stopping this. You are not being told the whole story.
-- *[[50:37](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3037s)]* **A Chinese professor with his hand on a relief map, thumb on the Strait of Hormuz.** — Even if you know nothing about the participants or the weaponry, the map tells you how this war will progress. Iran is full of mountain ranges; Saudi Arabia and the GCC states across the gulf are arid and flat, and they depend on crossing that little strait for food and water.
-- *[[1:02:30](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3750s)]* **The professor: the strait is about 33 kilometers wide.** — That is about 20.5 miles. Iran surrounds it and controls it. If Kuwait, Iraq, and Saudi Arabia cannot get supplies through the Strait of Hormuz they will be starved, the people will want the war to stop, and the Arabs will unite.
-- *[[1:05:07](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3907s)]* **The professor: 20 percent of the world's oil flows through the strait to Asia. India gets about 60 percent of its oil from the Gulf and Japan about 70 percent.** — Japan and India are US allies, and they are going to be weakened. This is Isaiah 14, the man that weakened the nations.
-- *[[1:17:06](https://www.youtube.com/watch?v=CC4-qipCtzY&t=4626s)]* **A definition of desalination: removing salt from seawater to produce fresh water, primarily by reverse osmosis.** — Saudi Arabia and the GCC depend on desalination plants for drinking water. Iran has planned for years to hit those plants and could also hit the oil fields. Take away the water and the oil money and the sons of Ishmael rise up against the leaders who failed them.
-- *[[1:32:19](https://www.youtube.com/watch?v=CC4-qipCtzY&t=5539s)]* **A much younger Benjamin Netanyahu addressing US diplomats.** — He guaranteed that taking out Saddam's regime would have enormous positive reverberations, named Libya as a third nation, and said he would like to see regime change in Iran. Saddam was removed and terror did not stop; Gaddafi, who gave his people free schooling and health care, was removed. The least of the flock draws Babylon out to fight its wars, and that is prophecy.
-
 ## Scriptures Opened
+
+*[[5:01](https://www.youtube.com/watch?v=CC4-qipCtzY&t=301s)]* **In The News: The class thumbnail: Wars Are Here, Seek Good Not Evil, with evil in red.** — The tech team made it in a matter of moments. Every Israelite should feel this title in daily life, because we see war.
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[5:54](https://www.youtube.com/watch?v=CC4-qipCtzY&t=354s)]*
 
@@ -77,6 +59,8 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
     He sheweth his word unto Jacob, his statutes and his judgments unto Israel; he hath not dealt so with any nation. The commandments were given to the twelve tribes, and Israel is the nation that gets judged. That is why our people went into the trans-Saharan and trans-Atlantic slave trades.
 
 
+*[[12:05](https://www.youtube.com/watch?v=CC4-qipCtzY&t=725s)]* **In The News: Former Army Colonel Douglas McGregor on China and Russia backing Iran.** — China has the greatest interest in the permanent survival of the Iranian state and will keep providing intelligence, missiles, and technical support, with some Chinese pilots on the ground. Iran is not alone, and this war is not the end.
+
 **[2 Esdras 15:28-30](/bible/2-esdras/15#v28)**  *[[13:49](https://www.youtube.com/watch?v=CC4-qipCtzY&t=829s)]*
 
 > <sup>[28](/bible/2-esdras/15#v28)</sup> Behold an horrible vision, and the appearance thereof from the east:
@@ -96,6 +80,8 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
 - Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come and join battle with them. The Carmanians are the Iranians. The Arabs lead the charge and Iran joins them. That is not happening yet, which is how we know this war is not Armageddon, but we are getting closer.
 
 
+*[[15:36](https://www.youtube.com/watch?v=CC4-qipCtzY&t=936s)]* **In The News: A map of the Persian Gulf with Qatar circled.** — Israel, Lebanon, Syria, Jordan, Iraq, Saudi Arabia, Bahrain, Qatar, the UAE, Oman, Yemen, and Kuwait are where the bulk of the sons of Ishmael live. The peninsula was carved into small states controlled by many US military bases, and Iran is not having any of that.
+
 **[Amos 5:18](/bible/amos/5#v18)**  *[[22:15](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1335s)]*
 
 > <sup>[18](/bible/amos/5#v18)</sup> Woe unto you that desire the day of the Lord! to what end is it for you? the day of the Lord is darkness, and not light.
@@ -104,6 +90,22 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
 
 - We had better not desire the day of the Lord, because we are not right. You may wear fringes, keep the Sabbath, put the pork down, and still battle patience, anger, a brawling spirit, an evil eye, or the weed you will not put down. Now is not the time to roll in that spirit.
 
+
+*[[28:47](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1727s)]* **In The News: The map again, zoomed to Manama, the capital of Bahrain, directly across the Gulf from Iran.** — A major US military base sits right there. Iran has bombed some 27 US bases around the greater Middle East while the US defense budget is focused on protecting the little slab called Israel, our occupied homeland.
+
+*[[31:27](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1887s)]* **In The News: A search result on the US Fifth Fleet.** — After a 48-year hiatus the Fifth Fleet was reactivated and directs operations in the Persian Gulf, Red Sea, and Arabian Sea from headquarters at NSA Bahrain in Manama. That is why Bahrain took the biggest hits.
+
+*[[33:15](https://www.youtube.com/watch?v=CC4-qipCtzY&t=1995s)]* **In The News: A commentator's footage of Bahrain citizens outside applauding as Iranian missiles hit US installations in their own country.** — The people of Bahrain celebrated because they are occupied. Their rulers are billionaires living lavishly off oil deals with the US. If it is happening in Bahrain it is happening in Qatar, Saudi Arabia, Yemen, Oman, and the UAE. Disclaimer: we are not pro-Arab or pro-Israeli, we are pro-God, because all of this is happening on account of the real Israelites.
+
+*[[35:11](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2111s)]* **In The News: McGregor continued: the US has not made a dent in Iran's enormous missile arsenal.** — Mainstream outlets make it look like Iran is being decimated. Iran is being bombed heavily, but its low- and mid-grade rockets are breaching the Iron Dome and it has massive underground stockpiles built over two decades with help from China and Russia. Iran is now part of BRICS.
+
+*[[37:01](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2221s)]* **In The News: A headline: Kissinger warns about the dangers of restoring Iran's nuclear deal.** — Henry Kissinger was saying the US should go to war with Iran over twenty years ago. They knew this day was coming, and Iran prepared by aligning with Russia and China.
+
+*[[38:38](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2318s)]* **In The News: McGregor continued: some Iranian missiles have greater range than anticipated, air superiority alone has never guaranteed success in war, and a ground force is absurd.** — There are already talks of sending active-duty US infantry units. We do not have to worry about it, but we have to acknowledge that we are close to the end times.
+
+*[[40:29](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2429s)]* **In The News: A definition of the GCC, the Gulf Cooperation Council.** — A political, economic, and military alliance of six Arab monarchies bordering the Persian Gulf: Saudi Arabia, the UAE, Qatar, Kuwait, Oman, and Bahrain. They are kingdoms ruled by kings and crown princes, and their monarchies report to someone.
+
+*[[41:21](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2481s)]* **In The News: A map zoomed to the Strait of Hormuz.** — Look at the sheer size of Iran. It borders the whole Gulf of Oman, the whole Strait of Hormuz, and almost exactly half the shore of the Persian Gulf. All six GCC countries sit on the other side, and the only way in and out is the choke point Iran controls.
 
 **[2 Esdras 15:28-30](/bible/2-esdras/15#v28)**  *[[44:09](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2649s)]*
 
@@ -119,6 +121,10 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
 
 - If the Arabs had chariots, power, there would be a national Arab army driving ships to the Palestinian shore. They cannot, because it is not time. The Israelis are not worried about the Arabs at all; they are starting to worry about the Iranians.
 
+
+*[[48:02](https://www.youtube.com/watch?v=CC4-qipCtzY&t=2882s)]* **In The News: Footage of a cluster munition breaking apart over Israel.** — A missile comes in at very high speed and breaks into a cluster of ordnance. The Iron Dome that is supposed to stop everything is not stopping this. You are not being told the whole story.
+
+*[[50:37](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3037s)]* **In The News: A Chinese professor with his hand on a relief map, thumb on the Strait of Hormuz.** — Even if you know nothing about the participants or the weaponry, the map tells you how this war will progress. Iran is full of mountain ranges; Saudi Arabia and the GCC states across the gulf are arid and flat, and they depend on crossing that little strait for food and water.
 
 **[Exodus 15:1-3](/bible/exodus/15#v1)**  *[[51:30](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3090s)]*
 
@@ -172,6 +178,10 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
     His head and his hairs were white like wool, his eyes as a flame of fire, and his feet like unto fine brass as if they burned in a furnace. Jesus Christ was a black man; the Bible, archaeology, and history all say it, and everyone knows it except dumb Americans, and I was one. Christ is coming back to make war.
 
 
+*[[1:02:30](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3750s)]* **In The News: The professor: the strait is about 33 kilometers wide.** — That is about 20.5 miles. Iran surrounds it and controls it. If Kuwait, Iraq, and Saudi Arabia cannot get supplies through the Strait of Hormuz they will be starved, the people will want the war to stop, and the Arabs will unite.
+
+*[[1:05:07](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3907s)]* **In The News: The professor: 20 percent of the world's oil flows through the strait to Asia. India gets about 60 percent of its oil from the Gulf and Japan about 70 percent.** — Japan and India are US allies, and they are going to be weakened. This is Isaiah 14, the man that weakened the nations.
+
 **[Isaiah 14:4,16-17](/bible/isaiah/14#v4)**  *[[1:05:07](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3907s)]*
 
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
@@ -194,6 +204,8 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
 
     Upon her forehead was a name written, Mystery Babylon the Great, the mother of harlots. It is similitude, not a literal brothel. Everybody but our own people can see this is the United States of America, not Iraq. John, who lived under Rome, was not writing about ancient Babylon.
 
+
+*[[1:17:06](https://www.youtube.com/watch?v=CC4-qipCtzY&t=4626s)]* **In The News: A definition of desalination: removing salt from seawater to produce fresh water, primarily by reverse osmosis.** — Saudi Arabia and the GCC depend on desalination plants for drinking water. Iran has planned for years to hit those plants and could also hit the oil fields. Take away the water and the oil money and the sons of Ishmael rise up against the leaders who failed them.
 
 **[Amos 9:4-5](/bible/amos/9#v4)**  *[[1:19:40](https://www.youtube.com/watch?v=CC4-qipCtzY&t=4780s)]*
 
@@ -236,6 +248,8 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
 
 - Netanyahu is not being comical about Venezuela and Greenland; the least of the flock is literally drawing the US out to do its bidding, and that is the counsel of the Lord. Pharaoh's men surely told him to let Israel go in peace after the plagues, and the order at the Red Sea was still charge on. Donald Trump is not led by himself.
 
+
+*[[1:32:19](https://www.youtube.com/watch?v=CC4-qipCtzY&t=5539s)]* **In The News: A much younger Benjamin Netanyahu addressing US diplomats.** — He guaranteed that taking out Saddam's regime would have enormous positive reverberations, named Libya as a third nation, and said he would like to see regime change in Iran. Saddam was removed and terror did not stop; Gaddafi, who gave his people free schooling and health care, was removed. The least of the flock draws Babylon out to fight its wars, and that is prophecy.
 
 **[Genesis 7:1-23](/bible/genesis/7#v1)**  *[[1:36:39](https://www.youtube.com/watch?v=CC4-qipCtzY&t=5799s)]*
 

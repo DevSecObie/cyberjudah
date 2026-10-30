@@ -20,10 +20,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "prophecy", "repentance", "salvati
 
 *[[1:17](https://www.youtube.com/watch?v=D9_-lHlA25E&t=77s)]* Hey, shalom Israel. Most High in Christ, blessed. Welcome to another giving the sense from A to Z. I'm Captain Matt. All praise to the Most High. I'mma keep it the solid hour so I don't affect the next teacher coming up. So, last time we were on Luke the 21st chapter. We got down to the 24th verse. We're going to pick up at verse 25.
 
-## In The News
-
-- *[[53:52](https://www.youtube.com/watch?v=D9_-lHlA25E&t=3232s)]* **Video with AI images set to the reading of Wisdom of Solomon 5:1-5 and 2 Esdras 13 (the Son of man coming, the multitude gathered to fight him, and the blast of fire out of his mouth burning them up)** — These things that are written in this Bible, all of them ain't finished. Y'all got to understand, look, the times are drawing near. Everything that we just saw, I know it was AI images and all of that, but guess what? That stuff is going to come to pass quickly.
-
 ## Scriptures Opened
 
 **[Nehemiah 8:8](/bible/nehemiah/8#v8)**  *[[1:17](https://www.youtube.com/watch?v=D9_-lHlA25E&t=77s)]*
@@ -396,6 +392,8 @@ Reading from Gamal Abdel Nasser, statement on screen (source not named on air)  
 
 - How is he numbered among the children of God, and his lot is among the saints: They're going to see, "Well, is it? This dude didn't even graduate high school. He got a GED when he was 25. And he breaking down the scriptures better than most anybody I know." You want to know why? Because that's the Holy Spirit. That's the Holy Spirit. We got to understand something, y'all. These things that are written in this Bible, all of them ain't finished. All of them ain't finished. Matter of fact, let's see this video right quick.
 
+
+*[[53:52](https://www.youtube.com/watch?v=D9_-lHlA25E&t=3232s)]* **In The News: Video with AI images set to the reading of Wisdom of Solomon 5:1-5 and 2 Esdras 13 (the Son of man coming, the multitude gathered to fight him, and the blast of fire out of his mouth burning them up)** — These things that are written in this Bible, all of them ain't finished. Y'all got to understand, look, the times are drawing near. Everything that we just saw, I know it was AI images and all of that, but guess what? That stuff is going to come to pass quickly.
 
 ## In Closing
 

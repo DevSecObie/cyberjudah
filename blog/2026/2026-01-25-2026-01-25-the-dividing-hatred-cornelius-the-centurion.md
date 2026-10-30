@@ -19,13 +19,9 @@ tags: ["IUIC in the ClassRoom", "mercy", "passover-feasts"]
 
 *[[6:55](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=415s)]* This class sets out to settle who Cornelius the centurion was. It traces the split between Judah and Ephraim from Solomon's strange wives to Jeroboam's golden calves, and shows how God said through Hosea that the northern kingdom would be not a people. Judah then treated the northern tribes as Gentiles, strangers and unclean, while the prophets promised the two houses would be joined again. Hezekiah's Passover, where unclean men of Ephraim and Manasseh were pardoned and healed, is the key to Peter's vision. Cornelius came from Caesarea, on the land of West Manasseh, so the man Peter was told not to call common or unclean was a northern Israelite, not a heathen.
 
-## In The News
-
-- *[[7:38](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=458s)]* **A short on Richard Aoki, the Japanese American field marshal of the Black Panthers, who was found after his death to have informed for the FBI for fifteen years.** — Letting other nations into Israel's ranks out of emotion invites infiltration. The same danger stands behind the claim that Cornelius was a heathen.
-- *[[3:31:49](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=12709s)]* **The Islands Men's Conference marches through Nassau, Bahamas, to show unity, order and discipline.** — Zephaniah 2:1 calls the nation to gather together. The islands are seeing the tribes unite under Christ.
-- *[[3:41:22](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=13282s)]* **Brothers in Japan describe being stopped by police for dark skin and warn from Micah 2:10 that this place is not our rest.** — Comfort among the nations leads to mixing, their gods and their customs. The work in Japan continues through the Isaiah 11:1 ministries.
-
 ## Scriptures Opened
+
+*[[7:38](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=458s)]* **In The News: A short on Richard Aoki, the Japanese American field marshal of the Black Panthers, who was found after his death to have informed for the FBI for fifteen years.** — Letting other nations into Israel's ranks out of emotion invites infiltration. The same danger stands behind the claim that Cornelius was a heathen.
 
 **[1 Kings 11:1](/bible/1-kings/11#v1)**  *[[11:21](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=681s)]*
 
@@ -454,6 +450,10 @@ Reading from a Bible atlas, pp. 276-277  *[[2:51:40](https://www.youtube.com/wat
 
     To the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia, elect according to the foreknowledge of God.
 
+
+*[[3:31:49](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=12709s)]* **In The News: The Islands Men's Conference marches through Nassau, Bahamas, to show unity, order and discipline.** — Zephaniah 2:1 calls the nation to gather together. The islands are seeing the tribes unite under Christ.
+
+*[[3:41:22](https://www.youtube.com/watch?v=zdkkMC_4xfg&t=13282s)]* **In The News: Brothers in Japan describe being stopped by police for dark skin and warn from Micah 2:10 that this place is not our rest.** — Comfort among the nations leads to mixing, their gods and their customs. The work in Japan continues through the Isaiah 11:1 ministries.
 
 ## Class Questions
 

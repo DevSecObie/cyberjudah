@@ -20,13 +20,6 @@ tags: ["IUIC in the ClassRoom", "endurance", "false-religion", "marriage-family"
 
 *[[6:59](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=419s)]* Escaping the Plantation 2.0, streamed live by IUIC Raleigh, hosted by Captain Josiah with Officer John and two other officers (Captain G couldn't make it), on guided or blinded: learn to listen before you learn the hard way. The righteous rant takes on Ted Cruz and the dispensationalist heresy that makes the modern state of Israel God's people. The lesson is for the youth: honor your father and mother in word and deed, take correction as love, gather instruction from your youth up, and remember you are not regular but above all people. Choose life: be guided into the way of truth, or be blinded and learn the hard way.
 
-## In The News
-
-- *[[9:15](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=555s)]* **Righteous rant: Ted Cruz tells Tucker Carlson his number one reason for supporting Israel is that the Bible commands Christians to support the government of Israel, and that it's the same country run by Benjamin Netanyahu** — They twist whosoever blesseth thee to mean the modern Jewish people. They know that's not who it's talking about, but they want to manipulate the public and keep the twelve tribes from knowing who they are.
-- *[[11:59](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=719s)]* **Candace Owens: the 1948 state of Israel has been involved in demonic behavior since its creation, and the dispensationalist heresy was funded by the World Zionist Congress and spread through the Scofield Bible** — That heresy was funded by Esau, Amalek, the so-called white man.
-- *[[16:05](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=965s)]* **A black Christian defends dispensationalism against Candace Owens as just reading the Bible literally, with the church saved through Christ and Israel saved in the end** — In that doctrine they separate the two: Israel is the white people, and the church is everybody else. They use the scriptures but twist who it's talking about.
-- *[[38:32](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=2312s)]* **Joe Biden: if there were not an Israel we'd have to invent one; it's the best three-billion-dollar investment we make, to protect America's interests in the region** — That's what happened: they invented the state of Israel, put those Caucasian people there in 1948, and misuse scriptures to say they're God's chosen people.
-
 ## Scriptures Opened
 
 **[Psalms 71:2](/bible/psalms/71#v2)**  *[[8:28](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=508s)]*
@@ -35,6 +28,10 @@ tags: ["IUIC in the ClassRoom", "endurance", "false-religion", "marriage-family"
 
 - Deliver us in thy righteousness and cause us to escape: escape the plantation, physically, mentally and spiritually, here in Babylon the Great. We want to go home to Jerusalem.
 
+
+*[[9:15](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=555s)]* **In The News: Righteous rant: Ted Cruz tells Tucker Carlson his number one reason for supporting Israel is that the Bible commands Christians to support the government of Israel, and that it's the same country run by Benjamin Netanyahu** — They twist whosoever blesseth thee to mean the modern Jewish people. They know that's not who it's talking about, but they want to manipulate the public and keep the twelve tribes from knowing who they are.
+
+*[[11:59](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=719s)]* **In The News: Candace Owens: the 1948 state of Israel has been involved in demonic behavior since its creation, and the dispensationalist heresy was funded by the World Zionist Congress and spread through the Scofield Bible** — That heresy was funded by Esau, Amalek, the so-called white man.
 
 **[Ezekiel 35:2](/bible/ezekiel/35#v2)**  *[[11:59](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=719s)]*
 
@@ -55,6 +52,8 @@ tags: ["IUIC in the ClassRoom", "endurance", "false-religion", "marriage-family"
 
 - God knows the works, tribulation and poverty of the true Israelites at the bottom of society, but we're rich with the knowledge and wisdom of God. The blasphemy of them which say they are Jews and are not: Christ himself calls them the synagogue of Satan. Since 1948 they've done nothing but demonic behavior.
 
+
+*[[16:05](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=965s)]* **In The News: A black Christian defends dispensationalism against Candace Owens as just reading the Bible literally, with the church saved through Christ and Israel saved in the end** — In that doctrine they separate the two: Israel is the white people, and the church is everybody else. They use the scriptures but twist who it's talking about.
 
 **[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[21:07](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=1267s)]*
 
@@ -139,6 +138,8 @@ tags: ["IUIC in the ClassRoom", "endurance", "false-religion", "marriage-family"
 
     Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
 
+
+*[[38:32](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=2312s)]* **In The News: Joe Biden: if there were not an Israel we'd have to invent one; it's the best three-billion-dollar investment we make, to protect America's interests in the region** — That's what happened: they invented the state of Israel, put those Caucasian people there in 1948, and misuse scriptures to say they're God's chosen people.
 
 **[2 Esdras 7:57](/bible/2-esdras/7#v57)**  *[[40:51](https://www.youtube.com/watch?v=wwNcY-HZMzk&t=2451s)]*
 

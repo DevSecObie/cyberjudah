@@ -20,12 +20,9 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "persecution", "prophecy", "women"]
 
 *[[1:38](https://www.youtube.com/watch?v=cszHptLORl0&t=98s)]* The first part of this Writings on the Wall Radio broadcast from IUIC Tallahassee, "your place for end times news", filled in by Captain Mattathias and his officers, among them Officer David and Officer Elijah. They open with a video of a white woman attacking one of our sisters at a mall, which they call the white power complex, read from a booklet on Jim Crow, and then show the fire tornado in Northern California as the Most High beginning to visit the earth.
 
-## In The News
-
-- *[[3:17](https://www.youtube.com/watch?v=cszHptLORl0&t=197s)]* **Video of a white woman ("Karen" or "Becky") attacking one of our sisters at an upscale mall, then claiming the sister tried to hit her** — The white power complex: the same thing that happened to us during slavery and Jim Crow. They're still rolling in it.
-- *[[18:16](https://www.youtube.com/watch?v=cszHptLORl0&t=1096s)]* **Video of a wildfire in Northern California that became a fire tornado** — That's not common and it's not normal. The Most High is setting the stage: a little preview of the return of Messiah.
-
 ## Scriptures Opened
+
+*[[3:17](https://www.youtube.com/watch?v=cszHptLORl0&t=197s)]* **In The News: Video of a white woman ("Karen" or "Becky") attacking one of our sisters at an upscale mall, then claiming the sister tried to hit her** — The white power complex: the same thing that happened to us during slavery and Jim Crow. They're still rolling in it.
 
 **[Revelation 13:7](/bible/revelation/13#v7)**  *[[4:08](https://www.youtube.com/watch?v=cszHptLORl0&t=248s)]*
 
@@ -124,6 +121,8 @@ Reading from A booklet on Jim Crow from the Lest We Forget museum in Philadelphi
 
 - This is The Writings on the Wall radio show, your place for end times news: a string of videos of what has happened within the last week in these last times.
 
+
+*[[18:16](https://www.youtube.com/watch?v=cszHptLORl0&t=1096s)]* **In The News: Video of a wildfire in Northern California that became a fire tornado** — That's not common and it's not normal. The Most High is setting the stage: a little preview of the return of Messiah.
 
 **[2 Esdras 6:18](/bible/2-esdras/6#v18)**  *[[19:00](https://www.youtube.com/watch?v=cszHptLORl0&t=1140s)]*
 

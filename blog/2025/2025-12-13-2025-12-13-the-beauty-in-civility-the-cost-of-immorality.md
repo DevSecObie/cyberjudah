@@ -19,17 +19,6 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 
 *[[10:32](https://www.youtube.com/watch?v=QczbDHIehUU&t=632s)]* What our own immorality costs us, taught as part one of two: the cost first, the beauty of civility to follow. Years of sitting in judgments and counsellings put the pattern together, and the thread running through the whole lesson is that righteous anger is what gets sin out from among us, because the hell we are catching is our own doing and not the white man's.
 
-## In The News
-
-- *[[1:40:22](https://www.youtube.com/watch?v=QczbDHIehUU&t=6022s)]* **A cat defending her kitten, first from a hawk and then from an owl that swooped while the kitten was alone** — That mother kept a circumspect eye for danger and got her baby out of the way; that is radical, and it is what our mothers and our women have to be
-- *[[2:16:22](https://www.youtube.com/watch?v=QczbDHIehUU&t=8182s)]* **Stokely Carmichael, Kwame Ture, on Dr. Martin Luther King's major assumption** — Nonviolence only works if your opponent has a conscience, and the clip as it was posted cut off the line that America has none
-- *[[2:32:35](https://www.youtube.com/watch?v=QczbDHIehUU&t=9155s)]* **A short on Boulder, Colorado, then Soldier Elisha of IUIC Memphis telling his own story** — Put in a school for the mentally handicapped because he was black, and his father forced by a sheriff with a shotgun to sign over his land, a wrecking yard, a trash company, a house and a restaurant, with black people coming against his father first
-- *[[2:36:32](https://www.youtube.com/watch?v=QczbDHIehUU&t=9392s)]* **A video on Rasheem Carter, the twenty-five-year-old from Mississippi whose skeletal remains were found a month later with his head separated from his body** — The police still call it an accident with nobody else involved; this is the cost of immorality, the kind of thing that happens to us because we broke God's laws
-- *[[2:39:31](https://www.youtube.com/watch?v=QczbDHIehUU&t=9571s)]* **An Emerge magazine article on the death of Emmett Till and his mother's forty-year agony, with the open-casket funeral photographs** — Mamie Till had the courage to show the world what they did to her son, and Tiffany Carter belongs in that same category
-- *[[2:42:48](https://www.youtube.com/watch?v=QczbDHIehUU&t=9768s)]* **Photographs of our own people in the streets, one of a girl shooting inside a car** — This is what comes of allowing families to be ripped apart by sin: nothing but hatred toward our own people
-- *[[2:44:32](https://www.youtube.com/watch?v=QczbDHIehUU&t=9872s)]* **A classroom video of a teacher singing the funny birthday song to a six-year-old boy, telling him he lives in the zoo and looks like a monkey** — Slide the cursor back and look at the black boy in the background who understood what he just heard; the rest of them are laughing and those two children are damaged forever
-- *[[2:47:23](https://www.youtube.com/watch?v=QczbDHIehUU&t=10043s)]* **Malcolm X on who taught you to hate the texture of your hair and the colour of your skin, and on the man worried about somebody in a bathtub who cannot swim** — Black people are the greatest hate group against themselves; we are out in the middle of the ocean with no raft worrying about a white man in a bathtub, and that is a sick way of thinking we have to take accountability for
-
 ## Scriptures Opened
 
 **[Revelation 12:12](/bible/revelation/12#v12)**  *[[13:30](https://www.youtube.com/watch?v=QczbDHIehUU&t=810s)]*
@@ -195,6 +184,8 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 - That is the mentality the world wants our women in, and the question is where the radicalness is to stop it when the animals have better sense than we do.
 
 
+*[[1:40:22](https://www.youtube.com/watch?v=QczbDHIehUU&t=6022s)]* **In The News: A cat defending her kitten, first from a hawk and then from an owl that swooped while the kitten was alone** — That mother kept a circumspect eye for danger and got her baby out of the way; that is radical, and it is what our mothers and our women have to be
+
 **[Isaiah 63:1-5](/bible/isaiah/63#v1)**  *[[1:45:44](https://www.youtube.com/watch?v=QczbDHIehUU&t=6344s)]*
 
 > <sup>[1](/bible/isaiah/63#v1)</sup> Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
@@ -347,6 +338,8 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 - So they decreed that whosoever comes to make battle with us on the sabbath day, we will fight against him; neither will we die all, as our brethren that were murdered in the secret places.
 
 
+*[[2:16:22](https://www.youtube.com/watch?v=QczbDHIehUU&t=8182s)]* **In The News: Stokely Carmichael, Kwame Ture, on Dr. Martin Luther King's major assumption** — Nonviolence only works if your opponent has a conscience, and the clip as it was posted cut off the line that America has none
+
 **[1 Maccabees 2:42-46](/bible/1-maccabees/2#v42)**  *[[2:18:51](https://www.youtube.com/watch?v=QczbDHIehUU&t=8331s)]*
 
 > <sup>[42](/bible/1-maccabees/2#v42)</sup> Then came there unto him a company of Assideans who were mighty men of Israel, even all such as were voluntarily devoted unto the law.
@@ -375,6 +368,18 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 
     If you hear it and do not utter it you bear the iniquity: that is why when you hear evil among us, you tell it.
 
+
+*[[2:32:35](https://www.youtube.com/watch?v=QczbDHIehUU&t=9155s)]* **In The News: A short on Boulder, Colorado, then Soldier Elisha of IUIC Memphis telling his own story** — Put in a school for the mentally handicapped because he was black, and his father forced by a sheriff with a shotgun to sign over his land, a wrecking yard, a trash company, a house and a restaurant, with black people coming against his father first
+
+*[[2:36:32](https://www.youtube.com/watch?v=QczbDHIehUU&t=9392s)]* **In The News: A video on Rasheem Carter, the twenty-five-year-old from Mississippi whose skeletal remains were found a month later with his head separated from his body** — The police still call it an accident with nobody else involved; this is the cost of immorality, the kind of thing that happens to us because we broke God's laws
+
+*[[2:39:31](https://www.youtube.com/watch?v=QczbDHIehUU&t=9571s)]* **In The News: An Emerge magazine article on the death of Emmett Till and his mother's forty-year agony, with the open-casket funeral photographs** — Mamie Till had the courage to show the world what they did to her son, and Tiffany Carter belongs in that same category
+
+*[[2:42:48](https://www.youtube.com/watch?v=QczbDHIehUU&t=9768s)]* **In The News: Photographs of our own people in the streets, one of a girl shooting inside a car** — This is what comes of allowing families to be ripped apart by sin: nothing but hatred toward our own people
+
+*[[2:44:32](https://www.youtube.com/watch?v=QczbDHIehUU&t=9872s)]* **In The News: A classroom video of a teacher singing the funny birthday song to a six-year-old boy, telling him he lives in the zoo and looks like a monkey** — Slide the cursor back and look at the black boy in the background who understood what he just heard; the rest of them are laughing and those two children are damaged forever
+
+*[[2:47:23](https://www.youtube.com/watch?v=QczbDHIehUU&t=10043s)]* **In The News: Malcolm X on who taught you to hate the texture of your hair and the colour of your skin, and on the man worried about somebody in a bathtub who cannot swim** — Black people are the greatest hate group against themselves; we are out in the middle of the ocean with no raft worrying about a white man in a bathtub, and that is a sick way of thinking we have to take accountability for
 
 ## Class Questions
 

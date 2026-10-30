@@ -20,11 +20,9 @@ tags: ["IUIC in the ClassRoom", "leadership", "the-americas"]
 
 *[[13:07](https://www.youtube.com/watch?v=yaepTSdYhtg&t=787s)]* The Power Hour from IUIC Phoenix, hosted by Captain Yoshua with officers and soldiers, back after a two-week break: an interview with Dr. Johanna Fernandez, associate professor of history at Baruch College and author of The Young Lords: A Radical History. She tells how a Chicago street gang became a political organization on the Black Panther model, what the Young Lords won for Puerto Ricans and Black Americans in New York, how COINTELPRO and the NYPD watched them, and why that history is hidden. The brothers close by saying what those movements lacked was the Bible as their foundation.
 
-## In The News
-
-- *[[18:25](https://www.youtube.com/watch?v=yaepTSdYhtg&t=1105s)]* **The Baruch College news center write-up: Dr. Fernandez won three Organization of American Historians book prizes for The Young Lords: A Radical History, including the Frederick Jackson Turner Award for a first scholarly book on U.S. history, plus the Merle Curti social history award and the Liberty Legacy Foundation Award** — Groups like the Young Lords and the Brown Berets are history that isn't taught in your typical school programs, but it's important to understand the journey of our people in this country.
-
 ## Scriptures Opened
+
+*[[18:25](https://www.youtube.com/watch?v=yaepTSdYhtg&t=1105s)]* **In The News: The Baruch College news center write-up: Dr. Fernandez won three Organization of American Historians book prizes for The Young Lords: A Radical History, including the Frederick Jackson Turner Award for a first scholarly book on U.S. history, plus the Merle Curti social history award and the Liberty Legacy Foundation Award** — Groups like the Young Lords and the Brown Berets are history that isn't taught in your typical school programs, but it's important to understand the journey of our people in this country.
 
 **[Genesis 49:8](/bible/genesis/49#v8)**  *[[2:09:34](https://www.youtube.com/watch?v=yaepTSdYhtg&t=7774s)]*
 

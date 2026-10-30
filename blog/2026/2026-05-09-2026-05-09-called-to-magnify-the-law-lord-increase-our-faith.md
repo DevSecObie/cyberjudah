@@ -352,25 +352,6 @@ The topic of today's class is going into faith. But not just faith: why we are c
 - So they shall make their own tongue to fall upon themselves: all that see them shall flee away. Their pride has reached to the height of heaven: they will set themselves up as gods and saviors of countries, even in a golden statue.
 - News discussed in class: a golden statue honoring the president was unveiled, and a black pastor was seen praying over it and blessing it. Where did God say this? The first commandment says make no graven image, no likeness of any thing, and bow not down to it. That is the wicked of our own people making a covenant with the heathen in real time: our people gravitating to the worship of the gods of Babylon, men who make themselves God. Why do we bring this up? So you know what not to do. Do not be deceived; these are not your gods, family.
 
-**[Job 5:12-17](/bible/job/5#v12)**  *[[2:23:18](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=8598s)]*
-
-> <sup>[12](/bible/job/5#v12)</sup> He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
->
-> <sup>[13](/bible/job/5#v13)</sup> He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
->
-> <sup>[14](/bible/job/5#v14)</sup> They meet with darkness in the daytime, and grope in the noonday as in the night.
->
-> <sup>[15](/bible/job/5#v15)</sup> But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.
->
-> <sup>[16](/bible/job/5#v16)</sup> So the poor hath hope, and iniquity stoppeth her mouth.
->
-> <sup>[17](/bible/job/5#v17)</sup> Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
-
-- He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise: what they plan in their secret chambers and think tanks. He taketh the wise in their own craftiness: their own tongue falls upon themselves. One of the organizations that long marked this nation as a hate group got caught up in its own scandal; and if another one comes, so what? All we do is promote righteous marriage and family. We just held an event honoring righteous marriage: husband and wife, as the Bible shows with Adam and Eve, Abraham and Sarah, Joseph and Mary.
-- But he saveth the poor from the sword, from their mouth, and from the hand of the mighty. So the poor hath hope, and iniquity stoppeth her mouth. Though the times get hard, we will have deliverance and peace in those trying times if we endure and continue in this faith.
-- Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty. Nothing is more pure and more rewarding than being corrected for your sins before the Lord and continuing to endure and perfect your soul. No matter what you are going through, at least you are preparing and building up your soul.
-- Every time you pass out a flyer, brother, sister, child, that is fulfilling prophecy; that is the next generation. They esteem us as evil, but world peace does not come until the righteous are in rulership, when Christ returns; the people mourn when the wicked bear rule, and rejoice when the righteous are in authority.
-
 **[Proverbs 3:31-32](/bible/proverbs/3#v31)**  *[[2:10:30](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=7830s)]*
 
 > <sup>[31](/bible/proverbs/3#v31)</sup> Envy thou not the oppressor, and choose none of his ways.
@@ -428,6 +409,25 @@ The topic of today's class is going into faith. But not just faith: why we are c
 
 - To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins. That is our purpose. Not your bodily eyes: pray that in times of tribulation the Lord opens your spiritual eyes and ears, that you can see and hear his understanding, maintain your godly discipline, and endure to the end.
 - Whenever you see the organizations and agencies coming against us, understand: they do not want you to come to your repentance and salvation. They will call it a cult; but the people are going to prove who is of God, because you cannot stop it. If this work be of men, it will come to nought; but if it be of God, ye cannot overthrow it.
+
+**[Job 5:12-17](/bible/job/5#v12)**  *[[2:23:18](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=8598s)]*
+
+> <sup>[12](/bible/job/5#v12)</sup> He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
+>
+> <sup>[13](/bible/job/5#v13)</sup> He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
+>
+> <sup>[14](/bible/job/5#v14)</sup> They meet with darkness in the daytime, and grope in the noonday as in the night.
+>
+> <sup>[15](/bible/job/5#v15)</sup> But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.
+>
+> <sup>[16](/bible/job/5#v16)</sup> So the poor hath hope, and iniquity stoppeth her mouth.
+>
+> <sup>[17](/bible/job/5#v17)</sup> Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
+
+- He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise: what they plan in their secret chambers and think tanks. He taketh the wise in their own craftiness: their own tongue falls upon themselves. One of the organizations that long marked this nation as a hate group got caught up in its own scandal; and if another one comes, so what? All we do is promote righteous marriage and family. We just held an event honoring righteous marriage: husband and wife, as the Bible shows with Adam and Eve, Abraham and Sarah, Joseph and Mary.
+- But he saveth the poor from the sword, from their mouth, and from the hand of the mighty. So the poor hath hope, and iniquity stoppeth her mouth. Though the times get hard, we will have deliverance and peace in those trying times if we endure and continue in this faith.
+- Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty. Nothing is more pure and more rewarding than being corrected for your sins before the Lord and continuing to endure and perfect your soul. No matter what you are going through, at least you are preparing and building up your soul.
+- Every time you pass out a flyer, brother, sister, child, that is fulfilling prophecy; that is the next generation. They esteem us as evil, but world peace does not come until the righteous are in rulership, when Christ returns; the people mourn when the wicked bear rule, and rejoice when the righteous are in authority.
 
 **[1 Thessalonians 5:23](/bible/1-thessalonians/5#v23)**  *[[2:26:36](https://www.youtube.com/watch?v=WzA8Ub2DhXk&t=8796s)]*
 

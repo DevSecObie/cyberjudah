@@ -19,12 +19,11 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "mercy", "sexual-purity", "wo
 
 *[[10:08](https://www.youtube.com/watch?v=PCaC1bom4x8&t=608s)]* He had a part two on the fall of Lucifer, which is Babylon, which is America, ready to go, but the spirit took him somewhere else: marriage, and the signs of a good wife. He deals first with the sins our people are falling into, fornication above all, and with what makes a marriage honorable or dishonorable from the day it is made; then he lays out what a good wife is, because in order for the nation of Israel to be strong the family has to be strong.
 
-## In The News
-
-- *[[11:22](https://www.youtube.com/watch?v=PCaC1bom4x8&t=682s)]* **A report on the Afghan national, brought here under the Biden administration and working for the CIA, who opened fire on National Guardsmen and killed one of them** — Never let a tragedy go to waste, that is how America works. They used 911 to change a lot of laws and they are about to do it again with immigration. Pay attention to what is going on, because according to Bible prophecy a lot more of this is coming on a much bigger scale.
-- *[[13:08](https://www.youtube.com/watch?v=PCaC1bom4x8&t=788s)]* **A nurse explaining that the administration wants the Department of Education to declassify nursing as a professional degree, which cuts the funding our sisters use to get into it** — This one is for the independent women. Nursing is the career that pulled our sisters up out of poverty, and it is the one they say I don't need no man, I'm a nurse, I'm making my own money with. It is being taken away, and it goes for occupational therapy and speech therapy too. When we tell you oppression is coming, some of you are not paying attention.
-
 ## Scriptures Opened
+
+*[[11:22](https://www.youtube.com/watch?v=PCaC1bom4x8&t=682s)]* **In The News: A report on the Afghan national, brought here under the Biden administration and working for the CIA, who opened fire on National Guardsmen and killed one of them** — Never let a tragedy go to waste, that is how America works. They used 911 to change a lot of laws and they are about to do it again with immigration. Pay attention to what is going on, because according to Bible prophecy a lot more of this is coming on a much bigger scale.
+
+*[[13:08](https://www.youtube.com/watch?v=PCaC1bom4x8&t=788s)]* **In The News: A nurse explaining that the administration wants the Department of Education to declassify nursing as a professional degree, which cuts the funding our sisters use to get into it** — This one is for the independent women. Nursing is the career that pulled our sisters up out of poverty, and it is the one they say I don't need no man, I'm a nurse, I'm making my own money with. It is being taken away, and it goes for occupational therapy and speech therapy too. When we tell you oppression is coming, some of you are not paying attention.
 
 **[Isaiah 32:9-10](/bible/isaiah/32#v9)**  *[[16:21](https://www.youtube.com/watch?v=PCaC1bom4x8&t=981s)]*
 

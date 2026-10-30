@@ -20,13 +20,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 
 *[[0:06](https://www.youtube.com/watch?v=4DrKt9DguwA&t=6s)]* Today's topic is interracial marriage. He lays down the law against it from Deuteronomy, answers those who search the Bible to justify themselves with Moses, Ruth and the mixed multitude, and walks the history of Joshua, Nehemiah and Ezra, the prophecy of Malachi, Habakkuk, Revelation and Isaiah, and Paul in 2 Corinthians to show the law has not changed.
 
-## In The News
-
-- *[[38:04](https://www.youtube.com/watch?v=4DrKt9DguwA&t=2284s)]* **A talk-show segment in which Melody Cochran, daughter of the famed attorney Johnny L. Cochran, is called a sellout for dating outside her race, and says she would rather stick pins in her eyes than date a black man** — Played on Tobit 4:13: you hate your people because a lot of you hate yourselves; the Bible says you despise your people when you marry somebody outside your race.
-- *[[40:16](https://www.youtube.com/watch?v=4DrKt9DguwA&t=2416s)]* **A news segment on Nicole, a 31-year-old prosecuting attorney still single, with Steve Harvey, on the 42% of black women never married and the number of black women entering interracial marriage more than doubling** — You go to work with all the other nations around you, but you better go home to your people and marry a son or daughter of your people.
-- *[[57:14](https://www.youtube.com/watch?v=4DrKt9DguwA&t=3434s)]* **A talk-show segment in which Alicia tells how her mother made her feel ugly for her dark complexion and did not want a dark grandbaby** — That's what a lot of you sisters have said, wanting a light-skinned baby with blue eyes and straight yellow hair, and the Most High is going to get the last laugh.
-- *[[1:00:01](https://www.youtube.com/watch?v=4DrKt9DguwA&t=3601s)]* **A talk-show segment in which Candace seeks to learn whether her ex-boyfriend Andrew, a white man she calls a racist, is the father of her biracial child** — Black woman, your children will be the seed of the white man, the Chinese man, the Arab, the African man; there is no salvation for them.
-
 ## Scriptures Opened
 
 **[John 8:32](/bible/john/8#v32)**  *[[0:06](https://www.youtube.com/watch?v=4DrKt9DguwA&t=6s)]*
@@ -320,6 +313,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 - Love your brethren: that's what a lot of our people don't do. It says don't despise your people by not marrying one of them. So the Bible says when you marry outside your race you hate your people.
 
 
+*[[38:04](https://www.youtube.com/watch?v=4DrKt9DguwA&t=2284s)]* **In The News: A talk-show segment in which Melody Cochran, daughter of the famed attorney Johnny L. Cochran, is called a sellout for dating outside her race, and says she would rather stick pins in her eyes than date a black man** — Played on Tobit 4:13: you hate your people because a lot of you hate yourselves; the Bible says you despise your people when you marry somebody outside your race.
+
+*[[40:16](https://www.youtube.com/watch?v=4DrKt9DguwA&t=2416s)]* **In The News: A news segment on Nicole, a 31-year-old prosecuting attorney still single, with Steve Harvey, on the 42% of black women never married and the number of black women entering interracial marriage more than doubling** — You go to work with all the other nations around you, but you better go home to your people and marry a son or daughter of your people.
+
 **[Nehemiah 9:2](/bible/nehemiah/9#v2)**  *[[44:30](https://www.youtube.com/watch?v=4DrKt9DguwA&t=2670s)]*
 
 > <sup>[2](/bible/nehemiah/9#v2)</sup> And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.
@@ -403,6 +400,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentanc
 
 - Their children also shall be dashed to pieces: your biracial baby. Black man that repents, his children are Israelites and can be saved; black woman, your children will be the seed of the white man. We can't change the prophecy.
 
+
+*[[57:14](https://www.youtube.com/watch?v=4DrKt9DguwA&t=3434s)]* **In The News: A talk-show segment in which Alicia tells how her mother made her feel ugly for her dark complexion and did not want a dark grandbaby** — That's what a lot of you sisters have said, wanting a light-skinned baby with blue eyes and straight yellow hair, and the Most High is going to get the last laugh.
+
+*[[1:00:01](https://www.youtube.com/watch?v=4DrKt9DguwA&t=3601s)]* **In The News: A talk-show segment in which Candace seeks to learn whether her ex-boyfriend Andrew, a white man she calls a racist, is the father of her biracial child** — Black woman, your children will be the seed of the white man, the Chinese man, the Arab, the African man; there is no salvation for them.
 
 **[2 Corinthians 6:14-17](/bible/2-corinthians/6#v14)**  *[[1:00:50](https://www.youtube.com/watch?v=4DrKt9DguwA&t=3650s)]*
 

@@ -19,16 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "repentance"]
 
 *[[7:28](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=448s)]* This class reads Donald Trump as the sword of God: a king whose heart the Lord turns wherever he wills to judge the nations. The truth that makes Israel free says a day is coming that burns as an oven, and it will not come until the man of sin, America, is revealed. America threatens Iran, seizes Venezuela, eyes Greenland and bombs nations across the earth, and the class matches this with Psalm 10, Isaiah 14 and Isaiah 47. The Lord's long-suffering is the only reason Israel has not been swallowed by the nations, and he calls every Israelite to repent and gather. The sword then turns on Amalek, the Philistines, Moab, Ammon and finally Babylon, and the apostles and prophets rejoice when God avenges them.
 
-## In The News
-
-- *[[29:42](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=1782s)]* **Trump tells Iranian protesters to take over their institutions, promises that 'help is on its way,' announces tariffs on anyone doing business with Iran, and says 'make Iran great again.'** — Deceit and fraud are under his tongue. He wants Iran's oil and a regime change for Netanyahu, not the good of the people.
-- *[[31:58](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=1918s)]* **María Corina Machado hands her Nobel Peace Prize to Trump after the attack on Venezuela.** — War is called peace and dictatorship democracy. The words are turned inside out.
-- *[[33:46](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=2026s)]* **A map lists every country the United States has bombed, and another video lists the leaders it removed: Maduro, Gaddafi, Saddam Hussein, Diem, Mossadegh, Árbenz and others.** — America is the most powerful villain on earth, the nation that made the earth to tremble.
-- *[[41:50](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=2510s)]* **A map of US bases and the scale of the Venezuela raid, with 150 aircraft sent to seize Maduro in a few hours.** — The wicked says in his heart, I shall not be moved. No nation can stand against Babylon; only the Lord will bring it down.
-- *[[48:04](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=2884s)]* **Trump says the United States will take Greenland 'the easy way or the hard way,' and Greenlanders describe nightmares of ships arriving.** — He boasts of his heart's desire and blesses the covetous, as Psalm 10 says.
-- *[[1:11:02](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=4262s)]* **A comedian's sketch mocking Christian apologists goes viral, and a TikTok comment attacks the brethren.** — The scoffers of the last days are here. Keep posting; the brethren watching will be reached.
-- *[[1:23:48](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=5028s)]* **Economist Jeffrey Sachs calls the United States the most lawless and dangerous country in the world, a report says Western envoys were shown evidence of Israeli agents inside Iran's protests, and a former congresswoman explains why Gaddafi was removed.** — America is the treacherous dealer of Isaiah 21, dealing through sanctions, the CIA, the Mossad and mercenaries.
-
 ## Scriptures Opened
 
 **[John 8:32](/bible/john/8#v32)**  *[[8:39](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=519s)]*
@@ -110,6 +100,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "repentance"]
     Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
 
 
+*[[29:42](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=1782s)]* **In The News: Trump tells Iranian protesters to take over their institutions, promises that 'help is on its way,' announces tariffs on anyone doing business with Iran, and says 'make Iran great again.'** — Deceit and fraud are under his tongue. He wants Iran's oil and a regime change for Netanyahu, not the good of the people.
+
+*[[31:58](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=1918s)]* **In The News: María Corina Machado hands her Nobel Peace Prize to Trump after the attack on Venezuela.** — War is called peace and dictatorship democracy. The words are turned inside out.
+
+*[[33:46](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=2026s)]* **In The News: A map lists every country the United States has bombed, and another video lists the leaders it removed: Maduro, Gaddafi, Saddam Hussein, Diem, Mossadegh, Árbenz and others.** — America is the most powerful villain on earth, the nation that made the earth to tremble.
+
 **[Isaiah 14:16](/bible/isaiah/14#v16)**  *[[37:26](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=2246s)]*
 
 > <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
@@ -119,6 +115,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "repentance"]
 - When he is laid down the whole earth is at rest; the kings of the nations will say, art thou also become weak as we?
 
 
+*[[41:50](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=2510s)]* **In The News: A map of US bases and the scale of the Venezuela raid, with 150 aircraft sent to seize Maduro in a few hours.** — The wicked says in his heart, I shall not be moved. No nation can stand against Babylon; only the Lord will bring it down.
+
 **[Psalms 10:2](/bible/psalms/10#v2)**  *[[43:50](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=2630s)]*
 
 > <sup>[2](/bible/psalms/10#v2)</sup> The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
@@ -127,6 +125,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "repentance"]
 
 - He hath said in his heart, I shall not be moved. His mouth is full of cursing and deceit and fraud.
 
+
+*[[48:04](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=2884s)]* **In The News: Trump says the United States will take Greenland 'the easy way or the hard way,' and Greenlanders describe nightmares of ships arriving.** — He boasts of his heart's desire and blesses the covetous, as Psalm 10 says.
 
 **[Ecclesiastes 4:1](/bible/ecclesiastes/4#v1)**  *[[50:07](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=3007s)]*
 
@@ -193,6 +193,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "repentance"]
     From that time Jesus began to preach, Repent: for the kingdom of heaven is at hand.
 
 
+*[[1:11:02](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=4262s)]* **In The News: A comedian's sketch mocking Christian apologists goes viral, and a TikTok comment attacks the brethren.** — The scoffers of the last days are here. Keep posting; the brethren watching will be reached.
+
 **[Acts 17:29](/bible/acts/17#v29)**  *[[1:14:33](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=4473s)]*
 
 > <sup>[29](/bible/acts/17#v29)</sup> Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device.
@@ -216,6 +218,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "repentance"]
 
 - They shall cry unto the Lord because of the oppressors, and he shall send them a saviour and a great one.
 
+
+*[[1:23:48](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=5028s)]* **In The News: Economist Jeffrey Sachs calls the United States the most lawless and dangerous country in the world, a report says Western envoys were shown evidence of Israeli agents inside Iran's protests, and a former congresswoman explains why Gaddafi was removed.** — America is the treacherous dealer of Isaiah 21, dealing through sanctions, the CIA, the Mossad and mercenaries.
 
 **[Isaiah 21:2](/bible/isaiah/21#v2)**  *[[1:23:48](https://www.youtube.com/watch?v=sgeJEYu1ZEg&t=5028s)]*
 

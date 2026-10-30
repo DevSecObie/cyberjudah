@@ -20,17 +20,9 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "nations", "so-called-jews", "war",
 
 *[[0:00](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=0s)]* Battle Beyond Radio Show, IUIC Columbus's show on what is being done to our people in Africa, hosted by Captain Joel with his officers. This week: Malawi secretly airlifting over 200 of its young people to work on Israeli farms during the war on Gaza, after a $60 million aid package from Israel. Part 2 of the broadcast: the smooth talk to the young people, how Israel treats black people, and Esau's judgment.
 
-## In The News
-
-- *[[0:00](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=0s)]* **A man telling the young Malawians: I will be your home for the next 5 years, your father, your mother, your aunt** — That's where the money's going: smooth talk to make them comfortable.
-- *[[6:42](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=402s)]* **A commentator: why now, and not in 2021 when Malawi opened an embassy in Jerusalem? Israel's economy is taking a beating and its farms have a labor gap; aid to Africa always has chains attached; Malawi's currency was just devalued 44%** — It never comes without an agenda behind it, and now you're sending them to a war zone.
-- *[[9:29](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=569s)]* **A woman on the deal: they'll get $1,000 a month, and out of that pay their airfare, processing, boarding and living** — So what are they keeping? Nothing. That's slavery, and the $60 million was the selling package.
-- *[[12:15](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=735s)]* **A documentary on Israel's treatment of African asylum seekers: protesters calling them infiltrators, "I'm proud to be a racist", Eli Yishai vowing that not a single infiltrator will remain, an Israeli woman told "may you be raped" and "you're married to a …", "go back to Sudan"** — Those are the people the president of Malawi sends his young men to. That's not the people of God, that's blasphemy. They're doing that in 2013; you think they're not doing it now?
-- *[[21:55](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=1315s)]* **Netanyahu on halting "infiltrators" from Africa with the Sinai fence and moving to returning them; the anti-infiltration law allowing non-Jewish migrants to be jailed without trial for three years; the detention center in the Negev; ultra-nationalists marching through South Tel Aviv** — A government that cared would not put his people among these people. The government of Malawi should be ashamed: they put those children's lives at risk for money.
-- *[[26:13](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=1573s)]* **A rabbi in his weekly sermon: we don't say a blessing for every Negro, and a black man is like a family having a monkey for a son** — Negroes don't want your blessing; our prayer is for judgment on those who held our people in slavery. They sponsored the slave ships.
-- *[[29:22](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=1762s)]* **A racist Israeli spits on and hits black women in Tel Aviv at Eurovision** — That's what they view us as, and we're sending our children to work for them.
-
 ## Scriptures Opened
+
+*[[0:00](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=0s)]* **In The News: A man telling the young Malawians: I will be your home for the next 5 years, your father, your mother, your aunt** — That's where the money's going: smooth talk to make them comfortable.
 
 **[Psalms 55:21](/bible/psalms/55#v21)**  *[[0:00](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=0s)]*
 
@@ -64,12 +56,18 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "nations", "so-called-jews", "war",
 - God is setting up men to stand and defend their own people: men of honest report, full of the Holy Ghost and wisdom, not covetous, not liars, not selling their own people. Malawi is tripping because white Jesus is in their mind.
 
 
+*[[6:42](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=402s)]* **In The News: A commentator: why now, and not in 2021 when Malawi opened an embassy in Jerusalem? Israel's economy is taking a beating and its farms have a labor gap; aid to Africa always has chains attached; Malawi's currency was just devalued 44%** — It never comes without an agenda behind it, and now you're sending them to a war zone.
+
 **[Isaiah 56:10](/bible/isaiah/56#v10)**  *[[8:35](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=515s)]*
 
 > <sup>[10](/bible/isaiah/56#v10)</sup> His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
 
 - An officer: the money has blinded the leaders of Malawi. His watchmen are blind, all dumb dogs that cannot bark, that send their youth, their workforce, to build up another country, keep it secret, ship them off in the middle of the night, sleeping and loving to slumber while they fatten their pockets.
 
+
+*[[9:29](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=569s)]* **In The News: A woman on the deal: they'll get $1,000 a month, and out of that pay their airfare, processing, boarding and living** — So what are they keeping? Nothing. That's slavery, and the $60 million was the selling package.
+
+*[[12:15](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=735s)]* **In The News: A documentary on Israel's treatment of African asylum seekers: protesters calling them infiltrators, "I'm proud to be a racist", Eli Yishai vowing that not a single infiltrator will remain, an Israeli woman told "may you be raped" and "you're married to a …", "go back to Sudan"** — Those are the people the president of Malawi sends his young men to. That's not the people of God, that's blasphemy. They're doing that in 2013; you think they're not doing it now?
 
 **[Ezekiel 36:5](/bible/ezekiel/36#v5)**  *[[16:39](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=999s)]*
 
@@ -86,6 +84,12 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "nations", "so-called-jews", "war",
 
 - Judah mourneth, they are black unto the ground: in the Bible the Jews are black.
 
+
+*[[21:55](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=1315s)]* **In The News: Netanyahu on halting "infiltrators" from Africa with the Sinai fence and moving to returning them; the anti-infiltration law allowing non-Jewish migrants to be jailed without trial for three years; the detention center in the Negev; ultra-nationalists marching through South Tel Aviv** — A government that cared would not put his people among these people. The government of Malawi should be ashamed: they put those children's lives at risk for money.
+
+*[[26:13](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=1573s)]* **In The News: A rabbi in his weekly sermon: we don't say a blessing for every Negro, and a black man is like a family having a monkey for a son** — Negroes don't want your blessing; our prayer is for judgment on those who held our people in slavery. They sponsored the slave ships.
+
+*[[29:22](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=1762s)]* **In The News: A racist Israeli spits on and hits black women in Tel Aviv at Eurovision** — That's what they view us as, and we're sending our children to work for them.
 
 **[Genesis 27:42](/bible/genesis/27#v42)**  *[[30:18](https://www.youtube.com/watch?v=XEyx4cmLrCE&t=1818s)]*
 

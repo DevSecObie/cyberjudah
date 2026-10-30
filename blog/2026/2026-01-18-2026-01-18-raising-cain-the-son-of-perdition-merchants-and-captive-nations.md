@@ -19,19 +19,6 @@ tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "unity", "war"]
 
 *[[13:31](https://www.youtube.com/watch?v=36emQd9wjts&t=811s)]* Deacon Yashua traces the spirit of Cain, the son of perdition, from the first murder to the United States. Cain's hatred and deceit, Tubal-cain's weapons and Lamech's boast pass into Esau, who lives by the sword and waits to kill his brother. The same pattern shows today: America labels a leader a drug lord, strips him of legitimacy, sanctions and isolates his country, then removes him, as it did to Maduro. The class sets this beside the merchants of Revelation 18 and the School of the Americas. It shows how the northern kingdom in Latin America was mixed and whitened, and ends on the promise that God will not give up Ephraim, but will bend Judah and fill the bow with Ephraim.
 
-## In The News
-
-- *[[37:46](https://www.youtube.com/watch?v=36emQd9wjts&t=2266s)]* **A 1993 60 Minutes segment shows a former DEA head saying the CIA and a Venezuelan general moved a ton of cocaine into the United States.** — The pattern is to criminalize a leader with a drug narrative. The only cartel by that name was the CIA's own operation.
-- *[[51:43](https://www.youtube.com/watch?v=36emQd9wjts&t=3103s)]* **Trump says the lights of Caracas were turned off by 'a certain expertise.'** — No nation can stand against this power. Only God will bring it down.
-- *[[1:24:10](https://www.youtube.com/watch?v=36emQd9wjts&t=5050s)]* **Trump calls Venezuela and Colombia 'sick,' warns Venezuela's vice president she could face worse than Maduro, and boasts that the raid was 'very violent.'** — Obadiah's 'who shall bring me down?' is the voice of Esau, who takes comfort in violence.
-- *[[2:11:56](https://www.youtube.com/watch?v=36emQd9wjts&t=7916s)]* **Trump says the only limit on his use of military force is his own morality.** — The son of perdition exalts himself above all that is called God.
-- *[[2:28:43](https://www.youtube.com/watch?v=36emQd9wjts&t=8923s)]* **María Corina Machado promises to move Venezuela's embassy to Jerusalem and later gives Trump her Nobel Peace Prize.** — They know where the power lies. They oppress a man and his heritage, taking identity as well as resources.
-- *[[2:39:15](https://www.youtube.com/watch?v=36emQd9wjts&t=9555s)]* **A guest on a political show complains that most of Congress takes money from AIPAC for a country with no resources.** — Those who say they are Jews and are not need America's power to keep up the lie and take the land.
-- *[[3:03:57](https://www.youtube.com/watch?v=36emQd9wjts&t=11037s)]* **A report on the School of the Americas, which trained Latin American officers in torture, coercion and death squads, including Noriega and Ríos Montt.** — Rome set up and removed kings; America does the same. They set up kings, but not by me.
-- *[[3:09:36](https://www.youtube.com/watch?v=36emQd9wjts&t=11376s)]* **A speaker says the Third World is not poor but overexploited, stripped of its timber, cocoa, tin, copper, rubber and slaves.** — That is the merchandise of Revelation 18, down to slaves and souls of men.
-- *[[3:19:51](https://www.youtube.com/watch?v=36emQd9wjts&t=11991s)]* **Venezuelans march in support of Maduro while the celebrations shown on television are in Miami.** — The revelation of the son of perdition is waking the northern kingdom. It cannot be put back in the box.
-- *[[3:48:48](https://www.youtube.com/watch?v=36emQd9wjts&t=13728s)]* **A Hebrew Israelite explains that the identity is not new but an unbroken chain, and that waking up to it baffles the world.** — The scattering that was a curse also preserved Israel. Now they are coming back together.
-
 ## Scriptures Opened
 
 **[Jeremiah 28:8](/bible/jeremiah/28#v8)**  *[[19:38](https://www.youtube.com/watch?v=36emQd9wjts&t=1178s)]*
@@ -185,6 +172,10 @@ Reading from two screen grabs on General Dan Caine's nickname  *[[56:33](https:/
 </div>
 
 
+*[[37:46](https://www.youtube.com/watch?v=36emQd9wjts&t=2266s)]* **In The News: A 1993 60 Minutes segment shows a former DEA head saying the CIA and a Venezuelan general moved a ton of cocaine into the United States.** — The pattern is to criminalize a leader with a drug narrative. The only cartel by that name was the CIA's own operation.
+
+*[[51:43](https://www.youtube.com/watch?v=36emQd9wjts&t=3103s)]* **In The News: Trump says the lights of Caracas were turned off by 'a certain expertise.'** — No nation can stand against this power. Only God will bring it down.
+
 **[Genesis 4:3](/bible/genesis/4#v3)**  *[[1:00:33](https://www.youtube.com/watch?v=36emQd9wjts&t=3633s)]*
 
 > <sup>[3](/bible/genesis/4#v3)</sup> And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the Lord.
@@ -272,6 +263,8 @@ Reading from a definition of Satan  *[[1:06:09](https://www.youtube.com/watch?v=
 
     Evil shall hunt the violent man to overthrow him.
 
+
+*[[1:24:10](https://www.youtube.com/watch?v=36emQd9wjts&t=5050s)]* **In The News: Trump calls Venezuela and Colombia 'sick,' warns Venezuela's vice president she could face worse than Maduro, and boasts that the raid was 'very violent.'** — Obadiah's 'who shall bring me down?' is the voice of Esau, who takes comfort in violence.
 
 **[Genesis 4:22](/bible/genesis/4#v22)**  *[[1:30:43](https://www.youtube.com/watch?v=36emQd9wjts&t=5443s)]*
 
@@ -383,6 +376,8 @@ Reading from a definition of Satan  *[[1:06:09](https://www.youtube.com/watch?v=
 - The trees rejoice, saying no feller has come up against us. Lucifer, the shining one, is brought down to the grave.
 
 
+*[[2:11:56](https://www.youtube.com/watch?v=36emQd9wjts&t=7916s)]* **In The News: Trump says the only limit on his use of military force is his own morality.** — The son of perdition exalts himself above all that is called God.
+
 **[Psalms 94:20](/bible/psalms/94#v20)**  *[[2:13:36](https://www.youtube.com/watch?v=36emQd9wjts&t=8016s)]*
 
 > <sup>[20](/bible/psalms/94#v20)</sup> Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?
@@ -425,6 +420,10 @@ Reading from a news report on fires in the Argentinian Patagonia  *[[2:37:39](ht
 
 </div>
 
+
+*[[2:28:43](https://www.youtube.com/watch?v=36emQd9wjts&t=8923s)]* **In The News: María Corina Machado promises to move Venezuela's embassy to Jerusalem and later gives Trump her Nobel Peace Prize.** — They know where the power lies. They oppress a man and his heritage, taking identity as well as resources.
+
+*[[2:39:15](https://www.youtube.com/watch?v=36emQd9wjts&t=9555s)]* **In The News: A guest on a political show complains that most of Congress takes money from AIPAC for a country with no resources.** — Those who say they are Jews and are not need America's power to keep up the lie and take the land.
 
 **[Hosea 12:7](/bible/hosea/12#v7)**  *[[2:44:06](https://www.youtube.com/watch?v=36emQd9wjts&t=9846s)]*
 
@@ -502,6 +501,10 @@ Reading from an article on the Western Hemisphere Institute for Security Coopera
 </div>
 
 
+*[[3:03:57](https://www.youtube.com/watch?v=36emQd9wjts&t=11037s)]* **In The News: A report on the School of the Americas, which trained Latin American officers in torture, coercion and death squads, including Noriega and Ríos Montt.** — Rome set up and removed kings; America does the same. They set up kings, but not by me.
+
+*[[3:09:36](https://www.youtube.com/watch?v=36emQd9wjts&t=11376s)]* **In The News: A speaker says the Third World is not poor but overexploited, stripped of its timber, cocoa, tin, copper, rubber and slaves.** — That is the merchandise of Revelation 18, down to slaves and souls of men.
+
 **[Revelation 18:12](/bible/revelation/18#v12)**  *[[3:11:15](https://www.youtube.com/watch?v=36emQd9wjts&t=11475s)]*
 
 > <sup>[12](/bible/revelation/18#v12)</sup> The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,
@@ -518,6 +521,8 @@ Reading from an article on the Western Hemisphere Institute for Security Coopera
 
     I know thy poverty, but thou art rich; and the blasphemy of them which say they are Jews and are not.
 
+
+*[[3:19:51](https://www.youtube.com/watch?v=36emQd9wjts&t=11991s)]* **In The News: Venezuelans march in support of Maduro while the celebrations shown on television are in Miami.** — The revelation of the son of perdition is waking the northern kingdom. It cannot be put back in the box.
 
 **[Matthew 13:24](/bible/matthew/13#v24)**  *[[3:29:10](https://www.youtube.com/watch?v=36emQd9wjts&t=12550s)]*
 
@@ -614,6 +619,8 @@ Reading from an article on blanqueamiento  *[[3:31:28](https://www.youtube.com/w
 
     All these curses shall come upon thee and overtake thee, because thou hearkenedst not unto the voice of the Lord.
 
+
+*[[3:48:48](https://www.youtube.com/watch?v=36emQd9wjts&t=13728s)]* **In The News: A Hebrew Israelite explains that the identity is not new but an unbroken chain, and that waking up to it baffles the world.** — The scattering that was a curse also preserved Israel. Now they are coming back together.
 
 **[Hosea 1:10](/bible/hosea/1#v10)**  *[[3:56:24](https://www.youtube.com/watch?v=36emQd9wjts&t=14184s)]*
 

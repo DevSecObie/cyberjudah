@@ -20,18 +20,13 @@ tags: ["IUIC in the ClassRoom", "health", "nations", "persecution"]
 
 *[[1:57](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=117s)]* Truth Be Told, broadcast live by IUIC DC, hosted by Officer Matthew with Captain Amaziah and the officers, on the body snatchers: the fall of Afghanistan as prophecy against Babylon, the earthquake on Levi in Haiti, a mother's baby taken by the state, and children trafficked by the elites. They have dominion over our bodies because of our sins, so repent and get your body and mind right.
 
-## In The News
-
-- *[[4:28](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=268s)]* **IUIC DC's weekend: a fishing trip with 15 or 16 brothers, the march and parade in Baltimore, a booth at the AFRAM event, and two camps, with IUIC Philly's officers and men coming down to support** — Word gets around Baltimore about the brothers in purple and gold doing the Lord's work. But our people don't support these events: the pan-Africanists and Egyptologists who claim to love Marcus Garvey were nowhere to be found.
-- *[[11:23](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=683s)]* **Baltimore teaching people how to use fentanyl safely and handing out Narcan at the police station** — So now you've got to jump start the junkies. That's just a setup to destroy our people.
-- *[[15:34](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=934s)]* **Footage of people running beside and clinging to a C-17 as it takes off from Kabul airport** — The captain served in Kandahar. Joe Biden just packed up and left. Jim Crow Joe is bringing Christ in so fast.
-- *[[19:03](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=1143s)]* **Reports that the Afghan refugees will be housed in Texas and Arizona, with $500 million from the federal emergency fund** — You … ain't got nothing, and the Afghan refugees got $500 million in free housing from Jim Crow Joe, while our people get tossed out of their houses.
-- *[[29:58](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=1798s)]* **The Haiti earthquake: a magnitude 7.2 quake off the southwestern peninsula, the death toll near 1,300, and Tropical Storm Grace on the way** — Pray for the brothers and sisters, and Haiti, repent from that witchcraft. The Lord protected the school in Haiti.
-- *[[41:26](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=2486s)]* **Video of officers taking a two-day-old baby from her mother, as she pleads that she has the paperwork and the key to the city** — Thy sons and thy daughters shall be given unto another people: this is not a fairy tale book. She refused their shots, so the state came to take her baby. They didn't care how many keys to the city she had.
-- *[[1:01:23](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=3683s)]* **An article: GOP strategist Anton Lazzaro charged with 10 counts of child sex trafficking conspiracy and obstruction of justice; and police arrest a 19-year-old college Republican accused of helping him recruit girls** — Look how many children go missing every day. Trafficking minors is big business among the wealthy elites, another form of the slave trade, and she's pimping her own people. Why else would they keep the kids at the border in cages?
-- *[[1:08:54](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=4134s)]* **An article: Haiti 2010, Laura Silsby, a FEMA contractor's executive for the Amber Alert system, arrested trying to take 33 children out of Haiti after the earthquake, children who all had families** — Every time there's a disaster they do that. That same formula: call them orphans and take them, like they did to our people.
-
 ## Scriptures Opened
+
+*[[4:28](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=268s)]* **In The News: IUIC DC's weekend: a fishing trip with 15 or 16 brothers, the march and parade in Baltimore, a booth at the AFRAM event, and two camps, with IUIC Philly's officers and men coming down to support** — Word gets around Baltimore about the brothers in purple and gold doing the Lord's work. But our people don't support these events: the pan-Africanists and Egyptologists who claim to love Marcus Garvey were nowhere to be found.
+
+*[[11:23](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=683s)]* **In The News: Baltimore teaching people how to use fentanyl safely and handing out Narcan at the police station** — So now you've got to jump start the junkies. That's just a setup to destroy our people.
+
+*[[15:34](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=934s)]* **In The News: Footage of people running beside and clinging to a C-17 as it takes off from Kabul airport** — The captain served in Kandahar. Joe Biden just packed up and left. Jim Crow Joe is bringing Christ in so fast.
 
 **[Isaiah 13:14](/bible/isaiah/13#v14)**  *[[17:36](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=1056s)]*
 
@@ -39,6 +34,8 @@ tags: ["IUIC in the ClassRoom", "health", "nations", "persecution"]
 
 - When I saw the Americans running at the airport: it shall be as the chased roe. The other nations see America can't even hold Afghanistan, and the president falls up the steps. They shall every man turn to his own people and flee every one into his own land: the Taliban said we're taking our stuff back.
 
+
+*[[19:03](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=1143s)]* **In The News: Reports that the Afghan refugees will be housed in Texas and Arizona, with $500 million from the federal emergency fund** — You … ain't got nothing, and the Afghan refugees got $500 million in free housing from Jim Crow Joe, while our people get tossed out of their houses.
 
 **[Proverbs 21:1](/bible/proverbs/21#v1)**  *[[19:50](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=1190s)]*
 
@@ -70,6 +67,8 @@ tags: ["IUIC in the ClassRoom", "health", "nations", "persecution"]
 
 - Art thou also become weak as we? The most powerful nation in the earth has become as weak as us. They left the military weaponry, so the guerrillas are a more powerful military now, China sits down with them, and they control the lithium.
 
+
+*[[29:58](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=1798s)]* **In The News: The Haiti earthquake: a magnitude 7.2 quake off the southwestern peninsula, the death toll near 1,300, and Tropical Storm Grace on the way** — Pray for the brothers and sisters, and Haiti, repent from that witchcraft. The Lord protected the school in Haiti.
 
 **[Matthew 24:3](/bible/matthew/24#v3)**  *[[32:10](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=1930s)]*
 
@@ -109,6 +108,8 @@ tags: ["IUIC in the ClassRoom", "health", "nations", "persecution"]
 
 - People tell you the curses were back in slavery times. Thy sons and thy daughters shall be given unto another people: you just saw it on the video, with the pride on them, like a mother would just hand over her child. And there shall be no might in thine hand: 20 race soldiers lined up taking a sister's baby.
 
+
+*[[41:26](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=2486s)]* **In The News: Video of officers taking a two-day-old baby from her mother, as she pleads that she has the paperwork and the key to the city** — Thy sons and thy daughters shall be given unto another people: this is not a fairy tale book. She refused their shots, so the state came to take her baby. They didn't care how many keys to the city she had.
 
 **[Psalms 58:3](/bible/psalms/58#v3)**  *[[46:18](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=2778s)]*
 
@@ -176,6 +177,10 @@ tags: ["IUIC in the ClassRoom", "health", "nations", "persecution"]
 
     For this people's heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
 
+
+*[[1:01:23](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=3683s)]* **In The News: An article: GOP strategist Anton Lazzaro charged with 10 counts of child sex trafficking conspiracy and obstruction of justice; and police arrest a 19-year-old college Republican accused of helping him recruit girls** — Look how many children go missing every day. Trafficking minors is big business among the wealthy elites, another form of the slave trade, and she's pimping her own people. Why else would they keep the kids at the border in cages?
+
+*[[1:08:54](https://www.youtube.com/watch?v=21F1jTEJ1EM&t=4134s)]* **In The News: An article: Haiti 2010, Laura Silsby, a FEMA contractor's executive for the Amber Alert system, arrested trying to take 33 children out of Haiti after the earthquake, children who all had families** — Every time there's a disaster they do that. That same formula: call them orphans and take them, like they did to our people.
 
 ## Class Questions
 

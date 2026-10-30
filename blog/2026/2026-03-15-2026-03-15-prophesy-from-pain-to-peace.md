@@ -19,35 +19,11 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
 *[[18:31](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1111s)]* A Sabbath prophecy class, Prophesy From Pain To Peace, taught as the war with Iran unfolds. It opens with the record that Philip of Macedon and Alexander descended from Esau, then follows Daniel 8 to the king of fierce countenance who destroys the holy people and by peace destroys many, set against a president who campaigned as the candidate of peace and has bombed seven countries. From there the class reads the media as the mouth of the beast, the counterfeits who say they are Jews and are not, the 70 weeks of Daniel 9 already fulfilled, the true third temple of Isaiah 60, the black pastors who made a covenant with death, and the coming of Christ in Habakkuk 3 that ends Babylon in one hour.
 
-## In The News
-
-- *[[19:38](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1178s)]* **The art department's opening video: the dragon opens his mouth and the earth is filled with deception; as they try to establish peace, war will increase; peace comes only when the 144,000 are sealed.** — Prophesy is the action; prophecy is the words written. The class is about acting on what is written.
-- *[[21:15](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1275s)]* **Two books on screen: The Chronology of Ancient Nations (1879) lists Philip of Macedon's pedigree back through Hermes, Japheth, Rome, Eliphaz, Esau, Isaac, Abraham; The Rise of Christendom (1890) says King Philip was a descendant of Esau, son of Isaac.** — The scholars know. The original Greeks were of Japheth, but Esau overthrew them and took their place. These books were written when few of us could read, on the assumption we would never read and reason.
-- *[[28:31](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1711s)]* **A photograph of the Berlin Conference, where the European nations divided Africa with no Africans in the room.** — Daniel 11:39, they shall divide the land for gain. It started with Alexander's generals dividing his kingdom and Esau kept the same energy in the late 1800s, including the land of Israel and the Balfour Declaration.
-- *[[41:06](https://www.youtube.com/watch?v=EUL_omVPaWc&t=2466s)]* **Trump's Board of Peace, which costs a billion dollars to join and whose power supersedes the United Nations and the international court.** — Daniel 8:25, by peace shall destroy many. We are living in that time.
-- *[[42:07](https://www.youtube.com/watch?v=EUL_omVPaWc&t=2527s)]* **A montage of Trump: I am the candidate of peace, I am the only president in 84 years who did not start a war, my proudest legacy will be that of a peacemaker; then the clip of him being accused of planning to attack Iran, which he did.** — His words are smoother than butter but war is in his heart, Psalms 55:21. Millions are dying while the president of peace speaks.
-- *[[46:46](https://www.youtube.com/watch?v=EUL_omVPaWc&t=2806s)]* **A post reading: they killed his father, mother, wife, son, sister, brother-in-law, niece, nephew, and now they want peace? In Independence Day the alien is asked what we can do to establish peace and answers, die.** — Habakkuk 2:7-8. The nations America has spoiled will rise up suddenly and bite, because their remnants live here. You cannot wipe out a man's whole line and have peace with him. Only black people are foolish enough to offer that.
-- *[[51:52](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3112s)]* **A list of the countries Trump has bombed in his second term: Yemen, Somalia, Iraq, Iran, Syria, Nigeria, Venezuela.** — Seven countries a short way into a term, from the president of peace some of you believe in.
-- *[[52:52](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3172s)]* **Reports that a private school for the daughters of Revolutionary Guard officers was hit in the first hour of the war, killing around 170 girls under twelve; Trump says Iran may have bombed its own school while a New York Times reporter presses him for evidence; George Galloway notes only the United States and three Five Eyes countries own Tomahawk missiles and that the Pentagon report calls it an American targeting error.** — It was not an error. The girls were targeted to torment their fathers, Gaza-style barbarity at the direction of the Israelis, and nobody will bring them to international law. There will be no peace with those fathers.
-- *[[58:36](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3516s)]* **A short on the prophets seeing stars fall from heaven, which today we know are missiles.** — Matthew 24:29. The stars falling and the powers of the heavens shaken is war, and it comes before the sign of the Son of man.
-- *[[1:02:23](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3743s)]* **Footage of missiles over Tel Aviv, then a report that a $111 billion deal puts CNN, HBO, CBS, and Warner Brothers under the Ellison family, a top Trump donor, after CBS killed a vetted 60 Minutes investigation and eleven of forty news staffers walked out.** — They claim six died in Tel Aviv after all that; the devil is lying. One family will run the media, and that is why they would not let Bill Cosby or Byron Allen buy a network. They do not want an alternative view.
-- *[[1:04:25](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3865s)]* **George Galloway: Israel is taking a hiding you do not see, because releasing footage of damage in Tel Aviv carries five years in prison and CNN, BBC, and Sky accept Israeli censorship; his friends on Sheinkin Street say Tel Aviv looks like Gaza, fifty ballistic missiles hit in one evening, and American casualties are approaching a thousand.** — If you are sending your family into the military while you watch Bible prophecy unfold, you do not believe. Blacks and Hispanics go to the front line first in Esau's military.
-- *[[1:07:04](https://www.youtube.com/watch?v=EUL_omVPaWc&t=4024s)]* **Iranian missiles striking Tel Aviv's diamond exchange, Soroka Hospital in Beersheba, Haifa, and a whole block, with no sirens because the radars were destroyed; Iran hacked the Israeli network to warn in Hebrew, your government lied to you, leave now, timed to the strikes; grieving parents of a fallen soldier.** — Kingdom against kingdom, the beginning of sorrows. Nobody feels sorry for them. These people trusted their technology, and so does America; the film A House of Dynamite shows a missile reaching American airspace because shooting one down is a bullet hitting a bullet.
-- *[[1:21:17](https://www.youtube.com/watch?v=EUL_omVPaWc&t=4877s)]* **Tucker Carlson reacting to a 2018 speech by Pete Hegseth, now Secretary of War, calling 1917, 1948, 1967, and 2017 miracles and saying there is no reason the re-establishment of the temple on the Temple Mount is not possible.** — The war with Iran is about more than politics; it is religion. The people fighting it say it is about rebuilding the third temple.
-- *[[1:23:36](https://www.youtube.com/watch?v=EUL_omVPaWc&t=5016s)]* **An Israeli speaker suggests maybe a missile will hit the Al-Aqsa Mosque and clear the place for the third temple, and that he would pretend a missile came from Iran and shoot it down so the Arabs fight Iran.** — That is the plan: fake an Iranian missile on the mosque, then build. Edom, which is Amalek over there, set themselves up as the Jews.
-- *[[1:58:09](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7089s)]* **An Israeli consul, Judith Varnai Shorer, says the major problem of Israel is the young generation of the black community, that she hosted a dinner for forty people considering the leadership of the black community, and that pro-Israel groups take new black leaders to AIPAC and to Israel on all-expenses-paid trips.** — They pick who leads black people. Those who come on Clubhouse night after night to argue against us and cannot explain themselves were set up to counter the rebuilding of the nation of Israel, because the real problem is people coming back to God as Israelites.
-- *[[2:01:26](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7286s)]* **An encyclopedia entry on Aelia Capitolina: founded in 135 AD by the Romans on the ruins of Jerusalem after the second Jewish revolt, named for Hadrian and the Capitoline Triad, with a temple of Jupiter built on the Temple Mount and Jews forbidden entrance.** — That is Daniel 9. Rome sat in the temple, the Arabs later built the mosque on the same spot, and the trinity of Jupiter, Juno, and Minerva is where the Christian trinity came from. The present walls follow the Roman layout.
-- *[[2:03:25](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7405s)]* **An article: Israel regularly hosts delegations of black pastors from the US and Africa, organized by the Institute for Black Solidarity with Israel and the Friends of Zion Museum, as part of a broader strategy to counter anti-Semitism and rising anti-Israel sentiment.** — When they say anti-Semitism they mean the Israelites. In France they called a black Jesus and the twelve tribes anti-Semitism, shut our school, and deported the main brother. A captain recalls famous people calling us in 2016 and 2017 to say Israel was telling them to stop supporting the Israelite movement or lose their contracts.
-- *[[2:11:20](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7880s)]* **Pastor Philip Anthony Mitchell recounts hearing God in the Garden Tomb on a 2018 trip to Israel, then preaches that Jesus was not a black man but an ethnic Jew, and that a preacher who said otherwise was a false prophet; a brother recounts the same pastor seeing the Israelites in a Cuban restaurant and leaving.** — That was Amalek talking to him, not God. He calls a black Jesus race idolatry while wearing a perm, and he would not come outside when the brothers went out after 28:19. All that talk, and he saw their faces and left.
-- *[[2:19:51](https://www.youtube.com/watch?v=EUL_omVPaWc&t=8391s)]* **A Christian Post article, Black pastors encourage African-American churches to defend Israel, not side with the devil, with a paragraph noting that Black Hebrew Israelites impact black pastors in a way they do not impact white pastors.** — An article about black pastors and out of the blue a paragraph on the Israelites. Black pastors are not a threat because they do not know the Bible; the racist preacher who told them their churches should close was right about that.
-- *[[2:27:16](https://www.youtube.com/watch?v=EUL_omVPaWc&t=8836s)]* **Photographs of black and Latino pastors praying over Trump at the White House, including the pastor who said thank God almighty we are free.** — Trump has already hit Venezuela and says Cuba, Colombia, Brazil, and Mexico are next, and the Latino pastors voted for him. Rightfully he will put a foot in their behinds. Zechariah 11:5, our own shepherds pity us not.
-- *[[2:28:54](https://www.youtube.com/watch?v=EUL_omVPaWc&t=8934s)]* **Images of Rasheem Carter, Kendrick Johnson, Breonna Taylor, Philando Castile, Sandra Bland, and George Floyd.** — Whose possessors slay them and hold themselves not guilty. Kendrick Johnson's organs were removed, the school footage disappeared, and the judge who found it suspicious still dismissed the case. Our pastors and congressmen do not care because they get a piece of the pie.
-- *[[2:35:58](https://www.youtube.com/watch?v=EUL_omVPaWc&t=9358s)]* **A black pastor defends the killing of an Iranian who said death to America, says let us change regimes, and says Christians love the Jews because the Bible says pray for Jerusalem and they are God's chosen people.** — He made a covenant with death and hell. This is what we have to deal with.
-- *[[2:37:27](https://www.youtube.com/watch?v=EUL_omVPaWc&t=9447s)]* **The Jerusalem Post: a delegation of thirty senior Christian leaders from ten African countries arrives in Israel for a four-day visit initiated by the deputy foreign minister, all expenses paid.** — A gift destroys the heart. This is how the covenant is bought.
-- *[[3:14:49](https://www.youtube.com/watch?v=EUL_omVPaWc&t=11689s)]* **The James Bond film Spectre, where a weapon kills only specific people by DNA.** — They engineer food to spike insulin and target DNA; when American fast food reached Jamaica, Africa, China, and India, diabetes and fibroids skyrocketed. Hollywood is in the know and dresses it as science fiction. Do not take DNA tests; Israel banned them because they can identify who is who.
-- *[[3:22:33](https://www.youtube.com/watch?v=EUL_omVPaWc&t=12153s)]* **The closing video, One Hour, by an Israelite rapper: that is all it is going to take; judgment day is on the way.** — Revelation 18:10 and 19. In one hour is thy judgment come, and in one hour so great riches come to nought. That is why the war in the Middle East and the effort to keep Iran from nuclear weapons and the Arabs from uniting.
-
 ## Scriptures Opened
+
+*[[19:38](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1178s)]* **In The News: The art department's opening video: the dragon opens his mouth and the earth is filled with deception; as they try to establish peace, war will increase; peace comes only when the 144,000 are sealed.** — Prophesy is the action; prophecy is the words written. The class is about acting on what is written.
+
+*[[21:15](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1275s)]* **In The News: Two books on screen: The Chronology of Ancient Nations (1879) lists Philip of Macedon's pedigree back through Hermes, Japheth, Rome, Eliphaz, Esau, Isaac, Abraham; The Rise of Christendom (1890) says King Philip was a descendant of Esau, son of Isaac.** — The scholars know. The original Greeks were of Japheth, but Esau overthrew them and took their place. These books were written when few of us could read, on the assumption we would never read and reason.
 
 **[1 Maccabees 1:1-9](/bible/1-maccabees/1#v1)**  *[[23:47](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1427s)]*
 
@@ -85,6 +61,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
     The words of his mouth were smoother than butter, but war was in his heart; softer than oil, yet drawn swords. The missionaries came into Africa speaking the love of white Jesus, learned our strengths and weaknesses, then devastated us with colonialism and slavery. They taught us to read but not to reason, which is why people cannot reconcile Romans 9:13 with John 3:16. Kwame Nkrumah wanted one visa and one gold-backed currency for the continent, and the CIA ran him out.
 
+
+*[[28:31](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1711s)]* **In The News: A photograph of the Berlin Conference, where the European nations divided Africa with no Africans in the room.** — Daniel 11:39, they shall divide the land for gain. It started with Alexander's generals dividing his kingdom and Esau kept the same energy in the late 1800s, including the land of Israel and the Balfour Declaration.
 
 **[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[31:40](https://www.youtube.com/watch?v=EUL_omVPaWc&t=1900s)]*
 
@@ -133,6 +111,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
     Thou shalt serve thine enemies which the Lord shall send against thee in hunger, thirst, nakedness, and want of all things, with a yoke of iron on thy neck, until he have destroyed thee. The Lord sent Europe and America. For food, education, even to learn about God, we go to our enemies. The yoke came off, which proves we were destroyed, exactly as Daniel 8:24 says.
 
 
+*[[41:06](https://www.youtube.com/watch?v=EUL_omVPaWc&t=2466s)]* **In The News: Trump's Board of Peace, which costs a billion dollars to join and whose power supersedes the United Nations and the international court.** — Daniel 8:25, by peace shall destroy many. We are living in that time.
+
+*[[42:07](https://www.youtube.com/watch?v=EUL_omVPaWc&t=2527s)]* **In The News: A montage of Trump: I am the candidate of peace, I am the only president in 84 years who did not start a war, my proudest legacy will be that of a peacemaker; then the clip of him being accused of planning to attack Iran, which he did.** — His words are smoother than butter but war is in his heart, Psalms 55:21. Millions are dying while the president of peace speaks.
+
 **[Habakkuk 2:7-8](/bible/habakkuk/2#v7)**  *[[44:19](https://www.youtube.com/watch?v=EUL_omVPaWc&t=2659s)]*
 
 > <sup>[7](/bible/habakkuk/2#v7)</sup> Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
@@ -143,6 +125,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
 - Because thou hast spoiled many nations, all the remnant of the people shall spoil thee, because of men's blood and the violence of the land. They robbed Venezuela and Panama and all nations.
 
+
+*[[46:46](https://www.youtube.com/watch?v=EUL_omVPaWc&t=2806s)]* **In The News: A post reading: they killed his father, mother, wife, son, sister, brother-in-law, niece, nephew, and now they want peace? In Independence Day the alien is asked what we can do to establish peace and answers, die.** — Habakkuk 2:7-8. The nations America has spoiled will rise up suddenly and bite, because their remnants live here. You cannot wipe out a man's whole line and have peace with him. Only black people are foolish enough to offer that.
 
 **[1 Thessalonians 5:1-3](/bible/1-thessalonians/5#v1)**  *[[47:44](https://www.youtube.com/watch?v=EUL_omVPaWc&t=2864s)]*
 
@@ -166,6 +150,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
     As a woman in the ninth month brings forth within two or three hours with pains that slack not, so shall the plagues not be slack to come upon the earth. In the time of nations, hours are years and months.
 
+
+*[[51:52](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3112s)]* **In The News: A list of the countries Trump has bombed in his second term: Yemen, Somalia, Iraq, Iran, Syria, Nigeria, Venezuela.** — Seven countries a short way into a term, from the president of peace some of you believe in.
+
+*[[52:52](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3172s)]* **In The News: Reports that a private school for the daughters of Revolutionary Guard officers was hit in the first hour of the war, killing around 170 girls under twelve; Trump says Iran may have bombed its own school while a New York Times reporter presses him for evidence; George Galloway notes only the United States and three Five Eyes countries own Tomahawk missiles and that the Pentagon report calls it an American targeting error.** — It was not an error. The girls were targeted to torment their fathers, Gaza-style barbarity at the direction of the Israelis, and nobody will bring them to international law. There will be no peace with those fathers.
 
 **[Matthew 24:29-31](/bible/matthew/24#v29)**  *[[57:38](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3458s)]*
 
@@ -191,6 +179,14 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
     When I shall have gathered the house of Israel from the people among whom they are scattered, then shall they dwell in the land I gave to my servant Jacob. So what is Netanyahu talking about? The gathering is God's, from among the nations, and it is also the answer when someone brings up Revelation 7:9 on the street.
 
+
+*[[58:36](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3516s)]* **In The News: A short on the prophets seeing stars fall from heaven, which today we know are missiles.** — Matthew 24:29. The stars falling and the powers of the heavens shaken is war, and it comes before the sign of the Son of man.
+
+*[[1:02:23](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3743s)]* **In The News: Footage of missiles over Tel Aviv, then a report that a $111 billion deal puts CNN, HBO, CBS, and Warner Brothers under the Ellison family, a top Trump donor, after CBS killed a vetted 60 Minutes investigation and eleven of forty news staffers walked out.** — They claim six died in Tel Aviv after all that; the devil is lying. One family will run the media, and that is why they would not let Bill Cosby or Byron Allen buy a network. They do not want an alternative view.
+
+*[[1:04:25](https://www.youtube.com/watch?v=EUL_omVPaWc&t=3865s)]* **In The News: George Galloway: Israel is taking a hiding you do not see, because releasing footage of damage in Tel Aviv carries five years in prison and CNN, BBC, and Sky accept Israeli censorship; his friends on Sheinkin Street say Tel Aviv looks like Gaza, fifty ballistic missiles hit in one evening, and American casualties are approaching a thousand.** — If you are sending your family into the military while you watch Bible prophecy unfold, you do not believe. Blacks and Hispanics go to the front line first in Esau's military.
+
+*[[1:07:04](https://www.youtube.com/watch?v=EUL_omVPaWc&t=4024s)]* **In The News: Iranian missiles striking Tel Aviv's diamond exchange, Soroka Hospital in Beersheba, Haifa, and a whole block, with no sirens because the radars were destroyed; Iran hacked the Israeli network to warn in Hebrew, your government lied to you, leave now, timed to the strikes; grieving parents of a fallen soldier.** — Kingdom against kingdom, the beginning of sorrows. Nobody feels sorry for them. These people trusted their technology, and so does America; the film A House of Dynamite shows a missile reaching American airspace because shooting one down is a bullet hitting a bullet.
 
 **[Revelation 12:15](/bible/revelation/12#v15)**  *[[1:13:17](https://www.youtube.com/watch?v=EUL_omVPaWc&t=4397s)]*
 
@@ -230,6 +226,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
     Woe to the multitude of many people, which make a noise like the seas, and to the rushing of nations like mighty waters; God shall rebuke them and they shall flee like chaff. The waves that roar in Jeremiah 51:55 are the nations within Babylon.
 
+
+*[[1:21:17](https://www.youtube.com/watch?v=EUL_omVPaWc&t=4877s)]* **In The News: Tucker Carlson reacting to a 2018 speech by Pete Hegseth, now Secretary of War, calling 1917, 1948, 1967, and 2017 miracles and saying there is no reason the re-establishment of the temple on the Temple Mount is not possible.** — The war with Iran is about more than politics; it is religion. The people fighting it say it is about rebuilding the third temple.
+
+*[[1:23:36](https://www.youtube.com/watch?v=EUL_omVPaWc&t=5016s)]* **In The News: An Israeli speaker suggests maybe a missile will hit the Al-Aqsa Mosque and clear the place for the third temple, and that he would pretend a missile came from Iran and shoot it down so the Arabs fight Iran.** — That is the plan: fake an Iranian missile on the mosque, then build. Edom, which is Amalek over there, set themselves up as the Jews.
 
 **[Daniel 11:14](/bible/daniel/11#v14)**  *[[1:24:30](https://www.youtube.com/watch?v=EUL_omVPaWc&t=5070s)]*
 
@@ -417,6 +417,12 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
     Who opposeth and exalteth himself above all that is called God, so that he as God sitteth in the temple of God, shewing himself that he is God. Rome sat in our temple before 70 AD. If the Lord allows them to rebuild, this is the scripture we will use when he declares himself God.
 
 
+*[[1:58:09](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7089s)]* **In The News: An Israeli consul, Judith Varnai Shorer, says the major problem of Israel is the young generation of the black community, that she hosted a dinner for forty people considering the leadership of the black community, and that pro-Israel groups take new black leaders to AIPAC and to Israel on all-expenses-paid trips.** — They pick who leads black people. Those who come on Clubhouse night after night to argue against us and cannot explain themselves were set up to counter the rebuilding of the nation of Israel, because the real problem is people coming back to God as Israelites.
+
+*[[2:01:26](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7286s)]* **In The News: An encyclopedia entry on Aelia Capitolina: founded in 135 AD by the Romans on the ruins of Jerusalem after the second Jewish revolt, named for Hadrian and the Capitoline Triad, with a temple of Jupiter built on the Temple Mount and Jews forbidden entrance.** — That is Daniel 9. Rome sat in the temple, the Arabs later built the mosque on the same spot, and the trinity of Jupiter, Juno, and Minerva is where the Christian trinity came from. The present walls follow the Roman layout.
+
+*[[2:03:25](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7405s)]* **In The News: An article: Israel regularly hosts delegations of black pastors from the US and Africa, organized by the Institute for Black Solidarity with Israel and the Friends of Zion Museum, as part of a broader strategy to counter anti-Semitism and rising anti-Israel sentiment.** — When they say anti-Semitism they mean the Israelites. In France they called a black Jesus and the twelve tribes anti-Semitism, shut our school, and deported the main brother. A captain recalls famous people calling us in 2016 and 2017 to say Israel was telling them to stop supporting the Israelite movement or lose their contracts.
+
 **[Isaiah 59:15](/bible/isaiah/59#v15)**  *[[2:08:17](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7697s)]*
 
 > <sup>[15](/bible/isaiah/59#v15)</sup> Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the Lord saw it, and it displeased him that there was no judgment.
@@ -433,6 +439,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
     Joseph of Arimathea, a disciple of Jesus, but secretly. He supported from behind the scenes, and that is better. Christ entered a city and would have no man know it. You tweet your whole life, and it will cost you.
 
+
+*[[2:11:20](https://www.youtube.com/watch?v=EUL_omVPaWc&t=7880s)]* **In The News: Pastor Philip Anthony Mitchell recounts hearing God in the Garden Tomb on a 2018 trip to Israel, then preaches that Jesus was not a black man but an ethnic Jew, and that a preacher who said otherwise was a false prophet; a brother recounts the same pastor seeing the Israelites in a Cuban restaurant and leaving.** — That was Amalek talking to him, not God. He calls a black Jesus race idolatry while wearing a perm, and he would not come outside when the brothers went out after 28:19. All that talk, and he saw their faces and left.
 
 **[Proverbs 11:21](/bible/proverbs/11#v21)**  *[[2:18:06](https://www.youtube.com/watch?v=EUL_omVPaWc&t=8286s)]*
 
@@ -471,6 +479,12 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
     Whose possessors slay them and hold themselves not guilty, and they that sell them say blessed be the Lord for I am rich, and their own shepherds pity them not. The white man possesses us and slays us, we were hunted on Epstein's island, the majority of America's wealth came from 400 years of chattel slavery, and our pastors and congressmen pity us not.
 
 
+*[[2:19:51](https://www.youtube.com/watch?v=EUL_omVPaWc&t=8391s)]* **In The News: A Christian Post article, Black pastors encourage African-American churches to defend Israel, not side with the devil, with a paragraph noting that Black Hebrew Israelites impact black pastors in a way they do not impact white pastors.** — An article about black pastors and out of the blue a paragraph on the Israelites. Black pastors are not a threat because they do not know the Bible; the racist preacher who told them their churches should close was right about that.
+
+*[[2:27:16](https://www.youtube.com/watch?v=EUL_omVPaWc&t=8836s)]* **In The News: Photographs of black and Latino pastors praying over Trump at the White House, including the pastor who said thank God almighty we are free.** — Trump has already hit Venezuela and says Cuba, Colombia, Brazil, and Mexico are next, and the Latino pastors voted for him. Rightfully he will put a foot in their behinds. Zechariah 11:5, our own shepherds pity us not.
+
+*[[2:28:54](https://www.youtube.com/watch?v=EUL_omVPaWc&t=8934s)]* **In The News: Images of Rasheem Carter, Kendrick Johnson, Breonna Taylor, Philando Castile, Sandra Bland, and George Floyd.** — Whose possessors slay them and hold themselves not guilty. Kendrick Johnson's organs were removed, the school footage disappeared, and the judge who found it suspicious still dismissed the case. Our pastors and congressmen do not care because they get a piece of the pie.
+
 **[Revelation 17:15-18](/bible/revelation/17#v15)**  *[[2:31:11](https://www.youtube.com/watch?v=EUL_omVPaWc&t=9071s)]*
 
 > <sup>[15](/bible/revelation/17#v15)</sup> And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.
@@ -501,6 +515,10 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
     Babylon the great is fallen, is fallen, said twice because Israel is the little Babylon, and is become the habitation of devils. All nations have drunk of the wine of her fornication, her policies, the craft of Daniel 8:25; the kings committed fornication with her and the merchants, the corporations, waxed rich. Come out of her, my people, tells you where the twelve tribes are: in Babylon, here, not Iraq.
 
+
+*[[2:35:58](https://www.youtube.com/watch?v=EUL_omVPaWc&t=9358s)]* **In The News: A black pastor defends the killing of an Iranian who said death to America, says let us change regimes, and says Christians love the Jews because the Bible says pray for Jerusalem and they are God's chosen people.** — He made a covenant with death and hell. This is what we have to deal with.
+
+*[[2:37:27](https://www.youtube.com/watch?v=EUL_omVPaWc&t=9447s)]* **In The News: The Jerusalem Post: a delegation of thirty senior Christian leaders from ten African countries arrives in Israel for a four-day visit initiated by the deputy foreign minister, all expenses paid.** — A gift destroys the heart. This is how the covenant is bought.
 
 **[Romans 11:26-29](/bible/romans/11#v26)**  *[[2:38:12](https://www.youtube.com/watch?v=EUL_omVPaWc&t=9492s)]*
 
@@ -743,6 +761,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
     When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece. Judah and Ephraim are the bow and the arrow, against the white man. That is war.
 
 
+*[[3:14:49](https://www.youtube.com/watch?v=EUL_omVPaWc&t=11689s)]* **In The News: The James Bond film Spectre, where a weapon kills only specific people by DNA.** — They engineer food to spike insulin and target DNA; when American fast food reached Jamaica, Africa, China, and India, diabetes and fibroids skyrocketed. Hollywood is in the know and dresses it as science fiction. Do not take DNA tests; Israel banned them because they can identify who is who.
+
 **[Revelation 18:8-19](/bible/revelation/18#v8)**  *[[3:18:52](https://www.youtube.com/watch?v=EUL_omVPaWc&t=11932s)]*
 
 > <sup>[8](/bible/revelation/18#v8)</sup> Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong is the Lord God who judgeth her.
@@ -777,6 +797,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "war"]
 
 - In one hour so great riches is come to nought, and every shipmaster cries, what city is like unto this great city? For in one hour is she made desolate. One hour is all it takes.
 
+
+*[[3:22:33](https://www.youtube.com/watch?v=EUL_omVPaWc&t=12153s)]* **In The News: The closing video, One Hour, by an Israelite rapper: that is all it is going to take; judgment day is on the way.** — Revelation 18:10 and 19. In one hour is thy judgment come, and in one hour so great riches come to nought. That is why the war in the Middle East and the effort to keep Iran from nuclear weapons and the Arabs from uniting.
 
 ## Class Questions
 

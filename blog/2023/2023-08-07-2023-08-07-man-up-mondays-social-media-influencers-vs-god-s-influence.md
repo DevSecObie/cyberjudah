@@ -20,16 +20,6 @@ tags: ["IUIC in the ClassRoom", "media", "prophecy", "wisdom", "youth"]
 
 *[[7:00](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=420s)]* Man Up Mondays with Captain Emmanuel of IUIC Arkansas, filling in for the captain, on social media influencers versus God's influence. The class starts from the riot in New York's Union Square at Twitch streamer Kai Cenat's giveaway: influencers are "the most trending modern occupation in 2023", and the Bible shows why folly is set in great dignity, what it does to our children's minds, and the pure influence of the Almighty that counteracts it.
 
-## In The News
-
-- *[[10:15](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=615s)]* **CNN on the chaos in New York's Union Square after Twitch streamer Kai Cenat's giveaway, and his arrest** — He didn't command the people to do it, but they were under his influence, rolling in that young brother's spirit, so he was charged with inciting a riot.
-- *[[21:19](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=1279s)]* **A video on who Kai Cenat is: the AMP collective, jumping in the pool, 24-hour sub-a-thons with celebrities, a 30-day stream** — He's the class clown, the life of the party, and he opened the door for a new generation who will aspire to have his life: fun, money and no cares, not to be doctors or lawyers.
-- *[[34:35](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2075s)]* **TikTok clips of young influencers saying they're famous for social media** — To hell with college: this is the new wave.
-- *[[39:34](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2374s)]* **CBS: a father asks his 11-year-old daughter about her TikTok use** — She said more than eight hours a day: about 480 TikToks a day. That is worse than any drug; crackheads don't make 480 transactions a day. And when the next one isn't entertaining, it takes your joy.
-- *[[1:05:58](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=3958s)]* **IUIC brothers marching and preaching in the streets, with older men saying the kids need a chance** — Wisdom is a pure influence, moving people to tears.
-- *[[1:12:51](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=4371s)]* **Young prophets, and IUIC Arkansas at the Little Rock Boys and Girls Club teaching self-control, conflict resolution and stopping the violence** — That's the pure influence from the Almighty: the eloquent orators, the mighty men, the men of war being sent back into the earth.
-- *[[1:18:28](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=4708s)]* **Israelite sisters showing modest summer fashion** — Not one curve shown, beautiful Israelite women embracing their modesty: God's influence.
-
 ## Scriptures Opened
 
 **[Ecclesiastes 10:6](/bible/ecclesiastes/10#v6)**  *[[7:00](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=420s)]*
@@ -51,6 +41,8 @@ tags: ["IUIC in the ClassRoom", "media", "prophecy", "wisdom", "youth"]
 
 - So it's no shock that social media influencer is the new career at career day at the elementary school, and grown people in their 20s and 30s aspire to it.
 
+
+*[[10:15](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=615s)]* **In The News: CNN on the chaos in New York's Union Square after Twitch streamer Kai Cenat's giveaway, and his arrest** — He didn't command the people to do it, but they were under his influence, rolling in that young brother's spirit, so he was charged with inciting a riot.
 
 **[Exodus 23:2](/bible/exodus/23#v2)**  *[[12:33](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=753s)]*
 
@@ -109,6 +101,8 @@ Reading from A video on Kai Cenat's rise  *[[28:24](https://www.youtube.com/watc
 </div>
 
 
+*[[21:19](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=1279s)]* **In The News: A video on who Kai Cenat is: the AMP collective, jumping in the pool, 24-hour sub-a-thons with celebrities, a 30-day stream** — He's the class clown, the life of the party, and he opened the door for a new generation who will aspire to have his life: fun, money and no cares, not to be doctors or lawyers.
+
 **[Luke 7:31-32](/bible/luke/7#v31)**  *[[29:54](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=1794s)]*
 
 > <sup>[31](/bible/luke/7#v31)</sup> And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?
@@ -152,6 +146,10 @@ Reading from A video on TikTok  *[[35:43](https://www.youtube.com/watch?v=tNrmPZ
 
 </div>
 
+
+*[[34:35](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2075s)]* **In The News: TikTok clips of young influencers saying they're famous for social media** — To hell with college: this is the new wave.
+
+*[[39:34](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2374s)]* **In The News: CBS: a father asks his 11-year-old daughter about her TikTok use** — She said more than eight hours a day: about 480 TikToks a day. That is worse than any drug; crackheads don't make 480 transactions a day. And when the next one isn't entertaining, it takes your joy.
 
 **[Sirach 17:16](/bible/sirach/17#v16)**  *[[43:02](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=2582s)]*
 
@@ -230,6 +228,8 @@ Reading from A video on TikTok  *[[35:43](https://www.youtube.com/watch?v=tNrmPZ
 - After three days and a half, the 350 years, the spirit of life from God entered into them: wisdom, the breath of the power of God. Great fear fell on the nations that conspired to keep us asleep under whatever influence they wanted to push on us.
 
 
+*[[1:05:58](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=3958s)]* **In The News: IUIC brothers marching and preaching in the streets, with older men saying the kids need a chance** — Wisdom is a pure influence, moving people to tears.
+
 **[2 Esdras 1:37](/bible/2-esdras/1#v37)**  *[[1:09:39](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=4179s)]*
 
 > <sup>[37](/bible/2-esdras/1#v37)</sup> I take to witness the grace of the people to come, whose little ones rejoice in gladness: and though they have not seen me with bodily eyes, yet in spirit they believe the thing that I say.
@@ -241,6 +241,8 @@ Reading from A video on TikTok  *[[35:43](https://www.youtube.com/watch?v=tNrmPZ
 - That little boy emulated everything the Messiah did: that's what a man of God looks like. The men taken away in Isaiah 3 are being sent back into the earth: that's the pure influence our children need.
 
 
+*[[1:12:51](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=4371s)]* **In The News: Young prophets, and IUIC Arkansas at the Little Rock Boys and Girls Club teaching self-control, conflict resolution and stopping the violence** — That's the pure influence from the Almighty: the eloquent orators, the mighty men, the men of war being sent back into the earth.
+
 **[Acts 2:17](/bible/acts/2#v17)**  *[[1:16:29](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=4589s)]*
 
 > <sup>[17](/bible/acts/2#v17)</sup> And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
@@ -249,6 +251,8 @@ Reading from A video on TikTok  *[[35:43](https://www.youtube.com/watch?v=tNrmPZ
 
 - It's ten times worse with the sisters: millions of young women and girls influenced to spend hours on vanity filters, twerking and showing skin. The Lord will put the spirit on us to counteract the evil influences of the world.
 
+
+*[[1:18:28](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=4708s)]* **In The News: Israelite sisters showing modest summer fashion** — Not one curve shown, beautiful Israelite women embracing their modesty: God's influence.
 
 **[Acts 17:6](/bible/acts/17#v6)**  *[[1:20:12](https://www.youtube.com/watch?v=tNrmPZFxjXA&t=4812s)]*
 

@@ -170,18 +170,6 @@ Reading from an excerpt sent by Bishop Yosep, on the free negro and the Constitu
 
 - Jacob called his sons to tell them what would befall them in the last days, which refers to the time after Christ.
 
-**[Genesis 49:5](/bible/genesis/49#v5)**  *[[45:49](https://www.youtube.com/watch?v=pZs5reAzxi4&t=2749s)]*
-
-> <sup>[5](/bible/genesis/49#v5)</sup> Simeon and Levi are brethren; instruments of cruelty are in their habitations.
-
-- Simeon and Levi are brethren and their children would be together in the last days, which is seen in Haiti and the Dominican Republic.
-
-**[Genesis 49:6](/bible/genesis/49#v6)**  *[[47:01](https://www.youtube.com/watch?v=pZs5reAzxi4&t=2821s)]*
-
-> <sup>[6](/bible/genesis/49#v6)</sup> O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
-
-- Instruments of cruelty, such as witchcraft and voodoo, are in the habitations of Simeon and Levi.
-
 **[Hebrews 1:2](/bible/hebrews/1#v2)**  *[[43:52](https://www.youtube.com/watch?v=pZs5reAzxi4&t=2632s)]*
 
 > <sup>[2](/bible/hebrews/1#v2)</sup> Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
@@ -193,6 +181,18 @@ Reading from an excerpt sent by Bishop Yosep, on the free negro and the Constitu
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
 
 - Gather yourselves together, which is a call to unity among the 12 tribes.
+
+**[Genesis 49:5](/bible/genesis/49#v5)**  *[[45:49](https://www.youtube.com/watch?v=pZs5reAzxi4&t=2749s)]*
+
+> <sup>[5](/bible/genesis/49#v5)</sup> Simeon and Levi are brethren; instruments of cruelty are in their habitations.
+
+- Simeon and Levi are brethren and their children would be together in the last days, which is seen in Haiti and the Dominican Republic.
+
+**[Genesis 49:6](/bible/genesis/49#v6)**  *[[47:01](https://www.youtube.com/watch?v=pZs5reAzxi4&t=2821s)]*
+
+> <sup>[6](/bible/genesis/49#v6)</sup> O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
+
+- Instruments of cruelty, such as witchcraft and voodoo, are in the habitations of Simeon and Levi.
 
 **[Genesis 49:6](/bible/genesis/49#v6)**  *[[54:36](https://www.youtube.com/watch?v=pZs5reAzxi4&t=3276s)]*
 
@@ -732,12 +732,6 @@ Reading from the *LA Times*  *[[2:25:20](https://www.youtube.com/watch?v=pZs5reA
 
 </div>
 
-**[Deuteronomy 28:33](/bible/deuteronomy/28#v33)**  *[[2:27:00](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8820s)]*
-
-> <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
-
-- The Bible prophesies that the Israelites will be oppressed and crushed by other nations.
-
 **[Ecclesiastes 4:1](/bible/ecclesiastes/4#v1)**  *[[2:26:23](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8783s)]*
 
 > <sup>[1](/bible/ecclesiastes/4#v1)</sup> So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
@@ -836,6 +830,12 @@ Reading from a text on Jean Baptiste Point du Sable  *[[2:42:12](https://www.you
 
 </div>
 
+**[Deuteronomy 28:33](/bible/deuteronomy/28#v33)**  *[[2:27:00](https://www.youtube.com/watch?v=pZs5reAzxi4&t=8820s)]*
+
+> <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
+
+- The Bible prophesies that the Israelites will be oppressed and crushed by other nations.
+
 **[Jeremiah 50:33](/bible/jeremiah/50#v33)**  *[[2:43:04](https://www.youtube.com/watch?v=pZs5reAzxi4&t=9784s)]*
 
 > <sup>[33](/bible/jeremiah/50#v33)</sup> Thus saith the Lord of hosts; The children of Israel and the children of Judah were oppressed together: and all that took them captives held them fast; they refused to let them go.
@@ -926,17 +926,17 @@ Reading from a headline on white South African refugees  *[[2:59:28](https://www
 
 </div>
 
-**[Ephesians 4:3](/bible/ephesians/4#v3)**  *[[3:00:09](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10809s)]*
-
-> <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
-
-- The apostle Paul exhorts the believers to endeavor to keep the unity of the Spirit in the bond of peace.
-
 **[Leviticus 19:17](/bible/leviticus/19#v17)**  *[[2:59:15](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10755s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 
 - The Bible instructs not to hate your brother in your heart, but to rebuke your neighbor and not suffer sin upon him.
+
+**[Ephesians 4:3](/bible/ephesians/4#v3)**  *[[3:00:09](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10809s)]*
+
+> <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
+
+- The apostle Paul exhorts the believers to endeavor to keep the unity of the Spirit in the bond of peace.
 
 **[Romans 11:1](/bible/romans/11#v1)**  *[[3:02:20](https://www.youtube.com/watch?v=pZs5reAzxi4&t=10940s)]*
 
@@ -982,12 +982,6 @@ Reading from a headline on white South African refugees  *[[2:59:28](https://www
 
 - God will give up His people until the time that she which travails has brought forth, then the remnant of His brethren shall return unto the children of Israel.
 
-**[Micah 5:5](/bible/micah/5#v5)**  *[[3:09:38](https://www.youtube.com/watch?v=pZs5reAzxi4&t=11378s)]*
-
-> <sup>[5](/bible/micah/5#v5)</sup> And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.
-
-- Seven shepherds and eight principal men shall be raised against the Assyrian.
-
 **[2 Esdras 1:38-40](/bible/2-esdras/1#v38)**  *[[3:08:11](https://www.youtube.com/watch?v=pZs5reAzxi4&t=11291s)]*
 
 > <sup>[38](/bible/2-esdras/1#v38)</sup> And now, brother, behold what glory; and see the people that come from the east:
@@ -997,6 +991,12 @@ Reading from a headline on white South African refugees  *[[2:59:28](https://www
 > <sup>[40](/bible/2-esdras/1#v40)</sup> Nahum, and Abacuc, Sophonias, Aggeus, Zachary, and Malachy, which is called also an angel of the Lord.
 
 - The seven shepherds and eight principal men are listed.
+
+**[Micah 5:5](/bible/micah/5#v5)**  *[[3:09:38](https://www.youtube.com/watch?v=pZs5reAzxi4&t=11378s)]*
+
+> <sup>[5](/bible/micah/5#v5)</sup> And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.
+
+- Seven shepherds and eight principal men shall be raised against the Assyrian.
 
 **[Hebrews 13:4](/bible/hebrews/13#v4)**  *[[3:46:12](https://www.youtube.com/watch?v=pZs5reAzxi4&t=13572s)]*
 

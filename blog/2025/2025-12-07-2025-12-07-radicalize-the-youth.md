@@ -19,21 +19,6 @@ tags: ["IUIC in the ClassRoom", "europe-dark-ages", "false-religion", "youth"]
 
 *[[10:15](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=615s)]* The class is for the young men and young women of the congregation, called to the front of the building because they are the ones who carry this truth after the older men are gone. To radicalize is to hold extreme views, the polar opposite of the world, and the class lays out what has to go into a young mind for that to hold: whose image he is made in, who his enemies are, what is waiting at the end of it, and the older men's duty to put it there.
 
-## In The News
-
-- *[[13:59](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=839s)]* **A young man in a church service saying he is tired of the church** — How a lot of young people feel. The church is a hustle, and there is no connect left.
-- *[[19:24](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=1164s)]* **A clip from the 1970s of a young man answering a preacher** — He would die standing rather than on his knees, and it would take young boys like him to win a revolution. It is a plot to keep the young men today passive.
-- *[[56:28](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=3388s)]* **Young boys from a church** — The boys left in the churches are there with their mothers, and they are nothing like the young men in this building.
-- *[[1:12:23](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4343s)]* **A preacher telling an audience that the slaves never protested** — He said they prayed and God ended slavery through white presidents. Every prophet in the Bible went against the grain, and Dred Scott, Nat Turner and Denmark Vesey answer the claim.
-- *[[1:15:41](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4541s)]* **A first-grader naming the devil and the wicked** — That is the mind all our children are supposed to have.
-- *[[1:19:02](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4742s)]* **A man telling black Americans their reparations are that they get to live in America** — He called the arrival of the white man's ships the best moment in any black country's history. A lot of Esau believes it.
-- *[[1:20:30](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4830s)]* **The map of the European land grab of Africa** — Europe split the continent and took the resources out of it. Their own fact, and it answers the grass-hut story.
-- *[[1:27:19](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=5239s)]* **A man answering a preacher: treaty breakers, liars, thieves, a contaminated Jesus** — Their religion is contaminated like everything else forced on us, and it is not for you.
-- *[[1:38:23](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=5903s)]* **A man in Africa beating an Israelite who would not hit him back** — Christianity pacified him. You could not do that to them in their own country.
-- *[[1:40:38](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=6038s)]* **A video of Amalek** — The counterfeits, and they hate the people they are counterfeiting.
-- *[[1:44:49](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=6289s)]* **A man out of the church testifying that the Israelite truth is the real thing** — More than likely a young brother teaching in the street ran into him. He told his friends and they hate him for it.
-- *[[2:53:32](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=10412s)]* **Videos of the young prophets** — Young brothers teaching precepts on camera, and a sister will stop for that quicker than for an old man.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -45,6 +30,10 @@ Reading from a definition of radicalization  *[[15:41](https://www.youtube.com/w
 - People use it as a violent term. So now, the part we're pulling out of that is some start to believe or support extreme views. Yes, we do not condone terrorist acts. We're not picking up guns. If anybody knows of a crime being committed, you need to alert the authorities.
 
 </div>
+
+*[[13:59](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=839s)]* **In The News: A young man in a church service saying he is tired of the church** — How a lot of young people feel. The church is a hustle, and there is no connect left.
+
+*[[19:24](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=1164s)]* **In The News: A clip from the 1970s of a young man answering a preacher** — He would die standing rather than on his knees, and it would take young boys like him to win a revolution. It is a plot to keep the young men today passive.
 
 **[Proverbs 29:18](/bible/proverbs/29#v18)**  *[[20:11](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=1211s)]*
 
@@ -178,6 +167,8 @@ Reading from a definition of radicalization  *[[15:41](https://www.youtube.com/w
 - That is why there is a concerted push in the media and the schools to strike that thought out of young minds.
 
 
+*[[56:28](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=3388s)]* **In The News: Young boys from a church** — The boys left in the churches are there with their mothers, and they are nothing like the young men in this building.
+
 **[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[[57:14](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=3434s)]*
 
 > <sup>[4](/bible/jeremiah/17#v4)</sup> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.
@@ -242,6 +233,10 @@ Reading from a list of synonyms for "still"  *[[1:06:28](https://www.youtube.com
 - They do not want you taught who your enemy is, and that is what is wrong with the urban apologists and their all-inclusive mentality.
 
 
+*[[1:12:23](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4343s)]* **In The News: A preacher telling an audience that the slaves never protested** — He said they prayed and God ended slavery through white presidents. Every prophet in the Bible went against the grain, and Dred Scott, Nat Turner and Denmark Vesey answer the claim.
+
+*[[1:15:41](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4541s)]* **In The News: A first-grader naming the devil and the wicked** — That is the mind all our children are supposed to have.
+
 **[Jeremiah 28:8](/bible/jeremiah/28#v8)**  *[[1:15:41](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4541s)]*
 
 > <sup>[8](/bible/jeremiah/28#v8)</sup> The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
@@ -250,6 +245,10 @@ Reading from a list of synonyms for "still"  *[[1:06:28](https://www.youtube.com
 
 - No kingdom was ever set up without what they call radical behaviour. America and the Crusades were radical behaviour, and they made holidays out of theirs; it is only an issue when it is our turn.
 
+
+*[[1:19:02](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4742s)]* **In The News: A man telling black Americans their reparations are that they get to live in America** — He called the arrival of the white man's ships the best moment in any black country's history. A lot of Esau believes it.
+
+*[[1:20:30](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4830s)]* **In The News: The map of the European land grab of Africa** — Europe split the continent and took the resources out of it. Their own fact, and it answers the grass-hut story.
 
 **[Sirach 12:10-11](/bible/sirach/12#v10)**  *[[1:22:36](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=4956s)]*
 
@@ -263,6 +262,8 @@ Reading from a list of synonyms for "still"  *[[1:06:28](https://www.youtube.com
 
 - You will not find every Edomite behaving that way, but they all benefit from the oppression of God's children; our liberation means their demise.
 
+
+*[[1:27:19](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=5239s)]* **In The News: A man answering a preacher: treaty breakers, liars, thieves, a contaminated Jesus** — Their religion is contaminated like everything else forced on us, and it is not for you.
 
 **[Psalms 83:1-5](/bible/psalms/83#v1)**  *[[1:28:40](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=5320s)]*
 
@@ -309,6 +310,10 @@ Reading from a list of synonyms for "still"  *[[1:06:28](https://www.youtube.com
 - Which nation has not had a part in our kingdom and got of our spoils? That is why wherever we go, we are hated.
 
 
+*[[1:38:23](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=5903s)]* **In The News: A man in Africa beating an Israelite who would not hit him back** — Christianity pacified him. You could not do that to them in their own country.
+
+*[[1:40:38](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=6038s)]* **In The News: A video of Amalek** — The counterfeits, and they hate the people they are counterfeiting.
+
 **[2 Corinthians 6:17](/bible/2-corinthians/6#v17)**  *[[1:41:21](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=6081s)]*
 
 > <sup>[17](/bible/2-corinthians/6#v17)</sup> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
@@ -317,6 +322,8 @@ Reading from a list of synonyms for "still"  *[[1:06:28](https://www.youtube.com
 
 - Touch not the unclean thing takes in their Christmas, their Thanksgiving, their New Year's and the rest of it.
 
+
+*[[1:44:49](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=6289s)]* **In The News: A man out of the church testifying that the Israelite truth is the real thing** — More than likely a young brother teaching in the street ran into him. He told his friends and they hate him for it.
 
 **[Revelation 21:1](/bible/revelation/21#v1)**  *[[1:46:56](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=6416s)]*
 
@@ -694,6 +701,8 @@ Reading from a news headline on a teacher and her students  *[[2:22:42](https://
 
 - That is the charge — the man standing for what is right and holding up the laws of God.
 
+
+*[[2:53:32](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=10412s)]* **In The News: Videos of the young prophets** — Young brothers teaching precepts on camera, and a sister will stop for that quicker than for an old man.
 
 **[Esther 4:13-14](/bible/esther/4#v13)**  *[[2:54:28](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=10468s)]*
 

@@ -536,18 +536,6 @@ The definitions on the screen:
 
 - Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.
 
-**[1 Samuel 18:17](/bible/1-samuel/18#v17)**  *[[2:07:44](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7664s)]*
-
-> <sup>[17](/bible/1-samuel/18#v17)</sup> And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the Lord’s battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.
-
-- And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the Lord's battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him. But let the hand of the Philistines be upon him.
-
-**[1 Samuel 18:25](/bible/1-samuel/18#v25)**  *[[2:08:51](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7731s)]*
-
-> <sup>[25](/bible/1-samuel/18#v25)</sup> And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king’s enemies. But Saul thought to make David fall by the hand of the Philistines.
-
-- And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king's enemies. But Saul thought to make David fall by the hand of the Philistines. So what does that mean, brothers? From the floor: that bitterness got to the point where he tried to set David up to be killed by an impossible task, or at least what he thought, to be killed by the Philistines. Right. So that bitterness caused King Saul to plot. Since I cannot seem to catch David, I am going to send him among the Philistines with the hope that the Philistines kill him.
-
 **[1 Samuel 18:29-30](/bible/1-samuel/18#v29)**  *[[2:02:08](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7328s)]*
 
 > <sup>[29](/bible/1-samuel/18#v29)</sup> And Saul was yet the more afraid of David; and Saul became David’s enemy continually.
@@ -587,6 +575,18 @@ The definitions on the screen:
 - And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil. What did King Saul say? When David showed him, hey Saul, I have got a piece of your coat. Saul looks and checks, sees where David cut it off privily, and he was not even aware. Meaning David could have killed him. So now Saul says, thou art more righteous than I. Because if the shoe was on the other foot, Saul would have killed David.
 
 - And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou killedst me not. So Saul acknowledges that David is more righteous than him.
+
+**[1 Samuel 18:17](/bible/1-samuel/18#v17)**  *[[2:07:44](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7664s)]*
+
+> <sup>[17](/bible/1-samuel/18#v17)</sup> And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the Lord’s battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.
+
+- And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the Lord's battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him. But let the hand of the Philistines be upon him.
+
+**[1 Samuel 18:25](/bible/1-samuel/18#v25)**  *[[2:08:51](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7731s)]*
+
+> <sup>[25](/bible/1-samuel/18#v25)</sup> And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king’s enemies. But Saul thought to make David fall by the hand of the Philistines.
+
+- And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king's enemies. But Saul thought to make David fall by the hand of the Philistines. So what does that mean, brothers? From the floor: that bitterness got to the point where he tried to set David up to be killed by an impossible task, or at least what he thought, to be killed by the Philistines. Right. So that bitterness caused King Saul to plot. Since I cannot seem to catch David, I am going to send him among the Philistines with the hope that the Philistines kill him.
 
 **[2 Samuel 11:2-4](/bible/2-samuel/11#v2)**  *[[2:10:54](https://www.youtube.com/watch?v=d9CXnvRB7es&t=7854s)]*
 

@@ -19,17 +19,13 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 *[[0:35](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=35s)]* Our forefathers built this; we as sons must preserve this. A local class on why everything in the congregation is done by design, from security to serve-safe protocol, and above all the courtship, betrothal, Ladies in Waiting, and Men of Valor programs. A film on black marriages in the 1940s shows announcements read from the pulpit, elders counselling the groom, older women teaching the bride, and courting on the front porch under everyone's eyes: our people kept scripture by instinct and morality without knowing it, and IUIC is bringing it back. Except the Lord build the house, they labour in vain; prove a friend first; commend not a man for his beauty; bring not every man into thine house. Leadership has a proven track record of hundreds of couples, and the men giving the counsel made the mistakes themselves.
 
-## In The News
-
-- *[[2:34](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=154s)]* **A film on black marriages in the 1940s: unions that were fortresses, and 25 secrets people who lived through that era never forgot.** — Pay attention now or in six months we will be dealing with the situations. A fortress defends and protects the marriage from whatever outside would corrupt it; that is what the counsel is for, not to hinder anyone from marrying. A family builds a nation.
-- *[[3:19](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=199s)]* **Marriage announcements read from the pulpit for weeks before the wedding, so the community could offer blessings and advice.** — That is a betrothal. When a brother and sister have been courting and the family or leadership gives the blessing, it is announced so the congregation knows. They did that in the forties without knowing they were Israelites.
-- *[[4:50](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=290s)]* **Elders pulling the groom aside after service to share wisdom about providing, and older women visiting the bride to teach recipes and household skills.** — The married brothers and sisters here got counsel all the way to the wedding day and still get it. The men help a brother structure his resume, budget, and pick a trade during the year or two of proving; the older women are Titus 2. Community is common unity, everybody thinking the same.
-- *[[14:00](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=840s)]* **The couple wrapped in a network of support that followed them for decades.** — When you come through the doors we say welcome home. Marry in the body and keep the commandments and you have a network for life; leadership has helped families through unemployment and transitions because they see the diligence.
-- *[[16:03](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=963s)]* **Courting on the front porch in plain view of parents and neighbours, intentions clear, no sneaking around, no secret meetings, nothing physical, with word travelling fast if a young man acted out of line.** — Be here at six, sit on the porch, the window is up, and cousin Ray across the street is watching. No cell phones, no Instagram, no way to reach my daughter except through me, and never show up uninvited. That is how fathers proved a young man's intentions, and that is what IUIC is bringing back, not controlling your life but protecting you.
-- *[[37:03](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=2223s)]* **The definition of spinster and spinsterhood: an unmarried woman past the usual marrying age, carrying social pressure and stigma, though today also framed as choice and independence.** — White women marry in their early twenties; when a black woman hits thirty-two or thirty-five the family asks when, and if no kids, what is wrong with her body. The clock is ticking, and that anxiety, as the single sisters admitted, makes a woman take any abuse or fornication to get a husband, or join the group booking the trip to Jamaica. Then the negro creeps in on that anxiety and you get a backdoor.
-- *[[49:18](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=2958s)]* **The closing IUIC montage: from city streets to distant lands the message is the same, marriages celebrated, the dead honoured, Sabbaths gathered, tried from the stones in Virginia to the hatred in Montana, building communities and raising children of royalty.** — This is Israel United in Christ, a nation.
-
 ## Scriptures Opened
+
+*[[2:34](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=154s)]* **In The News: A film on black marriages in the 1940s: unions that were fortresses, and 25 secrets people who lived through that era never forgot.** — Pay attention now or in six months we will be dealing with the situations. A fortress defends and protects the marriage from whatever outside would corrupt it; that is what the counsel is for, not to hinder anyone from marrying. A family builds a nation.
+
+*[[3:19](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=199s)]* **In The News: Marriage announcements read from the pulpit for weeks before the wedding, so the community could offer blessings and advice.** — That is a betrothal. When a brother and sister have been courting and the family or leadership gives the blessing, it is announced so the congregation knows. They did that in the forties without knowing they were Israelites.
+
+*[[4:50](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=290s)]* **In The News: Elders pulling the groom aside after service to share wisdom about providing, and older women visiting the bride to teach recipes and household skills.** — The married brothers and sisters here got counsel all the way to the wedding day and still get it. The men help a brother structure his resume, budget, and pick a trade during the year or two of proving; the older women are Titus 2. Community is common unity, everybody thinking the same.
 
 **[Psalms 127:1-2](/bible/psalms/127#v1)**  *[[10:10](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=610s)]*
 
@@ -45,6 +41,10 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 - Imagine being out of your daughter's life from two until seventeen. Some of these women had no father their whole life, and when they came into the truth and got spiritual fathers they rebelled, because in the world they never had to listen to a man.
 
+
+*[[14:00](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=840s)]* **In The News: The couple wrapped in a network of support that followed them for decades.** — When you come through the doors we say welcome home. Marry in the body and keep the commandments and you have a network for life; leadership has helped families through unemployment and transitions because they see the diligence.
+
+*[[16:03](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=963s)]* **In The News: Courting on the front porch in plain view of parents and neighbours, intentions clear, no sneaking around, no secret meetings, nothing physical, with word travelling fast if a young man acted out of line.** — Be here at six, sit on the porch, the window is up, and cousin Ray across the street is watching. No cell phones, no Instagram, no way to reach my daughter except through me, and never show up uninvited. That is how fathers proved a young man's intentions, and that is what IUIC is bringing back, not controlling your life but protecting you.
 
 **[Sirach 6:7-10](/bible/sirach/6#v7)**  *[[18:20](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=1100s)]*
 
@@ -84,6 +84,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 - A quiet light-skinned sister came into the body with a big buff brother who never asked questions; she would not be with him until he came in and married her, and his weak nature bugged out. Years later a diligent officer asked about her, and six months into proving she called my wife crying that he was not her type physically. Did the type you were attracted to not have sex with you and leave? They married, and at the men's conference in 2024 she confessed adultery with her boss, who looked exactly like the first brother. She never got over the lust from the world, the Lord blocked the children, and the brother divorced her; Jeremiah 3, she had to go. Commend a man for his beauty and you end up with an ungodly man, or take anyone because you are in your thirties and think you should be married by now.
 
 
+*[[37:03](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=2223s)]* **In The News: The definition of spinster and spinsterhood: an unmarried woman past the usual marrying age, carrying social pressure and stigma, though today also framed as choice and independence.** — White women marry in their early twenties; when a black woman hits thirty-two or thirty-five the family asks when, and if no kids, what is wrong with her body. The clock is ticking, and that anxiety, as the single sisters admitted, makes a woman take any abuse or fornication to get a husband, or join the group booking the trip to Jamaica. Then the negro creeps in on that anxiety and you get a backdoor.
+
 **[Sirach 6:8](/bible/sirach/6#v8)**  *[[40:29](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=2429s)]*
 
 > <sup>[8](/bible/sirach/6#v8)</sup> For some man is a friend for his own occasion, and will not abide in the day of thy trouble.
@@ -94,6 +96,8 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 
 - For those thinking of messing up Ladies in Waiting or Men of Valor, thinking of jumping the gun: reconsider. Read some literature, as André 3000 said.
 
+
+*[[49:18](https://www.youtube.com/watch?v=r1rk8TpIX_A&t=2958s)]* **In The News: The closing IUIC montage: from city streets to distant lands the message is the same, marriages celebrated, the dead honoured, Sabbaths gathered, tried from the stones in Virginia to the hatred in Montana, building communities and raising children of royalty.** — This is Israel United in Christ, a nation.
 
 ## Class Questions
 

@@ -19,11 +19,6 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages", "greece", "so-c
 
 *[[5:04](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=304s)]* A new moon and new year class, taught while Iran's missiles fall on Israel, on Edom, the robbers of thy people, past and present. From Rebekah's womb to Mount Seir, the Horite dukes Esau conquered, the perpetual hatred that burned the first temple and moved into Judah's villages, the Macedonian Haman, the rabbis who wrote that Edom holds dominion over all Europe until Messiah ben David appears, the wild men of the caves whom the Moors drove into Covadonga and the Caucasus, the Khazars who became conquistadors, and the sword bathed in heaven that comes down on Idumea, the people devoted to destruction. A question for the apologists runs through it: does Israel's final return to the land come before the Messiah or after?
 
-## In The News
-
-- *[[2:09:24](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7764s)]* **The court of the King's Bench in the Great Hall at Westminster, and King James's grandson with his counsellors** — Black judges judging matters in England and a black king; we ruled Europe and were the kings and judges of the earth, and it has all been whitewashed.
-- *[[2:40:07](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9607s)]* **A film clip: we must rob and spoil this land, this land will be ours by any means, and the state of Israel is born** — Played to close the class on the robbers of thy people.
-
 ## Scriptures Opened
 
 **[Psalms 121:1-8](/bible/psalms/121#v1)**  *[[2:26](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=146s)]*
@@ -798,6 +793,8 @@ Reading from *History of the Conquest of Spain*, Volume One, p. 410  *[[2:07:58]
 - The earth is given into the hand of the wicked and he covereth the faces of the judges thereof: he whitewashed the Messiah, the Father, the angels, the Israelites and our own leaders of the Dark Ages, the black judges of the King's Bench and the black kings.
 
 
+*[[2:09:24](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7764s)]* **In The News: The court of the King's Bench in the Great Hall at Westminster, and King James's grandson with his counsellors** — Black judges judging matters in England and a black king; we ruled Europe and were the kings and judges of the earth, and it has all been whitewashed.
+
 **[Ezekiel 35:10-12](/bible/ezekiel/35#v10)**  *[[2:11:44](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=7904s)]*
 
 > <sup>[10](/bible/ezekiel/35#v10)</sup> Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the Lord was there:
@@ -1080,6 +1077,8 @@ Reading from Isaiah 34:5 in other versions, on Bible Hub  *[[2:22:59](https://ww
 
 - The Lord will be the hope of his people, not all people, and the strength of the children of Israel; then Jerusalem is holy and no strangers pass through her any more. Egypt shall be a desolation and Edom a desolate wilderness for the violence against the children of Judah, no more America and no more Israeli state, but Judah shall dwell for ever and Jerusalem from generation to generation.
 
+
+*[[2:40:07](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9607s)]* **In The News: A film clip: we must rob and spoil this land, this land will be ours by any means, and the state of Israel is born** — Played to close the class on the robbers of thy people.
 
 **[1 Corinthians 11:23-30](/bible/1-corinthians/11#v23)**  *[[2:41:00](https://www.youtube.com/watch?v=E7-T_cAwLUc&t=9660s)]*
 

@@ -19,15 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "purpose", "sabbath
 
 *[[5:24](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=324s)]* The fourth day of the Feast of Dedication and a new moon, and the class he had planned never got taught. He spent the time motivating the men instead: the Feast of Dedication is the warriors' feast, so he opened the Maccabees on zeal for the law, answered the Christian apologists coming at the camp, and showed from the prophets and from Christ at the feast of the dedication that the holy days were never done away with. What he named the class for, Christ as Israel's last temple and the sacrifices he replaced, he reached only at the end, and he said he would do a part two.
 
-## In The News
-
-- *[[18:41](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1121s)]* **A news report on the shooting of Sonya Massey in her own home, with her best friend speaking** — He played it because we fight for the laws and we fight for the nation: when that happened to her, the camp showed up, and showed up in numbers, week after week.
-- *[[20:20](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1220s)]* **The camp's own footage from Springfield, Illinois, her home town** — The people in the city were happy to see them and gained strength from it; a sister came up later and said she remembered them coming down there. People see hope and strength in us when they see us move the way we move.
-- *[[21:56](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1316s)]* **Footage on Kendrick Johnson, who was assaulted, severely beaten and hit with a stun gun** — We have not forgotten about him. Never think you have no power: if we had none they would not be fighting back against us this hard, shadowbanning us and fighting us on levels we cannot fight back on.
-- *[[29:30](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1770s)]* **A woman's video on how she treats men** — She is angry, and some of what she says is real: a lot of brothers cannot stop, have no discipline and no business of their own, and still want to be called daddy. Our brothers lie down in their shame, and that is what she is looking at.
-- *[[1:09:08](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4148s)]* **A street interview asking men whether they would live on a planet with all women, and the women whether they would live on one with all men** — The Christian man with the big cross had to stop and think about it, and said he would need an hour before he would regret it. That is the kind of man Christianity breeds; the women all said yes at once, which means they die, and the men said no, which means we live.
-- *[[1:14:53](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4493s)]* **The camp's own work at a Christian conference, and a brother breaking down the twelve gates and the names of the twelve tribes** — Your pastor says there are two gates; the Bible says twelve, with the names of the twelve tribes of the children of Israel on them. They have no scriptures, no doctrine and no knowledge; all they can do is scream Jesus, and after that there is nothing. Every brother who grabs the mic brings forth the word of God.
-
 ## Scriptures Opened
 
 **[1 Maccabees 2:50](/bible/1-maccabees/2#v50)**  *[[7:56](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=476s)]*
@@ -92,6 +83,12 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "purpose", "sabbath
 - They keep asking how we get these men to come together, to move like that, to march in step. First and foremost it is the commandments of God, and it is no hard thing for God to set men in order.
 
 
+*[[18:41](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1121s)]* **In The News: A news report on the shooting of Sonya Massey in her own home, with her best friend speaking** — He played it because we fight for the laws and we fight for the nation: when that happened to her, the camp showed up, and showed up in numbers, week after week.
+
+*[[20:20](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1220s)]* **In The News: The camp's own footage from Springfield, Illinois, her home town** — The people in the city were happy to see them and gained strength from it; a sister came up later and said she remembered them coming down there. People see hope and strength in us when they see us move the way we move.
+
+*[[21:56](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1316s)]* **In The News: Footage on Kendrick Johnson, who was assaulted, severely beaten and hit with a stun gun** — We have not forgotten about him. Never think you have no power: if we had none they would not be fighting back against us this hard, shadowbanning us and fighting us on levels we cannot fight back on.
+
 **[Psalms 50:20-21](/bible/psalms/50#v20)**  *[[24:42](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1482s)]*
 
 > <sup>[20](/bible/psalms/50#v20)</sup> Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
@@ -106,6 +103,8 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "purpose", "sabbath
 
 - One of them put up a message saying nobody is trying to make Jesus Christ white. That is a lie. In Haiti he is on every cab, every sign, every poster. In Ghana his picture is up in the Kentucky Fried Chicken, and in America it is not. Then they keep making movie after movie.
 
+
+*[[29:30](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1770s)]* **In The News: A woman's video on how she treats men** — She is angry, and some of what she says is real: a lot of brothers cannot stop, have no discipline and no business of their own, and still want to be called daddy. Our brothers lie down in their shame, and that is what she is looking at.
 
 **[2 Peter 1:4-7](/bible/2-peter/1#v4)**  *[[31:07](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=1867s)]*
 
@@ -253,6 +252,8 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "purpose", "sabbath
 - Put a coal up on the screen and look at it. That is what the prophet is comparing the face to.
 
 
+*[[1:09:08](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4148s)]* **In The News: A street interview asking men whether they would live on a planet with all women, and the women whether they would live on one with all men** — The Christian man with the big cross had to stop and think about it, and said he would need an hour before he would regret it. That is the kind of man Christianity breeds; the women all said yes at once, which means they die, and the men said no, which means we live.
+
 **[Lamentations 5:10](/bible/lamentations/5#v10)**  *[[1:11:58](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4318s)]*
 
 > <sup>[10](/bible/lamentations/5#v10)</sup> Our skin was black like an oven because of the terrible famine.
@@ -265,6 +266,8 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "purpose", "sabbath
 
 - This is why the Bible says precept upon precept, line upon line: a little here and a little there.
 
+
+*[[1:14:53](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4493s)]* **In The News: The camp's own work at a Christian conference, and a brother breaking down the twelve gates and the names of the twelve tribes** — Your pastor says there are two gates; the Bible says twelve, with the names of the twelve tribes of the children of Israel on them. They have no scriptures, no doctrine and no knowledge; all they can do is scream Jesus, and after that there is nothing. Every brother who grabs the mic brings forth the word of God.
 
 **[1 Maccabees 2:34](/bible/1-maccabees/2#v34)**  *[[1:16:59](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=4619s)]*
 

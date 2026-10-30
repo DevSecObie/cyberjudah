@@ -20,16 +20,9 @@ tags: ["IUIC in the ClassRoom", "repentance", "the-americas"]
 
 *[[5:40](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=340s)]* The Natives Hour, Home of the 10 Tribes, from IUIC Denver, hosted by the captain with Officer Simon Judah, Officer Don and Officer Jonah, on the state of emergency at the Pine Ridge Reservation: rampant crime, 33 officers for a reservation the size of Connecticut, and the US government breaking its treaty in 2023 while it sends billions to Ukraine and Israel. The Lord has set his face against us so we will repent; never trust thine enemy, and stop running to the nation that cannot save us.
 
-## In The News
-
-- *[[2:50](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=170s)]* **Bishop Nathanyel inviting the Jewish community's leading figures, the ADL, the SPLC and Canary Mission, to a public sit-down discussion, since they say the prophets of God are a hate group** — Look how hard they work to stop us, YouTube, PayPal, Facebook, when we cause no harm, while children are killing children.
-- *[[19:13](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=1153s)]* **A TV interview with the head of the ADL on antisemitism among college protesters and Elon Musk** — They're playing victim, while we went through the real genocide, murdered by the hundreds of millions, and that ain't getting talked about. I went to look up what's going on at Pine Ridge and couldn't find anything; it's like North Korea: things go in, nothing comes out.
-- *[[25:33](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=1533s)]* **AP: South Dakota tribe to declare a state of emergency due to rampant crime on the Pine Ridge Reservation, nearly six months after a federal judge ruled the US government has a treaty obligation to support law enforcement there but declined to set the funding** — Who here knew about this? A state of emergency means the people are dying and there's no law and order. Another broken treaty, in 2023. When they ran the Dakota Access Pipeline through, there were plenty of police, with dogs and hoses.
-- *[[47:09](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=2829s)]* **Only 33 officers and eight criminal investigators for more than 100,000 emergency calls a year across the 5,400-square-mile reservation, roughly the size of Connecticut, which has 6,534 officers; the tribe says it is owed funding for 120 officers, four or five on a shift** — You think the white man didn't know there would be no law and order with 33 cops? That's why people are kidnapped and never seen again. When we did a cleanup on a reservation, the police car was full of trash. And don't say defund the police: you're asking for mayhem.
-- *[[1:09:43](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=4183s)]* **The White House asks for almost $106 billion for Israel, Ukraine and the border: $61.4 billion for Ukraine, after $112 billion approved in 2022; $14.3 billion for Israel; and humanitarian aid, whose primary objective is to save lives** — As long as it takes for Ukraine, no cap, but the reservation asks for its police and they're not obligated. The reservation is begging for its lives to be saved, and a fraction of a billion would help. The Lord said no man shall save you, and they're getting saved.
-- *[[1:33:22](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=5602s)]* **The Bureau of Indian Affairs' history: since 1824, federal policies designed to subjugate and assimilate American Indians; it negotiated the treaties, and the General Allotment Act of 1887 opened tribal lands west of the Mississippi to non-Indian settlers** — Its address is Washington, DC, not near a reservation. It's like stealing your wallet, buying your house with it, then hiring you and taxing you on everything. A lot of the five-dollar Indians married into the tribes, murdered the women for the benefits, and are on the books as Native American; the casino money goes back to Esau.
-
 ## Scriptures Opened
+
+*[[2:50](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=170s)]* **In The News: Bishop Nathanyel inviting the Jewish community's leading figures, the ADL, the SPLC and Canary Mission, to a public sit-down discussion, since they say the prophets of God are a hate group** — Look how hard they work to stop us, YouTube, PayPal, Facebook, when we cause no harm, while children are killing children.
 
 **[2 Esdras 5:23](/bible/2-esdras/5#v23)**  *[[12:28](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=748s)]*
 
@@ -64,12 +57,16 @@ tags: ["IUIC in the ClassRoom", "repentance", "the-americas"]
     And made it rest upon the head of Jacob. He acknowledged him in his blessing, and gave him an heritage, and divided his portions; among the twelve tribes did he part them.
 
 
+*[[19:13](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=1153s)]* **In The News: A TV interview with the head of the ADL on antisemitism among college protesters and Elon Musk** — They're playing victim, while we went through the real genocide, murdered by the hundreds of millions, and that ain't getting talked about. I went to look up what's going on at Pine Ridge and couldn't find anything; it's like North Korea: things go in, nothing comes out.
+
 **[Amos 3:2](/bible/amos/3#v2)**  *[[23:48](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=1428s)]*
 
 > <sup>[2](/bible/amos/3#v2)</sup> You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.
 
 - The government paid European settlers to steal the land from Gad, and now they claim to be Gad. You only have I known of all the families of the earth: therefore I will punish you. We're the ones being punished, on the reservation and at the border, so that we can repent and be redeemed.
 
+
+*[[25:33](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=1533s)]* **In The News: AP: South Dakota tribe to declare a state of emergency due to rampant crime on the Pine Ridge Reservation, nearly six months after a federal judge ruled the US government has a treaty obligation to support law enforcement there but declined to set the funding** — Who here knew about this? A state of emergency means the people are dying and there's no law and order. Another broken treaty, in 2023. When they ran the Dakota Access Pipeline through, there were plenty of police, with dogs and hoses.
 
 **[Sirach 12:10](/bible/sirach/12#v10)**  *[[30:41](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=1841s)]*
 
@@ -137,6 +134,8 @@ tags: ["IUIC in the ClassRoom", "repentance", "the-americas"]
     And return from their stiff neck, and from their wicked deeds: for they shall remember the way of their fathers, which sinned before the Lord.
 
 
+*[[47:09](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=2829s)]* **In The News: Only 33 officers and eight criminal investigators for more than 100,000 emergency calls a year across the 5,400-square-mile reservation, roughly the size of Connecticut, which has 6,534 officers; the tribe says it is owed funding for 120 officers, four or five on a shift** — You think the white man didn't know there would be no law and order with 33 cops? That's why people are kidnapped and never seen again. When we did a cleanup on a reservation, the police car was full of trash. And don't say defund the police: you're asking for mayhem.
+
 **[Amos 3:6](/bible/amos/3#v6)**  *[[1:00:59](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=3659s)]*
 
 > <sup>[6](/bible/amos/3#v6)</sup> Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord hath not done it?
@@ -166,6 +165,8 @@ tags: ["IUIC in the ClassRoom", "repentance", "the-americas"]
 - Somebody asked where John 3:16 is: for God so loved the world, except if you're black, Hispanic or Native American. On the strip at Pine Ridge there are new dispensaries, but no supermarket and no clinics. The ox knoweth his owner, but Israel doth not know: in 2023 we're still believing in treaties.
 
 
+*[[1:09:43](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=4183s)]* **In The News: The White House asks for almost $106 billion for Israel, Ukraine and the border: $61.4 billion for Ukraine, after $112 billion approved in 2022; $14.3 billion for Israel; and humanitarian aid, whose primary objective is to save lives** — As long as it takes for Ukraine, no cap, but the reservation asks for its police and they're not obligated. The reservation is begging for its lives to be saved, and a fraction of a billion would help. The Lord said no man shall save you, and they're getting saved.
+
 **[Psalms 58:3](/bible/psalms/58#v3)**  *[[1:25:33](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=5133s)]*
 
 > <sup>[3](/bible/psalms/58#v3)</sup> The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
@@ -185,6 +186,8 @@ tags: ["IUIC in the ClassRoom", "repentance", "the-americas"]
 
     The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.
 
+
+*[[1:33:22](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=5602s)]* **In The News: The Bureau of Indian Affairs' history: since 1824, federal policies designed to subjugate and assimilate American Indians; it negotiated the treaties, and the General Allotment Act of 1887 opened tribal lands west of the Mississippi to non-Indian settlers** — Its address is Washington, DC, not near a reservation. It's like stealing your wallet, buying your house with it, then hiring you and taxing you on everything. A lot of the five-dollar Indians married into the tribes, murdered the women for the benefits, and are on the books as Native American; the casino money goes back to Esau.
 
 **[Isaiah 8:9](/bible/isaiah/8#v9)**  *[[1:34:15](https://www.youtube.com/watch?v=6ogOk1Vze3I&t=5655s)]*
 

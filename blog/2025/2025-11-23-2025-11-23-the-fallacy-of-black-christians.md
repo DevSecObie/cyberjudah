@@ -19,21 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "mercy"]
 
 *[[13:21](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=801s)]* A class on the fallacy of black Christianity: where the Catholic and Protestant churches came from, who put the white image of Christ in the earth, and why the people who hold to it mourn for the oppressor and never for the oppressed. The class traces the religion from the silent era after the apostles to the Protestant Reformation and the slave trade, answers the urban apologists from the scriptures on enemies and salvation, and ends on the prophecy of Hosea and the pure language God gives Israel.
 
-## In The News
-
-- *[[1:20:10](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=4810s)]* **A video on Carter G. Woodson and The Mis-Education of the Negro, 1933** — He accused black pastors of preaching submission instead of liberation and called the black church a colonial outpost for white supremacy; the same men who denounced him then attack this teaching now.
-- *[[1:32:13](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=5533s)]* **A white woman explaining her own Ashkenazi family out of Baden-Baden and Khazaria** — Those who claim the name in that counterfeit country are Eastern European, not Semitic, and 97.5 percent carry no ancient Hebrew DNA.
-- *[[1:45:28](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=6328s)]* **Clips of Charlie Kirk on blacks in commercials, affirmative action and black professionals** — The man black Christians wept over said plainly what he thought of our people, and his own words are the proof.
-- *[[1:48:40](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=6520s)]* **A TikTok of a former officer telling of two weeks in Israel with his church, where a child spat on a pastor once** — They will excuse anything done to them abroad while blaming their own people at home.
-- *[[1:50:20](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=6620s)]* **Instagram and YouTube clips of pastors and apologists grieving over Charlie Kirk's death** — Not one of them made a video for Assata Shakur, who died two weeks later, or for any of our people murdered; they honour the man who hated them.
-- *[[2:07:21](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=7641s)]* **A clip of a pastor preaching that black children be taught to obey authority and not fight cops** — The sermon was about black children being killed, and it absolved the officers and made the victims the wicked ones.
-- *[[2:19:06](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8346s)]* **A news report on Trey Reed, the 21-year-old found hanging from a tree at Delta State on September 15** — The independent examination paid for after the sheriff called it suicide found the back of his head broken in; not one black Christian mourned him.
-- *[[2:20:56](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8456s)]* **An Instagram clip of the FBI director, Kash Patel, saying black people should not mourn Assata Shakur** — Nobody outside our nation tells us who our heroes are or who we mourn.
-- *[[2:27:14](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8834s)]* **Images and a news conference on Rasheem Carter, the electrician who named the white men who threatened him** — They said an animal opened his skull; only the two-legged animal kills like that, and no Christian said a word about him.
-- *[[2:32:42](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9162s)]* **A report on Donna Mack, turned away from First Baptist of Forrest City in Arkansas because the members had 'had coloreds here before'** — The pastor called it a miscommunication and never denounced his member; the most segregated hour in America is still eleven o'clock on Sunday.
-- *[[3:11:16](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11476s)]* **Clips of men showing that speaking in tongues in the churches is made up on the spot** — Let the white man tell you.
-- *[[3:17:44](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11864s)]* **Videos on the revival of Hebrew by Eliezer Ben Yehuda, a Russian Ashkenazi linguist whose own language was Yiddish** — The language black Israelites argue over is 150 years old, overlaid with Yiddish, Russian, Polish and German pronunciation, and it was made by the white man.
-
 ## Scriptures Opened
 
 **[Galatians 1:6-12](/bible/galatians/1#v6)**  *[[18:07](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=1087s)]*
@@ -611,6 +596,10 @@ Reading from a book published in 1920, on the bust of the saviour posed for by C
     Thus shall he do in the most strongholds with a strange god, and he shall cause them to rule over many and shall divide the land for gain. The strange god is white Jesus. They sat down at the Berlin Conference in 1884 and split Africa among the Italians, the French, the Germans, the British, the Spanish, the Belgians and the Portuguese for gain, and later gave the land of Israel away in 1948. Africa will not be free; look at what has fallen on France since Burkina Faso put them out. There will be peace on earth when Christ sets up the kingdom with the twelve tribes in control of the planet.
 
 
+*[[1:20:10](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=4810s)]* **In The News: A video on Carter G. Woodson and The Mis-Education of the Negro, 1933** — He accused black pastors of preaching submission instead of liberation and called the black church a colonial outpost for white supremacy; the same men who denounced him then attack this teaching now.
+
+*[[1:32:13](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=5533s)]* **In The News: A white woman explaining her own Ashkenazi family out of Baden-Baden and Khazaria** — Those who claim the name in that counterfeit country are Eastern European, not Semitic, and 97.5 percent carry no ancient Hebrew DNA.
+
 **[2 Maccabees 4:1-10](/bible/2-maccabees/4#v1)**  *[[1:34:03](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=5643s)]*
 
 > <sup>[1](/bible/2-maccabees/4#v1)</sup> This Simon now, of whom we spake afore, having been a betrayer of the money, and of his country, slandered Onias, as if he had terrified Heliodorus, and been the worker of these evils.
@@ -689,6 +678,12 @@ Reading from a book published in 1920, on the bust of the saviour posed for by C
     The sure foundation and the precious cornerstone laid in Zion is Christ, built upon the foundation of the apostles and prophets. He lays it in Zion, which is the twelve tribes of Israel, not in China, not in Saudi Arabia, not in Europe.
 
 
+*[[1:45:28](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=6328s)]* **In The News: Clips of Charlie Kirk on blacks in commercials, affirmative action and black professionals** — The man black Christians wept over said plainly what he thought of our people, and his own words are the proof.
+
+*[[1:48:40](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=6520s)]* **In The News: A TikTok of a former officer telling of two weeks in Israel with his church, where a child spat on a pastor once** — They will excuse anything done to them abroad while blaming their own people at home.
+
+*[[1:50:20](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=6620s)]* **In The News: Instagram and YouTube clips of pastors and apologists grieving over Charlie Kirk's death** — Not one of them made a video for Assata Shakur, who died two weeks later, or for any of our people murdered; they honour the man who hated them.
+
 **[Deuteronomy 22:1-4](/bible/deuteronomy/22#v1)**  *[[1:57:46](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=7066s)]*
 
 > <sup>[1](/bible/deuteronomy/22#v1)</sup> Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.
@@ -753,6 +748,8 @@ Reading from a book published in 1920, on the bust of the saviour posed for by C
 
     Almighty God turned to joy the day wherein the chosen people should have perished, and they were told to keep it among their solemn feasts as a high day. Purim is a feast for God allowing us to kill our enemies, so what do you mean we are not to rejoice over the fall of the nations trying to destroy us?
 
+
+*[[2:07:21](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=7641s)]* **In The News: A clip of a pastor preaching that black children be taught to obey authority and not fight cops** — The sermon was about black children being killed, and it absolved the officers and made the victims the wicked ones.
 
 **[1 Maccabees 1:11](/bible/1-maccabees/1#v11)**  *[[2:09:12](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=7752s)]*
 
@@ -908,6 +905,14 @@ Reading from *Encyclopedia of the Jewish Diaspora: Origins, Experiences, and Cul
 
 </div>
 
+
+*[[2:19:06](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8346s)]* **In The News: A news report on Trey Reed, the 21-year-old found hanging from a tree at Delta State on September 15** — The independent examination paid for after the sheriff called it suicide found the back of his head broken in; not one black Christian mourned him.
+
+*[[2:20:56](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8456s)]* **In The News: An Instagram clip of the FBI director, Kash Patel, saying black people should not mourn Assata Shakur** — Nobody outside our nation tells us who our heroes are or who we mourn.
+
+*[[2:27:14](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=8834s)]* **In The News: Images and a news conference on Rasheem Carter, the electrician who named the white men who threatened him** — They said an animal opened his skull; only the two-legged animal kills like that, and no Christian said a word about him.
+
+*[[2:32:42](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9162s)]* **In The News: A report on Donna Mack, turned away from First Baptist of Forrest City in Arkansas because the members had 'had coloreds here before'** — The pastor called it a miscommunication and never denounced his member; the most segregated hour in America is still eleven o'clock on Sunday.
 
 **[Matthew 4:15](/bible/matthew/4#v15)**  *[[2:44:27](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=9867s)]*
 
@@ -1132,6 +1137,8 @@ Reading from a Google result on glossolalia  *[[3:10:15](https://www.youtube.com
 </div>
 
 
+*[[3:11:16](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11476s)]* **In The News: Clips of men showing that speaking in tongues in the churches is made up on the spot** — Let the white man tell you.
+
 **[Acts 2:8](/bible/acts/2#v8)**  *[[3:14:24](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11664s)]*
 
 > <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
@@ -1175,6 +1182,8 @@ Reading from an on-screen quote of Eliezer Ben Yehuda  *[[3:21:22](https://www.y
 
 </div>
 
+
+*[[3:17:44](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=11864s)]* **In The News: Videos on the revival of Hebrew by Eliezer Ben Yehuda, a Russian Ashkenazi linguist whose own language was Yiddish** — The language black Israelites argue over is 150 years old, overlaid with Yiddish, Russian, Polish and German pronunciation, and it was made by the white man.
 
 **[Isaiah 28:11](/bible/isaiah/28#v11)**  *[[3:21:51](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=12111s)]*
 

@@ -19,20 +19,9 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
 
 *[[9:44](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=584s)]* A Sabbath class from the Florida captains on the mindset of a leader and the actions of a king. It opens with a side class on the war overseas: America's military might, NATO turning on the beast, and the way Esau wages war by taking out the leaders first, which is why every man in Israel must be built to step in. The class then lays out what makes a leader: a chosen, peculiar people with the law as their wisdom; a leader who believes he can get the job done and says send me; who invites others and builds leaders better than himself; who serves the people rather than asking for rank; who transfers his faith and strengthens the brethren; and who leads by example as one that serves.
 
-## In The News
-
-- *[[10:23](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=623s)]* **Trump says America is the strongest nation with the strongest military and does not need the allies, but is testing who will show up.** — By thy sword shalt thou live, Genesis 27:40. America is showcasing exactly the military the Bible said Esau would live by. Eight countries bombed in a few months, and social media now lets you see what was hidden when Obama dropped a bomb every day of his term.
-- *[[18:10](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=1090s)]* **A commentator lists America's air forces and navies as the most powerful in history, then says its enemies use fifth generation warfare to divide races, sexes, and families.** — Daniel 2:40-43. The fourth kingdom is strong as iron in its military but mixed with miry clay, partly strong and partly broken, because it mingles itself with the seed of men and they do not cleave together. No other nation has that problem because no other nation has all nations and all religions inside it.
-- *[[24:26](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=1466s)]* **Trump threatens to end NATO if the allies do not help reopen the Strait of Hormuz. Germany, Japan, and China decline, and China now pays Iran for oil in yuan.** — The financial impact of the war is spreading across the whole world while America's allies quietly stop answering.
-- *[[25:33](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=1533s)]* **Twenty-eight European nations sign a security alliance designed to function without the United States, after 75 years of Western security built on American leadership since the atomic bomb.** — Revelation 17:12-18. The ten horns are NATO, one mind with the beast since 1945, giving their power and strength to it. Now they shall hate the whore, make her desolate, and burn her with fire, which is the nuclear weapons coming to America, because God put it in their hearts to fulfil his will.
-- *[[39:34](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=2374s)]* **Trump says Iran's navy, air force, radar, and leaders are all gone, and the next set of leaders too, so there is nobody left to talk to.** — This is how the white man wages war: cut the head and the body falls. It is a message to us. Any 10 or 50 could be over the whole congregation tomorrow, so every city must operate as its own headquarters. Iran kept firing after its leaders were killed because it planned independently after watching Iraq.
-- *[[1:17:20](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=4640s)]* **The Great Debaters scene where the professor describes Willie Lynch's method: keep the slave physically strong but psychologically weak, keep the body and take the mind.** — That is where our people are, a decayed estate. It is why the bishops and deacons teach with urgency in the streets: 99 percent of our people are in a horrible state of mind.
-- *[[1:22:30](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=4950s)]* **The Django scene where Stephen says he is that one in ten thousand.** — Job 33:23, one among a thousand. That is you. When you show up on the job or anywhere else, your mindset is not to fit in but to make it better, like Joseph in Egypt.
-- *[[1:54:52](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=6892s)]* **A business owner says everything rises and falls on leadership, period, and the best leaders build the best franchises.** — Sirach 10:2. As the judge of the people is, so are his officers. Change the leader in a city and the camp takes off. That is why everyone interviews the Bishop for the secret sauce, but Christ is at the head and the Most High is building 144,000 leaders.
-- *[[2:19:27](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=8367s)]* **Good leaders make you believe in them; great leaders make you believe in you.** — Hebrews 13:7, whose faith follow. That is how the Bishop raises up bishops, deacons, captains, and soldiers by the thousands.
-- *[[2:25:13](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=8713s)]* **A speaker on leadership: when you are junior you only have to be good at your job, then you are promoted to be responsible for the people who do the job you used to do, and nobody shows you how. You are not in charge; you are responsible for those in your charge.** — In the truth you start editing the video or working the kitchen, then you are over the brothers who do it. Everybody is not built for that level, but there are things you can learn.
-
 ## Scriptures Opened
+
+*[[10:23](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=623s)]* **In The News: Trump says America is the strongest nation with the strongest military and does not need the allies, but is testing who will show up.** — By thy sword shalt thou live, Genesis 27:40. America is showcasing exactly the military the Bible said Esau would live by. Eight countries bombed in a few months, and social media now lets you see what was hidden when Obama dropped a bomb every day of his term.
 
 **[1 Corinthians 14:1](/bible/1-corinthians/14#v1)**  *[[16:41](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=1001s)]*
 
@@ -64,6 +53,14 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
 
     Come down and sit in the dust, O virgin daughter of Babylon. America has never been touched, so she is the virgin; 9/11 was a controlled demolition. Now uncover the locks and make bare the leg: her nakedness is being uncovered as she allies with the little Satan and bombs other nations.
 
+
+*[[18:10](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=1090s)]* **In The News: A commentator lists America's air forces and navies as the most powerful in history, then says its enemies use fifth generation warfare to divide races, sexes, and families.** — Daniel 2:40-43. The fourth kingdom is strong as iron in its military but mixed with miry clay, partly strong and partly broken, because it mingles itself with the seed of men and they do not cleave together. No other nation has that problem because no other nation has all nations and all religions inside it.
+
+*[[24:26](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=1466s)]* **In The News: Trump threatens to end NATO if the allies do not help reopen the Strait of Hormuz. Germany, Japan, and China decline, and China now pays Iran for oil in yuan.** — The financial impact of the war is spreading across the whole world while America's allies quietly stop answering.
+
+*[[25:33](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=1533s)]* **In The News: Twenty-eight European nations sign a security alliance designed to function without the United States, after 75 years of Western security built on American leadership since the atomic bomb.** — Revelation 17:12-18. The ten horns are NATO, one mind with the beast since 1945, giving their power and strength to it. Now they shall hate the whore, make her desolate, and burn her with fire, which is the nuclear weapons coming to America, because God put it in their hearts to fulfil his will.
+
+*[[39:34](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=2374s)]* **In The News: Trump says Iran's navy, air force, radar, and leaders are all gone, and the next set of leaders too, so there is nobody left to talk to.** — This is how the white man wages war: cut the head and the body falls. It is a message to us. Any 10 or 50 could be over the whole congregation tomorrow, so every city must operate as its own headquarters. Iran kept firing after its leaders were killed because it planned independently after watching Iraq.
 
 **[Revelation 12:17](/bible/revelation/12#v17)**  *[[41:52](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=2512s)]*
 
@@ -238,6 +235,8 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
     They said one to another, let us restore the decayed estate of our people, and let us fight for our people and the sanctuary. Nobody did it alone; the Bishop went to the streets with a reader. You will go further and sacrifice more for someone else than for yourself, which is why selfish people only go so far.
 
 
+*[[1:17:20](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=4640s)]* **In The News: The Great Debaters scene where the professor describes Willie Lynch's method: keep the slave physically strong but psychologically weak, keep the body and take the mind.** — That is where our people are, a decayed estate. It is why the bishops and deacons teach with urgency in the streets: 99 percent of our people are in a horrible state of mind.
+
 **[Job 33:23](/bible/job/33#v23)**  *[[1:21:44](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=4904s)]*
 
 > <sup>[23](/bible/job/33#v23)</sup> If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:
@@ -252,6 +251,8 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
 
     Whom shall I send, and who will go for us? Here am I; send me. That is the mindset of a leader, the same as David asking where Goliath was while everyone else cried about the situation.
 
+
+*[[1:22:30](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=4950s)]* **In The News: The Django scene where Stephen says he is that one in ten thousand.** — Job 33:23, one among a thousand. That is you. When you show up on the job or anywhere else, your mindset is not to fit in but to make it better, like Joseph in Egypt.
 
 **[1 Maccabees 2:19-27](/bible/1-maccabees/2#v19)**  *[[1:25:31](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=5131s)]*
 
@@ -385,6 +386,8 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
 
     A wise judge will instruct his people; as the judge of the people is himself, so are his officers. Disorganized camps that talk about rape and build nothing reflect their leaders. When we go to Chicago we are on O'Block teaching, not filmed eating chicken and pizza in the hood at midnight.
 
+
+*[[1:54:52](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=6892s)]* **In The News: A business owner says everything rises and falls on leadership, period, and the best leaders build the best franchises.** — Sirach 10:2. As the judge of the people is, so are his officers. Change the leader in a city and the camp takes off. That is why everyone interviews the Bishop for the secret sauce, but Christ is at the head and the Most High is building 144,000 leaders.
 
 **[Proverbs 23:7](/bible/proverbs/23#v7)**  *[[1:56:25](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=6985s)]*
 
@@ -523,6 +526,10 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
 
     Uzziel and Hananiah repaired their sections, and next to them Rephaiah, ruler of the half part of Jerusalem, a supervisor over an area. Offices have leads entrusted with more. If you are overwhelmed for the Lord, that is a beautiful stress; ask for more laborers and pray and fast for them rather than complain, because the Lord put you in that office.
 
+
+*[[2:19:27](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=8367s)]* **In The News: Good leaders make you believe in them; great leaders make you believe in you.** — Hebrews 13:7, whose faith follow. That is how the Bishop raises up bishops, deacons, captains, and soldiers by the thousands.
+
+*[[2:25:13](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=8713s)]* **In The News: A speaker on leadership: when you are junior you only have to be good at your job, then you are promoted to be responsible for the people who do the job you used to do, and nobody shows you how. You are not in charge; you are responsible for those in your charge.** — In the truth you start editing the video or working the kitchen, then you are over the brothers who do it. Everybody is not built for that level, but there are things you can learn.
 
 **[James 2:17-18](/bible/james/2#v17)**  *[[2:29:43](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=8983s)]*
 

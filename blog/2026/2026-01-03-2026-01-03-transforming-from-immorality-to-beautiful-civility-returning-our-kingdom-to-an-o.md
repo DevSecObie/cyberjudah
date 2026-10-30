@@ -19,13 +19,6 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "salvation", "women"]
 
 *[[8:19](https://www.youtube.com/watch?v=QxWHRujbdpg&t=499s)]* In the third part of his series, Bishop Yawasap teaches that Israel cannot return from immorality to civility, or organize as a kingdom, until marriage is restored. Every sin followed the break between Adam and Eve, and the first organization of a nation is a husband and wife in God's order. The wife is the man's charging station, the source of comfort, reverence and strength that lets him go out to war for his nation. The enemy took the kingdom by force by breaking that bond, as the Willie Lynch and King Leopold letters describe. The class warns that children of unlawful unions witness against their parents, and calls men to lead righteously and women to reverence their husbands.
 
-## In The News
-
-- *[[1:45:18](https://www.youtube.com/watch?v=QxWHRujbdpg&t=6318s)]* **Readings from the Willie Lynch letter on breaking the slave and separating the woman from her husband.** — The kingdom of heaven suffered violence, and the violent took it by force: by breaking the Israelite family.
-- *[[2:08:33](https://www.youtube.com/watch?v=QxWHRujbdpg&t=7713s)]* **The letter attributed to King Leopold instructing missionaries in the Congo to teach Africans to read but not to reason, to obey missionaries over parents, and to stay in submission.** — The same doctrine has kept Israel captive everywhere. The children were taught to obey the missionary instead of righteous parents.
-- *[[2:25:56](https://www.youtube.com/watch?v=QxWHRujbdpg&t=8756s)]* **A commentator reacts to a social media trend of women saying they hate their husbands, wishing they would cheat so they could leave, and withholding intimacy to push them to fall.** — This is contempt, the opposite of reverence, and some brothers live with it. Satan has taught Israel's women to follow Edom's women.
-- *[[2:42:26](https://www.youtube.com/watch?v=QxWHRujbdpg&t=9746s)]* **Bishop Kani says that if a husband walks in and his wife is not glad to see him, there are real problems.** — Reverence is the comfort a man needs to fight. When it is gone, the house is lost.
-
 ## Scriptures Opened
 
 **[1 Timothy 3:4](/bible/1-timothy/3#v4)**  *[[13:27](https://www.youtube.com/watch?v=QxWHRujbdpg&t=807s)]*
@@ -149,6 +142,8 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "salvation", "women"]
 - They took it by breaking the family: separating the woman from her husband and removing his comfort, strength and reverence.
 
 
+*[[1:45:18](https://www.youtube.com/watch?v=QxWHRujbdpg&t=6318s)]* **In The News: Readings from the Willie Lynch letter on breaking the slave and separating the woman from her husband.** — The kingdom of heaven suffered violence, and the violent took it by force: by breaking the Israelite family.
+
 **[1 Timothy 2:12](/bible/1-timothy/2#v12)**  *[[1:48:24](https://www.youtube.com/watch?v=QxWHRujbdpg&t=6504s)]*
 
 > <sup>[12](/bible/1-timothy/2#v12)</sup> But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
@@ -173,12 +168,18 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "salvation", "women"]
     Let every one of you so love his wife even as himself; and the wife see that she reverence her husband.
 
 
+*[[2:08:33](https://www.youtube.com/watch?v=QxWHRujbdpg&t=7713s)]* **In The News: The letter attributed to King Leopold instructing missionaries in the Congo to teach Africans to read but not to reason, to obey missionaries over parents, and to stay in submission.** — The same doctrine has kept Israel captive everywhere. The children were taught to obey the missionary instead of righteous parents.
+
+*[[2:25:56](https://www.youtube.com/watch?v=QxWHRujbdpg&t=8756s)]* **In The News: A commentator reacts to a social media trend of women saying they hate their husbands, wishing they would cheat so they could leave, and withholding intimacy to push them to fall.** — This is contempt, the opposite of reverence, and some brothers live with it. Satan has taught Israel's women to follow Edom's women.
+
 **[Wisdom of Solomon 3:10](/bible/wisdom-of-solomon/3#v10)**  *[[2:38:25](https://www.youtube.com/watch?v=QxWHRujbdpg&t=9505s)]*
 
 > <sup>[10](/bible/wisdom-of-solomon/3#v10)</sup> But the ungodly shall be punished according to their own imaginations, which have neglected the righteous, and forsaken the Lord.
 
 - The ungodly which have neglected the righteous shall be punished; their wives are foolish and their children wicked.
 
+
+*[[2:42:26](https://www.youtube.com/watch?v=QxWHRujbdpg&t=9746s)]* **In The News: Bishop Kani says that if a husband walks in and his wife is not glad to see him, there are real problems.** — Reverence is the comfort a man needs to fight. When it is gone, the house is lost.
 
 **[1 Peter 3:7](/bible/1-peter/3#v7)**  *[[2:46:11](https://www.youtube.com/watch?v=QxWHRujbdpg&t=9971s)]*
 

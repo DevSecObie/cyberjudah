@@ -20,18 +20,6 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "leadership", "purpo
 
 *[[27:14](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=1634s)]* Man Up Mondays from IUIC Birmingham, with a captain and an officer filling in for Captain Joel, on hypocrisy: Pastor Gino Jennings (the captain keeps calling him "Gina Jenkins"), who called the Israelites bums and said the leaders send their men to do the dirty work, then stayed inside when the brothers pulled up to his church and his convention. Earlier that day on Escaping the Plantation, Captain Gedaliyah answered his claim that the Israelites have no jobs.
 
-## In The News
-
-- *[[38:30](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=2310s)]* **Gino Jennings addressing the Israelites: "Are you in a religion that's plotting against some church… or you got some bum, some trifling no-good bum, as your leader?"** — He calls somebody a bum sitting inside a castle scared to come outside, because we're not walking around in the white man's monkey suit and bow tie, clean-shaven, looking like our oppressor. He has to paint us as plotting against them to keep his members close-minded.
-- *[[54:06](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=3246s)]* **Jennings: "Who sent you out to do the crime so you can do the time?" and calling the leader a sucker and "a cheap two dollar hoe"** — He says our bishop sends the men out and hides back at the church. That's Xbox Live talk, Call of Duty trash talk over the headphones; he wouldn't say that face to face.
-- *[[57:20](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=3440s)]* **Bishop Nathanyel outside the church with the brothers, then Captain Josiah and the brothers outside Jennings' convention the next week** — Bishop Nathanyel pulled up, Bishop Yahwehshai pulled up, and Jennings' bow-tie crew was out there but he was nowhere to be found. You've got to be a high-level coward to let people come where you are and stay inside.
-- *[[1:08:32](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=4112s)]* **The "Warrior" tribute video to Bishop Nathanyel** — Put some respect on Bishop Nathanyel's name, and on the leadership of Israel United in Christ.
-- *[[1:13:02](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=4382s)]* **Jennings at another debate telling his men "take his microphone and usher him out"** — He's scared, he's got to make his men do it: it took 12 or 13 brothers to put one man out. He sends his men to do the work, the very thing he accused us of.
-- *[[1:17:36](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=4656s)]* **Jennings debating "Mr. Israel from Michigan"** — He only debates lone wolves, individual-lights in safety glasses, at his own church where he controls the mic, not the leader of an organized nation with schools and churches all over the world.
-- *[[2:09:53](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=7793s)]* **Jennings on interracial marriage: any religion that would tell a man not to marry a woman of another ethnic group is racist** — It's making my ears bleed. This man is going straight against the Bible.
-- *[[2:21:57](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=8517s)]* **Jennings with Jesse Lee Peterson: the Jews were not a white-skinned people, and Jesus came from a region of people of color** — It took all that for him to say it; Christ said let your yea be yea and your nay be nay. He had to smooth it over so his white counterparts would still like him.
-- *[[2:37:58](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=9478s)]* **Jennings in 2022 on Revelation 1:14-15: "If that means God is black, why is his head white?"** — So Jesus Christ looks like one of the 101 Dalmatians, black feet and a white head, a chameleon. That's who you pay your tithes to, and who you think the Israelites are scared to debate.
-
 ## Scriptures Opened
 
 **[Sirach 37:19](/bible/sirach/37#v19)**  *[[30:19](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=1819s)]*
@@ -65,6 +53,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "leadership", "purpo
 
     Unto whomsoever much is given, of him shall be much required: his followers brag about his buses and viewers, but it's required of him to teach his members what to do to get the kingdom, and he ain't doing that.
 
+
+*[[38:30](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=2310s)]* **In The News: Gino Jennings addressing the Israelites: "Are you in a religion that's plotting against some church… or you got some bum, some trifling no-good bum, as your leader?"** — He calls somebody a bum sitting inside a castle scared to come outside, because we're not walking around in the white man's monkey suit and bow tie, clean-shaven, looking like our oppressor. He has to paint us as plotting against them to keep his members close-minded.
 
 **[Sirach 11:1](/bible/sirach/11#v1)**  *[[43:10](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=2590s)]*
 
@@ -112,6 +102,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "leadership", "purpo
     Things which are not, to bring to nought things that are.
 
 
+*[[54:06](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=3246s)]* **In The News: Jennings: "Who sent you out to do the crime so you can do the time?" and calling the leader a sucker and "a cheap two dollar hoe"** — He says our bishop sends the men out and hides back at the church. That's Xbox Live talk, Call of Duty trash talk over the headphones; he wouldn't say that face to face.
+
 **[Jeremiah 10:21](/bible/jeremiah/10#v21)**  *[[55:00](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=3300s)]*
 
 > <sup>[21](/bible/jeremiah/10#v21)</sup> For the pastors are become brutish, and have not sought the Lord: therefore they shall not prosper, and all their flocks shall be scattered.
@@ -120,6 +112,8 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "leadership", "purpo
 
 - They shall not prosper and their flocks shall be scattered: once his members see the videos, they'll see the pastor made something up. First the comments said we wouldn't go to his church, then that we'd never go back; bam, video, we were there.
 
+
+*[[57:20](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=3440s)]* **In The News: Bishop Nathanyel outside the church with the brothers, then Captain Josiah and the brothers outside Jennings' convention the next week** — Bishop Nathanyel pulled up, Bishop Yahwehshai pulled up, and Jennings' bow-tie crew was out there but he was nowhere to be found. You've got to be a high-level coward to let people come where you are and stay inside.
 
 **[Proverbs 6:23](/bible/proverbs/6#v23)**  *[[1:01:30](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=3690s)]*
 
@@ -149,12 +143,18 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "leadership", "purpo
     An unwise king destroyeth his people: there's a big church in every ghetto, and we're still in the same condition because there are no prudent men in authority.
 
 
+*[[1:08:32](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=4112s)]* **In The News: The "Warrior" tribute video to Bishop Nathanyel** — Put some respect on Bishop Nathanyel's name, and on the leadership of Israel United in Christ.
+
+*[[1:13:02](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=4382s)]* **In The News: Jennings at another debate telling his men "take his microphone and usher him out"** — He's scared, he's got to make his men do it: it took 12 or 13 brothers to put one man out. He sends his men to do the work, the very thing he accused us of.
+
 **[Romans 13:1](/bible/romans/13#v1)**  *[[1:15:10](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=4510s)]*
 
 > <sup>[1](/bible/romans/13#v1)</sup> Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 
 - He says we're going to prison, but we're in order with Romans 13: we're not breaking the laws of the land. When they call the police on our blitzes in Alabama, the police say y'all not doing nothing wrong.
 
+
+*[[1:17:36](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=4656s)]* **In The News: Jennings debating "Mr. Israel from Michigan"** — He only debates lone wolves, individual-lights in safety glasses, at his own church where he controls the mic, not the leader of an organized nation with schools and churches all over the world.
 
 **[1 Corinthians 1:19](/bible/1-corinthians/1#v19)**  *[[1:19:04](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=4744s)]*
 
@@ -310,6 +310,8 @@ Reading from An article on Eric Mason's Kainos conference, 2015  *[[1:51:55](htt
 - Not equal to all people: God created roaches and maggots too, and you don't invite them to the dinner table. Be proud of your black skin; Jennings calls it disgusting, evil, wicked, cheap skin, and he sounds like the slave master.
 
 
+*[[2:09:53](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=7793s)]* **In The News: Jennings on interracial marriage: any religion that would tell a man not to marry a woman of another ethnic group is racist** — It's making my ears bleed. This man is going straight against the Bible.
+
 **[1 Kings 11:1](/bible/1-kings/11#v1)**  *[[2:11:16](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=7876s)]*
 
 > <sup>[1](/bible/1-kings/11#v1)</sup> But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;
@@ -349,6 +351,8 @@ Reading from An article on Eric Mason's Kainos conference, 2015  *[[1:51:55](htt
 
 - When Katrina hit New Orleans it took days to get water to the people, while white people took leave from their jobs to help in a tsunami overseas. They stopped our people on the bridge to the West Bank: turn around, go back to Orleans Parish. Just like Charles Parham at Azusa Street.
 
+
+*[[2:21:57](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=8517s)]* **In The News: Jennings with Jesse Lee Peterson: the Jews were not a white-skinned people, and Jesus came from a region of people of color** — It took all that for him to say it; Christ said let your yea be yea and your nay be nay. He had to smooth it over so his white counterparts would still like him.
 
 **[Ezra 4:1](/bible/ezra/4#v1)**  *[[2:23:55](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=8635s)]*
 
@@ -396,6 +400,8 @@ Reading from An article on Eric Mason's Kainos conference, 2015  *[[1:51:55](htt
 
     If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
+
+*[[2:37:58](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=9478s)]* **In The News: Jennings in 2022 on Revelation 1:14-15: "If that means God is black, why is his head white?"** — So Jesus Christ looks like one of the 101 Dalmatians, black feet and a white head, a chameleon. That's who you pay your tithes to, and who you think the Israelites are scared to debate.
 
 **[Jeremiah 1:10](/bible/jeremiah/1#v10)**  *[[2:40:58](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=9658s)]*
 

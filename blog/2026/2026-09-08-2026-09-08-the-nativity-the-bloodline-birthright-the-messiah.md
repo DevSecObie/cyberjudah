@@ -19,18 +19,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 *[[13:39](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=819s)]* A Labor Day class in Philadelphia in two parts. Deacon Malachi opens on Carnival: the West Indian parade in Brooklyn and Notting Hill is not our culture but a Roman Catholic pre-Lent festival of Bacchus that the slaves learned from their colonizers. Then the main teaching, the nativity: the bloodline, the birthright and the Messiah, walked from Judah and Tamar through Ruth, Tobit and the kings of Judah to show that the land and the throne pass by the father's line, that Luke 3 is Mary's father's line and Matthew 1 is Joseph's, and that Christ was born through Joseph and Mary as every king before him was born.
 
-## In The News
-
-- *[[19:48](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=1188s)]* **Street footage from the Notting Hill carnival in London and the Labor Day carnival on Eastern Parkway, with white commentators watching it** — The nations look at our people humping each other half naked in the street and call it a culture; that is the astonishment, proverb and byword of Deuteronomy 28.
-- *[[31:29](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=1889s)]* **A short film on the origins of Mardi Gras in New Orleans** — It began with French settlers in 1699 as the celebration before Lent; the masquerade balls and parades came straight from France, and the mask is where playing mas gets its name.
-- *[[51:15](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=3075s)]* **Articles on Jesse Waddell and Claudia Jones, the Trinidadians who started the indoor costume balls in Harlem in the 1920s and the carnival that became Notting Hill** — Carnival came to New York and Britain through Trinidad, and Trinidad kept it the way the Europeans kept it, in February before Lent.
-- *[[55:52](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=3352s)]* **A history of Trinidad carnival: French settlers brought their masquerade balls in the late 1700s and the slaves made their own version** — The slaves envied what they were not allowed to join and copied it; steel pan and calypso were added to a European festival, they did not replace it.
-- *[[1:09:16](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=4156s)]* **A film on the Venice carnival and its masks** — Italy still keeps carnival in the weeks before Lent to this day, masks and revelry, so the feathers and costumes on Eastern Parkway came from Rome.
-- *[[1:14:04](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=4444s)]* **The etymology of carnival and of Lent** — Carnival is literally to raise the flesh, which the church later folk-etymologized into farewell to meat; Lent means springtime and runs forty days to Easter, so the days of indulgence run up to Ash Wednesday and the penance after.
-- *[[1:42:31](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=6151s)]* **Trinidad soca songs about bacchanal** — Our own songs say carnival is bacchanal, and bacchanal is the Roman Bacchanalia, the feast of Bacchus; the word was learned in slavery and kept in everyday Trinidadian speech.
-- *[[3:18:04](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=11884s)]* **A short on what it takes to keep a Y chromosome alive** — A man with only daughters ends his line on paper, yet the daughters are still on the tree; the class used it to show why the record follows the father, with the caveat that a brother's line can carry it on.
-- *[[6:19:43](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=22783s)]* **A search result on why Joseph travelled to Bethlehem for the census** — Roman censuses registered people where they lived or where they held taxable property, which is why Joseph had to go to Bethlehem: he had land there as well as in Nazareth.
-
 ## Scriptures Opened
 
 **[Sirach 17:11-12](/bible/sirach/17#v11)**  *[[17:21](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=1041s)]*
@@ -45,6 +33,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 - A slave has no culture of his own to point to: you were destroyed, and what you follow you either invented in bondage or copied from your oppressor.
 
+
+*[[19:48](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=1188s)]* **In The News: Street footage from the Notting Hill carnival in London and the Labor Day carnival on Eastern Parkway, with white commentators watching it** — The nations look at our people humping each other half naked in the street and call it a culture; that is the astonishment, proverb and byword of Deuteronomy 28.
+
+*[[31:29](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=1889s)]* **In The News: A short film on the origins of Mardi Gras in New Orleans** — It began with French settlers in 1699 as the celebration before Lent; the masquerade balls and parades came straight from France, and the mask is where playing mas gets its name.
 
 **[Deuteronomy 28:37](/bible/deuteronomy/28#v37)**  *[[40:34](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=2434s)]*
 
@@ -72,6 +64,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 - So when Europeans scorn us for it, understand it is their own culture we are practicing in the open.
 
 
+*[[51:15](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=3075s)]* **In The News: Articles on Jesse Waddell and Claudia Jones, the Trinidadians who started the indoor costume balls in Harlem in the 1920s and the carnival that became Notting Hill** — Carnival came to New York and Britain through Trinidad, and Trinidad kept it the way the Europeans kept it, in February before Lent.
+
+*[[55:52](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=3352s)]* **In The News: A history of Trinidad carnival: French settlers brought their masquerade balls in the late 1700s and the slaves made their own version** — The slaves envied what they were not allowed to join and copied it; steel pan and calypso were added to a European festival, they did not replace it.
+
 **[Proverbs 3:31](/bible/proverbs/3#v31)**  *[[57:32](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=3452s)]*
 
 > <sup>[31](/bible/proverbs/3#v31)</sup> Envy thou not the oppressor, and choose none of his ways.
@@ -95,6 +91,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 - The evil that befalls us in the latter days, slavery included, is the consequence of that turning aside.
 
+
+*[[1:09:16](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=4156s)]* **In The News: A film on the Venice carnival and its masks** — Italy still keeps carnival in the weeks before Lent to this day, masks and revelry, so the feathers and costumes on Eastern Parkway came from Rome.
+
+*[[1:14:04](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=4444s)]* **In The News: The etymology of carnival and of Lent** — Carnival is literally to raise the flesh, which the church later folk-etymologized into farewell to meat; Lent means springtime and runs forty days to Easter, so the days of indulgence run up to Ash Wednesday and the penance after.
 
 **[1 Corinthians 3:3](/bible/1-corinthians/3#v3)**  *[[1:23:05](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=4985s)]*
 
@@ -121,6 +121,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 - Easter, too, was a Roman goddess of fertility and spring in the same season as the days of unleavened bread, as Acts 12 shows Herod waiting until after Easter; Lent means springtime and runs forty days to it.
 
+
+*[[1:42:31](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=6151s)]* **In The News: Trinidad soca songs about bacchanal** — Our own songs say carnival is bacchanal, and bacchanal is the Roman Bacchanalia, the feast of Bacchus; the word was learned in slavery and kept in everyday Trinidadian speech.
 
 **[Genesis 38:6-10](/bible/genesis/38#v6)**  *[[1:56:49](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=7009s)]*
 
@@ -398,6 +400,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 - Now in captivity there is no land to protect, so the rule for us is simply to marry within the nation.
 
+
+*[[3:18:04](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=11884s)]* **In The News: A short on what it takes to keep a Y chromosome alive** — A man with only daughters ends his line on paper, yet the daughters are still on the tree; the class used it to show why the record follows the father, with the caveat that a brother's line can carry it on.
 
 **[Tobit 1:1-3](/bible/tobit/1#v1)**  *[[3:21:21](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=12081s)]*
 
@@ -879,6 +883,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "edom-esau", "women"]
 
 - If Christ were born without a father he still grew nine months in a sinful womb; if the sperm is evil and the egg is holy, Mary has to be made sinless too, which is why Rome invented the immaculate conception and made a second savior; it is religious feminism.
 
+
+*[[6:19:43](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=22783s)]* **In The News: A search result on why Joseph travelled to Bethlehem for the census** — Roman censuses registered people where they lived or where they held taxable property, which is why Joseph had to go to Bethlehem: he had land there as well as in Nazareth.
 
 **[Luke 2:8-12](/bible/luke/2#v8)**  *[[6:27:14](https://www.youtube.com/watch?v=Q4vL3X9huPQ&t=23234s)]*
 

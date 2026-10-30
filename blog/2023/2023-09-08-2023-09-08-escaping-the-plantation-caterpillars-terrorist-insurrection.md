@@ -20,14 +20,9 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome", "war"]
 
 *[[0:13](https://www.youtube.com/watch?v=fHKpLvRLv50&t=13s)]* Escaping the Plantation, IUIC Raleigh, on caterpillars, terrorists and insurrection. Rome fell when it filled its legions with foreign mercenaries, and the Lord has sworn to fill Babylon with men as with caterpillars that eat it from the inside. America spoils many nations through debt and wars, and the remnant shall spoil her. Edom exalts himself as the eagle, and thence will the Lord bring him down. Every time the brothers do the work, it's a nick in the tree of Babylon.
 
-## In The News
-
-- *[[0:13](https://www.youtube.com/watch?v=fHKpLvRLv50&t=13s)]* **Article: the eighth reason Rome fell, the weakening of the Roman legions: emperors like Diocletian and Constantine hired foreign mercenaries, Germanic Goths and other barbarians who had little loyalty, and many who sacked Rome had served in its legions** — Rome wanted to be in everybody's business, and America does the same: any background can join its military, and that opens the door for sleeper cells who report its tactics back to their own lands.
-- *[[15:41](https://www.youtube.com/watch?v=fHKpLvRLv50&t=941s)]* **News: a Human Rights Watch report says Saudi border guards killed unarmed Ethiopian asylum seekers at the Yemen border with artillery and point-blank shootings; Saudi Arabia denies it** — The Amharic and Tigre people of Ethiopia, Beta Israel, are our people, and that's why Ishmael and Babylon are angry with them. The Indian Ocean slave trade took our people to Yemen, Iran, Iraq and Sri Lanka. The oppression isn't just from Esau: Ishmael is in on it too.
-- *[[26:17](https://www.youtube.com/watch?v=fHKpLvRLv50&t=1577s)]* **A TikTok eyewitness of the January 6 attack on the Capitol: thousands of people, not a few hundred, climbing the Capitol after Trump told the crowd to go down there** — Look at all them good old Christian white folks. If it had been us they'd have called us thugs and dropped bombs on us, and nobody asks what church any of them go to.
-- *[[28:12](https://www.youtube.com/watch?v=fHKpLvRLv50&t=1692s)]* **Clip: Kamala Harris on investing in clean energy and electric vehicles so children can breathe clean air and drink clean water** — She says reduce population: whose kids? It's the same thing they say about Bill Gates. These politicians have no power.
-
 ## Scriptures Opened
+
+*[[0:13](https://www.youtube.com/watch?v=fHKpLvRLv50&t=13s)]* **In The News: Article: the eighth reason Rome fell, the weakening of the Roman legions: emperors like Diocletian and Constantine hired foreign mercenaries, Germanic Goths and other barbarians who had little loyalty, and many who sacked Rome had served in its legions** — Rome wanted to be in everybody's business, and America does the same: any background can join its military, and that opens the door for sleeper cells who report its tactics back to their own lands.
 
 **[Jeremiah 51:6](/bible/jeremiah/51#v6)**  *[[1:46](https://www.youtube.com/watch?v=fHKpLvRLv50&t=106s)]*
 
@@ -80,6 +75,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome", "war"]
     Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.
 
 
+*[[15:41](https://www.youtube.com/watch?v=fHKpLvRLv50&t=941s)]* **In The News: News: a Human Rights Watch report says Saudi border guards killed unarmed Ethiopian asylum seekers at the Yemen border with artillery and point-blank shootings; Saudi Arabia denies it** — The Amharic and Tigre people of Ethiopia, Beta Israel, are our people, and that's why Ishmael and Babylon are angry with them. The Indian Ocean slave trade took our people to Yemen, Iran, Iraq and Sri Lanka. The oppression isn't just from Esau: Ishmael is in on it too.
+
 **[Habakkuk 2:12](/bible/habakkuk/2#v12)**  *[[18:59](https://www.youtube.com/watch?v=fHKpLvRLv50&t=1139s)]*
 
 > <sup>[12](/bible/habakkuk/2#v12)</sup> Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!
@@ -116,6 +113,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome", "war"]
 
     Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 
+
+*[[26:17](https://www.youtube.com/watch?v=fHKpLvRLv50&t=1577s)]* **In The News: A TikTok eyewitness of the January 6 attack on the Capitol: thousands of people, not a few hundred, climbing the Capitol after Trump told the crowd to go down there** — Look at all them good old Christian white folks. If it had been us they'd have called us thugs and dropped bombs on us, and nobody asks what church any of them go to.
+
+*[[28:12](https://www.youtube.com/watch?v=fHKpLvRLv50&t=1692s)]* **In The News: Clip: Kamala Harris on investing in clean energy and electric vehicles so children can breathe clean air and drink clean water** — She says reduce population: whose kids? It's the same thing they say about Bill Gates. These politicians have no power.
 
 **[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[29:10](https://www.youtube.com/watch?v=fHKpLvRLv50&t=1750s)]*
 

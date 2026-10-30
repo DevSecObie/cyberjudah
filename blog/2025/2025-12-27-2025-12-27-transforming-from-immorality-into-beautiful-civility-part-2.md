@@ -19,13 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "marriage-family", "satan", "the-law",
 
 *[[4:23](https://www.youtube.com/watch?v=6rbgmjYODZE&t=263s)]* Part two of the series on turning from immorality back to civility, centred on marriage as the crown of a civilised nation. Bishop Yawasap opens on the idols of the nations and the tree of Jeremiah 10, then shows how Satan went to Eve first and still uses the woman to keep the man subdued. Slavery stripped fathers from the home and broke the family on purpose. The class turns to the fear of God as the whole duty of man, the beauty that deceives in Judith and Proverbs, the narrow path of 2 Esdras, and the man who rules his own house. It closes on the meek and quiet spirit of 1 Peter 3, the kind tongue of Sirach, and the need to prove a spouse by the Bible before marriage.
 
-## In The News
-
-- *[[18:50](https://www.youtube.com/watch?v=6rbgmjYODZE&t=1130s)]* **An encyclopedia entry on Sol Invictus, the unconquered sun god of the late Roman Empire, celebrated on December 25.** — Christmas is sun worship and has nothing to do with Christ.
-- *[[51:12](https://www.youtube.com/watch?v=6rbgmjYODZE&t=3072s)]* **An episode shown the day before titled 'Prison or Paradise'.** — Some marriages feel like prison, but marriage is meant to be paradise.
-- *[[1:05:45](https://www.youtube.com/watch?v=6rbgmjYODZE&t=3945s)]* **A reading from a slave-breaking manual on using the bullwhip to break the woman's resistance.** — The breaking process was aimed at the woman so the family would never be whole again.
-- *[[2:46:51](https://www.youtube.com/watch?v=6rbgmjYODZE&t=10011s)]* **A viral trend of wives saying online how much they hate their husbands and wait for them to cheat so they can leave.** — This is what a man marries when he does not prove her first.
-
 ## Scriptures Opened
 
 **[Psalms 96:5](/bible/psalms/96#v5)**  *[[10:42](https://www.youtube.com/watch?v=6rbgmjYODZE&t=642s)]*
@@ -56,6 +49,8 @@ tags: ["IUIC in the ClassRoom", "christ", "marriage-family", "satan", "the-law",
 - A tree, bulbs and tinsel have nothing to do with Christ.
 
 
+*[[18:50](https://www.youtube.com/watch?v=6rbgmjYODZE&t=1130s)]* **In The News: An encyclopedia entry on Sol Invictus, the unconquered sun god of the late Roman Empire, celebrated on December 25.** — Christmas is sun worship and has nothing to do with Christ.
+
 **[Ecclesiastes 12:13](/bible/ecclesiastes/12#v13)**  *[[29:27](https://www.youtube.com/watch?v=6rbgmjYODZE&t=1767s)]*
 
 > <sup>[13](/bible/ecclesiastes/12#v13)</sup> Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
@@ -81,6 +76,8 @@ tags: ["IUIC in the ClassRoom", "christ", "marriage-family", "satan", "the-law",
     Curse not the king in thy thought, for a bird of the air shall carry the voice.
 
 
+*[[51:12](https://www.youtube.com/watch?v=6rbgmjYODZE&t=3072s)]* **In The News: An episode shown the day before titled 'Prison or Paradise'.** — Some marriages feel like prison, but marriage is meant to be paradise.
+
 **[Isaiah 47:1](/bible/isaiah/47#v1)**  *[[56:53](https://www.youtube.com/watch?v=6rbgmjYODZE&t=3413s)]*
 
 > <sup>[1](/bible/isaiah/47#v1)</sup> Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
@@ -91,6 +88,8 @@ tags: ["IUIC in the ClassRoom", "christ", "marriage-family", "satan", "the-law",
 
 - The evil done to Israel was done by a nation that portrayed itself as righteous.
 
+
+*[[1:05:45](https://www.youtube.com/watch?v=6rbgmjYODZE&t=3945s)]* **In The News: A reading from a slave-breaking manual on using the bullwhip to break the woman's resistance.** — The breaking process was aimed at the woman so the family would never be whole again.
 
 **[Genesis 3:9](/bible/genesis/3#v9)**  *[[1:13:39](https://www.youtube.com/watch?v=6rbgmjYODZE&t=4419s)]*
 
@@ -211,6 +210,8 @@ tags: ["IUIC in the ClassRoom", "christ", "marriage-family", "satan", "the-law",
 
 - If one keeps the commandments and the other does not, the marriage is headed for disaster.
 
+
+*[[2:46:51](https://www.youtube.com/watch?v=6rbgmjYODZE&t=10011s)]* **In The News: A viral trend of wives saying online how much they hate their husbands and wait for them to cheat so they can leave.** — This is what a man marries when he does not prove her first.
 
 ## Class Questions
 

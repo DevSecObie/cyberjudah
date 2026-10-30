@@ -19,15 +19,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "justice", "the-law"]
 
 *[[4:41](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=281s)]* This class explains why judgment starts at the house of God, then shows that God never judges without two or three witnesses. The ICE raids and the brutality in Minneapolis are the bread of adversity sent to wake an Israel grown comfortable in America, and the teachers must be there to tell the people why. The law of two witnesses forbids slander and false witness, and the class warns those who spread lies about the ministry. Christ sent the seventy out two by two to bind and loose. The two witnesses of Revelation 11, the prophets and all Israel, now testify against Edom and the synagogue of Satan until the seven last plagues are poured out.
 
-## In The News
-
-- *[[19:26](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=1166s)]* **Federal agents fire on residents in Minneapolis.** — The federal government has been militarized against Black and Hispanic communities. The world has changed.
-- *[[20:49](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=1249s)]* **A preacher urges Christians to join ICE and become 'God's appointed avenger,' calling immigration a rebellion against the fifth commandment.** — This is how they think: join ICE and make white Jesus smile. The inheritance they claim was taken with the blood of the original people.
-- *[[25:23](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=1523s)]* **A Minneapolis family is caught in tear gas after a game; their six-month-old is pulled from the car unresponsive. A US citizen is beaten, dropped at a Walmart, and a Brooklyn Park man who immigrated legally is handcuffed for the first time in his life.** — These are the waters of affliction. God is letting it happen so his people seek him early.
-- *[[45:20](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=2720s)]* **A man vows to shoot any ICE agent who approaches him, others call for armed escorts for immigrants, and he later retracts, saying he meant equal force.** — This is not the way. Every armed movement failed; it only gives the government its Insurrection Act. The word of God is what changes the people.
-- *[[1:18:54](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=4734s)]* **A white commentator says he would gladly give Black people 15 percent of the country, then mocks how Black people fight each other and tear down anyone better than them.** — America will be destroyed, not turned into a utopia. But the devil is right that the people tear each other down; pride and ego must go.
-- *[[1:25:41](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=5141s)]* **IUIC's legal notice demanding retraction of defamatory statements and warning of legal action.** — False witness is slander. Those who spread lies about the ministry will have to prove them.
-
 ## Scriptures Opened
 
 **[Matthew 24:4](/bible/matthew/24#v4)**  *[[5:26](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=326s)]*
@@ -63,6 +54,12 @@ tags: ["IUIC in the ClassRoom", "adversity", "justice", "the-law"]
 - For sixty years since civil rights the people grew comfortable and forgot. So God told the white man to show Blacks and Hispanics who he really is.
 
 
+*[[19:26](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=1166s)]* **In The News: Federal agents fire on residents in Minneapolis.** — The federal government has been militarized against Black and Hispanic communities. The world has changed.
+
+*[[20:49](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=1249s)]* **In The News: A preacher urges Christians to join ICE and become 'God's appointed avenger,' calling immigration a rebellion against the fifth commandment.** — This is how they think: join ICE and make white Jesus smile. The inheritance they claim was taken with the blood of the original people.
+
+*[[25:23](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=1523s)]* **In The News: A Minneapolis family is caught in tear gas after a game; their six-month-old is pulled from the car unresponsive. A US citizen is beaten, dropped at a Walmart, and a Brooklyn Park man who immigrated legally is handcuffed for the first time in his life.** — These are the waters of affliction. God is letting it happen so his people seek him early.
+
 **[Job 36:15](/bible/job/36#v15)**  *[[33:04](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=1984s)]*
 
 > <sup>[15](/bible/job/36#v15)</sup> He delivereth the poor in his affliction, and openeth their ears in oppression.
@@ -88,6 +85,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "justice", "the-law"]
 
 - As the people cry, the teachers must tell them why. Then they will cast away their crosses and white Jesus pieces as a menstruous cloth.
 
+
+*[[45:20](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=2720s)]* **In The News: A man vows to shoot any ICE agent who approaches him, others call for armed escorts for immigrants, and he later retracts, saying he meant equal force.** — This is not the way. Every armed movement failed; it only gives the government its Insurrection Act. The word of God is what changes the people.
 
 **[Deuteronomy 19:15](/bible/deuteronomy/19#v15)**  *[[53:04](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=3184s)]*
 
@@ -129,6 +128,10 @@ tags: ["IUIC in the ClassRoom", "adversity", "justice", "the-law"]
 
     Strive not in a matter that concerneth thee not.
 
+
+*[[1:18:54](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=4734s)]* **In The News: A white commentator says he would gladly give Black people 15 percent of the country, then mocks how Black people fight each other and tear down anyone better than them.** — America will be destroyed, not turned into a utopia. But the devil is right that the people tear each other down; pride and ego must go.
+
+*[[1:25:41](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=5141s)]* **In The News: IUIC's legal notice demanding retraction of defamatory statements and warning of legal action.** — False witness is slander. Those who spread lies about the ministry will have to prove them.
 
 **[Luke 6:27](/bible/luke/6#v27)**  *[[1:35:20](https://www.youtube.com/watch?v=xVwQNhmyxFw&t=5720s)]*
 

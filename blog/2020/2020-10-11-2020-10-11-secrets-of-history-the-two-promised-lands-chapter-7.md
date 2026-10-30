@@ -20,11 +20,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "spain-inquisition", "the-ame
 
 *[[20:34](https://www.youtube.com/watch?v=4vadD-QENH4&t=1234s)]* The Two Promised Lands, chapter 7, on the Our Hidden History radio show, with Captain Joel, Officer Jezreel and Officer Don: the Mayan slave ship La Union; the Mexican calendar, the Chichimecs named for Jacob's wrestling, and the Cuban account of the flood; then the Bering Strait theory taken apart. Europe's first writers on the Indians, Garcia and the friars Suarez de Peralta, Duran and Tovar, concluded they were Jews from their customs and their own accounts, and Columbus read 2 Esdras and Isaiah; Jose de Acosta dismissed his own informants and, with no evidence, said they walked over a land connection.
 
-## In The News
-
-- *[[21:18](https://www.youtube.com/watch?v=4vadD-QENH4&t=1278s)]* **CNN, September 2020, the rest of the article: La Union illegally captured and transported about 25 to 30 Mayans monthly to Cuba to work the sugar cane fields between 1855 and 1861, during the Caste War; each slave was sold to middlemen for 25 pesos and resold in Havana for as much as 160 pesos for men and 120 for women; the ship sank September 19, 1861, proving slavery continued despite being abolished in Mexico in 1829; half of the 80 crew and 60 passengers died, and it is unclear how many Mayan slaves died, as they were listed as cargo and merchandise** — Yucatan goes back to Joktan, son of Eber, a Hebrew name. Esau keeps the records of every ship. Our Mayan brothers were listed as cargo and merchandise, not passengers: property. Keep on doubting.
-- *[[1:18:52](https://www.youtube.com/watch?v=4vadD-QENH4&t=4732s)]* **An old dictionary, from the 1800s, on Ham: probably derived from a word meaning to be warmed, hot; confirmed by the Egyptian Kem, the land of Ham; Mizraim, the biblical name of Egypt, which the Arabs still call Misr; and Kem, which signifies black, given to it for the blackness of its alluvial soil** — Some say the Bible characters are fictional and run back to Egypt, but Egypt's gods were perverse and sexual, and Egypt was a homosexual nation. If the Bible is fiction, where do the terms Hamitic and Semitic come from? The progeny proves the progenitor.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -72,6 +67,8 @@ Reading from The same book, pages 184 to 186  *[[39:15](https://www.youtube.com/
 
 </div>
 
+
+*[[21:18](https://www.youtube.com/watch?v=4vadD-QENH4&t=1278s)]* **In The News: CNN, September 2020, the rest of the article: La Union illegally captured and transported about 25 to 30 Mayans monthly to Cuba to work the sugar cane fields between 1855 and 1861, during the Caste War; each slave was sold to middlemen for 25 pesos and resold in Havana for as much as 160 pesos for men and 120 for women; the ship sank September 19, 1861, proving slavery continued despite being abolished in Mexico in 1829; half of the 80 crew and 60 passengers died, and it is unclear how many Mayan slaves died, as they were listed as cargo and merchandise** — Yucatan goes back to Joktan, son of Eber, a Hebrew name. Esau keeps the records of every ship. Our Mayan brothers were listed as cargo and merchandise, not passengers: property. Keep on doubting.
 
 **[Amos 3:7](/bible/amos/3#v7)**  *[[50:11](https://www.youtube.com/watch?v=4vadD-QENH4&t=3011s)]*
 
@@ -263,6 +260,8 @@ Reading from The Jewish Encyclopedia: Arsareth  *[[2:21:00](https://www.youtube.
 
 </div>
 
+
+*[[1:18:52](https://www.youtube.com/watch?v=4vadD-QENH4&t=4732s)]* **In The News: An old dictionary, from the 1800s, on Ham: probably derived from a word meaning to be warmed, hot; confirmed by the Egyptian Kem, the land of Ham; Mizraim, the biblical name of Egypt, which the Arabs still call Misr; and Kem, which signifies black, given to it for the blackness of its alluvial soil** — Some say the Bible characters are fictional and run back to Egypt, but Egypt's gods were perverse and sexual, and Egypt was a homosexual nation. If the Bible is fiction, where do the terms Hamitic and Semitic come from? The progeny proves the progenitor.
 
 **[2 Esdras 13:41](/bible/2-esdras/13#v41)**  *[[2:22:52](https://www.youtube.com/watch?v=4vadD-QENH4&t=8572s)]*
 

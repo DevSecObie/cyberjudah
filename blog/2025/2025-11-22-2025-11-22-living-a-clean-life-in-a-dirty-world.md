@@ -19,14 +19,6 @@ tags: ["IUIC in the ClassRoom", "anger", "purpose", "sexual-purity", "the-word"]
 
 *[[1:18](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=78s)]* A class on living a clean life in a dirty world: the call of Revelation 18 to come out of her is a call out of America's sins, her politics, her religion and her holidays, and the class walks the scriptures that say how it is done — a mind renewed, the old man put off, the life cleansed and sanctified, and a walk kept in the spirit. Thanksgiving is a week away, and the pressure the holidays put on a young man in his parents' house is dealt with head on.
 
-## In The News
-
-- *[[26:45](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1605s)]* **A video on COINTELPRO and the Black Panthers' free medical clinics** — Federal agents posed as medical volunteers in Chicago and Oakland and replaced the medicine with poisoned alternatives; sick children and elderly people took it and the deaths were written down as natural causes. That is how far they will go to destroy us, even when we are minding our own business and serving our own community.
-- *[[28:34](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1714s)]* **A video on Israel buying up answers about the history of Christianity on ChatGPT and other AI systems** — Ninety million dollars to change ancient names to Israel and emphasize Jewish culture in the Bible, because Christian support for Israel in America is declining — and the administration you think loves you signed off on it.
-- *[[30:22](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1822s)]* **A video naming black women killed by white boyfriends and white husbands** — This is what happens when you hate your own people. They were not killed by white cops. When you sleep with the pig you wake up with fleas.
-- *[[34:25](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2065s)]* **A video on black women who leave the black man for the white man** — They leave the weaves, the lashes, the makeup and the loud mouth behind, because they know that man will not take any of it — they have to be the best kind of women to get the lowest white man.
-- *[[42:12](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2532s)]* **A video on Frederick Hoffman's Race Traits of 1896 and the fight over health care** — Deny black people health care, Hoffman argued, and the race dies out in two or three generations and the race problem is solved. Congress and the governors took him seriously, and that is why every single-payer plan from Teddy Roosevelt in 1912 to Kennedy in 1961 was shot down, and why the southern senators built a twenty percent gap into Medicare to keep poor black people out of all-white hospitals. America is also the only powerful country on the earth with no universal health care and the most expensive medication on it.
-
 ## Scriptures Opened
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[3:11](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=191s)]*
@@ -163,6 +155,14 @@ Reading from the article *Abortion is killing the black community: this is not h
 </div>
 
 
+*[[26:45](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1605s)]* **In The News: A video on COINTELPRO and the Black Panthers' free medical clinics** — Federal agents posed as medical volunteers in Chicago and Oakland and replaced the medicine with poisoned alternatives; sick children and elderly people took it and the deaths were written down as natural causes. That is how far they will go to destroy us, even when we are minding our own business and serving our own community.
+
+*[[28:34](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1714s)]* **In The News: A video on Israel buying up answers about the history of Christianity on ChatGPT and other AI systems** — Ninety million dollars to change ancient names to Israel and emphasize Jewish culture in the Bible, because Christian support for Israel in America is declining — and the administration you think loves you signed off on it.
+
+*[[30:22](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=1822s)]* **In The News: A video naming black women killed by white boyfriends and white husbands** — This is what happens when you hate your own people. They were not killed by white cops. When you sleep with the pig you wake up with fleas.
+
+*[[34:25](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2065s)]* **In The News: A video on black women who leave the black man for the white man** — They leave the weaves, the lashes, the makeup and the loud mouth behind, because they know that man will not take any of it — they have to be the best kind of women to get the lowest white man.
+
 **[Matthew 18:3](/bible/matthew/18#v3)**  *[[39:08](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2348s)]*
 
 > <sup>[3](/bible/matthew/18#v3)</sup> And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.
@@ -193,6 +193,8 @@ Reading from the article *Abortion is killing the black community: this is not h
 
 - Whosoever will save his life shall lose it, and whosoever will lose his life for my sake shall find it — find it in the kingdom.
 
+
+*[[42:12](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2532s)]* **In The News: A video on Frederick Hoffman's Race Traits of 1896 and the fight over health care** — Deny black people health care, Hoffman argued, and the race dies out in two or three generations and the race problem is solved. Congress and the governors took him seriously, and that is why every single-payer plan from Teddy Roosevelt in 1912 to Kennedy in 1961 was shot down, and why the southern senators built a twenty percent gap into Medicare to keep poor black people out of all-white hospitals. America is also the only powerful country on the earth with no universal health care and the most expensive medication on it.
 
 **[Matthew 10:36-39](/bible/matthew/10#v36)**  *[[46:37](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2797s)]*
 

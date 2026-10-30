@@ -19,10 +19,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "prayer", "pride", "repentance", "t
 
 *[[7:13](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=433s)]* A New Moon night class from a deacon on the seed, the tree and the fruit. Starting from the law against sowing a vineyard with divers seeds, the deacon uses Malcolm X's own explanation of why a movement grows only when the season of oppression makes minds fertile, then shows the same principle in Isaiah 30: affliction is the season in which God sends teachers and rain. The word of God is the seed, the teachers water it, God gives the increase, and every tree that grows from it is expected to bear the fruits of the Spirit. A fig tree with leaves and no fruit gets cut down.
 
-## In The News
-
-- *[[14:48](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=888s)]* **Malcolm X, asked why the Nation of Islam grew so fast after thirty-three years on Harlem street corners with nobody listening, answers that a seed stays beneath the soil until the season changes, and that political, social and economic conditions had made Black minds fertile for the seed that had been planted for decades.** — The Nation of Islam is idolatry, but the analogy holds: the seed only springs up in its season, and that season is oppression. The camp has taught in the street for years without yet seeing the abundance, and now Trump's America, the marching Nazis and the detentions are making our people's minds receptive.
-
 ## Scriptures Opened
 
 **[2 Thessalonians 2:13](/bible/2-thessalonians/2#v13)**  *[[0:48](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=48s)]*
@@ -58,6 +54,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "prayer", "pride", "repentance", "t
 
     My son, keep the flower of thine age sound, and give not thy strength to strangers. When thou hast gotten a fruitful possession, sow it with thine own seed, trusting in the goodness of thy stock; so thy race shall be magnified, having the confidence of their good descent. A brother who gets money and marries a heathen gives his strength to strangers; sow among your own people and your race is magnified.
 
+
+*[[14:48](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=888s)]* **In The News: Malcolm X, asked why the Nation of Islam grew so fast after thirty-three years on Harlem street corners with nobody listening, answers that a seed stays beneath the soil until the season changes, and that political, social and economic conditions had made Black minds fertile for the seed that had been planted for decades.** — The Nation of Islam is idolatry, but the analogy holds: the seed only springs up in its season, and that season is oppression. The camp has taught in the street for years without yet seeing the abundance, and now Trump's America, the marching Nazis and the detentions are making our people's minds receptive.
 
 **[1 Corinthians 4:9](/bible/1-corinthians/4#v9)**  *[[21:14](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=1274s)]*
 

@@ -20,11 +20,6 @@ tags: ["IUIC in the ClassRoom", "media", "nations", "prophecy", "repentance", "t
 
 *[[1:19](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=79s)]* The second part of this Writings on the Wall Radio broadcast from IUIC Tallahassee, Captain Mattathias with his officers, among them Officer David and Officer Elijah, covering the show for the deacon. Picking up from the first part, they go through the news (the floods, the Champlain Towers collapse in South Florida, the water protests in Iran, Lala Anthony's post about her son, the violence in South Africa, and an Iranian commander urging attacks on US forces) and show where each stands in Bible prophecy: "What are we seeing on the earth? Bible prophecy come to pass right before our eyes in these last days."
 
-## In The News
-
-- *[[14:47](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=887s)]* **Video of the water and electricity protests in Iran** — We're seeing famine in the earth; these things are breaking out all over the earth.
-- *[[40:23](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=2423s)]* **Video from South Africa of shop owners firing on South Africans** — One group has sticks and rocks and the other has shotguns and bullets: they're hunting us. They were given power over the dark nations.
-
 ## Scriptures Opened
 
 **[Isaiah 29:6](/bible/isaiah/29#v6)**  *[[1:19](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=79s)]*
@@ -141,6 +136,8 @@ Reading from RT News, on the protests in Iran  *[[14:47](https://www.youtube.com
 
 </div>
 
+
+*[[14:47](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=887s)]* **In The News: Video of the water and electricity protests in Iran** — We're seeing famine in the earth; these things are breaking out all over the earth.
 
 **[2 Esdras 15:5](/bible/2-esdras/15#v5)**  *[[16:27](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=987s)]*
 
@@ -332,6 +329,8 @@ Reading from RT News, on the violence in South Africa  *[[36:12](https://www.you
 
 - Why are the whites and Indians in South Africa in the first place? Because they were given power. They're trying to put us to death over there.
 
+
+*[[40:23](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=2423s)]* **In The News: Video from South Africa of shop owners firing on South Africans** — One group has sticks and rocks and the other has shotguns and bullets: they're hunting us. They were given power over the dark nations.
 
 **[2 Esdras 5:8](/bible/2-esdras/5#v8)**  *[[41:34](https://www.youtube.com/watch?v=AjxtNCUQtCI&t=2494s)]*
 

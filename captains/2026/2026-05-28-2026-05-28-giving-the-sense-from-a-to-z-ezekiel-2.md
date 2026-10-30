@@ -20,15 +20,6 @@ tags: ["15 Minutes w/ The Captains", "faith"]
 
 *[[7:16](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=436s)]* Shalom, shalom. Most High and Christ bless. Most High and Christ bless. Welcome to another edition of 15 minutes with the captains. I'm Captain Uri and today we are going to be going over Ezekiel chapter 2. We're going to start off with the scripture that we always start off with, Nehemiah chapter 8 and verse 8. Let's get ready to give the sense.
 
-## In The News
-
-- *[[41:36](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2496s)]* **Video of brothers teaching in the street, opening with "The ox knoweth his owner"** — This is what Ezekiel is talking about. This is what the Lord is telling Ezekiel that he got to go do. He got to go to people like this.
-- *[[45:40](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2740s)]* **Video of a gunshot and a man who said he's a pastor trying to run the brothers over with his car** — To this very day. Why? Because we are going to the stiff-neck.
-- *[[51:10](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3070s)]* **Video from Kenya of brothers stoned while teaching outside a church** — That is a stiff-necked and rebellious people. They hate to hear God's word and they hate that it's coming from a son of man. A black man that look just like them.
-- *[[1:01:42](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3702s)]* **On screen: Bishop Nathanyel interviewed by Soft White Underbelly, a channel with almost 7 million followers** — This is a signaling of the end of the world. The Israelites are on a major, major platform. For some it's just going to be a lovely song.
-- *[[1:11:00](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=4260s)]* **Video from Papua New Guinea of a man in a black suit confronting the brothers** — More of what a prophet got to endure. That's what prophets got to go through.
-- *[[1:15:48](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=4548s)]* **More of the Papua New Guinea video: "They are cannibals, sir. They will eat you alive."** — That's what Paul said. He said we had the sentence of death in ourselves.
-
 ## Scriptures Opened
 
 **[Nehemiah 8:8](/bible/nehemiah/8#v8)**  *[[9:02](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=542s)]*
@@ -360,6 +351,8 @@ Reading from the book (title not given on air), entry on Ezekiel  *[[30:36](http
 - Until the wrath of the Lord arose against his people, till there was no remedy: Now, as you see, the life of a prophet is a dangerous life. You get a charge of the Lord, the spirit dwells within you, it puts you on your feet, you learn the laws of God, you teach your people. And then it says, "But you will be misused." And the reason that the Lord sends his prophet is because he loves and has compassion on his people. Huh? Play the video.
 
 
+*[[41:36](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2496s)]* **In The News: Video of brothers teaching in the street, opening with "The ox knoweth his owner"** — This is what Ezekiel is talking about. This is what the Lord is telling Ezekiel that he got to go do. He got to go to people like this.
+
 **[Ezekiel 2:3-4](/bible/ezekiel/2#v3)**  *[[43:59](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2639s)]*
 
 > <sup>[3](/bible/ezekiel/2#v3)</sup> And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day.
@@ -374,6 +367,8 @@ Reading from the book (title not given on air), entry on Ezekiel  *[[30:36](http
 
 - Even unto this very day: And don't forget, look for that online, what happened in Kenya as well. The stoning in Kenya. Why? Because we are going to the stiff-neck. Go to Deuteronomy chapter 10 and verse 16. This is what we have to tell them.
 
+
+*[[45:40](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2740s)]* **In The News: Video of a gunshot and a man who said he's a pastor trying to run the brothers over with his car** — To this very day. Why? Because we are going to the stiff-neck.
 
 **[Deuteronomy 10:16](/bible/deuteronomy/10#v16)**  *[[47:24](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2844s)]*
 
@@ -418,6 +413,8 @@ Reading from the book (title not given on air), entry on Ezekiel  *[[30:36](http
 
 - But every man a liar: That is a stiff-necked and rebellious people. They hate to hear God's word and they hate that it's coming from a son of man. A black man that look just like them. Oh, hell no. You not white, it ain't right. Let's move on. Go to 2 Esdras chapter 15 and verse 1. Still dealing with their unbelief and if we give a damn.
 
+
+*[[51:10](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3070s)]* **In The News: Video from Kenya of brothers stoned while teaching outside a church** — That is a stiff-necked and rebellious people. They hate to hear God's word and they hate that it's coming from a son of man. A black man that look just like them.
 
 **[2 Esdras 15:1-4](/bible/2-esdras/15#v1)**  *[[52:58](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3178s)]*
 
@@ -523,6 +520,8 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 - Then shall they know that a prophet hath been among them: When they see that sky crack, when they see them missiles drop, when they see them nukes go off, they going to be like, "I remember seeing that interview on that channel with that guy, and he said this was going to happen. I remember driving past them Israelites on every corner around the world, and they said this was going to happen." When the black Messiah come through the sky, nobody can say that they didn't know. You knew. And you were unwilling to change. That's the two-thirds. Let's go back. Read verse 6.
 
 
+*[[1:01:42](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3702s)]* **In The News: On screen: Bishop Nathanyel interviewed by Soft White Underbelly, a channel with almost 7 million followers** — This is a signaling of the end of the world. The Israelites are on a major, major platform. For some it's just going to be a lovely song.
+
 **[Ezekiel 2:6](/bible/ezekiel/2#v6)**  *[[1:05:59](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3959s)]*
 
 > <sup>[6](/bible/ezekiel/2#v6)</sup> And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house.
@@ -570,6 +569,8 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 - But rather fear him which is able to destroy both soul and body in hell: He said it to his face. To his face. Now, you see that blur behind him? That doesn't do it justice to how many people was really out there. That was when the guy first started, the dude in the black suit. It was about 600 Papua New Guineans out there from the tribe of Naphtali. And they was not all happy with us. It was about to go down. This is why the Lord said don't fear, because you're going to be in situations. You're going to be in situations, y'all. But that's what prophets got to endure. Go to 2 Corinthians. Paul told us the mindset that you had to have. That Ezekiel had to have, too.
 
 
+*[[1:11:00](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=4260s)]* **In The News: Video from Papua New Guinea of a man in a black suit confronting the brothers** — More of what a prophet got to endure. That's what prophets got to go through.
+
 **[2 Corinthians 1:8-9](/bible/2-corinthians/1#v8)**  *[[1:13:03](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=4383s)]*
 
 > <sup>[8](/bible/2-corinthians/1#v8)</sup> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
@@ -594,6 +595,8 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 
     Cuz Romans 15:4 says things that were written aforetime was written for our learning. We learned that the prophets go through these things. We learned that the prophets go through struggle, pain, suffering.
 
+
+*[[1:15:48](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=4548s)]* **In The News: More of the Papua New Guinea video: "They are cannibals, sir. They will eat you alive."** — That's what Paul said. He said we had the sentence of death in ourselves.
 
 **[Ezekiel 2:6](/bible/ezekiel/2#v6)**  *[[1:16:37](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=4597s)]*
 

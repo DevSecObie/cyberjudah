@@ -19,17 +19,6 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 
 *[[11:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=713s)]* Bishop Nathanyel takes the title from Genesis 25:26, where Jacob's hand takes hold of Esau's heel, and 2 Esdras 6:9, which says Esau is the end of the world and Jacob the beginning of what follows. The class opens on the pastors who scatter God's sheep and refuse Christ's justice, moves through Asaph's envy of the prosperous wicked and the image of the beast, then traces Esau from the womb through Alexander, Rome, NATO and America using Daniel 2, Daniel 7, Daniel 8 and the scholars' own books, before closing on Job 5, Psalm 91 and Job 20: the stone strikes the feet, the wicked flee the iron weapon, and everything Edom took is restored.
 
-## In The News
-
-- *[[32:27](https://www.youtube.com/watch?v=QNTH14obhzs&t=1947s)]* **A Black megachurch service that looks like a rap concert, followed by a white commentator saying ninety to ninety-five percent of the Black church in America is heretical and should be split up so its members can find a God-fearing white church with biblically qualified men.** — That is the white man's solution, and the Black apologetics online agree with him without a single video against it. If the Black church stood for truth and justice, the FBI, the ADL and the SPLC would have been on it like every other Black group that stood up.
-- *[[38:54](https://www.youtube.com/watch?v=QNTH14obhzs&t=2334s)]* **A painting of a Black Mary and a Black infant Christ set beside the adult white Jesus.** — The baby grows up and somehow becomes a white man, and nobody sees anything wrong with it. That is the wicked covering the faces of the judges.
-- *[[44:37](https://www.youtube.com/watch?v=QNTH14obhzs&t=2677s)]* **A collage of Black men, women and children killed by police and vigilantes.** — Violence covers him as a garment. Christians could care less about these people; we talk about them.
-- *[[51:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=3113s)]* **A young white commentator asks why anyone celebrates Martin Luther King Day, citing FBI files alleging affairs, orgies and King laughing while a pastor assaulted a woman.** — This is how they speak loftily concerning oppression. Decades after his death they open FBI files, which of course never lie, to besmirch the man Black people look up to, and Black Christians join the song and dance.
-- *[[53:41](https://www.youtube.com/watch?v=QNTH14obhzs&t=3221s)]* **A monologue on how Europeans traumatized every continent, enslaving cosmologies as well as bodies, breaking treaties by lunch and displaying the pieces in museums, and building institutions so the trauma reproduces across generations.** — The trauma this white man caused has multiplied from way back until now. It is why America does not speak against Israel's genocide: go forth and conquer, my brother.
-- *[[2:02:44](https://www.youtube.com/watch?v=QNTH14obhzs&t=7364s)]* **A church chart of Daniel's four beasts that gets the lion, bear and leopard right and invents a monster for the fourth.** — Esau knows the fourth beast is the eagle from 2 Esdras 12, but he knows Black Christians do not read, so he drew a made-up creature to throw them off.
-- *[[2:43:26](https://www.youtube.com/watch?v=QNTH14obhzs&t=9806s)]* **The back of the dollar bill: the unfinished pyramid with the eye, 'Annuit Coeptis' meaning our enterprise succeeds, and 'Novus Ordo Seclorum,' new order of the ages.** — The pyramid is not complete. They have not finished what they set out to do, which is wipe us out, and God disappoints the devices of the crafty so their hands cannot perform their enterprise.
-- *[[3:07:11](https://www.youtube.com/watch?v=QNTH14obhzs&t=11231s)]* **An Indian scholar rebukes an American woman questioning his country's temples: a descendant of a genocidal people whose nation stands on the dead bodies of Native Americans has no right to sit as judge over anyone's history.** — You have to go overseas to hear common sense. That is the point about the UN and its courts: murderers of millions setting up to decide right and wrong.
-
 ## Scriptures Opened
 
 **[Jeremiah 23:1-15](/bible/jeremiah/23#v1)**  *[[13:22](https://www.youtube.com/watch?v=QNTH14obhzs&t=802s)]*
@@ -124,6 +113,8 @@ Reading from the definition of *profane*, then its meaning in the Bible, pulled 
 > It means defiling or polluting God's name, Sabbath, or sanctuary.
 
 </div>
+
+*[[32:27](https://www.youtube.com/watch?v=QNTH14obhzs&t=1947s)]* **In The News: A Black megachurch service that looks like a rap concert, followed by a white commentator saying ninety to ninety-five percent of the Black church in America is heretical and should be split up so its members can find a God-fearing white church with biblically qualified men.** — That is the white man's solution, and the Black apologetics online agree with him without a single video against it. If the Black church stood for truth and justice, the FBI, the ADL and the SPLC would have been on it like every other Black group that stood up.
 
 **[Acts 7:37-38](/bible/acts/7#v37)**  *[[34:48](https://www.youtube.com/watch?v=QNTH14obhzs&t=2088s)]*
 
@@ -282,6 +273,14 @@ Reading from an on-screen report on US bombing in 2016  *[[50:10](https://www.yo
 - They should be a hate group. So this goes into them speaking loftily.
 
 </div>
+
+*[[38:54](https://www.youtube.com/watch?v=QNTH14obhzs&t=2334s)]* **In The News: A painting of a Black Mary and a Black infant Christ set beside the adult white Jesus.** — The baby grows up and somehow becomes a white man, and nobody sees anything wrong with it. That is the wicked covering the faces of the judges.
+
+*[[44:37](https://www.youtube.com/watch?v=QNTH14obhzs&t=2677s)]* **In The News: A collage of Black men, women and children killed by police and vigilantes.** — Violence covers him as a garment. Christians could care less about these people; we talk about them.
+
+*[[51:53](https://www.youtube.com/watch?v=QNTH14obhzs&t=3113s)]* **In The News: A young white commentator asks why anyone celebrates Martin Luther King Day, citing FBI files alleging affairs, orgies and King laughing while a pastor assaulted a woman.** — This is how they speak loftily concerning oppression. Decades after his death they open FBI files, which of course never lie, to besmirch the man Black people look up to, and Black Christians join the song and dance.
+
+*[[53:41](https://www.youtube.com/watch?v=QNTH14obhzs&t=3221s)]* **In The News: A monologue on how Europeans traumatized every continent, enslaving cosmologies as well as bodies, breaking treaties by lunch and displaying the pieces in museums, and building institutions so the trauma reproduces across generations.** — The trauma this white man caused has multiplied from way back until now. It is why America does not speak against Israel's genocide: go forth and conquer, my brother.
 
 **[Revelation 13:14-15](/bible/revelation/13#v14)**  *[[1:02:56](https://www.youtube.com/watch?v=QNTH14obhzs&t=3776s)]*
 
@@ -661,6 +660,8 @@ Reading from *Modern Judaism* by John Allen, continued · read by Captain Uri  *
     He shall speak great words against the Most High, wear out the saints, and think to change times and laws: daylight saving, a year that begins in dead winter, same-sex marriage, the Sabbath moved to the first day. The saints are given into his hand until a time, times and the dividing of time.
 
 
+*[[2:02:44](https://www.youtube.com/watch?v=QNTH14obhzs&t=7364s)]* **In The News: A church chart of Daniel's four beasts that gets the lion, bear and leopard right and invents a monster for the fourth.** — Esau knows the fourth beast is the eagle from 2 Esdras 12, but he knows Black Christians do not read, so he drew a made-up creature to throw them off.
+
 **[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[2:06:21](https://www.youtube.com/watch?v=QNTH14obhzs&t=7581s)]*
 
 > <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
@@ -937,6 +938,8 @@ Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www
     Thy people also shall be all righteous; they shall inherit the land for ever. A little one shall become a thousand: the Lord will bring certain spirits back quickly through marriage and childbearing.
 
 
+*[[2:43:26](https://www.youtube.com/watch?v=QNTH14obhzs&t=9806s)]* **In The News: The back of the dollar bill: the unfinished pyramid with the eye, 'Annuit Coeptis' meaning our enterprise succeeds, and 'Novus Ordo Seclorum,' new order of the ages.** — The pyramid is not complete. They have not finished what they set out to do, which is wipe us out, and God disappoints the devices of the crafty so their hands cannot perform their enterprise.
+
 **[Psalms 91:1-16](/bible/psalms/91#v1)**  *[[2:51:20](https://www.youtube.com/watch?v=QNTH14obhzs&t=10280s)]*
 
 > <sup>[1](/bible/psalms/91#v1)</sup> He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
@@ -1073,6 +1076,8 @@ Reading from an on-screen summary of the Board of Peace  *[[2:27:15](https://www
 
 - The Most High caused him to build the very weapon that ends it. He has the whole scene in his hands.
 
+
+*[[3:07:11](https://www.youtube.com/watch?v=QNTH14obhzs&t=11231s)]* **In The News: An Indian scholar rebukes an American woman questioning his country's temples: a descendant of a genocidal people whose nation stands on the dead bodies of Native Americans has no right to sit as judge over anyone's history.** — You have to go overseas to hear common sense. That is the point about the UN and its courts: murderers of millions setting up to decide right and wrong.
 
 ## Class Questions
 

@@ -19,10 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "nations", "purpose", "the-la
 
 *[[7:04](https://www.youtube.com/watch?v=XOMlLvwK8mI&t=424s)]* Navigating through Paul's letters: a walk through Galatians, continuing a series that began with Acts 10, Romans 11, and Romans 3 through 5. Peter vouched for all of Paul's epistles as written by the wisdom given him, hard to be understood, and twisted by the unlearned and unstable. The class works Galatians 1 through 4 verse by verse: the gospel is exclusive to Israel and any other gospel is accursed; the Gentiles Paul writes to are the dispersed Israelites among the nations; the works of the law that no man is justified by are the sacrificial law of Nehemiah 10:33; the curse of the law is death, which Christ took by hanging on a tree; the schoolmaster, the bondage, and the weak and beggarly elements are animal sacrifice, which the Pharisees kept trying to bring the churches back into; and Peter's first letter names the strangers scattered in Galatia a chosen generation and a holy nation.
 
-## In The News
-
-- *[[1:38:25](https://www.youtube.com/watch?v=XOMlLvwK8mI&t=5905s)]* **An AI answer on the term Antiochians, read on screen.** — In 175 BC Jason bribed Antiochus IV to turn Jerusalem into a Greek-style polis and enrol its people as citizens of Antioch. Registered Israelites were called Antiochians, a betrayal of their ancestral laws and a shift to the Greek way of life that triggered the Maccabean revolt. Antiochian and Greek are synonymous, so neither Jew nor Greek is written to those Israelites' descendants.
-
 ## Scriptures Opened
 
 **[Nehemiah 10:33](/bible/nehemiah/10#v33)**  *[[7:50](https://www.youtube.com/watch?v=XOMlLvwK8mI&t=470s)]*
@@ -340,6 +336,8 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "nations", "purpose", "the-la
 
     When Antiochus Epiphanes took the kingdom, Jason the brother of Onias laboured underhand to be high priest, promising the king three hundred and threescore talents of silver and eighty more, and a hundred and fifty more if he might set him up a place for exercise, a gym, for the training up of youth in the fashions of the heathen, and write them of Jerusalem by the name of Antiochians. A wicked Israelite who took a Greek name, bribed the white man to remove his righteous brother, and Greekified the youth. When a man seeks leadership, he usually is not meant to lead.
 
+
+*[[1:38:25](https://www.youtube.com/watch?v=XOMlLvwK8mI&t=5905s)]* **In The News: An AI answer on the term Antiochians, read on screen.** — In 175 BC Jason bribed Antiochus IV to turn Jerusalem into a Greek-style polis and enrol its people as citizens of Antioch. Registered Israelites were called Antiochians, a betrayal of their ancestral laws and a shift to the Greek way of life that triggered the Maccabean revolt. Antiochian and Greek are synonymous, so neither Jew nor Greek is written to those Israelites' descendants.
 
 **[Galatians 4:1-10](/bible/galatians/4#v1)**  *[[1:43:18](https://www.youtube.com/watch?v=XOMlLvwK8mI&t=6198s)]*
 

@@ -20,11 +20,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "nations", "the-americas", "unity"]
 
 *[[7:42](https://www.youtube.com/watch?v=HQwNyXObaeM&t=462s)]* The Two Promised Lands, chapter 6, on the Our Hidden History radio show, with Captain Joel, Officer Don and Officer Jezreel: the North American Indians and the slave trade. Before the Europeans, Indian servitude was temporary, like the law's hired servant; the white man changed it into slavery forever, shipped Indians to the sugar islands, and turned the tribes against each other. The so-called civilized tribes, led by mixed bloods, held black slaves, as Israel once enslaved Judah in 2 Chronicles 28, and Judah and Gad walked the Trail of Tears together. Then Kingsborough: the Mexicans knew Isaiah, the brazen serpent and the coming Messiah, and their very name, Mexi, is the Hebrew for anointed.
 
-## In The News
-
-- *[[1:07:22](https://www.youtube.com/watch?v=HQwNyXObaeM&t=4042s)]* **CNN, September 19, 2020: archaeologists in Mexico confirm a shipwreck off the Yucatan Peninsula once carried captured Mayans sold into slavery, the first Mayan slave ship ever discovered, according to Mexico's National Institute of Anthropology and History; the paddlewheel steamboat La Union, found two nautical miles from Sisal in 2017** — We bring out this history and this comes out the same season. There is a God. You black-only Israelites who say the northern kingdom wasn't put on slave ships: the Arawaks and the Native American Indians were brought to Seville, Spain and Portugal on slave ships, and now a Mayan slave ship.
-- *[[1:36:45](https://www.youtube.com/watch?v=HQwNyXObaeM&t=5805s)]* **Photos: a Hampton University classroom of Native American and black students in uniform being taught agriculture; Carlisle Indian School students before, in their traditional garments, and after, with their hair cut and dressed like Europeans; and the children sitting in front of the big house** — Slave education, the board of the dead. The children who resisted were buried under that field, hundreds of miles from their homes, and when a Gadite student rebelled they cut off his hair to humiliate him.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -239,6 +234,8 @@ Reading from Slavery and Native Americans: the Trail of Tears and slavery  *[[1:
 </div>
 
 
+*[[1:07:22](https://www.youtube.com/watch?v=HQwNyXObaeM&t=4042s)]* **In The News: CNN, September 19, 2020: archaeologists in Mexico confirm a shipwreck off the Yucatan Peninsula once carried captured Mayans sold into slavery, the first Mayan slave ship ever discovered, according to Mexico's National Institute of Anthropology and History; the paddlewheel steamboat La Union, found two nautical miles from Sisal in 2017** — We bring out this history and this comes out the same season. There is a God. You black-only Israelites who say the northern kingdom wasn't put on slave ships: the Arawaks and the Native American Indians were brought to Seville, Spain and Portugal on slave ships, and now a Mayan slave ship.
+
 **[Isaiah 63:16](/bible/isaiah/63#v16)**  *[[1:29:28](https://www.youtube.com/watch?v=HQwNyXObaeM&t=5368s)]*
 
 > <sup>[16](/bible/isaiah/63#v16)</sup> Doubtless thou art our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O Lord, art our father, our redeemer; thy name is from everlasting.
@@ -289,6 +286,8 @@ Reading from Lord Kingsborough, volume 8, page 176 on  *[[1:42:25](https://www.y
 
 </div>
 
+
+*[[1:36:45](https://www.youtube.com/watch?v=HQwNyXObaeM&t=5805s)]* **In The News: Photos: a Hampton University classroom of Native American and black students in uniform being taught agriculture; Carlisle Indian School students before, in their traditional garments, and after, with their hair cut and dressed like Europeans; and the children sitting in front of the big house** — Slave education, the board of the dead. The children who resisted were buried under that field, hundreds of miles from their homes, and when a Gadite student rebelled they cut off his hair to humiliate him.
 
 **[Revelation 7:9](/bible/revelation/7#v9)**  *[[1:50:54](https://www.youtube.com/watch?v=HQwNyXObaeM&t=6654s)]*
 

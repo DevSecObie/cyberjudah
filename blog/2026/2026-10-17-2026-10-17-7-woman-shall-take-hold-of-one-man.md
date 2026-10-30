@@ -19,13 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
 *[[10:33](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=633s)]* Seven women shall take hold of one man (Isaiah 4:1): not orgies and not multiple wives, but the women who come out of the liberal, careless ways of Babylon and take hold of the men of God, the leaders, to be called by their name, Israel, and have their reproach taken away. Before the topic, a word on prophetesses from a question asked the night before at the feast: there are women prophets, but there is a divine order.
 
-## In The News
-
-- *[[1:05:41](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=3941s)]* **A report that the Department of Justice is dropping 57 school desegregation cases, most of them in the South** — The liberal things are failing: the desegregation laws the black woman trusted in, the education she says the white man gave her, are coming to an end.
-- *[[1:08:24](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=4104s)]* **A report on the White House cutting hundreds of thousands of people from Obamacare health plans, with JD Vance on rooting out fraud** — The free Medicaid and healthcare are being cut and tied to work; all the liberal things shall fail, and God is doing it to make the women that are at ease rise up.
-- *[[1:22:43](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=4963s)]* **A CNN report that the US military is preparing to deploy the MOAB, the mother of all bombs, against Iran** — Wars and rumors of wars, the beginning of sorrows; that bomb was created for China too.
-- *[[1:29:21](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=5361s)]* **Elon Musk's former partner saying she was offered $40 million not to speak, and that he texted her they need a legion of children before the civil war** — Elon is not crazy; he knows a civil war is coming and is preparing, and may be stoking it. But it is not him causing it: God is the one behind it (Isaiah 19:2).
-
 ## Scriptures Opened
 
 **[2 Chronicles 34:22-24](/bible/2-chronicles/34#v22)**  *[[11:37](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=697s)]*
@@ -308,6 +301,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 - The vintage shall fail: the food stamps, the Medicaid, the government taking care of you, it's coming to an end. Tremble, ye women that are at ease; death, destruction, war and famine are coming.
 
 
+*[[1:05:41](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=3941s)]* **In The News: A report that the Department of Justice is dropping 57 school desegregation cases, most of them in the South** — The liberal things are failing: the desegregation laws the black woman trusted in, the education she says the white man gave her, are coming to an end.
+
+*[[1:08:24](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=4104s)]* **In The News: A report on the White House cutting hundreds of thousands of people from Obamacare health plans, with JD Vance on rooting out fraud** — The free Medicaid and healthcare are being cut and tied to work; all the liberal things shall fail, and God is doing it to make the women that are at ease rise up.
+
 **[Isaiah 3:16-26](/bible/isaiah/3#v16)**  *[[1:10:04](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=4204s)]*
 
 > <sup>[16](/bible/isaiah/3#v16)</sup> Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:
@@ -397,6 +394,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 - These are the beginning of sorrows: what you see happening in the world right now is just the beginning.
 
 
+*[[1:22:43](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=4963s)]* **In The News: A CNN report that the US military is preparing to deploy the MOAB, the mother of all bombs, against Iran** — Wars and rumors of wars, the beginning of sorrows; that bomb was created for China too.
+
 **[Isaiah 19:1-2](/bible/isaiah/19#v1)**  *[[1:24:40](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=5080s)]*
 
 > <sup>[1](/bible/isaiah/19#v1)</sup> The burden of Egypt. Behold, the Lord rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
@@ -413,6 +412,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "prophecy", "wa
 
 - City against city and kingdom against kingdom: cities will fight cities in America, and Europe will fight against America. That's the Bible prophecy.
 
+
+*[[1:29:21](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=5361s)]* **In The News: Elon Musk's former partner saying she was offered $40 million not to speak, and that he texted her they need a legion of children before the civil war** — Elon is not crazy; he knows a civil war is coming and is preparing, and may be stoking it. But it is not him causing it: God is the one behind it (Isaiah 19:2).
 
 **[1 Corinthians 7:24-32](/bible/1-corinthians/7#v24)**  *[[1:34:02](https://www.youtube.com/watch?v=sKz9EEvapQ8&t=5642s)]*
 

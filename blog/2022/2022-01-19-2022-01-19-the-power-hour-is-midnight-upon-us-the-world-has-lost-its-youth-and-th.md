@@ -20,12 +20,9 @@ tags: ["IUIC in the ClassRoom", "prayer", "salvation", "wisdom", "youth"]
 
 *[[5:46](https://www.youtube.com/watch?v=CfC9D-v8QdQ&t=346s)]* The Power Hour from IUIC Phoenix, the late edition, hosted by Captain Yoshua with officers, starting late after technical trouble: is midnight upon us? A Guardian article on the Doomsday Clock of the Bulletin of the Atomic Scientists shows the nations know their end comes by nuclear fire, and the clock itself is in the scriptures. The world has lost its youth and the times wax old, but it is their civilization that ends, not the earth, which was made for Israel's sake. So set your house in order.
 
-## In The News
-
-- *[[13:28](https://www.youtube.com/watch?v=CfC9D-v8QdQ&t=808s)]* **The Guardian: the Doomsday Clock panel set to reveal the risk of global catastrophe, 75 years after the Bulletin of the Atomic Scientists was founded by Einstein and Manhattan Project scientists; stuck at 100 seconds to midnight** — They study this Bible and pay scholars for it. It's not human civilization going extinct; it's their race, after they serve their servitude.
-- *[[1:42:32](https://www.youtube.com/watch?v=CfC9D-v8QdQ&t=6152s)]* **The Bulletin's timeline of the clock, from seven minutes to midnight in 1947 through the H-bomb, the Cuban missile crisis, the end of the Cold War and North Korea, to two minutes** — Every move revolves around nukes: they understand the end comes through nuclear destruction.
-
 ## Scriptures Opened
+
+*[[13:28](https://www.youtube.com/watch?v=CfC9D-v8QdQ&t=808s)]* **In The News: The Guardian: the Doomsday Clock panel set to reveal the risk of global catastrophe, 75 years after the Bulletin of the Atomic Scientists was founded by Einstein and Manhattan Project scientists; stuck at 100 seconds to midnight** — They study this Bible and pay scholars for it. It's not human civilization going extinct; it's their race, after they serve their servitude.
 
 **[Job 33:15](/bible/job/33#v15)**  *[[23:57](https://www.youtube.com/watch?v=CfC9D-v8QdQ&t=1437s)]*
 
@@ -347,6 +344,8 @@ tags: ["IUIC in the ClassRoom", "prayer", "salvation", "wisdom", "youth"]
 
     The heart of the prudent will understand a parable; and an attentive ear is the desire of a wise man.
 
+
+*[[1:42:32](https://www.youtube.com/watch?v=CfC9D-v8QdQ&t=6152s)]* **In The News: The Bulletin's timeline of the clock, from seven minutes to midnight in 1947 through the H-bomb, the Cuban missile crisis, the end of the Cold War and North Korea, to two minutes** — Every move revolves around nukes: they understand the end comes through nuclear destruction.
 
 **[1 Thessalonians 5:1](/bible/1-thessalonians/5#v1)**  *[[1:58:11](https://www.youtube.com/watch?v=CfC9D-v8QdQ&t=7091s)]*
 

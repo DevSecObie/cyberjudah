@@ -19,13 +19,6 @@ tags: ["IUIC in the ClassRoom", "egypt", "mental-health", "so-called-jews", "spa
 
 *[[4:12](https://www.youtube.com/watch?v=PkFnZPllE5w&t=252s)]* Israel came out of Egypt with their bodies free and their minds still in bondage, and the same mind is on black people and Hispanics now: defending the oppressor, denying who they are, and taking Christianity in the place of the law. The class walks the murmurings of the Exodus, the curses of Deuteronomy 28 and the prophets to show that diaspora, ghetto and lost identity are words that were coined on Israel and belong to Israel.
 
-## In The News
-
-- *[[30:57](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1857s)]* **A debate between Mark Viser and a group of Israelites, from 54:30 to 55:35** — He argues that no one in the Old Testament ever thought there was a prophecy of Israel losing her identity and having it restored, and that to call yourself an Israelite is a rewriting of your entire history. His whole agenda is to convince us that we are a bunch of Africans trying to be Israelites. If we are not the Israelites, who is? Look at his complexion and you know who he thinks Israel is.
-- *[[35:23](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2123s)]* **A video of a man who says he fears a black person more than a white person, and that he used to have a revolutionary heart but now has a heart in Christ** — A heart in Christ, the way he means it, is a weak, complacent, soft-spirited slave. The Messiah was the greatest revolutionary to ever walk the earth. He says a revolutionary heart comes with an identity crisis, and that is exactly what the man sitting next to him wants to hear.
-- *[[41:25](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2485s)]* **A screenshot of Alan Parr sitting down with Avery, who goes by White God Logic, on what every Christian should know about black Hebrew Israelites, headed dismantling Deuteronomy 28** — A non-Israelite is brought on to explain Israelites so that we never get to answer for ourselves. That is cowardice. The premise is to dismantle the teaching and keep the same negro we read about earlier: soft, weak, loving Massa, and going back to Egypt.
-- *[[44:46](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2686s)]* **A video from camp, from 25:21 to 27:50, of a man arguing that his friend is saved** — Asked three times whether his own people went into slavery on slave ships he finally says no, and then says that if his friend goes to hell, then so will he. That is what Christianity creates.
-
 ## Scriptures Opened
 
 **[Exodus 1:7-22](/bible/exodus/1#v7)**  *[[6:32](https://www.youtube.com/watch?v=PkFnZPllE5w&t=392s)]*
@@ -208,6 +201,14 @@ Reading from a definition of being born in the field  *[[13:58](https://www.yout
 
 - Let us make a captain, and let us return into Egypt. Return to slavery. That is the black man and the black woman today: I am a citizen, let us vote, politics works. It is the same slave mentality.
 
+
+*[[30:57](https://www.youtube.com/watch?v=PkFnZPllE5w&t=1857s)]* **In The News: A debate between Mark Viser and a group of Israelites, from 54:30 to 55:35** — He argues that no one in the Old Testament ever thought there was a prophecy of Israel losing her identity and having it restored, and that to call yourself an Israelite is a rewriting of your entire history. His whole agenda is to convince us that we are a bunch of Africans trying to be Israelites. If we are not the Israelites, who is? Look at his complexion and you know who he thinks Israel is.
+
+*[[35:23](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2123s)]* **In The News: A video of a man who says he fears a black person more than a white person, and that he used to have a revolutionary heart but now has a heart in Christ** — A heart in Christ, the way he means it, is a weak, complacent, soft-spirited slave. The Messiah was the greatest revolutionary to ever walk the earth. He says a revolutionary heart comes with an identity crisis, and that is exactly what the man sitting next to him wants to hear.
+
+*[[41:25](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2485s)]* **In The News: A screenshot of Alan Parr sitting down with Avery, who goes by White God Logic, on what every Christian should know about black Hebrew Israelites, headed dismantling Deuteronomy 28** — A non-Israelite is brought on to explain Israelites so that we never get to answer for ourselves. That is cowardice. The premise is to dismantle the teaching and keep the same negro we read about earlier: soft, weak, loving Massa, and going back to Egypt.
+
+*[[44:46](https://www.youtube.com/watch?v=PkFnZPllE5w&t=2686s)]* **In The News: A video from camp, from 25:21 to 27:50, of a man arguing that his friend is saved** — Asked three times whether his own people went into slavery on slave ships he finally says no, and then says that if his friend goes to hell, then so will he. That is what Christianity creates.
 
 **[Ecclesiastes 7:7](/bible/ecclesiastes/7#v7)**  *[[52:09](https://www.youtube.com/watch?v=PkFnZPllE5w&t=3129s)]*
 

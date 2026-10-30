@@ -19,17 +19,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "anger", "egypt"
 
 *[[7:00](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=420s)]* Taught on the eve of a winter storm, this class reads the news through prophecy. America is Babylon, the hammer of the whole earth and the golden cup in the Lord's hand. It will make the nations drink oppression until Europe and the nations hate it and burn it. The teacher also turns to the immigration raids: Aquila and Priscilla were deported from Rome and still became Paul's helpers, so Israel must not fear. Isaiah 19 foretells Egyptian against Egyptian, and the rest of the class traces how America's founders wrote the Second Amendment for a militia against tyranny. Secession talk, a cruel lord and rumors of war in the land all point to a civil war before Babylon's fall. The son of perdition, half of the title, was set aside for lack of time.
 
-## In The News
-
-- *[[22:19](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=1339s)]* **A British opposition leader calls Trump a gangster and a bully for threatening tariffs on Britain and seven European allies unless he gets Greenland; a European lawmaker calls for a United States of Europe with its own army.** — Revelation 17:16 says the ten horns shall hate the whore. The alliance between Europe and America is falling apart as prophesied.
-- *[[39:37](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=2377s)]* **Families sleep on detention center floors, a school district reports four students taken by masked agents, and a senior border official is shown in a uniform likened to the Nazis'.** — The raids target Black and Hispanic communities, and private prisons and deportation contractors profit from every detainee. America is returning to its nature as the oppressor.
-- *[[48:31](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=2911s)]* **Detainees sleep in a bathroom at 26 Federal Plaza, a pregnant woman is dragged in the snow, and a man cries that he is not a criminal and his family needs him.** — God is allowing this to wake a people made comfortable in America. Do not run and do not beg; keep your dignity, ask for a lawyer and prepare your papers.
-- *[[1:00:28](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=3628s)]* **Federal crews remove plaques about the nine people George Washington enslaved at the President's House in Philadelphia.** — It was never only about Mexicans or Venezuelans. The affliction will reach all twelve tribes, and Judah will bring them together.
-- *[[1:09:27](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=4167s)]* **A white preacher says 90 to 95 percent of Black churches are heretical and Black Christians should find a white church.** — This is the oppressor Black Christians trust in. Isaiah 30:12 calls it trusting in oppression.
-- *[[1:38:18](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=5898s)]* **A history segment explains how southern states seceded after Lincoln's election and formed militias before Fort Sumter.** — History repeats. Secession started the first civil war and will start the next.
-- *[[1:43:18](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=6198s)]* **California's governor accuses Trump of trying to stoke a civil war, and Minnesota's governor describes armed, masked agents terrorizing the state after an officer killed Renee Good.** — The violence is provocation meant to justify the Insurrection Act and martial law. Even white Americans now speak of revolution.
-- *[[1:53:20](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=6800s)]* **Reports say California may withhold federal taxes if Trump cuts its funding, a poll finds most Californians think the state would do better alone, and blue states discuss a soft secession.** — State against state is forming. Israel chooses neither party but the Lord's side.
-
 ## Scriptures Opened
 
 **[Obadiah 1:1](/bible/obadiah/1#v1)**  *[[8:03](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=483s)]*
@@ -72,6 +61,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "anger", "egypt"
 - The seizure of Venezuela's leader and its oil is part of the cup the nations must drink. Their anger will turn to thermonuclear fire against America.
 
 
+*[[22:19](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=1339s)]* **In The News: A British opposition leader calls Trump a gangster and a bully for threatening tariffs on Britain and seven European allies unless he gets Greenland; a European lawmaker calls for a United States of Europe with its own army.** — Revelation 17:16 says the ten horns shall hate the whore. The alliance between Europe and America is falling apart as prophesied.
+
 **[Acts 18:1](/bible/acts/18#v1)**  *[[27:46](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=1666s)]*
 
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
@@ -102,6 +93,12 @@ tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "anger", "egypt"
     All things work together for good to them that love God, to them who are the called according to his purpose.
 
 
+*[[39:37](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=2377s)]* **In The News: Families sleep on detention center floors, a school district reports four students taken by masked agents, and a senior border official is shown in a uniform likened to the Nazis'.** — The raids target Black and Hispanic communities, and private prisons and deportation contractors profit from every detainee. America is returning to its nature as the oppressor.
+
+*[[48:31](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=2911s)]* **In The News: Detainees sleep in a bathroom at 26 Federal Plaza, a pregnant woman is dragged in the snow, and a man cries that he is not a criminal and his family needs him.** — God is allowing this to wake a people made comfortable in America. Do not run and do not beg; keep your dignity, ask for a lawyer and prepare your papers.
+
+*[[1:00:28](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=3628s)]* **In The News: Federal crews remove plaques about the nine people George Washington enslaved at the President's House in Philadelphia.** — It was never only about Mexicans or Venezuelans. The affliction will reach all twelve tribes, and Judah will bring them together.
+
 **[Isaiah 30:1](/bible/isaiah/30#v1)**  *[[1:03:54](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=3834s)]*
 
 > <sup>[1](/bible/isaiah/30#v1)</sup> Woe to the rebellious children, saith the Lord, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
@@ -112,6 +109,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "anger", "egypt"
 
 - Because ye trust in oppression and perverseness, Israel follows the God of the people who enslaved them.
 
+
+*[[1:09:27](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=4167s)]* **In The News: A white preacher says 90 to 95 percent of Black churches are heretical and Black Christians should find a white church.** — This is the oppressor Black Christians trust in. Isaiah 30:12 calls it trusting in oppression.
 
 **[Isaiah 30:20](/bible/isaiah/30#v20)**  *[[1:12:31](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=4351s)]*
 
@@ -130,6 +129,12 @@ tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "anger", "egypt"
 
 - Egypt will be given into the hand of a cruel lord and a fierce king. Trump is the beginning of that system, not necessarily the king himself.
 
+
+*[[1:38:18](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=5898s)]* **In The News: A history segment explains how southern states seceded after Lincoln's election and formed militias before Fort Sumter.** — History repeats. Secession started the first civil war and will start the next.
+
+*[[1:43:18](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=6198s)]* **In The News: California's governor accuses Trump of trying to stoke a civil war, and Minnesota's governor describes armed, masked agents terrorizing the state after an officer killed Renee Good.** — The violence is provocation meant to justify the Insurrection Act and martial law. Even white Americans now speak of revolution.
+
+*[[1:53:20](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=6800s)]* **In The News: Reports say California may withhold federal taxes if Trump cuts its funding, a poll finds most Californians think the state would do better alone, and blue states discuss a soft secession.** — State against state is forming. Israel chooses neither party but the Lord's side.
 
 **[Daniel 2:40](/bible/daniel/2#v40)**  *[[2:04:07](https://www.youtube.com/watch?v=V9oc-I5QZjQ&t=7447s)]*
 

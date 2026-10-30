@@ -19,15 +19,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "false-religion", "the-americas"]
 
 *[[22:43](https://www.youtube.com/watch?v=JDW1q70sbhI&t=1363s)]* The gospel is the good news of black liberation. Today's class will upset many Christians, because what Isaiah and Christ said the good news was sent to do was never sent to everybody on the planet. It was sent to the meek, the brokenhearted, the captive, the imprisoned and the bound, and that is black, Latino, Native American Indian and our people in the Pacific.
 
-## In The News
-
-- *[[1:25:27](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5127s)]* **Photographs of Sonya Massey, Rasheem Carter and Trey Reed, then a screen-long list of names** — This is why we mourn in Zion, and 90% of these never make the news
-- *[[2:36:22](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9382s)]* **A clip rebuking Jamal Bryant for mentioning black people four times in a sermon, calling it ethnic idolatry** — Every image on the television is white and nobody calls that idolatry. This is sorcery, to stop you talking about your race
-- *[[2:43:52](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9832s)]* **An interview with a Christian theologian on the tyranny of imaginary guilt over the slave trade** — He takes pride in Britain defeating the Nazis, which he did not do, and refuses guilt for three million taken out of Africa
-- *[[2:46:59](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10019s)]* **A report on the Friends of Zion Ambassador Institute summit, over a thousand American pastors in Israel with Israel's Ministry of Foreign Affairs** — Wined, dined, funded and commissioned as ambassadors, trained to fight what they now call Jewish derangement syndrome, and sent back against Israelites
-- *[[2:54:38](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10478s)]* **The 2026 campaign to reach a million pastors in a million churches** — A funded ideological war, with our own people standing in the pictures agreeing to 200,000 dead Palestinians
-- *[[2:58:09](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10689s)]* **A pastor back from Israel announcing that Jesus was not a black man but an ethnic Jew** — He went to Israel, got the bag, and came back fighting against Israel
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -543,6 +534,8 @@ Reading from a page on black political prisoners · read by Captain Uri  *[[1:28
 
 </div>
 
+*[[1:25:27](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5127s)]* **In The News: Photographs of Sonya Massey, Rasheem Carter and Trey Reed, then a screen-long list of names** — This is why we mourn in Zion, and 90% of these never make the news
+
 **[Luke 19:11](/bible/luke/19#v11)**  *[[1:30:21](https://www.youtube.com/watch?v=JDW1q70sbhI&t=5421s)]*
 
 > <sup>[11](/bible/luke/19#v11)</sup> And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
@@ -977,6 +970,8 @@ Reading from the 2023 reprint of *Marks of a Lost Race*, and what was found when
 - And when any shall yet prophesy, his own father and mother shall thrust him through. Those are the rebels of Ezekiel 20.
 
 
+*[[2:36:22](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9382s)]* **In The News: A clip rebuking Jamal Bryant for mentioning black people four times in a sermon, calling it ethnic idolatry** — Every image on the television is white and nobody calls that idolatry. This is sorcery, to stop you talking about your race
+
 **[Acts 7:32](/bible/acts/7#v32)**  *[[2:38:32](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9512s)]*
 
 > <sup>[32](/bible/acts/7#v32)</sup> Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
@@ -1023,6 +1018,8 @@ Reading from *Pillory: The Tale of the Borgia Pope, in Nine Crowded Chapters* by
 
 </div>
 
+*[[2:43:52](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9832s)]* **In The News: An interview with a Christian theologian on the tyranny of imaginary guilt over the slave trade** — He takes pride in Britain defeating the Nazis, which he did not do, and refuses guilt for three million taken out of Africa
+
 **[Sirach 41:6-7](/bible/sirach/41#v6)**  *[[2:46:00](https://www.youtube.com/watch?v=JDW1q70sbhI&t=9960s)]*
 
 > <sup>[6](/bible/sirach/41#v6)</sup> The inheritance of sinners’ children shall perish, and their posterity shall have a perpetual reproach.
@@ -1064,6 +1061,10 @@ Reading from a breaking news post  *[[2:56:27](https://www.youtube.com/watch?v=J
 
 </div>
 
+*[[2:46:59](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10019s)]* **In The News: A report on the Friends of Zion Ambassador Institute summit, over a thousand American pastors in Israel with Israel's Ministry of Foreign Affairs** — Wined, dined, funded and commissioned as ambassadors, trained to fight what they now call Jewish derangement syndrome, and sent back against Israelites
+
+*[[2:54:38](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10478s)]* **In The News: The 2026 campaign to reach a million pastors in a million churches** — A funded ideological war, with our own people standing in the pictures agreeing to 200,000 dead Palestinians
+
 **[Daniel 11:14](/bible/daniel/11#v14)**  *[[2:56:45](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10605s)]*
 
 > <sup>[14](/bible/daniel/11#v14)</sup> And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.
@@ -1100,6 +1101,8 @@ Reading from a post on a noose pendant  *[[2:59:18](https://www.youtube.com/watc
 - So they're wearing this pendant of a noose. These are your friendly Jewish people. Oh, we hate hatred. No, they're all for it. You can't make this stuff up.
 
 </div>
+
+*[[2:58:09](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10689s)]* **In The News: A pastor back from Israel announcing that Jesus was not a black man but an ethnic Jew** — He went to Israel, got the bag, and came back fighting against Israel
 
 **[Isaiah 8:9-11](/bible/isaiah/8#v9)**  *[[2:59:54](https://www.youtube.com/watch?v=JDW1q70sbhI&t=10794s)]*
 

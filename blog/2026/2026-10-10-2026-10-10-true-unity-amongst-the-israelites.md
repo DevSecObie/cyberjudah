@@ -19,22 +19,6 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "nations", "the-word", "unity"]
 
 *[[12:47](https://www.youtube.com/watch?v=wSzqf-nAr98&t=767s)]* True unity will only be found amongst the Israelites, under the banner of Christ and his commandments. Drawing on the mission to Haiti, the class exposed how Esau, the oligarchs and their vassal kings keep the nations of our people down, then showed why the zealot movements, from the Zealots of Rome's day to the Black Panthers, failed: a zeal of God, but not according to knowledge.
 
-## In The News
-
-- *[[17:00](https://www.youtube.com/watch?v=wSzqf-nAr98&t=1020s)]* **Mission promo: the community cleanup in Haiti** — Don't wait for any other nation to clean up our communities; as men we are ordained to do the work, and not one church in that neighborhood ever thought to.
-- *[[20:18](https://www.youtube.com/watch?v=wSzqf-nAr98&t=1218s)]* **A Haitian man saying black countries are poor because of their religion and that America worships the devil** — Our people envy the riches of the golden city, Babylon the Great, to the point of being willing to serve Satan; they need the Israelites to bring them the light. There is no power in voodoo.
-- *[[34:05](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2045s)]* **Haitian press saying the group came seeking security from the commissioner** — The papers lie. That did not happen: we actually met with Barbecue.
-- *[[40:44](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2444s)]* **Article and photo claiming the group met a senator** — As soon as the work is done, Satan's devices try to implicate us with the oppressors; the meetings were recorded, so we have the evidence.
-- *[[58:31](https://www.youtube.com/watch?v=wSzqf-nAr98&t=3511s)]* **Interview with Aristide, accused of inciting the lower classes against the ruling elite** — Even the president is answerable to the oligarchs; he forgot he was a vassal king. Coups are designed by these families.
-- *[[1:06:30](https://www.youtube.com/watch?v=wSzqf-nAr98&t=3990s)]* **Aristide in exile, asking to be allowed to return after the earthquake** — A president who cannot go home: you can't tell me slavery is not there, that we're not still being oppressed.
-- *[[1:12:03](https://www.youtube.com/watch?v=wSzqf-nAr98&t=4323s)]* **Video on the banana republics: Marines, a killed leader, a light-skinned puppet** — This is how Esau gets down with his government, across South America and Africa: divide and conquer and send in the Jesuit priests.
-- *[[1:14:06](https://www.youtube.com/watch?v=wSzqf-nAr98&t=4446s)]* **Former CIA and National Security Council testimony: the weekly kill list tasked by the president** — They don't see the bloodshed as wrong; this is the beast with two horns like a lamb that speaks as a dragon.
-- *[[1:25:06](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5106s)]* **Pastor Joel's ministry in Haiti** — Smooth words: he wants the people in the villages to be comfortable with their poverty. That is part of their smooth words, the Jesuit's job.
-- *[[1:33:00](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5580s)]* **News report: a former Ohio missionary facing federal charges for child exploitation crimes in Haiti** — They throw around these numbers for judgment, but judgment is slack; he's probably back in Haiti again. They learn the Creole language, and all they doing is infiltrating slowly.
-- *[[1:35:40](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5740s)]* **Two Texas men indicted for plotting to take a Haitian island, murder the men and enslave the women and children** — The raw uncut Edomite: that is the real hate group, and the one to stop him is the Lord.
-- *[[1:56:35](https://www.youtube.com/watch?v=wSzqf-nAr98&t=6995s)]* **Video: US policy treats any country that rises economically or militarily as an enemy** — A godly nation would help weaker countries; this one wants them kept down. People say China is next, but God's kingdom will reign.
-- *[[2:30:40](https://www.youtube.com/watch?v=wSzqf-nAr98&t=9040s)]* **A man describing Haiti's unfinished buildings and people standing around with no initiative** — They created that condition, but twenty men putting their hands together could rebuild a block one building at a time.
-
 ## Scriptures Opened
 
 **[2 Timothy 3:16-17](/bible/2-timothy/3#v16)**  *[[14:33](https://www.youtube.com/watch?v=wSzqf-nAr98&t=873s)]*
@@ -64,6 +48,10 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "nations", "the-word", "unity"]
 
 - They are saturated in the Lord's wisdom; they have the experience and are well travelled.
 
+
+*[[17:00](https://www.youtube.com/watch?v=wSzqf-nAr98&t=1020s)]* **In The News: Mission promo: the community cleanup in Haiti** — Don't wait for any other nation to clean up our communities; as men we are ordained to do the work, and not one church in that neighborhood ever thought to.
+
+*[[20:18](https://www.youtube.com/watch?v=wSzqf-nAr98&t=1218s)]* **In The News: A Haitian man saying black countries are poor because of their religion and that America worships the devil** — Our people envy the riches of the golden city, Babylon the Great, to the point of being willing to serve Satan; they need the Israelites to bring them the light. There is no power in voodoo.
 
 **[Colossians 3:17](/bible/colossians/3#v17)**  *[[24:42](https://www.youtube.com/watch?v=wSzqf-nAr98&t=1482s)]*
 
@@ -166,6 +154,8 @@ Reading from the mission's posts from Haiti  *[[35:15](https://www.youtube.com/w
 
 </div>
 
+*[[34:05](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2045s)]* **In The News: Haitian press saying the group came seeking security from the commissioner** — The papers lie. That did not happen: we actually met with Barbecue.
+
 **[Isaiah 8:20](/bible/isaiah/8#v20)**  *[[37:23](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2243s)]*
 
 > <sup>[20](/bible/isaiah/8#v20)</sup> To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.
@@ -231,6 +221,8 @@ Reading from a picture of Haiti's hidden rulers  *[[43:08](https://www.youtube.c
 - This is the bam bam. This is Haiti's hidden rulers. This brings a scripture to life, where it talks about where we wrestle not with flesh and blood.
 
 </div>
+
+*[[40:44](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2444s)]* **In The News: Article and photo claiming the group met a senator** — As soon as the work is done, Satan's devices try to implicate us with the oppressors; the meetings were recorded, so we have the evidence.
 
 **[Ephesians 6:12](/bible/ephesians/6#v12)**  *[[44:34](https://www.youtube.com/watch?v=wSzqf-nAr98&t=2674s)]*
 
@@ -354,6 +346,8 @@ Reading from a definition of vassal king  *[[57:25](https://www.youtube.com/watc
 
 </div>
 
+*[[58:31](https://www.youtube.com/watch?v=wSzqf-nAr98&t=3511s)]* **In The News: Interview with Aristide, accused of inciting the lower classes against the ruling elite** — Even the president is answerable to the oligarchs; he forgot he was a vassal king. Coups are designed by these families.
+
 **[1 Maccabees 8:13](/bible/1-maccabees/8#v13)**  *[[1:02:47](https://www.youtube.com/watch?v=wSzqf-nAr98&t=3767s)]*
 
 > <sup>[13](/bible/1-maccabees/8#v13)</sup> Also that, whom they would help to a kingdom, those reign; and whom again they would, they displace: finally, that they were greatly exalted:
@@ -380,6 +374,8 @@ Reading from the *Los Angeles Times*  *[[1:05:29](https://www.youtube.com/watch?
 - A coup on a president, and we know that's their MO, cuz look what just happened with Maduro. Either they're going to assassinate you, or if they can't get their hands on you, they're going to put the bag over your head and get you out of there.
 
 </div>
+
+*[[1:06:30](https://www.youtube.com/watch?v=wSzqf-nAr98&t=3990s)]* **In The News: Aristide in exile, asking to be allowed to return after the earthquake** — A president who cannot go home: you can't tell me slavery is not there, that we're not still being oppressed.
 
 **[Psalms 10:1-8](/bible/psalms/10#v1)**  *[[1:08:35](https://www.youtube.com/watch?v=wSzqf-nAr98&t=4115s)]*
 
@@ -421,6 +417,10 @@ Reading from an article on the death of Gilbert Bigio  *[[1:11:50](https://www.y
 - But we have to unite under the banner of Christ. That's the only way. We got to get out of the way of the Lord, and the only way we do that is through his obedience.
 
 </div>
+
+*[[1:12:03](https://www.youtube.com/watch?v=wSzqf-nAr98&t=4323s)]* **In The News: Video on the banana republics: Marines, a killed leader, a light-skinned puppet** — This is how Esau gets down with his government, across South America and Africa: divide and conquer and send in the Jesuit priests.
+
+*[[1:14:06](https://www.youtube.com/watch?v=wSzqf-nAr98&t=4446s)]* **In The News: Former CIA and National Security Council testimony: the weekly kill list tasked by the president** — They don't see the bloodshed as wrong; this is the beast with two horns like a lamb that speaks as a dragon.
 
 **[Psalms 58:3-4](/bible/psalms/58#v3)**  *[[1:16:15](https://www.youtube.com/watch?v=wSzqf-nAr98&t=4575s)]*
 
@@ -552,6 +552,12 @@ Reading from a news report on two Texas men  *[[1:35:57](https://www.youtube.com
 
 </div>
 
+*[[1:25:06](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5106s)]* **In The News: Pastor Joel's ministry in Haiti** — Smooth words: he wants the people in the villages to be comfortable with their poverty. That is part of their smooth words, the Jesuit's job.
+
+*[[1:33:00](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5580s)]* **In The News: News report: a former Ohio missionary facing federal charges for child exploitation crimes in Haiti** — They throw around these numbers for judgment, but judgment is slack; he's probably back in Haiti again. They learn the Creole language, and all they doing is infiltrating slowly.
+
+*[[1:35:40](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5740s)]* **In The News: Two Texas men indicted for plotting to take a Haitian island, murder the men and enslave the women and children** — The raw uncut Edomite: that is the real hate group, and the one to stop him is the Lord.
+
 **[Psalms 94:16](/bible/psalms/94#v16)**  *[[1:38:16](https://www.youtube.com/watch?v=wSzqf-nAr98&t=5896s)]*
 
 > <sup>[16](/bible/psalms/94#v16)</sup> Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
@@ -654,6 +660,8 @@ Reading from a news report from South Africa  *[[1:54:56](https://www.youtube.co
 - They got that xenophobia in South Africa, killing each other. But you got a dude right there in the midst of y'all with a freezer full of vaginas. Our people are jacked up.
 
 </div>
+
+*[[1:56:35](https://www.youtube.com/watch?v=wSzqf-nAr98&t=6995s)]* **In The News: Video: US policy treats any country that rises economically or militarily as an enemy** — A godly nation would help weaker countries; this one wants them kept down. People say China is next, but God's kingdom will reign.
 
 **[Daniel 2:44](/bible/daniel/2#v44)**  *[[2:01:00](https://www.youtube.com/watch?v=wSzqf-nAr98&t=7260s)]*
 
@@ -953,6 +961,8 @@ Reading from a quote of Assata Shakur  *[[2:30:06](https://www.youtube.com/watch
 - They want to show: oh, it's the terrorists across the seas. Wait a minute. You're the number one terrorist. They call them what? Domestic terrorists. They hanging you wholesale. They oppressing us wholesale. They making sure you are trodden under foot continually, taking your history out of the school system, giving your false image. They are the number one terrorists. They are the domestic terrorists.
 
 </div>
+
+*[[2:30:40](https://www.youtube.com/watch?v=wSzqf-nAr98&t=9040s)]* **In The News: A man describing Haiti's unfinished buildings and people standing around with no initiative** — They created that condition, but twenty men putting their hands together could rebuild a block one building at a time.
 
 ## Class Questions
 

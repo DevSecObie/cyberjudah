@@ -20,14 +20,6 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "the-americas", "war"]
 
 *[[17:08](https://www.youtube.com/watch?v=zinl-cyu998&t=1028s)]* The Power Hour live from IUIC Austin, hosted by its officers: the Mexico border crisis. After a mass attempt to cross at El Paso, an Ohio sheriff blamed the migrants for fentanyl and called for the military to go into Mexico, while Ukrainian refugees were flown in under Uniting for Ukraine and exempted from Title 42. The officers show the so-called Mexicans are Issachar, robbed of the land they're begging to enter, snared in holes and hid in prison houses, at the border of wickedness Malachi named. America won't save them: bethink yourselves and return to God's laws.
 
-## In The News
-
-- *[[22:04](https://www.youtube.com/watch?v=zinl-cyu998&t=1324s)]* **A TV interview with Sheriff Richard Jones of Butler County, Ohio: a thousand people rushed the border at El Paso, fentanyl is coming in "by the tons", 171 countries come through Mexico, "we're being invaded," and the military should go into Mexico after the cartels** — People walking with a backpack and a gallon of water aren't hauling tons of fentanyl: tons come by boats, planes and trains, through whoever controls commerce. He villainizes them so our people stop feeling for them.
-- *[[1:02:08](https://www.youtube.com/watch?v=zinl-cyu998&t=3728s)]* **Report on the attempted mass entry at El Paso from Juarez after the policy toward Venezuelans changed in October** — Asher, Levi and Zebulun are at that border too.
-- *[[1:04:02](https://www.youtube.com/watch?v=zinl-cyu998&t=3842s)]* **U.S. extends legal status of Ukrainian refugees processed along the Mexican border: after Russia's February 2022 invasion more than 20,000 Ukrainians who flew to Mexico were let in within weeks, exempt from Title 42, and then Uniting for Ukraine let them fly directly to the U.S. with sponsors; more than 118,000 have arrived** — There's no Uniting for Venezuela, Haiti or Mexico, though Mexicans flee the cartels as Ukrainians flee Russia. They're the same people; they're Esau. Where's In God We Trust?
-- *[[1:24:43](https://www.youtube.com/watch?v=zinl-cyu998&t=5083s)]* **Explainer on Title 42: a CDC order from March 2020 under the Trump administration letting border agents expel people without documents over COVID, with Mexico agreeing to take back non-Mexicans; more than two million expulsions** — Get caught as a Cuban or Haitian and they drop you in Mexico. No crisis on the northern border with Canada.
-- *[[1:52:41](https://www.youtube.com/watch?v=zinl-cyu998&t=6761s)]* **U.S. border arrests rise to a 20-year high, with over one million migrants detained in six months, many after being expelled under Title 42** — They could sponsor 118,000 Ukrainians in a year, while Mexico has sought asylum for decades since the Mexican-American War.
-
 ## Scriptures Opened
 
 **[John 8:32](/bible/john/8#v32)**  *[[18:13](https://www.youtube.com/watch?v=zinl-cyu998&t=1093s)]*
@@ -38,6 +30,8 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "the-americas", "war"]
 
 - We're still in the land of our captivity, so all we know are the lies of these American companies, run by Amalek.
 
+
+*[[22:04](https://www.youtube.com/watch?v=zinl-cyu998&t=1324s)]* **In The News: A TV interview with Sheriff Richard Jones of Butler County, Ohio: a thousand people rushed the border at El Paso, fentanyl is coming in "by the tons", 171 countries come through Mexico, "we're being invaded," and the military should go into Mexico after the cartels** — People walking with a backpack and a gallon of water aren't hauling tons of fentanyl: tons come by boats, planes and trains, through whoever controls commerce. He villainizes them so our people stop feeling for them.
 
 **[Revelation 18:6](/bible/revelation/18#v6)**  *[[29:19](https://www.youtube.com/watch?v=zinl-cyu998&t=1759s)]*
 
@@ -142,6 +136,10 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "the-americas", "war"]
     Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
 
+*[[1:02:08](https://www.youtube.com/watch?v=zinl-cyu998&t=3728s)]* **In The News: Report on the attempted mass entry at El Paso from Juarez after the policy toward Venezuelans changed in October** — Asher, Levi and Zebulun are at that border too.
+
+*[[1:04:02](https://www.youtube.com/watch?v=zinl-cyu998&t=3842s)]* **In The News: U.S. extends legal status of Ukrainian refugees processed along the Mexican border: after Russia's February 2022 invasion more than 20,000 Ukrainians who flew to Mexico were let in within weeks, exempt from Title 42, and then Uniting for Ukraine let them fly directly to the U.S. with sponsors; more than 118,000 have arrived** — There's no Uniting for Venezuela, Haiti or Mexico, though Mexicans flee the cartels as Ukrainians flee Russia. They're the same people; they're Esau. Where's In God We Trust?
+
 **[Deuteronomy 7:6](/bible/deuteronomy/7#v6)**  *[[1:06:40](https://www.youtube.com/watch?v=zinl-cyu998&t=4000s)]*
 
 > <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
@@ -150,6 +148,8 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "the-americas", "war"]
 
 - The Lord hath chosen thee to be a special people above all people upon the face of the earth: show me where he calls any other nation holy and special. Above doesn't sound like equality.
 
+
+*[[1:24:43](https://www.youtube.com/watch?v=zinl-cyu998&t=5083s)]* **In The News: Explainer on Title 42: a CDC order from March 2020 under the Trump administration letting border agents expel people without documents over COVID, with Mexico agreeing to take back non-Mexicans; more than two million expulsions** — Get caught as a Cuban or Haitian and they drop you in Mexico. No crisis on the northern border with Canada.
 
 **[Malachi 1:1](/bible/malachi/1#v1)**  *[[1:30:46](https://www.youtube.com/watch?v=zinl-cyu998&t=5446s)]*
 
@@ -217,6 +217,8 @@ tags: ["IUIC in the ClassRoom", "mercy", "prayer", "the-americas", "war"]
 
 - They shall be afraid of thee: you have true knowledge of self. Puerto Rico, rich port, has no substance, and Taino, peaceable one, doesn't lead to your lineage. Canelo, Cesar Chavez and Pancho Villa can't save you; the black Messiah is Issachar's savior.
 
+
+*[[1:52:41](https://www.youtube.com/watch?v=zinl-cyu998&t=6761s)]* **In The News: U.S. border arrests rise to a 20-year high, with over one million migrants detained in six months, many after being expelled under Title 42** — They could sponsor 118,000 Ukrainians in a year, while Mexico has sought asylum for decades since the Mexican-American War.
 
 **[Isaiah 42:22](/bible/isaiah/42#v22)**  *[[1:55:24](https://www.youtube.com/watch?v=zinl-cyu998&t=6924s)]*
 

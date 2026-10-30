@@ -19,15 +19,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "leadership", "prayer", "purpose", 
 
 *[[6:19](https://www.youtube.com/watch?v=k68LEa5wIdY&t=379s)]* A deacon, with Captain Amaziah beside him, presses one question on the congregation: why did the Lord choose you out of thousands, and what are you doing with it? A soul without purpose will be destroyed in the fire that is coming, so the class walks from Paul's warning of every man, through Isaiah's call to reason together, Jeremiah's commission from the womb, the devil's prison in Revelation 2, and the deaf and dumb spirit of Mark 9, to the blood of Christ as the platform we build on. Along the way it deals plainly with brothers who want to give their rank up, sisters who blame leadership for not having a lord, and the demons that only fasting and prayer remove.
 
-## In The News
-
-- *[[9:59](https://www.youtube.com/watch?v=k68LEa5wIdY&t=599s)]* **Bishop explains that the camp puts in so much work because the Lord has everybody numbered: the 144,000 are the leading men, and women, other men and children come in behind them, so there is no time to argue with foolishness while some brothers have never left their block.** — That is why you have to know what your purpose is. Ask yourself whether you are a man with no purpose, sitting through feast days doing nothing, burdened by who hit you or which officer you dislike, instead of focused on the mission.
-- *[[34:07](https://www.youtube.com/watch?v=k68LEa5wIdY&t=2047s)]* **A short imagines choosing your character before birth: ask for courage and the Creator gives you monsters, ask for patience and he makes you wait, ask for wisdom and he lets you fail, because a good life is the fire that forges you, and how you talk to yourself in the fire decides how you emerge.** — The fire is not to burn you but to purify you and pull things out of you. Prosperity and adversity, life and death, poverty and riches all come from the Lord together, so stop wanting a balanced life; the work is your profession.
-- *[[48:05](https://www.youtube.com/watch?v=k68LEa5wIdY&t=2885s)]* **A short on lessons life teaches: nothing lasts forever, so stay humble at your highest and keep faith at your lowest; every failure is a stepping stone; and kindness costs nothing.** — The whole world is set up to challenge us, and you are supposed to challenge it back rather than walk away. Satan tells you that you will be good out in the world, but that good is only for a moment before the full attack comes.
-- *[[1:23:53](https://www.youtube.com/watch?v=k68LEa5wIdY&t=5033s)]* **A montage of our people in clubs, parties and churches, and in Islam.** — That is us destroying ourselves, the same demon that cast the boy into the fire and the water. The club that gets sprayed, the drunk drive that costs your legs, the religion that keeps you bound: we called it fun, and it was a dumb spirit.
-- *[[2:07:25](https://www.youtube.com/watch?v=k68LEa5wIdY&t=7645s)]* **A short: the God who flung the stars into the sky is in control of your life, so stop worrying, trust him, and let him lead you to peace and purpose.** — Most of our problems come from not letting God lead. Hebrews 13:17 says the leaders watch over your soul, but the camp is here to teach the law, not to match-make; if you want a lord or a wife, go to the Lord for it.
-- *[[2:10:38](https://www.youtube.com/watch?v=k68LEa5wIdY&t=7838s)]* **A short: you trust the bus without knowing the driver and the plane without knowing the pilot, so why not trust life knowing God is steering it; do your part and leave the rest in his hands.** — People board planes with strangers at the controls but will not trust the leaders God set over them. Desperate sisters would rather take a back-door marriage that is hell on earth than wait for the Lord, and one in a thousand of those works.
-
 ## Scriptures Opened
 
 **[Colossians 1:28](/bible/colossians/1#v28)**  *[[6:19](https://www.youtube.com/watch?v=k68LEa5wIdY&t=379s)]*
@@ -46,6 +37,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "leadership", "prayer", "purpose", 
 
     The day cometh that shall burn as an oven, and all the proud and all that do wickedly shall be stubble. Last time it was water; this time the fire burns the soul and you feel it while you are in it. Pride and wickedness are the fuel, so let whatever you are into go before the fire comes. Sabbath sickness is a slogan for lazy bums.
 
+
+*[[9:59](https://www.youtube.com/watch?v=k68LEa5wIdY&t=599s)]* **In The News: Bishop explains that the camp puts in so much work because the Lord has everybody numbered: the 144,000 are the leading men, and women, other men and children come in behind them, so there is no time to argue with foolishness while some brothers have never left their block.** — That is why you have to know what your purpose is. Ask yourself whether you are a man with no purpose, sitting through feast days doing nothing, burdened by who hit you or which officer you dislike, instead of focused on the mission.
 
 **[Jeremiah 26:3-5](/bible/jeremiah/26#v3)**  *[[16:23](https://www.youtube.com/watch?v=k68LEa5wIdY&t=983s)]*
 
@@ -91,6 +84,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "leadership", "prayer", "purpose", 
 - Thy princes are rebellious and companions of thieves; every one loveth gifts and followeth after rewards. America feeds the so-called leaders welfare and Section 8, raises up the ones who could be a threat, and they sell their own mother for the dollar. That is what we become without God's law, and the law is still active: reject marriage and you get a community of baby mothers. Because you become God's enemy by disobeying, he will ease himself of his adversaries.
 
 
+*[[34:07](https://www.youtube.com/watch?v=k68LEa5wIdY&t=2047s)]* **In The News: A short imagines choosing your character before birth: ask for courage and the Creator gives you monsters, ask for patience and he makes you wait, ask for wisdom and he lets you fail, because a good life is the fire that forges you, and how you talk to yourself in the fire decides how you emerge.** — The fire is not to burn you but to purify you and pull things out of you. Prosperity and adversity, life and death, poverty and riches all come from the Lord together, so stop wanting a balanced life; the work is your profession.
+
 **[Sirach 11:14](/bible/sirach/11#v14)**  *[[35:52](https://www.youtube.com/watch?v=k68LEa5wIdY&t=2152s)]*
 
 > <sup>[14](/bible/sirach/11#v14)</sup> Prosperity and adversity, life and death, poverty and riches, come of the Lord.
@@ -125,6 +120,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "leadership", "prayer", "purpose", 
 
 - Where can you go to hide from correction when you know where you came from? The world is set up to challenge you, and you challenge it back and make yourself great. Do not lie down because Satan knocked you down; get up and walk.
 
+
+*[[48:05](https://www.youtube.com/watch?v=k68LEa5wIdY&t=2885s)]* **In The News: A short on lessons life teaches: nothing lasts forever, so stay humble at your highest and keep faith at your lowest; every failure is a stepping stone; and kindness costs nothing.** — The whole world is set up to challenge us, and you are supposed to challenge it back rather than walk away. Satan tells you that you will be good out in the world, but that good is only for a moment before the full attack comes.
 
 **[Proverbs 15:14](/bible/proverbs/15#v14)**  *[[52:48](https://www.youtube.com/watch?v=k68LEa5wIdY&t=3168s)]*
 
@@ -242,6 +239,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "leadership", "prayer", "purpose", 
 
     Rachel demanded children and Jacob asked, Am I in God's stead? The same answer to sisters demanding a lord from leadership: go ask God for it, and ask what he wants you to change first.
 
+
+*[[1:23:53](https://www.youtube.com/watch?v=k68LEa5wIdY&t=5033s)]* **In The News: A montage of our people in clubs, parties and churches, and in Islam.** — That is us destroying ourselves, the same demon that cast the boy into the fire and the water. The club that gets sprayed, the drunk drive that costs your legs, the religion that keeps you bound: we called it fun, and it was a dumb spirit.
 
 **[John 5:14-15](/bible/john/5#v14)**  *[[1:39:43](https://www.youtube.com/watch?v=k68LEa5wIdY&t=5983s)]*
 
@@ -380,6 +379,10 @@ tags: ["IUIC in the ClassRoom", "adversity", "leadership", "prayer", "purpose", 
 
     It became him, for whom are all things, in bringing many sons unto glory. That glory is a new body and a new mindset, so keep trying, keep working, do not give up over the little things you are going through.
 
+
+*[[2:07:25](https://www.youtube.com/watch?v=k68LEa5wIdY&t=7645s)]* **In The News: A short: the God who flung the stars into the sky is in control of your life, so stop worrying, trust him, and let him lead you to peace and purpose.** — Most of our problems come from not letting God lead. Hebrews 13:17 says the leaders watch over your soul, but the camp is here to teach the law, not to match-make; if you want a lord or a wife, go to the Lord for it.
+
+*[[2:10:38](https://www.youtube.com/watch?v=k68LEa5wIdY&t=7838s)]* **In The News: A short: you trust the bus without knowing the driver and the plane without knowing the pilot, so why not trust life knowing God is steering it; do your part and leave the rest in his hands.** — People board planes with strangers at the controls but will not trust the leaders God set over them. Desperate sisters would rather take a back-door marriage that is hell on earth than wait for the Lord, and one in a thousand of those works.
 
 **[Proverbs 3:5](/bible/proverbs/3#v5)**  *[[2:17:42](https://www.youtube.com/watch?v=k68LEa5wIdY&t=8262s)]*
 

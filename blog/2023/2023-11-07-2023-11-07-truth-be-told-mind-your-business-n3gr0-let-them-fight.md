@@ -20,21 +20,9 @@ tags: ["IUIC in the ClassRoom", "false-religion", "prophecy"]
 
 *[[7:32](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=452s)]* Truth Be Told, back on the air from IUIC DC, hosted by Captain Matthew with Officer Mandel, Officer Daniel and Officer Michael, on minding our business while the nations fight: the war between the Palestinians and Amalek is the Lord's judgment and a sign of the times, not our fight. The Lord severed us from the other nations and deals only with Israel; come out of her, gather yourselves together, and repent before the decree.
 
-## In The News
-
-- *[[10:25](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=625s)]* **IUIC DC's Hidden Roots booth at the African-American Museum, showing the people their history from the 1400s back to the Bible, and a clip of a brother answering what happens to the white man with Obadiah 18 and the book The Roman Empire, the Empire of the Edomite** — The museum shows your history back to the 1400s and stops, like we popped out of a slave ship. People come looking for their history, and somehow they always ask about the white man. It used to be they hid the truth from black folks; now black folks hide from the truth.
-- *[[16:53](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1013s)]* **Two captains, with Officer Yahoshua from Virginia, went across the pond to London** — They edified the brothers and sisters in London; that's the work of the prophets. You can't emulate the wisdom.
-- *[[18:30](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1110s)]* **The Bishop reading that most surviving Jews are of Eastern European, perhaps Khazar origin, from the Volga and the Caucasus rather than the Jordan and Canaan, so the term anti-Semitism would be void of meaning, the most cruel hoax history has ever perpetrated** — Their own scholars wrote it, and they can never prove out of the scriptures that they're the people of the book. That's why they use trigger words like anti-Semitic and hate speech to shut you down.
-- *[[21:21](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1281s)]* **An article: an opposition presidential candidate arrested at a protest in Madagascar, with the opposition alleging the election is rigged for the incumbent** — Anytime you hear of presidential tampering overseas, you know who's behind it: Babylon, ruling over the kings of the earth. They run the same game in the States, with your boy Trump in court every two minutes.
-- *[[23:01](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1381s)]* **Reports that shooters opened fire on the convoy of Palestinian president Mahmoud Abbas** — Esau got his hands in everything. We can't be asleep to what's going on outside of America, because these things are surely coming here.
-- *[[30:19](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1819s)]* **Video of officers beating a 13-year-old Palestinian girl and the cameraman** — Three or four grown officers on a 13-year-old girl. Coming to a city near you.
-- *[[31:41](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1901s)]* **Hundreds of thousands of Palestinians and sympathizers marching in Washington, DC, some rushing the White House gate** — They came right past our booth, and we packed up. We didn't call a unity camp to fight Ishmael: that ain't our fight, that's prophecy. We sit back with the popcorn and the scriptures open.
-- *[[34:24](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=2064s)]* **That Bama Got Cut, a new segment: Captain Joel at the Jersey camp asking a Muslim brother to name one prophecy in the Quran, and why the Arabs enslave black people in Libya** — When brothers come up against the prophets of the Most High, they get cut down with the scriptures. Leaving fake white Jesus for Islam is leaving one slave master's religion for another.
-- *[[48:01](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=2881s)]* **A video of a church in Africa where men in robes are spanking each other with a belt** — That's the madness of Christianity: only in Christianity do you see madness like that, in the white man's garbs and the white man's religion.
-- *[[1:02:43](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=3763s)]* **The Libyan slave trade: migrants from West Africa sold in Libya for $150 to $700, and resold** — We're still in bondage right next to Palestine, and no other nation stands up for us. He specifically said West Africa: those are our people.
-- *[[1:13:24](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=4404s)]* **A white pastor telling his black congregation their bloodline is priesthood, and asking why out of thousands of preachers not one had the revelation** — Even he knows the Negro is going to reject it, because we hate ourselves. Y'all don't want to listen to the prophets, so listen to your god.
-
 ## Scriptures Opened
+
+*[[10:25](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=625s)]* **In The News: IUIC DC's Hidden Roots booth at the African-American Museum, showing the people their history from the 1400s back to the Bible, and a clip of a brother answering what happens to the white man with Obadiah 18 and the book The Roman Empire, the Empire of the Edomite** — The museum shows your history back to the 1400s and stops, like we popped out of a slave ship. People come looking for their history, and somehow they always ask about the white man. It used to be they hid the truth from black folks; now black folks hide from the truth.
 
 **[Genesis 36:1](/bible/genesis/36#v1)**  *[[12:29](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=749s)]*
 
@@ -58,12 +46,20 @@ tags: ["IUIC in the ClassRoom", "false-religion", "prophecy"]
     Is Israel a servant? is he a homeborn slave? why is he spoiled?
 
 
+*[[16:53](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1013s)]* **In The News: Two captains, with Officer Yahoshua from Virginia, went across the pond to London** — They edified the brothers and sisters in London; that's the work of the prophets. You can't emulate the wisdom.
+
 **[Luke 7:35](/bible/luke/7#v35)**  *[[17:44](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1064s)]*
 
 > <sup>[35](/bible/luke/7#v35)</sup> But wisdom is justified of all her children.
 
 - You see the spirit of emulation, but this you can't emulate: wisdom is justified of all her children. You might cosplay and look like the guys, but the prophets are all over the globe in purple and gold. A lot of pretenders, but no contenders.
 
+
+*[[18:30](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1110s)]* **In The News: The Bishop reading that most surviving Jews are of Eastern European, perhaps Khazar origin, from the Volga and the Caucasus rather than the Jordan and Canaan, so the term anti-Semitism would be void of meaning, the most cruel hoax history has ever perpetrated** — Their own scholars wrote it, and they can never prove out of the scriptures that they're the people of the book. That's why they use trigger words like anti-Semitic and hate speech to shut you down.
+
+*[[21:21](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1281s)]* **In The News: An article: an opposition presidential candidate arrested at a protest in Madagascar, with the opposition alleging the election is rigged for the incumbent** — Anytime you hear of presidential tampering overseas, you know who's behind it: Babylon, ruling over the kings of the earth. They run the same game in the States, with your boy Trump in court every two minutes.
+
+*[[23:01](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1381s)]* **In The News: Reports that shooters opened fire on the convoy of Palestinian president Mahmoud Abbas** — Esau got his hands in everything. We can't be asleep to what's going on outside of America, because these things are surely coming here.
 
 **[2 Esdras 9:1](/bible/2-esdras/9#v1)**  *[[25:23](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1523s)]*
 
@@ -98,6 +94,12 @@ tags: ["IUIC in the ClassRoom", "false-religion", "prophecy"]
 
     Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.
 
+
+*[[30:19](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1819s)]* **In The News: Video of officers beating a 13-year-old Palestinian girl and the cameraman** — Three or four grown officers on a 13-year-old girl. Coming to a city near you.
+
+*[[31:41](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=1901s)]* **In The News: Hundreds of thousands of Palestinians and sympathizers marching in Washington, DC, some rushing the White House gate** — They came right past our booth, and we packed up. We didn't call a unity camp to fight Ishmael: that ain't our fight, that's prophecy. We sit back with the popcorn and the scriptures open.
+
+*[[34:24](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=2064s)]* **In The News: That Bama Got Cut, a new segment: Captain Joel at the Jersey camp asking a Muslim brother to name one prophecy in the Quran, and why the Arabs enslave black people in Libya** — When brothers come up against the prophets of the Most High, they get cut down with the scriptures. Leaving fake white Jesus for Islam is leaving one slave master's religion for another.
 
 **[Hosea 6:5](/bible/hosea/6#v5)**  *[[34:24](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=2064s)]*
 
@@ -140,6 +142,8 @@ Reading from The Roman Empire, the Empire of the Edomite (1853)  *[[40:26](https
 
 </div>
 
+
+*[[48:01](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=2881s)]* **In The News: A video of a church in Africa where men in robes are spanking each other with a belt** — That's the madness of Christianity: only in Christianity do you see madness like that, in the white man's garbs and the white man's religion.
 
 **[Deuteronomy 28:28](/bible/deuteronomy/28#v28)**  *[[49:20](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=2960s)]*
 
@@ -233,6 +237,8 @@ Reading from The Roman Empire, the Empire of the Edomite (1853)  *[[40:26](https
 - They run the media and the finances but claim they have no power; disagree and they get you fired or killed, and they're always the victim. By their secret plots: the FBI, the CIA. Popular persuasions and commotions: the propaganda on your TV. They hindered the building, but you can't stop the truth; it's springing up out of the earth.
 
 
+*[[1:02:43](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=3763s)]* **In The News: The Libyan slave trade: migrants from West Africa sold in Libya for $150 to $700, and resold** — We're still in bondage right next to Palestine, and no other nation stands up for us. He specifically said West Africa: those are our people.
+
 **[Nehemiah 4:6](/bible/nehemiah/4#v6)**  *[[1:05:16](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=3916s)]*
 
 > <sup>[6](/bible/nehemiah/4#v6)</sup> So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.
@@ -324,6 +330,8 @@ Reading from The Roman Empire, the Empire of the Edomite (1853)  *[[40:26](https
 
     Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt.
 
+
+*[[1:13:24](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=4404s)]* **In The News: A white pastor telling his black congregation their bloodline is priesthood, and asking why out of thousands of preachers not one had the revelation** — Even he knows the Negro is going to reject it, because we hate ourselves. Y'all don't want to listen to the prophets, so listen to your god.
 
 **[Revelation 2:9](/bible/revelation/2#v9)**  *[[1:16:40](https://www.youtube.com/watch?v=b8RkNKtz2Nw&t=4600s)]*
 

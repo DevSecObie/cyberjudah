@@ -19,12 +19,6 @@ tags: ["IUIC in the ClassRoom", "africa-moors", "captivity", "europe-dark-ages",
 
 *[[19:13](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=1153s)]* A class on Revelation 13 read against the history of the Moors of Spain and the Christian slave trade that followed their fall. The beast from the sea is a race of men, its heads and horns the European nations, and Rome's deadly wound was an African emperor on its throne. Dictionaries define the Moor as a negro and a blackamoor, and paintings show Moors in royal dress before 711 turned to captivity. Portugal shipped Jewish children to São Tomé, Europe gave Black servants as gifts, and Sinterklaas still parades a blackened helper. The class then turns to the true calendar, the moon as the sign of the world, the Gentiles who will serve in the kingdom, the law against strange marriages, and the saints who will judge the earth.
 
-## In The News
-
-- *[[54:08](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3248s)]* **A series of European paintings of Moors in royal dress and armour from the time they ruled Spain.** — The Moors of Spain were Black men in power before the Christian kingdoms drove them out.
-- *[[1:06:16](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3976s)]* **A video on Black Pete, followed by a review of the Christian slave trade.** — The trade that began in Iberia was run by men who called themselves Christian.
-- *[[2:08:31](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=7711s)]* **A teacher explaining that the biblical new year begins in Abib, named for a stage of barley ripeness.** — The first month is the spring month, not January.
-
 ## Scriptures Opened
 
 **[Revelation 13:1](/bible/revelation/13#v1)**  *[[28:48](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=1728s)]*
@@ -472,6 +466,10 @@ Reading from *The Image of the Black in Western Art* · read by Captain Uri  *[[
 </div>
 
 
+*[[54:08](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3248s)]* **In The News: A series of European paintings of Moors in royal dress and armour from the time they ruled Spain.** — The Moors of Spain were Black men in power before the Christian kingdoms drove them out.
+
+*[[1:06:16](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=3976s)]* **In The News: A video on Black Pete, followed by a review of the Christian slave trade.** — The trade that began in Iberia was run by men who called themselves Christian.
+
 **[Revelation 11:10](/bible/revelation/11#v10)**  *[[1:22:53](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=4973s)]*
 
 > <sup>[10](/bible/revelation/11#v10)</sup> And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
@@ -740,6 +738,8 @@ Reading from an article on Janus  *[[2:05:14](https://www.youtube.com/watch?v=YR
 
     Observe the month of Abib and keep the passover.
 
+
+*[[2:08:31](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=7711s)]* **In The News: A teacher explaining that the biblical new year begins in Abib, named for a stage of barley ripeness.** — The first month is the spring month, not January.
 
 **[Daniel 7:25](/bible/daniel/7#v25)**  *[[2:11:02](https://www.youtube.com/watch?v=YRKZ18wNt8M&t=7862s)]*
 

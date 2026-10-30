@@ -19,18 +19,11 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 
 *[[8:37](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=517s)]* Eleutherophobia, the fear of freedom: why so many of our brothers and sisters love Babylon, dread responsibility and would rather be ruled by their oppressors than by a righteous Father. The class reads the definition against the scriptures: the Lord commands the nation not desired to gather itself together before the decree, the truth of who we are is what makes us free, the wars and rumours of wars since 1917 are the birthing pains of our deliverance, bitterness and one morsel of meat sell the birthright, and the same spirit that remembered the fish of Egypt is back among us. Captain Tazwell joins at the table.
 
-## In The News
-
-- *[[9:00](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=540s)]* **The opening video from the IT and AI departments** — Played before the class as the thumbnail piece.
-- *[[11:42](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=702s)]* **The dictionary definition of eleutherophobia, with responsibility and autonomy read after it** — An abnormal dread of being free or forced to take responsibility for one's own actions, often resulting in a desire to be controlled; a true leader takes responsibility for his team, and our team is the twelve tribes.
-- *[[33:15](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=1995s)]* **Godfrey telling Shannon Sharpe what the head of an organized crime family said about black people** — Everybody copies us, our music and our style, but the one thing we do not have is unity, so we are easy to break up. We cannot even organize crime; the nations know they have conditioned us, and only under the Father's laws can this people gather.
-- *[[55:07](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=3307s)]* **A list of every major American war since World War I, with dates, and the smaller interventions** — Wars and rumours of wars have been going on since 1917, through Korea, Vietnam, the Gulf, Afghanistan and Iraq to 2026; these are birthing pains, and brothers see each one and fall back to sleep.
-- *[[1:34:21](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=5661s)]* **The steak scene from The Matrix: the betrayer who knows the steak is not real and says ignorance is bliss** — That is the face of a brother nine years in the truth who goes back for one puff of the blunt; one morsel of meat, and he becomes a betrayer and an offender of the word.
-- *[[1:52:10](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=6730s)]* **Drapetomania: the slave's desire to escape once classified as a mental illness** — Not even a dog wants his back beaten, yet the oppressor called wanting to leave the plantation a disease, and did such a job that now our people are fearful of freedom itself.
-- *[[1:54:46](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=6886s)]* **Joel Webbon saying most of the black church in America is heretical and that black people should go find a white church with qualified men** — Come home to master and be reconditioned; they know the prophets are back on the earth and cannot stop this truth, so they call for our people to be taught again by the white man.
-- *[[2:14:31](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=8071s)]* **Latinos for Trump rebranded as Latino Americans for Trump, and the deportations that followed** — They hated their own people and voted for the devil, and he kicked them out of the country and did nothing for them. We are not to be voting; our war is spiritual.
-
 ## Scriptures Opened
+
+*[[9:00](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=540s)]* **In The News: The opening video from the IT and AI departments** — Played before the class as the thumbnail piece.
+
+*[[11:42](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=702s)]* **In The News: The dictionary definition of eleutherophobia, with responsibility and autonomy read after it** — An abnormal dread of being free or forced to take responsibility for one's own actions, often resulting in a desire to be controlled; a true leader takes responsibility for his team, and our team is the twelve tribes.
 
 **[Zephaniah 2:1-3](/bible/zephaniah/2#v1)**  *[[23:17](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=1397s)]*
 
@@ -73,6 +66,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 
 - To the Jews that believed: if ye continue in my word, then are ye my disciples indeed, and ye shall know the truth and the truth shall make you free. The truth is the gathering of the twelve tribes, Christ's whole mission, which the churches never teach; those are the keys out of this captivity.
 
+
+*[[33:15](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=1995s)]* **In The News: Godfrey telling Shannon Sharpe what the head of an organized crime family said about black people** — Everybody copies us, our music and our style, but the one thing we do not have is unity, so we are easy to break up. We cannot even organize crime; the nations know they have conditioned us, and only under the Father's laws can this people gather.
 
 **[Isaiah 42:7](/bible/isaiah/42#v7)**  *[[39:09](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=2349s)]*
 
@@ -155,6 +150,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 
     Declaring the end from the beginning: there was a council with the Father before time, his counsel shall stand and cannot be thrown off track, and this destruction is his pleasure even if it is not yet yours.
 
+
+*[[55:07](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=3307s)]* **In The News: A list of every major American war since World War I, with dates, and the smaller interventions** — Wars and rumours of wars have been going on since 1917, through Korea, Vietnam, the Gulf, Afghanistan and Iraq to 2026; these are birthing pains, and brothers see each one and fall back to sleep.
 
 **[Matthew 24:7-10](/bible/matthew/24#v7)**  *[[1:05:41](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=3941s)]*
 
@@ -247,6 +244,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
     The preparations of the heart in man and the answer of the tongue are from the Lord: even your coming to the leadership table you want to fight was ordained before time, and the Lord seals a man's instruction in his sleep.
 
 
+*[[1:34:21](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=5661s)]* **In The News: The steak scene from The Matrix: the betrayer who knows the steak is not real and says ignorance is bliss** — That is the face of a brother nine years in the truth who goes back for one puff of the blunt; one morsel of meat, and he becomes a betrayer and an offender of the word.
+
 **[Isaiah 26:3](/bible/isaiah/26#v3)**  *[[1:42:04](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=6124s)]*
 
 > <sup>[3](/bible/isaiah/26#v3)</sup> Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.
@@ -280,6 +279,10 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 
 - The young men who enlist go for benefits and sign their death certificate faster, when the reward waiting is a body that cannot faint. This is a spiritual war; let the Lord fight, he is the real chess master, and enjoy the ride.
 
+
+*[[1:52:10](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=6730s)]* **In The News: Drapetomania: the slave's desire to escape once classified as a mental illness** — Not even a dog wants his back beaten, yet the oppressor called wanting to leave the plantation a disease, and did such a job that now our people are fearful of freedom itself.
+
+*[[1:54:46](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=6886s)]* **In The News: Joel Webbon saying most of the black church in America is heretical and that black people should go find a white church with qualified men** — Come home to master and be reconditioned; they know the prophets are back on the earth and cannot stop this truth, so they call for our people to be taught again by the white man.
 
 **[1 John 2:15-17](/bible/1-john/2#v15)**  *[[1:57:07](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=7027s)]*
 
@@ -350,6 +353,8 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership",
 
 - Voting your oppressor in is voting yourself further down; no man that wars entangles himself with the affairs of this life. Let the age of decadence play out.
 
+
+*[[2:14:31](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=8071s)]* **In The News: Latinos for Trump rebranded as Latino Americans for Trump, and the deportations that followed** — They hated their own people and voted for the devil, and he kicked them out of the country and did nothing for them. We are not to be voting; our war is spiritual.
 
 **[Revelation 14:8](/bible/revelation/14#v8)**  *[[2:15:21](https://www.youtube.com/watch?v=OArV9VzQQ3U&t=8121s)]*
 

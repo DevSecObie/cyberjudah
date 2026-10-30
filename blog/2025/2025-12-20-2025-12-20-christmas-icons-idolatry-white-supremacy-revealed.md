@@ -19,12 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "europe-dark-ages", "idolatry", "natio
 
 *[[3:10](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=190s)]* A hidden-history class on how the Renaissance, the revival of Greco-Roman culture, whitewashed the image of Christ and the prophets. The teacher reads from Wikipedia on the Renaissance, humanism and 'Western culture,' then shows centuries of Byzantine, Coptic and Russian icons of a Black Christ, Black apostles, Black Job and David, and a Black St. Nicholas. It shows how later painters went over those images. Revelation 13 is read as the European beast and America its image, and Jeremiah 10 as the Christmas tree itself, a sacred tree from Assyria to Germanic paganism. The class closes on Black Pete, Krampus and the gifts that blind the eyes of the wise.
 
-## In The News
-
-- *[[32:16](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=1936s)]* **Pages of old Byzantine, Coptic and Russian icons showing a Black Christ, apostles with afros, Job, David and St. Nicholas.** — Before the Renaissance, Europe itself painted the Hebrews as Black.
-- *[[58:36](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=3516s)]* **Examples of old icons painted over with lighter faces.** — This image destruction is whitewashing, but they could not paint over them all.
-- *[[1:16:50](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=4610s)]* **The 'Head of Christ' painting that became popular in America in the 1940s.** — America's white Christ is another Jesus, the image of the beast.
-
 ## Scriptures Opened
 
 <div class="reading">
@@ -215,12 +209,16 @@ Reading from Wikipedia, on Western culture  *[[29:26](https://www.youtube.com/wa
 </div>
 
 
+*[[32:16](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=1936s)]* **In The News: Pages of old Byzantine, Coptic and Russian icons showing a Black Christ, apostles with afros, Job, David and St. Nicholas.** — Before the Renaissance, Europe itself painted the Hebrews as Black.
+
 **[Job 30:30](/bible/job/30#v30)**  *[[40:25](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=2425s)]*
 
 > <sup>[30](/bible/job/30#v30)</sup> My skin is black upon me, and my bones are burned with heat.
 
 - Job says his skin is black upon him, and the icons show Job and his three friends as Black men.
 
+
+*[[58:36](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=3516s)]* **In The News: Examples of old icons painted over with lighter faces.** — This image destruction is whitewashing, but they could not paint over them all.
 
 **[Job 9:24](/bible/job/9#v24)**  *[[1:00:29](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=3629s)]*
 
@@ -290,6 +288,8 @@ Reading from a book of icons, page 11  *[[1:05:11](https://www.youtube.com/watch
 
 - It deceives by the miracles of its technology and causes the world to worship the first beast.
 
+
+*[[1:16:50](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=4610s)]* **In The News: The 'Head of Christ' painting that became popular in America in the 1940s.** — America's white Christ is another Jesus, the image of the beast.
 
 **[2 Corinthians 11:4](/bible/2-corinthians/11#v4)**  *[[1:18:27](https://www.youtube.com/watch?v=jUTjrFS8YGQ&t=4707s)]*
 

@@ -19,10 +19,6 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "islam-arabs", "purp
 
 *[[0:20](https://www.youtube.com/watch?v=ZiwI9Yiq9cA&t=20s)]* A verse-by-verse breakdown of Ezekiel's valley of dry bones: who the bones are, what the breath in them is, and why the house of Israel gathering as Christians and as Muslims has no life in it. Revelation 11 and Ephesians 2 are set beside the vision as the same prophecy.
 
-## In The News
-
-- *[[17:55](https://www.youtube.com/watch?v=ZiwI9Yiq9cA&t=1075s)]* **the Israel United in Christ nation video, which the class stood for** — The nation in motion: the prophets moving across the earth, the Sabbath kept as one, the trials from the stones in Kenya to the hatred in Montana, and the message unchanged in every nation under heaven.
-
 ## Scriptures Opened
 
 **[Ezekiel 37:1-8](/bible/ezekiel/37#v1)**  *[[0:20](https://www.youtube.com/watch?v=ZiwI9Yiq9cA&t=20s)]*
@@ -175,6 +171,8 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion", "islam-arabs", "purp
 
 - The split into two kingdoms is not repaired in the promise, it is ended: no more two nations, never divided again at all.
 
+
+*[[17:55](https://www.youtube.com/watch?v=ZiwI9Yiq9cA&t=1075s)]* **In The News: the Israel United in Christ nation video, which the class stood for** — The nation in motion: the prophets moving across the earth, the Sabbath kept as one, the trials from the stones in Kenya to the hatred in Montana, and the message unchanged in every nation under heaven.
 
 ## In Closing
 

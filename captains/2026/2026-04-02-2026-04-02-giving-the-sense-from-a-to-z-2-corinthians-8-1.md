@@ -20,10 +20,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "false-religion", "leadership"]
 
 *[[5:05](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=305s)]* Shalom y'all. Listen I'm Captain A Red. We got another edition of giving out the sense. As we roll through the book of Corinth. All praises to the Lord man. For IUIC. You ain't going to get this nowhere else brother. Where we going through books and we giving the sense. We giving the sense of what we reading because we've been lied to. We've been lied to for all these years. We've been lied to about this Bible. People have been manipulating it. All right it's gotten to the wrong hands. Now the Lord is sending the prophets back on this earth. All right and we giving you the proper context as the waters rise. All right. So all praises to the Lord so shouts out to Cap. Captain Gedaliah he stopped at Second Corinthians 7. Finished out the chapter. So we going to start at chapter 8. And let's get into it man.
 
-## In The News
-
-- *[[40:48](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=2448s)]* **Video on the Via Egnatia (the Ignatian Way), the ancient road from Neapolis (modern Kavala) over the hills to Philippi and on to Thessalonica** — This is one of the roadways right here in real time that Paul would travel. This was a common route of that time period right there that Paul took a lot of times: the road the brothers and sisters in Philippi sent aid down to Paul in Thessalonica.
-
 ## Scriptures Opened
 
 **[2 Corinthians 8:1-2](/bible/2-corinthians/8#v1)**  *[[5:54](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=354s)]*
@@ -360,6 +356,8 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 
     Remember Paul said it was like a sweet smell to him, man, that righteousness. Be ye therefore followers of God, as dear children: Be followers of God as dear children. And walk in love. For a sweetsmelling savour: For a what? Sweet smelling savor. You see that? When you walk in love, when you give yourself just like Christ leaving us a example, this is one of the examples. He said that was a sweet smelling savor. So, when Paul heard that the church was in the spirit and that they was walking in love, one body, one mind, he said that was a sweet smell to him. A sweet smell, a sacrifice accepted, well pleasing unto God. These are the things that the leadership want of us, man.
 
+
+*[[40:48](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=2448s)]* **In The News: Video on the Via Egnatia (the Ignatian Way), the ancient road from Neapolis (modern Kavala) over the hills to Philippi and on to Thessalonica** — This is one of the roadways right here in real time that Paul would travel. This was a common route of that time period right there that Paul took a lot of times: the road the brothers and sisters in Philippi sent aid down to Paul in Thessalonica.
 
 **[2 Corinthians 8:4-5](/bible/2-corinthians/8#v4)**  *[[46:38](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=2798s)]*
 

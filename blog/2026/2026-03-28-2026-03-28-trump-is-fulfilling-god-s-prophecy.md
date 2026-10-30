@@ -19,20 +19,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 
 *[[9:47](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=587s)]* Trump is fulfilling God's prophecy: the president who ran on ending wars is bombing Iran, killing its leaders and starving the world's fuel and fertilizer, because the king's heart is in the hand of the Lord and the Most High rules in the kingdom of men. The class reads America as Nebuchadnezzar, the Lord's servant sent to oppress all nations, as the oppressor and Lucifer of Isaiah 14, and as the pale horse given power over the fourth part of the earth to kill with sword, hunger and death, and reads the war, the Strait of Hormuz and the coming famine as the scourges sent for correction and the beginning of sorrows. It opens with two warnings to the congregation on lying to destroy and on dishonourable marriages, and closes with make you ready to the battle and be as pilgrims upon the earth.
 
-## In The News
-
-- *[[29:49](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=1789s)]* **MAGA supporters saying they no longer recognise the president they voted for: buried Epstein files, no wall, no deportations, tax cuts for the rich, and now a regime-change war with Iran** — The man who ran on peace changed, and they cannot see why.
-- *[[31:20](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=1880s)]* **The campaign quotes: Trump equals peace, a vote for Trump is a vote to end wars, Vance and Hegseth against regime-change wars** — Every one of them was a lie, and here we are on the edge of a world war.
-- *[[46:35](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=2795s)]* **The definition of a fatwa and Khamenei's fatwa against nuclear weapons, from the mid 1990s and declared at the IAEA in 2005** — The Ayatollah was the one man in Iran against nuclear weapons and was about to hand over the enriched uranium; the Lord had Trump kill him because prophecy says Iran will acquire it, and the hardliners who rise want revenge.
-- *[[1:03:50](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3830s)]* **Iran's AI videos trolling Trump and Netanyahu, and Trump saying the war is finished three times** — The Iranians are not backward; their women are professors and physicists building the weapons. But do not make the man who rules the nations in anger angry, or he blows up a nuclear power plant.
-- *[[1:26:30](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5190s)]* **An American commentator: sanctions and wars since 1971 killed thirty-eight million people, starving Venezuela, Cuba and Iran to make them rise against their governments** — Their wickedness is being revealed, and what comes next will be billions.
-- *[[1:34:50](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5690s)]* **The Fourth Part of the World by Toby Lester: global discovery, imperial ambition and the birth of America** — America is the fourth part of the earth of Revelation 6, and Trump's Monroe Doctrine tells China and Russia the Western Hemisphere is his.
-- *[[1:46:48](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6408s)]* **Putin warning the war will be a crisis on the scale of the pandemic, with forty-five million dying of hunger** — Putin understands what we have not been taught to think about on a geopolitical stage.
-- *[[1:48:00](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6480s)]* **Why America cannot leave the Middle East: Gulf states fall to Iran, the petrodollar collapses, Japan and Korea rearm, NATO fractures, the dollar loses reserve status** — The Strait of Hormuz is the key that locks America inside the trap and Iran is holding it; for every action there is a reaction, so prepare, and do not come to my house if you bought an X5 instead.
-- *[[1:52:00](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6720s)]* **Fuel panic in the Philippines, Thailand, India, Vietnam and Australia, and the Philippine state of national energy emergency** — One move by Iran and the whole world is walking to work; that is the famine the pale horse brings.
-- *[[2:01:34](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7294s)]* **Trump saying Iran was not supposed to hit Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait, that they could have yielded** — How dare you fight back: that pride is why the Lord has him in a trick bag, unable to leave and forced to rule in anger.
-- *[[2:06:17](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7577s)]* **The fertilizer shock: a third of the world's urea and a quarter of its ammonia pass through the strait, prices up thirty-seven per cent in a week, at the start of spring sowing** — Fertilizer is made from gas, half the world's food depends on it, and smaller harvests mean the famine that scripture promised.
-
 ## Scriptures Opened
 
 **[Sirach 20:24-26](/bible/sirach/20#v24)**  *[[10:54](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=654s)]*
@@ -62,6 +48,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 
     If a man know not how to rule his own house: it is your job, not leadership's, to rule it.
 
+
+*[[29:49](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=1789s)]* **In The News: MAGA supporters saying they no longer recognise the president they voted for: buried Epstein files, no wall, no deportations, tax cuts for the rich, and now a regime-change war with Iran** — The man who ran on peace changed, and they cannot see why.
+
+*[[31:20](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=1880s)]* **In The News: The campaign quotes: Trump equals peace, a vote for Trump is a vote to end wars, Vance and Hegseth against regime-change wars** — Every one of them was a lie, and here we are on the edge of a world war.
 
 **[Daniel 4:17](/bible/daniel/4#v17)**  *[[34:01](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=2041s)]*
 
@@ -98,6 +88,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 
 - Things happen in the spiritual realm you cannot see: the Lord and the angels guide men. The Lord had Trump kill the Ayatollah, his family, Larijani and tiers of Iran's leadership, and whoso sheddeth man's blood, by man shall his blood be shed.
 
+
+*[[46:35](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=2795s)]* **In The News: The definition of a fatwa and Khamenei's fatwa against nuclear weapons, from the mid 1990s and declared at the IAEA in 2005** — The Ayatollah was the one man in Iran against nuclear weapons and was about to hand over the enriched uranium; the Lord had Trump kill him because prophecy says Iran will acquire it, and the hardliners who rise want revenge.
 
 **[Isaiah 46:10](/bible/isaiah/46#v10)**  *[[51:41](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3101s)]*
 
@@ -171,6 +163,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 - Is this the man that made the earth to tremble, that shook kingdoms and made the world a wilderness: Lucifer is a man, the white man, who wars by flying over your cities and dropping bombs, as Palestine, Libya and now Iran show. That opened not the house of his prisoners: we are still slaves in Babylon, born into it and conditioned not to see it. All the kings of the nations lie in glory, every one in his own house, so everyone goes back to his own land, but thou art cast out.
 
 
+*[[1:03:50](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3830s)]* **In The News: Iran's AI videos trolling Trump and Netanyahu, and Trump saying the war is finished three times** — The Iranians are not backward; their women are professors and physicists building the weapons. But do not make the man who rules the nations in anger angry, or he blows up a nuclear power plant.
+
 **[Matthew 24:3-8](/bible/matthew/24#v3)**  *[[1:17:02](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=4622s)]*
 
 > <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
@@ -230,6 +224,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
     The vision is for an appointed time and will not tarry; his soul is not upright in him, he is a proud man who keepeth not at home, with bases in every country, who enlargeth his desire as hell and is as death: hell and death of Revelation 6 is America.
 
 
+*[[1:26:30](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5190s)]* **In The News: An American commentator: sanctions and wars since 1971 killed thirty-eight million people, starving Venezuela, Cuba and Iran to make them rise against their governments** — Their wickedness is being revealed, and what comes next will be billions.
+
+*[[1:34:50](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5690s)]* **In The News: The Fourth Part of the World by Toby Lester: global discovery, imperial ambition and the birth of America** — America is the fourth part of the earth of Revelation 6, and Trump's Monroe Doctrine tells China and Russia the Western Hemisphere is his.
+
 **[2 Esdras 16:19-22](/bible/2-esdras/16#v19)**  *[[1:37:37](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5857s)]*
 
 > <sup>[19](/bible/2-esdras/16#v19)</sup> Behold, famine and plague, tribulation and anguish, are sent as scourges for amendment.
@@ -249,6 +247,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 - Many shall perish of famine, and the others that escape the hunger the sword shall destroy; America is behind it, and the Lord behind America.
 
 
+*[[1:46:48](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6408s)]* **In The News: Putin warning the war will be a crisis on the scale of the pandemic, with forty-five million dying of hunger** — Putin understands what we have not been taught to think about on a geopolitical stage.
+
+*[[1:48:00](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6480s)]* **In The News: Why America cannot leave the Middle East: Gulf states fall to Iran, the petrodollar collapses, Japan and Korea rearm, NATO fractures, the dollar loses reserve status** — The Strait of Hormuz is the key that locks America inside the trap and Iran is holding it; for every action there is a reaction, so prepare, and do not come to my house if you bought an X5 instead.
+
+*[[1:52:00](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=6720s)]* **In The News: Fuel panic in the Philippines, Thailand, India, Vietnam and Australia, and the Philippine state of national energy emergency** — One move by Iran and the whole world is walking to work; that is the famine the pale horse brings.
+
 **[Ecclesiastes 5:8-10](/bible/ecclesiastes/5#v8)**  *[[1:58:45](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7125s)]*
 
 > <sup>[8](/bible/ecclesiastes/5#v8)</sup> If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.
@@ -263,6 +267,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 
 - Teaching this word will get us killed, because when you see evil you call it out, and they call you a hate group and anti-American.
 
+
+*[[2:01:34](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7294s)]* **In The News: Trump saying Iran was not supposed to hit Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait, that they could have yielded** — How dare you fight back: that pride is why the Lord has him in a trick bag, unable to leave and forced to rule in anger.
+
+*[[2:06:17](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7577s)]* **In The News: The fertilizer shock: a third of the world's urea and a quarter of its ammonia pass through the strait, prices up thirty-seven per cent in a week, at the start of spring sowing** — Fertilizer is made from gas, half the world's food depends on it, and smaller harvests mean the famine that scripture promised.
 
 **[2 Esdras 15:1-8](/bible/2-esdras/15#v1)**  *[[2:12:19](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=7939s)]*
 

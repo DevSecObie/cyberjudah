@@ -20,20 +20,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "salvation", "th
 
 *[[0:33](https://www.youtube.com/watch?v=nyDKMujqIWw&t=33s)]* The Natives Hour, from IUIC Denver, continuing part 2 of Native Americans Were Slaves Too: the untold history of Indian slavery in the colonies, from the Pequot sold to the West Indies in exchange for African slaves, to the 800-foot coffle of Sioux marched to Montreal, to more Indians exported through Charles Town than Africans imported. The children of Israel and the children of Judah were oppressed together, in slavery at the same time, and Esau separated them by reservations and colorism so they would not know each other as brothers.
 
-## In The News
-
-- *[[2:30](https://www.youtube.com/watch?v=nyDKMujqIWw&t=150s)]* **An article from November 2023: 19 volcanoes erupting at the same time worldwide, three new eruptions added by the Smithsonian's Global Volcanism Program, in Italy, Japan, Mexico, Russia, the Philippines and more** — Great signs shall there be from heaven: go back to the scripture and read Luke 21:11 again.
-- *[[7:13](https://www.youtube.com/watch?v=nyDKMujqIWw&t=433s)]* **The untold story of American Indian slaves who were sold as Negroes, read last week; then Slate, America's other original sin: Europeans didn't just displace Native Americans, they enslaved them and encouraged tribes to take part in the slave trade** — Displace means they forced them off their land onto reservations that weren't resourceful. Why don't we read about this at Thanksgiving or in history class?
-- *[[9:17](https://www.youtube.com/watch?v=nyDKMujqIWw&t=557s)]* **In 1637 a group of Pequot men and boys who had risen up against the English in Connecticut were sold to plantations in the West Indies in exchange for African slaves, and the tribe's women were pressed into service in white homes in New England** — So Gad was sold to the plantations in the Caribbean in exchange for so-called African Americans. Some of y'all in the islands might be Gad.
-- *[[10:24](https://www.youtube.com/watch?v=nyDKMujqIWw&t=624s)]* **In 1741 an 800-foot-long coffle of recently enslaved Sioux Indians, procured by Cree, Assiniboine and Monsoni warriors, arrived in Montreal for sale to the French; a coffle is a line of slaves fastened or driven along together** — Enough so-called Indians lined up in chains, behind each other, to stretch 800 feet, the same way they did Judah, and that's before the Trail of Tears. They don't tell us about that.
-- *[[17:31](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1051s)]* **In 1837 Cherokee Joseph Vann, expelled from his land in Georgia during Indian Removal, took at least 48 enslaved black people with him to Indian Territory, and by the 1840s was said to own hundreds** — They'll say Gad owned African American slaves, but when you examine it, they made Judah indigent servants and gave their daughters in marriage into the tribes. Esau was hanging Judah on trees. That's why a lot of Judah say my grandmama was Cherokee. Esau put this in to make the northern and southern kingdoms hate each other.
-- *[[19:32](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1172s)]* **Historians now direct attention to how the enslavement of Africans and the displacement of Native Americans overlapped; Alan Gallay writes that between 1670 and 1715 more Indians were exported into slavery through Charles Town than Africans were imported, and Brett Rushforth estimates 2 to 4 million indigenous people in the Americas were enslaved** — Exported means on ships. That number is not even correct; there's no paper trail, he's guessing. They lower the number of us killed and enslaved. This sounds like a holocaust to me.
-- *[[23:30](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1410s)]* **Up to about 1680 or 1690 there had been more enslaved Indians than enslaved Africans in the Americas; colonists in the Pequot War explicitly named taking captives as one of their goals** — They couldn't break them, so they sent them to the West Indies, which was known for breaking the most unruly slaves, the Willie Lynch method.
-- *[[26:48](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1608s)]* **Wikipedia, Slavery among Native Americans in the United States: some were captured and sold by others into slavery to Europeans; before contact, captives were often allowed to live on the fringes of the tribe until slowly integrated, so the word slave may not accurately apply** — They try to make it seem like we sold ourselves across the seas, but we dealt with each other ethically, like indentured servitude; we weren't burning and hanging each other. When the Europeans came, the practice changed: captives were sold to Europeans instead of integrated.
-- *[[34:17](https://www.youtube.com/watch?v=nyDKMujqIWw&t=2057s)]* **Indians were enslaved by the Spanish in Florida and the Southwest under the encomienda system; as sugar cane grew in the West Indies, Europeans exported enslaved Native Americans to the sugar islands; Gallay estimates 24,000 to 51,000 captives exported through Carolina ports from 1670 to 1715, and calls the Indian slave trade the most important factor affecting the South** — We think Gad is going to wake up at the 11th hour, but it sounds like Gad already woke up. The South was where Judah was being terrorized, so Judah and Gad were in slavery in the same time period.
-- *[[43:37](https://www.youtube.com/watch?v=nyDKMujqIWw&t=2617s)]* **Starting in 1698 Parliament allowed competition among importers of enslaved Africans, raising their prices above enslaved Native Americans; British settlers in the southern colonies used Native Americans for tobacco, rice and indigo; accurate records of the numbers enslaved do not exist** — That records don't exist is bull. When a ship came in they kept a manifest, and a bill of sale for every purchase; Esau keeps track of what he got. It's on the books, and they're lying.
-- *[[46:57](https://www.youtube.com/watch?v=nyDKMujqIWw&t=2817s)]* **The Virginia General Assembly in 1705: servants imported who were not Christians in their native country shall be slaves; all Negro, mulatto and Indian slaves shall be held to be real estate; and if a slave resisting correction is killed, the master shall be free of all punishment, as if such accident never happened** — That's why they get off killing us today: it's always been in the books. He had a cell phone, he reached in his pocket, I was afraid for my life.
-
 ## Scriptures Opened
 
 **[Luke 21:8](/bible/luke/21#v8)**  *[[0:33](https://www.youtube.com/watch?v=nyDKMujqIWw&t=33s)]*
@@ -50,6 +36,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "salvation", "th
 
     And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
 
+
+*[[2:30](https://www.youtube.com/watch?v=nyDKMujqIWw&t=150s)]* **In The News: An article from November 2023: 19 volcanoes erupting at the same time worldwide, three new eruptions added by the Smithsonian's Global Volcanism Program, in Italy, Japan, Mexico, Russia, the Philippines and more** — Great signs shall there be from heaven: go back to the scripture and read Luke 21:11 again.
 
 **[Luke 21:12](/bible/luke/21#v12)**  *[[4:38](https://www.youtube.com/watch?v=nyDKMujqIWw&t=278s)]*
 
@@ -69,12 +57,18 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "salvation", "th
 - You so-called Hispanics, you ain't Mexican, you ain't Puerto Rican, you ain't Native American: you are the Israelites. This whole thing is about you, so-called blacks and Native Indians.
 
 
+*[[7:13](https://www.youtube.com/watch?v=nyDKMujqIWw&t=433s)]* **In The News: The untold story of American Indian slaves who were sold as Negroes, read last week; then Slate, America's other original sin: Europeans didn't just displace Native Americans, they enslaved them and encouraged tribes to take part in the slave trade** — Displace means they forced them off their land onto reservations that weren't resourceful. Why don't we read about this at Thanksgiving or in history class?
+
 **[Romans 13:11](/bible/romans/13#v11)**  *[[7:13](https://www.youtube.com/watch?v=nyDKMujqIWw&t=433s)]*
 
 > <sup>[11](/bible/romans/13#v11)</sup> And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.
 
 - Now it is high time to awake out of sleep: if there was any other time, now is the time. Now is our salvation, our redemption; the tide is turning.
 
+
+*[[9:17](https://www.youtube.com/watch?v=nyDKMujqIWw&t=557s)]* **In The News: In 1637 a group of Pequot men and boys who had risen up against the English in Connecticut were sold to plantations in the West Indies in exchange for African slaves, and the tribe's women were pressed into service in white homes in New England** — So Gad was sold to the plantations in the Caribbean in exchange for so-called African Americans. Some of y'all in the islands might be Gad.
+
+*[[10:24](https://www.youtube.com/watch?v=nyDKMujqIWw&t=624s)]* **In The News: In 1741 an 800-foot-long coffle of recently enslaved Sioux Indians, procured by Cree, Assiniboine and Monsoni warriors, arrived in Montreal for sale to the French; a coffle is a line of slaves fastened or driven along together** — Enough so-called Indians lined up in chains, behind each other, to stretch 800 feet, the same way they did Judah, and that's before the Trail of Tears. They don't tell us about that.
 
 **[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[12:41](https://www.youtube.com/watch?v=nyDKMujqIWw&t=761s)]*
 
@@ -101,6 +95,14 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "salvation", "th
     Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
 
+*[[17:31](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1051s)]* **In The News: In 1837 Cherokee Joseph Vann, expelled from his land in Georgia during Indian Removal, took at least 48 enslaved black people with him to Indian Territory, and by the 1840s was said to own hundreds** — They'll say Gad owned African American slaves, but when you examine it, they made Judah indigent servants and gave their daughters in marriage into the tribes. Esau was hanging Judah on trees. That's why a lot of Judah say my grandmama was Cherokee. Esau put this in to make the northern and southern kingdoms hate each other.
+
+*[[19:32](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1172s)]* **In The News: Historians now direct attention to how the enslavement of Africans and the displacement of Native Americans overlapped; Alan Gallay writes that between 1670 and 1715 more Indians were exported into slavery through Charles Town than Africans were imported, and Brett Rushforth estimates 2 to 4 million indigenous people in the Americas were enslaved** — Exported means on ships. That number is not even correct; there's no paper trail, he's guessing. They lower the number of us killed and enslaved. This sounds like a holocaust to me.
+
+*[[23:30](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1410s)]* **In The News: Up to about 1680 or 1690 there had been more enslaved Indians than enslaved Africans in the Americas; colonists in the Pequot War explicitly named taking captives as one of their goals** — They couldn't break them, so they sent them to the West Indies, which was known for breaking the most unruly slaves, the Willie Lynch method.
+
+*[[26:48](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1608s)]* **In The News: Wikipedia, Slavery among Native Americans in the United States: some were captured and sold by others into slavery to Europeans; before contact, captives were often allowed to live on the fringes of the tribe until slowly integrated, so the word slave may not accurately apply** — They try to make it seem like we sold ourselves across the seas, but we dealt with each other ethically, like indentured servitude; we weren't burning and hanging each other. When the Europeans came, the practice changed: captives were sold to Europeans instead of integrated.
+
 **[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[27:50](https://www.youtube.com/watch?v=nyDKMujqIWw&t=1670s)]*
 
 > <sup>[68](/bible/deuteronomy/28#v68)</sup> And the Lord shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you.
@@ -119,6 +121,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "salvation", "th
 - We have to go over this for people who never heard it: God called Egypt the house of bondage, so Egypt is synonymous with bondage.
 
 
+*[[34:17](https://www.youtube.com/watch?v=nyDKMujqIWw&t=2057s)]* **In The News: Indians were enslaved by the Spanish in Florida and the Southwest under the encomienda system; as sugar cane grew in the West Indies, Europeans exported enslaved Native Americans to the sugar islands; Gallay estimates 24,000 to 51,000 captives exported through Carolina ports from 1670 to 1715, and calls the Indian slave trade the most important factor affecting the South** — We think Gad is going to wake up at the 11th hour, but it sounds like Gad already woke up. The South was where Judah was being terrorized, so Judah and Gad were in slavery in the same time period.
+
 **[Jeremiah 50:33](/bible/jeremiah/50#v33)**  *[[38:19](https://www.youtube.com/watch?v=nyDKMujqIWw&t=2299s)]*
 
 > <sup>[33](/bible/jeremiah/50#v33)</sup> Thus saith the Lord of hosts; The children of Israel and the children of Judah were oppressed together: and all that took them captives held them fast; they refused to let them go.
@@ -131,6 +135,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "salvation", "th
 
 - All that took them captives held them fast; they refused to let them go: they worked for years to keep us.
 
+
+*[[43:37](https://www.youtube.com/watch?v=nyDKMujqIWw&t=2617s)]* **In The News: Starting in 1698 Parliament allowed competition among importers of enslaved Africans, raising their prices above enslaved Native Americans; British settlers in the southern colonies used Native Americans for tobacco, rice and indigo; accurate records of the numbers enslaved do not exist** — That records don't exist is bull. When a ship came in they kept a manifest, and a bill of sale for every purchase; Esau keeps track of what he got. It's on the books, and they're lying.
+
+*[[46:57](https://www.youtube.com/watch?v=nyDKMujqIWw&t=2817s)]* **In The News: The Virginia General Assembly in 1705: servants imported who were not Christians in their native country shall be slaves; all Negro, mulatto and Indian slaves shall be held to be real estate; and if a slave resisting correction is killed, the master shall be free of all punishment, as if such accident never happened** — That's why they get off killing us today: it's always been in the books. He had a cell phone, he reached in his pocket, I was afraid for my life.
 
 **[Deuteronomy 28:65](/bible/deuteronomy/28#v65)**  *[[48:03](https://www.youtube.com/watch?v=nyDKMujqIWw&t=2883s)]*
 
