@@ -1,6 +1,6 @@
 import { renderErrorPage } from "./lib/error-page";
 import { applySecurityHeaders } from "./lib/security-headers.server";
-import { launchPath } from "./lib/telegram-links.mjs";
+import { frontDoorPath, launchPath } from "./lib/telegram-links.mjs";
 
 type ServerEntry = { fetch: (request: Request, env: unknown, ctx: unknown) => Promise<Response> | Response };
 let serverEntryPromise: Promise<ServerEntry> | undefined;
@@ -30,6 +30,13 @@ export default {
     if (start && (url.pathname === "/" || url.pathname === "/app")) {
       const target = launchPath(start);
       if (target !== url.pathname) return new Response(null, { status: 302, headers: { location: target, "cache-control": "no-store" } });
+    }
+    // The front door: with APP_FRONT_DOOR on, a page the app shows opens in the app (/app on
+    // the Telegram Worker); pages it has no screen for stay here. A 302, so turning it off
+    // (or rolling back this Worker) leaves no redirect cached in browsers or search engines.
+    if ((env as { APP_FRONT_DOOR?: string } | undefined)?.APP_FRONT_DOOR === "on" && (request.method === "GET" || request.method === "HEAD")) {
+      const target = frontDoorPath(url.pathname + url.search);
+      if (target) return new Response(null, { status: 302, headers: { location: target, "cache-control": "no-store" } });
     }
     try {
       const handler = await getServerEntry();
