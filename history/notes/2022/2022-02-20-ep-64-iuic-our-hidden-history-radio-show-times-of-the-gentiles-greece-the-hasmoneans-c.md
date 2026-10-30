@@ -5,7 +5,7 @@ date: "2022-02-20"
 episode: 64
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-02-20"
-tags: ["Our Hidden History", "betrayal", "nations"]
+tags: ["Our Hidden History", "betrayal", "greece", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-02-20 · Deacon Eythan</p>

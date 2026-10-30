@@ -4,7 +4,7 @@ slug: "2025/2025-11-19-what-about-politics"
 date: "2025-11-19"
 teacher: "Captain Jeroham"
 description: "15 Minutes w/ The Captains · 2025-11-19"
-tags: ["15 Minutes w/ The Captains", "america-babylon", "idolatry", "justice"]
+tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt", "idolatry", "justice"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-11-19</p>

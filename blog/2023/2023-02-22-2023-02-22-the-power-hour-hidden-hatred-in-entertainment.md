@@ -5,7 +5,7 @@ date: "2023-02-22"
 teacher: "Officer"
 description: "The Power Hour · 2023-02-22"
 collection: "The Power Hour"
-tags: ["IUIC in the ClassRoom", "media", "satan"]
+tags: ["IUIC in the ClassRoom", "angels", "media", "money", "satan", "the-americas"]
 ---
 
 <p class="taught">The Power Hour · 2023-02-22 · Officer</p>

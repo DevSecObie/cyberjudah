@@ -5,7 +5,7 @@ date: "2025-02-16"
 episode: 163
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-02-16 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "africa-moors", "islam-arabs", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2025-02-16 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-02-01-the-dividing-hatred-the-grafted-in-strangers"
 date: "2026-02-01"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-02-01"
-tags: ["IUIC in the ClassRoom", "mercy"]
+tags: ["IUIC in the ClassRoom", "anger", "love", "mercy"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-02-01</p>

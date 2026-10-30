@@ -4,7 +4,7 @@ slug: "2025/2025-11-27-ezekiel-37-1-11-excerpt-from-the-4-temples-of-jerusalem"
 date: "2025-11-27"
 teacher: ""
 description: "IUIC in the ClassRoom · 2025-11-27"
-tags: ["IUIC in the ClassRoom", "christ", "false-religion", "purpose", "the-law"]
+tags: ["IUIC in the ClassRoom", "christ", "false-religion", "islam-arabs", "purpose", "the-americas", "the-law"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-11-27</p>

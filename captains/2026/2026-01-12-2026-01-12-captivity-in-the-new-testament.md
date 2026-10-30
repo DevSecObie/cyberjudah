@@ -4,7 +4,7 @@ slug: "2026/2026-01-12-captivity-in-the-new-testament"
 date: "2026-01-12"
 teacher: "Captain Osee"
 description: "15 Minutes w/ The Captains · 2026-01-12"
-tags: ["15 Minutes w/ The Captains", "captivity", "christ"]
+tags: ["15 Minutes w/ The Captains", "captivity", "christ", "money", "rome"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-01-12</p>

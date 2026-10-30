@@ -5,7 +5,7 @@ date: "2022-03-27"
 episode: 68
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-03-27"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "egypt", "greece", "nations", "persia-medes", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-03-27 · Deacon Eythan</p>

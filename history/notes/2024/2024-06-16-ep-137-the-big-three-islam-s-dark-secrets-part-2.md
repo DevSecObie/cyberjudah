@@ -5,7 +5,7 @@ date: "2024-06-16"
 episode: 137
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-06-16 · with an officer of IUIC Philadelphia"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "egypt", "islam-arabs"]
 ---
 
 <p class="taught">Our Hidden History · 2024-06-16 · Deacon Eythan, with an officer of IUIC Philadelphia</p>

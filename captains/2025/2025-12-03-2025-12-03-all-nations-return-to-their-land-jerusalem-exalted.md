@@ -4,7 +4,7 @@ slug: "2025/2025-12-03-all-nations-return-to-their-land-jerusalem-exalted"
 date: "2025-12-03"
 teacher: "Captain Banqanayah"
 description: "15 Minutes w/ The Captains · 2025-12-03"
-tags: ["15 Minutes w/ The Captains", "passover-feasts"]
+tags: ["15 Minutes w/ The Captains", "passover-feasts", "unity"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-12-03</p>

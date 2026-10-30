@@ -5,7 +5,7 @@ date: "2022-01-16"
 episode: 59
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-01-16"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2022-01-16 · Deacon Eythan</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-10-26-i-have-loved-strangers-and-after-them-will-i-go"
 date: "2026-10-26"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-10-26"
-tags: ["IUIC in the ClassRoom", "captivity"]
+tags: ["IUIC in the ClassRoom", "anger", "captivity", "money"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-26</p>

@@ -4,7 +4,7 @@ slug: "2025/2025-11-22-living-a-clean-life-in-a-dirty-world"
 date: "2025-11-22"
 teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2025-11-22"
-tags: ["IUIC in the ClassRoom", "purpose", "sexual-purity", "the-word"]
+tags: ["IUIC in the ClassRoom", "anger", "purpose", "sexual-purity", "the-word"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-11-22</p>

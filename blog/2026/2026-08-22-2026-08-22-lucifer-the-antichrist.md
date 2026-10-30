@@ -4,7 +4,7 @@ slug: "2026/2026-08-22-lucifer-the-antichrist"
 date: "2026-08-22"
 teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-08-22"
-tags: ["IUIC in the ClassRoom", "christ", "deceit", "false-religion", "satan"]
+tags: ["IUIC in the ClassRoom", "angels", "christ", "deceit", "false-religion", "heaven-hell", "satan"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22 (date estimated)</p>

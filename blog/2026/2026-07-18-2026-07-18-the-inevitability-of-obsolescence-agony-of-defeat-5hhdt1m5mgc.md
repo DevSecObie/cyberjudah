@@ -4,7 +4,7 @@ slug: "2026/2026-07-18-the-inevitability-of-obsolescence-agony-of-defeat-5hhdt1m
 date: "2026-07-18"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-18"
-tags: ["IUIC in the ClassRoom", "christ", "purpose", "repentance", "the-body"]
+tags: ["IUIC in the ClassRoom", "anger", "christ", "purpose", "repentance", "the-body"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-18</p>

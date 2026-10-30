@@ -3,7 +3,7 @@ title: "FROM NEGROES TO GODS FROM EARTH TO GOLD"
 slug: "2026/2026-09-19-from-negroes-to-gods-from-earth-to-gold"
 date: "2026-09-19"
 description: "IUIC in the ClassRoom · 2026-09-19"
-tags: ["IUIC in the ClassRoom", "leadership"]
+tags: ["IUIC in the ClassRoom", "angels", "leadership"]
 teacher: "Captain Amaziah"
 ---
 

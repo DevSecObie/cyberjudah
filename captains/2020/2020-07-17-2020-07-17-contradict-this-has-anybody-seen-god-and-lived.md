@@ -5,7 +5,7 @@ date: "2020-07-17"
 teacher: "Captain Hoshayah"
 description: "Contradict This · 2020-07-17"
 collection: "Contradict This"
-tags: ["15 Minutes w/ The Captains"]
+tags: ["15 Minutes w/ The Captains", "angels"]
 ---
 
 <p class="taught">Contradict This · 2020-07-17 · Captain Hoshayah</p>

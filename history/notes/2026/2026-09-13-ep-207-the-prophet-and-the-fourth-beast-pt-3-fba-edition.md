@@ -5,7 +5,7 @@ date: "2026-09-13"
 episode: 207
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-09-13 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "captivity", "nations", "reparations"]
+tags: ["Our Hidden History", "captivity", "money", "nations", "reparations"]
 ---
 
 <p class="taught">Our Hidden History · 2026-09-13 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

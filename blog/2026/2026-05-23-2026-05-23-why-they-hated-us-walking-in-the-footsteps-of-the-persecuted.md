@@ -4,7 +4,7 @@ slug: "2026/2026-05-23-why-they-hated-us-walking-in-the-footsteps-of-the-persecu
 date: "2026-05-23"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-23"
-tags: ["IUIC in the ClassRoom", "justice", "persecution"]
+tags: ["IUIC in the ClassRoom", "egypt", "justice", "persecution"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23 (date estimated)</p>

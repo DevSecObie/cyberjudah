@@ -4,7 +4,7 @@ slug: "2026/2026-08-05-just-do-the-work-your-wasting-time"
 date: "2026-08-05"
 teacher: "Captain Karataza"
 description: "15 Minutes w/ The Captains · 2026-08-05"
-tags: ["15 Minutes w/ The Captains", "mercy", "prophecy", "war"]
+tags: ["15 Minutes w/ The Captains", "anger", "mercy", "prophecy", "war"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-05</p>

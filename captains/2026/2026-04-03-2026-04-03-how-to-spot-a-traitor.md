@@ -4,7 +4,7 @@ slug: "2026/2026-04-03-how-to-spot-a-traitor"
 date: "2026-04-03"
 teacher: "Captain Yahoshua"
 description: "15 Minutes w/ The Captains · 2026-04-03"
-tags: ["15 Minutes w/ The Captains", "betrayal", "christ", "deceit", "discipline", "justice"]
+tags: ["15 Minutes w/ The Captains", "betrayal", "christ", "deceit", "discipline", "justice", "money"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-04-03</p>

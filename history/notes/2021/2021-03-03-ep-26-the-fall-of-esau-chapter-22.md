@@ -5,7 +5,7 @@ date: "2021-03-03"
 episode: 26
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-03-03 · with Captain Joelle, Officer Jezreel and Officer Abdullah"
-tags: ["Our Hidden History", "edom-esau", "prophecy", "nations"]
+tags: ["Our Hidden History", "edom-esau", "islam-arabs", "nations", "prophecy", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-03-03 · Deacon Eythan, with Captain Joelle, Officer Jezreel and Officer Abdullah</p>

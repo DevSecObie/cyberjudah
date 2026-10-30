@@ -4,7 +4,7 @@ slug: "2025/2025-12-07-radicalize-the-youth"
 date: "2025-12-07"
 teacher: "Bishop Kani"
 description: "IUIC in the ClassRoom · 2025-12-07"
-tags: ["IUIC in the ClassRoom", "false-religion"]
+tags: ["IUIC in the ClassRoom", "europe-dark-ages", "false-religion", "youth"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-12-07</p>

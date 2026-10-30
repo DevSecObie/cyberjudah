@@ -4,7 +4,7 @@ slug: "2025/2025-05-28-apologetics-get-dismantled-in-galatians-2"
 date: "2025-05-28"
 teacher: ""
 description: "15 Minutes w/ The Captains · 2025-05-28"
-tags: ["15 Minutes w/ The Captains", "captivity", "christ", "faith"]
+tags: ["15 Minutes w/ The Captains", "captivity", "christ", "faith", "salvation"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-05-28</p>

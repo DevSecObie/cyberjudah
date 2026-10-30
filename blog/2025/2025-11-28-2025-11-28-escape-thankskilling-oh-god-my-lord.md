@@ -4,7 +4,7 @@ slug: "2025/2025-11-28-escape-thankskilling-oh-god-my-lord"
 date: "2025-11-28"
 teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2025-11-28"
-tags: ["IUIC in the ClassRoom", "christ", "wisdom"]
+tags: ["IUIC in the ClassRoom", "angels", "christ", "salvation", "wisdom"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-11-28</p>

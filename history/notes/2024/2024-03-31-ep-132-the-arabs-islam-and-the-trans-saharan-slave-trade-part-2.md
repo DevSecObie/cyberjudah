@@ -5,7 +5,7 @@ date: "2024-03-31"
 episode: 132
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-03-31"
-tags: ["Our Hidden History", "edom-esau", "idolatry", "false-religion", "persecution", "nations"]
+tags: ["Our Hidden History", "africa-moors", "edom-esau", "false-religion", "idolatry", "islam-arabs", "nations", "persecution"]
 ---
 
 <p class="taught">Our Hidden History · 2024-03-31 · Deacon Eythan</p>

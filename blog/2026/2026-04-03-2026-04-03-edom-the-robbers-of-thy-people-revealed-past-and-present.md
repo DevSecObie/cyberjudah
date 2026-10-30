@@ -4,7 +4,7 @@ slug: "2026/2026-04-03-edom-the-robbers-of-thy-people-revealed-past-and-present"
 date: "2026-04-03"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-03"
-tags: ["IUIC in the ClassRoom", "edom-esau"]
+tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages", "greece", "so-called-jews"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-03</p>

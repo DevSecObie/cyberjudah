@@ -4,7 +4,7 @@ slug: "2025/2025-11-07-ungrateful-children"
 date: "2025-11-07"
 teacher: "Captain Zakai"
 description: "15 Minutes w/ The Captains · 2025-11-07"
-tags: ["15 Minutes w/ The Captains", "marriage-family", "wisdom"]
+tags: ["15 Minutes w/ The Captains", "marriage-family", "obedience", "wisdom", "youth"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-11-07</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-01-31-cyber-warfare-the-mouth-of-the-beast"
 date: "2026-01-31"
 teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2026-01-31"
-tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "deceit", "media", "war"]
+tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "deceit", "media", "so-called-jews", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-01-31</p>

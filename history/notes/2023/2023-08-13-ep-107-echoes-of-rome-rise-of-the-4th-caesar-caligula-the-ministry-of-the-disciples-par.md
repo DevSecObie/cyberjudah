@@ -5,7 +5,7 @@ date: "2023-08-13"
 episode: 107
 teacher: "Officer Jazz"
 description: "Our Hidden History · 2023-08-13 · Officer Jazz, with Officer Abdon, Officer Manny and Officer Hezekiah"
-tags: ["Our Hidden History", "leadership", "nations"]
+tags: ["Our Hidden History", "leadership", "nations", "persia-medes", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-08-13 · Officer Jazz, with Officer Abdon, Officer Manny and Officer Hezekiah</p>

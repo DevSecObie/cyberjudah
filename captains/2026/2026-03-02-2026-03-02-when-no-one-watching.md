@@ -4,7 +4,7 @@ slug: "2026/2026-03-02-when-no-one-watching"
 date: "2026-03-02"
 teacher: "Captain Yahoshua"
 description: "15 Minutes w/ The Captains · 2026-03-02"
-tags: ["15 Minutes w/ The Captains", "persecution", "the-law", "wisdom"]
+tags: ["15 Minutes w/ The Captains", "angels", "persecution", "the-law", "wisdom"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-03-02</p>

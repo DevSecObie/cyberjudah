@@ -5,7 +5,7 @@ date: "2022-04-24"
 episode: 70
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-04-24"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-04-24 · Deacon Eythan</p>

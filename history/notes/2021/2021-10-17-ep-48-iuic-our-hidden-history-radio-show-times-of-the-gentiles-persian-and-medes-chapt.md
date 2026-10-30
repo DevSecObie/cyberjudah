@@ -5,7 +5,7 @@ date: "2021-10-17"
 episode: 48
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-10-17 · with Officer Jazz"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2021-10-17 · Deacon Eythan, with Officer Jazz</p>

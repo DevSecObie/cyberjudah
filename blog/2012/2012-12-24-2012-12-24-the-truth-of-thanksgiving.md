@@ -5,7 +5,7 @@ date: "2012-12-24"
 teacher: "Elder Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-24 · with Deacon Asaph"
-tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance", "prophecy"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "endurance", "europe-dark-ages", "prophecy", "the-americas"]
 ---
 
 <p class="taught">The Truth Shall Make You Free · 2012-12-24 · Elder Nathanyel, with Deacon Asaph</p>

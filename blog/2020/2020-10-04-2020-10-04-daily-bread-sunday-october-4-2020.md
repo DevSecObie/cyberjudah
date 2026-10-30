@@ -5,7 +5,7 @@ date: "2020-10-04"
 teacher: "Officer Michael"
 description: "Daily Bread · 2020-10-04"
 collection: "Daily Bread"
-tags: ["IUIC in the ClassRoom", "discipline", "sabbath", "the-law", "the-word"]
+tags: ["IUIC in the ClassRoom", "discipline", "obedience", "sabbath", "the-law", "the-word"]
 ---
 
 <p class="taught">Daily Bread · 2020-10-04 · Officer Michael</p>

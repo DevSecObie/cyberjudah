@@ -5,7 +5,7 @@ date: "2023-01-22"
 episode: 88
 teacher: "Captain Joel"
 description: "Our Hidden History · 2023-01-22 · Captain Joel, with officers on the panel"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "egypt"]
 ---
 
 <p class="taught">Our Hidden History · 2023-01-22 · Captain Joel, with officers on the panel</p>

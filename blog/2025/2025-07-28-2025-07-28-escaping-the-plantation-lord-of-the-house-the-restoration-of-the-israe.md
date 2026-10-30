@@ -5,7 +5,7 @@ date: "2025-07-28"
 teacher: "Officer"
 description: "Escaping the Plantation · 2025-07-28"
 collection: "Escaping the Plantation"
-tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "women"]
+tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"]
 ---
 
 <p class="taught">Escaping the Plantation · 2025-07-28 · Officer</p>

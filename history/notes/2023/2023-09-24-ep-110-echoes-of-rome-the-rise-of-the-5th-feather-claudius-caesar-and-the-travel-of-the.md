@@ -5,7 +5,7 @@ date: "2023-09-24"
 episode: 110
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-09-24 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "america-babylon"]
+tags: ["Our Hidden History", "america-babylon", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-09-24 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

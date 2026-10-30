@@ -5,7 +5,7 @@ date: "2021-09-19"
 episode: 46
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-09-19 · with a captain and the brothers"
-tags: ["Our Hidden History", "america-babylon", "nations"]
+tags: ["Our Hidden History", "america-babylon", "nations", "so-called-jews"]
 ---
 
 <p class="taught">Our Hidden History · 2021-09-19 · Deacon Eythan, with a captain and the brothers</p>

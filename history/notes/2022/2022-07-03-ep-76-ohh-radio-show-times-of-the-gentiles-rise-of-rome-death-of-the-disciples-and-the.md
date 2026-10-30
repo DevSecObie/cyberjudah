@@ -5,7 +5,7 @@ date: "2022-07-03"
 episode: 76
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-07-03"
-tags: ["Our Hidden History", "faith", "false-religion"]
+tags: ["Our Hidden History", "europe-dark-ages", "faith", "false-religion", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-07-03 · Deacon Eythan</p>

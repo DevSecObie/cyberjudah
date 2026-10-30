@@ -5,7 +5,7 @@ date: "2022-04-10"
 episode: 68
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-04-10 · with a captain"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-04-10 · Deacon Eythan, with a captain</p>

@@ -5,7 +5,7 @@ date: "2024-04-28"
 episode: 135
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-04-28"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "islam-arabs"]
 ---
 
 <p class="taught">Our Hidden History · 2024-04-28 · Deacon Eythan</p>

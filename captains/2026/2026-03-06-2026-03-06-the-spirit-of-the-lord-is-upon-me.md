@@ -4,7 +4,7 @@ slug: "2026/2026-03-06-the-spirit-of-the-lord-is-upon-me"
 date: "2026-03-06"
 teacher: ""
 description: "15 Minutes w/ The Captains · 2026-03-06"
-tags: ["15 Minutes w/ The Captains", "the-law"]
+tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-03-06</p>

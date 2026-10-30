@@ -5,7 +5,7 @@ date: "2025-09-14"
 episode: 181
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-09-14 · with the brothers on the panel"
-tags: ["Our Hidden History", "false-religion"]
+tags: ["Our Hidden History", "europe-dark-ages", "false-religion", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2025-09-14 · Deacon Eythan, with the brothers on the panel</p>

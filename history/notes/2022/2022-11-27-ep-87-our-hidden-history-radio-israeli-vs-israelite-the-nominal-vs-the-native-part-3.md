@@ -5,7 +5,7 @@ date: "2022-11-27"
 episode: 87
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-11-27"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "so-called-jews", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2022-11-27 · Deacon Eythan</p>

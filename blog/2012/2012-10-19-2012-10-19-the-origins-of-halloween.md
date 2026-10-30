@@ -5,7 +5,7 @@ date: "2012-10-19"
 teacher: "Elder Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-10-19 · with Deacon Asaph"
-tags: ["IUIC in the ClassRoom", "women"]
+tags: ["IUIC in the ClassRoom", "angels", "women"]
 ---
 
 <p class="taught">The Truth Shall Make You Free · 2012-10-19 · Elder Nathanyel, with Deacon Asaph</p>

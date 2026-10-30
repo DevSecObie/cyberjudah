@@ -4,7 +4,7 @@ slug: "2023/2023-06-27-ohh-echoes-of-rome-the-birth-of-christ-the-virgin-birth-d
 date: "2023-06-27"
 teacher: "Officer Jazz"
 description: "Our Hidden History · 2023-06-27 · Officer Jazz, with Officer Manny, Officer Abdon and Officer Hezekiah"
-tags: ["Our Hidden History", "christ", "deceit"]
+tags: ["Our Hidden History", "christ", "deceit", "egypt", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-06-27 · Officer Jazz, with Officer Manny, Officer Abdon and Officer Hezekiah</p>

@@ -5,7 +5,7 @@ date: "2023-12-10"
 episode: 119
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-12-10 · with Officer Ari"
-tags: ["Our Hidden History", "pride"]
+tags: ["Our Hidden History", "pride", "rome", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2023-12-10 · Deacon Eythan, with Officer Ari</p>

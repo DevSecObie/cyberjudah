@@ -5,7 +5,7 @@ date: "2026-09-06"
 episode: 206
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-09-06 · with Captain Yahn"
-tags: ["Our Hidden History", "prophecy"]
+tags: ["Our Hidden History", "egypt", "greece", "persia-medes", "prophecy"]
 ---
 
 <p class="taught">Our Hidden History · 2026-09-06 · Deacon Eythan, with Captain Yahn</p>

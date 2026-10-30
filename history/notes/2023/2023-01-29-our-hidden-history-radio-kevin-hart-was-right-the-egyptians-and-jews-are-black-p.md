@@ -5,7 +5,7 @@ date: "2023-01-29"
 episode: 89
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-01-29 · with the officers"
-tags: ["Our Hidden History", "media"]
+tags: ["Our Hidden History", "egypt", "media"]
 ---
 
 <p class="taught">Our Hidden History · 2023-01-29 · Deacon Eythan, with the officers</p>

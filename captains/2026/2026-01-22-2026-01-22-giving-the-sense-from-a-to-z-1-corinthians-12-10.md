@@ -5,7 +5,7 @@ date: "2026-01-22"
 teacher: ""
 description: "Giving The Sense From A to Z · 2026-01-22"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "the-body"]
+tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2026-01-22</p>

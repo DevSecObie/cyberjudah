@@ -4,7 +4,7 @@ slug: "2026/2026-09-12-she-reverence-her-husband-submission-grace-self-examinati
 date: "2026-09-12"
 teacher: "Deacon Yashua"
 description: "IUIC in the ClassRoom · 2026-09-12"
-tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
+tags: ["IUIC in the ClassRoom", "marriage-family", "unity", "women"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-12</p>

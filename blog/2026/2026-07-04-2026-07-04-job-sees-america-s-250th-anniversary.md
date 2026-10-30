@@ -4,7 +4,7 @@ slug: "2026/2026-07-04-job-sees-america-s-250th-anniversary"
 date: "2026-07-04"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-04"
-tags: ["IUIC in the ClassRoom", "america-babylon"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "youth"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-04</p>

@@ -5,7 +5,7 @@ date: "2025-09-15"
 teacher: "Captain Gedaliah"
 description: "Escaping the Plantation · 2025-09-15"
 collection: "Escaping the Plantation"
-tags: ["IUIC in the ClassRoom", "satan"]
+tags: ["IUIC in the ClassRoom", "angels", "satan"]
 ---
 
 <p class="taught">Escaping the Plantation · 2025-09-15 · Captain Gedaliah</p>

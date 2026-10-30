@@ -5,7 +5,7 @@ date: "2021-06-13"
 episode: 36
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-06-13"
-tags: ["Our Hidden History", "health"]
+tags: ["Our Hidden History", "health", "islam-arabs", "spain-inquisition", "the-americas"]
 ---
 
 <p class="taught">Our Hidden History · 2021-06-13 · Deacon Eythan</p>

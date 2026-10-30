@@ -4,7 +4,7 @@ slug: "2026/2026-04-04-eleutherophobia-the-fear-of-freedom"
 date: "2026-04-04"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-04"
-tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "leadership", "sexual-purity", "war"]
+tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "egypt", "leadership", "sexual-purity", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-04</p>

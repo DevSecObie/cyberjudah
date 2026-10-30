@@ -5,7 +5,7 @@ date: "2021-08-24"
 episode: 42
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-08-24"
-tags: ["Our Hidden History", "nations", "war"]
+tags: ["Our Hidden History", "africa-moors", "egypt", "nations", "persia-medes", "war"]
 ---
 
 <p class="taught">Our Hidden History · 2021-08-24 · Deacon Eythan</p>

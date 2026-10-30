@@ -5,7 +5,7 @@ date: "2026-07-05"
 episode: 201
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-07-05 · with an officer of IUIC Philadelphia"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "europe-dark-ages", "greece"]
 ---
 
 <p class="taught">Our Hidden History · 2026-07-05 · Deacon Eythan, with an officer of IUIC Philadelphia</p>

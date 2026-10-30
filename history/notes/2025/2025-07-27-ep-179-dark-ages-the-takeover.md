@@ -5,7 +5,7 @@ date: "2025-07-27"
 episode: 179
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-07-27 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "america-babylon"]
+tags: ["Our Hidden History", "america-babylon", "europe-dark-ages", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2025-07-27 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

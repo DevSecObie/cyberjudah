@@ -5,7 +5,7 @@ date: "2020-11-28"
 episode: 16
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2020-11-28 · with Captain Joel"
-tags: ["Our Hidden History", "war"]
+tags: ["Our Hidden History", "rome", "war"]
 ---
 
 <p class="taught">Our Hidden History · 2020-11-28 · Deacon Eythan, with Captain Joel</p>

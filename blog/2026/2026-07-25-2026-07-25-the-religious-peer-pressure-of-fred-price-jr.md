@@ -4,7 +4,7 @@ slug: "2026/2026-07-25-the-religious-peer-pressure-of-fred-price-jr"
 date: "2026-07-25"
 teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-07-25"
-tags: ["IUIC in the ClassRoom", "edom-esau"]
+tags: ["IUIC in the ClassRoom", "edom-esau", "egypt", "so-called-jews"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-25 (date estimated)</p>

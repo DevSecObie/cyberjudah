@@ -5,7 +5,7 @@ date: "2022-04-17"
 episode: 69
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-04-17 · with a co-host reading"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-04-17 · Deacon Eythan, with a co-host reading</p>

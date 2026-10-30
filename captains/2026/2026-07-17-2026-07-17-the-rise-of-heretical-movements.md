@@ -4,7 +4,7 @@ slug: "2026/2026-07-17-the-rise-of-heretical-movements"
 date: "2026-07-17"
 teacher: ""
 description: "15 Minutes w/ The Captains · 2026-07-17"
-tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion"]
+tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "heaven-hell", "salvation"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-07-17</p>

@@ -5,7 +5,7 @@ date: "2021-03-03"
 episode: 27
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-03-03 · with a co-host"
-tags: ["Our Hidden History", "edom-esau", "women"]
+tags: ["Our Hidden History", "africa-moors", "edom-esau", "islam-arabs", "spain-inquisition", "women"]
 ---
 
 <p class="taught">Our Hidden History · 2021-03-03 · Deacon Eythan, with a co-host</p>

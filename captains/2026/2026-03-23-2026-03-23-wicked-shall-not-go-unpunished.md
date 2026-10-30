@@ -4,7 +4,7 @@ slug: "2026/2026-03-23-wicked-shall-not-go-unpunished"
 date: "2026-03-23"
 teacher: "Captain Gedaliah"
 description: "15 Minutes w/ The Captains · 2026-03-23"
-tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "faith", "justice", "nations"]
+tags: ["15 Minutes w/ The Captains", "captivity", "edom-esau", "europe-dark-ages", "faith", "justice", "nations"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-03-23</p>

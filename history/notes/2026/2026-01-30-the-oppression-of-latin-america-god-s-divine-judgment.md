@@ -4,7 +4,7 @@ slug: "2026/2026-01-30-the-oppression-of-latin-america-god-s-divine-judgment"
 date: "2026-01-30"
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-01-30 · with an officer reading"
-tags: ["Our Hidden History", "america-babylon"]
+tags: ["Our Hidden History", "africa-moors", "america-babylon", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2026-01-30 · Deacon Eythan, with an officer reading</p>

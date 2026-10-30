@@ -3,7 +3,7 @@ title: "Haiti: the Rise After the Ruin"
 slug: "2026/2026-10-03-haiti-the-rise-after-the-ruin"
 date: "2026-10-03"
 description: "Haiti's rise after ruin"
-tags: ["IUIC in the ClassRoom", "nations", "passover-feasts", "prophecy", "the-body"]
+tags: ["IUIC in the ClassRoom", "nations", "passover-feasts", "prophecy", "the-americas", "the-body", "unity"]
 teacher: "Bishop Nathanyel"
 draft: true
 ---

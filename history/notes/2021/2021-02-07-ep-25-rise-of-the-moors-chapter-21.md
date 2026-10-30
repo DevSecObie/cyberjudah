@@ -5,7 +5,7 @@ date: "2021-02-07"
 episode: 25
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-02-07 · with Officer Jess"
-tags: ["Our Hidden History", "false-religion"]
+tags: ["Our Hidden History", "africa-moors", "false-religion", "islam-arabs", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-02-07 · Deacon Eythan, with Officer Jess</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-01-01-false-new-year-doctrine-slayer-true-past-curses-trauma"
 date: "2026-01-01"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-01-01"
-tags: ["IUIC in the ClassRoom", "captivity", "mental-health", "persecution", "women"]
+tags: ["IUIC in the ClassRoom", "captivity", "egypt", "islam-arabs", "mental-health", "persecution", "spain-inquisition", "women"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-01-01</p>

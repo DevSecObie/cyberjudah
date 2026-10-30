@@ -5,7 +5,7 @@ date: "2026-09-20"
 episode: 208
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-09-20 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "mental-health"]
+tags: ["Our Hidden History", "egypt", "mental-health"]
 ---
 
 <p class="taught">Our Hidden History · 2026-09-20 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

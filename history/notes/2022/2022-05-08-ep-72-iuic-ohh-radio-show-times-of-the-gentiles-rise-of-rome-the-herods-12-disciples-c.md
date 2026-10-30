@@ -5,7 +5,7 @@ date: "2022-05-08"
 episode: 72
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-05-08 · with a co-host reading"
-tags: ["Our Hidden History", "betrayal", "christ"]
+tags: ["Our Hidden History", "betrayal", "christ", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-05-08 · Deacon Eythan, with a co-host reading</p>

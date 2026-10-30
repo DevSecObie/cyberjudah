@@ -5,7 +5,7 @@ date: "2023-12-03"
 episode: 118
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-12-03 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-12-03 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

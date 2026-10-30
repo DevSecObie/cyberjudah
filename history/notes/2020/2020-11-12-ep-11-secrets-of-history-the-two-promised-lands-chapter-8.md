@@ -5,7 +5,7 @@ date: "2020-11-12"
 episode: 11
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2020-11-12 · with Captain Joel and Officer J"
-tags: ["Our Hidden History", "america-babylon"]
+tags: ["Our Hidden History", "america-babylon", "spain-inquisition", "the-americas"]
 ---
 
 <p class="taught">Our Hidden History · 2020-11-12 · Deacon Eythan, with Captain Joel and Officer J</p>

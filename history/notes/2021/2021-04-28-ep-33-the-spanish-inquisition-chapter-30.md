@@ -5,7 +5,7 @@ date: "2021-04-28"
 episode: 33
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-04-28 · with the officers"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "africa-moors", "islam-arabs", "nations", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-04-28 · Deacon Eythan, with the officers</p>

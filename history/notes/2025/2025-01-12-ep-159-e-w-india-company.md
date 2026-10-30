@@ -5,7 +5,7 @@ date: "2025-01-12"
 episode: 159
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-01-12 · with Officer Manny"
-tags: ["Our Hidden History", "edom-esau", "captivity"]
+tags: ["Our Hidden History", "captivity", "edom-esau", "islam-arabs", "money", "so-called-jews", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2025-01-12 · Deacon Eythan, with Officer Manny</p>

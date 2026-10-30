@@ -4,7 +4,7 @@ slug: "2026/2026-08-01-we-are-born-in-babylon"
 date: "2026-08-01"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-08-01"
-tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "persia-medes"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-01</p>

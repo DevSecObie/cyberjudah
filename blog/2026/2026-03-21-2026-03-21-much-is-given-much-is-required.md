@@ -4,7 +4,7 @@ slug: "2026/2026-03-21-much-is-given-much-is-required"
 date: "2026-03-21"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-03-21"
-tags: ["IUIC in the ClassRoom", "leadership", "the-law", "the-word", "wisdom"]
+tags: ["IUIC in the ClassRoom", "leadership", "money", "the-law", "the-word", "wisdom"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-21</p>

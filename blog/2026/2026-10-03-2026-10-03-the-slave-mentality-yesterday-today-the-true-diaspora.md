@@ -4,7 +4,7 @@ slug: "2026/2026-10-03-the-slave-mentality-yesterday-today-the-true-diaspora"
 date: "2026-10-03"
 teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-10-03"
-tags: ["IUIC in the ClassRoom", "mental-health"]
+tags: ["IUIC in the ClassRoom", "egypt", "mental-health", "so-called-jews", "spain-inquisition"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-03</p>

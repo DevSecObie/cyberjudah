@@ -4,7 +4,7 @@ slug: "2026/2026-10-10-dominican-haitian-history-known-uknown"
 date: "2026-10-10"
 teacher: "Captain Zephaniah"
 description: "IUIC in the ClassRoom · 2026-10-10"
-tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "nations", "prophecy"]
+tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "nations", "prophecy", "spain-inquisition", "the-americas", "unity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-10</p>

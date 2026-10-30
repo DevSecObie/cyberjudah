@@ -4,7 +4,7 @@ slug: "2026/2026-05-23-character-integrity-the-hidden-strength-behind-wisdom"
 date: "2026-05-23"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-05-23"
-tags: ["IUIC in the ClassRoom", "betrayal", "gossip", "leadership", "wisdom"]
+tags: ["IUIC in the ClassRoom", "betrayal", "gossip", "leadership", "money", "wisdom"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-05-23</p>

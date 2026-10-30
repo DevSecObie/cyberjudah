@@ -5,7 +5,7 @@ date: "2021-12-05"
 episode: 55
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-12-05 · with Captain Joel"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2021-12-05 · Deacon Eythan, with Captain Joel</p>

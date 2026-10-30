@@ -4,7 +4,7 @@ slug: "2026/2026-03-15-the-divine-orchestration-and-purpose-of-the-people-you-en
 date: "2026-03-15"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-03-15"
-tags: ["IUIC in the ClassRoom", "discipline", "prophecy", "purpose", "war", "women"]
+tags: ["IUIC in the ClassRoom", "angels", "discipline", "obedience", "prophecy", "purpose", "war", "women"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-15</p>

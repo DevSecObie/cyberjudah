@@ -5,7 +5,7 @@ date: "2021-04-04"
 episode: 32
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-04-04 · with the officers and a captain"
-tags: ["Our Hidden History", "false-religion"]
+tags: ["Our Hidden History", "false-religion", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-04-04 · Deacon Eythan, with the officers and a captain</p>

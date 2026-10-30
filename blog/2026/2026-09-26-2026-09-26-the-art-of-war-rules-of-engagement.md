@@ -4,7 +4,7 @@ slug: "2026/2026-09-26-the-art-of-war-rules-of-engagement"
 date: "2026-09-26"
 teacher: "Captain Joel"
 description: "IUIC in the ClassRoom · 2026-09-26"
-tags: ["IUIC in the ClassRoom", "discipline", "marriage-family", "mental-health", "sexual-purity", "war"]
+tags: ["IUIC in the ClassRoom", "anger", "discipline", "marriage-family", "mental-health", "sexual-purity", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-26</p>

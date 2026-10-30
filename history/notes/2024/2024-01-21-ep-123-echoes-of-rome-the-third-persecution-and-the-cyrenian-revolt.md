@@ -5,7 +5,7 @@ date: "2024-01-21"
 episode: 123
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-01-21 · with officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "false-religion", "persecution", "war"]
+tags: ["Our Hidden History", "false-religion", "persecution", "rome", "war"]
 ---
 
 <p class="taught">Our Hidden History · 2024-01-21 · Deacon Eythan, with officers of IUIC Philadelphia</p>

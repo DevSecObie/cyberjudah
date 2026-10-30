@@ -4,7 +4,7 @@ slug: "2026/2026-03-27-chronic-procrastination"
 date: "2026-03-27"
 teacher: "Captain Emmanuel"
 description: "15 Minutes w/ The Captains · 2026-03-27"
-tags: ["15 Minutes w/ The Captains", "mental-health"]
+tags: ["15 Minutes w/ The Captains", "heaven-hell", "mental-health", "money"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-03-27</p>

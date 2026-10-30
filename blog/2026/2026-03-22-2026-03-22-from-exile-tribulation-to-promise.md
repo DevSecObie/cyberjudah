@@ -4,7 +4,7 @@ slug: "2026/2026-03-22-from-exile-tribulation-to-promise"
 date: "2026-03-22"
 teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-03-22"
-tags: ["IUIC in the ClassRoom", "adversity", "captivity", "false-religion", "war"]
+tags: ["IUIC in the ClassRoom", "adversity", "angels", "captivity", "false-religion", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-22</p>

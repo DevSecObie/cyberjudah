@@ -5,7 +5,7 @@ date: "2025-04-27"
 episode: 172
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-04-27 · with Manny and a guest"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "europe-dark-ages"]
 ---
 
 <p class="taught">Our Hidden History · 2025-04-27 · Deacon Eythan, with Manny and a guest</p>

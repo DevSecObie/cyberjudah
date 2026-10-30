@@ -5,7 +5,7 @@ date: "2022-10-24"
 episode: 83
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-10-24 · with a co-host"
-tags: ["Our Hidden History", "the-word"]
+tags: ["Our Hidden History", "europe-dark-ages", "the-word", "unity"]
 ---
 
 <p class="taught">Our Hidden History · 2022-10-24 · Deacon Eythan, with a co-host</p>

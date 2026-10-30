@@ -5,7 +5,7 @@ date: "2023-12-13"
 teacher: ""
 description: "The Natives Hour · 2023-12-13"
 collection: "The Natives Hour"
-tags: ["IUIC in the ClassRoom", "america-babylon", "captivity"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "salvation", "the-americas"]
 ---
 
 <p class="taught">The Natives Hour · 2023-12-13</p>

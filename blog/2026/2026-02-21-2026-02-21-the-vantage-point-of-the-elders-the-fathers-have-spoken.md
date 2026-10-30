@@ -4,7 +4,7 @@ slug: "2026/2026-02-21-the-vantage-point-of-the-elders-the-fathers-have-spoken"
 date: "2026-02-21"
 teacher: "Bishop Yawasap"
 description: "IUIC in the ClassRoom · 2026-02-21"
-tags: ["IUIC in the ClassRoom", "leadership", "sexual-purity", "the-body"]
+tags: ["IUIC in the ClassRoom", "angels", "leadership", "sexual-purity", "the-body"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-02-21</p>

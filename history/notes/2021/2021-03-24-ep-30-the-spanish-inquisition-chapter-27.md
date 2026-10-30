@@ -5,7 +5,7 @@ date: "2021-03-24"
 episode: 30
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-03-24 · with an officer"
-tags: ["Our Hidden History", "faith"]
+tags: ["Our Hidden History", "egypt", "faith", "islam-arabs", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-03-24 · Deacon Eythan, with an officer</p>

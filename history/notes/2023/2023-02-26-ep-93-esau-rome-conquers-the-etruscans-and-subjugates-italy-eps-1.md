@@ -5,7 +5,7 @@ date: "2023-02-26"
 episode: 93
 teacher: "Captain Joel"
 description: "Our Hidden History · 2023-02-26 · taught by Captain Joel"
-tags: ["Our Hidden History", "edom-esau", "nations"]
+tags: ["Our Hidden History", "edom-esau", "greece", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-02-26 · Captain Joel</p>

@@ -5,7 +5,7 @@ date: "2022-09-05"
 episode: 80
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-09-05 · with Officer Abednego and the officers"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "europe-dark-ages", "islam-arabs", "nations", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2022-09-05 · Deacon Eythan, with Officer Abednego and the officers</p>

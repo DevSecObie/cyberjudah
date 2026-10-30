@@ -4,7 +4,7 @@ slug: "2026/2026-10-23-the-truth-about-covid-fauci-and-the-vaccine-controversy"
 date: "2026-10-23"
 teacher: ""
 description: "IUIC Raleigh · 2026-10-23"
-tags: ["IUIC in the ClassRoom", "edom-esau", "media", "pride", "war"]
+tags: ["IUIC in the ClassRoom", "edom-esau", "media", "pride", "the-americas", "war"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-23</p>

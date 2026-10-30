@@ -5,7 +5,7 @@ date: "2025-07-06"
 episode: 178
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-07-06"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "nations", "the-americas"]
 ---
 
 <p class="taught">Our Hidden History · 2025-07-06 · Deacon Eythan</p>

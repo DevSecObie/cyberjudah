@@ -4,7 +4,7 @@ slug: "2026/2026-07-15-before-the-end-comes"
 date: "2026-07-15"
 teacher: "Captain Yahoshua"
 description: "15 Minutes w/ The Captains · 2026-07-15"
-tags: ["15 Minutes w/ The Captains", "adversity", "christ", "prophecy", "war"]
+tags: ["15 Minutes w/ The Captains", "adversity", "christ", "heaven-hell", "prophecy", "war"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-07-15</p>

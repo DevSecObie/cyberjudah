@@ -5,7 +5,7 @@ date: "2021-12-19"
 episode: 57
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-12-19"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2021-12-19 · Deacon Eythan</p>

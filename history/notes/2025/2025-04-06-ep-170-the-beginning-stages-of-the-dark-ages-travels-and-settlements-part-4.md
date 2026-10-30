@@ -5,7 +5,7 @@ date: "2025-04-06"
 episode: 170
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-04-06"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "europe-dark-ages", "greece", "rome", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2025-04-06 · Deacon Eythan</p>

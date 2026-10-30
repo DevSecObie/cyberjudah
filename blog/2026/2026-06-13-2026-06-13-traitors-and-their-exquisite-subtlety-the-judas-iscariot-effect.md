@@ -4,7 +4,7 @@ slug: "2026/2026-06-13-traitors-and-their-exquisite-subtlety-the-judas-iscariot-
 date: "2026-06-13"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-06-13"
-tags: ["IUIC in the ClassRoom", "betrayal", "deceit", "persecution", "substance-abuse", "the-word"]
+tags: ["IUIC in the ClassRoom", "betrayal", "deceit", "money", "persecution", "substance-abuse", "the-word"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-13 (date estimated)</p>

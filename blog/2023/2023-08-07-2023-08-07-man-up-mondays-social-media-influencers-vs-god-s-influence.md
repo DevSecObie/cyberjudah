@@ -5,7 +5,7 @@ date: "2023-08-07"
 teacher: "Captain Emmanuel"
 description: "Man Up Mondays · 2023-08-07"
 collection: "Man Up Mondays"
-tags: ["IUIC in the ClassRoom", "media", "prophecy", "wisdom"]
+tags: ["IUIC in the ClassRoom", "media", "prophecy", "wisdom", "youth"]
 ---
 
 <p class="taught">Man Up Mondays · 2023-08-07 · Captain Emmanuel</p>

@@ -5,7 +5,7 @@ date: "2020-11-11"
 episode: 9
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2020-11-11 · with Captain Joel and Officer Don"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "the-americas"]
 ---
 
 <p class="taught">Our Hidden History · 2020-11-11 · Deacon Eythan, with Captain Joel and Officer Don</p>

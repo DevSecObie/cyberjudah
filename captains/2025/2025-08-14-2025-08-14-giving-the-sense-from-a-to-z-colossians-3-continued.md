@@ -5,7 +5,7 @@ date: "2025-08-14"
 teacher: ""
 description: "Giving The Sense From A to Z · 2025-08-14"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "marriage-family", "the-word", "women"]
+tags: ["15 Minutes w/ The Captains", "love", "marriage-family", "the-word", "women"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2025-08-14</p>

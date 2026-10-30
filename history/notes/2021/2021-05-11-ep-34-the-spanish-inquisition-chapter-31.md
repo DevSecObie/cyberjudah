@@ -5,7 +5,7 @@ date: "2021-05-11"
 episode: 34
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-05-11 · with a captain and an officer"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "islam-arabs", "nations", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-05-11 · Deacon Eythan, with a captain and an officer</p>

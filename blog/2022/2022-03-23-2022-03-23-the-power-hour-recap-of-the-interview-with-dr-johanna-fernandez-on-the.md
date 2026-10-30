@@ -5,7 +5,7 @@ date: "2022-03-23"
 teacher: "Captain Yoshua"
 description: "The Power Hour · 2022-03-23"
 collection: "The Power Hour"
-tags: ["IUIC in the ClassRoom", "the-law"]
+tags: ["IUIC in the ClassRoom", "the-americas", "the-law"]
 ---
 
 <p class="taught">The Power Hour · 2022-03-23 · Captain Yoshua</p>

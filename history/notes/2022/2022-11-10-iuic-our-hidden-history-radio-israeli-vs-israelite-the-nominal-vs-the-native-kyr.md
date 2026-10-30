@@ -4,7 +4,7 @@ slug: "2022/2022-11-10-iuic-our-hidden-history-radio-israeli-vs-israelite-the-no
 date: "2022-11-10"
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-11-10 · with a captain and another guest"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "islam-arabs", "so-called-jews", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2022-11-10 · Deacon Eythan, with a captain and another guest</p>

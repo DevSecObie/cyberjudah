@@ -5,7 +5,7 @@ date: "2026-05-12"
 teacher: "Captain Uri"
 description: "Giving The Sense From A to Z · 2026-05-12"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "leadership", "the-body"]
+tags: ["15 Minutes w/ The Captains", "leadership", "money", "the-body"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2026-05-12 · Captain Uri</p>

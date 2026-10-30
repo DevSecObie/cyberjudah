@@ -5,7 +5,7 @@ date: "2024-10-13"
 episode: 148
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-10-13"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "europe-dark-ages", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2024-10-13 · Deacon Eythan</p>

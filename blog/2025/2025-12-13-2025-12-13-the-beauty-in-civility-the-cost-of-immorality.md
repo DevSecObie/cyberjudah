@@ -4,7 +4,7 @@ slug: "2025/2025-12-13-the-beauty-in-civility-the-cost-of-immorality"
 date: "2025-12-13"
 teacher: ""
 description: "IUIC in the ClassRoom · 2025-12-13"
-tags: ["IUIC in the ClassRoom", "health", "leadership", "sabbath", "the-law"]
+tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", "sabbath", "the-law"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-12-13</p>

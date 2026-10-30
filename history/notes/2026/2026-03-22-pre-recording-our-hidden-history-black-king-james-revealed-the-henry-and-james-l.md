@@ -4,7 +4,7 @@ slug: "2026/2026-03-22-pre-recording-our-hidden-history-black-king-james-reveale
 date: "2026-03-22"
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-03-22 · pre-recorded"
-tags: ["Our Hidden History", "women"]
+tags: ["Our Hidden History", "money", "women"]
 ---
 
 <p class="taught">Our Hidden History · 2026-03-22 · Deacon Eythan</p>

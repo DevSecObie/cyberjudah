@@ -5,7 +5,7 @@ date: "2021-11-07"
 episode: 52
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-11-07"
-tags: ["Our Hidden History", "nations", "women"]
+tags: ["Our Hidden History", "nations", "persia-medes", "women"]
 ---
 
 <p class="taught">Our Hidden History · 2021-11-07 · Deacon Eythan</p>

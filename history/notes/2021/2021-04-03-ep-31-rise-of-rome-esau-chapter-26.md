@@ -5,7 +5,7 @@ date: "2021-04-03"
 episode: 31
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-04-03"
-tags: ["Our Hidden History", "persecution", "edom-esau", "captivity"]
+tags: ["Our Hidden History", "captivity", "edom-esau", "persecution", "rome", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-04-03 · Deacon Eythan</p>

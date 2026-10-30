@@ -5,7 +5,7 @@ date: "2023-11-19"
 episode: 116
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-11-19 · with officers"
-tags: ["Our Hidden History", "betrayal", "persecution"]
+tags: ["Our Hidden History", "africa-moors", "betrayal", "persecution", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-11-19 · Deacon Eythan, with officers</p>

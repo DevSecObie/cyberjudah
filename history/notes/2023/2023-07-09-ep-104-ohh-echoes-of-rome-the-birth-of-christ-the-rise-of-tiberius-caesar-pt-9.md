@@ -5,7 +5,7 @@ date: "2023-07-09"
 episode: 104
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-07-09 · with an officer"
-tags: ["Our Hidden History", "christ", "idolatry"]
+tags: ["Our Hidden History", "christ", "idolatry", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-07-09 · Deacon Eythan, with an officer</p>

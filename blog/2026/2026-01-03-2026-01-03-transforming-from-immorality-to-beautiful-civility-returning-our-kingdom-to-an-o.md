@@ -4,7 +4,7 @@ slug: "2026/2026-01-03-transforming-from-immorality-to-beautiful-civility-return
 date: "2026-01-03"
 teacher: "Bishop Yawasap"
 description: "IUIC in the ClassRoom · 2026-01-03"
-tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
+tags: ["IUIC in the ClassRoom", "marriage-family", "salvation", "women"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-01-03</p>

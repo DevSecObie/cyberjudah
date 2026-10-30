@@ -4,7 +4,7 @@ slug: "2025/2025-12-20-christmas-icons-idolatry-white-supremacy-revealed"
 date: "2025-12-20"
 teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2025-12-20"
-tags: ["IUIC in the ClassRoom", "christ", "idolatry", "nations"]
+tags: ["IUIC in the ClassRoom", "christ", "europe-dark-ages", "idolatry", "nations", "rome"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-12-20</p>

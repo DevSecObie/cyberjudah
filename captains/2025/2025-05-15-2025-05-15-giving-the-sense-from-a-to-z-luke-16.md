@@ -5,7 +5,7 @@ date: "2025-05-15"
 teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-05-15"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "justice"]
+tags: ["15 Minutes w/ The Captains", "justice", "money"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2025-05-15 · Captain Matt</p>

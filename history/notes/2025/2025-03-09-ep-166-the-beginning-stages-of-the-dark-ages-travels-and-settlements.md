@@ -5,7 +5,7 @@ date: "2025-03-09"
 episode: 166
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-03-09 · with an officer of IUIC Philadelphia"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "europe-dark-ages", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2025-03-09 · Deacon Eythan, with an officer of IUIC Philadelphia</p>

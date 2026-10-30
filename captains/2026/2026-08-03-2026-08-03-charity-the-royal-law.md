@@ -4,7 +4,7 @@ slug: "2026/2026-08-03-charity-the-royal-law"
 date: "2026-08-03"
 teacher: "Captain Laqach"
 description: "15 Minutes w/ The Captains · 2026-08-03"
-tags: ["15 Minutes w/ The Captains", "gossip", "justice"]
+tags: ["15 Minutes w/ The Captains", "anger", "gossip", "justice", "love"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-03</p>

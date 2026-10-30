@@ -5,7 +5,7 @@ date: "2021-04-04"
 episode: 43
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-04-04"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "africa-moors", "islam-arabs", "nations", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-04-04 · Deacon Eythan</p>

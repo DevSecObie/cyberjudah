@@ -4,7 +4,7 @@ slug: "2026/2026-01-16-the-kingdom-of-heaven-suffereth-violence"
 date: "2026-01-16"
 teacher: "Captain Gedaliah"
 description: "15 Minutes w/ The Captains · 2026-01-16"
-tags: ["15 Minutes w/ The Captains", "adversity", "captivity"]
+tags: ["15 Minutes w/ The Captains", "adversity", "captivity", "heaven-hell", "rome", "salvation", "the-americas"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-01-16</p>

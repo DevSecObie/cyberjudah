@@ -5,7 +5,7 @@ date: "2025-05-04"
 teacher: ""
 episode: 173
 description: "Our Hidden History · 2025-05-04 · the officers of IUIC Philadelphia, with Deacon Eythan away"
-tags: ["Our Hidden History", "persecution"]
+tags: ["Our Hidden History", "persecution", "youth"]
 ---
 
 <p class="taught">Our Hidden History · 2025-05-04 · the officers of IUIC Philadelphia, with Deacon Eythan away</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-02-13-the-5-keys-of-discipline"
 date: "2026-02-13"
 teacher: "Captain Emmanuel"
 description: "15 Minutes w/ The Captains · 2026-02-13"
-tags: ["15 Minutes w/ The Captains", "discipline", "wisdom"]
+tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "wisdom"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-02-13</p>

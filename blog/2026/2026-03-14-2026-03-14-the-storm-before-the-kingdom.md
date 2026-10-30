@@ -4,7 +4,7 @@ slug: "2026/2026-03-14-the-storm-before-the-kingdom"
 date: "2026-03-14"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-03-14"
-tags: ["IUIC in the ClassRoom", "america-babylon", "discipline", "endurance", "media", "war"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "discipline", "endurance", "islam-arabs", "media", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-14</p>

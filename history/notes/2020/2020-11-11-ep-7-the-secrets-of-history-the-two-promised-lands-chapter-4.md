@@ -5,7 +5,7 @@ date: "2020-11-11"
 episode: 7
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2020-11-11 · with Captain Joelle and the co-hosts"
-tags: ["Our Hidden History", "faith"]
+tags: ["Our Hidden History", "faith", "the-americas"]
 ---
 
 <p class="taught">Our Hidden History · 2020-11-11 · Deacon Eythan, with Captain Joelle and the co-hosts</p>

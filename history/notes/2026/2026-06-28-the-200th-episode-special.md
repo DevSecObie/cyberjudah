@@ -4,7 +4,7 @@ slug: "2026/2026-06-28-the-200th-episode-special"
 date: "2026-06-28"
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-06-28 · with a captain and the officers of IUIC Philadelphia, before a live audience"
-tags: ["Our Hidden History", "wisdom"]
+tags: ["Our Hidden History", "europe-dark-ages", "wisdom"]
 ---
 
 <p class="taught">Our Hidden History · 2026-06-28 · Deacon Eythan, with a captain and the officers of IUIC Philadelphia, before a live audience</p>

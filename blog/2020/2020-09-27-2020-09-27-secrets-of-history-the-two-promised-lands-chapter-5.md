@@ -5,7 +5,7 @@ date: "2020-09-27"
 teacher: "Deacon"
 description: "Secrets of History · 2020-09-27"
 collection: "Secrets of History"
-tags: ["IUIC in the ClassRoom", "passover-feasts"]
+tags: ["IUIC in the ClassRoom", "passover-feasts", "the-americas"]
 ---
 
 <p class="taught">Secrets of History · 2020-09-27 · Deacon</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-09-05-unity-the-sweet-savor-of-salvation"
 date: "2026-09-05"
 teacher: "Captain Osee"
 description: "IUIC in the ClassRoom · 2026-09-05"
-tags: ["IUIC in the ClassRoom", "false-religion"]
+tags: ["IUIC in the ClassRoom", "false-religion", "salvation", "unity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-05</p>

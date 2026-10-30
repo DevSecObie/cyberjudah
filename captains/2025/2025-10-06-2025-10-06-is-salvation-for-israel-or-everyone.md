@@ -4,7 +4,7 @@ slug: "2025/2025-10-06-is-salvation-for-israel-or-everyone"
 date: "2025-10-06"
 teacher: "Captain Amaziah"
 description: "15 Minutes w/ The Captains · 2025-10-06"
-tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "the-law"]
+tags: ["15 Minutes w/ The Captains", "christ", "purpose", "repentance", "salvation", "the-law"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-10-06</p>

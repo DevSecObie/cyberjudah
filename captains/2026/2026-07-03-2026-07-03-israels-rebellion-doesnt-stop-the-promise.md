@@ -4,7 +4,7 @@ slug: "2026/2026-07-03-israels-rebellion-doesnt-stop-the-promise"
 date: "2026-07-03"
 teacher: "Captain Mattathias"
 description: "15 Minutes w/ The Captains · 2026-07-03"
-tags: ["15 Minutes w/ The Captains", "mercy"]
+tags: ["15 Minutes w/ The Captains", "anger", "heaven-hell", "mercy", "salvation"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-07-03</p>

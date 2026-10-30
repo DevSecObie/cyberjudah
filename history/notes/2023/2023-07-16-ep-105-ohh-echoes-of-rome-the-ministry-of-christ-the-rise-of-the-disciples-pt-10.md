@@ -5,7 +5,7 @@ date: "2023-07-16"
 episode: 105
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-07-16"
-tags: ["Our Hidden History", "christ", "mental-health", "satan"]
+tags: ["Our Hidden History", "angels", "christ", "mental-health", "rome", "satan"]
 ---
 
 <p class="taught">Our Hidden History · 2023-07-16 · Deacon Eythan</p>

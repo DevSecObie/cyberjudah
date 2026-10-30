@@ -5,7 +5,7 @@ date: "2025-07-22"
 teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2025-07-22"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "the-word", "wisdom"]
+tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "the-word", "wisdom"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2025-07-22 · Captain Gedaliah</p>

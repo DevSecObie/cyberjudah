@@ -4,7 +4,7 @@ slug: "2026/2026-03-07-wars-are-here-seek-good-not-evil"
 date: "2026-03-07"
 teacher: "Captain Shem"
 description: "IUIC in the ClassRoom · 2026-03-07"
-tags: ["IUIC in the ClassRoom", "health", "nations", "sabbath", "the-law", "war"]
+tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "the-law", "unity", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-07</p>

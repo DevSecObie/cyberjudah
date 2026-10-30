@@ -5,7 +5,7 @@ date: "2024-11-24"
 episode: 153
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-11-24 · with brothers in the studio"
-tags: ["Our Hidden History", "captivity", "nations"]
+tags: ["Our Hidden History", "captivity", "egypt", "islam-arabs", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2024-11-24 · Deacon Eythan, with brothers in the studio</p>

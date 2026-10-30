@@ -5,7 +5,7 @@ date: "2022-02-27"
 episode: 65
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-02-27 · with a captain and a co-host"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "europe-dark-ages", "greece", "nations", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2022-02-27 · Deacon Eythan, with a captain and a co-host</p>

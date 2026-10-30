@@ -4,7 +4,7 @@ slug: "2025/2025-12-06-to-whom-much-is-given-the-burden-and-beauty-of-godly-lead
 date: "2025-12-06"
 teacher: "Deacon Yoshua"
 description: "IUIC in the ClassRoom · 2025-12-06"
-tags: ["IUIC in the ClassRoom", "false-religion", "leadership", "marriage-family", "the-body", "wisdom"]
+tags: ["IUIC in the ClassRoom", "anger", "false-religion", "leadership", "marriage-family", "the-body", "wisdom"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-12-06</p>

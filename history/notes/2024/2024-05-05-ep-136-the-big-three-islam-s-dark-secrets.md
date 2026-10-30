@@ -5,7 +5,7 @@ date: "2024-05-05"
 episode: 136
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-05-05 · with Officer Manuel"
-tags: ["Our Hidden History", "false-religion", "idolatry"]
+tags: ["Our Hidden History", "false-religion", "idolatry", "islam-arabs"]
 ---
 
 <p class="taught">Our Hidden History · 2024-05-05 · Deacon Eythan, with Officer Manuel</p>

@@ -5,7 +5,7 @@ date: "2022-03-13"
 episode: 67
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-03-13 · with a co-host"
-tags: ["Our Hidden History", "war"]
+tags: ["Our Hidden History", "greece", "war"]
 ---
 
 <p class="taught">Our Hidden History · 2022-03-13 · Deacon Eythan, with a co-host</p>

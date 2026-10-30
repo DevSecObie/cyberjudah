@@ -5,7 +5,7 @@ date: "2023-09-08"
 teacher: ""
 description: "Escaping the Plantation · 2023-09-08"
 collection: "Escaping the Plantation"
-tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "war"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "rome", "war"]
 ---
 
 <p class="taught">Escaping the Plantation · 2023-09-08</p>

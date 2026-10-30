@@ -4,7 +4,7 @@ slug: "2026/2026-10-10-true-unity-amongst-the-israelites"
 date: "2026-10-10"
 teacher: "Captain Severus"
 description: "IUIC in the ClassRoom · 2026-10-10"
-tags: ["IUIC in the ClassRoom", "edom-esau", "nations", "the-word"]
+tags: ["IUIC in the ClassRoom", "edom-esau", "nations", "the-word", "unity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-10</p>

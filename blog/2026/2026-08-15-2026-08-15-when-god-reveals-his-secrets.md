@@ -4,7 +4,7 @@ slug: "2026/2026-08-15-when-god-reveals-his-secrets"
 date: "2026-08-15"
 teacher: "Deacon Asaph"
 description: "IUIC in the ClassRoom · 2026-08-15"
-tags: ["IUIC in the ClassRoom", "false-religion"]
+tags: ["IUIC in the ClassRoom", "anger", "false-religion"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-15</p>

@@ -4,7 +4,7 @@ slug: "2025/2025-11-14-a-house-of-prayer-for-all-people"
 date: "2025-11-14"
 teacher: "Captain Benaiah"
 description: "15 Minutes w/ The Captains · 2025-11-14"
-tags: ["15 Minutes w/ The Captains", "prayer", "prophecy"]
+tags: ["15 Minutes w/ The Captains", "heaven-hell", "obedience", "prayer", "prophecy", "the-americas"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-11-14</p>

@@ -4,7 +4,7 @@ slug: "2024/2024-11-06-what-to-do-when-you-hate-your-life"
 date: "2024-11-06"
 teacher: "Captain Zakai"
 description: "15 Minutes w/ The Captains · 2024-11-06"
-tags: ["15 Minutes w/ The Captains", "endurance", "sexual-purity"]
+tags: ["15 Minutes w/ The Captains", "endurance", "money", "sexual-purity"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2024-11-06</p>

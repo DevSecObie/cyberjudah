@@ -5,7 +5,7 @@ date: "2022-09-18"
 episode: 82
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-09-18 · with a captain"
-tags: ["Our Hidden History", "satan"]
+tags: ["Our Hidden History", "africa-moors", "europe-dark-ages", "satan", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2022-09-18 · Deacon Eythan, with a captain</p>

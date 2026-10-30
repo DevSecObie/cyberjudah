@@ -5,7 +5,7 @@ date: "2026-02-24"
 teacher: "Captain Mattathias"
 description: "Giving The Sense From A to Z · 2026-02-24"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "false-religion"]
+tags: ["15 Minutes w/ The Captains", "false-religion", "love", "money", "youth"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2026-02-24 · Captain Mattathias</p>

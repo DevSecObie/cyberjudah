@@ -4,7 +4,7 @@ slug: "2026/2026-02-18-do-you-actually-understand-unity"
 date: "2026-02-18"
 teacher: ""
 description: "15 Minutes w/ The Captains · 2026-02-18"
-tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", "pride"]
+tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", "pride", "unity"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-02-18</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-02-20-two-women-two-choices-two-nations"
 date: "2026-02-20"
 teacher: "Captain Michael"
 description: "15 Minutes w/ The Captains · 2026-02-20"
-tags: ["15 Minutes w/ The Captains", "christ", "faith", "the-word", "women"]
+tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation", "the-americas", "the-word", "women"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-02-20</p>

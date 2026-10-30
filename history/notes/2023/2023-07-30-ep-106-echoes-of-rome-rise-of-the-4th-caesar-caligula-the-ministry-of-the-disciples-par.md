@@ -5,7 +5,7 @@ date: "2023-07-30"
 episode: 106
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-07-30 · with the officers"
-tags: ["Our Hidden History", "sabbath"]
+tags: ["Our Hidden History", "rome", "sabbath"]
 ---
 
 <p class="taught">Our Hidden History · 2023-07-30 · Deacon Eythan, with the officers</p>
