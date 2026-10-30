@@ -27,7 +27,7 @@ const TYPES = {
   svg: "image/svg+xml", jpg: "image/jpeg", jpeg: "image/jpeg", png: "image/png", webp: "image/webp", gif: "image/gif", avif: "image/avif", ico: "image/x-icon",
   pdf: "application/pdf", zip: "application/zip", gz: "application/gzip", wasm: "application/wasm",
   mp3: "audio/mpeg", m4a: "audio/mp4", ogg: "audio/ogg", mp4: "video/mp4", vtt: "text/vtt; charset=utf-8",
-  woff: "font/woff", woff2: "font/woff2",
+  woff: "font/woff", woff2: "font/woff2", sqlite: "application/vnd.sqlite3",
 };
 export function contentType(p) {
   const ext = p.slice(p.lastIndexOf("/") + 1).split(".").pop().toLowerCase();
@@ -39,6 +39,6 @@ export function cacheControl(p) {
   if (p === "pointer.json" || p === "manifest.json") return "public, max-age=60";
   if (p.startsWith("pagefind/")) return "public, max-age=86400";
   if (p.startsWith("img/")) return "public, max-age=604800";
-  if (p === "library.sqlite.gz" || p === "search.sql.gz" || p.startsWith("search-index/")) return "public, max-age=3600";
+  if (p === "library.sqlite.gz" || p === "library.sqlite" || p === "search.sql.gz" || p.startsWith("search-index/")) return "public, max-age=3600";
   return "public, max-age=300";
 }
