@@ -5,7 +5,7 @@ date: "2021-08-17"
 episode: 41
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-08-17"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "angels", "money", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2021-08-17 · Deacon Eythan</p>

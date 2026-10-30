@@ -5,7 +5,7 @@ date: "2023-05-21"
 episode: 100
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-05-21 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "christ"]
+tags: ["Our Hidden History", "christ", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-05-21 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

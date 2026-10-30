@@ -5,7 +5,7 @@ date: "2022-08-28"
 episode: 79
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-08-28 · with Officer Manny reading"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "europe-dark-ages", "nations", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2022-08-28 · Deacon Eythan, with Officer Manny reading</p>

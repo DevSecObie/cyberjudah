@@ -5,7 +5,7 @@ date: "2021-01-12"
 episode: 22
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-01-12 · with Captain Gideon"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "africa-moors", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2021-01-12 · Deacon Eythan, with Captain Gideon</p>

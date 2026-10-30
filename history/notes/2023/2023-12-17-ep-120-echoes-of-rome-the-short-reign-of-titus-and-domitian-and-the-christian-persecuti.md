@@ -5,7 +5,7 @@ date: "2023-12-17"
 episode: 120
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-12-17 · with officers"
-tags: ["Our Hidden History", "christ", "persecution"]
+tags: ["Our Hidden History", "christ", "persecution", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-12-17 · Deacon Eythan, with officers</p>

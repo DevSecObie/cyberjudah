@@ -5,7 +5,7 @@ date: "2022-06-06"
 episode: 75
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-06-06 · with a captain"
-tags: ["Our Hidden History", "christ", "faith", "false-religion", "nations"]
+tags: ["Our Hidden History", "christ", "faith", "false-religion", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-06-06 · Deacon Eythan, with a captain</p>

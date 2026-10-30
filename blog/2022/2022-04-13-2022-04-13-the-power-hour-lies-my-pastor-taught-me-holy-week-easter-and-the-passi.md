@@ -5,7 +5,7 @@ date: "2022-04-13"
 teacher: "Deacon Yoshua"
 description: "The Power Hour · 2022-04-13"
 collection: "The Power Hour"
-tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "idolatry", "prayer"]
+tags: ["IUIC in the ClassRoom", "angels", "deceit", "false-religion", "idolatry", "prayer"]
 ---
 
 <p class="taught">The Power Hour · 2022-04-13 · Deacon Yoshua</p>

@@ -5,7 +5,7 @@ date: "2022-03-06"
 episode: 66
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-03-06 · with the officers"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2022-03-06 · Deacon Eythan, with the officers</p>

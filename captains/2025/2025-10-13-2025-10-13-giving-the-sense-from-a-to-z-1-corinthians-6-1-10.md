@@ -5,7 +5,7 @@ date: "2025-10-13"
 teacher: "Captain Emmanuel"
 description: "Giving The Sense From A to Z · 2025-10-13"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "justice", "the-law"]
+tags: ["15 Minutes w/ The Captains", "angels", "christ", "false-religion", "justice", "the-law"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2025-10-13 · Captain Emmanuel</p>

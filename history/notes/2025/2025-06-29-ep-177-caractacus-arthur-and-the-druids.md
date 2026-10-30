@@ -5,7 +5,7 @@ date: "2025-06-29"
 episode: 177
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-06-29 · with an officer reading"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2025-06-29 · Deacon Eythan, with an officer reading</p>

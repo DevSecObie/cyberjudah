@@ -5,7 +5,7 @@ date: "2021-10-24"
 episode: 50
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-10-24"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "nations", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2021-10-24 · Deacon Eythan</p>

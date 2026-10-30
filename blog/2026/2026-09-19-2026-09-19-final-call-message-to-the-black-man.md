@@ -3,7 +3,7 @@ title: "FINAL CALL: MESSAGE TO THE BLACK MAN"
 slug: "2026/2026-09-19-final-call-message-to-the-black-man"
 date: "2026-09-19"
 description: "IUIC in the ClassRoom · 2026-09-19"
-tags: ["IUIC in the ClassRoom", "false-religion"]
+tags: ["IUIC in the ClassRoom", "false-religion", "islam-arabs"]
 teacher: "Captain Yahn"
 ---
 

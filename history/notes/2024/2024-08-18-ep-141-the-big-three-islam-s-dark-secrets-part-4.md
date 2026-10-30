@@ -5,7 +5,7 @@ date: "2024-08-18"
 episode: 141
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-08-18"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "islam-arabs", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2024-08-18 · Deacon Eythan</p>

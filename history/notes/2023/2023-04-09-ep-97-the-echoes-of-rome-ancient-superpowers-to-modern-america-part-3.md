@@ -5,7 +5,7 @@ date: "2023-04-09"
 episode: 97
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-04-09 · with a panel of brothers"
-tags: ["Our Hidden History", "america-babylon", "nations"]
+tags: ["Our Hidden History", "america-babylon", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-04-09 · Deacon Eythan, with a panel of brothers</p>

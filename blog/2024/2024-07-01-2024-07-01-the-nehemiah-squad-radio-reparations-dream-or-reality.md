@@ -5,7 +5,7 @@ date: "2024-07-01"
 teacher: "Captain Zakai"
 description: "The Nehemiah Squad Radio · 2024-07-01"
 collection: "The Nehemiah Squad Radio"
-tags: ["IUIC in the ClassRoom", "reparations"]
+tags: ["IUIC in the ClassRoom", "money", "reparations", "the-americas"]
 ---
 
 <p class="taught">The Nehemiah Squad Radio · 2024-07-01 · Captain Zakai</p>

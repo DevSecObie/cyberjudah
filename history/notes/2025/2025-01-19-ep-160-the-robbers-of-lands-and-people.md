@@ -5,7 +5,7 @@ date: "2025-01-19"
 episode: 160
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-01-19"
-tags: ["Our Hidden History", "america-babylon"]
+tags: ["Our Hidden History", "america-babylon", "anger", "the-americas", "unity"]
 ---
 
 <p class="taught">Our Hidden History · 2025-01-19 · Deacon Eythan</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-08-08-economic-collapse-uncertain-riches"
 date: "2026-08-08"
 teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-08-08"
-tags: ["IUIC in the ClassRoom", "sabbath"]
+tags: ["IUIC in the ClassRoom", "money", "sabbath"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-08</p>

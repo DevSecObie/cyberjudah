@@ -5,7 +5,7 @@ date: "2021-03-14"
 episode: 29
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-03-14 · with Captain Joel"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "rome", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-03-14 · Deacon Eythan, with Captain Joel</p>

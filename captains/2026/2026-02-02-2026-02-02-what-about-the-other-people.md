@@ -4,7 +4,7 @@ slug: "2026/2026-02-02-what-about-the-other-people"
 date: "2026-02-02"
 teacher: "Captain Benaiah"
 description: "15 Minutes w/ The Captains · 2026-02-02"
-tags: ["15 Minutes w/ The Captains", "idolatry", "the-word"]
+tags: ["15 Minutes w/ The Captains", "idolatry", "obedience", "salvation", "the-americas", "the-word"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-02-02</p>

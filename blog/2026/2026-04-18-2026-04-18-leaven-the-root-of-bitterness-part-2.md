@@ -4,7 +4,7 @@ slug: "2026/2026-04-18-leaven-the-root-of-bitterness-part-2"
 date: "2026-04-18"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-04-18"
-tags: ["IUIC in the ClassRoom", "bitterness", "gossip", "mercy", "prayer", "satan"]
+tags: ["IUIC in the ClassRoom", "anger", "bitterness", "gossip", "love", "mercy", "prayer", "satan"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-04-18 (date estimated)</p>

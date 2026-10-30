@@ -5,7 +5,7 @@ date: "2021-09-26"
 episode: 47
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-09-26"
-tags: ["Our Hidden History", "america-babylon", "nations"]
+tags: ["Our Hidden History", "america-babylon", "europe-dark-ages", "nations", "persia-medes", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2021-09-26 · Deacon Eythan</p>

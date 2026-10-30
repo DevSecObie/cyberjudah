@@ -4,7 +4,7 @@ slug: "2026/2026-08-22-foundational-babylonian-advocates-division-among-the-disp
 date: "2026-08-22"
 teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-08-22"
-tags: ["IUIC in the ClassRoom", "america-babylon", "captivity"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22 (date estimated)</p>

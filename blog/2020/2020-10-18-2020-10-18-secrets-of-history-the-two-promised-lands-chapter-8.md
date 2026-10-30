@@ -5,7 +5,7 @@ date: "2020-10-18"
 teacher: "Deacon"
 description: "Secrets of History · 2020-10-18"
 collection: "Secrets of History"
-tags: ["IUIC in the ClassRoom", "america-babylon", "prophecy"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "persia-medes", "prophecy", "spain-inquisition", "the-americas"]
 ---
 
 <p class="taught">Secrets of History · 2020-10-18 · Deacon</p>

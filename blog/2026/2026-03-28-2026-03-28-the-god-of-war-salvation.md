@@ -4,7 +4,7 @@ slug: "2026/2026-03-28-the-god-of-war-salvation"
 date: "2026-03-28"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-03-28"
-tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "the-law", "war"]
+tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-americas", "the-law", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-28</p>

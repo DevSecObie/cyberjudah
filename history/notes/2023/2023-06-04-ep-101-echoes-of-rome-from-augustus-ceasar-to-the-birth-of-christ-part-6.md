@@ -5,7 +5,7 @@ date: "2023-06-04"
 episode: 101
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-06-04 · with Officer Manny and Officer Ari"
-tags: ["Our Hidden History", "christ", "purpose"]
+tags: ["Our Hidden History", "africa-moors", "christ", "purpose", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-06-04 · Deacon Eythan, with Officer Manny and Officer Ari</p>

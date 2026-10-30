@@ -5,7 +5,7 @@ date: "2023-11-26"
 episode: 117
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-11-26"
-tags: ["Our Hidden History", "betrayal"]
+tags: ["Our Hidden History", "betrayal", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-11-26 · Deacon Eythan</p>

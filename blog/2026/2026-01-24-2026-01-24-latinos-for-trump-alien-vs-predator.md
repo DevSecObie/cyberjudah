@@ -4,7 +4,7 @@ slug: "2026/2026-01-24-latinos-for-trump-alien-vs-predator"
 date: "2026-01-24"
 teacher: "Captain Zephaniah"
 description: "IUIC in the ClassRoom · 2026-01-24"
-tags: ["IUIC in the ClassRoom", "christ", "edom-esau"]
+tags: ["IUIC in the ClassRoom", "christ", "edom-esau", "the-americas"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-01-24</p>

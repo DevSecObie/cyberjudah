@@ -5,7 +5,7 @@ date: "2020-11-11"
 episode: 8
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2020-11-11 · with the co-hosts"
-tags: ["Our Hidden History", "america-babylon"]
+tags: ["Our Hidden History", "america-babylon", "the-americas"]
 ---
 
 <p class="taught">Our Hidden History · 2020-11-11 · Deacon Eythan, with the co-hosts</p>

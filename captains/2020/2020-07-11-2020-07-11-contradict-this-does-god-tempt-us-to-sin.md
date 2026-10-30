@@ -5,7 +5,7 @@ date: "2020-07-11"
 teacher: ""
 description: "Contradict This · 2020-07-11"
 collection: "Contradict This"
-tags: ["15 Minutes w/ The Captains"]
+tags: ["15 Minutes w/ The Captains", "angels"]
 ---
 
 <p class="taught">Contradict This · 2020-07-11</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-08-07-israel-called-gentiles-strangers-heathen-and-saints"
 date: "2026-08-07"
 teacher: "Captain Matt"
 description: "15 Minutes w/ The Captains · 2026-08-07"
-tags: ["15 Minutes w/ The Captains", "captivity", "idolatry", "mercy", "nations", "purpose"]
+tags: ["15 Minutes w/ The Captains", "captivity", "idolatry", "mercy", "nations", "purpose", "rome"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-07</p>

@@ -5,7 +5,7 @@ date: "2025-02-23"
 episode: 164
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-02-23"
-tags: ["Our Hidden History", "women"]
+tags: ["Our Hidden History", "africa-moors", "money", "so-called-jews", "spain-inquisition", "women"]
 ---
 
 <p class="taught">Our Hidden History · 2025-02-23 · Deacon Eythan</p>

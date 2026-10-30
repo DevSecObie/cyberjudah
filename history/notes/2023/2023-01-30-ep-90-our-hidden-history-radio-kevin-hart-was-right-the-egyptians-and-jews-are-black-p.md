@@ -5,7 +5,7 @@ date: "2023-01-30"
 episode: 90
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-01-30"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "egypt"]
 ---
 
 <p class="taught">Our Hidden History · 2023-01-30 · Deacon Eythan</p>

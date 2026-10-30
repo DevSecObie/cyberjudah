@@ -4,7 +4,7 @@ slug: "2026/2026-10-24-if-you-leave-now-you-were-never-with-us"
 date: "2026-10-24"
 teacher: "Captain Mattathias"
 description: "IUIC in the ClassRoom · 2026-10-24"
-tags: ["IUIC in the ClassRoom", "christ", "faith"]
+tags: ["IUIC in the ClassRoom", "christ", "faith", "love"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-24</p>

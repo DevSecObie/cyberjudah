@@ -4,7 +4,7 @@ slug: "2026/2026-10-15-god-changed-his-name-for-a-reason"
 date: "2026-10-15"
 teacher: ""
 description: "IUIC Raleigh · 2026-10-15"
-tags: ["IUIC in the ClassRoom", "captivity", "the-law"]
+tags: ["IUIC in the ClassRoom", "captivity", "egypt", "the-law"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-15</p>

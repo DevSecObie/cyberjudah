@@ -5,7 +5,7 @@ date: "2021-10-31"
 episode: 51
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-10-31 · with a captain"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "nations", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2021-10-31 · Deacon Eythan, with a captain</p>

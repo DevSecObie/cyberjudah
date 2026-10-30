@@ -5,7 +5,7 @@ date: "2022-08-14"
 episode: 78
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-08-14 · with the officers"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "europe-dark-ages", "greece", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2022-08-14 · Deacon Eythan, with the officers</p>

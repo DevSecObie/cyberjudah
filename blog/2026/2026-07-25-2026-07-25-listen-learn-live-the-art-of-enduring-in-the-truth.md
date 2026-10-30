@@ -4,7 +4,7 @@ slug: "2026/2026-07-25-listen-learn-live-the-art-of-enduring-in-the-truth"
 date: "2026-07-25"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-07-25"
-tags: ["IUIC in the ClassRoom", "discipline", "endurance", "prayer", "the-word", "wisdom"]
+tags: ["IUIC in the ClassRoom", "anger", "discipline", "endurance", "prayer", "the-word", "wisdom"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-25 (date estimated)</p>

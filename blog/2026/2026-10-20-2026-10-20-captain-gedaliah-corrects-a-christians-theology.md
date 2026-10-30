@@ -4,7 +4,7 @@ slug: "2026/2026-10-20-captain-gedaliah-corrects-a-christians-theology"
 date: "2026-10-20"
 teacher: "Captain Gedaliah"
 description: "IUIC Raleigh · 2026-10-20"
-tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "idolatry", "purpose"]
+tags: ["IUIC in the ClassRoom", "christ", "faith", "false-religion", "idolatry", "purpose", "salvation"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-20</p>

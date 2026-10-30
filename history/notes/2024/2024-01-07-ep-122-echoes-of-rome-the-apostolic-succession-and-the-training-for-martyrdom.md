@@ -5,7 +5,7 @@ date: "2024-01-07"
 episode: 122
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-01-07 · with Officer Manny"
-tags: ["Our Hidden History", "endurance", "persecution", "prayer", "the-body"]
+tags: ["Our Hidden History", "endurance", "persecution", "prayer", "rome", "the-body"]
 ---
 
 <p class="taught">Our Hidden History · 2024-01-07 · Deacon Eythan, with Officer Manny</p>

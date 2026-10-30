@@ -5,7 +5,7 @@ date: "2024-10-27"
 episode: 149
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-10-27 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "islam-arabs"]
 ---
 
 <p class="taught">Our Hidden History · 2024-10-27 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

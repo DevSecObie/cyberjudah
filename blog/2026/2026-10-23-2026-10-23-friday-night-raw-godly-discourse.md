@@ -4,7 +4,7 @@ slug: "2026/2026-10-23-friday-night-raw-godly-discourse"
 date: "2026-10-23"
 teacher: "Captain Gedaliah"
 description: "IUIC Raleigh · 2026-10-23"
-tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
+tags: ["IUIC in the ClassRoom", "marriage-family", "the-americas", "women"]
 ---
 
 <p class="taught">IUIC Raleigh · 2026-10-23</p>

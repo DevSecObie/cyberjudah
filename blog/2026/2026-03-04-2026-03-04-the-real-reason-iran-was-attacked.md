@@ -4,7 +4,7 @@ slug: "2026/2026-03-04-the-real-reason-iran-was-attacked"
 date: "2026-03-04"
 teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2026-03-04"
-tags: ["IUIC in the ClassRoom", "america-babylon", "nations", "war"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "islam-arabs", "nations", "persia-medes", "unity", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-04</p>

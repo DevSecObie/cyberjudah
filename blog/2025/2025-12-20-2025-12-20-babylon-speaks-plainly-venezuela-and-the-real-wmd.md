@@ -4,7 +4,7 @@ slug: "2025/2025-12-20-babylon-speaks-plainly-venezuela-and-the-real-wmd"
 date: "2025-12-20"
 teacher: "Deacon Yashua"
 description: "IUIC in the ClassRoom · 2025-12-20"
-tags: ["IUIC in the ClassRoom", "america-babylon", "pride"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "money", "pride", "so-called-jews", "unity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-12-20</p>

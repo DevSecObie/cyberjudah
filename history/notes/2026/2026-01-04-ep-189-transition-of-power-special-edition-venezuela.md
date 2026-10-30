@@ -5,7 +5,7 @@ date: "2026-01-04"
 episode: 189
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-01-04 · with an officer reading"
-tags: ["Our Hidden History", "edom-esau", "america-babylon", "prophecy"]
+tags: ["Our Hidden History", "africa-moors", "america-babylon", "edom-esau", "prophecy", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2026-01-04 · Deacon Eythan, with an officer reading</p>

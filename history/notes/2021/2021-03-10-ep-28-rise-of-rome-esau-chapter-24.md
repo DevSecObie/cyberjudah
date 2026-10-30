@@ -5,7 +5,7 @@ date: "2021-03-10"
 episode: 28
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-03-10"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "islam-arabs", "rome", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-03-10 · Deacon Eythan</p>

@@ -5,7 +5,7 @@ date: "2026-02-01"
 episode: 190
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-02-01 · with the officers reading"
-tags: ["Our Hidden History", "the-word"]
+tags: ["Our Hidden History", "europe-dark-ages", "the-word"]
 ---
 
 <p class="taught">Our Hidden History · 2026-02-01 · Deacon Eythan, with the officers reading</p>

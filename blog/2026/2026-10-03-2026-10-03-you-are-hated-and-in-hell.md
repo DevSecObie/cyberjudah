@@ -4,7 +4,7 @@ slug: "2026/2026-10-03-you-are-hated-and-in-hell"
 date: "2026-10-03"
 teacher: "Deacon Isaac"
 description: "IUIC in the ClassRoom · 2026-10-03"
-tags: ["IUIC in the ClassRoom", "captivity", "edom-esau"]
+tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "heaven-hell"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-03</p>

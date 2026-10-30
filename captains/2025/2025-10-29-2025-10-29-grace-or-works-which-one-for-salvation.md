@@ -4,7 +4,7 @@ slug: "2025/2025-10-29-grace-or-works-which-one-for-salvation"
 date: "2025-10-29"
 teacher: "Captain Amaziah"
 description: "15 Minutes w/ The Captains · 2025-10-29"
-tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "the-law"]
+tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "salvation", "the-law"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-10-29</p>

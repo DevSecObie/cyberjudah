@@ -4,7 +4,7 @@ slug: "2026/2026-03-14-the-beauty-and-the-beast"
 date: "2026-03-14"
 teacher: "Captain Mattathias"
 description: "IUIC in the ClassRoom · 2026-03-14"
-tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "wisdom"]
+tags: ["IUIC in the ClassRoom", "bitterness", "discipline", "europe-dark-ages", "money", "wisdom"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-14</p>

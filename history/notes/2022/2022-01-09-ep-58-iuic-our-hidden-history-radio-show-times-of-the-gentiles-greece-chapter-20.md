@@ -5,7 +5,7 @@ date: "2022-01-09"
 episode: 58
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-01-09 · with Manny reading"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "money", "nations", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2022-01-09 · Deacon Eythan, with Manny reading</p>

@@ -5,7 +5,7 @@ date: "2023-11-05"
 episode: 114
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-11-05 · with Officer Abdon and the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "christ"]
+tags: ["Our Hidden History", "christ", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-11-05 · Deacon Eythan, with Officer Abdon and the officers of IUIC Philadelphia</p>

@@ -5,7 +5,7 @@ date: "2025-06-23"
 teacher: "Captain Josiah"
 description: "Escaping the Plantation · 2025-06-23"
 collection: "Escaping the Plantation"
-tags: ["IUIC in the ClassRoom", "endurance", "false-religion", "marriage-family"]
+tags: ["IUIC in the ClassRoom", "endurance", "false-religion", "marriage-family", "obedience", "youth"]
 ---
 
 <p class="taught">Escaping the Plantation · 2025-06-23 · Captain Josiah</p>

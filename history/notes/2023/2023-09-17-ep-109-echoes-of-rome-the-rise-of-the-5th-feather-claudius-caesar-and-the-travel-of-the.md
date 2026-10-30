@@ -5,7 +5,7 @@ date: "2023-09-17"
 episode: 109
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-09-17 · with the officers"
-tags: ["Our Hidden History", "mercy"]
+tags: ["Our Hidden History", "mercy", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-09-17 · Deacon Eythan, with the officers</p>

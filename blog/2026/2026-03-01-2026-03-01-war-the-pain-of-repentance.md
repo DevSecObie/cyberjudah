@@ -4,7 +4,7 @@ slug: "2026/2026-03-01-war-the-pain-of-repentance"
 date: "2026-03-01"
 teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-03-01"
-tags: ["IUIC in the ClassRoom", "repentance", "substance-abuse", "war"]
+tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-01</p>

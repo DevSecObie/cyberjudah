@@ -4,7 +4,7 @@ slug: "2026/2026-07-24-wherever-you-go-there-you-are"
 date: "2026-07-24"
 teacher: "Captain Mattathias"
 description: "15 Minutes w/ The Captains · 2026-07-24"
-tags: ["15 Minutes w/ The Captains", "faith"]
+tags: ["15 Minutes w/ The Captains", "egypt", "faith"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-07-24</p>

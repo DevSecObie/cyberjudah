@@ -5,7 +5,7 @@ date: "2025-06-23"
 teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-06-23"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "faith", "prophecy", "repentance"]
+tags: ["15 Minutes w/ The Captains", "faith", "prophecy", "repentance", "salvation"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2025-06-23 · Captain Matt</p>

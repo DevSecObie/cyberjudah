@@ -5,7 +5,7 @@ date: "2020-04-26"
 teacher: "Elder Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2020-04-26"
-tags: ["IUIC in the ClassRoom", "christ", "war"]
+tags: ["IUIC in the ClassRoom", "angels", "christ", "heaven-hell", "the-americas", "war"]
 ---
 
 <p class="taught">The Truth Shall Make You Free · 2020-04-26 · Elder Nathanyel</p>

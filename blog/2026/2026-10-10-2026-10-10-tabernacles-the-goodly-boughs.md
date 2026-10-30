@@ -4,7 +4,7 @@ slug: "2026/2026-10-10-tabernacles-the-goodly-boughs"
 date: "2026-10-10"
 teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-10-10"
-tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "sabbath"]
+tags: ["IUIC in the ClassRoom", "christ", "heaven-hell", "passover-feasts", "sabbath"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-10</p>

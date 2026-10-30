@@ -5,7 +5,7 @@ date: "2023-02-05"
 episode: 91
 teacher: ""
 description: "Our Hidden History · 2023-02-05 · taught by a captain, with brothers of IUIC Philadelphia"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "egypt"]
 ---
 
 <p class="taught">Our Hidden History · 2023-02-05 · taught by a captain, with brothers of IUIC Philadelphia</p>

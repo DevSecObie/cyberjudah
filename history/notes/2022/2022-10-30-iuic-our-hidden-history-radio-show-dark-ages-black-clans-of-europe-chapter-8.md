@@ -4,7 +4,7 @@ slug: "2022/2022-10-30-iuic-our-hidden-history-radio-show-dark-ages-black-clans-
 date: "2022-10-30"
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-10-30"
-tags: ["Our Hidden History", "media"]
+tags: ["Our Hidden History", "europe-dark-ages", "media"]
 ---
 
 <p class="taught">Our Hidden History · 2022-10-30 · Deacon Eythan</p>

@@ -5,7 +5,7 @@ date: "2022-07-24"
 episode: 77
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-07-24 · with a co-host reading"
-tags: ["Our Hidden History", "false-religion", "edom-esau", "the-word"]
+tags: ["Our Hidden History", "edom-esau", "europe-dark-ages", "false-religion", "the-word"]
 ---
 
 <p class="taught">Our Hidden History · 2022-07-24 · Deacon Eythan, with a co-host reading</p>

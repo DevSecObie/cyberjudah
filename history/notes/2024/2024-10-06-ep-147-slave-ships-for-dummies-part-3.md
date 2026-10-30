@@ -5,7 +5,7 @@ date: "2024-10-06"
 episode: 147
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-10-06 · with Captain Yahn"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "africa-moors", "captivity", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2024-10-06 · Deacon Eythan, with Captain Yahn</p>

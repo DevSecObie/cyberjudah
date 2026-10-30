@@ -5,7 +5,7 @@ date: "2025-04-13"
 episode: 171
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-04-13 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "europe-dark-ages", "greece"]
 ---
 
 <p class="taught">Our Hidden History · 2025-04-13 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

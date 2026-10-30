@@ -4,7 +4,7 @@ slug: "2026/2026-08-22-the-exponential-maturation-in-the-days-of-decadence"
 date: "2026-08-22"
 teacher: "Bishop Yawasap"
 description: "IUIC in the ClassRoom · 2026-08-22"
-tags: ["IUIC in the ClassRoom", "edom-esau", "faith"]
+tags: ["IUIC in the ClassRoom", "anger", "edom-esau", "faith"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-08-22</p>

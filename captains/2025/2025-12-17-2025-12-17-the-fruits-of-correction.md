@@ -4,7 +4,7 @@ slug: "2025/2025-12-17-the-fruits-of-correction"
 date: "2025-12-17"
 teacher: "Captain Yahoshua"
 description: "15 Minutes w/ The Captains · 2025-12-17"
-tags: ["15 Minutes w/ The Captains", "discipline", "sabbath", "the-law", "the-word"]
+tags: ["15 Minutes w/ The Captains", "angels", "discipline", "sabbath", "the-law", "the-word"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-12-17</p>

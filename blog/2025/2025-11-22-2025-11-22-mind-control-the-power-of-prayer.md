@@ -4,7 +4,7 @@ slug: "2025/2025-11-22-mind-control-the-power-of-prayer"
 date: "2025-11-22"
 teacher: "Captain Hananiah"
 description: "IUIC in the ClassRoom · 2025-11-22"
-tags: ["IUIC in the ClassRoom", "deceit", "media", "prayer"]
+tags: ["IUIC in the ClassRoom", "angels", "deceit", "media", "prayer"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-11-22</p>

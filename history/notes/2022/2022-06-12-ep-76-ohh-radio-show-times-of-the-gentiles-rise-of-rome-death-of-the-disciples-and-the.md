@@ -5,7 +5,7 @@ date: "2022-06-12"
 episode: 76
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-06-12 · with the co-hosts"
-tags: ["Our Hidden History", "false-religion", "the-law", "persecution", "passover-feasts", "sabbath"]
+tags: ["Our Hidden History", "false-religion", "greece", "passover-feasts", "persecution", "rome", "sabbath", "the-law"]
 ---
 
 <p class="taught">Our Hidden History · 2022-06-12 · Deacon Eythan, with the co-hosts</p>

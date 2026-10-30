@@ -5,7 +5,7 @@ date: "2020-11-22"
 episode: 15
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2020-11-22 · with the officers"
-tags: ["Our Hidden History", "war"]
+tags: ["Our Hidden History", "so-called-jews", "war"]
 ---
 
 <p class="taught">Our Hidden History · 2020-11-22 · Deacon Eythan, with the officers</p>

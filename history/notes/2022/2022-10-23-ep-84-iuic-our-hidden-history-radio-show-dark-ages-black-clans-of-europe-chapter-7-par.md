@@ -5,7 +5,7 @@ date: "2022-10-23"
 episode: 84
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-10-23 · with the officers"
-tags: ["Our Hidden History", "women"]
+tags: ["Our Hidden History", "europe-dark-ages", "spain-inquisition", "women"]
 ---
 
 <p class="taught">Our Hidden History · 2022-10-23 · Deacon Eythan, with the officers</p>

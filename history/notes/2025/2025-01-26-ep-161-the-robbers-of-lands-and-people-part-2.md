@@ -5,7 +5,7 @@ date: "2025-01-26"
 episode: 161
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-01-26 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "faith"]
+tags: ["Our Hidden History", "faith", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2025-01-26 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

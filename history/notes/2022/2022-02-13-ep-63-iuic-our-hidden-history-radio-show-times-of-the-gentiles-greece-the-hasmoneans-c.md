@@ -5,7 +5,7 @@ date: "2022-02-13"
 episode: 63
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-02-13"
-tags: ["Our Hidden History", "betrayal", "nations", "war"]
+tags: ["Our Hidden History", "betrayal", "greece", "nations", "war"]
 ---
 
 <p class="taught">Our Hidden History · 2022-02-13 · Deacon Eythan</p>

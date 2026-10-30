@@ -4,7 +4,7 @@ slug: "2024/2024-11-04-the-truth-behind-horoscopes"
 date: "2024-11-04"
 teacher: "Captain Shemaiah"
 description: "15 Minutes w/ The Captains · 2024-11-04"
-tags: ["15 Minutes w/ The Captains", "idolatry"]
+tags: ["15 Minutes w/ The Captains", "heaven-hell", "idolatry"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2024-11-04</p>

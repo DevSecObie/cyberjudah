@@ -4,7 +4,7 @@ slug: "2026/2026-02-25-when-wounds-becoming-walls"
 date: "2026-02-25"
 teacher: "Captain Horeb"
 description: "15 Minutes w/ The Captains · 2026-02-25"
-tags: ["15 Minutes w/ The Captains", "discipline", "wisdom"]
+tags: ["15 Minutes w/ The Captains", "angels", "discipline", "wisdom"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-02-25</p>

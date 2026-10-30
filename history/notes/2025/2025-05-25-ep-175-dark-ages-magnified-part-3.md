@@ -5,7 +5,7 @@ date: "2025-05-25"
 episode: 175
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-05-25 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "europe-dark-ages", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2025-05-25 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

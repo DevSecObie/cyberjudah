@@ -5,7 +5,7 @@ date: "2021-01-04"
 episode: 21
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-01-04 · with Captain Joel"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "africa-moors", "angels", "edom-esau", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2021-01-04 · Deacon Eythan, with Captain Joel</p>

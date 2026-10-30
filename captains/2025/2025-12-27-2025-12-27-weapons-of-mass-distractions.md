@@ -4,7 +4,7 @@ slug: "2025/2025-12-27-weapons-of-mass-distractions"
 date: "2025-12-27"
 teacher: "Captain Tobias"
 description: "15 Minutes w/ The Captains · 2025-12-27"
-tags: ["15 Minutes w/ The Captains", "prayer", "purpose", "the-word", "war"]
+tags: ["15 Minutes w/ The Captains", "heaven-hell", "prayer", "purpose", "the-word", "war"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-12-27</p>

@@ -5,7 +5,7 @@ date: "2026-10-25"
 episode: 210
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-10-25"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "greece", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2026-10-25 · Deacon Eythan</p>

@@ -4,7 +4,7 @@ slug: "2025/2025-12-14-the-gospel-is-black-liberation"
 date: "2025-12-14"
 teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2025-12-14"
-tags: ["IUIC in the ClassRoom", "captivity", "false-religion"]
+tags: ["IUIC in the ClassRoom", "captivity", "false-religion", "the-americas"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-12-14</p>

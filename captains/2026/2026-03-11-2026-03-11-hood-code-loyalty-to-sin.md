@@ -4,7 +4,7 @@ slug: "2026/2026-03-11-hood-code-loyalty-to-sin"
 date: "2026-03-11"
 teacher: "Captain Matt"
 description: "15 Minutes w/ The Captains · 2026-03-11"
-tags: ["15 Minutes w/ The Captains", "justice", "mercy"]
+tags: ["15 Minutes w/ The Captains", "heaven-hell", "justice", "mercy"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-03-11</p>

@@ -5,7 +5,7 @@ date: "2025-03-23"
 episode: 168
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-03-23 · with Abdon"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "europe-dark-ages", "islam-arabs", "nations", "rome", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2025-03-23 · Deacon Eythan, with Abdon</p>

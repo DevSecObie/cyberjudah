@@ -4,7 +4,7 @@ slug: "2026/2026-01-18-raising-cain-the-son-of-perdition-merchants-and-captive-n
 date: "2026-01-18"
 teacher: "Deacon Yashua"
 description: "IUIC in the ClassRoom · 2026-01-18"
-tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "war"]
+tags: ["IUIC in the ClassRoom", "deceit", "edom-esau", "unity", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-01-18</p>

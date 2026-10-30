@@ -5,7 +5,7 @@ date: "2024-09-01"
 episode: 143
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-09-01 · with officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "egypt", "islam-arabs", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2024-09-01 · Deacon Eythan, with officers of IUIC Philadelphia</p>

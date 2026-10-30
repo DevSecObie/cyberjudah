@@ -4,7 +4,7 @@ slug: "2026/2026-02-14-covetous-eyes-will-be-put-out"
 date: "2026-02-14"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-02-14"
-tags: ["IUIC in the ClassRoom", "prayer", "sabbath"]
+tags: ["IUIC in the ClassRoom", "money", "prayer", "sabbath"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-02-14</p>

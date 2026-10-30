@@ -4,7 +4,7 @@ slug: "2026/2026-02-07-there-is-no-hate-like-christian-love"
 date: "2026-02-07"
 teacher: "Captain Amaziah"
 description: "IUIC in the ClassRoom · 2026-02-07"
-tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion"]
+tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion", "unity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-02-07</p>

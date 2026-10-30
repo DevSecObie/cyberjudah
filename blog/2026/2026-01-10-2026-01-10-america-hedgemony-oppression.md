@@ -4,7 +4,7 @@ slug: "2026/2026-01-10-america-hedgemony-oppression"
 date: "2026-01-10"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-01-10"
-tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "purpose", "repentance", "sexual-purity"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "europe-dark-ages", "purpose", "repentance", "sexual-purity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-01-10</p>

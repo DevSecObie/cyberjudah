@@ -4,7 +4,7 @@ slug: "2026/2026-09-05-integrated-but-divided-what-did-we-lose"
 date: "2026-09-05"
 teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2026-09-05"
-tags: ["IUIC in the ClassRoom", "persecution"]
+tags: ["IUIC in the ClassRoom", "persecution", "unity"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-05</p>

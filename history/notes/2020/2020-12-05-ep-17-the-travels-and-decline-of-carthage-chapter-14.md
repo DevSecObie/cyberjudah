@@ -5,7 +5,7 @@ date: "2020-12-05"
 episode: 17
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2020-12-05 · with the officers"
-tags: ["Our Hidden History", "war"]
+tags: ["Our Hidden History", "spain-inquisition", "war"]
 ---
 
 <p class="taught">Our Hidden History · 2020-12-05 · Deacon Eythan, with the officers</p>

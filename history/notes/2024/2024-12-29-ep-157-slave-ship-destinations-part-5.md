@@ -5,7 +5,7 @@ date: "2024-12-29"
 episode: 157
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-12-29"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "spain-inquisition", "the-americas"]
 ---
 
 <p class="taught">Our Hidden History · 2024-12-29 · Deacon Eythan</p>

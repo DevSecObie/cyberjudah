@@ -5,7 +5,7 @@ date: "2022-09-11"
 episode: 81
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-09-11"
-tags: ["Our Hidden History", "the-word"]
+tags: ["Our Hidden History", "europe-dark-ages", "greece", "the-word"]
 ---
 
 <p class="taught">Our Hidden History · 2022-09-11 · Deacon Eythan</p>

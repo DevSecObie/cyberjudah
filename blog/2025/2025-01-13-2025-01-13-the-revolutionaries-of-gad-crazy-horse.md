@@ -5,7 +5,7 @@ date: "2025-01-13"
 teacher: ""
 description: "The Revolutionaries of Gad · 2025-01-13"
 collection: "The Revolutionaries of Gad"
-tags: ["IUIC in the ClassRoom", "america-babylon", "war"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "the-americas", "war"]
 ---
 
 <p class="taught">The Revolutionaries of Gad · 2025-01-13</p>

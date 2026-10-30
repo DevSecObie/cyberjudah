@@ -5,7 +5,7 @@ date: "2025-06-03"
 teacher: "Captain Josiah"
 description: "Giving The Sense From A to Z · 2025-06-03"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "christ", "prayer"]
+tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "salvation"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2025-06-03 · Captain Josiah</p>

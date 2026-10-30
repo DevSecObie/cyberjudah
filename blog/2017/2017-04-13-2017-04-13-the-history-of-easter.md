@@ -5,7 +5,7 @@ date: "2017-04-13"
 teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free · Kente FM Radio"
 description: "The Truth Shall Make You Free · Kente FM Radio · 2017-04-13"
-tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "the-word"]
+tags: ["IUIC in the ClassRoom", "christ", "heaven-hell", "passover-feasts", "the-word"]
 ---
 
 <p class="taught">The Truth Shall Make You Free · Kente FM Radio · 2017-04-13 · Bishop Nathanyel</p>

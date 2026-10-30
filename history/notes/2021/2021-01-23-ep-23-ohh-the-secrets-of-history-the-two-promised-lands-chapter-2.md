@@ -5,7 +5,7 @@ date: "2021-01-23"
 episode: 23
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-01-23"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "the-americas"]
 ---
 
 <p class="taught">Our Hidden History · 2021-01-23 · Deacon Eythan</p>

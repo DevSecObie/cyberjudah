@@ -5,7 +5,7 @@ date: "2021-06-03"
 episode: 35
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-06-03"
-tags: ["Our Hidden History", "sabbath"]
+tags: ["Our Hidden History", "sabbath", "spain-inquisition"]
 ---
 
 <p class="taught">Our Hidden History · 2021-06-03 · Deacon Eythan</p>

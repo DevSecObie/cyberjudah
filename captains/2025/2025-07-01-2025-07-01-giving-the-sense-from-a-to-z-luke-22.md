@@ -5,7 +5,7 @@ date: "2025-07-01"
 teacher: "Captain Josiah"
 description: "Giving The Sense From A to Z · 2025-07-01"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "passover-feasts", "satan", "sexual-purity"]
+tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-feasts", "satan", "sexual-purity"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2025-07-01 · Captain Josiah</p>

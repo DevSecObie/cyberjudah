@@ -4,7 +4,7 @@ slug: "2026/2026-03-28-trump-is-fulfilling-god-s-prophecy"
 date: "2026-03-28"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-03-28"
-tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "nations", "prophecy", "war"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "nations", "prophecy", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-28</p>

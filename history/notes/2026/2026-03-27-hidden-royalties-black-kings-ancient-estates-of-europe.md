@@ -4,7 +4,7 @@ slug: "2026/2026-03-27-hidden-royalties-black-kings-ancient-estates-of-europe"
 date: "2026-03-27"
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-03-27 · with an officer reading"
-tags: ["Our Hidden History", "purpose"]
+tags: ["Our Hidden History", "europe-dark-ages", "purpose"]
 ---
 
 <p class="taught">Our Hidden History · 2026-03-27 · Deacon Eythan, with an officer reading</p>

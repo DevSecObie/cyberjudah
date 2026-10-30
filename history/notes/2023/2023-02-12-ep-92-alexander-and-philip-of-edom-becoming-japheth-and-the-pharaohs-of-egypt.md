@@ -5,7 +5,7 @@ date: "2023-02-12"
 episode: 92
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-02-12 · with an officer"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "egypt", "greece", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2023-02-12 · Deacon Eythan, with an officer</p>

@@ -4,7 +4,7 @@ slug: "2025/2025-10-08-do-you-want-conversation-or-counsel"
 date: "2025-10-08"
 teacher: "Captain Matt"
 description: "15 Minutes w/ The Captains · 2025-10-08"
-tags: ["15 Minutes w/ The Captains", "discipline"]
+tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "salvation"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2025-10-08</p>

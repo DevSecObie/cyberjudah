@@ -5,7 +5,7 @@ date: "2026-08-16"
 episode: 205
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2026-08-16"
-tags: ["Our Hidden History", "satan"]
+tags: ["Our Hidden History", "greece", "persia-medes", "satan"]
 ---
 
 <p class="taught">Our Hidden History · 2026-08-16 · Deacon Eythan</p>

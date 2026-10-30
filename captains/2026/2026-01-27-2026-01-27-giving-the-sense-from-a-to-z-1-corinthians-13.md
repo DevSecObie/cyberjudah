@@ -5,7 +5,7 @@ date: "2026-01-27"
 teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2026-01-27"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "christ", "media", "mercy", "wisdom"]
+tags: ["15 Minutes w/ The Captains", "christ", "love", "media", "mercy", "wisdom"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2026-01-27 · Captain Gedaliah</p>

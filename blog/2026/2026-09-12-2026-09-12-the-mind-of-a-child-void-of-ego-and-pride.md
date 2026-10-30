@@ -4,7 +4,7 @@ slug: "2026/2026-09-12-the-mind-of-a-child-void-of-ego-and-pride"
 date: "2026-09-12"
 teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-09-12"
-tags: ["IUIC in the ClassRoom", "america-babylon", "leadership", "mental-health", "pride"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "mental-health", "pride"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-09-12</p>

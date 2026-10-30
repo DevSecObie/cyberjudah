@@ -5,7 +5,7 @@ date: "2020-11-22"
 episode: 14
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2020-11-22 · with Captain Joel"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "greece"]
 ---
 
 <p class="taught">Our Hidden History · 2020-11-22 · Deacon Eythan, with Captain Joel</p>

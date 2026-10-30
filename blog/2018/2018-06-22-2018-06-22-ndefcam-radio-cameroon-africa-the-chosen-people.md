@@ -5,7 +5,7 @@ date: "2018-06-22"
 teacher: "Bishop Nathanyel"
 description: "NDEFCAM Radio · 2018-06-22"
 collection: "NDEFCAM Radio"
-tags: ["IUIC in the ClassRoom", "adversity", "christ", "deceit", "nations"]
+tags: ["IUIC in the ClassRoom", "adversity", "angels", "christ", "deceit", "nations"]
 ---
 
 <p class="taught">NDEFCAM Radio · 2018-06-22 · Bishop Nathanyel</p>

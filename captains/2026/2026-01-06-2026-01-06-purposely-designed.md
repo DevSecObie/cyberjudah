@@ -4,7 +4,7 @@ slug: "2026/2026-01-06-purposely-designed"
 date: "2026-01-06"
 teacher: "Captain Josiah"
 description: "15 Minutes w/ The Captains · 2026-01-06"
-tags: ["15 Minutes w/ The Captains", "faith", "mercy", "purpose", "the-law", "wisdom"]
+tags: ["15 Minutes w/ The Captains", "anger", "faith", "mercy", "purpose", "the-law", "wisdom"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-01-06</p>

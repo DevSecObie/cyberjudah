@@ -5,7 +5,7 @@ date: "2021-01-23"
 episode: 24
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-01-23"
-tags: ["Our Hidden History", "mercy"]
+tags: ["Our Hidden History", "africa-moors", "islam-arabs", "mercy"]
 ---
 
 <p class="taught">Our Hidden History · 2021-01-23 · Deacon Eythan</p>

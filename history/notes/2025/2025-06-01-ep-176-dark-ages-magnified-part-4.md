@@ -5,7 +5,7 @@ date: "2025-06-01"
 episode: 176
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-06-01 · with guests in the studio"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "europe-dark-ages", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2025-06-01 · Deacon Eythan, with guests in the studio</p>

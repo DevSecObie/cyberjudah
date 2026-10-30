@@ -4,7 +4,7 @@ slug: "2026/2026-07-11-250-years-of-celebration-400-years-of-sweat-equity-pt-2"
 date: "2026-07-11"
 teacher: "Bishop Yawasap"
 description: "IUIC in the ClassRoom · 2026-07-11"
-tags: ["IUIC in the ClassRoom", "justice", "reparations"]
+tags: ["IUIC in the ClassRoom", "justice", "reparations", "the-americas"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-07-11</p>

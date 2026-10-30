@@ -5,7 +5,7 @@ date: "2025-08-10"
 episode: 180
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-08-10 · with officers reading"
-tags: ["Our Hidden History", "christ", "false-religion"]
+tags: ["Our Hidden History", "christ", "europe-dark-ages", "false-religion", "heaven-hell", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2025-08-10 · Deacon Eythan, with officers reading</p>

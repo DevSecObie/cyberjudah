@@ -5,7 +5,7 @@ date: "2026-02-09"
 teacher: "Captain Yaya"
 description: "Giving The Sense From A to Z · 2026-02-09"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
+tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-law"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2026-02-09 · Captain Yaya</p>

@@ -4,7 +4,7 @@ slug: "2026/2026-03-29-zionism-in-the-face-of-syria-hezbollah"
 date: "2026-03-29"
 teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-03-29"
-tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nations", "war"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "media", "nations", "so-called-jews", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-29</p>

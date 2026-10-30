@@ -4,7 +4,7 @@ slug: "2021/2021-11-29-iuic-our-hidden-history-radio-show-times-of-the-gentiles-
 date: "2021-11-29"
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-11-29"
-tags: ["Our Hidden History", "nations", "purpose"]
+tags: ["Our Hidden History", "nations", "persia-medes", "purpose"]
 ---
 
 <p class="taught">Our Hidden History · 2021-11-29 · Deacon Eythan</p>

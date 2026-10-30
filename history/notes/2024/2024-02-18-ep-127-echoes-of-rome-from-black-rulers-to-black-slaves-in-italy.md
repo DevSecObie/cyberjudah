@@ -5,7 +5,7 @@ date: "2024-02-18"
 episode: 127
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-02-18"
-tags: ["Our Hidden History", "captivity"]
+tags: ["Our Hidden History", "captivity", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2024-02-18 · Deacon Eythan</p>

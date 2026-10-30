@@ -5,7 +5,7 @@ date: "2012-12-23"
 teacher: "Elder Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-23"
-tags: ["IUIC in the ClassRoom", "edom-esau"]
+tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages"]
 ---
 
 <p class="taught">The Truth Shall Make You Free · 2012-12-23 · Elder Nathanyel</p>

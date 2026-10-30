@@ -5,7 +5,7 @@ date: "2022-05-15"
 episode: 73
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-05-15 · with a co-host"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-05-15 · Deacon Eythan, with a co-host</p>

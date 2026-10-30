@@ -5,7 +5,7 @@ date: "2024-01-28"
 episode: 124
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-01-28 · with officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "captivity", "persecution"]
+tags: ["Our Hidden History", "captivity", "persecution", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2024-01-28 · Deacon Eythan, with officers of IUIC Philadelphia</p>

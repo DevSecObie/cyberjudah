@@ -4,7 +4,7 @@ slug: "2026/2026-01-24-civil-war-the-son-of-perdition"
 date: "2026-01-24"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-01-24"
-tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "false-religion", "war"]
+tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "anger", "egypt", "europe-dark-ages", "false-religion", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-01-24</p>

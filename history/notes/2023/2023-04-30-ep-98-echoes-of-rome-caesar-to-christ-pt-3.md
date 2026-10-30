@@ -5,7 +5,7 @@ date: "2023-04-30"
 episode: 98
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-04-30 · with a captain and officers"
-tags: ["Our Hidden History", "captivity", "christ"]
+tags: ["Our Hidden History", "captivity", "christ", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-04-30 · Deacon Eythan, with a captain and officers</p>

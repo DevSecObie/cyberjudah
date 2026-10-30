@@ -5,7 +5,7 @@ date: "2024-07-21"
 episode: 139
 teacher: "Officer Jazz"
 description: "Our Hidden History · 2024-07-21 · Officer Jazz filling in for the Deacon, with Officer Manny and Officer Abdon"
-tags: ["Our Hidden History", "captivity", "edom-esau", "mental-health", "wisdom"]
+tags: ["Our Hidden History", "captivity", "edom-esau", "egypt", "mental-health", "wisdom"]
 ---
 
 <p class="taught">Our Hidden History · 2024-07-21 · Officer Jazz, with Officer Manny and Officer Abdon</p>

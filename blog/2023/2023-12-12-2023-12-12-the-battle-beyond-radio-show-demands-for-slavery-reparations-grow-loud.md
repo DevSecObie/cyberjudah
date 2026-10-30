@@ -5,7 +5,7 @@ date: "2023-12-12"
 teacher: "Captain Joel"
 description: "Battle Beyond Radio Show · 2023-12-12"
 collection: "Battle Beyond Radio Show"
-tags: ["IUIC in the ClassRoom", "captivity", "nations", "reparations", "war"]
+tags: ["IUIC in the ClassRoom", "captivity", "money", "nations", "reparations", "war"]
 ---
 
 <p class="taught">Battle Beyond Radio Show · 2023-12-12 · Captain Joel</p>

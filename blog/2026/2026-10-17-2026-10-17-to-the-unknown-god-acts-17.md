@@ -4,7 +4,7 @@ slug: "2026/2026-10-17-to-the-unknown-god-acts-17"
 date: "2026-10-17"
 teacher: "Deacon Asaph"
 description: "IUIC in the ClassRoom · 2026-10-17"
-tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
+tags: ["IUIC in the ClassRoom", "christ", "false-religion", "greece", "salvation"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-10-17</p>

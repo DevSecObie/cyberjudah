@@ -4,7 +4,7 @@ slug: "2023/2023-03-08-our-hidden-history-conquest-of-alexander-and-the-whitewas
 date: "2023-03-08"
 teacher: "Captain Joel"
 description: "Our Hidden History · 2023-03-08 · with Officer Jazz and the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "angels", "edom-esau", "egypt", "greece", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2023-03-08 · Captain Joel, with Officer Jazz and the officers of IUIC Philadelphia</p>

@@ -5,7 +5,7 @@ date: "2025-06-25"
 teacher: "Captain Zakai"
 description: "Giving The Sense From A to Z · 2025-06-25"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "substance-abuse"]
+tags: ["15 Minutes w/ The Captains", "money", "substance-abuse"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2025-06-25 · Captain Zakai</p>

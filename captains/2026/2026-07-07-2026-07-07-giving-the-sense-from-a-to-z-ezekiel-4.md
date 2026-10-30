@@ -5,7 +5,7 @@ date: "2026-07-07"
 teacher: "Captain Josiah"
 description: "Giving The Sense From A to Z · 2026-07-07"
 collection: "Giving The Sense From A to Z"
-tags: ["15 Minutes w/ The Captains", "america-babylon"]
+tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt"]
 ---
 
 <p class="taught">Giving The Sense From A to Z · 2026-07-07 · Captain Josiah</p>

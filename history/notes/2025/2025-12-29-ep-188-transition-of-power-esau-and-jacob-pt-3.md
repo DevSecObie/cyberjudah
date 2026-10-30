@@ -5,7 +5,7 @@ date: "2025-12-29"
 episode: 188
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-12-29 · with the officers of IUIC Philadelphia"
-tags: ["Our Hidden History", "edom-esau"]
+tags: ["Our Hidden History", "edom-esau", "europe-dark-ages"]
 ---
 
 <p class="taught">Our Hidden History · 2025-12-29 · Deacon Eythan, with the officers of IUIC Philadelphia</p>

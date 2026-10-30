@@ -4,7 +4,7 @@ slug: "2025/2025-12-06-the-mind-of-mattathias-let-s-search-the-scriptures"
 date: "2025-12-06"
 teacher: "Captain Shem"
 description: "IUIC in the ClassRoom · 2025-12-06"
-tags: ["IUIC in the ClassRoom", "endurance", "mental-health", "sabbath", "the-law", "war"]
+tags: ["IUIC in the ClassRoom", "anger", "endurance", "mental-health", "sabbath", "the-law", "war"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2025-12-06</p>

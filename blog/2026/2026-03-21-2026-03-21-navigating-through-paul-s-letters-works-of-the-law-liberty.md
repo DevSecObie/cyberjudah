@@ -4,7 +4,7 @@ slug: "2026/2026-03-21-navigating-through-paul-s-letters-works-of-the-law-libert
 date: "2026-03-21"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-03-21"
-tags: ["IUIC in the ClassRoom", "christ", "faith", "mercy", "purpose", "the-law"]
+tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "mercy", "purpose", "the-law"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-03-21</p>

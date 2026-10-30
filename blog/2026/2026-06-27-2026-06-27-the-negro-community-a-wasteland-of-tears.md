@@ -4,7 +4,7 @@ slug: "2026/2026-06-27-the-negro-community-a-wasteland-of-tears"
 date: "2026-06-27"
 teacher: ""
 description: "IUIC in the ClassRoom · 2026-06-27"
-tags: ["IUIC in the ClassRoom", "false-religion", "justice", "repentance", "the-law", "the-word"]
+tags: ["IUIC in the ClassRoom", "false-religion", "justice", "repentance", "salvation", "the-law", "the-word"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-06-27 (date estimated)</p>

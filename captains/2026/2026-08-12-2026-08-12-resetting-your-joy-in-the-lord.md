@@ -4,7 +4,7 @@ slug: "2026/2026-08-12-resetting-your-joy-in-the-lord"
 date: "2026-08-12"
 teacher: "Captain Lemuel"
 description: "15 Minutes w/ The Captains · 2026-08-12"
-tags: ["15 Minutes w/ The Captains", "faith", "gossip", "prayer", "sexual-purity", "the-body"]
+tags: ["15 Minutes w/ The Captains", "faith", "gossip", "money", "prayer", "salvation", "sexual-purity", "the-body"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-08-12</p>

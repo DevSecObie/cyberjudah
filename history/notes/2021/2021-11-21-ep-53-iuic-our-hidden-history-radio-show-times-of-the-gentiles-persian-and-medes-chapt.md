@@ -5,7 +5,7 @@ date: "2021-11-21"
 episode: 53
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2021-11-21 · with a co-host"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "nations", "persia-medes"]
 ---
 
 <p class="taught">Our Hidden History · 2021-11-21 · Deacon Eythan, with a co-host</p>

@@ -5,7 +5,7 @@ date: "2023-10-08"
 episode: 112
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2023-10-08"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "africa-moors", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-10-08 · Deacon Eythan</p>

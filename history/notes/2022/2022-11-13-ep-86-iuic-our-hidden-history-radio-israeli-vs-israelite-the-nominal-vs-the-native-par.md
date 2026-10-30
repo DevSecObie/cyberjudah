@@ -5,7 +5,7 @@ date: "2022-11-13"
 episode: 86
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-11-13"
-tags: ["Our Hidden History", "edom-esau", "false-religion"]
+tags: ["Our Hidden History", "edom-esau", "egypt", "false-religion", "so-called-jews"]
 ---
 
 <p class="taught">Our Hidden History · 2022-11-13 · Deacon Eythan</p>

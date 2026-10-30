@@ -5,7 +5,7 @@ date: "2022-01-23"
 episode: 60
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-01-23 · with a captain"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "greece", "nations"]
 ---
 
 <p class="taught">Our Hidden History · 2022-01-23 · Deacon Eythan, with a captain</p>

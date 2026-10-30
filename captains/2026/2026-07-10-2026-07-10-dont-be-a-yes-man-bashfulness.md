@@ -4,7 +4,7 @@ slug: "2026/2026-07-10-dont-be-a-yes-man-bashfulness"
 date: "2026-07-10"
 teacher: "Captain Gedaliah"
 description: "15 Minutes w/ The Captains · 2026-07-10"
-tags: ["15 Minutes w/ The Captains", "discipline", "leadership"]
+tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "leadership"]
 ---
 
 <p class="taught">15 Minutes w/ The Captains · 2026-07-10</p>

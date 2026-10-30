@@ -5,7 +5,7 @@ date: "2025-03-16"
 episode: 167
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2025-03-16 · with the officers"
-tags: ["Our Hidden History", "nations"]
+tags: ["Our Hidden History", "europe-dark-ages", "greece", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2025-03-16 · Deacon Eythan, with the officers</p>

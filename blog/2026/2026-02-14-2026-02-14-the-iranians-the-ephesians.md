@@ -4,7 +4,7 @@ slug: "2026/2026-02-14-the-iranians-the-ephesians"
 date: "2026-02-14"
 teacher: "Captain Mattathias"
 description: "IUIC in the ClassRoom · 2026-02-14"
-tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "media", "nations"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "edom-esau", "idolatry", "media", "nations", "persia-medes"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-02-14</p>

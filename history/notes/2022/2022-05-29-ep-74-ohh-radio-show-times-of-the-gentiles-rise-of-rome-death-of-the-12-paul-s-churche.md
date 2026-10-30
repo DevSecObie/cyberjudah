@@ -5,7 +5,7 @@ date: "2022-05-29"
 episode: 74
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2022-05-29 · with a co-host"
-tags: ["Our Hidden History", "false-religion", "nations"]
+tags: ["Our Hidden History", "false-religion", "nations", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2022-05-29 · Deacon Eythan, with a co-host</p>

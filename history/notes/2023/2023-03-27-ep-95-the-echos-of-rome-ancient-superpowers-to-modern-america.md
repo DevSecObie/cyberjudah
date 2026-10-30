@@ -5,7 +5,7 @@ date: "2023-03-27"
 episode: 95
 teacher: "Captain Joel"
 description: "Our Hidden History · 2023-03-27 · with Officer Haim and Officer Jazz"
-tags: ["Our Hidden History", "america-babylon", "captivity"]
+tags: ["Our Hidden History", "america-babylon", "captivity", "rome"]
 ---
 
 <p class="taught">Our Hidden History · 2023-03-27 · Captain Joel, with Officer Haim and Officer Jazz</p>

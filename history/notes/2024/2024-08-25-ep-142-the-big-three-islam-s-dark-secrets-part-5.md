@@ -5,7 +5,7 @@ date: "2024-08-25"
 episode: 142
 teacher: "Deacon Eythan"
 description: "Our Hidden History · 2024-08-25 · with Captain Yahn"
-tags: ["Our Hidden History", "women"]
+tags: ["Our Hidden History", "heaven-hell", "islam-arabs", "women"]
 ---
 
 <p class="taught">Our Hidden History · 2024-08-25 · Deacon Eythan, with Captain Yahn</p>

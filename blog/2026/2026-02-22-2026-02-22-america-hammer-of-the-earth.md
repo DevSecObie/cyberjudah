@@ -4,7 +4,7 @@ slug: "2026/2026-02-22-america-hammer-of-the-earth"
 date: "2026-02-22"
 teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-02-22"
-tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion", "media", "the-word"]
+tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "false-religion", "media", "so-called-jews", "the-word"]
 ---
 
 <p class="taught">IUIC in the ClassRoom · 2026-02-22</p>
