@@ -2,13 +2,13 @@
 title: "GENTILES GRAFTED IN"
 slug: "2013/2013-03-09-gentiles-grafted-in"
 date: "2013-03-09"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2013-03-09 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "christ", "idolatry", "mercy", "purpose", "the-americas", "the-word"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2013-03-09 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2013-03-09 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [2 Macc 6](/bible/2-maccabees/6) · [Rom 11](/bible/romans/11) · [Matt 23](/bible/matthew/23) · [Deut 32](/bible/deuteronomy/32) · [Rom 10](/bible/romans/10) · [1 Pet 2](/bible/1-peter/2) · [Isa 7](/bible/isaiah/7) · [John 7](/bible/john/7) · [Acts 13](/bible/acts/13) · [Zech 12](/bible/zechariah/12) · [2 Chr 29](/bible/2-chronicles/29) · [Rom 5](/bible/romans/5) · [Jer 11](/bible/jeremiah/11) · [Acts 15](/bible/acts/15) · [1 Cor 12](/bible/1-corinthians/12) · <i>and 4 more below</i></span>
 

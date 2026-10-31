@@ -2,13 +2,13 @@
 title: "INTERRACIAL MARRIAGE"
 slug: "2012/2012-10-23-interracial-marriage"
 date: "2012-10-23"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-10-23 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "america-babylon", "marriage-family", "repentance", "the-law", "women"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-10-23 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2012-10-23 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Deut 7](/bible/deuteronomy/7) · [Deut 23](/bible/deuteronomy/23) · [Judg 21](/bible/judges/21) · [Ruth 1](/bible/ruth/1) · [Ruth 4](/bible/ruth/4) · [Deut 25](/bible/deuteronomy/25) · [Matt 22](/bible/matthew/22) · [Matt 1](/bible/matthew/1) · [Exod 12](/bible/exodus/12) · [Deut 28](/bible/deuteronomy/28) · [Josh 23](/bible/joshua/23) · [Neh 13](/bible/nehemiah/13) · [Ezra 10](/bible/ezra/10) · [Mal 2](/bible/malachi/2) · [Tobit 4](/bible/tobit/4) · <i>and 6 more below</i></span>
 

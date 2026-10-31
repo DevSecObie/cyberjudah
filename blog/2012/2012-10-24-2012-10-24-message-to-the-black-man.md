@@ -2,13 +2,13 @@
 title: "MESSAGE TO THE BLACK MAN"
 slug: "2012/2012-10-24-message-to-the-black-man"
 date: "2012-10-24"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-10-24 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "captivity", "women"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Gen 1](/bible/genesis/1) · [Exod 19](/bible/exodus/19) · [Rev 1](/bible/revelation/1) · [Hos 4](/bible/hosea/4) · [2 Esdras 6](/bible/2-esdras/6) · [Deut 16](/bible/deuteronomy/16) · [John 10](/bible/john/10) · [Ps 82](/bible/psalms/82) · [Lev 26](/bible/leviticus/26) · [Deut 28](/bible/deuteronomy/28) · [Hos 3](/bible/hosea/3) · [1 Macc 3](/bible/1-maccabees/3) · [1 Tim 2](/bible/1-timothy/2) · [2 Esdras 5](/bible/2-esdras/5) · [Isa 3](/bible/isaiah/3) · <i>and 14 more below</i></span>
 

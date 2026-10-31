@@ -2,13 +2,13 @@
 title: "ARE GOD'S LAWS DESTROYED?"
 slug: "2012/2012-10-24-are-gods-laws-destroyed"
 date: "2012-10-24"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-10-24 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "captivity", "christ", "heaven-hell", "prophecy", "salvation", "the-law"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Deut 28](/bible/deuteronomy/28) · [Deut 30](/bible/deuteronomy/30) · [Matt 5](/bible/matthew/5) · [Luke 24](/bible/luke/24) · [Ps 22](/bible/psalms/22) · [Matt 27](/bible/matthew/27) · [Lev 9](/bible/leviticus/9) · [John 1](/bible/john/1) · [Isa 53](/bible/isaiah/53) · [John 19](/bible/john/19) · [Lev 19](/bible/leviticus/19) · [2 Esdras 9](/bible/2-esdras/9) · [Isa 2](/bible/isaiah/2) · [John 14](/bible/john/14) · [1 John 5](/bible/1-john/5) · <i>and 13 more below</i></span>
 
