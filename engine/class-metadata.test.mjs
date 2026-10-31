@@ -48,3 +48,11 @@ test('a passage marked only by rank takes the confirmed name; named and other-ra
   assert.equal(namedTeacher('Bishop', 'LMNOPQRSTUV', ranks), 'Bishop');
   for (const text of ['video', `${RANK_HEADER}\n${video}\tYawasap`, `${RANK_HEADER}\n${video}\tBishop Kani\n${video}\tBishop Kani`, `${RANK_HEADER}\n../x\tBishop Kani`]) assert.throws(() => parseRankTeachers(text));
 });
+
+test('a rank row with a third column names the man the class marked by another rank', async () => {
+  const { parseRankTeachers, namedTeacher, RANK_HEADER } = await import('./class-metadata.mjs');
+  const ranks = parseRankTeachers(`${RANK_HEADER}\n6Zr0mBGRnyU\tElder Labachaa\tDeacon\n`);
+  assert.equal(namedTeacher('Deacon', '6Zr0mBGRnyU', ranks), 'Elder Labachaa');
+  assert.equal(namedTeacher('Elder', '6Zr0mBGRnyU', ranks), 'Elder');
+  assert.throws(() => parseRankTeachers(`${RANK_HEADER}\n6Zr0mBGRnyU\tElder Labachaa\tOfficer\n`));
+});
