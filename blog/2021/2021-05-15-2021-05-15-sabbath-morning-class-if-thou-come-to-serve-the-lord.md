@@ -2,7 +2,7 @@
 title: "SABBATH MORNING CLASS: If Thou Come to Serve the Lord"
 slug: "2021/2021-05-15-sabbath-morning-class-if-thou-come-to-serve-the-lord"
 date: "2021-05-15"
-teacher: ""
+teacher: "Captain Pallu"
 description: "IUIC in the ClassRoom · 2021-05-15"
 tags: ["IUIC in the ClassRoom", "endurance", "marriage-family", "repentance", "sabbath", "the-law"]
 ---

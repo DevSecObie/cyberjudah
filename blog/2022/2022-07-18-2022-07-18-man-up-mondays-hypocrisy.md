@@ -2,7 +2,7 @@
 title: "MAN UP MONDAYS: Hypocrisy"
 slug: "2022/2022-07-18-man-up-mondays-hypocrisy"
 date: "2022-07-18"
-teacher: ""
+teacher: "Captain Ehud"
 description: "Man Up Mondays · 2022-07-18"
 collection: "Man Up Mondays"
 tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "leadership", "purpose", "wisdom"]

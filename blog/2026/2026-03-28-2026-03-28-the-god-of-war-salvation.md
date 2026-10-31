@@ -2,7 +2,7 @@
 title: "The God Of War & Salvation"
 slug: "2026/2026-03-28-the-god-of-war-salvation"
 date: "2026-03-28"
-teacher: ""
+teacher: "Captain Yadon"
 description: "IUIC in the ClassRoom · 2026-03-28"
 tags: ["IUIC in the ClassRoom", "adversity", "prophecy", "salvation", "the-americas", "the-law", "war"]
 ---

@@ -2,7 +2,7 @@
 title: "NOLAN WELLS: THE PERPETUAL HATRED WE NEVER LEARNED"
 slug: "2026/2026-08-01-nolan-wells-the-perpetual-hatred-we-never-learned"
 date: "2026-08-01"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-08-01"
 tags: ["IUIC in the ClassRoom", "edom-esau", "war"]
 ---

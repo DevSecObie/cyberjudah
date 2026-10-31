@@ -2,7 +2,7 @@
 title: "Much Is Given, Much Is Required"
 slug: "2026/2026-03-21-much-is-given-much-is-required"
 date: "2026-03-21"
-teacher: ""
+teacher: "Bishop Kani"
 description: "IUIC in the ClassRoom · 2026-03-21"
 tags: ["IUIC in the ClassRoom", "leadership", "money", "the-law", "the-word", "wisdom"]
 ---

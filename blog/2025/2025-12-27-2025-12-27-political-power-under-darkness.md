@@ -2,7 +2,7 @@
 title: "Political Power Under Darkness"
 slug: "2025/2025-12-27-political-power-under-darkness"
 date: "2025-12-27"
-teacher: ""
+teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2025-12-27"
 tags: ["IUIC in the ClassRoom", "false-religion"]
 ---

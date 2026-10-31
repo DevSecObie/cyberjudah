@@ -2,7 +2,7 @@
 title: "False New Year: True Past Curses & Trauma"
 slug: "2025/2025-12-31-false-new-year-true-past-curses-trauma"
 date: "2025-12-31"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2025-12-31"
 tags: ["IUIC in the ClassRoom"]
 ---

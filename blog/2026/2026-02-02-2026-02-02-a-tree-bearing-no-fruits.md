@@ -2,7 +2,7 @@
 title: "A Tree Bearing No Fruits"
 slug: "2026/2026-02-02-a-tree-bearing-no-fruits"
 date: "2026-02-02"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-02-02"
 tags: ["IUIC in the ClassRoom", "adversity", "prayer", "pride", "repentance", "the-word"]
 ---

@@ -2,7 +2,7 @@
 title: "Navigating Through Paul's Letters: Walk Through of Romans 5"
 slug: "2026/2026-02-21-navigating-through-paul-s-letters-walk-through-of-romans-5"
 date: "2026-02-21"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-02-21"
 tags: ["IUIC in the ClassRoom", "christ", "faith", "passover-feasts", "purpose", "the-law"]
 ---

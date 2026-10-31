@@ -2,7 +2,7 @@
 title: "Navigating Through Paul's Letters: Works Of The Law & Liberty"
 slug: "2026/2026-03-21-navigating-through-paul-s-letters-works-of-the-law-liberty"
 date: "2026-03-21"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-03-21"
 tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "mercy", "purpose", "the-law"]
 ---

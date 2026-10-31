@@ -2,7 +2,7 @@
 title: "DROWNING IN SIN & PERDITION"
 slug: "2026/2026-07-19-drowning-in-sin-perdition"
 date: "2026-07-19"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-07-19"
 tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion"]
 ---

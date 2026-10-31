@@ -2,7 +2,7 @@
 title: "Popular Persuasions: Fighting Against Heaven Defending Earth"
 slug: "2026/2026-05-16-popular-persuasions-fighting-against-heaven-defending-earth"
 date: "2026-05-16"
-teacher: ""
+teacher: "Deacon Isaac"
 description: "IUIC in the ClassRoom · 2026-05-16"
 tags: ["IUIC in the ClassRoom", "angels", "deceit", "edom-esau", "heaven-hell", "media", "satan", "war"]
 ---

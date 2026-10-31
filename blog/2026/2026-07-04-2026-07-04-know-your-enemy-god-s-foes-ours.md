@@ -2,7 +2,7 @@
 title: "KNOW YOUR ENEMY: GOD'S FOES & OURS"
 slug: "2026/2026-07-04-know-your-enemy-god-s-foes-ours"
 date: "2026-07-04"
-teacher: ""
+teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2026-07-04"
 tags: ["IUIC in the ClassRoom", "america-babylon", "media", "nations", "prayer", "repentance", "the-americas"]
 ---

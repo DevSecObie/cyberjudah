@@ -2,7 +2,7 @@
 title: "Living Your Life As A Hireling"
 slug: "2026/2026-07-26-living-your-life-as-a-hireling"
 date: "2026-07-26"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-07-26"
 tags: ["IUIC in the ClassRoom", "false-religion", "the-body"]
 ---

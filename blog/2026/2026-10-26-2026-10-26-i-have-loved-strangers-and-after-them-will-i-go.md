@@ -2,7 +2,7 @@
 title: "I Have Loved Strangers and After Them Will I Go"
 slug: "2026/2026-10-26-i-have-loved-strangers-and-after-them-will-i-go"
 date: "2026-10-26"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-10-26"
 tags: ["IUIC in the ClassRoom", "anger", "captivity", "money"]
 ---

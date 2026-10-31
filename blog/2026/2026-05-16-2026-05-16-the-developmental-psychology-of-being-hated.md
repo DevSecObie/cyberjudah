@@ -2,7 +2,7 @@
 title: "THE DEVELOPMENTAL PSYCHOLOGY OF BEING HATED"
 slug: "2026/2026-05-16-the-developmental-psychology-of-being-hated"
 date: "2026-05-16"
-teacher: ""
+teacher: "Bishop Yawasap"
 description: "IUIC in the ClassRoom · 2026-05-16"
 tags: ["IUIC in the ClassRoom", "endurance", "faith", "health", "mental-health", "substance-abuse"]
 ---

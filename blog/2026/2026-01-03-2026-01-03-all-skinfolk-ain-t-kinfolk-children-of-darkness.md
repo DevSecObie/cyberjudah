@@ -2,7 +2,7 @@
 title: "All Skinfolk Ain't Kinfolk: Children of Darkness"
 slug: "2026/2026-01-03-all-skinfolk-ain-t-kinfolk-children-of-darkness"
 date: "2026-01-03"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-01-03"
 tags: ["IUIC in the ClassRoom", "betrayal"]
 ---
