@@ -135,6 +135,9 @@ function readingsOf(slug) {
   return out;
 }
 let readingsTotal = 0;
+// Which chapters each teacher's precepts and breakdowns reach, so a per-teacher commentary can
+// list its coverage without reading every chapter: { "<teacher>": { "<book-slug>": [chapters] } }.
+const teacherChapters = {};
 for (const b of BOOKS) {
   const readings = readingsOf(bookSlug[b]);
   const chs = Object.keys(bible[b]).map(Number).sort((x, y) => x - y);
@@ -145,6 +148,7 @@ for (const b of BOOKS) {
     // Emitted for every chapter, cited or not: an uncited chapter is an empty list, not a 404.
     writeJson(path.join(API, "concordance", bookSlug[b], `${c}.json`), { book: b, chapter: c, cited_by: uniqueCitations(cited.get(`${b}|${c}`) ?? []), precepts: linked.get(`${b}|${c}`) ?? [], moments: moments.get(`${b}|${c}`) ?? [], commentary: commentary.get(`${b}|${c}`) ?? [], people: namedIn.get(`${bookSlug[b]}|${c}`) ?? {}, places: placedIn.get(`${bookSlug[b]}|${c}`) ?? {}, read: readings[String(c)] ?? {} });
     readingsTotal += Object.values(readings[String(c)] ?? {}).reduce((a, r) => a + r.length, 0);
+    for (const t of new Set([...(linked.get(`${b}|${c}`) ?? []), ...(commentary.get(`${b}|${c}`) ?? [])].map((p) => p.note?.teacher).filter(Boolean))) ((teacherChapters[t] ??= {})[bookSlug[b]] ??= []).push(c);
   }
   writeJson(path.join(API, "kjv", bookSlug[b], "index.json"), { book: b, slug: bookSlug[b], testament: testament(b), chapters: CHAPTERS[b], verses: chs.reduce((a, c) => a + (bible[b][String(c)] ?? []).filter(Boolean).length, 0), chapterIds: chs });
 }
@@ -371,6 +375,7 @@ for (const b of BOOKS) {
   concordanceIndex.push({ book: b, slug: bookSlug[b], testament: testament(b), url: bookUrl(b), chapters: CHAPTERS[b], cited: chs, citations });
 }
 writeJson(path.join(API, "concordance", "index.json"), concordanceIndex);
+writeJson(path.join(API, "concordance", "teachers.json"), teacherChapters);
 
 // The classes that read or cite a verse naming the person: a class, 15 Minutes or Hidden History
 // note links one of the person's verses, and the same paragraph (the quoted verse itself, or the
@@ -849,7 +854,7 @@ writeJson(path.join(API, "index.json"), {
   kjv: "/api/kjv/books.json", chapter: "/api/kjv/<book-slug>/<chapter>.json", concordance: "/api/concordance/<book-slug>/<chapter>.json",
   notes: "/api/notes/index.json", note: "/api/notes/<site-path>.json", laws: "/api/laws/index.json", law: "/api/laws/<SECTION>.json",
   precepts: "/api/precepts/index.json", precept: "/api/precepts/<slug>.json", doctrine: "/api/doctrine/index.json", doctrineEntry: "/api/doctrine/<slug>.json", cases: "/api/cases/index.json", case: "/api/cases/<slug>.json",
-  concordanceIndex: "/api/concordance/index.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
+  concordanceIndex: "/api/concordance/index.json", concordanceTeachers: "/api/concordance/teachers.json", glossary: "/api/glossary/index.json", concordanceBook: "/api/concordance/<book-slug>.json", encyclopedia: "/api/encyclopedia/index.json",
   topics: "/api/topics/index.json", topic: "/api/topics/<slug>.json", byBook: "/api/by-book.json",
   history: "/api/history/index.json", shows: "/api/shows/index.json", strongs: "/api/strongs/<number>.json", strongsIndex: "/api/strongs/index.json", library: "/api/library/index.json", libraryBook: "/api/library/<slug>/book.json", libraryChapter: "/api/library/<slug>/chapter/<k>.json", xref: "/api/xref/<book-slug>/<chapter>.json", stats: "/api/stats.json",
   search: { classes: "/search/classes.json", captains: "/search/captains.json", topics: "/search/topics.json", books: "/search/books.json", laws: "/search/laws.json", precepts: "/search/precepts.json", doctrine: "/search/doctrine.json", cases: "/search/cases.json", pagefind: "/pagefind/pagefind.js", sqlite: "/library.sqlite.gz" },

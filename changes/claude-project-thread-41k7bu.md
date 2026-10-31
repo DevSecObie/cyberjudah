@@ -24,3 +24,10 @@ Obie (2026-10-31): "name him Bishop Nathanyel and not Elder".
   `scripts/notes/prep.py` `teacher_of` now returns the names.tsv spelling, so a rebuilt readings file
   or a new note does not bring the old name back.
 - Built data: Bishop Nathanyel 14,761 -> 15,829 entries; no "Elder Nathanyel" left.
+
+# Each teacher's chapters, for the Bishop commentaries
+
+- `engine/build.mjs` writes `/api/concordance/teachers.json`: for each teacher, the chapters (by
+  book slug) that their precepts and verse breakdowns reach. The reader's per-Bishop commentaries
+  list their coverage from it instead of reading every chapter. Bishop Nathanyel 922 chapters,
+  Bishop Kani 360, Bishop Yawasap 219.
