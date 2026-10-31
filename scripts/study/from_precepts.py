@@ -12,11 +12,11 @@ usage: from_precepts.py TITLES.tsv [--overwrite]  (lines "book slug<TAB>chapter<
 A note that already exists is left as it is unless --overwrite is given.
 A chapter with no passage in the precept data is skipped and listed.
 """
+import argparse
 import glob
 import json
 import os
 import re
-import sys
 import unicodedata
 from datetime import datetime, timezone
 
@@ -134,7 +134,9 @@ def load_passages():
 def units(book, ch, passages):
     """Verse blocks: each verse (or run) a class broke down, with its bullets and precepts."""
     blocks = {}
-    for _, _, passage in sorted(passages, key=lambda item: (item[0], item[1])):
+    # Bullets are (rank, text) and precepts {ref: (rank, why)}, so a Bishop's or Deacon's
+    # breakdown stays first even after blocks merge.
+    for teacher_rank, _, passage in sorted(passages, key=lambda item: (item[0], item[1])):
         _, _, opened = parse(passage["opened"])
         for sense in passage.get("sense", []):
             at = parse(f"{book} {ch}:{sense.get('at') or spans(opened)}")
@@ -142,8 +144,8 @@ def units(book, ch, passages):
                 continue
             block = blocks.setdefault(tuple(at[2]), {"bullets": [], "precepts": {}})
             for p in paragraphs(sense.get("text")):
-                if p not in block["bullets"]:
-                    block["bullets"].append(p)
+                if p not in [text for _, text in block["bullets"]]:
+                    block["bullets"].append((teacher_rank, p))
         for precept in passage.get("precepts", []):
             target = parse(precept.get("ref", ""))
             if not target:
@@ -154,7 +156,7 @@ def units(book, ch, passages):
             ref_key = (target[0], target[1], tuple(target[2]))
             why = paragraphs(precept.get("why"))
             if ref_key not in block["precepts"] and why:
-                block["precepts"][ref_key] = why
+                block["precepts"][ref_key] = (teacher_rank, why)
     # Classes break a chapter down in different runs (1-3, 1-6, 3): runs that share a verse
     # become one block, so no verse is quoted twice.
     merged = []
@@ -165,10 +167,15 @@ def units(book, ch, passages):
         for other_verses, other in [m for m in merged if verses & m[0]]:
             merged.remove((other_verses, other))
             verses |= other_verses
-            other["bullets"] += [b for b in into["bullets"] if b not in other["bullets"]]
-            for ref, why in into["precepts"].items():
-                other["precepts"].setdefault(ref, why)
+            seen = [text for _, text in other["bullets"]]
+            other["bullets"] += [b for b in into["bullets"] if b[1] not in seen]
+            for ref, ranked in into["precepts"].items():
+                if ref not in other["precepts"] or ranked[0] < other["precepts"][ref][0]:
+                    other["precepts"][ref] = ranked
             into = other
+        # Stable sort: higher-ranked teachers first, each teacher's points in class order.
+        into["bullets"].sort(key=lambda b: b[0])
+        into["precepts"] = dict(sorted(into["precepts"].items(), key=lambda item: item[1][0]))
         merged.append((verses, into))
     return sorted(((tuple(sorted(v)), b) for v, b in merged), key=lambda item: item[0][0])
 
@@ -214,7 +221,7 @@ def write(slug, ch, title, passages, max_bullets=None, max_precepts=None, overwr
         out += [f"**{link(book, ch, verses)}**", "", quote(book, ch, verses), ""]
         # A study guide, not every word: the first points made on the verses, Bishops' and
         # Deacons' first.
-        for bullet in block["bullets"][:max_bullets]:
+        for _, bullet in block["bullets"][:max_bullets]:
             out += [f"- {bullet}"]
         if block["bullets"]:
             out.append("")
@@ -222,7 +229,7 @@ def write(slug, ch, title, passages, max_bullets=None, max_precepts=None, overwr
             if not block["bullets"]:
                 out += ["- The class read these precepts with it.", ""]
             out.append("  Precepts:")
-            for (pbook, pch, pverses), why in list(block["precepts"].items())[:max_precepts]:
+            for (pbook, pch, pverses), (_, why) in list(block["precepts"].items())[:max_precepts]:
                 out.append(f"  - **{link(pbook, pch, list(pverses))}**")
                 out.append(quote(pbook, pch, list(pverses), indent="    "))
                 # The line the class drew from it: the breakdown's opening paragraph.
@@ -239,10 +246,14 @@ def write(slug, ch, title, passages, max_bullets=None, max_precepts=None, overwr
 
 
 def main():
-    overwrite = "--overwrite" in sys.argv[2:]
+    parser = argparse.ArgumentParser(description="Write study notes from precept-pass breakdowns.")
+    parser.add_argument("titles", help="TSV of slug, chapter, title")
+    parser.add_argument("--overwrite", action="store_true", help="rewrite notes that already exist")
+    args = parser.parse_args()
+    overwrite = args.overwrite
     found = load_passages()
     skipped = []
-    for line in open(sys.argv[1]):
+    for line in open(args.titles):
         if not line.strip() or line.startswith("#"):
             continue
         slug, ch, title = line.rstrip("\n").split("\t")
