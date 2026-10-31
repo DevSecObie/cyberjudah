@@ -2,7 +2,7 @@
 title: "Variance It Will Come"
 slug: "2026/2026-09-23-variance-it-will-come"
 date: "2026-09-23"
-teacher: ""
+teacher: "Captain Nahshon"
 description: "15 Minutes w/ The Captains · 2026-09-23"
 tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "satan", "sexual-purity", "women"]
 ---

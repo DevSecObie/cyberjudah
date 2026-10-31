@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 12:10"
 slug: "2026/2026-01-22-giving-the-sense-from-a-to-z-1-corinthians-12-10"
 date: "2026-01-22"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2026-01-22"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "anger", "the-body"]

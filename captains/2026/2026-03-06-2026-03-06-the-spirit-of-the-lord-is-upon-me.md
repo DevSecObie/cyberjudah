@@ -2,7 +2,7 @@
 title: "The Spirit Of The Lord Is Upon Me"
 slug: "2026/2026-03-06-the-spirit-of-the-lord-is-upon-me"
 date: "2026-03-06"
-teacher: ""
+teacher: "Captain Nahshon"
 description: "15 Minutes w/ The Captains · 2026-03-06"
 tags: ["15 Minutes w/ The Captains", "salvation", "the-law"]
 ---

@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 20:9"
 slug: "2025/2025-06-10-giving-the-sense-from-a-to-z-luke-20-9"
 date: "2025-06-10"
-teacher: ""
+teacher: "Captain Gedaliah"
 description: "Giving The Sense From A to Z · 2025-06-10"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "leadership"]

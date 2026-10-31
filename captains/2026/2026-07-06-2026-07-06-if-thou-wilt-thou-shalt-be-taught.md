@@ -2,7 +2,7 @@
 title: "If Thou wilt Thou Shalt Be Taught"
 slug: "2026/2026-07-06-if-thou-wilt-thou-shalt-be-taught"
 date: "2026-07-06"
-teacher: ""
+teacher: "Captain Nahshon"
 description: "15 Minutes w/ The Captains · 2026-07-06"
 tags: ["15 Minutes w/ The Captains", "leadership", "the-body", "wisdom"]
 ---

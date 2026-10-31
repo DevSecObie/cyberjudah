@@ -2,7 +2,7 @@
 title: "Contradict This: Circumcision: Confusion or Contradiction?"
 slug: "2020/2020-07-22-contradict-this-circumcision-confusion-or-contradiction"
 date: "2020-07-22"
-teacher: ""
+teacher: "Deacon Isaac"
 description: "Contradict This · 2020-07-22"
 collection: "Contradict This"
 tags: ["15 Minutes w/ The Captains", "captivity", "christ", "purpose", "the-law", "wisdom"]

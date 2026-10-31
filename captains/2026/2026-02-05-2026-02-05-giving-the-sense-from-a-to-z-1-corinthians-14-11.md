@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 14:11"
 slug: "2026/2026-02-05-giving-the-sense-from-a-to-z-1-corinthians-14-11"
 date: "2026-02-05"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2026-02-05"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "false-religion", "prayer", "wisdom"]

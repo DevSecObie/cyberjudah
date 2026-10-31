@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Ezekiel 1"
 slug: "2026/2026-05-27-giving-the-sense-from-a-to-z-ezekiel-1"
 date: "2026-05-27"
-teacher: ""
+teacher: "Captain Uri"
 description: "Giving The Sense From A to Z · 2026-05-27"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "captivity"]

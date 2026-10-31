@@ -2,7 +2,7 @@
 title: "Life Eternal Or Everlasting Punishment"
 slug: "2026/2026-06-22-life-eternal-or-everlasting-punishment"
 date: "2026-06-22"
-teacher: ""
+teacher: "Captain Banqanayah"
 description: "15 Minutes w/ The Captains · 2026-06-22"
 tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation"]
 ---

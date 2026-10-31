@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Colossians 3 Continued"
 slug: "2025/2025-08-14-giving-the-sense-from-a-to-z-colossians-3-continued"
 date: "2025-08-14"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2025-08-14"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "love", "marriage-family", "the-word", "women"]
