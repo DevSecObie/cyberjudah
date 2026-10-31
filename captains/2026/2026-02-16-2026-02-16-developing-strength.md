@@ -2,7 +2,7 @@
 title: "Developing Strength"
 slug: "2026/2026-02-16-developing-strength"
 date: "2026-02-16"
-teacher: ""
+teacher: "Captain Jeroham"
 description: "15 Minutes w/ The Captains · 2026-02-16"
 tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "prayer"]
 ---

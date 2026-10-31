@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Colossians 4:7"
 slug: "2025/2025-08-20-giving-the-sense-from-a-to-z-colossians-4-7"
 date: "2025-08-20"
-teacher: ""
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-08-20"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "leadership", "the-word"]

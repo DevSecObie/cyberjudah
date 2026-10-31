@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 13:11"
 slug: "2025/2025-05-01-giving-the-sense-from-a-to-z-luke-13-11"
 date: "2025-05-01"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2025-05-01"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "health", "sabbath", "salvation", "the-word"]

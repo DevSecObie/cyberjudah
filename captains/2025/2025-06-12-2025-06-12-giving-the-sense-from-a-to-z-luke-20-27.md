@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 20:27"
 slug: "2025/2025-06-12-giving-the-sense-from-a-to-z-luke-20-27"
 date: "2025-06-12"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2025-06-12"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation"]

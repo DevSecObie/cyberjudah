@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 8:15"
 slug: "2026/2026-04-08-giving-the-sense-from-a-to-z-2-corinthians-8-15"
 date: "2026-04-08"
-teacher: ""
+teacher: "Captain Uri"
 description: "Giving The Sense From A to Z · 2026-04-08"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]

@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 15:35"
 slug: "2026/2026-02-19-giving-the-sense-from-a-to-z-1-corinthians-15-35"
 date: "2026-02-19"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2026-02-19"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "salvation", "wisdom"]

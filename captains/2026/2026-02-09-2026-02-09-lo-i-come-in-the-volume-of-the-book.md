@@ -2,7 +2,7 @@
 title: "Lo, I Come In The Volume Of The Book"
 slug: "2026/2026-02-09-lo-i-come-in-the-volume-of-the-book"
 date: "2026-02-09"
-teacher: ""
+teacher: "Captain Laqach"
 description: "15 Minutes w/ The Captains · 2026-02-09"
 tags: ["15 Minutes w/ The Captains", "christ", "leadership", "prophecy"]
 ---

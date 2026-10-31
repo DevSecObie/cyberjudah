@@ -2,7 +2,7 @@
 title: "Contradict This: Did Abraham Have Incest With His Sister?"
 slug: "2020/2020-07-08-contradict-this-did-abraham-have-incest-with-his-sister"
 date: "2020-07-08"
-teacher: ""
+teacher: "Deacon Isaac"
 description: "Contradict This · 2020-07-08"
 collection: "Contradict This"
 tags: ["15 Minutes w/ The Captains"]

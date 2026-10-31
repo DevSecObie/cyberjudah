@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 11:16"
 slug: "2026/2026-05-13-giving-the-sense-from-a-to-z-2-corinthians-11-16"
 date: "2026-05-13"
-teacher: ""
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2026-05-13"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "pride", "purpose"]

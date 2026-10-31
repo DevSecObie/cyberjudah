@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 11:19"
 slug: "2025/2025-12-11-giving-the-sense-from-a-to-z-1-corinthians-11-19"
 date: "2025-12-11"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2025-12-11"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "leadership", "love", "the-body", "unity"]

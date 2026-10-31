@@ -2,7 +2,7 @@
 title: "The Rise Of Heretical Movements"
 slug: "2026/2026-07-17-the-rise-of-heretical-movements"
 date: "2026-07-17"
-teacher: ""
+teacher: "Captain Jeroham"
 description: "15 Minutes w/ The Captains · 2026-07-17"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "false-religion", "heaven-hell", "salvation"]
 ---

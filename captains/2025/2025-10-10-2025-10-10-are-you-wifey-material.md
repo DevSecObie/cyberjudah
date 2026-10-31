@@ -2,7 +2,7 @@
 title: "Are You Wifey Material??"
 slug: "2025/2025-10-10-are-you-wifey-material"
 date: "2025-10-10"
-teacher: ""
+teacher: "Captain Yadayah"
 description: "15 Minutes w/ The Captains · 2025-10-10"
 tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "wisdom", "women"]
 ---

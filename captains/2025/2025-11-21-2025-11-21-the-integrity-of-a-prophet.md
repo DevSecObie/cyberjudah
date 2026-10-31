@@ -2,7 +2,7 @@
 title: "The Integrity Of A Prophet"
 slug: "2025/2025-11-21-the-integrity-of-a-prophet"
 date: "2025-11-21"
-teacher: ""
+teacher: "Captain Yadon"
 description: "15 Minutes w/ The Captains · 2025-11-21"
 tags: ["15 Minutes w/ The Captains", "endurance", "justice", "prophecy", "wisdom"]
 ---
