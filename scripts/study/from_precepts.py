@@ -27,6 +27,7 @@ NAME = {e["slug"]: e["book"] for e in INDEX}
 # Names the precept data uses for books data/bible names otherwise.
 ALIAS = {
     "Ecclesiasticus": "Sirach",
+    "Rest of Esther": "Esther (Greek)",
     "Song of the Three Holy Children": "Song of the Three Children",
     "History of Susanna": "Susanna",
     "Prayer of Manasses": "Prayer of Manasseh",
