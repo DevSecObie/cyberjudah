@@ -117,3 +117,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 - Obie 2026-10-31: "captain zakai is now just Zakai, he is no longer a captain". data/names.tsv now spells him "Zakai", with "Captain Zakai" as a variant, and 48 notes (blog, captains, history) are respelled: 102 spots, teacher fields and taught lines included.
 - scripts/notes/lint.py accepts a teacher with no rank title when data/names.tsv spells the leader that way; any other untitled teacher is still an error.
 - Obie 2026-10-31: "There is a Captain Zakar, the one no longer a captain is Zakai". "Captain Zakar" is no longer a spelling of Zakai in data/names.tsv. Each spot was checked against the captions: where the class says Captain Zakar (the 15 Minutes w/ The Captains host from IUIC Oklahoma City, the 2026-01-28 1 Corinthians 14 class and its follow-up, and others), the note says Captain Zakar again: 37 spots in 20 notes, 10 teacher fields included. Spots the captions give as Zakai, Zacchaeus or Zachariah of IUIC Sacramento stay Zakai.
+
+## Batch 21
+
+- Luke 7:21 and 7:19 (2025-02-26, Captain Mattathias), 7:1 (2025-02-25, Captain Josiah), 6:36 (2025-02-24, Captain Emmanuel), 6:1 (2025-02-20, Captain Matt) and 5:16 (2025-02-19, Zakai). The 2025-02-26 class went out as two uploads, so each part has its own note; part 1 stops mid-class and has no In Closing.
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
