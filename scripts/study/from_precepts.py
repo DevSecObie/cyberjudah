@@ -8,7 +8,8 @@ study-note format (docs/study/<book>/<chapter>.md): the verses quoted from data/
 breakdown as bullets, the precepts nested under the verses they were read with. Nothing is
 written that is not in the precept data or the KJV.
 
-usage: from_precepts.py TITLES.tsv  (lines "book slug<TAB>chapter<TAB>title")
+usage: from_precepts.py TITLES.tsv [--overwrite]  (lines "book slug<TAB>chapter<TAB>title")
+A note that already exists is left as it is unless --overwrite is given.
 A chapter with no passage in the precept data is skipped and listed.
 """
 import glob
@@ -158,18 +159,21 @@ def units(book, ch, passages):
     # become one block, so no verse is quoted twice.
     merged = []
     for key, block in sorted(blocks.items(), key=lambda item: (item[0][0], -len(item[0]))):
-        if merged and set(key) & set(merged[-1][0]):
-            verses, into = merged[-1]
-            merged[-1] = (sorted(set(verses) | set(key)), into)
-            into["bullets"] += [b for b in block["bullets"] if b not in into["bullets"]]
-            for ref, why in block["precepts"].items():
-                into["precepts"].setdefault(ref, why)
-        else:
-            merged.append((list(key), {"bullets": list(block["bullets"]), "precepts": dict(block["precepts"])}))
-    return [(tuple(verses), block) for verses, block in merged]
+        verses = set(key)
+        into = {"bullets": list(block["bullets"]), "precepts": dict(block["precepts"])}
+        # Fold in every block already made that shares a verse with this one (1,4 / 2 / 4-5).
+        for other_verses, other in [m for m in merged if verses & m[0]]:
+            merged.remove((other_verses, other))
+            verses |= other_verses
+            other["bullets"] += [b for b in into["bullets"] if b not in other["bullets"]]
+            for ref, why in into["precepts"].items():
+                other["precepts"].setdefault(ref, why)
+            into = other
+        merged.append((verses, into))
+    return sorted(((tuple(sorted(v)), b) for v, b in merged), key=lambda item: item[0][0])
 
 
-def write(slug, ch, title, passages, max_bullets=None, max_precepts=None):
+def write(slug, ch, title, passages, max_bullets=None, max_precepts=None, overwrite=False):
     max_bullets = max_bullets or MAX_BULLETS
     max_precepts = max_precepts or MAX_PRECEPTS
     book = NAME[slug]
@@ -181,6 +185,9 @@ def write(slug, ch, title, passages, max_bullets=None, max_precepts=None):
     path = f"{ROOT}/docs/study/{slug}/{ch}.md"
     added = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
     if os.path.exists(path):
+        # A note already written (or edited since) is never overwritten unless asked.
+        if not overwrite:
+            return path
         old = re.search(r'^added: "(.*)"$', open(path).read(), re.M)
         added = old.group(1) if old else added
     out = [
@@ -226,19 +233,20 @@ def write(slug, ch, title, passages, max_bullets=None, max_precepts=None):
     # A chapter the classes opened verse by verse runs long: keep it to a study guide's length
     # by taking fewer points and precepts on each verse.
     if len(text.split()) > MAX_WORDS and (max_bullets > 2 or max_precepts > 1):
-        return write(slug, ch, title, passages, max(2, max_bullets - 1), max(1, max_precepts - 1))
+        return write(slug, ch, title, passages, max(2, max_bullets - 1), max(1, max_precepts - 1), overwrite)
     open(path, "w").write(text)
     return path
 
 
 def main():
+    overwrite = "--overwrite" in sys.argv[2:]
     found = load_passages()
     skipped = []
     for line in open(sys.argv[1]):
         if not line.strip() or line.startswith("#"):
             continue
         slug, ch, title = line.rstrip("\n").split("\t")
-        if not write(slug, int(ch), title, found.get((NAME[slug], int(ch)), [])):
+        if not write(slug, int(ch), title, found.get((NAME[slug], int(ch)), []), overwrite=overwrite):
             skipped.append(f"{slug} {ch}")
     print("no precept data:", ", ".join(skipped) or "none")
 
