@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "women"]
 
 ## Introduction
 
-*[[1:45](https://www.youtube.com/watch?v=jNpIBCLRim8&t=105s)]* All praises to the Most High. Shalom family. Most High Christ bless. Captain Gedaliah here. Now, we are going to go over First Corinthians chapter 11 today. So, I got Officer John here with me. Officer John, you there, bro? Most High Christ bless you. Appreciate you being on to read for today. Today y'all, we going to go 1 Corinthians chapter 11. So Captain Zakai finished 1 Corinthians 10 a few days ago. We going to go ahead and jump into chapter 11. So, without further ado, let's read Nehemiah 8:8. Let's start off there, bro.
+*[[1:45](https://www.youtube.com/watch?v=jNpIBCLRim8&t=105s)]* All praises to the Most High. Shalom family. Most High Christ bless. Captain Gedaliah here. Now, we are going to go over First Corinthians chapter 11 today. So, I got Officer John here with me. Officer John, you there, bro? Most High Christ bless you. Appreciate you being on to read for today. Today y'all, we going to go 1 Corinthians chapter 11. So Zakai finished 1 Corinthians 10 a few days ago. We going to go ahead and jump into chapter 11. So, without further ado, let's read Nehemiah 8:8. Let's start off there, bro.
 
 ## Scriptures Opened
 

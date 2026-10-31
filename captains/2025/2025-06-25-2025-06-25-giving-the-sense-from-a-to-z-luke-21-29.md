@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 21:29"
 slug: "2025/2025-06-25-giving-the-sense-from-a-to-z-luke-21-29"
 date: "2025-06-25"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-06-25"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "money", "substance-abuse"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-06-25 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-06-25 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Luke 21](/bible/luke/21) · [Rev 10](/bible/revelation/10) · [Rev 21](/bible/revelation/21) · [Eph 5](/bible/ephesians/5) · [Gen 2](/bible/genesis/2) · [2 Cor 11](/bible/2-corinthians/11) · [Rom 9](/bible/romans/9) · [2 Cor 5](/bible/2-corinthians/5) · [1 Cor 15](/bible/1-corinthians/15) · [Matt 6](/bible/matthew/6) · [Isa 66](/bible/isaiah/66) · [Sir 31](/bible/sirach/31) · [Deut 14](/bible/deuteronomy/14) · [Mark 4](/bible/mark/4) · [1 Tim 6](/bible/1-timothy/6) · [Sir 23](/bible/sirach/23) · <i>and 9 more below</i></span>
 
@@ -704,7 +704,7 @@ tags: ["15 Minutes w/ The Captains", "money", "substance-abuse"]
 
 ## In Closing
 
-*[[1:18:04](https://www.youtube.com/watch?v=zZul-3GonoU&t=4684s)]* So, family, Lord's will, that was it. Lord willing, y'all got something out of the class. All right? That was given the sense A to Z. I'm Captain Zakai, IUBIC Sacramento. And with that, I'm going to say shalom. Hey, most high Christ bless y'all and be safe. Lord's will, we see another Sabbath, all right? Shalom.
+*[[1:18:04](https://www.youtube.com/watch?v=zZul-3GonoU&t=4684s)]* So, family, Lord's will, that was it. Lord willing, y'all got something out of the class. All right? That was given the sense A to Z. I'm Zakai, IUBIC Sacramento. And with that, I'm going to say shalom. Hey, most high Christ bless y'all and be safe. Lord's will, we see another Sabbath, all right? Shalom.
 
 ---
 

@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 ## Introduction
 
-*[[17:00](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1020s)]* Hey, shalom fam. Most High Christ bless. All praise to the Most High, man. We in the building. Understand, I want to welcome you brothers and sisters back to another episode. I'm your host Captain Matt, and we'll be touching on 2 Corinthians chapter 11, starting at verse 28, where Captain Zakai left off at. Make sure y'all peep that video. He did a excellent job going through the scriptures, giving a history on Paul's account as he's writing his letter to the brothers in Corinth. So now, before we get into all that, let's open up with the scripture behind the show.
+*[[17:00](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1020s)]* Hey, shalom fam. Most High Christ bless. All praise to the Most High, man. We in the building. Understand, I want to welcome you brothers and sisters back to another episode. I'm your host Captain Matt, and we'll be touching on 2 Corinthians chapter 11, starting at verse 28, where Zakai left off at. Make sure y'all peep that video. He did a excellent job going through the scriptures, giving a history on Paul's account as he's writing his letter to the brothers in Corinth. So now, before we get into all that, let's open up with the scripture behind the show.
 
 ## Scriptures Opened
 
@@ -48,7 +48,7 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 - Beside those things that are without: Meaning the things outside of what Paul was dealing with.
 
-- That which cometh upon me daily: So he said, besides all the other things that I'm dealing with that was explained in the previous verses. That's why I said go back and watch Captain Zakai giving the sense that he did yesterday.
+- That which cometh upon me daily: So he said, besides all the other things that I'm dealing with that was explained in the previous verses. That's why I said go back and watch Zakai giving the sense that he did yesterday.
 
 - The care of all the churches: The care of what? Paul had the care of all the churches on him in addition to all the hell he was catching for the gospel's sake.
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 13:1"
 slug: "2025/2025-04-30-giving-the-sense-from-a-to-z-luke-13-1"
 date: "2025-04-30"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-04-30"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "repentance"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-04-30 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-04-30 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Luke 13](/bible/luke/13) · [Josh 21](/bible/joshua/21) · [Num 35](/bible/numbers/35) · [John 1](/bible/john/1) · [Gen 49](/bible/genesis/49) · [Heb 7](/bible/hebrews/7) · [Matt 21](/bible/matthew/21) · [Isa 63](/bible/isaiah/63) · [Matt 11](/bible/matthew/11) · [Isa 9](/bible/isaiah/9) · [1 Kgs 9](/bible/1-kings/9) · [Matt 27](/bible/matthew/27) · [1 Macc 1](/bible/1-maccabees/1) · [1 Macc 2](/bible/1-maccabees/2) · [Dan 11](/bible/daniel/11) · [2 Macc 6](/bible/2-maccabees/6) · <i>and 6 more below</i></span>
 
@@ -677,7 +677,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "repentance"]
 
 ## In Closing
 
-*[[1:16:52](https://www.youtube.com/watch?v=IWVwkDh6Ris&t=4612s)]* All praises. All praises. Hey y'all, that's all I got. That's all I got on that, y'all. That's the end of the class. You know what I'm saying? Lord willing, y'all got something out of that. All praises to the Lord. My name is Captain Zakai, IUIC Sacramento. Tomorrow, it'll be the next captain, he's going to bring out from Luke 13. We left off at nine, right? Luke 13:10 just says, "And he was teaching in one of the synagogues on the Sabbath." So, we'll end it at 10. All right. All praises to the Most High for this truth. All right. So all praises, y'all. Shalom. Most high Christ bless y'all.
+*[[1:16:52](https://www.youtube.com/watch?v=IWVwkDh6Ris&t=4612s)]* All praises. All praises. Hey y'all, that's all I got. That's all I got on that, y'all. That's the end of the class. You know what I'm saying? Lord willing, y'all got something out of that. All praises to the Lord. My name is Zakai, IUIC Sacramento. Tomorrow, it'll be the next captain, he's going to bring out from Luke 13. We left off at nine, right? Luke 13:10 just says, "And he was teaching in one of the synagogues on the Sabbath." So, we'll end it at 10. All right. All praises to the Most High for this truth. All right. So all praises, y'all. Shalom. Most high Christ bless y'all.
 
 ---
 

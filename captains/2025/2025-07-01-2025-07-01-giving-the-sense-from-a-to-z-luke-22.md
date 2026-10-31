@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "betrayal", "idolatry", "money", "passover-
 
 ## Introduction
 
-*[[3:00](https://www.youtube.com/watch?v=VBLrob9DcMs&t=180s)]* All praise of the most high. We're going to continue the Luke series obviously. To start out, shalom, Christ blessed. Welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah. And like I said, we're going to continue with the Luke series. We're beginning in Luke chapter 22. Captain Zakai, I believe, finished out Luke 21 a couple of days ago, I want to say. So let's start with Nehemiah 8:8.
+*[[3:00](https://www.youtube.com/watch?v=VBLrob9DcMs&t=180s)]* All praise of the most high. We're going to continue the Luke series obviously. To start out, shalom, Christ blessed. Welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah. And like I said, we're going to continue with the Luke series. We're beginning in Luke chapter 22. Zakai, I believe, finished out Luke 21 a couple of days ago, I want to say. So let's start with Nehemiah 8:8.
 
 ## Scriptures Opened
 

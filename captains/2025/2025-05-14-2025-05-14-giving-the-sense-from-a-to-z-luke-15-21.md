@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 15:21"
 slug: "2025/2025-05-14-giving-the-sense-from-a-to-z-luke-15-21"
 date: "2025-05-14"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-05-14"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "nations"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-05-14 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-05-14 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Luke 15](/bible/luke/15) · [Isa 61](/bible/isaiah/61) · [Eph 6](/bible/ephesians/6) · [Ezek 16](/bible/ezekiel/16) · [Rev 7](/bible/revelation/7) · [2 Esdras 2](/bible/2-esdras/2) · [Prov 21](/bible/proverbs/21) · [John 6](/bible/john/6) · [Acts 10](/bible/acts/10) · [Hos 8](/bible/hosea/8) · [Deut 32](/bible/deuteronomy/32) · [Ezek 18](/bible/ezekiel/18) · [Ezek 37](/bible/ezekiel/37) · [John 11](/bible/john/11) · [Gal 2](/bible/galatians/2) · [Rom 11](/bible/romans/11) · <i>and 5 more below</i></span>
 
@@ -728,7 +728,7 @@ tags: ["15 Minutes w/ The Captains", "nations"]
 
 ## In Closing
 
-*[[1:13:53](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=4433s)]* So all praises to the Father and Jesus the Christ. Lord's will, y'all got something out of that. That's it. That's all we got today. Hey, I'm Captain Zakai, IUIC Sacramento. And with that, I'mma say shalom. Most High Christ bless y'all. The rest of your week is blessed. You know what I'm saying? And Lord spare our lives, we see another Sabbath. All right. Christ bless y'all. Shalom.
+*[[1:13:53](https://www.youtube.com/watch?v=UAvAIkBWCO4&t=4433s)]* So all praises to the Father and Jesus the Christ. Lord's will, y'all got something out of that. That's it. That's all we got today. Hey, I'm Zakai, IUIC Sacramento. And with that, I'mma say shalom. Most High Christ bless y'all. The rest of your week is blessed. You know what I'm saying? And Lord spare our lives, we see another Sabbath. All right. Christ bless y'all. Shalom.
 
 ---
 

@@ -111,3 +111,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Luke 9:26 (2025-03-18, Captain Gedaliah), 9:21 (2025-03-11, Captain Josiah, IUIC Raleigh), 9:10 (2025-03-10, Captain Emmanuel), 8:34 (2025-03-06, Captain Matt, heard as "Captain Matthew"), 8:17 (2025-03-05, Captain Zakai: the next class says Captain Zakai taught yesterday and finished at verse 33, where this class ends) and 7:35 (2025-03-04, Captain Gedaliah). The 2025-03-07 "Luke 8:33" upload is a 3-minute music clip with no class, so it has no note.
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Zakai is no longer a captain
+
+- Obie 2026-10-31: "captain zakai is now just Zakai, he is no longer a captain". data/names.tsv now spells him "Zakai", with "Captain Zakai" as a variant, and 48 notes (blog, captains, history) are respelled: 102 spots, teacher fields and taught lines included.
+- scripts/notes/lint.py accepts a teacher with no rank title when data/names.tsv spells the leader that way; any other untitled teacher is still an error.

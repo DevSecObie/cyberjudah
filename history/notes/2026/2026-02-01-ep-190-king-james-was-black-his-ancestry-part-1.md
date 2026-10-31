@@ -784,11 +784,11 @@ Reading from *When Scotland Was Jewish*, page 8, continuing on Charles II  *[[56
 
 - **Deacon Eythan:** Yeah. I believe, if I have a book, I think she was dark. I know King James' wife was a white woman. Yeah. But King James' wife was a white woman. But his son's wife, I'm not sure.
 
-- *[[57:59](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=3479s)]* Here, that: *Dictionary of Foundational Black British Surnames: The People, Places, and Their Primacy*, Part Two. Brittonic, Briton, Angles, like Anglo or England. Captain Zakai had the pleasure of actually speaking to the sister that put this book together. She is very well studied, and she faced a lot of hell, a lot of flak, for this book. She created a series of books. This is part two. I have all three. Part three, she just recently released part three. So this makes us more dangerous.
+- *[[57:59](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=3479s)]* Here, that: *Dictionary of Foundational Black British Surnames: The People, Places, and Their Primacy*, Part Two. Brittonic, Briton, Angles, like Anglo or England. Zakai had the pleasure of actually speaking to the sister that put this book together. She is very well studied, and she faced a lot of hell, a lot of flak, for this book. She created a series of books. This is part two. I have all three. Part three, she just recently released part three. So this makes us more dangerous.
 
-- *[[58:45](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=3525s)]* Because we were trying to find evidence of King James' father's line. We found, like, where it says the Bretons are dark. We showed that earlier, right? But we needed something more concrete. And Captain Zakai spoke to this sister, and she was right on time.
+- *[[58:45](https://www.youtube.com/watch?v=24r3AaTWG2Y&t=3525s)]* Because we were trying to find evidence of King James' father's line. We found, like, where it says the Bretons are dark. We showed that earlier, right? But we needed something more concrete. And Zakai spoke to this sister, and she was right on time.
 
-- **Officer:** Yeah. Shout out to Captain Zakai and the sister. Sister Marie, man.
+- **Officer:** Yeah. Shout out to Zakai and the sister. Sister Marie, man.
 
 - **Deacon Eythan:** Sister Marie, man. So we're going to read the page. Remember I read earlier about Arundel, the Earls of Arundel, how the Stewarts were knights. And the word Stewart goes back to the word swarthy. It's the same thing. All right. But nonetheless, they were of Arundel. So we'll zoom into that. It says Charles. Okay. Go up. Great seal. Read that.
 
@@ -1362,9 +1362,9 @@ Reading from *Dictionary of Foundational Black British Surnames*, Part One, by S
 
 - So he became the steward. They were the stewards. They became the stewards because they were the stewards of the king. They were a loyal family of the Stewart line. Yeah, they were a royal family of knights that served the Stewart line. The Stewart line is the mother's line of King James. The Fitz line is King James' father's line, right? These are Bretons. I showed you that these guys came along with William the Conqueror, and he was black as hell. He's on damn stained glass in churches with a big ass nose and lips, today. That's him there. That's who FitzAlan came with. That's William the Conqueror there, who conquered another black. Go to the other side, who conquered this guy with the crown. Go to the next image. He conquered this black king over here. Bam. Go to the next one. That's them there. FitzAlan's in there somewhere, as a knight. That's the Conqueror again.
 
-- **Officer:** That's bad. Look like Captain Zakai.
+- **Officer:** That's bad. Look like Zakai.
 
-- **Deacon Eythan:** Yeah, it does. That right there is Captain Zakai. It does. All praise. Go over. So go back. Go back down to the bottom. Zoom in. Read that again. We didn't finish it. Read on.
+- **Deacon Eythan:** Yeah, it does. That right there is Zakai. It does. All praise. Go over. So go back. Go back down to the bottom. Zoom in. Read that again. We didn't finish it. Read on.
 
 > The Stewarts, afterwards kings of Scotland, as has been shown by Chalmers, descended from Walter FitzAlan, created Steward of Scotland by David I. He was the son of William FitzAlan, founder of Haughmond, son of Alan fitz Flaad,
 

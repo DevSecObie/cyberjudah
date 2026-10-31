@@ -69,7 +69,7 @@ Reading from social media usage figures, on screen  *[[4:13](https://www.youtube
 
 - This is the order in how you should start to read the Bible.
 
-- But he that giveth his mind to the law of the most High: first, brothers and sisters, get off them social media and addict yourself to the law. Captain Zakai say it all the time: you cannot understand the Bible if you don't understand where they getting it from. Why Christ said this, where did he get it from? The law. Why Paul says there's neither Jew nor Greek, or the law is done away with: he's clearly not saying you can commit adultery or do whatever you want with animals. But you don't understand what he's saying because you haven't gone first to the law.
+- But he that giveth his mind to the law of the most High: first, brothers and sisters, get off them social media and addict yourself to the law. Zakai say it all the time: you cannot understand the Bible if you don't understand where they getting it from. Why Christ said this, where did he get it from? The law. Why Paul says there's neither Jew nor Greek, or the law is done away with: he's clearly not saying you can commit adultery or do whatever you want with animals. But you don't understand what he's saying because you haven't gone first to the law.
 
 - And is occupied in the meditation thereof: then you must be occupied in that law. Why is the calf not supposed to be seethed in his mother's milk?
 

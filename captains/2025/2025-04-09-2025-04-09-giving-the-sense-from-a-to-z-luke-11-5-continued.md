@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "prayer"]
 
 ## Introduction
 
-*[[2:56](https://www.youtube.com/watch?v=P-O7dOeQECE&t=176s)]* Hey, shalom Israel, Messiah Christ bless. Messiah Christ bless. Hey, it's Captain Mattathias here with giving a sense from A to Z. All right, we're going over Luke the 11th chapter today. Captain Zakai last week ended in verse four. All right, so we're going to pick up at verse five, but just a quick recap. All right, let's start at verse one, then we'll get into it.
+*[[2:56](https://www.youtube.com/watch?v=P-O7dOeQECE&t=176s)]* Hey, shalom Israel, Messiah Christ bless. Messiah Christ bless. Hey, it's Captain Mattathias here with giving a sense from A to Z. All right, we're going over Luke the 11th chapter today. Zakai last week ended in verse four. All right, so we're going to pick up at verse five, but just a quick recap. All right, let's start at verse one, then we'll get into it.
 
 ## Scriptures Opened
 

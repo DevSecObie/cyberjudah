@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 15: The Prodigal Son"
 slug: "2025/2025-05-13-giving-the-sense-from-a-to-z-luke-15-the-prodigal-son"
 date: "2025-05-13"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-05-13"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "heaven-hell", "repentance", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-05-13 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-05-13 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Luke 15](/bible/luke/15) · [Isa 40](/bible/isaiah/40) · [Jer 31](/bible/jeremiah/31) · [2 Kgs 17](/bible/2-kings/17) · [2 Chr 11](/bible/2-chronicles/11) · [Tobit 1](/bible/tobit/1) · [1 Kgs 8](/bible/1-kings/8) · [James 4](/bible/james/4) · [Isa 1](/bible/isaiah/1) · [John 14](/bible/john/14) · [2 Esdras 16](/bible/2-esdras/16) · [Isa 45](/bible/isaiah/45)</span>
 
@@ -503,7 +503,7 @@ tags: ["15 Minutes w/ The Captains", "angels", "heaven-hell", "repentance", "the
 
 ## In Closing
 
-*[[1:08:06](https://www.youtube.com/watch?v=K4e2b7GQJ7c&t=4086s)]* All right, we going to end it right there for today's episode of show or teaching class, whatever we call this, on Giving the Sense from A to Z. I'm Captain Zakai. So, Israel, it's been good teaching y'all. All praise to the Most High. Lord willing, I'll see y'all again. Shalom.
+*[[1:08:06](https://www.youtube.com/watch?v=K4e2b7GQJ7c&t=4086s)]* All right, we going to end it right there for today's episode of show or teaching class, whatever we call this, on Giving the Sense from A to Z. I'm Zakai. So, Israel, it's been good teaching y'all. All praise to the Most High. Lord willing, I'll see y'all again. Shalom.
 
 ---
 

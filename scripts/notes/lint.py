@@ -71,6 +71,9 @@ def names():
 
 
 NAMES = names()
+# A leader data/names.tsv spells with no title (Zakai, Obie 2026-10-31: no longer a captain) is
+# written that way on purpose; browse sorts an untitled teacher after the ranked ones.
+UNTITLED = {n for n, _ in NAMES if not n.startswith(TITLES)}
 
 
 def lint(path):
@@ -145,7 +148,7 @@ def lint(path):
             # An empty `teacher:` is the placeholder waiting for a hand edit off the recording.
             # It is deliberate, so it warns like a missing name rather than failing the deploy.
             W.append(f"{rel}: `teacher` is an empty placeholder -- fill it in from the recording")
-        elif not who.startswith(TITLES):
+        elif not who.startswith(TITLES) and who not in UNTITLED:
             E.append(f"{rel}: teacher {who!r} has no rank title; the browse chips group by it")
     else:
         W.append(f"{rel}: no teacher recorded")

@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "sabbath", "salvation",
 
 ## Introduction
 
-*[[6:28](https://www.youtube.com/watch?v=9h3eh336JwE&t=388s)]* Shalom. Shalom. Shalom. Israel. Most high in Christ bless. Most high in Christ bless. Hey, I'm Captain Ab. This is giving of the sense. All praises to the most high. All praises. All right, we going to jump into Luke chapter 13 and I believe Captain Zakai, he left off at verse 10. All praise to the most high. So, we going to continue on. Lord's will is edifying and we get something out of it. All right. So, we going to start at verse 11.
+*[[6:28](https://www.youtube.com/watch?v=9h3eh336JwE&t=388s)]* Shalom. Shalom. Shalom. Israel. Most high in Christ bless. Most high in Christ bless. Hey, I'm Captain Ab. This is giving of the sense. All praises to the most high. All praises. All right, we going to jump into Luke chapter 13 and I believe Zakai, he left off at verse 10. All praise to the most high. So, we going to continue on. Lord's will is edifying and we get something out of it. All right. So, we going to start at verse 11.
 
 ## Scriptures Opened
 

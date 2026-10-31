@@ -2,13 +2,13 @@
 title: "Nehemiah Squad Radio | Narcissism Amongst Blacks and Hispanics"
 slug: "2024/2024-06-24-nehemiah-squad-radio-narcissism-amongst-blacks-and-hispanics"
 date: "2024-06-24"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "The Nehemiah Squad Radio · 2024-06-24"
 collection: "The Nehemiah Squad Radio"
 tags: ["IUIC in the ClassRoom", "angels", "health", "mental-health", "prayer"]
 ---
 
-<p class="taught">The Nehemiah Squad Radio · 2024-06-24 · Captain Zakai</p>
+<p class="taught">The Nehemiah Squad Radio · 2024-06-24 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Sir 25](/bible/sirach/25) · [Sir 38](/bible/sirach/38) · [2 Esdras 7](/bible/2-esdras/7) · [Prov 21](/bible/proverbs/21) · [Ps 4](/bible/psalms/4) · [2 Esdras 14](/bible/2-esdras/14) · [Rom 1](/bible/romans/1) · [1 John 3](/bible/1-john/3) · [2 Tim 3](/bible/2-timothy/3) · [1 Cor 6](/bible/1-corinthians/6) · [Mark 7](/bible/mark/7) · [Ps 19](/bible/psalms/19) · [Deut 28](/bible/deuteronomy/28) · [Sir 30](/bible/sirach/30) · [1 Cor 10](/bible/1-corinthians/10) · [Jer 5](/bible/jeremiah/5) · <i>and 5 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "angels", "health", "mental-health", "prayer"]
 
 ## Introduction
 
-*[[3:59](https://www.youtube.com/watch?v=UH6mWzOzJ2s&t=239s)]* The Nehemiah Squad, with Captain Zakai, Officer Shim and Officer Judah, on narcissism amongst blacks and Hispanics. Their guests are Diana Abrams, a marriage and family therapist in San Francisco; Leon Walker, an author, mentor and speaker who is clinically diagnosed with narcissistic personality disorder; and Joy, a narcissistic abuse recovery coach who survived a narcissistic ex-husband. After the guests leave, the squad shows from the scriptures that what the clinic diagnoses are spirits God named long ago: "God's diagnosis is sin," and the cure is his word.
+*[[3:59](https://www.youtube.com/watch?v=UH6mWzOzJ2s&t=239s)]* The Nehemiah Squad, with Zakai, Officer Shim and Officer Judah, on narcissism amongst blacks and Hispanics. Their guests are Diana Abrams, a marriage and family therapist in San Francisco; Leon Walker, an author, mentor and speaker who is clinically diagnosed with narcissistic personality disorder; and Joy, a narcissistic abuse recovery coach who survived a narcissistic ex-husband. After the guests leave, the squad shows from the scriptures that what the clinic diagnoses are spirits God named long ago: "God's diagnosis is sin," and the cure is his word.
 
 ## Scriptures Opened
 

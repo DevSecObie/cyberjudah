@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 10:1"
 slug: "2025/2025-03-19-giving-the-sense-from-a-to-z-luke-10-1"
 date: "2025-03-19"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-03-19"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-03-19 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-03-19 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Luke 10](/bible/luke/10) · [Luke 9](/bible/luke/9) · [Matt 10](/bible/matthew/10) · [Acts 6](/bible/acts/6) · [Acts 7](/bible/acts/7) · [Acts 8](/bible/acts/8) · [John 6](/bible/john/6) · [Acts 15](/bible/acts/15) · [2 Tim 4](/bible/2-timothy/4) · [Num 16](/bible/numbers/16) · [1 Cor 9](/bible/1-corinthians/9) · [Luke 4](/bible/luke/4) · [John 4](/bible/john/4) · [John 7](/bible/john/7) · [Acts 10](/bible/acts/10) · [Isa 10](/bible/isaiah/10) · <i>and 11 more below</i></span>
 

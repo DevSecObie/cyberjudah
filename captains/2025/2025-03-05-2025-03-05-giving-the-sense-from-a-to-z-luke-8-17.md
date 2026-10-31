@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 8:17"
 slug: "2025/2025-03-05-giving-the-sense-from-a-to-z-luke-8-17"
 date: "2025-03-05"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-03-05"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-03-05 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-03-05 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Luke 8](/bible/luke/8) · [2 Esdras 14](/bible/2-esdras/14) · [Isa 46](/bible/isaiah/46) · [Matt 10](/bible/matthew/10) · [Luke 19](/bible/luke/19) · [Matt 13](/bible/matthew/13) · [Matt 1](/bible/matthew/1) · [Luke 3](/bible/luke/3) · [James 1](/bible/james/1) · [Job 38](/bible/job/38) · [Prov 8](/bible/proverbs/8) · [John 8](/bible/john/8) · [Rev 12](/bible/revelation/12) · [Matt 8](/bible/matthew/8) · [1 Kgs 22](/bible/1-kings/22) · [Rev 1](/bible/revelation/1) · <i>and 6 more below</i></span>
 

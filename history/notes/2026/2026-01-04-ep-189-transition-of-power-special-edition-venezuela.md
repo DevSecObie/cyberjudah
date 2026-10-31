@@ -1014,7 +1014,7 @@ Reading from *Ancient and Modern Britons*, page 122, on the traces of the black 
 
 *[[2:06:41](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=7601s)]* **Text:** Shalom, leadership. Happy New Moon. Most High in Christ bless you all. One of the captains did a show on Dr. Marie Charles and surnames.
 
-**Officer:** Yes, that was Captain Zakai. We're working on doing a collaboration with them. Surnames. We on all three of those books now.
+**Officer:** Yes, that was Zakai. We're working on doing a collaboration with them. Surnames. We on all three of those books now.
 
 **Text:** I saw a recording of her with some black … apologetics, and she was speaking a lot on how the insignia used on not only the warfare apparel, but also on all types of property that we owned back then. Namely, she made comment about how a lot of the psychology behind the imagery and symbols were related to our supposed use of idolatry pertaining to mathematics, astrology, and dragons. Do we also go off because of idolatry?
 
@@ -1256,11 +1256,11 @@ Reading from *Ancient and Modern Britons*, page 235, on the overthrow of the bla
 
 **Deacon Eythan:** All right, listen. Lord's will, for two weeks we'll be on a short hiatus for the show, cuz I'll be traveling for a while. So when we get back, we going to jump right into King James. Lord's will, we going to jump into his family. Jump into his father's side, his mother's side. So just stay tuned for that. It's going to be exciting to go into that history.
 
-Yes, sir. And also, the sister that you mentioned, the text, that Captain Zakai had on the show. I'm bad with names.
+Yes, sir. And also, the sister that you mentioned, the text, that Zakai had on the show. I'm bad with names.
 
 **Officer:** Marie Charles.
 
-**Deacon Eythan:** Marie Charles, thank you. I'll be using her books as well, cuz her books pretty much sealed the deal. Pretty much just the missing piece, the nail in the coffin, to King James being a black man. So stay tuned for that. We're going to use her books as well. So you guys should also look into buying those once we bring them out. If you can, go and watch Captain Zakai's Nehemiah Squad show. They go into it a little bit. You can buy the books from there. She names them there. So stay tuned. I'll see y'all, Lord's will, when we get back. When I come back from traveling, I'll see y'all again. We'll go into that stuff. With that we say shalom. Most High God bless. Shalom.
+**Deacon Eythan:** Marie Charles, thank you. I'll be using her books as well, cuz her books pretty much sealed the deal. Pretty much just the missing piece, the nail in the coffin, to King James being a black man. So stay tuned for that. We're going to use her books as well. So you guys should also look into buying those once we bring them out. If you can, go and watch Zakai's Nehemiah Squad show. They go into it a little bit. You can buy the books from there. She names them there. So stay tuned. I'll see y'all, Lord's will, when we get back. When I come back from traveling, I'll see y'all again. We'll go into that stuff. With that we say shalom. Most High God bless. Shalom.
 
 ## Announcements & References
 
