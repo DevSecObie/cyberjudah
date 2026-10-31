@@ -37,3 +37,27 @@ export function classCatalog(videos, notes, overrides) {
   for (const n of notes) if (n.videoId && ['class','captains'].includes(n.kind)) indexed.set(n.videoId, { video: n.videoId, title: n.title, teacher: n.teacher || '', date: n.date || '', file: n.file, url: n.url });
   return [...indexed.values()].map(row => correctedClass(row, overrides)).sort((a,b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
 }
+/** Who a passage marked only by rank ("Bishop") was, per class: data/sources/rank-teachers.tsv
+ * (video, teacher), confirmed by the owner from the class. Only fills in a bare rank with the
+ * same rank's full name; a passage that names its teacher, or names none, is left alone. */
+export const RANK_HEADER = 'video\tteacher';
+const RANK = /^(bishop|deacon|captain|elder)$/i;
+export function parseRankTeachers(text) {
+  const lines = text.replace(/^﻿/, '').replace(/\r\n/g, '\n').split('\n').filter(l => l && !l.startsWith('#'));
+  if (lines.shift() !== RANK_HEADER) throw new Error('rank-teachers.tsv must start with video and teacher columns');
+  const rows = new Map();
+  for (const [i, line] of lines.entries()) {
+    const cells = line.split('\t'), [video, teacher] = cells;
+    if (cells.length !== 2 || !/^[\w-]{11}$/.test(video) || !/^(Bishop|Deacon|Captain|Elder) \S.{0,100}$/.test(teacher ?? '') || rows.has(video)) throw new Error(`rank-teachers.tsv row ${i + 1}: invalid or repeated row`);
+    rows.set(video, teacher);
+  }
+  return rows;
+}
+export function loadRankTeachers(root) {
+  const file = path.join(root, 'data/sources/rank-teachers.tsv');
+  return fs.existsSync(file) ? parseRankTeachers(fs.readFileSync(file, 'utf8')) : new Map();
+}
+export function namedTeacher(teacher, video, ranks) {
+  const own = String(teacher ?? '').trim(), named = video ? ranks.get(video) : undefined;
+  return RANK.test(own) && named && named.toLowerCase().startsWith(own.toLowerCase() + ' ') ? named : teacher;
+}
