@@ -21,7 +21,7 @@ import unicodedata
 from datetime import datetime, timezone
 
 ROOT = os.environ.get("CJ_ROOT") or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-INDEX = json.load(open(f"{ROOT}/data/bible/index.json"))
+INDEX = json.load(open(f"{ROOT}/data/bible/index.json", encoding="utf-8"))
 SLUG = {e["book"]: e["slug"] for e in INDEX}
 NAME = {e["slug"]: e["book"] for e in INDEX}
 # Names the precept data uses for books data/bible names otherwise.
@@ -49,7 +49,7 @@ MAX_WORDS = 7000
 
 def chapter_text(book, ch):
     if book not in _chapters:
-        _chapters[book] = json.load(open(f"{ROOT}/data/bible/{SLUG[book]}.json"))["chapters"]
+        _chapters[book] = json.load(open(f"{ROOT}/data/bible/{SLUG[book]}.json", encoding="utf-8"))["chapters"]
     return _chapters[book].get(str(ch)) or []
 
 
@@ -120,7 +120,7 @@ def load_passages():
     """Every passage of the precept passes, keyed by (book, chapter)."""
     found = {}
     for path in sorted(glob.glob(f"{ROOT}/data/precepts/classes/*.json")):
-        data = json.load(open(path))
+        data = json.load(open(path, encoding="utf-8"))
         for passage in data.get("passages", []):
             opened = parse(passage.get("opened", ""))
             if not opened:
@@ -195,7 +195,7 @@ def write(slug, ch, title, passages, max_bullets=None, max_precepts=None, overwr
         # A note already written (or edited since) is never overwritten unless asked.
         if not overwrite:
             return path
-        old = re.search(r'^added: "(.*)"$', open(path).read(), re.M)
+        old = re.search(r'^added: "(.*)"$', open(path, encoding="utf-8").read(), re.M)
         added = old.group(1) if old else added
     out = [
         "---",
@@ -241,7 +241,7 @@ def write(slug, ch, title, passages, max_bullets=None, max_precepts=None, overwr
     # by taking fewer points and precepts on each verse.
     if len(text.split()) > MAX_WORDS and (max_bullets > 2 or max_precepts > 1):
         return write(slug, ch, title, passages, max(2, max_bullets - 1), max(1, max_precepts - 1), overwrite)
-    open(path, "w").write(text)
+    open(path, "w", encoding="utf-8").write(text)
     return path
 
 
@@ -253,7 +253,7 @@ def main():
     overwrite = args.overwrite
     found = load_passages()
     skipped = []
-    for line in open(args.titles):
+    for line in open(args.titles, encoding="utf-8"):
         if not line.strip() or line.startswith("#"):
             continue
         slug, ch, title = line.rstrip("\n").split("\t")
