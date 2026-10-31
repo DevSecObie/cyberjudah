@@ -2,7 +2,7 @@
 title: "The Pride Of Thine Heart"
 slug: "2026/2026-01-31-the-pride-of-thine-heart"
 date: "2026-01-31"
-teacher: "Zakai"
+teacher: "Captain Zakar"
 description: "IUIC in the ClassRoom · 2026-01-31"
 tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath"]
 ---
@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 
 ## Introduction
 
-*[[3:03](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=183s)]* Zakai teaches from IUIC Oklahoma City, with Captain AZ, Captain Noah, Officer Ari and later Captain Paloo beside him. After opening with the history of how Constantine and the Council of Laodicea turned the Sabbath into Sunday, and how late Christianity reached Ethiopia, the class defines pride and shows it as the root of every fall: pride is departing from your maker, it is first on God's list of hates, and it destroyed the northern kingdom, Judah, Assyria, Nebuchadnezzar, Antiochus and Herod. The last and proudest is Edom, and the class closes with the eagle of 2 Esdras 11 whose pride has come up unto the Mighty.
+*[[3:03](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=183s)]* Captain Zakar teaches from IUIC Oklahoma City, with Captain AZ, Captain Noah, Officer Ari and later Captain Paloo beside him. After opening with the history of how Constantine and the Council of Laodicea turned the Sabbath into Sunday, and how late Christianity reached Ethiopia, the class defines pride and shows it as the root of every fall: pride is departing from your maker, it is first on God's list of hates, and it destroyed the northern kingdom, Judah, Assyria, Nebuchadnezzar, Antiochus and Herod. The last and proudest is Edom, and the class closes with the eagle of 2 Esdras 11 whose pride has come up unto the Mighty.
 
 ## Scriptures Opened
 

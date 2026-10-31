@@ -322,7 +322,7 @@ tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "deceit", "media
 
 ## Announcements & References
 
-- Captain Gilliam taught the morning class, with Zakai, formerly of Miami, now in Oklahoma City.
+- Captain Gilliam taught the morning class, with Captain Zakar, formerly of Miami, now in Oklahoma City.
 
 ---
 

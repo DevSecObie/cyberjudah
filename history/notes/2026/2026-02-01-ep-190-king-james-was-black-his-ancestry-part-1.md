@@ -1364,7 +1364,7 @@ Reading from *Dictionary of Foundational Black British Surnames*, Part One, by S
 
 - **Officer:** That's bad. Look like Zakai.
 
-- **Deacon Eythan:** Yeah, it does. That right there is Zakai. It does. All praise. Go over. So go back. Go back down to the bottom. Zoom in. Read that again. We didn't finish it. Read on.
+- **Deacon Eythan:** Yeah, it does. That right there is Captain Zakar. It does. All praise. Go over. So go back. Go back down to the bottom. Zoom in. Read that again. We didn't finish it. Read on.
 
 > The Stewarts, afterwards kings of Scotland, as has been shown by Chalmers, descended from Walter FitzAlan, created Steward of Scotland by David I. He was the son of William FitzAlan, founder of Haughmond, son of Alan fitz Flaad,
 

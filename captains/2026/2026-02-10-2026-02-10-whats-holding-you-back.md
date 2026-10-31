@@ -2,7 +2,7 @@
 title: "What's Holding You Back??"
 slug: "2026/2026-02-10-whats-holding-you-back"
 date: "2026-02-10"
-teacher: "Zakai"
+teacher: "Captain Zakar"
 description: "15 Minutes w/ The Captains · 2026-02-10"
 tags: ["15 Minutes w/ The Captains", "endurance", "faith", "mercy", "repentance", "sexual-purity"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "endurance", "faith", "mercy", "repentance"
 
 ## Introduction
 
-*[[0:14](https://www.youtube.com/watch?v=JLLb4q16a5o&t=14s)]* Shalom Israel, most high and Christ bless. I am Zakai and this is 15 minutes with a captain. Today we're going to be going over the topic of what's holding you back.
+*[[0:14](https://www.youtube.com/watch?v=JLLb4q16a5o&t=14s)]* Shalom Israel, most high and Christ bless. I am Captain Zakar and this is 15 minutes with a captain. Today we're going to be going over the topic of what's holding you back.
 
 ## Scriptures Opened
 
