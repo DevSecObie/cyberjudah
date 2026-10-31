@@ -2,7 +2,7 @@
 title: "Judgement - the Testimony of the Two Witnesses"
 slug: "2026/2026-01-17-judgement-the-testimony-of-the-two-witnesses"
 date: "2026-01-17"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-01-17"
 tags: ["IUIC in the ClassRoom", "adversity", "justice", "the-law"]
 ---

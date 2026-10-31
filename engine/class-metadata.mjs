@@ -47,9 +47,11 @@ export function parseRankTeachers(text) {
   if (lines.shift() !== RANK_HEADER) throw new Error('rank-teachers.tsv must start with video and teacher columns');
   const rows = new Map();
   for (const [i, line] of lines.entries()) {
-    const cells = line.split('\t'), [video, teacher] = cells;
-    if (cells.length !== 2 || !/^[\w-]{11}$/.test(video) || !/^(Bishop|Deacon|Captain|Elder) \S.{0,100}$/.test(teacher ?? '') || rows.has(video)) throw new Error(`rank-teachers.tsv row ${i + 1}: invalid or repeated row`);
-    rows.set(video, teacher);
+    // An optional third column names the bare rank the class wrote when it differs from the
+    // teacher's own title (Obie: the "Deacon" of 6Zr0mBGRnyU is Elder Labachaa).
+    const cells = line.split('\t'), [video, teacher, rank] = cells;
+    if (cells.length < 2 || cells.length > 3 || !/^[\w-]{11}$/.test(video) || !/^(Bishop|Deacon|Captain|Elder) \S.{0,100}$/.test(teacher ?? '') || (cells.length === 3 && !RANK.test(rank)) || rows.has(video)) throw new Error(`rank-teachers.tsv row ${i + 1}: invalid or repeated row`);
+    rows.set(video, rank ? { teacher, rank } : teacher);
   }
   return rows;
 }
@@ -58,6 +60,8 @@ export function loadRankTeachers(root) {
   return fs.existsSync(file) ? parseRankTeachers(fs.readFileSync(file, 'utf8')) : new Map();
 }
 export function namedTeacher(teacher, video, ranks) {
-  const own = String(teacher ?? '').trim(), named = video ? ranks.get(video) : undefined;
-  return RANK.test(own) && named && named.toLowerCase().startsWith(own.toLowerCase() + ' ') ? named : teacher;
+  const own = String(teacher ?? '').trim(), row = video ? ranks.get(video) : undefined;
+  if (!RANK.test(own) || !row) return teacher;
+  if (typeof row === 'object') return row.rank.toLowerCase() === own.toLowerCase() ? row.teacher : teacher;
+  return row.toLowerCase().startsWith(own.toLowerCase() + ' ') ? row : teacher;
 }

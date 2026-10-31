@@ -1,37 +1,9 @@
-# Classes marked only "Bishop" now carry the Bishop's name
+# Teachers for the classes Obie named from thumbnails
 
-Obie (2026-10-31) named the Bishop for each of the 36 classes whose notes or precept passes said
-only "Bishop", so the reader can show each Bishop's teaching under his own name.
+Obie named the teacher of each unnamed class from its thumbnail (2026-10-31). This writes his answers for the 75 non-Captains classes. Giving The Sense handles the Captains episodes in #754.
 
-- `data/sources/rank-teachers.tsv`: video and teacher for those 36 classes, as Obie gave them
-  (22 Bishop Nathanyel, 12 Bishop Yawasap, 2 Bishop Kani).
-- `engine/class-metadata.mjs` `namedTeacher`: a passage (or a pass file's class teacher) that says
-  only a rank takes the full name from that file, and only when the rank matches. A passage that
-  names its teacher, or names none, is left alone. Notes, precept passes, titles and dates are not
-  edited.
-- Built data: no entry is left under a bare "Bishop" (was 3,205). Bishop Nathanyel 11,997 -> 14,761
-  entries, Bishop Yawasap 578 -> 907, Bishop Kani 1,222 -> 1,334.
-
-# Elder Nathanyel is named Bishop Nathanyel
-
-Obie (2026-10-31): "name him Bishop Nathanyel and not Elder".
-
-- 19 notes from 2012-2013: the `teacher` front matter and the "taught" byline say Bishop Nathanyel.
-  Nothing in the notes' text changes (none of them quotes "Elder Nathanyel").
-- `data/precepts/teachers.json` (48 passages) and `data/precepts/readings/videos.json` (15 videos
-  heard as "Elder Nathaniel") say Bishop Nathanyel.
-- `data/names.tsv`: Elder Nathanyel/Nathaniel/Nathanael become variants of Bishop Nathanyel, and
-  `scripts/notes/prep.py` `teacher_of` now returns the names.tsv spelling, so a rebuilt readings file
-  or a new note does not bring the old name back.
-- Built data: Bishop Nathanyel 14,761 -> 15,829 entries; no "Elder Nathanyel" left.
-
-# Each teacher's chapters, for the Bishop commentaries
-
-- `engine/build.mjs` writes `/api/concordance/teachers.json`: for each teacher, the chapters (by
-  book slug) that their precepts and verse breakdowns reach. The reader's per-Bishop commentaries
-  list their coverage from it instead of reading every chapter. Bishop Nathanyel 922 chapters,
-  Bishop Kani 360, Bishop Yawasap 219.
-
-## Cached readings take today's teacher spelling
-
-- `scripts/precepts/readings.py`: a transcript whose readings come from the cache now passes its teacher through `prep.official_name`, so a class cached as "Elder Nathanyel" is written as "Bishop Nathanyel" without a forced rerun (follow-up to #751's review).
+- 52 class notes: `teacher:` front matter.
+- 23 precept-pass classes: rows in `data/sources/class-teachers.tsv` (title and date unchanged), so no pass file is edited.
+- `data/sources/rank-teachers.tsv`: four classes whose passages carry only "Deacon" or "Captain" now take the named teacher.
+- Left blank: five classes Obie was not sure of (ber_77e-c-o and the four "Revolutionaries Of Gad" episodes), and four he named by show rather than teacher (Escaping the Plantation x3, Fixx Ya Face Fridays).
+- 6Zr0mBGRnyU and rf-sRA7CnHI (2022): Elder Labachaa, as Obie said ("He's Elder for now"), with the official spelling from names.tsv. The class marks his passages "Deacon", so `rank-teachers.tsv` takes an optional third column naming the bare rank a row replaces.

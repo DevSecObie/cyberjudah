@@ -2,7 +2,7 @@
 title: "Navigating Through Paul's Letters: Walking Through Galatians"
 slug: "2026/2026-02-28-navigating-through-paul-s-letters-walking-through-galatians"
 date: "2026-02-28"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-02-28"
 tags: ["IUIC in the ClassRoom", "christ", "faith", "nations", "purpose", "the-law"]
 ---

@@ -2,7 +2,7 @@
 title: "2025 Recap: Different Times, Same Truth"
 slug: "2026/2026-01-03-2025-recap-different-times-same-truth"
 date: "2026-01-03"
-teacher: ""
+teacher: "Captain Osee"
 description: "IUIC in the ClassRoom · 2026-01-03"
 tags: ["IUIC in the ClassRoom", "the-law"]
 ---

@@ -2,7 +2,7 @@
 title: "The Natives Hour: State of Emergency at the Pine Ridge Reservation"
 slug: "2023/2023-12-06-the-natives-hour-state-of-emergency-at-the-pine-ridge-reservation"
 date: "2023-12-06"
-teacher: ""
+teacher: "Captain Gad"
 description: "The Natives Hour · 2023-12-06"
 collection: "The Natives Hour"
 tags: ["IUIC in the ClassRoom", "repentance", "the-americas"]

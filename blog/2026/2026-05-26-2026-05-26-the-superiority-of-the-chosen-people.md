@@ -2,7 +2,7 @@
 title: "The Superiority of the Chosen People"
 slug: "2026/2026-05-26-the-superiority-of-the-chosen-people"
 date: "2026-05-26"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-05-26"
 tags: ["IUIC in the ClassRoom", "egypt", "wisdom"]
 ---

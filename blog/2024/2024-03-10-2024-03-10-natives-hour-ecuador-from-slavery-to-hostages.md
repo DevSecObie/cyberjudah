@@ -2,7 +2,7 @@
 title: "Natives Hour: Ecuador… From Slavery to Hostages"
 slug: "2024/2024-03-10-natives-hour-ecuador-from-slavery-to-hostages"
 date: "2024-03-10"
-teacher: ""
+teacher: "Captain Gad"
 description: "The Natives Hour · 2024-03-10"
 collection: "The Natives Hour"
 tags: ["IUIC in the ClassRoom", "captivity", "false-religion", "spain-inquisition", "the-americas", "war"]

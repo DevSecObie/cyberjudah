@@ -2,7 +2,7 @@
 title: "Covetous Eyes Will Be Put Out"
 slug: "2026/2026-02-14-covetous-eyes-will-be-put-out"
 date: "2026-02-14"
-teacher: ""
+teacher: "Captain Gideon"
 description: "IUIC in the ClassRoom · 2026-02-14"
 tags: ["IUIC in the ClassRoom", "money", "prayer", "sabbath"]
 ---

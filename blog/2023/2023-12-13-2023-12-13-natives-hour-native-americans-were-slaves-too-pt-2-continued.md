@@ -2,7 +2,7 @@
 title: "Natives Hour: Native Americans Were Slaves Too!!! Pt. 2, Continued"
 slug: "2023/2023-12-13-natives-hour-native-americans-were-slaves-too-pt-2-continued"
 date: "2023-12-13"
-teacher: ""
+teacher: "Captain Gad"
 description: "The Natives Hour · 2023-12-13"
 collection: "The Natives Hour"
 tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "salvation", "the-americas"]

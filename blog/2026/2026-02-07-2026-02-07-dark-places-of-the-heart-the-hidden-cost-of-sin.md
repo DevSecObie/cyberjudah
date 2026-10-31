@@ -2,7 +2,7 @@
 title: "Dark Places of the Heart: the Hidden Cost of Sin"
 slug: "2026/2026-02-07-dark-places-of-the-heart-the-hidden-cost-of-sin"
 date: "2026-02-07"
-teacher: ""
+teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2026-02-07"
 tags: ["IUIC in the ClassRoom", "endurance", "faith", "leadership", "prayer", "sexual-purity"]
 ---

@@ -2,7 +2,7 @@
 title: "False New Year: Doctrine Slayer - True Past Curses & Trauma"
 slug: "2026/2026-01-01-false-new-year-doctrine-slayer-true-past-curses-trauma"
 date: "2026-01-01"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-01-01"
 tags: ["IUIC in the ClassRoom", "captivity", "egypt", "islam-arabs", "mental-health", "persecution", "spain-inquisition", "women"]
 ---

@@ -2,7 +2,7 @@
 title: "Destroyed by Familiar Hands"
 slug: "2026/2026-01-10-destroyed-by-familiar-hands"
 date: "2026-01-10"
-teacher: ""
+teacher: "Deacon Malachi"
 description: "IUIC in the ClassRoom · 2026-01-10"
 tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "deceit", "leadership", "war"]
 ---

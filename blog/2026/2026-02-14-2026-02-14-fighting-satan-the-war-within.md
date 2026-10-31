@@ -2,7 +2,7 @@
 title: "Fighting Satan - the War Within"
 slug: "2026/2026-02-14-fighting-satan-the-war-within"
 date: "2026-02-14"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-02-14"
 tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 ---

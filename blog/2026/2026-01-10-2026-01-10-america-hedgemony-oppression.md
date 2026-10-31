@@ -2,7 +2,7 @@
 title: "America Hedgemony & Oppression"
 slug: "2026/2026-01-10-america-hedgemony-oppression"
 date: "2026-01-10"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-01-10"
 tags: ["IUIC in the ClassRoom", "america-babylon", "betrayal", "europe-dark-ages", "purpose", "repentance", "sexual-purity"]
 ---

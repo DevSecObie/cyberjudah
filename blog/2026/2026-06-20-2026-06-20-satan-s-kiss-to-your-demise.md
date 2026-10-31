@@ -2,7 +2,7 @@
 title: "Satan's Kiss To Your Demise"
 slug: "2026/2026-06-20-satan-s-kiss-to-your-demise"
 date: "2026-06-20"
-teacher: ""
+teacher: "Captain Pallu"
 description: "IUIC in the ClassRoom · 2026-06-20"
 tags: ["IUIC in the ClassRoom", "marriage-family", "money", "pride", "satan", "sexual-purity", "women"]
 ---

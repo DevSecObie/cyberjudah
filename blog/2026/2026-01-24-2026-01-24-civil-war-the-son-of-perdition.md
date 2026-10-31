@@ -2,7 +2,7 @@
 title: "Civil War & the Son of Perdition"
 slug: "2026/2026-01-24-civil-war-the-son-of-perdition"
 date: "2026-01-24"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-01-24"
 tags: ["IUIC in the ClassRoom", "adversity", "america-babylon", "anger", "egypt", "europe-dark-ages", "false-religion", "war"]
 ---

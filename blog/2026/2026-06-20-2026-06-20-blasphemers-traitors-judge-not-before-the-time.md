@@ -2,7 +2,7 @@
 title: "BLASPHEMERS & TRAITORS: JUDGE NOT BEFORE THE TIME"
 slug: "2026/2026-06-20-blasphemers-traitors-judge-not-before-the-time"
 date: "2026-06-20"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-06-20"
 tags: ["IUIC in the ClassRoom", "angels", "betrayal", "idolatry", "pride", "repentance", "the-body"]
 ---
