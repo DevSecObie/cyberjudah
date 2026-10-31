@@ -28,6 +28,7 @@ NAME = {e["slug"]: e["book"] for e in INDEX}
 ALIAS = {
     "Ecclesiasticus": "Sirach",
     "Rest of Esther": "Esther (Greek)",
+    "The Rest of Esther": "Esther (Greek)",
     "Song of the Three Holy Children": "Song of the Three Children",
     "History of Susanna": "Susanna",
     "Prayer of Manasses": "Prayer of Manasseh",
