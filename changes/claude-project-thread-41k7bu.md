@@ -31,3 +31,7 @@ Obie (2026-10-31): "name him Bishop Nathanyel and not Elder".
   book slug) that their precepts and verse breakdowns reach. The reader's per-Bishop commentaries
   list their coverage from it instead of reading every chapter. Bishop Nathanyel 922 chapters,
   Bishop Kani 360, Bishop Yawasap 219.
+
+## Cached readings take today's teacher spelling
+
+- `scripts/precepts/readings.py`: a transcript whose readings come from the cache now passes its teacher through `prep.official_name`, so a class cached as "Elder Nathanyel" is written as "Bishop Nathanyel" without a forced rerun (follow-up to #751's review).

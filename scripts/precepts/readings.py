@@ -105,7 +105,11 @@ def one(path, force=False):
     cp = os.path.join(CACHE, f"{vid}.json")
     if not force and os.path.exists(cp):
         c = json.load(open(cp))
-        if c.get("tag") == tag: return c["rows"], c["meta"]
+        if c.get("tag") == tag:
+            # A cached teacher was named before data/names.tsv changed; give today's spelling.
+            meta = c["meta"]
+            if meta.get("teacher"): meta["teacher"] = prep.official_name(meta["teacher"])
+            return c["rows"], meta
     rows = readings_of(t)
     text = " ".join(s[1] for s in t["segments"][:400])
     who, _ = prep.teacher_of(text)
