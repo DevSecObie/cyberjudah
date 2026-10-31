@@ -2,7 +2,7 @@
 title: "The Lord's Day Explained!!"
 slug: "2026/2026-01-23-the-lords-day-explained"
 date: "2026-01-23"
-teacher: "Captain Zakai"
+teacher: "Captain Zakar"
 description: "15 Minutes w/ The Captains · 2026-01-23"
 tags: ["15 Minutes w/ The Captains", "christ", "deceit", "false-religion", "sabbath"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "false-religion", "sabb
 
 ## Introduction
 
-*[[0:14](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=14s)]* Hey, Shalom Israel. Most High Christ bless. I'm Captain Zakai and this is 15 minutes with a captain. All right, today we going to go into understanding the Lord's day. Understanding the Lord's day.
+*[[0:14](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=14s)]* Hey, Shalom Israel. Most High Christ bless. I'm Captain Zakar and this is 15 minutes with a captain. All right, today we going to go into understanding the Lord's day. Understanding the Lord's day.
 
 ## Scriptures Opened
 

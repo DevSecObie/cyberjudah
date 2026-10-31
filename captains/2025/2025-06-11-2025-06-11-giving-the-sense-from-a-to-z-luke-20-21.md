@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 20:21"
 slug: "2025/2025-06-11-giving-the-sense-from-a-to-z-luke-20-21"
 date: "2025-06-11"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-06-11"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "women"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-06-11 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-06-11 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Luke 20](/bible/luke/20) · [Isa 28](/bible/isaiah/28) · [Heb 9](/bible/hebrews/9) · [Isa 42](/bible/isaiah/42) · [Matt 5](/bible/matthew/5) · [2 Sam 11](/bible/2-samuel/11) · [Num 15](/bible/numbers/15) · [Deut 24](/bible/deuteronomy/24) · [Matt 19](/bible/matthew/19) · [Matt 18](/bible/matthew/18) · [Matt 12](/bible/matthew/12) · [Deut 23](/bible/deuteronomy/23) · [1 Sam 21](/bible/1-samuel/21) · [Exod 29](/bible/exodus/29) · [Num 28](/bible/numbers/28) · [John 1](/bible/john/1) · <i>and 10 more below</i></span>
 
@@ -625,7 +625,7 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 
 ## In Closing
 
-*[[1:09:01](https://www.youtube.com/watch?v=iDnm_FW49uY&t=4141s)]* So, with that, keep it going. Yeah, we got to go. We can't keep it too long. And we got all we all got to get ready for the new moon and all that. But all praises to the Father. Lord's will, y'all got something out of it. Y'all already know Captain Zakai, I UIC Sacramento. With that, I'm going to say shalom to y'all. Happy new moon. All right? All praises. All right, y'all. Most High and Christ bless. Pray y'all have a great new moon. All right? And Lord's will, the Lord spare our lives, we'll see each other on the Sabbath, all right? Most High and Christ bless.
+*[[1:09:01](https://www.youtube.com/watch?v=iDnm_FW49uY&t=4141s)]* So, with that, keep it going. Yeah, we got to go. We can't keep it too long. And we got all we all got to get ready for the new moon and all that. But all praises to the Father. Lord's will, y'all got something out of it. Y'all already know Zakai, I UIC Sacramento. With that, I'm going to say shalom to y'all. Happy new moon. All right? All praises. All right, y'all. Most High and Christ bless. Pray y'all have a great new moon. All right? And Lord's will, the Lord spare our lives, we'll see each other on the Sabbath, all right? Most High and Christ bless.
 
 ---
 

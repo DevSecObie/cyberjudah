@@ -2,7 +2,7 @@
 title: "Ungrateful Children"
 slug: "2025/2025-11-07-ungrateful-children"
 date: "2025-11-07"
-teacher: "Captain Zakai"
+teacher: "Captain Zakar"
 description: "15 Minutes w/ The Captains · 2025-11-07"
 tags: ["15 Minutes w/ The Captains", "marriage-family", "obedience", "wisdom", "youth"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "obedience", "wisdom", "
 
 ## Introduction
 
-*[[0:14](https://www.youtube.com/watch?v=uc6YyTwc9jg&t=14s)]* Hey, shalom Israel. Most High Christ bless. I'm Captain Zakai. This is another 15 minutes with the captains. Today's topic is going to be called ungrateful children. Ungrateful children.
+*[[0:14](https://www.youtube.com/watch?v=uc6YyTwc9jg&t=14s)]* Hey, shalom Israel. Most High Christ bless. I'm Captain Zakar. This is another 15 minutes with the captains. Today's topic is going to be called ungrateful children. Ungrateful children.
 
 ## Scriptures Opened
 

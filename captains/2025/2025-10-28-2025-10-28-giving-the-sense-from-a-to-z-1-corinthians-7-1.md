@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "marriage-family", "prayer", "sexual-purity
 
 ## Introduction
 
-*[[7:41](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=461s)]* All right, Israel. Most High Christ bless. Welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah out of Raleigh. Shout out to my reader, Officer John. We're going to go over 1 Corinthians chapter 7, 1 through whatever we get through. Captain Zakai taught last. He went over chapter six. I think he did 12 all the way down. He finished the whole chapter. So, we picking it up at chapter seven today.
+*[[7:41](https://www.youtube.com/watch?v=ZspA_MWtqQ4&t=461s)]* All right, Israel. Most High Christ bless. Welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah out of Raleigh. Shout out to my reader, Officer John. We're going to go over 1 Corinthians chapter 7, 1 through whatever we get through. Zakai taught last. He went over chapter six. I think he did 12 all the way down. He finished the whole chapter. So, we picking it up at chapter seven today.
 
 ## Scriptures Opened
 

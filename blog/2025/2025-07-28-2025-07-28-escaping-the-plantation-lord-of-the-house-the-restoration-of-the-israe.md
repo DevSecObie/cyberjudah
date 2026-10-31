@@ -245,7 +245,7 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "pride", "salvation", "women"
 
 > <sup>[5](/bible/isaiah/1#v5)</sup> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
 
-- Captain Zakai taught the Willie Lynch letter: keep the slave physically strong but psychologically weak, body over mind, break the man in front of the woman and raise the children in reverse roles. From the sole of the foot even unto the head there is no soundness in it, but wounds and bruises and putrifying sores: they have not been closed. That is the trauma, and you can still see the effects in how our sisters carry themselves.
+- Captain Zakar taught the Willie Lynch letter: keep the slave physically strong but psychologically weak, body over mind, break the man in front of the woman and raise the children in reverse roles. From the sole of the foot even unto the head there is no soundness in it, but wounds and bruises and putrifying sores: they have not been closed. That is the trauma, and you can still see the effects in how our sisters carry themselves.
 
   Precepts:
   - **[Isaiah 1:6](/bible/isaiah/1#v6)**

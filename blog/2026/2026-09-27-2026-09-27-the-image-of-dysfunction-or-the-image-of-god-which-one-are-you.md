@@ -704,7 +704,7 @@ Reading from *Lest We Forget: The Passage from Africa to Slavery and Emancipatio
 - Double Sabbath this weekend: the Memorial of Blowing of Trumpets begins tonight. Day of Atonement October 5 to 6 at sundown. Next voluntary fast October 30, 2026.
 - Eternal Glory comic issue one, Yashar Invades France, is available and Yashar Invades Rome is on pre-order, with exclusive merchandise. Eternal Glory album by Deacon Isaac and his son, Psalms and Proverbs, on Original Royalty.
 - Mission 235 returned to Papua New Guinea during its 51st independence celebration, led by Deacon Isaac, Captain Joel, and Captain Uri. Mission 237 to the Dominican Republic taught the true image of Christ on TV and radio and held the first congregation there.
-- Ben Shimi's first solo album Forever, featuring Captain Zakai as Z. B. Reel, comes after Trumpets; the video Focused from Acts of the Apostles by Enos Zakar dropped tonight; the Soft Rain fleece collection is on Original Royalty.
+- Ben Shimi's first solo album Forever, featuring Captain Zakar as Z. B. Reel, comes after Trumpets; the video Focused from Acts of the Apostles by Enos Zakar dropped tonight; the Soft Rain fleece collection is on Original Royalty.
 - Vote by QR code for Israel Live Top Five, Monday nights at 9 p.m.
 - Tabernacles registration for the Northeast, West Coast, and Southeast Central regions closes Wednesday September 30; Bishop Canaan says the Southeast Tabernacles is six weeks out on over 45 acres.
 - Congratulations to a newly married young couple; prove a brother or sister first and seek counsel through the ups and downs.

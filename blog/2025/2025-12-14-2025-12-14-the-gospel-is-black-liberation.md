@@ -1229,7 +1229,7 @@ Reading from a post on a noose pendant  *[[2:59:18](https://www.youtube.com/watc
 - IUIC Miami held its first family and friends unity day, with questions answered out of the word of God.
 - Upcoming feast days: the new moon on January 3rd, 2026 at sundown, and a feast day on February 14th at sundown.
 - Episode one has broken ground on a new Sunday show with Captain Gideon, bringing Acts 2 to life, Sundays at 3 p.m. Eastern.
-- The Nehemiah Squad with Captain Zakai on IUIC Sacramento's YouTube page, Monday nights at 8:30 Pacific.
+- The Nehemiah Squad with Zakai on IUIC Sacramento's YouTube page, Monday nights at 8:30 Pacific.
 - A new YouTube channel, IUIC Diaspora 2.0, on the twelve tribes scattered into every land.
 - Mission number 184, Roseau, Dominica: the prophets took the island to wake up the tribe of Benjamin.
 - Mission number 185, Salvador, Bahia, the first capital of Brazil and a major centre of the slave trade, straight from Luanda, Angola. Shout out to the Booster Club.

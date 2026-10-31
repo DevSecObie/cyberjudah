@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 10"
 slug: "2025/2025-12-03-giving-the-sense-from-a-to-z-1-corinthians-10"
 date: "2025-12-03"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-12-03"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-12-03 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-12-03 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [1 Cor 10](/bible/1-corinthians/10) · [Exod 13](/bible/exodus/13) · [Rom 9](/bible/romans/9) · [Exod 14](/bible/exodus/14) · [Isa 31](/bible/isaiah/31) · [Jer 16](/bible/jeremiah/16) · [Exod 16](/bible/exodus/16) · [John 6](/bible/john/6) · [Exod 17](/bible/exodus/17) · [Num 20](/bible/numbers/20) · [John 4](/bible/john/4) · [Ps 78](/bible/psalms/78) · [Matt 7](/bible/matthew/7) · [Num 25](/bible/numbers/25) · [Num 21](/bible/numbers/21) · [John 3](/bible/john/3) · <i>and 5 more below</i></span>
 
@@ -744,7 +744,7 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 
 ## In Closing
 
-*[[1:22:59](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=4979s)]* So all praise to the Lord, y'all. I know I kept y'all a little while. All praises, Lord's will y'all got something out of it. Oh, shoot, yes, hour 23. All right, yo, it is what it is. I just seen the time right there. This is my first time using this particular thing right here, so I ain't really see what the time was at. But hey, all praise to the Lord. I'm Captain Zakai, IUIC Sacramento. Yes, yes, family. Most High in Christ bless y'all all, all right? And let's take the feast out, enjoy ourselves, have a good time. We got the new moon tomorrow. All praises. All praises to the Lord. With that I'm going to say shalom. Most High in Christ bless.
+*[[1:22:59](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=4979s)]* So all praise to the Lord, y'all. I know I kept y'all a little while. All praises, Lord's will y'all got something out of it. Oh, shoot, yes, hour 23. All right, yo, it is what it is. I just seen the time right there. This is my first time using this particular thing right here, so I ain't really see what the time was at. But hey, all praise to the Lord. I'm Zakai, IUIC Sacramento. Yes, yes, family. Most High in Christ bless y'all all, all right? And let's take the feast out, enjoy ourselves, have a good time. We got the new moon tomorrow. All praises. All praises to the Lord. With that I'm going to say shalom. Most High in Christ bless.
 
 ---
 

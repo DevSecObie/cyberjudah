@@ -2,13 +2,13 @@
 title: "The Nehemiah Squad Radio | Reparations: Dream or Reality?"
 slug: "2024/2024-07-01-the-nehemiah-squad-radio-reparations-dream-or-reality"
 date: "2024-07-01"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "The Nehemiah Squad Radio · 2024-07-01"
 collection: "The Nehemiah Squad Radio"
 tags: ["IUIC in the ClassRoom", "money", "reparations", "the-americas"]
 ---
 
-<p class="taught">The Nehemiah Squad Radio · 2024-07-01 · Captain Zakai</p>
+<p class="taught">The Nehemiah Squad Radio · 2024-07-01 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Isa 60](/bible/isaiah/60) · [Isa 42](/bible/isaiah/42) · [Ps 83](/bible/psalms/83) · [Mic 2](/bible/micah/2) · [Wis 2](/bible/wisdom-of-solomon/2) · [Zeph 2](/bible/zephaniah/2) · [Jer 29](/bible/jeremiah/29) · [Deut 7](/bible/deuteronomy/7) · [Phil 2](/bible/philippians/2) · [Joel 3](/bible/joel/3) · [Ezek 35](/bible/ezekiel/35) · [Deut 8](/bible/deuteronomy/8) · [Ps 58](/bible/psalms/58) · [Obad 1](/bible/obadiah/1) · [Wis 18](/bible/wisdom-of-solomon/18) · [2 Esdras 6](/bible/2-esdras/6) · <i>and 2 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "money", "reparations", "the-americas"]
 
 ## Introduction
 
-*[[5:39](https://www.youtube.com/watch?v=DO6KijJECVI&t=339s)]* The third episode of The Nehemiah Squad, with Captain Zakai, Officer Shim and Officer Judah, on reparations: "what's happening with the reparations movement and what the Bible says about the reparations that's going to come." Their guest is Chris of the Coalition for a Just and Equitable California, who works on reparations in California. The squad answers him from the scriptures: we have to get our nationality back first, and the reparations we are waiting for are the ones the Lord said he will bring.
+*[[5:39](https://www.youtube.com/watch?v=DO6KijJECVI&t=339s)]* The third episode of The Nehemiah Squad, with Zakai, Officer Shim and Officer Judah, on reparations: "what's happening with the reparations movement and what the Bible says about the reparations that's going to come." Their guest is Chris of the Coalition for a Just and Equitable California, who works on reparations in California. The squad answers him from the scriptures: we have to get our nationality back first, and the reparations we are waiting for are the ones the Lord said he will bring.
 
 ## Scriptures Opened
 

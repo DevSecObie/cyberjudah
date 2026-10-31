@@ -2,7 +2,7 @@
 title: "What To Do When You Hate Your Life??"
 slug: "2024/2024-11-06-what-to-do-when-you-hate-your-life"
 date: "2024-11-06"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "15 Minutes w/ The Captains · 2024-11-06"
 tags: ["15 Minutes w/ The Captains", "endurance", "money", "sexual-purity"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "endurance", "money", "sexual-purity"]
 
 ## Introduction
 
-*[[0:21](https://www.youtube.com/watch?v=YdldWFuQqNU&t=21s)]* Hey, shalom family. Most High and Christ bless. This is 15 minutes with the captains, and I am Captain Zakai. All praises to the Lord. Hey, so listen, today's class is called: hate life. Hate life. Now you might be thinking, hate life? Yes, hate life. We gonna get into it.
+*[[0:21](https://www.youtube.com/watch?v=YdldWFuQqNU&t=21s)]* Hey, shalom family. Most High and Christ bless. This is 15 minutes with the captains, and I am Zakai. All praises to the Lord. Hey, so listen, today's class is called: hate life. Hate life. Now you might be thinking, hate life? Yes, hate life. We gonna get into it.
 
 ## Scriptures Opened
 

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 11:3"
 slug: "2025/2025-04-02-giving-the-sense-from-a-to-z-luke-11-3"
 date: "2025-04-02"
-teacher: "Captain Zakai"
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-04-02"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-04-02 · Captain Zakai</p>
+<p class="taught">Giving The Sense From A to Z · 2025-04-02 · Zakai</p>
 
 <span class="opens"><b>Opens</b> [Luke 11](/bible/luke/11) · [Prov 20](/bible/proverbs/20) · [Eccl 10](/bible/ecclesiastes/10) · [Ps 37](/bible/psalms/37) · [Matt 4](/bible/matthew/4) · [Deut 8](/bible/deuteronomy/8) · [John 1](/bible/john/1) · [Rev 19](/bible/revelation/19) · [Prov 8](/bible/proverbs/8) · [John 6](/bible/john/6) · [1 John 3](/bible/1-john/3) · [1 John 2](/bible/1-john/2) · [John 18](/bible/john/18) · [1 Pet 2](/bible/1-peter/2) · [Matt 13](/bible/matthew/13) · [Ps 32](/bible/psalms/32) · <i>and 13 more below</i></span>
 
@@ -733,7 +733,7 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 
 ## In Closing
 
-*[[1:22:41](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4961s)]* And so, that's it for, we only went through two verses, but those two verses are of Luke chapter 11, verses 3 and 4. That's how we had to dig into it, you know what I'm saying? So, hey, all praises to the Father. Lord's will, y'all got something out of that. All right? I'm Captain Zakai. IUIC Sacramento. All right? Catch us, you know what I'm saying? Monday night, Pacific time, 8:30, okay? 11:30 for the East. All right? The Nehemiah squad, you know what I'm saying? Y'all need to tune in, subscribe, like, share, all that. All right? So, with that, I'll say shalom. Y'all have an excellent rest of the week. Tomorrow's the ending of the feast. Lord's will, y'all are able to attend, and then we got the Sabbath. And Lord will, life last, we see each other. All right? Most High Christ bless y'all. Shalom.
+*[[1:22:41](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4961s)]* And so, that's it for, we only went through two verses, but those two verses are of Luke chapter 11, verses 3 and 4. That's how we had to dig into it, you know what I'm saying? So, hey, all praises to the Father. Lord's will, y'all got something out of that. All right? I'm Zakai. IUIC Sacramento. All right? Catch us, you know what I'm saying? Monday night, Pacific time, 8:30, okay? 11:30 for the East. All right? The Nehemiah squad, you know what I'm saying? Y'all need to tune in, subscribe, like, share, all that. All right? So, with that, I'll say shalom. Y'all have an excellent rest of the week. Tomorrow's the ending of the feast. Lord's will, y'all are able to attend, and then we got the Sabbath. And Lord will, life last, we see each other. All right? Most High Christ bless y'all. Shalom.
 
 ---
 

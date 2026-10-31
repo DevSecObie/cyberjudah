@@ -2,7 +2,7 @@
 title: "Don't Eat your Emotions"
 slug: "2026/2026-02-17-dont-eat-your-emotions"
 date: "2026-02-17"
-teacher: "Captain Zakai"
+teacher: "Captain Zakar"
 description: "15 Minutes w/ The Captains · 2026-02-17"
 tags: ["15 Minutes w/ The Captains", "endurance", "mental-health", "the-word"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "endurance", "mental-health", "the-word"]
 
 ## Introduction
 
-*[[0:14](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=14s)]* Shalom Israel. Most high and Christ bless. It's Captain Zakai. This is another 15 minutes with a captain. So today is going to be about don't eat your emotions. A class on overeating and depression, which a lot of us suffer from, and the reason why a lot of us overeat. Let's go into the scriptures and talk about it.
+*[[0:14](https://www.youtube.com/watch?v=xYAx0fYIA4Y&t=14s)]* Shalom Israel. Most high and Christ bless. It's Captain Zakar. This is another 15 minutes with a captain. So today is going to be about don't eat your emotions. A class on overeating and depression, which a lot of us suffer from, and the reason why a lot of us overeat. Let's go into the scriptures and talk about it.
 
 ## Scriptures Opened
 

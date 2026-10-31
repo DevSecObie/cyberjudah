@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "the-word", "wisdom"]
 
 ## Introduction
 
-*[[4:51](https://www.youtube.com/watch?v=8bjTBsELxFE&t=291s)]* All praise to the Most High. All right. So, again, welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah. Got Officer John reading. And we're continuing 1 Corinthians the 12th chapter today. Before I started the lesson, I was actually reviewing Captain Zakai's lesson from Friday, I believe. So, if y'all didn't check that out, y'all definitely go check that out. You know what? Give me Nehemiah 8:8 first, and then we'll come to this.
+*[[4:51](https://www.youtube.com/watch?v=8bjTBsELxFE&t=291s)]* All praise to the Most High. All right. So, again, welcome back to another edition of Giving the Sense from A to Z. I'm your host for today, Captain Josiah. Got Officer John reading. And we're continuing 1 Corinthians the 12th chapter today. Before I started the lesson, I was actually reviewing Zakai's lesson from Friday, I believe. So, if y'all didn't check that out, y'all definitely go check that out. You know what? Give me Nehemiah 8:8 first, and then we'll come to this.
 
 ## Scriptures Opened
 
@@ -37,7 +37,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "the-word", "wisdom"]
 
 - Now, concerning spiritual gifts, brethren, I would not have you ignorant: So, he says, "I don't want y'all to be ignorant. Y'all know that y'all were Gentiles. Y'all were bugged out, carried away unto these dumb idols, even as you were led." These are Israelites.
 
-- Ye know that ye were Gentiles: Now, like I said, Captain Zakai went through verse 1 and 2 extensively, and dealt with the Gentiles. So, we're not going to cover that. Y'all got to go back and watch that lesson if y'all didn't already. Okay? These are Israelites here.
+- Ye know that ye were Gentiles: Now, like I said, Zakai went through verse 1 and 2 extensively, and dealt with the Gentiles. So, we're not going to cover that. Y'all got to go back and watch that lesson if y'all didn't already. Okay? These are Israelites here.
 
 - Carried away unto these dumb idols: So, verse 1 and 2 he says, "Y'all, I don't want y'all to be ignorant concerning spiritual gifts. Y'all know that y'all were Gentiles, carried away unto these dumb idols." It's like we all come in this truth with different spirits on us. Stuff we did in the world.
 

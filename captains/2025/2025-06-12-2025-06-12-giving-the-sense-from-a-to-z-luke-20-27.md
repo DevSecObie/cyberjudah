@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "salvation"]
 
 ## Introduction
 
-*[[9:53](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=593s)]* Welcome back to another a toz. All praises to the Lord. All praises to the Lord. Happy new moon. Happy new moon. All praises. Listen, man. We in the book of Luke. All praises. All right. We going to start in Luke. We in Luke 20, right? Luke chapter 20. And we're gonna try to get through this thing. And I believe we left off at verse 26. Captain Josiah I think left off at Luke 20 and 26. So we going to pick up at 27. All right. All praises to the most high. Hold on one second. Let's see. Make sure we got that right. Happy new moon. Happy new moon. Yep. Captain Zakai. Did I say Captain Zakai? All right. Captain Zakai. Yeah, he the one that left off. All right, so let's get it. Where we at? Luke 20 and 27. All right, let's read that.
+*[[9:53](https://www.youtube.com/watch?v=AWfPWwqdlUo&t=593s)]* Welcome back to another a toz. All praises to the Lord. All praises to the Lord. Happy new moon. Happy new moon. All praises. Listen, man. We in the book of Luke. All praises. All right. We going to start in Luke. We in Luke 20, right? Luke chapter 20. And we're gonna try to get through this thing. And I believe we left off at verse 26. Captain Josiah I think left off at Luke 20 and 26. So we going to pick up at 27. All right. All praises to the most high. Hold on one second. Let's see. Make sure we got that right. Happy new moon. Happy new moon. Yep. Zakai. Did I say Zakai? All right. Zakai. Yeah, he the one that left off. All right, so let's get it. Where we at? Luke 20 and 27. All right, let's read that.
 
 ## Scriptures Opened
 
