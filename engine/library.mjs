@@ -10,7 +10,7 @@
 //   data/handbook.json, data/precepts.json, data/cases.json         the reference works
 //   data/lexicon.tsv, data/topics.tsv                               encyclopedia terms, topic labels
 //   data/crossrefs.json                                             cross references
-import { loadClassMetadata, correctedClass } from "./class-metadata.mjs";
+import { loadClassMetadata, loadRankTeachers, namedTeacher, correctedClass } from "./class-metadata.mjs";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -72,7 +72,7 @@ function parseFrontmatter(text) {
 const tagList = (v) => [...String(v ?? "").matchAll(/"((?:[^"\\]|\\.)*)"/g)].map((m) => m[1].replace(/\\(["\\])/g, "$1"));
 
 export function loadLibrary(ROOT) {
-  const classMetadata = loadClassMetadata(ROOT);
+  const classMetadata = loadClassMetadata(ROOT), rankTeachers = loadRankTeachers(ROOT);
   const DATA = path.join(ROOT, "data");
   const DOCS = path.join(ROOT, "docs");
   const BLOG = path.join(ROOT, "blog");
@@ -301,7 +301,7 @@ export function loadLibrary(ROOT) {
       const h = HEAD.exec(raw);
       if (h) {
         flush(); closePassage(); opened = refOf(h[1], h[2], h[3], h[4]); ts = h[5] || ""; point = "";
-        const who = opened && TEACHERS[`${n.file}|${opened.label}`]; note = who ? { ...classNote, teacher: who } : classNote;
+        const who = opened && namedTeacher(TEACHERS[`${n.file}|${opened.label}`], n.videoId, rankTeachers); note = who ? { ...classNote, teacher: who } : classNote;
         video = /[?&]v=([\w-]{11})/.exec(h[6] || "")?.[1] ?? n.videoId ?? null;
         if (opened && ts && video) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses || "", label: n.title, url: n.url, date: n.date || "", teacher: note.teacher, video, t: secondsOf(ts), ts }); }
         passage = opened ? { book: opened.book, chapter: opened.chapter, verses: opened.verses || "", label: opened.label, url: opened.url, ts, video, t: ts ? secondsOf(ts) : 0, teacher: note.teacher || "", precepts: [], points: 0 } : null;
@@ -353,10 +353,10 @@ export function loadLibrary(ROOT) {
   for (const f of passFiles) {
     const c = correctedClass(JSON.parse(fs.readFileSync(path.join(passDir, f), "utf8")), classMetadata);
     if (!c.video || notedVideos.has(c.video)) continue;
-    const classNote = { label: c.title, url: `https://www.youtube.com/watch?v=${c.video}`, date: c.date || "", teacher: c.teacher || "" };
+    const classNote = { label: c.title, url: `https://www.youtube.com/watch?v=${c.video}`, date: c.date || "", teacher: namedTeacher(c.teacher || "", c.video, rankTeachers) };
     for (const p of c.passages ?? []) {
       const opened = refFrom(p.opened); if (!opened) continue;
-      const note = p.teacher ? { ...classNote, teacher: p.teacher } : classNote;
+      const note = p.teacher ? { ...classNote, teacher: namedTeacher(p.teacher, c.video, rankTeachers) } : classNote;
       const ts = p.ts || "", t = ts ? secondsOf(ts) : 0;
       if (ts) { const k = `${opened.book}|${opened.chapter}`; if (!moments.has(k)) moments.set(k, []); moments.get(k).push({ verses: opened.verses, label: c.title, url: note.url, date: note.date, teacher: note.teacher, video: c.video, t, ts }); }
       for (const s of p.sense ?? []) {

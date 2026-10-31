@@ -38,3 +38,13 @@ test('broadcast metadata preserves the teaching day and rejects malformed record
 test('the checked-in broadcast catalog is valid', () => {
   assert.ok(Object.keys(loadClassBroadcasts(new URL('..', import.meta.url).pathname)).length > 0);
 });
+test('a passage marked only by rank takes the confirmed name; named and other-rank passages keep theirs', async () => {
+  const { parseRankTeachers, namedTeacher, RANK_HEADER } = await import('./class-metadata.mjs');
+  const ranks = parseRankTeachers(`# note\n${RANK_HEADER}\n${video}\tBishop Yawasap\n`);
+  assert.equal(namedTeacher('Bishop', video, ranks), 'Bishop Yawasap');
+  assert.equal(namedTeacher('Deacon', video, ranks), 'Deacon');
+  assert.equal(namedTeacher('Bishop Nathanyel', video, ranks), 'Bishop Nathanyel');
+  assert.equal(namedTeacher('', video, ranks), '');
+  assert.equal(namedTeacher('Bishop', 'LMNOPQRSTUV', ranks), 'Bishop');
+  for (const text of ['video', `${RANK_HEADER}\n${video}\tYawasap`, `${RANK_HEADER}\n${video}\tBishop Kani\n${video}\tBishop Kani`, `${RANK_HEADER}\n../x\tBishop Kani`]) assert.throws(() => parseRankTeachers(text));
+});
