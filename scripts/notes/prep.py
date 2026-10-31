@@ -207,11 +207,28 @@ TEACHER_PATTERNS = [
     re.compile(rf"\b(?:it is|this is) {TITLE} ({NAME})\b", re.I),
     re.compile(rf"\b{TITLE} ({NAME}),? (?:and i|here with|coming to you)\b", re.I),
 ]
+_NAMES = None
+def official_name(name):
+    """The spelling data/names.tsv gives for a leader's name, or the name as heard."""
+    global _NAMES
+    if _NAMES is None:
+        _NAMES = {}
+        try:
+            for line in open(os.path.join(ROOT, "data", "names.tsv"), encoding="utf-8"):
+                cells = line.rstrip("\n").split("\t")
+                if len(cells) >= 2 and not line.startswith("#"):
+                    for variant in [cells[0], *cells[1].split(";")]:
+                        if variant.strip():
+                            _NAMES[variant.strip().lower()] = cells[0]
+        except OSError:
+            pass
+    return _NAMES.get(name.lower(), name)
+
 def teacher_of(text):
     for pat in TEACHER_PATTERNS:
         m = pat.search(text)
         if m:
-            return f"{m.group(1).capitalize()} {m.group(2)}", " ".join(m.group(0).split())
+            return official_name(f"{m.group(1).capitalize()} {m.group(2)}"), " ".join(m.group(0).split())
     return None, None
 
 # ---------------------------------------------------------------- condense

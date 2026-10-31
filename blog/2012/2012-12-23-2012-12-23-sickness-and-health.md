@@ -2,13 +2,13 @@
 title: "SICKNESS AND HEALTH"
 slug: "2012/2012-12-23-sickness-and-health"
 date: "2012-12-23"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-23 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "health"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-12-23 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2012-12-23 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Deut 28](/bible/deuteronomy/28) · [Exod 4](/bible/exodus/4) · [John 5](/bible/john/5) · [Lev 11](/bible/leviticus/11) · [John 9](/bible/john/9) · [Matt 9](/bible/matthew/9) · [Sir 30](/bible/sirach/30) · [Baruch 3](/bible/baruch/3) · [Sir 38](/bible/sirach/38) · [Ps 103](/bible/psalms/103) · [Heb 13](/bible/hebrews/13) · [2 Chr 16](/bible/2-chronicles/16) · [Job 13](/bible/job/13) · [Sir 31](/bible/sirach/31) · [2 Kgs 13](/bible/2-kings/13) · <i>and 3 more below</i></span>
 

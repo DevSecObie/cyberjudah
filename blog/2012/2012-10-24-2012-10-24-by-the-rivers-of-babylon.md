@@ -2,13 +2,13 @@
 title: "BY THE RIVERS OF BABYLON"
 slug: "2012/2012-10-24-by-the-rivers-of-babylon"
 date: "2012-10-24"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-10-24 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "unity"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Ps 137](/bible/psalms/137) · [Deut 28](/bible/deuteronomy/28) · [1 Kgs 8](/bible/1-kings/8) · [Jer 17](/bible/jeremiah/17) · [Dan 7](/bible/daniel/7) · [Rev 13](/bible/revelation/13) · [Ps 149](/bible/psalms/149) · [Amos 5](/bible/amos/5) · [Rev 15](/bible/revelation/15) · [Ezek 3](/bible/ezekiel/3) · [Obad 1](/bible/obadiah/1) · [Zech 2](/bible/zechariah/2) · [Isa 13](/bible/isaiah/13) · [Rev 18](/bible/revelation/18)</span>
 

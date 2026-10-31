@@ -2,13 +2,13 @@
 title: "THE TRUTH BEHIND CHRISTMAS AND NEW YEARS"
 slug: "2012/2012-12-24-the-truth-behind-christmas-and-new-years"
 date: "2012-12-24"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-24 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "america-babylon", "captivity", "christ", "passover-feasts", "satan"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-12-24 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2012-12-24 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Ps 64](/bible/psalms/64) · [Gen 10](/bible/genesis/10) · [Ezek 8](/bible/ezekiel/8) · [Jer 10](/bible/jeremiah/10) · [Rev 11](/bible/revelation/11) · [Luke 2](/bible/luke/2) · [Matt 2](/bible/matthew/2) · [Deut 16](/bible/deuteronomy/16) · [Exod 12](/bible/exodus/12) · [Dan 7](/bible/daniel/7) · [Isa 14](/bible/isaiah/14) · [Deut 28](/bible/deuteronomy/28) · [Isa 29](/bible/isaiah/29) · [Col 2](/bible/colossians/2) · [Titus 1](/bible/titus/1) · <i>and 2 more below</i></span>
 

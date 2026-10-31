@@ -11,3 +11,16 @@ only "Bishop", so the reader can show each Bishop's teaching under his own name.
   edited.
 - Built data: no entry is left under a bare "Bishop" (was 3,205). Bishop Nathanyel 11,997 -> 14,761
   entries, Bishop Yawasap 578 -> 907, Bishop Kani 1,222 -> 1,334.
+
+# Elder Nathanyel is named Bishop Nathanyel
+
+Obie (2026-10-31): "name him Bishop Nathanyel and not Elder".
+
+- 19 notes from 2012-2013: the `teacher` front matter and the "taught" byline say Bishop Nathanyel.
+  Nothing in the notes' text changes (none of them quotes "Elder Nathanyel").
+- `data/precepts/teachers.json` (48 passages) and `data/precepts/readings/videos.json` (15 videos
+  heard as "Elder Nathaniel") say Bishop Nathanyel.
+- `data/names.tsv`: Elder Nathanyel/Nathaniel/Nathanael become variants of Bishop Nathanyel, and
+  `scripts/notes/prep.py` `teacher_of` now returns the names.tsv spelling, so a rebuilt readings file
+  or a new note does not bring the old name back.
+- Built data: Bishop Nathanyel 14,761 -> 15,829 entries; no "Elder Nathanyel" left.

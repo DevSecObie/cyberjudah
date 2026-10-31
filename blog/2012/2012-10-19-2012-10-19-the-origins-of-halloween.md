@@ -2,13 +2,13 @@
 title: "THE ORIGINS OF HALLOWEEN"
 slug: "2012/2012-10-19-the-origins-of-halloween"
 date: "2012-10-19"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-10-19 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "angels", "women"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-10-19 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2012-10-19 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Deut 32](/bible/deuteronomy/32) · [Isa 29](/bible/isaiah/29) · [Lev 18](/bible/leviticus/18) · [Exod 22](/bible/exodus/22) · [Deut 18](/bible/deuteronomy/18) · [1 Sam 28](/bible/1-samuel/28) · [Acts 16](/bible/acts/16) · [Acts 19](/bible/acts/19) · [Deut 10](/bible/deuteronomy/10) · [Deut 22](/bible/deuteronomy/22) · [Zeph 1](/bible/zephaniah/1) · [2 Cor 6](/bible/2-corinthians/6) · [Rev 18](/bible/revelation/18)</span>
 

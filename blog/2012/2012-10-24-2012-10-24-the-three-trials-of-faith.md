@@ -2,13 +2,13 @@
 title: "THE THREE TRIALS OF FAITH"
 slug: "2012/2012-10-24-the-three-trials-of-faith"
 date: "2012-10-24"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-10-24 · with Deacon Asaph"
 tags: ["IUIC in the ClassRoom", "adversity", "endurance", "faith", "marriage-family", "the-body"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Elder Nathanyel, with Deacon Asaph</p>
+<p class="taught">The Truth Shall Make You Free · 2012-10-24 · Bishop Nathanyel, with Deacon Asaph</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [Luke 4](/bible/luke/4) · [Sir 2](/bible/sirach/2) · [1 Pet 4](/bible/1-peter/4) · [Lev 19](/bible/leviticus/19) · [1 Cor 10](/bible/1-corinthians/10) · [James 1](/bible/james/1) · [Rom 5](/bible/romans/5) · [Sir 1](/bible/sirach/1) · [Job 1](/bible/job/1) · [Rom 7](/bible/romans/7) · [Matt 19](/bible/matthew/19) · [1 Cor 7](/bible/1-corinthians/7) · [Eph 5](/bible/ephesians/5) · [Sir 25](/bible/sirach/25) · [Sir 26](/bible/sirach/26) · <i>and 4 more below</i></span>
 

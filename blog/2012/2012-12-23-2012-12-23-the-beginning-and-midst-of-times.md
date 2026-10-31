@@ -2,13 +2,13 @@
 title: "THE BEGINNING AND MIDST OF TIMES"
 slug: "2012/2012-12-23-the-beginning-and-midst-of-times"
 date: "2012-12-23"
-teacher: "Elder Nathanyel"
+teacher: "Bishop Nathanyel"
 collection: "The Truth Shall Make You Free"
 description: "The Truth Shall Make You Free · 2012-12-23"
 tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages"]
 ---
 
-<p class="taught">The Truth Shall Make You Free · 2012-12-23 · Elder Nathanyel</p>
+<p class="taught">The Truth Shall Make You Free · 2012-12-23 · Bishop Nathanyel</p>
 
 <span class="opens"><b>Opens</b> [John 8](/bible/john/8) · [2 Esdras 14](/bible/2-esdras/14) · [Wis 7](/bible/wisdom-of-solomon/7) · [Gen 1](/bible/genesis/1) · [2 Esdras 6](/bible/2-esdras/6) · [Job 40](/bible/job/40) · [Mal 1](/bible/malachi/1) · [Gen 36](/bible/genesis/36) · [Job 30](/bible/job/30) · [Obad 1](/bible/obadiah/1) · [Luke 4](/bible/luke/4) · [Rev 13](/bible/revelation/13) · [Job 9](/bible/job/9) · [1 Macc 3](/bible/1-maccabees/3) · [Deut 7](/bible/deuteronomy/7)</span>
 
