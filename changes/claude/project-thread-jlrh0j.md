@@ -1,3 +1,3 @@
 - Class notes for "Sabbath Afternoon Class: Betrayers & Secret Admirers" (Bishop Kani, 2021-08-14), in the class's own order: Wisdom of Solomon 2, Genesis 3, Galatians 5, Korah's rebellion in Numbers 16, Romans 16 and 12, Song of Solomon 8, Cain and Abel, 2 Esdras 16:49, 1 John 3, James 3 and 4, Saul's envy of David in 1 Samuel 15 to 18, Jeremiah 9:4, and Simon, Jason and Menelaus in 2 Maccabees 3 and 4.
-- Precept pass for the same class: data/precepts/classes/qe6mEXTfkPc.json.
+- The precept pass for this class follows in its own PR (CI requires a precept pass to be alone in its PR).
 - The class is dated 2021-08-14 (its YouTube live date) and filed under Bishop Kani (named on the class's YouTube page and called "Bishop" in the class): transcript date and slug, blog/channel-meta.tsv and data/sources/class-teachers.tsv updated.
