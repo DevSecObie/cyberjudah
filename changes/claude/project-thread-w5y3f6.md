@@ -1,0 +1,3 @@
+- Class notes for the 2026-10-31 Sabbath classes on IUICintheClassRoom, verbatim in class order: Christianity & the Creation of Criminals (Captain Yahn); Race Matters: We Shall Remember Ourselves (Deacon Eythan); The Willful Neglect of Our Shepherds & Pastors (Bishop Yawasap); The Curse of Dependency for the Want of All Things (Bishop Kani).
+- Dated the three undated transcripts and channel-meta rows (2026-10-31, the live date).
+- Precept breakdowns (why.json, the teacher's own words on each precept) and verse picks (at.json) for the new notes' precepts, so the reader shows them with breakdowns.
