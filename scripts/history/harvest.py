@@ -28,7 +28,7 @@ from urllib.request import Request, urlopen
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from ingest import FEEDS
-from broadcasts import RELATIVE_PATH as BROADCASTS_PATH, record_broadcast
+from broadcasts import RELATIVE_PATH as BROADCASTS_PATH, backfill as backfill_broadcasts, record_broadcast
 
 BASE_URL = "https://transcriptapi.com/api/v2"
 API_KEY_ENV = ("TRANSCRIPTAPI_KEY", "TRANSCRIPT_API_KEY", "TRANSCRIPTAPI_API_KEY")
@@ -565,6 +565,14 @@ def main():
 
         if a.push and (added or nosub):
             commit_and_push(ROOT, fdir, tdir, nocap, agegate, meta_all, added, nosub, a.feed)
+
+    if a.feed == "classes":
+        since = (datetime.now(timezone.utc) - timedelta(days=60)).date().isoformat()
+        filled = backfill_broadcasts(ROOT, tdir, since)
+        if filled:
+            print(f"broadcast starts recorded for {len(filled)} dated classes: {' '.join(filled)}", flush=True)
+            if a.push:
+                commit_and_push(ROOT, fdir, tdir, nocap, agegate, meta_all, [], 0, a.feed)
 
     print(f"done: {got} archived, {nosub} without captions or age-restricted, {failed} failed; {len(todo) - got - nosub - failed} untouched", flush=True)
 

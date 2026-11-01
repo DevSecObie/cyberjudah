@@ -55,3 +55,30 @@ def record_broadcast(root, video, teaching_date):
     temporary.write_text(json.dumps(dict(sorted(rows.items())), indent=2) + "\n")
     temporary.replace(file)
     return True
+
+
+
+def backfill(root, tdir, since, tries=20):
+    """Record the broadcast start of dated class transcripts that have none yet.
+
+    A transcript archived undated gets its date later, by hand, so the harvest's own
+    record_broadcast call skipped it, and the class lists fell back to title order within
+    its day. Only transcripts dated on or after `since` are tried, newest first, and at most
+    `tries` pages a run: an upload that was never live has no start and is never recorded."""
+    file = Path(root) / RELATIVE_PATH
+    rows = json.loads(file.read_text()) if file.exists() else {}
+    dated = []
+    for path in Path(tdir).glob("*.json"):
+        if path.stem in rows:
+            continue
+        try:
+            day = json.loads(path.read_text()).get("date")
+        except (OSError, ValueError):
+            continue
+        if isinstance(day, str) and day >= since:
+            dated.append((day, path.stem))
+    recorded = []
+    for day, video in sorted(dated, reverse=True)[:tries]:
+        if record_broadcast(root, video, day):
+            recorded.append(video)
+    return recorded
