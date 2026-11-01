@@ -977,7 +977,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 - Now I'm asking you all, and I'm being serious right now: is there any of you right now confused about Christ being written throughout the whole Bible? I'm asking you online too. Is there anybody that's still not convinced that Christ is throughout the volume of the book? Everybody's clear? All praise then. If you love me, keep his commandments. But we going to end on this.
 
 
-**[Genesis 5:4,6,9,12,15,18,21,25,29](/bible/genesis/5#v4)**  *[[2:11:36](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7896s)]*
+**[Genesis 5:4,6,9,12,15,18,21,25,29](/bible/genesis/5#v4)**  *[[2:12:44](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7964s)]*
 
 > <sup>[4](/bible/genesis/5#v4)</sup> And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:
 >
