@@ -323,7 +323,12 @@ export function loadLibrary(ROOT) {
   // the Telegram app orders them, shared/teaching-order.mjs). A class with no recorded
   // broadcast start follows that day's broadcasts, by title.
   const broadcasts = loadClassBroadcasts(ROOT);
-  const liveAt = (n) => Date.parse(broadcasts[n.videoId]?.broadcastAt ?? "");
+  // A note without a video mount names its class only by its artwork, class-<id>.jpg (lower case).
+  const broadcastOf = new Map(Object.entries(broadcasts).map(([id, row]) => [id.toLowerCase(), row]));
+  const liveAt = (n) => {
+    const id = n.videoId ?? /\/class-images\/class-([a-z0-9_-]{11})\.jpg/.exec(n.body ?? "")?.[1];
+    return Date.parse(broadcastOf.get(id?.toLowerCase())?.broadcastAt ?? "");
+  };
   const byBroadcast = (a, b) => {
     const x = liveAt(a), y = liveAt(b);
     return Number.isFinite(x) && Number.isFinite(y) ? y - x : Number.isFinite(x) ? -1 : Number.isFinite(y) ? 1 : 0;

@@ -1,5 +1,6 @@
 """Preserve actual YouTube broadcast starts, independently of upload timestamps."""
 import json
+import random
 import re
 import subprocess
 from datetime import date, datetime, timezone
@@ -63,8 +64,8 @@ def backfill(root, tdir, since, tries=20):
 
     A transcript archived undated gets its date later, by hand, so the harvest's own
     record_broadcast call skipped it, and the class lists fell back to title order within
-    its day. Only transcripts dated on or after `since` are tried, newest first, and at most
-    `tries` pages a run: an upload that was never live has no start and is never recorded."""
+    its day. Only transcripts dated on or after `since` are tried, at most `tries` pages a
+    run: an upload that was never live has no start and is never recorded."""
     file = Path(root) / RELATIVE_PATH
     rows = json.loads(file.read_text()) if file.exists() else {}
     dated = []
@@ -77,8 +78,13 @@ def backfill(root, tdir, since, tries=20):
             continue
         if isinstance(day, str) and day >= since:
             dated.append((day, path.stem))
+    # The newest half of the tries go to the newest classes; the rest to a random draw of the
+    # older ones, so uploads that never went live cannot starve older classes of a try.
+    dated.sort(reverse=True)
+    newest = tries // 2
+    picked = dated[:newest] + random.sample(dated[newest:], min(tries - newest, len(dated[newest:])))
     recorded = []
-    for day, video in sorted(dated, reverse=True)[:tries]:
+    for day, video in picked:
         if record_broadcast(root, video, day):
             recorded.append(video)
     return recorded

@@ -57,9 +57,8 @@ class BroadcastTests(unittest.TestCase):
                 (tdir / f"{video}.json").write_text(json.dumps({"videoId": video, "date": day}))
             response = subprocess.CompletedProcess([], 0, page(), '')
             with patch("broadcasts.subprocess.run", return_value=response) as fetch:
-                self.assertEqual(backfill(root, tdir, "2026-09-01", tries=1), [])
-                self.assertIn("newerVid001", fetch.call_args[0][0][-1])
                 self.assertEqual(backfill(root, tdir, "2026-09-01", tries=2), [VIDEO])
+                self.assertEqual([c[0][0][-1][-11:] for c in fetch.call_args_list], ["newerVid001", VIDEO])
             self.assertIn(VIDEO, json.loads((Path(root) / RELATIVE_PATH).read_text()))
 
 
