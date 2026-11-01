@@ -127,3 +127,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Luke 5:1 (2025-02-13, host unnamed: heard as "Captain yah" and "captain die"), 4:12 (2025-02-06, Captain Matt), 3:24 and 3:17 (2025-02-04, Captain Gedaliah, heard as "Captain Galah, IUIC Raleigh North Carolina"), 2:35 (2025-01-30, Captain Matt) and 2:9 (2025-01-29, Zakai). The 2025-02-04 class went out as two uploads, so each part has its own note; part 1 stops mid-sentence and has no In Closing.
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Teachers for 46 unnamed captains classes
+
+- Obie 2026-10-31 named the hosts of 46 captains notes that had a blank teacher, from a page of their thumbnails. The teacher field now carries his answer: Captain Horeb (12), Captain Uri (5), Zakai (5), Captain Nahshon (3), Captain Jeroham (3), Captain Neariah (2), Captain Matt (2), Deacon Isaac (2), and one each for Captain Banqanayah, Shaphal, Joel, Laqach, Amaziah, Yadon, Aryeh, Yadayah, Naam, Gedaliah, Tazayawan and Hoshayah.
+- He also confirmed the 2025-05-13 Prodigal Son class is Captain Zakar, which the note already says.

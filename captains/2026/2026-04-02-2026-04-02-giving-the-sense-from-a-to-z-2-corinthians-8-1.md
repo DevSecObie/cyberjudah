@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 8:1"
 slug: "2026/2026-04-02-giving-the-sense-from-a-to-z-2-corinthians-8-1"
 date: "2026-04-02"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2026-04-02"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "false-religion", "leadership"]

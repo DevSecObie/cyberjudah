@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Colossians 1:17"
 slug: "2025/2025-07-24-giving-the-sense-from-a-to-z-colossians-1-17"
 date: "2025-07-24"
-teacher: ""
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-07-24"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "the-word"]

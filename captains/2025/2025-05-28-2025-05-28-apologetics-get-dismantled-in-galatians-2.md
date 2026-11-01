@@ -2,7 +2,7 @@
 title: "Apologetics Get Dismantled In Galatians 2"
 slug: "2025/2025-05-28-apologetics-get-dismantled-in-galatians-2"
 date: "2025-05-28"
-teacher: ""
+teacher: "Captain Tazayawan"
 description: "15 Minutes w/ The Captains · 2025-05-28"
 tags: ["15 Minutes w/ The Captains", "captivity", "christ", "faith", "salvation"]
 ---

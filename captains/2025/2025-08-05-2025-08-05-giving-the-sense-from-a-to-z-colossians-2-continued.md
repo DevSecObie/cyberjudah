@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Colossians 2 Continued"
 slug: "2025/2025-08-05-giving-the-sense-from-a-to-z-colossians-2-continued"
 date: "2025-08-05"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2025-08-05"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "purpose", "the-word"]

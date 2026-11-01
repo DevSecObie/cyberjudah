@@ -2,7 +2,7 @@
 title: "Do You Actually Understand Unity"
 slug: "2026/2026-02-18-do-you-actually-understand-unity"
 date: "2026-02-18"
-teacher: ""
+teacher: "Captain Joel"
 description: "15 Minutes w/ The Captains · 2026-02-18"
 tags: ["15 Minutes w/ The Captains", "betrayal", "discipline", "mental-health", "pride", "unity"]
 ---

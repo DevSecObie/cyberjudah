@@ -2,7 +2,7 @@
 title: "No Shortcuts In Wisdom"
 slug: "2026/2026-06-12-no-shortcuts-in-wisdom"
 date: "2026-06-12"
-teacher: ""
+teacher: "Captain Horeb"
 description: "15 Minutes w/ The Captains · 2026-06-12"
 tags: ["15 Minutes w/ The Captains", "wisdom"]
 ---

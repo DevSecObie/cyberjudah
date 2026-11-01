@@ -2,7 +2,7 @@
 title: "Contradict This: Does God Tempt Us to Sin"
 slug: "2020/2020-07-11-contradict-this-does-god-tempt-us-to-sin"
 date: "2020-07-11"
-teacher: ""
+teacher: "Captain Hoshayah"
 description: "Contradict This · 2020-07-11"
 collection: "Contradict This"
 tags: ["15 Minutes w/ The Captains", "angels"]

@@ -2,7 +2,7 @@
 title: "Christ Died For The Whole World"
 slug: "2025/2025-11-28-christ-died-for-the-whole-world"
 date: "2025-11-28"
-teacher: ""
+teacher: "Captain Amaziah"
 description: "15 Minutes w/ The Captains · 2025-11-28"
 tags: ["15 Minutes w/ The Captains", "christ", "salvation", "the-americas", "the-law"]
 ---

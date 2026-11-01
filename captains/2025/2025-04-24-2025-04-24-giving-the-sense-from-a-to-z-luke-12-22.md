@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 12:22"
 slug: "2025/2025-04-24-giving-the-sense-from-a-to-z-luke-12-22"
 date: "2025-04-24"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2025-04-24"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "mental-health"]

@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Ezekiel 2 Continued"
 slug: "2026/2026-06-01-giving-the-sense-from-a-to-z-ezekiel-2-continued"
 date: "2026-06-01"
-teacher: ""
+teacher: "Captain Uri"
 description: "Giving The Sense From A to Z · 2026-06-01"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "the-word"]

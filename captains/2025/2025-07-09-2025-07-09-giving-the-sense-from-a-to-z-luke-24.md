@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 24"
 slug: "2025/2025-07-09-giving-the-sense-from-a-to-z-luke-24"
 date: "2025-07-09"
-teacher: ""
+teacher: "Zakai"
 description: "Giving The Sense From A to Z · 2025-07-09"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "betrayal", "christ"]

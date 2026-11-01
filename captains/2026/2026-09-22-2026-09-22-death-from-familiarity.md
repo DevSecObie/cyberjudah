@@ -2,7 +2,7 @@
 title: "Death From Familiarity"
 slug: "2026/2026-09-22-death-from-familiarity"
 date: "2026-09-22"
-teacher: ""
+teacher: "Captain Horeb"
 description: "15 Minutes w/ The Captains · 2026-09-22"
 tags: ["15 Minutes w/ The Captains", "christ", "health", "prophecy", "substance-abuse"]
 ---

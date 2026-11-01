@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 2:9"
 slug: "2025/2025-09-04-giving-the-sense-from-a-to-z-1-corinthians-2-9"
 date: "2025-09-04"
-teacher: ""
+teacher: "Captain Matt"
 description: "Giving The Sense From A to Z · 2025-09-04"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "mental-health", "the-law", "the-word", "wisdom"]
