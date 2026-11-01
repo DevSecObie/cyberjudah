@@ -150,3 +150,9 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Batch 24 hosts named
 
 - Obie 2026-11-01 named the five batch 24 hosts: Revelation 21:9 (2025-01-01, "Captain Gia") and 20:1 (2024-12-17, "Captain G") are Captain Gedaliah, 20:11 (2024-12-23, "Captain as right here") is Captain Azariah, and 20:5 (2024-12-18) is Zakai. "Captain Gia" is now a names.tsv spelling of Captain Gedaliah. Revelation 19:11 (2024-12-12) is Captain Gedaliah too.
+
+## Batch 25
+
+- Revelation 18:16 (2024-12-10, host heard as "Captain theb", left blank), 18:4 (2024-12-05, Captain Matthew, as he names himself), 17:13 (2024-12-04, Zakai, heard as "Captain Sakai", IUIC Sacramento), 17:1 (2024-12-02, Captain Azariah), 16:13 (2024-11-27, Captain Mattathias, heard as "Captain Matas") and 16:10 (2024-11-26, Captain Emmanuel).
+- The upload -JWQAqjc9WE is a sound check with no class, so it has no note.
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
