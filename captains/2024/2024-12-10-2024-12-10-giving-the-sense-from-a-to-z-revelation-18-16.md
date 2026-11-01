@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Revelation 18:16"
 slug: "2024/2024-12-10-giving-the-sense-from-a-to-z-revelation-18-16"
 date: "2024-12-10"
-teacher: ""
+teacher: "Captain Horeb"
 description: "Giving The Sense From A to Z · 2024-12-10"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "america-babylon", "edom-esau", "prophecy"]
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "edom-esau", "prophecy"]
 
 ## Introduction
 
-*[[2:09](https://www.youtube.com/watch?v=jTjmacbhQHg&t=129s)]* Shalom, shalom, shalom, Israel. Most High in Christ bless. Most High in Christ bless. Hey, I'm Captain theb, this is Giving the Sense. All praises to the Lord, man. Y'all see what it is, man. Happy feast, happy Feast of Dedication. All praises to the Most High God. Hey, we going to jump right into it. We still continuing on with the series of Giving the Sense, Revelations. We making our way through. Captain Matt, he just finished up Revelations 18:15, so all praises to the Lord. So that's where we going to start from. Let's read that and then we'll go into 16.
+*[[2:09](https://www.youtube.com/watch?v=jTjmacbhQHg&t=129s)]* Shalom, shalom, shalom, Israel. Most High in Christ bless. Most High in Christ bless. Hey, I'm Captain Horeb, this is Giving the Sense. All praises to the Lord, man. Y'all see what it is, man. Happy feast, happy Feast of Dedication. All praises to the Most High God. Hey, we going to jump right into it. We still continuing on with the series of Giving the Sense, Revelations. We making our way through. Captain Matt, he just finished up Revelations 18:15, so all praises to the Lord. So that's where we going to start from. Let's read that and then we'll go into 16.
 
 ## Scriptures Opened
 
