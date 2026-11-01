@@ -10,7 +10,7 @@
 //   data/handbook.json, data/precepts.json, data/cases.json         the reference works
 //   data/lexicon.tsv, data/topics.tsv                               encyclopedia terms, topic labels
 //   data/crossrefs.json                                             cross references
-import { loadClassMetadata, loadRankTeachers, namedTeacher, correctedClass } from "./class-metadata.mjs";
+import { loadClassMetadata, loadClassBroadcasts, loadRankTeachers, namedTeacher, correctedClass } from "./class-metadata.mjs";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -319,7 +319,21 @@ export function loadLibrary(ROOT) {
   }
 
   for (let i = 0; i < notes.length; i++) if (["class", "captains"].includes(notes[i].kind)) notes[i] = correctedClass(notes[i], classMetadata);
-  const sortDated = (list) => list.sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
+  // Newest first; within a day, in the order the classes were broadcast, the latest first (as
+  // the Telegram app orders them, shared/teaching-order.mjs). A class with no recorded
+  // broadcast start follows that day's broadcasts, by title.
+  const broadcasts = loadClassBroadcasts(ROOT);
+  // A note without a video mount names its class only by its artwork, class-<id>.jpg (lower case).
+  const broadcastOf = new Map(Object.entries(broadcasts).map(([id, row]) => [id.toLowerCase(), row]));
+  const liveAt = (n) => {
+    const id = n.videoId ?? /\/class-images\/class-([a-z0-9_-]{11})\.jpg/.exec(n.body ?? "")?.[1];
+    return Date.parse(broadcastOf.get(id?.toLowerCase())?.broadcastAt ?? "");
+  };
+  const byBroadcast = (a, b) => {
+    const x = liveAt(a), y = liveAt(b);
+    return Number.isFinite(x) && Number.isFinite(y) ? y - x : Number.isFinite(x) ? -1 : Number.isFinite(y) ? 1 : 0;
+  };
+  const sortDated = (list) => list.sort((a, b) => b.date.localeCompare(a.date) || byBroadcast(a, b) || a.title.localeCompare(b.title) || a.url.localeCompare(b.url));
   const studyBooks = [...new Set(notes.filter((n) => n.kind === "study").map((n) => n.book))].sort((a, b) => bookNum[a] - bookNum[b]);
   const studyNotes = studyBooks.flatMap((b) => notes.filter((x) => x.kind === "study" && x.book === b).sort((x, y) => x.chapters[0] - y.chapters[0]));
   const classNotes = sortDated(notes.filter((n) => n.kind === "class"));

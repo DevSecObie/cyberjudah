@@ -4,7 +4,7 @@ import unittest
 import subprocess
 from pathlib import Path
 from unittest.mock import patch
-from broadcasts import RELATIVE_PATH, parse_broadcast, record_broadcast
+from broadcasts import RELATIVE_PATH, backfill, parse_broadcast, record_broadcast
 
 VIDEO = "pZs5reAzxi4"
 
@@ -46,6 +46,20 @@ class BroadcastTests(unittest.TestCase):
                 self.assertFalse(record_broadcast(root, VIDEO, "2026-10-03"))
                 fetch.assert_called_once()
             self.assertEqual(json.loads((Path(root) / RELATIVE_PATH).read_text())[VIDEO]["broadcastAt"], "2026-10-03T21:56:00Z")
+
+    def test_backfill_tries_dated_classes_without_a_start_newest_first(self):
+        with tempfile.TemporaryDirectory() as root:
+            tdir = Path(root) / "transcripts"
+            tdir.mkdir()
+            (Path(root) / RELATIVE_PATH).parent.mkdir(parents=True)
+            (Path(root) / RELATIVE_PATH).write_text(json.dumps({"recordedAlr": {"date": "2026-10-03", "broadcastAt": "2026-10-03T12:00:00Z"}}))
+            for video, day in [(VIDEO, "2026-10-03"), ("recordedAlr", "2026-10-03"), ("undatedVid1", None), ("tooOldVid01", "2026-01-01"), ("newerVid001", "2026-10-04")]:
+                (tdir / f"{video}.json").write_text(json.dumps({"videoId": video, "date": day}))
+            response = subprocess.CompletedProcess([], 0, page(), '')
+            with patch("broadcasts.subprocess.run", return_value=response) as fetch:
+                self.assertEqual(backfill(root, tdir, "2026-09-01", tries=2), [VIDEO])
+                self.assertEqual([c[0][0][-1][-11:] for c in fetch.call_args_list], ["newerVid001", VIDEO])
+            self.assertIn(VIDEO, json.loads((Path(root) / RELATIVE_PATH).read_text()))
 
 
 if __name__ == "__main__":

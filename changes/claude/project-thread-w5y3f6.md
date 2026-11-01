@@ -1,3 +1,5 @@
 - Class notes for the 2026-10-31 Sabbath classes on IUICintheClassRoom, verbatim in class order: Christianity & the Creation of Criminals (Captain Yahn); Race Matters: We Shall Remember Ourselves (Deacon Eythan); The Willful Neglect of Our Shepherds & Pastors (Bishop Yawasap); The Curse of Dependency for the Want of All Things (Bishop Kani).
 - Dated the three undated transcripts and channel-meta rows (2026-10-31, the live date).
 - Precept breakdowns (why.json, the teacher's own words on each precept) and verse picks (at.json) for the new notes' precepts, so the reader shows them with breakdowns.
+- Class lists (site, /search/classes.json and captains.json, so also the app) show a day's classes in broadcast order, the latest broadcast first like the Telegram app, instead of by title. Uses the recorded broadcast starts in data/sources/class-broadcasts.json.
+- The transcript harvest now fills in missing broadcast starts for dated classes from the last 60 days (newest first, at most 20 page fetches a run). Classes archived undated and dated later by hand, like the four of 2026-10-31, never got a start before.
