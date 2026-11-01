@@ -132,3 +132,12 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Obie 2026-10-31 named the hosts of 46 captains notes that had a blank teacher, from a page of their thumbnails. The teacher field now carries his answer: Captain Horeb (12), Captain Uri (5), Zakai (5), Captain Nahshon (3), Captain Jeroham (3), Captain Neariah (2), Captain Matt (2), Deacon Isaac (2), and one each for Captain Banqanayah, Shaphal, Joel, Laqach, Amaziah, Yadon, Aryeh, Yadayah, Naam, Gedaliah, Tazayawan and Hoshayah.
 - He also confirmed the 2025-05-13 Prodigal Son class is Captain Zakar, which the note already says.
+
+## Ezekiel 1 (2026-05-27) is Captain Jeroham
+
+- Obie 2026-11-01: the 2026-05-27 Ezekiel 1 class is Captain Jeroham, not Captain Uri.
+
+## Batch 23
+
+- Luke 2:1 (2025-01-28, Captain Emmanuel), 1:57 (2025-01-16, Captain Matt, heard as "Captain mat"), 1:1 (2025-01-15, Zakai), Revelation 22:14 (2025-01-14, Captain Gedaliah), 22:10 (2025-01-08, Captain Mattathias, heard as "Captain Matas") and 22:1 (2025-01-06, Captain Emmanuel).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
