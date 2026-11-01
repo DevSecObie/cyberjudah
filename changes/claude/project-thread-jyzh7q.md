@@ -141,3 +141,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 
 - Luke 2:1 (2025-01-28, Captain Emmanuel), 1:57 (2025-01-16, Captain Matt, heard as "Captain mat"), 1:1 (2025-01-15, Zakai), Revelation 22:14 (2025-01-14, Captain Gedaliah), 22:10 (2025-01-08, Captain Mattathias, heard as "Captain Matas") and 22:1 (2025-01-06, Captain Emmanuel).
 - These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
+
+## Batch 24
+
+- Revelation 21:9 (2025-01-01, host heard as "Captain Gia"), 20:11 (2024-12-23, host unnamed), 20:5 (2024-12-18, host unnamed, IUIC Sacramento), 20:1 (2024-12-17, host heard as "Captain G"), 19:11 (2024-12-12, host unnamed) and 19:1 (2024-12-11, Captain Mattathias, heard as "Captain Matas"). Unclear hosts are left blank for Obie.
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
