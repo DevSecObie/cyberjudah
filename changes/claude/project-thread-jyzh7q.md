@@ -136,3 +136,8 @@ Notes for "Giving The Sense From A to Z", the captains channel's verse-by-verse 
 ## Ezekiel 1 (2026-05-27) is Captain Jeroham
 
 - Obie 2026-11-01: the 2026-05-27 Ezekiel 1 class is Captain Jeroham, not Captain Uri.
+
+## Batch 23
+
+- Luke 2:1 (2025-01-28, Captain Emmanuel), 1:57 (2025-01-16, Captain Matt, heard as "Captain mat"), 1:1 (2025-01-15, Zakai), Revelation 22:14 (2025-01-14, Captain Gedaliah), 22:10 (2025-01-08, Captain Mattathias, heard as "Captain Matas") and 22:1 (2025-01-06, Captain Emmanuel).
+- These notes follow the class order: news sits in Scriptures Opened at the moment the class played it.
