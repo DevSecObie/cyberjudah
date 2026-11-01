@@ -51,6 +51,16 @@ class CasesFromDraftsTests(unittest.TestCase):
         self.assertIsNone(new)
         self.assertIn("unknown chapters Genesis 999", problems)
 
+    def test_a_section_must_be_a_list_of_paragraphs(self):
+        bad = {**DRAFT, "sections": [["The Obedience", "First."], ["The Blessing", ["Third."]]]}
+        self.assertIsNone(drafts.apply(bad, CASE, LENGTHS)[0])
+
+    def test_invalid_verses_are_refused(self):
+        for cited in (["Genesis 2:0"], ["Genesis 2:30-31", "Psalm 23"], ["Genesis 2:9-7"]):
+            new, problems = drafts.apply({**DRAFT, "alsoCited": cited}, CASE, LENGTHS)
+            self.assertIsNone(new, cited)
+            self.assertTrue(any(p.startswith("invalid verses") for p in problems), cited)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -87,8 +87,11 @@ def apply(draft, case, lengths):
     for field, value in (("charge", charge), ("headnote", summary)):
         if not value:
             problems.append(f"no {field}")
-    sections = draft["sections"]
-    texts = [[typeset(p) for p in s[1]] for s in sections] if len(sections) == 2 else []
+    sections = draft.get("sections")
+    shaped = (isinstance(sections, list) and len(sections) == 2
+              and all(isinstance(s, list) and len(s) == 2 and isinstance(s[1], list)
+                      and all(isinstance(p, str) for p in s[1]) for s in sections))
+    texts = [[typeset(p) for p in s[1]] for s in sections] if shaped else []
     if not texts or not all(t and all(t) for t in texts):
         problems.append("expected two sections, every paragraph with text")
     refs, bad = book.refs_from(cited(draft))
@@ -97,6 +100,15 @@ def apply(draft, case, lengths):
     unknown = [r for r in refs if r["chapter"] not in lengths.get(r["book"], {})]
     if unknown:
         problems.append("unknown chapters " + ", ".join(f"{r['book']} {r['chapter']}" for r in unknown))
+    for r in refs:
+        last = lengths.get(r["book"], {}).get(r["chapter"])
+        if not last or not r.get("verses"):
+            continue
+        for part in r["verses"].split(","):
+            a, _, b = part.partition("-")
+            a, b = int(a), int(b or a)
+            if not 1 <= a <= last or b < a:  # an end past the last verse is trimmed by clamp
+                problems.append(f"invalid verses {r['book']} {r['chapter']}:{part}")
     refs = clamp(refs, lengths)
     if not refs:
         problems.append("no scripture cited")
