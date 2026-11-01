@@ -83,12 +83,20 @@ def apply(draft, case, lengths):
     verdict = book.VERDICTS.get(draft["disp"])
     if not verdict:
         problems.append(f"unknown disposition {draft['disp']!r}")
+    charge, summary = typeset(draft.get("charge", "")), typeset(draft.get("headnote", ""))
+    for field, value in (("charge", charge), ("headnote", summary)):
+        if not value:
+            problems.append(f"no {field}")
     sections = draft["sections"]
-    if len(sections) != 2 or not all(s[1] for s in sections):
-        problems.append("expected two sections with paragraphs")
+    texts = [[typeset(p) for p in s[1]] for s in sections] if len(sections) == 2 else []
+    if not texts or not all(t and all(t) for t in texts):
+        problems.append("expected two sections, every paragraph with text")
     refs, bad = book.refs_from(cited(draft))
     if bad:
         problems.append(f"unreadable scripture {bad}")
+    unknown = [r for r in refs if r["chapter"] not in lengths.get(r["book"], {})]
+    if unknown:
+        problems.append("unknown chapters " + ", ".join(f"{r['book']} {r['chapter']}" for r in unknown))
     refs = clamp(refs, lengths)
     if not refs:
         problems.append("no scripture cited")
@@ -96,11 +104,11 @@ def apply(draft, case, lengths):
         return None, problems
     out = dict(case)
     out.update({
-        "charge": typeset(draft["charge"]),
+        "charge": charge,
         "verdict": verdict,
-        "summary": typeset(draft["headnote"]),
-        "offenseFull": [typeset(p) for p in sections[0][1]],
-        "judgmentFull": [typeset(p) for p in sections[1][1]],
+        "summary": summary,
+        "offenseFull": texts[0],
+        "judgmentFull": texts[1],
         "refs": refs,
     })
     out["offense"] = out["offenseFull"][0]
@@ -123,9 +131,15 @@ def main(argv=None):
     by_code = {c["code"]: i for i, c in enumerate(data["cases"]) if c.get("code")}
     lengths = chapter_lengths()
     problems, changed, verdicts = [], [], []
-    for path in sorted(args.drafts.glob("C[0-9][0-9][0-9].json")):
+    paths = sorted(args.drafts.glob("C[0-9][0-9][0-9].json")) if args.drafts.is_dir() else []
+    if not paths:
+        sys.exit(f"no C###.json drafts in {args.drafts}")
+    for path in paths:
         draft = json.loads(path.read_text(encoding="utf-8"))
-        code = draft["code"]
+        code = draft.get("code")
+        if code != path.stem:
+            problems.append(f"{path.name}: its code is {code!r}, not {path.stem}")
+            continue
         if code in args.keep:
             continue
         if code not in by_code:

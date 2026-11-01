@@ -15,6 +15,9 @@ DRAFT = {
 CASE = {"slug": "x", "code": "C999", "name": "X", "era": "Primeval", "verdict": "curse", "laws": ["1A"], "topics": [], "relatedCases": []}
 
 
+LENGTHS = {"Genesis": {2: 25, 3: 24}, "Obadiah": {1: 21}, "Psalms": {23: 6}}
+
+
 class CasesFromDraftsTests(unittest.TestCase):
     def test_a_draft_replaces_the_text_and_keeps_the_panels(self):
         new, problems = drafts.apply(DRAFT, CASE, {"Genesis": {2: 25, 3: 24}, "Obadiah": {1: 21}, "Psalms": {23: 6}})
@@ -37,6 +40,16 @@ class CasesFromDraftsTests(unittest.TestCase):
         new, problems = drafts.apply({**DRAFT, "disp": "Pardoned"}, CASE, {})
         self.assertIsNone(new)
         self.assertTrue(problems)
+
+    def test_blank_text_is_refused(self):
+        blank = {**DRAFT, "sections": [["The Obedience", ["   "]], ["The Blessing", ["Third."]]]}
+        self.assertIsNone(drafts.apply(blank, CASE, LENGTHS)[0])
+        self.assertIsNone(drafts.apply({**DRAFT, "charge": "  "}, CASE, LENGTHS)[0])
+
+    def test_an_unknown_chapter_is_refused(self):
+        new, problems = drafts.apply({**DRAFT, "alsoCited": ["Genesis 999"]}, CASE, LENGTHS)
+        self.assertIsNone(new)
+        self.assertIn("unknown chapters Genesis 999", problems)
 
 
 if __name__ == "__main__":
