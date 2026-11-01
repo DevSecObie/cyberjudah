@@ -21,7 +21,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 ## Scriptures Opened
 
-**[Hebrews 10:7](/bible/hebrews/10#v7)**  *[[14:44](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=884s)]*
+**[Hebrews 10:7](/bible/hebrews/10#v7)**  *[[15:15](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=915s)]*
 
 > <sup>[7](/bible/hebrews/10#v7)</sup> Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
 
@@ -32,12 +32,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 - In the volume of the book: What book did Christ come in? What volume of the book is he referring to? Somebody said the whole Bible. Somebody said the Old Testament. Now what you said was correct, but I wanted what he said, because the New Testament wasn't written at that point. So when he said, Lo, I come in the volume of the book, he's referring to the Old Testament: Moses' writing, the prophets' writing, and the book what we call or they call the Apocrypha.
 
 - It is written of me: He said, I come in the volume of all those writings, because those writings testify of me. Testify of me means it speaks about me. He had to explain to the Hebrews so they understand that it does not matter what anybody says, I'm all over it.
-
-  Precepts:
-  - **[John 1:14](/bible/john/1#v14)**
-    > <sup>[14](/bible/john/1#v14)</sup> And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
-
-    The first answer a brother gave: the word made flesh. Very good.
 
 
 **[Psalms 40:7-8](/bible/psalms/40#v7)**  *[[17:20](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=1040s)]*
@@ -143,7 +137,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 - But if ye believe not his writings, how shall ye believe my words: So let me ask a question. If Moses wrote something on paper, when he wrote it, it became what? On a piece of paper, write down S T O P. I know what it spells. What is it? It's a word, right? So Moses wrote down words on a paper. Those words was Christ. How do we know that? Somebody said it earlier: John 1. Isaiah wrote words. Baruch wrote words. Wisdom of Solomon, David, Asaph, they wrote words. Look what the word is.
 
 
-**[John 1:1-3](/bible/john/1#v1)**  *[[29:28](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=1768s)]*
+**[John 1:1-3](/bible/john/1#v1)**  *[[30:23](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=1823s)]*
 
 > <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
 >
@@ -257,11 +251,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
     > <sup>[2](/bible/wisdom-of-solomon/7#v2)</sup> And in my mother’s womb was fashioned to be flesh in the time of ten months, being compacted in blood, of the seed of man, and the pleasure that came with sleep.
 
     So that was the flesh and blood he came in.
-  - **[John 6:63](/bible/john/6#v63)**
-    > <sup>[63](/bible/john/6#v63)</sup> It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
-
-    St. John 6:63 is what the spirit is. The spirit is the word of God.
-
 
 **[John 14:19](/bible/john/14#v19)**  *[[42:40](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=2560s)]*
 
@@ -591,7 +580,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 - When you read Isaiah 53, this is the scripture which Paul would have used to explain the Messiah being bruised, his head being bruised, he being the head, bruised for our sins. So back in Genesis the Messiah was being spoken of, in the laws of Moses.
 
 
-**[Genesis 3:15](/bible/genesis/3#v15)**  *[[1:21:38](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=4898s)]*
+**[Genesis 3:15](/bible/genesis/3#v15)**  *[[1:22:30](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=4950s)]*
 
 > <sup>[15](/bible/genesis/3#v15)</sup> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
 
@@ -714,7 +703,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 - And a King shall reign and prosper: And that king is Christ.
 
 
-**[Jeremiah 23:4](/bible/jeremiah/23#v4)**  *[[1:37:59](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=5879s)]*
+**[Jeremiah 23:4](/bible/jeremiah/23#v4)**  *[[1:38:38](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=5918s)]*
 
 > <sup>[4](/bible/jeremiah/23#v4)</sup> And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the Lord.
 
@@ -913,7 +902,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 >
 > <sup>[27](/bible/luke/24#v27)</sup> And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
 
-- O fools, and slow of heart to believe all that the prophets have spoken: You don't know that Christ had to suffer what he went through? Had you not read Psalms 22? Have you not read Isaiah 53? Have you not read Zechariah? Have you not read these things?
+- O fools, and slow of heart to believe all that the prophets have spoken: Damn, you slow of heart. You don't know that Christ had to suffer what he went through? Had you not read Psalms 22? Have you not read Isaiah 53? Have you not read Zechariah? Have you not read these things?
 
 - And beginning at Moses: And beginning from the time of Moses, Genesis 3. And all the prophets spoke about it.
 
@@ -944,7 +933,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 - And that repentance and remission of sins should be preached in his name among all nations: Why all nations? Had you searched the scriptures, you would have learned in Deuteronomy 20 and 64 we were going to be scattered in all nations. Had you read the prophecy, he told Abraham, in thee all nations are going to be blessed. Had you read the prophecy in Isaiah 11, I will be the ensign that will go out to all nations, from Egypt to Pathros to Ethiopia. Had you read Ezekiel 37, you would have learned that I'm going to gather together those that were scattered abroad. It was me that was going to go to the ends of the earth to bring this gospel. And guess how he was going to do it? By his shepherds, you men that going to travel the world and teach this word. By you IT men that broadcast this message to all our people scattered around the world.
 
-- And that's why I'm saying this to you apologists, apologetics, whatever you call it. That's why we don't entertain you. Your stuff is so very basic, trivial. I don't lose no sleep. I don't care what you think, cuz this ain't your book. And for you black coons that follow them, you go ahead and go die along with them. You ain't changing none of this. We ain't shook by you and we don't entertain you. Something with the white man think that we owe you an audience. We don't give a two damns what you think. And all you Israelites that go entertain them and debating with them, you a fool. Who the hell that cracker think he is? Old peckerwood. You will tell me in all God's creation this is the best that it is? This is the perfection of beauty? These are the children of God? Please. Recessive gene.
+- Not my Jesus. Sit your black ass, sit your black behind down. You don't know Bible. And that's why I'm saying this to you apologists, apologetics, whatever you call it. That's why we don't entertain you. Your stuff is so very basic, trivial. I don't lose no sleep. I don't care what you think, cuz this ain't your book. And for you black coons that follow them, you go ahead and go die along with them. You ain't changing none of this. We ain't shook by you and we don't entertain you. Something with the white man think that we owe you an audience. We don't give a two damns what you think. And all you Israelites that go entertain them and debating with them, you a fool. Who the hell that cracker think he is? Old peckerwood. You will tell me in all God's creation this is the best that it is? This is the perfection of beauty? These are the children of God? Please. Recessive gene.
 
 
 **[Galatians 1:11-12](/bible/galatians/1#v11)**  *[[2:05:49](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7549s)]*
@@ -960,7 +949,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 - For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ: The word revelation means the revealing of Christ. He said, I was taught this because Christ was revealed to me. So if Christ was revealed to him, where was Christ at to be revealed to him?
 
 
-**[Galatians 1:16](/bible/galatians/1#v16)**  *[[2:07:08](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7628s)]*
+**[Galatians 1:16](/bible/galatians/1#v16)**  *[[2:07:39](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7659s)]*
 
 > <sup>[16](/bible/galatians/1#v16)</sup> To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
 
@@ -988,52 +977,58 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 - Now I'm asking you all, and I'm being serious right now: is there any of you right now confused about Christ being written throughout the whole Bible? I'm asking you online too. Is there anybody that's still not convinced that Christ is throughout the volume of the book? Everybody's clear? All praise then. If you love me, keep his commandments. But we going to end on this.
 
 
-**[Genesis 5:3-4](/bible/genesis/5#v3)**  *[[2:11:45](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7905s)]*
+**[Genesis 5:4,6,9,12,15,18,21,25,29](/bible/genesis/5#v4)**  *[[2:11:36](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=7896s)]*
 
-> <sup>[3](/bible/genesis/5#v3)</sup> And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:
->
 > <sup>[4](/bible/genesis/5#v4)</sup> And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:
+>
+> <sup>[6](/bible/genesis/5#v6)</sup> And Seth lived an hundred and five years, and begat Enos:
+>
+> <sup>[9](/bible/genesis/5#v9)</sup> And Enos lived ninety years, and begat Cainan:
+>
+> <sup>[12](/bible/genesis/5#v12)</sup> And Cainan lived seventy years, and begat Mahalaleel:
+>
+> <sup>[15](/bible/genesis/5#v15)</sup> And Mahalaleel lived sixty and five years, and begat Jared:
+>
+> <sup>[18](/bible/genesis/5#v18)</sup> And Jared lived an hundred sixty and two years, and he begat Enoch:
+>
+> <sup>[21](/bible/genesis/5#v21)</sup> And Enoch lived sixty and five years, and begat Methuselah:
+>
+> <sup>[25](/bible/genesis/5#v25)</sup> And Methuselah lived an hundred eighty and seven years, and begat Lamech:
+>
+> <sup>[29](/bible/genesis/5#v29)</sup> And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed.
 
 - I need you all to follow along real quick. And everybody, I want you to write these down as we go through it.
 
-- And the days of Adam after he had begotten Seth: So Adam had a son by the name of Seth.
+- And the days of Adam after he had begotten Seth: So Adam had a son by the name of Seth. In the Hebrew, Adam means man, mankind.
+
+- And Seth lived an hundred and five years, and begat Enos: After Seth, he had a son by the name of Enos. Seth means appointed.
+
+- And Enos lived ninety years, and begat Cainan: After Enos, his son's name was Cainan. Enos means mortal.
+
+- And Cainan lived seventy years, and begat Mahalaleel: Then Cainan had a son by the name of Mahalaleel. Cainan means sorrow.
+
+- And Mahalaleel lived sixty and five years, and begat Jared: Mahalaleel had a son, Jared. Mahalaleel means the blessed God.
+
+- And Jared lived an hundred sixty and two years, and he begat Enoch: Jared had a son by the name of Enoch. Jared means he shall come down.
+
+- And Enoch lived sixty and five years, and begat Methuselah: He had a son by the name of Methuselah. Enoch means to train, or train in righteousness.
+
+- And Methuselah lived an hundred eighty and seven years, and begat Lamech: He had a son by the name of Lamech. Methuselah means when he dies, it shall come.
+
+- And he called his name Noah: Lamech had a son by the name of Noah. Lamech means despair, or sorrow. Noah means rest.
+
+- Give it to me in sentence form. Man is appointed to be mortal and have sorrow. The blessed God shall come down and train in righteousness. When he dies, then shall come despair and sorrow. Afterwards shall come comfort.
+
+- Cold-blooded, boy. What did Christ say? Hebrews 10:7: Then said I, Lo, I come in the volume of the book, it is written of me.
 
   Precepts:
-  - **[Genesis 5:6](/bible/genesis/5#v6)**
-    > <sup>[6](/bible/genesis/5#v6)</sup> And Seth lived an hundred and five years, and begat Enos:
+  - **[Hebrews 10:7](/bible/hebrews/10#v7)**
+    > <sup>[7](/bible/hebrews/10#v7)</sup> Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
 
-    After Seth, he had a son by the name of Enos.
-  - **[Genesis 5:9](/bible/genesis/5#v9)**
-    > <sup>[9](/bible/genesis/5#v9)</sup> And Enos lived ninety years, and begat Cainan:
-
-    After Enos, his son's name was Cainan.
-  - **[Genesis 5:12](/bible/genesis/5#v12)**
-    > <sup>[12](/bible/genesis/5#v12)</sup> And Cainan lived seventy years, and begat Mahalaleel:
-
-    Then Cainan had a son by the name of Mahalaleel.
-  - **[Genesis 5:15](/bible/genesis/5#v15)**
-    > <sup>[15](/bible/genesis/5#v15)</sup> And Mahalaleel lived sixty and five years, and begat Jared:
-
-    Mahalaleel had a son, Jared.
-  - **[Genesis 5:18](/bible/genesis/5#v18)**
-    > <sup>[18](/bible/genesis/5#v18)</sup> And Jared lived an hundred sixty and two years, and he begat Enoch:
-
-    Jared had a son by the name of Enoch.
-  - **[Genesis 5:21](/bible/genesis/5#v21)**
-    > <sup>[21](/bible/genesis/5#v21)</sup> And Enoch lived sixty and five years, and begat Methuselah:
-
-    He had a son by the name of Methuselah.
-  - **[Genesis 5:25](/bible/genesis/5#v25)**
-    > <sup>[25](/bible/genesis/5#v25)</sup> And Methuselah lived an hundred eighty and seven years, and begat Lamech:
-
-    He had a son by the name of Lamech.
-  - **[Genesis 5:29](/bible/genesis/5#v29)**
-    > <sup>[29](/bible/genesis/5#v29)</sup> And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed.
-
-    Lamech had a son by the name of Noah.
+    What did Christ say? Lo, I come in the volume of the book, it is written of me.
 
 
-**[Sirach 44:1-8](/bible/sirach/44#v1)**  *[[2:15:39](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=8139s)]*
+**[Sirach 44:1-8](/bible/sirach/44#v1)**  *[[2:16:19](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=8179s)]*
 
 > <sup>[1](/bible/sirach/44#v1)</sup> Let us now praise famous men, and our fathers that begat us.
 >
@@ -1051,7 +1046,7 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 >
 > <sup>[8](/bible/sirach/44#v8)</sup> There be of them, that have left a name behind them, that their praises might be reported.
 
-- Deacon Abbayael: Let us now praise famous men: If y'all watched my class, our forefathers are who we learn from. Our forefathers' examples, the things that they went through, is what we go through and see every day. Remember Romans 15 and 4: Whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope. We fall back on the things that our forefathers, our ancestors, went through, and we learn from it. And from these examples we see in the scriptures, we know how to move in our present day life.
+- Deacon Abbayael: Let us now praise famous men: If y'all watched my class, our forefathers are who we learn from. Our forefathers' examples, the things that they went through, is what we go through and see every day. Remember Romans 15 and 4: things written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope. We fall back on the things that our forefathers, our ancestors, went through, and we learn from it. And from these examples we see in the scriptures, we know how to move in our present day life.
 
 - Deacon Abbayael: And our fathers that begat us: So we praise famous men. Those famous men are our fathers that came before us and showed us the way. Even through their mistakes, they showed us how to live.
 
@@ -1059,30 +1054,11 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "the-word"]
 
 - Deacon Abbayael: There be of them, that have left a name behind them, that their praises might be reported: So understand what the Bishop is touching on. Our forefathers, our ancestors, left a name behind them. And that name, their life, is a testimony to us as far as what we're going through, what we experience, and how we're to move.
 
-- All right, thank you. I hope y'all took notes on what he just said, cuz it ties into what we're about to talk about.
-
   Precepts:
   - **[Romans 15:4](/bible/romans/15#v4)**
     > <sup>[4](/bible/romans/15#v4)</sup> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 
     Deacon Abbayael: Things written aforetime were written for our learning. We fall back on the things that our forefathers went through, and we learn from it.
-
-
-**[Genesis 5:29](/bible/genesis/5#v29)**  *[[2:18:52](https://www.youtube.com/watch?v=3gCB2OjDOv8&t=8332s)]*
-
-> <sup>[29](/bible/genesis/5#v29)</sup> And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed.
-
-- So the first name is what? Adam. Give me the Hebrew for Adam: man, mankind. Seth: appointed. Enos: mortal. Cainan: sorrow. Mahalaleel: the blessed God. Jared: he shall come down. Enoch: to train, or train in righteousness. Methuselah: when he dies, it shall come. Lamech: despair, or sorrow. Noah: rest.
-
-- Give it to me in sentence form. Man is appointed to be mortal and have sorrow. The blessed God shall come down and train in righteousness. When he dies, then shall come despair and sorrow. Afterwards shall come comfort.
-
-- Cold-blooded, boy. What did Christ say? Hebrews 10:7: Then said I, Lo, I come in the volume of the book, it is written of me.
-
-  Precepts:
-  - **[Hebrews 10:7](/bible/hebrews/10#v7)**
-    > <sup>[7](/bible/hebrews/10#v7)</sup> Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
-
-    What did Christ say? Lo, I come in the volume of the book, it is written of me.
 
 
 ## Class Questions
