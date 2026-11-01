@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { appLink, launchPath, pathToStartParam, sitePathOf, startParamToPath, toAppPath } from "../src/lib/telegram-links.mjs";
+import { appLink, frontDoorPath, launchPath, pathToStartParam, sitePathOf, startParamToPath, toAppPath } from "../src/lib/telegram-links.mjs";
 
 test("start params open the page they name", () => {
   assert.equal(startParamToPath(""), "/");
@@ -62,4 +62,24 @@ test("Telegram launches land on the app's screens", () => {
   assert.equal(launchPath("john_3_16"), "/app/read/john/3?v=16");
   assert.equal(launchPath("classes_2026_x"), "/app/note/classes/2026/x");
   assert.equal(launchPath("law"), "/law");
+});
+
+test("the front door sends every page the app shows to the app", () => {
+  assert.equal(frontDoorPath("/"), "/app");
+  assert.equal(frontDoorPath("/bible/john/3?v=16"), "/app/read/john/3?v=16");
+  assert.equal(frontDoorPath("/classes/2026/x"), "/app/note/classes/2026/x");
+  assert.equal(frontDoorPath("/precepts"), "/app/precepts");
+  assert.equal(frontDoorPath("/precepts/the-sabbath"), "/app/precepts/the-sabbath");
+  assert.equal(frontDoorPath("/doctrine/trinity"), "/app/doctrine/trinity");
+  assert.equal(frontDoorPath("/cases/captivity/x"), "/app/cases/captivity/x");
+  assert.equal(frontDoorPath("/law/1/a"), "/app/law/1/a");
+  assert.equal(frontDoorPath("/concordance/genesis"), "/app/concordance/genesis");
+  assert.equal(frontDoorPath("/dictionary/aaron"), "/app/dictionary/aaron");
+  assert.equal(frontDoorPath("/glossary"), "/app/glossary");
+  assert.equal(frontDoorPath("/classes/2026/x?t=95&from=/bible/john/3"), "/app/note/classes/2026/x?t=95&from=/bible/john/3");
+  assert.equal(frontDoorPath("/study/john/3#john-3-16"), "/app/note/study/john/3#john-3-16");
+  // No app screen: the website keeps these.
+  for (const path of ["/app", "/app/read/john/3", "/study/john", "/about", "/teachings", "/shows/x", "/giving-the-sense", "/downloads", "/api", "/robots.txt", "/sitemap.xml", "/assets/x.js", "/cases/x", "/glossary/x", "/doctrine/A%20B"]) {
+    assert.equal(frontDoorPath(path), null, path);
+  }
 });
