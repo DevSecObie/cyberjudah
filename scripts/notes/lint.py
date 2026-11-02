@@ -205,6 +205,12 @@ def lint(path):
     for m in sorted({m.group(0) for m in re.finditer(r"\[(?: __ |bleeped|inaudible|unclear|music)\]", body, re.I)}):
         E.append(f"{rel}: marker {m} -- a word that cannot be heard is simply left out")
 
+    # A note is a study guide of what was taught, not a transcript: his coaching of the reader
+    # and the screen ("Go ahead", "Give me the next one", "Put it on the screen") is cut.
+    cues = re.findall(r"\b(?:give me the next (?:one|picture|page|video)|put (?:it|that|me) on the screen|read (?:that|it) again|read on,|go ahead,? (?:yuri|uri|read))\b", prose, re.I)
+    if len(cues) >= 5:
+        W.append(f"{rel}: reads like a transcript ({len(cues)} cues to the reader or screen kept, e.g. {cues[0]!r}) -- cut to the point")
+
     # ---- names ----
     for name, pat in NAMES:
         hits = sorted({m.group(0) for m in pat.finditer(text)})
