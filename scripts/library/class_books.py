@@ -16,6 +16,7 @@ where the book can be read in full and the moments the classes spoke about it:
 The sources come from data/library-sources.tsv; the moments from dist/books.json.
 """
 import argparse
+import html
 import json
 import re
 import sys
@@ -71,10 +72,10 @@ def moment(m):
     hit = YOUTUBE.search(m.get("url") or "")
     if not hit:
         return None
-    text = re.sub(r"\s+", " ", m.get("text") or "").strip()
+    text = re.sub(r"\s+", " ", html.unescape(m.get("text") or "")).strip()
     if len(text) > 420:
         text = text[:420].rsplit(" ", 1)[0] + " …"
-    return {"video": hit.group(1), "t": int(hit.group(2) or 0), "title": m.get("title") or "", "date": m.get("date"), "said": text}
+    return {"video": hit.group(1), "t": int(hit.group(2) or 0), "title": html.unescape(m.get("title") or ""), "date": m.get("date"), "said": text}
 
 
 def build(heard_path, held_dirs=LIBRARY):
@@ -103,7 +104,9 @@ def build(heard_path, held_dirs=LIBRARY):
             row["status"] = "none"
         row["moments"] = [m for m in (moment(x) for x in h.get("moments", [])) if m]
         rows.append(row)
-    rows.sort(key=lambda r: (-r["recordings"], r["title"]))
+    # Shelves in the catalog's order (history first), the most spoken-about books first on each.
+    shelf = {k: n for n, k in enumerate(catalog_books.KINDS)}
+    rows.sort(key=lambda r: (shelf[r["kind"]], -r["recordings"], r["title"]))
     return rows
 
 
