@@ -27,10 +27,15 @@ tags: ["IUIC in the ClassRoom", "islam-arabs", "mercy"]
 
 - But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God: And the guy also tries, now they're trying to argue or refute the curses of Deuteronomy 28. Y'all can never ever argue Deuteronomy 28. We grew up on Deuteronomy 28. You can't come against us with that. That ain't going to work.
 
-- That all these curses shall come upon thee, and overtake thee: So these are curses that will fall upon us as a consequence of violating the covenant that was based upon a bloodline. The covenant is an ancestral covenant from Abraham all the way down to Jacob. You can't just up and convert into an Israelite and go, "Yeah, I'm a Jew now. I believe in Christ." No, you cannot convert into a race by faith. That in itself is insanity.
-
 
 *[[16:21](https://www.youtube.com/watch?v=1L2IOu7pA84&t=981s)]* **In The News: Boxing clip he called for of Muhammad Ali dancing on the ropes while his opponent throws punches (a wrong video was put up first)** — Like remember that Muhammad Ali, he was fighting that dude. The dude was throwing his fist and he was throwing his head around and he start doing this and mocking him. That's what y'all do to us when we threw 28. 28. That's what happens to y'all. This right here. This is us. This is you apologists. Nothing works for you.
+
+**[Deuteronomy 28:15](/bible/deuteronomy/28#v15)**  *[[18:31](https://www.youtube.com/watch?v=1L2IOu7pA84&t=1111s)]*
+
+> <sup>[15](/bible/deuteronomy/28#v15)</sup> But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
+
+- That all these curses shall come upon thee, and overtake thee: So these are curses that will fall upon us as a consequence of violating the covenant that was based upon a bloodline. The covenant is an ancestral covenant from Abraham all the way down to Jacob. You can't just up and convert into an Israelite and go, "Yeah, I'm a Jew now. I believe in Christ." No, you cannot convert into a race by faith. That in itself is insanity.
+
 
 **[Deuteronomy 28:32](/bible/deuteronomy/28#v32)**  *[[18:48](https://www.youtube.com/watch?v=1L2IOu7pA84&t=1128s)]*
 
