@@ -1,1 +1,1 @@
-- Notes: a point now finds its verse even where the KJV spells a word differently from the note (worshipped/worshiped, honour/honor), so it sits under that verse instead of above it ("Black Christians Choose Approval Over Truth", Wisdom of Solomon 14:16).
+- notes:lint warns when a note reads like a transcript: five or more cues to the reader or the screen kept ("Give me the next one", "Put it on the screen", "Read that again"). 77 notes warn today; they are the queue for the cut-to-the-point rewrite.
