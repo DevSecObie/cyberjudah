@@ -25,9 +25,9 @@ tags: ["IUIC in the ClassRoom", "christ", "false-religion"]
 
 **[Wisdom of Solomon 14:16-17](/bible/wisdom-of-solomon/14#v16)**  *[[18:13](https://www.youtube.com/watch?v=sBoGbQK5zMA&t=1093s)]*
 
-- Thus, in process of time, an ungodly custom grown strong was kept as a law, and graven images were worshiped by the commandments of kings: So graven images, the worship of graven images became a law throughout the world. And it started around the time of Nimrod all the way up to today. Ain't nothing changed.
-
 > <sup>[16](/bible/wisdom-of-solomon/14#v16)</sup> Thus in process of time an ungodly custom grown strong was kept as a law, and graven images were worshipped by the commandments of kings.
+
+- Thus, in process of time, an ungodly custom grown strong was kept as a law, and graven images were worshiped by the commandments of kings: So graven images, the worship of graven images became a law throughout the world. And it started around the time of Nimrod all the way up to today. Ain't nothing changed.
 
 - Thus in process of time: Process of time, in centuries gone by.
 

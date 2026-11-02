@@ -240,15 +240,21 @@ def _norm(text):
     return " ".join(re.sub(r"[^a-z ]", " ", text.lower().replace("\u2019", "'").replace("'", "")).split())
 
 
+def _loose(text):
+    """_norm, forgiving the spellings the KJV and the notes write differently
+    (worshipped/worshiped, honour/honor)."""
+    return re.sub(r"our\b", "or", re.sub(r"([a-z])\1", r"\1", _norm(text)))
+
+
 def _verses_of(point, book, ch, vs):
     """The verse (or run of verses) a point opens on, from the verse words before its first colon."""
     if not isinstance(point, str) or ": " not in point[:240]:
         return None
-    phrase = _norm(point.split(": ", 1)[0])
+    phrase = _loose(point.split(": ", 1)[0])
     if len(phrase.split()) < 2:
         return None
     body = lib.chapters(book)[str(ch)]
-    text = {v: _norm(body[v - 1]) for v in vs}
+    text = {v: _loose(body[v - 1]) for v in vs}
     for size in range(1, len(vs) + 1):
         for k in range(len(vs) - size + 1):
             run = vs[k:k + size]

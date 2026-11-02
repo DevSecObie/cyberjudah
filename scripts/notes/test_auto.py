@@ -182,5 +182,15 @@ class ReadingsRender(unittest.TestCase):
         self.assertNotIn("Empty", auto.render(self.T, d, "classes"))
 
 
+class VersesOf(unittest.TestCase):
+    def test_a_point_finds_its_verse_through_kjv_spelling(self):
+        point = ("Thus, in process of time, an ungodly custom grown strong was kept as a law, and graven "
+                 "images were worshiped by the commandments of kings: So graven images became a law.")
+        self.assertEqual(auto._verses_of(point, "Wisdom of Solomon", 14, [16, 17]), (16, 16))
+
+    def test_words_not_in_the_verse_find_nothing(self):
+        self.assertIsNone(auto._verses_of("Abraham's house: not the verse", "Genesis", 17, [10, 11]))
+
+
 if __name__ == "__main__":
     unittest.main()
