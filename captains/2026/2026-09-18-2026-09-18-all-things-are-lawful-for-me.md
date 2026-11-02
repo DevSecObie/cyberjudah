@@ -2,7 +2,7 @@
 title: "All Things Are Lawful For Me"
 slug: "2026/2026-09-18-all-things-are-lawful-for-me"
 date: "2026-09-18"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2026-09-18"
 tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "justice", "the-body", "the-law"]
 ---
@@ -130,7 +130,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "false-religion", "justice", "the
 
 ## In Closing
 
-*[[10:51](https://www.youtube.com/watch?v=KIQ3-c-qwa8&t=651s)]* But when we have issues amongst each other inside the congregation, the wisdom is go to the leaders of the congregation. I'm Captain Yahoshua. Until next time, shalom.
+*[[10:51](https://www.youtube.com/watch?v=KIQ3-c-qwa8&t=651s)]* But when we have issues amongst each other inside the congregation, the wisdom is go to the leaders of the congregation. I'm Captain Yehoshua. Until next time, shalom.
 
 ---
 

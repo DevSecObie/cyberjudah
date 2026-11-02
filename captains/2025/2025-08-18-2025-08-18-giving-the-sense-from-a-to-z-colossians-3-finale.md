@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Colossians 3 Finale"
 slug: "2025/2025-08-18-giving-the-sense-from-a-to-z-colossians-3-finale"
 date: "2025-08-18"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-08-18"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "obedience", "the-law"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-08-18 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-08-18 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Col 1](/bible/colossians/1) · [Ps 50](/bible/psalms/50) · [Exod 24](/bible/exodus/24) · [Deut 33](/bible/deuteronomy/33) · [Ps 148](/bible/psalms/148) · [1 Pet 1](/bible/1-peter/1) · [Isa 45](/bible/isaiah/45) · [Jer 50](/bible/jeremiah/50) · [Rom 11](/bible/romans/11) · [Rom 3](/bible/romans/3) · [Col 3](/bible/colossians/3) · [Exod 21](/bible/exodus/21) · [Prov 13](/bible/proverbs/13) · [Lev 25](/bible/leviticus/25) · [Col 4](/bible/colossians/4) · <i>and 14 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "obedience", "the-law"]
 
 ## Introduction
 
-*[[2:28](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=148s)]* Shalom. Shalom. Shalom. Israel most high in Christ bless. Welcome to another edition of Giving Sense from A to Z. Today you got Captain Emmanuel of IUIC Arkansas. And today, Lord's will, we going to finish up Colossians the third chapter. All right. The epistle of Paul to the Colossians. All right. Let's open up with Nehemiah chapter 8 and verse 8.
+*[[2:28](https://www.youtube.com/watch?v=aAxAUqCGwCU&t=148s)]* Shalom. Shalom. Shalom. Israel most high in Christ bless. Welcome to another edition of Giving Sense from A to Z. Today you got Captain Immanuel of IUIC Arkansas. And today, Lord's will, we going to finish up Colossians the third chapter. All right. The epistle of Paul to the Colossians. All right. Let's open up with Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 

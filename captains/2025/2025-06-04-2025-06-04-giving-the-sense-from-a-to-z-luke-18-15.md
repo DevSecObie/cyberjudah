@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 18:15"
 slug: "2025/2025-06-04-giving-the-sense-from-a-to-z-luke-18-15"
 date: "2025-06-04"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-06-04"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvation"]

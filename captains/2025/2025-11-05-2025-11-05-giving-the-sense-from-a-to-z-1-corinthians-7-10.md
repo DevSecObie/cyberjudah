@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 7:10"
 slug: "2025/2025-11-05-giving-the-sense-from-a-to-z-1-corinthians-7-10"
 date: "2025-11-05"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-11-05"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "faith", "marriage-family", "purpose", "the-law", "women"]

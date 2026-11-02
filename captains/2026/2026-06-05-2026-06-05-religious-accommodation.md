@@ -2,7 +2,7 @@
 title: "Religious Accommodation"
 slug: "2026/2026-06-05-religious-accommodation"
 date: "2026-06-05"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2026-06-05"
 tags: ["15 Minutes w/ The Captains", "faith", "prayer", "the-law"]
 ---

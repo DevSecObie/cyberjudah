@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 15:19"
 slug: "2026/2026-02-16-giving-the-sense-from-a-to-z-1-corinthians-15-19"
 date: "2026-02-16"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2026-02-16"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2026-02-16 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2026-02-16 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [1 Cor 15](/bible/1-corinthians/15) · [2 Thess 2](/bible/2-thessalonians/2) · [Acts 23](/bible/acts/23) · [Acts 20](/bible/acts/20) · [Gal 1](/bible/galatians/1) · [Luke 19](/bible/luke/19) · [Acts 1](/bible/acts/1) · [John 5](/bible/john/5) · [John 6](/bible/john/6) · [Matt 19](/bible/matthew/19) · [Matt 24](/bible/matthew/24) · [Matt 23](/bible/matthew/23) · [Acts 24](/bible/acts/24) · [Rom 8](/bible/romans/8) · [2 Cor 5](/bible/2-corinthians/5) · <i>and 5 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 
 ## Introduction
 
-*[[18:26](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=1106s)]* Shalom Israel. Most High, Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got Captain Emmanuel of IUIC Arkansas. And today we going to pick up at 1 Corinthians chapter 15 and verse 19. I'm sorry for the late start, but Lord's willing we can get it in for a little minute before escaping a plantation. All right, let's open up with Nehemiah 8 and verse 8.
+*[[18:26](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=1106s)]* Shalom Israel. Most High, Christ bless. Welcome to another edition of Giving the Sense from A to Z. Today you got Captain Immanuel of IUIC Arkansas. And today we going to pick up at 1 Corinthians chapter 15 and verse 19. I'm sorry for the late start, but Lord's willing we can get it in for a little minute before escaping a plantation. All right, let's open up with Nehemiah 8 and verse 8.
 
 ## Scriptures Opened
 

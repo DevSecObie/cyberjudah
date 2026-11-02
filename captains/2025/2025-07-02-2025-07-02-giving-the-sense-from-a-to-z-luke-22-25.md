@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 22:25"
 slug: "2025/2025-07-02-giving-the-sense-from-a-to-z-luke-22-25"
 date: "2025-07-02"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-07-02"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "the-word"]

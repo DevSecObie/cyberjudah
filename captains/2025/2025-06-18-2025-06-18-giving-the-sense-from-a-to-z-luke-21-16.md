@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: Luke 21:16"
 slug: "2025/2025-06-18-giving-the-sense-from-a-to-z-luke-21-16"
 date: "2025-06-18"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-06-18"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "prophecy"]

@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Luke 21"
 slug: "2025/2025-06-16-giving-the-sense-from-a-to-z-luke-21"
 date: "2025-06-16"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-06-16"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "money"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-06-16 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-06-16 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Luke 21](/bible/luke/21) · [2 Macc 3](/bible/2-maccabees/3) · [1 Tim 6](/bible/1-timothy/6) · [Sir 35](/bible/sirach/35) · [Sir 31](/bible/sirach/31) · [Sir 11](/bible/sirach/11) · [Mark 10](/bible/mark/10) · [Acts 4](/bible/acts/4) · [Heb 11](/bible/hebrews/11) · [Tobit 4](/bible/tobit/4) · [2 Cor 9](/bible/2-corinthians/9) · [Luke 19](/bible/luke/19) · [Ps 137](/bible/psalms/137) · [Dan 9](/bible/daniel/9) · [Matt 24](/bible/matthew/24) · <i>and 3 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "leadership", "money"]
 
 ## Introduction
 
-*[[27:51](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=1671s)]* Hey shalom is most high Christ bless. Welcome to another edition of giving a sense from A to Z. Today you got Captain Emmanuel of IUIC Arkansas and today we gonna pop off Luke chapter 21. All right, let's open up with Nehemiah chapter 8 and verse 8.
+*[[27:51](https://www.youtube.com/watch?v=5WqUcxXQDoA&t=1671s)]* Hey shalom is most high Christ bless. Welcome to another edition of giving a sense from A to Z. Today you got Captain Immanuel of IUIC Arkansas and today we gonna pop off Luke chapter 21. All right, let's open up with Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 
@@ -133,7 +133,7 @@ Reading from On-screen text: two mites in modern terms  *[[34:02](https://www.yo
 
 - But the point is, don't trust in your doomsday prep materials and all of this stuff that you can afford cuz you got money. But trust in the living God. That's right. You will convince yourself like, "No, I can't give my arms like that because I have to build up my doomsday barn, my bunker." You know what I'm saying? I'm telling you, bro. This is a real spirit in Israel, bro. I'm telling you. I ain't lying. Some of y'all watching, y'all know exactly what the hell I'm talking about. Y'all better take heed to that.
 
-- Somebody going to write, right, leadership. "So, Captain Emmanuel said we ain't supposed to be prepping." No, I didn't say that. Are you serious? Prep. Build your pantry up. Do your thing, bro. But you should be pouring that same type of energy into the school pantry. And brothers and sisters that you know can't afford all of that stuff you can afford, help them out. Break them off. Hell, drop me off some bugout bags. Hell is this? Yeah, for real.
+- Somebody going to write, right, leadership. "So, Captain Immanuel said we ain't supposed to be prepping." No, I didn't say that. Are you serious? Prep. Build your pantry up. Do your thing, bro. But you should be pouring that same type of energy into the school pantry. And brothers and sisters that you know can't afford all of that stuff you can afford, help them out. Break them off. Hell, drop me off some bugout bags. Hell is this? Yeah, for real.
 
 - Hey, listen. We got a lot of congregations, especially overseas, they don't got nothing. They scraping up just to live and survive every day. Hell no. For real. And some of y'all buying robots, man. Hey, help us. Help the people. For real. For real.
 

@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "prayer", "wisdom"]
 
 ## Introduction
 
-*[[1:14](https://www.youtube.com/watch?v=Wgk_z4A1EO4&t=74s)]* Praises to the Most High. All praises to the Most High. Shalom Israel. Shalom shalom shalom. Most High Christ bless. Most High Christ bless. I'm your host Captain Gedaliah. Welcome to another edition of giving a sense from A to Z. I was about to say escaping the plantation 2.0. I was this close. Bro, we be doing man listen. Y'all have mercy on us. Y'all have mercy. But I pray all y'all doing well. All praises to the Lord. Today we going to be going over Colossians chapter 4. Captain Emmanuel finished out Colossians 3 yesterday I believe. So today we going to be dealing with Colossians chapter 4. And today I got a reading for me. Also Azariah. All right, so yeah, we're going to jump right into it.
+*[[1:14](https://www.youtube.com/watch?v=Wgk_z4A1EO4&t=74s)]* Praises to the Most High. All praises to the Most High. Shalom Israel. Shalom shalom shalom. Most High Christ bless. Most High Christ bless. I'm your host Captain Gedaliah. Welcome to another edition of giving a sense from A to Z. I was about to say escaping the plantation 2.0. I was this close. Bro, we be doing man listen. Y'all have mercy on us. Y'all have mercy. But I pray all y'all doing well. All praises to the Lord. Today we going to be going over Colossians chapter 4. Captain Immanuel finished out Colossians 3 yesterday I believe. So today we going to be dealing with Colossians chapter 4. And today I got a reading for me. Also Azariah. All right, so yeah, we're going to jump right into it.
 
 ## Scriptures Opened
 

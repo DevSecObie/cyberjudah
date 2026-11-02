@@ -2,7 +2,7 @@
 title: "Chronic Procrastination"
 slug: "2026/2026-03-27-chronic-procrastination"
 date: "2026-03-27"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "15 Minutes w/ The Captains · 2026-03-27"
 tags: ["15 Minutes w/ The Captains", "heaven-hell", "mental-health", "money"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "mental-health", "money"]
 
 ## Introduction
 
-*[[0:14](https://www.youtube.com/watch?v=Y6huD-Z1Mrw&t=14s)]* Today you got Captain Emmanuel and we talking about chronic procrastination. It is going to cut a lot of us. It is what it is.
+*[[0:14](https://www.youtube.com/watch?v=Y6huD-Z1Mrw&t=14s)]* Today you got Captain Immanuel and we talking about chronic procrastination. It is going to cut a lot of us. It is what it is.
 
 ## Scriptures Opened
 

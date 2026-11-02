@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 2 Corinthians 1:12"
 slug: "2026/2026-03-09-giving-the-sense-from-a-to-z-2-corinthians-1-12"
 date: "2026-03-09"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2026-03-09"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "wisdom"]

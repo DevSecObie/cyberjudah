@@ -2,7 +2,7 @@
 title: "Giving The Sense From A to Z: 1 Corinthians 4:1"
 slug: "2025/2025-09-11-giving-the-sense-from-a-to-z-1-corinthians-4-1"
 date: "2025-09-11"
-teacher: "Captain Matt"
+teacher: "Captain Matthew"
 description: "Giving The Sense From A to Z · 2025-09-11"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "faith", "the-word"]

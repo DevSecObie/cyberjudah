@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Colossians 2:1-3"
 slug: "2025/2025-08-04-giving-the-sense-from-a-to-z-colossians-2-1-3"
 date: "2025-08-04"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-08-04"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-08-04 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-08-04 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [2 Pet 3](/bible/2-peter/3) · [Col 2](/bible/colossians/2) · [Rom 1](/bible/romans/1) · [Rom 15](/bible/romans/15) · [Acts 19](/bible/acts/19) · [2 Cor 1](/bible/2-corinthians/1) · [Phil 2](/bible/philippians/2) · [Eph 4](/bible/ephesians/4) · [Judg 20](/bible/judges/20) · [1 Cor 1](/bible/1-corinthians/1) · [Col 1](/bible/colossians/1) · [Rom 11](/bible/romans/11) · [Rom 16](/bible/romans/16) · [Gen 22](/bible/genesis/22) · [Gal 3](/bible/galatians/3) · <i>and 7 more below</i></span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law", "unity", "wisdom"]
 
 ## Introduction
 
-*[[9:09](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=549s)]* Hey, shalom family. Most high Christ bless. Welcome to another edition of Giving a Sense from A to Z. Today you got Captain Emmanuel of IUIC Arkansas. And today we going to be popping off Colossians chapter 2. All right. As we know, we going to read it. Read Nehemiah 8:8. Before I just get to rambling and all that, let's just pop it off. Come on.
+*[[9:09](https://www.youtube.com/watch?v=G7lwR5ruYJg&t=549s)]* Hey, shalom family. Most high Christ bless. Welcome to another edition of Giving a Sense from A to Z. Today you got Captain Immanuel of IUIC Arkansas. And today we going to be popping off Colossians chapter 2. All right. As we know, we going to read it. Read Nehemiah 8:8. Before I just get to rambling and all that, let's just pop it off. Come on.
 
 ## Scriptures Opened
 

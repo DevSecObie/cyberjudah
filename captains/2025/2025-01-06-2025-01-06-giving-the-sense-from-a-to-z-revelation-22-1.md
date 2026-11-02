@@ -2,13 +2,13 @@
 title: "Giving The Sense From A to Z: Revelation 22:1"
 slug: "2025/2025-01-06-giving-the-sense-from-a-to-z-revelation-22-1"
 date: "2025-01-06"
-teacher: "Captain Emmanuel"
+teacher: "Captain Immanuel"
 description: "Giving The Sense From A to Z · 2025-01-06"
 collection: "Giving The Sense From A to Z"
 tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvation", "wisdom"]
 ---
 
-<p class="taught">Giving The Sense From A to Z · 2025-01-06 · Captain Emmanuel</p>
+<p class="taught">Giving The Sense From A to Z · 2025-01-06 · Captain Immanuel</p>
 
 <span class="opens"><b>Opens</b> [Neh 8](/bible/nehemiah/8) · [Rev 22](/bible/revelation/22) · [Sir 24](/bible/sirach/24) · [Ezek 47](/bible/ezekiel/47) · [Ps 1](/bible/psalms/1) · [Matt 13](/bible/matthew/13) · [Rev 5](/bible/revelation/5) · [2 Esdras 5](/bible/2-esdras/5) · [Acts 2](/bible/acts/2) · [Rev 7](/bible/revelation/7) · [Deut 4](/bible/deuteronomy/4) · [Jer 30](/bible/jeremiah/30) · [Deut 28](/bible/deuteronomy/28) · [Lam 4](/bible/lamentations/4) · [Rev 3](/bible/revelation/3)</span>
 
@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "angels", "health", "heaven-hell", "salvati
 
 ## Introduction
 
-*[[25:05](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=1505s)]* Hey, shalom, shalom Israel. Most High and Christ bless. Welcome to another edition of Giving The Sense From A to Z. Today you got Captain Emmanuel of IUIC Arkansas, and today we going to go over Revelation chapter 22. All right, it's a late start, that's on me, my apologies, but we going to see how far we get. All right, but all praise to the Most High, let's open over with Nehemiah 8:8. Nehemiah 8 and 8, the book of Nehemiah chapter 8 and verse 8.
+*[[25:05](https://www.youtube.com/watch?v=Fc1YwkZoIp8&t=1505s)]* Hey, shalom, shalom Israel. Most High and Christ bless. Welcome to another edition of Giving The Sense From A to Z. Today you got Captain Immanuel of IUIC Arkansas, and today we going to go over Revelation chapter 22. All right, it's a late start, that's on me, my apologies, but we going to see how far we get. All right, but all praise to the Most High, let's open over with Nehemiah 8:8. Nehemiah 8 and 8, the book of Nehemiah chapter 8 and verse 8.
 
 ## Scriptures Opened
 

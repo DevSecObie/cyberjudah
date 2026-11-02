@@ -2,7 +2,7 @@
 title: "The Fruits Of Correction"
 slug: "2025/2025-12-17-the-fruits-of-correction"
 date: "2025-12-17"
-teacher: "Captain Yahoshua"
+teacher: "Captain Yehoshua"
 description: "15 Minutes w/ The Captains · 2025-12-17"
 tags: ["15 Minutes w/ The Captains", "angels", "discipline", "sabbath", "the-law", "the-word"]
 ---
@@ -17,7 +17,7 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "sabbath", "the-law
 
 ## Introduction
 
-*[[0:01](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=1s)]* Hey, shalom Israel. Most High in Christ bless. This is Captain Yahoshua with another episode of 15 minutes with the captains. That's right. Now, today's lesson is entitled the fruit of correction. And what we're going to do is we're going to draw some parallels between how we wanted our land to be fruitful before we got kicked out, but how now we want our spirits to be fruitful.
+*[[0:01](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=1s)]* Hey, shalom Israel. Most High in Christ bless. This is Captain Yehoshua with another episode of 15 minutes with the captains. That's right. Now, today's lesson is entitled the fruit of correction. And what we're going to do is we're going to draw some parallels between how we wanted our land to be fruitful before we got kicked out, but how now we want our spirits to be fruitful.
 
 ## Scriptures Opened
 
@@ -143,7 +143,7 @@ tags: ["15 Minutes w/ The Captains", "angels", "discipline", "sabbath", "the-law
 
 ## In Closing
 
-*[[17:21](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=1041s)]* So brothers and sisters, don't be emotional when correction come, cuz correction is going to separate the wheat from the tares. I'm Captain Yahoshua. Subscribe to IUIC Virginia in the classroom, and make sure you download IUIC TV. Until next time, shalom. Most High Christ bless you all.
+*[[17:21](https://www.youtube.com/watch?v=X4XZbXWL7w0&t=1041s)]* So brothers and sisters, don't be emotional when correction come, cuz correction is going to separate the wheat from the tares. I'm Captain Yehoshua. Subscribe to IUIC Virginia in the classroom, and make sure you download IUIC TV. Until next time, shalom. Most High Christ bless you all.
 
 ---
 

@@ -18,7 +18,7 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 
 ## Introduction
 
-*[[2:10](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=130s)]* So again, Israel, welcome back to another edition of Giving the Sense from A to Z. I was about to say escaping plantation. Giving the Sense from A to Z. I'm your host today, Captain Josiah. Got my reader, Officer Obadiah. Hey, officer. We going to start with Nehemiah 8 and 8. So we're going to start in 1 Corinthians chapter 6. Captain Emmanuel, not yesterday, maybe last week Friday, I think Thursday or Friday, started at 1 and he got down to verse 10. Our focal point is in verse 11, but I want to start at verse 9 to get it in context.
+*[[2:10](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=130s)]* So again, Israel, welcome back to another edition of Giving the Sense from A to Z. I was about to say escaping plantation. Giving the Sense from A to Z. I'm your host today, Captain Josiah. Got my reader, Officer Obadiah. Hey, officer. We going to start with Nehemiah 8 and 8. So we're going to start in 1 Corinthians chapter 6. Captain Immanuel, not yesterday, maybe last week Friday, I think Thursday or Friday, started at 1 and he got down to verse 10. Our focal point is in verse 11, but I want to start at verse 9 to get it in context.
 
 ## Scriptures Opened
 

@@ -2,7 +2,7 @@
 title: "Social Media - Weapons of Mass Distraction"
 slug: "2026/2026-06-01-social-media-weapons-of-mass-distraction"
 date: "2026-06-01"
-teacher: "Captain Obadiah"
+teacher: "Captain Tobias"
 description: "15 Minutes w/ The Captains · 2026-06-01"
 tags: ["15 Minutes w/ The Captains", "media", "purpose", "the-law", "war", "wisdom"]
 ---

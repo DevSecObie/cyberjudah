@@ -2,7 +2,7 @@
 title: "Contradict This: Centurion Contradiction"
 slug: "2020/2020-08-06-contradict-this-centurion-contradiction"
 date: "2020-08-06"
-teacher: "Captain Isaac"
+teacher: "Deacon Isaac"
 description: "Contradict This · 2020-08-06"
 collection: "Contradict This"
 tags: ["15 Minutes w/ The Captains", "war"]
