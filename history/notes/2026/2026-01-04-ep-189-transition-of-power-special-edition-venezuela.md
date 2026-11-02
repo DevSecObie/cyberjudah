@@ -46,7 +46,7 @@ Reading from an Al Jazeera article from November 2025 on the Cartel de los Soles
 
 - So, first off, they have no proof that this cartel even exists. It's just a term that the Venezuelans use towards corrupt politicians in their own country. So now Trump ran with that made-up term and then said that Maduro is the leader of that cartel, which is fictitious. It's just a term that's used by the Venezuelans.
 
-- Go down. Where is like a timeline? Down. It's like a timeline; you're going to see dates. Keep going. All right. So right there, give me the February 20th.
+- Where is like a timeline? Down. It's like a timeline; you're going to see dates. So right there, give me the February 20th.
 
 > February 20, 2025. The Trump administration designates Venezuela's Tren de Aragua gang as a foreign terrorist organization.
 
@@ -62,7 +62,7 @@ Reading from an Al Jazeera article from November 2025 on the Cartel de los Soles
 
 - Now, mind you, this past year, in 2025, the Esau, that orange man Trump, he's been deporting a lot of Venezuelans to Venezuela. But then at the same time he's saying that Maduro, he's doing all these illegal activities. He's part of a terrorist organization. He's the head of a cartel. So, if you care about the Venezuelans so much, why are you deporting them back to a country that is so degenerate, that is so lawless? It makes no sense. That just goes to show you. He removed the what? The TPS protection for the immigrants that were here, the Venezuelans.
 
-- I want to read one more thing in the timeline. Go up. February 21st, the next one.
+- I want to read one more thing in the timeline. February 21st, the next one.
 
 > 2025. Caracas agrees on coordinating with Washington over Trump's mass deportation push.
 
@@ -100,9 +100,9 @@ Reading from an Al Jazeera article from November 2025 on the Cartel de los Soles
 
 - **Deacon Eythan:** And they take them by violence. They take them by war. They take these fields by war, take these lands by war. Cuz why? They covet the resources that we have, right? The oil, okay? The gold, the uranium, okay? They covet these things.
 
-- And houses, and take them away. So they oppress a man and his house. Right. They enslave us, right? They enslave us, take our houses and so forth, right? So they oppress a man.
+- And houses, and take them away. So they oppress a man and his house. They enslave us, right? They enslave us, take our houses and so forth, right? So they oppress a man.
 
-- Even a man and his heritage. And they take our identity. Right? They take our identity, all right? So, that's all I wanted on that. So what I asked: the tribe of Venezuela is Asher.
+- Even a man and his heritage. And they take our identity. They take our identity, all right? So, that's all I wanted on that. So what I asked: the tribe of Venezuela is Asher.
 
 *[[22:16](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=1336s)]* I was set up on an article where the president of Colombia says that America buys the drugs from Colombia, and Trump told him watch his ass. Trump said, "Watch your ass." Trump crazy, bro. Trump crazy. Yo, you turned the AC on, man. The back of my neck is cold. Anyway, this guy Trump, he's honest, man. He's honest. Give me real quick Obadiah verse 1, man.
 
@@ -110,7 +110,7 @@ Reading from an Al Jazeera article from November 2025 on the Cartel de los Soles
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 
-- Right. This is going to happen in the future. Edom.
+- This is going to happen in the future. Edom.
 
 > <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
 
@@ -124,7 +124,7 @@ Reading from an Al Jazeera article from November 2025 on the Cartel de los Soles
 
 - Pride of thine heart hath deceived thee.
 
-- In the clefts of the rock. Come on. Let me see the Caucasus Mountains. Whose habitation is high: mountainous.
+- In the clefts of the rock. Let me see the Caucasus Mountains. Whose habitation is high: mountainous.
 
 - That says in his heart, "Who shall bring me down to the ground?" Well, you say that when you have power. You say that when you have authority. That's how Trump talks. "Who can bring me down to the ground?"
 
@@ -166,7 +166,7 @@ Reading from an Al Jazeera article from November 2025 on the Cartel de los Soles
 
 > <sup>[11](/bible/2-kings/24#v11)</sup> And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.
 
-- And America besieged it. Watch this. Venezuela, watch this.
+- And America besieged it. Venezuela, watch this.
 
 > <sup>[12](/bible/2-kings/24#v12)</sup> And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.
 
@@ -182,7 +182,7 @@ Reading from an Al Jazeera article from November 2025 on the Cartel de los Soles
 
 - Zedekiah. He just made up a whole new name. Zedekiah. Read verse 17 again, please.
 
-- So the king of Babylon made Mattaniah his uncle, his father's brother, king in his stead, and changed his name to Zedekiah. So Mattaniah's name was changed to Zedekiah. He was a puppet king. So Babylon displaced one king that was not for their interests for a king that was in their interests. So this is a common thing that heathens would do. They would conquer a ruler that was not subject to them, or went against them, cuz Jehoiachin rebelled. Jehoiachin rebelled against Babylon. So they took him out and put his uncle in his stead, and changed his name, showing he's a puppet. His name was Mattaniah. He said, "No, your name is Zedekiah from now on." All right, read on. Verse 18.
+- So the king of Babylon made Mattaniah his uncle, his father's brother, king in his stead, and changed his name to Zedekiah. So Mattaniah's name was changed to Zedekiah. He was a puppet king. So Babylon displaced one king that was not for their interests for a king that was in their interests. So this is a common thing that heathens would do. They would conquer a ruler that was not subject to them, or went against them, cuz Jehoiachin rebelled. Jehoiachin rebelled against Babylon. So they took him out and put his uncle in his stead, and changed his name, showing he's a puppet. His name was Mattaniah. He said, "No, your name is Zedekiah from now on." Verse 18.
 
 > <sup>[18](/bible/2-kings/24#v18)</sup> Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name was Hamutal, the daughter of Jeremiah of Libnah.
 
@@ -206,11 +206,11 @@ Reading from an article, "Venezuela's anti-Semitic leader admits Jewish ancestry
 
 > In an interesting twist, Maduro, the political successor of the late President Hugo Chavez, told the press last week that he himself was descended from Sephardic Jewish ancestors.
 
-- That he himself was descended from Sephardic Jewish ancestors. Go down. Right here. Read this here. Watch this.
+- That he himself was descended from Sephardic Jewish ancestors. Read this here.
 
 > My grandparents were Jewish,
 
-- My grandparents. Both his grandparents. His father's parents, or his mother's. Watch this.
+- My grandparents. Both his grandparents. His father's parents, or his mother's.
 
 > from a Sephardic Moorish background.
 
@@ -218,13 +218,13 @@ Reading from an article, "Venezuela's anti-Semitic leader admits Jewish ancestry
 
 - **Officer:** Exactly. The conversos.
 
-- **Deacon Eythan:** Wow. The Moorish background. So Maduro is our people. Hands down. Okay? So apparently his family retained that knowledge, that they were Jews that left out of Spain and came over here and converted to Catholicism, but they were of Moorish background. His grandparents. They were crypto Jews.
+- **Deacon Eythan:** The Moorish background. So Maduro is our people. Hands down. So apparently his family retained that knowledge, that they were Jews that left out of Spain and came over here and converted to Catholicism, but they were of Moorish background. His grandparents. They were crypto Jews.
 
 - **Officer:** Yeah. Crypto, right. Crypto Jews.
 
 - **Deacon Eythan:** So he had complete knowledge of the history of the Jews coming here. Now, what had ended up happening, and I brought this up before: during the Inquisition, when they started to exile and conquer us, many of us fled out of Spain and Portugal around the early 1500s, or late 1400s. And so we fled over here. That was our escape route. So the Spanish crown passed a law saying no more Jews can come to the Americas anymore unless they're converts.
 
-- Now, real quick, give me that. It's the New World Jewry. I got to see if I can find it. There should have been a page where it mentions their paperwork. It mentions them having a pure blood, four generation. It says four generation. You can go to Internet Archive and just put in four generation in the search. Page 17. Page 16. Go to the bottom. Right there. Read that.
+- Now, real quick, give me that. It's the New World Jewry. I got to see if I can find it. There should have been a page where it mentions their paperwork. It mentions them having a pure blood, four generation. It says four generation. You can go to Internet Archive and just put in four generation in the search. Page 17. Page 16. Go to the bottom. Right there.
 
 </div>
 
@@ -246,15 +246,15 @@ Reading from *New World Jewry*, pages 16 and 17, on Spain barring Jews and Moors
 
 > called Tierra Firma. Spain barred all Jews and their descendants to the fourth generation from coming to the New World.
 
-- Hold on. Go back. Spain barred all Jews and their descendants to the fourth generation from coming to the New World. Meaning what? Meaning the Jews and Moors that came to the Americas first, in the early 1500s, were now barred from doing so until they provided evidence that they no longer had Jewish or Moorish blood. Until they had no more Jewish, Moorish blood in their veins. These are Israelites. Go to next page. Read that.
+- Go back. Spain barred all Jews and their descendants to the fourth generation from coming to the New World. Meaning what? Meaning the Jews and Moors that came to the Americas first, in the early 1500s, were now barred from doing so until they provided evidence that they no longer had Jewish or Moorish blood. Until they had no more Jewish, Moorish blood in their veins. These are Israelites. Go to next page.
 
 > Portuguese Jews often served as sailors on the ships that smuggled Jews into the New World.
 
-- Our brothers who worked on the ships would oftentimes smuggle our brothers and sisters on the ships to the New World, when the Spanish conquered us. Okay?
+- Our brothers who worked on the ships would oftentimes smuggle our brothers and sisters on the ships to the New World, when the Spanish conquered us.
 
 > As early as 1493 and as late as 1802, Spain issued decrees barring Jews and Moors from the Spanish colonies.
 
-- That's going into the Americas. From 1493 to 1802, Spain issued decrees barring, stopping, Jews and Moors from traveling to the Americas. So Maduro understood his grandparents were of this line here. The original Jews that came to South America prior to Spain stopping the real ones from coming, and letting the fake ones come instead to enslave the ones that they conquered over here. Okay?
+- That's going into the Americas. From 1493 to 1802, Spain issued decrees barring, stopping, Jews and Moors from traveling to the Americas. So Maduro understood his grandparents were of this line here. The original Jews that came to South America prior to Spain stopping the real ones from coming, and letting the fake ones come instead to enslave the ones that they conquered over here.
 
 - Page 138 is what you want. Go to that one.
 
@@ -274,11 +274,11 @@ Reading from *New World Jewry*, page 138, on the Lusitanian Crown and the colony
 
 > Legend states that Gaspar de Gama was a Polish Jew who had gone to India with Vasco da Gama.
 
-- So Vasco da Gama was a sailor that traveled to India to find Israelites. And Christopher Columbus read his writings. He came to India two years prior to Columbus arriving here. So Columbus would read and study the writings of other explorers. Vasco da Gama was one of them. Gaspar da Gama might have been his brother or something, I don't know. But they were converts that traveled to India, because they know that wherever the real Israelites are found, wealth is found. Read on.
+- So Vasco da Gama was a sailor that traveled to India to find Israelites. And Christopher Columbus read his writings. He came to India two years prior to Columbus arriving here. So Columbus would read and study the writings of other explorers. Vasco da Gama was one of them. Gaspar da Gama might have been his brother or something, I don't know. But they were converts that traveled to India, because they know that wherever the real Israelites are found, wealth is found.
 
 > He adopted the name da Gama when he was compelled to convert to Christianity.
 
-- Cuz remember, Jews and Moors, we conquered when we ruled over Spain. When we were there, some of them converted to Islam and became Mozarabs. And some of them converted to Judaism and became converts, Israelites. Okay? And then eventually, when the Jews were conquered, these Israelites that converted to Judaism became conquistadors, to help the Christians conquer us and take over our identity and our land. So it says he adopted the name da Gama.
+- Cuz remember, Jews and Moors, we conquered when we ruled over Spain. When we were there, some of them converted to Islam and became Mozarabs. And some of them converted to Judaism and became converts, Israelites. And then eventually, when the Jews were conquered, these Israelites that converted to Judaism became conquistadors, to help the Christians conquer us and take over our identity and our land. So it says he adopted the name da Gama.
 
 > Brazil became a Portuguese colony by virtue of the June 1494 Treaty of Tordesillas between Spain and Portugal,
 
@@ -294,11 +294,11 @@ Reading from *New World Jewry*, page 138, on the Lusitanian Crown and the colony
 
 > resulted in awarding, unknowingly, what is known as Brazil to Portugal.
 
-- Right. So Brazil was given to Portugal.
+- So Brazil was given to Portugal.
 
 > The Lusitanian Crown had difficulty in populating its new colony. Although, unlike Spain, it did not prohibit descendants of Jews to the fourth generation from migrating to the New World.
 
-- Portuguese Crown. Had difficulty to get people to come over there and move in. Unlike Spain, it did not prohibit descendants of Jews to the fourth generation from migrating to the New World. Okay. So Portugal allowed the Jews and Moors to travel. Spain did not allow it. I missed that.
+- Portuguese Crown. Had difficulty to get people to come over there and move in. Unlike Spain, it did not prohibit descendants of Jews to the fourth generation from migrating to the New World. So Portugal allowed the Jews and Moors to travel. Spain did not allow it. I missed that.
 
 > It did not incorporate into its agreements with leaders of colonizing expeditions that all potential settlers had to possess certificates of limpieza de sangre,
 
@@ -310,7 +310,7 @@ Reading from *New World Jewry*, page 138, on the Lusitanian Crown and the colony
 
 - So once you present the papers to show that you are now officially, you know, married into a white family and washed out the negro in the back, you can come to America. Portugal didn't care. The reason why Portugal didn't care is because Portugal had so much black blood in them. So much. They couldn't wash themselves out. So they said, "Well, we're not going to pass that law. Spain can do it. We won't do it." Or for now.
 
-- So, going back to my point. Maduro goes back to the descendants of these people here that arrived in South America and so on and so forth, of Moorish descent. Jews, Sephardic Jews of Moorish descent. Spanish Jews, or Portuguese Jews, is still Spanish Jews, of Moorish descent. All right? And then Spain passed a law that your blood had to be clean. You had to be officially no more Moorish blood in you, or Jewish blood in you, cuz the Jews and Moors are both black. All right? So Maduro had knowledge of this. And Maduro had knowledge that he is a real Jew. Now, go back to that article again. Read it again.
+- So, going back to my point. Maduro goes back to the descendants of these people here that arrived in South America and so on and so forth, of Moorish descent. Jews, Sephardic Jews of Moorish descent. Spanish Jews, or Portuguese Jews, is still Spanish Jews, of Moorish descent. And then Spain passed a law that your blood had to be clean. You had to be officially no more Moorish blood in you, or Jewish blood in you, cuz the Jews and Moors are both black. So Maduro had knowledge of this. And Maduro had knowledge that he is a real Jew. Now, go back to that article again.
 
 </div>
 
@@ -338,19 +338,19 @@ Reading from an article, "Venezuela's Nicolas Maduro claims he is a real Jew, un
 
 > Venezuela's Nicolas Maduro claims he is a real Jew, unlike Bibi Netanyahu. Venezuelan leader Nicolas Maduro launched a furious tirade against Israeli Prime Minister Bibi Netanyahu, labeling him the Hitler of the 21st century
 
-- Now they want to attack him. Bibi Netanyahu is bombing and killing people left and right. But they won't overthrow him, but they overthrow Maduro, cuz he's dangerous. Bibi Netanyahu has been killing people for the past few years. Nothing happens to him. But this guy is a terrorist. Okay.
+- Now they want to attack him. Bibi Netanyahu is bombing and killing people left and right. But they won't overthrow him, but they overthrow Maduro, cuz he's dangerous. Bibi Netanyahu has been killing people for the past few years. Nothing happens to him. But this guy is a terrorist.
 
 > over Israel's military response to Iran. Maduro, who maintains a close alliance with the Iranian regime, made the comments during a session of his government's seven transformations workshop.
 
-- Jump down. Hold on. Right there.
+- Jump down. Right there.
 
 > Maduro then questioned Netanyahu's Jewish lineage.
 
-- Oh, oh, oh. Read it again. Questioned Netanyahu's lineage, because remember, this man's being exposed. People are doing their research. You realize that a lot of these Zionist leaders are Europeans. They're German. They're Polish. They're Russian. They're Eastern Europeans. They're changing their names. Bibi Netanyahu, that's not his real name.
+- Questioned Netanyahu's lineage, because remember, this man's being exposed. People are doing their research. You realize that a lot of these Zionist leaders are Europeans. They're German. They're Polish. They're Russian. They're Eastern Europeans. They're changing their names. Bibi Netanyahu, that's not his real name.
 
-- **Officer:** Right. That's not his name. It's some Polish name.
+- **Officer:** That's not his name. It's some Polish name.
 
-- **Deacon Eythan:** Some Polish name. Watch. Read.
+- **Deacon Eythan:** Some Polish name. Watch.
 
 > And bizarrely, he suggested that he himself carries true Jewish ancestry.
 
@@ -362,7 +362,7 @@ Reading from an article, "Venezuela's Nicolas Maduro claims he is a real Jew, un
 
 > "I am a Christian, but Jewish blood runs through my veins, Sephardic blood,
 
-- Sephardic Moorish blood. Come on.
+- Sephardic Moorish blood.
 
 > from the authentic Jews,
 
@@ -404,13 +404,13 @@ Reading from an article, "Venezuela's Nicolas Maduro claims he is a real Jew, un
 
 - We pronounce the end of the just to be blessed.
 
-- Make the boast that God is our father. And Christ made the boast that God was his father, cuz what happened to the Son happened to his children, or his disciples. So we are esteeming them as counterfeits. They're not who they say they are. And the world is starting to take notice of it. The world is starting to see that these guys are not who they appear to be whatsoever. All right?
+- Make the boast that God is our father. And Christ made the boast that God was his father, cuz what happened to the Son happened to his children, or his disciples. So we are esteeming them as counterfeits. They're not who they say they are. And the world is starting to take notice of it. The world is starting to see that these guys are not who they appear to be whatsoever.
 
 *[[54:22](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=3262s)]* Now, this all goes back to the class. When they displaced, or conquered, Maduro: Maduro was a loyal follower of Hugo Chavez. Hugo Chavez had some amazing words. And Hugo Chavez also embraced and acknowledged his black ancestry too. Hugo Chavez gave us the gas station. It's called the, what was it again, I'm forgetting it. Hugo Chavez's gas, he bought for the poor over here.
 
 **Officer:** Citgo.
 
-**Deacon Eythan:** Citgo, yeah. Citgo is the affordable; you go to that gas station and that gas be affordable. They say gas used to be like 13 cents a gallon in Venezuela, before the sanctions and all that started. Cuz we had a land full of it. Asher. Read that.
+**Deacon Eythan:** Citgo, yeah. Citgo is the affordable; you go to that gas station and that gas be affordable. They say gas used to be like 13 cents a gallon in Venezuela, before the sanctions and all that started. Cuz we had a land full of it. Asher.
 
 <div class="reading">
 
@@ -428,17 +428,17 @@ Reading from a post, "The US bombs the mausoleum of Hugo Chavez"  *[[55:27](http
 
 > <sup>[24](/bible/deuteronomy/33#v24)</sup> And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.
 
-- Read it again. Let Asher be blessed with children. So Asher is very, very abundant with children. They have lots of kids.
+- Let Asher be blessed with children. So Asher is very, very abundant with children. They have lots of kids.
 
 - Let him be acceptable to his brethren. A lot of y'all see those people over there, when they are our people, cuz y'all simple as hell, don't know anything.
 
-- Let him dip his foot in oil. Meaning what? Meaning that his land will be rich with oil. Read it again.
+- Let him dip his foot in oil. Meaning what? Meaning that his land will be rich with oil.
 
-- Let him dip his foot in oil, meaning he would be blessed with lots of oil in the land. Read on.
+- Let him dip his foot in oil, meaning he would be blessed with lots of oil in the land.
 
 > <sup>[25](/bible/deuteronomy/33#v25)</sup> Thy shoes shall be iron and brass; and as thy days, so shall thy strength be.
 
-- Meaning his land be rich with iron and brass. With iron and brass. Brazil literally means, I believe it means iron. Land of iron. The Hebrew name, I believe, is barzel. Meaning it's the land of iron. That's Brazil's Hebrew name pretty much; it's a Hebrew word that the natives gave it for iron. But this land over here is literally filled with oil. So the Lord blessed Asher over there with oil. Okay? Venezuela has the largest crude oil reserves, larger than Saudi Arabia. All right, the Lord blessed Ishmael too, but he blessed us more.
+- Meaning his land be rich with iron and brass. With iron and brass. Brazil literally means, I believe it means iron. Land of iron. The Hebrew name, I believe, is barzel. Meaning it's the land of iron. That's Brazil's Hebrew name pretty much; it's a Hebrew word that the natives gave it for iron. But this land over here is literally filled with oil. So the Lord blessed Asher over there with oil. Venezuela has the largest crude oil reserves, larger than Saudi Arabia. All right, the Lord blessed Ishmael too, but he blessed us more.
 
 - Dip his foot in oil. Asher was blessed to have the oil, and Esau knows that. Wherever you find God's people, you will find the blessings of God. The oil, the iron. That's why these white folks, their empires cannot thrive without the Americas. Central and South America. Without Africa. Wherever Israel is found in abundance, you're going to find abundance of resources. Cuz God loves his people. Even in our lowest estate, in our most poorest condition, God will have his people surrounded by wealth and resources. As a curse, we can't enjoy them for the most part, but God surrounds his people with wealth and resources, because wherever we are, that place is blessed. This land.
 
@@ -460,7 +460,7 @@ Reading from a definition of iridium, and a post on Uganda's gold discovery  *[[
 
 - **Officer:** I don't know, man. Our people are stupid, bro. They are stupid as hell over there. "Hey, white man, I found gold."
 
-- **Deacon Eythan:** "I found gold." Oh, man. Who is like unto the beast? Press play. Continue. We're on Chavez.
+- **Deacon Eythan:** "I found gold." Oh, man. Who is like unto the beast? Continue. We're on Chavez.
 
 </div>
 
@@ -470,7 +470,7 @@ Reading from a clip of Hugo Chavez, with the commentary over it  *[[1:02:30](htt
 
 > Until the United States is running out of oil.
 
-- How? How you run out of oil? Because Esau doesn't stop. That's Obadiah. He will not stop till he has enough. He steals things till nothing's left. He drains the land dry. That's earthquakes. He drains the earth dry till nothing's left. God said let the earth rest. Esau said, "I don't care what God says. Earth don't got to rest. The earth will rest when I say it can rest." That's why there's very little oil left. But in the Americas, it's housed. It's abundant. So he's saying that North America is running out of oil. They're going to try to come and take ours. I know it for a fact. Stop talking. Press play.
+- How? How you run out of oil? Because Esau doesn't stop. That's Obadiah. He will not stop till he has enough. He steals things till nothing's left. He drains the land dry. That's earthquakes. He drains the earth dry till nothing's left. God said let the earth rest. Esau said, "I don't care what God says. Earth don't got to rest. The earth will rest when I say it can rest." That's why there's very little oil left. But in the Americas, it's housed. It's abundant. So he's saying that North America is running out of oil. They're going to try to come and take ours. I know it for a fact. Stop talking.
 
 > Are you paranoid?
 
@@ -512,8 +512,6 @@ Reading from a graphic map of US interventions in Latin America  *[[1:06:05](htt
 
 > US-backed coup kills civilians, kidnaps President Hugo Chavez before the Venezuelan people force his return.
 
-- Wow.
-
 > Chile. CIA-backed coup ousts popular, democratically elected socialist president.
 
 - Two interventions there.
@@ -540,7 +538,7 @@ Reading from a graphic map of US interventions in Latin America  *[[1:06:05](htt
 
 - **Officer:** Going back to the point about how the Lord places us where wealth is, right? Remember here in North America, with Gad. Remember when they replaced us during the Trail of Tears, the Osage tribe? Remember they found oil, right? That's what the movie Killers of the Flower Moon was about. So the Lord put us where oil and gold and so forth was. Whatever we had, those resources.
 
-- **Deacon Eythan:** Killers of the Flower Moon. That goes right back to the Israelis, the so-called Jewish; they were marrying into the families of the Osage and washing them out. So, watch: a lot of the Osage look like white folks now, a lot of them. They washed them out through the women. And the mother in the movie was saying, "Yo, why you laying with these men? Stop laying with them." She was old and dying. "Stop laying with them. They're washing us out." So they got washed out. This is an hour away from Tulsa, Oklahoma. An hour away. They were conquered at the exact same time. All right? Go back to the article. Go back to that again. Read that here.
+- **Deacon Eythan:** Killers of the Flower Moon. That goes right back to the Israelis, the so-called Jewish; they were marrying into the families of the Osage and washing them out. So, watch: a lot of the Osage look like white folks now, a lot of them. They washed them out through the women. And the mother in the movie was saying, "Yo, why you laying with these men? Stop laying with them." She was old and dying. "Stop laying with them. They're washing us out." So they got washed out. This is an hour away from Tulsa, Oklahoma. An hour away. They were conquered at the exact same time. Go back to the article. Go back to that again. Read that here.
 
 </div>
 
@@ -550,11 +548,11 @@ Reading from a page on the persecuted Jews and Moors expelled from Spain  *[[1:1
 
 > The persecuted Jews carried into Africa the secret of their oppressors' weakness. The African descendants of those expelled from Spain by the Romans, like the modern Moors, never relinquished their hopes of reconquest.
 
-- Right. We never regained power again.
+- We never regained power again.
 
 - **Officer:** But I wanted this page to land back what you was saying, about how Esau, they were Romans. So that's why I brought that page up.
 
-- **Deacon Eythan:** Expelled from Spain by the Romans. We were expelled from Spain by Romans. They were called Hispano-Romans. Now, that term is hard to find now. They're trying to hide it. But the Visigothic crown of Spain and Portugal, they were Hispano-Romans, placed there as the legion Gemina by Julius Caesar. He put them there. And they remained there up until that time. Okay? Julius Caesar placed them there, and they stayed there, became Hispano-Romans, or Romans of Spain.
+- **Deacon Eythan:** Expelled from Spain by the Romans. We were expelled from Spain by Romans. They were called Hispano-Romans. Now, that term is hard to find now. They're trying to hide it. But the Visigothic crown of Spain and Portugal, they were Hispano-Romans, placed there as the legion Gemina by Julius Caesar. He put them there. And they remained there up until that time. Julius Caesar placed them there, and they stayed there, became Hispano-Romans, or Romans of Spain.
 
 - So now, one more. Give me Deuteronomy 28:33 and 34.
 
@@ -584,7 +582,7 @@ Reading from a page on the persecuted Jews and Moors expelled from Spain  *[[1:1
 
 - You shall be oppressed within your land while they steal your resources.
 
-- And crushed alway. That's happened to Maduro. That's happened to Chavez. They will crush us. They're sending these FBI. They're sending, they call them, Navy SEALs. Delta Force. Destabilizers. Jackals. Secret militaries, mercenaries, are going there and destabilize lands and governments, cause confusion, set up coups, to do what? To reap the benefits of the land. Read on. Verse 34.
+- And crushed alway. That's happened to Maduro. That's happened to Chavez. They will crush us. They're sending these FBI. They're sending, they call them, Navy SEALs. Delta Force. Destabilizers. Jackals. Secret militaries, mercenaries, are going there and destabilize lands and governments, cause confusion, set up coups, to do what? To reap the benefits of the land. Verse 34.
 
 > <sup>[34](/bible/deuteronomy/28#v34)</sup> So that thou shalt be mad for the sight of thine eyes which thou shalt see.
 
@@ -596,7 +594,7 @@ Reading from a page on the persecuted Jews and Moors expelled from Spain  *[[1:1
 
 - **Officer:** Jackals, yeah. They call them jackals. These are like mercenaries.
 
-- **Deacon Eythan:** They're a problem. So I'm going to take a quick break right now. Stay tuned. We got some more. All right? Hey, also, let's get those likes up. We got over 800 viewing right now, so it should be over 800 likes, all right? Like and subscribe. Don't forget to donate. All praises. We'll be right back, all right?
+- **Deacon Eythan:** They're a problem. So I'm going to take a quick break right now. Stay tuned. We got some more. Hey, also, let's get those likes up. We got over 800 viewing right now, so it should be over 800 likes, all right? Don't forget to donate. We'll be right back, all right?
 
 *[[1:17:38](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=4658s)]* The break: the IUIC reels play. Captain Shem, one of the leaders of Israel United in Christ, on what the term Hebrew Israelite means, turning to Acts 21:37, where the chief captain asks Paul if he is that Egyptian: "Here's my question for you and your audience, which is very, very clear if we know history at all. What did the Egyptians look like?" Black. Officer Abishai with IUIC Kansas City at 90.1 KKI radio, and a guest from the show: "Overall, my mind was blown, because the things that I didn't know, it pretty much just sealed the deal on what I assumed. I think it's great for everybody to hear it, especially our people." IUIC's second back-to-school giveaway in Warminster, giving away free school supplies, books, pens, pencils, highlighters and t-shirts: "Giving to our community is what this is all about. Supporting our youth and helping them for the school year ahead." Captain Benaiyah at the first annual family and friends day. The brothers in Papua New Guinea: "The people here in Papua New Guinea are one of the tribes of the nation of Israel according to the flesh, the real Israelites. You're not spiritual Israelites." And the skit of the brothers sneaking off from Jacob's Cafe to McDonald's after Sabbath and getting caught.
 
@@ -646,7 +644,7 @@ Reading from a page on the persecuted Jews and Moors expelled from Spain  *[[1:1
 >
 > <sup>[15](/bible/ezekiel/35#v15)</sup> As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the Lord.
 
-- Right. So all Idumea will eventually be destroyed. All Idumea, that nation itself, will be completely and utterly eradicated out of existence. So Edom can have his time. Right now Edom is having his time. This is his time to rule. This is the time that he's to reign at this point. All right.
+- So all Idumea will eventually be destroyed. All Idumea, that nation itself, will be completely and utterly eradicated out of existence. So Edom can have his time. Right now Edom is having his time. This is his time to rule. This is the time that he's to reign at this point.
 
 - Real quick, get me African Presence real fast. I want page 161. I want to see something real quick. I missed this page last year. I want to see what I missed. African Presence in Early Europe. Read Contributions.
 
@@ -690,7 +688,7 @@ Reading from *African Presence in Early Europe*, page 161, on the contributions 
 
 > Many women were also imported from Galicia,
 
-- This is what black men were doing. Watch this.
+- This is what black men were doing.
 
 > for their blonde appearance attracted the Arab gentlemen.
 
@@ -728,7 +726,7 @@ Reading from *African Presence in Early Europe*, page 161, on the contributions 
 
 *[[1:40:58](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6058s)]* **Text:** Shalom, Deacon, leadership, Israel. Most High in Christ bless you all. We are going to be the ones judging Edom for the crimes we see them committing now, and before.
 
-**Deacon Eythan:** Now and before. Things that we see now, and things that we don't see, they're going to be judged for. You got something? It's from Captain Aurelio. Shout out to Captain Aurelio. Shalom, Cap. So this is going back to what's going on in Venezuela, about the coups and so forth.
+**Deacon Eythan:** Now and before. Things that we see now, and things that we don't see, they're going to be judged for. You got something? It's from Captain Aurelio. Shalom, Cap. So this is going back to what's going on in Venezuela, about the coups and so forth.
 
 <div class="reading">
 
@@ -736,7 +734,7 @@ Reading from a post Captain Aurelio sent, on the pattern of destabilization  *[[
 
 > What Trump and the United States are doing in Venezuela to destabilize and overthrow President Nicolas Maduro is not new. It's part of a centuries-old white supremacist playbook, which includes a long bipartisan pattern of destabilization targeting independent nations around the world. Democrats and Republicans alike have supported coups, assassinations, regime change, sanctions, and political imprisonment. The driving force behind these actions is not democracy. It is white supremacy operating through empire.
 
-- Right. So go down. Read this part too. We don't have to read all of it. Just certain points.
+- So go down. Read this part too. We don't have to read all of it. Just certain points.
 
 > This pattern spans the globe. The record is documented. This is not conspiracy. It is policy. Here is a basic list of Black, Caribbean, and African leaders removed and neutralized with US involvement.
 
@@ -764,7 +762,7 @@ Reading from a post Captain Aurelio sent, on the pattern of destabilization  *[[
 
 > Black America: Malcolm X, Dr. Martin Luther King Jr., Fred Hampton, Huey P. Newton, Assata Shakur. Today, those same white supremacist forces are actively working to undermine the sovereignty of Burkina Faso, Mali, and Niger. These nations are being targeted through sanctions, diplomatic isolation, proxy pressure, and media warfare for rejecting Western domination and asserting control over their resources and futures.
 
-- Right. Give me Daniel 8:25. So I showed you earlier about us laying with white women all the time, because that's how Esau always got in. Esau come in, move in, intermarry with us, infiltrate from the inside, and destabilize and destroy. They would oftentimes use their women. Even when we conquered the white man and his woman, his woman's loyalty remained with her own race. She still found a way to make it where we turn on each other. It happened.
+- Give me Daniel 8:25. So I showed you earlier about us laying with white women all the time, because that's how Esau always got in. Esau come in, move in, intermarry with us, infiltrate from the inside, and destabilize and destroy. They would oftentimes use their women. Even when we conquered the white man and his woman, his woman's loyalty remained with her own race. She still found a way to make it where we turn on each other. It happened.
 
 </div>
 
@@ -772,7 +770,7 @@ Reading from a post Captain Aurelio sent, on the pattern of destabilization  *[[
 
 > <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 
-- Through his policy. Come on.
+- Through his policy.
 
 - Cause his craft, or his intent, his plans, to prosper in his hand. To do what? Take lands, conquer people, kill leaders.
 
@@ -860,13 +858,13 @@ Reading from *Ancient and Modern Britons*, pages 157 and 158, on the black heath
 
 </div>
 
-*[[1:49:58](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6598s)]* Give me images real fast, of black folks in the castles and white folks outside fighting us. This is one right here. This is called the wild men. These are tall and fair, and we're shorter. This is symbolic for them taking over, conquering us. So the castle's small, meaning that Esau would overthrow. That's why they made the Jakes small and the castle small, and Edom big. This is the tapestry of the wild men taking over and fighting us. You see the king and queen in the castle. Zoom in. See them both wearing a crown, the king and queen in there, watching the fight go on. Him and his wife. You can see the guy on the right pointing over there. Go down to the bottom. You see all them fighting over there, the arrows. That's the military over there, with the arrows, the archers there, fighting them. So that's us fighting against them. These people eventually moved into our castle. The wild men took our castles over.
+*[[1:49:58](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6598s)]* Give me images real fast, of black folks in the castles and white folks outside fighting us. This is one right here. This is called the wild men. These are tall and fair, and we're shorter. This is symbolic for them taking over, conquering us. So the castle's small, meaning that Esau would overthrow. That's why they made the Jakes small and the castle small, and Edom big. This is the tapestry of the wild men taking over and fighting us. You see the king and queen in the castle. See them both wearing a crown, the king and queen in there, watching the fight go on. Him and his wife. You can see the guy on the right pointing over there. Go down to the bottom. You see all them fighting over there, the arrows. That's the military over there, with the arrows, the archers there, fighting them. So that's us fighting against them. These people eventually moved into our castle. The wild men took our castles over.
 
 *[[1:51:10](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6670s)]* Get some more images now. Go up to the top one. So that's us fighting. That's them fighting. You see right there, the swords. The white folks on that side over there to the left. Black folks in the castle. They're climbing up, on the right. That's our castles. We lost. See the shield with the lion on it. That's Judah. The shield with the lion on it. And that's them laying there dead in the ground. They conquered us and took our castle.
 
-*[[1:51:44](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6704s)]* Transition of power. Same thing. Transition of power. Taking us over. Taking our land over. White man coming in. Jakes fighting them off, into the castle. Zoom in to the guy with the bandana. The guy with the bandana is the king. That's the king right there. That was considered a crown. The bandana over the eyes: when we got conquered, they put the bandana over our eyes, meaning we were subjugated. Overthrown. Okay. We were ruling, and we started messing around with their women. Messing with the white girls. Led to this right here. That's what happened. Give me real fast Numbers, just to show you Balaam, what his counsel was. Numbers 25 first.
+*[[1:51:44](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6704s)]* Transition of power. Same thing. Transition of power. Taking us over. Taking our land over. White man coming in. Jakes fighting them off, into the castle. Zoom in to the guy with the bandana. The guy with the bandana is the king. That's the king right there. That was considered a crown. The bandana over the eyes: when we got conquered, they put the bandana over our eyes, meaning we were subjugated. Overthrown. We were ruling, and we started messing around with their women. Messing with the white girls. Led to this right here. That's what happened. Give me real fast Numbers, just to show you Balaam, what his counsel was. Numbers 25 first.
 
-*[[1:52:58](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6778s)]* See the image right there? That's the crown there. The image with the crown with the bandana over the eyes means we are conquered and overthrown. The one not over the eyes means we are still ruling. We can see. One versus blindness and conquered. Blindness and darkness on us, enslavement; enlightenment, or rulership, on the other side. You see a coat of arms with the bandana over the eyes, that's conquered territory. Moors conquered. This is a sign of Moors conquered. Okay. That's what that represents. Over the eyes.
+*[[1:52:58](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6778s)]* See the image right there? That's the crown there. The image with the crown with the bandana over the eyes means we are conquered and overthrown. The one not over the eyes means we are still ruling. We can see. One versus blindness and conquered. Blindness and darkness on us, enslavement; enlightenment, or rulership, on the other side. You see a coat of arms with the bandana over the eyes, that's conquered territory. Moors conquered. This is a sign of Moors conquered. That's what that represents. Over the eyes.
 
 **[Numbers 25:1-3](/bible/numbers/25#v1)**  *[[1:53:14](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=6794s)]*
 
@@ -914,7 +912,7 @@ Reading from *Conquest of Brazil* by Roy Nash, page 37, on the Moors and the Por
 
 > Many North Americans profess horror at the intermarriage of white and colored types,
 
-- Stop. Read it again.
+- Stop.
 
 > Many North Americans profess horror at the intermarriage of white and colored types, which is so common in South America. Mark well, then, that the first contact of the Portuguese and Spanish with a darker skinned people was the contact of the conquered with their brown skinned conquerors.
 
@@ -938,7 +936,7 @@ Reading from *Conquest of Brazil* by Roy Nash, page 37, on the Moors and the Por
 
 - **Officer:** Yeah, we was. And we will be so again.
 
-- **Deacon Eythan:** Right. Forever. That's right. He, the black man, lived in the castles and occupied the towns. This book is called Conquest of Brazil, by Roy Nash. They're asking what the book is called. Conquest of Brazil, by Roy Nash. Read it again.
+- **Deacon Eythan:** Forever. That's right. He, the black man, lived in the castles and occupied the towns. This book is called Conquest of Brazil, by Roy Nash. They're asking what the book is called. Conquest of Brazil, by Roy Nash.
 
 > He lived in the castles and occupied the town. He was the rich man,
 
@@ -954,7 +952,7 @@ Reading from *Conquest of Brazil* by Roy Nash, page 37, on the Moors and the Por
 
 > the brown man, instead of the reverse.
 
-- The brown man instead of the reverse. Read on.
+- The brown man instead of the reverse.
 
 > Nor was it only the Portuguese peasantry whose blood mingled with the Moors. Alfonso the VI, who united Castile, Leon, and Galicia in 1073, to cite but one of many instances of marriage between Christian and Arab nobles, chose a Moorish princess, the daughter of the emir of Seville, to be the mother of his son Sancho.
 
@@ -980,7 +978,7 @@ Reading from *Conquest of Brazil* by Roy Nash, page 37, on the Moors and the Por
 
 - What do they do? They will turn away thy son from following me. Or turn us on each other.
 
-- That's all I want. Go back to where you were. Let me see something. Early Crusades. That's all I want. I'm good. Now get me into the Modern Britons. I'm going to page 122. So now we're leading, we're getting to King James eventually. We'll do a sidebar. 122. Read that.
+- That's all I want. Go back to where you were. Let me see something. Early Crusades. That's all I want. I'm good. Now get me into the Modern Britons. I'm going to page 122. So now we're leading, we're getting to King James eventually. We'll do a sidebar. 122.
 
 <div class="reading">
 
@@ -1008,7 +1006,7 @@ Reading from *Ancient and Modern Britons*, page 122, on the traces of the black 
 
 > And when he particularized at another time a MacLeod, a robust, black-haired fellow, half naked and bareheaded, something between a wild Indian and an English tar.
 
-- Hold on. We got another text. That's long as hell. Zoom in.
+- We got another text. That's long as hell.
 
 </div>
 
@@ -1028,11 +1026,11 @@ Reading from *Ancient and Modern Britons*, on the western islanders and the Dane
 
 > And finally, one who has every right to speak upon the characteristics of the western islanders gives us the following picture of an islander.
 
-- Of an islander. I mentioned last week about Highlanders. The show Highlander. Go down to that footnote right there. Read that.
+- Of an islander. I mentioned last week about Highlanders. The show Highlander. Go down to that footnote right there.
 
 > This MacLeod was a true descendant of the black prince of Man.
 
-- Wow. Wild Indian and English tar. English tar: that means black English. Tar, black. All right. Go up to the top real fast. It should say, "Her hair was black as night." Read that.
+- Wild Indian and English tar. English tar: that means black English. Tar, black. Go up to the top real fast. It should say, "Her hair was black as night."
 
 > Her hair was as black as night, and her clear, dark eyes glittered through the peat smoke.
 
@@ -1046,7 +1044,7 @@ Reading from *Ancient and Modern Britons*, on the western islanders and the Dane
 
 - Swarthy skin, black skin. Go to the pencil mark. 122, 126, and then 173. What's 126 say?
 
-- Maybe they had … eyes. They were dark, but they had like small eyes. High cheekbones, like Native Americans. Go up. Read that before going on.
+- Maybe they had … eyes. They were dark, but they had like small eyes. High cheekbones, like Native Americans. Read that before going on.
 
 </div>
 
@@ -1058,11 +1056,11 @@ Reading from *Ancient and Modern Britons*, page 126, on the word black in the pl
 
 > It has been remarked, incidentally, by an American writer, that Indian Creek is a sort of John Smith in the nomenclature of western streams. And this, of course, is the result of the fact that for many years after a frontier district has been settled, though not thickly, by white pioneers, scattered bands of the native tribes have lingered on in a harmless, gypsy fashion beside their old riverside camps.
 
-- Go down. John Smith.
+- John Smith.
 
 > There is no word better entitled to be called the John Smith of the nomenclature of British localities than the word black. Undoubtedly, there are cases where this adjective has been applied because it denoted some apparent and striking feature in the landscape. But in most instances, no such explanation is satisfactory, and it is apparent that the real origin of the name dates from the days when certain portions of Scotland were distinctly recognized as black divisions,
 
-- Black divisions. Come on.
+- Black divisions.
 
 > for the simple reason that they were peopled by black races, over whom, in the latter half of the 10th century, there ruled Kenneth MacMalcolm,
 
@@ -1112,7 +1110,7 @@ Reading from *Ancient and Modern Britons*, page 173, on the Moorish kings of Alb
 
 > They were ultimately overcome,
 
-- We were what? Ultimately overcome. Hold that. Revelation 13 and 7.
+- We were what? Ultimately overcome. Revelation 13 and 7.
 
 </div>
 
@@ -1136,15 +1134,15 @@ Reading from *Ancient and Modern Britons*, pages 173 and 174, continued, on the 
 
 - Separate and distinct nations was because there was two ruling classes, black and white. Now it's just white now. What page is this? 174.
 
-- **Officer:** Hurry up and take a picture of that page. Read that. Go back where Deacon was saying.
+- **Officer:** Hurry up and take a picture of that page. Go back where Deacon was saying.
 
 > The resemblances between the British Moors of the old historians and the least mixed among their descendants of today, whom we call gypsies, are many.
 
-- Stop. The gypsies, original ones, were black. Gypsy is short for Egyptians, which means blacks. So the white folks, when they conquered us, they took on the title of gypsies. Those are Romanians. Romanians or Italians conquered inside of that area and called themselves gypsies. But the original gypsies were black. Okay? Like Wallace D. Fard Muhammad, he'd be the white ones. White gypsy. We had black ones before.
+- Stop. The gypsies, original ones, were black. Gypsy is short for Egyptians, which means blacks. So the white folks, when they conquered us, they took on the title of gypsies. Those are Romanians. Romanians or Italians conquered inside of that area and called themselves gypsies. But the original gypsies were black. Like Wallace D. Fard Muhammad, he'd be the white ones. White gypsy. We had black ones before.
 
 - **Officer:** Was there a chance he may have been a black gypsy down the line, cuz he taught that doctrine about the white man the devil?
 
-- **Deacon Eythan:** I don't know, maybe, but I think he was Edom. I think he was a scammer. I think he was a grifter, to be honest. That's just me. Go down. Highlands, gypsies, Severus. Read So long their property.
+- **Deacon Eythan:** I don't know, maybe, but I think he was Edom. I think he was a scammer. I think he was a grifter, to be honest. That's just me. Highlands, gypsies, Severus. Read So long their property.
 
 > So long their property that we can trace their possession of it from the era of the iron-girt enemies of Severus
 
@@ -1152,7 +1150,7 @@ Reading from *Ancient and Modern Britons*, pages 173 and 174, continued, on the 
 
 > down to the present century, when, in the neighborhood of St. Andrew's, Simpson, page 140, a small foundry known as
 
-- All right, next page. What I said again? 152. I'm almost done.
+- What I said again? 152. I'm almost done.
 
 </div>
 
@@ -1170,15 +1168,13 @@ Reading from *Ancient and Modern Britons*, page 152, on the sons of Ruari and Th
 
 > But in this case, the sons of Ruari were well named,
 
-- Watch this.
-
 > for Ruari, Rodri, or Roderick may be rendered the tawny chief,
 
 - The light brown chief.
 
 > being a compound of Rod, Rud, German Roth, Old Gaelic Ruadh, English red and ruddy,
 
-- Stop. So, for Ruari, it says in German the word Rod, Rud, was changed to Roth. Like Rothstein, Rothschild. Roth means red in Germanic. So this word in Germanic is red. In Old Gaelic it's Ruadh. In English it's red and ruddy. Read on.
+- Stop. So, for Ruari, it says in German the word Rod, Rud, was changed to Roth. Like Rothstein, Rothschild. Roth means red in Germanic. So this word in Germanic is red. In Old Gaelic it's Ruadh. In English it's red and ruddy.
 
 > and Ri, Ric, or Rai, in Gypsy Raya, a kinglet or chief.
 
@@ -1186,7 +1182,7 @@ Reading from *Ancient and Modern Britons*, page 152, on the sons of Ruari and Th
 
 > That swarthy warrior, Thorfinn the Dane.
 
-- Stop. So, Thorfinn, I told you about him last week. He was Thorfinn the Dane, the swarthy warrior. Go to next page. Wait. I don't want to repeat the same thing. This giant styled black oppressor. Read that.
+- Stop. So, Thorfinn, I told you about him last week. He was Thorfinn the Dane, the swarthy warrior. Go to next page. I don't want to repeat the same thing. This giant styled black oppressor.
 
 </div>
 
@@ -1196,7 +1192,7 @@ Reading from *Ancient and Modern Britons*, page 154, on the black oppressor and 
 
 > This giant is styled the black oppressor, and seems to have been of the same genial nature as the black knight of Ashton-under-Lyne.
 
-- So, Ashton-under-Lyne, that black knight. Black knights. Go down. Read that. Another time when.
+- So, Ashton-under-Lyne, that black knight. Black knights. Another time when.
 
 > And another time, when he and other Round Table Knights were in Arthur's Hall at Caerleon, they saw a black curly-headed maiden enter. Her aspect is characterized as rough and hideous. Blacker were her face and her two hands than the blackest iron covered with pitch,
 
@@ -1206,9 +1202,9 @@ Reading from *Ancient and Modern Britons*, page 154, on the black oppressor and 
 
 - Really dark black woman, that was pretty much somewhat deformed, I guess, in stature. So I wanted that there. What page is this? 154. Okay, what you got? 235? Land back with you.
 
-- **Officer:** Damn, why so dark? All right. I was thinking it, but you said it.
+- **Officer:** Damn, why so dark? I was thinking it, but you said it.
 
-- **Deacon Eythan:** Read that. In short.
+- **Deacon Eythan:** In short.
 
 </div>
 
@@ -1217,8 +1213,6 @@ Reading from *Ancient and Modern Britons*, page 154, on the black oppressor and 
 Reading from *Ancient and Modern Britons*, page 235, on the overthrow of the black nobility  *[[2:20:20](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=8420s)]*
 
 > In short, ever since the overthrow of the black nobility in 1455,
-
-- Wow.
 
 > or to go far further back,
 
@@ -1230,7 +1224,7 @@ Reading from *Ancient and Modern Britons*, page 235, on the overthrow of the bla
 
 > ever since the 10th century, when a white king displaced the black one on the Pictish throne,
 
-- Wow. When a white king displaced a black one on the Pictish throne. That's the Picts.
+- When a white king displaced a black one on the Pictish throne. That's the Picts.
 
 > those Moors who refused to accept the laws of the new civilization,
 
@@ -1238,7 +1232,7 @@ Reading from *Ancient and Modern Britons*, page 235, on the overthrow of the bla
 
 > and who refrained from mixing their blood with that of the white races, have been sinking lower and lower in the social scale, until in the 16th century they had become outlaw banditti, Mosstroopers, or Gypsies.
 
-- Oh. The descendants of those Moors were called Gypsies.
+- The descendants of those Moors were called Gypsies.
 
 - **Officer:** Yeah. The ones that refused to mingle themselves, or to give their daughters over.
 
@@ -1250,11 +1244,11 @@ Reading from *Ancient and Modern Britons*, page 235, on the overthrow of the bla
 
 ## In Closing
 
-*[[2:21:43](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=8503s)]* **Officer:** Shoutout for all of you that did tune in, man. We appreciate you. The support is beautiful. Shoutout to Captain Aurelio, who actually participated in our lesson today. Hey, shoutout to PSR, man. I got to say that. They got their 500th episode last week. That's a big accomplishment. All praise to the Most High. And all the shows that bring some history to teach our people, you know, our history.
+*[[2:21:43](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=8503s)]* **Officer:** We appreciate you. The support is beautiful. I got to say that. They got their 500th episode last week. That's a big accomplishment. And all the shows that bring some history to teach our people, you know, our history.
 
 *[[2:23:58](https://www.youtube.com/watch?v=ffxKEbSLscQ&t=8638s)]* **Officer:** Distractions everywhere. We going to get it together, Deac. So there you go, brothers and sisters. That's what I got here. I got no more.
 
-**Deacon Eythan:** All right, listen. Lord's will, for two weeks we'll be on a short hiatus for the show, cuz I'll be traveling for a while. So when we get back, we going to jump right into King James. Lord's will, we going to jump into his family. Jump into his father's side, his mother's side. So just stay tuned for that. It's going to be exciting to go into that history.
+**Deacon Eythan:** Lord's will, for two weeks we'll be on a short hiatus for the show, cuz I'll be traveling for a while. So when we get back, we going to jump right into King James. Lord's will, we going to jump into his family. Jump into his father's side, his mother's side. So just stay tuned for that. It's going to be exciting to go into that history.
 
 Yes, sir. And also, the sister that you mentioned, the text, that Zakai had on the show. I'm bad with names.
 

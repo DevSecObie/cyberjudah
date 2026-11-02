@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "faith", "spain-inquisition"]
 
 ## Introduction
 
-*[[10:56](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=656s)]* Hey, hey, welcome back, welcome back. We are back, we are back, we are back. All praise to the Most High, another episode of Our Hidden History. So you are now tuned into Our Hidden History radio show. So we're back. A lot of y'all requested that book, so I pulled some more pages. I'm not sure I was going to go into the class, but we're going to do Story Time with Satan today. Story Time with the Devil. It's going to be Story Time with the Devil today. So give me Psalms. Get excited. You can hear me? Psalms, the tongue fall upon themselves. Psalms 64:8.
+*[[10:56](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=656s)]* All praise to the Most High, another episode of Our Hidden History. So you are now tuned into Our Hidden History radio show. A lot of y'all requested that book, so I pulled some more pages. I'm not sure I was going to go into the class, but we're going to do Story Time with Satan today. Story Time with the Devil. It's going to be Story Time with the Devil today. So give me Psalms. Get excited. Psalms, the tongue fall upon themselves. Psalms 64:8.
 
 ## Readings and Scriptures
 
@@ -38,11 +38,11 @@ tags: ["Our Hidden History", "faith", "spain-inquisition"]
 
 > <sup>[8](/bible/job/8#v8)</sup> For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
 
-- **Officer:** You see that? The Bible says inquire of the former age, the age that's before us. Prepare thyself to the search of their fathers. So the search of our fathers is in this Bible. The search of our fathers is in this Bible, and also all that hidden history that we never knew about before.
+- **Officer:** The Bible says inquire of the former age, the age that's before us. Prepare thyself to the search of their fathers. So the search of our fathers is in this Bible. The search of our fathers is in this Bible, and also all that hidden history that we never knew about before.
 
 > <sup>[9](/bible/job/8#v9)</sup> (For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)
 
-- **Officer:** For we are but of yesterday. Life is short. And know nothing: we don't know anything. And you know why we didn't know anything? Because we lost our heritage and so forth. Give me Jeremiah 17:4. I said it to y'all on the Telegram; just make sure you download it. When you play it, download it and play it. Because the things that we did know, now we lost all of that.
+- **Officer:** For we are but of yesterday. Life is short. And know nothing: we don't know anything. And you know why we didn't know anything? Because we lost our heritage and so forth. Give me Jeremiah 17:4. When you play it, download it and play it. Because the things that we did know, now we lost all of that.
 
 **[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[[15:31](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=931s)]*
 
@@ -90,13 +90,13 @@ Reading from a video played on air, *Artifacts in the Vatican*, a man who says h
 >
 > God taught us a lot of things, and I studied the Bible very, very well for a lot of years, and I went to every religion on earth that I could go to. I've been to China. I've sat with the Buddhists. I've been all over this world. When I was in intel with the government, when they had something that dealt with religion, they sent me. They sent me into the basement of the Vatican with a group of people to look at the lost scrolls.
 
-- Pause. When he says group of people, he's referring to the scholars. It wasn't just him alone. I want you to understand, it wasn't just him alone. Intelligence sent him. Esoteric. When the Bishop had that conversation with that dude, the dude said, "I work for a group of scholars," and more than likely that's the same group of scholars that he was sent from to talk to the Bishop. The same ones that was with this guy here.
+- When he says group of people, he's referring to the scholars. It wasn't just him alone. I want you to understand, it wasn't just him alone. Intelligence sent him. Esoteric. When the Bishop had that conversation with that dude, the dude said, "I work for a group of scholars," and more than likely that's the same group of scholars that he was sent from to talk to the Bishop. The same ones that was with this guy here.
 
 - We tried to go to the Vatican. We went to Italy. They told us we need a sponsor. We can read only one page, damn, and it's in Latin, and you have to know exactly what you want to read on that page. You can't browse, none of that. The people that lived there was like, "Good luck, we can't even get in there." The locals told the Bishop, "Hey, if you can get in the Vatican, that'd be great. We've been living here for years, we can't even get in there." So this guy is not no regular dude.
 
 > ...a group of people to look at the lost scrolls. And we brought out, the United States government brought out of the basement, the Maccabees, Esther, the Wisdom of Solomon, many books of the Bible that weren't in the Bible.
 
-- Pause. That be your Esdras, that be your Tobit, that be your First Esdras, that be your Susanna, your Baruch. When he says not in the Bible, he means not in the Protestant Bibles. The Protestant Bibles have only 66 books. The real Bible, the real King James Bible, had 80 books; you include the other 14 that the Protestants removed. Because people say the Catholic Church removed it. No, the Catholic Church has them in their Bibles. The Protestants, who protested the Catholic Church, they protested against those books and had them removed, because they felt they weren't canonical.
+- That be your Esdras, that be your Tobit, that be your First Esdras, that be your Susanna, your Baruch. When he says not in the Bible, he means not in the Protestant Bibles. The Protestant Bibles have only 66 books. The real Bible, the real King James Bible, had 80 books; you include the other 14 that the Protestants removed. Because people say the Catholic Church removed it. No, the Catholic Church has them in their Bibles. The Protestants, who protested the Catholic Church, they protested against those books and had them removed, because they felt they weren't canonical.
 
 - But the disciples had those books in their Bibles. I'll say it again: the Messiah himself and the disciples, they had the Septuagint, the Greek Bible. They had those books in it. Now scholars say that Second Esdras was not, and it came later on. I don't believe it, but nonetheless most of, if not all of, the books of the Apocrypha are found in the Bibles of the disciples. The Messiah was reading Tobit. The Messiah read Ecclesiasticus. He was reading the Wisdom of Solomon. He read these things. They quoted them. Paul was quoting from them. Matthew quoted from them. Christ quoted from them. So when he says not in the Bible, he's referring to not in the Protestant version, or the regular Christian ones, which is 66.
 
@@ -122,7 +122,7 @@ Reading from a second video played on air, on Negro Land and the Kingdom of Juda
 
 > They were of European origin. They were Western Mongols that had infiltrated Britain and mainly Portugal.
 
-- Pause. They infiltrated Britain and mainly Portugal. And when they got to Portugal, when they migrated from Khazaria into Spain and Portugal, they learned from our schools. They learned from the schools that were in Spain. Come on, y'all. Go back. You're throwing me off with this. Stay focused.
+- They infiltrated Britain and mainly Portugal. And when they got to Portugal, when they migrated from Khazaria into Spain and Portugal, they learned from our schools. They learned from the schools that were in Spain. Come on, y'all. Go back. You're throwing me off with this. Stay focused.
 
 > ...and ancient maps in 1747 of Africa, you'll find a country called Negro Land and the Kingdom of Judah. This is of utmost importance for us to understand how Yahawah is gathering the twelve tribes that are scattered abroad. Because what actually happened is in this Gulf of Guinea in Western Africa, European slave ship holders, they were Ashkenazi slavers. They were of European origin. They were Western Mongols that had infiltrated Britain and mainly Portugal. They were the Ashkenazi slavers. They were wealthy merchant slavers.
 
@@ -136,7 +136,7 @@ Reading from a second video played on air, on Negro Land and the Kingdom of Juda
 
 > ...to go into the Kingdom of Judah and Negro Land and take the royal house of Judah captive in slave ships, as it's recorded in the book of Deuteronomy, and bring them over to America, and they became known today as what? African Americans.
 
-- Pause. The royal line of Judah, they became African Americans. So the ones that say that it's false, y'all never ever present the right one. Okay, where's the right one then? Because Esau know who the tribes are. This is the second video I've seen where the guy says the royal line of David was brought over here to America in slave ships. Second one.
+- The royal line of Judah, they became African Americans. So the ones that say that it's false, y'all never ever present the right one. Okay, where's the right one then? Because Esau know who the tribes are. This is the second video I've seen where the guy says the royal line of David was brought over here to America in slave ships. Second one.
 
 - Now get me what I want. Oh yeah, Story Time with Satan. Go to *New World Jewry*. I recommended that book last week. You know I'm a man of my word, so I brought it back. Get the cover of the book, and I want you to read the inside of the book.
 
@@ -148,7 +148,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > New World Jewry, 1493-1825: Requiem for the Forgotten. Seymour B. Liebman.
 
-- Now as you know, this book is very, very hard to come by in terms of physical. You can get the PDF, but as far as having it in your hand, nah, unless you got that kind of money on you. You got them pockets. Let's get some info on Liebman. Published 1982. It was published 42 years ago. Go to the front, where I took a picture of it, the inside. His credentials. Read that.
+- Now as you know, this book is very, very hard to come by in terms of physical. You can get the PDF, but as far as having it in your hand, nah, unless you got that kind of money on you. You got them pockets. Let's get some info on Liebman. Published 1982. It was published 42 years ago. Go to the front, where I took a picture of it, the inside. His credentials.
 
 > Seymour B. Liebman's twenty years of research in the original Inquisition documents...
 
@@ -170,7 +170,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > ...flamboyant leaders, daring exploits, communal relationships, superstitions, sex customs and food habits pursuant to rabbinical injunctions.
 
-- Go down. Go to the other side. There's a picture of him on the other side. I said take a picture of both. Y'all off your game today, man. There's a picture of him on the other side of the book; you open it, it's in the back. Come take the picture and let's go. Y'all, what's going on with y'all today, man? Give me Isaiah 11.
+- Go to the other side. There's a picture of him on the other side. I said take a picture of both. Y'all off your game today, man. There's a picture of him on the other side of the book; you open it, it's in the back. Come take the picture and let's go. Y'all, what's going on with y'all today, man? Give me Isaiah 11.
 
 - **Officer:** I find it interesting it said this is the first book he wrote, and I see there's other ones.
 
@@ -284,7 +284,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > Assimilation by a group includes the loss of distinctiveness.
 
-- Read it again. Because when you assimilate, you begin to marry outside your race. He's saying assimilation by a group includes the loss of distinctiveness. When you integrate, you maintain your individuality. Like you have math: you have division, subtraction, multiplication. Integrated mathematics is like different groups of math on one page: addition there, subtraction there. But when you assimilate, it all becomes one. There is no individuality anymore. Now you lose all distinctiveness. You're no longer a Jew anymore. Now we're all Spanish. We're all Portuguese. We're all American. We're all children of Allah. We're all children of God. You lose your distinctiveness. Our faith was based upon separateness. Our laws are based upon separateness. That's why I said during the Inquisition, endogamy was a sine qua non. It was necessary, because you would lose yourself.
+- Because when you assimilate, you begin to marry outside your race. He's saying assimilation by a group includes the loss of distinctiveness. When you integrate, you maintain your individuality. Like you have math: you have division, subtraction, multiplication. Integrated mathematics is like different groups of math on one page: addition there, subtraction there. But when you assimilate, it all becomes one. There is no individuality anymore. Now you lose all distinctiveness. You're no longer a Jew anymore. Now we're all Spanish. We're all Portuguese. We're all American. We're all children of Allah. We're all children of God. You lose your distinctiveness. Our faith was based upon separateness. Our laws are based upon separateness. That's why I said during the Inquisition, endogamy was a sine qua non. It was necessary, because you would lose yourself.
 
 > There exists a very real Jewish consanguinity, and yet this consanguinity is not purely physical, not a mere blood relationship...
 
@@ -334,7 +334,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > Those who do appear are an occasional slave or commercial competitor. Many slaves are referred to as Ladino. In this context, Ladino: a Negro slave who could speak Spanish understandably.
 
-- Wait a minute, wait a minute, wait a minute. So we read earlier that the Jews of Spain and Portugal spoke Ladino, and their vernacular was pure Castilian. Now we reading here that many slaves are referred to as Ladino. In this context, Ladino means a Negro slave who could speak Spanish understandably. Why? Because this Negro slave here was the Jews that was shipped over here from Spain and Portugal, whom the Portuguese called Negroes. You understand? So the Spanish-speaking Jews spoke Ladino, because that's what they were called, and the Negro slaves were called Ladino because it's the same people. That's what he's saying in this book here. I read this book cover to cover, and that's exactly what he's saying. There's no "oh, maybe something written somewhere else." Nope. That's what he's saying. The Negro slave could speak Spanish understandably because he was a Jew that spoke Spanish.
+- Wait a minute, wait a minute, wait a minute. So we read earlier that the Jews of Spain and Portugal spoke Ladino, and their vernacular was pure Castilian. Now we reading here that many slaves are referred to as Ladino. In this context, Ladino means a Negro slave who could speak Spanish understandably. Why? Because this Negro slave here was the Jews that was shipped over here from Spain and Portugal, whom the Portuguese called Negroes. So the Spanish-speaking Jews spoke Ladino, because that's what they were called, and the Negro slaves were called Ladino because it's the same people. That's what he's saying in this book here. I read this book cover to cover, and that's exactly what he's saying. There's no "oh, maybe something written somewhere else." Nope. That's what he's saying. The Negro slave could speak Spanish understandably because he was a Jew that spoke Spanish.
 
 - Now, what page is that? 40. Go back to page 16. You can't make this up, bro. You cannot make it up. Remember, this guy did studies in the Inquisition of Spain and Portugal, Mexico, Brazil. He knows. He had the records. The Jews are described by their features and all that in the books. We've read them.
 
@@ -346,7 +346,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > Messianism is primarily the religious belief in the coming of a redeemer who will end the present order of things, either universally or for a single group, and who will institute a new order of justice and happiness.
 
-- Read it again. Messianism is primarily the religious belief in what? In the coming of a redeemer, who will end the present order of things. He was going to come and destroy the kingdoms on the earth. Either universally, or for a single group. So he's going to establish order either universally, which he will, and for a single group. Who's that? That's us. That's right, the Israelites. The scholars know what Christ is coming to do, and who he's going to come and do it for. Some of y'all like, I don't care what Christ says, what does the Talmud say? Give me Daniel 7.
+- Messianism is primarily the religious belief in what? In the coming of a redeemer, who will end the present order of things. He was going to come and destroy the kingdoms on the earth. Either universally, or for a single group. So he's going to establish order either universally, which he will, and for a single group. Who's that? That's us. That's right, the Israelites. The scholars know what Christ is coming to do, and who he's going to come and do it for. Some of y'all like, I don't care what Christ says, what does the Talmud say? Give me Daniel 7.
 
 </div>
 
@@ -388,7 +388,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > If it were not for the belief in the coming of the Messiah who will release Jews from oppression throughout the world...
 
-- Damn. Read it again. No, he will release all nations from oppression throughout the world.
+- Damn. No, he will release all nations from oppression throughout the world.
 
 > ...who will release Jews from oppression throughout the world, and inaugurate a reign of peace for all mankind...
 
@@ -498,9 +498,9 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 </div>
 
-*[[1:26:01](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=5161s)]* We're back, we're back from the break. Just reading the comments over here. Got a few scoffers and scorners on there, but it's okay. We see y'all. You're stupid, and we're trying to help you. So we got a text. Zoom in.
+*[[1:26:01](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=5161s)]* We're back, we're back from the break. Just reading the comments over here. Got a few scoffers and scorners on there, but it's okay. We see y'all. You're stupid, and we're trying to help you. So we got a text.
 
-**Text:** Deacon, Most High, Christ bless you. My mind is blown yet again, all the way in Cali. So I'm safe to say the book you're reading further agrees with the article: Ladinos are the people of Nigeria, therefore the history of us being of Gad is big facts. All praise the Most High. Keep bringing these facts out, Deacon and officers. Thank you.
+**Text:** Deacon, Most High, Christ bless you. My mind is blown yet again, all the way in Cali. So I'm safe to say the book you're reading further agrees with the article: Ladinos are the people of Nigeria, therefore the history of us being of Gad is big facts. Keep bringing these facts out, Deacon and officers.
 
 **Deacon Eythan:** Gad is in there. Yeah, they're in there. I'll give you that one. I never heard of Ladinos being called that in Africa before, but okay. I don't know about the Gad thing. They're in there, but anyways, they Hebrews. That's fine.
 
@@ -510,7 +510,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > <sup>[25](/bible/ezekiel/18#v25)</sup> Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?
 
-- "I need answers, I need to know why." No, you don't. Just do what he says, or die. Do or die. That's it. Once you live and keep the commandments of God, you figure out in the end why. There you go.
+- "I need answers, I need to know why." No, you don't. Just do what he says, or die. Do or die. That's it. Once you live and keep the commandments of God, you figure out in the end why.
 
 - The way of the Lord is not equal: that isn't fair, that's not right. Why don't you just take care of it all at once? Now, I'll give some leeway to that, because Ezra said the same thing. Ezra asked the same question: why not just do it all at once? No, that's not how I operate.
 
@@ -566,7 +566,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 - When you read in Ezra, as a matter of fact Moses, Ezra already saw the end. He saw Christ show up here. The prophets saw Christ. The nuclear bombs are made. They saw America on fire. They saw Israel, the land, parts of it got destroyed. The prophets already saw the end. They saw those who were saved. They saw America destroyed. All that was already seen. It was foreseen. Prophecy means to speak before: you speak on things that have yet to take place, but will take place regardless. So we're living out what the prophets have already saw before. Let me say it again: we're catching up to what the prophets already saw. We didn't see America on fire yet. The prophets saw America on fire. We're catching up to what they already saw. So we're living out what Moses saw. We're living out what Isaiah saw. We're living out what Jeremiah saw. We're living out what Christ said. We're catching up to that. So you people talk, "Oh man, he sure is taking long." Nah, your brain is taking long.
 
-- For example, Moses seen us going on slave ships, and we caught up to it. Moses is crazy, right? Then we on ships in the bottom of the ship, crammed together like this for a year and change. Damn, he was right. Scattered among all nations. Now we in Spain, crying, "Let me get over here in Spain." We playing catch-up. Read on.
+- For example, Moses seen us going on slave ships, and we caught up to it. Moses is crazy, right? Then we on ships in the bottom of the ship, crammed together like this for a year and change. Damn, he was right. Scattered among all nations. Now we in Spain, crying, "Let me get over here in Spain." We playing catch-up.
 
 > <sup>[45](/bible/2-esdras/5#v45)</sup> And I said, As thou hast said unto thy servant, that thou, which givest life to all, hast given life at once to the creature that thou hast created, and the creature bare it: even so it might now also bear them that now be present at once.
 
@@ -616,7 +616,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > <sup>[3](/bible/psalms/115#v3)</sup> But our God is in the heavens: he hath done whatsoever he hath pleased.
 
-- Our God exists. He does whatever he wants to do, man. That was terrible; read it again. He's been messing up the whole day. Come on, man. He does whatever the hell he wants to do. God does whatever he want. You got to respect the G. You got to respect him. It is what it is. He wants to wait for something to show up, he going to wait.
+- Our God exists. He does whatever he wants to do, man. That was terrible; read it again. He's been messing up the whole day. He does whatever the hell he wants to do. God does whatever he want. You got to respect the G. You got to respect him. It is what it is. He wants to wait for something to show up, he going to wait.
 
 - Oh, that sounds good to you, Christmas, but you can't explain it, though. Your birthday sounds good too. Can you explain why you do it? Can you explain why you blow candles out of a cake and make a wish? Why you wear them stupid, stupid hats? Can you explain that? Why you wear wedding rings? Can you explain that? Where the ring finger come from? Can you explain that? White man tell you do something, you don't ask no questions, you just do it. But God tell you do something, you got questions.
 
@@ -650,7 +650,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > <sup>[10](/bible/isaiah/45#v10)</sup> Woe unto him that saith unto his father, What begettest thou? or to the woman, What hast thou brought forth?
 
-- "I think I'm a woman." That's what you say. Or to the woman, What hast thou brought forth? "I'm a man." It's the same thing. Don't question the Lord, man. Just follow the program, or die. Now let's go back to the book. You can't make this stuff up. Anyway, let's go back, man. I'm sorry. Take me into that realm of anger. Where we have pages at? 17.
+- "I think I'm a woman." That's what you say. Or to the woman, What hast thou brought forth? "I'm a man." It's the same thing. Don't question the Lord, man. Just follow the program, or die. Now let's go back to the book. You can't make this stuff up. Anyway, let's go back, man. Take me into that realm of anger. Where we have pages at? 17.
 
 - So what we just read so far was the Israelites that fled to Spain and Portugal that did not believe in the Messiah. They caught hell. And the Catholics believed in the Messiah. So they both believed in the Bible, but of course the Jews felt that the Catholics were twisting scripture, saying that Jesus was the Messiah the Bible referred to, when the Jews at this time, not all of them, but these Jews particularly, did not believe that Christ was the Messiah at this time, and caught hell by the Spaniards, by the church. So now get page 19.
 
@@ -662,17 +662,17 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 >
 > As early as 1493 and as late as 1802, Spain issued decrees barring Jews and Moors from the Spanish colonies.
 
-- See that? So it says they start to ban Jews and Moors from fleeing to Spanish colonies. Read it again. Checking us out. The highlighted part.
+- See that? So it says they start to ban Jews and Moors from fleeing to Spanish colonies. Checking us out. The highlighted part.
 
 > Jews were present in the West Indies and undoubtedly aided the English and the Dutch in the capture of these islands from Spain.
 
 - These Jews is in reference to both the black ones as well as the convert ones. That's in J. Rogers' book. He mentions the Jews being black in Jamaica and so forth, but also converts that eventually enslaved us over there when they gained power.
 
-- Go to the next page. Go back, you skipped one. Go forward, go forward twice. Right there, stop. Read that. This is for all you Latinos out there. Dominicans. Not him, he's Simeon. But you Dominicans out there that love your Spaniard culture.
+- Go to the next page. Go back, you skipped one. Go forward, go forward twice. Right there, stop. This is for all you Latinos out there. Dominicans. Not him, he's Simeon. But you Dominicans out there that love your Spaniard culture.
 
 > When the Dominican order came into being, its monks became the militia of the church.
 
-- The Dominican order is the order of St. Dominic. Watch this. They became the militia of the church. They were the ones that were killing. And they had Americans over there in Santo Domingo, and converted them into Dominicans. That's what they did. Jump down here.
+- The Dominican order is the order of St. Dominic. They became the militia of the church. They were the ones that were killing. And they had Americans over there in Santo Domingo, and converted them into Dominicans. That's what they did. Jump down here.
 
 > Ferdinand and Isabella regarded Jews as a discordant element in their kingdom.
 
@@ -704,7 +704,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > ...who might have relapsed to their original faith. It ultimately evolved into a thought police court...
 
-- Wow. It evolved into a thought police. So if you thinking something outside of Christianity, they were on your behind, to kill and torture you and burn you at the stake.
+- It evolved into a thought police. So if you thinking something outside of Christianity, they were on your behind, to kill and torture you and burn you at the stake.
 
 > ...from which no Spaniard was secure. Through its self-made rules...
 
@@ -716,7 +716,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > ...the Immaculate Conception, the resurrection of Jesus, and the Trinity.
 
-- So what does that tell you? That means that there were Jews that did not believe that Mary had a child without sex. There were some that believed that she did have sex. So again, the Inquisition was basically policing, making us accept Christianity, Christianity's doctrines. Go down. Read that here.
+- So what does that tell you? That means that there were Jews that did not believe that Mary had a child without sex. There were some that believed that she did have sex. So again, the Inquisition was basically policing, making us accept Christianity, Christianity's doctrines. Read that here.
 
 > Two Jews were burned at the stake and two others were reconciled.
 
@@ -730,7 +730,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > With rare exceptions, the inquisitors, who were Dominicans...
 
-- Read it again. With rare exceptions, the inquisitors, who were what? Who were Dominicans. So the inquisitors were Dominicans. They were a church militia out to kill and convert anyone who did not accept Christianity. They would kill you and torture you. Damn. So when they came to the Americas, they were a church militia that came against the natives of the Americas, in the DR, and renamed y'all Dominicans. If you converted. If you didn't, they would either kill you or enslave you, one or the other. If you accepted it, they would baptize you and give you a Spanish name and taught you Spanish. Then you became Dominicanos. Dominican.
+- With rare exceptions, the inquisitors, who were what? Who were Dominicans. So the inquisitors were Dominicans. They were a church militia out to kill and convert anyone who did not accept Christianity. They would kill you and torture you. Damn. So when they came to the Americas, they were a church militia that came against the natives of the Americas, in the DR, and renamed y'all Dominicans. If you converted. If you didn't, they would either kill you or enslave you, one or the other. If you accepted it, they would baptize you and give you a Spanish name and taught you Spanish. Then you became Dominicanos. Dominican.
 
 > With rare exceptions, the inquisitors, who were Dominicans, as well as prelates of the church, rarely traveled through the vast areas over which they reigned in spiritual matters.
 
@@ -756,7 +756,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > ...who aimed to convert pagans as well as Catholics. Jews sought only to be left alone.
 
-- Pagans: us. Wanted to be left alone. Esau would not leave us alone. Like these apologists today. They will not leave us alone, and they're running from us. They're avoiding us. Yes, we want you to leave us alone. Christianity is nonsense. It's a myth. It's a fairy tale. Read on.
+- Pagans: us. Wanted to be left alone. Esau would not leave us alone. Like these apologists today. They will not leave us alone, and they're running from us. They're avoiding us. Yes, we want you to leave us alone. Christianity is nonsense. It's a myth. It's a fairy tale.
 
 > The Holy Office served more as a political arm of the Spanish throne than as a defender of the faith.
 
@@ -780,7 +780,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 - Now this put you on some game; do your research. The inquisitors wore something called a capirote. Look up capirote real quick. The inquisitors, these Dominicans, missionaries, whatever, inquisitors of Spain, they wore something called a capirote, and then they brought it over here and it became something else. Look familiar? When they burned us they wore this. When they burnt crosses in our lawns, they wore this too. Give me them guys that hang people.
 
-- Look at that. Wow. These are inquisitors here; they wore this during those burnings. Now give me the other group. You know the other group I want. Put them side by side. There they go, right there. Look at him, he doing the Elon Musk right there. That might be him under there. So look at that: burning stuff, burning houses, burning crosses, because it's the same people doing it. Look at the cross on this flag. They doing the same thing. You know that's KKK. That salute used to be the salute that Babylon used to do to salute the flag. Then they changed it during World War I. Before that was Rome. You watch Gladiator, they do that same thing with Rome. So you see, the inquisitors and the KKK wore the same garb, because it's the same people doing the exact same thing in a different landmass, persecuting the same people.
+- Look at that. These are inquisitors here; they wore this during those burnings. Now give me the other group. You know the other group I want. Put them side by side. There they go, right there. Look at him, he doing the Elon Musk right there. That might be him under there. So look at that: burning stuff, burning houses, burning crosses, because it's the same people doing it. Look at the cross on this flag. They doing the same thing. You know that's KKK. That salute used to be the salute that Babylon used to do to salute the flag. Then they changed it during World War I. Before that was Rome. You watch Gladiator, they do that same thing with Rome. So you see, the inquisitors and the KKK wore the same garb, because it's the same people doing the exact same thing in a different landmass, persecuting the same people.
 
 - **Officer:** Deacon, you know what's crazy? Like we was talking about before, how a lot of the history is hidden. We've always learned that they wore the hoods as a scare or fear tactic against us, or they don't want you to know who's doing it, they don't want to get caught up. But they have a whole religion based off killing.
 
@@ -788,7 +788,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 - **Officer:** You know what's interesting, Deacon, too? You see how it has the cone shape? That's the same cone shape that they trim their Christmas trees. The same cone for birthdays; they wear the cap on their birthdays and all that. And then I think in the Vatican they have a whole pine cone as an idol too. So all that goes back to idolatry, to the devil, to Satan.
 
-- **Deacon Eythan:** Wow. Come on now. There was two of them, with the golden things in their hand and then the burning cross in the back. Keep the one with the burning cross on the left, but change out the colorful one on the right.
+- **Deacon Eythan:** There was two of them, with the golden things in their hand and then the burning cross in the back. Keep the one with the burning cross on the left, but change out the colorful one on the right.
 
 - **Officer:** That's Catholic, that's the big open cap. That's a bit different; it's like an open-mouthed fish.
 
@@ -826,7 +826,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > In addition to those who owned ships...
 
-- Remember those inquisitors that wore those cone heads? That's the Israelis. Don't lose that thought. The inquisitors were the Khazars, or the Israelis, that fled to Spain from Khazaria, fled to Spain or Portugal, and they became the inquisitors and put those things on and began to hunt us and conquer us and enslave us and kill us in the Americas. So don't be confused. The Israelis became inquisitors. The Khazars became inquisitors and wore capirotes. Okay, that's the image I wanted earlier; now you put it up. Save that, so when I ask for it you'll have it. Thank you. Now go back.
+- Remember those inquisitors that wore those cone heads? That's the Israelis. Don't lose that thought. The inquisitors were the Khazars, or the Israelis, that fled to Spain from Khazaria, fled to Spain or Portugal, and they became the inquisitors and put those things on and began to hunt us and conquer us and enslave us and kill us in the Americas. So don't be confused. The Israelis became inquisitors. The Khazars became inquisitors and wore capirotes. Okay, that's the image I wanted earlier; now you put it up. Save that, so when I ask for it you'll have it. Now go back.
 
 > In addition to those who owned ships and sailed them as captains or as members of crews, some Jews traveled widely for a variety of reasons. An example of such travelers is Thomas Mendes, who was born in Portugal about 1604 and taken by his parents to Brazil. His parents had been penitents in Lisbon. Subsequently he went to a Portuguese colony in Africa.
 
@@ -845,8 +845,6 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 - They got whipped. Sound familiar? Damn. She got 100 lashes, he got 200 lashes. That's a lot of scar tissue, man. It's an evil world we living in.
 
 > Both were sentenced to perpetual prison. Prisoners usually served only two or three years when sentenced to perpetual prison.
-
-- Go down.
 
 > The events leading to the autos-da-fé of 1646, 1647, 1648 and 1649 are discussed in the following chapter. One result of these autos was the collapse of the commercial empires created by the three most prominent Jews. The lives of hundreds of innocent women and children were devastated...
 
@@ -872,9 +870,9 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > The foster parents were obligated to feed and clothe the children, indoctrinate them with Catholic dogmas, and teach them to abhor anything Jewish and despise all Jews.
 
-- Watch this. Indoctrinate them, indoctrinate them, indoctrinate them, indoctrinate them with what? With Catholic dogmas. With Christianity. Watch this. The Christian church teaches us to despise ourselves. Read it again.
+- Indoctrinate them, indoctrinate them, indoctrinate them, indoctrinate them with what? With Catholic dogmas. With Christianity. The Christian church teaches us to despise ourselves.
 
-- Oh man. To abhor anything Jewish and to despise themselves. To despise their culture, to despise their people. Read on.
+- Oh man. To abhor anything Jewish and to despise themselves. To despise their culture, to despise their people.
 
 > They were taught that the Jews killed our Lord...
 
@@ -882,7 +880,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 > ...as a result of which the Jews were cursed and had been sentenced to perpetual wandering.
 
-- Damn. Boom. Okay, wow. That's all I want. Deuteronomy 28:32 and 41.
+- Damn. Boom. That's all I want. Deuteronomy 28:32 and 41.
 
 </div>
 
@@ -898,7 +896,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 - **Officer:** I want y'all to keep in mind what it said in this book, the last page we just read: that they were taught that the Jews killed our Lord, as a result of which the Jews were cursed. Real quick, I got a book that says that when they took our kids from us, they called us. … I'm going to be reading that book next week.
 
-- **Deacon Eythan:** Go ahead. Just go to the book. Go to the exact words, by the way.
+- **Deacon Eythan:** Just go to the book. Go to the exact words, by the way.
 
 - **Officer:** Start at the bottom here. This is an argument that happened. Watch this disrespect.
 
@@ -964,7 +962,7 @@ Reading from *New World Jewry, 1493-1825: Requiem for the Forgotten* by Seymour 
 
 *[[2:19:21](https://www.youtube.com/watch?v=uUQsMXbKo7Y&t=8361s)]* And by the way, for those of you who may think that we just use books written by white folk: we use books written by our own brothers, from the past as well as the present, that record these things that a lot of the white folks borrowed from. So don't think we just using the white man's books. We using our brothers' books also. We're going to be heavily diving into our brother's book next week. We going to use a lot of his material. I started last week, but continuing into the rest of the lesson, to the end of it, we'll be using a lot of his material. Very, very good brother. Very scholarly brother. So hope you guys enjoyed that lesson, and with that we're going to say shalom and go with announcements.
 
-**Officer:** All praise. Let's give it up for the leadership. Fire class. All praise.
+**Officer:** Let's give it up for the leadership. Fire class.
 
 ## Announcements & References
 

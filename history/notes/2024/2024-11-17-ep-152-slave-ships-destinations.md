@@ -18,11 +18,7 @@ tags: ["Our Hidden History", "captivity", "islam-arabs", "nations"]
 
 ## Introduction
 
-*[[12:09](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=729s)]* Hey, we're back, we're back. Welcome back to those of y'all who are watching. All praise to the Most High. You are now tuned in to Our Hidden History radio show. Still tired from last night, man. Double Sabbath, the new moon Sabbath, hanging out late, so I'm still feeling it, man.
-
-**Officer:** We've been waiting for a while, huh? We're going to get blessings, man. Someone got to take the mantle. All praises, man. Listen, man, you can't do without the priest, man. Part of the original cast is back.
-
-**Deacon Eythan:** Y'all be coming here, man, just get a hotel room, man. You know what I'm saying? You know Philly, man, we party all night. So brothers want to come here, they don't want to show up here, you know, so they be mad: I got work tomorrow. What's work, man? What's a job? What's a bill? What is that? What's that mean? Responsibility talk over here, man. Responsibility, job, adulthood. Come on, man.
+*[[12:09](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=729s)]* You are now tuned in to Our Hidden History radio show.
 
 *[[13:34](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=814s)]* Anyway, so basically we're going to get into it. We're going to jump into the slave ships destinations, which is going to eventually lead us into the transpacific slave trade I've been talking about, I've been hopping on for a while now. I'm not sure if we're going to get there today, but we are going to eventually. We might; we'll see how this go. So we're going to open up with *The Atlantic Slave Trade* by Don Nardo, and we want page 14.
 
@@ -66,7 +62,7 @@ Reading from *The Atlantic Slave Trade* by Don Nardo, page 14 onward, on the ris
 
 > The first African blacks brought to Portugal in the mid-1400s became either household servants or laborers on sugar plantations.
 
-- Brought to Portugal from where? From Africa. They were shipped from Africa and brought over to Portugal, or they were shipped from the Americas and brought to the plantations in Portugal. Read it again. That's why it says mid; that's late 1400s.
+- Brought to Portugal from where? From Africa. They were shipped from Africa and brought over to Portugal, or they were shipped from the Americas and brought to the plantations in Portugal. That's why it says mid; that's late 1400s.
 
 > The first African blacks brought to Portugal in the mid-1400s became either household servants or laborers on sugar plantations. A Portuguese royal courtier of that era described some of these slaves in his book *Chronicle of the Discovery and Conquest of Guinea*:
 
@@ -248,13 +244,11 @@ Reading from *The Atlantic Slave Trade* by Don Nardo, the passage on justifying 
 
 > At first, overt racism played little part in the acquisition of blacks in the Atlantic slave trade. But over time, many whites tried to justify their immoral and brutal buying and selling of other human beings by insisting that blacks were racially, mentally, and morally inferior to whites, and therefore it was all right to enslave them.
 
-- Right. They were justified.
+- They were justified.
 
 > Most Europeans came to accept some variation of the argument as expressed by a 19th-century French nobleman:
 >
 > The negroid black variety of human is the lowest of the races, and stands at the foot of the ladder. The animal shape that appears in the shape of the pelvis is stamped on the Negro from birth, and foreshadows his destiny. His intellect will always move within a very narrow circle. We come now to the white peoples. These are gifted with a great deal of intelligence. History shows us that all civilizations derived from the white race,
-
-- Wow.
 
 > that none can exist without his help,
 
@@ -302,7 +296,7 @@ Reading from *The Atlantic Slave Trade* by Don Nardo, the passage on justifying 
 
 > <sup>[2](/bible/lamentations/2#v2)</sup> The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.
 
-- He hath brought them down to the ground. Brought us down to the ground. That's why I mentioned earlier about our history of our slavery: we didn't know about it. We know nothing. But we asked at the camp, why you vote for Kamala Harris? What are her policies? Because she's black. Okay, fine. What was her policies, though? I don't know, I just voted for her because she's black. Read it again.
+- He hath brought them down to the ground. Brought us down to the ground. That's why I mentioned earlier about our history of our slavery: we didn't know about it. We know nothing. But we asked at the camp, why you vote for Kamala Harris? What are her policies? Because she's black. Okay, fine. What was her policies, though? I don't know, I just voted for her because she's black.
 
 - The Lord hath swallowed up all the habitations of Jacob, and hath not pitied. We're destroyed. We are a destroyed people. That's why there's an expression: we in the belly of the beast. You get chewed up, swallowed down, you're in the belly of the beast.
 
@@ -338,7 +332,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 30 to 36, 
 
 > Initially it meant non-Ethiopian Africans, and land of the black slaves.
 
-- Wow. Or land of the black slaves. Bilad al-Sudan. They called them Bilad al-Sudan, or land of the black slaves.
+- Or land of the black slaves. Bilad al-Sudan. They called them Bilad al-Sudan, or land of the black slaves.
 
 > But today, like black, African or third world, millions of Africans, oppressed sons and daughters, have
 
@@ -398,7 +392,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 30 to 36, 
 
 > Case: a slave trader in the mid-19th century took 300 slaves from a town west of Lake Tanganyika. Only 50 arrived alive.
 
-- So out of the 300, only 50 survived. So 250 died on the way. Ishmael is the worst, bro. That's why I feel no pity for them. Go on, next page. Let's go.
+- So out of the 300, only 50 survived. So 250 died on the way. Ishmael is the worst, bro. That's why I feel no pity for them. Go on, next page.
 
 > Given the reality that the Muslim slave trade was two to one, women to men, to fill the demand for concubines,
 
@@ -422,7 +416,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 30 to 36, 
 
 > in a manner they would not dream of when courting a Muslim woman they wished to marry.
 
-- They would not do to their women what they did to our women, that were from ages 12. And understand that 12 there, that's wrong. It's from six and up. You could be married to a girl that's six and up, not 12. So it was younger than that. 12 is a compliment. They went from six and up, violating young little girls. Next page.
+- They would not do to their women what they did to our women, that were from ages 12. And understand that 12 there, that's wrong. It's from six and up. You could be married to a girl that's six and up, not 12. So it was younger than that. 12 is a compliment. They went from six and up, violating young little girls.
 
 - **Officer:** And Deac, they still doing it to our women. They have not stopped doing it, man. Even in the hood, in the ghetto, women can't afford diapers. They come, come downstairs real quick. You want these diapers, or you got to pay for them with your... you know. I got ways you can pay for this without money.
 
@@ -434,11 +428,9 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 30 to 36, 
 
 > 1750, 100 million; 1850, 100 million; 1900, 120 million. Europe: 103 million; 1750, 144 million; 1850, 274 million; 1900, 423 million.
 
-- Go down.
-
 > You will notice that both Europe and Asia roughly quadrupled, 400% in size, during the 350 year period between 1650 and 1900. Yet during the same period of time, Africa's population increased by only 20%. See page 155 for the real significance of those numbers.
 
-- Now I want you to understand something. Listen to me very carefully. Under Islamic law, if the Arab or Muslim came across a people that were not Muslim and they captured the men in war, they were allowed to sleep with their wives while they were alive. Allah allowed it. That's in the Quran or the Hadith, one or the other, but it's in there. Listen. The Quran believe also that you are allowed to sleep with a man's wife. So the Quran, Ya Allah, he allows adultery. He condones it. So I'm just curious as to why y'all choose to serve this god. I don't understand it. Well, I understand why Ishmael does. But you, Israel, are watching. I don't know why. Maybe because y'all choose to turn a blind eye to this.
+- Now I want you to understand something. Listen to me very carefully. Under Islamic law, if the Arab or Muslim came across a people that were not Muslim and they captured the men in war, they were allowed to sleep with their wives while they were alive. Allah allowed it. That's in the Quran or the Hadith, one or the other, but it's in there. The Quran believe also that you are allowed to sleep with a man's wife. So the Quran, Ya Allah, he allows adultery. He condones it. So I'm just curious as to why y'all choose to serve this god. I don't understand it. Well, I understand why Ishmael does. But you, Israel, are watching. I don't know why. Maybe because y'all choose to turn a blind eye to this.
 
 - What's happening to those people over there in Palestine is what they were doing to us during this time. The raping of the women, raping of the men, taking over of the lands. It's nothing different. Y'all call it karma. We call it God. We call it justice. It's judgment. I feel nothing. When the news showed them crying, holding their babies, some of us felt some kind of way, because you can only imagine if that was you and your child. But understand, these women had, I'm sure they had families too. I'm sure they had children. They didn't care about their babies or their husbands or their brothers or their fathers or their mothers. They didn't care. Now some of y'all will say, well, it wasn't them. Okay, well, that doesn't change anything. Regardless, it's the same people. Let's continue. I feel nothing. Continue.
 
@@ -453,8 +445,6 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 30 to 36, 
 - Let us be clear: it was the Arabs who set the foundations of exporting Israelites, for taking the people of Africa to strange and horrible lands. The Ishmaelites were the forerunners of the slave trade, along with the Portuguese to follow after.
 
 > But Africans were not considered capital by the Arabs as they were by capitalists. It was true that many Arabs saw Africans as inferior human beings,
-
-- Watch this. Watch this.
 
 > destined for bondage.
 
@@ -496,7 +486,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, continued, pages
 
 - Because they give reference to Muhammad as being very light, rosy color, red. They referenced him as a white man. They call Muhammad a white... I think he was a white Arab. He might have been a Turk, for all I know. But they say that he was white. They say that Muhammad was white, and that if you called him black, they would kill you. I say it again: if you call Muhammad black, they would kill you. It was an insult. But somehow black folks is Muslims. We all come together, get along. You can't make this up.
 
-- Malcolm X was misled. He was misled. I think over time he realized it, but by that time he was already in too deep. That's why he said we're the lost sheep. He said in his own videos, we're the lost sheep, we're the ones in Psalms 83. He knew that already. He knew who we were. But Islam was so much more appealing and larger and more popular, he went with that. I understand. The spirit was not there, but the flesh and bones was there. Ezekiel 37. Go ahead.
+- Malcolm X was misled. He was misled. I think over time he realized it, but by that time he was already in too deep. That's why he said we're the lost sheep. He said in his own videos, we're the lost sheep, we're the ones in Psalms 83. He knew that already. He knew who we were. But Islam was so much more appealing and larger and more popular, he went with that. I understand. The spirit was not there, but the flesh and bones was there. Ezekiel 37.
 
 > The blacks do not earn their pay by good deeds and are not of good repute. The children of a stinking Nubian black: God put no light in their complexion.
 
@@ -508,15 +498,13 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, continued, pages
 
 > satirizing the African governor in 671 AD. But ironically, it also referred to the son of Abu Bakr, one of the African companions of the Prophet Muhammad.
 
-- Wow. So Abu Bakr came, I believe, after Muhammad, and somebody else, like four. But Abu Bakr's son was black, because the Arabs are dark. So the white Arabs often times mocked the dark ones. They had colorism, because remember, Ishmael and Edom mixed together, so they had that colorism issue with them even then.
+- So Abu Bakr came, I believe, after Muhammad, and somebody else, like four. But Abu Bakr's son was black, because the Arabs are dark. So the white Arabs often times mocked the dark ones. They had colorism, because remember, Ishmael and Edom mixed together, so they had that colorism issue with them even then.
 
 > the spiritual head of all Arabs, who was apparently not blinded by the racism that afflicted many of his followers.
 
 - Abu Bakr didn't have a problem with that because he was black. Most likely he was black too.
 
 > Blackness by 1120 AD in parts of the Arab world connoted negativity: Blackness, though a defect, has its use in some instances, such as when the government agents dress in black in order to inspire the subjects with awe and fear.
-
-- Wow.
 
 > There are very few societies that don't consider rape as part of the privilege of conquest, or one of the tools of conquest. The Arabs, with no exception,
 
@@ -528,7 +516,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, continued, pages
 
 > with all the humiliation that implies.
 
-- They did, all I said before. They did terrible things to our sisters that they would never do to their own women. Whatever sexual thought they had in their mind, whatever it came to their head to do, nasty, they said, we're going to do it, and we're going to do it to their women, not our own. Push that picture back up. Look, they have a drawing right there. Go up. Yep, right there. Look. You see, like, one holding the sister's foot, is sticking something. Whatever he's doing. Go down. He's holding her thigh. Go down.
+- They did, all I said before. They did terrible things to our sisters that they would never do to their own women. Whatever sexual thought they had in their mind, whatever it came to their head to do, nasty, they said, we're going to do it, and we're going to do it to their women, not our own. Push that picture back up. Look, they have a drawing right there. Yep, right there. You see, like, one holding the sister's foot, is sticking something. Whatever he's doing. He's holding her thigh.
 
 > By the same token, Arab men often married African women and allowed some of them to become part of the royal families as equals. That's why you'll find hundreds of thousands of African-featured people throughout Asia Minor and the Middle East today. In the Arab world, an enslaved African could become free if he or she worked off their price, and their children in general were not enslaved.
 
@@ -544,7 +532,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, continued, pages
 
 > and took or killed the best and strongest.
 
-- See, you see what they did? They would help one side conquer the other, then kill the strongest of the winning side and enslave them. That's why I ask the question all the time: if Negroes or Africans sold our own people, where are the Africans or Negroes walking around today with the old money like the white families have? Where are they? Where are the old ancient black families that walk around with slave money, living in mansions, and have old money that extend to their grands and great grands? Nowhere. Because they conquered and killed the ones that were involved. They got enslaved too. Read on.
+- See, you see what they did? They would help one side conquer the other, then kill the strongest of the winning side and enslave them. That's why I ask the question all the time: if Negroes or Africans sold our own people, where are the Africans or Negroes walking around today with the old money like the white families have? Where are they? Where are the old ancient black families that walk around with slave money, living in mansions, and have old money that extend to their grands and great grands? Nowhere. Because they conquered and killed the ones that were involved. They got enslaved too.
 
 > The Arabs eventually, especially from the 1400s onward, with the help of the ruthless Portuguese,
 
@@ -590,11 +578,11 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, continued, pages
 
 - Because that was the land of the blacks. That's called Zanzibar: the region of the blacks. We were all in there, happy, minding our own business. Zanzibar is beautiful. If you Google the images of Zanzibar, it is a beautiful place. That water is clear as glass. Look at that. That place is gorgeous. That was dense. That island is an island, I believe. Pull images up.
 
-- **Officer:** Deac, you might want to check this out. Wow.
+- **Officer:** Deac, you might want to check this out.
 
 - **Officer:** This is Zanzibar. This is what Deacon is talking about right now. Wow, man. So when America's destroyed, nuclear fire and flame, we're going to be just fine. We got an island on the other side of the world. America was pushed over here for a reason. The old world's going to be around. We going to be having this. Look at this. Look at the water here. Look at this. Hey, Deac, remember they showed that in the movie *2012*? They showed that Africa was where every civilization started over. Everybody went there, because Esau knows.
 
-- **Deacon Eythan:** Yep. That's Zanj. Zanj-bar. That's the region of the blacks. Okay. So we go back to that. We're going to take a break after this page. Read this right here.
+- **Deacon Eythan:** Yep. That's Zanj. Zanj-bar. That's the region of the blacks. So we go back to that. We're going to take a break after this page.
 
 > They remembered that when they, the Arabs, first came to the coast of Zanzibar, the whole country was densely populated,
 
@@ -656,7 +644,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 37 and 38,
 
 > But they also came from … Dongola, and towns in Ethiopia, earlier known as Abyssinia.
 
-- So they took our people from those areas and made them eunuchs. And they got those eunuchs today, who've grown old. Those kids, they grew older. They're alive today, and they protect Muhammad's graveyard today. They live there. They protect this tomb. From what, I don't know. But they protect this tomb today, these aghas. Go up, go up.
+- So they took our people from those areas and made them eunuchs. And they got those eunuchs today, who've grown old. Those kids, they grew older. They're alive today, and they protect Muhammad's graveyard today. They live there. They protect this tomb. From what, I don't know. But they protect this tomb today, these aghas.
 
 > The need to procure eunuchs outside Muslim lands sprang from the requirements of Islamic law. This very law, which forbade Muslims from reducing another Muslim to slavery, understandably barred them from making him into a eunuch. Islamic law in addition prohibited Muslims from performing the operation, and as a result, castrating young boys, 8 to 12 years old, became a task that fell to non-believers, to be done in their own country. The unending stream of desexed boys, who were walked or transported by boat or caravan from their native lands in Europe and later Africa, because African boys' survival rate was higher and there were more of them, arrived ready-made in Muslim countries. Gordon, *Slavery in the Arab World*.
 
@@ -676,7 +664,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 37 and 38,
 >
 > <sup>[3](/bible/daniel/1#v3)</sup> And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king’s seed, and of the princes;
 
-- The master of his eunuchs. Ashpenaz, the master of his eunuchs. Nebuchadnezzar had eunuchs. Come on. That he should bring certain of the children of Israel: he should bring certain of the children of Israel, whom were made eunuchs. And of the king's seed. This is the king; these are the royal lineage of Judah.
+- The master of his eunuchs. Ashpenaz, the master of his eunuchs. Nebuchadnezzar had eunuchs. That he should bring certain of the children of Israel: he should bring certain of the children of Israel, whom were made eunuchs. And of the king's seed. This is the king; these are the royal lineage of Judah.
 
 > <sup>[4](/bible/daniel/1#v4)</sup> Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans.
 
@@ -686,17 +674,17 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 37 and 38,
 
 - Now among these princes of the royal line of Judah, the royal lineage, who were made eunuchs, was who? Judah: Daniel, Hananiah, Mishael and Azariah. So the children of Judah were Daniel, Hananiah, Mishael and Azariah. They were made eunuchs in captivity. Nothing new. Daniel was made a eunuch. The children were eunuchs, of the royal lineage of David. So this is nothing new.
 
-*[[1:33:20](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=5600s)]* **Deacon Eythan:** We got a Zoom call. All right. On a drive-through? I don't think he sees us. Shalom, shalom.
+*[[1:33:20](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=5600s)]* **Deacon Eythan:** We got a Zoom call. On a drive-through? I don't think he sees us. Shalom, shalom.
 
 **Jeremiah Ben Israel:** Shalom, shalom. How you doing? I'm sorry, guys. Okay, listen, I'm sorry, I'm going to make this quick. My name is Jeremiah Ben Israel. I'm originally from Mississippi, but I live in Los Angeles, and I'm a writer. It's funny, because I'm working on a project inspired by none other than you guys. All praises to the Most High for the Bishop and all the officers, deacons and captains. I really appreciate y'all. But long story short, when you said the word Creole, because I just got in the car and I turned the program on and I jumped, I just got a book, literally just got a book that is expounding on the topic about how they classified Creoles as Jews. And the book came from Louisiana State University, 1745.
 
-**Deacon Eythan:** Wow. Wow. The older the better.
+**Deacon Eythan:** The older the better.
 
 **Jeremiah Ben Israel:** I'm trying to figure out how can I give it to you. I want to give this to you immediately.
 
-**Deacon Eythan:** All praises, bro. Okay. If you can email us, we'll discuss how you can send it over. So email us at iuic.philadelphia@israelunite.org, and we'll speak with you concerning that.
+**Deacon Eythan:** All praises, bro. If you can email us, we'll discuss how you can send it over. So email us at iuic.philadelphia@israelunite.org, and we'll speak with you concerning that.
 
-**Jeremiah Ben Israel:** Hold on a second. Give me a second. I'm sorry, I was doing two things.
+**Jeremiah Ben Israel:** Give me a second. I'm sorry, I was doing two things.
 
 **Deacon Eythan:** No need to apologize. We forgive you, brother.
 
@@ -716,15 +704,15 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 37 and 38,
 
 **Jeremiah Ben Israel:** But anyways, I'm going to let y'all go. I want to hear more. I hope I didn't come in at the beginning.
 
-**Deacon Eythan:** No, sir. All praise to you, man. I appreciate the contribution. Thank you. We appreciate you.
+**Deacon Eythan:** No, sir. All praise to you, man. I appreciate the contribution. We appreciate you.
 
-**Jeremiah Ben Israel:** Yes, sir. I love the information you give us, man. All praise.
+**Jeremiah Ben Israel:** Yes, sir. I love the information you give us, man.
 
-**Deacon Eythan:** Call in anytime. All right. Shalom. Most High, Christ bless. It's family, man. His grandfather, getting your ancestors, man. Let's get back to the show.
+**Deacon Eythan:** Call in anytime. Shalom. Most High, Christ bless. It's family, man. His grandfather, getting your ancestors, man. Let's get back to the show.
 
 *[[1:38:56](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=5936s)]* **Text:** Shalom, leadership. The book *The Mismeasure of Man* by Stephen Jay Gould discusses racial science that Esau used to justify slavery. One interesting fact that he observed was that this science always resurfaced during elections or when major political policies were being put in place.
 
-**Deacon Eythan:** Wow. Okay. No surprise. No surprise at all. That goes right back to the Bishop's class yesterday about the political system and so forth, and how it all ties back into keeping us destroyed and suppressed and depopulating us. And I also touched on that in the class I went over regarding the Negro family. The Bishop showed how they spent a lot of time in the 1960s, 70s monitoring our populace and making sure we stayed, pretty much, the abortion, suppressing us and so forth. And the book I brought out was also 1960s, talking about how the households are being reversed, and the male figure, the image, was being destroyed, and women were taking on a dominant role. So it all makes sense, man. It all makes sense. It's all about design. It's all about divine design. This Esau is a malevolent race of people. Not just them, all the nations, but specifically him. Nehemiah 4:7. Sorry, we're going to get them articles first. Let's go to the second one I posted, regarding the aghas, and then we'll go to the first one. Just the top paragraph.
+**Deacon Eythan:** No surprise. No surprise at all. That goes right back to the Bishop's class yesterday about the political system and so forth, and how it all ties back into keeping us destroyed and suppressed and depopulating us. And I also touched on that in the class I went over regarding the Negro family. The Bishop showed how they spent a lot of time in the 1960s, 70s monitoring our populace and making sure we stayed, pretty much, the abortion, suppressing us and so forth. And the book I brought out was also 1960s, talking about how the households are being reversed, and the male figure, the image, was being destroyed, and women were taking on a dominant role. So it all makes sense, man. It all makes sense. It's all about design. It's all about divine design. This Esau is a malevolent race of people. Not just them, all the nations, but specifically him. Nehemiah 4:7. Sorry, we're going to get them articles first. Let's go to the second one I posted, regarding the aghas, and then we'll go to the first one. Just the top paragraph.
 
 <div class="reading">
 
@@ -746,11 +734,9 @@ Reading from an article on the guardians of the Prophet's Mosque in Medina, read
 
 > They're also known as aghas or aghawat. Agha is a non-Arabic word derived from Turkish. The Turkish word comes from the Old Turkic aqa, meaning elder brother.
 
-- Turkish means … mixed with Arabs, primarily Edom. That's why I said before, I think Muhammad was a Turk. I don't think he was full Ishmael. I think he was more Edomite Arab. Edom Arabs, I call them. Oh, man. Come on.
+- Turkish means … mixed with Arabs, primarily Edom. That's why I said before, I think Muhammad was a Turk. I don't think he was full Ishmael. I think he was more Edomite Arab. Edom Arabs, I call them. Oh, man.
 
 > The Prophet's Mosque, also known as Masjid an-Nabawi, where Prophet Muhammad is buried. This mosque represents one of the three oldest mosques in the world, and is located in Medina. The history of Masjid an-Nabawi is incomplete without the mention of the Guardians, who have their own story. These interesting people hail from Abyssinia, Ethiopia.
-
-- Go ahead.
 
 > They are eunuchs who love to live in seclusion.
 
@@ -782,7 +768,7 @@ Reading from an article on the guardians of the Prophet's Mosque in Medina, read
 >
 > <sup>[10](/bible/nehemiah/4#v10)</sup> And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall.
 
-- We have much work to do. Come on.
+- We have much work to do.
 
 > <sup>[11](/bible/nehemiah/4#v11)</sup> And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.
 
@@ -802,7 +788,7 @@ Reading from an article on the guardians of the Prophet's Mosque in Medina, read
 
 - **Officer:** On top of it, hey, Deac: with these nations, I could just name the Arabians, these the same nations that came to Zerubbabel saying we serve the same God. That's the same thing that Muhammad did. Oh, we serve the same God, let's work together. We were like, no.
 
-- **Deacon Eythan:** They said no. Okay. Yeah. And the Arabs, they worked with Rome when they destroyed us in 70 AD. They worked together. 2 Chronicles 21:16.
+- **Deacon Eythan:** They said no. Yeah. And the Arabs, they worked with Rome when they destroyed us in 70 AD. They worked together. 2 Chronicles 21:16.
 
 **[2 Chronicles 21:16-17](/bible/2-chronicles/21#v16)**  *[[1:49:36](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=6576s)]*
 
@@ -828,7 +814,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, page 39 · read 
 
 > Imagine the trauma, pain, screams, infections, confusion of little African boys crying for their mother, father, brothers, sisters, grandmother,
 
-- Hold that. Deuteronomy 28:41. Deuteronomy 28, verse 32.
+- Deuteronomy 28:41. Deuteronomy 28, verse 32.
 
 </div>
 
@@ -852,7 +838,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 39 to 41, 
 
 > And if you survived, imagine growing into manhood with confused sexual urgings that had to be sublimated into busy details of the daily life of your master's women, his business, his political affairs. In contrast, white boys were actually quasi-eunuchs
 
-- So when the Ishmaelites, when the Arabs came into power, they enslaved; they took over parts of Europe. They were referred to as mamluks, or Mozarabs. Then you had Israelites, who were also enslaved as well; they were Zanj. So they had white slaves and black slaves. But remember, colorism was a thing among the Ishmaelites. So if you were black, you were frowned upon. The whiter you were as an Arab, the more blessed you were. So when they conquered them, as slaves they received better treatment than the black slaves. And then when they start getting power, the Arabs couldn't save them no more, so they start to chase after the blacks more. Read it again.
+- So when the Ishmaelites, when the Arabs came into power, they enslaved; they took over parts of Europe. They were referred to as mamluks, or Mozarabs. Then you had Israelites, who were also enslaved as well; they were Zanj. So they had white slaves and black slaves. But remember, colorism was a thing among the Ishmaelites. So if you were black, you were frowned upon. The whiter you were as an Arab, the more blessed you were. So when they conquered them, as slaves they received better treatment than the black slaves. And then when they start getting power, the Arabs couldn't save them no more, so they start to chase after the blacks more.
 
 > In contrast, white boys were actually quasi-eunuchs, because the castration process was only cutting the tip of the penis and leaving the scrotum intact.
 
@@ -868,8 +854,6 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 39 to 41, 
 
 > The beastly act of castrating African boys was a part of Muslim slavery from as early as the 900s AD. Thus, for 1,000 years, hundreds of thousands of African boys were castrated. This impacted not only upon them but upon the men and women they served. Centuries of enslaving Africans left the Arab trader a cold and hollow person, who, either through birthright or centuries of intermarriage, often was of African descent himself.
 
-- Go ahead.
-
 > Even so, he and his cohorts saw the enslaved African as no more than a sex slave, or a two-legged ox or cow,
 
 - Same thing today.
@@ -884,7 +868,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 39 to 41, 
 
 > There were more battles going on between Africans, thus more captives to be sold than ever before. Thus, eventually, by the mid-19th century, enslaved Africans sold for 50 cents a head. Some Europeans and Arabs even traded a cow for five Africans, or a donkey for six Africans.
 
-- Animals cost more. Next page. Esau treat animals with more respect today than us.
+- Animals cost more. Esau treat animals with more respect today than us.
 
 - **Officer:** Yeah. Ain't changed.
 
@@ -930,11 +914,11 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 39 to 41, 
 
 > tens of millions of Africans died before they could even be sold.
 
-- Page 40. The key page. Come on.
+- Page 40. The key page.
 
 - **Officer:** Hey, Deac, if I may get a scripture real quick. You can go to Baruch 2. Just going to read two verses, and just going back to the point that Deac had brought out earlier, because I know somebody tripping in the comments. I know somebody tripping over the fact that Esau was made slaves. It still doesn't change the fact that we went through the worst torture under the whole heavens. There has been nothing done unto anybody as has been done to Israel. I'm sure somebody going to trip over that or bring that up: see, Esau was slaves too. They always come up with some random stuff, try to downplay what happened to God's people.
 
-- **Deacon Eythan:** Page 40, let's go. Temple alumni, huh? Hey, nothing against any of y'all who are in college, man. I'm not talking about you. You're in here, so obviously your intelligence is a bit different from the ones we encountered. Just the ones whose brains are smooth. Go ahead.
+- **Deacon Eythan:** Page 40, let's go. Temple alumni, huh? Hey, nothing against any of y'all who are in college, man. I'm not talking about you. You're in here, so obviously your intelligence is a bit different from the ones we encountered. Just the ones whose brains are smooth.
 
 > Slavery was so institutionalized on the east coast of Africa that one Tanganyika coastal town was called Bagamoyo: here we leave our souls.
 
@@ -946,8 +930,6 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 39 to 41, 
 
 > destined for Zanzibar, the Arab slave trader's island.
 
-- Go ahead.
-
 > Over the seven centuries of the early Arab slave trade, hundreds of thousands of Africans died crossing the Indian Ocean between Tanganyika, Kenya and Zanzibar.
 
 - Tanganyika is now Tanzania. Same place.
@@ -958,11 +940,9 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 39 to 41, 
 
 > Dhows carried 200 to 400 captured Africans jammed together, either on an open deck or below the deck, with no regard for sex or age, for sanitation or food quality.
 
-- Go ahead.
-
 > The trip could take one day to reach Zanzibar, or it could take two weeks. Either way, there was not enough food and no health support, so the loss of African lives averaged about half of the original human cargo.
 
-- Out of 200, 100 survived, because they didn't provide enough food or resources for them to survive the trip, of one day or two weeks or whatever. Now give me the encyclopedia. Oh, wait, is that it? What page is this? 41. Let me see it real fast. Read that. Why not? Read it. Up top.
+- Out of 200, 100 survived, because they didn't provide enough food or resources for them to survive the trip, of one day or two weeks or whatever. Now give me the encyclopedia. Oh, wait, is that it? What page is this? 41. Let me see it real fast. Why not? Up top.
 
 > Numbers: It's impossible to be certain, but according to our best estimates, at least 9.64 million African women and 4.75 million African men were sold in the Arab slave trade.
 
@@ -970,7 +950,7 @@ Reading from *Black Holocaust for Beginners* by S. E. Anderson, pages 39 to 41, 
 
 > Some 14 to 20 million African men, women and children were killed either trying to resist capture, en route to be sold, waiting to board the slave ships or caravans bound for the Muslim world, at the holding pens and dungeons, or in the process of being castrated for eunuch slaves.
 
-- See, that's how you know that those brothers that watch Muhammad's grave, they come from a line of slaves. Young children bought as slaves and forced to work there and guard a graveyard. They're guarding a casket with dust in it, because he's gone. Read that.
+- See, that's how you know that those brothers that watch Muhammad's grave, they come from a line of slaves. Young children bought as slaves and forced to work there and guard a graveyard. They're guarding a casket with dust in it, because he's gone.
 
 > Africans must be a powerful people to have survived all that.
 
@@ -988,11 +968,11 @@ Reading from *Encyclopedia Americana*, pages 223 and 216, on Africa · read by a
 
 > Social conflict: Warfare and head hunting have been the social conflicts, both now controlled by European governments. The greatest military organizations were those of the Masai in East Africa and of the Zulus in the south. Slavery was due to raids of Arabs and Hamites on Negro communities.
 
-- So slavery was due to raids of Arabs and Hamites, Philistines and Arabians, on Israelite or Negro communities. They understand that there is a distinction between us and these people. No matter how black the Arabs were, Esau knew: those are Israelites, those are Hamites. They knew the difference, the same way Ishmael and Ham knew the difference. They didn't raid their own towns and enslave their own. They didn't put them on a damn ship. Now let's go back to what I want. Give me page 216. Watch this. Why am I going there? Page 216. What's in there? Right here. Semites. Read.
+- So slavery was due to raids of Arabs and Hamites, Philistines and Arabians, on Israelite or Negro communities. They understand that there is a distinction between us and these people. No matter how black the Arabs were, Esau knew: those are Israelites, those are Hamites. They knew the difference, the same way Ishmael and Ham knew the difference. They didn't raid their own towns and enslave their own. They didn't put them on a damn ship. Now let's go back to what I want. Give me page 216. Why am I going there? Page 216. What's in there? Semites.
 
 > Semites. The Arabs of North and East Africa are typical of the Semitic family, which has light brown skin color and refinement of nose and lips in common with the Hamites.
 
-- Because remember, the Ishmaelites were black, but over time, mixing with Esau, they got lighter, like Muhammad was, and many others you see today getting bombed over there in Gaza, of lighter shade. But originally they were very dark. And in some instances, if you go to certain places, like in Philly, they got some of them working in the stores. They got a black Arab. We go to camp, he worked right across the street from us. He's black. He's an Arab. He know he an Arab. He don't deny it. Read it again. Watch this.
+- Because remember, the Ishmaelites were black, but over time, mixing with Esau, they got lighter, like Muhammad was, and many others you see today getting bombed over there in Gaza, of lighter shade. But originally they were very dark. And in some instances, if you go to certain places, like in Philly, they got some of them working in the stores. They got a black Arab. We go to camp, he worked right across the street from us. He's black. He's an Arab. He know he an Arab. He don't deny it.
 
 > The Arabs of North and East Africa are typical of the Semitic family, which has light brown skin color and refinement of nose and lips in common with the Hamites. Both Semites and Hamites belong to the white race,
 
@@ -1000,7 +980,7 @@ Reading from *Encyclopedia Americana*, pages 223 and 216, on Africa · read by a
 
 > except their skin is often dark brown;
 
-- Wait. So both their skins are often times dark brown, but they belong to the white race? That don't make no sense. Why is this being said? Continue.
+- So both their skins are often times dark brown, but they belong to the white race? That don't make no sense. Why is this being said? Continue.
 
 > they might, so far as facial traits are concerned, belong to the white Caucasian division of man.
 
@@ -1016,7 +996,7 @@ Reading from *Encyclopedia Americana*, pages 223 and 216, on Africa · read by a
 
 > in Negro territory
 
-- They both followed the occupation of slave traders in Negro territories. Letting you know once again that Esau understands that these Arabs and these Hamites are not Negroes, but belong to the white race. Read on.
+- They both followed the occupation of slave traders in Negro territories. Letting you know once again that Esau understands that these Arabs and these Hamites are not Negroes, but belong to the white race.
 
 > until the end of the 19th century. David Livingstone fought the Arab slave trade in the period 1860 to 1870.
 
@@ -1034,11 +1014,11 @@ Reading from *Encyclopedia Americana*, pages 223 and 216, on Africa · read by a
 
 > <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 
-- Your enemies have taken crafty counsel against you. Come on. And have consulted against thy hidden ones. Why are we called thy, God's, hidden ones? Read the next verse to explain why we're called hidden.
+- Your enemies have taken crafty counsel against you. And have consulted against thy hidden ones. Why are we called thy, God's, hidden ones? Read the next verse to explain why we're called hidden.
 
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
-- They have said: our enemies have said what? Come, let us cut them off from being a nation. I'm going to show something real fast. Hold on one second. Let me show you something crazy. The Bible commentary. Hold on, let me see if I have it. Say something while I find this thing real quick.
+- They have said: our enemies have said what? Come, let us cut them off from being a nation. I'm going to show something real fast. Let me show you something crazy. The Bible commentary. Hold on, let me see if I have it. Say something while I find this thing real quick.
 
 - **Officer:** Bring it out real quick: Daniel 9:12. Hold that for Deac. That's what you was referring to earlier.
 
@@ -1052,7 +1032,7 @@ Reading from *Encyclopedia Americana*, pages 223 and 216, on Africa · read by a
 
 - **Officer:** See, so that's what we got to do. We got to pray unto the Most High, so he could reverse that curse.
 
-- **Deacon Eythan:** Say something. I'm trying to find it. Hold on a second.
+- **Deacon Eythan:** Say something. I'm trying to find it.
 
 - **Officer:** Castration is a form of cutting us off from being a nation, because we come from the seed, man.
 
@@ -1064,13 +1044,13 @@ Reading from *Encyclopedia Americana*, pages 223 and 216, on Africa · read by a
 
 - **Officer:** And way down at the bottom: the Edomite Christians, they would purposely castrate us, because they knew the scripture in Deuteronomy 23 about the stones, that you're cut off from your people if you get castrated. So they would do that on purpose, before they would kill us.
 
-- **Deacon Eythan:** Hold on. Go to the commentary. Click on the parallel commentary; that shows all of them, all the commentaries. It tells you what it means. Look for identity. Go to Cambridge. Go to the Cambridge Bible. Read Psalms 83 again, verse 4.
+- **Deacon Eythan:** Go to the commentary. Click on the parallel commentary; that shows all of them, all the commentaries. It tells you what it means. Look for identity. Go to Cambridge. Go to the Cambridge Bible. Read Psalms 83 again, verse 4.
 
 **[Psalms 83:4](/bible/psalms/83#v4)**  *[[2:16:25](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=8185s)]*
 
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
-- Go ahead. Read that now. Read that, Cambridge.
+- Read that now. Read that, Cambridge.
 
 <div class="reading">
 
@@ -1078,7 +1058,7 @@ Reading from the *Cambridge Bible* commentary on Psalm 83:4 · read by an office
 
 > From being a nation: their aim is to obliterate the name of Israel from the map of the world.
 
-- Yeah. Another one says it's cut their identity off. I'm not sure if it was verse five or what. Let me see. Hey, get Revelation 13:7 real quick.
+- Yeah. Another one says it's cut their identity off. I'm not sure if it was verse five or what. Hey, get Revelation 13:7 real quick.
 
 </div>
 
@@ -1092,17 +1072,17 @@ Reading from the *Cambridge Bible* commentary on Psalm 83:4 · read by an office
 
 - **Officer:** No, we fought back. But Esau, in their writing and so forth, in their histories, they'll make it look like we just happily wanted to be taken. Like the Bishop brought up last night, in Deuteronomy, in the NIV: how they switched Deuteronomy 28:68 and said we wanted to be offered up. Like, come choose me, I'm right here, over here.
 
-- **Deacon Eythan:** Right. I love slave ships. Put me on the slave ship.
+- **Deacon Eythan:** I love slave ships. Put me on the slave ship.
 
 - **Officer:** Nah, that ain't how that went down. We fought back. They try to minimize the atrocities they had done to us to make themselves feel better. Like today with the history books: they say, oh, Africans came from Africa to look for work over here.
 
-- **Deacon Eythan:** Right. Esau ten steps ahead. Migration. Esau ten steps ahead.
+- **Deacon Eythan:** Esau ten steps ahead. Migration. Esau ten steps ahead.
 
 - **Officer:** So they know. In their histories, let me put this, because down the line, they don't want to make their descendants feel bad for what they did. But it's too late. Just like slavery in Oceania: they don't call it slavery. They call it blackbirding. They were just getting work. In some books they say it's a forced migration. They try to use different words. But overall, we fought back. And that's why that scripture in Daniel says he wore out the saints. Because they were fighting.
 
 - **Officer:** Even with the news today, I was listening on the news: anything going on with the war with Amalek and Iran, they always make it seem like there's no retaliation from Iran. Because on the news they always have to push that they got no defeats, they got no critical damage given to them, because they always want to make it seem that they're undefeatable. That's how you do against oppressed people. You can't make it seem like they're winning in any instance. So anything you push out has to be total domination.
 
-- **Deacon Eythan:** And it goes back to it. Read the top verse again, verse 7. And it was given unto him to make war with the saints, and to overcome them. Go to the link I sent you, Psalms 83:4, the link I sent you in the Telegram. Go down to the bottom. Type in identity. There it is. Now read that: let us wipe them out as a nation. Psalms 83 again. We going to land on here. We going to close it here. Psalms 83, verse 4 again.
+- **Deacon Eythan:** And it goes back to it. Read the top verse again, verse 7. And it was given unto him to make war with the saints, and to overcome them. Go down to the bottom. Type in identity. Now read that: let us wipe them out as a nation. Psalms 83 again. We going to land on here. We going to close it here. Psalms 83, verse 4 again.
 
 **[Psalms 83:4](/bible/psalms/83#v4)**  *[[2:21:02](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=8462s)]*
 
@@ -1120,7 +1100,7 @@ Reading from a commentary on Psalm 83:4 found on Bible Hub · read by an officer
 
 > The intent is not merely to defeat but to obliterate the identity and existence of Israel.
 
-- That's what they want. That's what they did. We have no idea who we are today. Not a clue. They were successful in this. Read on.
+- That's what they want. That's what they did. We have no idea who we are today. Not a clue. They were successful in this.
 
 > This reflects the historical reality of existential threats faced by Israel, where enemies sought not just conquest but total destruction.
 
@@ -1128,23 +1108,21 @@ Reading from a commentary on Psalm 83:4 found on Bible Hub · read by an officer
 
 > Theologically, this underscores the persistent enmity against God's covenant people throughout history.
 
-- Read the next one.
-
 > That the name of Israel be remembered no more. The desire to erase the name of Israel signifies an attempt
 
 - Wait, wait, we got to read that slow. Read that slow. Let that thing marinate. Read again.
 
 > The desire to erase the name of Israel signifies an attempt
 
-- Because it won't going to happen. Go ahead.
+- Because it won't going to happen.
 
 > to obliterate their legacy, history and identity.
 
-- That's cutting us off. That means cut their balls off, cut their penis off, divide them as a nation, scatter them all over the world. That's what Psalms 83 is talking about. That's why Malcolm X had this thing in his Bible highlighted, because he knew it was talking about us. And we know it today. Read on.
+- That's cutting us off. That means cut their balls off, cut their penis off, divide them as a nation, scatter them all over the world. That's what Psalms 83 is talking about. That's why Malcolm X had this thing in his Bible highlighted, because he knew it was talking about us. And we know it today.
 
 > In Hebrew culture, a name is deeply tied to identity and destiny.
 
-- In Hebrew culture, a name is deeply tied to identity and destiny. So give them new names. Rename them: black, Hispanic, Native American, Cuban, Puerto Rican, Haitian, Jamaican, Ghanaian, Sierra Leonean, Liberian, Mexican, Argentinian, Negro, Afro-American. That's why, when you say you're an Israelite, you are declaring your destiny. It means prince of God. You are a prince of God. Read on.
+- In Hebrew culture, a name is deeply tied to identity and destiny. So give them new names. Rename them: black, Hispanic, Native American, Cuban, Puerto Rican, Haitian, Jamaican, Ghanaian, Sierra Leonean, Liberian, Mexican, Argentinian, Negro, Afro-American. That's why, when you say you're an Israelite, you are declaring your destiny. It means prince of God. You are a prince of God.
 
 > The word zakar means to remember or recall. The enemy's aim is to ensure that Israel's name is forgotten,
 
@@ -1152,15 +1130,15 @@ Reading from a commentary on Psalm 83:4 found on Bible Hub · read by an officer
 
 > erasing their influence and presence from history. This reflects a spiritual battle as much as a physical one,
 
-- It's both. Go ahead.
+- It's both.
 
 > where the forces opposed to God seek to undermine his plans and promises.
 
-- The devil and nations. Of what? Giving us salvation. Go ahead.
+- The devil and nations. Of what? Giving us salvation.
 
 > Historically, despite numerous attempts to erase Israel, God's faithfulness has preserved
 
-- We still here. Go ahead.
+- We still here.
 
 > fulfilling his covenant promises. This verse serves as a reminder of the enduring nature of God's protection and the futility of opposing his divine will.
 
@@ -1170,9 +1148,9 @@ Reading from a commentary on Psalm 83:4 found on Bible Hub · read by an officer
 
 ## In Closing
 
-*[[2:24:03](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=8643s)]* So we going to land it right there. Hope you guys enjoyed the lesson. I was excited for y'all. If you weren't excited, I'm excited for you. All praise to the Most High. Lord's will, we going to continue going into *Slave Ships: Destinations*, part two. So all praise to the Most High for that. Hope you enjoyed the lesson. We going to go on the announcements.
+*[[2:24:03](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=8643s)]* So we going to land it right there. Hope you guys enjoyed the lesson. I was excited for y'all. If you weren't excited, I'm excited for you. Lord's will, we going to continue going into *Slave Ships: Destinations*, part two. So all praise to the Most High for that. Hope you enjoyed the lesson. We going to go on the announcements.
 
-**Officer:** Let's give it up for the leadership. All praise. That's some good stuff, Israel.
+**Officer:** Let's give it up for the leadership. That's some good stuff, Israel.
 
 *[[2:27:52](https://www.youtube.com/watch?v=Z1bVKZvIMkM&t=8872s)]* **Deacon Eythan:** So all praise for that. We'll see y'all next time. We're going to go into some more history regarding our destinations, when we were dropped off. So hope you guys are with us during that time, and look to see you guys again next week. So shalom. Most High and Christ bless. See y'all again. Shalom.
 
