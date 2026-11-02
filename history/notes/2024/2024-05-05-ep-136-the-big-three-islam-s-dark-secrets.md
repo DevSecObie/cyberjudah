@@ -700,7 +700,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > The Kaaba remained a pagan pantheon till 630 AD, when Muhammad destroyed the images, but it continued to be Arabia's holiest shrine and the focus of Muslim unity, and it remains the point towards which Muslims turn to worship.
 
-- Get Baruch again. Baruch 3. Got to read it again. Making things up. Baruch chapter 3, verse 21.
+- Get Baruch again. Baruch 3. Making things up. Baruch chapter 3, verse 21.
 
 </div>
 
@@ -766,7 +766,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 
 > cognate with the old Semitic root qaba, meaning female pudenda.
 
-- Qaba. Q-B. Sorry. Qaba, meaning female pudenda: vagina. That's why Bishop always said, like a vagina. That little big hole they had there, put the head in there. That's a qaba. Kaaba is a vagina. Yeah, that's what it is. That's what it is. Big old box. The perversion: put their face in a box. Eating stone box. Go back. Where you at? Go back. I'm sorry, children are watching. Read it again, the old Semitic root.
+- Qaba. Q-B. Sorry. Qaba, meaning female pudenda: vagina. That's why Bishop always said, like a vagina. That little big hole they had there, put the head in there. That's a qaba. Kaaba is a vagina. Yeah, that's what it is. That's what it is. Big old box. The perversion: put their face in a box. Eating stone box. Go back. Where you at? Go back. I'm sorry, children are watching.
 
 > Even today the border surrounding the Black Stone is shaped like the vulva,
 
@@ -940,7 +940,7 @@ Reading from a book on the black Jews, named on air as "Black Jews" ("religious 
 
 > A. Witnesses: tales of the explorers who mention the existence of communities of black Jews on the African continent, and particularly in the areas where the slave ships picked up the black slaves.
 
-- Read it again, please. Witnesses: their tales, of the explorers who mention the existence of the communities of the black Jews on the African continent. And so these black Jews were found particularly in areas where what? Where the slave ships picked up the black slaves. So the areas where ships were docked to bring us over here were the same areas where black Jews were found. Damn. That's not in the Quran. That's not in the Talmud. That's not in the Catholic catechism. It's not in there. Not in the Kabbalah. It's not in there. There's no Shabazz here. There's no we're-all-sons-of-God here. It's not there. That's right.
+- Witnesses: their tales, of the explorers who mention the existence of the communities of the black Jews on the African continent. And so these black Jews were found particularly in areas where what? Where the slave ships picked up the black slaves. So the areas where ships were docked to bring us over here were the same areas where black Jews were found. Damn. That's not in the Quran. That's not in the Talmud. That's not in the Catholic catechism. It's not in there. Not in the Kabbalah. It's not in there. There's no Shabazz here. There's no we're-all-sons-of-God here. It's not there. That's right.
 
 > B. Rites and customs which have more or less explicit analogies with those of Judaism.
 

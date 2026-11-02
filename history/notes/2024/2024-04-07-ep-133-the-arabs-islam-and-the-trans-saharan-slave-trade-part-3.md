@@ -248,7 +248,7 @@ Reading from a page posted the week before, on Herod Agrippa I · read by an off
 
 - Now, the Bible is abbreviated. Let's read between the lines, what may have happened. Why didn't Midian take him out the pit and, you know, see if he's okay? The natural thing to do is take him out the pit. You know, like, damn, why he was in the pit? Give him some water or something, send him on his way. But instead they chose to make him a slave. Why they do that? Why did they choose to make him a slave? Why they choose to sell him to Ishmael and so forth? But you got to understand, they probably knew about the history. Because they sold him to Ishmael, and Ishmael sold him down into Egypt. But just speculation: they probably knew about the history from Isaac and Ishmael, you understand? They probably carried that hatred all the way back from then. So they like, yo, you a Hebrew. I'm just thinking, I'm just reading between the lines what may have happened. Why didn't they just take him out the pit, try to see if you okay, give him some water and send him on his way? Nah. They said, nah, we going to make you, you going to be a slave. I'm going to take you down to Egypt and sell you.
 
-- Read it again, verse 28. So they sold him for 20 pieces of silver.
+- So they sold him for 20 pieces of silver.
 
 > <sup>[30](/bible/genesis/37#v30)</sup> And he returned unto his brethren, and said, The child is not; and I, whither shall I go?
 >
@@ -472,7 +472,7 @@ Reading from Wikipedia, Gindibu · read by an officer  *[[57:21](https://www.you
 
 > Gindibu ruled over an Arab kingdom located in the north-eastern parts of present-day Jordan, on the eastern borders of the Assyrian province established by Tiglath-Pileser III in 732 BC.
 
-- I don't want the Battle of Qarqar; we going to deal with that. Let me see here. It's not much on Gindibu like that. Go back up. Let me see if I want that. Yeah, you know what, go ahead, read that, Battle of Qarqar. You can read that.
+- I don't want the Battle of Qarqar; we going to deal with that. Let me see here. It's not much on Gindibu like that. Go back up. Let me see if I want that. You can read that.
 
 > Battle of Qarqar. Although Gindibu's kingdom was not set on the Assyrian campaign routes and therefore was not in danger of being attacked by the Assyrians, the rise of the Neo-Assyrian power in the 9th century BCE meant that the desert and border routes where Gindibu had economic interests were under threat of Assyrian interference, due to which he allied
 
@@ -610,7 +610,7 @@ Reading from Wikipedia, Shalmaneser III · read by an officer  *[[1:25:58](https
 
 - **Officer:** But Ben-Hadad is, well, isn't he from Syria?
 
-- **Deacon Eythan:** Ben-Hadad, he's a Syrian, Damascus. He was ruling over Damascus. But Gindibu came and joined the alliance. He just gathered up that whole host of twelve kings to go against Shalmaneser. But I haven't seen no relation as far as them. I haven't seen any relation. Read that again, all the way from the top. I'm looking for something.
+- **Deacon Eythan:** Ben-Hadad, he's a Syrian, Damascus. He was ruling over Damascus. But Gindibu came and joined the alliance. He just gathered up that whole host of twelve kings to go against Shalmaneser. But I haven't seen no relation as far as them. I haven't seen any relation. I'm looking for something.
 
 > Shalmaneser III was king of the Neo-Assyrian Empire from the death of his father Ashurnasirpal II in 859 BC to his own death in 824 BC. His long reign was a constant series of campaigns against the eastern tribes, the Babylonians, the nations of Mesopotamia and Syria. His armies penetrated to Lake Van and the Taurus Mountains; the Neo-Hittites were compelled to pay tribute, and the kingdoms of Hamath and Aram-Damascus were subdued. It is in the annals of Shalmaneser III from the 850s BC that the Arabs and Chaldeans first appear in recorded history.
 
@@ -816,7 +816,7 @@ Reading from Bible Hub, the parallel commentaries on 2 Chronicles 21:16 · read 
 
 - Here they go again. Here they go again. So now we are warring against them.
 
-- So read verse 7 again. Right, because they was always a problem: Ishmael and Ham together. They was always a problem to us, man. Remember, it said that they were our enemies. They were our enemies as well. That's why the Lord put them in Psalms 83. That's why they third, fourth on the list, because they were always our enemies as well. Read it again, verse 7.
+- So read verse 7 again. Right, because they was always a problem: Ishmael and Ham together. They was always a problem to us, man. Remember, it said that they were our enemies. They were our enemies as well. That's why the Lord put them in Psalms 83. That's why they third, fourth on the list, because they were always our enemies as well.
 
 - Hey, so notice something about the Most High. During the campaign, we read about Jehoram: the Most High stirred them up against us. Why? Because Jehoram wasn't keeping the laws. He was in evil. But here with Uzziah, Uzziah keeping God's laws, right? The Most High helped him against the Arabians, the Philistines. Give me that in Judith 5 and 20. Because they was always coming against us: either the Most High was going to stir them up to beat us, or, when he was keeping his laws, he was going to help us against them.
 
@@ -922,7 +922,7 @@ Reading from *Travels in North Africa* by Nahum Slouschz, on the hereditary enem
 
 > And as with the Arabs of old, it is always the ingenious biblical account from which the genealogical lists of the native tribes are derived, and which determine their sympathies, their loves, and their hates.
 
-- So all the nations, letting you know, all the nations got to go back to the Bible to read about the genealogy. That's what it's telling you. Read it again, one more time.
+- So all the nations, letting you know, all the nations got to go back to the Bible to read about the genealogy. That's what it's telling you.
 
 > And as with the Arabs of old, it is always the ingenious biblical account from which the genealogical lists of the native tribes are derived
 
