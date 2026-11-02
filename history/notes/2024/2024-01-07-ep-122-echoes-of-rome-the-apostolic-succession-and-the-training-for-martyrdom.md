@@ -18,7 +18,7 @@ tags: ["Our Hidden History", "endurance", "persecution", "prayer", "rome", "the-
 
 ## Introduction
 
-*[[16:36](https://www.youtube.com/watch?v=oX_p6koVq5o&t=996s)]* Shalom, shalom, Israel. Most High, Christ bless. Hey, we back with another episode. You're now tuned in to Our Hidden History radio show. I'd like to give a shout out to IT again, and multimedia. Yeah, yeah, yeah, I'm shouting everybody out, man. Everybody knows you never go full …. Hey, welcome back to the show. Sorry for the late start; technical issues.
+*[[16:36](https://www.youtube.com/watch?v=oX_p6koVq5o&t=996s)]* You're now tuned in to Our Hidden History radio show.
 
 *[[17:14](https://www.youtube.com/watch?v=oX_p6koVq5o&t=1034s)]* I know we didn't have the show last week, but the week prior to that we dealt with the banishment, like Guantanamo Bay, the penal colonies and so forth. Because remember, they had the colonies back in ancient Rome. When John got banished to the island of Patmos, those were the penal colonies at that time. And even during the Spanish Inquisition. Give me the Spanish Inquisition page. We're just going to do a little recap real quick before we get into the actual topic.
 
@@ -32,7 +32,7 @@ Reading from *The Critical Review*, on the Portuguese colonies and the Jews expe
 
 > The discovery of the Gold Coast served indeed yet more to enlarge the sphere of the navigation of the Portuguese than their slave trade, but it forced them also to extend themselves on the coast and to settle colonies in Congo, Angola, and other places which they had till then neglected. Prince Henry's colonies were enlarged by his successors. King John II in 1492 expelled all the Jews to the island of St. Thomas.
 
-- You see that? So during this, this is the Spanish Inquisition, we were being expelled to the island of where? To the island of St. Thomas, during this time, the Spanish Inquisition.
+- So during this, this is the Spanish Inquisition, we were being expelled to the island of where? To the island of St. Thomas, during this time, the Spanish Inquisition.
 
 - Remember, give me the scripture about our judgments, the Most High's judgments are like a ring. The Bishop been going over this over and over and over again, so we get it through our thick skulls that the Most High's judgments, they keep going around and around.
 
@@ -42,7 +42,7 @@ Reading from *The Critical Review*, on the Portuguese colonies and the Jews expe
 
 > <sup>[42](/bible/2-esdras/5#v42)</sup> And he said unto me, I will liken my judgment unto a ring: like as there is no slackness of the last, even so there is no swiftness of the first.
 
-- To a what? Unto a ring. Can we get a picture of a ring? Read it again. We just want to get a visual. Our people love visuals, so we want to get a little visual.
+- To a what? Unto a ring. Can we get a picture of a ring? We just want to get a visual. Our people love visuals, so we want to get a little visual.
 
 - So the Most High said he would liken his judgment unto a ring. Like as there is no slackness of the last, even so there is no swiftness of the first. Right, it's a steady rotation. So God's judgments is a steady rotation. They go around and around, they keep coming around and around.
 
@@ -52,11 +52,11 @@ Reading from *The Critical Review*, on the Portuguese colonies and the Jews expe
 
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
 
-- So the thing that hath been is that which shall be. Meaning it's a cycle of spirits that we keep coming back. Now read that bottom part again. And that which is done is that which shall be done. That's that judgment that's like a ring. It keeps a steady rotation, a cycle of God's judgments going around and around. So that which was done before is going to happen again. Understand that. Read it again.
+- So the thing that hath been is that which shall be. Meaning it's a cycle of spirits that we keep coming back. Now read that bottom part again. And that which is done is that which shall be done. That's that judgment that's like a ring. It keeps a steady rotation, a cycle of God's judgments going around and around. So that which was done before is going to happen again. Understand that.
 
 - That which is done is that which shall be done, meaning it's coming. So that's why we're doing the Echoes of Rome. Because why? America is an extension of ancient Rome. So thus far in this whole series of Echoes of Rome we've been showing y'all the parallels between ancient Rome and America. Same things that been happening in ancient Rome is happening all over here again, here in America.
 
-- So likewise, when we show you the penal colonies: when they was persecuting us, they banished John to the island of Patmos. Now here we are in Spain during the Spanish Inquisition, they had banishment islands over here, St. Thomas. So when they kicked us out of Spain, they banished us over to St. Thomas. Likewise, give me Guantanamo Bay. Bishop mentioned this last night. Guantanamo Bay. Bring that back up. We ain't going to read the whole thing.
+- So likewise, when we show you the penal colonies: when they was persecuting us, they banished John to the island of Patmos. Now here we are in Spain during the Spanish Inquisition, they had banishment islands over here, St. Thomas. So when they kicked us out of Spain, they banished us over to St. Thomas. Likewise, give me Guantanamo Bay. Bishop mentioned this last night. Guantanamo Bay. We ain't going to read the whole thing.
 
 <div class="reading">
 
@@ -70,7 +70,7 @@ Reading from an article on the Guantanamo Bay detention camp  *[[23:35](https://
 
 > A 2013 Institute on Medicine as a Profession report concluded that health professionals working with the military and intelligence services designed and participated in cruel, inhumane and degrading treatment and torture of detainees. Medical professionals were ordered to ignore ethical standards
 
-- Hold on. Medical professionals were ordered to what? To ignore ethical standards. Meaning the protocols that they had, they were ordered to ignore those protocols for any medical treatment.
+- Medical professionals were ordered to what? To ignore ethical standards. Meaning the protocols that they had, they were ordered to ignore those protocols for any medical treatment.
 
 > during involvement in abusive interrogation,
 
@@ -82,13 +82,13 @@ Reading from an article on the Guantanamo Bay detention camp  *[[23:35](https://
 
 > They used medical information for interrogation purposes and participated in force-feeding of hunger strikers
 
-- So wait a minute. The medical professionals even participated in the tortures. They participated in it. They was in cahoots with the torturers. So how can you trust them? Remember in the Caribbean, when they had us enslaved, they would force-feed us fecal matter. So I'm sure they learned that by torturing us in slavery, and now they're using it on other prisoners, and then once again they're going to do the same thing to us. Read that again.
+- So wait a minute. The medical professionals even participated in the tortures. They participated in it. They was in cahoots with the torturers. So how can you trust them? Remember in the Caribbean, when they had us enslaved, they would force-feed us fecal matter. So I'm sure they learned that by torturing us in slavery, and now they're using it on other prisoners, and then once again they're going to do the same thing to us.
 
 > They used medical information for interrogation purposes and participated in force-feeding of hunger strikers, in violation of World Medical Association and American Medical Association prohibitions.
 
 - So this is what was happening. This is America. This is today. This is what's going on. This is their island of Patmos today. Guantanamo Bay, that's the island of Patmos. This is St. Thomas right here, to them.
 
-- *[[27:41](https://www.youtube.com/watch?v=oX_p6koVq5o&t=1661s)]* So now let's get into the actual topic of the show, the succession of the apostles. So we're going to go over a few disciples that were taught by the apostles, that came after the apostles, that kept pushing the gospel. Give me the book I posted in the group, the last one. Pay attention, the last one. Click on where it says front cover in the corner. Go to page 123. Go to the I section. Blow it up. So we're going to deal with Ignatius. He was one of the disciples that came after the initial apostles. So we're going to deal with Ignatius and Irenaeus. Go up, let me see where it starts at. Right here. Read that.
+- *[[27:41](https://www.youtube.com/watch?v=oX_p6koVq5o&t=1661s)]* So now let's get into the actual topic of the show, the succession of the apostles. So we're going to go over a few disciples that were taught by the apostles, that came after the apostles, that kept pushing the gospel. Give me the book I posted in the group, the last one. Pay attention, the last one. Click on where it says front cover in the corner. Go to page 123. Go to the I section. Blow it up. So we're going to deal with Ignatius. He was one of the disciples that came after the initial apostles. So we're going to deal with Ignatius and Irenaeus. Go up, let me see where it starts at.
 
 </div>
 
@@ -142,7 +142,7 @@ Reading from the book posted in the group, an alphabetical book of the saints, p
 
 > and to have his flesh torn off with burning pincers; having with the greatest patience and most heroic fortitude overcome
 
-- Read that again. Remember all the things that he just went through, the tortures that he's going through. But read that: having what? Having with the greatest patience and most heroic fortitude. So he had the greatest patience and most heroic fortitude.
+- Remember all the things that he just went through, the tortures that he's going through. But read that: having what? Having with the greatest patience and most heroic fortitude. So he had the greatest patience and most heroic fortitude.
 
 > overcome the malice of his cruel tormentors,
 
@@ -156,7 +156,7 @@ Reading from a dictionary definition of fortitude  *[[34:17](https://www.youtube
 
 > Fortitude: strength of mind that enables a person to encounter danger or bear pain or adversity with courage.
 
-- See that? That's what fortitude is, a strength of mind. Read it again.
+- See that? That's what fortitude is, a strength of mind.
 
 - Hey, give me Wisdom of Solomon. I think it's 7, where he says about fortitude. You know what I'm looking for. Eight, I think. Verse seven, eight and seven.
 
@@ -166,13 +166,13 @@ Reading from a dictionary definition of fortitude  *[[34:17](https://www.youtube
 
 > <sup>[7](/bible/wisdom-of-solomon/8#v7)</sup> And if a man love righteousness her labours are virtues: for she teacheth temperance and prudence, justice and fortitude: which are such things, as men can have nothing more profitable in their life.
 
-- She teacheth temperance and prudence, justice and what? And fortitude. Read it again. Which are such things as men can have nothing more profitable in their life. You see that? These are the things that as a man we must gain. Temperance, prudence, justice and fortitude. All these things strengthen your mind. Courage, as a man.
+- She teacheth temperance and prudence, justice and what? And fortitude. Which are such things as men can have nothing more profitable in their life. These are the things that as a man we must gain. Temperance, prudence, justice and fortitude. All these things strengthen your mind. Courage, as a man.
 
 - So when we're going through these things, in your trials and so forth and in your adversities, these are the things that you want as a man to be able to get through it. Temperance, prudence, justice and fortitude. How you going to get all those things? The Bible.
 
 - **Officer:** That's a heavy point, because when you read Paul's letters, it tells you in Timothy, God did not give you the spirit of fear. Because if you have fear, therefore you don't have any type of wisdom whatsoever. You don't have no understanding. And that's the same thing that Peter writes as well. He names a lot of these virtues, temperance, in First Peter 1, where it talks about what you need to be to endure until the end. Experience. You need those things.
 
-- **Deacon Eythan:** Okay. So go back. Now let's get a little more on Ignatius.
+- **Deacon Eythan:** So go back. Now let's get a little more on Ignatius.
 
 <div class="reading">
 
@@ -180,7 +180,7 @@ Reading from the same book, on St. Ignatius, continued  *[[37:34](https://www.yo
 
 > Having with the greatest patience and most heroic fortitude overcome the malice of his cruel tormentors, the emperor pronounced the final sentence upon him: that being incurably overrun with superstition, he should be carried bound by soldiers to Rome, and there thrown as a prey to wild beasts.
 
-- So knowing that he overcame those torments. Who's breathing like that? That threw me off, man. I'm looking at Officer Manny because he ain't got no filter in his drink. Read it again.
+- So knowing that he overcame those torments. Who's breathing like that? That threw me off, man. I'm looking at Officer Manny because he ain't got no filter in his drink.
 
 - So he had to go to Rome to be what? To be thrown to the wild beasts.
 
@@ -190,7 +190,7 @@ Reading from the same book, on St. Ignatius, continued  *[[37:34](https://www.yo
 
 > I thank thee, O Lord, that thou hast condescended thus perfectly to honour me with thy love, and hast thought me worthy with thy apostle Paul to be bound with iron chains. He then embraced his chains, and having fervently prayed for his church, and recommended it to the care and providence of God, he delivered himself up to the hands of his keepers, that were to convey him to the place of execution,
 
-- Go down. Let's read on. We're going to do some reading today.
+- Let's read on. We're going to do some reading today.
 
 > and who treated him in the most cruel and merciless manner. Being consigned to a guard of ten soldiers, he took leave of the city in which he had so faithfully and affectionately laboured for so many years, the inhabitants of which parted with him with tears and lamentations, which were returned with blessings and prayers. He was then conducted to Seleucia, a part of Syria. Arriving at Smyrna, in Ionia, Ignatius went to visit Polycarp,
 
@@ -210,7 +210,7 @@ Reading from the same book, on St. Ignatius, continued  *[[37:34](https://www.yo
 
 > <sup>[10](/bible/revelation/2#v10)</sup> Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
 
-- You see that? The devil shall cast some of us into prison. That ye may be what? That ye may be tried. The purpose of us being cast into prison, losing our homes, being killed, is so that we are tried, so the Lord prove us worthy. Just like Ignatius said: the Lord proved me worthy. As soon as he realized he was about to go get executed, he said, yes, the Lord proved me worthy to go get executed. He rejoiced in that thing. So go back to the page.
+- The devil shall cast some of us into prison. That ye may be what? That ye may be tried. The purpose of us being cast into prison, losing our homes, being killed, is so that we are tried, so the Lord prove us worthy. Just like Ignatius said: the Lord proved me worthy. As soon as he realized he was about to go get executed, he said, yes, the Lord proved me worthy to go get executed. He rejoiced in that thing. So go back to the page.
 
 - **Officer:** Also I was going to say, too, I don't know if you ever seen, like, the CIA movies, or I think it's even in that movie called The Kingsman. Whenever they're trying to initiate someone into the team, they set them through different trials, and one of the last tests is to see if they'll give up the whole organization through torment and the fear of death. So even with the Lord, he seems to do the same thing. You got to see: I got to see, if I put you through something, will you deny me in front of everybody because of fear for your life?
 
@@ -218,7 +218,7 @@ Reading from the same book, on St. Ignatius, continued  *[[37:34](https://www.yo
 
 - **Officer:** And they want to see who you are. A different man under pressure. Either you're going to crack, or are you going to overcome? Because when you're in the fear of death, it really tells who you are.
 
-- **Deacon Eythan:** Right. And that's when the Lord said, my chosen will be known in that day. But let's keep where we at, top part of here. Read that.
+- **Deacon Eythan:** And that's when the Lord said, my chosen will be known in that day. But let's keep where we at, top part of here.
 
 <div class="reading">
 
@@ -230,7 +230,7 @@ Reading from the same book, on St. Ignatius, continued  *[[44:49](https://www.yo
 
 > They then sailed to Neapolis and Philippi, and arrived at Rhegium.
 
-- Go down. Let me see. Go to the actual martyrdom. Go up a little bit. Right here, start at the interval.
+- Go to the actual martyrdom. Right here, start at the interval.
 
 > The interval before his martyrdom was spent in prayers
 
@@ -256,15 +256,13 @@ Reading from the same book, on St. Irenaeus  *[[48:01](https://www.youtube.com/w
 
 > Irenaeus, Saint, Bishop of Lyons, in France. He was born at Smyrna about 140 A.D. He was liberally educated in the studies of philosophy and learning. His first instructions in the doctrines of Christianity were received from the celebrated Papias and Polycarp,
 
-- Okay.
-
 > the latter of whom he accompanied in his journey about the paschal controversy,
 
 - So there was a Passover controversy that was going on. It was a conference. They had a conference, so he accompanied Polycarp down to that conference.
 
 > where by the permission of Polycarp and Anicetus he was prevailed on to go to France, where he continued for some years as a presbyter, under the care of Pothinus.
 
-- Jump down. Let me see. All right, go back up. You just keep reading.
+- Jump down. All right, go back up. You just keep reading.
 
 > In the reign of Aurelius Antoninus, about 177, a violent persecution commenced against the Christians, which raged in many places, especially in France. Everywhere they were brutally used, banished from their houses, and forbid so much as to show their faces in public.
 
@@ -276,7 +274,7 @@ Reading from the same book, on St. Irenaeus  *[[48:01](https://www.youtube.com/w
 
 > Pothinus, the reverend and aged bishop, above 90 years old, was seized in order to be murdered; though through the wicked malice of his persecutors his life was prolonged, so his miserable existence could be no longer supported, and he expired in prison. The church being thus deprived of his venerable guide, Irenaeus, honoured and admired by all, succeeded him in 179, in a troublesome and tempestuous time; and in making choice of him, they selected a wise and skilful pilot. At that time there was great need of his judgment.
 
-- Jump down. Go to the next column. Read that.
+- Jump down. Go to the next column.
 
 > St. Irenaeus was a true disciple of Christ, and a sincere well-wisher for the souls of men, for the promotion of whose happiness he considered no dangers or difficulties to be too great. He left his own country to take a troublesome and tedious journey, and fixed his dwelling among a people of a wild and savage disposition,
 
@@ -304,7 +302,7 @@ Reading from the same book, on St. Irenaeus  *[[48:01](https://www.youtube.com/w
 
 - **Officer:** People think that it was just Esau persecuting us. Like you were saying, what we were reading, the savage and wild people. Remember, you had the emperor. Josephus was …. Yeah, Josephus. So those emperors, they were our own people that was persecuting us. They just hated God's laws. Also James, the brother of Christ, he was killed by the Pharisees in the city. Our own people.
 
-- **Deacon Eythan:** Right. Right here, Polycarp. Go up to the beginning. Read that.
+- **Deacon Eythan:** Right here, Polycarp. Go up to the beginning.
 
 </div>
 
@@ -322,7 +320,7 @@ Reading from the same book, on St. Polycarp  *[[54:31](https://www.youtube.com/w
 
 > The see of Smyrna being vacant by the death of Bucolus, St. Polycarp was constituted bishop in his room by St. John, and also by some other apostles joining with him. It was also a great proof of his judgment and fidelity that Ignatius recommended his church at Antioch to his peculiar care, and an epistle which he sent him from Troas, when upon his journey to his martyrdom at Rome, by which the church was bereft of his own guidance.
 
-- Go down. Let me see. You can start right there.
+- You can start right there.
 
 > And in this he congratulates the Christians at Philippi for receiving the imprisoned saints as they ought, whose chains he calls the crowns of God's elect. This epistle he sent them by a Christian whose name was Crescens. After this we have no distinct account of Polycarp, till he more publicly endeavoured to extinguish the flame that began to arise between the eastern and western churches
 
@@ -342,7 +340,7 @@ Reading from the same book, on St. Polycarp  *[[54:31](https://www.youtube.com/w
 
 > but notwithstanding this dispute, and some other minor differences, they amicably agreed in charity, persuaded that the fundamental doctrines of Christianity did not consist in external observances. The pious mind of this father was zealously affected against the venomous and pestilent principles which then corrupted the Christian faith.
 
-- That's Christianity today. Christianity says you don't need no works, just believe. That's what they say. That's exactly what we're hearing here. Am I right or no? Read it again.
+- That's Christianity today. Christianity says you don't need no works, just believe. That's what they say. That's exactly what we're hearing here. Am I right or no?
 
 > But notwithstanding this dispute, and some other minor differences, they amicably agreed in charity,
 
@@ -350,7 +348,7 @@ Reading from the same book, on St. Polycarp  *[[54:31](https://www.youtube.com/w
 
 > persuaded that the fundamental doctrines of Christianity did not consist in external observances.
 
-- Right. You ain't got to keep no laws. You don't got to keep no Passover, no Sabbath. That doesn't matter. So they said they agreed in charity, persuaded that the fundamental doctrines of Christianity did not consist in external observances. So they parted ways, because he's like, all right, whatever.
+- You ain't got to keep no laws. You don't got to keep no Passover, no Sabbath. That doesn't matter. So they said they agreed in charity, persuaded that the fundamental doctrines of Christianity did not consist in external observances. So they parted ways, because he's like, all right, whatever.
 
 > The pious mind of this father was zealously affected against the venomous and pestilent principles which then corrupted the Christian
 
@@ -358,7 +356,7 @@ Reading from the same book, on St. Polycarp  *[[54:31](https://www.youtube.com/w
 
 - **Officer:** Yeah, he's mad as hell. You know what I mean? Because here you spreading this doctrine, it's corrupting the Christian faith.
 
-- **Deacon Eythan:** Right. And that's what we have today. That's modern-day Christianity right there. That venomous, pestilent principle that corrupted the Christian faith, which is what they're keeping today. Don't keep the Sabbath, it's on Sunday, it's on this day, do whatever you want, just believe in Christ Jesus, that's it. Read on. Watch this. Read the pious mind again.
+- **Deacon Eythan:** And that's what we have today. That's modern-day Christianity right there. That venomous, pestilent principle that corrupted the Christian faith, which is what they're keeping today. Don't keep the Sabbath, it's on Sunday, it's on this day, do whatever you want, just believe in Christ Jesus, that's it. Read the pious mind again.
 
 > The pious mind of this father was zealously affected against the venomous and pestilent principles which then corrupted the Christian faith, so that when he heard them, he usually would stop his ears,
 
@@ -380,13 +378,13 @@ Reading from the same book, on St. Polycarp  *[[54:31](https://www.youtube.com/w
 
 - So that man right there that was dwelling among them, hearing all that nonsense. So if you're right and you're hearing all this nonsense, it's supposed to bother you. It's supposed to put a flame within your heart, within your mind, and you're supposed to what? Rebuke that damn devil. You're supposed to speak up against it. You're not just supposed to feel okay with it around you. If you're okay with all this nonsense around you, there's something wrong with you. It's like Jeremiah. He couldn't contain himself. No, I have to rebuke them, I have to correct them, I have to blast them. There's no way you're going to do these things in front of me and I'm not going to say nothing about it.
 
-- **Officer:** Right. Same thing with you being over a school, or you being over the congregation, or whatever. We hear anything, man, we got to correct that thing. You got to move on it fast. Can't let that thing slide. You let it slide, there's something wrong with your spirit.
+- **Officer:** Same thing with you being over a school, or you being over the congregation, or whatever. We hear anything, man, we got to correct that thing. You got to move on it fast. Can't let that thing slide. You let it slide, there's something wrong with your spirit.
 
 - **Deacon Eythan:** Yeah. It becomes a cancer, affecting everybody.
 
 - **Officer:** Venomous and pestilent principles.
 
-- **Deacon Eythan:** Watch this. Read on. Let me show you how Polycarp got down. Remember he studied under John.
+- **Deacon Eythan:** Let me show you how Polycarp got down. Remember he studied under John.
 
 <div class="reading">
 
@@ -406,7 +404,7 @@ Reading from the same book, on St. Polycarp, continued  *[[1:02:32](https://www.
 
 > etc. On one day Marcion, when Polycarp not speaking to him,
 
-- Yo, he just walked right by him. He just ignored him. He ain't speak to him. Watch this.
+- Yo, he just walked right by him. He just ignored him. He ain't speak to him.
 
 > exclaimed, Polycarp, own us.
 
@@ -422,7 +420,7 @@ Reading from the same book, on St. Polycarp, continued  *[[1:02:32](https://www.
 
 > who once going into a bath where Cerinthus, a celebrated heretic, he immediately started back, saying, Let us be gone, lest the bath wherein this enemy of truth is fall on our heads.
 
-- Yo. So Polycarp, he didn't play, man. He didn't play no games. Read on.
+- Yo. So Polycarp, he didn't play, man. He didn't play no games.
 
 > At this time the general cry at Smyrna was, Away with the impious, or atheists,
 
@@ -434,7 +432,7 @@ Reading from the same book, on St. Polycarp, continued  *[[1:02:32](https://www.
 
 > Let Polycarp be sought for. At such conduct he was not surprised, though through the great importunity of his friends he was prevailed on to withdraw himself into a neighbouring village, continuing with a few companions day and night in prayer.
 
-- So as the cops and them was looking for Polycarp, he had some companions that was with him. They said, yo, let's get out of here, they looking for you. So he took the counsel and went with them. Go up to the other side. Go down. Three days before. So now we're getting into the martyrdom, what happened to Polycarp, how he was martyred.
+- So as the cops and them was looking for Polycarp, he had some companions that was with him. They said, yo, let's get out of here, they looking for you. So he took the counsel and went with them. Go up to the other side. Three days before. So now we're getting into the martyrdom, what happened to Polycarp, how he was martyred.
 
 > Three days before he was apprehended, as he was at prayer in his bed, he fell into a trance, dreaming he saw the pillow under his head all on fire,
 
@@ -450,7 +448,7 @@ Reading from the same book, on St. Polycarp, continued  *[[1:02:32](https://www.
 
 > was requested to escape from his enemies; but he refused, saying, The will of the Lord be done; and so appeared before his persecutors
 
-- So I have another book that says the cops, the youth told where he was, because they tortured the youth. The youth knew. I think he was in the company of Polycarp, and they tortured him, and he just gave up where Polycarp was. He just gave him over. Read that part again.
+- So I have another book that says the cops, the youth told where he was, because they tortured the youth. The youth knew. I think he was in the company of Polycarp, and they tortured him, and he just gave up where Polycarp was. He just gave him over.
 
 > St. Polycarp was in the meantime diligently sought for,
 
@@ -462,7 +460,7 @@ Reading from the same book, on St. Polycarp, continued  *[[1:02:32](https://www.
 
 > and so appeared before his persecutors, saluting them with a cheerful countenance, and invited them to refresh themselves at his table.
 
-- Go down. Let's get to the point. I know we reading a lot. Let's get to the point.
+- Let's get to the point. I know we reading a lot. Let's get to the point.
 
 > His prayer being ended, they seated him on an ass, and carried him toward the city; on the road being met by Herod the Irenarch,
 
@@ -508,7 +506,7 @@ Reading from the same book, on St. Polycarp, continued  *[[1:02:32](https://www.
 
 > and if you desire to know more of my religion, appoint a time, and you shall hear it. The proconsul desiring him to persuade the people, he answered, I rather address myself to you, we being commanded to give princes all due honour: I think not the people competent judges to receive an account of my faith.
 
-- Go down. Wild beasts, yeah. Start at the proconsul. Let's get to the martyrdom.
+- Wild beasts, yeah. Start at the proconsul. Let's get to the martyrdom.
 
 > The proconsul now seeing persuasions fruitless, exclaimed, I have wild beasts ready to devour you, unless you repent. To which the martyr replied, Call for them;
 
@@ -536,7 +534,7 @@ Reading from the same book, on St. Polycarp, continued  *[[1:02:32](https://www.
 
 - Remember, that was the vision he had. So he refused to let the lions go to attack him, so they like, all right, well, just let him be burnt alive then. You about to see something now.
 
-- **Officer:** I was going to say, they called him the great destroyer of our gods. Read that part again.
+- **Officer:** I was going to say, they called him the great destroyer of our gods.
 
 > This is the great doctor of Asia, the father of the Christians; this is the destroyer of our gods.
 
@@ -566,7 +564,7 @@ Reading from the same book, on St. Polycarp, continued  *[[1:02:32](https://www.
 
 *[[1:24:53](https://www.youtube.com/watch?v=oX_p6koVq5o&t=5093s)]* All right, we back from the break. So we ended off with the fortitude, and how Polycarp took his death.
 
-*[[1:25:08](https://www.youtube.com/watch?v=oX_p6koVq5o&t=5108s)]* Now, like I said, we're going to get into it. Now remember, you had Ignatius, Irenaeus, you had Polycarp. They all suffered martyrdom. Give me one more. Go to Quadratus. Go down to the Q's. That's him right there. Read this real quick.
+*[[1:25:08](https://www.youtube.com/watch?v=oX_p6koVq5o&t=5108s)]* Now, like I said, we're going to get into it. Now remember, you had Ignatius, Irenaeus, you had Polycarp. They all suffered martyrdom. Give me one more. Go to Quadratus. Go down to the Q's. That's him right there.
 
 <div class="reading">
 
@@ -582,19 +580,17 @@ Reading from the same book, on St. Quadratus  *[[1:25:42](https://www.youtube.co
 
 > He was a man of great learning; he was educated in the most useful parts of philosophy. He was also imbued with Christian knowledge by apostolical instruction, being, as Eusebius and St. Jerome state, an auditor of the apostles, and particularly of
 
-- Read that again. I don't know what just happened. Read it again.
+- I don't know what just happened.
 
 > He was also imbued with Christian knowledge by apostolical instruction, being, as Eusebius and St. Jerome state, an auditor of the apostles, and particularly of St. John; and therefore together with Ignatius, Polycarp, Papias and others, reckoned by Eusebius in the first rank among the apostles' successors.
 
-- So Quadratus was in that succession with Ignatius, Polycarp and all. They all learned under John. So he was in that succession with them. Read on.
+- So Quadratus was in that succession with Ignatius, Polycarp and all. They all learned under John. So he was in that succession with them.
 
 > He was chosen Bishop of Athens, as the consequence of that bishop's martyrdom, and the persecution attending it.
 
 - So look, the gospel kept going. It kept going. So if a bishop got martyred during that time, then look, he had to rise up and take his place, to keep it pushing, to keep it going.
 
 > His people were generally scattered, their public and solemn assemblies deserted, their zeal grown cold and languid.
-
-- Read it again.
 
 - So listen. When the persecution hit Athens, look: the new moons, nobody was coming to new moons. Passover, nobody was coming to the Passover or anything like that. Why? For fear of the persecutions. They were like, look, I'm not going back there. So we were scattered at that time in Athens. That's why it's saying, as the consequence of that bishop's martyrdom and the persecution attending it, his people were generally scattered. Just the same as, give me Acts 8.
 
@@ -604,7 +600,7 @@ Reading from the same book, on St. Quadratus  *[[1:25:42](https://www.youtube.co
 
 > <sup>[1](/bible/acts/8#v1)</sup> And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles.
 
-- So at this time we were scattered abroad again. Except the apostles. Read on.
+- So at this time we were scattered abroad again. Except the apostles.
 
 > <sup>[2](/bible/acts/8#v2)</sup> And devout men carried Stephen to his burial, and made great lamentation over him.
 >
@@ -614,7 +610,7 @@ Reading from the same book, on St. Quadratus  *[[1:25:42](https://www.youtube.co
 
 > <sup>[4](/bible/acts/8#v4)</sup> Therefore they that were scattered abroad went every where preaching the word.
 
-- So the word still went out wherever we went. Remember, at this time we became pilgrims on the earth. We went to the next city, next country or whatever, but as far as we went we still preached that gospel, wherever we stopped at. Go back to the page. Read that part again.
+- So the word still went out wherever we went. Remember, at this time we became pilgrims on the earth. We went to the next city, next country or whatever, but as far as we went we still preached that gospel, wherever we stopped at. Go back to the page.
 
 <div class="reading">
 
@@ -642,7 +638,7 @@ Reading from the same book, on St. Quadratus, continued  *[[1:30:17](https://www
 >
 > <sup>[10](/bible/matthew/24#v10)</sup> And then shall many be offended, and shall betray one another, and shall hate one another.
 
-- There you go. So that's what was going on. They was offended at that time. Watch this. Read on.
+- So that's what was going on. They was offended at that time.
 
 <div class="reading">
 
@@ -650,7 +646,7 @@ Reading from the same book, on St. Quadratus, continued  *[[1:31:55](https://www
 
 > In this dismal state Quadratus found this church when he undertook its care,
 
-- So listen good. When Quadratus came to this church, this congregation, at the time that he was appointed over it, that's the condition it was in. Nobody was there. Everybody gone. Nobody coming to Sabbath. You got brothers ain't coming to Sabbath now, in certain schools and so forth. It's just like falling back. It starts raining: oh, I can't make it. You got brothers like, hey, listen, damn, homie, my stomach hurt today, I don't think I'm going to be available. I got a toothache. This is what we dealing with now. Ain't no persecution hit yet. This is what we dealing with right now. They think that's persecution. Read on.
+- So listen good. When Quadratus came to this church, this congregation, at the time that he was appointed over it, that's the condition it was in. Nobody was there. Everybody gone. Nobody coming to Sabbath. You got brothers ain't coming to Sabbath now, in certain schools and so forth. It's just like falling back. It starts raining: oh, I can't make it. You got brothers like, hey, listen, damn, homie, my stomach hurt today, I don't think I'm going to be available. I got a toothache. This is what we dealing with now. Ain't no persecution hit yet. This is what we dealing with right now. They think that's persecution.
 
 > who therefore applied himself with a fervent zeal
 
@@ -666,7 +662,7 @@ Reading from the same book, on St. Quadratus, continued  *[[1:31:55](https://www
 
 > and fanning their faith and fervour into a holy flame. He preached the gospel with such diligence as to enlarge the bounds of the church by daily converts,
 
-- Whoa, whoa, whoa. I don't think y'all hearing. Remember, when he came to the congregation, everybody left once the bishop before him was martyred. Church gone, the congregation gone, school in disarray. When he came there it was in that condition. Nobody coming to the Sabbath, nobody coming to new moons. It was vacant. So now he got to go out with more fervent zeal and diligence to recover the people back into the congregation. So when he went out preaching, he went out preaching hard. He went all out. Read that again.
+- Whoa, whoa, whoa. I don't think y'all hearing. Remember, when he came to the congregation, everybody left once the bishop before him was martyred. Church gone, the congregation gone, school in disarray. When he came there it was in that condition. Nobody coming to the Sabbath, nobody coming to new moons. It was vacant. So now he got to go out with more fervent zeal and diligence to recover the people back into the congregation. So when he went out preaching, he went out preaching hard. He went all out.
 
 > He preached the gospel with such diligence
 
@@ -680,13 +676,13 @@ Reading from the same book, on St. Quadratus, continued  *[[1:31:55](https://www
 
 > that Origen, who lived some time after, referred to the church at Athens as eminently excellent.
 
-- Yo, this dude bad. Quadratus was bad. But watch how he taught on the streets, though. Watch this.
+- Yo, this dude bad. Quadratus was bad. But watch how he taught on the streets, though.
 
 > Quadratus was endued with the spirit of prophecy, of speaking extempore upon emergent occasions,
 
 > and of expounding difficult scriptures.
 
-- Watch this. Look up the word. It said Quadratus was endued with a spirit of prophecy, of speaking extempore upon emergent occasions. Look up those two words, extempore and emergent, because I don't know what they mean.
+- Look up the word. It said Quadratus was endued with a spirit of prophecy, of speaking extempore upon emergent occasions. Look up those two words, extempore and emergent, because I don't know what they mean.
 
 </div>
 
@@ -700,7 +696,7 @@ Reading from dictionary definitions of extempore and emergent  *[[1:35:48](https
 
 - **Officer:** Yeah, the spirit was on him.
 
-- **Deacon Eythan:** Right. Now look up the other word, emergent. Emergent occasions. Because you got some teachers like that today. Cut you up real quick, you say something crazy on the street.
+- **Deacon Eythan:** Now look up the other word, emergent. Emergent occasions. Because you got some teachers like that today. Cut you up real quick, you say something crazy on the street.
 
 > Emergent: in the process of coming into being or becoming prominent.
 
@@ -710,7 +706,7 @@ Reading from dictionary definitions of extempore and emergent  *[[1:35:48](https
 
 - **Officer:** So it's like current events.
 
-- **Deacon Eythan:** Yeah. So he was prophesying and showing them the prophecies of the current events that were happening at the time. In the process of coming into being or becoming prominent. So he was on point with his prophecies and so forth. Go back to the page. Read it again.
+- **Deacon Eythan:** Yeah. So he was prophesying and showing them the prophecies of the current events that were happening at the time. In the process of coming into being or becoming prominent. So he was on point with his prophecies and so forth. Go back to the page.
 
 </div>
 
@@ -732,13 +728,13 @@ Reading from the same book, on St. Quadratus, continued  *[[1:36:50](https://www
 
 > Under Adrian's reign a great persecution arose. Indeed Tertullian tells us that Adrian had published no edict against the Christian church; but while Trajan's were unrepealed, there was no need of instruments to persecute them, especially when Adrian came to the empire, whose cruelty they knew too well to suppose him an enemy to such proceedings.
 
-- Go down. Hold on, go back. Slow down. Go up to the paragraph first.
+- Hold on, go back. Slow down. Go up to the paragraph first.
 
 > This was the present peaceable state of the church. But there is no information extant relative to Quadratus after Adrian left Athens, besides this: that by the violence of his persecutors he was driven from his charge; that he went and preached the gospel at Magnesia, a city of Ionia, in Asia Minor; and that there he suffered martyrdom, about the end of Adrian's reign, and that he was interred in the same city.
 
-- Right. So he suffered martyrdom also around that time.
+- So he suffered martyrdom also around that time.
 
-- *[[1:38:54](https://www.youtube.com/watch?v=oX_p6koVq5o&t=5934s)]* Hey, so now let's get into the training. Training for martyrdom. The books he scanned, where they at? The book *Early Christians in Rome*. We're going to skip around a little bit. Read that. The training for martyrdom. So this is the training for martyrdom. We had schools set up to train our bodies for martyrdom.
+- *[[1:38:54](https://www.youtube.com/watch?v=oX_p6koVq5o&t=5934s)]* Hey, so now let's get into the training. Training for martyrdom. The books he scanned, where they at? The book *Early Christians in Rome*. We're going to skip around a little bit. The training for martyrdom. So this is the training for martyrdom. We had schools set up to train our bodies for martyrdom.
 
 </div>
 
@@ -760,7 +756,7 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 
 > It can surely be no imaginary faith which enables him thus to welcome such suffering, such a death.
 
-- Go down. We're not going to read everything. Next page. Go to where I got the mark, right here. Rulers.
+- We're not going to read everything. Go to where I got the mark, right here. Rulers.
 
 > Rulers so different as Nero and Domitian, Hadrian, Antoninus Pius and Marcus Antoninus, Decius and Diocletian, and their ministers, felt that the sternest measures of repression of the new faith were absolutely necessary if they would stem the fast-advancing and apparently resistless tide of Christianity in the empire.
 
@@ -794,11 +790,11 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 
 > to succeed in persuading some well-known Christian to scatter on the altar of the deified emperor,
 
-- Wait. To succeed in persuading some well-known Christian. Well known in the body, or whatever the case was. That was an honour for them, to get that particular brother to blaspheme Christ. Or sister.
+- To succeed in persuading some well-known Christian. Well known in the body, or whatever the case was. That was an honour for them, to get that particular brother to blaspheme Christ. Or sister.
 
 > or of the popular image of Mars the Avenger, or of Diana, or of the yet greater Jupiter, a few grains of incense, typifying his return to the ancient pagan cult; or better still, to extract a few reluctant words in which the adored Christ was renounced and abandoned.
 
-- Damn. Go down. Next page.
+- Damn.
 
 > It was an outward and visible sign of that new wonderful revelation which was influencing so many different minds, which was working restlessly in such varied classes in Rome and in the many provinces of the world of Rome, which from the early days of its appearance in the great empire began at once to work a mighty change in all ranks and all society where it penetrated; and every year it penetrated deeper. The new revelation was taught by an ever-increasing band of teachers, fervent and passionate, eloquent, some of them learned and cultivated.
 
@@ -810,7 +806,7 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 
 > Something more was needed to touch the masses of the people, something thousands might see and hear of, something they might see for themselves. That something was supplied by the noble army of martyrs.
 
-- Go down. Next page. Let me see if I want anything. Go down. Read that.
+- Let me see if I want anything.
 
 > The story they told must be true,
 
@@ -834,7 +830,7 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 
 > this most interesting and far-reaching work in the very early church, the church of the ages of persecution, has hitherto generally escaped notice; only quite lately has it attracted some attention.
 
-- Right. Jump down to in this once famous.
+- Jump down to in this once famous.
 
 > In this once famous but now forgotten school of martyrdom, the well-known simile of St. Paul was the basis of the theory which seems to have inspired the work: the simile which compared the Christian combatant in the world arena to the athlete in the well-known and popular games of the amphitheatre.
 
@@ -842,11 +838,9 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 
 > There the athlete, before entering the theatre of combat, was carefully educated to endure hardness. A long and careful training before such an one could hope to win the palm and the crown was absolutely necessary.
 
-- Watch this.
-
 > He must go through many long, laborious, and painful exercises, abstinence, watchings, fastings, before his body was fit to endure the perils and sufferings of a trained combatant in the public arena.
 
-- So he's saying that a gladiator, or whoever, he must go through many long, laborious and painful exercises. Abstinence, meaning self-denial of pleasures, watchings, fastings, before his body was fit to endure the perils and sufferings of a trained combatant in the public arenas. Remember Hannibal went through that. Hannibal taught himself moderation in eating. He ate very little. He trained. He had discipline. He fasted a lot and so forth. So he trained. This is something that we did. Read on.
+- So he's saying that a gladiator, or whoever, he must go through many long, laborious and painful exercises. Abstinence, meaning self-denial of pleasures, watchings, fastings, before his body was fit to endure the perils and sufferings of a trained combatant in the public arenas. Remember Hannibal went through that. Hannibal taught himself moderation in eating. He ate very little. He trained. He had discipline. He fasted a lot and so forth. So he trained. This is something that we did.
 
 > In like manner must a Christian athlete who looked forward to a possible martyr's trial train himself.
 
@@ -876,11 +870,11 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 
 > The vision of Perpetua, circa A.D. 200 or a little earlier, one of the early passions of martyrs, the absolute authenticity of which is undisputed, for it has never been added to or re-edited, is a good example of the visions seen by the martyrs before their supreme trial.
 
-- So there's a good example of the visions seen by the martyrs before their supreme trials. So a lot of those of us that were martyred during this time, the Lord would give them visions and so forth, to comfort them. Read on.
+- So there's a good example of the visions seen by the martyrs before their supreme trials. So a lot of those of us that were martyred during this time, the Lord would give them visions and so forth, to comfort them.
 
 > But far more than the public recital of these well-loved acts and passions was required for the training and preparation work. So a number of short treatises or tracts were specially composed and put out for the instruction of the earnest and devoted men and women, as manuals.
 
-- You was getting a martyrdom packet. You was getting a martyrdom training packet. Like a precept book, or like a welcome home packet or something like that. It was a manual to prepare yourself. Next page. So these are some of the visions and so forth. Watch this. Read.
+- You was getting a martyrdom packet. You was getting a martyrdom training packet. Like a precept book, or like a welcome home packet or something like that. It was a manual to prepare yourself. So these are some of the visions and so forth.
 
 > The words too of a famous teacher like Cyprian, who himself in the end suffered martyrdom, were treasured up. Some of them are contained in the vision of St. Flavian before he suffered: I saw in the dream the martyr bishop of Carthage, and I said to him, Cyprian, is the death-stroke very agonizing? He replied, When the soul is in a state of heavenly rapture, the suffering flesh is no longer ours;
 
@@ -892,7 +886,7 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 
 > St. Felicitas, quoted in the passion of St. Perpetua above referred to, said, When I am in the amphitheatre, the Lord will be there and will suffer for me.
 
-- Dang. Go down.
+- Dang.
 
 > St. Blandina, in another cruel scene of martyrdom, was equally insensible to pain; her soul was far away, speaking with or praying to the Lord.
 
@@ -940,7 +934,7 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 
 - **Officer:** Because in affliction you have a lot of thoughts come into your mind. You have fear, you have doubt. All these things come within your mind. But in the multitude of those thoughts, it's God's word that's comforting you. That's what's going to keep you stable. Like the scripture says, if you keep your mind on me, I'll keep you in what? Perfect peace.
 
-- **Deacon Eythan:** That was awesome. Read that again. That was bad. That's Isaiah, right?
+- **Deacon Eythan:** That was awesome. That was bad. That's Isaiah, right?
 
 - **Officer:** Yes, Isaiah 26.
 
@@ -955,8 +949,6 @@ Reading from *Early Christians in Rome*, on the training for martyrdom  *[[1:39:
 Reading from *Early Christians in Rome*, on the training for martyrdom, continued  *[[2:00:39](https://www.youtube.com/watch?v=oX_p6koVq5o&t=7239s)]*
 
 > But the training for martyrdom to which a number of Christians in the first, second, and third centuries voluntarily gave themselves was by no means confined to the mastering of the contents of a small collection of carefully prepared treatises, or to the listening to eloquent and burning exhortations of devoted teachers, or even to the constant dwelling on the words of the Divine Master.
-
-- Watch this.
 
 > This training included a prolonged and carefully balanced practice in austerities, which would accustom the body to self-denial and to suffering,
 
@@ -1000,7 +992,7 @@ Reading from *Early Christians in Rome*, on the training for martyrdom, continue
 
 > which would render the body insensible to fatigue, capable of bearing any suffering however poignant, were constantly practised. This training sometimes went on for a long while before a fitting opportunity presented itself of a public trial.
 
-- You see that? So we practised laborious exercises, fasting, watching and prayer. So we did painful and laborious exercises. We pretty much built up our pain tolerance. The painful, laborious exercise was no basic exercise. It's something where you're pretty much just building up your pain tolerance, in a sense.
+- So we practised laborious exercises, fasting, watching and prayer. So we did painful and laborious exercises. We pretty much built up our pain tolerance. The painful, laborious exercise was no basic exercise. It's something where you're pretty much just building up your pain tolerance, in a sense.
 
 - **Officer:** Push yourself to the limit.
 
@@ -1014,7 +1006,7 @@ Reading from *Early Christians in Rome*, on the training for martyrdom, continue
 
 - So remember Irenaeus. Remember he went to France. That happened in France, remember, that persecution that went on in France. That's what he's referring to. But he's saying because of the lack of training themselves and building their spirit up to prepare themselves for death, a lot of them shrank. A lot of them went right back. A lot of them blasphemed against Christ, because they didn't build themselves up. They never built their spirit up to endure the tortures and so forth, to be put to death.
 
-- Next page. Give me the sister and her seven sons. That's in the Telegram. It's a link. Here we go. Read that real quick.
+- Give me the sister and her seven sons. It's a link. Here we go.
 
 </div>
 
@@ -1036,8 +1028,6 @@ Reading from *The Spirituality of Fasting* by H.H. Pope Shenouda III, on fasting
 
 > The Spirituality of Fasting, by H.H. Pope Shenouda III. Fasting and martyrdom. It is natural that he who cannot abstain from food will find it difficult to offer his life.
 
-- Read it again.
-
 - So it is natural that if you cannot abstain from food, the pleasures of the flesh, you will find it difficult to offer your life.
 
 > Through continuous training and negligence for the bodily needs, a courageous soul is trained to endure hunger and thirst, bring the body into subjection, to conquer the desires and lusts of the body. It is able to endure the hardships of imprisonment
@@ -1050,7 +1040,7 @@ Reading from *The Spirituality of Fasting* by H.H. Pope Shenouda III, on fasting
 
 > These people were able through God's grace to offer their bodies up to death at the time of
 
-- You see that? Read the next part.
+- Read the next part.
 
 > Thus fasting became the training of the spiritual school of martyrs, not only in the physical sense but also from the spirituality gained in fasting. Days of fasting are not only for our spiritual deeds, repentance and coming closer to God, but they also help evoke our love for eternity with him. Man therefore harbours no fear when faced with death, since he is prepared for it; rather, man is happy that he is to rid himself of his body to meet with God. As St. Paul says, having a desire to depart and be with Christ, which is far better.
 
@@ -1080,13 +1070,11 @@ Reading from *The Spirituality of Fasting* by H.H. Pope Shenouda III, on fasting
 
 - **Officer Manny:** Henceforth there is laid up for me a crown of righteousness. He said, now this is my reward for doing what I was commanded to do. I have a crown waiting for me. So, same thing: our forefathers, they went through the torture, the oppression, the afflictions, imprisonment. We got to do the same thing, and our reward is going to be that crown.
 
-- **Deacon Eythan:** All praise.
-
 ## In Closing
 
-*[[2:12:28](https://www.youtube.com/watch?v=oX_p6koVq5o&t=7948s)]* Hey, Israel, let's give it up for the leadership for that class again. All praise the Most High. Much needed in the time to come.
+*[[2:12:28](https://www.youtube.com/watch?v=oX_p6koVq5o&t=7948s)]* Hey, Israel, let's give it up for the leadership for that class again. Much needed in the time to come.
 
-*[[2:13:47](https://www.youtube.com/watch?v=oX_p6koVq5o&t=8027s)]* That's it. All praise. Give a shout out to IT, and the sisters that made the breakfast. So all praise the Most High for that. And with that, Lord's will, we'll see you next show. Shalom, shalom.
+*[[2:13:47](https://www.youtube.com/watch?v=oX_p6koVq5o&t=8027s)]* That's it. So all praise the Most High for that. And with that, Lord's will, we'll see you next show. Shalom, shalom.
 
 ## Announcements & References
 

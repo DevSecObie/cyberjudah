@@ -18,11 +18,11 @@ tags: ["Our Hidden History", "christ", "persecution", "rome"]
 
 ## Introduction
 
-*[[7:15](https://www.youtube.com/watch?v=UqOEbapXlZo&t=435s)]* Hey, shalom. Most High and Christ bless. We back with another episode of Our Hidden History. You're now tuned in to Our Hidden History radio show. All right, all right, all praises, brothers. This is crazy. Shout out.
+*[[7:15](https://www.youtube.com/watch?v=UqOEbapXlZo&t=435s)]* You're now tuned in to Our Hidden History radio show.
 
 Hey, before we get into the topic: we still dealing with The Echoes of Rome. We still dealing with the emperors, the twelve feathers. We still going into them, so nothing has changed. But I am going to sidebar a little bit today on this show.
 
-*[[7:45](https://www.youtube.com/watch?v=UqOEbapXlZo&t=465s)]* First I want to give a shout out to Bishop's class. All praises, all praises. Hey, these classes, these classes are coming out. We got to build our spirit up, man, cuz look, it's coming. All right? It is coming. Okay. And that's what we going to continue on with after we sidebar. We're going to continue on with the disciples that came after the apostles. Okay, so understand. Give me 2 Esdras 7:28 real quick, real quick, and then we going to get into it.
+*[[7:45](https://www.youtube.com/watch?v=UqOEbapXlZo&t=465s)]* We got to build our spirit up, man, cuz look, it's coming. It is coming. And that's what we going to continue on with after we sidebar. We're going to continue on with the disciples that came after the apostles. Okay, so understand. Give me 2 Esdras 7:28 real quick, real quick, and then we going to get into it.
 
 ## Readings and Scriptures
 
@@ -32,15 +32,15 @@ Hey, before we get into the topic: we still dealing with The Echoes of Rome. We 
 
 - Uh-huh. So those that was with Christ were the apostles, the twelve apostles.
 
-- And they that remain shall rejoice within 400 years, meaning from the time of Esdras, from the Persian captivity. Okay? Within 400 years. All right, so you had the intertestamental, the intertestamental period, okay, that was in between. All right, which was the Greeks. All right, so 400 years from the time of the Persians, that's when Christ came on the scene.
+- And they that remain shall rejoice within 400 years, meaning from the time of Esdras, from the Persian captivity. Within 400 years. All right, so you had the intertestamental, the intertestamental period, okay, that was in between. All right, which was the Greeks. All right, so 400 years from the time of the Persians, that's when Christ came on the scene.
 
 - They that seen him rejoiced when they knew it was him that came on the scene, when they knew it was Christ.
 
 > <sup>[29](/bible/2-esdras/7#v29)</sup> After these years shall my son Christ die, and all men that have life.
 
-- So when it says all men that have life: cuz Christ, Christ died. All right? But all men that had life, meaning what? They had this truth. All the men that kept God's laws, they all were martyred. All right? Just like Christ was. So you got from Christ up until you have the twelve apostles. Okay, they were all put to death. All right? But also you have those that came after this, meaning the succession after the apostles. All right, so we're going to get into those after we go over this topic.
+- So when it says all men that have life: cuz Christ, Christ died. But all men that had life, meaning what? They had this truth. All the men that kept God's laws, they all were martyred. Just like Christ was. So you got from Christ up until you have the twelve apostles. Okay, they were all put to death. But also you have those that came after this, meaning the succession after the apostles. All right, so we're going to get into those after we go over this topic.
 
-*[[10:07](https://www.youtube.com/watch?v=UqOEbapXlZo&t=607s)]* So bring that up for me. So we're going to sidebar a little bit. Everything all right? Y'all, the camera froze. Oh, come on. We good? Hey, oh yeah, it's good. All right, yeah, we're good enough. All right, all right, all praises, all praises. All right, read that. So hold on: there's an outcry right now for Denzel Washington playing Hannibal. There's an outcry going on right now. So let's read this.
+*[[10:07](https://www.youtube.com/watch?v=UqOEbapXlZo&t=607s)]* So bring that up for me. So we're going to sidebar a little bit. Everything all right? Y'all, the camera froze. We good? Hey, oh yeah, it's good. All right, yeah, we're good enough. So hold on: there's an outcry right now for Denzel Washington playing Hannibal. There's an outcry going on right now. So let's read this.
 
 <div class="reading">
 
@@ -48,15 +48,15 @@ Reading from an article on Denzel Washington's casting as Hannibal in Antoine Fu
 
 > Denzel Washington's casting as ancient general Hannibal in Antoine Fuqua's Netflix film sparks controversy in Tunisia.
 
-- So the fact that they have Denzel cast as Hannibal is sparking an outcry in Tunisia. All right? Come on, come on, come on.
+- So the fact that they have Denzel cast as Hannibal is sparking an outcry in Tunisia.
 
 > Denzel Washington being cast in Antoine Fuqua's upcoming Netflix movie as ancient Carthaginian general Hannibal is sparking some controversy in Tunisia,
 
-- So it's sparking controversy in Tunisia. Now listen, we already, the Elder already touched on these. We got plenty episodes on Hannibal. I just wanted to just go back into it. Repetition is good, repetition is good. So I just want to rehash about Hannibal, because now that they trying to bring out this movie with Denzel, there's an outcry in Tunisia about a black man playing Hannibal. Remember, this reminds me of when Kevin Hart made comment about Egypt. Same. They were all getting upset, they canceled him over there. So same deal. So that's why I want to, you know, go back into it. All right.
+- So it's sparking controversy in Tunisia. Now listen, we already, the Elder already touched on these. We got plenty episodes on Hannibal. I just wanted to just go back into it. Repetition is good, repetition is good. So I just want to rehash about Hannibal, because now that they trying to bring out this movie with Denzel, there's an outcry in Tunisia about a black man playing Hannibal. Remember, this reminds me of when Kevin Hart made comment about Egypt. Same. They were all getting upset, they canceled him over there. So same deal. So that's why I want to, you know, go back into it.
 
 > the home country of the great military commander.
 
-- So hold on. Tunisia used to be Carthage. Tunisia was Carthage. All right.
+- So hold on. Tunisia used to be Carthage. Tunisia was Carthage.
 
 > According to French newspaper Courrier International, there are complaints about depicting the Carthaginian general as a black African
 
@@ -82,13 +82,13 @@ Reading from an article on Denzel Washington's casting as Hannibal in Antoine Fu
 >
 > It's fiction. It is their, Netflix's, right to do what they want, she responded. Hannibal is a historical figure and we are all proud that he was Tunisian.
 
-- So she's saying that a black man playing Hannibal is fiction. Netflix can do what they want. You know, it's going to be fiction. But she's saying, we do know that he was a historical figure though. All right? But if Netflix put it out, it's just fiction. That's all.
+- So she's saying that a black man playing Hannibal is fiction. Netflix can do what they want. You know, it's going to be fiction. But she's saying, we do know that he was a historical figure though. But if Netflix put it out, it's just fiction. That's all.
 
 > But what can we do? She went on to note that she is trying to negotiate with Netflix to shoot at least a portion of the film in Tunisia. I hope they decide to shoot at least a sequence of the film here and that this is publicized. We want Tunisia to go back to being a location where films are shot,
 
 > Representatives for Netflix, Washington and Fuqua did not immediately reply to a request for comment. The controversy in Tunisia over Washington playing Hannibal is reminiscent of the uproar sparked in Egypt in April over Britain's Adele James, who is of mixed heritage, playing Cleopatra in Netflix's docudrama Queen Cleopatra.
 
-- Cleopatra was an Edomite. All right? She is an Edomite. All right.
+- Cleopatra was an Edomite. She is an Edomite.
 
 > The first century Egyptian queen was born in the Egyptian city of Alexandria in 69 BC and belonged to a Greek-speaking dynasty. Egyptian academics went on a rampage over the fact that Cleopatra was of European descent and not black.
 
@@ -96,7 +96,7 @@ Reading from an article on Denzel Washington's casting as Hannibal in Antoine Fu
 
 > The still untitled film about the Carthaginian general will be written by John Logan,
 
-- An Edomite. Okay. Doesn't have anything to do with this. The director, which is, what's the brother name? We just read it. Antoine Fuqua. He's just a director, he's just behind the camera. But the actual writer of the script and so forth, that's Esau. John Logan is an Edomite. All right? So he's the one that's writing this whole movie, putting this movie together.
+- An Edomite. Doesn't have anything to do with this. The director, which is, what's the brother name? We just read it. Antoine Fuqua. He's just a director, he's just behind the camera. But the actual writer of the script and so forth, that's Esau. John Logan is an Edomite. So he's the one that's writing this whole movie, putting this movie together.
 
 > the three-time Academy Award winner who scribed Martin Scorsese's The Aviator and Ridley Scott's Gladiator.
 
@@ -108,13 +108,13 @@ Reading from an article on Denzel Washington's casting as Hannibal in Antoine Fu
 
 > The film covers the pivotal battles he led against the Roman Republic during the Second Punic War. Hannibal invaded Italy while riding a northern African war elephant. Under his lead, the Carthaginians won key victories against the Romans, allowing Hannibal to occupy the majority of southern Italy for 15 years. Eventually Hannibal was defeated by the Romans at the Battle of Zama after they counter-invaded North Africa. Fuqua most recently directed Washington in the action thriller The Equalizer 3, in which Washington reprised his role as ex-Marine Robert McCall.
 
-- So he directed Equalizer 3 with Denzel, Antoine Fuqua. Right.
+- So he directed Equalizer 3 with Denzel, Antoine Fuqua.
 
 > Washington is currently involved in another war epic, the upcoming sequel to Ridley Scott's Gladiator.
 
 - Now, only issue I have, only issue I have with it is that Denzel is, what, he'll be 69 years old. Old man, he old. So why can't we cast Hannibal when he was young, right, in his prime? But now out of all the brothers we got to choose Denzel, which is 70 pretty much. Damn, homie. That's the only thing I have against the movie. Denzel is 70 years old. So we going to play Hannibal at the end of his life? You know, so what are we doing? I know you're not going to have Denzel play Hannibal when he's 28. They tried, though. I can see it happening.
 
-- All right, so now what we going to do is prove that Hannibal was a black man. That's right. Okay. Give me Job 9:24. Let's start with Job 9:24.
+- All right, so now what we going to do is prove that Hannibal was a black man. That's right. Give me Job 9:24. Let's start with Job 9:24.
 
 </div>
 
@@ -122,19 +122,19 @@ Reading from an article on Denzel Washington's casting as Hannibal in Antoine Fu
 
 > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
 
-- The judges are the Israelites. We're the judges of this earth. What Esau did, he covered our faces. All right? It's known as iconoclasm. It's known as whitewash. That's what it's known as.
+- The judges are the Israelites. We're the judges of this earth. What Esau did, he covered our faces. It's known as iconoclasm. It's known as whitewash. That's what it's known as.
 
-- Give me 1 Maccabees 3:48. We're the judges of the earth; Esau covered our faces. When you go to Spain, you go to Italy, you go to Europe, Romania and so forth, they covered all. They tried to, anyway. We had so many images over in Europe, in Rome and Spain and so forth. They tried to; they couldn't cover everything. They couldn't whitewash everything. All right? So hey, y'all posting those images? We can see those, right? All right, so these are some images and so forth. The main person that they whitewashed, the main judge that they whitewashed, was Christ. All right.
+- Give me 1 Maccabees 3:48. We're the judges of the earth; Esau covered our faces. When you go to Spain, you go to Italy, you go to Europe, Romania and so forth, they covered all. They tried to, anyway. We had so many images over in Europe, in Rome and Spain and so forth. They tried to; they couldn't cover everything. They couldn't whitewash everything. So hey, y'all posting those images? We can see those, right? All right, so these are some images and so forth. The main person that they whitewashed, the main judge that they whitewashed, was Christ.
 
 **[1 Maccabees 3:48](/bible/1-maccabees/3#v48)**  *[[20:41](https://www.youtube.com/watch?v=UqOEbapXlZo&t=1241s)]*
 
 > <sup>[48](/bible/1-maccabees/3#v48)</sup> And laid open the book of the law, wherein the heathen had sought to paint the likeness of their images.
 
-- So Esau sought to paint the likenesses of their images. They took our Bibles, they took our records and put their images in our records. So guess what: if they put their images in the records, what were the images in the records before they tried to cover up those images? Black. They were black. Okay.
+- So Esau sought to paint the likenesses of their images. They took our Bibles, they took our records and put their images in our records. So guess what: if they put their images in the records, what were the images in the records before they tried to cover up those images? Black. They were black.
 
-- Read it again. So they sought to paint the likeness of their images in our Bible, in our records. All right.
+- So they sought to paint the likeness of their images in our Bible, in our records.
 
-*[[21:30](https://www.youtube.com/watch?v=UqOEbapXlZo&t=1290s)]* Now give me the first, let me see what I have. One second, hold on. All right, give me the Wikipedia on Tunisia, and then give me *Caesar and Christ*. All right, now, many of these books, they were already brought out. I'm just, like I said, I'm just rehashing it.
+*[[21:30](https://www.youtube.com/watch?v=UqOEbapXlZo&t=1290s)]* Now give me the first, let me see what I have. All right, give me the Wikipedia on Tunisia, and then give me *Caesar and Christ*. All right, now, many of these books, they were already brought out. I'm just, like I said, I'm just rehashing it.
 
 <div class="reading">
 
@@ -146,17 +146,17 @@ Reading from Wikipedia on Tunisia  *[[21:58](https://www.youtube.com/watch?v=UqO
 
 > It is a part of the Maghreb region of North Africa, bordered by Algeria to the west and southwest.
 
-- Go down. You can jump down, jump down. Yep.
+- You can jump down, jump down. Yep.
 
 > Beginning in early antiquity, Tunisia was inhabited by the indigenous Berbers. The Phoenicians, a Semitic people,
 
-- You see that? The Phoenicians, a Semitic people.
+- The Phoenicians, a Semitic people.
 
 > began to arrive in the 12th century BC, settling on the coast and establishing several settlements, of which Carthage emerged as the most powerful by the 7th century BC.
 
 > The descendants of the Phoenician settlers came to be known as the Punic people.
 
-- You see that? So they came to be known as Punic. All right.
+- So they came to be known as Punic.
 
 > Ancient Carthage was a major mercantile empire and a military rival to the Roman Republic until 146 BC, when it was defeated by the Romans, who occupied Tunisia for most of the next 800 years.
 
@@ -174,11 +174,11 @@ Reading from Wikipedia on Tunisia  *[[21:58](https://www.youtube.com/watch?v=UqO
 
 - **Deacon Eythan:** Yeah, a lot of confusion, a lot of confusion when it comes to that Canaan. We're Canaan cuz we're black, but then the real Canaanites, they're over there now, they're white now. They white. So it's just, can't have nothing. Bunch of confusion. Can't have nothing.
 
-- Read on. No, matter of fact, go down, go down. Let me see, let me see. Go down, go down. All right, you get out of it. Go down. Yep. No, start at the Romans introduced Christianity.
+- No, matter of fact, go down, go down. All right, you get out of it. Yep. No, start at the Romans introduced Christianity.
 
 > The Romans introduced Christianity and left architectural legacies like the amphitheater of El Jem. In the 7th century AD, Arab Muslims conquered
 
-- You see that? Arab Muslims conquered.
+- Arab Muslims conquered.
 
 > all of Tunisia,
 
@@ -192,7 +192,7 @@ Reading from Wikipedia on Tunisia  *[[21:58](https://www.youtube.com/watch?v=UqO
 
 > and Arab culture to the local inhabitants.
 
-- Right. Slavery. That's how they brought it to local inhabitants. They enslaved us. They forced us. They forced Islam on us. All right? Like you read in Jeremiah: we sat before them learning Islam. They was castrating us. They was doing all types of horrible things to us. They're still doing this.
+- Slavery. That's how they brought it to local inhabitants. They enslaved us. They forced us. They forced Islam on us. Like you read in Jeremiah: we sat before them learning Islam. They was castrating us. They was doing all types of horrible things to us. They're still doing this.
 
 - **Officer:** And still doing it.
 
@@ -218,7 +218,7 @@ Reading from Wikipedia on Tunisia  *[[21:58](https://www.youtube.com/watch?v=UqO
 
 </div>
 
-*[[27:46](https://www.youtube.com/watch?v=UqOEbapXlZo&t=1666s)]* This is their bust of Hannibal today. This is what they go by. They go by this. They say, oh, this is Hannibal. Now, let me say something, I want to say something, I want to say something. When you look at a bust of antiquity, it's all beat up. There's cracks, nose gone, okay, it's half a head. This is a fresh bust. Meaning what? They just put this together. This is fresh, right? This ain't no bust from antiquity. This is a fresh bust right here. A lot of busts that we see, a lot of sculptures that we see, they are old. They are old. Okay? This one, they probably made this. They probably put this together a couple years ago.
+*[[27:46](https://www.youtube.com/watch?v=UqOEbapXlZo&t=1666s)]* This is their bust of Hannibal today. This is what they go by. They go by this. They say, oh, this is Hannibal. Now, let me say something, I want to say something, I want to say something. When you look at a bust of antiquity, it's all beat up. There's cracks, nose gone, okay, it's half a head. This is a fresh bust. Meaning what? They just put this together. This is fresh, right? This ain't no bust from antiquity. This is a fresh bust right here. A lot of busts that we see, a lot of sculptures that we see, they are old. They are old. This one, they probably made this. They probably put this together a couple years ago.
 
 **Officer:** I'm going to post where it comes from. So I just posted a link in the group.
 
@@ -240,19 +240,19 @@ Reading from Wikipedia on Hannibal, the Capua bust  *[[28:46](https://www.youtub
 
 - **Officer:** Yeah, after he was born.
 
-- **Deacon Eythan:** Yeah. Okay. I bet you Tunisia never wrote a letter about it.
+- **Deacon Eythan:** Yeah. I bet you Tunisia never wrote a letter about it.
 
 - **Officer:** No.
 
-- **Deacon Eythan:** Right. They ain't never come against them like, yo, how come that bust isn't here? It's not West Asian Semitic.
+- **Deacon Eythan:** They ain't never come against them like, yo, how come that bust isn't here? It's not West Asian Semitic.
 
 > The bust is depicted on the five dinar banknote of Tunisia, 2013 series. The site of ancient Carthage.
 
-- Go down, let me see. All right, that's all we want on that. Give me *Caesar and Christ*, real quick, *Caesar and Christ*. Can't make this up, black man. We can't have nothing. We can't have no history. Only history they say is you a slave, you a slave, that's it. There's no way you was Hannibal.
+- All right, that's all we want on that. Give me *Caesar and Christ*, real quick, *Caesar and Christ*. Can't make this up, black man. We can't have nothing. We can't have no history. Only history they say is you a slave, you a slave, that's it. There's no way you was Hannibal.
 
 - **Officer:** He's even dressed like a Roman.
 
-- **Deacon Eythan:** Yeah, right, right, he is. Come on, man.
+- **Deacon Eythan:** Yeah, right, right, he is.
 
 - **Officer:** Man look like Caesar more than anything.
 
@@ -262,7 +262,7 @@ Reading from Wikipedia on Hannibal, the Capua bust  *[[28:46](https://www.youtub
 
 </div>
 
-*[[31:10](https://www.youtube.com/watch?v=UqOEbapXlZo&t=1870s)]* Go down, go down. What page is this? I gave you this page? Nah. Yes, read that: the Carthaginians were Semites. Hey, I didn't give you the page, like the officer brought up how we forced. See if y'all have that somewhere. Somebody say something? I got to pull, I got to find it.
+*[[31:10](https://www.youtube.com/watch?v=UqOEbapXlZo&t=1870s)]* What page is this? I gave you this page? Nah. Yes, read that: the Carthaginians were Semites. Hey, I didn't give you the page, like the officer brought up how we forced. See if y'all have that somewhere. Somebody say something? I got to pull, I got to find it.
 
 **Officer:** It's crazy how the history that we reading about, it always goes back to the history of Greece. Like, we in the Feast of Dedication right now, and we always referring back to that history, because it's the same people doing the same things.
 
@@ -292,11 +292,11 @@ Reading from Wikipedia on Hannibal, the Capua bust  *[[28:46](https://www.youtub
 
 - **Officer:** Get Hosea 3:4. Yo, the fact that they changing these images, that's them roaring in the congregations. Cuz look at what they're doing now. Hannibal's being depicted as a black man via Denzel Washington, and what are they doing? There's an uproar about it, there's an outcry. Why? Because they put their signs in place of our signs.
 
-- **Deacon Eythan:** Right. Hosea chapter 3, verse 4.
+- **Deacon Eythan:** Hosea chapter 3, verse 4.
 
 - **Officer:** Hey, I'm sorry, I'm sorry. That's like what the Bishop was bringing out with the book *Puerto Rico: Flame of Resistance*. He's bringing out about the tyrant and the peasant, and how the tyrant tried to bury the truth, but now it's coming back out. Nothing he could do about it.
 
-- **Deacon Eythan:** Okay, so that's what was happening. The tyrant was trying to bury the truth that we are the Israelites. They was trying to whitewash all of our paintings and so forth, tear down our sculptures that we had. All right? That was him burying the truth. But it's a wrap now. It's a done deal. That's why Christ said there's nothing hidden that will not be revealed.
+- **Deacon Eythan:** Okay, so that's what was happening. The tyrant was trying to bury the truth that we are the Israelites. They was trying to whitewash all of our paintings and so forth, tear down our sculptures that we had. That was him burying the truth. But it's a wrap now. It's a done deal. That's why Christ said there's nothing hidden that will not be revealed.
 
 - **Officer:** That's right, that's right.
 
@@ -304,29 +304,27 @@ Reading from Wikipedia on Hannibal, the Capua bust  *[[28:46](https://www.youtub
 
 > <sup>[4](/bible/hosea/3#v4)</sup> For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:
 
-- So we did abide many days without a king, without a prince. All right? We abide many, many days.
+- So we did abide many days without a king, without a prince. We abide many, many days.
 
-- Without a what? Image. So all of our images, all praises, we getting our images back now, of who we were and so forth. So all praise to the Most High for that. But we abide many days without those images. All right? So all praises, we able to go through the Bible now and see that Christ was a black man. You see that the prophet is black. King Simon was a black man, right? Okay. See the images that we had all over in Europe and Spain during the Dark Ages. All right? So now we're able to see these images, but for many days we did not have those images. That's why in Psalms it says, and we know not how long.
+- Without a what? Image. So all of our images, all praises, we getting our images back now, of who we were and so forth. So all praise to the Most High for that. But we abide many days without those images. So all praises, we able to go through the Bible now and see that Christ was a black man. You see that the prophet is black. King Simon was a black man, right? See the images that we had all over in Europe and Spain during the Dark Ages. So now we're able to see these images, but for many days we did not have those images. That's why in Psalms it says, and we know not how long.
 
 - **Officer:** Yeah, that's the many days, right. And when they whitewash our images, that is a form of evil communication, because it's definitely corrupting us. Because we don't see the good deeds that our forefathers did, especially in the Bible, whereas we see our oppressors. We put them on top instead of us being on top.
 
 - **Deacon Eythan:** Oh, it's definitely systematic. It's definitely systematic, because of the fact that if they tie down those images that we had before, and just show the negative side, show negative images of us. Like when they show the pictures of us going into slavery, we're naked, right?
 
-- **Officer:** Right.
-
 - **Deacon Eythan:** But we had clothes on. They took those clothes off of us. They robbed us. But as a child, when you see that in school, you just think we were savage barbarians. But not knowing, now today we understand we had civilizations over in Africa. We had empires. Even here, to this very day, there are northern kingdom people who think that the natives here were savages, that they were running around naked.
 
-- **Officer:** Right. But when you read the history, you read that they were ripping the clothes off our backs. Didn't they do the same thing to Christ before they crucified him?
+- **Officer:** But when you read the history, you read that they were ripping the clothes off our backs. Didn't they do the same thing to Christ before they crucified him?
 
 - **Deacon Eythan:** They did the same thing. They mocked him. He had a purple garment on, and they didn't rip it off, but they took it off of him. Why? Because we had clothing on. Hey, and the northern kingdom over here, they had gold, precious stones, wealthy. They ripped those clothes off. So now when you see us in school, you look at the pictures today, you see us going on boats and we just naked. We got just yokes of iron and we naked. No, they stripped those clothes off of us. And when you look at them in their history, they're the ones that are naked.
 
-- **Officer:** Right. It's a form of psychological warfare.
+- **Officer:** It's a form of psychological warfare.
 
 - **Deacon Eythan:** Psychological warfare. That's why that scripture in Lamentations, it's physical as well as spiritual, when it says I've seen servants on horses. Because when you looking at the images, you always see yourself in servitude.
 
 - **Officer:** Yes. But it actually did happen, where they was on the horses as well.
 
-- **Deacon Eythan:** All praises. All right, let's get back to, hey, I missed something. I missed the page. Give me the old book. Go back to the group. There's an older book, the book from 1793, *Critical Review*. Bishop always used this book. Yep, right there. About the Arabs. I wanted to get that about the Arabs: what happened when they conquered, who was there, who they enslaved.
+- **Deacon Eythan:** All right, let's get back to, hey, I missed something. I missed the page. Give me the old book. Go back to the group. There's an older book, the book from 1793, *Critical Review*. Bishop always used this book. Yep, right there. About the Arabs. I wanted to get that about the Arabs: what happened when they conquered, who was there, who they enslaved.
 
 <div class="reading">
 
@@ -338,11 +336,11 @@ Reading from *Critical Review*, the book from 1793, on the Arabs in Morocco  *[[
 
 > Ever since the year of Christ, the Moroccans had extended their conquest to the northern banks of the Senegal, and from that time there are continual traces of an intercourse between these two nations. By these conquerors the Arabic language, circumcision, the Quran and some other rites, not yet entirely lost among the black tribes beyond the river of Gambia, were introduced among the Negroes.
 
-- So all these things introduced amongst us. They enslaved us. Okay? They forced Islam on us. All right. Now, Morocco, that whole area was called Mauritania. We went over Mauritania. That whole area was called Mauritania, from Tunisia. Give me Mauritania. You know how to spell Mauritania?
+- So all these things introduced amongst us. They enslaved us. They forced Islam on us. Now, Morocco, that whole area was called Mauritania. We went over Mauritania. That whole area was called Mauritania, from Tunisia. Give me Mauritania. You know how to spell Mauritania?
 
 - **Officer:** Look, I don't know off the back either.
 
-- **Deacon Eythan:** Yo, he crazy. Yo, this guy throwing crazy shots right now. Come on, come on. Go, go.
+- **Deacon Eythan:** Yo, he crazy. Yo, this guy throwing crazy shots right now. Go, go.
 
 </div>
 
@@ -352,7 +350,7 @@ Reading from Wikipedia on Mauritania  *[[40:25](https://www.youtube.com/watch?v=
 
 > Mauritania, officially the Islamic Republic of Mauritania, is a sovereign country in Northwest Africa. It is bordered by the Atlantic Ocean to the west, Western Sahara to the north and northwest, Algeria to the northeast, Mali to the east and southeast, and Senegal to the southwest.
 
-- You see that? Go down, go down. Come on, come on. All right. But that whole area, what I wanted to show y'all: that whole area, Mauritania, that was called Mauritania. It means black. Black people, we had that whole North Africa, that area, and we even went up into Spain. All right. Now go back to *Caesar and Christ*, go back to *Caesar and Christ*. And they called us Berbers. They called us Berbers. So we just proven that Hannibal was a black man. All right.
+- But that whole area, what I wanted to show y'all: that whole area, Mauritania, that was called Mauritania. It means black. Black people, we had that whole North Africa, that area, and we even went up into Spain. Now go back to *Caesar and Christ*, go back to *Caesar and Christ*. And they called us Berbers. They called us Berbers. So we just proven that Hannibal was a black man.
 
 </div>
 
@@ -366,15 +364,13 @@ Reading from *Caesar and Christ*, on the Carthaginians  *[[41:09](https://www.yo
 
 > akin in blood and features to the ancient Jews.
 
-- Whoa, whoa, whoa. Read that again. Read it again.
+- Whoa, whoa, whoa.
 
 > The Carthaginians were Semites, akin in blood and features to the ancient Jews.
 
-- To the ancient Jews. Akin in blood and features to the ancient Jews. Okay, watch this now. Go down, go down, let me see if I want anything else. All right, nope. Give me the next page. So remember, they were Semites, akin in blood to the ancient Jews. The Carthaginians were northern kingdom. I have a book that say it was Asher and Zebulon. Asher and Zebulon that went down. At first it was Canaan, it was the Hamites that went there. Then we went there and we forced them further down. All right.
+- To the ancient Jews. Akin in blood and features to the ancient Jews. Go down, go down, let me see if I want anything else. All right, nope. So remember, they were Semites, akin in blood to the ancient Jews. The Carthaginians were northern kingdom. I have a book that say it was Asher and Zebulon. Asher and Zebulon that went down. At first it was Canaan, it was the Hamites that went there. Then we went there and we forced them further down.
 
 > When the Romans destroyed Carthage, they presented the libraries they found there to their African allies. Of these collections nothing survives except Hanno's record of his voyage.
-
-- Whoa, read that again.
 
 > When the Romans destroyed Carthage, they presented the libraries they found there to their African allies.
 
@@ -382,11 +378,11 @@ Reading from *Caesar and Christ*, on the Carthaginians  *[[41:09](https://www.yo
 
 > Of these collections nothing survives except Hanno's record of his voyage.
 
-- So guess what they do with those records? They study us. They able to study, man. They able to study who we are, the culture, everything. Okay? So guess what, they split those records between them two. Rome split those records up with Ham. That's what happened, so they could study us. All right. Go down, let me see if I want anything else here.
+- So guess what they do with those records? They study us. They able to study, man. They able to study who we are, the culture, everything. So guess what, they split those records between them two. Rome split those records up with Ham. That's what happened, so they could study us. Go down, let me see if I want anything else here.
 
 - **Officer:** That's Psalms 83 off, when it happens over history. Not just in this time period, but back in the Romans' time they was still joining with other nations against us.
 
-- **Deacon Eythan:** All right. You can drop that. Oh, you get out of it. Give me the next page. I don't even remember telling you to get all these pages. Next page. Go down. Let me see. All right, I don't want that yet. I don't want that yet. All right, give me *African Presence in Early Europe*. Let me see if I want that one. Yep. *African Presence in Early Europe*. Give me the first page. So this is the book *African Presence in Early Europe*. Read the highlight. Watch this.
+- **Deacon Eythan:** You can drop that. Oh, you get out of it. I don't even remember telling you to get all these pages. All right, I don't want that yet. I don't want that yet. All right, give me *African Presence in Early Europe*. Let me see if I want that one. Yep. *African Presence in Early Europe*. Give me the first page. So this is the book *African Presence in Early Europe*. Read the highlight.
 
 </div>
 
@@ -418,13 +414,11 @@ Reading from *African Presence in Early Europe*, on the skeletons of Carthage an
 
 > prominent parietal bumps farther forward and lower down than usual, is common in Lebanese burial grounds and in those of New Tyre.
 
-- Watch this.
-
 > Perhaps it belonged to the real Phoenicians,
 
 > but most of the Punic population in Carthage had African and even Negro ancestors.
 
-- So in Carthage they were either African and even Negro ancestors. That's right. Okay. So look at these pictures right here. This is a coin of Hannibal, the real Hannibal. But the elephant. So there's a coin of Hannibal, and on the other side is an elephant, right? And we're going to show the actual picture. Okay, go to the next page. Watch this.
+- So in Carthage they were either African and even Negro ancestors. That's right. So look at these pictures right here. This is a coin of Hannibal, the real Hannibal. But the elephant. So there's a coin of Hannibal, and on the other side is an elephant, right? And we're going to show the actual picture. Okay, go to the next page.
 
 > As we all know, Hannibal performed the greatest military feat of ancient times by the use of African elephants. Africans also were in the van of the army of the Carthaginians, now known to be a largely Africoid people. Yet Snowden claims that these are representations of some of Hannibal's mahouts.
 
@@ -452,7 +446,7 @@ Reading from *African Presence in Early Europe*, on the skeletons of Carthage an
 
 > while other Africanist historians claim this is Hannibal himself.
 
-- Read that part again. Start it at yet again.
+- Start it at yet again.
 
 > Yet Snowden claims that these are representations of some of Hannibal's mahouts,
 
@@ -464,7 +458,7 @@ Reading from *African Presence in Early Europe*, on the skeletons of Carthage an
 
 > while other Africanist historians claim this is Hannibal himself.
 
-- You see that? Other historians like, nah, that's stupid. This is Hannibal. Why the hell would he put his slaves on the coin?
+- Other historians like, nah, that's stupid. This is Hannibal. Why the hell would he put his slaves on the coin?
 
 > The Carthaginians rarely used coins
 
@@ -480,15 +474,15 @@ Reading from *African Presence in Early Europe*, on the skeletons of Carthage an
 
 > to depict a figure not in the pantheon of gods or an aristocratic hierarchy,
 
-- You see that? So meaning there's no way that you're going to put a slave on a coin. You're going to put your leader, your king, a god that you worship. That's what's going to be on the coin. You're not going to take all that time to mint a coin and put your slave on it.
+- So meaning there's no way that you're going to put a slave on a coin. You're going to put your leader, your king, a god that you worship. That's what's going to be on the coin. You're not going to take all that time to mint a coin and put your slave on it.
 
 - **Officer:** Remember, in Maccabees, Demetrius had to give permission for Jonathan to put himself on coins.
 
-- **Deacon Eythan:** Yeah, right. It's always the leader that gets put on the coin. The leader gets put on the coin. That's a good point. All praises.
+- **Deacon Eythan:** Yeah, right. It's always the leader that gets put on the coin. The leader gets put on the coin. That's a good point.
 
 > and would deny a figure centrality or prominence to indicate its comparatively lower social plane or stature.
 
-- Look up centrality. Thank you. Centrality, look it up. Centrality.
+- Look up centrality. Centrality, look it up. Centrality.
 
 </div>
 
@@ -498,13 +492,13 @@ Reading from a dictionary search, centrality  *[[50:15](https://www.youtube.com/
 
 > Centrality: the quality or fact of being in the middle of somewhere or something. The quality of being essential or of the greatest importance.
 
-- Of the greatest importance. Go down, let me see any synonyms. See more. All right. Of the greatest importance. Go back.
+- Of the greatest importance. Go down, let me see any synonyms. See more. Of the greatest importance. Go back.
 
 - **Officer:** Hey, officer, if you wanted to read it too, I had that in Maccabees about the coin.
 
 - **Deacon Eythan:** Yes, read it.
 
-- **Officer:** Okay. This is Simon, as well. My mistake. 1 Maccabees chapter 15, verse 1.
+- **Officer:** This is Simon, as well. My mistake. 1 Maccabees chapter 15, verse 1.
 
 </div>
 
@@ -522,7 +516,7 @@ Reading from a dictionary search, centrality  *[[50:15](https://www.youtube.com/
 
 - **Officer:** Hey, the Bishop, years ago, he had a book with all of the coins from the Greek captivity, and it was coins of the Hasmoneans. It was Hasmonean coins in there, man. I couldn't find that book, but the Bishop had a book. He brought that out. It was a red book with all the coins. It was just a red book of ancient coins, and they had the Hasmonean coins with Jonathan on it, man.
 
-- **Deacon Eythan:** Damn. Yeah, yeah. Dang. But yeah, read on, read on. That was bad. All praises.
+- **Deacon Eythan:** Damn. Yeah, yeah. Dang. But yeah, read on, read on. That was bad.
 
 <div class="reading">
 
@@ -538,7 +532,7 @@ Reading from *African Presence in Early Europe*, continued  *[[52:09](https://ww
 
 - **Officer:** Hey, there was thought behind it. It was racism. White supremacy. That's the thought behind it.
 
-- **Deacon Eythan:** Yep. Oh, we can't, this negro, this … on this coin? Nope, he's a slave. He's a slave. He cannot be a leader. That's the whole point. That's what it's going to say right here about something else. You got something? No? Oh, read on, read on.
+- **Deacon Eythan:** Yep. Oh, we can't, this negro, this … on this coin? Nope, he's a slave. He's a slave. He cannot be a leader. That's the whole point. That's what it's going to say right here about something else. You got something? No?
 
 > for we have seen an Egyptian pharaoh identified by a major British journal as a dancer
 
@@ -550,25 +544,23 @@ Reading from *African Presence in Early Europe*, continued  *[[52:09](https://ww
 
 - **Officer:** That's ancient, ancient pop lock.
 
-- **Deacon Eythan:** Read that again.
-
 > for we have seen an Egyptian pharaoh identified by a major British journal as a dancer,
 
 - He was crunking, man. Getting sturdy. He was getting sturdy. Like, nah, he get sturdy too much. There's no way.
 
 > because it was too obviously Negroid
 
-- Cuz it was what? Too obviously Negroid. Well, actually it was actual Hamite Egyptian. All right. But just their hatred for us. They like, even him being black, they like, nah, forget that.
+- Cuz it was what? Too obviously Negroid. Well, actually it was actual Hamite Egyptian. But just their hatred for us. They like, even him being black, they like, nah, forget that.
 
 > and coming from a period not conventionally associated with such ignoble types.
 
-- Right, right. But we know that we had the same features as them, because Moses passed for one of them. Yes. And so did our forefather Joseph, right? We was all black. We had the same color skin. Okay. But there were differences. The Most High put a difference between us. All right. Go down. Were there any more? Is another page? Yep. Let me see. That's all I want.
+- But we know that we had the same features as them, because Moses passed for one of them. Yes. And so did our forefather Joseph, right? We was all black. We had the same color skin. But there were differences. The Most High put a difference between us. Were there any more? Is another page? Yep. That's all I want.
 
 - Hey, give me the actual page, excuse me, of Hannibal. The actual page from *Image of the Black in Western Art*. So Hannibal was a black man; I don't know what they talking about. So this is the book *Image of the Black in Western Art*. All right, there's a lot of volumes of this book, by L. S. Gates, and I think it was printed by Harvard, I believe. Harvard. Yep. So look, this is the actual coin right here. Look at that hair. Look at the nose. That's Hannibal. That is Hannibal.
 
 - **Officer:** That's a big forehead too. Big forehead, man.
 
-- **Deacon Eythan:** Go down. There's the elephant. Okay, there's another coin of Hannibal. All right, these are the actual coins of Hannibal. All right? Will you see a white man in there? Nowhere. All right, go to the next page. I got, no, not that. I told the brother to scan one page, the whole book. Wait, let me see. Whoa, go back. Blow that up, blow that up. Yeah, read this.
+- **Deacon Eythan:** There's the elephant. Okay, there's another coin of Hannibal. All right, these are the actual coins of Hannibal. Will you see a white man in there? Nowhere. All right, go to the next page. I got, no, not that. I told the brother to scan one page, the whole book. Whoa, go back. Blow that up, blow that up. Yeah, read this.
 
 </div>
 
@@ -586,7 +578,7 @@ Reading from *Image of the Black in Western Art*, on the coins with the elephant
 
 > Whether we accept the earlier or later dating, the Negro, as Robinson has pointed out, is surely the animal's driver, which leads to the probability that the Romans had encountered Negro mahouts among Carthaginian forces, perhaps in both the First and Second Punic Wars.
 
-- You see that? They will continue to keep the lie going. They will do, by all means, let's keep this lie going. That's not Hannibal, that's his slaves on the coin. But we just read that there's no way that the Carthaginians would have put any slave or anybody of lower status on a coin. Why would Hannibal have his slaves riding the elephants? And what, was he walking? The general of the whole army? That makes no sense.
+- They will continue to keep the lie going. They will do, by all means, let's keep this lie going. That's not Hannibal, that's his slaves on the coin. But we just read that there's no way that the Carthaginians would have put any slave or anybody of lower status on a coin. Why would Hannibal have his slaves riding the elephants? And what, was he walking? The general of the whole army? That makes no sense.
 
 - **Officer:** Hey, usually you have the general or the leader even riding a horse in the military, in the army. Hey, to back up, to land back on your point: get me where Avaran, one of the Maccabees brothers, one of Judas' brothers, where he seen, he thought to be the king on the elephant.
 
@@ -606,11 +598,11 @@ Reading from *Image of the Black in Western Art*, on the coins with the elephant
 
 - **Officer:** Yeah. Yes sir, yes sir. Let me start from verse
 
-- **Deacon Eythan:** Hey, after the break, we going to take a break after this, and we going to get back on to on topic. All right?
+- **Deacon Eythan:** Hey, after the break, we going to take a break after this, and we going to get back on to on topic.
 
 - **Officer:** Let me start when they first saw the
 
-- **Deacon Eythan:** Yeah. Where you at? Verse 34? Start verse 34. Where you at? 1 Maccabees 6. All right. Some good stuff. Hey, Feast of Dedication, man. We got to bring it out some way, one way or the other. Bring it out.
+- **Deacon Eythan:** Yeah. Where you at? Verse 34? Start verse 34. Where you at? 1 Maccabees 6. Some good stuff. Hey, Feast of Dedication, man. We got to bring it out some way, one way or the other. Bring it out.
 
 </div>
 
@@ -636,7 +628,7 @@ Reading from *Image of the Black in Western Art*, on the coins with the elephant
 
 > <sup>[38](/bible/1-maccabees/6#v38)</sup> As for the remnant of the horsemen, they set them on this side and that side at the two parts of the host giving them signs what to do, and being harnessed all over amidst the ranks.
 
-- **Deacon Eythan:** You see, it said besides the Indian that ruled him, because that was the slave that took care of the elephants, right? Okay. He the one that trained them, right. So that's what they trying to say about the coin: that's the trainer on the coin.
+- **Deacon Eythan:** You see, it said besides the Indian that ruled him, because that was the slave that took care of the elephants, right? He the one that trained them, right. So that's what they trying to say about the coin: that's the trainer on the coin.
 
 > <sup>[39](/bible/1-maccabees/6#v39)</sup> Now when the sun shone upon the shields of gold and brass, the mountains glistered therewith, and shined like lamps of fire.
 >
@@ -652,7 +644,7 @@ Reading from *Image of the Black in Western Art*, on the coins with the elephant
 
 - So this is one of the Maccabees. This is Judah's brother.
 
-- And what? And supposing that the king was upon him. Why? Because the king rode upon the elephants. Read it again.
+- And what? And supposing that the king was upon him. Why? Because the king rode upon the elephants.
 
 - So one of the elephants had on royal harness. He was decked out.
 
@@ -660,7 +652,7 @@ Reading from *Image of the Black in Western Art*, on the coins with the elephant
 
 > <sup>[45](/bible/1-maccabees/6#v45)</sup> Wherefore he ran upon him courageously through the midst of the battle, slaying on the right hand and on the left, so that they were divided from him on both sides.
 
-- Oh, oh. He ran upon him courageously through the midst of the battle, slaying. So he's slaying on the right hand, and on the left he's slaying on the left.
+- He ran upon him courageously through the midst of the battle, slaying. So he's slaying on the right hand, and on the left he's slaying on the left.
 
 - Think of how fast he had to be moving to divide a path to get to the elephant with the sword. Slaying on the left, the right, he divided a whole path between him. That's how fast he was moving with the sword. That's how fast he was moving with the sword. And officer, remember it said earlier every elephant had a thousand men surrounding them, right? So he went through a thousand men doing that.
 
@@ -672,19 +664,19 @@ Reading from *Image of the Black in Western Art*, on the coins with the elephant
 
 > <sup>[46](/bible/1-maccabees/6#v46)</sup> Which done, he crept under the elephant, and thrust him under, and slew him: whereupon the elephant fell down upon him, and there he died.
 
-- So that was the end of Savaran, Judas' brother. All right? But the point that we went out of, in verse 43: the fact that the king always rode on an elephant or a horse, or whatever beast it was.
+- So that was the end of Savaran, Judas' brother. But the point that we went out of, in verse 43: the fact that the king always rode on an elephant or a horse, or whatever beast it was.
 
 - **Officer:** Hey, do we have a picture, like the picture with the riding the elephant? Matter of fact, it's in the back. You know what I'm talking about?
 
 - **Deacon Eythan:** Yeah. You don't have that right now, right? If they look up on Google Lord of the Rings elephant battle, you'll see a picture of the elephants with the structure on the back.
 
-- **Officer:** Okay. I'm talking about the one of Hannibal. We had one of Hannibal.
+- **Officer:** I'm talking about the one of Hannibal. We had one of Hannibal.
 
-- **Deacon Eythan:** Oh, oh, no, they probably don't have that one. They might not. Okay. Yeah, look it up. Let me see, let's get some visuals. Type in elephant battle and look at images. Yeah, there you go. See that one? Blow it up, blow it up. Which one, this one? Right. The one to the left. I like the one with the warriors next to it right there. Yeah, that thing look crazy.
+- **Deacon Eythan:** Oh, oh, no, they probably don't have that one. They might not. Yeah, look it up. Let me see, let's get some visuals. Type in elephant battle and look at images. Yeah, there you go. See that one? Blow it up, blow it up. Which one, this one? The one to the left. I like the one with the warriors next to it right there. Yeah, that thing look crazy.
 
 - **Officer:** Hey, in the movie Alexander, when he met Darius to fight, Darius was on, I think he's on an elephant. Y'all know what I'm talking about? In the movie Alexander. Y'all seen the movie Alexander? I don't think, that came out a while, like years ago. But anyway, he met Darius on an elephant.
 
-- **Deacon Eythan:** All right. But the whole point is, whoever's in high authority is going to be on some type of animal. Okay? Just like, get that, you've been bringing it out: Ecclesiastes. Servants on horses.
+- **Deacon Eythan:** But the whole point is, whoever's in high authority is going to be on some type of animal. Just like, get that, you've been bringing it out: Ecclesiastes. Servants on horses.
 
 - **Officer:** Yeah, 10 and 7.
 
@@ -696,7 +688,7 @@ Reading from *Image of the Black in Western Art*, on the coins with the elephant
 
 - Read again. I have seen servants upon horses. So Solomon, King Solomon, is seeing in the spirit of vision slaves on horses today. He's seeing slaves riding horses today.
 
-- And those which is us, that used to be the gods of the earth, the princes of the earth: we're the servants today. We are the slaves. So this is prophetic, for us going into slavery. Okay? But letting you know that whoever's in authority is on a horse. Even the previous verses says, read verse 6.
+- And those which is us, that used to be the gods of the earth, the princes of the earth: we're the servants today. We are the slaves. So this is prophetic, for us going into slavery. But letting you know that whoever's in authority is on a horse. Even the previous verses says, read verse 6.
 
 **[Ecclesiastes 10:6](/bible/ecclesiastes/10#v6)**  *[[1:07:03](https://www.youtube.com/watch?v=UqOEbapXlZo&t=4023s)]*
 
@@ -706,7 +698,7 @@ Reading from *Image of the Black in Western Art*, on the coins with the elephant
 
 - **Officer:** I was just about to say that. Like, who that … on that, cuz even Esau, like, you know, in his wicked mind, he sees us as slave. So if he sees us on a horse, he's like, yo, what's going on? That's not right.
 
-- **Deacon Eythan:** Right, right, right, right. So all right. Hey, from there give me the last page. How many more pages I got? Let me see here. Nah, not that one; don't give me that one yet. It's another page before that. It's called *The Black Man and His Antecedents*. It's on the group. Yep. Go to the top of this book. This is the title of the book here. It's called *The Black Man, His Antecedents, His Genius*. Okay, we brought this out a while back also. All right, just rehashing it, just recapping it. This book is written 1863. Okay, 1863. Go to the bottom. Go to the highlight.
+- **Deacon Eythan:** So all right. Hey, from there give me the last page. How many more pages I got? Let me see here. Nah, not that one; don't give me that one yet. It's another page before that. It's called *The Black Man and His Antecedents*. It's on the group. Yep. Go to the top of this book. This is the title of the book here. It's called *The Black Man, His Antecedents, His Genius*. Okay, we brought this out a while back also. All right, just rehashing it, just recapping it. This book is written 1863. Okay, 1863. Go to the bottom. Go to the highlight.
 
 - **Officer:** It's a good book too. Heavy book.
 
@@ -732,11 +724,11 @@ Reading from *The Black Man, His Antecedents, His Genius*, written 1863, on Hann
 
 - **Officer:** Yo, it's so much being said in it. What happened? Now he almost killed the spirit with that last part.
 
-- **Deacon Eythan:** Yeah, you did. I don't know what happened. Read it all at once. Yeah, he got too excited. Look up antecedent. Hey, go to dictionary.com. I just want one word, one word, and then we going to take a break. This dictionary.com right there. Yep. And the third one: ancestors. Ancestors. Ancestors. Ancestors. Go back, go back. Antecedent means ancestors. Come on. Read it again.
+- **Deacon Eythan:** Yeah, you did. I don't know what happened. Read it all at once. Yeah, he got too excited. Look up antecedent. Hey, go to dictionary.com. I just want one word, one word, and then we going to take a break. This dictionary.com right there. Yep. And the third one: ancestors. Ancestors. Ancestors. Ancestors. Go back, go back. Antecedent means ancestors.
 
 > Hanno, the father of Hamilcar, and grandfather of Hannibal, was a Negro.
 
-- He was a Negro. Read on.
+- He was a Negro.
 
 > These are the antecedents
 
@@ -744,13 +736,13 @@ Reading from *The Black Man, His Antecedents, His Genius*, written 1863, on Hann
 
 > of the enslaved blacks on this continent.
 
-- On this continent, meaning in the Americas. Those are our ancestors. Okay? Hanno, Hamilcar and Hannibal, they're our ancestors. They were black men. All right. Hey, from there we going to take a break. All right, you could text us, you could call us. We'll be back after the break.
+- On this continent, meaning in the Americas. Those are our ancestors. Hanno, Hamilcar and Hannibal, they're our ancestors. They were black men. Hey, from there we going to take a break. All right, you could text us, you could call us. We'll be back after the break.
 
 </div>
 
-*[[1:11:33](https://www.youtube.com/watch?v=UqOEbapXlZo&t=4293s)]* The break: the IUIC reel plays. A lot of people don't realize the preparation that goes into it. This gospel's never been taught. Okay? What's been taught is an injustice. Roman Catholicism was forcing our people into Christianity, which has indoctrinated our people into lies. So we're here to undo the lies and reunite our destroyed people. Why do we have white images in church? Why do we have white pictures in our home? Because the one that oppressed us taught us their religion. And a lot of people don't realize we went into, quote unquote, war zones. These are places where you have the police walking around with automatic handguns, ARs. They're ready for something to pop off. Jesus Christ is white? Where in the Bible does it say that? I challenge all you Christians, all you preachers, all you pastors. You bunch of liars. We are a Bible based organization, rebuilding our nation, to the twelve tribes which are scattered abroad, greetings. So the same mission the disciples had is our mission today. Our mission is unlike any other mission throughout the world. I want everybody to understand that. Okay? There's no group on earth who has undertaken a true mission of the disciples of Christ, to resurrect and gather the twelve tribes of Israel which have been scattered abroad. You may call it the diaspora today; the Bible uses other words, to scatter. Okay? But it's the same thing. A people who suffered during the time of colonization, forced migration, sub-Saharan slave trade, transatlantic slave trade. And it seems like our people have been forgotten. But you are not forgotten. There will come a time when black people wake up and become intellectually independent enough to think for themselves, as other humans are intellectually independent enough to think for themselves. Then the black man will feel for other black people, and this new thinking and feeling will cause black people to stick together. And then at that point you'll have a situation where, when you attack one black man, you are attacking all black men. This is what we do, from island to island, state to state, country to country. This is our mission.
+*[[1:11:33](https://www.youtube.com/watch?v=UqOEbapXlZo&t=4293s)]* The break: the IUIC reel plays. A lot of people don't realize the preparation that goes into it. This gospel's never been taught. What's been taught is an injustice. Roman Catholicism was forcing our people into Christianity, which has indoctrinated our people into lies. So we're here to undo the lies and reunite our destroyed people. Why do we have white images in church? Why do we have white pictures in our home? Because the one that oppressed us taught us their religion. And a lot of people don't realize we went into, quote unquote, war zones. These are places where you have the police walking around with automatic handguns, ARs. They're ready for something to pop off. Jesus Christ is white? Where in the Bible does it say that? I challenge all you Christians, all you preachers, all you pastors. You bunch of liars. We are a Bible based organization, rebuilding our nation, to the twelve tribes which are scattered abroad, greetings. So the same mission the disciples had is our mission today. Our mission is unlike any other mission throughout the world. I want everybody to understand that. There's no group on earth who has undertaken a true mission of the disciples of Christ, to resurrect and gather the twelve tribes of Israel which have been scattered abroad. You may call it the diaspora today; the Bible uses other words, to scatter. But it's the same thing. A people who suffered during the time of colonization, forced migration, sub-Saharan slave trade, transatlantic slave trade. And it seems like our people have been forgotten. But you are not forgotten. There will come a time when black people wake up and become intellectually independent enough to think for themselves, as other humans are intellectually independent enough to think for themselves. Then the black man will feel for other black people, and this new thinking and feeling will cause black people to stick together. And then at that point you'll have a situation where, when you attack one black man, you are attacking all black men. This is what we do, from island to island, state to state, country to country. This is our mission.
 
-*[[1:21:19](https://www.youtube.com/watch?v=UqOEbapXlZo&t=4879s)]* Hey, shalom. We back from the break, we back from the break. All praises. Hey, let's get the last page real quick, before we get back into our actual topic. I know, our sidebar. Matter of fact, I got two more pages. Yeah, read that. No, not that one there. I posted one on the group. Yep, yep, yep, yep. All right, so this is a book called *Travels in North Africa* by Nahum Slouschz. *Travels in North Africa*. All right, read that from the top.
+*[[1:21:19](https://www.youtube.com/watch?v=UqOEbapXlZo&t=4879s)]* Hey, shalom. We back from the break, we back from the break. Hey, let's get the last page real quick, before we get back into our actual topic. I know, our sidebar. Matter of fact, I got two more pages. Yeah, read that. No, not that one there. I posted one on the group. Yep, yep, yep, yep. All right, so this is a book called *Travels in North Africa* by Nahum Slouschz. *Travels in North Africa*. All right, read that from the top.
 
 <div class="reading">
 
@@ -758,7 +750,7 @@ Reading from *Travels in North Africa* by Nahum Slouschz, on the Carthaginians, 
 
 > But were all the Carthaginians trinitarians or polytheists?
 
-- So meaning what? They had a trinity. This where the Trinity come from. Well, it come from ancient Egypt, but guess what, that thing carried on. All right? It carried on. We adopted that whole Trinity nonsense. All other nations had the Trinity already, but guess what: you had the wicked of our people that worship the trinity. Okay. Or polytheists, meaning multiple gods.
+- So meaning what? They had a trinity. This where the Trinity come from. Well, it come from ancient Egypt, but guess what, that thing carried on. It carried on. We adopted that whole Trinity nonsense. All other nations had the Trinity already, but guess what: you had the wicked of our people that worship the trinity. Or polytheists, meaning multiple gods.
 
 > But were all the Carthaginians trinitarians or polytheists?
 
@@ -776,7 +768,7 @@ Reading from Wikipedia on Tunisia, its etymology  *[[1:23:19](https://www.youtub
 
 > It is sometimes also associated with the Carthaginian goddess Tanith or Tanit, and the ancient city of Tynes.
 
-- You see that? So that's what Tunisia comes from. All right, now go back. Yep, yep, yep, yep. All right, read from the top again.
+- So that's what Tunisia comes from. All right, now go back. Yep, yep, yep, yep. All right, read from the top again.
 
 </div>
 
@@ -786,7 +778,7 @@ Reading from *Travels in North Africa*, continued  *[[1:23:44](https://www.youtu
 
 > But were all the Carthaginians trinitarians or polytheists? We learned from several inscriptions that side by side with the temples of Baal and of Tanit, of the emanation or the face of Baal,
 
-- So ultimately they worship Baal. Hamilcar, Hannibal, all right, they mean Baal. Okay. I think Hannibal is something, lion of something of Baal, something like that. But they all worship Baal. Their names come from Baal, derive from Baal. The devil. All right.
+- So ultimately they worship Baal. Hamilcar, Hannibal, all right, they mean Baal. I think Hannibal is something, lion of something of Baal, something like that. But they all worship Baal. Their names come from Baal, derive from Baal. The devil.
 
 > or the name of Baal, stood the temples wherein high priest ministered to the god of heaven.
 
@@ -802,11 +794,11 @@ Reading from *Travels in North Africa*, continued  *[[1:23:44](https://www.youtu
 
 > lived in Carthage
 
-- Lived where? Lived in Carthage. They was in Carthage. Okay. There's another book that Bishop brought out a while back that shows that Hannibal was from the tribe of Asher. Hannibal was of the tribe of Asher. Okay.
+- Lived where? Lived in Carthage. They was in Carthage. There's another book that Bishop brought out a while back that shows that Hannibal was from the tribe of Asher. Hannibal was of the tribe of Asher.
 
 - **Officer:** Hey, also I was going to say, we had a thing that would happen with idol worshippers in our families: they would be having that name Baal in it. Like for example Gideon. His father worshiped Baal, and when Gideon destroyed the altar of Baal, they named him. So that was the name of Gideon. Same thing. We carry the same nonsense on.
 
-- **Deacon Eythan:** Yeah. Okay. Northern kingdom worshiping idols.
+- **Deacon Eythan:** Yeah. Northern kingdom worshiping idols.
 
 > ever since the foundation of the city. On the most beautiful sarcophagus found among the ruins of Carthage there is a seal which bears a Hebrew inscription, such as were common in Jerusalem:
 
@@ -820,13 +812,13 @@ Reading from *Travels in North Africa*, continued  *[[1:23:44](https://www.youtu
 
 > This name may be met with in Mauritania. Other Phoenician inscriptions bear the theophoric forms of the name Jehovah, such as Joaz, Joel, etc.
 
-- That's all I want on that. All right, that's all I want. So I want to show that the tribes of Asher and Zebulon were in Carthage from the foundation. We were there, and we became the majority. We pushed Ham further down. We took over. We made them our slaves and we exacted taxes from them. Okay. Now give me that last page right there on Hannibal, and then we'll get back to our topic.
+- That's all I want on that. All right, that's all I want. So I want to show that the tribes of Asher and Zebulon were in Carthage from the foundation. We were there, and we became the majority. We pushed Ham further down. We took over. We made them our slaves and we exacted taxes from them. Now give me that last page right there on Hannibal, and then we'll get back to our topic.
 
 - We might as well name this class Hannibal, officer.
 
 - **Officer:** Yeah, I know, I know.
 
-- **Deacon Eythan:** Go down, go down. Go to the next page. I want the next page. Yep, right here.
+- **Deacon Eythan:** Go to the next page. I want the next page. Yep, right here.
 
 </div>
 
@@ -848,13 +840,13 @@ Reading from the last page on Hannibal, at twenty-eight  *[[1:27:15](https://www
 
 - **Officer:** Of course. Of course.
 
-- **Deacon Eythan:** I say, we can't have nothing. Damn, homie. So now we got Hannibal: he's black, okay, but now he going to be old as hell. It's going to be at the end of his life, you understand? So we can't have nothing. Why can't he be when he first started conquering, 28? Why can Denzel play him at the end of his life, okay, but why can't we have a young brother play him in the beginning, at 28 years old, in his prime, in mind and body, man? But hey, I just wanted to show y'all that Hannibal is a black man. All right.
+- **Deacon Eythan:** I say, we can't have nothing. Damn, homie. So now we got Hannibal: he's black, okay, but now he going to be old as hell. It's going to be at the end of his life, you understand? So we can't have nothing. Why can't he be when he first started conquering, 28? Why can Denzel play him at the end of his life, okay, but why can't we have a young brother play him in the beginning, at 28 years old, in his prime, in mind and body, man? But hey, I just wanted to show y'all that Hannibal is a black man.
 
 - All right, hey, so now let's get back to the topic. Or let's start it, at least. Let's start the show.
 
 - **Officer:** Pull the Bishop out now. Let's get to the lesson.
 
-- **Deacon Eythan:** Let's get to the lesson. Hey, give me John. Let me see what I have. So now we back with Echoes of Rome. Echoes of Rome, we back with Echoes of Rome. We still dealing with, we under Domitian right now. Domitian. Okay. We dealing with John the Revelator: what happened to John, how he was banished to the island of Patmos. All right. One second. Nope, give me, give me Patmos Wikipedia. Matter of fact, you can go to John the Revelator. Just put John the Revelator in Wikipedia. You go there, and then that *Fox's Book of Martyrs*, the book that Bishop brought out. I think you can see, go down to John. So let's read this real quick.
+- **Deacon Eythan:** Let's get to the lesson. Hey, give me John. Let me see what I have. So now we back with Echoes of Rome. Echoes of Rome, we back with Echoes of Rome. We still dealing with, we under Domitian right now. Domitian. We dealing with John the Revelator: what happened to John, how he was banished to the island of Patmos. Nope, give me, give me Patmos Wikipedia. Matter of fact, you can go to John the Revelator. Just put John the Revelator in Wikipedia. You go there, and then that *Fox's Book of Martyrs*, the book that Bishop brought out. I think you can see, go down to John. So let's read this real quick.
 
 </div>
 
@@ -872,7 +864,7 @@ Reading from Wikipedia on John of Patmos  *[[1:31:01](https://www.youtube.com/wa
 
 - **Officer:** Yeah. They won't let it happen.
 
-- **Deacon Eythan:** They won't let it happen. They're not going to show a young man full of strength as Hannibal. A black young brother full of strength as Hannibal. Okay? They not going to do it, cuz that's going to, think about Esau. Esau, the mind, their mind is deep. If they show, it's just like Black Panther. You remember the uprise with us with Black Panther, bro? We went crazy. It gave us a false sense of hope and identity, right? It gave us a what? A false sense of hope and identity. Black Panther came out, we went crazy. When Black Panther came, young, fresh in body and so forth. Now we talking about Hannibal, a historical figure that existed, okay, that took on Esau, that took on Rome. Young man? We go crazy. So that's why they know what they doing. He's not going to give it to us. It's a plan.
+- **Deacon Eythan:** They won't let it happen. They're not going to show a young man full of strength as Hannibal. A black young brother full of strength as Hannibal. They not going to do it, cuz that's going to, think about Esau. Esau, the mind, their mind is deep. If they show, it's just like Black Panther. You remember the uprise with us with Black Panther, bro? We went crazy. It gave us a false sense of hope and identity, right? It gave us a what? A false sense of hope and identity. Black Panther came out, we went crazy. When Black Panther came, young, fresh in body and so forth. Now we talking about Hannibal, a historical figure that existed, okay, that took on Esau, that took on Rome. Young man? We go crazy. So that's why they know what they doing. He's not going to give it to us. It's a plan.
 
 - **Officer:** Yeah. We'll get it from Christ.
 
@@ -882,7 +874,7 @@ Reading from Wikipedia on John of Patmos  *[[1:31:01](https://www.youtube.com/wa
 
 > John is considered to have been exiled to Patmos during a time of persecution under the Roman rule of Domitian in the late 1st century. Revelation 1:9 states, I John, both your brother and companion in tribulation, was on the island that is called Patmos for the word of God and for the testimony of Jesus Christ.
 
-- Now go down. Let me see. Go down, go down. Right here. Hold on, hold on, go back up. Yep, read this.
+- Now go down. Hold on, hold on, go back up. Yep, read this.
 
 > Early tradition says that John was banished to Patmos by the Roman authorities. This tradition is credible because banishment was a common punishment used during the Imperial period for a number of offenses.
 
@@ -898,7 +890,7 @@ Reading from Wikipedia on John of Patmos  *[[1:31:01](https://www.youtube.com/wa
 
 > whether pagan, Jewish or Christian. Prophecy with political implications, like that expressed by John in the Book of Revelation,
 
-- So prophecy with political implications, meaning we saying that Babylon is going to be destroyed. Okay? America is going to be destroyed. Those political implications.
+- So prophecy with political implications, meaning we saying that Babylon is going to be destroyed. America is going to be destroyed. Those political implications.
 
 > like that expressed by John in the Book of Revelation, would have been perceived as a threat to Roman political power and order.
 
@@ -906,7 +898,7 @@ Reading from Wikipedia on John of Patmos  *[[1:31:01](https://www.youtube.com/wa
 
 > Three of the islands in the Sporades were places where political offenders were banished.
 
-- Right. Click on Sporades. Let me see if they have, all right. See, those are the Sporades right there. So these are the different islands. All right, can you blow that up? Yep, yep, yep, yep, yep. See Patmos right here, next to Turkey. That's where John was, the island of Patmos. So if you offended, if you were the criminal of Rome, you could have been sent to any of these islands right here. Okay? John was over here at Patmos, but they sent us to any one of these islands. All right? They banished us to any one of those islands. Okay. Patmos, that's where John was. All right. Get the scripture, get the scripture, what John said. Revelation, real quick, 1 and 9. And we're going to show you what happened to him before they banished him.
+- Click on Sporades. Let me see if they have, all right. See, those are the Sporades right there. So these are the different islands. All right, can you blow that up? Yep, yep, yep, yep, yep. See Patmos right here, next to Turkey. That's where John was, the island of Patmos. So if you offended, if you were the criminal of Rome, you could have been sent to any of these islands right here. John was over here at Patmos, but they sent us to any one of these islands. They banished us to any one of those islands. Patmos, that's where John was. Get the scripture, get the scripture, what John said. Revelation, real quick, 1 and 9. And we're going to show you what happened to him before they banished him.
 
 </div>
 
@@ -914,7 +906,7 @@ Reading from Wikipedia on John of Patmos  *[[1:31:01](https://www.youtube.com/wa
 
 > <sup>[9](/bible/revelation/1#v9)</sup> I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
 
-- Was in an isle that was called Patmos. For the word of God, and for the testimony of Jesus Christ. For prophesying. For prophesying. Okay? Prophesying the word of God, they banished him to the island of Patmos. It was deemed treason. All right. Now, you could drop that. Go back to *Fox's Book of Martyrs*. *Fox's Book of Martyrs*. Yep.
+- Was in an isle that was called Patmos. For the word of God, and for the testimony of Jesus Christ. For prophesying. For prophesying. Prophesying the word of God, they banished him to the island of Patmos. It was deemed treason. Now, you could drop that. Go back to *Fox's Book of Martyrs*. *Fox's Book of Martyrs*. Yep.
 
 <div class="reading">
 
@@ -922,13 +914,11 @@ Reading from *Fox's Book of Martyrs*, on John  *[[1:37:28](https://www.youtube.c
 
 > He was distinguished for being a prophet, apostle, divine, evangelist and martyr. He is called the beloved disciple, and was brother to James the Great. He was previously a disciple of John the Baptist, and afterwards not only one of the twelve apostles, but one of the three to whom Christ communicated the most secret passages of his life.
 
-- Right.
-
 > He founded churches in Smyrna, Pergamus, Sardis, Philadelphia, Laodicea and Thyatira, to whom he directs his book of Revelations.
 
 > Being at Ephesus, he was ordered by the emperor Domitian to be sent bound to Rome, where he was condemned to be cast into a cauldron of boiling oil.
 
-- You see that? They condemned him to be cast into a cauldron of boiling oil.
+- They condemned him to be cast into a cauldron of boiling oil.
 
 > But here a miracle appeared in his favor.
 
@@ -960,17 +950,17 @@ Reading from *Fox's Book of Martyrs*, on John  *[[1:37:28](https://www.youtube.c
 
 - **Officer:** He was deemed acceptable.
 
-- **Deacon Eythan:** He was deemed acceptable, right. Yeah. Like, yo, you know what, he was a martyr. He went through that thing, even though it didn't hurt him. Okay.
+- **Deacon Eythan:** He was deemed acceptable, right. Yeah. Like, yo, you know what, he was a martyr. He went through that thing, even though it didn't hurt him.
 
 - **Officer:** Was that what Christ say? What if I say he tarry till I come?
 
-- **Deacon Eythan:** Yep. All right.
+- **Deacon Eythan:** Yep.
 
 > He wrote his Epistles, Gospel and Revelations, all in a different style, but they are all equally admired. He was the only apostle who escaped a violent death, and lived the longest of any of them, being nearly 100 years of age at the time of his death, and the church commemorates the 27th day of December to his memory.
 
-- Yeah, they started worshiping. But yeah, so John actually lived. Nerva had let those that were banished, Nerva let them go. He let them come back from banishment and let them go home. All right? So John was one of those that was able to leave banishment. Okay. So he went back to Ephesus. All right, he went back to Ephesus, where he died at nearly 100 years old. Okay.
+- Yeah, they started worshiping. But yeah, so John actually lived. Nerva had let those that were banished, Nerva let them go. He let them come back from banishment and let them go home. So John was one of those that was able to leave banishment. So he went back to Ephesus. All right, he went back to Ephesus, where he died at nearly 100 years old.
 
-- From there, give me, let me see, there something else I wanted. Give me Eusebius, page 90. Y'all have that? I think we read that already. Eusebius, page 90 to 93. Yep. Let me see. Yep, blow that up. Let me see that. Go up. Next page. Yeah, read that.
+- From there, give me, let me see, there something else I wanted. Give me Eusebius, page 90. Y'all have that? I think we read that already. Eusebius, page 90 to 93. Yep. Yep, blow that up. Let me see that. Yeah, read that.
 
 </div>
 
@@ -980,7 +970,7 @@ Reading from Eusebius, pages 90 to 93, on John and the persecution under Domitia
 
 > In this persecution it is handed down by tradition that the apostle and evangelist John, who was yet living, in consequence of his testimony to the divine word, was condemned to dwell on the island of Patmos.
 
-- Okay. So John was condemned to dwell on the island of Patmos.
+- So John was condemned to dwell on the island of Patmos.
 
 > Irenaeus, indeed, in his fifth book against the heresies, where he speaks of the calculation formed on the epithet of Antichrist, and the above mentioned revelation of John, speaks in the following manner respecting him: If, however, it were necessary to proclaim his name, Antichrist, openly at the present time, it would have been declared by him who saw the revelation. For it is not long since it was seen, but almost in our own generation, at the close of Domitian's reign.
 
@@ -988,9 +978,9 @@ Reading from Eusebius, pages 90 to 93, on John and the persecution under Domitia
 
 > These also have accurately noted the time, for it happened according to them in the fifteenth year of Domitian. At the same time, for professing Christ, Flavia, the niece of Flavius Clemens, one of the consuls of Rome at that time, was transported with many others, by way of punishment, to the island.
 
-- You see that? So there were other islands that we were being banished to. So this happened in the fifteenth year of Domitian's reign. Okay. You see the next page? All right. You could get out of that page now.
+- So there were other islands that we were being banished to. So this happened in the fifteenth year of Domitian's reign. You see the next page? You could get out of that page now.
 
-- Get me banishment islands today. Banishment islands today. Let me see. I think I sent you, cuz don't think they don't have these islands that you could be banished to today. They still have them. Let me see. Nah, check the group, check the group. Yeah, give me penal colony. Penal colony. It's on the group, at the top. Yeah, go up, go up, go up, go up, go up, go up, go up. Yep, right there. Click on that. Watch this.
+- Get me banishment islands today. Banishment islands today. I think I sent you, cuz don't think they don't have these islands that you could be banished to today. They still have them. Nah, check the group, check the group. Yeah, give me penal colony. Penal colony. It's on the group, at the top. Yeah, go up, go up, go up, go up, go up, go up, go up. Yep, right there. Click on that.
 
 </div>
 
@@ -1002,13 +992,13 @@ Reading from Wikipedia on the penal colony  *[[1:44:08](https://www.youtube.com/
 
 > is a settlement used to exile prisoners and separate them from the general population by placing them in a remote location, often an island or distant colonial territory. Although the term can be used to refer to a correctional facility located in a remote location, it is more commonly used to refer to communities of prisoners overseen by wardens or governors having absolute authority.
 
-- Right. Hey, keep reading, keep reading, keep reading, keep reading. I want to show y'all something. Cuz that's what they doing. That's ancient. In Rome they banished us, right.
+- Hey, keep reading, keep reading, keep reading, keep reading. I want to show y'all something. Cuz that's what they doing. That's ancient. In Rome they banished us, right.
 
 > Historically, penal colonies have often been used for penal labor in an economically underdeveloped part of a state's, usually colonial, territories, and on a far larger scale than a prison farm.
 
 > British Empire. With the passage of the Transportation Act 1717, the British government initiated the penal transportation of indentured servants to Britain's colonies and the Americas. Although none of the North American colonies were penal colonies, British merchants would be in charge of transporting the convicts across the Atlantic, where in the colonies their indentures will be auctioned off to planters. Many of the indentured servants were sentenced to seven-year terms, which gave rise to the colloquial term His Majesty's seven-year passengers. It is estimated that between 1718 and 1776 about 30,000 convicts were transported to at least nine of the continental colonies, whereas between 1700 and 1775 about 250,000 to 300,000 white immigrants were brought to the mainland of North America as a whole. More than two thirds of these felons were transported to the Chesapeake to work for southern landowners. In Maryland, during the 30 years before 1776, convicts composed more than one quarter of all immigrants. However, it is commonly maintained that the vast majority of felons taken to America were political criminals.
 
-- Right. So that happened around the 1600s and so forth. All right. But hey, go down. Let's go down, let's go down. So give me that page. You get out of that. Give me the page. You have something? All right, hold on, hold on, go back. Let me see something.
+- So that happened around the 1600s and so forth. But hey, go down. Let's go down, let's go down. So give me that page. You get out of that. You have something? All right, hold on, hold on, go back. Let me see something.
 
 - **Officer:** You looking for like prison islands today?
 
@@ -1016,7 +1006,7 @@ Reading from Wikipedia on the penal colony  *[[1:44:08](https://www.youtube.com/
 
 - **Officer:** Like Alcatraz and Guantanamo Bay.
 
-- **Deacon Eythan:** Yeah. I'm looking for banishment island. Yeah, banishment islands today. So the Americas. Watch this.
+- **Deacon Eythan:** Yeah. I'm looking for banishment island. Yeah, banishment islands today. So the Americas.
 
 > Brazil had a prison on the island of Fernando de Noronha
 
@@ -1032,7 +1022,7 @@ Reading from Wikipedia on the penal colony  *[[1:44:08](https://www.youtube.com/
 
 > The penal colony closed in 1984, and the last prisoners were transferred to the mainland. As of 2015, most of the former jail buildings are covered by dense vegetation, but some remain visible. Guantanamo Bay detention camp
 
-- This is what I wanted. Guantanamo Bay detention camp, in where? In Cuba. Is used by who? It's used by the United States as a penal colony. That is the island that the US used to banish criminals and so forth. Okay. Guantanamo Bay. I think they banished, was it, they disappear people over there.
+- This is what I wanted. Guantanamo Bay detention camp, in where? In Cuba. Is used by who? It's used by the United States as a penal colony. That is the island that the US used to banish criminals and so forth. Guantanamo Bay. I think they banished, was it, they disappear people over there.
 
 - **Officer:** Yeah. A lot of them.
 
@@ -1040,7 +1030,7 @@ Reading from Wikipedia on the penal colony  *[[1:44:08](https://www.youtube.com/
 
 - **Officer:** There's no such thing as calling a lawyer when you're there.
 
-- **Deacon Eythan:** Nah. You finished. You finished. Okay. Read that.
+- **Deacon Eythan:** Nah. You finished. You finished.
 
 </div>
 
@@ -1060,7 +1050,7 @@ Reading from Wikipedia on the Guantanamo Bay detention camp  *[[1:48:51](https:/
 
 > President George W. Bush's administration in 2002 during the War on Terror following the September 11, 2001 attacks. Indefinite detention without trial led the operations of this camp to be considered a major breach of human rights by Amnesty International, and a violation of the Due Process Clause of the Fifth and Fourteenth Amendments of the United States Constitution by the Center for Constitutional Rights.
 
-- Go down, go down. So there's the island. Click on that map. All right, it had a little dot. Put your cursor around it. It's right there at the end, with the water. You see? Yeah, right, right there, right there at the end. Very end. Nope, bottom. The bottom, right there. Right, yep, that's it. It's right all the way at the end. All right, can you zoom in? Try to zoom in a little bit. Mind you, those parts of Cuba are very secluded. Very, very secluded. Yeah, you ain't getting, you ain't going over there. It's very sparsely inhabited. Right. All right, all right. So that's the island right there. All right, go back. Go out of that. Go down. I want to see what they be doing to us. Where's that at? All right, so there go some detainees there. That's 2002. All right, go down. It's somewhere at the bottom, what they're doing to those people that they detain and send over there. All right, yeah, read that part.
+- So there's the island. Click on that map. All right, it had a little dot. Put your cursor around it. It's right there at the end, with the water. Yeah, right, right there, right there at the end. Very end. Nope, bottom. The bottom, right there. Right, yep, that's it. It's right all the way at the end. All right, can you zoom in? Try to zoom in a little bit. Mind you, those parts of Cuba are very secluded. Very, very secluded. Yeah, you ain't getting, you ain't going over there. It's very sparsely inhabited. So that's the island right there. All right, go back. Go out of that. I want to see what they be doing to us. Where's that at? All right, so there go some detainees there. That's 2002. It's somewhere at the bottom, what they're doing to those people that they detain and send over there. All right, yeah, read that part.
 
 > Current and former detainees have reported abuse and torture, which the Bush administration denied.
 
@@ -1068,13 +1058,13 @@ Reading from Wikipedia on the Guantanamo Bay detention camp  *[[1:48:51](https:/
 
 > In a 2005 Amnesty International report, the facility was called the gulag of our times. In 2006 the United Nations unsuccessfully demanded that Guantanamo Bay detention camp be closed. On 13 January 2009, Susan J. Crawford, appointed by Bush to review DOD practices used at Guantanamo Bay and oversee the military trials, became the first Bush administration official to concede that torture occurred at Guantanamo Bay on one detainee, Mohammed al-Qahtani, saying, we tortured Qahtani.
 
-- Go down. Go down, go down, go down, go down. Post-Bush statements. Go down, let me see. Five. Yeah, there you go. Camp conditions and testimonies of abuse and torture.
+- Post-Bush statements. Five. Yeah, there you go. Camp conditions and testimonies of abuse and torture.
 
 > A 2013 Institute on Medicine as a Profession report concluded that health professionals working with the military and intelligence services designed and participated in cruel, inhumane and degrading treatment and torture of detainees.
 
 > Medical professionals were ordered to ignore ethical standards during involvement in abusive interrogation,
 
-- So in the use of interrogation, you being tortured. Okay? Nearly put to death. And there was no medical treatment for that.
+- So in the use of interrogation, you being tortured. Nearly put to death. And there was no medical treatment for that.
 
 > including monitoring of vital signs under stress inducing procedures.
 
@@ -1084,7 +1074,7 @@ Reading from Wikipedia on the Guantanamo Bay detention camp  *[[1:48:51](https:/
 
 > in violation of World Medical Association and American Medical Association prohibitions. Supporters of controversial techniques have declared that certain protections of the Third Geneva Convention do not apply to al-Qaeda or Taliban fighters.
 
-- Go down, go down. Yeah, Red Cross. Read that.
+- Yeah, Red Cross.
 
 > Red Cross inspectors and released detainees have alleged acts of torture, including sleep deprivation,
 
@@ -1100,7 +1090,7 @@ Reading from Wikipedia on the Guantanamo Bay detention camp  *[[1:48:51](https:/
 
 > The use of Guantanamo Bay as a military prison has drawn criticism from human rights organizations and others, who cite reports that detainees have been tortured or otherwise poorly treated. Supporters of the detention argue that trial review of detentions has never been afforded to prisoners of war.
 
-- Go down. Testimonies of treatment. Watch this. Yeah, read that. Watch this.
+- Testimonies of treatment. Yeah, read that.
 
 > Three British Muslim prisoners, known in the media at the time as the Tipton Three, were repatriated to the United Kingdom in March 2004, where officials immediately released them without charge. The three alleged ongoing torture, sexual degradation, forced drugging
 
@@ -1108,7 +1098,7 @@ Reading from Wikipedia on the Guantanamo Bay detention camp  *[[1:48:51](https:/
 
 > and religious persecution being committed by US forces at Guantanamo Bay.
 
-- You see that? And religious persecution being committed by US forces at Guantanamo Bay.
+- And religious persecution being committed by US forces at Guantanamo Bay.
 
 > Former Guantanamo detainee Mehdi Ghezali was freed without charge on 9 July 2004, after two and a half years internment. Ghezali claimed that he was the victim of repeated torture. Omar Deghayes alleged he was blinded after his right eye was gouged by an officer.
 
@@ -1128,7 +1118,7 @@ Reading from Wikipedia on the Guantanamo Bay detention camp  *[[1:48:51](https:/
 
 > routine sleep deprivation and forced drug injections.
 
-- Yo, this is what's going on over there. So look, this is what was happening when you being banished. Okay? So it was happening in ancient Rome when John was banished. It happened during this time. And give me the page now. Give me the page. During the Inquisition. It happened during the Inquisition. It happened during the Inquisition. Give me the page. It's all the way at the end, on the group. On the group. Right there. Blow that up. This is the book *Critical Review*. All right, Bishop always used this page. Let me see. Go down. All right, start at the discovery of the Gold Coast. You see that?
+- Yo, this is what's going on over there. So look, this is what was happening when you being banished. So it was happening in ancient Rome when John was banished. It happened during this time. And give me the page now. During the Inquisition. It happened during the Inquisition. It happened during the Inquisition. It's all the way at the end, on the group. On the group. Right there. Blow that up. This is the book *Critical Review*. All right, Bishop always used this page. All right, start at the discovery of the Gold Coast.
 
 </div>
 
@@ -1144,15 +1134,13 @@ Reading from *Critical Review*, on the Portuguese and the Jews banished to St. T
 
 > And from these banished Jews
 
-- And from these what? Banished Jews. From these banished Jews. Okay. This is during the Inquisition. We was once, remember, God's judgments are like a ring. It happened in ancient Rome, it happened during the Inquisition, and don't think it ain't going to happen today. All right? We were banished once again, to the island of St. Thomas, during the Inquisition, when we were expelled.
+- And from these what? Banished Jews. From these banished Jews. This is during the Inquisition. We was once, remember, God's judgments are like a ring. It happened in ancient Rome, it happened during the Inquisition, and don't think it ain't going to happen today. We were banished once again, to the island of St. Thomas, during the Inquisition, when we were expelled.
 
 > the black Portuguese, as they are called, and the Jews in Loango, who are despised even by the very Negroes, are descended.
 
-- Read on.
-
 > By these colonists St. Thomas soon became a considerable place of trade, and valuable for its sugar plantations.
 
-- So guess what? They had us working. They had us as slaves. They banished us there as slaves, to the sugar plantations. Okay? That's what was happening to us. All right. We working on the sugar plantation. Now give me a map of St. Thomas. A map of St. Thomas.
+- So guess what? They had us working. They had us as slaves. They banished us there as slaves, to the sugar plantations. That's what was happening to us. We working on the sugar plantation. Now give me a map of St. Thomas. A map of St. Thomas.
 
 - **Officer:** Hey, hey, block this dude in the comments, man.
 
@@ -1160,29 +1148,29 @@ Reading from *Critical Review*, on the Portuguese and the Jews banished to St. T
 
 - **Officer:** I got you.
 
-- **Deacon Eythan:** Got me? Oh, you did. All right. All confusing the group and whatnot. São Tomé. St. Thomas is São Tomé.
+- **Deacon Eythan:** Got me? Oh, you did. All confusing the group and whatnot. São Tomé. St. Thomas is São Tomé.
 
 - **Officer:** Yo, my man still on it.
 
-- **Deacon Eythan:** All right. So anyway, this is São Tomé, which they call St. Thomas. That's the island that they banished us to, okay, to work the sugar plantations there. All right? So they banished us there when they expelled us out of Spain. That's where they sent us to, as slaves on the sugar plantations. All right. You get out of that. All right, from there let me see, or should I end it.
+- **Deacon Eythan:** So anyway, this is São Tomé, which they call St. Thomas. That's the island that they banished us to, okay, to work the sugar plantations there. So they banished us there when they expelled us out of Spain. That's where they sent us to, as slaves on the sugar plantations. You get out of that. All right, from there let me see, or should I end it.
 
 </div>
 
 ## In Closing
 
-*[[2:01:06](https://www.youtube.com/watch?v=UqOEbapXlZo&t=7266s)]* Let me see. Yeah, I'mma end it today. I'mma end it today. I don't want to, because I'll be starting a whole another, so I'mma end it. I'mma end it there. All right, I'm end the show there, and then we'll continue on next show, Lord's will. All right. Hey, Israel, let's give a hand for that class. All praise the Most High. Fire, fire class. Learn a lot about Hannibal and John the Revelator. All right. It's a dual class, right?
+*[[2:01:06](https://www.youtube.com/watch?v=UqOEbapXlZo&t=7266s)]* Yeah, I'mma end it today. I'mma end it today. I don't want to, because I'll be starting a whole another, so I'mma end it. I'mma end it there. All right, I'm end the show there, and then we'll continue on next show, Lord's will. Hey, Israel, let's give a hand for that class. Fire, fire class. Learn a lot about Hannibal and John the Revelator. It's a dual class, right?
 
 **Officer:** Mostly Hannibal, though.
 
 **Deacon Eythan:** Right. All praises, all praises.
 
-*[[2:03:01](https://www.youtube.com/watch?v=UqOEbapXlZo&t=7381s)]* I got nothing bad to say about it today, you know. Yo, hey, shout out to two of the officers. Hey, hey, shout out to the sisters, for that beautiful breakfast. All praises. What we had? I don't know, you know. Some patties. I'm black, I don't know. Say right. But all praises. Great, great breakfast. All praise the Most High.
+*[[2:03:01](https://www.youtube.com/watch?v=UqOEbapXlZo&t=7381s)]* I got nothing bad to say about it today, you know. Yo, hey, shout out to two of the officers. What we had? I don't know, you know. Some patties. I'm black, I don't know. Say right. But all praises. Great, great breakfast.
 
 *[[2:03:33](https://www.youtube.com/watch?v=UqOEbapXlZo&t=7413s)]* Hey, Lord's will, we see you next show. We still dealing with, we're going to be going into Emperor Nerva, and we're going to be going into the succession of the apostles that came after John, and the twelve apostles for that matter. All right, so we have the disciples that was still carrying on the truth at that time. The disciples of the apostles.
 
 **Officer:** Yeah, the disciples of the apostles. I like that.
 
-**Deacon Eythan:** The disciples of the apostles. All right, so we're going to be dealing with that. All right, so with that we say shalom. Hey, happy feast. Hey, hey, damn, I almost forgot. Happy Feast of Dedication. Yes sir. All right. Shalom, shalom.
+**Deacon Eythan:** The disciples of the apostles. All right, so we're going to be dealing with that. All right, so with that we say shalom. Hey, happy feast. Hey, hey, damn, I almost forgot. Happy Feast of Dedication. Yes sir. Shalom, shalom.
 
 ## Announcements & References
 

@@ -18,19 +18,19 @@ tags: ["Our Hidden History", "false-religion", "persecution", "rome", "war"]
 
 ## Introduction
 
-*[[18:53](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1133s)]* Hey, shalom, shalom. All right, here we go. Oh snap. Hey, shalom, you're now tuned in to Our Hidden History radio show. Hey, shout out to Officer Manny and the team back there. Hey, so shalom, welcome back to Our Hidden History.
+*[[18:53](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1133s)]* You're now tuned in to Our Hidden History radio show.
 
-*[[19:36](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1176s)]* Hey, so I know y'all seen... we didn't put the thumbnail though, right? But the title, we changed the title. So we already dealt with the twelve feathers. We already dealt with the emperors, the twelve emperors, which is the twelve feathers, and we started going into the persecutions that was happening to our people under those various emperors. But now I'm going to deal with another emperor that came after Domitian. His name was... no, after Nerva. So you had Nerva, you had Trajan. So we're going to deal with what happened to us under Trajan, which was the third persecution that happened. All right? So we still in Echoes of Rome, but we're going to deal with the third persecution that happened under the Emperor Trajan.
+*[[19:36](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1176s)]* So we already dealt with the twelve feathers. We already dealt with the emperors, the twelve emperors, which is the twelve feathers, and we started going into the persecutions that was happening to our people under those various emperors. But now I'm going to deal with another emperor that came after Domitian. His name was... no, after Nerva. So you had Nerva, you had Trajan. So we're going to deal with what happened to us under Trajan, which was the third persecution that happened. So we still in Echoes of Rome, but we're going to deal with the third persecution that happened under the Emperor Trajan.
 
 *[[20:18](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1218s)]* 'Cause remember, under Domitian, Domitian banished John the Revelator to the island. That happened under Emperor Domitian, right? Now, when after Emperor Domitian died, the Emperor Nerva took over, and he released those that was banished, so they were able to go back to where they were from, all right, including John the Revelator. All right, so now we going to deal with Trajan, what happened to us under Trajan.
 
-*[[20:50](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1250s)]* And also, I don't know if I'm going to get to it today, Lord's will, I want to deal with the revolt, the Cyrenian revolt that went down around the year 115, 117 AD. Okay? So Lord's will we get around to that. All right. But hey, let's do it.
+*[[20:50](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1250s)]* And also, I don't know if I'm going to get to it today, Lord's will, I want to deal with the revolt, the Cyrenian revolt that went down around the year 115, 117 AD. So Lord's will we get around to that. But hey, let's do it.
 
 ## Readings and Scriptures
 
-*[[21:05](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1265s)]* Give me History of the Jews... Christian Church. History of the Christian Church. All right. Hey, put the title up of the book too. History of the Christian Church. What year is that? The History of the Christian Church, 1824. Right, so that's the year 1824. All right, so white eyes only. It was only for Esau's eyes, that's it. All right, we couldn't read, right, at that time, so they was able to pass the information back and forth to each other. All right, but now we can read. Now we can read.
+*[[21:05](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1265s)]* Give me History of the Jews... Christian Church. History of the Christian Church. Hey, put the title up of the book too. History of the Christian Church. What year is that? The History of the Christian Church, 1824. Right, so that's the year 1824. All right, so white eyes only. It was only for Esau's eyes, that's it. All right, we couldn't read, right, at that time, so they was able to pass the information back and forth to each other. All right, but now we can read. Now we can read.
 
-*[[21:45](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1305s)]* All right, go to page 19, the first page. Go to the first page. Go to 120 real quick, let me see what you got. All right, go back to... is there 118 or 117? Yep, right there. Read that.
+*[[21:45](https://www.youtube.com/watch?v=Nb7cizqutwI&t=1305s)]* All right, go to page 19, the first page. Go to the first page. Go to 120 real quick, let me see what you got. All right, go back to... is there 118 or 117? Yep, right there.
 
 <div class="reading">
 
@@ -38,11 +38,11 @@ Reading from *History of the Christian Church* (1824), Section 1, the state of t
 
 > Section 1. The state of the Christian profession under the reign of Trajan.
 
-- So this is the state under the Christian profession, under the gospel, under the reign of Trajan. Okay? Hey, so remember, the truth is still going on. You still got those of us that still was converting to the truth and so forth at this time. All right? Remember, you had martyrs at this time. You had Quadratus, we're going to read about them again. You had Ignatius, you had Polycarp. You had them around this time period right here, the third persecution. All right, read that.
+- So this is the state under the Christian profession, under the gospel, under the reign of Trajan. Hey, so remember, the truth is still going on. You still got those of us that still was converting to the truth and so forth at this time. Remember, you had martyrs at this time. You had Quadratus, we're going to read about them again. You had Ignatius, you had Polycarp. You had them around this time period right here, the third persecution.
 
 > There is more truth than what at first strikes the mind of a superficial observer, in Dr. Jordan's remark, that Christianity was at the beginning more likely to prosper under bad than under good emperors.
 
-- Now understand, he said that the gospel was more to prosper under bad emperors than good emperors. Okay? 'Cause why? Because under the bad emperors that's going to force us to come out bolder. They putting us to death; everybody going to want to know what's going on, why they putting these people to death. That's going to bring more attention to the truth. That's why under the bad emperors the truth was able to grow more and more and more. Then under the good emperors, we what? We at ease. We at ease under the good emperors, right? But under the bad emperors, when they start persecuting us, putting us to death, that sheds more light onto us. Why? It says in your affliction you should seek me early. Right now you going to seek the Most High. Get that scripture. Hosea 5:15.
+- Now understand, he said that the gospel was more to prosper under bad emperors than good emperors. 'Cause why? Because under the bad emperors that's going to force us to come out bolder. They putting us to death; everybody going to want to know what's going on, why they putting these people to death. That's going to bring more attention to the truth. That's why under the bad emperors the truth was able to grow more and more and more. Then under the good emperors, we what? We at ease. We at ease under the good emperors, right? But under the bad emperors, when they start persecuting us, putting us to death, that sheds more light onto us. Why? It says in your affliction you should seek me early. Right now you going to seek the Most High. Get that scripture. Hosea 5:15.
 
 </div>
 
@@ -50,11 +50,11 @@ Reading from *History of the Christian Church* (1824), Section 1, the state of t
 
 > <sup>[15](/bible/hosea/5#v15)</sup> I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 
-- Right. So under these emperors, under the bad emperors, we were being afflicted. All right, we were being afflicted. So therefore a lot of us started to seek the Lord. All right.
+- So under these emperors, under the bad emperors, we were being afflicted. All right, we were being afflicted. So therefore a lot of us started to seek the Lord.
 
 - **A brother:** Hey, officer, that's like the same thing today when we talk about how we would rather Trump be in office than Biden.
 
-- **Deacon Eythan:** Yeah, 'cause we know stuff going to go down with Trump in there. Yeah, 'cause Trump going to tell the truth. He going to tell the truth. What you got to lose, right? He going to tell it like it is, and that's what our people need to hear. That's exactly what our people need to hear. All right. And Trump is a... they call him a conservative. He's like a conservative, that's what they call him. Now under a liberal president, a liberal, he's saying the same thing, but he's going to make it more deceptive. He's going to hide it. Right? All right, so our people are more fooled under a good emperor or a good president. They are more fooled under someone that's more liberal. Put to sleep, right? They get put to sleep. You understand? Read that again.
+- **Deacon Eythan:** Yeah, 'cause we know stuff going to go down with Trump in there. Yeah, 'cause Trump going to tell the truth. He going to tell the truth. What you got to lose, right? He going to tell it like it is, and that's what our people need to hear. That's exactly what our people need to hear. And Trump is a... they call him a conservative. He's like a conservative, that's what they call him. Now under a liberal president, a liberal, he's saying the same thing, but he's going to make it more deceptive. He's going to hide it. All right, so our people are more fooled under a good emperor or a good president. They are more fooled under someone that's more liberal. Put to sleep, right? They get put to sleep.
 
 <div class="reading">
 
@@ -62,11 +62,11 @@ Reading from *History of the Christian Church* (1824), continued  *[[25:05](http
 
 > There is more truth than what at first strikes the mind of a superficial observer, in Dr. Jordan's remark, that Christianity was at the beginning more likely to prosper under bad than under good emperors, especially if the latter were tenacious of their religious rites and ceremonies.
 
-- Right. Because you had those emperors like Nero, okay, you had Caligula, Claudius. They love their religious rites and ceremonies. So if we wasn't partaking in that, they was putting us to death. That's what was happening.
+- Because you had those emperors like Nero, okay, you had Caligula, Claudius. They love their religious rites and ceremonies. So if we wasn't partaking in that, they was putting us to death. That's what was happening.
 
 > Accordingly, from the death of Christ to the reign of Vespasian, a period of about thirty-seven years, the Romans paid little regard to the progress of the gospel.
 
-- So look, the gospel went under the radar for 37 years. For 37 years after Christ it went under the radar. Now we do know we was being persecuted by Herod Agrippa and so forth and so on, but it wasn't on a national level where Rome paid attention to it, where Rome said nah, we got to focus on them. Just like they gonna do to us today. They gonna turn the focus on us. Right now, you know they got their eyes on us. Under the radar, under the radar though. But that's how the gospel was at this time period also. Read that again.
+- So look, the gospel went under the radar for 37 years. For 37 years after Christ it went under the radar. Now we do know we was being persecuted by Herod Agrippa and so forth and so on, but it wasn't on a national level where Rome paid attention to it, where Rome said nah, we got to focus on them. Just like they gonna do to us today. They gonna turn the focus on us. Right now, you know they got their eyes on us. Under the radar, under the radar though. But that's how the gospel was at this time period also.
 
 - So they paid little regard. They ain't know how much it was spreading. They ain't know how many converts we had, anything like that. They ain't paid that much regard to it.
 
@@ -74,7 +74,7 @@ Reading from *History of the Christian Church* (1824), continued  *[[25:05](http
 
 > They were ruled by weak or frantic and vicious emperors; the magistrates and senators, and every worthy man of any note, stood in continual fear for their own lives,
 
-- Why? 'Cause Esau fighting Esau. Hey, they were fighting. It was like a civil war within themselves, killing each other, assassinating each other, trying to take one out, trying to take over the seat of authority, trying to become the emperor. All right, so that's what was going on internally amongst Esau. Civil wars. The year of the four emperors. So they didn't pay attention. So at that time the gospel just being taught; it was being set before the eyes at that time. All right? Just like today.
+- Why? 'Cause Esau fighting Esau. Hey, they were fighting. It was like a civil war within themselves, killing each other, assassinating each other, trying to take one out, trying to take over the seat of authority, trying to become the emperor. All right, so that's what was going on internally amongst Esau. Civil wars. The year of the four emperors. So they didn't pay attention. So at that time the gospel just being taught; it was being set before the eyes at that time. Just like today.
 
 > and the empire was a scene of confusion, desolation, and misery. Gibbon, in one short paragraph, has sketched a tolerably correct picture of the state of the Roman government during the times of which we are now treating, and the reader cannot be displeased at my transplanting it into these pages.
 >
@@ -82,15 +82,15 @@ Reading from *History of the Christian Church* (1824), continued  *[[25:05](http
 >
 > It is almost superfluous to enumerate the unworthy successors of Augustus. Their unparalleled vices, and the splendid theatre on which they were acted, have saved them from oblivion. The dark, unrelenting Tiberius, the furious Caligula, the feeble Claudius, the profligate and cruel Nero, the beastly Vitellius, and the timid, inhuman Domitian, are condemned to everlasting infamy.
 
-- Right, so they condemned to everlasting... Go to the next page. Go to the next page. Hey, I want to get to the letter between Emperor Trajan and Pliny the Elder. I want to get to the letter between those two, what they were saying at that time period about us. All right. Jump down. I want all this... jump down. Right.
+- Right, so they condemned to everlasting... Go to the next page. Go to the next page. Hey, I want to get to the letter between Emperor Trajan and Pliny the Elder. I want to get to the letter between those two, what they were saying at that time period about us. Jump down. I want all this... jump down.
 
 > Trajan ascended the throne of the Caesars in the year 98, and soon afterwards conferred the government of the province of Bithynia upon his friend, the ingenious and celebrated Pliny. The character of the latter is one of the most amiable in all pagan antiquity. In the exercise of his office as proconsul, the Christians, against whom the severe edicts which had been issued by preceding emperors seemed to be still in force, were brought before his tribunal.
 
-- Right. So now that he's in office he's looking up the different policies that was prior to him coming into the office. All right? Just like a president come into the office, now they looking up what the last president did and so forth. That's what he was doing, and he was seeing that there were laws still against us. Okay.
+- So now that he's in office he's looking up the different policies that was prior to him coming into the office. Just like a president come into the office, now they looking up what the last president did and so forth. That's what he was doing, and he was seeing that there were laws still against us.
 
 > Having never had occasion to be present at any such examinations before, the multitude of the criminals, and the severity of the laws against them, seemed to have greatly struck him, and caused him to hesitate how far it was proper to carry them into execution,
 
-- Right. So now he looking at these different laws, the different decrees and edicts that was set against us. So he's looking at the papers. He like, okay, all right, so they still persecuting them. All right, so now he's going to carry that on. Like, listen, just like today the president would carry on where the last president left off. He would go on from there. Same thing.
+- So now he looking at these different laws, the different decrees and edicts that was set against us. So he's looking at the papers. He like, okay, all right, so they still persecuting them. All right, so now he's going to carry that on. Like, listen, just like today the president would carry on where the last president left off. He would go on from there. Same thing.
 
 > without first consulting the emperor upon the subject. The letter which he wrote to Trajan upon this occasion, as well as the answer of the latter, are happily preserved, and are among the most valuable monuments of antiquity, on account of the light which they throw upon the state of the Christian profession at the splendid epoch.
 
@@ -98,7 +98,7 @@ Reading from *History of the Christian Church* (1824), continued  *[[25:05](http
 
 > The letter of Pliny seems to have been written in the year 106 or 107, and is as follows:
 
-- So now we're going to read the letter between Pliny, which was like a governor at that time, and Emperor Trajan. Remember, he's looking at the edicts, all the laws and so forth that was set against the Christians, set against us at that time. Read.
+- So now we're going to read the letter between Pliny, which was like a governor at that time, and Emperor Trajan. Remember, he's looking at the edicts, all the laws and so forth that was set against the Christians, set against us at that time.
 
 > C. Pliny to the Emperor Trajan, wishes health.
 >
@@ -122,19 +122,19 @@ Reading from *History of the Christian Church* (1824), continued  *[[25:05](http
 
 - **Officer:** Inquisition.
 
-- **Deacon Eythan:** Inquisition. Are you a Christian? Are you an Israelite? Read.
+- **Deacon Eythan:** Inquisition. Are you a Christian? Are you an Israelite?
 
 > if they have avowed it, I put the same question a second
 
-- So he switch it up. This is what happen in interrogation: they switch up the questions on you. All right? So the first question is simple. Are you Israel? Are you an Israelite? Are you a Christian?
+- So he switch it up. This is what happen in interrogation: they switch up the questions on you. So the first question is simple. Are you Israel? Are you an Israelite? Are you a Christian?
 
 > the same question a second and a third time, threatening them with the punishment decreed by the law.
 
-- So if you say yes, I'm a Christian, yes, I'm an Israelite, so he asked you a second time: okay, I'mma ask you again, are you a Christian, are you an Israelite? He might have switched it up somehow. Like, yes. He ask you a third time. He trying to grieve your spirit at this point. Like, damn, I just told him, he just keep asking, see if you going to change your mind. Then he do what? Threatening them with the punishment decreed by the law. Right. So now you done said it a third time, now you're getting threatened with the punishment decreed by law. Read.
+- So if you say yes, I'm a Christian, yes, I'm an Israelite, so he asked you a second time: okay, I'mma ask you again, are you a Christian, are you an Israelite? He might have switched it up somehow. Like, yes. He ask you a third time. He trying to grieve your spirit at this point. Like, damn, I just told him, he just keep asking, see if you going to change your mind. Then he do what? Threatening them with the punishment decreed by the law. So now you done said it a third time, now you're getting threatened with the punishment decreed by law.
 
 > If they still persisted, I ordered them to be immediately executed;
 
-- So he never hesitated. He just went and executed us. Right.
+- So he never hesitated. He just went and executed us.
 
 > for of this I had no doubt, whatever was the nature of their religion, that such perverseness and inflexible obstinacy certainly deserved punishment.
 
@@ -144,7 +144,7 @@ Reading from *History of the Christian Church* (1824), continued  *[[25:05](http
 
 - **Officer:** Oh, a traitor.
 
-- **Deacon Eythan:** Yeah, a traitor. An informant. An informant, right. Read that again.
+- **Deacon Eythan:** Yeah, a traitor. An informant. An informant, right.
 
 - A schedule of names was sent me. So he sent the schedule of names. So whoever the accuser was, before that, got arrested; they interrogate him to the point he like, look, I'll give you a list of names. I'll give you some names and addresses where they live, all that. That's what he did. That was a traitor. That was an informant. He betrayed his brother. Hey, let's read that. Matthew 24, verse 9.
 
@@ -172,8 +172,6 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > and they repeated after me an invocation of the gods,
 
-- Read that part again.
-
 - So hold on, hold on, hold on. They deny Christ, right? But listen. He said a schedule of names was sent to him by an unknown accuser. But when I cited the persons, right, when I cited the persons before me, meaning those schedule names, they went and got them.
 
 - **Officer:** Yep. Went to talk to them.
@@ -184,15 +182,15 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 - So they renounced that they were Israelites. They renounced that they were Christians. And they repeated after me an invocation of the gods. So they started praying to these idols. Damn.
 
-- They gonna bring Caesar Borgia. He bring Caesar Borgia, start praying to him, with the little crucifix, the beads and all that. He's like, all right, Virgin Mary, all that. Hey, look, you say you're not a Christian, show me. Yep. Just show me. Show me how you're a good Christian today. A good slave. Read.
+- They gonna bring Caesar Borgia. He bring Caesar Borgia, start praying to him, with the little crucifix, the beads and all that. He's like, all right, Virgin Mary, all that. Hey, look, you say you're not a Christian, show me. Yep. Just show me. Show me how you're a good Christian today. A good slave.
 
 > they performed sacred rites with wine and frankincense,
 
-- Damn. So they perform sacred rites with what? Wine and frankincense. Read.
+- Damn. So they perform sacred rites with what? Wine and frankincense.
 
 > and execrated Christ; none of which things I am assured a real Christian can ever be compelled to do.
 
-- Right. The righteous... they came out from us. They weren't of us. They weren't of us. They were the ones that were called, but not chosen. But not chosen.
+- The righteous... they came out from us. They weren't of us. They weren't of us. They were the ones that were called, but not chosen. But not chosen.
 
 > These therefore I thought proper to discharge. Others named by an informer
 
@@ -212,11 +210,9 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 - **A brother:** And they didn't give a damn. You can do what you want. Whether our God delivers or not, you can do what you want, but we not bowing down to your image.
 
-- **Deacon Eythan:** All right. So read that part again.
-
 > These therefore I thought proper to discharge. Others named by an informer at first acknowledged themselves Christians, and then denied it, declaring
 
-- So others named by an informer. Trust me, one of those informers was probably of the last group that he interrogated. Yeah. Right. So read that part again.
+- So others named by an informer. Trust me, one of those informers was probably of the last group that he interrogated. Yeah.
 
 > These therefore I thought proper to discharge. Others named by an informer at first acknowledged themselves Christians,
 
@@ -224,7 +220,7 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > and then denied it, declaring that though they had been Christians, they had renounced their profession some three years ago,
 
-- You see that? So that's those that was with us, but they left. Offended at something. Yeah, they got bitter. They was offended, but they left. Right. Read that part again.
+- So that's those that was with us, but they left. Offended at something. Yeah, they got bitter. They was offended, but they left.
 
 > Others named by an informer at first acknowledged themselves Christians, and then denied it,
 
@@ -232,11 +228,11 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > declaring that though they had been Christians, they had renounced their profession some years ago,
 
-- Yeah, I been left them, man. You know what, I been left them. I just felt though it wasn't for me. All right? Wasn't for me.
+- Yeah, I been left them, man. You know what, I been left them. I just felt though it wasn't for me. Wasn't for me.
 
 > others still longer, and some even twenty years ago.
 
-- Damn. So you got some that was in the faith for 20 years. Damn. Twenty years, and they renounced Christ after 20 years. They like, yeah, I used to be... You hear that today: I used to be Israelite. You hear on the streets: yeah, I used to be with y'all. Okay.
+- Damn. So you got some that was in the faith for 20 years. Damn. Twenty years, and they renounced Christ after 20 years. They like, yeah, I used to be... You hear that today: I used to be Israelite. You hear on the streets: yeah, I used to be with y'all.
 
 > All these worshipped your image, and the statues of the gods, and at the same time execrated Christ.
 
@@ -244,7 +240,7 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 - **A brother:** Yeah. I used to be, I'm not no more though. I'm not hating or something.
 
-- **Deacon Eythan:** Yeah. Execrate: feel or express great loathing for. Damn. Can't make that up. Get some synonyms. See synonyms: revile, denounce, decry, condemn. So they reviled Christ, they denounced Christ, they decried, they condemned the Christ. They call him Beelzebub, Beelzebub, lord of the flies. Read on. Vilify: they vilified Christ. Detest: they detest them. Loathe, all that goes into hate. Loathe, hate. Abhor: they abhor him. Abominate. Despise: they despise them. Regard with disgust, feel disgust for, feel aversion, revulsion to. Excoriate. Oh, look at the archaic. Go down to the old definition. Curse. They cursed Christ, man. They cursed Christ.
+- **Deacon Eythan:** Yeah. Execrate: feel or express great loathing for. Damn. Can't make that up. Get some synonyms. See synonyms: revile, denounce, decry, condemn. So they reviled Christ, they denounced Christ, they decried, they condemned the Christ. They call him Beelzebub, Beelzebub, lord of the flies. Vilify: they vilified Christ. Detest: they detest them. Loathe, all that goes into hate. Loathe, hate. Abhor: they abhor him. Abominate. Despise: they despise them. Regard with disgust, feel disgust for, feel aversion, revulsion to. Excoriate. Oh, look at the archaic. Go down to the old definition. Curse. They cursed Christ, man. They cursed Christ.
 
 - Hey, give me the scripture; it say if you deny me before men. Matthew 10:32. I think that's 33. 32 is the confess. Yep, 33. If you could, start at verse 28, because this is the thing that they was going through at that time, the tortures, right, and the persecution.
 
@@ -254,7 +250,7 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > <sup>[28](/bible/matthew/10#v28)</sup> And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
 
-- Hey, remember, we read in history of the Christians... History of Christians in early Rome, right? We read that this was recited over and over before they were martyred, right? They read the scripture over and over and over again, to build their spirit up, to get ready to be put to death. All right.
+- Hey, remember, we read in history of the Christians... History of Christians in early Rome, right? We read that this was recited over and over before they were martyred, right? They read the scripture over and over and over again, to build their spirit up, to get ready to be put to death.
 
 > <sup>[29](/bible/matthew/10#v29)</sup> Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.
 
@@ -270,9 +266,9 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > <sup>[32](/bible/matthew/10#v32)</sup> Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.
 
-- Now the Bishop been going over this in numerous and numerous classes. You got deacons that been going over numerous, numerous classes, all right, the captains and so forth. So listen, it says whosoever therefore shall confess me before men. Where you think we confessing Christ before men? At the interrogation room. Tortures. Courts. Courts. Okay? It's not talking about us teaching, confessing them. No. This is you at the point of death. You at the point of death. That's what Christ talking about. Read it.
+- Now the Bishop been going over this in numerous and numerous classes. You got deacons that been going over numerous, numerous classes, all right, the captains and so forth. So listen, it says whosoever therefore shall confess me before men. Where you think we confessing Christ before men? At the interrogation room. Tortures. Courts. Courts. It's not talking about us teaching, confessing them. No. This is you at the point of death. You at the point of death. That's what Christ talking about.
 
-- So this is verse 32 is where we want to be. That's where we want to be. Right. So verse 32 is the chosen. Verse 32 is the chosen.
+- So this is verse 32 is where we want to be. That's where we want to be. So verse 32 is the chosen. Verse 32 is the chosen.
 
 > <sup>[33](/bible/matthew/10#v33)</sup> But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.
 
@@ -288,13 +284,13 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > <sup>[16](/bible/hebrews/12#v16)</sup> Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.
 
-- **A brother:** So when you let that root of bitterness come in you, you become like Esau. Why? Read on.
+- **A brother:** So when you let that root of bitterness come in you, you become like Esau. Why?
 
 > <sup>[17](/bible/hebrews/12#v17)</sup> For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.
 
 - **A brother:** We would have inherited the blessing if we did not let that root of bitterness come in. If you allow offenses to offend you, guess what? You lose that inheritance. And what happens? He was rejected. And that's in judgment. When you before the Lord, guess what? You might seek it carefully with tears, but there's no confessing of you before the Most High.
 
-- **Deacon Eythan:** All praises. All praises. Go back. Go back to the book now. Where was we at? Oh yeah.
+- **Deacon Eythan:** Go back. Go back to the book now. Where was we at? Oh yeah.
 
 <div class="reading">
 
@@ -302,23 +298,23 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > And this was the account which they gave me of the nature of the religion they once had professed, whether it deserves the name of crime or error:
 
-- So he says, and this was the account which they gave me of the nature of the religion they once had professed. All right, so this is how he started to come to the knowledge of it: by interrogating those of us in the interrogation room and so forth, all right, by putting them to these different questions, various questions and so forth. Right.
+- So he says, and this was the account which they gave me of the nature of the religion they once had professed. All right, so this is how he started to come to the knowledge of it: by interrogating those of us in the interrogation room and so forth, all right, by putting them to these different questions, various questions and so forth.
 
 > namely, that they were accustomed on a stated day to assemble before sunrise, and to join together in singing hymns to Christ as to a deity; binding themselves, as with a solemn oath, not to commit any kind of wickedness; to be guilty neither of theft, robbery, nor adultery; never to break a promise, or to keep back a deposit when called upon.
 
-- Hey, that's what Sapphira and Ananias did. They kept back... remember, they kept back the deposit. So that's why they like, look, we are not to keep back a deposit when called upon. All right. So that goes into what? Alms, charity, and so forth.
+- Hey, that's what Sapphira and Ananias did. They kept back... remember, they kept back the deposit. So that's why they like, look, we are not to keep back a deposit when called upon. So that goes into what? Alms, charity, and so forth.
 
 > Their worship being concluded, it was their custom to separate, and meet together again for a repast,
 
-- So it was our custom to separate. So listen, listen to what he's saying right now. What he's saying in his letter right now is the information he gathered from those that he was interrogating. This is what they was bringing out to him. They was letting him know everything. Okay? Let him know everything, ins and outs.
+- So it was our custom to separate. So listen, listen to what he's saying right now. What he's saying in his letter right now is the information he gathered from those that he was interrogating. This is what they was bringing out to him. They was letting him know everything. Let him know everything, ins and outs.
 
 > promiscuous indeed, and without any distinction of rank or sex, but perfectly harmless; and even from this they desisted, since the publication of my edict, in which, agreeably to your orders, I forbade any societies of that sort. For further information, I thought it necessary, in order to come at the truth,
 
-- All right, so listen to this. Listen to this. Listen to this. Read on.
+- All right, so listen to this. Listen to this. Listen to this.
 
 > to put to the torture two females who were called deaconesses;
 
-- So he said to put to the torture. So it let you know he was torturing them. All right? You wasn't just being questioned; you was being tortured.
+- So he said to put to the torture. So it let you know he was torturing them. You wasn't just being questioned; you was being tortured.
 
 > but I could extort from them nothing
 
@@ -326,11 +322,9 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 - **Officer:** Oh, they back.
 
-- **Deacon Eythan:** Read that again.
-
 > For further information, I thought it necessary, in order to come at the truth, to put to the torture two females who were called deaconesses; but I could extort from them nothing
 
-- He couldn't get nothing out of these sisters. They was putting in work. They're called deaconesses. They were helpers. They was helpers of the leaders in the body. They was like the mothers over the sisters. That's what deacon means. Deacon means help, helper, assistant. So they were helping in the body. They weren't sisters that were on their phone all day doing nothing. They had their spirit built up for this, right? They was ready. That's your Mary Magdalene, Tabitha, Phoebe, Dorcas. Okay? These sisters putting in major works. Major works. Just like you got the sisters today, all right, putting in major work, major works in this truth. All right.
+- He couldn't get nothing out of these sisters. They was putting in work. They're called deaconesses. They were helpers. They was helpers of the leaders in the body. They was like the mothers over the sisters. That's what deacon means. Deacon means help, helper, assistant. So they were helping in the body. They weren't sisters that were on their phone all day doing nothing. They had their spirit built up for this, right? They was ready. That's your Mary Magdalene, Tabitha, Phoebe, Dorcas. These sisters putting in major works. Major works. Just like you got the sisters today, all right, putting in major work, major works in this truth.
 
 > but I could extort from them nothing except the acknowledgment of an excessive and depraved superstition; and, therefore, desisting from further investigation, I determined to consult you; for the number of culprits is so great as to call for the most serious deliberation.
 
@@ -338,15 +332,15 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > informations are pouring in against multitudes of every age, of all orders, and of both sexes; and more will be impeached;
 
-- So he's getting information. Remember, he got informants. They bringing all types of information to him. That's why he's saying informations are pouring in against multitudes of every age. You got brothers was turning informants quick. Denouncing Christ, turning informants and bringing in information. Schedules of names was just coming in. That's probably why before, when we were reading, he said he didn't know how to deal with the age, the old. Do I deal with them all the same? 'Cause he's getting so much information. All right, how do I deal with all this now? Like, am I just going to blanket... Children coming in, whole families. It's wild. That's what was happening. This gonna happen again. You understand? So you giving family names even down to the baby. Like, how I supposed to deal with this?
+- So he's getting information. Remember, he got informants. They bringing all types of information to him. That's why he's saying informations are pouring in against multitudes of every age. You got brothers was turning informants quick. Denouncing Christ, turning informants and bringing in information. Schedules of names was just coming in. That's probably why before, when we were reading, he said he didn't know how to deal with the age, the old. Do I deal with them all the same? 'Cause he's getting so much information. All right, how do I deal with all this now? Like, am I just going to blanket... Children coming in, whole families. It's wild. That's what was happening. This gonna happen again. So you giving family names even down to the baby. Like, how I supposed to deal with this?
 
 > for the contagion of the superstition hath spread not only through cities, but villages also, and even reach the farmhouses. I am of opinion, nevertheless, that it may be checked, and the success of my endeavours hitherto forbids despondency; for the temples, once almost desolate,
 
-- Oh. For the temples once almost desolate.
+- For the temples once almost desolate.
 
 > begin to be again frequented; the sacred solemnities, which had for some time been intermitted, are now attended afresh; and the sacrificial victims, which once could scarcely find a purchaser, now obtain a brisk sale;
 
-- So what he's saying is, that's how many of us at that time was denouncing Christ, man. To the point that even they was going back, and they was denouncing Christ at a large scale. It's like now: they saying a lot of the people the church following is going down. It's going to keep going down. I'm going to get you that. It's going to keep going down to a certain point. It's going to keep going down, and then when interrogation start back up, persecution, like, I'm getting out of this. I'm out. Read that again.
+- So what he's saying is, that's how many of us at that time was denouncing Christ, man. To the point that even they was going back, and they was denouncing Christ at a large scale. It's like now: they saying a lot of the people the church following is going down. It's going to keep going down. I'm going to get you that. It's going to keep going down to a certain point. It's going to keep going down, and then when interrogation start back up, persecution, like, I'm getting out of this. I'm out.
 
 > I am of opinion, nevertheless, that it may be checked, and the success of my endeavours hitherto forbids despondency; for the temples, once almost desolate, begin to be again frequented; the sacred solemnities, which had for some time been intermitted, are now attended afresh;
 
@@ -354,7 +348,7 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 - **A brother:** I'm just saying, it's probably part of their parole.
 
-- **Deacon Eythan:** Yeah, that's what I mean. So it's like, just like an alcoholic has to go to AA meetings. Like, you know what, you have to attend the church this Sunday. Every Sunday, every Sunday. That's your rehabilitation, right? That's what I'm trying to say. Go back to being swallowed. That's what was going on. You was forced to go. That was part of the agreement. That was part of the agreement, man. Just keep going. I don't know why y'all looking at me. Read on.
+- **Deacon Eythan:** Yeah, that's what I mean. So it's like, just like an alcoholic has to go to AA meetings. Like, you know what, you have to attend the church this Sunday. Every Sunday, every Sunday. That's your rehabilitation, right? That's what I'm trying to say. Go back to being swallowed. That's what was going on. You was forced to go. That was part of the agreement. That was part of the agreement, man. Just keep going. I don't know why y'all looking at me.
 
 - **Officer:** My man crazy.
 
@@ -362,7 +356,7 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > and the sacrificial victims, which once could scarcely find a purchaser, now obtain a brisk sale; whence I infer, that many might be reclaimed, were the hope of pardon, on their repentance,
 
-- He called... whoa. He called it repentance. Yep. Right. When you went back to white man Jesus, that was repentance to Esau. Damn.
+- He called... whoa. He called it repentance. Yep. When you went back to white man Jesus, that was repentance to Esau. Damn.
 
 - **Officer:** Meaning you came back to be a slave.
 
@@ -370,7 +364,7 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > whence I infer, that many might be reclaimed, were the hope of pardon, on their repentance, absolutely confirmed.
 
-- Damn. So now this is the letter that Emperor Trajan wrote back to Pliny the Elder. Okay? So this is the response.
+- Damn. So now this is the letter that Emperor Trajan wrote back to Pliny the Elder. So this is the response.
 
 > My dear Pliny, you have done perfectly right
 
@@ -386,11 +380,11 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 
 > But anonymous accusations should never be attended to, since it would be establishing a precedent of the worst kind, and altogether inconsistent with the maxims of my government.
 
-- Right. Go down. So if they celebrate Christmas, yo, they good, right? Leave them alone. Leave them alone. So it had to been, if we was caught... I guess if we was out teaching or whatever and we got locked up like that, then that's when they would go into the whole trial and so forth. But he's saying you don't have to send informants out to go search them out or whatever like that. So if we was on the streets teaching, or passing out flyers somewhere or whatever the case is, we got arrested like that, then he was able to go ahead and do what he need to do. That's what the emperor is saying. He's giving him counsel on how to deal with us. Yeah, you doing perfectly right, but do it like this, that and the third. Don't literally hunt them out, is what he saying. You don't need to. They gonna show themselves. You gonna be like, yo, he a Christian. He an Israelite. You going to see the fringes. They going to be keeping the Sabbath, not eating pork. All right? So you're going to see. You don't got to send the informants out. You don't got to make it known.
+- So if they celebrate Christmas, yo, they good, right? Leave them alone. Leave them alone. So it had to been, if we was caught... I guess if we was out teaching or whatever and we got locked up like that, then that's when they would go into the whole trial and so forth. But he's saying you don't have to send informants out to go search them out or whatever like that. So if we was on the streets teaching, or passing out flyers somewhere or whatever the case is, we got arrested like that, then he was able to go ahead and do what he need to do. That's what the emperor is saying. He's giving him counsel on how to deal with us. Yeah, you doing perfectly right, but do it like this, that and the third. Don't literally hunt them out, is what he saying. You don't need to. They gonna show themselves. You gonna be like, yo, he a Christian. He an Israelite. You going to see the fringes. They going to be keeping the Sabbath, not eating pork. So you're going to see. You don't got to send the informants out. You don't got to make it known.
 
 > It is an obvious reflection from these letters, that at this early period Christianity had made an extraordinary progress in the empire; for Pliny acknowledges that the pagan temples have become almost desolate. Nor should we overlook the remarkable proof which they afford us of the state of the Christian profession, and the dreadful persecutions to which the disciples of Christ were then exposed. It is evident from them, that by the existing laws it was a capital offence, punishable with death, for any one to avow himself a Christian.
 
-- You see that? Now it says that it is an obvious reflection from these letters, that at this early period Christianity had made an extraordinary progress in the empire, for Pliny acknowledges that the pagan temples have become almost desolate. All right, give me Acts 19, 'cause this is when it started to become desolate. Acts chapter 19, you start at verse 24.
+- Now it says that it is an obvious reflection from these letters, that at this early period Christianity had made an extraordinary progress in the empire, for Pliny acknowledges that the pagan temples have become almost desolate. All right, give me Acts 19, 'cause this is when it started to become desolate. Acts chapter 19, you start at verse 24.
 
 </div>
 
@@ -408,7 +402,7 @@ Reading from *History of the Christian Church* (1824), Pliny's letter continued 
 >
 > <sup>[27](/bible/acts/19#v27)</sup> So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.
 
-- So at this time we were leaving the temple. At this time we were leaving the churches, okay? We were leaving the churches, to the point that he had to call a meeting and say, yo, we need to get together. We losing money. We got to do something. What's the plan? What we coming up with? Let's put our heads together. 'Cause this is how I live. This is my living right here, making these, and now I'm not even selling nothing. All right. Now let's bring it up to today. Let's bring it up to today. Give me that article.
+- So at this time we were leaving the temple. At this time we were leaving the churches, okay? We were leaving the churches, to the point that he had to call a meeting and say, yo, we need to get together. We losing money. We got to do something. What's the plan? What we coming up with? Let's put our heads together. 'Cause this is how I live. This is my living right here, making these, and now I'm not even selling nothing. Now let's bring it up to today. Let's bring it up to today. Give me that article.
 
 <div class="reading">
 
@@ -418,17 +412,17 @@ Reading from an article, *Black Americans See the Biggest Shift Away from Faith*
 >
 > African Americans are among the most devout groups in religion research, often outranking other demographics in areas like religious practice, attendance and belief. As a result, some predicted that young black adults would resist the moves away from faith seen among white millennials.
 
-- You see that? So as a result some predicted that young black adults would resist the moves away from faith seen among white millennials.
+- So as a result some predicted that young black adults would resist the moves away from faith seen among white millennials.
 
 > Even with all the shifts in the faith landscape over the past several years, black Americans remain more religious than other groups and more likely than the average American to stay in the tradition they were raised in, according to a massive report released by Pew Research Center last year. But black nones are growing.
 >
 > With three in ten adults in the U.S. claiming no religious affiliation on surveys, the rise of the nones has touched every corner of American society.
 
-- You see that? So our young adults... 'cause you got the older folks, our older brothers and sisters. You know, they set in their ways, man. They ain't leaving. They not leaving. But you got the younger generation that's coming up now. He like, man, I don't want to hear that. I don't want to hear nothing about white man Jesus. I'm done with that. What is he doing for us? Right.
+- So our young adults... 'cause you got the older folks, our older brothers and sisters. You know, they set in their ways, man. They ain't leaving. They not leaving. But you got the younger generation that's coming up now. He like, man, I don't want to hear that. I don't want to hear nothing about white man Jesus. I'm done with that. What is he doing for us?
 
 > Over more than a decade, the share of black Americans who say that they have no religious affiliation has risen more dramatically than whites, Hispanics or Asians.
 
-- Right. Give me the other article. There's another one.
+- Give me the other article. There's another one.
 
 </div>
 
@@ -452,7 +446,7 @@ Reading from an article, *Detroit Today: How Is Declining Church Attendance Affe
 >
 > He acknowledges that white attendance is declining, African Americans are still religious and attend Protestant services at steady numbers. Even though there is a decline, African American churches still exist, and their decline is at a slower pace than the white Protestant counterparts, said Evans.
 
-- So he say even though there's a decline, African American churches still... Yeah, they still out. They still in all the hoods, on every corner. They still there. All right? But there's a major decline. That's the point of reading this article. Back then, even today, there's a major decline in the churches. But let's give the reason for that. Give me Revelation...
+- So he say even though there's a decline, African American churches still... Yeah, they still out. They still in all the hoods, on every corner. They still there. But there's a major decline. That's the point of reading this article. Back then, even today, there's a major decline in the churches. But let's give the reason for that. Give me Revelation...
 
 - **Officer:** I got another article too.
 
@@ -482,31 +476,31 @@ Reading from a report on a survey of black and non-black Americans fielded in Ju
 
 > <sup>[15](/bible/revelation/12#v15)</sup> And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
 
-- So the woman is Israel, okay? The flood is the media. That's your media outlets, your movies, your social medias, all right, your TikToks, all these things. All right, read that again.
+- So the woman is Israel, okay? The flood is the media. That's your media outlets, your movies, your social medias, all right, your TikToks, all these things.
 
-- That's your holidays. Your Christmas, your Valentine's Day, your Thanksgivings, your New Year's. Read that.
+- That's your holidays. Your Christmas, your Valentine's Day, your Thanksgivings, your New Year's.
 
 > <sup>[16](/bible/revelation/12#v16)</sup> And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
 
-- And the earth helped the woman. The earth helped Israel. Remember, the woman is Israel. The earth, which is the teachers going out to teach that our people, blacks, Hispanics and Natives, are the Israelites according to the Bible. Okay.
+- And the earth helped the woman. The earth helped Israel. Remember, the woman is Israel. The earth, which is the teachers going out to teach that our people, blacks, Hispanics and Natives, are the Israelites according to the Bible.
 
-- So guess what? We're swallowing up these lies with what? The Bible. Okay? That's what they hearing on the streets. All right, these lies are being swallowed up with the Bible. Okay? Esau is being revealed for who they are: the devil the Bible speaks of. All right. Give me Psalms 85:11.
+- So guess what? We're swallowing up these lies with what? The Bible. That's what they hearing on the streets. All right, these lies are being swallowed up with the Bible. Esau is being revealed for who they are: the devil the Bible speaks of. Give me Psalms 85:11.
 
 **[Psalms 85:11](/bible/psalms/85#v11)**  *[[1:13:46](https://www.youtube.com/watch?v=Nb7cizqutwI&t=4426s)]*
 
 > <sup>[11](/bible/psalms/85#v11)</sup> Truth shall spring out of the earth; and righteousness shall look down from heaven.
 
-- You see that? So truth, the law, shall spring out of the earth. Read it again. Okay, so the truth will spring out of the earth. That's the earth helping the woman: the teachers and so forth, bringing the truth that we are the Israelites according to the Bible. So that's why you have that decline in the black church. All praises to the Most High.
+- So truth, the law, shall spring out of the earth. Okay, so the truth will spring out of the earth. That's the earth helping the woman: the teachers and so forth, bringing the truth that we are the Israelites according to the Bible. So that's why you have that decline in the black church.
 
-- **Officer:** That's right. All praises.
+- **Officer:** That's right.
 
-*[[1:14:19](https://www.youtube.com/watch?v=Nb7cizqutwI&t=4459s)]* All right, now we gonna take a quick break. We're gonna take a quick break. All right, so we'll take a quick break. We'll be back after the break, and then we going to start to go into... we going to try to get to the war, the Cyrenian revolt. All right. But you can call us or you can text us. All right, see you after the break.
+*[[1:14:19](https://www.youtube.com/watch?v=Nb7cizqutwI&t=4459s)]* All right, now we gonna take a quick break. We're gonna take a quick break. All right, so we'll take a quick break. We'll be back after the break, and then we going to start to go into... we going to try to get to the war, the Cyrenian revolt. But you can call us or you can text us. All right, see you after the break.
 
-*[[1:14:57](https://www.youtube.com/watch?v=Nb7cizqutwI&t=4497s)]* The break. A mission message: "To the twelve tribes which are scattered abroad, greetings. So the same mission the disciples had is our mission today. Our mission is unlike any other mission throughout the world. I want everybody to understand that, okay? There's no group on earth who has undertaken the true mission of the disciples of Christ: to resurrect and gather the twelve tribes of Israel which have been scattered. … You may call it the diaspora today. The Bible uses other words, to scatter. Okay? But it's the same thing. Our people who suffered during the time of colonialization, forced migration, sub-Saharan slave trade, transatlantic slave trade. And it seems like our people have been forgotten about, but you are not forgotten." Music, then IUIC Puerto Rico: "We're here with IUIC Puerto Rico, right. What we about to do is we about to clean up our neighborhoods. All right, we don't only do it spiritually, we're going to do it physically. Let our light shine, all right, with the IUIC community cleanup movement. Build some community relations, and give out some flyers. Let the word go out at the same time." A captain: "We got a lot of people who just went to church and they got dead spirits, and we doing things they not doing. We cleaning up the community, we fixing the gutters, we filling the potholes in. We working hard out here to let our people understand that the only way it's going to get done is through us. We can't wait on another nation to do the work for us. All praises to the Most High. He put the spirit on Bishop Nathanyel and the bishops, the deacons, the captains, the officers, the soldiers who's in this work, enduring day in and day out, getting work done throughout the four corners of the earth. Let's continue to build. And you men, wherever you at, make sure you fixing your communities, make sure you cleaning your communities, and make sure you being the pillar in your communities."
+*[[1:14:57](https://www.youtube.com/watch?v=Nb7cizqutwI&t=4497s)]* The break. A mission message: "To the twelve tribes which are scattered abroad, greetings. So the same mission the disciples had is our mission today. Our mission is unlike any other mission throughout the world. I want everybody to understand that, okay? There's no group on earth who has undertaken the true mission of the disciples of Christ: to resurrect and gather the twelve tribes of Israel which have been scattered. … You may call it the diaspora today. The Bible uses other words, to scatter. But it's the same thing. Our people who suffered during the time of colonialization, forced migration, sub-Saharan slave trade, transatlantic slave trade. And it seems like our people have been forgotten about, but you are not forgotten." Music, then IUIC Puerto Rico: "We're here with IUIC Puerto Rico, right. What we about to do is we about to clean up our neighborhoods. All right, we don't only do it spiritually, we're going to do it physically. Let our light shine, all right, with the IUIC community cleanup movement. Build some community relations, and give out some flyers. Let the word go out at the same time." A captain: "We got a lot of people who just went to church and they got dead spirits, and we doing things they not doing. We cleaning up the community, we fixing the gutters, we filling the potholes in. We working hard out here to let our people understand that the only way it's going to get done is through us. We can't wait on another nation to do the work for us. He put the spirit on Bishop Nathanyel and the bishops, the deacons, the captains, the officers, the soldiers who's in this work, enduring day in and day out, getting work done throughout the four corners of the earth. Let's continue to build. And you men, wherever you at, make sure you fixing your communities, make sure you cleaning your communities, and make sure you being the pillar in your communities."
 
-*[[1:24:25](https://www.youtube.com/watch?v=Nb7cizqutwI&t=5065s)]* Hey, shalom, shalom. We back from the break. All right, we're back from the break. Watch this. Let's get right into it. Let's get right into it. Give me page 123.
+*[[1:24:25](https://www.youtube.com/watch?v=Nb7cizqutwI&t=5065s)]* Hey, shalom, shalom. We back from the break. All right, we're back from the break. Let's get right into it. Let's get right into it. Give me page 123.
 
-*[[1:24:33](https://www.youtube.com/watch?v=Nb7cizqutwI&t=5073s)]* Now, y'all remember Ignatius. Ignatius, okay? He was one of the bishops at this time. We remember we read about him, Polycarp; we read about Quadratus. All right, we read about how they were martyred, right? I want y'all to listen to this. Read this page straight from the top. Hold on, hold on. Go back a page. Go up. Start at "Hence we see."
+*[[1:24:33](https://www.youtube.com/watch?v=Nb7cizqutwI&t=5073s)]* Now, y'all remember Ignatius. Ignatius, okay? He was one of the bishops at this time. We remember we read about him, Polycarp; we read about Quadratus. All right, we read about how they were martyred, right? I want y'all to listen to this. Read this page straight from the top. Go back a page. Start at "Hence we see."
 
 <div class="reading">
 
@@ -514,7 +508,7 @@ Reading from *History of the Christian Church* (1824), page 123 and the page bef
 
 > Hence we see how it happened that such good emperors as Trajan and Marcus Antoninus came to be found in the first rank of persecutors, a difficulty that hath very much embarrassed the inquirers
 
-- Yo, now when it says he was a good emperor, now you might say, nah, he was still persecuting us. But remember, in the letter he said, yo, you don't have to hunt them down. That was considered a good emperor. You don't have to chase them down; they going to present themselves. You don't have to go after them like that. But if you do come across one, you can do the following. You can still take them through the procedures and the process, and if they say they a Christian or Israelite, execute them. Right. So for him saying that, he was considered a good emperor for that time. Right.
+- Yo, now when it says he was a good emperor, now you might say, nah, he was still persecuting us. But remember, in the letter he said, yo, you don't have to hunt them down. That was considered a good emperor. You don't have to chase them down; they going to present themselves. You don't have to go after them like that. But if you do come across one, you can do the following. You can still take them through the procedures and the process, and if they say they a Christian or Israelite, execute them. So for him saying that, he was considered a good emperor for that time.
 
 > a difficulty that hath very much embarrassed the inquirers into ecclesiastical antiquity, and given a handle to the deists, who poison everything, of pretending to suspect that there must be something very much amiss in primitive Christianity, while such wise magistrates could become its persecutors. But the reason is now manifest.
 
@@ -526,15 +520,15 @@ Reading from *History of the Christian Church* (1824), page 123 and the page bef
 
 > And thus the famous passage of Pliny the Younger becomes intelligible: For I did not in the least hesitate, but that whatever should appear on confession to be their faith, yet that their forwardness and inflexible obstinacy would certainly deserve punishment. What was the inflexible obstinacy? It could not be in professing a new religion; that was a thing common enough.
 
-- Right. So he's saying, for I did not in the least hesitate, but that whatever should appear on confession to be their faith, yet that their forwardness and inflexible obstinacy would certainly deserve punishment. For what? For believing in Christ? He's saying, look, our forwardness towards their paganism. It ain't had nothing to do with what we believed in. It ain't had nothing to do with that. Okay? It wasn't the hatred for Christ, but it was the fact that we wasn't with them. We wasn't inclusive with them. Right? It's going to say it.
+- So he's saying, for I did not in the least hesitate, but that whatever should appear on confession to be their faith, yet that their forwardness and inflexible obstinacy would certainly deserve punishment. For what? For believing in Christ? He's saying, look, our forwardness towards their paganism. It ain't had nothing to do with what we believed in. It ain't had nothing to do with that. It wasn't the hatred for Christ, but it was the fact that we wasn't with them. We wasn't inclusive with them. It's going to say it.
 
-- **A brother:** If that makes sense what I'm saying: that's why our people, when we teach them about the truth of the Bible, they're always including the white man. Because it's seared in us since slavery to include him in everything we do, because that's what we've been taught, and that's the way we survive in the flesh today. Right? So we're just like, how about the white man? How about that white man? Because they know if they exclude the white man, they're liable. They're going to be held liable, and they're going to be put to death if they don't.
+- **A brother:** If that makes sense what I'm saying: that's why our people, when we teach them about the truth of the Bible, they're always including the white man. Because it's seared in us since slavery to include him in everything we do, because that's what we've been taught, and that's the way we survive in the flesh today. So we're just like, how about the white man? How about that white man? Because they know if they exclude the white man, they're liable. They're going to be held liable, and they're going to be put to death if they don't.
 
 - **Deacon Eythan:** Hey, that's why today Esau got to... they got to know everything we talking about. If it's us amongst each other, they come right amongst you. At the job, they want to know. Yo...
 
 - **A brother:** They said that happened multiple times.
 
-- **Deacon Eythan:** Yeah, I heard. Hey, yo, what y'all talking about? Hey, what's going on? Can we learn from you? Can we sit down? 'Cause they see us. They like, nah, y'all supposed to include us. It's an entitlement thing, man. We run y'all. We rule over y'all. So wait, y'all going to exclude us from what y'all got going on? We run this. Or like they say here, what is this inflexible obstinacy? Right. That's what it is. Yo, when you're not including me... it's inflexible. Anything that's flexible, like flexible hours, you go... yeah. But this is inflexible, meaning it's not inclusive. Inclusive. It's for our race only.
+- **Deacon Eythan:** Yeah, I heard. Hey, yo, what y'all talking about? Hey, what's going on? Can we learn from you? Can we sit down? 'Cause they see us. They like, nah, y'all supposed to include us. It's an entitlement thing, man. We run y'all. We rule over y'all. So wait, y'all going to exclude us from what y'all got going on? We run this. Or like they say here, what is this inflexible obstinacy? That's what it is. Yo, when you're not including me... it's inflexible. Anything that's flexible, like flexible hours, you go... yeah. But this is inflexible, meaning it's not inclusive. Inclusive. It's for our race only.
 
 - **A brother:** Hey, remember after slavery they made a law where it was unlawful for blacks to gather without a white man present. So you couldn't be gathering, talking about the Bible or nothing, without a white man being present there.
 
@@ -544,7 +538,7 @@ Reading from *History of the Christian Church* (1824), page 123 and the page bef
 
 - **Deacon Eythan:** Let's get that with Nehemiah. I like... yep, yep, let's get that. That's a perfect example. They can't stand it. I'm telling you, I know a lot of us experience it on our jobs. I'm telling you, man. I remember one time it was just me and this other brother, we just talking, and we was in the aisle, and my manager at that time, he was Elam. It was Elam. So it's all nations; it ain't just Esau. It was Elam. And he called us over and said, what y'all talking about? Literally he said, what y'all talking about? I'm like, what? But it was always on us, making sure, you know, we ain't plotting or something. You know what I mean? That's the way Esau think. 'Cause remember, they hate unity. They want us to be apart at all times. They don't want to see any of us coming together. That's... the former FBI director said that, right?
 
-- Now when he's talking about unity, he's not talking about us coming together at the cookout. You already know we got a reputation at cookouts and so forth in the world, that it's gonna get shot up, right, because it's the hatred amongst us. But when he's talking about unity, he's talking about us coming together under one banner, under the Bible, under Christ. That's what he means: coming together under Christ, right? Meaning blacks and Hispanics and Natives, all right, coming back as the twelve tribes of Israel. That's what they said: that's the most dangerous threat. Bring it up. Bring it up. Right. Read that.
+- Now when he's talking about unity, he's not talking about us coming together at the cookout. You already know we got a reputation at cookouts and so forth in the world, that it's gonna get shot up, right, because it's the hatred amongst us. But when he's talking about unity, he's talking about us coming together under one banner, under the Bible, under Christ. That's what he means: coming together under Christ, right? Meaning blacks and Hispanics and Natives, all right, coming back as the twelve tribes of Israel. That's what they said: that's the most dangerous threat.
 
 </div>
 
@@ -554,7 +548,7 @@ Reading from a post on J. Edgar Hoover  *[[1:32:00](https://www.youtube.com/watc
 
 > When FBI Director J. Edgar Hoover was asked what, in his opinion, was the single greatest threat to the United States of America, he responded: Negro unity. Take a moment to let that sink in.
 
-- He said take a moment to let that sink in. He's like, yo, just take a... about that. I want you to let that sink in, what I just said. That was heavy, meaning that was deep, what I said. I want you to think about it. Okay. Yeah, read that. Yep.
+- He said take a moment to let that sink in. He's like, yo, just take a... about that. I want you to let that sink in, what I just said. That was heavy, meaning that was deep, what I said. I want you to think about it. Yeah, read that. Yep.
 
 </div>
 
@@ -564,23 +558,23 @@ Reading from a post on J. Edgar Hoover  *[[1:32:00](https://www.youtube.com/watc
 >
 > <sup>[2](/bible/ezra/4#v2)</sup> Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esar–haddon king of Assur, which brought us up hither.
 
-- Right. Let us... yo, let us help you. We just like y'all, man. We worship the same God.
+- Let us... yo, let us help you. We just like y'all, man. We worship the same God.
 
 > <sup>[3](/bible/ezra/4#v3)</sup> But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto the Lord God of Israel, as king Cyrus the king of Persia hath commanded us.
 
-- See that? We knew. Look, we don't need you heathens for nothing. Okay? This is our God. We build to our God. You go back to your idols.
+- See that? We knew. Look, we don't need you heathens for nothing. This is our God. We build to our God. You go back to your idols.
 
 - **A brother:** Remember that clip from the movie, when Denzel was playing Malcolm X, and the white woman came up to him and asked, how can I help? Yep. He said nothing.
 
-- **Deacon Eythan:** He said you can't do nothing for us. Can't do nothing. This ain't about you. Read on.
+- **Deacon Eythan:** He said you can't do nothing for us. Can't do nothing. This ain't about you.
 
 > <sup>[4](/bible/ezra/4#v4)</sup> Then the people of the land weakened the hands of the people of Judah, and troubled them in building,
 
-- You see that? They got mad. They said, oh yeah, … you don't want to include us? You don't want to include us, huh? Y'all want to be inflexible? Right. So they did what? Read that again.
+- They got mad. They said, oh yeah, … you don't want to include us? You don't want to include us, huh? Y'all want to be inflexible? So they did what?
 
 > <sup>[5](/bible/ezra/4#v5)</sup> And hired counsellors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
 
-- You see that? So now today we're not building a physical house for God. We're building up the children of Israel, which is the temple of the Lord today, right? And what are they doing? Because we're not including them, they're trying to stop us. But it's not going to stop, thus saith the Lord.
+- So now today we're not building a physical house for God. We're building up the children of Israel, which is the temple of the Lord today, right? And what are they doing? Because we're not including them, they're trying to stop us. But it's not going to stop, thus saith the Lord.
 
 - **Officer:** That's right.
 
@@ -602,11 +596,11 @@ Reading from a post on J. Edgar Hoover  *[[1:32:00](https://www.youtube.com/watc
 
 - And popular persuasions. So they started... hate group. Hate group. That's the media today. That's the media. They putting the media out, okay, to say that yeah, we a hate group and so forth.
 
-- And commotions. So they were hindered from building for the space of two years until the reign of Darius. Yo, for two years we like, nah, this is crazy, man. Let's fall back. Let's fall back for a little bit, all right, until they calm down with this. So for two years they was going in, man. They had a campaign. It was a campaign against us. All right? It was a campaign against us. Go back to the page.
+- And commotions. So they were hindered from building for the space of two years until the reign of Darius. Yo, for two years we like, nah, this is crazy, man. Let's fall back. Let's fall back for a little bit, all right, until they calm down with this. So for two years they was going in, man. They had a campaign. It was a campaign against us. It was a campaign against us. Go back to the page.
 
 - **A brother:** You know, it's an example too, officer: when we going into these colleges or places, then you hear the teachers or the administration of the school saying, oh well, we heard about you on the news, so we can't let you come here and try to build the people there.
 
-- **Deacon Eythan:** Yeah, they making calls. Yeah, they get the call. They already know. They get the call, man. All right. Where you at? Oh, for I did not... What was the inflexible...
+- **Deacon Eythan:** Yeah, they making calls. Yeah, they get the call. They already know. They get the call, man. Where you at? Oh, for I did not... What was the inflexible...
 
 <div class="reading">
 
@@ -614,11 +608,11 @@ Reading from *History of the Christian Church* (1824), continued  *[[1:37:05](ht
 
 > For I did not in the least hesitate, but that whatever should appear on confession to be their faith, yet that their forwardness and inflexible obstinacy would certainly deserve punishment. What was the inflexible obstinacy? It could not be in professing a new religion; that was a thing common enough. It was the refusing all communion with paganism;
 
-- You see that? It was refusing all communion with paganism. We want to separate. We don't want to do what y'all doing.
+- It was refusing all communion with paganism. We want to separate. We don't want to do what y'all doing.
 
 > refusing to throw a grain of incense on their altars. For we must not think, as is commonly imagined, that this was at first enforced by the magistrate to make them renounce the religion, but only to give a test of its hospitality and sociableness of temper. It was indeed, and rightly too, understood by the Christians to be a renouncing of their religion, and so accordingly abstained from.
 
-- So their whole purpose was to get us away from Christ. That was it. And return us back to Caesar Borgia. All right.
+- So their whole purpose was to get us away from Christ. That was it. And return us back to Caesar Borgia.
 
 > The misfortune was that the pagans did not consider the inflexibility as a mere error, but as an immorality. Likewise the unsociable turning of Rome caused the Christians, persons convicted of hatred to all mankind.
 
@@ -626,7 +620,7 @@ Reading from *History of the Christian Church* (1824), continued  *[[1:37:05](ht
 
 > But how the confession of the pagans themselves concerning the purity of the Christian morals shows this could be no other than a being convicted of rejecting all intercommunity of worship, which, so great was their prejudice, that they thought could proceed from nothing but hatred towards mankind. Universal prejudice had made men regard a refusal of this intercommunity as the most brutal of all dissociability. And the emperor Julian, who understood this matter the best of any, fairly owns that the Jews and Christians brought the execration of the world upon them by their aversion to the gods of paganism, and the refusal of all communication with them. But to proceed.
 
-- You see that? So we separated from them. Remember, the scripture say separate from the unclean thing. Okay? It says that the Jews and Christians brought the execration of the world upon them, meaning the hatred of the world. We brought that upon us by believing in Christ, right? What's the scripture say? We shall be hated of all nations. If they hated me, they're going to hate you. We bringing this upon us. We want this upon us, because it is written. It has to happen. But that's what was going on. All right, go down. Go down, see what else I want on here. Go down. Yeah, read that.
+- So we separated from them. Remember, the scripture say separate from the unclean thing. It says that the Jews and Christians brought the execration of the world upon them, meaning the hatred of the world. We brought that upon us by believing in Christ, right? What's the scripture say? We shall be hated of all nations. If they hated me, they're going to hate you. We bringing this upon us. We want this upon us, because it is written. It has to happen. But that's what was going on. Go down, see what else I want on here. Yeah, read that.
 
 > The stated returns of the public games and festivals were generally attended by calamitous events to the Christians.
 
@@ -634,7 +628,7 @@ Reading from *History of the Christian Church* (1824), continued  *[[1:37:05](ht
 
 > On those occasions, the inhabitants of the great cities of the empire were collected in the great circus of the theatre, where every circumstance of the place, as well as of the ceremony, contributed to kindle their devotion and to extinguish humanity. Whilst the numerous spectators, crowned with garlands, perfumed with incense, purified with the blood of victims, and surrounded with the altars and statues of their deities, resigned themselves to the enjoyment of pleasures which they considered as an essential part of their religious worship, they recollected that the Christians alone abhorred the gods of mankind, and by their absence and melancholy on those solemn festivals
 
-- So we wasn't present. Okay? We wasn't there. We wasn't at no football games, wasn't at no basketball games, wasn't at no boxing matches. Okay? We wasn't at no whatever sports events they had at that time, or any type of parties, or revellings, clubbing, anything. Parades. No Thanksgiving parade. None of the tree lighting on Christmas, right? None of that. We didn't take part in that. Read on.
+- So we wasn't present. We wasn't there. We wasn't at no football games, wasn't at no basketball games, wasn't at no boxing matches. We wasn't at no whatever sports events they had at that time, or any type of parties, or revellings, clubbing, anything. Parades. No Thanksgiving parade. None of the tree lighting on Christmas, right? None of that. We didn't take part in that.
 
 > and by their absence and melancholy on those solemn festivals, seemed to insult or to lament the public felicity.
 
@@ -646,7 +640,7 @@ Reading from *History of the Christian Church* (1824), continued  *[[1:37:05](ht
 
 - **A brother:** I was going to say, can we read 1 Peter 4 really quick? That's exactly what...
 
-- **Deacon Eythan:** Man, you jumped the gun. Damn. No, you know what, you can go ahead. Break it out. I already had it; I was about to go there next. All praise, all praise.
+- **Deacon Eythan:** Man, you jumped the gun. Damn. No, you know what, you can go ahead. Break it out. I already had it; I was about to go there next.
 
 - **A brother:** Yes sir. 1 Peter 4:3. 1 Peter chapter 4.
 
@@ -656,11 +650,11 @@ Reading from *History of the Christian Church* (1824), continued  *[[1:37:05](ht
 
 > <sup>[3](/bible/1-peter/4#v3)</sup> For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 
-- **A brother:** Right. 'Cause these are things we used to do in the world before we came into this truth, before we understood who our God is, that we the Israelites, who Christ is, that he's a black man, so forth. These are the things we doing in the world, okay? Go to the club Friday nights, Saturday night, wake up for Sunday, go to church still drunk, so on and so forth. These are things we was doing in the world. Revelling and partying. Right.
+- **A brother:** 'Cause these are things we used to do in the world before we came into this truth, before we understood who our God is, that we the Israelites, who Christ is, that he's a black man, so forth. These are the things we doing in the world, okay? Go to the club Friday nights, Saturday night, wake up for Sunday, go to church still drunk, so on and so forth. These are things we was doing in the world. Revelling and partying.
 
 > <sup>[4](/bible/1-peter/4#v4)</sup> Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:
 
-- **A brother:** So now we falling back from that, now we become haters of all mankind, because we don't want to do this no more. It's not of God. It's not of God, right? Read it again.
+- **A brother:** So now we falling back from that, now we become haters of all mankind, because we don't want to do this no more. It's not of God. It's not of God, right?
 
 - **A brother:** Speaking evil of you. Right, like your family members, they speak evil of you because you don't want to do the same things. You know your family members will only hit you up on the holidays. Your birthday. You hear from them no other time. Birthday, Christmas, New Year's, that's when you getting a text from them, right? Okay, they ain't hit you up for nothing else. Read on, verse 5. 'Cause that's the damn devil. They trying to get you back into that, right? Into that spirit.
 
@@ -684,8 +678,6 @@ Reading from *History of the Christian Church* (1824), continued  *[[1:45:01](ht
 
 > and venturing to accuse by name some of the most distinguished of the new sectaries, required with irresistible vehemence that they should be instantly apprehended and cast to the lions.
 
-- Read that part again.
-
 > The impatient clamours of the multitude denounced the Christians as the enemies of God and men, doomed them to the severest tortures, and venturing to accuse by name
 
 - And venturing to accuse... this part I'm looking for. And venturing to accuse by name.
@@ -708,17 +700,15 @@ Reading from *History of the Christian Church* (1824), continued  *[[1:45:01](ht
 
 > About the time that Pliny wrote his celebrated letter, Trajan, who was then entering upon the Parthian war, arrived at Antioch in Syria. Ignatius was at that time one of the pastors of the church there, a man of exemplary piety,
 
-- So remember we talked about Ignatius. We talked about his martyrdom. But this is how it went down. Read.
+- So remember we talked about Ignatius. We talked about his martyrdom. But this is how it went down.
 
 > and in all things like to the apostles. During the emperor's stay in Antioch, the city was almost entirely ruined by an earthquake.
 
-- So hold... Antioch had an earthquake. Antioch had an earthquake. It said the whole city was almost entirely ruined by earthquake. Read.
+- So hold... Antioch had an earthquake. Antioch had an earthquake. It said the whole city was almost entirely ruined by earthquake.
 
 > It was preceded by violent claps of thunder, unusual winds, and a dreadful noise under ground. Then followed so terrible a shock that the earth trembled, several houses were overturned, and others tossed to and fro like a ship at sea. The noise of the cracking and bursting of the timber, and of the falling of the houses, drowned the cries of the dismayed populace. Those who happened to be in their houses were, for the most part, buried under their ruins, and such as were walking in the streets and in the squares were, by the violence of the shock, dashed against each other, and most of them killed or dangerously wounded. Trajan himself was much hurt, but escaped through a window out of the house in which he was.
 >
 > When the earthquake ceased, the voice of a woman was heard crying under the ruins, which being removed, she was found with a sucking child in her arms, whom she kept alive, as well as herself, with her milk.
-
-- Watch this.
 
 > The eminent station of Ignatius, and the popularity which generally attends superior talents, marked him out as the victim of imperial fury on the occasion.
 
@@ -730,13 +720,13 @@ Reading from *History of the Christian Church* (1824), continued  *[[1:45:01](ht
 
 > <sup>[8](/bible/jeremiah/28#v8)</sup> The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
 
-- Okay, this is what the prophet... if you're a prophet, this is what you going to be prophesying. Okay? Read it again, one more time.
+- Okay, this is what the prophet... if you're a prophet, this is what you going to be prophesying.
 
-- So this is Jeremiah speaking. He said the prophets that came before me, and before thee of old, prophesied against many countries, against great kingdoms. Of war. Of what? Of war. And of evil, and of pestilence. Read on.
+- So this is Jeremiah speaking. He said the prophets that came before me, and before thee of old, prophesied against many countries, against great kingdoms. Of war. Of what? Of war. And of evil, and of pestilence.
 
 > <sup>[9](/bible/jeremiah/28#v9)</sup> The prophet which prophesieth of peace, when the word of the prophet shall come to pass, then shall the prophet be known, that the Lord hath truly sent him.
 
-- So why? Because the prophets ain't prophesying nothing about peace. Okay? We prophesying about overthrowing great kingdoms. Okay? War, pestilence, and any evil. Okay? That's how you could tell. That's how you know the difference between the prophet and a false prophet. All right, now go back to Antioch. Go back to the top. Go down. The eminent station. Read that again.
+- So why? Because the prophets ain't prophesying nothing about peace. We prophesying about overthrowing great kingdoms. War, pestilence, and any evil. That's how you could tell. That's how you know the difference between the prophet and a false prophet. All right, now go back to Antioch. Go back to the top. The eminent station.
 
 <div class="reading">
 
@@ -744,13 +734,13 @@ Reading from *History of the Christian Church* (1824), continued: Ignatius, Sime
 
 > The eminent station of Ignatius, and the popularity which generally attends superior talents, marked him out as the victim of imperial fury on the occasion.
 
-- Superior talents. So obviously Ignatius probably was preaching. He probably was prophesying an earthquake or whatever. Prophesying earthquake to come through. Okay.
+- Superior talents. So obviously Ignatius probably was preaching. He probably was prophesying an earthquake or whatever. Prophesying earthquake to come through.
 
 > He was seized, and by the emperor's order sent from Antioch to Rome, where he was exposed to the fury of wild beasts in the theatre, and by them devoured.
 >
 > About the same time, Simeon, the son of Clopas, who had succeeded the apostle James as pastor of the church originally gathered in Jerusalem, but which, at the time of its destruction, removed to a small town called Pella, was accused before the Roman governor of being a Christian. He was then a hundred and twenty years old, but his hoary hairs were no protection to him under the charge of professing Christianity.
 
-- Right. They didn't give a damn about how old he was.
+- They didn't give a damn about how old he was.
 
 > He endured the punishment of scourging for many days; but though his hardiness astonished, his sufferings failed to excite the pity of his persecutors, and he was at length ordered to be crucified.
 
@@ -758,15 +748,15 @@ Reading from *History of the Christian Church* (1824), continued: Ignatius, Sime
 
 > This state of things, which is commonly termed the third persecution, seems to have continued during the whole of Trajan's reign; for it does not appear that his edicts against the Christians were revoked during his life, which, after having swayed the imperial sceptre nineteen years, was closed in the year 117, while prosecuting his great military expedition into the East.
 
-- All right. Let me see. Go down, go down, go down. Right here, in the sixth year. We gonna read about Quadratus again. So remember Quadratus. Remember we read about them in the Fox's Book of Martyrs. Okay? So this is them in this book right here, which is called History of the Christian Church. All right, so it goes a little more in detail of what they were doing before they were martyred, or what led them to be martyred.
+- Right here, in the sixth year. We gonna read about Quadratus again. So remember Quadratus. Remember we read about them in the Fox's Book of Martyrs. So this is them in this book right here, which is called History of the Christian Church. All right, so it goes a little more in detail of what they were doing before they were martyred, or what led them to be martyred.
 
 > In the sixth year of his reign, Adrian came to Athens, where he was initiated in the Eleusinian mysteries. Tertullian describes him as a man excessively curious and inquisitive; his knowledge was various and extensive; he had studied all the arts of magic, and was passionately fond of the pagan institutions. At the time of his visiting Athens, Quadratus was pastor of the Christian church in that city, having succeeded Publius, who suffered martyrdom either in this or the foregoing reign. It seems likely that this church had undergone a severe persecution, for we are informed that when Quadratus took the oversight of them he found the flock in a dispersed and confused state. Their public assemblies were neglected,
 
-- Right. So they wasn't coming to new moons, they wasn't coming to any Sabbaths, they wasn't coming to any feast days, after the persecution that happened. This is the third persecution.
+- So they wasn't coming to new moons, they wasn't coming to any Sabbaths, they wasn't coming to any feast days, after the persecution that happened. This is the third persecution.
 
 > their zeal was become languid, and they were in danger of being wholly scattered.
 
-- Right. So they about to be just straight scattered.
+- So they about to be just straight scattered.
 
 > Quadratus laboured indefatigably to recover them, and he succeeded;
 
@@ -774,19 +764,19 @@ Reading from *History of the Christian Church* (1824), continued: Ignatius, Sime
 
 > order and discipline were restored, so much that at a subsequent period, when Origen wrote his treatise against Celsus, he uses the church at Athens as a notable pattern of good order, constancy, meekness, and quietness.
 
-- Right. Okay, so he restored the laws, everything, back into that church at that time, back into that congregation. All right. Now we're going to switch gears. What time is it? All right, 3:11. All right, so we could start. So now we're gonna switch gears and get into what was called the Cyrenian revolt, okay? It was termed, I think, the second Zealot war or something like that. All right, so give me the first book, War of the Jews. War of the Jews, page 178.
+- Okay, so he restored the laws, everything, back into that church at that time, back into that congregation. Now we're going to switch gears. What time is it? All right, 3:11. All right, so we could start. So now we're gonna switch gears and get into what was called the Cyrenian revolt, okay? It was termed, I think, the second Zealot war or something like that. All right, so give me the first book, War of the Jews. War of the Jews, page 178.
 
 - So all of this was happening around the same time that Ignatius was put to death, Quadratus. Remember it said at the end... go back to the last page. Go back to the last page.
 
 - **Officer:** It's all the early second century AD.
 
-- **Deacon Eythan:** Yep. All this was during the time of Trajan's reign. Go down. Let me see. Go down, go down, go down. The page before that. The last paragraph, very last paragraph. Read that again.
+- **Deacon Eythan:** Yep. All this was during the time of Trajan's reign. The page before that. The last paragraph, very last paragraph.
 
 > This state of things, which is commonly termed the third persecution, seems to have continued during the whole of Trajan's reign; for it does not appear that his edicts against the Christians were revoked during his life, which, after having swayed the imperial sceptre nineteen years, was closed in the year 117, while prosecuting his great military expedition into the East.
 
-- Right. So during this time period, around 115 and 117, he was on a military expedition. So we going to get into one of his military expeditions. In 117 it was in the East. Well, we going to go into what happened that brought his military expedition to the west, to North Africa, to Cyrene. All right. So while the persecutions was happening, you had those of our people that was in the diaspora revolted, caused the insurrection. All right.
+- So during this time period, around 115 and 117, he was on a military expedition. So we going to get into one of his military expeditions. In 117 it was in the East. Well, we going to go into what happened that brought his military expedition to the west, to North Africa, to Cyrene. So while the persecutions was happening, you had those of our people that was in the diaspora revolted, caused the insurrection.
 
-- So give me War of the Jews. War of the Jews. So this book is War of the Jews, A Military History from Biblical to Modern Times. Damn, I ain't going to read in the title. Yeah. By Monroe Rosenthal and Isaac Mozeson. All right. This book is from 1940, I think. 1940, somewhere around there. Hold on, hold on, hold on, this might be the one. One second. Yeah, page 110. No, no. Hey, I'm sorry, give me History of the Jews, my bad. History of the Jews, Solomon Grayzel. 178. Yep, 178, my bad. Go down to the bottom. Yep, right there. The Diaspora Rebellion. Read that.
+- So give me War of the Jews. War of the Jews. So this book is War of the Jews, A Military History from Biblical to Modern Times. Damn, I ain't going to read in the title. Yeah. By Monroe Rosenthal and Isaac Mozeson. This book is from 1940, I think. 1940, somewhere around there. Hold on, hold on, hold on, this might be the one. Yeah, page 110. No, no. Hey, I'm sorry, give me History of the Jews, my bad. History of the Jews, Solomon Grayzel. 178. Yep, 178, my bad. Go down to the bottom. Yep, right there. The Diaspora Rebellion.
 
 </div>
 
@@ -798,7 +788,7 @@ Reading from *A History of the Jews* by Solomon Grayzel, page 178, the Diaspora 
 >
 > Can a people live without a political state? That generation of embittered fighters felt that it could not be done. Either the Jews must regain their national state or be prepared to disappear.
 
-- So look, it was a spirit brewing at this time. It was a spirit that was brewing. This was the younger generation, fresh now. Okay? Watch this. Read on.
+- So look, it was a spirit brewing at this time. It was a spirit that was brewing. This was the younger generation, fresh now.
 
 > The diaspora discovers its Jewishness. The diaspora to the west of Palestine had given very little aid during the first rebellion. This was due to its loyalty to Rome and its unwillingness to be considered part of the Jewish nation. Yet when the war was over, these Jews realized that the rest of the world refused to make any such distinction. Rome made them pay the irritating and insulting tax to Jupiter's temple.
 
@@ -806,21 +796,21 @@ Reading from *A History of the Jews* by Solomon Grayzel, page 178, the Diaspora 
 
 > Rome made them pay the irritating and insulting tax to Jupiter's temple, and the pagans mocked at them as though they had also been involved in the Judean struggle. Too late they understood that the misfortune of Jerusalem was their misfortune too.
 
-- 'Cause they in the diaspora. So it's like they saying it's like they were there also, right? 'Cause that was our people. Read.
+- 'Cause they in the diaspora. So it's like they saying it's like they were there also, right? 'Cause that was our people.
 
 > Moreover, fugitives from Palestine and redeemed slaves from among the captives told of Roman cruelty and Jewish heroism,
 
-- There you go. Read that part again. This is the point.
+- This is the point.
 
-- So that was those that was from 70 AD. They were the ones that became slaves. They were the ones that were fugitives. Remember, you had the Zealot war. These were the descendants of the Zealots, pretty much: of John of Gischala, how you say his name, okay; you had Simon bar Giora. Okay? These were the descendants.
+- So that was those that was from 70 AD. They were the ones that became slaves. They were the ones that were fugitives. Remember, you had the Zealot war. These were the descendants of the Zealots, pretty much: of John of Gischala, how you say his name, okay; you had Simon bar Giora. These were the descendants.
 
 > stirring their hearers to await the time when the score could be even.
 
-- You see that? Now they got a younger generation they putting that spirit into. It's a younger generation now, fresh, ready to fight. So they're putting that spirit on them to say, yo, it's time to rise up, man. It's time to get them back for what they did to us, what they did to our forefathers.
+- Now they got a younger generation they putting that spirit into. It's a younger generation now, fresh, ready to fight. So they're putting that spirit on them to say, yo, it's time to rise up, man. It's time to get them back for what they did to us, what they did to our forefathers.
 
 > A brief attempt to do so was made in Egypt a year or two after the Jewish defeat. But it was quickly put down, and in punishment the Temple of Onias, which had functioned until then, was ordered closed.
 
-- Emperor Trajan in the East... Go down, go down, go down. Let me see if I want that. Nope, I don't want that. All right, so from there, give me War of the Jews. Let me see, page 110. Hey, do you have the page before that? Yeah, yeah, give me that. Yep, read that.
+- Emperor Trajan in the East... Let me see if I want that. Nope, I don't want that. All right, so from there, give me War of the Jews. Let me see, page 110. Hey, do you have the page before that? Yeah, yeah, give me that. Yep, read that.
 
 </div>
 
@@ -840,15 +830,15 @@ Reading from *War of the Jews: A Military History from Biblical to Modern Times*
 
 > Yet it was this world war that almost brought the Roman Empire
 
-- Wait, hold on, hold on, hold on. Read it from the top again.
+- Read it from the top again.
 
 > The superpowers of the East and West, Parthia and Rome, were soon to clash in Trajan's war, or the second Zealot revolt.
 
-- I thought I seen something. Read on.
+- I thought I seen something.
 
 > This major conflict came three hundred years before the march of the barbarians that plunged Western civilization into that chaos and despair known as the Dark Ages.
 
-- Okay, so it's talking about when we started ruling. This is 300 years before we were ruling. All right.
+- Okay, so it's talking about when we started ruling. This is 300 years before we were ruling.
 
 > Yet it was this world war that almost brought the Roman Empire to its knees
 
@@ -856,7 +846,7 @@ Reading from *War of the Jews: A Military History from Biblical to Modern Times*
 
 > and threatened to restore the primacy of those Afro-Asian and Oriental peoples smugly referred to as the upper barbarians by the Greeks and Romans.
 
-- Read that again. Hey, because understand, at this time Rome is on a decline. It's on a decline, okay? Rome's not the superpower that it once was. This is on a decline. That's why I said the superpowers. At this time you had Rome, you had Parthia that rose up, okay, at this time too. They became a superpower. So it was a world war.
+- Hey, because understand, at this time Rome is on a decline. It's on a decline, okay? Rome's not the superpower that it once was. This is on a decline. That's why I said the superpowers. At this time you had Rome, you had Parthia that rose up, okay, at this time too. They became a superpower. So it was a world war.
 
 > Yet it was this world war that almost brought the Roman Empire to its knees and threatened to restore the primacy of those Afro-Asian and Oriental peoples smugly referred to as the upper barbarians by the Greeks and Romans. Truly a world war in scope, the second Zealot revolt encompassed five fronts: Egypt, Cyprus, Libya, Judea, and the Iran-Iraq region from Kurdistan to the Persian Gulf.
 >
@@ -870,11 +860,11 @@ Reading from *War of the Jews: A Military History from Biblical to Modern Times*
 >
 > And the Jews of the uprising were attempting to regain the glory of Solomon and the Hasmoneans.
 
-- Right. Now you got to see through Esau, man. They try to separate us. Now he's saying the enslaved blacks, and then he said, yeah, and the Jews also. No, we were the same people. Same people. But they try to separate us. But you just got to read between the lines. Read on.
+- Now you got to see through Esau, man. They try to separate us. Now he's saying the enslaved blacks, and then he said, yeah, and the Jews also. No, we were the same people. Same people. But they try to separate us. But you just got to read between the lines.
 
 > The independence and fighting spirit of diaspora Jews, who carefully followed events in Mesopotamia, widened the circle of insurrection against the Roman Empire.
 
-- So now this is about to be a world insurrection against the Roman Empire. Read.
+- So now this is about to be a world insurrection against the Roman Empire.
 
 > From 114 to 117 CE, before this global conflagration would end, a million people on each side would perish. The waters of the eastern Mediterranean, the Nile, the Tigris and the Euphrates were reddened with blood.
 >
@@ -886,7 +876,7 @@ Reading from *War of the Jews: A Military History from Biblical to Modern Times*
 
 > awaiting the growth of a new generation. These young men, nurtured by tales of the heroism of John of Gischala and Simon bar Giora,
 
-- You see that? Remember I said they were the descendants of those from the first Zealot war. So now this is a new generation, and you got the older men that was in the first Zealot war, during the destruction. They was instilling that spirit into them, to rise up, to revolt.
+- Remember I said they were the descendants of those from the first Zealot war. So now this is a new generation, and you got the older men that was in the first Zealot war, during the destruction. They was instilling that spirit into them, to rise up, to revolt.
 
 > awaited their moment for revenge in holy war. Like the ancient prophet Daniel, their elders charted a time when the stars in their courses above and the political constellations below would portend an auspicious signal for victory.
 
@@ -894,7 +884,7 @@ Reading from *War of the Jews: A Military History from Biblical to Modern Times*
 
 > No Jewish leader scanned the sky more eagerly than Julian the Alabarch of Alexandria. He was a descendant of Alexander, the famous Alabarch of the Jewish community of Egypt at the time of Julius Caesar. As Alabarch, his two-million-strong Jewish community led the Jewish world, exceeding in power and influence the less cohesive communities of Judea and Babylonia.
 
-- All right, drop that. Give me Graetz. Give me History of the Jews, Heinrich Graetz, page 393. I'm not going to have time, so we finish it up next... Lord's will, next show. 393. Yep, go down. Go down, let me see. Skip... next page. Yep. When he withdrew into his winter quarters in Antioch... hold on. Yeah, start with he fought bravely.
+- All right, drop that. Give me Graetz. Give me History of the Jews, Heinrich Graetz, page 393. I'm not going to have time, so we finish it up next... Lord's will, next show. 393. Yep, go down. Skip... next page. Yep. When he withdrew into his winter quarters in Antioch... hold on. Yeah, start with he fought bravely.
 
 </div>
 
@@ -932,11 +922,9 @@ Reading from *History of the Jews* by Heinrich Graetz, page 393 and following, o
 
 > one of whose names was perhaps of an allegorical nature.
 
-- Watch this.
-
 > The Egyptian Jews, who in former times had been loyal to the Romans, this time made common cause with the rebels, and conducted operations as in every other revolution. They first attacked the neighbouring towns, killed the Romans and Greeks,
 
-- So look, this is a war between us and Esau. Listen. Read it again.
+- So look, this is a war between us and Esau.
 
 > They first attacked the neighbouring towns, killed the Romans and Greeks, and avenged the destruction of their nationality on their nearest enemies. Encouraged by the result, they collected in troops and attacked the Roman army under the Roman general Lupus, who commanded the legions against the Jews. In the first encounter, the wild enthusiasm gave the Jews an advantage over the Romans, and Lupus was defeated.
 
@@ -960,8 +948,6 @@ Reading from *History of the Jews* by Heinrich Graetz, page 393 and following, o
 
 > The heathens who had taken flight after the defeat of the Roman army marched against Alexandria. The Jewish inhabitants who could bear arms and who had joined in the revolt were taken prisoners and killed at fearful tortures. The conquering Jewish troops felt themselves filled with the desire for revenge. In despair they invaded the Egyptian territories, imprisoned the inhabitants, and repaid cruelties with fresh cruelties.
 
-- Watch this.
-
 > The Greek and Roman fugitives took to their boats in order to escape pursuit on the bosom of the Nile, but armed Jews followed close behind them. The historian, at that time an official in Alexandria, sought safety by taking flight at night, and would have fallen into the hands of his Jewish pursuers had he not missed his way along the coast. The short description of his flight and his unexpected deliverance gives some idea of the terror excited by the Jewish populations who had suffered so long at the hands of their enemies.
 >
 > The Jews are said to have eaten the flesh of the captive Greeks and Romans, to have smeared themselves with their blood, and to have wrapped themselves in the skins torn off them.
@@ -970,11 +956,11 @@ Reading from *History of the Jews* by Heinrich Graetz, page 393 and following, o
 
 > These horrors are quite foreign to Jewish character and custom.
 
-- See, you see that? We don't... they made that up. We don't do that. That's what Esau does. Yeah, Esau do that. But watch this. This is what we did do to them. Read.
+- See, you see that? We don't... they made that up. We don't do that. That's what Esau does. Yeah, Esau do that. But watch this. This is what we did do to them.
 
 > But it is probably true that the Jews made the Romans and Greeks fight with wild animals or in arenas.
 
-- Just like they did us. We returned the favor. Read.
+- Just like they did us. We returned the favor.
 
 > This was a sad reprisal for the horrible drama to which Vespasian and Titus had condemned the captive Jews.
 
@@ -988,11 +974,11 @@ Reading from *History of the Jews* by Heinrich Graetz, page 393 and following, o
 
 ## In Closing
 
-*[[2:18:54](https://www.youtube.com/watch?v=Nb7cizqutwI&t=8334s)]* All right, so we're going to end it there. Hey, Israel, let's give it up for that class. I think it was amazing. All praise the Most High.
+*[[2:18:54](https://www.youtube.com/watch?v=Nb7cizqutwI&t=8334s)]* All right, so we're going to end it there. Hey, Israel, let's give it up for that class. I think it was amazing.
 
 *[[2:20:30](https://www.youtube.com/watch?v=Nb7cizqutwI&t=8430s)]* Hey, I want to give a shout out to... oh man, it started off with a bang. Yeah, it started off with a bang, right? But nonetheless. Definitely want to shout out also the sisters that made the breakfast. All praises for that thing. All right, 'cause some people are ungrateful for... yeah, right, right.
 
-*[[2:20:49](https://www.youtube.com/watch?v=Nb7cizqutwI&t=8449s)]* So next week, Lord's will, we going to go more in depth into the Cyrenian revolt. All right. The revolt, the insurrection. It was crazy. So Lord's will, we go more in depth. All right. And then, yeah, because we're going to switch gears from Echoes of Rome. We're going to switch gears. We're going to, Lord's will, go into the Arabs. The Arabs, the Arabs. We're going to deal with the Arabs. We're going to deal with Ishmael. All right? So Lord's will we get into that. Got to put some more information together, and then, Lord's will, we see how we deal with the Arabs. Okay? We deal with the Saharan slave trade, their origin, the Saharan slave trade, how they started conquering, where they at now. We're going to get into all of that. All right, so with that we say shalom. Shalom, Israel.
+*[[2:20:49](https://www.youtube.com/watch?v=Nb7cizqutwI&t=8449s)]* So next week, Lord's will, we going to go more in depth into the Cyrenian revolt. The revolt, the insurrection. It was crazy. So Lord's will, we go more in depth. And then, yeah, because we're going to switch gears from Echoes of Rome. We're going to switch gears. We're going to, Lord's will, go into the Arabs. The Arabs, the Arabs. We're going to deal with the Arabs. We're going to deal with Ishmael. So Lord's will we get into that. Got to put some more information together, and then, Lord's will, we see how we deal with the Arabs. We deal with the Saharan slave trade, their origin, the Saharan slave trade, how they started conquering, where they at now. We're going to get into all of that. All right, so with that we say shalom. Shalom, Israel.
 
 ## Announcements & References
 

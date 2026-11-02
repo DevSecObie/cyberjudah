@@ -18,11 +18,11 @@ tags: ["Our Hidden History", "captivity", "rome", "war"]
 
 ## Introduction
 
-*[[14:43](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=883s)]* Hey, shalom, shalom. Welcome back to Our Hidden History. You're now tuned in to Our Hidden History radio show. All praises.
+*[[14:43](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=883s)]* You're now tuned in to Our Hidden History radio show.
 
-*[[14:57](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=897s)]* First I'd like to give a shout out to the Bishop's class last night. All praises to the Most High, sir. The lamenting of our people. We pretty much going to touch on the lamenting of our people, and land back off of Bishop's class: how our people revolted during oppression throughout history. We still dealing with the revolt. It was called the Second Zealot War. That's what we're dealing with; we're still on the Second Zealot War, that happened during the time of Emperor Hadrian. I'm sorry, the time of Emperor Trajan, around 115 to 117 AD.
+*[[14:57](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=897s)]* The lamenting of our people. We pretty much going to touch on the lamenting of our people, and land back off of Bishop's class: how our people revolted during oppression throughout history. We still dealing with the revolt. It was called the Second Zealot War. That's what we're dealing with; we're still on the Second Zealot War, that happened during the time of Emperor Hadrian. I'm sorry, the time of Emperor Trajan, around 115 to 117 AD.
 
-*[[15:43](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=943s)]* So what you going to see throughout this history, this particular revolt, and throughout all history, is that we the same people doing the same thing. Remember the scripture say, is Israel a homeborn slave? Give me that scripture real quick. There's a book that Captain Joel had put up; it pretty much go into us being a homeborn slave. Matter of fact, I have something else too. Read that.
+*[[15:43](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=943s)]* So what you going to see throughout this history, this particular revolt, and throughout all history, is that we the same people doing the same thing. Remember the scripture say, is Israel a homeborn slave? Give me that scripture real quick. There's a book that Captain Joel had put up; it pretty much go into us being a homeborn slave. Matter of fact, I have something else too.
 
 ## Readings and Scriptures
 
@@ -30,7 +30,7 @@ tags: ["Our Hidden History", "captivity", "rome", "war"]
 
 > <sup>[14](/bible/jeremiah/2#v14)</sup> Is Israel a servant? is he a homeborn slave? why is he spoiled?
 
-- You see that? Is Israel a servant? Is he a homeborn slave? Why is Jeremiah saying that? Because we always in slavery. We always in captivity: Assyrian, Babylonian, Persian and Medes, Greece, Rome, today America. We stayed in slavery.
+- Is Israel a servant? Is he a homeborn slave? Why is Jeremiah saying that? Because we always in slavery. We always in captivity: Assyrian, Babylonian, Persian and Medes, Greece, Rome, today America. We stayed in slavery.
 
 - So is the Israelites a homeborn slave? Yes, we are. We've been in slavery from time immemorial. We only had the kingdom for how long? 80 years. We had the kingdom 80 years.
 
@@ -150,7 +150,7 @@ Reading from *Wars of the Jews: A Military History from Biblical to Modern Times
 
 > <sup>[2](/bible/jeremiah/44#v2)</sup> Thus saith the Lord of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,
 
-- Right. Why? Because we was always in Egypt. Give me Isaiah 19, I think it's 25.
+- Why? Because we was always in Egypt. Give me Isaiah 19, I think it's 25.
 
 **[Isaiah 19:25](/bible/isaiah/19#v25)**  *[[27:21](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1641s)]*
 
@@ -160,13 +160,13 @@ Reading from *Wars of the Jews: A Military History from Biblical to Modern Times
 
 - **Officer:** That point right there, what you was talking about. Read that again real quick, Isaiah 19:25, sir. Blessed be Egypt my people. So today even our people can't understand. All races can be saved, they say; he's putting a correlation there between Israel and the Egyptians. Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance. He talking about those outcasts that live amongst the Egyptians.
 
-- **Deacon Eythan:** Right, right. Give me Isaiah 11:11.
+- **Deacon Eythan:** Give me Isaiah 11:11.
 
 **[Isaiah 11:11](/bible/isaiah/11#v11)**  *[[28:30](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=1710s)]*
 
 > <sup>[11](/bible/isaiah/11#v11)</sup> And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 
-- To recover the remnant of his people. So shout out to those that's traveling and recovering the remnant of the Lord's people. I want to give a special shout out.
+- To recover the remnant of his people. I want to give a special shout out.
 
 - From where? From Assyria, and from Egypt, and from Pathros. I think Pathros, that's Lower Egypt. And from Elam, because why? We have the cities. We have the Israelites over in Elam, dwelling amongst the Elamites.
 
@@ -198,7 +198,7 @@ Reading from *Wars of the Jews*, continued · read by an officer  *[[30:28](http
 
 > The independence and fighting spirit of diaspora Jews, who carefully followed events in Mesopotamia, widened the circle of insurrection against the Roman Empire.
 
-- The fighting spirit and the independence of the diaspora Jews. Notice something: we wouldn't have rose up and rebel if we didn't know what the hell was going on on the other side. You understand? So we was watching, we was studying the times. We understood. We had our own intelligence and so forth to let us know what was happening. That's heavy.
+- The fighting spirit and the independence of the diaspora Jews. Notice something: we wouldn't have rose up and rebel if we didn't know what the hell was going on on the other side. So we was watching, we was studying the times. We understood. We had our own intelligence and so forth to let us know what was happening. That's heavy.
 
 - So we understood that Trajan, the emperor, was at war on the other side. So we knew this was it. This was the time to rebel. This was the time to revolt, to cause the insurrection. Why? Look, while Rome is being occupied over there, look, let's rise. This is the time to rise up.
 
@@ -258,7 +258,7 @@ Reading from *History of the Jews*, on the Jewish youth half a century after the
 
 - **Officer:** See that? The scripture says, the Lord is a man of war. Understand this in our spirit. We was never weak people, you know what I'm saying? The scripture says we are gods on the earth. Understand? So we are not a weak people. It's just right now we weak, because we break the laws of the Most High. So our strength is diminished because of our sins.
 
-- **Deacon Eythan:** Right. Get Psalms 144:1. Hey, Captain Joel said something heavy. It was on a reel. He was talking about the men of the scriptures, the great men, our forefathers in the scriptures: how you had the men that was noted in the Bible, like the Maccabees, that rose up. You had different men at various times that the Most High noted, that rose up. I'll give the Maccabees for example, their rebellion.
+- **Deacon Eythan:** Get Psalms 144:1. Hey, Captain Joel said something heavy. It was on a reel. He was talking about the men of the scriptures, the great men, our forefathers in the scriptures: how you had the men that was noted in the Bible, like the Maccabees, that rose up. You had different men at various times that the Most High noted, that rose up. I'll give the Maccabees for example, their rebellion.
 
 - But on the other side, remember, you had Hannibal. You had Spartacus, we going to touch on. You had other great men as well. But because they wasn't noted in the Bible, that doesn't mean they wasn't great men. They just wasn't keeping God's law; they was in evil. But they were still considered great men. For example, he brought up, you look at Malcolm X, you look at Marcus Garvey, you look at Fred Hampton and them. They were still great men, even though they didn't have the scriptures with them. For their time period, what they were doing, they were still considered great men. And because of that, they show love for their people.
 
@@ -268,13 +268,11 @@ Reading from *History of the Jews*, on the Jewish youth half a century after the
 
 - **Officer:** Because they was set up for a reason by the Lord. The work they was doing paved the way for us today, that we able to push out the truth today. If it wasn't for their sacrifice, we wouldn't have the freedom that we have today to gather our people for the real truth to come out. So they did play a big role in the Most High's program.
 
-- **Deacon Eythan:** Right. Read that.
-
 **[Romans 9:15](/bible/romans/9#v15)**  *[[39:32](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2372s)]*
 
 > <sup>[15](/bible/romans/9#v15)</sup> For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
 
-- Right. So those men, the Most High will have mercy on their spirit and their soul, and they still make it to the kingdom. You never know. So that's of the Lord. So you could never speak against the work that they did, because it was great works.
+- So those men, the Most High will have mercy on their spirit and their soul, and they still make it to the kingdom. You never know. So that's of the Lord. So you could never speak against the work that they did, because it was great works.
 
 - **Officer:** So at that time they was facing... they didn't have the laws that we have today. It was different. They could have just go outside and then just get lynched and killed. Today we have all these laws and affirmative action, so brothers really talking mess. But back then it was real. They really had guts to stand out in the face of all these adversities.
 
@@ -282,7 +280,7 @@ Reading from *History of the Jews*, on the Jewish youth half a century after the
 
 - **Officer:** That was all Judah.
 
-- **Deacon Eythan:** Oh, man. So shout out to Captain Joel for that statement. I was like, damn, that's heavy. Read that.
+- **Deacon Eythan:** Oh, man. I was like, damn, that's heavy.
 
 **[Psalms 144:1](/bible/psalms/144#v1)**  *[[40:57](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2457s)]*
 
@@ -292,7 +290,7 @@ Reading from *History of the Jews*, on the Jewish youth half a century after the
 
 - **Officer:** We should all carry that. Even just going out teaching the Bible, this is war. This is war as well. So we got to have that warrior spirit on us, man.
 
-- The room plays a sound bite: This is war. This is war. All praises.
+- The room plays a sound bite: This is war. This is war.
 
 - **Deacon Eythan:** Hey, go back to the page. It's all right. I know you got the deleter on the team. He calling the whole deleter, bro. Don't play that sound. Y'all crazy. Go back to the page, the deleter.
 
@@ -302,7 +300,7 @@ Reading from *Wars of the Jews*, continued · read by an officer  *[[41:58](http
 
 > The flame of Jewish resistance to Roman tyranny did not die out with the crushing of the first Zealot rebellion of 66 to 72 CE. It merely simmered, awaiting the growth of a new generation. These young men, nurtured by the tales of the heroism of John of Gischala and Simon bar Giora, awaited their moment for revenge and holy war. Like the ancient prophet Daniel, their elders charted a time when the stars in their courses above and the political constellations below would portend an auspicious signal for victory.
 
-- So what I'm going to show you is, you had noticed throughout history, this is what we was doing. We was always waiting for a signal. You understand? Looking into the heavens, into the skies, waiting for a signal to make our move. So you'll notice throughout different periods in history, when we was about to revolt, this is the sign that we waited for.
+- So what I'm going to show you is, you had noticed throughout history, this is what we was doing. We was always waiting for a signal. Looking into the heavens, into the skies, waiting for a signal to make our move. So you'll notice throughout different periods in history, when we was about to revolt, this is the sign that we waited for.
 
 - The stars in their courses above and the political constellations below. Where do we get that from? Give me... you know what I want. It's Issachar. I think that's 1 Chronicles 12:32.
 
@@ -314,9 +312,9 @@ Reading from *Wars of the Jews*, continued · read by an officer  *[[41:58](http
 
 - So Issachar understood the times. Understanding of the times, to know what Israel ought to do. They understood the times. So Issachar could read... When you look in the history with Issachar, they understood like the stars and how the stars move, the constellations, all that stuff. They understood all these things. So they understood the times.
 
-- Hey, remember, was it 2010 when they had a big thing about the Mayan calendar? People going crazy. See, they know about this. They trying to deceive the people, as something major, something big, was going to happen with that 2010 garbage. They had that movie. Hold on. Let's get Ezekiel 3 real quick. You got, officer? I'm looking for something.
+- Hey, remember, was it 2010 when they had a big thing about the Mayan calendar? People going crazy. See, they know about this. They trying to deceive the people, as something major, something big, was going to happen with that 2010 garbage. They had that movie. Let's get Ezekiel 3 real quick. You got, officer? I'm looking for something.
 
-- Right. Like the officer said, bringing out concerning us being rebellious, and always rebelling: we're like a freedom fighter. That's what we are. Because Christ was a freedom fighter. All our prophets was freedom fighters. Moses was a freedom fighter. You understand? So let's read that, Ezekiel 3:11.
+- Like the officer said, bringing out concerning us being rebellious, and always rebelling: we're like a freedom fighter. That's what we are. Because Christ was a freedom fighter. All our prophets was freedom fighters. Moses was a freedom fighter. So let's read that, Ezekiel 3:11.
 
 **[Ezekiel 3:11](/bible/ezekiel/3#v11)**  *[[45:18](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=2718s)]*
 
@@ -352,7 +350,7 @@ Reading from *Wars of the Jews*, continued · read by an officer  *[[41:58](http
 
 - See that? The oil of joy for mourning. Our people are mourning. There's no joy out there. The churches is not being joyful, just making noise. And then as soon as they left the church, go right back to captivity. You got to do your 60 hours again. And then you got the damn pastor robbing you, stealing your damn money, not teaching you anything.
 
-- That they might be called the trees of righteousness. We was created to be righteous. We are created the trees of righteousness, so we could get back to our old glory. The planting of the Lord, that he might be glorified. So the Lord is going to be glorified in us. We got to glorify the name of the Lord. So you warriors out there, you brothers, man, and sisters: it's time to repent. It's time to wake up. Come on, let's go.
+- That they might be called the trees of righteousness. We was created to be righteous. We are created the trees of righteousness, so we could get back to our old glory. The planting of the Lord, that he might be glorified. So the Lord is going to be glorified in us. We got to glorify the name of the Lord. So you warriors out there, you brothers, man, and sisters: it's time to repent. It's time to wake up.
 
 - Hey, give me Zechariah 9:12, just to land back off the officer.
 
@@ -374,7 +372,7 @@ Reading from *Wars of the Jews*, continued · read by an officer  *[[41:58](http
 
 - **Officer:** You know how they banished John the Revelator? They took him to the island of Patmos. America is a big island of banishment. That's what America is, just to sum it up.
 
-- **Deacon Eythan:** I think John the Baptist had it better than us. Oh, John the Revelator, I mean. I'm sorry. I think he had it better than us. He had nobody oppressing him. He was just seeing visions and everything. Man, we oppressed, suppressed. Damn, everything, man. Can't get a break.
+- **Deacon Eythan:** I think John the Baptist had it better than us. Oh, John the Revelator, I mean. I think he had it better than us. He had nobody oppressing him. He was just seeing visions and everything. Man, we oppressed, suppressed. Damn, everything, man. Can't get a break.
 
 - **Officer:** But yeah, if you really want to look at America for what it is, it's banishment. It's an island for banishment. Deportation. This is not your rest. Micah 2:10.
 
@@ -382,11 +380,11 @@ Reading from *Wars of the Jews*, continued · read by an officer  *[[41:58](http
 
 > <sup>[10](/bible/micah/2#v10)</sup> Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.
 
-- **Officer:** You see that? The scripture says arise ye and depart. Wake up, rise yourself up, and depart from the way of this country of America, of this wicked oppression, evil system. See that? This is not our rest. You got people planning the 401k retirement and all that stuff: I want to work for 55 years, 60 years, and maybe I get a gold watch for good service. And go to the military and fight for your oppressor, killing your own people for your oppressor, hoping that you going to get, what's that thing? A pension. You understand? The Lord said this is not our rest.
+- **Officer:** The scripture says arise ye and depart. Wake up, rise yourself up, and depart from the way of this country of America, of this wicked oppression, evil system. See that? This is not our rest. You got people planning the 401k retirement and all that stuff: I want to work for 55 years, 60 years, and maybe I get a gold watch for good service. And go to the military and fight for your oppressor, killing your own people for your oppressor, hoping that you going to get, what's that thing? A pension. The Lord said this is not our rest.
 
 - **Officer:** We was brought here in slavery as punishment. Like the officer was saying, this is a big prison house. And the white man is nothing but a CEO, a correction officer. That's what he is. He's a warden in the freaking jail cell. The ones of us that's out, we just like in the minimum security prison. The one that's locked up is in maximum security. That's all it is. So the Lord say wake up. This is not your rest.
 
-- **Deacon Eythan:** Hey, the richest of our people, they in PC, what they call it. They're the ones with the nice privilege. They got Esau surrounding them, a TV. They're the ones with the commissary benefits. Remember Martha Stewart had that type of jail cell like that, right? Couches and all that stuff. Comfortable. The rest of us, man, they doing hard time. What's the little box they put people in? You understand? That's what it is.
+- **Deacon Eythan:** Hey, the richest of our people, they in PC, what they call it. They're the ones with the nice privilege. They got Esau surrounding them, a TV. They're the ones with the commissary benefits. Remember Martha Stewart had that type of jail cell like that, right? Couches and all that stuff. Comfortable. The rest of us, man, they doing hard time. What's the little box they put people in? That's what it is.
 
 - **Officer:** We like the prisoners that do, what they call it, the work program. The ones of us that's locked up in prison. That's all it is. Ain't no difference.
 
@@ -400,11 +398,11 @@ Reading from *Wars of the Jews*, continued · read by an officer  *[[41:58](http
 
 - **Officer:** Yes, sir. Us being cooped up in the projects, man. Being cooped up in some of these... Even a regular building, man, it's like you're on top of each other.
 
-- **Deacon Eythan:** Yes. That's my point. We on top of each other, man. And hey, that was all a design. You could look it up: the Skinner project. That was all design. Put it up. You see the gates around the community? That's not even a community, I'm sorry. That's a prison. That's solitary confinement right there. Our people, when we confined like this, we go crazy. Killing each other, destroying each other.
+- **Deacon Eythan:** Yes. That's my point. We on top of each other, man. And hey, that was all a design. You could look it up: the Skinner project. That was all design. You see the gates around the community? That's not even a community, I'm sorry. That's a prison. That's solitary confinement right there. Our people, when we confined like this, we go crazy. Killing each other, destroying each other.
 
 - **Officer:** Hey, you know what happened the other day? I was driving by one of those kindergartens, probably grade school. And they have recess, and they have the kids play in the yard. And I'm driving by, and there's a gate, a big iron gate, in their yard, with a basketball court. And I'm looking at this like, oh, shoot. They already training them to be behind the gate, playing in the yard with a basketball. Same way as when you watch the movies with the prisoners going out there.
 
-- **Officer:** Then I drive by a white establishment: them kids are playing in the grass. Free. There's no iron around them. Trees and flowers and everything. I was like, damn. I felt bad. I should have took a picture of it. But that resonated in my mind: this is how our children is being trained from a youth up. School-to-prison pipeline. You understand? For them to be comfortable behind a damn gate.
+- **Officer:** Then I drive by a white establishment: them kids are playing in the grass. Free. There's no iron around them. Trees and flowers and everything. I was like, damn. I felt bad. I should have took a picture of it. But that resonated in my mind: this is how our children is being trained from a youth up. School-to-prison pipeline. For them to be comfortable behind a damn gate.
 
 - **Deacon Eythan:** Damn. Confined, man. Nowhere to go.
 
@@ -426,19 +424,19 @@ Reading from *Wars of the Jews*, continued · read by an officer  *[[41:58](http
 
 > <sup>[16](/bible/psalms/94#v16)</sup> Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
 
-- **Officer:** That's the question that I was asking: which one of you men is going to rise up for me against the evildoers? You understand? See that? So that's the question. We got to stand up and bring out this truth, to bring this evil kingdom down.
+- **Officer:** That's the question that I was asking: which one of you men is going to rise up for me against the evildoers? See that? So that's the question. We got to stand up and bring out this truth, to bring this evil kingdom down.
 
 > <sup>[17](/bible/psalms/94#v17)</sup> Unless the Lord had been my help, my soul had almost dwelt in silence.
 
 - **Officer:** Bro, if it wasn't for the Lord, bro, we finished. This man did a job on us, man. There's no way of coming out. That's why the scripture says he think in his mind his house is going to go forever. Because he know what he did to us, man. Destroyed us from the toe up. We was tore up from the floor up. So this man did a job on us, man. There's no way coming out. It had to be by a divine intervention. If it wasn't for the Lord that had mercy upon us, we finished, man. No way we would ever come back from this.
 
-- **Deacon Eythan:** Hey, that's Willie Lynch. Remember he said, except a phenomenon happens. This is their condition, except a phenomenon. So you looking at the phenomenon now. All praises to the Most High. Read the next verse.
+- **Deacon Eythan:** Hey, that's Willie Lynch. Remember he said, except a phenomenon happens. This is their condition, except a phenomenon. So you looking at the phenomenon now. Read the next verse.
 
 > <sup>[18](/bible/psalms/94#v18)</sup> When I said, My foot slippeth; thy mercy, O Lord, held me up.
 
 - **Officer:** See that? The Lord's mercy held us up. If it wasn't for the Most High had mercy, man, we finished.
 
-- **Deacon Eythan:** Y'all can take that down. Go back to the page. Thank you, officer. We appreciate you, officer.
+- **Deacon Eythan:** Y'all can take that down. Go back to the page. We appreciate you, officer.
 
 <div class="reading">
 
@@ -446,11 +444,11 @@ Reading from *Wars of the Jews*, continued, on Trajan's Parthian campaign and th
 
 > Like the ancient prophet Daniel, their elders charted a time when the stars in their courses above and the political constellations below would portend an auspicious signal for victory.
 
-- Next page. We're not going to go through all these pages. Go down, go down. Right, next page.
+- We're not going to go through all these pages.
 
 > Trajan was now determined to conquer Parthia, but at first he veiled his designs under a cloak of pretended moderation. He declared that he only wanted a say in selecting the new king of Armenia. Chosroes, the new Parthian emperor, had insulted Rome by dealing with Armenia as though its government were a Parthian and not a Roman affair. Trajan said that he would go to Armenia to reestablish Roman influence. The autumn of 114 CE saw him arrive at Antioch with a large army of troops who had just completed the conquest of Pannonia, Hungary. In the spring of 115 CE
 
-- Jump down. Next page, next page. Yeah, the sudden revolt. Whoa, whoa, go back. I'm sorry, go back. Start at the bottom.
+- Jump down. Yeah, the sudden revolt. Whoa, whoa, go back. I'm sorry, go back. Start at the bottom.
 
 > The Roman senate had just awarded Trajan the titles of Armeniacus and Parthicus, but now these laurels chafed at his head like a crown of thorns. Not only were Mesopotamia and Assyria aflame, but the Jews of the empire itself, in Judea, Egypt, Libya and Cyprus,
 
@@ -498,7 +496,7 @@ Reading from *Wars of the Jews*, continued, on Trajan's Parthian campaign and th
 
 > <sup>[16](/bible/2-samuel/23#v16)</sup> And the three mighty men brake through the host of the Philistines, and drew water out of the well of Beth–lehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the Lord.
 
-- **Officer:** Three men. Hold up, hold up. Read that again. And the three mighty men brake through the host of the Philistines. The host of the Philistines: that's a military, a garrison. Three men broke through. Let's see what they did. Broke through the host of the Philistines and drew water out of the well of Bethlehem.
+- **Officer:** Three men. And the three mighty men brake through the host of the Philistines. The host of the Philistines: that's a military, a garrison. Three men broke through. Let's see what they did. Broke through the host of the Philistines and drew water out of the well of Bethlehem.
 
 - **Deacon Eythan:** Damn.
 
@@ -508,9 +506,9 @@ Reading from *Wars of the Jews*, continued, on Trajan's Parthian campaign and th
 
 - **Officer:** Imagine that, man. Three men broke through a garrison of the Philistines. Those was not little men either. These are the same Philistines that King David killed. The giant.
 
-- Banter in the room: Yo, why you looking at him for? Why you looking at my man? Read it, sir. I was reading the Bible. What you looking at? Just look at the Bible. That's messed up, man. Come on, man.
+- Banter in the room: Yo, why you looking at him for? Why you looking at my man? Read it, sir. I was reading the Bible. What you looking at? Just look at the Bible. That's messed up, man.
 
-- **Officer:** Like I was saying, man: three mighty men broke through a garrison of men, men of war, you understand, just to draw a cup of water for King David. That's power. That's fighting skills. You understand?
+- **Officer:** Like I was saying, man: three mighty men broke through a garrison of men, men of war, you understand, just to draw a cup of water for King David. That's power. That's fighting skills.
 
 > <sup>[18](/bible/2-samuel/23#v18)</sup> And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three.
 
@@ -540,7 +538,7 @@ Reading from *Wars of the Jews*, continued, on Trajan's Parthian campaign and th
 
 - **Officer:** He did what? And he slew an Egyptian. Everybody going to get it. Everybody going to get it. This is martial right here.
 
-- **Officer:** So the Chinese, they invent karate or all that thing, but martial art, you know what I'm saying, they stole that thing from us, bro. So he said, yo, you ain't got no skill. Let me show you skill. Took his spear from him, and plucked the spear out of the Egyptian's hand, and slew him with his own spear. That's the bomb, bro. Come on, man. Let's go, man. Wake up, man. Come on, man. Damn, that's power right there.
+- **Officer:** So the Chinese, they invent karate or all that thing, but martial art, you know what I'm saying, they stole that thing from us, bro. So he said, yo, you ain't got no skill. Let me show you skill. Took his spear from him, and plucked the spear out of the Egyptian's hand, and slew him with his own spear. That's the bomb, bro. Let's go, man. Wake up, man. Damn, that's power right there.
 
 - **Deacon Eythan:** That's it. That's it. You ready over there?
 
@@ -552,7 +550,7 @@ Reading from *Wars of the Jews*, continued, on Trajan's Parthian campaign and th
 
 *[[1:28:40](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=5320s)]* Hey, welcome back, man. Welcome back. Hey, like I said, you can call us or you can text us. Hey, let's get back into it, man. Let's get back into it. So remember, we going over the revolt called the Kitos War, the Second Zealot War, which was from 115 to 117 AD. We almost took out, we almost annihilated, the whole Roman Empire.
 
-*[[1:29:30](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=5370s)]* So watch this. What we was going into was Lucius Quietus. They say he was a Moor. He was a brother. He was a …. He was a … that was fighting in the Roman army. So we just want to go through some history of us: how they always used us in their armies, in our captivities. Watch this. Give me the other book first: the Jewish encyclopedia. Give me the next page. Watch this. Blow that up. Underlined: read sports.
+*[[1:29:30](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=5370s)]* So watch this. What we was going into was Lucius Quietus. They say he was a Moor. He was a brother. He was a …. He was a … that was fighting in the Roman army. So we just want to go through some history of us: how they always used us in their armies, in our captivities. Give me the other book first: the Jewish encyclopedia. Blow that up. Underlined: read sports.
 
 <div class="reading">
 
@@ -560,7 +558,7 @@ Reading from a Jewish encyclopedia, under Sports · read by an officer  *[[1:30:
 
 > Sports. Jewish athletes have contributed their share to the history of sports all over the world, and have added to the legends of boxing, baseball, track and field, swimming, football, chess and scores of other major and minor sports.
 
-- Watch this. Now we dealing with ancient Israel. The top part is talking about modern; this is ancient Israel, dealing with us. Watch this.
+- Now we dealing with ancient Israel. The top part is talking about modern; this is ancient Israel, dealing with us.
 
 > In ancient Israel, Jews did not show the kind of passion for sports which the ancient Greeks and Romans did,
 
@@ -572,7 +570,7 @@ Reading from a Jewish encyclopedia, under Sports · read by an officer  *[[1:30:
 
 - Mainly associated with martial art. Now we know during the Greek captivity, the Levite Jason brought us to the Greekish fashion. Brought us into the Greekish fashion, to the point that we left our laws, man.
 
-- Hey, from there, man, drop that. Give me the next page. It's all good. Give me the book *The Israelites* real quick. Go back so the people can see the book. So this is the book called *The Israelites*. The leadership, the bishop, brought this book out numerous times. He brought it out definitely on the Shout Out Tuesdays and so forth. So this book is by Time-Life, *The Israelites*. Next page. I just want to get straight to the point. Right here. Read that top part.
+- Hey, from there, man, drop that. It's all good. Give me the book *The Israelites* real quick. Go back so the people can see the book. So this is the book called *The Israelites*. The leadership, the bishop, brought this book out numerous times. He brought it out definitely on the Shout Out Tuesdays and so forth. So this book is by Time-Life, *The Israelites*. I just want to get straight to the point. Read that top part.
 
 </div>
 
@@ -582,7 +580,7 @@ Reading from *The Israelites* by Time-Life, under the heading Masters of the Mar
 
 > Masters of the martial arts.
 
-- Masters of the martial arts. Go down, go down. Let's get, right here, where it says these two figures.
+- Masters of the martial arts. Let's get, right here, where it says these two figures.
 
 > These two figures, an archer and a spearman, represent captives from Judah
 
@@ -590,9 +588,9 @@ Reading from *The Israelites* by Time-Life, under the heading Masters of the Mar
 
 > who were impressed into service as bodyguards to the Assyrian king after the capture of Lachish in 701 BC.
 
-- You see that? So we was always next to them as bodyguards. They kept us close. They kept us close, because we was masters of the martial arts.
+- So we was always next to them as bodyguards. They kept us close. They kept us close, because we was masters of the martial arts.
 
-- Right. Now to back that up, and then we going to get Zerubbabel, give me the next book. I don't think I sent y'all the title of that book. No, not that one, the one before. That one right there. Read the bottom part, the footnote. This book right here is called *Historic Sketches of the South*. This book, 1800, white eyes only. Read that.
+- Now to back that up, and then we going to get Zerubbabel, give me the next book. I don't think I sent y'all the title of that book. No, not that one, the one before. That one right there. Read the bottom part, the footnote. This book right here is called *Historic Sketches of the South*. This book, 1800, white eyes only.
 
 </div>
 
@@ -602,7 +600,7 @@ Reading from *Historic Sketches of the South*, from 1800, a footnote on the feat
 
 > Their features are recorded by their ancient enemies,
 
-- Go up, so you know who he talking about. So it's talking about us. Go down, go down. So it's just like the book, the *Literary Messenger*, that we read the first time: we always slaves. Y'all remember that book? So this is land backing off of that book.
+- Go up, so you know who he talking about. So it's talking about us. So it's just like the book, the *Literary Messenger*, that we read the first time: we always slaves. Y'all remember that book? So this is land backing off of that book.
 
 > never by themselves:
 
@@ -698,7 +696,7 @@ Reading from *Historic Sketches of the South*, from 1800, a footnote on the feat
 >
 > <sup>[15](/bible/1-esdras/4#v15)</sup> Women have borne the king and all the people that bear rule by sea and land.
 
-- Right. Now give me Luke 3:14. What I'm showing you now is that we was always... Remember, we dealing with Lucius Quietus. So I'm showing you we was always in the armies of the other nations, and we was always their top. We wasn't no pawns or nothing in the army. We was next to the king, like the general, the second in command, the bodyguards.
+- Now give me Luke 3:14. What I'm showing you now is that we was always... Remember, we dealing with Lucius Quietus. So I'm showing you we was always in the armies of the other nations, and we was always their top. We wasn't no pawns or nothing in the army. We was next to the king, like the general, the second in command, the bodyguards.
 
 **[Luke 3:14](/bible/luke/3#v14)**  *[[1:43:27](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=6207s)]*
 
@@ -722,7 +720,7 @@ Reading from *Historic Sketches of the South*, from 1800, a footnote on the feat
 
 - So Cornelius was an Israelite, of the northern kingdom. It was just he was in the Roman army, just like you got those of us that's in America's army. From there, give me *History of the Jews*. And then we going to get back into different men that revolted throughout history, because this ain't the only revolt. This was a major revolt that was recorded, but this wasn't the only revolt.
 
-- Go to the Telegram, all the way at the bottom. Go down. Go up, go up. Come on, man, I thought I sent that to y'all. Y'all should have it anyway. Go to page 140 or 141. 141. Read that. Go down. Don't move. Go up, go up, go up. Right there.
+- Come on, man, I thought I sent that to y'all. Y'all should have it anyway. Go to page 140 or 141. 141. Don't move. Right there.
 
 <div class="reading">
 
@@ -732,7 +730,7 @@ Reading from *History of the Jews*, page 141, on the Jews of the diaspora as sol
 
 > There was a time when the Jews were famed for their fighting qualities,
 
-- Wait, read that again. So there was a time in history when we was famous for our fighting qualities, our fighting skills.
+- So there was a time in history when we was famous for our fighting qualities, our fighting skills.
 
 > and were hired as soldiers in various armies.
 
@@ -750,7 +748,7 @@ Reading from *History of the Jews*, page 141, on the Jews of the diaspora as sol
 
 - So we was still fighting for the Persian military, centuries after.
 
-- From there, go to the Telegram now. I forgot what book this is. Let's deal with Spartacus. We're going to deal with Spartacus. Click on that, Spartacus. And you had another slave that rebelled, named Eunus. So we're going to deal with Spartacus and Eunus. Blow that up. Read that, just to highlight it.
+- I forgot what book this is. Let's deal with Spartacus. We're going to deal with Spartacus. Click on that, Spartacus. And you had another slave that rebelled, named Eunus. So we're going to deal with Spartacus and Eunus. Blow that up. Read that, just to highlight it.
 
 </div>
 
@@ -764,7 +762,7 @@ Reading from a history of Rome (the title was not given), on Spartacus · read b
 
 > Spartacus was a Thracian by birth, and had been compelled, like other barbarians, to serve in the Roman army,
 
-- So wait. Read that again. Watch this: Spartacus was proving our point. Spartacus was a Thracian by birth. So he was an Israelite. I'll prove that.
+- So wait. Watch this: Spartacus was proving our point. Spartacus was a Thracian by birth. So he was an Israelite. I'll prove that.
 
 - So they always forced us in their armies. When they took us captive, they forced the more skilled amongst us and put us in the army as like bodyguards and so forth.
 
@@ -778,9 +776,9 @@ Reading from a history of Rome (the title was not given), on Spartacus · read b
 
 > He was placed in a gladiatorial school at Capua, with 200 other Thracian, German and Gaulish slaves, among whom a conspiracy was formed for effecting their escape. By the courage and skill of Spartacus several considerable battles were gained, but his authority was insufficient to restrain the ferocity of his followers, and the cities of the south of Italy were pillaged with the most revolting atrocities.
 
-- Right. So this happened, like I said, 73 BC, with Spartacus. Y'all seen the series, *Spartacus*, and so forth, even though the nonsense they got in there. But hey, Spartacus was one of those great men that rose up during this time period. He was noted, but like I said, they wasn't noted in the scriptures, because why? They wasn't keeping God's laws.
+- So this happened, like I said, 73 BC, with Spartacus. Y'all seen the series, *Spartacus*, and so forth, even though the nonsense they got in there. But hey, Spartacus was one of those great men that rose up during this time period. He was noted, but like I said, they wasn't noted in the scriptures, because why? They wasn't keeping God's laws.
 
-- Now, to prove that Spartacus was an Israelite, pull that page up from the Telegram. Scythians, Goths. Pull that up.
+- Now, to prove that Spartacus was an Israelite, pull that page up from the Telegram. Scythians, Goths.
 
 </div>
 
@@ -850,11 +848,9 @@ Reading from the same history of Rome, on the servile wars in Sicily and Eunus �
 
 - **Officer:** And you know they killed him. That's what it's saying right there. That's the same way they revolted against the French military, with exactly the same. Because remember, they was slaves on farms. So they used the weapons that they had.
 
-- **Deacon Eythan:** Read that part.
-
 > Long after it had become the custom to employ large gangs of slaves in the cultivation of the land, the number of those who served as personal attendants was very small.
 
-- Right. So this is slavery in the Republic of Rome. In the Republic, before it became the empire. It was the empire too, but remember, it started during the Republic.
+- So this is slavery in the Republic of Rome. In the Republic, before it became the empire. It was the empire too, but remember, it started during the Republic.
 
 - **Officer:** It's in our spirit. It's in our spirit to revolt. Yeah. We know we ain't supposed to be captives. Kings and priests.
 
@@ -862,11 +858,11 @@ Reading from the same history of Rome, on the servile wars in Sicily and Eunus �
 
 - **Officer:** Nèg. You say that: the E is silent. That's French.
 
-- **Deacon Eythan:** Oh, my bad. So the E is silent. That's French. Just take the E out and put the O, you got Negro. Negro Maroon. All right, all right.
+- **Deacon Eythan:** So the E is silent. That's French. Just take the E out and put the O, you got Negro. Negro Maroon.
 
 - **Officer:** There's a statue in Haiti with the same thing as that picture.
 
-- **Deacon Eythan:** This is on the island of Dominica. Go back to the title, man. Right there: *The Fighting Maroons of Dominica*. Go to the first page. Come on. Right there.
+- **Deacon Eythan:** This is on the island of Dominica. Go back to the title, man. Right there: *The Fighting Maroons of Dominica*. Go to the first page. Right there.
 
 </div>
 
@@ -880,25 +876,25 @@ Reading from *The Fighting Maroons of Dominica*, "A Lasting Memorial", the speec
 
 - **Officer:** Yes. Yeah, yeah.
 
-- **Deacon Eythan:** Pull that up too, man. Go ahead.
+- **Deacon Eythan:** Pull that up too, man.
 
 > Your Excellency the President and Mrs. Williams, acting Prime Minister, Honorable Ambrose George, Minister of Culture, Youth and Sports, Honorable Justina Charles, other members of cabinet and the House of Assembly, Mayor of Roseau,
 
-- You can skip all that. Next page. Briefly.
+- You can skip all that. Briefly.
 
 > Briefly, Dominica was the last island in the Caribbean to be colonized. Its rugged mountainous nature enabled it to be one of the last places of refuge. When the British took over the island in 1763, there were already over 300 Maroons living in small settlements in the interior. As British and French planters opened up more land for sugar and coffee and imported more enslaved labor, so did the maroon numbers increase. Plantations and villages clung to the coast, but inland there was a vast jumble of forested ravines, cliffs and river valleys that combined to create a complex natural maze, which confounded the British forces who had attempted to reduce the Maroons by any means possible.
 
-- Right. Read that caption right there.
+- Read that caption right there.
 
 > The emancipation Neg Maron statue on Victoria Street, Roseau, unveiled on August 1st, 2013.
 
 - That's a statue right there. He was a maroon that rebelled.
 
-- **Officer:** Hold up. Let me send you something, man. I'm going to send you a picture.
+- **Officer:** Let me send you something, man. I'm going to send you a picture.
 
 - **Deacon Eythan:** Hey, while he's doing that: remember you had others. You had Gaspar Yanga. Gaspar Yanga was from near Equatorial Guinea, Cameroon, or over there; in the area like Angola. That's where Gaspar Yanga was from. He was another one that rebelled. You get that?
 
-- **Officer:** This the one. Wow, look at this. Right there. Go up. You see the sword in his hand? Machete. That's in Haiti. So they all got the similar trait.
+- **Officer:** This the one. Wow, look at this. Right there. You see the sword in his hand? Machete. That's in Haiti. So they all got the similar trait.
 
 - **Deacon Eythan:** Similar spirit. Similar spirit.
 
@@ -910,13 +906,11 @@ Reading from *The Fighting Maroons of Dominica*, "A Lasting Memorial", the speec
 
 - **Officer:** That's what that was. The call of the conch shell. That's what he's holding right there.
 
-- **Deacon Eythan:** Oh, right. Okay.
-
 - **Officer:** That's what I was saying: they didn't have the horn. So that's what they used for a horn. And when you blow that thing, it sound just like a horn. They still do it. They still practice it. But where we get it from? It was in our spirit.
 
 - **Deacon Eythan:** Remember when we read with the revolt in Egypt, Cyprus, Libya, Judea: we all was on one accord. We all came together in unity. How you think we did that? Maybe we had a shofar at this time, blowing it.
 
-- **Officer:** Hey, remember in Numbers, when the Most High give us the trumpets: one sound to gather the people, and a different sound for the left flank and the right flank. You understand? That's the same thing he's saying right here. They was calling each other by different sounds, from one leader to the next leader, sending messages.
+- **Officer:** Hey, remember in Numbers, when the Most High give us the trumpets: one sound to gather the people, and a different sound for the left flank and the right flank. That's the same thing he's saying right here. They was calling each other by different sounds, from one leader to the next leader, sending messages.
 
 > The name maroon had come from the Spanish word cimarrón, meaning fugitive, runaway, living on mountaintops,
 
@@ -926,7 +920,7 @@ Reading from *The Fighting Maroons of Dominica*, "A Lasting Memorial", the speec
 
 > For the French Creoles it became nègre marron, for in those days the word nègre did not merely mean black man or Negro. It also referred to a slave.
 
-- Right. So they knew we black, so they just called us so. Negro also refers to a slave. Like, look: he black, he a nègre, he a Negro, he a slave.
+- So they knew we black, so they just called us so. Negro also refers to a slave. Like, look: he black, he a nègre, he a Negro, he a slave.
 
 > This memorial that we are about to unveil recalls the Neg Maron chiefs, such as Bala, Congo Ray,
 
@@ -950,7 +944,7 @@ Reading from *The Fighting Maroons of Dominica*, "A Lasting Memorial", the speec
 
 > and hundreds of other unrecorded names, who from the 1760s through to the first stage of emancipation in 1834 held out against the plantation forces that were pitted against them. It is significant that most of the senior chiefs had actually been born in Africa,
 
-- Hold on. So he says it is significant that most of the senior chiefs of these rebellions, of these revolts, were born in Africa. Now he's saying something there.
+- So he says it is significant that most of the senior chiefs of these rebellions, of these revolts, were born in Africa. Now he's saying something there.
 
 > for unlike the Creole, Dominican-born slaves, these Africans had once lived in and experienced a society other than the plantation society.
 
@@ -958,11 +952,11 @@ Reading from *The Fighting Maroons of Dominica*, "A Lasting Memorial", the speec
 
 - **Officer:** Hey, listen. Like in Haiti, a little off topic: the capital, named Port-au-Prince in French, but in English it's port of prince. Port meaning this is where the docking was, at the port that was bringing out the princes.
 
-- **Deacon Eythan:** Oh, snap. Oh, come on, man. You going to drop something like that right now?
+- **Deacon Eythan:** Oh, snap. You going to drop something like that right now?
 
 - **Officer:** That's what I'm saying. They knew that there was princes. They knew what they was bringing over.
 
-- **Deacon Eythan:** Wow. All right, that was bad. That was bad. Let me get another bomb on that one, man. Hey, keep reading, keep reading, keep reading.
+- **Deacon Eythan:** All right, that was bad. That was bad. Let me get another bomb on that one, man. Hey, keep reading, keep reading, keep reading.
 
 > They knew that an alternative system could exist, and they had no difficulty imagining that it could be recreated here on the other side of the Atlantic.
 
@@ -978,7 +972,7 @@ Reading from *The Fighting Maroons of Dominica*, "A Lasting Memorial", the speec
 
 - **Officer:** And that's Benjamin: always talk about Zion and Babylon in their song.
 
-- **Deacon Eythan:** Yep, yep, yep. There it is. Read that part, and then we going to get that Cudjoe that you got, and then we going to get ready to end the show.
+- **Deacon Eythan:** Yep, yep, yep. Read that part, and then we going to get that Cudjoe that you got, and then we going to get ready to end the show.
 
 > Just down the hill, in the harbor below us, anchored the slave ships that had completed the treacherous Middle Passage across the Atlantic Ocean from the coast of West Africa. There on that coast, renegade chiefs, not unlike the heartless drug lords and cocaine dealers of today, had connived with European traders to engage in human trafficking, in return for the equivalent of bling and ill-gotten gain.
 
@@ -1014,7 +1008,7 @@ Reading from *The Fighting Maroons of Dominica*, "A Lasting Memorial", the speec
 
 - **Officer:** See that? So there was different sounds. So they understood that, and that's how they was able to be successful in their uprising against the oppressors. It's the same spirit.
 
-- **Deacon Eythan:** Right. Hey, read that about Cudjoe.
+- **Deacon Eythan:** Hey, read that about Cudjoe.
 
 <div class="reading">
 
@@ -1022,15 +1016,11 @@ Reading from a page on Cudjoe, the maroon leader in Jamaica · read by an office
 
 > Cudjoe, 1660s to 1764, sometimes spelled Kojo, was a maroon leader in Jamaica during the time of Nanny of the Maroons. Kojo is the name given to a boy born on a Monday. He has been described as the greatest of the maroon leaders. The Jamaican Maroons are descended from Africans who conquered enslavers and established communities of free black people in Jamaica,
 
-- Go ahead.
-
 > in the mountains of the colony of Jamaica during the era of slavery on the island. Enslaved Africans imported during the Spanish period may have provided the first self-liberated Africans, runaways, apparently mixing with the Native American Taíno or Arawak
-
-- Okay. Go ahead.
 
 > people that remained in the country. Some may have gained liberty when the English attacked Jamaica and took it in 1655, and subsequently. Cudjoe was the leader of a community of self-liberated Africans known as Cudjoe's Town for nearly a century, until the 1739 and 1740 peace treaties with the British rulers of the island. The Maroons victoriously resisted conquest.
 
-- Give me the origin of Cudjoe, real quick. Real quick, real quick.
+- Give me the origin of Cudjoe, real quick.
 
 > Enslaved Africans in western Jamaica ran away into the Cockpit Country and established the first community of Leeward Maroons in the mountainous interior of the island. The self-liberated Africans were called Maroons, after the Spanish word cimarrón, meaning runaway slave. The Leeward Maroons most likely emerged in 1690, when there was a rebellion on Sutton's estate in western Jamaica,
 
@@ -1040,7 +1030,7 @@ Reading from a page on Cudjoe, the maroon leader in Jamaica · read by an office
 
 - That's it. And you know Esau tried to mock us. Now they made the movie called *Cujo*, about the dog. That came out way back, like early 80s. That's them mocking us. Cujo: they call the dog Cujo. So they mocking us.
 
-- Let's get one more. One more, one more. On the Telegram also. This just got sent, at the bottom. Read that real quick. Dominican Black History. So this is Dominican. Go ahead.
+- Let's get one more. One more, one more. This just got sent, at the bottom. Dominican Black History. So this is Dominican.
 
 </div>
 
@@ -1074,19 +1064,19 @@ Reading from a post from Dominican Black History, on the anti-slavery rebel lead
 
 - **Officer:** Hey, they still saying it. They don't give a damn about him. The statue right in their face; they see it every day.
 
-- **Deacon Eythan:** Oh, man, that's crazy, man. Damn. That's your freedom fighter, but then you say, me no negro. Wow.
+- **Deacon Eythan:** Oh, man, that's crazy, man. Damn. That's your freedom fighter, but then you say, me no negro.
 
 </div>
 
 ## In Closing
 
-*[[2:17:53](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8273s)]* Hey, but we going to end it right there. Hey, we get into Nat Turner next show, Lord's will, life lasts, with those that revolted throughout history, man. Showing you, look: we the same people doing the same thing, going through oppression. Why? Because oppression do what? Make a wise man mad. You understand? But now we know. We use the scriptures now, to control that anger that we once had, to rebel. So we going to end it there.
+*[[2:17:53](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8273s)]* Hey, but we going to end it right there. Hey, we get into Nat Turner next show, Lord's will, life lasts, with those that revolted throughout history, man. Showing you, look: we the same people doing the same thing, going through oppression. Why? Because oppression do what? Make a wise man mad. But now we know. We use the scriptures now, to control that anger that we once had, to rebel. So we going to end it there.
 
 **Officer:** Yes, sir. Let's give a round of applause once again for the radio show.
 
-**Deacon Eythan:** Amazing, amazing. Damn, it just said no round of applause. No shout out then. Okay. Yo, did you delete that thing? Oh, the footage.
+**Deacon Eythan:** Amazing, amazing. Damn, it just said no round of applause. No shout out then. Yo, did you delete that thing? Oh, the footage.
 
-*[[2:19:35](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8375s)]* Hey, listen: to give your feedback on the IT, please scan the QR code on here to fill out the form. The IT team, they did good. I'm about to scan it right now. They don't have Bishop. They don't have Bishop's This Is War. Damn, bro. We got the limited package. We ain't get the exclusive package yet. Limited sound bites. Wow. Hey, I'm going to give a shout out to IT. I'm going to be nice, man. Shout out to IT. Hey, shout out to the sisters that came and made the breakfast for us this morning.
+*[[2:19:35](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8375s)]* Hey, listen: to give your feedback on the IT, please scan the QR code on here to fill out the form. The IT team, they did good. I'm about to scan it right now. They don't have Bishop. They don't have Bishop's This Is War. Damn, bro. We got the limited package. We ain't get the exclusive package yet. Limited sound bites. Hey, I'm going to give a shout out to IT. I'm going to be nice, man.
 
 *[[2:20:10](https://www.youtube.com/watch?v=iRSZ1SPOWKE&t=8410s)]* Also, hey, so you know: next show, life lasts, we going to still be getting into the revolt a little bit. Then, like I said, it's coming: we going to be dealing with Ishmael, the Arabs. We going to be going into the Arabs and so forth. So after we deal with the revolt, that's what we going to be dealing with: the Arabs. But we still dealing with the revolt. We going to get into Nat Turner, and those on this side that rebelled. And hey, listen, tune in. I forgot what episode they on; I think they on episode a thousand. But tune in, man, bringing that heat. So with that, we're going to say shalom. Most High Christ bless. Israel, Christ bless.
 
