@@ -140,15 +140,15 @@ tags: ["IUIC in the ClassRoom", "captivity", "women"]
 
 **[Psalms 82:6-7](/bible/psalms/82#v6)**  *[[14:03](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=843s)]*
 
-> <sup>[6](/bible/psalms/82#v6)</sup> I have said, Ye are gods; and all of you are children of the most High.
->
-> <sup>[7](/bible/psalms/82#v7)</sup> But ye shall die like men, and fall like one of the princes.
-
 - You hear what the Lord said about you, black man? God said you are gods; that's what the Most High said: ye are gods upon this earth.
+
+> <sup>[6](/bible/psalms/82#v6)</sup> I have said, Ye are gods; and all of you are children of the most High.
 
 - And all of you are children of the Most High: that's the rest of the tribes.
 
 - Because we sinned against the one true God, we should die like men and go into slavery, our power taken from us.
+
+> <sup>[7](/bible/psalms/82#v7)</sup> But ye shall die like men, and fall like one of the princes.
 
 - And fall like one of the princes: like one of these heathen nations out here, fall like them.
 
@@ -197,14 +197,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "women"]
 
 **[Leviticus 26:36-39](/bible/leviticus/26#v36)**  *[[18:43](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=1123s)]*
 
-> <sup>[36](/bible/leviticus/26#v36)</sup> And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
->
-> <sup>[37](/bible/leviticus/26#v37)</sup> And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.
->
-> <sup>[38](/bible/leviticus/26#v38)</sup> And ye shall perish among the heathen, and the land of your enemies shall eat you up.
->
-> <sup>[39](/bible/leviticus/26#v39)</sup> And they that are left of you shall pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers shall they pine away with them.
-
 - This is once we got off the slave ships.
 
 - Remember the Bible says we are gods but we shall die like men. As gods we feared nobody upon the earth; when you read the history, we destroyed nations. But the Most High said he would put fear in our hearts: a faintness is a fear in our hearts. When you take away a man's courage, a man's spirit, he's afraid of everything.
@@ -213,9 +205,17 @@ tags: ["IUIC in the ClassRoom", "captivity", "women"]
 
 - We used to run throughout the Americas over here as if we were running from a sword, but it said nobody was chasing us. That's showing you how the Most High put that spirit of fear in us; that's how we went from being gods to men upon the earth.
 
+> <sup>[36](/bible/leviticus/26#v36)</sup> And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
+>
+> <sup>[37](/bible/leviticus/26#v37)</sup> And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.
+
 - And ye shall have no power to stand before your enemies: that's explaining Psalms 82:6 and 7, ye are gods, but you shall die like men and fall like one of the princes. The land of your enemies shall eat you up: eat you up with sin.
 
 - Pine away in their iniquities, meaning the sins that our fathers and fathers' fathers had went upon the sons: idolatry, adultery, stealing, bearing false witness, being homosexuals. We pined away in the sins of our forefathers, and even today we're still pining away in these sins. To pine away means to dwindle, to waste away.
+
+> <sup>[38](/bible/leviticus/26#v38)</sup> And ye shall perish among the heathen, and the land of your enemies shall eat you up.
+>
+> <sup>[39](/bible/leviticus/26#v39)</sup> And they that are left of you shall pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers shall they pine away with them.
 
 
 <div class="reading">
@@ -331,11 +331,9 @@ Reading from *The Willie Lynch Letter and the Making of a Slave*, page 15 · rea
 
 **[1 Timothy 2:11-12](/bible/1-timothy/2#v11)**  *[[32:02](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=1922s)]*
 
-> <sup>[11](/bible/1-timothy/2#v11)</sup> Let the woman learn in silence with all subjection.
->
-> <sup>[12](/bible/1-timothy/2#v12)</sup> But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
-
 - Now I'm going to jump to the black woman. You want to fix this nation? You black women, you're always writing us, what can we do? I'm going to show you what you can do: the first thing you can do is be quiet.
+
+> <sup>[11](/bible/1-timothy/2#v11)</sup> Let the woman learn in silence with all subjection.
 
 - With all subjection: just like the white man made the black woman submit to him in complete subjection, the Bible says here's the solution to get our people back together. Not 95%, not 98%, not 99.9%, but 100% subjection.
 
@@ -344,6 +342,8 @@ Reading from *The Willie Lynch Letter and the Making of a Slave*, page 15 · rea
 - Our nation is out of order. There's no resurrection as long as the woman's on top.
 
 - When this Bible is being taught, God says woman, be silent. It ain't no *Woman, Thou Art Loosed*; this ain't T.D. Jakes, that garbage. You ain't loosed from your black man, black woman; you join with us hip to hip.
+
+> <sup>[12](/bible/1-timothy/2#v12)</sup> But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
 
 
 **[2 Esdras 5:8](/bible/2-esdras/5#v8)**  *[[33:43](https://www.youtube.com/watch?v=NhNxOlGOXYA&t=2023s)]*

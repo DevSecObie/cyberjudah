@@ -24,10 +24,10 @@ tags: ["15 Minutes w/ The Captains", "endurance", "faith", "mercy", "repentance"
 **[Isaiah 34:16-17](/bible/isaiah/34#v16)**  *[[0:28](https://www.youtube.com/watch?v=JLLb4q16a5o&t=28s)]*
 
 > <sup>[16](/bible/isaiah/34#v16)</sup> Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
->
-> <sup>[17](/bible/isaiah/34#v17)</sup> And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.
 
 - Seek ye out of the book of the LORD, and read: so we supposed to seek out of the book of the Lord, because it's the book of life. That's what it is. Every situation that we have ever went through is already written in here in some form. We just have to seek out the book of the Lord and find it in the scriptures.
+
+> <sup>[17](/bible/isaiah/34#v17)</sup> And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.
 
 - They shall possess it for ever, from generation to generation shall they dwell therein: so the Lord gave us this book to dwell in from generation to generation, because it will answer all of our questions that may come up in any situation that we need guidance or wisdom of God of how to move in it. God said, I'm going to make sure you have this from generation to generation, no matter where you are on the earth.
 
@@ -90,10 +90,10 @@ tags: ["15 Minutes w/ The Captains", "endurance", "faith", "mercy", "repentance"
 **[Sirach 2:10-11](/bible/sirach/2#v10)**  *[[7:27](https://www.youtube.com/watch?v=JLLb4q16a5o&t=447s)]*
 
 > <sup>[10](/bible/sirach/2#v10)</sup> Look at the generations of old, and see; did ever any trust in the Lord, and was confounded? or did any abide in his fear, and was forsaken? or whom did he ever despise, that called upon him?
->
-> <sup>[11](/bible/sirach/2#v11)</sup> For the Lord is full of compassion and mercy, longsuffering, and very pitiful, and forgiveth sins, and saveth in time of affliction.
 
 - Look at the generations of old, and see; did ever any trust in the Lord, and was confounded: that's why history is so important, and that's why the world tries to separate us, blacks and Hispanics and Native Americans as well, from our history. Because when you know your history, you can look back on it and you can gain strength from what God has did for your ancestors, and you can apply that to yourself and walk in that faith and not fear.
+
+> <sup>[11](/bible/sirach/2#v11)</sup> For the Lord is full of compassion and mercy, longsuffering, and very pitiful, and forgiveth sins, and saveth in time of affliction.
 
 - For the Lord is full of compassion and mercy, longsuffering, and very pitiful, and forgiveth sins, and saveth in time of affliction: so the Lord is compassionate upon those that are trying to come out of sin, that are looking at the generations of old and saying, I can be like Abraham. I can be like Paul. I can be like the disciples. I can roll in the spirit of Jeremiah. I can build up my people like Nehemiah. God has compassion for those people that are walking after the spirit of their ancestors, in that faith that they had.
 
@@ -103,16 +103,16 @@ tags: ["15 Minutes w/ The Captains", "endurance", "faith", "mercy", "repentance"
 **[Lamentations 3:22-25](/bible/lamentations/3#v22)**  *[[9:11](https://www.youtube.com/watch?v=JLLb4q16a5o&t=551s)]*
 
 > <sup>[22](/bible/lamentations/3#v22)</sup> It is of the Lord’s mercies that we are not consumed, because his compassions fail not.
->
-> <sup>[23](/bible/lamentations/3#v23)</sup> They are new every morning: great is thy faithfulness.
->
-> <sup>[24](/bible/lamentations/3#v24)</sup> The Lord is my portion, saith my soul; therefore will I hope in him.
->
-> <sup>[25](/bible/lamentations/3#v25)</sup> The Lord is good unto them that wait for him, to the soul that seeketh him.
 
 - It is of the LORD's mercies that we are not consumed: it's nothing that we've done ourselves. It's nothing that our parents did. It's nothing that this world has done for us. It is by the Lord's mercies that we are not consumed by the darkness that was holding us back.
 
+> <sup>[23](/bible/lamentations/3#v23)</sup> They are new every morning: great is thy faithfulness.
+
 - They are new every morning: every morning we awake, we have a chance to walk in that marvelous light that God has called us in, and not stay back in the darkness that Satan wants to keep us trapped in.
+
+> <sup>[24](/bible/lamentations/3#v24)</sup> The Lord is my portion, saith my soul; therefore will I hope in him.
+>
+> <sup>[25](/bible/lamentations/3#v25)</sup> The Lord is good unto them that wait for him, to the soul that seeketh him.
 
 - To the soul that seeketh him: God is compassionate every morning to the soul that is seeking him and not letting things hold him back. It's new every morning. That's why we have to repent daily, because as this walk of us coming out of darkness and in this light, we will stumble as newborn babes. But God said he has compassion and mercy because you're seeking him with all your heart, with all your soul, and with all your mind.
 
@@ -122,10 +122,10 @@ tags: ["15 Minutes w/ The Captains", "endurance", "faith", "mercy", "repentance"
 > <sup>[6](/bible/deuteronomy/13#v6)</sup> If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;
 >
 > <sup>[7](/bible/deuteronomy/13#v7)</sup> Namely, of the gods of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth;
->
-> <sup>[8](/bible/deuteronomy/13#v8)</sup> Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him:
 
 - Namely, of the gods of the people which are round about you: that's going into Christianity, Islam, Buddhism, witchcraft, whatever it may be.
+
+> <sup>[8](/bible/deuteronomy/13#v8)</sup> Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him:
 
 - Thou shalt not consent unto him, nor hearken unto him: you shouldn't let any relationship in your life hold you back. It doesn't matter if it's your father, your mother, your brother, cousins, family member, friends. God says nobody should hold you back from serving me. And don't consent to what they saying. No matter how good it may sound, if it's not thus saith the Lord.
 
@@ -144,14 +144,14 @@ tags: ["15 Minutes w/ The Captains", "endurance", "faith", "mercy", "repentance"
 **[Sirach 17:24-26](/bible/sirach/17#v24)**  *[[12:40](https://www.youtube.com/watch?v=JLLb4q16a5o&t=760s)]*
 
 > <sup>[24](/bible/sirach/17#v24)</sup> But unto them that repent, he granted them return, and comforted those that failed in patience.
->
-> <sup>[25](/bible/sirach/17#v25)</sup> Return unto the Lord, and forsake thy sins, make thy prayer before his face, and offend less.
->
-> <sup>[26](/bible/sirach/17#v26)</sup> Turn again to the most High, and turn away from iniquity: for he will lead thee out of darkness into the light of health, and hate thou abomination vehemently.
 
 - But unto them that repent, he granted them return: God grants return to those that repent, that turn from them sins that are holding them back.
 
+> <sup>[25](/bible/sirach/17#v25)</sup> Return unto the Lord, and forsake thy sins, make thy prayer before his face, and offend less.
+
 - Return unto the Lord, and forsake thy sins, make thy prayer before his face, and offend less: get better and better and better. Leave off from those sins. Now that you are walking in this light, don't let those sins from the past creep back up on you and hold you back. Overcome them. Get better and better. Offend less.
+
+> <sup>[26](/bible/sirach/17#v26)</sup> Turn again to the most High, and turn away from iniquity: for he will lead thee out of darkness into the light of health, and hate thou abomination vehemently.
 
 - For he will lead thee out of darkness into the light of health: there's a better life waiting on you if you don't let these sins and the family members and friends hold you back from serving God. There's a better life beyond that.
 

@@ -184,8 +184,6 @@ Reading from the article *Abortion is killing the black community: this is not h
 **[Matthew 16:24-25](/bible/matthew/16#v24)**  *[[40:08](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2408s)]*
 
 > <sup>[24](/bible/matthew/16#v24)</sup> Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
->
-> <sup>[25](/bible/matthew/16#v25)</sup> For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
 
 - If any man will come after me, let him deny himself and take up his cross: in this walk there is going to be sacrifice, and a man who is not ready to sacrifice is not getting the kingdom.
 
@@ -193,18 +191,14 @@ Reading from the article *Abortion is killing the black community: this is not h
 
 - Whosoever will save his life shall lose it, and whosoever will lose his life for my sake shall find it — find it in the kingdom.
 
+> <sup>[25](/bible/matthew/16#v25)</sup> For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
+
 
 *[[42:12](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2532s)]* **In The News: A video on Frederick Hoffman's Race Traits of 1896 and the fight over health care** — Deny black people health care, Hoffman argued, and the race dies out in two or three generations and the race problem is solved. Congress and the governors took him seriously, and that is why every single-payer plan from Teddy Roosevelt in 1912 to Kennedy in 1961 was shot down, and why the southern senators built a twenty percent gap into Medicare to keep poor black people out of all-white hospitals. America is also the only powerful country on the earth with no universal health care and the most expensive medication on it.
 
 **[Matthew 10:36-39](/bible/matthew/10#v36)**  *[[46:37](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=2797s)]*
 
 > <sup>[36](/bible/matthew/10#v36)</sup> And a man’s foes shall be they of his own household.
->
-> <sup>[37](/bible/matthew/10#v37)</sup> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
->
-> <sup>[38](/bible/matthew/10#v38)</sup> And he that taketh not his cross, and followeth after me, is not worthy of me.
->
-> <sup>[39](/bible/matthew/10#v39)</sup> He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.
 
 - A man's foes shall be they of his own household: the fight over these holidays starts inside your own house, and that is where it is about to start again in a week or two.
 
@@ -213,6 +207,12 @@ Reading from the article *Abortion is killing the black community: this is not h
 - Your cross is what you are willing to sacrifice for this truth — the son, the wife, the husband, the job, the weed, the crack you used to get high on. Take it up and follow him.
 
 - Everything here, everything in this captivity, is garbage compared to what is waiting for us. Whatever is keeping you from the kingdom, cut it off.
+
+> <sup>[37](/bible/matthew/10#v37)</sup> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
+>
+> <sup>[38](/bible/matthew/10#v38)</sup> And he that taketh not his cross, and followeth after me, is not worthy of me.
+>
+> <sup>[39](/bible/matthew/10#v39)</sup> He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.
 
 
 <div class="reading">
@@ -233,8 +233,6 @@ Reading from the article *Florida man paid his cousin at least $6,000 to kill th
 **[1 Peter 1:15-16](/bible/1-peter/1#v15)**  *[[52:31](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=3151s)]*
 
 > <sup>[15](/bible/1-peter/1#v15)</sup> But as he which hath called you is holy, so be ye holy in all manner of conversation;
->
-> <sup>[16](/bible/1-peter/1#v16)</sup> Because it is written, Be ye holy; for I am holy.
 
 - As he which hath called you is holy, so be ye holy: holy means separate, so he called us to be a separate people.
 
@@ -243,6 +241,8 @@ Reading from the article *Florida man paid his cousin at least $6,000 to kill th
 - Young men still living under your parents' roof: do not go back and forth with them about it. Mom, I will not be here, I will be with the brothers, do not wait for me. Keep it simple, do not give all the details, and be wise — they will throw you out. And when you get with the brothers, turn the phone off, because the holidays are when the family pressures you hardest.
 
 - Be ye holy in all manner of conversation: the way you talk has to change too, at home and at your job, until your family looks at you and says they see a change in that man. They have to want to join you; it is never you joining them.
+
+> <sup>[16](/bible/1-peter/1#v16)</sup> Because it is written, Be ye holy; for I am holy.
 
 
 **[Leviticus 11:44](/bible/leviticus/11#v44)**  *[[57:29](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=3449s)]*
@@ -281,14 +281,14 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 **[Romans 12:1-2](/bible/romans/12#v1)**  *[[1:01:41](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=3701s)]*
 
 > <sup>[1](/bible/romans/12#v1)</sup> I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
->
-> <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
 - Present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service: keeping the law is not something anybody owes you a thank you for.
 
 - Some of you want a cookie for mopping the floor or for going to camp. That is your reasonable service, brother — do your job. You would never ask the white man at your job to appreciate you like that.
 
 - Be not conformed to this world, because this world is going to pass away. We are not fighting to get this world, we are fighting to get the kingdom.
+
+> <sup>[2](/bible/romans/12#v2)</sup> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
 - Be ye transformed by the renewing of your mind: it is not only the clothes and the way you carry yourself. The thinking, the anger, the things you used to do all have to change, and that change is part of repenting.
 
@@ -309,10 +309,6 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 **[Colossians 3:5-7](/bible/colossians/3#v5)**  *[[1:09:07](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=4147s)]*
 
 > <sup>[5](/bible/colossians/3#v5)</sup> Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
->
-> <sup>[6](/bible/colossians/3#v6)</sup> For which things’ sake the wrath of God cometh on the children of disobedience:
->
-> <sup>[7](/bible/colossians/3#v7)</sup> In the which ye also walked some time, when ye lived in them.
 
 - Mortify therefore your members which are upon the earth: mortify is to kill, and the members are the sins named behind it — fornication, uncleanness, inordinate affection, evil concupiscence, covetousness.
 
@@ -321,6 +317,10 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 - Covetousness, which is idolatry — and for which things' sake the wrath of God cometh on the children of disobedience. This was written to us, so we are the children of disobedience, and some of our people are going to be caught up in the destruction coming to this place.
 
 - You cannot drink clean water out of a filthy cup. If the water is clean, the cup had better be clean too. In the which ye also walked sometime, when ye lived in them — we lived in those things, and we no longer live in them, because we have repented.
+
+> <sup>[6](/bible/colossians/3#v6)</sup> For which things’ sake the wrath of God cometh on the children of disobedience:
+>
+> <sup>[7](/bible/colossians/3#v7)</sup> In the which ye also walked some time, when ye lived in them.
 
 
 **[Colossians 3:8-10](/bible/colossians/3#v8)**  *[[1:13:11](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=4391s)]*
@@ -358,12 +358,12 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 **[Romans 6:17-18](/bible/romans/6#v17)**  *[[1:25:46](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=5146s)]*
 
 > <sup>[17](/bible/romans/6#v17)</sup> But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.
->
-> <sup>[18](/bible/romans/6#v18)</sup> Being then made free from sin, ye became the servants of righteousness.
 
 - Ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you: there was a time every one of us worked for sin, and some of you are still working for it.
 
 - Being then made free from sin, ye became the servants of righteousness. The sin had to be killed before the service changed hands.
+
+> <sup>[18](/bible/romans/6#v18)</sup> Being then made free from sin, ye became the servants of righteousness.
 
 
 **[Deuteronomy 6:25](/bible/deuteronomy/6#v25)**  *[[1:26:59](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=5219s)]*
@@ -377,6 +377,8 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 
 **[Psalms 51:7-13](/bible/psalms/51#v7)**  *[[1:27:59](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=5279s)]*
 
+- Purge me with hyssop and I shall be clean; wash me and I shall be whiter than snow. These are the things to be saying in your prayers.
+
 > <sup>[7](/bible/psalms/51#v7)</sup> Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
 >
 > <sup>[8](/bible/psalms/51#v8)</sup> Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.
@@ -384,20 +386,18 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 > <sup>[9](/bible/psalms/51#v9)</sup> Hide thy face from my sins, and blot out all mine iniquities.
 >
 > <sup>[10](/bible/psalms/51#v10)</sup> Create in me a clean heart, O God; and renew a right spirit within me.
->
-> <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
->
-> <sup>[12](/bible/psalms/51#v12)</sup> Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
->
-> <sup>[13](/bible/psalms/51#v13)</sup> Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
-
-- Purge me with hyssop and I shall be clean; wash me and I shall be whiter than snow. These are the things to be saying in your prayers.
 
 - Create in me a clean heart, O God, and renew a right spirit within me: ask him to take away that evil, wicked, sinful heart and give you a righteous one, because every one of us has some evil spirit to be renewed out of.
 
 - Take not thy holy spirit from me. It is a fearful thing when the Most High takes his holy spirit off a man — mighty brothers have had it taken and ended up on social media talking crazy, the same brother you knew.
 
 - Restore unto me the joy of thy salvation, then will I teach transgressors thy ways. Ask for his joy in the place of the anger, and the teaching of sinners comes after that, not before it.
+
+> <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
+>
+> <sup>[12](/bible/psalms/51#v12)</sup> Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+>
+> <sup>[13](/bible/psalms/51#v13)</sup> Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
 
 
 **[Psalms 119:9-11](/bible/psalms/119#v9)**  *[[1:30:52](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=5452s)]*
@@ -418,12 +418,6 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 **[James 4:7-10](/bible/james/4#v7)**  *[[1:33:14](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=5594s)]*
 
 > <sup>[7](/bible/james/4#v7)</sup> Submit yourselves therefore to God. Resist the devil, and he will flee from you.
->
-> <sup>[8](/bible/james/4#v8)</sup> Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.
->
-> <sup>[9](/bible/james/4#v9)</sup> Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.
->
-> <sup>[10](/bible/james/4#v10)</sup> Humble yourselves in the sight of the Lord, and he shall lift you up.
 
 - Submit yourselves therefore to God: to God, to Messiah — not to a bishop and not to a deacon.
 
@@ -431,9 +425,15 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 
 - Draw nigh to God, and he will draw nigh to you — and you draw nigh with this book in your hand.
 
+> <sup>[8](/bible/james/4#v8)</sup> Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.
+
 - Purify your hearts, ye double minded: your body is here on the Sabbath and your mind is somewhere else.
 
 - Be afflicted, and mourn, and weep, and humble yourselves in the sight of the Lord and he shall lift you up. To be afflicted for this truth is a blessing. All of us are in mourning right now; there is no joy in this captivity, where a man is afraid of being fired for keeping the Sabbath and the New Moon. Our joy is the kingdom, so we have nothing to lose — keep the law and the kingdom is ours.
+
+> <sup>[9](/bible/james/4#v9)</sup> Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.
+>
+> <sup>[10](/bible/james/4#v10)</sup> Humble yourselves in the sight of the Lord, and he shall lift you up.
 
 
 **[Galatians 5:16-25](/bible/galatians/5#v16)**  *[[1:38:18](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=5898s)]*
@@ -473,12 +473,22 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 
 **[Romans 8:1-14](/bible/romans/8#v1)**  *[[1:49:10](https://www.youtube.com/watch?v=9D1WJlaxrsY&t=6550s)]*
 
+- There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh but after the spirit.
+
 > <sup>[1](/bible/romans/8#v1)</sup> There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 >
 > <sup>[2](/bible/romans/8#v2)</sup> For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
 >
 > <sup>[3](/bible/romans/8#v3)</sup> For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:
->
+
+- What the law could not do, in that it was weak through the flesh: under the law adultery was death and homosexuality was death, nothing covered them. Under Messiah a man can repent, and the righteousness of the law is fulfilled in us who walk after the spirit.
+
+- To be carnally minded is death, but to be spiritually minded is life and peace. The carnal mind is enmity against God and is not subject to his law, so they that are in the flesh cannot please God — which is why Christianity cannot please him, whether you sit in that church from seven in the morning to eleven at night.
+
+- If any man have not the spirit of Christ, he is none of his. The goal is to become like Christ, and if he did it in the flesh we can do it: it was not a puff of smoke that came down here.
+
+- If ye through the spirit do mortify the deeds of the body, ye shall live. As many as are led by the spirit of God, they are the sons of God.
+
 > <sup>[4](/bible/romans/8#v4)</sup> That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
 >
 > <sup>[5](/bible/romans/8#v5)</sup> For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.
@@ -500,16 +510,6 @@ Reading from an on-screen definition of *sanctify*  *[[57:59](https://www.youtub
 > <sup>[13](/bible/romans/8#v13)</sup> For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.
 >
 > <sup>[14](/bible/romans/8#v14)</sup> For as many as are led by the Spirit of God, they are the sons of God.
-
-- There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh but after the spirit.
-
-- What the law could not do, in that it was weak through the flesh: under the law adultery was death and homosexuality was death, nothing covered them. Under Messiah a man can repent, and the righteousness of the law is fulfilled in us who walk after the spirit.
-
-- To be carnally minded is death, but to be spiritually minded is life and peace. The carnal mind is enmity against God and is not subject to his law, so they that are in the flesh cannot please God — which is why Christianity cannot please him, whether you sit in that church from seven in the morning to eleven at night.
-
-- If any man have not the spirit of Christ, he is none of his. The goal is to become like Christ, and if he did it in the flesh we can do it: it was not a puff of smoke that came down here.
-
-- If ye through the spirit do mortify the deeds of the body, ye shall live. As many as are led by the spirit of God, they are the sons of God.
 
 
 ## Class Questions

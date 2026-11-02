@@ -76,16 +76,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[Exodus 30:18-20](/bible/exodus/30#v18)**  *[[9:50](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=590s)]*
 
 > <sup>[18](/bible/exodus/30#v18)</sup> Thou shalt also make a laver of brass, and his foot also of brass, to wash withal: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein.
->
-> <sup>[19](/bible/exodus/30#v19)</sup> For Aaron and his sons shall wash their hands and their feet thereat:
->
-> <sup>[20](/bible/exodus/30#v20)</sup> When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the Lord:
 
 - Thou shalt also make a laver of brass, and his foot also of brass, to wash withal: A laver. A laver of brass. To do what? To wash withal.
 
 - And thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein: So put this laver of brass that the people can wash. Put it in between the what? And put water therein.
 
+> <sup>[19](/bible/exodus/30#v19)</sup> For Aaron and his sons shall wash their hands and their feet thereat:
+
 - For Aaron and his sons shall wash their hands and their feet thereat: So the priests had to go and wash their feet, their hands and feet.
+
+> <sup>[20](/bible/exodus/30#v20)</sup> When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the Lord:
 
 - Or when they come near to the altar to minister, to burn offering made by fire unto the Lord: Right? So now when the priests went in to do the service of the tabernacle, they had to wash themselves in this particular laver.
 
@@ -93,16 +93,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[Hebrews 9:8-10](/bible/hebrews/9#v8)**  *[[11:38](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=698s)]*
 
 > <sup>[8](/bible/hebrews/9#v8)</sup> The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:
->
-> <sup>[9](/bible/hebrews/9#v9)</sup> Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
->
-> <sup>[10](/bible/hebrews/9#v10)</sup> Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
 
 - The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest: The way into the holiest of all was not yet made manifest.
 
 - While as the first tabernacle was yet standing: While that first tabernacle was standing, the true way was not yet made manifest.
 
+> <sup>[9](/bible/hebrews/9#v9)</sup> Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
+
 - Which was a figure for the time then present, in which were offered both gifts and sacrifices: So which was a figure for the time then present in which was offered both gifts and sacrifices. Sacrifices.
+
+> <sup>[10](/bible/hebrews/9#v10)</sup> Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
 
 - Which stood only in meats and drinks: Right? Meat offerings, drink offerings.
 
@@ -123,28 +123,28 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[John 1:35-42](/bible/john/1#v35)**  *[[13:31](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=811s)]*
 
 > <sup>[35](/bible/john/1#v35)</sup> Again the next day after John stood, and two of his disciples;
->
+
+- Again the next day after John stood, and two of his disciples: Notice what it says in 35 again. The next day, John stood and two of his disciples, two of his disciples, who was the, his, John. John the Baptist.
+
 > <sup>[36](/bible/john/1#v36)</sup> And looking upon Jesus as he walked, he saith, Behold the Lamb of God!
 >
 > <sup>[37](/bible/john/1#v37)</sup> And the two disciples heard him speak, and they followed Jesus.
->
+
+- And the two disciples heard him speak, and they followed Jesus: And the two disciples heard Christ speak, and they followed Christ. But they were John's disciples first.
+
 > <sup>[38](/bible/john/1#v38)</sup> Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?
 >
 > <sup>[39](/bible/john/1#v39)</sup> He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.
 >
 > <sup>[40](/bible/john/1#v40)</sup> One of the two which heard John speak, and followed him, was Andrew, Simon Peter’s brother.
->
-> <sup>[41](/bible/john/1#v41)</sup> He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.
->
-> <sup>[42](/bible/john/1#v42)</sup> And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.
-
-- Again the next day after John stood, and two of his disciples: Notice what it says in 35 again. The next day, John stood and two of his disciples, two of his disciples, who was the, his, John. John the Baptist.
-
-- And the two disciples heard him speak, and they followed Jesus: And the two disciples heard Christ speak, and they followed Christ. But they were John's disciples first.
 
 - One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother: So, one of the two was Andrew, Simon Peter's brother. Remember this says these were John's disciples, but one of them was Andrew, Peter's brother. Watch this.
 
+> <sup>[41](/bible/john/1#v41)</sup> He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.
+
 - He first findeth his own brother Simon: Then he found his brother Peter and said, what? We have found the Messiah, which is being interpreted the Christ.
+
+> <sup>[42](/bible/john/1#v42)</sup> And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.
 
 - And he brought him to Jesus: Who? Andrew brought Peter to Jesus.
 
@@ -196,10 +196,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[1 Peter 3:20-21](/bible/1-peter/3#v20)**  *[[20:57](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=1257s)]*
 
 > <sup>[20](/bible/1-peter/3#v20)</sup> Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
->
-> <sup>[21](/bible/1-peter/3#v21)</sup> The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
 
 - Wherein few, that is, eight souls were saved by water: So it's talking about during the time of Noah it says eight souls were saved by water. That's real strange because everybody was killed with the flood. So how is it saying they were saved by water? Watch the next part.
+
+> <sup>[21](/bible/1-peter/3#v21)</sup> The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
 
 - The like figure whereunto even baptism doth also now save us: So it says the like figure. So it's very similar to now, just like they weren't literally dipped in water back then. It says the like figure whereunto baptism does also now save us. Watch.
 
@@ -226,12 +226,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[Isaiah 1:16-19](/bible/isaiah/1#v16)**  *[[23:56](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=1436s)]*
 
 > <sup>[16](/bible/isaiah/1#v16)</sup> Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;
->
-> <sup>[17](/bible/isaiah/1#v17)</sup> Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.
->
-> <sup>[18](/bible/isaiah/1#v18)</sup> Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.
->
-> <sup>[19](/bible/isaiah/1#v19)</sup> If ye be willing and obedient, ye shall eat the good of the land:
 
 - Wash you, make you clean: Because Christ himself, he didn't make up what he said in John 15 and 3, but the washings were symbolic for that time. Watch what he says here in Isaiah. Remember because Christ says, "Now you are clean through the word." Watch what Jesus says here.
 
@@ -239,11 +233,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 
 - Cease to do evil: Stop doing evil. Stop doing evil.
 
+> <sup>[17](/bible/isaiah/1#v17)</sup> Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.
+
 - Seek judgment, relieve the oppressed, judge the fatherless, plead for the widow: Right. That's loving your neighbor as yourself.
+
+> <sup>[18](/bible/isaiah/1#v18)</sup> Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.
 
 - Come now, and let us reason together, saith the Lord: though your sins be as scarlet: The Lord says, "Come on, let us reason together. Help me help you." He's explaining here, "Though your sins be as scarlet."
 
 - Though they be red like crimson, they shall be as wool: Which goes back to what we read in Revelation. Okay? Revelation 7:14. Washed in the blood of the lamb, we're purified through Christ.
+
+> <sup>[19](/bible/isaiah/1#v19)</sup> If ye be willing and obedient, ye shall eat the good of the land:
 
 - If ye be willing and obedient, ye shall eat: That's the key right there. Now remember that goes back to what we read in verse six. Wash you, make you clean. Put away the evil of your doings.
 
@@ -277,12 +277,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[Exodus 19:10-11](/bible/exodus/19#v10)**  *[[27:40](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=1660s)]*
 
 > <sup>[10](/bible/exodus/19#v10)</sup> And the Lord said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,
->
-> <sup>[11](/bible/exodus/19#v11)</sup> And be ready against the third day: for the third day the Lord will come down in the sight of all the people upon mount Sinai.
 
 - And the Lord said unto Moses, Go unto the people, and sanctify them to day and to morrow: This Lord here is Christ, right? It says what again? What did he say?
 
 - And let them wash their clothes: And let them wash their clothes.
+
+> <sup>[11](/bible/exodus/19#v11)</sup> And be ready against the third day: for the third day the Lord will come down in the sight of all the people upon mount Sinai.
 
 - And be ready against the third day: for the third day the Lord will come down in the sight of all the people upon mount Sinai: Right? So again, washings is a form of sanctification as well. But it says sanctify them and I will come down. Will sanctify them today and tomorrow, meaning these two days, and I can deal with y'all on the third day.
 
@@ -292,10 +292,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[Hosea 6:1-2](/bible/hosea/6#v1)**  *[[28:45](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=1725s)]*
 
 > <sup>[1](/bible/hosea/6#v1)</sup> Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
->
-> <sup>[2](/bible/hosea/6#v2)</sup> After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
 
 - Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up: Now that goes back to what we read in Isaiah. Remember the Lord says, "Let us reason together." Okay? If you be willing and obedient. This says, "Come and let us return unto the Lord, for he have torn and he will heal us. He have smitten, but he will bind us up." Watch this.
+
+> <sup>[2](/bible/hosea/6#v2)</sup> After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
 
 - After two days will he revive us: After two days? After you cleanse yourselves for those two days.
 
@@ -305,10 +305,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[1 Thessalonians 4:1-3](/bible/1-thessalonians/4#v1)**  *[[29:37](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=1777s)]*
 
 > <sup>[1](/bible/1-thessalonians/4#v1)</sup> Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.
->
-> <sup>[2](/bible/1-thessalonians/4#v2)</sup> For ye know what commandments we gave you by the Lord Jesus.
->
-> <sup>[3](/bible/1-thessalonians/4#v3)</sup> For this is the will of God, even your sanctification, that ye should abstain from fornication:
 
 - Furthermore then we beseech you, brethren: Look at what it says there. We plead with you, brethren.
 
@@ -318,7 +314,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 
 - How ye ought to walk and to please God, so ye would abound more and more: So like he said in 1 Corinthians 11, keep the ordinances as I delivered them unto you. This says as you received of us how you ought to walk and to please God, so you would abound more and more. Your knowledge would continue to increase, you get better and better, more fervent in the spirit.
 
+> <sup>[2](/bible/1-thessalonians/4#v2)</sup> For ye know what commandments we gave you by the Lord Jesus.
+
 - For ye know what commandments we gave you by the Lord Jesus: Whoa, whoa, whoa, whoa. So how do you abound more and more? You see what it says? The commandments by the Lord Jesus. That's easy. You know what commandments we gave you. That's how you're going to abound more and more.
+
+> <sup>[3](/bible/1-thessalonians/4#v3)</sup> For this is the will of God, even your sanctification, that ye should abstain from fornication:
 
 - For this is the will of God, even your sanctification: Even your what? Remember Paul said in 1 Corinthians 6, but ye are washed. You are sanctified. This says, "For this is the will of God, even your sanctification." How does it happen? Through verse two, the commandments. As a matter of fact, give me that in Psalms 40 and 8 real quick. Right? What is the will of God? Okay, he said here, "For this is the will of God, even your sanctification." Watch this.
 
@@ -335,20 +335,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[1 Thessalonians 4:2-5](/bible/1-thessalonians/4#v2)**  *[[32:16](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=1936s)]*
 
 > <sup>[2](/bible/1-thessalonians/4#v2)</sup> For ye know what commandments we gave you by the Lord Jesus.
->
-> <sup>[3](/bible/1-thessalonians/4#v3)</sup> For this is the will of God, even your sanctification, that ye should abstain from fornication:
->
-> <sup>[4](/bible/1-thessalonians/4#v4)</sup> That every one of you should know how to possess his vessel in sanctification and honour;
->
-> <sup>[5](/bible/1-thessalonians/4#v5)</sup> Not in the lust of concupiscence, even as the Gentiles which know not God:
 
 - For ye know what commandments we gave you by the Lord Jesus: So hey, listen man, that is a slice to Christianity right there because they'll tell you you don't have to keep the commandments in Christ. That's not what the Apostle Paul taught. They want to try to run to Paul's letters and say no, you ain't got to keep the commandments. He said it right here. You know what commandments we gave you by the Lord Jesus.
+
+> <sup>[3](/bible/1-thessalonians/4#v3)</sup> For this is the will of God, even your sanctification, that ye should abstain from fornication:
 
 - For this is the will of God, even your sanctification: Which is what we just read in Psalms 4:8. The will of God is to do his law, which is your sanctification.
 
 - That ye should abstain from fornication: You see what he says? That's one of the commandments. Abstain from fornication. The same thing which goes back to 1 Corinthians 6 where he says the unrighteous shall not inherit the kingdom and he mentioned fornication and then he says and such were some of you, but you are washed, you're sanctified.
 
+> <sup>[4](/bible/1-thessalonians/4#v4)</sup> That every one of you should know how to possess his vessel in sanctification and honour;
+
 - That every one of you should know how to possess his vessel in sanctification and honour: In sanctification and honor. Possess your vessel means you got to know how to control yourself. Control the lust, the urges, the covetousness, the evil that's within, that's in this flesh. Let me say it like that. We got to learn to control this flesh. Possess his vessel. Okay? No fornication.
+
+> <sup>[5](/bible/1-thessalonians/4#v5)</sup> Not in the lust of concupiscence, even as the Gentiles which know not God:
 
 - Not in the lust of concupiscence: You see that? Not in the lust of concupiscence. Evil thoughts.
 
@@ -360,10 +360,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[1 Peter 1:1-2](/bible/1-peter/1#v1)**  *[[35:45](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=2145s)]*
 
 > <sup>[1](/bible/1-peter/1#v1)</sup> Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
->
-> <sup>[2](/bible/1-peter/1#v2)</sup> Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 
 - Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia: Right? Or Bithynia.
+
+> <sup>[2](/bible/1-peter/1#v2)</sup> Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 
 - Elect according to the foreknowledge of God the Father: Now it says the people that Peter is writing to, he says you are elect according to the foreknowledge of God.
 
@@ -418,12 +418,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[Isaiah 28:9-10](/bible/isaiah/28#v9)**  *[[40:44](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=2444s)]*
 
 > <sup>[9](/bible/isaiah/28#v9)</sup> Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
->
-> <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
 
 - Whom shall he teach knowledge? and whom shall he make to understand doctrine: This is, Lord willing, part of the reason why y'all are tuned in to Giving the Sense from A to Z, not only now but prior lessons and lessons to come. It says whom shall he teach knowledge and whom shall he make to understand doctrine? How you going to understand what these scriptures are really talking about?
 
 - Them that are weaned from the milk, and drawn from the breasts: Right? So, just like a baby when they come out of the mother's womb, they can't initially eat solid foods and things like that. They got to drink the milk first. Okay. It's the same way in this truth. You got to come in, you got to put off, okay? Yeah, I used to eat pork. No, no, no. You can't eat pork anymore. You can't celebrate Christmas. You can't celebrate your birthday anymore. You got to keep God's holy days, tabernacles, Passover, Pentecost. You got to love your neighbor as yourself. You got to marry that woman that you're sleeping with. You got to marry that brother that you're sleeping with. Okay? Take care of your kids. Get a job. Okay? Weaned from the milk and drawn from the breast. Fix the basic things that you need to fix first. Watch this.
+
+> <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
 
 - For precept must be upon precept: For precept must be upon precept.
 
@@ -472,14 +472,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[Romans 4:23-25](/bible/romans/4#v23)**  *[[46:05](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=2765s)]*
 
 > <sup>[23](/bible/romans/4#v23)</sup> Now it was not written for his sake alone, that it was imputed to him;
->
-> <sup>[24](/bible/romans/4#v24)</sup> But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;
->
-> <sup>[25](/bible/romans/4#v25)</sup> Who was delivered for our offences, and was raised again for our justification.
 
 - Now it was not written for his sake alone, that it was imputed to him: Now, when you read Romans 4, he's dealing with the southern kingdom, the Jews, and letting them know that Abraham was justified by faith. Okay? Not of sacrificial law. When you read the works in Romans 4, it's talking about sacrificial law.
 
+> <sup>[24](/bible/romans/4#v24)</sup> But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;
+
 - If we believe on him that raised up Jesus our Lord from the dead: If we believe on him that raised up Jesus our Lord from the dead.
+
+> <sup>[25](/bible/romans/4#v25)</sup> Who was delivered for our offences, and was raised again for our justification.
 
 - Who was delivered for our offences: Who was delivered for our offenses, meaning he was sacrificed for our offenses.
 
@@ -515,14 +515,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 **[Romans 5:15-19](/bible/romans/5#v15)**  *[[49:07](https://www.youtube.com/watch?v=AnQU6zjBRU4&t=2947s)]*
 
 > <sup>[15](/bible/romans/5#v15)</sup> But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.
->
-> <sup>[16](/bible/romans/5#v16)</sup> And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.
->
-> <sup>[17](/bible/romans/5#v17)</sup> For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
->
-> <sup>[18](/bible/romans/5#v18)</sup> Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.
->
-> <sup>[19](/bible/romans/5#v19)</sup> For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.
 
 - But not as the offence, so also is the free gift: And again, chapter five, he's furthering the point. We're not justified through sacrificial law. We're justified through Christ. Watch what it says here.
 
@@ -532,15 +524,23 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "obedience", "sexual-pur
 
 - And the gift by grace, which is by one man: Which is by one man.
 
+> <sup>[16](/bible/romans/5#v16)</sup> And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.
+
 - For the judgment was by one to condemnation: For the judgment was by one to condemnation. We were condemned through Adam's sin when he fell.
 
 - But the free gift is of many offences unto justification: Unto what? Unto justification. But the free gift, which is Christ coming to die, is of many offenses unto justification. Now, we're justified through Christ. He was saying, you're not justified through animal sacrifice anymore. Okay? It's only through Christ. Christ died for the entire nation of Israel once and for all.
 
+> <sup>[17](/bible/romans/5#v17)</sup> For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
+
 - Much more they which receive abundance of grace: It says and much more they which receive abundance of grace.
+
+> <sup>[18](/bible/romans/5#v18)</sup> Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.
 
 - Therefore as by the offence of one: And again, we already proved Paul is talking to the Israelites about Israelite history. You're not justified by what you thought from before, which was animal sacrifice. You're justified through Christ. Now, how could he be lumping all nations into this when he was talking about the history from before, just being justified, what you thought was through animal sacrifice?
 
 - Even so by the righteousness of one the free gift came upon all men unto justification of life: Unto justification of life. We're justified through Christ, through his righteousness we're justified. Watch this.
+
+> <sup>[19](/bible/romans/5#v19)</sup> For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.
 
 - So by the obedience of one shall many be made righteous: By the obedience of one, many shall be made righteous. It's the same thing we've been reading this entire time. But remember, Christ said himself, "If you love me, keep my commandments." Okay? So it's faith in him coupled with the commandments. Matter of fact, read 19 again. It's going to say it right here. Watch what it says here.
 

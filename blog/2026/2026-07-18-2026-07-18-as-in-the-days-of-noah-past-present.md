@@ -93,6 +93,12 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 
 **[Genesis 4:1-16](/bible/genesis/4#v1)**  *[[21:27](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=1287s)]*
 
+- Adam knew his wife; she conceived and bare Cain. These are the children they had when they were cast out of the garden; Cain, their firstborn that they had when they were cast out. I'm emphasizing that. And Eve said, I have gotten a man from the Lord.
+
+- Abel was a keeper of sheep; he was a shepherd. But Cain was a tiller of the ground. So where did Cain spend most of his time? In the field.
+
+- In process of time doesn't tell you how long, but over time this took place gradually. Cain brought of the fruit of the ground, because Cain spent most of his time in the field. Abel brought of the firstlings, the best, of his flock, and of the fat thereof, because Adam and Eve, once they were cast out, had to sacrifice animals from that point on. The Lord had respect unto what Abel provided, but not what Cain provided. The Lord said, Cain, what is this? You brought me fruit; is that what I asked you to give me? Cain got sick and tired of bringing animals; he started to gain a certain level of resentment for offering to the Lord. Cuz Cain was a man of the Lord; keep that in mind.
+
 > <sup>[1](/bible/genesis/4#v1)</sup> And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.
 >
 > <sup>[2](/bible/genesis/4#v2)</sup> And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
@@ -102,43 +108,50 @@ Happy Sabbath, y'all. Shout outs to the friends and shout outs to our frenemies 
 > <sup>[4](/bible/genesis/4#v4)</sup> And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the Lord had respect unto Abel and to his offering:
 >
 > <sup>[5](/bible/genesis/4#v5)</sup> But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
->
+
+- And Cain was very wroth: Cain was pissed off, and his countenance fell. If thou doest well, shalt thou not be accepted? And if thou doest not well, sin lieth at the door: sin, which is the devil, Satan, lies at the door in here, your mind. If you don't do well, Satan will take control of you. And unto thee shall be his desire: you'll want to do what Satan wants you to do. And thou shalt rule over him: meaning Satan shall rule over you, use you as a vessel.
+
 > <sup>[6](/bible/genesis/4#v6)</sup> And the Lord said unto Cain, Why art thou wroth? and why is thy countenance fallen?
 >
 > <sup>[7](/bible/genesis/4#v7)</sup> If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
 >
 > <sup>[8](/bible/genesis/4#v8)</sup> And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
->
+
+- Cain talked with Abel his brother: hey, Abel, come talk to you for a second, man. And it came to pass, when they were in the field, that's where Cain spends his time, that Cain rose up against Abel his brother, and slew him.
+
+- The Lord, knowing exactly what happened, decides to test Cain to see where his mind is, if he has a conscience: where is Abel thy brother? And he said, I know not. That alone is disrespectful. Am I my brother's keeper? Am I his babysitter? Now you're talking smart to the Lord.
+
 > <sup>[9](/bible/genesis/4#v9)</sup> And the Lord said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper?
 >
 > <sup>[10](/bible/genesis/4#v10)</sup> And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.
->
+
+- The voice of thy brother's blood crieth unto me from the ground: yo, your brother's right here with me; why is he here with me? You killed your brother. And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood: that blood you spilled hit that ground and is now going to be upon you. Now, what was Adam made of again? He cursed the ground; he cursed Cain. So if Adam was made from dust of the ground, and you cursed that ground, that ground ain't the same color, does it? Something happens to that color.
+
 > <sup>[11](/bible/genesis/4#v11)</sup> And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;
 >
 > <sup>[12](/bible/genesis/4#v12)</sup> When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.
->
+
+- It shall not henceforth yield unto thee her strength: that's why, when you bring it to today, when the so-called white man needs resources, does he stay in Europe? No. If it were not for Africa, Europe would be a third world country. That's why the white man had to go to the Americas where Israel is, to Africa where Israel is, to acquire resources. The white man is a scavenger.
+
+- A fugitive and a vagabond shalt thou be in the earth: you're going to be a bum, you're going to wander around, in this land over here, that land over there, where you don't belong. A vagabond's a bum; bums sleep where they don't belong: the subway, the sidewalk, a bus station, in the staircase, in your elevator, under the bridge. A fugitive is a person that escapes from the law, escapes his crimes, has not served his sentence yet. Cain, that'll be you and your descendants' lot.
+
 > <sup>[13](/bible/genesis/4#v13)</sup> And Cain said unto the Lord, My punishment is greater than I can bear.
 >
 > <sup>[14](/bible/genesis/4#v14)</sup> Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.
->
-> <sup>[15](/bible/genesis/4#v15)</sup> And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.
->
-> <sup>[16](/bible/genesis/4#v16)</sup> And Cain went out from the presence of the Lord, and dwelt in the land of Nod, on the east of Eden.
 
-- Adam knew his wife; she conceived and bare Cain. These are the children they had when they were cast out of the garden; Cain, their firstborn that they had when they were cast out. I'm emphasizing that. And Eve said, I have gotten a man from the Lord.
-- Abel was a keeper of sheep; he was a shepherd. But Cain was a tiller of the ground. So where did Cain spend most of his time? In the field.
-- In process of time doesn't tell you how long, but over time this took place gradually. Cain brought of the fruit of the ground, because Cain spent most of his time in the field. Abel brought of the firstlings, the best, of his flock, and of the fat thereof, because Adam and Eve, once they were cast out, had to sacrifice animals from that point on. The Lord had respect unto what Abel provided, but not what Cain provided. The Lord said, Cain, what is this? You brought me fruit; is that what I asked you to give me? Cain got sick and tired of bringing animals; he started to gain a certain level of resentment for offering to the Lord. Cuz Cain was a man of the Lord; keep that in mind.
-- And Cain was very wroth: Cain was pissed off, and his countenance fell. If thou doest well, shalt thou not be accepted? And if thou doest not well, sin lieth at the door: sin, which is the devil, Satan, lies at the door in here, your mind. If you don't do well, Satan will take control of you. And unto thee shall be his desire: you'll want to do what Satan wants you to do. And thou shalt rule over him: meaning Satan shall rule over you, use you as a vessel.
-- Cain talked with Abel his brother: hey, Abel, come talk to you for a second, man. And it came to pass, when they were in the field, that's where Cain spends his time, that Cain rose up against Abel his brother, and slew him.
-- The Lord, knowing exactly what happened, decides to test Cain to see where his mind is, if he has a conscience: where is Abel thy brother? And he said, I know not. That alone is disrespectful. Am I my brother's keeper? Am I his babysitter? Now you're talking smart to the Lord.
-- The voice of thy brother's blood crieth unto me from the ground: yo, your brother's right here with me; why is he here with me? You killed your brother. And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood: that blood you spilled hit that ground and is now going to be upon you. Now, what was Adam made of again? He cursed the ground; he cursed Cain. So if Adam was made from dust of the ground, and you cursed that ground, that ground ain't the same color, does it? Something happens to that color.
-- It shall not henceforth yield unto thee her strength: that's why, when you bring it to today, when the so-called white man needs resources, does he stay in Europe? No. If it were not for Africa, Europe would be a third world country. That's why the white man had to go to the Americas where Israel is, to Africa where Israel is, to acquire resources. The white man is a scavenger.
-- A fugitive and a vagabond shalt thou be in the earth: you're going to be a bum, you're going to wander around, in this land over here, that land over there, where you don't belong. A vagabond's a bum; bums sleep where they don't belong: the subway, the sidewalk, a bus station, in the staircase, in your elevator, under the bridge. A fugitive is a person that escapes from the law, escapes his crimes, has not served his sentence yet. Cain, that'll be you and your descendants' lot.
 - Thou hast driven me out this day from the face of the earth, and from thy face shall I be hid: God will deal with him no more. Who will deal with him now? Satan. God is not your God no more. That curse fell upon him and his children.
+
 - Everyone that findeth me shall slay me: anybody's going to know, that's that murderer right there. How they know? He going to look different, cuz that melanin is gone. When you examine the so-called white man today, look at him: you see his blood flowing right through his skin. He's red, like the same blood that Cain shed in that ground. That's what happened to him.
+
+> <sup>[15](/bible/genesis/4#v15)</sup> And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.
+
 - Whosoever slayeth Cain, vengeance shall be taken on him sevenfold: the Lord said, no one has to touch him; don't avenge Abel's blood. I'll deal with him myself. And the Lord set a mark upon Cain: that's that curse in the ground.
+
 - And Cain went out from the presence of the Lord, and dwelt in the land of Nod, on the east of Eden. That's the same place the cherubims was at, that flaming sword. That's where he went. Who do you think he dealt with over there? The devil.
+
 - And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city. Obviously it was a bunch of people around at this time; Adam and Eve had children prior; that's where Cain got his wife from. Cain built the city, and that city was called Enoch.
+
+> <sup>[16](/bible/genesis/4#v16)</sup> And Cain went out from the presence of the Lord, and dwelt in the land of Nod, on the east of Eden.
 
 **[Genesis 10:8-10](/bible/genesis/10#v8)**  *[[34:02](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=2042s)]*
 
@@ -196,12 +209,20 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[Genesis 6:1-13](/bible/genesis/6#v1)**  *[[58:43](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=3523s)]*
 
+- The sons of God saw the daughters of men. What did Eve say about Cain? I've gotten a man of the Lord. So the men here is whose children? Cain's children. The daughters of men came from Cain's line, and the sons of God came out of Adam's line through Seth. What did the sons of God start doing? Messing around with Cain's daughters.
+
 > <sup>[1](/bible/genesis/6#v1)</sup> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 >
 > <sup>[2](/bible/genesis/6#v2)</sup> That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.
 >
 > <sup>[3](/bible/genesis/6#v3)</sup> And the Lord said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.
->
+
+- My spirit shall not always strive with man, for that he also is flesh: man is fallible, man makes mistakes. Yet his days shall be an hundred and twenty years: I'mma cut man's life short.
+
+- There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown. These men became renowned and mighty, but also extremely wicked: powerful hybrid babies, pretty much, but wicked. The renowned part is the fame and the power, but the mighty part goes into the wickedness they were doing. That's why it called Nimrod a mighty hunter before the Lord. They were powerful, fierce, renowned fighters, but they were wicked as hell, cuz they intermingled with Cain.
+
+- Remember what did Cain build when he got cast out? A city. What do you think the sons of God start doing? They start to dwell in that city and learn of Cain, follow behind his ways. Kind of like today: the sons of God messing around with Esau again today, dwelling in his city and learning his ways.
+
 > <sup>[4](/bible/genesis/6#v4)</sup> There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 >
 > <sup>[5](/bible/genesis/6#v5)</sup> And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
@@ -209,7 +230,11 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 > <sup>[6](/bible/genesis/6#v6)</sup> And it repented the Lord that he had made man on the earth, and it grieved him at his heart.
 >
 > <sup>[7](/bible/genesis/6#v7)</sup> And the Lord said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
->
+
+- And it repented the Lord that he had made man on the earth, and it grieved him at his heart. And the Lord said, I will destroy man: I got to kill these people, cuz now the sons of God start to behave like Cain and his daughters. I'm going to destroy everything and start over.
+
+- But Noah found grace in the eyes of the Lord. Noah was a just man and perfect in his generations: Noah was also a son of God, and out of all the sons of God in that time doing wickedness, messing around with Cain and them, Noah did not. There's always that light that shines in that darkness all throughout time. Righteous and perfect and just, meaning keeping God's commandments; the commandments that Seth kept, he was keeping also. And Noah walked with God.
+
 > <sup>[8](/bible/genesis/6#v8)</sup> But Noah found grace in the eyes of the Lord.
 >
 > <sup>[9](/bible/genesis/6#v9)</sup> These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.
@@ -217,17 +242,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 > <sup>[10](/bible/genesis/6#v10)</sup> And Noah begat three sons, Shem, Ham, and Japheth.
 >
 > <sup>[11](/bible/genesis/6#v11)</sup> The earth also was corrupt before God, and the earth was filled with violence.
->
-> <sup>[12](/bible/genesis/6#v12)</sup> And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.
->
-> <sup>[13](/bible/genesis/6#v13)</sup> And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
 
-- The sons of God saw the daughters of men. What did Eve say about Cain? I've gotten a man of the Lord. So the men here is whose children? Cain's children. The daughters of men came from Cain's line, and the sons of God came out of Adam's line through Seth. What did the sons of God start doing? Messing around with Cain's daughters.
-- My spirit shall not always strive with man, for that he also is flesh: man is fallible, man makes mistakes. Yet his days shall be an hundred and twenty years: I'mma cut man's life short.
-- There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown. These men became renowned and mighty, but also extremely wicked: powerful hybrid babies, pretty much, but wicked. The renowned part is the fame and the power, but the mighty part goes into the wickedness they were doing. That's why it called Nimrod a mighty hunter before the Lord. They were powerful, fierce, renowned fighters, but they were wicked as hell, cuz they intermingled with Cain.
-- Remember what did Cain build when he got cast out? A city. What do you think the sons of God start doing? They start to dwell in that city and learn of Cain, follow behind his ways. Kind of like today: the sons of God messing around with Esau again today, dwelling in his city and learning his ways.
-- And it repented the Lord that he had made man on the earth, and it grieved him at his heart. And the Lord said, I will destroy man: I got to kill these people, cuz now the sons of God start to behave like Cain and his daughters. I'm going to destroy everything and start over.
-- But Noah found grace in the eyes of the Lord. Noah was a just man and perfect in his generations: Noah was also a son of God, and out of all the sons of God in that time doing wickedness, messing around with Cain and them, Noah did not. There's always that light that shines in that darkness all throughout time. Righteous and perfect and just, meaning keeping God's commandments; the commandments that Seth kept, he was keeping also. And Noah walked with God.
 - The earth also was corrupt before God: because the sons of God started to mingle with the daughters of men, Cain's children. Cain gained dominion on the earth. And the earth was filled with violence: just like Cain was violent. Is the earth full of violence today? Yes. The end of all flesh is come before me; behold, I will destroy them with the earth.
 
   Precepts:
@@ -253,29 +268,39 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws. Abraham kept the laws, statutes, and commandments just as Noah did.
 
+> <sup>[12](/bible/genesis/6#v12)</sup> And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.
+>
+> <sup>[13](/bible/genesis/6#v13)</sup> And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
+
 **[Genesis 25:21-27](/bible/genesis/25#v21)**  *[[1:11:33](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=4293s)]*
+
+- Rebekah's pregnant and having issues in the womb: if this be the blessing of God, why am I in this condition? Two nations are in thy womb, and two manner of people shall be separated from thy bowels: they're twins, but two different nations, two different people. Their manners, meaning how they look, how they think, how they behave, will be completely different. Two different nations or races in her womb, and they're going to think different.
+
+- I'm gonna kill a whole race of people and say, uh, they killed themselves. You'll not ever come across history where black folks have killed and eradicated an entire race off the earth, ever. You won't hear about black folks dropping nukes on anybody, ever. Killing animals into extinction. We don't do that. Swim around with sharks, play around and get beat up by a bison.
+
+- Video: an old man got thrown like 80 feet in the air by a bison. Who gets beat by a bison? I can't find one video of a black man getting thrown by a bison. We don't do those things. It's a bison: I want to take a picture of it. Look at this dude, he's like 60 years old. That bison threw him in the air like a ball. That's not AI; that's actually a video. Leave God's creatures alone. They don't like you either. We do that when it's in a cage: black folks go to the zoo, oh, look at the bison, click click click, cuz he's behind a barrier. But they go in actual woods where the bison is minding his business. Oh, you want to take pictures? Okay, take a picture of this too. He said, I broke my femur. And then they said the buffalo was standing over him about to finish the job, and Esau went and saved him. And the guy in the truck trying to distract him; it ain't work. He said, no, I ain't falling for that; I know exactly what I want. Leave the brown animals alone. They don't like you either. Go play with the sharks; both of y'all are great and white.
 
 > <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
 >
 > <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
 >
 > <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
->
+
+- And the one people shall be stronger than the other people: that's us, stronger than them. And the elder shall serve the younger: they served us under David. We lost dominion over them after the fall of both kingdoms, Judah and Israel, and that's when they start to ascend into power again.
+
+- And the first came out red, all over like an hairy garment; and they called his name Esau. That pigmentation was gone, just like the Lord told Cain all the way in the beginning: cursed of the earth, you gonna look different. The Lord sent him right back looking the exact same way from before.
+
 > <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
 >
 > <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
 >
 > <sup>[26](/bible/genesis/25#v26)</sup> And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
->
-> <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
 
-- Rebekah's pregnant and having issues in the womb: if this be the blessing of God, why am I in this condition? Two nations are in thy womb, and two manner of people shall be separated from thy bowels: they're twins, but two different nations, two different people. Their manners, meaning how they look, how they think, how they behave, will be completely different. Two different nations or races in her womb, and they're going to think different.
-- I'm gonna kill a whole race of people and say, uh, they killed themselves. You'll not ever come across history where black folks have killed and eradicated an entire race off the earth, ever. You won't hear about black folks dropping nukes on anybody, ever. Killing animals into extinction. We don't do that. Swim around with sharks, play around and get beat up by a bison.
-- Video: an old man got thrown like 80 feet in the air by a bison. Who gets beat by a bison? I can't find one video of a black man getting thrown by a bison. We don't do those things. It's a bison: I want to take a picture of it. Look at this dude, he's like 60 years old. That bison threw him in the air like a ball. That's not AI; that's actually a video. Leave God's creatures alone. They don't like you either. We do that when it's in a cage: black folks go to the zoo, oh, look at the bison, click click click, cuz he's behind a barrier. But they go in actual woods where the bison is minding his business. Oh, you want to take pictures? Okay, take a picture of this too. He said, I broke my femur. And then they said the buffalo was standing over him about to finish the job, and Esau went and saved him. And the guy in the truck trying to distract him; it ain't work. He said, no, I ain't falling for that; I know exactly what I want. Leave the brown animals alone. They don't like you either. Go play with the sharks; both of y'all are great and white.
-- And the one people shall be stronger than the other people: that's us, stronger than them. And the elder shall serve the younger: they served us under David. We lost dominion over them after the fall of both kingdoms, Judah and Israel, and that's when they start to ascend into power again.
-- And the first came out red, all over like an hairy garment; and they called his name Esau. That pigmentation was gone, just like the Lord told Cain all the way in the beginning: cursed of the earth, you gonna look different. The Lord sent him right back looking the exact same way from before.
 - And after that came his brother out, and his hand took hold on Esau's heel: that fight continued even after that.
+
 - And Esau was a cunning hunter, a man of the field. What did Cain do? Same exact thing. They're the exact same thing. Why? Nothing new under the sun. And Jacob was a plain man, dwelling in tents.
+
+> <sup>[27](/bible/genesis/25#v27)</sup> And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
 
 **[Genesis 27:39-45](/bible/genesis/27#v40)**  *[[1:20:15](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=4815s)]*
 
@@ -298,14 +323,9 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 **[Psalms 140:1-4](/bible/psalms/140#v1)**  *[[1:24:18](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=5058s)]*
 
 > <sup>[1](/bible/psalms/140#v1)</sup> Deliver me, O Lord, from the evil man: preserve me from the violent man;
->
-> <sup>[2](/bible/psalms/140#v2)</sup> Which imagine mischiefs in their heart; continually are they gathered together for war.
->
-> <sup>[3](/bible/psalms/140#v3)</sup> They have sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
->
-> <sup>[4](/bible/psalms/140#v4)</sup> Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
 
 - Deliver me, O Lord, from the evil man: preserve me from the violent man. They have sharpened their tongues like a serpent; adders' poison is under their lips: they're liars.
+
 - The Bible calls the evil man, or the violent man, the wicked. Keep me, O Lord, from the hands of the wicked; preserve me from the violent man, who have purposed to overthrow my goings.
 
   Precepts:
@@ -324,6 +344,12 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
     > <sup>[12](/bible/matthew/11#v12)</sup> And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.
 
     The kingdom of heaven, that's Israel, suffereth violence, and the violent take it by force. The violent is the Romans; Esau is the Romans. Esau is the violent man, the wicked man.
+
+> <sup>[2](/bible/psalms/140#v2)</sup> Which imagine mischiefs in their heart; continually are they gathered together for war.
+>
+> <sup>[3](/bible/psalms/140#v3)</sup> They have sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
+>
+> <sup>[4](/bible/psalms/140#v4)</sup> Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
 
 **[Genesis 30:36-43](/bible/genesis/30#v36)**  *[[1:28:26](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=5306s)]*
 
@@ -445,7 +471,11 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 **[Genesis 7:1-16](/bible/genesis/7#v1)**  *[[1:41:15](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=6075s)]*
 
 > <sup>[1](/bible/genesis/7#v1)</sup> And the Lord said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
->
+
+- For thee have I seen righteous before me in this generation: keeping the commandments. He said, this generation of yours, they got to go; I got to kill everybody but you.
+
+- Of every clean beast thou shalt take to thee by sevens, and of beasts that are not clean by two. How you know which one's clean and unclean if you have no laws? Noah knew the difference between the clean animals and unclean. Why? Cuz Noah was keeping the laws, the commandments. That's how he walked with God and was found righteous and perfect.
+
 > <sup>[2](/bible/genesis/7#v2)</sup> Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.
 >
 > <sup>[3](/bible/genesis/7#v3)</sup> Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.
@@ -455,7 +485,9 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 > <sup>[5](/bible/genesis/7#v5)</sup> And Noah did according unto all that the Lord commanded him.
 >
 > <sup>[6](/bible/genesis/7#v6)</sup> And Noah was six hundred years old when the flood of waters was upon the earth.
->
+
+- And Noah was six hundred years old when the flood of waters was upon the earth: so 100 years later, Noah built that boat and got in that boat.
+
 > <sup>[7](/bible/genesis/7#v7)</sup> And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.
 >
 > <sup>[8](/bible/genesis/7#v8)</sup> Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,
@@ -465,7 +497,19 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 > <sup>[10](/bible/genesis/7#v10)</sup> And it came to pass after seven days, that the waters of the flood were upon the earth.
 >
 > <sup>[11](/bible/genesis/7#v11)</sup> In the six hundredth year of Noah’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.
->
+
+- The same day were all the fountains of the great deep broken up: earthquakes, and that causes tsunamis; and the windows of heaven were opened: then the rain on top of that, 40 days and 40 nights. The Lord flooded the whole earth, killed everything, everything dead and gone except what was on that boat: eight people, him, his wife, his three sons, and their wives.
+
+- And the Lord shut him in. Well, why did God close the door? Cuz you hear what you hear outside: no, let us in! God said, nah, I got it. Boom. You ain't coming in here. You're a man; you have a soft spot: open the door, open the door. God said, nah, get back, I'll close the door. You had a 100 years to figure it out. They were warned. God was longsuffering. I told y'all: hey, repent, stop following Cain, stop following the white man, keep these laws. Nah, we good. Okay. You good in the water too? Hope you're a good swimmer.
+
+- We read this all the time, but you don't understand what Noah dealt with. There's babies out there. People: please, my baby, please. Screaming and crying. His family out there too; Noah had siblings, sons and daughters out there screaming: why are you doing this? Noah had to sit there and take it, hear the screaming, the crying, the begging, until you hear nothing no more. That's a terrible thing to experience, man.
+
+  Precepts:
+  - **[Revelation 3:7](/bible/revelation/3#v7)**
+    > <sup>[7](/bible/revelation/3#v7)</sup> And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
+
+    He that openeth, and no man shutteth; and shutteth, and no man openeth: that was Christ. So right now repentance is open. Longsuffering. That's the time right now to get it right. Once that door is closed, that's it. No one can open it. That great gulf fixed.
+
 > <sup>[12](/bible/genesis/7#v12)</sup> And the rain was upon the earth forty days and forty nights.
 >
 > <sup>[13](/bible/genesis/7#v13)</sup> In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;
@@ -476,46 +520,38 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 >
 > <sup>[16](/bible/genesis/7#v16)</sup> And they that went in, went in male and female of all flesh, as God had commanded him: and the Lord shut him in.
 
-- For thee have I seen righteous before me in this generation: keeping the commandments. He said, this generation of yours, they got to go; I got to kill everybody but you.
-- Of every clean beast thou shalt take to thee by sevens, and of beasts that are not clean by two. How you know which one's clean and unclean if you have no laws? Noah knew the difference between the clean animals and unclean. Why? Cuz Noah was keeping the laws, the commandments. That's how he walked with God and was found righteous and perfect.
-- And Noah was six hundred years old when the flood of waters was upon the earth: so 100 years later, Noah built that boat and got in that boat.
-- The same day were all the fountains of the great deep broken up: earthquakes, and that causes tsunamis; and the windows of heaven were opened: then the rain on top of that, 40 days and 40 nights. The Lord flooded the whole earth, killed everything, everything dead and gone except what was on that boat: eight people, him, his wife, his three sons, and their wives.
-- And the Lord shut him in. Well, why did God close the door? Cuz you hear what you hear outside: no, let us in! God said, nah, I got it. Boom. You ain't coming in here. You're a man; you have a soft spot: open the door, open the door. God said, nah, get back, I'll close the door. You had a 100 years to figure it out. They were warned. God was longsuffering. I told y'all: hey, repent, stop following Cain, stop following the white man, keep these laws. Nah, we good. Okay. You good in the water too? Hope you're a good swimmer.
-- We read this all the time, but you don't understand what Noah dealt with. There's babies out there. People: please, my baby, please. Screaming and crying. His family out there too; Noah had siblings, sons and daughters out there screaming: why are you doing this? Noah had to sit there and take it, hear the screaming, the crying, the begging, until you hear nothing no more. That's a terrible thing to experience, man.
-
-  Precepts:
-  - **[Revelation 3:7](/bible/revelation/3#v7)**
-    > <sup>[7](/bible/revelation/3#v7)</sup> And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
-
-    He that openeth, and no man shutteth; and shutteth, and no man openeth: that was Christ. So right now repentance is open. Longsuffering. That's the time right now to get it right. Once that door is closed, that's it. No one can open it. That great gulf fixed.
-
 **[Hebrews 11:3-7](/bible/hebrews/11#v3)**  *[[1:45:52](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=6352s)]*
+
+- By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous; and by it he being dead yet speaketh: his righteousness speaks even though he's passed, dead, and gone.
 
 > <sup>[3](/bible/hebrews/11#v3)</sup> Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
 >
 > <sup>[4](/bible/hebrews/11#v4)</sup> By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.
 >
 > <sup>[5](/bible/hebrews/11#v5)</sup> By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.
->
+
+- By faith Enoch was translated that he should not see death: taken up the same way Elijah was taken up. Before his translation he had this testimony, that he pleased God.
+
 > <sup>[6](/bible/hebrews/11#v6)</sup> But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
 >
 > <sup>[7](/bible/hebrews/11#v7)</sup> By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.
 
-- By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous; and by it he being dead yet speaketh: his righteousness speaks even though he's passed, dead, and gone.
-- By faith Enoch was translated that he should not see death: taken up the same way Elijah was taken up. Before his translation he had this testimony, that he pleased God.
 - By faith Noah, being warned of God of things not seen as yet: what things were unseen? Heavy rain for 40 days and 40 nights, the whole earth being flooded, everyone dead on earth. That's unseen, unheard of. The Lord said, listen, Noah, I'm gonna kill everybody: get the animals, clean and unclean, get your wife, your sons and their wives, get in the boat, let's go. No problem, Lord. He had no questions; he was faithful like Abraham was.
+
 - Moved with fear, prepared an ark to the saving of his house; by the which he condemned the world: because Noah got saved and everybody else didn't. And became heir of the righteousness which is by faith: Noah kept the commandments of God, and by faith he built that boat. That was his works; his faith was proven by him building the ark in the first place. Faith without works is dead.
 
 **[1 Peter 3:18-20](/bible/1-peter/3#v18)**  *[[1:45:52](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=6352s)]*
 
 > <sup>[18](/bible/1-peter/3#v18)</sup> For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
->
-> <sup>[19](/bible/1-peter/3#v19)</sup> By which also he went and preached unto the spirits in prison;
->
-> <sup>[20](/bible/1-peter/3#v20)</sup> Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
 
 - Being put to death in the flesh: Christ is a man. Christ was put to death in the flesh. It doesn't say put to death in the God and flesh; oh, he's both. No, it was a man. Some make him Hercules, a demigod, half and half. No, he was a man with spiritual power. But quickened by the Spirit: brought back to life by the spirit after three days.
+
+> <sup>[19](/bible/1-peter/3#v19)</sup> By which also he went and preached unto the spirits in prison;
+
 - By which also he went and preached unto the spirits in prison: in captivity. That's his people; that's us in prison.
+
+> <sup>[20](/bible/1-peter/3#v20)</sup> Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
+
 - When once the longsuffering of God waited in the days of Noah: the Lord gave a hundred year time span for the people to repent.
 
   Precepts:
@@ -538,20 +574,17 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 > <sup>[5](/bible/2-esdras/3#v5)</sup> And gavest a body unto Adam without soul, which was the workmanship of thine hands, and didst breathe into him the breath of life, and he was made living before thee.
 >
 > <sup>[6](/bible/2-esdras/3#v6)</sup> And thou leadest him into paradise, which thy right hand had planted, before ever the earth came forward.
->
-> <sup>[7](/bible/2-esdras/3#v7)</sup> And unto him thou gavest commandment to love thy way: which he transgressed, and immediately thou appointedst death in him and in his generations, of whom came nations, tribes, people, and kindreds, out of number.
->
-> <sup>[8](/bible/2-esdras/3#v8)</sup> And every people walked after their own will, and did wonderful things before thee, and despised thy commandments.
->
-> <sup>[9](/bible/2-esdras/3#v9)</sup> And again in process of time thou broughtest the flood upon those that dwelt in the world, and destroyedst them.
->
-> <sup>[10](/bible/2-esdras/3#v10)</sup> And it came to pass in every of them, that as death was to Adam, so was the flood to these.
->
-> <sup>[11](/bible/2-esdras/3#v11)</sup> Nevertheless one of them thou leftest, namely, Noah with his household, of whom came all righteous men.
 
 - And thou leddest him into paradise: Adam was in paradise, heaven on earth, them 12 gates. And unto him thou gavest commandment to love thy way, which he transgressed, and immediately thou appointedst death in him and in his generations.
+
+> <sup>[7](/bible/2-esdras/3#v7)</sup> And unto him thou gavest commandment to love thy way: which he transgressed, and immediately thou appointedst death in him and in his generations, of whom came nations, tribes, people, and kindreds, out of number.
+
 - Of whom came nations, tribes, people, and kindreds, out of number: Adam had nations of people. They lived a long time; you're going to have lots of children, many children that divided into nations. Tribes back then. What are they called? Sons of God back then. Tribes, sons of God: sounds like, I don't know, Israelites. Nothing new under the sun. The tribes of the sons of God were around back then, and they're around now. Wicked, evil leaders around back then; righteous around now.
+
+> <sup>[8](/bible/2-esdras/3#v8)</sup> And every people walked after their own will, and did wonderful things before thee, and despised thy commandments.
+
 - And every people walked after their own will, and did wonderful things before thee: wonderful means evil; they start to mess around with the daughters of men. And despised thy commandments: meaning the commandments were around back then. That's how Noah knew the difference between the clean and the unclean.
+
 - Not Noah. Noah didn't. And again, in process of time, thou broughtest the flood upon those that dwelt in the world, and destroyedst them. Nevertheless one of them thou leftest, namely Noah with his household, of whom came all righteous men: that goes back to Shem's line. Not Ham's line, not Japheth's line: Shem's line.
 
   Precepts:
@@ -568,26 +601,36 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     Seth was Abel's replacement of righteousness. Then began men to call upon the name of the Lord: when the sons of God despised God's commandments, God stopped dealing with us. But once Seth had Enos, that line began to call upon the name of the Lord, and God started dealing with us again. The wickedness is always around, and the righteous is born within the evil, always.
 
+> <sup>[9](/bible/2-esdras/3#v9)</sup> And again in process of time thou broughtest the flood upon those that dwelt in the world, and destroyedst them.
+>
+> <sup>[10](/bible/2-esdras/3#v10)</sup> And it came to pass in every of them, that as death was to Adam, so was the flood to these.
+>
+> <sup>[11](/bible/2-esdras/3#v11)</sup> Nevertheless one of them thou leftest, namely, Noah with his household, of whom came all righteous men.
+
 **[Ecclesiasticus 44:16-17](/bible/sirach/44#v16)**  *[[2:02:51](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=7371s)]*
 
+- Let us now praise famous men and our fathers that begat us: leaders of the people by their counsels and by their knowledge.
+
 > <sup>[16](/bible/sirach/44#v16)</sup> Enoch pleased the Lord, and was translated, being an example of repentance to all generations.
->
+
+- Enoch pleased the Lord, and was translated, being an example of repentance to all generations: meaning Enoch was involved in wickedness too, but he was an example of repentance.
+
 > <sup>[17](/bible/sirach/44#v17)</sup> Noah was found perfect and righteous; in the time of wrath he was taken in exchange for the world; therefore was he left as a remnant unto the earth, when the flood came.
 
-- Let us now praise famous men and our fathers that begat us: leaders of the people by their counsels and by their knowledge.
-- Enoch pleased the Lord, and was translated, being an example of repentance to all generations: meaning Enoch was involved in wickedness too, but he was an example of repentance.
 - Noah was found perfect and righteous; in the time of wrath he was taken in exchange for the world: therefore was he left as a remnant unto the earth, when the flood came. The Lord said, I'm going to destroy all the earth and just keep Noah alive and start all over again with him. Damn.
 
 **[Isaiah 54:8-10](/bible/isaiah/54#v8)**  *[[2:07:25](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=7645s)]*
 
+- What does the flood of Noah represent? In a little wrath I hid my face from thee for a moment: the thee is Israel. I have wrath upon you, put you in captivity; even now we're in captivity. But with everlasting kindness will I have mercy on thee.
+
 > <sup>[8](/bible/isaiah/54#v8)</sup> In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the Lord thy Redeemer.
 >
 > <sup>[9](/bible/isaiah/54#v9)</sup> For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.
->
+
+- For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth, so have I sworn that I would not be wroth with thee, nor rebuke thee. The Lord flooded the earth and made a vow with the rainbow that he would never flood the earth again. Likewise, he will never put us in captivity again once we get delivered. You will not see slavery ever again. You're going to be ruling forever. This is the last go around. No more of this captivity stuff.
+
 > <sup>[10](/bible/isaiah/54#v10)</sup> For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the Lord that hath mercy on thee.
 
-- What does the flood of Noah represent? In a little wrath I hid my face from thee for a moment: the thee is Israel. I have wrath upon you, put you in captivity; even now we're in captivity. But with everlasting kindness will I have mercy on thee.
-- For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth, so have I sworn that I would not be wroth with thee, nor rebuke thee. The Lord flooded the earth and made a vow with the rainbow that he would never flood the earth again. Likewise, he will never put us in captivity again once we get delivered. You will not see slavery ever again. You're going to be ruling forever. This is the last go around. No more of this captivity stuff.
 - For the mountains shall depart, and the hills be removed: that means destruction, no more nations. But my kindness shall not depart from thee, neither shall the covenant of my peace be removed. The rainbow itself was a sign that God would not flood the earth again, but also tied into the mercy God would grant us: freeing us from captivity, sending a son to die for us. It's all symbols back to us. The rainbow goes back to us, the sun goes back to us, the moon goes back to us. Everything on this earth refers back to God's people and God's mercy towards that people. No one else.
 
 **[Ezekiel 14:12-20](/bible/ezekiel/14#v12)**  *[[2:11:33](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=7893s)]*
@@ -637,12 +680,20 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
 **[Revelation 13:1-14](/bible/revelation/13#v1)**  *[[2:15:45](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=8145s)]*
 
+- This beast rising up out of the sea is the fourth beast; rather than ten toes, this beast has ten horns. It's the same exact beast, just given a different attribute. On the statue it's toes of feet; in Daniel 7 it's the fourth beast; in Esdras it's an eagle; in Revelation it's a dragon.
+
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 >
 > <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
->
+
+- Like unto a leopard: that's the Greek philosophy, democracy, the politics of America. The mouth of a lion: the Babylonian doctrines found in America. The feet of a bear: Persia. This empire took all the ancient dark civilizations, learned from their mistakes, and merged them into itself.
+
+- And the dragon gave him his power: Satan. Remember he told Cain, he shall rule over you. The same power Cain gained back then through the music and the warfare, he gained here now. And his seat, and great authority.
+
 > <sup>[3](/bible/revelation/13#v3)</sup> And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
->
+
+- And I saw one of his heads as it were wounded to death: the Renaissance. And his deadly wound was healed, and all the world wondered after the beast. And they worshipped the dragon which gave power unto the beast: they worshipped Satan.
+
 > <sup>[4](/bible/revelation/13#v4)</sup> And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
 >
 > <sup>[5](/bible/revelation/13#v5)</sup> And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
@@ -662,13 +713,7 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 > <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
 >
 > <sup>[13](/bible/revelation/13#v13)</sup> And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
->
-> <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
 
-- This beast rising up out of the sea is the fourth beast; rather than ten toes, this beast has ten horns. It's the same exact beast, just given a different attribute. On the statue it's toes of feet; in Daniel 7 it's the fourth beast; in Esdras it's an eagle; in Revelation it's a dragon.
-- Like unto a leopard: that's the Greek philosophy, democracy, the politics of America. The mouth of a lion: the Babylonian doctrines found in America. The feet of a bear: Persia. This empire took all the ancient dark civilizations, learned from their mistakes, and merged them into itself.
-- And the dragon gave him his power: Satan. Remember he told Cain, he shall rule over you. The same power Cain gained back then through the music and the warfare, he gained here now. And his seat, and great authority.
-- And I saw one of his heads as it were wounded to death: the Renaissance. And his deadly wound was healed, and all the world wondered after the beast. And they worshipped the dragon which gave power unto the beast: they worshipped Satan.
 - He maketh fire come down from heaven on the earth in the sight of men: nuclear power, nuclear warfare. And deceiveth them that dwell on the earth by the means of those miracles: miracles is another word for technology. In the sight of the beast: in the sight of his own people, Germany, Russia. That they should make an image to the beast: an image dedicated to the captive church, that Cesare Borgia, the white image of Christ; the image of the beast.
 
   Precepts:
@@ -682,6 +727,8 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 
     He saw the woman sit upon a scarlet coloured beast that had seven heads and ten horns, she being the eighth head. Arrayed in purple and scarlet, decked with gold: well off, wealthy, powerful. And upon her forehead was a name written: Mystery, Babylon the Great, the mother of harlots. Why is this important? I said before, judgment is like a ring. Babylon was the first, and then it ends with Babylon again. It's full circle, just as a ring. Babylon reigned over us; now Babylon reigns over us again. Nothing new under the sun. This is a whole loop.
 
+> <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
+
 **[2 Peter 3:1-7](/bible/2-peter/3#v1)**  *[[2:19:58](https://www.youtube.com/watch?v=nwLjEGhd2oA&t=8398s)]*
 
 > <sup>[1](/bible/2-peter/3#v1)</sup> This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:
@@ -689,18 +736,21 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 > <sup>[2](/bible/2-peter/3#v2)</sup> That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
 >
 > <sup>[3](/bible/2-peter/3#v3)</sup> Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
->
+
+- There shall come in the last days scoffers, walking after their own lusts: like in Noah's time. They didn't believe: Noah building the boat for no reason, Noah's crazy, his crazy sons and wives over there building a boat. They were scoffing. And saying, Where is the promise of his coming? Where's your rain at? Where's this judgment coming from?
+
 > <sup>[4](/bible/2-peter/3#v4)</sup> And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.
->
+
+- For since the fathers fell asleep, all things continue as they were from the beginning: this is how the world is supposed to be, this how the world is. This ain't captivity, we free.
+
 > <sup>[5](/bible/2-peter/3#v5)</sup> For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:
->
+
+- By the word of God the heavens were of old: the heavens that were of old, that's Cain's kingdom, the ruling class that was of old. Whereby the world that then was, being overflowed with water, perished.
+
 > <sup>[6](/bible/2-peter/3#v6)</sup> Whereby the world that then was, being overflowed with water, perished:
 >
 > <sup>[7](/bible/2-peter/3#v7)</sup> But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.
 
-- There shall come in the last days scoffers, walking after their own lusts: like in Noah's time. They didn't believe: Noah building the boat for no reason, Noah's crazy, his crazy sons and wives over there building a boat. They were scoffing. And saying, Where is the promise of his coming? Where's your rain at? Where's this judgment coming from?
-- For since the fathers fell asleep, all things continue as they were from the beginning: this is how the world is supposed to be, this how the world is. This ain't captivity, we free.
-- By the word of God the heavens were of old: the heavens that were of old, that's Cain's kingdom, the ruling class that was of old. Whereby the world that then was, being overflowed with water, perished.
 - But the heavens and the earth, which are now, by the same word: the same word preached by who? Noah. Noah preached the same word to the people before the flood, and we're preaching to them before what? Kept in store, reserved unto fire against the day of judgment and perdition of ungodly men. The same word that was being preached by Enoch, Methuselah, Lamech, Noah, to the wicked of our people mingled amongst the other people at the time: the flood came and killed them. That's what we're doing today: here we are back again, preaching to the same wicked sons of God mixed with the same people, before what comes? Fire. It's the exact same thing.
 
   Precepts:
@@ -729,23 +779,28 @@ AI research read in class (you got to use AI to fact check AI; you can't rely on
 > <sup>[8](/bible/2-peter/3#v8)</sup> But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
 >
 > <sup>[9](/bible/2-peter/3#v9)</sup> The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
->
+
+- The Lord is not slack concerning his promise, as some men count slackness: meaning some men scoff and don't believe it's coming. The fire is coming here.
+
+- But is longsuffering to us-ward: remember that word, longsuffering. What did Noah do? Preach to the people. God gave us time to get it right. Not willing that any should perish: not willing that any should be drowned to death or burned alive. But that all should come to repentance: as Noah was preaching back then before they got drowned to death.
+
+- For the day of the Lord will come as a thief in the night: just like the flood came as a thief in the night. The heavens shall pass away with a great noise: boom. And the elements shall melt with fervent heat.
+
 > <sup>[10](/bible/2-peter/3#v10)</sup> But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
 >
 > <sup>[11](/bible/2-peter/3#v11)</sup> Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
->
+
+- Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness: like Noah was, his three sons were, and his wife and their wives were.
+
 > <sup>[12](/bible/2-peter/3#v12)</sup> Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
->
+
+- Wherein the heavens being on fire shall be dissolved: the heavens being on fire, as opposed to being underwater. Nevertheless we, according to his promise, look for new heavens and a new earth: like Noah's time, a new heavens and new earth, wherein dwelleth righteousness.
+
+- Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.
+
 > <sup>[13](/bible/2-peter/3#v13)</sup> Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.
 >
 > <sup>[14](/bible/2-peter/3#v14)</sup> Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.
-
-- The Lord is not slack concerning his promise, as some men count slackness: meaning some men scoff and don't believe it's coming. The fire is coming here.
-- But is longsuffering to us-ward: remember that word, longsuffering. What did Noah do? Preach to the people. God gave us time to get it right. Not willing that any should perish: not willing that any should be drowned to death or burned alive. But that all should come to repentance: as Noah was preaching back then before they got drowned to death.
-- For the day of the Lord will come as a thief in the night: just like the flood came as a thief in the night. The heavens shall pass away with a great noise: boom. And the elements shall melt with fervent heat.
-- Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness: like Noah was, his three sons were, and his wife and their wives were.
-- Wherein the heavens being on fire shall be dissolved: the heavens being on fire, as opposed to being underwater. Nevertheless we, according to his promise, look for new heavens and a new earth: like Noah's time, a new heavens and new earth, wherein dwelleth righteousness.
-- Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.
 
 ## In Closing
 

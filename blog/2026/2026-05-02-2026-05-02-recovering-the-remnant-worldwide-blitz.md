@@ -39,12 +39,9 @@ What a warm reception coming back to Babylon the great. The name of today's less
 **[Matthew 24:29-31](/bible/matthew/24#v29)**  *[[19:37](https://www.youtube.com/watch?v=93fP6cddXrs&t=1177s)]*
 
 > <sup>[29](/bible/matthew/24#v29)</sup> Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
->
-> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
->
-> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
 
 - Immediately after the tribulation of those days: the stars falling from heaven are missiles, and the powers of the heavens shaken are countries and nations warring against each other.
+
 - He shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other. Notice the angels do not go to one land to gather this people. Christ is letting us know the Israelites would not be in a land; the Israelites are scattered worldwide.
 
   Precepts:
@@ -53,13 +50,16 @@ What a warm reception coming back to Babylon the great. The name of today's less
 
     For Jacob my servant's sake, and Israel mine elect. The elect are not anybody that worships; the elect is Israel.
 
+> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+>
+> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+
 **[Psalms 50:4-5](/bible/psalms/50#v4)**  *[[21:32](https://www.youtube.com/watch?v=93fP6cddXrs&t=1292s)]*
 
 > <sup>[4](/bible/psalms/50#v4)</sup> He shall call to the heavens from above, and to the earth, that he may judge his people.
->
-> <sup>[5](/bible/psalms/50#v5)</sup> Gather my saints together unto me; those that have made a covenant with me by sacrifice.
 
 - He shall call to the heavens from above: that is the angels he is calling to. And to the earth: the earth is you and I. So the commandment goes to the angels and to the prophets on earth alike: gather my saints together unto me, those that have made a covenant with me by sacrifice. Only the Israelites made a covenant with God by sacrifice.
+
 - We are not supposed to be looking for other races and nationalities, only the twelve tribes of Israel.
 
   Precepts:
@@ -68,23 +68,31 @@ What a warm reception coming back to Babylon the great. The name of today's less
 
     He also exalteth the horn of his people, the praise of all his saints, even of the children of Israel. The children of Israel are the saints.
 
+> <sup>[5](/bible/psalms/50#v5)</sup> Gather my saints together unto me; those that have made a covenant with me by sacrifice.
+
 **[Isaiah 43:3-7](/bible/isaiah/43#v3)**  *[[23:38](https://www.youtube.com/watch?v=93fP6cddXrs&t=1418s)]*
 
 > <sup>[3](/bible/isaiah/43#v3)</sup> For I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.
->
+
+- I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee. He destroyed the Egyptian army for our ransom, and Ethiopia and Seba, which is Somalia, for us.
+
 > <sup>[4](/bible/isaiah/43#v4)</sup> Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
->
+
+- Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life. God is saying, the same way I destroyed ancient Egypt, Ethiopia, and the Sabeans, I must destroy nations again for your deliverance. If you say you do not want God to destroy anybody, you do not read the Bible.
+
 > <sup>[5](/bible/isaiah/43#v5)</sup> Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;
->
+
+- Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west; I will say to the north, Give up; and to the south, Keep not back. Bring my sons from far, and my daughters from the ends of the earth, even every one that is called by my name. That is why we have to teach our people: you are the Israelites the Bible speaks of.
+
 > <sup>[6](/bible/isaiah/43#v6)</sup> I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
 >
 > <sup>[7](/bible/isaiah/43#v7)</sup> Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
 
-- I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee. He destroyed the Egyptian army for our ransom, and Ethiopia and Seba, which is Somalia, for us.
-- Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life. God is saying, the same way I destroyed ancient Egypt, Ethiopia, and the Sabeans, I must destroy nations again for your deliverance. If you say you do not want God to destroy anybody, you do not read the Bible.
-- Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west; I will say to the north, Give up; and to the south, Keep not back. Bring my sons from far, and my daughters from the ends of the earth, even every one that is called by my name. That is why we have to teach our people: you are the Israelites the Bible speaks of.
-
 **[Acts 2:5-15](/bible/acts/2#v5)**  *[[25:44](https://www.youtube.com/watch?v=93fP6cddXrs&t=1544s)]*
+
+- There were dwelling at Jerusalem Jews, devout men, out of every nation under heaven. Israelites came from every nation under heaven for the feast, and every man heard the apostles speak in his own language. Why did God not just have them teach in Hebrew? Because Hebrew was not the first language of these Israelites; their first language was the language of the countries they were born into. God anointed the brothers with the Holy Spirit so there would be no misunderstanding.
+
+- The roll call of lands is a map of the captivities: Parthians and Medes, that is Persia Media, modern day Iran; Elamites, toward India and Pakistan; Mesopotamia, which is Iraq, old Babylon; Cappadocia, Pontus, Asia, Phrygia, and Pamphylia, the region of modern Turkey; Egypt and the parts of Libya about Cyrene, which is Africa; strangers of Rome; Cretes from the Greek captivity; and Arabians from the Arab captivity.
 
 > <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
 >
@@ -97,7 +105,11 @@ What a warm reception coming back to Babylon the great. The name of today's less
 > <sup>[9](/bible/acts/2#v9)</sup> Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judea, and Cappadocia, in Pontus, and Asia,
 >
 > <sup>[10](/bible/acts/2#v10)</sup> Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes,
->
+
+- Jews and proselytes: a proselyte is a convert, men and women who came back to the law of Moses.
+
+- Peter said, these are not drunken, as ye suppose, seeing it is but the third hour of the day: nine in the morning.
+
 > <sup>[11](/bible/acts/2#v11)</sup> Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God.
 >
 > <sup>[12](/bible/acts/2#v12)</sup> And they were all amazed, and were in doubt, saying one to another, What meaneth this?
@@ -107,11 +119,6 @@ What a warm reception coming back to Babylon the great. The name of today's less
 > <sup>[14](/bible/acts/2#v14)</sup> But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judea, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words:
 >
 > <sup>[15](/bible/acts/2#v15)</sup> For these are not drunken, as ye suppose, seeing it is but the third hour of the day.
-
-- There were dwelling at Jerusalem Jews, devout men, out of every nation under heaven. Israelites came from every nation under heaven for the feast, and every man heard the apostles speak in his own language. Why did God not just have them teach in Hebrew? Because Hebrew was not the first language of these Israelites; their first language was the language of the countries they were born into. God anointed the brothers with the Holy Spirit so there would be no misunderstanding.
-- The roll call of lands is a map of the captivities: Parthians and Medes, that is Persia Media, modern day Iran; Elamites, toward India and Pakistan; Mesopotamia, which is Iraq, old Babylon; Cappadocia, Pontus, Asia, Phrygia, and Pamphylia, the region of modern Turkey; Egypt and the parts of Libya about Cyrene, which is Africa; strangers of Rome; Cretes from the Greek captivity; and Arabians from the Arab captivity.
-- Jews and proselytes: a proselyte is a convert, men and women who came back to the law of Moses.
-- Peter said, these are not drunken, as ye suppose, seeing it is but the third hour of the day: nine in the morning.
 
 **[Acts 20:1-5](/bible/acts/20#v1)**  *[[29:42](https://www.youtube.com/watch?v=93fP6cddXrs&t=1782s)]*
 
@@ -144,10 +151,10 @@ What a warm reception coming back to Babylon the great. The name of today's less
 **[Psalms 106:34-35](/bible/psalms/106#v34)**  *[[32:35](https://www.youtube.com/watch?v=93fP6cddXrs&t=1955s)]*
 
 > <sup>[34](/bible/psalms/106#v34)</sup> They did not destroy the nations, concerning whom the Lord commanded them:
->
-> <sup>[35](/bible/psalms/106#v35)</sup> But were mingled among the heathen, and learned their works.
 
 - They did not destroy the nations, concerning whom the Lord commanded them: but were mingled among the heathen, and learned their works. Our people on the continent of Africa mingled among the Canaanites, Philistines, Jebusites, and Hittites and learned their works. Our people on this side of the world mingled with Esau, which is why the complexions and the hair changed.
+
+> <sup>[35](/bible/psalms/106#v35)</sup> But were mingled among the heathen, and learned their works.
 
 **[Isaiah 11:10-12](/bible/isaiah/11#v10)**  *[[34:07](https://www.youtube.com/watch?v=93fP6cddXrs&t=2047s)]*
 
@@ -163,15 +170,12 @@ What a warm reception coming back to Babylon the great. The name of today's less
 
 **[Zephaniah 3:10-13](/bible/zephaniah/3#v10)**  *[[36:19](https://www.youtube.com/watch?v=93fP6cddXrs&t=2179s)]*
 
+- From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed. Beyond the Blue Nile is West Africa, South Africa, North Africa: a large portion of the scattered are on the continent of Africa.
+
 > <sup>[10](/bible/zephaniah/3#v10)</sup> From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.
 >
 > <sup>[11](/bible/zephaniah/3#v11)</sup> In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.
->
-> <sup>[12](/bible/zephaniah/3#v12)</sup> I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord.
->
-> <sup>[13](/bible/zephaniah/3#v13)</sup> The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid.
 
-- From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed. Beyond the Blue Nile is West Africa, South Africa, North Africa: a large portion of the scattered are on the continent of Africa.
 - I will take away out of the midst of thee them that rejoice in thy pride: the pastors and the parties rejoice in us going against God's commandments.
 
   Precepts:
@@ -181,7 +185,12 @@ What a warm reception coming back to Babylon the great. The name of today's less
     The beginning of pride is when one departeth from God.
 
 - I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord. We went throughout Africa on this journey of keeping the Passover and the feast of unleavened bread: are the brothers there not afflicted and poor? They must be taught to trust in the name of the Lord.
+
 - The remnant of Israel shall not do iniquity, nor speak lies. No, Jesus is not white; no, he was not born December 25th; no, we are not to pray to Mary or to the ancestors. They shall feed and lie down, and none shall make them afraid.
+
+> <sup>[12](/bible/zephaniah/3#v12)</sup> I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord.
+>
+> <sup>[13](/bible/zephaniah/3#v13)</sup> The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid.
 
 **[Isaiah 42:22-25](/bible/isaiah/42#v22)**  *[[39:39](https://www.youtube.com/watch?v=93fP6cddXrs&t=2379s)]*
 
@@ -284,16 +293,6 @@ Reading from *The Jewish Mystique* by Ernest van den Haag · read by Captain Uri
 
 **[Isaiah 44:1-5](/bible/isaiah/44#v1)**  *[[50:00](https://www.youtube.com/watch?v=93fP6cddXrs&t=3000s)]*
 
-> <sup>[1](/bible/isaiah/44#v1)</sup> Yet now hear, O Jacob my servant; and Israel, whom I have chosen:
->
-> <sup>[2](/bible/isaiah/44#v2)</sup> Thus saith the Lord that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.
->
-> <sup>[3](/bible/isaiah/44#v3)</sup> For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:
->
-> <sup>[4](/bible/isaiah/44#v4)</sup> And they shall spring up as among the grass, as willows by the water courses.
->
-> <sup>[5](/bible/isaiah/44#v5)</sup> One shall say, I am the Lord’s; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel.
-
 - Hear, O Jacob my servant, and Israel whom I have chosen. Fear not: I will pour water upon him that is thirsty. Thirsty for what? For the truth.
 
   Precepts:
@@ -302,18 +301,26 @@ Reading from *The Jewish Mystique* by Ernest van den Haag · read by Captain Uri
 
     That he might sanctify and cleanse it with the washing of water by the word. The water represents the word of God.
 
+> <sup>[1](/bible/isaiah/44#v1)</sup> Yet now hear, O Jacob my servant; and Israel, whom I have chosen:
+>
+> <sup>[2](/bible/isaiah/44#v2)</sup> Thus saith the Lord that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.
+>
+> <sup>[3](/bible/isaiah/44#v3)</sup> For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:
+
 - I will pour my spirit upon thy seed, and my blessing upon thine offspring: and they shall spring up as among the grass. That is what we are looking at now: the Israelites are springing up worldwide like grass.
+
 - Verse 5 gives three categories of Israelites waking up: one shall say, I am the Lord's, acknowledging we are the children of Abraham, Isaac, and Jacob; another shall call himself by the name of Jacob, taking on a new name; and another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel.
+
+> <sup>[4](/bible/isaiah/44#v4)</sup> And they shall spring up as among the grass, as willows by the water courses.
+>
+> <sup>[5](/bible/isaiah/44#v5)</sup> One shall say, I am the Lord’s; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel.
 
 **[Zechariah 2:6-8](/bible/zechariah/2#v6)**  *[[52:35](https://www.youtube.com/watch?v=93fP6cddXrs&t=3155s)]*
 
 > <sup>[6](/bible/zechariah/2#v6)</sup> Ho, ho, come forth, and flee from the land of the north, saith the Lord: for I have spread you abroad as the four winds of the heaven, saith the Lord.
->
-> <sup>[7](/bible/zechariah/2#v7)</sup> Deliver thyself, O Zion, that dwellest with the daughter of Babylon.
->
-> <sup>[8](/bible/zechariah/2#v8)</sup> For thus saith the Lord of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.
 
 - Come forth, and flee from the land of the north: flee from North America. For I have spread you abroad as the four winds of the heaven, like we read in Matthew 24 and James 1.
+
 - Deliver thyself, O Zion, that dwellest with the daughter of Babylon. Many scriptures make Zion the twelve tribes, but in this context Zion is Judah, and God is pinpointing the group of Judah dwelling with the daughter of Babylon in the land of the north.
 
   Precepts:
@@ -327,6 +334,10 @@ Reading from *The Jewish Mystique* by Ernest van den Haag · read by Captain Uri
     > <sup>[8](/bible/psalms/137#v8)</sup> O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.
 
     Remember the children of Edom in the day of Jerusalem, who said, Rase it, rase it. O daughter of Babylon: the scripture identifies Edom as the daughter of Babylon. So Judah would dwell among Edom in the land of the north.
+
+> <sup>[7](/bible/zechariah/2#v7)</sup> Deliver thyself, O Zion, that dwellest with the daughter of Babylon.
+>
+> <sup>[8](/bible/zechariah/2#v8)</sup> For thus saith the Lord of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.
 
 - He that toucheth you toucheth the apple of his eye: we are God's favorite.
 
@@ -362,12 +373,9 @@ Reading from *The Jewish Mystique* by Ernest van den Haag · read by Captain Uri
 **[Matthew 10:5-7](/bible/matthew/10#v5)**  *[[1:01:32](https://www.youtube.com/watch?v=93fP6cddXrs&t=3692s)]*
 
 > <sup>[5](/bible/matthew/10#v5)</sup> These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:
->
-> <sup>[6](/bible/matthew/10#v6)</sup> But go rather to the lost sheep of the house of Israel.
->
-> <sup>[7](/bible/matthew/10#v7)</sup> And as ye go, preach, saying, The kingdom of heaven is at hand.
 
 - Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not: do not deal with the other eleven tribes or the northern kingdom yet, because it was not their time; Judah is raised first. But go rather to the lost sheep of the house of Israel, starting with Judah. And as ye go, preach, saying, The kingdom of heaven is at hand.
+
 - Christ still went to Samaria in John 4 and taught for a few days, because he knew the time was coming to deal with them.
 
   Precepts:
@@ -379,6 +387,10 @@ Reading from *The Jewish Mystique* by Ernest van den Haag · read by Captain Uri
     > <sup>[24](/bible/romans/9#v24)</sup> Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
 
     Even us, whom he hath called, not of the Jews only, but also of the Gentiles: not of Judah only, but also the other tribes. There is no contradiction once you know the order.
+
+> <sup>[6](/bible/matthew/10#v6)</sup> But go rather to the lost sheep of the house of Israel.
+>
+> <sup>[7](/bible/matthew/10#v7)</sup> And as ye go, preach, saying, The kingdom of heaven is at hand.
 
 **[2 Chronicles 17:5-9](/bible/2-chronicles/17#v5)**  *[[1:04:51](https://www.youtube.com/watch?v=93fP6cddXrs&t=3891s)]*
 
@@ -792,7 +804,11 @@ Reading from *Christopher Columbus and the Participation of the Jews in the Span
 **[Ecclesiasticus 6:32-37](/bible/sirach/6#v32)**  *[[2:25:04](https://www.youtube.com/watch?v=93fP6cddXrs&t=8704s)]*
 
 > <sup>[32](/bible/sirach/6#v32)</sup> My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.
->
+
+- My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent. Notice the ifs: if is a two letter word with a big meaning. Study, pray, apply.
+
+- Stand in the multitude of the elders; and cleave unto him that is wise. If thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door. Let thy mind be upon the ordinances of the Lord, and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine own desire. When you pray for wisdom, God gives it at thine own desire: if you only open the Bible on the Sabbath, your desire is telling the Lord you do not really want it.
+
 > <sup>[33](/bible/sirach/6#v33)</sup> If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise,
 >
 > <sup>[34](/bible/sirach/6#v34)</sup> Stand in the multitude of the elders; and cleave unto him that is wise.
@@ -802,9 +818,6 @@ Reading from *Christopher Columbus and the Participation of the Jews in the Span
 > <sup>[36](/bible/sirach/6#v36)</sup> And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.
 >
 > <sup>[37](/bible/sirach/6#v37)</sup> Let thy mind be upon the ordinances of the Lord and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine owns desire.
-
-- My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent. Notice the ifs: if is a two letter word with a big meaning. Study, pray, apply.
-- Stand in the multitude of the elders; and cleave unto him that is wise. If thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door. Let thy mind be upon the ordinances of the Lord, and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine own desire. When you pray for wisdom, God gives it at thine own desire: if you only open the Bible on the Sabbath, your desire is telling the Lord you do not really want it.
 
 **[1 Peter 5:2-3](/bible/1-peter/5#v2)**  *[[2:27:00](https://www.youtube.com/watch?v=93fP6cddXrs&t=8820s)]*
 
@@ -837,6 +850,8 @@ Reading from *Christopher Columbus and the Participation of the Jews in the Span
 
 **[Ecclesiasticus 39:1-6](/bible/sirach/39#v1)**  *[[2:31:30](https://www.youtube.com/watch?v=93fP6cddXrs&t=9090s)]*
 
+- Here is the flip side: he that giveth his mind to the law of the Most High will seek out the wisdom of all the ancient, and be occupied in prophecies. Where subtle parables are, he will be there also, wanting to learn; he will seek out the secrets of grave sentences, like the question Christ put to the Pharisees about David calling his own son Lord.
+
 > <sup>[1](/bible/sirach/39#v1)</sup> But he that giveth his mind to the law of the most High, and is occupied in the meditation thereof, will seek out the wisdom of all the ancient, and be occupied in prophecies.
 >
 > <sup>[2](/bible/sirach/39#v2)</sup> He will keep the sayings of the renowned men: and where subtil parables are, he will be there also.
@@ -844,14 +859,14 @@ Reading from *Christopher Columbus and the Participation of the Jews in the Span
 > <sup>[3](/bible/sirach/39#v3)</sup> He will seek out the secrets of grave sentences, and be conversant in dark parables.
 >
 > <sup>[4](/bible/sirach/39#v4)</sup> He shall serve among great men, and appear before princes: he will travel through strange countries; for he hath tried the good and the evil among men.
->
+
+- He shall serve among great men, and appear before princes: he will travel through strange countries. As we have traveled, brothers have sat before dignitaries: vice presidents, mayors, governors. In Uganda the protocol for sitting before the vice president was taught to us on the spot: sit in rank, speak in order of seniority after he raises his hand. In Liberia, doors opened that cannot even be explained, and a former president running for reelection sat down with the brothers while agents monitored the church and followed them to the meeting. If we are sitting down with vice presidents and heads of state, arguing online with those who do not believe is beneath the work.
+
+- He will give his heart to resort early to the Lord that made him, and will pray before the Most High. Remember the morning prayer that goes out at sunrise. When the great Lord will, he shall be filled with the spirit of understanding: you cannot rush your understanding.
+
 > <sup>[5](/bible/sirach/39#v5)</sup> He will give his heart to resort early to the Lord that made him, and will pray before the most High, and will open his mouth in prayer, and make supplication for his sins.
 >
 > <sup>[6](/bible/sirach/39#v6)</sup> When the great Lord will, he shall be filled with the spirit of understanding: he shall pour out wise sentences, and give thanks unto the Lord in his prayer.
-
-- Here is the flip side: he that giveth his mind to the law of the Most High will seek out the wisdom of all the ancient, and be occupied in prophecies. Where subtle parables are, he will be there also, wanting to learn; he will seek out the secrets of grave sentences, like the question Christ put to the Pharisees about David calling his own son Lord.
-- He shall serve among great men, and appear before princes: he will travel through strange countries. As we have traveled, brothers have sat before dignitaries: vice presidents, mayors, governors. In Uganda the protocol for sitting before the vice president was taught to us on the spot: sit in rank, speak in order of seniority after he raises his hand. In Liberia, doors opened that cannot even be explained, and a former president running for reelection sat down with the brothers while agents monitored the church and followed them to the meeting. If we are sitting down with vice presidents and heads of state, arguing online with those who do not believe is beneath the work.
-- He will give his heart to resort early to the Lord that made him, and will pray before the Most High. Remember the morning prayer that goes out at sunrise. When the great Lord will, he shall be filled with the spirit of understanding: you cannot rush your understanding.
 
 **[Nehemiah 8:6-8](/bible/nehemiah/8#v6)**  *[[2:39:00](https://www.youtube.com/watch?v=93fP6cddXrs&t=9540s)]*
 

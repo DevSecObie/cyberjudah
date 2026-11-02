@@ -112,22 +112,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 **[Ephesians 2:11-15](/bible/ephesians/2#v11)**  *[[14:36](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=876s)]*
 
 > <sup>[11](/bible/ephesians/2#v11)</sup> Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
->
-> <sup>[12](/bible/ephesians/2#v12)</sup> That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
->
-> <sup>[13](/bible/ephesians/2#v13)</sup> But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
->
-> <sup>[14](/bible/ephesians/2#v14)</sup> For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;
->
-> <sup>[15](/bible/ephesians/2#v15)</sup> Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;
 
 - Wherefore remember, that ye being in time past Gentiles in the flesh: Actually do me a favor. Start at verse 11. And we're going to read down to 15. ... Right? In times past. In times past, Gentiles in the flesh. All right. How did this happen? How did this happen? I'm sorry. I just got a text. We were Gentiles in the flesh, the northern kingdom, when we were serving what? Idols, off into idolatry. All right, read some more.
 
 - Who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands: Who are called uncircumcision? Come on. ... Right. The southern kingdom. All right. They were called uncircumcision by the southern kingdom of Israel, Judah, Jerusalem. Go ahead.
 
+> <sup>[12](/bible/ephesians/2#v12)</sup> That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
+
 - That at that time ye were without Christ: Right. You were living after the manner of the other nations, after the Gentiles. Read some more.
 
 - Being aliens from the commonwealth of Israel: Now, think about it. Commonwealth. You know how when we read in Acts the 4th chapter, it talks about laying everything at the apostles' feet and having everything in common. You understand? Common, common wealth. This is going into community. All right? This is going into nationhood. All right? So when it talks about the commonwealth in verse 12, it's saying the exact same thing. It says that at that time you were without Christ, who is our governor. You understand? Who is our king of the nation of Israel. Read it again.
+
+> <sup>[13](/bible/ephesians/2#v13)</sup> But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
 
 - But now in Christ Jesus ye who sometimes were far off: Right? Ye who sometimes were a far off, read.
 
@@ -135,7 +131,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 
 - Ye who sometimes were far off (read again): Right. So we know who was sometimes a far off, and that's who? Our people. So now through Christ, not just the southern kingdom, but both the southern kingdom and the northern kingdom now have an opportunity to come back into the fold, into the commonwealth, into the community, as one nation under Christ. All right, read some more.
 
+> <sup>[14](/bible/ephesians/2#v14)</sup> For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;
+
 - For he is our peace, who hath made both one: Who hath made what? (Both one.) Both kingdoms, northern and southern kingdom, Jews and Gentiles. Read.
+
+> <sup>[15](/bible/ephesians/2#v15)</sup> Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;
 
 - And hath broken down the middle wall of partition between us; having abolished in his flesh the enmity: Right? It says, having abolished in his flesh the enmity. Read.
 
@@ -203,8 +203,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 > <sup>[20](/bible/leviticus/16#v20)</sup> And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:
 >
 > <sup>[21](/bible/leviticus/16#v21)</sup> And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:
->
-> <sup>[22](/bible/leviticus/16#v22)</sup> And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.
 
 - Putting them upon the head of the goat: Putting them upon what? (The head of the goat.) Go ahead.
 
@@ -218,6 +216,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 
 - And shall send him away: And shall do what? (Send him away.) Shall send him away. Come on.
 
+> <sup>[22](/bible/leviticus/16#v22)</sup> And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.
+
 - And the goat shall bear upon him all their iniquities: And the goat shall bear upon them all the what? All their iniquities. Come on.
 
 - Unto a land not inhabited: Unto a land what? (Not inhabited.) Unto a land not inhabited. Don't forget that thought. Don't forget that thought. Give me Isaiah 53. Give me Isaiah 53 real quick. Real quick. Let me get there with you. Isaiah 53. So it says, 'Unto a land not inhabited.' That's what it said right there. Now, give me Isaiah 53 and I want verse five. Watch this.
@@ -226,12 +226,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 **[Isaiah 53:5-6](/bible/isaiah/53#v5)**  *[[26:12](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=1572s)]*
 
 > <sup>[5](/bible/isaiah/53#v5)</sup> But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
->
-> <sup>[6](/bible/isaiah/53#v6)</sup> All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all.
 
 - But he was wounded for our transgressions: So this is prophesying about who? Christ. It says he was wounded for our transgression. Go ahead.
 
 - He was bruised for our iniquities: Watch this.
+
+> <sup>[6](/bible/isaiah/53#v6)</sup> All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all.
 
 - And the Lord hath laid on him the iniquity of us all: And the Lord has done what? (Laid on him the iniquity of us all.) The same way, the same way Aaron put his hand on the goat. All right? And laid all the iniquities of the house of Israel on that goat. That's the same thing that happened to who? Christ. And remember what they did to that goat. They took him out of the way, right? Go to Matthew 27. Give me Matthew 27. And I want you to start at 32 and read down a little bit.
 
@@ -239,24 +239,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "purpose"]
 **[Matthew 27:32-37](/bible/matthew/27#v32)**  *[[27:02](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=1622s)]*
 
 > <sup>[32](/bible/matthew/27#v32)</sup> And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.
->
-> <sup>[33](/bible/matthew/27#v33)</sup> And when they were come unto a place called Golgotha, that is to say, a place of a skull,
->
-> <sup>[34](/bible/matthew/27#v34)</sup> They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink.
->
-> <sup>[35](/bible/matthew/27#v35)</sup> And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.
->
-> <sup>[36](/bible/matthew/27#v36)</sup> And sitting down they watched him there;
->
-> <sup>[37](/bible/matthew/27#v37)</sup> And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.
 
 - Him they compelled to bear his cross: To bear his what? (Bear his cross.) To bear his cross. To bear his cross. Remember what it said in Colossians? Nailed it upon the cross. All right, read some more.
+
+> <sup>[33](/bible/matthew/27#v33)</sup> And when they were come unto a place called Golgotha, that is to say, a place of a skull,
 
 - And when they were come unto a place called Golgotha: And they were coming to a place called what? (Golgtha.) So they were in the camp and then what? They took Christ outside of the camp to a place called Goltha. Go ahead.
 
 - That is to say, a place of a skull: Read.
 
+> <sup>[34](/bible/matthew/27#v34)</sup> They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink.
+>
+> <sup>[35](/bible/matthew/27#v35)</sup> And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.
+
 - And they crucified him: And they did what? (Crucified him.) On what? On the cross. They crucified him on the cross. Read.
+
+> <sup>[36](/bible/matthew/27#v36)</sup> And sitting down they watched him there;
+>
+> <sup>[37](/bible/matthew/27#v37)</sup> And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.
 
 - This is Jesus the King of the Jews: Right? So now let's go back to Colossians. Let's go back to Colossians. Watch this.
 
@@ -316,20 +316,20 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 > <sup>[3](/bible/matthew/28#v3)</sup> His countenance was like lightning, and his raiment white as snow:
 >
 > <sup>[4](/bible/matthew/28#v4)</sup> And for fear of him the keepers did shake, and became as dead men.
->
+
+- And for fear of him the keepers did shake: Right, it says, 'And for what?' (And for fear of him, the keepers did shake.) Right, the keepers did shake. So they had guards outside of Christ supplicant. Read some more.
+
 > <sup>[5](/bible/matthew/28#v5)</sup> And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.
 >
 > <sup>[6](/bible/matthew/28#v6)</sup> He is not here: for he is risen, as he said. Come, see the place where the Lord lay.
->
-> <sup>[7](/bible/matthew/28#v7)</sup> And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.
->
-> <sup>[8](/bible/matthew/28#v8)</sup> And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.
-
-- And for fear of him the keepers did shake: Right, it says, 'And for what?' (And for fear of him, the keepers did shake.) Right, the keepers did shake. So they had guards outside of Christ supplicant. Read some more.
 
 - He is not here: He is what? (He is not here.) He is not here. Why? Because he rose on the third day according to exactly what he said. All right. Remember he say, give me the one, the sign of... He's not going to show him a sign except the sign of Jonah. Give me that real quick. It slipped my mind. Matthew, what is that? He says, was it Jonas? Yeah, that's what it... Matthew 12.
 
 - For he is risen, as he said: You see that thing right there? So when we go back to Matthew 12, all right, and verse 6, this is Christ making what? Making an open show of the principalities and the powers, showing in fact that he is the Christ. All right, read that again. Matthew 28 and 6.
+
+> <sup>[7](/bible/matthew/28#v7)</sup> And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.
+>
+> <sup>[8](/bible/matthew/28#v8)</sup> And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.
 
 - And they departed quickly from the sepulchre: Hey, do me a favor. Jump down to verse 11. Watch this.
 
@@ -347,18 +347,18 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 **[Matthew 28:11-14](/bible/matthew/28#v11)**  *[[36:17](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=2177s)]*
 
 > <sup>[11](/bible/matthew/28#v11)</sup> Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done.
->
-> <sup>[12](/bible/matthew/28#v12)</sup> And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,
->
-> <sup>[13](/bible/matthew/28#v13)</sup> Saying, Say ye, His disciples came by night, and stole him away while we slept.
->
-> <sup>[14](/bible/matthew/28#v14)</sup> And if this come to the governor’s ears, we will persuade him, and secure you.
 
 - Some of the watch came into the city, and shewed unto the chief priests: Unto who? (Unto the chief priests.) This is the principalities and powers. You understand? All right. This is the Sanhedrin. All right. Remember? Go ahead.
 
+> <sup>[12](/bible/matthew/28#v12)</sup> And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,
+
 - They gave large money unto the soldiers: So let's see why they gave large money unto the soldiers. All right, that was watching the supplica. Go ahead.
 
+> <sup>[13](/bible/matthew/28#v13)</sup> Saying, Say ye, His disciples came by night, and stole him away while we slept.
+
 - Saying, Say ye, His disciples came by night: So he said, 'Hey, go ahead and lie and say that the disciples of Christ came by night and stole the body.' Why? Because they didn't want their place to be removed. Remember, Rome had them established. Rome had them set up. All right. Their job was to discredit Christ. All right. Similar job to what these apologetics are trying to do present day. They say that we're the Pharisees and scribes. But when you actually read the scriptures, you see that their works line up with the Pharisees and scribes. Read it again.
+
+> <sup>[14](/bible/matthew/28#v14)</sup> And if this come to the governor’s ears, we will persuade him, and secure you.
 
 - We will persuade him, and secure you: And says to secure you. Now, let's go back to Colossians 3. I'm sorry, not three, but two and 15.
 
@@ -379,10 +379,10 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 > <sup>[3](/bible/colossians/2#v3)</sup> In whom are hid all the treasures of wisdom and knowledge.
 >
 > <sup>[4](/bible/colossians/2#v4)</sup> And this I say, lest any man should beguile you with enticing words.
->
-> <sup>[5](/bible/colossians/2#v5)</sup> For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 
 - And this I say, lest any man should beguile you: Lest any man should do what? (Should beguile you.) Wasn't that the same thing that was going on in Galatia? The church at Galatia. Yes, it's the exact same thing. What type of men were this? These were the ex-fares set up within these churches, crept in on the wares. You understand? Trying to aspy out our liberty that is in Christ Jesus. Read verse four again.
+
+> <sup>[5](/bible/colossians/2#v5)</sup> For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 
 - For though I be absent in the flesh: So Paul, when he says I be absent in the flesh, just a reminder, he never actually visited that church. Read.
 
@@ -407,12 +407,12 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 **[Colossians 2:16-17](/bible/colossians/2#v16)**  *[[41:34](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=2494s)]*
 
 > <sup>[16](/bible/colossians/2#v16)</sup> Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:
->
-> <sup>[17](/bible/colossians/2#v17)</sup> Which are a shadow of things to come; but the body is of Christ.
 
 - Let no man therefore judge you in meat, or in drink, or in respect of an holyday: Right. So it says, 'Let no man therefore judge you in meat or in drink or in respect of in holy day.' A high holy day. All right. When it came to the high holy days, what did we do? We offered up sacrifices. All right? So those men were trying to do what? Take the church at Colosse or Coloss, trying to take them to where? Animal sacrifice under the law of Moses. So that's what Paul is writing to them. He's warning them of these types of men. Ezekiel 45:17. Y'all know this one.
 
 - Or of the sabbath days: So now let's go back to Colossians 2:16. ... All right. Or on the Sabbath days. Read.
+
+> <sup>[17](/bible/colossians/2#v17)</sup> Which are a shadow of things to come; but the body is of Christ.
 
 - Which are a shadow of things to come: Right. Which are a shadow of things to come. Meaning once the actual thing came, there was no more need for the law of sacrifice. Christ came. All right. He's that perfect sacrifice. All right. Now, no longer do we need animal sacrifice. Read some more.
 
@@ -461,22 +461,20 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 > <sup>[7](/bible/hebrews/9#v7)</sup> But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:
 >
 > <sup>[8](/bible/hebrews/9#v8)</sup> The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:
->
-> <sup>[9](/bible/hebrews/9#v9)</sup> Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
->
-> <sup>[10](/bible/hebrews/9#v10)</sup> Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
->
-> <sup>[11](/bible/hebrews/9#v11)</sup> But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;
 
 - The way into the holiest of all was not yet made manifest: Right? Was not yet made manifest. You understand? Shadow of things to come. All right? Was not yet made manifest. Hold that. We coming back to this. I want John chapter 1 and verse 31. Okay? Because it says, 'The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest.' Because remember, you had the holiest of the holiest when it came to the tabernacle. But it says right here that the way into the holiest of all was not yet made manifest. So what is that talking about? Read this.
 
 - While as the first tabernacle was yet standing: Go back to Hebrews 9 and 8. ... Referring to our Lord and Savior Jesus Christ. Come on.
+
+> <sup>[9](/bible/hebrews/9#v9)</sup> Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
 
 - Which was a figure for the time then present: Right? It was a figure for the time there present. All right. It was a figure. Why? All right. Because that was the pattern that is established in heaven. That was a setup on earth. It was for a certain disposition of time. Disposition of time, excuse me. Read.
 
 - Sacrifices, that could not make him that did the service perfect: There you go. Meaning what? The law of sacrifice would not make us perfect. We need Christ to do that. Read.
 
 - As pertaining to the conscience: As pertaining to the conscience. Going into your character, your mind, your heart. Come on.
+
+> <sup>[10](/bible/hebrews/9#v10)</sup> Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
 
 - Which stood only in meats and drinks: Which only stood in what? (In meats and drinks.) I don't want you to forget the thought. Hold that. Go back to Colossians chapter 2:16. We coming right back to this.
 
@@ -489,6 +487,8 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 - Imposed on them: Imposed on the Israelites. Read.
 
 - Until the time of reformation: Until the what? (The time of reformation.) Until the time that Christ would come and tell us to follow him. No longer is it animal sacrifice. Now it's through the spirit of Christ Jesus. Read some more.
+
+> <sup>[11](/bible/hebrews/9#v11)</sup> But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;
 
 - But Christ being come an high priest of good things to come: Christ becoming a high priest of good things to come. Come on.
 
@@ -518,10 +518,6 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 **[Colossians 2:18-20](/bible/colossians/2#v18)**  *[[51:29](https://www.youtube.com/watch?v=LAakVwaV_VQ&t=3089s)]*
 
 > <sup>[18](/bible/colossians/2#v18)</sup> Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
->
-> <sup>[19](/bible/colossians/2#v19)</sup> And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.
->
-> <sup>[20](/bible/colossians/2#v20)</sup> Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,
 
 - Worshipping of angels: Let's go into man worship. Those angels are going into leaders. Okay. Like it mentioned above, the principalities and power. Read.
 
@@ -529,7 +525,11 @@ Reading from Miriam Wesler, definition of principality (as said on air)  *[[29:5
 
 - Vainly puffed up by his fleshly mind: Come on.
 
+> <sup>[19](/bible/colossians/2#v19)</sup> And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.
+
 - And not holding the Head: Right? So it says, 'And not holding the head.' Who's the head? Jesus the Christ. He's the head of the body. Read.
+
+> <sup>[20](/bible/colossians/2#v20)</sup> Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,
 
 - From the rudiments of the world: From the what? (The rudiments of the world.) That's going into those beggy elements. Going into sacrifice. Read.
 

@@ -64,38 +64,48 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 
 **[Isaiah 14:12-14](/bible/isaiah/14#v12)**  *[[33:49](https://www.youtube.com/watch?v=4fML805MO8A&t=2029s)]*
 
-> <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
->
-> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
->
-> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
-
 - How art thou fallen from heaven, O Lucifer, son of the morning! This chapter is future prophecy of the destruction of this very kingdom that we are in, written in the past tense. Lucifer means light bearer: they told everybody that they are the bright star of wisdom, the bright star of education, the bright star of justice. That is what the so-called Lady of Liberty is about; these people make all these symbols and statues up, and they know what they are doing when they set them up. Come to us if you want to talk about justice and judgment: a complete lie, a facade that hides the evil they have done to us.
+
+> <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
+
 - Which didst weaken the nations: they weakened the nations with bombs, with their religion, with their so-called democracy and lies. That is how they got all the nations to serve them: the beast that reigneth over the earth weakened the nations until they had no strength to fight against it.
+
+> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
+
 - For thou hast said in thine heart, I will ascend into heaven: airplanes and space travel. I will exalt my throne above the stars of God: the Most High said we are supposed to dwell on this earth; this one says, I will go beyond your boundaries and put things out in the heavens, because I am God. That is how he thinks.
+
 - I will sit also upon the mount of the congregation: the congregation is the Lord's people. I will sit upon God's congregation in captivity: bewilder them, bewitch them, lie to them, give them false religion and evil holidays, and make them think the Bible is not talking about them. They are sitting on your thinking and your mentality. In the sides of the north: this hemisphere, where we are.
+
+> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
 
 **[Jeremiah 16:14-15](/bible/jeremiah/16#v14)**  *[[37:44](https://www.youtube.com/watch?v=4fML805MO8A&t=2264s)]*
 
 > <sup>[14](/bible/jeremiah/16#v14)</sup> Therefore, behold, the days come, saith the Lord, that it shall no more be said, The Lord liveth, that brought up the children of Israel out of the land of Egypt;
->
-> <sup>[15](/bible/jeremiah/16#v15)</sup> But, The Lord liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers.
 
 - It shall no more be said, The Lord liveth, that brought up the children of Israel out of the land of Egypt: that deliverance is still on the people's minds now. But the way they sat on our mentality, the world does not know the Bible is talking about us. That is how well they hid us; they manufactured a people and said these are the people the Bible speaks of. A total lie. You are the Jews; you are the Israelites.
+
+> <sup>[15](/bible/jeremiah/16#v15)</sup> But, The Lord liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers.
+
 - But, The Lord liveth, that brought up the children of Israel from the land of the north: something so spectacular, so magnificent, and so marvelous has to happen that it makes us stop talking about ancient Egypt, the Red Sea, and the ten plagues. That is going to be when he delivers us from here, from the land of the north: the same place where we are being oppressed.
 
 **[Wisdom of Solomon 5:1-2](/bible/wisdom-of-solomon/5#v1)**  *[[40:34](https://www.youtube.com/watch?v=4fML805MO8A&t=2434s)]*
 
+- Then shall the righteous man stand in great boldness before the face of such as have afflicted him. In the middle of the psychological tyranny and the physical tyranny that we face, the Most High says we are still going to stand in great boldness before the face of those that afflicted us. In their mind, there is no way we are supposed to be standing up: we afflicted them, and we mean to keep them hidden in the corners.
+
 > <sup>[1](/bible/wisdom-of-solomon/5#v1)</sup> Then shall the righteous man stand in great boldness before the face of such as have afflicted him, and made no account of his labours.
->
+
+- And made no account of his labours: they made no account of all the work we did beyond 250 years. What is a man celebrating in a top hat and stripes when in 1776 he was still in chains?
+
+- The teacher noted the Statue of Liberty: visitors do not see the feet of the statue, and there are chains at the base, a symbol of liberty breaking away from the grip of Britain. They understand breaking away for themselves, but we cannot want that for ourselves. People come to Ellis Island looking to that symbol while we are in slavery underneath this very system.
+
 > <sup>[2](/bible/wisdom-of-solomon/5#v2)</sup> When they see it, they shall be troubled with terrible fear, and shall be amazed at the strangeness of his salvation, so far beyond all that they looked for.
 
-- Then shall the righteous man stand in great boldness before the face of such as have afflicted him. In the middle of the psychological tyranny and the physical tyranny that we face, the Most High says we are still going to stand in great boldness before the face of those that afflicted us. In their mind, there is no way we are supposed to be standing up: we afflicted them, and we mean to keep them hidden in the corners.
-- And made no account of his labours: they made no account of all the work we did beyond 250 years. What is a man celebrating in a top hat and stripes when in 1776 he was still in chains?
-- The teacher noted the Statue of Liberty: visitors do not see the feet of the statue, and there are chains at the base, a symbol of liberty breaking away from the grip of Britain. They understand breaking away for themselves, but we cannot want that for ourselves. People come to Ellis Island looking to that symbol while we are in slavery underneath this very system.
 - When they see it, they shall be troubled with terrible fear: when our enemies see us stand up in boldness, they shall be shaken, because they know who they have in captivity. The point is for you not to know who you are; they know who you are. As long as you do not know who you are, you will subject yourselves to inferior behavior and mediocrity, and shortchange yourselves, thinking no more of yourselves than what they taught you to think.
+
 - The terrible fear is you breaking out of that sickness and recognizing who you truly are, because they said that means the God of these people is soon to come. Our rise tells them we expect a deliverer; we expect Christ to come back. Once we start looking for that, you cannot buy us off.
+
 - And shall be amazed at the strangeness of his salvation: not only the people he is going to save, but how he is going to do it. The strangeness of his salvation was written in the Psalms we opened with: a thousand shall fall at thy side, and ten thousand at thy right hand, but it shall not come nigh thee; only with thine eyes shalt thou behold and see the reward of the wicked.
+
 - Drapetomania was brought up: the invented diagnosis that said a slave who seeks freedom from his master is mentally sick. He calls it sickness when you try to get away from him. That is the arrogance we are dealing with, and their mentality has not changed.
 
 **[Ezekiel 1:12](/bible/ezekiel/1#v12)**  *[[51:31](https://www.youtube.com/watch?v=4fML805MO8A&t=3091s)]*
@@ -108,16 +118,19 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 **[Zechariah 5:1-4](/bible/zechariah/5#v1)**  *[[54:08](https://www.youtube.com/watch?v=4fML805MO8A&t=3248s)]*
 
 > <sup>[1](/bible/zechariah/5#v1)</sup> Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
->
+
+- Then I turned, and lifted up mine eyes, and looked, and behold a flying roll: the length thereof is twenty cubits, and the breadth thereof ten cubits. That is a sizeable ship. And how could Zechariah make out the words written on it from where he stood, like reading a billboard, unless the thing was enormous?
+
 > <sup>[2](/bible/zechariah/5#v2)</sup> And he said unto me, What seest thou? And I answered, I see a flying roll; the length thereof is twenty cubits, and the breadth thereof ten cubits.
 >
 > <sup>[3](/bible/zechariah/5#v3)</sup> Then said he unto me, This is the curse that goeth forth over the face of the whole earth: for every one that stealeth shall be cut off as on this side according to it; and every one that sweareth shall be cut off as on that side according to it.
->
+
+- This is the curse that goeth forth over the face of the whole earth: the Lord is saying, I am going to send a chariot to terrorize my enemies. On one side: every one that stealeth shall be cut off. On the other side: every one that sweareth shall be cut off.
+
+- America is a major thief, and an amazing liar: swearing that they are the Israelites, swearing In God We Trust while the very ground the courts sit on is stolen property.
+
 > <sup>[4](/bible/zechariah/5#v4)</sup> I will bring it forth, saith the Lord of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
 
-- Then I turned, and lifted up mine eyes, and looked, and behold a flying roll: the length thereof is twenty cubits, and the breadth thereof ten cubits. That is a sizeable ship. And how could Zechariah make out the words written on it from where he stood, like reading a billboard, unless the thing was enormous?
-- This is the curse that goeth forth over the face of the whole earth: the Lord is saying, I am going to send a chariot to terrorize my enemies. On one side: every one that stealeth shall be cut off. On the other side: every one that sweareth shall be cut off.
-- America is a major thief, and an amazing liar: swearing that they are the Israelites, swearing In God We Trust while the very ground the courts sit on is stolen property.
 - I will bring it forth, saith the Lord of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: those that lied on the Bible, that told the nations the Bible was about them while the children of Israel suffered under their brutality. And it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof: fire and brimstone destruction. They know what those chariots represent.
 
 **[Jeremiah 23:7-8](/bible/jeremiah/23#v7)**  *[[1:01:43](https://www.youtube.com/watch?v=4fML805MO8A&t=3703s)]*
@@ -131,59 +144,73 @@ Well, today is definitely a demonic day out here. It is a reminder that this day
 **[Isaiah 14:15-17](/bible/isaiah/14#v15)**  *[[1:03:20](https://www.youtube.com/watch?v=4fML805MO8A&t=3800s)]*
 
 > <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
->
-> <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
->
-> <sup>[17](/bible/isaiah/14#v17)</sup> That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?
 
 - Yet thou shalt be brought down to hell, to the sides of the pit: you are not going to stop your downfall.
+
 - They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man? The man of sin: Lucifer is a man. To narrowly look means you are squinting, taking a good look, really examining that thing. You remove the rose-colored glasses, the facade, the glitz and glamour, the imagery everybody goes crazy over, and you see exactly who he is. What is going to cause them to see? The Bible. The Bible is going to reveal who these people really are.
+
+> <sup>[16](/bible/isaiah/14#v16)</sup> They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
+
 - Is this the man that made the earth to tremble, that did shake kingdoms: by dropping bombs on the kingdoms. Coming to another man's land and taking him out of his land while everybody stands by: that is the kind of terror we are talking about.
+
+> <sup>[17](/bible/isaiah/14#v17)</sup> That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?
+
 - That made the world as a wilderness, and destroyed the cities thereof: destroyed the air, the water, and the people's minds. Folly is set in great dignity: when the wicked bear rule, the people mourn.
 
 **[2 Thessalonians 2:3-8](/bible/2-thessalonians/2#v3)**  *[[1:10:28](https://www.youtube.com/watch?v=4fML805MO8A&t=4228s)]*
 
 > <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
->
+
+- Let no man deceive you by any means: for that day shall not come, except there come a falling away first: Paul telling the Israelites that day would not come except Israel go into complete captivity, like where we are now. All of this is prophesied, and our deliverance is also prophesied.
+
+- And that man of sin be revealed, the son of perdition: there is the mystery again. They shall take a good look at him, narrowly look upon him, and recognize that this man is the devil the Bible speaks of. Perdition means destruction: he was made to be destroyed by God, the vessel of God's wrath. Keep that word in mind, because when we go back to Revelation you will see it again.
+
 > <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
->
+
+- Who opposeth and exalteth himself above all that is called God: he opposed God, the Bible, and all righteousness. Thou enemy of all righteousness, thou child of the devil: Acts 13, Elymas the sorcerer.
+
+- So that he as God sitteth in the temple of God, shewing himself that he is God: he built the churches and monuments and made everybody think that he is God.
+
 > <sup>[5](/bible/2-thessalonians/2#v5)</sup> Remember ye not, that, when I was yet with you, I told you these things?
 >
 > <sup>[6](/bible/2-thessalonians/2#v6)</sup> And now ye know what withholdeth that he might be revealed in his time.
 >
 > <sup>[7](/bible/2-thessalonians/2#v7)</sup> For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
->
-> <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 
-- Let no man deceive you by any means: for that day shall not come, except there come a falling away first: Paul telling the Israelites that day would not come except Israel go into complete captivity, like where we are now. All of this is prophesied, and our deliverance is also prophesied.
-- And that man of sin be revealed, the son of perdition: there is the mystery again. They shall take a good look at him, narrowly look upon him, and recognize that this man is the devil the Bible speaks of. Perdition means destruction: he was made to be destroyed by God, the vessel of God's wrath. Keep that word in mind, because when we go back to Revelation you will see it again.
-- Who opposeth and exalteth himself above all that is called God: he opposed God, the Bible, and all righteousness. Thou enemy of all righteousness, thou child of the devil: Acts 13, Elymas the sorcerer.
-- So that he as God sitteth in the temple of God, shewing himself that he is God: he built the churches and monuments and made everybody think that he is God.
 - For the mystery of iniquity doth already work: Paul takes it back to when they were literally under Rome. The wicked was already ruling; Paul was letting you know who the devil was.
+
 - Only he who now letteth will let, until he be taken out of the way: only the Lord who now allows him to rule will let him rule, and when their time is up, they are done. The sand is running out of the hourglass, and everyone who is tied up with them goes down with them.
+
+> <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 
 **[Revelation 17:5-11](/bible/revelation/17#v5)**  *[[1:16:32](https://www.youtube.com/watch?v=4fML805MO8A&t=4592s)]*
 
 > <sup>[5](/bible/revelation/17#v5)</sup> And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
->
+
+- Mystery, Babylon the great: Babylon, land of great lies, land of confusion. The mother of harlots: America makes all the nations get in bed with her and follow her ways. If you do not accept her foreign policies and political agendas, they cut your money off, cut your food off, put embargoes and sanctions on you until you cannot even sell your own goods. What other country can do that? Nobody. Only this beast.
+
+- And abominations of the earth: the worst abominations of all time are right here, and the sickness is so pervasive that the people subject to the abominations think they are in heaven. We are drowning in abominations while thinking this is Utopia.
+
 > <sup>[6](/bible/revelation/17#v6)</sup> And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
->
+
+- And I saw the woman drunken with the blood of the saints: America drank our blood in captivity, robberies, murder, and slavery. And with the blood of the martyrs: a lot of our people trying to do right have been knocked off.
+
 > <sup>[7](/bible/revelation/17#v7)</sup> And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
->
+
+- And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns: I will tell you about the eighth head, America, and about the seven that carried her.
+
 > <sup>[8](/bible/revelation/17#v8)</sup> The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
->
+
+- The beast that thou sawest was, and is not: it was in John's vision, but it was not in existence in his time. And shall ascend out of the bottomless pit: out of Europe, out of Britain and the rest. And go into perdition: there is that word again from Thessalonians.
+
 > <sup>[9](/bible/revelation/17#v9)</sup> And here is the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth.
->
+
+- The seven heads are seven mountains, on which the woman sitteth: seven mountains means seven governments. And there are seven kings: five are fallen, and one is: Rome, the one that had John on the isle of Patmos, was in power; Greece, Spain, France, Germany, and Russia were not. And the other is not yet come; and when he cometh, he must continue a short space: Great Britain was still coming along.
+
 > <sup>[10](/bible/revelation/17#v10)</sup> And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he cometh, he must continue a short space.
 >
 > <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
 
-- Mystery, Babylon the great: Babylon, land of great lies, land of confusion. The mother of harlots: America makes all the nations get in bed with her and follow her ways. If you do not accept her foreign policies and political agendas, they cut your money off, cut your food off, put embargoes and sanctions on you until you cannot even sell your own goods. What other country can do that? Nobody. Only this beast.
-- And abominations of the earth: the worst abominations of all time are right here, and the sickness is so pervasive that the people subject to the abominations think they are in heaven. We are drowning in abominations while thinking this is Utopia.
-- And I saw the woman drunken with the blood of the saints: America drank our blood in captivity, robberies, murder, and slavery. And with the blood of the martyrs: a lot of our people trying to do right have been knocked off.
-- And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns: I will tell you about the eighth head, America, and about the seven that carried her.
-- The beast that thou sawest was, and is not: it was in John's vision, but it was not in existence in his time. And shall ascend out of the bottomless pit: out of Europe, out of Britain and the rest. And go into perdition: there is that word again from Thessalonians.
-- The seven heads are seven mountains, on which the woman sitteth: seven mountains means seven governments. And there are seven kings: five are fallen, and one is: Rome, the one that had John on the isle of Patmos, was in power; Greece, Spain, France, Germany, and Russia were not. And the other is not yet come; and when he cometh, he must continue a short space: Great Britain was still coming along.
 - And the beast that was, and is not, even he is the eighth, and is of the seven: America is of Great Britain and the rest of the seven heads. And goeth into perdition: this kingdom is going to be destroyed. That is the history of it, and there is no getting out of it.
 
 **[Revelation 12:10](/bible/revelation/12#v10)**  *[[1:34:15](https://www.youtube.com/watch?v=4fML805MO8A&t=5655s)]*
@@ -271,6 +298,10 @@ Reading from a book of Flavius Josephus, on Demetrius Phalereus and the king's l
 
 **[2 Esdras 13:40-45](/bible/2-esdras/13#v40)**  *[[2:11:58](https://www.youtube.com/watch?v=4fML805MO8A&t=7918s)]*
 
+- Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive. Assyria moved against the northern kingdom first; then Babylon took down Assyria and took her captives, then moved down and took Judah; then the Persians came in, and under Cyrus a proclamation was made allowing Israel to go back and build Jerusalem. Four books detail this history: Ezra, Nehemiah, 1 Esdras, and 2 Esdras.
+
+- But they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt, that they might there keep their statutes, which they never kept in their own land. The bulk of the tribes said, we are not staying; we are going to a further country. Columbus read this, and he knew the Israelites were here: the northern kingdom, Gad and Reuben and those tribes, before he ever sailed.
+
 > <sup>[40](/bible/2-esdras/13#v40)</sup> Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive, and he carried them over the waters, and so came they into another land.
 >
 > <sup>[41](/bible/2-esdras/13#v41)</sup> But they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt,
@@ -278,14 +309,13 @@ Reading from a book of Flavius Josephus, on Demetrius Phalereus and the king's l
 > <sup>[42](/bible/2-esdras/13#v42)</sup> That they might there keep their statutes, which they never kept in their own land.
 >
 > <sup>[43](/bible/2-esdras/13#v43)</sup> And they entered into Euphrates by the narrow places of the river.
->
+
+- And they entered into Euphrates by the narrow passages of the river: for the most High then shewed signs for them, and held still the flood, till they were passed over.
+
 > <sup>[44](/bible/2-esdras/13#v44)</sup> For the most High then shewed signs for them, and held still the flood, till they were passed over.
 >
 > <sup>[45](/bible/2-esdras/13#v45)</sup> For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth.
 
-- Those are the ten tribes, which were carried away prisoners out of their own land in the time of Osea the king, whom Salmanasar the king of Assyria led away captive. Assyria moved against the northern kingdom first; then Babylon took down Assyria and took her captives, then moved down and took Judah; then the Persians came in, and under Cyrus a proclamation was made allowing Israel to go back and build Jerusalem. Four books detail this history: Ezra, Nehemiah, 1 Esdras, and 2 Esdras.
-- But they took this counsel among themselves, that they would leave the multitude of the heathen, and go forth into a further country, where never mankind dwelt, that they might there keep their statutes, which they never kept in their own land. The bulk of the tribes said, we are not staying; we are going to a further country. Columbus read this, and he knew the Israelites were here: the northern kingdom, Gad and Reuben and those tribes, before he ever sailed.
-- And they entered into Euphrates by the narrow passages of the river: for the most High then shewed signs for them, and held still the flood, till they were passed over.
 - For through that country there was a great way to go, namely, of a year and a half: and the same region is called Arsareth. A year and a half of travel means stops along the way: the maritime ports.
 
   Precepts:

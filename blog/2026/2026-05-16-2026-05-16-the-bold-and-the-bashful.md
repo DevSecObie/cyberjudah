@@ -25,59 +25,67 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
 **[Psalms 82:1-6](/bible/psalms/82#v1)**  *[[20:06](https://www.youtube.com/watch?v=z55asCbUER8&t=1206s)]*
 
+- God standeth in the congregation of the mighty; he judgeth among the gods. This is talking about you black men, you Hispanic men, you Israelite men. You have to believe what the Bible says, not because of the words coming out of a man's mouth; this is what God says.
+
+- How long will ye judge unjustly, and accept the persons of the wicked? We accept wickedness in our lives, in our neighborhoods, around each other, in our families.
+
 > <sup>[1](/bible/psalms/82#v1)</sup> God standeth in the congregation of the mighty; he judgeth among the gods.
 >
 > <sup>[2](/bible/psalms/82#v2)</sup> How long will ye judge unjustly, and accept the persons of the wicked? Selah.
 >
 > <sup>[3](/bible/psalms/82#v3)</sup> Defend the poor and fatherless: do justice to the afflicted and needy.
->
+
+- Defend the poor and fatherless: this is what we are supposed to do as the gods on the earth. Deliver the poor and needy: rid them out of the hand of the wicked. How do you do that? We teach for you to change your life; that is how we rid you out of the hands of the wicked.
+
+- They know not, neither will they understand; they walk on in darkness. The gods on the earth right now do not know this Bible. Now we are in darkness, now we are in sin.
+
+- I have said, Ye are gods; and all of you are children of the Most High. God said it, not man. You are a god on this earth, black man, Hispanic man; why do we not act like it? Put your chest out and your chin up, and speak with some confidence in your voice. But how do we move through society? Nobody cares about me, I make all kinds of mistakes, I just want to curl up in bed. That is the mentality we have, but that is not supposed to be so.
+
 > <sup>[4](/bible/psalms/82#v4)</sup> Deliver the poor and needy: rid them out of the hand of the wicked.
 >
 > <sup>[5](/bible/psalms/82#v5)</sup> They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
 >
 > <sup>[6](/bible/psalms/82#v6)</sup> I have said, Ye are gods; and all of you are children of the most High.
 
-- God standeth in the congregation of the mighty; he judgeth among the gods. This is talking about you black men, you Hispanic men, you Israelite men. You have to believe what the Bible says, not because of the words coming out of a man's mouth; this is what God says.
-- How long will ye judge unjustly, and accept the persons of the wicked? We accept wickedness in our lives, in our neighborhoods, around each other, in our families.
-- Defend the poor and fatherless: this is what we are supposed to do as the gods on the earth. Deliver the poor and needy: rid them out of the hand of the wicked. How do you do that? We teach for you to change your life; that is how we rid you out of the hands of the wicked.
-- They know not, neither will they understand; they walk on in darkness. The gods on the earth right now do not know this Bible. Now we are in darkness, now we are in sin.
-- I have said, Ye are gods; and all of you are children of the Most High. God said it, not man. You are a god on this earth, black man, Hispanic man; why do we not act like it? Put your chest out and your chin up, and speak with some confidence in your voice. But how do we move through society? Nobody cares about me, I make all kinds of mistakes, I just want to curl up in bed. That is the mentality we have, but that is not supposed to be so.
-
 **[Exodus 1:8-10](/bible/exodus/1#v8)**  *[[24:04](https://www.youtube.com/watch?v=z55asCbUER8&t=1444s)]*
 
 > <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
->
+
+- There arose up a new king over Egypt: a new king means a new kingdom arising, the 17th dynasty, which knew not Joseph.
+
+- Behold, the people of the children of Israel are more and mightier than we. America did the same thing: the children of Israel are more than us and stronger than us, so let us deal wisely with them, lest they multiply, and when there falleth out any war, they join also unto our enemies and fight against us.
+
 > <sup>[9](/bible/exodus/1#v9)</sup> And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
 >
 > <sup>[10](/bible/exodus/1#v10)</sup> Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
 
-- There arose up a new king over Egypt: a new king means a new kingdom arising, the 17th dynasty, which knew not Joseph.
-- Behold, the people of the children of Israel are more and mightier than we. America did the same thing: the children of Israel are more than us and stronger than us, so let us deal wisely with them, lest they multiply, and when there falleth out any war, they join also unto our enemies and fight against us.
-
 **[Psalms 83:3-7](/bible/psalms/83#v3)**  *[[25:42](https://www.youtube.com/watch?v=z55asCbUER8&t=1542s)]*
 
 > <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
+
+- They have taken crafty counsel against thy people: that is the nations dealing wisely with us. How did they do it? They oppressed us, they exploited us, they colonized us, they took our identity: the transatlantic slave trade, the sub-Saharan slave trade, the black codes, colonization. You have the United Nations where they counsel; they have secret councils we are not privy to.
+
+- They have said, Come, and let us cut them off from being a nation. They cut us off from being the nation of Israel; now you are African-American, Haitian, Jamaican, Kenyan, Ugandan, Tanzanian, Ghanaian, all these new labels. But you are still one race: the Israelites.
+
 > <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 >
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
->
+
+- They have consulted together with one consent: they are all in agreement. They are confederate against thee: the tabernacles of Edom, the so-called white man, the number one oppressor and colonizer; the Ishmaelites, the Arabs; Moab; the Hagarenes; Gebal, Ammon, and Amalek; the Philistines with the inhabitants of Tyre.
+
 > <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
 >
 > <sup>[7](/bible/psalms/83#v7)</sup> Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 
-- They have taken crafty counsel against thy people: that is the nations dealing wisely with us. How did they do it? They oppressed us, they exploited us, they colonized us, they took our identity: the transatlantic slave trade, the sub-Saharan slave trade, the black codes, colonization. You have the United Nations where they counsel; they have secret councils we are not privy to.
-- They have said, Come, and let us cut them off from being a nation. They cut us off from being the nation of Israel; now you are African-American, Haitian, Jamaican, Kenyan, Ugandan, Tanzanian, Ghanaian, all these new labels. But you are still one race: the Israelites.
-- They have consulted together with one consent: they are all in agreement. They are confederate against thee: the tabernacles of Edom, the so-called white man, the number one oppressor and colonizer; the Ishmaelites, the Arabs; Moab; the Hagarenes; Gebal, Ammon, and Amalek; the Philistines with the inhabitants of Tyre.
-
 **[Psalms 81:8-9](/bible/psalms/81#v8)**  *[[29:08](https://www.youtube.com/watch?v=z55asCbUER8&t=1748s)]*
 
 > <sup>[8](/bible/psalms/81#v8)</sup> Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;
->
-> <sup>[9](/bible/psalms/81#v9)</sup> There shall no strange god be in thee; neither shalt thou worship any strange god.
 
 - Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me. There shall no strange god be in thee; neither shalt thou worship any strange god.
+
 - Black man, Hispanic man, have you been given a strange god? Yes, you have. The Lord said no strange god: no Cesare Borgia white Jesus, no Allah, no Buddha. Through the Berlin Conference and the white Christian missionaries, the strange god went all over the world. And it is here in America too; your mama has white Jesus hanging on her wall right now.
+
+> <sup>[9](/bible/psalms/81#v9)</sup> There shall no strange god be in thee; neither shalt thou worship any strange god.
 
 **[Daniel 11:39](/bible/daniel/11#v39)**  *[[29:42](https://www.youtube.com/watch?v=z55asCbUER8&t=1782s)]*
 
@@ -93,13 +101,14 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 > <sup>[11](/bible/psalms/81#v11)</sup> But my people would not hearken to my voice; and Israel would none of me.
 >
 > <sup>[12](/bible/psalms/81#v12)</sup> So I gave them up unto their own hearts’ lust: and they walked in their own counsels.
->
-> <sup>[13](/bible/psalms/81#v13)</sup> Oh that my people had hearkened unto me, and Israel had walked in my ways!
->
-> <sup>[14](/bible/psalms/81#v14)</sup> I should soon have subdued their enemies, and turned my hand against their adversaries.
 
 - But my people would not hearken to my voice; and Israel would none of me. So I gave them up unto their own hearts' lust: and they walked in their own counsels. The Lord said, go ahead, do what you do.
+
+> <sup>[13](/bible/psalms/81#v13)</sup> Oh that my people had hearkened unto me, and Israel had walked in my ways!
+
 - Oh that my people had hearkened unto me: I should soon have subdued their enemies, and turned my hand against their adversaries. If we had done what the Lord told us to do, he would have put our enemies under our foot.
+
+> <sup>[14](/bible/psalms/81#v14)</sup> I should soon have subdued their enemies, and turned my hand against their adversaries.
 
 **[Leviticus 26:17-19](/bible/leviticus/26#v17)**  *[[42:40](https://www.youtube.com/watch?v=z55asCbUER8&t=2560s)]*
 
@@ -163,6 +172,10 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
 **[1 Samuel 15:17-24](/bible/1-samuel/15#v17)**  *[[1:04:40](https://www.youtube.com/watch?v=z55asCbUER8&t=3880s)]*
 
+- In this chapter the Lord commanded Saul to utterly destroy the Amalekites and everything they have, and he did not do it. Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel? When you thought you were a nobody, the Lord anointed you king over all Israel.
+
+- Wherefore then didst thou not obey the voice of the Lord? Saul answered, Yea, I have obeyed the voice of the Lord, and have brought Agag the king of Amalek. Wait a minute: the king is still alive. Saul is playing the defensive, justifying his actions, making excuses.
+
 > <sup>[17](/bible/1-samuel/15#v17)</sup> And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the Lord anointed thee king over Israel?
 >
 > <sup>[18](/bible/1-samuel/15#v18)</sup> And the Lord sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed.
@@ -172,18 +185,13 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 > <sup>[20](/bible/1-samuel/15#v20)</sup> And Saul said unto Samuel, Yea, I have obeyed the voice of the Lord, and have gone the way which the Lord sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites.
 >
 > <sup>[21](/bible/1-samuel/15#v21)</sup> But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the Lord thy God in Gilgal.
->
-> <sup>[22](/bible/1-samuel/15#v22)</sup> And Samuel said, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
->
-> <sup>[23](/bible/1-samuel/15#v23)</sup> For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king.
->
-> <sup>[24](/bible/1-samuel/15#v24)</sup> And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the Lord, and thy words: because I feared the people, and obeyed their voice.
 
-- In this chapter the Lord commanded Saul to utterly destroy the Amalekites and everything they have, and he did not do it. Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel? When you thought you were a nobody, the Lord anointed you king over all Israel.
-- Wherefore then didst thou not obey the voice of the Lord? Saul answered, Yea, I have obeyed the voice of the Lord, and have brought Agag the king of Amalek. Wait a minute: the king is still alive. Saul is playing the defensive, justifying his actions, making excuses.
 - But the people took of the spoil: it was not me, it was the people, it was their fault. This goes into bashfulness: you do not take accountability.
+
 - Behold, to obey is better than sacrifice, and to hearken than the fat of rams. To do what you were told is better than coming back afterward saying, my bad, I thought I understood, I decided to do it this way. You fulfill the commandment you were given, and if there is a problem, you say something.
+
 - For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king. When you are in that spirit, the Lord cannot use you. Leadership may put you in a position, and when we question you on certain things, you make excuses, or you separate yourself into a bubble with the men under you. You are bashful, and you are bringing up a bunch of bashful brothers under you; you are keeping the brothers under you hostage.
+
 - And Saul said, I have sinned: because I feared the people, and obeyed their voice. If you are a leader and you are in fear of your people, what can those people do to you? Manipulate you. You are a pushover; they can sway you left and right. Who is supposed to move you? The Lord, not the people you are supposed to lead. You are not leading the people; you are being led by the people.
 
   Precepts:
@@ -195,6 +203,12 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
     > <sup>[28](/bible/1-samuel/15#v28)</sup> And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.
 
     And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.
+
+> <sup>[22](/bible/1-samuel/15#v22)</sup> And Samuel said, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
+>
+> <sup>[23](/bible/1-samuel/15#v23)</sup> For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king.
+>
+> <sup>[24](/bible/1-samuel/15#v24)</sup> And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the Lord, and thy words: because I feared the people, and obeyed their voice.
 
 **[1 Samuel 10:1-8](/bible/1-samuel/10#v1)**  *[[1:14:08](https://www.youtube.com/watch?v=z55asCbUER8&t=4448s)]*
 
@@ -296,16 +310,18 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
 **[1 Samuel 28:16-19](/bible/1-samuel/28#v16)**  *[[1:35:47](https://www.youtube.com/watch?v=z55asCbUER8&t=5747s)]*
 
+- Then said Samuel, Wherefore then dost thou ask of me, seeing the Lord is departed from thee, and is become thine enemy? Imagine that: the Lord is your enemy now, Saul. Because you were bashful, you were self-willed, you broke the commandments of the Lord, you were deceitful, you lied, you made excuses, you were easily manipulated. It all went back to Saul being bashful.
+
 > <sup>[16](/bible/1-samuel/28#v16)</sup> Then said Samuel, Wherefore then dost thou ask of me, seeing the Lord is departed from thee, and is become thine enemy?
 >
 > <sup>[17](/bible/1-samuel/28#v17)</sup> And the Lord hath done to him, as he spake by me: for the Lord hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:
->
+
+- The Lord hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David: because thou obeyedst not the voice of the Lord, nor executedst his fierce wrath upon Amalek.
+
 > <sup>[18](/bible/1-samuel/28#v18)</sup> Because thou obeyedst not the voice of the Lord, nor executedst his fierce wrath upon Amalek, therefore hath the Lord done this thing unto thee this day.
 >
 > <sup>[19](/bible/1-samuel/28#v19)</sup> Moreover the Lord will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me: the Lord also shall deliver the host of Israel into the hand of the Philistines.
 
-- Then said Samuel, Wherefore then dost thou ask of me, seeing the Lord is departed from thee, and is become thine enemy? Imagine that: the Lord is your enemy now, Saul. Because you were bashful, you were self-willed, you broke the commandments of the Lord, you were deceitful, you lied, you made excuses, you were easily manipulated. It all went back to Saul being bashful.
-- The Lord hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David: because thou obeyedst not the voice of the Lord, nor executedst his fierce wrath upon Amalek.
 - Moreover the Lord will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me. Your day is over, Saul: no more kingdom, no more life. Cut off.
 
 **[Ecclesiasticus 20:22](/bible/sirach/20#v22)**  *[[1:39:11](https://www.youtube.com/watch?v=z55asCbUER8&t=5951s)]*
@@ -330,23 +346,33 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 **[Isaiah 51:20-23](/bible/isaiah/51#v20)**  *[[1:53:38](https://www.youtube.com/watch?v=z55asCbUER8&t=6818s)]*
 
 > <sup>[20](/bible/isaiah/51#v20)</sup> Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.
->
-> <sup>[21](/bible/isaiah/51#v21)</sup> Therefore hear now this, thou afflicted, and drunken, but not with wine:
->
-> <sup>[22](/bible/isaiah/51#v22)</sup> Thus saith thy Lord the Lord, and thy God that pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, even the dregs of the cup of my fury; thou shalt no more drink it again:
->
-> <sup>[23](/bible/isaiah/51#v23)</sup> But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.
 
 - Thy sons have fainted: the gods on the earth have laid down. They lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the curses of Deuteronomy 28.
+
+> <sup>[21](/bible/isaiah/51#v21)</sup> Therefore hear now this, thou afflicted, and drunken, but not with wine:
+
 - Thou afflicted, and drunken, but not with wine: what have we been afflicted and drunken with? White Jesus, Christianity, the philosophies of the world, society.
+
+> <sup>[22](/bible/isaiah/51#v22)</sup> Thus saith thy Lord the Lord, and thy God that pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, even the dregs of the cup of my fury; thou shalt no more drink it again:
+
 - Behold, I have taken out of thine hand the cup of trembling: there is going to come a time when the Lord takes the cup of his fury out of our hand, and we shall no more drink it again. But I will put it into the hand of them that afflict thee: the nations that afflicted us.
+
+> <sup>[23](/bible/isaiah/51#v23)</sup> But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.
+
 - Which have said to thy soul, Bow down, that we may go over: that is the position the other nations have put us in and still have us in. Your soul is subdued, not just your physical. And thou hast laid thy body as the ground: we lay down and they walk all over us.
+
 - Videos played from the trip: in South Africa, crowds giving Afrikaner descendants of the colonizers a hero's welcome while African migrants from Nigeria, Ghana, and Zimbabwe face xenophobic attacks in places like Durban and Pretoria; the descendants of the settlers, about 7 percent of the population, still hold about 90 percent of the land, and the people have no problem with it. This is what happens when you are subdued.
+
 - Video played of an African man saying the colonizers left too early, that they should have stayed longer to raise us to a certain level, that we are not prepared to rule ourselves. Look at the brother's face: defeated, subdued, low self-esteem, no faith in his own people. These are the minds we have to change, and the Lord is going to use you brothers to change them.
+
 - Testimony from the trip: the mall in Kenya was immaculate, like a mall in Atlanta, built under foreign direction with Kenyan labor; but where the people build for themselves, with no confidence and no standard, the steps are uneven and the houses are lopsided. That comes from low self-esteem. A whole country they can do anything with, and they wait for foreign aid, IMF loans, handouts, a dependence on the colonizer to save them.
+
 - Video played of the president of France, the top colonizing power in Africa, being celebrated on the east coast of Africa after the west African nations of Burkina Faso, Mali, and Niger expelled French influence; at a conference in Kenya he interrupted the room and told the audience to be quiet while he was talking, and they clapped for him. His country is responsible for coups, destabilization, and death across Africa; a commentator read in class noted Kenya has already paid millions to French companies for roads that were never constructed. That is the real relationship.
+
 - Video summarized in one line: a native doctor in Ghana died testing his own claimed bulletproof charm at a funeral ritual; the teaching point is that superstition in place of the word of God is part of the same broken mind.
+
 - The nations use our people because we invite them to use us. We are bashful; we do not think we can do it ourselves, so we reach out to the colonizers to be our daddies. The leader is supposed to have the people's best interest at heart.
+
 - Video played: a bishop teaching in Kenya said as soon as the church heard Jesus was black, they were infuriated and threw rocks, just from reading the scripture, because a people taught to hate themselves hate anything black.
 
 **[Matthew 17:20-21](/bible/matthew/17#v20)**  *[[2:12:43](https://www.youtube.com/watch?v=z55asCbUER8&t=7963s)]*
@@ -360,20 +386,23 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
 **[Romans 10:17-21](/bible/romans/10#v17)**  *[[2:14:56](https://www.youtube.com/watch?v=z55asCbUER8&t=8096s)]*
 
+- So then faith cometh by hearing, and hearing by the word of God. You have to constantly hear the word and constantly be around men that know the Bible; that grows your faith.
+
+- Have they not heard? Yes verily, their sound went into all the earth. We just did this in the worldwide blitz: the purple and gold went all over the planet spreading the word of God. That shows we are in the right place, and we are on the right side of history.
+
 > <sup>[17](/bible/romans/10#v17)</sup> So then faith cometh by hearing, and hearing by the word of God.
 >
 > <sup>[18](/bible/romans/10#v18)</sup> But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.
 >
 > <sup>[19](/bible/romans/10#v19)</sup> But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
->
+
+- First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you: the northern kingdom. Esaias is very bold, and saith, I was found of them that sought me not. How many of you were seeking the Lord in the world? You were in church on a Sunday banging a tambourine; you were doing Mother's Day last week.
+
+- But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. That disobedient people now has to receive the word of God and change their lives.
+
 > <sup>[20](/bible/romans/10#v20)</sup> But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.
 >
 > <sup>[21](/bible/romans/10#v21)</sup> But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.
-
-- So then faith cometh by hearing, and hearing by the word of God. You have to constantly hear the word and constantly be around men that know the Bible; that grows your faith.
-- Have they not heard? Yes verily, their sound went into all the earth. We just did this in the worldwide blitz: the purple and gold went all over the planet spreading the word of God. That shows we are in the right place, and we are on the right side of history.
-- First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you: the northern kingdom. Esaias is very bold, and saith, I was found of them that sought me not. How many of you were seeking the Lord in the world? You were in church on a Sunday banging a tambourine; you were doing Mother's Day last week.
-- But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. That disobedient people now has to receive the word of God and change their lives.
 
 **[Wisdom of Solomon 5:1](/bible/wisdom-of-solomon/5#v1)**  *[[2:18:21](https://www.youtube.com/watch?v=z55asCbUER8&t=8301s)]*
 
@@ -415,6 +444,10 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
 **[Acts 14:11-21](/bible/acts/14#v11)**  *[[2:23:28](https://www.youtube.com/watch?v=z55asCbUER8&t=8608s)]*
 
+- The people of Lystra saw what Paul had done and called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker, and the priest of Jupiter brought oxen and garlands to do sacrifice unto them. The apostles rent their clothes and ran in among the people, crying out, We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God. Stop this nonsense; turn to the living God and keep the commandments.
+
+- Then certain Jews from Antioch and Iconium persuaded the people, and having stoned Paul, drew him out of the city, supposing he had been dead. They knocked Paul upside the head with stones, and he went to the third heavens: that is the vision he spoke of in 2 Corinthians 12.
+
 > <sup>[11](/bible/acts/14#v11)</sup> And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.
 >
 > <sup>[12](/bible/acts/14#v12)</sup> And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.
@@ -434,23 +467,24 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 > <sup>[19](/bible/acts/14#v19)</sup> And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead.
 >
 > <sup>[20](/bible/acts/14#v20)</sup> Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
->
-> <sup>[21](/bible/acts/14#v21)</sup> And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
 
-- The people of Lystra saw what Paul had done and called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker, and the priest of Jupiter brought oxen and garlands to do sacrifice unto them. The apostles rent their clothes and ran in among the people, crying out, We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God. Stop this nonsense; turn to the living God and keep the commandments.
-- Then certain Jews from Antioch and Iconium persuaded the people, and having stoned Paul, drew him out of the city, supposing he had been dead. They knocked Paul upside the head with stones, and he went to the third heavens: that is the vision he spoke of in 2 Corinthians 12.
 - Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe. And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch. They went right back. Just like the team in Kenya: when they stoned us, we went right back. We took those stones, brothers got hit in the jaw, and we came right back. We are not going anywhere.
+
+> <sup>[21](/bible/acts/14#v21)</sup> And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
 
 **[Acts 15:25-26](/bible/acts/15#v25)**  *[[2:26:22](https://www.youtube.com/watch?v=z55asCbUER8&t=8782s)]*
 
 > <sup>[25](/bible/acts/15#v25)</sup> It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,
->
-> <sup>[26](/bible/acts/15#v26)</sup> Men that have hazarded their lives for the name of our Lord Jesus Christ.
 
 - It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul: men that have hazarded their lives for the name of our Lord Jesus Christ.
+
 - Brothers, you are not here to be a professional student. You are not here to sit forever on a Saturday with a notebook hearing breakdowns. Your job is to learn this gospel, build your spirit up, go forth and teach.
 
+> <sup>[26](/bible/acts/15#v26)</sup> Men that have hazarded their lives for the name of our Lord Jesus Christ.
+
 **[Acts 5:34-42](/bible/acts/5#v34)**  *[[2:27:30](https://www.youtube.com/watch?v=z55asCbUER8&t=8850s)]*
+
+- Gamaliel, a doctor of the law, had in reputation among all the people, told the council: before these days rose up Theudas, boasting himself to be somebody, and all that obeyed him were scattered and brought to nought. After him rose up Judas of Galilee, and he also perished. We have that today: brothers come to the body, learn the scriptures a little bit, then go forth and heap men unto themselves, and when they leave, the men come to nought.
 
 > <sup>[34](/bible/acts/5#v34)</sup> Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
 >
@@ -461,7 +495,13 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 > <sup>[37](/bible/acts/5#v37)</sup> After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, even as many as obeyed him, were dispersed.
 >
 > <sup>[38](/bible/acts/5#v38)</sup> And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
->
+
+- Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought: but if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God. If this movement is of God, you cannot do a thing about it. You are not fighting us; you are fighting God.
+
+- And when they had called the apostles, and beaten them, they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name. That is the level we have to get to: taking a beating for the Lord and rejoicing. How many of you could rejoice in that? Not many of us are there yet.
+
+- And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ. They did not go get their lick back; they kept teaching.
+
 > <sup>[39](/bible/acts/5#v39)</sup> But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.
 >
 > <sup>[40](/bible/acts/5#v40)</sup> And to him they agreed: and when they had called the apostles, and beaten them, they commanded that they should not speak in the name of Jesus, and let them go.
@@ -469,11 +509,6 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 > <sup>[41](/bible/acts/5#v41)</sup> And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.
 >
 > <sup>[42](/bible/acts/5#v42)</sup> And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.
-
-- Gamaliel, a doctor of the law, had in reputation among all the people, told the council: before these days rose up Theudas, boasting himself to be somebody, and all that obeyed him were scattered and brought to nought. After him rose up Judas of Galilee, and he also perished. We have that today: brothers come to the body, learn the scriptures a little bit, then go forth and heap men unto themselves, and when they leave, the men come to nought.
-- Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought: but if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God. If this movement is of God, you cannot do a thing about it. You are not fighting us; you are fighting God.
-- And when they had called the apostles, and beaten them, they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name. That is the level we have to get to: taking a beating for the Lord and rejoicing. How many of you could rejoice in that? Not many of us are there yet.
-- And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ. They did not go get their lick back; they kept teaching.
 
 **[2 Esdras 10:33](/bible/2-esdras/10#v33)**  *[[2:32:03](https://www.youtube.com/watch?v=z55asCbUER8&t=9123s)]*
 
@@ -496,19 +531,21 @@ Definitions read in class: bashfulness is the quality of being shy, easily embar
 
 **[James 5:12-16](/bible/james/5#v12)**  *[[2:36:41](https://www.youtube.com/watch?v=z55asCbUER8&t=9401s)]*
 
+- Let your yea be yea; and your nay, nay; lest ye fall into condemnation. Is any among you afflicted? Let him pray. Is any merry? Let him sing psalms.
+
 > <sup>[12](/bible/james/5#v12)</sup> But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.
 >
 > <sup>[13](/bible/james/5#v13)</sup> Is any among you afflicted? let him pray. Is any merry? let him sing psalms.
 >
 > <sup>[14](/bible/james/5#v14)</sup> Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:
->
+
+- Is any sick among you? Let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord: and the prayer of faith shall save the sick, and the Lord shall raise him up.
+
+- Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
+
 > <sup>[15](/bible/james/5#v15)</sup> And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.
 >
 > <sup>[16](/bible/james/5#v16)</sup> Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
-
-- Let your yea be yea; and your nay, nay; lest ye fall into condemnation. Is any among you afflicted? Let him pray. Is any merry? Let him sing psalms.
-- Is any sick among you? Let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord: and the prayer of faith shall save the sick, and the Lord shall raise him up.
-- Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
 
 **[1 Samuel 10:6-7](/bible/1-samuel/10#v6)**  *[[2:37:49](https://www.youtube.com/watch?v=z55asCbUER8&t=9469s)]*
 

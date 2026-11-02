@@ -620,27 +620,23 @@ Reading from Wikipedia's list of anti-black slurs  *[[58:28](https://www.youtube
 
 **[Jeremiah 30:10-16](/bible/jeremiah/30#v10)**  *[[1:42:32](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=6152s)]*
 
+- Israel suffers because we broke God's commandments. But does God excuse the nations who did these things to us? Absolutely not.
+
+- He saves our seed from the land of captivity, America and the places we were sold as slaves. Jacob shall return to God, and be in rest, a thousand years with Christ.
+
 > <sup>[10](/bible/jeremiah/30#v10)</sup> Therefore fear thou not, O my servant Jacob, saith the Lord; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make him afraid.
 >
 > <sup>[11](/bible/jeremiah/30#v11)</sup> For I am with thee, saith the Lord, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee: but I will correct thee in measure, and will not leave thee altogether unpunished.
->
+
+- A full end of all nations: Elam, Moab, Esau. But he corrects us in measure, and that is the one third.
+
+- Even though we are in this hellish condition we can still repent, and all that devour us shall be devoured; every one of our adversaries shall go into captivity.
+
 > <sup>[12](/bible/jeremiah/30#v12)</sup> For thus saith the Lord, Thy bruise is incurable, and thy wound is grievous.
 >
 > <sup>[13](/bible/jeremiah/30#v13)</sup> There is none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.
 >
 > <sup>[14](/bible/jeremiah/30#v14)</sup> All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; because thy sins were increased.
->
-> <sup>[15](/bible/jeremiah/30#v15)</sup> Why criest thou for thine affliction? thy sorrow is incurable for the multitude of thine iniquity: because thy sins were increased, I have done these things unto thee.
->
-> <sup>[16](/bible/jeremiah/30#v16)</sup> Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
-
-- Israel suffers because we broke God's commandments. But does God excuse the nations who did these things to us? Absolutely not.
-
-- He saves our seed from the land of captivity, America and the places we were sold as slaves. Jacob shall return to God, and be in rest, a thousand years with Christ.
-
-- A full end of all nations: Elam, Moab, Esau. But he corrects us in measure, and that is the one third.
-
-- Even though we are in this hellish condition we can still repent, and all that devour us shall be devoured; every one of our adversaries shall go into captivity.
 
 - All thy lovers have forgotten thee, they seek thee not: just like this situation with Nolan Wells. Jacob is thinking the DA, the devil's assistant, the district attorney, is going to bring it forth, because in law they say you can indict a ham sandwich. The jury did not bring back an indictment although they had seen all the evidence: oh no, we do not see any evidence of foul play. Jacob is going crazy because he is depending on this Edomite dog devil to bring forth truth.
 
@@ -657,6 +653,10 @@ Reading from Wikipedia's list of anti-black slurs  *[[58:28](https://www.youtube
     > <sup>[15](/bible/zechariah/8#v15)</sup> So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not.
 
     As we were a curse among the heathen, so God will save us and we shall be a blessing. Fear not.
+
+> <sup>[15](/bible/jeremiah/30#v15)</sup> Why criest thou for thine affliction? thy sorrow is incurable for the multitude of thine iniquity: because thy sins were increased, I have done these things unto thee.
+>
+> <sup>[16](/bible/jeremiah/30#v16)</sup> Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
 
 
 **[Isaiah 14:1-3](/bible/isaiah/14#v1)**  *[[1:48:05](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=6485s)]*
@@ -680,23 +680,23 @@ Reading from Wikipedia's list of anti-black slurs  *[[58:28](https://www.youtube
 
 **[Genesis 25:21-25](/bible/genesis/25#v21)**  *[[1:51:05](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=6665s)]*
 
+- There are two different groups of people that are hated and in hell. Our hell we can redeem ourselves out of; now read about our long-lost brother.
+
+- Two nations, two separate people, written in the book of beginnings, the beginning of nations.
+
 > <sup>[21](/bible/genesis/25#v21)</sup> And Isaac intreated the Lord for his wife, because she was barren: and the Lord was intreated of him, and Rebekah his wife conceived.
 >
 > <sup>[22](/bible/genesis/25#v22)</sup> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the Lord.
 >
 > <sup>[23](/bible/genesis/25#v23)</sup> And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
->
-> <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
->
-> <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
-
-- There are two different groups of people that are hated and in hell. Our hell we can redeem ourselves out of; now read about our long-lost brother.
-
-- Two nations, two separate people, written in the book of beginnings, the beginning of nations.
 
 - The elder shall serve the younger: the first child out is destined to be a servant, a slave, to the younger.
 
 - The first came out red, and they called his name Esau, which was later changed to Edom.
+
+> <sup>[24](/bible/genesis/25#v24)</sup> And when her days to be delivered were fulfilled, behold, there were twins in her womb.
+>
+> <sup>[25](/bible/genesis/25#v25)</sup> And the first came out red, all over like an hairy garment; and they called his name Esau.
 
 
 **[Psalms 137:7-8](/bible/psalms/137#v7)**  *[[1:52:35](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=6755s)]*
@@ -801,11 +801,19 @@ Reading from an article on the fox  *[[1:56:58](https://www.youtube.com/watch?v=
 **[Obadiah 1:1-18](/bible/obadiah/1#v1)**  *[[2:03:50](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=7430s)]*
 
 > <sup>[1](/bible/obadiah/1#v1)</sup> The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
->
+
+- Concerning Edom: put European Caucasians in that place, so the man is put in his proper category.
+
+- Dwelling in the clefts of the rock is where the word Caucasian comes from, cave dweller. He pushed the Horites, the cave dwellers, out of the mountains and took that spot.
+
 > <sup>[2](/bible/obadiah/1#v2)</sup> Behold, I have made thee small among the heathen: thou art greatly despised.
 >
 > <sup>[3](/bible/obadiah/1#v3)</sup> The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
->
+
+- Who shall bring me down: power is on their side, nuclear power. The eagle is a bird of prey on their emblems; they are the predator and we are the prey. When they landed on the moon they said the eagle has landed.
+
+- The men of his confederacy, NATO, will deceive him and prevail. The wise men and the mighty men of Teman are the Germans, the scientists brought over in Operation Paperclip who built the bombs.
+
 > <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 >
 > <sup>[5](/bible/obadiah/1#v5)</sup> If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?
@@ -821,28 +829,6 @@ Reading from an article on the fox  *[[1:56:58](https://www.youtube.com/watch?v=
 > <sup>[10](/bible/obadiah/1#v10)</sup> For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.
 >
 > <sup>[11](/bible/obadiah/1#v11)</sup> In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them.
->
-> <sup>[12](/bible/obadiah/1#v12)</sup> But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.
->
-> <sup>[13](/bible/obadiah/1#v13)</sup> Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;
->
-> <sup>[14](/bible/obadiah/1#v14)</sup> Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
->
-> <sup>[15](/bible/obadiah/1#v15)</sup> For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
->
-> <sup>[16](/bible/obadiah/1#v16)</sup> For as ye have drunk upon my holy mountain, so shall all the heathen drink continually, yea, they shall drink, and they shall swallow down, and they shall be as though they had not been.
->
-> <sup>[17](/bible/obadiah/1#v17)</sup> But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.
->
-> <sup>[18](/bible/obadiah/1#v18)</sup> And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it.
-
-- Concerning Edom: put European Caucasians in that place, so the man is put in his proper category.
-
-- Dwelling in the clefts of the rock is where the word Caucasian comes from, cave dweller. He pushed the Horites, the cave dwellers, out of the mountains and took that spot.
-
-- Who shall bring me down: power is on their side, nuclear power. The eagle is a bird of prey on their emblems; they are the predator and we are the prey. When they landed on the moon they said the eagle has landed.
-
-- The men of his confederacy, NATO, will deceive him and prevail. The wise men and the mighty men of Teman are the Germans, the scientists brought over in Operation Paperclip who built the bombs.
 
 - Even thou wast as one of them: Hamites and Arabs sold us, Esau financed the slave trade through the East and West India companies. Throw the rock and hide the hand. He stood in the crossway like a slave catcher to cut off those that escaped Babylon.
 
@@ -857,6 +843,20 @@ Reading from an article on the fox  *[[1:56:58](https://www.youtube.com/watch?v=
     > <sup>[7](/bible/galatians/6#v7)</sup> Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
 
     Brought to prove that thy reward shall return upon thine own head: you reap what you sow. Whatever you sow, you sowed robbery, you sowed violence, you are going to reap the same thing. That is what the Most High is telling you.
+
+> <sup>[12](/bible/obadiah/1#v12)</sup> But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.
+>
+> <sup>[13](/bible/obadiah/1#v13)</sup> Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;
+>
+> <sup>[14](/bible/obadiah/1#v14)</sup> Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
+>
+> <sup>[15](/bible/obadiah/1#v15)</sup> For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
+>
+> <sup>[16](/bible/obadiah/1#v16)</sup> For as ye have drunk upon my holy mountain, so shall all the heathen drink continually, yea, they shall drink, and they shall swallow down, and they shall be as though they had not been.
+>
+> <sup>[17](/bible/obadiah/1#v17)</sup> But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.
+>
+> <sup>[18](/bible/obadiah/1#v18)</sup> And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it.
 
 
 **[Isaiah 34:5-10](/bible/isaiah/34#v5)**  *[[2:17:24](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=8244s)]*
@@ -915,6 +915,10 @@ Reading from an article on the fox  *[[1:56:58](https://www.youtube.com/watch?v=
 
 **[Isaiah 47:7-11](/bible/isaiah/47#v7)**  *[[2:23:31](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=8611s)]*
 
+- Esau does not think this is going to happen. I shall be a lady for ever is Esau thinking his kingdom will go on forever.
+
+- These two things come in a moment, in one day. It will take God one hour to destroy over 200 years of a flourishing nation, and there shall be none remaining of the house of Esau.
+
 > <sup>[7](/bible/isaiah/47#v7)</sup> And thou saidst, I shall be a lady for ever: so that thou didst not lay these things to thy heart, neither didst remember the latter end of it.
 >
 > <sup>[8](/bible/isaiah/47#v8)</sup> Therefore hear now this, thou that art given to pleasures, that dwellest carelessly, that sayest in thine heart, I am, and none else beside me; I shall not sit as a widow, neither shall I know the loss of children:
@@ -922,14 +926,10 @@ Reading from an article on the fox  *[[1:56:58](https://www.youtube.com/watch?v=
 > <sup>[9](/bible/isaiah/47#v9)</sup> But these two things shall come to thee in a moment in one day, the loss of children, and widowhood: they shall come upon thee in their perfection for the multitude of thy sorceries, and for the great abundance of thine enchantments.
 >
 > <sup>[10](/bible/isaiah/47#v10)</sup> For thou hast trusted in thy wickedness: thou hast said, None seeth me. Thy wisdom and thy knowledge, it hath perverted thee; and thou hast said in thine heart, I am, and none else beside me.
->
-> <sup>[11](/bible/isaiah/47#v11)</sup> Therefore shall evil come upon thee; thou shalt not know from whence it riseth: and mischief shall fall upon thee; thou shalt not be able to put it off: and desolation shall come upon thee suddenly, which thou shalt not know.
-
-- Esau does not think this is going to happen. I shall be a lady for ever is Esau thinking his kingdom will go on forever.
-
-- These two things come in a moment, in one day. It will take God one hour to destroy over 200 years of a flourishing nation, and there shall be none remaining of the house of Esau.
 
 - None seeth me: the secret plots, like the one in Haiti in 1981 we were never taught in school. His wisdom and knowledge, his witchcraft and science, have perverted him.
+
+> <sup>[11](/bible/isaiah/47#v11)</sup> Therefore shall evil come upon thee; thou shalt not know from whence it riseth: and mischief shall fall upon thee; thou shalt not be able to put it off: and desolation shall come upon thee suddenly, which thou shalt not know.
 
 
 **[Revelation 18:2-3](/bible/revelation/18#v2)**  *[[2:27:21](https://www.youtube.com/watch?v=TVP5_nyFcHs&t=8841s)]*

@@ -257,13 +257,11 @@ Reading from an on-screen chart of how long past empires lasted  *[[1:21:08](htt
 
 **[Isaiah 46:8-10](/bible/isaiah/46#v8)**  *[[1:45:21](https://www.youtube.com/watch?v=HXteD06sNrk&t=6321s)]*
 
+- Remember this, and shew yourselves men; bring it again to mind, O ye transgressors. Some of you are still little boys after four years. Bring to mind who you are, the mission, why you walked through that door, why you left the Christian church, why you know you are an Israelite. Some of you have one foot in and one foot out and have forgotten.
+
 > <sup>[8](/bible/isaiah/46#v8)</sup> Remember this, and shew yourselves men: bring it again to mind, O ye transgressors.
 >
 > <sup>[9](/bible/isaiah/46#v9)</sup> Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,
->
-> <sup>[10](/bible/isaiah/46#v10)</sup> Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
-
-- Remember this, and shew yourselves men; bring it again to mind, O ye transgressors. Some of you are still little boys after four years. Bring to mind who you are, the mission, why you walked through that door, why you left the Christian church, why you know you are an Israelite. Some of you have one foot in and one foot out and have forgotten.
 
 - Remember the former things of old: Abraham, Isaac, Jacob, Moses, Jeremiah, the time we were righteous and did not play with sin. We are the greatest people who ever set foot on this planet. If you want the kingdom you must accept what comes with it: war, tribulation, death.
 
@@ -278,6 +276,8 @@ Reading from an on-screen chart of how long past empires lasted  *[[1:21:08](htt
     > <sup>[16](/bible/habakkuk/3#v16)</sup> When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
 
     When I heard, my belly trembled, my lips quivered, rottenness entered into my bones, that I might rest in the day of trouble. Habakkuk saw the missiles hit and ten thousand fall at his side, and the anxiety sat in his chest; he said I do not want to be alive to see this.
+
+> <sup>[10](/bible/isaiah/46#v10)</sup> Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
 
 
 *[[1:52:40](https://www.youtube.com/watch?v=HXteD06sNrk&t=6760s)]* **In The News: Night footage of missiles streaking across the sky.** — That is what stars falling from heaven looks like. The prophets never saw a missile or an iron dome and described it the best they could; you are the prophets who wrote it, and it is your job to put it together.

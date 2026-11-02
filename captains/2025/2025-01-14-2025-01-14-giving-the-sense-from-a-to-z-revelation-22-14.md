@@ -95,12 +95,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "salvation", "the-law", "the-word
 **[Revelation 2:26-27](/bible/revelation/2#v26)**  *[[11:33](https://www.youtube.com/watch?v=goIVguWzQMw&t=693s)]*
 
 > <sup>[26](/bible/revelation/2#v26)</sup> And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
->
-> <sup>[27](/bible/revelation/2#v27)</sup> And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
 
 - And he that overcometh and keepeth my works unto the end, to him will I give power over the nations: So, how in the world the nations going to be saved is the reward if the reward for the Israelites is that if they overcome their sin, they're going to have power over those nations? Does that make any sense? You know what that word nation translate to? Gentiles. Gentiles. So, Christ is saying, "If you overcome your sin, if you put away your sin, overcome it, I'm going to give you power over the Gentiles." I don't know what y'all reading. Every time I teach this, I get animated cuz I don't know what y'all reading, man. It's getting ridiculous. Like the amount of blasphemy and stupidity on the internet today is beyond me.
 
 - He that overcometh and keepeth my works unto the end: We're going to get into those works in a minute.
+
+> <sup>[27](/bible/revelation/2#v27)</sup> And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
 
 - And he shall rule them with a rod of iron: Who is the them? The nations. "He that overcometh." So, if you're Edomite and your mama Edomite, but your mama don't want to keep the commandments, is Christ saying he going to give power to the Moabites over the Moabites? Is he going to give power to the Ishmaelites over the Ishmaelites? No. That's not what it's saying. Stop being simple. He's writing to the Israelite churches. And to the Israelites as a whole, not all nations. Stop being simple. Some of y'all crazy.
 
@@ -187,29 +187,29 @@ tags: ["15 Minutes w/ The Captains", "christ", "salvation", "the-law", "the-word
 
 **[Isaiah 60:10-14](/bible/isaiah/60#v10)**  *[[27:12](https://www.youtube.com/watch?v=goIVguWzQMw&t=1632s)]*
 
-> <sup>[10](/bible/isaiah/60#v10)</sup> And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.
->
-> <sup>[11](/bible/isaiah/60#v11)</sup> Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.
->
-> <sup>[12](/bible/isaiah/60#v12)</sup> For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted.
->
-> <sup>[13](/bible/isaiah/60#v13)</sup> The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.
->
-> <sup>[14](/bible/isaiah/60#v14)</sup> The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the Lord, The Zion of the Holy One of Israel.
-
 - So, how do we know? Let's go to the book of Isaiah chapter 60. Let me read 17 first. It's a lot of here. It is what it is. Isaiah 16 and 10, I'm going to roll through it.
 
+> <sup>[10](/bible/isaiah/60#v10)</sup> And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.
+
 - And the sons of strangers shall build up thy walls: The strangers are going to build the walls.
+
+> <sup>[11](/bible/isaiah/60#v11)</sup> Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.
 
 - That men may bring unto thee the forces of the Gentiles: Bring unto thee. Who is the thee? The Israelites. The Israelites. That's the thee. That's why he's very clear that the Gentiles will have to bring their forces to the Israelites and build up the Israelites' walls, and their gates shall be open continually. The word their, t h e i r, is possessive. Thy, t h y, is possessive. That mean it belong to you. Not everybody. Wake up and repent.
 
 - And that their kings may be brought: Verse 11, again. Isaiah 60 and 11. Whose kings? The kings of the Gentiles. Their kings got to be brought. They got to come.
+
+> <sup>[12](/bible/isaiah/60#v12)</sup> For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted.
 
 - Yea, those nations shall be utterly wasted: What's the definition of utterly? Since y'all love definitions. Since y'all love definitions, what is the definition of utterly? Let me look it up. Let's look up utterly. Y'all love to talk crap and run your damn mouth. Well, what does the Bible mean when it says those nations that will not serve the Israelites shall be utterly wasted? What God mean when he say that? What that mean? Let's see. Utterly, it says, oh, utterly, "completely and without qualification. Absolutely." Oh, I need to go look at the Hebrew word for that, right? I need to go look at the Greek word for utterly now? Okay. What did he mean in context? I think he meant what he meant.
 
 - For the nation and kingdom that will not serve thee shall perish: Isaiah 16:12. The thee is the Israelites. Shall perish. Perish mean destroyed. Perish means destroyed. Okay? "Yea, those nations," meaning multiple, "shall be utterly wasted." Utterly: completely, totally, absolutely, entirely, wholly, fully, thoroughly, beyond, quite, altogether, 100%. Boy, ain't God good? Won't he do it? Can I get a amen? The Lord said the nation that don't want to serve you going to get utterly wasted.
 
 - Utterly wasted: Christianity got your brain so gobbled up with foolishness that you see the word utterly, you see the word perish, you see the word nation, and everything just completely go away from your mind. You say, "That ain't what it mean." Oh, but you want your complete check. You want your total check. You want your absolute check. Your full check. 100% of your check. You know what utterly mean then. But you don't know what utterly mean when God said he going to utterly get rid of all the nations. Y'all crazy. You bugged out. Christianity has done a number on you. Lord, I pray you come out of that church. Jesus Christ, come up out of that damn hellhole, boy.
+
+> <sup>[13](/bible/isaiah/60#v13)</sup> The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.
+>
+> <sup>[14](/bible/isaiah/60#v14)</sup> The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the Lord, The Zion of the Holy One of Israel.
 
 - And they shall call thee, The city of the Lord, The Zion of the Holy One of Israel: Let me skip down. Verse 14. The city of the Lord, the Zion of the holy one of Israel.
 
@@ -238,16 +238,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "salvation", "the-law", "the-word
 **[Matthew 15:24-27](/bible/matthew/15#v24)**  *[[34:06](https://www.youtube.com/watch?v=goIVguWzQMw&t=2046s)]*
 
 > <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
->
-> <sup>[25](/bible/matthew/15#v25)</sup> Then came she and worshipped him, saying, Lord, help me.
->
-> <sup>[26](/bible/matthew/15#v26)</sup> But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs.
->
-> <sup>[27](/bible/matthew/15#v27)</sup> And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.
 
 - I am not sent but unto the lost sheep of the house of Israel: Go to Matthew 15. How much time I got? You know I get to rolling and forget the time. I got about 26 minutes. I'm going to finish this chapter. So this is Jesus Christ speaking. He said, "I am not sent but unto the lost sheep of the house of Israel." That's Jesus. That ain't me. And none of us make this up. That's Jesus. Okay?
 
+> <sup>[25](/bible/matthew/15#v25)</sup> Then came she and worshipped him, saying, Lord, help me.
+>
+> <sup>[26](/bible/matthew/15#v26)</sup> But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs.
+
 - It is not meet to take the children's bread, and to cast it to dogs: What Jesus just called this woman? A dog. Jesus said, I didn't say this. I wasn't there. I wasn't standing there. Or maybe I was. I don't know. But as far as what I know here I was not standing there. All I know is this is written. And it says it's not good to take the children's bread and to cast it to dogs. That's Jesus.
+
+> <sup>[27](/bible/matthew/15#v27)</sup> And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.
 
 - Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table: Now watch 27. She said, you right. That's the truth. So this woman, who is of another nation by the way, acknowledges that she is a dog. So dog is talking about men. Races of men. That's what dogs are. Straight up.
 

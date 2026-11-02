@@ -144,14 +144,6 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 **[Isaiah 33:2-6](/bible/isaiah/33#v2)**  *[[54:17](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=3257s)]*
 
 > <sup>[2](/bible/isaiah/33#v2)</sup> O Lord, be gracious unto us; we have waited for thee: be thou their arm every morning, our salvation also in the time of trouble.
->
-> <sup>[3](/bible/isaiah/33#v3)</sup> At the noise of the tumult the people fled; at the lifting up of thyself the nations were scattered.
->
-> <sup>[4](/bible/isaiah/33#v4)</sup> And your spoil shall be gathered like the gathering of the caterpiller: as the running to and fro of locusts shall he run upon them.
->
-> <sup>[5](/bible/isaiah/33#v5)</sup> The Lord is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
->
-> <sup>[6](/bible/isaiah/33#v6)</sup> And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.
 
 - O Lord, be gracious unto us; we have waited for thee: our prayer, like Hezekiah's. Be thou their arm every morning, our men who go out to battle, our salvation in the time of trouble. At the lifting up of thyself the nations were scattered and the spoil gathered like the caterpillar.
 
@@ -222,6 +214,14 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
     > <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
 
     Immediately after the tribulation of those days, the stars, missiles, fall from heaven and the powers of the heavens, the European nations, are shaken with war; and then the sign of the Son of man, and he sends his angels to gather his elect, Israel, Isaiah 45:4, not Baptists, Pentecostals, Muslims, or Catholics. Isaiah 34:4-5 shows the heaven that is dissolved and rolled together like a scroll, nuclear bombs, with the host falling like leaves and satellites dropping: my sword shall be bathed in heaven and come down upon Idumea, the Greek and Roman name for Edom, America, France, Germany, Britain, Russia.
+
+> <sup>[3](/bible/isaiah/33#v3)</sup> At the noise of the tumult the people fled; at the lifting up of thyself the nations were scattered.
+>
+> <sup>[4](/bible/isaiah/33#v4)</sup> And your spoil shall be gathered like the gathering of the caterpiller: as the running to and fro of locusts shall he run upon them.
+>
+> <sup>[5](/bible/isaiah/33#v5)</sup> The Lord is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
+>
+> <sup>[6](/bible/isaiah/33#v6)</sup> And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.
 
 
 *[[1:01:26](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=3686s)]* **In The News: A picture of a heavy man praying at the dinner table to lose weight with a chicken leg in one hand and a steak in the other.** — God needs something to work with. Smaller portions, walk around the block, then let the Lord do the rest. Likewise you pray for wisdom with the Bible closed Sunday through Friday; give the Lord something to work with.
@@ -374,10 +374,6 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 **[Isaiah 33:18-20](/bible/isaiah/33#v18)**  *[[2:01:31](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=7291s)]*
 
 > <sup>[18](/bible/isaiah/33#v18)</sup> Thine heart shall meditate terror. Where is the scribe? where is the receiver? where is he that counted the towers?
->
-> <sup>[19](/bible/isaiah/33#v19)</sup> Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, that thou canst not understand.
->
-> <sup>[20](/bible/isaiah/33#v20)</sup> Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
 
 - Thine heart shall meditate terror: where is the scribe who records, the receiver who collects taxes, he that counted the towers who assesses a city's defences and arsenals? Gone.
 
@@ -515,6 +511,10 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 
     Deliver me from the evil man, preserve me from the violent man, which imagine mischiefs in their heart; continually are they gathered together for war, from Venezuela to Iran to Mexico and Cuba. They have sharpened their tongues like a serpent, mocking Spain for refusing them; adders' poison, their philosophies and politics, is under their lips. Keep me from the hands of the wicked, who have purposed to overthrow my goings; the proud have hid a snare and spread a net and set gins for me. Selah.
 
+> <sup>[19](/bible/isaiah/33#v19)</sup> Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, that thou canst not understand.
+>
+> <sup>[20](/bible/isaiah/33#v20)</sup> Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
+
 
 **[Isaiah 33:21-24](/bible/isaiah/33#v21)**  *[[2:23:35](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=8615s)]*
 
@@ -572,7 +572,13 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 **[Isaiah 34:1-17](/bible/isaiah/34#v1)**  *[[2:30:48](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=9048s)]*
 
 > <sup>[1](/bible/isaiah/34#v1)</sup> Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
->
+
+- Come near, ye nations, to hear: the indignation of the Lord is upon all nations and his fury upon all their armies; he hath utterly destroyed them, the armies, not yet everybody, and delivered them to the slaughter; their stink shall come up out of their carcases like Antiochus, and the mountains shall be melted with their blood.
+
+- All the host of heaven shall be dissolved by thermonuclear fire, the heaven rolled together as a scroll, the mushroom cloud, and their host, missiles and satellites, fall down as the leaf from the vine, unexpectedly, their power gone and the rockets dropping to the ground. My sword shall be bathed in heaven and come down upon Idumea, the people of my curse, to judgment.
+
+- The sword of the Lord is filled with blood, the blood of lambs and goats and the fat of the kidneys of rams: the nations described as a sacrifice. The Lord hath a sacrifice in Bozrah, modern Jordan, and a great slaughter in the land of Idumea, where all the wars take place. The unicorns, rhinoceroses, and bullocks come down and the land is soaked with blood, for it is the day of the Lord's vengeance and the year of recompences for the controversy of Zion, which we are living now.
+
 > <sup>[2](/bible/isaiah/34#v2)</sup> For the indignation of the Lord is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.
 >
 > <sup>[3](/bible/isaiah/34#v3)</sup> Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.
@@ -602,14 +608,6 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
 > <sup>[15](/bible/isaiah/34#v15)</sup> There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate.
 >
 > <sup>[16](/bible/isaiah/34#v16)</sup> Seek ye out of the book of the Lord, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
->
-> <sup>[17](/bible/isaiah/34#v17)</sup> And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.
-
-- Come near, ye nations, to hear: the indignation of the Lord is upon all nations and his fury upon all their armies; he hath utterly destroyed them, the armies, not yet everybody, and delivered them to the slaughter; their stink shall come up out of their carcases like Antiochus, and the mountains shall be melted with their blood.
-
-- All the host of heaven shall be dissolved by thermonuclear fire, the heaven rolled together as a scroll, the mushroom cloud, and their host, missiles and satellites, fall down as the leaf from the vine, unexpectedly, their power gone and the rockets dropping to the ground. My sword shall be bathed in heaven and come down upon Idumea, the people of my curse, to judgment.
-
-- The sword of the Lord is filled with blood, the blood of lambs and goats and the fat of the kidneys of rams: the nations described as a sacrifice. The Lord hath a sacrifice in Bozrah, modern Jordan, and a great slaughter in the land of Idumea, where all the wars take place. The unicorns, rhinoceroses, and bullocks come down and the land is soaked with blood, for it is the day of the Lord's vengeance and the year of recompences for the controversy of Zion, which we are living now.
 
 - Seek ye out of the book of the Lord and read: four chapters a day minimum. No one of these shall fail; 1 Kings 8:56, there hath not failed one word of all his good promise. None shall want her mate; you cannot mate the Bible with another book, as Islam mixes the Quran with it. 1 Timothy 4:13, till I come give attendance to reading, to exhortation, to doctrine; neglect not the gift in thee: the Holy Spirit is in all of us, and John the Baptist, anointed in the womb, never spoke in tongues.
 
@@ -626,6 +624,8 @@ tags: ["IUIC in the ClassRoom", "false-religion", "justice", "prayer", "substanc
     > <sup>[14](/bible/1-timothy/4#v14)</sup> Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.
 
     Till I come, give attendance to reading, to exhortation, to doctrine. Neglect not the gift that is in thee, which was given thee by prophecy with the laying on of the hands of the presbytery, the congregation.
+
+> <sup>[17](/bible/isaiah/34#v17)</sup> And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.
 
 
 *[[2:33:42](https://www.youtube.com/watch?v=CHlrm-QsbBM&t=9222s)]* **In The News: A map showing Edom with Bozrah, modern-day Jordan.** — The Lord hath a sacrifice in Bozrah and a great slaughter in the land of Idumea; all the wars take place over there. It is the controversy of Zion, and Amalek gets mad when asked for a DNA check because the DNA of Abraham, Isaac, and Jacob is not on file.

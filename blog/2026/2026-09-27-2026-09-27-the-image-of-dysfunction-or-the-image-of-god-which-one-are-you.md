@@ -88,7 +88,35 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
 **[Daniel 7:9-28](/bible/daniel/7#v9)**  *[[17:07](https://www.youtube.com/watch?v=lTjnCZsWsng&t=1027s)]*
 
 > <sup>[9](/bible/daniel/7#v9)</sup> I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire.
->
+
+- I beheld till the thrones were cast down: every kingdom recorded in the chapter thrown down at Armageddon when Christ returns to destroy and set his people in rulership. The Ancient of Days did sit, in a garment white as snow, with hair like pure wool; he has a body, and it is not the Caucasian in your church.
+
+- The kingdom and dominion and the greatness of the kingdom under the whole heaven, the whole planet, shall be given to the people of the saints of the Most High. All the nations must bring the wealth back to Israel, including themselves; he will beautify the meek with salvation.
+
+- An everlasting kingdom, and all dominions shall serve and obey him; he goes out of Zion with a rod of iron and it will hurt. Hitherto is the end of the matter: God's whole plan is Israel ruling this planet indefinitely with every other dominion serving the Most High through her. Point blank, full stop.
+
+  Precepts:
+  - **[Daniel 2:44](/bible/daniel/2#v44)**
+    > <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
+
+    In the days of these kings shall the God of heaven set up a kingdom which shall never be destroyed, nor left to other people; it shall break in pieces and consume all these kingdoms and stand for ever. The Most High is building this kingdom right now in the age of their decadence, and everybody will be made to follow this Bible, bend to the will of God, or die.
+  - **[Hosea 1:10](/bible/hosea/1#v10)**
+    > <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
+
+    In the place where it was said unto them, ye are not my people, there it shall be said, ye are the sons of the living God. Where we were made dysfunctional and called coon and spear-chucker, everything except Israelites, the Lord will beautify the meek. The nations that put their hands on the apple of his eye will pay; he allows it and still makes them pay.
+  - **[Romans 9:17-21](/bible/romans/9#v17)**
+    > <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
+    >
+    > <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
+    >
+    > <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
+    >
+    > <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
+    >
+    > <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
+
+    For this same purpose have I raised thee up, that I might shew my power in thee. As with Pharaoh, so with Esau: God fattens him up with weapons, technology, and pride like a turkey before the holiday, hardens him so he cannot resist, and destroys him so his name is declared through all the earth. Who hath resisted his will? Pharaoh wanted to let Israel go and the Lord hardened his heart. Nay but, O man, who art thou that repliest against God? Esau was formed as the fitting vessel for God's destruction; one vessel is for wine and one for the bowels. You had better be glad you are the Israelites, because after slavery, Jim Crow, and lynchings, dying with the same man who did it is crazy.
+
 > <sup>[10](/bible/daniel/7#v10)</sup> A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
 >
 > <sup>[11](/bible/daniel/7#v11)</sup> I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame.
@@ -126,34 +154,6 @@ tags: ["IUIC in the ClassRoom", "media", "mental-health", "substance-abuse"]
 > <sup>[27](/bible/daniel/7#v27)</sup> And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
 >
 > <sup>[28](/bible/daniel/7#v28)</sup> Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
-
-- I beheld till the thrones were cast down: every kingdom recorded in the chapter thrown down at Armageddon when Christ returns to destroy and set his people in rulership. The Ancient of Days did sit, in a garment white as snow, with hair like pure wool; he has a body, and it is not the Caucasian in your church.
-
-- The kingdom and dominion and the greatness of the kingdom under the whole heaven, the whole planet, shall be given to the people of the saints of the Most High. All the nations must bring the wealth back to Israel, including themselves; he will beautify the meek with salvation.
-
-- An everlasting kingdom, and all dominions shall serve and obey him; he goes out of Zion with a rod of iron and it will hurt. Hitherto is the end of the matter: God's whole plan is Israel ruling this planet indefinitely with every other dominion serving the Most High through her. Point blank, full stop.
-
-  Precepts:
-  - **[Daniel 2:44](/bible/daniel/2#v44)**
-    > <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
-
-    In the days of these kings shall the God of heaven set up a kingdom which shall never be destroyed, nor left to other people; it shall break in pieces and consume all these kingdoms and stand for ever. The Most High is building this kingdom right now in the age of their decadence, and everybody will be made to follow this Bible, bend to the will of God, or die.
-  - **[Hosea 1:10](/bible/hosea/1#v10)**
-    > <sup>[10](/bible/hosea/1#v10)</sup> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
-
-    In the place where it was said unto them, ye are not my people, there it shall be said, ye are the sons of the living God. Where we were made dysfunctional and called coon and spear-chucker, everything except Israelites, the Lord will beautify the meek. The nations that put their hands on the apple of his eye will pay; he allows it and still makes them pay.
-  - **[Romans 9:17-21](/bible/romans/9#v17)**
-    > <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
-    >
-    > <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
-    >
-    > <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
-    >
-    > <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
-    >
-    > <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
-
-    For this same purpose have I raised thee up, that I might shew my power in thee. As with Pharaoh, so with Esau: God fattens him up with weapons, technology, and pride like a turkey before the holiday, hardens him so he cannot resist, and destroys him so his name is declared through all the earth. Who hath resisted his will? Pharaoh wanted to let Israel go and the Lord hardened his heart. Nay but, O man, who art thou that repliest against God? Esau was formed as the fitting vessel for God's destruction; one vessel is for wine and one for the bowels. You had better be glad you are the Israelites, because after slavery, Jim Crow, and lynchings, dying with the same man who did it is crazy.
 
 
 *[[19:30](https://www.youtube.com/watch?v=lTjnCZsWsng&t=1170s)]* **In The News: An image of the Ancient of Days with hair like pure wool.** — If God sat, had a garment, and had hair like wool, he has a body, and it is not the Caucasian painted in the churches. Black people. How you like me now?

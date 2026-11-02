@@ -46,8 +46,14 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 
 **[Ecclesiastes 1:4-9](/bible/ecclesiastes/1#v4)**  *[[9:44](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=584s)]*
 
+- The things of old are back today. The same spirits that were back then are back here today: the same morality for the righteous, and the same immorality for the immoral.
+
 > <sup>[4](/bible/ecclesiastes/1#v4)</sup> One generation passeth away, and another generation cometh: but the earth abideth for ever.
->
+
+- One generation passeth away, and another generation cometh: but the earth abideth for ever. King Solomon is making a comparison here; he's not only talking about the things of heaven that God created. This is also pertaining to men and the spirits of men.
+
+- The thing that hath been, it is that which shall be; and there is no new thing under the sun. The same hatred, envy, and strife that we see going on today is the same thing that was back then. A lot of us are baffled by the things we see on social media, but you shouldn't be. It should just let you know that this Bible is a real book and you are in the right place.
+
 > <sup>[5](/bible/ecclesiastes/1#v5)</sup> The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.
 >
 > <sup>[6](/bible/ecclesiastes/1#v6)</sup> The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.
@@ -57,10 +63,6 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 > <sup>[8](/bible/ecclesiastes/1#v8)</sup> All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
 >
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
-
-- The things of old are back today. The same spirits that were back then are back here today: the same morality for the righteous, and the same immorality for the immoral.
-- One generation passeth away, and another generation cometh: but the earth abideth for ever. King Solomon is making a comparison here; he's not only talking about the things of heaven that God created. This is also pertaining to men and the spirits of men.
-- The thing that hath been, it is that which shall be; and there is no new thing under the sun. The same hatred, envy, and strife that we see going on today is the same thing that was back then. A lot of us are baffled by the things we see on social media, but you shouldn't be. It should just let you know that this Bible is a real book and you are in the right place.
 
 **[Romans 15:4](/bible/romans/15#v4)**  *[[12:14](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=734s)]*
 
@@ -72,14 +74,17 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 
 **[Romans 8:13-14](/bible/romans/8#v13)**  *[[15:34](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=934s)]*
 
-> <sup>[13](/bible/romans/8#v13)</sup> For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.
->
-> <sup>[14](/bible/romans/8#v14)</sup> For as many as are led by the Spirit of God, they are the sons of God.
-
 - For if ye live after the flesh, ye shall die. What's some things pertaining to the flesh? Jealousy is a major one. Lust for money. Lust for power. You're going to see a lot of our forefathers battled that lust for power; some were able to overcome that demon and some succumbed to it. They were left as an example for us of what not to be.
+
+> <sup>[13](/bible/romans/8#v13)</sup> For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.
+
 - But if ye through the Spirit do mortify the deeds of the body, ye shall live: that's talking about eternal life. Anything contrary to God's laws is the lust of the flesh.
+
 - For as many as are led by the Spirit of God, they are the sons of God. Brothers, are you the sons of God? Absolutely, but we got to walk in the spirit and run from the flesh. A lot of these camps have not been walking in the spirit; they've been walking in the flesh and running from the spirit.
+
 - When our light, which is the keeping of the commandments and our good works, shines on their darkness, which is the walking in the flesh, envy and hatred come. That's the agony of defeat: coming to the realization that the Most High is going to put out your candle.
+
+> <sup>[14](/bible/romans/8#v14)</sup> For as many as are led by the Spirit of God, they are the sons of God.
 
 **[John 8:44](/bible/john/8#v44)**  *[[18:37](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1117s)]*
 
@@ -93,11 +98,13 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 **[John 11:47-48](/bible/john/11#v47)**  *[[21:47](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1307s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
->
-> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - Then gathered the chief priests and the Pharisees a council: that council is the Sanhedrin, the organization of counsellors of the Pharisees. What do we? for this man doeth many miracles. If we let him thus alone, all men will believe on him.
+
 - The same thing of yesterday is the same thing we see today: if we leave these brothers alone, surely they will heap righteous followers to themselves. So let's taint them, call them names, slander them, try to roll up on them at camp and antagonize them into a physical confrontation, so we can show the whole world they ain't righteous. Guess what? That's not going to happen, because God is in charge of this movement, not man.
+
+> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
+
 - And the Romans shall come and take away both our place and nation: that's what the Pharisees feared.
 
 **[Acts 15:5](/bible/acts/15#v5)**  *[[23:42](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1422s)]*
@@ -109,19 +116,21 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 **[John 3:1-2](/bible/john/3#v1)**  *[[25:10](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1510s)]*
 
 > <sup>[1](/bible/john/3#v1)</sup> There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
->
-> <sup>[2](/bible/john/3#v2)</sup> The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
 
 - There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: the same came to Jesus by night. Why by night? It was a secret; he was a secret follower. But he believed on Christ.
+
+> <sup>[2](/bible/john/3#v2)</sup> The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
 
 **[Luke 23:50-51](/bible/luke/23#v50)**  *[[25:54](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1554s)]*
 
 > <sup>[50](/bible/luke/23#v50)</sup> And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:
->
-> <sup>[51](/bible/luke/23#v51)</sup> (The same had not consented to the counsel and deed of them;) he was of Arimathea, a city of the Jews: who also himself waited for the kingdom of God.
 
 - Behold, there was a man named Joseph, a counsellor; and he was a good man, and a just: the same had not consented to the counsel and deed of them. Not every man is allowed into the council of the Pharisees, so this scripture lets you know Joseph of Arimathaea had close relations with the Pharisees, but he was a follower of Christ.
+
+> <sup>[51](/bible/luke/23#v51)</sup> (The same had not consented to the counsel and deed of them;) he was of Arimathea, a city of the Jews: who also himself waited for the kingdom of God.
+
 - Who also himself waited for the kingdom of God: he knew the kingdom of God was only going to come by the Messiah, Christ, and he accepted that. That's why he asked Pilate for the body of Christ.
+
 - These men had the fortitude to go against the grain, that evil movement of the Pharisees to destroy Christ and his followers, and say: what y'all doing is wrong; y'all persecuting these brothers wrongfully. And these are just the two that are mentioned; the Bible is written in an abbreviated form. We pray that same spirit falls on many of these Israelites out there who secretly see the evil in their own congregations and are biding their time until they also walk out those doors.
 
 **[Ecclesiasticus 10:2](/bible/sirach/10#v2)**  *[[28:09](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=1689s)]*
@@ -164,6 +173,12 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 
 **[John 3:26-30](/bible/john/3#v26)**  *[[39:30](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=2370s)]*
 
+- People like to say that John the Baptist was evil, started his own camp, and went against Christ, which is complete nonsense. Let's see what the Bible says. This is the righteous response when you understand that God is using someone or something greater for the same goal: raising up the elect of God so we can inherit the kingdom.
+
+- They came unto John and said, Rabbi, he that was with thee beyond Jordan, behold, the same baptizeth, and all men come to him. John answered, A man can receive nothing, except it be given him from heaven. Why is it hard for these other camps to accept that the great work that started from a mustard seed out of a man's living room in 2003 has grown to be this great tree with many branches, and it ain't done yet? Because of envy and hatred. But John the Baptist, the same man you said was not in the truth, accepted it.
+
+- Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him. He understood he was sent before him: the voice in the wilderness that Isaiah prophesied, making the path for something greater. We're all ambassadors of Christ, setting up the way for when he invades this earth. Every Israelite organization is supposed to have that same mindset, not fighting and slandering each other.
+
 > <sup>[26](/bible/john/3#v26)</sup> And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.
 >
 > <sup>[27](/bible/john/3#v27)</sup> John answered and said, A man can receive nothing, except it be given him from heaven.
@@ -171,14 +186,12 @@ This recording is the first portion of the class; the stream cuts off mid-teachi
 > <sup>[28](/bible/john/3#v28)</sup> Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
 >
 > <sup>[29](/bible/john/3#v29)</sup> He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.
->
-> <sup>[30](/bible/john/3#v30)</sup> He must increase, but I must decrease.
 
-- People like to say that John the Baptist was evil, started his own camp, and went against Christ, which is complete nonsense. Let's see what the Bible says. This is the righteous response when you understand that God is using someone or something greater for the same goal: raising up the elect of God so we can inherit the kingdom.
-- They came unto John and said, Rabbi, he that was with thee beyond Jordan, behold, the same baptizeth, and all men come to him. John answered, A man can receive nothing, except it be given him from heaven. Why is it hard for these other camps to accept that the great work that started from a mustard seed out of a man's living room in 2003 has grown to be this great tree with many branches, and it ain't done yet? Because of envy and hatred. But John the Baptist, the same man you said was not in the truth, accepted it.
-- Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him. He understood he was sent before him: the voice in the wilderness that Isaiah prophesied, making the path for something greater. We're all ambassadors of Christ, setting up the way for when he invades this earth. Every Israelite organization is supposed to have that same mindset, not fighting and slandering each other.
 - He that hath the bride is the bridegroom: but the friend of the bridegroom rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled. He came to fulfill his role, knowing something greater was coming to carry on.
+
 - He must increase, but I must decrease. The unrighteous response is the opposite: envy, fear of losing influence, accusation, slander, violence, murder, anger. That was the response of the Pharisees to Christ, completely contrary to the response of John the Baptist.
+
+> <sup>[30](/bible/john/3#v30)</sup> He must increase, but I must decrease.
 
 **[Genesis 4:3-8](/bible/genesis/4#v3)**  *[[44:05](https://www.youtube.com/watch?v=-7xODUkUKrQ&t=2645s)]*
 

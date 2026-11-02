@@ -39,19 +39,15 @@ tags: ["15 Minutes w/ The Captains", "the-word"]
 **[Lamentations 1:8-9](/bible/lamentations/1#v8)**  *[[12:46](https://www.youtube.com/watch?v=hMGczOqKWMs&t=766s)]*
 
 > <sup>[8](/bible/lamentations/1#v8)</sup> Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.
->
-> <sup>[9](/bible/lamentations/1#v9)</sup> Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O Lord, behold my affliction: for the enemy hath magnified himself.
 
 - Jerusalem hath grievously sinned; therefore she is removed: So Jerusalem has sinned grievously, and now they're reaping the repercussions of that sin.
+
+> <sup>[9](/bible/lamentations/1#v9)</sup> Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O Lord, behold my affliction: for the enemy hath magnified himself.
 
 
 **[Lamentations 1:18-20](/bible/lamentations/1#v18)**  *[[13:16](https://www.youtube.com/watch?v=hMGczOqKWMs&t=796s)]*
 
 > <sup>[18](/bible/lamentations/1#v18)</sup> The Lord is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.
->
-> <sup>[19](/bible/lamentations/1#v19)</sup> I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
->
-> <sup>[20](/bible/lamentations/1#v20)</sup> Behold, O Lord; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.
 
 - The LORD is righteous: The Lord is righteous in doing that, quote unquote, evil to us. Cuz it's not evil. It was righteous judgment against us sinning against him.
 
@@ -59,11 +55,15 @@ tags: ["15 Minutes w/ The Captains", "the-word"]
 
 - My virgins and my young men are gone into captivity: So everybody went into captivity. The old and the young, the men and the women. Because sometimes our sisters think that they are absolved because they're, you know, I'm just a girl, I don't know no better. No, no, no, no, no, no. If you was in the midst of that sin and you was rebelling too, you got snatched up.
 
+> <sup>[19](/bible/lamentations/1#v19)</sup> I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
+
 - I called for my lovers, but they deceived me: They went after the other nations who they would call allies. Like sometimes we try to align ourselves politically with the white man. It says, "But they deceived them."
 
 - My priests and mine elders gave up the ghost in the city: There's no leaders, spiritually or otherwise. They gave up the ghost. They are not the source of strength.
 
 - While they sought their meat to relieve their souls: Why? Because in the famine they were looking for food just like everybody else. People look to them for leadership. They're like, I'm looking for the steaks. Looking for a hot dog, something.
+
+> <sup>[20](/bible/lamentations/1#v20)</sup> Behold, O Lord; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.
 
 - For I have grievously rebelled: Not just rebelled. Grievously rebelled. That's malicious disobedience against the word of God.
 
@@ -73,14 +73,14 @@ tags: ["15 Minutes w/ The Captains", "the-word"]
 **[Nehemiah 9:26-27](/bible/nehemiah/9#v26)**  *[[15:17](https://www.youtube.com/watch?v=hMGczOqKWMs&t=917s)]*
 
 > <sup>[26](/bible/nehemiah/9#v26)</sup> Nevertheless they were disobedient, and rebelled against thee, and cast thy law behind their backs, and slew thy prophets which testified against them to turn them to thee, and they wrought great provocations.
->
-> <sup>[27](/bible/nehemiah/9#v27)</sup> Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest them from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.
 
 - Nevertheless they were disobedient, and rebelled against thee, and cast thy law behind their backs: So rebelling against God is casting his law behind your back. I know a whole demographic of religious institutions that have done the very same thing by saying God's laws are done away with. That's rebellion. If there's no law, that's chaos. That's anarchy, and that's confusion. God is against that.
 
 - And slew thy prophets: Ezekiel is aware of how Israel do. That's why he said they have grievously rebelled. They don't just ignore the prophets. They don't just ignore the laws of God. No, they slew the prophets. And this is what Ezekiel is being signed up for to do.
 
 - Which testified against them to turn them to thee: And they slew thy prophets which testified against them, which showed them to their face what they were doing wrong. They rebelled against that. They did not want to hear that. They did not want to change.
+
+> <sup>[27](/bible/nehemiah/9#v27)</sup> Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest them from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.
 
 - Therefore thou deliveredst them into the hand of their enemies, who vexed them: That's why Ezekiel is reporting live from Babylon. That's why the visions are being shown to him along the river Chebar in Babylon. Why? Because they were delivered into the hand of their enemies who vexed them.
 
@@ -90,16 +90,16 @@ tags: ["15 Minutes w/ The Captains", "the-word"]
 **[Daniel 9:9-12](/bible/daniel/9#v9)**  *[[17:58](https://www.youtube.com/watch?v=hMGczOqKWMs&t=1078s)]*
 
 > <sup>[9](/bible/daniel/9#v9)</sup> To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;
->
-> <sup>[10](/bible/daniel/9#v10)</sup> Neither have we obeyed the voice of the Lord our God, to walk in his laws, which he set before us by his servants the prophets.
->
-> <sup>[11](/bible/daniel/9#v11)</sup> Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
->
-> <sup>[12](/bible/daniel/9#v12)</sup> And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.
 
 - Though we have rebelled against him: What do we do? We have rebelled against him. We can go all throughout the scriptures. That word is going to be key. Rebelled. It's going to be repetitive. Rebel. But it needs to be paired with the commandments of God. That's what we rebelled against. It's not a word that just lives in a vacuum. No, God's laws are eternal. They are perfect, and we rebelled against those laws. The prophets were sent to remind Israel of those laws. Israel did not want to keep those laws. Thus, they went into slavery. That is the past, present, not future, but at that time the future of the children of Israel. That's where we are today. Does that make sense to a Christian? Does that make sense to a Catholic, a Baptist? It's very simple. It's very easy to understand.
 
+> <sup>[10](/bible/daniel/9#v10)</sup> Neither have we obeyed the voice of the Lord our God, to walk in his laws, which he set before us by his servants the prophets.
+>
+> <sup>[11](/bible/daniel/9#v11)</sup> Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
+
 - Yea, all Israel have transgressed thy law: All Israel transgressed God's laws.
+
+> <sup>[12](/bible/daniel/9#v12)</sup> And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.
 
 - For under the whole heaven hath not been done as hath been done upon Jerusalem: There's nobody that can say that they have suffered the atrocities that we have suffered as the nation of Israel. No other nation can say it, because there's the argument of, oh, all nations had some form of slavery and had some massacres and had some genocides. But the Bible said what it said: under the whole heaven. Nobody has experienced what Jerusalem, the children of Israel, the black, Hispanic, Native Americans in the diaspora spread abroad has experienced.
 
@@ -128,18 +128,16 @@ tags: ["15 Minutes w/ The Captains", "the-word"]
 **[Isaiah 6:5-9](/bible/isaiah/6#v5)**  *[[22:23](https://www.youtube.com/watch?v=hMGczOqKWMs&t=1343s)]*
 
 > <sup>[5](/bible/isaiah/6#v5)</sup> Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the Lord of hosts.
->
-> <sup>[6](/bible/isaiah/6#v6)</sup> Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:
->
-> <sup>[7](/bible/isaiah/6#v7)</sup> And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
->
-> <sup>[8](/bible/isaiah/6#v8)</sup> Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.
->
-> <sup>[9](/bible/isaiah/6#v9)</sup> And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.
 
 - Woe is me! for I am undone; because I am a man of unclean lips: So Isaiah saw a vision of the Lord, and he's like, I'm unclean. I'm not worthy to be able to see this. Right.
 
+> <sup>[6](/bible/isaiah/6#v6)</sup> Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:
+>
+> <sup>[7](/bible/isaiah/6#v7)</sup> And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
+
 - Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged: So he was cleansed. He was forgiven, right? He was equipped for the mission ahead. What was that mission?
+
+> <sup>[8](/bible/isaiah/6#v8)</sup> Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.
 
 - Whom shall I send, and who will go for us: This is a conversation in the heavens.
 
@@ -151,14 +149,16 @@ tags: ["15 Minutes w/ The Captains", "the-word"]
 
     That is the same calling that Ezekiel had. So before he was formed in the belly, before he was formed in the womb, as a spirit he was ordained to be a prophet. It take a special spirit to go do what the prophets do. Every man can't hazard his life for the gospel. Every man's not built like that. They not equipped to go to strange lands, strange languages, strange foods, having strange reactions. Every man ain't designed like that.
 
+> <sup>[9](/bible/isaiah/6#v9)</sup> And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.
+
 
 **[2 Esdras 9:18-19](/bible/2-esdras/9#v18)**  *[[25:12](https://www.youtube.com/watch?v=hMGczOqKWMs&t=1512s)]*
 
 > <sup>[18](/bible/2-esdras/9#v18)</sup> And now when I prepared the world, which was not yet made, even for them to dwell in that now live, no man spake against me.
->
-> <sup>[19](/bible/2-esdras/9#v19)</sup> For then every one obeyed: but now the manners of them which are created in this world that is made are corrupted by a perpetual seed, and by a law which is unsearchable rid themselves.
 
 - No man spake against me: No man spake against God. Meaning what? They were obedient. They were not rebellious. So don't come down here, Ezekiel, and be rebellious like the rebellious nation that you have to reprove.
+
+> <sup>[19](/bible/2-esdras/9#v19)</sup> For then every one obeyed: but now the manners of them which are created in this world that is made are corrupted by a perpetual seed, and by a law which is unsearchable rid themselves.
 
 - But now the manners of them which are created in this world that is made are corrupted by a perpetual seed: So when they come into the flesh, they forget, and that sinful nature begins to take over, and you don't remember that you were called in the heavens, that you agreed to come down here and do the mission. That's why those that walk away, that give up their rank, give up the fight, battle fatigue their way back into the world, you're going to have a face of judgment for that. Cuz you didn't disobey when you was in the heavens, but you got down here and you turned your back.
 
@@ -166,10 +166,10 @@ tags: ["15 Minutes w/ The Captains", "the-word"]
 **[Ezekiel 2:9-10](/bible/ezekiel/2#v9)**  *[[26:53](https://www.youtube.com/watch?v=hMGczOqKWMs&t=1613s)]*
 
 > <sup>[9](/bible/ezekiel/2#v9)</sup> And when I looked, behold, an hand was sent unto me; and, lo, a roll of a book was therein;
->
-> <sup>[10](/bible/ezekiel/2#v10)</sup> And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.
 
 - Behold, an hand was sent unto me; and, lo, a roll of a book was therein: So he looked and saw, and a hand was sent unto him, and lo, a roll of a book was therein. So think an old scroll, parchment, right?
+
+> <sup>[10](/bible/ezekiel/2#v10)</sup> And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.
 
 - And he spread it before me: So he's opened up the roll. So he's able to see all the words within it.
 
@@ -192,14 +192,14 @@ Reading from Definition of lamentation, read on screen  *[[28:51](https://www.yo
 **[Ezekiel 19:1-4](/bible/ezekiel/19#v1)**  *[[30:00](https://www.youtube.com/watch?v=hMGczOqKWMs&t=1800s)]*
 
 > <sup>[1](/bible/ezekiel/19#v1)</sup> Moreover take thou up a lamentation for the princes of Israel,
->
+
+- Moreover take thou up a lamentation for the princes of Israel: So this is one of the lamentations.
+
 > <sup>[2](/bible/ezekiel/19#v2)</sup> And say, What is thy mother? A lioness: she lay down among lions, she nourished her whelps among young lions.
 >
 > <sup>[3](/bible/ezekiel/19#v3)</sup> And she brought up one of her whelps: it became a young lion, and it learned to catch the prey; it devoured men.
 >
 > <sup>[4](/bible/ezekiel/19#v4)</sup> The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt.
-
-- Moreover take thou up a lamentation for the princes of Israel: So this is one of the lamentations.
 
 - And they brought him with chains unto the land of Egypt: So that first lion is Jehoahaz, right? So Jerusalem brought up a king, a young lion, but we're lamenting for him. Let's see why.
 
@@ -207,12 +207,6 @@ Reading from Definition of lamentation, read on screen  *[[28:51](https://www.yo
 **[2 Kings 23:31-34](/bible/2-kings/23#v31)**  *[[30:55](https://www.youtube.com/watch?v=hMGczOqKWMs&t=1855s)]*
 
 > <sup>[31](/bible/2-kings/23#v31)</sup> Jehoahaz was twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother’s name was Hamutal, the daughter of Jeremiah of Libnah.
->
-> <sup>[32](/bible/2-kings/23#v32)</sup> And he did that which was evil in the sight of the Lord, according to all that his fathers had done.
->
-> <sup>[33](/bible/2-kings/23#v33)</sup> And Pharaoh–nechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.
->
-> <sup>[34](/bible/2-kings/23#v34)</sup> And Pharaoh–nechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
 
 - He reigned three months in Jerusalem: He only had three months of rulership.
 
@@ -220,15 +214,25 @@ Reading from Definition of lamentation, read on screen  *[[28:51](https://www.yo
 
 - And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father: A puppet king.
 
+> <sup>[32](/bible/2-kings/23#v32)</sup> And he did that which was evil in the sight of the Lord, according to all that his fathers had done.
+>
+> <sup>[33](/bible/2-kings/23#v33)</sup> And Pharaoh–nechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.
+>
+> <sup>[34](/bible/2-kings/23#v34)</sup> And Pharaoh–nechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
+
 - And took Jehoahaz away: and he came to Egypt, and died there: So that's the first lion whelp.
 
 
 **[Ezekiel 19:4-9](/bible/ezekiel/19#v4)**  *[[31:58](https://www.youtube.com/watch?v=hMGczOqKWMs&t=1918s)]*
 
 > <sup>[4](/bible/ezekiel/19#v4)</sup> The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt.
->
+
+- The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt: So we just read that about Jehoahaz. He did evil in the sight of the Lord. He was a young king. He only reigned three months, but the Lord snatched him up out of there via Egypt. He went into chains, slavery in Egypt, and died there.
+
 > <sup>[5](/bible/ezekiel/19#v5)</sup> Now when she saw that she had waited, and her hope was lost, then she took another of her whelps, and made him a young lion.
->
+
+- Then she took another of her whelps, and made him a young lion: So this is another king.
+
 > <sup>[6](/bible/ezekiel/19#v6)</sup> And he went up and down among the lions, he became a young lion, and learned to catch the prey, and devoured men.
 >
 > <sup>[7](/bible/ezekiel/19#v7)</sup> And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and the fulness thereof, by the noise of his roaring.
@@ -236,10 +240,6 @@ Reading from Definition of lamentation, read on screen  *[[28:51](https://www.yo
 > <sup>[8](/bible/ezekiel/19#v8)</sup> Then the nations set against him on every side from the provinces, and spread their net over him: he was taken in their pit.
 >
 > <sup>[9](/bible/ezekiel/19#v9)</sup> And they put him in ward in chains, and brought him to the king of Babylon: they brought him into holds, that his voice should no more be heard upon the mountains of Israel.
-
-- The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt: So we just read that about Jehoahaz. He did evil in the sight of the Lord. He was a young king. He only reigned three months, but the Lord snatched him up out of there via Egypt. He went into chains, slavery in Egypt, and died there.
-
-- Then she took another of her whelps, and made him a young lion: So this is another king.
 
 - And brought him to the king of Babylon: So now Babylon did the same thing to this king that Egypt did to the other cub, the other young lion.
 
@@ -249,14 +249,14 @@ Reading from Definition of lamentation, read on screen  *[[28:51](https://www.yo
 **[2 Kings 24:8-10](/bible/2-kings/24#v8)**  *[[33:36](https://www.youtube.com/watch?v=hMGczOqKWMs&t=2016s)]*
 
 > <sup>[8](/bible/2-kings/24#v8)</sup> Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother’s name was Nehushta, the daughter of Elnathan of Jerusalem.
->
-> <sup>[9](/bible/2-kings/24#v9)</sup> And he did that which was evil in the sight of the Lord, according to all that his father had done.
->
-> <sup>[10](/bible/2-kings/24#v10)</sup> At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.
 
 - Jehoiachin was eighteen years old when he began to reign: Young lion, young whelp.
 
 - And he reigned in Jerusalem three months: So he only reigned three months as well.
+
+> <sup>[9](/bible/2-kings/24#v9)</sup> And he did that which was evil in the sight of the Lord, according to all that his father had done.
+>
+> <sup>[10](/bible/2-kings/24#v10)</sup> At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.
 
 - And the city was besieged: Cuz remember, it said all the provinces surrounded him on every side. That is a siege. No food can come in, no water can go out. You are locked down and you are stuck in a famine against war.
 
@@ -294,10 +294,10 @@ Reading from Definition of lamentation, read on screen  *[[28:51](https://www.yo
 **[Ezekiel 7:15-16](/bible/ezekiel/7#v15)**  *[[37:08](https://www.youtube.com/watch?v=hMGczOqKWMs&t=2228s)]*
 
 > <sup>[15](/bible/ezekiel/7#v15)</sup> The sword is without, and the pestilence and the famine within: he that is in the field shall die with the sword; and he that is in the city, famine and pestilence shall devour him.
->
-> <sup>[16](/bible/ezekiel/7#v16)</sup> But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity.
 
 - The sword is without, and the pestilence and the famine within: The sword is without, and there's disease and famine within.
+
+> <sup>[16](/bible/ezekiel/7#v16)</sup> But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity.
 
 - But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity: When you see the destruction, the desolation, the bloodshed, the children starving, the old men starving, your goodly things taken out of your temple, the things you had pride in. Now you escape and you're on the mountains. You're tired. You're hungry. You've watched your family get murdered. And now what's left for you to do but mourn. And the scripture said why: for your iniquity. All of the times you were warned by the prophets to keep God's commandments, and you didn't do it. And now look at what the Lord has done. Now you're mourning on the mountaintops.
 
@@ -307,34 +307,34 @@ Reading from Definition of lamentation, read on screen  *[[28:51](https://www.yo
 > <sup>[15](/bible/ezekiel/24#v15)</sup> Also the word of the Lord came unto me, saying,
 >
 > <sup>[16](/bible/ezekiel/24#v16)</sup> Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down.
->
+
+- Behold, I take away from thee the desire of thine eyes with a stroke: So this is what he's reading at the beginning of the mission. Then he's told, don't you rebel like they did and not tell exactly thus saith the Lord. So he got a word about mournings. And it just so happened to hit close to home. It says you're going to lose the desire of thine eyes with a stroke, but you are not to mourn. Everything Ezekiel did was a symbol or a representation of what was going to happen to Israel on a larger scale.
+
 > <sup>[17](/bible/ezekiel/24#v17)</sup> Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men.
 >
 > <sup>[18](/bible/ezekiel/24#v18)</sup> So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
->
-> <sup>[19](/bible/ezekiel/24#v19)</sup> And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?
->
-> <sup>[20](/bible/ezekiel/24#v20)</sup> Then I answered them, The word of the Lord came unto me, saying,
->
-> <sup>[21](/bible/ezekiel/24#v21)</sup> Speak unto the house of Israel, Thus saith the Lord God; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.
->
-> <sup>[22](/bible/ezekiel/24#v22)</sup> And ye shall do as I have done: ye shall not cover your lips, nor eat the bread of men.
->
-> <sup>[23](/bible/ezekiel/24#v23)</sup> And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
-
-- Behold, I take away from thee the desire of thine eyes with a stroke: So this is what he's reading at the beginning of the mission. Then he's told, don't you rebel like they did and not tell exactly thus saith the Lord. So he got a word about mournings. And it just so happened to hit close to home. It says you're going to lose the desire of thine eyes with a stroke, but you are not to mourn. Everything Ezekiel did was a symbol or a representation of what was going to happen to Israel on a larger scale.
 
 - So I spake unto the people in the morning: He went and prophesied.
 
 - And at even my wife died: So the desire of his eyes was his wife, and she died.
 
+> <sup>[19](/bible/ezekiel/24#v19)</sup> And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?
+
 - Wilt thou not tell us what these things are to us, that thou doest so: The people are like, "What is happening with you? You was prophesying, your wife died, and you're not mourning. You haven't stopped telling us of the judgments to come. Why? What's going on? We've never seen anything like this before."
 
+> <sup>[20](/bible/ezekiel/24#v20)</sup> Then I answered them, The word of the Lord came unto me, saying,
+>
+> <sup>[21](/bible/ezekiel/24#v21)</sup> Speak unto the house of Israel, Thus saith the Lord God; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.
+
 - Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes: So the temple, the thing that was the desire of your eyes, that Ezekiel's wife represented, the Lord said, "I'm going to do away with that. Y'all going to lose that. And the children whom you love."
+
+> <sup>[22](/bible/ezekiel/24#v22)</sup> And ye shall do as I have done: ye shall not cover your lips, nor eat the bread of men.
 
 - And ye shall do as I have done: Do you remember how I didn't mourn? Same thing's going to happen with y'all. Let's see why.
 
 - Ye shall not cover your lips, nor eat the bread of men: Because you have time to do that. They're not going to have time to mourn properly, have a funeral, eat the bread. They're not going to have time to do all of that.
+
+> <sup>[23](/bible/ezekiel/24#v23)</sup> And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
 
 - And your tires shall be upon your heads, and your shoes upon your feet: Why? Because you're going to be escaping. You're going to be leaving. You're going to be running.
 
@@ -368,16 +368,16 @@ Reading from Definition of lamentation, read on screen  *[[28:51](https://www.yo
 **[Ezekiel 13:17-19](/bible/ezekiel/13#v17)**  *[[44:18](https://www.youtube.com/watch?v=hMGczOqKWMs&t=2658s)]*
 
 > <sup>[17](/bible/ezekiel/13#v17)</sup> Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,
->
-> <sup>[18](/bible/ezekiel/13#v18)</sup> And say, Thus saith the Lord God; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?
->
-> <sup>[19](/bible/ezekiel/13#v19)</sup> And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?
 
 - Set thy face against the daughters of thy people, which prophesy out of their own heart: And prophesy thou against them, and say what?
+
+> <sup>[18](/bible/ezekiel/13#v18)</sup> And say, Thus saith the Lord God; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?
 
 - Woe to the women that sew pillows to all armholes: Woe to them women pastors. Woe to them women that make them glorious garments to make them look like they are holier than thou. Sewing pillows to the armholes and make kerchiefs upon her. Feigning righteousness, like them nuns and whatnot, prophesying out of their own heart.
 
 - And make kerchiefs upon the head of every stature to hunt souls: The Lord said, "Destruction unto these women," cuz what do they do?
+
+> <sup>[19](/bible/ezekiel/13#v19)</sup> And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?
 
 - And will ye pollute me among my people for handfuls of barley: For money, for food. They pollute. Didn't that same woman that sewed pillows to their armholes and kerchiefs, didn't she just pull a little scammy scam saying you gotta pay $1,000, like she need 20 people to do something like that? It says that they pollute me among my people for handfuls of barley. You tell them that the laws are done away with, but that's the same rebellion that got us into slavery in the first place. You say God's laws are done away with. You say that the woman can usurp authority over the man. You say that we still got to do tithes and offering. You say that it's my body, my choice. Y'all letting all types of evil politicians, every political cycle, they always find their way into the black church, and y'all tap dancing and shucking and jiving. You pollute God's name for barley and money.
 
@@ -488,14 +488,14 @@ Reading from On-screen article: the $1,066 restoration seed  *[[48:35](https://w
 **[Revelation 10:9-11](/bible/revelation/10#v9)**  *[[57:01](https://www.youtube.com/watch?v=hMGczOqKWMs&t=3421s)]*
 
 > <sup>[9](/bible/revelation/10#v9)</sup> And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.
->
-> <sup>[10](/bible/revelation/10#v10)</sup> And I took the little book out of the angel’s hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
->
-> <sup>[11](/bible/revelation/10#v11)</sup> And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.
 
 - It shall make thy belly bitter, but it shall be in thy mouth sweet as honey: So when you get the understanding, when you get that knowledge, even though it's sweet in your mouth, it's bitter to the belly, because mourns, lamentations, and woe. It's not easy to bear. It's going to be hard to hear for some people.
 
+> <sup>[10](/bible/revelation/10#v10)</sup> And I took the little book out of the angel’s hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
+
 - As soon as I had eaten it, my belly was bitter: That's slavery, oppression, change of status from royal to impoverished and destitute. And at the bottom, that's the life of a prophet. You get all of this understanding and knowledge, but now you also understand why we are in these conditions. And now you realize you got to go against a people that don't want to change, that don't want the knowledge, that don't want to grow.
+
+> <sup>[11](/bible/revelation/10#v11)</sup> And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.
 
 - Thou must prophesy again before many peoples, and nations, and tongues, and kings: And that's part of the bitterness, because they're rebellious nations. The nations hate us. We have a rebellious nation. The nations hate us and they want to kill us. Did Ezekiel feel the same way?
 
@@ -548,12 +548,12 @@ Reading from On-screen article: the $1,066 restoration seed  *[[48:35](https://w
 > <sup>[1](/bible/romans/3#v1)</sup> What advantage then hath the Jew? or what profit is there of circumcision?
 >
 > <sup>[2](/bible/romans/3#v2)</sup> Much every way: chiefly, because that unto them were committed the oracles of God.
->
+
+- Unto them were committed the oracles of God: This Bible is the oracles of God. I would like to speak anything that's called an oracle. I don't want to speak my own words.
+
 > <sup>[3](/bible/romans/3#v3)</sup> For what if some did not believe? shall their unbelief make the faith of God without effect?
 >
 > <sup>[4](/bible/romans/3#v4)</sup> God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
-
-- Unto them were committed the oracles of God: This Bible is the oracles of God. I would like to speak anything that's called an oracle. I don't want to speak my own words.
 
 - Let God be true, but every man a liar; as it is written: That is the key. As it is written, thus saith the Lord. When Ezekiel looked at the mourns, the lamentations, the woe, as it is written, that's exactly how he had to say it, because that is the fire that will cause our brothers and sisters to repent. I'm not clever enough. I'm not smart enough. I'm not witty enough. Okay? It got to be what thus saith the Lord.
 
@@ -565,10 +565,10 @@ Reading from On-screen article: the $1,066 restoration seed  *[[48:35](https://w
 > <sup>[5](/bible/ezekiel/3#v5)</sup> For thou art not sent to a people of a strange speech and of an hard language, but to the house of Israel;
 >
 > <sup>[6](/bible/ezekiel/3#v6)</sup> Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee.
->
-> <sup>[7](/bible/ezekiel/3#v7)</sup> But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted.
 
 - Surely, had I sent thee to them, they would have hearkened unto thee: Damn, that's a cut. He's saying if I would have sent the prophets, in the way that I sent them in times past, to the other nations, oh, they would have repented. They would have listened. But … no, no, no, no, no. You got to show signs and wonders. You got to be rich. You got to be famous. You got to be everything in a bag of chips.
+
+> <sup>[7](/bible/ezekiel/3#v7)</sup> But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted.
 
 - But the house of Israel will not hearken unto thee; for they will not hearken unto me: He said they're not going to listen to you, cuz they don't listen to me. Ezekiel like, what? Damn, what we doing here, Lord? But that's why he said don't rebel. You are going to the worst. The worst. They're your people, but they hardheaded.
 
@@ -593,7 +593,9 @@ Reading from On-screen article: the $1,066 restoration seed  *[[48:35](https://w
 **[Matthew 11:20-24](/bible/matthew/11#v20)**  *[[1:10:38](https://www.youtube.com/watch?v=hMGczOqKWMs&t=4238s)]*
 
 > <sup>[20](/bible/matthew/11#v20)</sup> Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:
->
+
+- Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not: Don't think Christ was soft. Christ was the ultimate prophet. Don't think he was weak. Let's look up, I know you was going to Google, I already know you was on it. It said he began to upbraid the cities. Let's see what that's talking about. A city, not a guy. The cities, more than one.
+
 > <sup>[21](/bible/matthew/11#v21)</sup> Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
 >
 > <sup>[22](/bible/matthew/11#v22)</sup> But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.
@@ -601,8 +603,6 @@ Reading from On-screen article: the $1,066 restoration seed  *[[48:35](https://w
 > <sup>[23](/bible/matthew/11#v23)</sup> And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.
 >
 > <sup>[24](/bible/matthew/11#v24)</sup> But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.
-
-- Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not: Don't think Christ was soft. Christ was the ultimate prophet. Don't think he was weak. Let's look up, I know you was going to Google, I already know you was on it. It said he began to upbraid the cities. Let's see what that's talking about. A city, not a guy. The cities, more than one.
 
 
 <div class="reading">
@@ -621,12 +621,6 @@ Reading from Definition of upbraid, read on screen  *[[1:11:48](https://www.yout
 > <sup>[20](/bible/matthew/11#v20)</sup> Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:
 >
 > <sup>[21](/bible/matthew/11#v21)</sup> Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
->
-> <sup>[22](/bible/matthew/11#v22)</sup> But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.
->
-> <sup>[23](/bible/matthew/11#v23)</sup> And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.
->
-> <sup>[24](/bible/matthew/11#v24)</sup> But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.
 
 - Woe unto thee, Chorazin! woe unto thee, Bethsaida: And he's declaring woe too.
 
@@ -634,13 +628,19 @@ Reading from Definition of upbraid, read on screen  *[[1:11:48](https://www.yout
 
 - They would have repented long ago in sackcloth and ashes: That's the same thing he just told Ezekiel. The other nations, if you would have taught the other nations, they would have repented. They'd have did it a long time ago. Why? Because they got sense. We are an entitled, ungrateful nation. And we like that today. This still applies and holds true today, to this day.
 
+> <sup>[22](/bible/matthew/11#v22)</sup> But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.
+
 - It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you: Why? Because they going into the kingdom as slaves. Your ass not getting in the kingdom, cuz you did not repent.
+
+> <sup>[23](/bible/matthew/11#v23)</sup> And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.
 
 - And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: You got all this pride on you. That's the rich folks. We can't talk to them, we don't got enough money. Y'all going to be brought down to hell.
 
 - For if the mighty works, which have been done in thee, had been done in Sodom: Homo ass Sodom. What did they do? Rape two angels. Sodom. Damn. If Christ was walking around and he'd have healed somebody in Sodom, raised some dead in Sodom, what would have happened?
 
 - It would have remained until this day: There would have been no fire coming from the Lord and, boom, knocking all them cities off, them five cities. They still be around to this day.
+
+> <sup>[24](/bible/matthew/11#v24)</sup> But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.
 
 - It shall be more tolerable for the land of Sodom in the day of judgment, than for thee: That means that the fire that came down and wiped them out, that was rainbows and a light shower mist of rain compared to the thermonuclear spiritual fire that's fixing to hit Babylon the Great.
 
@@ -674,8 +674,6 @@ Reading from Definition of upbraid, read on screen  *[[1:11:48](https://www.yout
 **[Jeremiah 1:18-19](/bible/jeremiah/1#v18)**  *[[1:18:10](https://www.youtube.com/watch?v=hMGczOqKWMs&t=4690s)]*
 
 > <sup>[18](/bible/jeremiah/1#v18)</sup> For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.
->
-> <sup>[19](/bible/jeremiah/1#v19)</sup> And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee.
 
 - For, behold, I have made thee this day a defenced city: We are like a defenced city when we go to these brothers and these sisters. Meaning they can't just run over us and do what they please. We're not welcome mats.
 
@@ -684,6 +682,8 @@ Reading from Definition of upbraid, read on screen  *[[1:11:48](https://www.yout
 - And brasen walls against the whole land: Against who? Against the whole land. They can try as much as they want to, they not moving nothing.
 
 - Against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land: From the top to the bottom. It don't matter who. Thus saith the Lord.
+
+> <sup>[19](/bible/jeremiah/1#v19)</sup> And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee.
 
 - And they shall fight against thee: This is the conditions of the battle. They are going to fight against us. Not an if, not a maybe. They are going to fight against us.
 

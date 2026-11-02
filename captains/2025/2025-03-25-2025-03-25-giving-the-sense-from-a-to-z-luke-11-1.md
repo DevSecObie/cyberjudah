@@ -47,8 +47,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[1 Kings 8:47-48](/bible/1-kings/8#v47)**  *[[24:32](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=1472s)]*
 
 > <sup>[47](/bible/1-kings/8#v47)</sup> Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
->
-> <sup>[48](/bible/1-kings/8#v48)</sup> And so return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:
 
 - Yet if they shall bethink themselves in the land whither they were carried captives: Now I know what you thinking. John the Baptist taught in Israel, right? A lot of our people, we had been through the Syrian captivity, Babylonian captivity, and the Persian and Mede captivity, and the Greek captivity, and we were under subjection to the Romans. However, our people was in the land. We was under Roman subjection, but nevertheless our people was in the land. But the thing is, like Christ said, ye shall not the truth and the truth shall make you free. Our people were not free. We had to render under Caesar what was Caesar. So there we were in Roman captivity. Understand that.
 
@@ -56,20 +54,22 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 
 - And repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness; and so return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land: And make what? And repent. And pray unto thee. Toward their land. So again, right, in this context, dealing with John the Baptist, the people that he was instructing, they weren't per se carried captive out of the land, you understand? Nevertheless, what was his ministry? The teaching of repentance. And to bring, well, I'm kind of jumping the gun, but he had to teach repentance. Along with that repentance came the bethinking of ourselves, and we had to be retaught how to properly pray. So John the Baptist played a pivotal role in the fulfillment of these things that we're reading in the Old Testament.
 
+> <sup>[48](/bible/1-kings/8#v48)</sup> And so return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:
+
 
 **[Luke 3:2-5](/bible/luke/3#v2)**  *[[27:14](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=1634s)]*
 
 > <sup>[2](/bible/luke/3#v2)</sup> Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness.
->
-> <sup>[3](/bible/luke/3#v3)</sup> And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;
->
-> <sup>[4](/bible/luke/3#v4)</sup> As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
->
-> <sup>[5](/bible/luke/3#v5)</sup> Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;
 
 - The word of God came unto John the son of Zacharias in the wilderness: So it says the word of God came unto John in the wilderness.
 
+> <sup>[3](/bible/luke/3#v3)</sup> And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;
+
 - Preaching the baptism of repentance: What? Preaching the baptism of repentance. So he wasn't just standing in a lake and, come on, all right, you next. He was preaching the baptism of repentance. He was causing our people to bethink themselves and repent.
+
+> <sup>[4](/bible/luke/3#v4)</sup> As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
+>
+> <sup>[5](/bible/luke/3#v5)</sup> Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;
 
 - Every valley shall be filled, and every mountain and hill shall be brought low: And that goes into something we're going to go into in a second. All right, but John the Baptist had to come on the scene and preach this.
 
@@ -77,20 +77,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[Luke 3:10-15](/bible/luke/3#v10)**  *[[29:15](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=1755s)]*
 
 > <sup>[10](/bible/luke/3#v10)</sup> And the people asked him, saying, What shall we do then?
->
+
+- And the people asked him, saying, What shall we do then: Right. So people wasn't just coming to John, getting dipped in the water, coming up out of the water, and was like, it's a done deal, I'm saved, I'm baptized, we're good to go. No. After he dipped them in the water, they: what shall we do then? What's next? What are the next steps? Cause now I know I have to change my life.
+
 > <sup>[11](/bible/luke/3#v11)</sup> He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.
 >
 > <sup>[12](/bible/luke/3#v12)</sup> Then came also publicans to be baptized, and said unto him, Master, what shall we do?
 >
 > <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
->
+
+- Exact no more than that which is appointed you: Right. So these are things that are written in the law of Moses that our people were disconnected from. They had not been applying these things for years. The Lord sent John to teach these things, to instruct these things, to bring these things back to our remembrance.
+
 > <sup>[14](/bible/luke/3#v14)</sup> And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
 >
 > <sup>[15](/bible/luke/3#v15)</sup> And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;
-
-- And the people asked him, saying, What shall we do then: Right. So people wasn't just coming to John, getting dipped in the water, coming up out of the water, and was like, it's a done deal, I'm saved, I'm baptized, we're good to go. No. After he dipped them in the water, they: what shall we do then? What's next? What are the next steps? Cause now I know I have to change my life.
-
-- Exact no more than that which is appointed you: Right. So these are things that are written in the law of Moses that our people were disconnected from. They had not been applying these things for years. The Lord sent John to teach these things, to instruct these things, to bring these things back to our remembrance.
 
 - And as the people were in expectation: Right, meaning they were in suspense, because they had been so long without, see, mind you, the Pharisees was around, the Sadducees was around, you understand? The spiritual leaders who had the Torah and the Tanakh, they had the Bible. It had been so long since they saw somebody coming and actually instructing repentance, the true application of the word of God, how to properly love your neighbor. It had been so long. So they're like, who is this man? He's not regular. This ain't no regular dude right here.
 
@@ -100,18 +100,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[Matthew 11:7-10](/bible/matthew/11#v7)**  *[[31:47](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=1907s)]*
 
 > <sup>[7](/bible/matthew/11#v7)</sup> And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind?
->
+
+- Jesus began to say unto the multitudes concerning John: Concerning who? John.
+
 > <sup>[8](/bible/matthew/11#v8)</sup> But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings’ houses.
 >
 > <sup>[9](/bible/matthew/11#v9)</sup> But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet.
->
-> <sup>[10](/bible/matthew/11#v10)</sup> For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
-
-- Jesus began to say unto the multitudes concerning John: Concerning who? John.
 
 - But what went ye out for to see? A prophet: So you went out to see a prophet. When y'all went to the wilderness to learn from John, y'all was going to see a prophet.
 
 - Yea, I say unto you, and more than a prophet: And what? And more than a prophet. What did Christ, the Son of God, say about John the Baptist? He was what? More than a prophet. What the hell? That's some heavy stuff right there. How do you be more than a prophet? Cause Moses was a prophet, Daniel was a prophet, Jeremiah was a prophet. The Lord said that man John was more than a prophet. Damn, get the damn bom brother.
+
+> <sup>[10](/bible/matthew/11#v10)</sup> For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 
 - Behold, I send my messenger before thy face, which shall prepare thy way before thee: Right. So John the Baptist was the messenger. You know, oftentimes we read scriptures or whatever and we like, you know, that applies to the prophets, that applies to, you know what I'm saying, the move, like a mass amount per se. But that prophecy in Malachi chapter 3, which aligns with Isaiah chapter 40, that was speaking about one particular individual. One, you understand? And John was that one. That's why he was more than a prophet.
 
@@ -133,10 +133,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[Luke 1:16-17](/bible/luke/1#v16)**  *[[34:34](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=2074s)]*
 
 > <sup>[16](/bible/luke/1#v16)</sup> And many of the children of Israel shall he turn to the Lord their God.
->
-> <sup>[17](/bible/luke/1#v17)</sup> And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
 
 - And many of the children of Israel shall he turn to the Lord their God: But wait a minute. I thought, you know, John 1, the Lord came unto his own and his own received him not. You know, Christians try to paint the narrative, yeah, the Jews rejected Christ, all of that. But, and I know this is talking about John the Baptist, so I'm not conflating the two, but I want to put it into perspective. What in the hell would be the point of John the Baptist coming to prepare the way for the Lord, turn many of the children of Israel to the Lord their God, just for Christ to come on the scene and then they reject Christ? If John the Baptist turned many of the children of Israel to their God, y'all know what that means? That means he turned many of the children of Israel to the direction of Christ, which means many of the children of Israel believed on Christ. But I'm telling you, Christianity and y'all is Jesus, whatever the hell, white Jesus. Y'all, man, man, man, man. All right.
+
+> <sup>[17](/bible/luke/1#v17)</sup> And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
 
 - And he shall go before him in the spirit and power of Elias: Right. So, your son John the Baptist, well, you know, your son John is going to go before Christ in the spirit and power of Elijah. Now it's going to expound on the power that Elijah would have.
 
@@ -156,15 +156,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 
 **[Hebrews 1:1-2](/bible/hebrews/1#v1)**  *[[39:41](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=2381s)]*
 
-> <sup>[1](/bible/hebrews/1#v1)</sup> God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
->
-> <sup>[2](/bible/hebrews/1#v2)</sup> Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
-
 - Now of course, you know, Colossians, that's a banger, we often go to that, but I really, I really, really like this, Hebrews 1.
 
 - God: Who? God. That's the first name, the first thing mentioned in the book of Hebrews. God.
 
+> <sup>[1](/bible/hebrews/1#v1)</sup> God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
+
 - Who at sundry times and in divers manners spake in time past unto the fathers by the prophets: Right. So he spoke to our forefathers by the prophets in former times.
+
+> <sup>[2](/bible/hebrews/1#v2)</sup> Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
 
 - Hath in these last days spoken unto us by his Son: Wait a minute. So God has a Son, you understand? And that Son is Jesus Christ. So Jesus Christ had a Father, you understand, who was not. All right, so God spoke to us by his Son.
 
@@ -173,15 +173,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 
 **[Hebrews 1:8-9](/bible/hebrews/1#v8)**  *[[42:04](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=2524s)]*
 
-> <sup>[8](/bible/hebrews/1#v8)</sup> But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.
->
-> <sup>[9](/bible/hebrews/1#v9)</sup> Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
-
 - Now watch this, jump down to verse 8, just to make more sense of it.
+
+> <sup>[8](/bible/hebrews/1#v8)</sup> But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.
 
 - But unto the Son he saith: Unto the Son. Unto what Son? God, the Son of God. Unto his Son.
 
 - Thy throne, O God, is for ever and ever: Thy what? Thy throne, O God. So what is God saying about his Son? His Son is also a what? A God, you understand? His Son is God.
+
+> <sup>[9](/bible/hebrews/1#v9)</sup> Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
 
 - Thou hast loved righteousness, and hated iniquity; therefore God, even thy God: So Christ have loved righteousness and hated iniquity, therefore God, even thy God. Stop. I know this is hard to process coming out of Christianity, but our God, as in Jesus the Christ, he has a God, which is the Father. Our Father, you understand? It's really not that hard to understand. It's actually pretty clear. All right, our God Jesus Christ has a God, which is his Father. His Father through his Son made the worlds, which is why his Son is our God, cause he made us. But who made him? His Father, which is the Most High God. Not that difficult. Not that difficult.
 
@@ -200,23 +200,23 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[Psalms 33:13-14](/bible/psalms/33#v13)**  *[[45:30](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=2730s)]*
 
 > <sup>[13](/bible/psalms/33#v13)</sup> The Lord looketh from heaven; he beholdeth all the sons of men.
->
-> <sup>[14](/bible/psalms/33#v14)</sup> From the place of his habitation he looketh upon all the inhabitants of the earth.
 
 - The LORD looketh from heaven; he beholdeth all the sons of men: Our Father which art in heaven.
+
+> <sup>[14](/bible/psalms/33#v14)</sup> From the place of his habitation he looketh upon all the inhabitants of the earth.
 
 - From the place of his habitation he looketh upon all the inhabitants of the earth: From the place of his habitation. Right, that's why I say Our Father which art in heaven. That's his habitation. All right.
 
 
 **[Sirach 23:9-10](/bible/sirach/23#v9)**  *[[45:30](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=2730s)]*
 
-> <sup>[9](/bible/sirach/23#v9)</sup> Accustom not thy mouth to swearing; neither use thyself to the naming of the Holy One.
->
-> <sup>[10](/bible/sirach/23#v10)</sup> For as a servant that is continually beaten shall not be without a blue mark: so he that sweareth and nameth God continually shall not be faultless.
-
 - Now let's deal with hallowed be thy name.
 
+> <sup>[9](/bible/sirach/23#v9)</sup> Accustom not thy mouth to swearing; neither use thyself to the naming of the Holy One.
+
 - Accustom not thy mouth to swearing; neither use thyself to the naming of the Holy One: Right. So hallowed be thy name. For something to be hallow, that means that it's nothing that you could just casually use. It's something that is very, very valuable. So valuable that it is sacred, right? So mind you, when Christ was teaching us to pray, he did not instruct us to call the Father by a name, a Hebrew name or whatever. He said, when you pray, say Our Father, which would be Abba in Hebrew, and that the heavenly Abba, right? Our Father which art in heaven, hallowed be thy name. He did not tell us to say the name. He told us to acknowledge that his name is hallowed. So the same spirit, Jesus the son of Sirach was rolling in the same spirit. He had that understanding. His name is hallowed. So don't use yourself to the naming of the Holy One. Don't do that.
+
+> <sup>[10](/bible/sirach/23#v10)</sup> For as a servant that is continually beaten shall not be without a blue mark: so he that sweareth and nameth God continually shall not be faultless.
 
 - For as a servant that is continually beaten shall not be without a blue mark: You're going to have a bruise if you're constantly getting beat.
 
@@ -245,8 +245,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[Daniel 2:44-45](/bible/daniel/2#v44)**  *[[53:29](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=3209s)]*
 
 > <sup>[44](/bible/daniel/2#v44)</sup> And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
->
-> <sup>[45](/bible/daniel/2#v45)</sup> Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.
 
 - And in the days of these kings shall the God of heaven set up a kingdom: Right. In the days of these, when we read verse 45 it's going to mention it, but for the sake of time we not, just know it's talking about the last ruling kingdom in the earth. In the days of these kingdoms the Lord shall simultaneously set up a kingdom.
 
@@ -259,6 +257,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 - But it shall break in pieces and consume all these kingdoms, and it shall stand for ever: Right. So it says in Second Thessalonians, I don't get it for the sake of time, but it say the Lord shall consume this current kingdom with the spirit of his mouth and the brightness of his coming. So the consumption of his kingdom first and foremost is coming from the Israelites in Christ prophesying against these kingdoms, and the angels activate, prophecy unfolds, Christ returned, set us in order, and we literally break this jint in pieces. For real. That's the gospel. Understand that when you praying it. Cause my mama taught me this prayer when I was like two or three years. I've been knowing the Lord's Prayer my whole life, and I did not, I did not realize what the hell I was saying when I said thy kingdom come.
 
 - But it shall break in pieces: But it shall what? But it shall break in pieces. So God's kingdom is going to break in pieces. So when you praying for God's kingdom to come, you praying for all these present kingdoms to be broken in pieces.
+
+> <sup>[45](/bible/daniel/2#v45)</sup> Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.
 
 - Forasmuch as thou sawest that the stone was cut out of the mountain without hands: Right. And what is that stone? Give me that real quick, Ephesians 2 and 20.
 
@@ -313,10 +313,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[Isaiah 2:2-3](/bible/isaiah/2#v2)**  *[[1:03:41](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=3821s)]*
 
 > <sup>[2](/bible/isaiah/2#v2)</sup> And it shall come to pass in the last days, that the mountain of the Lord’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
->
-> <sup>[3](/bible/isaiah/2#v3)</sup> And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
 
 - And all nations shall flow unto it: Now we just read in Second Esdras, when his city is shown, can't no other kingdom stand beside it. Period. So all nations going to flow unto his kingdom.
+
+> <sup>[3](/bible/isaiah/2#v3)</sup> And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
 
 - For out of Zion shall go forth the law: Out of where? Out of Zion. Thy will be done as it is in heaven, let it be on earth. That's when that's going to come to pass. That's what we praying for. Now, we tired of seeing LGBT. We tired of seeing, you understand, hell yeah, we tired. We tired of seeing the little people, the little rat-looking people, walk around with the little yamas and all that, talking about they the people. They ain't. They ain't keeping or teaching God's law, enforcing God's laws in earth. They committing genocide on people, right? The hell is this? All right. So this is the will that we pray to be done.
 
@@ -339,10 +339,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[Revelation 21:2-3](/bible/revelation/21#v2)**  *[[1:06:31](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=3991s)]*
 
 > <sup>[2](/bible/revelation/21#v2)</sup> And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
->
-> <sup>[3](/bible/revelation/21#v3)</sup> And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God.
 
 - And I John saw the holy city, new Jerusalem, coming down from God out of heaven: Thy kingdom come.
+
+> <sup>[3](/bible/revelation/21#v3)</sup> And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God.
 
 - Behold, the tabernacle of God is with men: That's Daniel 7 and 9. That's after the thrones is cast down, you understand? That's when all the other nations over with.
 
@@ -350,14 +350,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "repenta
 **[Revelation 21:10-12](/bible/revelation/21#v10)**  *[[1:06:31](https://www.youtube.com/watch?v=18Q2VuVS0zI&t=3991s)]*
 
 > <sup>[10](/bible/revelation/21#v10)</sup> And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,
->
-> <sup>[11](/bible/revelation/21#v11)</sup> Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;
->
-> <sup>[12](/bible/revelation/21#v12)</sup> And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
 
 - The holy Jerusalem, descending out of heaven from God: Thy kingdom come.
 
+> <sup>[11](/bible/revelation/21#v11)</sup> Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;
+
 - Having the glory of God: And the glory pertained to the Israelites, Romans 9 and 4.
+
+> <sup>[12](/bible/revelation/21#v12)</sup> And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
 
 - And names written thereon, which are the names of the twelve tribes of the children of Israel: What the hell is wrong? Going tell Christianity, what do you do with that? Listen, when you praying thy kingdom come, understand that's what you praying for: the end of all nations, and the kingdom that's for the 12 tribes of Israel to descend out of heaven from God. That's what you pray.
 

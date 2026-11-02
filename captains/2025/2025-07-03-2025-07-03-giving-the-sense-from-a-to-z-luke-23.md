@@ -67,12 +67,6 @@ Reading from Wikipedia, Pontius Pilate (on screen)  *[[8:13](https://www.youtube
 **[Acts 17:5-8](/bible/acts/17#v5)**  *[[10:20](https://www.youtube.com/watch?v=_O4s0HaETDM&t=620s)]*
 
 > <sup>[5](/bible/acts/17#v5)</sup> But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.
->
-> <sup>[6](/bible/acts/17#v6)</sup> And when they found them not, they drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also;
->
-> <sup>[7](/bible/acts/17#v7)</sup> Whom Jason hath received: and these all do contrary to the decrees of Cesar, saying that there is another king, one Jesus.
->
-> <sup>[8](/bible/acts/17#v8)</sup> And they troubled the people and the rulers of the city, when they heard these things.
 
 - But the Jews which believed not, moved with envy: Hold on. The Jews that believe not moved with what? Moved with envy. So as we read on down, you going to see the same thing here. Come on.
 
@@ -80,7 +74,13 @@ Reading from Wikipedia, Pontius Pilate (on screen)  *[[8:13](https://www.youtube
 
 - And gathered a company, and set all the city on an uproar: They did what? Set all the city on an uproar. So teaching the gospel of Christ, you set the city on an uproar. So if the true gospel is being taught in the church, it would be a uproar. They would be gathering the people against and they would be calling the authorities on them. That's how you know the church, they not the guys. They not setting anything in the uproar. Read that again.
 
+> <sup>[6](/bible/acts/17#v6)</sup> And when they found them not, they drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also;
+
 - And assaulted the house of Jason, and sought to bring them out to the people. And when they found them not, they drew Jason and certain brethren unto the rulers of the city: Right? So that's what they did with Christ. They brought him what? Unto the rulers of the city. So they brought Christ to Pontius Pilate. So if you a follower of Christ, you going to be brought before the governors, the magistrate, the authorities because you set the city in the uproar or turning the world back right side up when you teaching the true gospel. Understand that thing. So, drop that.
+
+> <sup>[7](/bible/acts/17#v7)</sup> Whom Jason hath received: and these all do contrary to the decrees of Cesar, saying that there is another king, one Jesus.
+>
+> <sup>[8](/bible/acts/17#v8)</sup> And they troubled the people and the rulers of the city, when they heard these things.
 
 
 **[Luke 23:2](/bible/luke/23#v2)**  *[[12:23](https://www.youtube.com/watch?v=_O4s0HaETDM&t=743s)]*
@@ -95,18 +95,18 @@ Reading from Wikipedia, Pontius Pilate (on screen)  *[[8:13](https://www.youtube
 **[Matthew 17:24-27](/bible/matthew/17#v24)**  *[[12:23](https://www.youtube.com/watch?v=_O4s0HaETDM&t=743s)]*
 
 > <sup>[24](/bible/matthew/17#v24)</sup> And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?
->
-> <sup>[25](/bible/matthew/17#v25)</sup> He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
->
-> <sup>[26](/bible/matthew/17#v26)</sup> Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
->
-> <sup>[27](/bible/matthew/17#v27)</sup> Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
 
 - They that received tribute money came to Peter, and said, Doth not your master pay tribute?: So they said, "Hold on. Does your master, does Christ pay taxes?" Come on.
+
+> <sup>[25](/bible/matthew/17#v25)</sup> He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
 
 - He saith, Yes: He said what? Yes. So watch on.
 
 - Of whom do the kings of the earth take custom or tribute?: So he asked him, hey, who do the kings of the earth take custom tribute? Come on.
+
+> <sup>[26](/bible/matthew/17#v26)</sup> Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
+>
+> <sup>[27](/bible/matthew/17#v27)</sup> Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
 
 - That take, and give unto them for me and thee: Hold on. So they said that Christ didn't give tribute. That's a damn lie. That's an accusation. Let's go further in Matthew. Give me chapter 22 starting at verse 15. So these are all slanders, accusations. And we're going to draw parallels from the ministry of Christ till today. Because a lot of things that we reading here in the scriptures already taking place before your eyes. The slanderous accusations that they make about us here in IUI. I see. Come on.
 
@@ -114,34 +114,34 @@ Reading from Wikipedia, Pontius Pilate (on screen)  *[[8:13](https://www.youtube
 **[Matthew 22:15-22](/bible/matthew/22#v15)**  *[[13:44](https://www.youtube.com/watch?v=_O4s0HaETDM&t=824s)]*
 
 > <sup>[15](/bible/matthew/22#v15)</sup> Then went the Pharisees, and took counsel how they might entangle him in his talk.
->
-> <sup>[16](/bible/matthew/22#v16)</sup> And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men.
->
-> <sup>[17](/bible/matthew/22#v17)</sup> Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cesar, or not?
->
-> <sup>[18](/bible/matthew/22#v18)</sup> But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?
->
-> <sup>[19](/bible/matthew/22#v19)</sup> Shew me the tribute money. And they brought unto him a penny.
->
-> <sup>[20](/bible/matthew/22#v20)</sup> And he saith unto them, Whose is this image and superscription?
->
-> <sup>[21](/bible/matthew/22#v21)</sup> They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s.
->
-> <sup>[22](/bible/matthew/22#v22)</sup> When they had heard these words, they marvelled, and left him, and went their way.
 
 - Then went the Pharisees, and took counsel how they might entangle him in his talk: So they try to entangle Christ in his talk. Watch this.
+
+> <sup>[16](/bible/matthew/22#v16)</sup> And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men.
 
 - And they sent out unto him their disciples with the Herodians: With the who? With the Herodians. The Herodians is your modern day politician. The Herodians supported Herod back in the day. We call them Democrats and Republicans today, man. Politicians. The Herodians. They set up in the Christian church. You understand? Come on.
 
 - Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men: They're trying to butter them up. You see how these, that's that slick political talk. And they work hand in hand with the Christian church. Come on.
 
+> <sup>[17](/bible/matthew/22#v17)</sup> Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cesar, or not?
+>
+> <sup>[18](/bible/matthew/22#v18)</sup> But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?
+
 - But Jesus perceived their wickedness: But Jesus what? Perceived their wickedness. He already knew these people was wicked as hell and they was trying to set him up in his words. Watch this.
 
 - Why tempt ye me, ye hypocrites?: He said, "Why you tempting me, you hypocrites?" Cuz he knew they wasn't keeping. They wasn't doing what they was instructing the people to do. You read that in Matthew 23:1. Come on.
 
+> <sup>[19](/bible/matthew/22#v19)</sup> Shew me the tribute money. And they brought unto him a penny.
+>
+> <sup>[20](/bible/matthew/22#v20)</sup> And he saith unto them, Whose is this image and superscription?
+
 - Whose is this image and superscription?: Uh-huh. They say unto him, Caesar's. Come on.
 
+> <sup>[21](/bible/matthew/22#v21)</sup> They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s.
+
 - And unto God the things that are God's: He's fried them bounds. So read verse 22.
+
+> <sup>[22](/bible/matthew/22#v22)</sup> When they had heard these words, they marvelled, and left him, and went their way.
 
 - When they had heard these words, they marvelled, and left him, and went their way: Damn. He tore them up. He said, "Hold on, man. You got to render unto Caesar the things due unto Caesar." Meaning what? Christ paid his taxes. So let's go back to Luke. This is all slander accusations just like you see out here in these streets today.
 
@@ -166,10 +166,10 @@ Reading from Wikipedia, Pontius Pilate (on screen)  *[[8:13](https://www.youtube
 **[John 18:33-34](/bible/john/18#v33)**  *[[16:17](https://www.youtube.com/watch?v=_O4s0HaETDM&t=977s)]*
 
 > <sup>[33](/bible/john/18#v33)</sup> Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?
->
-> <sup>[34](/bible/john/18#v34)</sup> Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?
 
 - Art thou the King of the Jews?: Watch this.
+
+> <sup>[34](/bible/john/18#v34)</sup> Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?
 
 - Sayest thou this thing of thyself: "Did I say this of myself?" Come on.
 
@@ -179,20 +179,20 @@ Reading from Wikipedia, Pontius Pilate (on screen)  *[[8:13](https://www.youtube
 **[Matthew 5:10-12](/bible/matthew/5#v10)**  *[[17:40](https://www.youtube.com/watch?v=_O4s0HaETDM&t=1060s)]*
 
 > <sup>[10](/bible/matthew/5#v10)</sup> Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.
->
-> <sup>[11](/bible/matthew/5#v11)</sup> Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
->
-> <sup>[12](/bible/matthew/5#v12)</sup> Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
 
 - Blessed are they which are persecuted for righteousness' sake: Hold on. What? Blessed are they which are persecuted for righteousness sake. Was Christ not persecuted for righteousness sake? The question is who out there persecuting 1738? You understand? Nobody. Nobody. Come on.
 
 - For theirs is the kingdom of heaven: For theirs is the kingdom of heaven. Understand? Nobody pulling up on that church over there persecuting them. Come on.
+
+> <sup>[11](/bible/matthew/5#v11)</sup> Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
 
 - Blessed are ye, when men shall revile you: So blessed are you when men shall hate you. Come on.
 
 - And persecute you, and shall say all manner of evil against you falsely: What? Say all manner of evil against you falsely. Falsely. Come on.
 
 - For my sake: They call us all types of stuff. They call us purple power rangers. Y'all in the cult. All that is false. Read.
+
+> <sup>[12](/bible/matthew/5#v12)</sup> Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
 
 - Rejoice, and be exceeding glad: So when you see the bishop, that's why the bishop say when he see the videos, he be laughing, man. Because the bishop understands the scriptures. He understand. Hey, look. Read that one more time.
 
@@ -206,14 +206,14 @@ Reading from Wikipedia, Pontius Pilate (on screen)  *[[8:13](https://www.youtube
 **[Luke 23:3-5](/bible/luke/23#v3)**  *[[19:46](https://www.youtube.com/watch?v=_O4s0HaETDM&t=1186s)]*
 
 > <sup>[3](/bible/luke/23#v3)</sup> And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest it.
->
-> <sup>[4](/bible/luke/23#v4)</sup> Then said Pilate to the chief priests and to the people, I find no fault in this man.
->
-> <sup>[5](/bible/luke/23#v5)</sup> And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 
 - And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest it: You sayest. Christ ain't never claimed to be the king of the Jews. There's nowhere in the scriptures where he says that. Come on.
 
+> <sup>[4](/bible/luke/23#v4)</sup> Then said Pilate to the chief priests and to the people, I find no fault in this man.
+
 - Then said Pilate to the chief priests and to the people, I find no fault in this man: Even the white man said, "Hold on, man. Y'all brothers bringing this man up here." The damn white man said, "I don't find no fault in this man." It's always your own. Come on.
+
+> <sup>[5](/bible/luke/23#v5)</sup> And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 
 - And they were the more fierce: Hold. They was what? They were the more fierce. You see how evil our people are? It was no fault in the man. They didn't say, "You know what, man? We tripping." They got even more angry. Come on, man. Read.
 
@@ -243,14 +243,14 @@ Reading from Definition of Jewry (on screen; source not named)  *[[21:03](https:
 **[Luke 23:5-7](/bible/luke/23#v5)**  *[[21:50](https://www.youtube.com/watch?v=_O4s0HaETDM&t=1310s)]*
 
 > <sup>[5](/bible/luke/23#v5)</sup> And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
->
-> <sup>[6](/bible/luke/23#v6)</sup> When Pilate heard of Galilee, he asked whether the man were a Galilean.
->
-> <sup>[7](/bible/luke/23#v7)</sup> And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.
 
 - And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place: So they taught throughout all jewelry, whither the Jews always resort, man. Where are we getting this doctrine that Christ somehow was teaching other people? That's not in the scriptures, family. Come on.
 
 - When Pilate heard of Galilee, he asked whether the man were a Galilaean: So when he heard of Galilee, he said, "Hold on. Is this man from Galilee?" Why? Why did he ask that? Watch this.
+
+> <sup>[6](/bible/luke/23#v6)</sup> When Pilate heard of Galilee, he asked whether the man were a Galilean.
+>
+> <sup>[7](/bible/luke/23#v7)</sup> And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.
 
 - And as soon as he knew that he belonged unto Herod's jurisdiction: So he looking at the man like, "Hold on, y'all bringing me to him. This man is in Herod's jurisdiction." Come on.
 
@@ -286,8 +286,6 @@ Reading from Wikipedia, Herod Antipas (on screen)  *[[23:19](https://www.youtube
 **[Hosea 3:4-5](/bible/hosea/3#v4)**  *[[25:40](https://www.youtube.com/watch?v=_O4s0HaETDM&t=1540s)]*
 
 > <sup>[4](/bible/hosea/3#v4)</sup> For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:
->
-> <sup>[5](/bible/hosea/3#v5)</sup> Afterward shall the children of Israel return, and seek the Lord their God, and David their king; and shall fear the Lord and his goodness in the latter days.
 
 - For the children of Israel: For the who? The children of Israel. Watch this.
 
@@ -302,6 +300,8 @@ Reading from Wikipedia, Herod Antipas (on screen)  *[[23:19](https://www.youtube
 - And without an ephod, and without teraphim: Watch this.
 
 - Afterward: After those many days, in the latter days, the times which we are in now.
+
+> <sup>[5](/bible/hosea/3#v5)</sup> Afterward shall the children of Israel return, and seek the Lord their God, and David their king; and shall fear the Lord and his goodness in the latter days.
 
 - Shall the children of Israel return: Uh-huh. Shall what? Shall the children of Israel return? Meaning to go back to where we came from, where we had an image, where we had a prince, where we had a king, where we had the laws of God. Come on.
 
@@ -318,10 +318,10 @@ Reading from Wikipedia, Herod Antipas (on screen)  *[[23:19](https://www.youtube
 **[Revelation 1:14-15](/bible/revelation/1#v14)**  *[[27:45](https://www.youtube.com/watch?v=_O4s0HaETDM&t=1665s)]*
 
 > <sup>[14](/bible/revelation/1#v14)</sup> His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
->
-> <sup>[15](/bible/revelation/1#v15)</sup> And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
 
 - His head and his hairs were white like wool: That's the exact opposite of what we've been given as a people for centuries. You got a white guy with blonde hair and blue eyes. That's not in the Bible. Come on.
+
+> <sup>[15](/bible/revelation/1#v15)</sup> And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
 
 - And his feet like unto fine brass: Brass is brown. Come on.
 
@@ -405,14 +405,14 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 **[Luke 23:8-9](/bible/luke/23#v8)**  *[[35:25](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2125s)]*
 
 > <sup>[8](/bible/luke/23#v8)</sup> And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him.
->
-> <sup>[9](/bible/luke/23#v9)</sup> Then he questioned with him in many words; but he answered him nothing.
 
 - And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season: Why was he desirous to see him of a long season? Cuz his father told him about the king of the Jews or Christ. That's why it says a long season. He grew up hearing about Christ. You understand? Cuz his father tried to kill Christ as a baby. They was just up in the image. Come on.
 
 - Because he had heard many things of him: Uh-huh. And he also, as Christ was growing, he heard a lot of things about Christ. That's how he was out there bringing people back from the dead, hailing the, giving sight to the blind, so forth. Come on.
 
 - And he hoped to have seen some miracle done by him: Right? And it's the same spirit on them, on Esau today. They said, "Man, I heard you good. Sing for me, boy. Jump for me, boy." It's the same spirit. Come on.
+
+> <sup>[9](/bible/luke/23#v9)</sup> Then he questioned with him in many words; but he answered him nothing.
 
 - Then he questioned with him in many words; but he answered him nothing: Hold on. What? But he answered him nothing. Hold on. I thought Christ is for everybody. But he answered him nothing. Why didn't he try to win him over in the spirit? But he answered him nothing. This gospel ain't for him. It's not for him. He answered him nothing. He did the same thing. Y'all may have forgotten. Give me that where Christ ignored the Sarah Phohenician woman. You understand? Y'all want to go to the account of Mark? Which one is better? The account of Mark or y'all want Matthew when they just ignored her? Get the one of Matthew.
 
@@ -427,12 +427,10 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 **[Mark 7:25-27](/bible/mark/7#v25)**  *[[37:33](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2253s)]*
 
 > <sup>[25](/bible/mark/7#v25)</sup> For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
->
-> <sup>[26](/bible/mark/7#v26)</sup> The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
->
-> <sup>[27](/bible/mark/7#v27)</sup> But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast it unto the dogs.
 
 - And came and fell at his feet: Watch this.
+
+> <sup>[26](/bible/mark/7#v26)</sup> The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
 
 - The woman was a Greek: Was a what? A Greek. She was a Greek Adumian, man. Come on.
 
@@ -440,18 +438,18 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 
 - And she besought him that he would cast forth the devil out of her daughter: Watch this.
 
+> <sup>[27](/bible/mark/7#v27)</sup> But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast it unto the dogs.
+
 - But Jesus said unto her, Let the children first be filled: Right? So now go back to the account of Matthews. So this was a Adumian woman, an Edomite woman, man. Just like Herod is a Edomite. Wikipedia put that up there crystal clear. They come from the Greeks, man. Come on.
 
 
 **[Matthew 15:22-24](/bible/matthew/15#v22)**  *[[38:15](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2295s)]*
 
 > <sup>[22](/bible/matthew/15#v22)</sup> And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.
->
-> <sup>[23](/bible/matthew/15#v23)</sup> But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
->
-> <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
 
 - And, behold, a woman of Canaan came out of the same coasts, and cried unto him: The reason why I'm going here, cuz as Christ ignored this Greek Herod here, he ignored this woman. Watch.
+
+> <sup>[23](/bible/matthew/15#v23)</sup> But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
 
 - But he answered her not a word: But what? But he answered her not a word. It said the same thing in Luke. Family. If Christ was for everybody, why did he ignore this woman? Come on.
 
@@ -459,20 +457,22 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 
 - For she crieth after us: Watch this.
 
+> <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
+
 - But he answered and said, I am not sent but unto the lost sheep of the house of Israel: He said, look, I'm only for the lost sheep of the house of Israel. Carried her. So now go back the book of Luke chapter 23 verse 9 10. So you got two accounts of Christ ignoring some … man. Come on man.
 
 
 **[Luke 23:9-11](/bible/luke/23#v9)**  *[[39:43](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2383s)]*
 
 > <sup>[9](/bible/luke/23#v9)</sup> Then he questioned with him in many words; but he answered him nothing.
->
-> <sup>[10](/bible/luke/23#v10)</sup> And the chief priests and scribes stood and vehemently accused him.
->
-> <sup>[11](/bible/luke/23#v11)</sup> And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate.
 
 - Then he questioned with him in many words; but he answered him nothing: Just like he did that Edomite woman. Crystal clear. Watch.
 
+> <sup>[10](/bible/luke/23#v10)</sup> And the chief priests and scribes stood and vehemently accused him.
+
 - And the chief priests and scribes stood and vehemently accused him: So while he's being silent here, you got the coons out there on the side bringing more slander and accusations to get their own brother put to death. You can't, only black people are evil like that. Straight up. Read.
+
+> <sup>[11](/bible/luke/23#v11)</sup> And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate.
 
 - And Herod with his men of war set him at nought, and mocked him: And what? And mocked him. So now they began to mock Christ. They began to mock him. That's why I told you this dude is wicked as hell. Wicked as hell. If he wanted to be saved and Christ was for everybody, why didn't Christ win him over and convert him? Cuz this man is the devil. Read that again.
 
@@ -482,18 +482,18 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 **[Psalms 22:6-8](/bible/psalms/22#v6)**  *[[40:26](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2426s)]*
 
 > <sup>[6](/bible/psalms/22#v6)</sup> But I am a worm, and no man; a reproach of men, and despised of the people.
->
-> <sup>[7](/bible/psalms/22#v7)</sup> All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,
->
-> <sup>[8](/bible/psalms/22#v8)</sup> He trusted on the Lord that he would deliver him: let him deliver him, seeing he delighted in him.
 
 - A reproach of men, and despised of the people: And what? And despised of the people. The people is his own people. Those that were vehemently advocating to put him to death. Read.
+
+> <sup>[7](/bible/psalms/22#v7)</sup> All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,
 
 - All they that see me laugh me to scorn: All that see me what? Laugh me to scorn. So you just read an account where they mocked him. All that seen Christ. Cuz Christ wasn't getting mocked prior to that. It says all that see me laugh me to scorn. They was in there mocking Christ and asking Herod to put the man to death. Come on.
 
 - They shoot out the lip: They do what? They shoot out the lip. Meaning they run their big black lips. Come on.
 
 - They shake the head: They do what? Shake the head. They're like, "This dude ain't the king of the Jew. This dude ain't doing this." You know how our people get down. Come on.
+
+> <sup>[8](/bible/psalms/22#v8)</sup> He trusted on the Lord that he would deliver him: let him deliver him, seeing he delighted in him.
 
 - He trusted on the Lord that he would deliver him: let him deliver him: Right. So now go back to Luke cuz you see that when they say free yourself. You the king of the Jews. They was doing all that to our king, man. Read that. Oh yeah. Give me Isaiah 53. Excuse me.
 
@@ -530,14 +530,14 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 **[Luke 23:11-12](/bible/luke/23#v11)**  *[[43:58](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2638s)]*
 
 > <sup>[11](/bible/luke/23#v11)</sup> And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate.
->
-> <sup>[12](/bible/luke/23#v12)</sup> And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.
 
 - And Herod with his men of war set him at nought: So we read the prophecy regarding Psalms 22 and Isaiah 53. Come on.
 
 - And mocked him, and arrayed him in a gorgeous robe: So we understand that gorgeous robe according to Mark 15:17 is a purple robe. That's why the purple's a problem out here, man. Read.
 
 - And sent him again to Pilate: So he sent him back to Pilate. So Herod got him. They mocked him, slapped him around and sent them back to Pilate to deal with the situation. Come on.
+
+> <sup>[12](/bible/luke/23#v12)</sup> And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.
 
 - And the same day Pilate and Herod were made friends together: Hold on. Read. Keep reading.
 
@@ -547,12 +547,12 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 **[Psalms 83:5-6](/bible/psalms/83#v5)**  *[[45:21](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2721s)]*
 
 > <sup>[5](/bible/psalms/83#v5)</sup> For they have consulted together with one consent: they are confederate against thee:
->
-> <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
 
 - For they have consulted together with one consent: Hold on. What? They have consulted together with one consent. So Pilate and Herod got together with one consent. Man, come on.
 
 - They are confederate against thee: They are what? They are confederate against you. Man, you go from enemies to friends when it come time to oppressing the 12 tribes of Israel, man. Read.
+
+> <sup>[6](/bible/psalms/83#v6)</sup> The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
 
 - The tabernacles of Edom: The what? The tabernacles of Edom. The damn white man is the enemy number one, man. Come on.
 
@@ -575,22 +575,12 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 **[Luke 23:12-19](/bible/luke/23#v12)**  *[[47:29](https://www.youtube.com/watch?v=_O4s0HaETDM&t=2849s)]*
 
 > <sup>[12](/bible/luke/23#v12)</sup> And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.
->
+
+- For before they were at enmity between themselves: They had hatred toward one another. Come on.
+
 > <sup>[13](/bible/luke/23#v13)</sup> And Pilate, when he had called together the chief priests and the rulers and the people,
 >
 > <sup>[14](/bible/luke/23#v14)</sup> Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:
->
-> <sup>[15](/bible/luke/23#v15)</sup> No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.
->
-> <sup>[16](/bible/luke/23#v16)</sup> I will therefore chastise him, and release him.
->
-> <sup>[17](/bible/luke/23#v17)</sup> (For of necessity he must release one unto them at the feast.)
->
-> <sup>[18](/bible/luke/23#v18)</sup> And they cried out all at once, saying, Away with this man, and release unto us Barabbas:
->
-> <sup>[19](/bible/luke/23#v19)</sup> (Who for a certain sedition made in the city, and for murder, was cast into prison.)
-
-- For before they were at enmity between themselves: They had hatred toward one another. Come on.
 
 - Ye have brought this man unto me: So they brought him back. He like, "Yo, y'all bringing this man back." Come on.
 
@@ -602,17 +592,27 @@ Reading from Screenshot on screen: "Did Rome break up Israel into four tetros?" 
 
 - Touching those things whereof ye accuse him: Watch this.
 
+> <sup>[15](/bible/luke/23#v15)</sup> No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.
+
 - No, nor yet Herod: Even Herod who mocked him couldn't even find anything. He two Elummites wicked as hell, saying, look, y'all know we the devil. We can't even find no fault in this man. Bro, come on now. What is wrong with us as a people? Read.
 
 - And, lo, nothing worthy of death is done unto him: It says nothing worthy of death was done unto him. Come on.
 
+> <sup>[16](/bible/luke/23#v16)</sup> I will therefore chastise him, and release him.
+
 - I will therefore chastise him, and release him: He said, man, look, man. I'm going to just handle this matter, chastise him, and release him. Watch.
 
+> <sup>[17](/bible/luke/23#v17)</sup> (For of necessity he must release one unto them at the feast.)
+
 - For of necessity he must release one unto them at the feast: Right? Because that was a custom that we had at the time. Somebody had to be set free. Come on.
+
+> <sup>[18](/bible/luke/23#v18)</sup> And they cried out all at once, saying, Away with this man, and release unto us Barabbas:
 
 - And they cried out all at once, saying, Away with this man: Oh, God. Our people did what? Away with this man. Cried out at once. Said, "Away with this man. Put this man to death." Come on.
 
 - And release unto us Barabbas: They wanted Barabbas, man. What is wrong with us? Read on down.
+
+> <sup>[19](/bible/luke/23#v19)</sup> (Who for a certain sedition made in the city, and for murder, was cast into prison.)
 
 - Who for a certain sedition made in the city, and for murder, was cast into prison: This man was sedition, was in the midst of, had a uprising. Get the definition of sedition real quick. I think I gave the screenshot. So this man, man, we wild. That's why we say no snitching. We hide the murderers. You understand? In our community, we want the murderers to be free. Y'all seen that, free such and such. This dude got bodies on him. We calling for him to be pardoned. Pull it up. Watch this. Read sedition.
 
@@ -646,28 +646,28 @@ Reading from Definition of sedition (on screen; source not named)  *[[49:37](htt
 **[Acts 3:13-18](/bible/acts/3#v13)**  *[[51:12](https://www.youtube.com/watch?v=_O4s0HaETDM&t=3072s)]*
 
 > <sup>[13](/bible/acts/3#v13)</sup> The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.
->
-> <sup>[14](/bible/acts/3#v14)</sup> But ye denied the Holy One and the Just, and desired a murderer to be granted unto you;
->
-> <sup>[15](/bible/acts/3#v15)</sup> And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses.
->
-> <sup>[16](/bible/acts/3#v16)</sup> And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all.
->
-> <sup>[17](/bible/acts/3#v17)</sup> And now, brethren, I wot that through ignorance ye did it, as did also your rulers.
->
-> <sup>[18](/bible/acts/3#v18)</sup> But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.
 
 - Whom ye delivered up, and denied him in the presence of Pilate: Said, "Y'all delivered up and denied him what? Denied him rightful justice." Meaning y'all got an innocent man put to death. Come on.
 
 - When he was determined to let him go: When he was determined to let him go. Come on.
 
+> <sup>[14](/bible/acts/3#v14)</sup> But ye denied the Holy One and the Just, and desired a murderer to be granted unto you;
+
 - But ye denied the Holy One and the Just, and desired a murderer to be granted unto you: You see that? Our people say, "Uh-uh. We don't want an innocent man. We want the murder. We the home of the killers." We didn't heard that before. Y'all know what I'm talking about. Come on.
+
+> <sup>[15](/bible/acts/3#v15)</sup> And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses.
 
 - And killed the Prince of life: And killed the who? The prince of life. Christ was the prince of life. Man, come on.
 
+> <sup>[16](/bible/acts/3#v16)</sup> And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all.
+
 - Hath given him this perfect soundness in the presence of you all: Meaning what? They witness in the power of Christ, the Holy Spirit of Christ on the disciples, man. Come on.
 
+> <sup>[17](/bible/acts/3#v17)</sup> And now, brethren, I wot that through ignorance ye did it, as did also your rulers.
+
 - And now, brethren, I wot that through ignorance ye did it, as did also your rulers: So he said, I'mma believe that y'all did it through ignorance. Come on.
+
+> <sup>[18](/bible/acts/3#v18)</sup> But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.
 
 - But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled: And what? Christ had to be put to death. So he said, I'm going to give y'all mercy. That's why Christ said, when he was crucified, what did he say? Forgive them for they know not what they do. That's why Peter in the same spirit said I'mma have mercy on you even though y'all did much evil because our king said forgive them they know not what they do. Peter moving in the same spirit because guess what? We was all in the midst of evil and wickedness worthy be put to death. That's why Christ had to come down and die. Y'all understand? So go back to Luke 23.
 
@@ -675,18 +675,14 @@ Reading from Definition of sedition (on screen; source not named)  *[[49:37](htt
 **[Luke 23:20-24](/bible/luke/23#v20)**  *[[53:16](https://www.youtube.com/watch?v=_O4s0HaETDM&t=3196s)]*
 
 > <sup>[20](/bible/luke/23#v20)</sup> Pilate therefore, willing to release Jesus, spake again to them.
->
-> <sup>[21](/bible/luke/23#v21)</sup> But they cried, saying, Crucify him, crucify him.
->
-> <sup>[22](/bible/luke/23#v22)</sup> And he said unto them the third time, Why, what evil hath he done? I have found no cause of death in him: I will therefore chastise him, and let him go.
->
-> <sup>[23](/bible/luke/23#v23)</sup> And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
->
-> <sup>[24](/bible/luke/23#v24)</sup> And Pilate gave sentence that it should be as they required.
 
 - Pilate therefore, willing to release Jesus, spake again to them: So Pilate trying to plead with him, yo, let the brother go. Come on.
 
+> <sup>[21](/bible/luke/23#v21)</sup> But they cried, saying, Crucify him, crucify him.
+
 - But they cried, saying, Crucify him, crucify him: Damn.
+
+> <sup>[22](/bible/luke/23#v22)</sup> And he said unto them the third time, Why, what evil hath he done? I have found no cause of death in him: I will therefore chastise him, and let him go.
 
 - And he said unto them the third time: He said unto them the third time. He pleading. But he think he in the twilight zone. He like, hold on. I got a murderer, a man that was in the midst of a uprise, insurrection, they want this guy to be freed. A man that didn't kill a nat, they want him put to death. He just up there just like, "What the hell am I?" He can't even believe what he's seeing and witnessing. That's what's going on. Come on.
 
@@ -694,11 +690,15 @@ Reading from Definition of sedition (on screen; source not named)  *[[49:37](htt
 
 - I will therefore chastise him, and let him go: This the white man saying, "Look, for the third time, I'mma just beat him and let him go, man." Like he trying to, like, "Yo, y'all tripping out here." Come on.
 
+> <sup>[23](/bible/luke/23#v23)</sup> And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
+
 - And they were instant with loud voices: They was instant with loud voices. Like soon as those words came out of his mouth, our people was instant with loud voices. Come on.
 
 - Requiring that he might be crucified: Requiring for him to be put to death. I'm telling you, that's some wicked stuff. But it's all for a purpose. Come on.
 
 - And the voices of them and of the chief priests prevailed: So, and it was just their voices. Remember, Pilate is not in on this. And I'm going to show you why. Come on.
+
+> <sup>[24](/bible/luke/23#v24)</sup> And Pilate gave sentence that it should be as they required.
 
 - And Pilate gave sentence that it should be as they required: So, now give me Matthew 27. He says, "Pilate gave sentence." But let's get a little more details on the sentence that he gave. I want Matthew 27:24 and 25. Then I want you to go to Exodus 24 and 8. The reason why we was crying with a loud voice for the blood of Christ goes all the way back. Read that real quick.
 
@@ -721,12 +721,12 @@ Reading from Definition of sedition (on screen; source not named)  *[[49:37](htt
 **[Exodus 24:6-7](/bible/exodus/24#v6)**  *[[56:00](https://www.youtube.com/watch?v=_O4s0HaETDM&t=3360s)]*
 
 > <sup>[6](/bible/exodus/24#v6)</sup> And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar.
->
-> <sup>[7](/bible/exodus/24#v7)</sup> And he took the book of the covenant, and read in the audience of the people: and they said, All that the Lord hath said will we do, and be obedient.
 
 - And Moses took half of the blood: And Moses did what? Took half of the blood. Uh-huh.
 
 - And half of the blood he sprinkled on the altar: Come on.
+
+> <sup>[7](/bible/exodus/24#v7)</sup> And he took the book of the covenant, and read in the audience of the people: and they said, All that the Lord hath said will we do, and be obedient.
 
 - All that the Lord hath said will we do: You all, what the Lord said, we what? We will do. Mean what? When you go back, go back to Luke. Go back to Luke and read verse 23.
 

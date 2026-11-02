@@ -50,12 +50,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 **[Daniel 9:25-26](/bible/daniel/9#v25)**  *[[6:01](https://www.youtube.com/watch?v=jLBLavSsXkg&t=361s)]*
 
 > <sup>[25](/bible/daniel/9#v25)</sup> Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.
->
-> <sup>[26](/bible/daniel/9#v26)</sup> And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.
 
 - Know therefore and understand: Now when you go to Daniel chapter 9, it uses that same terminology.
 
 - From the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks: So from the going forth of the commandment to rebuild Jerusalem would be during the time of Joshua the high priest, Zerubbabel, you know, Ezra, Nehemiah. So from that time period to the Messiahs, meaning the time that Christ lived. So from that time period to the time that Christ lived would be seven weeks and three score and two weeks. So three score is 60 because you got 3 times score which is 20. So 3 times 20 is 60. So three score and 2 weeks which is 62 and 7 weeks. So that's 69 weeks. All right. Each one of those days of the week is symbolic of a year. But I'm not dealing with the breaking down of Daniel 9. I'm just showing you something in it. It calls Christ the Messiah here. Messiah the prince. Okay.
+
+> <sup>[26](/bible/daniel/9#v26)</sup> And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.
 
 - And after threescore and two weeks shall Messiah be cut off: So notice what it says right here. It says, "And after three score and two weeks shall Messiah be cut off." Who is that Messiah? That's Christ. The world knows him as Jesus Christ. That's who that Messiah is that we reading about right here. So anyway, so Messiah is the savior, the Christ. Okay, I had to preface that first to answer the brother's question.
 
@@ -74,16 +74,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 **[Colossians 1:14-17](/bible/colossians/1#v14)**  *[[8:40](https://www.youtube.com/watch?v=jLBLavSsXkg&t=520s)]*
 
 > <sup>[14](/bible/colossians/1#v14)</sup> In whom we have redemption through his blood, even the forgiveness of sins:
->
-> <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
->
-> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
->
-> <sup>[17](/bible/colossians/1#v17)</sup> And he is before all things, and by him all things consist.
 
 - In whom we have redemption through his blood: Meaning Christ, even the forgiveness of sins.
 
+> <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
+>
+> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
+
 - All things were created by him, and for him: So the all things are the principalities, the powers, the dominions, all things visible and invisible in earth and in heaven. He didn't create his father. His father created him and then used him to create everything else. So the Messiah which is Christ is not the father. He is God the son. Okay? He is God the son not God the father.
+
+> <sup>[17](/bible/colossians/1#v17)</sup> And he is before all things, and by him all things consist.
 
 
 **[John 1:1-3](/bible/john/1#v1)**  *[[9:37](https://www.youtube.com/watch?v=jLBLavSsXkg&t=577s)]*
@@ -106,7 +106,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 **[Proverbs 8:22-31](/bible/proverbs/8#v22)**  *[[12:40](https://www.youtube.com/watch?v=jLBLavSsXkg&t=760s)]*
 
 > <sup>[22](/bible/proverbs/8#v22)</sup> The Lord possessed me in the beginning of his way, before his works of old.
->
+
+- The LORD possessed me in the beginning of his way: Now, watch this. Let's go to Proverbs 8. And I'm going to get off this particular question.
+
 > <sup>[23](/bible/proverbs/8#v23)</sup> I was set up from everlasting, from the beginning, or ever the earth was.
 >
 > <sup>[24](/bible/proverbs/8#v24)</sup> When there were no depths, I was brought forth; when there were no fountains abounding with water.
@@ -116,7 +118,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 > <sup>[26](/bible/proverbs/8#v26)</sup> While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.
 >
 > <sup>[27](/bible/proverbs/8#v27)</sup> When he prepared the heavens, I was there: when he set a compass upon the face of the depth:
->
+
+- When he prepared the heavens, I was there: Here it is. Listen. You hear this? When he prepared the heavens, I was there. So, somebody speaking and it ain't Solomon. Okay? Somebody's speaking through Solomon. It's wisdom speaking through Solomon and it's saying, "I was with God in the beginning before he created everything. I was there already." You understand?
+
 > <sup>[28](/bible/proverbs/8#v28)</sup> When he established the clouds above: when he strengthened the fountains of the deep:
 >
 > <sup>[29](/bible/proverbs/8#v29)</sup> When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:
@@ -124,10 +128,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 > <sup>[30](/bible/proverbs/8#v30)</sup> Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;
 >
 > <sup>[31](/bible/proverbs/8#v31)</sup> Rejoicing in the habitable part of his earth; and my delights were with the sons of men.
-
-- The LORD possessed me in the beginning of his way: Now, watch this. Let's go to Proverbs 8. And I'm going to get off this particular question.
-
-- When he prepared the heavens, I was there: Here it is. Listen. You hear this? When he prepared the heavens, I was there. So, somebody speaking and it ain't Solomon. Okay? Somebody's speaking through Solomon. It's wisdom speaking through Solomon and it's saying, "I was with God in the beginning before he created everything. I was there already." You understand?
 
 - And my delights were with the sons of men: So what in the world are we reading right here? We're reading about the son of God, Jesus Christ, being with the father in the beginning. The father created Christ and then Christ created everything else. And that's why you read scriptures where Christ will say, "There's none good but one, that is God. But if I would enter into life, keep the commandments. My father is greater than I. I can do nothing of myself. As I hear, I judge." Well, who talking to him? He talking to himself? That's how crazy Christianity make you sound. You'll show them a scripture and you say, "Well, was Christ talking to himself?" "Yes. It was the person of the Godhead, you know, in the triplet of the tree." Shut up. Shut up. You sound crazy. You sound crazy as hell. Bugged out. Okay, so stop the cap.
 
@@ -168,7 +168,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 **[Leviticus 23:27-32](/bible/leviticus/23#v27)**  *[[20:20](https://www.youtube.com/watch?v=jLBLavSsXkg&t=1220s)]*
 
 > <sup>[27](/bible/leviticus/23#v27)</sup> Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the Lord.
->
+
+- Ye shall afflict your souls: So day of atonement is a day that is designed for that particularly. You're supposed to fast on the day of atonement. It's a requirement. Okay. So that's different from the Passover in which you're commanded to actually eat. Okay.
+
+- So, we were going over a good question from one of the, I don't know if it's a brother or sister, was asking about fasting on the feast day. All right. So, certain feast days you can't fast. Okay. Day of Atonement is a feast day that's designed for it. So, that would be the feast day you want to fast. Now, you can fast on the weekly Sabbath because we fast on the weekly Sabbath. Actually, bi-weekly we do our fasting. So, you know, if you want to do that, you can do that.
+
 > <sup>[28](/bible/leviticus/23#v28)</sup> And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the Lord your God.
 >
 > <sup>[29](/bible/leviticus/23#v29)</sup> For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people.
@@ -178,10 +182,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 > <sup>[31](/bible/leviticus/23#v31)</sup> Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings.
 >
 > <sup>[32](/bible/leviticus/23#v32)</sup> It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath.
-
-- Ye shall afflict your souls: So day of atonement is a day that is designed for that particularly. You're supposed to fast on the day of atonement. It's a requirement. Okay. So that's different from the Passover in which you're commanded to actually eat. Okay.
-
-- So, we were going over a good question from one of the, I don't know if it's a brother or sister, was asking about fasting on the feast day. All right. So, certain feast days you can't fast. Okay. Day of Atonement is a feast day that's designed for it. So, that would be the feast day you want to fast. Now, you can fast on the weekly Sabbath because we fast on the weekly Sabbath. Actually, bi-weekly we do our fasting. So, you know, if you want to do that, you can do that.
 
 
 **[Zechariah 13:8](/bible/zechariah/13#v8)**  *[[22:43](https://www.youtube.com/watch?v=jLBLavSsXkg&t=1363s)]*
@@ -233,18 +233,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 > <sup>[10](/bible/matthew/13#v10)</sup> And the disciples came, and said unto him, Why speakest thou unto them in parables?
 >
 > <sup>[11](/bible/matthew/13#v11)</sup> He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.
->
+
+- But to them it is not given: Right? Everybody's not given the mysteries of the kingdom of heaven. Meaning God purposely did not... Christ purposely while he walked the earth did not want everybody to understand what he was going over. That's why he spoke in parables and then when he was alone with the disciples, what would he do? He would teach them what the parables meant. But everybody wasn't able to understand the parable. And you would say, well, why would Christ do that? Watch this. Keep reading.
+
 > <sup>[12](/bible/matthew/13#v12)</sup> For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.
 >
 > <sup>[13](/bible/matthew/13#v13)</sup> Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
 >
 > <sup>[14](/bible/matthew/13#v14)</sup> And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:
->
-> <sup>[15](/bible/matthew/13#v15)</sup> For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
-
-- But to them it is not given: Right? Everybody's not given the mysteries of the kingdom of heaven. Meaning God purposely did not... Christ purposely while he walked the earth did not want everybody to understand what he was going over. That's why he spoke in parables and then when he was alone with the disciples, what would he do? He would teach them what the parables meant. But everybody wasn't able to understand the parable. And you would say, well, why would Christ do that? Watch this. Keep reading.
 
 - And seeing ye shall see, and shall not perceive: So you will hear but not understand. You will see, but you will not perceive. Watch this.
+
+> <sup>[15](/bible/matthew/13#v15)</sup> For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
 
 - For this people's heart is waxed gross: Cuz this people's heart is wax gross. And their ears are dull of hearing.
 
@@ -288,29 +288,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 
 **[2 Maccabees 4:9-16](/bible/2-maccabees/4#v9)**  *[[41:44](https://www.youtube.com/watch?v=jLBLavSsXkg&t=2504s)]*
 
-> <sup>[9](/bible/2-maccabees/4#v9)</sup> Beside this, he promised to assign an hundred and fifty more, if he might have licence to set him up a place for exercise, and for the training up of youth in the fashions of the heathen, and to write them of Jerusalem by the name of Antiochians.
->
-> <sup>[10](/bible/2-maccabees/4#v10)</sup> Which when the king had granted, and he had gotten into his hand the rule, he forthwith brought his own nation to Greekish fashion.
->
-> <sup>[11](/bible/2-maccabees/4#v11)</sup> And the royal privileges granted of special favour to the Jews by the means of John the father of Eupolemus, who went ambassador to Rome for amity and aid, he took away; and putting down the governments which were according to the law, he brought up new customs against the law:
->
-> <sup>[12](/bible/2-maccabees/4#v12)</sup> For he built gladly a place of exercise under the tower itself, and brought the chief young men under his subjection, and made them wear a hat.
->
-> <sup>[13](/bible/2-maccabees/4#v13)</sup> Now such was the height of Greek fashions, and increase of heathenish manners, through the exceeding profaneness of Jason, that ungodly wretch, and no high priest;
->
-> <sup>[14](/bible/2-maccabees/4#v14)</sup> That the priests had no courage to serve any more at the altar, but despising the temple, and neglecting the sacrifices, hastened to be partakers of the unlawful allowance in the place of exercise, after the game of Discus called them forth;
->
-> <sup>[15](/bible/2-maccabees/4#v15)</sup> Not setting by the honours of their fathers, but liking the glory of the Grecians best of all.
->
-> <sup>[16](/bible/2-maccabees/4#v16)</sup> By reason whereof sore calamity came upon them: for they had them to be their enemies and avengers, whose custom they followed so earnestly, and unto whom they desired to be like in all things.
-
 - So organized sports come from the ancient Greeks: The Olympics comes from the ancient Greeks and our forefathers got caught up in that. Okay? They used our forefathers in order to push it because we're so athletically gifted because we're the greatest nation on earth.
+
+> <sup>[9](/bible/2-maccabees/4#v9)</sup> Beside this, he promised to assign an hundred and fifty more, if he might have licence to set him up a place for exercise, and for the training up of youth in the fashions of the heathen, and to write them of Jerusalem by the name of Antiochians.
 
 - If he might have licence to set him up a place for exercise, and for the training up of youth in the fashions of the heathen: Right, so this is a man named Jason. Okay, and Jason wanted to be the high priest. Okay, so he thought, "Well, let me take my people and let me get my people involved in Hellenistic customs, custom of sports and Greek fashions and things of that nature." All right, that's what he did. And it's because he wanted to be a high priest. So he asked for license to set up a place of exercise. This is what we know today as a gymnasium. Gymnasium means naked exercise. That's why everybody in the gym be half naked, no clothes on, shirts off. Back in the day, they literally used to work out butt naked, during the time of the Greeks, straight up, you understand? They used to work out butt naked. But they don't do that today. Thank God. But you still see people in there basically with no clothes on. The less the better. All right.
 
 - He forthwith brought his own nation to the Greekish fashion: Read with a little bit more spunk, a little bit more, you know, like you want to be here, please. I can read better for myself. Come on now. There it is. So this man wanted to have clout and power and be the high priest so bad that he went to the Greeks and said, "Look, I can bring the Jews, the Israelites, I can bring them into the Greek fashions. I can have them come and play sports and learn your ways and be good at it." And of course the mind of the Greeks was to assimilate us anyway. They were already on a campaign to assimilate the Israelites so that we wouldn't serve our God, so that our God would not fight for us. And that's the same thing they did to us in America. They assimilated us to American society so that our God would not fight for us. That's always been their intention, y'all. Okay?
 
+> <sup>[10](/bible/2-maccabees/4#v10)</sup> Which when the king had granted, and he had gotten into his hand the rule, he forthwith brought his own nation to Greekish fashion.
+>
+> <sup>[11](/bible/2-maccabees/4#v11)</sup> And the royal privileges granted of special favour to the Jews by the means of John the father of Eupolemus, who went ambassador to Rome for amity and aid, he took away; and putting down the governments which were according to the law, he brought up new customs against the law:
+
 - And putting down the governments which were according to the law, he brought up new customs against the law: So the law is talking about the law of God. They cast down our government, so that was our priests, our leaders, our diplomats, the people that stood up for us and kept us in line with the commandments. They got rid of them and said, "Look, get them out of here. Destroy them and bring up customs against the law." Watch this.
+
+> <sup>[12](/bible/2-maccabees/4#v12)</sup> For he built gladly a place of exercise under the tower itself, and brought the chief young men under his subjection, and made them wear a hat.
 
 - And brought the chief young men under his subjection: Now listen what he said. He brought the chief young men. Now I'm going to bring this up to today's time. This is recruiting. Okay? If your son can play... cuz I did this, this was my life. All right? So, you can't tell me nothing. When I was young playing sports, they would come to my high school to see me play. And then recruit me to play for their amateur athletic union team, which today we call AAU. And I would go play for these AAU teams. And college coaches would fill up the gym. You had college coaches from everywhere, NBA scouts, shoe brands, all of that. We even played for certain brands, Adidas, Reebok, Nike, so on and so forth.
 
@@ -318,15 +310,23 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 
 - That's why the owner make a whole bunch of money. The athletes make good money. Don't get me wrong, but he ain't making what the owner making. Why does he not make what the owner making? Because most time a NBA owner, that's his side hustle. Go look it up. Most NBA, NFL, MLB, most of them, that be their side hustle. That's not their everyday thing. That's why they just pass it on to their son. "Here, look, you run the NBA team. You run the sport. You run the tennis team. You run such and such. I ain't got time for it. I get more money in real estate." That's how Buss from the Lakers, that's how he got his start. He was a real estate mogul and he bought the Lakers for cheap. You understand? And turned them to what they was because he went and got Magic Johnson and Kareem Abdul-Jabbar and the greats, the chief young men. It's the same thing.
 
+> <sup>[13](/bible/2-maccabees/4#v13)</sup> Now such was the height of Greek fashions, and increase of heathenish manners, through the exceeding profaneness of Jason, that ungodly wretch, and no high priest;
+
 - Now such was the height of Greek fashions, and increase of heathenish manners: What do they mean? The so-called white man was the one especially during this time that walked around butt naked. We didn't do that. Our women were modest. Our men were modest. We were warriors. We didn't walk around butt naked, basically just in your draws and stuff. That's something we learned from the Greeks. We didn't exercise naked. Okay? Men didn't take showers together. That's stuff that they taught you in sports. So now everybody go, "Hey, the coach say hit the showers." And then you go in there and there's no individual stalls. It's just one open shower with grown ass men walking around looking at each other butt naked. That's what you see. That was never the Israelites' custom. We never did that. The Greeks made that a thing.
 
 - Through the exceeding profaneness of Jason, that ungodly wretch, and no high priest: And our forefather by the name of Jonathan, or excuse me, Jason, who wanted so badly to have money and fame and wealth and power, he sold his own brothers to the so-called white man to learn how to be Greekish fashion sports and now it's evolved into football, basketball, baseball, tennis, volleyball, track and field. I mean so on and so forth. It's the same thing. So now we all think it's a custom. I remember my little sister told me, I said, "Hey, you know, according to the Bible, you're supposed to wear a dress." "Well, why I got to wear a dress? I play basketball." That's what she told me. She said, "I can't wear a dress. I play basketball." I said, "Sister, you ain't listening to what I'm saying. The Bible said, God said you supposed to wear that." "Yeah, but I play ball, so I'mma wear it." You see the confusion? She like, "What? I don't understand," because our people done learned the ways of the Greeks. That's why she don't understand. That's why we ain't understood growing up.
 
+> <sup>[14](/bible/2-maccabees/4#v14)</sup> That the priests had no courage to serve any more at the altar, but despising the temple, and neglecting the sacrifices, hastened to be partakers of the unlawful allowance in the place of exercise, after the game of Discus called them forth;
+
 - After the game of Discus called them forth: They still do discus to this day. Discus is still a thing. You understand? And they do it in the Olympics. In Olympics, it's the same thing. The Olympic Games where all different countries come together and compete for the gold medal and the world title and all that stuff like that. Come from all over the world to play against each other. That ain't nothing new. They was doing that during the time of the Greeks. They were already doing the Olympics. You understand? So our forefathers said, "Well, we ain't going to serve God no more because it ain't cool to serve God. It's cool to be an athlete and to have a sculpture and to be a gladiator and things of that nature."
+
+> <sup>[15](/bible/2-maccabees/4#v15)</sup> Not setting by the honours of their fathers, but liking the glory of the Grecians best of all.
 
 - Not setting by the honours of their fathers, but liking the glory of the Grecians best of all: Right? We didn't want to be priests no more. We didn't want to be teachers no more. We didn't want to teach the Bible no more. We wanted to go and play sports and entertain our master. It's the same thing today. A lot of our people don't want to hear nothing about the Bible. A lot of our people don't want to go to church. When I say go to church, I mean on a Sabbath day, Saturday. Some people don't want to bring their kids into the truth. Not because they don't believe that this the truth, but because they want their son to play football on Friday night. They want their son to play basketball on Friday night. They want their son to play football on Saturday. When I played sports in college, college basketball, we played on Wednesdays and Saturdays like clockwork. Saturday was the premier game on ESPN. And you would see me running up and down the court. That's what we were taught. That's what we were taught. We were not taught that Saturday was the Sabbath day.
 
 - So if you, to go back to the sister question, if you decide that you want your children to play organized sports, just trust that they're going to have to break the commandments. If it's a girl, she not gonna be able to wear a modest dress. If it's a boy, he not going to be able to keep the Sabbath and new moons and the feast. And you know what? Satan has set it up so perfectly that the Passover will come up on the day that they got a state championship because the Passover is around the springtime when the state tournament is going on in basketball. So instead of you thinking of waking up in the morning saying, "Man, I can't wait for Passover," you wake up in the morning saying, "Man, I got to get my son to the game." You ain't even thinking about the Lord. You ain't thinking about keeping a Sabbath. You ain't thinking about nothing. Why? Because you done got your children involved in these sports and they done been influenced that that's what they need in order to survive in this life. Just saying. They fall in love with it. Then you try to break them from it and then they hate you. Now they hate their parents because you won't let them continue to play that sport. That's what that's saying.
+
+> <sup>[16](/bible/2-maccabees/4#v16)</sup> By reason whereof sore calamity came upon them: for they had them to be their enemies and avengers, whose custom they followed so earnestly, and unto whom they desired to be like in all things.
 
 - By reason whereof sore calamity came upon them: for they had them to be their enemies and avengers: So we know Esau is our enemy, but we want him to avenge us. We know that the so-called white man who is Esau according to the Bible, we know he has been an enemy to our race since the time that he came out of the Caucasus Mountains and even before that, if you go back into the Genesis, he been an enemy to the nation of Israel. But yet because of the sports, blur the lines to where you can't really see clearly because your teammate is a white boy and because your other teammate is an Arab, because your other teammate is a Chinese guy. You say, "You know what? We can come together as collective on one accord to play ball. Then we should be able to come together in life." Then you go to his house and his mom and dad is saying all kind of racist jokes. His mom and dad assume that you're an athlete. His mom and dad assume that you're a rapper. His mom and dad assume that your father's not around. "So, let me ask you this, John. Is your father in your life?" "Why you ask me that? Why you ask me that?" White people say racist stuff and then look at you crazy when you say, "Hey, that's racist. I don't appreciate that." "Oh my god. I was just asking, you know, a lot of your kind don't have their fathers in their life." And they don't think that that's offensive.
 
@@ -337,17 +337,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 
 **[Ephesians 5:22-24](/bible/ephesians/5#v22)**  *[[57:07](https://www.youtube.com/watch?v=jLBLavSsXkg&t=3427s)]*
 
-> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
->
-> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
->
-> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
-
 - Marriage biblically is not being practiced today: So, I want to show y'all something real quick because I want to deal with a few things. I want to show y'all a couple videos. I only got a few minutes, y'all, but I want to show just the end because we were answering questions, but I want to show you a few things at the end. Now, marriage, marriage biblically is not being practiced today. Okay? I'm going to show you what I mean by that. There has been a lot of speculation and a lot of propaganda pushed regarding our people and regarding marriage and how we supposed to properly conduct marriage and things of that nature. And a lot of our people are very confused.
+
+> <sup>[22](/bible/ephesians/5#v22)</sup> Wives, submit yourselves unto your own husbands, as unto the Lord.
 
 - Wives, submit yourselves unto your own husbands, as unto the Lord: So it says submit yourself unto your own husbands as unto the Lord.
 
+> <sup>[23](/bible/ephesians/5#v23)</sup> For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
+
 - For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body: Right. So the husband is in the state of Christ in your household. Because women say, "Well, I got my own relationship with the Lord." Well, the Bible say you got to go through your husband. But the modern marriage don't think that. The modern married black woman, Hispanic woman, they'll say, "No, I don't believe that." But the Bible says, "For the husband is the head of the wife, even as Christ is the head of the church and is the savior of the body." Watch this.
+
+> <sup>[24](/bible/ephesians/5#v24)</sup> Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
 
 - Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing: So just like the church is subject unto Christ, so let wives be subject to their own husbands in everything. A woman, a wife, is supposed to be subject to a husband. But then in today's society, "No you don't. No you don't. You don't have to be subject to your husband." That's what they'll tell you today. They say, "No, no, no, no. You ain't got to be subject to him. You ain't got to do what he tell you to do. You ain't got to do none of that." But that ain't in the Bible. That ain't in the scriptures.
 
@@ -367,20 +367,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 **[1 Peter 3:5-10](/bible/1-peter/3#v5)**  *[[1:03:58](https://www.youtube.com/watch?v=jLBLavSsXkg&t=3838s)]*
 
 > <sup>[5](/bible/1-peter/3#v5)</sup> For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:
->
-> <sup>[6](/bible/1-peter/3#v6)</sup> Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
->
-> <sup>[7](/bible/1-peter/3#v7)</sup> Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
->
-> <sup>[8](/bible/1-peter/3#v8)</sup> Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:
->
-> <sup>[9](/bible/1-peter/3#v9)</sup> Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.
->
-> <sup>[10](/bible/1-peter/3#v10)</sup> For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:
 
 - For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands: Read five for the Jezebel, please. Women in the past, your foremothers in the Bible, they adorned themselves by submission. That was the way that they showed that they love God, is by submitting to their husband. That's always been the way. Not the way these black women talking today. No, not that way. That ain't in the Bible. That ain't what God called you to do. You understand?
 
+> <sup>[6](/bible/1-peter/3#v6)</sup> Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
+
 - Even as Sara obeyed Abraham, calling him lord: Even as Sarah obeyed Abraham. I love that. Even as Sarah obeyed Abraham. What's she do? Calling him Lord. He called him Lord. And a lot of you women ain't ready for that. Y'all are not ready for that conversation. Sarah called her husband Lord.
+
+> <sup>[7](/bible/1-peter/3#v7)</sup> Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
 
 - Likewise, ye husbands, dwell with them according to knowledge: The husband supposed to dwell with the wife according to knowledge. What knowledge? The commandments. You supposed to teach your wife the commandments, y'all. That's your job, bro. That is your job. Teach your wife the commandments so she can walk right with Christ. So she can walk in the spirit and serve you like the king you supposed to be exemplifying. You supposed to be exemplifying the attributes of a man of God, of a king worthy of submission. And your wife is supposed to know how to submit to you. Where she learned that from the Bible? Through you showing her what the Bible says. Showing her what Sarah did, what Abraham did when he set his house in order.
 
@@ -390,9 +384,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 
 - That your prayers be not hindered: That your prayers be not hindered.
 
+> <sup>[8](/bible/1-peter/3#v8)</sup> Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:
+
 - Love as brethren, be pitiful, be courteous: So you love your wife and you be pitiful and you be courteous. So do we understand as men of the Most High when our wife need us to sit down with her? When our wife needs us to spend that time with them, that quality time, or you can feel it, like, you know when she really need your time. You know when she needs your time. Let me just say it like that. You know when nobody calling you. You know these things cuz you've been with her for a long time. You understand? You understand what the scriptures say about do benevolence. You understand what the scriptures say about feeding her as the weaker vessel. All of that. So it's not like we naive or we just want to just be mean to women. No, that's a lie. We are not mean to our wives. Do we get on their behind? Yes. When they wrong, we get on them. We correct them. We show them the scriptures. We guide them. That's what the Bible commanded us to do. It is what it is. She the weaker vessel and she needs correction. Not her correcting me. My wife don't wake up in the morning, "Let me find a reason to correct my husband." What? No. No. That's out of order. You out of order.
 
+> <sup>[9](/bible/1-peter/3#v9)</sup> Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.
+
 - Not rendering evil for evil, or railing for railing: Meaning she say something evil to you and then you retaliate by saying something evil. It's basically going to argue back and forth. We ain't called to argue back and forth with our wives. Women, you should not be arguing back and forth with your husband. You just shouldn't. You should not be going back and forth with him. You should not be putting your hands on him. Some of these women beating their husbands up, smacking their hood. I seen that on YouTube or Instagram the other day where the woman took a box of cereal and just dumped it on the dude head and punched him upside the head. But if he lost his cool and smacked her or punched her, he would have knocked her out. He could have unalived the woman just because of his anger. That's not a biblical marriage. Wives bragging about correcting their husbands, that's not a biblical marriage. That's a modern-day Christian black woman marriage. That's out of order. You out of order.
+
+> <sup>[10](/bible/1-peter/3#v10)</sup> For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:
 
 - Let him refrain his tongue from evil: Let it refrain. What she just said was wicked. Refrain your tongue from that. Some of you women grew up being single mothers. Some of you women grew up running your mouth, disrespecting men because you didn't have a positive male role model in your life. You didn't have a strong father in your life. Your mama was a Jezebel. Your mama was a strong independent black woman, whatever that means. So, you never learn how to refrain your tongue. You never learn how to keep your mouth shut. You don't speak to men like that. You don't disrespect men of God like that. You out of order, sister. And any woman that's clapping for that or egging that on, you out of order. You out of order. And you not walking in what a woman supposed to be.
 
@@ -401,35 +401,35 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 
 **[1 Samuel 1:12-18](/bible/1-samuel/1#v12)**  *[[1:12:32](https://www.youtube.com/watch?v=jLBLavSsXkg&t=4352s)]*
 
-> <sup>[12](/bible/1-samuel/1#v12)</sup> And it came to pass, as she continued praying before the Lord, that Eli marked her mouth.
->
-> <sup>[13](/bible/1-samuel/1#v13)</sup> Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
->
-> <sup>[14](/bible/1-samuel/1#v14)</sup> And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee.
->
-> <sup>[15](/bible/1-samuel/1#v15)</sup> And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the Lord.
->
-> <sup>[16](/bible/1-samuel/1#v16)</sup> Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.
->
-> <sup>[17](/bible/1-samuel/1#v17)</sup> Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him.
->
-> <sup>[18](/bible/1-samuel/1#v18)</sup> And she said, Let thine handmaid find grace in thy sight. So the woman went her way, and did eat, and her countenance was no more sad.
-
 - Hannah: I was going over this earlier, I sent this message out to some of the sisters in the congregation. Well, I sent it out on the chat for the sisters to see. And I want to show y'all something. Let me show you this exchange between a man and wife and then his wife and the high priest, or the priest at that time, named Eli. Now this woman name is Hannah. And Hannah couldn't have a baby. All right? She was trying to have a baby and she was barren. Her and her husband, they wanted a child. So she made a vow to God that if the Lord blessed her with a son that she would give her son to the Lord. Okay. So that's what we about to read about, that exchange of when this happened.
+
+> <sup>[12](/bible/1-samuel/1#v12)</sup> And it came to pass, as she continued praying before the Lord, that Eli marked her mouth.
 
 - That Eli marked her mouth: That's going into the priest. So the priest was listening as she was speaking.
 
+> <sup>[13](/bible/1-samuel/1#v13)</sup> Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
+
 - Therefore Eli thought she had been drunken: So, Eli thought she was drunk, but he's like, "I hear... I can't hear her voice, but I see her mouth moving. She must be drunk."
+
+> <sup>[14](/bible/1-samuel/1#v14)</sup> And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee.
 
 - How long wilt thou be drunken? put away thy wine from thee: He said, "How long you going to be drunk? Put that wine down. You need to put the wine down, woman. You tripping."
 
+> <sup>[15](/bible/1-samuel/1#v15)</sup> And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the Lord.
+
 - No, my lord, I am a woman of a sorrowful spirit: She said, "No, my Lord, I am a woman of a sorrowful spirit. I have drunk neither wine nor strong drink, but have poured out my soul before the Lord." You see how she was able to express herself in a respectful way? She said, "No, I'm not drunk. I'm just going through some things right now." She didn't get up in her feelings. She didn't crowd up in the corner, "Get out of my face. I don't want to talk," all that crap and emotion. No, no, no, no. The sister was real with it. She said, "Listen, this is what's going on with me. I'm not drunk. This is what's happening." And she was respectful about it.
+
+> <sup>[16](/bible/1-samuel/1#v16)</sup> Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.
 
 - Count not thine handmaid for a daughter of Belial: Belial mean the devil. She said, "Don't count me as the devil."
 
 - For out of the abundance of my complaint and grief have I spoken hitherto: "I'm going through some things. I have a complaint and grief because I want a son." That's what she said. I want a son.
 
+> <sup>[17](/bible/1-samuel/1#v17)</sup> Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him.
+
 - Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him: Now, if she was disrespectful to Eli, who was a priest, do you think he would have told her that? If she had been disrespectful in her delivery, if she was trying to rule over him, emasculate him, be a masculine woman with a masculine spirit, do you think Eli would have been as humble as he was? They said, "No, no, no. Hey, I pray the Lord bless y'all. Go in peace and may the Lord bless you for, you know, for that spirit you got, the thing that you asking for."
+
+> <sup>[18](/bible/1-samuel/1#v18)</sup> And she said, Let thine handmaid find grace in thy sight. So the woman went her way, and did eat, and her countenance was no more sad.
 
 - And her countenance was no more sad: And she was no more sad. You see that situation, that exchange right there? That's how a black woman, an Israelite woman, is supposed to deal with men in authority and supposed to deal with her husband, through submission. You got to hold your tongue. You got to know how to speak. Some of y'all women don't know how to speak to men. Y'all disrespectful. And you wonder why brothers don't want to be with you. You wonder why some of these whoremongering men that already don't have good self-control anyway be out here cheating. Some dudes don't cheat because they're a dog. Some dudes cheat cuz they tired of your ish. And should they cheat? No. The Bible says that a man is supposed to be faithful. If he sleep with a woman, he's supposed to marry her. You only supposed to have one wife. The Bible say that. But a lot of brothers, they ain't built like that. They ain't learned the scriptures.
 
@@ -441,20 +441,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 **[Titus 2:3-8](/bible/titus/2#v3)**  *[[1:19:04](https://www.youtube.com/watch?v=jLBLavSsXkg&t=4744s)]*
 
 > <sup>[3](/bible/titus/2#v3)</sup> The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;
->
-> <sup>[4](/bible/titus/2#v4)</sup> That they may teach the young women to be sober, to love their husbands, to love their children,
->
-> <sup>[5](/bible/titus/2#v5)</sup> To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
->
-> <sup>[6](/bible/titus/2#v6)</sup> Young men likewise exhort to be sober minded.
->
-> <sup>[7](/bible/titus/2#v7)</sup> In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
->
-> <sup>[8](/bible/titus/2#v8)</sup> Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 
 - The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things: The aged women likewise.
 
+> <sup>[4](/bible/titus/2#v4)</sup> That they may teach the young women to be sober, to love their husbands, to love their children,
+
 - That they may teach the young women to be sober: So the elder woman is supposed to teach the young women to be sober because they also have a good example. The elder woman set a good example and she teach the young women how to be sober. Have sober thoughts. Now sobriety is not just not drinking liquor, not drinking wine or smoking weed. I had to go over this with my wife the other day. Sobriety is thinking godly thoughts. When you want to argue with a man, when you want to get in a man face and you had a thought that you going to put hands on that man or you going to curse that man out, if you sober minded, you going to clear your mind of that. If your mind ain't sober, if you got worldly carnal thoughts, guess what? You going to do what your flesh telling you to do. So, sobriety is not just being abstinent from drinking alcohol or smoking marijuana. Sobriety is the mindset. You're supposed to have a sober mind.
+
+> <sup>[5](/bible/titus/2#v5)</sup> To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
 
 - To love their husbands, to love their children, to be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed: So, a woman got to learn how to be obedient to her husband. She don't know. When a woman first get married, she don't know. She got to learn because you got to learn him. You got to learn what he like, his dos, his don'ts, what he like to eat, what side of the bed he like to sleep on, where he like the AC, how he respond to conflict, what's his love language. You got to learn all that. Your job on this earth, woman, is to love your husband and to bring forth his children into this earth and to guide those children and guide the young women that's going to come after you on how to love their sons, love their daughters. That's your job, to keep the generations going, to educate. That's your job.
 
@@ -462,9 +456,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "marriage-family", "passover-feas
 
 - Some of you women, I done seen women be in relationship with men for 19 years. The white man got to tell you to get married. The white man has to say, "Look, y'all common law married." What kind of crap is that? Common law marriage. What are we doing here? Have we fallen that low as the black community to where the white man got to make you say you married to him? Horrible. Absolutely horrible. And we going to fix it with the word of God. We going to fix it.
 
+> <sup>[6](/bible/titus/2#v6)</sup> Young men likewise exhort to be sober minded.
+>
+> <sup>[7](/bible/titus/2#v7)</sup> In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,
+
 - Young men likewise exhort to be sober minded. In all things shewing thyself a pattern of good works: Show yourself a pattern of good works.
 
 - In doctrine shewing uncorruptness, gravity, sincerity: You got to be sincere in this thing. I'm getting on the women right now, for you sisters, because of that video we showed. But that go for the men, too. We have to be sober. We have to show a pattern of good works and doctrine. We got to show uncorrupt. We cannot be corrupt in doctrine. We must be grave, meaning serious, and we must be sincere.
+
+> <sup>[8](/bible/titus/2#v8)</sup> Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 
 - Sound speech, that cannot be condemned: And listen, we can condemn what that... The Bible say speech that cannot be condemned. Sound speech that cannot be condemned.
 

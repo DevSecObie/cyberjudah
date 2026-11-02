@@ -50,12 +50,12 @@ Reading from an on-screen post by Philip King  *[[0:48](https://www.youtube.com/
 **[Deuteronomy 28:45-46](/bible/deuteronomy/28#v45)**  *[[2:15](https://www.youtube.com/watch?v=N_g8W7w0yr0&t=135s)]*
 
 > <sup>[45](/bible/deuteronomy/28#v45)</sup> Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the Lord thy God, to keep his commandments and his statutes which he commanded thee:
->
-> <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
 
 - Moreover all these curses: all these what? All these curses.
 
 - Till thou be destroyed: until what? Till thou be destroyed.
+
+> <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
 
 - And they shall be upon thee for a sign: these curses shall be upon the children of Israel. What? For a sign.
 
@@ -125,15 +125,15 @@ Reading from an on-screen page, "Herod the Great, an Edomite, Rules Palestine"  
 
 **[Matthew 17:24-26](/bible/matthew/17#v24)**  *[[9:11](https://www.youtube.com/watch?v=N_g8W7w0yr0&t=551s)]*
 
+- Let's get further proof that they were in captivity.
+
 > <sup>[24](/bible/matthew/17#v24)</sup> And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?
 >
 > <sup>[25](/bible/matthew/17#v25)</sup> He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
->
-> <sup>[26](/bible/matthew/17#v26)</sup> Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
-
-- Let's get further proof that they were in captivity.
 
 - Of whom do the kings of the earth take custom or tribute? of their own children, or of strangers: do you take custom or tribute of your own people or strangers?
+
+> <sup>[26](/bible/matthew/17#v26)</sup> Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
 
 - Peter saith unto him, Of strangers: Peter said we take custom of strangers when you in rulership.
 
@@ -143,18 +143,18 @@ Reading from an on-screen page, "Herod the Great, an Edomite, Rules Palestine"  
 **[Matthew 22:17-21](/bible/matthew/22#v17)**  *[[10:17](https://www.youtube.com/watch?v=N_g8W7w0yr0&t=617s)]*
 
 > <sup>[17](/bible/matthew/22#v17)</sup> Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cesar, or not?
->
-> <sup>[18](/bible/matthew/22#v18)</sup> But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?
->
-> <sup>[19](/bible/matthew/22#v19)</sup> Shew me the tribute money. And they brought unto him a penny.
->
-> <sup>[20](/bible/matthew/22#v20)</sup> And he saith unto them, Whose is this image and superscription?
->
-> <sup>[21](/bible/matthew/22#v21)</sup> They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s.
 
 - Is it lawful to give tribute unto Cesar, or not: is it lawful to give taxes unto Caesar? They was trying to catch him up.
 
+> <sup>[18](/bible/matthew/22#v18)</sup> But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?
+>
+> <sup>[19](/bible/matthew/22#v19)</sup> Shew me the tribute money. And they brought unto him a penny.
+
 - Shew me the tribute money: hold on. Do what? Show me the tribute money.
+
+> <sup>[20](/bible/matthew/22#v20)</sup> And he saith unto them, Whose is this image and superscription?
+>
+> <sup>[21](/bible/matthew/22#v21)</sup> They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s.
 
 - Render therefore unto Cesar the things which are Cesar's; and unto God the things that are God's: so he said, look at this money. Is that our image on the money? No. What is he showing you? Captivity. Slaves.
 
@@ -178,6 +178,8 @@ Reading from an on-screen description of the Roman denarius  *[[11:08](https://w
 
 **[Luke 1:68-74](/bible/luke/1#v68)**  *[[12:05](https://www.youtube.com/watch?v=N_g8W7w0yr0&t=725s)]*
 
+- These are not hard sayings that we're reading here. But because our people do not read the Bible with their eyes open, because we think we all one people, you don't understand it. You don't get it. Just like you black people today think you free here in America. You're not free. This is not your land. You were brought here as slaves.
+
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
 >
 > <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
@@ -185,16 +187,14 @@ Reading from an on-screen description of the Roman denarius  *[[11:08](https://w
 > <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
 >
 > <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
->
+
+- That we should be saved from our enemies: who was he speaking about? The other nations. Why would they need to be saved? Why would he understand that? Because they knew when Christ came, to be freed from what? Roman rule.
+
 > <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
 >
 > <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 >
 > <sup>[74](/bible/luke/1#v74)</sup> That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,
-
-- These are not hard sayings that we're reading here. But because our people do not read the Bible with their eyes open, because we think we all one people, you don't understand it. You don't get it. Just like you black people today think you free here in America. You're not free. This is not your land. You were brought here as slaves.
-
-- That we should be saved from our enemies: who was he speaking about? The other nations. Why would they need to be saved? Why would he understand that? Because they knew when Christ came, to be freed from what? Roman rule.
 
 - That we being delivered out of the hand of our enemies: that we being delivered out of the hand of our enemies, because at that time the Romans were ruling over them.
 
@@ -240,10 +240,10 @@ Reading from an on-screen description of the Roman denarius  *[[11:08](https://w
 **[John 11:47-48](/bible/john/11#v47)**  *[[16:25](https://www.youtube.com/watch?v=N_g8W7w0yr0&t=985s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
->
-> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - For this man doeth many miracles: this man doeth many miracles.
+
+> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - And the Romans shall come and take away both our place and nation: then the Romans, the physical people of the Romans, will do what? They will come and take away both our place and nation. Hold on. The Romans were going to come and take away their place and nation if they didn't handle Christ the way they needed to. Showing what? They had to answer to somebody else, and they were worried about that.
 
@@ -259,13 +259,13 @@ Reading from an on-screen description of the Roman denarius  *[[11:08](https://w
 
 **[John 8:32-33](/bible/john/8#v32)**  *[[17:54](https://www.youtube.com/watch?v=N_g8W7w0yr0&t=1074s)]*
 
-> <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
->
-> <sup>[33](/bible/john/8#v33)</sup> They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?
-
 - This is the same spirit that's on the earth today. Our people don't accept that we are in slavery, that we are in captivity. But it's evident as you read throughout the scriptures. Back then, it's the same today.
 
+> <sup>[32](/bible/john/8#v32)</sup> And ye shall know the truth, and the truth shall make you free.
+
 - And the truth shall make you free: Christ said, "Hey, the truth is going to make you free, cuz right now we slaves."
+
+> <sup>[33](/bible/john/8#v33)</sup> They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?
 
 - We be Abraham's seed, and were never in bondage to any man: they thought they weren't in bondage, just like the Negro I posted at the start of this video. He said they weren't in slavery. It's a spiritual thing. No, Christ showed you different. The disciples showed you different.
 

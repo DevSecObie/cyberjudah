@@ -33,12 +33,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "s
 **[Titus 2:11-12](/bible/titus/2#v11)**  *[[1:29](https://www.youtube.com/watch?v=vHc-HFURqxQ&t=89s)]*
 
 > <sup>[11](/bible/titus/2#v11)</sup> For the grace of God that bringeth salvation hath appeared to all men,
->
-> <sup>[12](/bible/titus/2#v12)</sup> Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
 
 - For the grace of God that bringeth salvation: Grace bringeth forth salvation.
 
 - hath appeared to all men: To all Israelite men.
+
+> <sup>[12](/bible/titus/2#v12)</sup> Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
 
 - Teaching us that: Grace is supposed to teach you something, brothers and sisters. What is grace supposed to teach us?
 
@@ -58,10 +58,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "s
 **[Romans 6:1-2](/bible/romans/6#v1)**  *[[2:33](https://www.youtube.com/watch?v=vHc-HFURqxQ&t=153s)]*
 
 > <sup>[1](/bible/romans/6#v1)</sup> What shall we say then? Shall we continue in sin, that grace may abound?
->
-> <sup>[2](/bible/romans/6#v2)</sup> God forbid. How shall we, that are dead to sin, live any longer therein?
 
 - Shall we continue in sin, that grace may abound: So wait a minute. The Bible just said, Should we continue sinning so we could remain under grace?
+
+> <sup>[2](/bible/romans/6#v2)</sup> God forbid. How shall we, that are dead to sin, live any longer therein?
 
 - God forbid: Paul said, No, you got to keep the law.
 
@@ -73,16 +73,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "s
 **[Romans 6:12-14](/bible/romans/6#v12)**  *[[3:19](https://www.youtube.com/watch?v=vHc-HFURqxQ&t=199s)]*
 
 > <sup>[12](/bible/romans/6#v12)</sup> Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
->
-> <sup>[13](/bible/romans/6#v13)</sup> Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.
->
-> <sup>[14](/bible/romans/6#v14)</sup> For sin shall not have dominion over you: for ye are not under the law, but under grace.
 
 - Let not sin therefore reign in your mortal body: Remember what verse one said: Shall we continue in sin that grace may abound? No. Now it says, Let not sin therefore reign in your mortal body.
 
 - that ye should obey it in the lusts thereof: That ye should obey your flesh, and deep dive into your flesh, and go into your sin.
 
+> <sup>[13](/bible/romans/6#v13)</sup> Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.
+
 - but yield yourselves unto God: To do that, you must stop sinning. Meaning you got to keep the law.
+
+> <sup>[14](/bible/romans/6#v14)</sup> For sin shall not have dominion over you: for ye are not under the law, but under grace.
 
 - For sin shall not have dominion over you: What did the Bible say? For sin shall not have dominion over you. So in order for sin not to have dominion over you, brothers and sisters, what you got to do? You got to keep the commandments of God. Simple stuff.
 
@@ -157,10 +157,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "s
 **[Romans 3:23-24](/bible/romans/3#v23)**  *[[9:02](https://www.youtube.com/watch?v=vHc-HFURqxQ&t=542s)]*
 
 > <sup>[23](/bible/romans/3#v23)</sup> For all have sinned, and come short of the glory of God;
->
-> <sup>[24](/bible/romans/3#v24)</sup> Being justified freely by his grace through the redemption that is in Christ Jesus:
 
 - and come short of the glory of God: We all come short of the glory of God.
+
+> <sup>[24](/bible/romans/3#v24)</sup> Being justified freely by his grace through the redemption that is in Christ Jesus:
 
 - Being justified freely by his grace: Being justified freely by what? By his grace. By Christ's grace.
 
@@ -203,14 +203,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "s
 **[Ephesians 2:8-9](/bible/ephesians/2#v8)**  *[[11:23](https://www.youtube.com/watch?v=vHc-HFURqxQ&t=683s)]*
 
 > <sup>[8](/bible/ephesians/2#v8)</sup> For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
->
-> <sup>[9](/bible/ephesians/2#v9)</sup> Not of works, lest any man should boast.
 
 - through faith: Through what? Through faith. Through Christ.
 
 - and that not of yourselves: Not of yourselves, brothers. So, it's not how many times you sacrifice. It's not you sacrificing a lamb and giving it to Levi to atone for sins, and you good. No, it's not of yourselves.
 
 - it is the gift of God: So, Christ is that gift of God.
+
+> <sup>[9](/bible/ephesians/2#v9)</sup> Not of works, lest any man should boast.
 
 - Not of works: Not of works. Not of yourselves. Not of works.
 
@@ -240,8 +240,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "s
 **[Ephesians 2:8-9](/bible/ephesians/2#v8)**  *[[14:25](https://www.youtube.com/watch?v=vHc-HFURqxQ&t=865s)]*
 
 > <sup>[8](/bible/ephesians/2#v8)</sup> For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
->
-> <sup>[9](/bible/ephesians/2#v9)</sup> Not of works, lest any man should boast.
 
 - For by grace are ye saved: So by grace, by the keeping of the commandments, like we read in Titus 2, and denying ungodliness in this present world. By grace are ye saved.
 
@@ -250,6 +248,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith", "purpose", "sabbath", "s
 - and that not of yourselves: It's not of yourselves. It's not how many times you atone through sacrifice.
 
 - it is the gift of God: Christ is the gift of God. That grace is a gift. That's the only way we're going to get the kingdom, is through Christ, not sacrifice. Not, you can't keep the commandments enough. But you need to keep the commandments. If that makes sense. You understand? You can't keep the commandments without having faith in Christ. I'll say it like that.
+
+> <sup>[9](/bible/ephesians/2#v9)</sup> Not of works, lest any man should boast.
 
 - Not of works: Not of works. We just read the works: the sacrificing, the atoning for the sins, the sin offering, the burnt offering, the continual offerings on the Sabbath and the new moons. Not of works.
 

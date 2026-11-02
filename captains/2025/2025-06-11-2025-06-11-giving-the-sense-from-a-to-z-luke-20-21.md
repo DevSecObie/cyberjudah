@@ -25,12 +25,12 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[Luke 20:19-20](/bible/luke/20#v19)**  *[[2:53](https://www.youtube.com/watch?v=iDnm_FW49uY&t=173s)]*
 
 > <sup>[19](/bible/luke/20#v19)</sup> And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
->
-> <sup>[20](/bible/luke/20#v20)</sup> And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
 
 - And the chief priests and the scribes the same hour sought to lay hands on him: Who's the him? Christ.
 
 - For they perceived that he had spoken this parable against them: So, Christ had gave the parable. They knew that he was talking about them, right?
+
+> <sup>[20](/bible/luke/20#v20)</sup> And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
 
 - Sent forth spies, which should feign themselves just men: So, now they got heated cuz they know that this is about him. They want to put hands on him. So, they put spies in there that fake like they were what? That they were just men. That they were people looking to follow him, right? Follow Christ.
 
@@ -59,10 +59,10 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[Isaiah 28:9-10](/bible/isaiah/28#v9)**  *[[6:16](https://www.youtube.com/watch?v=iDnm_FW49uY&t=376s)]*
 
 > <sup>[9](/bible/isaiah/28#v9)</sup> Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
->
-> <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
 
 - Whom shall he teach knowledge: Let's go to Isaiah. Chapter 28. We know this. Precept upon precept. We understand this but we got to keep going through this verse. Sisters, we have to keep putting this into our minds so we never forget it. All right? Whom shall he, this is the Lord, teach knowledge? Knowledge the laws, right?
+
+> <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
 
 - For precept must be upon precept: Precept upon precept, line upon line, line upon line, here a little, there a little, right? This is what Christ was doing. When he's coming in he's giving the understanding, right? He's going precept upon precept, right?
 
@@ -108,12 +108,12 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[Matthew 5:27-28](/bible/matthew/5#v27)**  *[[13:23](https://www.youtube.com/watch?v=iDnm_FW49uY&t=803s)]*
 
 > <sup>[27](/bible/matthew/5#v27)</sup> Ye have heard that it was said by them of old time, Thou shalt not commit adultery:
->
-> <sup>[28](/bible/matthew/5#v28)</sup> But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 
 - Ye have heard that it was said by them of old time: And this is a good one to use because you might say to yourself, why was Christ even having to talk about this when this was in the law already? Why was he even bringing this stuff up? Now you know, he had to do what? He had to magnify the law. He had to give the understanding because the people they just they were out to lunch. Remember, at this time, a lot of people were doing what? They were committing sins and then coming with their sacrifices to just, oh yeah, I stole something. Let me just come and sacrifice my thing and then be done with it. You understand?
 
 - By them of old time, Thou shalt not commit adultery: He said, "Them of old time." Remember, Christ was the one giving the law, right? But he understands who he's talking to, so he's talking about the forefathers. He's saying, "Them of old time." Right? And that's what? Exodus 20 and 14. Right? That what? That's when the law was established. Thou shalt not commit adultery, right?
+
+> <sup>[28](/bible/matthew/5#v28)</sup> But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 
 - Whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart: So, now he had to give the understanding on adultery. It ain't just, "Oh, you actually laid down with her." It starts earlier than that. So, he's trying to make them know, "You got to take a hold of your flesh from now." Don't even start gazing at this woman to start feeling some type of way about it. So, now he's bringing a deeper understanding. He's magnifying the law. So, now it just started as, "Oh, thou shalt not commit adultery." Now, it's, you know they said, "Don't commit adultery." But, I'm telling you that if you even look upon the woman to lust after her, that what? You have committed adultery already in your heart. Why did he say that?
 
@@ -154,10 +154,10 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[Numbers 15:38-39](/bible/numbers/15#v38)**  *[[20:17](https://www.youtube.com/watch?v=iDnm_FW49uY&t=1217s)]*
 
 > <sup>[38](/bible/numbers/15#v38)</sup> Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:
->
-> <sup>[39](/bible/numbers/15#v39)</sup> And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the Lord, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:
 
 - That they make them fringes in the borders of their garments: And this is why the Lord said this, right? Cuz he made us wear fringes for a reason. And we wear them all the time, but we forget what it's actually about, right?
+
+> <sup>[39](/bible/numbers/15#v39)</sup> And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the Lord, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:
 
 - That ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes: Your own heart, your own mind, and your own eyes. You see that? "After which you used to go a whoring." What else we need? Because once we start to look and lust, that's what we start to run after. This is clear. Y'all got to understand. We don't have any excuse. You see, right? So, we got to play it tight, y'all. We got to play it tight. All right?
 
@@ -174,23 +174,23 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[Deuteronomy 24:1-3](/bible/deuteronomy/24#v1)**  *[[21:40](https://www.youtube.com/watch?v=iDnm_FW49uY&t=1300s)]*
 
 > <sup>[1](/bible/deuteronomy/24#v1)</sup> When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house.
->
-> <sup>[2](/bible/deuteronomy/24#v2)</sup> And when she is departed out of his house, she may go and be another man’s wife.
->
-> <sup>[3](/bible/deuteronomy/24#v3)</sup> And if the latter husband hate her, and write her a bill of divorcement, and giveth it in her hand, and sendeth her out of his house; or if the latter husband die, which took her to be his wife;
 
 - Because he hath found some uncleanness in her: Now, when it says he found uncleanness, they're not talking about fornication. They're not talking about adultery. They're talking about something that he doesn't like about her anymore, right? A lot of marriages break down like that because people just get angry with each other. I don't like the way she cooks. I don't like the way he keeps throwing his stuff around. He's not making enough money. Whatever, right? And drama kicks off. So, at this time people was coming forth saying, "Well, I don't like this. I don't like that. I don't like that." And it was so crazy. All right, give her a bill of divorcement. Right?
 
+> <sup>[2](/bible/deuteronomy/24#v2)</sup> And when she is departed out of his house, she may go and be another man’s wife.
+
 - She may go and be another man's wife: Since when? When is that happening? You understand? What we about to read, let's just follow along. And if the latter husband hate her and write her a bill of divorcement. I don't even think I want that for. I might not even want that for. I don't know. Let's stop there. I don't want to give too much on that. That's what I want for now. And when she is departed out of his house, she may go and be another man's wife, right? Okay, cool.
+
+> <sup>[3](/bible/deuteronomy/24#v3)</sup> And if the latter husband hate her, and write her a bill of divorcement, and giveth it in her hand, and sendeth her out of his house; or if the latter husband die, which took her to be his wife;
 
 
 **[Matthew 5:31-32](/bible/matthew/5#v31)**  *[[23:49](https://www.youtube.com/watch?v=iDnm_FW49uY&t=1429s)]*
 
 > <sup>[31](/bible/matthew/5#v31)</sup> It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:
->
-> <sup>[32](/bible/matthew/5#v32)</sup> But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
 
 - It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement: That's where it was coming from, Deuteronomy 24.
+
+> <sup>[32](/bible/matthew/5#v32)</sup> But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
 
 - Saving for the cause of fornication, causeth her to commit adultery: So, what we just read in Deuteronomy 24 that you could give her a bill of divorcement regardless cuz you just find something unclean and then she become another man's. No. That's what Christ is saying. It was said before that you could give a bill of divorcement, but if she ain't commit fornication, you can't divorce her. He had to now give understanding on marriage. Why? We're going to find out.
 
@@ -204,20 +204,20 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 > <sup>[5](/bible/matthew/19#v5)</sup> And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?
 >
 > <sup>[6](/bible/matthew/19#v6)</sup> Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.
->
-> <sup>[7](/bible/matthew/19#v7)</sup> They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?
->
-> <sup>[8](/bible/matthew/19#v8)</sup> He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.
->
-> <sup>[9](/bible/matthew/19#v9)</sup> And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.
 
 - Wherefore they are no more twain, but one flesh: Meaning they're not two people anymore, they're one.
 
 - What therefore God hath joined together, let not man put asunder: When he's saying let not man put asunder, he's talking about those people involved. Meaning the husband and wife. Let not man put asunder. They can't put it asunder. They can't break it. Right?
 
+> <sup>[7](/bible/matthew/19#v7)</sup> They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?
+
 - Why did Moses then command to give a writing of divorcement: Because that should be all of our questions. If we really reading this Bible for real and we really in this, why would we not question that? This is a great question.
 
+> <sup>[8](/bible/matthew/19#v8)</sup> He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.
+
 - Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so. So, what is that telling you? That at the time Moses, right? He has all these people under him. Everybody's complaining. My wife does that. Moses went and an amendment was made to the law. In order to do what? To have some semblance of the lack of misery. Just to make things go smoothly. It was so crazy. So Moses said, all right, you can divorce your wife. But these are the rules by which divorce is going, so on and so forth. Boom, boom, boom. Now when Christ enters the scene, he says, no. He only did that because y'all are hard-hearted and you don't have love in your heart for your people really. You don't love your wife, you know what I mean? And this is what it is. So he had to do that in order to just not drive him crazy. Basically.
+
+> <sup>[9](/bible/matthew/19#v9)</sup> And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.
 
 - Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: So now Christ is making it clear. We're not worrying about Deuteronomy 24 no more, y'all. What I'm telling you, this is what it is. That before that, oh, just get rid of her for no reason. She didn't commit fornication. You don't like her. You can't deal with her, so on and so forth, or whatever. Then no. That's your wife, right? Now, there are other circumstances and things like that. We'll leave that alone. We're talking about men who were just getting rid of their wife for basically nothing. That's what we're talking about. Not some extreme thing without adultery, right? Cuz there's situations that are so crazy, but there's no adultery, but it's insane, right? That y'all can think about whatever that might be. But the point is, he's trying to let people know, if ain't no adultery going on, you ain't coming in here talking about your wife can't cook and now I got to divorce her. That's not happening. Right?
 
@@ -242,12 +242,12 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[Matthew 19:10-12](/bible/matthew/19#v10)**  *[[30:52](https://www.youtube.com/watch?v=iDnm_FW49uY&t=1852s)]*
 
 > <sup>[10](/bible/matthew/19#v10)</sup> His disciples say unto him, If the case of the man be so with his wife, it is not good to marry.
->
+
+- If the case of the man be so with his wife, it is not good to marry: Right? So, now the disciples are saying, "Damn. So, I can't get rid of my wife for just them little things no more cuz they be getting on my damn nerves, right?" So, he said, "If that's the case, it ain't even good to marry." Watch this. Look what Christ said.
+
 > <sup>[11](/bible/matthew/19#v11)</sup> But he said unto them, All men cannot receive this saying, save they to whom it is given.
 >
 > <sup>[12](/bible/matthew/19#v12)</sup> For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it.
-
-- If the case of the man be so with his wife, it is not good to marry: Right? So, now the disciples are saying, "Damn. So, I can't get rid of my wife for just them little things no more cuz they be getting on my damn nerves, right?" So, he said, "If that's the case, it ain't even good to marry." Watch this. Look what Christ said.
 
 - There are some eunuchs, which were so born from their mother's womb: So, now y'all know what a eunuch is. One where his rod is off or so he's saying with this one, the ones that are born eunuchs, they were born where their rod wasn't there, right? They're males, but they're not born with a working rod, whatever the case may be, right?
 
@@ -281,37 +281,37 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[Matthew 12:3-4](/bible/matthew/12#v3)**  *[[36:11](https://www.youtube.com/watch?v=iDnm_FW49uY&t=2171s)]*
 
 > <sup>[3](/bible/matthew/12#v3)</sup> But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;
->
-> <sup>[4](/bible/matthew/12#v4)</sup> How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
 
 - Have ye not read what David did, when he was an hungred, and they that were with him: He's talking about King David.
+
+> <sup>[4](/bible/matthew/12#v4)</sup> How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
 
 - How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat: neither for them which were with him, but only for the priests, right? Let's get that real quick. Let's get that because and then we're going to get some understanding on that, right?
 
 
 **[1 Samuel 21:1-6](/bible/1-samuel/21#v1)**  *[[36:48](https://www.youtube.com/watch?v=iDnm_FW49uY&t=2208s)]*
 
+- He's talking about David eating the showbread, right? That only the priests are supposed to eat, right?
+
 > <sup>[1](/bible/1-samuel/21#v1)</sup> Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?
 >
 > <sup>[2](/bible/1-samuel/21#v2)</sup> And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed my servants to such and such a place.
->
-> <sup>[3](/bible/1-samuel/21#v3)</sup> Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present.
->
-> <sup>[4](/bible/1-samuel/21#v4)</sup> And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
->
-> <sup>[5](/bible/1-samuel/21#v5)</sup> And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
->
-> <sup>[6](/bible/1-samuel/21#v6)</sup> So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.
-
-- He's talking about David eating the showbread, right? That only the priests are supposed to eat, right?
 
 - The king hath commanded me a business: The king he's talking about is Saul, right?
 
+> <sup>[3](/bible/1-samuel/21#v3)</sup> Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present.
+
 - Give me five loaves of bread in mine hand, or what there is present: So now he went to the priest cuz he was hungry. They were hungry. He went to the priest and said, "Let me get five loaves of bread. What's under your hand, right there? Whatever you got there. Whatever you have available, give it to me."
+
+> <sup>[4](/bible/1-samuel/21#v4)</sup> And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
 
 - There is no common bread under mine hand, but there is hallowed bread: He said, "Yo, I don't have no regular bread to give you. But there is a hollowed bread." Y'all heard that? It's a holy bread here.
 
 - If the young men have kept themselves at least from women: He said, "Listen, I got some hollowed bread here, but your guys please at least tell me they ain't hit nothing in the last few days or whatever the case may be, right?" What he said? "Kept themselves at least from women." They haven't been sleeping with no women. Right?
+
+> <sup>[5](/bible/1-samuel/21#v5)</sup> And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
+>
+> <sup>[6](/bible/1-samuel/21#v6)</sup> So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.
 
 - So the priest gave him hallowed bread: for there was no bread there but the showbread. So, David and them actually ate the bread that only the priest is supposed to eat. Regular people not supposed to be touching that bread. But what? The priest said, "All right. I can see." He knows who David is. He's like, "All right, they hungry. What, I'm not going to feed them? What, I'm going to be up under David's sword?" Like, it's not happening. "We going to give them the food." That's why he said, "At least tell me that these guys ain't sleeping with no women. At least make me feel better about it." Right?
 
@@ -349,10 +349,10 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[Numbers 28:9-10](/bible/numbers/28#v9)**  *[[44:38](https://www.youtube.com/watch?v=iDnm_FW49uY&t=2678s)]*
 
 > <sup>[9](/bible/numbers/28#v9)</sup> And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour for a meat offering, mingled with oil, and the drink offering thereof:
->
-> <sup>[10](/bible/numbers/28#v10)</sup> This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.
 
 - And on the sabbath day two lambs of the first year without spot: I'm sorry, y'all. I apologize. I wrote down the wrong thing. It's actually chapter 28. I'm sorry for the lull in the action, right? So, it's chapter 28 verse 9, right?
+
+> <sup>[10](/bible/numbers/28#v10)</sup> This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.
 
 - This is the burnt offering of every sabbath: Right, so that's what we wanted, besides the continual burnt offering and his drink offering, right? But we want to specify the Sabbath, how they had that burnt offering they actually had to cook, right?
 
@@ -384,11 +384,9 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 
 **[Luke 20:21-22](/bible/luke/20#v21)**  *[[48:54](https://www.youtube.com/watch?v=iDnm_FW49uY&t=2934s)]*
 
-> <sup>[21](/bible/luke/20#v21)</sup> And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
->
-> <sup>[22](/bible/luke/20#v22)</sup> Is it lawful for us to give tribute unto Cesar, or no?
-
 - So, now let's go back to Luke chapter 20. We finally going back to Luke, y'all. Like almost an hour later, we finally going back to Luke, right? I'm sorry about that, y'all, right? Okay, so we in Luke chapter 20 and verse 21. We're going to read that back over again, right?
+
+> <sup>[21](/bible/luke/20#v21)</sup> And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
 
 - But teachest the way of God truly: Right? So, we seen that.
 
@@ -396,14 +394,16 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 
 - Is it lawful for us to give tribute unto Caesar: But they asking him a dumb question cuz they want him to answer stupidly. They want him to look like a rebel, right?
 
+> <sup>[22](/bible/luke/20#v22)</sup> Is it lawful for us to give tribute unto Cesar, or no?
+
 
 **[Matthew 17:24-25](/bible/matthew/17#v24)**  *[[49:36](https://www.youtube.com/watch?v=iDnm_FW49uY&t=2976s)]*
 
 > <sup>[24](/bible/matthew/17#v24)</sup> And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?
->
-> <sup>[25](/bible/matthew/17#v25)</sup> He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
 
 - Doth not your master pay tribute: So, now here they come, right? "Does not your master pay tribute?" They again with the foolishness, right? They trying to catch him.
+
+> <sup>[25](/bible/matthew/17#v25)</sup> He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
 
 - Of whom do the kings of the earth take custom or tribute? of their own children, or of strangers: Right? So, now they went to Peter asking Peter, "Does Christ pay his taxes?" When Peter now goes inside, Christ is asking him now, "Who do the kings of the earth take taxes from or tribute from? Their own children or strangers," right?
 
@@ -461,10 +461,10 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 > <sup>[20](/bible/1-kings/9#v20)</sup> And all the people that were left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which were not of the children of Israel,
 >
 > <sup>[21](/bible/1-kings/9#v21)</sup> Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day.
->
-> <sup>[22](/bible/1-kings/9#v22)</sup> But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.
 
 - Upon those did Solomon levy a tribute of bondservice unto this day: So, they were paying taxes to us, right?
+
+> <sup>[22](/bible/1-kings/9#v22)</sup> But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.
 
 - But of the children of Israel did Solomon make no bondmen: but they were men of war. You see that? Remember what Christ asked, when the kings of the earth take tribute, do they take it from strangers or take it from their own? Right? We see it right here. Solomon, who was the king at that time, he took tribute from everybody. But he didn't take it from his own. Y'all see that? He didn't take it from his own cuz he was the king. No, everybody's going to feed us, right? So we understood that. Let's go a little further. We're going to run through all this. Y'all take notes. You know we like to kill flies with sledgehammers around here, right?
 
@@ -472,7 +472,9 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 **[2 Kings 23:29-35](/bible/2-kings/23#v29)**  *[[56:13](https://www.youtube.com/watch?v=iDnm_FW49uY&t=3373s)]*
 
 > <sup>[29](/bible/2-kings/23#v29)</sup> In his days Pharaoh–nechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.
->
+
+- And king Josiah went against him; and he slew him at Megiddo: So Josiah went up against the Pharaoh, got knocked off, right? He got killed.
+
 > <sup>[30](/bible/2-kings/23#v30)</sup> And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.
 >
 > <sup>[31](/bible/2-kings/23#v31)</sup> Jehoahaz was twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother’s name was Hamutal, the daughter of Jeremiah of Libnah.
@@ -480,31 +482,29 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 > <sup>[32](/bible/2-kings/23#v32)</sup> And he did that which was evil in the sight of the Lord, according to all that his fathers had done.
 >
 > <sup>[33](/bible/2-kings/23#v33)</sup> And Pharaoh–nechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.
->
-> <sup>[34](/bible/2-kings/23#v34)</sup> And Pharaoh–nechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
->
-> <sup>[35](/bible/2-kings/23#v35)</sup> And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give it unto Pharaoh–nechoh.
-
-- And king Josiah went against him; and he slew him at Megiddo: So Josiah went up against the Pharaoh, got knocked off, right? He got killed.
 
 - And put the land to a tribute of an hundred talents of silver, and a talent of gold: So Pharaoh came in and put what? The land into tribute. We had to pay taxes.
 
+> <sup>[34](/bible/2-kings/23#v34)</sup> And Pharaoh–nechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
+
 - And turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt and died there, right? So, he changed his name. I want to read this part.
+
+> <sup>[35](/bible/2-kings/23#v35)</sup> And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give it unto Pharaoh–nechoh.
 
 - But he taxed the land to give the money according to the commandment of Pharaoh: So, guess what? Jehoiakim had to tax Israel now. Although he was the king of Israel, he had to tax Israel because we was underneath the auspices of Egypt. So, now we had to pay taxes in order to do what? Pay Egypt. Y'all understand that? Whoever's the king is going to be taking tribute of the other nations, all right? And so, these priests already knew that. They're trying to trap Christ and make him say, "No, we shouldn't pay taxes to Caesar." That's what they want. But, we're going to keep reading cuz we have to do this, right?
 
 
 **[Ezra 4:11-13](/bible/ezra/4#v11)**  *[[58:25](https://www.youtube.com/watch?v=iDnm_FW49uY&t=3505s)]*
 
+- I ain't going to keep y'all too much longer, y'all. We ain't going to stay too much longer.
+
 > <sup>[11](/bible/ezra/4#v11)</sup> This is the copy of the letter that they sent unto him, even unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time.
 >
 > <sup>[12](/bible/ezra/4#v12)</sup> Be it known unto the king, that the Jews which came up from thee to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations.
->
-> <sup>[13](/bible/ezra/4#v13)</sup> Be it known now unto the king, that, if this city be builded, and the walls set up again, then will they not pay toll, tribute, and custom, and so thou shalt endamage the revenue of the kings.
-
-- I ain't going to keep y'all too much longer, y'all. We ain't going to stay too much longer.
 
 - Building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations: Right? So, this is when we were rebuilding Jerusalem. And he said, "They're building that evil city again, right? And now they have put the walls together. They got everything cracking now." So now they upset, they writing letters to the king, right? Of Persia, right?
+
+> <sup>[13](/bible/ezra/4#v13)</sup> Be it known now unto the king, that, if this city be builded, and the walls set up again, then will they not pay toll, tribute, and custom, and so thou shalt endamage the revenue of the kings.
 
 - Then will they not pay toll, tribute, and custom, and so thou shalt endamage the revenue of the kings: So they saying that these guys if they get their thing together and have their own little thing going on, they not going to pay taxes and going to endanger our bread. So now they trying to do what? They trying to appeal to the king that they not going to receive taxes from the Israelites, so please let's kill them. That's really what's happening, right?
 
@@ -518,10 +518,10 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 > <sup>[18](/bible/ezra/4#v18)</sup> The letter which ye sent unto us hath been plainly read before me.
 >
 > <sup>[19](/bible/ezra/4#v19)</sup> And I commanded, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and that rebellion and sedition have been made therein.
->
-> <sup>[20](/bible/ezra/4#v20)</sup> There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid unto them.
 
 - And it is found that this city of old time hath made insurrection against kings: Watch this.
+
+> <sup>[20](/bible/ezra/4#v20)</sup> There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid unto them.
 
 - There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid unto them: This part we want. Right? So it's letting you know that when the Israelites was ruling and we gained control over all countries tribute was paid. What's the point of all of this? To show that Christ already knew that these were the rules of engagement. It's no such thing as, "Oh, should we pay taxes?" That don't have nothing to do. Yeah, you got to pay the taxes, because we underneath captivity. Cuz when we was ruling, everybody had to pay us. We already know what it is. Y'all understand? Trying to catch them up.
 
@@ -530,41 +530,41 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 
 **[Esther 10:1-3](/bible/esther/10#v1)**  *[[1:01:26](https://www.youtube.com/watch?v=iDnm_FW49uY&t=3686s)]*
 
+- We ain't got that much more. I just want to make sure we killing a fly with a sledgehammer. Y'all got all this, right? King Ahasuerus. This is who they were writing that letter to. Remember when we were reading before and it said the letter was written. This is who they were writing to, right? Well, no no. That was Artaxerxes, my bad. Yeah, that was Artaxerxes. My apologies. I think I messed up on that, y'all. Apologies.
+
 > <sup>[1](/bible/esther/10#v1)</sup> And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.
->
+
+- And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea: So, after all of this, Ahasuerus went back and taxed everybody, even the islands. He had to send men to go get that money from the islands. "Oh, yeah, we here to get that bread." Okay, here we go. Y'all understand? I just wanted to bring all of that out for y'all to see, right?
+
 > <sup>[2](/bible/esther/10#v2)</sup> And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?
 >
 > <sup>[3](/bible/esther/10#v3)</sup> For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.
-
-- We ain't got that much more. I just want to make sure we killing a fly with a sledgehammer. Y'all got all this, right? King Ahasuerus. This is who they were writing that letter to. Remember when we were reading before and it said the letter was written. This is who they were writing to, right? Well, no no. That was Artaxerxes, my bad. Yeah, that was Artaxerxes. My apologies. I think I messed up on that, y'all. Apologies.
-
-- And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea: So, after all of this, Ahasuerus went back and taxed everybody, even the islands. He had to send men to go get that money from the islands. "Oh, yeah, we here to get that bread." Okay, here we go. Y'all understand? I just wanted to bring all of that out for y'all to see, right?
 
 
 **[Matthew 17:25-27](/bible/matthew/17#v25)**  *[[1:02:36](https://www.youtube.com/watch?v=iDnm_FW49uY&t=3756s)]*
 
 > <sup>[25](/bible/matthew/17#v25)</sup> He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
->
-> <sup>[26](/bible/matthew/17#v26)</sup> Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
->
-> <sup>[27](/bible/matthew/17#v27)</sup> Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
 
 - Of their own children, or of strangers: So, we know they take it of the strangers.
 
+> <sup>[26](/bible/matthew/17#v26)</sup> Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
+
 - Then are the children free: When you ain't paying taxes, that only means that you in the kingdom. Y'all are ruling. So, right now, we ain't ruling, we got to pay.
+
+> <sup>[27](/bible/matthew/17#v27)</sup> Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
 
 - Notwithstanding, lest we should offend them: So, he's saying, "When you find that money, pay our taxes, both mine and yours, because we don't want to offend them. Cuz if we offend them, what's going to happen? We're going to get prosecuted, we're going to jail." Y'all understand? Christ ain't about that foolishness.
 
 
 **[Romans 13:1-2](/bible/romans/13#v1)**  *[[1:04:08](https://www.youtube.com/watch?v=iDnm_FW49uY&t=3848s)]*
 
-> <sup>[1](/bible/romans/13#v1)</sup> Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
->
-> <sup>[2](/bible/romans/13#v2)</sup> Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
-
 - This is why all this stuff was written in here for us. Right? Back then, they didn't have all the LLCs and all that loopholes all y'all got to be flying through and not paying. That's how Donald Trump, they was like, "Oh, Donald Trump, he never paid taxes, whatever." Yeah, he wasn't paying no taxes. He didn't have to because they had loopholes. He would open up a company for a couple years, shut it down, open it up under a different name, shut it down a couple years, so he never was paying the taxes. Right? Things like that. Right? But, that's different. They didn't have all that during this time. They had to hurry up and pay or feel the pain.
 
+> <sup>[1](/bible/romans/13#v1)</sup> Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
+
 - Let every soul be subject unto the higher powers: Y'all see that? That's what they were looking for, finding a way to show that he wasn't being subject unto Caesar. Right?
+
+> <sup>[2](/bible/romans/13#v2)</sup> Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
 
 - And they that resist shall receive to themselves damnation: You see? That's the point. What are they resisting? They're going to pay. That's why Christ said, "Yo, lest we offend them, we're going to pay." Right?
 
@@ -599,13 +599,13 @@ tags: ["15 Minutes w/ The Captains", "sabbath", "sexual-purity", "the-law", "wom
 
 **[Hosea 14:1-2](/bible/hosea/14#v1)**  *[[1:07:40](https://www.youtube.com/watch?v=iDnm_FW49uY&t=4060s)]*
 
-> <sup>[1](/bible/hosea/14#v1)</sup> O Israel, return unto the Lord thy God; for thou hast fallen by thine iniquity.
->
-> <sup>[2](/bible/hosea/14#v2)</sup> Take with you words, and turn to the Lord: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.
-
 - But also this. And I love this scripture because it says a lot. What we rendering up to God. This is what the Lord looking for, right?
 
+> <sup>[1](/bible/hosea/14#v1)</sup> O Israel, return unto the Lord thy God; for thou hast fallen by thine iniquity.
+
 - For thou hast fallen by thine iniquity: Right? By our sins have we fallen.
+
+> <sup>[2](/bible/hosea/14#v2)</sup> Take with you words, and turn to the Lord: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.
 
 - So will we render the calves of our lips: Right? So, we just talked about those sacrifices that was the tribute, but what is the Lord really truly looking for is that tribute of what? What we just said right here. Bring the sacrifice, render, bring the sacrifice, the calves, meaning what? That lamb that you would, that baby lamb that you would use for a sacrifice, the Lord is now saying, "Bring the calves of your lips, the sacrifices of your lips." Meaning what? Come and confess your sins. All right? That's what that's talking about. That's what we have to give to the Lord, right? So, the same thing. There's no more animal sacrifice, but you sacrificing doing what? Bringing, rendering the calves of your lips. Okay?
 

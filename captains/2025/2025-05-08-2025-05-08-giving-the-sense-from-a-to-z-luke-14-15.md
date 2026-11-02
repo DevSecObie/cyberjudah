@@ -41,10 +41,10 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "sabbath", "salvation"]
 **[Luke 14:16-17](/bible/luke/14#v16)**  *[[7:03](https://www.youtube.com/watch?v=eJOTHNoanFg&t=423s)]*
 
 > <sup>[16](/bible/luke/14#v16)</sup> Then said he unto him, A certain man made a great supper, and bade many:
->
-> <sup>[17](/bible/luke/14#v17)</sup> And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.
 
 - A certain man made a great supper, and bade many: So this is once again a parable of the kingdom of heaven. Christ gave a lot of parables about the kingdom of heaven and what it was like. He likened it unto a grain of mustard seed. The kingdom of heaven is like a vineyard. The kingdom of heaven is like a man that had a wedding and bid many guests to the wedding. All right.
+
+> <sup>[17](/bible/luke/14#v17)</sup> And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.
 
 - Come; for all things are now ready: The kingdom of heaven, he said it is now ready. So he sent his servants out. That's what time it is today.
 
@@ -103,24 +103,24 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "sabbath", "salvation"]
 **[Matthew 10:34-39](/bible/matthew/10#v34)**  *[[16:06](https://www.youtube.com/watch?v=eJOTHNoanFg&t=966s)]*
 
 > <sup>[34](/bible/matthew/10#v34)</sup> Think not that I am come to send peace on earth: I came not to send peace, but a sword.
->
+
+- I came not to send peace, but a sword: Christ didn't come for the jolly Rick James aura. Come on in, let me help you out. No. Christ came to send a sword. Why is he going to send a sword? Because it's judgment. Right now, you'll have time to get it together. Right now, he sent his servants out. Like I said in Luke 14 and verse 17, he's sending his servants out right now. The time to get yourself together is right now. Now, we have to get ourselves together. Why? Because he's not coming back for peace. He got murdered. He got put to death by Rome and wicked Israel. The chief priests, scribes, and Pharisees. They was consenting to his death from jump. And you think he coming back to hug people? And those same people that killed him, them same people going to be alive when he come back. They going to see him who they have pierced. That's what the scriptures say.
+
 > <sup>[35](/bible/matthew/10#v35)</sup> For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
 >
 > <sup>[36](/bible/matthew/10#v36)</sup> And a man’s foes shall be they of his own household.
->
-> <sup>[37](/bible/matthew/10#v37)</sup> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
->
-> <sup>[38](/bible/matthew/10#v38)</sup> And he that taketh not his cross, and followeth after me, is not worthy of me.
->
-> <sup>[39](/bible/matthew/10#v39)</sup> He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.
-
-- I came not to send peace, but a sword: Christ didn't come for the jolly Rick James aura. Come on in, let me help you out. No. Christ came to send a sword. Why is he going to send a sword? Because it's judgment. Right now, you'll have time to get it together. Right now, he sent his servants out. Like I said in Luke 14 and verse 17, he's sending his servants out right now. The time to get yourself together is right now. Now, we have to get ourselves together. Why? Because he's not coming back for peace. He got murdered. He got put to death by Rome and wicked Israel. The chief priests, scribes, and Pharisees. They was consenting to his death from jump. And you think he coming back to hug people? And those same people that killed him, them same people going to be alive when he come back. They going to see him who they have pierced. That's what the scriptures say.
 
 - A man's foes shall be they of his own household: Why are those people going to be your foe, your enemy? Your enemies are going to be they of your own household. Why? Because you ain't coming around them for Christmas no more. You doing what the Bible actually says to do. You telling your mom, "Mama, you know you're not supposed to wear pants." Yeah, I know. I know. Mama, when you gonna start keeping the commandments? When I feel like it. Stop. Stop asking me. I'mma do it on my own time. Cuz people think that they got forever to go and they don't. Your little brother that don't want to keep the commandments. You trying to get him to come in. Trying to get him to come in, but he's letting all of the cares of the world swallow him up. Your sister, your in-laws. This ain't no different.
 
 - Of his own household: That's why everybody that coming to the truth got the same type of story. Yeah, man. You know, I tried to tell my people and they say I'm in the coat. Why everybody use that same verbiage? Oh, you in the coat. But then you start to ask them what that mean. They don't know what the hell it mean. That's just a trigger word to throw out there. Oh, you in a coat. You in a coat. Why? Because what I'm doing is strange to you. So, I'm in a coat. We actually do what the Bible says to do. And now there's a great awakening happening in the earth. Now everybody questioning their pastor. And after the pastors can't answer nothing, what you think is going to happen after that? Our death. Because behind the pastors is the theology school. And who run them theology schools? Esau. Now we coming at their doctrine. Their doctrine that they use to make us docile and dumb and ignorant to what's going on in the world.
 
+> <sup>[37](/bible/matthew/10#v37)</sup> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
+>
+> <sup>[38](/bible/matthew/10#v38)</sup> And he that taketh not his cross, and followeth after me, is not worthy of me.
+
 - He that taketh not his cross, and followeth after me, is not worthy of me: When it says take your cross, this is not talking about just you got fired from your job, your family coming at you. When Christ took up his cross, it was to his death. He was nailed on that thing that he had to carry. That thing that he had to carry ultimately led to his death. And here you got people that are going to church for their whole life. They won't even put down a cigarette. They won't remove Christmas and New Year's from their celebrations. And you expect us to believe that you going to put your life on the line for Christ. You'll die for Christ. No, you wouldn't. Cuz the Christ that you see looks like a Caucasian man. We not doing that. Nah. This generation, the new generation, you got these dudes that's walking around with Draco in their book bag and all kind of stuff. These dudes ain't about to follow no white person to say salvation. It ain't going to happen. That's why the prophets are needed today.
+
+> <sup>[39](/bible/matthew/10#v39)</sup> He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.
 
 - He that loseth his life for my sake shall find it: You try to run and hide. Amen. It's time to go teach your people. Hey, well, I had just got married. You know, I just got married. I'm going to show you where they get that from. I just got married. I just bought a house. I just bought some oxen. I just bought a house. I just bought a car. I just bought some of this, some of that. I'm going to show you where they get it from.
 
@@ -134,12 +134,12 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "sabbath", "salvation"]
 **[Deuteronomy 20:5-7](/bible/deuteronomy/20#v5)**  *[[22:20](https://www.youtube.com/watch?v=eJOTHNoanFg&t=1340s)]*
 
 > <sup>[5](/bible/deuteronomy/20#v5)</sup> And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.
->
+
+- What man is there that hath built a new house, and hath not dedicated it: This is where they get it from. Remember the dude said, "I just bought a house. I can't go." That was his excuse.
+
 > <sup>[6](/bible/deuteronomy/20#v6)</sup> And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it.
 >
 > <sup>[7](/bible/deuteronomy/20#v7)</sup> And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.
-
-- What man is there that hath built a new house, and hath not dedicated it: This is where they get it from. Remember the dude said, "I just bought a house. I can't go." That was his excuse.
 
 - Lest he die in the battle, and another man take her: This is all going into physical war. We are not going to physical war anymore. That's why Christ used all of those excuses in the New Testament because in the Old Testament, you had land, you had a wife, and you had houses. You had to dedicate those things. Those things had to be solidified to be yours before you go into battle. You marry a wife. You ain't even laid with her yet and you die. You haven't even consummated your marriage and yet you got put to death. Your wife didn't even get pregnant by you yet and yet you went and got put to death. Your name is blotted out of Israel. There's no more seed going to your name no more. So what happens to your inheritance? It got to go to somebody else. To eliminate that: nah, you just got married. Go home and get your wife pregnant. You just got a house. Make sure that you dedicate that house, that it's in your name. You just bought lands. Go plant the vineyard. Eat the fruit of your, enjoy your vineyard. We ain't got that now. The weapons out of our warfare, not corner.
 
@@ -147,10 +147,10 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "sabbath", "salvation"]
 **[2 Corinthians 10:4-5](/bible/2-corinthians/10#v4)**  *[[24:52](https://www.youtube.com/watch?v=eJOTHNoanFg&t=1492s)]*
 
 > <sup>[4](/bible/2-corinthians/10#v4)</sup> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
->
-> <sup>[5](/bible/2-corinthians/10#v5)</sup> Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
 
 - The weapons of our warfare are not carnal: So it's not about going to physical war. We are not in physical war. Reiterate that. We are not in physical war. We're in spiritual war with imaginations, thought processes that hold our people down.
+
+> <sup>[5](/bible/2-corinthians/10#v5)</sup> Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
 
 - Casting down imaginations: White Jesus is an imagination. Christmas is an imagination. Foundational black American is an imagination. I could do whatever I want to do. That's an imagination. It's about your personal relationship with God. That's an imagination.
 
@@ -169,14 +169,14 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "sabbath", "salvation"]
 **[Matthew 19:27-29](/bible/matthew/19#v27)**  *[[28:37](https://www.youtube.com/watch?v=eJOTHNoanFg&t=1717s)]*
 
 > <sup>[27](/bible/matthew/19#v27)</sup> Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
->
-> <sup>[28](/bible/matthew/19#v28)</sup> And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
->
-> <sup>[29](/bible/matthew/19#v29)</sup> And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.
 
 - What shall we have therefore: And with our people, you can't just take everything from them and give them nothing. There always has to be a give and take. Cuz a lot of times our people won't even give arms unless they know that they can get something back. That's why a lot of people don't give. They don't give because they don't see a return. But there is. There is a return on your owns. You just don't see it yet. You probably extended your life. You probably delivered yourself from some wickedness that was coming your way. You don't know. I don't know. But all I know is the scriptures say arms deliver from sin. There can no good come to him that giveth no arms.
 
 - Behold, we have forsaken all, and followed thee: So the disciples were like, "Look, we forsook everything." Remember a couple of them, they was at work. They was fishing. He was like, "Yo, come follow me." And they left everybody. "Yo, come follow me." And they left. They left their jobs. They left their wives. And I don't mean that they left their wives that they got divorced. No. Meaning they wasn't up under their wife's skirt all day. They wasn't hugging their mama leg all day. They wasn't laid up all day. They wasn't maxing and relaxing all day. No. Christ said, "Come follow me. This is what you got to do." They said, "All right. Well, this what we going to do." And they did it. They went forth and they did the work that Christ told them to do.
+
+> <sup>[28](/bible/matthew/19#v28)</sup> And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
+>
+> <sup>[29](/bible/matthew/19#v29)</sup> And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.
 
 - Shall receive an hundredfold, and shall inherit everlasting life: Everlasting life. You get everlasting life. They got people that may have had siblings. They grew up with their siblings. But they siblings, they in all manner of wickedness. The Lord called them into this truth. So they think, "Damn, I just lost my brothers, my sisters." But then you come into this truth. And you gain thousands of brothers and sisters. Some people are older. They come in, they lose they son, they children. They don't want to come into this truth. But yet they come into this truth and they got thousands more sons and daughters, young people that look up to them for their life experience. They may be young in the spirit and you may have to teach them the scriptures cuz they mind ain't as sharp as ours, but they still got life experience. They've been married 40 years, they could tell you some stuff. They've been married 25, 30 years, they could tell you some stuff. Everybody can learn from each other.
 
@@ -193,12 +193,12 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "sabbath", "salvation"]
 > <sup>[44](/bible/acts/13#v44)</sup> And the next sabbath day came almost the whole city together to hear the word of God.
 >
 > <sup>[45](/bible/acts/13#v45)</sup> But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
->
-> <sup>[46](/bible/acts/13#v46)</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
 
 - When the Jews saw the multitudes, they were filled with envy: The Jews are Judah, Benjamin, and Levi. Jew is short for Judah. All 12 tribes are not called Jews.
 
 - Contradicting and blaspheming: So the Jews, when Paul started to deliver the word to northern kingdom aka the kingdom of Israel, because they had the kingdom of Judah and they had the kingdom of Israel.
+
+> <sup>[46](/bible/acts/13#v46)</sup> Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
 
 - It was necessary that the word of God should first have been spoken to you: Meaning Zechariah 12:7, he going to raise up the tents of Judah first. Judah was going to be the first one to get the word.
 
@@ -238,10 +238,10 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "sabbath", "salvation"]
 **[Luke 14:22-23](/bible/luke/14#v22)**  *[[39:05](https://www.youtube.com/watch?v=eJOTHNoanFg&t=2345s)]*
 
 > <sup>[22](/bible/luke/14#v22)</sup> And the servant said, Lord, it is done as thou hast commanded, and yet there is room.
->
-> <sup>[23](/bible/luke/14#v23)</sup> And the lord said unto the servant, Go out into the highways and hedges, and compel them to come in, that my house may be filled.
 
 - And yet there is room: So he went out, found the people, still there was more room.
+
+> <sup>[23](/bible/luke/14#v23)</sup> And the lord said unto the servant, Go out into the highways and hedges, and compel them to come in, that my house may be filled.
 
 - Compel them to come in, that my house may be filled: So first he went out and then some people came in, but there was still more room. So he said, "Go out and compel them." Compel goes into force. Matter of fact, let me see if I could pull up the definition of compel real quick.
 
@@ -273,20 +273,20 @@ Reading from Definition of compel (source not named on air)  *[[39:05](https://w
 **[Proverbs 1:24-28](/bible/proverbs/1#v24)**  *[[43:27](https://www.youtube.com/watch?v=eJOTHNoanFg&t=2607s)]*
 
 > <sup>[24](/bible/proverbs/1#v24)</sup> Because I have called, and ye refused; I have stretched out my hand, and no man regarded;
->
-> <sup>[25](/bible/proverbs/1#v25)</sup> But ye have set at nought all my counsel, and would none of my reproof:
->
-> <sup>[26](/bible/proverbs/1#v26)</sup> I also will laugh at your calamity; I will mock when your fear cometh;
->
-> <sup>[27](/bible/proverbs/1#v27)</sup> When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.
->
-> <sup>[28](/bible/proverbs/1#v28)</sup> Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:
 
 - Because I have called, and ye refused: Because it said not all of them that were bidden will taste of my supper. And this is why a lot of the people that were bidden to the feast are not going to taste of his supper.
 
 - I have stretched out my hand: So he stretched his hand out in this time of grace and supplication. He's stretching his hand out right now. That's what the prophets are going to do. That's why the bishops and the deacons, that's why they getting so much exposure right now. The Lord is causing all of that. It ain't nothing that we doing ourselves. The Lord is opening up doors of utterance and we are speaking. As the door is open, the prophets are speaking and everybody starts to take notice. So right now his hand is stretched forth like, "Hey, the time is coming. Come on in. Repent of your ways. Make sure you get yourself together." And what's going to happen when we don't listen?
 
+> <sup>[25](/bible/proverbs/1#v25)</sup> But ye have set at nought all my counsel, and would none of my reproof:
+>
+> <sup>[26](/bible/proverbs/1#v26)</sup> I also will laugh at your calamity; I will mock when your fear cometh;
+
 - I also will laugh at your calamity: Remember he said those that were bidden, they're not going to taste of my supper. And he's going to laugh when they get destroyed.
+
+> <sup>[27](/bible/proverbs/1#v27)</sup> When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.
+>
+> <sup>[28](/bible/proverbs/1#v28)</sup> Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:
 
 - Then shall they call upon me, but I will not answer: Soon as black people start getting in trouble, that's the one time we want to call on the Lord. That's why those people that were bidden of Christ in this parable in Luke 14:15 on down, they wasn't in distress. They wasn't in anguish. They wasn't dealing with no problems. So they said, "Nah, I mean, I know that you said that, but you know, I got a house that I got to go take care of. I got a wife. I got, you know, I got some stuff to do. You know, I'mma come. I'mma come, but first I gotta do this real quick. Yeah. Yeah. I'mma be there. I'mma be there." We hear that a lot on the street. Yeah. Yeah. I'mma be there. I'mma come. I'mma come. Oh, you going to come? When you coming? You know, I'll be there. I'll be there. A lot of times I ask, "Are you sure? How you know you going to be there? How you know you going to be here tomorrow?" Then they get uncomfortable. They want to walk off. Ah, I got to go. All right. Okay.
 
@@ -312,10 +312,10 @@ Reading from Definition of compel (source not named on air)  *[[39:05](https://w
 **[Luke 14:27-28](/bible/luke/14#v27)**  *[[49:42](https://www.youtube.com/watch?v=eJOTHNoanFg&t=2982s)]*
 
 > <sup>[27](/bible/luke/14#v27)</sup> And whosoever doth not bear his cross, and come after me, cannot be my disciple.
->
-> <sup>[28](/bible/luke/14#v28)</sup> For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?
 
 - Whosoever doth not bear his cross, and come after me, cannot be my disciple: Meaning, you got to be willing to die for this truth. You're going to die anyway. Public service announcement. Public service announcement. You're going to die anyway. All of us are going to die. Do you want to die being on the right hand of God or do you want to die being on the left hand of God where God is angry with you?
+
+> <sup>[28](/bible/luke/14#v28)</sup> For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?
 
 - Counteth the cost, whether he have sufficient to finish it: So you got to count the cost. You really got to look at your life and be like, "Okay, what can I really give up?" Some of us can give up everything. There are others that, you know, it's going to be difficult. Some of us didn't really grow up close with our family like that. We didn't grow up with that family bond that a lot of people have. So when it came for time for our family to hear the truth and they rejected it, it was nothing for us to be like, "All right, whatever. You don't want to follow it, but this is what I'm doing." It may have come up in our upbringing or whatever you want to call it, but some people it's easier than others. Other people, it's like they got such a tight knit with their family that it's just really a stumbling block for them. They can't just let them go. That's their burden that they have to deal with. You understand?
 
@@ -349,10 +349,10 @@ Reading from Definition of compel (source not named on air)  *[[39:05](https://w
 **[Luke 14:30-31](/bible/luke/14#v30)**  *[[54:50](https://www.youtube.com/watch?v=eJOTHNoanFg&t=3290s)]*
 
 > <sup>[30](/bible/luke/14#v30)</sup> Saying, This man began to build, and was not able to finish.
->
-> <sup>[31](/bible/luke/14#v31)</sup> Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?
 
 - This man began to build, and was not able to finish: Like, damn, bro. You couldn't even. I thought for sure you was going to go to the end with that Israelite stuff. I thought for sure that was going to be you.
+
+> <sup>[31](/bible/luke/14#v31)</sup> Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?
 
 - Whether he be able with ten thousand to meet him that cometh against him with twenty thousand: Because there was times in our history, you could read Gideon's army, they started out with tens of thousands, ended up with only 300. Same thing with Judah Maccabee. He said, "Look, it's nothing for the Lord to shut up many in the hands of a few. It's nothing." You can consult like, "Look, how many warriors we got? We got 10,000. Okay, they highly skilled. They got 20,000, man. Each one of my men can take out at least five of theirs, man. Look, I'm confident. Look, we going to war with them. We going to war with them. It is what it is. They don't got the skill that we have. They don't got the most high behind us like we do. We going to smash all of them. Yeah, they got 20,000. So what? We can go at them with a thousand and still win. We got 10,000. Imagine what we going to do." That's what you got. You got to sit down and you got to consult.
 
@@ -381,8 +381,6 @@ Reading from Definition of compel (source not named on air)  *[[39:05](https://w
 **[Luke 14:34-35](/bible/luke/14#v34)**  *[[1:00:28](https://www.youtube.com/watch?v=eJOTHNoanFg&t=3628s)]*
 
 > <sup>[34](/bible/luke/14#v34)</sup> Salt is good: but if the salt have lost his savour, wherewith shall it be seasoned?
->
-> <sup>[35](/bible/luke/14#v35)</sup> It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear.
 
 - Salt is good: but if the salt have lost his savour: If you can't use salt, and we are supposed to be the salt of the earth, let's get that in Matthew. We supposed to be the salt of the earth. But yet, if we don't use our salt, bring that flavor that we have, what is it good for? For nothing. You throw salt away if it got no flavor. Same thing with us.
 
@@ -391,6 +389,8 @@ Reading from Definition of compel (source not named on air)  *[[39:05](https://w
     > <sup>[13](/bible/matthew/5#v13)</sup> Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
 
     If we not doing what the Lord said to do, we're not good for anything. We're not good for anything. You want to be told, "Well done, thou good and faithful servant." That's what you want to be. Not, "Go from me. I never knew you." This is what we have to watch out for as the nation of Israel in our repentance.
+
+> <sup>[35](/bible/luke/14#v35)</sup> It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear.
 
 
 ## In Closing

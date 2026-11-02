@@ -24,14 +24,14 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "nations", "the-word", "unity"]
 **[2 Timothy 3:16-17](/bible/2-timothy/3#v16)**  *[[14:33](https://www.youtube.com/watch?v=wSzqf-nAr98&t=873s)]*
 
 > <sup>[16](/bible/2-timothy/3#v16)</sup> All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:
->
-> <sup>[17](/bible/2-timothy/3#v17)</sup> That the man of God may be perfect, throughly furnished unto all good works.
 
 - All scripture is given by inspiration of God: it is given to inspire us.
 
 - It is profitable, beneficial, for doctrine, reproof, correction and instruction in righteousness.
 
 - Our heavenly Father expects us to be perfect; our King wants us to be a carbon copy of himself, and that is only found in the scriptures.
+
+> <sup>[17](/bible/2-timothy/3#v17)</sup> That the man of God may be perfect, throughly furnished unto all good works.
 
 
 **[Sirach 44:1-3](/bible/sirach/44#v1)**  *[[15:33](https://www.youtube.com/watch?v=wSzqf-nAr98&t=933s)]*
@@ -379,6 +379,10 @@ Reading from the *Los Angeles Times*  *[[1:05:29](https://www.youtube.com/watch?
 
 **[Psalms 10:1-8](/bible/psalms/10#v1)**  *[[1:08:35](https://www.youtube.com/watch?v=wSzqf-nAr98&t=4115s)]*
 
+- A president exiled from his own country: you can't tell me we are not still oppressed, and those asking why Haiti can't be built are the ones plotting against it.
+
+- Haiti has the resources; they could take them and leave the people alone, but that perpetual hatred is in their DNA.
+
 > <sup>[1](/bible/psalms/10#v1)</sup> Why standest thou afar off, O Lord? why hidest thou thyself in times of trouble?
 >
 > <sup>[2](/bible/psalms/10#v2)</sup> The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
@@ -386,7 +390,13 @@ Reading from the *Los Angeles Times*  *[[1:05:29](https://www.youtube.com/watch?
 > <sup>[3](/bible/psalms/10#v3)</sup> For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom the Lord abhorreth.
 >
 > <sup>[4](/bible/psalms/10#v4)</sup> The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.
->
+
+- God is not in all his thoughts: the white man's god is guns, oil and drugs, and when he says God bless America, know which god he means.
+
+- His boast that he shall not be moved and never be in adversity is the pride, American pride.
+
+- He that sits in the lurking places and murders the innocent is the oligarch family, the deep state; the Lord is reserving them, and all who align with them will pay.
+
 > <sup>[5](/bible/psalms/10#v5)</sup> His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.
 >
 > <sup>[6](/bible/psalms/10#v6)</sup> He hath said in his heart, I shall not be moved: for I shall never be in adversity.
@@ -394,16 +404,6 @@ Reading from the *Los Angeles Times*  *[[1:05:29](https://www.youtube.com/watch?
 > <sup>[7](/bible/psalms/10#v7)</sup> His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.
 >
 > <sup>[8](/bible/psalms/10#v8)</sup> He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
-
-- A president exiled from his own country: you can't tell me we are not still oppressed, and those asking why Haiti can't be built are the ones plotting against it.
-
-- Haiti has the resources; they could take them and leave the people alone, but that perpetual hatred is in their DNA.
-
-- God is not in all his thoughts: the white man's god is guns, oil and drugs, and when he says God bless America, know which god he means.
-
-- His boast that he shall not be moved and never be in adversity is the pride, American pride.
-
-- He that sits in the lurking places and murders the innocent is the oligarch family, the deep state; the Lord is reserving them, and all who align with them will pay.
 
 
 <div class="reading">

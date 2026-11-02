@@ -23,17 +23,13 @@ tags: ["15 Minutes w/ The Captains", "war"]
 
 **[Sirach 2:1-4](/bible/sirach/2#v1)**  *[[0:46](https://www.youtube.com/watch?v=nr-lfesaePE&t=46s)]*
 
-> <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
->
-> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
->
-> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
->
-> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
-
 - Because this is a part of that temptation. Things happen. You go up, because promotion comes from the Lord anyway. You go up, you go down. It can be any number of reasons why you have gotten demoted. So you gotten demoted. What to do now?
 
+> <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
+
 - My son, if thou come to serve the Lord, prepare thy soul for temptation: that temptation could very well be a demotion. My son, when you come to serve the Lord, whatever temptation comes, whatever trial comes, is what the temptation is talking about. Whatever trial comes, you better prepare your spirit by fasting, prayer, getting around men, getting around whoever to get your spirit together.
+
+> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
 
 - Set thy heart aright, and constantly endure: constantly don't mean if this happen. It means constantly. It means don't matter what.
 
@@ -41,28 +37,32 @@ tags: ["15 Minutes w/ The Captains", "war"]
 
 - And be patient when thou art changed to a low estate.
 
+> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
+>
+> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
+
 
 **[1 Samuel 18:1-5](/bible/1-samuel/18#v1)**  *[[2:42](https://www.youtube.com/watch?v=nr-lfesaePE&t=162s)]*
 
-> <sup>[1](/bible/1-samuel/18#v1)</sup> And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
->
-> <sup>[2](/bible/1-samuel/18#v2)</sup> And Saul took him that day, and would let him go no more home to his father’s house.
->
-> <sup>[3](/bible/1-samuel/18#v3)</sup> Then Jonathan and David made a covenant, because he loved him as his own soul.
->
-> <sup>[4](/bible/1-samuel/18#v4)</sup> And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle.
->
-> <sup>[5](/bible/1-samuel/18#v5)</sup> And David went out whithersoever Saul sent him, and behaved himself wisely: and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul’s servants.
-
 - Let's see what our forefather King David, which is one of my favorite.
+
+> <sup>[1](/bible/1-samuel/18#v1)</sup> And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
 
 - That the soul of Jonathan was knit with the soul of David: and this just after he killed Goliath the Philistine. So he's now with Saul and now with Jonathan.
 
+> <sup>[2](/bible/1-samuel/18#v2)</sup> And Saul took him that day, and would let him go no more home to his father’s house.
+
 - And Saul took him that day, and would let him go no more home to his father's house: so Saul is saying, you with me. You rolling with the king.
+
+> <sup>[3](/bible/1-samuel/18#v3)</sup> Then Jonathan and David made a covenant, because he loved him as his own soul.
 
 - Then Jonathan and David made a covenant, because he loved him as his own soul: they were brothers to the end. Like, bro, you saved the kingdom.
 
+> <sup>[4](/bible/1-samuel/18#v4)</sup> And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle.
+
 - And Jonathan stripped himself of the robe that was upon him, and gave it to David: imagine that. You got Saul, the King. Jonathan's the prince. Grown man is a prince. He takes off his princely robes and give it to a herder, a goat herder, sheep. So now this warrior is now walking around in an exalted state. He has on the prince stuff. He got his sword. He got his robe. He got his garment. He gave him his bow and his girdle. So he got a golden girdle.
+
+> <sup>[5](/bible/1-samuel/18#v5)</sup> And David went out whithersoever Saul sent him, and behaved himself wisely: and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul’s servants.
 
 - And David went out whithersoever Saul sent him, and behaved himself wisely: so that is saying David went wherever Saul went. So when Saul got there, you heard the king is here. You had the king and you had David, you had Jonathan. He was a part of the royal court. Imagine that, from a sheep herder to the royal court. And he say he behaved himself wisely and he was accepted. So now you go from being a sheep herder to now one of the most exalted men in the kingdom at this point.
 
@@ -89,15 +89,15 @@ tags: ["15 Minutes w/ The Captains", "war"]
 
 **[1 Samuel 18:13-14](/bible/1-samuel/18#v13)**  *[[7:16](https://www.youtube.com/watch?v=nr-lfesaePE&t=436s)]*
 
-> <sup>[13](/bible/1-samuel/18#v13)</sup> Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
->
-> <sup>[14](/bible/1-samuel/18#v14)</sup> And David behaved himself wisely in all his ways; and the Lord was with him.
-
 - Y'all remember, demoted, what do you do? David at this point is exalted. Watch, he get demoted from verse 13.
+
+> <sup>[13](/bible/1-samuel/18#v13)</sup> Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
 
 - Therefore Saul removed him from him: so now he's no longer part of the royal court. He's no longer a captain. He's no longer officer, no longer a deacon. I'm just using it in the terms that we use. He's now demoted to a soldier. That's not what he's demoted to, but you going to read it.
 
 - And made him his captain over a thousand: so in five he was over all men of war. And in verse 13 he was a captain of a thousand. He got promoted one day, demoted the next day to a captain of a thousand.
+
+> <sup>[14](/bible/1-samuel/18#v14)</sup> And David behaved himself wisely in all his ways; and the Lord was with him.
 
 - And David behaved himself wisely in all his ways: so even in David's demotion, David behaved himself wisely the same way he behaved himself when he was promoted to the royal court. When he was exalted, he behaved himself wisely. When he was demoted the next day to a captain of a thousand, he also behaved himself wisely.
 
@@ -128,12 +128,12 @@ tags: ["15 Minutes w/ The Captains", "war"]
 > <sup>[6](/bible/psalms/75#v6)</sup> For promotion cometh neither from the east, nor from the west, nor from the south.
 >
 > <sup>[7](/bible/psalms/75#v7)</sup> But God is the judge: he putteth down one, and setteth up another.
->
-> <sup>[8](/bible/psalms/75#v8)</sup> For in the hand of the Lord there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.
 
 - For promotion cometh neither from the east, nor from the west, nor from the south. But God is the judge: God is the judge.
 
 - He putteth down one, and setteth up another: not you and your own filthy rags righteousness. I should write that in class. Filthy rags righteousness. Sound good? Let me write that down.
+
+> <sup>[8](/bible/psalms/75#v8)</sup> For in the hand of the Lord there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.
 
 
 **[1 Corinthians 15:58](/bible/1-corinthians/15#v58)**  *[[14:19](https://www.youtube.com/watch?v=nr-lfesaePE&t=859s)]*

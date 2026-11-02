@@ -393,16 +393,6 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 **[Jeremiah 51:7-12](/bible/jeremiah/51#v7)**  *[[1:35:01](https://www.youtube.com/watch?v=k7yNCvKWhYw&t=5701s)]*
 
 > <sup>[7](/bible/jeremiah/51#v7)</sup> Babylon hath been a golden cup in the Lord’s hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad.
->
-> <sup>[8](/bible/jeremiah/51#v8)</sup> Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed.
->
-> <sup>[9](/bible/jeremiah/51#v9)</sup> We would have healed Babylon, but she is not healed: forsake her, and let us go every one into his own country: for her judgment reacheth unto heaven, and is lifted up even to the skies.
->
-> <sup>[10](/bible/jeremiah/51#v10)</sup> The Lord hath brought forth our righteousness: come, and let us declare in Zion the work of the Lord our God.
->
-> <sup>[11](/bible/jeremiah/51#v11)</sup> Make bright the arrows; gather the shields: the Lord hath raised up the spirit of the kings of the Medes: for his device is against Babylon, to destroy it; because it is the vengeance of the Lord, the vengeance of his temple.
->
-> <sup>[12](/bible/jeremiah/51#v12)</sup> Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the Lord hath both devised and done that which he spake against the inhabitants of Babylon.
 
 - Babylon hath been a golden cup in the Lord's hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad.
 
@@ -416,9 +406,17 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 
 - For her judgment reacheth unto heaven. That is the same thing that is said in Revelation, for her sins have reached unto heaven. It says the same thing in another part of Jeremiah. And is lifted up even to the skies. Even up to the skies. That is Obadiah again. When she put her space garbage out there, the Lord said, Thence will I bring thee down. So it is all the time saying the same thing. They were not doing that kind of space travel, there was no space travel at all, during the time when Jeremiah was bringing this out back then. Now we are in the time now, we understand what it is talking about.
 
+> <sup>[8](/bible/jeremiah/51#v8)</sup> Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed.
+>
+> <sup>[9](/bible/jeremiah/51#v9)</sup> We would have healed Babylon, but she is not healed: forsake her, and let us go every one into his own country: for her judgment reacheth unto heaven, and is lifted up even to the skies.
+>
+> <sup>[10](/bible/jeremiah/51#v10)</sup> The Lord hath brought forth our righteousness: come, and let us declare in Zion the work of the Lord our God.
+
 - The Lord hath brought forth our righteousness: come, and let us declare in Zion the work of the Lord our God. Let us declare in Zion the work of our God.
 
 - Make bright the arrows. So, understanding the message that the Lord is giving us: let us return to him. Let us build among ourselves. Let us learn how to be that proper nation, while at the same time listen to how the Lord is going to mock Babylon the Great.
+
+> <sup>[11](/bible/jeremiah/51#v11)</sup> Make bright the arrows; gather the shields: the Lord hath raised up the spirit of the kings of the Medes: for his device is against Babylon, to destroy it; because it is the vengeance of the Lord, the vengeance of his temple.
 
 - Make bright the arrows; gather the shields: the Lord hath raised up the spirit of the kings of the Medes. For his device is against Babylon. Them Arabs and all, they are getting them weapons ready. I am telling you, the Most High has got them. They already have got the button to press. They have got the button ready. They said, but I ain't going to press it. You are going to press it. You built it. You built the button. What makes you think you ain't going to press it? You have got the silos and the missiles and all. You have got all of that stuff set up and you are talking about, well, the one thing that I ain't going to do after I have built the whole facility, I am ready for it now, but I ain't going to press the button. You are going to press every button there is. You are going to press them all.
 
@@ -431,6 +429,8 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 - Make the watch strong, set up the watchmen, prepare the ambushes. Prepare the terrorists. Ambushes. The Most High has got them already sent here. Trump is trying to prevent that. But they are already here. They grew up. They live right in your backyard. They look just like you. They come over, shave, get a haircut, get a can of beer, put on a plaid shirt, go out every once in a while. They say, yeah, that is my boy right there. They love him. He is one of your men that just set up a shop or whatever. But you all dig what I am saying?
 
 - For the Lord hath both devised and done that which he spake against the inhabitants of Babylon. So Jeremiah is already seeing the aftermath. He is already seeing the aftermath of the destruction.
+
+> <sup>[12](/bible/jeremiah/51#v12)</sup> Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the Lord hath both devised and done that which he spake against the inhabitants of Babylon.
 
 **[Jeremiah 51:13](/bible/jeremiah/51#v13)**  *[[1:43:25](https://www.youtube.com/watch?v=k7yNCvKWhYw&t=6205s)]*
 
@@ -579,15 +579,9 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 
 **[Ezekiel 37:7-10](/bible/ezekiel/37#v7)**  *[[2:12:36](https://www.youtube.com/watch?v=k7yNCvKWhYw&t=7956s)]*
 
-> <sup>[7](/bible/ezekiel/37#v7)</sup> So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
->
-> <sup>[8](/bible/ezekiel/37#v8)</sup> And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
->
-> <sup>[9](/bible/ezekiel/37#v9)</sup> Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.
->
-> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
-
 - Now this breath again, how it is going to change us to make us ready to become those exponentially mature brothers and sisters in this nation.
+
+> <sup>[7](/bible/ezekiel/37#v7)</sup> So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
 
 - So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone. And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
 
@@ -596,6 +590,12 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 - Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live. So I prophesied as he commanded me, and the breath came into them. So this wisdom came into our brothers.
 
 - And they lived, and stood up upon their feet, an exceeding great army. So this army is going to be an army of organised brothers that is going to know how to deal with their families, that is going to know how to deal with the nation, that is going to know how to keep God's commandments, that is going to know how to instruct order in our sanctuaries, that is going to know how to set up teams, that is going to know how to set the nation up. That is what that wisdom is going to do. It is going to teach the commandments, teach us how to be proper brothers, proper sisters, proper children. It is going to teach us all of that. That is what was missing in the sixties. So this is the breath that had to come, and that is that pure influence that cannot be stopped. Once we have got it, we have got it.
+
+> <sup>[8](/bible/ezekiel/37#v8)</sup> And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.
+>
+> <sup>[9](/bible/ezekiel/37#v9)</sup> Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.
+>
+> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
 **[Revelation 14:12](/bible/revelation/14#v12)**  *[[2:15:39](https://www.youtube.com/watch?v=k7yNCvKWhYw&t=8139s)]*
 
@@ -629,59 +629,51 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 
 **[Matthew 19:16-22](/bible/matthew/19#v16)**  *[[2:20:04](https://www.youtube.com/watch?v=k7yNCvKWhYw&t=8404s)]*
 
+- The same incident was recorded by St Matthew.
+
 > <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
 >
 > <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
->
-> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
->
-> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
->
-> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
->
-> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
->
-> <sup>[22](/bible/matthew/19#v22)</sup> But when the young man heard that saying, he went away sorrowful: for he had great possessions.
-
-- The same incident was recorded by St Matthew.
 
 - And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life? And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments. Keep the commandments.
 
 - He saith unto him, Which? Jesus said, Thou shalt do no murder. That is the part I was talking about there. Thou shalt do no murder. That is the same thing that thou shalt not kill means in Exodus 20.
 
+> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
+>
+> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
+
 - Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself. Thou shalt want for your neighbour the same thing that you would want for yourself. That is something that is real big. Just think about that. You would not want your brother or anybody to deceive you. But we get this — people do you dirty. You would not want someone to do that to you, so why would I do that to somebody else? If we just learned that, we would be all right.
 
+> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
+
 - The young man saith unto him, All these things have I kept from my youth up: what lack I yet? He said, I have been doing all of these things. What else do I need to do?
+
+> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
 
 - Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me. But when the young man heard that saying, he went away sorrowful: for he had great possessions.
 
 - So he could not do that. Why? Because he did not have faith in what Christ was saying. The whole point about this part here is dealing with the faith. He said, I could do all the rest of that, but if there is no faith that I am actually going to go and get the kingdom in terms of righteousness, I cannot go that far with it, because I do not believe to that extent. That is why faith is very, very important. Without faith you will not endure in this. You have to have that faith. The faith, the duties, the commands — that faith has got to be there. That is the reason why the two of those are interchangeable. You have got to have both. You cannot have one without the other. Faith without works is dead. But your faith is what drives you to make sure that the commandments are kept.
 
 - Show this picture here. I am going to show you something with the brother that is getting whipped on the screen. Do you all know what you all are looking at? This is from the movie the brother put together, Birth of a Nation. He was playing Nat Turner and he was being beaten. He was being whipped, and he had a smile. Look at it. Look at his face. Why is it that he had a smile on his face? Because just like the apostles when they got beaten, they rejoiced, because they knew that they were being persecuted for righteousness' sake. You understand? That is what is happening here.
+
 - In order for us to be able to endure what we have got to go through, we have to have that faith beyond the trial that we are in, beyond the moment where we are at. We have got to be able to think beyond that. That is what is happening here. His back is being torn up. He is being whipped, persecuted hard, but he is smiling because it is like he is not even seeing that. Now I know that sounds way deep. You say, man, I know he is feeling that. But I am trying to get you to look into this spiritually. His spirit was already beyond that. In other words, I am not taking myself from this, because I am doing a worthy cause. Blessed are they which are persecuted for righteousness' sake. That is what it says. Suffer not as a murderer, but suffer as a Christian.
+
 - All of this is how we mature exponentially. We have got to build this type of faith up.
+
+> <sup>[22](/bible/matthew/19#v22)</sup> But when the young man heard that saying, he went away sorrowful: for he had great possessions.
 
 **[1 Peter 4:12-19](/bible/1-peter/4#v12)**  *[[2:24:06](https://www.youtube.com/watch?v=k7yNCvKWhYw&t=8646s)]*
 
 > <sup>[12](/bible/1-peter/4#v12)</sup> Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
->
-> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
->
-> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
->
-> <sup>[15](/bible/1-peter/4#v15)</sup> But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.
->
-> <sup>[16](/bible/1-peter/4#v16)</sup> Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.
->
-> <sup>[17](/bible/1-peter/4#v17)</sup> For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?
->
-> <sup>[18](/bible/1-peter/4#v18)</sup> And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?
->
-> <sup>[19](/bible/1-peter/4#v19)</sup> Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.
 
 - Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you: but rejoice, inasmuch as ye are partakers of Christ's sufferings. This is what the character was showing you in the movie. That is what Nat Turner, that is what this was about. He was enduring that because he knew it was for a worthy cause. Even though he was going to die here, they cut his body up. You read the history. They cut his body up and all types of stuff. But he is going to get the kingdom. I will just say it that way. Because he preached the word of the Lord. That is what the movie showed you. You have got to go get the movie. I know it was a while ago. I bought two of the discs. We should have been supporting that brother that put that movie out. Nate Parker.
 
 - That, when his glory shall be revealed, ye may be glad also with exceeding joy. That when his glory is revealed we shall be glad with exceeding joy. That is going to be us in the kingdom. All this is going to be like a bad dream. All of what we went through is going to be like nothing. That is what we are looking for. That is what we are hoping for. That is what our faith is for.
+
+> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
+>
+> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
 
 - If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of. On their part he is evil spoken of. They speak evil about how Christ and how we are dealing with the Most High and dealing with this programme. They speak evil about us. But on your part he is glorified. God is glorified because we are doing what God said.
 
@@ -696,14 +688,32 @@ Bush invades Panama against the vote of the United Nations.  *[[48:43](https://w
 - And if the righteous scarcely be saved, where shall the ungodly and the sinner appear? Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.
 
 - Now let me show you how strong faith is. Give me my clip, the Ten Commandments clip. I am going to show you all an example of what is known when the people have unbreakable faith. Okay, I am saying it that way and I have to explain it.
+
 - This is Cecil B. DeMille's movie on the Ten Commandments. The one where they have got all white people playing our parts. I do not want you to pay attention to any of that stuff right now. I want to show you something that was said in this clip that many people perhaps missed. Again, this is one of those things where you have got to search inside to pull out what is seriously relevant.
+
 - Look past the fraudulent colours and the people that they have got in it. But the garments are proper though. What they are wearing is proper. That is how they really dressed then. So they had them dressed right in this whole movie. But outside of that, they lied. Even the images behind them, where they are sitting at is in Cairo, Egypt, the real Egypt, and they have got black images on the walls behind white actors. So I do not even know how they expected to get away with that. But when they are busy telling us that we are nothing, we are liable to believe anything.
+
 - They want to talk about the slaves being delivered, because they have this belief that a deliverer is coming, Moses, to save us out of Egypt. Watch this. Most people miss this.
+
 - The clip: Stand before me, both of you. Would you please your Pharaoh, Moses? Your wish is my will. Then you will build my city. Wise decision. A noble task, Rameses. Do you believe this slave deliverer is a myth? What I believe is of no account. What matters is the slaves believe in him.
+
 - Stop right there. A lot of people missed that part there. He says, what I say means nothing. What matters is, do the slaves believe that there is a deliverer coming for them? Because what does that mean? Because if they believe that they are going to be delivered, you cannot do nothing with them.
+
 - Here you have got a man that wants to strap C4 on his body and walk into the middle of a whole lot of people and think that when he blows up and dies he is going to get seventy virgins. There ain't nothing you could do with a cat like that. Nothing. Because that is his faith. I am making this point to show you how powerful faith is. That is the point that I am bringing out. So when we have faith in this Bible like that, we are unshakable. We are unstoppable. Even if they kill us, you understand what I am saying? Even if they come against us.
+
 - I do not like to say even if they kill us, but some of us are going to be killed. You all understand what I am saying? Some of us are going to get killed. And after you hang me, that is the attitude you have got to have. Now, that sounds big. That sounds big. And at the moment of a knife to your neck, they will be just like Eleazar — I will eat this pork — and you get through all that kind of stuff and you might preserve your life for a few days longer. Because nobody respects a traitor. Nobody. So I am going to just leave that part there.
+
 - I am going to end with one thing to show you how much we are in the turn of about to be delivered.
+
+> <sup>[15](/bible/1-peter/4#v15)</sup> But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.
+>
+> <sup>[16](/bible/1-peter/4#v16)</sup> Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.
+>
+> <sup>[17](/bible/1-peter/4#v17)</sup> For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?
+>
+> <sup>[18](/bible/1-peter/4#v18)</sup> And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?
+>
+> <sup>[19](/bible/1-peter/4#v19)</sup> Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.
 
 **[Jeremiah 29:5-7](/bible/jeremiah/29#v5)**  *[[2:32:32](https://www.youtube.com/watch?v=k7yNCvKWhYw&t=9152s)]*
 

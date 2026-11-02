@@ -114,19 +114,19 @@ The definition on the screen, Merriam-Webster, sedition:
 
 **[Numbers 11:4-6](/bible/numbers/11#v4)**  *[[8:09](https://www.youtube.com/watch?v=fuwoOANedXA&t=489s)]*
 
-> <sup>[4](/bible/numbers/11#v4)</sup> And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
->
-> <sup>[5](/bible/numbers/11#v5)</sup> We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
->
-> <sup>[6](/bible/numbers/11#v6)</sup> But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
-
 - What else was Israel dealing with?
+
+> <sup>[4](/bible/numbers/11#v4)</sup> And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
 
 - And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat? We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick.
 
 - How black people are with food. We cannot do anything without food. It was not the bitter hard bondage that we remembered. It was the leeks, the onions, the garlic, the cucumbers. That is what we remembered from being in slavery under Egypt. That is what we remember from our time in Egypt — how good the food was.
 
 - So it is not a wonder that here in America you have got so many fat brothers and sisters. Because you are more concerned about what you put in your gullet than what you put in your spirit. You are more concerned with feeding your flesh than feeding your spirit.
+
+> <sup>[5](/bible/numbers/11#v5)</sup> We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
+>
+> <sup>[6](/bible/numbers/11#v6)</sup> But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
 
 - But now our soul is dried away: there is nothing at all, beside this manna, before our eyes. You know what that is called, when your eyes are not satisfied or content with the things that the Lord has given you? That is called covetousness.
 
@@ -159,8 +159,6 @@ The definition on the screen, Merriam-Webster, sedition:
 **[Psalms 139:23-24](/bible/psalms/139#v23)**  *[[13:15](https://www.youtube.com/watch?v=fuwoOANedXA&t=795s)]*
 
 > <sup>[23](/bible/psalms/139#v23)</sup> Search me, O God, and know my heart: try me, and know my thoughts:
->
-> <sup>[24](/bible/psalms/139#v24)</sup> And see if there be any wicked way in me, and lead me in the way everlasting.
 
 - Search me, O God, and know my heart: try me, and know my thoughts. And see if there be any wicked way in me, and lead me in the way everlasting.
 
@@ -171,6 +169,8 @@ The definition on the screen, Merriam-Webster, sedition:
 - Have you taken a step back and asked the Lord to examine you? Try you, search you, see if there is any wicked way in you?
 
 - Because the only way that we get the kingdom of heaven is by maintaining our integrity and uprightness.
+
+> <sup>[24](/bible/psalms/139#v24)</sup> And see if there be any wicked way in me, and lead me in the way everlasting.
 
 **[Psalms 25:21](/bible/psalms/25#v21)**  *[[14:47](https://www.youtube.com/watch?v=fuwoOANedXA&t=887s)]*
 

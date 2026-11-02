@@ -50,13 +50,13 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "angels", "justice", "se
 
 **[Revelation 17:11-12](/bible/revelation/17#v11)**  *[[7:12](https://www.youtube.com/watch?v=36hcK9bNKF8&t=432s)]*
 
-> <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
->
-> <sup>[12](/bible/revelation/17#v12)</sup> And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
-
 - Yep, I was in Virginia recently, if y'all did not know. I'mma send you something. If you did not know, Virginia is the head of a place called NATO. It's the headquarters of NATO, the North Atlantic Treaty Organization. And this was at the airport, so it's not a mistake. We don't have it wrong, no, this is what it is, this is what it is, and I'm going to show you. Let me show you something real quick. Go to Revelations 17 and give me verse 11 and 12, and put that picture up.
 
+> <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
+
 - And the beast that was, and is not, even he is the eighth: Right, so the beast that was in verse seven, I'm sorry, in verse one, talking about the great … that John saw in the vision. It says the beast that was and is not, because at that time who was ruling? Rome. And it says even he is the eighth. That eighth beast that came after, came out of Rome, was the United States of America. Okay, so read verse 11, read it with 12 together.
+
+> <sup>[12](/bible/revelation/17#v12)</sup> And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
 
 - And the ten horns: Now those 10 horns, these are going into the European nations which formed the North Atlantic Treaty Organization that you can see right there on the graphic. This is literally a picture from the airport in Virginia. All right, read verse 12 again.
 
@@ -167,14 +167,6 @@ Reading from On-screen text: NATO picture from the airport in Virginia  *[[9:52]
 **[2 Thessalonians 2:4-8](/bible/2-thessalonians/2#v4)**  *[[19:15](https://www.youtube.com/watch?v=36hcK9bNKF8&t=1155s)]*
 
 > <sup>[4](/bible/2-thessalonians/2#v4)</sup> Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
->
-> <sup>[5](/bible/2-thessalonians/2#v5)</sup> Remember ye not, that, when I was yet with you, I told you these things?
->
-> <sup>[6](/bible/2-thessalonians/2#v6)</sup> And now ye know what withholdeth that he might be revealed in his time.
->
-> <sup>[7](/bible/2-thessalonians/2#v7)</sup> For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
->
-> <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 
 - Who opposeth and exalteth himself above all that is called God: Come on. Or that is worshipped; so that he as God: So that Esau, the white man, portrays himself as God. Read.
 
@@ -182,7 +174,15 @@ Reading from On-screen text: NATO picture from the airport in Virginia  *[[9:52]
 
 - Shewing himself that he is God: Because he has the power to do it, to the point where what? Netanyahu, the, what's the thing called? No, no, I know he's a prime minister. The world court, that organization, I forgot it from the top of my head. They say that he should be arrested on site for war crimes, but guess who says no? America. They have the power to do that. All right, so read that part again for me, officer, that last part. Right, showing himself that he is God. Read verse seven.
 
+> <sup>[5](/bible/2-thessalonians/2#v5)</sup> Remember ye not, that, when I was yet with you, I told you these things?
+>
+> <sup>[6](/bible/2-thessalonians/2#v6)</sup> And now ye know what withholdeth that he might be revealed in his time.
+>
+> <sup>[7](/bible/2-thessalonians/2#v7)</sup> For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
+
 - For the mystery of iniquity doth already work: And who is he referring to right there? Paul's referring to Rome, the mystery of iniquity. Come on. Only he who now letteth will let, until he be taken out of the way: Read.
+
+> <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 
 - And then shall that Wicked be revealed: Right, that Wicked is going to be revealed to the whole world, on who they are. Read. Whom the Lord shall consume with the spirit of his mouth: He shall consume with what? The spirit of his mouth. He's going to break them without hand. That's what that's talking about right there. Read. And shall destroy with the brightness of his coming: Right, right, right. So now go back to that Revelations 19.
 
@@ -299,13 +299,11 @@ Reading from On-screen text: NATO picture from the airport in Virginia  *[[9:52]
 
 **[2 Esdras 1:38-40](/bible/2-esdras/1#v38)**  *[[33:04](https://www.youtube.com/watch?v=36hcK9bNKF8&t=1984s)]*
 
+- And now, brother, behold what glory; and see the people that come from the east: Right, it say behold what glory and see the people that cometh from the east. All right, in order to see the people that come from the east, where would you have to be? In the western hemisphere. You have to be on the west to see the people that come from the east. Showing you where will we be in the last days: United States of America, Babylon the great. Read that again.
+
 > <sup>[38](/bible/2-esdras/1#v38)</sup> And now, brother, behold what glory; and see the people that cometh from the east:
 >
 > <sup>[39](/bible/2-esdras/1#v39)</sup> Unto whom I will give for leaders, Abraham, Isaac, and Jacob, Oseas, Amos, and Micheas, Joel, Abdias, and Jonas,
->
-> <sup>[40](/bible/2-esdras/1#v40)</sup> Nahum, and Abacuc, Sophonias, Aggeus, Zachary, and Malachy, which is called also an angel of the Lord.
-
-- And now, brother, behold what glory; and see the people that come from the east: Right, it say behold what glory and see the people that cometh from the east. All right, in order to see the people that come from the east, where would you have to be? In the western hemisphere. You have to be on the west to see the people that come from the east. Showing you where will we be in the last days: United States of America, Babylon the great. Read that again.
 
 - Unto whom I will give for leaders: Leaders, leaders. Okay, understand. Give me the one in Titus chapter 1 and 6, I believe. Let me hear Titus, or 1 and 5, let me hear that.
 
@@ -317,16 +315,18 @@ Reading from On-screen text: NATO picture from the airport in Virginia  *[[9:52]
 
     And ordain elders: And ordain what? Elders. And ordained elders. Come on. In every city: Right.
 
+> <sup>[40](/bible/2-esdras/1#v40)</sup> Nahum, and Abacuc, Sophonias, Aggeus, Zachary, and Malachy, which is called also an angel of the Lord.
+
 
 **[2 Esdras 2:17-19](/bible/2-esdras/2#v17)**  *[[34:52](https://www.youtube.com/watch?v=36hcK9bNKF8&t=2092s)]*
 
 > <sup>[17](/bible/2-esdras/2#v17)</sup> Fear not, thou mother of the children: for I have chosen thee, saith the Lord.
 >
 > <sup>[18](/bible/2-esdras/2#v18)</sup> For thy help will I send my servants Esay and Jeremy, after whose counsel I have sanctified and prepared for thee twelve trees laden with divers fruits,
->
-> <sup>[19](/bible/2-esdras/2#v19)</sup> And as many fountains flowing with milk and honey, and seven mighty mountains, whereupon there grow roses and lilies, whereby I will fill thy children with joy.
 
 - For thy help will I send my servants Esay and Jeremy: Right, so Esay and Jeremy, these are the prophets that we've read about as well. This is Isaiah and Jeremiah. So this is going along with HC, Nahum, Abdias, which Obadiah, is going along with them as well. All right, let's read the next verse.
+
+> <sup>[19](/bible/2-esdras/2#v19)</sup> And as many fountains flowing with milk and honey, and seven mighty mountains, whereupon there grow roses and lilies, whereby I will fill thy children with joy.
 
 - And as many fountains flowing with milk and honey: Read the top of verse, was that 19? 19 again. Come on. And seven mighty mountains: Right, so those fountains are going into understanding. All right, understanding. Ephesians 5 and 26, let me come right back to this. All right, so those fountains are going into understanding. Come on.
 
@@ -403,12 +403,12 @@ Reading from Definition of omnipotent  *[[42:06](https://www.youtube.com/watch?v
 **[Colossians 1:15-17](/bible/colossians/1#v15)**  *[[43:03](https://www.youtube.com/watch?v=36hcK9bNKF8&t=2583s)]*
 
 > <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
->
+
+- Who is the image of the invisible God, the firstborn of every creature: Verse 17.
+
 > <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 >
 > <sup>[17](/bible/colossians/1#v17)</sup> And he is before all things, and by him all things consist.
-
-- Who is the image of the invisible God, the firstborn of every creature: Verse 17.
 
 - And he is before all things: Right, he's before everything. And remember, Alpha and Omega. Good. Come on. And by him all things consist: Right, and by him all things consist. So he's in everything, you understand. Think about every, like the periodic table, all of those elements. That's the Lord in that thing right there. Everything consists because he is here, because he consists. All right, so let's go back to Revelations 19.
 
@@ -458,12 +458,12 @@ Reading from Definition of omnipotent  *[[42:06](https://www.youtube.com/watch?v
 > <sup>[18](/bible/mark/2#v18)</sup> And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?
 >
 > <sup>[19](/bible/mark/2#v19)</sup> And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.
->
-> <sup>[20](/bible/mark/2#v20)</sup> But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.
 
 - Can the children of the bridechamber fast: You see that? The children of the bridechamber fast. Read. While the bridegroom is with them?: Right, so who's the bridegroom? The Lamb, Jesus the Christ. He's the bridegroom. Come on.
 
 - Right, so now when we go back to Revelations 19:7, is also telling us something else. All right, give me that again. Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready: Right, so another point we're looking at in regards to that preparation: we have to do what? We have to fast often. All right, we're going to have to fast often in order to be ready for this marriage between the nation of Israel, who keeps God's commandments in the faith of Christ, and the Lamb. All right, let's read verse eight.
+
+> <sup>[20](/bible/mark/2#v20)</sup> But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.
 
 
 **[Revelation 19:8](/bible/revelation/19#v8)**  *[[48:11](https://www.youtube.com/watch?v=36hcK9bNKF8&t=2891s)]*
@@ -529,10 +529,10 @@ Reading from Definition of omnipotent  *[[42:06](https://www.youtube.com/watch?v
 **[Revelation 19:9-10](/bible/revelation/19#v9)**  *[[54:11](https://www.youtube.com/watch?v=36hcK9bNKF8&t=3251s)]*
 
 > <sup>[9](/bible/revelation/19#v9)</sup> And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
->
-> <sup>[10](/bible/revelation/19#v10)</sup> And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
 
 - Blessed are they which are called unto the marriage supper of the Lamb: Right, right, right. Go back to 2 Esdras 2. All right, back to 2 Esdras 2. Read verse 38, start at 37, sorry, start at 36.
+
+> <sup>[10](/bible/revelation/19#v10)</sup> And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
 
 - And I fell at his feet to worship him: All right, so John, when he's getting this message or this vision from the angel, he fell at his feet, all right, to worship him. And let's read that again from the top. This is what the angel said to him. Read.
 

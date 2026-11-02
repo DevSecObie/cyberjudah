@@ -38,10 +38,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt", "idolatry", "ju
 **[Jeremiah 17:4-5](/bible/jeremiah/17#v4)**  *[[1:58](https://www.youtube.com/watch?v=swrO7j4PfUQ&t=118s)]*
 
 > <sup>[4](/bible/jeremiah/17#v4)</sup> And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.
->
-> <sup>[5](/bible/jeremiah/17#v5)</sup> Thus saith the Lord; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord.
 
 - I will cause thee to serve thine enemies in the land which thou knowest not: So we are in a land serving our enemies. So you think because we here, cuz the Lord, we here for punishment. So you think, why are we here for punishment? We are to uphold the system by voting, get into politics, trying to find out who's going to be our mayor for our community? We are here as a punishment. We are here to serve, not to partake in, especially if it contradicts God's laws.
+
+> <sup>[5](/bible/jeremiah/17#v5)</sup> Thus saith the Lord; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord.
 
 - Cursed be the man that trusteth in man: Now, this verse says man, but let's take that word man out and put politics.
 
@@ -60,10 +60,10 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt", "idolatry", "ju
 **[Hosea 8:3-4](/bible/hosea/8#v3)**  *[[5:10](https://www.youtube.com/watch?v=swrO7j4PfUQ&t=310s)]*
 
 > <sup>[3](/bible/hosea/8#v3)</sup> Israel hath cast off the thing that is good: the enemy shall pursue him.
->
-> <sup>[4](/bible/hosea/8#v4)</sup> They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.
 
 - Israel hath cast off the thing that is good: So Israel has cast off the things that are good. The thing that is good is God. The laws of God. We cast that off to go seek after the nations' gods and idols.
+
+> <sup>[4](/bible/hosea/8#v4)</sup> They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.
 
 - of their silver and their gold have they made them idols, that they may be cut off: What causes to be departed from the Lord is us going into idolatry. That's the first commandment: Thou shalt have no other gods before me. So when you go into politics to set another man over you, that is idolatry.
 
@@ -75,18 +75,18 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt", "idolatry", "ju
 **[Isaiah 30:1-3](/bible/isaiah/30#v1)**  *[[6:55](https://www.youtube.com/watch?v=swrO7j4PfUQ&t=415s)]*
 
 > <sup>[1](/bible/isaiah/30#v1)</sup> Woe to the rebellious children, saith the Lord, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
->
-> <sup>[2](/bible/isaiah/30#v2)</sup> That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
->
-> <sup>[3](/bible/isaiah/30#v3)</sup> Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion.
 
 - Woe to the rebellious children, saith the LORD, that take counsel, but not of me: We still trying to uphold the system and moving with the wrong spirit. That ain't the spirit of God.
 
 - that cover with a covering, but not of my spirit, that they may add sin to sin: So you going into politics, God is saying that is sin, sin, sin. He's saying it right there. If you take counsel but not of God, politics, trying to go to the system to find solutions to solve your community problems, your moral problems, and then you put a spirit on you that's not God's spirit.
 
+> <sup>[2](/bible/isaiah/30#v2)</sup> That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
+
 - That walk to go down into Egypt, and have not asked at my mouth: You didn't come to God's word for counsel. You went to the polls to vote for solutions.
 
 - to trust in the shadow of Egypt: You trust the system to solve your problem. That's the shadow of Egypt. Back then it was Babylon. Today is America.
+
+> <sup>[3](/bible/isaiah/30#v3)</sup> Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion.
 
 - Therefore shall the strength of Pharaoh be your shame: That's why we still get shot down in the streets. That's why Trump is passing all these tariffs and shipping all these so-called Cubans, Venezuelans, Haitians back to their country. So now you shame. You went hard trying to prove and uphold this system. You voted. Now he's saying, Oh, you thought I was on your side. Oh, now reality struck.
 
@@ -96,12 +96,12 @@ tags: ["15 Minutes w/ The Captains", "america-babylon", "egypt", "idolatry", "ju
 **[Jeremiah 37:7-8](/bible/jeremiah/37#v7)**  *[[9:05](https://www.youtube.com/watch?v=swrO7j4PfUQ&t=545s)]*
 
 > <sup>[7](/bible/jeremiah/37#v7)</sup> Thus saith the Lord, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to enquire of me; Behold, Pharaoh’s army, which is come forth to help you, shall return to Egypt into their own land.
->
-> <sup>[8](/bible/jeremiah/37#v8)</sup> And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.
 
 - Thus saith the LORD, the God of Israel: Now, this is back in ancient time during the time of Babylon, but it is for us to this day. But I'm going to read a little history here.
 
 - Pharaoh's army, which is come forth to help you, shall return to Egypt into their own land: So all of a sudden, this is the example. This is King Zedekiah who went to inquire to Jeremiah concerning what the Lord can do for them to stop this army that's coming to destroy them, the Chaldeans of Babylon. And guess what he did? The Lord say, No, don't come counsel with me now, because you already ask Egypt for help. That's a lot of us today. You went to go vote. You upholding this system. You partake in politics. You partake in the holidays. Now all of a sudden when tragedy strike, you looking for help from God. God said, nuh-uh, go back to your strength.
+
+> <sup>[8](/bible/jeremiah/37#v8)</sup> And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.
 
 - And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire: The Lord said, I'mma remove your help, which is Egypt, and I'mma send Babylon, the Chaldeans, back to you to destroy you. Cuz since you thought Egypt was going to save you, I'mma move them out the way. It's no different from today. You uphold this politics, you get a job at a Senate office, you get discriminated against. You're like, Wait a minute. I uphold the law. What is going on? I voted. I got my red hat. Make America great again. Why am I getting my wakeup call? Cuz the Lord said, They're going to be your shame and to your confusion.
 
@@ -150,12 +150,12 @@ Reading from an article, Trump revoking protections for Cubans, Haitians and oth
 **[Isaiah 59:9-10](/bible/isaiah/59#v9)**  *[[14:03](https://www.youtube.com/watch?v=swrO7j4PfUQ&t=843s)]*
 
 > <sup>[9](/bible/isaiah/59#v9)</sup> Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness.
->
-> <sup>[10](/bible/isaiah/59#v10)</sup> We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men.
 
 - Therefore is judgment far from us, neither doth justice overtake us: We not getting no justice.
 
 - we wait for light, but behold obscurity: We thought voting for Trump was our light. We thought voting for Obama was our savior, but obscurity.
+
+> <sup>[10](/bible/isaiah/59#v10)</sup> We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men.
 
 - we are in desolate places as dead men: Why? Because we don't have the spirit of God in us. So it's time to repent and come out of these politics, cuz it's not doing nothing for us, nor is it going to save us from our problems. We got to come back to this Bible.
 
@@ -192,10 +192,10 @@ Reading from an article, Trump revoking protections for Cubans, Haitians and oth
 **[2 Timothy 2:3-4](/bible/2-timothy/2#v3)**  *[[17:21](https://www.youtube.com/watch?v=swrO7j4PfUQ&t=1041s)]*
 
 > <sup>[3](/bible/2-timothy/2#v3)</sup> Thou therefore endure hardness, as a good soldier of Jesus Christ.
->
-> <sup>[4](/bible/2-timothy/2#v4)</sup> No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.
 
 - Thou therefore endure hardness, as a good soldier of Jesus Christ: We got to endure hardness. No matter what we go through, we got to endure hardness in Christ.
+
+> <sup>[4](/bible/2-timothy/2#v4)</sup> No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.
 
 - No man that warreth entangleth himself with the affairs of this life: Stop entangling yourself in the politics of the system. Stop entangling yourself in the holidays of this system. Don't do that.
 
@@ -216,10 +216,10 @@ Reading from an article, Trump revoking protections for Cubans, Haitians and oth
 **[Hosea 13:9-10](/bible/hosea/13#v9)**  *[[19:11](https://www.youtube.com/watch?v=swrO7j4PfUQ&t=1151s)]*
 
 > <sup>[9](/bible/hosea/13#v9)</sup> O Israel, thou hast destroyed thyself; but in me is thine help.
->
-> <sup>[10](/bible/hosea/13#v10)</sup> I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?
 
 - O Israel, thou hast destroyed thyself; but in me is thine help: In God is our help. We destroyed ourselves and we partake in the system's politics. We destroyed ourselves and we partake in the sins of America, the pagan holidays.
+
+> <sup>[10](/bible/hosea/13#v10)</sup> I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?
 
 - I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes: God say he will be our king.
 

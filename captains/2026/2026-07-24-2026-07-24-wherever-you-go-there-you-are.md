@@ -71,6 +71,8 @@ tags: ["15 Minutes w/ The Captains", "egypt", "faith"]
 
 **[Jonah 1:1-5](/bible/jonah/1#v1)**  *[[4:26](https://www.youtube.com/watch?v=VRZ_BZQvJrA&t=266s)]*
 
+- This is a classic example. The Lord said, listen, Jonah, I need you to go down there and prophesy against Nineveh. But Jonah rose up to flee unto Tarshish: he decided to do his own thing. I'm not going to go there; I think I need to go to Tarshish.
+
 > <sup>[1](/bible/jonah/1#v1)</sup> Now the word of the Lord came unto Jonah the son of Amittai, saying,
 >
 > <sup>[2](/bible/jonah/1#v2)</sup> Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
@@ -78,14 +80,12 @@ tags: ["15 Minutes w/ The Captains", "egypt", "faith"]
 > <sup>[3](/bible/jonah/1#v3)</sup> But Jonah rose up to flee unto Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the Lord.
 >
 > <sup>[4](/bible/jonah/1#v4)</sup> But the Lord sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.
->
-> <sup>[5](/bible/jonah/1#v5)</sup> Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
-
-- This is a classic example. The Lord said, listen, Jonah, I need you to go down there and prophesy against Nineveh. But Jonah rose up to flee unto Tarshish: he decided to do his own thing. I'm not going to go there; I think I need to go to Tarshish.
 
 - The LORD sent out a great wind into the sea: that wind, that storm, represents troubles. He relocated to an area he wasn't supposed to go to, and the same troubles followed him. That's what you've got to see today. If you've got a ninja mindset up here, or wherever you're at, and you go to a different country, a different city, you're just going to be a ninja wherever you relocate. Them same ninja problems are going to follow you.
 
 - So that the ship was like to be broken: just like your life. Damn, you know what, man, we up here in DC, I've got a broken life, I'm going to relocate. You go to another area, and your life is still broken.
+
+> <sup>[5](/bible/jonah/1#v5)</sup> Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
 
 - And cast forth the wares that were in the ship into the sea, to lighten it: they're trying to figure out what to do. That's what you might do: maybe if I get a new job, a new car, go to a different church. You're trying to unload all these burdens, and the storm's still going on, because you didn't unload the main burden, which is your thoughts, which govern everything you think, do and say.
 
@@ -111,63 +111,63 @@ tags: ["15 Minutes w/ The Captains", "egypt", "faith"]
 
 **[Luke 15:11-19](/bible/luke/15#v11)**  *[[8:48](https://www.youtube.com/watch?v=VRZ_BZQvJrA&t=528s)]*
 
+- We know this is a parable talking about the northern kingdom.
+
 > <sup>[11](/bible/luke/15#v11)</sup> And he said, A certain man had two sons:
 >
 > <sup>[12](/bible/luke/15#v12)</sup> And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.
 >
 > <sup>[13](/bible/luke/15#v13)</sup> And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.
->
-> <sup>[14](/bible/luke/15#v14)</sup> And when he had spent all, there arose a mighty famine in that land; and he began to be in want.
->
-> <sup>[15](/bible/luke/15#v15)</sup> And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.
->
-> <sup>[16](/bible/luke/15#v16)</sup> And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
->
-> <sup>[17](/bible/luke/15#v17)</sup> And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!
->
-> <sup>[18](/bible/luke/15#v18)</sup> I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
->
-> <sup>[19](/bible/luke/15#v19)</sup> And am no more worthy to be called thy son: make me as one of thy hired servants.
-
-- We know this is a parable talking about the northern kingdom.
 
 - Took his journey into a far country, and there wasted his substance with riotous living: he took his money and moved somewhere else, living just a riotous living. He didn't change anything. He just changed his location, but he was still the same person.
 
+> <sup>[14](/bible/luke/15#v14)</sup> And when he had spent all, there arose a mighty famine in that land; and he began to be in want.
+
 - There arose a mighty famine in that land; and he began to be in want: the famine hit. Damn, I'm lacking these cheap things that I had.
+
+> <sup>[15](/bible/luke/15#v15)</sup> And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.
 
 - He sent him into his fields to feed swine: he may have left the area where he had a good job and relocated, and now he's down there digging ditches or something.
 
+> <sup>[16](/bible/luke/15#v16)</sup> And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
+
 - He would fain have filled his belly with the husks that the swine did eat: he was barely making it. He relocated to a whole new area without counsel and got a job where he can barely feed himself. We even had that happen in the body.
+
+> <sup>[17](/bible/luke/15#v17)</sup> And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!
 
 - When he came to himself: hold on, man, what am I doing? I need to return where I came from, because I was actually doing better up there than when I relocated down here. I can't even afford to keep a roof over my head.
 
 - This is an example: the prodigal son left without counsel, moved to another area, engaged in riotous living, had to take a job where he couldn't even feed himself or keep a roof over his head, and had to go back. Meaning we carry our problems with us no matter where we go.
 
+> <sup>[18](/bible/luke/15#v18)</sup> I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
+>
+> <sup>[19](/bible/luke/15#v19)</sup> And am no more worthy to be called thy son: make me as one of thy hired servants.
+
 
 **[Mark 7:21-23](/bible/mark/7#v21)**  *[[11:28](https://www.youtube.com/watch?v=VRZ_BZQvJrA&t=688s)]*
 
 > <sup>[21](/bible/mark/7#v21)</sup> For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
->
-> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
->
-> <sup>[23](/bible/mark/7#v23)</sup> All these evil things come from within, and defile the man.
 
 - Out of the heart of men proceed evil thoughts: if I'm evil here and move over there, my thoughts haven't changed. Look at these things that come out of the mind. All these things are within the man.
 
+> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
+
 - An evil eye: meaning you think it's everybody around you. Man, they're not in the spirit up there, I've got to move. They're tripping on my job, I've got to get a new job. It's like, brother, sister, you're getting in trouble no matter where you're at.
+
+> <sup>[23](/bible/mark/7#v23)</sup> All these evil things come from within, and defile the man.
 
 - All these evil things come from within, and defile the man: that's how we get defiled.
 
 
 **[Matthew 23:25-26](/bible/matthew/23#v25)**  *[[12:32](https://www.youtube.com/watch?v=VRZ_BZQvJrA&t=752s)]*
 
-> <sup>[25](/bible/matthew/23#v25)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.
->
-> <sup>[26](/bible/matthew/23#v26)</sup> Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also.
-
 - Let's get a perfect example of men that were defiled inwardly. Ye make clean the outside of the cup and of the platter: they may have been at the top of society, the leaders, but he said y'all are clean on the outside.
 
+> <sup>[25](/bible/matthew/23#v25)</sup> Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.
+
 - But within they are full of extortion and excess: no matter if they were the chiefs in the synagogue in Jerusalem, no matter where they were, Christ is saying, listen, y'all are filthy on the inside.
+
+> <sup>[26](/bible/matthew/23#v26)</sup> Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also.
 
 - Cleanse first that which is within the cup and platter: meaning get your mind right. You could be at the top of society, but if your mind is broken, it doesn't matter if you're at the top or the bottom. What is Christ instructing? Clean up your mind. It's not about where you are; it's where you're at mentally.
 

@@ -108,6 +108,8 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
 
 **[Jeremiah 30:1-7](/bible/jeremiah/30#v1)**  *[[26:14](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1574s)]*
 
+- Write the words in a book: that is the Bible. I will bring again the captivity of my people Israel and Judah means bringing us back from captivity, not into it, because he says they shall return to the land and possess it; that clears up Joel 3:1.
+
 > <sup>[1](/bible/jeremiah/30#v1)</sup> The word that came to Jeremiah from the Lord, saying,
 >
 > <sup>[2](/bible/jeremiah/30#v2)</sup> Thus speaketh the Lord God of Israel, saying, Write thee all the words that I have spoken unto thee in a book.
@@ -117,12 +119,6 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
 > <sup>[4](/bible/jeremiah/30#v4)</sup> And these are the words that the Lord spake concerning Israel and concerning Judah.
 >
 > <sup>[5](/bible/jeremiah/30#v5)</sup> For thus saith the Lord; We have heard a voice of trembling, of fear, and not of peace.
->
-> <sup>[6](/bible/jeremiah/30#v6)</sup> Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?
->
-> <sup>[7](/bible/jeremiah/30#v7)</sup> Alas! for that day is great, so that none is like it: it is even the time of Jacob’s trouble; but he shall be saved out of it.
-
-- Write the words in a book: that is the Bible. I will bring again the captivity of my people Israel and Judah means bringing us back from captivity, not into it, because he says they shall return to the land and possess it; that clears up Joel 3:1.
 
 - A voice of trembling, of fear and not of peace: we are coming to that moment now. Every man with his hands on his loins as a woman in travail, and all faces turned into paleness.
 
@@ -140,6 +136,10 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
 
     Oh that I had in the wilderness a lodging place, that I might leave my people, for they are all adulterers who bend their tongues for lies and are not valiant for the truth: valiant in the theatre for Nat Turner and Malcolm, but not on the earth.
 
+> <sup>[6](/bible/jeremiah/30#v6)</sup> Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?
+>
+> <sup>[7](/bible/jeremiah/30#v7)</sup> Alas! for that day is great, so that none is like it: it is even the time of Jacob’s trouble; but he shall be saved out of it.
+
 
 *[[29:22](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=1762s)]* **In The News: The I Am a Man signs of the civil rights era** — Sixty years of a liberty we did not have before, and we have used it to shoot and hate each other; two boys were shot in the face by our own brother in the Georgia camp's neighbourhood today.
 
@@ -152,7 +152,17 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
 > <sup>[21](/bible/matthew/10#v21)</sup> And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.
 >
 > <sup>[22](/bible/matthew/10#v22)</sup> And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.
->
+
+- Ye shall be hated of all men for my name's sake: they do not hate us for being Muslim or Christian, they hate the way we look because they see God in us, and the devil in them hates it. He that endureth to the end shall be saved.
+
+- The brother shall deliver up the brother to death, and the father the child, and children rise against parents: some of our children grow up to be demons like Samuel's and Eli's sons. A girl who wanted TikTok and spandex told her school her mother beat her, the mother was arrested and the court gave her to the father; when your children show you they hate God, believe them. Christian parents call child services on their own children for not keeping Christmas.
+
+- Propaganda is how they make us hated: a Negro in a purple shirt doing something terrible on the news, arrest photos where the shirt was added, eight-year-old clips brought into Clubhouse.
+
+- When they persecute you in this city, flee into another; not every city will go off on the Israelites. Ye shall not have gone over the cities of Israel till the Son of man be come: we will not reach every Israelite before he comes.
+
+- The disciple is not above his master; they called Christ Beelzebub and will call his household worse. Nothing is covered that shall not be revealed, as the Epstein files show; what you hear privately, preach on the housetops.
+
 > <sup>[23](/bible/matthew/10#v23)</sup> But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.
 >
 > <sup>[24](/bible/matthew/10#v24)</sup> The disciple is not above his master, nor the servant above his lord.
@@ -164,26 +174,6 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
 > <sup>[27](/bible/matthew/10#v27)</sup> What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.
 >
 > <sup>[28](/bible/matthew/10#v28)</sup> And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
->
-> <sup>[29](/bible/matthew/10#v29)</sup> Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.
->
-> <sup>[30](/bible/matthew/10#v30)</sup> But the very hairs of your head are all numbered.
->
-> <sup>[31](/bible/matthew/10#v31)</sup> Fear ye not therefore, ye are of more value than many sparrows.
->
-> <sup>[32](/bible/matthew/10#v32)</sup> Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.
->
-> <sup>[33](/bible/matthew/10#v33)</sup> But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.
-
-- Ye shall be hated of all men for my name's sake: they do not hate us for being Muslim or Christian, they hate the way we look because they see God in us, and the devil in them hates it. He that endureth to the end shall be saved.
-
-- The brother shall deliver up the brother to death, and the father the child, and children rise against parents: some of our children grow up to be demons like Samuel's and Eli's sons. A girl who wanted TikTok and spandex told her school her mother beat her, the mother was arrested and the court gave her to the father; when your children show you they hate God, believe them. Christian parents call child services on their own children for not keeping Christmas.
-
-- Propaganda is how they make us hated: a Negro in a purple shirt doing something terrible on the news, arrest photos where the shirt was added, eight-year-old clips brought into Clubhouse.
-
-- When they persecute you in this city, flee into another; not every city will go off on the Israelites. Ye shall not have gone over the cities of Israel till the Son of man be come: we will not reach every Israelite before he comes.
-
-- The disciple is not above his master; they called Christ Beelzebub and will call his household worse. Nothing is covered that shall not be revealed, as the Epstein files show; what you hear privately, preach on the housetops.
 
 - Fear not them which kill the body but are not able to kill the soul: this body is a shell, death is sleep, and to be absent from the body is to be present with the Lord. Crafty counsel taught us to fear death, but the mother with the seven sons said cut off my tongue. Fear him that can destroy soul and body in hell, the lake of fire, which is not now.
 
@@ -200,6 +190,16 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
     > <sup>[11](/bible/acts/26#v11)</sup> And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities.
 
     Paul shut up the saints in prison, gave his voice against them when they were put to death, punished them in every synagogue and compelled them to blaspheme, exceedingly mad against them even unto strange cities: what he did the Pharisees and later the inquisitors under Ferdinand and Isabella all did, and it is what Christ said denying him under persecution looks like. Some here are hirelings who will fold.
+
+> <sup>[29](/bible/matthew/10#v29)</sup> Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.
+>
+> <sup>[30](/bible/matthew/10#v30)</sup> But the very hairs of your head are all numbered.
+>
+> <sup>[31](/bible/matthew/10#v31)</sup> Fear ye not therefore, ye are of more value than many sparrows.
+>
+> <sup>[32](/bible/matthew/10#v32)</sup> Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.
+>
+> <sup>[33](/bible/matthew/10#v33)</sup> But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.
 
 
 **[Matthew 24:9-14](/bible/matthew/24#v9)**  *[[57:02](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=3422s)]*
@@ -256,12 +256,10 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
 **[Matthew 24:29-31](/bible/matthew/24#v29)**  *[[1:06:40](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4000s)]*
 
 > <sup>[29](/bible/matthew/24#v29)</sup> Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
->
-> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
->
-> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
 
 - Immediately after the tribulation of those days: there is no pre-trib or post-trib rapture where the church escapes; the stars falling are missiles and the powers of the heavens shaken is war, the war with Idumea.
+
+> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
 
 - Then shall appear the sign of the Son of man: tribulation, then the war, then Christ comes, and the gap could be five years as World War II was, or seven. Christ is not returning this year or next; you are not afflicted yet, and not paying your light bill is not tribulation, so stop smoking weed and dressing like hoes and thinking he comes tomorrow.
 
@@ -295,6 +293,8 @@ Reading from *The Cambridge History of Judaism*, The Early Modern World, 1500–
 
     The Lord comes with fire and chariots like a whirlwind to plead with all flesh, and the slain of the Lord shall be many: not just Esau, the wicked Israelites too.
 
+> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+
 
 <div class="reading">
 
@@ -325,22 +325,6 @@ Reading from *The Times of Israel*  *[[1:14:16](https://www.youtube.com/watch?v=
 **[Revelation 7:9-17](/bible/revelation/7#v9)**  *[[1:19:46](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=4786s)]*
 
 > <sup>[9](/bible/revelation/7#v9)</sup> After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
->
-> <sup>[10](/bible/revelation/7#v10)</sup> And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
->
-> <sup>[11](/bible/revelation/7#v11)</sup> And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
->
-> <sup>[12](/bible/revelation/7#v12)</sup> Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen.
->
-> <sup>[13](/bible/revelation/7#v13)</sup> And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?
->
-> <sup>[14](/bible/revelation/7#v14)</sup> And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
->
-> <sup>[15](/bible/revelation/7#v15)</sup> Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.
->
-> <sup>[16](/bible/revelation/7#v16)</sup> They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
->
-> <sup>[17](/bible/revelation/7#v17)</sup> For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
 
 - A great multitude which no man could number of all nations and kindreds: the Christian says we are all included, but precept upon precept, the children of Israel are as the sand of the sea which cannot be numbered, Jews of every nation under heaven dwelt at Jerusalem, and the Lord recovers his remnant from Assyria, Egypt, Pathros, Cush, Elam, Shinar, Hamath and the islands, the Afro-Turks, Afro-Iranians, Siddis and the rest, gathering the dispersed of Judah from the four corners.
 
@@ -377,6 +361,22 @@ Reading from *The Times of Israel*  *[[1:14:16](https://www.youtube.com/watch?v=
     > <sup>[42](/bible/2-esdras/2#v42)</sup> I Esdras saw upon the mount Sion a great people, whom I could not number, and they all praised the Lord with songs.
 
     The number of those sealed in the feast of the Lord who have fulfilled the law, then a great people on mount Zion whom Ezra could not number: Revelation 7:4 and 7:9 explained.
+
+> <sup>[10](/bible/revelation/7#v10)</sup> And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
+>
+> <sup>[11](/bible/revelation/7#v11)</sup> And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
+>
+> <sup>[12](/bible/revelation/7#v12)</sup> Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen.
+>
+> <sup>[13](/bible/revelation/7#v13)</sup> And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?
+>
+> <sup>[14](/bible/revelation/7#v14)</sup> And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
+>
+> <sup>[15](/bible/revelation/7#v15)</sup> Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.
+>
+> <sup>[16](/bible/revelation/7#v16)</sup> They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
+>
+> <sup>[17](/bible/revelation/7#v17)</sup> For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
 
 
 **[Deuteronomy 4:27-30](/bible/deuteronomy/4#v27)**  *[[1:27:38](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=5258s)]*
@@ -590,27 +590,19 @@ Reading from an on-screen note on Pastor William Wolfe  *[[1:59:47](https://www.
 
 **[2 Esdras 16:71-78](/bible/2-esdras/16#v71)**  *[[2:07:47](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=7667s)]*
 
+- They shall be like madmen, sparing none, spoiling and destroying those that fear the Lord: Paul was exceedingly mad against them, Antiochus made all one people and many Israelites consented to his religion, profaned the Sabbath and sacrificed swine, and whoever would not do the king's commandment died. It happened under Rome and Spain and it will happen again; a Sunday law is nothing new.
+
+- They shall take away their goods and cast them out of their houses: the Hebrews took joyfully the spoiling of their goods for supporting Paul, knowing they had a better substance in heaven. Are we willing to lose the new house, the car and the nails? That is another level of faith to build in a short time.
+
 > <sup>[71](/bible/2-esdras/16#v71)</sup> They shall be like mad men, sparing none, but still spoiling and destroying those that fear the Lord.
 >
 > <sup>[72](/bible/2-esdras/16#v72)</sup> For they shall waste and take away their goods, and cast them out of their houses.
 >
 > <sup>[73](/bible/2-esdras/16#v73)</sup> Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
->
-> <sup>[74](/bible/2-esdras/16#v74)</sup> Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same.
->
-> <sup>[75](/bible/2-esdras/16#v75)</sup> Be ye not afraid neither doubt; for God is your guide,
->
-> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
->
-> <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
->
-> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
-
-- They shall be like madmen, sparing none, spoiling and destroying those that fear the Lord: Paul was exceedingly mad against them, Antiochus made all one people and many Israelites consented to his religion, profaned the Sabbath and sacrificed swine, and whoever would not do the king's commandment died. It happened under Rome and Spain and it will happen again; a Sunday law is nothing new.
-
-- They shall take away their goods and cast them out of their houses: the Hebrews took joyfully the spoiling of their goods for supporting Paul, knowing they had a better substance in heaven. Are we willing to lose the new house, the car and the nails? That is another level of faith to build in a short time.
 
 - Then shall they be known who are my chosen, and they shall be tried as the gold in the fire: everyone says they believe now, but the day the persecution starts you will see who is real and who is fake, who confesses Christ and who denies him. The souls of the righteous are in the hand of God and no torment, the lake of fire, touches them; in the sight of the unwise they seem to die, but they are at peace, and having been a little chastised they are greatly rewarded, received as a burnt offering. He that taketh not his cross, which led Christ to death, is not worthy of me.
+
+> <sup>[74](/bible/2-esdras/16#v74)</sup> Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same.
 
 - Behold, the days of trouble are at hand, but I will deliver you from the same: your body may die, but the real you is delivered, as Jeremiah 30:7 says. Be ye not afraid, neither doubt, because doubt creeps in when your mother and children are put to death, as it did for John the Baptist in prison; when James was beheaded and Peter jailed, the saints could only pray in a safe house and thought Peter's angel was at the door, and there will be prisons like Guantanamo where nobody can visit you. It is not that we do not care; we cannot get to you.
 
@@ -732,6 +724,14 @@ Reading from an on-screen note on Pastor William Wolfe  *[[1:59:47](https://www.
 
     It is impossible to renew again to repentance those once enlightened who fall away back into their sin or false religion; that which beareth thorns and briers is rejected and its end is to be burned, the same as 2 Esdras 16:78.
 
+> <sup>[75](/bible/2-esdras/16#v75)</sup> Be ye not afraid neither doubt; for God is your guide,
+>
+> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
+>
+> <sup>[77](/bible/2-esdras/16#v77)</sup> Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
+>
+> <sup>[78](/bible/2-esdras/16#v78)</sup> It is left undressed, and is cast into the fire to be consumed therewith.
+
 
 *[[2:13:34](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=8014s)]* **In The News: A prepper: if the government tells you to get on a bus or truck for your safety, do not get on** — We have told brothers and sisters for years to prepare; now the white man said it, they will listen.
 
@@ -836,17 +836,15 @@ Reading from an on-screen note on Pastor William Wolfe  *[[1:59:47](https://www.
 
 **[Jeremiah 30:8-11](/bible/jeremiah/30#v8)**  *[[3:02:51](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=10971s)]*
 
+- In that day I will break his yoke from off thy neck and burst thy bonds, and strangers shall no more serve themselves of him: Christ's return. They shall serve the Lord their God and David their king whom I will raise up: David is alive in the last days, and Israel returns after many days without a king to seek the Lord and David their king, and the Lord sets up one shepherd, my servant David.
+
+- There is no remembrance of former things, so David will not remember who he is and neither do we; do not guess who is who or call yourself Samson, because it causes partiality, and love your neighbour as yourself.
+
 > <sup>[8](/bible/jeremiah/30#v8)</sup> For it shall come to pass in that day, saith the Lord of hosts, that I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more serve themselves of him:
 >
 > <sup>[9](/bible/jeremiah/30#v9)</sup> But they shall serve the Lord their God, and David their king, whom I will raise up unto them.
 >
 > <sup>[10](/bible/jeremiah/30#v10)</sup> Therefore fear thou not, O my servant Jacob, saith the Lord; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make him afraid.
->
-> <sup>[11](/bible/jeremiah/30#v11)</sup> For I am with thee, saith the Lord, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee: but I will correct thee in measure, and will not leave thee altogether unpunished.
-
-- In that day I will break his yoke from off thy neck and burst thy bonds, and strangers shall no more serve themselves of him: Christ's return. They shall serve the Lord their God and David their king whom I will raise up: David is alive in the last days, and Israel returns after many days without a king to seek the Lord and David their king, and the Lord sets up one shepherd, my servant David.
-
-- There is no remembrance of former things, so David will not remember who he is and neither do we; do not guess who is who or call yourself Samson, because it causes partiality, and love your neighbour as yourself.
 
 - Fear thou not, O my servant Jacob: what he says will happen makes us afraid, so we increase our faith by remembering this body is a shell. I will save thee from afar and thy seed from the land of their captivity, and Jacob shall return and be in rest and none shall make him afraid. Though I make a full end of all nations, the extras born in vain with Esau the villain, I will not make a full end of thee, but correct thee in measure and not leave thee altogether unpunished.
 
@@ -870,26 +868,28 @@ Reading from an on-screen note on Pastor William Wolfe  *[[1:59:47](https://www.
 
     Let the multitude perish which was born in vain: the nations are the extras in the movie, and we are the stars.
 
+> <sup>[11](/bible/jeremiah/30#v11)</sup> For I am with thee, saith the Lord, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee: but I will correct thee in measure, and will not leave thee altogether unpunished.
+
 
 **[Jeremiah 30:12-17](/bible/jeremiah/30#v12)**  *[[3:07:27](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=11247s)]*
+
+- Thy bruise is incurable and there is none to plead thy cause, thou hast no healing medicines: every Negro out of his mama has a new idea to save black people, economics or voting, and those medicines do not work, because the wound is our sins. Ah sinful nation, laden with iniquity, the whole head sick, wounds and putrefying sores not mollified with ointment: the only healer is the Saviour, our rabbi and master.
+
+- Job's life symbolises the nation: boils from the sole of his foot to his crown, friends who would not plead his cause, everything lost, and a wife who turned on him in his darkest moment, as the black woman does. God had to intervene, and at the end Job was blessed, as we will be if we endure.
 
 > <sup>[12](/bible/jeremiah/30#v12)</sup> For thus saith the Lord, Thy bruise is incurable, and thy wound is grievous.
 >
 > <sup>[13](/bible/jeremiah/30#v13)</sup> There is none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.
 >
 > <sup>[14](/bible/jeremiah/30#v14)</sup> All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; because thy sins were increased.
->
+
+- All thy lovers have forgotten thee: the Chinese friends and the Arab friends, as Egypt and Ethiopia and Moab before, are gone. I have wounded thee for the multitude of thine iniquity because thy sins were increased, the Houston rodeo, and God walked contrary to us and brought us into the land of our enemies; if our uncircumcised hearts be humbled and we accept the punishment of our iniquity, we admit God was right, as the three holy children sang in the furnace, thou art righteous in all the things thou hast done to us.
+
 > <sup>[15](/bible/jeremiah/30#v15)</sup> Why criest thou for thine affliction? thy sorrow is incurable for the multitude of thine iniquity: because thy sins were increased, I have done these things unto thee.
 >
 > <sup>[16](/bible/jeremiah/30#v16)</sup> Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.
 >
 > <sup>[17](/bible/jeremiah/30#v17)</sup> For I will restore health unto thee, and I will heal thee of thy wounds, saith the Lord; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after.
-
-- Thy bruise is incurable and there is none to plead thy cause, thou hast no healing medicines: every Negro out of his mama has a new idea to save black people, economics or voting, and those medicines do not work, because the wound is our sins. Ah sinful nation, laden with iniquity, the whole head sick, wounds and putrefying sores not mollified with ointment: the only healer is the Saviour, our rabbi and master.
-
-- Job's life symbolises the nation: boils from the sole of his foot to his crown, friends who would not plead his cause, everything lost, and a wife who turned on him in his darkest moment, as the black woman does. God had to intervene, and at the end Job was blessed, as we will be if we endure.
-
-- All thy lovers have forgotten thee: the Chinese friends and the Arab friends, as Egypt and Ethiopia and Moab before, are gone. I have wounded thee for the multitude of thine iniquity because thy sins were increased, the Houston rodeo, and God walked contrary to us and brought us into the land of our enemies; if our uncircumcised hearts be humbled and we accept the punishment of our iniquity, we admit God was right, as the three holy children sang in the furnace, thou art righteous in all the things thou hast done to us.
 
 <div class="reading">
 
@@ -951,18 +951,6 @@ Reading from an on-screen headline  *[[3:13:24](https://www.youtube.com/watch?v=
 **[Jeremiah 30:18-24](/bible/jeremiah/30#v18)**  *[[3:24:13](https://www.youtube.com/watch?v=1jXnB9u2FpU&t=12253s)]*
 
 > <sup>[18](/bible/jeremiah/30#v18)</sup> Thus saith the Lord; Behold, I will bring again the captivity of Jacob’s tents, and have mercy on his dwellingplaces; and the city shall be builded upon her own heap, and the palace shall remain after the manner thereof.
->
-> <sup>[19](/bible/jeremiah/30#v19)</sup> And out of them shall proceed thanksgiving and the voice of them that make merry: and I will multiply them, and they shall not be few; I will also glorify them, and they shall not be small.
->
-> <sup>[20](/bible/jeremiah/30#v20)</sup> Their children also shall be as aforetime, and their congregation shall be established before me, and I will punish all that oppress them.
->
-> <sup>[21](/bible/jeremiah/30#v21)</sup> And their nobles shall be of themselves, and their governor shall proceed from the midst of them; and I will cause him to draw near, and he shall approach unto me: for who is this that engaged his heart to approach unto me? saith the Lord.
->
-> <sup>[22](/bible/jeremiah/30#v22)</sup> And ye shall be my people, and I will be your God.
->
-> <sup>[23](/bible/jeremiah/30#v23)</sup> Behold, the whirlwind of the Lord goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.
->
-> <sup>[24](/bible/jeremiah/30#v24)</sup> The fierce anger of the Lord shall not return, until he have done it, and until he have performed the intents of his heart: in the latter days ye shall consider it.
 
 - I will bring again the captivity of Jacob's tents: the children of Israel pitch their tents every man by his own camp and his own standard, Judah's lion and Benjamin's wolf, the restructuring of a nation; how goodly are thy tents, O Jacob, and he made the tribes to dwell in their tents.
 
@@ -1023,6 +1011,18 @@ Reading from an on-screen headline  *[[3:13:24](https://www.youtube.com/watch?v=
     > <sup>[6](/bible/matthew/2#v6)</sup> And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
 
     Out of Bethlehem in the land of Judah shall come a governor that shall rule my people Israel: Christ, our governor from the midst of us.
+
+> <sup>[19](/bible/jeremiah/30#v19)</sup> And out of them shall proceed thanksgiving and the voice of them that make merry: and I will multiply them, and they shall not be few; I will also glorify them, and they shall not be small.
+>
+> <sup>[20](/bible/jeremiah/30#v20)</sup> Their children also shall be as aforetime, and their congregation shall be established before me, and I will punish all that oppress them.
+>
+> <sup>[21](/bible/jeremiah/30#v21)</sup> And their nobles shall be of themselves, and their governor shall proceed from the midst of them; and I will cause him to draw near, and he shall approach unto me: for who is this that engaged his heart to approach unto me? saith the Lord.
+>
+> <sup>[22](/bible/jeremiah/30#v22)</sup> And ye shall be my people, and I will be your God.
+>
+> <sup>[23](/bible/jeremiah/30#v23)</sup> Behold, the whirlwind of the Lord goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.
+>
+> <sup>[24](/bible/jeremiah/30#v24)</sup> The fierce anger of the Lord shall not return, until he have done it, and until he have performed the intents of his heart: in the latter days ye shall consider it.
 
 
 ## Class Questions

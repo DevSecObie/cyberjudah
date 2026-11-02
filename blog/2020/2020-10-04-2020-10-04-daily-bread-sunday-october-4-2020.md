@@ -409,6 +409,8 @@ tags: ["IUIC in the ClassRoom", "discipline", "obedience", "sabbath", "the-law",
 
 **[1 Chronicles 16:11-17](/bible/1-chronicles/16#v11)**  *[[1:28:00](https://www.youtube.com/watch?v=elg6Vk2VV3M&t=5280s)]*
 
+- Here's what we can do to get back to him: seek the Lord and remember his judgments, O seed of Israel his servant.
+
 > <sup>[11](/bible/1-chronicles/16#v11)</sup> Seek the Lord and his strength, seek his face continually.
 >
 > <sup>[12](/bible/1-chronicles/16#v12)</sup> Remember his marvellous works that he hath done, his wonders, and the judgments of his mouth;
@@ -416,18 +418,16 @@ tags: ["IUIC in the ClassRoom", "discipline", "obedience", "sabbath", "the-law",
 > <sup>[13](/bible/1-chronicles/16#v13)</sup> O ye seed of Israel his servant, ye children of Jacob, his chosen ones.
 >
 > <sup>[14](/bible/1-chronicles/16#v14)</sup> He is the Lord our God; his judgments are in all the earth.
->
+
+- He is the Lord our God: that's possession, like saying that's my mama. Be mindful always of his covenant: we opened with Joshua 1:8, meditate on these things.
+
+- A covenant to Israel for ever: that's the title of the class. The children inherit the agreement made before they were born.
+
 > <sup>[15](/bible/1-chronicles/16#v15)</sup> Be ye mindful always of his covenant; the word which he commanded to a thousand generations;
 >
 > <sup>[16](/bible/1-chronicles/16#v16)</sup> Even of the covenant which he made with Abraham, and of his oath unto Isaac;
 >
 > <sup>[17](/bible/1-chronicles/16#v17)</sup> And hath confirmed the same to Jacob for a law, and to Israel for an everlasting covenant,
-
-- Here's what we can do to get back to him: seek the Lord and remember his judgments, O seed of Israel his servant.
-
-- He is the Lord our God: that's possession, like saying that's my mama. Be mindful always of his covenant: we opened with Joshua 1:8, meditate on these things.
-
-- A covenant to Israel for ever: that's the title of the class. The children inherit the agreement made before they were born.
 
 
 **[Psalms 105:4-10](/bible/psalms/105#v4)**  *[[1:30:44](https://www.youtube.com/watch?v=elg6Vk2VV3M&t=5444s)]*
@@ -505,13 +505,15 @@ tags: ["IUIC in the ClassRoom", "discipline", "obedience", "sabbath", "the-law",
 **[Sirach 39:19-20](/bible/sirach/39#v19)**  *[[1:39:26](https://www.youtube.com/watch?v=elg6Vk2VV3M&t=5966s)]*
 
 > <sup>[19](/bible/sirach/39#v19)</sup> The works of all flesh are before him, and nothing can be hid from his eyes.
->
-> <sup>[20](/bible/sirach/39#v20)</sup> He seeth from everlasting to everlasting; and there is nothing wonderful before him.
 
 - Nothing can be hid from his eyes: not the late-night booty calls, not the late-night drug deals.
 
+> <sup>[20](/bible/sirach/39#v20)</sup> He seeth from everlasting to everlasting; and there is nothing wonderful before him.
+
 
 **[Baruch 2:30-35](/bible/baruch/2#v30)**  *[[1:40:12](https://www.youtube.com/watch?v=elg6Vk2VV3M&t=6012s)]*
+
+- In the land of our captivities we would remember ourselves: that's the connection; we're remembering the covenant and coming back to our heritage, not ashamed, sweating on the streets.
 
 > <sup>[30](/bible/baruch/2#v30)</sup> For I knew that they would not hear me, because it is a stiffnecked people: but in the land of their captivities they shall remember themselves.
 >
@@ -520,16 +522,14 @@ tags: ["IUIC in the ClassRoom", "discipline", "obedience", "sabbath", "the-law",
 > <sup>[32](/bible/baruch/2#v32)</sup> And they shall praise me in the land of their captivity, and think upon my name,
 >
 > <sup>[33](/bible/baruch/2#v33)</sup> And return from their stiff neck, and from their wicked deeds: for they shall remember the way of their fathers, which sinned before the Lord.
->
-> <sup>[34](/bible/baruch/2#v34)</sup> And I will bring them again into the land which I promised with an oath unto their fathers, Abraham, Isaac, and Jacob, and they shall be lords of it: and I will increase them, and they shall not be diminished.
->
-> <sup>[35](/bible/baruch/2#v35)</sup> And I will make an everlasting covenant with them to be their God, and they shall be my people: and I will no more drive my people of Israel out of the land that I have given them.
-
-- In the land of our captivities we would remember ourselves: that's the connection; we're remembering the covenant and coming back to our heritage, not ashamed, sweating on the streets.
 
 - Remember the way of their fathers which sinned: remember it and do the opposite.
 
 - He will bring us again into the land promised with an oath to Abraham, Isaac and Jacob, and we shall be lords of it. An everlasting covenant: that's what you can hang your hat on.
+
+> <sup>[34](/bible/baruch/2#v34)</sup> And I will bring them again into the land which I promised with an oath unto their fathers, Abraham, Isaac, and Jacob, and they shall be lords of it: and I will increase them, and they shall not be diminished.
+>
+> <sup>[35](/bible/baruch/2#v35)</sup> And I will make an everlasting covenant with them to be their God, and they shall be my people: and I will no more drive my people of Israel out of the land that I have given them.
 
 
 ## In Closing

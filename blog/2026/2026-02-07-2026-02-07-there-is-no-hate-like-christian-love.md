@@ -176,14 +176,14 @@ tags: ["IUIC in the ClassRoom", "captivity", "christ", "false-religion", "unity"
 **[Psalms 83:2-4](/bible/psalms/83#v2)**  *[[38:48](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2328s)]*
 
 > <sup>[2](/bible/psalms/83#v2)</sup> For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
->
-> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
->
-> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 - Thine enemies make a tumult, and they that hate thee have lifted up the head: they unified and organized against the children of Israel. They have taken crafty counsel against thy people and consulted against thy hidden ones, whose identity is hidden under Negro, Afro-American and African-American.
 
 - The crafty counsel was to put us in chains, split us into Jamaican, Haitian and American, hand us different religions, and now FBA, foundational Black Americans who hate the other eleven tribes instead of the Esau who took their identity. Come, let us cut them off from being a nation, that the name of Israel may be no more in remembrance.
+
+> <sup>[3](/bible/psalms/83#v3)</sup> They have taken crafty counsel against thy people, and consulted against thy hidden ones.
+>
+> <sup>[4](/bible/psalms/83#v4)</sup> They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
 
 *[[42:26](https://www.youtube.com/watch?v=1VlT_mXYuaU&t=2546s)]* **In The News: A pastor preaching from the barber's chair mid-haircut.** — That is the Black pastor today: soft, sweet and squishy, and he is leading people. The leaders of this people cause them to err.

@@ -99,16 +99,16 @@ Reading from Definition of benefactor (read on air; source not named)  *[[3:17](
 **[Luke 22:28-30](/bible/luke/22#v28)**  *[[11:40](https://www.youtube.com/watch?v=Vwj8i-cjur8&t=700s)]*
 
 > <sup>[28](/bible/luke/22#v28)</sup> Ye are they which have continued with me in my temptations.
->
-> <sup>[29](/bible/luke/22#v29)</sup> And I appoint unto you a kingdom, as my Father hath appointed unto me;
->
-> <sup>[30](/bible/luke/22#v30)</sup> That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.
 
 - Ye are they which have continued with me in my temptations: Why? Because back to Hebrews chapter 2, so it behooved him to be made like unto us.
 
 - In my temptations: Christ himself was tempted. He said, "You was with me in my temptations." So he's able to give us safety, mercy, grace, understanding. He's able to do that to us because he was tempted like how we're tempted. So he understands. He's an understanding savior, right? That's why there's grace and mercy given to us now because he can level with us to a certain degree. Now he can bear with us but remember he did no sin. He did no sin. So we can't use that as an excuse like Christians do.
 
+> <sup>[29](/bible/luke/22#v29)</sup> And I appoint unto you a kingdom, as my Father hath appointed unto me;
+
 - I appoint unto you a kingdom, as my Father hath appointed unto me: How is this for everybody else when Christ himself said, "I appoint unto you a kingdom as my father had appointed unto me." Who's the you? He's talking to the disciples who were Israelites.
+
+> <sup>[30](/bible/luke/22#v30)</sup> That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.
 
 - Sit on thrones judging the twelve tribes of Israel: Then he said that those disciples are going to sit on 12 thrones judging the 12 tribes of Israel. How is it that this is for everybody? So, so the Israelites are going to get judged, but not nobody else. They're all of a sudden now spiritual Israel. Nah, that's not how this goes. That's not how this goes. 12 tribes of Israel have the kingdom. 12 tribes of Israel are going to be judged by the disciples. And that's Christ's words written right here in red. Because they suffer with him being tempted, he's able to help us. And when we get the kingdom that he get from the father, then they're going to actually judge the 12 tribes of Israel.
 
@@ -121,17 +121,17 @@ Reading from Definition of benefactor (read on air; source not named)  *[[3:17](
 
 **[Galatians 4:4-6](/bible/galatians/4#v4)**  *[[14:57](https://www.youtube.com/watch?v=Vwj8i-cjur8&t=897s)]*
 
-> <sup>[4](/bible/galatians/4#v4)</sup> But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
->
-> <sup>[5](/bible/galatians/4#v5)</sup> To redeem them that were under the law, that we might receive the adoption of sons.
->
-> <sup>[6](/bible/galatians/4#v6)</sup> And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
-
 - This is what it says in Galatians. So, I'mma start at Galatians 4 cuz I don't want to mess around and explain the whole Galatians 4. We in Luke 22. I'mma start at five. No, no, no. Four.
+
+> <sup>[4](/bible/galatians/4#v4)</sup> But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
 
 - Made of a woman, made under the law: Made of a woman, made under the law. In the law, it says that a man's seed of culation goes in a woman. In the law, it says that when a woman gets pregnant and has a son, he has to be circumcised the eighth day. They got to give a sacrifice. She's unclean. 40 days for a boy, 80 days for a girl. All of this stuff is written in the law. Nowhere did an angel impregnate anybody or nowhere in the law does it say what happens when an angel impregnates somebody. Two different types of bodies. One's terrestrial and one's celestial. So, how can... Never mind.
 
+> <sup>[5](/bible/galatians/4#v5)</sup> To redeem them that were under the law, that we might receive the adoption of sons.
+
 - To redeem them that were under the law, that we might receive the adoption of sons: To redeem them that were under the law. Israel which was under the law that we receive the adoption meaning coming back to Christ. We come back through Christ. We come back to the father.
+
+> <sup>[6](/bible/galatians/4#v6)</sup> And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
 
 - God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father: So just like Christ was given it, we were given it. Christ was given the kingdom, we're going to get given the kingdom. That's why he calls us joint hes. We are joint hes with Christ. Matter of fact, that stuff is going to plague my brain. I'm looking for that. Romans 8. Romans 8.
 
@@ -216,30 +216,30 @@ Reading from *Fox's Book of Martyrs* (as named on air; no page given)  *[[23:54]
 **[Ephesians 6:11-17](/bible/ephesians/6#v11)**  *[[29:43](https://www.youtube.com/watch?v=Vwj8i-cjur8&t=1783s)]*
 
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
->
-> <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
->
-> <sup>[13](/bible/ephesians/6#v13)</sup> Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.
->
-> <sup>[14](/bible/ephesians/6#v14)</sup> Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;
->
-> <sup>[15](/bible/ephesians/6#v15)</sup> And your feet shod with the preparation of the gospel of peace;
->
-> <sup>[16](/bible/ephesians/6#v16)</sup> Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.
->
-> <sup>[17](/bible/ephesians/6#v17)</sup> And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 
 - Put on the whole armour of God, that ye may be able to stand against the wiles of the devil: The armor of God you withstand against the ws of the devil. Where do the ws of the devil affect us mainly? Right here. Right here. This is where the ws of the devil is. This is where grudges happen. This is where hatred happens. This is where adultery happens. This is where fornication happens. This is where unforgiveness happens. This is where hatred against your brother and your sister happens. This is where evil suspicion happens. This is where pride happens. All live right here. The ws of the devil affect this.
 
+> <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+
 - For we wrestle not against flesh and blood: Meaning it's not a physical thing.
+
+> <sup>[13](/bible/ephesians/6#v13)</sup> Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.
+>
+> <sup>[14](/bible/ephesians/6#v14)</sup> Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;
 
 - Having your loins girt about with truth: Meaning the truth, God's laws are right here. Your loins are from your belly down to your legs.
 
 - Having on the breastplate of righteousness: Meaning, you know that chain mail that they used to wear, that coat of male that they used to wear that protect them against arrows and stuff like that. Yeah. That's what righteousness is supposed to be. That's why we supposed to live righteous. That's why we supposed to still keep the laws so that we are protected against the ws of the devil.
 
+> <sup>[15](/bible/ephesians/6#v15)</sup> And your feet shod with the preparation of the gospel of peace;
+
 - Your feet shod with the preparation of the gospel of peace: Meaning you ready and willing to go anywhere in this world to teach this gospel. You're not sitting on the side. You're not a Facebook relite. You're not a Twitterite. You're not a YouTube prophet. You are actually out on your feet walking and going to teach the people the gospel.
 
+> <sup>[16](/bible/ephesians/6#v16)</sup> Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.
+
 - Above all, taking the shield of faith: It takes faith to face death. It takes faith to face tribulation. It takes faith to face what Christ had to go through knowing that we going to have to go through the same thing. It take faith to withstand. It take faith to endure until the end.
+
+> <sup>[17](/bible/ephesians/6#v17)</sup> And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 
 - The sword of the Spirit, which is the word of God: So when he told them, "Sell your garment and buy a sword," that was for back then. Now we got the sword of the spirit. This right here, this is our sword. This is all we need. Think about it. We haven't harmed anybody. We haven't taken up weapons. We haven't done anything. And yet we are the number three hate group in the entire country. We are causing so much of a stir in the world. Just saying that crisis is a black man is causing the world to go into an uproar. What is a gun going to do? What a weapons gonna do when the biggest weapon is to tell everybody on the face of the planet that Christ is a black man. There ain't nothing else that we need to do except to continue to preach this gospel. That's all we need to do.
 
@@ -362,7 +362,9 @@ Reading from *Fox's Book of Martyrs* (as named on air; no page given)  *[[23:54]
 > <sup>[55](/bible/luke/22#v55)</sup> And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.
 >
 > <sup>[56](/bible/luke/22#v56)</sup> But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.
->
+
+- But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him: Boy, I tell you that's just like our people. He said she looked earnestly. You know how people, they see you and they squit their eyes and they kind of look, oh yeah, he was with them, too. Yeah, that's what they do.
+
 > <sup>[57](/bible/luke/22#v57)</sup> And he denied him, saying, Woman, I know him not.
 >
 > <sup>[58](/bible/luke/22#v58)</sup> And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not.
@@ -372,12 +374,10 @@ Reading from *Fox's Book of Martyrs* (as named on air; no page given)  *[[23:54]
 > <sup>[60](/bible/luke/22#v60)</sup> And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.
 >
 > <sup>[61](/bible/luke/22#v61)</sup> And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice.
->
-> <sup>[62](/bible/luke/22#v62)</sup> And Peter went out, and wept bitterly.
-
-- But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him: Boy, I tell you that's just like our people. He said she looked earnestly. You know how people, they see you and they squit their eyes and they kind of look, oh yeah, he was with them, too. Yeah, that's what they do.
 
 - And the Lord turned, and looked upon Peter: Honestly, I can understand why he wanted to be crucified upside down. Didn't find himself to be worthy of the same death. He just denied Christ three times and then Christ locked eyes with him. You knew what was about to happen to Christ. And you locked eyes with this man. He looked at you, you looked at him and you knew soon as you said it, you remember them words. Damn, I really denied him. I really did. I was talking all this big stuff about what I do and I just denied him. You know, if Christ turned and looked at him, you know, he had to be loud. You know, he had to be loud cuz the other person was loud.
+
+> <sup>[62](/bible/luke/22#v62)</sup> And Peter went out, and wept bitterly.
 
 
 **[Luke 22:63-68](/bible/luke/22#v63)**  *[[49:45](https://www.youtube.com/watch?v=Vwj8i-cjur8&t=2985s)]*
@@ -391,10 +391,10 @@ Reading from *Fox's Book of Martyrs* (as named on air; no page given)  *[[23:54]
 > <sup>[66](/bible/luke/22#v66)</sup> And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,
 >
 > <sup>[67](/bible/luke/22#v67)</sup> Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:
->
-> <sup>[68](/bible/luke/22#v68)</sup> And if I also ask you, ye will not answer me, nor let me go.
 
 - If I tell you, ye will not believe: Even then, you got to stick to your guns. There ain't no getting out of it there. If you've ever been in a position where your life was on the line and there was literally nothing you can do, you kind of get reserved into yourself where it's like, "All right, I'm not getting out of this. I got to face whatever's about to come, whatever's about to happen that I just got to go out like that." He said, "If I told you that I was, you wouldn't believe me."
+
+> <sup>[68](/bible/luke/22#v68)</sup> And if I also ask you, ye will not answer me, nor let me go.
 
 - And if I also ask you, ye will not answer me, nor let me go: You see that? He said, if I told you, you wouldn't believe me. And if I asked you if I was the Christ, you wouldn't tell me and you wouldn't let me go. If I did say that I was, you still wouldn't let me go.
 
@@ -404,10 +404,10 @@ Reading from *Fox's Book of Martyrs* (as named on air; no page given)  *[[23:54]
 > <sup>[69](/bible/luke/22#v69)</sup> Hereafter shall the Son of man sit on the right hand of the power of God.
 >
 > <sup>[70](/bible/luke/22#v70)</sup> Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am.
->
-> <sup>[71](/bible/luke/22#v71)</sup> And they said, What need we any further witness? for we ourselves have heard of his own mouth.
 
 - Art thou then the Son of God? And he said unto them, Ye say that I am: So this is the thing. Let's get Psalms chapter 82. They asked him, "Are you the son of God?" whether or not he would have said straight up yes. What does the Bible actually say?
+
+> <sup>[71](/bible/luke/22#v71)</sup> And they said, What need we any further witness? for we ourselves have heard of his own mouth.
 
 - What need we any further witness: So, if Israel is God's son, even his firstborn, what would be the issue with saying, "Yes, I'm the son of God." What would be the issue with that? It's because they had to do it. It was already written. Let's go to Isaiah 53. It was already written of Christ to go through this.
 
@@ -427,10 +427,10 @@ Reading from *Fox's Book of Martyrs* (as named on air; no page given)  *[[23:54]
 > <sup>[1](/bible/isaiah/53#v1)</sup> Who hath believed our report? and to whom is the arm of the Lord revealed?
 >
 > <sup>[2](/bible/isaiah/53#v2)</sup> For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him.
->
-> <sup>[3](/bible/isaiah/53#v3)</sup> He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.
 
 - He hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him: Christ wasn't no big buff dude. He wasn't no attractive guy. Why? Because you were supposed to listen to his words, not look at his outward appearance and oh, he's so handsome. I'll listen to him because he... No, you listen to him because he had the words of God. That's why I said there was no beauty that we should desire him.
+
+> <sup>[3](/bible/isaiah/53#v3)</sup> He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.
 
 - He was despised, and we esteemed him not: That was Peter denying. He was despised. We esteemed him not. We didn't stand by him. We did afterwards, but when the stuff came out, hey, tribulation happened. We're men. We're men. But all of this was made to be this way. That's why he said, "You got the power of darkness. This is your time to get your shine on. This is your time right here. Y'all now have the ability to put hands on me. Y'all now have the ability to put me to death. But y'all are not doing this of your own accord. It's written that I have to go through this."
 

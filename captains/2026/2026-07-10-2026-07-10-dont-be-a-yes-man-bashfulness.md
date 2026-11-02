@@ -53,10 +53,10 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "leadership"]
 **[Ephesians 6:5-6](/bible/ephesians/6#v5)**  *[[3:05](https://www.youtube.com/watch?v=P31yRDxT9oA&t=185s)]*
 
 > <sup>[5](/bible/ephesians/6#v5)</sup> Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;
->
-> <sup>[6](/bible/ephesians/6#v6)</sup> Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;
 
 - Servants, be obedient to them that are your masters according to the flesh: your leaders. With fear and trembling: respect. In singleness of your heart, as unto Christ.
+
+> <sup>[6](/bible/ephesians/6#v6)</sup> Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;
 
 - Not with eyeservice, as menpleasers: not just acting like you agree. Not just acting like you a real servant. Cuz that's what men pleasers do. Men pleasers act as if they going along with it. No, that brother wrong. And sometimes as a man of God, you got to let another man of God know that they're wrong.
 
@@ -68,16 +68,16 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "leadership"]
 **[Galatians 2:11-14](/bible/galatians/2#v11)**  *[[4:53](https://www.youtube.com/watch?v=P31yRDxT9oA&t=293s)]*
 
 > <sup>[11](/bible/galatians/2#v11)</sup> But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
->
-> <sup>[12](/bible/galatians/2#v12)</sup> For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
->
-> <sup>[13](/bible/galatians/2#v13)</sup> And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
->
-> <sup>[14](/bible/galatians/2#v14)</sup> But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
 
 - I withstood him to the face, because he was to be blamed: this is the Apostle Paul, who's not senior to the Apostle Peter. Peter is the senior man. Christ left Peter in charge. Peter actually walked with Christ, one of his first disciples, and Christ left him in charge of the church. Now here come Apostle Paul, who came years later, who God is dealing with. He sees Peter wrong.
 
+> <sup>[12](/bible/galatians/2#v12)</sup> For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
+>
+> <sup>[13](/bible/galatians/2#v13)</sup> And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
+
 - And the other Jews dissembled likewise with him: cuz they followed Peter's bad example. Insomuch that Barnabas also was carried away with their dissimulation.
+
+> <sup>[14](/bible/galatians/2#v14)</sup> But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
 
 - I said unto Peter before them all: in front of everybody he corrected Peter. Because Paul was not a yes man, brothers and sisters. Paul knew that Christ called him into this ministry to do what he was called to do and that he could not let anybody get in his way. And guess what? Peter respected him for it.
 
@@ -127,16 +127,16 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "leadership"]
 > <sup>[2](/bible/2-samuel/15#v2)</sup> And Absalom rose up early, and stood beside the way of the gate: and it was so, that when any man that had a controversy came to the king for judgment, then Absalom called unto him, and said, Of what city art thou? And he said, Thy servant is of one of the tribes of Israel.
 >
 > <sup>[3](/bible/2-samuel/15#v3)</sup> And Absalom said unto him, See, thy matters are good and right; but there is no man deputed of the king to hear thee.
->
-> <sup>[4](/bible/2-samuel/15#v4)</sup> Absalom said moreover, Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice!
->
-> <sup>[5](/bible/2-samuel/15#v5)</sup> And it was so, that when any man came nigh to him to do him obeisance, he put forth his hand, and took him, and kissed him.
->
-> <sup>[6](/bible/2-samuel/15#v6)</sup> And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.
 
 - See, thy matters are good and right: I hear you. Your matters are good and right. You got a point. But there is no man deputed of the king to hear thee: ain't no man that can hear you. The king ain't did his job and set somebody up to hear you.
 
+> <sup>[4](/bible/2-samuel/15#v4)</sup> Absalom said moreover, Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice!
+
 - Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice: see, king ain't doing right. I would do right though.
+
+> <sup>[5](/bible/2-samuel/15#v5)</sup> And it was so, that when any man came nigh to him to do him obeisance, he put forth his hand, and took him, and kissed him.
+>
+> <sup>[6](/bible/2-samuel/15#v6)</sup> And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.
 
 - So Absalom stole the hearts of the men of Israel: these are yes men. They conspire with them.
 
@@ -146,10 +146,10 @@ tags: ["15 Minutes w/ The Captains", "discipline", "heaven-hell", "leadership"]
 > <sup>[11](/bible/2-samuel/15#v11)</sup> And with Absalom went two hundred men out of Jerusalem, that were called; and they went in their simplicity, and they knew not any thing.
 >
 > <sup>[12](/bible/2-samuel/15#v12)</sup> And Absalom sent for Ahithophel the Gilonite, David’s counsellor, from his city, even from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom.
->
-> <sup>[13](/bible/2-samuel/15#v13)</sup> And there came a messenger to David, saying, The hearts of the men of Israel are after Absalom.
 
 - And the conspiracy was strong: all these men follow Absalom in their simplicity, not realizing it was conspiracy against the king.
+
+> <sup>[13](/bible/2-samuel/15#v13)</sup> And there came a messenger to David, saying, The hearts of the men of Israel are after Absalom.
 
 - The hearts of the men of Israel are after Absalom: they were looking for position. They said, well, we roll with Absalom, we going to eat the best food. We going to have the best women. They saw the partying. They saw the fame and the notoriety they would receive. So they follow after Absalom, even though Absalom was wrong. They were simple. They had no understanding.
 

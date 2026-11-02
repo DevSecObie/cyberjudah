@@ -338,7 +338,23 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "purpose", "sabbath
 **[John 10:24-36](/bible/john/10#v24)**  *[[1:31:06](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5466s)]*
 
 > <sup>[24](/bible/john/10#v24)</sup> Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
->
+
+- Then came the Jews round about him: how long dost thou make us to doubt? If thou be the Christ, tell us plainly. They were trying to figure out whether he was the Son of God and the saviour or not.
+
+- The works that I do in my Father's name, they bear witness of me, but ye believe not because ye are not of my sheep. These were Jews, and he told them they were not his sheep. My sheep hear my voice.
+
+- Then the Jews took up stones again to stone him. Read it carefully: this was not all of Israel, it was only certain Jews.
+
+- For a good work we stone thee not, but for blasphemy, because thou being a man makest thyself God.
+
+- Christ answered them out of the law: is it not written in your law, I said, Ye are gods? When he went through the temptations and the trials he always went back to the law. We follow Christ, and Christ went back to the scriptures.
+
+  Precepts:
+  - **[Romans 9:6](/bible/romans/9#v6)**
+    > <sup>[6](/bible/romans/9#v6)</sup> Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:
+
+    Not all Israel are Israel; if you do not hear the voice of the Father you are not of his sheep.
+
 > <sup>[25](/bible/john/10#v25)</sup> Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.
 >
 > <sup>[26](/bible/john/10#v26)</sup> But ye believe not, because ye are not of my sheep, as I said unto you.
@@ -362,22 +378,6 @@ tags: ["IUIC in the ClassRoom", "christ", "passover-feasts", "purpose", "sabbath
 > <sup>[35](/bible/john/10#v35)</sup> If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
 >
 > <sup>[36](/bible/john/10#v36)</sup> Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?
-
-- Then came the Jews round about him: how long dost thou make us to doubt? If thou be the Christ, tell us plainly. They were trying to figure out whether he was the Son of God and the saviour or not.
-
-- The works that I do in my Father's name, they bear witness of me, but ye believe not because ye are not of my sheep. These were Jews, and he told them they were not his sheep. My sheep hear my voice.
-
-- Then the Jews took up stones again to stone him. Read it carefully: this was not all of Israel, it was only certain Jews.
-
-- For a good work we stone thee not, but for blasphemy, because thou being a man makest thyself God.
-
-- Christ answered them out of the law: is it not written in your law, I said, Ye are gods? When he went through the temptations and the trials he always went back to the law. We follow Christ, and Christ went back to the scriptures.
-
-  Precepts:
-  - **[Romans 9:6](/bible/romans/9#v6)**
-    > <sup>[6](/bible/romans/9#v6)</sup> Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:
-
-    Not all Israel are Israel; if you do not hear the voice of the Father you are not of his sheep.
 
 
 **[John 10:41-42](/bible/john/10#v41)**  *[[1:34:50](https://www.youtube.com/watch?v=VfOy8UOCtHc&t=5690s)]*

@@ -75,10 +75,10 @@ Reading from Definition of beseech (read on air, source not named)  *[[7:43](htt
 **[1 Peter 2:22-23](/bible/1-peter/2#v22)**  *[[10:40](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=640s)]*
 
 > <sup>[22](/bible/1-peter/2#v22)</sup> Who did no sin, neither was guile found in his mouth:
->
-> <sup>[23](/bible/1-peter/2#v23)</sup> Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:
 
 - Who did no sin: Christ did no sin. He was not guilty of anything worthy of the death that he faced. Go ahead.
+
+> <sup>[23](/bible/1-peter/2#v23)</sup> Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:
 
 - Who, when he was reviled: When he was reviled, when they were slandering him, speaking evil of him, abusing him, go ahead.
 
@@ -92,36 +92,36 @@ Reading from Definition of beseech (read on air, source not named)  *[[7:43](htt
 **[John 18:2-9](/bible/john/18#v2)**  *[[12:25](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=745s)]*
 
 > <sup>[2](/bible/john/18#v2)</sup> And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.
->
-> <sup>[3](/bible/john/18#v3)</sup> Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.
->
-> <sup>[4](/bible/john/18#v4)</sup> Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?
->
-> <sup>[5](/bible/john/18#v5)</sup> They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them.
->
-> <sup>[6](/bible/john/18#v6)</sup> As soon then as he had said unto them, I am he, they went backward, and fell to the ground.
->
-> <sup>[7](/bible/john/18#v7)</sup> Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.
->
-> <sup>[8](/bible/john/18#v8)</sup> Jesus answered, I have told you that I am he: if therefore ye seek me, let these go their way:
->
-> <sup>[9](/bible/john/18#v9)</sup> That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.
 
 - For Jesus ofttimes resorted thither with his disciples: So, this is right when Christ was about to be abducted by that betrayer Judas and the soldiers. Go ahead.
 
+> <sup>[3](/bible/john/18#v3)</sup> Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.
+
 - Cometh thither with lanterns and torches and weapons: Got a whole mob and you have weapons and intimidation coming for one man. Go ahead.
 
+> <sup>[4](/bible/john/18#v4)</sup> Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?
+
 - Whom seek ye?: So, he asking them, "Who you looking for?" Right? Stood up to the forefront, front line. "Who you looking for?" Go ahead.
+
+> <sup>[5](/bible/john/18#v5)</sup> They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them.
+>
+> <sup>[6](/bible/john/18#v6)</sup> As soon then as he had said unto them, I am he, they went backward, and fell to the ground.
 
 - As soon then as he had said unto them, I am he: So, the moment the words I am he left the mouth of Jesus the Christ, go ahead.
 
 - They went backward, and fell to the ground: Boom! They flew back. A whole mob of people with lanterns and torches and pitchforks all flew back. Go ahead.
 
+> <sup>[7](/bible/john/18#v7)</sup> Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.
+
 - Then asked he them again, Whom seek ye?: And he asked them again, "Who you looking for?" Because if you bringing all of them people, y'all might do violence not only to me, but to the men that I'm with, to the people that I'm with. So, I'm asking you, "Who you looking for?" And I need you to be very, very clear with your answer. Go ahead.
+
+> <sup>[8](/bible/john/18#v8)</sup> Jesus answered, I have told you that I am he: if therefore ye seek me, let these go their way:
 
 - I have told you that I am he: I told you that it's me, me alone. Go ahead.
 
 - If therefore ye seek me, let these go their way: Now, if he'd have just opened up with that, they could have said, "No." Bust him upside the head and took everybody in, right? But now they know he not to play with. Don't play with him. Read.
+
+> <sup>[9](/bible/john/18#v9)</sup> That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.
 
 - Of them which thou gavest me have I lost none: In order for that to be fulfilled, a little bit of power had to be exhibited. So, when Paul says that he's beseeching them in the meekness and gentleness of Christ, in no shape, form, or fashion is he saying that he's coming to be a pushover, walked all over, to be abused, or none of that. Meekness is humbling down to his assignment from Christ. That's it. That's all. So, when he is bold, that's also in the authority that he has from Christ. All right, so let's go back 2 Corinthians 10 again, verse 1.
 
@@ -136,18 +136,18 @@ Reading from Definition of beseech (read on air, source not named)  *[[7:43](htt
 **[1 Corinthians 2:1-4](/bible/1-corinthians/2#v1)**  *[[16:45](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=1005s)]*
 
 > <sup>[1](/bible/1-corinthians/2#v1)</sup> And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.
->
-> <sup>[2](/bible/1-corinthians/2#v2)</sup> For I determined not to know any thing among you, save Jesus Christ, and him crucified.
->
-> <sup>[3](/bible/1-corinthians/2#v3)</sup> And I was with you in weakness, and in fear, and in much trembling.
->
-> <sup>[4](/bible/1-corinthians/2#v4)</sup> And my speech and my preaching was not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:
 
 - Came not with excellency of speech or of wisdom, declaring unto you the testimony of God: So, he didn't come like the Pharisees do, he didn't come like some politician, he came in the spirit of the scriptures, right? He didn't come with pre-prepared long filibuster-style speeches. Nah, he didn't come with all these extra words and long hermeneutical, what what, hypostatic union? He wasn't using all of these newfangled words. No, he used what the scripture said. Go ahead.
 
+> <sup>[2](/bible/1-corinthians/2#v2)</sup> For I determined not to know any thing among you, save Jesus Christ, and him crucified.
+
 - For I determined not to know any thing among you, save Jesus Christ, and him crucified: That's very simple. I don't want to know anything about y'all other than y'all repentance and Christ crucified and how we going to get the kingdom of heaven together. Go ahead.
 
+> <sup>[3](/bible/1-corinthians/2#v3)</sup> And I was with you in weakness, and in fear, and in much trembling.
+
 - And I was with you in weakness, and in fear, and in much trembling: Why? Because there was tribulations going forth. There was persecutions happening. And Paul was honest about those things. He was telling them when he was in fear. He was telling them the struggles and the personal trials that he dealt with. Why? Because he's letting them know you're going to go through the same things. You're going to have to experience the same trials, the same struggles, the same problems and I'm becoming base to you all. Why? So that you can know that the weakness that I have, Christ's power is what's going to make us strong. Right?
+
+> <sup>[4](/bible/1-corinthians/2#v4)</sup> And my speech and my preaching was not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:
 
 - But in demonstration of the Spirit and of power: But, he didn't need all of those fancy words. Why? Because the demonstration and power that he possessed, the same way that Christ had power when he said, "I am he." And they flew back. Paul was walking in some power as well. Power to heal, power to set up and establish churches, power to cast out spirits. Paul was rolling in some mighty powers and some demonstration. So, he didn't need all these other things to make him more than what he was. No, he was rolling in the spirit of Christ and at the same time he was base by letting them know what he was dealing with. Not too many leaders of that time were doing that, if any. So, this is a new experience. So, they're like, "He must be base. He's a nobody. I don't know why he's writing these letters so boldly in presence. Look at him. He's telling us he deals with lust. He's telling us he has problems. He's telling us he's fearing and trembling and whatnot." Right? He wasn't putting on airs like he was something that he wasn't. Right? Now, let's go to Galatians chapter 4 and verse 13.
 
@@ -155,12 +155,12 @@ Reading from Definition of beseech (read on air, source not named)  *[[7:43](htt
 **[Galatians 4:13-14](/bible/galatians/4#v13)**  *[[19:59](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=1199s)]*
 
 > <sup>[13](/bible/galatians/4#v13)</sup> Ye know how through infirmity of the flesh I preached the gospel unto you at the first.
->
-> <sup>[14](/bible/galatians/4#v14)</sup> And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.
 
 - Ye know how through infirmity of the flesh: How through infirmity of the flesh, things that they were going on in his flesh, things that he dealt with. What did he do?
 
 - I preached the gospel unto you at the first: I still taught the gospel to you. So, they're seeing the man, they're seeing Paul in his weak nature sometimes, but they also are getting the gospel in a way that they never heard it before. The understanding that he had, the wisdom, the knowledge that he had, the way that he could go into the law and preach Christ to them, they never heard that before. They never seen that before. Jews or Gentiles, Southern Kingdom or Northern Kingdom. So, they couldn't refute that the spirit of God was dealing with him, that the Lord was working with him, that the Lord had taught him personally. Why? Cuz only a man that walked with Christ could know such things. Right? So, read it again.
+
+> <sup>[14](/bible/galatians/4#v14)</sup> And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.
 
 - And my temptation which was in my flesh: And the temptation that was in my flesh, go ahead.
 
@@ -174,16 +174,16 @@ Reading from Definition of beseech (read on air, source not named)  *[[7:43](htt
 **[2 Corinthians 12:7-9](/bible/2-corinthians/12#v7)**  *[[23:11](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=1391s)]*
 
 > <sup>[7](/bible/2-corinthians/12#v7)</sup> And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
->
-> <sup>[8](/bible/2-corinthians/12#v8)</sup> For this thing I besought the Lord thrice, that it might depart from me.
->
-> <sup>[9](/bible/2-corinthians/12#v9)</sup> And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
 
 - There was given to me a thorn in the flesh: So even though he had an abundance of revelations, there was a counterbalance that was given, a thorn in the flesh. Something that he had to deal with, something that he always had to go through that was given to him because he knew a lot and in order to avoid being puffed up cuz he is in the flesh, a thorn was given to him. Go ahead.
 
 - The messenger of Satan to buffet me, lest I should be exalted above measure: All of this is a part of the baseness that the Corinthian church witnessed. He's letting it be known to them. Go ahead.
 
+> <sup>[8](/bible/2-corinthians/12#v8)</sup> For this thing I besought the Lord thrice, that it might depart from me.
+
 - For this thing I besought the Lord thrice, that it might depart from me: This is a very, very honest thing that's being said by Paul. He don't have to share these things, but in order for the Corinthian church to fix the problems that they had, they have to use the power of Christ and he's going to say that. But this is a form of leadership by letting them know the personal issues that he's dealing with, he's guiding them and directing them to the solution because they're going to have to use the same solution. Go ahead.
+
+> <sup>[9](/bible/2-corinthians/12#v9)</sup> And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
 
 - For my strength is made perfect in weakness: The Lord's strength is made perfect in our weakness, but we have to own up to that weakness. We have to be honest with the Lord with that weakness. Go ahead.
 
@@ -256,10 +256,10 @@ Reading from Definition of beseech (read on air, source not named)  *[[7:43](htt
 **[2 Corinthians 10:3-4](/bible/2-corinthians/10#v3)**  *[[33:44](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=2024s)]*
 
 > <sup>[3](/bible/2-corinthians/10#v3)</sup> For though we walk in the flesh, we do not war after the flesh:
->
-> <sup>[4](/bible/2-corinthians/10#v4)</sup> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
 
 - For though we walk in the flesh, we do not war after the flesh: So, he's saying, "For though we walk in the flesh, though we're in these earthly tabernacles, we don't war after the flesh. I'm not thinking about the situation like y'all thinking about the situation. I'm talking to a person, but I'm also talking to the spirit that that person is dealing with." They couldn't see that. Although we walk in the flesh, we not warring after the flesh where I'm going to come and put hands on y'all and feet on y'all. No. You have to rebuke the spirit. You have to deal with the spirit, the evil that the churches is dealing with. As a leader, as a shepherd, you must do these things, right?
+
+> <sup>[4](/bible/2-corinthians/10#v4)</sup> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
 
 - The weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds: I want to show you why Paul is saying "For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strongholds." Let's see some of the strongholds that the Corinthian church was dealing with. Read that.
 
@@ -329,14 +329,14 @@ Reading from Key sins and problems in 1 Corinthians, continued  *[[39:08](https:
 **[1 Corinthians 3:1-3](/bible/1-corinthians/3#v1)**  *[[42:26](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=2546s)]*
 
 > <sup>[1](/bible/1-corinthians/3#v1)</sup> And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
->
-> <sup>[2](/bible/1-corinthians/3#v2)</sup> I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
->
-> <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
 
 - Could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ: He said, "I can't really go into the deeper things that I understand in the scriptures because y'all are so carnal, y'all not even going to get it. I have to deal with y'all as if this is your first time hearing the gospel." But it's not, though. You all should be further along, but through the carnality and the way that y'all walk in the flesh, I can't. Go ahead.
 
+> <sup>[2](/bible/1-corinthians/3#v2)</sup> I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.
+
 - Neither yet now are ye able: In the beginning, y'all weren't able to bear it when I fed y'all with milk, the basics. And even now, y'all not able to bear it. Y'all not able to understand it. Read.
+
+> <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
 
 - For ye are yet carnal: Because you're still carnal. And in the second letter, guess what? They were still carnal. So, he has to redirect. No, I beseech you with the meekness and the gentleness of Christ. Even though y'all think I'm base, I speak with boldness because the strongholds that y'all dealing with, I have to address them boldly. You want the letters to be the means by which you fix yourselves. You don't want me to have to bring this energy to you all because I'm just going to start throwing people out the body. And he's going to say that. I'm going to start getting rid of y'all. I don't want to, but I will. Read.
 
@@ -364,16 +364,16 @@ Reading from Key sins and problems in 1 Corinthians, continued  *[[39:08](https:
 **[Ephesians 6:11-13](/bible/ephesians/6#v11)**  *[[48:00](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=2880s)]*
 
 > <sup>[11](/bible/ephesians/6#v11)</sup> Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
->
-> <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
->
-> <sup>[13](/bible/ephesians/6#v13)</sup> Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.
 
 - Put on the whole armour of God: That's another weapon, the whole armor of God. This Bible. Go ahead.
 
 - That ye may be able to stand against the wiles of the devil: The wiles of the devil was tearing the Corinthian church up. They wasn't able to stand against it. That's why they had so many problems. And now they want to shoot the messenger. What the hell? I didn't do this to y'all. Y'all did this to y'all. I'm just letting it be known. Go ahead.
 
+> <sup>[12](/bible/ephesians/6#v12)</sup> For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+
 - For we wrestle not against flesh and blood: That's the same thing he said to the Corinthian church. He's saying it just in a different way to the church of Ephesus. Go ahead.
+
+> <sup>[13](/bible/ephesians/6#v13)</sup> Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.
 
 - Take unto you the whole armour of God, that ye may be able to withstand in the evil day: Learn the whole Bible. Study. Pray. Apply. And do it again. And do it again. And do it again, that you may stand against the wiles of the devil. That you may be able to stand in that evil day. Not look at the person that's correcting you as the enemy. What's that? Galatians 4:16. Am I your enemy because I tell you the truth? They thinking that he's the enemy. Go ahead.
 
@@ -429,10 +429,6 @@ Reading from Imaginations in the Bible (read on air, source not named)  *[[51:44
 **[Mark 7:21-23](/bible/mark/7#v21)**  *[[53:36](https://www.youtube.com/watch?v=eLFGm8S0YBo&t=3216s)]*
 
 > <sup>[21](/bible/mark/7#v21)</sup> For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
->
-> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
->
-> <sup>[23](/bible/mark/7#v23)</sup> All these evil things come from within, and defile the man.
 
 - Out of the heart of men, proceed evil thoughts: Evil thoughts, evil imaginations. Go ahead.
 
@@ -442,9 +438,13 @@ Reading from Imaginations in the Bible (read on air, source not named)  *[[51:44
 
 - Murders: Hatred. Hatred is murder. Go ahead.
 
+> <sup>[22](/bible/mark/7#v22)</sup> Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
+
 - Thefts, covetousness, wickedness, deceit, lasciviousness: Thefts. I'm sure there was some thefts going on. Covetousness. There was some covetousness going on. Wickedness. There was definitely wickedness going on. Deceit. There was definitely deceit going on. Lasciviousness. There was definitely lasciviousness going on.
 
 - An evil eye: An evil eye. Oh, I'm of Paul. I'm of Cephas. I'm of Christ. They had an evil eye towards Paul, for damn sure. That's why they thought he was base. So, their imaginations is what had to be pulled down with the word of God. Go ahead.
+
+> <sup>[23](/bible/mark/7#v23)</sup> All these evil things come from within, and defile the man.
 
 - All these evil things come from within, and defile the man: Jeremiah 7:24. So, you think just a couple of, "Hey guys," some Joel Osteen classes, what do they, they don't even call them classes. Some Joel Osteen sermons is going to fix that? Huh? A couple of offering baskets getting thrown around is going to fix this? Or is it going to take some real deal rebuking happening? Go ahead. Jeremiah chapter 7 verse 24. Read.
 
@@ -472,10 +472,10 @@ Reading from Imaginations in the Bible (read on air, source not named)  *[[51:44
 > <sup>[22](/bible/ephesians/4#v22)</sup> That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
 >
 > <sup>[23](/bible/ephesians/4#v23)</sup> And be renewed in the spirit of your mind;
->
-> <sup>[24](/bible/ephesians/4#v24)</sup> And that ye put on the new man, which after God is created in righteousness and true holiness.
 
 - And be renewed in the spirit of your mind: To us all. We all got to be renewed in the spirit of our mind and not go after the evil counsel or evil imaginations of our own mind. Our own mind had us on the road to perdition, death, and destruction. You know who mind we had? We had the white man's mind. That's why the black man wanted to be … and thugs and killers. And the women wanted to abort the babies and be over the man. Why? Because that plays perfectly into the white man's agenda. That plays perfectly into Satan's agenda. Right? Read it again.
+
+> <sup>[24](/bible/ephesians/4#v24)</sup> And that ye put on the new man, which after God is created in righteousness and true holiness.
 
 - And that ye put on the new man, which after God is created in righteousness and true holiness: So, Paul is trying to get them to be created after the new man, which after God is created in righteousness and true holiness. Not perceived holiness. Not fake holiness. Not holiness, you my man, so you holy, but them over there, I don't know them … so I don't, you know, it's whatever for them. Nah. True holiness. And that's in actions and words. All right? Second Corinthians 10:5 one more time.
 

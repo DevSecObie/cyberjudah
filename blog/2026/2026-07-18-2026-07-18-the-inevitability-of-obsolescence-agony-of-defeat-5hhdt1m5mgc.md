@@ -37,6 +37,8 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 
 **[Exodus 1:7-22](/bible/exodus/1#v7)**  *[[4:12](https://www.youtube.com/watch?v=5HhDt1m5mGc&t=252s)]*
 
+- This new Pharaoh over Egypt knew not Joseph and his great works. And he feared that the children of Israel would take over, because they became fruitful and increased abundantly and multiplied. He feared that he and his people would become obsolete.
+
 > <sup>[7](/bible/exodus/1#v7)</sup> And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
 >
 > <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
@@ -44,7 +46,13 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 > <sup>[9](/bible/exodus/1#v9)</sup> And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
 >
 > <sup>[10](/bible/exodus/1#v10)</sup> Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
->
+
+- Let us deal wisely with them: that's those secret councils. They conspired the same way Joseph's brothers conspired against him.
+
+- But the more they afflicted them, the more they multiplied and grew. Same thing today in Babylon. They put all these stumbling blocks before us to cause us to die; you have the school to prison pipeline. But we're still here. We're still multiplying. That alone should let you know that these people are of God. I'm doing everything in my power to destroy them, and I can't destroy them. The same thing that Pharaoh was doing, the same thing that Esau is doing today. But because of envy, hatred, you can't think straight. You can't see that these people are of God.
+
+- The midwives feared God and did not as the king of Egypt commanded them, but saved the men children alive. His plot was not successful; we go over this every Passover.
+
 > <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
 >
 > <sup>[12](/bible/exodus/1#v12)</sup> But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
@@ -68,11 +76,6 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 > <sup>[21](/bible/exodus/1#v21)</sup> And it came to pass, because the midwives feared God, that he made them houses.
 >
 > <sup>[22](/bible/exodus/1#v22)</sup> And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
-
-- This new Pharaoh over Egypt knew not Joseph and his great works. And he feared that the children of Israel would take over, because they became fruitful and increased abundantly and multiplied. He feared that he and his people would become obsolete.
-- Let us deal wisely with them: that's those secret councils. They conspired the same way Joseph's brothers conspired against him.
-- But the more they afflicted them, the more they multiplied and grew. Same thing today in Babylon. They put all these stumbling blocks before us to cause us to die; you have the school to prison pipeline. But we're still here. We're still multiplying. That alone should let you know that these people are of God. I'm doing everything in my power to destroy them, and I can't destroy them. The same thing that Pharaoh was doing, the same thing that Esau is doing today. But because of envy, hatred, you can't think straight. You can't see that these people are of God.
-- The midwives feared God and did not as the king of Egypt commanded them, but saved the men children alive. His plot was not successful; we go over this every Passover.
 
 **[Acts 8:4](/bible/acts/8#v4)**  *[[8:31](https://www.youtube.com/watch?v=5HhDt1m5mGc&t=511s)]*
 
@@ -267,6 +270,8 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 
 **[John 11:45-53](/bible/john/11#v45)**  *[[42:04](https://www.youtube.com/watch?v=5HhDt1m5mGc&t=2524s)]*
 
+- This man was dead; he's raising up the dead. All of you should believe on him. What more do you need? Why are you rejecting? Why are you hating? How are you still moved with disbelief?
+
 > <sup>[45](/bible/john/11#v45)</sup> Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.
 >
 > <sup>[46](/bible/john/11#v46)</sup> But some of them went their ways to the Pharisees, and told them what things Jesus had done.
@@ -274,7 +279,11 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
 >
 > <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
->
+
+- If we let him thus alone, all men will believe on him: that was the fear. If we leave IUIC alone, if we leave Bishop Nathanyel alone, all men will believe on him and follow him. But is it really us, or is it the spirit of the Lord that's moving these men and brothers and sisters to come in the congregation and repent? Because that's who gets the glory at the end of the day. Like they said in the video; and I ain't showing no videos today. I'm not doing that. Ain't breathing life into these demons. Y'all know who I'm talking about.
+
+- Caiaphas, being high priest that year, prophesied that Jesus should die for that nation. How did he know that? Because the things written afore time was written for our learning. Christ comes in the volume of the book; Christ was prophesied to be that lamb to die for the nation.
+
 > <sup>[49](/bible/john/11#v49)</sup> And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
 >
 > <sup>[50](/bible/john/11#v50)</sup> Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
@@ -282,13 +291,10 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 > <sup>[51](/bible/john/11#v51)</sup> And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
 >
 > <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
->
-> <sup>[53](/bible/john/11#v53)</sup> Then from that day forth they took counsel together for to put him to death.
 
-- This man was dead; he's raising up the dead. All of you should believe on him. What more do you need? Why are you rejecting? Why are you hating? How are you still moved with disbelief?
-- If we let him thus alone, all men will believe on him: that was the fear. If we leave IUIC alone, if we leave Bishop Nathanyel alone, all men will believe on him and follow him. But is it really us, or is it the spirit of the Lord that's moving these men and brothers and sisters to come in the congregation and repent? Because that's who gets the glory at the end of the day. Like they said in the video; and I ain't showing no videos today. I'm not doing that. Ain't breathing life into these demons. Y'all know who I'm talking about.
-- Caiaphas, being high priest that year, prophesied that Jesus should die for that nation. How did he know that? Because the things written afore time was written for our learning. Christ comes in the volume of the book; Christ was prophesied to be that lamb to die for the nation.
 - And not for that nation only: you see verse 52. The Christian church can't understand that. That's what they get confused when they read words like Greeks and heathens in the New Testament. That nation only is the southern kingdom: Judah, Benjamin, and Levi. Those that are scattered abroad were all the other tribes that were scattered, to gather them back into one fold. You read about that in Ezekiel 37:22. This is something that they understood back then.
+
+> <sup>[53](/bible/john/11#v53)</sup> Then from that day forth they took counsel together for to put him to death.
 
 **[1 Kings 22:7-8, 24-27](/bible/1-kings/22#v7)**  *[[46:17](https://www.youtube.com/watch?v=5HhDt1m5mGc&t=2777s)]*
 
@@ -376,6 +382,8 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 
 **[Matthew 23:29-36](/bible/matthew/23#v29)**  *[[1:03:17](https://www.youtube.com/watch?v=5HhDt1m5mGc&t=3797s)]*
 
+- You built the tombs of the prophets, but you are the children of them which killed the prophets. What is Christ saying here? Officer Kim: Christ is saying that they regenerated to do the same thing again. Same demons back on the earth. Same demons here in 2026. No matter where we go, they on our coattail. No matter what we do that's good, they look at it as evil. They are stuck in that lot. They can't move to the left, they can't move to the right, they can't even go back. They have to keep going straight forward on that narrow path of death, that narrow path of envy and of hatred. They can't stop. It's embedded in them. That's their lot. The same thing with the Pharisees and scribes.
+
 > <sup>[29](/bible/matthew/23#v29)</sup> Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,
 >
 > <sup>[30](/bible/matthew/23#v30)</sup> And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
@@ -385,20 +393,24 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 > <sup>[32](/bible/matthew/23#v32)</sup> Fill ye up then the measure of your fathers.
 >
 > <sup>[33](/bible/matthew/23#v33)</sup> Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?
->
+
+- Ye serpents, ye generation of vipers: snakes, you damn devils. How can ye escape the damnation of hell? You see, you can't escape it cuz you're not going to repent. This is your lot. You're an envious, hateful bastard.
+
 > <sup>[34](/bible/matthew/23#v34)</sup> Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:
->
+
+- And some of them ye shall kill and crucify: and you kill with words first. You smite with the tongue first, and then it becomes physical.
+
+- And persecute them from city to city: persecute us, follow us from camp spot to camp spot, block to block, city to city, corner to corner. That's what they do.
+
+- From the blood of righteous Abel unto the blood of Zacharias, whom ye slew between the temple and the altar: they even followed this man into the temple. They would have probably tried to go into the holies of holies to kill a brother. Unbelievable. That's what happens when you're moved with hatred.
+
 > <sup>[35](/bible/matthew/23#v35)</sup> That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.
 >
 > <sup>[36](/bible/matthew/23#v36)</sup> Verily I say unto you, All these things shall come upon this generation.
 
-- You built the tombs of the prophets, but you are the children of them which killed the prophets. What is Christ saying here? Officer Kim: Christ is saying that they regenerated to do the same thing again. Same demons back on the earth. Same demons here in 2026. No matter where we go, they on our coattail. No matter what we do that's good, they look at it as evil. They are stuck in that lot. They can't move to the left, they can't move to the right, they can't even go back. They have to keep going straight forward on that narrow path of death, that narrow path of envy and of hatred. They can't stop. It's embedded in them. That's their lot. The same thing with the Pharisees and scribes.
-- Ye serpents, ye generation of vipers: snakes, you damn devils. How can ye escape the damnation of hell? You see, you can't escape it cuz you're not going to repent. This is your lot. You're an envious, hateful bastard.
-- And some of them ye shall kill and crucify: and you kill with words first. You smite with the tongue first, and then it becomes physical.
-- And persecute them from city to city: persecute us, follow us from camp spot to camp spot, block to block, city to city, corner to corner. That's what they do.
-- From the blood of righteous Abel unto the blood of Zacharias, whom ye slew between the temple and the altar: they even followed this man into the temple. They would have probably tried to go into the holies of holies to kill a brother. Unbelievable. That's what happens when you're moved with hatred.
-
 **[Acts 7:51-55](/bible/acts/7#v51)**  *[[1:07:51](https://www.youtube.com/watch?v=5HhDt1m5mGc&t=4071s)]*
+
+- Those same demons are back, and yes, they got fringes on. Yes, they got studs on, headbands on, and they can't shake that hatred spirit. It's on them. They can't do nothing about it. That is their lot until they die.
 
 > <sup>[51](/bible/acts/7#v51)</sup> Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.
 >
@@ -407,11 +419,10 @@ The stream joins the class already in progress, mid-teaching on Joseph's brother
 > <sup>[53](/bible/acts/7#v53)</sup> Who have received the law by the disposition of angels, and have not kept it.
 >
 > <sup>[54](/bible/acts/7#v54)</sup> When they heard these things, they were cut to the heart, and they gnashed on him with their teeth.
->
-> <sup>[55](/bible/acts/7#v55)</sup> But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
 
-- Those same demons are back, and yes, they got fringes on. Yes, they got studs on, headbands on, and they can't shake that hatred spirit. It's on them. They can't do nothing about it. That is their lot until they die.
 - When they heard these things: just words. Stephen didn't lay a hand on them. He ain't trying to fight them. When they heard these things which condemned them, when Stephen shined that light on their darkness, they were cut to the heart, and they gnashed on him with their teeth. But he, being full of the Holy Ghost, looked up steadfastly into heaven and saw Christ standing on the right hand of God.
+
+> <sup>[55](/bible/acts/7#v55)</sup> But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
 
 **[John 3:1-2](/bible/john/3#v1)**  *[[1:11:56](https://www.youtube.com/watch?v=5HhDt1m5mGc&t=4316s)]*
 

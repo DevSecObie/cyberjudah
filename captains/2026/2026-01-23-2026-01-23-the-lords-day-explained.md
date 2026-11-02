@@ -58,38 +58,38 @@ Reading from two on-screen search results defining the Lord's day  *[[0:59](http
 
 **[Colossians 1:14-17](/bible/colossians/1#v14)**  *[[3:38](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=218s)]*
 
-> <sup>[14](/bible/colossians/1#v14)</sup> In whom we have redemption through his blood, even the forgiveness of sins:
->
-> <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
->
-> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
->
-> <sup>[17](/bible/colossians/1#v17)</sup> And he is before all things, and by him all things consist.
-
 - Why he is Lord of the Sabbath and that's his day.
 
+> <sup>[14](/bible/colossians/1#v14)</sup> In whom we have redemption through his blood, even the forgiveness of sins:
+
 - In whom we have redemption through his blood, even the forgiveness of sins: that's Jesus the Christ.
+
+> <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
 
 - Who is the image of the invisible God: he looks exactly like his father.
 
 - The firstborn of every creature: the firstborn of God's creation. God created him first, and then Christ did what?
 
+> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
+
 - For by him were all things created: he created everything.
+
+> <sup>[17](/bible/colossians/1#v17)</sup> And he is before all things, and by him all things consist.
 
 - And he is before all things, and by him all things consist: see what day that he did create for his Sabbath.
 
 
 **[Exodus 20:8-10](/bible/exodus/20#v8)**  *[[4:42](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=282s)]*
 
+- What day did Christ create, since he created all things?
+
 > <sup>[8](/bible/exodus/20#v8)</sup> Remember the sabbath day, to keep it holy.
->
+
+- Remember the sabbath day, to keep it holy: so Christ created the Sabbath day. That's why in Luke he said, "I am Lord of the Sabbath." Which means I am ruler, I'm creator of this day. I created it. Christ is the Lord of the Sabbath day, the seventh day of the week, not the first.
+
 > <sup>[9](/bible/exodus/20#v9)</sup> Six days shalt thou labour, and do all thy work:
 >
 > <sup>[10](/bible/exodus/20#v10)</sup> But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:
-
-- What day did Christ create, since he created all things?
-
-- Remember the sabbath day, to keep it holy: so Christ created the Sabbath day. That's why in Luke he said, "I am Lord of the Sabbath." Which means I am ruler, I'm creator of this day. I created it. Christ is the Lord of the Sabbath day, the seventh day of the week, not the first.
 
 - But the seventh day is the sabbath of the Lord thy God: it's the Sabbath of the Lord thy God. Now let's go to the New Testament to find out who this is speaking to us in Exodus 20.
 
@@ -105,17 +105,17 @@ Reading from two on-screen search results defining the Lord's day  *[[0:59](http
 
 **[Isaiah 9:6-7](/bible/isaiah/9#v6)**  *[[6:12](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=372s)]*
 
-> <sup>[6](/bible/isaiah/9#v6)</sup> For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
->
-> <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
-
 - To drill it home more, that this is the day of the Lord, the Sabbath day.
+
+> <sup>[6](/bible/isaiah/9#v6)</sup> For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
 
 - For unto us a child is born, unto us a son is given: when he came into the earth.
 
 - The mighty God: Christ also has the title of the Mighty God, and what else?
 
 - The everlasting Father: because that's who we've dealt with since the time of the beginning of Genesis. That's Christ we are dealing with, with Adam, and that's Christ we are dealing with when it comes to leaving Egypt, in the wilderness 40 years, in the land of Israel for all the years before we was removed, going into captivity after captivity. Christ is responsible for that. He is the Mighty God, the Everlasting Father that we have always dealt with. God the Father gave him power over all.
+
+> <sup>[7](/bible/isaiah/9#v7)</sup> Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
 
 - The zeal of the Lord of hosts will perform this: so Jesus is known as the Mighty God, the Everlasting Father, that created the seventh day as the Sabbath of the Lord.
 
@@ -148,17 +148,17 @@ Reading from two on-screen search results defining the Lord's day  *[[0:59](http
 
 **[1 Corinthians 15:1-4](/bible/1-corinthians/15#v1)**  *[[9:41](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=581s)]*
 
+- To confirm it again out of Paul's mouth.
+
 > <sup>[1](/bible/1-corinthians/15#v1)</sup> Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
 >
 > <sup>[2](/bible/1-corinthians/15#v2)</sup> By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.
 >
 > <sup>[3](/bible/1-corinthians/15#v3)</sup> For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
->
-> <sup>[4](/bible/1-corinthians/15#v4)</sup> And that he was buried, and that he rose again the third day according to the scriptures:
-
-- To confirm it again out of Paul's mouth.
 
 - How that Christ died for our sins: for our sins.
+
+> <sup>[4](/bible/1-corinthians/15#v4)</sup> And that he was buried, and that he rose again the third day according to the scriptures:
 
 - And that he rose again the third day according to the scriptures: third day. It's not a day and a half, it wasn't two days, it was a full three days, as he said, three days and three nights. So, let's pull up an image to see what three days and three nights would look like, a total of 72 hours, and not like Christianity says, where he died on a Friday afternoon and got up early Sunday morning. That's not three days and three nights.
 
@@ -168,37 +168,37 @@ Reading from two on-screen search results defining the Lord's day  *[[0:59](http
 **[Luke 24:1-7](/bible/luke/24#v1)**  *[[11:58](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=718s)]*
 
 > <sup>[1](/bible/luke/24#v1)</sup> Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them.
->
+
+- Now upon the first day of the week, very early in the morning: so, to understand, this is not a Monday. This is not an American work day week, like many people think in their heads of the first day of the week, oh it's Monday. No, this is known as Sunday. The seventh day is Saturday. The first day of the week is Sunday. It's on many of your calendars, just look at it.
+
 > <sup>[2](/bible/luke/24#v2)</sup> And they found the stone rolled away from the sepulchre.
 >
 > <sup>[3](/bible/luke/24#v3)</sup> And they entered in, and found not the body of the Lord Jesus.
 >
 > <sup>[4](/bible/luke/24#v4)</sup> And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:
->
+
+- Two men stood by them in shining garments: angels.
+
 > <sup>[5](/bible/luke/24#v5)</sup> And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?
 >
 > <sup>[6](/bible/luke/24#v6)</sup> He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,
 >
 > <sup>[7](/bible/luke/24#v7)</sup> Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.
 
-- Now upon the first day of the week, very early in the morning: so, to understand, this is not a Monday. This is not an American work day week, like many people think in their heads of the first day of the week, oh it's Monday. No, this is known as Sunday. The seventh day is Saturday. The first day of the week is Sunday. It's on many of your calendars, just look at it.
-
-- Two men stood by them in shining garments: angels.
-
 - And be crucified, and the third day rise again: no, he didn't stay in there four days. He was gone on what we know as the end of the Sabbath, Saturday. He was not there on the first day of the week. So, when Christianity, the Christian theology that is put all over the internet, and saying the Lord's day is the first day of the week, that is completely wrong according to the scriptures. The Lord Jesus Christ got up on the day that he created, which was the seventh day, to rest on.
 
 
 **[Matthew 24:3-5](/bible/matthew/24#v3)**  *[[14:07](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=847s)]*
 
+- Cuz Christ spoke about the deception of Christian theology. He didn't mention it by name.
+
 > <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
 >
 > <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
->
-> <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
-
-- Cuz Christ spoke about the deception of Christian theology. He didn't mention it by name.
 
 - Take heed that no man deceive you: that no man deceive you. He's saying beware, cuz there's going to be a lot of deception out there in the last days, at the end of the world, at the second coming, when I'mma return. There's going to be a lot of deception.
+
+> <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
 
 - For many shall come in my name: now, he let you know that that man is going to be many. What is the largest religion on the face of the earth? It is Christianity. That is the man that is deceiving the entire world, by manipulating Revelation chapter 1 verse 10.
 
@@ -264,8 +264,6 @@ Reading from an 1800s *Holy Bible* "with complete concordances and comprehensive
 **[Matthew 5:17-18](/bible/matthew/5#v17)**  *[[21:01](https://www.youtube.com/watch?v=zo7GAb7vTJU&t=1261s)]*
 
 > <sup>[17](/bible/matthew/5#v17)</sup> Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
->
-> <sup>[18](/bible/matthew/5#v18)</sup> For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
 
 - Think not that I am come to destroy the law: Christ didn't come to change the Sabbath day.
 
@@ -274,6 +272,8 @@ Reading from an 1800s *Holy Bible* "with complete concordances and comprehensive
 - I am not come to destroy: twice. I didn't come to destroy the law or the prophets.
 
 - But to fulfil: he only came to fulfill what? What was written of him. And we're going to prove that. He even made sure you didn't think he came to change the Sabbath day from the seventh day to the first day of the week when you read the Bible.
+
+> <sup>[18](/bible/matthew/5#v18)</sup> For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
 
 - One jot or one tittle shall in no wise pass from the law, till all be fulfilled: that means even after his death and resurrection, that the seventh day would still be the Lord's day.
 

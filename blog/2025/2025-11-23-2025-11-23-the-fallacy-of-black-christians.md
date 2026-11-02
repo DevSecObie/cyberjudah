@@ -647,10 +647,18 @@ Reading from a book published in 1920, on the bust of the saviour posed for by C
 
 **[Isaiah 28:14-20](/bible/isaiah/28#v14)**  *[[1:39:00](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=5940s)]*
 
+- The scornful men that rule this people in Jerusalem in Isaiah's day were the same rulers in Christ's day and are the same spirits ruling our people now.
+
 > <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
 >
 > <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
->
+
+- We have made a covenant with death and with hell are we at agreement: with Greece in the time of the Maccabees, with Rome in the time of Christ, with America now. Look at the black clergy and the black politicians and show one change in black society; the same poverty, the same prison houses.
+
+- For we have made lies our refuge and under falsehood have we hid ourselves: that refuge is white Jesus coming to the rescue, and the hail shall sweep it away and the waters overflow the hiding place.
+
+- It shall be a vexation only to understand the report, morning by morning, by day and by night, because the teaching goes out from sunup to sundown and pride will not let them give up the Jesus they were raised on.
+
 > <sup>[16](/bible/isaiah/28#v16)</sup> Therefore thus saith the Lord God, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste.
 >
 > <sup>[17](/bible/isaiah/28#v17)</sup> Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
@@ -660,14 +668,6 @@ Reading from a book published in 1920, on the bust of the saviour posed for by C
 > <sup>[19](/bible/isaiah/28#v19)</sup> From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only to understand the report.
 >
 > <sup>[20](/bible/isaiah/28#v20)</sup> For the bed is shorter than that a man can stretch himself on it: and the covering narrower than that he can wrap himself in it.
-
-- The scornful men that rule this people in Jerusalem in Isaiah's day were the same rulers in Christ's day and are the same spirits ruling our people now.
-
-- We have made a covenant with death and with hell are we at agreement: with Greece in the time of the Maccabees, with Rome in the time of Christ, with America now. Look at the black clergy and the black politicians and show one change in black society; the same poverty, the same prison houses.
-
-- For we have made lies our refuge and under falsehood have we hid ourselves: that refuge is white Jesus coming to the rescue, and the hail shall sweep it away and the waters overflow the hiding place.
-
-- It shall be a vexation only to understand the report, morning by morning, by day and by night, because the teaching goes out from sunup to sundown and pride will not let them give up the Jesus they were raised on.
 
 - The bed is shorter than that a man can stretch himself on it and the covering narrower than that he can wrap himself in it: a six-foot-five man in a three-foot bed of Christian lies, pulling a short blanket over himself, and there is no comfort in it.
 
@@ -769,8 +769,6 @@ Reading from a book published in 1920, on the bust of the saviour posed for by C
 **[Deuteronomy 28:32-33](/bible/deuteronomy/28#v32)**  *[[2:11:13](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=7873s)]*
 
 > <sup>[32](/bible/deuteronomy/28#v32)</sup> Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand.
->
-> <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
 
 - Thy sons and thy daughters shall be given unto another people: that is slavery, and there shall be no might in thine hand, no military, political or economic might to get them back.
 
@@ -819,6 +817,8 @@ Reading from a book published in 1920, on the bust of the saviour posed for by C
     > <sup>[20](/bible/jeremiah/30#v20)</sup> Their children also shall be as aforetime, and their congregation shall be established before me, and I will punish all that oppress them.
 
     Behold, I will bring again the captivity of Jacob's tents and have mercy on his dwelling places: he is not having mercy on all people on the planet but on Jacob's tents, bringing us back to rulership and to the holy land. Out of them shall proceed thanksgiving and the voice of them that make merry; I will multiply them and they shall not be few, I will glorify them and they shall not be small, their children also shall be as aforetime, and I will punish all that oppress them. Every oppressor gets punished; not one escapes.
+
+> <sup>[33](/bible/deuteronomy/28#v33)</sup> The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
 
 
 <div class="reading">
@@ -948,10 +948,6 @@ Reading from *Encyclopedia of the Jewish Diaspora: Origins, Experiences, and Cul
 **[Romans 3:20-22](/bible/romans/3#v20)**  *[[2:49:45](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=10185s)]*
 
 > <sup>[20](/bible/romans/3#v20)</sup> Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.
->
-> <sup>[21](/bible/romans/3#v21)</sup> But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;
->
-> <sup>[22](/bible/romans/3#v22)</sup> Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
 
 - By the deeds of the law there shall no flesh be justified: Christians use this to say you have to do nothing, and claim the deeds are adultery, stealing and killing. Joseph refused Potiphar's wife and was justified, so that is not what it is talking about.
 
@@ -996,6 +992,10 @@ Reading from *Encyclopedia of the Jewish Diaspora: Origins, Experiences, and Cul
     > <sup>[33](/bible/nehemiah/10#v33)</sup> For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.
 
     For the showbread, the continual meat offering, the continual burnt offering of the Sabbaths, of the new moons, for the set feasts and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God. The works of the law are those sacrifices, and that answers Romans 9:32, Galatians 2:16 and Galatians 3:2.
+
+> <sup>[21](/bible/romans/3#v21)</sup> But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;
+>
+> <sup>[22](/bible/romans/3#v22)</sup> Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
 
 
 **[Jeremiah 31:7](/bible/jeremiah/31#v7)**  *[[2:56:20](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=10580s)]*
@@ -1272,7 +1272,17 @@ Reading from an on-screen quote of Eliezer Ben Yehuda  *[[3:21:22](https://www.y
 **[Hosea 2:14-23](/bible/hosea/2#v14)**  *[[3:31:01](https://www.youtube.com/watch?v=aSKl5k_IWzo&t=12661s)]*
 
 > <sup>[14](/bible/hosea/2#v14)</sup> Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.
->
+
+- I will allure her and bring her into the wilderness and speak comfortably unto her: he allures us through the scriptures and the teaching, and speaking comfortably is the laws of God.
+
+- Thou shalt call me Ishi, which means my husband, and shalt call me no more Baali, which means Lord. I will take away the names of Baalim out of her mouth and they shall no more be remembered by their name, and that is the pure language of Zephaniah 3 and the new name of Revelation 3.
+
+- In that day he makes a covenant for them with the beasts of the field and the fowls of heaven, and breaks the bow and the sword and the battle out of the earth, and makes them to lie down safely: peace on earth for the twelve tribes.
+
+- I will betroth thee unto me for ever, in righteousness, in judgment, in lovingkindness, in mercy and in faithfulness, and thou shalt know the Lord. We are the bride of the lamb.
+
+- I will have mercy upon her that had not obtained mercy, and I will say to them which were not my people, thou art my people, and they shall say, thou art my God. That mercy is on Israel.
+
 > <sup>[15](/bible/hosea/2#v15)</sup> And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
 >
 > <sup>[16](/bible/hosea/2#v16)</sup> And it shall be at that day, saith the Lord, that thou shalt call me Ishi; and shalt call me no more Baali.
@@ -1290,16 +1300,6 @@ Reading from an on-screen quote of Eliezer Ben Yehuda  *[[3:21:22](https://www.y
 > <sup>[22](/bible/hosea/2#v22)</sup> And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel.
 >
 > <sup>[23](/bible/hosea/2#v23)</sup> And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God.
-
-- I will allure her and bring her into the wilderness and speak comfortably unto her: he allures us through the scriptures and the teaching, and speaking comfortably is the laws of God.
-
-- Thou shalt call me Ishi, which means my husband, and shalt call me no more Baali, which means Lord. I will take away the names of Baalim out of her mouth and they shall no more be remembered by their name, and that is the pure language of Zephaniah 3 and the new name of Revelation 3.
-
-- In that day he makes a covenant for them with the beasts of the field and the fowls of heaven, and breaks the bow and the sword and the battle out of the earth, and makes them to lie down safely: peace on earth for the twelve tribes.
-
-- I will betroth thee unto me for ever, in righteousness, in judgment, in lovingkindness, in mercy and in faithfulness, and thou shalt know the Lord. We are the bride of the lamb.
-
-- I will have mercy upon her that had not obtained mercy, and I will say to them which were not my people, thou art my people, and they shall say, thou art my God. That mercy is on Israel.
 
 
 ## In Closing

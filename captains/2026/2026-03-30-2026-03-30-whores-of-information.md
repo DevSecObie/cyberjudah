@@ -33,10 +33,10 @@ tags: ["15 Minutes w/ The Captains", "gossip", "the-law", "wisdom"]
 **[Deuteronomy 4:9-10](/bible/deuteronomy/4#v9)**  *[[1:58](https://www.youtube.com/watch?v=qPvmN33DYZw&t=118s)]*
 
 > <sup>[9](/bible/deuteronomy/4#v9)</sup> Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons’ sons;
->
-> <sup>[10](/bible/deuteronomy/4#v10)</sup> Specially the day that thou stoodest before the Lord thy God in Horeb, when the Lord said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their children.
 
 - But teach them thy sons: them is the statutes, the commandments.
+
+> <sup>[10](/bible/deuteronomy/4#v10)</sup> Specially the day that thou stoodest before the Lord thy God in Horeb, when the Lord said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their children.
 
 - That they may learn to fear me all the days that they shall live upon the earth: so you want to live upon the earth, you must learn how to fear God. You must learn to keep his statutes. Learn his commandments. Learn what pleases your heavenly father.
 
@@ -59,27 +59,27 @@ tags: ["15 Minutes w/ The Captains", "gossip", "the-law", "wisdom"]
 **[Proverbs 6:16-19](/bible/proverbs/6#v16)**  *[[5:51](https://www.youtube.com/watch?v=qPvmN33DYZw&t=351s)]*
 
 > <sup>[16](/bible/proverbs/6#v16)</sup> These six things doth the Lord hate: yea, seven are an abomination unto him:
->
+
+- These six things doth the Lord hate: the Lord hate these things.
+
+- A false witness that speaketh lies, and he that soweth discord among brethren. Gossip sows discord. Here's the proof.
+
 > <sup>[17](/bible/proverbs/6#v17)</sup> A proud look, a lying tongue, and hands that shed innocent blood,
 >
 > <sup>[18](/bible/proverbs/6#v18)</sup> An heart that deviseth wicked imaginations, feet that be swift in running to mischief,
 >
 > <sup>[19](/bible/proverbs/6#v19)</sup> A false witness that speaketh lies, and he that soweth discord among brethren.
 
-- These six things doth the Lord hate: the Lord hate these things.
-
-- A false witness that speaketh lies, and he that soweth discord among brethren. Gossip sows discord. Here's the proof.
-
 
 **[Sirach 28:13-14](/bible/sirach/28#v13)**  *[[6:31](https://www.youtube.com/watch?v=qPvmN33DYZw&t=391s)]*
 
 > <sup>[13](/bible/sirach/28#v13)</sup> Curse the whisperer and doubletongued: for such have destroyed many that were at peace.
->
-> <sup>[14](/bible/sirach/28#v14)</sup> A backbiting tongue hath disquieted many, and driven them from nation to nation: strong cities hath it pulled down, and overthrown the houses of great men.
 
 - Curse the whisperer and doubletongued: you whisper, girl, sis, you know that sister... That's what you're doing. Curse the whisperer.
 
 - For such have destroyed many that were at peace: you at peace. You don't know what the hell going on. You at peace, somebody bring you some crap they heard from three other sisters about you. You sowing discord. Gossip sows discord.
+
+> <sup>[14](/bible/sirach/28#v14)</sup> A backbiting tongue hath disquieted many, and driven them from nation to nation: strong cities hath it pulled down, and overthrown the houses of great men.
 
 - A backbiting tongue hath disquieted many: a backbiting tongue has caused issues with those that didn't even know they had issues. Didn't even know their name was being spread around like a virus. But you did that.
 

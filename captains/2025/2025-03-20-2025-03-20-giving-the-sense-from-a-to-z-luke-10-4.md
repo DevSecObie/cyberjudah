@@ -50,12 +50,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 **[Luke 10:2-3](/bible/luke/10#v2)**  *[[5:50](https://www.youtube.com/watch?v=jARgZqTihJs&t=350s)]*
 
 > <sup>[2](/bible/luke/10#v2)</sup> Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.
->
-> <sup>[3](/bible/luke/10#v3)</sup> Go your ways: behold, I send you forth as lambs among wolves.
 
 - Pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest: So, you already know what that means, okay? It means that we are supposed to pray to the Lord that he sends more labors into this truth. Cap went over it yesterday, so I'm not going to elaborate too much more on that, but that's the objective. We're praying to the Lord that he send more laborers into this troop to help us with this great work. Because the great work that we have, y'all, is a great work. It's just that a lot of y'all don't know yet. You know, because you're not privy to certain conversations. You're not seeing the trajectory of the truth. You're not battling all the different things that we have to battle spiritually on the level when you get to the officers and the soldiers, the captains and so on and so forth. Bishop Deacons, it's a lot of work to be done.
 
 - The labourers are few: Before I was a captain, I thought that, you know, why would they make me, I was like, why would they make me a captain? We got plenty of captains. That's what I was thinking. But I was still young in the mind. I didn't know what the leadership and what the most high had in store. That's foolish, a foolish of a thought to think. We always need leaders. We always need more and more leaders. And as more and more leaders rise up, the work is going to continue to increase. So the laborers are few. Pray ye therefore the Lord of the harvest that he would send forth laborers into his harvest. This a great work. This is a great work.
+
+> <sup>[3](/bible/luke/10#v3)</sup> Go your ways: behold, I send you forth as lambs among wolves.
 
 - Behold, I send you forth as lambs among wolves: But it's going to be hard.
 
@@ -130,14 +130,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 **[Matthew 23:37-39](/bible/matthew/23#v37)**  *[[13:24](https://www.youtube.com/watch?v=jARgZqTihJs&t=804s)]*
 
 > <sup>[37](/bible/matthew/23#v37)</sup> O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
->
-> <sup>[38](/bible/matthew/23#v38)</sup> Behold, your house is left unto you desolate.
->
-> <sup>[39](/bible/matthew/23#v39)</sup> For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
 
 - O Jerusalem, Jerusalem, thou that killest the prophets: When the Lord send the prophets is to gather the people together. When the people reject the prophets, the Lord bring judgment. That's why every time we go to these blitzes, I wish I could show y'all. Every time we go to these blitzes, every time we go teach, look at the news about five hours later. Sometimes within a couple minutes, but just go look at the news the next day.
 
 - And ye would not: We went to Orange Crush down in Savannah, Georgia last year. Destroyed their whole weekend. We was out there teaching the word of God. They were pissed. Soon as we left, a damn syphilis breakout just broke out. Gunnar, whatever it was, clap some, I can't remember what it was. Comedy, I think, something like that. I had to look up the article. Soon as we left, the Lord gave all they nasty behind chlamydia. They was out there naked, twerking, having sex, all kind of debauchery. And we was teaching the word and they was rejecting us. Some people listen, but most of them was rejecting us cuz they was out there to have a good time. And when they had thought they was having a good time, the Lord sent a plague through there. So it's not a game.
+
+> <sup>[38](/bible/matthew/23#v38)</sup> Behold, your house is left unto you desolate.
+>
+> <sup>[39](/bible/matthew/23#v39)</sup> For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
 
 - Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord: So some of our people, when Christ return, they going to see it. They going to see that he's of God.
 
@@ -145,29 +145,29 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 **[Acts 13:50-52](/bible/acts/13#v50)**  *[[14:52](https://www.youtube.com/watch?v=jARgZqTihJs&t=892s)]*
 
 > <sup>[50](/bible/acts/13#v50)</sup> But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts.
->
-> <sup>[51](/bible/acts/13#v51)</sup> But they shook off the dust of their feet against them, and came unto Iconium.
->
-> <sup>[52](/bible/acts/13#v52)</sup> And the disciples were filled with joy, and with the Holy Ghost.
 
 - But the Jews stirred up the devout and honourable women: So the Apostle Paul and Barnabas go out and teach and the Jews was rejecting them. All right? But the northern kingdom and the Israel and the Israelites that were growing up in Gentile custom, they were listening intentively. Right?
 
+> <sup>[51](/bible/acts/13#v51)</sup> But they shook off the dust of their feet against them, and came unto Iconium.
+
 - But they shook off the dust of their feet against them: So what I'm showing you is just like we read in Luke chapter 2 10 11, even the very dust of your city which cleaveth on us we do wipe off against you, notwithstanding be sure of this that the kingdom of God is come unto you. So you see what happened? You see what happened? The apostles, they went out and they talked. The prophets went out and talked and the people rejected them. Christ's commandment was dust off your feet. Don't worry about it.
+
+> <sup>[52](/bible/acts/13#v52)</sup> And the disciples were filled with joy, and with the Holy Ghost.
 
 - And the disciples were filled with joy: So, some of you get in your feelings when people don't listen when we at camp. Don't worry about it. We were sent here to warn you. God sent us here to warn you. You ain't got to listen. You could keep on walking up and down the street. You can reject us, but when the judgment comes, you will not be able to say that God did not send the prophets to show me the scriptures. All right? So, I don't get discouraged. We be at camp out there teaching, going in, people just walk past like they don't want to hear. Okay, we just here to warn you. You heard us. You can't say, "Oh, I didn't hear those guy. Lord, I never heard that." No, you heard us. You definitely heard us. And so you can't say in that day that you didn't know cuz you heard the scriptures. You heard the scriptures straight up.
 
 
 **[Luke 10:13-15](/bible/luke/10#v13)**  *[[17:09](https://www.youtube.com/watch?v=jARgZqTihJs&t=1029s)]*
 
+- Shall be thrust down to hell: It said they shall be thrust down to hill. Right? So the Lord says it's going to be more tolerable for Sodom and Gomorrah in that day than for these particular cities where the people talk. But guess what? That's Chicago. That's Philadelphia. That's Miami, Florida. That's Jackson, Mississippi. That's Raleigh, North Carolina. That's all these cities where the people reject us. You going to get it. The Bible said you going to get it. You going to get it. All of you that reject this truth and that hate this word, you going to get it.
+
 > <sup>[13](/bible/luke/10#v13)</sup> Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.
->
+
+- They had a great while ago repented: Now notice what it says. It says they would have repented but you don't want to repent.
+
 > <sup>[14](/bible/luke/10#v14)</sup> But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.
 >
 > <sup>[15](/bible/luke/10#v15)</sup> And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.
-
-- Shall be thrust down to hell: It said they shall be thrust down to hill. Right? So the Lord says it's going to be more tolerable for Sodom and Gomorrah in that day than for these particular cities where the people talk. But guess what? That's Chicago. That's Philadelphia. That's Miami, Florida. That's Jackson, Mississippi. That's Raleigh, North Carolina. That's all these cities where the people reject us. You going to get it. The Bible said you going to get it. You going to get it. All of you that reject this truth and that hate this word, you going to get it.
-
-- They had a great while ago repented: Now notice what it says. It says they would have repented but you don't want to repent.
 
 - And thou, Capernaum, which art exalted to heaven: Now what it says right here, and thou Capernaum which are exalted to heaven shall be thrust down to hell. So Capernaum was a city that was big on trade and you know very populated city. They had a lot of you know great things that were going on there in particular. And the Lord is saying, "Yeah, okay. All right. You think you something. All right. You're exalted to heaven right now. You're not willing to listen to the prophets. Don't worry. Judgment is coming. Judgment is coming." Now, let me show you that.
 
@@ -183,37 +183,37 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 **[Isaiah 14:4-5](/bible/isaiah/14#v4)**  *[[20:34](https://www.youtube.com/watch?v=jARgZqTihJs&t=1234s)]*
 
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
->
-> <sup>[5](/bible/isaiah/14#v5)</sup> The Lord hath broken the staff of the wicked, and the sceptre of the rulers.
 
 - How hath the oppressor ceased! the golden city ceased: So Babylon in this context is talking about the United States of America. Not only the United States of America, Esau, Edom in particular. That's why it says, "How hath the oppressor ceased? The golden city ceased." That is a country. That golden city is speaking about a country.
+
+> <sup>[5](/bible/isaiah/14#v5)</sup> The Lord hath broken the staff of the wicked, and the sceptre of the rulers.
 
 
 **[Isaiah 14:9-15](/bible/isaiah/14#v9)**  *[[21:16](https://www.youtube.com/watch?v=jARgZqTihJs&t=1276s)]*
 
 > <sup>[9](/bible/isaiah/14#v9)</sup> Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
->
-> <sup>[10](/bible/isaiah/14#v10)</sup> All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
->
-> <sup>[11](/bible/isaiah/14#v11)</sup> Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.
->
-> <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
->
-> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
->
-> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
->
-> <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
 
 - It hath raised up from their thrones all the kings of the nations: Meaning the kings of the nation going to come against America.
 
+> <sup>[10](/bible/isaiah/14#v10)</sup> All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
+>
+> <sup>[11](/bible/isaiah/14#v11)</sup> Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.
+
 - Thy pomp is brought down to the grave, and the noise of thy viols: The worm that's the national anthem and in a Star-Spangled Banner. The Lord said, "Yeah, yeah, yeah. I ain't hear none of that no more." The nations going to come against you.
+
+> <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
 
 - How art thou cut down to the ground, which didst weaken the nations: Which did weaken the nations. That ain't talking about Esau. I mean, that ain't talking about, excuse me, the spiritual demon Satan. That ain't talking about that. That ain't talking about that. That's talking about the city, the golden city Babylon.
 
+> <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
+
 - I will sit also upon the mount of the congregation, in the sides of the north: That's Israel.
 
+> <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
+
 - I will ascend above the heights of the clouds: That's them putting the international space station and also the Wright brothers who were from North Carolina that created the airplane. So they said I will ascend above the heights of the clouds. I will be like the most high, meaning I will be able to dwell in space because the most high dwells in different realms. Space is a different realm whether you know that or not.
+
+> <sup>[15](/bible/isaiah/14#v15)</sup> Yet thou shalt be brought down to hell, to the sides of the pit.
 
 - Yet thou shalt be brought down to hell, to the sides of the pit: I love it. I love it. They going to be brought down to hell. So all of these cities that the prophets go teach at that break God's commandments and do not receive us when we teach this word, you're going to be brought down to that same hill that Babylon is going to be brought down to, meaning utter destruction. All right? Fire and brimstone.
 
@@ -278,14 +278,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 > <sup>[3](/bible/acts/9#v3)</sup> And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:
 >
 > <sup>[4](/bible/acts/9#v4)</sup> And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
->
-> <sup>[5](/bible/acts/9#v5)</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
->
-> <sup>[6](/bible/acts/9#v6)</sup> And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.
 
 - Saul, Saul, why persecutest thou me: Now, I want you to see something. The Apostle Paul, which was Saul at the time, he was going to persecute the believers in Christ. He wasn't persecuting Christ perfectly personally. Christ was dead and gone by this time. Resurrected, gone back to the father. Now Christ meets him on the way to Damascus and said, verse six, verse five excuse me, who art thou Lord and the Lord said I am Jesus whom thou persecutest. So when he was going to persecute the people he was persecuting Christ. Why? Because those people were chosen by Christ to teach the word.
 
+> <sup>[5](/bible/acts/9#v5)</sup> And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
+
 - It is hard for thee to kick against the pricks: So now you're going to say, "Well, those Hebrew Israelites, I pray harm on them. I'm going to do harm to them." You doing the same thing they did that Paul was doing. You kicking against the pricks because the Lord with us. He already showed you. You despise this word. When we bringing the word out and you despise it, it's because you despise God. Because God is in us. So anybody got a problem with it, take it up with God. For real though.
+
+> <sup>[6](/bible/acts/9#v6)</sup> And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.
 
 
 **[Luke 10:17-20](/bible/luke/10#v17)**  *[[31:50](https://www.youtube.com/watch?v=jARgZqTihJs&t=1910s)]*
@@ -310,18 +310,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 > <sup>[7](/bible/revelation/12#v7)</sup> And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
 >
 > <sup>[8](/bible/revelation/12#v8)</sup> And prevailed not; neither was their place found any more in heaven.
->
-> <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
->
-> <sup>[10](/bible/revelation/12#v10)</sup> And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 
 - And prevailed not; neither was their place found any more in heaven: Let's see what Christ was talking about. Wait a minute. Didn't we just read that in Isaiah about the golden city, about the oppressive city? How that it was going to fall, oh Lucifer from heaven. Christ is saying, I see the white man falling. I see Satan falling.
+
+> <sup>[9](/bible/revelation/12#v9)</sup> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
 - That old serpent, called the Devil, and Satan, which deceiveth the whole world: Whoa. Who is this great dragon was cast out? That old serpent called the devil and Satan which deceiveth the whole world. Who is actively on the earth deceiving the whole planet earth. Who is it? It's the white man. Stop playing with us. It is the white man through his media, through his television, through his social media, through his radio. It's him. It is him.
 
 - Which deceiveth the whole world: I don't know if y'all remember on Powerpuff Girls, there was a character called him and he was the devil. Go look at it. Go look at Powerpuff Girls on the show Powerpuff Girl. My little girls watch it sometimes. They used to watch this. Yeah, I used to watch that when I was young. There's a show called the Powerpuff Girls. And on the Powerpuff Girls, there was a character who was a villain by the name of him. He's the devil. Look at him. Red with a pitchfork and he's deceptive and I think he transgender. I was looking at the other day I said damn him was transgender. That dude got on a dress. He got a skirt on. What the hell? They've been pushing that crap on us.
 
 - He was cast out into the earth, and his angels were cast out with him: But that old serpent called the devil and Satan which deceived the whole world. That's Esau Edom. He was cast out into the earth and his angels were cast out with him. Christ is seeing this all take place. Christ is seeing the visa. Yeah, I see Satan fall as lightning. He coming down hard and fast. That's what that mean. He coming down hard and fast. Thus sayith the Lord.
+
+> <sup>[10](/bible/revelation/12#v10)</sup> And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 
 - For the accuser of our brethren is cast down, which accused them before our God day and night: The accuser of the brethren is Satan, which is the so-called white man. He's accusing you daily. You're a thug. You're a … You're a thought. You're a thie. All right? You're uneducated. You stink. You're a drug addict. You don't take care of your children. You don't take care of your wives. Your women are independent. Your women are more educated than you. Right? You can't do no well, no good, no better. CPT, the Africans are savages. The Native American Indians are savages. The trans, the Mexicans are illegals, right? That's what they do. That's what they do, right? He called Haiti a sh wholeole country. That's what your President Donald Trump did. You feel me? Shoot. The hell is this? Anyway, so let's go back. Christ said he saw Satan fall as lightning. It's a wonderful sight.
 
@@ -335,10 +335,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 **[Luke 10:19-20](/bible/luke/10#v19)**  *[[37:24](https://www.youtube.com/watch?v=jARgZqTihJs&t=2244s)]*
 
 > <sup>[19](/bible/luke/10#v19)</sup> Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
->
-> <sup>[20](/bible/luke/10#v20)</sup> Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.
 
 - And nothing shall by any means hurt you: So there was protection for a time on the apostles.
+
+> <sup>[20](/bible/luke/10#v20)</sup> Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.
 
 
 **[Luke 10:21-22](/bible/luke/10#v21)**  *[[38:18](https://www.youtube.com/watch?v=jARgZqTihJs&t=2298s)]*
@@ -353,26 +353,26 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 **[Hebrews 1:2-8](/bible/hebrews/1#v2)**  *[[39:09](https://www.youtube.com/watch?v=jARgZqTihJs&t=2349s)]*
 
 > <sup>[2](/bible/hebrews/1#v2)</sup> Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
->
+
+- By whom also he made the worlds: Wait a minute. What does it mean Christ made the worlds? I thought God made the worlds. I thought God made the planets and the realms. No. No, God gave a blueprint. God gave the word and Christ made it come to pass. That's what it's telling you.
+
 > <sup>[3](/bible/hebrews/1#v3)</sup> Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
->
+
+- Who being the brightness of his glory, and the express image of his person: So Christ is the brightness of his glory and the express image of his person. What does that mean? Christ got power like God got power. It's not just saying that Christ looks like his father cuz to be in the express image of God meaning you got to have power like God. He's just not as powerful as his father. But he's powerful. So powerful he can create us. He can create the worlds, the planets, fire, water, trees, the soil, the atmosphere, space, stars. Christ created all that. The moon, that's all. That's light work. You don't know how powerful the son is. Only the father knows how powerful the son is. That's what he's saying. Nobody knows the son but the father. And don't nobody truly know the father but the son. Christ said, "I seen his majesty. Y'all ain't never seen his face. I seen it." Yo, this is crazy. All praises.
+
 > <sup>[4](/bible/hebrews/1#v4)</sup> Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
->
+
+- Being made so much better than the angels: So Christ was made better than the angels. But because Christ was made before the angels, and Christ is the one that created the angels. The angels were not created without the son of God. The son of God made him.
+
 > <sup>[5](/bible/hebrews/1#v5)</sup> For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?
->
+
+- Thou art my Son, this day have I begotten thee: What do you mean this day have I begotten thee? I created him. That's what the Lord is telling you. I created the son of God, most high God created Christ. That's what that means. Whoa, whoa, whoa, whoa. Wait a minute. What are we reading right now? The Holy Bible. What is it saying? Christ is the one that created the angels. And God created Christ. He's the only begotten. Meaning, the only one I created is him. And then he created all y'all. So, no man knoweth the Son but the Father. And no man knoweth the father but the son. You don't know the power of the father. You don't know. You've never dealt with the father. You've only dealt with the son the entire time. And now he's being revealed that I am the god you've been dealing with. It's beautiful. This is beautiful.
+
 > <sup>[6](/bible/hebrews/1#v6)</sup> And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
 >
 > <sup>[7](/bible/hebrews/1#v7)</sup> And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.
 >
 > <sup>[8](/bible/hebrews/1#v8)</sup> But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.
-
-- By whom also he made the worlds: Wait a minute. What does it mean Christ made the worlds? I thought God made the worlds. I thought God made the planets and the realms. No. No, God gave a blueprint. God gave the word and Christ made it come to pass. That's what it's telling you.
-
-- Who being the brightness of his glory, and the express image of his person: So Christ is the brightness of his glory and the express image of his person. What does that mean? Christ got power like God got power. It's not just saying that Christ looks like his father cuz to be in the express image of God meaning you got to have power like God. He's just not as powerful as his father. But he's powerful. So powerful he can create us. He can create the worlds, the planets, fire, water, trees, the soil, the atmosphere, space, stars. Christ created all that. The moon, that's all. That's light work. You don't know how powerful the son is. Only the father knows how powerful the son is. That's what he's saying. Nobody knows the son but the father. And don't nobody truly know the father but the son. Christ said, "I seen his majesty. Y'all ain't never seen his face. I seen it." Yo, this is crazy. All praises.
-
-- Being made so much better than the angels: So Christ was made better than the angels. But because Christ was made before the angels, and Christ is the one that created the angels. The angels were not created without the son of God. The son of God made him.
-
-- Thou art my Son, this day have I begotten thee: What do you mean this day have I begotten thee? I created him. That's what the Lord is telling you. I created the son of God, most high God created Christ. That's what that means. Whoa, whoa, whoa, whoa. Wait a minute. What are we reading right now? The Holy Bible. What is it saying? Christ is the one that created the angels. And God created Christ. He's the only begotten. Meaning, the only one I created is him. And then he created all y'all. So, no man knoweth the Son but the Father. And no man knoweth the father but the son. You don't know the power of the father. You don't know. You've never dealt with the father. You've only dealt with the son the entire time. And now he's being revealed that I am the god you've been dealing with. It's beautiful. This is beautiful.
 
 - But unto the Son he saith, Thy throne, O God, is for ever and ever: Wait a minute. But unto the son he saith thy throne oh God is forever and ever. You hear what the father saying? The father is calling his son a god. He said thy throne oh god. So what he's telling you is Christ's throne. Christ is the god we was dealing with in the old covenant.
 
@@ -404,12 +404,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 > <sup>[25](/bible/luke/10#v25)</sup> And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
 >
 > <sup>[26](/bible/luke/10#v26)</sup> He said unto him, What is written in the law? how readest thou?
->
+
+- What is written in the law? how readest thou: Wait a minute. Because the Christian church been telling us all this time that you ain't got to keep the law. Christ used the law. He said it. He said, what? Why would Christ mention the law? Because that's how you going to get eternal life. That's how crazy Christians.
+
 > <sup>[27](/bible/luke/10#v27)</sup> And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
 >
 > <sup>[28](/bible/luke/10#v28)</sup> And he said unto him, Thou hast answered right: this do, and thou shalt live.
-
-- What is written in the law? how readest thou: Wait a minute. Because the Christian church been telling us all this time that you ain't got to keep the law. Christ used the law. He said it. He said, what? Why would Christ mention the law? Because that's how you going to get eternal life. That's how crazy Christians.
 
 - Thou hast answered right: this do, and thou shalt live: So Christ said, "Yeah, true." Wait a minute. If you keep these laws, if you keep the laws, you're going to live. If you keep these laws, you're going to live. That's what the scripture is telling you. Keep the laws.
 
@@ -417,7 +417,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 **[Luke 10:29-33](/bible/luke/10#v29)**  *[[48:28](https://www.youtube.com/watch?v=jARgZqTihJs&t=2908s)]*
 
 > <sup>[29](/bible/luke/10#v29)</sup> But he, willing to justify himself, said unto Jesus, And who is my neighbour?
->
+
+- But he, willing to justify himself, said unto Jesus, And who is my neighbour: So he trying to justify himself. He don't know who he messing with obviously.
+
 > <sup>[30](/bible/luke/10#v30)</sup> And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.
 >
 > <sup>[31](/bible/luke/10#v31)</sup> And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.
@@ -425,8 +427,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 > <sup>[32](/bible/luke/10#v32)</sup> And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side.
 >
 > <sup>[33](/bible/luke/10#v33)</sup> But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,
-
-- But he, willing to justify himself, said unto Jesus, And who is my neighbour: So he trying to justify himself. He don't know who he messing with obviously.
 
 - But a certain Samaritan, as he journeyed, came where he was: Now, who are the Samaritans? The Samaritans were Israelites. Let's go to that real quick. The Samaritans were Israelites.
 
@@ -452,12 +452,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 > <sup>[34](/bible/luke/10#v34)</sup> And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.
 >
 > <sup>[35](/bible/luke/10#v35)</sup> And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.
->
+
+- Whatsoever thou spendest more, when I come again, I will repay thee: So the brother showed much charity, much love.
+
 > <sup>[36](/bible/luke/10#v36)</sup> Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?
 >
 > <sup>[37](/bible/luke/10#v37)</sup> And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.
-
-- Whatsoever thou spendest more, when I come again, I will repay thee: So the brother showed much charity, much love.
 
 - Go, and do thou likewise: What was Christ teaching them? Love your neighbor also of the northern kingdom. Cuz remember the Jews had no dealings with the Samaritans. The chief priests and the Levites, they had a problem with the northern kingdom. He told that parable of the man of Samaria to show the northern kingdom brother show love to him. But you supposed to be a Levite. You supposed to be a priest and you didn't show no love to your brother. You need to go out and show the same love that the Samaritan showed to the brother. You supposed to show the same love. You supposed to show the same love and they weren't doing that.
 
@@ -465,18 +465,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 **[1 Corinthians 13:1-5](/bible/1-corinthians/13#v1)**  *[[52:37](https://www.youtube.com/watch?v=jARgZqTihJs&t=3157s)]*
 
 > <sup>[1](/bible/1-corinthians/13#v1)</sup> Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
->
+
+- I am become as sounding brass, or a tinkling cymbal: Meaning you just making noise. You can know all the scriptures in the world. You can do all the work in the world, but if you ain't got no charity, meaning love for your neighbor, it's a wrap. The Lord ain't dealing with you. He not.
+
 > <sup>[2](/bible/1-corinthians/13#v2)</sup> And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
->
+
+- And though I have the gift of prophecy: Like some of those Levites and priests did.
+
 > <sup>[3](/bible/1-corinthians/13#v3)</sup> And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.
 >
 > <sup>[4](/bible/1-corinthians/13#v4)</sup> Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
 >
 > <sup>[5](/bible/1-corinthians/13#v5)</sup> Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
-
-- I am become as sounding brass, or a tinkling cymbal: Meaning you just making noise. You can know all the scriptures in the world. You can do all the work in the world, but if you ain't got no charity, meaning love for your neighbor, it's a wrap. The Lord ain't dealing with you. He not.
-
-- And though I have the gift of prophecy: Like some of those Levites and priests did.
 
 - Thinketh no evil: See that? They thought evil of the northern kingdom. That's why I say I ain't dealing with them. They thought evil of their own brothers. So they'll walk right past him and see him left for dead and just walk right past him. I ain't dealing with that dude. Christ is teaching us that we must have charity. He was teaching that brother. He said, "Yeah." Oh, you keep the law. "Yeah. Yeah. Yeah. I keep the law." Okay. What law you supposed to keep? Love the Lord thy God and love your neighbor. Okay. Do you love yours? Cuz you asked me which one was your neighbor. I'm going to say the brother that did right by the person. That's the neighbor right there. You understand?
 
@@ -486,16 +486,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "prayer", "satan",
 > <sup>[38](/bible/luke/10#v38)</sup> Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.
 >
 > <sup>[39](/bible/luke/10#v39)</sup> And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.
->
-> <sup>[40](/bible/luke/10#v40)</sup> But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.
->
-> <sup>[41](/bible/luke/10#v41)</sup> And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:
->
-> <sup>[42](/bible/luke/10#v42)</sup> But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.
 
 - Which also sat at Jesus' feet, and heard his word: So Mary sat down to hear the word of God. Martha was up moving around. But Mary said, "I'm going to hear his word. This word is important."
 
+> <sup>[40](/bible/luke/10#v40)</sup> But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.
+
 - Bid her therefore that she help me: Said, "Man, make her help me, Lord. I'm up here doing all this to help the people and to serve, and she ain't doing nothing. She sit at your feet all day."
+
+> <sup>[41](/bible/luke/10#v41)</sup> And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:
+>
+> <sup>[42](/bible/luke/10#v42)</sup> But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.
 
 - Mary hath chosen that good part, which shall not be taken away from her: Mary wanted to learn the word of God.
 

@@ -185,22 +185,14 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
 **[Sirach 44:1-8](/bible/sirach/44#v1)**  *[[1:05:17](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=3917s)]*
 
 > <sup>[1](/bible/sirach/44#v1)</sup> Let us now praise famous men, and our fathers that begat us.
->
+
+- Let us now praise famous men: men renowned for their power, giving counsel by their understanding, declaring prophecies. Leaders, plural. We are a nation of leaders; the law and the prophets were many.
+
 > <sup>[2](/bible/sirach/44#v2)</sup> The Lord hath wrought great glory by them through his great power from the beginning.
 >
 > <sup>[3](/bible/sirach/44#v3)</sup> Such as did bear rule in their kingdoms, men renowned for their power, giving counsel by their understanding, and declaring prophecies:
 >
 > <sup>[4](/bible/sirach/44#v4)</sup> Leaders of the people by their counsels, and by their knowledge of learning meet for the people, wise and eloquent are their instructions:
->
-> <sup>[5](/bible/sirach/44#v5)</sup> Such as found out musical tunes, and recited verses in writing:
->
-> <sup>[6](/bible/sirach/44#v6)</sup> Rich men furnished with ability, living peaceably in their habitations:
->
-> <sup>[7](/bible/sirach/44#v7)</sup> All these were honoured in their generations, and were the glory of their times.
->
-> <sup>[8](/bible/sirach/44#v8)</sup> There be of them, that have left a name behind them, that their praises might be reported.
-
-- Let us now praise famous men: men renowned for their power, giving counsel by their understanding, declaring prophecies. Leaders, plural. We are a nation of leaders; the law and the prophets were many.
 
 - By their knowledge of learning meet for the people: just what the people needed in that time and place. Some found out musical tunes, some recited verses in writing, so the brothers in music and the captains and sisters writing books are leaders in their facet.
 
@@ -233,6 +225,14 @@ tags: ["IUIC in the ClassRoom", "faith", "leadership", "the-law", "war"]
     > <sup>[43](/bible/1-maccabees/3#v43)</sup> They said one to another, Let us restore the decayed fortune of our people, and let us fight for our people and the sanctuary.
 
     They said one to another, let us restore the decayed estate of our people, and let us fight for our people and the sanctuary. Nobody did it alone; the Bishop went to the streets with a reader. You will go further and sacrifice more for someone else than for yourself, which is why selfish people only go so far.
+
+> <sup>[5](/bible/sirach/44#v5)</sup> Such as found out musical tunes, and recited verses in writing:
+>
+> <sup>[6](/bible/sirach/44#v6)</sup> Rich men furnished with ability, living peaceably in their habitations:
+>
+> <sup>[7](/bible/sirach/44#v7)</sup> All these were honoured in their generations, and were the glory of their times.
+>
+> <sup>[8](/bible/sirach/44#v8)</sup> There be of them, that have left a name behind them, that their praises might be reported.
 
 
 *[[1:17:20](https://www.youtube.com/watch?v=U7sjvP8Tio4&t=4640s)]* **In The News: The Great Debaters scene where the professor describes Willie Lynch's method: keep the slave physically strong but psychologically weak, keep the body and take the mind.** — That is where our people are, a decayed estate. It is why the bishops and deacons teach with urgency in the streets: 99 percent of our people are in a horrible state of mind.

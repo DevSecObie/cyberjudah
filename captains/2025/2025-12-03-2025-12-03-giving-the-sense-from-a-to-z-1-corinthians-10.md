@@ -46,24 +46,24 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[Exodus 13:17-22](/bible/exodus/13#v17)**  *[[8:47](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=527s)]*
 
 > <sup>[17](/bible/exodus/13#v17)</sup> And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:
->
-> <sup>[18](/bible/exodus/13#v18)</sup> But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
->
-> <sup>[19](/bible/exodus/13#v19)</sup> And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.
->
-> <sup>[20](/bible/exodus/13#v20)</sup> And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.
->
-> <sup>[21](/bible/exodus/13#v21)</sup> And the Lord went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:
->
-> <sup>[22](/bible/exodus/13#v22)</sup> He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.
 
 - God led them not through the way of the land of the Philistines, although that was near: So when he took the people out of Egypt, he didn't take them through the way of the Philistines. That would have been the quickest and best way to go. But he went the long way. Why? Because the people would have left up out of Egypt, ran into the Philistines, Philistines would have brought flame to them, brought that war, and he would have been like, “Oh, no, no, no. Please, get me back to Egypt. I'm not built for this.” Cuz they wasn't built for that. The Lord said, “They ain't ready for that type of action. Let me take them over here. Let me take them the long way.” And that just goes to, sometimes the shortcut ain't right. Sometimes you got to take the long way, y'all. You got to take the long way. That shortcut right there would have been the death of Israel cuz we wasn't ready.
 
+> <sup>[18](/bible/exodus/13#v18)</sup> But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
+
 - God led the people about, through the way of the wilderness of the Red Sea: The wilderness around the Red Sea, right?
+
+> <sup>[19](/bible/exodus/13#v19)</sup> And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.
 
 - Moses took the bones of Joseph with him: So remember Joseph, right? The forefather, he had established Egypt for Israel. Remember Joseph went to Egypt in slavery, right? And then rose up amongst the ranks and was number two amongst the government. And then his brothers came in with their families. And then from there, Israel grew. So he took Joseph's bones.
 
+> <sup>[20](/bible/exodus/13#v20)</sup> And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.
+>
+> <sup>[21](/bible/exodus/13#v21)</sup> And the Lord went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:
+
 - The Lord went before them by day in a pillar of a cloud: Remember that. Remember, Psalms 104 and 3 said what? He uses the cloud as a chariot.
+
+> <sup>[22](/bible/exodus/13#v22)</sup> He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.
 
 - He took not away the pillar of the cloud by day, nor the pillar of fire by night: So when you see old movies like The Ten Commandments, and you see all these movies and they got the Exodus, not one of those movies showed the chariot above leading. Right? Because now they got to explain how the hell was that technology available during the time of the Israelites early on? Not understanding that that's the Lord. The Lord deals in advanced technology. Why you think Satan is bringing Esau to this level? You think Satan just making it up out of his mind? No, he's seen something. So he said, “All right, I got to build all this. I got to do this.” And the Lord is giving him the information. Yeah, tell him to make the stealth bomber. Yeah, they got to make those nuclear weapons. They got to do this. They got to do that. Why? We're going to find out in a little while.
 
@@ -81,30 +81,30 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 > <sup>[16](/bible/romans/9#v16)</sup> So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
 >
 > <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
->
-> <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
->
-> <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
->
-> <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
->
-> <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
->
-> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
->
-> <sup>[23](/bible/romans/9#v23)</sup> And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
 
 - Even for this same purpose have I raised thee up, that I might shew my power in thee: Right? So Pharaoh and the Egyptians were raised up to a high power. Why? So the Lord can show himself. That's why he came out in that chariot. We're going to see it in a little while. Cuz he wanted to show the people of Israel and the whole world know there's only one God, that's me. Pharaoh is not no god on earth. None of these leaders is no gods on earth. This is me.
 
+> <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
+
 - Whom he will he hardeneth: Right? So now he's telling you that what? Pharaoh was hardened. And we all know this, right? We know the history. Pharaoh was hardened.
+
+> <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
 
 - Why doth he yet find fault? For who hath resisted his will?: Saying, so why is there fault with Pharaoh then? If the Lord has hardened Pharaoh's heart to do what he's doing, then what's Pharaoh doing wrong? Cuz it's not even of his own will. It's the Lord.
 
+> <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
+
 - Shall the thing formed say to him that formed it, Why hast thou made me thus?: In other words, he ain't got nothing to say about it. Oh, but why are we blaming Esau? Why are we blaming the Egyptian? No, no, no, no. The Lord made them like that. Don't worry about nothing. The thing formed can't say to the thing that formed it, “Why you made me like that?” Yeah, cuz I wanted to. That's it. That's the answer, actually. Cuz God wants to, right?
+
+> <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
 
 - Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?: That's what we just brought out.
 
+> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
+
 - The vessels of wrath fitted to destruction: Right? So why did we start off talking about Esau and then we start talking about Egypt and Pharaoh? Because it's the same thing now. Right? Where Esau is a world power. The Lord made him like that. The Lord made him to do what he's doing. The Lord made him not to let us go. Don't you understand that Esau never lets us go? Remember, he said, “Oh, I'm going to create Liberia and all black people will go into Liberia and get out of America.” That never happened. He had all power to put everybody on ships and take them back, but no, no, hell no. The Lord hardened his heart. No, no, you're going to keep them right here. You're going to keep them right here. Why? Because we need to see the signs in the scriptures, y'all, that we are the people. Y'all don't need to be worried whether you're in the right thing or not, cuz the Bible's telling you you're in the right thing. So you being held here, we can't leave. Oh, well, let's all get together and leave and go there. No, no, no, no. Right here. The battle has to be fought. This is it, y'all.
+
+> <sup>[23](/bible/romans/9#v23)</sup> And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
 
 - That he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory: Who's that? You. The Israelites, us. Remember the people he knew before time, or a foretime, before. This was all prepared to do what? Show the destruction of the enemy and show the glory of his people.
 
@@ -112,34 +112,34 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[Exodus 14:17-25](/bible/exodus/14#v17)**  *[[18:42](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=1122s)]*
 
 > <sup>[17](/bible/exodus/14#v17)</sup> And I, behold, I will harden the hearts of the Egyptians, and they shall follow them: and I will get me honour upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen.
->
-> <sup>[18](/bible/exodus/14#v18)</sup> And the Egyptians shall know that I am the Lord, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen.
->
-> <sup>[19](/bible/exodus/14#v19)</sup> And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them:
->
-> <sup>[20](/bible/exodus/14#v20)</sup> And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night.
->
-> <sup>[21](/bible/exodus/14#v21)</sup> And Moses stretched out his hand over the sea; and the Lord caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.
->
-> <sup>[22](/bible/exodus/14#v22)</sup> And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.
->
-> <sup>[23](/bible/exodus/14#v23)</sup> And the Egyptians pursued, and went in after them to the midst of the sea, even all Pharaoh’s horses, his chariots, and his horsemen.
->
-> <sup>[24](/bible/exodus/14#v24)</sup> And it came to pass, that in the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians,
->
-> <sup>[25](/bible/exodus/14#v25)</sup> And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
 
 - I will harden the hearts of the Egyptians, and they shall follow them: And I will get me honour upon Pharaoh. This is what we just read in Romans. This is what we just read in Romans.
 
+> <sup>[18](/bible/exodus/14#v18)</sup> And the Egyptians shall know that I am the Lord, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen.
+>
+> <sup>[19](/bible/exodus/14#v19)</sup> And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them:
+
 - The pillar of the cloud went from before their face, and stood behind them: So now, as they're moving, the chariot came from in front of them and now went behind them. Why? Because they're going to be moving forward and they're going to protect the rear. The chariot is going to protect the rear.
+
+> <sup>[20](/bible/exodus/14#v20)</sup> And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night.
 
 - It was a cloud and darkness to them, but it gave light by night to these: So the thing was when the chariot got in between them, guess what? The Egyptians couldn't see the Israelites. They couldn't see them. Because what? The chariot was doing what it needed to do. Put light over here, darkness on the other side.
 
+> <sup>[21](/bible/exodus/14#v21)</sup> And Moses stretched out his hand over the sea; and the Lord caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.
+
 - Moses stretched out his hand over the sea: That's the Red Sea.
+
+> <sup>[22](/bible/exodus/14#v22)</sup> And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.
+>
+> <sup>[23](/bible/exodus/14#v23)</sup> And the Egyptians pursued, and went in after them to the midst of the sea, even all Pharaoh’s horses, his chariots, and his horsemen.
 
 - The Egyptians pursued, and went in after them: So now the Egyptians jumped up in there, right? Went on that dry land. They went in on that dry land and followed them, right?
 
+> <sup>[24](/bible/exodus/14#v24)</sup> And it came to pass, that in the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians,
+
 - The Lord looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians: So what is that saying? That the Lord was in the chariot. That's what we seen in Psalms. Remember that, right? That he used the cloud as a chariot. He's in the chariot. That's why I say he looked through, right? And he troubled the host of the Egyptians, meaning he was fighting them. That's why he went behind, let the Israelites go through, and then he stayed back and did what? Took care of the Egyptians, right? Let them go in the water and all that.
+
+> <sup>[25](/bible/exodus/14#v25)</sup> And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
 
 - The Lord fighteth for them against the Egyptians: So they seen the Lord fighting them. They seen the Lord fighting them, right? That's what it is.
 
@@ -173,39 +173,39 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[1 Corinthians 10:2-3](/bible/1-corinthians/10#v2)**  *[[25:46](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=1546s)]*
 
 > <sup>[2](/bible/1-corinthians/10#v2)</sup> And were all baptized unto Moses in the cloud and in the sea;
->
-> <sup>[3](/bible/1-corinthians/10#v3)</sup> And did all eat the same spiritual meat;
 
 - And were all baptized unto Moses in the cloud and in the sea: I just wanted to deal with that cloud and the sea, right? We know what that is.
+
+> <sup>[3](/bible/1-corinthians/10#v3)</sup> And did all eat the same spiritual meat;
 
 - And did all eat the same spiritual meat: We want that. Did all eat the same spiritual meat. We going back to Exodus. Tapping in with Exodus today, y'all. Cuz this is where a lot of people was going on at, right? Paul was referencing Moses in Egypt and all that a lot. It's very important, right?
 
 
 **[Exodus 16:2-8](/bible/exodus/16#v2)**  *[[26:38](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=1598s)]*
 
+- Verse one is just talking about where they were.
+
 > <sup>[2](/bible/exodus/16#v2)</sup> And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:
 >
 > <sup>[3](/bible/exodus/16#v3)</sup> And the children of Israel said unto them, Would to God we had died by the hand of the Lord in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.
->
-> <sup>[4](/bible/exodus/16#v4)</sup> Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.
->
-> <sup>[5](/bible/exodus/16#v5)</sup> And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily.
->
-> <sup>[6](/bible/exodus/16#v6)</sup> And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the Lord hath brought you out from the land of Egypt:
->
-> <sup>[7](/bible/exodus/16#v7)</sup> And in the morning, then ye shall see the glory of the Lord; for that he heareth your murmurings against the Lord: and what are we, that ye murmur against us?
->
-> <sup>[8](/bible/exodus/16#v8)</sup> And Moses said, This shall be, when the Lord shall give you in the evening flesh to eat, and in the morning bread to the full; for that the Lord heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the Lord.
-
-- Verse one is just talking about where they were.
 
 - When we sat by the flesh pots, and when we did eat bread to the full: So they were like, “Damn, we was in Egypt good. Now we out here, we hungry and all that.”
 
+> <sup>[4](/bible/exodus/16#v4)</sup> Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.
+
 - That I may prove them, whether they will walk in my law, or no: It's always about the laws of God, y'all. It's always about the laws of God. Remember that.
+
+> <sup>[5](/bible/exodus/16#v5)</sup> And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily.
 
 - On the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily: Why? Because now the Sabbath is coming in, right? So there's going to be no work on the Sabbath. So clearly, he going to drop double on that sixth day, right? So that you can grab and put away for the Sabbath day.
 
+> <sup>[6](/bible/exodus/16#v6)</sup> And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the Lord hath brought you out from the land of Egypt:
+>
+> <sup>[7](/bible/exodus/16#v7)</sup> And in the morning, then ye shall see the glory of the Lord; for that he heareth your murmurings against the Lord: and what are we, that ye murmur against us?
+
 - What are we, that ye murmur against us?: He's like, “Yo, don't think you talking to me about, yeah, you brought me out here and I'm struggling.” No, no, no, no. The Lord brought you out here, so you ain't talking to us. You talking to the Lord.
+
+> <sup>[8](/bible/exodus/16#v8)</sup> And Moses said, This shall be, when the Lord shall give you in the evening flesh to eat, and in the morning bread to the full; for that the Lord heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the Lord.
 
 
 **[Exodus 16:11-16](/bible/exodus/16#v11)**  *[[28:36](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=1716s)]*
@@ -232,18 +232,18 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[John 6:47-51](/bible/john/6#v47)**  *[[30:36](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=1836s)]*
 
 > <sup>[47](/bible/john/6#v47)</sup> Verily, verily, I say unto you, He that believeth on me hath everlasting life.
->
-> <sup>[48](/bible/john/6#v48)</sup> I am that bread of life.
->
-> <sup>[49](/bible/john/6#v49)</sup> Your fathers did eat manna in the wilderness, and are dead.
->
-> <sup>[50](/bible/john/6#v50)</sup> This is the bread which cometh down from heaven, that a man may eat thereof, and not die.
->
-> <sup>[51](/bible/john/6#v51)</sup> I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
 
 - He that believeth on me hath everlasting life: This is Christ speaking. I am that bread of life, right? I am that bread of life.
 
+> <sup>[48](/bible/john/6#v48)</sup> I am that bread of life.
+>
+> <sup>[49](/bible/john/6#v49)</sup> Your fathers did eat manna in the wilderness, and are dead.
+
 - Your fathers did eat manna in the wilderness, and are dead: So he's referencing what? The time of Moses when the manna came down and that fed Israel, he said they died. What do you mean by that? Because it's not the fact that they died normally. He mean they died a physical death, but what? Their mind wasn't right. Their mind was not right. Remember none of that generation saw the land, none of them. The Lord said ain't not one of them getting through this, right? They wasn't right. That's why he said they ate the manna and died.
+
+> <sup>[50](/bible/john/6#v50)</sup> This is the bread which cometh down from heaven, that a man may eat thereof, and not die.
+>
+> <sup>[51](/bible/john/6#v51)</sup> I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
 
 - The bread that I will give is my flesh, which I will give for the life of the world: And we know the world he's talking about is the Israelite world, right? He not talking about the whole world. Remember how this started in 1st Corinthians, our fathers. Under the cloud, baptized under the cloud and the sea, our fathers. I would not have you ignorant. All we got to do is stay right there, y'all. I would not have you ignorant. He's talking to the Gentiles. If people want to say, “Oh, the Gentile, Paul to the Gentiles.” Yes, he was talking to the Gentiles. Yep, right there. And he was telling them, “Our fathers.” He's not talking to no Moabites. Why would he say our fathers? And we went through this already, but just to bang this in y'all head, man. Some of y'all don't know it too well yet. Y'all going to get there, but don't get shaken. Don't get shaken. I'm telling you right now. Don't get shaken.
 
@@ -258,22 +258,30 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[Exodus 17:6-7](/bible/exodus/17#v6)**  *[[33:29](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=2009s)]*
 
 > <sup>[6](/bible/exodus/17#v6)</sup> Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
->
-> <sup>[7](/bible/exodus/17#v7)</sup> And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the Lord, saying, Is the Lord among us, or not?
 
 - And thou shalt smite the rock: Right? Thou shalt smite the rock. I'm saying that because I want y'all to pay attention to the verbiage.
+
+> <sup>[7](/bible/exodus/17#v7)</sup> And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the Lord, saying, Is the Lord among us, or not?
 
 - He called the name of the place Massah, and Meribah: So they were coming at Moses. So he named it that because what? They kept tempting the Lord. Keep saying, “Yo, why you brought us out here? This don't make no sense. Is God even here? What is going on?” So on and so forth. But the point is I wanted y'all to see that verbiage. That what? He smited the rock, right? He hit the rock with his stick.
 
 
 **[Numbers 20:1-12](/bible/numbers/20#v1)**  *[[34:18](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=2058s)]*
 
+- What are we on? 1 Corinthians chapter 10 and 4 said what? We all drank the same spiritual drink.
+
 > <sup>[1](/bible/numbers/20#v1)</sup> Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
->
+
+- Into the desert of Zin: When it says the desert of Zin, when you read earlier, it says sin, S-I-N, and I think that's for Sinai. I believe that's what it is. I'm trying to remember. I believe that's what it is, right?
+
 > <sup>[2](/bible/numbers/20#v2)</sup> And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
->
+
+- They gathered themselves together against Moses and against Aaron: So once again, there's no water, they're coming at Aaron and Moses again.
+
 > <sup>[3](/bible/numbers/20#v3)</sup> And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the Lord!
->
+
+- And the people chode with Moses: When it says chode or chide, that means they were bickering back and forth and arguing with them and all that.
+
 > <sup>[4](/bible/numbers/20#v4)</sup> And why have ye brought up the congregation of the Lord into this wilderness, that we and our cattle should die there?
 >
 > <sup>[5](/bible/numbers/20#v5)</sup> And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink.
@@ -283,28 +291,20 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 > <sup>[7](/bible/numbers/20#v7)</sup> And the Lord spake unto Moses, saying,
 >
 > <sup>[8](/bible/numbers/20#v8)</sup> Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink.
->
-> <sup>[9](/bible/numbers/20#v9)</sup> And Moses took the rod from before the Lord, as he commanded him.
->
-> <sup>[10](/bible/numbers/20#v10)</sup> And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock?
->
-> <sup>[11](/bible/numbers/20#v11)</sup> And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also.
->
-> <sup>[12](/bible/numbers/20#v12)</sup> And the Lord spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.
-
-- What are we on? 1 Corinthians chapter 10 and 4 said what? We all drank the same spiritual drink.
-
-- Into the desert of Zin: When it says the desert of Zin, when you read earlier, it says sin, S-I-N, and I think that's for Sinai. I believe that's what it is. I'm trying to remember. I believe that's what it is, right?
-
-- They gathered themselves together against Moses and against Aaron: So once again, there's no water, they're coming at Aaron and Moses again.
-
-- And the people chode with Moses: When it says chode or chide, that means they were bickering back and forth and arguing with them and all that.
 
 - Speak ye unto the rock: Remember before, it said smite the rock, right? When we read in Exodus 17. Now the Lord is saying speak unto the rock.
 
+> <sup>[9](/bible/numbers/20#v9)</sup> And Moses took the rod from before the Lord, as he commanded him.
+>
+> <sup>[10](/bible/numbers/20#v10)</sup> And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock?
+
 - Hear now, ye rebels; must we fetch you water out of this rock?: Right? So now Moses, he's mad as hell because he getting pressed by Israel. Remember it said chided, right? He getting pressed. So he saying, “Yo, you rebels, you rebellious ass, we got to get water for you out of this rock now? Y'all still crying about all this?”
 
+> <sup>[11](/bible/numbers/20#v11)</sup> And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also.
+
 - With his rod he smote the rock twice: Right? It said he smote the rock. He hit the rock. The Lord said, “Speak to the rock.” Before he told them to smite the rock. Now he's telling them to speak to the rock. Why? But Moses is so tight and so angry, he ain't even hearing none of that. He just mad at Israel. He like, “Man, I'm sick of these niggers.” Right? Not only did he hit the rock once, he hit it twice.
+
+> <sup>[12](/bible/numbers/20#v12)</sup> And the Lord spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.
 
 - Therefore ye shall not bring this congregation into the land which I have given them: Right? So that's how Moses wound up and Aaron wound up not being able to go into the land, because that last time right there. The Lord said that was a lack of belief. That one time. That was a lack of belief. Why? Because he was so pissed off with the congregation of Israel, right? So that's why Christ keep saying, “Yo, we got to treat our neighbors as we would treat ourselves. We got to love our brethren, right?” Even in a time like this, and this is rough for Moses, right? Cuz he was the leader, and these guys were crazy as hell. These people were just out of control. And he lost his temper, right? But the Lord said, “I told you to speak to the rock.” Why? Because now the people would have saw him speak to the rock. A rock let go with that water. That's symbolizing something. That was a symbolization of something, if that's a word.
 
@@ -316,10 +316,10 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 > <sup>[8](/bible/john/4#v8)</sup> (For his disciples were gone away unto the city to buy meat.)
 >
 > <sup>[9](/bible/john/4#v9)</sup> Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
->
-> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
 
 - For the Jews have no dealings with the Samaritans: Meaning what? The kingdom of Judah don't have no dealings with the kingdom of Israel. That's really what she's saying. The northern kingdom has no dealings with the southern kingdom. So why are you talking to me? This is what she's saying.
+
+> <sup>[10](/bible/john/4#v10)</sup> Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
 
 - He would have given thee living water: Right? So when it's talking about drink, or drink the same spiritual drink, even back then in the wilderness, that was a spiritual thing. The water being brought out, that was spiritual to show what? The word is coming out of who? Christ being the rock. We going to get into Christ being the rock, but that's what it's talking about, that living waters. That's why he said this here, right? For us to be able to put it together and say, “Oh man, that's why the Lord had the water coming out of that rock, to show that's where the truth coming out. This is where the understanding and everything comes out.”
 
@@ -333,7 +333,9 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[Psalms 78:20-35](/bible/psalms/78#v20)**  *[[40:44](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=2444s)]*
 
 > <sup>[20](/bible/psalms/78#v20)</sup> Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
->
+
+- Behold, he smote the rock, that the waters gushed out: This is also making reference to what we read in Exodus, right?
+
 > <sup>[21](/bible/psalms/78#v21)</sup> Therefore the Lord heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;
 >
 > <sup>[22](/bible/psalms/78#v22)</sup> Because they believed not in God, and trusted not in his salvation:
@@ -343,11 +345,15 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 > <sup>[24](/bible/psalms/78#v24)</sup> And had rained down manna upon them to eat, and had given them of the corn of heaven.
 >
 > <sup>[25](/bible/psalms/78#v25)</sup> Man did eat angels’ food: he sent them meat to the full.
->
+
+- Man did eat angels' food: he sent them meat to the full. Right? We read all of that. You read in 1 Corinthians 10 when he said we all ate the same spiritual meat and drank the same spiritual water, right?
+
 > <sup>[26](/bible/psalms/78#v26)</sup> He caused an east wind to blow in the heaven: and by his power he brought in the south wind.
 >
 > <sup>[27](/bible/psalms/78#v27)</sup> He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:
->
+
+- He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea: Right? Remember he brought all the quail and all that, right? That's what it's talking about.
+
 > <sup>[28](/bible/psalms/78#v28)</sup> And he let it fall in the midst of their camp, round about their habitations.
 >
 > <sup>[29](/bible/psalms/78#v29)</sup> So they did eat, and were well filled: for he gave them their own desire;
@@ -355,54 +361,48 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 > <sup>[30](/bible/psalms/78#v30)</sup> They were not estranged from their lust. But while their meat was yet in their mouths,
 >
 > <sup>[31](/bible/psalms/78#v31)</sup> The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.
->
+
+- The wrath of God came upon them, and slew the fattest of them: Right? We going to get into all of that. He said he gave them up to their desire, and as they were eating and filling themselves, he said he slew the fattest of them, the ones who was eating good. I'm good. Yeah. Slew.
+
 > <sup>[32](/bible/psalms/78#v32)</sup> For all this they sinned still, and believed not for his wondrous works.
->
+
+- For all this they sinned still: They didn't give a damn. They was still what? Beholding to their lust. We going to get into all of that, right? It's coming up. I know I've been keeping y'all here for a while. We going to go through it.
+
 > <sup>[33](/bible/psalms/78#v33)</sup> Therefore their days did he consume in vanity, and their years in trouble.
 >
 > <sup>[34](/bible/psalms/78#v34)</sup> When he slew them, then they sought him: and they returned and enquired early after God.
 >
 > <sup>[35](/bible/psalms/78#v35)</sup> And they remembered that God was their rock, and the high God their redeemer.
 
-- Behold, he smote the rock, that the waters gushed out: This is also making reference to what we read in Exodus, right?
-
-- Man did eat angels' food: he sent them meat to the full. Right? We read all of that. You read in 1 Corinthians 10 when he said we all ate the same spiritual meat and drank the same spiritual water, right?
-
-- He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea: Right? Remember he brought all the quail and all that, right? That's what it's talking about.
-
-- The wrath of God came upon them, and slew the fattest of them: Right? We going to get into all of that. He said he gave them up to their desire, and as they were eating and filling themselves, he said he slew the fattest of them, the ones who was eating good. I'm good. Yeah. Slew.
-
-- For all this they sinned still: They didn't give a damn. They was still what? Beholding to their lust. We going to get into all of that, right? It's coming up. I know I've been keeping y'all here for a while. We going to go through it.
-
 - And they remembered that God was their rock, and the high God their redeemer: Y'all understand that? That God was their rock and the high God their redeemer. You see that? Letting you know that we was always dealing with Christ. You had another group out here talking about, oh, IUIC said that the most high is Jesus. No, we never said that. That's dumb. We never said that. What we said was that the God that we were dealing with in the Old Testament is Christ. His father is the most high. The most high is referenced all through the scriptures. Don't let these people get you twisted. This is just pure stupidity, right? It told you right there who you was dealing with, right? All praises. Lord willing you got something out of that.
 
 
 **[Matthew 7:24-27](/bible/matthew/7#v24)**  *[[44:34](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=2674s)]*
 
+- Precept must be upon precept, yo.
+
 > <sup>[24](/bible/matthew/7#v24)</sup> Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
->
+
+- A wise man, which built his house upon a rock: Because what? He's trying to let us know that we got to put our foundation on him, on Christ. Cuz he's the rock that's built into the strong foundation, yo. You all understand that? So when we talking about the rock, we know we talking about Christ. It said it in 1 Corinthians 10 already in verse 4. But what? You got to get the precepts. And listen, if we go through that, that's 2 hours right there with showing that Christ is the rock. That's 2 hours right there.
+
 > <sup>[25](/bible/matthew/7#v25)</sup> And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.
 >
 > <sup>[26](/bible/matthew/7#v26)</sup> And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
 >
 > <sup>[27](/bible/matthew/7#v27)</sup> And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
 
-- Precept must be upon precept, yo.
-
-- A wise man, which built his house upon a rock: Because what? He's trying to let us know that we got to put our foundation on him, on Christ. Cuz he's the rock that's built into the strong foundation, yo. You all understand that? So when we talking about the rock, we know we talking about Christ. It said it in 1 Corinthians 10 already in verse 4. But what? You got to get the precepts. And listen, if we go through that, that's 2 hours right there with showing that Christ is the rock. That's 2 hours right there.
-
 
 **[1 Corinthians 10:5-8](/bible/1-corinthians/10#v5)**  *[[46:07](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=2767s)]*
 
 > <sup>[5](/bible/1-corinthians/10#v5)</sup> But with many of them God was not well pleased: for they were overthrown in the wilderness.
->
+
+- For they were overthrown in the wilderness: Remember we read that in Psalms. We about to get into it, right?
+
 > <sup>[6](/bible/1-corinthians/10#v6)</sup> Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.
 >
 > <sup>[7](/bible/1-corinthians/10#v7)</sup> Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.
 >
 > <sup>[8](/bible/1-corinthians/10#v8)</sup> Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
-
-- For they were overthrown in the wilderness: Remember we read that in Psalms. We about to get into it, right?
 
 - And fell in one day three and twenty thousand: Watch this, y'all. We going to get all of that. We just going to run through these scriptures.
 
@@ -451,33 +451,33 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[1 Corinthians 10:9-10](/bible/1-corinthians/10#v9)**  *[[52:40](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=3160s)]*
 
 > <sup>[9](/bible/1-corinthians/10#v9)</sup> Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
->
-> <sup>[10](/bible/1-corinthians/10#v10)</sup> Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.
 
 - Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents: Let's get that.
+
+> <sup>[10](/bible/1-corinthians/10#v10)</sup> Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.
 
 
 **[Numbers 21:5-9](/bible/numbers/21#v5)**  *[[52:40](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=3160s)]*
 
 > <sup>[5](/bible/numbers/21#v5)</sup> And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread.
->
-> <sup>[6](/bible/numbers/21#v6)</sup> And the Lord sent fiery serpents among the people, and they bit the people; and much people of Israel died.
->
-> <sup>[7](/bible/numbers/21#v7)</sup> Therefore the people came to Moses, and said, We have sinned, for we have spoken against the Lord, and against thee; pray unto the Lord, that he take away the serpents from us. And Moses prayed for the people.
->
-> <sup>[8](/bible/numbers/21#v8)</sup> And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.
->
-> <sup>[9](/bible/numbers/21#v9)</sup> And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 
 - And the people spake against God, and against Moses: Right? They kept doing it.
 
 - Our soul loatheth this light bread: They hated that manna. They said this manna is terrible.
 
+> <sup>[6](/bible/numbers/21#v6)</sup> And the Lord sent fiery serpents among the people, and they bit the people; and much people of Israel died.
+
 - And the Lord sent fiery serpents among the people: When it says fiery serpents, that means poisonous. Poisonous serpents.
 
 - And much people of Israel died: I want to make sure that we're reading that. Why am I emphasizing that? Because remember, Israel came out with what? A mixed multitude. This is the argument that a lot of so-called urban apologists and the rest of these cornballs is trying to bring in. No, the Lord said that he was putting Israel to death. That's why the scripture say that what? I've given my law unto Jacob and the judgments no nation has known them. The Lord wasn't judging the mixed multitude on keeping the commandments. No, no. Much people of Israel died. I wanted to bring that out.
 
+> <sup>[7](/bible/numbers/21#v7)</sup> Therefore the people came to Moses, and said, We have sinned, for we have spoken against the Lord, and against thee; pray unto the Lord, that he take away the serpents from us. And Moses prayed for the people.
+>
+> <sup>[8](/bible/numbers/21#v8)</sup> And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.
+
 - Make thee a fiery serpent, and set it upon a pole: Right? So now that pole, y'all, I know we talked about this before, and many of the teachers, that pole with the serpent around it, that's what you see today in hospitals, right? In a hospital setting, right? And on the side of the ambulance, that pole with the snakes going around it. That's for what? For healing. That's what it's supposed to represent.
+
+> <sup>[9](/bible/numbers/21#v9)</sup> And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 
 - When he beheld the serpent of brass, he lived: Right? So that was the healing of that, right? So now let's go a little bit more with that. And I hope some Christians, man, y'all with Christian friends or family members, show them the video. Show them these classes so that they may learn. This is not no, “Oh, we just mad y'all Christians. We want to fight you and we want to battle.” No. It's no real battle cuz y'all don't know the Bible. But what it is is teaching, right? Love. That's what this is. This is called love.
 
@@ -485,27 +485,27 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[John 3:14-16](/bible/john/3#v14)**  *[[55:45](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=3345s)]*
 
 > <sup>[14](/bible/john/3#v14)</sup> And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
->
-> <sup>[15](/bible/john/3#v15)</sup> That whosoever believeth in him should not perish, but have eternal life.
->
-> <sup>[16](/bible/john/3#v16)</sup> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
 - As Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: Just like the serpent, the fiery serpent of brass, was put up to do what? Give healing to those of the Israelites who were bitten, even like that time must what? Christ be risen up and pushed up so Israel can be saved. That's why it's being referenced.
 
+> <sup>[15](/bible/john/3#v15)</sup> That whosoever believeth in him should not perish, but have eternal life.
+
 - That whosoever believeth in him: We know the whosoever is the Israelites because we just read that in Numbers 21. Right? That's the whosoever of the nation of Israel should not perish but have eternal life.
+
+> <sup>[16](/bible/john/3#v16)</sup> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
 - For God so loved the world: The world of Israel, that he gave his only begotten son, that whosoever believeth in him should not perish but have everlasting life. That's what happened when the people seen that they was getting put to death, they said, “Oh, Lord, we repent.” And they looked upon that brass snake, or the brass serpent, and what? They were healed. That was representing Christ.
 
 
 **[Wisdom of Solomon 16:5-6](/bible/wisdom-of-solomon/16#v5)**  *[[57:10](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=3430s)]*
 
-> <sup>[5](/bible/wisdom-of-solomon/16#v5)</sup> For when the horrible fierceness of beasts came upon these, and they perished with the stings of crooked serpents, thy wrath endured not for ever:
->
-> <sup>[6](/bible/wisdom-of-solomon/16#v6)</sup> But they were troubled for a small season, that they might be admonished, having a sign of salvation, to put them in remembrance of the commandment of thy law.
-
 - Wisdom of Solomon even really brought it home. Wisdom of Solomon brought it home for all of those who hate reading John 3 and don't want to understand this ain't talking about the whole world. Precept this.
 
+> <sup>[5](/bible/wisdom-of-solomon/16#v5)</sup> For when the horrible fierceness of beasts came upon these, and they perished with the stings of crooked serpents, thy wrath endured not for ever:
+
 - Thy wrath endured not for ever: It's referencing Numbers chapter 21. Meaning what? The wrath didn't last forever. Why? Because they repented, right?
+
+> <sup>[6](/bible/wisdom-of-solomon/16#v6)</sup> But they were troubled for a small season, that they might be admonished, having a sign of salvation, to put them in remembrance of the commandment of thy law.
 
 - That they might be admonished: Corrected.
 
@@ -534,10 +534,10 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[1 Corinthians 10:12-13](/bible/1-corinthians/10#v12)**  *[[1:00:16](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=3616s)]*
 
 > <sup>[12](/bible/1-corinthians/10#v12)</sup> Wherefore let him that thinketh he standeth take heed lest he fall.
->
-> <sup>[13](/bible/1-corinthians/10#v13)</sup> There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
 
 - Wherefore let him that thinketh he standeth take heed lest he fall: We're going to get it now.
+
+> <sup>[13](/bible/1-corinthians/10#v13)</sup> There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
 
 - Who will not suffer you to be tempted above that ye are able: Suffer you, or allow you. So a lot of us are going through things, right? But the Lord said, “I'm not going to give you more than you can handle.” I'm not going to give you more than you can handle. You might be saying, “How's this possible? I'm down to my last dollar. They want to evict me. They held back my snap benefits for 2 weeks. The job is threatening to fire me.” Whatever we got going on. I'm sick. Whatever we got going on, the Lord say, “I know all that. I'm allowing that because you can handle it.” And this is hard for us to understand, but Paul is trying to show us something right here. Cuz although we, the nation of Israel, we have promises coming, we have to go through some things, okay?
 
@@ -570,46 +570,46 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 
 **[2 Corinthians 12:6-11](/bible/2-corinthians/12#v6)**  *[[1:03:55](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=3835s)]*
 
-> <sup>[6](/bible/2-corinthians/12#v6)</sup> For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.
->
-> <sup>[7](/bible/2-corinthians/12#v7)</sup> And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
->
-> <sup>[8](/bible/2-corinthians/12#v8)</sup> For this thing I besought the Lord thrice, that it might depart from me.
->
-> <sup>[9](/bible/2-corinthians/12#v9)</sup> And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
->
-> <sup>[10](/bible/2-corinthians/12#v10)</sup> Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
->
-> <sup>[11](/bible/2-corinthians/12#v11)</sup> I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.
-
 - And this is the part that y'all got to, this is the killer right here. This is what y'all got to understand. And this should give you some encouragement, right? We want to have that encouragement, right? Cuz this is what Paul was talking about, right? This is a beautiful one. I know I'm talking a little fast. I want to hurry up.
 
+> <sup>[6](/bible/2-corinthians/12#v6)</sup> For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.
+
 - Lest any man should think of me above that which he seeth me to be: Right? Cuz Paul is what? He's becoming well known. Everybody knows Paul. They knew him before cuz he was a killer and all that. But now they hear him like, “Damn, Paul.” The Lord touched him. He's really coming with it now. He's in this thing real hard. So now people look up to him. So he said he don't want to be thinking of himself higher than what he really actually is. He don't want nobody else to see him like that, either.
+
+> <sup>[7](/bible/2-corinthians/12#v7)</sup> And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
 
 - Lest I should be exalted above measure through the abundance of the revelations: Right? Because he been given a lot in terms of his understanding, and people going to tend to show him more favor like that. But he's saying, hey, I'm like you. I don't want to get myself all puffed up.
 
 - There was given to me a thorn in the flesh, the messenger of Satan to buffet me: Watch this.
 
+> <sup>[8](/bible/2-corinthians/12#v8)</sup> For this thing I besought the Lord thrice, that it might depart from me.
+
 - For this thing I besought the Lord thrice, that it might depart from me: Right? So the Lord did what? He said he had what? A thorn in his side by Satan. Meaning what? The temptations of what? The sexual immorality that was always in his mind. Okay? That was always in his mind. And he besought the Lord thrice. He was sitting down praying to the Lord, “Please remove this. Remove this. Why is this still in my mind? I'm doing everything correct, Lord. Why is it still plaguing me?” A lot of us, we do the same thing. It don't have to be with that, but whatever it is that you're dealing with, okay? That's what's happening. That's what Paul is saying. He went and tried to get this removed. He wanted the Lord to take it from him, right?
+
+> <sup>[9](/bible/2-corinthians/12#v9)</sup> And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
 
 - And he said unto me: Meaning the Lord.
 
 - For my strength is made perfect in weakness: My strength is made perfect in weakness, y'all. Why is he saying that? Because in your weakness, when you get through those weak moments, that's where you show your strength. If the Lord didn't give you any weak moments, then how are you strong? When you go to the gym, you keep adding weight and pushing more weight because what? You want to see how strong you are. So when you start talking about, “Yo, man, I'm strong and this and that,” I'll be like, “How are you strong?” Especially amongst men, we going to challenge each other immediately. “Yo, man, I bench press 315.” “Oh, for real? Okay, yeah, let's go to the gym tomorrow. I want to see with my own eyes.” You got to prove it. You got to prove it. So the Lord is doing the same thing. That's why he said, “We got to prove you.” He's proving you. So he let those things stay with you when you got to battle through it, battle through it, constantly battle through it, and you'll get better, but it's never going to leave. It's never going to leave, y'all. Some things. I'm not going to say all things. There's a lot of stuff the Lord going to take. Certain things. That doesn't mean you go into it now. “Oh, Lord, I just love them big booties. I love it. It's not going. I just got to have sex with them.” No, that's not winning. That's losing. That's losing. But that's how the Lord is dealing, right?
 
+> <sup>[10](/bible/2-corinthians/12#v10)</sup> Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
+
 - For when I am weak, then am I strong: Let me stop there. I don't want to go too far. That's good right there.
+
+> <sup>[11](/bible/2-corinthians/12#v11)</sup> I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.
 
 
 **[1 Corinthians 10:14-16](/bible/1-corinthians/10#v14)**  *[[1:08:19](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=4099s)]*
 
 > <sup>[14](/bible/1-corinthians/10#v14)</sup> Wherefore, my dearly beloved, flee from idolatry.
->
-> <sup>[15](/bible/1-corinthians/10#v15)</sup> I speak as to wise men; judge ye what I say.
->
-> <sup>[16](/bible/1-corinthians/10#v16)</sup> The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
 
 - Wherefore, my dearly beloved, flee from idolatry: Now he comes right back with the idolatry, right? He gave the understanding of what was going on back in the time of Moses. Cuz guess what? They was doing what? It was all idolatry. Messing with the women of the other nations, worshipping their gods, right? He said, “Don't deal with that, right?”
 
+> <sup>[15](/bible/1-corinthians/10#v15)</sup> I speak as to wise men; judge ye what I say.
+
 - I speak as to wise men; judge ye what I say: He said, “I'm speaking to you like you wise. So you should be able to judge what I'm saying, whether it's right or wrong.”
+
+> <sup>[16](/bible/1-corinthians/10#v16)</sup> The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
 
 - The cup of blessing which we bless, is it not the communion of the blood of Christ?: The bread which we break, is it not the communion of the body of Christ? Right? Watch this. Let's touch that a little bit.
 
@@ -617,7 +617,9 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[John 6:52-56](/bible/john/6#v52)**  *[[1:09:02](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=4142s)]*
 
 > <sup>[52](/bible/john/6#v52)</sup> The Jews therefore strove among themselves, saying, How can this man give us his flesh to eat?
->
+
+- How can this man give us his flesh to eat?: Remember we read that earlier. We read to verse 51, right?
+
 > <sup>[53](/bible/john/6#v53)</sup> Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.
 >
 > <sup>[54](/bible/john/6#v54)</sup> Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.
@@ -625,8 +627,6 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 > <sup>[55](/bible/john/6#v55)</sup> For my flesh is meat indeed, and my blood is drink indeed.
 >
 > <sup>[56](/bible/john/6#v56)</sup> He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.
-
-- How can this man give us his flesh to eat?: Remember we read that earlier. We read to verse 51, right?
 
 - He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him: Right? So that's what Christ put, and then Paul came back and did what? And we all know this cuz we say this after every class, after every Sabbath. Right? We go through this. We break bread. But Paul writing this in Corinthians was based on what Christ said in John chapter 6.
 
@@ -636,24 +636,24 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 > <sup>[23](/bible/1-corinthians/11#v23)</sup> For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
 >
 > <sup>[24](/bible/1-corinthians/11#v24)</sup> And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
->
-> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
->
-> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
->
-> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
->
-> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
->
-> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
 
 - This do in remembrance of me: That's why I said, if you don't eat of my flesh or drink of my blood, right?
 
+> <sup>[25](/bible/1-corinthians/11#v25)</sup> After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
+>
+> <sup>[26](/bible/1-corinthians/11#v26)</sup> For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
+
 - Ye do shew the Lord's death till he come: And that's why we do it. It's a commemoration of when the Lord is going to come back. That's what this is about. This is the communion, right?
+
+> <sup>[27](/bible/1-corinthians/11#v27)</sup> Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
 
 - Whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord: Meaning what? Blood in, blood out. Okay? Meaning that once you break bread, and this is a lot of you new brothers and sisters who actually come to the school. Some of y'all online might not actually be able to come to the school. You don't come to the school yet. We take time before we let you break bread because of this right here, right? You got to examine yourself and see if you really in this, right?
 
 - Unworthily, shall be guilty of the body and blood of the Lord: Notice what he says here. I'm going to read 27 again. Meaning what? When y'all do this and then y'all run out, y'all leave the truth and start talking about, “Oh, it's a cult.” I seen recently, was a woman who was in the body and she started talking about, “Oh, it's a cult and this, that and the third.” It's amazing. I'm looking at the sister like, “Damn.” Brothers treated her beautifully. Nothing but honor and respect to that sister. And now she's out there running her mouth like a nut. “Oh, and they're a cult and they're this and they're that and they're Satan.” She going to have to pay for this. This is what the Lord is saying. When you drink the cup of the Lord unworthily, right? Shall be guilty of the body and blood of the Lord.
+
+> <sup>[28](/bible/1-corinthians/11#v28)</sup> But let a man examine himself, and so let him eat of that bread, and drink of that cup.
+>
+> <sup>[29](/bible/1-corinthians/11#v29)</sup> For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
 
 - Eateth and drinketh damnation to himself, not discerning the Lord's body: So you got to be for real when you eat of this bread and drink of the cup, right? That's what that's talking about. That's that communion. So when they talk about in Catholic Church the holy communion, they don't even understand what the hell they doing. All they doing is taking some wafers and some wine. That's all they know what the communion is, but they don't understand what it actually means. Okay? This is to the death, y'all. This is to the death. And then that's the thing. New York, that was a saying. Yo, we do it to the death. That's what this is literally, to the death.
 
@@ -678,27 +678,27 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 > <sup>[21](/bible/1-corinthians/10#v21)</sup> Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord’s table, and of the table of devils.
 >
 > <sup>[22](/bible/1-corinthians/10#v22)</sup> Do we provoke the Lord to jealousy? are we stronger than he?
->
-> <sup>[23](/bible/1-corinthians/10#v23)</sup> All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.
->
-> <sup>[24](/bible/1-corinthians/10#v24)</sup> Let no man seek his own, but every man another’s wealth.
 
 - Do we provoke the Lord to jealousy? are we stronger than he?: Do we want to provoke the Lord into jealousy? Cuz we ain't stronger. We can't deal with his wrath to come. That's what it's saying, right? And y'all know the scripture is talking about the Lord, his name is jealous and all of that. I want to keep going cuz I want to get through this, right?
 
+> <sup>[23](/bible/1-corinthians/10#v23)</sup> All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.
+
 - All things are lawful for me, but all things edify not: You going to get ready to understand that right now.
+
+> <sup>[24](/bible/1-corinthians/10#v24)</sup> Let no man seek his own, but every man another’s wealth.
 
 
 **[1 Corinthians 10:25-27](/bible/1-corinthians/10#v25)**  *[[1:15:53](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=4553s)]*
 
 > <sup>[25](/bible/1-corinthians/10#v25)</sup> Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:
->
-> <sup>[26](/bible/1-corinthians/10#v26)</sup> For the earth is the Lord’s, and the fulness thereof.
->
-> <sup>[27](/bible/1-corinthians/10#v27)</sup> If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.
 
 - Whatsoever is sold in the shambles, that eat, asking no question for conscience sake: Now, when it's saying the shambles, it's talking about meat markets, right? So now it's saying when you go to the meat market. And now we about to get into what we just read right there. All things are lawful, all things are not expedient. Let no man seek his own, but seek others. That's what this is going into. We going to explain to you what this mean.
 
 - Asking no question for conscience sake: Why? Because earlier it said, is the idol anything? No, the idol is nothing when you have understanding, right? So let's say for instance we go and we're buying some meat at a meat market. That's what the shambles is, right? And we're buying certain meats. We don't know who these people are that selling the meat. We don't know what they worship, we don't know what they prayed to in the morning, we know nothing. For all we know they could have woke up in the morning and been like, “Oh, holy devil, just give us a good day today.” They could have been doing that. We don't know that. All we know is we come in here to buy some meat to eat, right? So it says when you go in the shambles, that eat. Buy it and eat it. Asking no question for conscience sake. Excuse me, who do you pray to in the morning? No, no, no. Said don't do that. That's a waste of your time. It's a waste of your time.
+
+> <sup>[26](/bible/1-corinthians/10#v26)</sup> For the earth is the Lord’s, and the fulness thereof.
+>
+> <sup>[27](/bible/1-corinthians/10#v27)</sup> If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.
 
 - If any of them that believe not bid you to a feast, and ye be disposed to go: I like this, right? Cuz we just talked about thanks killing. Now it's not talking about Thanksgiving and stuff like that, cuz clearly you know what that's about. So don't show up to that. But let's say for instance you're at work, and I always talk about this, it was in the corporate setting or whatever, and Elam had something called Diwali, right? So y'all may have heard of Diwali. Y'all from the tribe of Benjamin, if y'all back home, you know Diwali, right? So Elam has this celebration or whatever. They had this thing going on and I'm working with them now. So they know the type of food I like and all of that. So they had the thing going on. They said, “Yo, come over. We got some food for you or whatever.” And I'm thinking, “Damn, all right, I'mma get over there.” So I'm still at the computer. I'm working. They came back and was like, “Yo, what's good? Come over here.” I'm like, “Yeah, yeah, I'm coming.” And then finally they just brought the plate to me, right? And I said, “Okay.” If you're bid to a feast, I don't know what they pray, I don't know what's going on. I just know it's something Indian. I know it's some Elamite thing. I eat their food. They know this. Cuz I've eaten that food before.
 
@@ -708,26 +708,26 @@ tags: ["15 Minutes w/ The Captains", "egypt", "sabbath"]
 **[1 Corinthians 10:28-33](/bible/1-corinthians/10#v28)**  *[[1:20:17](https://www.youtube.com/watch?v=uUDMYUVdSEs&t=4817s)]*
 
 > <sup>[28](/bible/1-corinthians/10#v28)</sup> But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord’s, and the fulness thereof:
->
-> <sup>[29](/bible/1-corinthians/10#v29)</sup> Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man’s conscience?
->
-> <sup>[30](/bible/1-corinthians/10#v30)</sup> For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?
->
-> <sup>[31](/bible/1-corinthians/10#v31)</sup> Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.
->
-> <sup>[32](/bible/1-corinthians/10#v32)</sup> Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:
->
-> <sup>[33](/bible/1-corinthians/10#v33)</sup> Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.
 
 - But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: You heard what it said? Don't eat it, for your sake and for that man. Why? Because they know you Israel. They know you are Israelite. So now here you go, you go to that place that you was disposed to go, right? Now you show up and they talking about, “Hey man, I know you Israelite and all that, but we Buddhist, so before, still, we prayed to Buddha to clean everything, so you good. You ain't got to do no prayer over the food, man. We took care of it.” You should be like, “Oh no, I'm good.” You have to show them what you really made of. That's what the scriptures is talking about. Now you got to show yourself and be like, “Oh no, I ain't doing that. You bugging out. You crazy right now. That's against God's law.” Boom boom. Now you can give it to him. That's what it's saying, y'all.
 
+> <sup>[29](/bible/1-corinthians/10#v29)</sup> Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man’s conscience?
+
 - Conscience, I say, not thine own, but of the other: And what? Not only that, but you're doing it for their sake as well. Cuz guess what? You might make them repent by how serious you are, how stiffly you stand for the Lord. That's what the scripture say, right? You see that? Because you understand that it ain't really nothing. But for the conscience of them, right? But of the others.
 
+> <sup>[30](/bible/1-corinthians/10#v30)</sup> For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?
+
 - For if I by grace be a partaker: For, meaning because.
+
+> <sup>[31](/bible/1-corinthians/10#v31)</sup> Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.
+>
+> <sup>[32](/bible/1-corinthians/10#v32)</sup> Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:
 
 - Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God: So again it's bringing it right back home to verse one where it says, all our fathers. That's why I said the Jews and the Gentiles. The kingdom of Judah, the kingdom of Israel. Remember in Romans 11 it does the same thing. It reads all down about the Gentiles, and then in verse 26 it says what? All Israel shall be saved. That's how Paul writes, y'all. That's how he gets down. We got to understand that. Don't let none of these people fool you, okay?
 
 - Nor to the church of God: The church is what? That's Israel, right? The church is Israel. We read that in the book of Acts chapter 7, right?
+
+> <sup>[33](/bible/1-corinthians/10#v33)</sup> Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.
 
 - Not seeking mine own profit, but the profit of many, that they may be saved: Meaning what? That I'm going to make sure I walk right. I'm going to do what I got to do to make sure that I don't offend, right? So that what? People may repent. That's what it's talking about, right?
 

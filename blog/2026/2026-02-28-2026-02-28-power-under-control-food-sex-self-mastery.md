@@ -43,12 +43,12 @@ tags: ["IUIC in the ClassRoom", "discipline", "health", "media", "satan", "sexua
 **[Genesis 1:28-29](/bible/genesis/1#v28)**  *[[15:38](https://www.youtube.com/watch?v=MSghv3QbJAo&t=938s)]*
 
 > <sup>[28](/bible/genesis/1#v28)</sup> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
->
-> <sup>[29](/bible/genesis/1#v29)</sup> And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.
 
 - Be fruitful, and multiply, and replenish the earth: the first order given was marriage and procreation. The very next verse: I have given you every herb bearing seed and every tree yielding fruit, to you it shall be for meat. Verse 28 is sex and verse 29 is food; one procreates life and the other nourishes the life that was procreated.
 
 - Neither is evil in itself. You need food to survive and sex to sustain life. It is the overindulgence of the two that becomes evil, when you lose self-control over either.
+
+> <sup>[29](/bible/genesis/1#v29)</sup> And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.
 
 
 **[Luke 21:34](/bible/luke/21#v34)**  *[[17:24](https://www.youtube.com/watch?v=MSghv3QbJAo&t=1044s)]*

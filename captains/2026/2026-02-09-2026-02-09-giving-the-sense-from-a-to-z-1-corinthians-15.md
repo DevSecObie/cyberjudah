@@ -35,15 +35,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 
 **[Acts 8:30-31](/bible/acts/8#v30)**  *[[10:21](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=621s)]*
 
-> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
->
-> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
-
 - Our forefathers understood that the Bible does not work that way. It's up to the prophets to read distinctly, give the sense to the people. I'm going to give you another example explaining why it's important that we do this while we go through the scriptures verse for verse and give the sense.
+
+> <sup>[30](/bible/acts/8#v30)</sup> And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
 
 - And Philip ran thither to him, and heard him read the prophet Esaias: So it was a brother reading one of the books of the prophets, the prophet Isaiah.
 
 - Understandest thou what thou readest?: So the disciple, the prophet Philip, told the brother, do you understand what you're reading? Do you understand Isaiah?
+
+> <sup>[31](/bible/acts/8#v31)</sup> And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 
 - And he said, How can I: What did he say? How can I? He said, how can I understand Isaiah? The Bible is not some book you just pick up. And because you have the ability to read words does not mean you have the ability to understand the Bible. The Bible is a living book. It is a spiritual record, right?
 
@@ -84,11 +84,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 
 **[1 Corinthians 10:1-2](/bible/1-corinthians/10#v1)**  *[[15:48](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=948s)]*
 
-> <sup>[1](/bible/1-corinthians/10#v1)</sup> Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
->
-> <sup>[2](/bible/1-corinthians/10#v2)</sup> And were all baptized unto Moses in the cloud and in the sea;
-
 - Now, one more thing before we get to chapter 15. Let's get some more. Let's get some more historical references, because we must keep it in context.
+
+> <sup>[1](/bible/1-corinthians/10#v1)</sup> Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 
 - Moreover, brethren: Who brethren? He keep classifying who he's talking to. He keeps specifying who he's talking to. Moreover, brethren, my people in Corinth.
 
@@ -97,6 +95,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 - How that all our fathers were under the cloud: How that our fathers. Our is a possessive pronoun. Our is a possessive. If I'm talking to my blood brother and I say, 'That's our mother. That's our mother,' the person who hearing this conversation, that's not his mother. That's not his mother. If I tell my wife, hey, we're going to our home, it's not my neighbor's home. It's possessive. It's exclusive. It means something to us only.
 
 - And all passed through the sea: He said our fathers were under the cloud. The angel that led us out of Egypt. It says, 'And they all passed through the sea.' Everybody didn't pass through the sea, because Egypt didn't have everybody in bondage. Moses didn't go in and say, 'Let all people go, Pharaoh.' Moses said what? The whole world know what Moses said. Moses said, 'Let my people go.' Everybody know what Moses said. So he said they all passed through the sea.
+
+> <sup>[2](/bible/1-corinthians/10#v2)</sup> And were all baptized unto Moses in the cloud and in the sea;
 
 - And were all baptized unto Moses in the cloud and in the sea: And it says they were what? All baptized unto Moses. Baptized means to cleanse. For example, baptism, you being dipped in water, it symbolized you being cleansed spiritually. So, how did Moses baptize the 12 tribes of Israel when they came out of Egypt? He gave them the laws and commandments. He didn't give the laws and commandments to everybody.
 
@@ -118,27 +118,27 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 
 **[Luke 1:68-72](/bible/luke/1#v68)**  *[[19:58](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=1198s)]*
 
-> <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
-> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
-> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
->
-> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
->
-> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
-
 - Let's show you what the good news is.
+
+> <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
 
 - Blessed be the Lord God of Israel: No, the Lord God of everybody. Is that what it said? Of Israel.
 
 - For he hath visited and redeemed his people: He have visited and redeemed his people. His people. Another possessive pronoun establishing exclusivity. It's not broad. It's not all-encompassing. It's showing you there is a relationship between God and the 12 tribes. You so-called black and brown people who've been conquered, enslaved, colonized, and broken by the white man.
 
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
+
 - And hath raised up an horn of salvation for us in the house of his servant David: The horn of salvation for us is Christ, Jesus Christ, cuz he's of the seed of David. He descends from David.
+
+> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
+>
+> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
 
 - That we should be saved from our enemies: That who? That we, the Israelites, should be saved from our enemies. Man, if you found out that you was going to be saved from your enemies, saved from oppression, wouldn't that be some good news? Yes. That's the gospel, that we should be saved from our enemies.
 
 - And from the hand of all that hate us: And from the hand of all that hate us. Cuz it ain't just your friendly neighborhood white man. The earth man still got us in slavery today. They selling us on auction blocks in Libya, Mauritania, Morocco, Algeria. They still sell us in slavery. Our sisters coming from Africa looking for jobs. They coming from East Africa and South Africa looking for jobs. And what happened when they get to North Africa? Cuz you know the Arabs took over all North Africa. What are they doing? Putting them in slavery, taking their visa so they can't get over the border, so they can't run away. That's what's going on. So it ain't just a white man. This ain't a hate campaign against a white man. We don't hate nobody. We too busy loving our people. But we're going to tell the truth. We're going to tell the truth. So help us God. So that's the good news, that we going to be delivered from our enemies.
+
+> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
 
 - To perform the mercy promised to our fathers: You see that thing? It's already pre-ordained that we going to receive mercy. I know, like, we ain't got no mercy coming, but there is mercy coming for the 12 tribes.
 
@@ -169,25 +169,23 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 
 **[Ephesians 4:1-6](/bible/ephesians/4#v1)**  *[[25:28](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=1528s)]*
 
-> <sup>[1](/bible/ephesians/4#v1)</sup> I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
->
-> <sup>[2](/bible/ephesians/4#v2)</sup> With all lowliness and meekness, with longsuffering, forbearing one another in love;
->
-> <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
->
-> <sup>[4](/bible/ephesians/4#v4)</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling;
->
-> <sup>[5](/bible/ephesians/4#v5)</sup> One Lord, one faith, one baptism,
->
-> <sup>[6](/bible/ephesians/4#v6)</sup> One God and Father of all, who is above all, and through all, and in you all.
-
 - There's only one gospel.
+
+> <sup>[1](/bible/ephesians/4#v1)</sup> I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
 
 - That ye walk worthy of the vocation wherewith ye are called: Walk worthy of Christ.
 
+> <sup>[2](/bible/ephesians/4#v2)</sup> With all lowliness and meekness, with longsuffering, forbearing one another in love;
+>
+> <sup>[3](/bible/ephesians/4#v3)</sup> Endeavouring to keep the unity of the Spirit in the bond of peace.
+
 - Endeavouring to keep the unity of the Spirit in the bond of peace: No, no. We should be divided in various denominations. We should be taught a flurry, a litany of gospels. What did it say? Endeavoring to keep the unity of the spirit in the bond of peace. Unity of the spirit in the bond of peace.
 
+> <sup>[4](/bible/ephesians/4#v4)</sup> There is one body, and one Spirit, even as ye are called in one hope of your calling;
+
 - There is one body, and one Spirit: No, no, no. It's hundreds and dozens of denominations. It's hundreds and dozens of faiths. There is one body. One spirit.
+
+> <sup>[5](/bible/ephesians/4#v5)</sup> One Lord, one faith, one baptism,
 
 - One Lord: One Lord. Christ.
 
@@ -195,16 +193,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 
 - One baptism: One baptism. One way to be cleansed. And that's through God's laws.
 
+> <sup>[6](/bible/ephesians/4#v6)</sup> One God and Father of all, who is above all, and through all, and in you all.
+
 - One God and Father of all, who is above all, and through all, and in you all: That's the most high.
 
 
 **[1 Corinthians 15:1-2](/bible/1-corinthians/15#v1)**  *[[27:03](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=1623s)]*
 
 > <sup>[1](/bible/1-corinthians/15#v1)</sup> Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
->
-> <sup>[2](/bible/1-corinthians/15#v2)</sup> By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.
 
 - Moreover, brethren, I declare unto you the gospel: So that's the gospel that he delivered to the Israelites in Corinth. The same gospel. Keep the laws, believe on Christ. Keep the laws and believe on Christ.
+
+> <sup>[2](/bible/1-corinthians/15#v2)</sup> By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.
 
 - By which also ye are saved: By which also ye are what? Ye are saved. Hold on. Hold on. That was a real small word, but it had a big meaning. Read that thing again. I need you to emphasize on that word.
 
@@ -216,10 +216,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 **[Matthew 19:16-17](/bible/matthew/19#v16)**  *[[28:37](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=1717s)]*
 
 > <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
->
-> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
 
 - Good Master, what good thing shall I do, that I may have eternal life?: Somebody walked up to Christ our king. He says, 'Hey, good master.' Flattery, by the way. What good thing? Singular. So, he's stingy with his good works. He don't want to do much. He don't want to do much. This brother spirit is all off to begin with. He says, 'What good thing shall I do that I may have eternal life?' The biggest possible blessing you could ever receive. What good thing shall I do? Let's see what Christ responded to.
+
+> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
 
 - Why callest thou me good?: He checked the flattery. He says, 'What you calling me good for?'
 
@@ -232,15 +232,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 
 **[Luke 10:25-26](/bible/luke/10#v25)**  *[[30:36](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=1836s)]*
 
-> <sup>[25](/bible/luke/10#v25)</sup> And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
->
-> <sup>[26](/bible/luke/10#v26)</sup> He said unto him, What is written in the law? how readest thou?
-
 - Somebody else asked Christ that. Let's get another example. Somebody else asked Christ. Let's see if Christ changed up his response.
+
+> <sup>[25](/bible/luke/10#v25)</sup> And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
 
 - And, behold, a certain lawyer stood up, and tempted him: The certain lawyer is somebody who know the scriptures. A lawyer, he know the law. That's what lawyers do. Lawyers know the law. This is a book of the law. So, this is a man who's supposed to be a learned fellow. Watch this.
 
 - Master, what shall I do to inherit eternal life?: So he asked Christ, he says, 'Master, what shall I do that I can get eternal life?'
+
+> <sup>[26](/bible/luke/10#v26)</sup> He said unto him, What is written in the law? how readest thou?
 
 - What is written in the law? how readest thou?: What Christ say? You supposed to be a lawyer and know and be a expert in this Bible, but you ask me how to get the kingdom. He says, 'What is written in the law? How readest thou?' You got to keep the law. You got to keep the commandments. It's easy. So Christ answered his question with a question, because it's obvious. It's obvious.
 
@@ -270,12 +270,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 **[1 Corinthians 15:2-3](/bible/1-corinthians/15#v2)**  *[[33:24](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=2004s)]*
 
 > <sup>[2](/bible/1-corinthians/15#v2)</sup> By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.
->
-> <sup>[3](/bible/1-corinthians/15#v3)</sup> For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
 
 - By which also ye are saved, if ye keep in memory what I preached unto you: So he says you are saved if. If, small word, huge meaning. You are saved if you keep in memory the things that was preached unto you. Keep the commandments. That's how you get eternal life. Endure unto the end. You can't just have faith. You can't just have works. It must be both together. So this is what Paul is teaching our Israelite brothers and sisters in Corinth.
 
 - Unless ye have believed in vain: Unless you believed in vain.
+
+> <sup>[3](/bible/1-corinthians/15#v3)</sup> For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
 
 - How that Christ died for our sins: Christ died for who? Our sins. It says Christ died for our sins. Can we prove that in the Bible? Can we back up what Paul is saying in this verse? Of course we can. It said Christ died for our sins according to the scriptures. What scriptures? And this is what it means when it says they read in the book of the law of God distinctly and gave the sense. Cuz if you read this like a novel, you just like taking it at face value, you don't understand the historical references that are encompassed in each verse.
 
@@ -294,10 +294,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 **[Isaiah 53:8-10](/bible/isaiah/53#v8)**  *[[34:48](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=2088s)]*
 
 > <sup>[8](/bible/isaiah/53#v8)</sup> He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
->
-> <sup>[9](/bible/isaiah/53#v9)</sup> And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
->
-> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
 
 - He was taken from prison: He was taken from prison. He went before Herod. He also went before Pilate. They were trying to figure out what jurisdiction he was from. So they didn't know, is he your jurisdiction, is he my... So he went before two white men. Two white men he went before, trying to decide his fate, which, you know, he was always going to die for our people. But they didn't know themselves whose jurisdiction Christ belonged to, who would proceed over the case.
 
@@ -311,11 +307,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 
 - For the transgression of my people was he stricken: For the transgression of God's people, which is the Israelites. Was he stricken? Was he beaten, plaited with a crown of thorns on his head? Beaten to the point he can't even carry his own cross.
 
+> <sup>[9](/bible/isaiah/53#v9)</sup> And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
+
 - And he made his grave with the wicked: He made his grave with the wicked because he was in the midst of two people who was crucified. They themselves were also condemned to death.
 
 - And with the rich in his death: We'll deal with that later.
 
 - Because he had done no violence: He was innocent. He was perfect.
+
+> <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
 
 - Yet it pleased the LORD to bruise him: It pleased the Lord to bruise him. Why? Because through his death, both kingdoms could be united into one kingdom. Because northern kingdom was cast off since the days of Assyria. Southern kingdom was cast off out of the land since the days of Babylon. And through Christ's death, both kingdoms could be reunited, come back to God, and receive salvation and redemption over our enemies. So it pleased the Lord to bruise him. One man brought back many sons. One man brought back many sons. The same way Adam's sin brought death upon many sons, one man's victory over sin brought back salvation to many of the house of Israel. So it pleased the Lord to bruise him.
 
@@ -345,37 +345,37 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 **[1 Corinthians 15:3-4](/bible/1-corinthians/15#v3)**  *[[41:33](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=2493s)]*
 
 > <sup>[3](/bible/1-corinthians/15#v3)</sup> For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
->
-> <sup>[4](/bible/1-corinthians/15#v4)</sup> And that he was buried, and that he rose again the third day according to the scriptures:
 
 - How that Christ died for our sins according to the scriptures: Christ died for our sins according to the scriptures, because Christ was prophesied way before he ever came on earth. You can read about Christ all throughout the Old Testament. You got a lot of people running their mouth saying, 'Well, Jesus Christ ain't even in the Old Testament.' You don't know the Bible. Shut up. We just read in Isaiah three different accounts about Christ's crucifixion. And we can read in Psalm 69 about his crucifixion. We can read in Psalms 22 about his crucifixion. You don't know the Bible. Learn something. Humble yourself. Humble down. It's okay to be humble. It's okay.
+
+> <sup>[4](/bible/1-corinthians/15#v4)</sup> And that he was buried, and that he rose again the third day according to the scriptures:
 
 - And that he was buried: He was what? Buried. It says and that he was buried. Let's get the understanding on Christ being buried. Was he buried six feet deep, six by seven? Let's see. How was Christ buried? Let's get the understanding on that. Another thing just popped in my head, but I'll get that in a second.
 
 
 **[Matthew 27:57-61](/bible/matthew/27#v57)**  *[[43:01](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=2581s)]*
 
-> <sup>[57](/bible/matthew/27#v57)</sup> When the even was come, there came a rich man of Arimathea, named Joseph, who also himself was Jesus’ disciple:
->
-> <sup>[58](/bible/matthew/27#v58)</sup> He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.
->
-> <sup>[59](/bible/matthew/27#v59)</sup> And when Joseph had taken the body, he wrapped it in a clean linen cloth,
->
-> <sup>[60](/bible/matthew/27#v60)</sup> And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.
->
-> <sup>[61](/bible/matthew/27#v61)</sup> And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.
-
 - When the even was come, there came a rich man of Arimathaea, named Joseph: Hold on. Hold on. Read it right. Read it slow. So there came a rich man of Arimathaea named Joseph. Joseph, you don't see him throughout the scriptures in the New Testament, but he believed on Christ. He was low-key. He believed on Christ. He was low-key. Same thing as we need today and that we have today. We need people who stay away from the sideline. Let us go out to war. The men you see on the front line, that's who God put on the front line. If that's not you, support and play your position. That's what Joseph did. Joseph played his position. Joseph came at the right time, at the right place. Watch this. Watch what Joseph did.
+
+> <sup>[57](/bible/matthew/27#v57)</sup> When the even was come, there came a rich man of Arimathea, named Joseph, who also himself was Jesus’ disciple:
 
 - Who also himself was Jesus' disciple: You see that thing? He was a disciple.
 
+> <sup>[58](/bible/matthew/27#v58)</sup> He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.
+
 - He went to Pilate, and begged the body of Jesus: You see that thing? He used his influence. He used his influence to secure the body of Christ. Cuz according to our custom, you're not supposed to be hanging after the sun is down. So he went to Pilate and he begged the body of Christ.
 
+> <sup>[59](/bible/matthew/27#v59)</sup> And when Joseph had taken the body, he wrapped it in a clean linen cloth,
+
 - He wrapped it in a clean linen cloth: He took Christ's body, he wrapped it in linen.
+
+> <sup>[60](/bible/matthew/27#v60)</sup> And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.
 
 - And laid it in his own new tomb: He put it in a new tomb. For example, a tomb, you can walk into it. You're not going underground. You don't need a shovel to bury and make a plot. You can walk into it. Kind of like, I think it's called like a mausoleum. That's what they call it today. You can walk in and you can see your loved ones. So that's what this was. This is a tomb. This is a nice place to be buried, and that's fit for a king.
 
 - And he rolled a great stone to the door of the sepulchre: And then they put a great stone in the door to make sure nobody can get in. Not a small stone, a great stone. A boulder is what we call it today.
+
+> <sup>[61](/bible/matthew/27#v61)</sup> And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.
 
 - And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre: So now let's go back. So that's how he was buried. That's how he was buried. Now with him being buried, it was prophecies concerning that also.
 
@@ -415,32 +415,32 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 > <sup>[22](/bible/acts/2#v22)</sup> Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know:
 >
 > <sup>[23](/bible/acts/2#v23)</sup> Him, being delivered by the determinate counsel and foreknowledge of God, ye have taken, and by wicked hands have crucified and slain:
->
-> <sup>[24](/bible/acts/2#v24)</sup> Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.
->
-> <sup>[25](/bible/acts/2#v25)</sup> For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
->
-> <sup>[26](/bible/acts/2#v26)</sup> Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh shall rest in hope:
->
-> <sup>[27](/bible/acts/2#v27)</sup> Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption.
->
-> <sup>[28](/bible/acts/2#v28)</sup> Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance.
->
-> <sup>[29](/bible/acts/2#v29)</sup> Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
 
 - Him, being delivered by the determinate counsel and foreknowledge of God, ye have taken, and by wicked hands have crucified and slain: So he's talking to the people. He says, 'Listen, y'all asked for Barabbas.' The scribes, Pharisees, Sadducees, they lied and they bear false witness against Christ to get him killed by the … the so-called white people.
 
+> <sup>[24](/bible/acts/2#v24)</sup> Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.
+
 - Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it: God raised him up and loosed the pains of death, because it was not possible he should be holden by death. He overcame death.
+
+> <sup>[25](/bible/acts/2#v25)</sup> For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
 
 - For David speaketh concerning him: Because David speaketh concerning Christ. What did he say?
 
+> <sup>[26](/bible/acts/2#v26)</sup> Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh shall rest in hope:
+
 - Moreover also my flesh shall rest in hope: My flesh shall rest in hope.
+
+> <sup>[27](/bible/acts/2#v27)</sup> Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption.
 
 - Because thou wilt not leave my soul in hell: We just read that in Psalm 16. David wasn't talking about himself. He was prophesying about Christ. He was speaking for Christ. When he said, 'Thou shalt not leave my soul in hell,' that was Christ speaking through David, about hundreds of years when he would come on the earth. He would not be left in the earth to rot like the rest of us.
 
 - Neither wilt thou suffer thine Holy One to see corruption: He wouldn't see corruption.
 
+> <sup>[28](/bible/acts/2#v28)</sup> Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance.
+
 - Thou shalt make me full of joy with thy countenance: Christ was raised up and he was sat down at the right hand of the father. David prophesied about that too, in Psalms 110 verse one.
+
+> <sup>[29](/bible/acts/2#v29)</sup> Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
 
 - Men and brethren, let me freely speak unto you of the patriarch David: So Peter pretty much saying, respectfully, let me talk to y'all about David.
 
@@ -461,18 +461,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 **[Matthew 12:38-40](/bible/matthew/12#v38)**  *[[55:08](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=3308s)]*
 
 > <sup>[38](/bible/matthew/12#v38)</sup> Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.
->
-> <sup>[39](/bible/matthew/12#v39)</sup> But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:
->
-> <sup>[40](/bible/matthew/12#v40)</sup> For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.
 
 - Master, we would see a sign from thee: What they say? We would see a sign from thee. So you got men who despise Christ, want Christ killed, hate Christ, was trying to find false witnesses to get him put to death. They going to tell him, 'Hey, show us a sign.'
+
+> <sup>[39](/bible/matthew/12#v39)</sup> But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:
 
 - An evil and adulterous generation seeketh after a sign: What did he say? He checked him immediately. Christ ain't played no games. Y'all been taught about some white, blonde hair, blue-eyed Jesus who speaks soft and he's a wimp. That's not biblical. That's not biblical. Y'all want the men of the Lord to talk soft. That's not biblical. What Christ say to those men? An evil and adulterous generation seeketh after a sign. A evil and adulterous generation.
 
 - And there shall no sign be given to it: And I ain't showing you nothing. That's what Christ told them. I ain't showing you nothing. This ain't a circus.
 
 - But the sign of the prophet Jonas: He said the only sign you going to see is the sign of the prophet Jonas. Jonas is Jonah.
+
+> <sup>[40](/bible/matthew/12#v40)</sup> For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.
 
 - For as Jonas was three days and three nights in the whale's belly: What it say? He was what? Three days and three nights. Jonas was three days and three nights in the whale's belly.
 
@@ -482,14 +482,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "salvation", "the-
 **[1 Corinthians 15:4-6](/bible/1-corinthians/15#v4)**  *[[57:27](https://www.youtube.com/watch?v=Q80PqNDdmyM&t=3447s)]*
 
 > <sup>[4](/bible/1-corinthians/15#v4)</sup> And that he was buried, and that he rose again the third day according to the scriptures:
->
-> <sup>[5](/bible/1-corinthians/15#v5)</sup> And that he was seen of Cephas, then of the twelve:
->
-> <sup>[6](/bible/1-corinthians/15#v6)</sup> After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
 
 - And that he rose again the third day according to the scriptures: According to the scriptures.
 
+> <sup>[5](/bible/1-corinthians/15#v5)</sup> And that he was seen of Cephas, then of the twelve:
+
 - And that he was seen of Cephas, then of the twelve: You know what's funny? Every time we bring out the scriptures that Christ is a black man according to the Bible, folks, you know, they say nobody seen Christ. But all they life, they be looking at a white Jesus with blonde hair, brunette, brown eyes, blue eyes, look like a little sad puppy. He look at you like he needs some aid and assistance. Now we bring out the Bible, Revelation 1:14, verse 15, that he got woolly hair. He's a black man. All of a sudden nobody seen him. Wow. The Bible said what? He was seen of Cephas. That's Peter. Then he was seen of all the 12 apostles.
+
+> <sup>[6](/bible/1-corinthians/15#v6)</sup> After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
 
 - After that, he was seen of above five hundred brethren at once: Over 500 people seeing Christ after he resurrected. But you going to say, 'Oh, nope. Nobody ever seen Christ. He was invisible.' How they nailed him to a cross?
 

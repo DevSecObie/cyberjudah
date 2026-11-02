@@ -24,10 +24,10 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 **[Wisdom of Solomon 2:23-24](/bible/wisdom-of-solomon/2#v23)**  *[[12:15](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=735s)]*
 
 > <sup>[23](/bible/wisdom-of-solomon/2#v23)</sup> For God created man to be immortal, and made him to be an image of his own eternity.
->
-> <sup>[24](/bible/wisdom-of-solomon/2#v24)</sup> Nevertheless through envy of the devil came death into the world: and they that do hold of his side do find it.
 
 - For God created man to be immortal: The whole purpose when God created us, for us to live forever, and made him in the image of his own eternity. We're made expressly after his image.
+
+> <sup>[24](/bible/wisdom-of-solomon/2#v24)</sup> Nevertheless through envy of the devil came death into the world: and they that do hold of his side do find it.
 
 - Nevertheless through envy of the devil came death into the world: And they that do hold of his side, that hold of the side of the devil with that spirit of envy, they're going to find death.
 
@@ -37,16 +37,6 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 **[Genesis 3:1-6](/bible/genesis/3#v1)**  *[[14:30](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=870s)]*
 
 > <sup>[1](/bible/genesis/3#v1)</sup> Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
->
-> <sup>[2](/bible/genesis/3#v2)</sup> And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:
->
-> <sup>[3](/bible/genesis/3#v3)</sup> But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
->
-> <sup>[4](/bible/genesis/3#v4)</sup> And the serpent said unto the woman, Ye shall not surely die:
->
-> <sup>[5](/bible/genesis/3#v5)</sup> For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
->
-> <sup>[6](/bible/genesis/3#v6)</sup> And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 
 - Now the serpent was more subtil than any beast of the field: This is an allegory. I'm not going to go into the allegory, but everything you read here is not at face value; there's a mystery behind it. The point I want out of it: the serpent was subtil. To be subtil is to be cunning. If you want to deceive somebody, you have to find the things that will trigger that person to respond a certain way. You have to sometimes phrase a comment or ask a question, because it's bait to try to lure you into BS.
 
@@ -54,11 +44,21 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 
 - Yea, hath God said, Ye shall not eat of every tree of the garden?: He's subtil, but look what he asks Eve. Did God say that you shouldn't eat of every tree of the garden? Don't you think he already knows the answer to that? That was a subtilty. You bring it in with a bait question. Didn't they do that with Christ too, with Satan? So sometimes a question is just the bait, to see if you'll nibble on it.
 
+> <sup>[2](/bible/genesis/3#v2)</sup> And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:
+
 - We may eat of the fruit of the trees of the garden: She responded to him. The smart thing to do is not say nothing; you already know the answer. Sometimes it's baited, but she began to answer him. Her answer was right: she said God said don't touch it, don't eat of it, lest you die. This is talking about dealing with the other nations; another time, another class.
+
+> <sup>[3](/bible/genesis/3#v3)</sup> But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
+>
+> <sup>[4](/bible/genesis/3#v4)</sup> And the serpent said unto the woman, Ye shall not surely die:
 
 - Ye shall not surely die: Here come the subtilty. Now he put the bait out in a question, then he says, now you ain't gonna die. Well, didn't God say you was gonna die? So what did Eve have? She had that itching ear. There was something that he knew about her that he can say certain trigger things to get her to betray God.
 
+> <sup>[5](/bible/genesis/3#v5)</sup> For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
+
 - Ye shall be as gods, knowing good and evil: Satan tells her, listen, God knows that if you eat of it you're gonna be as God. So what was her trigger there? She wanted to be equal, to be a god. He saw something in her spirit that she was not content, so he triggered her there. That's like some of you brothers or sisters: you have trigger points. You want a wife or a husband, and then Satan will send that person that seems ideally like what you like, to bait you. I've been saying this for the last 15 years: it's small pieces to a big puzzle that's baiting you into a certain thing, and a lot of times people are blinded.
+
+> <sup>[6](/bible/genesis/3#v6)</sup> And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 
 - When the woman saw that the tree was good for food: Isn't that what sin is? Don't sin feel good? That's not how it works; sin feel good, that's why you do it. Whatever the sin may be, let it be lust, let it be hatred, it activates something inside of you that you perceive that it's good, to betray God to fulfill that lust. There's a price to pay.
 
@@ -135,23 +135,23 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 
 **[Romans 12:4-8](/bible/romans/12#v4)**  *[[39:06](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=2346s)]*
 
-> <sup>[4](/bible/romans/12#v4)</sup> For as we have many members in one body, and all members have not the same office:
->
-> <sup>[5](/bible/romans/12#v5)</sup> So we, being many, are one body in Christ, and every one members one of another.
->
-> <sup>[6](/bible/romans/12#v6)</sup> Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;
->
-> <sup>[7](/bible/romans/12#v7)</sup> Or ministry, let us wait on our ministering: or he that teacheth, on teaching;
->
-> <sup>[8](/bible/romans/12#v8)</sup> Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
-
 - When Moses heard it, he fell upon his face (Numbers 16:4): He said damn, that's what you think of me? They put the analogy that Moses was trying to act like he was better than anybody else. Here comes the smear campaign, trying to destroy his name. You ain't better than all of us. He never said he was. Did he not say, I wish you all were priests? This is what these men struggled with.
+
+> <sup>[4](/bible/romans/12#v4)</sup> For as we have many members in one body, and all members have not the same office:
 
 - And all members have not the same office: They don't understand that.
 
+> <sup>[5](/bible/romans/12#v5)</sup> So we, being many, are one body in Christ, and every one members one of another.
+>
+> <sup>[6](/bible/romans/12#v6)</sup> Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;
+
 - Whether prophecy, let us prophesy according to the proportion of faith: Whatever God has inspired you with, run with that. Remember you're made after his image, so it's all good anyway. But he's not going to give you, me, any of us all of it; then you would be God. He said no, I'm gonna make you all work together, and each one of you have a piece. These men tried to outshine Moses. That's not what you was called for.
 
+> <sup>[7](/bible/romans/12#v7)</sup> Or ministry, let us wait on our ministering: or he that teacheth, on teaching;
+
 - Or ministry, let us wait on our ministering: or he that teacheth, on teaching: Some people cannot wait on their ministry. Some people are speeding, for whatever reason. God sets people in this body where he want them at. Now either you can roll with it and glorify God and be grateful, or you could buck against it and find yourself out there in the wilderness doing your own thing. I'm gonna give you a heads up: choose the first one. The second one don't really work, but if you think so, go ahead and try. Let's see how it works out for you.
+
+> <sup>[8](/bible/romans/12#v8)</sup> Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
 
 
 **[Numbers 16:5-11](/bible/numbers/16#v5)**  *[[41:59](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=2519s)]*
@@ -161,20 +161,20 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 > <sup>[6](/bible/numbers/16#v6)</sup> This do; Take you censers, Korah, and all his company;
 >
 > <sup>[7](/bible/numbers/16#v7)</sup> And put fire therein, and put incense in them before the Lord to morrow: and it shall be that the man whom the Lord doth choose, he shall be holy: ye take too much upon you, ye sons of Levi.
->
-> <sup>[8](/bible/numbers/16#v8)</sup> And Moses said unto Korah, Hear, I pray you, ye sons of Levi:
->
-> <sup>[9](/bible/numbers/16#v9)</sup> Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the Lord, and to stand before the congregation to minister unto them?
->
-> <sup>[10](/bible/numbers/16#v10)</sup> And he hath brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?
->
-> <sup>[11](/bible/numbers/16#v11)</sup> For which cause both thou and all thy company are gathered together against the Lord: and what is Aaron, that ye murmur against him?
 
 - Ye take too much upon you, ye sons of Levi: Now remember Korah is the son of Kohath; you're from the family of the high priest. You just can't wait on your ministry. Moses is your near kin.
 
+> <sup>[8](/bible/numbers/16#v8)</sup> And Moses said unto Korah, Hear, I pray you, ye sons of Levi:
+>
+> <sup>[9](/bible/numbers/16#v9)</sup> Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the Lord, and to stand before the congregation to minister unto them?
+
 - Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel: You look at it like a small thing that God has separated you from the congregation of Israel? Do you know that you are the priest, the mouthpiece to God? That's not enough for you; you want more. All of us are born and created after the image of God. Whatever part you have in that, be content. But some people are not, and they become betrayers. They will betray and try to tear apart everything because they're not the man or the woman they think they are.
 
+> <sup>[10](/bible/numbers/16#v10)</sup> And he hath brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?
+
 - And seek ye the priesthood also?: Damn.
+
+> <sup>[11](/bible/numbers/16#v11)</sup> For which cause both thou and all thy company are gathered together against the Lord: and what is Aaron, that ye murmur against him?
 
 - For which cause both thou and all thy company are gathered together against the Lord: He said, listen, do you understand that you ain't really coming against me, you come against God? The Lord set this up. And what is Aaron? Aaron is nearest of kin to you, and you come against him, the ones who God chose. You only found the machine moving already. God chose me for whatever reason, and chose Aaron, and through us it's where we're at. None of you was here when it happened; that's how God chose it. I'm the one who went before Pharaoh. Aaron had the staff in his hand that budded. It wasn't you, Korah or Dathan. You're fighting against God. Those men were betrayers; those men were evil as hell.
 
@@ -182,7 +182,9 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 **[Numbers 16:12-22](/bible/numbers/16#v12)**  *[[45:45](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=2745s)]*
 
 > <sup>[12](/bible/numbers/16#v12)</sup> And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
->
+
+- We will not come up: Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness: We're not coming up, because you're going to try to kill us off. No, God was bringing down quail. They took water out of a rock. God gave them whatever they want, fed them with manna. Did you not see the ocean open up? You're complaining, looking for problems, and because it's not moving in the direction you want it to move, you all conspire.
+
 > <sup>[13](/bible/numbers/16#v13)</sup> Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?
 >
 > <sup>[14](/bible/numbers/16#v14)</sup> Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
@@ -194,18 +196,14 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 > <sup>[17](/bible/numbers/16#v17)</sup> And take every man his censer, and put incense in them, and bring ye before the Lord every man his censer, two hundred and fifty censers; thou also, and Aaron, each of you his censer.
 >
 > <sup>[18](/bible/numbers/16#v18)</sup> And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron.
->
+
+- And they took every man his censer, and put fire in them, and laid incense thereon: So 250 men took their censers to burn incense to God. They thought, surely we got it. You need a light? Light yours, I'm gonna light mine after you pass it down. God is with us, we're gonna show Moses. Who the hell do you think he is? He think he's a big shot.
+
 > <sup>[19](/bible/numbers/16#v19)</sup> And Korah gathered all the congregation against them unto the door of the tabernacle of the congregation: and the glory of the Lord appeared unto all the congregation.
 >
 > <sup>[20](/bible/numbers/16#v20)</sup> And the Lord spake unto Moses and unto Aaron, saying,
 >
 > <sup>[21](/bible/numbers/16#v21)</sup> Separate yourselves from among this congregation, that I may consume them in a moment.
->
-> <sup>[22](/bible/numbers/16#v22)</sup> And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?
-
-- We will not come up: Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness: We're not coming up, because you're going to try to kill us off. No, God was bringing down quail. They took water out of a rock. God gave them whatever they want, fed them with manna. Did you not see the ocean open up? You're complaining, looking for problems, and because it's not moving in the direction you want it to move, you all conspire.
-
-- And they took every man his censer, and put fire in them, and laid incense thereon: So 250 men took their censers to burn incense to God. They thought, surely we got it. You need a light? Light yours, I'm gonna light mine after you pass it down. God is with us, we're gonna show Moses. Who the hell do you think he is? He think he's a big shot.
 
 - Separate yourselves from among this congregation, that I may consume them in a moment: In their mind they really thought that they was going to burn incense and God was going to smell it and show them favor.
 
@@ -214,6 +212,8 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
     > <sup>[21](/bible/amos/5#v21)</sup> I hate, I despise your feast days, and I will not smell in your solemn assemblies.
 
     God said, I ain't smelling nothing, I don't care about you, I'm about to kill you. They thought they had a plug with God. Everybody got lit, and Moses got direct connect with God: I didn't deal with them unjustly. God said, you're good, don't worry, let them burn it; I'm not smelling that stuff, you're not pleasing me. So you have betrayers that will betray the men set up over them and then think they're going to have a connect with God. It don't work like that, buddy. You sneaky, slimy little bastard.
+
+> <sup>[22](/bible/numbers/16#v22)</sup> And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?
 
 
 **[Numbers 16:23-35](/bible/numbers/16#v23)**  *[[50:04](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=3004s)]*
@@ -225,15 +225,21 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 > <sup>[25](/bible/numbers/16#v25)</sup> And Moses rose up and went unto Dathan and Abiram; and the elders of Israel followed him.
 >
 > <sup>[26](/bible/numbers/16#v26)</sup> And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins.
->
+
+- Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs: There's your warning. I'm telling you, you better get away from these dudes; it's not going to work out. We just read that: them that cause division, avoid them. That's what scripture says.
+
 > <sup>[27](/bible/numbers/16#v27)</sup> So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.
->
+
+- And Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children: He said listen, leave, get away from these men. And those men came out their tents with their wives. Their wives should have bounced: babe, you're on your own on this one; kids, let's go, leave Dad over there. But no, their wives stood there in their folly. Many women follow their husbands into the abyss; many women just follow along, take their kids and ride along.
+
 > <sup>[28](/bible/numbers/16#v28)</sup> And Moses said, Hereby ye shall know that the Lord hath sent me to do all these works; for I have not done them of mine own mind.
 >
 > <sup>[29](/bible/numbers/16#v29)</sup> If these men die the common death of all men, or if they be visited after the visitation of all men; then the Lord hath not sent me.
 >
 > <sup>[30](/bible/numbers/16#v30)</sup> But if the Lord make a new thing, and the earth open her mouth, and swallow them up, with all that appertain unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the Lord.
->
+
+- But if the Lord make a new thing, and the earth open her mouth: There's a new thing on earth: God opened a pit for them. You forgot you was dealing with God's anointed. And after that, those 250, God said I'm gonna kill them differently: we'll kill them with fire.
+
 > <sup>[31](/bible/numbers/16#v31)</sup> And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that was under them:
 >
 > <sup>[32](/bible/numbers/16#v32)</sup> And the earth opened her mouth, and swallowed them up, and their houses, and all the men that appertained unto Korah, and all their goods.
@@ -243,12 +249,6 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 > <sup>[34](/bible/numbers/16#v34)</sup> And all Israel that were round about them fled at the cry of them: for they said, Lest the earth swallow us up also.
 >
 > <sup>[35](/bible/numbers/16#v35)</sup> And there came out a fire from the Lord, and consumed the two hundred and fifty men that offered incense.
-
-- Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs: There's your warning. I'm telling you, you better get away from these dudes; it's not going to work out. We just read that: them that cause division, avoid them. That's what scripture says.
-
-- And Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children: He said listen, leave, get away from these men. And those men came out their tents with their wives. Their wives should have bounced: babe, you're on your own on this one; kids, let's go, leave Dad over there. But no, their wives stood there in their folly. Many women follow their husbands into the abyss; many women just follow along, take their kids and ride along.
-
-- But if the Lord make a new thing, and the earth open her mouth: There's a new thing on earth: God opened a pit for them. You forgot you was dealing with God's anointed. And after that, those 250, God said I'm gonna kill them differently: we'll kill them with fire.
 
 - And there came out a fire from the Lord, and consumed the two hundred and fifty men that offered incense: So the end result of this history right here is: do not be a betrayer. Don't follow wicked men into foolishness, if it's to bring division.
 
@@ -315,20 +315,20 @@ tags: ["IUIC in the ClassRoom", "anger", "betrayal", "sabbath"]
 **[Genesis 4:5-8](/bible/genesis/4#v5)**  *[[1:06:38](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=3998s)]*
 
 > <sup>[5](/bible/genesis/4#v5)</sup> But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
->
-> <sup>[6](/bible/genesis/4#v6)</sup> And the Lord said unto Cain, Why art thou wroth? and why is thy countenance fallen?
->
-> <sup>[7](/bible/genesis/4#v7)</sup> If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
->
-> <sup>[8](/bible/genesis/4#v8)</sup> And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 
 - And Cain was very wroth, and his countenance fell: You got to honor me with my firstfruits. God gave you everything, and he said this is what I'm asking from you: the firstfruits. You honor me with it, we good, and everything else use it. You don't honor me with the firstfruits and now you want me to be happy? Now you're wroth with who? You can't be wroth with God, cause you can't get to him. So who you directed it to? That righteous man. He's angry with Abel: you didn't do what you're supposed to do, that's your problem.
 
 - A lot of times people will project their faults; they'll project the anger that they have because they didn't do right on somebody else and make you look bad: Moses, you think you're better than us. Moses never said that: I wish you all were prophets.
 
+> <sup>[6](/bible/genesis/4#v6)</sup> And the Lord said unto Cain, Why art thou wroth? and why is thy countenance fallen?
+>
+> <sup>[7](/bible/genesis/4#v7)</sup> If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
+
 - If thou doest well, shalt thou not be accepted?: If you give me the firstlings like I asked, the firstfruits, would I not accept it?
 
 - And if thou doest not well, sin lieth at the door: That door is not your front door; that's right here. Satan is in your head, and now he's governing you, but it's only because you didn't do what you're supposed to do. Wisdom cannot dwell in a body subject to sin. Over a process of time God had enough of him, because he just wasn't doing right, and eventually what takes hold of him: hatred, jealousy, envy.
+
+> <sup>[8](/bible/genesis/4#v8)</sup> And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 
 - And Cain talked with Abel his brother: You think he was talking reckless? No, he's talking peaceable: hey, what's up. He was angry, but secretly angry, and when he had the opportunity he fell upon him and killed him. He kept that hatred in his spirit, smiled in his face, but when he had opportunity, he's alone, he said I'm gonna take his life, because I didn't do what I was supposed to do.
 
@@ -416,11 +416,17 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 **[1 John 3:1-14](/bible/1-john/3#v1)**  *[[1:22:33](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=4953s)]*
 
 > <sup>[1](/bible/1-john/3#v1)</sup> Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
->
+
+- Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: What manner of love did God bestow upon us, that we should be called the sons of God, and out of all of that you turn around and learn to hate your brother? That's what you come up with?
+
 > <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
->
+
+- We shall be like him; for we shall see him as he is: We're going to be like the man that created everything. I'm not fully clear, but I know there's power in that.
+
 > <sup>[3](/bible/1-john/3#v3)</sup> And every man that hath this hope in him purifieth himself, even as he is pure.
->
+
+- And every man that hath this hope in him purifieth himself, even as he is pure: If you have this hope, that you will be like him, that you're made in his express image, that you are the sons of God, then you're going to purify yourself. So if you don't purify and get that hate, envy, jealousy out your spirit, then you really never believed. You was here under pretense all this time, lying in wait, festering and feeding on these demonic forces, and you've become a full-grown demon.
+
 > <sup>[4](/bible/1-john/3#v4)</sup> Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.
 >
 > <sup>[5](/bible/1-john/3#v5)</sup> And ye know that he was manifested to take away our sins; and in him is no sin.
@@ -428,45 +434,39 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 > <sup>[6](/bible/1-john/3#v6)</sup> Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.
 >
 > <sup>[7](/bible/1-john/3#v7)</sup> Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.
->
-> <sup>[8](/bible/1-john/3#v8)</sup> He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
->
-> <sup>[9](/bible/1-john/3#v9)</sup> Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.
->
-> <sup>[10](/bible/1-john/3#v10)</sup> In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
->
-> <sup>[11](/bible/1-john/3#v11)</sup> For this is the message that ye heard from the beginning, that we should love one another.
->
-> <sup>[12](/bible/1-john/3#v12)</sup> Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.
->
-> <sup>[13](/bible/1-john/3#v13)</sup> Marvel not, my brethren, if the world hate you.
->
-> <sup>[14](/bible/1-john/3#v14)</sup> We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.
-
-- Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: What manner of love did God bestow upon us, that we should be called the sons of God, and out of all of that you turn around and learn to hate your brother? That's what you come up with?
-
-- We shall be like him; for we shall see him as he is: We're going to be like the man that created everything. I'm not fully clear, but I know there's power in that.
-
-- And every man that hath this hope in him purifieth himself, even as he is pure: If you have this hope, that you will be like him, that you're made in his express image, that you are the sons of God, then you're going to purify yourself. So if you don't purify and get that hate, envy, jealousy out your spirit, then you really never believed. You was here under pretense all this time, lying in wait, festering and feeding on these demonic forces, and you've become a full-grown demon.
 
 - Little children, let no man deceive you: he that doeth righteousness is righteous: Don't get caught with the fair speeches, don't get caught with the look, with the beard and the grey. Why? Because all you got to do is: he that doeth righteousness is righteous. You look in the Bible, it says this is righteous, you look up, he ain't doing that. There's no need for you to figure it out; his actions are going to be the fruit. Mark them that cause division amongst you, and avoid them. 250 princes got caught up with it and got put to death, men of renown.
+
+> <sup>[8](/bible/1-john/3#v8)</sup> He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
 
 - For the devil sinneth from the beginning: It says back in Wisdom of Solomon, through envy of the devil came death. From the beginning Satan's game was to divide us: put Eve against Adam, and then try to get Eve to get Adam to move away from the true living God. That is Satan's playground. Don't ever come to me and tell me about somebody, because I'm going to call that person: look what he just said about you. You're either gonna lie on me or you're gonna repeat what you said. You can't program me. I'm not programmable except with this. That … don't work with me. I don't care how eloquent you speak.
 
 - That he might destroy the works of the devil: Christ was manifested to destroy the works of the devil. The works of the devil was to keep us in sin. Christ was manifest to give us the understanding of the laws and to gather together the 12 tribes of Israel. Satan's job is to teach you to sin and to keep the 12 tribes scattered apart. So if you're not part of gathering the 12 tribes, you're a betrayer of your nation. You're a secret admirer sitting amongst us looking to destroy, and God is going to kill you.
 
+> <sup>[9](/bible/1-john/3#v9)</sup> Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.
+>
+> <sup>[10](/bible/1-john/3#v10)</sup> In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
+
 - Whosoever doeth not righteousness is not of God, neither he that loveth not his brother: That's it. Whoever do righteousness is of God; whoever don't do it is not of God. Who would want to try to destroy their brother or their sister?
 
+> <sup>[11](/bible/1-john/3#v11)</sup> For this is the message that ye heard from the beginning, that we should love one another.
+>
+> <sup>[12](/bible/1-john/3#v12)</sup> Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.
+
 - Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous: He slew him because his own works was evil, and he hated because he was not like him. But you could have been like that, because you was made after his express image. You chose to be evil, and now you want to kill that which is righteous, or destroy that which is righteous.
+
+> <sup>[13](/bible/1-john/3#v13)</sup> Marvel not, my brethren, if the world hate you.
+>
+> <sup>[14](/bible/1-john/3#v14)</sup> We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.
 
 
 **[James 4:5-6](/bible/james/4#v5)**  *[[1:29:32](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=5372s)]*
 
 > <sup>[5](/bible/james/4#v5)</sup> Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?
->
-> <sup>[6](/bible/james/4#v6)</sup> But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.
 
 - The spirit that dwelleth in us lusteth to envy: Do you think it's in vain that God has that in the Bible? There's something in us. You think that's by accident? It's there for a reason.
+
+> <sup>[6](/bible/james/4#v6)</sup> But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.
 
 - But he giveth more grace: He gives us grace to get over that spirit of envy and hatred. He's given us space to fix it. This is what this class is for. I guarantee this class is for somebody in here right now. It's for all of us, but there's someone who's battling that right now.
 
@@ -489,10 +489,10 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 **[James 3:14-15](/bible/james/3#v14)**  *[[1:32:19](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=5539s)]*
 
 > <sup>[14](/bible/james/3#v14)</sup> But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.
->
-> <sup>[15](/bible/james/3#v15)</sup> This wisdom descendeth not from above, but is earthly, sensual, devilish.
 
 - But if ye have bitter envying and strife in your hearts: He didn't say envy, he said bitter envy. It's like an extra kind of envy. Bitter envy, that sounds effeminate to me, men that's bitter like that. Resentful: feeling or expressing bitterness or indignation at having been treated unfairly. They feel like they're not getting a fair shake, they feel they were dealt with wrong. That's all your emotions; it's your mind corrupted, and you build up a bitterness in you, a resentfulness, because you envy so much. Why does he have her? She should be my wife, I'd be a better man for her. Why does he have that job, why does he have that house, why is he the elder? Why, why, why.
+
+> <sup>[15](/bible/james/3#v15)</sup> This wisdom descendeth not from above, but is earthly, sensual, devilish.
 
 - This wisdom descendeth not from above, but is earthly, sensual, devilish: It's devilish. It will convince you; it's sensual, it feels good, it'll make you justify your actions. But the base behind it, it's envy.
 
@@ -551,7 +551,9 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 > <sup>[2](/bible/1-samuel/15#v2)</sup> Thus saith the Lord of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.
 >
 > <sup>[3](/bible/1-samuel/15#v3)</sup> Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.
->
+
+- Utterly destroy all that they have, and spare them not: It's clear. He told him kill everything.
+
 > <sup>[4](/bible/1-samuel/15#v4)</sup> And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah.
 >
 > <sup>[5](/bible/1-samuel/15#v5)</sup> And Saul came to a city of Amalek, and laid wait in the valley.
@@ -563,8 +565,6 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 > <sup>[8](/bible/1-samuel/15#v8)</sup> And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.
 >
 > <sup>[9](/bible/1-samuel/15#v9)</sup> But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly.
-
-- Utterly destroy all that they have, and spare them not: It's clear. He told him kill everything.
 
 - But Saul and the people spared Agag, and the best of the sheep: They kept the king and what was good and destroyed everything else. What did God tell him to do? Destroy everything.
 
@@ -594,45 +594,45 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 
 **[1 Samuel 18:10-21](/bible/1-samuel/18#v10)**  *[[1:48:40](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=6520s)]*
 
+- And Saul eyed David from that day and forward (verse 9): So now his evil spirit is directed to David. David was fighting a war for him, over all his enemies, the men he killed being his armourbearer, protecting him. But with all that energy, he betrayed David and turned against him.
+
 > <sup>[10](/bible/1-samuel/18#v10)</sup> And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul’s hand.
 >
 > <sup>[11](/bible/1-samuel/18#v11)</sup> And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.
->
-> <sup>[12](/bible/1-samuel/18#v12)</sup> And Saul was afraid of David, because the Lord was with him, and was departed from Saul.
->
-> <sup>[13](/bible/1-samuel/18#v13)</sup> Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
->
-> <sup>[14](/bible/1-samuel/18#v14)</sup> And David behaved himself wisely in all his ways; and the Lord was with him.
->
-> <sup>[15](/bible/1-samuel/18#v15)</sup> Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.
->
-> <sup>[16](/bible/1-samuel/18#v16)</sup> But all Israel and Judah loved David, because he went out and came in before them.
->
-> <sup>[17](/bible/1-samuel/18#v17)</sup> And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the Lord’s battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.
->
-> <sup>[18](/bible/1-samuel/18#v18)</sup> And David said unto Saul, Who am I? and what is my life, or my father’s family in Israel, that I should be son in law to the king?
->
-> <sup>[19](/bible/1-samuel/18#v19)</sup> But it came to pass at the time when Merab Saul’s daughter should have been given to David, that she was given unto Adriel the Meholathite to wife.
->
-> <sup>[20](/bible/1-samuel/18#v20)</sup> And Michal Saul’s daughter loved David: and they told Saul, and the thing pleased him.
->
-> <sup>[21](/bible/1-samuel/18#v21)</sup> And Saul said, I will give him her, that she may be a snare to him, and that the hand of the Philistines may be against him. Wherefore Saul said to David, Thou shalt this day be my son in law in the one of the twain.
-
-- And Saul eyed David from that day and forward (verse 9): So now his evil spirit is directed to David. David was fighting a war for him, over all his enemies, the men he killed being his armourbearer, protecting him. But with all that energy, he betrayed David and turned against him.
 
 - And Saul cast the javelin: That harp ain't subduing that spirit now. That spirit is growing; the music ain't slowing it down. Now that thing is percolating, bubbling up in his spirit; he can't control it. He had hatred, but now it's manifesting in his behavior. For a long time it laid dormant amongst David, but in his spirit he wasn't right, till finally nothing could stop him. Now you want to kill him.
 
+> <sup>[12](/bible/1-samuel/18#v12)</sup> And Saul was afraid of David, because the Lord was with him, and was departed from Saul.
+
 - And Saul was afraid of David, because the Lord was with him: He realized God is with this man.
+
+> <sup>[13](/bible/1-samuel/18#v13)</sup> Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
 
 - Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people: Because he hated David so much, David wasn't in his inner court no more. He played a harp, he was one of his personal bodyguards, so he sat around Saul in his personal space. So: I'm gonna send him out and he's gonna be out there as one of my captains. The Most High is the master chess player. When you think you're doing something, God is making you do it, because he has a bigger plan you just don't see. You be thinking you making a master move: I'm gonna talk to his brother and we gonna do this, take over the school. That ain't gonna work like that. This stuff is spiritual, buddy.
 
+> <sup>[14](/bible/1-samuel/18#v14)</sup> And David behaved himself wisely in all his ways; and the Lord was with him.
+
 - And David behaved himself wisely in all his ways: David wasn't plotting against him. He dealt wisely: Saul sent me to do a job, I do what I'm supposed to do, I'm captain over the people.
+
+> <sup>[15](/bible/1-samuel/18#v15)</sup> Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.
+>
+> <sup>[16](/bible/1-samuel/18#v16)</sup> But all Israel and Judah loved David, because he went out and came in before them.
 
 - But all Israel and Judah loved David, because he went out and came in before them: You should never have sent him out there, because now he built a relationship with the people. All he was doing was setting him up to become king. With your jealous spirit you're kicking against the pricks. You're not going to stop the Most High's mission.
 
+> <sup>[17](/bible/1-samuel/18#v17)</sup> And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the Lord’s battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.
+
 - Let not mine hand be upon him, but let the hand of the Philistines be upon him: You want this man dead. I'm not gonna kill him, but I'm gonna send him out in the battle and let the Philistines kill him. You're gonna let the enemy, the one that's trying to destroy your nation? That's how much hatred you have for this man.
 
+> <sup>[18](/bible/1-samuel/18#v18)</sup> And David said unto Saul, Who am I? and what is my life, or my father’s family in Israel, that I should be son in law to the king?
+>
+> <sup>[19](/bible/1-samuel/18#v19)</sup> But it came to pass at the time when Merab Saul’s daughter should have been given to David, that she was given unto Adriel the Meholathite to wife.
+
 - That she was given unto Adriel the Meholathite to wife: He broke his covenant with David and gave his daughter to another man.
+
+> <sup>[20](/bible/1-samuel/18#v20)</sup> And Michal Saul’s daughter loved David: and they told Saul, and the thing pleased him.
+>
+> <sup>[21](/bible/1-samuel/18#v21)</sup> And Saul said, I will give him her, that she may be a snare to him, and that the hand of the Philistines may be against him. Wherefore Saul said to David, Thou shalt this day be my son in law in the one of the twain.
 
 - I will give him her, that she may be a snare to him: I got my other daughter, I know how my daughter Michal is, she gonna be a snare to him. That's some hatred. You know your daughter's a full-blown demon. In other words, she gonna make his life so miserable that his head is not gonna be in the fight, because he got a fight at home to deal with. When you get a chance, read the rest of it; it's incredible.
 
@@ -653,7 +653,9 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 > <sup>[3](/bible/2-maccabees/3#v3)</sup> Insomuch that Seleucus of Asia of his own revenues bare all the costs belonging to the service of the sacrifices.
 >
 > <sup>[4](/bible/2-maccabees/3#v4)</sup> But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city.
->
+
+- But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city: And when he could not overcome Onias, he got him to Apollonius and told him that the treasury in Jerusalem was full of infinite sums of money. You betrayer, you slimy. Because he could not overcome Onias, who had a good name, he went to the enemy. It's like we live these scriptures. He went to the enemy and snitched and told him about all the funds that the king put into the treasury, just because he was mad because he couldn't have his way. That's an effeminate dude. It wasn't like you went at Onias one-on-one, which still would have been wrong. You're doing something that's a detriment to the whole nation because I can't have it, I will burn the whole thing down. Didn't you see that happening here? Dudes is mad at me and will rip this whole thing apart; don't give a crap about nobody else, their children, family, because they can't have their way.
+
 > <sup>[5](/bible/2-maccabees/3#v5)</sup> And when he could not overcome Onias, he gat him to Apollonius the son of Thraseas, who then was governor of Celosyria and Phenice,
 >
 > <sup>[6](/bible/2-maccabees/3#v6)</sup> And told him that the treasury in Jerusalem was full of infinite sums of money, so that the multitude of their riches, which did not pertain to the account of the sacrifices, was innumerable, and that it was possible to bring all into the king’s hand.
@@ -672,8 +674,6 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 >
 > <sup>[13](/bible/2-maccabees/3#v13)</sup> But Heliodorus, because of the king’s commandment given him, said, That in any wise it must be brought into the king’s treasury.
 
-- But one Simon of the tribe of Benjamin, who was made governor of the temple, fell out with the high priest about disorder in the city: And when he could not overcome Onias, he got him to Apollonius and told him that the treasury in Jerusalem was full of infinite sums of money. You betrayer, you slimy. Because he could not overcome Onias, who had a good name, he went to the enemy. It's like we live these scriptures. He went to the enemy and snitched and told him about all the funds that the king put into the treasury, just because he was mad because he couldn't have his way. That's an effeminate dude. It wasn't like you went at Onias one-on-one, which still would have been wrong. You're doing something that's a detriment to the whole nation because I can't have it, I will burn the whole thing down. Didn't you see that happening here? Dudes is mad at me and will rip this whole thing apart; don't give a crap about nobody else, their children, family, because they can't have their way.
-
 
 **[2 Maccabees 3:23-27](/bible/2-maccabees/3#v23)**  *[[2:00:40](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=7240s)]*
 
@@ -684,10 +684,10 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 > <sup>[25](/bible/2-maccabees/3#v25)</sup> For there appeared unto them an horse with a terrible rider upon him, and adorned with a very fair covering, and he ran fiercely, and smote at Heliodorus with his forefeet, and it seemed that he that sat upon the horse had complete harness of gold.
 >
 > <sup>[26](/bible/2-maccabees/3#v26)</sup> Moreover two other young men appeared before him, notable in strength, excellent in beauty, and comely in apparel, who stood by him on either side, and scourged him continually, and gave him many sore stripes.
->
-> <sup>[27](/bible/2-maccabees/3#v27)</sup> And Heliodorus fell suddenly unto the ground, and was compassed with great darkness: but they that were with him took him up, and put him into a litter.
 
 - Who stood by him on either side, and scourged him continually, and gave him many sore stripes: So the angels whipped him because he tried to take the funds.
+
+> <sup>[27](/bible/2-maccabees/3#v27)</sup> And Heliodorus fell suddenly unto the ground, and was compassed with great darkness: but they that were with him took him up, and put him into a litter.
 
 - But they that were with him took him up, and put him into a litter: They picked him up and put him in a carriage.
 
@@ -703,24 +703,24 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 
 **[2 Maccabees 4:1-2](/bible/2-maccabees/4#v1)**  *[[2:02:15](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=7335s)]*
 
-> <sup>[1](/bible/2-maccabees/4#v1)</sup> This Simon now, of whom we spake afore, having been a bewraye of the money, and of his country, slandered Onias, as if he had terrified Heliodorus, and been the worker of these evils.
->
-> <sup>[2](/bible/2-maccabees/4#v2)</sup> Thus was he bold to call him a traitor, that had deserved well of the city, and tendered his own nation, and was so zealous of the laws.
-
 - This Simon now, of whom we spake afore, having been a bewrayer of the money, and of his country, slandered Onias: This man now with his hatred began to slander Onias. He's a betrayer of his own country; to destroy Onias he's willing to destroy his own people.
 
+> <sup>[1](/bible/2-maccabees/4#v1)</sup> This Simon now, of whom we spake afore, having been a bewraye of the money, and of his country, slandered Onias, as if he had terrified Heliodorus, and been the worker of these evils.
+
 - As if he had terrified Heliodorus, and been the worker of these evils: He tried to make it seem like he was it. Try to think of Onias going through it: this man is trying to slander me, to make me look bad in front of the people. He's at a spot right now where things are not really steady for him, but he's a righteous man, he's doing right.
+
+> <sup>[2](/bible/2-maccabees/4#v2)</sup> Thus was he bold to call him a traitor, that had deserved well of the city, and tendered his own nation, and was so zealous of the laws.
 
 
 **[2 Maccabees 4:7-9](/bible/2-maccabees/4#v7)**  *[[2:03:04](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=7384s)]*
 
 > <sup>[7](/bible/2-maccabees/4#v7)</sup> But after the death of Seleucus, when Antiochus, called Epiphanes, took the kingdom, Jason the brother of Onias laboured underhand to be high priest,
->
+
+- Jason the brother of Onias laboured underhand to be high priest: While he was going through all that, his own brother Jason was underhandedly trying to supplant him, to take away the high priesthood. Imagine going through all that Onias was going through, and your slimy snake brother: I see you weakened, I'm going to take it. He doesn't want to wait on his ministry.
+
 > <sup>[8](/bible/2-maccabees/4#v8)</sup> Promising unto the king by intercession three hundred and threescore talents of silver, and of another revenue eighty talents:
 >
 > <sup>[9](/bible/2-maccabees/4#v9)</sup> Beside this, he promised to assign an hundred and fifty more, if he might have licence to set him up a place for exercise, and for the training up of youth in the fashions of the heathen, and to write them of Jerusalem by the name of Antiochians.
-
-- Jason the brother of Onias laboured underhand to be high priest: While he was going through all that, his own brother Jason was underhandedly trying to supplant him, to take away the high priesthood. Imagine going through all that Onias was going through, and your slimy snake brother: I see you weakened, I'm going to take it. He doesn't want to wait on his ministry.
 
 - For the training up of youth in the fashions of the heathen: He said, I'm gonna give you money and I'm gonna turn these people into Greeks, make them become heathens. Give me the high priesthood and I'll be the spokesperson, and I'mma teach them to sin against God. Allow me to speak and be heard and I'll have you eating brisket at Passover. Lead you to sin.
 
@@ -728,20 +728,20 @@ Reading from A definition of envy, read from online  *[[1:11:47](https://www.you
 **[2 Maccabees 4:23-27](/bible/2-maccabees/4#v23)**  *[[2:04:43](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=7483s)]*
 
 > <sup>[23](/bible/2-maccabees/4#v23)</sup> Three years afterward Jason sent Menelaus, the aforesaid Simon’s brother, to bear the money unto the king, and to put him in mind of certain necessary matters.
->
-> <sup>[24](/bible/2-maccabees/4#v24)</sup> But he being brought to the presence of the king, when he had magnified him for the glorious appearance of his power, got the priesthood to himself, offering more than Jason by three hundred talents of silver.
->
-> <sup>[25](/bible/2-maccabees/4#v25)</sup> So he came with the king’s mandate, bringing nothing worthy the high priesthood, but having the fury of a cruel tyrant, and the rage of a savage beast.
->
-> <sup>[26](/bible/2-maccabees/4#v26)</sup> Then Jason, who had undermined his own brother, being undermined by another, was compelled to flee into the country of the Ammonites.
->
-> <sup>[27](/bible/2-maccabees/4#v27)</sup> So Menelaus got the principality: but as for the money that he had promised unto the king, he took no good order for it, albeit Sostratus the ruler of the castle required it:
 
 - Jason sent Menelaus, the aforesaid Simon's brother: You can't make this stuff up. Menelaus was Simon the Benjamite's brother. Simon was pissed with Onias and tried to destroy his nation; Onias' brother Jason tried to snake him; now Jason is dealing with Simon's brother Menelaus.
 
+> <sup>[24](/bible/2-maccabees/4#v24)</sup> But he being brought to the presence of the king, when he had magnified him for the glorious appearance of his power, got the priesthood to himself, offering more than Jason by three hundred talents of silver.
+>
+> <sup>[25](/bible/2-maccabees/4#v25)</sup> So he came with the king’s mandate, bringing nothing worthy the high priesthood, but having the fury of a cruel tyrant, and the rage of a savage beast.
+
 - But having the fury of a cruel tyrant, and the rage of a savage beast: He was a beast. So he snaked Jason. All this is envy and jealousy amongst them.
 
+> <sup>[26](/bible/2-maccabees/4#v26)</sup> Then Jason, who had undermined his own brother, being undermined by another, was compelled to flee into the country of the Ammonites.
+
 - Then Jason, who had undermined his own brother, being undermined by another, was compelled to flee: Jason had to go on the run. I'm cut for time, so I can't finish it. When you have a chance, read about these people. The treachery is unreal. These are betrayers, and at the end they die.
+
+> <sup>[27](/bible/2-maccabees/4#v27)</sup> So Menelaus got the principality: but as for the money that he had promised unto the king, he took no good order for it, albeit Sostratus the ruler of the castle required it:
 
 
 **[Matthew 10:36](/bible/matthew/10#v36)**  *[[2:06:43](https://www.youtube.com/watch?v=qe6mEXTfkPc&t=7603s)]*

@@ -223,25 +223,23 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 **[Zechariah 14:1-3](/bible/zechariah/14#v1)**  *[[1:11:23](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=4283s)]*
 
 > <sup>[1](/bible/zechariah/14#v1)</sup> Behold, the day of the Lord cometh, and thy spoil shall be divided in the midst of thee.
->
+
+- Behold, the day of the Lord cometh: the day of the Lord is destruction, and this is going to happen in the third woe. All nations will be gathered against Jerusalem to battle, and the city shall be taken; the houses rifled, the women ravished, half of the city into captivity: prisoners of war. That is future prophecy over that land.
+
+- Then shall the Lord go forth, and fight against those nations, as when he fought in the day of battle. The question is: when did the Lord fight in the day of battle? That is what is called the book of the wars of the Lord. He will fight against them in the future the same way he fought against the nations in the past. So now we go to the past.
+
 > <sup>[2](/bible/zechariah/14#v2)</sup> For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.
 >
 > <sup>[3](/bible/zechariah/14#v3)</sup> Then shall the Lord go forth, and fight against those nations, as when he fought in the day of battle.
 
-- Behold, the day of the Lord cometh: the day of the Lord is destruction, and this is going to happen in the third woe. All nations will be gathered against Jerusalem to battle, and the city shall be taken; the houses rifled, the women ravished, half of the city into captivity: prisoners of war. That is future prophecy over that land.
-- Then shall the Lord go forth, and fight against those nations, as when he fought in the day of battle. The question is: when did the Lord fight in the day of battle? That is what is called the book of the wars of the Lord. He will fight against them in the future the same way he fought against the nations in the past. So now we go to the past.
-
 **[Exodus 15:3-6](/bible/exodus/15#v3)**  *[[1:16:10](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=4570s)]*
 
 > <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
->
-> <sup>[4](/bible/exodus/15#v4)</sup> Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.
->
-> <sup>[5](/bible/exodus/15#v5)</sup> The depths have covered them: they sank into the bottom as a stone.
->
-> <sup>[6](/bible/exodus/15#v6)</sup> Thy right hand, O Lord, is become glorious in power: thy right hand, O Lord, hath dashed in pieces the enemy.
 
 - The Lord is a man of war: the Lord is his name. When Moses says this, he is talking about something much more. Moses said it because he saw the Lord warring for his people. And this Lord is talking about Christ the anointed.
+
+> <sup>[4](/bible/exodus/15#v4)</sup> Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.
+
 - Pharaoh's chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red Sea. Who did that? The Lord. Thy right hand, O Lord, hath dashed in pieces the enemy. This is the wars of the Lord we are reading about: when the Lord fought against the Egyptians, drowned them in the Red Sea, and brought plagues upon them.
 
   Precepts:
@@ -265,7 +263,23 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 
     The second man is the Lord from heaven. The Lord from heaven is Christ: that is the Almighty word that leaped off his throne and came down in Exodus.
 
+> <sup>[5](/bible/exodus/15#v5)</sup> The depths have covered them: they sank into the bottom as a stone.
+>
+> <sup>[6](/bible/exodus/15#v6)</sup> Thy right hand, O Lord, is become glorious in power: thy right hand, O Lord, hath dashed in pieces the enemy.
+
 **[Exodus 14:8-31](/bible/exodus/14#v8)**  *[[1:22:46](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=4966s)]*
+
+- The Lord hardened the heart of Pharaoh, and he pursued after the children of Israel. Even after the Lord killed all the firstborn in Egypt, Pharaoh still went after the Israelites; but the Lord made him do that.
+
+- The children of Israel cried out and started blaming Moses: because there were no graves in Egypt, hast thou taken us away to die in the wilderness? Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? Some of our people were comfortable in ancient Egypt, the same way some are comfortable serving in America today, making good money, saying leave me alone, I am good.
+
+- Moses said, Fear ye not, stand still, and see the salvation of the Lord: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever. The Lord shall fight for you, and ye shall hold your peace. Remember the lesson: the book of the wars of the Lord. When we came out of Egypt, this was one of the wars of the Lord.
+
+- I will get me honour upon Pharaoh, and upon all his host. The Lord wanted honor. He said: I am going to harden the Egyptians' hearts to make them chase after you into the sea, so the whole world could talk about what I did to the Egyptians. Even to this day they are talking about what was done to the Egyptians. And the Egyptians shall know that I am the Lord.
+
+- The angel of God went from before the camp and stood behind them; it came between the camp of the Egyptians and the camp of Israel. It was a cloud and darkness to them, but it gave light by night to us, so the one came not near the other all the night. Imagine seeing something bright, what you would call a UFO today, standing between you and your enemy to protect Israel as they crossed.
+
+- The Lord caused the sea to go back by a strong east wind; the waters were a wall on the right hand and the left. In the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire, troubled their host, and took off their chariot wheels, so the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
 
 > <sup>[8](/bible/exodus/14#v8)</sup> And the Lord hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.
 >
@@ -308,19 +322,7 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 > <sup>[27](/bible/exodus/14#v27)</sup> And Moses stretched forth his hand over the sea, and the sea returned to his strength when the morning appeared; and the Egyptians fled against it; and the Lord overthrew the Egyptians in the midst of the sea.
 >
 > <sup>[28](/bible/exodus/14#v28)</sup> And the waters returned, and covered the chariots, and the horsemen, and all the host of Pharaoh that came into the sea after them; there remained not so much as one of them.
->
-> <sup>[29](/bible/exodus/14#v29)</sup> But the children of Israel walked upon dry land in the midst of the sea; and the waters were a wall unto them on their right hand, and on their left.
->
-> <sup>[30](/bible/exodus/14#v30)</sup> Thus the Lord saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore.
->
-> <sup>[31](/bible/exodus/14#v31)</sup> And Israel saw that great work which the Lord did upon the Egyptians: and the people feared the Lord, and believed the Lord, and his servant Moses.
 
-- The Lord hardened the heart of Pharaoh, and he pursued after the children of Israel. Even after the Lord killed all the firstborn in Egypt, Pharaoh still went after the Israelites; but the Lord made him do that.
-- The children of Israel cried out and started blaming Moses: because there were no graves in Egypt, hast thou taken us away to die in the wilderness? Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? Some of our people were comfortable in ancient Egypt, the same way some are comfortable serving in America today, making good money, saying leave me alone, I am good.
-- Moses said, Fear ye not, stand still, and see the salvation of the Lord: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever. The Lord shall fight for you, and ye shall hold your peace. Remember the lesson: the book of the wars of the Lord. When we came out of Egypt, this was one of the wars of the Lord.
-- I will get me honour upon Pharaoh, and upon all his host. The Lord wanted honor. He said: I am going to harden the Egyptians' hearts to make them chase after you into the sea, so the whole world could talk about what I did to the Egyptians. Even to this day they are talking about what was done to the Egyptians. And the Egyptians shall know that I am the Lord.
-- The angel of God went from before the camp and stood behind them; it came between the camp of the Egyptians and the camp of Israel. It was a cloud and darkness to them, but it gave light by night to us, so the one came not near the other all the night. Imagine seeing something bright, what you would call a UFO today, standing between you and your enemy to protect Israel as they crossed.
-- The Lord caused the sea to go back by a strong east wind; the waters were a wall on the right hand and the left. In the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire, troubled their host, and took off their chariot wheels, so the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
 - The waters returned and covered the chariots and the horsemen: there remained not so much as one of them. Thus the Lord saved Israel that day out of the hand of the Egyptians, and Israel saw the Egyptians dead upon the sea shore. And the people feared the Lord, and believed the Lord, and his servant Moses. We celebrated Passover.
 
   Precepts:
@@ -342,7 +344,17 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 
     The Lord went before them by day in a pillar of a cloud, and by night in a pillar of fire. That pillar of cloud is a chariot, and the Lord was inside it: that is the Rock that followed them. He took not away the pillar of the cloud by day, nor the pillar of fire by night.
 
+> <sup>[29](/bible/exodus/14#v29)</sup> But the children of Israel walked upon dry land in the midst of the sea; and the waters were a wall unto them on their right hand, and on their left.
+>
+> <sup>[30](/bible/exodus/14#v30)</sup> Thus the Lord saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore.
+>
+> <sup>[31](/bible/exodus/14#v31)</sup> And Israel saw that great work which the Lord did upon the Egyptians: and the people feared the Lord, and believed the Lord, and his servant Moses.
+
 **[Deuteronomy 4:33-37](/bible/deuteronomy/4#v33)**  *[[1:38:17](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=5897s)]*
+
+- Hath God assayed to go and take him a nation from the midst of another nation? The same thing is happening today: we are becoming a nation in the midst of a nation, in spiritual Egypt, like Daniel 2 says, in the days of these kings shall the God of heaven set up a kingdom which shall never be destroyed. And the same way Egypt saw us multiplying and started oppressing us, it is going to be the same thing again in the future.
+
+- By temptations, by signs, and by wonders, and by war. How did the Lord take us out of Egypt? By war. The signs are the plagues; the wonders are what Moses did through the Lord; and by a mighty hand, and by a stretched out arm, and by great terrors. The Lord brought terror on the Egyptians when we came out of Egypt, before our eyes.
 
 > <sup>[33](/bible/deuteronomy/4#v33)</sup> Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?
 >
@@ -351,11 +363,7 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 > <sup>[35](/bible/deuteronomy/4#v35)</sup> Unto thee it was shewed, that thou mightest know that the Lord he is God; there is none else beside him.
 >
 > <sup>[36](/bible/deuteronomy/4#v36)</sup> Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.
->
-> <sup>[37](/bible/deuteronomy/4#v37)</sup> And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;
 
-- Hath God assayed to go and take him a nation from the midst of another nation? The same thing is happening today: we are becoming a nation in the midst of a nation, in spiritual Egypt, like Daniel 2 says, in the days of these kings shall the God of heaven set up a kingdom which shall never be destroyed. And the same way Egypt saw us multiplying and started oppressing us, it is going to be the same thing again in the future.
-- By temptations, by signs, and by wonders, and by war. How did the Lord take us out of Egypt? By war. The signs are the plagues; the wonders are what Moses did through the Lord; and by a mighty hand, and by a stretched out arm, and by great terrors. The Lord brought terror on the Egyptians when we came out of Egypt, before our eyes.
 - Out of heaven he made thee to hear his voice: whose voice did they hear from the heavens? That was Christ's voice, speaking the commandments. And upon earth he shewed thee his great fire: when the Lord came down in Exodus, only the seventy elders saw his majesty; everybody else saw fire.
 
   Precepts:
@@ -376,6 +384,8 @@ Reading from an on-screen search result on how many books are in the Bible inclu
     > <sup>[29](/bible/hebrews/12#v29)</sup> For our God is a consuming fire.
 
     See that ye refuse not him that speaketh. The one that spake on earth was Moses; the people said, we do not want God to speak to us, Moses, you tell us the commandments, because his voice shook the earth and they were terrified. Much more shall not we escape, if we turn away from him that speaketh from heaven: that was the Lord. Yet once more I shake not the earth only, but also heaven: that is when he returns in the future to shake the nations. For our God is a consuming fire: that is what the people saw when he came down on the mountain.
+
+> <sup>[37](/bible/deuteronomy/4#v37)</sup> And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;
 
 **[Wisdom of Solomon 18:7](/bible/wisdom-of-solomon/18#v7)**  *[[1:50:07](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=6607s)]*
 
@@ -537,12 +547,9 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 **[1 Samuel 17:45-47](/bible/1-samuel/17#v45)**  *[[2:28:28](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=8908s)]*
 
 > <sup>[45](/bible/1-samuel/17#v45)</sup> Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, whom thou hast defied.
->
-> <sup>[46](/bible/1-samuel/17#v46)</sup> This day will the Lord deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.
->
-> <sup>[47](/bible/1-samuel/17#v47)</sup> And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord’s, and he will give you into our hands.
 
 - Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel. When we fight and when we war, we war in the name of our God. Goliath was a giant remaining from the Anakims in Gath.
+
 - This day will the Lord deliver thee into mine hand; that all the earth may know that there is a God in Israel. And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord's.
 
   Precepts:
@@ -559,6 +566,10 @@ Reading from an on-screen search result on how many books are in the Bible inclu
     > <sup>[24](/bible/2-samuel/5#v24)</sup> And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the Lord go out before thee, to smite the host of the Philistines.
 
     When the Philistines spread themselves in the valley of Rephaim, David enquired of the Lord. David used to talk to the Lord before he made decisions, and we have to learn to do that: Lord, should I do this? If it is not right, shut it down. The Lord said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees. And when thou hearest the sound of a going in the tops of the mulberry trees, then thou shalt bestir thyself: for then shall the Lord go out before thee, to smite the host of the Philistines. The Lord goes out before you, fighting with you. And when you read the Maccabees, angels came down and fought with Judas Maccabeus too.
+
+> <sup>[46](/bible/1-samuel/17#v46)</sup> This day will the Lord deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.
+>
+> <sup>[47](/bible/1-samuel/17#v47)</sup> And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord’s, and he will give you into our hands.
 
 **[Revelation 19:9-21](/bible/revelation/19#v9)**  *[[2:43:10](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=9790s)]*
 
@@ -640,7 +651,13 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 **[Isaiah 13:4-9](/bible/isaiah/13#v4)**  *[[3:03:23](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=11003s)]*
 
 > <sup>[4](/bible/isaiah/13#v4)</sup> The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle.
->
+
+- The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the same multitude we read in Joel, gathered in the valley of Jehoshaphat. The Lord of hosts mustereth the host of the battle.
+
+- They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land. The end of heaven is paradise: the Lord is coming from paradise with the weapons of his wrath.
+
+- Howl ye; for the day of the Lord is at hand. Every man's heart shall melt, and they shall be afraid: pangs and sorrows shall take hold of them; their faces shall be as flames. Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate.
+
 > <sup>[5](/bible/isaiah/13#v5)</sup> They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land.
 >
 > <sup>[6](/bible/isaiah/13#v6)</sup> Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.
@@ -650,10 +667,6 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 > <sup>[8](/bible/isaiah/13#v8)</sup> And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces shall be as flames.
 >
 > <sup>[9](/bible/isaiah/13#v9)</sup> Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate: and he shall destroy the sinners thereof out of it.
-
-- The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the same multitude we read in Joel, gathered in the valley of Jehoshaphat. The Lord of hosts mustereth the host of the battle.
-- They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land. The end of heaven is paradise: the Lord is coming from paradise with the weapons of his wrath.
-- Howl ye; for the day of the Lord is at hand. Every man's heart shall melt, and they shall be afraid: pangs and sorrows shall take hold of them; their faces shall be as flames. Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate.
 
 **[2 Esdras 13:1-11, 25-39](/bible/2-esdras/13#v1)**  *[[3:06:17](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=11177s)]*
 
@@ -719,33 +732,38 @@ Reading from an on-screen search result on how many books are in the Bible inclu
 **[Isaiah 42:13-16](/bible/isaiah/42#v13)**  *[[3:17:04](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=11824s)]*
 
 > <sup>[13](/bible/isaiah/42#v13)</sup> The Lord shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.
->
+
+- The Lord shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies. The same man of war Moses saw. He will destroy his enemies, and the wicked among Israel too.
+
+- I have long time holden my peace; I have been still, and refrained myself. The Lord is saying: I saw all the evil being done on this earth and I said nothing; I restrained myself. Now will I cry like a travailing woman; I will destroy and devour at once. I will make waste mountains and hills: mountains are nations.
+
 > <sup>[14](/bible/isaiah/42#v14)</sup> I have long time holden my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once.
 >
 > <sup>[15](/bible/isaiah/42#v15)</sup> I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools.
 >
 > <sup>[16](/bible/isaiah/42#v16)</sup> And I will bring the blind by a way that they knew not; I will lead them in paths that they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them.
 
-- The Lord shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies. The same man of war Moses saw. He will destroy his enemies, and the wicked among Israel too.
-- I have long time holden my peace; I have been still, and refrained myself. The Lord is saying: I saw all the evil being done on this earth and I said nothing; I restrained myself. Now will I cry like a travailing woman; I will destroy and devour at once. I will make waste mountains and hills: mountains are nations.
 - And I will bring the blind by a way that they knew not; I will lead them in paths that they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them: that is what the Lord will do for us.
 
 **[Isaiah 43:2-6](/bible/isaiah/43#v2)**  *[[3:20:23](https://www.youtube.com/watch?v=6qcYL9qpE7o&t=12023s)]*
 
+- When thou passest through the waters, I will be with thee; when thou walkest through the fire, thou shalt not be burned. All of this we are learning is for us to have faith, brothers and sisters, for when the time comes: all this rich history of God fighting for us as a people is for us to have faith and hope.
+
 > <sup>[2](/bible/isaiah/43#v2)</sup> When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.
 >
 > <sup>[3](/bible/isaiah/43#v3)</sup> For I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.
->
-> <sup>[4](/bible/isaiah/43#v4)</sup> Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
->
-> <sup>[5](/bible/isaiah/43#v5)</sup> Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;
->
-> <sup>[6](/bible/isaiah/43#v6)</sup> I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
 
-- When thou passest through the waters, I will be with thee; when thou walkest through the fire, thou shalt not be burned. All of this we are learning is for us to have faith, brothers and sisters, for when the time comes: all this rich history of God fighting for us as a people is for us to have faith and hope.
 - For I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom. He is saying, I killed the Egyptians for you.
+
+> <sup>[4](/bible/isaiah/43#v4)</sup> Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
+
 - Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
+
+> <sup>[5](/bible/isaiah/43#v5)</sup> Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;
+
 - Fear not: for I am with thee. When the persecution comes, a lot of us are going to be scared, like when Pharaoh came after us; but God says fear not, for I am with thee. I will bring thy seed from the east, and gather thee from the west; I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth. The Israelites scattered throughout the planet: this is the new Passover; this is deliverance.
+
+> <sup>[6](/bible/isaiah/43#v6)</sup> I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
 
 ## In Closing
 

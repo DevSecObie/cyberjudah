@@ -286,6 +286,8 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 
 **[Job 2:1-9](/bible/job/2#v1)**  *[[1:13:33](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=4413s)]*
 
+- Job still held fast his integrity, and Satan is called the one who moved the Lord against him without cause. That is the accuser at work, as Revelation 12 names him.
+
 > <sup>[1](/bible/job/2#v1)</sup> Again there was a day when the sons of God came to present themselves before the Lord, and Satan came also among them to present himself before the Lord.
 >
 > <sup>[2](/bible/job/2#v2)</sup> And the Lord said unto Satan, From whence comest thou? And Satan answered the Lord, and said, From going to and fro in the earth, and from walking up and down in it.
@@ -293,7 +295,15 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 > <sup>[3](/bible/job/2#v3)</sup> And the Lord said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
 >
 > <sup>[4](/bible/job/2#v4)</sup> And Satan answered the Lord, and said, Skin for skin, yea, all that a man hath will he give for his life.
->
+
+- Skin for skin: touch his bone and his flesh. His bone and flesh includes his wife, bone of his bone. Satan was about to touch Job's wife too.
+
+- 'He is in thine hand, but save his life.' You can get sick and every kind of thing can happen to you; that is Satan, but God allowed it and set the limit.
+
+- 'Curse God, and die' was Satan speaking through Job's wife. She had lost everything and was worn down, and Satan entered her. Sisters, do not let Satan get in your head and use you to oppress your husband.
+
+- The deacon promises at least five classes on how to fight Satan, with the last on another level, and a separate class on the different ways Satan attacked Job.
+
 > <sup>[5](/bible/job/2#v5)</sup> But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
 >
 > <sup>[6](/bible/job/2#v6)</sup> And the Lord said unto Satan, Behold, he is in thine hand; but save his life.
@@ -303,16 +313,6 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 > <sup>[8](/bible/job/2#v8)</sup> And he took him a potsherd to scrape himself withal; and he sat down among the ashes.
 >
 > <sup>[9](/bible/job/2#v9)</sup> Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.
-
-- Job still held fast his integrity, and Satan is called the one who moved the Lord against him without cause. That is the accuser at work, as Revelation 12 names him.
-
-- Skin for skin: touch his bone and his flesh. His bone and flesh includes his wife, bone of his bone. Satan was about to touch Job's wife too.
-
-- 'He is in thine hand, but save his life.' You can get sick and every kind of thing can happen to you; that is Satan, but God allowed it and set the limit.
-
-- 'Curse God, and die' was Satan speaking through Job's wife. She had lost everything and was worn down, and Satan entered her. Sisters, do not let Satan get in your head and use you to oppress your husband.
-
-- The deacon promises at least five classes on how to fight Satan, with the last on another level, and a separate class on the different ways Satan attacked Job.
 
 
 **[Job 32:1-2](/bible/job/32#v1)**  *[[1:20:22](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=4822s)]*
@@ -336,17 +336,17 @@ tags: ["IUIC in the ClassRoom", "adversity", "media", "prayer", "satan", "war"]
 
 **[Ecclesiastes 7:14-16](/bible/ecclesiastes/7#v14)**  *[[1:23:34](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=5014s)]*
 
-> <sup>[14](/bible/ecclesiastes/7#v14)</sup> In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
->
-> <sup>[15](/bible/ecclesiastes/7#v15)</sup> All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.
->
-> <sup>[16](/bible/ecclesiastes/7#v16)</sup> Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?
-
 - Be not righteous over much, neither make thyself over wise, why shouldest thou destroy thyself? The over-righteous person ends up looking fake, and the one who thinks nobody can tell him anything destroys himself. Nobody is perfect, and everyone has something they need help with.
+
+> <sup>[14](/bible/ecclesiastes/7#v14)</sup> In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
 
 - In the day of prosperity be joyful, but in the day of adversity consider: God hath set the one over against the other. Adversity comes from the adversary, Satan and his children, and God set it up so that man should trust in him and find nothing after him.
 
 - When Satan attacks it shows you things inside yourself. That is how Job got perfected.
+
+> <sup>[15](/bible/ecclesiastes/7#v15)</sup> All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.
+>
+> <sup>[16](/bible/ecclesiastes/7#v16)</sup> Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?
 
 
 **[1 Corinthians 10:12-13](/bible/1-corinthians/10#v12)**  *[[1:27:11](https://www.youtube.com/watch?v=edLGM5R-Ct0&t=5231s)]*

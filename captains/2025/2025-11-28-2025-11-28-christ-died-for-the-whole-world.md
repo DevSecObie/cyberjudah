@@ -53,12 +53,12 @@ Reading from a definition of propitiation  *[[1:45](https://www.youtube.com/watc
 **[Psalms 147:19-20](/bible/psalms/147#v19)**  *[[3:05](https://www.youtube.com/watch?v=Gk6K4esC6PA&t=185s)]*
 
 > <sup>[19](/bible/psalms/147#v19)</sup> He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
->
-> <sup>[20](/bible/psalms/147#v20)</sup> He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.
 
 - He sheweth his word unto Jacob: he showeth his word, meaning the understanding of the Bible was shown to Jacob. Who's Jacob? The Israelites.
 
 - his statutes and his judgments unto Israel: a statute is a law. So the law, and the judgments, meaning the penalty for breaking the law. Oh, okay.
+
+> <sup>[20](/bible/psalms/147#v20)</sup> He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.
 
 - He hath not dealt so with any nation: wait a minute. So only the Israelites got the law. So if the Israelites break the law, what would they be considered? Sinners.
 
@@ -75,14 +75,14 @@ Reading from a definition of propitiation  *[[1:45](https://www.youtube.com/watc
 **[1 John 2:1-2](/bible/1-john/2#v1)**  *[[4:20](https://www.youtube.com/watch?v=Gk6K4esC6PA&t=260s)]*
 
 > <sup>[1](/bible/1-john/2#v1)</sup> My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
->
-> <sup>[2](/bible/1-john/2#v2)</sup> And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 
 - And if any man sin: and if you do sin, Israel.
 
 - we have an advocate with the Father: who's we? Israel. We have an advocate with the father. Who's the advocate?
 
 - Jesus Christ the righteous: Jesus Christ is our advocate.
+
+> <sup>[2](/bible/1-john/2#v2)</sup> And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 
 - And he is the propitiation for our sins: Christ is the atonement for what? For our sins.
 
@@ -96,18 +96,18 @@ Reading from a definition of propitiation  *[[1:45](https://www.youtube.com/watc
 > <sup>[49](/bible/john/11#v49)</sup> And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
 >
 > <sup>[50](/bible/john/11#v50)</sup> Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
->
-> <sup>[51](/bible/john/11#v51)</sup> And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
->
-> <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
 - that one man should die for the people: one man should die for the people. Caiaphas is the high priest. They're having a council, what they should do with Christ. They're trying to kill Christ, cuz he just raised up Lazarus, and people are starting to believe on Christ, and they're going to push the Pharisees aside. The Romans are going to push them aside.
 
 - and that the whole nation perish not: who's in the land during this time? Primarily Judah, Benjamin, and Levi, called the Jews, or called the Kingdom of Judah in the Old Testament. The other tribes, the northern tribes, were already gone, according to 2 Esdras 13:44 on down. They're already gone. So all 12 tribes were not in the land. There was remnants of the northern kingdom, but the northern kingdom primarily was already gone. Only Judah, Benjamin, and Levi primarily were in the land. Keep that in mind.
 
+> <sup>[51](/bible/john/11#v51)</sup> And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
+
 - And this spake he not of himself: he ain't speaking of himself.
 
 - he prophesied that Jesus should die for that nation: that Jesus should die for what nation? Judah, Benjamin, and Levi, the southern kingdom.
+
+> <sup>[52](/bible/john/11#v52)</sup> And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
 - And not for that nation only: not for them only.
 
@@ -128,12 +128,12 @@ Reading from a definition of propitiation  *[[1:45](https://www.youtube.com/watc
 **[Exodus 28:15-17](/bible/exodus/28#v15)**  *[[8:11](https://www.youtube.com/watch?v=Gk6K4esC6PA&t=491s)]*
 
 > <sup>[15](/bible/exodus/28#v15)</sup> And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; of gold, of blue, and of purple, and of scarlet, and of fine twined linen, shalt thou make it.
->
+
+- And thou shalt make the breastplate of judgment with cunning work: with cunning work, the breastplate of judgment. Talking about Aaron's garment. This is what the high priest wore.
+
 > <sup>[16](/bible/exodus/28#v16)</sup> Foursquare it shall be being doubled; a span shall be the length thereof, and a span shall be the breadth thereof.
 >
 > <sup>[17](/bible/exodus/28#v17)</sup> And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.
-
-- And thou shalt make the breastplate of judgment with cunning work: with cunning work, the breastplate of judgment. Talking about Aaron's garment. This is what the high priest wore.
 
 - even four rows of stones: we just read about four rows of stones in Wisdom of Solomon 18:24, and it's talking about the whole world.
 

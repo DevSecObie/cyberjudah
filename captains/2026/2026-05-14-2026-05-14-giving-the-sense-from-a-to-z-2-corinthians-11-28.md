@@ -69,12 +69,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[Acts 20:28-31](/bible/acts/20#v28)**  *[[20:00](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1200s)]*
 
 > <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
->
-> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
->
-> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
->
-> <sup>[31](/bible/acts/20#v31)</sup> Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 
 - Take heed therefore unto yourselves: So, Paul had that same spirit. The care of the church was his chief concern. So, guess what? He passed that on to us.
 
@@ -84,9 +78,15 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 - Which he hath purchased with his own blood: Listen, Christ purchased the church with his own blood. Understand that, and it is our job as good stewards to continue this gospel, delivering the truth to the people come hell or high water. Understand that.
 
+> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+
 - After my departing shall grievous wolves enter in among you, not sparing the flock: So, Paul already knew what was coming. We going to find out how Paul knew that this was coming.
 
+> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
+
 - Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them: So, you see that going on today. Men speaking perverse things to draw away disciples after themselves. Look at your Christian pastor. Misleading brothers and sisters.
+
+> <sup>[31](/bible/acts/20#v31)</sup> Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 
 - By the space of three years I ceased not to warn every one night and day with tears: So now, Paul is giving us the warning, and we going to get to why he put such a emphasis on what was to come.
 
@@ -101,14 +101,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[1 Corinthians 9:19-23](/bible/1-corinthians/9#v19)**  *[[22:11](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1331s)]*
 
 > <sup>[19](/bible/1-corinthians/9#v19)</sup> For though I be free from all men, yet have I made myself servant unto all, that I might gain the more.
->
-> <sup>[20](/bible/1-corinthians/9#v20)</sup> And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;
->
-> <sup>[21](/bible/1-corinthians/9#v21)</sup> To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
->
-> <sup>[22](/bible/1-corinthians/9#v22)</sup> To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.
->
-> <sup>[23](/bible/1-corinthians/9#v23)</sup> And this I do for the gospel’s sake, that I might be partaker thereof with you.
 
 - For though I be free from all men: Paul didn't owe no man.
 
@@ -116,9 +108,13 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 - That I might gain the more: That I might what? So he served the people to gain more people, to win more people over to the gospel.
 
+> <sup>[20](/bible/1-corinthians/9#v20)</sup> And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;
+
 - And unto the Jews I became as a Jew: So Paul is saying, "Listen, I moved unto the Jew, I became Jew."
 
 - To them that are under the law, as under the law: We read that account in Acts 21 when you read verses 23 through 26. We not going to get that for time's sake. But the history of that, you read that in Acts 21 verses 23 through 26. You see an example of that, what Paul does. He becomes a Jew to the Jews.
+
+> <sup>[21](/bible/1-corinthians/9#v21)</sup> To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
 
 - To them that are without law: To those that are without the law, the northern kingdom.
 
@@ -126,11 +122,15 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 - That I might gain them that are without law: So Paul is saying, "I dealt with them that I might gain them." Those that came in outside of the law, the northern kingdom. So you see some southern kingdom, too.
 
+> <sup>[22](/bible/1-corinthians/9#v22)</sup> To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.
+
 - To the weak: To the what? So now Paul said to the weak. Now he had the right to response letter like, "Hold on. Ain't nothing weak about me, brother."
 
 - I am made all things to all men: Right. That's not what Kirk Franklin was talking about. He up in here with a bunch of sinners and sodomites talking about, "Yeah, I got to win the brother over, so I got to look like a sodomite to win over the sodomites." No. That's not what Paul was talking about. Read that again.
 
 - That I might by all means save some: Meaning what? Paul went through every measure to win brothers over to Christ. Do you understand?
+
+> <sup>[23](/bible/1-corinthians/9#v23)</sup> And this I do for the gospel’s sake, that I might be partaker thereof with you.
 
 - And this I do for the gospel's sake: Hold on. Paul did it for what? So Paul didn't do it for the gram. He did it for the gospel's. You understand?
 
@@ -140,16 +140,16 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[2 Corinthians 11:29-31](/bible/2-corinthians/11#v29)**  *[[25:04](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1504s)]*
 
 > <sup>[29](/bible/2-corinthians/11#v29)</sup> Who is weak, and I am not weak? who is offended, and I burn not?
->
-> <sup>[30](/bible/2-corinthians/11#v30)</sup> If I must needs glory, I will glory of the things which concern mine infirmities.
->
-> <sup>[31](/bible/2-corinthians/11#v31)</sup> The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.
 
 - Who is weak, and I am not weak? Who is offended, and I burn not?: Meaning what? Y'all ain't making me upset about your comments. You understand? Paul like, "Listen, man."
+
+> <sup>[30](/bible/2-corinthians/11#v30)</sup> If I must needs glory, I will glory of the things which concern mine infirmities.
 
 - If I must needs glory: So Paul is saying if I got to boast.
 
 - I will glory of the things which concern mine infirmities: So Paul said, "I'mma boast on the things that concern my infirmities," or the afflictions that I went through. Meaning what? No weak man could have went through what Paul went through for the gospel's sake. You understand? So he had to check the brothers. Paul like, "Hold on, man. I got to flex on these brothers." He going to drop something on them.
+
+> <sup>[31](/bible/2-corinthians/11#v31)</sup> The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.
 
 - Knoweth that I lie not: So Paul saying, "Listen." Read Romans 9 and 1 real quick. We got to hustle, man. We got a lot to cover, man. I'm trying to get through this.
 
@@ -167,12 +167,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[2 Corinthians 11:32-33](/bible/2-corinthians/11#v32)**  *[[27:09](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1629s)]*
 
 > <sup>[32](/bible/2-corinthians/11#v32)</sup> In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:
->
-> <sup>[33](/bible/2-corinthians/11#v33)</sup> And through a window in a basket was I let down by the wall, and escaped his hands.
 
 - In Damascus: So, Paul is saying, I got to run through the resume, cuz maybe they weren't up to speed on Indeed and didn't get a chance to peep his resume.
 
 - Desirous to apprehend me: Get that real quick in Acts 9:24. Hold on. Read verse 33 real quick, then go to Acts 9.
+
+> <sup>[33](/bible/2-corinthians/11#v33)</sup> And through a window in a basket was I let down by the wall, and escaped his hands.
 
 - Through a window in a basket was I let down by the wall, and escaped his hands: He is saying when I was in Damascus, man, they was trying to apprehend me. I had to flee the Centurion guard, and I was let down out of a window teaching the gospel. Now, get the history on that in Acts chapter 9.
 
@@ -180,16 +180,16 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[Acts 9:23-25](/bible/acts/9#v23)**  *[[27:54](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1674s)]*
 
 > <sup>[23](/bible/acts/9#v23)</sup> And after that many days were fulfilled, the Jews took counsel to kill him:
->
-> <sup>[24](/bible/acts/9#v24)</sup> But their laying await was known of Saul. And they watched the gates day and night to kill him.
->
-> <sup>[25](/bible/acts/9#v25)</sup> Then the disciples took him by night, and let him down by the wall in a basket.
 
 - The Jews took counsel to kill him: You see that? The Jews took counsel to kill Paul.
+
+> <sup>[24](/bible/acts/9#v24)</sup> But their laying await was known of Saul. And they watched the gates day and night to kill him.
 
 - But their laying await was known of Saul: So, they was laying await. They was looking to get him. It was already known to him. He already peeped.
 
 - And they watched the gates day and night to kill him: They watched the gates day and night to kill him.
+
+> <sup>[25](/bible/acts/9#v25)</sup> Then the disciples took him by night, and let him down by the wall in a basket.
 
 - Let him down by the wall in a basket: Do you see how wicked our people are? Looking to jam a brother up. They got the Negro Centurion guard out there trying to get Paul.
 
@@ -197,8 +197,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[2 Corinthians 12:1-2](/bible/2-corinthians/12#v1)**  *[[28:40](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1720s)]*
 
 > <sup>[1](/bible/2-corinthians/12#v1)</sup> It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
->
-> <sup>[2](/bible/2-corinthians/12#v2)</sup> I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.
 
 - It is not expedient for me doubtless to glory: So, Paul is saying, "Listen, man, I'm not even trying to flex, cuz it ain't even no profit in doing so, but I got to set the record straight." Cuz the Negroes, sometimes you just got to check a Negro, man. Black people will just get you to go there sometimes.
 
@@ -206,18 +204,14 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 - And revelations of the Lord: And revelations of the Lord.
 
+> <sup>[2](/bible/2-corinthians/12#v2)</sup> I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.
+
 - Such an one caught up to the third heaven: So, he was in the third heaven. So, he's saying, "Listen, I'mma have to just throw a little bit out there for y'all." Now, let's get a little bit of history on that. Give me Acts chapter 14 real quick, cuz Paul had some visions now.
 
 
 **[Acts 14:19-22](/bible/acts/14#v19)**  *[[29:58](https://www.youtube.com/watch?v=Ow7yVnscltg&t=1798s)]*
 
 > <sup>[19](/bible/acts/14#v19)</sup> And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead.
->
-> <sup>[20](/bible/acts/14#v20)</sup> Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
->
-> <sup>[21](/bible/acts/14#v21)</sup> And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
->
-> <sup>[22](/bible/acts/14#v22)</sup> Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.
 
 - And there came thither certain Jews from Antioch: Here go our people, the haters. Always got to have the haters out there.
 
@@ -231,9 +225,15 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 - Drew him out of the city, supposing he had been dead: Right, because after they stoned him, they took him to the outside of the city, cuz he actually died.
 
+> <sup>[20](/bible/acts/14#v20)</sup> Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
+
 - Howbeit, as the disciples stood round about him, he rose up: Meaning what? They stood round about him and prayed his spirit back into him. So, while he was gone for that brief period of time, that's when he was caught up to the third heaven.
 
+> <sup>[21](/bible/acts/14#v21)</sup> And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
+
 - And when they had preached the gospel to that city: Hold on, when they had preached the gospel to that city.
+
+> <sup>[22](/bible/acts/14#v22)</sup> Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.
 
 - Confirming the souls: Doing what? Was confirming the souls. Watch this.
 
@@ -243,10 +243,10 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[2 Corinthians 12:3-4](/bible/2-corinthians/12#v3)**  *[[33:38](https://www.youtube.com/watch?v=Ow7yVnscltg&t=2018s)]*
 
 > <sup>[3](/bible/2-corinthians/12#v3)</sup> And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)
->
-> <sup>[4](/bible/2-corinthians/12#v4)</sup> How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.
 
 - Whether in the body, or out of the body, I cannot tell: So, Paul was talking about his glorified body, but he couldn't tell what state he was in. You understand?
+
+> <sup>[4](/bible/2-corinthians/12#v4)</sup> How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.
 
 - God knoweth; how that he was caught up into paradise: You see that? He was obviously in his glorified body, but he like, "Was it a vision? Was I there?" He couldn't tell. That's why he said, "God knoweth."
 
@@ -279,20 +279,20 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[Acts 9:13-16](/bible/acts/9#v13)**  *[[35:52](https://www.youtube.com/watch?v=Ow7yVnscltg&t=2152s)]*
 
 > <sup>[13](/bible/acts/9#v13)</sup> Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:
->
-> <sup>[14](/bible/acts/9#v14)</sup> And here he hath authority from the chief priests to bind all that call on thy name.
->
-> <sup>[15](/bible/acts/9#v15)</sup> But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
->
-> <sup>[16](/bible/acts/9#v16)</sup> For I will shew him how great things he must suffer for my name’s sake.
 
 - How much evil he hath done to thy saints at Jerusalem: That was the report on Paul, cuz remember when Paul was heading to Damascus, he was looking to lock up the disciples. You understand? Those that was following Christ.
+
+> <sup>[14](/bible/acts/9#v14)</sup> And here he hath authority from the chief priests to bind all that call on thy name.
 
 - And here he hath authority from the chief priests: You see that? So he's like, hold on. In this city here in Damascus, he got authority from the chief priests.
 
 - To bind all that call on thy name: To lock anybody up that is professing the gospel of Christ.
 
+> <sup>[15](/bible/acts/9#v15)</sup> But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
+
 - To bear my name before the Gentiles, and kings: That's why he was in front of King Agrippa and all that.
+
+> <sup>[16](/bible/acts/9#v16)</sup> For I will shew him how great things he must suffer for my name’s sake.
 
 - For I will shew him: I will do what? So the Lord is going to show Paul.
 
@@ -302,10 +302,10 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[2 Corinthians 12:5-6](/bible/2-corinthians/12#v5)**  *[[37:21](https://www.youtube.com/watch?v=Ow7yVnscltg&t=2241s)]*
 
 > <sup>[5](/bible/2-corinthians/12#v5)</sup> Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.
->
-> <sup>[6](/bible/2-corinthians/12#v6)</sup> For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.
 
 - But in mine infirmities: Meaning what? Everything that Paul went through. So when we read about what Paul went through, and Paul made it on the other side, what does that do for us? That boosts our faith. These stories are to boost our faith. Are you like, "Damn, Paul went through all that?" Shipwrecked, beat, no food, no sleep. You understand? Locked up. He made it through all that and stayed true to the end. That's for us, brothers and sisters. That's for our faith.
+
+> <sup>[6](/bible/2-corinthians/12#v6)</sup> For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.
 
 - For though I would desire to glory, I shall not be a fool: So Paul said, I want to boast, but I'm not going to be foolish, cuz when he was writing this response, man, and hearing the report that they said, he like, "Man, I got to stay in the spirit. These some simple-minded brothers that I got to do a little bit of flexing on to get these brothers back in the spirit."
 
@@ -342,12 +342,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[1 Corinthians 4:6-7](/bible/1-corinthians/4#v6)**  *[[42:14](https://www.youtube.com/watch?v=Ow7yVnscltg&t=2534s)]*
 
 > <sup>[6](/bible/1-corinthians/4#v6)</sup> And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
->
-> <sup>[7](/bible/1-corinthians/4#v7)</sup> For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?
 
 - That ye might learn in us not to think of men above that which is written: You see that? Paul was already letting them know, "Listen, don't be boasting on this man. I'm with Paul. I'm with him. I'm with Timothy. I'm with Titus. I'm with Barnabas." All that kind of stuff. Paul, "Listen, bro. Don't puff up no man above what you're supposed to. We are all servants."
 
 - That no one of you be puffed up for one against another: You see that? Watch this. Keep reading.
+
+> <sup>[7](/bible/1-corinthians/4#v7)</sup> For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?
 
 - For who maketh thee to differ from another?: So, who may you differ from another? All that said and done, watch.
 
@@ -370,12 +370,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[Romans 7:8-9](/bible/romans/7#v8)**  *[[44:26](https://www.youtube.com/watch?v=Ow7yVnscltg&t=2666s)]*
 
 > <sup>[8](/bible/romans/7#v8)</sup> But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
->
-> <sup>[9](/bible/romans/7#v9)</sup> For I was alive without the law once: but when the commandment came, sin revived, and I died.
 
 - Wrought in me all manner of concupiscence: Sin taking occasion wrought in him all manner of concupiscence. That's the thorn in the flesh.
 
 - For without the law sin was dead: When Paul had no knowledge of the law, that sin, he didn't know it was there. It was like it was dead.
+
+> <sup>[9](/bible/romans/7#v9)</sup> For I was alive without the law once: but when the commandment came, sin revived, and I died.
 
 - For I was alive without the law once: What? That's letting you know, like, when I didn't know, I thought I was alive. You know what I'm saying? Watch this.
 
@@ -420,21 +420,21 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 **[Hebrews 4:14-16](/bible/hebrews/4#v14)**  *[[50:13](https://www.youtube.com/watch?v=Ow7yVnscltg&t=3013s)]*
 
-> <sup>[14](/bible/hebrews/4#v14)</sup> Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
->
-> <sup>[15](/bible/hebrews/4#v15)</sup> For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
->
-> <sup>[16](/bible/hebrews/4#v16)</sup> Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.
-
 - So, what do we got to draw our strength from? Watch this.
+
+> <sup>[14](/bible/hebrews/4#v14)</sup> Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
 
 - Seeing then that we have a great high priest: Which is Christ.
 
 - Let us hold fast our profession: We got to be professional prophets. A professional just isn't professional on his job. When you look at the highly trained soldiers, the professionals, the Delta Force. You see them guys, them guys are professional. They neat, organized, and all that. It's not just they just show up on the job and just knock it out the park. No. We got to be professionals all throughout every aspect of our life. Cuz that requires discipline, which is a transferable skill set.
 
+> <sup>[15](/bible/hebrews/4#v15)</sup> For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
+
 - For we have not an high priest which cannot be touched with the feeling of our infirmities: Meaning what? Christ went through the same things we went through.
 
 - Yet without sin: Watch this. As a result of having such a high priest that was tempted like us.
+
+> <sup>[16](/bible/hebrews/4#v16)</sup> Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.
 
 - Let us therefore come boldly: Let us do what? That's why Paul was so bold, man. You understand? He knew the mission. He knew what Christ went through. So that's why Paul was so bold, man.
 
@@ -444,8 +444,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[2 Corinthians 12:9-10](/bible/2-corinthians/12#v9)**  *[[53:05](https://www.youtube.com/watch?v=Ow7yVnscltg&t=3185s)]*
 
 > <sup>[9](/bible/2-corinthians/12#v9)</sup> And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
->
-> <sup>[10](/bible/2-corinthians/12#v10)</sup> Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
 
 - My grace is sufficient for thee: You see that? Christ is saying my grace is sufficient for thee. Meaning what? We got to man up.
 
@@ -456,6 +454,8 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 - Most gladly therefore will I rather glory in my infirmities: So Paul is saying I'd rather glory in my infirmities, the things that I've gone through, the things that I battle with, as opposed to the works that I've done, or the status that I used to have. Paul ain't looking to sign up for Coulda Been Records, so you understand.
 
 - That the power of Christ may rest upon me: That the power of who? So that's all that was on Paul's mind. Give me 1 Corinthians 10:13, cuz he alluded to something like this in his first letter. You understand? Exhorting and building a man up.
+
+> <sup>[10](/bible/2-corinthians/12#v10)</sup> Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
 
 - Therefore I take pleasure in infirmities: That's a soldier right there. You know how David Goggins be running and talking about pain? He take pleasure in that thing. We got to get our minds trained like that, but in the spirit. I mean, we got to take pleasure in them things, man. "I went through that for the gospel's sake. Okay, this happened to me, what else?" You understand? We got to have the mindset of a soldier, man. That's what the Lord is building up. It ain't going to be no brother with the limp wrist up in the Lord's army, man. We in formation, he's slapping tambourine. Could you imagine? No, the Lord ain't dealing with that. I'mma tell you straight. He building up men. He's the alpha, he's building up real men. Read it again.
 
@@ -480,17 +480,17 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 **[2 Timothy 2:3-4](/bible/2-timothy/2#v3)**  *[[59:19](https://www.youtube.com/watch?v=Ow7yVnscltg&t=3559s)]*
 
-> <sup>[3](/bible/2-timothy/2#v3)</sup> Thou therefore endure hardness, as a good soldier of Jesus Christ.
->
-> <sup>[4](/bible/2-timothy/2#v4)</sup> No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.
-
 - What Paul is talking about is we got to have the mind of a soldier. We got to adopt the mind of a soldier. All of us, all the things that we going through is like basic training. The Lord puts us through this furnace to purge us, to wipe the slate clean, so he can build the right foundation. So our natural default setting will always be righteousness. That's the whole point of killing the old man, to the point to where your default setting under pressure and persecution, you will default to righteousness, not to wicked. How you think the white man got his training, his boot camp, where he just totally strips you of everything, so your default setting now is a soldier that operates like he's supposed to in the battlefield? Where you think he got that from? That's what the Lord is doing to us.
+
+> <sup>[3](/bible/2-timothy/2#v3)</sup> Thou therefore endure hardness, as a good soldier of Jesus Christ.
 
 - Thou therefore endure hardness: Endure what? Infirmities.
 
 - As a good soldier: Good soldier. The Lord is not looking for some sissies. He's looking for good soldiers. Disciplined men engaged in spiritual warfare.
 
 - Of Jesus Christ: Of who? Right. So, he not running around talking about God bless America or Old Glory. No, he is a soldier in the Lord's army.
+
+> <sup>[4](/bible/2-timothy/2#v4)</sup> No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.
 
 - No man that warreth entangleth himself with the affairs of this life: We all going through it. All of us got bills. We got the economy crashing, $5 a gallon gas. Food prices through the roof. You got to split pay at the grocery store now. Who would ever thought about that? You got to split pay at the gas pump. How do I know? Because guess what? I'm talking from experience. All of us going through it. So, a brother like, "Damn, he got to split pay. He ain't got no money." None of us got money, cuz all that's common unto all of us, family. You understand that? Let's just keep it real. We got to keep it real, man. We all dealing with it.
 
@@ -502,8 +502,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[2 Corinthians 12:11-12](/bible/2-corinthians/12#v11)**  *[[1:01:32](https://www.youtube.com/watch?v=Ow7yVnscltg&t=3692s)]*
 
 > <sup>[11](/bible/2-corinthians/12#v11)</sup> I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.
->
-> <sup>[12](/bible/2-corinthians/12#v12)</sup> Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
 
 - I am become a fool in glorying: So, Paul said, "Y'all got me out here looking crazy, cuz I got to boast. I got to show y'all my resume." Paul wasn't even trying to deal with them on that level. He was trying to edify, build the brothers up, but they were so disrespectful. Paul said, "Y'all got me looking crazy. I got to show y'all what I went through for the gospel's sake to build you men up."
 
@@ -515,6 +513,8 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 
 - Though I be nothing: Paul said, "I ain't nobody."
 
+> <sup>[12](/bible/2-corinthians/12#v12)</sup> Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
+
 - Truly the signs of an apostle were wrought among you: Paul saying, "Truly, the signs of apostle was wrought among you."
 
 - In all patience: And all patience.
@@ -525,18 +525,18 @@ tags: ["15 Minutes w/ The Captains", "faith", "heaven-hell"]
 **[Acts 18:1-4](/bible/acts/18#v1)**  *[[1:02:49](https://www.youtube.com/watch?v=Ow7yVnscltg&t=3769s)]*
 
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
->
-> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
->
-> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
->
-> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
 - And came to Corinth: Came where? So, he came to Corinth.
 
+> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
+
 - And came unto them: So, what are they talking about, he was out there teaching the white man? Listen, Paul was in Corinth teaching the Jews, brother. Watch what he's going to say.
 
+> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
+
 - And because he was of the same craft: Tent makers. Paul went from being like on the status of, I don't even know who to compare him to now. He was up there in the high levels of the government, rich and famous. He had to get a job as a tent maker. Humbled all the way down. He picked up and learned the trade. So, some of you keyboard warriors out there, when AI come, brother, you might have to pick up the shovel. It's okay, brother.
+
+> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
 - And he reasoned in the synagogue: He reasoned where? That lets you know where Paul was going, to the synagogue, where the Jews or the Israelites resort.
 

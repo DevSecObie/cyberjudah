@@ -89,19 +89,19 @@ Let's get into it.
 
 **[1 Maccabees 1:41-43](/bible/1-maccabees/1#v41)**  *[[6:03](https://www.youtube.com/watch?v=Cac3mtNbgmo&t=363s)]*
 
-> <sup>[41](/bible/1-maccabees/1#v41)</sup> Moreover king Antiochus wrote to his whole kingdom, that all should be one people,
->
-> <sup>[42](/bible/1-maccabees/1#v42)</sup> And every one should leave his laws: so all the heathen agreed according to the commandment of the king.
->
-> <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
-
 - Now let us unpack it a little further, because in Ephesians 2:11 they were called Gentiles in the flesh, called the uncircumcision.
 
 - Moreover king Antiochus wrote to his whole kingdom, that all should be one people.
 
+> <sup>[41](/bible/1-maccabees/1#v41)</sup> Moreover king Antiochus wrote to his whole kingdom, that all should be one people,
+>
+> <sup>[42](/bible/1-maccabees/1#v42)</sup> And every one should leave his laws: so all the heathen agreed according to the commandment of the king.
+
 - And every one should leave his laws: so all the heathen agreed according to the commandment of the king.
 
 - Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
+
+> <sup>[43](/bible/1-maccabees/1#v43)</sup> Yea, many also of the Israelites consented to his religion, and sacrificed unto idols, and profaned the sabbath.
 
 **[1 Maccabees 1:48-50](/bible/1-maccabees/1#v48)**  *[[6:26](https://www.youtube.com/watch?v=Cac3mtNbgmo&t=386s)]*
 

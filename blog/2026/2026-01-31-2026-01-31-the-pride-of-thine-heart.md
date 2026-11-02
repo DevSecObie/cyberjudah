@@ -191,8 +191,6 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 **[Proverbs 6:16-17](/bible/proverbs/6#v16)**  *[[1:03:09](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=3789s)]*
 
 > <sup>[16](/bible/proverbs/6#v16)</sup> These six things doth the Lord hate: yea, seven are an abomination unto him:
->
-> <sup>[17](/bible/proverbs/6#v17)</sup> A proud look, a lying tongue, and hands that shed innocent blood,
 
 - These six things doth the Lord hate, yea, seven are an abomination unto him: first, a proud look. God made your eyes and told you not to lust with them, yet a man tells him what his eyes are for.
 
@@ -203,6 +201,8 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
     > <sup>[18](/bible/proverbs/16#v18)</sup> Pride goeth before destruction, and an haughty spirit before a fall.
 
     Pride goeth before destruction, and an haughty spirit before a fall.
+
+> <sup>[17](/bible/proverbs/6#v17)</sup> A proud look, a lying tongue, and hands that shed innocent blood,
 
 
 *[[1:06:23](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=3983s)]* **In The News: A young man explains that 'pride comes before the fall' is a warning: when you catch yourself feeling yourself and puffing your chest out, choose to be humble and loving.** — When you see someone fall off, there was pride in them, even if they masked it as confidence.
@@ -556,7 +556,13 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 **[Jeremiah 49:7-18](/bible/jeremiah/49#v7)**  *[[1:47:04](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6424s)]*
 
 > <sup>[7](/bible/jeremiah/49#v7)</sup> Concerning Edom, thus saith the Lord of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?
->
+
+- Concerning Edom: is wisdom no more in Teman? I have made Esau bare, I have uncovered his secret places. The prophets are back on the earth showing who he is.
+
+- They whose judgment was not to drink of the cup have drunken; Israel drank it for our pride, and Edom shall not go unpunished. Thy terribleness hath deceived thee, and the pride of thine heart: though thou make thy nest as high as the eagle, I will bring thee down from thence.
+
+- The moon landing in 1969 is when the Israelites began to hit the streets; since he set his nest in the stars, Esau has been coming down, and every Israelite gathered is his kingdom falling. Edom shall be a desolation, as in the overthrow of Sodom and Gomorrah, where pride and strange flesh were found.
+
 > <sup>[8](/bible/jeremiah/49#v8)</sup> Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time that I will visit him.
 >
 > <sup>[9](/bible/jeremiah/49#v9)</sup> If grapegatherers come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough.
@@ -578,12 +584,6 @@ tags: ["IUIC in the ClassRoom", "edom-esau", "false-religion", "pride", "sabbath
 > <sup>[17](/bible/jeremiah/49#v17)</sup> Also Edom shall be a desolation: every one that goeth by it shall be astonished, and shall hiss at all the plagues thereof.
 >
 > <sup>[18](/bible/jeremiah/49#v18)</sup> As in the overthrow of Sodom and Gomorrah and the neighbour cities thereof, saith the Lord, no man shall abide there, neither shall a son of man dwell in it.
-
-- Concerning Edom: is wisdom no more in Teman? I have made Esau bare, I have uncovered his secret places. The prophets are back on the earth showing who he is.
-
-- They whose judgment was not to drink of the cup have drunken; Israel drank it for our pride, and Edom shall not go unpunished. Thy terribleness hath deceived thee, and the pride of thine heart: though thou make thy nest as high as the eagle, I will bring thee down from thence.
-
-- The moon landing in 1969 is when the Israelites began to hit the streets; since he set his nest in the stars, Esau has been coming down, and every Israelite gathered is his kingdom falling. Edom shall be a desolation, as in the overthrow of Sodom and Gomorrah, where pride and strange flesh were found.
 
 
 *[[1:51:32](https://www.youtube.com/watch?v=_zOB4Ip0MNk&t=6692s)]* **In The News: Trump, asked what could check his power on the world stage, answers: 'My own morality, my own mind. It's the only thing that can stop me.'** — He sounds just like Antiochus speaking proudly. God answered with a diagnosis of chronic venous insufficiency in his legs: not life-threatening, because he still has prophecy to fulfil, but a touch to say I heard you.

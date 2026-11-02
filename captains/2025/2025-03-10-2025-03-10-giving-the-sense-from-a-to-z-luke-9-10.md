@@ -32,12 +32,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 **[Luke 9:7-9](/bible/luke/9#v7)**  *[[4:26](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=266s)]*
 
 > <sup>[7](/bible/luke/9#v7)</sup> Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;
->
+
+- Now Herod the tetrarch heard of all that was done by him: So Captain Matthew from DC, he finished off at verse 9, but I'm going to start back up at verse 7.
+
 > <sup>[8](/bible/luke/9#v8)</sup> And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.
 >
 > <sup>[9](/bible/luke/9#v9)</sup> And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.
-
-- Now Herod the tetrarch heard of all that was done by him: So Captain Matthew from DC, he finished off at verse 9, but I'm going to start back up at verse 7.
 
 - And he desired to see him: Right. So it's a reason why I wanted to read those verses. Captain Matthew went over them, right? He went to the account of Herod beheading John the Baptist and so on and so forth, but I wanted to start these verses for a reason.
 
@@ -90,34 +90,34 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 **[Mark 6:27-34](/bible/mark/6#v27)**  *[[9:59](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=599s)]*
 
 > <sup>[27](/bible/mark/6#v27)</sup> And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,
->
-> <sup>[28](/bible/mark/6#v28)</sup> And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.
->
-> <sup>[29](/bible/mark/6#v29)</sup> And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb.
->
-> <sup>[30](/bible/mark/6#v30)</sup> And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.
->
-> <sup>[31](/bible/mark/6#v31)</sup> And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.
->
-> <sup>[32](/bible/mark/6#v32)</sup> And they departed into a desert place by ship privately.
->
-> <sup>[33](/bible/mark/6#v33)</sup> And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.
->
-> <sup>[34](/bible/mark/6#v34)</sup> And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.
 
 - And immediately the king sent an executioner: Right. So this is talking about when he actually cut off John the Baptist head. Like I said, the full account is from the verse that we read, verse 14. When you keep reading, it give the whole scene, right? So we just getting to the point of when he ordered the executioner to cut off John the Baptist head.
 
 - And he went and beheaded him in prison: So he beheaded John the Baptist.
 
+> <sup>[28](/bible/mark/6#v28)</sup> And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.
+
 - And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother: Because the mother is the one that told her daughter to make the request, because John the Baptist rebuked her.
+
+> <sup>[29](/bible/mark/6#v29)</sup> And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb.
 
 - And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb: So that's the part that Luke don't mention. That's one of the parts that Luke doesn't mention in the account, because it's the same account. So when the disciples, because you got some dumb Israelites and, you know, whoever else, they say John the Baptist wasn't in the truth. They said John the Baptist wasn't a believer. But read that verse again, 29.
 
 - And when his disciples heard of it: When the disciples of Christ heard that John the Baptist was beheaded, they came and took up his corpse and laid it in a tomb. So John the Baptist was not an enemy of Christ. He didn't fall out the truth. No, that was Christ cousin.
 
+> <sup>[30](/bible/mark/6#v30)</sup> And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.
+
 - And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught: So this goes back to Luke 9. Like I said, you got to bring these accounts together to get the fullness of what was going on. In Luke 9 we just read Herod said what he said, and the brothers went back to Christ and reported what had happened. But what they also did in between that time was bury their brother, John the Baptist.
 
+> <sup>[31](/bible/mark/6#v31)</sup> And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.
+>
+> <sup>[32](/bible/mark/6#v32)</sup> And they departed into a desert place by ship privately.
+>
+> <sup>[33](/bible/mark/6#v33)</sup> And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.
+
 - And the people saw them departing, and many knew him: Right. So they saw this, add a little bit more detail, right? They got on the ship, the people saw the ship moving, so they basically bum rushed Christ.
+
+> <sup>[34](/bible/mark/6#v34)</sup> And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.
 
 - And Jesus, when he came out, saw much people, and was moved with compassion toward them: Right. So it's saying the same thing we read in Luke 9 when it say he spake unto them the kingdom of God and healed many that was sick. This is given a little bit more detail, a little bit more descriptive. It said when he came out and saw much people, he was what? Moved with compassion toward them. Why? Because they were as sheep not having a shepherd.
 
@@ -131,20 +131,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 **[Ezekiel 37:21-24](/bible/ezekiel/37#v21)**  *[[15:25](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=925s)]*
 
 > <sup>[21](/bible/ezekiel/37#v21)</sup> And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
->
-> <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
->
-> <sup>[23](/bible/ezekiel/37#v23)</sup> Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
->
-> <sup>[24](/bible/ezekiel/37#v24)</sup> And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.
 
 - And will gather them on every side, and bring them into their own land: And I will make them one nation in the land upon the mountains of Israel. Right, because a lot of Israelites, when you read Acts 2, it lets you know, even though it was Israelites occupying the land of Judea and Samaria at that time, for one, we was under Roman jurisdiction, you understand? Herod was the ruler, right? And a lot of our people was still scattered. Like I said, Acts 2 tells you it was Jews coming from every nation under heaven. So we were not all gathered from the lands of the heathen. It was a remnant in the land, and we were still captive in the land. We was under Roman subjection. And the kingdom was still split, by the way. So verse 22 says, I will make them one nation in the land upon the mountains of Israel.
+
+> <sup>[22](/bible/ezekiel/37#v22)</sup> And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
 
 - And one king shall be king to them all: And that's Christ.
 
 - Neither shall they be divided into two kingdoms any more at all: So the Lord is going to unite the two kingdoms. In the New Testament it's called the Jews and Gentiles. Yes, the Gentiles in the New Testament is talking about the kingdom of Israel, or Ephraim, that was cut off.
 
+> <sup>[23](/bible/ezekiel/37#v23)</sup> Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
+
 - And will cleanse them: And will what? Cleanse them. Right, that's why you got the parable in Acts 10 dealing with Cornelius: what God hath cleansed, call not thou coming. Cornelius was a fulfillment of God cleansing the northern kingdom of Israel, this prophecy.
+
+> <sup>[24](/bible/ezekiel/37#v24)</sup> And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.
 
 - And they all shall have one shepherd: They all shall have what? One shepherd. They all shall have one shepherd. So in the kingdom of God, all 12 tribes are going to be united and have one shepherd. Remember the account that we reading, in that desert place that belong to Bethsaida: Christ saw them as what? Sheep not having a shepherd. And that moved him to do what? Preach unto them the kingdom of God, because in the kingdom of God we're going to be unified under that one shepherd, you understand? I hope it all makes sense.
 
@@ -154,24 +154,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 **[Luke 9:12-17](/bible/luke/9#v12)**  *[[19:06](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=1146s)]*
 
 > <sup>[12](/bible/luke/9#v12)</sup> And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place.
->
+
+- Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place: So the disciples went to Christ and was like, hey, go ahead and let the people go into the towns that they came from, so they can get some food and lodging or whatever, cuz we in a desert place. It's nowhere for them to get vid.
+
 > <sup>[13](/bible/luke/9#v13)</sup> But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people.
->
+
+- We have no more but five loaves and two fishes; except we should go and buy meat for all this people: So Christ was like, y'all feed them. They ain't got to go nowhere, y'all feed them. And they was like, Lord, we ain't got nothing but what? Five loaves and two fish. That ain't enough for these people.
+
 > <sup>[14](/bible/luke/9#v14)</sup> For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.
->
+
+- For they were about five thousand men: Cuz it was 5,000 people to feed. They a had nothing but five loaves and two fish.
+
+- Make them sit down by fifties in a company: Right, meaning sit them down in ranks, right? Order them in ranks.
+
 > <sup>[15](/bible/luke/9#v15)</sup> And they did so, and made them all sit down.
 >
 > <sup>[16](/bible/luke/9#v16)</sup> Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude.
 >
 > <sup>[17](/bible/luke/9#v17)</sup> And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets.
-
-- Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place: So the disciples went to Christ and was like, hey, go ahead and let the people go into the towns that they came from, so they can get some food and lodging or whatever, cuz we in a desert place. It's nowhere for them to get vid.
-
-- We have no more but five loaves and two fishes; except we should go and buy meat for all this people: So Christ was like, y'all feed them. They ain't got to go nowhere, y'all feed them. And they was like, Lord, we ain't got nothing but what? Five loaves and two fish. That ain't enough for these people.
-
-- For they were about five thousand men: Cuz it was 5,000 people to feed. They a had nothing but five loaves and two fish.
-
-- Make them sit down by fifties in a company: Right, meaning sit them down in ranks, right? Order them in ranks.
 
 - And there was taken up of fragments that remained to them twelve baskets: So the 5,000, they got full. They didn't have no, excuse me, no skimp plates. They got four and still had 12 baskets of food left over. So this is one of the more notable miracles of Christ, but this was not something that happened for the first time. We always read the scripture of First Peter, by his spirit being in the prophets. Well, that's beyond just the aspect of prophesying. The Lord did marvelous works through the prophets of four time. Let's get Second Kings chapter 4.
 
@@ -181,22 +181,22 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 > <sup>[1](/bible/2-kings/4#v1)</sup> Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the Lord: and the creditor is come to take unto him my two sons to be bondmen.
 >
 > <sup>[2](/bible/2-kings/4#v2)</sup> And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil.
->
+
+- Tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil: I ain't got nothing but a pot of ear.
+
 > <sup>[3](/bible/2-kings/4#v3)</sup> Then he said, Go, borrow thee vessels abroad of all thy neighbours, even empty vessels; borrow not a few.
->
+
+- Borrow thee vessels abroad of all thy neighbours, even empty vessels; borrow not a few: So the prophet Elisha in the Old Testament is telling this lady, hey, go and get a whole bunch of pots from everybody that you know that'll let you borrow some. Get as many as you can.
+
 > <sup>[4](/bible/2-kings/4#v4)</sup> And when thou art come in, thou shalt shut the door upon thee and upon thy sons, and shalt pour out into all those vessels, and thou shalt set aside that which is full.
 >
 > <sup>[5](/bible/2-kings/4#v5)</sup> So she went from him, and shut the door upon her and upon her sons, who brought the vessels to her; and she poured out.
 >
 > <sup>[6](/bible/2-kings/4#v6)</sup> And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, There is not a vessel more. And the oil stayed.
->
-> <sup>[7](/bible/2-kings/4#v7)</sup> Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy children of the rest.
-
-- Tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil: I ain't got nothing but a pot of ear.
-
-- Borrow thee vessels abroad of all thy neighbours, even empty vessels; borrow not a few: So the prophet Elisha in the Old Testament is telling this lady, hey, go and get a whole bunch of pots from everybody that you know that'll let you borrow some. Get as many as you can.
 
 - And he said unto her, There is not a vessel more. And the oil stayed: Right, so he said it ain't no more vessels. So she got so much, she needs somewhere else to put the remaining earth. Like, it ain't no more.
+
+> <sup>[7](/bible/2-kings/4#v7)</sup> Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy children of the rest.
 
 - Go, sell the oil, and pay thy debt, and live thou and thy children of the rest: So all she had was a little bit of earl, but Elisha multiplied what she had to the point to where she had enough left over to go and sell, so she could pay off the debt in which she was distressed about in verse 1, you understand? So Elisha did, he multiplied the ear that the woman had. Now jump down to verse 42.
 
@@ -204,16 +204,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 **[2 Kings 4:42-44](/bible/2-kings/4#v42)**  *[[23:19](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=1399s)]*
 
 > <sup>[42](/bible/2-kings/4#v42)</sup> And there came a man from Baal–shalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat.
->
-> <sup>[43](/bible/2-kings/4#v43)</sup> And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the Lord, They shall eat, and shall leave thereof.
->
-> <sup>[44](/bible/2-kings/4#v44)</sup> So he set it before them, and they did eat, and left thereof, according to the word of the Lord.
 
 - And brought the man of God bread of the firstfruits, twenty loaves: So this man brought 20 loaves.
+
+> <sup>[43](/bible/2-kings/4#v43)</sup> And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the Lord, They shall eat, and shall leave thereof.
 
 - And his servitor said, What, should I set this before an hundred men?: This ain't enough to feed a hundred men.
 
 - He said again, Give the people, that they may eat: Man, feed them folks.
+
+> <sup>[44](/bible/2-kings/4#v44)</sup> So he set it before them, and they did eat, and left thereof, according to the word of the Lord.
 
 - And left thereof, according to the word of the Lord: Meaning they had leftovers. So you got basically enough for a serving or two, and you like, I got 100 people to feed. The man of God telling you, bro, feed the people. And he fed them, and there was enough left over after everybody got full. So again, what Christ did was not new. His spirit was already operating in the prophets of four time. All right, but anyway, let's go back to Luke chapter 9. Let's read verse 18.
 
@@ -255,16 +255,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 **[2 Maccabees 15:11-14](/bible/2-maccabees/15#v11)**  *[[27:00](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=1620s)]*
 
 > <sup>[11](/bible/2-maccabees/15#v11)</sup> Thus he armed every one of them, not so much with defence of shields and spears, as with comfortable and good words: and beside that, he told them a dream worthy to be believed, as if it had been so indeed, which did not a little rejoice them.
->
-> <sup>[12](/bible/2-maccabees/15#v12)</sup> And this was his vision: That Onias, who had been high priest, a virtuous and a good man, reverend in conversation, gentle in condition, well spoken also, and exercised from a child in all points of virtue, holding up his hands prayed for the whole body of the Jews.
->
-> <sup>[13](/bible/2-maccabees/15#v13)</sup> This done, in like manner there appeared a man with gray hairs, and exceeding glorious, who was of a wonderful and excellent majesty.
->
-> <sup>[14](/bible/2-maccabees/15#v14)</sup> Then Onias answered, saying, This is a lover of the brethren, who prayeth much for the people, and for the holy city, to wit, Jeremias the prophet of God.
 
 - Beside that, he told them a dream worthy to be believed, as if it had been so indeed, which did not a little rejoice them: So this is Judas Maccabeus exhorting the brothers to battle, and he tells them a dream that he had. Watch this.
 
+> <sup>[12](/bible/2-maccabees/15#v12)</sup> And this was his vision: That Onias, who had been high priest, a virtuous and a good man, reverend in conversation, gentle in condition, well spoken also, and exercised from a child in all points of virtue, holding up his hands prayed for the whole body of the Jews.
+>
+> <sup>[13](/bible/2-maccabees/15#v13)</sup> This done, in like manner there appeared a man with gray hairs, and exceeding glorious, who was of a wonderful and excellent majesty.
+
 - There appeared a man with gray hairs, and exceeding glorious, who was of a wonderful and excellent majesty: Then Onias answered, saying, This is a lover of the brethren. So this man with gray hair is, and exceeding glorious, of a wonderful and excellent majesty, this is a lover of the brethren.
+
+> <sup>[14](/bible/2-maccabees/15#v14)</sup> Then Onias answered, saying, This is a lover of the brethren, who prayeth much for the people, and for the holy city, to wit, Jeremias the prophet of God.
 
 - And for the holy city, to wit, Jeremias the prophet of God: Who is this? Jeremiah is the prophet of God. So Judas Maccabeus in his dream saw Jeremiah the prophet of God alive, in his glory.
 
@@ -312,12 +312,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "health", "leadership", "salvatio
 **[2 Esdras 7:28-29](/bible/2-esdras/7#v28)**  *[[32:36](https://www.youtube.com/watch?v=RN0FM7YgHOk&t=1956s)]*
 
 > <sup>[28](/bible/2-esdras/7#v28)</sup> For my son Jesus shall be revealed with those that be with him, and they that remain shall rejoice within four hundred years.
->
-> <sup>[29](/bible/2-esdras/7#v29)</sup> After these years shall my son Christ die, and all men that have life.
 
 - For my son Jesus: So the Lord is saying, my son Jesus.
 
 - And they that remain shall rejoice within four hundred years: 400 years from the time he's speaking to Ezra, right? So it was 400 years from the time of Persia to Christ.
+
+> <sup>[29](/bible/2-esdras/7#v29)</sup> After these years shall my son Christ die, and all men that have life.
 
 - After these years shall my son Christ die: So after he is revealed, he says my son Christ. So how was Peter able to say thou art the Christ, the son of the living God? Because in Second Esdras he calls his son that he's going to send, he calls him Christ.
 

@@ -216,17 +216,15 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "satan", "the-word"]
 
 **[Luke 4:5-8](/bible/luke/4#v5)**  *[[34:13](https://www.youtube.com/watch?v=YJul-DF76kw&t=2053s)]*
 
+- Hey, you may say, well, what race of men follow Satan? I'll show you. Let's go to the Book of Luke. You know we got precept for days; this one of my favorite subjects, so I mean we can go all day literally. Luke chapter 4, let's start at verse five, watch this. Luke 4:5, this is Christ encounter with the spiritual demon Satan.
+
 > <sup>[5](/bible/luke/4#v5)</sup> And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time.
 >
 > <sup>[6](/bible/luke/4#v6)</sup> And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it.
->
-> <sup>[7](/bible/luke/4#v7)</sup> If thou therefore wilt worship me, all shall be thine.
->
-> <sup>[8](/bible/luke/4#v8)</sup> And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
-
-- Hey, you may say, well, what race of men follow Satan? I'll show you. Let's go to the Book of Luke. You know we got precept for days; this one of my favorite subjects, so I mean we can go all day literally. Luke chapter 4, let's start at verse five, watch this. Luke 4:5, this is Christ encounter with the spiritual demon Satan.
 
 - And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time. And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it: So the devil is telling Christ, all these things I can give you while you're here in the flesh, I can give you these things, cuz it's been delivered unto me, and I can give it to whoever I want to give it to. Meaning all the conquering of this Earth, the rulership of this Earth, I can give it to you, the riches of this Earth, you can have it all.
+
+> <sup>[7](/bible/luke/4#v7)</sup> If thou therefore wilt worship me, all shall be thine.
 
 - If thou therefore wilt worship me, all shall be thine: Watch this, verse 7. And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. So Christ come back and say no, no, I'm only to worship the Lord, we are only to worship God. But the devil said if you worship me, all can be yours. So if Christ rejected it, then who took it? I'mma say it again: if Christ said no, I'm only worshiping the Lord, but the Bible says whoever worships Satan is going to be the one that rule the Earth. And Rome was ruling the Earth at that time, and after Rome you had Spain and Greece, France, all these different places, even all way to the United States of America. Who is that telling you that these places worship today? Cuz Christ said no, I ain't doing that, I don't want the riches of the world and all that, this ain't my kingdom, this ain't my time. But he said, to whosoever I will I give it. So who run the Earth today? What race of people run the Earth today, and what did they have to do to rule it? Dad the wor of Satan.
 
@@ -237,6 +235,8 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "satan", "the-word"]
     > <sup>[24](/bible/job/9#v24)</sup> The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
 
     Watch this, Job 9:24, here's a prophecy. That's why I love prophecy, because y'all be trying to, you're reading that out of context. Don't you know that prophecy is forever? God's word is everlasting, ever living. I could read something during the time of Genesis and it could still be going on today, like the woman's Minstrel. It was a prophecy when he said, look, from here on out you're going to bleed every month, and now every woman on the planet Earth bleed every month, it's still happening, more children are coming. Cuz Eve didn't bleed in the garden; it wasn't until she was kicked out of the garden that she had her first menstrual cycle and went through pain, had to bring forth children and sorrow. Before that she just pop them out; now it's pain, you understand. Job 9:24: The earth is given into the hand of the wicked: he covereth the faces of the judges thereof. So you looking at black men, it's insignificant, noodies, drug addicts, villains, you know what I'm saying, uneducated, their kids not good fathers, dead Beast, down trotting, jail birds, the athletes, rappers, drill rappers, thugs. You looking at us as all of that, but the Bible says we are the judges of the earth. They made sure to change all the black biblical imagery to show you the white man being God, the white man being Jesus, the white man being the angels, the white man being Moses, the white man this and the white man that. If you don't believe it, jump out the chat, it don't mind make us none. When we say it, that's what it mean. When we bring out the scriptures, we just put it there, just like Christ put it there. We don't debate back and forth whether you believe or not; you can kick rocks, we ain't going to stop teaching this.
+
+> <sup>[8](/bible/luke/4#v8)</sup> And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
 
 
 **[Revelation 20:3](/bible/revelation/20#v3)**  *[[42:22](https://www.youtube.com/watch?v=YJul-DF76kw&t=2542s)]*
@@ -390,30 +390,28 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "satan", "the-word"]
 
 **[Matthew 19:16-19](/bible/matthew/19#v16)**  *[[1:11:04](https://www.youtube.com/watch?v=YJul-DF76kw&t=4264s)]*
 
+- Matthew chapter 19 verse 27, no, verse 19, verse 16, watch this. And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life? And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
+
 > <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
 >
 > <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
->
-> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
->
-> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
-
-- Matthew chapter 19 verse 27, no, verse 19, verse 16, watch this. And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life? And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
 
 - If thou wilt enter into life, keep the commandments: That's simple. If you want to get into eternal life, keep the commandments. Keep the commandments, it's that simple. Y'all making it complicated. Just keep God's commandments, y'all, that's it, that's all you got to do: keep the commandments with the faith in the Son of God. Keep the commandments and the faith in the Son of God.
 
 - Verse 18. Somebody said they like the fact that I stopped reading. We don't run from scripture, you don't know us. He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
+
+> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
+>
+> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
 
 - Thou shalt love thy neighbour as thyself: It don't say nothing about pork right there. I know what the argument is: it don't say anything about pork right there, it doesn't say anything about the Sabbath, I mean, you know, it doesn't say anything about any of those things right there, it just says to love your neighbor as yourself, and you know, that's pretty much it, man; so you guys are teaching feast days and you're teaching fringes and you're teaching this and that, and a woman can't wear this. I know what you dumb Christians going to come with, but let me ask you a question. Love your neighbor as yourself is not in the Ten Commandments. Love your neighbor as yourself as in Leviticus 19:17. I'm going go to Leviticus 19:17-18 and I'm going to explain that, and then I'm going to explain how to love your neighbor as yourself, for you dumb dums in the comments.
 
 
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[1:13:30](https://www.youtube.com/watch?v=YJul-DF76kw&t=4410s)]*
 
-> <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
->
-> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
-
 - Leviticus chapter 19 and let's read verse 17, where it was first quoted. Leviticus 19 verse 17: Thou shalt not hate thy brother in thine heart: like we saw in the comments a minute ago. Thou shalt in any wise rebuke thy neighbour: meaning what? Correct your neighbor. And not suffer sin upon him: wait a minute, wait a minute. To love your neighbor as yourself is to not suffer sin upon him. What is sin? Hold up, hold up, hold up, you not putting through the scriptures all quick. What is sin? What is sin that you're not supposed to suffer upon your neighbor?
+
+> <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
 
 - Not suffer sin upon him: Wait a minute: Leviticus 19:17, thou shalt not hate thy brother in thy heart, thou shalt in any wise rebuke thy neighbor and not suffer sin upon him. Sin is the transgression of the law. So wait, wait, wait, so if I love my neighbor, let me see, let me see, if I love my neighbor, then Leviticus 11:7.
 
@@ -441,18 +439,18 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "satan", "the-word"]
 
     Leviticus chapter, or Deuteronomy 14 verse 21: Ye shall not eat of any thing that dieth of itself: the ye is the Israelite; the Israelite shall not eat of anything that dieth of itself. Thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the Lord thy God.
 
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
+
 
 **[Romans 13:8-10](/bible/romans/13#v8)**  *[[1:18:27](https://www.youtube.com/watch?v=YJul-DF76kw&t=4707s)]*
-
-> <sup>[8](/bible/romans/13#v8)</sup> Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.
->
-> <sup>[9](/bible/romans/13#v9)</sup> For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.
->
-> <sup>[10](/bible/romans/13#v10)</sup> Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.
 
 - Revelation, or Romans excuse me, 13 and 10, it says, Love worketh no ill to his neighbour: therefore love is the fulfilling of the law. What is love? We just read it: loving your neighbor as yourself is not suffering sin upon your brother or your sister.
 
 - Verse 11, and that, knowing the time... no, what I want, verse eight excuse me: Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law. For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.
+
+> <sup>[8](/bible/romans/13#v8)</sup> Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.
+>
+> <sup>[9](/bible/romans/13#v9)</sup> For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.
 
 - It is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself: So guess what: when you celebrate the feast days, you love your neighbor as yourself. When you exhort your brother to celebrate the feast days, you love your neighbor as yourself. When you tell a sister, according to Deuteronomy 22:5 and 1 Timothy chapter 2, you are not to wear that which pertaineth unto a man, you're supposed to wear modest apparel, you're supposed to wear dressis: that's loving your neighbor as yourself. You ain't supposed to eat that, that's unclean to you, is going to defile your body, do not eat that, God says an abomination: they stop eating it, that's you showing love. All the other commandments are comprehended in one saying, thou shalt love thy neighbor as thyself. If you do that, you're teaching them all the commandments.
 
@@ -463,6 +461,8 @@ tags: ["15 Minutes w/ The Captains", "heaven-hell", "satan", "the-word"]
     > <sup>[5](/bible/deuteronomy/22#v5)</sup> The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so are abomination unto the Lord thy God.
 
     When you tell a sister, according to Deuteronomy 22:5 and 1 Timothy chapter 2, you are not to wear that which pertaineth unto a man, you're supposed to wear modest apparel, you're supposed to wear dresses: that's loving your neighbor as yourself.
+
+> <sup>[10](/bible/romans/13#v10)</sup> Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.
 
 
 ## In Closing

@@ -53,10 +53,10 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Psalms 1:1-2](/bible/psalms/1#v1)**  *[[6:45](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=405s)]*
 
 > <sup>[1](/bible/psalms/1#v1)</sup> Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
->
-> <sup>[2](/bible/psalms/1#v2)</sup> But his delight is in the law of the Lord; and in his law doth he meditate day and night.
 
 - Blessed is the man that walketh not in the counsel of the ungodly: Let's go to the Book of Psalms chapter 1. The Book of Psalms chapter 1, and I'm going to read verse one. Watch this.
+
+> <sup>[2](/bible/psalms/1#v2)</sup> But his delight is in the law of the Lord; and in his law doth he meditate day and night.
 
 - And in his law doth he meditate day and night: So you cannot forget that you must meditate in God's laws day and night. I'll give you an example. You're struggling with marijuana. All right, it's a real struggle for you, something you feel like you can't put down. Well, meditation in God's laws and then applying God's laws is going to help you overcome that. The word of God is strong enough to help you and I overcome our struggles. You're going through depression, the Bible can help you. You're going through anxiety, the Bible can help you, right?
 
@@ -105,10 +105,10 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Luke 3:12-13](/bible/luke/3#v12)**  *[[10:39](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=639s)]*
 
 > <sup>[12](/bible/luke/3#v12)</sup> Then came also publicans to be baptized, and said unto him, Master, what shall we do?
->
-> <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
 
 - Then came also publicans to be baptized: Now, the publicans were tax collectors. They were hated because the publicans would also always use usury, meaning the publicans would, you would owe Rome 100 shekels, the publicans would charge you 125, give Rome their 100 and take 25 off of you. They will oppress the people. So people didn't like the publicans, y'all. They didn't, you understand?
+
+> <sup>[13](/bible/luke/3#v13)</sup> And he said unto them, Exact no more than that which is appointed you.
 
 - Exact no more than that which is appointed you: So John knew that they were stealing. John knew that they were oppressing the people. He said, don't exact more than what is commanded you. You have been told by Rome to exact 30 shekel for Roman taxes, just take 30 shekels. Don't take 50, don't take 75, don't take a 100 trying to line your own pockets. Somebody tell these pastors that today. Somebody tell your pastor, stop extorting God's people.
 
@@ -129,10 +129,10 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Luke 3:15-16](/bible/luke/3#v15)**  *[[14:18](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=858s)]*
 
 > <sup>[15](/bible/luke/3#v15)</sup> And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;
->
-> <sup>[16](/bible/luke/3#v16)</sup> John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:
 
 - And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not: So that show you that John the Baptist was a mighty man, because they were trying to figure out, is this dude the Christ? Cause the way he speak with authority and the way he command these spirits, it look like he might be the one we've been waiting on. But John had to make it clear that he was not the Christ, right?
+
+> <sup>[16](/bible/luke/3#v16)</sup> John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:
 
 - He shall baptize you with the Holy Ghost and with fire: So he said, look, there's somebody coming after me. I'm not worthy of loosing the latchet on his shoes. He going to baptize you with fire and with the Holy Ghost. What does it mean that Christ is going to baptize with fire and the Holy Ghost? In order for you to go there, or to understand that, you have to go back. Well, matter of fact, in verse 17 it tell you.
 
@@ -156,12 +156,12 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Mark 9:43-45](/bible/mark/9#v43)**  *[[16:42](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=1002s)]*
 
 > <sup>[43](/bible/mark/9#v43)</sup> And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:
->
+
+- And if thy hand offend thee, cut it off: The Book of Mark chapter 9, this is Christ speaking, Mark chapter 9 verse 43. So Christ is going to come with that fire, and if you don't repent, he going to throw you in that fire. That's what it's saying. You gonna feel that fire. Either you gonna get right and receive the Holy Spirit, or you gonna get that fire, that fire that burn, you understand? He ain't playing.
+
 > <sup>[44](/bible/mark/9#v44)</sup> Where their worm dieth not, and the fire is not quenched.
 >
 > <sup>[45](/bible/mark/9#v45)</sup> And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:
-
-- And if thy hand offend thee, cut it off: The Book of Mark chapter 9, this is Christ speaking, Mark chapter 9 verse 43. So Christ is going to come with that fire, and if you don't repent, he going to throw you in that fire. That's what it's saying. You gonna feel that fire. Either you gonna get right and receive the Holy Spirit, or you gonna get that fire, that fire that burn, you understand? He ain't playing.
 
 - It is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched: So when he talk about your hand and your foot, obviously he's not telling you to cut off your hand and cut off your feet physically. He's talking about those things that seem dear to you. Some of us couldn't imagine living without our hand or our foot. Well, that may be your wife that don't believe. That may be your children that don't believe. There may be something in your life that is causing you not to walk how you're supposed to walk with God. The Lord said it's better for you to go into life maimed, meaning without that person, without that thing, without that desire, without that idol, without that lust, than to get your whole body, meaning you and your spirit, thrown into the lake of fire, which shall never be quenched.
 
@@ -180,16 +180,16 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 > <sup>[15](/bible/john/14#v15)</sup> If ye love me, keep my commandments.
 >
 > <sup>[16](/bible/john/14#v16)</sup> And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
->
-> <sup>[17](/bible/john/14#v17)</sup> Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
->
-> <sup>[18](/bible/john/14#v18)</sup> I will not leave you comfortless: I will come to you.
->
-> <sup>[19](/bible/john/14#v19)</sup> Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
 
 - If ye love me, keep my commandments. And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever: So if you keep the commandments, you'll receive another comforter that will abide with you forever.
 
+> <sup>[17](/bible/john/14#v17)</sup> Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
+>
+> <sup>[18](/bible/john/14#v18)</sup> I will not leave you comfortless: I will come to you.
+
 - I will not leave you comfortless: I will come to you: So the Holy Ghost is Christ coming to you to feed you with knowledge and understanding, wisdom.
+
+> <sup>[19](/bible/john/14#v19)</sup> Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
 
 
 **[John 14:26](/bible/john/14#v26)**  *[[19:46](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=1186s)]*
@@ -204,14 +204,14 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[John 20:21-23](/bible/john/20#v21)**  *[[21:14](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=1274s)]*
 
 > <sup>[21](/bible/john/20#v21)</sup> Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you.
->
-> <sup>[22](/bible/john/20#v22)</sup> And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:
->
-> <sup>[23](/bible/john/20#v23)</sup> Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
 
 - Then said Jesus to them again, Peace be unto you: Let's go to the Book of John chapter 20. John 20, and I want to read verse, John chapter 20 and verse 22, verse 21. This is after his death.
 
+> <sup>[22](/bible/john/20#v22)</sup> And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:
+
 - Receive ye the Holy Ghost: Who is he talking to? His apostles.
+
+> <sup>[23](/bible/john/20#v23)</sup> Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
 
 - Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained: So when he gave the apostle the Holy Spirit, he gave them the power to judge. When somebody tell the Christian church that you can't judge, you can't judge nobody, only God can judge, well, Christ gave the apostles the Holy Spirit so they can judge matters on Earth. And whatever they forgave, or, like it says, remitted, the Lord remitted. It say, okay, look, hey, Peter, James and John have investigated the matter, have found, therefore, that you need to be forgiven for that sin, therefore the Lord has forgiven him. I know that hurt some of y'all ears, cause you ain't never heard that before, but you know, Christianity is a hell of a drug.
 
@@ -226,10 +226,10 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Luke 3:16-17](/bible/luke/3#v16)**  *[[22:59](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=1379s)]*
 
 > <sup>[16](/bible/luke/3#v16)</sup> John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:
->
-> <sup>[17](/bible/luke/3#v17)</sup> Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.
 
 - He shall baptize you with the Holy Ghost and with fire: So Christ had to do what? Let's go back to Luke chapter 3 verse 16. At the bottom it say he shall baptize you with Holy Ghost and with fire.
+
+> <sup>[17](/bible/luke/3#v17)</sup> Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.
 
 - But the chaff he will burn with fire unquenchable: We just went over the unquenchable fire in Mark 9, but let me show you what the Chad is. Some of you may be like, what do it mean, chaff? I'm confused. Let's go back to Psalms 1 we read earlier.
 
@@ -237,12 +237,12 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Psalms 1:4-6](/bible/psalms/1#v4)**  *[[23:48](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=1428s)]*
 
 > <sup>[4](/bible/psalms/1#v4)</sup> The ungodly are not so: but are like the chaff which the wind driveth away.
->
+
+- The ungodly are not so: but are like the chaff which the wind driveth away: Psalms 1 and 4.
+
 > <sup>[5](/bible/psalms/1#v5)</sup> Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.
 >
 > <sup>[6](/bible/psalms/1#v6)</sup> For the Lord knoweth the way of the righteous: but the way of the ungodly shall perish.
-
-- The ungodly are not so: but are like the chaff which the wind driveth away: Psalms 1 and 4.
 
 - But the way of the ungodly shall perish: So the Lord said the ungodly going perish. The ungodly are going to get burned with that unquenchable fire that Christ, or that the apostle, or excuse me, the prophet John the Baptist is speaking of, who came before Christ. He's Christ cousin. He came before him.
 
@@ -250,14 +250,14 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Luke 3:18-20](/bible/luke/3#v18)**  *[[24:39](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=1479s)]*
 
 > <sup>[18](/bible/luke/3#v18)</sup> And many other things in his exhortation preached he unto the people.
->
-> <sup>[19](/bible/luke/3#v19)</sup> But Herod the tetrarch, being reproved by him for Herodias his brother Philip’s wife, and for all the evils which Herod had done,
->
-> <sup>[20](/bible/luke/3#v20)</sup> Added yet this above all, that he shut up John in prison.
 
 - And many other things in his exhortation preached he unto the people: Okay, now let's go back to Luke. Let's go back to Luke 3, let's read 19, Luke 3:18.
 
+> <sup>[19](/bible/luke/3#v19)</sup> But Herod the tetrarch, being reproved by him for Herodias his brother Philip’s wife, and for all the evils which Herod had done,
+
 - But Herod the tetrarch, being reproved by him for Herodias his brother Philip's wife, and for all the evils which Herod had done: So John the Baptist rebuked Herod. Herod was an idian. Herod was not an Israelite. Say it again: Herod was an idian. Herod was not an Israelite. Herod was a Jewish convert. He was not an Israelite. But he grew up in the custom of the Jews. He was set over Judea to be ruler over Judea, and our forefather John the Baptist didn't care. John said, I'm going to rebuke you for the sin that you're doing. You know better. You know that the law says you cannot have your brother's sister. That's against God's laws. So he got on to him about it. Herod didn't like that.
+
+> <sup>[20](/bible/luke/3#v20)</sup> Added yet this above all, that he shut up John in prison.
 
 - Added yet this above all, that he shut up John in prison: Verse 22. So he shut John in prison because he rebuked him.
 
@@ -265,10 +265,10 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Luke 3:21-22](/bible/luke/3#v21)**  *[[25:42](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=1542s)]*
 
 > <sup>[21](/bible/luke/3#v21)</sup> Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,
->
-> <sup>[22](/bible/luke/3#v22)</sup> And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.
 
 - Jesus also being baptized, and praying, the heaven was opened: So Christ was baptized too.
+
+> <sup>[22](/bible/luke/3#v22)</sup> And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.
 
 - And a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased: Would somebody tell a Christian that God and Jesus are two different entities? I don't understand y'all. The voice came from heaven, said, this my beloved Son. What voice? So that was Christ voice? So Christ voice said that Christ was his son? I'm confused. Either crack cocaine is now being allowed in the theology school. Maybe crack cocaine is now a prerequisite to graduate from theology school. Maybe that's what it is. Maybe y'all in there snorting lines before you take your final exam. Because ain't no way you reading the Bible and you gonna tell me you see a first came from heaven and said that Christ was his beloved Son, and you telling me that was Christ that said that. Well, how was he in heaven and standing right there for everybody to believe? And whose voice did he hear if he standing right here and he ain't saying nothing? This got to stop. It's ridiculous. Let go of Roman Catholic dogma. Let it go. It's getting bad out here, man. It's getting bad out here.
 
@@ -294,14 +294,14 @@ tags: ["15 Minutes w/ The Captains", "christ"]
 **[Hebrews 2:14-16](/bible/hebrews/2#v14)**  *[[29:20](https://www.youtube.com/watch?v=xrMUyM5gVFg&t=1760s)]*
 
 > <sup>[14](/bible/hebrews/2#v14)</sup> Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;
->
-> <sup>[15](/bible/hebrews/2#v15)</sup> And deliver them who through fear of death were all their lifetime subject to bondage.
->
-> <sup>[16](/bible/hebrews/2#v16)</sup> For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
 
 - Forasmuch then as the children are partakers of flesh and blood: Let's go to Hebrews chapter 2. Hebrews chapter 2 verse 16, let's start at 14. Flesh and blood, flesh and blood, flesh and blood. How was flesh and blood created? From the sperm of a man. It comes from the sperm of a man originally, and then the sperm of the man hits the egg of the woman, the seed is planted, and the child comes forth. Y'all took anatomy and physiology in high school, and biology. Come on, stop playing. You know that's how it go down. Some of y'all grown with kids. You know how your babies got here. Stop playing with me. So just how your babies got here, that's how Christ got here. Okay.
 
 - He also himself likewise took part of the same: So it said Christ took part of the same. Come on now.
+
+> <sup>[15](/bible/hebrews/2#v15)</sup> And deliver them who through fear of death were all their lifetime subject to bondage.
+>
+> <sup>[16](/bible/hebrews/2#v16)</sup> For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
 
 - But he took on him the seed of Abraham: Now I want you to show me somewhere in the Bible, show me somewhere in the Bible, where anybody in Abraham, Isaac or Jacob's lineage throughout the scriptures was ever accounted by the mother. Show me in the Bible where any of the descendants of Abraham, and it speaks about their lineage, who they came from.
 

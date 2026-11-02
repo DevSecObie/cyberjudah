@@ -38,12 +38,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 > <sup>[18](/bible/luke/7#v18)</sup> And the disciples of John shewed him of all these things.
 >
 > <sup>[19](/bible/luke/7#v19)</sup> And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?
->
+
+- Art thou he that should come? or look we for another?: All right, so why would John send his disciples and ask Messiah that? Why? Because that's what all of our people believe, and he was being persecuted at that time while he was in prison. Let's read some more.
+
 > <sup>[20](/bible/luke/7#v20)</sup> When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?
 >
 > <sup>[21](/bible/luke/7#v21)</sup> And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight.
-
-- Art thou he that should come? or look we for another?: All right, so why would John send his disciples and ask Messiah that? Why? Because that's what all of our people believe, and he was being persecuted at that time while he was in prison. Let's read some more.
 
 - And in that same hour he cured many of their infirmities: Right, so in that same hour, all right, he performed miracles, he cured many of their infirmities.
 
@@ -80,13 +80,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 
 **[Luke 7:22-23](/bible/luke/7#v22)**  *[[5:07](https://www.youtube.com/watch?v=GpkDwtQdz4g&t=307s)]*
 
-> <sup>[22](/bible/luke/7#v22)</sup> Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.
->
-> <sup>[23](/bible/luke/7#v23)</sup> And blessed is he, whosoever shall not be offended in me.
-
 - So now let's go back to Luke 7, pick up where you left off, same verse, Luke chapter 7 and verse 22.
 
+> <sup>[22](/bible/luke/7#v22)</sup> Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.
+
 - To the poor the gospel is preached: Right, to the poor the gospel is preached.
+
+> <sup>[23](/bible/luke/7#v23)</sup> And blessed is he, whosoever shall not be offended in me.
 
 - And blessed is he, whosoever shall not be offended in me: Right, meaning what? Give me that one in 1 Peter 4. All right, blessed is he who shall ever not be offended in me, meaning if you can receive the words, if you could receive what Christ is saying, it says you're blessed. Let's get that in, hold that Peter's, get that in Revelations 1 and 3, then we'll come right back to the 1 Peter 4.
 
@@ -134,10 +134,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 > <sup>[4](/bible/mark/1#v4)</sup> John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.
 >
 > <sup>[5](/bible/mark/1#v5)</sup> And there went out unto him all the land of Judea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
->
-> <sup>[6](/bible/mark/1#v6)</sup> And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;
 
 - Confessing their sins: Doing what? Confessing their sins.
+
+> <sup>[6](/bible/mark/1#v6)</sup> And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;
 
 - And John was clothed with camel's hair: John was clothed with what? Camel's hair. He was clothed with camel's hair. He didn't have soft clothing or luxurious apparel. All right, he was clothed in camel's hair.
 
@@ -192,16 +192,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 **[Daniel 7:9-14](/bible/daniel/7#v9)**  *[[12:13](https://www.youtube.com/watch?v=GpkDwtQdz4g&t=733s)]*
 
 > <sup>[9](/bible/daniel/7#v9)</sup> I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire.
->
-> <sup>[10](/bible/daniel/7#v10)</sup> A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
->
-> <sup>[11](/bible/daniel/7#v11)</sup> I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame.
->
-> <sup>[12](/bible/daniel/7#v12)</sup> As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
->
-> <sup>[13](/bible/daniel/7#v13)</sup> I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
->
-> <sup>[14](/bible/daniel/7#v14)</sup> And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
 
 - I beheld till the thrones were cast down: And so it says I beheld till the thrones were cast down. That's all of those hills, that's all of those valleys and mountains that will be made low. Those are all of kingdoms of governments that will be destroyed when Messiah come. Read it again.
 
@@ -209,11 +199,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 
 - Whose garment was white as snow, and the hair of his head like the pure wool: Like the pure wool. So our Father, God the Father, he has woolly hair.
 
+> <sup>[10](/bible/daniel/7#v10)</sup> A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
+>
+> <sup>[11](/bible/daniel/7#v11)</sup> I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame.
+>
+> <sup>[12](/bible/daniel/7#v12)</sup> As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
+
 - As concerning the rest of the beasts, they had their dominion taken away: Remember when you read Ecclesiastes 3:18, those beasts are going into nations of men. All right, read verse 12 again.
 
 - Yet their lives were prolonged for a season and time: Those are all of those hills, valleys, mountains made low. Read verse 13.
 
+> <sup>[13](/bible/daniel/7#v13)</sup> I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
+
 - And, behold, one like the Son of man: Like the who? Like the Son of man. Who is this? Jesus the Christ.
+
+> <sup>[14](/bible/daniel/7#v14)</sup> And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
 
 - And there was given him dominion: And given him what? Dominion. The government will be upon his shoulders.
 
@@ -238,10 +238,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 **[Revelation 1:6-7](/bible/revelation/1#v6)**  *[[15:19](https://www.youtube.com/watch?v=GpkDwtQdz4g&t=919s)]*
 
 > <sup>[6](/bible/revelation/1#v6)</sup> And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.
->
-> <sup>[7](/bible/revelation/1#v7)</sup> Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
 
 - And hath made us kings and priests unto God and his Father: See that? It says made us what? Kings and priests unto God. Unto who? Unto God and his Father, because Christ is our God.
+
+> <sup>[7](/bible/revelation/1#v7)</sup> Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
 
 - Every eye shall see him: Every what? Every eye shall see him. Every eye shall see him. Who? Jesus the Christ.
 
@@ -314,19 +314,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 
 **[Luke 9:18-22](/bible/luke/9#v18)**  *[[20:23](https://www.youtube.com/watch?v=GpkDwtQdz4g&t=1223s)]*
 
-> <sup>[18](/bible/luke/9#v18)</sup> And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?
->
-> <sup>[19](/bible/luke/9#v19)</sup> They answering said, John the Baptist; but some say, Elias; and others say, that one of the old prophets is risen again.
->
-> <sup>[20](/bible/luke/9#v20)</sup> He said unto them, But whom say ye that I am? Peter answering said, The Christ of God.
->
-> <sup>[21](/bible/luke/9#v21)</sup> And he straitly charged them, and commanded them to tell no man that thing;
->
-> <sup>[22](/bible/luke/9#v22)</sup> Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.
-
 - All right, let's go back to Luke, but I want you to go to Luke 9 real quick. Let me get there with you. Luke chapter 9 and start at verse 18, read down a little bit.
 
+> <sup>[18](/bible/luke/9#v18)</sup> And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?
+
 - Whom say the people that I am?: Right, so Christ asked the question, he says, hey, who do the people say I am?
+
+> <sup>[19](/bible/luke/9#v19)</sup> They answering said, John the Baptist; but some say, Elias; and others say, that one of the old prophets is risen again.
 
 - They answering said, John the Baptist: Right, this is after John the Baptist was beheaded and his head was placed on the charger. This is after he was dead and gone at this time. Read that part again.
 
@@ -334,7 +328,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 
 - And others say, that one of the old prophets is risen again: 'Cause our forefathers, we understood what? Regeneration. We understood that there's no end of the people, like it says in Ecclesiastes 4. Read some more.
 
+> <sup>[20](/bible/luke/9#v20)</sup> He said unto them, But whom say ye that I am? Peter answering said, The Christ of God.
+
 - But whom say ye that I am?: Right, so he said, hey, who do you think I am?
+
+> <sup>[21](/bible/luke/9#v21)</sup> And he straitly charged them, and commanded them to tell no man that thing;
+>
+> <sup>[22](/bible/luke/9#v22)</sup> Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.
 
 - The Son of man must suffer many things: The Son of man, Jesus Christ, must suffer many things. And what? And be rejected of the elders. Of the elders and chief priests.
 
@@ -348,20 +348,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "prophecy", "salvation"]
 > <sup>[11](/bible/matthew/11#v11)</sup> Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.
 >
 > <sup>[12](/bible/matthew/11#v12)</sup> And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.
->
-> <sup>[13](/bible/matthew/11#v13)</sup> For all the prophets and the law prophesied until John.
->
-> <sup>[14](/bible/matthew/11#v14)</sup> And if ye will receive it, this is Elias, which was for to come.
->
-> <sup>[15](/bible/matthew/11#v15)</sup> He that hath ears to hear, let him hear.
 
 - And from the days of John the Baptist until now the kingdom of heaven suffereth violence: Right, it says the Kingdom of Heaven suffering violence, and guess what, apologetics, y'all ain't the one suffering violence. Remember who was persecuting the Kingdom of Heaven at this time? Rome. Showing you what? The Kingdom of Heaven is only for the Israelites.
 
 - And the violent take it by force: And the violent, which was Rome, they took it by force.
 
+> <sup>[13](/bible/matthew/11#v13)</sup> For all the prophets and the law prophesied until John.
+>
+> <sup>[14](/bible/matthew/11#v14)</sup> And if ye will receive it, this is Elias, which was for to come.
+
 - And if ye will receive it: It says and if you will receive it.
 
 - This is Elias, which was for to come: This is Elias, the Prophet Elijah, which was a forth to come. So Christ is letting it be known that what? John the Baptist was Elijah.
+
+> <sup>[15](/bible/matthew/11#v15)</sup> He that hath ears to hear, let him hear.
 
 
 ## In Closing

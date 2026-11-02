@@ -46,17 +46,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 
 **[Isaiah 28:9-10](/bible/isaiah/28#v9)**  *[[9:10](https://www.youtube.com/watch?v=xbu2dczQHpM&t=550s)]*
 
-> <sup>[9](/bible/isaiah/28#v9)</sup> Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
->
-> <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
-
 - Let's get that in Isaiah 28: God gave us the formula because the Bible a lot of times is written in metaphors, allegories, parables, and dark sayings. The Lord God used similitudes and he showed visions to the prophets. So you have to go through the Bible. The Bible breaks itself down. We're going to prove that.
+
+> <sup>[9](/bible/isaiah/28#v9)</sup> Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
 
 - Whom shall he teach knowledge? and whom shall he make to understand doctrine?: Whom shall God teach knowledge? And whom shall he make to understand doctrine?
 
 - Them that are weaned from the milk: So the first process is the milk. The milk of the Bible is the commandments. Before you go into prophecy and deep mysteries of the scriptures and revelations and things to be revealed in the last days, before you go into all of that, it starts with the milk. The milk is God's commandments. The ten commandments, love your neighbor as yourself, dietary laws, moral laws, civil laws, how to deal with each other. All right? Nation building. So it says you got to be weaned from the milk, which is the commandments.
 
 - And drawn from the breasts: Which is the milk.
+
+> <sup>[10](/bible/isaiah/28#v10)</sup> For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
 
 - For precept must be upon precept: So to understand some of the weightier things or the heavier things in the Bible, it says precept must be upon precept. A precept is another word for a law or a scripture. It says precept must be upon precept. So you can't pull a scripture and then you take that and say, you know what, this is what something means. No. If you pull one scripture, it should be several other scriptures that back up whatever point you're trying to make in the Bible, because the Bible is saying the same thing. Old Testament, Apocrypha, New Testament.
 
@@ -75,8 +75,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 **[Genesis 1:26-27](/bible/genesis/1#v26)**  *[[12:16](https://www.youtube.com/watch?v=xbu2dczQHpM&t=736s)]*
 
 > <sup>[26](/bible/genesis/1#v26)</sup> And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
->
-> <sup>[27](/bible/genesis/1#v27)</sup> So God created man in his own image, in the image of God created he him; male and female created he them.
 
 - And God said, Let us make man in our image: So it says God said let us make man in our own image, because in the beginning you had the Most High and then he created his son, Christ. Christ is the Father's, or what we call the Most High. These are all just titles, right? We don't know God's true name. We don't know Christ's true name. These are just titles that we use for the current space that we in. Titles that we use on earth. All right. So the Most High, his very first creation was Jesus Christ. All right? And then Christ created everything else that we see. All right? But Christ is the first creation. He is the beginning of the creation.
 
@@ -97,6 +95,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
     > <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
     Let's prove that real quick. We still holding Genesis 1. Go to Colossians. Some people might not notice Christ called himself the beginning of the creation of God. And then Christ our king, he made everything else. Who is the image of the invisible God: It says Christ is the image of the invisible God. The firstborn of every creature: Christ is the firstborn of every creature. And then now see what happened. For by him were all things created: And then once Christ was created, he made everything else. All right? So the Most High made his son, Jesus the Christ, and then Christ made everything else.
+
+> <sup>[27](/bible/genesis/1#v27)</sup> So God created man in his own image, in the image of God created he him; male and female created he them.
 
 
 **[Genesis 2:7](/bible/genesis/2#v7)**  *[[15:56](https://www.youtube.com/watch?v=xbu2dczQHpM&t=956s)]*
@@ -189,14 +189,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 **[1 Corinthians 15:46-47](/bible/1-corinthians/15#v46)**  *[[31:20](https://www.youtube.com/watch?v=xbu2dczQHpM&t=1880s)]*
 
 > <sup>[46](/bible/1-corinthians/15#v46)</sup> Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual.
->
-> <sup>[47](/bible/1-corinthians/15#v47)</sup> The first man is of the earth, earthy: the second man is the Lord from heaven.
 
 - Howbeit that was not first which is spiritual: Right. Adam, the first Adam, when the son of God first came on this earth and was put into a body on earth, he was not spiritual.
 
 - But that which is natural: But he was natural.
 
 - And afterward that which is spiritual: But he would be back into the earth, he would be regenerated, and then that occasion he would be spiritual.
+
+> <sup>[47](/bible/1-corinthians/15#v47)</sup> The first man is of the earth, earthy: the second man is the Lord from heaven.
 
 - The first man is of the earth, earthy: Right? The first time the son of God came and his name was Adam, he was earthly, meaning what? The motions of sin was in his members. He had a wicked mind.
 
@@ -212,20 +212,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 **[Romans 5:12-19](/bible/romans/5#v12)**  *[[33:35](https://www.youtube.com/watch?v=xbu2dczQHpM&t=2015s)]*
 
 > <sup>[12](/bible/romans/5#v12)</sup> Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:
->
-> <sup>[13](/bible/romans/5#v13)</sup> (For until the law sin was in the world: but sin is not imputed when there is no law.
->
-> <sup>[14](/bible/romans/5#v14)</sup> Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come.
->
-> <sup>[15](/bible/romans/5#v15)</sup> But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.
->
-> <sup>[16](/bible/romans/5#v16)</sup> And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.
->
-> <sup>[17](/bible/romans/5#v17)</sup> For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
->
-> <sup>[18](/bible/romans/5#v18)</sup> Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.
->
-> <sup>[19](/bible/romans/5#v19)</sup> For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.
 
 - Wherefore, as by one man sin entered into the world: By one man, Adam, sin entered into the world.
 
@@ -233,11 +219,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 
 - And so death passed upon all men, for that all have sinned: And so death passed upon all men. We all became subject to death. Because all sin.
 
+> <sup>[13](/bible/romans/5#v13)</sup> (For until the law sin was in the world: but sin is not imputed when there is no law.
+
 - For until the law sin was in the world: Right? Referring to the law of animal sacrifice. Sin was in the world.
+
+> <sup>[14](/bible/romans/5#v14)</sup> Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come.
 
 - Nevertheless death reigned from Adam to Moses: Death had dominion from Adam all the way to Moses. And why do we stop at Moses? Because what do we get through Moses? We got the laws of animal sacrifice, which is how we got atonement, where we didn't have to get put to death for our transgressions.
 
 - Who is the figure of him that was to come: Adam is what? So, what is Paul revealing? Paul is revealing to you that Adam and Christ are the same spirit. It says Adam is the figure of him that is to come.
+
+> <sup>[15](/bible/romans/5#v15)</sup> But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.
 
 - But not as the offence, so also is the free gift: So it says the free gift is not like the first offense. It's going to explain it.
 
@@ -245,17 +237,25 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 
 - Much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many: Much more the grace, or the mercy, of God. So you see, so it's contrary, it's reverse. So by one man death came upon everybody. Now by one man the gift comes upon everybody. The mercy comes upon everybody, and redemption through his sacrifice, through his blood.
 
+> <sup>[16](/bible/romans/5#v16)</sup> And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.
+
 - For the judgment was by one to condemnation: Right? So through one man's sin, condemnation came upon all those who would come into this world.
 
 - But the free gift is of many offences unto justification: But the free gift, which is mercy through Christ's blood, one man's sacrifice brings many to justification, meaning makes many of us innocent.
 
+> <sup>[17](/bible/romans/5#v17)</sup> For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
+
 - Shall reign in life by one, Jesus Christ: Right? So, it's saying the same thing over and over.
+
+> <sup>[18](/bible/romans/5#v18)</sup> Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.
 
 - Therefore as by the offence of one judgment came upon all men: Therefore, by the offense of one, Adam, judgment, death came upon all men.
 
 - Even so by the righteousness of one: By the righteousness of one, Jesus the Christ.
 
 - The free gift came upon all men unto justification of life: The free gift is mercy and forgiveness in Christ. Right? Came upon all men, meaning both kingdoms of Israel. When the Bible says all men, it means northern kingdom and southern kingdom. There's 12 tribes, and the kingdom split after King Solomon. So when the Bible uses terms like all men, it's including northern kingdom and southern kingdom. The Bible was never written to all people.
+
+> <sup>[19](/bible/romans/5#v19)</sup> For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.
 
 - For as by one man's disobedience many were made sinners: By one man's disobedience, Adam, who went into idolatry following his wife. By one man's sin, by one man's disobedience, many were made sinners, because what? That spirit passed upon all of us. The motions in our flesh of lust, temptation, a wicked heart. All of us were born of him.
 
@@ -361,10 +361,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 **[1 Corinthians 15:50-51](/bible/1-corinthians/15#v50)**  *[[52:40](https://www.youtube.com/watch?v=xbu2dczQHpM&t=3160s)]*
 
 > <sup>[50](/bible/1-corinthians/15#v50)</sup> Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
->
-> <sup>[51](/bible/1-corinthians/15#v51)</sup> Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,
 
 - Flesh and blood cannot inherit the kingdom of God: These bodies ain't walking through those gates.
+
+> <sup>[51](/bible/1-corinthians/15#v51)</sup> Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,
 
 - Behold, I shew you a mystery; We shall not all sleep: It says, Paul says, I'm going to show you a mystery. We shall not all sleep. What is that going into? We shall not all sleep. Go to Revelations 12 and 12. That word sleep is going to be killed, be put to death. All right. When it's talking about we shall not all sleep, of course all people sleep. It ain't talking about regular sleep. It ain't talking about catching Z's. It's talking about being put to death. So as we get closer to Christ's return, many of us in this truth going to be put to death. We're going to be killed for this truth.
 
@@ -396,12 +396,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 > <sup>[50](/bible/1-corinthians/15#v50)</sup> Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
 >
 > <sup>[51](/bible/1-corinthians/15#v51)</sup> Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,
->
-> <sup>[52](/bible/1-corinthians/15#v52)</sup> In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.
 
 - We shall not all sleep: Many of us will be put to death and become martyrs, but not all of us. Some of us going to go to prison.
 
 - But we shall all be changed: But the believers of Christ, the faithful, it says we shall all be changed. We all going to get our new bodies.
+
+> <sup>[52](/bible/1-corinthians/15#v52)</sup> In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.
 
 - In a moment, in the twinkling of an eye, at the last trump: Hold on. It says in a what? In the twinkling of an eye. So it says in a moment, in the twinkling of an eye. So go to Isaiah 54:16. So we know the sixth trump is what? Destruction. When the sixth trumpet sound, it's going to be great destruction. Then let's see what's going to happen. Let's look at that destruction.
 
@@ -448,14 +448,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 **[1 Corinthians 15:53-56](/bible/1-corinthians/15#v53)**  *[[1:04:45](https://www.youtube.com/watch?v=xbu2dczQHpM&t=3885s)]*
 
 > <sup>[53](/bible/1-corinthians/15#v53)</sup> For this corruptible must put on incorruption, and this mortal must put on immortality.
->
-> <sup>[54](/bible/1-corinthians/15#v54)</sup> So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.
->
-> <sup>[55](/bible/1-corinthians/15#v55)</sup> O death, where is thy sting? O grave, where is thy victory?
->
-> <sup>[56](/bible/1-corinthians/15#v56)</sup> The sting of death is sin; and the strength of sin is the law.
 
 - And this mortal must put on immortality: We going to put on immortality.
+
+> <sup>[54](/bible/1-corinthians/15#v54)</sup> So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.
 
 - So when this corruptible shall have put on incorruption: That's our celestial body that is not subject to sin or sinful thoughts.
 
@@ -463,9 +459,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 
 - Death is swallowed up in victory: We're not going to be afraid of death no more. We're going to say death is swallowed up in victory.
 
+> <sup>[55](/bible/1-corinthians/15#v55)</sup> O death, where is thy sting? O grave, where is thy victory?
+
 - O death, where is thy sting?: Death ain't going to have no sting. Why? Because Christ going to give us power over death, because he the one who got power over death initially. Remember the devil had it, when we read that earlier in Revelation 1:18. But now Christ got power over it. And he going to give us what? Power over it also.
 
 - O grave, where is thy victory?: It says, O grave, where is thy victory?
+
+> <sup>[56](/bible/1-corinthians/15#v56)</sup> The sting of death is sin; and the strength of sin is the law.
 
 - The sting of death is sin: It says the sting of death is sin. What is that going into? Get Romans 6 and 23. The sting of death is sin.
 
@@ -492,10 +492,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 **[1 Corinthians 15:57-58](/bible/1-corinthians/15#v57)**  *[[1:08:19](https://www.youtube.com/watch?v=xbu2dczQHpM&t=4099s)]*
 
 > <sup>[57](/bible/1-corinthians/15#v57)</sup> But thanks be to God, which giveth us the victory through our Lord Jesus Christ.
->
-> <sup>[58](/bible/1-corinthians/15#v58)</sup> Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
 
 - But thanks be to God, which giveth us the victory through our Lord Jesus Christ: It says thanks be to God which giveth us the victory through our Lord Jesus Christ. So Christ sent his spirit to give us the victory over sin, and then Christ is going to quicken us and give us the victory over our enemies in the last days.
+
+> <sup>[58](/bible/1-corinthians/15#v58)</sup> Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
 
 - Be ye stedfast, unmoveable, always abounding in the work of the Lord: So, we in this present world, we got to what? We got to be steadfast. We got to be rooted. We got to be unmovable. We got to have faith that can move mountains, always abounding in the work of the Lord. We got to make sure we teaching the people, gathering Israel, teaching our people their nationality, teaching them God's laws and commandments so the elect can be sealed. Always abounding, doing more, more, more, more. We can't be comfortable or complacent. Always abounding in the work of the Lord.
 
@@ -520,23 +520,23 @@ tags: ["15 Minutes w/ The Captains", "christ", "the-law"]
 
 **[1 John 3:1-3](/bible/1-john/3#v1)**  *[[1:12:40](https://www.youtube.com/watch?v=xbu2dczQHpM&t=4360s)]*
 
-> <sup>[1](/bible/1-john/3#v1)</sup> Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
->
-> <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
->
-> <sup>[3](/bible/1-john/3#v3)</sup> And every man that hath this hope in him purifieth himself, even as he is pure.
-
 - 1 John 3 again: We going to close out with that. Start at verse one again. This time we going to read down.
+
+> <sup>[1](/bible/1-john/3#v1)</sup> Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
 
 - Therefore the world knoweth us not: The world don't know us, cuz we not in the world no more.
 
 - Because it knew him not: The same way Christ wasn't in the world.
+
+> <sup>[2](/bible/1-john/3#v2)</sup> Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
 
 - But we know that, when he shall appear: When Christ returns.
 
 - We shall be like him: We shall be changed into those immortal bodies.
 
 - For we shall see him as he is: And we going to see him in his full glory. Cuz we didn't see him in his full glory when he came the first time, in the first century AD. But when he returns, we going to see him in his full glory.
+
+> <sup>[3](/bible/1-john/3#v3)</sup> And every man that hath this hope in him purifieth himself, even as he is pure.
 
 - And every man that hath this hope in him: Whoa, whoa, whoa. Read this thing slow. What it say? And every man that have this hope. What hope? That when Christ comes, we going to be changed and be just like him and see him in his glory. Every man who want to see that day.
 

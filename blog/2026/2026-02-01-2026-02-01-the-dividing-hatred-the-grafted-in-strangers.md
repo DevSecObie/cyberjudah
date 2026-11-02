@@ -530,6 +530,10 @@ tags: ["IUIC in the ClassRoom", "anger", "love", "mercy"]
 
 **[Romans 11:1-15](/bible/romans/11#v1)**  *[[1:57:05](https://www.youtube.com/watch?v=g3Yh2GSq8E4&t=7025s)]*
 
+- Hath God cast away his people? God forbid, for I also am an Israelite of the tribe of Benjamin. He has not cast away his people which he foreknew. As in Elijah's day, when God reserved seven thousand who had not bowed to Baal, there is a remnant according to the election of grace. When the Bible and street teaching are outlawed, we will see who has not bowed.
+
+- If by grace, then it is no more of works. The works are the sacrifices and temple ordinances of Nehemiah 10:33, still running when Paul wrote. Acceptance of Christ's death, not animal sacrifice, is the ground of the calling; to go back to sacrifice makes grace no more grace.
+
 > <sup>[1](/bible/romans/11#v1)</sup> I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 >
 > <sup>[2](/bible/romans/11#v2)</sup> God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,
@@ -543,7 +547,11 @@ tags: ["IUIC in the ClassRoom", "anger", "love", "mercy"]
 > <sup>[6](/bible/romans/11#v6)</sup> And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work.
 >
 > <sup>[7](/bible/romans/11#v7)</sup> What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded
->
+
+- Israel hath not obtained that which he seeketh for, but the election hath obtained it and the rest were blinded: the leaders, given a spirit of slumber, their table a snare, their eyes darkened, as David wrote.
+
+- Have they stumbled that they should fall for ever? God forbid: through their fall salvation is come unto the Gentiles, the northern kingdom, to provoke them to jealousy, exactly as Moses said. Paul magnifies his office as apostle to the Gentiles to provoke to emulation them which are his flesh, the southern kingdom.
+
 > <sup>[8](/bible/romans/11#v8)</sup> (According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.
 >
 > <sup>[9](/bible/romans/11#v9)</sup> And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
@@ -559,14 +567,6 @@ tags: ["IUIC in the ClassRoom", "anger", "love", "mercy"]
 > <sup>[14](/bible/romans/11#v14)</sup> If by any means I may provoke to emulation them which are my flesh, and might save some of them.
 >
 > <sup>[15](/bible/romans/11#v15)</sup> For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?
-
-- Hath God cast away his people? God forbid, for I also am an Israelite of the tribe of Benjamin. He has not cast away his people which he foreknew. As in Elijah's day, when God reserved seven thousand who had not bowed to Baal, there is a remnant according to the election of grace. When the Bible and street teaching are outlawed, we will see who has not bowed.
-
-- If by grace, then it is no more of works. The works are the sacrifices and temple ordinances of Nehemiah 10:33, still running when Paul wrote. Acceptance of Christ's death, not animal sacrifice, is the ground of the calling; to go back to sacrifice makes grace no more grace.
-
-- Israel hath not obtained that which he seeketh for, but the election hath obtained it and the rest were blinded: the leaders, given a spirit of slumber, their table a snare, their eyes darkened, as David wrote.
-
-- Have they stumbled that they should fall for ever? God forbid: through their fall salvation is come unto the Gentiles, the northern kingdom, to provoke them to jealousy, exactly as Moses said. Paul magnifies his office as apostle to the Gentiles to provoke to emulation them which are his flesh, the southern kingdom.
 
 - If the casting away of them be the reconciling of the world: reconcile means bringing back together what was together before, and the nations were never together with us. Isaiah 45:17 calls Israel the world without end, and Mark 10:30 speaks of the world to come. The receiving of them will be life from the dead, as Ephesians 2:1 says of those dead in trespasses and sins.
 

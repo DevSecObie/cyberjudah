@@ -73,18 +73,18 @@ Reading from NIV, 1 Corinthians 6:1  *[[18:18](https://www.youtube.com/watch?v=l
 **[Acts 18:1-4](/bible/acts/18#v1)**  *[[21:45](https://www.youtube.com/watch?v=lJYSM1KMaEk&t=1305s)]*
 
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
->
-> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
->
-> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
->
-> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
 - Paul departed from Athens, and came to Corinth: Right. So Paul, this is when Paul broke ground in Corinth. All right. Which is in Greece.
 
+> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
+
 - A certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; because that Claudius had commanded all Jews to depart from Rome: So this shows you that we know Paul was a Jew, an Israelite from the tribe of Benjamin. But this brother and sister, this husband and wife that he met, they were also Jews. That's how they ended up in Corinth, because they were in Italy, but Claudius commanded all Jews to get the hell out. You understand? Some damn ICE stuff going on. So they ended up in Corinth. So Paul is a Jew, Aquila and Priscilla were Jews.
 
+> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
+
 - By their occupation they were tentmakers: Right? They was builders.
+
+> <sup>[4](/bible/acts/18#v4)</sup> And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 
 - And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks: So wait a minute. So, not only did you have Israelites that was being deported from Rome, Italy, and so forth coming to Corinth, but it was already Israelites dwelling in Corinth. How do we know that? Because there was a synagogue already established there. And that's where Paul went to go and teach when he touched down. He reasoned in the what? In the synagogue. Right? So that's where Jews and Greeks, meaning Hellenized Israelites, went to receive the understanding of the law of God. They went to the synagogue. All right. So now watch this. Go to Matthew 23:1. So we're still dealing with 1 Corinthians 6, where it says the Corinthians were going to law before the unjust instead of the saints. And we just established that there was a synagogue in Corinth.
 
@@ -94,14 +94,14 @@ Reading from NIV, 1 Corinthians 6:1  *[[18:18](https://www.youtube.com/watch?v=l
 > <sup>[1](/bible/matthew/23#v1)</sup> Then spake Jesus to the multitude, and to his disciples,
 >
 > <sup>[2](/bible/matthew/23#v2)</sup> Saying, The scribes and the Pharisees sit in Moses’ seat:
->
-> <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
 
 - The scribes and the Pharisees sit in Moses' seat: So the scribes and the Pharisees sat in Moses' seat. The scribes and the Pharisees sat in Moses' seat. What does that mean? What was Moses' seat? Hold that. Go to Exodus 18 and verse 13. What is Moses' seat? What does that mean?
 
 - Sit in Moses' seat: So what was Moses' seat? Moses' seat was the seat of judgment, like we read in Deuteronomy 17, right? Moses' seat means that that's the people that judge the nation of Israel. You understand? That was Moses' position for the Israelites. So when it say the scribes and Pharisees sit in Moses' seat, meaning they were the judges of the nation of Israel. Now go back to Matthew 23 and read verse 6, about those scribes and Pharisees.
 
 - The chief seats in the synagogues: So remember, follow me. In Corinth, when Paul first arrived there, before the church of Corinth was established, they already had a what? A synagogue. You understand? Where Jews and Hellenized Jews would go to get the understanding of the law. Who were sitting in the chief seats of those synagogues? Scribes and Pharisees. Now this whole chapter in Matthew 23 is Christ rebuking the scribes and Pharisees for being what? Unjust. Read verse three. Watch this.
+
+> <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
 
 - All therefore whatsoever they bid you observe, that observe and do: And Christians, they don't never deal with this right here. If they sat in Moses' seat, Moses' responsibility was to judge the people of Israel according to the law. Right? So he said whatever they bid you observe, that observe and do. Meaning it's Christ. This is red letters. Christ said it's nothing wrong with them teaching the law. It's nothing wrong with you observing and doing the laws of God.
 
@@ -133,25 +133,25 @@ Reading from NIV, 1 Corinthians 6:1  *[[18:18](https://www.youtube.com/watch?v=l
 
 **[Acts 6:9-12](/bible/acts/6#v9)**  *[[32:20](https://www.youtube.com/watch?v=lJYSM1KMaEk&t=1940s)]*
 
-> <sup>[9](/bible/acts/6#v9)</sup> Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.
->
-> <sup>[10](/bible/acts/6#v10)</sup> And they were not able to resist the wisdom and the spirit by which he spake.
->
-> <sup>[11](/bible/acts/6#v11)</sup> Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God.
->
-> <sup>[12](/bible/acts/6#v12)</sup> And they stirred up the people, and the elders, and the scribes, and came upon him, and caught him, and brought him to the council,
-
 - The same spirit: So the Pharisees, they had, you know, the scriptures say the Lord liken his judgment to a ring, right? Its spirits come back from generations and generations. So the same spirits that you read about during the time of Jeremiah the prophet, the different prophets that will rebuke the prophets and the rulers and the princes of Israel and Judah during their times. What were they rebuking those prophets for? What was the prophets sent by God rebuking the prophets that were revered by the people? What was they rebuking them about? Taking bribes. You know what I'm saying? Neglecting the needy in judgment, things of that nature, having respect of persons in judgment. So that same spirit was on the Pharisees of that time. They were fed delicately through Rome. You understand? Rome gave them their place and nation, that was able to establish all these synagogues, and they became covetous. So that covetousness, and we gonna touch on that in a second, but that covetousness distorted their judgment. You understand?
 
 - Envious spirit: And that was just in general, but especially when it came to the treatment of those that were in Christ, because they had an envious spirit towards the ministry of Christ, because over time it began to expand and outgrow them. Many of their followers left the synagogues and joined with the church of Christ. Same thing you see. That's why them Christians be mad at us. That's why they be mad. You understand? It's the same thing. That's why, look, Bishop Nathanyel tell you never trust a Christian. Never trust a Christian. For real. They the Pharisees back again.
 
+> <sup>[9](/bible/acts/6#v9)</sup> Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.
+
 - Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen: All right. So again, who was sitting in the chief seats at the synagogues? The scribes and Pharisees. So they were disputing with Stephen. Stephen was a deacon in the church of Christ. When I say church of Christ, I ain't talking about what they call the church of Christ today. I'm talking about like IUIC today. We the church of Christ. We the congregation. We are the assembly of Israel that are united in Christ. Understand? That's what Stephen was back then. They didn't have a title that we got, but they really did. They was Israel united in Christ.
 
+> <sup>[10](/bible/acts/6#v10)</sup> And they were not able to resist the wisdom and the spirit by which he spake.
+
 - And they were not able to resist the wisdom and the spirit by which he spake: That's like what you see night after night on Clubhouse with Deacon Asaph. You understand? Same thing.
+
+> <sup>[11](/bible/acts/6#v11)</sup> Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God.
 
 - Then they suborned men: Then they what? To suborn means to pay, to hire. So because they could not debunk what Deacon Stephen was saying... These are they that sit in Moses' seat. But because they didn't want to humble down, they were so prideful, they said, we're going to suborn, meaning hire, men to do what?
 
 - Which said, We have heard him speak blasphemous words against Moses, and against God: Right? And why would they have to pay men to do that if he was actually doing that? That mean that it was a lie. It was false. Hold that. Get Exodus 23. Exodus 23:1. This what they was doing. This is why Paul said, you go to law before the unjust. Y'all going to the synagogue to them … Them … ain't right.
+
+> <sup>[12](/bible/acts/6#v12)</sup> And they stirred up the people, and the elders, and the scribes, and came upon him, and caught him, and brought him to the council,
 
 - And brought him to the council: Sanhedrin.
 
@@ -298,12 +298,12 @@ Reading from NIV, 1 Corinthians 6:1  *[[18:18](https://www.youtube.com/watch?v=l
 **[1 Corinthians 6:4-5](/bible/1-corinthians/6#v4)**  *[[53:25](https://www.youtube.com/watch?v=lJYSM1KMaEk&t=3205s)]*
 
 > <sup>[4](/bible/1-corinthians/6#v4)</sup> If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.
->
-> <sup>[5](/bible/1-corinthians/6#v5)</sup> I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
 
 - If then ye have judgments of things pertaining to this life: Right? So if you got things that pertain to this life that require judgment.
 
 - Set them to judge who are least esteemed in the church: You should be able to, if you are the men that's going to be judging the world, the angels in the world to come, you should be able to have the young men in the body judge the matters that y'all running to the scribes and Pharisees to. The hell is this?
+
+> <sup>[5](/bible/1-corinthians/6#v5)</sup> I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
 
 - I speak to your shame: Right. I'm saying this so you could be ashamed. You ought to be ashamed of yourself.
 

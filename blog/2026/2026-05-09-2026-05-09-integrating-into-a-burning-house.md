@@ -71,32 +71,38 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 > <sup>[7](/bible/2-esdras/15#v7)</sup> Therefore saith the Lord,
 >
 > <sup>[8](/bible/2-esdras/15#v8)</sup> I will hold my tongue no more as touching their wickedness, which they profanely commit, neither will I suffer them in those things, in which they wickedly exercise themselves: behold, the innocent and righteous blood crieth unto me, and the souls of the just complain continually.
->
+
+- Therefore saith the Lord, I will hold my tongue no more as touching their wickedness: this is speaking of the persecution and killing of our people here in America. Behold, the innocent and righteous blood crieth unto me: they will shed the blood of innocent black and Hispanic men, and the Lord says, I will surely avenge them, and receive unto me all the innocent blood from among them.
+
 > <sup>[9](/bible/2-esdras/15#v9)</sup> And therefore, saith the Lord, I will surely avenge them, and receive unto me all the innocent blood from among them.
 >
 > <sup>[10](/bible/2-esdras/15#v10)</sup> Behold, my people is led as a flock to the slaughter: I will not suffer them now to dwell in the land of Egypt:
->
-> <sup>[11](/bible/2-esdras/15#v11)</sup> But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof.
 
-- Therefore saith the Lord, I will hold my tongue no more as touching their wickedness: this is speaking of the persecution and killing of our people here in America. Behold, the innocent and righteous blood crieth unto me: they will shed the blood of innocent black and Hispanic men, and the Lord says, I will surely avenge them, and receive unto me all the innocent blood from among them.
 - Behold, my people is led as a flock to the slaughter: that is the Israelites in captivity. I will not suffer them now to dwell in the land of Egypt: the Egypt here is spiritual Egypt, which is America. Much oppression is going to take place on our people here, and you already see things being put in place to bring us under heavy oppression.
+
 - But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof. The same way the Most High smote Egypt in the past, he is going to do it again, and this time the whole land will be destroyed.
 
+> <sup>[11](/bible/2-esdras/15#v11)</sup> But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof.
+
 **[Exodus 1:8-11](/bible/exodus/1#v8)**  *[[49:10](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=2950s)]*
+
+- There arose a new king over Egypt which knew not Joseph: a new kingdom that did not respect Joseph or the Israelites. And he said, behold, the people of the children of Israel are more and mightier than we. Seventy souls went into ancient Egypt, a minority, and over time we became the majority; and we were mightier, better than the Egyptians in trade, farming, and education, and those Egyptians knew it.
 
 > <sup>[8](/bible/exodus/1#v8)</sup> Now there arose up a new king over Egypt, which knew not Joseph.
 >
 > <sup>[9](/bible/exodus/1#v9)</sup> And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
 >
 > <sup>[10](/bible/exodus/1#v10)</sup> Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
->
-> <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
 
-- There arose a new king over Egypt which knew not Joseph: a new kingdom that did not respect Joseph or the Israelites. And he said, behold, the people of the children of Israel are more and mightier than we. Seventy souls went into ancient Egypt, a minority, and over time we became the majority; and we were mightier, better than the Egyptians in trade, farming, and education, and those Egyptians knew it.
 - Come on, let us deal wisely with them, lest they multiply: dealing wisely was setting up institutions of slavery and oppression to keep us at the bottom of their society, and to stop us from multiplying.
+
 - The same thing is happening in America, spiritual Egypt. The census exists to keep track of the numbers, and the numbers are divided up between blacks and Hispanics to keep the count looking small; but the twelve tribes of Israel are the majority in this land now. News clips played: demographers reporting that the gains in child populations are coming from the so called minority groups, that Hispanic, black, and Asian toddlers now outnumber their white counterparts, and a commentator saying plainly that within a generation white Americans will no longer be the numerical majority, and that this frightens those in power who fear being treated the way they treated others.
+
 - That is why you see the laws changing now, the mass deportations, the push against the fourteenth amendment. They are saying again, let us deal wisely with them. In the last sixty years, since they allowed us into their society, we have become the majority, and now the response is the same as Pharaoh's.
+
 - Do not fall for the lie that our people are inferior. When our people apply themselves, we excel above the nations. It has nothing to do with any DEI; we are better qualified. That is exactly why it was once against the law for us to read, and why the institutions were built to keep us at the bottom.
+
+> <sup>[11](/bible/exodus/1#v11)</sup> Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
 
 **[Revelation 11:8](/bible/revelation/11#v8)**  *[[1:06:36](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=3996s)]*
 
@@ -107,21 +113,25 @@ Shalom, Israel. The Deacon brings forth the class, following the brothers who ta
 **[Isaiah 28:14-15](/bible/isaiah/28#v14)**  *[[1:07:24](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=4044s)]*
 
 > <sup>[14](/bible/isaiah/28#v14)</sup> Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.
->
-> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
 - Hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem: the scornful men are sinful leaders ruling God's people, then and now, the leaders of the black community.
+
 - Because ye have said, we have made a covenant with death, and with hell are we at agreement. In Egypt our forefathers covenanted with Egypt; in the time of Christ the leaders made their agreement with Rome to stay in power; and during the civil rights movement the leaders of that time made a covenant and agreement with white America and its political machine. That is what the civil rights bargain was.
+
+> <sup>[15](/bible/isaiah/28#v15)</sup> Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
+
 - For we have made lies our refuge, and under falsehood have we hid ourselves: our people are comfortable in the lies that were sold to us in the 1960s. We trust in the lies of Christianity, the lies of their politics, the lies of Santa Claus and Easter, and we teach our children the lies. And some of those leaders hid themselves under falsehood, acting like they were for the people while they sold the people out. Not all of them: Dr. Martin Luther King really loved his people, and that is why he was killed. To see who sold him out, always look at who benefited the most when he died, and who was put up as the next leader for the black community.
 
 **[Habakkuk 2:4-5](/bible/habakkuk/2#v4)**  *[[1:09:19](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=4159s)]*
 
 > <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
->
-> <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
 
 - Behold, his soul which is lifted up is not upright in him: God tells you plainly about the soul of this people. You can try to make them right as much as you want, but the scripture stands. But the just shall live by his faith.
+
+> <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
+
 - He transgresseth by wine, he is a proud man, neither keepeth at home: he does not stay in his own land. Who enlargeth his desire as hell, and is as death, and cannot be satisfied: anything he wants, he takes, and the lands he takes it from catch hell. This is a prophecy about America coming into power, and it calls America what? Hell and death.
+
 - But gathereth unto him all nations, and heapeth unto him all people: which nation on earth gathers all people, the great melting pot? Mystery Babylon the great: the United States of America, where every nation dwells, including the twelve tribes of Israel.
 
 **[Matthew 16:18](/bible/matthew/16#v18)**  *[[1:13:04](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=4384s)]*
@@ -177,11 +187,12 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 **[Wisdom of Solomon 14:21-22](/bible/wisdom-of-solomon/14#v21)**  *[[2:38:03](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9483s)]*
 
 > <sup>[21](/bible/wisdom-of-solomon/14#v21)</sup> And this was an occasion to deceive the world: for men, serving either calamity or tyranny, did ascribe unto stones and stocks the incommunicable name.
->
-> <sup>[22](/bible/wisdom-of-solomon/14#v22)</sup> Moreover this was not enough for them, that they erred in the knowledge of God; but whereas they lived in the great war of ignorance, those so great plagues called they peace.
 
 - Men serving either calamity or tyranny: the calamity is slavery, the bad thing that happened to us; the tyranny is the tyrant, the oppressive system we serve in.
+
 - Whereas they lived in the great war of ignorance, those so great plagues called they peace. There is a war going on and your leaders tell you it is peace. Ignorance means you know nothing: ask our people when Christ was born, what color Christ is, who the black man and the Puerto Rican man are, and hear the answers. The truth has been hidden from us, and we call the plagues we live in peace.
+
+> <sup>[22](/bible/wisdom-of-solomon/14#v22)</sup> Moreover this was not enough for them, that they erred in the knowledge of God; but whereas they lived in the great war of ignorance, those so great plagues called they peace.
 
 **[Deuteronomy 28:68](/bible/deuteronomy/28#v68)**  *[[2:43:01](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9781s)]*
 
@@ -200,7 +211,13 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 **[Deuteronomy 29:19-23](/bible/deuteronomy/29#v19)**  *[[2:44:30](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=9870s)]*
 
 > <sup>[19](/bible/deuteronomy/29#v19)</sup> And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:
->
+
+- When he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace: that is our people in America saying, I follow white Jesus, I am good, I am happy, living under the illusion while walking in the imagination of their own heart.
+
+- The Lord will not spare him, but the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him.
+
+- The generation to come, and the stranger from a far land, shall say, when they see the plagues of that land, and the sicknesses which the Lord hath laid upon it, that the whole land thereof is brimstone, and salt, and burning, like the overthrow of Sodom and Gomorrah. Burning. That is America, that is Egypt, that is the burning house Dr. King said he had integrated his people into. He read of Sodom and Gomorrah and saw that this is America.
+
 > <sup>[20](/bible/deuteronomy/29#v20)</sup> The Lord will not spare him, but then the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the Lord shall blot out his name from under heaven.
 >
 > <sup>[21](/bible/deuteronomy/29#v21)</sup> And the Lord shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:
@@ -209,20 +226,22 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 >
 > <sup>[23](/bible/deuteronomy/29#v23)</sup> And that the whole land thereof is brimstone, and salt, and burning, that it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the Lord overthrew in his anger, and in his wrath:
 
-- When he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace: that is our people in America saying, I follow white Jesus, I am good, I am happy, living under the illusion while walking in the imagination of their own heart.
-- The Lord will not spare him, but the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him.
-- The generation to come, and the stranger from a far land, shall say, when they see the plagues of that land, and the sicknesses which the Lord hath laid upon it, that the whole land thereof is brimstone, and salt, and burning, like the overthrow of Sodom and Gomorrah. Burning. That is America, that is Egypt, that is the burning house Dr. King said he had integrated his people into. He read of Sodom and Gomorrah and saw that this is America.
-
 **[Jeremiah 50:31-38](/bible/jeremiah/50#v31)**  *[[2:47:25](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=10045s)]*
 
 > <sup>[31](/bible/jeremiah/50#v31)</sup> Behold, I am against thee, O thou most proud, saith the Lord God of hosts: for thy day is come, the time that I will visit thee.
->
+
+- Behold, I am against thee, O thou most proud, saith the Lord God of hosts: for thy day is come, the time that I will visit thee. The most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him. A fire in the cities of America: that is the burning Dr. King saw.
+
 > <sup>[32](/bible/jeremiah/50#v32)</sup> And the most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him.
 >
 > <sup>[33](/bible/jeremiah/50#v33)</sup> Thus saith the Lord of hosts; The children of Israel and the children of Judah were oppressed together: and all that took them captives held them fast; they refused to let them go.
->
+
+- Thus saith the Lord of hosts; The children of Israel and the children of Judah were oppressed together: we are oppressed here in America, and we are together. And all that took them captives held them fast; they refused to let them go: proof that we are still slaves. They never let us go.
+
 > <sup>[34](/bible/jeremiah/50#v34)</sup> Their Redeemer is strong; the Lord of hosts is his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.
->
+
+- Their Redeemer is strong; the Lord of hosts is his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon. A sword is upon the Chaldeans, upon her princes and her wise men, upon the liars, upon her mighty men, upon her horses and chariots, and upon all the mingled people that are in the midst of her: all the nations living here in America are the mingled people. A sword is upon her treasures, and a drought is upon her waters.
+
 > <sup>[35](/bible/jeremiah/50#v35)</sup> A sword is upon the Chaldeans, saith the Lord, and upon the inhabitants of Babylon, and upon her princes, and upon her wise men.
 >
 > <sup>[36](/bible/jeremiah/50#v36)</sup> A sword is upon the liars; and they shall dote: a sword is upon her mighty men; and they shall be dismayed.
@@ -230,10 +249,6 @@ A history run down through the covenant with hell and death. In 1619 we were bro
 > <sup>[37](/bible/jeremiah/50#v37)</sup> A sword is upon their horses, and upon their chariots, and upon all the mingled people that are in the midst of her; and they shall become as women: a sword is upon her treasures; and they shall be robbed.
 >
 > <sup>[38](/bible/jeremiah/50#v38)</sup> A drought is upon her waters; and they shall be dried up: for it is the land of graven images, and they are mad upon their idols.
-
-- Behold, I am against thee, O thou most proud, saith the Lord God of hosts: for thy day is come, the time that I will visit thee. The most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him. A fire in the cities of America: that is the burning Dr. King saw.
-- Thus saith the Lord of hosts; The children of Israel and the children of Judah were oppressed together: we are oppressed here in America, and we are together. And all that took them captives held them fast; they refused to let them go: proof that we are still slaves. They never let us go.
-- Their Redeemer is strong; the Lord of hosts is his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon. A sword is upon the Chaldeans, upon her princes and her wise men, upon the liars, upon her mighty men, upon her horses and chariots, and upon all the mingled people that are in the midst of her: all the nations living here in America are the mingled people. A sword is upon her treasures, and a drought is upon her waters.
 
 **[Jeremiah 51:25](/bible/jeremiah/51#v25)**  *[[2:50:53](https://www.youtube.com/watch?v=Bb3r5SDV3PI&t=10253s)]*
 

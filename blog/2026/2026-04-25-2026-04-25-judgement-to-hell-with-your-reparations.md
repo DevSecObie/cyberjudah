@@ -44,16 +44,15 @@ Video played in class: the United Nations has officially declared that the trans
 **[Genesis 49:5-9](/bible/genesis/49#v5)**  *[[9:24](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=564s)]*
 
 > <sup>[5](/bible/genesis/49#v5)</sup> Simeon and Levi are brethren; instruments of cruelty are in their habitations.
->
+
+- Simeon and Levi are brethren: in the last days the so-called Haitians and the so-called Dominicans are living on the same island of Hispaniola. Instruments of cruelty are in their habitations: that's going into the witchcraft, the voodoo and black magic. Unto their assembly, mine honour, be not thou united: that's why the Haitians and the Dominicans hate each other and are not united; that's why you see them snatching people off the street and deporting them.
+
 > <sup>[6](/bible/genesis/49#v6)</sup> O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
 >
 > <sup>[7](/bible/genesis/49#v7)</sup> Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.
 >
 > <sup>[8](/bible/genesis/49#v8)</sup> Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father’s children shall bow down before thee.
->
-> <sup>[9](/bible/genesis/49#v9)</sup> Judah is a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
 
-- Simeon and Levi are brethren: in the last days the so-called Haitians and the so-called Dominicans are living on the same island of Hispaniola. Instruments of cruelty are in their habitations: that's going into the witchcraft, the voodoo and black magic. Unto their assembly, mine honour, be not thou united: that's why the Haitians and the Dominicans hate each other and are not united; that's why you see them snatching people off the street and deporting them.
 - Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies. Judah is going to be living in close proximity to his enemy, which today is Esau. Go back into the 60s and 70s: the Black Panthers, Martin Luther King, Malcolm X, a lot of movements where Judah rose up and was contending with the so-called white man. He couched as a lion, and as an old lion; who shall rouse him up? Christ is going to rouse him up.
 
   Precepts:
@@ -63,6 +62,8 @@ Video played in class: the United Nations has officially declared that the trans
     > <sup>[7](/bible/zechariah/2#v7)</sup> Deliver thyself, O Zion, that dwellest with the daughter of Babylon.
 
     Deliver thyself, O Zion, that dwellest with the daughter of Babylon. Zion is the city of Judah, and the daughter of Babylon, when you read Psalms 137, is Edom. So Judah will be dwelling with Edom, living with his enemy.
+
+> <sup>[9](/bible/genesis/49#v9)</sup> Judah is a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
 
 **[Genesis 49:13](/bible/genesis/49#v13)**  *[[14:14](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=854s)]*
 
@@ -78,15 +79,17 @@ Video played in class: the United Nations has officially declared that the trans
 
 **[Genesis 49:22-24](/bible/genesis/49#v22)**  *[[16:13](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=973s)]*
 
+- Joseph is a fruitful bough by a well: Joseph, the so-called Puerto Ricans, dwelling on an island. When the Spaniards came they called it the port of riches, because there was gold all over the place. And fruitful, because the people there multiply.
+
 > <sup>[22](/bible/genesis/49#v22)</sup> Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:
 >
 > <sup>[23](/bible/genesis/49#v23)</sup> The archers have sorely grieved him, and shot at him, and hated him:
->
-> <sup>[24](/bible/genesis/49#v24)</sup> But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)
 
-- Joseph is a fruitful bough by a well: Joseph, the so-called Puerto Ricans, dwelling on an island. When the Spaniards came they called it the port of riches, because there was gold all over the place. And fruitful, because the people there multiply.
 - The archers have sorely grieved him, and shot at him, and hated him: but his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob.
+
 - Genesis 49 is talking about the Western Hemisphere: Israel that's going to be living on this side of the world, brought here on cargo slave ships and oppressed by the king of Babylon. Israel is not just on this side of the world; Israel is all over the world. But the Lord put emphasis on this side, because Judah needed to know who they were first, and then go unto his people.
+
+> <sup>[24](/bible/genesis/49#v24)</sup> But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)
 
 **[Isaiah 14:13](/bible/isaiah/14#v13)**  *[[18:28](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=1108s)]*
 
@@ -153,22 +156,27 @@ Video played in class: the United Nations has officially declared that the trans
 > <sup>[42](/bible/deuteronomy/28#v42)</sup> All thy trees and fruit of thy land shall the locust consume.
 >
 > <sup>[43](/bible/deuteronomy/28#v43)</sup> The stranger that is within thee shall get up above thee very high; and thou shalt come down very low.
->
+
+- The stranger that is within thee shall get up above thee very high, and thou shalt come down very low: that's how it is in society today. There's no such thing as equality; don't let nobody fool you with that democracy and equal rights talk. Somebody has to be on top and somebody has to be on the bottom. We have been assimilated into their society, and they are on top. No matter if one, two, three Negroes become millionaires or billionaires, you cannot rise above your people while our people are the base of society.
+
 > <sup>[44](/bible/deuteronomy/28#v44)</sup> He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.
->
+
+- He shall lend to thee, and thou shalt not lend to him: you need a loan, you go to the white man's bank. Now take it on an international, geopolitical level: does Africa borrow from China? Does Jamaica borrow from China? China lends to the Caribbean and Africa, and when our people cannot pay, China takes their land and resources. Russia lends to African nations. And the IMF tells Africa what their money is worth and gives loans they cannot pay back. That's the curse in action: it's talking about Africa, Guatemala, Panama, Ecuador, Venezuela, Chile, wherever our people are scattered and wherever our people are governing.
+
 > <sup>[45](/bible/deuteronomy/28#v45)</sup> Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the Lord thy God, to keep his commandments and his statutes which he commanded thee:
->
+
+- He shall be the head, and thou shalt be the tail. Moreover all these curses shall come upon thee, and shall pursue thee: no matter where we are, the curses pursue us. The reason Africa is at the bottom of the food chain among all nations, while the Arabs and the Chinese are rich, is because most of the people over there are our people.
+
 > <sup>[46](/bible/deuteronomy/28#v46)</sup> And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
 >
 > <sup>[47](/bible/deuteronomy/28#v47)</sup> Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;
 >
 > <sup>[48](/bible/deuteronomy/28#v48)</sup> Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 
-- The stranger that is within thee shall get up above thee very high, and thou shalt come down very low: that's how it is in society today. There's no such thing as equality; don't let nobody fool you with that democracy and equal rights talk. Somebody has to be on top and somebody has to be on the bottom. We have been assimilated into their society, and they are on top. No matter if one, two, three Negroes become millionaires or billionaires, you cannot rise above your people while our people are the base of society.
-- He shall lend to thee, and thou shalt not lend to him: you need a loan, you go to the white man's bank. Now take it on an international, geopolitical level: does Africa borrow from China? Does Jamaica borrow from China? China lends to the Caribbean and Africa, and when our people cannot pay, China takes their land and resources. Russia lends to African nations. And the IMF tells Africa what their money is worth and gives loans they cannot pay back. That's the curse in action: it's talking about Africa, Guatemala, Panama, Ecuador, Venezuela, Chile, wherever our people are scattered and wherever our people are governing.
-- He shall be the head, and thou shalt be the tail. Moreover all these curses shall come upon thee, and shall pursue thee: no matter where we are, the curses pursue us. The reason Africa is at the bottom of the food chain among all nations, while the Arabs and the Chinese are rich, is because most of the people over there are our people.
 - Therefore shalt thou serve thine enemies: whether it's the white man, the Chinese, the Russians, or the Arabs. In hunger, and in thirst, and in nakedness, and in want of all things: food, clothing, water, education; anything you need, you got to serve your enemy for it. The educational systems in Africa and the Caribbean were designed by the colonizers.
+
 - Video played in class: Thomas Sankara explaining why he refused food aid: it keeps us in a beggar mentality, and it stops our farmers from producing; those who really want to help can send plows, tractors, and boreholes, not bags of wheat. They killed him; his best friend was paid to do it. Africa and the Caribbean depend on America for food because that's the deal the IMF makes: we'll lend you billions, but you can't grow your own food; you buy it from our farmers. That's control: disagree, and they shut off your food supply.
+
 - And he shall put a yoke of iron upon thy neck, until he have destroyed thee: they didn't just take millions of us to the Western Hemisphere; they went into Africa and enslaved the ones that remained. Colonization is slavery. Don't get confused by the terminology. When King Leopold colonized the Congo, he enslaved us.
 
 **[Deuteronomy 28:32](/bible/deuteronomy/28#v32)**  *[[1:12:15](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=4335s)]*
@@ -297,10 +305,10 @@ Video played in class: the United Nations has officially declared that the trans
 **[Jeremiah 23:5-6](/bible/jeremiah/23#v5)**  *[[2:40:36](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9636s)]*
 
 > <sup>[5](/bible/jeremiah/23#v5)</sup> Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
->
-> <sup>[6](/bible/jeremiah/23#v6)</sup> In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
 
 - Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch: that king is Christ. And shall execute judgment and justice in the earth: all the wickedness, slavery, all of it, will be answered when Christ returns. In his days Judah shall be saved.
+
+> <sup>[6](/bible/jeremiah/23#v6)</sup> In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
 
 **[Exodus 21:16](/bible/exodus/21#v16)**  *[[2:41:37](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9697s)]*
 
@@ -323,10 +331,11 @@ Video played in class: the United Nations has officially declared that the trans
 **[Psalms 58:10-11](/bible/psalms/58#v10)**  *[[2:44:39](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=9879s)]*
 
 > <sup>[10](/bible/psalms/58#v10)</sup> The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.
->
-> <sup>[11](/bible/psalms/58#v11)</sup> So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.
 
 - The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked. You brothers and sisters that want vengeance for slavery, talking about reparations: to hell with their paper money. Who are the wicked? The people that robbed, stole, and murdered us.
+
+> <sup>[11](/bible/psalms/58#v11)</sup> So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.
+
 - So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth. That's our reward: the Lord is going to bring judgment on this earth.
 
 **[Revelation 13:9-10](/bible/revelation/13#v9)**  *[[2:47:27](https://www.youtube.com/watch?v=vJ3j9kchmtI&t=10047s)]*
@@ -336,6 +345,7 @@ Video played in class: the United Nations has officially declared that the trans
 > <sup>[10](/bible/revelation/13#v10)</sup> He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
 
 - He that leadeth into captivity shall go into captivity: he that leadeth the children of Israel into captivity shall go into captivity. I don't want no reparation; I want the judgment written: the people that enslaved us will answer with the same measure. He that killeth with the sword must be killed with the sword: weren't we killed in Africa and over here with the sword?
+
 - Here is the patience and the faith of the saints: this is what you got to believe.
 
   Precepts:

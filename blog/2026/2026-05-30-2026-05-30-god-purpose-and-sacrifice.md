@@ -32,36 +32,42 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 
 **[Job 20:18-22](/bible/job/20#v18)**  *[[37:32](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=2252s)]*
 
+- This goes into the restitution. That which he laboured for shall he restore: everything the white man is laboring for, all that gold and wealth they are storing up on the earth, the Most High says he is going to restore it. And shall not swallow it down: he is not going to enjoy it. According to his substance shall the restitution be: all the gold and pearls and rubies and diamonds. That is going to be our restitution. When Christ returns, all the wealth the white man has, he has to give it up.
+
+- Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not. This is what the white man did: he violently took away people's houses that he never built. So the restitution for stealing people's houses and lands is that you give up everything you have.
+
 > <sup>[18](/bible/job/20#v18)</sup> That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.
 >
 > <sup>[19](/bible/job/20#v19)</sup> Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;
 >
 > <sup>[20](/bible/job/20#v20)</sup> Surely he shall not feel quietness in his belly, he shall not save of that which he desired.
->
+
+- Surely he shall not feel quietness in his belly: you are not going to be at peace. He shall not save of that which he desired: all that riches, you are not going to be able to save it for yourself.
+
 > <sup>[21](/bible/job/20#v21)</sup> There shall none of his meat be left; therefore shall no man look for his goods.
 >
 > <sup>[22](/bible/job/20#v22)</sup> In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
 
-- This goes into the restitution. That which he laboured for shall he restore: everything the white man is laboring for, all that gold and wealth they are storing up on the earth, the Most High says he is going to restore it. And shall not swallow it down: he is not going to enjoy it. According to his substance shall the restitution be: all the gold and pearls and rubies and diamonds. That is going to be our restitution. When Christ returns, all the wealth the white man has, he has to give it up.
-- Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not. This is what the white man did: he violently took away people's houses that he never built. So the restitution for stealing people's houses and lands is that you give up everything you have.
-- Surely he shall not feel quietness in his belly: you are not going to be at peace. He shall not save of that which he desired: all that riches, you are not going to be able to save it for yourself.
 - Every hand of the wicked shall come upon him: that is what is going to happen to America. Saudi Arabia, Russia, Persia which is Iran, China.
 
 **[Haggai 2:5-9](/bible/haggai/2#v5)**  *[[41:10](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=2470s)]*
+
+- Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; and I will shake all nations. This is talking about the third woe: the Lord is going to destroy all nations.
 
 > <sup>[5](/bible/haggai/2#v5)</sup> According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.
 >
 > <sup>[6](/bible/haggai/2#v6)</sup> For thus saith the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;
 >
 > <sup>[7](/bible/haggai/2#v7)</sup> And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the Lord of hosts.
->
+
+- The desire of all nations shall come: their desire is the gold, silver, pearls, the riches that they have. And I will fill this house with glory: this is the third temple. It is going to be beautiful because all the gold and silver these nations have been stealing and storing is coming back to us.
+
 > <sup>[8](/bible/haggai/2#v8)</sup> The silver is mine, and the gold is mine, saith the Lord of hosts.
->
+
+- The silver is mine, and the gold is mine, saith the Lord of hosts: all the silver and gold on this earth belongs to the Most High.
+
 > <sup>[9](/bible/haggai/2#v9)</sup> The glory of this latter house shall be greater than of the former, saith the Lord of hosts: and in this place will I give peace, saith the Lord of hosts.
 
-- Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; and I will shake all nations. This is talking about the third woe: the Lord is going to destroy all nations.
-- The desire of all nations shall come: their desire is the gold, silver, pearls, the riches that they have. And I will fill this house with glory: this is the third temple. It is going to be beautiful because all the gold and silver these nations have been stealing and storing is coming back to us.
-- The silver is mine, and the gold is mine, saith the Lord of hosts: all the silver and gold on this earth belongs to the Most High.
 - The glory of this latter house shall be greater than of the former: greater than the temple Solomon built, because the nations are going to bring their wealth. When it says restitution, it means gold and silver and precious things, real wealth, not the US paper dollar.
 
 **[Isaiah 61:6](/bible/isaiah/61#v6)**  *[[43:54](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=2634s)]*
@@ -83,27 +89,33 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 **[Zechariah 11:4-5](/bible/zechariah/11#v4)**  *[[51:03](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=3063s)]*
 
 > <sup>[4](/bible/zechariah/11#v4)</sup> Thus saith the Lord my God; Feed the flock of the slaughter;
->
-> <sup>[5](/bible/zechariah/11#v5)</sup> Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
 
 - Feed the flock of the slaughter: the flock of the slaughter is us, the twelve tribes of Israel. We are being slaughtered and oppressed.
+
+> <sup>[5](/bible/zechariah/11#v5)</sup> Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.
+
 - Whose possessors slay them, and hold themselves not guilty: our possessors are the nations ruling over us. They slay us and say, we are not guilty; forget about it, it was just 50 years ago, stop being a victim. But we charge you in the name of the Lord: you are guilty of kidnapping, murder, and theft, and you are going to be judged for every one of them, and for all the land you stole on this earth.
+
 - And they that sell them say, Blessed be the Lord; for I am rich. That is what the white man says, because he did it in the name of white Jesus. The Roman Catholic Church set up those edicts to enslave and colonize Africa and the new world in the name of the Lord.
+
 - And their own shepherds pity them not: our own shepherds had no mercy and never helped us.
 
 **[Revelation 13:7-10](/bible/revelation/13#v7)**  *[[56:07](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=3367s)]*
 
+- And it was given unto him to make war with the saints. A lot of you think the Roman Catholic Church just enslaved people and brought slaves from Africa. No: it was war, to destroy the twelve tribes that were living all over Africa and here in the new world. The first slaves came from Spain, our people that were ruling over there, the Moors. When they finished with us there, they went to the new world, then to Africa. They took our nationality and our identity. Slavery was war.
+
+- You hear a lot that black people sold black people into slavery. The Roman Catholic Church made edicts and laws legalizing slavery before they ever went to Africa. Slavery was a system set up by Christianity, by white Europeans, to conquer Africa; then they had black people fighting among each other, the same way they put us to fight each other today like you see in South Africa. And chattel slavery, where your children and grandchildren are all slaves, is different from any form of slavery that was set up on this earth, like working off a debt.
+
 > <sup>[7](/bible/revelation/13#v7)</sup> And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
 >
 > <sup>[8](/bible/revelation/13#v8)</sup> And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
->
+
+- And power was given him over all kindreds, and tongues, and nations, and all that dwell upon the earth shall worship him: everybody started worshiping the white man as Christ and Savior, whose names are not written in the book of life.
+
 > <sup>[9](/bible/revelation/13#v9)</sup> If any man have an ear, let him hear.
 >
 > <sup>[10](/bible/revelation/13#v10)</sup> He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
 
-- And it was given unto him to make war with the saints. A lot of you think the Roman Catholic Church just enslaved people and brought slaves from Africa. No: it was war, to destroy the twelve tribes that were living all over Africa and here in the new world. The first slaves came from Spain, our people that were ruling over there, the Moors. When they finished with us there, they went to the new world, then to Africa. They took our nationality and our identity. Slavery was war.
-- You hear a lot that black people sold black people into slavery. The Roman Catholic Church made edicts and laws legalizing slavery before they ever went to Africa. Slavery was a system set up by Christianity, by white Europeans, to conquer Africa; then they had black people fighting among each other, the same way they put us to fight each other today like you see in South Africa. And chattel slavery, where your children and grandchildren are all slaves, is different from any form of slavery that was set up on this earth, like working off a debt.
-- And power was given him over all kindreds, and tongues, and nations, and all that dwell upon the earth shall worship him: everybody started worshiping the white man as Christ and Savior, whose names are not written in the book of life.
 - He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. That is the judgment for the verse above. Here is the patience and the faith of the saints: this is what the saints are patiently waiting for. If you are a saint, you want justice for what was done to your forefathers.
 
 **[Isaiah 1:2-3](/bible/isaiah/1#v2)**  *[[1:27:52](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=5272s)]*
@@ -126,6 +138,10 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 
 **[Psalms 137:3-8](/bible/psalms/137#v3)**  *[[1:35:36](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=5736s)]*
 
+- They that carried us away captive required of us a song; and they that wasted us required of us mirth. How shall we sing the Lord's song in a strange land?
+
+- If I forget thee, O Jerusalem, let my right hand forget her cunning. This is David speaking, and David will come back in the future. What is the Israelite man's job on this earth? To serve God and keep his laws: unto me the children of Israel are servants. If you forget your nation, you are going to forget what your right hand is supposed to be doing, which is serving God. That is what happened to us in slavery: because we forgot Jerusalem, we forgot our God.
+
 > <sup>[3](/bible/psalms/137#v3)</sup> For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.
 >
 > <sup>[4](/bible/psalms/137#v4)</sup> How shall we sing the Lord’s song in a strange land?
@@ -133,16 +149,17 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 > <sup>[5](/bible/psalms/137#v5)</sup> If I forget thee, O Jerusalem, let my right hand forget her cunning.
 >
 > <sup>[6](/bible/psalms/137#v6)</sup> If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.
->
+
+- If I do not remember thee, let my tongue cleave to the roof of my mouth: you are not going to be able to teach the Bible if you do not know that you are an Israelite. The first thing you must learn to understand this book is who you are. You have to read this Bible with the understanding that it is talking about you.
+
+- If I prefer not Jerusalem above my chief joy: Jerusalem is supposed to be your chief joy.
+
+- Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. David was not there, but David was a prophet and saw in a vision Edom helping the Babylonians and 70 AD when the Romans came.
+
 > <sup>[7](/bible/psalms/137#v7)</sup> Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.
 >
 > <sup>[8](/bible/psalms/137#v8)</sup> O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.
 
-- They that carried us away captive required of us a song; and they that wasted us required of us mirth. How shall we sing the Lord's song in a strange land?
-- If I forget thee, O Jerusalem, let my right hand forget her cunning. This is David speaking, and David will come back in the future. What is the Israelite man's job on this earth? To serve God and keep his laws: unto me the children of Israel are servants. If you forget your nation, you are going to forget what your right hand is supposed to be doing, which is serving God. That is what happened to us in slavery: because we forgot Jerusalem, we forgot our God.
-- If I do not remember thee, let my tongue cleave to the roof of my mouth: you are not going to be able to teach the Bible if you do not know that you are an Israelite. The first thing you must learn to understand this book is who you are. You have to read this Bible with the understanding that it is talking about you.
-- If I prefer not Jerusalem above my chief joy: Jerusalem is supposed to be your chief joy.
-- Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof. David was not there, but David was a prophet and saw in a vision Edom helping the Babylonians and 70 AD when the Romans came.
 - O daughter of Babylon, who art to be destroyed: Edom did the same thing ancient Babylon did, so that is their judgment.
 
 **[Jeremiah 17:4](/bible/jeremiah/17#v4)**  *[[1:41:58](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=6118s)]*
@@ -205,11 +222,12 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 **[Zechariah 1:3-4](/bible/zechariah/1#v3)**  *[[2:03:15](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=7395s)]*
 
 > <sup>[3](/bible/zechariah/1#v3)</sup> Therefore say thou unto them, Thus saith the Lord of hosts; Turn ye unto me, saith the Lord of hosts, and I will turn unto you, saith the Lord of hosts.
->
-> <sup>[4](/bible/zechariah/1#v4)</sup> Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the Lord of hosts; Turn ye now from your evil ways, and from your evil doings: but they did not hear, nor hearken unto me, saith the Lord.
 
 - Turn ye unto me, saith the Lord of hosts, and I will turn unto you: when we turn unto God, God will turn unto us.
+
 - Be ye not as your fathers, unto whom the former prophets have cried, saying, Turn ye now from your evil ways; but they did not hear. We cannot be like our forefathers who did not listen to the prophets. Brothers hearing these teachings, listen and turn to God with all your heart.
+
+> <sup>[4](/bible/zechariah/1#v4)</sup> Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the Lord of hosts; Turn ye now from your evil ways, and from your evil doings: but they did not hear, nor hearken unto me, saith the Lord.
 
 **[Deuteronomy 10:12-13](/bible/deuteronomy/10#v12)**  *[[2:04:32](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=7472s)]*
 
@@ -271,17 +289,19 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 
 **[Matthew 20:1-4](/bible/matthew/20#v1)**  *[[2:18:16](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=8296s)]*
 
+- After you know your God and you know what nation you come from, God will give you purpose. The kingdom of heaven is like a householder who went out early in the morning to hire labourers into his vineyard: the vineyard is the nation of Israel, and he went looking for workers.
+
 > <sup>[1](/bible/matthew/20#v1)</sup> For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard.
 >
 > <sup>[2](/bible/matthew/20#v2)</sup> And when he had agreed with the labourers for a penny a day, he sent them into his vineyard.
 >
 > <sup>[3](/bible/matthew/20#v3)</sup> And he went out about the third hour, and saw others standing idle in the marketplace,
->
-> <sup>[4](/bible/matthew/20#v4)</sup> And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.
 
-- After you know your God and you know what nation you come from, God will give you purpose. The kingdom of heaven is like a householder who went out early in the morning to hire labourers into his vineyard: the vineyard is the nation of Israel, and he went looking for workers.
 - He went out about the third hour, and saw others standing idle in the marketplace: he saw people who had no purpose. That is us. You were going to the club, partying, caught up in Christianity. We were all idle; none of us had purpose.
+
 - And said unto them, Go ye also into the vineyard; and whatsoever is right I will give you. The Lord called us, and he has a job, a purpose, for every last one of us. We were without purpose, but God called us and hired us.
+
+> <sup>[4](/bible/matthew/20#v4)</sup> And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.
 
 **[John 6:44](/bible/john/6#v44)**  *[[2:20:02](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=8402s)]*
 
@@ -317,29 +337,35 @@ The 12:00 pm Sabbath class. Today's topic is God, purpose, and sacrifice. We all
 
 **[Romans 12:3-10](/bible/romans/12#v3)**  *[[2:31:32](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=9092s)]*
 
+- Not to think of himself more highly than he ought to think. As you grow in this truth and God gives you gifts, stay humble, because those gifts can puff you up. The Lord deals with the base things so no man can glory in his presence.
+
 > <sup>[3](/bible/romans/12#v3)</sup> For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
->
+
+- God hath dealt to every man the measure of faith: a different measure, a different amount of gifts. We are not to envy or be jealous of each other over it.
+
+- As we have many members in one body, and all members have not the same office. Some things you can do that I cannot do, and some things this brother can do that another brother cannot. God gave us different gifts, and it is about learning to work together and seeing the best in each other. We are building a nation and setting up a government; in that nation there is an army, but there is a lot more that needs to be set up than the army.
+
 > <sup>[4](/bible/romans/12#v4)</sup> For as we have many members in one body, and all members have not the same office:
 >
 > <sup>[5](/bible/romans/12#v5)</sup> So we, being many, are one body in Christ, and every one members one of another.
 >
 > <sup>[6](/bible/romans/12#v6)</sup> Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;
->
+
+- Having then gifts differing according to the grace that is given to us: whether prophecy, let us prophesy according to the proportion of faith. You might see the bishop or the deacons go into some things and think you can go into that. No: prophesy according to the measure God gave you. If you are not there yet, do not try to go there; take your time.
+
+- Or ministry, let us wait on our ministry; or he that teacheth, on teaching. Some of us are teachers; some might be a prophet; some of us God gives multiple gifts.
+
+- He that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness. Be cheerful in showing mercy.
+
 > <sup>[7](/bible/romans/12#v7)</sup> Or ministry, let us wait on our ministering: or he that teacheth, on teaching;
 >
 > <sup>[8](/bible/romans/12#v8)</sup> Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
 >
 > <sup>[9](/bible/romans/12#v9)</sup> Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
->
-> <sup>[10](/bible/romans/12#v10)</sup> Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
-- Not to think of himself more highly than he ought to think. As you grow in this truth and God gives you gifts, stay humble, because those gifts can puff you up. The Lord deals with the base things so no man can glory in his presence.
-- God hath dealt to every man the measure of faith: a different measure, a different amount of gifts. We are not to envy or be jealous of each other over it.
-- As we have many members in one body, and all members have not the same office. Some things you can do that I cannot do, and some things this brother can do that another brother cannot. God gave us different gifts, and it is about learning to work together and seeing the best in each other. We are building a nation and setting up a government; in that nation there is an army, but there is a lot more that needs to be set up than the army.
-- Having then gifts differing according to the grace that is given to us: whether prophecy, let us prophesy according to the proportion of faith. You might see the bishop or the deacons go into some things and think you can go into that. No: prophesy according to the measure God gave you. If you are not there yet, do not try to go there; take your time.
-- Or ministry, let us wait on our ministry; or he that teacheth, on teaching. Some of us are teachers; some might be a prophet; some of us God gives multiple gifts.
-- He that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness. Be cheerful in showing mercy.
 - Let love be without dissimulation: we should not be trying to break each other down, especially because a brother has a gift you do not have. Abhor that which is evil; cleave to that which is good. Be kindly affectioned one to another with brotherly love.
+
+> <sup>[10](/bible/romans/12#v10)</sup> Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
 **[Ephesians 4:10-12](/bible/ephesians/4#v10)**  *[[2:39:09](https://www.youtube.com/watch?v=7vmCIf3gj2I&t=9549s)]*
 

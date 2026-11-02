@@ -82,31 +82,31 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 **[1 Corinthians 15:24-25](/bible/1-corinthians/15#v24)**  *[[9:13](https://www.youtube.com/watch?v=M7d3rAWpECo&t=553s)]*
 
 > <sup>[24](/bible/1-corinthians/15#v24)</sup> Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.
->
-> <sup>[25](/bible/1-corinthians/15#v25)</sup> For he must reign, till he hath put all enemies under his feet.
 
 - Then cometh the end, when he shall have delivered up the kingdom to God: Then cometh the end, when he, Christ, shall have delivered up the kingdom to God, even the father. When he, Christ, shall have put down all rule and all authority and power. When he puts down all rule and all authority and power.
+
+> <sup>[25](/bible/1-corinthians/15#v25)</sup> For he must reign, till he hath put all enemies under his feet.
 
 - For he must reign, till he hath put all enemies under his feet: For he, Christ, must reign till he hath put all enemies under his feet. Now Christ must reign until all enemies are put under his feet. This is talking about Christ reigning for that thousand years.
 
 
 **[Isaiah 34:1-5](/bible/isaiah/34#v1)**  *[[10:19](https://www.youtube.com/watch?v=M7d3rAWpECo&t=619s)]*
 
+- And I know it's a heavy topic, but I'm just going to briefly touch on it because, you know, this is Giving the Sense from A to Z. It is what it is.
+
 > <sup>[1](/bible/isaiah/34#v1)</sup> Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
 >
 > <sup>[2](/bible/isaiah/34#v2)</sup> For the indignation of the Lord is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.
->
-> <sup>[3](/bible/isaiah/34#v3)</sup> Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.
->
-> <sup>[4](/bible/isaiah/34#v4)</sup> And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree.
->
-> <sup>[5](/bible/isaiah/34#v5)</sup> For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
-
-- And I know it's a heavy topic, but I'm just going to briefly touch on it because, you know, this is Giving the Sense from A to Z. It is what it is.
 
 - For the indignation of the Lord is upon all nations, and his fury upon all their armies: He hath utterly destroyed them. He hath delivered them to the slaughter. This is how you know this can't be talking about all nations being saved. He just said he is going to destroy the nations. He's going to destroy their armies. He's going to utterly destroy them. This is the gospel.
 
+> <sup>[3](/bible/isaiah/34#v3)</sup> Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.
+>
+> <sup>[4](/bible/isaiah/34#v4)</sup> And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree.
+
 - And the heavens shall be rolled together as a scroll: You know what that is? That's that nuclear destruction. When the heavens roll together as a scroll, that's when you look at the mushroom cloud that a nuclear bomb creates. It goes up and then it starts to roll like a scroll. Back then, they had no idea what a nuclear bomb looked like, that it didn't exist. So, they used what they had in their mind at the time to try to articulate what they saw.
+
+> <sup>[5](/bible/isaiah/34#v5)</sup> For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
 
 - Behold, it shall come down upon Idumea, and upon the people of my curse, to judgment: Idumea is Esau. Meaning that all of these things, this destruction is coming down on Esau. Just like how we read in 2 Esdras, Esau is the end of the world. Esau is going to be the one to be destroyed. Why? Because it's going to be Esau in rulership. This is how you know that it's not talking about all nations.
 
@@ -139,15 +139,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 
 **[Judith 5:20-21](/bible/judith/5#v20)**  *[[15:54](https://www.youtube.com/watch?v=M7d3rAWpECo&t=954s)]*
 
-> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
->
-> <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
-
 - The Bible repeats itself over and over. That's why a lot of times when we teach, you're going to hear the same things over and over. That's how you know we all speak the same thing.
+
+> <sup>[20](/bible/judith/5#v20)</sup> Now therefore, my lord and governor, if there be any error against this people, and they sin against their God, let us consider that this shall be their ruin, and let us go up, and we shall overcome them.
 
 - If there be any error in this people, and they sin against their God: let us consider that this shall be their ruin. So this guy, what's his name? Doggone it. This Moabite knew our history. He was the captain of Holofernes. I can't remember his doggone name, but he was the captain of Holofernes, right? Achior. Achior, that's what it was. And he was the captain of this army. And they was like, you know, who is this people that's not coming down to greet me? This guy, this Moabite knew all of our history. And he ran down the history. Salvation of Egypt, who our forefather was, you know, the God of heaven and earth, that we are his people. So that's why he said, if there be any error and they sin against their God, hey, then you can go up and overtake them.
 
 - And that's what the nations understand. The nations understand as long as we are in sin to our God, they can overtake us. That's why social media and media in general is used to promote whoredom, to promote immodesty, to promote immorality. It's there to promote it. And who's the face of all of that? Who makes immorality popular? We do. Who makes immodest clothing popular? We do. Who makes all of these idolatrous and abominable customs popular and famous and look good? We do. So they use us and they promote it in a way to where it looks pleasurable and fun and, oh, this is the thing to do. But in reality it's the same thing that's keeping us down.
+
+> <sup>[21](/bible/judith/5#v21)</sup> But if there be no iniquity in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we become a reproach before all the world.
 
 - But if there be no iniquity in their nation, let my lord now pass by: lest their Lord defend them, and their God be for them, and we become a reproach before all the world. He's like, look, if they in sin, you could go ahead and take them. If they're not in sin, you better leave those people alone. And that's how they helped forward the affliction. They understood our laws. Why do you think they took our books? They understood, okay, if I put these people in sin and I keep them in opposition to their God, I'll remain on top because their God will be against them. Now, it's to a point to where now we're starting to wake up and they know, okay, if they start to wake up, I mean, our power is gone. We ain't going to be able to take over them no more.
 
@@ -155,10 +155,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 **[1 Corinthians 15:25-26](/bible/1-corinthians/15#v25)**  *[[18:56](https://www.youtube.com/watch?v=M7d3rAWpECo&t=1136s)]*
 
 > <sup>[25](/bible/1-corinthians/15#v25)</sup> For he must reign, till he hath put all enemies under his feet.
->
-> <sup>[26](/bible/1-corinthians/15#v26)</sup> The last enemy that shall be destroyed is death.
 
 - For he must reign, till he hath put all enemies under his feet: He got to come and destroy our enemies and the rest of them that's left, they got to get enslaved. They got to, because that's how they did us. They came and destroyed us as a nation. They killed a lot of our people and the ones that was left, they enslaved. No matter how you look at it, no matter how you twist it, the history is the history. They enslaved us all over the world. They enslaved us. So they have to have a recompense.
+
+> <sup>[26](/bible/1-corinthians/15#v26)</sup> The last enemy that shall be destroyed is death.
 
 - The last enemy that shall be destroyed is death: That's the last enemy. Remember, we were not supposed to die. That wasn't what we was made to do. We wasn't made to die.
 
@@ -166,18 +166,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 **[Wisdom of Solomon 1:13-16](/bible/wisdom-of-solomon/1#v13)**  *[[20:51](https://www.youtube.com/watch?v=M7d3rAWpECo&t=1251s)]*
 
 > <sup>[13](/bible/wisdom-of-solomon/1#v13)</sup> For God made not death: neither hath he pleasure in the destruction of the living.
->
-> <sup>[14](/bible/wisdom-of-solomon/1#v14)</sup> For he created all things, that they might have their being: and the generations of the world were healthful; and there is no poison of destruction in them, nor the kingdom of death upon the earth:
->
-> <sup>[15](/bible/wisdom-of-solomon/1#v15)</sup> (For righteousness is immortal:)
->
-> <sup>[16](/bible/wisdom-of-solomon/1#v16)</sup> But ungodly men with their works and words called it to them: for when they thought to have it their friend, they consumed to nought, and made a covenant with it, because they are worthy to take part with it.
 
 - For God made not death: neither hath he pleasure in the destruction of the living. So God didn't make death. God didn't make death. Death is a byproduct of our sin. We wasn't made to come and die and then, you know, come back again. We was made to be immortal. We was made to live forever. But because of this flesh, we had to die because this flesh goes in opposition to what God has.
 
+> <sup>[14](/bible/wisdom-of-solomon/1#v14)</sup> For he created all things, that they might have their being: and the generations of the world were healthful; and there is no poison of destruction in them, nor the kingdom of death upon the earth:
+
 - Nor the kingdom of death upon the earth: When Adam was made and Eve was made, there was no death on earth. There was no death on the earth. They was made. They was made to be righteous. They was made to be immortal and that was it.
 
+> <sup>[15](/bible/wisdom-of-solomon/1#v15)</sup> (For righteousness is immortal:)
+
 - For righteousness is immortal: We was made to be righteous. We was made to be righteous. Righteousness is immortal. Righteousness is forever, just like we were meant to be.
+
+> <sup>[16](/bible/wisdom-of-solomon/1#v16)</sup> But ungodly men with their works and words called it to them: for when they thought to have it their friend, they consumed to nought, and made a covenant with it, because they are worthy to take part with it.
 
 - But ungodly men with their works and words called it to them: Called what? Death. We call death to us by our works and our words. By going against the laws of God, we call death to us. Death is a byproduct of disobeying God's laws. The wages of sin is death. We see it. We see it all the time. The wages of sin is death. That's what death was made for. It was a punishment for going against God's laws.
 
@@ -208,16 +208,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 **[Exodus 32:30-33](/bible/exodus/32#v30)**  *[[24:50](https://www.youtube.com/watch?v=M7d3rAWpECo&t=1490s)]*
 
 > <sup>[30](/bible/exodus/32#v30)</sup> And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for your sin.
->
-> <sup>[31](/bible/exodus/32#v31)</sup> And Moses returned unto the Lord, and said, Oh, this people have sinned a great sin, and have made them gods of gold.
->
-> <sup>[32](/bible/exodus/32#v32)</sup> Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written.
->
-> <sup>[33](/bible/exodus/32#v33)</sup> And the Lord said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.
 
 - Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for your sin. Cuz you know, Israel was rebellious as hell in the wilderness. And we kept having to lean on Moses in order to ask for forgiveness for us.
 
+> <sup>[31](/bible/exodus/32#v31)</sup> And Moses returned unto the Lord, and said, Oh, this people have sinned a great sin, and have made them gods of gold.
+>
+> <sup>[32](/bible/exodus/32#v32)</sup> Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written.
+
 - Blot me, I pray thee, out of thy book which thou hast written: Out of what book? The book of life. Moses already knew about the book of life. And he said, if you're not going to forgive them, then blot my name out of the book.
+
+> <sup>[33](/bible/exodus/32#v33)</sup> And the Lord said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.
 
 - Whosoever hath sinned against me, him will I blot out of my book: What book? The book of life. The book of life was already written. And everybody that's not written in that book is not getting into the kingdom of heaven. They're not living forever. Which means all nations are not written in the book of God. They're not written in the book of life. Only those that are of Israel that are keeping the commandments and the faith of Christ. That's it.
 
@@ -225,10 +225,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 **[1 Corinthians 15:26-27](/bible/1-corinthians/15#v26)**  *[[26:51](https://www.youtube.com/watch?v=M7d3rAWpECo&t=1611s)]*
 
 > <sup>[26](/bible/1-corinthians/15#v26)</sup> The last enemy that shall be destroyed is death.
->
-> <sup>[27](/bible/1-corinthians/15#v27)</sup> For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.
 
 - The last enemy that shall be destroyed is death: So death is going to be no more.
+
+> <sup>[27](/bible/1-corinthians/15#v27)</sup> For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.
 
 - For he hath put all things under his feet: For he, the father, hath put all things under his, Christ's, feet. The father put all things under Christ's feet.
 
@@ -240,46 +240,46 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 > <sup>[6](/bible/hebrews/2#v6)</sup> But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?
 >
 > <sup>[7](/bible/hebrews/2#v7)</sup> Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:
->
-> <sup>[8](/bible/hebrews/2#v8)</sup> Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.
 
 - And didst set him over the works of thy hands: Because that's what Christ is. Set over the works of the hands.
+
+> <sup>[8](/bible/hebrews/2#v8)</sup> Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.
 
 - But now we see not yet all things put under him: Why? Because at this time, at that time, and this time right now, our enemies are ruling. They're not under subjection of Christ. You got people that still got white images of Christ all over the world, that they're not in subjection to Christ right now. They wasn't in subjection to Christ back then. And we can see all things are not put under him because we still die. Our enemies are still ruling. It's easy to see that everything is not put under him yet. Meaning that is to come. That's going to come. All things will get put under Christ.
 
 
 **[Ephesians 1:17-22](/bible/ephesians/1#v17)**  *[[30:23](https://www.youtube.com/watch?v=M7d3rAWpECo&t=1823s)]*
 
+- And let me start at 17, so we got the whole thought.
+
 > <sup>[17](/bible/ephesians/1#v17)</sup> That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
 >
 > <sup>[18](/bible/ephesians/1#v18)</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 >
 > <sup>[19](/bible/ephesians/1#v19)</sup> And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,
->
-> <sup>[20](/bible/ephesians/1#v20)</sup> Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
->
-> <sup>[21](/bible/ephesians/1#v21)</sup> Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:
->
-> <sup>[22](/bible/ephesians/1#v22)</sup> And hath put all things under his feet, and gave him to be the head over all things to the church,
-
-- And let me start at 17, so we got the whole thought.
 
 - According to the working of his mighty power: So all of the things are working for us. All of the things are working so we can get the kingdom of heaven.
 
+> <sup>[20](/bible/ephesians/1#v20)</sup> Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
+
 - And set him at his own right hand in the heavenly places: Because that's what Christ is, on the right hand of the father. That's what Stephen saw.
+
+> <sup>[21](/bible/ephesians/1#v21)</sup> Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:
 
 - Far above all principality, and power, and might, and dominion, and every name that is named: Because Christ is above all principality. All principality Christ is over. There's nobody with the reputation that Christ has or the name that Christ has. He's above all principality. Meaning he's over Esau, he's over America, he's over Babylon, he's over Britain, he's over France, he's over China, he's over everybody. And if he's over everybody, would everybody listen to this black man? They won't even acknowledge that he's black publicly. If they did, they would tear down all of these false images of Christ that they have right now. They would do it. But since they're not, we understand that all things aren't put under him.
 
 - And gave him to be the head over all things to the church, which is his body: Because the church, the nation of Israel, is the body of Christ. If all things are put under Christ, that means all things are put under us as well. We're under Christ and everything else is under us. That's the hierarchy. And that's what y'all are not going to run from. Y'all not running from that. Y'all ain't running from that. We're going to rule with Christ when he returns. The same black people that you said was nothing, we're going to rule with him.
 
+> <sup>[22](/bible/ephesians/1#v22)</sup> And hath put all things under his feet, and gave him to be the head over all things to the church,
+
 
 **[1 Corinthians 15:27-28](/bible/1-corinthians/15#v27)**  *[[33:32](https://www.youtube.com/watch?v=M7d3rAWpECo&t=2012s)]*
 
 > <sup>[27](/bible/1-corinthians/15#v27)</sup> For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.
->
-> <sup>[28](/bible/1-corinthians/15#v28)</sup> And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.
 
 - For he hath put all things under his feet: But when he saith all things are put under him, it is manifest that he is excepted which did put all things under him. Meaning the father put all things under Christ. Everything is under Christ except the father.
+
+> <sup>[28](/bible/1-corinthians/15#v28)</sup> And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.
 
 - And when all things shall be subdued unto him: meaning Christ, then shall the Son also himself be subject unto him, meaning the father, that put all things under him, that God may be all in all. So when Christ subdues everything, when all enemies are destroyed, and that last enemy to be destroyed is death, when we're all righteous, when we're all ready and prepared to meet the father, then he's going to give everything up to the father. So how is it that all nations are a part of this? How is it? He said righteousness is immortal. He said that we are going to rule with him. We are joint heirs with Christ.
 
@@ -311,15 +311,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 
 **[Matthew 20:22-23](/bible/matthew/20#v22)**  *[[38:34](https://www.youtube.com/watch?v=M7d3rAWpECo&t=2314s)]*
 
-> <sup>[22](/bible/matthew/20#v22)</sup> But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
->
-> <sup>[23](/bible/matthew/20#v23)</sup> And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
-
 - Let's go to Matthew chapter 20 to explain that the baptism that he's talking about is not water baptism. It's talking about the work that he had to do, the trial that he had to go through, the tribulation that he had to suffer through.
+
+> <sup>[22](/bible/matthew/20#v22)</sup> But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
 
 - Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with: He said, you're going to drink of the cup that I shall drink of. Now, you know, when the Lord talks about you're going to drink of the cup, it's talking about the things that have to happen that's from the Lord. The baptism that he was baptized with was to be put to death for the nation of Israel.
 
 - Are ye able to drink of the cup: He asked them, are ye able to drink of the cup that I shall drink from, meaning go through what I have to go through, and be baptized with the baptism that I am baptized with. Meaning, you got to go through what I went through. If I went through it, you got to go through it. They say unto him, we are able.
+
+> <sup>[23](/bible/matthew/20#v23)</sup> And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
 
 - Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: So Christ said, you are indeed going to go through what I went through. It wasn't talking about water. He had already got baptized in water at this time. So that wasn't it. That wasn't it. The baptism of Christ was to show and be a witness that he was who he said he was. John was going to bear witness of that. The baptism that he's talking about right here is the death that he got to go through.
 
@@ -335,10 +335,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 **[1 Corinthians 15:29-30](/bible/1-corinthians/15#v29)**  *[[40:51](https://www.youtube.com/watch?v=M7d3rAWpECo&t=2451s)]*
 
 > <sup>[29](/bible/1-corinthians/15#v29)</sup> Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?
->
-> <sup>[30](/bible/1-corinthians/15#v30)</sup> And why stand we in jeopardy every hour?
 
 - Else what shall they do which are baptized for the dead, if the dead rise not at all: So we're baptized into newness of life that we may walk in newness of life as Christ walked in newness of life, spiritually and literally.
+
+> <sup>[30](/bible/1-corinthians/15#v30)</sup> And why stand we in jeopardy every hour?
 
 - And why stand we in jeopardy every hour: What jeopardy were they in? Let's see what jeopardy the apostles and Christ was in.
 
@@ -352,12 +352,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "edom-esau", "salvation"]
 **[1 Corinthians 15:31-32](/bible/1-corinthians/15#v31)**  *[[42:52](https://www.youtube.com/watch?v=M7d3rAWpECo&t=2572s)]*
 
 > <sup>[31](/bible/1-corinthians/15#v31)</sup> I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.
->
-> <sup>[32](/bible/1-corinthians/15#v32)</sup> If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.
 
 - I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily: Meaning, I'm always putting to death my members.
 
 - I die daily: When he says I die daily, those are the things that we fight daily, because that's what this flesh desires. Fornication, lasciviousness, covetousness, all of that stuff. This is desired by the flesh. We have to mortify those members. I die daily. We have to continually examine ourselves and mortify our members.
+
+> <sup>[32](/bible/1-corinthians/15#v32)</sup> If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.
 
 - If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not: So he's basically saying I fought with beasts at Ephesus. I was reading it earlier. Those beasts at Ephesus was those people that were worshiping the goddess Diana and was putting hands on the apostles. They was putting hands on Paul's companions, men that was out there doing the work with Paul. They was putting hands on them.
 

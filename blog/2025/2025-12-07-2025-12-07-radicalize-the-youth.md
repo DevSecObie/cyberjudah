@@ -198,14 +198,14 @@ Reading from a definition of radicalization  *[[15:41](https://www.youtube.com/w
 **[Psalms 8:1-2](/bible/psalms/8#v1)**  *[[1:01:41](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=3701s)]*
 
 > <sup>[1](/bible/psalms/8#v1)</sup> O Lord our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
->
-> <sup>[2](/bible/psalms/8#v2)</sup> Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
 
 - O Lord our Lord: he is not everybody's Lord, or there would be no reason to say our Lord.
 
 - He ordained strength out of the mouth of babes because of the enemies: it takes the oppression and the affliction to raise these youth up.
 
 - The enemies are Esau and the other nations; the avengers are God's prophets, and the babes are the ones in these seats who can explain it.
+
+> <sup>[2](/bible/psalms/8#v2)</sup> Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
 
 
 <div class="reading">
@@ -398,17 +398,17 @@ Reading from a list of synonyms for "still"  *[[1:06:28](https://www.youtube.com
 
 **[Sirach 34:9-12](/bible/sirach/34#v9)**  *[[2:02:59](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=7379s)]*
 
+- Getting there starts with listening: to your father and mother, then to the elder men and women who have the experience.
+
 > <sup>[9](/bible/sirach/34#v9)</sup> A man that hath travelled knoweth many things; and he that hath much experience will declare wisdom.
 >
 > <sup>[10](/bible/sirach/34#v10)</sup> He that hath no experience knoweth little: but he that hath travelled is full of prudence.
 >
 > <sup>[11](/bible/sirach/34#v11)</sup> When I travelled, I saw many things; and I understand more than I can express.
->
-> <sup>[12](/bible/sirach/34#v12)</sup> I was ofttimes in danger of death: yet I was delivered because of these things.
-
-- Getting there starts with listening: to your father and mother, then to the elder men and women who have the experience.
 
 - I understand more than I can express: there is not enough time to lay out why it will not work for you, because it has been watched too many times.
+
+> <sup>[12](/bible/sirach/34#v12)</sup> I was ofttimes in danger of death: yet I was delivered because of these things.
 
 
 **[Sirach 34:1-2](/bible/sirach/34#v1)**  *[[2:07:46](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=7666s)]*
@@ -507,14 +507,14 @@ Reading from a news headline on a teacher and her students  *[[2:22:42](https://
 **[Psalms 148:12-14](/bible/psalms/148#v12)**  *[[2:23:45](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=8625s)]*
 
 > <sup>[12](/bible/psalms/148#v12)</sup> Both young men, and maidens; old men, and children:
->
-> <sup>[13](/bible/psalms/148#v13)</sup> Let them praise the name of the Lord: for his name alone is excellent; his glory is above the earth and heaven.
->
-> <sup>[14](/bible/psalms/148#v14)</sup> He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.
 
 - Young men and maidens, old men and children: a child is supposed to be taught how to praise God.
 
 - Most of us learned Christmas from the day we were born. These ones have to learn to thank God from the day they are born. That is how you build a nation.
+
+> <sup>[13](/bible/psalms/148#v13)</sup> Let them praise the name of the Lord: for his name alone is excellent; his glory is above the earth and heaven.
+>
+> <sup>[14](/bible/psalms/148#v14)</sup> He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.
 
 
 **[Joel 2:27-31](/bible/joel/2#v27)**  *[[2:24:36](https://www.youtube.com/watch?v=mgZyw88Kvhs&t=8676s)]*

@@ -27,34 +27,48 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 
 **[Deuteronomy 1:12-17](/bible/deuteronomy/1#v12)**  *[[12:16](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=736s)]*
 
+- How can I myself alone bear your cumbrance, and your burden, and your strife? Cumbrance refers to a burden, hindrance, obstacle, or source of trouble. Moses was saying, I cannot do this alone, because there are too many of you. Bishop alone cannot bear it; Bishop cannot do this alone. So what did they do? He appointed deacons, captains, officers of 90, 80, 60, 50, 20, 10, then down to soldiers.
+
+- Soldiers are not part of leadership. It's called soldier for a reason: soldier prepares you to be a leader, to be a judge. A soldier is supposed to take counsel from an officer, not from another soldier, because that officer is supposed to build him and prepare him to be an officer, to be a judge.
+
 > <sup>[12](/bible/deuteronomy/1#v12)</sup> How can I myself alone bear your cumbrance, and your burden, and your strife?
 >
 > <sup>[13](/bible/deuteronomy/1#v13)</sup> Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
->
+
+- Take you wise men: a judge must be wise. A stupid judge will destroy everything. That's why you must know the scriptures. If you a judge and you don't know the scriptures, you will eventually become a traitor.
+
+- And understanding: a judge must have understanding of the scriptures.
+
+- And known among your tribes: a judge must be known. That is talking about reputation. Nobody just leaves law school and becomes a judge; some wait for years before they can be appointed. Before a president appoints a judge, he must know that judge's background, his reputation, and the cases he has been judging, because we got corrupt judges. And some of you are corrupt. We cannot have corrupt men ruling us.
+
+- Your reputation is how you deal with your wife, how you deal with your children, how you deal with the brother that sits next to you, your reputation in the congregation, and your reputation in your workplace. You must be wise here and at home, not just here. You cannot be a judge in Israel but carry a whole different spirit at your workplace, hanging with the wicked crowd after work. That means you faking it somewhere, and more than likely you faking it here, cuz your spirit agrees with out there. You only a judge when you among us, but in the streets you that same old …. You wasting your time, and do not think the Most High don't see you.
+
+- And I will make them rulers over you. Why would he use that word rulers? To rule something means you got power over it. Some of you officers of 10: are you ready to rule 10 men? Can you even rule yourself? Can you rule your own household?
+
+- Some of you are way too emotional. A ruler cannot be emotional. Any little thing, you feel offended: he told me I got to tuck my pants in my boots, I'm going to use Matthew 18 against this captain. You too emotional. A judge cannot be emotional.
+
+- Captains over thousands, captains over hundreds, captains over fifties, captains over tens, and officers among your tribes: those are judges. If you an officer of 10, you should be able to lead 10 men with no problem. If you're a captain of 100, you should be able to lead 100 men with no problem. And an officer of 10 should mentor with the man he wants to become like: the officer of 20 is the only one who can help you become that. Some of you used to be in the military and understand the ranking system, but when you come into the Most High God's military, you have no idea.
+
+- Expand your mind. We just traveled all over the continent of Africa, all over the Caribbean, South America, Europe, for Passover. Some camps have hundreds of men. Imagine you end up in one of those places: can you lead those 100 men? Be honest with yourself. Those brothers and sisters are not asking; they are going to look at you like that's the man that the bishop sent. You're the representation of the bishop, the deacons, the captains. When they see you come over there and they're confused by the way you move, they know something is wrong, and it's because of your lack of study. They're going to assume you've been around Bishop, you've been around deacons, you're the man; but then you get there and it's a totally different story.
+
 > <sup>[14](/bible/deuteronomy/1#v14)</sup> And ye answered me, and said, The thing which thou hast spoken is good for us to do.
 >
 > <sup>[15](/bible/deuteronomy/1#v15)</sup> So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.
 >
 > <sup>[16](/bible/deuteronomy/1#v16)</sup> And I charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him.
->
-> <sup>[17](/bible/deuteronomy/1#v17)</sup> Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God’s: and the cause that is too hard for you, bring it unto me, and I will hear it.
 
-- How can I myself alone bear your cumbrance, and your burden, and your strife? Cumbrance refers to a burden, hindrance, obstacle, or source of trouble. Moses was saying, I cannot do this alone, because there are too many of you. Bishop alone cannot bear it; Bishop cannot do this alone. So what did they do? He appointed deacons, captains, officers of 90, 80, 60, 50, 20, 10, then down to soldiers.
-- Soldiers are not part of leadership. It's called soldier for a reason: soldier prepares you to be a leader, to be a judge. A soldier is supposed to take counsel from an officer, not from another soldier, because that officer is supposed to build him and prepare him to be an officer, to be a judge.
-- Take you wise men: a judge must be wise. A stupid judge will destroy everything. That's why you must know the scriptures. If you a judge and you don't know the scriptures, you will eventually become a traitor.
-- And understanding: a judge must have understanding of the scriptures.
-- And known among your tribes: a judge must be known. That is talking about reputation. Nobody just leaves law school and becomes a judge; some wait for years before they can be appointed. Before a president appoints a judge, he must know that judge's background, his reputation, and the cases he has been judging, because we got corrupt judges. And some of you are corrupt. We cannot have corrupt men ruling us.
-- Your reputation is how you deal with your wife, how you deal with your children, how you deal with the brother that sits next to you, your reputation in the congregation, and your reputation in your workplace. You must be wise here and at home, not just here. You cannot be a judge in Israel but carry a whole different spirit at your workplace, hanging with the wicked crowd after work. That means you faking it somewhere, and more than likely you faking it here, cuz your spirit agrees with out there. You only a judge when you among us, but in the streets you that same old …. You wasting your time, and do not think the Most High don't see you.
-- And I will make them rulers over you. Why would he use that word rulers? To rule something means you got power over it. Some of you officers of 10: are you ready to rule 10 men? Can you even rule yourself? Can you rule your own household?
-- Some of you are way too emotional. A ruler cannot be emotional. Any little thing, you feel offended: he told me I got to tuck my pants in my boots, I'm going to use Matthew 18 against this captain. You too emotional. A judge cannot be emotional.
-- Captains over thousands, captains over hundreds, captains over fifties, captains over tens, and officers among your tribes: those are judges. If you an officer of 10, you should be able to lead 10 men with no problem. If you're a captain of 100, you should be able to lead 100 men with no problem. And an officer of 10 should mentor with the man he wants to become like: the officer of 20 is the only one who can help you become that. Some of you used to be in the military and understand the ranking system, but when you come into the Most High God's military, you have no idea.
-- Expand your mind. We just traveled all over the continent of Africa, all over the Caribbean, South America, Europe, for Passover. Some camps have hundreds of men. Imagine you end up in one of those places: can you lead those 100 men? Be honest with yourself. Those brothers and sisters are not asking; they are going to look at you like that's the man that the bishop sent. You're the representation of the bishop, the deacons, the captains. When they see you come over there and they're confused by the way you move, they know something is wrong, and it's because of your lack of study. They're going to assume you've been around Bishop, you've been around deacons, you're the man; but then you get there and it's a totally different story.
 - And I charged your judges at that time: you notice after mentioning officers, he says judges, because that's what they are.
+
 - Hear the causes between your brethren, and judge righteously. Some of you are not judging righteously. To judge righteously you must be just, not partial. Some of you want the position to destroy brothers.
+
 - Ye shall not respect persons in judgment; ye shall hear the small as well as the great: you got to hear both sides, the small matter and the great matter.
+
 - Ye shall not be afraid of the face of man. You are not here to be loved, to be liked. You're judges. Some of you are afraid to make a decision because you afraid of what that man is going to think of you. You ain't here to make friends. This is why some of you are going to find yourself out of here: because when judgment happens to your friend, you're going to get offended. What does that have to do with you? There were judgments handled during Passover, and some people who weren't even there got offended at the judgment, not knowing what even happened. You have got to be crazy to be offended about something you have no idea what happened.
+
 - Don't be afraid of men. Your fear is supposed to be toward the Most High, not those men. For the judgment is God's.
+
 - And the cause that is too hard for you, bring it unto me, and I will hear it. Leaders, read that again slowly. You might have a situation where, to judge a matter, you don't know what to do. Don't just wing it. That decision you make can destroy somebody. There is nothing wrong with reaching out to a deacon, a captain, an officer higher ranking than you, and asking how you think I should judge this matter. Don't just make a decision where you're not sure, because your decision can destroy somebody. And when the time comes, we don't want to hear, my bad. A judge doesn't say, my bad.
+
 - Something you might not know: in the judge's chambers there are books on the wall, and those books have old cases. Your case might have the same case from 20 years ago. This is why the judge says, I'll be back with my decision. Some lawyers and prosecutors base their case on old cases. Where am I going with this? A judge is not always right. This is why they keep records, old records, so they can make the decision the right way. Some of you got a bishop in your camp, a captain in your camp, high ranking officers in your camp, and what did you do? You hide from them. These men are supposed to be your old records. And you know where you find the old records? The scriptures. Those are our records. When you ask Bishop a question, Bishop never gives you his opinion; he goes to the old records and makes them new to you. Where do you find the prophecies? In the old records.
 
   Precepts:
@@ -71,18 +85,20 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 
     We always hear thou shalt not kill, thou shalt not steal; we know those like the back of our hand. But it says if you have respect to persons, you commit sin, and are convinced of the law as transgressors. You are breaking the commandments of God. You want the position, but there is much required from you in the position as judges. You must judge righteous judgment, whether it's your friend or not. You're in a position of leadership: you cannot conceal your friend's folly. What we've been discovering is that because someone is your friend, you don't want to reveal the sin, per Leviticus 5:1, and neither do you want to be a part of the judgment once the sin is revealed; you sit there quiet while the others bring out the transgressions, because you don't agree with the judgment that God says to bring forth. We have to stand on what God said. Anyone that you consider a friend goes against God and doesn't repent: I never knew you. Give us a little bit of time, we won't even remember your name, because you chose wickedness over the righteousness of God.
 
+> <sup>[17](/bible/deuteronomy/1#v17)</sup> Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God’s: and the cause that is too hard for you, bring it unto me, and I will hear it.
+
 **[Acts 13:2-4](/bible/acts/13#v2)**  *[[44:16](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=2656s)]*
 
-> <sup>[2](/bible/acts/13#v2)</sup> As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.
->
-> <sup>[3](/bible/acts/13#v3)</sup> And when they had fasted and prayed, and laid their hands on them, they sent them away.
->
-> <sup>[4](/bible/acts/13#v4)</sup> So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.
-
 - A judge must be able to travel. Some of you never leave; some of you never got beyond your mama's house. And I'm talking to all of you, the whole twelve tribes.
+
 - As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work. When Bishop says separate that brother for the work, he's not talking about Atlanta, Miami, or California. Did Israel only scatter in America? Separate them for the work means no matter where the work is, you got to go there.
+
+> <sup>[2](/bible/acts/13#v2)</sup> As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.
+
 - Whereunto I have called them: it did not say Bishop called you, or deacon called you, or captain called you. The Most High God called you for the work.
+
 - And when they had fasted and prayed, and laid their hands on them, they sent them away. You notice once you become an officer, we anoint you. Why do you think we did that? We put the spirit of the Most High upon you so you can go and do the work. We sent you away. So when that phone call comes for you to travel, we really don't want to hear anything from you except yes. Cuz some of you have more excuses than anybody, and we see it. We act like we don't see you, but we've seen you, and most of all, God sees you.
+
 - They departed unto Seleucia, and from thence they sailed to Cyprus. He's showing you Paul traveled. What are we doing? We continue the Acts of the Apostles. And brothers, listen, we get a lot of hate for it. A lot of people hate us, but we don't care. We are doing the Most High God's work. We just came from all over the world keeping Passover, bringing the good news.
 
   Precepts:
@@ -91,23 +107,33 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 
     And the Lord shall scatter you among the nations. Not in America, not in Florida: among the nations, and ye shall be left few in number among the heathen. You know what that scripture is saying? No matter where you go, you're going to see Israelites. Pictures shown in class: Captain Joham just came from Trinidad and Suriname for Passover with the brothers.
 
+> <sup>[3](/bible/acts/13#v3)</sup> And when they had fasted and prayed, and laid their hands on them, they sent them away.
+>
+> <sup>[4](/bible/acts/13#v4)</sup> So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.
+
 **[Acts 20:21-24](/bible/acts/20#v21)**  *[[50:45](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=3045s)]*
 
 > <sup>[21](/bible/acts/20#v21)</sup> Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
->
+
+- Testifying both to the Jews and also to the Greeks: testifying both to the southern kingdom and northern kingdom.
+
+- And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there. Brothers, understand something: when you leave your house, you're traveling. Paul was saying he's going to Jerusalem and he doesn't know what's going to happen; they might kill him. Once you say, I want to travel international with you brothers, and you got a good report, understand there's a chance you might not come back. Always keep that in your head, because the minute you forget that, you're going to let your guard down. When you always remember it, that keeps you sharp. Same way you go to camp every Sabbath: there's a chance you might not come back. Keep that same mindset.
+
+- But none of these things move me. Paul was saying death did not move me. I'm not afraid of death, I'm not afraid of affliction, I'm not afraid of getting locked up. Paul was ready to sacrifice for this truth, because Paul understood what he was called for, and what comes with that position.
+
+- You don't have to become an officer if you don't want to. But understand, once you step foot in that position, know what to expect: death is part of it, prison is part of it, affliction is part of it. Cuz some of you think it's about, oh, they're going to give me a gift, they're going to serve me food first. If you think that's what this is about, you don't understand what you're into.
+
+- We were in Liberia. Some of you don't know the history: Liberia has been through two civil wars, horrible civil wars. Some of the young men in our camp right now, 24, 25, 26 years old, went through the civil war as kids. They saw some horrible things. How many of you have ever seen civil war? None of you. So how dare you complain? You got some nerve complaining. You have no idea the blessing you have, that the Most High let you grow up in this country.
+
+- Brothers and sisters here don't understand what it feels like not to have running water, where water just drips and you got to wash your hands with that. America has spoiled us, made us very comfortable in captivity, where you don't want to do anything: you want to stay in Atlanta, New York, DC, nice and comfy, and just be an officer here. But that's what you signed up for. You signed up to do this work. If you don't want to do it, give back your rank and just sit down and be a brother. But don't fake it like you're about the work and then, when it comes down to it, you're not.
+
+- In Liberia, on the way to a radio show, we saw a young girl, maybe 10 or 11, washing clothes by hand in a pot on a Sunday: washing her little brother's uniform to prepare for school on Monday. When we came out, she was giving her kid brothers a bath in a bucket. Some of you walk into a store and buy deodorant; some of our brothers and sisters have to choose between deodorant and food. I am not saying that to degrade our brothers and sisters on the continent; I'm showing you that you should wake up every day and thank the Lord for where you're at. And some of you cannot even do that. What do you do? Complain, complain, complain. God hates a complainer. You complain about everything; you come here, you're still complaining.
+
 > <sup>[22](/bible/acts/20#v22)</sup> And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:
 >
 > <sup>[23](/bible/acts/20#v23)</sup> Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.
 >
 > <sup>[24](/bible/acts/20#v24)</sup> But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
-
-- Testifying both to the Jews and also to the Greeks: testifying both to the southern kingdom and northern kingdom.
-- And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there. Brothers, understand something: when you leave your house, you're traveling. Paul was saying he's going to Jerusalem and he doesn't know what's going to happen; they might kill him. Once you say, I want to travel international with you brothers, and you got a good report, understand there's a chance you might not come back. Always keep that in your head, because the minute you forget that, you're going to let your guard down. When you always remember it, that keeps you sharp. Same way you go to camp every Sabbath: there's a chance you might not come back. Keep that same mindset.
-- But none of these things move me. Paul was saying death did not move me. I'm not afraid of death, I'm not afraid of affliction, I'm not afraid of getting locked up. Paul was ready to sacrifice for this truth, because Paul understood what he was called for, and what comes with that position.
-- You don't have to become an officer if you don't want to. But understand, once you step foot in that position, know what to expect: death is part of it, prison is part of it, affliction is part of it. Cuz some of you think it's about, oh, they're going to give me a gift, they're going to serve me food first. If you think that's what this is about, you don't understand what you're into.
-- We were in Liberia. Some of you don't know the history: Liberia has been through two civil wars, horrible civil wars. Some of the young men in our camp right now, 24, 25, 26 years old, went through the civil war as kids. They saw some horrible things. How many of you have ever seen civil war? None of you. So how dare you complain? You got some nerve complaining. You have no idea the blessing you have, that the Most High let you grow up in this country.
-- Brothers and sisters here don't understand what it feels like not to have running water, where water just drips and you got to wash your hands with that. America has spoiled us, made us very comfortable in captivity, where you don't want to do anything: you want to stay in Atlanta, New York, DC, nice and comfy, and just be an officer here. But that's what you signed up for. You signed up to do this work. If you don't want to do it, give back your rank and just sit down and be a brother. But don't fake it like you're about the work and then, when it comes down to it, you're not.
-- In Liberia, on the way to a radio show, we saw a young girl, maybe 10 or 11, washing clothes by hand in a pot on a Sunday: washing her little brother's uniform to prepare for school on Monday. When we came out, she was giving her kid brothers a bath in a bucket. Some of you walk into a store and buy deodorant; some of our brothers and sisters have to choose between deodorant and food. I am not saying that to degrade our brothers and sisters on the continent; I'm showing you that you should wake up every day and thank the Lord for where you're at. And some of you cannot even do that. What do you do? Complain, complain, complain. God hates a complainer. You complain about everything; you come here, you're still complaining.
 
 **[Ecclesiasticus 34:9-11](/bible/sirach/34#v9)**  *[[1:00:59](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=3659s)]*
 
@@ -240,20 +266,25 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 
 **[Acts 18:8-11](/bible/acts/18#v8)**  *[[1:53:56](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=6836s)]*
 
+- Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
+
+- Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace. The Lord came to Paul in a vision and strengthened him. There are many times when you travel to these places, and due to the influx of a certain religion or the heathen, you'll feel that spirit of being discouraged, thinking the mission won't prosper. But that's not why the Lord sent you there. The Lord had you go there to do as he commanded you to do.
+
+- This is where getting built up prior to going is imperative. As you go into other lands, you're learning from men that have already been to similar regions and can give you the strategies of war. Because we're at war, whether you know it or not; a war has been commissioned against you since the day you were in the womb. They push abortion in our communities; when you were little, they had you singing their holiday songs. They've been warring with you. You just don't know you're in a war.
+
 > <sup>[8](/bible/acts/18#v8)</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 >
 > <sup>[9](/bible/acts/18#v9)</sup> Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:
 >
 > <sup>[10](/bible/acts/18#v10)</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
->
-> <sup>[11](/bible/acts/18#v11)</sup> And he continued there a year and six months, teaching the word of God among them.
 
-- Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
-- Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace. The Lord came to Paul in a vision and strengthened him. There are many times when you travel to these places, and due to the influx of a certain religion or the heathen, you'll feel that spirit of being discouraged, thinking the mission won't prosper. But that's not why the Lord sent you there. The Lord had you go there to do as he commanded you to do.
-- This is where getting built up prior to going is imperative. As you go into other lands, you're learning from men that have already been to similar regions and can give you the strategies of war. Because we're at war, whether you know it or not; a war has been commissioned against you since the day you were in the womb. They push abortion in our communities; when you were little, they had you singing their holiday songs. They've been warring with you. You just don't know you're in a war.
 - For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city. As dangerous as many of the places we go are, the Lord is with us, and no man is going to hurt you to the point where the mission gets hindered. We go to places we've never touched down before: Zanzibar, Madagascar. When I saw these brothers marching through Madagascar, the spirit it placed on me strengthened me. The Lord used them to strengthen us, as we see brothers going into lands we only thought were stories.
+
 - And he continued there a year and six months, teaching the word of God among them. The Lord strengthened him, and he didn't hold back: he taught the commandments of God, he taught Christ. This is the point we're going to get to: missions that are not two weeks or four weeks. The bar is raised, because the diaspora is scattered throughout the four corners of the earth, and who's going to raise them up? Bishop put out the video: there are regions we have not visited yet, congregations with no established sanctuary. We need brothers to go there and teach. We are reading and living the Acts of the Apostles.
+
 - Picture shown of the school in Tanzania: look at these children lined up; you tell me these are not the children of Israel. You got some camps out here talking about Israelites are only in America. Tanzania and Zanzibar are 99 percent Muslim lands that never heard that Christ was black, never heard that the Israelites are black, never heard that we should keep the commandments of God. And these children came up saying, we got to hear more; where can we go to hear more? They wanted to be strengthened by the word of God.
+
+> <sup>[11](/bible/acts/18#v11)</sup> And he continued there a year and six months, teaching the word of God among them.
 
 **[Acts 18:23](/bible/acts/18#v23)**  *[[1:58:44](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=7124s)]*
 
@@ -281,15 +312,20 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 **[Galatians 6:1-2](/bible/galatians/6#v1)**  *[[2:13:44](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=8024s)]*
 
 > <sup>[1](/bible/galatians/6#v1)</sup> Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
->
-> <sup>[2](/bible/galatians/6#v2)</sup> Bear ye one another’s burdens, and so fulfil the law of Christ.
 
 - Brethren, if a man be overtaken in a fault: a man commits a sin. Ye which are spiritual: you who are a righteous judge, a just judge. Restore such an one in the spirit of meekness.
+
 - Notice it did not say, when judgment comes, how long. Every case is not the same. You cannot treat every case the same, because every man does not have the same spirit. Some men, you might put them out for six months and they're okay; some men, that six months can destroy them. Be very careful with that. You cannot destroy them.
+
 - Considering thyself, lest thou also be tempted. Let's say you kicked that man out for a year, and a couple of years later you commit that same sin. Would you want to be cut off for a year? When you pass judgment as a judge, consider yourself. It's not about get out, get out. None of us in this commission is perfect. The righteous man falls seven times and gets back up again. We will make mistakes. When that brother shows up in front of you as a judge, consider the judgment before you pass it: if it was you, would you want that same judgment?
+
 - Bear ye one another's burdens, and so fulfil the law of Christ. Why would he say that? You might find yourself in the same thing that brother did.
+
 - Now, officers: a man is overtaken in a fault, judgment is passed, the brother is put out. What is the protocol? It is not simply no communication. The protocol is to assign an officer over that man. The man that's put out must contact that officer, not the other way around: updating him, watching classes, sending his notes. Then that officer follows up with leadership on what's going on with that man. If you put him out and say no contact whatsoever, how would you be able to restore him? You're not checking him to make sure he can be restored. The body is no contact, but you set an officer over him. That's why at the bottom it says restore such an one: he keeps contact with the man you appointed, and the man gives you a report: he's studying, he's doing this. That's how you restore him.
+
 - And it is the man who messed up who does the calling. I heard a man say, I'm the one supposed to be called. No: who messed up, me or you? You have to fix it. And how do you fix it? By contacting that officer; that officer gives you scriptures; you talk; what are you doing to fix the situation? That's the breakdown of that scripture.
+
+> <sup>[2](/bible/galatians/6#v2)</sup> Bear ye one another’s burdens, and so fulfil the law of Christ.
 
 **[Luke 22:31-32](/bible/luke/22#v31)**  *[[2:21:17](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=8477s)]*
 
@@ -305,12 +341,14 @@ When you become an officer, you are a judge. You go to the courthouse, you go in
 **[James 5:19-20](/bible/james/5#v19)**  *[[2:24:24](https://www.youtube.com/watch?v=-cEhJw1V02Y&t=8664s)]*
 
 > <sup>[19](/bible/james/5#v19)</sup> Brethren, if any of you do err from the truth, and one convert him;
->
-> <sup>[20](/bible/james/5#v20)</sup> Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.
 
 - Brethren, if any of you do err from the truth: if you fall, if you commit a fault. And one convert him: one help him, one change him, help him to get better.
+
 - Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins. You are saving that soul from death. And you know the precept for this verse: Ezekiel 3:18, the watchman's charge.
+
 - Brothers, we have a big job to do. We pray the Most High God sends more laborers. Like Moses said, would God that all the Lord's people were prophets: I wish all of you could just get up and travel. But you got to get your mind right first; you got to build yourself first. The Most High God is opening a lot of doors to IUIC, and I give all praise to the Most High for the work he put in our spirit to do.
+
+> <sup>[20](/bible/james/5#v20)</sup> Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.
 
 ## In Closing
 

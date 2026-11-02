@@ -35,14 +35,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "repentance", "wisdom"]
 **[Genesis 49:9-10](/bible/genesis/49#v9)**  *[[1:34](https://www.youtube.com/watch?v=6IEhdesXge8&t=94s)]*
 
 > <sup>[9](/bible/genesis/49#v9)</sup> Judah is a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
->
-> <sup>[10](/bible/genesis/49#v10)</sup> The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
 
 - Judah is a lion's whelp: Because a lot of people go, Well, how do you know Christ is about gathering? Okay, brother. We going to go all the way back to the beginning.
 
 - and as an old lion: So we was a old lion after 1965, when we got government jobs and welfare.
 
 - who shall rouse him up: Who's going to rouse him up is the spirit of Christ, that power and wisdom in the last days that you see on the Israelites standing up.
+
+> <sup>[10](/bible/genesis/49#v10)</sup> The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
 
 - until Shiloh come: That Shiloh is Christ.
 
@@ -52,10 +52,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "repentance", "wisdom"]
 **[Proverbs 16:20-22](/bible/proverbs/16#v20)**  *[[2:38](https://www.youtube.com/watch?v=6IEhdesXge8&t=158s)]*
 
 > <sup>[20](/bible/proverbs/16#v20)</sup> He that handleth a matter wisely shall find good: and whoso trusteth in the Lord, happy is he.
->
-> <sup>[21](/bible/proverbs/16#v21)</sup> The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.
->
-> <sup>[22](/bible/proverbs/16#v22)</sup> Understanding is a wellspring of life unto him that hath it: but the instruction of fools is folly.
 
 - He that handleth a matter wisely: Watch what the Bible says about dealing with matters with wisdom. So he that handleth a matter wisely, or in the spirit of Christ.
 
@@ -63,9 +59,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "repentance", "wisdom"]
 
 - and whoso trusteth in the Lord, happy is he: So it says, Whoso trusteth in the Lord, happy is he. Why are we happy? Because we're moving in the spirit of wisdom.
 
+> <sup>[21](/bible/proverbs/16#v21)</sup> The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.
+
 - The wise in heart shall be called prudent: So the wise in heart shall be called prudent, like many of our forefathers that you read about in the scriptures.
 
 - and the sweetness of the lips increaseth learning: So the sweetness of the lips is talking about the wise words that are come out of your mouth, because you're meditating on wisdom, which is the spirit of Christ. You understand how to deal with matters according to the scriptures. You understand to put out a fire situation, you put water on it. You don't throw gasoline on it.
+
+> <sup>[22](/bible/proverbs/16#v22)</sup> Understanding is a wellspring of life unto him that hath it: but the instruction of fools is folly.
 
 - Understanding is a wellspring of life unto him that hath it: Understanding is what? A wellspring of life. So understanding is a wellspring of life. What is that talking about? The eternal life. That's what we in this walk for: is to get the kingdom of God, redeem our immortal bodies.
 
@@ -102,14 +102,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "repentance", "wisdom"]
 **[Luke 9:49-50](/bible/luke/9#v49)**  *[[7:01](https://www.youtube.com/watch?v=6IEhdesXge8&t=421s)]*
 
 > <sup>[49](/bible/luke/9#v49)</sup> And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.
->
-> <sup>[50](/bible/luke/9#v50)</sup> And Jesus said unto him, Forbid him not: for he that is not against us is for us.
 
 - Master, we saw one casting out devils in thy name: 'Cause a lot of brothers talking about, Yeah, we in the spirit of Yahawashi and all this other stuff. We out there checking the doctrine. Brother, you out the spirit. Christ wasn't running up on brothers, interrupting edification that went forth. Hold on. We saw a brother out there teaching Christ and repentance.
 
 - and we forbad him: And we stopped him.
 
 - because he followeth not with us: He ain't in the home of the truth, brother. So we shut it down. Is that the spirit?
+
+> <sup>[50](/bible/luke/9#v50)</sup> And Jesus said unto him, Forbid him not: for he that is not against us is for us.
 
 - Forbid him not: What Christ say? Forbid him not. Christ said, Don't stop the brother. Don't stop the edification. Forbid him not. That's not the spirit.
 
@@ -121,14 +121,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "repentance", "wisdom"]
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[8:22](https://www.youtube.com/watch?v=6IEhdesXge8&t=502s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
->
-> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not hate thy brother in thine heart: Thou shalt what? The Bible says, Thou shalt not hate thy brother in thy heart. Because we hate one another. We look at one another with disdain and disgust. When you look at the imagery of the black man or the black woman out there, it is a very, very evil image that they put out about us. So we take that into our subconscious, and we view our brothers and sisters in that same evil manner. So we not supposed to hate our brothers in our heart.
 
 - thou shalt in any wise rebuke thy neighbour: So we supposed to correct our brothers and sisters when we see them going off, according to the scriptures.
 
 - and not suffer sin upon him: And we not supposed to allow our brothers and sisters to be in sin. Because when you allow your brothers and sisters to be in sin, or you see them in the midst of sin and you don't correct them, the Bible says that's hatred. Because what? The wages of sin is death.
+
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not avenge: Thou shalt what? Not avenge. So we shouldn't avenge. Shouldn't be no retaliatory attacks going back and forth.
 
@@ -140,14 +140,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "repentance", "wisdom"]
 **[John 13:34-35](/bible/john/13#v34)**  *[[10:25](https://www.youtube.com/watch?v=6IEhdesXge8&t=625s)]*
 
 > <sup>[34](/bible/john/13#v34)</sup> A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.
->
-> <sup>[35](/bible/john/13#v35)</sup> By this shall all men know that ye are my disciples, if ye have love one to another.
 
 - A new commandment I give unto you: Watch this. What Christ said. Did Christ teach anything different? Understand that. Did Christ teach anything different? So Christ saying, This is a new commandment I'm giving unto you. But it's not new.
 
 - That ye love one another: That ye what? That ye love one another. Christ said, I'm giving you a new commandment, because the hatred for one another was so heavy back then. Christ said, I got to give y'all a new commandment. But it's not anything new. We just read it back in Leviticus 19.
 
 - as I have loved you: So Christ saying, I'm giving you a new commandment: love one another as I have loved you. What did Christ do? Christ healed the sick. Christ healed the brokenhearted. He paid taxes. He fed the people. He laid down his life for the people, man.
+
+> <sup>[35](/bible/john/13#v35)</sup> By this shall all men know that ye are my disciples, if ye have love one to another.
 
 - By this shall all men know that ye are my disciples: So when we moving in the spirit of Christ, it ain't going to be no question, because the evils are going to wax more and more. But the people are going to see, Hold on, this group of people, they got love for one another. It's going to be crystal clear in that day who the true followers of Christ. The true followers of Christ not going to be on the internet talking evil about their brothers and sisters. They going to be keeping the commandments and the faith in Christ. They going to be out there gathering the people. They going to be out there using wisdom to deal with matters that come up between one another, in the spirit of Christ.
 
@@ -164,12 +164,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "love", "repentance", "wisdom"]
 **[Zephaniah 2:1-2](/bible/zephaniah/2#v1)**  *[[12:59](https://www.youtube.com/watch?v=6IEhdesXge8&t=779s)]*
 
 > <sup>[1](/bible/zephaniah/2#v1)</sup> Gather yourselves together, yea, gather together, O nation not desired;
->
-> <sup>[2](/bible/zephaniah/2#v2)</sup> Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord’s anger come upon you.
 
 - Gather yourselves together: Using wisdom to gather and to gain your brother. That's how we win one another over, in the spirit of Christ.
 
 - O nation not desired: Because we not desired, we must gather together. We must gain one another in the spirit of Christ.
+
+> <sup>[2](/bible/zephaniah/2#v2)</sup> Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord’s anger come upon you.
 
 - Before the decree bring forth: Before the decree. What's the decree? World War II and destruction. That's the decree. Repent or die.
 

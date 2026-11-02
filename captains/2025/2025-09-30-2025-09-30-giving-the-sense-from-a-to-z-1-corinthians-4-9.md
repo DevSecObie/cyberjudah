@@ -81,16 +81,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 **[John 10:7-10](/bible/john/10#v7)**  *[[12:29](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=749s)]*
 
 > <sup>[7](/bible/john/10#v7)</sup> Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.
->
-> <sup>[8](/bible/john/10#v8)</sup> All that ever came before me are thieves and robbers: but the sheep did not hear them.
->
-> <sup>[9](/bible/john/10#v9)</sup> I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
->
-> <sup>[10](/bible/john/10#v10)</sup> The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
 
 - I am the door of the sheep: He said, "I am the door. I'm the shepherd and I am the door of the sheep." Who are those sheep?
 
+> <sup>[8](/bible/john/10#v8)</sup> All that ever came before me are thieves and robbers: but the sheep did not hear them.
+
 - All that ever came before me are thieves and robbers: but the sheep did not hear them: That's going into, like I told you, the elders. The chief priests and the scribes, so on and so forth. These men were thieves and robbers. They were of their father the devil. You understand? So, Christ said, "Every that came before me were thieves and robbers, but the sheep did not hear them."
+
+> <sup>[9](/bible/john/10#v9)</sup> I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
+>
+> <sup>[10](/bible/john/10#v10)</sup> The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
 
 - The thief cometh not, but for to steal, and to kill, and to destroy: So, he's talking about the spirit that was in those men. That's the spirit that was in those men were the spirit of Satan, which was Rome. The scribes, the chief priests, those elders, they followed Rome. The Herodians, they followed Herod. These men were thieves and robbers. They had the spirit of Satan in them.
 
@@ -137,21 +137,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 **[John 11:47-48](/bible/john/11#v47)**  *[[17:52](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=1072s)]*
 
 > <sup>[47](/bible/john/11#v47)</sup> Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
->
-> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 - Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles: It's the same thing Nicodemus said, "Yo, the stuff this guy's doing, there's no way he not come from God. He's got to be the son of God. It's impossible for him to do what he's doing and God be not with him. It's over with. He's the son of God. He the one. But we worried about Rome." Because we are of our father the devil. That's why Christ said, "Everybody that came before me is a thief and a robber." You understand? And the sheep will not hear their voice.
+
+> <sup>[48](/bible/john/11#v48)</sup> If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
 
 
 **[John 12:42-43](/bible/john/12#v42)**  *[[19:19](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=1159s)]*
 
 > <sup>[42](/bible/john/12#v42)</sup> Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue:
->
-> <sup>[43](/bible/john/12#v43)</sup> For they loved the praise of men more than the praise of God.
 
 - Lest they should be put out of the synagogue: They were afraid of losing their position. They was afraid of being put out of the synagogue. Think about it. If you had an office in the synagogue, you made good money. You was able to take care of your family. You made money off of the sacrifices. All Israel came to sacrifice. Even Israel that was scattered abroad came back three times a year and brought a percentage of their goods or the money for those goods and purchased things from you. People was making good money off of this. Rome gave us liberty to continue to practice our laws as long as we paid our taxes and submitted to Roman law. So a lot of the Pharisees, the chief priests, the elders, they was making loot. If you got a job in the temple, you was good.
 
 - It's just like working in a small town that got a factory. Everybody work at that factory. Your mama, your daddy, your uncle, your cousin. If you get a job at that factory, you straight. That's what you think in your mind. Like if I can get a job there, I know I'll be good cuz ain't that many jobs around here. That's the same thing that was taking place at that time. They knew if they confessed Christ and said they believed, the Pharisees would kick them out of the synagogue. Meaning what? They wouldn't be able to take care of their families. They wouldn't be able to make money. They wouldn't have that position or status. They would be ostracized. They said, "No, we don't want to do that."
+
+> <sup>[43](/bible/john/12#v43)</sup> For they loved the praise of men more than the praise of God.
 
 - For they loved the praise of men more than the praise of God: More than the praise of God. More than the praise of God.
 
@@ -166,14 +166,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 **[Matthew 19:27-29](/bible/matthew/19#v27)**  *[[22:13](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=1333s)]*
 
 > <sup>[27](/bible/matthew/19#v27)</sup> Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
->
-> <sup>[28](/bible/matthew/19#v28)</sup> And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
->
-> <sup>[29](/bible/matthew/19#v29)</sup> And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.
 
 - Behold, we have forsaken all, and followed thee; what shall we have therefore?: What the reward of the apostles was? The reward for the apostles was this. "Ye also shall sit upon 12 thrones, judging the 12 tribes of Israel." That was their reward, brothers and sisters. That was their reward. So they understood that. And they went hard.
 
 - So a lot of brothers is like, "Well, what made the apostles significant? What separated them?" They was willing to risk it all. The rest of those men were thieves and robbers. They were not willing to risk it all for Christ. They cared about their position in society. Zacchaeus was willing to give it up. Joseph of Arimathea was willing to give it up. Nicodemus was willing to give it up. These are the men that you see significant in the New Testament, in the Gospels. And what made them that way? Because they were willing to put things on the line for Christ. And the Lord had mercy on many of them and let them still keep their position in society so that they can help Christ. That's how Joseph of Arimathea was able to put Christ in his sepulcher. He had connections with Herod. He said, "Let me take his body." And because of his connections, it was allowed to happen. So what I'm showing you is these men were ready to give it all.
+
+> <sup>[28](/bible/matthew/19#v28)</sup> And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
+>
+> <sup>[29](/bible/matthew/19#v29)</sup> And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.
 
 - And shall inherit everlasting life: That's what made the apostles different. They was willing to risk it all even unto the death. They was willing to risk it all. And they did it. All of them accomplished it. Even John the Revelator, although he wasn't killed, he died at an old age. He dedicated his life to the son of God until the end. That's what made these men different. That's why it says, "For I think that God have set forth us the apostles last as it was appointed to death." These men were appointed to die for the son of God. And they all did it. They accomplished it. Like I said, except for John the Revelator who died at an old age. But he still went through some things for Christ all the way until the end. Do you understand? All of them suffered a brutal death.
 
@@ -211,12 +211,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 **[1 Corinthians 4:10-13](/bible/1-corinthians/4#v10)**  *[[29:58](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=1798s)]*
 
 > <sup>[10](/bible/1-corinthians/4#v10)</sup> We are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised.
->
-> <sup>[11](/bible/1-corinthians/4#v11)</sup> Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
->
-> <sup>[12](/bible/1-corinthians/4#v12)</sup> And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
->
-> <sup>[13](/bible/1-corinthians/4#v13)</sup> Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
 
 - We are fools for Christ's sake, but ye are wise in Christ: Oh, listen to what he's saying. Cuz the young men in the church, they was learning all these scriptures and these precepts, and they were getting puffed up in knowledge. He was like, "Man, y'all are honored. When y'all are coming to the school, people clapping and 'Hey, all praise to the Most High. Good class you taught.'" And so on and so forth. Meanwhile, us the apostles that's over you, that's in charge of traveling the world and raising up churches, we going through it. We defamed everywhere we go. We labor. We working with our own hands. Ain't nobody giving us no handout. Being reviled, we bless. Being persecuted, we suffer it. Even unto this present hour, we hungry and thirsty and naked and are buffeted and have no certain dwelling place. Cuz we moving from place to place to place to place.
 
@@ -236,28 +230,34 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 
     And that we must through much tribulation enter into the kingdom of God. That was the exhortation. We are going to go through it to enter the kingdom of God.
 
+> <sup>[11](/bible/1-corinthians/4#v11)</sup> Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
+>
+> <sup>[12](/bible/1-corinthians/4#v12)</sup> And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
+>
+> <sup>[13](/bible/1-corinthians/4#v13)</sup> Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
+
 
 **[1 Peter 4:12-16](/bible/1-peter/4#v12)**  *[[34:37](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=2077s)]*
 
 > <sup>[12](/bible/1-peter/4#v12)</sup> Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
->
-> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
->
-> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
->
-> <sup>[15](/bible/1-peter/4#v15)</sup> But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.
->
-> <sup>[16](/bible/1-peter/4#v16)</sup> Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.
 
 - Think it not strange concerning the fiery trial which is to try you: So, Peter is exhorting the believers saying, "Listen, don't think it strange concerning the fiery trial which is to try you as though some strange thing happened unto you." Because it's not strange because the Bible told us we going to have to suffer through much tribulation to enter into the kingdom of God.
+
+> <sup>[13](/bible/1-peter/4#v13)</sup> But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
 
 - Ye are partakers of Christ's sufferings: You are partaker of Christ's sufferings.
 
 - Ye may be glad also with exceeding joy: That you may be glad also with exceeding joy.
 
+> <sup>[14](/bible/1-peter/4#v14)</sup> If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
+
 - On their part he is evil spoken of, but on your part he is glorified: You understand? It says on your part, he is glorified. So, we like, "Nah, we give Christ the glory." They said, "Man, you going to die for him? You going to die for that belief of yours? You going to die for them fringes? You going to die for that beard? You going to die for not to celebrate Christmas? What's wrong with you? You don't love your mama no more? You don't love your granddaddy no more? You don't love your sister? Your granddaddy bought you that car you driving. And you ain't going to call him on his birthday?" Now you like, "Damn, well, do I get a car back?" Well, your love conditional? I got to call you on your birthday for me to keep the car? Like, this is crazy." But they'll do that to you. They'll give you ultimatums. You understand? So, the Bible is saying, "If you be reproached for the name of Christ, happy are ye. For the spirit of glory and of God resteth upon you. On their part, he is evil spoken of, but on your part, he is glorified."
 
+> <sup>[15](/bible/1-peter/4#v15)</sup> But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.
+
 - But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters: Don't suffer as a thief. Don't suffer as a murderer. Don't suffer as an evildoer or a busybody in other men's matters. Keep the commandments.
+
+> <sup>[16](/bible/1-peter/4#v16)</sup> Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.
 
 - Yet if any man suffer as a Christian, let him not be ashamed: Christians are the Israelites. The Christians are Israelites. All 12 tribes is the Israelites. Northern and Southern Kingdom that believe on Christ, that have entered into this gospel, entered into this faith as new creatures of Christ, those are the Christians. It's not white people. I'm sorry. It is what it is. They can say they follow Christ all they want. They can say they didn't white Christian nationalists all they want. They are not the Christians of the Bible. They are not the ones that are going to be martyred. They are not the ones that are going to be persecuted. It's not them. It's us. We are the apostles that the Lord set forth last that's willing to put their life on the line. They giving their life for their country. We giving our life for the kingdom of heaven. It's two different things. You understand?
 
@@ -267,12 +267,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 > <sup>[11](/bible/1-corinthians/4#v11)</sup> Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
 >
 > <sup>[12](/bible/1-corinthians/4#v12)</sup> And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
->
-> <sup>[13](/bible/1-corinthians/4#v13)</sup> Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
 
 - And labour, working with our own hands: I want to show you something. So, it says, "Even unto this present hour, we both hunger and thirst and are naked and are buffeted and have no certain dwelling place and labor, working with our hands. Being reviled, we bless." You know where it say labor, working with our hands? The apostles had all of that work they had to do to go gather the lost sheep of the house of Israel. Go from country to country, city to city, go through persecution, not have food, not have a certain dwelling place. Then they still had to find work while they was moving.
 
 - If that ain't us today, I don't know what it is. You know how many times brothers been trying to go on trips to do this work, go on a quest, go to Africa, go over here, go over there, but they job holding them back? You know how many times brothers done took their computers and laptops and stuff with them so they can still maintain their job for their family while they doing the gospel in a different time zone where they 9, 10 hours ahead of their regular time zone? Still got to be on meetings. Still got to meet deadlines. But it's 4:00 in the morning over there. It's 12:00 midnight over there. It's 7:00 over here in the morning. 8:00 in the morning over here. But it's 12:00 midnight over there. And I got stuff to do. Literally working with your hands while not having everything that you possibly need. It's not an ideal situation. But we still doing it. Ain't no Christians doing this. When I say Christian, I mean Christianity. We living this. That's how I can speak from experience because we living in this. Paul said some of the same things.
+
+> <sup>[13](/bible/1-corinthians/4#v13)</sup> Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
 
 
 **[2 Corinthians 6:3-9](/bible/2-corinthians/6#v3)**  *[[39:19](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=2359s)]*
@@ -280,18 +280,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 > <sup>[3](/bible/2-corinthians/6#v3)</sup> Giving no offence in any thing, that the ministry be not blamed:
 >
 > <sup>[4](/bible/2-corinthians/6#v4)</sup> But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,
->
-> <sup>[5](/bible/2-corinthians/6#v5)</sup> In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;
->
-> <sup>[6](/bible/2-corinthians/6#v6)</sup> By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,
->
-> <sup>[7](/bible/2-corinthians/6#v7)</sup> By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,
->
-> <sup>[8](/bible/2-corinthians/6#v8)</sup> By honour and dishonour, by evil report and good report: as deceivers, and yet true;
->
-> <sup>[9](/bible/2-corinthians/6#v9)</sup> As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;
 
 - In much patience, in afflictions, in necessities, in distresses: So, this how you approve that you are a minister of God, when you have patience, when you go through afflictions, when you have necessities, in distresses.
+
+> <sup>[5](/bible/2-corinthians/6#v5)</sup> In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;
 
 - In stripes, in imprisonments, in tumults, in labours: When you getting whooped. In imprisoned. You have tumults. In labors.
 
@@ -302,6 +294,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 - In watchings: It said in watchings often. We watching ourselves, watching our back, looking out for each other cuz we know we are in countries that these people be following us. They did the same thing with Malcolm X. They did the same thing with Martin Luther King. The FBI was on these men heavy. Everywhere Malcolm X went, they were photoing him, tapping his phone calls. They ain't got to tap the phone like they did back in the day where they put a bug in your room. Hell, this phone right here, they hear everything. They know where we going to be. They know where we planning to go. They in all our groups. They can access to our emails. They can see where we booked a plane ticket to go here and there. Our lives on the line. So, it's the same thing that the apostles was going through back then. But now it's heightened in a sense that they have more information.
 
 - In fastings: A lot of time we fast before we go places that the Lord will have mercy on us and we make it back to our families. Our lives be in danger. Y'all don't know.
+
+> <sup>[6](/bible/2-corinthians/6#v6)</sup> By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,
+>
+> <sup>[7](/bible/2-corinthians/6#v7)</sup> By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,
+>
+> <sup>[8](/bible/2-corinthians/6#v8)</sup> By honour and dishonour, by evil report and good report: as deceivers, and yet true;
 
 - By honour and dishonour: By honor. We are honored by some but yet dishonored at the same time. People see us and they, hey, shalom, Messiah Christ bless. I remember we was in Trinidad. We walking through the mall and some random brother say, "You Bishop Nathanyel." He went up to the bishop. He said, "You Bishop Nathanyel. You Deacon Isaac. I know you brothers." "I watch y'all all the time. I watch you brothers." We done been all over the world. I remember we was in Europe, maybe in London or something. It wasn't London cuz I ain't been to London. It was somewhere we was at in Europe and a Edomite woman start crying when she saw Bishop Nathanyel. She said, "You Bishop Nathanyel." It was a Edomite. She said, "I watch y'all. I know what y'all saying the truth." That's the same thing that the woman in Matthew 15, the Edomite woman, when she saw Christ. It's the same thing. I'm telling you. But yet people say, "Oh, you guys are nobody. You're insignificant." No, the world know us. The world know these colors. How you mean? That's how I know this the truth.
 
@@ -316,6 +314,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 - Babylon to Timbuktu. They, oh, Rudolph R. Windsor wasn't a scholar. Oh, okay. So, Rudolph R. Windsor wasn't a scholar. Okay. Well, what about the sources he got all his information from? Were those scholars? Cuz they wrote books. All he did was he sourced their books. Used their book as sources to write his. So, they not scholars, either. So, if you discredit him, you got to discredit all of the white folks that wrote these things, that have these records, that had this information that he pulled from. So, now everybody ain't a scholar no more cuz it's talking about us. So, we considered deceivers but yet we right.
 
 - John 3:16 don't mean all nations. It mean the Israelites. In context, he told Israelites, it's talking about Israelite history. That word cosmos is used in various different parts in which it's only talking about the Israelites. Talking about the Jews. But the negro will still say, "You're wrong. You guys are deceivers." But yet we right. You got to deceive all the people. But we're right, though. Come on, man. I'm sorry.
+
+> <sup>[9](/bible/2-corinthians/6#v9)</sup> As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;
 
 - As unknown, and yet well known: Y'all unknown. Nobody know y'all brothers, but everybody know that purple and gold. "I seen you men before." Everywhere we go, people say that.
 
@@ -354,10 +354,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 > <sup>[24](/bible/john/11#v24)</sup> Martha saith unto him, I know that he shall rise again in the resurrection at the last day.
 >
 > <sup>[25](/bible/john/11#v25)</sup> Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
->
-> <sup>[26](/bible/john/11#v26)</sup> And whosoever liveth and believeth in me shall never die. Believest thou this?
 
 - He that believeth in me, though he were dead, yet shall he live: Though he were dead, yet shall he live. Come on.
+
+> <sup>[26](/bible/john/11#v26)</sup> And whosoever liveth and believeth in me shall never die. Believest thou this?
 
 - Believest thou this?: He said, "You believe this? Do you believe this? Do you believe what he says right here? And whosoever liveth and believeth in me shall never die. You believe this?" Cuz if you believe this, that make you dangerous. Anybody that's willing to give it all for their belief, makes you dangerous. It makes you dangerous. In the movie Dune 2, it's a part where she said, "You don't kill a prophet." You don't kill a prophet. A prophet become more famous when they die. That's some heavy stuff right there. So, you kill a prophet, you make him a martyr. And if you make him a martyr and he willing to die for what he believe in, others going to believe too. You can't kill a martyr. You can't kill a prophet. But they going to do it anyway because the Bible says we are appointed to death. They going to do it anyway.
 
@@ -367,12 +367,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 **[Matthew 27:52-54](/bible/matthew/27#v52)**  *[[54:22](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=3262s)]*
 
 > <sup>[52](/bible/matthew/27#v52)</sup> And the graves were opened; and many bodies of the saints which slept arose,
->
+
+- And the graves were opened; and many bodies of the saints which slept arose: After Christ died. When Christ died, the earth shook, the veil in the temple rent in two, it was a earthquake, people start rising up out of their graves, and going into the holy city to their family.
+
 > <sup>[53](/bible/matthew/27#v53)</sup> And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.
 >
 > <sup>[54](/bible/matthew/27#v54)</sup> Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
-
-- And the graves were opened; and many bodies of the saints which slept arose: After Christ died. When Christ died, the earth shook, the veil in the temple rent in two, it was a earthquake, people start rising up out of their graves, and going into the holy city to their family.
 
 - Truly this was the Son of God: They said, "Truly this was the son of God. We just killed the son of God, y'all." That's what he said. Why? Because he saw that power that came when Christ died. So, guess what? When we die, people may not get up out their grave. We not going to have the same power, obviously, that our Lord and savior, our king had. But when we die, people going to come into this truth. When they start martyring saints, when they start martyring the prophets, the true prophets of God, it's going to embolden our brothers and our sisters to speak the word of God boldly. That's what's going to take place. So, if you put us to death, you lose. If you keep us alive, we going to keep teaching and you lose. It's a lose-lose. You're done. You're finished. This kingdom is over. It's done.
 
@@ -380,36 +380,36 @@ tags: ["15 Minutes w/ The Captains", "christ", "faith"]
 **[1 Corinthians 4:13-21](/bible/1-corinthians/4#v13)**  *[[56:02](https://www.youtube.com/watch?v=mt-4Muzg7_o&t=3362s)]*
 
 > <sup>[13](/bible/1-corinthians/4#v13)</sup> Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
->
-> <sup>[14](/bible/1-corinthians/4#v14)</sup> I write not these things to shame you, but as my beloved sons I warn you.
->
-> <sup>[15](/bible/1-corinthians/4#v15)</sup> For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel.
->
-> <sup>[16](/bible/1-corinthians/4#v16)</sup> Wherefore I beseech you, be ye followers of me.
->
-> <sup>[17](/bible/1-corinthians/4#v17)</sup> For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
->
-> <sup>[18](/bible/1-corinthians/4#v18)</sup> Now some are puffed up, as though I would not come to you.
->
-> <sup>[19](/bible/1-corinthians/4#v19)</sup> But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
->
-> <sup>[20](/bible/1-corinthians/4#v20)</sup> For the kingdom of God is not in word, but in power.
->
-> <sup>[21](/bible/1-corinthians/4#v21)</sup> What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?
 
 - We are made as the filth of the world, and are the offscouring of all things unto this day: They hate the prophets of God more than anybody.
 
+> <sup>[14](/bible/1-corinthians/4#v14)</sup> I write not these things to shame you, but as my beloved sons I warn you.
+
 - I write not these things to shame you, but as my beloved sons I warn you: He's warning them. What is he warning them of? Don't get puffed up like you doing something great. Stay in the spirit. Stay humble. Stay the course because the apostles that came before you are enduring things that you've never been through. So, I'm not shaming you by saying that we go through all these things. I'm showing you and warning you that if we go through it, you're eventually going to go through it. Just like Christ went through it and we now eventually go through it.
+
+> <sup>[15](/bible/1-corinthians/4#v15)</sup> For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel.
 
 - For though ye have ten thousand instructors in Christ, yet have ye not many fathers: For in Christ Jesus I have begotten you through the gospel: Meaning Paul and the apostles taught these men and they all rose up and started teaching the word of God. So, you have 10,000 instructors in Christ, but you don't have many fathers. The fathers were the apostles, the elders, the men that had labored, that walked with Christ, and even those that was right up under those disciples that walked with Christ, that learned directly from them. These young men that are just now rising up in the church of Corinth, they were good teachers, but they was puffed up thinking that they was on the level of the Apostle Paul. And he had to check them real quick and let them know, "You ain't on our level. We fathers. I begotten you through the gospel."
 
+> <sup>[16](/bible/1-corinthians/4#v16)</sup> Wherefore I beseech you, be ye followers of me.
+>
+> <sup>[17](/bible/1-corinthians/4#v17)</sup> For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
+
 - For this cause have I sent unto you Timotheus: So, he sent Timothy, who also was a young man, but Timothy was a young man that became a bishop. Paul had trust in this young brother and the spirit that was on him. He sent him to Corinth to teach these brothers and sisters what he was teaching in the other churches cuz Paul couldn't make it at this time.
+
+> <sup>[18](/bible/1-corinthians/4#v18)</sup> Now some are puffed up, as though I would not come to you.
 
 - Now some are puffed up, as though I would not come to you: Some of you young men in this church are puffed up as though I would not come unto you.
 
+> <sup>[19](/bible/1-corinthians/4#v19)</sup> But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
+
 - And will know, not the speech of them which are puffed up, but the power: But the power. I'm going to see the power that's in you. Cuz you ain't been through the things that we've been through. You puffed up cuz you know a little bit because I've set you up as an instructor in Christ. But never forget. Don't get puffed up thinking it's because of you cuz it's not because of you. It's because of the spirit that Christ using in you. But he said it in me first and I set you up. So, don't ever get puffed up or high-minded. I'm going to see when I get there how much power you got since you talking ish.
 
+> <sup>[20](/bible/1-corinthians/4#v20)</sup> For the kingdom of God is not in word, but in power.
+
 - For the kingdom of God is not in word, but in power: Power.
+
+> <sup>[21](/bible/1-corinthians/4#v21)</sup> What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?
 
 - What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?: He said, "What will ye? Shall I come unto you with a rod or in love or in the spirit of meekness?" It's up to you. I can come to you in love. I can come unto you with a rod or I can come to you in the spirit of meekness. Your choice. But that's all going to be predicated on how you deal. If you're humble, then I'll come to you how I need to come to you. You willing to learn, all praises to the most high.
 

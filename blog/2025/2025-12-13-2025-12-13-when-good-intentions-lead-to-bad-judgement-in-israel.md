@@ -692,6 +692,8 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 
 **[Philippians 2:25-30](/bible/philippians/2#v25)**  *[[1:52:32](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=6752s)]*
 
+- God had mercy on him when he was sick nigh unto death, because he was out doing the work. Brothers get sick on these trips and the work still gets done.
+
 > <sup>[25](/bible/philippians/2#v25)</sup> Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.
 >
 > <sup>[26](/bible/philippians/2#v26)</sup> For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.
@@ -701,14 +703,12 @@ tags: ["IUIC in the ClassRoom", "idolatry"]
 > <sup>[28](/bible/philippians/2#v28)</sup> I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.
 >
 > <sup>[29](/bible/philippians/2#v29)</sup> Receive him therefore in the Lord with all gladness; and hold such in reputation:
->
-> <sup>[30](/bible/philippians/2#v30)</sup> Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
-
-- God had mercy on him when he was sick nigh unto death, because he was out doing the work. Brothers get sick on these trips and the work still gets done.
 
 - Hold such in reputation: he put his life on the line to get Paul to the people and build them up.
 
 - He did not regard his life. That is the mindset the whole nation of Israel is supposed to have.
+
+> <sup>[30](/bible/philippians/2#v30)</sup> Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
 
 
 **[Luke 4:14-23](/bible/luke/4#v14)**  *[[1:55:19](https://www.youtube.com/watch?v=bx1Ub_OMoZ4&t=6919s)]*

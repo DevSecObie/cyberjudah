@@ -24,15 +24,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 
 **[Deuteronomy 28:29-30](/bible/deuteronomy/28#v29)**  *[[1:05](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=65s)]*
 
-> <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
->
-> <sup>[30](/bible/deuteronomy/28#v30)</sup> Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
-
 - Some people in America have a lot of money, but the Bible is talking about Israel as a whole, as a group, as a nation. Even during the time of Moses, when he was in Pharaoh's house, Moses was wealthy; you had Israelites that were set as taskmasters in Pharaoh's house who were wealthy, like Korah. 'Thou shalt not prosper in thy ways' is talking about us as a whole, collectively.
+
+> <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
 
 - Thou shalt be only oppressed and spoiled evermore: evermore meaning always. We would be oppressed as a people.
 
 - And no man shall save thee: no one is going to save us from the condition, the poverty, the oppression. Great leaders rose up, Marcus Garvey, Martin Luther King, Malcolm X, Nelson Mandela in South Africa, who tried to redeem the people from the oppressive state they're in, but the Bible said no man would be able to save us.
+
+> <sup>[30](/bible/deuteronomy/28#v30)</sup> Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
 
 - Thou shalt betroth a wife, and another man shall lie with her: the white man was oppressive; he took our women and had sex with them at his will.
 
@@ -101,23 +101,23 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 
 **[Isaiah 32:5-8](/bible/isaiah/32#v5)**  *[[13:31](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=811s)]*
 
-> <sup>[5](/bible/isaiah/32#v5)</sup> The vile person shall be no more called liberal, nor the churl said to be bountiful.
->
-> <sup>[6](/bible/isaiah/32#v6)</sup> For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the Lord, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
->
-> <sup>[7](/bible/isaiah/32#v7)</sup> The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
->
-> <sup>[8](/bible/isaiah/32#v8)</sup> But the liberal deviseth liberal things; and by liberal things shall he stand.
-
 - Where this says the foolish person will no longer be called generous, the King James Version says the vile person shall no more be called liberal. Liberal is the generous person, saying the same thing; the generous person is called the liberal in today's English.
 
 - In America we have many what they call liberal whites. They make you believe that they feel sorry for you, they understand you're oppressed and want to help you. God says they are foolish, they are vile, because there is a trick, a trap, to them trying to help you.
+
+> <sup>[5](/bible/isaiah/32#v5)</sup> The vile person shall be no more called liberal, nor the churl said to be bountiful.
+>
+> <sup>[6](/bible/isaiah/32#v6)</sup> For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the Lord, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
 
 - To practise hypocrisy: they say we understand what black people are suffering and we are very remorseful, and they give us something called the United Negro College Fund, set up by liberal whites. That's a form of aid, of assistance, to help us go to college, but it keeps us calling ourselves Negroes, whereas the truth is we're Israelites.
 
 - Then you have the NAACP, also set up by liberal whites. They say it is to help the plight of black people, but it is run by so-called Jewish people: white men are at the top and black people are the workers under them, so it's still a white organization.
 
 - Even when the needy speaketh right, when we say what you're doing to us is not right, they say we are integrated. We may live around white people, but financially we're not integrated: their children go to the best schools, get the best health care, the best places to live; we do not.
+
+> <sup>[7](/bible/isaiah/32#v7)</sup> The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
+>
+> <sup>[8](/bible/isaiah/32#v8)</sup> But the liberal deviseth liberal things; and by liberal things shall he stand.
 
 - The liberal deviseth liberal things: his generosity is still a slap in our face; his generosity is still not true generosity.
 
@@ -182,23 +182,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 
 **[Ezekiel 28:1-7](/bible/ezekiel/28#v1)**  *[[30:50](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=1850s)]*
 
+- This is a parable talking about the white man. Ezekiel went into the Babylonian captivity; Ezekiel was prophesying about Tyre, but the Tyre he is making reference to is a similitude to America and her European allies. Tyre was of the children of Ham; they're not in power today. So what is this talking about prophetically for us?
+
 > <sup>[1](/bible/ezekiel/28#v1)</sup> The word of the Lord came again unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/28#v2)</sup> Son of man, say unto the prince of Tyrus, Thus saith the Lord God; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:
->
-> <sup>[3](/bible/ezekiel/28#v3)</sup> Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:
->
-> <sup>[4](/bible/ezekiel/28#v4)</sup> With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:
->
-> <sup>[5](/bible/ezekiel/28#v5)</sup> By thy great wisdom and by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches:
->
-> <sup>[6](/bible/ezekiel/28#v6)</sup> Therefore thus saith the Lord God; Because thou hast set thine heart as the heart of God;
->
-> <sup>[7](/bible/ezekiel/28#v7)</sup> Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
-
-- This is a parable talking about the white man. Ezekiel went into the Babylonian captivity; Ezekiel was prophesying about Tyre, but the Tyre he is making reference to is a similitude to America and her European allies. Tyre was of the children of Ham; they're not in power today. So what is this talking about prophetically for us?
 
 - I sit in the seat of God: who is sitting in the seat of God with images of themselves as God and Christ? That is the white man. Man is not talking about an individual; it is talking about man in the context of a race of man. All through Washington DC they have images of Jesus Christ as a white man.
+
+> <sup>[3](/bible/ezekiel/28#v3)</sup> Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:
 
 - Wiser than Daniel, there is no secret that they can hide from thee: that goes to his technology. These smartphones record everything and it goes to a database the white man has set up; even what we're talking is being monitored. They have satellites that can find you if you're the size of my pen.
 
@@ -206,7 +198,15 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 
 - Remember what America did to Panama: the contract for the Panama Canal said if by the year 2000 Panama's military cannot protect the canal, America would have authority over it. The CIA set up Manuel Noriega, then said he's an evil man, a big drug dealer, destroyed the military of Panama, and said your military cannot protect the Panama Canal, so we own it.
 
+> <sup>[4](/bible/ezekiel/28#v4)</sup> With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:
+>
+> <sup>[5](/bible/ezekiel/28#v5)</sup> By thy great wisdom and by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches:
+
 - By thy great wisdom and by thy traffick hast thou increased thy riches: this is what we were reading in Revelation 13, no man might buy or sell except he has the mark. The white man set up all the rules and regulations of trade, the policies; America orchestrated and engineered all these things so that they can become the most wealthy nation on earth.
+
+> <sup>[6](/bible/ezekiel/28#v6)</sup> Therefore thus saith the Lord God; Because thou hast set thine heart as the heart of God;
+>
+> <sup>[7](/bible/ezekiel/28#v7)</sup> Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
 
 - I will bring strangers upon thee, the terrible of the nations: in the modern world it's terrorists. This is why you have nations sneaking into European nations to blow things up, to kill people. We may not like terrorists, but this prophecy is going to happen because of the evil Babylon and his European nations have done to the world.
 
@@ -219,29 +219,23 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 
 **[Revelation 13:11-18](/bible/revelation/13#v11)**  *[[49:26](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=2966s)]*
 
+- Another beast coming up out of the earth with two horns like a lamb: the two horns represent republicanism and democracy. Like a lamb, they portray themselves as Christian; they say America is founded on Christian principles. And he spake as a dragon, because the Constitution, the Bill of Rights, freedom of religion and freedom of speech, those principles are not …; they are satanic principles.
+
 > <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
 >
 > <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
->
-> <sup>[13](/bible/revelation/13#v13)</sup> And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
->
-> <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
->
-> <sup>[15](/bible/revelation/13#v15)</sup> And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
->
-> <sup>[16](/bible/revelation/13#v16)</sup> And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
->
-> <sup>[17](/bible/revelation/13#v17)</sup> And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
->
-> <sup>[18](/bible/revelation/13#v18)</sup> Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.
-
-- Another beast coming up out of the earth with two horns like a lamb: the two horns represent republicanism and democracy. Like a lamb, they portray themselves as Christian; they say America is founded on Christian principles. And he spake as a dragon, because the Constitution, the Bill of Rights, freedom of religion and freedom of speech, those principles are not …; they are satanic principles.
 
 - Whose deadly wound was healed: Rome was overthrown and came back in power at the Renaissance. Then Spain, Portugal and many of those nations came to this side of the world fighting for supremacy, and they united as one new nation in 1776, the United States of America. America follows all the customs of ancient Rome: look at the architecture around Washington DC, the money written in Latin, annuit coeptis, novus ordo seclorum.
 
+> <sup>[13](/bible/revelation/13#v13)</sup> And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
+
 - He maketh fire come down from heaven: that happened during World War Two, when America created the atom bomb and dropped the bomb on Hiroshima and Nagasaki. It destroyed two societies of people; it was literally like fire from heaven, because when it hit everybody was dead. Fat Man and Little Boy they called the bombs.
 
+> <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
+
 - Make an image to the beast which had the wound by a sword and did live: it was the Roman Empire that nailed Christ to the cross. During the Renaissance they gave us a renaissance image of Jesus, a white man, Cesare Borgia, the second son of Alexander the Sixth of Rome; that was the new image of Christ they wanted all nations to bow down and worship.
+
+> <sup>[15](/bible/revelation/13#v15)</sup> And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
 
 - Give life unto the image: the breath they gave the image is the life of Christ. Leonardo da Vinci painted Cesare as the new image of Jesus; when you ask any child who's that image, they all say Jesus Christ the Son of God.
 
@@ -265,20 +259,26 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 
     The name: Mystery Babylon the Great. It says mystery because when you tell people America is the real Babylon nobody believes it; America seems to take care of everyone, gives Israel billions, gives aid, gives the blacks welfare and free public housing. Along with the Vatican she sends out Jesuits and priests and religious systems to spy out the land, as they did in colonial times; and wherever America goes, like Kuwait, they set up Christmas, and behind that pornography shops.
 
+> <sup>[16](/bible/revelation/13#v16)</sup> And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
+>
+> <sup>[17](/bible/revelation/13#v17)</sup> And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
+>
+> <sup>[18](/bible/revelation/13#v18)</sup> Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.
+
 
 **[Revelation 6:12-14](/bible/revelation/6#v12)**  *[[1:06:48](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4008s)]*
-
-> <sup>[12](/bible/revelation/6#v12)</sup> And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
->
-> <sup>[13](/bible/revelation/6#v13)</sup> And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
->
-> <sup>[14](/bible/revelation/6#v14)</sup> And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
 
 - This number 666 goes back to the other principles we read in the Bible. It represents the white man, not an individual white man but them as a race, a collective, and it represents destruction.
 
 - The sixth seal is the first six, and it represents destruction: the great earthquake, the sun becoming black, the moon becoming as blood.
 
+> <sup>[12](/bible/revelation/6#v12)</sup> And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
+>
+> <sup>[13](/bible/revelation/6#v13)</sup> And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
+
 - The stars of heaven fell unto the earth: that's talking about their satellites, America's satellites up there. They're going to get knocked out of space and fall to the earth.
+
+> <sup>[14](/bible/revelation/6#v14)</sup> And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
 
 - The heaven departed as a scroll: that's when a bomb drops and you see that mushroom cloud.
 
@@ -315,6 +315,10 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 
 **[Romans 9:13-22](/bible/romans/9#v13)**  *[[1:10:42](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4242s)]*
 
+- Verse 14 is explaining verse 13: he's having mercy on Jacob, and he's not having mercy on Esau.
+
+- Paul is giving us a similitude. Who was the new Pharaoh during the time of Paul? That is Rome, Edom. Rome was the most powerful nation; remember we read in Revelation 13 how its head was wounded by the sword and it lived and came back in power.
+
 > <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 >
 > <sup>[14](/bible/romans/9#v14)</sup> What shall we say then? Is there unrighteousness with God? God forbid.
@@ -324,7 +328,11 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 > <sup>[16](/bible/romans/9#v16)</sup> So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
 >
 > <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
->
+
+- Even for this same purpose have I raised thee up: America and the European nations, which is Esau, have been raised up in power, economic power and military power.
+
+- He's going to have mercy on Jacob, and he's going to harden Esau. Esau today we call the white man.
+
 > <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
 >
 > <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
@@ -332,16 +340,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
 > <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
 >
 > <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
->
-> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
-
-- Verse 14 is explaining verse 13: he's having mercy on Jacob, and he's not having mercy on Esau.
-
-- Paul is giving us a similitude. Who was the new Pharaoh during the time of Paul? That is Rome, Edom. Rome was the most powerful nation; remember we read in Revelation 13 how its head was wounded by the sword and it lived and came back in power.
-
-- Even for this same purpose have I raised thee up: America and the European nations, which is Esau, have been raised up in power, economic power and military power.
-
-- He's going to have mercy on Jacob, and he's going to harden Esau. Esau today we call the white man.
 
 - One vessel unto honour, and another unto dishonour: the vessel he made for honour is Jacob; the vessel for dishonour is Edom, Esau. The vessels of wrath fitted to destruction are Edom; they were created for destruction. That goes back to the six: it is a number of destruction.
 
@@ -354,6 +352,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "europe-dark-ages", "justice"
     > <sup>[18](/bible/obadiah/1#v18)</sup> And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it.
 
     There shall be none remaining of Esau, for the Lord hath spoken it: they were created to be destroyed in the end.
+
+> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 
 
 **[Psalms 111:10](/bible/psalms/111#v10)**  *[[1:20:20](https://www.youtube.com/watch?v=VvIAq83h-Zo&t=4820s)]*

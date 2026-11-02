@@ -33,19 +33,19 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 
 **[Luke 21:1-4](/bible/luke/21#v1)**  *[[4:41](https://www.youtube.com/watch?v=tDBf_MOlc34&t=281s)]*
 
+- She of her penury has cast in all the living that she had: Now, I want to show you all something. Never get into a mindset that because you give a lot of money in alms that somehow that justifies you. Righteousness according to the scriptures is what justifies you. All right, you got to be a doer of the law. Keep the commandments of God and the faith in Christ. That's what justifies you.
+
+- But a lot of people think because they give X amount of dollars or because they got a lot of money they're able to give a lot of money that somehow that puts them on a different pedestal or somehow that gets them special treatment. That's not the case.
+
 > <sup>[1](/bible/luke/21#v1)</sup> And he looked up, and saw the rich men casting their gifts into the treasury.
->
+
+- The rich men casting their gifts into the treasury: Now, these rich men they cast in an abundance because they had abundance. This woman cast in the last thing that she had. The Lord said that one right there is who we need to look at. She got faith.
+
 > <sup>[2](/bible/luke/21#v2)</sup> And he saw also a certain poor widow casting in thither two mites.
 >
 > <sup>[3](/bible/luke/21#v3)</sup> And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:
 >
 > <sup>[4](/bible/luke/21#v4)</sup> For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
-
-- She of her penury has cast in all the living that she had: Now, I want to show you all something. Never get into a mindset that because you give a lot of money in alms that somehow that justifies you. Righteousness according to the scriptures is what justifies you. All right, you got to be a doer of the law. Keep the commandments of God and the faith in Christ. That's what justifies you.
-
-- But a lot of people think because they give X amount of dollars or because they got a lot of money they're able to give a lot of money that somehow that puts them on a different pedestal or somehow that gets them special treatment. That's not the case.
-
-- The rich men casting their gifts into the treasury: Now, these rich men they cast in an abundance because they had abundance. This woman cast in the last thing that she had. The Lord said that one right there is who we need to look at. She got faith.
 
 
 **[Tobit 4:7](/bible/tobit/4#v7)**  *[[6:21](https://www.youtube.com/watch?v=tDBf_MOlc34&t=381s)]*
@@ -60,21 +60,21 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[Sirach 14:6-7](/bible/sirach/14#v6)**  *[[7:52](https://www.youtube.com/watch?v=tDBf_MOlc34&t=472s)]*
 
 > <sup>[6](/bible/sirach/14#v6)</sup> There is none worse than he that envieth himself; and this is a recompence of his wickedness.
->
-> <sup>[7](/bible/sirach/14#v7)</sup> And if he doeth good, he doeth it unwillingly; and at the last he will declare his wickedness.
 
 - There is none worse than he that envieth himself: A man that's envious of himself meaning he can never have enough. Like you see the little videos on TikTok and on social media where dude be like, "I'm broke. I got to get more money." Like y'all don't need to trip. We need more money. Or when we going to get more money? And people be watching the videos and liking them and stuff, but really what that is they're putting the spirit on you to never be satisfied, to never have enough. You always got to have more.
 
 - And guess what? That's the spirit of Esau. Esau is that way. He can never have enough.
 
+> <sup>[7](/bible/sirach/14#v7)</sup> And if he doeth good, he doeth it unwillingly; and at the last he will declare his wickedness.
+
 
 **[Obadiah 1:5-6](/bible/obadiah/1#v5)**  *[[8:32](https://www.youtube.com/watch?v=tDBf_MOlc34&t=512s)]*
 
 > <sup>[5](/bible/obadiah/1#v5)</sup> If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?
->
-> <sup>[6](/bible/obadiah/1#v6)</sup> How are the things of Esau searched out! how are his hidden things sought up!
 
 - Would they not have stolen till they had enough: Right. A robber if they come in night, he going to steal till he had enough. Like if somebody come rob your house, there's one man. He not going to take your 85-in flat screen, y'all. The TV too big. There's no way that he's going to take that. But he might get your microwave. He might hit your safe and take a couple grand. He might take your guns. Whatever. He might take stuff that he can actually carry. But he's going to take until he has had enough. Y'all understand?
+
+> <sup>[6](/bible/obadiah/1#v6)</sup> How are the things of Esau searched out! how are his hidden things sought up!
 
 - How are the things of Esau searched out: Right. Esau will not stop taking. He's going to take and take and take and take. He's not happy with taking the land. He want the people that's on the land, too. He not happy with just taking over a country. He want the whole world.
 
@@ -82,12 +82,12 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[Habakkuk 2:4-5](/bible/habakkuk/2#v4)**  *[[9:14](https://www.youtube.com/watch?v=tDBf_MOlc34&t=554s)]*
 
 > <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
->
-> <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
 
 - Behold, his soul which is lifted up is not upright in him: This talking about Esau Edom. His soul is not upright in him. He ain't right. Stop trying to change him. You'll never change him. He is what God has made him to be. He will not change. He'll put a mask on, but when you put that mask back or when you wipe that rust away, it come right back. You understand?
 
 - Because he transgresses by wine: Because he transgressed by wine, that's his lies and deceit.
+
+> <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
 
 - Who enlargeth his desire as hell, and is as death: He's death. Everywhere he go, he causes death and hell, and he cannot what? Be satisfied. And he cannot be satisfied. He will not be satisfied. He refuses to be satisfied. He got to have it. He want it all. And more.
 
@@ -103,14 +103,14 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 > <sup>[6](/bible/sirach/14#v6)</sup> There is none worse than he that envieth himself; and this is a recompence of his wickedness.
 >
 > <sup>[7](/bible/sirach/14#v7)</sup> And if he doeth good, he doeth it unwillingly; and at the last he will declare his wickedness.
->
-> <sup>[8](/bible/sirach/14#v8)</sup> The envious man hath a wicked eye; he turneth away his face, and despiseth men.
->
-> <sup>[9](/bible/sirach/14#v9)</sup> A covetous man’s eye is not satisfied with his portion; and the iniquity of the wicked drieth up his soul.
 
 - And at the last, he will declare his wickedness: And at the last, he will declare his wickedness.
 
+> <sup>[8](/bible/sirach/14#v8)</sup> The envious man hath a wicked eye; he turneth away his face, and despiseth men.
+
 - He turneth away his face and despiseth men: He turn away his face and despiseth men. Right? When he do things, he's doing it unwillingly. Why? Because he just want a reward. He just want to be seen of men. That's it. A lot of people give alms because of that. A lot of people like to boast about the alms they give. A lot of people like we just read in Luke 21, these people boasting about how much money they gave. That's a spirit. And it's an evil spirit. Because eventually, then you start to forget that God is the one that blessed you to be that financially stable where you can get that type of money. For real though.
+
+> <sup>[9](/bible/sirach/14#v9)</sup> A covetous man’s eye is not satisfied with his portion; and the iniquity of the wicked drieth up his soul.
 
 - A covetous man's eye is not satisfied with his portion: Right. And because of his sin, because he can never get enough, cuz he's so covetous, it dry up his soul. It's the same thing going on with Esau right now. It's the same thing going on with Esau right now.
 
@@ -274,10 +274,10 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[John 4:23-24](/bible/john/4#v23)**  *[[29:15](https://www.youtube.com/watch?v=tDBf_MOlc34&t=1755s)]*
 
 > <sup>[23](/bible/john/4#v23)</sup> But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.
->
-> <sup>[24](/bible/john/4#v24)</sup> God is a Spirit: and they that worship him must worship him in spirit and in truth.
 
 - For the Father seeketh such to worship him: That's who the Lord looking for. He looking for those that keep his commandments and faith in his son. That's what he looking for. He not looking for people that, "Oh, I got faith in Jesus," but you don't do what Jesus says. He not looking for you. All right? He not looking for Gentiles, meaning the other nations. He's looking for Israelites. Now, you may have been living the life of a Gentile. You may have been called Gentile, but that's why he said the laws of the prophet. So, you will know who your fathers are, and you will know who you are.
+
+> <sup>[24](/bible/john/4#v24)</sup> God is a Spirit: and they that worship him must worship him in spirit and in truth.
 
 
 **[John 4:20-21](/bible/john/4#v20)**  *[[30:49](https://www.youtube.com/watch?v=tDBf_MOlc34&t=1849s)]*
@@ -292,14 +292,14 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[Luke 21:6-8](/bible/luke/21#v6)**  *[[30:49](https://www.youtube.com/watch?v=tDBf_MOlc34&t=1849s)]*
 
 > <sup>[6](/bible/luke/21#v6)</sup> As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.
->
-> <sup>[7](/bible/luke/21#v7)</sup> And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?
->
-> <sup>[8](/bible/luke/21#v8)</sup> And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them.
 
 - There shall not be left one stone upon another that shall not be thrown down: Right. So, Christ prophesying that the temple's going to be destroyed.
 
+> <sup>[7](/bible/luke/21#v7)</sup> And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?
+
 - Master, but when shall these things be: Right. The apostles said, "Okay, so when will these things take place? And what sign will there be when these things shall come to pass?" Christ said, "Take heed that you be not deceived, for many shall come in my name, saying, 'I am Christ,' and that the time draw near, go ye not therefore after them."
+
+> <sup>[8](/bible/luke/21#v8)</sup> And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them.
 
 - For many shall come in my name, saying, I am Christ: When the Lord said there going to come people in the last days saying that they're Christ, he's talking about imagery and doctrine. Let me say it again. When Christ said that there going to come many in my name saying I am Christ and shall deceive many, he's talking about imagery and doctrine. The imagery is that they would change the image of Christ. They would show you a white man as Jesus. They would show you Christianity as being the world's greatest religion or the world most well sought after and well known religion. Right? But it's against God. It's against Christ. It's not according to the doctrine. So these are the things that we got to be paying attention to, that we got to be mindful of.
 
@@ -341,19 +341,19 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[Luke 21:10-11](/bible/luke/21#v10)**  *[[37:21](https://www.youtube.com/watch?v=tDBf_MOlc34&t=2241s)]*
 
 > <sup>[10](/bible/luke/21#v10)</sup> Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:
->
-> <sup>[11](/bible/luke/21#v11)</sup> And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
 
 - Nation shall rise against nation, and kingdom against kingdom: Right. So, the Lord said, "Nation shall rise against nation." That's Russia, Ukraine. That's Iran, Israel, you know, is it China is going to get involved, you understand? Russia's getting involved. Listen, it's going down. Okay? It's going down. We just living in the greatest time on Earth where the Bible is actually fulfilling itself. It's coming to pass. We are in the midst of the Bible prophecy right now.
+
+> <sup>[11](/bible/luke/21#v11)</sup> And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
 
 
 **[Isaiah 13:5-6](/bible/isaiah/13#v5)**  *[[38:09](https://www.youtube.com/watch?v=tDBf_MOlc34&t=2289s)]*
 
 > <sup>[5](/bible/isaiah/13#v5)</sup> They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land.
->
-> <sup>[6](/bible/isaiah/13#v6)</sup> Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.
 
 - To destroy the whole land: The whole land. You got … out here saying that that's talking about ancient Babylon. When was the whole land of ancient Babylon destroyed? The whole land. Stop the cap. That's not the cap. That ain't happened. Stop with these dummies, bro. There's people that still occupy that land. That's modern-day Iraq. And there's people that live there.
+
+> <sup>[6](/bible/isaiah/13#v6)</sup> Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.
 
 - It shall come as a destruction from the Almighty: It shall come as a destruction from the Almighty. Persian media took over ancient Babylon. And then Greece took over Persian media. And then Rome took over that. And now there are Arabs that live in ancient Iraq or ancient Babylon today. They live there now. You can go find people living there now.
 
@@ -392,20 +392,20 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[Revelation 16:12-14](/bible/revelation/16#v12)**  *[[43:11](https://www.youtube.com/watch?v=tDBf_MOlc34&t=2591s)]*
 
 > <sup>[12](/bible/revelation/16#v12)</sup> And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
->
-> <sup>[13](/bible/revelation/16#v13)</sup> And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
->
-> <sup>[14](/bible/revelation/16#v14)</sup> For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
 
 - And the water thereof was dried up: So, the Euphrates River is currently drying up as we speak. And that's Bible prophecy. That's biblical. And it says, "And the way thereof was dried up that the way of the kings of the east might be prepared."
 
 - The way of the kings of the east might be prepared: The kings of the east is China, Iran, all those different places. All those places that are east of Jerusalem. They coming to war. That's what they're saying. They're coming to war. To the battle of Armageddon. It's going to tell you that.
+
+> <sup>[13](/bible/revelation/16#v13)</sup> And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
 
 - Out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet: Right, the mouth of the dragon, beast, and false prophet goes into their politics, their economics, okay, their media, and then last but not least, the false prophet goes into Christianity because Christianity been teaching you ain't got to keep the commandments. And then them people over there in Israel is the Jews. That's what they've been telling you. It's like, "Yeah, them people over there, they the Jews. They the real Jews according to the Bible." "They the real Jews."
 
 - And you're like, "Okay. Well, what's that have to do with us?" Well, if America want to be blessed, then America got to send foreign aid, money, military, put our troops over there, get them a Iron Dome. We got to protect Israel so the Lord will protect America. We got to bless Israel so the Lord will bless America. Meanwhile, behind closed doors, back at the rats, we the Israelites according to the Bible, and they ain't protect nothing. They've been destroying us, murdering us, enslaving us, putting us in prison, systemically oppressing Israelites, systematic oppression, mass incarceration, abortion clinics in our neighborhood, all right, feeding us GMO, genetically modified organisms. Destroying our farmlands, destroying Black Wall Street, Lake Lanier, Rosewood, Black Bottom in Detroit. I mean, I'm talking about all in all, just destroying black folks and so-called Hispanics, deporting so-called Hispanics, Haitian brothers got to go. Come on, man. For real.
 
 - So, the real Israelites, they've been cursing. But the people that say they Israelites, which are not the Israelites, they've been blessing. So, the Lord said, "Okay. And because of that, I'm going to use that propaganda to cause all nations on the earth to go to war." Because the whole world is seeing, y'all just going to let them bomb babies and hospitals with pregnant women in it? And y'all ain't going to say nothing? And America like, nah. We going to sit back and we going to let it happen. So, people going to say, okay, all right, America, we're going to deal with you. And we're going to deal with every other ally of Israel. And we're going to deal with all y'all for what you're doing. It's making the nations angry. People are becoming angry at this. Because of the unclean spirits like frogs that are coming out of the mouths of these people.
+
+> <sup>[14](/bible/revelation/16#v14)</sup> For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
 
 - For they are the spirits of devils: See that?
 
@@ -417,8 +417,6 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[2 Esdras 15:20-21](/bible/2-esdras/15#v20)**  *[[47:39](https://www.youtube.com/watch?v=tDBf_MOlc34&t=2859s)]*
 
 > <sup>[20](/bible/2-esdras/15#v20)</sup> Behold, saith God, I will call together all the kings of the earth to reverence me, which are from the rising of the sun, from the south, from the east, and Libanus; to turn themselves one against another, and repay the things that they have done to them.
->
-> <sup>[21](/bible/2-esdras/15#v21)</sup> Like as they do yet this day unto my chosen, so will I do also, and recompense in their bosom. Thus saith the Lord God;
 
 - Which are from the rising of the sun, from the south, from the east: So rising of the sun is the east? The rising of the sun will be the west. Wait a minute, I'm tripping. The sun rise in the west and sets in the east, don't it? No, the sun rise in the east and set in the west. There you go. Rise in the east and set in the west. So, from the rising of the sun, from the south, from the east, this east is the far east. Like going like China, Japan, the Pacific Islands, all that stuff out there. Lo, so I'mma raise them up, too. Then he's going down.
 
@@ -427,6 +425,8 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 - And repay the things that they have done to them: And repay the things that they done to what? To them. To them, the Israelites. What they've done to us.
 
 - So will I do also and recompense in their bosom thus sayeth the Lord God: And I'mma deal with them. Thus sayeth the Lord God. Now watch this. So, the Lord said, "I'm dealing with all the nations. I'mma bring all the nations to war for what they've done to you. For what they've done to you then and what they doing to you now." The Lord said, "I'mma deal with them because of that." So, we as the Israelites, what should we do?
+
+> <sup>[21](/bible/2-esdras/15#v21)</sup> Like as they do yet this day unto my chosen, so will I do also, and recompense in their bosom. Thus saith the Lord God;
 
 
 **[2 Esdras 15:22](/bible/2-esdras/15#v22)**  *[[49:11](https://www.youtube.com/watch?v=tDBf_MOlc34&t=2951s)]*
@@ -439,10 +439,6 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[2 Esdras 15:24-26](/bible/2-esdras/15#v24)**  *[[49:59](https://www.youtube.com/watch?v=tDBf_MOlc34&t=2999s)]*
 
 > <sup>[24](/bible/2-esdras/15#v24)</sup> Woe to them that sin, and keep not my commandments! saith the Lord.
->
-> <sup>[25](/bible/2-esdras/15#v25)</sup> I will not spare them: go your way, ye children, from the power, defile not my sanctuary.
->
-> <sup>[26](/bible/2-esdras/15#v26)</sup> For the Lord knoweth all them that sin against him, and therefore delivereth he them unto death and destruction.
 
 - Woe to them that sin and keep not my commandments: So, earlier today I was listening in on my break and I was listening in the Clubhouse. And I'm just listening in and I saw in the chat a homosexual brother came on the line and, you know, they was getting on him in the chat. They would talk a lot of, you know, he going to die and all this stuff like that, which if he don't repent, he will die.
 
@@ -452,7 +448,11 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 
 - Woe to them that sin and keep not my commandments, saith the Lord: Right. Woe to them that sin and keep not my commandments, saith the Lord.
 
+> <sup>[25](/bible/2-esdras/15#v25)</sup> I will not spare them: go your way, ye children, from the power, defile not my sanctuary.
+
 - Defile not my sanctuary: Right. Defile not my sanctuary.
+
+> <sup>[26](/bible/2-esdras/15#v26)</sup> For the Lord knoweth all them that sin against him, and therefore delivereth he them unto death and destruction.
 
 - For the Lord knoweth all them that sin against him: Right. So, the Lord said he know everybody that's sinning against him. So, even you Israelites that know you an Israelite, that declare to be righteous, even you. You're not keeping the commandments. The Lord said, "I know that you're not keeping the commandments. I know that you're actively in sin. I know you're in other women's DMs. I know that you're cheating on your husband. I know you're smoking weed. I know you're fornicating. I know you're lying. I know you're stealing. You understand? I know all the evil that you're doing," the Lord is saying. You're not going to get away with it. You're not going to get away with it. It's going to be revealed in that day that you've been wicked this whole time trying to hide it from the congregation because you're more worried about how man sees you than how God sees you.
 
@@ -462,12 +462,12 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[Revelation 16:14-15](/bible/revelation/16#v14)**  *[[52:38](https://www.youtube.com/watch?v=tDBf_MOlc34&t=3158s)]*
 
 > <sup>[14](/bible/revelation/16#v14)</sup> For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
->
-> <sup>[15](/bible/revelation/16#v15)</sup> Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.
 
 - To gather them to the battle of that great day of God Almighty: Right. To gather them to the battle of the great day of God Almighty. It's going down. Those unclean spirits, the economics, the politics, the stuff y'all see on CNN and watch all day. And MSNBC and all that crap. You watching that stuff all day and your brain is becoming diluted. You understand? Polluted. Let me use the word polluted. That's worse. Your brain is becoming polluted with American ideology. And you live in a bubble and you think everybody wrong and America's right. Because you want the liberties of this place. You want the American dream. Not realizing this place is Babylon the Great.
 
 - So the Lord said, "I know them that sin against me and I'm gathering all these nations together to the battle of the great day almighty. I'm dealing with them for how they dealt with you, and you sinning against me." I'm here to avenge you of the enemy and you sinning against me with the enemy. Calling me white. Saying that my son is white. Saying my angels is white. Saying that my people is … You crazy? Black folks doing it actively right now. Ask Philip … Mitchell. He doing that right now in his churches and on his podcast. These black Christians, I'm telling you, bro, if they don't repent, there's going to be a heavy judgment. It's going to be a heavy judgment to actively fight against God. I'm just telling you. I'm just telling you.
+
+> <sup>[15](/bible/revelation/16#v15)</sup> Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.
 
 - Lest he walk naked and they see his shame: Right. To walk naked is to break the commandments.
 
@@ -488,10 +488,10 @@ tags: ["15 Minutes w/ The Captains", "money", "the-law", "war"]
 **[Revelation 16:15-16](/bible/revelation/16#v15)**  *[[57:14](https://www.youtube.com/watch?v=tDBf_MOlc34&t=3434s)]*
 
 > <sup>[15](/bible/revelation/16#v15)</sup> Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.
->
-> <sup>[16](/bible/revelation/16#v16)</sup> And he gathered them together into a place called in the Hebrew tongue Armageddon.
 
 - Lest he walk naked and they see his shame: Right, he walk naked and they see his shame. Meaning when that time is revealed and the Lord send his son Jesus the Christ to fight on our behalf, then you better not get caught in the crossfires of that cuz you in the midst of sin yourself. People going to see your shame. They going to say, "Man, this dude said he was an Israelite. Look at him in the midst of sin." And the Lord judged him. All that war, all that fighting to try to get your sins off and do this work, just be put to death at the end because you couldn't give up your lust. So, everybody going to see your shame. That's what the Bible saying. Everybody's going to see your shame.
+
+> <sup>[16](/bible/revelation/16#v16)</sup> And he gathered them together into a place called in the Hebrew tongue Armageddon.
 
 - A place called in the Hebrew tongue Armageddon: Right, Armageddon. That's what you read in Joel 3. Gathering all nations together. Second of 15, gathering all nations together to go to war. That's what the Lord is saying.
 

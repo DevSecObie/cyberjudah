@@ -124,10 +124,10 @@ Reading from Definition: son of man  *[[13:29](https://www.youtube.com/watch?v=X
 **[Wisdom of Solomon 9:14-15](/bible/wisdom-of-solomon/9#v14)**  *[[18:13](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=1093s)]*
 
 > <sup>[14](/bible/wisdom-of-solomon/9#v14)</sup> For the thoughts of mortal men are miserable, and our devices are but uncertain.
->
-> <sup>[15](/bible/wisdom-of-solomon/9#v15)</sup> For the corruptible body presseth down the soul, and the earthy tabernacle weigheth down the mind that museth upon many things.
 
 - For the thoughts of mortal men are miserable, and our devices are but uncertain: So, the devices of mortal men are uncertain, and our mortal thoughts are miserable. We thinking about bills, we thinking about captivity, we thinking about the struggle, we dealing and fighting with the flesh. It's miserable.
+
+> <sup>[15](/bible/wisdom-of-solomon/9#v15)</sup> For the corruptible body presseth down the soul, and the earthy tabernacle weigheth down the mind that museth upon many things.
 
 - For the corruptible body presseth down the soul: Corruptible body that we live in, that Ezekiel lived in, presseth down the soul.
 
@@ -199,12 +199,12 @@ Reading from Definition: leasing  *[[19:07](https://www.youtube.com/watch?v=Xmhm
 **[1 Peter 1:10-11](/bible/1-peter/1#v10)**  *[[24:05](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=1445s)]*
 
 > <sup>[10](/bible/1-peter/1#v10)</sup> Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:
->
-> <sup>[11](/bible/1-peter/1#v11)</sup> Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
 - Of which salvation the prophets have enquired and searched diligently: Ezekiel is and was a prophet.
 
 - Who prophesied of the grace that should come unto you: That prophesied of the grace that should come unto you, which was Christ.
+
+> <sup>[11](/bible/1-peter/1#v11)</sup> Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
 - Searching what, or what manner of time the Spirit of Christ which was in them did signify: So, the spirit of Christ which was in them did signify. Anytime that spirit enters into one of the prophets, much prophecy, much judgment, and much rebuke is about to go forth. You have the gospel, you have the good news, you have judgment, you have rebuke or correction going out, you have prophecy, and then you have Christ, and you also have the laws of God. So, any pastor talking about they have the spirit or they feel the spirit, we going try that today. We going test that criteria and see if you was moving in the same spirit as our forefather Ezekiel. Read that again.
 
@@ -243,10 +243,10 @@ Reading from Definition: leasing  *[[19:07](https://www.youtube.com/watch?v=Xmhm
 **[Ezekiel 37:9-10](/bible/ezekiel/37#v9)**  *[[27:47](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=1667s)]*
 
 > <sup>[9](/bible/ezekiel/37#v9)</sup> Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.
->
-> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
 - And breathe upon these slain, that they may live: Well, what happened? That they may live. So, that's what's going on today. If you're not connecting the dots that we are moving in the same spirit as the forefathers of old, we have the spirit within us, we teach God's commandments, we keep God's commandments, we prophesy to our people, and now our nation is being risen back up. After we stood up upon our feet, now our nation is standing up upon their feet.
+
+> <sup>[10](/bible/ezekiel/37#v10)</sup> So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
 - And they lived, and stood up upon their feet: So, first it was Ezekiel, and now it's the nation.
 
@@ -305,12 +305,12 @@ Reading from the book (title not given on air), entry on Ezekiel  *[[30:36](http
 **[2 Kings 21:11-12](/bible/2-kings/21#v11)**  *[[35:22](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2122s)]*
 
 > <sup>[11](/bible/2-kings/21#v11)</sup> Because Manasseh king of Judah hath done these abominations, and hath done wickedly above all that the Amorites did, which were before him, and hath made Judah also to sin with his idols:
->
-> <sup>[12](/bible/2-kings/21#v12)</sup> Therefore thus saith the Lord God of Israel, Behold, I am bringing such evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.
 
 - Because Manasseh king of Judah hath done these abominations: Because he's done these abominations.
 
 - And hath made Judah also to sin with his idols: Now, the southern kingdom has gone off. Before it was just northern kingdom, but the southern kingdom has gone off, too. So, now all of Israel has fully gone into idolatry. But, the last one holding down the fort, they done fully went into idolatry, as well.
+
+> <sup>[12](/bible/2-kings/21#v12)</sup> Therefore thus saith the Lord God of Israel, Behold, I am bringing such evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.
 
 - That whosoever heareth of it: Whosoever hears of what I'm about to do to y'all, Judah and Israel.
 
@@ -320,12 +320,12 @@ Reading from the book (title not given on air), entry on Ezekiel  *[[30:36](http
 **[2 Kings 23:26-27](/bible/2-kings/23#v26)**  *[[36:11](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2171s)]*
 
 > <sup>[26](/bible/2-kings/23#v26)</sup> Notwithstanding the Lord turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.
->
-> <sup>[27](/bible/2-kings/23#v27)</sup> And the Lord said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there.
 
 - Notwithstanding the Lord turned not from the fierceness of his great wrath: Now, King Josiah, he did a reform, but it was too late to stop the decree. Everything that the Lord had said, that he put in motion, it was going to happen. He set up a great Passover. He did many mighty works, but the judgment still had to go forth.
 
 - Because of all the provocations that Manasseh had provoked him withal: So, the provocations, the rebellions, that it created a stiff-neck people against the Lord, a rebellious people against the Lord. We knew the commandments. We knew the laws. We knew the name. And we still rebelled against the Lord. We were fully set in our ways to do evil.
+
+> <sup>[27](/bible/2-kings/23#v27)</sup> And the Lord said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there.
 
 - I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen: He said, "I'm going to remove you. It's over with. Y'all going in the captivity. Babylon is coming." And that's where Ezekiel was prophesying from. This is the group of people that are with. They didn't get snatched up and then all of a sudden have a change of heart and all of a sudden they just understood what they were doing wrong and that they were evil and that they needed to change. Nah, they were bitter. They were suffering. They were in pain. They were uncomfortable. They were inconvenienced. And now they're in their enemy's land. They were amongst their nation living in wealth, living well, and now you're a servant. You're in servitude. Israel has now gone into captivity.
 
@@ -333,14 +333,14 @@ Reading from the book (title not given on air), entry on Ezekiel  *[[30:36](http
 **[2 Chronicles 36:14-16](/bible/2-chronicles/36#v14)**  *[[38:55](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=2335s)]*
 
 > <sup>[14](/bible/2-chronicles/36#v14)</sup> Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the Lord which he had hallowed in Jerusalem.
->
-> <sup>[15](/bible/2-chronicles/36#v15)</sup> And the Lord God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:
->
-> <sup>[16](/bible/2-chronicles/36#v16)</sup> But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the Lord arose against his people, till there was no remedy.
 
 - Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the Lord: Let's see these people. So, the priest went off, the people went off, they followed after the abominations of the heathen, and they polluted the house of the Lord in the temple. Oh, now these … got to go. Y'all got to go. You don't got to go home, but you got to get up out of here. Matter of fact, I called the taxi for you. It's going to take you straight to Babylon. You ain't got to pay no fare. You ain't got to do nothing. You're going straight to jail. Don't pass go. Don't collect 200 shekels. You're going to jail.
 
+> <sup>[15](/bible/2-chronicles/36#v15)</sup> And the Lord God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:
+
 - Because he had compassion on his people, and on his dwelling place: And even still, the Lord had compassion on his people and sent his prophets. You would think they would get their message, they would get that calling from the Lord and be like, "You know what? We already upside down. We already in the worst conditions possible. Maybe we should go back to our God who has always delivered us and maybe show some more respect to his laws and his commandments and his prophets." But we dealing with black people and Hispanic people and Native American people. So, let's see what they said.
+
+> <sup>[16](/bible/2-chronicles/36#v16)</sup> But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the Lord arose against his people, till there was no remedy.
 
 - But they mocked the messengers of God: Mocked the messengers of God. So, when Ezekiel was getting his charge, he knows the people that he got to go against. He knows the level of rebellion that is within the heart of the children of Israel.
 
@@ -398,12 +398,12 @@ Reading from the book (title not given on air), entry on Ezekiel  *[[30:36](http
 **[Romans 3:3-4](/bible/romans/3#v3)**  *[[50:24](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3024s)]*
 
 > <sup>[3](/bible/romans/3#v3)</sup> For what if some did not believe? shall their unbelief make the faith of God without effect?
->
-> <sup>[4](/bible/romans/3#v4)</sup> God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
 
 - For what if some did not believe: Some did not believe?
 
 - Shall their unbelief make the faith of God without effect: That's what the Lord is telling Ezekiel. Because they don't believe, does that make the Bible not true? Does it make the words that I'm telling you not true? The prophecies that I'm telling you not true?
+
+> <sup>[4](/bible/romans/3#v4)</sup> God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
 
 - God forbid: Absolutely not.
 
@@ -419,22 +419,22 @@ Reading from the book (title not given on air), entry on Ezekiel  *[[30:36](http
 **[2 Esdras 15:1-4](/bible/2-esdras/15#v1)**  *[[52:58](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3178s)]*
 
 > <sup>[1](/bible/2-esdras/15#v1)</sup> Behold, speak thou in the ears of my people the words of prophecy, which I will put in thy mouth, saith the Lord:
->
-> <sup>[2](/bible/2-esdras/15#v2)</sup> And cause them to be written in paper: for they are faithful and true.
->
-> <sup>[3](/bible/2-esdras/15#v3)</sup> Fear not the imaginations against thee, let not the incredulity of them trouble thee, that speak against thee.
->
-> <sup>[4](/bible/2-esdras/15#v4)</sup> For all the unfaithful shall die in their unfaithfulness.
 
 - Speak thou in the ears of my people the words of prophecy, which I will put in thy mouth: That's the charge, the same charge that Ezekiel got. The Lord was going to put the words in his mouth. That's why he said, "Say, Thus saith the Lord."
 
+> <sup>[2](/bible/2-esdras/15#v2)</sup> And cause them to be written in paper: for they are faithful and true.
+
 - And cause them to be written in paper: for they are faithful and true: Write it down cuz it's faithful and true. That's how we got the Bible. Faithful men with the spirit of Christ within them wrote the words of God, and they were faithful and true. The prophecies became history.
+
+> <sup>[3](/bible/2-esdras/15#v3)</sup> Fear not the imaginations against thee, let not the incredulity of them trouble thee, that speak against thee.
 
 - Fear not the imaginations against thee: Don't fear the things or the threats that they're going to make against you. Don't fear those.
 
 - Let not the incredulity of them trouble thee: The incredulity. I knew that word was going to get the... I heard the incredulity, cuz we don't use that word. Let's go ahead and look it up. The incredulity. I need to bring that out once in a while. Incredulous. I hope that's the conjugation of incredulous.
 
 - Fear not the imaginations against thee, let not the incredulity of them trouble thee: Don't let their unbelief shake your faith, have you doubting.
+
+> <sup>[4](/bible/2-esdras/15#v4)</sup> For all the unfaithful shall die in their unfaithfulness.
 
 - That speak against thee. For all the unfaithful shall die in their unfaithfulness: That is the same thing Ezekiel heard. That's later on. If they will die in their unfaithfulness, it's okay. You just do the job and warn them, because they can't come before the Lord and say they were never warned. That's our whole mission, goal, obligation, is to just be a witness against them that they heard and rejected. Right? Get Nehemiah chapter 9 verse 26. Look up the word harbinger. Word just popped in my mind.
 
@@ -500,18 +500,18 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 **[Ezekiel 33:31-33](/bible/ezekiel/33#v31)**  *[[1:00:40](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=3640s)]*
 
 > <sup>[31](/bible/ezekiel/33#v31)</sup> And they come unto thee as the people cometh, and they sit before thee as my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, but their heart goeth after their covetousness.
->
-> <sup>[32](/bible/ezekiel/33#v32)</sup> And, lo, thou art unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not.
->
-> <sup>[33](/bible/ezekiel/33#v33)</sup> And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
 
 - And they hear thy words, but they will not do them: That's what Ezekiel is going to experience as well. Right? And that's what we experience. Go out of it real quick cuz I want to show the amount of subscribers. That's what the people do. "Oh, we heard y'all before." They don't treat us as the harbingers of the end of the world. They don't treat us like a signal of the impending apocalypse. No, no, no, they don't treat us like that. They treat us like a lovely song that you just want to hear every once in a while. "Oh, y'all look, there go them Israelites."
 
 - And they hear thy words, but they will not do them: Bishop Nathanyel, right? Got interviewed by Soft White Underbelly and they have almost 7 million followers. You got to let that resonate. You don't think that millions upon millions upon millions of souls is marked? Because he straight prophesied. It wasn't no ifs, ands. It wasn't no shoot the breeze. It was straight prophecy. From start to finish. But for some it's just going to be a lovely song. This is a signaling of the end of the world. The Israelites are on a major, major platform. The Lord put the spirit on that Edomite to interview the bishop, to bring him on his platform, and bishop just straight, no holds barred, prophesied. He said, "We got to keep God's laws. You blacks, Hispanics, and Native Americans, you are the children of Israel. We got to unify Africa with God's laws." He brought about Cesare Borgia, Rodrigo Borgia. He went into everything.
 
+> <sup>[32](/bible/ezekiel/33#v32)</sup> And, lo, thou art unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not.
+
 - For they hear thy words: They hear God's word.
 
 - But they do them not: But, they don't do God's words.
+
+> <sup>[33](/bible/ezekiel/33#v33)</sup> And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
 
 - And when this cometh to pass: But when what thing that the harbinger, the prophet, has said comes to pass.
 
@@ -574,8 +574,6 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 **[2 Corinthians 1:8-9](/bible/2-corinthians/1#v8)**  *[[1:13:03](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=4383s)]*
 
 > <sup>[8](/bible/2-corinthians/1#v8)</sup> For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
->
-> <sup>[9](/bible/2-corinthians/1#v9)</sup> But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
 
 - Of our trouble which came to us in Asia: You remember "Great is Diana of the Ephesians"? Yeah, when hands got put on folks. Yeah. That situation. It was like that times a thousand. You understand? A whole city. We dealt with what we dealt with, but it wasn't this.
 
@@ -584,6 +582,8 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 - Above strength: Above the strength. There's a strength that you got. There's a toughness that you got. And then there's where they was at. They was at, now we pressed above the strength that we got.
 
 - Insomuch that we despaired even of life: "Oh, man. I don't think we going to make it, y'all." They despaired even of life.
+
+> <sup>[9](/bible/2-corinthians/1#v9)</sup> But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
 
 - But we had the sentence of death in ourselves: But what happened? We already resolved that a prophet is under constant threat of suffering bodily harm, pain, violence, hatred. Paul, Ezekiel, Jeremiah, Christ, Peter, us. If they were here right now, we could hold a conversation with them. We could tell them, not of the same caliber, but of similar exploits. Y'all couldn't have no real conversation with the prophets if they came back today. I'm talking to you Christians out there. What would y'all have to talk about? What would y'all relate about? What would y'all have in common to discuss? "Hey, remember that time we traveled to that one island and they threatened to eat us, and some folks got sick." You don't know if that's Peter talking or if that's the bishop talking. How many of y'all can say that about your pastors? About your leaders? Play on.
 
@@ -626,10 +626,6 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 **[Micah 7:2-4](/bible/micah/7#v2)**  *[[1:19:43](https://www.youtube.com/watch?v=Xmhmn0g1PlE&t=4783s)]*
 
 > <sup>[2](/bible/micah/7#v2)</sup> The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.
->
-> <sup>[3](/bible/micah/7#v3)</sup> That they may do evil with both hands earnestly, the prince asketh, and the judge asketh for a reward; and the great man, he uttereth his mischievous desire: so they wrap it up.
->
-> <sup>[4](/bible/micah/7#v4)</sup> The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of thy watchmen and thy visitation cometh; now shall be their perplexity.
 
 - And there is none upright among men: Among the son of man, there is none upright.
 
@@ -637,7 +633,11 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 
 - They hunt every man his brother with a net: They all setting up traps and finesses and scams.
 
+> <sup>[3](/bible/micah/7#v3)</sup> That they may do evil with both hands earnestly, the prince asketh, and the judge asketh for a reward; and the great man, he uttereth his mischievous desire: so they wrap it up.
+
 - The prince asketh, and the judge asketh for a reward: Even the leaders are out of pocket.
+
+> <sup>[4](/bible/micah/7#v4)</sup> The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of thy watchmen and thy visitation cometh; now shall be their perplexity.
 
 - The best of them is as a brier: The best of our people in this wicked condition is as a brier or a thorn. So, when Ezekiel was told you'll be amongst briers and thorns and scorpions, he's saying you're being amongst wicked Israelites. Your own people. You'll try to pick them up and guess what they do? Yo, this is area in my backyard thick as hell with nothing but thorns and briers, and I was like, "Yo, these things are serious." One stabbed me in my shirt, almost took me out. Sliced open my... Oh! That's what happened when you try to deal with your people, rebellious, wicked as hell.
 
@@ -651,10 +651,10 @@ Reading from Definition: harbinger  *[[59:38](https://www.youtube.com/watch?v=Xm
 > <sup>[6](/bible/ezekiel/2#v6)</sup> And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house.
 >
 > <sup>[7](/bible/ezekiel/2#v7)</sup> And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they are most rebellious.
->
-> <sup>[8](/bible/ezekiel/2#v8)</sup> But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.
 
 - Whether they will hear, or whether they will forbear: Whether they hear or whether they will forbear. Whether they care, whether they listen or not, our job is not to try to convince nobody. Our job is to do what we have been commissioned to do.
+
+> <sup>[8](/bible/ezekiel/2#v8)</sup> But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.
 
 - Be not thou rebellious like that rebellious house: But do not be a hypocrite. Don't be rebellious like they are rebellious. Cuz the Christian church, these pastors, they rebellious like the damn wicked in the church. They just as bad if not worse. There's hundreds of articles on pastors that have got caught embezzling, stealing, raping, robbing. Some people murder. They got baby mama. They get murdered cuz of they baby mama. It's like, what the hell is going on? Homosexual scandals. Yeah, see? They rebellious like... How you going to rebuke homosexuality and then you a openly gay bishop? Our bishop is teaching on a platform with 7 million people and you trying to be gay out here. How the hell you going to correct them? Go back. Read again.
 

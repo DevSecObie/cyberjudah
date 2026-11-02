@@ -46,8 +46,6 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 **[1 Corinthians 12:10-11](/bible/1-corinthians/12#v10)**  *[[9:52](https://www.youtube.com/watch?v=oXToRY7jI94&t=592s)]*
 
 > <sup>[10](/bible/1-corinthians/12#v10)</sup> To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:
->
-> <sup>[11](/bible/1-corinthians/12#v11)</sup> But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
 
 - To another the working of miracles: And like I said, Captain Josiah went over this. So you had these different gifts. You had the working of miracles given to brothers.
 
@@ -57,6 +55,8 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 
 - To another divers kinds of tongues: Another brother was able to speak different languages.
 
+> <sup>[11](/bible/1-corinthians/12#v11)</sup> But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
+
 - But all these worketh that one and the selfsame Spirit: But all these worketh in that same spirit. It's all flowing from the same spirit.
 
 - Dividing to every man severally as he will: And it said it divides to every man as the Lord will, as that spirit will. Because why? As we read down, you're going to see the importance of that. That's the only division, is those different gifts that I need to resonate through the body. So all of it can be compacted together and work in that same spirit to the ultimate goal.
@@ -65,8 +65,6 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 **[1 Corinthians 12:12-13](/bible/1-corinthians/12#v12)**  *[[11:11](https://www.youtube.com/watch?v=oXToRY7jI94&t=671s)]*
 
 > <sup>[12](/bible/1-corinthians/12#v12)</sup> For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.
->
-> <sup>[13](/bible/1-corinthians/12#v13)</sup> For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
 
 - For as the body is one, and hath many members: As the body is one, now he's giving you comparisons as a physical body. Us being built in this congregation, those that were being built in Rome, those lively stones. Make sure we get that. Hold that. The lively stones in Peter, the building blocks, these building blocks are all of the same members.
 
@@ -75,6 +73,8 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 - And all the members of that one body, being many, are one body: He said being many, they're one body. They're one body.
 
 - So also is Christ: So he's comparing the physical body to Christ, to us being many members and coming into the congregation bringing different gifts, different gifts given to us, but we all work in the effectual working of the Lord, of that spirit.
+
+> <sup>[13](/bible/1-corinthians/12#v13)</sup> For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
 
 - For by one Spirit are we all baptized into one body: By one spirit. Who's the one spirit? Get this right quick. Who's that one spirit?
 
@@ -135,17 +135,17 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 
 **[1 Maccabees 1:14-15](/bible/1-maccabees/1#v14)**  *[[20:00](https://www.youtube.com/watch?v=oXToRY7jI94&t=1200s)]*
 
-> <sup>[14](/bible/1-maccabees/1#v14)</sup> Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen:
->
-> <sup>[15](/bible/1-maccabees/1#v15)</sup> And made themselves uncircumcised, and forsook the holy covenant, and joined themselves to the heathen, and were sold to do mischief.
-
 - Talking about those Jews, how they became Gentiles, how they became referenced as Gentiles.
+
+> <sup>[14](/bible/1-maccabees/1#v14)</sup> Whereupon they built a place of exercise at Jerusalem according to the customs of the heathen:
 
 - Whereupon they built a place of exercise at Jerusalem: At where? At Jerusalem. So now we pinpointing who we talking about. These are Jews dwelling at Jerusalem.
 
 - According to the customs of the heathen: Remember northern kingdom's on the other side of the world. So the majority of the people that were in Jerusalem, these were Jews. And you had the evil of our people start setting up different places of exercise according to the custom of the heathen, just like they do now with these sports arenas and different things like that that they feed to us. All right, that we actually propel them. We actually keep these damn sports leagues going. We keep these things going, bro.
 
 - It's amazing that none of our brothers, this how you know that the Lord got his hand in it, all the money that's going around, all the money that these brothers are making, how come nobody has ever said, “Hey, let's make our own league”? They know if they try to do that, which has been attempted. Remember Ice Cube, he did the three on three. One of his gripes was the NBA did not want to support him. Even though that he's not even a direct threat to the league, they said, “Hell no.” They was fighting that thing. You understand? Because they know, hey, this is ours. We're using us cattle to continue on with the hell, the operations that we got going on. This is our custom.
+
+> <sup>[15](/bible/1-maccabees/1#v15)</sup> And made themselves uncircumcised, and forsook the holy covenant, and joined themselves to the heathen, and were sold to do mischief.
 
 - And made themselves uncircumcised: And what do we do? Made themselves uncircumcised. We made ourselves, how the hell can you make yourself uncircumcised? By not keeping the commandments. Meaning the circumcision that's going on in your mind.
 
@@ -155,18 +155,18 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 **[1 Corinthians 12:14-17](/bible/1-corinthians/12#v14)**  *[[23:44](https://www.youtube.com/watch?v=oXToRY7jI94&t=1424s)]*
 
 > <sup>[14](/bible/1-corinthians/12#v14)</sup> For the body is not one member, but many.
->
-> <sup>[15](/bible/1-corinthians/12#v15)</sup> If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?
->
-> <sup>[16](/bible/1-corinthians/12#v16)</sup> And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?
->
-> <sup>[17](/bible/1-corinthians/12#v17)</sup> If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?
 
 - For the body is not one member, but many: Remember, why does he got to bring this up? Because there was divisions. You had divisions amongst them. So he had to, hey man, just look at the body. Just look at something that's natural that you see naturally every day. If one member is off, your whole body is off. Still he had to make a comparison.
 
+> <sup>[15](/bible/1-corinthians/12#v15)</sup> If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?
+
 - If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?: I'm saying listen. If the foot wake up and get this bright idea, hey, I ain't the hand, I ain't of the body, does that qualify you not being a part of the body? Hell no. The hell, you just can't wake up and say, I ain't part of the body. The mind controls that thing.
 
+> <sup>[16](/bible/1-corinthians/12#v16)</sup> And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?
+
 - And if the ear shall say, Because I am not the eye: If the ear should say, I'm not the eye.
+
+> <sup>[17](/bible/1-corinthians/12#v17)</sup> If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?
 
 - If the whole body were an eye, where were the hearing?: You see that all of them work tandemly with each other. Right. If the whole body was being sent or made to see, how the hell would you hear? You understand? He gave us all these different elements, these different members for the working of the body. They're all vital.
 
@@ -236,10 +236,6 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 **[Ephesians 4:14-16](/bible/ephesians/4#v14)**  *[[34:46](https://www.youtube.com/watch?v=oXToRY7jI94&t=2086s)]*
 
 > <sup>[14](/bible/ephesians/4#v14)</sup> That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;
->
-> <sup>[15](/bible/ephesians/4#v15)</sup> But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
->
-> <sup>[16](/bible/ephesians/4#v16)</sup> From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.
 
 - That we henceforth be no more children: You see why you always make a reference to babes when you divided, children. It said, “Don't be no more children.”
 
@@ -247,7 +243,11 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 
 - That we may grow up: That we may grow. That we may grow in this understanding.
 
+> <sup>[15](/bible/ephesians/4#v15)</sup> But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
+
 - Into him in all things: That we may grow. That we may go from a child to a man. That we may grow up in understanding. Remember the scripture says, “Be as a child in malice. But when it comes to understanding, be as men.”
+
+> <sup>[16](/bible/ephesians/4#v16)</sup> From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.
 
 - From whom the whole body fitly joined together: Whom the whole body is fitly joined together. Remember, sidebar, remember when Solomon built the temple. One of the qualifications of the temple was you couldn't be hammering. You couldn't be having nails and anything to build the temple. He didn't want to hear none of that. So the Lord is giving us all these spiritual gifts. We all come in exactly how we need to be to fit this frame, how we needed to be to mold it. We all jointly fitted together perfectly when we work the same with same things.
 
@@ -263,8 +263,6 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 **[1 Corinthians 12:19-20](/bible/1-corinthians/12#v19)**  *[[37:38](https://www.youtube.com/watch?v=oXToRY7jI94&t=2258s)]*
 
 > <sup>[19](/bible/1-corinthians/12#v19)</sup> And if they were all one member, where were the body?
->
-> <sup>[20](/bible/1-corinthians/12#v20)</sup> But now are they many members, yet but one body.
 
 - And if they were all one member, where were the body?: You see that? If they were all one member, if we was all, these are these individuals. If we was all just one member, it wouldn't be nobody. You'll have one person over here doing his thing, one person over there doing their thing. You see it on YouTube. Two people over here doing their thing. But guess what? They all be watching the same classes. I ain't going to say what class. They all be watching the same classes getting edification.
 
@@ -273,6 +271,8 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 - Now, watch this. Go back to Corinthians. That's why it says, “If my people shall humble themselves.” Humble down. I'm setting up a government. I'm setting up a body, a house. All you got to do is come in and add, you know, bring forth your gift.
 
 - And if they were all one member, where were the body?: If everybody just do their own things, where is the body?
+
+> <sup>[20](/bible/1-corinthians/12#v20)</sup> But now are they many members, yet but one body.
 
 - But now are they many members, yet but one body: But now when we humble ourselves, we many members, but we one body now. We all working together.
 
@@ -290,14 +290,6 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 **[1 Corinthians 12:21-25](/bible/1-corinthians/12#v21)**  *[[42:27](https://www.youtube.com/watch?v=oXToRY7jI94&t=2547s)]*
 
 > <sup>[21](/bible/1-corinthians/12#v21)</sup> And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.
->
-> <sup>[22](/bible/1-corinthians/12#v22)</sup> Nay, much more those members of the body, which seem to be more feeble, are necessary:
->
-> <sup>[23](/bible/1-corinthians/12#v23)</sup> And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.
->
-> <sup>[24](/bible/1-corinthians/12#v24)</sup> For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:
->
-> <sup>[25](/bible/1-corinthians/12#v25)</sup> That there should be no schism in the body; but that the members should have the same care one for another.
 
 - And the eye cannot say unto the hand, I have no need of thee: The eye can't say unto the hand, hey, I ain't got no need of you.
 
@@ -309,13 +301,21 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 
 - Nor again the head to the feet, I have no need of you: Why? Because the head, in order for the mind to say, “Hey, let's go over here. Let's walk over here,” what do you need? You need feet. You need feet. You understand? You need those members. So they work tandemly together. They all serve a purpose.
 
+> <sup>[22](/bible/1-corinthians/12#v22)</sup> Nay, much more those members of the body, which seem to be more feeble, are necessary:
+
 - Nay, much more those members of the body, which seem to be more feeble, are necessary: It says now, now he's letting you know, much more those members in the body that seem to be feeble, because you got brothers that's out in front, you understand? Teaching, you know, we teaching on the word. We online doing different things. But that does not mean that the ones that's behind the scenes are less valuable. You understand? Paul is saying right here, those members that seem to be more feeble are necessary. They're necessary for the development, the growth, the moving forward of the whole body. You understand?
+
+> <sup>[23](/bible/1-corinthians/12#v23)</sup> And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.
 
 - And those members of the body, which we think to be less honourable: That we think to be less honorable.
 
 - Upon these we bestow more abundant honour: You got to bestow more abundant honor because the brothers and sisters that you don't see, this is the reason why these things are going. Just like right now we got the camera. We got all this set up right now. I'm teaching. I'm the only one you see. But there's different elements. There's different members in a body that bring forth what you see, the end result if you will. You understand? All these members matter.
 
+> <sup>[24](/bible/1-corinthians/12#v24)</sup> For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:
+
 - But God hath tempered the body together: But the Lord tempered the body together.
+
+> <sup>[25](/bible/1-corinthians/12#v25)</sup> That there should be no schism in the body; but that the members should have the same care one for another.
 
 - That there should be no schism in the body: So it's a balance. You see that? That's the reason why he said, “Listen, give more honor to those that you don't see. Put more honor upon those that you don't see.” You don't need to honor the comely parts. You see them. No, I want to say it like that. It says, “Give more honor to those that you don't see. Bestow more honor to those that you don't see.” Why? So there be no schisms in a body. Everybody knows their roles.
 
@@ -331,20 +331,20 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 **[Philippians 2:2-5](/bible/philippians/2#v2)**  *[[47:22](https://www.youtube.com/watch?v=oXToRY7jI94&t=2842s)]*
 
 > <sup>[2](/bible/philippians/2#v2)</sup> Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.
->
-> <sup>[3](/bible/philippians/2#v3)</sup> Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
->
-> <sup>[4](/bible/philippians/2#v4)</sup> Look not every man on his own things, but every man also on the things of others.
->
-> <sup>[5](/bible/philippians/2#v5)</sup> Let this mind be in you, which was also in Christ Jesus:
 
 - Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind: That's how we fulfilling the Lord's joy, being on one accord, being likeminded. You understand? Having that same love for one another.
+
+> <sup>[3](/bible/philippians/2#v3)</sup> Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
 
 - Let nothing be done through strife or vainglory: Let nothing be done in strife or vain glory. Let nothing be done in strife or because you want to be seen. Vain glory.
 
 - But in lowliness of mind let each esteem other better than themselves: But in lowliness of mind, esteem your brother. Esteem those parts that you might think is less necessary. Esteem those brothers better than yourself. Because guess what? It's some stuff that you can learn from them. It's some stuff that, hey, for the furtherance of whatever that you putting your hand to, they bringing valuable information. They bringing a valuable gift and you need all these things. Everybody can't be the eye. Everybody can't be the ear. Everybody can't be the foot. You need all these different members.
 
+> <sup>[4](/bible/philippians/2#v4)</sup> Look not every man on his own things, but every man also on the things of others.
+
 - Look not every man on his own things, but every man also on the things of others: Don't look on your own things. Damn, this is what I'm contributing. This, I, me, me. That's the Christian church. That's society. Everybody's just worried about me. Me, me, me, me, me, myself, myself, myself. Me, myself and I. You understand? But that's not how the Lord wants us to operate. They said don't look on your own things but on what the other brothers, what can you bring forth, what other gift do you have. That's the importance of knowing the brothers around you.
+
+> <sup>[5](/bible/philippians/2#v5)</sup> Let this mind be in you, which was also in Christ Jesus:
 
 - Let this mind be in you: Let that mind be in you.
 
@@ -356,24 +356,24 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 > <sup>[25](/bible/1-corinthians/12#v25)</sup> That there should be no schism in the body; but that the members should have the same care one for another.
 >
 > <sup>[26](/bible/1-corinthians/12#v26)</sup> And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.
->
-> <sup>[27](/bible/1-corinthians/12#v27)</sup> Now ye are the body of Christ, and members in particular.
->
-> <sup>[28](/bible/1-corinthians/12#v28)</sup> And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
->
-> <sup>[29](/bible/1-corinthians/12#v29)</sup> Are all apostles? are all prophets? are all teachers? are all workers of miracles?
 
 - And whether one member suffer, all the members suffer with it: Where the one member suffered, listen, we all suffer, cuz we all looking not on our own selves, the things of our own selves, but the body. How we can look out for our brothers and sisters.
 
 - Or one member be honoured, all the members rejoice with it: All the members. If one member be honored, all the members get that rejoicing. If one member suffer, we all suffer. Why? Because we that body that's jointly fit together.
 
+> <sup>[27](/bible/1-corinthians/12#v27)</sup> Now ye are the body of Christ, and members in particular.
+
 - Now ye are the body of Christ: Now we are the what? The body of Christ. Now as we work together, we are now that body of Christ.
+
+> <sup>[28](/bible/1-corinthians/12#v28)</sup> And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
 
 - And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings: You see how the Lord has set this thing up? He said, “First, I'm bringing those apostles in. Those ones that's going to teach, go out and teach the word. Then secondarily, I'mma bring forth prophets. They're going to be able to prophesy based on what the apostles doing going forth and teaching. Many members are going to come into the church. How are they going to get edified? By prophecy.” You understand?
 
 - Thirdly teachers: It said thirdly, you got teachers.
 
 - Governments, diversities of tongues: Diversity of tongues. This is the building up of the church. All of them are necessary. All of them are valuable.
+
+> <sup>[29](/bible/1-corinthians/12#v29)</sup> Are all apostles? are all prophets? are all teachers? are all workers of miracles?
 
 - Are all apostles? are all prophets? are all teachers? are all workers of miracles?: Is everybody an apostle? Is everybody a prophet? Is everybody a worker of miracles?
 
@@ -383,33 +383,33 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 > <sup>[20](/bible/1-corinthians/15#v20)</sup> But now is Christ risen from the dead, and become the firstfruits of them that slept.
 >
 > <sup>[21](/bible/1-corinthians/15#v21)</sup> For since by man came death, by man came also the resurrection of the dead.
->
-> <sup>[22](/bible/1-corinthians/15#v22)</sup> For as in Adam all die, even so in Christ shall all be made alive.
->
-> <sup>[23](/bible/1-corinthians/15#v23)</sup> But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming.
 
 - For since by man came death, by man came also the resurrection of the dead: From Adam came death, and the resurrection came from Christ.
 
+> <sup>[22](/bible/1-corinthians/15#v22)</sup> For as in Adam all die, even so in Christ shall all be made alive.
+
 - For as in Adam all die: Here we go.
+
+> <sup>[23](/bible/1-corinthians/15#v23)</sup> But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming.
 
 - But every man in his own order: But every man in his own order. First apostles. Secondarily prophets. Thirdly, you got miracles. You understand? And so forth and so forth. Every man is woken up in his own order. Remember as Christ is walking through waking up the 12, he woke up Peter, his brother. Then he seen Thomas. You understand? So forth. You understand? So every man was woken up.
 
 
 **[1 Corinthians 15:5-8](/bible/1-corinthians/15#v5)**  *[[53:30](https://www.youtube.com/watch?v=oXToRY7jI94&t=3210s)]*
 
-> <sup>[5](/bible/1-corinthians/15#v5)</sup> And that he was seen of Cephas, then of the twelve:
->
-> <sup>[6](/bible/1-corinthians/15#v6)</sup> After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
->
-> <sup>[7](/bible/1-corinthians/15#v7)</sup> After that, he was seen of James; then of all the apostles.
->
-> <sup>[8](/bible/1-corinthians/15#v8)</sup> And last of all he was seen of me also, as of one born out of due time.
-
 - And then remember Paul said, as one that was born out of time.
+
+> <sup>[5](/bible/1-corinthians/15#v5)</sup> And that he was seen of Cephas, then of the twelve:
 
 - And that he was seen of Cephas, then of the twelve: This is where after Christ was resurrected, he said he was seen of, not Paul, but Peter, and then of the 12.
 
+> <sup>[6](/bible/1-corinthians/15#v6)</sup> After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
+
 - But some are fallen asleep: Some have died.
+
+> <sup>[7](/bible/1-corinthians/15#v7)</sup> After that, he was seen of James; then of all the apostles.
+>
+> <sup>[8](/bible/1-corinthians/15#v8)</sup> And last of all he was seen of me also, as of one born out of due time.
 
 - And last of all he was seen of me also: Last of all, remember he was seen. Remember after Cephas, Peter, and the twelve, after they had been woken up, they were doing the work. The spirit that came down, they doing the work. Remember Paul, Acts chapter nine. In Damascus, Paul is on his way to persecute the church. But now listen what Paul is saying. Last of all he was seen of him, of Paul.
 
@@ -421,10 +421,10 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 > <sup>[29](/bible/1-corinthians/12#v29)</sup> Are all apostles? are all prophets? are all teachers? are all workers of miracles?
 >
 > <sup>[30](/bible/1-corinthians/12#v30)</sup> Have all the gifts of healing? do all speak with tongues? do all interpret?
->
-> <sup>[31](/bible/1-corinthians/12#v31)</sup> But covet earnestly the best gifts: and yet shew I unto you a more excellent way.
 
 - Have all the gifts of healing?: Have all the gifts of healing?
+
+> <sup>[31](/bible/1-corinthians/12#v31)</sup> But covet earnestly the best gifts: and yet shew I unto you a more excellent way.
 
 - But covet earnestly the best gifts: Everybody don't do the same things. So if we understand that everybody is not on the same level, everybody didn't come in at the same time. First apostles, secondly prophets. You supposed to look out and covet earnestly those gifts that these brothers are conveying, that these brothers are showing. You supposed to covet those gifts. Damn, how you do this? How you learn that? How did you break down this prophecy? What did you see? Give me the understanding on this. All these things is for the edification of the church.
 
@@ -481,17 +481,17 @@ tags: ["15 Minutes w/ The Captains", "anger", "the-body"]
 
 **[2 Corinthians 7:1-2](/bible/2-corinthians/7#v1)**  *[[1:02:05](https://www.youtube.com/watch?v=oXToRY7jI94&t=3725s)]*
 
-> <sup>[1](/bible/2-corinthians/7#v1)</sup> Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
->
-> <sup>[2](/bible/2-corinthians/7#v2)</sup> Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.
-
 - This is why we got to have many members of the body, bro.
+
+> <sup>[1](/bible/2-corinthians/7#v1)</sup> Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
 
 - Having therefore these promises: If we understand these promises.
 
 - Dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit: Examine yourselves.
 
 - Perfecting holiness in the fear of God: What are we supposed to be doing? Perfecting holiness. Don't be hypocrites. We got to start perfecting that holiness in the fear of the Lord.
+
+> <sup>[2](/bible/2-corinthians/7#v2)</sup> Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.
 
 - We have wronged no man, we have corrupted no man, we have defrauded no man: You see our works. You see what we doing? We ain't wronged no man. We ain't defrauding no man.
 

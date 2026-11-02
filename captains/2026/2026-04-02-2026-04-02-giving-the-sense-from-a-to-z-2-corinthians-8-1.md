@@ -25,8 +25,6 @@ tags: ["15 Minutes w/ The Captains", "faith", "false-religion", "leadership"]
 **[2 Corinthians 8:1-2](/bible/2-corinthians/8#v1)**  *[[5:54](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=354s)]*
 
 > <sup>[1](/bible/2-corinthians/8#v1)</sup> Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;
->
-> <sup>[2](/bible/2-corinthians/8#v2)</sup> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 
 - We do you to wit of the grace of God bestowed on the churches of Macedonia: So right here he's telling those at Corinth, all right, he wants them to take witness of the grace. What's that grace? That faith that's given to the Macedonians. He's making that statement. Because the Lord gives all of us a level of faith, a level of grace, mercy. The Lord gives all of us a measure. All right and he explained that to the Romans.
 
@@ -37,6 +35,8 @@ tags: ["15 Minutes w/ The Captains", "faith", "false-religion", "leadership"]
     > <sup>[3](/bible/romans/12#v3)</sup> For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
 
     For I say through the grace given unto me: Through the grace given unto Paul. According as God hath dealt to every man the measure of faith: You see that? So the Lord dealt to every man the measure of faith.
+
+> <sup>[2](/bible/2-corinthians/8#v2)</sup> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 
 
 **[Acts 16:8-13](/bible/acts/16#v8)**  *[[7:34](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=454s)]*
@@ -104,16 +104,6 @@ Reading from On-screen text on the naming of Philippi  *[[13:19](https://www.you
 **[Philippians 1:1-6](/bible/philippians/1#v1)**  *[[15:48](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=948s)]*
 
 > <sup>[1](/bible/philippians/1#v1)</sup> Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
->
-> <sup>[2](/bible/philippians/1#v2)</sup> Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
->
-> <sup>[3](/bible/philippians/1#v3)</sup> I thank my God upon every remembrance of you,
->
-> <sup>[4](/bible/philippians/1#v4)</sup> Always in every prayer of mine for you all making request with joy,
->
-> <sup>[5](/bible/philippians/1#v5)</sup> For your fellowship in the gospel from the first day until now;
->
-> <sup>[6](/bible/philippians/1#v6)</sup> Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
 
 - To all the saints in Christ Jesus which are at Philippi: To all the saints in Christ which were at Philippi. Who are the saints? Just in case we got some new brothers and sisters. Who are the saints? Is it everybody? Let's read it.
 
@@ -121,11 +111,21 @@ Reading from On-screen text on the naming of Philippi  *[[13:19](https://www.you
 
 - With the bishops and deacons: Bishops and deacons. So, they set up order. They set up order in the church.
 
+> <sup>[2](/bible/philippians/1#v2)</sup> Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
+
 - From God our Father: Our father. From God our father. Possessive. He's not the God of everybody. He's not the father of everybody. It says from God our father. A letter to the Israelites.
+
+> <sup>[3](/bible/philippians/1#v3)</sup> I thank my God upon every remembrance of you,
+>
+> <sup>[4](/bible/philippians/1#v4)</sup> Always in every prayer of mine for you all making request with joy,
+>
+> <sup>[5](/bible/philippians/1#v5)</sup> For your fellowship in the gospel from the first day until now;
 
 - For your fellowship in the gospel from the first day until now: So, this was one of the church that was close to Paul, man. When you study the church of Philippi and that relationship with Paul had, this is why he's bringing it up and he's telling those at Corinth, 'I want you to take notice of that mercy, that grace that was installed on these men, these brothers and sisters that were in this church.' They had a special spirit about them in Philippi.
 
 - You go to different churches like leadership is set up today, these various different states, different spots, cuz there was other churches in Macedonia. Every one of them had a different spirit about them. You understand? Corinth, they was rebellious, bro. They was very self-willed. He didn't have that with Philippi, with the Philippians. You understand, with Thessalonica. You didn't read about that. But they was very open to being deceived. So, that's why at Thessalonica he had to write, 'Listen, don't be troubled by any letter. Keep the faith. It got to be a falling away first before Christ comes.' You understand? So, we start to understand when you do your studying, you understand about the nature and the mercy that was in Philippi.
+
+> <sup>[6](/bible/philippians/1#v6)</sup> Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
 
 - He which hath begun a good work in you: They have begun a good work in you. Meaning given that mercy, given that grace to you.
 
@@ -143,10 +143,10 @@ Reading from On-screen text on the naming of Philippi  *[[13:19](https://www.you
 **[2 Corinthians 8:1-2](/bible/2-corinthians/8#v1)**  *[[20:10](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=1210s)]*
 
 > <sup>[1](/bible/2-corinthians/8#v1)</sup> Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;
->
-> <sup>[2](/bible/2-corinthians/8#v2)</sup> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 
 - Bestowed on the churches of Macedonia: Bestowed on the churches of Macedonia cuz it just wasn't one. You had different churches that was set up across Macedonia.
+
+> <sup>[2](/bible/2-corinthians/8#v2)</sup> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 
 - How that in a great trial of affliction the abundance of their joy: Now, he said because of how the great trial of affliction, the abundance of their joy. What was going on in Macedonia?
 
@@ -167,17 +167,13 @@ Reading from On-screen text on the naming of Philippi  *[[13:19](https://www.you
 
 **[Philippians 1:27-30](/bible/philippians/1#v27)**  *[[22:59](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=1379s)]*
 
-> <sup>[27](/bible/philippians/1#v27)</sup> Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
->
-> <sup>[28](/bible/philippians/1#v28)</sup> And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
->
-> <sup>[29](/bible/philippians/1#v29)</sup> For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
->
-> <sup>[30](/bible/philippians/1#v30)</sup> Having the same conflict which ye saw in me, and now hear to be in me.
-
 - Just showing you the afflictions that they was going through during that time period.
 
+> <sup>[27](/bible/philippians/1#v27)</sup> Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
+
 - That whether I come and see you, or else be absent, I may hear of your affairs: So, he said listen, whether I be absent or I'll be in your presence, I want to hear good things. To hear good accounts of you brothers that are in Philippi.
+
+> <sup>[28](/bible/philippians/1#v28)</sup> And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
 
 - In nothing terrified by your adversaries: They was in great affliction. And in nothing don't be terrified by your adversaries. What's going on around you. Be in one mind. Exhort one another. Strive together in that one faith of the gospel.
 
@@ -186,6 +182,8 @@ Reading from On-screen text on the naming of Philippi  *[[13:19](https://www.you
 - So, this is an evident token of their perdition. And this is why they got us number three right here on the hate group list. Why? We ain't murdered no. How are we on the list with the Proud Boys? How are we on the list with the Nation of Islam? You understand? The Patriot Front. How are we on the list with these guys? And then rape, rob, and murder. Why? Because this is an evident token of their perdition.
 
 - But to you of salvation: To us it's salvation because we see more and more spirits starting to convert their minds back to Christ. You understand? And what is Christ looking for? The 144,000 to be sealed in their minds. So, this is that token of salvation to us.
+
+> <sup>[29](/bible/philippians/1#v29)</sup> For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
 
 - Not only to believe on him, but also to suffer for his sake: Also to suffer for his sake. So, not only do you have to believe, we got to understand it's going to be persecution. It's going to be suffering. You understand?
 
@@ -197,14 +195,16 @@ Reading from On-screen text on the naming of Philippi  *[[13:19](https://www.you
 
     Somebody tell the Christians that, man. Somebody tell these black Christians that. Or just any Christian for that sense. Everybody that lives in Christ, who believes in Christ. If you want to live godly in Christ you going to suffer persecution. Won't you ask the Chicago Bulls player about trying to be godly, standing up and speaking up against the LGBT community. You understand? You want to live godly? You want to be right? You want to speak up against what's evil? You going to get persecuted. They waived this brother. Waived him for saying, listen, man, this is against the Bible. Now, we understand that the brother probably got a little residue of Christianity on his mind. But what he's saying is right. When you go into the Bible two men cannot get married. Two women cannot get married. There's no such thing as same-sex marriages. That's against the Bible. And this society pushes that. So, if you want to speak up against society, that's what's going to happen to you. You're not going to be able to function in society. Period.
 
+> <sup>[30](/bible/philippians/1#v30)</sup> Having the same conflict which ye saw in me, and now hear to be in me.
+
 
 **[2 Corinthians 8:2-3](/bible/2-corinthians/8#v2)**  *[[28:03](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=1683s)]*
 
 > <sup>[2](/bible/2-corinthians/8#v2)</sup> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
->
-> <sup>[3](/bible/2-corinthians/8#v3)</sup> For to their power, I bear record, yea, and beyond their power they were willing of themselves;
 
 - Abounded unto the riches of their liberality: Of their liberality. He said listen, I want you to take witness of this. Take witness to this. Liberality.
+
+> <sup>[3](/bible/2-corinthians/8#v3)</sup> For to their power, I bear record, yea, and beyond their power they were willing of themselves;
 
 
 <div class="reading">
@@ -221,8 +221,6 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 **[2 Corinthians 8:3-4](/bible/2-corinthians/8#v3)**  *[[29:58](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=1798s)]*
 
 > <sup>[3](/bible/2-corinthians/8#v3)</sup> For to their power, I bear record, yea, and beyond their power they were willing of themselves;
->
-> <sup>[4](/bible/2-corinthians/8#v4)</sup> Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
 
 - For to their power, I bear record: For to their power, I bear record.
 
@@ -233,6 +231,8 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 - For to their power, I bear record: I bear record. I can speak on it because I know it.
 
 - Yea, and beyond their power they were willing of themselves: Beyond their power. You understand? They was willing of themselves to work together, to look on the things of brothers that without. Take care of them. Not just on themselves.
+
+> <sup>[4](/bible/2-corinthians/8#v4)</sup> Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
 
 - Praying us with much intreaty: So, they was always entreating us.
 
@@ -254,20 +254,18 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 **[Romans 15:24-28](/bible/romans/15#v24)**  *[[32:03](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=1923s)]*
 
 > <sup>[24](/bible/romans/15#v24)</sup> Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company.
->
+
+- For I trust to see you in my journey: He said, 'I want to see you in my journeys.'
+
 > <sup>[25](/bible/romans/15#v25)</sup> But now I go unto Jerusalem to minister unto the saints.
 >
 > <sup>[26](/bible/romans/15#v26)</sup> For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.
->
-> <sup>[27](/bible/romans/15#v27)</sup> It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things.
->
-> <sup>[28](/bible/romans/15#v28)</sup> When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.
-
-- For I trust to see you in my journey: He said, 'I want to see you in my journeys.'
 
 - For it hath pleased them of Macedonia: Yeah, pleased them of who? Of where? Of Macedonia.
 
 - To make a certain contribution for the poor saints: So, they just wasn't worried about just their church, their individual house. They was always worried about the brotherhood, the overall church, these different churches. They understood Paul's moving about, setting up these different churches in all these different lands. And they need help. He said, 'Listen, they made a little contribution to the saints that were in Jerusalem.' Understanding that they needed help in aid as well. That's the mind that you got to have.
+
+> <sup>[27](/bible/romans/15#v27)</sup> It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things.
 
 - It hath pleased them verily: It said it pleased them verily. They had that willing mind to do that. They was begging Paul, 'Please take these gifts. Please take it.'
 
@@ -276,6 +274,8 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 - If the Gentiles have been made partakers of their spiritual things: If the Gentiles have been made partakers of their spiritual things, the spiritual understanding.
 
 - Their duty is also to minister unto them in carnal things: He said, 'That was their duty.' Their duty was to minister unto them in those carnal things, meaning funds, alms. If you're going to give us the word and you're going about setting up churches, that's the least that we could do is help aid the travel. That's the mindset.
+
+> <sup>[28](/bible/romans/15#v28)</sup> When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.
 
 - And have sealed to them this fruit, I will come by you into Spain: He said he's going to come unto us, to Spain. So, what was the fruit that he wanted to seal?
 
@@ -293,28 +293,16 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 > <sup>[9](/bible/philippians/4#v9)</sup> Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.
 >
 > <sup>[10](/bible/philippians/4#v10)</sup> But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.
->
-> <sup>[11](/bible/philippians/4#v11)</sup> Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
->
-> <sup>[12](/bible/philippians/4#v12)</sup> I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
->
-> <sup>[13](/bible/philippians/4#v13)</sup> I can do all things through Christ which strengtheneth me.
->
-> <sup>[14](/bible/philippians/4#v14)</sup> Notwithstanding ye have well done, that ye did communicate with my affliction.
->
-> <sup>[15](/bible/philippians/4#v15)</sup> Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.
->
-> <sup>[16](/bible/philippians/4#v16)</sup> For even in Thessalonica ye sent once and again unto my necessity.
->
-> <sup>[17](/bible/philippians/4#v17)</sup> Not because I desire a gift: but I desire fruit that may abound to your account.
->
-> <sup>[18](/bible/philippians/4#v18)</sup> But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.
 
 - But ye lacked opportunity: Said you lacked opportunity. They wanted to help him, but they lacked, but why? They didn't have the opportunity, the means to get to him.
+
+> <sup>[11](/bible/philippians/4#v11)</sup> Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
 
 - Not that I speak in respect of want: Said not that I needed anything from you.
 
 - For I have learned, in whatsoever state I am, therewith to be content: That's what Paul learned. He said, 'Listen, it wasn't that I needed anything. These brothers and sisters just wanted to help.' Because why? He had learned through time to be content in whatever state that he was. He's going to explain.
+
+> <sup>[12](/bible/philippians/4#v12)</sup> I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
 
 - I know both how to be abased, and I know how to abound: I know how to be abased. 'Listen, I know how to operate in poverty and I know how to operate when things is going good, going well.' To abase and to abound. To learn to be content. That's the spirit that we got to have as well. It doesn't matter. You understand, what your finances is looking like, bro. You got to learn how to abase. Nobody should be knowing what you're going through. You understand?
 
@@ -324,17 +312,29 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 
 - Every where and in all things: In all things.
 
+> <sup>[13](/bible/philippians/4#v13)</sup> I can do all things through Christ which strengtheneth me.
+
 - I can do all things through Christ which strengtheneth me: You see how they manipulate that scripture, bro? What is he talking about? How to abound, in poverty or when things is going good. But now, hey, you got these pastors, I can do all things through Christ. Okay, well, pay your own damn light bill. You understand? Keep the commandments. Pay your own damn mortgage. If you can do all things through Christ, pastor. You got these guys, man. I'm telling you.
+
+> <sup>[14](/bible/philippians/4#v14)</sup> Notwithstanding ye have well done, that ye did communicate with my affliction.
 
 - Ye have well done, that ye did communicate with my affliction: He said, 'Notwithstanding that you have well done that you might communicate with the afflictions.' That word communicate means to aid. It's to aid, to help out. That's the communication.
 
+> <sup>[15](/bible/philippians/4#v15)</sup> Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.
+
 - No church communicated with me as concerning giving and receiving, but ye only: 'Listen, when I was leaving, when I came the beginning of my gospel, when I departed from Macedonia, no other church was looking out for Paul except for those in Philippi.' Because why? They had that spirit on them. And this is what he's trying to get the Corinthians to understand. Listen, take witness to the spirit that they had on them. They understood that I was moving about and I needed aid as far as receiving and giving. And they did what? With a willing mind. Hey, man, Paul, please take this. I know you don't need it, Paul. You know, sometimes, man, I'm good. I'm good. I know you don't need it, but please take it, Paul. Come on, man. That's the spirit that was with Philippi.
+
+> <sup>[16](/bible/philippians/4#v16)</sup> For even in Thessalonica ye sent once and again unto my necessity.
 
 - For even in Thessalonica ye sent once and again unto my necessity: He said, 'Even when I was in Thessalonica.' So, you can see the distance. You see Philippi right there? You see Ignatian Way? Right there, that highway we was talking about? So, that was one of the main road maps. And Paul said, 'When I was in Thessalonica, you sent aid.' So, this is one of the highways.
 
 - So, that was the road. This was a common route of that time period right there that Paul took a lot of times. Even when I was in Thessalonica. So, they were sending brothers and sisters back down that road right there to Thessalonica. Understanding that what? Paul was in Thessalonica and he needed aid. Whether he needed it or not, we're going to send it because why? We had that willing mind, that willing spirit. You see that? All praises, man. All praises for them spirits. We got to all build ourselves up to that spirit.
 
+> <sup>[17](/bible/philippians/4#v17)</sup> Not because I desire a gift: but I desire fruit that may abound to your account.
+
 - Not because I desire a gift: but I desire fruit that may abound to your account: I'm going into what? That seal of that Holy Spirit. He said, 'I didn't desire a gift, but I desired that fruit. I wanted the body to grow.' That's why leadership is always saying, 'Listen, when leadership come into town it ain't about the gifts. It ain't about the gifts.' Okay, y'all brothers want to show their hospitality, sisters want to show their hospitality. But what you want is a sinless church. You understand? You want a whole body that has that spirit upon them, that willing spirit upon them. That's what you want. That's what Paul was looking for.
+
+> <sup>[18](/bible/philippians/4#v18)</sup> But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.
 
 - Having received of Epaphroditus the things which were sent from you: Yeah, the things which were sent from you.
 
@@ -385,10 +385,10 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 **[2 Corinthians 8:5-6](/bible/2-corinthians/8#v5)**  *[[49:01](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=2941s)]*
 
 > <sup>[5](/bible/2-corinthians/8#v5)</sup> And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.
->
-> <sup>[6](/bible/2-corinthians/8#v6)</sup> Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.
 
 - Not as we hoped: Not as we hoped.
+
+> <sup>[6](/bible/2-corinthians/8#v6)</sup> Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.
 
 - Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also: You see that? He said, 'Listen, so they sent up Titus.' They always was sending Titus to check on those in Corinth. Because he wanted Titus to bring forth that same fruit, which is what? The seal of the Holy Ghost.
 
@@ -414,12 +414,12 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 > <sup>[6](/bible/2-corinthians/8#v6)</sup> Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.
 >
 > <sup>[7](/bible/2-corinthians/8#v7)</sup> Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also.
->
-> <sup>[8](/bible/2-corinthians/8#v8)</sup> I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.
 
 - And in all diligence: All diligence.
 
 - See that ye abound in this grace also: See that you follow that example. See that you follow that example. It goes back to verse 1. Take witness to the grace that was given to them. Cuz Titus is coming unto you. So as you abound, as he's strengthening you and sealing you with that fruit, listen, follow the example of those in Macedonia that got that good spirit on them, that was always willing to help.
+
+> <sup>[8](/bible/2-corinthians/8#v8)</sup> I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.
 
 - I speak not by commandment: Not by commandment.
 
@@ -439,10 +439,10 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 **[2 Corinthians 8:8-9](/bible/2-corinthians/8#v8)**  *[[56:28](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=3388s)]*
 
 > <sup>[8](/bible/2-corinthians/8#v8)</sup> I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.
->
-> <sup>[9](/bible/2-corinthians/8#v9)</sup> For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
 
 - To prove the sincerity of your love: To prove the sincerity of your love. I got to make sure that you in this for the right reasons.
+
+> <sup>[9](/bible/2-corinthians/8#v9)</sup> For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
 
 - That, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich: He giving another example. He said, 'Just look at Christ. Look at why you say that you here.' He said, 'Though he was rich, for your sakes he became poor. Through poverty that ye might be rich.' What does he mean he was rich? Why is he rich?
 
@@ -480,8 +480,6 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 **[2 Corinthians 8:9-10](/bible/2-corinthians/8#v9)**  *[[1:00:50](https://www.youtube.com/watch?v=24Ri6zItP2Y&t=3650s)]*
 
 > <sup>[9](/bible/2-corinthians/8#v9)</sup> For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
->
-> <sup>[10](/bible/2-corinthians/8#v10)</sup> And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.
 
 - For ye know the grace of our Lord Jesus Christ: You know the understanding of Christ, the grace of Christ that was bestowed on him.
 
@@ -492,6 +490,8 @@ Reading from On-screen definition of liberality  *[[29:15](https://www.youtube.c
 - That ye through his poverty might be rich: And you know what else he did? Not only he was the creator of all things, he came down and was tempted at all points.
 
 - That ye through his poverty: Through his humbleness. Might be rich: That we might become rich. Remember in Revelations says, 'I know your works, tribulations, poverty, but thou art what? Rich.' Because why? This earth, everything was created for us. For our sakes. But what had to happen? Christ had to come die for us to have a chance. So us understanding that, he's telling them, 'Look at the examples. Look at the examples of this church and how they was rolling. Follow that example. Follow Christ's example, how he humbled himself for the benefit of all.'
+
+> <sup>[10](/bible/2-corinthians/8#v10)</sup> And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.
 
 - And herein I give my advice: for this is expedient for you, who have begun before: Who have begun before? You had that spirit before. I'm going to give my advice. This is expedient. Keep that spirit that you had before. Remember what Titus said? Listen, they got a mind towards you. So keep that spirit. You did this before.
 

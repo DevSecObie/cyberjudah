@@ -121,25 +121,25 @@ tags: ["IUIC in the ClassRoom", "captivity", "edom-esau", "europe-dark-ages", "f
 
 **[Job 30:1-6](/bible/job/30#v1)**  *[[25:07](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=1507s)]*
 
+- This is how Esau lived during the dark ages. They that are younger than I are the nations, and they have us in derision because we would fall.
+
 > <sup>[1](/bible/job/30#v1)</sup> But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
 >
 > <sup>[2](/bible/job/30#v2)</sup> Yea, whereto might the strength of their hands profit me, in whom old age was perished?
 >
 > <sup>[3](/bible/job/30#v3)</sup> For want and famine they were solitary; fleeing into the wilderness in former time desolate and waste.
->
-> <sup>[4](/bible/job/30#v4)</sup> Who cut up mallows by the bushes, and juniper roots for their meat.
->
-> <sup>[5](/bible/job/30#v5)</sup> They were driven forth from among men, (they cried after them as after a thief;)
->
-> <sup>[6](/bible/job/30#v6)</sup> To dwell in the clifts of the valleys, in caves of the earth, and in the rocks.
-
-- This is how Esau lived during the dark ages. They that are younger than I are the nations, and they have us in derision because we would fall.
 
 - For want and famine they were solitary, fleeing into the wilderness: Job 30 is going to them as cavemen.
 
 - They were driven forth from among men, meaning we sent them into the wilderness, to dwell in the cliffs of the valleys and in caves of the earth.
 
 - This is your caveman, this is their history. That's why Job said, and now I am become their song.
+
+> <sup>[4](/bible/job/30#v4)</sup> Who cut up mallows by the bushes, and juniper roots for their meat.
+>
+> <sup>[5](/bible/job/30#v5)</sup> They were driven forth from among men, (they cried after them as after a thief;)
+>
+> <sup>[6](/bible/job/30#v6)</sup> To dwell in the clifts of the valleys, in caves of the earth, and in the rocks.
 
 
 <div class="reading">
@@ -725,16 +725,6 @@ Reading from *America, Being the Latest and Most Accurate Description of the New
 > <sup>[9](/bible/revelation/13#v9)</sup> If any man have an ear, let him hear.
 >
 > <sup>[10](/bible/revelation/13#v10)</sup> He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
->
-> <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
->
-> <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
->
-> <sup>[13](/bible/revelation/13#v13)</sup> And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
->
-> <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
->
-> <sup>[15](/bible/revelation/13#v15)</sup> And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
 
 - He that leadeth into captivity shall go into captivity: the white man led us into slavery. He that killeth with the sword must be killed with the sword. God says he will do that, not us. That's their judgment.
 
@@ -745,6 +735,16 @@ Reading from *America, Being the Latest and Most Accurate Description of the New
 - Fire come down from heaven in the sight of men: 1945, the dropping of the atom bomb. All the nations stepped back when America dropped that bomb.
 
 - Then John goes back into history to the image of the beast. He gave life to the image: in the movies like Passion of the Christ we see that image speak, and the northern kingdom bows down and worships it.
+
+> <sup>[11](/bible/revelation/13#v11)</sup> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
+>
+> <sup>[12](/bible/revelation/13#v12)</sup> And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
+>
+> <sup>[13](/bible/revelation/13#v13)</sup> And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
+>
+> <sup>[14](/bible/revelation/13#v14)</sup> And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
+>
+> <sup>[15](/bible/revelation/13#v15)</sup> And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
 
 - As many as would not worship the image of the beast should be killed: if you didn't worship this image, they killed you. This is history.
 
@@ -838,10 +838,16 @@ Reading from *America, Being the Latest and Most Accurate Description of the New
 
 **[Isaiah 13:1-17](/bible/isaiah/13#v1)**  *[[2:21:24](https://www.youtube.com/watch?v=qD75Jw_f-NU&t=8484s)]*
 
+- The banner upon the high mountain is the Bible. Exalt the voice: don't speak soft. Shake the hand: correct them.
+
 > <sup>[1](/bible/isaiah/13#v1)</sup> The burden of Babylon, which Isaiah the son of Amoz did see.
 >
 > <sup>[2](/bible/isaiah/13#v2)</sup> Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles.
->
+
+- That they may go into the gates of the nobles: our teaching has to get on their nerves so bad they say, we need to get rid of IUIC.
+
+- The sanctified ones are us; the mighty ones are the holy angels. It's not us who fight: the Lord of hosts musters the battle and provokes the nations from the eastern hemisphere to war, with the weapons of his indignation, thermonuclear missiles, to destroy the whole land, America.
+
 > <sup>[3](/bible/isaiah/13#v3)</sup> I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness.
 >
 > <sup>[4](/bible/isaiah/13#v4)</sup> The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle.
@@ -849,7 +855,9 @@ Reading from *America, Being the Latest and Most Accurate Description of the New
 > <sup>[5](/bible/isaiah/13#v5)</sup> They come from a far country, from the end of heaven, even the Lord, and the weapons of his indignation, to destroy the whole land.
 >
 > <sup>[6](/bible/isaiah/13#v6)</sup> Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.
->
+
+- Howl ye: when you read the Bible, put yourself in the words. Hands faint and hearts melt because of the bombs; pain as a woman in travail.
+
 > <sup>[7](/bible/isaiah/13#v7)</sup> Therefore shall all hands be faint, and every man’s heart shall melt:
 >
 > <sup>[8](/bible/isaiah/13#v8)</sup> And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces shall be as flames.
@@ -861,24 +869,6 @@ Reading from *America, Being the Latest and Most Accurate Description of the New
 > <sup>[11](/bible/isaiah/13#v11)</sup> And I will punish the world for their evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
 >
 > <sup>[12](/bible/isaiah/13#v12)</sup> I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
->
-> <sup>[13](/bible/isaiah/13#v13)</sup> Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of hosts, and in the day of his fierce anger.
->
-> <sup>[14](/bible/isaiah/13#v14)</sup> And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
->
-> <sup>[15](/bible/isaiah/13#v15)</sup> Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
->
-> <sup>[16](/bible/isaiah/13#v16)</sup> Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
->
-> <sup>[17](/bible/isaiah/13#v17)</sup> Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.
-
-- The banner upon the high mountain is the Bible. Exalt the voice: don't speak soft. Shake the hand: correct them.
-
-- That they may go into the gates of the nobles: our teaching has to get on their nerves so bad they say, we need to get rid of IUIC.
-
-- The sanctified ones are us; the mighty ones are the holy angels. It's not us who fight: the Lord of hosts musters the battle and provokes the nations from the eastern hemisphere to war, with the weapons of his indignation, thermonuclear missiles, to destroy the whole land, America.
-
-- Howl ye: when you read the Bible, put yourself in the words. Hands faint and hearts melt because of the bombs; pain as a woman in travail.
 
 - I will make a man more precious than fine gold: there's nobody like the black and Latino man; we are the precious sons of Zion.
 
@@ -891,6 +881,16 @@ Reading from *America, Being the Latest and Most Accurate Description of the New
     > <sup>[7](/bible/isaiah/62#v7)</sup> And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.
 
     A watchman's job is to warn and to watch; keep not silent until the Lord make Jerusalem a praise. We want to go home, but we still got sin in us and many brothers yet to repent.
+
+> <sup>[13](/bible/isaiah/13#v13)</sup> Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the Lord of hosts, and in the day of his fierce anger.
+>
+> <sup>[14](/bible/isaiah/13#v14)</sup> And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
+>
+> <sup>[15](/bible/isaiah/13#v15)</sup> Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.
+>
+> <sup>[16](/bible/isaiah/13#v16)</sup> Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
+>
+> <sup>[17](/bible/isaiah/13#v17)</sup> Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.
 
 
 ## Class Questions

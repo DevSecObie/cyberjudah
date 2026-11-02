@@ -129,10 +129,6 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
 **[Exodus 15:1-3](/bible/exodus/15#v1)**  *[[51:30](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3090s)]*
 
 > <sup>[1](/bible/exodus/15#v1)</sup> Then sang Moses and the children of Israel this song unto the Lord, and spake, saying, I will sing unto the Lord, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.
->
-> <sup>[2](/bible/exodus/15#v2)</sup> The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.
->
-> <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
 
 - Then sang Moses and the children of Israel: the horse and his rider hath he thrown into the sea. Israel sang gloriously about the destruction of the Egyptian army that chased them. God the Father and God the Son love war; when we were in our righteousness, God fought for us and we destroyed nations.
 
@@ -153,6 +149,10 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
     > <sup>[5](/bible/proverbs/3#v5)</sup> Trust in the Lord with all thine heart; and lean not unto thine own understanding.
 
     My son, forget not my law, but let thine heart keep my commandments; the heart is the mind, and the laws are the commandments. Length of days, long life, and peace shall they add to thee: despite wars and mayhem, you want peace, do what he said. Trust in the Lord with all thine heart and lean not unto thine own understanding: trust that the prophecies go in order, Iran will not bring in World War III but will help unite the Arabs. The understanding is not I am already saved; it is he that endureth to the end shall be saved, and he shall direct thy paths.
+
+> <sup>[2](/bible/exodus/15#v2)</sup> The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.
+>
+> <sup>[3](/bible/exodus/15#v3)</sup> The Lord is a man of war: the Lord is his name.
 
 
 **[Revelation 19:12-13](/bible/revelation/19#v12)**  *[[57:28](https://www.youtube.com/watch?v=CC4-qipCtzY&t=3448s)]*
@@ -234,19 +234,19 @@ tags: ["IUIC in the ClassRoom", "health", "islam-arabs", "nations", "sabbath", "
 
 **[Jeremiah 50:44-46](/bible/jeremiah/50#v44)**  *[[1:26:21](https://www.youtube.com/watch?v=CC4-qipCtzY&t=5181s)]*
 
-> <sup>[44](/bible/jeremiah/50#v44)</sup> Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
->
-> <sup>[45](/bible/jeremiah/50#v45)</sup> Therefore hear ye the counsel of the Lord, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make their habitation desolate with them.
->
-> <sup>[46](/bible/jeremiah/50#v46)</sup> At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.
-
 - Hear ye the counsel of the Lord that he hath taken against Babylon, and his purposes against the land of the Chaldeans. The counsel that stands, Isaiah 46:10, is against the same Babylon the Great John saw, not the Babylon of Jeremiah's day.
 
 - Surely the least of the flock shall draw them out. Babylon the Great today is Esau: Germany and the United States are part of the flock, and Israel is the least of it. Netanyahu has been naming the countries the US should fight since the nineties, and that is how twenty-seven bases ended up across the Persian Gulf.
 
+> <sup>[44](/bible/jeremiah/50#v44)</sup> Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
+>
+> <sup>[45](/bible/jeremiah/50#v45)</sup> Therefore hear ye the counsel of the Lord, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make their habitation desolate with them.
+
 - Surely he shall make their habitation desolate with them: both of them are going to be destroyed. At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations. The noise is the missiles. Nobody in ancient Babylon could move the earth with a rock in a sling; today they possess weapons that move the earth.
 
 - Netanyahu is not being comical about Venezuela and Greenland; the least of the flock is literally drawing the US out to do its bidding, and that is the counsel of the Lord. Pharaoh's men surely told him to let Israel go in peace after the plagues, and the order at the Red Sea was still charge on. Donald Trump is not led by himself.
+
+> <sup>[46](/bible/jeremiah/50#v46)</sup> At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.
 
 
 *[[1:32:19](https://www.youtube.com/watch?v=CC4-qipCtzY&t=5539s)]* **In The News: A much younger Benjamin Netanyahu addressing US diplomats.** — He guaranteed that taking out Saddam's regime would have enormous positive reverberations, named Libya as a third nation, and said he would like to see regime change in Iran. Saddam was removed and terror did not stop; Gaddafi, who gave his people free schooling and health care, was removed. The least of the flock draws Babylon out to fight its wars, and that is prophecy.

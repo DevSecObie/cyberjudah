@@ -40,24 +40,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 
 **[Wisdom of Solomon 7:22-23](/bible/wisdom-of-solomon/7#v22)**  *[[3:34](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=214s)]*
 
-> <sup>[22](/bible/wisdom-of-solomon/7#v22)</sup> For wisdom, which is the worker of all things, taught me: for in her is an understanding spirit, holy, one only, manifold, subtil, lively, clear, undefiled, plain, not subject to hurt, loving the thing that is good, quick, which cannot be letted, ready to do good,
->
-> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, stedfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
-
 - Clear: What's that word? Clear. The word when a real teacher that's got the wisdom of God like the bishops, the deacons, these men that have came before us, when they break the scriptures down, it's clear. By the time you get done, you're like, "That's plain. I understand it." Because that's what the wisdom of God will do. That's what the precepts does. That's what the understanding does. And it all comes from applying God's laws and knowing you an Israelite and keeping the commandments. That's it. When you do that, you're able to express the wisdom of God clearly. It's clear.
+
+> <sup>[22](/bible/wisdom-of-solomon/7#v22)</sup> For wisdom, which is the worker of all things, taught me: for in her is an understanding spirit, holy, one only, manifold, subtil, lively, clear, undefiled, plain, not subject to hurt, loving the thing that is good, quick, which cannot be letted, ready to do good,
 
 - Undefiled, plain: See that? Plain. It's plain. That's plain as day. All right, I see it now.
 
 - Ready to do good: Right? So, I just wanted to show you that when a man of God goes into the scriptures to give you the sense, they supposed to give you the understanding. It's supposed to be clear to you at the end of the day.
 
+> <sup>[23](/bible/wisdom-of-solomon/7#v23)</sup> Kind to man, stedfast, sure, free from care, having all power, overseeing all things, and going through all understanding, pure, and most subtil, spirits.
+
 
 **[2 Peter 3:15-16](/bible/2-peter/3#v15)**  *[[5:06](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=306s)]*
 
 > <sup>[15](/bible/2-peter/3#v15)</sup> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
->
-> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 - Even as our beloved brother Paul also according to the wisdom given unto him hath written unto you: All right. So, let's go to the book of Colossians. Well before we get to collision, let's go to second Peter because now we embarking back in Paul's writings like we've done time and time again, time and time before. But now we want to just make sure that you get clarity, you get understanding. And the only way to do that is to understand the difficulty of Paul's writings. The Apostle Peter spoke about it.
+
+> <sup>[16](/bible/2-peter/3#v16)</sup> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
 - As also in all his epistles: All Paul's epistles.
 
@@ -100,10 +100,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Psalms 149:1-2](/bible/psalms/149#v1)**  *[[11:48](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=708s)]*
 
 > <sup>[1](/bible/psalms/149#v1)</sup> Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.
->
-> <sup>[2](/bible/psalms/149#v2)</sup> Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
 
 - In the congregation of saints: You know why there's no other nation that can be a saint? Watch this. I'm going to show you that no other nation can be a saint. In the congregation of saints.
+
+> <sup>[2](/bible/psalms/149#v2)</sup> Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
 
 - Let Israel rejoice in him that made him: Who? Let Israel rejoice. So, who is those saints that's going to praise him in the congregation? That's the Israelites.
 
@@ -115,20 +115,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 > <sup>[5](/bible/psalms/149#v5)</sup> Let the saints be joyful in glory: let them sing aloud upon their beds.
 >
 > <sup>[6](/bible/psalms/149#v6)</sup> Let the high praises of God be in their mouth, and a twoedged sword in their hand;
->
-> <sup>[7](/bible/psalms/149#v7)</sup> To execute vengeance upon the heathen, and punishments upon the people;
->
-> <sup>[8](/bible/psalms/149#v8)</sup> To bind their kings with chains, and their nobles with fetters of iron;
->
-> <sup>[9](/bible/psalms/149#v9)</sup> To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.
 
 - And a twoedged sword in their hand: Who is the there? The there is the saints. Let a two-edged sword be in their hands. The saints to do what?
+
+> <sup>[7](/bible/psalms/149#v7)</sup> To execute vengeance upon the heathen, and punishments upon the people;
 
 - To execute vengeance upon the heathen: Boom. The saints are going to sing loud upon their beds and be given power to execute vengeance against the heathen. Who is the heathen? That's the other nations. That's clear. The word heathen translate into nations, translates into Gentiles, strangers, foreigners. It's all the same thing. So those heathen that the saints are going to execute judgment and vengeance on are the other nations. So who are the saints? It's the children of Israel. It's very clear. There is no other nation can be the same. So you Edomite and you say, "Okay, I accept Christ. I keep the commandments." So you going to execute judgment against your mama? You going to execute judgment against your uncle? It ain't them. That don't make no sense. No, you're a heathen, too. And the saints, which are the Israelites, are going to execute judgment and punishments against you. That's what the Bible's saying. So anybody that say, "Oh, yeah. Well, y'all misinterpreting that, you know, anybody can be a saint." Not according to Psalms chapter 5 149 verse 5 and 6 and 7.
 
 - And punishments upon the people: So the saints going to execute vengeance upon the heathen. Ah, there you go. Punishments upon the people.
 
+> <sup>[8](/bible/psalms/149#v8)</sup> To bind their kings with chains, and their nobles with fetters of iron;
+
 - To bind their kings with chains, and their nobles with fetters of iron: That going to put chains on their kings. And put feathers of iron on their nobles.
+
+> <sup>[9](/bible/psalms/149#v9)</sup> To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.
 
 - This honour have all his saints: You see that? It say this honor have all his saints. This honor have all his saints. The saints have the honor of executing punishments and judgment on the heathen and binding their kings and nobles with chains and feathers of iron. So all nations cannot be a saint. You understand? So man, listen, go back to collage. Man, I don't understand Christians, man. I know it's a delusion. I know somehow people going to wake up out of it. But I pray they do cuz man, to die in this life loving white folks and after all the evil they did to you, and Arabs and all these nations, then the Christ wake you up and tell you, "Hey, yeah, you love them nations. You keep the commandments of them nations, but you ain't keep my commandments. You going to die again." Like you going to get woke up on judgment day just to be told that you was wrong and get thrown in the lake of fire. It just don't make sense to me. It's baffling to me with all this information. We in the information age. You got a supercomput in your hand called a cell phone and black folks still talking about Jesus color don't matter. This is crazy. This is crazy. I just pray they wake up, man. For real.
 
@@ -138,12 +138,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 > <sup>[1](/bible/colossians/1#v1)</sup> Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 >
 > <sup>[2](/bible/colossians/1#v2)</sup> To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
->
+
+- To the saints and faithful brethren in Christ which are at Colosse: Right? So the Colossians were Israelites. The Colossians were Israelites.
+
 > <sup>[3](/bible/colossians/1#v3)</sup> We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
 >
 > <sup>[4](/bible/colossians/1#v4)</sup> Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints,
-
-- To the saints and faithful brethren in Christ which are at Colosse: Right? So the Colossians were Israelites. The Colossians were Israelites.
 
 - Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints: Right? So the church in Colosse, these brothers and sisters had a lot of faith toward Christ and they were very merciful. All right? They were very charitable. A lot of the churches were not charitable. So when Paul heard that these men and women had charity, he's making it known unto them in his letter like, "Hey, look, I hear what you guys are doing. I heard of your great faith. I heard of your great charity."
 
@@ -151,14 +151,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[2 Corinthians 11:7-9](/bible/2-corinthians/11#v7)**  *[[16:52](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=1012s)]*
 
 > <sup>[7](/bible/2-corinthians/11#v7)</sup> Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?
->
-> <sup>[8](/bible/2-corinthians/11#v8)</sup> I robbed other churches, taking wages of them, to do you service.
->
-> <sup>[9](/bible/2-corinthians/11#v9)</sup> And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.
 
 - Have I committed an offence in abasing myself that ye might be exalted: Let me show you something. Right? Because the apostle Paul would travel to these places on his own dime. A lot of times they would not help the brother. Now remember he committed his entire life. He left being a Pharisee and being the upper echelon of that particular movement and or sect and now he's abased himself for Christ. He said I count all that as dung, the fame, the notoriety, everything that came with being a Pharisee. He let that go. So now Paul is a tent maker finding odd jobs as he's traveling for years upon years to go to these various places. So now the church in Corinth, they started to look down on him like, yo, so this dude right here, he's poor, he don't have no money, like he always need help. They look down on the brother. He's like, you going to look down on me because I have abase myself by teaching you the word of God freely? I ain't charging you for it. The Corinthians was messed up in the head, by the way.
 
+> <sup>[8](/bible/2-corinthians/11#v8)</sup> I robbed other churches, taking wages of them, to do you service.
+
 - I robbed other churches, taking wages of them, to do you service: You hear that? He said I had to rob other churches, is taking waiters of them to do you service. He said, "But when y'all didn't have the money, I borrowed money from the other churches to help y'all." But now y'all won't even help me. So the Colossians weren't like that. Those brothers and sisters were very charitable. So he's giving them exhortation for their charity. And this is why you got to know, you got to read Paul's letters and you got to read the book of Acts, okay? Because when you read the book of Acts and when you read Paul's letters, you can make a connection to a lot of the struggles and things that he was dealing with. You understand? Every time you read the letters of Paul, you go back and read Acts. You say, "Man, I ain't noticed that last time." Damn. So that's why he wrote that in Colossians. Oh, that's why he wrote that in Philippians and Ephesians and so on and so forth.
+
+> <sup>[9](/bible/2-corinthians/11#v9)</sup> And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.
 
 - And in all things I have kept myself from being burdensome unto you: I don't need y'all help. It is what it is. The brothers in Macedonia looked out for me. You know, I robbed other churches to help y'all. Obviously, y'all ain't grown in the spirit yet. Y'all don't know how to treat a prophet. Y'all don't know how to treat a man of God. So, it is what it is. I teach the word of God to y'all freely. I still do the work. And I'll shout out these other churches that was actually, you know, benefiting myself and the other apostles that came with me.
 
@@ -210,16 +210,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Wisdom of Solomon 3:4-7](/bible/wisdom-of-solomon/3#v4)**  *[[24:23](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=1463s)]*
 
 > <sup>[4](/bible/wisdom-of-solomon/3#v4)</sup> For though they be punished in the sight of men, yet is their hope full of immortality.
->
-> <sup>[5](/bible/wisdom-of-solomon/3#v5)</sup> And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself.
->
-> <sup>[6](/bible/wisdom-of-solomon/3#v6)</sup> As gold in the furnace hath he tried them, and received them as a burnt offering.
->
-> <sup>[7](/bible/wisdom-of-solomon/3#v7)</sup> And in the time of their visitation they shall shine, and run to and fro like sparks among the stubble.
 
 - Yet is their hope full of immortality: You hear that? Our hope is full of immortality.
 
+> <sup>[5](/bible/wisdom-of-solomon/3#v5)</sup> And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself.
+>
+> <sup>[6](/bible/wisdom-of-solomon/3#v6)</sup> As gold in the furnace hath he tried them, and received them as a burnt offering.
+
 - And received them as a burnt offering: Receive them as a burnt offering.
+
+> <sup>[7](/bible/wisdom-of-solomon/3#v7)</sup> And in the time of their visitation they shall shine, and run to and fro like sparks among the stubble.
 
 - And in the time of their visitation they shall shine: You hear that? So the scripture talk about us being sacrificed. The Lord using his servants, his prophets and so on and so forth as a sacrifice, as a sweet savor unto him. Yeah. Just like he did with Christ. Christ was a sweet saver unto him. He was unblenmished, committed no sin. He was used as a sacrifice for the nation of Israel. And the Lord loved that thing. Well, guess what? The Lord going to do the same thing with us. When we reach our level of perfection in God's eyes, when we reach that level of keeping the commandments and he finds it fit to have us martyed, or have us taken from this world, he'll do it. He'll receive us as a sacrifice. I went over that in the class yesterday that I taught, going to come out later. But when you read about that in Isaiah 19 with that altar being the land of Egypt, that's going into Israelites being martyed in Babylon the great. But that's another topic. But I wanted to show you that the hope of the Israelites is in immortality. We want to be immortal. That's why our hope is in heaven. That's what we was reading in Colossians 1.
 
@@ -227,10 +227,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Colossians 1:5-6](/bible/colossians/1#v5)**  *[[25:50](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=1550s)]*
 
 > <sup>[5](/bible/colossians/1#v5)</sup> For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;
->
-> <sup>[6](/bible/colossians/1#v6)</sup> Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:
 
 - For the hope which is laid up for you in heaven: Right? That hope is immortality.
+
+> <sup>[6](/bible/colossians/1#v6)</sup> Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:
 
 - And bringeth forth fruit, as it doth also in you: Right? So they believed and instantly started to bring forth fruit. Okay, that's what it's telling you about the church of Colosse. Paul is exhorting the church of Colosse and the people of Colosse. He's showing them, listen, which has come unto you as it is in all the world, meaning the other Israelites scattered throughout the world, and bring forth fruit as it doth also in you since the day you heard of it and knew the grace of God in truth.
 
@@ -255,10 +255,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[John 15:3-4](/bible/john/15#v3)**  *[[28:52](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=1732s)]*
 
 > <sup>[3](/bible/john/15#v3)</sup> Now ye are clean through the word which I have spoken unto you.
->
-> <sup>[4](/bible/john/15#v4)</sup> Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
 
 - Now ye are clean through the word which I have spoken unto you: Now watch this. I was just going over it today. It's crazy. I was just going over this yesterday. Let me show you something.
+
+> <sup>[4](/bible/john/15#v4)</sup> Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
 
 - As the branch cannot bear fruit of itself, except it abide in the vine: Right? You can't bring forth fruit without abiding in Christ. Those brothers and sisters that you see following some of these negroes out here. That's not Christ drawing them to those men. That's those lust that's within them drawing them to those men. I'll give you an example. You see some brothers that say certain things like you can have multiple wives. That ain't in the Bible. In the New Testament, it clearly says one wife, a husband of one wife. Christ said, "They twain shall be one flesh." A brother go back and read some about King David. Meanwhile, this dude working at a fast food restaurant, he ain't saved the nation of Israel out of the hands of their enemies. King David was saving the Israelites out of the hand of the Philistines, the Moabites, the …, the Ammonites. This dude was a real warrior. He was a real king. You understand what I'm saying? He had wealth, fame, notoriety. He ruled the nation greatly. You understand? And you'll say, "Well, he had multip- so I can have it." You crazy. You just learned you was an Israelite two years ago. And you talking about polygyny or polygamy? Come on, man. Stop the cap. You're not King David.
 
@@ -272,16 +272,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[John 14:15-17](/bible/john/14#v15)**  *[[33:03](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=1983s)]*
 
 > <sup>[15](/bible/john/14#v15)</sup> If ye love me, keep my commandments.
->
-> <sup>[16](/bible/john/14#v16)</sup> And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
->
-> <sup>[17](/bible/john/14#v17)</sup> Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
 
 - If ye love me, keep my commandments: This is what the Colossians were doing and that's why they were able to bring forth fruit. Watch this. You love me, keep my commandments.
+
+> <sup>[16](/bible/john/14#v16)</sup> And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
 
 - And he shall give you another Comforter: He gonna give you another comforter.
 
 - That he may abide with you for ever: You hear that? And that comforter will what? What's that word? That comforter will abide with you forever.
+
+> <sup>[17](/bible/john/14#v17)</sup> Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
 
 - Even the Spirit of truth: And that comforter is the spirit of truth.
 
@@ -300,41 +300,41 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 > <sup>[6](/bible/colossians/1#v6)</sup> Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:
 >
 > <sup>[7](/bible/colossians/1#v7)</sup> As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
->
-> <sup>[8](/bible/colossians/1#v8)</sup> Who also declared unto us your love in the Spirit.
->
-> <sup>[9](/bible/colossians/1#v9)</sup> For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
->
-> <sup>[10](/bible/colossians/1#v10)</sup> That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
 
 - As ye also learned of Epaphras our dear fellowservant: Learned of Epaphras, our dear fellow servant.
 
 - Who is for you a faithful minister of Christ: So the brother Epaphras was a great faithful minister and servant that taught the brothers and sister at Colosse.
 
+> <sup>[8](/bible/colossians/1#v8)</sup> Who also declared unto us your love in the Spirit.
+
 - Who also declared unto us your love in the Spirit: When he came back, the brother Epaphras, he came back and he told them of the love and the spirit that the brothers and sisters in Colosse were rolling in.
 
+> <sup>[9](/bible/colossians/1#v9)</sup> For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
+
 - For this cause we also, since the day we heard it, do not cease to pray for you: Right? It says, so Paul said, for this cause, he told us that y'all had great love in the spirit. Y'all showed, you know, great faith. Y'all did mighty works. You were charitable. He said, "For this cause, we also since the day we heard it, do not cease to pray for you and to desire that you might be filled with the knowledge of his will and all wisdom and spiritual understanding." That's beautiful. With all spiritual wisdom and spiritual understanding, that you may walk worthy of the Lord unto all pleasing, being fruitful in every good work and increasing in the knowledge of God. Watch this. He says something similar to the church in Ephesus.
+
+> <sup>[10](/bible/colossians/1#v10)</sup> That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
 
 
 **[Ephesians 1:13-18](/bible/ephesians/1#v13)**  *[[37:00](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=2220s)]*
 
 > <sup>[13](/bible/ephesians/1#v13)</sup> In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
->
-> <sup>[14](/bible/ephesians/1#v14)</sup> Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
->
-> <sup>[15](/bible/ephesians/1#v15)</sup> Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,
->
-> <sup>[16](/bible/ephesians/1#v16)</sup> Cease not to give thanks for you, making mention of you in my prayers;
->
-> <sup>[17](/bible/ephesians/1#v17)</sup> That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
->
-> <sup>[18](/bible/ephesians/1#v18)</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 
 - Ye were sealed with that holy Spirit of promise: You see, do you see the correlation in Ephesus and Colosse? These two particular churches, there's correlations there. The brothers and sisters in these churches believed, you understand? And they received the word with gladness.
 
+> <sup>[14](/bible/ephesians/1#v14)</sup> Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
+>
+> <sup>[15](/bible/ephesians/1#v15)</sup> Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,
+
 - After I heard of your faith in the Lord Jesus, and love unto all the saints: That's the same thing that the Colossians were doing.
 
+> <sup>[16](/bible/ephesians/1#v16)</sup> Cease not to give thanks for you, making mention of you in my prayers;
+
 - Cease not to give thanks for you, making mention of you in my prayers: Same thing.
+
+> <sup>[17](/bible/ephesians/1#v17)</sup> That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
+>
+> <sup>[18](/bible/ephesians/1#v18)</sup> The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 
 - What is the hope of his calling, and what the riches of the glory of his inheritance in the saints: Right? What's the riches of his glory and his inheritance in the saints? What is the hope? The hope we went over is the immortality. It's redemption. Is to redeem your body, which is your celestial body, which is in the heavens. That's what this entire thing is about. Christ came to give you a chance to receive that wisdom and that understanding and that eternal life that you thought you were going to get under animal sacrifice, but it was all talking about him and pointing towards him. Those were shadow of good things to come. Paul got a big job. That's why he said, "I'm praying for you always, that y'all stay in the spirit down there. That y'all continue to learn and excel and your eyes be enlightened in Christ so you can understand what the purpose of Christ is in the first place." Because that was a mission. That was his issue. Battling with … He had … in the church constantly wrestling with him and when he would leave.
 
@@ -342,10 +342,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Acts 20:16-17](/bible/acts/20#v16)**  *[[39:18](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=2358s)]*
 
 > <sup>[16](/bible/acts/20#v16)</sup> For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.
->
-> <sup>[17](/bible/acts/20#v17)</sup> And from Miletus he sent to Ephesus, and called the elders of the church.
 
 - For Paul had determined to sail by Ephesus: This is why he's saying that. This is why he's saying, "Look, I'm always praying for y'all. I'm praying y'all stay in the spirit. I'm praying that the Lord increase your understanding. Y'all bring forth good works." And you know what's amazing? We doing the same thing to this day. We go to these schools as captains, officers, travel to these schools, deacons, bishops, and we pray that the brothers and sisters stand in spirit.
+
+> <sup>[17](/bible/acts/20#v17)</sup> And from Miletus he sent to Ephesus, and called the elders of the church.
 
 - He sent to Ephesus, and called the elders of the church: So now we just read in Ephesus that he was praying that the brothers and sisters would continue to increase in knowledge and understanding of Christ and that the eyes would be enlightened. They would understand the hope of his glory. Now we see in Acts chapter 20, he calls the elders of the church in Ephesus together. And let's see what he say.
 
@@ -353,16 +353,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Acts 20:28-31](/bible/acts/20#v28)**  *[[40:35](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=2435s)]*
 
 > <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
->
-> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
->
-> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
->
-> <sup>[31](/bible/acts/20#v31)</sup> Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 
 - Which he hath purchased with his own blood: Remember we read in Ephesians, he called it the redemption of the purchased possession. Who is the purchased possession? That's us. Christ purchased us with his blood. He was the ransom on the cross for us, to purchase us, to bring us back to God, the adoption and grafted in and so on and so forth. All that go together. You can't disconnect the Israelites from that. You understand? And all these scriptures are confusing to many people because you don't have the basic foundational understanding that Christ only came for the Israelites, that we're supposed to keep the commandments of God, Christ is a black man, and we are the children of Israel. When you remove those key foundational fundamental things, you read Ephesians and you like, well, I guess he talking to white people in Ephesus. Well, I guess what he mean by that is, you know, we going to get the kingdom of heaven. Meanwhile, you eating pork, shrimp, crab, lobster, you fornicating, you not walking as a man or woman of God. So, this is what Paul is having to deal with. So he's telling the church of Ephesus, the leaders, take heed therefore unto yourselves and to all the flock over which the Holy Ghost have made you overseers, to feed the church of God which he have purchased with his own blood.
 
+> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+>
+> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
+
 - Also of your own selves shall men arise: Some of you leaders.
+
+> <sup>[31](/bible/acts/20#v31)</sup> Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 
 - By the space of three years I ceased not to warn every one night and day with tears: Right? So why is he warning them? Cuz Paul's job was to lay the foundation of Christ. He did that. It's up to those leaders that are still left in these churches. Remember, there were no airplanes. There was no train that go 100 m or 1,000 miles per hour, whatever. If Paul left Ephesus and went to Colosse, it took him a while to get back to Ephesus. If Paul went back to Jerusalem or Rome and ended up getting arrested, how he going to get back to the brothers in Ephesus? He got to trust that the leaders that he left behind there is going to hold it down. And he's telling them, look, man, look, I'm telling y'all, grievous wolves going to enter in, bro. They going to come in trying to draw away disciples after themselves. Man, I'm praying for y'all. Y'all hope y'all stay in the spirit. I hope y'all understand the hope of your calling. I hope y'all bring forth fruits. I hope y'all excel in the knowledge and understanding of Christ because man, it's going to get rough. That's what Paul telling them. It's going to get rough for y'all. I pray y'all stay in the spirit, man. You understand? So, that's some insight to what Paul was dealing with with these respective churches.
 
@@ -370,14 +370,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Colossians 1:11-13](/bible/colossians/1#v11)**  *[[43:23](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=2603s)]*
 
 > <sup>[11](/bible/colossians/1#v11)</sup> Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;
->
-> <sup>[12](/bible/colossians/1#v12)</sup> Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:
->
-> <sup>[13](/bible/colossians/1#v13)</sup> Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:
 
 - Strengthened with all might, according to his glorious power: Right? Because he knew they was going to go through some things. So he asked that they be strengthened with all might according to his glorious power unto all patience and longsuffering with joyfulness.
 
+> <sup>[12](/bible/colossians/1#v12)</sup> Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:
+
 - Which hath made us meet to be partakers of the inheritance of the saints in light: Come on.
+
+> <sup>[13](/bible/colossians/1#v13)</sup> Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:
 
 - Who hath delivered us from the power of darkness: Right. The Lord delivered us from the power of darkness. That's sin, wickedness.
 
@@ -395,12 +395,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Acts 26:16-18](/bible/acts/26#v16)**  *[[45:31](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=2731s)]*
 
 > <sup>[16](/bible/acts/26#v16)</sup> But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;
->
+
+- But rise, and stand upon thy feet: Now watch this. So we was talking about darkness, right? This is when Paul, the Apostle Paul, is brought before a king of gripper.
+
 > <sup>[17](/bible/acts/26#v17)</sup> Delivering thee from the people, and from the Gentiles, unto whom now I send thee,
 >
 > <sup>[18](/bible/acts/26#v18)</sup> To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
-
-- But rise, and stand upon thy feet: Now watch this. So we was talking about darkness, right? This is when Paul, the Apostle Paul, is brought before a king of gripper.
 
 - To open their eyes, and to turn them from darkness to light: So to come out of darkness to light was Paul's purpose of teaching the northern and southern kingdom.
 
@@ -412,10 +412,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 > <sup>[1](/bible/ephesians/2#v1)</sup> And you hath he quickened, who were dead in trespasses and sins;
 >
 > <sup>[2](/bible/ephesians/2#v2)</sup> Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:
->
-> <sup>[3](/bible/ephesians/2#v3)</sup> Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
 
 - The prince of the power of the air, the spirit that now worketh in the children of disobedience: Right? That's what it mean to be translated into the kingdom of his dear son and out of the power of darkness. At one time you had an evil spirit in you that worked through you. The prince of the power of the air. That's Esau's communication, his television, social media, music, things of that nature. Things that come from the airwaves that control your brain and control your thoughts, their education and how they communicate with you. All right. That worked in us and made us the children of disobedience.
+
+> <sup>[3](/bible/ephesians/2#v3)</sup> Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
 
 - Fulfilling the desires of the flesh and of the mind: Right? Fulfilling the desires of the flesh and of the mind. So we was fulfilling the desires of our flesh and of our mind.
 
@@ -425,10 +425,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Colossians 1:13-14](/bible/colossians/1#v13)**  *[[48:37](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=2917s)]*
 
 > <sup>[13](/bible/colossians/1#v13)</sup> Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:
->
-> <sup>[14](/bible/colossians/1#v14)</sup> In whom we have redemption through his blood, even the forgiveness of sins:
 
 - Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son: Right? He delivered us from the power of darkness and translated us in the kingdom of his dear son.
+
+> <sup>[14](/bible/colossians/1#v14)</sup> In whom we have redemption through his blood, even the forgiveness of sins:
 
 - In whom we have redemption through his blood, even the forgiveness of sins: Right. It said whom we have redemption through his blood, even the forgiveness of sins. Who had redemption through the blood of Christ? Was it all nations? Let's see.
 
@@ -436,14 +436,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Luke 1:68-71](/bible/luke/1#v68)**  *[[49:13](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=2953s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
+
+- For he hath visited and redeemed his people: He visited and redeemed his people.
+
 > <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
 >
 > <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
 >
 > <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
-
-- For he hath visited and redeemed his people: He visited and redeemed his people.
 
 - That we should be saved from our enemies, and from the hand of all that hate us: Right? So it's the Israelites that are redeemed through the blood of Christ, not all nations. Redemption coming for the Israelites. You understand? Redemption is for the children of Israel only. And that's what make them hate us, because we teach that. I'm just telling you straight up, nobody hates Christians. Nobody hates Muslims. I mean, they may go to war with each other and stuff like that, but that's because they bombing each other and stuff like that. That's because they out here actively harming other individuals. But the reason they hate us, and their hatred for us is going to go even further, is because we teach that Christ is only coming for the nation of Israel. That the black people that they hate, the Hispanic people that they hate, the Native American people that they hate, that they took the land from, those people will rule over you in the kingdom of heaven. And they can't take that thought. So they said, "Look, these dudes are the worst people on the planet earth." And guess what? The apostles were teaching the same thing. What we teach today is what the apostles taught back then.
 
@@ -466,10 +466,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Acts 13:23-24](/bible/acts/13#v23)**  *[[54:05](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=3245s)]*
 
 > <sup>[23](/bible/acts/13#v23)</sup> Of this man’s seed hath God according to his promise raised unto Israel a Saviour, Jesus:
->
-> <sup>[24](/bible/acts/13#v24)</sup> When John had first preached before his coming the baptism of repentance to all the people of Israel.
 
 - Of this man's seed hath God according to his promise raised unto Israel a Saviour, Jesus: Raised unto Israel a savior, Jesus. The savior is for Israel. You understand?
+
+> <sup>[24](/bible/acts/13#v24)</sup> When John had first preached before his coming the baptism of repentance to all the people of Israel.
 
 - The baptism of repentance to all the people of Israel: So the baptism of repentance is only for the Israelites. Christ, the seed that was raised up from David's loins. He was promised to be a savior for the Israelites.
 
@@ -477,14 +477,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "prayer", "wisdom"]
 **[Acts 10:34-36](/bible/acts/10#v34)**  *[[55:04](https://www.youtube.com/watch?v=AZ2mJc6PIc0&t=3304s)]*
 
 > <sup>[34](/bible/acts/10#v34)</sup> Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:
->
-> <sup>[35](/bible/acts/10#v35)</sup> But in every nation he that feareth him, and worketh righteousness, is accepted with him.
->
-> <sup>[36](/bible/acts/10#v36)</sup> The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
 
 - God is no respecter of persons: Watch this, cuz Christians love Acts 10 until you read this part. See, they jump off the horse. Woo! You see that? God ain't no respector of persons, my brother. Okay, keep reading.
 
+> <sup>[35](/bible/acts/10#v35)</sup> But in every nation he that feareth him, and worketh righteousness, is accepted with him.
+
 - But in every nation he that feareth him, and worketh righteousness, is accepted with him: You see that, brother? See that? Who? Lord. Okay. No respect on persons. In every nation him that fearth him and workketh righteousness is accepted with him. Keep reading though.
+
+> <sup>[36](/bible/acts/10#v36)</sup> The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
 
 - The word which God sent unto the children of Israel: You hear that? It's the Israelites. The no respective person meaning he don't respect one Israelite over another. If you a commandment keeping Israelite, whether you from the northern kingdom, whether you rich or poor, whether you male or female, Jew or gentile, northern or southern kingdom, the Lord have respect for you because you keep the commandments. If you don't keep the commandments, he don't respect you. He has no respect of persons. You got to keep the commandments. And if you're a king, just like a brother that's working at the local market, he still got to keep the commandments, too. There is no respect of persons. We all going to get that same penny. It is what it is. That's what Christ is saying. That's what the Apostle Peter is saying right here. This word was for the children of Israel.
 

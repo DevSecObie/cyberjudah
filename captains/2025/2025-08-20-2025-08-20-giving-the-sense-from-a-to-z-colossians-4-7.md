@@ -179,6 +179,10 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-word"]
 
 **[Acts 13:4-13](/bible/acts/13#v4)**  *[[27:02](https://www.youtube.com/watch?v=eKq6HA9tnhc&t=1622s)]*
 
+- And they also had John to their minister: Now we're going to see who that John was.
+
+- Who called for Barnabas and Saul, and desired to hear the word of God. But Elamus the sorcerer withstood them seeking to turn away the deputy from the faith: So they were going to see a deputy. This guy wanted to know about the word of God. But then, you know, like many times that we see, y'all see on camera when we're at camp and stuff like that. People always try to pull them away from the word or always try to plant a seed. Nah, they a cult. Don't listen to them. Nah, don't listen to them. Nah, they be cursing out women like Gino Jennings. Gino, what's his name? Gino Jennings. He said that we beat up women. Like, are you serious? They will say anything in order to remove our people from the truth of the Bible. Whether they got to jar them emotionally, lie on us, whatever the case may be, they always say and do something wicked as hell in order to not have the people listen to us.
+
 > <sup>[4](/bible/acts/13#v4)</sup> So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.
 >
 > <sup>[5](/bible/acts/13#v5)</sup> And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister.
@@ -194,33 +198,23 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-word"]
 > <sup>[10](/bible/acts/13#v10)</sup> And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?
 >
 > <sup>[11](/bible/acts/13#v11)</sup> And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
->
+
+- And immediately there fell on him a mist and a darkness. And he went about seeking some to lead him by the hand: So this guy was trying to stop the word from going out, right? Paul smoked this dude with blindness. Paul smote him with blindness. So imagine you teaching a word, you got a scoffer that comes up and you just, you know, I would say curse him out. We always say curse him out, but he did not curse him out. But he cursed him out and said, "You ain't going to see the son for a season." And took away his sight.
+
 > <sup>[12](/bible/acts/13#v12)</sup> Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.
 >
 > <sup>[13](/bible/acts/13#v13)</sup> Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.
-
-- And they also had John to their minister: Now we're going to see who that John was.
-
-- Who called for Barnabas and Saul, and desired to hear the word of God. But Elamus the sorcerer withstood them seeking to turn away the deputy from the faith: So they were going to see a deputy. This guy wanted to know about the word of God. But then, you know, like many times that we see, y'all see on camera when we're at camp and stuff like that. People always try to pull them away from the word or always try to plant a seed. Nah, they a cult. Don't listen to them. Nah, don't listen to them. Nah, they be cursing out women like Gino Jennings. Gino, what's his name? Gino Jennings. He said that we beat up women. Like, are you serious? They will say anything in order to remove our people from the truth of the Bible. Whether they got to jar them emotionally, lie on us, whatever the case may be, they always say and do something wicked as hell in order to not have the people listen to us.
-
-- And immediately there fell on him a mist and a darkness. And he went about seeking some to lead him by the hand: So this guy was trying to stop the word from going out, right? Paul smoked this dude with blindness. Paul smote him with blindness. So imagine you teaching a word, you got a scoffer that comes up and you just, you know, I would say curse him out. We always say curse him out, but he did not curse him out. But he cursed him out and said, "You ain't going to see the son for a season." And took away his sight.
 
 - And John departing from them returned to Jerusalem: So this John that was with them in the beginning when we read verse 5, he had John to his minister. When this situation happened, John left. All right? John left and went back to Jerusalem. So, let's see who that John was.
 
 
 **[Acts 15:36-40](/bible/acts/15#v36)**  *[[30:41](https://www.youtube.com/watch?v=eKq6HA9tnhc&t=1841s)]*
 
+- And some days after Paul said to Barnabas, Let us go again and visit our brethren in every city: So Paul took Barnabas. Remember Barnabas nephew was Mark. He had him with him everywhere he went.
+
 > <sup>[36](/bible/acts/15#v36)</sup> And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.
 >
 > <sup>[37](/bible/acts/15#v37)</sup> And Barnabas determined to take with them John, whose surname was Mark.
->
-> <sup>[38](/bible/acts/15#v38)</sup> But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work.
->
-> <sup>[39](/bible/acts/15#v39)</sup> And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;
->
-> <sup>[40](/bible/acts/15#v40)</sup> And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.
-
-- And some days after Paul said to Barnabas, Let us go again and visit our brethren in every city: So Paul took Barnabas. Remember Barnabas nephew was Mark. He had him with him everywhere he went.
 
 - And Barnabas determined to take with them John whose surname was Mark: So this same John that was from Acts 13 is this John right here in Acts 15.
 
@@ -237,6 +231,12 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-word"]
     > <sup>[11](/bible/2-timothy/4#v11)</sup> Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry.
 
     Let's go to 2 Timothy 4 and 11. 2 Timothy 4 and 11.
+
+> <sup>[38](/bible/acts/15#v38)</sup> But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work.
+>
+> <sup>[39](/bible/acts/15#v39)</sup> And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;
+>
+> <sup>[40](/bible/acts/15#v40)</sup> And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.
 
 
 **[Colossians 4:11](/bible/colossians/4#v11)**  *[[33:33](https://www.youtube.com/watch?v=eKq6HA9tnhc&t=2013s)]*

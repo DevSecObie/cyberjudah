@@ -74,12 +74,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[Revelation 13:1-2](/bible/revelation/13#v1)**  *[[23:01](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=1381s)]*
 
 > <sup>[1](/bible/revelation/13#v1)</sup> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
->
-> <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 
 - Having seven heads and ten horns: This is the Edomite race. Y'all have the graphics, they can put up on the screen for the people. And the 10 horns, or 10 common markets, you know it today as the EU. It's obviously expanded, I believe what is it, 30, 39 members now, but originally it was 10. So the seven heads: Greece, Rome, Spain, France, Germany, Russia, Great Britain. And the eighth, when we read, what was that, Revelation 17, it gets into the eighth being America. And then you see the 10 horns right there.
 
 - And upon his heads the name of blasphemy: Right, the name of blasphemy.
+
+> <sup>[2](/bible/revelation/13#v2)</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 
 - Like unto a leopard, and his feet were as the feet of a bear: So it's letting you know this coming kingdom, or this beast, also known as the United States of America, he would be similar to all the other nations, or strong empires, that came before him. So that leopard represents Greece. That bear represents Persian Medes.
 
@@ -116,8 +116,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[Daniel 8:25-26](/bible/daniel/8#v25)**  *[[27:49](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=1669s)]*
 
 > <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
->
-> <sup>[26](/bible/daniel/8#v26)</sup> And the vision of the evening and the morning which was told is true: wherefore shut thou up the vision; for it shall be for many days.
 
 - And through his policy also he shall cause craft to prosper in his hand: So he was given power to destroy the holy people.
 
@@ -126,6 +124,8 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 - He shall also stand up against the Prince of princes: Right, he shall also stand up against Christ himself.
 
 - But he shall be broken without hand: Right, broken without hand. That's talking about when Christ return, he's going to destroy them. He's not even going to use his hands. Fire going to be shooting out his mouth, all of that. Be broken without hand.
+
+> <sup>[26](/bible/daniel/8#v26)</sup> And the vision of the evening and the morning which was told is true: wherefore shut thou up the vision; for it shall be for many days.
 
 - Wherefore shut thou up the vision; for it shall be for many days: Right, it says shut up the vision, for it shall be for many days. So at this time it wasn't time for this to come out, you understand, the proper understanding, when the prophet Daniel saw it, because this happened years and years and years later.
 
@@ -144,10 +144,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[Revelation 22:10-11](/bible/revelation/22#v10)**  *[[30:12](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=1812s)]*
 
 > <sup>[10](/bible/revelation/22#v10)</sup> And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.
->
-> <sup>[11](/bible/revelation/22#v11)</sup> He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
 
 - Seal not the sayings of the prophecy of this book: Now let's go back to Daniel, not Daniel, Revelations 12, 22, my apologies y'all, give me Daniel chapter 22 and 10 again. So but this time, in these last times, it's no longer to be hidden. That's why when you read in like the book of Ezekiel 47, it talks about the water rises over time as we get closer to the kingdom, to the return of Messiah. Understand, more things are going to be unlocked in these scriptures, to the point where we're going to be able to teach and be conversent in these things, because it is the time. It is the time.
+
+> <sup>[11](/bible/revelation/22#v11)</sup> He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
 
 - He that is unjust, let him be unjust still: So it say he that is unjust, wicked, evil, they still going to be those same people. Just like Christ said, this generation shall not pass till the Son of man return. Those same wicked people that he was dealing with during that time, they going to be back today. It's the same exact thing. And the righteous that follow Christ in that time, they going to be back today as well.
 
@@ -157,12 +157,12 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[Colossians 1:15-16](/bible/colossians/1#v15)**  *[[32:32](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=1952s)]*
 
 > <sup>[15](/bible/colossians/1#v15)</sup> Who is the image of the invisible God, the firstborn of every creature:
->
-> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
 - Who is the image of the invisible God: Right, Christ is the image of the Father.
 
 - The firstborn of every creature: Right, and the firstborn of every creature, the only begotten of the Father.
+
+> <sup>[16](/bible/colossians/1#v16)</sup> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
 - For by him were all things created: Right, so by Christ everything was created.
 
@@ -204,14 +204,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[1 Peter 2:7-8](/bible/1-peter/2#v7)**  *[[36:34](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=2194s)]*
 
 > <sup>[7](/bible/1-peter/2#v7)</sup> Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
->
-> <sup>[8](/bible/1-peter/2#v8)</sup> And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.
 
 - Unto you therefore which believe he is precious: Right, so you got those who are going to do what? You got those who are going to believe. Those are the ones that still going to be righteous.
 
 - But unto them which be disobedient, the stone which the builders disallowed: Right, the stone which the builders disallowed. Remember, the elders, the chief priests and the scribes, they rejected that rock, that stone, which is who? Jesus the Christ.
 
 - The same is made the head of the corner: Right, so that same man, Jesus the Christ, he's made the head of the corner.
+
+> <sup>[8](/bible/1-peter/2#v8)</sup> And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.
 
 - And a stone of stumbling, and a rock of offence: And he becomes a stone of stumbling. And a rock of offense, and people are offended by him.
 
@@ -242,14 +242,14 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[2 Esdras 16:75-76](/bible/2-esdras/16#v75)**  *[[39:45](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=2385s)]*
 
 > <sup>[75](/bible/2-esdras/16#v75)</sup> Be ye not afraid, neither doubt; for God is your guide,
->
-> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
 
 - Be ye not afraid, neither doubt: So a lot of times, let's get that in 2 Esdras 16, it's sidebar. A lot of times you could be going through trials. Your infirmities could be kicking your behind. And what Satan likes to do, he likes to put doubt in you. Meaning, you know, you ain't nothing, look at you, you fail to your lust, you ain't one of the guys, you ain't one of the 144, you ain't righteous. That's what Satan likes to do. He likes to implant those negative thoughts in our minds, to cast doubt in us, so we won't fulfill our purpose, the purpose that Christ intended us to fulfill.
 
 - Neither doubt: Neither what? Neither doubt. Neither doubt. Remember it say, for God has not given us the spirit of fear. That spirit of doubt come from nobody else except the devil himself, Satan. So the scripture commands us on what to do.
 
 - For God is your guide: For God is our guide. But we got to trust that thing. We got to make sure that we're seeking him out, so he can guide us down the proper path.
+
+> <sup>[76](/bible/2-esdras/16#v76)</sup> And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
 
 - And the guide of them who keep my commandments: And the what? Guide of them who keep my commandments. And he's the God of those who keep his commandments. So check it: if you fail, get back up. Keep his commandments, and the Lord will guide you and lead you.
 
@@ -289,12 +289,6 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[2 Esdras 2:34-37](/bible/2-esdras/2#v34)**  *[[45:49](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=2749s)]*
 
 > <sup>[34](/bible/2-esdras/2#v34)</sup> And therefore I say unto you, O ye heathen, that hear and understand, look for your Shepherd, he shall give you everlasting rest; for he is nigh at hand, that shall come in the end of the world.
->
-> <sup>[35](/bible/2-esdras/2#v35)</sup> Be ready to the reward of the kingdom, for the everlasting light shall shine upon you for evermore.
->
-> <sup>[36](/bible/2-esdras/2#v36)</sup> Flee the shadow of this world, receive the joyfulness of your glory: I testify my Saviour openly.
->
-> <sup>[37](/bible/2-esdras/2#v37)</sup> O receive the gift that is given you, and be glad, giving thanks unto him that hath called you to the heavenly kingdom.
 
 - And therefore I say unto you, O ye heathen: Talking about that reward. This heathen right here, this talking about Israel.
 
@@ -302,15 +296,21 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 
 - He shall give you everlasting rest; for he is nigh at hand, that shall come in the end of the world: That shall come in the end of the world. That's why it was said to John, hey, don't keep this sealed. Teach this.
 
+> <sup>[35](/bible/2-esdras/2#v35)</sup> Be ready to the reward of the kingdom, for the everlasting light shall shine upon you for evermore.
+
 - Be ready to the reward of the kingdom: Be ready for what? The reward of the kingdom. It says be ready for the reward of the kingdom.
 
 - For the everlasting light shall shine upon you for evermore: Forever more, if you do what?
+
+> <sup>[36](/bible/2-esdras/2#v36)</sup> Flee the shadow of this world, receive the joyfulness of your glory: I testify my Saviour openly.
 
 - Flee the shadow of this world: Verse 36. You have to overcome sin. That's how you know if you on track. That's how you know.
 
 - Receive the joyfulness of your glory: Right now.
 
 - I testify my Saviour openly: You can't be ashamed of Christ. You can't be ashamed to confess Christ. We got to be an example. You know how you ashamed to confess Christ? When you don't wear your fringes, you understand, when you shave your beard, when you trim your ways, when you go out of town to celebrate Christmas with your family members and miss the opportunity to come together and fellowship with your brothers and sisters. You understand, that's how you do not testify your Savior openly.
+
+> <sup>[37](/bible/2-esdras/2#v37)</sup> O receive the gift that is given you, and be glad, giving thanks unto him that hath called you to the heavenly kingdom.
 
 - O receive the gift that is given you: In other words, for a gift is reward. Receive the gift that is given you.
 
@@ -374,16 +374,16 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[Mark 9:41-43](/bible/mark/9#v41)**  *[[53:40](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=3220s)]*
 
 > <sup>[41](/bible/mark/9#v41)</sup> For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.
->
-> <sup>[42](/bible/mark/9#v42)</sup> And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
->
-> <sup>[43](/bible/mark/9#v43)</sup> And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:
 
 - For whosoever shall give you a cup of water to drink in my name: Going into that reward.
 
 - He shall not lose his reward: He shall not what? Lose his reward. He shall not lose his reward that's already promised, which is the kingdom of heaven.
 
+> <sup>[42](/bible/mark/9#v42)</sup> And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
+
 - It is better for him that a millstone were hanged about his neck, and he were cast into the sea: So you understand, if you think that the Lord's coming is delayed, and you begin to abuse his servants, the people of God, mistreat them, the Lord is letting you know that it would be better that a millstone was tied to your neck. That's bad enough right there, but he's saying the judgment that you going to get going to be much farther, worse than that.
+
+> <sup>[43](/bible/mark/9#v43)</sup> And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:
 
 - And if thy hand offend thee, cut it off: Says if thy hand offend thee, do what? Cut it off. Cut it off.
 
@@ -406,10 +406,10 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[Isaiah 44:5-6](/bible/isaiah/44#v5)**  *[[56:52](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=3412s)]*
 
 > <sup>[5](/bible/isaiah/44#v5)</sup> One shall say, I am the Lord’s; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel.
->
-> <sup>[6](/bible/isaiah/44#v6)</sup> Thus saith the Lord the King of Israel, and his redeemer the Lord of hosts; I am the first, and I am the last; and beside me there is no God.
 
 - One shall say, I am the LORD's; and another shall call himself by the name of Jacob: And another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel. This is going into levels of faith. In these last days are the changing of our names, once we come into the knowledge and the understanding of who we are, that we are in fact the sons of God. It talks about us changing who we are. We leaving those slave names and putting on our real name, which is Israel.
+
+> <sup>[6](/bible/isaiah/44#v6)</sup> Thus saith the Lord the King of Israel, and his redeemer the Lord of hosts; I am the first, and I am the last; and beside me there is no God.
 
 - Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I am the first, and I am the last: So the King of Israel says, I am the first and the last.
 
@@ -436,22 +436,22 @@ tags: ["15 Minutes w/ The Captains", "angels", "faith", "justice", "prophecy", "
 **[Isaiah 48:8-13](/bible/isaiah/48#v8)**  *[[1:00:30](https://www.youtube.com/watch?v=OcwJJD4VDmE&t=3630s)]*
 
 > <sup>[8](/bible/isaiah/48#v8)</sup> Yea, thou heardest not; yea, thou knewest not; yea, from that time that thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb.
->
-> <sup>[9](/bible/isaiah/48#v9)</sup> For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.
->
-> <sup>[10](/bible/isaiah/48#v10)</sup> Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
->
-> <sup>[11](/bible/isaiah/48#v11)</sup> For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another.
->
-> <sup>[12](/bible/isaiah/48#v12)</sup> Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.
->
-> <sup>[13](/bible/isaiah/48#v13)</sup> Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.
 
 - For I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb: Let's go back to Isaiah, let's go to 48 this time.
 
+> <sup>[9](/bible/isaiah/48#v9)</sup> For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.
+
 - For my name's sake will I defer mine anger: So the Lord is saying for his name's sake. Remember, his name is on us. He's the one who created us. So he said for his name's sake he'll defer his anger, cuz through his wrath he would destroy us. Remember, Moses saved us, you know, so the Lord would repent himself of his anger, in Deuteronomy.
 
+> <sup>[10](/bible/isaiah/48#v10)</sup> Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
+>
+> <sup>[11](/bible/isaiah/48#v11)</sup> For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another.
+
 - And I will not give my glory unto another: Right, so the Lord never put his name on any other nation other than the nation of Israel. Even though we transgress, and even though we polluted the land with our different idolatry and our sins.
+
+> <sup>[12](/bible/isaiah/48#v12)</sup> Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.
+>
+> <sup>[13](/bible/isaiah/48#v13)</sup> Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.
 
 - When I call unto them, they stand up together: Right, when the Lord calls unto them, they're obedient. Why are they obedient? Because remember, he created all of them. He's the first and the last.
 

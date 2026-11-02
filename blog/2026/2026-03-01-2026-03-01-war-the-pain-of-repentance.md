@@ -54,6 +54,10 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
 **[Habakkuk 2:1-8](/bible/habakkuk/2#v1)**  *[[31:22](https://www.youtube.com/watch?v=hGuiflP0yaw&t=1882s)]*
 
+- Habakkuk complained about the nations ruling over us, and the Lord answered: write the vision and make it plain upon tables, that he may run that readeth it. Isaiah 30:8, write it in a table and note it in a book for the time to come. Amos 8:11-12: a famine of hearing the words of the Lord, and they shall run to and fro to seek the word and not find it, running to Catholics and Baptists instead of the Israelites. They read it but do not understand it.
+
+- The vision is yet for an appointed time; though it tarry, wait for it, because it will surely come. Behold, his soul which is lifted up is not upright in him: the white man might smile and do a nice thing, but his soul is not right. The just shall live by his faith, which is Christ.
+
 > <sup>[1](/bible/habakkuk/2#v1)</sup> I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
 >
 > <sup>[2](/bible/habakkuk/2#v2)</sup> And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.
@@ -63,18 +67,10 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 > <sup>[4](/bible/habakkuk/2#v4)</sup> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.
 >
 > <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
->
-> <sup>[6](/bible/habakkuk/2#v6)</sup> Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!
->
-> <sup>[7](/bible/habakkuk/2#v7)</sup> Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
->
-> <sup>[8](/bible/habakkuk/2#v8)</sup> Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.
-
-- Habakkuk complained about the nations ruling over us, and the Lord answered: write the vision and make it plain upon tables, that he may run that readeth it. Isaiah 30:8, write it in a table and note it in a book for the time to come. Amos 8:11-12: a famine of hearing the words of the Lord, and they shall run to and fro to seek the word and not find it, running to Catholics and Baptists instead of the Israelites. They read it but do not understand it.
-
-- The vision is yet for an appointed time; though it tarry, wait for it, because it will surely come. Behold, his soul which is lifted up is not upright in him: the white man might smile and do a nice thing, but his soul is not right. The just shall live by his faith, which is Christ.
 
 - Because he transgresseth by wine: Micah 2:11, prophesying of wine and strong drink is the spirit of falsehood, so the wine is his Christianity and his democracy, the same thing. He is a proud man, Obadiah's Edom. Neither keepeth at home: America is a busybody in every nation, telling Iranians to revolt. He enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations: every country he destabilizes by economic or conventional war, he then lets the residue of those people come to America and England.
+
+> <sup>[6](/bible/habakkuk/2#v6)</sup> Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!
 
 - Shall not all these take up a parable against him: woe to him that increaseth that which is not his, Iran, Syria, Somalia, Yemen, Afghanistan. How long? And to him that ladeth himself with thick clay, the iron and clay of Daniel 2. Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee: the caterpillars rising from sleep, terrorism from within, slowly but surely.
 
@@ -91,6 +87,10 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
     > <sup>[4](/bible/obadiah/1#v4)</sup> Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.
 
     Thus saith the Lord concerning Edom: an ambassador is sent among the heathen, arise ye, and let us rise up against her in battle. The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, Petra then and skyscrapers now, that saith, who shall bring me down? Though thou exalt thyself as the eagle, the animal on the dollar bill, and set thy nest among the stars, satellites and space travel, thence will I bring thee down. Not the Arabs and not the American Indian; if they had power they would have blown the white man off the earth.
+
+> <sup>[7](/bible/habakkuk/2#v7)</sup> Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
+>
+> <sup>[8](/bible/habakkuk/2#v8)</sup> Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.
 
 
 *[[36:52](https://www.youtube.com/watch?v=hGuiflP0yaw&t=2212s)]* **In The News: Petra, the clefts of the rock of Obadiah's day.** — Edom's architecture looks like Rome and Washington, D.C. Today their habitation on high is the skyscraper.
@@ -210,7 +210,15 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 **[2 Timothy 1:6-18](/bible/2-timothy/1#v6)**  *[[1:32:10](https://www.youtube.com/watch?v=hGuiflP0yaw&t=5530s)]*
 
 > <sup>[6](/bible/2-timothy/1#v6)</sup> Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.
->
+
+- Stir up the gift of God which is in thee: Timothy had the Holy Spirit, and not stirring it up is burying your talent in a napkin. God hath not given us the spirit of fear, but of power, and of love, and of a sound mind. Be not ashamed of the testimony of our Lord, nor of me his prisoner, but be thou partaker of the afflictions of the gospel: afflictions were on the rise for the believers.
+
+- Who hath saved us and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began. You were not called for something magnanimous you did; God saw greatness in you that you did not know was there, and we were with the Lord in the beginning. Ephesians 1:4, chosen in him before the foundation of the world, before the earth was made on the third day. You have more in you than you think.
+
+- Christ abolished death and brought life and immortality to light through the gospel, whereunto Paul was appointed a preacher, an apostle, and a teacher, for which cause he suffered and was not ashamed: I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day. Psalms 121:7, the Lord shall preserve thy soul. Sukihana and all our people in entertainment and sports who think they sold their soul: God preserves your soul, so come out of that lifestyle.
+
+- Hold fast the form of sound words, the doctrine we teach; it will enrich you personally, your marriage, your family, and the nation. That good thing committed unto thee keep by the Holy Ghost which dwelleth in us. John 14:26: the Comforter shall teach you all things and bring all things to your remembrance, because in captivity we would lose our identity and think we were Afro-American, Puerto Rican, or Dominican. The Holy Ghost being back is the evidence.
+
 > <sup>[7](/bible/2-timothy/1#v7)</sup> For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
 >
 > <sup>[8](/bible/2-timothy/1#v8)</sup> Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;
@@ -228,20 +236,6 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 > <sup>[14](/bible/2-timothy/1#v14)</sup> That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
 >
 > <sup>[15](/bible/2-timothy/1#v15)</sup> This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.
->
-> <sup>[16](/bible/2-timothy/1#v16)</sup> The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:
->
-> <sup>[17](/bible/2-timothy/1#v17)</sup> But, when he was in Rome, he sought me out very diligently, and found me.
->
-> <sup>[18](/bible/2-timothy/1#v18)</sup> The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.
-
-- Stir up the gift of God which is in thee: Timothy had the Holy Spirit, and not stirring it up is burying your talent in a napkin. God hath not given us the spirit of fear, but of power, and of love, and of a sound mind. Be not ashamed of the testimony of our Lord, nor of me his prisoner, but be thou partaker of the afflictions of the gospel: afflictions were on the rise for the believers.
-
-- Who hath saved us and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began. You were not called for something magnanimous you did; God saw greatness in you that you did not know was there, and we were with the Lord in the beginning. Ephesians 1:4, chosen in him before the foundation of the world, before the earth was made on the third day. You have more in you than you think.
-
-- Christ abolished death and brought life and immortality to light through the gospel, whereunto Paul was appointed a preacher, an apostle, and a teacher, for which cause he suffered and was not ashamed: I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day. Psalms 121:7, the Lord shall preserve thy soul. Sukihana and all our people in entertainment and sports who think they sold their soul: God preserves your soul, so come out of that lifestyle.
-
-- Hold fast the form of sound words, the doctrine we teach; it will enrich you personally, your marriage, your family, and the nation. That good thing committed unto thee keep by the Holy Ghost which dwelleth in us. John 14:26: the Comforter shall teach you all things and bring all things to your remembrance, because in captivity we would lose our identity and think we were Afro-American, Puerto Rican, or Dominican. The Holy Ghost being back is the evidence.
 
 - This thou knowest, that all they which are in Asia be turned away from me, of whom are Phygellus and Hermogenes: men who warred with Paul left the faith. We have seen a lot come and a lot go, so do not get too attached; you are strong today, we will see about tomorrow when affliction, tribulation, and persecution come. The Lord give mercy unto the house of Onesiphorus, who oft refreshed me, was not ashamed of my chain, and in Rome sought me out very diligently on foot, and ministered unto me at Ephesus; may he find mercy of the Lord in that day.
 
@@ -259,16 +253,16 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
     The sun shall be turned into darkness and the moon into blood, war and devastation, before the great and terrible day of the Lord come. Amos 5:18: woe unto you that desire the day of the Lord; it is darkness and not light, not the party you imagine. Zephaniah 1:14-15: the mighty man shall cry there bitterly; that day is a day of wrath, trouble, and distress. Matthew 24:29-30: after the tribulation the stars, missiles, fall from heaven, the powers of the nations are shaken with war, and all the tribes of the earth mourn when they see the Son of man coming. We will be running and weeping, not stomping and clapping.
 
+> <sup>[16](/bible/2-timothy/1#v16)</sup> The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:
+>
+> <sup>[17](/bible/2-timothy/1#v17)</sup> But, when he was in Rome, he sought me out very diligently, and found me.
+>
+> <sup>[18](/bible/2-timothy/1#v18)</sup> The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.
+
 
 **[2 Timothy 4:10,14-16](/bible/2-timothy/4#v10)**  *[[1:49:30](https://www.youtube.com/watch?v=hGuiflP0yaw&t=6570s)]*
 
 > <sup>[10](/bible/2-timothy/4#v10)</sup> For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.
->
-> <sup>[14](/bible/2-timothy/4#v14)</sup> Alexander the coppersmith did me much evil: the Lord reward him according to his works:
->
-> <sup>[15](/bible/2-timothy/4#v15)</sup> Of whom be thou ware also; for he hath greatly withstood our words.
->
-> <sup>[16](/bible/2-timothy/4#v16)</sup> At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.
 
 - Demas hath forsaken me, having loved this present world: he saw the looseness of the women and told Paul, I have got to go, I have needs. Crescens to Galatia, Titus unto Dalmatia. Those men who were strong in the Lord are some of you.
 
@@ -288,16 +282,16 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
     Sown on stony ground: they hear the word and receive it with gladness, I am an Israelite, but have no root, no study, sports and porn first and Bible last, and endure but for a time; when affliction or persecution ariseth for the word's sake, immediately they are offended. Satan asks to test you where you are weak, and the brother struggling with a proclivity who goes to the gym at two in the morning finds two men in the shower inviting him in; stay out of the gym and do calisthenics at home. Sown among thorns: the cares of this world, the deceitfulness of riches, and the lust of other things, the thing in you that nobody else knows but God, Satan, and you, choke the word.
 
+> <sup>[14](/bible/2-timothy/4#v14)</sup> Alexander the coppersmith did me much evil: the Lord reward him according to his works:
+>
+> <sup>[15](/bible/2-timothy/4#v15)</sup> Of whom be thou ware also; for he hath greatly withstood our words.
+>
+> <sup>[16](/bible/2-timothy/4#v16)</sup> At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.
+
 
 **[Isaiah 26:1-4](/bible/isaiah/26#v1)**  *[[2:01:18](https://www.youtube.com/watch?v=hGuiflP0yaw&t=7278s)]*
 
 > <sup>[1](/bible/isaiah/26#v1)</sup> In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks.
->
-> <sup>[2](/bible/isaiah/26#v2)</sup> Open ye the gates, that the righteous nation which keepeth the truth may enter in.
->
-> <sup>[3](/bible/isaiah/26#v3)</sup> Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.
->
-> <sup>[4](/bible/isaiah/26#v4)</sup> Trust ye in the Lord for ever: for in the Lord Jehovah is everlasting strength:
 
 - In that day shall this song be sung in the land of Judah: we have a strong city; salvation will God appoint for walls and bulwarks. Open ye the gates, that the righteous nation which keepeth the truth may enter in. Not everybody: Revelation 21:12, the twelve gates bear the names of the twelve tribes of the children of Israel. Psalms 119:142, thy law is the truth; Revelation 22:14, blessed are they that do his commandments, that they may enter in through the gates into the city.
 
@@ -310,6 +304,12 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
     > <sup>[58](/bible/john/8#v58)</sup> Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
 
     Before Abraham was, I am. Christ is the I AM of Exodus 3:14 who sent Moses to the children of Israel. John 14:8-9: show us the Father; have I been so long time with you, and yet hast thou not known me, Philip? Isaiah 9:6 calls the child born the mighty God and the everlasting Father, and John 1:3, all things were made by him. Christ is not the Father, but the God who dealt with Israel in the Old Testament and created us was Christ, the only begotten; the Father made him and gave him the world to create, Proverbs 8.
+
+> <sup>[2](/bible/isaiah/26#v2)</sup> Open ye the gates, that the righteous nation which keepeth the truth may enter in.
+>
+> <sup>[3](/bible/isaiah/26#v3)</sup> Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.
+>
+> <sup>[4](/bible/isaiah/26#v4)</sup> Trust ye in the Lord for ever: for in the Lord Jehovah is everlasting strength:
 
 
 **[Isaiah 26:5-9](/bible/isaiah/26#v5)**  *[[2:10:45](https://www.youtube.com/watch?v=hGuiflP0yaw&t=7845s)]*
@@ -405,17 +405,17 @@ tags: ["IUIC in the ClassRoom", "money", "repentance", "substance-abuse", "war"]
 
 **[Isaiah 26:17-19](/bible/isaiah/26#v17)**  *[[3:04:00](https://www.youtube.com/watch?v=hGuiflP0yaw&t=11040s)]*
 
+- Like as a woman with child that draweth near the time of her delivery is in pain and crieth out in her pangs, so have we been in thy sight, O Lord. 2 Esdras 16:38-39: in the ninth month, within two or three hours of her birth, great pains compass her womb and slack not a moment, and even so shall not the plagues be slack to come upon the earth; those hours may be two or three months or years depending on how fast the prophecies come. Isaiah 63:9: in all their affliction he was afflicted, and the angel of his presence saved them.
+
 > <sup>[17](/bible/isaiah/26#v17)</sup> Like as a woman with child, that draweth near the time of her delivery, is in pain, and crieth out in her pangs; so have we been in thy sight, O Lord.
 >
 > <sup>[18](/bible/isaiah/26#v18)</sup> We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.
->
-> <sup>[19](/bible/isaiah/26#v19)</sup> Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out the dead.
-
-- Like as a woman with child that draweth near the time of her delivery is in pain and crieth out in her pangs, so have we been in thy sight, O Lord. 2 Esdras 16:38-39: in the ninth month, within two or three hours of her birth, great pains compass her womb and slack not a moment, and even so shall not the plagues be slack to come upon the earth; those hours may be two or three months or years depending on how fast the prophecies come. Isaiah 63:9: in all their affliction he was afflicted, and the angel of his presence saved them.
 
 - We have been with child: Galatians 4:4-5, God sent forth his Son, made of a woman, made under the law, to redeem the twelve tribes under the law that we might receive the adoption of sons. We have been in pain, captivity; we have as it were brought forth wind, disobedience; we have not wrought any deliverance in the earth, we did not change the world when we had power, neither have the inhabitants of the world fallen, because we joined them.
 
 - Thy dead men shall live, together with my dead body shall they arise. John 2:19-21, destroy this temple and in three days I will raise it up, spoken of the temple of his body. Matthew 27:50-53: when Christ yielded up the ghost the veil was rent, the earth quaked, the rocks rent, the graves were opened, and many bodies of the saints which slept arose after his resurrection and went into the holy city; imagine the one you buried two years ago knocking at the door. 1 Thessalonians 4:16-17: the Lord descends with a shout, the dead in Christ rise first, then we which are alive are caught up together with them in the clouds. Awake and sing, ye that dwell in dust, in confusion and a low state, and the earth shall cast out the dead: that is deliverance.
+
+> <sup>[19](/bible/isaiah/26#v19)</sup> Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out the dead.
 
 
 **[Isaiah 26:20-21](/bible/isaiah/26#v20)**  *[[3:10:51](https://www.youtube.com/watch?v=hGuiflP0yaw&t=11451s)]*

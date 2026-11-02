@@ -36,20 +36,20 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Luke 4:12-15](/bible/luke/4#v12)**  *[[3:56](https://www.youtube.com/watch?v=70kGKupHbKg&t=236s)]*
 
 > <sup>[12](/bible/luke/4#v12)</sup> And Jesus answering said unto him, It is said, Thou shalt not tempt the Lord thy God.
->
-> <sup>[13](/bible/luke/4#v13)</sup> And when the devil had ended all the temptation, he departed from him for a season.
->
-> <sup>[14](/bible/luke/4#v14)</sup> And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about.
->
-> <sup>[15](/bible/luke/4#v15)</sup> And he taught in their synagogues, being glorified of all.
 
 - Thou shalt not tempt the Lord thy God: So let's go to Luke chapter 4. So we picking up where the last Captain left off. So this is when Christ was taken in the wilderness, because if you didn't know, when you read Luke chapter 4, the common theme in there is: Christ is tempted in the wilderness, he goes to Nazareth, he heals a man of Capernaum, and the whole point of the chapter is showing the emergence of Christ, his ministry and what he's called to do for his people. So now we're on a telling of him leaving out of the wilderness.
 
 - It is said, Thou shalt not tempt the Lord thy God: Because what? Satan tried to tempt him, he came through and hit Satan with the scriptures.
 
+> <sup>[13](/bible/luke/4#v13)</sup> And when the devil had ended all the temptation, he departed from him for a season.
+
 - He departed from him for a season: And meaning what? Temptation going to come and go. Meaning the devil going to attack you, then you rebuke him with the scriptures, you pass that trial, he going to leave for a little season. You know what, we going to constantly be going through trials. That's what that's showing us.
 
+> <sup>[14](/bible/luke/4#v14)</sup> And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about.
+
 - And Jesus returned in the power of the Spirit: It said Jesus returned in the power of the spirit. We don't even know what that thing looked like, but it had to be something instantaneous and obviously powerful.
+
+> <sup>[15](/bible/luke/4#v15)</sup> And he taught in their synagogues, being glorified of all.
 
 - And he taught in their synagogues, being glorified of all: He taught in the synagogues, he taught in the synagogues. He being what? Glorified of all. Meanwhile everybody was amazed. But watch this.
 
@@ -68,10 +68,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 > <sup>[1](/bible/leviticus/23#v1)</sup> And the Lord spake unto Moses, saying,
 >
 > <sup>[2](/bible/leviticus/23#v2)</sup> Speak unto the children of Israel, and say unto them, Concerning the feasts of the Lord, which ye shall proclaim to be holy convocations, even these are my feasts.
->
-> <sup>[3](/bible/leviticus/23#v3)</sup> Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the Lord in all your dwellings.
 
 - Which ye shall proclaim to be holy convocations: It says which you shall proclaim to be holy convocations, or gatherings.
+
+> <sup>[3](/bible/leviticus/23#v3)</sup> Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the Lord in all your dwellings.
 
 - Six days shall work be done: So this is the custom: six days shall work be done.
 
@@ -102,10 +102,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Isaiah 61:1-2](/bible/isaiah/61#v1)**  *[[8:30](https://www.youtube.com/watch?v=70kGKupHbKg&t=510s)]*
 
 > <sup>[1](/bible/isaiah/61#v1)</sup> The Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
->
-> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
 
 - He hath sent me to bind up the brokenhearted: That bind is going in to heal the brokenhearted.
+
+> <sup>[2](/bible/isaiah/61#v2)</sup> To proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn;
 
 - To proclaim the acceptable year of the Lord: Watch this.
 
@@ -124,7 +124,9 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Psalms 22:12-18](/bible/psalms/22#v12)**  *[[10:57](https://www.youtube.com/watch?v=70kGKupHbKg&t=657s)]*
 
 > <sup>[12](/bible/psalms/22#v12)</sup> Many bulls have compassed me: strong bulls of Bashan have beset me round.
->
+
+- Many bulls have compassed me: It says many bulls have compassed me.
+
 > <sup>[13](/bible/psalms/22#v13)</sup> They gaped upon me with their mouths, as a ravening and a roaring lion.
 >
 > <sup>[14](/bible/psalms/22#v14)</sup> I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
@@ -132,16 +134,14 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 > <sup>[15](/bible/psalms/22#v15)</sup> My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
 >
 > <sup>[16](/bible/psalms/22#v16)</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
->
-> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
->
-> <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
-
-- Many bulls have compassed me: It says many bulls have compassed me.
 
 - For dogs have compassed me: So it says for dogs have compassed me. Watch this.
 
 - They pierced my hands and my feet: Hold on. They did what? Pierced my hands and my feet. Who pierced the hands and the feet of anybody in the scriptures? The Romans did it to our Lord and Savior Jesus Christ, the black Messiah. That's how we know these bulls are talking about the Romans, and it's going to be crystal clear.
+
+> <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
+>
+> <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
 
 - They part my garments among them: They did what? Part my garments among them. It said they parted my garments among them. Give me Luke 23 and 34. So we haven't lost the thought. We read about the bulls are going down to the slaughter, and we showing you that the bull is talking about the Romans, man, slash Esau. Let's see who parted the garments. Watch this.
 
@@ -156,10 +156,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Jeremiah 50:27-28](/bible/jeremiah/50#v27)**  *[[13:28](https://www.youtube.com/watch?v=70kGKupHbKg&t=808s)]*
 
 > <sup>[27](/bible/jeremiah/50#v27)</sup> Slay all her bullocks; let them go down to the slaughter: woe unto them! for their day is come, the time of their visitation.
->
-> <sup>[28](/bible/jeremiah/50#v28)</sup> The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the Lord our God, the vengeance of his temple.
 
 - Woe unto them! for their day is come, the time of their visitation: That's talking about Esau.
+
+> <sup>[28](/bible/jeremiah/50#v28)</sup> The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the Lord our God, the vengeance of his temple.
 
 - The voice of them that flee and escape out of the land of Babylon: So it says the voice of them. So somebody saying slay all her bullocks: it's the men, the prophet of the most high God. The voice of them are the prophets.
 
@@ -178,16 +178,12 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Jeremiah 50:28-31](/bible/jeremiah/50#v28)**  *[[14:20](https://www.youtube.com/watch?v=70kGKupHbKg&t=860s)]*
 
 > <sup>[28](/bible/jeremiah/50#v28)</sup> The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the Lord our God, the vengeance of his temple.
->
-> <sup>[29](/bible/jeremiah/50#v29)</sup> Call together the archers against Babylon: all ye that bend the bow, camp against it round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her: for she hath been proud against the Lord, against the Holy One of Israel.
->
-> <sup>[30](/bible/jeremiah/50#v30)</sup> Therefore shall her young men fall in the streets, and all her men of war shall be cut off in that day, saith the Lord.
->
-> <sup>[31](/bible/jeremiah/50#v31)</sup> Behold, I am against thee, O thou most proud, saith the Lord God of hosts: for thy day is come, the time that I will visit thee.
 
 - To declare in Zion the vengeance of the Lord: So we declaring amongst our people the day of vengeance of the Lord.
 
 - The Lord our God: The Lord our God, meaning he not coming back for all nations. He come back for the children of Israel that repent and keep the commandments.
+
+> <sup>[29](/bible/jeremiah/50#v29)</sup> Call together the archers against Babylon: all ye that bend the bow, camp against it round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her: for she hath been proud against the Lord, against the Holy One of Israel.
 
 - Call together the archers against Babylon: You see that? Called together the archers, meaning what? This is going into Russia, the EU, NATO.
 
@@ -196,6 +192,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - Recompense her according to her work: You said recompense her according to her works. All the evils that she done to the children of Israel, all the evils that she done worldwide, she going to be recompensed according to her evil.
 
 - For she hath been proud against the Lord: She had been proud against the Lord. How they set themselves up as Christ, the Most High, the angels. They speak blasphemous words with their science: it's more than two genders. These are the proud things that she spoke against the Most High.
+
+> <sup>[30](/bible/jeremiah/50#v30)</sup> Therefore shall her young men fall in the streets, and all her men of war shall be cut off in that day, saith the Lord.
+>
+> <sup>[31](/bible/jeremiah/50#v31)</sup> Behold, I am against thee, O thou most proud, saith the Lord God of hosts: for thy day is come, the time that I will visit thee.
 
 - For thy day is come, the time that I will visit thee: So that's the same thing we read. Go back to Isaiah 61 and 2 again. And said I will visit thee: let's see what the prophet Isaiah got to say.
 
@@ -228,12 +228,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Jeremiah 5:1-4](/bible/jeremiah/5#v1)**  *[[18:24](https://www.youtube.com/watch?v=70kGKupHbKg&t=1104s)]*
 
 > <sup>[1](/bible/jeremiah/5#v1)</sup> Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that executeth judgment, that seeketh the truth; and I will pardon it.
->
-> <sup>[2](/bible/jeremiah/5#v2)</sup> And though they say, The Lord liveth; surely they swear falsely.
->
-> <sup>[3](/bible/jeremiah/5#v3)</sup> O Lord, are not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.
->
-> <sup>[4](/bible/jeremiah/5#v4)</sup> Therefore I said, Surely these are poor; they are foolish: for they know not the way of the Lord, nor the judgment of their God.
 
 - If there be any that executeth judgment: So go through the cities, go through the black community, to see if anybody's executing judgment, if anybody in the Christian church is teaching thus saith the Lord.
 
@@ -241,7 +235,11 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 - And I will pardon it: And the Lord said if you can find anybody out there that's seeking the truth, that's teaching thus saith the Lord, I will pardon the city. He not going to find it. That's why the Lord raised up the prophets in these last days.
 
+> <sup>[2](/bible/jeremiah/5#v2)</sup> And though they say, The Lord liveth; surely they swear falsely.
+
 - And though they say, The Lord liveth; surely they swear falsely: So you hear it all the time in the church: God has been good to me, name it and claim it, it's your season. They swearing falsely. The Lord ain't dealing with them, cuz the Lord in the previous verse said search through the city: who's teaching truth, who's teaching justice, who's teaching righteousness? They not doing it. They swearing falsely, man.
+
+> <sup>[3](/bible/jeremiah/5#v3)</sup> O Lord, are not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.
 
 - Thou hast stricken them, but they have not grieved: But the Lord has... the Lord has stricken us, but we have not grieved. These pastors have not grieved. They not came to our people and said, look, we've been misleading y'all, we got to go back, we are the people of the book. They haven't done it.
 
@@ -250,6 +248,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - They have made their faces harder than a rock: So their heads are harder than the rock. You'll … out, you'll sit out there and point out the scripture, say: hold on, we not supposed to celebrate Christmas according to Jeremiah chapter 10. They say: nah, I see what you're saying, brother, but we going to keep Christmas. Like: hold on, brother, we not supposed to be celebrating Easter. Samuel Tau against that, Paul T against that. They said: nah, we going to continue doing it. These are the things that they tell us. Their heads is harder than a rock, man.
 
 - They have refused to return: So as a result of the hardheadedness, the rebellious spirit, what happened to us?
+
+> <sup>[4](/bible/jeremiah/5#v4)</sup> Therefore I said, Surely these are poor; they are foolish: for they know not the way of the Lord, nor the judgment of their God.
 
 - Therefore I said, Surely these are poor: Hold on. Surely these are what? These are poor. So as a result of bad teaching, being led by the Christian church, being led by white supremacy and Christianity, we have become poor as a people. Poor in spirit, understand that, poor in spirit, and as a result of that we are also what? Physically poor.
 
@@ -263,16 +263,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Jeremiah 12:6-11](/bible/jeremiah/12#v6)**  *[[22:56](https://www.youtube.com/watch?v=70kGKupHbKg&t=1376s)]*
 
 > <sup>[6](/bible/jeremiah/12#v6)</sup> For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; yea, they have called a multitude after thee: believe them not, though they speak fair words unto thee.
->
-> <sup>[7](/bible/jeremiah/12#v7)</sup> I have forsaken mine house, I have left mine heritage; I have given the dearly beloved of my soul into the hand of her enemies.
->
-> <sup>[8](/bible/jeremiah/12#v8)</sup> Mine heritage is unto me as a lion in the forest; it crieth out against me: therefore have I hated it.
->
-> <sup>[9](/bible/jeremiah/12#v9)</sup> Mine heritage is unto me as a speckled bird, the birds round about are against her; come ye, assemble all the beasts of the field, come to devour.
->
-> <sup>[10](/bible/jeremiah/12#v10)</sup> Many pastors have destroyed my vineyard, they have trodden my portion under foot, they have made my pleasant portion a desolate wilderness.
->
-> <sup>[11](/bible/jeremiah/12#v11)</sup> They have made it desolate, and being desolate it mourneth unto me; the whole land is made desolate, because no man layeth it to heart.
 
 - For even thy brethren, and the house of thy father: So even thy brother, meaning your own people. The house of your father, mean those that come from Abraham, Isaac and Jacob.
 
@@ -282,13 +272,19 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 - Though they speak fair words unto thee: Cuz you know they speak, man, they speak eloquent. They got good voices, they got good vocabularies, they speak all the fair words. The Lord laying that out.
 
+> <sup>[7](/bible/jeremiah/12#v7)</sup> I have forsaken mine house, I have left mine heritage; I have given the dearly beloved of my soul into the hand of her enemies.
+
 - I have forsaken mine house: The Lord said, even though they speak good, they speak fair, they got a multitude that follow him, I forsaken my house. Meaning what? We won't be known as the children of Israel. We going to be known as blacks, Hispanics and Native Americans, Puerto Ricans, Bohemians, St. Lucians. All these things we known.
 
 - I have given the dearly beloved of my soul into the hand of her enemies: So as a result of us being misled, not keeping the commandments, the Lord said I've given y'all into the hand of my enemies. Meaning what? Slavery, captivity, loss of identity, loss of our own right minds.
 
+> <sup>[8](/bible/jeremiah/12#v8)</sup> Mine heritage is unto me as a lion in the forest; it crieth out against me: therefore have I hated it.
+
 - Mine heritage is unto me as a lion in the forest; it crieth out against me: So we like a wild lion crying out against... meaning what? Rebelling against the Lord, man.
 
 - Therefore have I hated it: Then the Lord said, as result of all that evil, I've hated. Watch this.
+
+> <sup>[9](/bible/jeremiah/12#v9)</sup> Mine heritage is unto me as a speckled bird, the birds round about are against her; come ye, assemble all the beasts of the field, come to devour.
 
 - Mine heritage is unto me as a speckled bird: A speckled bird is talking about a bird that can't defend itself.
 
@@ -298,11 +294,15 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 - Come to devour: And they devour us. That's why we can't make it. That's why we at the bottom, filling the ghettos and slums, because these other nations are devouring us, man. The Lord prophetically showed that in the scriptures, and the pastors don't have a clue.
 
+> <sup>[10](/bible/jeremiah/12#v10)</sup> Many pastors have destroyed my vineyard, they have trodden my portion under foot, they have made my pleasant portion a desolate wilderness.
+
 - Many pastors have destroyed my vineyard: Many what? Many pastors. Hold. Read that one more time. Many pastors have destroyed my vineyard. So that's why the scriptures show how we became poor: because many pastors have destroyed the vineyard. If you got a vineyard, and the point of it is to produce grapes to make a profit, if the vineyard is destroyed, the owner of the vineyard will become poor. That's crystal clear. Many pastors have destroyed the vineyard. That's why it's over 30,000 different denominations off of one book. Destroy the vineyard of the Lord. That's why the Lord set up the prophet in the last days, to restore the vineyard. Understand what's going on here.
 
 - They have trodden my portion under foot: We already at the bottom. The pastors just every Sunday just stomping us down even lower, man.
 
 - They have made my pleasant portion a desolate wilderness: They've made the pleasant portion... when you look at the church today, you can't even tell that from the damn club. Utterly destroyed, man.
+
+> <sup>[11](/bible/jeremiah/12#v11)</sup> They have made it desolate, and being desolate it mourneth unto me; the whole land is made desolate, because no man layeth it to heart.
 
 - And being desolate it mourneth unto me: The whole land is made desolate, so we mourn unto the Lord. Our people are crying out, but the pastors, though, they are not leading our people right.
 
@@ -319,8 +319,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Isaiah 33:5-6](/bible/isaiah/33#v5)**  *[[28:58](https://www.youtube.com/watch?v=70kGKupHbKg&t=1738s)]*
 
 > <sup>[5](/bible/isaiah/33#v5)</sup> The Lord is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
->
-> <sup>[6](/bible/isaiah/33#v6)</sup> And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.
 
 - The Lord is exalted: Hold on. The Lord is exalted.
 
@@ -329,6 +327,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - He hath filled Zion with judgment: Hold. He done what? Filled Zion with judgment. How did he fill Zion with judgment? The prophets are teaching the Bible, teaching judgment, teaching righteousness, man.
 
 - And righteousness: And what? And righteousness. Mean what? Somebody going to be out there teaching thus saith the Lord, as it is written, not your foolish pastors on Sunday.
+
+> <sup>[6](/bible/isaiah/33#v6)</sup> And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.
 
 - And wisdom and knowledge shall be the stability of thy times: So as a result of the teaching, the wisdom of the teaching and the knowledge of the teaching is going to do what? Shall be the stability of thy time. That's going to be what stabilizes the minds of our people. That's what's going to heal the minds of our people.
 
@@ -340,10 +340,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Sirach 1:26-27](/bible/sirach/1#v26)**  *[[30:39](https://www.youtube.com/watch?v=70kGKupHbKg&t=1839s)]*
 
 > <sup>[26](/bible/sirach/1#v26)</sup> If thou desire wisdom, keep the commandments, and the Lord shall give her unto thee.
->
-> <sup>[27](/bible/sirach/1#v27)</sup> For the fear of the Lord is wisdom and instruction: and faith and meekness are his delight.
 
 - If thou desire wisdom, keep the commandments: So if you want wisdom, the Bible says, brother, you, sister, you have to keep the commandments.
+
+> <sup>[27](/bible/sirach/1#v27)</sup> For the fear of the Lord is wisdom and instruction: and faith and meekness are his delight.
 
 - For the fear of the Lord is wisdom: For what? The fear of the Lord. The fear of the Lord is wisdom.
 
@@ -380,8 +380,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Isaiah 14:1-2](/bible/isaiah/14#v1)**  *[[33:50](https://www.youtube.com/watch?v=70kGKupHbKg&t=2030s)]*
 
 > <sup>[1](/bible/isaiah/14#v1)</sup> For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
->
-> <sup>[2](/bible/isaiah/14#v2)</sup> And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
 
 - For the Lord will have mercy on Jacob: So the Lord is going to have mercy on Jacob, you 12 tribes.
 
@@ -390,6 +388,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - And the strangers shall be joined with them: And it says, and the strangers are going to be joined with us.
 
 - And they shall cleave to the house of Jacob: They going to do what we tell them to do.
+
+> <sup>[2](/bible/isaiah/14#v2)</sup> And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.
 
 - And the people shall take them: So, and we going to take them, meaning we not asking any questions.
 
@@ -433,8 +433,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Isaiah 42:6-7](/bible/isaiah/42#v6)**  *[[36:48](https://www.youtube.com/watch?v=70kGKupHbKg&t=2208s)]*
 
 > <sup>[6](/bible/isaiah/42#v6)</sup> I the Lord have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;
->
-> <sup>[7](/bible/isaiah/42#v7)</sup> To open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house.
 
 - I the Lord have called thee in righteousness: The Lord has called us in righteousness, meaning what? Walking in the commandments of the Lord, in ordinances blameless, meaning keeping them as they're written.
 
@@ -443,6 +441,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 - For a light of the Gentiles: So that's what we are. We are that light that is set on a hill, a city that is set on the hill, to what? To the Gentiles. Talking about what? Our brothers and sisters in a gentile state of mind. We were once all in a gentile state of mind, make no mistake about it. We thought just like most of you brothers and sisters that's tuning in thought. Most of us came out of the Christian church, some of us came out of Islam. We all once believe the same foolish things. Read that again. We in this building.
 
 - And will keep thee, and give thee for a covenant of the people, for a light of the Gentiles: So what is... when the lights turned on, you can see. Not only is the light turned on to give us sight, but the Lord is holding our hand, guiding us.
+
+> <sup>[7](/bible/isaiah/42#v7)</sup> To open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house.
 
 - To open the blind eyes: To do what? To open the blind eyes. So now our eyes have been opened, cuz we was blind to all the evil and the wickedness before the Lord called us into the light.
 
@@ -459,10 +459,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[2 Timothy 2:24-26](/bible/2-timothy/2#v24)**  *[[39:04](https://www.youtube.com/watch?v=70kGKupHbKg&t=2344s)]*
 
 > <sup>[24](/bible/2-timothy/2#v24)</sup> And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,
->
-> <sup>[25](/bible/2-timothy/2#v25)</sup> In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
->
-> <sup>[26](/bible/2-timothy/2#v26)</sup> And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 
 - And the servant of the Lord must not strive: So it's our job not to strive. We not arguing back and forth. What we teach, that's what it is.
 
@@ -470,9 +466,13 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 - Apt to teach: And we got to always be willing to teach. We must always have the ability to teach whenever called upon.
 
+> <sup>[25](/bible/2-timothy/2#v25)</sup> In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
+
 - In meekness instructing those that oppose themselves: So it says in obedience... meekness means obedience. Instructing those that are in opposition to themselves. How do they oppose themselves? Cuz they're living a life of sin. That's opposition to themselves.
 
 - If God peradventure will give them repentance to the acknowledging of the truth: So this comes from the Lord. That's why it says what it says in Isaiah 42. That's the Lord that's going to call out of the darkness, to give sight to the blind, so you can open your eyes to acknowledge and see the truth. Watch this.
+
+> <sup>[26](/bible/2-timothy/2#v26)</sup> And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 
 - And that they may recover themselves out of the snare of the devil: So it says that they may recover themselves out of the snare of the devil. That's talking about that prison that we read in Isaiah 42. Watch this.
 
@@ -517,22 +517,22 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Isaiah 14:3-6](/bible/isaiah/14#v3)**  *[[43:33](https://www.youtube.com/watch?v=70kGKupHbKg&t=2613s)]*
 
 > <sup>[3](/bible/isaiah/14#v3)</sup> And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
->
-> <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
->
-> <sup>[5](/bible/isaiah/14#v5)</sup> The Lord hath broken the staff of the wicked, and the sceptre of the rulers.
->
-> <sup>[6](/bible/isaiah/14#v6)</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
 
 - That the Lord shall give thee rest from thy sorrow: So the sorrow, the bruising, that's what gave us the sorrow. What does that look like? Black-on-black crime, police brutality, slavery, colonialism, racism, institutionalized racism, poor housing and education. The Lord going to give us rest from all that. Sickly bodies.
 
 - And from thy fear: Fear meaning what? You get the red and blue lights flashing behind you, you don't know if you going to make it home or not, or to the destination that you traveling. That's just one example.
 
+> <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
+
 - That thou shalt take up this proverb against the king of Babylon: Watch this. So we going to take up this proverb, this Bible, against the king of Babylon. That's America, the USA. We're going to take up the scriptures against it and say death and destruction till you, thus saith the Lord.
 
 - And say, How hath the oppressor ceased: And we going to say how had the oppressor ceased, because it's going to be destroyed, thus saith the Lord. Whether y'all like it or not, that's what it is.
 
+> <sup>[5](/bible/isaiah/14#v5)</sup> The Lord hath broken the staff of the wicked, and the sceptre of the rulers.
+
 - The Lord hath broken the staff of the wicked: So the Bible says the Lord broken the staff of the wicked. What was the wicked doing with that staff? Bruising our backside.
+
+> <sup>[6](/bible/isaiah/14#v6)</sup> He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.
 
 - He who smote the people: Watch this. Hold on. He did what with that rod? Smoked the people. So with that staff, with that rod in his hand, he smoked the people.
 
@@ -546,14 +546,6 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Luke 4:18-22](/bible/luke/4#v18)**  *[[46:43](https://www.youtube.com/watch?v=70kGKupHbKg&t=2803s)]*
 
 > <sup>[18](/bible/luke/4#v18)</sup> The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
->
-> <sup>[19](/bible/luke/4#v19)</sup> To preach the acceptable year of the Lord.
->
-> <sup>[20](/bible/luke/4#v20)</sup> And he closed the book, and he gave it again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him.
->
-> <sup>[21](/bible/luke/4#v21)</sup> And he began to say unto them, This day is this scripture fulfilled in your ears.
->
-> <sup>[22](/bible/luke/4#v22)</sup> And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph’s son?
 
 - Because he hath anointed me to preach the gospel to the poor: So we went through that.
 
@@ -561,9 +553,17 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 - To set at liberty them that are bruised: That's talking about us that are bruised by this man, this oppression.
 
+> <sup>[19](/bible/luke/4#v19)</sup> To preach the acceptable year of the Lord.
+
 - To preach the acceptable year of the Lord: And that's the day appointed on the return of Christ.
 
+> <sup>[20](/bible/luke/4#v20)</sup> And he closed the book, and he gave it again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him.
+
 - And the eyes of all them that were in the synagogue were fastened on him: Because they couldn't believe that he went up there and broke it down like that. They said, what in the world? This man is teaching with power and authority.
+
+> <sup>[21](/bible/luke/4#v21)</sup> And he began to say unto them, This day is this scripture fulfilled in your ears.
+>
+> <sup>[22](/bible/luke/4#v22)</sup> And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph’s son?
 
 - And wondered at the gracious words which proceeded out of his mouth: So they said they wondered at the gracious words. Give me Isaiah 45, 1 and 2. They said they wondered at the gracious words. It's like, man, this brother broke it down, we never heard it like that. Hit the damn bomb, brother.
 
@@ -591,20 +591,10 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Mark 6:1-7](/bible/mark/6#v1)**  *[[50:32](https://www.youtube.com/watch?v=70kGKupHbKg&t=3032s)]*
 
 > <sup>[1](/bible/mark/6#v1)</sup> And he went out from thence, and came into his own country; and his disciples follow him.
->
-> <sup>[2](/bible/mark/6#v2)</sup> And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?
->
-> <sup>[3](/bible/mark/6#v3)</sup> Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
->
-> <sup>[4](/bible/mark/6#v4)</sup> But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
->
-> <sup>[5](/bible/mark/6#v5)</sup> And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.
->
-> <sup>[6](/bible/mark/6#v6)</sup> And he marvelled because of their unbelief. And he went round about the villages, teaching.
->
-> <sup>[7](/bible/mark/6#v7)</sup> And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;
 
 - And came into his own country: So he back in his hometown. You know, you think you going to get love. You understand what I'm saying? Like: I'm back in my city, dog, they going to show me love, man.
+
+> <sup>[2](/bible/mark/6#v2)</sup> And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?
 
 - He began to teach in the synagogue: So we reading the same account, in Mark.
 
@@ -616,6 +606,8 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 - That even such mighty works are wrought by his hands: And they like: hold on, we heard about the things that he doing, and then he breaking down the scriptures. But this how they going to discount it. Watch this.
 
+> <sup>[3](/bible/mark/6#v3)</sup> Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
+
 - Is not this the carpenter: Hold on. They said what? Is not this the carpenter? They said: hold on, ain't this man a carpenter? Don't he build houses?
 
 - The son of Mary: Hold on, that's the son of Mary, she live right around the corner. What this brother know about the scriptures?
@@ -624,15 +616,23 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 
 - And they were offended at him: And they couldn't even ackn... they acknowledged on one hand, then turn around was offended, said: hold on, this dude is a dusty construction worker, what he know about the Bible? That happened to many of us today. You go to your family, you break it down, they say: that sounded good, brother, but where did you learn that from? They throw it all out the window, because your family only know you for you. Keep reading, verse four.
 
+> <sup>[4](/bible/mark/6#v4)</sup> But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
+
 - A prophet is not without honour, but in his own country: He said you only in your own place where you get disrespected and discounted.
 
 - And among his own kin, and in his own house: Damn. Ain't that a mess? The people that know you, cuz they only know you for you, they don't know you as a prophet. So you not going to get the honor. You got to travel outside to another city to get that acknowledgement, man. That's what Christ is showing us.
+
+> <sup>[5](/bible/mark/6#v5)</sup> And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.
 
 - And he could there do no mighty work: Because they was just so vicious and evil. He said: man, I can't do nothing here, these Negroes is crazy.
 
 - Save that he laid his hands upon a few sick folk, and healed them: He only healed a couple people. He said: man, these jokers is... watch this.
 
+> <sup>[6](/bible/mark/6#v6)</sup> And he marvelled because of their unbelief. And he went round about the villages, teaching.
+
 - And he marvelled because of their unbelief: Now you talking about Christ. This man made all things, but the Negro made him marvel. He made everything, he seen the stupidity. He said: oh my God, what the hell is this? He could not even believe. This man is Jesus the Christ, the word of the almighty God, marveled at the nerry. He just utter astonishment from what he saw. He raising people from the dead, but the Negro marveled him. Read that one more time. He marveled: damn, I'm healing people, giving sight to the blind, they seeing all this, they heard of the fame, and they still don't believe. Christ marveled, man. That let you... only black people. Only black people.
+
+> <sup>[7](/bible/mark/6#v7)</sup> And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;
 
 - And he called unto him the twelve: Oh, my fault. Go back to Luke 4, excuse me. Go back to Luke 4.
 
@@ -644,36 +644,36 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 > <sup>[23](/bible/luke/4#v23)</sup> And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country.
 >
 > <sup>[24](/bible/luke/4#v24)</sup> And he said, Verily I say unto you, No prophet is accepted in his own country.
->
-> <sup>[25](/bible/luke/4#v25)</sup> But I tell you of a truth, many widows were in Israel in the days of Elias, when the heaven was shut up three years and six months, when great famine was throughout all the land;
->
-> <sup>[26](/bible/luke/4#v26)</sup> But unto none of them was Elias sent, save unto Sarepta, a city of Sidon, unto a woman that was a widow.
->
-> <sup>[27](/bible/luke/4#v27)</sup> And many lepers were in Israel in the time of Eliseus the prophet; and none of them was cleansed, saving Naaman the Syrian.
->
-> <sup>[28](/bible/luke/4#v28)</sup> And all they in the synagogue, when they heard these things, were filled with wrath,
->
-> <sup>[29](/bible/luke/4#v29)</sup> And rose up, and thrust him out of the city, and led him unto the brow of the hill whereon their city was built, that they might cast him down headlong.
->
-> <sup>[30](/bible/luke/4#v30)</sup> But he passing through the midst of them went his way,
->
-> <sup>[31](/bible/luke/4#v31)</sup> And came down to Capernaum, a city of Galilee, and taught them on the sabbath days.
 
 - No prophet is accepted in his own country: He said: look, man, y'all want me to do these miracles here. No prophet, no matter what I do, I'm not gonna be accepted in my own country. Crystal clear.
 
+> <sup>[25](/bible/luke/4#v25)</sup> But I tell you of a truth, many widows were in Israel in the days of Elias, when the heaven was shut up three years and six months, when great famine was throughout all the land;
+
 - Many widows were in Israel in the days of Elias: That's Elijah.
 
+> <sup>[26](/bible/luke/4#v26)</sup> But unto none of them was Elias sent, save unto Sarepta, a city of Sidon, unto a woman that was a widow.
+
 - Save unto Sarepta, a city of Sidon, unto a woman that was a widow: So outside of... Elijah had to get honor. That's in First Kings, I think it's First Kings 17, we not going to get it. But this sister obeyed. She didn't have much food, but Elijah said: hey, go out there and make and prepare food for me. And as a result, he said your corn and oil will never diminish. So the sister obeyed. That's why he was sent there. But to your own, you can't work miracles, you can't teach the gospel, cuz they going to cast it behind them, cuz they only know you for you.
+
+> <sup>[27](/bible/luke/4#v27)</sup> And many lepers were in Israel in the time of Eliseus the prophet; and none of them was cleansed, saving Naaman the Syrian.
 
 - And many lepers were in Israel in the time of Eliseus the prophet: And there was a lot of lepers amongst us as a people.
 
 - Saving Naaman the Syrian: So the heathen. When you read that account, that's in 2 Kings 5, where Elisha cured him of his leprosy. But it was lepers of his own people. They didn't want to hear the word, so they stayed lepers. He had to go heal a damn heathen. The hell is this? To get honor, to get respect.
 
+> <sup>[28](/bible/luke/4#v28)</sup> And all they in the synagogue, when they heard these things, were filled with wrath,
+
 - And all they in the synagogue, when they heard these things, were filled with wrath: And as a result of them hearing that... they was mad as hell.
+
+> <sup>[29](/bible/luke/4#v29)</sup> And rose up, and thrust him out of the city, and led him unto the brow of the hill whereon their city was built, that they might cast him down headlong.
 
 - And rose up, and thrust him out of the city: They threw him out. He got thrown out of his own hometown.
 
 - That they might cast him down headlong: You see that? They want to throw him off the side of the damn cliff. You know that only black folk, man. They got so offended, so triggered by his teaching, they said: hey, we got to get him up out of here. Y'all see that? When y'all see us with the church blitzers, you got brothers, pastors pulling out guns, grandma hitting us in his head with his shoe, the pastor calling the neighborhood thugs to run us off. Because they offended by the teaching, man, in your own damn city. We conduct these church blitzes in our own city, man.
+
+> <sup>[30](/bible/luke/4#v30)</sup> But he passing through the midst of them went his way,
+>
+> <sup>[31](/bible/luke/4#v31)</sup> And came down to Capernaum, a city of Galilee, and taught them on the sabbath days.
 
 - And came down to Capernaum, a city of Galilee: So he had to go down to Capernaum.
 
@@ -694,56 +694,56 @@ tags: ["15 Minutes w/ The Captains", "wisdom"]
 **[Luke 4:31-44](/bible/luke/4#v31)**  *[[58:19](https://www.youtube.com/watch?v=70kGKupHbKg&t=3499s)]*
 
 > <sup>[31](/bible/luke/4#v31)</sup> And came down to Capernaum, a city of Galilee, and taught them on the sabbath days.
->
-> <sup>[32](/bible/luke/4#v32)</sup> And they were astonished at his doctrine: for his word was with power.
->
-> <sup>[33](/bible/luke/4#v33)</sup> And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,
->
-> <sup>[34](/bible/luke/4#v34)</sup> Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God.
->
-> <sup>[35](/bible/luke/4#v35)</sup> And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not.
->
-> <sup>[36](/bible/luke/4#v36)</sup> And they were all amazed, and spake among themselves, saying, What a word is this! for with authority and power he commandeth the unclean spirits, and they come out.
->
-> <sup>[37](/bible/luke/4#v37)</sup> And the fame of him went out into every place of the country round about.
->
-> <sup>[38](/bible/luke/4#v38)</sup> And he arose out of the synagogue, and entered into Simon’s house. And Simon’s wife’s mother was taken with a great fever; and they besought him for her.
->
-> <sup>[39](/bible/luke/4#v39)</sup> And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them.
->
-> <sup>[40](/bible/luke/4#v40)</sup> Now when the sun was setting, all they that had any sick with divers diseases brought them unto him; and he laid his hands on every one of them, and healed them.
->
-> <sup>[41](/bible/luke/4#v41)</sup> And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ.
->
-> <sup>[42](/bible/luke/4#v42)</sup> And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them.
->
-> <sup>[43](/bible/luke/4#v43)</sup> And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.
->
-> <sup>[44](/bible/luke/4#v44)</sup> And he preached in the synagogues of Galilee.
 
 - And taught them on the sabbath days: So he taught them on the sabbath days, like Paul did in Acts 17.
 
+> <sup>[32](/bible/luke/4#v32)</sup> And they were astonished at his doctrine: for his word was with power.
+
 - For his word was with power: You see that? He didn't teach with the smooth words. He taught with power and authority.
+
+> <sup>[33](/bible/luke/4#v33)</sup> And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,
+>
+> <sup>[34](/bible/luke/4#v34)</sup> Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God.
 
 - I know thee who thou art; the Holy One of God: You see that? Even the damn demons know who he is, but his own damn people say get the hell out. Not only they want to throw him off the cliff, but a demon recognize who he is.
 
+> <sup>[35](/bible/luke/4#v35)</sup> And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not.
+>
+> <sup>[36](/bible/luke/4#v36)</sup> And they were all amazed, and spake among themselves, saying, What a word is this! for with authority and power he commandeth the unclean spirits, and they come out.
+
 - Saying, What a word is this: They was say what a word is this. This dude is breaking it down, this dude is commanding unclean evil spirits, man. But in his own town, rejected.
+
+> <sup>[37](/bible/luke/4#v37)</sup> And the fame of him went out into every place of the country round about.
 
 - And the fame of him went out into every place of the country round about: So the fame went out to every place except for his own damn city.
 
+> <sup>[38](/bible/luke/4#v38)</sup> And he arose out of the synagogue, and entered into Simon’s house. And Simon’s wife’s mother was taken with a great fever; and they besought him for her.
+
 - And Simon's wife's mother was taken with a great fever: So Simon's wife's mother, his mother-in-law, was taken with a great fever.
+
+> <sup>[39](/bible/luke/4#v39)</sup> And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them.
 
 - And rebuked the fever: Man, he rebuked the fever. That's some crazy wording right there. He rebuked the dag on fever. Damn.
 
+> <sup>[40](/bible/luke/4#v40)</sup> Now when the sun was setting, all they that had any sick with divers diseases brought them unto him; and he laid his hands on every one of them, and healed them.
+
 - All they that had any sick with divers diseases brought them unto him: You see that? They understood, they valued this man, but in his own city he was rejected. They brought all types of people to get healed. Watch this.
+
+> <sup>[41](/bible/luke/4#v41)</sup> And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ.
 
 - And devils also came out of many: So he rebuked many devils.
 
 - For they knew that he was Christ: Right, because it wasn't his time to be fully revealed yet. So he had to rebuke and say: hold on. He had to silence them. And he was cleaning our people up. That's the power of the word of the Most High. That's why I go back to heal the brokenhearted, cuz many of us are sick in the mind, with many spirits on us. Only way we can get them off is the word of God, and fasting and praying. Understand that thing.
 
+> <sup>[42](/bible/luke/4#v42)</sup> And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them.
+
 - And stayed him, that he should not depart from them: Right, they didn't want him to leave, because they recognized what he was doing. He was cleaning up the people. He cared for the people, man.
 
+> <sup>[43](/bible/luke/4#v43)</sup> And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.
+
 - I must preach the kingdom of God to other cities also: So you see that they had the love for him, and said: I got to go, family, I got to preach the kingdom of God to the other cities. Other brothers and sisters throughout the four corners must hear this gospel. That's why it's imperative that you brothers and sisters, y'all take out time, get your phones out and subscribe, cuz this gospel that Christ taught, we teaching the same gospel. It must go throughout to the other cities, throughout the four corners of this earth, man.
+
+> <sup>[44](/bible/luke/4#v44)</sup> And he preached in the synagogues of Galilee.
 
 
 ## In Closing

@@ -56,10 +56,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 > <sup>[4](/bible/1-corinthians/15#v4)</sup> And that he was buried, and that he rose again the third day according to the scriptures:
 >
 > <sup>[5](/bible/1-corinthians/15#v5)</sup> And that he was seen of Cephas, then of the twelve:
->
-> <sup>[6](/bible/1-corinthians/15#v6)</sup> After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
 
 - And that he was seen of Cephas, then of the twelve: So after he rose from the dead, he was seen. He was witnessed. Like Peter said in Acts five, we are his witnesses. We know Christ rose from the dead. We spoke with him. We felt him after he rose from the dead.
+
+> <sup>[6](/bible/1-corinthians/15#v6)</sup> After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
 
 - After that, he was seen of above five hundred brethren at once: Right. So after he appeared to the 12, he appeared to 500 more brothers in Christ.
 
@@ -73,14 +73,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 **[2 Thessalonians 2:1-3](/bible/2-thessalonians/2#v1)**  *[[24:30](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=1470s)]*
 
 > <sup>[1](/bible/2-thessalonians/2#v1)</sup> Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,
->
-> <sup>[2](/bible/2-thessalonians/2#v2)</sup> That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
->
-> <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
 - And by our gathering together unto him: By our gathering together unto him.
 
+> <sup>[2](/bible/2-thessalonians/2#v2)</sup> That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
+
 - As that the day of Christ is at hand: As that the day of Christ is at hand, you had people troubling the brothers and sisters in the churches teaching that Christ was going to come back back then. Christ was going to spin the block. Christ was finna double back in that time. So Christ, I mean Paul had to correct that in the spirit of Christ.
+
+> <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
 - Let no man deceive you by any means: for that day shall not come, except there come a falling away first: Right? So Paul said, don't let nobody deceive you and think that the day of the Lord is at hand already. No, no, no. Remember what Christ said in Luke chapter 21. The armies got to surround Jerusalem, besiege it. The temple got to be destroyed. The Jews that don't listen to me and flee, they going to be led away captive into all nations. All that got to be fulfilled. That's the falling away that must happen first. That's in reference to 70 AD.
 
@@ -99,16 +99,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 **[Acts 20:28-30](/bible/acts/20#v28)**  *[[29:10](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=1750s)]*
 
 > <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
->
-> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
->
-> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
 - Take heed therefore unto yourselves, and to all the flock: Now this is when he met the leaders of Ephesus on the coast of Asia Minor, because he wasn't able to go into Ephesus. He was on his way to Jerusalem. So they met him at the coast and this is what he made sure he warned them about.
+
+> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 
 - Grievous wolves enter in among you, not sparing the flock: Right? Grievous wolves going to enter in among you, not sparing the flock. So this is very reminiscent of Ezekiel 22 and Zephaniah. Yes, Zephaniah chapter 3. It actually mentions the false prophets during the time of Jeremiah and Zephaniah and all of them. You had men during the time of Jeremiah, you had men that were prophets. You had professed themselves to be prophets, right, of whatever tribe of the southern kingdom. And then you had the priests, which were of course from Levi. This was before we went fully into captivity under Babylon. This was going on.
 
 - The same spirits came back doing the same thing during Christ's time and during the apostles' time. The false prophets was the Pharisees. The damn wicked priests was the Sadducees. It's the same thing. And the prophets always called them wolves ravening the prey, preying on the people, the souls of the Israelites. All right. So that's what Paul is talking about. You're going to have former Pharisees, former Sadducees, them grievous wolves that the prophets spoke about, them same spirits going to enter in among you, not sparing the flock.
+
+> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
 - Also of your own selves shall men arise, speaking perverse things: And that spirit going to get on some of you elders that I'm talking to right now. Some of y'all going to bug the hell out, right?
 
@@ -120,10 +120,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 **[Galatians 1:6-7](/bible/galatians/1#v6)**  *[[33:55](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=2035s)]*
 
 > <sup>[6](/bible/galatians/1#v6)</sup> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
->
-> <sup>[7](/bible/galatians/1#v7)</sup> Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 
 - Unto another gospel: Unto a what? Another gospel.
+
+> <sup>[7](/bible/galatians/1#v7)</sup> Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 
 - And would pervert the gospel of Christ: And will pervert the gospel of Christ. So you had people coming in perverting the gospel of Christ. Again in this context going into the Pharisees that was feigning themselves just men, just to draw away disciples after them, teaching that you had to come back to the law of Moses. So depending on your background, right? You would come into the church with a certain doctrine related to your background and pervert the gospel of Christ to draw away disciples after yourself. That's what was going on.
 
@@ -142,14 +142,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 **[Luke 19:11-13](/bible/luke/19#v11)**  *[[37:26](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=2246s)]*
 
 > <sup>[11](/bible/luke/19#v11)</sup> And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
->
-> <sup>[12](/bible/luke/19#v12)</sup> He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.
->
-> <sup>[13](/bible/luke/19#v13)</sup> And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.
 
 - Because they thought that the kingdom of God should immediately appear: That's how the people was thinking. They was think, okay, you the Messiah, you Christ. Come on. That's how they looked at it. That's how they looked at it. So Christ had to put forth a parable to illustrate something about how this is going to actually work.
 
+> <sup>[12](/bible/luke/19#v12)</sup> He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.
+
 - A certain nobleman went into a far country to receive for himself a kingdom, and to return: Right? So this certain man is talking about himself. That far country is talking about Acts chapter one when he ascended into the heaven and sit with his father, right? That's a far country, paradise, right? So eventually he's going to return.
+
+> <sup>[13](/bible/luke/19#v13)</sup> And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.
 
 - Occupy till I come: Do what? Occupy till I come. So y'all can't come with me right now, but I'm going to give y'all my spirit. You reading Acts one? The Holy Spirit going to come upon you. And what I need you to do with that spirit is labor. Occupy that spirit. Labor. Put in the work. Spread this gospel through the uttermost parts of the earth. You understand? And that would have to happen not only at that time before 70 AD but also after the prophecy of us being led away captive into all nations, which would take place for the next thousand plus years. That would have to happen as well during that time. That's why he told John the Revelator in Revelation 10, you're going to prophesy again. You understand? So that's what Christ had to teach. But it was going over people head. It was going over their head. All right. But Christ, you know, he was teaching. Listen, it's not going to immediately appear.
 
@@ -157,10 +157,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 **[Acts 1:6-7](/bible/acts/1#v6)**  *[[40:06](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=2406s)]*
 
 > <sup>[6](/bible/acts/1#v6)</sup> When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?
->
-> <sup>[7](/bible/acts/1#v7)</sup> And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
 
 - Lord, wilt thou at this time restore again the kingdom to Israel: You see that? And this is after Christ died and resurrected and opened unto them the scriptures and all of that. And this is how you know we are the people, we slow. The disciples was a little... But they really, okay, so has it been enough time yet? Like, okay, you done rose. You know what's up? Is it go time?
+
+> <sup>[7](/bible/acts/1#v7)</sup> And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
 
 - It is not for you to know the times or the seasons: It is not for you to know the times and the seasons.
 
@@ -182,13 +182,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 
 **[John 6:39-40](/bible/john/6#v39)**  *[[42:45](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=2565s)]*
 
-> <sup>[39](/bible/john/6#v39)</sup> And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
->
-> <sup>[40](/bible/john/6#v40)</sup> And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
-
 - Just showing y'all Christ himself taught the resurrection. He said, "I am the resurrection," in John chapter 11.
 
+> <sup>[39](/bible/john/6#v39)</sup> And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
+
 - Of all which he hath given me I should lose nothing, but should raise it up again at the last day: Right? So remember that, all that he hath given me I shall lose nothing. That doctrine that was being taught about there being no resurrection, that mean if you died, you was lost. Cuz there ain't no resurrection. But Christ said, "All that thou has given me," meaning all them that believe in me, I'm not going to lose none of them, but I'm going to raise it up again in the last day.
+
+> <sup>[40](/bible/john/6#v40)</sup> And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
 
 - And I will raise him up at the last day: I will do what? Raise him up at the last day. I will raise him up at the last day. That's why Martha, Lazarus's sister, she was like, I know, you know, at the resurrection, you going to raise him up at the last day. I am the resurrection and the life. I'm right here, right now. I got the power to raise him up right now. He ain't got to be.
 
@@ -197,13 +197,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 
 **[Matthew 19:27-28](/bible/matthew/19#v27)**  *[[44:32](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=2672s)]*
 
-> <sup>[27](/bible/matthew/19#v27)</sup> Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
->
-> <sup>[28](/bible/matthew/19#v28)</sup> And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
-
 - Just dealing with that, in this life we are of all men most miserable. This the type of time Peter was on.
 
+> <sup>[27](/bible/matthew/19#v27)</sup> Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
+
 - Behold, we have forsaken all, and followed thee; what shall we have therefore: So what's going to be the reward for us forsaking everything? That's a miserable life. You forsake your livelihood, your people, your daily, you know, whatever, your life as you knew it. You forsook it to follow the son of God. What's going to be the reward in their life?
+
+> <sup>[28](/bible/matthew/19#v28)</sup> And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
 
 - Ye which have followed me, in the regeneration: In the what? In the regeneration. Remember we read in Acts, that was way after this right here. Just showing you, bro, a lot of stuff it was just going over the head. Christ said ye which have followed me. What he's saying is don't really expect nothing but the, you know, the fruits of the spirit. You know what I'm saying? Don't expect nothing in this life, the kingdom is not going to immediately appear. But in the regeneration,
 
@@ -245,34 +245,34 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 
 **[Romans 8:23-25](/bible/romans/8#v23)**  *[[50:56](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=3056s)]*
 
-> <sup>[23](/bible/romans/8#v23)</sup> And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
->
-> <sup>[24](/bible/romans/8#v24)</sup> For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?
->
-> <sup>[25](/bible/romans/8#v25)</sup> But if we hope for that we see not, then do we with patience wait for it.
-
 - Still dealing with that hope. And we obviously not gonna get to it, but basically the whole first Corinthians 15, Paul just get deeper and deeper dealing with resurrection and us being changed and receiving our immortal bodies. Oh, that always been a damn hope. That always been a, not the damn hope, but you know, it always been a hope.
 
+> <sup>[23](/bible/romans/8#v23)</sup> And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
+
 - Waiting for the adoption, to wit, the redemption of our body: Waiting for the redemption of our body. Redemption is to get back, right? To repurchase, to buy back. So the redemption of our body. Interesting.
+
+> <sup>[24](/bible/romans/8#v24)</sup> For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?
 
 - For we are saved by hope: We are what? Saved by hope. We are saved by hope.
 
 - But hope that is seen is not hope: So wait, but hope that is seen. If you could see what you hoping for, that ain't hope. What the hell? That just a goal. That ain't hope. You understand?
+
+> <sup>[25](/bible/romans/8#v25)</sup> But if we hope for that we see not, then do we with patience wait for it.
 
 - But if we hope for that we see not, then do we with patience wait for it: If we hope for what we see not, right? The redemption of our body. With patience we got to wait for it.
 
 
 **[2 Corinthians 5:1-2](/bible/2-corinthians/5#v1)**  *[[51:54](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=3114s)]*
 
-> <sup>[1](/bible/2-corinthians/5#v1)</sup> For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
->
-> <sup>[2](/bible/2-corinthians/5#v2)</sup> For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
-
 - Dealing with the redemption of our body. What does this mean?
+
+> <sup>[1](/bible/2-corinthians/5#v1)</sup> For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
 
 - If our earthly house of this tabernacle were dissolved: So the earthly house is talking about your flesh. You understand? That's what we currently in right now. That's what we can see.
 
 - We have a building of God: So if this is dissolved, meaning if this body perish, we have a building of God. Meaning we got a body on reserve in the heavens.
+
+> <sup>[2](/bible/2-corinthians/5#v2)</sup> For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
 
 - For in this we groan, earnestly: In this we groan earnestly. That's what we just read in Romans 8.
 
@@ -281,21 +281,21 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 
 **[1 Corinthians 4:11-13](/bible/1-corinthians/4#v11)**  *[[53:38](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=3218s)]*
 
-> <sup>[11](/bible/1-corinthians/4#v11)</sup> Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
->
-> <sup>[12](/bible/1-corinthians/4#v12)</sup> And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
->
-> <sup>[13](/bible/1-corinthians/4#v13)</sup> Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
-
 - Still dealing with of all men most miserable. I know, you know, I ain't trying to beat it to the ground, but I want y'all to understand the point that Paul was driving home unto them.
 
+> <sup>[11](/bible/1-corinthians/4#v11)</sup> Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
+
 - We both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace: Look what they were going through, y'all. Hunger, thirst, naked, buffeted, being beat, no certain dwelling place. They being chased from city to city.
+
+> <sup>[12](/bible/1-corinthians/4#v12)</sup> And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
 
 - And labour, working with our own hands: Still got to work. You don't work, you don't eat. So through all that they still punching the clock.
 
 - Being reviled: Being slandered. Propaganda was against them.
 
 - Being persecuted, we suffer it: Being what? Being persecuted. Suffering persecution.
+
+> <sup>[13](/bible/1-corinthians/4#v13)</sup> Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
 
 - Being defamed: Being defamed. They a hate group. They a cult.
 
@@ -386,16 +386,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 **[1 Thessalonians 4:15-17](/bible/1-thessalonians/4#v15)**  *[[1:04:17](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=3857s)]*
 
 > <sup>[15](/bible/1-thessalonians/4#v15)</sup> For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.
->
-> <sup>[16](/bible/1-thessalonians/4#v16)</sup> For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
->
-> <sup>[17](/bible/1-thessalonians/4#v17)</sup> Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
 
 - We which are alive and remain unto the coming of the Lord shall not prevent them which are asleep: Right? So those of us that are still alive when Christ come back. Cuz some of us, like Christ also said, there some of y'all that ain't going to taste death when the son of man come in his glory, but all of that still is in the regeneration. He wasn't talking about that time period. Nevertheless, in the regeneration, those of us that are alive when Christ return, we're not going to prevent, meaning come before, them that died in Christ, that fell asleep.
+
+> <sup>[16](/bible/1-thessalonians/4#v16)</sup> For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
 
 - With the voice of the archangel, and with the trump of God: It's the same voice he spoke about in John chapter 5.
 
 - And the dead in Christ shall rise first: The dead in Christ shall rise first. That's who's coming with Christ.
+
+> <sup>[17](/bible/1-thessalonians/4#v17)</sup> Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
 
 - Then we which are alive and remain shall be caught up together with them in the clouds: So that's the order right there. Them that died in Christ, they coming with Christ first, and then us that's alive and remaining, Lord's willing, we going to be caught up in the clouds with them. And that's going to be the gathering together unto him that Paul spoke about in 2 Thessalonians 2 and one.
 
@@ -412,13 +412,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "persecution", "salvation"]
 
 **[Matthew 24:30-31](/bible/matthew/24#v30)**  *[[1:06:51](https://www.youtube.com/watch?v=nbmPCeAjf1A&t=4011s)]*
 
-> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
->
-> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
-
 - And them that alive and remain going to be caught up in the clouds with them.
 
+> <sup>[30](/bible/matthew/24#v30)</sup> And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+
 - And then shall all the tribes of the earth mourn: That's talking about the 12 tribes. Zechariah 12 talks about how we going to see him. We going to weep. We going to mourn.
+
+> <sup>[31](/bible/matthew/24#v31)</sup> And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
 
 - And they shall gather together his elect from the four winds: They shall what? Gather together his elect from the four winds, from one end of heaven to the other. Right? We're going to be caught up in the clouds, meaning the chariots, with them. You understand? With Christ and those that died in Christ that was resurrected first. You understand?
 

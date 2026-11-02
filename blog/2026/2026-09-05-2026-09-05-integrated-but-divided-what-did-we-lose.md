@@ -350,13 +350,11 @@ The five dollar Indian.
 
 **[Leviticus 20:24-26](/bible/leviticus/20#v24)**  *[[1:17:57](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=4677s)]*
 
+- But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey. I am the Lord your God, which have separated you from other people. What did God do? Separated you from other people. God separated us from other people. God do not want us with them, right?
+
 > <sup>[24](/bible/leviticus/20#v24)</sup> But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the Lord your God, which have separated you from other people.
 >
 > <sup>[25](/bible/leviticus/20#v25)</sup> Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.
->
-> <sup>[26](/bible/leviticus/20#v26)</sup> And ye shall be holy unto me: for I the Lord am holy, and have severed you from other people, that ye should be mine.
-
-- But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey. I am the Lord your God, which have separated you from other people. What did God do? Separated you from other people. God separated us from other people. God do not want us with them, right?
 
 - Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean. That is talking about clean food and unclean food. Why did God put that? Because that nation was doing that. God said, no, you should not do that.
 
@@ -366,11 +364,9 @@ The five dollar Indian.
 
 - That ye should be mine. You should be what? Mine.
 
-**[Exodus 19:5-6](/bible/exodus/19#v5)**  *[[1:19:51](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=4791s)]*
+> <sup>[26](/bible/leviticus/20#v26)</sup> And ye shall be holy unto me: for I the Lord am holy, and have severed you from other people, that ye should be mine.
 
-> <sup>[5](/bible/exodus/19#v5)</sup> Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:
->
-> <sup>[6](/bible/exodus/19#v6)</sup> And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
+**[Exodus 19:5-6](/bible/exodus/19#v5)**  *[[1:19:51](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=4791s)]*
 
 - Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure. We are going to be what? A peculiar treasure.
 
@@ -378,21 +374,25 @@ The five dollar Indian.
 
 - Because you know what integration is? Integration is that they are on top, we are on the bottom. That is what it is. God said, no, we on top. We the top people on the planet earth.
 
+> <sup>[5](/bible/exodus/19#v5)</sup> Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:
+
 - For all the earth is mine: and ye shall be unto me a kingdom of priests, and an holy nation. We shall be to God a kingdom of priests. And an holy nation — a separate nation, a holy nation.
 
 - These are the words which thou shalt speak unto the children of Israel.
 
+> <sup>[6](/bible/exodus/19#v6)</sup> And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
+
 **[Exodus 23:31-33](/bible/exodus/23#v31)**  *[[1:21:40](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=4900s)]*
 
 > <sup>[31](/bible/exodus/23#v31)</sup> And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.
->
-> <sup>[32](/bible/exodus/23#v32)</sup> Thou shalt make no covenant with them, nor with their gods.
->
-> <sup>[33](/bible/exodus/23#v33)</sup> They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee.
 
 - And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.
 
 - Thou shalt make no covenant with them. God said what? Thou shalt make no covenant with them. We should not make no covenant with that nation. Nor with their gods. Nor with what? With their gods.
+
+> <sup>[32](/bible/exodus/23#v32)</sup> Thou shalt make no covenant with them, nor with their gods.
+>
+> <sup>[33](/bible/exodus/23#v33)</sup> They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee.
 
 - They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee.
 
@@ -400,21 +400,17 @@ The five dollar Indian.
 
 **[Exodus 34:12-16](/bible/exodus/34#v12)**  *[[1:23:36](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=5016s)]*
 
-> <sup>[12](/bible/exodus/34#v12)</sup> Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:
->
-> <sup>[13](/bible/exodus/34#v13)</sup> But ye shall destroy their altars, break their images, and cut down their groves:
->
-> <sup>[14](/bible/exodus/34#v14)</sup> For thou shalt worship no other god: for the Lord, whose name is Jealous, is a jealous God:
->
-> <sup>[15](/bible/exodus/34#v15)</sup> Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;
->
-> <sup>[16](/bible/exodus/34#v16)</sup> And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.
-
 - I am showing you segregation is in the Bible, because some of you said, oh no, no, no, God changed. There is no more segregation. We all are one. One love. To hell with your one love.
 
 - Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee.
 
 - But ye shall destroy their altars, break their images, and cut down their groves. You are going to do what? Destroy their altars. You have to destroy their altars.
+
+> <sup>[12](/bible/exodus/34#v12)</sup> Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:
+>
+> <sup>[13](/bible/exodus/34#v13)</sup> But ye shall destroy their altars, break their images, and cut down their groves:
+>
+> <sup>[14](/bible/exodus/34#v14)</sup> For thou shalt worship no other god: for the Lord, whose name is Jealous, is a jealous God:
 
 - For thou shalt worship no other god: for the Lord, whose name is Jealous, is a jealous God.
 
@@ -423,6 +419,10 @@ The five dollar Indian.
 - Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice. Because this is what happened. Now you start marrying their women, you start marrying their men. So what happened now? Now you start worshipping their gods. You put the true God on this side and you start worshipping their gods just to please them.
 
 - And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods. There is no interracial marriage in the Bible. There is no such thing as you love who you love. That is not in the Bible. I do not know what is wrong with these dumb Christians. God said, do not give your daughters to them. Do not take their sons for your daughters. That is what God said. But your dumb pastor said, hey, forget about what God said.
+
+> <sup>[15](/bible/exodus/34#v15)</sup> Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;
+>
+> <sup>[16](/bible/exodus/34#v16)</sup> And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.
 
 **[Deuteronomy 7:1-8](/bible/deuteronomy/7#v1)**  *[[1:29:56](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=5396s)]*
 
@@ -609,15 +609,15 @@ The five dollar Indian.
 
 **[Deuteronomy 15:10-11](/bible/deuteronomy/15#v10)**  *[[2:10:43](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=7843s)]*
 
-> <sup>[10](/bible/deuteronomy/15#v10)</sup> Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the Lord thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto.
->
-> <sup>[11](/bible/deuteronomy/15#v11)</sup> For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land.
-
 - Listen, brothers and sisters, we always had poor people in the midst of us, and there are always going to be there, right? This is the law that God set up.
+
+> <sup>[10](/bible/deuteronomy/15#v10)</sup> Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the Lord thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto.
 
 - Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the Lord thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto.
 
 - For the poor shall never cease out of the land. God said the poor are always going to be there. Remember Christ said the poor are always going to be with us? That is where I get it from. There are always going to be poor of our people for us to help.
+
+> <sup>[11](/bible/deuteronomy/15#v11)</sup> For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land.
 
 **[Psalms 37:25](/bible/psalms/37#v25)**  *[[2:11:40](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=7900s)]*
 
@@ -664,28 +664,24 @@ The five dollar Indian.
 **[Matthew 19:17-24](/bible/matthew/19#v17)**  *[[2:19:45](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=8385s)]*
 
 > <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
->
-> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
->
-> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
->
-> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
->
-> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
->
-> <sup>[22](/bible/matthew/19#v22)</sup> But when the young man heard that saying, he went away sorrowful: for he had great possessions.
->
-> <sup>[23](/bible/matthew/19#v23)</sup> Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
->
-> <sup>[24](/bible/matthew/19#v24)</sup> And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 
 - And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
 
+> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
+>
+> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
+
 - He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself. Keep in mind he is a rich man, come and ask Christ this question.
+
+> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
 
 - The young man saith unto him, All these things have I kept from my youth up: what lack I yet? So he said, Christ, I keep all these laws you just mentioned, what is it that I need to get the kingdom?
 
+> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
+
 - Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me. What is Christ telling this man? Sell everything, be homeless? That is not what he is saying. He is saying help your brothers, help your sisters in need. You got enough to help. Why do you not want to help them?
+
+> <sup>[22](/bible/matthew/19#v22)</sup> But when the young man heard that saying, he went away sorrowful: for he had great possessions.
 
 - But when the young man heard that saying, he went away sorrowful: for he had great possessions. This is what he said — he had great possessions, but he was not helping. He was not helping his brothers and his sisters.
 
@@ -696,6 +692,10 @@ The five dollar Indian.
 - And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 
 - Listen, we need to learn how to work together, because those things I am showing you about Jacob's trouble — look at the welfare system right now. A lot of our people become homeless. We cannot turn our back on them. That is why this donation is very important. Support these donations. We need to learn how to work together. What you are seeing right now is going to get harder and harder. And one thing we cannot do, we cannot let brothers and sisters sleep in the street with their children. For us to do that, we got to come together. Scan this right here. This does not only help us spread the gospel, this also helps us help brothers and sisters, not only in this state but also outside of America. Just like the scripture said, we have a lot of poor people in the midst of us. Our job as leaders — at the end of the day, those are our brothers and sisters. Help the best you can.
+
+> <sup>[23](/bible/matthew/19#v23)</sup> Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
+>
+> <sup>[24](/bible/matthew/19#v24)</sup> And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 
 
 **[Acts 11:28-30](/bible/acts/11#v28)**  *[[2:25:18](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=8718s)]*
@@ -760,10 +760,30 @@ The five dollar Indian.
 
 **[Matthew 6:25-34](/bible/matthew/6#v25)**  *[[2:35:52](https://www.youtube.com/watch?v=nx0AUmr2DM0&t=9352s)]*
 
+- So we have been talking about integration and segregation. Integration weakened our people. Because of integration, our people became weak. That is what integration does.
+
+- Before I read this, brothers and sisters, listen to what I am about to say. I said this last week, but I did not say it internationally. Stop stressing over Esau's jobs. Esau do not give a damn about none of you. Some of you, you stress over something that does not belong to you, and it is going to bring death unto you. Some of you, you are depressed over a company you are working for that does not belong to you. You are just a number. The minute you drop dead, you was already replaced before you were even put in the grave. They do not care about you. None of these nations give a damn about you. Go to work, do the best you can, and go home. Because when you drop dead, the only ones going to lose is your wife and your children.
+
+- Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. So Christ said, do not worry about what you are going to eat, what you are going to drink, or what you are going to wear.
+
 > <sup>[25](/bible/matthew/6#v25)</sup> Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
 >
 > <sup>[26](/bible/matthew/6#v26)</sup> Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
->
+
+- Is not the life more than meat, and the body than raiment? Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
+
+- Which of you by taking thought can add one cubit unto his stature? So by you stressing, by you worrying, can you change anything? Can you change tomorrow? So why are you worried about tomorrow?
+
+- And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin. So a lily is a flower. They grow. The flower do not go to work. How did it survive?
+
+- And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these. Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith? Is the grass you see outside more important than you? The bird — when is the last time you saw a bird plant anything? Did a chicken ever plant anything? The bird eats every day. How does the bird eat every day? Are you more important than the bird? Yes. But God finds a way to feed the bird, and the bird do not plant nothing, the bird do not work. How was God able to feed him? But you are more important than the bird. The bird do not worry about how he is going to eat tomorrow. Why do you worry?
+
+- Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed? For after all these things do the Gentiles seek. You see what God said? God said the other nations have got to worry about these things, not you. If you would believe, if you have faith. Because some of you do not have no faith. Some of you got very small faith. Some of you have no faith at all. That is why you are so stressed, because you have no faith. You need to build your faith up. Ask God to increase your faith.
+
+- For your heavenly Father knoweth that ye have need of all these things. God knows you have need of all these things.
+
+- But seek ye first the kingdom of God. Read that again. But seek ye first the kingdom of God. Some of you so stressed you cannot even open the Bible to read. Some of you so stressed you cannot fall asleep. That is how stressed you are. But the Bible says, seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. You got to have a lot of faith for that right there. Seek ye first the kingdom of God, and then these things are going to be added to you. In other words, if you do what the Bible said, you should not worry about nothing. As long as you stay in this Bible, as long as you keep these laws, brothers and sisters, do not worry about everything else.
+
 > <sup>[27](/bible/matthew/6#v27)</sup> Which of you by taking thought can add one cubit unto his stature?
 >
 > <sup>[28](/bible/matthew/6#v28)</sup> And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:
@@ -779,26 +799,6 @@ The five dollar Indian.
 > <sup>[33](/bible/matthew/6#v33)</sup> But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
 >
 > <sup>[34](/bible/matthew/6#v34)</sup> Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
-
-- So we have been talking about integration and segregation. Integration weakened our people. Because of integration, our people became weak. That is what integration does.
-
-- Before I read this, brothers and sisters, listen to what I am about to say. I said this last week, but I did not say it internationally. Stop stressing over Esau's jobs. Esau do not give a damn about none of you. Some of you, you stress over something that does not belong to you, and it is going to bring death unto you. Some of you, you are depressed over a company you are working for that does not belong to you. You are just a number. The minute you drop dead, you was already replaced before you were even put in the grave. They do not care about you. None of these nations give a damn about you. Go to work, do the best you can, and go home. Because when you drop dead, the only ones going to lose is your wife and your children.
-
-- Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. So Christ said, do not worry about what you are going to eat, what you are going to drink, or what you are going to wear.
-
-- Is not the life more than meat, and the body than raiment? Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
-
-- Which of you by taking thought can add one cubit unto his stature? So by you stressing, by you worrying, can you change anything? Can you change tomorrow? So why are you worried about tomorrow?
-
-- And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin. So a lily is a flower. They grow. The flower do not go to work. How did it survive?
-
-- And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these. Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith? Is the grass you see outside more important than you? The bird — when is the last time you saw a bird plant anything? Did a chicken ever plant anything? The bird eats every day. How does the bird eat every day? Are you more important than the bird? Yes. But God finds a way to feed the bird, and the bird do not plant nothing, the bird do not work. How was God able to feed him? But you are more important than the bird. The bird do not worry about how he is going to eat tomorrow. Why do you worry?
-
-- Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed? For after all these things do the Gentiles seek. You see what God said? God said the other nations have got to worry about these things, not you. If you would believe, if you have faith. Because some of you do not have no faith. Some of you got very small faith. Some of you have no faith at all. That is why you are so stressed, because you have no faith. You need to build your faith up. Ask God to increase your faith.
-
-- For your heavenly Father knoweth that ye have need of all these things. God knows you have need of all these things.
-
-- But seek ye first the kingdom of God. Read that again. But seek ye first the kingdom of God. Some of you so stressed you cannot even open the Bible to read. Some of you so stressed you cannot fall asleep. That is how stressed you are. But the Bible says, seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. You got to have a lot of faith for that right there. Seek ye first the kingdom of God, and then these things are going to be added to you. In other words, if you do what the Bible said, you should not worry about nothing. As long as you stay in this Bible, as long as you keep these laws, brothers and sisters, do not worry about everything else.
 
 - Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof. Let tomorrow take care of itself. The problem is some of you are never satisfied. Some of you never have enough.
 

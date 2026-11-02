@@ -54,7 +54,7 @@ Reading from *Foundations of Islam: The Making of a World Faith* by Benjamin Wal
 > <sup>[17](/bible/deuteronomy/4#v17)</sup> The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,
 >
 > <sup>[18](/bible/deuteronomy/4#v18)</sup> The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:
-
+>
 > <sup>[19](/bible/deuteronomy/4#v19)</sup> And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the Lord thy God hath divided unto all nations under the whole heaven.
 
 - The sun and the moon: heavenly bodies. And the stars: heavenly bodies. Even all the host of heaven, that's the heavenly bodies in total.

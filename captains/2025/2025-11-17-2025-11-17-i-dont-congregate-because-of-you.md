@@ -24,12 +24,12 @@ tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "repentance", "th
 **[Hebrews 10:24-25](/bible/hebrews/10#v24)**  *[[0:57](https://www.youtube.com/watch?v=RUOD_FCywwU&t=57s)]*
 
 > <sup>[24](/bible/hebrews/10#v24)</sup> And let us consider one another to provoke unto love and to good works:
->
-> <sup>[25](/bible/hebrews/10#v25)</sup> Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
 
 - And let us consider one another: Let us consider one another. When you at home, you cannot consider one another, because it's only you and your TV and the couch.
 
 - to provoke unto love and to good works: How can you provoke, or how can somebody else provoke you to good works, if you're not present? If you saying, You know what, I'm not going to congregate because of you, or because of that sister, or because of that brother.
+
+> <sup>[25](/bible/hebrews/10#v25)</sup> Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
 
 - Not forsaking the assembling of ourselves together: Not forsaking the assembly of ourselves.
 
@@ -41,12 +41,12 @@ tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "repentance", "th
 **[Hebrews 10:38-39](/bible/hebrews/10#v38)**  *[[1:58](https://www.youtube.com/watch?v=RUOD_FCywwU&t=118s)]*
 
 > <sup>[38](/bible/hebrews/10#v38)</sup> Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.
->
-> <sup>[39](/bible/hebrews/10#v39)</sup> But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
 
 - but if any man draw back: If any man draw back, meaning that what? You making an excuse now for you to forsake the Lord, for you to forsake the assembly of ourselves together.
 
 - my soul shall have no pleasure in him: No pleasure at all.
+
+> <sup>[39](/bible/hebrews/10#v39)</sup> But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
 
 - But we are not of them who draw back: We are not of them who draw back. Because once you start coming out, you making an excuse, say, Oh, I don't congregate because of you, because of you. Because of you, you are drawing back. And nine out of 10 that will lead you toward the world.
 
@@ -96,12 +96,12 @@ tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "repentance", "th
 **[Revelation 3:11-12](/bible/revelation/3#v11)**  *[[7:36](https://www.youtube.com/watch?v=RUOD_FCywwU&t=456s)]*
 
 > <sup>[11](/bible/revelation/3#v11)</sup> Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
->
-> <sup>[12](/bible/revelation/3#v12)</sup> Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
 
 - Behold, I come quickly: I don't congregate because of you. Okay. Really? Okay. You going to have somebody take your crown. He say, I come quickly.
 
 - hold that fast which thou hast, that no man take thy crown: And no man take your crown. Don't say you don't keep God's laws because of somebody. No. This place is a hospital. Everybody learning. Everybody bettering themselves. So maybe somebody might step on your shoes, and then you say, You know what? I'm not going to congregate no more. Nah, you going to do that to your own detriment. You will do that to your own detriment, for real. Maybe she or he may not done it, or did it, so you can gain that person over. But don't sit home and make an excuse, say, I'm not going to congregate because of person A or person C. No, no, no. That's the wrong spirit.
+
+> <sup>[12](/bible/revelation/3#v12)</sup> Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
 
 - Him that overcometh will I make a pillar: See that? He that overcome. Overcome your pride. Overcome the demon that's in you, because that's a demon that will allow you to say, You know what, I don't congregate because of that person. You're not overcoming pride. You're not being humble to fix that between you and that person, but you rather want to stay home.
 
@@ -120,14 +120,14 @@ tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "repentance", "th
 **[2 Timothy 2:20-21](/bible/2-timothy/2#v20)**  *[[10:25](https://www.youtube.com/watch?v=RUOD_FCywwU&t=625s)]*
 
 > <sup>[20](/bible/2-timothy/2#v20)</sup> But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
->
-> <sup>[21](/bible/2-timothy/2#v21)</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work.
 
 - But in a great house there are not only vessels of gold and of silver, but also of wood and of earth: See that? It said in a great house there's not only vessels of gold.
 
 - and some to honour: Some to honor. Why am I bringing that out? Because some people in the congregation is not right. They going to step on your shoes. That is normal. Don't allow it to make you stay home, or not come to the Sabbath. Not everybody yet, right? That is a norm, because this is a hospital. People come with different different issues. So do not allow somebody, or a hiccup, somebody's mistake, to allow you to sit home and say, I'm not going to congregate because of that person. No, that's the wrong spirit.
 
 - and some to dishonour: Some to dishonor. Because some are not right. They just want to be dramatic. But you cannot pull anybody over your salvation. No. No. No.
+
+> <sup>[21](/bible/2-timothy/2#v21)</sup> If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work.
 
 - If a man therefore purge himself from these: Because even the good people within the congregation and the bad people in the congregation, all of them are there to try you and to prove you. That's what it's there for. The bad people in the congregation is to try your patience, try your longsuffering, all those things. But because you don't want to endeavor, you don't want to endure, you say, You know what, I'm going to be at home. I'm going to be at home. But the Lord say you should gather yourself on the Sabbath day. That's a commandment that you are breaking.
 
@@ -139,20 +139,20 @@ tags: ["15 Minutes w/ The Captains", "adversity", "endurance", "repentance", "th
 **[Romans 8:35-39](/bible/romans/8#v35)**  *[[13:10](https://www.youtube.com/watch?v=RUOD_FCywwU&t=790s)]*
 
 > <sup>[35](/bible/romans/8#v35)</sup> Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?
->
-> <sup>[36](/bible/romans/8#v36)</sup> As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.
->
-> <sup>[37](/bible/romans/8#v37)</sup> Nay, in all these things we are more than conquerors through him that loved us.
->
-> <sup>[38](/bible/romans/8#v38)</sup> For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
->
-> <sup>[39](/bible/romans/8#v39)</sup> Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 
 - Who shall separate us from the love of Christ?: That's a question right there, because you staying at home now. Who? That's the question. You don't congregate? The Bible say, Who's going to separate us? Nobody. No affliction. Not nobody should do that, to come between us and our God.
 
+> <sup>[36](/bible/romans/8#v36)</sup> As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.
+>
+> <sup>[37](/bible/romans/8#v37)</sup> Nay, in all these things we are more than conquerors through him that loved us.
+
 - Nay, in all these things we are more than conquerors: See that? In all these things we are more than conquerors.
 
+> <sup>[38](/bible/romans/8#v38)</sup> For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
+
 - nor things present: Things present.
+
+> <sup>[39](/bible/romans/8#v39)</sup> Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 
 - nor any other creature: Any other creature. That's including your neighbor, including the people that will be in the sanctuary. Any other creature.
 

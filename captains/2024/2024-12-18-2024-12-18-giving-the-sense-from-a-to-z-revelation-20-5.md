@@ -41,51 +41,51 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 **[Mark 6:21-27](/bible/mark/6#v21)**  *[[4:32](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=272s)]*
 
 > <sup>[21](/bible/mark/6#v21)</sup> And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief estates of Galilee;
->
-> <sup>[22](/bible/mark/6#v22)</sup> And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give it thee.
->
-> <sup>[23](/bible/mark/6#v23)</sup> And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.
->
-> <sup>[24](/bible/mark/6#v24)</sup> And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist.
->
-> <sup>[25](/bible/mark/6#v25)</sup> And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist.
->
-> <sup>[26](/bible/mark/6#v26)</sup> And the king was exceeding sorry; yet for his oath’s sake, and for their sakes which sat with him, he would not reject her.
->
-> <sup>[27](/bible/mark/6#v27)</sup> And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,
 
 - Herod on his birthday made a supper to his lords: So already you see that Herod had what? He had a birthday party, pretty much. All right, he had a birthday party.
 
 - Herod on his birthday: And so, Herod, right? He's literally having a birthday party. This is what we witnessing, so we know we don't keep no birthdays. Although Herod came up with us, right? When I say came up with the Israelites, he was taught, right? And a lot of y'all should know that, right? In the book of Acts it talks about that Herod came up with the Israelites and his whole line. And that's why Rome put him in as what? As the head of Jerusalem, the head of Israel, because he knew all the customs, he knew all the laws, but he was not an Israelite, he was an Edomite, right?
 
+> <sup>[22](/bible/mark/6#v22)</sup> And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give it thee.
+
 - The king said unto the damsel, ask of me whatsoever thou wilt and I will give it thee: cuz it was his birthday.
 
 - I will give it to thee unto the half of my kingdom: So, now he even going further than that and saying, hey, whatever you want to give me, I mean, whatever you asking me, I'll give it to you as far as half of the kingdom, right? Yeah, he about to trick. Y'all know what that is. He about to give it all up for her.
 
+> <sup>[23](/bible/mark/6#v23)</sup> And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.
+>
+> <sup>[24](/bible/mark/6#v24)</sup> And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist.
+
 - The head of John the Baptist: So, she went as far as to say, give me the head of John the Baptist. All right? She wanted him dead, right?
 
+> <sup>[25](/bible/mark/6#v25)</sup> And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist.
+>
+> <sup>[26](/bible/mark/6#v26)</sup> And the king was exceeding sorry; yet for his oath’s sake, and for their sakes which sat with him, he would not reject her.
+
 - And the king was exceeding sorry, yet for his oath's sake and for their sakes which sat with him, he would not reject her: So, it said that the king was upset about it, cuz he didn't really want to do that. He knew what John the Baptist was, although he wasn't an Israelite, he knew what it was. That's not something that he really wanted to do. But because he gave the oath, he said, yo, I'mma do it.
+
+> <sup>[27](/bible/mark/6#v27)</sup> And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,
 
 - And he went and beheaded him in the prison: So, John the Baptist, right, who we know is Elijah, right? This is who's being talked about here in Revelation 20. I just want to give y'all a little touch on that. When you see stuff like this, it's not just the Lord just throwing something out there. Oh, beheaded as a witness for Jesus. Literally, John was the witness for Jesus literally, right? We know that he taught the coming of Christ and all that, right? But it's going to be more people than him, obviously, right? So, just want to throw that out there, y'all.
 
 
 **[Matthew 20:20-23](/bible/matthew/20#v20)**  *[[8:01](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=481s)]*
 
-> <sup>[20](/bible/matthew/20#v20)</sup> Then came to him the mother of Zebedee’s children with her sons, worshipping him, and desiring a certain thing of him.
->
-> <sup>[21](/bible/matthew/20#v21)</sup> And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.
->
-> <sup>[22](/bible/matthew/20#v22)</sup> But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
->
-> <sup>[23](/bible/matthew/20#v23)</sup> And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
-
 - Let's go to Matthew chapter 20. We going back to Revelation. We ain't going to forget the thought, but let's just add some precepts, right?
+
+> <sup>[20](/bible/matthew/20#v20)</sup> Then came to him the mother of Zebedee’s children with her sons, worshipping him, and desiring a certain thing of him.
 
 - Then came to him the mother of Zebedee's children: Right? The Zebedee's children is the sons of thunder, right? When you hear about the sons of thunder, that was these two brothers who was rolling with Christ, right? And they were called the sons of Zebedee cuz that was their father's name, right?
 
+> <sup>[21](/bible/matthew/20#v21)</sup> And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.
+
 - Grant that these my two sons may sit, the one on thy right hand and the other on the left in thy kingdom: So she's asking, "Can you have my son sit on your right hand and on your left hand in the kingdom?" Let's see what Christ said. That's a wild ask though. Think about it. She came in here just wanted to go straight to the top. Yo, put them up there with you. You can't make it up.
 
+> <sup>[22](/bible/matthew/20#v22)</sup> But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
+
 - They say unto him, We are able: So, they said, "Yo, we can drink this cup."
+
+> <sup>[23](/bible/matthew/20#v23)</sup> And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
 
 - Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: You understand? So, this is what we talking about in terms of beheaded and getting killed. Cuz then James got killed, right? John, you know how that turned out, right? So, at the end of the day, we have to drink of the Lord's cup. That's dealing with all of this beheaded for the witness of Jesus and all that. I just want to throw that out there on to y'all real quick, right?
 
@@ -106,15 +106,9 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[Isaiah 11:6-9](/bible/isaiah/11#v6)**  *[[11:20](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=680s)]*
 
-> <sup>[6](/bible/isaiah/11#v6)</sup> The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
->
-> <sup>[7](/bible/isaiah/11#v7)</sup> And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
->
-> <sup>[8](/bible/isaiah/11#v8)</sup> And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den.
->
-> <sup>[9](/bible/isaiah/11#v9)</sup> They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
-
 - Isaiah 11. During this time, this is what's going to be going on.
+
+> <sup>[6](/bible/isaiah/11#v6)</sup> The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 
 - The wolf also shall dwell with the lamb: Right? So, now, all this during the 1,000 years. All this during the time of Israel's rule. Look what's happening. The wolf is dwelling with the lamb. We all know that a wolf and a lamb can't be in the same place. But, at this time now, everything is going to go back to the way it was in the beginning. Remember, all the animals, they were eating all vegetation. Ain't no animals was tearing up people and tearing up other animals. That wasn't going on. So, now, that's coming back. This is the kingdom we're talking about right here, y'all.
 
@@ -122,7 +116,13 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 - And a little child shall lead them: So, a little child is going to be walking all these wild animals around. And the wild animals is not going to want to touch that kid because they don't look at that kid as any kind of food or threat or nothing. Why? Because the Lord has now put that spirit back on the animals again to not only... cuz now the animals kind of fear us, but they will kill us. Right? That's how we able to live cuz the Lord put the spirit, the fear of people on the animals. But, now, he bringing it back all the way to the point where they ain't even going to raise up.
 
+> <sup>[7](/bible/isaiah/11#v7)</sup> And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
+>
+> <sup>[8](/bible/isaiah/11#v8)</sup> And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den.
+
 - And the sucking child shall play on the hole of the asp: So, the sucking child, that means the infant is going to be playing on a hole with a poisonous snake. This is the kingdom.
+
+> <sup>[9](/bible/isaiah/11#v9)</sup> They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
 
 - For the earth shall be full of the knowledge of the LORD, as the waters cover the sea: Right? All of this during the time of what? When Israel is ruling, right? And then that thousand years is in there, but this is just part of that thousand year reign with Christ, right?
 
@@ -151,13 +151,13 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[Psalms 51:10-11](/bible/psalms/51#v10)**  *[[16:49](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=1009s)]*
 
-> <sup>[10](/bible/psalms/51#v10)</sup> Create in me a clean heart, O God; and renew a right spirit within me.
->
-> <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
-
 - Psalms 51. And this is why David said this.
 
+> <sup>[10](/bible/psalms/51#v10)</sup> Create in me a clean heart, O God; and renew a right spirit within me.
+
 - Create in me a clean heart, O God; and renew a right spirit within me: Right? He said, "Create a clean spirit, a clean heart, oh God, and renew a right spirit within me." Right? So, the scripture just said you cannot be renewed again once you blaspheme the spirit and you put down what you've been knowing. But that ain't what David... David saying, "Hey, create a clean heart." Meaning what? When you see clean, you go to Psalms 119 and 9 and it says what? How does a young man cleanse his ways, right? By keeping the precepts and the commandments. That's what he's talking about here. Right?
+
+> <sup>[11](/bible/psalms/51#v11)</sup> Cast me not away from thy presence; and take not thy holy spirit from me.
 
 - Cast me not away from thy presence; and take not thy holy spirit from me: You understand? So, that's we don't want that. We don't want the Holy Spirit going away from us cuz then what? We become that reprobate that cannot be saved, that cannot be resurrected or be part of that first resurrection that we reading about in Revelation 20. All right?
 
@@ -179,38 +179,38 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[John 9:1-3](/bible/john/9#v1)**  *[[19:22](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=1162s)]*
 
+- Let's start in John 9. Watch this. I'm going to refresh y'all minds.
+
 > <sup>[1](/bible/john/9#v1)</sup> And as Jesus passed by, he saw a man which was blind from his birth.
 >
 > <sup>[2](/bible/john/9#v2)</sup> And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?
->
-> <sup>[3](/bible/john/9#v3)</sup> Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
-
-- Let's start in John 9. Watch this. I'm going to refresh y'all minds.
 
 - Master, who did sin, this man, or his parents, that he was born blind?: Now, obviously, y'all should know this. Right? That how could he have sinned if he was born that way? Right? This man or his parents, that his parents sinned and then the Lord is making a child blind as a punishment. Right?
+
+> <sup>[3](/bible/john/9#v3)</sup> Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
 
 - Neither hath this man sinned, nor his parents: but that the works of God should be made manifest: So, Christ never said, "Why y'all asking me a dumb ass question like this? Whether this man sinned before he was... How you going to sin when he ain't born?" But, they all understood that what? We come back. The regeneration. We come back every three and four generations. Christ taught them that. That's why they asked him and he answered them. He didn't say, "No, y'all sound stupid." Right? So, now I want to get y'all another precept that y'all should know. Right? But, we got to always bang these precepts out in our minds. We should remember them. You know what I'm saying?
 
 
 **[Ecclesiastes 1:4-9](/bible/ecclesiastes/1#v4)**  *[[20:45](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=1245s)]*
 
+- Give me Ecclesiastic. Y'all know I keep doing that. Ecclesiastes chapter 3. Is that what I want? Hold on. This is the new swords and pages are sticking. No, I'm sorry. Ecclesiastes 1 and I'm going to start in verse 4, y'all.
+
 > <sup>[4](/bible/ecclesiastes/1#v4)</sup> One generation passeth away, and another generation cometh: but the earth abideth for ever.
->
+
+- One generation passeth away, and another generation cometh: but the earth abideth for ever: Meaning what? As we come, the earth is still the same, but us, we born, we die, our kids move on, they have kids so on and so forth and keep going.
+
 > <sup>[5](/bible/ecclesiastes/1#v5)</sup> The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.
 >
 > <sup>[6](/bible/ecclesiastes/1#v6)</sup> The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.
 >
 > <sup>[7](/bible/ecclesiastes/1#v7)</sup> All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.
->
+
+- Unto the place from whence the rivers come, thither they return again: So that's always a crazy scripture because that means that the same water that's from before is the same water circulating throughout time, right? The oceans to the sea to the river to the brooks to the lake, right? Then it evaporates when it gets hot, go up to the clouds, come back down again as rain, it's the whole nine. You know what I'm saying?
+
 > <sup>[8](/bible/ecclesiastes/1#v8)</sup> All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
 >
 > <sup>[9](/bible/ecclesiastes/1#v9)</sup> The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
-
-- Give me Ecclesiastic. Y'all know I keep doing that. Ecclesiastes chapter 3. Is that what I want? Hold on. This is the new swords and pages are sticking. No, I'm sorry. Ecclesiastes 1 and I'm going to start in verse 4, y'all.
-
-- One generation passeth away, and another generation cometh: but the earth abideth for ever: Meaning what? As we come, the earth is still the same, but us, we born, we die, our kids move on, they have kids so on and so forth and keep going.
-
-- Unto the place from whence the rivers come, thither they return again: So that's always a crazy scripture because that means that the same water that's from before is the same water circulating throughout time, right? The oceans to the sea to the river to the brooks to the lake, right? Then it evaporates when it gets hot, go up to the clouds, come back down again as rain, it's the whole nine. You know what I'm saying?
 
 - There is no new thing under the sun: Right? So this is just telling you that what? We come back, we come back and we come back, right?
 
@@ -230,10 +230,18 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[2 Esdras 1:35-40](/bible/2-esdras/1#v35)**  *[[23:37](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=1417s)]*
 
+- And I'm going to show y'all something cuz look at this. And this is another one. I know y'all probably know this, but again, for those who might not, let's get Second Esdras real quick, right? Chapter 1 and verse 35. We'll start there.
+
 > <sup>[35](/bible/2-esdras/1#v35)</sup> Your houses will I give to a people that shall come; which not having heard of me yet shall believe me; to whom I have shewed no signs, yet they shall do that I have commanded them.
 >
 > <sup>[36](/bible/2-esdras/1#v36)</sup> They have seen no prophets, yet they shall call their sins to remembrance, and acknowledge them.
->
+
+- They have seen no prophets, yet they shall call their sins to remembrance, and acknowledge them: Like us. We haven't seen the prophets. You know, we know we the prophet. I'm saying the Lord is talking about these prophets here, the forefathers. He said, "You ain't seen no prophets." But, guess what? When we read the scriptures and we hear the word we do what? We repent. We understand. We like, "Okay, this is our sins have been brought into remembrance. Let us repent and move forward." That's what this is talking about.
+
+- And now, brother, behold what glory; and see the people that come from the east: This is a future thing, a prophecy.
+
+- Unto whom I will give for leaders, Abraham, Isaac, and Jacob... which is called also an angel of the Lord: So, these are the leaders, but guess what? These are all the prophets from back then. But what? The Lord is saying I'm going to regenerate them in the last days, right? So, all of the prophets that we read, the book of Malachi and this and that, they're going to be on the earth during that time. They're going to be on the earth. This is a beautiful thing. So, it's telling us about regeneration, but now we also know that what? We got those that's going to be regenerated to... Oh, as a matter of fact, let's get that. Daniel. Oh, I don't want that right now. No, let me hold off on that for a second. I think I wanted to do something else real quick.
+
 > <sup>[37](/bible/2-esdras/1#v37)</sup> I take to witness the grace of the people to come, whose little ones rejoice in gladness: and though they have not seen me with bodily eyes, yet in spirit they believe the thing that I say.
 >
 > <sup>[38](/bible/2-esdras/1#v38)</sup> And now, brother, behold what glory; and see the people that cometh from the east:
@@ -241,14 +249,6 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 > <sup>[39](/bible/2-esdras/1#v39)</sup> Unto whom I will give for leaders, Abraham, Isaac, and Jacob, Oseas, Amos, and Micheas, Joel, Abdias, and Jonas,
 >
 > <sup>[40](/bible/2-esdras/1#v40)</sup> Nahum, and Abacuc, Sophonias, Aggeus, Zachary, and Malachy, which is called also an angel of the Lord.
-
-- And I'm going to show y'all something cuz look at this. And this is another one. I know y'all probably know this, but again, for those who might not, let's get Second Esdras real quick, right? Chapter 1 and verse 35. We'll start there.
-
-- They have seen no prophets, yet they shall call their sins to remembrance, and acknowledge them: Like us. We haven't seen the prophets. You know, we know we the prophet. I'm saying the Lord is talking about these prophets here, the forefathers. He said, "You ain't seen no prophets." But, guess what? When we read the scriptures and we hear the word we do what? We repent. We understand. We like, "Okay, this is our sins have been brought into remembrance. Let us repent and move forward." That's what this is talking about.
-
-- And now, brother, behold what glory; and see the people that come from the east: This is a future thing, a prophecy.
-
-- Unto whom I will give for leaders, Abraham, Isaac, and Jacob... which is called also an angel of the Lord: So, these are the leaders, but guess what? These are all the prophets from back then. But what? The Lord is saying I'm going to regenerate them in the last days, right? So, all of the prophets that we read, the book of Malachi and this and that, they're going to be on the earth during that time. They're going to be on the earth. This is a beautiful thing. So, it's telling us about regeneration, but now we also know that what? We got those that's going to be regenerated to... Oh, as a matter of fact, let's get that. Daniel. Oh, I don't want that right now. No, let me hold off on that for a second. I think I wanted to do something else real quick.
 
 
 **[Zechariah 13:8-9](/bible/zechariah/13#v8)**  *[[25:48](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=1548s)]*
@@ -286,21 +286,21 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[1 Thessalonians 4:13-16](/bible/1-thessalonians/4#v13)**  *[[28:45](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=1725s)]*
 
-> <sup>[13](/bible/1-thessalonians/4#v13)</sup> But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
->
-> <sup>[14](/bible/1-thessalonians/4#v14)</sup> For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
->
-> <sup>[15](/bible/1-thessalonians/4#v15)</sup> For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.
->
-> <sup>[16](/bible/1-thessalonians/4#v16)</sup> For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
-
 - 1 Thessalonians chapter 4 verse 13. And we're going to read down a few verses, all right, y'all? Take notes. Take notes. If y'all not able to take notes and y'all just driving or somewhere you just listening or whatever, hey, get a chance, get back. Lord willing you have time, watch it again. Write them notes, all right?
+
+> <sup>[13](/bible/1-thessalonians/4#v13)</sup> But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
 
 - Concerning them which are asleep: Right? Cuz in order to get resurrected, you have to have been dead. That's what asleep is talking about, that you dead.
 
+> <sup>[14](/bible/1-thessalonians/4#v14)</sup> For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
+
 - Even so them also which sleep in Jesus will God bring with him: Right? Reign with Christ 1,000 years. Remember that the scriptures are saying the same thing all the time. Repetitive, repetitive. We just got to be able to see it. But with study, y'all going to get it. With repetition, with constant reading, y'all going to get it, right?
 
+> <sup>[15](/bible/1-thessalonians/4#v15)</sup> For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.
+
 - We which are alive and remain unto the coming of the Lord shall not prevent them which are asleep: So it's saying the ones who are alive when Christ comes back, the ones who alive is not going to prevent the ones who died already in the name of Christ from resurrecting with Christ. That's what he's saying. They still getting resurrected, in other words. Just because they not here when Christ show up and see, they going to get resurrected, y'all. That's what the scripture is saying.
+
+> <sup>[16](/bible/1-thessalonians/4#v16)</sup> For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
 
 - And the dead in Christ shall rise first: You understand? This is the first resurrection. Right? When Christ shows up, that's what it is. And the dead in Christ shall rise first. All right?
 
@@ -352,20 +352,20 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 > <sup>[17](/bible/isaiah/24#v17)</sup> Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth.
 >
 > <sup>[18](/bible/isaiah/24#v18)</sup> And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.
->
-> <sup>[19](/bible/isaiah/24#v19)</sup> The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.
->
-> <sup>[20](/bible/isaiah/24#v20)</sup> The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.
->
-> <sup>[21](/bible/isaiah/24#v21)</sup> And it shall come to pass in that day, that the Lord shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.
->
-> <sup>[22](/bible/isaiah/24#v22)</sup> And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.
 
 - For the windows from on high are open, and the foundations of the earth do shake: Right? So now this is war time, right? The foundations of the earth do shake.
 
+> <sup>[19](/bible/isaiah/24#v19)</sup> The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.
+
 - The earth is moved exceedingly: Why? Because the bombs is dropping. The bombs are dropping. The nuclear weapons are dropping. This is what's shaking and moving the earth, y'all. All right?
 
+> <sup>[20](/bible/isaiah/24#v20)</sup> The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.
+>
+> <sup>[21](/bible/isaiah/24#v21)</sup> And it shall come to pass in that day, that the Lord shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.
+
 - The LORD shall punish the host of the high ones that are on high: Who's that? That's Esau. That's who we was just reading about. Satan and what? The physical Satan on earth, right? Come on.
+
+> <sup>[22](/bible/isaiah/24#v22)</sup> And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.
 
 - And after many days shall they be visited: After those many days, that's the thousand years. Okay? That's the thousand years. That's after those many days shall they be visited. Meaning what? They're going to be let loose for a little season, like it says in Revelation 20 and verse 3, y'all. All right? They're going to be released for a little season. Okay? So, now Esau is back out there with the nations and also Satan. They're dead, right?
 
@@ -391,15 +391,15 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[Ezekiel 37:26-28](/bible/ezekiel/37#v26)**  *[[38:22](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=2302s)]*
 
+- One thing I want to tell y'all, too, that's important. Let's go back to Ezekiel chapter 37, right? Y'all pay attention. Ezekiel 37, right? Where the 12 tribes are now being brought back. The life of them is being put in them, in the valley of the dry bones and all of that. When we come towards the end of it, right? Right at the end.
+
 > <sup>[26](/bible/ezekiel/37#v26)</sup> Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.
->
+
+- And will set my sanctuary in the midst of them for evermore: Right? And remember, this is after the 12 tribes comes back. They become one state, Christ is our Lord, shepherd, you know, the one shepherd, the one king, so on and so forth, right?
+
 > <sup>[27](/bible/ezekiel/37#v27)</sup> My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.
 >
 > <sup>[28](/bible/ezekiel/37#v28)</sup> And the heathen shall know that I the Lord do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.
-
-- One thing I want to tell y'all, too, that's important. Let's go back to Ezekiel chapter 37, right? Y'all pay attention. Ezekiel 37, right? Where the 12 tribes are now being brought back. The life of them is being put in them, in the valley of the dry bones and all of that. When we come towards the end of it, right? Right at the end.
-
-- And will set my sanctuary in the midst of them for evermore: Right? And remember, this is after the 12 tribes comes back. They become one state, Christ is our Lord, shepherd, you know, the one shepherd, the one king, so on and so forth, right?
 
 - When my sanctuary shall be in the midst of them for evermore: Right? That's the end of 37.
 
@@ -431,29 +431,29 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 > <sup>[2](/bible/ezekiel/38#v2)</sup> Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,
 >
 > <sup>[3](/bible/ezekiel/38#v3)</sup> And say, Thus saith the Lord God; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:
->
+
+- Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal: So when we talking about Gog and all that and Magog, that's like Russia, you know, they hold the Caucasus Mountains and all of that. Basically the bottomless pit. All right? Europe and all of that. But that's where... This is basically making reference to Esau. This is what it is at the end of the day. Just to make it quick.
+
 > <sup>[4](/bible/ezekiel/38#v4)</sup> And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts of armour, even a great company with bucklers and shields, all of them handling swords:
 >
 > <sup>[5](/bible/ezekiel/38#v5)</sup> Persia, Ethiopia, and Libya with them; all of them with shield and helmet:
->
-> <sup>[6](/bible/ezekiel/38#v6)</sup> Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with thee.
->
-> <sup>[7](/bible/ezekiel/38#v7)</sup> Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a guard unto them.
-
-- Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal: So when we talking about Gog and all that and Magog, that's like Russia, you know, they hold the Caucasus Mountains and all of that. Basically the bottomless pit. All right? Europe and all of that. But that's where... This is basically making reference to Esau. This is what it is at the end of the day. Just to make it quick.
 
 - Persia, Ethiopia, and Libya with them: Persia, which is Iran, right?
 
 - Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a god unto them: Right? So, now let's go back. So, now the war is on, it's on. Right?
 
+> <sup>[6](/bible/ezekiel/38#v6)</sup> Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with thee.
+>
+> <sup>[7](/bible/ezekiel/38#v7)</sup> Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a guard unto them.
+
 
 **[Revelation 20:8-9](/bible/revelation/20#v8)**  *[[41:50](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=2510s)]*
 
 > <sup>[8](/bible/revelation/20#v8)</sup> And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea.
->
-> <sup>[9](/bible/revelation/20#v9)</sup> And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
 
 - And shall go out to deceive the nations which are in the four quarters of the earth: When we just read there it said in the northern quarters, right? So, of that particular instance that we were reading.
+
+> <sup>[9](/bible/revelation/20#v9)</sup> And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
 
 - And compassed the camp of the saints about: It said it compassed the camp of the saints. The saints, Psalms 148:14, that's the Israelites, right? It compassed Israel about and the beloved city. And fire came God out of heaven and devoured them. Right? So, now let's touch a little bit of that.
 
@@ -466,21 +466,21 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[Ezekiel 38:14-17](/bible/ezekiel/38#v14)**  *[[42:41](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=2561s)]*
 
-> <sup>[14](/bible/ezekiel/38#v14)</sup> Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord God; In that day when my people of Israel dwelleth safely, shalt thou not know it?
->
-> <sup>[15](/bible/ezekiel/38#v15)</sup> And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:
->
-> <sup>[16](/bible/ezekiel/38#v16)</sup> And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes.
->
-> <sup>[17](/bible/ezekiel/38#v17)</sup> Thus saith the Lord God; Art thou he of whom I have spoken in old time by my servants the prophets of Israel, which prophesied in those days many years that I would bring thee against them?
-
 - Ezekiel 38. I should have my finger there. Ezekiel 38 and we'll start in verse 14. Right? So, we're going to jump down starting at 14.
 
 - In that day when my people of Israel dwelleth safely, shalt thou know it?: He said, "Yo, when I got Israel tucked away, shall y'all know about that?"
 
+> <sup>[14](/bible/ezekiel/38#v14)</sup> Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord God; In that day when my people of Israel dwelleth safely, shalt thou not know it?
+>
+> <sup>[15](/bible/ezekiel/38#v15)</sup> And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:
+
 - And thou shalt come from thy place out of the north parts: Ah, we just read that in Ezekiel. You have to love this Bible. You must love it. If you don't love it, something wrong. Right?
 
+> <sup>[16](/bible/ezekiel/38#v16)</sup> And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes.
+
 - I will bring thee against my land: You heard that? I will bring thee against my land, meaning Israel. Right?
+
+> <sup>[17](/bible/ezekiel/38#v17)</sup> Thus saith the Lord God; Art thou he of whom I have spoken in old time by my servants the prophets of Israel, which prophesied in those days many years that I would bring thee against them?
 
 - Art thou he of whom I have spoken in old time by my servants the prophets of Israel: The Lord is saying, "Listen, they ready. I've been teaching them this the whole time. And now what we've been teaching is now coming to pass." Right?
 
@@ -511,18 +511,18 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 **[Obadiah 1:15-18](/bible/obadiah/1#v15)**  *[[46:36](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=2796s)]*
 
 > <sup>[15](/bible/obadiah/1#v15)</sup> For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
->
+
+- For the day of the LORD is near upon all the heathen: That's what we just read. That what? All the heathen round about is going to know that I am the Lord. That's what it just said.
+
 > <sup>[16](/bible/obadiah/1#v16)</sup> For as ye have drunk upon my holy mountain, so shall all the heathen drink continually, yea, they shall drink, and they shall swallow down, and they shall be as though they had not been.
 >
 > <sup>[17](/bible/obadiah/1#v17)</sup> But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.
->
-> <sup>[18](/bible/obadiah/1#v18)</sup> And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it.
-
-- For the day of the LORD is near upon all the heathen: That's what we just read. That what? All the heathen round about is going to know that I am the Lord. That's what it just said.
 
 - But upon mount Zion shall be deliverance: See that? Upon Mount Zion shall be deliverance. That's what we read in Ezekiel.
 
 - And the house of Jacob shall possess their possessions: Yeah, because they going into slavery.
+
+> <sup>[18](/bible/obadiah/1#v18)</sup> And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it.
 
 - And the house of Jacob shall be a fire, and the house of Joseph a flame: Right? So, this is going directly... what it says the Lord said, the Lord is sending a fire upon Gog and Magog. Sending a fire. This is it. This is one of them fires. All right? Let me read that again. I don't want y'all missing. And the house of Jacob shall be a fire, which is what? The southern kingdom. And the house of Joseph a flame. By this time the 12 tribes are already back together.
 
@@ -535,13 +535,13 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[Zechariah 14:11-12](/bible/zechariah/14#v11)**  *[[48:42](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=2922s)]*
 
-> <sup>[11](/bible/zechariah/14#v11)</sup> And men shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.
->
-> <sup>[12](/bible/zechariah/14#v12)</sup> And this shall be the plague wherewith the Lord will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.
-
 - Let's get Zechariah. All right, Zechariah 14. We're almost done, y'all. We almost done. You know, we keep it short and sweet. You know what I'm saying? Obviously, we could have went on and... You know what I mean? But this is the short version of the real thing, right? But still, it should be enough for y'all to get some understanding and get into y'all deeper studies, right? So, Zechariah chapter 14, let's start in verse 11. Okay, this is crazy right here what we about to read.
 
+> <sup>[11](/bible/zechariah/14#v11)</sup> And men shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.
+
 - But Jerusalem shall be safely inhabited: Did we not... We just read that. Come on, I got to just refresh your memory. Y'all ain't got to go nowhere. Y'all stay right there. Let me go get it and read it. This was 38 and 8 of Ezekiel. After many days thou shalt be visited... and they shall dwell safely all of them. The Israelites going to dwell safely in the land of Israel. Zechariah 14:11. I got to read it again. And men shall dwell in it, and there shall be no more other destruction; but Jerusalem shall be safely inhabited. Yes, by the Israelites.
+
+> <sup>[12](/bible/zechariah/14#v12)</sup> And this shall be the plague wherewith the Lord will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.
 
 - And this shall be the plague wherewith the LORD will smite all the people that have fought against Jerusalem: That's what we just read. They went to fight against Israel and Jerusalem. And the Lord did what? He's going to smite all of them. Look at this.
 
@@ -557,10 +557,10 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 **[Ezekiel 38:22-23](/bible/ezekiel/38#v22)**  *[[50:07](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=3007s)]*
 
 > <sup>[22](/bible/ezekiel/38#v22)</sup> And I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that are with him, an overflowing rain, and great hailstones, fire, and brimstone.
->
-> <sup>[23](/bible/ezekiel/38#v23)</sup> Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the Lord.
 
 - Fire, and brimstone: So, the Lord again is saying that what? He's going to send fire, brimstone, hail, right? All that. Right? To burn up Esau. Right?
+
+> <sup>[23](/bible/ezekiel/38#v23)</sup> Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the Lord.
 
 
 **[Revelation 20:9-10](/bible/revelation/20#v9)**  *[[51:38](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=3098s)]*
@@ -579,10 +579,10 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 **[Revelation 19:19-20](/bible/revelation/19#v19)**  *[[52:26](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=3146s)]*
 
 > <sup>[19](/bible/revelation/19#v19)</sup> And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
->
-> <sup>[20](/bible/revelation/19#v20)</sup> And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 
 - And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army: So it's against Christ, the angels, Israel.
+
+> <sup>[20](/bible/revelation/19#v20)</sup> And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 
 - These both were cast alive into a lake of fire burning with brimstone: You seen that? So when we read here where it says where they already are, or already... how do they put it? Yeah, where they are, cuz that already had happened. Right? So what? All of Christianity, all of the pilot policies and all the trash and the image of Caesar, all of that was destroyed by the nukes and what have you. Y'all understand? That's what's going on. That's what's happening. So when we read verse 10, y'all. All right?
 
@@ -609,19 +609,19 @@ tags: ["15 Minutes w/ The Captains", "salvation"]
 
 **[Revelation 21:12-16](/bible/revelation/21#v12)**  *[[55:59](https://www.youtube.com/watch?v=2cJAIXuO8RM&t=3359s)]*
 
+- Get Revelation chapter 21. 21 and 16. Look at this. No, matter of fact, I'll start up, y'all. Let me start up. Verse 12.
+
 > <sup>[12](/bible/revelation/21#v12)</sup> And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
 >
 > <sup>[13](/bible/revelation/21#v13)</sup> On the east three gates; on the north three gates; on the south three gates; and on the west three gates.
 >
 > <sup>[14](/bible/revelation/21#v14)</sup> And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
->
+
+- And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb: Listen close.
+
 > <sup>[15](/bible/revelation/21#v15)</sup> And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
 >
 > <sup>[16](/bible/revelation/21#v16)</sup> And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
-
-- Get Revelation chapter 21. 21 and 16. Look at this. No, matter of fact, I'll start up, y'all. Let me start up. Verse 12.
-
-- And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb: Listen close.
 
 - And the city lieth foursquare, and the length is as large as the breadth: So, the length and the breadth of it is the same, right? That's what's being said here, y'all. Right?
 

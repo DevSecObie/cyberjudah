@@ -78,30 +78,35 @@ The opening prayer asked the Most High to protect the leaders and the brothers t
 
 **[Psalms 64:2-6](/bible/psalms/64#v2)**  *[[28:27](https://www.youtube.com/watch?v=PrZE7A1aloo&t=1707s)]*
 
+- Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity. The wicked have secret councils, so we want God to hide us from them.
+
 > <sup>[2](/bible/psalms/64#v2)</sup> Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 >
 > <sup>[3](/bible/psalms/64#v3)</sup> Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
->
+
+- Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words: they use their words as a weapon. That they may shoot in secret at the perfect: the perfect is the twelve tribes of Israel. The bitter words are things they say and put out there secretly to confuse our people and cause uprisings. Suddenly do they shoot at him, and fear not: they call us a hate group and all types of names, and they don't fear God when they speak their lies against us.
+
 > <sup>[4](/bible/psalms/64#v4)</sup> That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
 >
 > <sup>[5](/bible/psalms/64#v5)</sup> They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
->
-> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
-- Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity. The wicked have secret councils, so we want God to hide us from them.
-- Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words: they use their words as a weapon. That they may shoot in secret at the perfect: the perfect is the twelve tribes of Israel. The bitter words are things they say and put out there secretly to confuse our people and cause uprisings. Suddenly do they shoot at him, and fear not: they call us a hate group and all types of names, and they don't fear God when they speak their lies against us.
 - They commune of laying snares privily: they sit down and talk among themselves about setting traps. Traps to assassinate leaders, traps to overthrow countries, traps to cause civil unrest, traps to murder the prophets, traps to get us locked up for things we did not do.
+
 - They search out iniquities; both the inward thought of every one of them, and the heart, is deep. When they set things up, they are thinking a hundred steps ahead.
+
+> <sup>[6](/bible/psalms/64#v6)</sup> They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
 **[Habakkuk 3:13-14](/bible/habakkuk/3#v13)**  *[[31:34](https://www.youtube.com/watch?v=PrZE7A1aloo&t=1894s)]*
 
 > <sup>[13](/bible/habakkuk/3#v13)</sup> Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
->
-> <sup>[14](/bible/habakkuk/3#v14)</sup> Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 
 - Thou wentest forth for the salvation of thy people: the Lord is coming forth for the salvation of the twelve tribes of Israel. Thou woundedst the head out of the house of the wicked: the head of the house of the wicked is America, and Christ is going to destroy it when he returns, by discovering the foundation unto the neck.
+
 - Their rejoicing was as to devour the poor secretly. Everything they are doing to destroy us is secret, through their secret services, the CIA and Mossad. And it is not just on an individual level; it's us as a whole people. It's Venezuela, Guatemala, Panama, the Sahel, Cuba, South Africa, Nigeria: things are set up to destroy our people all over the world secretly, with the food, with the vaccines, with the music.
+
 - We have to start thinking on an international level, because Israel is global; our people are scattered globally. Once Malcolm X realized it was not just about the US, that his people were being oppressed all over Africa and all over the world, and he started linking up with other leaders, they said, we have to kill this guy.
+
+> <sup>[14](/bible/habakkuk/3#v14)</sup> Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
 
 **[Obadiah 1:6](/bible/obadiah/1#v6)**  *[[35:24](https://www.youtube.com/watch?v=PrZE7A1aloo&t=2124s)]*
 
@@ -197,6 +202,10 @@ Videos played in class, the takeover:
 
 **[Amos 3:3-11](/bible/amos/3#v3)**  *[[1:55:33](https://www.youtube.com/watch?v=PrZE7A1aloo&t=6933s)]*
 
+- Shall a trumpet be blown in the city, and the people not be afraid? The trumpet is us teaching. What are we telling the people is going to take place on this earth? Oppression is coming.
+
+- Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets. God reveals his secrets to us, and it's our job to teach it. The lion hath roared, who will not fear? The Lord God hath spoken, who can but prophesy?
+
 > <sup>[3](/bible/amos/3#v3)</sup> Can two walk together, except they be agreed?
 >
 > <sup>[4](/bible/amos/3#v4)</sup> Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?
@@ -210,16 +219,16 @@ Videos played in class, the takeover:
 > <sup>[8](/bible/amos/3#v8)</sup> The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?
 >
 > <sup>[9](/bible/amos/3#v9)</sup> Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
->
+
+- Publish in the palaces at Ashdod: Ashdod is in the land of Israel, so we prophesy against those people that are in the land of Israel. And in the palaces in the land of Egypt: the land of Egypt is America. Israel and America are the two behind what you see going on in South Africa, and behind much of the evil you see taking place on the earth; even what you see going on in the Congo.
+
+- For they know not to do right, saith the Lord, who store up violence and robbery in their palaces. That is what America does and what the Israeli government does.
+
+- Therefore thus saith the Lord God; An adversary there shall be even round about the land; and he shall bring down thy strength from thee. God is going to raise up an adversary against them. Remember what we read in Isaiah: I will stir up the Medes; that's Iran. America is not going to destroy Iran; that's not going to happen.
+
 > <sup>[10](/bible/amos/3#v10)</sup> For they know not to do right, saith the Lord, who store up violence and robbery in their palaces.
 >
 > <sup>[11](/bible/amos/3#v11)</sup> Therefore thus saith the Lord God; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.
-
-- Shall a trumpet be blown in the city, and the people not be afraid? The trumpet is us teaching. What are we telling the people is going to take place on this earth? Oppression is coming.
-- Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets. God reveals his secrets to us, and it's our job to teach it. The lion hath roared, who will not fear? The Lord God hath spoken, who can but prophesy?
-- Publish in the palaces at Ashdod: Ashdod is in the land of Israel, so we prophesy against those people that are in the land of Israel. And in the palaces in the land of Egypt: the land of Egypt is America. Israel and America are the two behind what you see going on in South Africa, and behind much of the evil you see taking place on the earth; even what you see going on in the Congo.
-- For they know not to do right, saith the Lord, who store up violence and robbery in their palaces. That is what America does and what the Israeli government does.
-- Therefore thus saith the Lord God; An adversary there shall be even round about the land; and he shall bring down thy strength from thee. God is going to raise up an adversary against them. Remember what we read in Isaiah: I will stir up the Medes; that's Iran. America is not going to destroy Iran; that's not going to happen.
 
 ## In Closing
 

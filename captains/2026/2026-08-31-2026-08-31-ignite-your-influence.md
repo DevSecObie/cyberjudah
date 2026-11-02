@@ -53,13 +53,13 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 **[Isaiah 33:5-6](/bible/isaiah/33#v5)**  *[[2:20](https://www.youtube.com/watch?v=-llETUpdC5s&t=140s)]*
 
-> <sup>[5](/bible/isaiah/33#v5)</sup> The Lord is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
->
-> <sup>[6](/bible/isaiah/33#v6)</sup> And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.
-
 - Why is there a need for illumination, especially as we walk through darkness right now?
 
+> <sup>[5](/bible/isaiah/33#v5)</sup> The Lord is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
+
 - The Lord is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
+
+> <sup>[6](/bible/isaiah/33#v6)</sup> And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure.
 
 - And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the Lord is his treasure. Wisdom and knowledge is the stability of the times. I love that scripture right there, because it is letting you know we are going to be in unstable territory in these last days. The only thing that is going to be able to navigate us through this is wisdom and knowledge. And he is telling us that the spirit of the Lord needs igniting. It is the candle of the Lord.
 
@@ -221,20 +221,6 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 
 **[Psalms 18:28-34](/bible/psalms/18#v28)**  *[[21:51](https://www.youtube.com/watch?v=-llETUpdC5s&t=1311s)]*
 
-> <sup>[28](/bible/psalms/18#v28)</sup> For thou wilt light my candle: the Lord my God will enlighten my darkness.
->
-> <sup>[29](/bible/psalms/18#v29)</sup> For by thee I have run through a troop; and by my God have I leaped over a wall.
->
-> <sup>[30](/bible/psalms/18#v30)</sup> As for God, his way is perfect: the word of the Lord is tried: he is a buckler to all those that trust in him.
->
-> <sup>[31](/bible/psalms/18#v31)</sup> For who is God save the Lord? or who is a rock save our God?
->
-> <sup>[32](/bible/psalms/18#v32)</sup> It is God that girdeth me with strength, and maketh my way perfect.
->
-> <sup>[33](/bible/psalms/18#v33)</sup> He maketh my feet like hinds’ feet, and setteth me upon my high places.
->
-> <sup>[34](/bible/psalms/18#v34)</sup> He teacheth my hands to war, so that a bow of steel is broken by mine arms.
-
 - For thou wilt light my candle. You see that? David said, you are going to light my candle. That is that spirit. How do you think Solomon got that information? His father knew it. He said, you are going to light my candle.
 
 - The Lord my God will enlighten my darkness. He said he is going to enlighten the darkness.
@@ -244,6 +230,12 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 - And by my God have I leaped over a wall. I am leaping over walls. Imagine you are seeing your leader, King David, running through a troop, leaping over a wall. It is going to make you do the same thing. You are going to be like, I am leaping over walls too. I am igniting.
 
 - The bishop did a class, a very good class, on a sheep leading lions versus a lion leading sheep. You get one lion leading a flock of sheep, they will forget that they are sheep in the face of fear. But if a sheep leads a pack of lions, they question the fierceness within them. This is what David is saying. When his spirit got enlightened, he was able to run through a troop, leap over walls.
+
+> <sup>[28](/bible/psalms/18#v28)</sup> For thou wilt light my candle: the Lord my God will enlighten my darkness.
+>
+> <sup>[29](/bible/psalms/18#v29)</sup> For by thee I have run through a troop; and by my God have I leaped over a wall.
+>
+> <sup>[30](/bible/psalms/18#v30)</sup> As for God, his way is perfect: the word of the Lord is tried: he is a buckler to all those that trust in him.
 
 - As for God, his way is perfect: the word of the Lord is tried: he is a buckler to all those that trust in him. A buckler is a covering for everybody that trusts in him.
 
@@ -256,6 +248,14 @@ Shalom Israel, Most High in Christ bless. Welcome to 15 Minutes with the Captain
 - He teacheth my hands to war. You see that? He teacheth my hands to war. When you are enlightened, you are able to influence.
 
 - So that a bow of steel is broken by mine arms. That is what happens when you are enlightened right there.
+
+> <sup>[31](/bible/psalms/18#v31)</sup> For who is God save the Lord? or who is a rock save our God?
+>
+> <sup>[32](/bible/psalms/18#v32)</sup> It is God that girdeth me with strength, and maketh my way perfect.
+>
+> <sup>[33](/bible/psalms/18#v33)</sup> He maketh my feet like hinds’ feet, and setteth me upon my high places.
+>
+> <sup>[34](/bible/psalms/18#v34)</sup> He teacheth my hands to war, so that a bow of steel is broken by mine arms.
 
 **[Psalms 51:10-13](/bible/psalms/51#v10)**  *[[24:56](https://www.youtube.com/watch?v=-llETUpdC5s&t=1496s)]*
 

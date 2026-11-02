@@ -41,19 +41,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "pride", "wisdom"]
 
 **[Acts 18:24-26](/bible/acts/18#v24)**  *[[11:02](https://www.youtube.com/watch?v=xXocgci9zRc&t=662s)]*
 
-> <sup>[24](/bible/acts/18#v24)</sup> And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus.
->
-> <sup>[25](/bible/acts/18#v25)</sup> This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.
->
-> <sup>[26](/bible/acts/18#v26)</sup> And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly.
-
 - And he reasoned in the synagogue every Sabbath: You see that? So he was in the synagogues, in the church, in this place of Corinth establishing churches. And he met this household and he strengthened this household. How do we know that? Jump over to verse 24.
+
+> <sup>[24](/bible/acts/18#v24)</sup> And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus.
 
 - An eloquent man: A well-spoken man.
 
 - And mighty in the scriptures: This man was bad in the scriptures. You couldn't just run up on Apollos. Said he was mighty in the scriptures.
 
+> <sup>[25](/bible/acts/18#v25)</sup> This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.
+
 - Knowing only the baptism of John: Then he said this man was instructed. He knew the Old Testament. He said he was mighty in the Old Testament, mighty in the scriptures. But the only thing he knew from that point was the baptism of John. Meaning repentance. That's all he knew.
+
+> <sup>[26](/bible/acts/18#v26)</sup> And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly.
 
 - And he began to speak boldly in the synagogue: But he still had a boldness about him. He said he begin to speak boldly in the synagogue.
 
@@ -382,10 +382,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "pride", "wisdom"]
 **[2 Corinthians 11:8-9](/bible/2-corinthians/11#v8)**  *[[52:09](https://www.youtube.com/watch?v=xXocgci9zRc&t=3129s)]*
 
 > <sup>[8](/bible/2-corinthians/11#v8)</sup> I robbed other churches, taking wages of them, to do you service.
->
-> <sup>[9](/bible/2-corinthians/11#v9)</sup> And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.
 
 - I robbed other churches, taking wages of them, to do you service: I robbed other churches taking wages of them. Churches that helping him out, and I'm helping you out, and you accusing me. Why? Because I come to you in gentleness, in the spirit and obedience in the spirit. I'm patient with you. But you taking it as a weakness.
+
+> <sup>[9](/bible/2-corinthians/11#v9)</sup> And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.
 
 - And when I was present with you, and wanted: And wanted, meaning and I lacked.
 
@@ -466,10 +466,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "pride", "wisdom"]
 **[2 Corinthians 11:11-12](/bible/2-corinthians/11#v11)**  *[[1:00:39](https://www.youtube.com/watch?v=xXocgci9zRc&t=3639s)]*
 
 > <sup>[11](/bible/2-corinthians/11#v11)</sup> Wherefore? because I love you not? God knoweth.
->
-> <sup>[12](/bible/2-corinthians/11#v12)</sup> But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.
 
 - Wherefore? because I love you not? God knoweth: He said, "Why? Because I don't love you? God knoweth. God know my love for you."
+
+> <sup>[12](/bible/2-corinthians/11#v12)</sup> But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.
 
 - But what I do, that I will do: He said, "But this boasting I'm about to do, I'm about to do it."
 

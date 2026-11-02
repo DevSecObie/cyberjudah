@@ -343,18 +343,13 @@ Reading from *Our Living Bible*  *[[48:57](https://www.youtube.com/watch?v=075qO
 > <sup>[7](/bible/genesis/39#v7)</sup> And it came to pass after these things, that his master’s wife cast her eyes upon Joseph; and she said, Lie with me.
 >
 > <sup>[8](/bible/genesis/39#v8)</sup> But he refused, and said unto his master’s wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;
->
-> <sup>[9](/bible/genesis/39#v9)</sup> There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?
->
-> <sup>[10](/bible/genesis/39#v10)</sup> And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.
->
-> <sup>[11](/bible/genesis/39#v11)</sup> And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.
->
-> <sup>[12](/bible/genesis/39#v12)</sup> And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
 
 - His master's wife cast her eyes upon Joseph, and she said, lie with me. But he refused: there is none greater in this house than I, neither hath he kept back anything from me but thee, because thou art his wife. How then can I do this great wickedness, and sin against God? Notice Joseph wasn't blaming God that he was in slavery.
+
 - She spake to Joseph day by day; she was trying to wear him down day by day. And remember, the Egyptians loved beautiful women; when Abraham went down, Sarah was in danger because of her beauty. Potiphar's wife was not bad looking, and Joseph still said no.
+
 - She caught him by his garment, saying, lie with me; and he left his garment in her hand, and fled. Put yourself in Joseph's place at 17 years old. He saw sin like a snake and he ran like a rabbit.
+
 - Everybody's demon is not the same. For some it's food, but generally it's sexual demons that get the brothers. Take a page out of what our forefather Joseph did.
 
   Precepts:
@@ -364,6 +359,14 @@ Reading from *Our Living Bible*  *[[48:57](https://www.youtube.com/watch?v=075qO
     > <sup>[3](/bible/sirach/21#v3)</sup> All iniquity is as a two edged sword, the wounds whereof cannot be healed.
 
     Flee from sin as from the face of a serpent: that's what Joseph did. If thou comest too near it, it will bite thee. The teeth thereof are as the teeth of a lion, slaying the souls of men. If a snake fell in this room right now, everybody would be out of here. That snake is your sin.
+
+> <sup>[9](/bible/genesis/39#v9)</sup> There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?
+>
+> <sup>[10](/bible/genesis/39#v10)</sup> And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.
+>
+> <sup>[11](/bible/genesis/39#v11)</sup> And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.
+>
+> <sup>[12](/bible/genesis/39#v12)</sup> And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
 
 **[Genesis 39:13-20](/bible/genesis/39#v13)**  *[[1:07:07](https://www.youtube.com/watch?v=075qOUs8Sbc&t=4027s)]*
 
@@ -503,6 +506,10 @@ Reading from *Our Living Bible*  *[[48:57](https://www.youtube.com/watch?v=075qO
 
 **[Genesis 41:1-57](/bible/genesis/41#v1)**  *[[1:21:58](https://www.youtube.com/watch?v=075qOUs8Sbc&t=4918s)]*
 
+- At the end of two full years Pharaoh dreamed: seven well favoured fat kine eaten up by seven ill favoured lean kine, and seven good ears devoured by seven thin ears blasted with the east wind. None of the magicians could interpret. Then the chief butler remembered his faults and told Pharaoh of the young Hebrew in the prison.
+
+- Verse 1 says at the end of two full years; it's not telling you how long Joseph was in prison altogether. Joseph answered Pharaoh, it is not in me: God shall give Pharaoh an answer of peace.
+
 > <sup>[1](/bible/genesis/41#v1)</sup> And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 >
 > <sup>[2](/bible/genesis/41#v2)</sup> And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.
@@ -554,7 +561,31 @@ Reading from *Our Living Bible*  *[[48:57](https://www.youtube.com/watch?v=075qO
 > <sup>[25](/bible/genesis/41#v25)</sup> And Joseph said unto Pharaoh, The dream of Pharaoh is one: God hath shewed Pharaoh what he is about to do.
 >
 > <sup>[26](/bible/genesis/41#v26)</sup> The seven good kine are seven years; and the seven good ears are seven years: the dream is one.
->
+
+- The dream is one: seven years of great plenty, and after them seven years of famine; and for that the dream was doubled unto Pharaoh twice, it is because the thing is established by God. That famine shall surely happen.
+
+- Joseph didn't sleep; he told them exactly what to do: appoint officers, take up the fifth part in the plenteous years, and lay up corn against the famine. To every problem, brothers, we must have a solution. You got some spirits among us: for every solution, they got a problem. Stay away from brothers and sisters like that.
+
+- Pharaoh said, can we find such a one as this, a man in whom the Spirit of God is? He took off his ring and put it upon Joseph's hand, arrayed him in vestures of fine linen, made him to ride in the second chariot, and they cried before him, bow the knee. We're going to tell the nations that too: bow the knee.
+
+- He gave him to wife Asenath, the daughter of Potipherah priest of On. Could he marry an Israelite? There were no other Israelites there.
+
+- Joseph was 30 years old when he stood before Pharaoh. He went in at 17; he was 13 years in prison and servitude, and came out at 30.
+
+- Manasseh means made to forget: God hath made me forget all my toil. Ephraim means fruitful: God hath caused me to be fruitful in the land of my affliction.
+
+- The famine was over all the face of the earth, and all countries came into Egypt to Joseph for to buy corn. That's what it's like when you have a plan, a solution. Joseph didn't sit around and wait for the dearth; the Most High showed him what was coming, and he made moves of preparation. This is how we have to be in IUIC.
+
+  Precepts:
+  - **[Proverbs 22:29](/bible/proverbs/22#v29)**
+    > <sup>[29](/bible/proverbs/22#v29)</sup> Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.
+
+    Seest thou a man diligent in his business? He shall stand before kings; he shall not stand before mean men. Business meaning God's business. This is why you see us meeting dignitaries across the world: because we've been diligent in God's business. Mean men are obscure men; stop wasting your time debating obscure people on the internet who only want clout.
+  - **[Romans 12:11](/bible/romans/12#v11)**
+    > <sup>[11](/bible/romans/12#v11)</sup> Not slothful in business; fervent in spirit; serving the Lord;
+
+    Not slothful in business; fervent in spirit; serving the Lord. That's the proof that the business is God's business.
+
 > <sup>[27](/bible/genesis/41#v27)</sup> And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
 >
 > <sup>[28](/bible/genesis/41#v28)</sup> This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh.
@@ -616,26 +647,6 @@ Reading from *Our Living Bible*  *[[48:57](https://www.youtube.com/watch?v=075qO
 > <sup>[56](/bible/genesis/41#v56)</sup> And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.
 >
 > <sup>[57](/bible/genesis/41#v57)</sup> And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
-
-- At the end of two full years Pharaoh dreamed: seven well favoured fat kine eaten up by seven ill favoured lean kine, and seven good ears devoured by seven thin ears blasted with the east wind. None of the magicians could interpret. Then the chief butler remembered his faults and told Pharaoh of the young Hebrew in the prison.
-- Verse 1 says at the end of two full years; it's not telling you how long Joseph was in prison altogether. Joseph answered Pharaoh, it is not in me: God shall give Pharaoh an answer of peace.
-- The dream is one: seven years of great plenty, and after them seven years of famine; and for that the dream was doubled unto Pharaoh twice, it is because the thing is established by God. That famine shall surely happen.
-- Joseph didn't sleep; he told them exactly what to do: appoint officers, take up the fifth part in the plenteous years, and lay up corn against the famine. To every problem, brothers, we must have a solution. You got some spirits among us: for every solution, they got a problem. Stay away from brothers and sisters like that.
-- Pharaoh said, can we find such a one as this, a man in whom the Spirit of God is? He took off his ring and put it upon Joseph's hand, arrayed him in vestures of fine linen, made him to ride in the second chariot, and they cried before him, bow the knee. We're going to tell the nations that too: bow the knee.
-- He gave him to wife Asenath, the daughter of Potipherah priest of On. Could he marry an Israelite? There were no other Israelites there.
-- Joseph was 30 years old when he stood before Pharaoh. He went in at 17; he was 13 years in prison and servitude, and came out at 30.
-- Manasseh means made to forget: God hath made me forget all my toil. Ephraim means fruitful: God hath caused me to be fruitful in the land of my affliction.
-- The famine was over all the face of the earth, and all countries came into Egypt to Joseph for to buy corn. That's what it's like when you have a plan, a solution. Joseph didn't sit around and wait for the dearth; the Most High showed him what was coming, and he made moves of preparation. This is how we have to be in IUIC.
-
-  Precepts:
-  - **[Proverbs 22:29](/bible/proverbs/22#v29)**
-    > <sup>[29](/bible/proverbs/22#v29)</sup> Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.
-
-    Seest thou a man diligent in his business? He shall stand before kings; he shall not stand before mean men. Business meaning God's business. This is why you see us meeting dignitaries across the world: because we've been diligent in God's business. Mean men are obscure men; stop wasting your time debating obscure people on the internet who only want clout.
-  - **[Romans 12:11](/bible/romans/12#v11)**
-    > <sup>[11](/bible/romans/12#v11)</sup> Not slothful in business; fervent in spirit; serving the Lord;
-
-    Not slothful in business; fervent in spirit; serving the Lord. That's the proof that the business is God's business.
 
 **[Genesis 42:1-38](/bible/genesis/42#v1)**  *[[1:35:53](https://www.youtube.com/watch?v=075qOUs8Sbc&t=5753s)]*
 
@@ -860,7 +871,13 @@ Reading from the Book of Jasher, chapter 54  *[[2:01:37](https://www.youtube.com
 > <sup>[26](/bible/genesis/46#v26)</sup> All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls were threescore and six;
 >
 > <sup>[27](/bible/genesis/46#v27)</sup> And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten.
->
+
+- All the souls of the house of Jacob which came into Egypt were threescore and ten: 70 souls.
+
+- Joseph fell on his father's neck, and wept on his neck a good while. And Israel said, now let me die, since I have seen thy face, because thou art yet alive.
+
+- Joseph instructed them: when Pharaoh shall ask, what is your occupation, ye shall say, thy servants' trade hath been about cattle from our youth; for every shepherd is an abomination unto the Egyptians.
+
 > <sup>[28](/bible/genesis/46#v28)</sup> And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.
 >
 > <sup>[29](/bible/genesis/46#v29)</sup> And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.
@@ -874,10 +891,6 @@ Reading from the Book of Jasher, chapter 54  *[[2:01:37](https://www.youtube.com
 > <sup>[33](/bible/genesis/46#v33)</sup> And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?
 >
 > <sup>[34](/bible/genesis/46#v34)</sup> That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
-
-- All the souls of the house of Jacob which came into Egypt were threescore and ten: 70 souls.
-- Joseph fell on his father's neck, and wept on his neck a good while. And Israel said, now let me die, since I have seen thy face, because thou art yet alive.
-- Joseph instructed them: when Pharaoh shall ask, what is your occupation, ye shall say, thy servants' trade hath been about cattle from our youth; for every shepherd is an abomination unto the Egyptians.
 
 **[Genesis 43:30-32](/bible/genesis/43#v30)**  *[[2:16:16](https://www.youtube.com/watch?v=075qOUs8Sbc&t=8176s)]*
 
@@ -996,7 +1009,9 @@ Reading from *Lost Civilizations: Ramses the Second, Magnificence on the Nile*, 
 **[Psalms 105:17-22](/bible/psalms/105#v17)**  *[[2:38:51](https://www.youtube.com/watch?v=075qOUs8Sbc&t=9531s)]*
 
 > <sup>[17](/bible/psalms/105#v17)</sup> He sent a man before them, even Joseph, who was sold for a servant:
->
+
+- He sent a man before them, even Joseph, who was sold for a servant: whose feet they hurt with fetters: he was laid in iron, meaning chains, until the time that his word came. The king sent and loosed him, and made him lord of his house, to bind his princes at his pleasure, and teach his senators wisdom. Joseph taught the men of Egypt wisdom.
+
 > <sup>[18](/bible/psalms/105#v18)</sup> Whose feet they hurt with fetters: he was laid in iron:
 >
 > <sup>[19](/bible/psalms/105#v19)</sup> Until the time that his word came: the word of the Lord tried him.
@@ -1006,8 +1021,6 @@ Reading from *Lost Civilizations: Ramses the Second, Magnificence on the Nile*, 
 > <sup>[21](/bible/psalms/105#v21)</sup> He made him lord of his house, and ruler of all his substance:
 >
 > <sup>[22](/bible/psalms/105#v22)</sup> To bind his princes at his pleasure; and teach his senators wisdom.
-
-- He sent a man before them, even Joseph, who was sold for a servant: whose feet they hurt with fetters: he was laid in iron, meaning chains, until the time that his word came. The king sent and loosed him, and made him lord of his house, to bind his princes at his pleasure, and teach his senators wisdom. Joseph taught the men of Egypt wisdom.
 
 **[Genesis 49:1-2](/bible/genesis/49#v1)**  *[[2:39:39](https://www.youtube.com/watch?v=075qOUs8Sbc&t=9579s)]*
 
@@ -1019,19 +1032,22 @@ Reading from *Lost Civilizations: Ramses the Second, Magnificence on the Nile*, 
 
 **[Genesis 49:22-26](/bible/genesis/49#v22)**  *[[2:40:11](https://www.youtube.com/watch?v=075qOUs8Sbc&t=9611s)]*
 
+- Joseph is a fruitful bough by a well: they would live by waters, on islands, in the last days. Whose branches run over the wall: walls were built, forts like El Morro that the Spanish built to keep other European powers out of places like Puerto Rico.
+
 > <sup>[22](/bible/genesis/49#v22)</sup> Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:
 >
 > <sup>[23](/bible/genesis/49#v23)</sup> The archers have sorely grieved him, and shot at him, and hated him:
->
+
+- The archers have sorely grieved him, and shot at him, and hated him: the conquistadors sorely grieved him. But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob.
+
 > <sup>[24](/bible/genesis/49#v24)</sup> But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)
 >
 > <sup>[25](/bible/genesis/49#v25)</sup> Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:
->
+
+- Blessings of heaven above: good climate and weather. Blessings of the deep that lieth under: fish and the things beneath the waters. Blessings of the breasts, and of the womb: children upon children.
+
 > <sup>[26](/bible/genesis/49#v26)</sup> The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.
 
-- Joseph is a fruitful bough by a well: they would live by waters, on islands, in the last days. Whose branches run over the wall: walls were built, forts like El Morro that the Spanish built to keep other European powers out of places like Puerto Rico.
-- The archers have sorely grieved him, and shot at him, and hated him: the conquistadors sorely grieved him. But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob.
-- Blessings of heaven above: good climate and weather. Blessings of the deep that lieth under: fish and the things beneath the waters. Blessings of the breasts, and of the womb: children upon children.
 - The blessings of thy father have prevailed above the blessings of my progenitors: what God promised to Abraham, Isaac, and Jacob was not yet fulfilled in their day, but Joseph ruled all Egypt. Canaan wasn't ours yet, and Joseph already had the crown.
 
 <div class="reading">
@@ -1240,6 +1256,8 @@ Reading from *Lost Tribes and Promised Land*, continued  *[[2:45:39](https://www
 
 **[Genesis 50:15-20](/bible/genesis/50#v15)**  *[[3:05:11](https://www.youtube.com/watch?v=075qOUs8Sbc&t=11111s)]*
 
+- When Jacob died, the brothers were scared that Joseph would seek revenge, and they sent a messenger begging forgiveness. And Joseph wept when they spake unto him.
+
 > <sup>[15](/bible/genesis/50#v15)</sup> And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
 >
 > <sup>[16](/bible/genesis/50#v16)</sup> And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,
@@ -1249,11 +1267,9 @@ Reading from *Lost Tribes and Promised Land*, continued  *[[2:45:39](https://www
 > <sup>[18](/bible/genesis/50#v18)</sup> And his brethren also went and fell down before his face; and they said, Behold, we be thy servants.
 >
 > <sup>[19](/bible/genesis/50#v19)</sup> And Joseph said unto them, Fear not: for am I in the place of God?
->
-> <sup>[20](/bible/genesis/50#v20)</sup> But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.
 
-- When Jacob died, the brothers were scared that Joseph would seek revenge, and they sent a messenger begging forgiveness. And Joseph wept when they spake unto him.
 - Joseph said unto them, fear not: for am I in the place of God? But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.
+
 - Only a spiritual man can understand that. Joseph was on another level of understanding: he sat back and reflected on all that happened to him and knew it was God's divine plan. He may not have understood it while he was in the midst of it, but going through the years of plenty and famine he realized his purpose, and God set that whole thing up.
 
   Precepts:
@@ -1290,19 +1306,20 @@ Reading from *Lost Tribes and Promised Land*, continued  *[[2:45:39](https://www
 
     Ye that fear the Lord, wait for his mercy, and go not aside, lest ye fall. Believe him, and your reward shall not fail. Look at the generations of old, and see: did ever any trust in the Lord, and was confounded? Was Job confounded? No. For the Lord is full of compassion and mercy, and saveth in time of affliction.
 
+> <sup>[20](/bible/genesis/50#v20)</sup> But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.
+
 **[Isaiah 43:3-7](/bible/isaiah/43#v3)**  *[[3:10:13](https://www.youtube.com/watch?v=075qOUs8Sbc&t=11413s)]*
 
 > <sup>[3](/bible/isaiah/43#v3)</sup> For I am the Lord thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.
 >
 > <sup>[4](/bible/isaiah/43#v4)</sup> Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
->
+
+- I gave Egypt for thy ransom, Ethiopia and Seba for thee. Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life. When it says give men for thee, it means the nations fall in Israel's place; we don't have to do a thing.
+
 > <sup>[5](/bible/isaiah/43#v5)</sup> Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;
 >
 > <sup>[6](/bible/isaiah/43#v6)</sup> I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
->
-> <sup>[7](/bible/isaiah/43#v7)</sup> Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
 
-- I gave Egypt for thy ransom, Ethiopia and Seba for thee. Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life. When it says give men for thee, it means the nations fall in Israel's place; we don't have to do a thing.
 - I will bring thy seed from the east, and gather thee from the west; I will say to the north, give up; and to the south, keep not back: bring my sons from far, and my daughters from the ends of the earth.
 
   Precepts:
@@ -1310,6 +1327,8 @@ Reading from *Lost Tribes and Promised Land*, continued  *[[2:45:39](https://www
     > <sup>[7](/bible/wisdom-of-solomon/18#v7)</sup> So of thy people was accepted both the salvation of the righteous, and destruction of the enemies.
 
     So of thy people was accepted both the salvation of the righteous and destruction of the enemies. There can be no salvation of the oppressed without the destruction of the oppressor. That is so plain, but for Christians it's so difficult to understand.
+
+> <sup>[7](/bible/isaiah/43#v7)</sup> Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
 
 **[Isaiah 11:13](/bible/isaiah/11#v13)**  *[[3:12:16](https://www.youtube.com/watch?v=075qOUs8Sbc&t=11536s)]*
 
@@ -1338,24 +1357,26 @@ Reading from *Lost Tribes and Promised Land*, continued  *[[2:45:39](https://www
 
 **[Zechariah 9:11-17](/bible/zechariah/9#v11)**  *[[3:14:28](https://www.youtube.com/watch?v=075qOUs8Sbc&t=11668s)]*
 
+- As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water. The blood of the covenant is the new covenant blood of Christ. We are the prisoners; the pit is the same valley as Ezekiel 37, and that pit is Babylon the Great. No water means no truth in this land.
+
 > <sup>[11](/bible/zechariah/9#v11)</sup> As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.
 >
 > <sup>[12](/bible/zechariah/9#v12)</sup> Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;
->
+
+- Turn you to the strong hold, ye prisoners of hope: the strong hold is the Holy Bible. We are the prisoners of hope, hoping for New Jerusalem. Some of our people are hoping for equality; we are not hoping for equality. When the nations say we're all equal, think about what that translates to: them on top, us on the bottom.
+
+- I will raise up thy sons, O Zion, against thy sons, O Greece: he's going to raise up all twelve tribes against Esau, and make thee as the sword of a mighty man. He's going to transform us from these weak, frail bodies into the sword of a mighty man.
+
 > <sup>[13](/bible/zechariah/9#v13)</sup> When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man.
 >
 > <sup>[14](/bible/zechariah/9#v14)</sup> And the Lord shall be seen over them, and his arrow shall go forth as the lightning: and the Lord God shall blow the trumpet, and shall go with whirlwinds of the south.
->
+
+- The Lord shall be seen over them, and his arrow shall go forth as the lightning: it's going to be God's doing, no question. You're going to see the chariots of God above our heads; the whirlwinds of the south are the chariots.
+
 > <sup>[15](/bible/zechariah/9#v15)</sup> The Lord of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, and make a noise as through wine; and they shall be filled like bowls, and as the corners of the altar.
 >
 > <sup>[16](/bible/zechariah/9#v16)</sup> And the Lord their God shall save them in that day as the flock of his people: for they shall be as the stones of a crown, lifted up as an ensign upon his land.
->
-> <sup>[17](/bible/zechariah/9#v17)</sup> For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids.
 
-- As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water. The blood of the covenant is the new covenant blood of Christ. We are the prisoners; the pit is the same valley as Ezekiel 37, and that pit is Babylon the Great. No water means no truth in this land.
-- Turn you to the strong hold, ye prisoners of hope: the strong hold is the Holy Bible. We are the prisoners of hope, hoping for New Jerusalem. Some of our people are hoping for equality; we are not hoping for equality. When the nations say we're all equal, think about what that translates to: them on top, us on the bottom.
-- I will raise up thy sons, O Zion, against thy sons, O Greece: he's going to raise up all twelve tribes against Esau, and make thee as the sword of a mighty man. He's going to transform us from these weak, frail bodies into the sword of a mighty man.
-- The Lord shall be seen over them, and his arrow shall go forth as the lightning: it's going to be God's doing, no question. You're going to see the chariots of God above our heads; the whirlwinds of the south are the chariots.
 - The Lord their God shall save them in that day as the flock of his people: for they shall be as the stones of a crown, lifted up as an ensign upon his land. Not a brick, not cement: stones of a crown, rubies, jewels. That's how we're going to be.
 
   Precepts:
@@ -1367,6 +1388,8 @@ Reading from *Lost Tribes and Promised Land*, continued  *[[2:45:39](https://www
     > <sup>[6](/bible/deuteronomy/7#v6)</sup> For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.
 
     For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth. Does it say equal? It says above.
+
+> <sup>[17](/bible/zechariah/9#v17)</sup> For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids.
 
 ## In Closing
 

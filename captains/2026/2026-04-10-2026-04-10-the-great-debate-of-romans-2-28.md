@@ -76,10 +76,6 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "idolatry", "sexual-purit
 **[Romans 2:25-27](/bible/romans/2#v25)**  *[[7:30](https://www.youtube.com/watch?v=Za7Vkz8Or24&t=450s)]*
 
 > <sup>[25](/bible/romans/2#v25)</sup> For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.
->
-> <sup>[26](/bible/romans/2#v26)</sup> Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?
->
-> <sup>[27](/bible/romans/2#v27)</sup> And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?
 
 - For circumcision verily profiteth, if thou keep the law: circumcision only profits if you're keeping the law. These southern kingdom Jews were circumcised but still breaking the law, as all the Pharisees did in Christ's time.
 
@@ -87,18 +83,22 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "idolatry", "sexual-purit
 
 - Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision? The northern kingdom, the uncircumcision, trying to keep the law. Yes, eventually they will have to get circumcised, but they have to start keeping the laws first.
 
+> <sup>[26](/bible/romans/2#v26)</sup> Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?
+>
+> <sup>[27](/bible/romans/2#v27)</sup> And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?
+
 - Judge thee, who by the letter and circumcision dost transgress the law: you guys are circumcised, but you are still transgressing the law. Some of the southern kingdom were still doing the idolatry, the stealing, everything he named up top.
 
 
 **[Romans 2:28-29](/bible/romans/2#v28)**  *[[9:33](https://www.youtube.com/watch?v=Za7Vkz8Or24&t=573s)]*
 
-> <sup>[28](/bible/romans/2#v28)</sup> For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:
->
-> <sup>[29](/bible/romans/2#v29)</sup> But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.
-
 - The great debate scripture: Christians say anybody can be a Jew, if it's not outwardly, it's inwardly. Paul's not talking about that at all. Reading through the chapter, Paul has not said anything to do with any type of nation. This is talking about being a hypocrite and keeping the commandments.
 
+> <sup>[28](/bible/romans/2#v28)</sup> For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:
+
 - For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh: the outward appearance is the circumcision, the broad phylacteries, the fringes. Just wearing those things does not make you a Jew.
+
+> <sup>[29](/bible/romans/2#v29)</sup> But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.
 
 - But he is a Jew, which is one inwardly: keeping all the commandments when no one's watching him, not just outwardly in front of men. That's what makes you a real Jew when you're an Israelite.
 
@@ -120,15 +120,15 @@ tags: ["15 Minutes w/ The Captains", "false-religion", "idolatry", "sexual-purit
 
 **[Matthew 23:1-3](/bible/matthew/23#v1)**  *[[13:43](https://www.youtube.com/watch?v=Za7Vkz8Or24&t=823s)]*
 
+- Where's Paul getting this from? Christ taught Paul. That's where he's getting his understanding about them being hypocrites.
+
 > <sup>[1](/bible/matthew/23#v1)</sup> Then spake Jesus to the multitude, and to his disciples,
 >
 > <sup>[2](/bible/matthew/23#v2)</sup> Saying, The scribes and the Pharisees sit in Moses’ seat:
->
-> <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
-
-- Where's Paul getting this from? Christ taught Paul. That's where he's getting his understanding about them being hypocrites.
 
 - The scribes and the Pharisees sit in Moses' seat: all therefore whatsoever they bid you observe, that observe and do. Whatever they tell you to do by the law, you should do it.
+
+> <sup>[3](/bible/matthew/23#v3)</sup> All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
 
 - But do not ye after their works: for they say, and do not. They were saying to do these laws, but not doing them themselves. Just like the story of the woman caught in adultery: he that is without sin, let him first cast a stone. They was doing the sin too. That's why they all walked away. That's what Paul's getting at in Romans chapter two.
 

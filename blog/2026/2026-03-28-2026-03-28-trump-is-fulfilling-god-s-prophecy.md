@@ -118,6 +118,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 
 **[Isaiah 14:3-19](/bible/isaiah/14#v3)**  *[[59:23](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3563s)]*
 
+- The rest from sorrow and hard bondage is for the Israelites, the kingdom of heaven, and the thou taking up the proverb against the king of Babylon is us: how hath the oppressor ceased, the golden city ceased. The king of Babylon is America.
+
+- He that smote the people in wrath with a continual stroke and ruled the nations in anger: America is now the oppressor openly, and Iran should not taunt a man who rules in anger. When America is destroyed the whole earth is at rest and breaks forth into singing, and the cedars of Lebanon, where over twelve hundred are dead and half the country seized, say no feller is come up against us.
+
+- Hell from beneath stirs up the chief ones of the earth: the kings of the nations rise from their thrones against Israel and America and say art thou become weak as we, thy pomp brought down to the grave.
+
 > <sup>[3](/bible/isaiah/14#v3)</sup> And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
 >
 > <sup>[4](/bible/isaiah/14#v4)</sup> That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
@@ -137,7 +143,11 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 > <sup>[11](/bible/isaiah/14#v11)</sup> Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee.
 >
 > <sup>[12](/bible/isaiah/14#v12)</sup> How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
->
+
+- How art thou fallen from heaven, O Lucifer: Lucifer is America, which weakened the nations through sanctions and, when Iran built a military around the sanctions, through war. I will ascend into heaven is space travel, above the heights of the clouds is the airplane, the mount of the congregation in the sides of the north is sitting on the twelve tribes in North America, and I will be like the Most High is setting themselves up as God's people.
+
+- Is this the man that made the earth to tremble, that shook kingdoms and made the world a wilderness: Lucifer is a man, the white man, who wars by flying over your cities and dropping bombs, as Palestine, Libya and now Iran show. That opened not the house of his prisoners: we are still slaves in Babylon, born into it and conditioned not to see it. All the kings of the nations lie in glory, every one in his own house, so everyone goes back to his own land, but thou art cast out.
+
 > <sup>[13](/bible/isaiah/14#v13)</sup> For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
 >
 > <sup>[14](/bible/isaiah/14#v14)</sup> I will ascend above the heights of the clouds; I will be like the most High.
@@ -152,23 +162,17 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 >
 > <sup>[19](/bible/isaiah/14#v19)</sup> But thou art cast out of thy grave like an abominable branch, and as the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet.
 
-- The rest from sorrow and hard bondage is for the Israelites, the kingdom of heaven, and the thou taking up the proverb against the king of Babylon is us: how hath the oppressor ceased, the golden city ceased. The king of Babylon is America.
-
-- He that smote the people in wrath with a continual stroke and ruled the nations in anger: America is now the oppressor openly, and Iran should not taunt a man who rules in anger. When America is destroyed the whole earth is at rest and breaks forth into singing, and the cedars of Lebanon, where over twelve hundred are dead and half the country seized, say no feller is come up against us.
-
-- Hell from beneath stirs up the chief ones of the earth: the kings of the nations rise from their thrones against Israel and America and say art thou become weak as we, thy pomp brought down to the grave.
-
-- How art thou fallen from heaven, O Lucifer: Lucifer is America, which weakened the nations through sanctions and, when Iran built a military around the sanctions, through war. I will ascend into heaven is space travel, above the heights of the clouds is the airplane, the mount of the congregation in the sides of the north is sitting on the twelve tribes in North America, and I will be like the Most High is setting themselves up as God's people.
-
-- Is this the man that made the earth to tremble, that shook kingdoms and made the world a wilderness: Lucifer is a man, the white man, who wars by flying over your cities and dropping bombs, as Palestine, Libya and now Iran show. That opened not the house of his prisoners: we are still slaves in Babylon, born into it and conditioned not to see it. All the kings of the nations lie in glory, every one in his own house, so everyone goes back to his own land, but thou art cast out.
-
 
 *[[1:03:50](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=3830s)]* **In The News: Iran's AI videos trolling Trump and Netanyahu, and Trump saying the war is finished three times** — The Iranians are not backward; their women are professors and physicists building the weapons. But do not make the man who rules the nations in anger angry, or he blows up a nuclear power plant.
 
 **[Matthew 24:3-8](/bible/matthew/24#v3)**  *[[1:17:02](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=4622s)]*
 
 > <sup>[3](/bible/matthew/24#v3)</sup> And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
->
+
+- What shall be the sign of thy coming: the deception of many coming in Christ's name goes with the wars and rumours of wars, because the Judeo-Christian religion and the people who say they are Jews put in that land are behind the wars.
+
+- Nation against nation, famines, pestilences and earthquakes must all come before Christ returns, and the class shows who is behind them.
+
 > <sup>[4](/bible/matthew/24#v4)</sup> And Jesus answered and said unto them, Take heed that no man deceive you.
 >
 > <sup>[5](/bible/matthew/24#v5)</sup> For many shall come in my name, saying, I am Christ; and shall deceive many.
@@ -178,10 +182,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 > <sup>[7](/bible/matthew/24#v7)</sup> For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
 >
 > <sup>[8](/bible/matthew/24#v8)</sup> All these are the beginning of sorrows.
-
-- What shall be the sign of thy coming: the deception of many coming in Christ's name goes with the wars and rumours of wars, because the Judeo-Christian religion and the people who say they are Jews put in that land are behind the wars.
-
-- Nation against nation, famines, pestilences and earthquakes must all come before Christ returns, and the class shows who is behind them.
 
 
 **[Jeremiah 51:49](/bible/jeremiah/51#v49)**  *[[1:20:26](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=4826s)]*
@@ -206,8 +206,6 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 **[Revelation 6:7-8](/bible/revelation/6#v7)**  *[[1:25:05](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5105s)]*
 
 > <sup>[7](/bible/revelation/6#v7)</sup> And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
->
-> <sup>[8](/bible/revelation/6#v8)</sup> And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
 
 - The fourth seal: a pale horse whose rider is death and hell followed with him. That is America, the oppressor, bringing death and hell wherever he goes, secretly under Obama, who killed Gaddafi with nobody saying a word, and openly under Trump.
 
@@ -222,6 +220,8 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
     > <sup>[5](/bible/habakkuk/2#v5)</sup> Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
 
     The vision is for an appointed time and will not tarry; his soul is not upright in him, he is a proud man who keepeth not at home, with bases in every country, who enlargeth his desire as hell and is as death: hell and death of Revelation 6 is America.
+
+> <sup>[8](/bible/revelation/6#v8)</sup> And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
 
 
 *[[1:26:30](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=5190s)]* **In The News: An American commentator: sanctions and wars since 1971 killed thirty-eight million people, starving Venezuela, Cuba and Iran to make them rise against their governments** — Their wickedness is being revealed, and what comes next will be billions.
@@ -317,6 +317,12 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 
 **[2 Esdras 16:1-17](/bible/2-esdras/16#v1)**  *[[2:23:30](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=8610s)]*
 
+- Woe be unto thee Babylon and Asia, Egypt and Syria: death and destruction; gird up in sackcloth and bewail your children, for your destruction is at hand. America and Israel are about to destroy many over there; Iran will not be fully destroyed and will make some agreement, but Iran is hitting America's pockets.
+
+- A sword is sent upon you and who may turn it back; a fire, the bombs, and who may quench it; plagues, and who may drive them away. Nobody can say we will not do what the Lord wants; if God wants a tactical nuclear weapon dropped or a power plant destroyed, Trump will do it, because America and Israel must be greatly despised for evil against international law.
+
+- No man drives away a hungry lion or turns back a strong archer's arrow: the mighty Lord sendeth the plagues. Impeach Trump and the next president does the same, because a man's goings are of the Lord.
+
 > <sup>[1](/bible/2-esdras/16#v1)</sup> Woe be unto thee, Babylon, and Asia! woe be unto thee, Egypt and Syria!
 >
 > <sup>[2](/bible/2-esdras/16#v2)</sup> Gird up yourselves with cloths of sack and hair, bewail your children, and be sorry; for your destruction is at hand.
@@ -338,7 +344,11 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 > <sup>[10](/bible/2-esdras/16#v10)</sup> He shall cast lightnings, and who shall not fear? he shall thunder, and who shall not be afraid?
 >
 > <sup>[11](/bible/2-esdras/16#v11)</sup> The Lord shall threaten, and who shall not be utterly beaten to powder at his presence?
->
+
+- The Lord shall threaten, and who shall not be utterly beaten to powder: prophesying is threatening, telling them the Lord is coming back to destroy America and Europe, so do not expect a quiet life for it.
+
+- The plagues are sent and shall not return until they come upon the earth, the fire shall not be put out; Ezra says woe is me in those days because Ezra is alive on the earth now. The beginning of sorrows and great mournings, of famine and great death, of wars, and the powers shall stand in fear, while those who understand say yes, Lord, you are doing your thing.
+
 > <sup>[12](/bible/2-esdras/16#v12)</sup> The earth quaketh, and the foundations thereof; the sea ariseth up with waves from the deep, and the waves of it are troubled, and the fishes thereof also, before the Lord, and before the glory of his power:
 >
 > <sup>[13](/bible/2-esdras/16#v13)</sup> For strong is his right hand that bendeth the bow, his arrows that he shooteth are sharp, and shall not miss, when they begin to be shot into the ends of the world.
@@ -351,30 +361,20 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "anger", "leadership", "natio
 >
 > <sup>[17](/bible/2-esdras/16#v17)</sup> Woe is me! woe is me! who will deliver me in those days?
 
-- Woe be unto thee Babylon and Asia, Egypt and Syria: death and destruction; gird up in sackcloth and bewail your children, for your destruction is at hand. America and Israel are about to destroy many over there; Iran will not be fully destroyed and will make some agreement, but Iran is hitting America's pockets.
-
-- A sword is sent upon you and who may turn it back; a fire, the bombs, and who may quench it; plagues, and who may drive them away. Nobody can say we will not do what the Lord wants; if God wants a tactical nuclear weapon dropped or a power plant destroyed, Trump will do it, because America and Israel must be greatly despised for evil against international law.
-
-- No man drives away a hungry lion or turns back a strong archer's arrow: the mighty Lord sendeth the plagues. Impeach Trump and the next president does the same, because a man's goings are of the Lord.
-
-- The Lord shall threaten, and who shall not be utterly beaten to powder: prophesying is threatening, telling them the Lord is coming back to destroy America and Europe, so do not expect a quiet life for it.
-
-- The plagues are sent and shall not return until they come upon the earth, the fire shall not be put out; Ezra says woe is me in those days because Ezra is alive on the earth now. The beginning of sorrows and great mournings, of famine and great death, of wars, and the powers shall stand in fear, while those who understand say yes, Lord, you are doing your thing.
-
 
 **[2 Esdras 16:39-41](/bible/2-esdras/16#v39)**  *[[2:35:05](https://www.youtube.com/watch?v=tbNxY_tnFF4&t=9305s)]*
+
+- The plagues shall not be slack to come upon the earth, the world shall mourn and sorrows come on every side; eighty per cent of the Caribbean's food comes from abroad, and if America falls everybody falls.
 
 > <sup>[39](/bible/2-esdras/16#v39)</sup> Even so shall not the plagues be slack to come upon the earth, and the world shall mourn, and sorrows shall come upon it on every side.
 >
 > <sup>[40](/bible/2-esdras/16#v40)</sup> O my people, hear my word: make you ready to thy battle, and in those evils be even as pilgrims upon the earth.
->
-> <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
-
-- The plagues shall not be slack to come upon the earth, the world shall mourn and sorrows come on every side; eighty per cent of the Caribbean's food comes from abroad, and if America falls everybody falls.
 
 - O my people, hear my word: make you ready to the battle. If you believe, prepare; buy land and build self-sustaining communities, and do not sit down saying God has got me.
 
 - In those evils be even as pilgrims upon the earth: be ready to leave the house, the car and the job and go to another state or country. Brothers, make sure she is a ride-or-die who is not Americanised; sisters, toughen up and keep your femininity, because a lot of suffering is about to take place.
+
+> <sup>[41](/bible/2-esdras/16#v41)</sup> He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
 
 
 ## Class Questions

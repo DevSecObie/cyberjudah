@@ -217,6 +217,8 @@ Reading from a post by Officer Brandon Tatum and wife  *[[50:16](https://www.you
 
 **[John 10:8-13](/bible/john/10#v8)**  *[[50:31](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3031s)]*
 
+- The thief cometh not, but for to steal, and to kill, and to destroy. You may ask yourself, well, who's it talking about? Rome. Rome stole; Rome was doing a whole lot of killing; and destroy: 70 AD Rome destroyed us.
+
 > <sup>[8](/bible/john/10#v8)</sup> All that ever came before me are thieves and robbers: but the sheep did not hear them.
 >
 > <sup>[9](/bible/john/10#v9)</sup> I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
@@ -224,14 +226,14 @@ Reading from a post by Officer Brandon Tatum and wife  *[[50:16](https://www.you
 > <sup>[10](/bible/john/10#v10)</sup> The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
 >
 > <sup>[11](/bible/john/10#v11)</sup> I am the good shepherd: the good shepherd giveth his life for the sheep.
->
+
+- I am the good shepherd: the good shepherd giveth his life for the sheep. But he that is an hireling, and not the shepherd, seeth the wolf coming; he sees danger coming, and leaveth the sheep, and fleeth; he runs for his life. And the wolf catcheth them, and scattereth the sheep.
+
+- The hireling fleeth, because he is an hireling, and careth not for the sheep. A brother that's a hireling does not care for the sheep.
+
 > <sup>[12](/bible/john/10#v12)</sup> But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.
 >
 > <sup>[13](/bible/john/10#v13)</sup> The hireling fleeth, because he is an hireling, and careth not for the sheep.
-
-- The thief cometh not, but for to steal, and to kill, and to destroy. You may ask yourself, well, who's it talking about? Rome. Rome stole; Rome was doing a whole lot of killing; and destroy: 70 AD Rome destroyed us.
-- I am the good shepherd: the good shepherd giveth his life for the sheep. But he that is an hireling, and not the shepherd, seeth the wolf coming; he sees danger coming, and leaveth the sheep, and fleeth; he runs for his life. And the wolf catcheth them, and scattereth the sheep.
-- The hireling fleeth, because he is an hireling, and careth not for the sheep. A brother that's a hireling does not care for the sheep.
 
 <div class="reading">
 
@@ -274,17 +276,16 @@ Reading from a definition of hireling  *[[54:33](https://www.youtube.com/watch?v
 
 **[Jeremiah 23:1-4](/bible/jeremiah/23#v1)**  *[[54:53](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3293s)]*
 
+- Jeremiah 23 really talks about the essence of hirelings. Woe be unto the pastors that destroy and scatter the sheep of my pasture. How do they scatter the sheep? In Christianity they will scatter the sheep by sending them either to the Baptist church, Catholic church, holiness church, whatever denomination. We're being divided rather than uniting us as the twelve tribes of Israel.
+
+- Even during the time of Christ you had groups like the Sadducees, the Pharisees, the Stoics, the Epicureans, and the Herodians. They were still being scattered even during the time of Christ. It's happening today. And remember, this is about Israelites; this is not so much talking about Esau. It's really talking about our people.
+
 > <sup>[1](/bible/jeremiah/23#v1)</sup> Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the Lord.
 >
 > <sup>[2](/bible/jeremiah/23#v2)</sup> Therefore thus saith the Lord God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the Lord.
->
-> <sup>[3](/bible/jeremiah/23#v3)</sup> And I will gather the remnant of my flock out of all countries whither I have driven them, and will bring them again to their folds; and they shall be fruitful and increase.
->
-> <sup>[4](/bible/jeremiah/23#v4)</sup> And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the Lord.
 
-- Jeremiah 23 really talks about the essence of hirelings. Woe be unto the pastors that destroy and scatter the sheep of my pasture. How do they scatter the sheep? In Christianity they will scatter the sheep by sending them either to the Baptist church, Catholic church, holiness church, whatever denomination. We're being divided rather than uniting us as the twelve tribes of Israel.
-- Even during the time of Christ you had groups like the Sadducees, the Pharisees, the Stoics, the Epicureans, and the Herodians. They were still being scattered even during the time of Christ. It's happening today. And remember, this is about Israelites; this is not so much talking about Esau. It's really talking about our people.
 - Ye have scattered my flock, and driven them away: driven them away from the truth that they're the Israelites of the twelve tribes.
+
 - I will set up shepherds over them, which shall feed them, and they shall fear no more, neither shall they be lacking. Cuz right now we are lacking as a race, as a people. We're lacking knowledge, wisdom, and understanding. But when you break it down, we're lacking rulership. We are lacking dominion of the earth. We're lacking our own country, a fortified family, a nation. We're lacking everything. We are a lacking people.
 
   Precepts:
@@ -297,17 +298,16 @@ Reading from a definition of hireling  *[[54:33](https://www.youtube.com/watch?v
 
     I will give you pastors according to mine heart, which shall feed you with knowledge and understanding of what? God's laws. Ain't talking about feeding them with jumping up and down and screaming and foaming at the mouth.
 
+> <sup>[3](/bible/jeremiah/23#v3)</sup> And I will gather the remnant of my flock out of all countries whither I have driven them, and will bring them again to their folds; and they shall be fruitful and increase.
+>
+> <sup>[4](/bible/jeremiah/23#v4)</sup> And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the Lord.
+
 **[Jeremiah 23:5-8](/bible/jeremiah/23#v5)**  *[[59:02](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3542s)]*
 
 > <sup>[5](/bible/jeremiah/23#v5)</sup> Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
->
-> <sup>[6](/bible/jeremiah/23#v6)</sup> In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
->
-> <sup>[7](/bible/jeremiah/23#v7)</sup> Therefore, behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, which brought up the children of Israel out of the land of Egypt;
->
-> <sup>[8](/bible/jeremiah/23#v8)</sup> But, The Lord liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.
 
 - I will raise unto David a righteous Branch: this is Christ. In his days Judah shall be saved, and Israel shall dwell safely; remember we were split into two kingdoms.
+
 - The Lord liveth, which led the seed of the house of Israel out of the north country: the north country is North America. And they shall dwell in their own land. That's what we were lacking; we don't have our own land.
 
   Precepts:
@@ -320,7 +320,19 @@ Reading from a definition of hireling  *[[54:33](https://www.youtube.com/watch?v
 
     Come forth, and flee from the land of the north: flee from North America. I have spread you abroad as the four winds of the heaven; we're not just in North America. Deliver thyself, O Zion, that dwellest with the daughter of Babylon: who's that? Judah. He that toucheth you toucheth the apple of his eye: meaning we're his favorite. We're God's favorite.
 
+> <sup>[6](/bible/jeremiah/23#v6)</sup> In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
+>
+> <sup>[7](/bible/jeremiah/23#v7)</sup> Therefore, behold, the days come, saith the Lord, that they shall no more say, The Lord liveth, which brought up the children of Israel out of the land of Egypt;
+>
+> <sup>[8](/bible/jeremiah/23#v8)</sup> But, The Lord liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.
+
 **[Jeremiah 23:9-15](/bible/jeremiah/23#v9)**  *[[1:03:14](https://www.youtube.com/watch?v=AEtwteuLiy4&t=3794s)]*
+
+- The land is full of adulterers. For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the Lord. In God's house he found out the prophets and priests were wicked.
+
+- Their ways shall be unto them as slippery ways in the darkness: whatever path they were taking, they would fall. I will bring evil upon them: I'mma bring the Babylonians on them.
+
+- I have seen folly in the prophets of Samaria, the northern kingdom: they prophesied in Baal. It was the same with the northern kingdom as well.
 
 > <sup>[9](/bible/jeremiah/23#v9)</sup> Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the Lord, and because of the words of his holiness.
 >
@@ -333,15 +345,14 @@ Reading from a definition of hireling  *[[54:33](https://www.youtube.com/watch?v
 > <sup>[13](/bible/jeremiah/23#v13)</sup> And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.
 >
 > <sup>[14](/bible/jeremiah/23#v14)</sup> I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery, and walk in lies: they strengthen also the hands of evildoers, that none doth return from his wickedness: they are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah.
->
-> <sup>[15](/bible/jeremiah/23#v15)</sup> Therefore thus saith the Lord of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.
 
-- The land is full of adulterers. For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the Lord. In God's house he found out the prophets and priests were wicked.
-- Their ways shall be unto them as slippery ways in the darkness: whatever path they were taking, they would fall. I will bring evil upon them: I'mma bring the Babylonians on them.
-- I have seen folly in the prophets of Samaria, the northern kingdom: they prophesied in Baal. It was the same with the northern kingdom as well.
 - I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery. Video played: "I need to tell you the truth. For months I answered the church's official phone. I thought they were prayer requests. They weren't. Our pastor used that number to set up meetings with women. I had every call recorded." You might say, well, that's AI. Let me tell you, that stuff be real. I grew up in the church; I've seen all kind of stuff.
+
 - And walk in lies: like we just saw those pastors walk in lies at the sit down; their point was don't keep the commandments, don't keep God's laws.
+
 - They strengthen also the hands of evildoers. I'mma show you how they strengthen their hands.
+
+> <sup>[15](/bible/jeremiah/23#v15)</sup> Therefore thus saith the Lord of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.
 
 <div class="reading">
 
@@ -371,23 +382,30 @@ Reading from a headline on a pastor  *[[1:09:13](https://www.youtube.com/watch?v
 **[Jeremiah 23:16-20](/bible/jeremiah/23#v16)**  *[[1:16:26](https://www.youtube.com/watch?v=AEtwteuLiy4&t=4586s)]*
 
 > <sup>[16](/bible/jeremiah/23#v16)</sup> Thus saith the Lord of hosts, Hearken not unto the words of the prophets that prophesy unto you: they make you vain: they speak a vision of their own heart, and not out of the mouth of the Lord.
->
+
+- Hearken not unto the words of the prophets that prophesy unto you: they make you vain. They speak a vision of their own heart, meaning their own mind, what they feel at that time, at that moment. You see a lot of them on TikTok, Instagram: I don't know who this is for, but God has a message for you. And it's some bull crap they went through the night before. And not out of the mouth of the Lord: what they say is not coming from the Bible.
+
 > <sup>[17](/bible/jeremiah/23#v17)</sup> They say still unto them that despise me, The Lord hath said, Ye shall have peace; and they say unto every one that walketh after the imagination of his own heart, No evil shall come upon you.
->
+
+- They say still unto them that despise me: meaning they're talking to the people that really hate God. If you speak to Christians, you'll find that a lot of them really hate God. Two men cannot lay together; you can't judge: these are some violent, nasty people. And don't watch Tubi. Tubi is an evil source of debauchery. They got good movies on there, but there's some filth on there.
+
+- The Lord hath said, Ye shall have peace. At the sit down, the man with the hat kept saying, when tribulation comes, we're not going to be here; the church won't be here. Christians just lie and tell you there's going to be peace.
+
+- Who hath stood in the counsel of the Lord? That's the issue: nobody's standing in the counsel of the Lord. They're going after the imagination and thoughts of their own mind.
+
 > <sup>[18](/bible/jeremiah/23#v18)</sup> For who hath stood in the counsel of the Lord, and hath perceived and heard his word? who hath marked his word, and heard it?
 >
 > <sup>[19](/bible/jeremiah/23#v19)</sup> Behold, a whirlwind of the Lord is gone forth in fury, even a grievous whirlwind: it shall fall grievously upon the head of the wicked.
->
-> <sup>[20](/bible/jeremiah/23#v20)</sup> The anger of the Lord shall not return, until he have executed, and till he have performed the thoughts of his heart: in the latter days ye shall consider it perfectly.
 
-- Hearken not unto the words of the prophets that prophesy unto you: they make you vain. They speak a vision of their own heart, meaning their own mind, what they feel at that time, at that moment. You see a lot of them on TikTok, Instagram: I don't know who this is for, but God has a message for you. And it's some bull crap they went through the night before. And not out of the mouth of the Lord: what they say is not coming from the Bible.
-- They say still unto them that despise me: meaning they're talking to the people that really hate God. If you speak to Christians, you'll find that a lot of them really hate God. Two men cannot lay together; you can't judge: these are some violent, nasty people. And don't watch Tubi. Tubi is an evil source of debauchery. They got good movies on there, but there's some filth on there.
-- The Lord hath said, Ye shall have peace. At the sit down, the man with the hat kept saying, when tribulation comes, we're not going to be here; the church won't be here. Christians just lie and tell you there's going to be peace.
-- Who hath stood in the counsel of the Lord? That's the issue: nobody's standing in the counsel of the Lord. They're going after the imagination and thoughts of their own mind.
 - Behold, a whirlwind of the Lord is gone forth in fury: the anger of the Lord shall not return, until he have executed the thoughts of his heart. In the latter days ye shall consider it perfectly. Our people will not repent unless they get a foot up their behind. Death makes people reconsider their ways. That's why, when you read the Old Testament and Israel didn't do what they were supposed to do, God said kill them. So now today, God saying, okay, they still ain't repentant; he says to the white man, I want you to kill x amount of them. And why is this happening? We're Christians, we serve the same God you do. The white man said, we don't give a damn about that.
+
 - News shown: they tied a young black girl up with a ratchet strap on a tree, the ratchet straps the trucks use to hold down wood. What 16 or 17 year old girl walks around with this, ties it around her neck and a tree two times? And it comes out, oh, that's suicide. Stop the cap.
+
 - You know the reason why the nations can insult our intelligence with stuff like this here? Because we're not unified. If we ain't connected to the Lord, we're not organized, we're not unified. They don't do this to the so-called Chinese, Japanese; they don't do that to nobody else, but they'll do it to us, because we are not unified. There's no consequence. They can do these things with impunity. They're gonna get upset a little bit, say a few things on the news, we demand justice, and then the 4th of July come and they forget all about it.
+
 - Sometime you think it's only the men they going after. Oh no, they getting the black woman too. So all you independent women, you just get ready. I love everybody, I don't see color; well, guess what? Color sees you.
+
+> <sup>[20](/bible/jeremiah/23#v20)</sup> The anger of the Lord shall not return, until he have executed, and till he have performed the thoughts of his heart: in the latter days ye shall consider it perfectly.
 
 <div class="reading">
 
@@ -436,7 +454,15 @@ Reading from an image on two found hanging  *[[1:26:24](https://www.youtube.com/
 **[Jeremiah 23:21-32](/bible/jeremiah/23#v21)**  *[[1:25:02](https://www.youtube.com/watch?v=AEtwteuLiy4&t=5102s)]*
 
 > <sup>[21](/bible/jeremiah/23#v21)</sup> I have not sent these prophets, yet they ran: I have not spoken to them, yet they prophesied.
->
+
+- I have not sent these prophets: he didn't send these pastors, these Christian reverends. Yet they ran: I'm going to build a church here. I have not spoken to them: when they say God spoke to me, it's a lie. Yet they prophesied.
+
+- If they had stood in my counsel, stayed in the Bible, and had caused my people to hear my words, then they should have turned them from their evil way. With the word of God you could turn the people from their evil way. That's what the captains was doing on that sit down: let's turn the minds of the people around. You can only transform them with the Bible, the commandments of God.
+
+- And you know that sit down's going to hit millions. Just let it sit there a year. We going to see them people that trusted in Fred Price and them other three stooges; they going to be like, our pastors don't know a damn thing.
+
+- I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed. Y'all know where it come from: Martin Luther King. But did it really come from Martin Luther King?
+
 > <sup>[22](/bible/jeremiah/23#v22)</sup> But if they had stood in my counsel, and had caused my people to hear my words, then they should have turned them from their evil way, and from the evil of their doings.
 >
 > <sup>[23](/bible/jeremiah/23#v23)</sup> Am I a God at hand, saith the Lord, and not a God afar off?
@@ -458,11 +484,6 @@ Reading from an image on two found hanging  *[[1:26:24](https://www.youtube.com/
 > <sup>[31](/bible/jeremiah/23#v31)</sup> Behold, I am against the prophets, saith the Lord, that use their tongues, and say, He saith.
 >
 > <sup>[32](/bible/jeremiah/23#v32)</sup> Behold, I am against them that prophesy false dreams, saith the Lord, and do tell them, and cause my people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the Lord.
-
-- I have not sent these prophets: he didn't send these pastors, these Christian reverends. Yet they ran: I'm going to build a church here. I have not spoken to them: when they say God spoke to me, it's a lie. Yet they prophesied.
-- If they had stood in my counsel, stayed in the Bible, and had caused my people to hear my words, then they should have turned them from their evil way. With the word of God you could turn the people from their evil way. That's what the captains was doing on that sit down: let's turn the minds of the people around. You can only transform them with the Bible, the commandments of God.
-- And you know that sit down's going to hit millions. Just let it sit there a year. We going to see them people that trusted in Fred Price and them other three stooges; they going to be like, our pastors don't know a damn thing.
-- I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed. Y'all know where it come from: Martin Luther King. But did it really come from Martin Luther King?
 
 <div class="reading">
 
@@ -519,6 +540,10 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
 
 **[Ezekiel 34:1-6](/bible/ezekiel/34#v1)**  *[[1:41:36](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6096s)]*
 
+- What Jeremiah prophesied is very similar to what Ezekiel prophesied. Woe be to the shepherds of Israel that do feed themselves: should not the shepherds feed the flock? Ye eat the fat, and ye clothe you with the wool; they get the best clothes. Ye kill them that are fed, but ye feed not the flock: you ain't taking care of the flock, you feeding yourself.
+
+- The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye brought again that which was driven away, referring to the twelve tribes that were scattered. But with force and with cruelty have ye ruled them. Remember, Ezekiel is in the Babylonian captivity.
+
 > <sup>[1](/bible/ezekiel/34#v1)</sup> And the word of the Lord came unto me, saying,
 >
 > <sup>[2](/bible/ezekiel/34#v2)</sup> Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
@@ -528,18 +553,21 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
 > <sup>[4](/bible/ezekiel/34#v4)</sup> The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
 >
 > <sup>[5](/bible/ezekiel/34#v5)</sup> And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.
->
-> <sup>[6](/bible/ezekiel/34#v6)</sup> My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek after them.
 
-- What Jeremiah prophesied is very similar to what Ezekiel prophesied. Woe be to the shepherds of Israel that do feed themselves: should not the shepherds feed the flock? Ye eat the fat, and ye clothe you with the wool; they get the best clothes. Ye kill them that are fed, but ye feed not the flock: you ain't taking care of the flock, you feeding yourself.
-- The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye brought again that which was driven away, referring to the twelve tribes that were scattered. But with force and with cruelty have ye ruled them. Remember, Ezekiel is in the Babylonian captivity.
 - And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field: they became meat to all the nations. My flock was scattered upon all the face of the earth, and none did search or seek after them.
+
 - None of these pastors are searching or seeking for the twelve tribes. I'm going to say something else: you got Israelite groups that are not seeking or searching for the twelve tribes of Israel. They are comfy at home on the internet. They are comfy standing on the corner, and you got nobody listening to them. Their whole damn campaign is trying to stop the Israelites that's actually doing the work, that's actually trying to save our people. That's how demonic they are.
+
+> <sup>[6](/bible/ezekiel/34#v6)</sup> My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek after them.
 
 **[Ezekiel 34:11-16](/bible/ezekiel/34#v11)**  *[[1:45:47](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6347s)]*
 
 > <sup>[11](/bible/ezekiel/34#v11)</sup> For thus saith the Lord God; Behold, I, even I, will both search my sheep, and seek them out.
->
+
+- For thus saith the Lord God: behold, I, even I, will both search my sheep, and seek them out. Who's that I? Christ. That's what Christ was doing; that's what Paul and the apostles were doing. That was the great commission in Matthew 28:19.
+
+- As a shepherd seeketh out his flock, so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day; all places, countries, lands. And I will bring them to their own land, and feed them upon the mountains of Israel. I will feed them in a good pasture: that's the kingdom.
+
 > <sup>[12](/bible/ezekiel/34#v12)</sup> As a shepherd seeketh out his flock in the day that he is among his sheep that are scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 >
 > <sup>[13](/bible/ezekiel/34#v13)</sup> And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.
@@ -550,8 +578,6 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
 >
 > <sup>[16](/bible/ezekiel/34#v16)</sup> I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.
 
-- For thus saith the Lord God: behold, I, even I, will both search my sheep, and seek them out. Who's that I? Christ. That's what Christ was doing; that's what Paul and the apostles were doing. That was the great commission in Matthew 28:19.
-- As a shepherd seeketh out his flock, so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day; all places, countries, lands. And I will bring them to their own land, and feed them upon the mountains of Israel. I will feed them in a good pasture: that's the kingdom.
 - I will seek that which was lost: that's our people. And bring again that which was driven away, and will bind up that which was broken: we were broken. And will strengthen that which was sick: we're the sick ones. But I will destroy the fat and the strong: I'm going to destroy the nations. I will feed them with judgment.
 
   Precepts:
@@ -599,14 +625,22 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
 **[1 Corinthians 9:16-17](/bible/1-corinthians/9#v16)**  *[[1:54:12](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6852s)]*
 
 > <sup>[16](/bible/1-corinthians/9#v16)</sup> For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!
->
-> <sup>[17](/bible/1-corinthians/9#v17)</sup> For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me.
 
 - For though I preach the gospel: everybody, all you brothers, you preach the gospel; you sisters, you got kids, you preaching the gospel to them. For necessity is laid upon me: we want to save our lives, we want the coming Jerusalem. Yea, woe is unto me, if I preach not the gospel.
+
+> <sup>[17](/bible/1-corinthians/9#v17)</sup> For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me.
+
 - For if I do this thing willingly: if you do this thing willing, you have a passion for this truth, loyalty to God Almighty, and I have a reward. But if against my will: if somebody always got to yell at me, tell me to do this and do that, because I'm a hireling, I'm really not in this thing; you don't hear how boring I am, I got a dead spirit on me, I could care less.
+
 - A dispensation of the gospel is committed unto me: you get a limited amount of time in this truth, and then God moves you out the way and brings somebody else. That's musical chairs. We've seen it over the years: it's like whole new congregations that come before us; same spirits, but it's a different people. On your phone it says memories on Facebook, it'll go back two years, and I'm like, who's these brothers I was standing with? And it's all new people, because them dudes fell out.
 
 **[1 Corinthians 6:1-5](/bible/1-corinthians/6#v1)**  *[[1:54:12](https://www.youtube.com/watch?v=AEtwteuLiy4&t=6852s)]*
+
+- Dare any of you, having a matter against another, go to law before the unjust, and not before the saints? The law is referring to the Pharisees; it is not referring to Rome. Rome was not listening to every problem. The Pharisees was the unjust; the saints were the followers of Christ.
+
+- Do ye not know that the saints shall judge the world? The Pharisees ain't judging; it's going to be the saints that follow Christ shall judge the world. Judge them small matters among you; stop going to the scribes and Pharisees. Deal with the saints that's among you that follow Christ; they know the scriptures.
+
+- Know ye not that we shall judge angels? We shall judge the leaders. You're not judging Michael and Gabriel and them; that's not talking about that.
 
 > <sup>[1](/bible/1-corinthians/6#v1)</sup> Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
 >
@@ -615,16 +649,15 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
 > <sup>[3](/bible/1-corinthians/6#v3)</sup> Know ye not that we shall judge angels? how much more things that pertain to this life?
 >
 > <sup>[4](/bible/1-corinthians/6#v4)</sup> If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.
->
-> <sup>[5](/bible/1-corinthians/6#v5)</sup> I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
 
-- Dare any of you, having a matter against another, go to law before the unjust, and not before the saints? The law is referring to the Pharisees; it is not referring to Rome. Rome was not listening to every problem. The Pharisees was the unjust; the saints were the followers of Christ.
-- Do ye not know that the saints shall judge the world? The Pharisees ain't judging; it's going to be the saints that follow Christ shall judge the world. Judge them small matters among you; stop going to the scribes and Pharisees. Deal with the saints that's among you that follow Christ; they know the scriptures.
-- Know ye not that we shall judge angels? We shall judge the leaders. You're not judging Michael and Gabriel and them; that's not talking about that.
 - Set them to judge who are least esteemed in the church: the least esteemed in the church are the young men, the lower ranked men. I speak to your shame: Paul is talking to the leaders in Corinth, and they're not doing their job. Is it so that there is not a wise man among you? There's nobody wise; you got all this rank, but not one that shall be able to judge between his brethren. And you know why that happens? You're a hireling.
+
 - When we visited California, I'm talking with all these brothers out there: you don't study, you don't study, you don't study. Cuz I'm asking questions, and I'm hearing some of the most outrageous answers. And it's not just Cali. That's why in the war room we all sitting going over scriptures; brothers come in there, and you don't even know they're in the room until they're leaving.
+
 - So Paul was saying, deal with the ones that are least esteemed in the church, the lower ranks. Raise those men up and use them. Stop wasting your time with those brothers that been around you 10 years and they ain't doing nothing. They're not about this truth. They lack the zeal, they lack the fire; it's not there. You got to force them to do everything; they're like a fizzle of wind. Deal with the younger men: they got zeal. You don't put energy into brothers that have been around for years and now sit in the back; give me the young men that want to learn, that want to grow. When the brothers are around the table, you can see the ones who got the zeal: they have questions, they want to know, and when you read the scripture, they got the fire in them. Then you see those that just stay in the back. You got to call them, you got to force: hey, come on over here; why don't you come in the room? Oh, I didn't know I could come in. That's a lie.
+
 - Another word for hireling in this regard would be leaven. They're leaven in the church: they're sitting amongst us, but they're not about the work.
+
 - Bishop: you know where you really see it stick out? When we on those quests, and we in the middle of the ocean, there ain't nothing else to do, and brothers don't be around. And then when you get off the ship, you see them coming back on the ship afterwards, like, nah, bro, you ain't with us. This is vacation.
 
   Precepts:
@@ -640,49 +673,34 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
 
     Ye which have followed me, in the regeneration, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel. So it ain't Michael and Gabriel and Uriel; it's talking about our own people.
 
+> <sup>[5](/bible/1-corinthians/6#v5)</sup> I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
+
 **[Luke 19:11-27](/bible/luke/19#v11)**  *[[2:02:35](https://www.youtube.com/watch?v=AEtwteuLiy4&t=7355s)]*
+
+- They thought that the kingdom of God should immediately appear; a lot of people thought the kingdom was coming at that time. That's why Paul said, let no man deceive you, for that day shall not come except there come a falling away first, and that man of sin be revealed.
 
 > <sup>[11](/bible/luke/19#v11)</sup> And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
 >
 > <sup>[12](/bible/luke/19#v12)</sup> He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.
->
+
+- A certain nobleman went into a far country: a far country in this context is talking about the heavens. To receive for himself a kingdom, and to return. And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come. The pounds are God's word: I love thy commandments above gold, yea, above fine gold.
+
 > <sup>[13](/bible/luke/19#v13)</sup> And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.
 >
 > <sup>[14](/bible/luke/19#v14)</sup> But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.
->
-> <sup>[15](/bible/luke/19#v15)</sup> And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
->
-> <sup>[16](/bible/luke/19#v16)</sup> Then came the first, saying, Lord, thy pound hath gained ten pounds.
->
-> <sup>[17](/bible/luke/19#v17)</sup> And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
->
-> <sup>[18](/bible/luke/19#v18)</sup> And the second came, saying, Lord, thy pound hath gained five pounds.
->
-> <sup>[19](/bible/luke/19#v19)</sup> And he said likewise to him, Be thou also over five cities.
->
-> <sup>[20](/bible/luke/19#v20)</sup> And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:
->
-> <sup>[21](/bible/luke/19#v21)</sup> For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
->
-> <sup>[22](/bible/luke/19#v22)</sup> And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
->
-> <sup>[23](/bible/luke/19#v23)</sup> Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
->
-> <sup>[24](/bible/luke/19#v24)</sup> And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
->
-> <sup>[25](/bible/luke/19#v25)</sup> (And they said unto him, Lord, he hath ten pounds.)
->
-> <sup>[26](/bible/luke/19#v26)</sup> For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
->
-> <sup>[27](/bible/luke/19#v27)</sup> But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
 
-- They thought that the kingdom of God should immediately appear; a lot of people thought the kingdom was coming at that time. That's why Paul said, let no man deceive you, for that day shall not come except there come a falling away first, and that man of sin be revealed.
-- A certain nobleman went into a far country: a far country in this context is talking about the heavens. To receive for himself a kingdom, and to return. And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come. The pounds are God's word: I love thy commandments above gold, yea, above fine gold.
 - His citizens hated him: back then, that was the scribes and Pharisees and those that followed. Today there's no groups called scribes and Pharisees, but they are Christians, they are Muslims; they fall into this.
+
+> <sup>[15](/bible/luke/19#v15)</sup> And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
+
 - That he might know how much every man had gained by trading: go out teaching the word. Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities. That's what we all want: dominion. We're not going to play with the nations; we got to teach them to honor the King of kings. We got to teach them the civil law, ceremonial law, dietary law, moral law, and the history of Israel too. They ain't going to be glorifying China no more, or the white man; they going to glorify the history of Israel. Just one city is too much to handle in this body and mind we got now; that's why I get excited when I read this stuff, cuz the Lord's going to have to change this. Some of you got problems dealing with that one black woman you got right now, and you talking about be lord over five cities.
+
 - And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin. See that? Hirelings. I kept it laid up; I didn't do nothing with the knowledge you bestowed upon me, the faith you gave me.
+
 - Out of thine own mouth will I judge thee, thou wicked servant. Your excuses is not going to fly with Christ; he don't care about your excuses. Wherefore then gavest not thou my money into the bank? This is the bank: the congregation. Your work, your love, your zeal, your understanding: bring it into the bank. That at my coming I might have required mine own with usury: usury means interest. So when Christ come back, he wants interest on what he gave each of us.
+
 - You got to imagine the order, like the king in Game of Thrones: they give orders to the men that's next to the throne. It's pure order. Take from him the pound, and give it to him that hath ten pounds. Unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him. We've seen that: we had brothers that came among us that had certain skills, and they did not expand on it, so the Most High, the musical chairs, moved them out of the way; other brothers came in and took that office and ran with it, and you don't hear nothing about the men that were here that had the ability to do just that.
+
 - But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me. Churches don't read that; churches will look at that and go, no, we're not reading that in Sunday school. You know what it means further? You ain't going to just be able to do what you want to do. You was put on this earth to do what the Most High and Christ said, and if you don't do that, then there's no reason for you to live. He said, if you don't want to do what you were created for, bring him before me and end his existence.
 
   Precepts:
@@ -737,6 +755,30 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
 
     Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. That goes back to what we just read: this guy that was in the truth, he took his talent, hid it in a napkin. I'm not helping them anymore; I did it full time, but I don't want to do it no more.
 
+> <sup>[16](/bible/luke/19#v16)</sup> Then came the first, saying, Lord, thy pound hath gained ten pounds.
+>
+> <sup>[17](/bible/luke/19#v17)</sup> And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
+>
+> <sup>[18](/bible/luke/19#v18)</sup> And the second came, saying, Lord, thy pound hath gained five pounds.
+>
+> <sup>[19](/bible/luke/19#v19)</sup> And he said likewise to him, Be thou also over five cities.
+>
+> <sup>[20](/bible/luke/19#v20)</sup> And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:
+>
+> <sup>[21](/bible/luke/19#v21)</sup> For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
+>
+> <sup>[22](/bible/luke/19#v22)</sup> And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
+>
+> <sup>[23](/bible/luke/19#v23)</sup> Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
+>
+> <sup>[24](/bible/luke/19#v24)</sup> And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
+>
+> <sup>[25](/bible/luke/19#v25)</sup> (And they said unto him, Lord, he hath ten pounds.)
+>
+> <sup>[26](/bible/luke/19#v26)</sup> For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
+>
+> <sup>[27](/bible/luke/19#v27)</sup> But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
+
 **[Hebrews 11:25](/bible/hebrews/11#v25)**  *[[2:15:41](https://www.youtube.com/watch?v=AEtwteuLiy4&t=8141s)]*
 
 > <sup>[25](/bible/hebrews/11#v25)</sup> Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
@@ -756,18 +798,22 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
 
 **[3 John 1:9-11](/bible/3-john/1#v9)**  *[[2:19:56](https://www.youtube.com/watch?v=AEtwteuLiy4&t=8396s)]*
 
+- Another type of a hireling: Diotrephes, who loveth to have the preeminence among them, receiveth us not. You know what's strange? The apostles set this man up. So what was he doing? He was always around, made it appear like he was in the truth.
+
+- You ever see brothers: there'll be a congregation where they really don't put no works in, but there's a congregation in Alaska and there's no senior man there. I'm in office of 10; I got a bright idea. I'm not gonna ask no counsel from you; I'm just gonna go and pop up, and shazam, I'm over the congregation. And because I come from the States, they're all going to just love me and accept me. That is what generally happens. It happened in Ghana, many of the African countries.
+
+- Another brother just popped in my mind: brothers go out there, and hey, where's the donations of the money? Guess where the money of the congregation was? In his personal bank account. You can't make this stuff up.
+
+- These are hirelings. They don't believe; there's no fear amongst them. So everybody's problem ain't always sex: some brothers want power. They want preeminence. I ain't never been nothing in the world; I'mma come in, I'mma be somebody. But I'm not going to be somebody because of the word of God; I'mma be deceitful and slick and witty, and I'mma get my way. Disrespectful in a secretive way.
+
 > <sup>[9](/bible/3-john/1#v9)</sup> I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
 >
 > <sup>[10](/bible/3-john/1#v10)</sup> Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.
->
-> <sup>[11](/bible/3-john/1#v11)</sup> Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.
 
-- Another type of a hireling: Diotrephes, who loveth to have the preeminence among them, receiveth us not. You know what's strange? The apostles set this man up. So what was he doing? He was always around, made it appear like he was in the truth.
-- You ever see brothers: there'll be a congregation where they really don't put no works in, but there's a congregation in Alaska and there's no senior man there. I'm in office of 10; I got a bright idea. I'm not gonna ask no counsel from you; I'm just gonna go and pop up, and shazam, I'm over the congregation. And because I come from the States, they're all going to just love me and accept me. That is what generally happens. It happened in Ghana, many of the African countries.
-- Another brother just popped in my mind: brothers go out there, and hey, where's the donations of the money? Guess where the money of the congregation was? In his personal bank account. You can't make this stuff up.
-- These are hirelings. They don't believe; there's no fear amongst them. So everybody's problem ain't always sex: some brothers want power. They want preeminence. I ain't never been nothing in the world; I'mma come in, I'mma be somebody. But I'm not going to be somebody because of the word of God; I'mma be deceitful and slick and witty, and I'mma get my way. Disrespectful in a secretive way.
 - Prating against us with malicious words: this guy always has something smart to say. He ain't nobody; I know what he know; in fact, I know more precepts than you. We've seen it before; we've been down that road before.
+
 - And not content therewith, neither doth he himself receive the brethren: he wouldn't even let them in, the ones that taught his self. And forbiddeth them that would, and casteth them out of the church: if anybody say, hey, I want to go visit the apostles: then don't come back, you're not welcome anymore.
+
 - Wherefore, if I come, I will remember his deeds. Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.
 
   Precepts:
@@ -775,6 +821,8 @@ Reading from a quote on integration, shown on screen  *[[1:39:36](https://www.yo
     > <sup>[18](/bible/colossians/1#v18)</sup> And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.
 
     And he is the head of the body, the church: that in all things he might have the preeminence. There's only one preeminent, and that's Christ. He's the king; not you, not me. Christ has the preeminence, not Diotrephes. He lost his mind. You know why? He was a hireling.
+
+> <sup>[11](/bible/3-john/1#v11)</sup> Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.
 
 **[2 Esdras 8:28](/bible/2-esdras/8#v28)**  *[[2:24:08](https://www.youtube.com/watch?v=AEtwteuLiy4&t=8648s)]*
 
@@ -841,6 +889,14 @@ Reading from a definition of feign  *[[2:24:27](https://www.youtube.com/watch?v=
 
 **[Ezekiel 34:20-31](/bible/ezekiel/34#v20)**  *[[2:33:02](https://www.youtube.com/watch?v=AEtwteuLiy4&t=9182s)]*
 
+- Behold, I, even I, will judge between the fat cattle and between the lean cattle. And you know what that goes with: in the New Testament, Christ said, all nations shall be before me, and I shall separate the sheep from the goats. That comes from here.
+
+- Therefore will I save my flock, and they shall no more be a prey. Cuz we are prey to our own people; a lot of times we think of being a prey just to the nations, but our own people prey upon us as well. P R E Y, not P R A Y.
+
+- And I will set up one shepherd over them, and he shall feed them, even my servant David; and I the Lord will be their God, and my servant David a prince among them. And I will make with them a covenant of peace: that's why he's the Prince of Peace.
+
+- They shall dwell safely in the wilderness, and sleep in the woods. I will cause the shower to come down in his season: there shall be showers of blessing, blessings upon blessings.
+
 > <sup>[20](/bible/ezekiel/34#v20)</sup> Therefore thus saith the Lord God unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle.
 >
 > <sup>[21](/bible/ezekiel/34#v21)</sup> Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;
@@ -856,7 +912,11 @@ Reading from a definition of feign  *[[2:24:27](https://www.youtube.com/watch?v=
 > <sup>[26](/bible/ezekiel/34#v26)</sup> And I will make them and the places round about my hill a blessing; and I will cause the shower to come down in his season; there shall be showers of blessing.
 >
 > <sup>[27](/bible/ezekiel/34#v27)</sup> And the tree of the field shall yield her fruit, and the earth shall yield her increase, and they shall be safe in their land, and shall know that I am the Lord, when I have broken the bands of their yoke, and delivered them out of the hand of those that served themselves of them.
->
+
+- The earth shall yield her increase: remember what God told Cain, the earth shall not yield to you her strength; so now here it's saying the earth will yield her strength to us. And they shall be safe in their land, and none shall make them afraid: nobody's going to make us afraid ever again, cuz right now we live in fear.
+
+- And they shall no more be a prey to the heathen, the other nations. I will raise up for them a plant of renown, meaning famous. Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are my people. And ye my flock, the flock of my pasture, are men, and I am your God, saith the Lord God.
+
 > <sup>[28](/bible/ezekiel/34#v28)</sup> And they shall no more be a prey to the heathen, neither shall the beast of the land devour them; but they shall dwell safely, and none shall make them afraid.
 >
 > <sup>[29](/bible/ezekiel/34#v29)</sup> And I will raise up for them a plant of renown, and they shall be no more consumed with hunger in the land, neither bear the shame of the heathen any more.
@@ -865,14 +925,15 @@ Reading from a definition of feign  *[[2:24:27](https://www.youtube.com/watch?v=
 >
 > <sup>[31](/bible/ezekiel/34#v31)</sup> And ye my flock, the flock of my pasture, are men, and I am your God, saith the Lord God.
 
-- Behold, I, even I, will judge between the fat cattle and between the lean cattle. And you know what that goes with: in the New Testament, Christ said, all nations shall be before me, and I shall separate the sheep from the goats. That comes from here.
-- Therefore will I save my flock, and they shall no more be a prey. Cuz we are prey to our own people; a lot of times we think of being a prey just to the nations, but our own people prey upon us as well. P R E Y, not P R A Y.
-- And I will set up one shepherd over them, and he shall feed them, even my servant David; and I the Lord will be their God, and my servant David a prince among them. And I will make with them a covenant of peace: that's why he's the Prince of Peace.
-- They shall dwell safely in the wilderness, and sleep in the woods. I will cause the shower to come down in his season: there shall be showers of blessing, blessings upon blessings.
-- The earth shall yield her increase: remember what God told Cain, the earth shall not yield to you her strength; so now here it's saying the earth will yield her strength to us. And they shall be safe in their land, and none shall make them afraid: nobody's going to make us afraid ever again, cuz right now we live in fear.
-- And they shall no more be a prey to the heathen, the other nations. I will raise up for them a plant of renown, meaning famous. Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are my people. And ye my flock, the flock of my pasture, are men, and I am your God, saith the Lord God.
-
 **[1 Kings 13:1-32](/bible/1-kings/13#v1)**  *[[2:37:12](https://www.youtube.com/watch?v=AEtwteuLiy4&t=9432s)]*  (Bishop's teaching)
+
+- This chapter deals with us going to the left or right of what God says. If God tells us something, let's follow it; follow the Lamb whithersoever he goeth.
+
+- The man of God out of Judah cried against the altar, and Jeroboam put forth his hand, saying, lay hold on him; and his hand dried up. You see how pain will get you to change your thoughts: he wanted to put the dude to death a few minutes ago, and now he wants him to pray to God for him. And the king's hand was restored.
+
+- The man of God said, if thou wilt give me half thine house, I will not go in with thee: for so was it charged me by the word of the Lord, saying, eat no bread, nor drink water, nor turn again by the same way that thou camest. The Lord instructed him what not to do and what to do.
+
+- An old prophet dwelt in Bethel, and said unto him, I am a prophet also as thou art; and an angel spake unto me by the word of the Lord, saying, bring him back. But he lied unto him. This dude was lying. Remember we were talking about earlier: God said, the only one I speak mouth to mouth with is Moses; everybody else I'll talk to with dreams and visions. This guy said an angel came to him.
 
 > <sup>[1](/bible/1-kings/13#v1)</sup> And, behold, there came a man of God out of Judah by the word of the Lord unto Beth–el: and Jeroboam stood by the altar to burn incense.
 >
@@ -921,7 +982,19 @@ Reading from a definition of feign  *[[2:24:27](https://www.youtube.com/watch?v=
 > <sup>[23](/bible/1-kings/13#v23)</sup> And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, to wit, for the prophet whom he had brought back.
 >
 > <sup>[24](/bible/1-kings/13#v24)</sup> And when he was gone, a lion met him by the way, and slew him: and his carcase was cast in the way, and the ass stood by it, the lion also stood by the carcase.
->
+
+- And when he was gone, a lion met him by the way, and slew him: it is the man of God who was disobedient unto the word of the Lord. You see this? That's why you got to be mindful with brothers.
+
+- After this thing, Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: he made bums priests. Whosoever would, he consecrated him. And this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth.
+
+- Some people are in your life for blessings, some in your life for cursings; but ultimately it's to try us, and try each and every one of us.
+
+  Precepts:
+  - **[Jeremiah 9:4](/bible/jeremiah/9#v4)**
+    > <sup>[4](/bible/jeremiah/9#v4)</sup> Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.
+
+    That's why the Lord said, put ye no trust in a brother, for every brother will utterly supplant.
+
 > <sup>[25](/bible/1-kings/13#v25)</sup> And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told it in the city where the old prophet dwelt.
 >
 > <sup>[26](/bible/1-kings/13#v26)</sup> And when the prophet that brought him back from the way heard thereof, he said, It is the man of God, who was disobedient unto the word of the Lord: therefore the Lord hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the Lord, which he spake unto him.
@@ -937,20 +1010,6 @@ Reading from a definition of feign  *[[2:24:27](https://www.youtube.com/watch?v=
 > <sup>[31](/bible/1-kings/13#v31)</sup> And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God is buried; lay my bones beside his bones:
 >
 > <sup>[32](/bible/1-kings/13#v32)</sup> For the saying which he cried by the word of the Lord against the altar in Beth–el, and against all the houses of the high places which are in the cities of Samaria, shall surely come to pass.
-
-- This chapter deals with us going to the left or right of what God says. If God tells us something, let's follow it; follow the Lamb whithersoever he goeth.
-- The man of God out of Judah cried against the altar, and Jeroboam put forth his hand, saying, lay hold on him; and his hand dried up. You see how pain will get you to change your thoughts: he wanted to put the dude to death a few minutes ago, and now he wants him to pray to God for him. And the king's hand was restored.
-- The man of God said, if thou wilt give me half thine house, I will not go in with thee: for so was it charged me by the word of the Lord, saying, eat no bread, nor drink water, nor turn again by the same way that thou camest. The Lord instructed him what not to do and what to do.
-- An old prophet dwelt in Bethel, and said unto him, I am a prophet also as thou art; and an angel spake unto me by the word of the Lord, saying, bring him back. But he lied unto him. This dude was lying. Remember we were talking about earlier: God said, the only one I speak mouth to mouth with is Moses; everybody else I'll talk to with dreams and visions. This guy said an angel came to him.
-- And when he was gone, a lion met him by the way, and slew him: it is the man of God who was disobedient unto the word of the Lord. You see this? That's why you got to be mindful with brothers.
-- After this thing, Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: he made bums priests. Whosoever would, he consecrated him. And this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth.
-- Some people are in your life for blessings, some in your life for cursings; but ultimately it's to try us, and try each and every one of us.
-
-  Precepts:
-  - **[Jeremiah 9:4](/bible/jeremiah/9#v4)**
-    > <sup>[4](/bible/jeremiah/9#v4)</sup> Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.
-
-    That's why the Lord said, put ye no trust in a brother, for every brother will utterly supplant.
 
 ## In Closing
 

@@ -174,39 +174,39 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "love", "the-law"]
 **[Acts 17:18-23](/bible/acts/17#v18)**  *[[25:46](https://www.youtube.com/watch?v=-CBWAr699Z8&t=1546s)]*
 
 > <sup>[18](/bible/acts/17#v18)</sup> Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.
->
+
+- He seemeth to be a setter forth of strange gods: So the Stoics and the Epicureans, they thought that Paul was coming with another God, because Paul was teaching, hey, Jesus Christ was the son of God. He died and rose again and is in the heavens now. They couldn't understand that because they was philosophers. They had man's wisdom. That stuff was foolishness to them. Like it says in 1 Corinthians chapter 1. It was foolish to them. They had no clue as to what Paul was talking about. They said, "This dude is a setter forth of strange gods." He said that there's a Jesus guy who was the son of the creator of heaven and earth, and then he died. But then he rose back from the dead. Like, that's weird. That's strange. They couldn't get their minds around it.
+
 > <sup>[19](/bible/acts/17#v19)</sup> And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?
 >
 > <sup>[20](/bible/acts/17#v20)</sup> For thou bringest certain strange things to our ears: we would know therefore what these things mean.
 >
 > <sup>[21](/bible/acts/17#v21)</sup> (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)
->
-> <sup>[22](/bible/acts/17#v22)</sup> Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.
->
-> <sup>[23](/bible/acts/17#v23)</sup> For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.
-
-- He seemeth to be a setter forth of strange gods: So the Stoics and the Epicureans, they thought that Paul was coming with another God, because Paul was teaching, hey, Jesus Christ was the son of God. He died and rose again and is in the heavens now. They couldn't understand that because they was philosophers. They had man's wisdom. That stuff was foolishness to them. Like it says in 1 Corinthians chapter 1. It was foolish to them. They had no clue as to what Paul was talking about. They said, "This dude is a setter forth of strange gods." He said that there's a Jesus guy who was the son of the creator of heaven and earth, and then he died. But then he rose back from the dead. Like, that's weird. That's strange. They couldn't get their minds around it.
 
 - Spent their time in nothing else, but either to tell, or to hear some new thing: That's why Paul was saying he didn't come with enticing words of man's wisdom but in demonstration of the spirit and of power. He didn't come with enticing words of man's wisdom because that's all they wanted to hear. That's all that they cared about. They just cared about man's wisdom. All right, what's this new thing? That's like the people that say, "Oh, I read the Ethiopian Bible and, oh, you got to speak the Hebrew, and oh, I be reading the book of Jasher and the book of Enoch and the book of Thomas." Every single one of them, every single one of those people has an obvious sin. And when I say obvious, I mean they smoke weed. They fornicating. The women are in pants. The men smoke cigars and cigarettes. Their lives are just in shambles.
 
 - Either to tell, or to hear some new thing: I'm telling you, my short time in this truth, this is what I've seen. Every single one of them that don't focus on keeping of the commandments, but they find every other book, those be the main ones, not keeping commandment one. They always got some sort of doctrine. They always got some sort of thing that's adverse to the word of God, because all they do is spend their time trying to hear or to tell some new thing. And that's what the Athenians were doing back in the day. The same spirit is back. The same spirit is back.
+
+> <sup>[22](/bible/acts/17#v22)</sup> Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.
+>
+> <sup>[23](/bible/acts/17#v23)</sup> For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.
 
 - To the unknown God, whom therefore ye ignorantly worship: They had an inscription on a statue that said to the unknown God. That's why Christ said, "You worship, you know not what; we know what we worship." That's why Paul was saying that those things that are offered unto idols, we know that an idol is nothing. An idol is nothing. God is the one true God. But they worship idols so much that they really think that that thing is something. They really do.
 
 
 **[Acts 19:23-26](/bible/acts/19#v23)**  *[[29:07](https://www.youtube.com/watch?v=-CBWAr699Z8&t=1747s)]*
 
+- Acts chapter 19: This is another example of Paul showing the people that idols are nothing. Those gods are nothing. And these are the same gods that the other nations was worshiping. They was worshiping these other gods. They wasn't worshiping the God of heaven. They was worshiping other gods, and they were causing the children of Israel to go off into idolatry. They were being enticed by the gods of the nations. Now, how could that equate to God now saying, "You know what? I'm going to save everybody." They believe in their own gods. They got their own gods that look like them, that have their own rules, which all of them is based in lust and fornication and adultery. "But I'm going to choose them now." Come on, man. This does not make sense.
+
 > <sup>[23](/bible/acts/19#v23)</sup> And the same time there arose no small stir about that way.
 >
 > <sup>[24](/bible/acts/19#v24)</sup> For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;
->
+
+- Brought no small gain unto the craftsmen: Meaning a lot of these craftsmen that were making idols, those shrines to Diana, they made a lot of money. When it said no small gain, it's a weird way of saying it, but they're saying they made a lot of money. It was no small gain. It was a lot of gain.
+
 > <sup>[25](/bible/acts/19#v25)</sup> Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth.
 >
 > <sup>[26](/bible/acts/19#v26)</sup> Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:
-
-- Acts chapter 19: This is another example of Paul showing the people that idols are nothing. Those gods are nothing. And these are the same gods that the other nations was worshiping. They was worshiping these other gods. They wasn't worshiping the God of heaven. They was worshiping other gods, and they were causing the children of Israel to go off into idolatry. They were being enticed by the gods of the nations. Now, how could that equate to God now saying, "You know what? I'm going to save everybody." They believe in their own gods. They got their own gods that look like them, that have their own rules, which all of them is based in lust and fornication and adultery. "But I'm going to choose them now." Come on, man. This does not make sense.
-
-- Brought no small gain unto the craftsmen: Meaning a lot of these craftsmen that were making idols, those shrines to Diana, they made a lot of money. When it said no small gain, it's a weird way of saying it, but they're saying they made a lot of money. It was no small gain. It was a lot of gain.
 
 - Saying that they be no gods, which are made with hands: This is what Paul was saying in 1 Corinthians chapter 8. We know that the gods in the world are nothing. We know this. But there had some people that didn't. Some people really believe that those gods were something. They believed that they had power because they was worshiping those gods. They really believed it, and that's why they was worshiping those things.
 
@@ -285,17 +285,17 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "love", "the-law"]
 
 **[Romans 14:1-3](/bible/romans/14#v1)**  *[[43:17](https://www.youtube.com/watch?v=-CBWAr699Z8&t=2597s)]*
 
-> <sup>[1](/bible/romans/14#v1)</sup> Him that is weak in the faith receive ye, but not to doubtful disputations.
->
-> <sup>[2](/bible/romans/14#v2)</sup> For one believeth that he may eat all things: another, who is weak, eateth herbs.
->
-> <sup>[3](/bible/romans/14#v3)</sup> Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.
-
 - Romans chapter 14: This is yet again another chapter of Paul's writings that Christians stumble in, and Israelites alike, they stumble in, especially those that don't have any sort of guidance and leadership. But watch this. He's going to use the same exact words, because he taught the same thing everywhere that he was.
+
+> <sup>[1](/bible/romans/14#v1)</sup> Him that is weak in the faith receive ye, but not to doubtful disputations.
 
 - Him that is weak in the faith receive ye, but not to doubtful disputations: So it's talking about someone with weak faith.
 
+> <sup>[2](/bible/romans/14#v2)</sup> For one believeth that he may eat all things: another, who is weak, eateth herbs.
+
 - For one believeth that he may eat all things: another, who is weak, eateth herbs: Now when it says one believe that he can eat all things, it's not talking about defiled foods. Or else why would the weak person only eat herbs? Why would the weak person only eat herbs if they thought that they could eat all things? The one person thought they could eat all things. Why would the other person that's weak eat only herbs? If he was weak as far as, oh, we could now eat unclean foods, then he would only stick to the dietary law, in which he would eat meat, because he would eat beef, he would eat lamb, he would eat goat, he would eat those things. But him being weak, he only eats herbs. Now, what is this talking about? Food sacrificed unto idols. It's the same thing that he said in Rome is the same thing he said in Corinth. The same exact thing.
+
+> <sup>[3](/bible/romans/14#v3)</sup> Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.
 
 - Let not him that eateth despise him that eateth not: That's those doubtful disputations. And that's what Paul was talking about in 1 Corinthians chapter 8 verse one. It says, "Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth." Knowledge puffs up. Why would you be puffed up? What would be that puffing up, that you would be despising somebody that doesn't eat the meat at all?
 
@@ -309,10 +309,10 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "love", "the-law"]
 **[1 Corinthians 8:7-8](/bible/1-corinthians/8#v7)**  *[[49:00](https://www.youtube.com/watch?v=-CBWAr699Z8&t=2940s)]*
 
 > <sup>[7](/bible/1-corinthians/8#v7)</sup> Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled.
->
-> <sup>[8](/bible/1-corinthians/8#v8)</sup> But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.
 
 - Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled: Let's go back to 1 Corinthians chapter 8:7 again. So some people will look at you and what you're doing and think that you're eating things offered unto idols, because they think that that idol is real. This goes into charity. You got to have charity with our people, because not everybody is on your level.
+
+> <sup>[8](/bible/1-corinthians/8#v8)</sup> But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.
 
 - But meat commendeth us not to God: That goes back to Romans 14. Those of y'all that are following along in your Bibles, just keep that open. Romans 14, 1 Corinthians 8, it goes hand in hand. They saying the same thing. So he said, "Meat commendeth us not to God. Neither if we eat are we the better, or if we eat not are we the worse."
 
@@ -330,12 +330,12 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "love", "the-law"]
 **[1 Corinthians 8:9-10](/bible/1-corinthians/8#v9)**  *[[51:44](https://www.youtube.com/watch?v=-CBWAr699Z8&t=3104s)]*
 
 > <sup>[9](/bible/1-corinthians/8#v9)</sup> But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak.
->
-> <sup>[10](/bible/1-corinthians/8#v10)</sup> For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
 
 - But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak: What's that liberty? Let's jump up to verse seven. How be it, there is not in every man that knowledge. What knowledge? Jump up again. Verse four. Now as concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world and that there is none other God but one. So we know that, but there may be somebody else that was freshly... Well, freshly come out of idolatry. They don't know that that idol is nothing. They don't know that. They may have went and been a Buddhist and thought that those gods were something, that those gods were real. They may have been a Muslim and thought Allah and the Kaaba stone and all that stuff was real. But now they're coming into the knowledge of who they are, the understanding of who we are as a people. Now they got to repent. Their conscience still may be weak to certain things. That's why we have to watch out.
 
 - This liberty of yours become a stumblingblock to them that are weak: Verse 9. Meaning you have that knowledge that you know the idol is nothing. You have that knowledge that the idol is nothing. But not everybody has that knowledge. Everybody don't have that knowledge, because it wasn't given to them right off the bat. You are the one that is the example setter now. So they're looking at your example, but not everybody has that knowledge.
+
+> <sup>[10](/bible/1-corinthians/8#v10)</sup> For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
 
 - For if any man see thee which hast knowledge sit at meat in the idol's temple: So you got somebody that sees you... All right. Let's say they got somebody that's new in the truth and they see you go eat Chinese food. Now, outside of that Chinese food is a big huge Buddha statue, and they think this dude about to go eat food sacrificed to Buddha. If they see you in there, they may think that, oh, okay, well, I could celebrate Chinese New Year. I could do whatever, I could now worship Buddha. They'll be emboldened to eat those things, because they think, "Oh, snap. Boy, he did it, so that mean I could do it, too."
 
@@ -345,10 +345,10 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "love", "the-law"]
 > <sup>[12](/bible/romans/14#v12)</sup> So then every one of us shall give account of himself to God.
 >
 > <sup>[13](/bible/romans/14#v13)</sup> Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother’s way.
->
-> <sup>[14](/bible/romans/14#v14)</sup> I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean.
 
 - That no man put a stumblingblock or an occasion to fall in his brother's way: Now why would he say that? Because they got people that don't have the same knowledge as you, and they may think that that thing is sacrificed to idols. Don't put a stumbling block in the way of your brother or your sister.
+
+> <sup>[14](/bible/romans/14#v14)</sup> I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean.
 
 - There is nothing unclean of itself: There's nothing unclean of itself. The only thing that made something unclean is the word of God. The word of God said that it's unclean. It didn't say, "Hey y'all, I'm unclean." I ain't never heard a crawfish say, "Hey y'all, I'm unclean." I ain't never heard an advertisement that says, "Hey, crawfish is unclean. Hey, catfish is unclean. Hey, pig is unclean." They call pig the other white meat. There's nothing unclean of itself. It didn't say it was unclean. God said that it was unclean for you to eat. Everything serves its purpose. Most of those things are the trash cans of the world. Catfish bottom feed, a crawfish bottom feed, a pig, it's a trash can. It literally eats anything to keep the earth clean. And then you going to eat that. Like, that makes no sense.
 
@@ -358,10 +358,10 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "love", "the-law"]
 **[Romans 14:20-21](/bible/romans/14#v20)**  *[[57:33](https://www.youtube.com/watch?v=-CBWAr699Z8&t=3453s)]*
 
 > <sup>[20](/bible/romans/14#v20)</sup> For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eateth with offence.
->
-> <sup>[21](/bible/romans/14#v21)</sup> It is good neither to eat flesh, nor to drink wine, nor any thing whereby thy brother stumbleth, or is offended, or is made weak.
 
 - It is evil for that man who eateth with offence: Meaning, you're eating food that another man thinks is sacrificed unto idols. You're eating that. It's sin to you to do that, because that's what the scripture is going to say in a minute.
+
+> <sup>[21](/bible/romans/14#v21)</sup> It is good neither to eat flesh, nor to drink wine, nor any thing whereby thy brother stumbleth, or is offended, or is made weak.
 
 - It is good neither to eat flesh, nor to drink wine, nor any thing whereby thy brother stumbleth: We've had brothers that used to be alcoholics. We don't drink around them. Why? Because that's a stumbling block for him. So, if I know that, why would I go ahead and start sipping wine around a brother that used to be an alcoholic? No. I'm going to say, "All right, my man is here. For the sake of him, we not going to drink tonight, y'all. It is what it is." If it's that important to you, one, you got a problem, and two, you can go home. But for my brother's sake, we going to fellowship, we just ain't going to have no wine. Because it's going to be a stumbling block for him.
 
@@ -371,14 +371,14 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "love", "the-law"]
 > <sup>[10](/bible/1-corinthians/8#v10)</sup> For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
 >
 > <sup>[11](/bible/1-corinthians/8#v11)</sup> And through thy knowledge shall the weak brother perish, for whom Christ died?
->
-> <sup>[12](/bible/1-corinthians/8#v12)</sup> But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.
->
-> <sup>[13](/bible/1-corinthians/8#v13)</sup> Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.
 
 - And through thy knowledge shall the weak brother perish, for whom Christ died: That same knowledge that we had in verse one. That's why it is sin to you to eat with offense, because through your knowledge, the weak brother is going to perish, because he thinks that this idol is real. He thinks that, okay, it's okay to go against God because I saw him do it, or I saw her do it. And in this particular case, it's talking about foods offered unto idols. So you like, "Man, look, I'm about to eat this turkey. It is what it is." Now they got somebody that about to celebrate Thanksgiving because you ate some doggone turkey at Thanksgiving time. Like, you could have ate that at any other time. You didn't have to do that. We have to be mindful and cognizant of our brothers and sisters.
 
+> <sup>[12](/bible/1-corinthians/8#v12)</sup> But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.
+
 - But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ: That's what it's talking about in Romans chapter 14 when he says, for meat destroy not the work of God. All things indeed are pure, but it is evil for that man who eateth with offence. It's evil for you to do that. No putting a stumbling block in front of your brother or sister.
+
+> <sup>[13](/bible/1-corinthians/8#v13)</sup> Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.
 
 - Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend: Back to 1 Corinthians chapter 8 verse 12 again. Which goes back to Romans chapter 14 and verse 21. It's good to not eat or drink any of those things whereby any of our brothers or sisters is made weak. Romans 14 and 1 Corinthians 8 go hand in hand. It's talking about eating things sacrificed unto idols. You understand?
 

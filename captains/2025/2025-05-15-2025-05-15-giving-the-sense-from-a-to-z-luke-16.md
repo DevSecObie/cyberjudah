@@ -53,12 +53,6 @@ tags: ["15 Minutes w/ The Captains", "justice", "money"]
 **[Wisdom of Solomon 6:1-4](/bible/wisdom-of-solomon/6#v1)**  *[[7:26](https://www.youtube.com/watch?v=IAf-MwK-qiU&t=446s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/6#v1)</sup> Hear therefore, O ye kings, and understand; learn, ye that be judges of the ends of the earth.
->
-> <sup>[2](/bible/wisdom-of-solomon/6#v2)</sup> Give ear, ye that rule the people, and glory in the multitude of nations.
->
-> <sup>[3](/bible/wisdom-of-solomon/6#v3)</sup> For power is given you of the Lord, and sovereignty from the Highest, who shall try your works, and search out your counsels.
->
-> <sup>[4](/bible/wisdom-of-solomon/6#v4)</sup> Because, being ministers of his kingdom, ye have not judged aright, nor kept the law, nor walked after the counsel of God;
 
 - Hear therefore, O ye kings, and understand: Let's go to Wisdom of Solomon chapter 6. We have to be wise. And this in and of itself, we need to change our mentality. All right? We are the gods of the earth. We are the kings of the earth. You sisters are the princesses of the earth. All right? The earth is given to us. We are joint hes with Christ. We don't have to walk around like we got a huge chip on our shoulder cursing people out. That's not the way things is supposed to be. All right? That's not the way things are supposed to be. We have to act accordingly. We haven't really seen much kinglike action in the black community. So, we got to be the curse breakers and be the ones to show royal behavior.
 
@@ -69,6 +63,12 @@ tags: ["15 Minutes w/ The Captains", "justice", "money"]
 - Who shall try your works, and search out your counsels (verse 3): When you give somebody counsel, most of the time, I know when I give people counsel, sometimes what I gave them counsel on, that situation turned right back around and come and try me. You give a brother counsel on lust and fornication. Don't think that spirit ain't going to jump on you. That spirit going to jump on you. It's going to say, "Oh, so let's see. Let's see if you can try yourself by your own counsel. Let's see how much of this you really believe in." That's what the trial will do.
 
 - Ye have not judged aright, nor kept the law, nor walked after the counsel of God (verse 4): So that is some of the things that Israel has done. We are the judges of the earth. We are the kings of the earth. But we got to start acting like it because a lot of times we won't judge properly. A lot of times we'll just listen to one side of a story and run with that like that's supposed to be the end all be all. No. No. That's not what we supposed to do. What we supposed to do is act as royal as the Lord has put upon us. We are a royal people. We got to start acting like it.
+
+> <sup>[2](/bible/wisdom-of-solomon/6#v2)</sup> Give ear, ye that rule the people, and glory in the multitude of nations.
+>
+> <sup>[3](/bible/wisdom-of-solomon/6#v3)</sup> For power is given you of the Lord, and sovereignty from the Highest, who shall try your works, and search out your counsels.
+>
+> <sup>[4](/bible/wisdom-of-solomon/6#v4)</sup> Because, being ministers of his kingdom, ye have not judged aright, nor kept the law, nor walked after the counsel of God;
 
 
 **[Luke 16:1](/bible/luke/16#v1)**  *[[11:57](https://www.youtube.com/watch?v=IAf-MwK-qiU&t=717s)]*
@@ -97,18 +97,18 @@ tags: ["15 Minutes w/ The Captains", "justice", "money"]
 **[Mark 4:16-19](/bible/mark/4#v16)**  *[[14:53](https://www.youtube.com/watch?v=IAf-MwK-qiU&t=893s)]*
 
 > <sup>[16](/bible/mark/4#v16)</sup> And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;
->
-> <sup>[17](/bible/mark/4#v17)</sup> And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
->
-> <sup>[18](/bible/mark/4#v18)</sup> And these are they which are sown among thorns; such as hear the word,
->
-> <sup>[19](/bible/mark/4#v19)</sup> And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.
 
 - These are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness: Let's go to Mark chapter 4 and I'mma start at verse 16. So there's a lot of our people that when they hear this word, they immediately receive it. It's like, "Oh man, this the best knowledge that I didn't ever heard." They immediately receive it with gladness. But what happens after that?
+
+> <sup>[17](/bible/mark/4#v17)</sup> And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
 
 - Have no root in themselves, and so endure but for a time: afterward, when affliction or persecution arise for the word's sake, immediately they are offended: So you receive the goodness of the word and then once you start to get persecuted, once trials and tribulations come, once issues start to pop up, you gone. Why? Because you're not rooted. You wasted his goods.
 
 - And these are they which are sown among thorns (verse 18), and the cares of this world, and the deceitfulness of riches, and the lust of other things entering in, choke the word, and it becometh unfruitful: Understand that we are supposed to bring forth fruits, meat for repentance. That's what we supposed to do. We're supposed to bring forth fruits, meat for repentance. When we don't do that, we're the ones that pay the price for it. So, this servant here was accused of the rich man of wasting his goods.
+
+> <sup>[18](/bible/mark/4#v18)</sup> And these are they which are sown among thorns; such as hear the word,
+>
+> <sup>[19](/bible/mark/4#v19)</sup> And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.
 
 
 **[Luke 16:2](/bible/luke/16#v2)**  *[[15:52](https://www.youtube.com/watch?v=IAf-MwK-qiU&t=952s)]*
@@ -140,19 +140,19 @@ tags: ["15 Minutes w/ The Captains", "justice", "money"]
 
 **[Sirach 5:4-7](/bible/sirach/5#v4)**  *[[20:07](https://www.youtube.com/watch?v=IAf-MwK-qiU&t=1207s)]*
 
+- Say not, I have sinned, and what harm have happened unto me? for the Lord is longsuffering, he will in no wise let thee go: Let's go to Sirach 5. Sirach 5 and 4. When it says he's longsuffering, mean he's patient. He don't have to judge you right away. Oh, you smoke that blunt. I remember there was years ago there was a girl who left the body and then put on Facebook, "Hey y'all, I celebrated Christmas. Oh, I celebrated Christmas with my boyfriend at my world family house. Oh, and guess what? I ate pork. Guess what? I'm still alive." Still alive. Don't think that there's no judgment coming just because it's not swiftly.
+
 > <sup>[4](/bible/sirach/5#v4)</sup> Say not, I have sinned, and what harm hath happened unto me? for the Lord is longsuffering, he will in no wise let thee go.
->
+
+- For the Lord is longsuffering: And we got that, black people got this old superstition. When people do something wrong or do something against God, they're going to get struck down by lightning. If that was the case, wouldn't nobody be born? Cuz your parents would have died, your grandfathers would have died, your grandmothers would have died. We would have all been put to death. If you do something evil and you immediately get struck by lightning, we would have all been finished. Oh, God gonna strike you down. If that was the case, people would have been dead long time ago. But he's longsuffering.
+
+- Concerning propitiation, be not without fear to add sin unto sin (verse 5): We already in the midst of sin. We already fight it every day. Don't add more to that.
+
 > <sup>[5](/bible/sirach/5#v5)</sup> Concerning propitiation, be not without fear to add sin unto sin:
 >
 > <sup>[6](/bible/sirach/5#v6)</sup> And say not, His mercy is great; he will be pacified for the multitude of my sins: for mercy and wrath come from him, and his indignation resteth upon sinners.
 >
 > <sup>[7](/bible/sirach/5#v7)</sup> Make no tarrying to turn to the Lord, and put not off from day to day: for suddenly shall the wrath of the Lord come forth, and in thy security thou shalt be destroyed, and perish in the day of vengeance.
-
-- Say not, I have sinned, and what harm have happened unto me? for the Lord is longsuffering, he will in no wise let thee go: Let's go to Sirach 5. Sirach 5 and 4. When it says he's longsuffering, mean he's patient. He don't have to judge you right away. Oh, you smoke that blunt. I remember there was years ago there was a girl who left the body and then put on Facebook, "Hey y'all, I celebrated Christmas. Oh, I celebrated Christmas with my boyfriend at my world family house. Oh, and guess what? I ate pork. Guess what? I'm still alive." Still alive. Don't think that there's no judgment coming just because it's not swiftly.
-
-- For the Lord is longsuffering: And we got that, black people got this old superstition. When people do something wrong or do something against God, they're going to get struck down by lightning. If that was the case, wouldn't nobody be born? Cuz your parents would have died, your grandfathers would have died, your grandmothers would have died. We would have all been put to death. If you do something evil and you immediately get struck by lightning, we would have all been finished. Oh, God gonna strike you down. If that was the case, people would have been dead long time ago. But he's longsuffering.
-
-- Concerning propitiation, be not without fear to add sin unto sin (verse 5): We already in the midst of sin. We already fight it every day. Don't add more to that.
 
 - For suddenly shall the wrath of the Lord come forth, and in thy security thou shalt be destroyed, and perish in the day of vengeance: That's when you got to give account. That's when you got to give account. The Lord going to call you up. Hey, hey, hey, hey. The stuff that I gave you. All right. What did you do with it? The talents that I gave you, what did you do with it? I gave you the word. Did you go teach it? I gave you knowledge, wisdom, and understanding. Freely you have received. Did you freely give it or did you charge for it? We got to understand that this parable is not just against those Pharisees at the time. It applies to us today.
 
@@ -239,10 +239,10 @@ tags: ["15 Minutes w/ The Captains", "justice", "money"]
 **[Luke 16:7-8](/bible/luke/16#v7)**  *[[38:53](https://www.youtube.com/watch?v=IAf-MwK-qiU&t=2333s)]*
 
 > <sup>[7](/bible/luke/16#v7)</sup> Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore.
->
-> <sup>[8](/bible/luke/16#v8)</sup> And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.
 
 - Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore: Luke 16. So he told him write 50, right? Verse 7. So instead of 100, just pay 80. A score is 20, four score is 80. Just write 80.
+
+> <sup>[8](/bible/luke/16#v8)</sup> And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.
 
 - And the lord commended the unjust steward, because he had done wisely: So the rich man, his lord, excuse me, was like man, hey, that was actually kind of smart cuz you are about to get kicked out your position but I see you got people that you've won the hearts of the people. So, you going to be all right. Even though you may not be in this position, you'll be all right. Okay, that's some wise stuff.
 

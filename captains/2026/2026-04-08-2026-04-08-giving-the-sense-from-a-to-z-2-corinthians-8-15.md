@@ -31,34 +31,34 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 
 **[2 Corinthians 8:12-13](/bible/2-corinthians/8#v12)**  *[[6:22](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=382s)]*
 
-> <sup>[12](/bible/2-corinthians/8#v12)</sup> For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.
->
-> <sup>[13](/bible/2-corinthians/8#v13)</sup> For I mean not that other men be eased, and ye burdened:
-
 - 2 Corinthians chapter 8: I'm actually going to start a little bit higher at verse 13 so we can recollect the thought going back down into 15.
 
 - For I mean not that other men be eased and ye be burdened: So, what is he talking about? Ministering to the saints, right? We went over that extensively. Alms, resources, funds, things of that nature, right? They were being collected to be given to the other congregations that were in need. He explained earlier in the chapter how the churches in Macedonia, even though they were poor, they were liberal in the giving of generosity. Then he explained how Christ was liberal with giving his life. He called that grace. He related it to the grace of giving resources and finances. But he's also establishing a condition.
 
+> <sup>[12](/bible/2-corinthians/8#v12)</sup> For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.
+
 - For if there be first a willing mind, it is accepted according to that a man hath and not according to that he hath not: And this crossed my mind after the class was over, I was thinking how the church always talks about a 10% tithe no matter what. What if I can't afford to give 10%? You docking my pay every week? Every week? I got bills, sir. Here it's showing the natural fluctuation of if someone can give what they can versus sometimes they don't have to give, they give what they can. That is okay because it's not so that we can ease the issues of one congregation so now we're burdened over here now in the name of charity and love. Nah.
+
+> <sup>[13](/bible/2-corinthians/8#v13)</sup> For I mean not that other men be eased, and ye burdened:
 
 
 **[Sirach 29:7-9](/bible/sirach/29#v7)**  *[[8:13](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=493s)]*
 
-> <sup>[7](/bible/sirach/29#v7)</sup> Many therefore have refused to lend for other men’s ill dealing, fearing to be defrauded.
->
-> <sup>[8](/bible/sirach/29#v8)</sup> Yet have thou patience with a man in poor estate, and delay not to shew him mercy.
->
-> <sup>[9](/bible/sirach/29#v9)</sup> Help the poor for the commandment’s sake, and turn him not away because of his poverty.
-
 - Sirach chapter 29 and verse 8: I remember I was like, I got to find this precept. Couldn't find it. Now I found it. The Lord is merciful. He's a merciful guy cuz, you know, as you begin to teach, you'll run into this where it's like, I should have said that. I should have said that. Ah, I should have said that. It'll bother you. But all praise to Most High, redemption. We able to bring it out.
 
 - Yet have thou patience with a man in poor state, and delay not to shew him mercy: So, what Paul was explaining to the Corinthians, we should have this kind of spirit even to today. Being patient with the man in poor state and delay not to show him mercy because earlier in the chapter it's talking about how men would do ill dealings and now we don't want to give funds anymore.
+
+> <sup>[7](/bible/sirach/29#v7)</sup> Many therefore have refused to lend for other men’s ill dealing, fearing to be defrauded.
 
 - Many therefore have refused to lend for other men's ill dealing, fearing to be defrauded: We carry that spirit over into our nation because of how the church dealt with us before. We know that the church steals money. We know it. We know that the church does not put forth the funds back to the body, right? They'll build up the walls of the church. They'll build up the bank account of the pastor and his lifestyle, but when it comes to the actual distribution to the saints worldwide, nah. That doesn't happen. So, we for fear of being defrauded will not delay not to show mercy to those that are in this nation, repenting Israelites that are keeping God's commandments. That cannot be so. That cannot be the case. We got to reform and renew our minds away from that thought process and get back in line with how the Lord wants us to deal with each other, right?
 
 - Lose thy money for thy brother and thy friend, and let it not rust under a stone to be lost: How do we lose the money for our brothers and our friends? We give what we have. But it also says to thy brother and to thy friend. These are people that are known. These are congregations that are known, right? And that's why we have leaders of the congregation. If officer of 50 from this city is like, "Hey, we need this for that." We know him. We know him. So, he's a man of integrity. He's a man of responsibility. We can give the funds over to him. Y'all can trust that we are going to make things happen with that.
 
 - Case in point: We had the land blitz, right? Donations, donations, donations. A few months later, big announcement. We got the land. I think it was right before what? Feast of Dedication. It was a feast. It was right before. We got the land. So, you know what? We can lose the money for our brothers and our friends and not let it rust under a stone because we know that it's going to have the impact, the desired impact and the desired result, right?
+
+> <sup>[8](/bible/sirach/29#v8)</sup> Yet have thou patience with a man in poor estate, and delay not to shew him mercy.
+>
+> <sup>[9](/bible/sirach/29#v9)</sup> Help the poor for the commandment’s sake, and turn him not away because of his poverty.
 
 
 **[Sirach 29:11-12](/bible/sirach/29#v11)**  *[[11:44](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=704s)]*
@@ -95,14 +95,14 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 **[2 Corinthians 8:13-15](/bible/2-corinthians/8#v13)**  *[[14:25](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=865s)]*
 
 > <sup>[13](/bible/2-corinthians/8#v13)</sup> For I mean not that other men be eased, and ye burdened:
->
-> <sup>[14](/bible/2-corinthians/8#v14)</sup> But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:
->
-> <sup>[15](/bible/2-corinthians/8#v15)</sup> As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.
 
 - For I mean not that other men be eased, and ye burdened: So, you can see how the thoughts connect. That's how it will happen. By you giving by obligation, now you're in the need now that you helping out the other. That's unbalanced. That doesn't make any sense, okay?
 
+> <sup>[14](/bible/2-corinthians/8#v14)</sup> But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:
+
 - That there may be equality: Colon, so the thought is now continuing on into the next verse. As it is written. So, what we're about to read correlates with the thought in verse 14.
+
+> <sup>[15](/bible/2-corinthians/8#v15)</sup> As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.
 
 - He that had gathered much had nothing over; and he that had gathered little had no lack: What just happened? Where we going? What is Paul referencing? Well, he's going now back into Israelite history into Exodus chapter 16. So, let's take the same journey, the same thought journey that Paul just went on and let's go on it ourselves.
 
@@ -110,21 +110,31 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 **[Exodus 16:1-13](/bible/exodus/16#v1)**  *[[15:19](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=919s)]*
 
 > <sup>[1](/bible/exodus/16#v1)</sup> And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
->
+
+- On the fifteenth day of the second month after their departing out of the land of Egypt: So, Israel was just liberated out of Egypt.
+
 > <sup>[2](/bible/exodus/16#v2)</sup> And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:
->
+
+- And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness: So, now you have a congregation murmuring against the leadership for whatever reason, right? Keep that in mind.
+
 > <sup>[3](/bible/exodus/16#v3)</sup> And the children of Israel said unto them, Would to God we had died by the hand of the Lord in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.
 >
 > <sup>[4](/bible/exodus/16#v4)</sup> Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.
->
+
+- That I may prove them, whether they will walk in my law, or no: So, the Lord was going to test them in the very thing that they lacked faith in. So, when Paul's referencing this history, notice we haven't gotten to the portion. If you go back or if you understand or if you were taught about this history, you know the context and why he's saying this particular verse than any other one. Cuz he could have said, you know, "The Lord is my shepherd, I shall not want," right? And that comes with a whole other storyline, but he chose this particular one for this particular people. So, there's a correlation as to why. Let's read on.
+
 > <sup>[5](/bible/exodus/16#v5)</sup> And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily.
 >
 > <sup>[6](/bible/exodus/16#v6)</sup> And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the Lord hath brought you out from the land of Egypt:
->
+
+- At even, then ye shall know that the LORD hath brought you out from the land of Egypt: Why would he have to prove this again when he just liberated them? Lack of faith. Doubt. Unbelief. That plagued, plagued, plagued the children of Israel as we came out of slavery, right? The Corinthian church obviously dealt with these types of issues as well within. Murmuring against the leadership. Complaining. Lack of faith in the Lord. So on and so forth.
+
 > <sup>[7](/bible/exodus/16#v7)</sup> And in the morning, then ye shall see the glory of the Lord; for that he heareth your murmurings against the Lord: and what are we, that ye murmur against us?
 >
 > <sup>[8](/bible/exodus/16#v8)</sup> And Moses said, This shall be, when the Lord shall give you in the evening flesh to eat, and in the morning bread to the full; for that the Lord heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the Lord.
->
+
+- Your murmurings are not against us, but against the LORD: He's saying you not complaining against me. I am a facilitator of your freedom, but the Lord is the ultimate liberator. I'm just a vessel. I'm just doing my job, right?
+
 > <sup>[9](/bible/exodus/16#v9)</sup> And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the Lord: for he hath heard your murmurings.
 >
 > <sup>[10](/bible/exodus/16#v10)</sup> And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the Lord appeared in the cloud.
@@ -135,20 +145,12 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 >
 > <sup>[13](/bible/exodus/16#v13)</sup> And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.
 
-- On the fifteenth day of the second month after their departing out of the land of Egypt: So, Israel was just liberated out of Egypt.
-
-- And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness: So, now you have a congregation murmuring against the leadership for whatever reason, right? Keep that in mind.
-
-- That I may prove them, whether they will walk in my law, or no: So, the Lord was going to test them in the very thing that they lacked faith in. So, when Paul's referencing this history, notice we haven't gotten to the portion. If you go back or if you understand or if you were taught about this history, you know the context and why he's saying this particular verse than any other one. Cuz he could have said, you know, "The Lord is my shepherd, I shall not want," right? And that comes with a whole other storyline, but he chose this particular one for this particular people. So, there's a correlation as to why. Let's read on.
-
-- At even, then ye shall know that the LORD hath brought you out from the land of Egypt: Why would he have to prove this again when he just liberated them? Lack of faith. Doubt. Unbelief. That plagued, plagued, plagued the children of Israel as we came out of slavery, right? The Corinthian church obviously dealt with these types of issues as well within. Murmuring against the leadership. Complaining. Lack of faith in the Lord. So on and so forth.
-
-- Your murmurings are not against us, but against the LORD: He's saying you not complaining against me. I am a facilitator of your freedom, but the Lord is the ultimate liberator. I'm just a vessel. I'm just doing my job, right?
-
 - At even the quails came up, and covered the camp: So what is the Lord doing? He's providing for them. The thing that they wasn't going to happen, he was providing for them. Paul is referencing this Israelite history for a reason. Right? Let's jump ahead a little bit.
 
 
 **[Exodus 16:14-18](/bible/exodus/16#v14)**  *[[20:30](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=1230s)]*
+
+- I'll just read down. This is good stuff.
 
 > <sup>[14](/bible/exodus/16#v14)</sup> And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground.
 >
@@ -157,12 +159,10 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 > <sup>[16](/bible/exodus/16#v16)</sup> This is the thing which the Lord hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents.
 >
 > <sup>[17](/bible/exodus/16#v17)</sup> And the children of Israel did so, and gathered, some more, some less.
->
-> <sup>[18](/bible/exodus/16#v18)</sup> And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
-
-- I'll just read down. This is good stuff.
 
 - And the children of Israel did so, and gathered, some more, some less: So it wasn't an equal distribution. Some families were larger than others, some families were smaller than others. They needed different amounts for different people. But what was there no thing of? There was no lack. No lack. Because who provided? The Lord provided. So if you give your alms and somebody else gives their alms, you give your 100, somebody else give their 100 million, everybody's okay. No matter how much is needed or how much is required. I got a big family, they got a small family, the big family will be provided for, the small family will be provided for. God got you. That's what Paul is saying. He's saying, think about the history. When has Israel ever been forsaken? Huh? When they need.
+
+> <sup>[18](/bible/exodus/16#v18)</sup> And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
 
 - He that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating: The Lord made the distribution perfect. So Paul is letting them know have faith. Increase your faith. The distributions will be made in perfect balance. The Lord is an excellent accountant. He will not let one grain fall to the floor. Right? But think about all the previous context as to why Paul would allude to that history as well. It's not for no reason. It's the type of audience and thought process as to where it was coming from. Leadership said it all the time, Paul was a bad brother. He would go into the law and really bring out things that they weren't even thinking about. Right?
 
@@ -183,17 +183,17 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 
 **[Acts 10:1-4](/bible/acts/10#v1)**  *[[25:15](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=1515s)]*
 
+- There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band: Bringing out the fire history proving without a shadow of a doubt Cornelius is an Israelite. Right?
+
 > <sup>[1](/bible/acts/10#v1)</sup> There was a certain man in Cesarea called Cornelius, a centurion of the band called the Italian band,
 >
 > <sup>[2](/bible/acts/10#v2)</sup> A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
->
+
+- Which gave much alms to the people, and prayed to God alway: So he gave much alms and he was praying to the Lord. Right?
+
 > <sup>[3](/bible/acts/10#v3)</sup> He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.
 >
 > <sup>[4](/bible/acts/10#v4)</sup> And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.
-
-- There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band: Bringing out the fire history proving without a shadow of a doubt Cornelius is an Israelite. Right?
-
-- Which gave much alms to the people, and prayed to God alway: So he gave much alms and he was praying to the Lord. Right?
 
 - Thy prayers and thine alms are come up for a memorial before God: Put a thumbs up in the chat. Put a yes in the chat. Put a one in the chat if you want your alms to come up before God. I type one myself. Hello. I would like that too. Hello. So if that's your thought, if everybody typing the ones, I see mad... Somebody type one one one one one one one one one one, cool. Donate, donate, donate so that your alms can go before the heavenly Father. Can be noised abroad among... I'm telling you. That's a fire, fire thing. All right. Moving on.
 
@@ -208,14 +208,14 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 **[2 Corinthians 7:5-7](/bible/2-corinthians/7#v5)**  *[[28:26](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=1706s)]*
 
 > <sup>[5](/bible/2-corinthians/7#v5)</sup> For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.
->
-> <sup>[6](/bible/2-corinthians/7#v6)</sup> Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;
->
-> <sup>[7](/bible/2-corinthians/7#v7)</sup> And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
 - Our flesh had no rest, but we were troubled on every side; without were fightings, within were fears: So there was some trials and tribulations in Macedonia. Okay?
 
+> <sup>[6](/bible/2-corinthians/7#v6)</sup> Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;
+
 - Comforted us by the coming of Titus: Imagine. The same way how the alms conversation is happening. The Lord sees issues and problems and persecution and pain and suffering in a region of the earth and he sends you to comfort the saints. He's like, I know exactly who would be perfect to route that direction. Sister so-and-so. What? That's a high honor and a high privilege. Right? And because the care of the saints, the care of the flock was in Titus. Right?
+
+> <sup>[7](/bible/2-corinthians/7#v7)</sup> And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
 - When he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more: So, the report that Paul got from Titus, hey, they in the spirit. The letters you wrote prior to, they got their minds right. They got built up. So, the comfort met the comfort. It's the same thing when, you know, leadership, the bishops, the deacons, the captains, the officers, we travel to these different congregations internationally, and we see them in the spirit. We see them in the faith. We see them carrying on the teachings that has been taught to them, right? That's an indescribable feeling, right? And it's only one that a leader that cares for the flock would feel. Right?
 
@@ -257,14 +257,14 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 **[2 Corinthians 8:18-20](/bible/2-corinthians/8#v18)**  *[[37:23](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=2243s)]*
 
 > <sup>[18](/bible/2-corinthians/8#v18)</sup> And we have sent with him the brother, whose praise is in the gospel throughout all the churches;
->
-> <sup>[19](/bible/2-corinthians/8#v19)</sup> And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:
->
-> <sup>[20](/bible/2-corinthians/8#v20)</sup> Avoiding this, that no man should blame us in this abundance which is administered by us:
 
 - And we have sent with him the brother, whose praise is in the gospel throughout all the churches: So, step back for a second. Why is Paul doing all of this? Why is Paul explaining all of these things, right? I'm going to read down and then we'll go verse by verse, just so we can get the full thought cuz it's no telling where this is going in, but I want to get through as much of it as possible, okay?
 
+> <sup>[19](/bible/2-corinthians/8#v19)</sup> And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:
+
 - With this grace, which is administered by us: The funds.
+
+> <sup>[20](/bible/2-corinthians/8#v20)</sup> Avoiding this, that no man should blame us in this abundance which is administered by us:
 
 - Avoiding this, that no man should blame us in this abundance which is administered by us: Okay, okay, okay, okay. Cool. So, what is Paul saying here? I chose a man trustworthy, known in the churches, and chosen by the churches, so that nobody can say we just got some random dude to take all of this money to Jerusalem and nobody knows who he is. Nobody knows this guy. Do you know him? Do you know it? Paul picked his homeboy to take all this money. That's sketchy behavior. That's sketchy behavior. Hey.
 
@@ -333,17 +333,17 @@ tags: ["15 Minutes w/ The Captains", "faith", "leadership", "money", "the-body"]
 
 **[2 Corinthians 8:21-24](/bible/2-corinthians/8#v21)**  *[[52:17](https://www.youtube.com/watch?v=Wk3R6ePt7Q4&t=3137s)]*
 
+- Back to verse 21, providing for honest things: 2 Corinthians 8, providing for honest things not only in the sight of the Lord but also in the sight of men.
+
 > <sup>[21](/bible/2-corinthians/8#v21)</sup> Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
 >
 > <sup>[22](/bible/2-corinthians/8#v22)</sup> And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.
 >
 > <sup>[23](/bible/2-corinthians/8#v23)</sup> Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.
->
-> <sup>[24](/bible/2-corinthians/8#v24)</sup> Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.
-
-- Back to verse 21, providing for honest things: 2 Corinthians 8, providing for honest things not only in the sight of the Lord but also in the sight of men.
 
 - Whether any do enquire of Titus: So if anybody has any questions about Titus, anybody wants to know about this man, he is my partner and fellow helper concerning you.
+
+> <sup>[24](/bible/2-corinthians/8#v24)</sup> Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.
 
 - Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf: Give these men the honor and the respect that they're due because they're worthy of it. Paul stamped them. Y'all can trust them and they are worthy of your trust. Okay?
 

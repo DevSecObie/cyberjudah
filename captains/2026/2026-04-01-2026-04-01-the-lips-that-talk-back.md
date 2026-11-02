@@ -62,6 +62,10 @@ tags: ["15 Minutes w/ The Captains", "discipline", "gossip", "marriage-family"]
 
 **[Luke 10:25-29](/bible/luke/10#v25)**  *[[6:18](https://www.youtube.com/watch?v=jilt3SWFtqg&t=378s)]*
 
+- Master, what shall I do to inherit eternal life? That's the question he asking Christ.
+
+- What is written in the law? how readest thou? Christ asking him a question: do you not read the Bible? You asking how can you get the kingdom? You don't know that it say you got to keep the commandments?
+
 > <sup>[25](/bible/luke/10#v25)</sup> And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
 >
 > <sup>[26](/bible/luke/10#v26)</sup> He said unto him, What is written in the law? how readest thou?
@@ -69,18 +73,14 @@ tags: ["15 Minutes w/ The Captains", "discipline", "gossip", "marriage-family"]
 > <sup>[27](/bible/luke/10#v27)</sup> And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
 >
 > <sup>[28](/bible/luke/10#v28)</sup> And he said unto him, Thou hast answered right: this do, and thou shalt live.
->
-> <sup>[29](/bible/luke/10#v29)</sup> But he, willing to justify himself, said unto Jesus, And who is my neighbour?
-
-- Master, what shall I do to inherit eternal life? That's the question he asking Christ.
-
-- What is written in the law? how readest thou? Christ asking him a question: do you not read the Bible? You asking how can you get the kingdom? You don't know that it say you got to keep the commandments?
 
 - Thou hast answered right: Christ say you answer right. You got it. You know exactly what you need to do. This do, and thou shalt live: I want you to do it, and you going to live.
 
 - But he, willing to justify himself, said unto Jesus, And who is my neighbour? Instead of saying, understood, you told me to do it, I will apply. A lot of time people are not like that. They always got something to say.
 
 - He wasn't satisfied with what Christ say. The King of kings, Lord of lords tell you do that. The negro say, no, I got to justify myself. That's the spirit in a lot of brothers and sisters. That's why brothers don't grow. That's why sisters don't grow. They think when you tell them something, you coming after them. They think when you advising them, correcting them, you don't like them. Make no sense at all.
+
+> <sup>[29](/bible/luke/10#v29)</sup> But he, willing to justify himself, said unto Jesus, And who is my neighbour?
 
 
 **[Luke 10:29](/bible/luke/10#v29)**  *[[8:38](https://www.youtube.com/watch?v=jilt3SWFtqg&t=518s)]*
@@ -106,18 +106,18 @@ tags: ["15 Minutes w/ The Captains", "discipline", "gossip", "marriage-family"]
 **[Sirach 20:5-7](/bible/sirach/20#v5)**  *[[11:12](https://www.youtube.com/watch?v=jilt3SWFtqg&t=672s)]*
 
 > <sup>[5](/bible/sirach/20#v5)</sup> There is one that keepeth silence, and is found wise: and another by much babbling becometh hateful.
->
-> <sup>[6](/bible/sirach/20#v6)</sup> Some man holdeth his tongue, because he hath not to answer: and some keepeth silence, knowing his time.
->
-> <sup>[7](/bible/sirach/20#v7)</sup> A wise man will hold his tongue till he see opportunity: but a babbler and a fool will regard no time.
 
 - There is one that keepeth silence, and is found wise: why? Because he's observing. He's acting like a sponge. He's soaking everything in and waiting for his ministry, getting built up by those people that's around him.
 
 - And another by much babbling becometh hateful: another that talks, talks, talks. Nobody want to sit by that guy. He think he understand everything. He think he know it all. She thinks she know it all. She just want to talk.
 
+> <sup>[6](/bible/sirach/20#v6)</sup> Some man holdeth his tongue, because he hath not to answer: and some keepeth silence, knowing his time.
+
 - Some man holdeth his tongue, because he hath not to answer: some man will hold their tongue because they don't know the answer. They want help. They need help.
 
 - And some keepeth silence, knowing his time: he know his time. Read the room. He not just talking, interrupting people. No, he read the room.
+
+> <sup>[7](/bible/sirach/20#v7)</sup> A wise man will hold his tongue till he see opportunity: but a babbler and a fool will regard no time.
 
 - A wise man will hold his tongue till he see opportunity: that's why with Nabal, Abigail didn't talk to him immediately. She knew the time. She waited and talked to him the next day.
 
@@ -179,19 +179,19 @@ tags: ["15 Minutes w/ The Captains", "discipline", "gossip", "marriage-family"]
 
 **[Numbers 16:2-4](/bible/numbers/16#v2)**  *[[19:43](https://www.youtube.com/watch?v=jilt3SWFtqg&t=1183s)]*
 
-> <sup>[2](/bible/numbers/16#v2)</sup> And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
->
-> <sup>[3](/bible/numbers/16#v3)</sup> And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?
->
-> <sup>[4](/bible/numbers/16#v4)</sup> And when Moses heard it, he fell upon his face:
-
 - That was the cliques in verse one: Korah, and Dathan and Abiram, and On, took men. Took cliques.
 
+> <sup>[2](/bible/numbers/16#v2)</sup> And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
+
 - Two hundred and fifty princes of the assembly, famous in the congregation, men of renown: these men have rank, they have position.
+
+> <sup>[3](/bible/numbers/16#v3)</sup> And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the Lord is among them: wherefore then lift ye up yourselves above the congregation of the Lord?
 
 - Ye take too much upon you, seeing all the congregation are holy: they say everybody is holy. They say the Lord is among everybody.
 
 - And when Moses heard it, he fell upon his face.
+
+> <sup>[4](/bible/numbers/16#v4)</sup> And when Moses heard it, he fell upon his face:
 
 
 **[Numbers 16:32](/bible/numbers/16#v32)**  *[[21:27](https://www.youtube.com/watch?v=jilt3SWFtqg&t=1287s)]*

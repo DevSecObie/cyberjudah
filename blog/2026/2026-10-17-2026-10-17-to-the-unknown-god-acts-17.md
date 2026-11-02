@@ -683,13 +683,11 @@ Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clark
 
 **[Acts 17:29-31](/bible/acts/17#v29)**  *[[1:36:49](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=5809s)]*
 
+- 'We are the offspring of God' is the Israelites, not any other nation; they were in idolatry of gold, silver and stone because the Greeks forced it on them.
+
 > <sup>[29](/bible/acts/17#v29)</sup> Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device.
 >
 > <sup>[30](/bible/acts/17#v30)</sup> And the times of this ignorance God winked at; but now commandeth all men every where to repent:
->
-> <sup>[31](/bible/acts/17#v31)</sup> Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.
-
-- 'We are the offspring of God' is the Israelites, not any other nation; they were in idolatry of gold, silver and stone because the Greeks forced it on them.
 
 - The times of this ignorance God winked at: we were living as Greeks, as we live as Americans, and the punishment was to have the other nations rule over us.
 
@@ -709,8 +707,16 @@ Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clark
 
     They commanded the apostles not to teach in this name, but we ought to obey God rather than men; God exalted Jesus a Prince and a Saviour to give repentance to Israel.
 
+> <sup>[31](/bible/acts/17#v31)</sup> Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.
+
 
 **[Revelation 18:1-5](/bible/revelation/18#v1)**  *[[1:42:07](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=6127s)]*
+
+- Babylon is symbolic of the United States of America, which follows ancient Babylonian customs, like the Christmas tree warned against in Jeremiah 10.
+
+- All nations and kings of the earth committed fornication with her: they play ball with America to get money, and the merchants wax rich off what the Israelites built in America.
+
+- America is on the decline, taking back what was given in the civil rights era, just as the Greeks gave liberties so we would assimilate.
 
 > <sup>[1](/bible/revelation/18#v1)</sup> And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 >
@@ -719,18 +725,12 @@ Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clark
 > <sup>[3](/bible/revelation/18#v3)</sup> For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies.
 >
 > <sup>[4](/bible/revelation/18#v4)</sup> And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
->
-> <sup>[5](/bible/revelation/18#v5)</sup> For her sins have reached unto heaven, and God hath remembered her iniquities.
-
-- Babylon is symbolic of the United States of America, which follows ancient Babylonian customs, like the Christmas tree warned against in Jeremiah 10.
-
-- All nations and kings of the earth committed fornication with her: they play ball with America to get money, and the merchants wax rich off what the Israelites built in America.
-
-- America is on the decline, taking back what was given in the civil rights era, just as the Greeks gave liberties so we would assimilate.
 
 - 'Come out of her, my people': we are that voice, telling you that you are not black, Hispanic, American or African, but the Israelites, God's chosen people.
 
 - This is the same thing Paul says in Acts 17:31: God has appointed a day, and the people who are not right will die in his sight, so walk in righteousness.
+
+> <sup>[5](/bible/revelation/18#v5)</sup> For her sins have reached unto heaven, and God hath remembered her iniquities.
 
 
 <div class="reading">
@@ -980,19 +980,19 @@ Reading from *Manners of the Ancient Israelites* by Claude Fleury and Adam Clark
 
 **[Acts 12:1-4](/bible/acts/12#v1)**  *[[2:16:43](https://www.youtube.com/watch?v=cyq9dzxYXaQ&t=8203s)]*
 
+- Herod vexed certain of the church: they target the leaders and teachers who have an impact, because smite the shepherd and the flock will scatter.
+
 > <sup>[1](/bible/acts/12#v1)</sup> Now about that time Herod the king stretched forth his hands to vex certain of the church.
 >
 > <sup>[2](/bible/acts/12#v2)</sup> And he killed James the brother of John with the sword.
 >
 > <sup>[3](/bible/acts/12#v3)</sup> And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)
->
-> <sup>[4](/bible/acts/12#v4)</sup> And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
-
-- Herod vexed certain of the church: they target the leaders and teachers who have an impact, because smite the shepherd and the flock will scatter.
 
 - It pleased the Jews: when something happens to us, it is other black Hebrew Israelites rallying and doing videos.
 
 - He arrested Peter in the days of unleavened bread; that is why we must have security on our high holy days.
+
+> <sup>[4](/bible/acts/12#v4)</sup> And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
 
 
 <div class="reading">

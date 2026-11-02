@@ -54,42 +54,42 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 > <sup>[36](/bible/mark/1#v36)</sup> And Simon and they that were with him followed after him.
 >
 > <sup>[37](/bible/mark/1#v37)</sup> And when they had found him, they said unto him, All men seek for thee.
->
-> <sup>[38](/bible/mark/1#v38)</sup> And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.
->
-> <sup>[39](/bible/mark/1#v39)</sup> And he preached in their synagogues throughout all Galilee, and cast out devils.
->
-> <sup>[40](/bible/mark/1#v40)</sup> And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.
->
-> <sup>[41](/bible/mark/1#v41)</sup> And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean.
->
-> <sup>[42](/bible/mark/1#v42)</sup> And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed.
->
-> <sup>[43](/bible/mark/1#v43)</sup> And he straitly charged him, and forthwith sent him away;
->
-> <sup>[44](/bible/mark/1#v44)</sup> And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.
->
-> <sup>[45](/bible/mark/1#v45)</sup> But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
 
 - And when they had found him: This is talking about Christ.
 
 - They said unto him, All men seek for thee: You see that, all men seek for thee.
 
+> <sup>[38](/bible/mark/1#v38)</sup> And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.
+
 - For therefore came I forth: You read that in Isaiah chapter 6, would have prophesied about Christ. I mean 61.
+
+> <sup>[39](/bible/mark/1#v39)</sup> And he preached in their synagogues throughout all Galilee, and cast out devils.
 
 - And he preached in their synagogues throughout all Galilee and cast out devils: So Christ was casting out devils, getting the unclean spirits out of the people.
 
+> <sup>[40](/bible/mark/1#v40)</sup> And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.
+
 - And there came a leper to him: So there was a brother that was lepous. He pulled up on Christ. Watch this. Beseeching him, and kneeling down to him.
+
+> <sup>[41](/bible/mark/1#v41)</sup> And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean.
 
 - And Jesus moved with compassion: Hold on. Christ did what? Jesus moved with compassion. So Jesus moved with compassion. We got to make sure we move in the same spirit with our brothers and sisters. A brother might fall on hard times in the truth. Let's make sure we have compassion on a brother. The mother might hear his trial. Let's make sure we got compassion on brothers and sisters.
 
+> <sup>[42](/bible/mark/1#v42)</sup> And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed.
+
 - And as soon as he had spoken, immediately the leprosy departed from him: So Christ just spoke and a leprosy was departing from. Watch this. And he was cleansed.
 
+> <sup>[43](/bible/mark/1#v43)</sup> And he straitly charged him, and forthwith sent him away;
+
 - And he straitly charged him, and forthwith sent him away: Now we about to get to the point. So what did Christ instruct the brother not to do?
+
+> <sup>[44](/bible/mark/1#v44)</sup> And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.
 
 - See thou say nothing to any man: So he said, hold on, brother. Don't say anything to anybody what just took place.
 
 - Shew thyself to the priest, and offer for thy cleansing those things which Moses commanded: So that's in Leviticus 14 about the law of the lepers when you read verses 1-11. So take note of that. That's Leviticus 14. So Christ didn't say no no no don't do those things. He told the man to go do what Moses laid out.
+
+> <sup>[45](/bible/mark/1#v45)</sup> But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
 
 - But he went out, and began to publish it much: So he went out and began to publish it much. Watch this. And to blaze abroad the matter. And to do what? Blaze abroad the matter. It say went to blaze abroad the matter. You know, do you know this ain't nothing but black for? White folk don't talk with that much swag. The brother went to blaze abroad the matter what Christ did.
 
@@ -125,12 +125,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:3-4](/bible/luke/19#v3)**  *[[7:26](https://www.youtube.com/watch?v=riw1PzDC_tY&t=446s)]*
 
 > <sup>[3](/bible/luke/19#v3)</sup> And he sought to see Jesus who he was; and could not for the press, because he was little of stature.
->
-> <sup>[4](/bible/luke/19#v4)</sup> And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.
 
 - And could not for the press: Meaning what? He could not for the crowd.
 
 - Because he was little of stature: So this was a short brother. This brother trying to see Christ. He leaping up, grabbing, you know, when you short, you got to grab a brother's shoulders and boost yourself up. That's what he was trying to do. You understand?
+
+> <sup>[4](/bible/luke/19#v4)</sup> And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.
 
 - And he ran before, and climbed up into a sycomore tree: So he saw the direction that Christ was walking and he said, "You know what? I'mma head further down the path and climb up on this sycamore tree." Let's get a sycamore tree for the people cuz I had to look this up too to see what this tree looked like. Get that on the screen for the brothers and sisters. Give me the actual literal sycamore tree that we had up earlier. So, now you'll see what this thing looks like. They actually call this the Zacchaeus sycamore tree in Jericho. You understand? So, you see how the branches go up in a vertical fashion right there. So, that tree is a easy tree to climb up to get sight over the people.
 
@@ -153,12 +153,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 > <sup>[40](/bible/matthew/10#v40)</sup> He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
 >
 > <sup>[41](/bible/matthew/10#v41)</sup> He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward.
->
-> <sup>[42](/bible/matthew/10#v42)</sup> And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
 
 - He that receiveth a prophet in the name of a prophet shall receive a prophet's reward: So that's what was Zacchaeus. He said, "I'mma abide at your house." Cuz he already knew Zacchaeus was going to open up the house for him anyway.
 
 - And he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward: So Zacchaeus was in search for the righteous man's reward. So we understand.
+
+> <sup>[42](/bible/matthew/10#v42)</sup> And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
 
 - And whosoever shall give to drink unto one of these little ones a cup of cold water: So is that cold water talking about you just tired on a hot day and a brother throw you some Gatorade in your hand? Hell no. It's a little deeper than that. Give me Proverbs 25:2. What is that cold water talking about? If you see the prophets out there teaching, you can get a brother some cold water, but we going to go a little deeper.
 
@@ -192,16 +192,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Matthew 9:11-13](/bible/matthew/9#v11)**  *[[12:22](https://www.youtube.com/watch?v=riw1PzDC_tY&t=742s)]*
 
 > <sup>[11](/bible/matthew/9#v11)</sup> And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
->
-> <sup>[12](/bible/matthew/9#v12)</sup> But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.
->
-> <sup>[13](/bible/matthew/9#v13)</sup> But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 
 - And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners: You see that? Zacchaeus, remember he was a publican. So here go the Pharisees gang saying, hating on the side. Y'all see that with the apologetics, the BHIs got the gains saying hate on the side. He said, "Why this man eating with the publicans and the sinners?"
+
+> <sup>[12](/bible/matthew/9#v12)</sup> But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.
 
 - They that be whole need not a physician: So since y'all are home of the truth, y'all don't need nothing. You understand?
 
 - But they that are sick: But those that are sick, those that know they in sin, those that are looking for repentance to clean their life up.
+
+> <sup>[13](/bible/matthew/9#v13)</sup> But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 
 - But go ye and learn what that meaneth: Christ cut him right there. He said y'all need to go and learn what that meaneth. Watch this. I will have mercy and not sacrifice. Oh, Christ cut him up. What is Christ telling them to go learn? Let's go back to the learning. Give me Hosea chapter 6 and I want to start at verse 5. Christ cut them jokers with the scriptures. He said, "You know what? Y'all need to go search and learn what that meaneth." What does Christ make reference to?
 
@@ -213,14 +213,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Hosea 6:5-6](/bible/hosea/6#v5)**  *[[13:48](https://www.youtube.com/watch?v=riw1PzDC_tY&t=828s)]*
 
 > <sup>[5](/bible/hosea/6#v5)</sup> Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth.
->
-> <sup>[6](/bible/hosea/6#v6)</sup> For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
 
 - Therefore have I hewed them by the prophets: That's why Christ cut them. He healed them by the prophets with what? The word.
 
 - I have slain them by the words of my mouth: That's what Christ did to him right there in Matthew chapter nine.
 
 - And thy judgments are as the light that goeth forth: Meaning you can't stop it. The light does what? Shine into the darkness, man. But remember what the scriptures say. Men love darkness. You understand? Christ was cutting them on a whole another level.
+
+> <sup>[6](/bible/hosea/6#v6)</sup> For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
 
 - For I desired mercy: I did what? Desired mercy. So he desired mercy. What is this talking about? Christ mercy. You understand?
 
@@ -230,14 +230,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Acts 5:29-31](/bible/acts/5#v29)**  *[[15:52](https://www.youtube.com/watch?v=riw1PzDC_tY&t=952s)]*
 
 > <sup>[29](/bible/acts/5#v29)</sup> Then Peter and the other apostles answered and said, We ought to obey God rather than men.
->
-> <sup>[30](/bible/acts/5#v30)</sup> The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.
->
-> <sup>[31](/bible/acts/5#v31)</sup> Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 
 - Then Peter and the other apostles answered and said: So Peter was the chief apostle. Christ told him he was going to be the foundation of the church. You understand? Or Christ was the foundation that Peter was going to build the church on. So you understand? So Peter understands this. Who is this coming from? Then Peter, the chief apostle and the other apostles answered and said.
 
 - We ought to obey God rather than men: Hold on. We ought to obey who? Obey God rather than men. No, the apologetics. Obey God rather than men. So, let's see what God has to say.
+
+> <sup>[30](/bible/acts/5#v30)</sup> The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.
+>
+> <sup>[31](/bible/acts/5#v31)</sup> Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 
 - Him hath God exalted with his right hand to be a Prince and a Saviour: To be a prince. And a savior. Meaning salvation.
 
@@ -266,12 +266,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:7-8](/bible/luke/19#v7)**  *[[18:46](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1126s)]*
 
 > <sup>[7](/bible/luke/19#v7)</sup> And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.
->
-> <sup>[8](/bible/luke/19#v8)</sup> And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
 
 - And when they saw it, they all murmured: So those are scribes and Pharisees murmured.
 
 - Saying, That he was gone to be guest with a man that is a sinner: So remember what Christ said. He came to heal those that are sick. That's why he told him, "Y'all need to go learn what that mean. I will have mercy and not sacrifice."
+
+> <sup>[8](/bible/luke/19#v8)</sup> And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
 
 
 **[Luke 19:2](/bible/luke/19#v2)**  *[[19:36](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1176s)]*
@@ -301,34 +301,34 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Matthew 19:16-23](/bible/matthew/19#v16)**  *[[21:18](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1278s)]*
 
 > <sup>[16](/bible/matthew/19#v16)</sup> And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
->
-> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
->
-> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
->
-> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
->
-> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
->
-> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
->
-> <sup>[22](/bible/matthew/19#v22)</sup> But when the young man heard that saying, he went away sorrowful: for he had great possessions.
->
-> <sup>[23](/bible/matthew/19#v23)</sup> Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
 
 - And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life: So now we reading about the opposite rich man. So that's the question. That's the million-dollar question. How do I get the kingdom of God? This brother asked Christ.
+
+> <sup>[17](/bible/matthew/19#v17)</sup> And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
 
 - There is none good but one, that is, God: Oh no, that is me. That is God. That's showing that Christ and God are two different powers. He said there's none good but one that is God.
 
 - But if thou wilt enter into life, keep the commandments: He said, if you want to get the kingdom of God, keep the commandments, not the laws done away with.
 
+> <sup>[18](/bible/matthew/19#v18)</sup> He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
+>
+> <sup>[19](/bible/matthew/19#v19)</sup> Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.
+
 - Thou shalt love thy neighbour as thyself: So he gave him the ten commandments and Leviticus 19:17 and 18.
+
+> <sup>[20](/bible/matthew/19#v20)</sup> The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
+>
+> <sup>[21](/bible/matthew/19#v21)</sup> Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
 
 - Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor: So Zacchaeus was already in the spirit with that. He said, if you want to be perfect, brother, sell what you have and give it to the poor. Also, he wasn't talking about all his goods cuz in Luke 19, Zacchaeus gave half his goods away. So Christ wasn't talking about sell everything and be living out on the street. You understand?
 
 - And thou shalt have treasure in heaven: Thou shalt do what? Have treasure in heaven. Cuz that's the whole point because these things down here rust and corrupt. You understand?
 
+> <sup>[22](/bible/matthew/19#v22)</sup> But when the young man heard that saying, he went away sorrowful: for he had great possessions.
+
 - But when the young man heard that saying, he went away sorrowful: He went away what? Sorrowful. So he went away sorrowful. Zacchaeus, on the other hand, said, "Look, Lord, I gave away half my goods." You understand?
+
+> <sup>[23](/bible/matthew/19#v23)</sup> Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
 
 - That a rich man shall hardly enter into the kingdom of heaven: You see that? A rich man ain't hardly gonna make because he gonna be too caught up on his worldly possessions. Not saying that he can't because we read that Zacchaeus was a rich man and remember the Lord said unto him salvation is come to... Oh no, we gonna read that. But go back. He said hardly can a rich man, but Zacchaeus is rich. So go back to Luke 19.
 
@@ -353,16 +353,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Romans 4:1-3](/bible/romans/4#v1)**  *[[24:52](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1492s)]*
 
 > <sup>[1](/bible/romans/4#v1)</sup> What shall we say then that Abraham our father, as pertaining to the flesh, hath found?
->
-> <sup>[2](/bible/romans/4#v2)</sup> For if Abraham were justified by works, he hath whereof to glory; but not before God.
->
-> <sup>[3](/bible/romans/4#v3)</sup> For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.
 
 - What shall we say then that Abraham our father, as pertaining to the flesh: Meaning circumcision or sacrifice.
+
+> <sup>[2](/bible/romans/4#v2)</sup> For if Abraham were justified by works, he hath whereof to glory; but not before God.
 
 - For if Abraham were justified by works: Meaning if Abraham was justified by sacrifice.
 
 - He hath whereof to glory; but not before God: He wouldn't be able to glory before God because his stuff is based on sacrifice, not faith.
+
+> <sup>[3](/bible/romans/4#v3)</sup> For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.
 
 - Abraham believed God: But Abraham did what? Believed God. Abraham believed God.
 
@@ -383,10 +383,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:9-10](/bible/luke/19#v9)**  *[[26:26](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1586s)]*
 
 > <sup>[9](/bible/luke/19#v9)</sup> And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
->
-> <sup>[10](/bible/luke/19#v10)</sup> For the Son of man is come to seek and to save that which was lost.
 
 - Forsomuch as he also is a son of Abraham: Because he believed, it's his faith. He believed in Christ. You understand?
+
+> <sup>[10](/bible/luke/19#v10)</sup> For the Son of man is come to seek and to save that which was lost.
 
 - For the Son of man is come to seek and to save that which was lost: So this says the son of man is to come seek and to save that which was lost. Let's get salvation first. I want to make sure we are crystal clear on salvation. Let's go to Luke chapter 1. I don't want anybody listening to be confused about what salvation is cuz that term is so loosely thrown around in the Christian church. You having the foggiest idea in Christianity what salvation is, what you being saved from or who you being saved from. So, let's get some clarification on that.
 
@@ -394,24 +394,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 1:68-73](/bible/luke/1#v68)**  *[[27:15](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1635s)]*
 
 > <sup>[68](/bible/luke/1#v68)</sup> Blessed be the Lord God of Israel; for he hath visited and redeemed his people,
->
-> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
->
-> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
->
-> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
->
-> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
->
-> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 
 - Blessed be the Lord God of Israel: Hold up. What? Blessed be the Lord God of Israel.
 
 - For he hath visited and redeemed his people: It says, he hath visited and redeemed his people.
 
+> <sup>[69](/bible/luke/1#v69)</sup> And hath raised up an horn of salvation for us in the house of his servant David;
+>
+> <sup>[70](/bible/luke/1#v70)</sup> As he spake by the mouth of his holy prophets, which have been since the world began:
+>
+> <sup>[71](/bible/luke/1#v71)</sup> That we should be saved from our enemies, and from the hand of all that hate us;
+
 - That we should be saved from our enemies: That we should be what? Saved from our enemies.
 
 - And from the hand of all that hate us: So that's what salvation is, being saved from your enemies. The list of the enemies of God and the children of Israel is in Psalms chapter 83. You understand? People think, "Oh, the devil is." No, it's his children working on earth that you work for every day. You understand? So that's what salvation is, being saved from your enemies.
+
+> <sup>[72](/bible/luke/1#v72)</sup> To perform the mercy promised to our fathers, and to remember his holy covenant;
+>
+> <sup>[73](/bible/luke/1#v73)</sup> The oath which he sware to our father Abraham,
 
 - The oath which he sware to our father Abraham: It's all tying back in. It's going into the faith of Abraham. You understand? It's all tying back in, talking about salvation for the 12 tribes of the children of Israel. Understand what's going on here.
 
@@ -441,12 +441,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Acts 1:6-7](/bible/acts/1#v6)**  *[[30:30](https://www.youtube.com/watch?v=riw1PzDC_tY&t=1830s)]*
 
 > <sup>[6](/bible/acts/1#v6)</sup> When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?
->
-> <sup>[7](/bible/acts/1#v7)</sup> And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
 
 - When they therefore were come together, they asked of him, saying: So these are the disciples. They asked of him saying what?
 
 - Lord, wilt thou at this time restore again the kingdom to Israel: Hold on, hold on, hold on. Read that one more time. Will thou at this time? Meaning when he resurrected from the dead, restore again? Restore what? Again, restore again the kingdom to Israel. The kingdom of who? To Israel. The disciples never ever thought that Christ came back to set the kingdom up for everybody. Let's see what Christ said. Did Christ say, "Hold on, the kingdom. You mean for all nations?" What was Christ's response?
+
+> <sup>[7](/bible/acts/1#v7)</sup> And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
 
 - It is not for you to know the times or the seasons, which the Father hath put in his own power: So why didn't Christ check and say, "Ho ho ho, hold on, hold on, Peter. You know I came to put everybody into the kingdom of heaven." Christ said, "No, you don't know. No one knows the time or the hour that the father has appointed to his hand." He didn't correct them on that because Christ already knows he's coming back to restore the kingdom of Israel as prophesied in the holy scriptures. We want to make sure you brothers and sisters understand and don't get caught up in all the floods out here and all these philosophies and vain deceits out here. You understand?
 
@@ -486,19 +486,19 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 
 **[Luke 6:46-49](/bible/luke/6#v46)**  *[[35:08](https://www.youtube.com/watch?v=riw1PzDC_tY&t=2108s)]*
 
+- And why call ye me, Lord, Lord, and do not the things which I say:
+
 > <sup>[46](/bible/luke/6#v46)</sup> And why call ye me, Lord, Lord, and do not the things which I say?
 >
 > <sup>[47](/bible/luke/6#v47)</sup> Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:
 >
 > <sup>[48](/bible/luke/6#v48)</sup> He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
->
-> <sup>[49](/bible/luke/6#v49)</sup> But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
-
-- And why call ye me, Lord, Lord, and do not the things which I say:
 
 - He is like a man which built an house, and digged deep, and laid the foundation on a rock: And when the flood arose, the stream beat vehemently upon that house. So this is going into when Christ told him in Luke 19 to occupy till I return. Meaning what? These men are standing on Christ, the foundation. The bedrock of their faith is Christ. All this is tying together here in Luke 6 and Luke 19.
 
 - For it was founded upon a rock: Meaning Christ.
+
+> <sup>[49](/bible/luke/6#v49)</sup> But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
 
 - But he that heareth, and doeth not: So these are the citizens that hate Christ. Those citizens are called Christians or call themselves Christians today. So they hear the Bible but don't do it. The scriptures say your holy convocation is the seventh day of the week. They in church on the first day of the week. The scriptures say Christ is a dark-skinned man with white willy hair. In their church they got a white man with blonde hair, blue eyes. The scriptures say don't celebrate that custom, that Babylonian custom that's called Christmas today. They celebrate that custom that is called Christmas today. You understand? They don't do what the Bible says.
 
@@ -512,35 +512,35 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:14-19](/bible/luke/19#v14)**  *[[38:11](https://www.youtube.com/watch?v=riw1PzDC_tY&t=2291s)]*
 
 > <sup>[14](/bible/luke/19#v14)</sup> But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.
->
-> <sup>[15](/bible/luke/19#v15)</sup> And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
->
-> <sup>[16](/bible/luke/19#v16)</sup> Then came the first, saying, Lord, thy pound hath gained ten pounds.
->
-> <sup>[17](/bible/luke/19#v17)</sup> And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
->
-> <sup>[18](/bible/luke/19#v18)</sup> And the second came, saying, Lord, thy pound hath gained five pounds.
->
-> <sup>[19](/bible/luke/19#v19)</sup> And he said likewise to him, Be thou also over five cities.
 
 - We will not have this man to reign over us: Because in order to submit or to be citizens of the king, you must submit to his will. That's why Christ said in Luke 6:46, "Why call me Lord and do not the things that I say?" You understand? These people are literally serving Satan. They not serving the God of the Bible.
 
+> <sup>[15](/bible/luke/19#v15)</sup> And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
+
 - That he might know how much every man had gained by trading: So he want to know how much did these men gain by trading. Meaning what? They went out there and taught. They taught the people the scriptures. They multiplied their talents, the gifts and abilities that they had, they bought in and used that to expand this truth.
+
+> <sup>[16](/bible/luke/19#v16)</sup> Then came the first, saying, Lord, thy pound hath gained ten pounds.
 
 - Lord, thy pound hath gained ten pounds: So this brother put in work. He said, that pound you gave me gained 10 pounds, man.
 
+> <sup>[17](/bible/luke/19#v17)</sup> And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
+
 - Because thou hast been faithful in a very little, have thou authority over ten cities: Woo. He said, "You was faithful over a little. Have authority over 10 cities." That's what we looking for. You understand?
 
+> <sup>[18](/bible/luke/19#v18)</sup> And the second came, saying, Lord, thy pound hath gained five pounds.
+
 - Lord, thy pound hath gained five pounds: So the another brother came said, "Look, the pound you gave me, I got fivefold increase on that."
+
+> <sup>[19](/bible/luke/19#v19)</sup> And he said likewise to him, Be thou also over five cities.
 
 
 **[Luke 19:20-21](/bible/luke/19#v20)**  *[[39:42](https://www.youtube.com/watch?v=riw1PzDC_tY&t=2382s)]*
 
 > <sup>[20](/bible/luke/19#v20)</sup> And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:
->
-> <sup>[21](/bible/luke/19#v21)</sup> For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
 
 - Lord, behold, here is thy pound, which I have kept laid up in a napkin: So, here's a brother that's been called into the truth. But the talents that he had, he didn't use it to build the truth. You understand? He didn't go out there and teach the people, he laid it up in a napkin. Meaning what? He sat on that talent.
+
+> <sup>[21](/bible/luke/19#v21)</sup> For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
 
 - For I feared thee, because thou art an austere man: Hold on. What? He said I fear thee because thou are an austere man. Mean what? Christ was not a sucker. Give me Matthew 7 29 cuz when you got the image of Cesare Borgia, find the image while he getting the scripture, of the one picture of Cesare Borgia with the heart with the fingers. What is our stay about this? Do you understand? I'm trying to figure out who would fear this guy. And you mean to tell me if you in a hostage situation and the SWAT team come in? Yeah, bring it up. And they got this guy, you already know you dead as hell. What's the fear about? Look, your animals might be in fear or some children might be in fear but what's so terrifying about this guy? This guy looked like a damn pedophile. I want the other one with the... Is that it? That was the one. I thought it was one worse than that. I want the one with the heart.
 
@@ -554,12 +554,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:21-22](/bible/luke/19#v21)**  *[[41:18](https://www.youtube.com/watch?v=riw1PzDC_tY&t=2478s)]*
 
 > <sup>[21](/bible/luke/19#v21)</sup> For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
->
-> <sup>[22](/bible/luke/19#v22)</sup> And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
 
 - For I feared thee, because thou art an austere man: Let's get the depiction of Christ that the Israelites have made. This brother right here look like a Austin man. We got that on tap. Let's bring this up. That right there. That brother like he ain't playing no games. You understand what I'm saying? You see a man with a stone face like that, you already know like, man, you know what? That brother's serious about his business. You understand? He said, "What? For I fear thee." I fear thee because thou art an austere man. You could look at that depiction of Christ and say, "You know what? I see why somebody would fear this man." You understand? Can y'all flip to the image of the beast up there? Cuz we got to drive this point home. Because thou art an austere man. There's nothing a steal about this guy. Hell no. Get that garbage off the screen, man.
 
 - Thou takest up that thou layedst not down, and reapest that thou didst not sow: So that's what he said to Christ, said, "Hold on, man. You trying to reap things that you didn't sow." Obviously, cuz he gave you the job to do it.
+
+> <sup>[22](/bible/luke/19#v22)</sup> And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
 
 - Out of thine own mouth will I judge thee: He said, what? Out of thine own mouth will I judge thee. Meaning what? Your slothful works that you just said out of your own mouth, you going to be judged by your own words. That's why we got to be careful what we say out of our mouth, family. You understand? By our words, we going to be justified or our words we going to be condemned. This brother out of his own mouth said, "Man, I laid that town up."
 
@@ -575,12 +575,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:23-26](/bible/luke/19#v23)**  *[[44:10](https://www.youtube.com/watch?v=riw1PzDC_tY&t=2650s)]*
 
 > <sup>[23](/bible/luke/19#v23)</sup> Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
->
-> <sup>[24](/bible/luke/19#v24)</sup> And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
->
-> <sup>[25](/bible/luke/19#v25)</sup> (And they said unto him, Lord, he hath ten pounds.)
->
-> <sup>[26](/bible/luke/19#v26)</sup> For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
 
 - Wherefore then gavest not thou my money into the bank: He said, "You could have just... Why you ain't put the money, your talent in the truth to gain interest like the other brothers did?"
 
@@ -588,7 +582,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 
 - That at my coming I might have required mine own with usury: That's why he employed us because he said look I'm hiring you for a job and I'm expecting to collect on mine with usery. Go out there and get to work.
 
+> <sup>[24](/bible/luke/19#v24)</sup> And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
+
 - Take from him the pound, and give it to him that hath ten pounds: He said take from him that talent that I gave him and give it to the brother with 10 talents.
+
+> <sup>[25](/bible/luke/19#v25)</sup> (And they said unto him, Lord, he hath ten pounds.)
+>
+> <sup>[26](/bible/luke/19#v26)</sup> For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
 
 - And from him that hath not, even that he hath shall be taken away from him: So to all, it's given all of us, but to those brothers that don't want to use that talent, not only is that talent going to be taken away, but that access to the kingdom of God is going to be taken away. Understand that thing. This some heavy stuff that we read in here, family. This is some heavy stuff.
 
@@ -611,20 +611,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Ezekiel 20:35-38](/bible/ezekiel/20#v35)**  *[[48:27](https://www.youtube.com/watch?v=riw1PzDC_tY&t=2907s)]*
 
 > <sup>[35](/bible/ezekiel/20#v35)</sup> And I will bring you into the wilderness of the people, and there will I plead with you face to face.
->
-> <sup>[36](/bible/ezekiel/20#v36)</sup> Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord God.
->
-> <sup>[37](/bible/ezekiel/20#v37)</sup> And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:
->
-> <sup>[38](/bible/ezekiel/20#v38)</sup> And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
 
 - And I will bring you into the wilderness of the people: So before we get into the kingdom, we going into the wilderness.
 
 - And there will I plead with you face to face: Meaning he's going to teach us the understanding. It's going to be crystal clear. We going to be fully bought into the new covenant. So you understand.
 
+> <sup>[36](/bible/ezekiel/20#v36)</sup> Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord God.
+
 - Like as I pleaded with your fathers in the wilderness of the land of Egypt: So who was in the wilderness? Let know that was Christ.
 
+> <sup>[37](/bible/ezekiel/20#v37)</sup> And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:
+
 - And I will bring you into the bond of the covenant: Meaning what? Now we going to have an understanding. In this day, it ain't going to be no more mercy. You understand? You go out there in the wilderness and you a rebel. Let's read about the rebels, man.
+
+> <sup>[38](/bible/ezekiel/20#v38)</sup> And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the Lord.
 
 - And I will purge out from among you the rebels: Hold on. He going to do what? Purge out from among you the rebels. Those are the enemies in Luke 19:27. Those are the citizens that hated Christ in verse 14 in Luke chapter 19.
 
@@ -690,16 +690,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Psalms 118:26-29](/bible/psalms/118#v26)**  *[[53:26](https://www.youtube.com/watch?v=riw1PzDC_tY&t=3206s)]*
 
 > <sup>[26](/bible/psalms/118#v26)</sup> Blessed be he that cometh in the name of the Lord: we have blessed you out of the house of the Lord.
->
-> <sup>[27](/bible/psalms/118#v27)</sup> God is the Lord, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar.
->
-> <sup>[28](/bible/psalms/118#v28)</sup> Thou art my God, and I will praise thee: thou art my God, I will exalt thee.
->
-> <sup>[29](/bible/psalms/118#v29)</sup> O give thanks unto the Lord; for he is good: for his mercy endureth for ever.
 
 - Blessed be he that cometh in the name of the LORD: So we looking at the scriptures being fulfilled. Blessed is he. This is King David, a prophet, saying blessed is he that cometh in the name of the Lord.
 
+> <sup>[27](/bible/psalms/118#v27)</sup> God is the Lord, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar.
+
 - God is the LORD, which hath shewed us light: Which has shown us what? Showed us life. Meaning in Christ.
+
+> <sup>[28](/bible/psalms/118#v28)</sup> Thou art my God, and I will praise thee: thou art my God, I will exalt thee.
+>
+> <sup>[29](/bible/psalms/118#v29)</sup> O give thanks unto the Lord; for he is good: for his mercy endureth for ever.
 
 - O give thanks unto the LORD; for he is good: for his mercy endureth for ever: You see, that's why Christ said he will have mercy and not sacrifice. Man, this is all prophetic of Christ coming on the scene to bring repentance to Israel, to bring forth reconciliation of the two kingdoms, northern kingdom and southern kingdom. We read that Ezekiel 37.
 
@@ -707,14 +707,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:38-40](/bible/luke/19#v38)**  *[[54:17](https://www.youtube.com/watch?v=riw1PzDC_tY&t=3257s)]*
 
 > <sup>[38](/bible/luke/19#v38)</sup> Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.
->
-> <sup>[39](/bible/luke/19#v39)</sup> And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.
->
-> <sup>[40](/bible/luke/19#v40)</sup> And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.
 
 - Peace in heaven, and glory in the highest: Said, "Peace in heaven and glory in the highest."
 
+> <sup>[39](/bible/luke/19#v39)</sup> And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.
+
 - And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples: You see that? It's always got to be negroes some way, some form, somehow hating. Damn. Only black folk.
+
+> <sup>[40](/bible/luke/19#v40)</sup> And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.
 
 - I tell you that, if these should hold their peace, the stones would immediately cry out: You see that? So if they don't cry, it says the stones is going to cry out. I think it's chapter 2 and 11.
 
@@ -730,20 +730,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:41-44](/bible/luke/19#v41)**  *[[56:42](https://www.youtube.com/watch?v=riw1PzDC_tY&t=3402s)]*
 
 > <sup>[41](/bible/luke/19#v41)</sup> And when he was come near, he beheld the city, and wept over it,
->
-> <sup>[42](/bible/luke/19#v42)</sup> Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.
->
-> <sup>[43](/bible/luke/19#v43)</sup> For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
->
-> <sup>[44](/bible/luke/19#v44)</sup> And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.
 
 - He beheld the city, and wept over it: So Christ beheld the city and wept over it.
 
+> <sup>[42](/bible/luke/19#v42)</sup> Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.
+
 - But now they are hid from thine eyes: Men, they can't see what's about to come.
+
+> <sup>[43](/bible/luke/19#v43)</sup> For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
 
 - For the days shall come upon thee: You see that? But the day shall come upon thee.
 
 - That thine enemies shall cast a trench about thee, and compass thee round: He's talking about 70 AD.
+
+> <sup>[44](/bible/luke/19#v44)</sup> And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.
 
 - Because thou knewest not the time of thy visitation: Meaning that's the stones is going to cry. This thing is going down. You understand? Give me Deuteronomy 28 real quick. 52-57. So Christ is giving him something. This was prophetically written in Deuteronomy 28.
 
@@ -751,12 +751,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Deuteronomy 28:52-54](/bible/deuteronomy/28#v52)**  *[[57:26](https://www.youtube.com/watch?v=riw1PzDC_tY&t=3446s)]*
 
 > <sup>[52](/bible/deuteronomy/28#v52)</sup> And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the Lord thy God hath given thee.
->
+
+- And he shall besiege thee in all thy gates: So that's what Christ told him when it digs a trench around.
+
 > <sup>[53](/bible/deuteronomy/28#v53)</sup> And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the Lord thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:
 >
 > <sup>[54](/bible/deuteronomy/28#v54)</sup> So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:
-
-- And he shall besiege thee in all thy gates: So that's what Christ told him when it digs a trench around.
 
 - So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother: Meaning what? So Christ is weaving because he knew the stones was going to crowd, meaning all that was going to be thrown down. You can't stop the return. You couldn't stop the return of Christ. You can't stop the destruction of Jerusalem. That's what he was telling them at that time. But our people, we couldn't see it. You understand? We could not see it. So now go back to Luke real quick. That's why he wept over a city.
 
@@ -770,10 +770,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 > <sup>[42](/bible/luke/19#v42)</sup> Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.
 >
 > <sup>[43](/bible/luke/19#v43)</sup> For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
->
-> <sup>[44](/bible/luke/19#v44)</sup> And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.
 
 - That thine enemies shall cast a trench about thee: Right? We referenced that in Deuteronomy 28:52-57.
+
+> <sup>[44](/bible/luke/19#v44)</sup> And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.
 
 - And they shall not leave in thee one stone upon another: Meaning them things going to cry. They getting thrown down. You understand?
 
@@ -781,20 +781,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "mercy", "purpose", "salvation"]
 **[Luke 19:45-48](/bible/luke/19#v45)**  *[[59:53](https://www.youtube.com/watch?v=riw1PzDC_tY&t=3593s)]*
 
 > <sup>[45](/bible/luke/19#v45)</sup> And he went into the temple, and began to cast out them that sold therein, and them that bought;
->
-> <sup>[46](/bible/luke/19#v46)</sup> Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.
->
-> <sup>[47](/bible/luke/19#v47)</sup> And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,
->
-> <sup>[48](/bible/luke/19#v48)</sup> And could not find what they might do: for all the people were very attentive to hear him.
 
 - And he went into the temple, and began to cast out them that sold therein, and them that bought: Meaning what? Christ went in there and beat some tail.
 
+> <sup>[46](/bible/luke/19#v46)</sup> Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.
+
 - My house is the house of prayer: but ye have made it a den of thieves: You see, they said, "They have made it a den of thieves." And we not talking about the movie with 50 Cent. We talking about pastors robbing the people, man. A den of damn thieves, man.
+
+> <sup>[47](/bible/luke/19#v47)</sup> And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,
 
 - And he taught daily in the temple: He did what? He taught daily in the temple. He taught daily in the temple. He wasn't in there having people playing basketball in the damn church. People playing basketball. Come on, man. On a quote unquote Sunday service.
 
 - But the chief priests and the scribes and the chief of the people sought to destroy him: Those are the citizens that hated Christ, the ones that follow the scribes and Pharisees. Just like the so-called Christians that follow the pastors and follow the politicians. They hate the children of Israel. They hate their brothers. They hate seeing the brothers out there in the purple and gold on the street. Man, the same spirit.
+
+> <sup>[48](/bible/luke/19#v48)</sup> And could not find what they might do: for all the people were very attentive to hear him.
 
 - And could not find what they might do: And they can't find what to do. They trying to come up with all types of stuff talking about they shot somebody, they did this, they did that. Come on, man.
 

@@ -129,19 +129,21 @@ The objective of this class is to understand how sin rarely presents itself as d
 
 **[Romans 6:12-16](/bible/romans/6#v12)**  *[[31:38](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=1898s)]*
 
+- Let not sin therefore reign in your mortal body. The scripture says do not let sin control you, have that dominion over you.
+
 > <sup>[12](/bible/romans/6#v12)</sup> Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
 >
 > <sup>[13](/bible/romans/6#v13)</sup> Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.
->
+
+- Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God. The body that God gave us is used as an instrument to serve God. The life God gave you is not your own; you cannot just do what you want to do with the body. This is supposed to be a temple, a holy thing.
+
+- Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness. Whatever you decide to do, you become that servant. As long as you are serving sin, you are serving sin unto death; that is the road you are heading down.
+
 > <sup>[14](/bible/romans/6#v14)</sup> For sin shall not have dominion over you: for ye are not under the law, but under grace.
 >
 > <sup>[15](/bible/romans/6#v15)</sup> What then? shall we sin, because we are not under the law, but under grace? God forbid.
 >
 > <sup>[16](/bible/romans/6#v16)</sup> Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?
-
-- Let not sin therefore reign in your mortal body. The scripture says do not let sin control you, have that dominion over you.
-- Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God. The body that God gave us is used as an instrument to serve God. The life God gave you is not your own; you cannot just do what you want to do with the body. This is supposed to be a temple, a holy thing.
-- Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness. Whatever you decide to do, you become that servant. As long as you are serving sin, you are serving sin unto death; that is the road you are heading down.
 
 **[Luke 18:8](/bible/luke/18#v8)**  *[[40:06](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=2406s)]*
 
@@ -183,18 +185,22 @@ The objective of this class is to understand how sin rarely presents itself as d
 **[Wisdom of Solomon 2:21-24](/bible/wisdom-of-solomon/2#v21)**  *[[53:49](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=3229s)]*
 
 > <sup>[21](/bible/wisdom-of-solomon/2#v21)</sup> Such things they did imagine, and were deceived: for their own wickedness hath blinded them.
->
+
+- Such things they did imagine, and were deceived: for their own wickedness hath blinded them. Stuff that you have in your mind, you get deceived by; you think you are right. And you can interchange wickedness with appetite: their own lust, their own desires have blinded them, so they cannot see anything else. That man in that public place was blinded by his lust, and he is not the only one.
+
 > <sup>[22](/bible/wisdom-of-solomon/2#v22)</sup> As for the mysteries of God, they knew them not: neither hoped they for the wages of righteousness, nor discerned a reward for blameless souls.
->
+
+- As for the mysteries of God, they knew them not: they were not in the scriptures. Neither hoped they for the wages of righteousness. The wages of sin is death, so the wages of righteousness is life. But you did not consider that when your mind was messed up. You did not count the cost.
+
+- For God created man to be immortal, and made him to be an image of his own eternity. Think about how important we are: the Lord created us to be righteous, to be here forever, in his image.
+
+- Nevertheless through envy of the devil came death into the world. Through the devil, your appetite, your lust, came death, which is sin. Sin brought that thing in here; that is why we die today. It happened in Genesis.
+
+- It is a setup, and it is your decisions: most of the problems in your life are decisions, dumb decisions that you made. The Most High gives you his spirit so you can discern through decisions and prosper, but we get overtaken in our faults. Once desire leads, reasoning follows desire. Sin blinds judgment.
+
 > <sup>[23](/bible/wisdom-of-solomon/2#v23)</sup> For God created man to be immortal, and made him to be an image of his own eternity.
 >
 > <sup>[24](/bible/wisdom-of-solomon/2#v24)</sup> Nevertheless through envy of the devil came death into the world: and they that do hold of his side do find it.
-
-- Such things they did imagine, and were deceived: for their own wickedness hath blinded them. Stuff that you have in your mind, you get deceived by; you think you are right. And you can interchange wickedness with appetite: their own lust, their own desires have blinded them, so they cannot see anything else. That man in that public place was blinded by his lust, and he is not the only one.
-- As for the mysteries of God, they knew them not: they were not in the scriptures. Neither hoped they for the wages of righteousness. The wages of sin is death, so the wages of righteousness is life. But you did not consider that when your mind was messed up. You did not count the cost.
-- For God created man to be immortal, and made him to be an image of his own eternity. Think about how important we are: the Lord created us to be righteous, to be here forever, in his image.
-- Nevertheless through envy of the devil came death into the world. Through the devil, your appetite, your lust, came death, which is sin. Sin brought that thing in here; that is why we die today. It happened in Genesis.
-- It is a setup, and it is your decisions: most of the problems in your life are decisions, dumb decisions that you made. The Most High gives you his spirit so you can discern through decisions and prosper, but we get overtaken in our faults. Once desire leads, reasoning follows desire. Sin blinds judgment.
 
 **[Proverbs 7:1-5](/bible/proverbs/7#v1)**  *[[57:24](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=3444s)]*
 
@@ -485,8 +491,6 @@ The objective of this class is to understand how sin rarely presents itself as d
 **[Galatians 6:7-8](/bible/galatians/6#v7)**  *[[2:27:41](https://www.youtube.com/watch?v=NtwCJWtpPQY&t=8861s)]*
 
 > <sup>[7](/bible/galatians/6#v7)</sup> Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
->
-> <sup>[8](/bible/galatians/6#v8)</sup> For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
 
 - Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. When you put in the sin, the consequences are going to happen. For he that soweth to his flesh shall of the flesh reap corruption: you will be judged by it. But he that soweth to the Spirit shall of the Spirit reap life everlasting: when you sow yourself into the scriptures, the Lord gives blessings, favor, mercy, and abundance.
 
@@ -507,6 +511,8 @@ The objective of this class is to understand how sin rarely presents itself as d
     > <sup>[15](/bible/joshua/24#v15)</sup> And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the Lord.
 
     Choose you this day whom ye will serve. You cannot serve two masters. You cannot serve the flesh and serve God at the same time; you have to choose, and there is no in between. That is why he said, I would thou wert cold or hot: if you are lukewarm, battling that middle ground and playing games, I will spue thee out of my mouth. But as for me and my house, we will serve the Lord.
+
+> <sup>[8](/bible/galatians/6#v8)</sup> For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
 
 ## In Closing
 

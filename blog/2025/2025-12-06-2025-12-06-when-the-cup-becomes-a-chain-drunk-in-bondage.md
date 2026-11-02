@@ -193,27 +193,27 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 
 **[Proverbs 23:29-34](/bible/proverbs/23#v29)**  *[[1:18:39](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4719s)]*
 
+- Who hath woe, who hath sorrow, who hath contention, who hath babbling, who hath wounds without cause, who hath redness of eyes: they that tarry long at the wine, they that go to seek mixed wine. All of those are the attributes of a drunkard.
+
+- That sorrow is the woe-is-me that comes over you when the liquor is in you and the right song starts playing.
+
 > <sup>[29](/bible/proverbs/23#v29)</sup> Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?
 >
 > <sup>[30](/bible/proverbs/23#v30)</sup> They that tarry long at the wine; they that go to seek mixed wine.
 >
 > <sup>[31](/bible/proverbs/23#v31)</sup> Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.
->
-> <sup>[32](/bible/proverbs/23#v32)</sup> At the last it biteth like a serpent, and stingeth like an adder.
->
-> <sup>[33](/bible/proverbs/23#v33)</sup> Thine eyes shall behold strange women, and thine heart shall utter perverse things.
->
-> <sup>[34](/bible/proverbs/23#v34)</sup> Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.
-
-- Who hath woe, who hath sorrow, who hath contention, who hath babbling, who hath wounds without cause, who hath redness of eyes: they that tarry long at the wine, they that go to seek mixed wine. All of those are the attributes of a drunkard.
-
-- That sorrow is the woe-is-me that comes over you when the liquor is in you and the right song starts playing.
 
 - Look not thou upon the wine when it is red, when it giveth his colour in the cup: at the last it biteth like a serpent and stingeth like an adder.
 
 - Thine eyes shall behold strange women, and thine heart shall utter perverse things.
 
 - Thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast. The mast is the top of a ship, the part that holds the sail -- that is the swaying and the stumbling of a man who has had one too many.
+
+> <sup>[32](/bible/proverbs/23#v32)</sup> At the last it biteth like a serpent, and stingeth like an adder.
+>
+> <sup>[33](/bible/proverbs/23#v33)</sup> Thine eyes shall behold strange women, and thine heart shall utter perverse things.
+>
+> <sup>[34](/bible/proverbs/23#v34)</sup> Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.
 
 
 *[[1:22:56](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=4976s)]* **In The News: A clip of a man who had one drink too many stumbling down the street, swaying like a leaf in a hurricane** — That is the man lying on the top of a mast, like you are on a ship in the ocean. And some of you are sitting there right now saying you are good, you do not get drunk.
@@ -248,7 +248,15 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 **[1 Esdras 3:18-24](/bible/1-esdras/3#v18)**  *[[1:25:22](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=5122s)]*
 
 > <sup>[18](/bible/1-esdras/3#v18)</sup> And he said thus, O ye men, how exceeding strong is wine! it causeth all men to err that drink it:
->
+
+- How exceeding strong is wine: it causeth all men to err that drink it. When you over-consume it, you err.
+
+- It maketh the mind of the king and of the fatherless child to be all one, the bondman and the freeman, the poor man and the rich. It turneth every thought into jollity and mirth, so that a man remembereth neither sorrow nor debt -- that is why the bum chases the bottle, so he can forget that he is a bum.
+
+- And when they are in their cups they forget their love both to friends and brethren, and a little after draw out swords. You came to the club together and now you want to fight me. The man gets drunk and beats his wife; that is where a lot of the domestic violence comes from.
+
+- But when they are from the wine they remember not what they have done. Is not wine the strongest, that enforceth to do thus?
+
 > <sup>[19](/bible/1-esdras/3#v19)</sup> It maketh the mind of the king and of the fatherless child to be all one; of the bondman and of the freeman, of the poor man and of the rich:
 >
 > <sup>[20](/bible/1-esdras/3#v20)</sup> It turneth also every thought into jollity and mirth, so that a man remembereth neither sorrow nor debt:
@@ -260,14 +268,6 @@ tags: ["IUIC in the ClassRoom", "captivity", "endurance", "mental-health", "pray
 > <sup>[23](/bible/1-esdras/3#v23)</sup> But when they are from the wine, they remember not what they have done.
 >
 > <sup>[24](/bible/1-esdras/3#v24)</sup> O ye men, is not wine the strongest, that enforceth to do thus? And when he had so spoken, he held his peace.
-
-- How exceeding strong is wine: it causeth all men to err that drink it. When you over-consume it, you err.
-
-- It maketh the mind of the king and of the fatherless child to be all one, the bondman and the freeman, the poor man and the rich. It turneth every thought into jollity and mirth, so that a man remembereth neither sorrow nor debt -- that is why the bum chases the bottle, so he can forget that he is a bum.
-
-- And when they are in their cups they forget their love both to friends and brethren, and a little after draw out swords. You came to the club together and now you want to fight me. The man gets drunk and beats his wife; that is where a lot of the domestic violence comes from.
-
-- But when they are from the wine they remember not what they have done. Is not wine the strongest, that enforceth to do thus?
 
 
 **[Sirach 31:27](/bible/sirach/31#v27)**  *[[1:26:58](https://www.youtube.com/watch?v=gF8ALt0DzR4&t=5218s)]*

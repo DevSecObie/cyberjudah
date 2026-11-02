@@ -24,18 +24,18 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[John 15:18-20](/bible/john/15#v18)**  *[[0:57](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=57s)]*
 
 > <sup>[18](/bible/john/15#v18)</sup> If the world hate you, ye know that it hated me before it hated you.
->
-> <sup>[19](/bible/john/15#v19)</sup> If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
->
-> <sup>[20](/bible/john/15#v20)</sup> Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
 
 - If the world hate you, ye know that it hated me before it hated you: It ain't new. Nothing new at all.
+
+> <sup>[19](/bible/john/15#v19)</sup> If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
 
 - If ye were of the world, the world would love his own: You know how heavy this scripture is? If you were of the world, the world will love you. When brothers was smoking weed before keeping God's commandment, was there any issue? No. When brothers was going around having sex before marriage, was there any issue? No. That's how you know this verse is not talking about no Christian folks. Nah. 'Cause the Christian folks, that's why you got all kind of sin in there. Abortion clinic is in the church. Effeminate behavior is in the church. All sort of things is going on in the churches. All sort of things.
 
 - but because ye are not of the world: Because we're keeping God's commandment and the faith of Christ.
 
 - therefore the world hateth you: Therefore they talk all kind of stuff. But it's all good.
+
+> <sup>[20](/bible/john/15#v20)</sup> Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
 
 - The servant is not greater than his lord: Christ was mocked. We will be mocked too. Christ was laughed at. We will be laughed at as well. Christ were persecuted. We will be persecuted as well.
 
@@ -47,14 +47,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[1 Corinthians 4:9-10](/bible/1-corinthians/4#v9)**  *[[4:08](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=248s)]*
 
 > <sup>[9](/bible/1-corinthians/4#v9)</sup> For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.
->
-> <sup>[10](/bible/1-corinthians/4#v10)</sup> We are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised.
 
 - For I think that God hath set forth us the apostles last: You see that? He sent forth the apostle last. Christian church came, Islam came, all sort of denomination came. Now the prophets are marching through the street. Now the prophet are teaching God's words to bring repentance.
 
 - as it were appointed to death: See that? As it was appointed to death. As it was appointed, because we will go through things. Yes. It's part of the walk. It is documented in the Bible that it will happen.
 
 - for we are made a spectacle unto the world: We are made a spectacle unto the world. They laugh. They mock. They say, Who are these people? Remember during the time of Noah, they was laughing at him until the rain start to come, and then they were, Whoa, this guy was a prophet indeed. Yes, same thing will happen again.
+
+> <sup>[10](/bible/1-corinthians/4#v10)</sup> We are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised.
 
 - We are fools for Christ's sake: And it's all right. And it's all right, as long we are doing it for righteousness.
 
@@ -64,14 +64,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[Luke 22:63-65](/bible/luke/22#v63)**  *[[6:13](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=373s)]*
 
 > <sup>[63](/bible/luke/22#v63)</sup> And the men that held Jesus mocked him, and smote him.
->
-> <sup>[64](/bible/luke/22#v64)</sup> And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?
->
-> <sup>[65](/bible/luke/22#v65)</sup> And many other things blasphemously spake they against him.
 
 - And the men that held Jesus mocked him: Ain't nothing new. The men that held Jesus did what to him? Mocked him.
 
+> <sup>[64](/bible/luke/22#v64)</sup> And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?
+
 - and asked him, saying, Prophesy, who is it that smote thee: Christian read this book, but they don't even know what they're reading, because these things don't apply to them. These things do not apply to Christian folks at all. At all. I'm telling you for real. Their eyes are blinded. They cannot see. They never learn Christ.
+
+> <sup>[65](/bible/luke/22#v65)</sup> And many other things blasphemously spake they against him.
 
 - And many other things blasphemously spake they against him: See that? Making fun of him.
 
@@ -99,10 +99,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 > <sup>[28](/bible/matthew/27#v28)</sup> And they stripped him, and put on him a scarlet robe.
 >
 > <sup>[29](/bible/matthew/27#v29)</sup> And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
->
-> <sup>[30](/bible/matthew/27#v30)</sup> And they spit upon him, and took the reed, and smote him on the head.
->
-> <sup>[31](/bible/matthew/27#v31)</sup> And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him.
 
 - they put it upon his head: They put it upon his head, the thorn.
 
@@ -110,7 +106,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 
 - saying, Hail, King of the Jews: That's why you see the whole world is looking at, mocking the prophet. But all this is designed that the Lord may save the lost sheep of the house of Israel. Because not everybody will mock. People will see, and people will see, You know what, this is the truth. This is the truth.
 
+> <sup>[30](/bible/matthew/27#v30)</sup> And they spit upon him, and took the reed, and smote him on the head.
+
 - And they spit upon him: And then what? Spit upon him.
+
+> <sup>[31](/bible/matthew/27#v31)</sup> And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him.
 
 - and led him away to crucify him: You see that thing? See that thing?
 
@@ -118,16 +118,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[John 19:2-5](/bible/john/19#v2)**  *[[9:25](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=565s)]*
 
 > <sup>[2](/bible/john/19#v2)</sup> And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,
->
+
+- And the soldiers platted a crown of thorns: Christian don't read this Bible, understand it. No. No. Who was ruling during the time of Christ? Rome. Rome. Rome. The Christ came for Rome? No. No. Who? Christ came for the lost sheep of the house of Israel. The lost sheep of the house of Israel. Christ didn't came for Pilate. Christ didn't came for Herod. So why we tripping today? Because you seeing spirit as yet today. You would tell Christ that he's racist if you was at that time. You tell Christ that he's for division. And yes, he say, I came not to call peace on earth, but division, to set the real from the fake, to shut the sheep from the wolf, of the goats. That's what he came for.
+
+- and they put on him a purple robe: They mock our king. We're purple. That's what the spirit of the Lord put on Bishop, to allow us to wear purple, to allow us to wear purple, so he can rise us up right in front of their face.
+
 > <sup>[3](/bible/john/19#v3)</sup> And said, Hail, King of the Jews! and they smote him with their hands.
 >
 > <sup>[4](/bible/john/19#v4)</sup> Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.
 >
 > <sup>[5](/bible/john/19#v5)</sup> Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!
-
-- And the soldiers platted a crown of thorns: Christian don't read this Bible, understand it. No. No. Who was ruling during the time of Christ? Rome. Rome. Rome. The Christ came for Rome? No. No. Who? Christ came for the lost sheep of the house of Israel. The lost sheep of the house of Israel. Christ didn't came for Pilate. Christ didn't came for Herod. So why we tripping today? Because you seeing spirit as yet today. You would tell Christ that he's racist if you was at that time. You tell Christ that he's for division. And yes, he say, I came not to call peace on earth, but division, to set the real from the fake, to shut the sheep from the wolf, of the goats. That's what he came for.
-
-- and they put on him a purple robe: They mock our king. We're purple. That's what the spirit of the Lord put on Bishop, to allow us to wear purple, to allow us to wear purple, so he can rise us up right in front of their face.
 
 - Then came Jesus forth, wearing the crown of thorns, and the purple robe: So Christ wore the purple robe, right?
 
@@ -137,14 +137,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[2 Chronicles 36:15-16](/bible/2-chronicles/36#v15)**  *[[11:40](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=700s)]*
 
 > <sup>[15](/bible/2-chronicles/36#v15)</sup> And the Lord God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:
->
-> <sup>[16](/bible/2-chronicles/36#v16)</sup> But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the Lord arose against his people, till there was no remedy.
 
 - And the Lord God of their fathers sent to them by his messengers, rising up betimes: Christian reading a fairy tale book. They ain't reading this Bible. I know they got a different Bible they reading, not this Bible. That's why he see us in the street, rising up early.
 
 - and sending: And sending them different different blocks.
 
 - because he had compassion on his people: Because he loved you. That's why he's sending us to you, so you can repent.
+
+> <sup>[16](/bible/2-chronicles/36#v16)</sup> But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the Lord arose against his people, till there was no remedy.
 
 - But they mocked the messengers of God: What they did? Mocked the messengers of God. The messengers of God.
 
@@ -156,10 +156,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[Jeremiah 20:7-9](/bible/jeremiah/20#v7)**  *[[12:54](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=774s)]*
 
 > <sup>[7](/bible/jeremiah/20#v7)</sup> O Lord, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.
->
-> <sup>[8](/bible/jeremiah/20#v8)</sup> For since I spake, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach unto me, and a derision, daily.
->
-> <sup>[9](/bible/jeremiah/20#v9)</sup> Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
 
 - O Lord, thou hast deceived me: Check this out. You think that can offend us? No, not at all. Not at all. It make us stronger. It make us strong. It make us know that we are those guys. It make us look at the Bible and see the same thing they did to Christ, the same thing they did to the prophet, they're doing it to us. So who do that make us? The prophets. That's it.
 
@@ -167,9 +163,13 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 
 - every one mocketh me: Isn't that what happened? Everyone mock it.
 
+> <sup>[8](/bible/jeremiah/20#v8)</sup> For since I spake, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach unto me, and a derision, daily.
+
 - For since I spake, I cried out: Since we start to teach God's words.
 
 - because the word of the Lord was made a reproach unto me: Because you teach the truth, they hate you. Because you teach the truth, they laugh at you. Because you teach the truth, they mock you.
+
+> <sup>[9](/bible/jeremiah/20#v9)</sup> Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
 
 - Then I said, I will not make mention of him: Jeremiah said, You know, I will not make mention of the Lord.
 
@@ -199,14 +199,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[Nehemiah 2:19-20](/bible/nehemiah/2#v19)**  *[[16:54](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=1014s)]*
 
 > <sup>[19](/bible/nehemiah/2#v19)</sup> But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that ye do? will ye rebel against the king?
->
-> <sup>[20](/bible/nehemiah/2#v20)</sup> Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.
 
 - But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it: When they heard that the Israelite was building the wall. Same thing today. When the other nations see us building, restoring our people from the field that they in, what they do?
 
 - they laughed us to scorn: What they do? Laughed us to scorn. Ain't nothing new. They laugh.
 
 - and said, What is this thing that ye do: What are you doing over there? What are you doing?
+
+> <sup>[20](/bible/nehemiah/2#v20)</sup> Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.
 
 - The God of heaven, he will prosper us: He will prosper this truth.
 
@@ -218,22 +218,22 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[Hebrews 11:36-40](/bible/hebrews/11#v36)**  *[[18:15](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=1095s)]*
 
 > <sup>[36](/bible/hebrews/11#v36)</sup> And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:
->
-> <sup>[37](/bible/hebrews/11#v37)</sup> They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;
->
-> <sup>[38](/bible/hebrews/11#v38)</sup> (Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
->
-> <sup>[39](/bible/hebrews/11#v39)</sup> And these all, having obtained a good report through faith, received not the promise:
->
-> <sup>[40](/bible/hebrews/11#v40)</sup> God having provided some better thing for us, that they without us should not be made perfect.
 
 - And others had trial of cruel mockings and scourgings: See that?
 
+> <sup>[37](/bible/hebrews/11#v37)</sup> They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;
+>
+> <sup>[38](/bible/hebrews/11#v38)</sup> (Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
+
 - (Of whom the world was not worthy:): The world wasn't worthy for them people.
+
+> <sup>[39](/bible/hebrews/11#v39)</sup> And these all, having obtained a good report through faith, received not the promise:
 
 - And these all, having obtained a good report through faith: You see that? Obtain a good report through faith.
 
 - received not the promise: Because they did not obtain the kingdom just yet. Just yet.
+
+> <sup>[40](/bible/hebrews/11#v40)</sup> God having provided some better thing for us, that they without us should not be made perfect.
 
 
 **[1 Peter 4:14](/bible/1-peter/4#v14)**  *[[19:31](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=1171s)]*
@@ -248,14 +248,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "endurance", "faith"]
 **[Luke 6:22-23](/bible/luke/6#v22)**  *[[20:03](https://www.youtube.com/watch?v=NQ4biwfZfRo&t=1203s)]*
 
 > <sup>[22](/bible/luke/6#v22)</sup> Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
->
-> <sup>[23](/bible/luke/6#v23)</sup> Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets.
 
 - Blessed are ye, when men shall hate you: When men shall hate you.
 
 - and cast out your name as evil: See that? They cast your name for evil. Talk all kind of stuff. Bring all kind of stuff on your name.
 
 - for the Son of man's sake: See that thing?
+
+> <sup>[23](/bible/luke/6#v23)</sup> Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets.
 
 - Rejoice ye in that day: Rejoice in that day.
 

@@ -27,19 +27,19 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 
 **[Ezekiel 33:30-33](/bible/ezekiel/33#v30)**  *[[22:28](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1348s)]*
 
+- To many of you we are a very lovely song: you log on every Sabbath because you like hearing the deacons and bishops play well on the instrument, which is the Bible.
+
 > <sup>[30](/bible/ezekiel/33#v30)</sup> Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the Lord.
 >
 > <sup>[31](/bible/ezekiel/33#v31)</sup> And they come unto thee as the people cometh, and they sit before thee as my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, but their heart goeth after their covetousness.
 >
 > <sup>[32](/bible/ezekiel/33#v32)</sup> And, lo, thou art unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not.
->
-> <sup>[33](/bible/ezekiel/33#v33)</sup> And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
-
-- To many of you we are a very lovely song: you log on every Sabbath because you like hearing the deacons and bishops play well on the instrument, which is the Bible.
 
 - They hear thy words but they do them not: you do not want to do what is taught, because everything you were taught in Babylon is wrong and the way our people think is wrong.
 
 - When it comes to pass you will know a prophet was among you; the bishops and deacons are prophets, and when what they said comes to pass you will remember it.
+
+> <sup>[33](/bible/ezekiel/33#v33)</sup> And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
 
 
 *[[27:02](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=1622s)]* **In The News: A woman's commentary on the end of the Lindsay Clancy trial** — She was never diagnosed with postpartum depression or psychosis; a mother who wanted out of the life of a mother killed her children, TikTok rallied a crowd to get her off, and it took a man to say not today. Any sister among us who sympathises with her has the liberal mind the class is about.
@@ -49,27 +49,27 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 **[Hosea 4:6-8](/bible/hosea/4#v6)**  *[[35:08](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2108s)]*
 
 > <sup>[6](/bible/hosea/4#v6)</sup> My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.
->
-> <sup>[7](/bible/hosea/4#v7)</sup> As they were increased, so they sinned against me: therefore will I change their glory into shame.
->
-> <sup>[8](/bible/hosea/4#v8)</sup> They eat up the sin of my people, and they set their heart on their iniquity.
 
 - My people are destroyed for lack of knowledge: we are a destroyed people, and even in childbirth there is much we do not know; the sisters are destroyed and their husbands are destroyed too.
 
 - Having forgotten the law, God forgets the children and changes their glory into shame.
+
+> <sup>[7](/bible/hosea/4#v7)</sup> As they were increased, so they sinned against me: therefore will I change their glory into shame.
+>
+> <sup>[8](/bible/hosea/4#v8)</sup> They eat up the sin of my people, and they set their heart on their iniquity.
 
 - They set their heart on their iniquity: the heart is the mind, and it means you hear the scriptures and do not want to change; the same people then and now.
 
 
 **[Isaiah 29:13,16](/bible/isaiah/29#v13)**  *[[37:43](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=2263s)]*
 
-> <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
->
-> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
-
 - Our people draw near with the mouth and honour him with the lips, but the heart is far from him: you hear every Sabbath online and do nothing.
 
+> <sup>[13](/bible/isaiah/29#v13)</sup> Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
+
 - Their fear toward me is taught by the precept of men: which man taught you? The white man, in education, medicine, psychology, history, statistics, economics; everything we know was taught by the oppressor, and none of it for our benefit.
+
+> <sup>[16](/bible/isaiah/29#v16)</sup> Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 
 - Your turning of things upside down shall be esteemed as the potter's clay: the Lord will turn it back the way it should be, and he does it through the men he sent to restore the sisters' broken minds.
 
@@ -155,17 +155,17 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 
 **[Genesis 30:1-3](/bible/genesis/30#v1)**  *[[1:10:10](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=4210s)]*
 
-> <sup>[1](/bible/genesis/30#v1)</sup> And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
->
-> <sup>[2](/bible/genesis/30#v2)</sup> And Jacob’s anger was kindled against Rachel: and he said, Am I in God’s stead, who hath withheld from thee the fruit of the womb?
->
-> <sup>[3](/bible/genesis/30#v3)</sup> And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.
-
 - Rachel was favoured and beautiful, and beautiful women have issues and use their beauty to control brothers; she envied her sister and was depressed because she had no children.
 
 - Give me children or else I die was a manipulation of her husband, and a demon: she called it on herself, and when God gave her the second child she died.
 
+> <sup>[1](/bible/genesis/30#v1)</sup> And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
+>
+> <sup>[2](/bible/genesis/30#v2)</sup> And Jacob’s anger was kindled against Rachel: and he said, Am I in God’s stead, who hath withheld from thee the fruit of the womb?
+
 - Jacob's anger was kindled: am I in God's stead? God shut your womb, not me.
+
+> <sup>[3](/bible/genesis/30#v3)</sup> And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.
 
 
 **[Matthew 12:37](/bible/matthew/12#v37)**  *[[1:13:03](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=4383s)]*
@@ -177,6 +177,8 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 
 **[Proverbs 4:20-24](/bible/proverbs/4#v20)**  *[[1:15:58](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=4558s)]*
 
+- Keep the words in the midst of thine heart, for they are life and health to all your flesh.
+
 > <sup>[20](/bible/proverbs/4#v20)</sup> My son, attend to my words; incline thine ear unto my sayings.
 >
 > <sup>[21](/bible/proverbs/4#v21)</sup> Let them not depart from thine eyes; keep them in the midst of thine heart.
@@ -184,14 +186,12 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 > <sup>[22](/bible/proverbs/4#v22)</sup> For they are life unto those that find them, and health to all their flesh.
 >
 > <sup>[23](/bible/proverbs/4#v23)</sup> Keep thy heart with all diligence; for out of it are the issues of life.
->
-> <sup>[24](/bible/proverbs/4#v24)</sup> Put away from thee a froward mouth, and perverse lips put far from thee.
-
-- Keep the words in the midst of thine heart, for they are life and health to all your flesh.
 
 - Keep thy heart with all diligence: your heart is your mind, and when the thought comes that you hate yourself, your husband or your kids, shake it off; out of the heart are the issues of life.
 
 - Put away a froward mouth: Rachel had a froward mouth and God answered her.
+
+> <sup>[24](/bible/proverbs/4#v24)</sup> Put away from thee a froward mouth, and perverse lips put far from thee.
 
 
 **[Proverbs 23:7](/bible/proverbs/23#v7)**  *[[1:18:42](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=4722s)]*
@@ -208,12 +208,6 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 **[Sirach 30:21-24](/bible/sirach/30#v21)**  *[[1:23:32](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=5012s)]*
 
 > <sup>[21](/bible/sirach/30#v21)</sup> Give not over thy mind to heaviness, and afflict not thyself in thine own counsel.
->
-> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
->
-> <sup>[23](/bible/sirach/30#v23)</sup> Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein.
->
-> <sup>[24](/bible/sirach/30#v24)</sup> Envy and wrath shorten the life, and carefulness bringeth age before the time.
 
 - Give not over thy mind to heaviness: life is hard and the spirit tries to jump on everyone, but you cannot allow depression to rise up on you, and a depressed person around you spreads it.
 
@@ -224,6 +218,12 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 - Remove sorrow far from thee, for sorrow hath killed many and there is no profit in it; Esau's profit is the sorrowful medication, big business built on telling the black woman she is depressed.
 
 - The list called postpartum depression is what women naturally deal with after birth, except two lines Esau put in: wanting to kill yourself or your baby. Only a mind with heavy illness thinks that, and it is rare; the women you hear saying it are women who hate their kids.
+
+> <sup>[22](/bible/sirach/30#v22)</sup> The gladness of the heart is the life of man, and the joyfulness of a man prolongeth his days.
+>
+> <sup>[23](/bible/sirach/30#v23)</sup> Love thine own soul, and comfort thy heart, remove sorrow far from thee: for sorrow hath killed many, and there is no profit therein.
+>
+> <sup>[24](/bible/sirach/30#v24)</sup> Envy and wrath shorten the life, and carefulness bringeth age before the time.
 
 
 **[Proverbs 17:22](/bible/proverbs/17#v22)**  *[[1:30:39](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=5439s)]*
@@ -301,12 +301,12 @@ tags: ["IUIC in the ClassRoom", "faith", "health", "marriage-family", "mental-he
 **[Deuteronomy 28:28-29](/bible/deuteronomy/28#v28)**  *[[2:01:40](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=7300s)]*
 
 > <sup>[28](/bible/deuteronomy/28#v28)</sup> The Lord shall smite thee with madness, and blindness, and astonishment of heart:
->
-> <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
 
 - The Lord shall smite thee with madness, and blindness, and astonishment of heart: a deep, paralysing confusion of the mind, like Nebuchadnezzar; that is the curse, and bipolar and schizophrenia are a broken mind under it.
 
 - Worry and the things you call on yourself bring on that sickness; some among us genuinely have anxiety disorders, bipolar and schizophrenia, and the class turns to them.
+
+> <sup>[29](/bible/deuteronomy/28#v29)</sup> And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.
 
 
 **[Matthew 4:24](/bible/matthew/4#v24)**  *[[2:04:24](https://www.youtube.com/watch?v=yRPiKi_Q6LU&t=7464s)]*

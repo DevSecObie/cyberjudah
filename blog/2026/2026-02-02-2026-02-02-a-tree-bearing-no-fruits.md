@@ -68,21 +68,21 @@ tags: ["IUIC in the ClassRoom", "adversity", "prayer", "pride", "repentance", "t
 
 **[Isaiah 30:20-24](/bible/isaiah/30#v20)**  *[[25:00](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=1500s)]*
 
+- Though the Lord give you the bread of adversity and the water of affliction, yet shall not thy teachers be removed into a corner any more. Everything Malcolm said is here: affliction is the season to plant, and God sends teachers during the affliction to explain why it is happening and to sow his word. Now, with rioting on every screen and children put in detention centers, is the best time to farm.
+
 > <sup>[20](/bible/isaiah/30#v20)</sup> And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
 >
 > <sup>[21](/bible/isaiah/30#v21)</sup> And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
->
+
+- Thine eyes shall see thy teachers, and thine ears shall hear a word behind thee saying, This is the way, walk ye in it: repent, you are an Israelite, Christ is a Black man, come out of her my people. Turn right or left and they will still see us; they cannot run from the word.
+
+- Ye shall defile the covering of thy graven images and cast them away as a menstruous cloth: our people will cast away Christianity and Islam and repent. Then shall he give the rain of thy seed, that thou shalt sow the ground withal, and bread of the increase of the earth, fat and plenteous. The seed is the word, the rain waters it, and Israel grows and multiplies. This is the beginning stage.
+
 > <sup>[22](/bible/isaiah/30#v22)</sup> Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence.
 >
 > <sup>[23](/bible/isaiah/30#v23)</sup> Then shall he give the rain of thy seed, that thou shalt sow the ground withal; and bread of the increase of the earth, and it shall be fat and plenteous: in that day shall thy cattle feed in large pastures.
 >
 > <sup>[24](/bible/isaiah/30#v24)</sup> The oxen likewise and the young asses that ear the ground shall eat clean provender, which hath been winnowed with the shovel and with the fan.
-
-- Though the Lord give you the bread of adversity and the water of affliction, yet shall not thy teachers be removed into a corner any more. Everything Malcolm said is here: affliction is the season to plant, and God sends teachers during the affliction to explain why it is happening and to sow his word. Now, with rioting on every screen and children put in detention centers, is the best time to farm.
-
-- Thine eyes shall see thy teachers, and thine ears shall hear a word behind thee saying, This is the way, walk ye in it: repent, you are an Israelite, Christ is a Black man, come out of her my people. Turn right or left and they will still see us; they cannot run from the word.
-
-- Ye shall defile the covering of thy graven images and cast them away as a menstruous cloth: our people will cast away Christianity and Islam and repent. Then shall he give the rain of thy seed, that thou shalt sow the ground withal, and bread of the increase of the earth, fat and plenteous. The seed is the word, the rain waters it, and Israel grows and multiplies. This is the beginning stage.
 
 
 **[Isaiah 55:10-13](/bible/isaiah/55#v10)**  *[[30:17](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=1817s)]*
@@ -113,15 +113,9 @@ tags: ["IUIC in the ClassRoom", "adversity", "prayer", "pride", "repentance", "t
 
 **[2 Esdras 8:41-44](/bible/2-esdras/8#v41)**  *[[37:46](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=2266s)]*
 
-> <sup>[41](/bible/2-esdras/8#v41)</sup> For as the husbandman soweth much seed upon the ground, and planteth many trees, and yet the thing that is sown good in his season cometh not up, neither doth all that is planted take root: even so is it of them that are sown in the world; they shall not all be saved.
->
-> <sup>[42](/bible/2-esdras/8#v42)</sup> I answered then and said, If I have found grace, let me speak.
->
-> <sup>[43](/bible/2-esdras/8#v43)</sup> Like as the husbandman’s seed perisheth, if it come not up, and receive not thy rain in due season; or if there come too much rain, and corrupt it:
->
-> <sup>[44](/bible/2-esdras/8#v44)</sup> Even so perisheth man also, which is formed with thy hands, and is called thine own image, because thou art like unto him, for whose sake thou hast made all things, and likened him unto the husbandman’s seed.
-
 - As the husbandman soweth much seed upon the ground and planteth many trees, yet the thing that is sown good in his season cometh not up, neither doth all that is planted take root. The husbandman is the Most High and the seed is us. Every seed has its season, and some seeds only grow in harsh conditions, in affliction. Anyone who has planted knows some seeds take root and some do not.
+
+> <sup>[41](/bible/2-esdras/8#v41)</sup> For as the husbandman soweth much seed upon the ground, and planteth many trees, and yet the thing that is sown good in his season cometh not up, neither doth all that is planted take root: even so is it of them that are sown in the world; they shall not all be saved.
 
 - Even so is it of them that are sown in the world: they shall not all be saved. Some who hear the word and sit here will not take root, will stay in their sin and never bear fruit. He that endureth to the end shall be saved.
 
@@ -136,6 +130,12 @@ tags: ["IUIC in the ClassRoom", "adversity", "prayer", "pride", "repentance", "t
     > <sup>[6](/bible/1-timothy/3#v6)</sup> Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
 
     Not a novice, lest being lifted up with pride he fall into the condemnation of the devil. Too much rain on a new seed corrupts it.
+
+> <sup>[42](/bible/2-esdras/8#v42)</sup> I answered then and said, If I have found grace, let me speak.
+>
+> <sup>[43](/bible/2-esdras/8#v43)</sup> Like as the husbandman’s seed perisheth, if it come not up, and receive not thy rain in due season; or if there come too much rain, and corrupt it:
+>
+> <sup>[44](/bible/2-esdras/8#v44)</sup> Even so perisheth man also, which is formed with thy hands, and is called thine own image, because thou art like unto him, for whose sake thou hast made all things, and likened him unto the husbandman’s seed.
 
 
 **[Joel 2:23-29](/bible/joel/2#v23)**  *[[50:10](https://www.youtube.com/watch?v=6Pzne8A1Nww&t=3010s)]*

@@ -34,15 +34,15 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "obedience", "salvation", "the-
 
 **[Deuteronomy 32:8-9](/bible/deuteronomy/32#v8)**  *[[1:56](https://www.youtube.com/watch?v=1ZMdcI2xVl8&t=116s)]*
 
-> <sup>[8](/bible/deuteronomy/32#v8)</sup> When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.
->
-> <sup>[9](/bible/deuteronomy/32#v9)</sup> For the Lord’s portion is his people; Jacob is the lot of his inheritance.
-
 - So let's get into the scripture and see who gets God inheritance.
+
+> <sup>[8](/bible/deuteronomy/32#v8)</sup> When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.
 
 - When the most High divided to the nations their inheritance: so when the Lord divided to the nations their inheritance.
 
 - When he separated the sons of Adam: and when he separated the sons of Adam.
+
+> <sup>[9](/bible/deuteronomy/32#v9)</sup> For the Lord’s portion is his people; Jacob is the lot of his inheritance.
 
 - For the Lord's portion is his people: the Lord's portion is his people.
 
@@ -106,10 +106,10 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "obedience", "salvation", "the-
 **[2 Esdras 6:53-54](/bible/2-esdras/6#v53)**  *[[6:51](https://www.youtube.com/watch?v=1ZMdcI2xVl8&t=411s)]*
 
 > <sup>[53](/bible/2-esdras/6#v53)</sup> Upon the sixth day thou gavest commandment unto the earth, that before thee it should bring forth beasts, cattle, and creeping things:
->
-> <sup>[54](/bible/2-esdras/6#v54)</sup> And after these, Adam also, whom thou madest lord of all thy creatures: of him come we all, and the people also whom thou hast chosen.
 
 - Upon the sixth day thou gavest commandment unto the earth, that before thee it should bring forth beasts, cattle, and creeping things: so upon the sixth day, the Lord made beasts, cattle, and creeping things.
+
+> <sup>[54](/bible/2-esdras/6#v54)</sup> And after these, Adam also, whom thou madest lord of all thy creatures: of him come we all, and the people also whom thou hast chosen.
 
 - And after these, Adam also: so Adam also on the sixth day.
 
@@ -142,19 +142,19 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "obedience", "salvation", "the-
 
 **[2 Esdras 6:53-56](/bible/2-esdras/6#v53)**  *[[9:15](https://www.youtube.com/watch?v=1ZMdcI2xVl8&t=555s)]*
 
+- We're still dealing with the other people. What about the other people?
+
 > <sup>[53](/bible/2-esdras/6#v53)</sup> Upon the sixth day thou gavest commandment unto the earth, that before thee it should bring forth beasts, cattle, and creeping things:
 >
 > <sup>[54](/bible/2-esdras/6#v54)</sup> And after these, Adam also, whom thou madest lord of all thy creatures: of him come we all, and the people also whom thou hast chosen.
->
-> <sup>[55](/bible/2-esdras/6#v55)</sup> All this have I spoken before thee, O Lord, because thou madest the world for our sakes
->
-> <sup>[56](/bible/2-esdras/6#v56)</sup> As for the other people, which also come of Adam, thou hast said that they are nothing, but be like unto spittle: and hast likened the abundance of them unto a drop that falleth from a vessel.
-
-- We're still dealing with the other people. What about the other people?
 
 - Of him come we all: we all come from Adam.
 
+> <sup>[55](/bible/2-esdras/6#v55)</sup> All this have I spoken before thee, O Lord, because thou madest the world for our sakes
+
 - Because thou madest the world for our sakes: so according to the prophet Ezra, the world was made for the 12 tribes of Israel's sakes.
+
+> <sup>[56](/bible/2-esdras/6#v56)</sup> As for the other people, which also come of Adam, thou hast said that they are nothing, but be like unto spittle: and hast likened the abundance of them unto a drop that falleth from a vessel.
 
 - As for the other people: ah, now, now let's get the answer to the question. As for the other people.
 
@@ -168,27 +168,27 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "obedience", "salvation", "the-
 **[Isaiah 40:15-16](/bible/isaiah/40#v15)**  *[[10:52](https://www.youtube.com/watch?v=1ZMdcI2xVl8&t=652s)]*
 
 > <sup>[15](/bible/isaiah/40#v15)</sup> Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.
->
-> <sup>[16](/bible/isaiah/40#v16)</sup> And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
 
 - Behold, the nations are as a drop of a bucket: oh, the prophet Isaiah saying the same thing the prophet Ezra said. The nations are as a drop in a bucket.
 
 - And are counted as the small dust of the balance: you see that? The nations are like small dust on a scale. You're not going to clean the dust off the scale before you weigh something because it's nothing.
+
+> <sup>[16](/bible/isaiah/40#v16)</sup> And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
 
 - Nor the beasts thereof sufficient for a burnt offering: the Lord said you can't even burn all the trees in Lebanon and sacrifice all the beasts for these other nations. Lord is never going to accept the other nations according to the Bible.
 
 
 **[Esther (Greek) 14:10-11](/bible/esther-greek/14#v10)**  *[[12:34](https://www.youtube.com/watch?v=1ZMdcI2xVl8&t=754s)]*
 
-> <sup>[10](/bible/esther-greek/14#v10)</sup> And open the mouths of the heathen to set forth the praises of the idols, and to magnify a fleshly king for ever.
->
-> <sup>[11](/bible/esther-greek/14#v11)</sup> O Lord, give not thy sceptre unto them that be nothing, and let them not laugh at our fall; but turn their device upon themselves, and make him an example, that hath begun this against us.
-
 - Esther the foremother had a prayer before she went in. When you read the history, she was going into the king to ask, because a bounty was put on the Israelites' head. So she was using her queenship, is queenship a word, in order to save her people.
+
+> <sup>[10](/bible/esther-greek/14#v10)</sup> And open the mouths of the heathen to set forth the praises of the idols, and to magnify a fleshly king for ever.
 
 - And open the mouths of the heathen to set forth the praises of the idols: so we going into her prayer here.
 
 - And to magnify a fleshly king for ever: so Esther is saying, look, these heathen, the other nations that are nothing, are praising idols. They praise idols. We don't praise idols. We praise the God of Israel.
+
+> <sup>[11](/bible/esther-greek/14#v11)</sup> O Lord, give not thy sceptre unto them that be nothing, and let them not laugh at our fall; but turn their device upon themselves, and make him an example, that hath begun this against us.
 
 - O Lord, give not thy sceptre unto them that be nothing: ah, you hear what Esther say? Don't give your scepter to them that be nothing. Who is them that be nothing? The other nations. The foremother Esther said the same thing that the prophet Ezra said, and the prophet Isaiah. The other nations are nothing. Matter of fact, the other nations are called dogs as well.
 
@@ -222,10 +222,10 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "obedience", "salvation", "the-
 > <sup>[24](/bible/mark/7#v24)</sup> And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.
 >
 > <sup>[25](/bible/mark/7#v25)</sup> For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
->
-> <sup>[26](/bible/mark/7#v26)</sup> The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
 
 - For a certain woman, whose young daughter had an unclean spirit, heard of him: so this woman heard that Christ was in town and her daughter had an unclean spirit. So she sought after Christ.
+
+> <sup>[26](/bible/mark/7#v26)</sup> The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
 
 - The woman was a Greek: the woman was a Greek. She was an Edomite.
 
@@ -239,12 +239,12 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "obedience", "salvation", "the-
 > <sup>[23](/bible/matthew/15#v23)</sup> But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
 >
 > <sup>[24](/bible/matthew/15#v24)</sup> But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
->
+
+- I am not sent but unto the lost sheep of the house of Israel: ah, you see that? Christ said, "I'm only sent to the lost sheep of the house of Israel. I'm not sent to no other nations. I'm not sent to any other nation." Guess what? Because the other nations never got the covenant. They never got no covenant. Why would Christ go to them? They never had the covenant. The scripture say don't add to the word.
+
 > <sup>[25](/bible/matthew/15#v25)</sup> Then came she and worshipped him, saying, Lord, help me.
 >
 > <sup>[26](/bible/matthew/15#v26)</sup> But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs.
-
-- I am not sent but unto the lost sheep of the house of Israel: ah, you see that? Christ said, "I'm only sent to the lost sheep of the house of Israel. I'm not sent to no other nations. I'm not sent to any other nation." Guess what? Because the other nations never got the covenant. They never got no covenant. Why would Christ go to them? They never had the covenant. The scripture say don't add to the word.
 
 - It is not meet to take the children's bread: you see that? He said it ain't meet to take the children's bread.
 
@@ -291,16 +291,16 @@ tags: ["15 Minutes w/ The Captains", "idolatry", "obedience", "salvation", "the-
 **[Leviticus 25:44-46](/bible/leviticus/25#v44)**  *[[20:10](https://www.youtube.com/watch?v=1ZMdcI2xVl8&t=1210s)]*
 
 > <sup>[44](/bible/leviticus/25#v44)</sup> Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.
->
-> <sup>[45](/bible/leviticus/25#v45)</sup> Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shall be your possession.
->
-> <sup>[46](/bible/leviticus/25#v46)</sup> And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
 
 - Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen: oh, you see that? The bondman and the bondmaids shall be of the heathen.
 
 - Of them shall ye buy bondmen and bondmaids: of them shall ye buy. The Israelites were to buy the heathen. But because we didn't keep the commandments of God, the tithes turned on us. But it's going to go right back. The end of the whole matter is that the Israelites are going to get the kingdom.
 
+> <sup>[45](/bible/leviticus/25#v45)</sup> Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shall be your possession.
+
 - And they shall be your possession: you see that? They shall be our possessions. That's what the scriptures say.
+
+> <sup>[46](/bible/leviticus/25#v46)</sup> And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
 
 - They shall be your bondmen for ever: ah, you see that? The other nations supposed to been the Israelites' bondmen forever. That's what the Lord made them for. But when we didn't keep the commandments of God, it was turned on us. But that's all right. According to the prophecies, the Israelites are going to inherit the kingdom, and the other nations going to be their slaves, when you read in Isaiah chapter 14. But the total end is the other nations are going to be totally wiped out.
 

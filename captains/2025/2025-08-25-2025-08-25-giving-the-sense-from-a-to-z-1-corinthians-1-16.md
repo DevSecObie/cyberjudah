@@ -83,14 +83,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[1 Corinthians 1:10-11](/bible/1-corinthians/1#v10)**  *[[10:17](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=617s)]*
 
 > <sup>[10](/bible/1-corinthians/1#v10)</sup> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
->
-> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
 
 - That ye all speak the same thing: That ye all do what? Speak the same thing. Watch this.
 
 - And that there be no divisions among you: Mhm. That there should be no divisions amongst you at the church at Corinth. Come on.
 
 - But that ye be perfectly joined together in the same mind: In the same mind.
+
+> <sup>[11](/bible/1-corinthians/1#v11)</sup> For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
 
 - That there are contentions among you: But on the contrary, all right, the house of Chloe. All right, they wrote to Paul and let him know. It's like, hey, it's not going the way it should. Meaning Paul, the way you left it, they've changed that. All right. And this is what it's become. So the house of Chloe was one of those faithful houses. All right? One of those faithful houses that started with the Apostle Paul. All right? And as time went on, things started to unravel. All right? And the leaders that were there were very carnal. And guess what? That was infectious amongst the rest of the congregation at Corinth. All right? Read the verse again.
 
@@ -106,14 +106,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[Acts 18:1-3](/bible/acts/18#v1)**  *[[12:30](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=750s)]*
 
 > <sup>[1](/bible/acts/18#v1)</sup> After these things Paul departed from Athens, and came to Corinth;
->
-> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
->
-> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
 
 - And came to Corinth: And came where? To Corinth.
 
+> <sup>[2](/bible/acts/18#v2)</sup> And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
+
 - Because that Claudius had commanded all Jews to depart from Rome: Right? Commanded that all Jews depart from Rome. And brothers and sisters, understand we're going to be facing the same things. And we already started facing that here on this side of the earth. Remember having Roman citizenship or Roman status at that time was a big thing. Rome ran the earth just like who runs the earth today? The United States of America. And what did they begin to do? They began to expel the Jews. Why? Remember Paul himself? Was he not of Roman citizenship, of Roman status? So he could do what? He could travel freely and teach the gospel. But what would happen, all right, when the apostles would travel to this country or to that land, it ended up being what? An uproar of the people. They started a lot of different, quote unquote, they would call that a riot today. Not because he went out there trying to instigate or fight or anything like that. No, because his own people loved Rome more than their savior Jesus the Christ. All right. That's what was going on. All right, that's another class. We probably get on that in the radio show this week, Lord willing. But let's read on.
+
+> <sup>[3](/bible/acts/18#v3)</sup> And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
 
 - For by their occupation they were tentmakers: All right. They were tent makers. They were tent makers. Do me a favor. We'll jump down to verse seven. Watch this.
 
@@ -169,14 +169,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[Acts 18:8-11](/bible/acts/18#v8)**  *[[20:14](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=1214s)]*
 
 > <sup>[8](/bible/acts/18#v8)</sup> And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
->
+
+- And many of the Corinthians hearing believed, and were baptized: Let's read down because now we're going to connect the contention between them and the relationship with Chloe. Watch this.
+
 > <sup>[9](/bible/acts/18#v9)</sup> Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:
 >
 > <sup>[10](/bible/acts/18#v10)</sup> For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
 >
 > <sup>[11](/bible/acts/18#v11)</sup> And he continued there a year and six months, teaching the word of God among them.
-
-- And many of the Corinthians hearing believed, and were baptized: Let's read down because now we're going to connect the contention between them and the relationship with Chloe. Watch this.
 
 - And he continued there a year and six months: So Paul continued in Corinth, how long? A year and six months. So, not only did the house of Christmas and other Corinthians here, remember if he's there for a year and six months, that means what? He hitting the streets often. Okay, there's other people that's coming into the faith. And earlier on, that would be people like who? The house of Chloe. All right. And just sidebar real quick. We coming right back. Understand when we read these scriptures, a lot of times you just read it like words on a piece of paper. You got to be able to paint the picture. All right. That's what Bishop Kani always taught us or teaches us, to paint the picture. Go back to, was in Acts 18. Jump over Acts 18 and give me verse five. I want to show you something as well. Watch this.
 
@@ -191,10 +191,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[Acts 16:1-2](/bible/acts/16#v1)**  *[[22:34](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=1354s)]*
 
 > <sup>[1](/bible/acts/16#v1)</sup> Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek:
->
-> <sup>[2](/bible/acts/16#v2)</sup> Which was well reported of by the brethren that were at Lystra and Iconium.
 
 - Then came he to Derbe and Lystra: So, this is not Corinth, but this is Lystra. Okay. And he says, When he came unto Lystra, that's when he met Timothy. Watch this.
+
+> <sup>[2](/bible/acts/16#v2)</sup> Which was well reported of by the brethren that were at Lystra and Iconium.
 
 - Which was well reported of by the brethren that were at Lystra and Iconium: Right? So Paul met a young Timotheus or Timothy. Okay? He was well reported of. All right? He was a son of a Jewish that she believed, but his father was also obviously an Israelite, but he was helanized, right? Go to the book of second Timothy, the first chapter. Let me show you something real quick. Second Timothy, chapter 1 and give me verse two. Watch this.
 
@@ -233,24 +233,24 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[1 Corinthians 3:3-6](/bible/1-corinthians/3#v3)**  *[[26:43](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=1603s)]*
 
 > <sup>[3](/bible/1-corinthians/3#v3)</sup> For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
->
-> <sup>[4](/bible/1-corinthians/3#v4)</sup> For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
->
-> <sup>[5](/bible/1-corinthians/3#v5)</sup> Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
->
-> <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
 
 - Are ye not carnal, and walk as men: Right, so Paul the apostle's letting it be known that the church at Corinth are carnal. Why? Because there's arguing amongst you, divisions. You understand? Read verse four.
+
+> <sup>[4](/bible/1-corinthians/3#v4)</sup> For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
 
 - For while one saith, I am of Paul: So you have some that side and say, you know what, Paul, he's the teacher I want to follow. Read.
 
 - And another, I am of Apollos: Right? And some of you say that you're of Apollos. Remember, Apollos came after the Apostle Paul. So in Acts 18, you had the establishment of the church of Corinth by Paul the Apostle. He stayed there a year and a half before he moved on in his journey. Then afterwards in Acts 19, here comes who? Apollos. Who did what? Who watered what Paul already planted and then others came as well. Okay, read verse four again.
+
+> <sup>[5](/bible/1-corinthians/3#v5)</sup> Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
 
 - Who then is Paul: So Paul asked the question, said, who am I? Who am I? Let's accept a, what is it called? What's the word I'm looking for? Unprofitable. Thank you very much. He says, Who am I? I'm only an unprofitable servant. Read some more.
 
 - But ministers by whom ye believed: Right. But ministers by whom you believe. Meaning the Lord used Paul and Apollos to do what? To teach the message that came from the most high through his son Jesus Christ. You understand? They're ministers that helped you come into the faith, but they themselves, no, they're not Christ. They're not the savior. Read some more.
 
 - Even as the Lord gave to every man: Watch this.
+
+> <sup>[6](/bible/1-corinthians/3#v6)</sup> I have planted, Apollos watered; but God gave the increase.
 
 - I have planted: So Paul, he planted where? In Acts the 18th chapter. Read.
 
@@ -298,10 +298,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[1 Corinthians 1:13-14](/bible/1-corinthians/1#v13)**  *[[31:44](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=1904s)]*
 
 > <sup>[13](/bible/1-corinthians/1#v13)</sup> Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
->
-> <sup>[14](/bible/1-corinthians/1#v14)</sup> I thank God that I baptized none of you, but Crispus and Gaius;
 
 - Or were ye baptized in the name of Paul: Or were you baptized in the name of Paul? Read.
+
+> <sup>[14](/bible/1-corinthians/1#v14)</sup> I thank God that I baptized none of you, but Crispus and Gaius;
 
 - But Crispus and Gaius: But Chrisus who? But Chrisus. Read. And gas. So Christmas, remember, didn't we just read about Christmas? All right, let's go back to Acts 18 and 8.
 
@@ -335,10 +335,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 > <sup>[14](/bible/1-corinthians/1#v14)</sup> I thank God that I baptized none of you, but Crispus and Gaius;
 >
 > <sup>[15](/bible/1-corinthians/1#v15)</sup> Lest any should say that I had baptized in mine own name.
->
-> <sup>[16](/bible/1-corinthians/1#v16)</sup> And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.
 
 - Lest any should say that I had baptized in mine own name: Right? Cuz the way y'all acting, y'all are some carnal black people. That's what Paul saying is. I'm scared of y'all. I was like, next thing y'all going to know, y'all going to say is I'm baptizing people in my own name. Meaning what? They're carnal and they forgot that it's all of one spirit and that spirit is Christ. Read.
+
+> <sup>[16](/bible/1-corinthians/1#v16)</sup> And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.
 
 - And I baptized also the household of Stephanas: And he baptized also who? The household of Stephanus. Right. And this is where we really starting off today. But we had to do a recap and give you that so you understand what's going on. And he read that again for me.
 
@@ -357,10 +357,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[1 Corinthians 1:16-17](/bible/1-corinthians/1#v16)**  *[[36:35](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=2195s)]*
 
 > <sup>[16](/bible/1-corinthians/1#v16)</sup> And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.
->
-> <sup>[17](/bible/1-corinthians/1#v17)</sup> For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.
 
 - Besides, I know not whether I baptized any other: All right. He says, Besides this, I'm not sure. I don't know how many others I baptize. Let's read some more.
+
+> <sup>[17](/bible/1-corinthians/1#v17)</sup> For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.
 
 - But to preach the gospel: But to do what? Preach the gospel. But to preach the gospel. Read some more.
 
@@ -427,10 +427,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[Colossians 2:4-5](/bible/colossians/2#v4)**  *[[41:48](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=2508s)]*
 
 > <sup>[4](/bible/colossians/2#v4)</sup> And this I say, lest any man should beguile you with enticing words.
->
-> <sup>[5](/bible/colossians/2#v5)</sup> For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 
 - Lest any man should beguile you with enticing words: With enticing words. With enticing words. These ex-Pharisees creeping in. All right. Spy out our liberty. All right. Jump to verse five because this is reminiscent of what Chloe did, the house of Chloe. Watch this in verse five.
+
+> <sup>[5](/bible/colossians/2#v5)</sup> For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 
 - For though I be absent in the flesh: Right? So Paul after he left obviously the church at Corinth. He was there for a year and a half and then he left. Then he got a letter from the house of Chloe letting Paul know about the divisions that were going on in the church at Corinth. Now Paul says right here, it says for though he be absent in the flesh. Read some more.
 
@@ -451,20 +451,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[2 Corinthians 11:22-28](/bible/2-corinthians/11#v22)**  *[[45:27](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=2727s)]*
 
 > <sup>[22](/bible/2-corinthians/11#v22)</sup> Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
->
-> <sup>[23](/bible/2-corinthians/11#v23)</sup> Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.
->
-> <sup>[24](/bible/2-corinthians/11#v24)</sup> Of the Jews five times received I forty stripes save one.
->
-> <sup>[25](/bible/2-corinthians/11#v25)</sup> Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;
->
-> <sup>[26](/bible/2-corinthians/11#v26)</sup> In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;
->
-> <sup>[27](/bible/2-corinthians/11#v27)</sup> In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
->
-> <sup>[28](/bible/2-corinthians/11#v28)</sup> Beside those things that are without, that which cometh upon me daily, the care of all the churches.
 
 - Are they Hebrews? so am I: All right. So these are the leaders that were now set up in the church. All right. Paul is saying is like, Hey, are they Hebrews? Paul is too. All right. Are they Israelites? So is he. Verse 23. Watch this.
+
+> <sup>[23](/bible/2-corinthians/11#v23)</sup> Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.
 
 - Are they ministers of Christ? (I speak as a fool) I am more: So he's more. Meaning what? Anything they say, all right, to try to challenge Paul or trying to examine Paul, he's that and some above them. All right. Paul is the one who established the church at Corinth. But yet you had young novices that came after Paul trying to examine his apostleship. All right. Read verse 23 again.
 
@@ -472,7 +462,17 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 
 - In deaths oft: Paul's been through all of the persecution. He's been through all of that. Read some more.
 
+> <sup>[24](/bible/2-corinthians/11#v24)</sup> Of the Jews five times received I forty stripes save one.
+
 - Of the Jews five times received I forty stripes save one: Five times. So five times 39 is what? Who got it? Five times 39. What that is? 195 stripes. All right. Paul received. But yet they want to examine him and they want to challenge his apostleship. Read some more.
+
+> <sup>[25](/bible/2-corinthians/11#v25)</sup> Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;
+>
+> <sup>[26](/bible/2-corinthians/11#v26)</sup> In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;
+>
+> <sup>[27](/bible/2-corinthians/11#v27)</sup> In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
+>
+> <sup>[28](/bible/2-corinthians/11#v28)</sup> Beside those things that are without, that which cometh upon me daily, the care of all the churches.
 
 - The care of all the churches: So in addition to Paul suffering and going through all of those different trials and tribulations, he had to make sure that all of the churches had what they need. You understand? He made sure even in all of his affliction, in all of his trials, that all of the churches were good. All right. So now go back to 2 Timothy 3:14.
 
@@ -538,10 +538,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[Acts 20:28-29](/bible/acts/20#v28)**  *[[51:50](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=3110s)]*
 
 > <sup>[28](/bible/acts/20#v28)</sup> Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
->
-> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 
 - To feed the church of God: Right? Because that's what Christ said. Our job as leaders, all right, as stewards, all right, is to feed God's sheep. Feed his sheep. That's our job. All right, read some more.
+
+> <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 
 - For I know this, that after my departing: So Paul says he knew. All right, he already knew. Remember, he was there for a year and a half. Paul said he knew after his departing. Read.
 
@@ -560,10 +560,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "deceit", "faith", "false-religio
 **[Acts 20:29-30](/bible/acts/20#v29)**  *[[54:11](https://www.youtube.com/watch?v=QoQKAY3Ahk0&t=3251s)]*
 
 > <sup>[29](/bible/acts/20#v29)</sup> For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
->
-> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
 - Not sparing the flock: Not sparing the flock. Read.
+
+> <sup>[30](/bible/acts/20#v30)</sup> Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
 - To draw away disciples after them: Right? After them. After them. So, those are those great speeches and enticing words.
 

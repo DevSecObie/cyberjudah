@@ -33,30 +33,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "mercy", "purpose", "
 **[Galatians 3:1-13](/bible/galatians/3#v1)**  *[[8:50](https://www.youtube.com/watch?v=3xuIqTWwXmA&t=530s)]*
 
 > <sup>[1](/bible/galatians/3#v1)</sup> O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
->
-> <sup>[2](/bible/galatians/3#v2)</sup> This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?
->
-> <sup>[3](/bible/galatians/3#v3)</sup> Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?
->
-> <sup>[4](/bible/galatians/3#v4)</sup> Have ye suffered so many things in vain? if it be yet in vain.
->
-> <sup>[5](/bible/galatians/3#v5)</sup> He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?
->
-> <sup>[6](/bible/galatians/3#v6)</sup> Even as Abraham believed God, and it was accounted to him for righteousness.
->
-> <sup>[7](/bible/galatians/3#v7)</sup> Know ye therefore that they which are of faith, the same are the children of Abraham.
->
-> <sup>[8](/bible/galatians/3#v8)</sup> And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.
->
-> <sup>[9](/bible/galatians/3#v9)</sup> So then they which be of faith are blessed with faithful Abraham.
->
-> <sup>[10](/bible/galatians/3#v10)</sup> For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.
->
-> <sup>[11](/bible/galatians/3#v11)</sup> But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.
->
-> <sup>[12](/bible/galatians/3#v12)</sup> And the law is not of faith: but, The man that doeth them shall live in them.
->
-> <sup>[13](/bible/galatians/3#v13)</sup> Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:
 
 - Who hath bewitched you: the Pharisees of Acts 15, false brethren brought in unawares, were spreading the doctrine that animal sacrifice mattered more than Christ's. Did you receive the Spirit by the works of the law or by the hearing of faith; having begun in the Spirit are ye made perfect by the flesh, the flesh of the animals.
 
@@ -108,6 +84,30 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "mercy", "purpose", "
 
     Caiaphas: it is expedient that one man die for the people, that the whole nation perish not. Both kingdoms were condemned under the covenant they kept violating, and that is the curse of the law Christ died to take us out of.
 
+> <sup>[2](/bible/galatians/3#v2)</sup> This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?
+>
+> <sup>[3](/bible/galatians/3#v3)</sup> Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?
+>
+> <sup>[4](/bible/galatians/3#v4)</sup> Have ye suffered so many things in vain? if it be yet in vain.
+>
+> <sup>[5](/bible/galatians/3#v5)</sup> He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?
+>
+> <sup>[6](/bible/galatians/3#v6)</sup> Even as Abraham believed God, and it was accounted to him for righteousness.
+>
+> <sup>[7](/bible/galatians/3#v7)</sup> Know ye therefore that they which are of faith, the same are the children of Abraham.
+>
+> <sup>[8](/bible/galatians/3#v8)</sup> And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.
+>
+> <sup>[9](/bible/galatians/3#v9)</sup> So then they which be of faith are blessed with faithful Abraham.
+>
+> <sup>[10](/bible/galatians/3#v10)</sup> For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.
+>
+> <sup>[11](/bible/galatians/3#v11)</sup> But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.
+>
+> <sup>[12](/bible/galatians/3#v12)</sup> And the law is not of faith: but, The man that doeth them shall live in them.
+>
+> <sup>[13](/bible/galatians/3#v13)</sup> Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:
+
 
 **[Hebrews 9:9-22](/bible/hebrews/9#v9)**  *[[17:29](https://www.youtube.com/watch?v=3xuIqTWwXmA&t=1049s)]*
 
@@ -154,6 +154,8 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "mercy", "purpose", "
 
 **[Hebrews 10:1-18](/bible/hebrews/10#v1)**  *[[34:19](https://www.youtube.com/watch?v=3xuIqTWwXmA&t=2059s)]*
 
+- The context has not changed from chapter 9: the law with a shadow of good things to come is the law of sacrifice, offered year by year, which can never make the comers thereunto perfect, or they would have ceased to be offered. The animal dying for you was meant to make you stop sinning, but we are sinful by nature.
+
 > <sup>[1](/bible/hebrews/10#v1)</sup> For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
 >
 > <sup>[2](/bible/hebrews/10#v2)</sup> For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
@@ -163,7 +165,13 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "mercy", "purpose", "
 > <sup>[4](/bible/hebrews/10#v4)</sup> For it is not possible that the blood of bulls and of goats should take away sins.
 >
 > <sup>[5](/bible/hebrews/10#v5)</sup> Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
->
+
+- Sacrifice and offering thou wouldest not, but a body hast thou prepared me: Christ speaking through David in Psalm 40 of what he would do on the earth, which are offered by the law, the same works of the law Paul means in Galatians. He taketh away the first that he may establish the second, and we are sanctified through the offering of the body of Jesus Christ once for all.
+
+- This man, after one sacrifice for sins for ever, sat down on the right hand of God expecting till his enemies be made his footstool: the king of kings has a throne and is not standing on punishment.
+
+- The covenant after those days, my laws in their hearts, is the kingdom with the new bodies that keep them perfectly; and where remission of these is there is no more offering for sin, so once Christ died there was no need of animals though the temple still stood.
+
 > <sup>[6](/bible/hebrews/10#v6)</sup> In burnt offerings and sacrifices for sin thou hast had no pleasure.
 >
 > <sup>[7](/bible/hebrews/10#v7)</sup> Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
@@ -189,14 +197,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "love", "mercy", "purpose", "
 > <sup>[17](/bible/hebrews/10#v17)</sup> And their sins and iniquities will I remember no more.
 >
 > <sup>[18](/bible/hebrews/10#v18)</sup> Now where remission of these is, there is no more offering for sin.
-
-- The context has not changed from chapter 9: the law with a shadow of good things to come is the law of sacrifice, offered year by year, which can never make the comers thereunto perfect, or they would have ceased to be offered. The animal dying for you was meant to make you stop sinning, but we are sinful by nature.
-
-- Sacrifice and offering thou wouldest not, but a body hast thou prepared me: Christ speaking through David in Psalm 40 of what he would do on the earth, which are offered by the law, the same works of the law Paul means in Galatians. He taketh away the first that he may establish the second, and we are sanctified through the offering of the body of Jesus Christ once for all.
-
-- This man, after one sacrifice for sins for ever, sat down on the right hand of God expecting till his enemies be made his footstool: the king of kings has a throne and is not standing on punishment.
-
-- The covenant after those days, my laws in their hearts, is the kingdom with the new bodies that keep them perfectly; and where remission of these is there is no more offering for sin, so once Christ died there was no need of animals though the temple still stood.
 
 
 **[Sirach 15:15](/bible/sirach/15#v15)**  *[[47:29](https://www.youtube.com/watch?v=3xuIqTWwXmA&t=2849s)]*

@@ -341,17 +341,20 @@ Reading from on-screen text on didactic learning  *[[1:09:56](https://www.youtub
 
 **[2 Corinthians 5:1-4](/bible/2-corinthians/5#v1)**  *[[1:31:36](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=5496s)]*
 
+- The flesh is a veil; now we hear it is also an earthly house, a tabernacle, a place where your soul resides in this realm, this present world. We have a building of God, an house not made with hands, eternal in the heavens.
+
+- In this we groan, earnestly desiring to be clothed upon with our house which is from heaven. We have a real tabernacle waiting for our spirit where we do not have to fight it: no aches, no ailments, everything that comes with this body gone. All the things we groan over in the body, and the way it draws us and fights our spirit. It is like living with a spouse where you hate each other; that is what it is like to be in this body as your spirit grows in understanding, because before you understood this, you were quite comfortable in that relationship with your body. That is why it says mortify your members.
+
 > <sup>[1](/bible/2-corinthians/5#v1)</sup> For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
 >
 > <sup>[2](/bible/2-corinthians/5#v2)</sup> For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
 >
 > <sup>[3](/bible/2-corinthians/5#v3)</sup> If so be that being clothed we shall not be found naked.
->
+
+- If so be that being clothed we shall not be found naked: right now we are without defense, which is why it says put on the whole armour of God.
+
 > <sup>[4](/bible/2-corinthians/5#v4)</sup> For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
 
-- The flesh is a veil; now we hear it is also an earthly house, a tabernacle, a place where your soul resides in this realm, this present world. We have a building of God, an house not made with hands, eternal in the heavens.
-- In this we groan, earnestly desiring to be clothed upon with our house which is from heaven. We have a real tabernacle waiting for our spirit where we do not have to fight it: no aches, no ailments, everything that comes with this body gone. All the things we groan over in the body, and the way it draws us and fights our spirit. It is like living with a spouse where you hate each other; that is what it is like to be in this body as your spirit grows in understanding, because before you understood this, you were quite comfortable in that relationship with your body. That is why it says mortify your members.
-- If so be that being clothed we shall not be found naked: right now we are without defense, which is why it says put on the whole armour of God.
 - Not for that we would be unclothed: it is not that we want to be without a tabernacle. It is just this one we do not want. But clothed upon, that mortality might be swallowed up of life.
 
 **[Romans 8:23](/bible/romans/8#v23)**  *[[1:34:49](https://www.youtube.com/watch?v=EtPB8pdK2XE&t=5689s)]*

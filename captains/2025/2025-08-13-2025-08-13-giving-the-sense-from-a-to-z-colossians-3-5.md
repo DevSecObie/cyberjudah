@@ -82,36 +82,36 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 **[Matthew 18:21-22](/bible/matthew/18#v21)**  *[[11:01](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=661s)]*
 
 > <sup>[21](/bible/matthew/18#v21)</sup> Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?
->
-> <sup>[22](/bible/matthew/18#v22)</sup> Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.
 
 - Lord, how oft shall my brother sin against me, and I forgive him? till seven times: So Peter said, well, how often do I have to forgive my brother? Like till seven times because seven is a number of completion. So he trespassed against me seven times in my life and I forgive him those seven times. Then after that, I say, you know what, I don't got to forgive him no more because I reached the number of completion. Can I finally lay hands on him? No, you cannot do that.
+
+> <sup>[22](/bible/matthew/18#v22)</sup> Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.
 
 - Until seventy times seven: So now the Lord is saying no I tell you not unto thee seven times but 70 times seven which when you do the calculation come up to 490. That's just a number. That's a random number. Okay. I have forgave your behind 490 times. Now it's 491st time. I'm laying hands on you. I done been patient. I done reached my level. No. Nope. That ain't in the scriptures.
 
 
 **[Luke 17:3-4](/bible/luke/17#v3)**  *[[11:55](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=715s)]*
 
-> <sup>[3](/bible/luke/17#v3)</sup> Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
->
-> <sup>[4](/bible/luke/17#v4)</sup> And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.
-
 - See, this why this always take a long time for me to do giving the senses because I get going.
 
+> <sup>[3](/bible/luke/17#v3)</sup> Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
+
 - If thy brother trespass against thee, rebuke him; and if he repent, forgive him: So you correct him. And if he repent, forgive him.
+
+> <sup>[4](/bible/luke/17#v4)</sup> And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.
 
 - If he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him: I give an example. Brother going through it. He got issues or whatever. I don't know. He going through a lot at that moment. And he lash out at you throughout the day. Y'all together one day doing something and throughout the day y'all working together and then he just keep having these episodes where he end up lashing out at you. Where the Bible says you got to forgive that brother 70 time seven times he turn to you say man I've been out of spirit all day man I apologize, it's my third or fourth time, I'm sorry man I really do ask for forgiveness, I'm genuine and sincerely asking for forgiveness, then 3 4 hours later he get pissed off, he get a call and he lash out at you again and then he turn and say please forgive me brother. The Bible says if he's sincere and he repent you rebuke him, you correct him, you show him the scriptures and forgive him and move on. That's what you got to learn to do. Black people have a problem with that. And Satan knows it. Satan knows it. So, Satan will use things that come up to cause you to look at your brother with an evil eye.
 
 
 **[2 Corinthians 2:10-11](/bible/2-corinthians/2#v10)**  *[[14:07](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=847s)]*
 
-> <sup>[10](/bible/2-corinthians/2#v10)</sup> To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;
->
-> <sup>[11](/bible/2-corinthians/2#v11)</sup> Lest Satan should get an advantage of us: for we are not ignorant of his devices.
-
 - So, forgive. And guess what? Day of Atonement coming up in a few weeks. You better get yourself together. Some of you hold grudges. I done talked to people that bring up stuff from five, six years ago. I'm like, "Wait a minute. Do you really believe the Bible?" No. No. Seriously. Are you really still holding on to that? And you had what, five day of atonements? You fasted for nothing. You fasted on the day of atonement for nothing. If you're going to continuously hold a grudge against your neighbor, you're wasting your time. You might as well eat. You might as well eat. You just starved yourself for nothing. You just went on a 24-hour fast for nothing.
 
+> <sup>[10](/bible/2-corinthians/2#v10)</sup> To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;
+
 - To whom ye forgive any thing, I forgive also: So the apostle Paul is saying to whom you forgive, I forgive also. Remember he was writing to the church in Corinth. He wasn't in Corinth all the time. So he heard about the things that was going on. The brother got put out the body. This is a continuation from 1 Corinthians 5 when the brother was sleeping with his father's wife. Got thrown out of the school unto Satan. Now the brother want to repent. Brother coming back to the school said, "Okay, well if y'all forgive him, I forgive him in the person of Christ." Let's talk about forgiveness.
+
+> <sup>[11](/bible/2-corinthians/2#v11)</sup> Lest Satan should get an advantage of us: for we are not ignorant of his devices.
 
 - Lest Satan should get an advantage of us: for we are not ignorant of his devices: What is he telling you? Satan will get an advantage over you because you lack forgiveness. Satan will use the fact that you have a problem with forgiving others. Satan will use that. That's one of his devices. He'll use it. He used it with Saul. Saul could not get over his hatred for David. And that's what drove him wild. That's what drove him crazy to the point to where the spirit slowly started to leave him. You understand? That's what the scripture is telling you. You got to get over that spirit or Satan will use it constantly. You'll never be able to congregate cuz every time you come around others, when you see that person that may have wronged you in time past, you still ain't forgave, you won't come to the Sabbath. You avoid the Sabbath so you won't have to see them just because you are not man enough or woman enough to say, "Hey, look, I got a problem. I want to talk about it. I want to get over it." For real though.
 
@@ -121,12 +121,12 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 > <sup>[1](/bible/colossians/3#v1)</sup> If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
 >
 > <sup>[2](/bible/colossians/3#v2)</sup> Set your affection on things above, not on things on the earth.
->
+
+- Set your affection on things above, not on things on the earth: The things above is your heavenly body. The things above is walking like the Lord. The things above is the kingdom of God that's going to come out of the sky onto this earth.
+
 > <sup>[3](/bible/colossians/3#v3)</sup> For ye are dead, and your life is hid with Christ in God.
 >
 > <sup>[4](/bible/colossians/3#v4)</sup> When Christ, who is our life, shall appear, then shall ye also appear with him in glory.
-
-- Set your affection on things above, not on things on the earth: The things above is your heavenly body. The things above is walking like the Lord. The things above is the kingdom of God that's going to come out of the sky onto this earth.
 
 - When Christ, who is our life, shall appear, then shall ye also appear with him in glory: So when Christ appears, you will appear with him in glory. Meaning what? You overcame. You let go of those evil thoughts. You focus yourself on the kingdom. You say, "I'm trying to get the kingdom. I'm not going to allow anything on this earth, any lust or any desire on this earth to cause me to miss out on the kingdom of God." You put those things behind you. You become hid in Christ. Your life become hid in Christ. You walk after him.
 
@@ -134,8 +134,6 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 **[Colossians 3:5-6](/bible/colossians/3#v5)**  *[[17:42](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=1062s)]*
 
 > <sup>[5](/bible/colossians/3#v5)</sup> Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
->
-> <sup>[6](/bible/colossians/3#v6)</sup> For which things’ sake the wrath of God cometh on the children of disobedience:
 
 - Mortify therefore your members which are upon the earth; fornication: Fornication is one of those members that's upon the earth.
 
@@ -143,18 +141,14 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 
 - Inordinate affection, evil concupiscence, and covetousness, which is idolatry: To sum all that up, that's going into evil sexual lusts, lwdness. You understand? Like incest, that's lwdenness. Rape, that's lwdness. Having threesomes, that's lwdness. Cheating on your husband, that's lwdness. Cheating on your wife, lwdness. Beastiality. Basically, the things you read in the book of Leviticus, the 18th chapter, and throughout the rest of the Bible, those are lewd, lascivious, evil acts, the Bible says that's idolatry. And what happens because of that?
 
+> <sup>[6](/bible/colossians/3#v6)</sup> For which things’ sake the wrath of God cometh on the children of disobedience:
+
 - For which things' sake the wrath of God cometh on the children of disobedience: The Bible say you got to mortify that thing. You have to get rid of that spirit.
 
 
 **[Romans 8:5-8](/bible/romans/8#v5)**  *[[18:29](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=1109s)]*
 
 > <sup>[5](/bible/romans/8#v5)</sup> For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.
->
-> <sup>[6](/bible/romans/8#v6)</sup> For to be carnally minded is death; but to be spiritually minded is life and peace.
->
-> <sup>[7](/bible/romans/8#v7)</sup> Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
->
-> <sup>[8](/bible/romans/8#v8)</sup> So then they that are in the flesh cannot please God.
 
 - For they that are after the flesh do mind the things of the flesh: You to mortify your members, you have to change your mindset because lust is something that everybody battles. Okay? Evil thoughts is something that everybody battles. It's in every man. But here's the thing. You have to change your mind when those thoughts come about. You have to rebuke those thoughts. When these evil thoughts come into your mind of looking at another man's wife, you have to rebuke it. Looking at another woman's husband, you have to rebuke it. Watching pornography, you have to rebuke it. When that lust come on you and that burning desire to do it come upon you, you have to say God's word and what he says in these scriptures is more powerful than my needs and my desire right now. Cuz it's really not a need. It's more so of a desire.
 
@@ -162,13 +156,19 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 
 - But they that are after the Spirit the things of the Spirit: They that after spirit things of the spirit.
 
+> <sup>[6](/bible/romans/8#v6)</sup> For to be carnally minded is death; but to be spiritually minded is life and peace.
+
 - To be carnally minded is death; but to be spiritually minded is life and peace: Listen, when you're spiritually minded, you have peace. But to be carnally minded is death. I give you an example. I can speak personally. I feel good that I can leave my phone on the bed and go anywhere in the house. I could fall asleep. I can leave my phone at the house and be gone 3, four hours without that thought of, "Oh crap, I left my phone at the house. My girl might see it. My wife might see that message. Oh shoot, I didn't tell her I was home with my wife. She shouldn't text me." I feel good. It feel good because I went through that in my life at one time and that constant feeling of being on edge and constantly got to watch over your shoulder because you might get caught up because you was talking to somebody or you got a number. You supposed to go to the store and get some baby milk. You go to the store, you see something fine, you get a number, you got to worry about her texting you, like just that life. I was so tired of that. And I know many brothers and sisters can relate to what I'm saying. You get tired of living a double life, man. You feel me?
 
 - So to be carnally minded is life. I mean, it's death. But to be spiritually minded is life and peace. You finally got peace and you going to live forever if you keep the commandments until the end. But when you in the world and you living wickedly, you got to worry about, dang, I wonder if she got a man that might try to kill me. Dang, I wonder if my girl gonna catch me and she gonna take the baby from me, put me on child support, or she gonna divorce me. You get tired of that. I mean, at least I do. I know many other brothers and sisters that live that life. They like me. They like, "Man, I'm sick of that, man. It's stressful. Sick of it." For real, though.
 
+> <sup>[7](/bible/romans/8#v7)</sup> Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
+
 - Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be. So then they that are in the flesh cannot please God: Well, somebody tell a dumb, stupid urban apologetic what we just read because the carnal mind is immity against God. For it is not subject to the law of God, neither can be. So then they that are in the flesh cannot please God. To be in the flesh is not to be subject to the law of God. To be carnally minded, meaning you don't think about God's laws. And then a Christian apologist or pastor will tell you, you ain't under the law. You ain't got to keep the commandments. But the Apostle Paul telling you right here, if you're connally minded, you're going to die because you're not subject to the commandments.
 
 - That don't make sense. Either Paul, like I always say, either Paul was smoking some ancient weed or hookah and floating around in the sky like dog on the book of Clarence, or you don't understand what the hell he talking about. And I'm going with the latter. You don't know what he talking about. I mean, it's ridiculous. So, you got to keep the commandments, brothers and sisters.
+
+> <sup>[8](/bible/romans/8#v8)</sup> So then they that are in the flesh cannot please God.
 
 
 **[Romans 8:12-13](/bible/romans/8#v12)**  *[[24:10](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=1450s)]*
@@ -183,10 +183,10 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 **[Colossians 3:5-6](/bible/colossians/3#v5)**  *[[24:55](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=1495s)]*
 
 > <sup>[5](/bible/colossians/3#v5)</sup> Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
->
-> <sup>[6](/bible/colossians/3#v6)</sup> For which things’ sake the wrath of God cometh on the children of disobedience:
 
 - Fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry: Those are the things that you must mortify in the body so that you can live. If you want to live you got to mortify these things. You want life and peace you got to mortify these things. If you want death and to be carnally minded keep doing it.
+
+> <sup>[6](/bible/colossians/3#v6)</sup> For which things’ sake the wrath of God cometh on the children of disobedience:
 
 - For which things' sake the wrath of God cometh on the children of disobedience: And guess what? For doing that, the wrath of God is going to come upon the children of disobedience. The wrath of God going to come upon you for walking carnally minded because to walk carnally minded is death. You must mortify these members, these things that are upon the earth so that you can come out of it.
 
@@ -194,10 +194,10 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 **[Sirach 18:30-31](/bible/sirach/18#v30)**  *[[25:45](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=1545s)]*
 
 > <sup>[30](/bible/sirach/18#v30)</sup> Go not after thy lusts, but refrain thyself from thine appetites.
->
-> <sup>[31](/bible/sirach/18#v31)</sup> If thou givest thy soul the desires that please her, she will make thee a laughingstock to thine enemies that malign thee.
 
 - Go not after thy lusts, but refrain thyself from thine appetites: A lust is a appetite. It's something you desire. You feel like you need it. You understand? Cuz we need food. We need nutrients. You can't go forever. If you can't fast forever, you got to eat something. Your body needs that nutrient so it can continue. But you don't need your lust. It's something you desire. It's a appetite, right? Just like you don't need that extra ice cream. Just like you don't need that extra whatever that you eating to destroy your body. You understand? You don't need it. You want it. You desire it. So he says, "Go not after thy lust, but refrain thyself from thine appetites."
+
+> <sup>[31](/bible/sirach/18#v31)</sup> If thou givest thy soul the desires that please her, she will make thee a laughingstock to thine enemies that malign thee.
 
 - If thou givest thy soul the desires that please her, she will make thee a laughingstock to thine enemies that malign thee: If you give your soul the desires that please her, it just pleas your soul. It pleas your soul, but it don't please God. It pleas your soul, but it's not good for your spirit, but yet you go after it anyways. And that's why the Bible says, "If thou givest thy soul the desires that please her, she will make thee a laughingtock to thy enemies that malign thee." Meaning what? You going to continue in those things and you going to end up running back home to your mama. You going to fall out this truth and the people that was around you that was making fun of you being in the truth. Oh, you wearing them purple garments and you look like a Power Ranger and stuff like that. When you come home for Thanksgiving, they going to say, "See, I told you. I told you it was a phase. I told you she ain't really believe that Bible. Come on home. Come on. Smoke this blood. Here you go. Glad to have you back for Thanksgiving. Glad you left that cult." That's what they going to say.
 
@@ -237,17 +237,15 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 
 **[Sirach 23:2-4](/bible/sirach/23#v2)**  *[[33:19](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=1999s)]*
 
-> <sup>[2](/bible/sirach/23#v2)</sup> Who will set scourges over my thoughts, and the discipline of wisdom over mine heart? that they spare me not for mine ignorances, and it pass not by my sins:
->
-> <sup>[3](/bible/sirach/23#v3)</sup> Lest mine ignorances increase, and my sins abound to my destruction, and I fall before mine adversaries, and mine enemy rejoice over me, whose hope is far from thy mercy.
->
-> <sup>[4](/bible/sirach/23#v4)</sup> O Lord, Father and God of my life, give me not a proud look, but turn away from thy servants always a haughty mind.
-
 - So this is how you mortify your members. It start here. It start here cuz I'm going to get a little graphic. Your penis don't just fall out of its pants and fall into a woman's vagina. That don't happen. You thought about that. You set up the time where you was going to meet. And I'm dealing with that because that's what the chapter is talking about. Talking about those strong sexual desires. Nobody just wake up in the morning and just go kidnap a child and molest them. Nobody does that. They thought about that, how to set up. They watch that child. They watch them online. All that stuff.
 
 - They were speaking to a guy that's a pedophile and they asked him what does he look for? He said, "I look at the father." He said, "The father's unprotective. If the father's not paying attention, he's not focused. I know I can molest that child. I know I can befriend that child and eventually get in that circle. Eventually get to the point to where the child won't even tell the parents that I'm their friend. They'll keep everything between me and them." He said, "I look at the daddy and if the daddy weak, I'm going to take advantage of the child." You understand? So that's the evil of the mind, the wickedness of the mind.
 
+> <sup>[2](/bible/sirach/23#v2)</sup> Who will set scourges over my thoughts, and the discipline of wisdom over mine heart? that they spare me not for mine ignorances, and it pass not by my sins:
+
 - And the discipline of wisdom over mine heart: The discipline of wisdom over mine heart. Meaning when evil thoughts come your way, it's the discipline of wisdom that comes and meets you at that thought. Say, "Nope, Christ coming to combat evil." Satan show up. Christ come and combat Satan.
+
+> <sup>[3](/bible/sirach/23#v3)</sup> Lest mine ignorances increase, and my sins abound to my destruction, and I fall before mine adversaries, and mine enemy rejoice over me, whose hope is far from thy mercy.
 
 - Whose hope is far from thy mercy: That's what our enemies are hoping. I'll give you an example. Many of the leaders in IUIC, the bishops, deacons, captains, I'm talking men that put in mighty works for the Lord, for this truth. Satan trying to find ways to destroy us all. You officers that put in major bricks for the Lord that's out here teaching and you on fire. Satan said, "Oh, hell no. I know it's a woman in his job that he be looking at. I know she entertained certain conversations too long at her job about certain things that she should not be doing. I know for a fact that he got a drinking problem. And I can entice him to destroy himself." Satan know that. He know that you putting in work. He got to get you off the map. He got to take you off the chessboard cuz you too powerful in the spirit.
 
@@ -255,24 +253,26 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 
 - And I fall before my adversaries, and mine enemy rejoice over me: And I fall before my adversaries, meaning those that want to see you do evil, those that don't want to see you do well. And my enemy rejoice over me whose hope is far from thy mercy. They're hoping that you fall so that they can blame the ministry. When brothers go out here and do evil things, people blame the Israelites. They say, "See, that's a cult." Even though Christianity out here doing much evil and 90% of the people that's in prison or that have done evil things on this earth, 90% of them may be Christian, but they don't care about that because that goes with the world. That don't destroy the world. What you're doing destroys the world. So Satan looking to destroy you.
 
+> <sup>[4](/bible/sirach/23#v4)</sup> O Lord, Father and God of my life, give me not a proud look, but turn away from thy servants always a haughty mind.
+
 
 **[Sirach 23:17-21](/bible/sirach/23#v17)**  *[[37:04](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=2224s)]*
 
 > <sup>[17](/bible/sirach/23#v17)</sup> All bread is sweet to a whoremonger, he will not leave off till he die.
->
-> <sup>[18](/bible/sirach/23#v18)</sup> A man that breaketh wedlock, saying thus in his heart, Who seeth me? I am compassed about with darkness, the walls cover me, and no body seeth me; what need I to fear? the most High will not remember my sins:
->
-> <sup>[19](/bible/sirach/23#v19)</sup> Such a man only feareth the eyes of men, and knoweth not that the eyes of the Lord are ten thousand times brighter than the sun, beholding all the ways of men, and considering the most secret parts.
->
-> <sup>[20](/bible/sirach/23#v20)</sup> He knew all things ere ever they were created; so also after they were perfected he looked upon them all.
->
-> <sup>[21](/bible/sirach/23#v21)</sup> This man shall be punished in the streets of the city, and where he suspecteth not he shall be taken.
 
 - All bread is sweet to a whoremonger, he will not leave off till he die: He don't care if she big, stank, prostitute, stripper, only fans, fat, disrespectful, been with other men. He don't care. He just want that nut. He just want to fulfill his lust in that moment at that time. He don't care. He will not leave off till he die. He going to keep going over and over and over until somebody put him to death. Can't get enough. The only way he going to stop being a whoreonger is if the Lord take him off this earth.
 
+> <sup>[18](/bible/sirach/23#v18)</sup> A man that breaketh wedlock, saying thus in his heart, Who seeth me? I am compassed about with darkness, the walls cover me, and no body seeth me; what need I to fear? the most High will not remember my sins:
+
 - A man that breaketh wedlock, saying thus in his heart, Who seeth me?: So in his mind, he said, "The Lord won't remember my sins, nobody saw me do it."
 
+> <sup>[19](/bible/sirach/23#v19)</sup> Such a man only feareth the eyes of men, and knoweth not that the eyes of the Lord are ten thousand times brighter than the sun, beholding all the ways of men, and considering the most secret parts.
+
 - Considering the most secret parts: And considering the most secret parts, the Lord eyes are 10,000 times brighter than the sun. That's what influenced that song we made called angels watching. 10,000 times brighter than the sun. The eyes of the Lord are everywhere. And it's his angels. He don't have to sit back and monitor everything. His angels report to him constantly. A constant 24 hours a day or whatever type time or realm that God deals with all the time. He's constantly getting reports and filing it and he never forgets. He sees it all. But a man think, well, as long as Officer Judah didn't catch me, I'm good. Long as Captain Gedaliah or Bishop Yawasap didn't see it, I'm straight. Nah, there is a God and he watching constantly.
+
+> <sup>[20](/bible/sirach/23#v20)</sup> He knew all things ere ever they were created; so also after they were perfected he looked upon them all.
+>
+> <sup>[21](/bible/sirach/23#v21)</sup> This man shall be punished in the streets of the city, and where he suspecteth not he shall be taken.
 
 - And where he suspecteth not he shall be taken: And when you least expected, the judgment of God, a car accident, a drive by shooting, a sickness, cancer just come out of nowhere. You was healthy, but something happened. I've seen people that are healthy that live a healthy lifestyle, they get sick all of a sudden. And you know, how'd that happen? I remember CO was taking out bodybuilders, people that work out every single day, that's been working out every single day, made it a lifestyle, lived a very healthy life for 20 years. CO came took him out and you said how'd that happen cuz you taught to take care of your body and eat right and this person was a prime example of it. But yeah, that person was a whoreonger too, that person was an adulterer, that person destroyed many lives and the Lord said I'm getting rid of them. I'm going to kill him the least way he ever thought, through a sickness. So don't think this a game because it ain't no game.
 
@@ -280,24 +280,24 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 **[Colossians 3:5-10](/bible/colossians/3#v5)**  *[[40:22](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=2422s)]*
 
 > <sup>[5](/bible/colossians/3#v5)</sup> Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
->
-> <sup>[6](/bible/colossians/3#v6)</sup> For which things’ sake the wrath of God cometh on the children of disobedience:
->
-> <sup>[7](/bible/colossians/3#v7)</sup> In the which ye also walked some time, when ye lived in them.
->
-> <sup>[8](/bible/colossians/3#v8)</sup> But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
->
-> <sup>[9](/bible/colossians/3#v9)</sup> Lie not one to another, seeing that ye have put off the old man with his deeds;
->
-> <sup>[10](/bible/colossians/3#v10)</sup> And have put on the new man, which is renewed in knowledge after the image of him that created him:
 
 - Covetousness, which is idolatry: Right? Which is idolatry.
 
+> <sup>[6](/bible/colossians/3#v6)</sup> For which things’ sake the wrath of God cometh on the children of disobedience:
+
 - For which things' sake the wrath of God cometh on the children of disobedience: So God's wrath will come upon you for doing these things. Mortify these things.
+
+> <sup>[7](/bible/colossians/3#v7)</sup> In the which ye also walked some time, when ye lived in them.
 
 - In the which ye also walked some time, when ye lived in them: So he's telling you don't get high minded cuz you was doing number five too. You was doing Colossians 3 and five. The fornication unclean is inordinate affection evil concupisent covetousness which is idolatry. You was involved in that at one time in your life. At least one of those you yourself.
 
+> <sup>[8](/bible/colossians/3#v8)</sup> But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
+>
+> <sup>[9](/bible/colossians/3#v9)</sup> Lie not one to another, seeing that ye have put off the old man with his deeds;
+
 - Seeing that ye have put off the old man with his deeds: The old man with his deeds.
+
+> <sup>[10](/bible/colossians/3#v10)</sup> And have put on the new man, which is renewed in knowledge after the image of him that created him:
 
 - Put on the new man, which is renewed in knowledge after the image of him that created him: So, let's deal with this because in chapter two, Paul was dealing with those brothers that were trying to force the people to taste, to eat, and to handle, and to touch, meaning the sacrifices, the ordinances. They basically was telling people that they had to follow the traditions of men and that they had to follow all of the ordinances of animal sacrifice for salvation. Paul was here to tell them, "No, that's not the case. Christ came and died. Now you have an opportunity of repentance. Don't follow these Pharisees and these men that are adding traditions of men. Don't follow them. Follow the Lord." So he dealt with that in chapter two.
 
@@ -333,17 +333,17 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 
 **[Malachi 1:2-4](/bible/malachi/1#v2)**  *[[46:42](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=2802s)]*
 
+- You skip the best part. You skip the best part.
+
 > <sup>[2](/bible/malachi/1#v2)</sup> I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,
 >
 > <sup>[3](/bible/malachi/1#v3)</sup> And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
->
-> <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
-
-- You skip the best part. You skip the best part.
 
 - And I hated Esau: He hate Esau.
 
 - And laid his mountains and his heritage waste for the dragons of the wilderness: So when did that happen? Because Esau was rich in the book of Genesis. So when were his mountains and his heritage waste for the dragons of the wilderness? Was Esau, meaning the forefather Esau the progenitor, were he still alive when their mountains and inheritance waste for the dragons of the wilderness? No, he was not. He was dead by this time. When did the children of Esau have their mountains, inherited, laid waste for the dragons of the wilderness? That's talking about the Caucus Mountains which happened after 193 AD when a man named Septimius Severis, our forefather, chased the Romans, the …, chased them into the Caucus Mountains. That's when that happened. So them mountains and their heritage wasn't waste during the time that the actual man Esau was alive. He said, "I love Jacob and I hated Esau and laid his mountains in his heritage waste." That didn't happen during the time that Esau was born or alive. Esau was rich. Esau died rich and his children hated the Israelites forever. So the Lord said, "I hated Esau and laid his mountains and his ways for the dragons of the wilderness."
+
+> <sup>[4](/bible/malachi/1#v4)</sup> Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.
 
 - The people against whom the LORD hath indignation for ever: So the Lord said he got indignation against the … forever. How they going to repent if I got a indignation which is righteous anger and a hatred for you forever. How can I open repentance to you so now that you can come into my good graces? I've always hated you and I always will hate you said the Lord. So how in the world as I'm going to send my son to die for you and I hate you. Does that make any sense?
 
@@ -395,16 +395,16 @@ tags: ["15 Minutes w/ The Captains", "anger", "mercy", "repentance", "sexual-pur
 **[Isaiah 63:9-11](/bible/isaiah/63#v9)**  *[[55:06](https://www.youtube.com/watch?v=AWc6EhWaDOQ&t=3306s)]*
 
 > <sup>[9](/bible/isaiah/63#v9)</sup> In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.
->
-> <sup>[10](/bible/isaiah/63#v10)</sup> But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them.
->
-> <sup>[11](/bible/isaiah/63#v11)</sup> Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put his holy Spirit within him?
 
 - He bare them, and carried them all the days of old: That's the Israelites.
+
+> <sup>[10](/bible/isaiah/63#v10)</sup> But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them.
 
 - But they rebelled, and vexed his holy Spirit: Wait a minute. They rebelled against what? The commandments. This is Isaiah. Isaiah is talking about what our forefathers did in the wilderness. In the wilderness, they vexed the Holy Spirit. Just like Stephan said in the book of Acts chapter 7, they received the law by the disposition of angels and have not kept it. You stiff necked and uncircumcised in heart, you do always resist the Holy Ghost. As your fathers did, so do ye. What did the fathers resist?
 
 - Therefore he was turned to be their enemy, and he fought against them: You hear that? In the wilderness, the Holy Spirit was there, which was the commandments and they broke them. All nations on the earth didn't get the commandments in the wilderness. All nations didn't get the Holy Spirit in the wilderness. The Holy Spirit was given to the Israelites. And how do you know it? Because when they vexed the Holy Spirit, the Lord used the other nations to enslave us. So if they got the Holy Spirit and we got the Holy Spirit and we broke the commandments and they broke the commandments, then why they get sent against us? Why would be the punishment of vexing the Holy Spirit would be God turning to be your enemy and the other nations also had the Holy Spirit and didn't keep the commandments, because you can read the commandments only given to the Israelites, but yet they don't get punished but we did, if they had the Holy Spirit too. It's because they didn't have it. Come on, man.
+
+> <sup>[11](/bible/isaiah/63#v11)</sup> Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put his holy Spirit within him?
 
 - Where is he that put his holy Spirit within him?: Where is he that put his holy spirit within them? The Lord put the Holy Spirit in the Israelites. I'm just showing you that when it says Christ is all in all, Christ ain't never been in the nations. His holy spirit ain't never been in the nations. The Holy Spirit is for the Israelites.
 

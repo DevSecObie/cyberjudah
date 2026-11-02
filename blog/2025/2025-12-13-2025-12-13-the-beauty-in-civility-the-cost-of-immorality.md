@@ -188,27 +188,27 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 
 **[Isaiah 63:1-5](/bible/isaiah/63#v1)**  *[[1:45:44](https://www.youtube.com/watch?v=QczbDHIehUU&t=6344s)]*
 
-> <sup>[1](/bible/isaiah/63#v1)</sup> Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
->
-> <sup>[2](/bible/isaiah/63#v2)</sup> Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?
->
-> <sup>[3](/bible/isaiah/63#v3)</sup> I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
->
-> <sup>[4](/bible/isaiah/63#v4)</sup> For the day of vengeance is in mine heart, and the year of my redeemed is come.
->
-> <sup>[5](/bible/isaiah/63#v5)</sup> And I looked, and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me.
-
 - Isaiah is given a vision of what he sees when Christ comes back, and it is a question and a response: Isaiah asks who this is coming from Edom, and Christ answers it is I that speak in righteousness, mighty to save.
 
 - Bozrah was the capital of Edom, and the dyed garments are blood, so this is about the white folks; Isaiah 34 gives the same thing when the sword comes down upon Idumea.
 
 - The winepress is people's bodies, and he trod it alone: of the people there was none with him.
 
+> <sup>[1](/bible/isaiah/63#v1)</sup> Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
+>
+> <sup>[2](/bible/isaiah/63#v2)</sup> Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?
+>
+> <sup>[3](/bible/isaiah/63#v3)</sup> I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
+
 - I will tread them in mine anger and trample them in my fury: the day of vengeance is in his heart and the year of his redeemed is come.
 
 - Mine own arm brought salvation unto me, and my fury, it upheld me. That is the point about anger: it is the fury that carries a man through the work, the way anger pushed Samson's jawbone through those ribs.
 
 - That is how men talk. It is war talk, and the sissified men are scared to talk like it.
+
+> <sup>[4](/bible/isaiah/63#v4)</sup> For the day of vengeance is in mine heart, and the year of my redeemed is come.
+>
+> <sup>[5](/bible/isaiah/63#v5)</sup> And I looked, and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me.
 
 
 **[1 Maccabees 2:19-20](/bible/1-maccabees/2#v19)**  *[[1:55:35](https://www.youtube.com/watch?v=QczbDHIehUU&t=6935s)]*
@@ -240,16 +240,6 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 **[1 Maccabees 2:21-26](/bible/1-maccabees/2#v21)**  *[[1:58:44](https://www.youtube.com/watch?v=QczbDHIehUU&t=7124s)]*
 
 > <sup>[21](/bible/1-maccabees/2#v21)</sup> God forbid that we should forsake the law and the ordinances.
->
-> <sup>[22](/bible/1-maccabees/2#v22)</sup> We will not hearken to the king’s words, to go from our religion, either on the right hand, or the left.
->
-> <sup>[23](/bible/1-maccabees/2#v23)</sup> Now when he had left speaking these words, there came one of the Jews in the sight of all to sacrifice on the altar which was at Modin, according to the king’s commandment.
->
-> <sup>[24](/bible/1-maccabees/2#v24)</sup> Which thing when Mattathias saw, he was inflamed with zeal, and his reins trembled, neither could he forbear to shew his anger according to judgment: wherefore he ran, and slew him upon the altar.
->
-> <sup>[25](/bible/1-maccabees/2#v25)</sup> Also the king’s commissioner, who compelled men to sacrifice, he killed at that time, and the altar he pulled down.
->
-> <sup>[26](/bible/1-maccabees/2#v26)</sup> Thus dealt he zealously for the law of God like as Phinees did unto Zambri the son of Salom.
 
 - God forbid that we should forsake the law and the ordinances: not bending at all, neither to the right hand nor to the left.
 
@@ -260,6 +250,16 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 - He killed the king's commissioner too, the one compelling men to sacrifice, and pulled the altar down.
 
 - Thus dealt he zealously for the law of God, so his anger was the result of keeping God's commandments.
+
+> <sup>[22](/bible/1-maccabees/2#v22)</sup> We will not hearken to the king’s words, to go from our religion, either on the right hand, or the left.
+>
+> <sup>[23](/bible/1-maccabees/2#v23)</sup> Now when he had left speaking these words, there came one of the Jews in the sight of all to sacrifice on the altar which was at Modin, according to the king’s commandment.
+>
+> <sup>[24](/bible/1-maccabees/2#v24)</sup> Which thing when Mattathias saw, he was inflamed with zeal, and his reins trembled, neither could he forbear to shew his anger according to judgment: wherefore he ran, and slew him upon the altar.
+>
+> <sup>[25](/bible/1-maccabees/2#v25)</sup> Also the king’s commissioner, who compelled men to sacrifice, he killed at that time, and the altar he pulled down.
+>
+> <sup>[26](/bible/1-maccabees/2#v26)</sup> Thus dealt he zealously for the law of God like as Phinees did unto Zambri the son of Salom.
 
 - Like as Phinees did unto Zambri: Phinees saw the sin going on with the women of Moab, and the Lord was pleased and did not destroy Israel because of that righteous anger.
 
@@ -283,34 +283,32 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 
 **[1 Maccabees 2:31-35](/bible/1-maccabees/2#v31)**  *[[2:04:31](https://www.youtube.com/watch?v=QczbDHIehUU&t=7471s)]*
 
+- It was told the king's servants that men who had broken the king's commandment were gone down into the secret places in the wilderness, so our own people told on us and were in a pact with the Greeks.
+
+- They made war against them on the sabbath day, which means they had studied us and knew we would not fight on that day.
+
 > <sup>[31](/bible/1-maccabees/2#v31)</sup> Now when it was told the king’s servants, and the host that was at Jerusalem, in the city of David, that certain men, who had broken the king’s commandment, were gone down into the secret places in the wilderness,
 >
 > <sup>[32](/bible/1-maccabees/2#v32)</sup> They pursued after them a great number, and having overtaken them, they camped against them, and made war against them on the sabbath day.
 >
 > <sup>[33](/bible/1-maccabees/2#v33)</sup> And they said unto them, Let that which ye have done hitherto suffice; come forth, and do according to the commandment of the king, and ye shall live.
->
-> <sup>[34](/bible/1-maccabees/2#v34)</sup> But they said, We will not come forth, neither will we do the king’s commandment, to profane the sabbath day.
->
-> <sup>[35](/bible/1-maccabees/2#v35)</sup> So then they gave them the battle with all speed.
-
-- It was told the king's servants that men who had broken the king's commandment were gone down into the secret places in the wilderness, so our own people told on us and were in a pact with the Greeks.
-
-- They made war against them on the sabbath day, which means they had studied us and knew we would not fight on that day.
 
 - Come forth and do according to the commandment of the king and ye shall live: follow Satan and we will let you live, and you pay for it in the end.
 
 - We will not come forth, neither will we do the king's commandment to profane the sabbath day, so they gave them the battle with all speed.
 
+> <sup>[34](/bible/1-maccabees/2#v34)</sup> But they said, We will not come forth, neither will we do the king’s commandment, to profane the sabbath day.
+>
+> <sup>[35](/bible/1-maccabees/2#v35)</sup> So then they gave them the battle with all speed.
+
 
 **[1 Maccabees 2:36-38](/bible/1-maccabees/2#v36)**  *[[2:07:38](https://www.youtube.com/watch?v=QczbDHIehUU&t=7658s)]*
+
+- They answered them not, neither cast they a stone, and did not even stop the places where they lay hid.
 
 > <sup>[36](/bible/1-maccabees/2#v36)</sup> Howbeit they answered them not, neither cast they a stone at them, nor stopped the places where they lay hid;
 >
 > <sup>[37](/bible/1-maccabees/2#v37)</sup> But said, Let us die all in our innocency: heaven and earth will testify for us, that ye put us to death wrongfully.
->
-> <sup>[38](/bible/1-maccabees/2#v38)</sup> So they rose up against them in battle on the sabbath, and they slew them, with their wives and children and their cattle, to the number of a thousand people.
-
-- They answered them not, neither cast they a stone, and did not even stop the places where they lay hid.
 
 - Let us die all in our innocency: they would have fought, but not on that day. This was keeping the sabbath commandment, not fear.
 
@@ -319,6 +317,8 @@ tags: ["IUIC in the ClassRoom", "anger", "health", "heaven-hell", "leadership", 
 - Christianity is a religion that teaches you to love everybody but your own self and to hate anything that upsets massa; where chattel slavery failed, Christianity perfected the slavery.
 
 - They rose up against them on the sabbath and slew them with their wives and children and their cattle, to the number of a thousand people.
+
+> <sup>[38](/bible/1-maccabees/2#v38)</sup> So they rose up against them in battle on the sabbath, and they slew them, with their wives and children and their cattle, to the number of a thousand people.
 
 
 **[1 Maccabees 2:39-41](/bible/1-maccabees/2#v39)**  *[[2:11:38](https://www.youtube.com/watch?v=QczbDHIehUU&t=7898s)]*

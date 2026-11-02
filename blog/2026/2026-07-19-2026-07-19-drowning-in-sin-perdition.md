@@ -31,17 +31,22 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 
 **[Daniel 8:23-25](/bible/daniel/8#v23)**  *[[13:10](https://www.youtube.com/watch?v=ND_RbWngH9I&t=790s)]*
 
+- In the latter time, which means the last days. The their kingdom refers to the Edomite kingdoms; verse 21 talks about Grecia. Grecia, those were the … initially. Yes, they were Japheth, but Alexander and his father Philip were …. They took over everything.
+
 > <sup>[23](/bible/daniel/8#v23)</sup> And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
->
+
+- A king of fierce countenance, and understanding dark sentences: dark sentences goes into religion, that goes into the Bible. Shall stand up: this is a religious system. And his power shall be mighty, but not by his own power: Satan gives them their power.
+
+- A lot of times people think the white man was just so smart, able to figure things out on his own. No, there are spirits that he works with. Candace Owens did a video about NASA and how they were able to get to the moon: they did a lot of satanic worshiping and child sacrificing. People said, oh no, this is conspiracy. No; she had proof.
+
+- Deacon: the father of rocket science is Jack Parsons. He was part of the occult religion called Thelema, Aleister Crowley, all of them. NASA was heavily rooted in people who joined that occult, and when he joined that occult, his understanding was heightened and he was able to figure out rocket fuel, how it can leak and propel into space. They got a series called Strange Angel where it talks about how he basically encountered the devil and pretty much figured out rocket science, and that's how they were able to get in space.
+
 > <sup>[24](/bible/daniel/8#v24)</sup> And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
 >
 > <sup>[25](/bible/daniel/8#v25)</sup> And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 
-- In the latter time, which means the last days. The their kingdom refers to the Edomite kingdoms; verse 21 talks about Grecia. Grecia, those were the … initially. Yes, they were Japheth, but Alexander and his father Philip were …. They took over everything.
-- A king of fierce countenance, and understanding dark sentences: dark sentences goes into religion, that goes into the Bible. Shall stand up: this is a religious system. And his power shall be mighty, but not by his own power: Satan gives them their power.
-- A lot of times people think the white man was just so smart, able to figure things out on his own. No, there are spirits that he works with. Candace Owens did a video about NASA and how they were able to get to the moon: they did a lot of satanic worshiping and child sacrificing. People said, oh no, this is conspiracy. No; she had proof.
-- Deacon: the father of rocket science is Jack Parsons. He was part of the occult religion called Thelema, Aleister Crowley, all of them. NASA was heavily rooted in people who joined that occult, and when he joined that occult, his understanding was heightened and he was able to figure out rocket fuel, how it can leak and propel into space. They got a series called Strange Angel where it talks about how he basically encountered the devil and pretty much figured out rocket science, and that's how they were able to get in space.
 - And through his policy: the policy is his politics. And by peace shall destroy many: that's why today Trump has the board of peace. Everybody, oh, that's so great. No, they're destroying nations.
+
 - He shall also stand up against the prince of princes: the prince of princes is Christ. But he shall be broken without hand: Christ going to destroy him.
 
   Precepts:
@@ -60,29 +65,24 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
 
     This leopard represents the Greeks. Four wings of a fowl: four major militaries. Four heads: four major generals; Ptolemy took over Egypt, Seleucus Syria, Lysimachus Thrace, Cassander Macedonia. When Revelation 13:2 says like unto a leopard, it was like the Greek Empire; it's not the actual Greek Empire, but it has elements of it. His feet were as the feet of a bear: the Persians and Medes, that was their symbol. His mouth as the mouth of a lion: Babylon.
 
-
-
 - So they're not charging with murder, just tampering with evidence. He deletes his messages off his cell phone, throws the victim's cell phone, and hides the victim's clothes. It's deeper than what we know.
 
-
-
 - He didn't mention the what: they all white friends. That's what they all have in common.
-
-
 
 - Y'all better write that stuff down. That's some good stuff. But I know, we're conspiracy theorists. We're crazy. We're a hate group.
 
 **[2 Thessalonians 2:1-3](/bible/2-thessalonians/2#v1)**  *[[38:22](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2302s)]*
 
 > <sup>[1](/bible/2-thessalonians/2#v1)</sup> Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,
->
-> <sup>[2](/bible/2-thessalonians/2#v2)</sup> That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
->
-> <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
 - By our gathering together unto him: that him is Christ. When you hear people on earth say that they are the ones that Christ is using to gather the 12 tribes, don't listen to that.
+
+> <sup>[2](/bible/2-thessalonians/2#v2)</sup> That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
+
 - That ye be not soon shaken in mind, or be troubled: cuz during this time you had many idiots running around saying the resurrection has come and gone already; you can read about that in the book of Timothy. So Paul was reminding them, don't let nobody deceive you; Christ has not returned yet.
+
 - The falling away means the 12 tribes of Israel have to fall and go into captivity. Christians read that and go, yeah, people going to fall away from Christianity and go join Islam. That's not what it's talking about.
+
 - Two things have to happen before Christ returns: all 12 tribes must go into captivity, which is where we're at now, and a man of sin must be revealed, the son of perdition.
 
   Precepts:
@@ -94,6 +94,8 @@ Reader: Soldier Yahoshua, from Riverdale, Atlanta.
     > <sup>[24](/bible/luke/21#v24)</sup> And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
 
     They shall fall by the edge of the sword: the Israelites. And shall be led away captive into all nations: slavery. And Jerusalem shall be trodden down of the Gentiles: Jerusalem shall be taken over by other nations, in particular Edomite nations, until that time of rulership is fulfilled.
+
+> <sup>[3](/bible/2-thessalonians/2#v3)</sup> Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
 <div class="reading">
 
@@ -109,49 +111,58 @@ Reading from a definition of perdition  *[[44:38](https://www.youtube.com/watch?
 
 **[Revelation 17:8-11](/bible/revelation/17#v8)**  *[[45:16](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2716s)]*
 
+- The beast that thou sawest was, in his vision, and is not, currently in existence, and shall ascend out of the bottomless pit: shall ascend out of Europe. The bottomless pit is Europe, where they have very little natural resources. And go into perdition: so there's a country, a nation, a kingdom on earth destined to go into perdition. This ties in with the man of sin, the son of perdition.
+
 > <sup>[8](/bible/revelation/17#v8)</sup> The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
->
+
+- And yet is: because the attributes of Rome at that time is in America.
+
 > <sup>[9](/bible/revelation/17#v9)</sup> And here is the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth.
 >
 > <sup>[10](/bible/revelation/17#v10)</sup> And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he cometh, he must continue a short space.
->
-> <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
 
-- The beast that thou sawest was, in his vision, and is not, currently in existence, and shall ascend out of the bottomless pit: shall ascend out of Europe. The bottomless pit is Europe, where they have very little natural resources. And go into perdition: so there's a country, a nation, a kingdom on earth destined to go into perdition. This ties in with the man of sin, the son of perdition.
-- And yet is: because the attributes of Rome at that time is in America.
 - There are seven kings: five are fallen; and one is: that's Rome. And the other is not yet come; and when he cometh, he must continue a short space: that's Britain. And the beast that was, and is not, even he is the eighth, and is of the seven: remember America comes out of Britain. And goeth into perdition: goes into hell, to destruction. That's the United States of America, Babylon the Great.
 
+> <sup>[11](/bible/revelation/17#v11)</sup> And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
+
 **[Romans 9:13-22](/bible/romans/9#v13)**  *[[46:28](https://www.youtube.com/watch?v=ND_RbWngH9I&t=2788s)]*
+
+- The vessels, or the people, of wrath fitted, which means created, to destruction. Who's that talking about? Verse 13: Jacob have I loved, but Esau have I hated. Paul is addressing Esau. He's telling the Israelites in Rome, remember Esau. Why did he just say Rome? Because these letters were read when they traveled; Rome had checkpoints where they read all your letters and you could not speak any ill against Rome. So they said, all right, we won't say Rome, we'll say Esau.
 
 > <sup>[13](/bible/romans/9#v13)</sup> As it is written, Jacob have I loved, but Esau have I hated.
 >
 > <sup>[14](/bible/romans/9#v14)</sup> What shall we say then? Is there unrighteousness with God? God forbid.
 >
 > <sup>[15](/bible/romans/9#v15)</sup> For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
->
+
+- I will have mercy on whom I will have mercy: the mercy's going to Jacob. So then it is not of him that willeth: you cannot will yourself to be the people of God. It has nothing to do with positive thinking; you cannot positively change the mind of God. Nor of him that runneth: you can't run throughout the earth, I'mma build a church here, I'm going to make myself the people of God. You can't do it.
+
+- Now he's comparing Esau to Pharaoh. Pharaoh was the world's superpower; during the time of Paul and the apostles, Rome was the Pharaoh of the time, the world's superpower. Rome, the Lord didn't smite Rome; Rome just transformed. Now we're here in America; the Lord is going to smite this place, and the same thing that happened during the time of Moses is going to happen when this country is destroyed: everybody going to say, we heard what your God did for you.
+
+- I made mention that God made Pharaoh the world's superpower. America right now is the world superpower; they have more bombs, greater technology than any nation on the planet; they can fight different fronts at the same time; 850 bases covering the whole planet. Britain ain't got it, Germany ain't got it, Russia ain't got it. That's why everybody fears America. Nobody can defeat them one on one; God said, I have to take them down.
+
 > <sup>[16](/bible/romans/9#v16)</sup> So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
 >
 > <sup>[17](/bible/romans/9#v17)</sup> For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
 >
 > <sup>[18](/bible/romans/9#v18)</sup> Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
->
+
+- And whom he will he hardeneth: he hardened Pharaoh; he's going to harden Esau. I saw a video where a guy has Israelites on planes and boats going to the wilderness; somebody asked him, so the white man's going to allow millions of Israelites to take his planes and boats and go to the wilderness? He responded yes. The guy asked, what scripture is that? Nobody reads the Bible anymore. That's not in the Bible.
+
+- Deacon: remember around 2015, we had people from one camp calling us saying they were stuck; he took their passports, took everything from them, because he was telling them that's where you're going to get delivered. The scriptures say the Israelites are the sand of the sea. You really think any nation on this earth is going to let all of us come there? All that show is that fool don't know the scriptures. And most of you women, you're easily deceived, just like in the Christian church.
+
+- Remember when they told the Palestinians, go to Egypt: Egypt said they ain't coming here, they can't all fit here. You think millions of negroes, they going to let go into Egypt? Y'all crazy.
+
+- Who art thou that repliest against God? Let's relate it to a movie: you are the writer of a movie. You got to have a good guy, you got to have a bad guy. I am hiring you to be the bad guy. Why I got to be the bad guy? Cuz I'm paying you to be the bad guy. Paul is using the same analogy. Hath not the potter power over the clay? How can that pot say to the person making it, hey, why are you making me like this? It stays quiet, and the creator forms it and shapes it whichever way he does create.
+
+- Deacon: that's what the white man did. He read the Bible, he saw the script. He said, oh no, that's not me, I am not Esau. From now on we're going to change the script. And you people are listening to him.
+
 > <sup>[19](/bible/romans/9#v19)</sup> Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
 >
 > <sup>[20](/bible/romans/9#v20)</sup> Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
 >
 > <sup>[21](/bible/romans/9#v21)</sup> Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
->
-> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 
-- The vessels, or the people, of wrath fitted, which means created, to destruction. Who's that talking about? Verse 13: Jacob have I loved, but Esau have I hated. Paul is addressing Esau. He's telling the Israelites in Rome, remember Esau. Why did he just say Rome? Because these letters were read when they traveled; Rome had checkpoints where they read all your letters and you could not speak any ill against Rome. So they said, all right, we won't say Rome, we'll say Esau.
-- I will have mercy on whom I will have mercy: the mercy's going to Jacob. So then it is not of him that willeth: you cannot will yourself to be the people of God. It has nothing to do with positive thinking; you cannot positively change the mind of God. Nor of him that runneth: you can't run throughout the earth, I'mma build a church here, I'm going to make myself the people of God. You can't do it.
-- Now he's comparing Esau to Pharaoh. Pharaoh was the world's superpower; during the time of Paul and the apostles, Rome was the Pharaoh of the time, the world's superpower. Rome, the Lord didn't smite Rome; Rome just transformed. Now we're here in America; the Lord is going to smite this place, and the same thing that happened during the time of Moses is going to happen when this country is destroyed: everybody going to say, we heard what your God did for you.
-- I made mention that God made Pharaoh the world's superpower. America right now is the world superpower; they have more bombs, greater technology than any nation on the planet; they can fight different fronts at the same time; 850 bases covering the whole planet. Britain ain't got it, Germany ain't got it, Russia ain't got it. That's why everybody fears America. Nobody can defeat them one on one; God said, I have to take them down.
-- And whom he will he hardeneth: he hardened Pharaoh; he's going to harden Esau. I saw a video where a guy has Israelites on planes and boats going to the wilderness; somebody asked him, so the white man's going to allow millions of Israelites to take his planes and boats and go to the wilderness? He responded yes. The guy asked, what scripture is that? Nobody reads the Bible anymore. That's not in the Bible.
-- Deacon: remember around 2015, we had people from one camp calling us saying they were stuck; he took their passports, took everything from them, because he was telling them that's where you're going to get delivered. The scriptures say the Israelites are the sand of the sea. You really think any nation on this earth is going to let all of us come there? All that show is that fool don't know the scriptures. And most of you women, you're easily deceived, just like in the Christian church.
-- Remember when they told the Palestinians, go to Egypt: Egypt said they ain't coming here, they can't all fit here. You think millions of negroes, they going to let go into Egypt? Y'all crazy.
-- Who art thou that repliest against God? Let's relate it to a movie: you are the writer of a movie. You got to have a good guy, you got to have a bad guy. I am hiring you to be the bad guy. Why I got to be the bad guy? Cuz I'm paying you to be the bad guy. Paul is using the same analogy. Hath not the potter power over the clay? How can that pot say to the person making it, hey, why are you making me like this? It stays quiet, and the creator forms it and shapes it whichever way he does create.
-- Deacon: that's what the white man did. He read the Bible, he saw the script. He said, oh no, that's not me, I am not Esau. From now on we're going to change the script. And you people are listening to him.
 - Hath not the potter power over the clay, of the same lump to make one vessel unto honour: that's Jacob. And another unto dishonour: that's Esau.
 
   Precepts:
@@ -171,25 +182,31 @@ Reading from a definition of perdition  *[[44:38](https://www.youtube.com/watch?
 
     This is talking about ancient Egypt. Bring it up to today: the enchantments today is called science, Esau's science, his technology. Upon the destruction of the firstborn, they acknowledged this people to be the sons of God. As it was then, it's going to be now. That's when they're going to acknowledge we're the sons of God: when death come, great death.
 
+> <sup>[22](/bible/romans/9#v22)</sup> What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
+
 **[Psalms 50:16-21](/bible/psalms/50#v16)**  *[[59:28](https://www.youtube.com/watch?v=ND_RbWngH9I&t=3568s)]*
+
+- But unto the wicked God saith, what hast thou to do to declare my statutes? The wicked took up the old covenant as Jewish; the wicked took up the new covenant as Christians. Notice the ones doing all the killing, they are Christians. Never forget that.
 
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 >
 > <sup>[17](/bible/psalms/50#v17)</sup> Seeing thou hatest instruction, and castest my words behind thee.
 >
 > <sup>[18](/bible/psalms/50#v18)</sup> When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
->
+
+- When thou sawest a thief, then thou consentedst with him: America did not say anything when they saw Amalek, that's who they are, taking the land of Palestine. They see the genocide and said, in fact, we're gonna help you. When they took over Australia, South Africa, America sat back and allowed all this stuff to go down. Any black congressman or congresswoman do anything corrupt, they get called out immediately, terminated, fired. The … do it and no one says a word.
+
+- Now you got the coroner for Nolan's case; they don't want to release their autopsy report. They said, we want to wait to see what Colin Kaepernick's independent guy says. But that ain't how it's supposed to work: you're working for the city or the state, you're supposed to release your findings. They know they're doing corrupt stuff; they want to wait so ain't going to be no contradictions. This is evil as hell.
+
+- And hast been partaker with adulterers: look at the Epstein case. Thou givest thy mouth to evil: they say we're Christians, but then they kill you in the same breath. And thy tongue frameth deceit: Jesus is white and he was born December 25th.
+
 > <sup>[19](/bible/psalms/50#v19)</sup> Thou givest thy mouth to evil, and thy tongue frameth deceit.
 >
 > <sup>[20](/bible/psalms/50#v20)</sup> Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
->
-> <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
 
-- But unto the wicked God saith, what hast thou to do to declare my statutes? The wicked took up the old covenant as Jewish; the wicked took up the new covenant as Christians. Notice the ones doing all the killing, they are Christians. Never forget that.
-- When thou sawest a thief, then thou consentedst with him: America did not say anything when they saw Amalek, that's who they are, taking the land of Palestine. They see the genocide and said, in fact, we're gonna help you. When they took over Australia, South Africa, America sat back and allowed all this stuff to go down. Any black congressman or congresswoman do anything corrupt, they get called out immediately, terminated, fired. The … do it and no one says a word.
-- Now you got the coroner for Nolan's case; they don't want to release their autopsy report. They said, we want to wait to see what Colin Kaepernick's independent guy says. But that ain't how it's supposed to work: you're working for the city or the state, you're supposed to release your findings. They know they're doing corrupt stuff; they want to wait so ain't going to be no contradictions. This is evil as hell.
-- And hast been partaker with adulterers: look at the Epstein case. Thou givest thy mouth to evil: they say we're Christians, but then they kill you in the same breath. And thy tongue frameth deceit: Jesus is white and he was born December 25th.
 - Thou sittest and speakest against thy brother: in fact, Jacob is the evil son, Esau is the righteous one; just like Abel, Cain was a good son, Abel was a bad one. That's what their Christian theology does. Thou slanderest thine own mother's son: they slander us day by day. We're the worst criminals on earth; oh, there's more black-on-black crime than anything. Really? More than the bombs y'all dropped throughout the seven countries?
+
+> <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
 
 <div class="reading">
 
@@ -367,14 +384,16 @@ Reading from *In the Pillory: The Tale of the Borgia Pope, in nine crowded chapt
 
 **[2 Thessalonians 2:5-7](/bible/2-thessalonians/2#v5)**  *[[1:41:20](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6080s)]*
 
+- Paul was always warning the disciples about the coming catastrophe, this man of sin. And now ye know what withholdeth: what's being withheld? The return of Christ. Why? Because the man of sin must totally be revealed. Israel already in captivity now.
+
 > <sup>[5](/bible/2-thessalonians/2#v5)</sup> Remember ye not, that, when I was yet with you, I told you these things?
 >
 > <sup>[6](/bible/2-thessalonians/2#v6)</sup> And now ye know what withholdeth that he might be revealed in his time.
->
+
+- That he might be revealed in his time: meaning this is his time now, like we just read in Luke 21:24, until the times of the Gentiles be fulfilled. This is the time now.
+
 > <sup>[7](/bible/2-thessalonians/2#v7)</sup> For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
 
-- Paul was always warning the disciples about the coming catastrophe, this man of sin. And now ye know what withholdeth: what's being withheld? The return of Christ. Why? Because the man of sin must totally be revealed. Israel already in captivity now.
-- That he might be revealed in his time: meaning this is his time now, like we just read in Luke 21:24, until the times of the Gentiles be fulfilled. This is the time now.
 - Only he who now letteth will let: God is the one letting them rule, until he be taken out of the way: until God decides, I'm taking them out of the way. We have to wait for that.
 
   Precepts:
@@ -449,95 +468,114 @@ Reading from a definition of renown  *[[1:52:25](https://www.youtube.com/watch?v
 
 **[Hebrews 10:32-39](/bible/hebrews/10#v32)**  *[[1:53:48](https://www.youtube.com/watch?v=ND_RbWngH9I&t=6828s)]*
 
+- Listen good: when they go into the gates of the nobles, there's always a consequence for revealing the devil. This white man has done so much evil and taught so much lies; he's hiding in this earth as the righteous, as Jews and Christians. So you think the devil is just going to sit there and let what he's been trying to hide for centuries come out? There's going to be consequences.
+
 > <sup>[32](/bible/hebrews/10#v32)</sup> But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;
->
+
+- After ye were illuminated: once you got the understanding of who you are, who Christ is, ye endured a great fight of afflictions. Whilst ye were made a gazingstock: you know when you're on the street, you're a gazingstock. Why they always on the corner teaching? Why they always got that Bible? I'm relating back then to us today.
+
 > <sup>[33](/bible/hebrews/10#v33)</sup> Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.
 >
 > <sup>[34](/bible/hebrews/10#v34)</sup> For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
->
+
+- And took joyfully the spoiling of your goods: and took joyfully the robbing of your homes and houses. There was a penalty for speaking against Rome, and that was it. We just read right by and not really look into it: they had their homes robbed, taken. It didn't faze them; they were like, hey, we going to get it all back a hundredfold. Knowing in yourselves that ye have in heaven a better and an enduring substance: I heard Umar Johnson say, why got to wait to go to heaven? We ain't talking about going up in the sky; that heaven is going to be on earth. That's the Lord's prayer: thy kingdom come, thy will be done in earth as it is in heaven.
+
 > <sup>[35](/bible/hebrews/10#v35)</sup> Cast not away therefore your confidence, which hath great recompence of reward.
->
+
+- Cast not away therefore your confidence: why'd he say that? They had their homes taken from them, their monies, their livelihood. You know what kind of pain, especially for women: they lost everything. I don't got no house no more, my property is gone, my garden is gone. And the husband got to hear all this weeping: listen babe, stop; we going to get all this back and more.
+
+- For ye have need of patience, that, after ye have done the will of God, ye might receive the promise. So Paul was encouraging them, and that's the same way we got to encourage one another.
+
 > <sup>[36](/bible/hebrews/10#v36)</sup> For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.
 >
 > <sup>[37](/bible/hebrews/10#v37)</sup> For yet a little while, and he that shall come will come, and will not tarry.
 >
 > <sup>[38](/bible/hebrews/10#v38)</sup> Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.
->
-> <sup>[39](/bible/hebrews/10#v39)</sup> But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
 
-- Listen good: when they go into the gates of the nobles, there's always a consequence for revealing the devil. This white man has done so much evil and taught so much lies; he's hiding in this earth as the righteous, as Jews and Christians. So you think the devil is just going to sit there and let what he's been trying to hide for centuries come out? There's going to be consequences.
-- After ye were illuminated: once you got the understanding of who you are, who Christ is, ye endured a great fight of afflictions. Whilst ye were made a gazingstock: you know when you're on the street, you're a gazingstock. Why they always on the corner teaching? Why they always got that Bible? I'm relating back then to us today.
-- And took joyfully the spoiling of your goods: and took joyfully the robbing of your homes and houses. There was a penalty for speaking against Rome, and that was it. We just read right by and not really look into it: they had their homes robbed, taken. It didn't faze them; they were like, hey, we going to get it all back a hundredfold. Knowing in yourselves that ye have in heaven a better and an enduring substance: I heard Umar Johnson say, why got to wait to go to heaven? We ain't talking about going up in the sky; that heaven is going to be on earth. That's the Lord's prayer: thy kingdom come, thy will be done in earth as it is in heaven.
-- Cast not away therefore your confidence: why'd he say that? They had their homes taken from them, their monies, their livelihood. You know what kind of pain, especially for women: they lost everything. I don't got no house no more, my property is gone, my garden is gone. And the husband got to hear all this weeping: listen babe, stop; we going to get all this back and more.
-- For ye have need of patience, that, after ye have done the will of God, ye might receive the promise. So Paul was encouraging them, and that's the same way we got to encourage one another.
 - But if any man draw back: if any one of you men or women draw back from this truth, you want to do your own little thing, I'mma be a Muslim, I'mma go back to the Christian church: my soul shall have no pleasure in him. But we are not of them who draw back unto perdition: we got to be resolved in our mind and spirit. Why does it say draw back unto perdition? Because you're joining the white man. That's what you're doing.
+
+> <sup>[39](/bible/hebrews/10#v39)</sup> But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
 
 **[2 Esdras 16:68-74](/bible/2-esdras/16#v68)**  *[[1:58:02](https://www.youtube.com/watch?v=ND_RbWngH9I&t=7082s)]*
 
 > <sup>[68](/bible/2-esdras/16#v68)</sup> For, behold, the burning wrath of a great multitude is kindled over you, and they shall take away certain of you, and feed you, being idle, with things offered unto idols.
->
+
+- For behold, the burning wrath of a great multitude is kindled over you: that's the mobs. And they shall take away certain of you, and feed you, being idle, with things offered unto idols: that's Christianity. That's the religion of this country; they're leading you right back to the Christian church.
+
 > <sup>[69](/bible/2-esdras/16#v69)</sup> And they that consent unto them shall be had in derision and in reproach, and trodden under foot.
->
+
+- And they that consent unto them: and you that agree with them, cuz you're tired, you got battle fatigue: I'm tired of reproving my people, I just want to live a whole life all over again. You want to be had in derision and in reproach, mocked, and trodden underfoot, and ultimately put to death.
+
+- For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord. Just as it was back then, it's going to happen again. Just prepare yourselves.
+
 > <sup>[70](/bible/2-esdras/16#v70)</sup> For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord.
 >
 > <sup>[71](/bible/2-esdras/16#v71)</sup> They shall be like mad men, sparing none, but still spoiling and destroying those that fear the Lord.
->
+
+- They shall be like mad men, sparing none: it's not going to be the whole country. Remember Christ said if they persecute you in one city, flee to another; that means there's going to be some cities, some states that's going to be relatively calm. We just got to identify where can we go to run from this.
+
 > <sup>[72](/bible/2-esdras/16#v72)</sup> For they shall waste and take away their goods, and cast them out of their houses.
->
+
+- For they shall waste and take away their goods: that's what happened in Hebrews 10:34. Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
+
 > <sup>[73](/bible/2-esdras/16#v73)</sup> Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
 >
 > <sup>[74](/bible/2-esdras/16#v74)</sup> Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same.
 
-- For behold, the burning wrath of a great multitude is kindled over you: that's the mobs. And they shall take away certain of you, and feed you, being idle, with things offered unto idols: that's Christianity. That's the religion of this country; they're leading you right back to the Christian church.
-- And they that consent unto them: and you that agree with them, cuz you're tired, you got battle fatigue: I'm tired of reproving my people, I just want to live a whole life all over again. You want to be had in derision and in reproach, mocked, and trodden underfoot, and ultimately put to death.
-- For there shall be in every place, and in the next cities, a great insurrection upon those that fear the Lord. Just as it was back then, it's going to happen again. Just prepare yourselves.
-- They shall be like mad men, sparing none: it's not going to be the whole country. Remember Christ said if they persecute you in one city, flee to another; that means there's going to be some cities, some states that's going to be relatively calm. We just got to identify where can we go to run from this.
-- For they shall waste and take away their goods: that's what happened in Hebrews 10:34. Then shall they be known, who are my chosen; and they shall be tried as the gold in the fire.
-
 **[Philippians 1:27-30](/bible/philippians/1#v27)**  *[[2:02:08](https://www.youtube.com/watch?v=ND_RbWngH9I&t=7328s)]*
 
+- Only let your conversation be as it becometh the gospel of Christ. The good news of Christ is that he died for the 12 tribes, he's going to deliver the Israelites and have the Israelites rule the planet. Guess what that's called? Treason. They got laws on the books now: you speak against Christianity or America, it falls under extremist laws, terrorist activity.
+
+- A Christian reads that and goes, your speech be like the gospel of Christ: love, love, love. Nope. What was Christ charged with when they nailed him to the cross? They called him King of the Jews. That's called treason. They couldn't get him on nothing else: he's talking about another kingdom. We saying the same thing Christ is saying.
+
 > <sup>[27](/bible/philippians/1#v27)</sup> Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
->
+
+- That ye stand fast in one spirit: not doing separate things. Oh, I want to set up a Mexican camp; I don't want to be with the 12 tribes. Another brother: I want to do a Puerto Rican camp. Are you kidding me? True stories.
+
 > <sup>[28](/bible/philippians/1#v28)</sup> And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
->
+
+- And in nothing terrified by your adversaries: you have enemies out there who despise the gospel. I don't see how Christians read this and get love for everybody. Which is to them an evident token of perdition: an evident sign of hell, destruction. Why? They took homes, they took houses, they put people to death; remember what they did to James, and John. But to you of salvation: I'm going through this; this is a sign of salvation for us.
+
+- For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake. It's not enough just to believe. Everybody in here say they believe, but how many of us are willing to suffer for his sake?
+
 > <sup>[29](/bible/philippians/1#v29)</sup> For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
 >
 > <sup>[30](/bible/philippians/1#v30)</sup> Having the same conflict which ye saw in me, and now hear to be in me.
 
-- Only let your conversation be as it becometh the gospel of Christ. The good news of Christ is that he died for the 12 tribes, he's going to deliver the Israelites and have the Israelites rule the planet. Guess what that's called? Treason. They got laws on the books now: you speak against Christianity or America, it falls under extremist laws, terrorist activity.
-- A Christian reads that and goes, your speech be like the gospel of Christ: love, love, love. Nope. What was Christ charged with when they nailed him to the cross? They called him King of the Jews. That's called treason. They couldn't get him on nothing else: he's talking about another kingdom. We saying the same thing Christ is saying.
-- That ye stand fast in one spirit: not doing separate things. Oh, I want to set up a Mexican camp; I don't want to be with the 12 tribes. Another brother: I want to do a Puerto Rican camp. Are you kidding me? True stories.
-- And in nothing terrified by your adversaries: you have enemies out there who despise the gospel. I don't see how Christians read this and get love for everybody. Which is to them an evident token of perdition: an evident sign of hell, destruction. Why? They took homes, they took houses, they put people to death; remember what they did to James, and John. But to you of salvation: I'm going through this; this is a sign of salvation for us.
-- For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake. It's not enough just to believe. Everybody in here say they believe, but how many of us are willing to suffer for his sake?
-
 **[Wisdom of Solomon 3:1-6](/bible/wisdom-of-solomon/3#v1)**  *[[2:06:37](https://www.youtube.com/watch?v=ND_RbWngH9I&t=7597s)]*
 
 > <sup>[1](/bible/wisdom-of-solomon/3#v1)</sup> But the souls of the righteous are in the hand of God, and there shall no torment touch them.
->
+
+- There shall no torment touch them: it's talking about the lake of fire. In the sight of the unwise they seemed to die: this is the same thing we just read in Philippians 1:28.
+
 > <sup>[2](/bible/wisdom-of-solomon/3#v2)</sup> In the sight of the unwise they seemed to die: and their departure is taken for misery,
->
+
+- And their departure is taken for misery: you have a miserable life. What did Brandon Tatum say? Why are you an activist? You have nothing better to do; you're always complaining. Captain Zakar said: Christ was an activist. He was the ultimate activist, always out there preaching and teaching, repent for the kingdom of heaven is at hand. The 12 apostles were activists, if you want to use that word.
+
+- Misery because they say you could have had a good job, you could have been working on a Sabbath making big money, a mansion, a yacht, and a string of polo ponies, and a white woman on your arm. But no, you decided you wanted Shaquita over there, and you wanted to ride a bus or a train and have that job where you don't work on a Sabbath. That's what you chose.
+
 > <sup>[3](/bible/wisdom-of-solomon/3#v3)</sup> And their going from us to be utter destruction: but they are in peace.
 >
 > <sup>[4](/bible/wisdom-of-solomon/3#v4)</sup> For though they be punished in the sight of men, yet is their hope full of immortality.
 >
 > <sup>[5](/bible/wisdom-of-solomon/3#v5)</sup> And having been a little chastised, they shall be greatly rewarded: for God proved them, and found them worthy for himself.
->
-> <sup>[6](/bible/wisdom-of-solomon/3#v6)</sup> As gold in the furnace hath he tried them, and received them as a burnt offering.
 
-- There shall no torment touch them: it's talking about the lake of fire. In the sight of the unwise they seemed to die: this is the same thing we just read in Philippians 1:28.
-- And their departure is taken for misery: you have a miserable life. What did Brandon Tatum say? Why are you an activist? You have nothing better to do; you're always complaining. Captain Zakar said: Christ was an activist. He was the ultimate activist, always out there preaching and teaching, repent for the kingdom of heaven is at hand. The 12 apostles were activists, if you want to use that word.
-- Misery because they say you could have had a good job, you could have been working on a Sabbath making big money, a mansion, a yacht, and a string of polo ponies, and a white woman on your arm. But no, you decided you wanted Shaquita over there, and you wanted to ride a bus or a train and have that job where you don't work on a Sabbath. That's what you chose.
 - And having been a little chastised, they shall be greatly rewarded: you see what God's calling it? A little chastisement. I know for the moment you're in pain, but it's just a little chastisement. For God proved them, and found them worthy for himself. As gold in the furnace hath he tried them, and received them as a burnt offering: so the death of the righteous is like a burnt offering to the Lord.
+
+> <sup>[6](/bible/wisdom-of-solomon/3#v6)</sup> As gold in the furnace hath he tried them, and received them as a burnt offering.
 
 **[2 Thessalonians 2:8-9](/bible/2-thessalonians/2#v8)**  *[[2:10:39](https://www.youtube.com/watch?v=ND_RbWngH9I&t=7839s)]*
 
 > <sup>[8](/bible/2-thessalonians/2#v8)</sup> And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
->
-> <sup>[9](/bible/2-thessalonians/2#v9)</sup> Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
 
 - Whom the Lord shall consume with the spirit of his mouth: the spirit of God's mouth is the holy Bible. I know some of you speak very well, you got eloquent words; that's all well and fine, but we must use God's word. This is where the power is.
+
 - We'll read the Bible, but we don't see the spiritual effects it has in this realm, cuz our eyes is closed. But God is saying, listen, my word is fire. Speak the word, whether they hear or forbear; even those that reject it, they at home tossing and tumbling in their bed. The way we're breaking it down is going to haunt them.
+
 - Deacon: as we teach the word of God, we are judging, and a lot of people is being marked for death. All of y'all that hear the word of God and reject it and refuse it: remember what Christ says, it's going to be more tolerable for Sodom and Gomorrah than for them that don't hear you. As we teach God's word, that's where the power come forth. The people that reject it, they are being condemned.
+
+> <sup>[9](/bible/2-thessalonians/2#v9)</sup> Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
+
 - Even him, whose coming is after the working of Satan: our comings is supposed to be after Christ the Lord, but the white man's comings and goings is after Satan. That goes back to Genesis 4.
 
   Precepts:

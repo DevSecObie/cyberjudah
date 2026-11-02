@@ -262,6 +262,10 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "passover-feasts", "purpose",
 
 **[Romans 5:12-21](/bible/romans/5#v12)**  *[[1:27:20](https://www.youtube.com/watch?v=OKnkK-FyKyQ&t=5240s)]*
 
+- Wherefore, as by one man sin entered into the world, and death by sin, and so death passed upon all men, for that all have sinned. Sin and death are synonymous, the wages of sin. Yes, all nations are capable of sinning through Adam; the question is who God held accountable. For until the law sin was in the world, from Adam to Moses, but sin is not imputed, charged, when there is no law: Hebrews 9:22, almost all things are by the law purged with blood, and without shedding of blood is no remission, so sin was only imputed where there was a sacrifice. Hebrews 10:18: where remission of these is, there is no more offering for sin, no more animals once Christ died. Romans 4:15: the law worketh wrath, death, and where no law, no sacrifice, is, there is no transgression.
+
+- Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come. Adam was a similitude of Christ, but not as the offence: Adam brought the offence and Christ brought the opposite, the free gift. If through the offence of one many be dead, paradise removed and the flood, much more the grace of God by one man, Jesus Christ, hath abounded unto many. They parallel: one brought death upon the chosen nation and one brought life upon it.
+
 > <sup>[12](/bible/romans/5#v12)</sup> Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:
 >
 > <sup>[13](/bible/romans/5#v13)</sup> (For until the law sin was in the world: but sin is not imputed when there is no law.
@@ -271,7 +275,9 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "passover-feasts", "purpose",
 > <sup>[15](/bible/romans/5#v15)</sup> But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.
 >
 > <sup>[16](/bible/romans/5#v16)</sup> And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.
->
+
+- The judgment was by one to condemnation, but the free gift is of many offences unto justification: whose offences? Israel's, Romans 4:25, our offences and our justification; my righteous servant shall justify many. Paul is giving the origin story of sin, how it killed off the chosen people who always came back to the commandments, and why Christ had to come and die for that same chosen line. As by the offence of one judgment came upon all men to condemnation, even so by the righteousness of one the free gift came upon all men unto justification of life; as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous. Acts 13:38-39: by him all that believe are justified from all things, from which ye could not be justified by the law of Moses, since almost all things were purged with blood and Christ's death purges everything.
+
 > <sup>[17](/bible/romans/5#v17)</sup> For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
 >
 > <sup>[18](/bible/romans/5#v18)</sup> Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.
@@ -279,14 +285,6 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "passover-feasts", "purpose",
 > <sup>[19](/bible/romans/5#v19)</sup> For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.
 >
 > <sup>[20](/bible/romans/5#v20)</sup> Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:
->
-> <sup>[21](/bible/romans/5#v21)</sup> That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.
-
-- Wherefore, as by one man sin entered into the world, and death by sin, and so death passed upon all men, for that all have sinned. Sin and death are synonymous, the wages of sin. Yes, all nations are capable of sinning through Adam; the question is who God held accountable. For until the law sin was in the world, from Adam to Moses, but sin is not imputed, charged, when there is no law: Hebrews 9:22, almost all things are by the law purged with blood, and without shedding of blood is no remission, so sin was only imputed where there was a sacrifice. Hebrews 10:18: where remission of these is, there is no more offering for sin, no more animals once Christ died. Romans 4:15: the law worketh wrath, death, and where no law, no sacrifice, is, there is no transgression.
-
-- Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come. Adam was a similitude of Christ, but not as the offence: Adam brought the offence and Christ brought the opposite, the free gift. If through the offence of one many be dead, paradise removed and the flood, much more the grace of God by one man, Jesus Christ, hath abounded unto many. They parallel: one brought death upon the chosen nation and one brought life upon it.
-
-- The judgment was by one to condemnation, but the free gift is of many offences unto justification: whose offences? Israel's, Romans 4:25, our offences and our justification; my righteous servant shall justify many. Paul is giving the origin story of sin, how it killed off the chosen people who always came back to the commandments, and why Christ had to come and die for that same chosen line. As by the offence of one judgment came upon all men to condemnation, even so by the righteousness of one the free gift came upon all men unto justification of life; as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous. Acts 13:38-39: by him all that believe are justified from all things, from which ye could not be justified by the law of Moses, since almost all things were purged with blood and Christ's death purges everything.
 
 - Moreover the law entered, that the offence might abound: the law was introduced so sin could be understood and exposed, thou shalt not covet, thou shalt not commit adultery, to guide a naturally sinful people. But where sin abounded, grace did much more abound: keeping the commandments we realize how much we rise, fall, and stumble and how much more grace we need than under Moses, where animals could not atone for everything. That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.
 
@@ -371,6 +369,8 @@ tags: ["IUIC in the ClassRoom", "christ", "faith", "passover-feasts", "purpose",
     > <sup>[5](/bible/romans/9#v5)</sup> Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
 
     I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh, my race, who are Israelites; to whom pertaineth, belongs, the adoption, Ephesians 1:5, and the glory, Isaiah 45:25, and the covenants, and the giving of the law, and the service of God, and the promises of Abraham, Isaac, and Jacob; whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Christ came for Israel.
+
+> <sup>[21](/bible/romans/5#v21)</sup> That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.
 
 
 ## Class Questions

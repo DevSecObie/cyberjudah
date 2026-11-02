@@ -1178,12 +1178,12 @@ Reading from an on-screen saying on insanity  *[[2:16:38](https://www.youtube.co
 **[2 Maccabees 4:15-16](/bible/2-maccabees/4#v15)**  *[[2:31:05](https://www.youtube.com/watch?v=VewU_qivhdc&t=9065s)]*
 
 > <sup>[15](/bible/2-maccabees/4#v15)</sup> Not setting by the honours of their fathers, but liking the glory of the Grecians best of all.
->
-> <sup>[16](/bible/2-maccabees/4#v16)</sup> By reason whereof sore calamity came upon them: for they had them to be their enemies and avengers, whose custom they followed so earnestly, and unto whom they desired to be like in all things.
 
 - Not setting by the honours of their fathers but liking the glory of the Grecians best of all: that is the Council of Nicaea, and that is the panel in the debate.
 
 - By reason of it sore calamity came upon them: they had the Greeks for enemies and avengers, whose custom they followed so earnestly and to whom they desired to be like in all things; we do it now with this trinitarian doctrine.
+
+> <sup>[16](/bible/2-maccabees/4#v16)</sup> By reason whereof sore calamity came upon them: for they had them to be their enemies and avengers, whose custom they followed so earnestly, and unto whom they desired to be like in all things.
 
 
 ## In Closing

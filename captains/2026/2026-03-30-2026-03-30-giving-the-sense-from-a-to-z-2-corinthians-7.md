@@ -52,20 +52,20 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-law", "the-word"]
 **[Jeremiah 31:31-34](/bible/jeremiah/31#v31)**  *[[20:15](https://www.youtube.com/watch?v=ajiZAMpCVlY&t=1215s)]*
 
 > <sup>[31](/bible/jeremiah/31#v31)</sup> Behold, the days come, saith the Lord, that I will make a new covenant with the house of Israel, and with the house of Judah:
->
-> <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
->
-> <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
->
-> <sup>[34](/bible/jeremiah/31#v34)</sup> And they shall teach no more every man his neighbour, and every man his brother, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them, saith the Lord: for I will forgive their iniquity, and I will remember their sin no more.
 
 - I will make a new covenant with the house of Israel, and with the house of Judah: Right. So, now the Lord is promising to make a new covenant with the house of Israel and the house of Judah. Most people don't understand that history. Judah is one of the tribes of Israel. So, why are they separate? Why is it two separate houses being discussed in terms of promise if it's only one nation of Israel? That's because that one nation was divided into two nations starting in 1 Kings chapter 12 and then in 2 Kings 17 the northern kingdom was completely carried off. The Levite was the last ones left in the land. So, you had the split in 1 Kings chapter 12 and the northern kingdom becoming Gentiles completely in 2 Kings chapter 17. If you're not familiar with that history, you will not understand Paul's letters at all. You won't understand a lick of them. Because those are the Israelites that he was speaking to, those that were cast off and regarded as Gentiles, but they were actually the lost tribes of the house of Israel. So, the Lord said I'm going to make a new covenant with them.
 
+> <sup>[32](/bible/jeremiah/31#v32)</sup> Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:
+
 - Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt: Right. So, that first covenant that the Lord made with the nation of Israel was administered by Moses via the law of sacrifice. When you read Exodus chapter 24. This new covenant is not going to be according to that covenant.
+
+> <sup>[33](/bible/jeremiah/31#v33)</sup> But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 
 - But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord: So, this is the covenant that the Lord is going to make with the entire nation of Israel, all 12 tribes.
 
 - And will be their God, and they shall be my people: That's what we just read in 2 Corinthians chapter 6. If you come out from among them and touch not the unclean thing, I will receive you. I will be your God and you will be unto me as sons and daughters. Which fits perfectly in the context because under what covenant or testament is Paul writing to the Corinthians? The New Testament, the new covenant. So, we know that this is being fulfilled in them, therefore proving that they are Israelites because the new covenant WAS ONLY FOR ISRAELITES.
+
+> <sup>[34](/bible/jeremiah/31#v34)</sup> And they shall teach no more every man his neighbour, and every man his brother, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them, saith the Lord: for I will forgive their iniquity, and I will remember their sin no more.
 
 
 **[Jeremiah 32:37-40](/bible/jeremiah/32#v37)**  *[[24:15](https://www.youtube.com/watch?v=ajiZAMpCVlY&t=1455s)]*
@@ -73,14 +73,14 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-law", "the-word"]
 > <sup>[37](/bible/jeremiah/32#v37)</sup> Behold, I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:
 >
 > <sup>[38](/bible/jeremiah/32#v38)</sup> And they shall be my people, and I will be their God:
->
-> <sup>[39](/bible/jeremiah/32#v39)</sup> And I will give them one heart, and one way, that they may fear me for ever, for the good of them, and of their children after them:
->
-> <sup>[40](/bible/jeremiah/32#v40)</sup> And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.
 
 - And they shall be my people: Shall be my people, my sons and daughters.
 
 - And I will be their God: That's what we read in Corinthians.
+
+> <sup>[39](/bible/jeremiah/32#v39)</sup> And I will give them one heart, and one way, that they may fear me for ever, for the good of them, and of their children after them:
+>
+> <sup>[40](/bible/jeremiah/32#v40)</sup> And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.
 
 - That I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me: So, these are the promises that we have as the Israelites. You understand? Go to Ezekiel chapter 11. Jeremiah ain't the only one that spoke about these promises.
 
@@ -88,20 +88,20 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-law", "the-word"]
 **[Ezekiel 11:16-20](/bible/ezekiel/11#v16)**  *[[24:59](https://www.youtube.com/watch?v=ajiZAMpCVlY&t=1499s)]*
 
 > <sup>[16](/bible/ezekiel/11#v16)</sup> Therefore say, Thus saith the Lord God; Although I have cast them far off among the heathen, and although I have scattered them among the countries, yet will I be to them as a little sanctuary in the countries where they shall come.
->
-> <sup>[17](/bible/ezekiel/11#v17)</sup> Therefore say, Thus saith the Lord God; I will even gather you from the people, and assemble you out of the countries where ye have been scattered, and I will give you the land of Israel.
->
-> <sup>[18](/bible/ezekiel/11#v18)</sup> And they shall come thither, and they shall take away all the detestable things thereof and all the abominations thereof from thence.
->
-> <sup>[19](/bible/ezekiel/11#v19)</sup> And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh:
->
-> <sup>[20](/bible/ezekiel/11#v20)</sup> That they may walk in my statutes, and keep mine ordinances, and do them: and they shall be my people, and I will be their God.
 
 - Although I have scattered them among the countries: One of the countries is Greece or Achaia. That's where Corinth was. You understand? So the Corinthians that Paul was writing to were Israelites that were scattered throughout that country. The Lord said, Although I've scattered you throughout these countries,
 
 - Yet will I be to them as a little sanctuary in the countries where they shall come: That's how you got the letter to the Corinthian. That's how you got the church of Corinth. It's a fulfillment of Ezekiel 11 and verse 16. You understand? That was a little sanctuary that the Lord promised he would do for the house of Israel despite scattering them. So, how would they be able to enter into these little sanctuaries? If they came out from among the Greek, the real Greeks. You understand? And touched not the unclean thing. The Lord will receive them into these little sanctuaries.
 
+> <sup>[17](/bible/ezekiel/11#v17)</sup> Therefore say, Thus saith the Lord God; I will even gather you from the people, and assemble you out of the countries where ye have been scattered, and I will give you the land of Israel.
+>
+> <sup>[18](/bible/ezekiel/11#v18)</sup> And they shall come thither, and they shall take away all the detestable things thereof and all the abominations thereof from thence.
+
 - They shall take away all the detestable things thereof and all the abominations thereof from thence: That's touch not the unclean thing.
+
+> <sup>[19](/bible/ezekiel/11#v19)</sup> And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh:
+>
+> <sup>[20](/bible/ezekiel/11#v20)</sup> That they may walk in my statutes, and keep mine ordinances, and do them: and they shall be my people, and I will be their God.
 
 - And they shall be my people, and I will be their God: That's all of this is what Paul was quoting. So, these are the promises that we have. If we do our part by coming out from among the heathen and touching not the unclean thing then the Lord will receive us and eventually as he promises we will receive new bodies, new hearts, new spirits. You understand? And we'll never depart from our God.
 
@@ -144,10 +144,10 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-law", "the-word"]
 > <sup>[10](/bible/revelation/21#v10)</sup> And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,
 >
 > <sup>[11](/bible/revelation/21#v11)</sup> Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;
->
-> <sup>[12](/bible/revelation/21#v12)</sup> And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
 
 - Having the glory of God: Then we read in Romans 9, it said, "The glory pertain to the Israelites." So, now it's going to prove it.
+
+> <sup>[12](/bible/revelation/21#v12)</sup> And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
 
 - And had a wall great and high: So, this holy city, New Jerusalem, had a wall great and high.
 
@@ -166,12 +166,12 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-law", "the-word"]
 **[Revelation 21:7-8](/bible/revelation/21#v7)**  *[[36:22](https://www.youtube.com/watch?v=ajiZAMpCVlY&t=2182s)]*
 
 > <sup>[7](/bible/revelation/21#v7)</sup> He that overcometh shall inherit all things; and I will be his God, and he shall be my son.
->
-> <sup>[8](/bible/revelation/21#v8)</sup> But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
 
 - He that overcometh shall inherit all things: Right. So, now here's the thing though, just because your name match the name on the gate, don't guarantee you entrance, now. You got to overcome. You understand? Going back to come out from among them, touch not the unclean thing. It's actions that's required. All right. You got to overcome all things.
 
 - And I will be his God, and he shall be my son: Right. That's how you going to get the promise.
+
+> <sup>[8](/bible/revelation/21#v8)</sup> But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
 
 - But the fearful, and unbelieving: If you fearful, you unbelieving,
 
@@ -438,10 +438,10 @@ tags: ["15 Minutes w/ The Captains", "leadership", "the-law", "the-word"]
 **[2 Corinthians 7:6-7](/bible/2-corinthians/7#v6)**  *[[1:23:36](https://www.youtube.com/watch?v=ajiZAMpCVlY&t=5016s)]*
 
 > <sup>[6](/bible/2-corinthians/7#v6)</sup> Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;
->
-> <sup>[7](/bible/2-corinthians/7#v7)</sup> And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
 - Comforted us by the coming of Titus: Right. So, Titus, while they were in Macedonia, Titus had visited Corinth after they left. So, Titus went down to Corinth and came up to Macedonia to give a report of the Corinthians.
+
+> <sup>[7](/bible/2-corinthians/7#v7)</sup> And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
 - And not by his coming only, but by the consolation wherewith he was comforted in you: So, he wasn't comforted just by the sight of Titus, him making it to us, but also by the consolation that he had in you.
 

@@ -202,18 +202,18 @@ Learning requires repetition.
 **[Proverbs 29:15-18](/bible/proverbs/29#v15)**  *[[34:01](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=2041s)]*
 
 > <sup>[15](/bible/proverbs/29#v15)</sup> The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.
->
-> <sup>[16](/bible/proverbs/29#v16)</sup> When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.
->
-> <sup>[17](/bible/proverbs/29#v17)</sup> Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.
->
-> <sup>[18](/bible/proverbs/29#v18)</sup> Where there is no vision, the people perish: but he that keepeth the law, happy is he.
 
 - The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.
+
+> <sup>[16](/bible/proverbs/29#v16)</sup> When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.
 
 - When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.
 
 - Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.
+
+> <sup>[17](/bible/proverbs/29#v17)</sup> Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.
+>
+> <sup>[18](/bible/proverbs/29#v18)</sup> Where there is no vision, the people perish: but he that keepeth the law, happy is he.
 
 - Where there is no vision, the people perish: but he that keepeth the law, happy is he. So it said a lot in that. If we are not correcting the actions of our kids, even if they see something negative or bad, we have to correct them and say, no, that is not normal. That is not how normal black people are to behave. What you are watching is not good, it is not entertainment. It is programming.
 
@@ -240,12 +240,12 @@ Learning requires repetition.
 **[2 Chronicles 22:3-4](/bible/2-chronicles/22#v3)**  *[[50:54](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=3054s)]*
 
 > <sup>[3](/bible/2-chronicles/22#v3)</sup> He also walked in the ways of the house of Ahab: for his mother was his counsellor to do wickedly.
->
-> <sup>[4](/bible/2-chronicles/22#v4)</sup> Wherefore he did evil in the sight of the Lord like the house of Ahab: for they were his counsellors after the death of his father to his destruction.
 
 - He also walked in the ways of the house of Ahab: for his mother was his counsellor to do wickedly. That is the same thing that mother was explaining with her daughters and her sons. Sons got to do whatever and be whatever. And they did not have any real guidance, because the mother did not know how. But she was raising her daughters to be so-called better than her, tough and independent. And she noticed that she was creating a bigger problem, because now they have got a mindset that they do not need a man.
 
 - Daughters need men too. Because nowhere in the Bible have you seen a successful woman on her own. She went from her father to a husband. And if she did not have a husband she was always under the guidance of the elder men.
+
+> <sup>[4](/bible/2-chronicles/22#v4)</sup> Wherefore he did evil in the sight of the Lord like the house of Ahab: for they were his counsellors after the death of his father to his destruction.
 
 - Wherefore he did evil in the sight of the Lord like the house of Ahab: for they were his counsellers after the death of his father to his destruction. And that is where we are at with society. We have taught our kids that they are nothing.
 
@@ -310,12 +310,6 @@ Learning requires repetition.
 **[Hosea 4:1-4](/bible/hosea/4#v1)**  *[[1:15:11](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=4511s)]*
 
 > <sup>[1](/bible/hosea/4#v1)</sup> Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
->
-> <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
->
-> <sup>[3](/bible/hosea/4#v3)</sup> Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.
->
-> <sup>[4](/bible/hosea/4#v4)</sup> Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.
 
 - Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land. This is what is happening because we are not teaching our children and not letting them know the history behind where we come from, and it gets to the point where they start to neglect it.
 
@@ -325,21 +319,27 @@ Learning requires repetition.
 
 - And every one that dwelleth therein shall languish. So everybody is complaining. Get rid of the black folks. Get rid of the black folks. Do this. Do that.
 
+> <sup>[2](/bible/hosea/4#v2)</sup> By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.
+>
+> <sup>[3](/bible/hosea/4#v3)</sup> Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.
+>
+> <sup>[4](/bible/hosea/4#v4)</sup> Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.
+
 - With the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away. Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.
 
 **[Deuteronomy 21:18-21](/bible/deuteronomy/21#v18)**  *[[1:18:01](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=4681s)]*
 
 > <sup>[18](/bible/deuteronomy/21#v18)</sup> If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:
->
+
+- If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them: then shall his father and his mother lay hold on him, and bring him out unto the elders of his city. See, we did things in order. If there was a problem after you have admonished the kid, taught the kid, constantly repeated, do this, do not do that, stop doing this, and it gets to a point where this kid is not listening, then the parents took the kid, saying, listen, we are going to take you to the leaders of the nation to see what the judgment for you should be.
+
+- And unto the gate of his place; and they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard. It is this case and this case and this case. He has been stealing. He has been lying. He has been disrespectful. Let us see the consequences of this kid.
+
 > <sup>[19](/bible/deuteronomy/21#v19)</sup> Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;
 >
 > <sup>[20](/bible/deuteronomy/21#v20)</sup> And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard.
 >
 > <sup>[21](/bible/deuteronomy/21#v21)</sup> And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.
-
-- If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them: then shall his father and his mother lay hold on him, and bring him out unto the elders of his city. See, we did things in order. If there was a problem after you have admonished the kid, taught the kid, constantly repeated, do this, do not do that, stop doing this, and it gets to a point where this kid is not listening, then the parents took the kid, saying, listen, we are going to take you to the leaders of the nation to see what the judgment for you should be.
-
-- And unto the gate of his place; and they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard. It is this case and this case and this case. He has been stealing. He has been lying. He has been disrespectful. Let us see the consequences of this kid.
 
 - And all the men of his city shall stone him with stones, that he die: so shalt thou put away evil from among you; and all Israel shall hear, and fear. So within our government, in our land, that is how we dealt with the yin situation. Well, guess what is happening today. Because we do not have the power to put our kids to sleep. It is not our government. They will call you a bad parent. They will demonize our community if we punished our kids this way. So this scripture cannot be rehearsed by us. But guess what this nation is going through.
 
@@ -363,17 +363,15 @@ Learning requires repetition.
 
 **[Sirach 30:4-6](/bible/sirach/30#v4)**  *[[1:26:33](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=5193s)]*
 
-> <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
->
-> <sup>[5](/bible/sirach/30#v5)</sup> While he lived, he saw and rejoiced in him: and when he died, he was not sorrowful.
->
-> <sup>[6](/bible/sirach/30#v6)</sup> He left behind him an avenger against his enemies, and one that shall requite kindness to his friends.
-
 - Though his father die, yet he is as though he were not dead. Because that son is going to be a resemblance of who his father chastised and admonished and brought him up to be. Dang, bro, you remind me of your dad. Your dad used to do the same thing. You are a straight shooter just like your dad. You talk like him, you look like him. You bring it out just like your pops. It is like he is still here.
 
 - Just like in the Lion King, when Rafiki had to smack him in the head, like, look harder, and he starts to see his dad in his reflection, like, this is my kingdom, I have got to go take it back by any means necessary. I have got to go get it back. That is the fire that was in that kid when you were teaching them young, when you were giving them that diligence, that time and structure of, listen, you see that kid, that is not how you behave. You see how that situation went, that is not how it goes. This is how they are going to be shaped.
 
 - For he hath left one behind him that is like himself.
+
+> <sup>[4](/bible/sirach/30#v4)</sup> Though his father die, yet he is as though he were not dead: for he hath left one behind him that is like himself.
+>
+> <sup>[5](/bible/sirach/30#v5)</sup> While he lived, he saw and rejoiced in him: and when he died, he was not sorrowful.
 
 - While he lived, he saw and rejoiced in him: and when he died, he was not sorrowful. He left behind him an avenger against his enemies. That is what we are trying to create here in Israel United in Christ. I am not going to be sitting in this seat forever. The leaders, the captains, bishops, deacons, they are not going to sit in this seat forever. So who are we leaving our future to? Because our forefathers had to do the exact same thing. They had to write these words so we get it today.
 
@@ -381,21 +379,9 @@ Learning requires repetition.
 
 - And one that shall requite kindness to his friends.
 
-**[Sirach 30:7-13](/bible/sirach/30#v7)**  *[[1:29:13](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=5353s)]*
+> <sup>[6](/bible/sirach/30#v6)</sup> He left behind him an avenger against his enemies, and one that shall requite kindness to his friends.
 
-> <sup>[7](/bible/sirach/30#v7)</sup> He that maketh too much of his son shall bind up his wounds; and his bowels will be troubled at every cry.
->
-> <sup>[8](/bible/sirach/30#v8)</sup> An horse not broken becometh headstrong: and a child left to himself will be wilful.
->
-> <sup>[9](/bible/sirach/30#v9)</sup> Cocker thy child, and he shall make thee afraid: play with him, and he will bring thee to heaviness.
->
-> <sup>[10](/bible/sirach/30#v10)</sup> Laugh not with him, lest thou have sorrow with him, and lest thou gnash thy teeth in the end.
->
-> <sup>[11](/bible/sirach/30#v11)</sup> Give him no liberty in his youth, and wink not at his follies.
->
-> <sup>[12](/bible/sirach/30#v12)</sup> Bow down his neck while he is young, and beat him on the sides while he is a child, lest he wax stubborn, and be disobedient unto thee, and so bring sorrow to thine heart.
->
-> <sup>[13](/bible/sirach/30#v13)</sup> Chastise thy son, and hold him to labour, lest his lewd behaviour be an offence unto thee.
+**[Sirach 30:7-13](/bible/sirach/30#v7)**  *[[1:29:13](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=5353s)]*
 
 - He that maketh too much of his son shall bind up his wounds. This is you spoiling that kid. That kid can do no evil. You are always protecting him from judgment. Oh no, that is not my son. My son does not, you cannot talk to my son like that. You cannot judge my son. Do not do this. That is a womanly spirit.
 
@@ -403,9 +389,15 @@ Learning requires repetition.
 
 - And his bowels will be troubled at every cry.
 
+> <sup>[7](/bible/sirach/30#v7)</sup> He that maketh too much of his son shall bind up his wounds; and his bowels will be troubled at every cry.
+>
+> <sup>[8](/bible/sirach/30#v8)</sup> An horse not broken becometh headstrong: and a child left to himself will be wilful.
+
 - An horse not broken becometh headstrong: and a child left to himself will be wilful. And that is the generation that we see. These kids are being left to themselves. Parents have got to go to work. Parents are never home. And when you are home you are not mentally there. You are not dealing with the kids. They are left to their own devices and learning the things that entertain them until they become it.
 
 - Because it is going to become habit. If it becomes unchecked it is going to become habit. And that habit becomes lifestyle. That lifestyle, it pollutes the whole land and it becomes culture. And that grown man is going to have to make a decision, just like old boy in the other video where his mom taught him to steal. He is going to have to make up in his mind, am I going to continue to live like this, get better at being like this, or am I going to change?
+
+> <sup>[9](/bible/sirach/30#v9)</sup> Cocker thy child, and he shall make thee afraid: play with him, and he will bring thee to heaviness.
 
 - Cocker thy child, and he shall make thee afraid: play with him, and he will bring thee to heaviness. If you play with these kids, meaning you wink at their ignorance, you do not correct their mistakes, he is going to cause you problems. Now the police are knocking at your door telling you that you are going to jail for not disciplining your kids, or they just take the kids away from you, send them into foster care and all of these things, because you are not dealing with them properly.
 
@@ -419,15 +411,15 @@ Learning requires repetition.
 
 - Chastise thy son, and hold him to labour, lest his lewd behaviour be an offence unto thee. The government would not step in and get the sweat equity. You as a parent are supposed to be getting that sweat equity. You are supposed to teach them how to be adults, because once they are out of your house they have got to do it anyway. At least it can benefit them and their nation.
 
-**[Proverbs 13:1-4](/bible/proverbs/13#v1)**  *[[1:45:56](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=6356s)]*
+> <sup>[10](/bible/sirach/30#v10)</sup> Laugh not with him, lest thou have sorrow with him, and lest thou gnash thy teeth in the end.
+>
+> <sup>[11](/bible/sirach/30#v11)</sup> Give him no liberty in his youth, and wink not at his follies.
+>
+> <sup>[12](/bible/sirach/30#v12)</sup> Bow down his neck while he is young, and beat him on the sides while he is a child, lest he wax stubborn, and be disobedient unto thee, and so bring sorrow to thine heart.
+>
+> <sup>[13](/bible/sirach/30#v13)</sup> Chastise thy son, and hold him to labour, lest his lewd behaviour be an offence unto thee.
 
-> <sup>[1](/bible/proverbs/13#v1)</sup> A wise son heareth his father’s instruction: but a scorner heareth not rebuke.
->
-> <sup>[2](/bible/proverbs/13#v2)</sup> A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence.
->
-> <sup>[3](/bible/proverbs/13#v3)</sup> He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.
->
-> <sup>[4](/bible/proverbs/13#v4)</sup> The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.
+**[Proverbs 13:1-4](/bible/proverbs/13#v1)**  *[[1:45:56](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=6356s)]*
 
 - A wise son heareth his father's instruction. So a wise son is going to hear his father's instruction. And what that does in the brain, it gives that notion of how to take instructions, getting used to taking instructions from a man, to normalize it. So when you go out into society, that mutual respect that you give your father, you are going to see it in other men that are like your father. Like the ecosystem and the community that we are building here in Israel United in Christ, my son can see other men that look like me, behave like me. So therefore he is going to be more ready to take instruction from men like that. And the same goes for the sisters. But they have to be put in that environment to receive instructions.
 
@@ -441,9 +433,17 @@ Learning requires repetition.
 
 - It is the same thing with the scriptures. When you first come in as a brother, you are still going to be attached to the life that you are coming out of, transitioning into this life. Somebody has to instruct you.
 
+> <sup>[1](/bible/proverbs/13#v1)</sup> A wise son heareth his father’s instruction: but a scorner heareth not rebuke.
+>
+> <sup>[2](/bible/proverbs/13#v2)</sup> A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence.
+
 - A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence.
 
+> <sup>[3](/bible/proverbs/13#v3)</sup> He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.
+
 - He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.
+
+> <sup>[4](/bible/proverbs/13#v4)</sup> The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.
 
 - The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat. This is the society that we have created. A bunch of sluggard men. They have not been instructed on what hard work is. And even yourself, how many books can you say that you have read and completed in your lifetime as an adult? And then to take it a step further, how many books have you read outside of the Bible and completed as an adult? Now put that on the kid. Are you challenging them to create a habit of starting something and finishing it?
 
@@ -492,8 +492,6 @@ Learning requires repetition.
 **[Proverbs 13:20-21](/bible/proverbs/13#v20)**  *[[2:00:11](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=7211s)]*
 
 > <sup>[20](/bible/proverbs/13#v20)</sup> He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
->
-> <sup>[21](/bible/proverbs/13#v21)</sup> Evil pursueth sinners: but to the righteous good shall be repayed.
 
 - He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
 
@@ -503,29 +501,21 @@ Learning requires repetition.
 
 - So you have got to look at the life that we are living. If you are a diligent brother or sister in this congregation and you are doing the works, those things will be mentioned when it is time for you to go through your trial. Hey, such and such is going through this and this, we want to do something about it, what can we do? Versus the brother or sister that, yeah, they barely show up, they do not do anything, they are not in any communities, I do not even know who you are talking about right now. Do you think a community is more inclined to help that person versus this person? No.
 
-**[Sirach 3:1-8](/bible/sirach/3#v1)**  *[[2:09:06](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=7746s)]*
+> <sup>[21](/bible/proverbs/13#v21)</sup> Evil pursueth sinners: but to the righteous good shall be repayed.
 
-> <sup>[1](/bible/sirach/3#v1)</sup> Hear me your father, O children, and do thereafter, that ye may be safe.
->
-> <sup>[2](/bible/sirach/3#v2)</sup> For the Lord hath given the father honour over the children, and hath confirmed the authority of the mother over the sons.
->
-> <sup>[3](/bible/sirach/3#v3)</sup> Whoso honoureth his father maketh an atonement for his sins:
->
-> <sup>[4](/bible/sirach/3#v4)</sup> And he that honoureth his mother is as one that layeth up treasure.
->
-> <sup>[5](/bible/sirach/3#v5)</sup> Whoso honoureth his father shall have joy of his own children; and when he maketh his prayer, he shall be heard.
->
-> <sup>[6](/bible/sirach/3#v6)</sup> He that honoureth his father shall have a long life; and he that is obedient unto the Lord shall be a comfort to his mother.
->
-> <sup>[7](/bible/sirach/3#v7)</sup> He that feareth the Lord will honour his father, and will do service unto his parents, as to his masters.
->
-> <sup>[8](/bible/sirach/3#v8)</sup> Honour thy father and mother both in word and deed, that a blessing may come upon thee from them.
+**[Sirach 3:1-8](/bible/sirach/3#v1)**  *[[2:09:06](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=7746s)]*
 
 - Hear me your father, O children, and do thereafter, that ye may be safe.
 
 - For the Lord hath given the father honour over the children, and hath confirmed the authority of the mother over the sons. That is saying a lot. It is telling us the order of the household, because a son about nine, ten years old, he starts to feel himself, and whoopings from mom, getting fussed at from mom, it starts to wear off. But that is when the dad steps in, hey listen, you do not talk to your mama like that, you do not deal with my wife like that. And it is teaching him the commandments. How do you discipline yourself when I am gone and out of town? You do not treat your mother like that. You have got to be who I am when I am not in the house. How can she trust you to take care of her when you are dealing with her wrongfully, when you are not honoring her?
 
 - Confirming that, son, no matter how old you are, you are never going to be older than your mama. Though you will be a ruler in Israel, you will never get to the age or position to disrespect your mom, to treat her less than you. She is always going to be the authority over you. And we constantly have to instill that into our sons, because our sons will overtake our women and they will get tired. Like, that is just what he is. They will make too much of their sons. They will let them do whatever they want to do because they cannot control them.
+
+> <sup>[1](/bible/sirach/3#v1)</sup> Hear me your father, O children, and do thereafter, that ye may be safe.
+>
+> <sup>[2](/bible/sirach/3#v2)</sup> For the Lord hath given the father honour over the children, and hath confirmed the authority of the mother over the sons.
+>
+> <sup>[3](/bible/sirach/3#v3)</sup> Whoso honoureth his father maketh an atonement for his sins:
 
 - Whoso honoureth his father maketh an atonement for his sins: and he that honoureth his mother is as one that layeth up treasure. Because the Lord sees that. He sees how you treat your parents, how you treat the authority over you. And that authority is not just your own mother and father. It is your elders. It is the respect going back to our forefathers in the scriptures, because that is who we are listening to ultimately, what Moses wrote. We are showing our respect to his sacrifices. We are showing the respect of Abraham, Isaac and Jacob, of what they instilled in us, that we rely on and respect them. We are taking the words of King Solomon and King David and saying, yes sir, I am going to do what you told me to do. And that ultimately goes to the ears and the eyes of the Lord, that we are going to listen to the Father that created us by listening to our parents.
 
@@ -538,6 +528,16 @@ Learning requires repetition.
 - He that feareth the Lord will honour his father, and will do service unto his parents, as to his masters. He will do service unto his parents, meaning that they are going to obey. Yes sir, I am going to do that, I am on it. And that is teaching him how to govern his own life, because that masters part is going into, you are going to be a slave at some point. You are going to have to employ yourself. Even if you are an entrepreneur you are going to have to work for a living. You are going to be at somebody's service, providing services. You are going to have to deal with clients and customers. You are always going to have somebody ruling over you. So if you can do it with your parents, as much as it annoys you, bothers you, as painstaking as it is, the long suffering of being a kid trying to grow up, you are going to know how to be a servant. Because that is what it is, being a child. You are a servant to your parents, and they are teaching you how to be a servant in life, because you are going to be responsible for being a servant to God. It is all training to serve God. So if you can serve your parents at a child's level, then you can serve men at an adult level. And if you can serve God as an adult, then you can deal with the Most High and his chastening that comes with the consequences of your actions, whether they are good or bad.
 
 - Honour thy father and mother both in word and deed. That is, in word and deed. You cannot be a respectful kid, yes sir, yes ma'am, but then not do what they say. That throws out the politeness. You can be the best at word, but it is the deeds that matter. How are you going to listen to somebody when I am telling you, when you see the trash can full and dirty, you have got to take the trash out and clean the mess on the trash can. When it is time for the trash truck to come, you have got to put it out that day or the night before, and you have to consistently do this. You have got to remember that this is your job, your duty to do. If you cannot listen to those instructions and those words and do that deed, how are you going to be an acceptable citizen? How are you going to be an acceptable servant to God?
+
+> <sup>[4](/bible/sirach/3#v4)</sup> And he that honoureth his mother is as one that layeth up treasure.
+>
+> <sup>[5](/bible/sirach/3#v5)</sup> Whoso honoureth his father shall have joy of his own children; and when he maketh his prayer, he shall be heard.
+>
+> <sup>[6](/bible/sirach/3#v6)</sup> He that honoureth his father shall have a long life; and he that is obedient unto the Lord shall be a comfort to his mother.
+>
+> <sup>[7](/bible/sirach/3#v7)</sup> He that feareth the Lord will honour his father, and will do service unto his parents, as to his masters.
+>
+> <sup>[8](/bible/sirach/3#v8)</sup> Honour thy father and mother both in word and deed, that a blessing may come upon thee from them.
 
 **[Sirach 3:9-13](/bible/sirach/3#v9)**  *[[2:18:05](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=8285s)]*
 
@@ -569,19 +569,19 @@ Learning requires repetition.
 
 **[Romans 5:3-5](/bible/romans/5#v3)**  *[[2:24:18](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=8658s)]*
 
-> <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
->
-> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
->
-> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
-
 - And not only so, but we glory in tribulations also. Tribulations are not just, you cannot pay your bills. It is struggling in your faith. It is struggling to make righteous decisions. You have got to be patient with yourself and with others until they can get it right.
 
 - Knowing that tribulation worketh patience. So patience is the first thing when you start something new. You never know everything about something new. And you have got to have the patience, considering yourself and dealing with an inexperienced child. It has to be repeated. Too often you hear parents say, I should not have to repeat myself, I told you this, that. Okay, you did. Now let us look at the Bible. How many times did God tell the Israelites, keep the commandments or I will judge you? Keep the commandments or these curses are going to come. Stop participating in idolatry. Do not do this or I am going to send you into slavery. How many times have we heard, keep the commandments and live? If you love me you will keep the commandments. Righteousness is the keeping of the commandments. Walk this way in keeping the commandments. How many times have we as adults heard that and still chose not to do it? So imagine the patience that God has to have with us until we can get it right. It is the same thing in your kids and their habits. It is not going to come natural. It is not going to be two weeks, three weeks. Patience does not have a time limit. And this is on the side of gentle parenting, but that gentle parenting is going to come with some whoopings, some strong language maybe, until we get it right.
 
 - And patience, experience. Now that we have the patience in giving the instructions, reiterating those instructions, I noticed with my kids and their learning that I have to give them two to three examples to figure out which one works best for them. And out of the three examples that I give them, they might cling to two or one of them. And that becomes the process of how they learn. But I always have to give them those three. And I understand that in my children because that is how I learn. You cannot just tell me this, this and this, and I get it and go perform it. That is not how I learn. You are going to have to walk me through it two, three times, and I am going to have to see how it is best for me to put my hands on it and do it myself until it becomes second nature.
 
+> <sup>[3](/bible/romans/5#v3)</sup> And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
+>
+> <sup>[4](/bible/romans/5#v4)</sup> And patience, experience; and experience, hope:
+
 - And experience, hope: and hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us. The Holy Ghost is these words. These instructions is pushing us to be better. That is that Proverbs 10:22, the blessing of the Lord, it adds to you and it does not make you ashamed. It does not take anything away from you. It adds to you. It gives you those experiences, those affirmations that you are looking for, even while you are going through hard things.
+
+> <sup>[5](/bible/romans/5#v5)</sup> And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
 **[Romans 12:1-2](/bible/romans/12#v1)**  *[[2:29:33](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=8973s)]*
 
@@ -599,17 +599,11 @@ Learning requires repetition.
 
 **[Romans 13:1-4](/bible/romans/13#v1)**  *[[2:31:27](https://www.youtube.com/watch?v=gNwLUTO-JOc&t=9087s)]*
 
-> <sup>[1](/bible/romans/13#v1)</sup> Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
->
-> <sup>[2](/bible/romans/13#v2)</sup> Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
->
-> <sup>[3](/bible/romans/13#v3)</sup> For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
->
-> <sup>[4](/bible/romans/13#v4)</sup> For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.
-
 - This is the point of it all. We are all going to be subject to somebody. It had better be yourself as a parent, because if they are not subject to us and learning from us the correct ways to deal, somebody else is going to teach them. And it is a fearful thing to end up in the hands of the Lord. He is going to choose who teaches your kids if you are not teaching them through these scriptures.
 
 - Let every soul be subject unto the higher powers. That higher power is God.
+
+> <sup>[1](/bible/romans/13#v1)</sup> Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 
 - For there is no power but of God: the powers that be are ordained of God. So the men, the fathers, the mothers that are set in place are set in place by God. Now outside of the household, in this organization, from the bishops down to the deacons, captains, officers, soldiers and brothers, all that is set in place by God. It is all structure and order. So you understand the levels of power.
 
@@ -624,6 +618,12 @@ Learning requires repetition.
 - For he is the minister of God to thee for good. It is a tool of correction that the Lord has set up, with their judicial system, their government. That is the tool that the Lord is using to put us in place when we are not learning it from him.
 
 - But if thou do that which is evil, be afraid; for he beareth not the sword in vain. So if you are out here not being the parent that you are supposed to be, he is going to be given over to these ministers and they are going to teach your kids how to be. That is why we see our young kids being either euthanized or being used as sweat equity.
+
+> <sup>[2](/bible/romans/13#v2)</sup> Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
+>
+> <sup>[3](/bible/romans/13#v3)</sup> For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
+>
+> <sup>[4](/bible/romans/13#v4)</sup> For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.
 
 ## In Closing
 

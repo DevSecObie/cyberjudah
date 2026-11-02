@@ -72,14 +72,14 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Deuteronomy 8:1-3](/bible/deuteronomy/8#v1)**  *[[9:05](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=545s)]*
 
 > <sup>[1](/bible/deuteronomy/8#v1)</sup> All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the Lord sware unto your fathers.
->
-> <sup>[2](/bible/deuteronomy/8#v2)</sup> And thou shalt remember all the way which the Lord thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no.
->
-> <sup>[3](/bible/deuteronomy/8#v3)</sup> And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the Lord doth man live.
 
 - Which the Lord sware unto your fathers: Right? So, now this is talking about going into the land of Canaan. He's saying I'm going to give you these commandments to keep so you could go into the land of Canaan and be my people.
 
+> <sup>[2](/bible/deuteronomy/8#v2)</sup> And thou shalt remember all the way which the Lord thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no.
+
 - To humble thee, and to prove thee, to know what was in thine heart: Right? So, now Moses is saying that what? The Lord gave us these commandments, had us going around 40 years to what? Humble us and see if we was going to keep the commandments, right? So, he could bless us.
+
+> <sup>[3](/bible/deuteronomy/8#v3)</sup> And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the Lord doth man live.
 
 - And fed thee with manna, which thou knewest not: See that? He said manna which thou knewest not because this was the angel's bread, which it was known as. They'd never known anything about manna. He said the manna coming from heaven. Right? So, that's what Moses is telling them, that the Lord fed you with manna which you know not, neither did your fathers know about manna.
 
@@ -91,10 +91,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[John 1:1-2](/bible/john/1#v1)**  *[[11:33](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=693s)]*
 
 > <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
->
-> <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 
 - In the beginning was the Word: Now, watch this. We still on bread. You like, damn, why we on bread, all these scriptures with bread? Yeah, we got to make sure we know what the hell we reading. Cuz when we reading the Lord's prayer, what are we saying? This very important. Right? It's very important. Remember, not bread alone, but every word that proceedeth out, right? In the beginning was the word, and the word was with God, right? And the word was God. The same was in the beginning with God, right? So now, let's get the word. And y'all should know this, right?
+
+> <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 
 
 **[Revelation 19:12-13](/bible/revelation/19#v12)**  *[[12:23](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=743s)]*
@@ -113,8 +113,6 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[John 1:1-2](/bible/john/1#v1)**  *[[13:12](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=792s)]*
 
 > <sup>[1](/bible/john/1#v1)</sup> In the beginning was the Word, and the Word was with God, and the Word was God.
->
-> <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
 
 - And the Word was with God: So, now when you look back now at John, I'm going to go right back to John 1. In the beginning was the word. And the word was with God, and Christ was what? With the Most High, with the powers, right?
 
@@ -126,11 +124,15 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 
     When you read in Isaiah 9 and 6, we going to call him, you know, counselor, wonderful, everlasting father, and all that, right?
 
+> <sup>[2](/bible/john/1#v2)</sup> The same was in the beginning with God.
+
 
 **[Proverbs 8:22-26](/bible/proverbs/8#v22)**  *[[13:52](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=832s)]*
 
 > <sup>[22](/bible/proverbs/8#v22)</sup> The Lord possessed me in the beginning of his way, before his works of old.
->
+
+- The Lord possessed me in the beginning of his way: Before his works of old, right? The Lord possessed me, right? In the beginning of his way. We just read that. In the beginning was the word, right?
+
 > <sup>[23](/bible/proverbs/8#v23)</sup> I was set up from everlasting, from the beginning, or ever the earth was.
 >
 > <sup>[24](/bible/proverbs/8#v24)</sup> When there were no depths, I was brought forth; when there were no fountains abounding with water.
@@ -138,8 +140,6 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 > <sup>[25](/bible/proverbs/8#v25)</sup> Before the mountains were settled, before the hills was I brought forth:
 >
 > <sup>[26](/bible/proverbs/8#v26)</sup> While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.
-
-- The Lord possessed me in the beginning of his way: Before his works of old, right? The Lord possessed me, right? In the beginning of his way. We just read that. In the beginning was the word, right?
 
 - While as yet he had not made the earth: So, in Genesis when it talks about when God created the earth and the earth was void, Bishop Yawasap brought something out that was beautiful. He said that that was the Lord, just the thought of the earth, right? So, that's what it's saying here. Before things was set up, before this, before that, I was there. That's why Christ was saying before I am. You know what I'm saying? I was already there before all y'all, what y'all seeing right now, cuz I was with the Father when he was planning it and then he gave me the blueprint to take care of business, right?
 
@@ -151,10 +151,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 > <sup>[28](/bible/proverbs/8#v28)</sup> When he established the clouds above: when he strengthened the fountains of the deep:
 >
 > <sup>[29](/bible/proverbs/8#v29)</sup> When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:
->
-> <sup>[30](/bible/proverbs/8#v30)</sup> Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;
 
 - When he gave to the sea his decree, that the waters should not pass his commandment: When he appointed the foundations of the earth. We went through this before where everything on the earth is keeping the commandments and has commandments to keep, the same thing as us, right? We not doing it the way we supposed to, but everything else on this planet is doing what the hell it's supposed to unless Esau comes in and mess with stuff, right?
+
+> <sup>[30](/bible/proverbs/8#v30)</sup> Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;
 
 - Then I was by him: You see that? I was by him. Remember it says in John 1, "And the word was with God." This is what it is. Then I was by him as one brought up with him and I was daily his delight, rejoicing always before him, right? We still on bread. We showing you what? We went from manna, we went to the word, every word that proceeded out of the mouth of God. We getting there, y'all.
 
@@ -162,13 +162,25 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[John 6:48-58](/bible/john/6#v48)**  *[[16:41](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=1001s)]*
 
 > <sup>[48](/bible/john/6#v48)</sup> I am that bread of life.
->
+
+- I am that bread of life: Let's go back to Luke 11. No, no, no. I'm missing something. I'm missing something. Oh, I'm sorry. Let's go to John chapter 6. This is what I want. This is what I want to bring out to y'all. Remember the manna? I'm going back to manna now. All right, we just showed who the word of God is, we know that. Now we going to get back to that manna talk that we dealt with in Deuteronomy. Almost ran off without dealing with it. Look at this. I am that bread of life. You see that? He just came straight out. I am that bread of life, right? Man shall not live by bread alone.
+
+- Remember that when we went to Deuteronomy, it says, "I'm sending you this manna," right? Which is bread, but he still said man shall not live by bread alone, right? And back in Deuteronomy, hold on. Y'all ain't got to go there, but I just want to read, it was an important point that he brought out in verse three. It says that he humbled thee and suffered thee to hunger and fed thee with manna, which thou knewest not, neither did thy fathers know, that he might make thee know, make you know, that man does not live by bread only. Right? Again, he's sending you bread to say that man shall not live by bread alone. So, the manna means something. This was something that the Lord was sending as a foreshadowing, or is an understanding that he was trying to give them in dropping the manna. And also for us so that when we read it, we could recognize what that manna was all about.
+
 > <sup>[49](/bible/john/6#v49)</sup> Your fathers did eat manna in the wilderness, and are dead.
->
+
+- Your fathers did eat manna in the wilderness, and are dead: Because most of them got put to death. Remember the Lord wasn't taking none of them. He said, "I can't deal with this congregation no more. I just put everybody to damn death. I can't stand them." That's really what he said. He said, "So, now from 20 years old and up, everybody's dead. I'm taking from 19 and down." That's what he did. So, that's what he said. Your fathers did eat manna in the wilderness and are dead cuz he killed them off cuz they refused to keep the commandments.
+
 > <sup>[50](/bible/john/6#v50)</sup> This is the bread which cometh down from heaven, that a man may eat thereof, and not die.
->
+
+- This is the bread which cometh down from heaven, that a man may eat thereof, and not die: So, this bread is what? It's talking about what? That everlasting life that you get out of keeping the commandments and being righteous. You understand? That's what the manna was representing, right?
+
 > <sup>[51](/bible/john/6#v51)</sup> I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
->
+
+- I am the living bread: Now he's letting you know, it's me. I am the living bread which came down from heaven. If any man eat of this bread, he shall live forever. And the bread that I will give is my flesh which I will give for the life of the world, right? The life of the world, before we, you know, this is like before we go too far, you know what I'm saying? Y'all know what the world is. Later on we'll deal with it. But y'all see what it is, right?
+
+- Which I will give for the life of the world: Now remember, last time I taught, we went through this when the Lord was giving them flesh. And remember those disciples that were with them and then they all left, right? Remember we talked about that, that there was some amongst us that what? They believed, but then when the Lord started speaking certain things they got up out of there. This is what he was telling them. We didn't read that part. We just got to the point where they were getting up out of there. But this is what he was reading. I'm going to keep reading. We're going to read down to verse 58, y'all, right? We at 52 now.
+
 > <sup>[52](/bible/john/6#v52)</sup> The Jews therefore strove among themselves, saying, How can this man give us his flesh to eat?
 >
 > <sup>[53](/bible/john/6#v53)</sup> Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.
@@ -182,18 +194,6 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 > <sup>[57](/bible/john/6#v57)</sup> As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.
 >
 > <sup>[58](/bible/john/6#v58)</sup> This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.
-
-- I am that bread of life: Let's go back to Luke 11. No, no, no. I'm missing something. I'm missing something. Oh, I'm sorry. Let's go to John chapter 6. This is what I want. This is what I want to bring out to y'all. Remember the manna? I'm going back to manna now. All right, we just showed who the word of God is, we know that. Now we going to get back to that manna talk that we dealt with in Deuteronomy. Almost ran off without dealing with it. Look at this. I am that bread of life. You see that? He just came straight out. I am that bread of life, right? Man shall not live by bread alone.
-
-- Remember that when we went to Deuteronomy, it says, "I'm sending you this manna," right? Which is bread, but he still said man shall not live by bread alone, right? And back in Deuteronomy, hold on. Y'all ain't got to go there, but I just want to read, it was an important point that he brought out in verse three. It says that he humbled thee and suffered thee to hunger and fed thee with manna, which thou knewest not, neither did thy fathers know, that he might make thee know, make you know, that man does not live by bread only. Right? Again, he's sending you bread to say that man shall not live by bread alone. So, the manna means something. This was something that the Lord was sending as a foreshadowing, or is an understanding that he was trying to give them in dropping the manna. And also for us so that when we read it, we could recognize what that manna was all about.
-
-- Your fathers did eat manna in the wilderness, and are dead: Because most of them got put to death. Remember the Lord wasn't taking none of them. He said, "I can't deal with this congregation no more. I just put everybody to damn death. I can't stand them." That's really what he said. He said, "So, now from 20 years old and up, everybody's dead. I'm taking from 19 and down." That's what he did. So, that's what he said. Your fathers did eat manna in the wilderness and are dead cuz he killed them off cuz they refused to keep the commandments.
-
-- This is the bread which cometh down from heaven, that a man may eat thereof, and not die: So, this bread is what? It's talking about what? That everlasting life that you get out of keeping the commandments and being righteous. You understand? That's what the manna was representing, right?
-
-- I am the living bread: Now he's letting you know, it's me. I am the living bread which came down from heaven. If any man eat of this bread, he shall live forever. And the bread that I will give is my flesh which I will give for the life of the world, right? The life of the world, before we, you know, this is like before we go too far, you know what I'm saying? Y'all know what the world is. Later on we'll deal with it. But y'all see what it is, right?
-
-- Which I will give for the life of the world: Now remember, last time I taught, we went through this when the Lord was giving them flesh. And remember those disciples that were with them and then they all left, right? Remember we talked about that, that there was some amongst us that what? They believed, but then when the Lord started speaking certain things they got up out of there. This is what he was telling them. We didn't read that part. We just got to the point where they were getting up out of there. But this is what he was reading. I'm going to keep reading. We're going to read down to verse 58, y'all, right? We at 52 now.
 
 - This is that bread which came down from heaven: That's what he's trying to tell you. "I'm the manna. I am the manna which came down from heaven. That's me." "Man shall not live by bread alone." That's what he told Satan. "Man shall not live by bread alone." They got to live by me. They got to come through me to get to the Father. That's what he's saying, right? This is that bread which came down from heaven. Not as your fathers did eat manna and are dead. He that eateth of this bread shall live forever. Y'all understand? That's what that's talking about in Luke 11.
 
@@ -215,10 +215,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[1 John 3:4-5](/bible/1-john/3#v4)**  *[[22:05](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=1325s)]*
 
 > <sup>[4](/bible/1-john/3#v4)</sup> Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.
->
-> <sup>[5](/bible/1-john/3#v5)</sup> And ye know that he was manifested to take away our sins; and in him is no sin.
 
 - Whosoever committeth sin transgresseth also the law: First of all, what is a sin? Whosoever committeth sin transgresseth also the law, right? So in order to commit sin, that means you're breaking the law. That means the law is in effect, right? To any Christians that might see this video, or y'all been watching us, cuz we got a thousand videos out talking about what is sin, but we always got to stay on it. The point is you're not allowed to sin. The law is not done away with. It says it right here in the New Testament, way to the back of the New Testament. This is the most newest of the Testament that you could get. All right, whosoever committed sin transgresses also the law, for sin is the transgression of the law.
+
+> <sup>[5](/bible/1-john/3#v5)</sup> And ye know that he was manifested to take away our sins; and in him is no sin.
 
 - He was manifested to take away our sins: Now watch this. And you know that he was manifested to take away our sins. He was manifested, who? Christ, to take away our sins and in him is no sin. Right?
 
@@ -259,10 +259,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[1 Peter 2:21-22](/bible/1-peter/2#v21)**  *[[26:08](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=1568s)]*
 
 > <sup>[21](/bible/1-peter/2#v21)</sup> For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:
->
-> <sup>[22](/bible/1-peter/2#v22)</sup> Who did no sin, neither was guile found in his mouth:
 
 - Leaving us an example, that ye should follow his steps: For even hereunto were ye called because Christ also suffered for us, leaving us an example that ye should follow his steps.
+
+> <sup>[22](/bible/1-peter/2#v22)</sup> Who did no sin, neither was guile found in his mouth:
 
 - Who did no sin: Very important. We're going to get to something. Who did no sin, cuz that's what it said in 1 John 3:4, neither was guile found in his mouth, right? So, he didn't commit any sin. Now, this is important for what we're going to from Luke chapter 11 and verse 4, that he forgive our sins, right? That's what we're asking him to do, to forgive our sins. So, now what we're doing is going through that he put his life out there and allowed himself to be killed for us to be able to be redeemed through him, right? Y'all going to see where I'm going with this.
 
@@ -279,10 +279,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[1 John 2:3-4](/bible/1-john/2#v3)**  *[[28:24](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=1704s)]*
 
 > <sup>[3](/bible/1-john/2#v3)</sup> And hereby we do know that we know him, if we keep his commandments.
->
-> <sup>[4](/bible/1-john/2#v4)</sup> He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.
 
 - If we keep his commandments: Why are they saying that? And hereby we do know that we know him if we keep his commandments, right? So 1 John 3 is saying, "If you sinning, you don't know him." Why? Because it already said it here in chapter 2, but I want to get something for you.
+
+> <sup>[4](/bible/1-john/2#v4)</sup> He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.
 
 - He that saith, I know him, and keepeth not his commandments, is a liar: How many of them, we on the street teaching, or y'all might be talking to people, and they saying, oh, I'm a Christian. Oh, I love Jesus. Oh, I got my personal relationship with Jesus. You keep the commandments? No, you a liar. You don't love Christ at all. And you don't know him. That's the point. Cuz had you known him, you would have known you had to keep the commandments. How simple is that? How beautiful and simple is that? That's why I told about the simplicity in Christ. What is it that we need to be humbling and bumbling and jumbling all around about? It's clear. Who says they know him and keeps not the commandments is a liar, and the truth is not in you. Meaning what? These commandments is not in you. That's why you saying what you saying. Right?
 
@@ -292,12 +292,12 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 > <sup>[6](/bible/1-john/3#v6)</sup> Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.
 >
 > <sup>[7](/bible/1-john/3#v7)</sup> Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.
->
+
+- Little children, let no man deceive you: He that does righteousness is righteous, even as he is righteous, right? If you are doing righteousness, then you're righteous. Right? Period. You do righteousness, you righteous.
+
 > <sup>[8](/bible/1-john/3#v8)</sup> He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
 >
 > <sup>[9](/bible/1-john/3#v9)</sup> Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.
-
-- Little children, let no man deceive you: He that does righteousness is righteous, even as he is righteous, right? If you are doing righteousness, then you're righteous. Right? Period. You do righteousness, you righteous.
 
 - Whosoever is born of God doth not commit sin: Whosoever is born again, right? Understanding, keeping the commandments and the faith of Christ, does not commit sin. Woo. For his seed remaineth in him, and he cannot sin, because he is born of God. Wait a minute. Hold on a second now. I'm going to ask one of y'all. I got to ask a question, and somebody answer me. Can you sin? Because according to this, it says that we cannot sin. Let me read it again. Whosoever is born of God doth not commit sin. For his seed remaineth in him, and he cannot sin, hmm, because he is born of God. So, all of y'all that's in the truth, can you sin? Is this a true statement? Is this a true statement that you cannot sin? What does that mean?
 
@@ -363,20 +363,20 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Matthew 18:15-17](/bible/matthew/18#v15)**  *[[39:25](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=2365s)]*
 
 > <sup>[15](/bible/matthew/18#v15)</sup> Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.
->
-> <sup>[16](/bible/matthew/18#v16)</sup> But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established.
->
-> <sup>[17](/bible/matthew/18#v17)</sup> And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.
 
 - If thy brother shall trespass against thee: Remember, we want to now give forgiveness to those who doing something to us. We sin against the Lord, but now when people sin against us now, you know what I'm saying? This is meaning what? Offend us and so on and so forth, right?
 
 - Go and tell him his fault between thee and him alone: Now we talked about this the last time how we got people from different walks of life, right? Amongst us. And we're not all cut from the same cloth. So there's going to be times of offense, disrespect, things like that because the way they raised up is not the way you raised up. What they say out of their mouth, they don't think it's disrespectful. That's how they been. You know it's disrespectful because you come from a different place where people get slapped for talking crazy and they don't come from that, right? I just gave that as an example. So now, the Lord said, "If you get offended like that, then go speak to that person one-on-one. It's just between you and your brother alone." All right?
+
+> <sup>[16](/bible/matthew/18#v16)</sup> But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established.
 
 - Then take with thee one or two more, that in the mouth of two or three witnesses every word may be established: So now you speak to that person one-on-one. That person is saying, "Well, listen, I ain't offend you. What I said is not, no, that's not offensive. You know what I'm saying? That's how I talk." Okay. So you bring one or two with you. My brother, like I told you before, you said this to me, X, Y, and Z to me. Why are the one and two witnesses there? So now they can listen and hear what you said to them and what the person said back. Now if the person come back with that same energy, "Yo, like I said, I didn't offend you. It's how I talk." Now you got two witnesses there showing that this man or woman refuses to acquiesce and recognize that they have offended you and they must apologize. That's what the Lord is bringing these two parties together for.
 
 - Let's say that the person who offended you didn't even really mean to offend you. The fact that you're coming to them means that that person is offended. So if you say something to a person, you didn't mean offense, they come to you and say they're offended, you say, "Okay, I apologize for that." And I'm going to tell y'all later. Now, don't do "if I apologize," cuz see, "if I offended you." See, once you do that, you're disrespectful. Now, I'm just keeping it a buck. "If I offended you by saying..." No, you're disrespectful. If the person comes forth and say, "You offended me," just say, "Okay, I apologize. I didn't even mean it like that. What exactly is it that I said that I..." Now you start to ask questions so you don't make that same mistake, whether you meant it or not, because you want to keep the love and everything between you and this brother or you and this sister. This is what the Lord is trying to get through to us. We don't hold no grudges.
 
 - Because if you keep fighting, "Oh, no, I didn't say, I didn't do it. I didn't mean to do that." Then we got drama compiling and all of a sudden we're going to fight. Or y'all ain't going to talk to each other. Or y'all not going to help each other when we need help. The Lord is not with that. See, so if you don't do that, guess what? Then the Lord can't help you. But again, I just digress a little bit. I just wanted to give y'all an understanding on Matthew 18 and how we ought to apply it. It's very very important within the congregation and within life. Right?
+
+> <sup>[17](/bible/matthew/18#v17)</sup> And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.
 
 - Tell it unto the church: And if he shall neglect to hear them, if he shall neglect to hear you who brought it to his attention and the two witnesses, tell it to the church, meaning you got to bring it to the leadership now.
 
@@ -386,10 +386,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Matthew 18:18-19](/bible/matthew/18#v18)**  *[[43:14](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=2594s)]*
 
 > <sup>[18](/bible/matthew/18#v18)</sup> Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
->
-> <sup>[19](/bible/matthew/18#v19)</sup> Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.
 
 - Whatsoever ye shall bind on earth shall be bound in heaven: That's heavy. That's heavy. Watch this. "And whatsoever you shall loose on earth shall be loosed in heaven." Meaning what? If you choose now to forgive that individual, then the Lord is going to forgive that individual and forgive you when you come forth to ask forgiveness. But whatever you bind and whatever you loose, whatever your decision is at that time, the Lord is going to back the play. That's what it's saying. So, if you feel like, "No, I refuse to accept the apology, Lord." He said, "Okay, cool. That's your choice. But when you come to me, I'm not accepting what you talking about neither." No. Nope. That's what it say the scriptures, leave your gift at the altar, go and deal with your brother, then come back to me. Cuz you can't love me whom you never seen, but your brother who you see every day you hate. Y'all understand? Regardless of whether you extra tight or cool with that person, you're still brother, sister. Y'all understand? The Lord is not accepting the hate. Period. All right?
+
+> <sup>[19](/bible/matthew/18#v19)</sup> Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.
 
 - If two of you shall agree on earth as touching any thing that they shall ask: Right? And this is one thing I want to, and we're kind of slightly going off, but really not. For you brothers and sisters who are proving, right? Or about to prove or want to prove. The leadership has said 1-year minimum. Right? 1-year minimum proving, right? With no touching, no whatever. No sexual contact, none of that. Strictly phone conversation, see each other at the school, possible going out and having a chaperone, no monkey business. Right? What y'all must understand, that's not found anywhere in the Bible. Let me just put it to y'all like that. That's not in the Bible anywhere to chill for a year, do nothing, and then get married after at least a minimum of year of getting to know somebody. But let me explain something to y'all. Because the Lord set up the leadership, when they set that policy in place, the Lord is now backing the policy. This is why I'm saying, whatsoever you shall bind on earth shall be bound in heaven. That's what you got to understand.
 
@@ -401,10 +401,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 > <sup>[20](/bible/matthew/18#v20)</sup> For where two or three are gathered together in my name, there am I in the midst of them.
 >
 > <sup>[21](/bible/matthew/18#v21)</sup> Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?
->
-> <sup>[22](/bible/matthew/18#v22)</sup> Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.
 
 - Lord, how oft shall my brother sin against me, and I forgive him? till seven times?: Now, y'all know I talk about Peter a lot. Peter was a hard-headed cat. You know, he was a real tough guy, right? So, he trying to figure out, if much people offended me, I want to just, I want to smack somebody. He's really saying that, right? He's really saying that, but he ain't saying that to Christ like that cuz Christ already know what Peter's about. So, he says to him, "How many times I got to forgive this guy? Maybe seven times, right?"
+
+> <sup>[22](/bible/matthew/18#v22)</sup> Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.
 
 - Until seventy times seven: Now, if you do the actual math, that's like 490 times, right? That's not what Christ talking about. Christ talking about anytime one of your brothers come and offend you, brother, you must offend him if he comes and asks for that forgiveness. Now, the Lord said that in the book of Luke, that what? Let's get that real quick. Luke 17.
 
@@ -474,12 +474,12 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Leviticus 19:17-18](/bible/leviticus/19#v17)**  *[[54:36](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=3276s)]*
 
 > <sup>[17](/bible/leviticus/19#v17)</sup> Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
->
-> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not hate thy brother in thine heart: Y'all know the scripture. But we got to keep reading it cuz some of, although we know it, we see much beef in the school all the time. "Oh, man, this happened." Did you speak to him? "No." Oh my god. And this is the law. This is the basics. But clearly it's not basic because people don't like to use it, right? But now, Luke 19:17, we going to read it slow for all of y'all who like to hold grudges and be angry, you know what I'm saying? The scripture say be angry and sin not. There's nothing wrong with being angry, you know what I'm saying? We all have to get over some level of anger management, things like that. I'm not saying you got to go to get it taken care of cuz the Bible is sort of like an anger management. The brothers around you can, you know, kind of set you in place a little bit after you go off a couple of times. They got to verbally and spiritually smack you up. But we got to read this.
 
 - Thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him: So the brother's being called the neighbor, hate is being called when you don't let the person know what they did to you. That's it. If you don't let them know, that's called hate because that means that you trying to have a problem. It could be that they don't know what they did. They don't know that that bothered you. They don't know they said something wrong. Come on, y'all. All right?
+
+> <sup>[18](/bible/leviticus/19#v18)</sup> Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
 - Thou shalt not avenge, nor bear any grudge against the children of thy people: Now, in this truth, I've been in the truth for a long time. Well, good while. You know, when compared to the bishop and them, not really in there long, but you see a lot. And things that happen, you cannot be getting revenge. Like, sometimes some things happen where somebody really does something to you. They really have violated the program. It does happen. Even that, the Lord said, "No. Vengeance is mine. I'm going to take care of it. You just sit there and do what I told you to do." Matthew 18. Go deal with the brother. You ain't got to be best friends, but the conversation has to be had. All got to be worked out. Cool. Y'all shake hands, moving on. "I'm going to take it from there." Remember that, y'all. Don't be trying to lay in the weeds on this then. And you start thinking like yourself back in the days, "Let me just lay in the weeds for him to come out. I'm going to get him while he come out. I'm going to, you know what I mean?" No. That's crazy.
 
@@ -489,26 +489,26 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Sirach 28:1-7](/bible/sirach/28#v1)**  *[[57:49](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=3469s)]*
 
 > <sup>[1](/bible/sirach/28#v1)</sup> He that revengeth shall find vengeance from the Lord, and he will surely keep his sins in remembrance.
->
-> <sup>[2](/bible/sirach/28#v2)</sup> Forgive thy neighbour the hurt that he hath done unto thee, so shall thy sins also be forgiven when thou prayest.
->
-> <sup>[3](/bible/sirach/28#v3)</sup> One man beareth hatred against another, and doth he seek pardon from the Lord?
->
-> <sup>[4](/bible/sirach/28#v4)</sup> He sheweth no mercy to a man, which is like himself: and doth he ask forgiveness of his own sins?
->
-> <sup>[5](/bible/sirach/28#v5)</sup> If he that is but flesh nourish hatred, who will intreat for pardon of his sins?
->
-> <sup>[6](/bible/sirach/28#v6)</sup> Remember thy end, and let enmity cease; remember corruption and death, and abide in the commandments.
->
-> <sup>[7](/bible/sirach/28#v7)</sup> Remember the commandments, and bear no malice to thy neighbour: remember the covenant of the Highest, and wink at ignorance.
 
 - He that revengeth shall find vengeance from the Lord: We got some more scriptures to go to. I know I'm kind of talking a lot, but I want to make sure this goes in well, want to make sure y'all getting it. You see, this is what we just talking about. He that revenges shall find vengeance from the Lord. I did a class on that one time saying, "Don't get involved with the Lord's vengeance." It's a class called Vengeance Is Mine, Saith the Lord, because if you go out and get vengeance now, now the Lord got to touch you cuz you messed up the whole thing. You got involved. "Oh, so you want to get vengeance on your own? Okay, so now, what that person did, I already wiped them clean now. Now, I'm dealing with you right now, cuz now you're messing up what I had going on. I had something set up lovely. You want to go in and get your own? No, cool. That's all he getting now, and now I'm dealing with you. What he was going to get, I'm going to give it to you." I just want to give y'all that. It might not be exactly like that, but y'all understand what I'm saying. Don't get no revenge. Don't bear a grudge.
 
 - And he will surely keep his sins in remembrance: Hey, no, I don't want a part of that.
 
+> <sup>[2](/bible/sirach/28#v2)</sup> Forgive thy neighbour the hurt that he hath done unto thee, so shall thy sins also be forgiven when thou prayest.
+>
+> <sup>[3](/bible/sirach/28#v3)</sup> One man beareth hatred against another, and doth he seek pardon from the Lord?
+
 - One man beareth hatred against another, and doth he seek pardon from the Lord?: You see? If you here bearing hatred towards brothers and sisters, your wife, your husband, how you going to the Lord really and saying, "Lord, please forgive me for what I did." He's like, "Are you serious? Are you kidding me or what? You didn't speak to your wife for like 10 weeks. Like, what are you talking about? She's saying, 'Let's talk and let's work this out.' And you refuse to..." You're not getting forgiveness. Same thing for you wives. Y'all getting mad at your husband over some foolishness. He ain't trying to hear nothing you talking about. I'm telling you straight. I'm telling you straight. And I'm talking about brothers and sisters regard, I just use the marriage because I know y'all spend the most time together, right?
 
+> <sup>[4](/bible/sirach/28#v4)</sup> He sheweth no mercy to a man, which is like himself: and doth he ask forgiveness of his own sins?
+
 - He sheweth no mercy to a man, which is like himself: Like what we just read. And doth he ask forgiveness of his own sins? You just like that man. He committed sin. Okay, cool. Try to talk to him again. You don't got to be best friends with him after that. Maybe y'all don't click like that. Cool. But still talk it out. Don't hold no grudge cuz the Lord is watching. The Lord is watching.
+
+> <sup>[5](/bible/sirach/28#v5)</sup> If he that is but flesh nourish hatred, who will intreat for pardon of his sins?
+>
+> <sup>[6](/bible/sirach/28#v6)</sup> Remember thy end, and let enmity cease; remember corruption and death, and abide in the commandments.
+>
+> <sup>[7](/bible/sirach/28#v7)</sup> Remember the commandments, and bear no malice to thy neighbour: remember the covenant of the Highest, and wink at ignorance.
 
 - Remember the commandments, and bear no malice to thy neighbour: That's what we just read, Luke 19:17. That's why I came here, right?
 
@@ -518,34 +518,34 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Acts 17:16-23](/bible/acts/17#v16)**  *[[1:01:31](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=3691s)]*
 
 > <sup>[16](/bible/acts/17#v16)</sup> Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.
->
-> <sup>[17](/bible/acts/17#v17)</sup> Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.
->
-> <sup>[18](/bible/acts/17#v18)</sup> Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.
->
-> <sup>[19](/bible/acts/17#v19)</sup> And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?
->
-> <sup>[20](/bible/acts/17#v20)</sup> For thou bringest certain strange things to our ears: we would know therefore what these things mean.
->
-> <sup>[21](/bible/acts/17#v21)</sup> (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)
->
-> <sup>[22](/bible/acts/17#v22)</sup> Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.
->
-> <sup>[23](/bible/acts/17#v23)</sup> For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.
 
 - Now while Paul waited for them at Athens: Let's go to the book of Acts 17 because what? We got to wink at ignorance. Why? Because the Lord winked at our ignorance. Remember before we read in 1 Peter chapter 2, 21, 22, it said that the Lord did things in a certain way, no guile was found in him, and that we should follow his footsteps as an example, right? So, now I'm going to show you an example of the Lord. We ought to do what he did with us, right? Watch this. And I know it's not always easy, family. It's not about it being easy, it just has to be done. That's all. Same thing when y'all was trying to join teams, football team, basketball team, all these kind of teams, y'all was training and jumping over and all type of stuff and doing whatever you had to do physically to get there to beat out everybody else. So, whatever you did then, do spiritually, get your mind right, and go apply Matthew 18 and get yourself together, and what? Learn forgiveness of your people.
 
 - When he saw the city wholly given to idolatry: So, when he came there, they were all dealing with idolatry. They're all worshipping idols, right?
 
+> <sup>[17](/bible/acts/17#v17)</sup> Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.
+
 - Therefore disputed he in the synagogue with the Jews, and with the devout persons: So, he's going back and forth with devout persons, the Jews, meaning what? They were still keeping the laws of sacrifice, so on and so forth. They're going back and forth.
+
+> <sup>[18](/bible/acts/17#v18)</sup> Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.
 
 - Then certain philosophers of the Epicureans, and of the Stoicks, encountered him: You had the Epicureans, they had like all different type of understandings. Like today, you go down to certain cities, I'm just saying for instance, like some art gallery or open mic, and then one is a Buddhist, one is a 5%er, one is a Muslim, one is a damn, what else you call it? Anglican, whatever. But they all kicking it. They just kicking different philosophies, right? That was the Epicureans. And then you had the Stoics, who the Stoics basically says what they are. They were just stoic, you know, just straightforward, right? Then certain philosophers of the Epicureans and of the Stoics encountered him. Who? Paul.
 
 - He seemeth to be a setter forth of strange gods: Because he preached unto them Jesus and the resurrection. So they were like, "What this cat talking about?" You know what I mean? Because they kicking amongst themselves. Now all of a sudden he's coming through. They talking about, "Yo, he kicking about some strange stuff, man. Talking about the resurrection of God and all this." So they want to hear what he got to say.
 
+> <sup>[19](/bible/acts/17#v19)</sup> And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?
+>
+> <sup>[20](/bible/acts/17#v20)</sup> For thou bringest certain strange things to our ears: we would know therefore what these things mean.
+
 - For thou bringest certain strange things to our ears: So they saying, "Yo, we ain't never heard nothing like this before. You know, drop it on us," right? Cuz that's what them guys like to do. Like especially where I see that, you know, I came up in New York. That's how New Yorkers, everybody got some kind of like, "Yo, what you talking about?" "Oh, now you know, I'm the 5%er. Yo, today's mathematics." And some of y'all don't know what the hell I'm talking about, but this is the craziness that was going on, right? And everybody got something to say. You bring out the Israelites, they'll be like, "Yo, that sound good, but you know what I'm saying? We Muslim, you know, Allahu Akbar, you know, boom boom boom, arm leg arm head, you know what I'm saying? Crazy." It's just a lot of banter going back and forth, right? So when I'm reading this, it reminds me of when I was coming up in New York. That's how it was, right?
 
+> <sup>[21](/bible/acts/17#v21)</sup> (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)
+
 - For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing: So, that's all they did all day was kick it on these different philosophies.
+
+> <sup>[22](/bible/acts/17#v22)</sup> Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.
+>
+> <sup>[23](/bible/acts/17#v23)</sup> For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.
 
 - Whom therefore ye ignorantly worship, him declare I unto you: So, Paul's now saying, "I come in here and I see y'all real superstitious. Y'all got something up calling it the unknown God." Meaning what? That they knew there was a God. Remember what it say in Romans 10, I think Romans 10, it says, "You have a zeal for God but not according to knowledge." That's how people are. We got a zeal. We going into anything. We know there's a God but not according to knowledge. So, this is what Paul is saying, that what? Whom therefore you ignorantly worship, right? Him declare I unto you. Remember we talked about winking at ignorance. So, now he's telling them they're being ignorant. They're trying to find God. He said, "But who you call the unknown God, I'm going to declare this God unto you," right?
 
@@ -568,25 +568,25 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 > <sup>[1](/bible/leviticus/4#v1)</sup> And the Lord spake unto Moses, saying,
 >
 > <sup>[2](/bible/leviticus/4#v2)</sup> Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the Lord concerning things which ought not to be done, and shall do against any of them:
->
-> <sup>[3](/bible/leviticus/4#v3)</sup> If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the Lord for a sin offering.
->
-> <sup>[4](/bible/leviticus/4#v4)</sup> And he shall bring the bullock unto the door of the tabernacle of the congregation before the Lord; and shall lay his hand upon the bullock’s head, and kill the bullock before the Lord.
 
 - If a soul shall sin through ignorance against any of the commandments of the Lord: Now, this was always in effect. What I'm telling you, this ignorance and sin has always been in effect and there was something put in the law about it. All right, so y'all make sure y'all take this down. Leviticus chapter 4. All right? Remember they said the word was made flesh, right? So, Christ was coming through showing us how to do the law cuz remember there's no more sacrifices, right? But we still have to do what? These law, and this was beautiful about this, right?
 
+> <sup>[3](/bible/leviticus/4#v3)</sup> If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the Lord for a sin offering.
+
 - A young bullock without blemish unto the Lord for a sin offering: Right? So, you had to do that for a sin offering even if your sin was through ignorance. This was the physical version of the Lord winking at ignorance is what I'm trying to explain to y'all, right? So, there's no more law of sacrifices and this is why we have to understand that we got to keep the law because all these things are still in effect. Y'all understand?
+
+> <sup>[4](/bible/leviticus/4#v4)</sup> And he shall bring the bullock unto the door of the tabernacle of the congregation before the Lord; and shall lay his hand upon the bullock’s head, and kill the bullock before the Lord.
 
 
 **[Leviticus 4:13-15](/bible/leviticus/4#v13)**  *[[1:08:26](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4106s)]*
 
 > <sup>[13](/bible/leviticus/4#v13)</sup> And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the Lord concerning things which should not be done, and are guilty;
->
+
+- And if the whole congregation of Israel sin through ignorance: Right? So, before it was just that one person. If you personally sin, now it's saying the congregation shall sin through ignorance. Could be anything, right? Maybe you celebrating one of the high holy days on the wrong day. Things like this, all right? This is what sinning through ignorance, all right?
+
 > <sup>[14](/bible/leviticus/4#v14)</sup> When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation.
 >
 > <sup>[15](/bible/leviticus/4#v15)</sup> And the elders of the congregation shall lay their hands upon the head of the bullock before the Lord: and the bullock shall be killed before the Lord.
-
-- And if the whole congregation of Israel sin through ignorance: Right? So, before it was just that one person. If you personally sin, now it's saying the congregation shall sin through ignorance. Could be anything, right? Maybe you celebrating one of the high holy days on the wrong day. Things like this, all right? This is what sinning through ignorance, all right?
 
 - And the bullock shall be killed before the Lord: So this is for sin offering, right? Ignorance, sinning out of ignorance, all right? So we got to always remember that the Lord even through the ignorance of our sin still always created a space for us to return and come back, all right, y'all?
 
@@ -601,20 +601,20 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Sirach 2:1-5](/bible/sirach/2#v1)**  *[[1:10:25](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4225s)]*
 
 > <sup>[1](/bible/sirach/2#v1)</sup> My son, if thou come to serve the Lord, prepare thy soul for temptation.
->
-> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
->
-> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
->
-> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
->
-> <sup>[5](/bible/sirach/2#v5)</sup> For gold is tried in the fire, and acceptable men in the furnace of adversity.
 
 - My son, if thou come to serve the Lord, prepare thy soul for temptation: This is very important, y'all. Right? So the Lord is telling you, "When you come to me and you about to serve me, give up everything and start to serve me, prepare yourself for temptation." Meaning what? Now that you coming and you declaring I'm an Israelite, I'm keeping the commandments of God, boom, I'm going to be an example to the rest of the family of the Israelites who are unrepentant, now, Satan is going to take a special interest in you. That's what y'all got to understand. Some of y'all are like, "Damn, I came in here and things are just getting rough for me." Oh, yeah. Oh, yeah, cuz Satan is on you. He's definitely coming for you, 100%. Prepare your soul for temptation.
 
+> <sup>[2](/bible/sirach/2#v2)</sup> Set thy heart aright, and constantly endure, and make not haste in time of trouble.
+
 - Set thy heart aright: Get your mind right. And constantly endure, and make not haste in the time of trouble.
 
+> <sup>[3](/bible/sirach/2#v3)</sup> Cleave unto him, and depart not away, that thou mayest be increased at thy last end.
+>
+> <sup>[4](/bible/sirach/2#v4)</sup> Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate.
+
 - Whatsoever is brought upon thee take cheerfully, and be patient when thou art changed to a low estate: Like we were talking earlier about what, maybe losing a job, business going down, whatever, whatever. We're saying, be cheerful, meaning what? Just stay in the spirit. That's what it's saying. Cuz you're not going to be, "Oh, man, yes, this happened." You're not going to do that, right? But you're going to stay in the spirit and wait, be patient, cuz the Lord is working something. You just stay with you and do what you got to do.
+
+> <sup>[5](/bible/sirach/2#v5)</sup> For gold is tried in the fire, and acceptable men in the furnace of adversity.
 
 - For gold is tried in the fire, and acceptable men in the furnace of adversity: So, when you're going through these adverse conditions, it's to do what? To pull you through that fire, and to what? Make you an acceptable man to get to the kingdom. That's what it's saying, right? That's what it's saying.
 
@@ -631,20 +631,20 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Revelation 3:9-12](/bible/revelation/3#v9)**  *[[1:13:22](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4402s)]*
 
 > <sup>[9](/bible/revelation/3#v9)</sup> Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
->
-> <sup>[10](/bible/revelation/3#v10)</sup> Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
->
-> <sup>[11](/bible/revelation/3#v11)</sup> Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
->
-> <sup>[12](/bible/revelation/3#v12)</sup> Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
 
 - Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie: All right, these are my favorite scriptures, but we going to read through, right? Behold, I will make them come and worship before thy feet and to know that I have loved thee.
+
+> <sup>[10](/bible/revelation/3#v10)</sup> Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
 
 - Because thou hast kept the word of my patience: That's when they going to come. That's when you're going to be allowed to see that. When you keeping those commandments, that's when you going to see Amalek coming. "Oh my god, you know, yeah, y'all are the real Jews for real." Yeah, that's when you're going to see that, right?
 
 - I also will keep thee from the hour of temptation, which shall come upon all the world: To try them that dwell on the earth, right? Now, it goes a little deeper. We'll leave that alone for now, but it goes a little deeper. But the point is, there's going to be a time where the temptation is going to come real heavy, right? That hour, right? I'm not going to go into because that's a whole class right there, right? That's a whole class right there, right?
 
+> <sup>[11](/bible/revelation/3#v11)</sup> Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
+
 - Hold that fast which thou hast, that no man take thy crown: Behold, I come quickly. That's the point. That no man take your crown. Hold fast. Don't let nobody come at the last minute. "Oh man, don't worry about all that, you know, that whole Israelite thing, that ain't nothing, you know, that's dumb. Why you can't have a man outside of the Bible?" Why, you know, start talking to y'all sisters, putting stuff in y'all head. Right? Y'all might be unmarried at the time or whatever or even married. But I'm more with the single women, right? And you looking for a husband or whatever and it's not coming as fast, right? Cuz we got protocol here, things you got to go through. It ain't like in the world you just jump out and just get smashed. You meet a dude and just lay up with him. No, no, no, no. Hell no, right? But what Satan come talking at and what take your crown? Same thing with a man. You start dealing with some demon, it take your crown, reducing a man to a piece of bread, that kind of stuff, right? That's why the Lord is saying what? Hold that fast which thou hast, that no man take thy crown.
+
+> <sup>[12](/bible/revelation/3#v12)</sup> Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
 
 - Which is new Jerusalem, which cometh down out of heaven from my God: Him that overcometh will I make a pillar in the temple of my God. It is good we read that. Because it said that new Jerusalem which coming out of heaven. That's what we reading right now, the Lord's Prayer in Luke 11:3 and 4. That's what we reading. So that goes perfectly, right? So again, there's no temptation that what? Let us resist temptation, right? All praises.
 
@@ -652,10 +652,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[James 1:1-2](/bible/james/1#v1)**  *[[1:16:30](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4590s)]*
 
 > <sup>[1](/bible/james/1#v1)</sup> James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
->
-> <sup>[2](/bible/james/1#v2)</sup> My brethren, count it all joy when ye fall into divers temptations;
 
 - To the twelve tribes which are scattered abroad: I know I'm holding y'all long. We almost done, y'all. I just want to make sure we driving this home, you know what I mean? The 12 tribes are scattered all over the place, right?
+
+> <sup>[2](/bible/james/1#v2)</sup> My brethren, count it all joy when ye fall into divers temptations;
 
 - My brethren, count it all joy when ye fall into divers temptations: You heard that? Count it joy when you fall into diverse temptations. Why? Cuz you going to have an opportunity to get up out of that to show, y'all see the boxing. You going to block the shots, y'all. You know what I'm saying? That's what it's talking about. Cuz now you going to do what? You going to get yourself out of this. You in the temptation, you in a hard spot, or something tempting you or whatever, you going to use the commandments of God to get you up out of that. And what? You going to build your spirit up. That's what it's talking about. That's why I say to be happy when that happens cuz the Lord is doing what? He's trying your spirit to do what? To bring you closer, to raise you up. All right?
 
@@ -663,20 +663,20 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[James 1:12-15](/bible/james/1#v12)**  *[[1:17:09](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4629s)]*
 
 > <sup>[12](/bible/james/1#v12)</sup> Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
->
-> <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
->
-> <sup>[14](/bible/james/1#v14)</sup> But every man is tempted, when he is drawn away of his own lust, and enticed.
->
-> <sup>[15](/bible/james/1#v15)</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 
 - Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life: We just going to jump, y'all. That's what we just read. So that your crown don't get taken, right? When you were tried, right? When you tempted and tried, you're going to get over it and what? You're going to receive the crown of life. Man, this is a beautiful thing, y'all. This is a beautiful thing.
 
+> <sup>[13](/bible/james/1#v13)</sup> Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
+
 - For God cannot be tempted with evil, neither tempteth he any man: You see that? No, it's you. Let me read the next part.
+
+> <sup>[14](/bible/james/1#v14)</sup> But every man is tempted, when he is drawn away of his own lust, and enticed.
 
 - But every man is tempted, when he is drawn away of his own lust, and enticed: That's where the temptation come from, right? Because it's what you see, the lust in you, that's making you tempted, actually, right? I'm going to use the woman again. That woman just looked like the type of woman you like, so that's tempting you. Did the Lord put her there? Yeah, he made it, put on the earth, but that ain't got nothing to do with, she over there minding her business. You the one that looked, "Oh my God, look at that." And you running. Didn't the Lord say you do that? Satan coming, "Yo, don't she look good?" That's what y'all got to understand about Satan. He ain't doing nothing, he's just talking. "Damn, man. You might be able to get her in the truth, you know what I mean? Go talk to her, tell her, you know what I mean? She might. Yeah, go ahead. Go ahead. Go do that."
 
 - And hey, you know what's funny? Some brothers got wives. That's what y'all did. Y'all was in the world, y'all went talked the scriptures to them and got into some madness and then, you know, the Lord still would let y'all repent. Although y'all went off, y'all was crazy as hell back door. But y'all together now slugging it out with each other. But it is what it is, right? But sometimes the Lord put that in your head, not the Lord, but Satan will put that in your head that you can go and get this woman and teach her the scriptures and have sex with her and bring her in as your wife. Don't let Satan do that. All right? I'm sorry, y'all.
+
+> <sup>[15](/bible/james/1#v15)</sup> Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
 
 - Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death: Let me read verse 14 again. That's it. You feel me? That is what it is. All right?
 
@@ -691,16 +691,16 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Galatians 1:1-4](/bible/galatians/1#v1)**  *[[1:19:34](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4774s)]*
 
 > <sup>[1](/bible/galatians/1#v1)</sup> Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
->
+
+- Paul, an apostle, not of men, neither by man, but by Jesus Christ: Cuz Christ is the one that brought Paul in. Right?
+
+- And God the Father, who raised him from the dead: So we know that Jesus Christ and the Father is different.
+
 > <sup>[2](/bible/galatians/1#v2)</sup> And all the brethren which are with me, unto the churches of Galatia:
 >
 > <sup>[3](/bible/galatians/1#v3)</sup> Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
 >
 > <sup>[4](/bible/galatians/1#v4)</sup> Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
-
-- Paul, an apostle, not of men, neither by man, but by Jesus Christ: Cuz Christ is the one that brought Paul in. Right?
-
-- And God the Father, who raised him from the dead: So we know that Jesus Christ and the Father is different.
 
 - That he might deliver us from this present evil world, according to the will of God and our Father: Y'all see that? We know the will of God is keeping the commandments. That's how we going to be delivered from this present evil world. That's why the Lord's prayer say deliver us from evil. Okay? Deliver us from evil.
 
@@ -708,10 +708,10 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[2 Peter 2:9-10](/bible/2-peter/2#v9)**  *[[1:21:10](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4870s)]*
 
 > <sup>[9](/bible/2-peter/2#v9)</sup> The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:
->
-> <sup>[10](/bible/2-peter/2#v10)</sup> But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities.
 
 - The Lord knoweth how to deliver the godly out of temptations: You see that? The Lord know how to deliver the godly out of temptations and to reserve the unjust unto the day of judgment to be punished. Okay?
+
+> <sup>[10](/bible/2-peter/2#v10)</sup> But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities.
 
 - And despise government. Presumptuous are they, selfwilled: Right? Despise what? Leadership. Despise on how to move, right? Presumptuous are they, self-willed. They are not afraid to speak evil of things that they, I shouldn't have went there, really. But I just wanted to show the self-willed part. That when you being self-willed and presumptuous, you going to go against the laws of God and do what? You're not going to be delivered from evil. You're not going to be delivered out of those temptations. Okay?
 
@@ -719,12 +719,12 @@ tags: ["15 Minutes w/ The Captains", "mercy", "the-word"]
 **[Psalms 18:17-18](/bible/psalms/18#v17)**  *[[1:21:52](https://www.youtube.com/watch?v=d_OsAr39Rtk&t=4912s)]*
 
 > <sup>[17](/bible/psalms/18#v17)</sup> He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.
->
-> <sup>[18](/bible/psalms/18#v18)</sup> They prevented me in the day of my calamity: but the Lord was my stay.
 
 - He delivered me from my strong enemy: The last one. Last one, y'all. We'll end it here. I love this one right here. Right? So this is David at the time he was going up against Saul. He was, and the other nations as well. It was on the cracking, right? This is the song he was writing based on those times.
 
 - And from them which hated me: for they were too strong for me: You see that? He delivered me from my strong enemy, and what? They prevented me in the day of my calamity, but the Lord was my stay. All right?
+
+> <sup>[18](/bible/psalms/18#v18)</sup> They prevented me in the day of my calamity: but the Lord was my stay.
 
 
 ## Class Questions

@@ -47,16 +47,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "prophecy"]
 **[Genesis 49:10-12](/bible/genesis/49#v10)**  *[[2:26](https://www.youtube.com/watch?v=l4ROGno7js4&t=146s)]*
 
 > <sup>[10](/bible/genesis/49#v10)</sup> The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
->
-> <sup>[11](/bible/genesis/49#v11)</sup> Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
->
-> <sup>[12](/bible/genesis/49#v12)</sup> His eyes shall be red with wine, and his teeth white with milk.
 
 - The sceptre shall not depart from Judah: the scepter, the king, shall not depart from Judah. Christ came from the tribe of Judah.
 
 - Nor a lawgiver from between his feet: so who has given the law? Who gave Moses the law in the Old Testament? It was Christ in the bush.
 
 - Until Shiloh come: until Shiloh come, the peaceable one. And unto him shall the gathering of the people be: unto him. Who's the him? Christ. So he's the one that's got all the 12 tribes of Israel.
+
+> <sup>[11](/bible/genesis/49#v11)</sup> Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
+>
+> <sup>[12](/bible/genesis/49#v12)</sup> His eyes shall be red with wine, and his teeth white with milk.
 
 - His eyes shall be red with wine: so his eyes was red with wine. That's the same thing you read in Revelation, the first chapter and the 14th verse, about Christ.
 
@@ -77,26 +77,26 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "prophecy"]
 
 **[Numbers 21:8-9](/bible/numbers/21#v8)**  *[[3:57](https://www.youtube.com/watch?v=l4ROGno7js4&t=237s)]*
 
-> <sup>[8](/bible/numbers/21#v8)</sup> And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.
->
-> <sup>[9](/bible/numbers/21#v9)</sup> And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
-
 - So the Bible says, to understand the Bible you must be what? Precept upon precept. Here a little, and there a little. That's how we know that the God of the Old Testament was Christ. That's why he says, lo, I come in the volume of the book.
 
+> <sup>[8](/bible/numbers/21#v8)</sup> And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.
+
 - Make thee a fiery serpent, and set it upon a pole: that was when the Lord sent the fiery serpent in the wilderness to the Israelites that was murmuring against God.
+
+> <sup>[9](/bible/numbers/21#v9)</sup> And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 
 - When he beheld the serpent of brass, he lived: when you look upon the serpent, he lived.
 
 
 **[John 3:14-15](/bible/john/3#v14)**  *[[4:56](https://www.youtube.com/watch?v=l4ROGno7js4&t=296s)]*
 
-> <sup>[14](/bible/john/3#v14)</sup> And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
->
-> <sup>[15](/bible/john/3#v15)</sup> That whosoever believeth in him should not perish, but have eternal life.
-
 - You Christians love that John chapter 3 verse 16. But you never read verse 14, and verse 15 explain verse 16, in conjunction with Numbers 21:6 to 9. You want to understand John 3:16? That's the precept for it. So you could understand what Christ was telling Nicodemus in the book of John chapter 3.
 
+> <sup>[14](/bible/john/3#v14)</sup> And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
+
 - And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: he was that serpent to the Israelites. So that will represent Christ. That's why he said, lo, I come in the volume of the book.
+
+> <sup>[15](/bible/john/3#v15)</sup> That whosoever believeth in him should not perish, but have eternal life.
 
 - That whosoever believeth in him should not perish, but have eternal life: so whosoever look upon the serpent shall not perish. Same thing that the Lord told Moses.
 
@@ -146,15 +146,15 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "prophecy"]
 
 **[Psalms 22:16-18](/bible/psalms/22#v16)**  *[[9:24](https://www.youtube.com/watch?v=l4ROGno7js4&t=564s)]*
 
+- I don't even have to explain that one.
+
 > <sup>[16](/bible/psalms/22#v16)</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
->
+
+- They pierced my hands and my feet: did that happen to King David? No, that didn't happen to King David.
+
 > <sup>[17](/bible/psalms/22#v17)</sup> I may tell all my bones: they look and stare upon me.
 >
 > <sup>[18](/bible/psalms/22#v18)</sup> They part my garments among them, and cast lots upon my vesture.
-
-- I don't even have to explain that one.
-
-- They pierced my hands and my feet: did that happen to King David? No, that didn't happen to King David.
 
 - They part my garments among them, and cast lots upon my vesture: that did not happen to King David. So King David in the spirit was prophesying about what was going to happen to Christ.
 
@@ -191,14 +191,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "prophecy"]
 **[Matthew 1:21-23](/bible/matthew/1#v21)**  *[[12:12](https://www.youtube.com/watch?v=l4ROGno7js4&t=732s)]*
 
 > <sup>[21](/bible/matthew/1#v21)</sup> And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
->
-> <sup>[22](/bible/matthew/1#v22)</sup> Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,
->
-> <sup>[23](/bible/matthew/1#v23)</sup> Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
 
 - And thou shalt call his name JESUS: she is the virgin. Thou shalt call his name Jesus.
 
+> <sup>[22](/bible/matthew/1#v22)</sup> Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,
+
 - That it might be fulfilled which was spoken of the Lord by the prophet: might be fulfilled what Isaiah spoke about, the virgin and the sign, which was Christ. So the Lord was telling the prophet what's going to happen to him when he comes, how he's going to come. That's why they was waiting for the Messiah, cuz they knew he was coming.
+
+> <sup>[23](/bible/matthew/1#v23)</sup> Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
 
 
 **[Isaiah 9:6](/bible/isaiah/9#v6)**  *[[13:09](https://www.youtube.com/watch?v=l4ROGno7js4&t=789s)]*
@@ -311,10 +311,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "prophecy"]
 **[Matthew 21:4-5](/bible/matthew/21#v4)**  *[[19:50](https://www.youtube.com/watch?v=l4ROGno7js4&t=1190s)]*
 
 > <sup>[4](/bible/matthew/21#v4)</sup> All this was done, that it might be fulfilled which was spoken by the prophet, saying,
->
-> <sup>[5](/bible/matthew/21#v5)</sup> Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.
 
 - All this was done, that it might be fulfilled which was spoken by the prophet: tell ye the daughter of Sion, behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.
+
+> <sup>[5](/bible/matthew/21#v5)</sup> Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.
 
 
 **[Zechariah 11:13](/bible/zechariah/11#v13)**  *[[20:11](https://www.youtube.com/watch?v=l4ROGno7js4&t=1211s)]*
@@ -345,25 +345,25 @@ tags: ["15 Minutes w/ The Captains", "christ", "leadership", "prophecy"]
 **[Revelation 5:11-12](/bible/revelation/5#v11)**  *[[21:37](https://www.youtube.com/watch?v=l4ROGno7js4&t=1297s)]*
 
 > <sup>[11](/bible/revelation/5#v11)</sup> And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
->
-> <sup>[12](/bible/revelation/5#v12)</sup> Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
 
 - And the number of them was ten thousand times ten thousand: see, he coming with the 10,000 of his saints.
+
+> <sup>[12](/bible/revelation/5#v12)</sup> Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
 
 - Worthy is the Lamb that was slain: so who came with the 10,000 Enoch prophesied? The lamb, which was Christ.
 
 
 **[Luke 3:36-38](/bible/luke/3#v36)**  *[[22:38](https://www.youtube.com/watch?v=l4ROGno7js4&t=1358s)]*
 
+- Cuz Enoch was with Adam, right? Let's see where Adam was.
+
 > <sup>[36](/bible/luke/3#v36)</sup> Which was the son of Cainan, which was the son of Arphaxad, which was the son of Sem, which was the son of Noe, which was the son of Lamech,
 >
 > <sup>[37](/bible/luke/3#v37)</sup> Which was the son of Mathusala, which was the son of Enoch, which was the son of Jared, which was the son of Maleleel, which was the son of Cainan,
->
-> <sup>[38](/bible/luke/3#v38)</sup> Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.
-
-- Cuz Enoch was with Adam, right? Let's see where Adam was.
 
 - Which was the son of Enoch, which was the son of Jared: two. Mahalaleel: three. Cainan: four. Enos, Seth: seven from Adam.
+
+> <sup>[38](/bible/luke/3#v38)</sup> Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.
 
 - Which was the son of Adam, which was the son of God: so Adam was the son of God. And Adam in the spirit was Christ. So seventh from Adam, Enoch prophesied about Christ coming.
 

@@ -24,14 +24,14 @@ tags: ["15 Minutes w/ The Captains", "justice", "the-law"]
 **[Deuteronomy 16:18-19](/bible/deuteronomy/16#v18)**  *[[3:18](https://www.youtube.com/watch?v=ybaORWNqFEk&t=198s)]*
 
 > <sup>[18](/bible/deuteronomy/16#v18)</sup> Judges and officers shalt thou make thee in all thy gates, which the Lord thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.
->
-> <sup>[19](/bible/deuteronomy/16#v19)</sup> Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous.
 
 - Judges and officers shalt thou make thee in all thy gates: this is the Most High God giving commandments to Israel, all the way back in the Old Testament. So if only God could judge you, why would he tell you to make judges and officers in all of your gates, in all of your cities, in all your courts? God is giving you the authority to judge.
 
 - Throughout thy tribes: and they shall judge the people. It was a commandment from God for you to judge the people.
 
 - With just judgment: judgment that comes from the scriptures.
+
+> <sup>[19](/bible/deuteronomy/16#v19)</sup> Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous.
 
 - Thou shalt not wrest judgment: don't fight to try to turn judgment into something of man. It is of God. Thou shalt not respect persons, neither take a gift: don't get bribed for your judgments.
 
@@ -40,13 +40,13 @@ tags: ["15 Minutes w/ The Captains", "justice", "the-law"]
 
 **[1 Esdras 8:23-24](/bible/1-esdras/8#v23)**  *[[5:54](https://www.youtube.com/watch?v=ybaORWNqFEk&t=354s)]*
 
-> <sup>[23](/bible/1-esdras/8#v23)</sup> And thou, Esdras, according to the wisdom of God ordain judges and justices, that they may judge in all Syria and Phenice all those that know the law of thy God; and those that know it not thou shalt teach.
->
-> <sup>[24](/bible/1-esdras/8#v24)</sup> And whosoever shall transgress the law of thy God, and of the king, shall be punished diligently, whether it be by death, or other punishment, by penalty of money, or by imprisonment.
-
 - We just read it in Deuteronomy. Now we're reading it in 1 Esdras.
 
+> <sup>[23](/bible/1-esdras/8#v23)</sup> And thou, Esdras, according to the wisdom of God ordain judges and justices, that they may judge in all Syria and Phenice all those that know the law of thy God; and those that know it not thou shalt teach.
+
 - According to the wisdom of God ordain judges and justices: according to the Bible. And those that know it not thou shalt teach: those that don't understand the judgments that come from the Bible, those that you set up for judges are to teach the people. They're not doing that in these churches and so-called houses of worship. They keep giving you a false sense of security, talking about only God can judge you, but God is telling you to set up judges among the people.
+
+> <sup>[24](/bible/1-esdras/8#v24)</sup> And whosoever shall transgress the law of thy God, and of the king, shall be punished diligently, whether it be by death, or other punishment, by penalty of money, or by imprisonment.
 
 - Whosoever shall transgress the law of thy God, and of the king, shall be punished diligently, whether it be by death, or other punishment, by penalty of money, or by imprisonment: your whole legal system that the other nations operate today actually came from the scriptures. Fines, imprisonment, or death for breaking the laws. God gave it to us way back when.
 
@@ -118,12 +118,12 @@ Reading from a definition of judging, on screen  *[[11:49](https://www.youtube.c
 **[Psalms 37:30-31](/bible/psalms/37#v30)**  *[[14:54](https://www.youtube.com/watch?v=ybaORWNqFEk&t=894s)]*
 
 > <sup>[30](/bible/psalms/37#v30)</sup> The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.
->
-> <sup>[31](/bible/psalms/37#v31)</sup> The law of his God is in his heart; none of his steps shall slide.
 
 - The mouth of the righteous speaketh wisdom: the mouth of those that keep God's commandments. All praises for the leadership right here in IUIC, because that's what they speak, wisdom.
 
 - And his tongue talketh of judgment: his tongue talks of the things that God loves. The righteous are going to be talking and doing and performing the acts that God loves. Don't be deceived and don't get a false sense of security with only God can judge me. No. Righteous spiritual men can judge you.
+
+> <sup>[31](/bible/psalms/37#v31)</sup> The law of his God is in his heart; none of his steps shall slide.
 
 - The law of his God is in his heart; none of his steps shall slide: he wakes up in the morning, he's thinking about God's laws. Through the course of a day, he or she is thinking about God's laws.
 
@@ -141,19 +141,19 @@ Reading from a definition of judging, on screen  *[[11:49](https://www.youtube.c
 
 **[Sirach 11:7-9](/bible/sirach/11#v7)**  *[[18:11](https://www.youtube.com/watch?v=ybaORWNqFEk&t=1091s)]*
 
-> <sup>[7](/bible/sirach/11#v7)</sup> Blame not before thou hast examined the truth: understand first, and then rebuke.
->
-> <sup>[8](/bible/sirach/11#v8)</sup> Answer not before thou hast heard the cause: neither interrupt men in the midst of their talk.
->
-> <sup>[9](/bible/sirach/11#v9)</sup> Strive not in a matter that concerneth thee not; and sit not in judgment with sinners.
-
 - Not only did God tell you to become a judge and judge the people, he also gave you the instructions on how to judge.
 
+> <sup>[7](/bible/sirach/11#v7)</sup> Blame not before thou hast examined the truth: understand first, and then rebuke.
+
 - Blame not before thou hast examined the truth: understand first, and then rebuke. Take the time to understand things and situations. Have conversations. Do a little bit of discernment.
+
+> <sup>[8](/bible/sirach/11#v8)</sup> Answer not before thou hast heard the cause: neither interrupt men in the midst of their talk.
 
 - Answer not before thou hast heard the cause: neither interrupt men in the midst of their talk. Strive not in a matter that concerneth thee not; and sit not in judgment with sinners.
 
 - So understand, the Lord loves judgment. God is not the only one that can judge. He gave the ability to his saints, so-called blacks, Hispanics, Native Americans.
+
+> <sup>[9](/bible/sirach/11#v9)</sup> Strive not in a matter that concerneth thee not; and sit not in judgment with sinners.
 
 
 ## In Closing

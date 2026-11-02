@@ -99,14 +99,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[Luke 18:18-22](/bible/luke/18#v18)**  *[[12:06](https://www.youtube.com/watch?v=PsPg5BzShFA&t=726s)]*
 
 > <sup>[18](/bible/luke/18#v18)</sup> And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?
->
-> <sup>[19](/bible/luke/18#v19)</sup> And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God.
->
-> <sup>[20](/bible/luke/18#v20)</sup> Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.
->
-> <sup>[21](/bible/luke/18#v21)</sup> And he said, All these have I kept from my youth up.
->
-> <sup>[22](/bible/luke/18#v22)</sup> Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
 
 - And a certain ruler asked him saying, Good master, what shall I do to inherit eternal life?: Now, that's one of the things that all of us should ask ourselves. We ask our leaders. The Christians don't even ask the pastors. The Christians don't ever ask, "Hey, how can I get the kingdom of heaven?" Cuz according to Christianity, all you got to do is come up to the altar, put your hands up, say you're saved, and you got the kingdom already. You don't have to do nothing else. You don't have to do no works. You can do whatever you want to do in life, and all you got to do is just say, "Yes, I believe in Jesus. I'm saved." And now you got the kingdom of heaven.
 
@@ -115,6 +107,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 - Thou knowest the commandments. Do not commit adultery. Do not kill. Do not steal. Do not bear false witness. Honor thy father and thy mother: All of those commandments are commandments of loving your neighbor as yourself. Loving your neighbor as yourself. That's called being a man in understanding. When you go back to Romans 12, cuz we use that to show not to be men in malice, but children in malice. Now, watch this.
 
 - Be not wise in your own conceits: This man was wise in his own conceits. He said, "What should I do to inherit eternal" Christ was giving him the laws of loving your neighbor as you love yourself. "Don't commit adultery. Don't steal. Don't kill. Honor your father and your mother." Watch what he says.
+
+> <sup>[19](/bible/luke/18#v19)</sup> And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God.
+>
+> <sup>[20](/bible/luke/18#v20)</sup> Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.
+>
+> <sup>[21](/bible/luke/18#v21)</sup> And he said, All these have I kept from my youth up.
 
 - All these have I kept from my youth up: So, he said, "Okay. All right. Oh, I've been doing that since I was young." All right. Okay. That's why we got to watch out for what we say. We have to watch out for what we say. Watch this.
 
@@ -136,18 +134,20 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 
     Let's go to Proverbs 11:28. They say, "If you trust in your riches, you're going to fall."
 
+> <sup>[22](/bible/luke/18#v22)</sup> Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
+
 
 **[Revelation 3:15-17](/bible/revelation/3#v15)**  *[[17:39](https://www.youtube.com/watch?v=PsPg5BzShFA&t=1059s)]*
 
 > <sup>[15](/bible/revelation/3#v15)</sup> I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.
->
-> <sup>[16](/bible/revelation/3#v16)</sup> So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.
->
-> <sup>[17](/bible/revelation/3#v17)</sup> Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:
 
 - I know thy works, that thou art neither cold nor hot: That's why let's go to Revelations chapter 3. I'mma start at 15. Because this is why Christ said what he said about those that are rich in this world. Now, there's nothing wrong with being rich as long as you are doing the righteous thing with your riches. You understand?
 
 - Because thou art lukewarm, and neither cold nor hot, I will spew thee out of my mouth: So, he's like, "Y'all are kind of lukewarm. Y'all are one foot in this truth, one foot in the world." That's lukewarm. This is why they're lukewarm.
+
+> <sup>[16](/bible/revelation/3#v16)</sup> So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.
+>
+> <sup>[17](/bible/revelation/3#v17)</sup> Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:
 
 - Because thou sayest, I am rich, and increased with goods, and have need of nothing: You trusting in your riches, you're going to fall. You don't know that you're miserable and wretched. You have no treasures in heaven. None. No treasures whatsoever in heaven.
 
@@ -173,16 +173,16 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[Acts 4:32-35](/bible/acts/4#v32)**  *[[21:00](https://www.youtube.com/watch?v=PsPg5BzShFA&t=1260s)]*
 
 > <sup>[32](/bible/acts/4#v32)</sup> And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common.
->
-> <sup>[33](/bible/acts/4#v33)</sup> And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.
->
-> <sup>[34](/bible/acts/4#v34)</sup> Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
->
-> <sup>[35](/bible/acts/4#v35)</sup> And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.
 
 - Neither said any of them that ought of the things which he possessed was his own; but they had all things common: Let's go to the book of Acts. The book of Acts chapter four. And I'mma start at verse 32. They didn't say, "Yeah, this is my money." "Yeah, this is my car." "Yeah, this is mine." They didn't say that there was their own. They had all things common. Look, if I got a car, you always have a ride. If I got it, you got it. That's how you know it was black people. If I got it, you got it. That's how we supposed to be. That's how royalty is supposed to act. If I got it, you got it.
 
+> <sup>[33](/bible/acts/4#v33)</sup> And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.
+>
+> <sup>[34](/bible/acts/4#v34)</sup> Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
+
 - For as many as were possessors of lands or houses sold them: Remember it didn't say a land or a house. They didn't sell the one house that they had. They said they was possessors of lands with a s and houses with a s.
+
+> <sup>[35](/bible/acts/4#v35)</sup> And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need.
 
 - And laid them down at the apostles' feet: and distribution was made unto every man according as he had need: So, they had the abundance, they brought it to the leaders, and they said, "Look, whoever needs whatever, y'all go ahead and disseminate that." That's the alms that we give today. That's what the alms are for today. Brothers and sisters need help in the body, we all pitch in together and help that person out. That's what loving your neighbor as you love yourself partially is going into. If we have one mind, one spirit, we're all going to act that same exact way. That's called charity. We're supposed to have charity.
 
@@ -190,10 +190,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[1 Corinthians 13:1-2](/bible/1-corinthians/13#v1)**  *[[23:58](https://www.youtube.com/watch?v=PsPg5BzShFA&t=1438s)]*
 
 > <sup>[1](/bible/1-corinthians/13#v1)</sup> Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
->
-> <sup>[2](/bible/1-corinthians/13#v2)</sup> And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
 
 - Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal: Like Paul said, let's go to 1 Corinthians 13 real quick. 1 Corinthians 13 and I'mma start at 1. So, you can know 13 languages, but you are not a charitable person. You're nothing.
+
+> <sup>[2](/bible/1-corinthians/13#v2)</sup> And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
 
 - And have not charity, I am nothing: That's what we got to understand. You know all of this knowledge, you so puffed up in what you know. That's why Christ said you got to humble yourself as a little child. Children have charity. Naturally. That's why you say, "Oh, can I have some?" You go to a little kid that you know. "Hey, can I have some?" And they do it.
 
@@ -203,10 +203,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[Luke 18:24-25](/bible/luke/18#v24)**  *[[25:50](https://www.youtube.com/watch?v=PsPg5BzShFA&t=1550s)]*
 
 > <sup>[24](/bible/luke/18#v24)</sup> And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!
->
-> <sup>[25](/bible/luke/18#v25)</sup> For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God.
 
 - How hardly shall they that have riches enter into the kingdom of God!: Back to Luke 18, verse 24. It said a it's easier for a rich man to go through a needle's eye.
+
+> <sup>[25](/bible/luke/18#v25)</sup> For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God.
 
 - For it is easier for a camel to go through a needle's eye: So, I want to show y'all something. This right here is called the eye of a needle. It's a very small doorway. And a camel had to stoop down in order to get through it. It was very difficult for a camel to get through it. It's not talking about a literal needle eye of a needle. It's a camel, of course. Your finger can't even go through a eye of a sewing needle. It's not what it was talking about. The eye of a needle was talking about this thing right here, this little doorway that a camel had to pass through. You understand? It was very difficult for them to get through it.
 
@@ -226,14 +226,14 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[1 Corinthians 4:6-8](/bible/1-corinthians/4#v6)**  *[[28:33](https://www.youtube.com/watch?v=PsPg5BzShFA&t=1713s)]*
 
 > <sup>[6](/bible/1-corinthians/4#v6)</sup> And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
->
-> <sup>[7](/bible/1-corinthians/4#v7)</sup> For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?
->
-> <sup>[8](/bible/1-corinthians/4#v8)</sup> Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you.
 
 - That no one of you be puffed up for one against another: Let's go to 1 Corinthians chapter 4. I'm start at verse 7. No, let me start at verse 6. That was the point. They didn't want us to be puffed up against one another. Why? Because for one, we're all Israel. We're all working toward the same goal. We're all unprofitable servants. You understand? We all need grace and mercy. We all need kindness from the Lord. We all need charity from one another. We all was foolish. We was all worthy of death. You understand what I'm saying? We all have these things that we need. Don't be puffed up one against another.
 
+> <sup>[7](/bible/1-corinthians/4#v7)</sup> For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?
+
 - For who maketh thee to differ from another? and what hast thou that thou didst not receive?: You act like a angel came floating down from heaven and gave you this knowledge all his self. So you didn't learn it from nobody. Nobody freely gave this information to you. You learned this all on your own. That's how people act. That's how people act. They come into this truth. Some may fall out and go back into the world or take off and do their own thing and they act as if they didn't learn from nobody else. They act as if they wasn't taught this information. They act as if that it came to them it just wisdom just poured out of their spirit and just seeped through their pores and it just came down. They are the anointed cherub. All of that stuff. That's being puffed up.
+
+> <sup>[8](/bible/1-corinthians/4#v8)</sup> Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you.
 
 - Now ye are full, now ye are rich, ye have reigned as kings without us: So then they was full. That's why they was puffed up because they was full. They was rich. They had money. They had wealth. They had status. They had position. Don't allow your position to stop you from doing this work. You understand? Because there was a man that didn't allow his position.
 
@@ -256,10 +256,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 > <sup>[38](/bible/john/19#v38)</sup> And after this Joseph of Arimathea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.
 >
 > <sup>[39](/bible/john/19#v39)</sup> And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight.
->
-> <sup>[40](/bible/john/19#v40)</sup> Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.
 
 - And there came also Nicodemus: Let's go to John 19. John 19 and 38. So, I'mma show you another it's the same situation, but they told you somebody else was here. So, they gave Christ a proper burial. A proper burial. And it was Nicodemus, who had a position of power, he was a ruler among the Jews, and Joseph of Arimathea, who was a very rich man, he had power and authority as well. They came and gave Christ a proper burial. So, our people got to use their position, not just sit there and do whatever they want to do with it. No, that's not the way things go.
+
+> <sup>[40](/bible/john/19#v40)</sup> Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.
 
 
 **[Luke 18:26-27](/bible/luke/18#v26)**  *[[34:31](https://www.youtube.com/watch?v=PsPg5BzShFA&t=2071s)]*
@@ -301,10 +301,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[Luke 18:31-32](/bible/luke/18#v31)**  *[[38:34](https://www.youtube.com/watch?v=PsPg5BzShFA&t=2314s)]*
 
 > <sup>[31](/bible/luke/18#v31)</sup> Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
->
-> <sup>[32](/bible/luke/18#v32)</sup> For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
 
 - All things that are written by the prophets concerning the Son of man shall be accomplished: So, this is Christ letting them know like, "Hey, look, everything that's written about me, it has to happen."
+
+> <sup>[32](/bible/luke/18#v32)</sup> For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
 
 - For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on: So, let's go to Psalms chapter 22. Let's go to Psalms chapter 22. Psalms 22 got a lot in it. It's got a lot in it. All right?
 
@@ -312,7 +312,9 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[Psalms 22:1-6](/bible/psalms/22#v1)**  *[[39:38](https://www.youtube.com/watch?v=PsPg5BzShFA&t=2378s)]*
 
 > <sup>[1](/bible/psalms/22#v1)</sup> My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
->
+
+- My God, my God, why hast thou forsaken me?: That's what he said on the cross. Eli, Eli, lama sabachthani? Being translated, "My God, my God, why has thou forsaken me?" That's what Christ said hanging on the cross. He said this. He said Psalm 22:1.
+
 > <sup>[2](/bible/psalms/22#v2)</sup> O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.
 >
 > <sup>[3](/bible/psalms/22#v3)</sup> But thou art holy, O thou that inhabitest the praises of Israel.
@@ -322,8 +324,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 > <sup>[5](/bible/psalms/22#v5)</sup> They cried unto thee, and were delivered: they trusted in thee, and were not confounded.
 >
 > <sup>[6](/bible/psalms/22#v6)</sup> But I am a worm, and no man; a reproach of men, and despised of the people.
-
-- My God, my God, why hast thou forsaken me?: That's what he said on the cross. Eli, Eli, lama sabachthani? Being translated, "My God, my God, why has thou forsaken me?" That's what Christ said hanging on the cross. He said this. He said Psalm 22:1.
 
 - A reproach of men, and despised of the people: That was Christ. The reproach of men, and he was despised of the people. What people? Israel and the Gentiles. Remember the scripture say, "Why do the heathen rage?"
 
@@ -379,12 +379,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 > <sup>[13](/bible/psalms/22#v13)</sup> They gaped upon me with their mouths, as a ravening and a roaring lion.
 >
 > <sup>[14](/bible/psalms/22#v14)</sup> I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
->
+
+- My heart is like wax; it is melted in the midst of my bowels: Because Christ was scared. He was a man, he was getting beat. He was getting beat. Remember they said his sweat was like drops of blood. He asked the Father, take this cup from me. Nevertheless, thy will be done. Verse 14 or verse 15.
+
 > <sup>[15](/bible/psalms/22#v15)</sup> My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
 >
 > <sup>[16](/bible/psalms/22#v16)</sup> For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
-
-- My heart is like wax; it is melted in the midst of my bowels: Because Christ was scared. He was a man, he was getting beat. He was getting beat. Remember they said his sweat was like drops of blood. He asked the Father, take this cup from me. Nevertheless, thy will be done. Verse 14 or verse 15.
 
 - For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet: This is Christ. When it said dogs have compassed me, it's going back to Luke 18 chapter 32, where it said for he shall be delivered unto the Gentiles. Those are those dogs. And shall be mocked and spitefully entreated and spitted on. That was Psalms 22. And also Isaiah 53. These things was meant to happen to Christ.
 
@@ -392,12 +392,12 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[Isaiah 53:3-5](/bible/isaiah/53#v3)**  *[[45:21](https://www.youtube.com/watch?v=PsPg5BzShFA&t=2721s)]*
 
 > <sup>[3](/bible/isaiah/53#v3)</sup> He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.
->
+
+- He is despised and rejected of men; a man of sorrows, and acquainted with grief: Isaiah 53 I'm going to start at 3. This is how Christ was. And he was telling the disciples, "Everything that's written of me has to now come to pass." All of these things have to happen.
+
 > <sup>[4](/bible/isaiah/53#v4)</sup> Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
 >
 > <sup>[5](/bible/isaiah/53#v5)</sup> But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
-
-- He is despised and rejected of men; a man of sorrows, and acquainted with grief: Isaiah 53 I'm going to start at 3. This is how Christ was. And he was telling the disciples, "Everything that's written of me has to now come to pass." All of these things have to happen.
 
 - With his stripes we are healed: All of these things had to happen. Because they were written of Christ. He told them in Luke 18, "Hey, everything that's written of me it has to happen."
 
@@ -446,10 +446,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 **[Isaiah 53:10-11](/bible/isaiah/53#v10)**  *[[51:39](https://www.youtube.com/watch?v=PsPg5BzShFA&t=3099s)]*
 
 > <sup>[10](/bible/isaiah/53#v10)</sup> Yet it pleased the Lord to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.
->
-> <sup>[11](/bible/isaiah/53#v11)</sup> He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
 
 - When thou shalt make his soul an offering for sin: Let's jump back on over to Isaiah 53. Let's go to back to Isaiah 53. "Verse 10. Yet it pleased the Lord to bruise him. He hath put him to grief. When thou make us his soul an offering for sin." Christ's soul was the offering for sin.
+
+> <sup>[11](/bible/isaiah/53#v11)</sup> He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
 
 - For he shall bear their iniquities: Whose iniquities? The iniquities of Israel. How was his soul an offering for sin? Because he sacrificed his life. He was that lamb of God. Let's drive that point home some more.
 
@@ -461,10 +461,10 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 > <sup>[13](/bible/hebrews/9#v13)</sup> For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:
 >
 > <sup>[14](/bible/hebrews/9#v14)</sup> How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
->
-> <sup>[15](/bible/hebrews/9#v15)</sup> And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.
 
 - Who through the eternal Spirit offered himself without spot to God: Let's go to Hebrews chapter 9. Let's start at verse 12. Without spot, meaning without sin. Watch this, this is the point.
+
+> <sup>[15](/bible/hebrews/9#v15)</sup> And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.
 
 - For the redemption of the transgressions that were under the first testament: His death was for those that were under the First Testament. The Lamb of God that forgiveth the sin of the world to take away the sin of the world, that's us. Him coming to lay down his life was for us. Not for everybody.
 
@@ -480,7 +480,11 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 > <sup>[37](/bible/luke/18#v37)</sup> And they told him, that Jesus of Nazareth passeth by.
 >
 > <sup>[38](/bible/luke/18#v38)</sup> And he cried, saying, Jesus, thou Son of David, have mercy on me.
->
+
+- Jesus, thou son of David, have mercy on me: Let's finish out chapter 18. Verse 35. This is another cut to that whole Trinity doctrine. Oh, not Trinity, immaculate conception doctrine. How is he the son of David, but he came from an angel? Come on now. He came from the lineage of David. He said it himself.
+
+- I am the root and the offspring of David: How could he say he's the offspring of David? How you going to be the offspring of David without a father? If you don't come through the lineage, the seed of David. How? He himself said it. That's how you know that Christianity wicked as hell. Christ said, "I am the offspring of a man. I am the son of man." No, you're not. No, you're not. You're not the son of man. You're an angel. You're an angel because I believe it. Nah, that's not how it's supposed to go. Christ himself said this.
+
 > <sup>[39](/bible/luke/18#v39)</sup> And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou Son of David, have mercy on me.
 >
 > <sup>[40](/bible/luke/18#v40)</sup> And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,
@@ -488,12 +492,6 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
 > <sup>[41](/bible/luke/18#v41)</sup> Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight.
 >
 > <sup>[42](/bible/luke/18#v42)</sup> And Jesus said unto him, Receive thy sight: thy faith hath saved thee.
->
-> <sup>[43](/bible/luke/18#v43)</sup> And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.
-
-- Jesus, thou son of David, have mercy on me: Let's finish out chapter 18. Verse 35. This is another cut to that whole Trinity doctrine. Oh, not Trinity, immaculate conception doctrine. How is he the son of David, but he came from an angel? Come on now. He came from the lineage of David. He said it himself.
-
-- I am the root and the offspring of David: How could he say he's the offspring of David? How you going to be the offspring of David without a father? If you don't come through the lineage, the seed of David. How? He himself said it. That's how you know that Christianity wicked as hell. Christ said, "I am the offspring of a man. I am the son of man." No, you're not. No, you're not. You're not the son of man. You're an angel. You're an angel because I believe it. Nah, that's not how it's supposed to go. Christ himself said this.
 
 - Thy faith hath saved thee: So, what was the work? Him calling out to Christ. They said, "Man, shut up." No, that's Jesus Christ. I know he could give me sight. We got to stand on what we believe. Don't be shaken. Don't waver. Don't be lukewarm. You believe that Christ going to be able to do something, believe that he going to do it.
 
@@ -502,6 +500,8 @@ tags: ["15 Minutes w/ The Captains", "christ", "heaven-hell", "money", "salvatio
     > <sup>[16](/bible/revelation/22#v16)</sup> I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
 
     Let me go to Revelations real quick. Revelation chapter 22 verse 16. How could he say he's the offspring of David? How you going to be the offspring of David without a father?
+
+> <sup>[43](/bible/luke/18#v43)</sup> And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.
 
 
 ## In Closing

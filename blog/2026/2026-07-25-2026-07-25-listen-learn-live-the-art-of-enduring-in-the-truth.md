@@ -221,20 +221,23 @@ Reading from an on-screen chart of the elements in soil and in the human body  *
 
 **[Ecclesiasticus 37:12-16](/bible/sirach/37#v12)**  *[[1:13:42](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=4422s)]*
 
+- Be continually with a godly man, whom thou knowest to keep the commandments of the Lord. Not a man that appears to be godly, but one you know keeps the laws of God; and if you are tethered to wisdom, you will have a discerning spirit to know that. Whose mind is according to thy mind: your mind has to be a godly mind too; can two walk together except they be agreed? And he will sorrow with thee if thou shalt miscarry: a godly man fights with you to help you. I have to see the fight in you; if I see no fight, I wash my hands with a clear conscience.
+
 > <sup>[12](/bible/sirach/37#v12)</sup> But be continually with a godly man, whom thou knowest to keep the commandments of the Lord, whose, mind is according to thy mind, and will sorrow with thee, if thou shalt miscarry.
 >
 > <sup>[13](/bible/sirach/37#v13)</sup> And let the counsel of thine own heart stand: for there is no man more faithful unto thee than it.
->
+
+- And let the counsel of thine own heart stand: for there is no man more faithful unto thee than it. Nobody is more faithful to you than your own mind; but if you are not a godly man, your thought process is corrupted, and your decisions will not be made right. Do not come to counsel with your mind already made up; you waste everybody's time.
+
+- For a man's mind is sometime wont to tell him more than seven watchmen that sit above in an high tower. The watchmen see from a vantage point; you see your own life from ground level. A brother's counsel may be good from where he sits and still not fit what you are walking through, and brothers can be overbearing with counsel. So hear it from a neutral place.
+
+- And above all this pray to the Most High, that he will direct thy way in truth. You listen to the counsel, you process it, then you go to God, and God will direct your way. Let reason go before every enterprise, and counsel before every action.
+
 > <sup>[14](/bible/sirach/37#v14)</sup> For a man’s mind is sometime wont to tell him more than seven watchmen, that sit above in an high tower.
 >
 > <sup>[15](/bible/sirach/37#v15)</sup> And above all this pray to the most High, that he will direct thy way in truth.
 >
 > <sup>[16](/bible/sirach/37#v16)</sup> Let reason go before every enterprize, and counsel before every action.
-
-- Be continually with a godly man, whom thou knowest to keep the commandments of the Lord. Not a man that appears to be godly, but one you know keeps the laws of God; and if you are tethered to wisdom, you will have a discerning spirit to know that. Whose mind is according to thy mind: your mind has to be a godly mind too; can two walk together except they be agreed? And he will sorrow with thee if thou shalt miscarry: a godly man fights with you to help you. I have to see the fight in you; if I see no fight, I wash my hands with a clear conscience.
-- And let the counsel of thine own heart stand: for there is no man more faithful unto thee than it. Nobody is more faithful to you than your own mind; but if you are not a godly man, your thought process is corrupted, and your decisions will not be made right. Do not come to counsel with your mind already made up; you waste everybody's time.
-- For a man's mind is sometime wont to tell him more than seven watchmen that sit above in an high tower. The watchmen see from a vantage point; you see your own life from ground level. A brother's counsel may be good from where he sits and still not fit what you are walking through, and brothers can be overbearing with counsel. So hear it from a neutral place.
-- And above all this pray to the Most High, that he will direct thy way in truth. You listen to the counsel, you process it, then you go to God, and God will direct your way. Let reason go before every enterprise, and counsel before every action.
 
 **[James 1:17-18](/bible/james/1#v17)**  *[[1:19:25](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=4765s)]*
 
@@ -444,6 +447,8 @@ Reading from an on-screen KJV definition of justify  *[[1:41:30](https://www.you
 
 **[2 Chronicles 7:14-20](/bible/2-chronicles/7#v14)**  *[[2:17:18](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=8238s)]*
 
+- If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land. God does not hear the prayer of sinners; but when we turn back, his eyes and ears are open to the prayer made in this place, and his heart is there perpetually. The question people always ask, how do you all do this, how do you mobilize: because we keep God's commandments and believe on Christ. That is the whole recipe.
+
 > <sup>[14](/bible/2-chronicles/7#v14)</sup> If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
 >
 > <sup>[15](/bible/2-chronicles/7#v15)</sup> Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place.
@@ -451,15 +456,14 @@ Reading from an on-screen KJV definition of justify  *[[1:41:30](https://www.you
 > <sup>[16](/bible/2-chronicles/7#v16)</sup> For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually.
 >
 > <sup>[17](/bible/2-chronicles/7#v17)</sup> And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;
->
+
+- If thou wilt walk before me, as David thy father walked: did David not sin? He did, but he repented, he changed, and he was called a friend of God. After you get right, then you teach transgressors thy ways, as Psalms 51 says: you go to the fatherless and the widows and teach them.
+
 > <sup>[18](/bible/2-chronicles/7#v18)</sup> Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man to be ruler in Israel.
 >
 > <sup>[19](/bible/2-chronicles/7#v19)</sup> But if ye turn away, and forsake my statutes and my commandments, which I have set before you, and shall go and serve other gods, and worship them;
 >
 > <sup>[20](/bible/2-chronicles/7#v20)</sup> Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it to be a proverb and a byword among all nations.
-
-- If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land. God does not hear the prayer of sinners; but when we turn back, his eyes and ears are open to the prayer made in this place, and his heart is there perpetually. The question people always ask, how do you all do this, how do you mobilize: because we keep God's commandments and believe on Christ. That is the whole recipe.
-- If thou wilt walk before me, as David thy father walked: did David not sin? He did, but he repented, he changed, and he was called a friend of God. After you get right, then you teach transgressors thy ways, as Psalms 51 says: you go to the fatherless and the widows and teach them.
 
 <div class="reading">
 
@@ -500,6 +504,10 @@ Reading from a definition of the word forsake  *[[2:19:49](https://www.youtube.c
 
 **[Psalms 50:16-23](/bible/psalms/50#v16)**  *[[2:27:59](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=8879s)]*
 
+- But unto the wicked God saith, What hast thou to do to declare my statutes? Seeing thou hatest instruction, and castest my words behind thee. This is calling Lord, Lord, but hating to be instructed; hardened now.
+
+- When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers. You are supposed to resist the devil, not entertain the devil. Thou givest thy mouth to evil, and thy tongue frameth deceit: walking dishonestly, handling the word of God dishonestly.
+
 > <sup>[16](/bible/psalms/50#v16)</sup> But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 >
 > <sup>[17](/bible/psalms/50#v17)</sup> Seeing thou hatest instruction, and castest my words behind thee.
@@ -511,14 +519,11 @@ Reading from a definition of the word forsake  *[[2:19:49](https://www.youtube.c
 > <sup>[20](/bible/psalms/50#v20)</sup> Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
 >
 > <sup>[21](/bible/psalms/50#v21)</sup> These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
->
-> <sup>[22](/bible/psalms/50#v22)</sup> Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
->
-> <sup>[23](/bible/psalms/50#v23)</sup> Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God.
 
-- But unto the wicked God saith, What hast thou to do to declare my statutes? Seeing thou hatest instruction, and castest my words behind thee. This is calling Lord, Lord, but hating to be instructed; hardened now.
-- When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers. You are supposed to resist the devil, not entertain the devil. Thou givest thy mouth to evil, and thy tongue frameth deceit: walking dishonestly, handling the word of God dishonestly.
 - Thou sittest and speakest against thy brother; thou slanderest thine own mother's son. These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes. Just because he did not act right away does not mean you got away with it.
+
+> <sup>[22](/bible/psalms/50#v22)</sup> Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
+
 - Now consider this, ye that forget God: this is talking about Israel, because the other nations never knew God to forget him. Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God; and the salvation is to Israel.
 
   Precepts:
@@ -535,6 +540,8 @@ Reading from a definition of the word forsake  *[[2:19:49](https://www.youtube.c
 
     A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. Friend and brother are synonymous in this teaching; the slander of Psalms 50:20 lands on both.
 
+> <sup>[23](/bible/psalms/50#v23)</sup> Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God.
+
 **[1 Corinthians 12:28-31](/bible/1-corinthians/12#v28)**  *[[2:32:32](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=9152s)]*
 
 > <sup>[28](/bible/1-corinthians/12#v28)</sup> And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
@@ -550,19 +557,20 @@ Reading from a definition of the word forsake  *[[2:19:49](https://www.youtube.c
 **[1 Samuel 12:20-25](/bible/1-samuel/12#v20)**  *[[2:33:44](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=9224s)]*
 
 > <sup>[20](/bible/1-samuel/12#v20)</sup> And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the Lord, but serve the Lord with all your heart;
->
+
+- Fear not: ye have done all this wickedness: yet turn not aside from following the Lord, but serve the Lord with all your heart. It pleased the Lord to make you his people; he will not forsake his people for his great name's sake, but you have to turn to him.
+
 > <sup>[21](/bible/1-samuel/12#v21)</sup> And turn ye not aside: for then should ye go after vain things, which cannot profit nor deliver; for they are vain.
 >
 > <sup>[22](/bible/1-samuel/12#v22)</sup> For the Lord will not forsake his people for his great name’s sake: because it hath pleased the Lord to make you his people.
 >
 > <sup>[23](/bible/1-samuel/12#v23)</sup> Moreover as for me, God forbid that I should sin against the Lord in ceasing to pray for you: but I will teach you the good and the right way:
->
+
+- God forbid that I should sin against the Lord in ceasing to pray for you: but I will teach you the good and the right way. That is the charge: teach the people the good and the right way to walk, and the people have to be willing to listen. But if ye shall still do wickedly, ye shall be consumed. The teacher's hands are clean when he has done his part; what you do with it is on you.
+
 > <sup>[24](/bible/1-samuel/12#v24)</sup> Only fear the Lord, and serve him in truth with all your heart: for consider how great things he hath done for you.
 >
 > <sup>[25](/bible/1-samuel/12#v25)</sup> But if ye shall still do wickedly, ye shall be consumed, both ye and your king.
-
-- Fear not: ye have done all this wickedness: yet turn not aside from following the Lord, but serve the Lord with all your heart. It pleased the Lord to make you his people; he will not forsake his people for his great name's sake, but you have to turn to him.
-- God forbid that I should sin against the Lord in ceasing to pray for you: but I will teach you the good and the right way. That is the charge: teach the people the good and the right way to walk, and the people have to be willing to listen. But if ye shall still do wickedly, ye shall be consumed. The teacher's hands are clean when he has done his part; what you do with it is on you.
 
 **[Psalms 25:2-5](/bible/psalms/25#v2)**  *[[2:35:41](https://www.youtube.com/watch?v=wTuOGE-zMSs&t=9341s)]*
 

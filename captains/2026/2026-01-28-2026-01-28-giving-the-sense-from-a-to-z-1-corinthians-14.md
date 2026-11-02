@@ -32,30 +32,30 @@ tags: ["15 Minutes w/ The Captains", "deceit", "prophecy", "wisdom"]
 **[Acts 2:1-8](/bible/acts/2#v1)**  *[[4:04](https://www.youtube.com/watch?v=TesftQCyhag&t=244s)]*
 
 > <sup>[1](/bible/acts/2#v1)</sup> And when the day of Pentecost was fully come, they were all with one accord in one place.
->
-> <sup>[2](/bible/acts/2#v2)</sup> And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.
->
-> <sup>[3](/bible/acts/2#v3)</sup> And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.
->
-> <sup>[4](/bible/acts/2#v4)</sup> And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.
->
-> <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
->
-> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
->
-> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
->
-> <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
 
 - And when the day of Pentecost was fully come: This is what Paul is referring to when he speaks about charity, spiritual gifts, but rather that ye may prophesy. Here's a spiritual gift, is to be able to speak in what is tongues. So let's clarify what tongues are.
 
+> <sup>[2](/bible/acts/2#v2)</sup> And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.
+>
+> <sup>[3](/bible/acts/2#v3)</sup> And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.
+
 - Cloven tongues, like as of fire: So it's speaking about tongues here. What Christianity has confused is about tongues. All right? And I'll show you a video here in a second about that.
+
+> <sup>[4](/bible/acts/2#v4)</sup> And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.
 
 - And began to speak with other tongues as the spirit gave them utterance: So, you read back in 1 Corinthians 14 where it talks about spiritual gifts. One of those spiritual gifts were to speak in tongues. Let's drop down a little bit lower so we can see what it means about tongues.
 
+> <sup>[5](/bible/acts/2#v5)</sup> And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
+>
+> <sup>[6](/bible/acts/2#v6)</sup> Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
+
 - Every man heard them speak in his own language: So those tongues were them speaking in their language. Who are the people that they were speaking to? In verse five, and there were dwelling at Jerusalem Jews, devout men out of every nation under heaven. So they're speaking to Jews that were from other countries that did not speak the Lashawan Kodesh, as what we've heard it been called, or the Aramaic that would have been spoken during the time that Christ and the Israelites were in Israel. They did not speak that language because they were from other countries. When you jump down to verse nine, it then tells you what countries that these Jews came from. And they spoke the languages of their country. But the spiritual gift that was endowed upon them by Christ was that they would be able to speak their language, and the people, or the Jews from those other countries, understand them.
 
+> <sup>[7](/bible/acts/2#v7)</sup> And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galileans?
+
 - Behold, are not all these which speak Galileans: For those that don't know, Galilee is in northern Israel, right? That's where these disciples lived at. Peter and all of them is where they had lived at. But they were from the tribe of Judah that Christ went and got. But they lived in north Israel, which is in Israel.
+
+> <sup>[8](/bible/acts/2#v8)</sup> And how hear we every man in our own tongue, wherein we were born?
 
 - And how hear we every man in our own tongue, wherein we were born: So the spiritual gift is not being able to speak in a language that nobody understands. The spiritual gift was to be able to speak a language that you did not grow up in or were accustomed to, but you were able to speak it and they understood it. All right, I'm going to show you this video here real quick of what it is not.
 
@@ -97,14 +97,14 @@ Reading from Definition of glossolalia, shown and read on air (source not named)
 > <sup>[3](/bible/genesis/11#v3)</sup> And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.
 >
 > <sup>[4](/bible/genesis/11#v4)</sup> And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.
->
+
+- Let us make us a name, lest we be scattered abroad upon the face of the whole earth: So the mindset is, this is post flood. And they had this information passed down throughout ages that there was a flood that destroyed everyone. So the mindset of the leader, which was Nimrod at this time, is let us outsmart God. Basically, let us be able to survive in our evil, build a tower.
+
 > <sup>[5](/bible/genesis/11#v5)</sup> And the Lord came down to see the city and the tower, which the children of men builded.
 >
 > <sup>[6](/bible/genesis/11#v6)</sup> And the Lord said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.
 >
 > <sup>[7](/bible/genesis/11#v7)</sup> Go to, let us go down, and there confound their language, that they may not understand one another’s speech.
-
-- Let us make us a name, lest we be scattered abroad upon the face of the whole earth: So the mindset is, this is post flood. And they had this information passed down throughout ages that there was a flood that destroyed everyone. So the mindset of the leader, which was Nimrod at this time, is let us outsmart God. Basically, let us be able to survive in our evil, build a tower.
 
 - Go to, let us go down, and there confound their language: Language. So God is the creator of all languages. So whenever you speak a language that someone else does not speak, you edify yourself, and the Lord, because he understands them. He understands the languages. You're not edifying him, but he understands you in that language because he's the creator of all of these languages. All right? But you do not edify the people that do not know this language.
 
@@ -183,10 +183,10 @@ Reading from Definition of prophecy and prophesy, shown and read on air (source 
 **[1 Corinthians 14:5-6](/bible/1-corinthians/14#v5)**  *[[30:03](https://www.youtube.com/watch?v=TesftQCyhag&t=1803s)]*
 
 > <sup>[5](/bible/1-corinthians/14#v5)</sup> I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.
->
-> <sup>[6](/bible/1-corinthians/14#v6)</sup> Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
 
 - I would that ye all spake with tongues, but rather that ye prophesied: So he's saying, I wish you all spoke languages, because the more people that spoke multiple languages, the more the glorying of Christ, the edifying of Christ could be done, and it wouldn't be such a burden on him to go and travel so many places, because what he did in all these places was multiplied. Okay? But he would rather that you could just prophesy, edify, exhort in that one language that you spoke. That was better than being able to have the gift of speaking a bunch of different languages and nobody understand you. Speaking one, you good, as long as it's according to prophecy, right?
+
+> <sup>[6](/bible/1-corinthians/14#v6)</sup> Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
 
 - Except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine: What do you want, is what he's saying. Do you want me to impress you with man's wisdom, that I can speak a bunch of languages, or would you rather me give you understanding of the Lord Jesus Christ? Because what is happening today in the Christian church is that our people are being duped and mesmerized by somebody that has a little knowledge in Greek. So, oh man, he know Greek. Oh, he know what he's talking about. Not necessarily. No, he don't. Oh, he can speak in this language, he's well learned. That don't mean he know what he's talking about. Is he giving you understanding, where you can understand what he's saying? Cuz that's the main goal.
 
@@ -204,13 +204,13 @@ Reading from Definition of prophecy and prophesy, shown and read on air (source 
 
 **[1 Corinthians 14:7-8](/bible/1-corinthians/14#v7)**  *[[35:10](https://www.youtube.com/watch?v=TesftQCyhag&t=2110s)]*
 
-> <sup>[7](/bible/1-corinthians/14#v7)</sup> And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?
->
-> <sup>[8](/bible/1-corinthians/14#v8)</sup> For if the trumpet give an uncertain sound, who shall prepare himself to the battle?
-
 - Or by prophesying: So let's go back to 1 Corinthians chapter 14, because that's what he mentioned in six. In verse six: do you want me to speak a bunch of languages and you don't understand, or is it more important for me to give you revelation, by knowledge and prophesying? That's what he says in verse six, towards the bottom of it.
 
+> <sup>[7](/bible/1-corinthians/14#v7)</sup> And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?
+
 - And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped: He's talking about musical instruments. Okay? So, it has to flow together. It has to make sense to the ears for you to be able to receive it. And we need to stop getting caught up in: oh, look at how spiritual he is. What'd he say? I don't know, he talking to God. You've been tricked, buddy. You don't know what he's talking about there. It's made up words up there. It's literally made up. That's glossolalia. You've been deceived. You are impressed by man's wisdom. That's not what it's about.
+
+> <sup>[8](/bible/1-corinthians/14#v8)</sup> For if the trumpet give an uncertain sound, who shall prepare himself to the battle?
 
 - For if the trumpet give an uncertain sound, who shall prepare himself to the battle: That goes all the way back to Numbers chapter 10, about the trumpets that were made, that there was a distinction in them. Let's read that real quick. It says, how would you be able to prepare yourself for the battle? This goes all the way back to the law. Paul was a master of the law. That's why we have to study it.
 
@@ -309,12 +309,12 @@ Reading from Definition of prophecy and prophesy, shown and read on air (source 
 **[1 Corinthians 14:9-10](/bible/1-corinthians/14#v9)**  *[[1:00:30](https://www.youtube.com/watch?v=TesftQCyhag&t=3630s)]*
 
 > <sup>[9](/bible/1-corinthians/14#v9)</sup> So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air.
->
-> <sup>[10](/bible/1-corinthians/14#v10)</sup> There are, it may be, so many kinds of voices in the world, and none of them is without signification.
 
 - So likewise ye, except ye utter by the tongue words easy to be understood: Let me go back now to 1 Corinthians chapter 14. About to wrap it up here. I'mma read verse 9 and 10, and we'll stop at verse 10. So tongue is going into language that can be understood, not what we learned in church. That's called, as I brought it up for those that may came in late, glossolalia. Okay. The phenomenon of apparently speaking in an unknown language, especially in religious worship. It is practiced especially by Pentecostal and charismatic Christians. That is not what Paul was saying about speaking in tongues. As we just read in verse 9, tongue words easy to be understood. You have to understand it. And it says here, glossolalia has been considered by many to be abnormal, and those who practice it have been thought to have been mentally ill. That's not what Paul was talking about in 1 Corinthians 14. It's not what was going down, brothers and sisters. That's not it.
 
 - How shall it be known what is spoken? for ye shall speak into the air: So you have to understand the language. You just talk it.
+
+> <sup>[10](/bible/1-corinthians/14#v10)</sup> There are, it may be, so many kinds of voices in the world, and none of them is without signification.
 
 - There are, it may be, so many kinds of voices in the world, and none of them is without signification: There's many languages. There's many sounds in the world. There's many languages, but they all give an understanding. When you hear a banging going on constantly, you know that's a hammer being done. That sound gives you understanding. Something is being done with that hammer. All right? So the same way, if you hear screeching tires, that sound edifies: oh, a car is peeling off. Okay? You hear a cow moo: oh, that's a cow doing its thing. If you hear a lion moo, wake up. You're in a dream. It's a dream. If you hear a lion moo, wake your ass up. You dreaming. Wake up. Tell yourself in your dream: what the hell just happened? Wake up. Oh, what the hell? A cow moo? That ain't supposed to happen.
 
