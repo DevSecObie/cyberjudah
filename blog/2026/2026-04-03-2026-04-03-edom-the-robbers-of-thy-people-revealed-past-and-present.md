@@ -2,7 +2,7 @@
 title: "Edom: The Robbers of thy people revealed past and present"
 slug: "2026/2026-04-03-edom-the-robbers-of-thy-people-revealed-past-and-present"
 date: "2026-04-03"
-teacher: ""
+teacher: "Deacon Eythan"
 description: "IUIC in the ClassRoom · 2026-04-03"
 tags: ["IUIC in the ClassRoom", "edom-esau", "europe-dark-ages", "greece", "so-called-jews"]
 ---

@@ -2,7 +2,7 @@
 title: "LEAVEN: THE ROOT OF BITTERNESS PART 2"
 slug: "2026/2026-04-18-leaven-the-root-of-bitterness-part-2"
 date: "2026-04-18"
-teacher: ""
+teacher: "Deacon Malachiyah"
 description: "IUIC in the ClassRoom · 2026-04-18"
 tags: ["IUIC in the ClassRoom", "anger", "bitterness", "gossip", "love", "mercy", "prayer", "satan"]
 ---

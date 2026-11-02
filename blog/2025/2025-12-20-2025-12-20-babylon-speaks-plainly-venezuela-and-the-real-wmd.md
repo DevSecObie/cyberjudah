@@ -2,7 +2,7 @@
 title: "Babylon Speaks Plainly: Venezuela and the Real WMD"
 slug: "2025/2025-12-20-babylon-speaks-plainly-venezuela-and-the-real-wmd"
 date: "2025-12-20"
-teacher: "Deacon Yashua"
+teacher: "Deacon Yoshua"
 description: "IUIC in the ClassRoom · 2025-12-20"
 tags: ["IUIC in the ClassRoom", "america-babylon", "money", "pride", "so-called-jews", "unity"]
 ---
@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "america-babylon", "money", "pride", "so-called-
 
 ## Introduction
 
-*[[9:53](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=593s)]* Deacon Yashua reads the pressure on Venezuela through Habakkuk 2, Micah 2 and Revelation 18. America is modern Babylon, the proud man who gathers all nations and is never satisfied. The class looks at the strikes on boats in the Caribbean, the order classing fentanyl as a weapon of mass destruction, and the claim that Venezuela 'stole' American oil. It sets them beside Iraq, the scriptures on crafty counsel, and those who covet fields and take them by violence. It then explains how Bretton Woods and the dollar made the United States the world's banker, why Israel in the Americas and Africa lives under economic violence, and why only the Redeemer can restore what was robbed and spoiled.
+*[[9:53](https://www.youtube.com/watch?v=ExR7Cd5rqyQ&t=593s)]* Deacon Yoshua reads the pressure on Venezuela through Habakkuk 2, Micah 2 and Revelation 18. America is modern Babylon, the proud man who gathers all nations and is never satisfied. The class looks at the strikes on boats in the Caribbean, the order classing fentanyl as a weapon of mass destruction, and the claim that Venezuela 'stole' American oil. It sets them beside Iraq, the scriptures on crafty counsel, and those who covet fields and take them by violence. It then explains how Bretton Woods and the dollar made the United States the world's banker, why Israel in the Americas and Africa lives under economic violence, and why only the Redeemer can restore what was robbed and spoiled.
 
 ## Scriptures Opened
 

@@ -18,7 +18,7 @@ tags: ["IUIC in the ClassRoom", "deceit", "false-religion", "leadership", "purpo
 
 ## Introduction
 
-*[[27:14](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=1634s)]* Man Up Mondays from IUIC Birmingham, with a captain and an officer filling in for Captain Joel, on hypocrisy: Pastor Gino Jennings (the captain keeps calling him "Gina Jenkins"), who called the Israelites bums and said the leaders send their men to do the dirty work, then stayed inside when the brothers pulled up to his church and his convention. Earlier that day on Escaping the Plantation, Captain Gedaliyah answered his claim that the Israelites have no jobs.
+*[[27:14](https://www.youtube.com/watch?v=zFYDv_cDdZs&t=1634s)]* Man Up Mondays from IUIC Birmingham, with a captain and an officer filling in for Captain Joel, on hypocrisy: Pastor Gino Jennings (the captain keeps calling him "Gina Jenkins"), who called the Israelites bums and said the leaders send their men to do the dirty work, then stayed inside when the brothers pulled up to his church and his convention. Earlier that day on Escaping the Plantation, Captain Gedaliah answered his claim that the Israelites have no jobs.
 
 ## Scriptures Opened
 

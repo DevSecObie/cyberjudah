@@ -347,7 +347,7 @@ tags: ["IUIC in the ClassRoom", "leadership", "marriage-family", "sexual-purity"
 - He that hateth reproof is brutish: ask leadership how he handles correction, because a man who will not take correction from the men over him has a problem with God and the order God set up, and then who are you.
 
 
-*[[2:01:24](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7284s)]* **In The News: Deacon Yashua on proving: you are not the husband yet, so if you are constantly moulding the lump of clay you are doing too much; proving is sampling the soil** — Everything you found out got you to the altar; what you say I do to is what you do not know, so prove that much harder.
+*[[2:01:24](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7284s)]* **In The News: Deacon Yoshua on proving: you are not the husband yet, so if you are constantly moulding the lump of clay you are doing too much; proving is sampling the soil** — Everything you found out got you to the altar; what you say I do to is what you do not know, so prove that much harder.
 
 *[[2:03:45](https://www.youtube.com/watch?v=GEZnJtTw5Bs&t=7425s)]* **In The News: Psychology Today's percentages for why marriages fail in America, from household labour to lack of commitment at seventy-five per cent** — Marrying too young, conflict, infidelity and a commitment that is optional end most marriages here, and a bad marriage usually carries several of them at once.
 

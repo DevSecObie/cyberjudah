@@ -3,7 +3,7 @@ title: "Daily Bread for a Dying Man"
 slug: "2026/2026-06-13-daily-bread-for-a-dying-man"
 date: "2026-06-13"
 description: "IUIC in the ClassRoom · 2026-06-13"
-teacher: "Deacon Yashua"
+teacher: "Deacon Yoshua"
 tags: ["IUIC in the ClassRoom", "prayer", "the-word"]
 ---
 
@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "prayer", "the-word"]
 
 ## Introduction
 
-Deacon Yashua teaches this Sabbath morning class. I was meditating on the movement that we have had recently. People leave all the time; people leave jobs; people quit life. So whenever I see movement, it does not faze me. But especially when certain people who appear like they are grounded and rooted leave, and you hear the reasons that they state for leaving, it starts making you think. I started to examine how it is that so many of us get to the point where we go off in our understanding. Today's class will also explain why some of us do not even grow.
+Deacon Yoshua teaches this Sabbath morning class. I was meditating on the movement that we have had recently. People leave all the time; people leave jobs; people quit life. So whenever I see movement, it does not faze me. But especially when certain people who appear like they are grounded and rooted leave, and you hear the reasons that they state for leaving, it starts making you think. I started to examine how it is that so many of us get to the point where we go off in our understanding. Today's class will also explain why some of us do not even grow.
 
 Every day, whether we realize it or not, there are two processes happening within you at the same time. From the day you are born, you are on a path to death: you peak, and then everything starts to break down. There is a daily decay that happens, not just physically but in this walk spiritually. The flesh does not stand still, the cares of this world are always pressing, temptations always rise, and sin is always deceptive. If you leave that alone, the natural man does not drift toward God; he drifts away from him. At the same time, if you are a repenting Israelite, there is a process of daily renewal in the spirit. A lot of us think we repented and we are done, but all these things constantly pressing you mean you have to counteract them.
 

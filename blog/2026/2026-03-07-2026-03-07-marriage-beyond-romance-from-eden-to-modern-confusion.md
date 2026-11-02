@@ -2,7 +2,7 @@
 title: "Marriage Beyond Romance: From Eden to Modern Confusion"
 slug: "2026/2026-03-07-marriage-beyond-romance-from-eden-to-modern-confusion"
 date: "2026-03-07"
-teacher: "Deacon Yashua"
+teacher: "Deacon Yoshua"
 description: "IUIC in the ClassRoom · 2026-03-07"
 tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 ---
@@ -17,7 +17,7 @@ tags: ["IUIC in the ClassRoom", "marriage-family", "women"]
 
 ## Introduction
 
-*[[13:33](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=813s)]* Marriage beyond romance, from Eden to modern confusion. Deacon Yashua opens with a hot take on Iran and the signs: prophecy should move Israel to correction, not entertain it, and if the days are being shortened then marriage and household order cannot be treated casually. He then lays out how God instituted marriage as a covenant of order and responsibility, how the forefathers' marriages were built on mission rather than attraction, and how every romance-driven story in scripture documents its cost. Romance itself is a Roman word, and kneeling, rings, the white dress, the wedding industry, and the honeymoon are cultural additions. The class closes with the husband's provision, leadership, and integrity, and the wife's unconditional submission and reverence.
+*[[13:33](https://www.youtube.com/watch?v=zEm9Tb1jLDg&t=813s)]* Marriage beyond romance, from Eden to modern confusion. Deacon Yoshua opens with a hot take on Iran and the signs: prophecy should move Israel to correction, not entertain it, and if the days are being shortened then marriage and household order cannot be treated casually. He then lays out how God instituted marriage as a covenant of order and responsibility, how the forefathers' marriages were built on mission rather than attraction, and how every romance-driven story in scripture documents its cost. Romance itself is a Roman word, and kneeling, rings, the white dress, the wedding industry, and the honeymoon are cultural additions. The class closes with the husband's provision, leadership, and integrity, and the wife's unconditional submission and reverence.
 
 ## Scriptures Opened
 

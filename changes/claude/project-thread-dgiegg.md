@@ -1,0 +1,5 @@
+- Teacher names from the class outlines (Obie 2026-11-02: "Use all of the names used in the outline along with their dates, those are accurate"):
+  - Recordings without notes (the "read in class" moments under each verse) now take the teacher from the class outline in data/sources/r2-class-teachers.tsv, over a name the captions picked up, and the outline's date when the recording has none. A recording filed under two teachers is left alone, and an admin row in class-teachers.tsv still wins. Spellings follow data/names.tsv.
+  - 41 class notes take their outline teacher: 35 that had none (e.g. The Mercy and Humility of King Manasseh, Deacon Eythan), Deacon Yashua to Deacon Yoshua (4), Captain Shemiah to Captain Shemaiah, and Cyber Warfare: The Mouth of the Beast from Deacon Malachi to Deacon Malachiyah (its artwork and outline both say Malachiyah).
+  - Note dates are unchanged: they match the YouTube broadcast, while an outline is often saved a day or a week after the class.
+- data/names.tsv: Deacon Yashua and Deacon Yeshua are Deacon Yoshua; Captain Gedaliyah is Captain Gedaliah; Captain Zaccai is Zakai. Nine notes respelled by `node scripts/fix-names.mjs`.

@@ -2,7 +2,7 @@
 title: "Prophesy From Pain to Peace"
 slug: "2026/2026-03-15-prophesy-from-pain-to-peace"
 date: "2026-03-15"
-teacher: ""
+teacher: "Bishop Nathanyel"
 description: "IUIC in the ClassRoom · 2026-03-15"
 tags: ["IUIC in the ClassRoom", "deceit", "war"]
 ---
